@@ -1758,7 +1758,7 @@
 | **mruby** | 3.3.0 | Lightweight implementation of the Ruby language | https://mruby.org/ |
 | **mruby-static** | 3.3.0 | Static libraries for mruby | https://mruby.org/ |
 | **msmtp** | 1.8.28 | Lightweight SMTP client | https://marlam.de/msmtp/ |
-| **mtd-utils** | 2.2.1 | Utilities for dealing with MTD devices | http://www.linux-mtd.infradead.org/ |
+| **mtd-utils** | 2.3.0 | Utilities for dealing with MTD devices | http://www.linux-mtd.infradead.org/ |
 | **mtools** | 4.0.48 | Tool for manipulating FAT images | https://www.gnu.org/software/mtools/ |
 | **mu** | 1.12.8 | Maildir indexer/searcher and Emacs client (mu4e) | https://www.djcbsoftware.nl/code/mu/ |
 | **muchsync** | 7-1 | Synchronize notmuch mail across machines | http://www.muchsync.org/ |
