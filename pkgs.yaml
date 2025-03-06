@@ -2203,7 +2203,7 @@
   Description: The Forth implementation of the GNU project
   Homepage: https://www.gnu.org/software/gforth/
 - Package: gh
-  Version: 2.67.0
+  Version: 2.68.0
   Description: GitHub’s official command line tool
   Homepage: https://cli.github.com/
 - Package: ghc
@@ -7683,11 +7683,11 @@
   Description: GNU Parallel is a shell tool for executing jobs in parallel using one or more machines
   Homepage: https://www.gnu.org/software/parallel/
 - Package: pari
-  Version: 2.17.1
+  Version: 2.17.2
   Description: A computer algebra system designed for fast computations in number theory
   Homepage: https://pari.math.u-bordeaux.fr/
 - Package: pari-static
-  Version: 2.17.1
+  Version: 2.17.2
   Description: Static libraries for pari
   Homepage: https://pari.math.u-bordeaux.fr/
 - Package: parted
@@ -7971,7 +7971,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pocketbase
-  Version: 0.25.8
+  Version: 0.25.9
   Description: An open source Go backend
   Homepage: https://github.com/pocketbase/pocketbase
 - Package: poke
@@ -9047,7 +9047,7 @@
   Description: Implementation of a web server that can export arbitrary command line tools to a web based terminal emulator
   Homepage: https://github.com/shellinabox/shellinabox
 - Package: shfmt
-  Version: 3.10.0
+  Version: 3.11.0
   Description: A shell parser and formatter
   Homepage: https://github.com/mvdan/sh
 - Package: shiori
