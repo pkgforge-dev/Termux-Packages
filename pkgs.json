@@ -6307,7 +6307,7 @@
   },
   {
     "Package": "libgrpc",
-    "Version": "1.70.1-2",
+    "Version": "1.71.0",
     "Description": "High performance, open source, general RPC framework that puts mobile and HTTP/2 first",
     "Homepage": "https://grpc.io/"
   },
@@ -12763,7 +12763,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "3.21.0",
+    "Version": "3.22.0",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -13201,7 +13201,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.9.9",
+    "Version": "0.9.10",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -15037,7 +15037,7 @@
   },
   {
     "Package": "typst",
-    "Version": "0.13.0",
+    "Version": "0.13.1",
     "Description": "A new markup-based typesetting system that is powerful and easy to learn",
     "Homepage": "https://typst.app/"
   },
@@ -15109,13 +15109,13 @@
   },
   {
     "Package": "unicorn",
-    "Version": "2.1.2",
+    "Version": "2.1.3",
     "Description": "Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework",
     "Homepage": "https://www.unicorn-engine.org/"
   },
   {
     "Package": "unicorn-static",
-    "Version": "2.1.2",
+    "Version": "2.1.3",
     "Description": "Static libraries for unicorn",
     "Homepage": "https://www.unicorn-engine.org/"
   },
@@ -15481,7 +15481,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "0.9.99.68",
+    "Version": "0.9.99.69",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://vtm.netxs.online/"
   },
