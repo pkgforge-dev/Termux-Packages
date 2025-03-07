@@ -1194,7 +1194,7 @@
 | **libmnl-static** | 1.0.5 | Static libraries for libmnl | https://www.netfilter.org/projects/libmnl/ |
 | **libmodplug** | 0.8.9.1.r461 | The ModPlug mod file playing library | http://modplug-xmms.sourceforge.net/ |
 | **libmodplug-static** | 0.8.9.1.r461 | Static libraries for libmodplug | http://modplug-xmms.sourceforge.net/ |
-| **libmosquitto** | 2.0.20 | MQTT library | https://mosquitto.org/ |
+| **libmosquitto** | 2.0.21 | MQTT library | https://mosquitto.org/ |
 | **libmount** | 2.40.2-3 | Library for (un)mounting filesystems | https://en.wikipedia.org/wiki/Util-linux |
 | **libmp3lame** | 3.100-6 | High quality MPEG Audio Layer III (MP3) encoder | https://lame.sourceforge.io/ |
 | **libmp3lame-static** | 3.100-6 | Static libraries for libmp3lame | https://lame.sourceforge.io/ |
@@ -1740,7 +1740,7 @@
 | **morse2ascii** | 0.2.1 | A tool to decode the morse codes from a PCM WAV file as well as from text and RAW PCM files | https://packages.debian.org/sid/morse2ascii |
 | **mosh** | 1.4.0-12 | Mobile shell that supports roaming and intelligent local echo | https://mosh.org |
 | **mosh-perl** | 1.4.0-12 | The mosh Perl script | https://mosh.org |
-| **mosquitto** | 2.0.20 | MQTT version 3.1/3.1.1 compatible message broker and clients | https://mosquitto.org/ |
+| **mosquitto** | 2.0.21 | MQTT version 3.1/3.1.1 compatible message broker and clients | https://mosquitto.org/ |
 | **most** | 5.2.0 | A terminal pager similar to 'more' and 'less' | http://www.jedsoft.org/most/index.html |
 | **mount-utils** | 2.40.2-3 | Utilities for (un)mounting filesystems | https://en.wikipedia.org/wiki/Util-linux |
 | **mp3cat** | 0.5 | Copies a byte stream, skipping everything except mp3 frames with valid headers | https://tomclegg.ca/mp3cat |
@@ -1937,7 +1937,7 @@
 | **parted-static** | 3.6 | Static libraries for parted | https://www.gnu.org/software/parted/ |
 | **paruz** | 1.1.2 | A fzf terminal UI for paru or pacman | https://github.com/joehillen/paruz |
 | **pass** | 1.7.4-5 | Lightweight directory-based password manager | https://www.passwordstore.org |
-| **pass-otp** | 1.2.0-3 | A pass extension for managing one-time-password (OTP) tokens | https://github.com/tadfisher/pass-otp |
+| **pass-otp** | 1.2.0-4 | A pass extension for managing one-time-password (OTP) tokens | https://github.com/tadfisher/pass-otp |
 | **passphrase2pgp** | 1.3.0-2 | Generate EdDSA/cv25519 private key in GnuPG/SSH format reproducibly per hash of user given passphrase | https://github.com/skeeto/passphrase2pgp |
 | **pastebinit** | 1.5.1-2 | Command-line pastebin client | https://launchpad.net/pastebinit |
 | **pastel** | 0.10.0 | A command-line tool to generate, analyze, convert and manipulate colors | https://github.com/sharkdp/pastel |
@@ -2408,7 +2408,7 @@
 | **tectonic** | 0.15.0-3 | A modernized, complete, self-contained TeX/LaTeX engine | https://tectonic-typesetting.github.io/ |
 | **telegram-bot-api** | 20241031 | Telegram Bot API server | https://github.com/tdlib/telegram-bot-api |
 | **telegram-cli** | 1:1.4.1-6 | Telegram messenger CLI | https://github.com/vysheng/tg |
-| **teleport-tsh** | 17.3.2 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
+| **teleport-tsh** | 17.3.3 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
 | **tenki-php** | 2022.05.26 | A simple PHP application for logging current weather conditions, notes, and waypoints | https://github.com/dmpop/tenki |
 | **tere** | 1.6.0 | Terminal file explorer written in rust | https://github.com/mgunyho/tere |
 | **tergent** | 1.0.0-4 | A cryptoki/PKCS#11 library for Termux that uses Android Keystore as its backend | https://github.com/aeolwyr/tergent |
