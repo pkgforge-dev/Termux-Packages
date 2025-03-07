@@ -3457,19 +3457,19 @@
   },
   {
     "Package": "glib",
-    "Version": "2.82.5",
+    "Version": "2.84.0",
     "Description": "Library providing core building blocks for libraries and applications written in C",
     "Homepage": "https://developer.gnome.org/glib/"
   },
   {
     "Package": "glib-bin",
-    "Version": "2.82.5",
+    "Version": "2.84.0",
     "Description": "Programs for the GLib library",
     "Homepage": "https://developer.gnome.org/glib/"
   },
   {
     "Package": "glib-cross",
-    "Version": "2.82.5",
+    "Version": "2.84.0",
     "Description": "glib for host (NOT for Termux)",
     "Homepage": "https://developer.gnome.org/glib/"
   },
