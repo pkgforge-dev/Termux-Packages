@@ -55,13 +55,13 @@
   },
   {
     "Package": "aapt",
-    "Version": "13.0.0.6-17",
+    "Version": "13.0.0.6-18",
     "Description": "Android Asset Packaging Tool",
     "Homepage": "https://elinux.org/Android_aapt"
   },
   {
     "Package": "aapt2",
-    "Version": "13.0.0.6-17",
+    "Version": "13.0.0.6-18",
     "Description": "AAPT2 (Android Asset Packaging Tool)",
     "Homepage": "https://elinux.org/Android_aapt"
   },
@@ -85,7 +85,7 @@
   },
   {
     "Package": "abseil-cpp",
-    "Version": "20250127.0",
+    "Version": "20250127.0-1",
     "Description": "Abseil C++ Common Libraries",
     "Homepage": "https://abseil.io/"
   },
@@ -145,7 +145,7 @@
   },
   {
     "Package": "aidl",
-    "Version": "13.0.0.6-17",
+    "Version": "13.0.0.6-18",
     "Description": "Android Interface Definition Language (AIDL)",
     "Homepage": "https://elinux.org/Android_aapt"
   },
@@ -223,7 +223,7 @@
   },
   {
     "Package": "android-tools",
-    "Version": "35.0.2-1",
+    "Version": "35.0.2-2",
     "Description": "Android platform tools",
     "Homepage": "https://developer.android.com/"
   },
@@ -301,7 +301,7 @@
   },
   {
     "Package": "apache-orc",
-    "Version": "2.1.0",
+    "Version": "2.1.0-1",
     "Description": "Columnar storage for Hadoop workloads",
     "Homepage": "https://orc.apache.org/"
   },
@@ -1261,7 +1261,7 @@
   },
   {
     "Package": "ccextractor",
-    "Version": "0.94-4",
+    "Version": "0.94-5",
     "Description": "A tool used to produce subtitles for TV recordings",
     "Homepage": "https://ccextractor.org/"
   },
@@ -1777,7 +1777,7 @@
   },
   {
     "Package": "curlie",
-    "Version": "1.8.1",
+    "Version": "1.8.2",
     "Description": "The power of curl, the ease of use of httpie",
     "Homepage": "https://curlie.io/"
   },
@@ -3031,7 +3031,7 @@
   },
   {
     "Package": "frp",
-    "Version": "0.61.1",
+    "Version": "0.61.2",
     "Description": "A fast reverse proxy to expose a local server behind a NAT or firewall to the internet",
     "Homepage": "https://github.com/fatedier/frp"
   },
@@ -5269,7 +5269,7 @@
   },
   {
     "Package": "libarrow-cpp",
-    "Version": "19.0.1",
+    "Version": "19.0.1-1",
     "Description": "C++ libraries for Apache Arrow",
     "Homepage": "https://github.com/apache/arrow"
   },
@@ -6307,7 +6307,7 @@
   },
   {
     "Package": "libgrpc",
-    "Version": "1.70.1-1",
+    "Version": "1.70.1-2",
     "Description": "High performance, open source, general RPC framework that puts mobile and HTTP/2 first",
     "Homepage": "https://grpc.io/"
   },
@@ -7219,25 +7219,25 @@
   },
   {
     "Package": "libnats-c",
-    "Version": "3.10.0",
+    "Version": "3.10.0-1",
     "Description": "A C client for the NATS messaging system",
     "Homepage": "https://nats-io.github.io/nats.c/"
   },
   {
     "Package": "libnats-c-static",
-    "Version": "3.10.0",
+    "Version": "3.10.0-1",
     "Description": "Static libraries for libnats-c",
     "Homepage": "https://nats-io.github.io/nats.c/"
   },
   {
     "Package": "libncnn",
-    "Version": "20230627-7",
+    "Version": "20230627-8",
     "Description": "A high-performance neural network inference framework optimized for the mobile platform",
     "Homepage": "https://github.com/Tencent/ncnn"
   },
   {
     "Package": "libncnn-static",
-    "Version": "20230627-7",
+    "Version": "20230627-8",
     "Description": "Static libraries for libncnn",
     "Homepage": "https://github.com/Tencent/ncnn"
   },
@@ -7567,13 +7567,13 @@
   },
   {
     "Package": "libosmpbf",
-    "Version": "1.5.1",
+    "Version": "1.5.1-1",
     "Description": "osmpbf is a Java/C library to read and write OpenStreetMap PBF files",
     "Homepage": "https://github.com/openstreetmap/OSM-binary/"
   },
   {
     "Package": "libosmpbf-static",
-    "Version": "1.5.1",
+    "Version": "1.5.1-1",
     "Description": "Static libraries for libosmpbf",
     "Homepage": "https://github.com/openstreetmap/OSM-binary/"
   },
@@ -7783,7 +7783,7 @@
   },
   {
     "Package": "libprotobuf",
-    "Version": "2:25.1-4",
+    "Version": "2:30.0",
     "Description": "Protocol buffers C++ library",
     "Homepage": "https://github.com/protocolbuffers/protobuf"
   },
@@ -8773,7 +8773,7 @@
   },
   {
     "Package": "libutf8-range",
-    "Version": "2:25.1-4",
+    "Version": "2:30.0",
     "Description": "Fast UTF-8 validation with Range algorithm",
     "Homepage": "https://github.com/protocolbuffers/protobuf"
   },
@@ -9859,7 +9859,7 @@
   },
   {
     "Package": "mapserver",
-    "Version": "8.2.2",
+    "Version": "8.2.2-1",
     "Description": "MapServer is CGI-based platform for publishing spatial data and interactive mapping applications to the web",
     "Homepage": "https://mapserver.org/"
   },
@@ -10315,7 +10315,7 @@
   },
   {
     "Package": "monero",
-    "Version": "0.18.3.4",
+    "Version": "0.18.3.4-1",
     "Description": "A private, secure, untraceable, decentralised digital currency",
     "Homepage": "https://getmonero.org/"
   },
@@ -10369,13 +10369,13 @@
   },
   {
     "Package": "mosh",
-    "Version": "1.4.0-12",
+    "Version": "1.4.0-13",
     "Description": "Mobile shell that supports roaming and intelligent local echo",
     "Homepage": "https://mosh.org"
   },
   {
     "Package": "mosh-perl",
-    "Version": "1.4.0-12",
+    "Version": "1.4.0-13",
     "Description": "The mosh Perl script",
     "Homepage": "https://mosh.org"
   },
@@ -11101,7 +11101,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "25.2.0",
+    "Version": "25.2.1",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -12037,7 +12037,7 @@
   },
   {
     "Package": "postgis",
-    "Version": "3.5.2",
+    "Version": "3.5.2-1",
     "Description": "Spatial database extender for PostgreSQL object-relational database",
     "Homepage": "https://postgis.net"
   },
@@ -12151,19 +12151,19 @@
   },
   {
     "Package": "protobuf",
-    "Version": "2:25.1-4",
+    "Version": "2:30.0",
     "Description": "Compiler for protocol buffer definition files",
     "Homepage": "https://github.com/protocolbuffers/protobuf"
   },
   {
     "Package": "protobuf-dev",
-    "Version": "2:25.1-4",
+    "Version": "2:30.0",
     "Description": "CMake files for protobuf shared libraries",
     "Homepage": "https://github.com/protocolbuffers/protobuf"
   },
   {
     "Package": "protobuf-static",
-    "Version": "25.1-4",
+    "Version": "30.0",
     "Description": "Protocol buffers C++ library (static)",
     "Homepage": "https://github.com/protocolbuffers/protobuf"
   },
@@ -12415,7 +12415,7 @@
   },
   {
     "Package": "python-pyarrow",
-    "Version": "19.0.1",
+    "Version": "19.0.1-1",
     "Description": "Python bindings for Apache Arrow",
     "Homepage": "https://github.com/apache/arrow"
   },
@@ -13375,7 +13375,7 @@
   },
   {
     "Package": "scala",
-    "Version": "3.6.3",
+    "Version": "3.6.4",
     "Description": "Scala 3 compiler and standard library.",
     "Homepage": "https://www.scala-lang.org"
   },
@@ -14257,7 +14257,7 @@
   },
   {
     "Package": "sysprop",
-    "Version": "13.0.0.15-6",
+    "Version": "13.0.0.15-7",
     "Description": "Generates cpp / java sysprop",
     "Homepage": "https://android.googlesource.com/platform/system/tools/sysprop"
   },

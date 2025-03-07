@@ -7,12 +7,12 @@
  a52dec  0.8.0-1  A test program for liba52  http://liba52.sourceforge.net/ 
  aalib  1.4rc5-12  A portable ASCII art graphic library  https://sourceforge.net/projects/aa-project/ 
  aalib-static  1.4rc5-12  Static libraries for aalib  https://sourceforge.net/projects/aa-project/ 
- aapt  13.0.0.6-17  Android Asset Packaging Tool  https://elinux.org/Android_aapt 
- aapt2  13.0.0.6-17  AAPT2 (Android Asset Packaging Tool)  https://elinux.org/Android_aapt 
+ aapt  13.0.0.6-18  Android Asset Packaging Tool  https://elinux.org/Android_aapt 
+ aapt2  13.0.0.6-18  AAPT2 (Android Asset Packaging Tool)  https://elinux.org/Android_aapt 
  abduco  0.6-3  Clean and simple terminal session manager  https://www.brain-dump.org/projects/abduco/ 
  abook  0.6.2  Abook is a text-based addressbook program designed to use with mutt mail client  http://abook.sourceforge.net/ 
  abootimg  0.6-2  Pack or unpack android boot images  https://gitlab.com/ajs124/abootimg 
- abseil-cpp  20250127.0  Abseil C++ Common Libraries  https://abseil.io/ 
+ abseil-cpp  20250127.0-1  Abseil C++ Common Libraries  https://abseil.io/ 
  ack-grep  3.8.1  Tool like grep optimized for programmers  https://beyondgrep.com/ 
  acr  2.2.0  A fully compatible autoconf replacement  https://github.com/radareorg/acr 
  adms  2.3.7  A code generator for the Verilog-AMS language  https://github.com/qucs/adms 
@@ -22,7 +22,7 @@
  agg  1.5.0  asciinema gif generator  https://github.com/asciinema/agg 
  aha  0.5.1-1  Converts ANSI escape sequences of a unix terminal to HTML code  https://github.com/theZiz/aha 
  aichat  0.28.0  A powerful chatgpt cli  https://github.com/sigoden/aichat 
- aidl  13.0.0.6-17  Android Interface Definition Language (AIDL)  https://elinux.org/Android_aapt 
+ aidl  13.0.0.6-18  Android Interface Definition Language (AIDL)  https://elinux.org/Android_aapt 
  alass  2.0.0-2  Automatic Language-Agnostic Subtitle Synchronization  https://github.com/kaegi/alass 
  alembic  1.8.8  A framework for sharing scene data that includes a C++ lib, a file format and client plugin  https://alembic.io 
  algernon  1.17.3  Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support  https://algernon.roboticoverlords.org/ 
@@ -35,7 +35,7 @@
  amber  0.6.0  A code search / replace tool  https://github.com/dalance/amber 
  amfora  1.10.0-1  Aims to be the best looking Gemini client  https://github.com/makeworld-the-better-one/amfora 
  anacron  2.3  A periodic command scheduler  http://anacron.sourceforge.net/ 
- android-tools  35.0.2-1  Android platform tools  https://developer.android.com/ 
+ android-tools  35.0.2-2  Android platform tools  https://developer.android.com/ 
  anewer  0.1.6  Append lines from stdin to a file if these lines do not present in that file (aHash-based uniq)  https://github.com/ysf/anewer 
  angband  4.2.5  Dungeon exploration adventure game  https://rephial.org/ 
  angle-android  2.1.24923-f09a19ce-1  A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android  https://chromium.googlesource.com/angle/angle 
@@ -48,7 +48,7 @@
  aom-tools  3.12.0  Command-line tools using AOMedia library  https://aomedia.org/ 
  aosp-libs  9.0.0-r76-0  bionic libc, libicuuc, liblzma, zlib, and boringssl for package builder and termux-docker  https://source.android.com/ 
  aosp-utils  9.0.0-r76-0  AOSP-based mksh, toybox and iputils for termux-docker  https://source.android.com/ 
- apache-orc  2.1.0  Columnar storage for Hadoop workloads  https://orc.apache.org/ 
+ apache-orc  2.1.0-1  Columnar storage for Hadoop workloads  https://orc.apache.org/ 
  apache2  1:2.4.63  Apache Web Server  https://httpd.apache.org 
  apkeep  0.17.0-1  A command-line tool for downloading APK files from various sources  https://github.com/EFForg/apkeep 
  apksigner  33.0.1  APK signing tool from Android SDK  https://developer.android.com/studio/command-line/apksigner 
@@ -208,7 +208,7 @@
  cc65  2.19  A free compiler for 6502 based system.  https://cc65.github.io/ 
  ccache  4.10.2-1  Compiler cache for fast recompilation of C/C++ code  https://ccache.samba.org 
  cccc  3.2.0  Source code counter and metrics tool for C++, C, and Java  https://sarnold.github.io/cccc/ 
- ccextractor  0.94-4  A tool used to produce subtitles for TV recordings  https://ccextractor.org/ 
+ ccextractor  0.94-5  A tool used to produce subtitles for TV recordings  https://ccextractor.org/ 
  ccls  0.20241206  C/C++/ObjC language server  https://github.com/MaskRay/ccls 
  ccrypt  1.11  Secure encryption and decryption of files and streams utility  http://ccrypt.sourceforge.net/ 
  cec-client  7.0.0  Client applications for libCEC  https://libcec.pulse-eight.com/ 
@@ -294,7 +294,7 @@
  cups-pdf  3.0.1  CUPS PDF backend  https://www.cups-pdf.de/ 
  cups-static  2.4.11  Static libraries for cups  https://www.cups.org/ 
  curl  8.12.1  Command line tool for transferring data with URL syntax  https://curl.se/ 
- curlie  1.8.1  The power of curl, the ease of use of httpie  https://curlie.io/ 
+ curlie  1.8.2  The power of curl, the ease of use of httpie  https://curlie.io/ 
  curseofwar  1.3.0-4  Fast-paced action strategy game focusing on high-level strategic planning  http://a-nikolaev.github.io/curseofwar/ 
  cvs  1:1.12.13-4  Concurrent Versions System  https://www.nongnu.org/cvs/ 
  d8  33.0.1  DEX bytecode compiler from Android SDK  https://developer.android.com/studio/command-line/d8 
@@ -503,7 +503,7 @@
  frobtads  2.0-3  TADS is a free authoring system for writing your own Interactive Fiction  http://www.tads.org/frobtads.htm 
  frogcomposband  7.1.salmiak-1  Open world Angband variant with many additions  https://github.com/sulkasormi/frogcomposband/ 
  frotz  2.55  Interpreter for Infocom and other Z-machine interactive fiction (IF) games  https://gitlab.com/DavidGriffith/frotz 
- frp  0.61.1  A fast reverse proxy to expose a local server behind a NAT or firewall to the internet  https://github.com/fatedier/frp 
+ frp  0.61.2  A fast reverse proxy to expose a local server behind a NAT or firewall to the internet  https://github.com/fatedier/frp 
  fselect  0.8.9  Find files with SQL-like queries  https://fselect.rocks/ 
  fsmon  1.8.6  Filesystem monitor with fanotify and inotify backends  https://github.com/nowsecure/fsmon 
  fwknop  2.6.11  fwknop: Single Packet Authorization > Port Knocking  https://www.cipherdyne.org/fwknop/ 
@@ -876,7 +876,7 @@
  libapt-pkg-perl  0.1.40-10  Perl interface to APT's libapt-pkg  https://packages.debian.org/libapt-pkg-perl 
  libarchive  3.7.7  Multi-format archive and compression library  https://www.libarchive.org/ 
  libarchive-static  3.7.7  Static libraries for libarchive  https://www.libarchive.org/ 
- libarrow-cpp  19.0.1  C++ libraries for Apache Arrow  https://github.com/apache/arrow 
+ libarrow-cpp  19.0.1-1  C++ libraries for Apache Arrow  https://github.com/apache/arrow 
  libasio  1.24.0  Cross-platform C++ library for network and low-level I/O programming  https://think-async.com/Asio 
  libasm  0.192  Library to assemble and disassemble instructions  https://sourceware.org/elfutils/ 
  libasm-static  0.192  Static library to assemble and disassemble instructions  https://sourceware.org/elfutils/ 
@@ -1049,7 +1049,7 @@
  libgpg-error  1.50  Small library that defines common error values for all GnuPG components  https://www.gnupg.org/related_software/libgpg-error/ 
  libgpg-error-static  1.50  Static libraries for libgpg-error  https://www.gnupg.org/related_software/libgpg-error/ 
  libgraphite  1.3.14-2  Font system for multiple languages  https://github.com/silnrsi/graphite 
- libgrpc  1.70.1-1  High performance, open source, general RPC framework that puts mobile and HTTP/2 first  https://grpc.io/ 
+ libgrpc  1.70.1-2  High performance, open source, general RPC framework that puts mobile and HTTP/2 first  https://grpc.io/ 
  libgsasl  2.2.1  GNU SASL library  https://www.gnu.org/software/gsasl 
  libgsasl-static  2.2.1  Static libraries for libgsasl  https://www.gnu.org/software/gsasl 
  libgsf  1.14.53  The G Structured File Library  https://gitlab.gnome.org/GNOME/libgsf 
@@ -1201,10 +1201,10 @@
  libmuparser  2.3.5  An extensible high performance math expression parser library written in C++  https://beltoforion.de/en/muparser 
  libmypaint  1.6.1-1  MyPaint brush engine library  https://github.com/mypaint/libmypaint 
  libmypaint-static  1.6.1-1  Static libraries for libmypaint  https://github.com/mypaint/libmypaint 
- libnats-c  3.10.0  A C client for the NATS messaging system  https://nats-io.github.io/nats.c/ 
- libnats-c-static  3.10.0  Static libraries for libnats-c  https://nats-io.github.io/nats.c/ 
- libncnn  20230627-7  A high-performance neural network inference framework optimized for the mobile platform  https://github.com/Tencent/ncnn 
- libncnn-static  20230627-7  Static libraries for libncnn  https://github.com/Tencent/ncnn 
+ libnats-c  3.10.0-1  A C client for the NATS messaging system  https://nats-io.github.io/nats.c/ 
+ libnats-c-static  3.10.0-1  Static libraries for libnats-c  https://nats-io.github.io/nats.c/ 
+ libncnn  20230627-8  A high-performance neural network inference framework optimized for the mobile platform  https://github.com/Tencent/ncnn 
+ libncnn-static  20230627-8  Static libraries for libncnn  https://github.com/Tencent/ncnn 
  libneon  0.34.0  An HTTP/1.1 and WebDAV client library, with a C interface  https://notroj.github.io/neon/ 
  libneon-static  0.34.0  Static libraries for libneon  https://notroj.github.io/neon/ 
  libnet  1.3  A library which provides API for commonly used low-level net functions  https://github.com/libnet/libnet 
@@ -1259,8 +1259,8 @@
  libosl  0.9.7  A Specification and a Library for Data Exchange in Polyhedral Compilation Tools  http://icps.u-strasbg.fr/~bastoul/development/openscop 
  libosl-static  0.9.7  Static libraries for libosl  http://icps.u-strasbg.fr/~bastoul/development/openscop 
  libosmium  2.21.0  Library for reading from and writing to OSM files in XML and PBF formats  https://osmcode.org/libosmium/ 
- libosmpbf  1.5.1  osmpbf is a Java/C library to read and write OpenStreetMap PBF files  https://github.com/openstreetmap/OSM-binary/ 
- libosmpbf-static  1.5.1  Static libraries for libosmpbf  https://github.com/openstreetmap/OSM-binary/ 
+ libosmpbf  1.5.1-1  osmpbf is a Java/C library to read and write OpenStreetMap PBF files  https://github.com/openstreetmap/OSM-binary/ 
+ libosmpbf-static  1.5.1-1  Static libraries for libosmpbf  https://github.com/openstreetmap/OSM-binary/ 
  libotr  4.1.1-2  Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing: Encryption, Authentication, Deniability, Perfect forward secrecy  https://otr.cypherpunks.ca 
  libotr-static  4.1.1-2  Static libraries for libotr  https://otr.cypherpunks.ca 
  libowfat  0.33-1  GPL reimplementation of libdjb  http://www.fefe.de/libowfat/ 
@@ -1295,7 +1295,7 @@
  libpolly  19.1.7  High-level loop and data-locality optimizer for clang  https://clang.llvm.org/ 
  libpopt  1.19-2  Library for parsing cmdline parameters  https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html 
  libpopt-static  1.19-2  Static libraries for libpopt  https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html 
- libprotobuf  2:25.1-4  Protocol buffers C++ library  https://github.com/protocolbuffers/protobuf 
+ libprotobuf  2:30.0  Protocol buffers C++ library  https://github.com/protocolbuffers/protobuf 
  libprotobuf-c  1.5.1-1  Protocol buffers C library  https://github.com/protobuf-c/protobuf-c 
  libprotobuf-c-static  1.5.1-1  Static libraries for libprotobuf-c  https://github.com/protobuf-c/protobuf-c 
  libprotozero  1.7.1  Minimalistic protocol buffer decoder and encoder in C++  https://github.com/mapbox/protozero 
@@ -1460,7 +1460,7 @@
  libusbmuxd-static  2.0.2-p20230430-2  Static libraries for libusbmuxd  https://libimobiledevice.org 
  libusbredir  0.13.0  network protocol for sending USB device traffic over a network connection  https://www.spice-space.org/ 
  libusbredir-static  0.7.1  Static libraries for libusbredir  https://www.spice-space.org/ 
- libutf8-range  2:25.1-4  Fast UTF-8 validation with Range algorithm  https://github.com/protocolbuffers/protobuf 
+ libutf8-range  2:30.0  Fast UTF-8 validation with Range algorithm  https://github.com/protocolbuffers/protobuf 
  libuuid  2.40.2-3  Library for handling universally unique identifiers  https://en.wikipedia.org/wiki/Util-linux 
  libuv  1.50.0  Support library with a focus on asynchronous I/O  https://libuv.org 
  libuv-static  1.50.0  Static libraries for libuv  https://libuv.org 
@@ -1641,7 +1641,7 @@
  man  1.14.6-1  Man page viewer from the mandoc toolset  https://mdocml.bsd.lv/ 
  mangal  4.0.6-2  Cli manga downloader  https://github.com/metafates/mangal 
  manpages  6.12  Man pages for linux kernel and C library interfaces  https://www.kernel.org/doc/man-pages/ 
- mapserver  8.2.2  MapServer is CGI-based platform for publishing spatial data and interactive mapping applications to the web  https://mapserver.org/ 
+ mapserver  8.2.2-1  MapServer is CGI-based platform for publishing spatial data and interactive mapping applications to the web  https://mapserver.org/ 
  mariadb  2:11.8.0  A drop-in replacement for mysql server  https://mariadb.org 
  mariadb-static  2:11.8.0  Static libraries for mariadb  https://mariadb.org 
  marisa  0.2.6-2  Matching Algorithm with Recursively Implemented StorAge  https://github.com/s-yata/marisa-trie 
@@ -1717,7 +1717,7 @@
  mlocate  0.26-5  Tool to find files anywhere in the filesystem based on their name  https://pagure.io/mlocate 
  moar  1.31.4  A pager designed to just do the right thing without any configuration  https://github.com/walles/moar 
  mold  2.37.0  mold: A Modern Linker  https://github.com/rui314/mold 
- monero  0.18.3.4  A private, secure, untraceable, decentralised digital currency  https://getmonero.org/ 
+ monero  0.18.3.4-1  A private, secure, untraceable, decentralised digital currency  https://getmonero.org/ 
  mono  6.12.0.206-1  Framework Mono  https://gitlab.winehq.org/mono/mono 
  mono-libs  6.12.0.206-1  Platform-independent libraries for mono  https://gitlab.winehq.org/mono/mono 
  mono-static  6.12.0.206-1  Static libraries for mono  https://gitlab.winehq.org/mono/mono 
@@ -1726,8 +1726,8 @@
  moreutils  0.70  A growing collection of the unix tools that nobody thought to write thirty years ago  https://joeyh.name/code/moreutils/ 
  moria  5.7.15-5  Rogue-like game with an infinite dungeon  https://umoria.org 
  morse2ascii  0.2.1  A tool to decode the morse codes from a PCM WAV file as well as from text and RAW PCM files  https://packages.debian.org/sid/morse2ascii 
- mosh  1.4.0-12  Mobile shell that supports roaming and intelligent local echo  https://mosh.org 
- mosh-perl  1.4.0-12  The mosh Perl script  https://mosh.org 
+ mosh  1.4.0-13  Mobile shell that supports roaming and intelligent local echo  https://mosh.org 
+ mosh-perl  1.4.0-13  The mosh Perl script  https://mosh.org 
  mosquitto  2.0.21  MQTT version 3.1/3.1.1 compatible message broker and clients  https://mosquitto.org/ 
  most  5.2.0  A terminal pager similar to 'more' and 'less'  http://www.jedsoft.org/most/index.html 
  mount-utils  2.40.2-3  Utilities for (un)mounting filesystems  https://en.wikipedia.org/wiki/Util-linux 
@@ -1848,7 +1848,7 @@
  octomap  1.10.0  An efficient probabilistic 3D mapping framework based on octrees  https://github.com/OctoMap/octomap 
  octomap-static  1.10.0  Static libraries for octomap  https://github.com/OctoMap/octomap 
  odt2txt  0.5-4  Simple converter from OpenDocument Text to plain text  https://github.com/dstosberg/odt2txt 
- oh-my-posh  25.2.0  A prompt theme engine for any shell.  https://ohmyposh.dev 
+ oh-my-posh  25.2.1  A prompt theme engine for any shell.  https://ohmyposh.dev 
  okc-agents  0.1.2  OpenKeychain agents for GnuPG and OpenSSH  https://github.com/DDoSolitary/okc-agents 
  ol  2.6-2  Purely functional dialect of Lisp  https://yuriy-chumak.github.io/ol/ 
  oleo  1.99.16-9  The GNU Spreadsheet  https://www.gnu.org/software/oleo/ 
@@ -2004,7 +2004,7 @@
  portaudio-static  19.07.00-2  Static libraries for portaudio  https://www.portaudio.com/ 
  portmidi  2.0.4  A cross-platform MIDI input/output library  https://github.com/PortMidi/portmidi 
  posixvala  0.2  Aims to bring back the posix profile for Vala  https://github.com/radare/posixvala 
- postgis  3.5.2  Spatial database extender for PostgreSQL object-relational database  https://postgis.net 
+ postgis  3.5.2-1  Spatial database extender for PostgreSQL object-relational database  https://postgis.net 
  postgresql  17.0-1  Object-relational SQL database  https://www.postgresql.org 
  postgresql-static  17.0-1  Static libraries for postgresql  https://www.postgresql.org 
  potrace  1.16-1  Tool for transforming a bitmap into a smooth, scalable image  http://potrace.sourceforge.net 
@@ -2023,9 +2023,9 @@
  proj  9.5.1  Generic coordinate transformation software  https://proj.org 
  proot  5.1.107-65  Emulate chroot, bind mount and binfmt_misc for non-root users  https://proot-me.github.io/ 
  proot-distro  4.22.1  Termux official utility for managing proot'ed Linux distributions  https://github.com/termux/proot-distro 
- protobuf  2:25.1-4  Compiler for protocol buffer definition files  https://github.com/protocolbuffers/protobuf 
- protobuf-dev  2:25.1-4  CMake files for protobuf shared libraries  https://github.com/protocolbuffers/protobuf 
- protobuf-static  25.1-4  Protocol buffers C++ library (static)  https://github.com/protocolbuffers/protobuf 
+ protobuf  2:30.0  Compiler for protocol buffer definition files  https://github.com/protocolbuffers/protobuf 
+ protobuf-dev  2:30.0  CMake files for protobuf shared libraries  https://github.com/protocolbuffers/protobuf 
+ protobuf-static  30.0  Protocol buffers C++ library (static)  https://github.com/protocolbuffers/protobuf 
  prover9  2009-11A-1  An automated theorem prover for first-order and equational logic  https://www.cs.unm.edu/~mccune/prover9/ 
  proxychains-ng  4.17  A hook preloader that allows to redirect TCP traffic of existing dynamically linked programs through one or more SOCKS or HTTP proxies  https://github.com/rofl0r/proxychains-ng 
  psmisc  23.7  Some small useful utilities that use the proc filesystem  https://gitlab.com/psmisc/psmisc 
@@ -2067,7 +2067,7 @@
  python-onnxruntime  1.20.2-1  Cross-platform, high performance ML inferencing and training accelerator  https://onnxruntime.ai/ 
  python-pillow  11.1.0  Python Imaging Library  https://python-pillow.org/ 
  python-pip  25.0.1  The PyPA recommended tool for installing Python packages  https://pip.pypa.io/ 
- python-pyarrow  19.0.1  Python bindings for Apache Arrow  https://github.com/apache/arrow 
+ python-pyarrow  19.0.1-1  Python bindings for Apache Arrow  https://github.com/apache/arrow 
  python-pynvim  0.5.0-1  Python client for Neovim  https://github.com/neovim/pynvim 
  python-sabyenc3  8.2.5-1  C implementations of functions for use within SABnzbd  https://github.com/sabnzbd/sabctools 
  python-skia-pathops  0.8.0-1  Python bindings for the Skia library's Path Ops  https://github.com/fonttools/skia-pathops 
@@ -2227,7 +2227,7 @@
  samurai  1.2-1  ninja-compatible build tool written in C  https://github.com/michaelforney/samurai 
  sassc  3.6.2  libsass command line driver  https://github.com/sass/sassc 
  sc-im  0.8.4-1  An improved version of sc, a spreadsheet calculator  https://github.com/andmarti1424/sc-im 
- scala  3.6.3  Scala 3 compiler and standard library.  https://www.scala-lang.org 
+ scala  3.6.4  Scala 3 compiler and standard library.  https://www.scala-lang.org 
  scc  3.5.0  Counts physical the lines of code, blank lines, comment lines, and physical lines of source code  https://github.com/boyter/scc 
  sccache  0.10.0  sccache is ccache with cloud storage  https://github.com/mozilla/sccache 
  scdaemon  2.4.5-3  Daemon invoked by gpg to manage smartcards  https://www.gnupg.org/ 
@@ -2374,7 +2374,7 @@
  swtpm  0.10.0  Software TPM Emulator  https://github.com/stefanberger/swtpm 
  swtpm-static  0.10.0  Static libraries for swtpm  https://github.com/stefanberger/swtpm 
  syncthing  1.29.2  Decentralized file synchronization  https://syncthing.net/ 
- sysprop  13.0.0.15-6  Generates cpp / java sysprop  https://android.googlesource.com/platform/system/tools/sysprop 
+ sysprop  13.0.0.15-7  Generates cpp / java sysprop  https://android.googlesource.com/platform/system/tools/sysprop 
  ta-lib  0.5.0  Technical analysis library with indicators like ADX  https://ta-lib.org/ 
  ta-lib-static  0.5.0  Static libraries for ta-lib  https://ta-lib.org/ 
  taglib  1.13.1  A Library for reading and editing the meta-data of several popular audio formats.  http://taglib.github.io/ 
