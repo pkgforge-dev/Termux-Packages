@@ -2797,7 +2797,7 @@
   },
   {
     "Package": "ffmpeg",
-    "Version": "7.1-5",
+    "Version": "7.1.1",
     "Description": "Tools and libraries to manipulate a wide range of multimedia formats and protocols",
     "Homepage": "https://ffmpeg.org"
   },
@@ -3457,19 +3457,19 @@
   },
   {
     "Package": "glib",
-    "Version": "2.84.0",
+    "Version": "2.84.0-1",
     "Description": "Library providing core building blocks for libraries and applications written in C",
     "Homepage": "https://developer.gnome.org/glib/"
   },
   {
     "Package": "glib-bin",
-    "Version": "2.84.0",
+    "Version": "2.84.0-1",
     "Description": "Programs for the GLib library",
     "Homepage": "https://developer.gnome.org/glib/"
   },
   {
     "Package": "glib-cross",
-    "Version": "2.84.0",
+    "Version": "2.84.0-1",
     "Description": "glib for host (NOT for Termux)",
     "Homepage": "https://developer.gnome.org/glib/"
   },
@@ -4213,7 +4213,7 @@
   },
   {
     "Package": "hr",
-    "Version": "1.4",
+    "Version": "1.5",
     "Description": "A horizontal ruler for your terminal",
     "Homepage": "https://github.com/LuRsT/hr"
   },
@@ -10465,7 +10465,7 @@
   },
   {
     "Package": "mpv",
-    "Version": "0.39.0-2",
+    "Version": "0.39.0-3",
     "Description": "Command-line media player",
     "Homepage": "https://mpv.io/"
   },
