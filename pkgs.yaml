@@ -5187,7 +5187,7 @@
   Description: Static libraries for libpopt
   Homepage: https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html
 - Package: libprotobuf
-  Version: "2:30.0"
+  Version: 2:30.0-1
   Description: Protocol buffers C++ library
   Homepage: https://github.com/protocolbuffers/protobuf
 - Package: libprotobuf-c
@@ -8099,11 +8099,11 @@
   Description: Termux official utility for managing prooted Linux distributions
   Homepage: https://github.com/termux/proot-distro
 - Package: protobuf
-  Version: "2:30.0"
+  Version: 2:30.0-1
   Description: Compiler for protocol buffer definition files
   Homepage: https://github.com/protocolbuffers/protobuf
 - Package: protobuf-dev
-  Version: "2:30.0"
+  Version: 2:30.0-1
   Description: CMake files for protobuf shared libraries
   Homepage: https://github.com/protocolbuffers/protobuf
 - Package: protobuf-static
@@ -8507,7 +8507,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 3.22.0
+  Version: 3.22.2
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3

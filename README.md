@@ -1307,7 +1307,7 @@
 | **libpolly** | 19.1.7 | High-level loop and data-locality optimizer for clang | https://clang.llvm.org/ |
 | **libpopt** | 1.19-2 | Library for parsing cmdline parameters | https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html |
 | **libpopt-static** | 1.19-2 | Static libraries for libpopt | https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html |
-| **libprotobuf** | 2:30.0 | Protocol buffers C++ library | https://github.com/protocolbuffers/protobuf |
+| **libprotobuf** | 2:30.0-1 | Protocol buffers C++ library | https://github.com/protocolbuffers/protobuf |
 | **libprotobuf-c** | 1.5.1-1 | Protocol buffers C library | https://github.com/protobuf-c/protobuf-c |
 | **libprotobuf-c-static** | 1.5.1-1 | Static libraries for libprotobuf-c | https://github.com/protobuf-c/protobuf-c |
 | **libprotozero** | 1.7.1 | Minimalistic protocol buffer decoder and encoder in C++ | https://github.com/mapbox/protozero |
@@ -2035,8 +2035,8 @@
 | **proj** | 9.5.1 | Generic coordinate transformation software | https://proj.org |
 | **proot** | 5.1.107-65 | Emulate chroot, bind mount and binfmt_misc for non-root users | https://proot-me.github.io/ |
 | **proot-distro** | 4.22.1 | Termux official utility for managing proot'ed Linux distributions | https://github.com/termux/proot-distro |
-| **protobuf** | 2:30.0 | Compiler for protocol buffer definition files | https://github.com/protocolbuffers/protobuf |
-| **protobuf-dev** | 2:30.0 | CMake files for protobuf shared libraries | https://github.com/protocolbuffers/protobuf |
+| **protobuf** | 2:30.0-1 | Compiler for protocol buffer definition files | https://github.com/protocolbuffers/protobuf |
+| **protobuf-dev** | 2:30.0-1 | CMake files for protobuf shared libraries | https://github.com/protocolbuffers/protobuf |
 | **protobuf-static** | 30.0 | Protocol buffers C++ library (static) | https://github.com/protocolbuffers/protobuf |
 | **prover9** | 2009-11A-1 | An automated theorem prover for first-order and equational logic | https://www.cs.unm.edu/~mccune/prover9/ |
 | **proxychains-ng** | 4.17 | A hook preloader that allows to redirect TCP traffic of existing dynamically linked programs through one or more SOCKS or HTTP proxies | https://github.com/rofl0r/proxychains-ng |
@@ -2137,7 +2137,7 @@
 | **rage** | 0.11.1 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
-| **railway-cli** | 3.22.0 | This is the command line interface for Railway | https://railway.app |
+| **railway-cli** | 3.22.2 | This is the command line interface for Railway | https://railway.app |
 | **range-v3** | 0.12.0 | Range library for C++14/17/20, basis for C++20's std::ranges | https://github.com/ericniebler/range-v3 |
 | **ranger** | 1.9.4 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-5 | Fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |

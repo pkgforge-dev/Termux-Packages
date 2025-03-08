@@ -7783,7 +7783,7 @@
   },
   {
     "Package": "libprotobuf",
-    "Version": "2:30.0",
+    "Version": "2:30.0-1",
     "Description": "Protocol buffers C++ library",
     "Homepage": "https://github.com/protocolbuffers/protobuf"
   },
@@ -12151,13 +12151,13 @@
   },
   {
     "Package": "protobuf",
-    "Version": "2:30.0",
+    "Version": "2:30.0-1",
     "Description": "Compiler for protocol buffer definition files",
     "Homepage": "https://github.com/protocolbuffers/protobuf"
   },
   {
     "Package": "protobuf-dev",
-    "Version": "2:30.0",
+    "Version": "2:30.0-1",
     "Description": "CMake files for protobuf shared libraries",
     "Homepage": "https://github.com/protocolbuffers/protobuf"
   },
@@ -12763,7 +12763,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "3.22.0",
+    "Version": "3.22.2",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
