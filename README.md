@@ -235,7 +235,7 @@
 | **chafa-static** | 1.14.5 | Static libraries for chafa | https://hpjansson.org/chafa/ |
 | **check** | 0.15.2-2 | A unit testing framework for C | https://libcheck.github.io/check |
 | **check-static** | 0.15.2-2 | Static libraries for check | https://libcheck.github.io/check |
-| **chezmoi** | 2.60.0 | Manage your dotfiles across multiple machines | https://chezmoi.io |
+| **chezmoi** | 2.60.1 | Manage your dotfiles across multiple machines | https://chezmoi.io |
 | **chicken** | 5.4.0-1 | A feature rich Scheme compiler and interpreter | https://www.call-cc.org |
 | **chicken-static** | 5.4.0-1 | Static libraries for chicken | https://www.call-cc.org |
 | **choose** | 1.3.6 | A human-friendly and fast alternative to cut and (sometimes) awk | https://github.com/theryangeary/choose |
@@ -1956,7 +1956,7 @@
 | **pcregrep** | 8.45-1 | A grep with Perl-compatible regular expressions | https://www.pcre.org |
 | **pcscd** | 2.0.0-1 | Middleware to access a smart card using SCard API (PC/SC). (daemon side) | https://pcsclite.apdu.fr/ |
 | **pdf2djvu** | 0.9.19-6 | PDF to DjVu converter | https://github.com/jwilk/pdf2djvu |
-| **pdf2svg** | 0.2.3-11 | A PDF to SVG converter | http://www.cityinthesky.co.uk/opensource/pdf2svg/ |
+| **pdf2svg** | 0.2.4 | A PDF to SVG converter | http://www.cityinthesky.co.uk/opensource/pdf2svg/ |
 | **pdfcpu** | 0.9.1 | A PDF processor written in Go | https://pdfcpu.io |
 | **pdfgrep** | 2.2.0-3 | Command line utility to search text in PDF files | https://pdfgrep.org/ |
 | **pdftk** | 3.3.3-2 | A simple tool for doing everyday things with PDF documents | https://gitlab.com/pdftk-java/pdftk |
@@ -2593,13 +2593,13 @@
 | **vtm** | 0.9.99.69 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
 | **vttest** | 20241208 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-4 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
-| **vulkan-extension-layer** | 1.4.309 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
+| **vulkan-extension-layer** | 1.4.310 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
 | **vulkan-headers** | 1.4.310 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
 | **vulkan-loader** | 0.0.3 | A metapackage that provides vulkan loader library | https://github.com/termux/termux-packages |
 | **vulkan-loader-android** | 27c | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
-| **vulkan-loader-generic** | 1.4.309 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
-| **vulkan-tools** | 1.4.309 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
-| **vulkan-utility-libraries** | 1.4.309 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
+| **vulkan-loader-generic** | 1.4.310 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
+| **vulkan-tools** | 1.4.310 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
+| **vulkan-utility-libraries** | 1.4.310 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
 | **vulkan-validation-layers** | 1.4.305 | Vulkan Validation Layers | https://github.com/KhronosGroup/Vulkan-ValidationLayers |
 | **vulkan-volk** | 1.4.304 | Meta loader for Vulkan API | https://github.com/zeux/volk |
 | **w3m** | 0.5.3.20230121 | Text based Web browser and pager | http://w3m.sourceforge.net/ |
