@@ -1911,7 +1911,7 @@
   Description: Utilities to find files meeting specified criteria and perform various actions on the files which are found
   Homepage: https://www.gnu.org/software/findutils/
 - Package: fish
-  Version: 3.7.1-2
+  Version: 4.0.0
   Description: The user-friendly command line shell
   Homepage: https://fishshell.com/
 - Package: flac
@@ -2219,7 +2219,7 @@
   Description: Static libraries for ghc-libs
   Homepage: https://www.haskell.org/ghc/
 - Package: ghostscript
-  Version: 10.03.1-2
+  Version: 10.03.1-3
   Description: Interpreter for the PostScript language and for PDF
   Homepage: https://www.ghostscript.com/
 - Package: giflib
