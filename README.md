@@ -1804,7 +1804,7 @@
 | **neocmakelsp** | 0.8.19 | a cmake lsp based on tower-lsp and treesitter | https://neocmakelsp.github.io/ |
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20250113-1 | A version of mutt with added features | https://neomutt.org/ |
-| **neovim** | 0.10.4-2 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
+| **neovim** | 0.10.4-3 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
 | **nerdfix** | 0.4.2 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.4 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.4 | Static libraries for net-snmp | http://www.net-snmp.org/ |
@@ -2578,7 +2578,7 @@
 | **viddy** | 1.3.0-1 | A modern watch command | https://github.com/sachaos/viddy |
 | **vifm** | 0.14 | File manager with vi like keybindings | https://vifm.info/ |
 | **vile** | 9.8z | VI Like Emacs - vi work-alike | https://invisible-island.net/vile/ |
-| **vim** | 9.1.1150 | Vi IMproved - enhanced vi editor | https://www.vim.org |
+| **vim** | 9.1.1182 | Vi IMproved - enhanced vi editor | https://www.vim.org |
 | **virglrenderer** | 1.1.0-1 | A virtual 3D GPU for use inside qemu virtual machines | https://virgil3d.github.io/ |
 | **virglrenderer-android** | 1.0.1-3 | A virtual 3D GPU for use inside qemu virtual machines over OpenGLES libraries on Android | https://virgil3d.github.io/ |
 | **virustotal-cli** | 1.0.1 | Command line interface for VirusTotal | https://github.com/VirusTotal/vt-cli |
@@ -2666,7 +2666,7 @@
 | **xtrans** | 1.5.2 | X transport library | https://xorg.freedesktop.org/ |
 | **xvidcore** | 1.3.7 | High performance and high quality MPEG-4 library | https://www.xvid.com/ |
 | **xvidcore-static** | 1.3.7 | Static libraries for xvidcore | https://www.xvid.com/ |
-| **xxd** | 9.1.1150 | Hexdump utility from vim | https://www.vim.org |
+| **xxd** | 9.1.1182 | Hexdump utility from vim | https://www.vim.org |
 | **xxhash** | 0.8.3 | Extremely fast non-cryptographic hash algorithm | https://cyan4973.github.io/xxHash/ |
 | **xxhash-static** | 0.8.3 | Static libraries for xxhash | https://cyan4973.github.io/xxHash/ |
 | **xz-utils** | 5.6.4 | XZ-format compression tools | https://tukaani.org/xz/ |
