@@ -1670,7 +1670,7 @@
 | **mbedtls-static** | 3.6.2 | Static libraries for mbedtls | https://tls.mbed.org/ |
 | **mc** | 4.8.33 | Midnight Commander - a powerful file manager | https://www.midnight-commander.org/ |
 | **mcfly** | 0.9.3 | Replaces your default ctrl-r shell history search with an intelligent search engine | https://github.com/cantino/mcfly |
-| **mdbook** | 0.4.46 | Creates book from markdown files | https://rust-lang.github.io/mdBook/ |
+| **mdbook** | 0.4.47 | Creates book from markdown files | https://rust-lang.github.io/mdBook/ |
 | **mdbook-auto-gen-summary** | 0.1.10 | A preprocessor and cli tool for mdbook to auto generate summary | https://github.com/cococolanosugar/mdbook-auto-gen-summary |
 | **mdbook-cat-prep** | 1.0.9 | A preprocessor for mdbook which provides teacher, subject, material and tag functionality | https://github.com/gjk-cat/cat-prep |
 | **mdbook-epub** | 0.4.44 | An EPUB renderer for mdbook | https://github.com/Michael-F-Bryan/mdbook-epub |
@@ -2589,7 +2589,7 @@
 | **vlc-static** | 3.0.21-5 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-2 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.2-2 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 0.9.99.69 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
+| **vtm** | 0.9.99.70 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
 | **vttest** | 20241208 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-4 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.4.310 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
