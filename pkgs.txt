@@ -261,7 +261,7 @@
  colm  0.14.7-1  COmputer Language Machinery  https://www.colm.net/open-source/colm/ 
  colm-static  0.14.7-1  Static libraries for colm  https://www.colm.net/open-source/colm/ 
  colordiff  1.0.21  Tool to colorize 'diff' output  https://www.colordiff.org/ 
- command-not-found  2.4.0-65  Suggest installation of packages in interactive shell sessions  https://github.com/termux/command-not-found 
+ command-not-found  2.4.0-66  Suggest installation of packages in interactive shell sessions  https://github.com/termux/command-not-found 
  composer  2.8.6  Dependency Manager for PHP  https://getcomposer.org/ 
  console-bridge  1.0.2  A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages  https://github.com/ros/console_bridge 
  convertlit  1.8-1  An extractor/converter for .LIT eBooks  http://www.convertlit.com/ 
@@ -419,10 +419,10 @@
  eltclsh  1.19-2  Interactive shell for TCL programming language  https://homepages.laas.fr/mallet/soft/shell/eltclsh 
  elvish  0.21.0  A friendly and expressive Unix shell  https://github.com/elves/elvish 
  emacs  30.1  Extensible, customizable text editor-and more  https://www.gnu.org/software/emacs/ 
- emscripten  4.0.3  Emscripten: An LLVM-to-WebAssembly Compiler  https://emscripten.org 
- emscripten-binaryen  4.0.3  Emscripten-compatible Binaryen  https://emscripten.org 
- emscripten-llvm  4.0.3  Emscripten-compatible LLVM  https://emscripten.org 
- emscripten-tests-third-party  4.0.3  Emscripten third party test suite files  https://emscripten.org 
+ emscripten  4.0.4  Emscripten: An LLVM-to-WebAssembly Compiler  https://emscripten.org 
+ emscripten-binaryen  4.0.4  Emscripten-compatible Binaryen  https://emscripten.org 
+ emscripten-llvm  4.0.4  Emscripten-compatible LLVM  https://emscripten.org 
+ emscripten-tests-third-party  4.0.4  Emscripten third party test suite files  https://emscripten.org 
  enblend  4.2.0p20161007-4  A tool for compositing images using a Burt&Adelson multiresolution spline  https://enblend.sourceforge.net/ 
  enchant  2.8.2-1  Wraps a number of different spelling libraries and programs with a consistent interface  https://rrthomas.github.io/enchant/ 
  enchant-static  2.8.2-1  Static libraries for enchant  https://rrthomas.github.io/enchant/ 
@@ -1414,7 +1414,7 @@
  libtiff-utils  4.7.0  Tools for working with tiff files  http://www.simplesystems.org/libtiff/ 
  libtins  4.5  High-level, multiplatform C++ network packet sniffing and crafting library.  https://libtins.github.io 
  libtinyxml  2.6.2-1  A simple, small, C++ XML parser  https://sourceforge.net/projects/tinyxml 
- libtinyxml2  10.0.0  A simple, small, efficient, C++ XML parser  http://www.grinninglizard.com/tinyxml2/ 
+ libtinyxml2  10.1.0  A simple, small, efficient, C++ XML parser  http://www.grinninglizard.com/tinyxml2/ 
  libtirpc  1.3.6  Transport Independent RPC library  http://git.linux-nfs.org/?p=steved/libtirpc.git 
  libtirpc-static  1.3.6  Static libraries for libtirpc  http://git.linux-nfs.org/?p=steved/libtirpc.git 
  libtllist  1.1.0  A small font loading and glyph rasterization library  https://codeberg.org/dnkl/fcft 
@@ -1659,7 +1659,7 @@
  mbedtls-static  3.6.2  Static libraries for mbedtls  https://tls.mbed.org/ 
  mc  4.8.33  Midnight Commander - a powerful file manager  https://www.midnight-commander.org/ 
  mcfly  0.9.3  Replaces your default ctrl-r shell history search with an intelligent search engine  https://github.com/cantino/mcfly 
- mdbook  0.4.45  Creates book from markdown files  https://rust-lang.github.io/mdBook/ 
+ mdbook  0.4.46  Creates book from markdown files  https://rust-lang.github.io/mdBook/ 
  mdbook-auto-gen-summary  0.1.10  A preprocessor and cli tool for mdbook to auto generate summary  https://github.com/cococolanosugar/mdbook-auto-gen-summary 
  mdbook-cat-prep  1.0.9  A preprocessor for mdbook which provides teacher, subject, material and tag functionality  https://github.com/gjk-cat/cat-prep 
  mdbook-epub  0.4.44  An EPUB renderer for mdbook  https://github.com/Michael-F-Bryan/mdbook-epub 

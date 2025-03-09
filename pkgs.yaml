@@ -1051,7 +1051,7 @@
   Description: Tool to colorize diff output
   Homepage: https://www.colordiff.org/
 - Package: command-not-found
-  Version: 2.4.0-65
+  Version: 2.4.0-66
   Description: Suggest installation of packages in interactive shell sessions
   Homepage: https://github.com/termux/command-not-found
 - Package: composer
@@ -1683,19 +1683,19 @@
   Description: Extensible, customizable text editor-and more
   Homepage: https://www.gnu.org/software/emacs/
 - Package: emscripten
-  Version: 4.0.3
+  Version: 4.0.4
   Description: 'Emscripten: An LLVM-to-WebAssembly Compiler'
   Homepage: https://emscripten.org
 - Package: emscripten-binaryen
-  Version: 4.0.3
+  Version: 4.0.4
   Description: Emscripten-compatible Binaryen
   Homepage: https://emscripten.org
 - Package: emscripten-llvm
-  Version: 4.0.3
+  Version: 4.0.4
   Description: Emscripten-compatible LLVM
   Homepage: https://emscripten.org
 - Package: emscripten-tests-third-party
-  Version: 4.0.3
+  Version: 4.0.4
   Description: Emscripten third party test suite files
   Homepage: https://emscripten.org
 - Package: enblend
@@ -5663,7 +5663,7 @@
   Description: A simple, small, C++ XML parser
   Homepage: https://sourceforge.net/projects/tinyxml
 - Package: libtinyxml2
-  Version: 10.0.0
+  Version: 10.1.0
   Description: A simple, small, efficient, C++ XML parser
   Homepage: http://www.grinninglizard.com/tinyxml2/
 - Package: libtirpc
@@ -6643,7 +6643,7 @@
   Description: Replaces your default ctrl-r shell history search with an intelligent search engine
   Homepage: https://github.com/cantino/mcfly
 - Package: mdbook
-  Version: 0.4.45
+  Version: 0.4.46
   Description: Creates book from markdown files
   Homepage: https://rust-lang.github.io/mdBook/
 - Package: mdbook-auto-gen-summary
