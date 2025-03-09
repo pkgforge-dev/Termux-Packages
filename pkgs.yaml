@@ -199,7 +199,7 @@
   Description: AOSP-based mksh, toybox and iputils for termux-docker
   Homepage: https://source.android.com/
 - Package: apache-orc
-  Version: 2.1.0-1
+  Version: 2.1.1
   Description: Columnar storage for Hadoop workloads
   Homepage: https://orc.apache.org/
 - Package: apache2
@@ -1911,7 +1911,7 @@
   Description: Utilities to find files meeting specified criteria and perform various actions on the files which are found
   Homepage: https://www.gnu.org/software/findutils/
 - Package: fish
-  Version: 4.0.0-1
+  Version: 4.0.0-2
   Description: The user-friendly command line shell
   Homepage: https://fishshell.com/
 - Package: flac
@@ -4819,11 +4819,11 @@
   Description: Static libraries for libnats-c
   Homepage: https://nats-io.github.io/nats.c/
 - Package: libncnn
-  Version: 20230627-8
+  Version: 20230627-9
   Description: A high-performance neural network inference framework optimized for the mobile platform
   Homepage: https://github.com/Tencent/ncnn
 - Package: libncnn-static
-  Version: 20230627-8
+  Version: 20230627-9
   Description: Static libraries for libncnn
   Homepage: https://github.com/Tencent/ncnn
 - Package: libneon
@@ -7323,11 +7323,11 @@
   Description: Curses-based logic game similar to Sokoban and Boulder Dash
   Homepage: http://npush.sourceforge.net/
 - Package: nsis
-  Version: "3.10"
+  Version: "3.11"
   Description: A professional open source system to create Windows installers
   Homepage: https://sourceforge.net/projects/nsis/
 - Package: nsis-stubs
-  Version: "3.10"
+  Version: "3.11"
   Description: NSIS Stubs
   Homepage: https://sourceforge.net/projects/nsis/
 - Package: nsnake

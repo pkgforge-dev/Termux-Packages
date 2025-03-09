@@ -48,7 +48,7 @@
 | **aom-tools** | 3.12.0 | Command-line tools using AOMedia library | https://aomedia.org/ |
 | **aosp-libs** | 9.0.0-r76-0 | bionic libc, libicuuc, liblzma, zlib, and boringssl for package builder and termux-docker | https://source.android.com/ |
 | **aosp-utils** | 9.0.0-r76-0 | AOSP-based mksh, toybox and iputils for termux-docker | https://source.android.com/ |
-| **apache-orc** | 2.1.0-1 | Columnar storage for Hadoop workloads | https://orc.apache.org/ |
+| **apache-orc** | 2.1.1 | Columnar storage for Hadoop workloads | https://orc.apache.org/ |
 | **apache2** | 1:2.4.63 | Apache Web Server | https://httpd.apache.org |
 | **apkeep** | 0.17.0-1 | A command-line tool for downloading APK files from various sources | https://github.com/EFForg/apkeep |
 | **apksigner** | 33.0.1 | APK signing tool from Android SDK | https://developer.android.com/studio/command-line/apksigner |
@@ -476,7 +476,7 @@
 | **finch-static** | 2.14.14 | Static libraries for finch | https://pidgin.im/ |
 | **findomain** | 9.0.4-1 | Findomain is the fastest subdomain enumerator and the only one written in Rust | https://findomain.app/ |
 | **findutils** | 4.10.0 | Utilities to find files meeting specified criteria and perform various actions on the files which are found | https://www.gnu.org/software/findutils/ |
-| **fish** | 4.0.0-1 | The user-friendly command line shell | https://fishshell.com/ |
+| **fish** | 4.0.0-2 | The user-friendly command line shell | https://fishshell.com/ |
 | **flac** | 1.5.0 | FLAC (Free Lossless Audio Codec) command-line tool | https://xiph.org/flac/ |
 | **flatbuffers** | 25.2.10 | Memory Efficient Serialization Library | https://github.com/google/flatbuffers |
 | **flatbuffers-static** | 25.2.10 | Static libraries for flatbuffers | https://github.com/google/flatbuffers |
@@ -1203,8 +1203,8 @@
 | **libmypaint-static** | 1.6.1-1 | Static libraries for libmypaint | https://github.com/mypaint/libmypaint |
 | **libnats-c** | 3.10.0-1 | A C client for the NATS messaging system | https://nats-io.github.io/nats.c/ |
 | **libnats-c-static** | 3.10.0-1 | Static libraries for libnats-c | https://nats-io.github.io/nats.c/ |
-| **libncnn** | 20230627-8 | A high-performance neural network inference framework optimized for the mobile platform | https://github.com/Tencent/ncnn |
-| **libncnn-static** | 20230627-8 | Static libraries for libncnn | https://github.com/Tencent/ncnn |
+| **libncnn** | 20230627-9 | A high-performance neural network inference framework optimized for the mobile platform | https://github.com/Tencent/ncnn |
+| **libncnn-static** | 20230627-9 | Static libraries for libncnn | https://github.com/Tencent/ncnn |
 | **libneon** | 0.34.0 | An HTTP/1.1 and WebDAV client library, with a C interface | https://notroj.github.io/neon/ |
 | **libneon-static** | 0.34.0 | Static libraries for libneon | https://notroj.github.io/neon/ |
 | **libnet** | 1.3 | A library which provides API for commonly used low-level net functions | https://github.com/libnet/libnet |
@@ -1829,8 +1829,8 @@
 | **notcurses-tools** | 3.0.13 | Tools and demos for notcurses | https://notcurses.com/ |
 | **notmuch** | 0.38.3 | Thread-based email index, search and tagging system | https://notmuchmail.org |
 | **npush** | 0.7-1 | Curses-based logic game similar to Sokoban and Boulder Dash | http://npush.sourceforge.net/ |
-| **nsis** | 3.10 | A professional open source system to create Windows installers | https://sourceforge.net/projects/nsis/ |
-| **nsis-stubs** | 3.10 | NSIS Stubs | https://sourceforge.net/projects/nsis/ |
+| **nsis** | 3.11 | A professional open source system to create Windows installers | https://sourceforge.net/projects/nsis/ |
+| **nsis-stubs** | 3.11 | NSIS Stubs | https://sourceforge.net/projects/nsis/ |
 | **nsnake** | 3.0.1-6 | The classic snake game with textual interface | https://github.com/alexdantas/nSnake |
 | **nss-utils** | 3.109 | Tools for NSS | https://firefox-source-docs.mozilla.org/security/nss/ |
 | **nudoku** | 5.0.0 | ncurses based sudoku game | http://jubalh.github.io/nudoku/ |
