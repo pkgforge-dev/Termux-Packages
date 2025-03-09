@@ -1249,7 +1249,7 @@
   },
   {
     "Package": "ccache",
-    "Version": "4.10.2-1",
+    "Version": "4.11",
     "Description": "Compiler cache for fast recompilation of C/C++ code",
     "Homepage": "https://ccache.samba.org"
   },
@@ -8770,12 +8770,6 @@
     "Version": "0.7.1",
     "Description": "Static libraries for libusbredir",
     "Homepage": "https://www.spice-space.org/"
-  },
-  {
-    "Package": "libutf8-range",
-    "Version": "2:30.0",
-    "Description": "Fast UTF-8 validation with Range algorithm",
-    "Homepage": "https://github.com/protocolbuffers/protobuf"
   },
   {
     "Package": "libuuid",
