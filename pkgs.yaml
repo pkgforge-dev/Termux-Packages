@@ -2603,7 +2603,7 @@
   Description: Transforms JSON into discrete assignments
   Homepage: https://github.com/tomnomnom/gron
 - Package: groonga
-  Version: 15.0.2
+  Version: 15.0.3
   Description: An embeddable fulltext search engine
   Homepage: https://github.com/groonga/groonga/
 - Package: groovy
@@ -2823,7 +2823,7 @@
   Description: Utility that converts HTML documents into plain text
   Homepage: http://www.mbayer.de/html2text/
 - Package: htop
-  Version: 3.3.0
+  Version: 3.4.0
   Description: Interactive process viewer for Linux
   Homepage: https://htop.dev/
 - Package: htslib
@@ -7395,7 +7395,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 25.2.1
+  Version: 25.3.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -8627,7 +8627,7 @@
   Description: In-memory data structure store used as a database, cache and message broker
   Homepage: https://redis.io/
 - Package: remind
-  Version: 1:05.03.03
+  Version: 1:05.03.04
   Description: Sophisticated calendar and alarm program
   Homepage: https://dianne.skoll.ca/projects/remind/
 - Package: renameutils
