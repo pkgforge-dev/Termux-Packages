@@ -4435,13 +4435,13 @@
   },
   {
     "Package": "imagemagick",
-    "Version": "7.1.1.44",
+    "Version": "7.1.1.45",
     "Description": "Suite to create, edit, compose, or convert images in a variety of formats",
     "Homepage": "https://www.imagemagick.org/"
   },
   {
     "Package": "imagemagick-static",
-    "Version": "7.1.1.44",
+    "Version": "7.1.1.45",
     "Description": "Static libraries for imagemagick",
     "Homepage": "https://www.imagemagick.org/"
   },
@@ -6445,7 +6445,7 @@
   },
   {
     "Package": "libical",
-    "Version": "3.0.19",
+    "Version": "3.0.20",
     "Description": "Libical is an Open Source implementation of the iCalendar protocols and protocol data units",
     "Homepage": "https://libical.github.io/libical/"
   },
@@ -8635,7 +8635,7 @@
   },
   {
     "Package": "libuber-h3",
-    "Version": "4.2.0",
+    "Version": "4.2.1",
     "Description": "A hexagonal hierarchical geospatial indexing system",
     "Homepage": "https://h3geo.org/"
   },
@@ -9649,7 +9649,7 @@
   },
   {
     "Package": "lua-language-server",
-    "Version": "3.13.6",
+    "Version": "3.13.7",
     "Description": "Sumneko Lua Language Server coded in Lua",
     "Homepage": "https://github.com/sumneko/lua-language-server"
   },
@@ -13843,7 +13843,7 @@
   },
   {
     "Package": "spglib",
-    "Version": "2.5.0-1",
+    "Version": "2.6.0",
     "Description": "C library for finding and handling crystal symmetries",
     "Homepage": "https://spglib.github.io/spglib/index.html"
   },
@@ -14467,9 +14467,9 @@
   },
   {
     "Package": "termux-exec",
-    "Version": "1:1.0",
+    "Version": "1:1.0-1",
     "Description": "An execve() wrapper to make /bin and /usr/bin shebangs work",
-    "Homepage": "https://github.com/termux/termux-exec"
+    "Homepage": "https://github.com/termux/termux-exec-package"
   },
   {
     "Package": "termux-gui-bash",
