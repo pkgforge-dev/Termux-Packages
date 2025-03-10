@@ -3195,7 +3195,7 @@
   Description: User friendly full screen text editor
   Homepage: http://www.mirbsd.org/jupp.htm
 - Package: just
-  Version: 1.39.0
+  Version: 1.40.0
   Description: A handy way to save and run project-specific commands
   Homepage: https://just.systems
 - Package: jython
@@ -3207,7 +3207,7 @@
   Description: A tool that optimizes PDF files for viewing on mobile readers
   Homepage: https://www.willus.com/k2pdfopt/
 - Package: k9s
-  Version: 0.40.5
+  Version: 0.40.6
   Description: Kubernetes CLI To Manage Your Clusters In Style!
   Homepage: https://k9scli.io
 - Package: kainjow-mustache
@@ -5419,7 +5419,7 @@
   Description: A general purpose TCP-IP emulator
   Homepage: https://gitlab.freedesktop.org/slirp/libslirp
 - Package: libsm
-  Version: 1.2.5
+  Version: 1.2.6
   Description: X11 Session Management library
   Homepage: https://xorg.freedesktop.org/
 - Package: libsm-static
