@@ -384,7 +384,7 @@
 | **dpkg** | 1.22.6-1 | Debian package management system | https://packages.debian.org/dpkg |
 | **dpkg-perl** | 1.22.6-1 | Perl modules for dpkg | https://packages.debian.org/dpkg |
 | **dpkg-scanpackages** | 1.22.6-1 | Creates Packages index files | https://packages.debian.org/dpkg |
-| **dropbear** | 2024.86 | Small SSH server and client | https://matt.ucc.asn.au/dropbear/dropbear.html |
+| **dropbear** | 2025.87 | Small SSH server and client | https://matt.ucc.asn.au/dropbear/dropbear.html |
 | **dtach** | 0.9 | Emulates the detach feature of screen | http://dtach.sourceforge.net/ |
 | **dtc** | 1.7.2 | Device Tree Compiler | https://git.kernel.org/pub/scm/utils/dtc/dtc |
 | **dtc-static** | 1.7.2 | Static libraries for dtc | https://git.kernel.org/pub/scm/utils/dtc/dtc |
@@ -650,7 +650,7 @@
 | **groff** | 1.23.0 | typesetting system that reads plain text mixed with formatting commands and produces formatted output | https://www.gnu.org/software/groff/ |
 | **gron** | 0.7.1-3 | Transforms JSON into discrete assignments | https://github.com/tomnomnom/gron |
 | **groonga** | 15.0.3 | An embeddable fulltext search engine | https://github.com/groonga/groonga/ |
-| **groovy** | 4.0.16-3 | A powerful multi-faceted programming language for the JVM platform | https://groovy-lang.org/ |
+| **groovy** | 4.0.26-3 | A powerful multi-faceted programming language for the JVM platform | https://groovy-lang.org/ |
 | **gsasl** | 2.2.1 | GNU SASL library command line interface | https://www.gnu.org/software/gsasl |
 | **gsf-tools** | 1.14.53 | Command-line tools for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
 | **gsl** | 2.8 | GNU Scientific Library (GSL) providing a wide range of mathematical routines | https://www.gnu.org/software/gsl/ |
@@ -744,7 +744,7 @@
 | **imlib2** | 1.12.3-1 | Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support | https://sourceforge.net/projects/enlightenment/ |
 | **imlib2-static** | 1.12.3-1 | Static libraries for imlib2 | https://sourceforge.net/projects/enlightenment/ |
 | **indent** | 2.2.13 | C language source code formatting program | https://www.gnu.org/software/indent/ |
-| **inetutils** | 2.5 | Collection of common network programs | https://www.gnu.org/software/inetutils/ |
+| **inetutils** | 2.6 | Collection of common network programs | https://www.gnu.org/software/inetutils/ |
 | **influxdb** | 1.8.10-3 | An open source time series database with no external dependencies | https://www.influxdata.com/ |
 | **innoextract** | 1.9-6 | A tool to unpack installers created by Inno Setup | https://constexpr.org/innoextract/ |
 | **inotify-tools** | 4.23.9.0 | Programs providing a simple interface to inotify | https://github.com/rvoicilas/inotify-tools/wiki |
@@ -832,7 +832,7 @@
 | **leptonica** | 1.85.0 | Library for image processing and image analysis | http://www.leptonica.com/ |
 | **leptonica-static** | 1.85.0 | Static libraries for leptonica | http://www.leptonica.com/ |
 | **less** | 668 | Terminal pager program used to view the contents of a text file one screen at a time | https://www.greenwoodsoftware.com/less/ |
-| **lesspipe** | 2.17-1 | An input filter for the pager less | http://www-zeuthen.desy.de/~friebel/unix/lesspipe.html |
+| **lesspipe** | 2.18 | An input filter for the pager less | http://www-zeuthen.desy.de/~friebel/unix/lesspipe.html |
 | **leveldb** | 1.23-3 | Fast key-value storage library | https://github.com/google/leveldb |
 | **lexbor** | 2.4.0 | Fast embeddable web browser engine written in C with no dependencies | https://lexbor.com |
 | **lexter** | 1.0.3-4 | A real-time word puzzle for text terminals | https://www.kyne.au/~mark/software/lexter.php |
@@ -1211,8 +1211,8 @@
 | **libnet-static** | 1.3 | Static libraries for libnet | https://github.com/libnet/libnet |
 | **libnettle** | 3.10.1 | Cryptographic library that is designed to fit easily in more or less any context | https://www.lysator.liu.se/~nisse/nettle/ |
 | **libnettle-static** | 3.10.1 | Static libraries for libnettle | https://www.lysator.liu.se/~nisse/nettle/ |
-| **libnewt** | 0.52.24 | A programming library for color text mode, widget based user interfaces | https://pagure.io/newt |
-| **libnewt-static** | 0.52.24 | Static libraries for libnewt | https://pagure.io/newt |
+| **libnewt** | 0.52.25 | A programming library for color text mode, widget based user interfaces | https://pagure.io/newt |
+| **libnewt-static** | 0.52.25 | Static libraries for libnewt | https://pagure.io/newt |
 | **libnfc** | 1.8.0-1 | Free/Libre Near Field Communication (NFC) library | https://github.com/nfc-tools/libnfc |
 | **libnfc-static** | 1.8.0-1 | Static libraries for libnfc | https://github.com/nfc-tools/libnfc |
 | **libnfs** | 6.0.2 | NFS client library | https://github.com/sahlberg/libnfs |
@@ -2618,7 +2618,7 @@
 | **wget2-static** | 2.2.0 | Static libraries for wget2 | https://gitlab.com/gnuwget/wget2 |
 | **wgetpaste** | 2.34 | wgetpaste is a shell script that allows its users to upload log. | https://github.com/zlin/wgetpaste |
 | **which** | 2.23 | Shows the full path of (shell) commands | https://savannah.gnu.org/projects/which/ |
-| **whiptail** | 0.52.24 | Display dialog boxes from shell scripts | https://pagure.io/newt |
+| **whiptail** | 0.52.25 | Display dialog boxes from shell scripts | https://pagure.io/newt |
 | **whitebox-tools** | 2.4.0 | An advanced geospatial data analysis platform | https://github.com/jblindsay/whitebox-tools |
 | **whois** | 5.5.23 | An intelligent Whois client | https://github.com/rfc1036/whois |
 | **wireguard-tools** | 1.0.20210914-2 | Tools for the WireGuard secure network tunnel | https://www.wireguard.com |

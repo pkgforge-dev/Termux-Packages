@@ -2317,7 +2317,7 @@
   },
   {
     "Package": "dropbear",
-    "Version": "2024.86",
+    "Version": "2025.87",
     "Description": "Small SSH server and client",
     "Homepage": "https://matt.ucc.asn.au/dropbear/dropbear.html"
   },
@@ -3913,7 +3913,7 @@
   },
   {
     "Package": "groovy",
-    "Version": "4.0.16-3",
+    "Version": "4.0.26-3",
     "Description": "A powerful multi-faceted programming language for the JVM platform",
     "Homepage": "https://groovy-lang.org/"
   },
@@ -4477,7 +4477,7 @@
   },
   {
     "Package": "inetutils",
-    "Version": "2.5",
+    "Version": "2.6",
     "Description": "Collection of common network programs",
     "Homepage": "https://www.gnu.org/software/inetutils/"
   },
@@ -5005,7 +5005,7 @@
   },
   {
     "Package": "lesspipe",
-    "Version": "2.17-1",
+    "Version": "2.18",
     "Description": "An input filter for the pager less",
     "Homepage": "http://www-zeuthen.desy.de/~friebel/unix/lesspipe.html"
   },
@@ -7279,13 +7279,13 @@
   },
   {
     "Package": "libnewt",
-    "Version": "0.52.24",
+    "Version": "0.52.25",
     "Description": "A programming library for color text mode, widget based user interfaces",
     "Homepage": "https://pagure.io/newt"
   },
   {
     "Package": "libnewt-static",
-    "Version": "0.52.24",
+    "Version": "0.52.25",
     "Description": "Static libraries for libnewt",
     "Homepage": "https://pagure.io/newt"
   },
@@ -15721,7 +15721,7 @@
   },
   {
     "Package": "whiptail",
-    "Version": "0.52.24",
+    "Version": "0.52.25",
     "Description": "Display dialog boxes from shell scripts",
     "Homepage": "https://pagure.io/newt"
   },
