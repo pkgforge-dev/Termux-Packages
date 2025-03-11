@@ -459,7 +459,7 @@
   Description: A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum
   Homepage: https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum
 - Package: babl
-  Version: 0.1.110
+  Version: 0.1.112
   Description: Dynamic pixel format translation library
   Homepage: https://gegl.org/babl/
 - Package: bacula-fd
@@ -1383,7 +1383,7 @@
   Description: A libpcap application that displays various tables of DNS traffic on your network
   Homepage: https://github.com/measurement-factory/dnstop
 - Package: dnsutils
-  Version: 9.20.5
+  Version: 9.20.6
   Description: Clients provided with BIND
   Homepage: https://www.isc.org/bind/
 - Package: dnsutils-static
@@ -3223,7 +3223,7 @@
   Description: Language Server Protocol Client for the Kakoune editor
   Homepage: https://github.com/kakoune-lsp/kakoune-lsp
 - Package: kbd
-  Version: 2.6.4
+  Version: 2.7.1
   Description: KBDs showkey utility for examining keycodes
   Homepage: https://kbd-project.org/
 - Package: kcptun
@@ -3639,7 +3639,7 @@
   Description: Static libraries for libcaca
   Homepage: http://caca.zoy.org/wiki/libcaca
 - Package: libcairo
-  Version: 1.18.2
+  Version: 1.18.4
   Description: Cairo 2D vector graphics library
   Homepage: https://cairographics.org
 - Package: libcairomm-1.0
@@ -5027,7 +5027,7 @@
   Description: Static libraries for libopusenc
   Homepage: https://github.com/xiph/libopusenc
 - Package: liborc
-  Version: 0.4.40
+  Version: 0.4.41
   Description: Library of Optimized Inner Loops Runtime Compiler
   Homepage: https://gstreamer.freedesktop.org/projects/orc.html
 - Package: libosl

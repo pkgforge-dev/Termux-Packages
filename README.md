@@ -125,7 +125,7 @@
 | **awesomeshot** | 1.1.0 | A command-line screenshot tool written in bash | https://github.com/mayTermux/awesomeshot |
 | **axel** | 2.17.14 | light command line download accelerator | https://github.com/axel-download-accelerator/axel |
 | **b3sum** | 1.6.1 | A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum | https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum |
-| **babl** | 0.1.110 | Dynamic pixel format translation library | https://gegl.org/babl/ |
+| **babl** | 0.1.112 | Dynamic pixel format translation library | https://gegl.org/babl/ |
 | **bacula-fd** | 15.0.2 | Bacula backup software | https://www.bacula.org |
 | **bacula-fd-static** | 15.0.2 | Static libraries for bacula-fd | https://www.bacula.org |
 | **badvpn-udpgw** | 1.999.130 | UDP gateway for BadVPN | https://github.com/ambrop72/badvpn |
@@ -356,7 +356,7 @@
 | **dnslookup** | 1.11.1 | Simple command line utility to make DNS lookups. Supports all known DNS protocols: plain DNS, DoH, DoT, DoQ, DNSCrypt. | https://github.com/ameshkov/dnslookup |
 | **dnsmap** | 0.36-2 | Subdomain Bruteforcing Tool | https://github.com/resurrecting-open-source-projects/dnsmap |
 | **dnstop** | 2022.10.19 | A libpcap application that displays various tables of DNS traffic on your network | https://github.com/measurement-factory/dnstop |
-| **dnsutils** | 9.20.5 | Clients provided with BIND | https://www.isc.org/bind/ |
+| **dnsutils** | 9.20.6 | Clients provided with BIND | https://www.isc.org/bind/ |
 | **dnsutils-static** | 9.16.41 | Static libraries for dnsutils | https://www.isc.org/downloads/bind/ |
 | **docbook-xml** | 5.1 | A widely used XML scheme for writing documentation and help | https://www.oasis-open.org/docbook/ |
 | **docbook-xsl** | 1.79.2-2 | XML stylesheets for Docbook-xml transformations | https://docbook.org/ |
@@ -816,7 +816,7 @@
 | **kainjow-mustache** | 4.1 | Mustache implementation for modern C++ | https://github.com/kainjow/Mustache |
 | **kakoune** | 2024.05.18 | Code editor heavily inspired by Vim | https://kakoune.org/ |
 | **kakoune-lsp** | 18.1.2 | Language Server Protocol Client for the Kakoune editor | https://github.com/kakoune-lsp/kakoune-lsp |
-| **kbd** | 2.6.4 | KBD's showkey utility for examining keycodes | https://kbd-project.org/ |
+| **kbd** | 2.7.1 | KBD's showkey utility for examining keycodes | https://kbd-project.org/ |
 | **kcptun** | 20241227 | A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC | https://github.com/xtaci/kcptun |
 | **keybase** | 6.4.0 | Key directory that maps social media identities to encryption keys | https://keybase.io |
 | **keychain** | 2.8.5-2 | keychain ssh-agent front-end | https://www.funtoo.org/Keychain |
@@ -920,7 +920,7 @@
 | **libc-client-static** | 2007f-3 | Static libraries for libc-client | https://www.washington.edu/imap/ |
 | **libcaca** | 0.99.beta20-1 | Graphics library that outputs text instead of pixels | http://caca.zoy.org/wiki/libcaca |
 | **libcaca-static** | 0.99.beta20-1 | Static libraries for libcaca | http://caca.zoy.org/wiki/libcaca |
-| **libcairo** | 1.18.2 | Cairo 2D vector graphics library | https://cairographics.org |
+| **libcairo** | 1.18.4 | Cairo 2D vector graphics library | https://cairographics.org |
 | **libcairomm-1.0** | 1.14.5 | Provides a C++ interface to cairo | https://www.cairographics.org/cairomm/ |
 | **libcairomm-1.16** | 1.18.0 | Provides a C++ interface to cairo | https://www.cairographics.org/cairomm/ |
 | **libcap** | 2.69 | POSIX 1003.1e capabilities | https://sites.google.com/site/fullycapable/ |
@@ -1267,7 +1267,7 @@
 | **libopus-static** | 1.5.2 | Static libraries for libopus | https://www.opus-codec.org/ |
 | **libopusenc** | 0.2.1-3 | High-level API for encoding .opus files | https://github.com/xiph/libopusenc |
 | **libopusenc-static** | 0.2.1-3 | Static libraries for libopusenc | https://github.com/xiph/libopusenc |
-| **liborc** | 0.4.40 | Library of Optimized Inner Loops Runtime Compiler | https://gstreamer.freedesktop.org/projects/orc.html |
+| **liborc** | 0.4.41 | Library of Optimized Inner Loops Runtime Compiler | https://gstreamer.freedesktop.org/projects/orc.html |
 | **libosl** | 0.9.7 | A Specification and a Library for Data Exchange in Polyhedral Compilation Tools | http://icps.u-strasbg.fr/~bastoul/development/openscop |
 | **libosl-static** | 0.9.7 | Static libraries for libosl | http://icps.u-strasbg.fr/~bastoul/development/openscop |
 | **libosmium** | 2.21.0 | Library for reading from and writing to OSM files in XML and PBF formats | https://osmcode.org/libosmium/ |
