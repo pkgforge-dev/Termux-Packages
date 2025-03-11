@@ -185,7 +185,7 @@
 | **bsd-games** | 1:3.3 | Classic text mode games from UNIX folklore | https://www.polyomino.org.uk/computer/software/bsd-games/ |
 | **bsdtar** | 3.7.7 | The tar(1) and cpio(1) programs from FreeBSD, using libarchive | https://www.libarchive.org/ |
 | **btfs2** | 3.2.0 | Decentralized file system integrating with TRON network and Bittorrent network | https://www.bittorrent.com/btfs/ |
-| **buf** | 1.50.0 | A new way of working with Protocol Buffers | https://buf.build |
+| **buf** | 1.50.1 | A new way of working with Protocol Buffers | https://buf.build |
 | **build-essential** | 4.1 | A metapackage that installs essential development tools | https://github.com/termux/termux-packages |
 | **busybox** | 1.36.1-3 | Tiny versions of many common UNIX utilities into a single small executable | https://busybox.net/ |
 | **bvi** | 1.4.2 | Binary file editor based on vi | http://bvi.sourceforge.net/ |
@@ -812,7 +812,7 @@
 | **just** | 1.40.0 | A handy way to save and run project-specific commands | https://just.systems |
 | **jython** | 2.7.3 | Python for the Java Platform | https://www.jython.org/ |
 | **k2pdfopt** | 2.55-3 | A tool that optimizes PDF files for viewing on mobile readers | https://www.willus.com/k2pdfopt/ |
-| **k9s** | 0.40.6 | Kubernetes CLI To Manage Your Clusters In Style! | https://k9scli.io |
+| **k9s** | 0.40.7 | Kubernetes CLI To Manage Your Clusters In Style! | https://k9scli.io |
 | **kainjow-mustache** | 4.1 | Mustache implementation for modern C++ | https://github.com/kainjow/Mustache |
 | **kakoune** | 2024.05.18 | Code editor heavily inspired by Vim | https://kakoune.org/ |
 | **kakoune-lsp** | 18.1.2 | Language Server Protocol Client for the Kakoune editor | https://github.com/kakoune-lsp/kakoune-lsp |
@@ -1732,7 +1732,7 @@
 | **mono** | 6.12.0.206-1 | Framework Mono | https://gitlab.winehq.org/mono/mono |
 | **mono-libs** | 6.12.0.206-1 | Platform-independent libraries for mono | https://gitlab.winehq.org/mono/mono |
 | **mono-static** | 6.12.0.206-1 | Static libraries for mono | https://gitlab.winehq.org/mono/mono |
-| **monolith** | 2.8.3-1 | CLI tool for saving complete web pages as a single HTML file | https://github.com/Y2Z/monolith |
+| **monolith** | 2.9.0 | CLI tool for saving complete web pages as a single HTML file | https://github.com/Y2Z/monolith |
 | **moon-buggy** | 1.0.51-5 | Simple game where you drive a car across the moon's surface | https://github.com/seehuhn/moon-buggy |
 | **moreutils** | 0.70 | A growing collection of the unix tools that nobody thought to write thirty years ago | https://joeyh.name/code/moreutils/ |
 | **moria** | 5.7.15-5 | Rogue-like game with an infinite dungeon | https://umoria.org |
@@ -2371,7 +2371,7 @@
 | **suite3270** | 4.1ga11-1 | A family of IBM 3270 terminal emulators and related tools | http://x3270.bgp.nu/ |
 | **sun** | 1.0.0-3 | A very simple note taking cli app | https://stand-up-notes.org |
 | **surfraw** | 2.3.0-10 | Shell Users' Revolutionary Front Rage Against the Web | https://gitlab.com/surfraw/Surfraw |
-| **svt-av1** | 3.0.0 | Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder) | https://gitlab.com/AOMediaCodec/SVT-AV1 |
+| **svt-av1** | 3.0.1 | Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder) | https://gitlab.com/AOMediaCodec/SVT-AV1 |
 | **swaks** | 20240103.0 | Swiss Army Knife for SMTP | http://jetmore.org/john/code/swaks/ |
 | **swi-prolog** | 9.3.20-1 | Most popular and complete prolog implementation | https://swi-prolog.org/ |
 | **swift-runtime-aarch64** | 6.0.3-1 | Swift runtime libraries for Android AArch64 | https://swift.org/ |
