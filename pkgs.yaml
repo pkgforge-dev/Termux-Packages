@@ -5062,6 +5062,10 @@
   Version: 0.33-1
   Description: GPL reimplementation of libdjb
   Homepage: http://www.fefe.de/libowfat/
+- Package: libp11
+  Version: 0.4.13
+  Description: PKCS#11 wrapper library
+  Homepage: https://github.com/OpenSC/libp11
 - Package: libp8-platform
   Version: 2.1.0.1-3
   Description: Platform support library used by libCEC and binary add-ons for Kodi
