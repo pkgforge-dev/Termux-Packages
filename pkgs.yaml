@@ -6999,7 +6999,7 @@
   Description: Tool for manipulating FAT images
   Homepage: https://www.gnu.org/software/mtools/
 - Package: mu
-  Version: 1.12.8
+  Version: 1.12.9
   Description: Maildir indexer/searcher and Emacs client (mu4e)
   Homepage: https://www.djcbsoftware.nl/code/mu/
 - Package: muchsync
@@ -8171,9 +8171,9 @@
   Description: Python bindings for the cairo graphics library
   Homepage: https://www.cairographics.org/pycairo/
 - Package: pygobject
-  Version: 3.50.0-1
+  Version: 3.52.1
   Description: Python package which provides bindings for GObject based libraries
-  Homepage: https://pygobject.readthedocs.io/
+  Homepage: https://pygobject.gnome.org/
 - Package: pypy
   Version: 7.3.19-1
   Description: A fast, compliant alternative implementation of Python
