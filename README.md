@@ -448,7 +448,7 @@
 | **etsh** | 5.4.0 | An enhanced, backward-compatible port of Thompson Shell | https://etsh.nl |
 | **exercism** | 3.5.4 | A Go based command line tool for exercism.io | https://github.com/exercism/cli/ |
 | **exhale** | 1.2.1 | Open source xHE-AAC encoder | https://gitlab.com/ecodis/exhale |
-| **exiftool** | 13.24 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
+| **exiftool** | 13.25 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
 | **exiv2** | 2:0.28.5 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **exiv2-static** | 2:0.27.7-1 | Static libraries for exiv2 | https://exiv2.org/ |
 | **expect** | 5.45.4-3 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
@@ -600,8 +600,8 @@
 | **glslang** | 15.1.0 | OpenGL and OpenGL ES shader front end and validator | https://github.com/KhronosGroup/glslang |
 | **gluelang** | 0.2.0-1 | A programming language that has a strong nature to be a glue of commands | https://ryuichiueda.github.io/GlueLang/ |
 | **glulxe** | 0.6.1 | Interpreter for the Glulx portable VM for interactive fiction (IF) games | https://www.eblong.com/zarf/glulx/ |
-| **gmic** | 3.5.2 | Full-featured framework for image processing | https://gmic.eu |
-| **gmic-gm** | 3.5.2 | Full-featured framework for image processing (GraphicsMagick variant) | https://gmic.eu |
+| **gmic** | 3.5.3 | Full-featured framework for image processing | https://gmic.eu |
+| **gmic-gm** | 3.5.3 | Full-featured framework for image processing (GraphicsMagick variant) | https://gmic.eu |
 | **gn** | 20220502-1 | Meta-build system that generates build files for Ninja | https://gn.googlesource.com/gn |
 | **gnucap** | 20210107-3 | The Gnu Circuit Analysis Package | https://www.gnu.org/software/gnucap/gnucap.html |
 | **gnuchess** | 6.2.9-3 | Chess-playing program | https://www.gnu.org/software/chess/ |
@@ -810,7 +810,7 @@
 | **jump** | 0.51.0-3 | Jump helps you navigate in shell faster by learning your habits | https://github.com/gsamokovarov/jump |
 | **jupp** | 3.1jupp41 | User friendly full screen text editor | http://www.mirbsd.org/jupp.htm |
 | **just** | 1.40.0 | A handy way to save and run project-specific commands | https://just.systems |
-| **jython** | 2.7.3 | Python for the Java Platform | https://www.jython.org/ |
+| **jython** | 2.7.4 | Python for the Java Platform | https://www.jython.org/ |
 | **k2pdfopt** | 2.55-3 | A tool that optimizes PDF files for viewing on mobile readers | https://www.willus.com/k2pdfopt/ |
 | **k9s** | 0.40.8 | Kubernetes CLI To Manage Your Clusters In Style! | https://k9scli.io |
 | **kainjow-mustache** | 4.1 | Mustache implementation for modern C++ | https://github.com/kainjow/Mustache |
@@ -1547,7 +1547,7 @@
 | **libxml2-python-static** | 2.13.6 | Static libraries for libxml2-python | http://www.xmlsoft.org |
 | **libxml2-static** | 2.13.6 | Static libraries for libxml2 | http://www.xmlsoft.org |
 | **libxml2-utils** | 2.13.6 | XML utilities | http://www.xmlsoft.org |
-| **libxmlb** | 0.3.21 | Library to help create and query binary XML blobs | https://github.com/hughsie/libxmlb |
+| **libxmlb** | 0.3.22 | Library to help create and query binary XML blobs | https://github.com/hughsie/libxmlb |
 | **libxmlrpc** | 1.59.03 | XML-RPC for C and C++ | https://xmlrpc-c.sourceforge.io/ |
 | **libxmlrpc-static** | 1.59.03 | Static libraries for libxmlrpc | https://xmlrpc-c.sourceforge.io/ |
 | **libxrandr** | 1.5.4 | X11 RandR extension library | https://xorg.freedesktop.org/ |

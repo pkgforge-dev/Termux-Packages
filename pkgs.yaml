@@ -1751,7 +1751,7 @@
   Description: Open source xHE-AAC encoder
   Homepage: https://gitlab.com/ecodis/exhale
 - Package: exiftool
-  Version: "13.24"
+  Version: "13.25"
   Description: Utility for reading, writing and editing meta information in a wide variety of files.
   Homepage: https://exiftool.org/
 - Package: exiv2
@@ -2359,11 +2359,11 @@
   Description: Interpreter for the Glulx portable VM for interactive fiction (IF) games
   Homepage: https://www.eblong.com/zarf/glulx/
 - Package: gmic
-  Version: 3.5.2
+  Version: 3.5.3
   Description: Full-featured framework for image processing
   Homepage: https://gmic.eu
 - Package: gmic-gm
-  Version: 3.5.2
+  Version: 3.5.3
   Description: Full-featured framework for image processing (GraphicsMagick variant)
   Homepage: https://gmic.eu
 - Package: gn
@@ -3199,7 +3199,7 @@
   Description: A handy way to save and run project-specific commands
   Homepage: https://just.systems
 - Package: jython
-  Version: 2.7.3
+  Version: 2.7.4
   Description: Python for the Java Platform
   Homepage: https://www.jython.org/
 - Package: k2pdfopt
@@ -6147,7 +6147,7 @@
   Description: XML utilities
   Homepage: http://www.xmlsoft.org
 - Package: libxmlb
-  Version: 0.3.21
+  Version: 0.3.22
   Description: Library to help create and query binary XML blobs
   Homepage: https://github.com/hughsie/libxmlb
 - Package: libxmlrpc
