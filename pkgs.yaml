@@ -7975,11 +7975,11 @@
   Description: An open source Go backend
   Homepage: https://github.com/pocketbase/pocketbase
 - Package: poke
-  Version: "4.2"
+  Version: "4.3"
   Description: Interactive, extensible editor for binary data.
   Homepage: http://www.jemarch.net/poke.html
 - Package: poke-static
-  Version: "4.2"
+  Version: "4.3"
   Description: Static libraries for poke
   Homepage: http://www.jemarch.net/poke.html
 - Package: polipo
@@ -9183,7 +9183,7 @@
   Description: A user-friendly IRC bouncer
   Homepage: https://codeberg.org/emersion/soju
 - Package: solidity
-  Version: 0.8.28
+  Version: 0.8.29
   Description: An Ethereum smart contract-oriented language
   Homepage: https://solidity.readthedocs.io
 - Package: sops
