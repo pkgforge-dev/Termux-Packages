@@ -1215,7 +1215,7 @@
   Description: A simple webserver, implemented in a single .c file.
   Homepage: https://unix4lyfe.org/darkhttpd
 - Package: dart
-  Version: 3.7.1
+  Version: 3.7.2
   Description: Dart is a general-purpose programming language
   Homepage: https://dart.dev/
 - Package: dasel
@@ -1383,7 +1383,7 @@
   Description: A libpcap application that displays various tables of DNS traffic on your network
   Homepage: https://github.com/measurement-factory/dnstop
 - Package: dnsutils
-  Version: 9.20.6
+  Version: 9.20.6-1
   Description: Clients provided with BIND
   Homepage: https://www.isc.org/bind/
 - Package: dnsutils-static
@@ -6435,7 +6435,7 @@
   Description: Tracks runtime library calls in dynamically linked programs
   Homepage: http://www.ltrace.org/
 - Package: lua-language-server
-  Version: 3.13.7
+  Version: 3.13.8
   Description: Sumneko Lua Language Server coded in Lua
   Homepage: https://github.com/sumneko/lua-language-server
 - Package: lua-lgi
@@ -7399,7 +7399,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 25.3.0
+  Version: 25.4.1
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -8171,7 +8171,7 @@
   Description: Python bindings for the cairo graphics library
   Homepage: https://www.cairographics.org/pycairo/
 - Package: pygobject
-  Version: 3.52.1
+  Version: 3.52.1-1
   Description: Python package which provides bindings for GObject based libraries
   Homepage: https://pygobject.gnome.org/
 - Package: pypy
@@ -8811,7 +8811,7 @@
   Description: Static libraries for runit
   Homepage: http://smarden.org/runit
 - Package: rush
-  Version: 0.6.0
+  Version: 0.6.1
   Description: A cross-platform command-line tool for executing jobs in parallel
   Homepage: https://github.com/shenwei356/rush
 - Package: rust
@@ -9455,7 +9455,7 @@
   Description: Swiss Army Knife for SMTP
   Homepage: http://jetmore.org/john/code/swaks/
 - Package: swi-prolog
-  Version: 9.3.20-1
+  Version: 9.3.21
   Description: Most popular and complete prolog implementation
   Homepage: https://swi-prolog.org/
 - Package: swift-runtime-aarch64
@@ -9499,7 +9499,7 @@
   Description: Static libraries for swtpm
   Homepage: https://github.com/stefanberger/swtpm
 - Package: syncthing
-  Version: 1.29.2
+  Version: 1.29.3
   Description: Decentralized file synchronization
   Homepage: https://syncthing.net/
 - Package: sysprop
@@ -10675,7 +10675,7 @@
   Description: Blazing fast terminal file manager written in Rust, based on async I/O
   Homepage: https://yazi-rs.github.io/
 - Package: yosys
-  Version: "0.50"
+  Version: "0.51"
   Description: A framework for RTL synthesis tools
   Homepage: https://yosyshq.net/yosys/
 - Package: youtubedr
