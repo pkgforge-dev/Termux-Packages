@@ -2527,25 +2527,25 @@
   },
   {
     "Package": "emscripten",
-    "Version": "4.0.4",
+    "Version": "4.0.5",
     "Description": "Emscripten: An LLVM-to-WebAssembly Compiler",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-binaryen",
-    "Version": "4.0.4",
+    "Version": "4.0.5",
     "Description": "Emscripten-compatible Binaryen",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-llvm",
-    "Version": "4.0.4",
+    "Version": "4.0.5",
     "Description": "Emscripten-compatible LLVM",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-tests-third-party",
-    "Version": "4.0.4",
+    "Version": "4.0.5",
     "Description": "Emscripten third party test suite files",
     "Homepage": "https://emscripten.org"
   },
@@ -2701,19 +2701,19 @@
   },
   {
     "Package": "faust",
-    "Version": "2.77.3",
+    "Version": "2.79.3",
     "Description": "A functional programming language for signal processing and sound synthesis",
     "Homepage": "https://github.com/grame-cncm/faust"
   },
   {
     "Package": "faust-static",
-    "Version": "2.77.3",
+    "Version": "2.79.3",
     "Description": "Static libraries for faust",
     "Homepage": "https://github.com/grame-cncm/faust"
   },
   {
     "Package": "faustlibraries",
-    "Version": "2.77.3",
+    "Version": "2.79.3",
     "Description": "Faust DSP libraries",
     "Homepage": "https://github.com/grame-cncm/faust"
   },
@@ -10225,7 +10225,7 @@
   },
   {
     "Package": "minio",
-    "Version": "2025.02.28.09.55.16",
+    "Version": "2025.03.12.18.04.18",
     "Description": "Multi-Cloud Object Storage",
     "Homepage": "https://min.io/"
   },
@@ -10309,7 +10309,7 @@
   },
   {
     "Package": "mold",
-    "Version": "2.37.0",
+    "Version": "2.37.1",
     "Description": "mold: A Modern Linker",
     "Homepage": "https://github.com/rui314/mold"
   },
