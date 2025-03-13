@@ -452,7 +452,7 @@
 | **exiv2** | 2:0.28.5 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **exiv2-static** | 2:0.27.7-1 | Static libraries for exiv2 | https://exiv2.org/ |
 | **expect** | 5.45.4-3 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
-| **eza** | 0.20.23 | A modern replacement for ls | https://github.com/eza-community/eza |
+| **eza** | 0.20.24 | A modern replacement for ls | https://github.com/eza-community/eza |
 | **fact++** | 1.6.5-1 | Re-implementation of the well-known FaCT Description Logic (DL) Reasoner | https://bitbucket.org/dtsarkov/factplusplus |
 | **fakeroot** | 1.37 | Tool for simulating superuser privileges (with tcp ipc) | https://packages.qa.debian.org/f/fakeroot.html |
 | **fakeroot-static** | 1.37 | Static libraries for fakeroot | https://packages.qa.debian.org/f/fakeroot.html |
@@ -667,7 +667,7 @@
 | **gsf-tools** | 1.14.53 | Command-line tools for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
 | **gsl** | 2.8 | GNU Scientific Library (GSL) providing a wide range of mathematical routines | https://www.gnu.org/software/gsl/ |
 | **gsl-static** | 2.8 | Static libraries for gsl | https://www.gnu.org/software/gsl/ |
-| **gst-libav** | 1.24.12 | GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code | https://gstreamer.freedesktop.org/modules/gst-libav.html |
+| **gst-libav** | 1.26.0 | GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code | https://gstreamer.freedesktop.org/modules/gst-libav.html |
 | **gst-plugins-bad** | 1.26.0 | GStreamer Bad Plug-ins | https://gstreamer.freedesktop.org/ |
 | **gst-plugins-base** | 1.26.0 | GStreamer base plug-ins | https://gstreamer.freedesktop.org/ |
 | **gst-plugins-gl-headers** | 1.26.0 | OpenGL headers for GStreamer plugins | https://gstreamer.freedesktop.org/ |
@@ -1804,7 +1804,7 @@
 | **neocmakelsp** | 0.8.19 | a cmake lsp based on tower-lsp and treesitter | https://neocmakelsp.github.io/ |
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20250113-1 | A version of mutt with added features | https://neomutt.org/ |
-| **neovim** | 0.10.4-3 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
+| **neovim** | 0.10.4-4 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
 | **nerdfix** | 0.4.2 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.4 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.4 | Static libraries for net-snmp | http://www.net-snmp.org/ |
@@ -1860,7 +1860,7 @@
 | **octomap** | 1.10.0 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-4 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 25.4.1 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 25.4.2 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **okc-agents** | 0.1.2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.6-2 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-9 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |

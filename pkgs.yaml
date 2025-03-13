@@ -1767,7 +1767,7 @@
   Description: Tool for automating interactive terminal applications
   Homepage: https://core.tcl.tk/expect/index
 - Package: eza
-  Version: 0.20.23
+  Version: 0.20.24
   Description: A modern replacement for ls
   Homepage: https://github.com/eza-community/eza
 - Package: fact++
@@ -2627,7 +2627,7 @@
   Description: Static libraries for gsl
   Homepage: https://www.gnu.org/software/gsl/
 - Package: gst-libav
-  Version: 1.24.12
+  Version: 1.26.0
   Description: GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code
   Homepage: https://gstreamer.freedesktop.org/modules/gst-libav.html
 - Package: gst-plugins-bad
@@ -7175,7 +7175,7 @@
   Description: A version of mutt with added features
   Homepage: https://neomutt.org/
 - Package: neovim
-  Version: 0.10.4-3
+  Version: 0.10.4-4
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -7399,7 +7399,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 25.4.1
+  Version: 25.4.2
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
