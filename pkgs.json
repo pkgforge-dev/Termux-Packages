@@ -4117,7 +4117,7 @@
   },
   {
     "Package": "helm",
-    "Version": "3.17.1",
+    "Version": "3.17.2",
     "Description": "Helm helps you manage Kubernetes applications",
     "Homepage": "https://helm.sh"
   },
@@ -8359,13 +8359,13 @@
   },
   {
     "Package": "libstrophe",
-    "Version": "0.13.1",
+    "Version": "0.14.0",
     "Description": "libstrophe is a minimal XMPP library written in C",
     "Homepage": "https://strophe.im/libstrophe"
   },
   {
     "Package": "libstrophe-static",
-    "Version": "0.13.1",
+    "Version": "0.14.0",
     "Description": "Static libraries for libstrophe",
     "Homepage": "https://strophe.im/libstrophe"
   },
@@ -12259,7 +12259,7 @@
   },
   {
     "Package": "pygobject",
-    "Version": "3.52.1-1",
+    "Version": "3.52.2",
     "Description": "Python package which provides bindings for GObject based libraries",
     "Homepage": "https://pygobject.gnome.org/"
   },
@@ -13867,7 +13867,7 @@
   },
   {
     "Package": "spirv-headers",
-    "Version": "1.4.304.1",
+    "Version": "1.4.309.0",
     "Description": "SPIR-V Headers",
     "Homepage": "https://github.com/KhronosGroup/SPIRV-Headers"
   },

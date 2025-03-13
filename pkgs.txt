@@ -684,7 +684,7 @@
  helix  25.01.1  A post-modern modal text editor written in rust  https://helix-editor.com/ 
  helix-grammars  25.01.1  Helix grammars  https://helix-editor.com/ 
  hello  2.12.1-1  Prints a friendly greeting  https://www.gnu.org/software/hello/ 
- helm  3.17.1  Helm helps you manage Kubernetes applications  https://helm.sh 
+ helm  3.17.2  Helm helps you manage Kubernetes applications  https://helm.sh 
  helm-ls  0.2.0  Language server for Helm  https://github.com/mrjosh/helm-ls 
  help2man  1.49.3  Conversion tool to create man files  https://www.gnu.org/software/help2man/ 
  hexcurse  1.60.0-6  Console hexeditor  https://github.com/LonnyGomes/hexcurse 
@@ -1391,8 +1391,8 @@
  libssh2-static  1.11.1  Static libraries for libssh2  https://www.libssh2.org 
  libstemmer  2.2.0-1  Snowball compiler and stemming algorithms  https://snowballstem.org/ 
  libstemmer-static  2.2.0-1  Static libraries for libstemmer  https://snowballstem.org/ 
- libstrophe  0.13.1  libstrophe is a minimal XMPP library written in C  https://strophe.im/libstrophe 
- libstrophe-static  0.13.1  Static libraries for libstrophe  https://strophe.im/libstrophe 
+ libstrophe  0.14.0  libstrophe is a minimal XMPP library written in C  https://strophe.im/libstrophe 
+ libstrophe-static  0.14.0  Static libraries for libstrophe  https://strophe.im/libstrophe 
  libt3config  1.0.0  A library for reading and writing configuration files  https://os.ghalkes.nl/t3/libt3config.html 
  libt3highlight  0.5.0  A library for syntax highlighting different types of text files  https://os.ghalkes.nl/t3/libt3highlight.html 
  libt3key  0.2.11  A library and database with escape sequence to key symbol mappings  https://os.ghalkes.nl/t3/libt3key.html 
@@ -2041,7 +2041,7 @@
  pv  1.9.31  Terminal-based tool for monitoring the progress of data through a pipeline  https://www.ivarch.com/programs/pv.shtml 
  pwgen  2.08-1  Password generator which by default, unless given the '-s' option, generates memorable but insecure passwords  http://pwgen.sourceforge.net/ 
  pycairo  1.27.0-1  Python bindings for the cairo graphics library  https://www.cairographics.org/pycairo/ 
- pygobject  3.52.1-1  Python package which provides bindings for GObject based libraries  https://pygobject.gnome.org/ 
+ pygobject  3.52.2  Python package which provides bindings for GObject based libraries  https://pygobject.gnome.org/ 
  pypy  7.3.19-1  A fast, compliant alternative implementation of Python  https://pypy.org 
  pypy-tests  7.3.19-1  Test files for PyPy  https://pypy.org 
  pypy-tkinter  7.3.19-1  Tkinter support for PyPy  https://pypy.org 
@@ -2309,7 +2309,7 @@
  spglib  2.6.0  C library for finding and handling crystal symmetries  https://spglib.github.io/spglib/index.html 
  spglib-static  2.0.2  Static libraries for spglib  https://spglib.github.io/spglib/index.html 
  spiped  1.6.3  a utility for creating symmetrically encrypted and authenticated pipes between socket addresses  https://www.tarsnap.com/spiped.html 
- spirv-headers  1.4.304.1  SPIR-V Headers  https://github.com/KhronosGroup/SPIRV-Headers 
+ spirv-headers  1.4.309.0  SPIR-V Headers  https://github.com/KhronosGroup/SPIRV-Headers 
  spirv-tools  1.4.304.1  SPIR-V Tools  https://github.com/KhronosGroup/SPIRV-Tools 
  sqlcipher  4.6.1  SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files  https://github.com/sqlcipher/sqlcipher 
  sqlcipher-static  4.6.1  Static libraries for sqlcipher  https://github.com/sqlcipher/sqlcipher 

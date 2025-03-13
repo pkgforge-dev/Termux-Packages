@@ -2743,7 +2743,7 @@
   Description: Prints a friendly greeting
   Homepage: https://www.gnu.org/software/hello/
 - Package: helm
-  Version: 3.17.1
+  Version: 3.17.2
   Description: Helm helps you manage Kubernetes applications
   Homepage: https://helm.sh
 - Package: helm-ls
@@ -5571,11 +5571,11 @@
   Description: Static libraries for libstemmer
   Homepage: https://snowballstem.org/
 - Package: libstrophe
-  Version: 0.13.1
+  Version: 0.14.0
   Description: libstrophe is a minimal XMPP library written in C
   Homepage: https://strophe.im/libstrophe
 - Package: libstrophe-static
-  Version: 0.13.1
+  Version: 0.14.0
   Description: Static libraries for libstrophe
   Homepage: https://strophe.im/libstrophe
 - Package: libt3config
@@ -8171,7 +8171,7 @@
   Description: Python bindings for the cairo graphics library
   Homepage: https://www.cairographics.org/pycairo/
 - Package: pygobject
-  Version: 3.52.1-1
+  Version: 3.52.2
   Description: Python package which provides bindings for GObject based libraries
   Homepage: https://pygobject.gnome.org/
 - Package: pypy
@@ -9243,7 +9243,7 @@
   Description: a utility for creating symmetrically encrypted and authenticated pipes between socket addresses
   Homepage: https://www.tarsnap.com/spiped.html
 - Package: spirv-headers
-  Version: 1.4.304.1
+  Version: 1.4.309.0
   Description: SPIR-V Headers
   Homepage: https://github.com/KhronosGroup/SPIRV-Headers
 - Package: spirv-tools
