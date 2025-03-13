@@ -2869,7 +2869,7 @@
   },
   {
     "Package": "fish",
-    "Version": "4.0.0-2",
+    "Version": "4.0.1",
     "Description": "The user-friendly command line shell",
     "Homepage": "https://fishshell.com/"
   },
@@ -4435,13 +4435,13 @@
   },
   {
     "Package": "imagemagick",
-    "Version": "7.1.1.45",
+    "Version": "7.1.1.45-1",
     "Description": "Suite to create, edit, compose, or convert images in a variety of formats",
     "Homepage": "https://www.imagemagick.org/"
   },
   {
     "Package": "imagemagick-static",
-    "Version": "7.1.1.45",
+    "Version": "7.1.1.45-1",
     "Description": "Static libraries for imagemagick",
     "Homepage": "https://www.imagemagick.org/"
   },
@@ -10435,7 +10435,7 @@
   },
   {
     "Package": "mpd",
-    "Version": "0.23.17",
+    "Version": "0.24",
     "Description": "Music player daemon",
     "Homepage": "https://www.musicpd.org"
   },

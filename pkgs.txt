@@ -476,7 +476,7 @@
  finch-static  2.14.14  Static libraries for finch  https://pidgin.im/ 
  findomain  9.0.4-1  Findomain is the fastest subdomain enumerator and the only one written in Rust  https://findomain.app/ 
  findutils  4.10.0  Utilities to find files meeting specified criteria and perform various actions on the files which are found  https://www.gnu.org/software/findutils/ 
- fish  4.0.0-2  The user-friendly command line shell  https://fishshell.com/ 
+ fish  4.0.1  The user-friendly command line shell  https://fishshell.com/ 
  flac  1.5.0  FLAC (Free Lossless Audio Codec) command-line tool  https://xiph.org/flac/ 
  flatbuffers  25.2.10  Memory Efficient Serialization Library  https://github.com/google/flatbuffers 
  flatbuffers-static  25.2.10  Static libraries for flatbuffers  https://github.com/google/flatbuffers 
@@ -737,8 +737,8 @@
  id3lib-static  3.8.3-3  Static libraries for id3lib  http://id3lib.sourceforge.net/ 
  id3ted  1.0-3  A comand line id3 tag editor  https://muennich.github.io/id3ted/ 
  id3v2  0.1.12-1  A command line id3v2 tag editor  http://id3v2.sourceforge.net/ 
- imagemagick  7.1.1.45  Suite to create, edit, compose, or convert images in a variety of formats  https://www.imagemagick.org/ 
- imagemagick-static  7.1.1.45  Static libraries for imagemagick  https://www.imagemagick.org/ 
+ imagemagick  7.1.1.45-1  Suite to create, edit, compose, or convert images in a variety of formats  https://www.imagemagick.org/ 
+ imagemagick-static  7.1.1.45-1  Static libraries for imagemagick  https://www.imagemagick.org/ 
  imath  3.1.12  Library for vector/matrix and math operations, plus the half type  https://imath.readthedocs.io/ 
  imgflo  0.4.2-8  HTTP image processing server & Flowhub.io compatible runtime  https://github.com/imgflo/imgflo 
  imlib2  1.12.3-1  Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support  https://sourceforge.net/projects/enlightenment/ 
@@ -1737,7 +1737,7 @@
  mp3splt  2.6.2-1  Utility to split mp3, ogg vorbis and FLAC files without decoding  http://mp3splt.sourceforge.net 
  mp3wrap  0.5  A command-line utility that wraps quickly two or more mp3 files in one single large playable mp3  https://mp3wrap.sourceforge.net/ 
  mpc  0.35  Minimalist command line interface for MPD  https://www.musicpd.org/clients/mpc/ 
- mpd  0.23.17  Music player daemon  https://www.musicpd.org 
+ mpd  0.24  Music player daemon  https://www.musicpd.org 
  mpd-static  0.23.15  Static libraries for mpd  https://www.musicpd.org 
  mpdscribble  0.25  A Music Player Daemon (MPD) client which submits information about tracks being played to a scrobbler  https://www.musicpd.org/clients/mpdscribble/ 
  mpg123  1.32.10  Fast console MPEG Audio Player and decoder library  https://mpg123.org/ 
