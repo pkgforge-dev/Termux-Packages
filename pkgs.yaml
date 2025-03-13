@@ -2643,7 +2643,7 @@
   Description: OpenGL headers for GStreamer plugins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-plugins-good
-  Version: 1.24.12
+  Version: 1.26.0
   Description: GStreamer Good Plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-plugins-ugly
@@ -3271,7 +3271,7 @@
   Description: Colorize your kubectl output
   Homepage: https://github.com/kubecolor/kubecolor
 - Package: kubectl
-  Version: 1.32.2
+  Version: 1.32.3
   Description: Kubernetes.io client binary
   Homepage: https://kubernetes.io/
 - Package: kubelogin
@@ -6435,7 +6435,7 @@
   Description: Tracks runtime library calls in dynamically linked programs
   Homepage: http://www.ltrace.org/
 - Package: lua-language-server
-  Version: 3.13.8
+  Version: 3.13.9
   Description: Sumneko Lua Language Server coded in Lua
   Homepage: https://github.com/sumneko/lua-language-server
 - Package: lua-lgi
@@ -9007,7 +9007,7 @@
   Description: Static libraries for serf
   Homepage: https://serf.apache.org/
 - Package: sfeed
-  Version: "2.1"
+  Version: "2.2"
   Description: Shell-script/crontab oriented feed aggregator and parser utility (curses-based reader included)
   Homepage: https://codemadness.org/sfeed-simple-feed-parser.html
 - Package: sftpgo
