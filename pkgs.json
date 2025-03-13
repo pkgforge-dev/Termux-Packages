@@ -2605,7 +2605,7 @@
   },
   {
     "Package": "et",
-    "Version": "6.2.9-3",
+    "Version": "6.2.9-4",
     "Description": "A remote shell that automatically reconnects without interrupting the session",
     "Homepage": "https://eternalterminal.dev"
   },
@@ -3979,7 +3979,7 @@
   },
   {
     "Package": "gst-python",
-    "Version": "1.24.12-1",
+    "Version": "1.26.0",
     "Description": "Python bindings for GStreamer",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
@@ -13873,7 +13873,7 @@
   },
   {
     "Package": "spirv-tools",
-    "Version": "1.4.304.1",
+    "Version": "1.4.309.0",
     "Description": "SPIR-V Tools",
     "Homepage": "https://github.com/KhronosGroup/SPIRV-Tools"
   },
@@ -15541,7 +15541,7 @@
   },
   {
     "Package": "vulkan-validation-layers",
-    "Version": "1.4.305",
+    "Version": "1.4.310",
     "Description": "Vulkan Validation Layers",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-ValidationLayers"
   },
