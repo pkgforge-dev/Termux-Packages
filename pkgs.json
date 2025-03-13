@@ -3949,19 +3949,19 @@
   },
   {
     "Package": "gst-plugins-bad",
-    "Version": "1.24.12-1",
+    "Version": "1.26.0",
     "Description": "GStreamer Bad Plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
   {
     "Package": "gst-plugins-base",
-    "Version": "1.24.12",
+    "Version": "1.26.0",
     "Description": "GStreamer base plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
   {
     "Package": "gst-plugins-gl-headers",
-    "Version": "1.24.12",
+    "Version": "1.26.0",
     "Description": "OpenGL headers for GStreamer plugins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
@@ -3985,7 +3985,7 @@
   },
   {
     "Package": "gstreamer",
-    "Version": "1.24.12",
+    "Version": "1.26.0",
     "Description": "Open source multimedia framework",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
@@ -4585,7 +4585,7 @@
   },
   {
     "Package": "isync",
-    "Version": "1.5.0-2",
+    "Version": "1.5.1",
     "Description": "IMAP and MailDir mailbox synchronizer",
     "Homepage": "http://isync.sourceforge.net"
   },
@@ -9277,7 +9277,7 @@
   },
   {
     "Package": "libxslt",
-    "Version": "1.1.42-1",
+    "Version": "1.1.43",
     "Description": "XSLT processing library",
     "Homepage": "http://xmlsoft.org/libxslt/"
   },
@@ -11503,7 +11503,7 @@
   },
   {
     "Package": "pango",
-    "Version": "1.56.1",
+    "Version": "1.56.2",
     "Description": "Library for laying out and rendering text",
     "Homepage": "https://www.gtk.org/docs/architecture/pango"
   },
@@ -15913,7 +15913,7 @@
   },
   {
     "Package": "xsltproc",
-    "Version": "1.1.42-1",
+    "Version": "1.1.43",
     "Description": "XSLT command line processor",
     "Homepage": "http://xmlsoft.org/libxslt/"
   },
