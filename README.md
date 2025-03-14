@@ -405,7 +405,7 @@
 | **duc** | 1.4.5 | High-performance disk usage analyzer | http://duc.zevv.nl/ |
 | **duckdb** | 1.2.1 | DuckDB Command Line Interface (CLI) shell | https://duckdb.org/ |
 | **duf** | 0.8.1-3 | Disk usage/free utility | https://github.com/muesli/duf |
-| **dufs** | 0.43.0 | A file server that supports static serving, uploading, searching, accessing control, webdav... | https://github.com/sigoden/dufs |
+| **dufs** | 0.43.0-1 | A file server that supports static serving, uploading, searching, accessing control, webdav... | https://github.com/sigoden/dufs |
 | **duktape** | 2.7.0-1 | Simple REPL for Duktape | https://www.duktape.org/ |
 | **dust** | 1.1.2 | A more intuitive version of du in rust | https://github.com/bootandy/dust |
 | **dvdauthor** | 0.7.2-2 | Generates a DVD-Video movie from a valid MPEG-2 stream | https://dvdauthor.sourceforge.net/ |
@@ -830,6 +830,7 @@
 | **kubecolor** | 0.5.0 | Colorize your kubectl output | https://github.com/kubecolor/kubecolor |
 | **kubectl** | 1.32.3 | Kubernetes.io client binary | https://kubernetes.io/ |
 | **kubelogin** | 1.32.2 | A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication | https://github.com/int128/kubelogin |
+| **kubo** | 0.33.2-1 | A peer-to-peer hypermedia distribution protocol | https://ipfs.io/ |
 | **ladspa-sdk** | 1.17-2 | Linux Audio Developer's Simple Plugin API | https://www.ladspa.org/ |
 | **lame** | 3.100-6 | High quality MPEG Audio Layer III (MP3) encoder - frontend | https://lame.sourceforge.io/ |
 | **lastpass-cli** | 1.6.1 | LastPass command line interface tool | https://lastpass.com/ |
@@ -1694,7 +1695,7 @@
 | **media-types** | 10.1.0-1 | List of standard media types and their usual file extension | https://pagure.io/mailcap |
 | **mediainfo** | 24.12 | Command-line utility for reading information from media files | https://mediaarea.net/en/MediaInfo |
 | **mediamtx** | 1.11.3-1 | Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy | https://github.com/bluenviron/mediamtx |
-| **megacmd** | 1.7.0-3 | Provides non UI access to MEGA services | https://mega.io/ |
+| **megacmd** | 2.0.0 | Provides non UI access to MEGA services | https://mega.io/ |
 | **megatools** | 1.11.1.20230212 | Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage | https://megatools.megous.com/ |
 | **memcached** | 1.6.37 | Free & open source, high-performance, distributed memory object caching system | https://memcached.org/ |
 | **mercury** | 22.01.8 | A logic/functional programming language | https://www.mercurylang.org/ |
@@ -2048,7 +2049,7 @@
 | **pulseaudio** | 17.0-1 | A featureful, general-purpose sound server | https://www.freedesktop.org/wiki/Software/PulseAudio |
 | **pulseaudio-glib** | 17.0-1 | PulseAudio GLIB mainloop component | https://www.freedesktop.org/wiki/Software/PulseAudio |
 | **pulseaudio-glib-static** | 14.2-10 | Static library for PulseAudio GLIB mainloop component | https://www.freedesktop.org/wiki/Software/PulseAudio |
-| **pup** | 0.4.0-6 | command line tool for processing HTML | https://github.com/ericchiang/pup |
+| **pup** | 0.4.0-7 | command line tool for processing HTML | https://github.com/ericchiang/pup |
 | **pure-ftpd** | 1.0.52 | Pure-FTPd is a free (BSD), secure, production-quality and standard-conformant FTP server | https://www.pureftpd.org/project/pure-ftpd |
 | **pv** | 1.9.31 | Terminal-based tool for monitoring the progress of data through a pipeline | https://www.ivarch.com/programs/pv.shtml |
 | **pwgen** | 2.08-1 | Password generator which by default, unless given the '-s' option, generates memorable but insecure passwords | http://pwgen.sourceforge.net/ |

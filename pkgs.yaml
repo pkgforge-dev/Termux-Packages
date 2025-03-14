@@ -1579,7 +1579,7 @@
   Description: Disk usage/free utility
   Homepage: https://github.com/muesli/duf
 - Package: dufs
-  Version: 0.43.0
+  Version: 0.43.0-1
   Description: A file server that supports static serving, uploading, searching, accessing control, webdav...
   Homepage: https://github.com/sigoden/dufs
 - Package: duktape
@@ -3278,6 +3278,10 @@
   Version: 1.32.2
   Description: A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication
   Homepage: https://github.com/int128/kubelogin
+- Package: kubo
+  Version: 0.33.2-1
+  Description: A peer-to-peer hypermedia distribution protocol
+  Homepage: https://ipfs.io/
 - Package: ladspa-sdk
   Version: 1.17-2
   Description: Linux Audio Developers Simple Plugin API
@@ -6735,7 +6739,7 @@
   Description: Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy
   Homepage: https://github.com/bluenviron/mediamtx
 - Package: megacmd
-  Version: 1.7.0-3
+  Version: 2.0.0
   Description: Provides non UI access to MEGA services
   Homepage: https://mega.io/
 - Package: megatools
@@ -8151,7 +8155,7 @@
   Description: Static library for PulseAudio GLIB mainloop component
   Homepage: https://www.freedesktop.org/wiki/Software/PulseAudio
 - Package: pup
-  Version: 0.4.0-6
+  Version: 0.4.0-7
   Description: command line tool for processing HTML
   Homepage: https://github.com/ericchiang/pup
 - Package: pure-ftpd

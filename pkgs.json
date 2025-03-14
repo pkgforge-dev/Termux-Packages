@@ -2371,7 +2371,7 @@
   },
   {
     "Package": "dufs",
-    "Version": "0.43.0",
+    "Version": "0.43.0-1",
     "Description": "A file server that supports static serving, uploading, searching, accessing control, webdav...",
     "Homepage": "https://github.com/sigoden/dufs"
   },
@@ -4918,6 +4918,12 @@
     "Version": "1.32.2",
     "Description": "A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication",
     "Homepage": "https://github.com/int128/kubelogin"
+  },
+  {
+    "Package": "kubo",
+    "Version": "0.33.2-1",
+    "Description": "A peer-to-peer hypermedia distribution protocol",
+    "Homepage": "https://ipfs.io/"
   },
   {
     "Package": "ladspa-sdk",
@@ -10105,7 +10111,7 @@
   },
   {
     "Package": "megacmd",
-    "Version": "1.7.0-3",
+    "Version": "2.0.0",
     "Description": "Provides non UI access to MEGA services",
     "Homepage": "https://mega.io/"
   },
@@ -12229,7 +12235,7 @@
   },
   {
     "Package": "pup",
-    "Version": "0.4.0-6",
+    "Version": "0.4.0-7",
     "Description": "command line tool for processing HTML",
     "Homepage": "https://github.com/ericchiang/pup"
   },
