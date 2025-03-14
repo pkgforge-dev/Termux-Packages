@@ -4103,7 +4103,7 @@
   Description: Static libraries for libgd
   Homepage: https://libgd.github.io/
 - Package: libgedit-gfls
-  Version: 0.2.1
+  Version: 0.3.0
   Description: A module dedicated to file loading and saving
   Homepage: https://gitlab.gnome.org/World/gedit/libgedit-gfls
 - Package: libgee
@@ -9715,7 +9715,7 @@
   Description: Static libraries for texlive-bin
   Homepage: https://www.tug.org/texlive/
 - Package: texlive-installer
-  Version: 20240310-1
+  Version: "20250308"
   Description: Wrapper around texlives install-tl script
   Homepage: https://www.tug.org/texlive/
 - Package: thrift
