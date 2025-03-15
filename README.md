@@ -364,7 +364,7 @@
 | **docopt-static** | 0.6.3-3 | Static libraries for docopt | http://docopt.org |
 | **doctest** | 2.4.11-1 | The fastest feature-rich C++11/14/17/20 single-header testing framework | https://github.com/doctest/doctest |
 | **dog** | 0.1.0-2 | A command-line DNS client. | https://dns.lookup.dog/ |
-| **doge** | 0.2.8 | A command-line DNS client | https://github.com/Dj-Codeman/doge |
+| **doge** | 0.2.8-1 | A command-line DNS client | https://github.com/Dj-Codeman/dog_community |
 | **dopewars** | 1.6.2 | Drug-dealing game set in streets of New York City | https://dopewars.sourceforge.io |
 | **dos2unix** | 7.5.2 | Converts between DOS and Unix text files | https://waterlan.home.xs4all.nl/dos2unix.html |
 | **dosfstools** | 4.2 | DOS file system utilities | https://github.com/dosfstools/dosfstools |
@@ -1861,7 +1861,7 @@
 | **octomap** | 1.10.0 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-4 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 25.4.2 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 25.4.3 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **okc-agents** | 0.1.2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.6-2 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-9 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
@@ -2033,7 +2033,7 @@
 | **procyon-decompiler** | 0.6.0-1 | A standalone front-end for the Java decompiler in Procyon Compiler Toolset | https://github.com/mstrobel/procyon |
 | **profanity** | 0.14.0-3 | Profanity is a console based XMPP client written in C using ncurses and libstrophe, inspired by Irssi | https://profanity-im.github.io |
 | **progress** | 0.17 | Linux tool to show progress for cp, mv, dd and more | https://github.com/Xfennec/progress |
-| **proj** | 9.5.1 | Generic coordinate transformation software | https://proj.org |
+| **proj** | 9.6.0 | Generic coordinate transformation software | https://proj.org |
 | **proot** | 5.1.107-65 | Emulate chroot, bind mount and binfmt_misc for non-root users | https://proot-me.github.io/ |
 | **proot-distro** | 4.22.1 | Termux official utility for managing proot'ed Linux distributions | https://github.com/termux/proot-distro |
 | **protobuf** | 2:30.0-1 | Compiler for protocol buffer definition files | https://github.com/protocolbuffers/protobuf |

@@ -1415,9 +1415,9 @@
   Description: A command-line DNS client.
   Homepage: https://dns.lookup.dog/
 - Package: doge
-  Version: 0.2.8
+  Version: 0.2.8-1
   Description: A command-line DNS client
-  Homepage: https://github.com/Dj-Codeman/doge
+  Homepage: https://github.com/Dj-Codeman/dog_community
 - Package: dopewars
   Version: 1.6.2
   Description: Drug-dealing game set in streets of New York City
@@ -7403,7 +7403,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 25.4.2
+  Version: 25.4.3
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -8091,7 +8091,7 @@
   Description: Linux tool to show progress for cp, mv, dd and more
   Homepage: https://github.com/Xfennec/progress
 - Package: proj
-  Version: 9.5.1
+  Version: 9.6.0
   Description: Generic coordinate transformation software
   Homepage: https://proj.org
 - Package: proot
