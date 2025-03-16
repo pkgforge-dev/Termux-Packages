@@ -111,7 +111,7 @@
   Description: Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support
   Homepage: https://algernon.roboticoverlords.org/
 - Package: alist
-  Version: 3.42.0
+  Version: 3.43.0
   Description: A file list program that supports multiple storage
   Homepage: https://alist.nn.ci
 - Package: alpine
@@ -375,7 +375,7 @@
   Description: AT and batch delayed command scheduling utility and daemon
   Homepage: https://salsa.debian.org/debian/at
 - Package: at-spi2-core
-  Version: 2.54.1
+  Version: 2.56.0
   Description: Assistive Technology Service Provider Interface (AT-SPI)
   Homepage: https://wiki.gnome.org/Accessibility
 - Package: atomicparsley
@@ -1935,7 +1935,7 @@
   Description: Static libraries for flex
   Homepage: https://github.com/westes/flex
 - Package: fluidsynth
-  Version: 2.4.3
+  Version: 2.4.4
   Description: Software synthesizer based on the SoundFont 2 specifications
   Homepage: https://github.com/FluidSynth/fluidsynth
 - Package: fm
@@ -6615,7 +6615,7 @@
   Description: Connect to your mattermost or slack using your IRC-client of choice
   Homepage: https://github.com/42wim/matterircd
 - Package: mautrix-whatsapp
-  Version: 0.11.3
+  Version: 0.11.4
   Description: A Matrix-WhatsApp puppeting bridge
   Homepage: https://maunium.net/go/mautrix-whatsapp/
 - Package: maven
@@ -6639,9 +6639,9 @@
   Description: Static libraries for mbedtls
   Homepage: https://tls.mbed.org/
 - Package: mc
-  Version: 4.8.33
+  Version: 4.8.33-1
   Description: Midnight Commander - a powerful file manager
-  Homepage: https://www.midnight-commander.org/
+  Homepage: https://midnight-commander.org
 - Package: mcfly
   Version: 0.9.3
   Description: Replaces your default ctrl-r shell history search with an intelligent search engine
@@ -7671,7 +7671,7 @@
   Description: Static libraries for panda3d
   Homepage: https://www.panda3d.org/
 - Package: pango
-  Version: 1.56.2
+  Version: 1.56.3
   Description: Library for laying out and rendering text
   Homepage: https://www.gtk.org/docs/architecture/pango
 - Package: paperkey

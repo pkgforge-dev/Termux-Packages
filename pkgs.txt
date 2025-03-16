@@ -26,7 +26,7 @@
  alass  2.0.0-2  Automatic Language-Agnostic Subtitle Synchronization  https://github.com/kaegi/alass 
  alembic  1.8.8  A framework for sharing scene data that includes a C++ lib, a file format and client plugin  https://alembic.io 
  algernon  1.17.3  Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support  https://algernon.roboticoverlords.org/ 
- alist  3.42.0  A file list program that supports multiple storage  https://alist.nn.ci 
+ alist  3.43.0  A file list program that supports multiple storage  https://alist.nn.ci 
  alpine  2.26  Fast, easy to use email client  http://alpine.x10host.com/ 
  alsa-lib  1.2.13  The Advanced Linux Sound Architecture (ALSA) - library  https://www.alsa-project.org 
  alsa-plugins  1.2.12  The Advanced Linux Sound Architecture (ALSA) - plugins  https://www.alsa-project.org 
@@ -92,7 +92,7 @@
  astra-sm  2019.06.19  Software for digital TV broadcasting  https://gitlab.com/berdyansk/astra-sm 
  asymptote  2.95  A powerful descriptive vector graphics language for technical drawing  https://asymptote.sourceforge.io/ 
  at  3.2.5-1  AT and batch delayed command scheduling utility and daemon  https://salsa.debian.org/debian/at 
- at-spi2-core  2.54.1  Assistive Technology Service Provider Interface (AT-SPI)  https://wiki.gnome.org/Accessibility 
+ at-spi2-core  2.56.0  Assistive Technology Service Provider Interface (AT-SPI)  https://wiki.gnome.org/Accessibility 
  atomicparsley  1:20240608.083822.1ed9031  Read, parse and set metadata of MPEG-4 and 3gp files  https://github.com/wez/atomicparsley 
  atomvm  1:0.6.5  The minimal Erlang VM implementation  https://github.com/bettio/AtomVM 
  atool  0.39.0-1  tool for managing file archives of various types  https://www.nongnu.org/atool 
@@ -482,7 +482,7 @@
  flatbuffers-static  25.2.10  Static libraries for flatbuffers  https://github.com/google/flatbuffers 
  flex  2.6.4-3  Fast lexical analyser generator  https://github.com/westes/flex 
  flex-static  2.6.4-3  Static libraries for flex  https://github.com/westes/flex 
- fluidsynth  2.4.3  Software synthesizer based on the SoundFont 2 specifications  https://github.com/FluidSynth/fluidsynth 
+ fluidsynth  2.4.4  Software synthesizer based on the SoundFont 2 specifications  https://github.com/FluidSynth/fluidsynth 
  fm  1.1.0  A terminal based file manager  https://github.com/knipferrc/fm 
  fmt  1:11.1.4  Open-source formatting library for C++  https://fmt.dev/latest/index.html 
  fontconfig  2.16.0  Library for configuring and customizing font access  https://www.freedesktop.org/wiki/Software/fontconfig/ 
@@ -1652,13 +1652,13 @@
  matplotlib  3.10.1  A comprehensive library for creating static, animated, and interactive visualizations in Python  https://matplotlib.org/ 
  matterbridge  1.26.0-3  A simple chat bridge  https://github.com/42wim/matterbridge 
  matterircd  0.28.0  Connect to your mattermost or slack using your IRC-client of choice  https://github.com/42wim/matterircd 
- mautrix-whatsapp  0.11.3  A Matrix-WhatsApp puppeting bridge  https://maunium.net/go/mautrix-whatsapp/ 
+ mautrix-whatsapp  0.11.4  A Matrix-WhatsApp puppeting bridge  https://maunium.net/go/mautrix-whatsapp/ 
  maven  3.9.9  A Java software project management and comprehension tool  https://maven.apache.org/ 
  maxcso  1.13.0  A fast ISO to CSO compression program for use with PSP and PS2 emulators  https://github.com/unknownbrackets/maxcso 
  mazter  2022.08.13  Mazes in your terminal  https://github.com/Canop/mazter 
  mbedtls  3.6.2  Light-weight cryptographic and SSL/TLS library  https://tls.mbed.org/ 
  mbedtls-static  3.6.2  Static libraries for mbedtls  https://tls.mbed.org/ 
- mc  4.8.33  Midnight Commander - a powerful file manager  https://www.midnight-commander.org/ 
+ mc  4.8.33-1  Midnight Commander - a powerful file manager  https://midnight-commander.org 
  mcfly  0.9.3  Replaces your default ctrl-r shell history search with an intelligent search engine  https://github.com/cantino/mcfly 
  mdbook  0.4.47  Creates book from markdown files  https://rust-lang.github.io/mdBook/ 
  mdbook-auto-gen-summary  0.1.10  A preprocessor and cli tool for mdbook to auto generate summary  https://github.com/cococolanosugar/mdbook-auto-gen-summary 
@@ -1916,7 +1916,7 @@
  panda3d  1.10.15  A framework for 3D rendering and game development for Python and C++ programs  https://www.panda3d.org/ 
  panda3d-samples  1.10.15  Python sample programs that use Panda3D  https://www.panda3d.org/ 
  panda3d-static  1.10.15  Static libraries for panda3d  https://www.panda3d.org/ 
- pango  1.56.2  Library for laying out and rendering text  https://www.gtk.org/docs/architecture/pango 
+ pango  1.56.3  Library for laying out and rendering text  https://www.gtk.org/docs/architecture/pango 
  paperkey  1.6  Archive OpenPGP keys on paper  http://www.jabberwocky.com/software/paperkey/ 
  par2  0.8.1-4  par2cmdline is a PAR 2.0 compatible file verification and repair tool  https://github.com/Parchive/par2cmdline 
  parallel  20250222  GNU Parallel is a shell tool for executing jobs in parallel using one or more machines  https://www.gnu.org/software/parallel/ 

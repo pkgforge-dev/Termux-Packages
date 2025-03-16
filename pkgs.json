@@ -169,7 +169,7 @@
   },
   {
     "Package": "alist",
-    "Version": "3.42.0",
+    "Version": "3.43.0",
     "Description": "A file list program that supports multiple storage",
     "Homepage": "https://alist.nn.ci"
   },
@@ -565,7 +565,7 @@
   },
   {
     "Package": "at-spi2-core",
-    "Version": "2.54.1",
+    "Version": "2.56.0",
     "Description": "Assistive Technology Service Provider Interface (AT-SPI)",
     "Homepage": "https://wiki.gnome.org/Accessibility"
   },
@@ -2905,7 +2905,7 @@
   },
   {
     "Package": "fluidsynth",
-    "Version": "2.4.3",
+    "Version": "2.4.4",
     "Description": "Software synthesizer based on the SoundFont 2 specifications",
     "Homepage": "https://github.com/FluidSynth/fluidsynth"
   },
@@ -9925,7 +9925,7 @@
   },
   {
     "Package": "mautrix-whatsapp",
-    "Version": "0.11.3",
+    "Version": "0.11.4",
     "Description": "A Matrix-WhatsApp puppeting bridge",
     "Homepage": "https://maunium.net/go/mautrix-whatsapp/"
   },
@@ -9961,9 +9961,9 @@
   },
   {
     "Package": "mc",
-    "Version": "4.8.33",
+    "Version": "4.8.33-1",
     "Description": "Midnight Commander - a powerful file manager",
-    "Homepage": "https://www.midnight-commander.org/"
+    "Homepage": "https://midnight-commander.org"
   },
   {
     "Package": "mcfly",
@@ -11509,7 +11509,7 @@
   },
   {
     "Package": "pango",
-    "Version": "1.56.2",
+    "Version": "1.56.3",
     "Description": "Library for laying out and rendering text",
     "Homepage": "https://www.gtk.org/docs/architecture/pango"
   },
