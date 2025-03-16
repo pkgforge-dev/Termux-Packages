@@ -3207,7 +3207,7 @@
   Description: A tool that optimizes PDF files for viewing on mobile readers
   Homepage: https://www.willus.com/k2pdfopt/
 - Package: k9s
-  Version: 0.40.9
+  Version: 0.40.10
   Description: Kubernetes CLI To Manage Your Clusters In Style!
   Homepage: https://k9scli.io
 - Package: kainjow-mustache
@@ -7319,7 +7319,7 @@
   Description: Tools and demos for notcurses
   Homepage: https://notcurses.com/
 - Package: notmuch
-  Version: 0.38.3
+  Version: "0.39"
   Description: Thread-based email index, search and tagging system
   Homepage: https://notmuchmail.org
 - Package: npush
@@ -8175,7 +8175,7 @@
   Description: Python bindings for the cairo graphics library
   Homepage: https://www.cairographics.org/pycairo/
 - Package: pygobject
-  Version: 3.52.2
+  Version: 3.52.3
   Description: Python package which provides bindings for GObject based libraries
   Homepage: https://pygobject.gnome.org/
 - Package: pypy

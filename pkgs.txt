@@ -800,7 +800,7 @@
  just  1.40.0  A handy way to save and run project-specific commands  https://just.systems 
  jython  2.7.4  Python for the Java Platform  https://www.jython.org/ 
  k2pdfopt  2.55-3  A tool that optimizes PDF files for viewing on mobile readers  https://www.willus.com/k2pdfopt/ 
- k9s  0.40.9  Kubernetes CLI To Manage Your Clusters In Style!  https://k9scli.io 
+ k9s  0.40.10  Kubernetes CLI To Manage Your Clusters In Style!  https://k9scli.io 
  kainjow-mustache  4.1  Mustache implementation for modern C++  https://github.com/kainjow/Mustache 
  kakoune  2024.05.18  Code editor heavily inspired by Vim  https://kakoune.org/ 
  kakoune-lsp  18.1.2  Language Server Protocol Client for the Kakoune editor  https://github.com/kakoune-lsp/kakoune-lsp 
@@ -1828,7 +1828,7 @@
  notcurses  3.0.13  blingful TUIs and character graphics  https://notcurses.com/ 
  notcurses-data  3.0.13  Platform-independent data for notcurses  https://notcurses.com/ 
  notcurses-tools  3.0.13  Tools and demos for notcurses  https://notcurses.com/ 
- notmuch  0.38.3  Thread-based email index, search and tagging system  https://notmuchmail.org 
+ notmuch  0.39  Thread-based email index, search and tagging system  https://notmuchmail.org 
  npush  0.7-1  Curses-based logic game similar to Sokoban and Boulder Dash  http://npush.sourceforge.net/ 
  nsis  3.11  A professional open source system to create Windows installers  https://sourceforge.net/projects/nsis/ 
  nsis-stubs  3.11  NSIS Stubs  https://sourceforge.net/projects/nsis/ 
@@ -2042,7 +2042,7 @@
  pv  1.9.31  Terminal-based tool for monitoring the progress of data through a pipeline  https://www.ivarch.com/programs/pv.shtml 
  pwgen  2.08-1  Password generator which by default, unless given the '-s' option, generates memorable but insecure passwords  http://pwgen.sourceforge.net/ 
  pycairo  1.27.0-1  Python bindings for the cairo graphics library  https://www.cairographics.org/pycairo/ 
- pygobject  3.52.2  Python package which provides bindings for GObject based libraries  https://pygobject.gnome.org/ 
+ pygobject  3.52.3  Python package which provides bindings for GObject based libraries  https://pygobject.gnome.org/ 
  pypy  7.3.19-1  A fast, compliant alternative implementation of Python  https://pypy.org 
  pypy-tests  7.3.19-1  Test files for PyPy  https://pypy.org 
  pypy-tkinter  7.3.19-1  Tkinter support for PyPy  https://pypy.org 
