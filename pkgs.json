@@ -1579,7 +1579,7 @@
   },
   {
     "Package": "command-not-found",
-    "Version": "2.4.0-66",
+    "Version": "2.4.0-67",
     "Description": "Suggest installation of packages in interactive shell sessions",
     "Homepage": "https://github.com/termux/command-not-found"
   },
@@ -4813,7 +4813,7 @@
   },
   {
     "Package": "k9s",
-    "Version": "0.40.8",
+    "Version": "0.40.9",
     "Description": "Kubernetes CLI To Manage Your Clusters In Style!",
     "Homepage": "https://k9scli.io"
   },
@@ -8509,7 +8509,7 @@
   },
   {
     "Package": "libtinyxml2",
-    "Version": "10.1.0",
+    "Version": "11.0.0",
     "Description": "A simple, small, efficient, C++ XML parser",
     "Homepage": "http://www.grinninglizard.com/tinyxml2/"
   },
