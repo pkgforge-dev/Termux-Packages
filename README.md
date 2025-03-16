@@ -2417,8 +2417,8 @@
 | **termplay** | 2.0.6 | Plays an image/video in your terminal | https://gitlab.com/jD91mZM2/termplay |
 | **termux-am** | 0.8.0-1 | Android Oreo-compatible am command reimplementation | https://github.com/termux/TermuxAm |
 | **termux-am-socket** | 1.5.0 | A faster version of am with less features that only works while Termux is running | https://github.com/termux/termux-am-socket |
-| **termux-api** | 0.58.0-1 | Termux API commands (install also the Termux:API app) | https://wiki.termux.com/wiki/Termux:API |
-| **termux-api-static** | 0.58.0-1 | Static libraries for termux-api | https://wiki.termux.com/wiki/Termux:API |
+| **termux-api** | 0.59.0 | Termux API commands (install also the Termux:API app) | https://wiki.termux.com/wiki/Termux:API |
+| **termux-api-static** | 0.59.0 | Static libraries for termux-api | https://wiki.termux.com/wiki/Termux:API |
 | **termux-apt-repo** | 0.5-1 | Script to create Termux apt repositories | https://github.com/termux/termux-apt-repo |
 | **termux-auth** | 1.5.0 | Password authentication library and utility for Termux | https://github.com/termux/termux-auth |
 | **termux-create-package** | 0.12.0-2 | Utility to create Termux packages | https://github.com/termux/termux-create-package |

@@ -9627,11 +9627,11 @@
   Description: A faster version of am with less features that only works while Termux is running
   Homepage: https://github.com/termux/termux-am-socket
 - Package: termux-api
-  Version: 0.58.0-1
+  Version: 0.59.0
   Description: Termux API commands (install also the Termux:API app)
   Homepage: https://wiki.termux.com/wiki/Termux:API
 - Package: termux-api-static
-  Version: 0.58.0-1
+  Version: 0.59.0
   Description: Static libraries for termux-api
   Homepage: https://wiki.termux.com/wiki/Termux:API
 - Package: termux-apt-repo
