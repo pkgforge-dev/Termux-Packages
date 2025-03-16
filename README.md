@@ -1543,11 +1543,11 @@
 | **libxls** | 1.6.3 | A C library for reading Excel files in the nasty old binary OLE format | https://github.com/libxls/libxls |
 | **libxls-static** | 1.6.3 | Static libraries for libxls | https://github.com/libxls/libxls |
 | **libxlsxwriter** | 1.2.1 | A C library for creating Excel XLSX files | https://libxlsxwriter.github.io/ |
-| **libxml2** | 2.13.6 | Library for parsing XML documents | http://www.xmlsoft.org |
-| **libxml2-python** | 2.13.6 | Python bindings for libxml2 | http://www.xmlsoft.org |
-| **libxml2-python-static** | 2.13.6 | Static libraries for libxml2-python | http://www.xmlsoft.org |
-| **libxml2-static** | 2.13.6 | Static libraries for libxml2 | http://www.xmlsoft.org |
-| **libxml2-utils** | 2.13.6 | XML utilities | http://www.xmlsoft.org |
+| **libxml2** | 2.13.6-1 | Library for parsing XML documents | http://www.xmlsoft.org |
+| **libxml2-python** | 2.13.6-1 | Python bindings for libxml2 | http://www.xmlsoft.org |
+| **libxml2-python-static** | 2.13.6-1 | Static libraries for libxml2-python | http://www.xmlsoft.org |
+| **libxml2-static** | 2.13.6-1 | Static libraries for libxml2 | http://www.xmlsoft.org |
+| **libxml2-utils** | 2.13.6-1 | XML utilities | http://www.xmlsoft.org |
 | **libxmlb** | 0.3.22 | Library to help create and query binary XML blobs | https://github.com/hughsie/libxmlb |
 | **libxmlrpc** | 1.59.03 | XML-RPC for C and C++ | https://xmlrpc-c.sourceforge.io/ |
 | **libxmlrpc-static** | 1.59.03 | Static libraries for libxmlrpc | https://xmlrpc-c.sourceforge.io/ |
@@ -1786,7 +1786,7 @@
 | **ncdc** | 1.25 | Modern and lightweight direct connect client with a friendly ncurses interface | https://dev.yorhel.nl/ncdc |
 | **ncdu** | 1.22 | Disk usage analyzer | https://dev.yorhel.nl/ncdu |
 | **ncdu2** | 2.7 | Disk usage analyzer | https://dev.yorhel.nl/ncdu |
-| **ncftp** | 3.2.7 | A free set of programs that use the File Transfer Protocol | https://www.ncftp.com/ |
+| **ncftp** | 3.2.8 | A free set of programs that use the File Transfer Protocol | https://www.ncftp.com/ |
 | **ncmpcpp** | 0.10.1-1 | NCurses Music Player Client (Plus Plus) | https://rybczak.net/ncmpcpp/ |
 | **ncompress** | 5.0 | The classic unix compression utility which can handle the ancient .Z archive | https://github.com/vapier/ncompress |
 | **ncpamixer** | 1.3.9 | An ncurses mixer for PulseAudio | https://github.com/fulhax/ncpamixer |
@@ -2209,8 +2209,8 @@
 | **rubberband-static** | 4.0.0 | Static libraries for rubberband | https://breakfastquay.com/rubberband/ |
 | **rubberband-vamp** | 4.0.0 | Vamp plugin for Rubber Band | https://breakfastquay.com/rubberband/ |
 | **rubiks-cube** | 1.2 | A rubik's cube that runs in your terminal | https://github.com/been-jamming/rubiks_cube |
-| **ruby** | 3.4.1 | Dynamic programming language with a focus on simplicity and productivity | https://www.ruby-lang.org/ |
-| **ruby-ri** | 3.4.1 | Ruby documentation index | https://www.ruby-lang.org/ |
+| **ruby** | 3.4.1-1 | Dynamic programming language with a focus on simplicity and productivity | https://www.ruby-lang.org/ |
+| **ruby-ri** | 3.4.1-1 | Ruby documentation index | https://www.ruby-lang.org/ |
 | **ruff** | 0.11.0 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
 | **runit** | 2.1.2-3 | Tools to provide service supervision and to manage services | http://smarden.org/runit |
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |

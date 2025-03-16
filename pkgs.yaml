@@ -6131,23 +6131,23 @@
   Description: A C library for creating Excel XLSX files
   Homepage: https://libxlsxwriter.github.io/
 - Package: libxml2
-  Version: 2.13.6
+  Version: 2.13.6-1
   Description: Library for parsing XML documents
   Homepage: http://www.xmlsoft.org
 - Package: libxml2-python
-  Version: 2.13.6
+  Version: 2.13.6-1
   Description: Python bindings for libxml2
   Homepage: http://www.xmlsoft.org
 - Package: libxml2-python-static
-  Version: 2.13.6
+  Version: 2.13.6-1
   Description: Static libraries for libxml2-python
   Homepage: http://www.xmlsoft.org
 - Package: libxml2-static
-  Version: 2.13.6
+  Version: 2.13.6-1
   Description: Static libraries for libxml2
   Homepage: http://www.xmlsoft.org
 - Package: libxml2-utils
-  Version: 2.13.6
+  Version: 2.13.6-1
   Description: XML utilities
   Homepage: http://www.xmlsoft.org
 - Package: libxmlb
@@ -7103,7 +7103,7 @@
   Description: Disk usage analyzer
   Homepage: https://dev.yorhel.nl/ncdu
 - Package: ncftp
-  Version: 3.2.7
+  Version: 3.2.8
   Description: A free set of programs that use the File Transfer Protocol
   Homepage: https://www.ncftp.com/
 - Package: ncmpcpp
@@ -8795,11 +8795,11 @@
   Description: A rubiks cube that runs in your terminal
   Homepage: https://github.com/been-jamming/rubiks_cube
 - Package: ruby
-  Version: 3.4.1
+  Version: 3.4.1-1
   Description: Dynamic programming language with a focus on simplicity and productivity
   Homepage: https://www.ruby-lang.org/
 - Package: ruby-ri
-  Version: 3.4.1
+  Version: 3.4.1-1
   Description: Ruby documentation index
   Homepage: https://www.ruby-lang.org/
 - Package: ruff
