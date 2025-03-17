@@ -344,7 +344,7 @@
  dnslookup  1.11.1  Simple command line utility to make DNS lookups. Supports all known DNS protocols: plain DNS, DoH, DoT, DoQ, DNSCrypt.  https://github.com/ameshkov/dnslookup 
  dnsmap  0.36-2  Subdomain Bruteforcing Tool  https://github.com/resurrecting-open-source-projects/dnsmap 
  dnstop  2022.10.19  A libpcap application that displays various tables of DNS traffic on your network  https://github.com/measurement-factory/dnstop 
- dnsutils  9.20.6-1  Clients provided with BIND  https://www.isc.org/bind/ 
+ dnsutils  9.20.6-2  Clients provided with BIND  https://www.isc.org/bind/ 
  dnsutils-static  9.16.41  Static libraries for dnsutils  https://www.isc.org/downloads/bind/ 
  docbook-xml  5.1  A widely used XML scheme for writing documentation and help  https://www.oasis-open.org/docbook/ 
  docbook-xsl  1.79.2-2  XML stylesheets for Docbook-xml transformations  https://docbook.org/ 
@@ -2076,10 +2076,10 @@
  python-tflite-runtime  2.19.0  TensorFlow Lite Python bindings  https://www.tensorflow.org/lite 
  python-tkinter  3.12.9  Tkinter support for Python 3  https://python.org/ 
  python-tldp  0.7.5-5  Tools for publishing from TLDP sources  https://github.com/tLDP/python-tldp 
- python-torch  2.5.0-1  Tensors and Dynamic neural networks in Python  https://pytorch.org/ 
- python-torch-static  2.5.0-1  Static libraries for python-torch  https://pytorch.org/ 
- python-torchaudio  2.5.0-1  Data manipulation and transformation for audio signal processing, powered by PyTorch  https://github.com/pytorch/audio 
- python-torchvision  0.20.0-1  Datasets, Transforms and Models specific to Computer Vision  https://github.com/pytorch/vision 
+ python-torch  2.6.0  Tensors and Dynamic neural networks in Python  https://pytorch.org/ 
+ python-torch-static  2.6.0  Static libraries for python-torch  https://pytorch.org/ 
+ python-torchaudio  2.6.0  Data manipulation and transformation for audio signal processing, powered by PyTorch  https://github.com/pytorch/audio 
+ python-torchvision  0.21.0  Datasets, Transforms and Models specific to Computer Vision  https://github.com/pytorch/vision 
  python-xcbgen  1.17.0-1  The xcbgen Python module  https://xcb.freedesktop.org/ 
  python-xlib  0.33-1  The Python X Library  https://github.com/python-xlib/python-xlib 
  python2  2.7.18-14  Python 2 programming language intended to enable clear programs  http://python.org/ 
@@ -2455,7 +2455,7 @@
  toml11  4.4.0  toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library  https://github.com/ToruNiina/toml11 
  topgrade  16.0.2  Upgrade all the things  https://github.com/topgrade-rs/topgrade/ 
  tor  0.4.8.14  The Onion Router anonymizing overlay network  https://www.torproject.org 
- torchaudio-ffmpeg  2.5.0-1  Minimal FFmpeg libraries for python-torchaudio  https://github.com/pytorch/audio 
+ torchaudio-ffmpeg  2.6.0  Minimal FFmpeg libraries for python-torchaudio  https://github.com/pytorch/audio 
  torsocks  2.4.0  Wrapper to safely torify applications  https://gitlab.torproject.org/tpo/core/torsocks 
  torsocks-static  2.4.0  Static libraries for torsocks  https://gitlab.torproject.org/tpo/core/torsocks 
  totem-pl-parser  3.26.6  Simple GObject-based library to parse and save a host of playlist formats  https://gitlab.gnome.org/GNOME/totem-pl-parser 

@@ -2077,7 +2077,7 @@
   },
   {
     "Package": "dnsutils",
-    "Version": "9.20.6-1",
+    "Version": "9.20.6-2",
     "Description": "Clients provided with BIND",
     "Homepage": "https://www.isc.org/bind/"
   },
@@ -12469,25 +12469,25 @@
   },
   {
     "Package": "python-torch",
-    "Version": "2.5.0-1",
+    "Version": "2.6.0",
     "Description": "Tensors and Dynamic neural networks in Python",
     "Homepage": "https://pytorch.org/"
   },
   {
     "Package": "python-torch-static",
-    "Version": "2.5.0-1",
+    "Version": "2.6.0",
     "Description": "Static libraries for python-torch",
     "Homepage": "https://pytorch.org/"
   },
   {
     "Package": "python-torchaudio",
-    "Version": "2.5.0-1",
+    "Version": "2.6.0",
     "Description": "Data manipulation and transformation for audio signal processing, powered by PyTorch",
     "Homepage": "https://github.com/pytorch/audio"
   },
   {
     "Package": "python-torchvision",
-    "Version": "0.20.0-1",
+    "Version": "0.21.0",
     "Description": "Datasets, Transforms and Models specific to Computer Vision",
     "Homepage": "https://github.com/pytorch/vision"
   },
@@ -14743,7 +14743,7 @@
   },
   {
     "Package": "torchaudio-ffmpeg",
-    "Version": "2.5.0-1",
+    "Version": "2.6.0",
     "Description": "Minimal FFmpeg libraries for python-torchaudio",
     "Homepage": "https://github.com/pytorch/audio"
   },
