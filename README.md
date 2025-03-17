@@ -547,7 +547,7 @@
 | **geckodriver** | 0.36.0 | Proxy for using W3C WebDriver-compatible clients to interact with Gecko-based browsers | https://github.com/mozilla/geckodriver |
 | **gecode** | 6.2.0 | Generic Constraint Development Environment | https://github.com/Gecode/gecode |
 | **gecode-static** | 6.2.0 | Static libraries for gecode | https://github.com/Gecode/gecode |
-| **gegl** | 0.4.54 | Data flow based image processing framework | https://gegl.org/ |
+| **gegl** | 0.4.56 | Data flow based image processing framework | https://gegl.org/ |
 | **gengetopt** | 2.23-3 | gengetopt is a tool to write command line option parsing code for C programs | https://www.gnu.org/software/gengetopt/ |
 | **geographiclib** | 2.5 | Utilities and C++ library to solve some geodesic problems | https://geographiclib.sourceforge.io |
 | **geoip2-database** | 20191221-2 | GeoLite2 IP geolocation databases compiled by MaxMind | https://dev.maxmind.com/geoip/geoip2/geolite2/ |
