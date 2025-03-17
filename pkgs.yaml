@@ -1775,11 +1775,11 @@
   Description: Re-implementation of the well-known FaCT Description Logic (DL) Reasoner
   Homepage: https://bitbucket.org/dtsarkov/factplusplus
 - Package: fakeroot
-  Version: "1.37"
+  Version: 1.37.1
   Description: Tool for simulating superuser privileges (with tcp ipc)
   Homepage: https://packages.qa.debian.org/f/fakeroot.html
 - Package: fakeroot-static
-  Version: "1.37"
+  Version: 1.37.1
   Description: Static libraries for fakeroot
   Homepage: https://packages.qa.debian.org/f/fakeroot.html
 - Package: fasd
@@ -2239,7 +2239,7 @@
   Description: Tool for creating, editing, and getting information about GIF images and animations
   Homepage: https://www.lcdf.org/gifsicle/
 - Package: gifski
-  Version: 1.32.0
+  Version: 1.33.0
   Description: GIF encoder based on libimagequant
   Homepage: https://gif.ski/
 - Package: git
