@@ -8991,9 +8991,9 @@
   Description: A perl-script to send XMPP (jabber) messages
   Homepage: https://sendxmpp.hostname.sk/
 - Package: senpai
-  Version: 1:0.3.0-3
+  Version: 1:0.4.0
   Description: An IRC client that works best with bouncers
-  Homepage: https://git.sr.ht/~taiite/senpai
+  Homepage: https://git.sr.ht/~delthas/senpai
 - Package: sensible-utils
   Version: 0.0.24
   Description: Small utilities used by programs to sensibly select and spawn an appropriate browser, editor, or pager
@@ -9383,7 +9383,7 @@
   Description: A TCP/IP repeater in the application layer
   Homepage: https://www.gcd.org/sengoku/stone/
 - Package: storj-uplink
-  Version: 1.122.9
+  Version: 1.123.4
   Description: Storj DCS Uplink CLI
   Homepage: https://www.storj.io/integrations/uplink-cli
 - Package: stow
