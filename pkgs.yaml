@@ -5043,7 +5043,7 @@
   Description: Static libraries for libosl
   Homepage: http://icps.u-strasbg.fr/~bastoul/development/openscop
 - Package: libosmium
-  Version: 2.21.0
+  Version: 2.22.0
   Description: Library for reading from and writing to OSM files in XML and PBF formats
   Homepage: https://osmcode.org/libosmium/
 - Package: libosmpbf
@@ -7623,7 +7623,7 @@
   Description: Mesa Off-screen Rendering Library
   Homepage: https://www.mesa3d.org
 - Package: osmium-tool
-  Version: 1.17.0
+  Version: 1.18.0
   Description: A multipurpose command line tool based on the Osmium Library
   Homepage: https://osmcode.org/osmium-tool/
 - Package: osslsigncode
@@ -8599,11 +8599,11 @@
   Description: Static libraries for readline
   Homepage: https://tiswww.case.edu/php/chet/readline/rltop.html
 - Package: recode
-  Version: 3.7.14
+  Version: 3.7.15
   Description: Charset converter tool and library
   Homepage: https://github.com/pinard/Recode
 - Package: recode-static
-  Version: 3.7.14
+  Version: 3.7.15
   Description: Static libraries for recode
   Homepage: https://github.com/pinard/Recode
 - Package: recoll

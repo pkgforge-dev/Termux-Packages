@@ -7567,7 +7567,7 @@
   },
   {
     "Package": "libosmium",
-    "Version": "2.21.0",
+    "Version": "2.22.0",
     "Description": "Library for reading from and writing to OSM files in XML and PBF formats",
     "Homepage": "https://osmcode.org/libosmium/"
   },
@@ -11437,7 +11437,7 @@
   },
   {
     "Package": "osmium-tool",
-    "Version": "1.17.0",
+    "Version": "1.18.0",
     "Description": "A multipurpose command line tool based on the Osmium Library",
     "Homepage": "https://osmcode.org/osmium-tool/"
   },
@@ -12901,13 +12901,13 @@
   },
   {
     "Package": "recode",
-    "Version": "3.7.14",
+    "Version": "3.7.15",
     "Description": "Charset converter tool and library",
     "Homepage": "https://github.com/pinard/Recode"
   },
   {
     "Package": "recode-static",
-    "Version": "3.7.14",
+    "Version": "3.7.15",
     "Description": "Static libraries for recode",
     "Homepage": "https://github.com/pinard/Recode"
   },
