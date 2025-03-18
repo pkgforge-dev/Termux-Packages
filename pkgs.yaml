@@ -9699,7 +9699,7 @@
   Description: Service daemon for Termux
   Homepage: https://github.com/termux/termux-services/
 - Package: termux-tools
-  Version: 1.44.6
+  Version: 1.44.7
   Description: Basic system tools for Termux
   Homepage: https://termux.dev/
 - Package: teseq
@@ -10227,7 +10227,7 @@
   Description: Static libraries for valadoc
   Homepage: https://wiki.gnome.org/Projects/Vala
 - Package: vale
-  Version: 3.9.6
+  Version: 3.10.0
   Description: A syntax-aware linter for prose built with speed and extensibility in mind
   Homepage: https://vale.sh
 - Package: valgrind
@@ -10759,7 +10759,7 @@
   Description: A small C++ library for reading and writing zip files
   Homepage: https://zipios.sourceforge.io/
 - Package: zk
-  Version: 0.14.2
+  Version: 0.15.0
   Description: A plain text note-taking assistant
   Homepage: https://zk-org.github.io/zk/
 - Package: zlib
