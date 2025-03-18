@@ -4626,6 +4626,12 @@
     "Homepage": "https://jackaudio.org/"
   },
   {
+    "Package": "jackett",
+    "Version": "0.22.1660",
+    "Description": "API Support for your favorite torrent trackers",
+    "Homepage": "https://github.com/jackett/jackett"
+  },
+  {
     "Package": "janet",
     "Version": "1.37.1",
     "Description": "Janet is a dialect of Lisp intended for embedding into programs and such",
@@ -14059,7 +14065,7 @@
   },
   {
     "Package": "step-cli",
-    "Version": "0.28.5-1",
+    "Version": "0.28.6",
     "Description": "An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows",
     "Homepage": "https://smallstep.com/cli"
   },
@@ -14809,7 +14815,7 @@
   },
   {
     "Package": "transmission",
-    "Version": "4.0.6-1",
+    "Version": "4.0.6-2",
     "Description": "Easy, lean and powerful BitTorrent client",
     "Homepage": "https://transmissionbt.com/"
   },
@@ -16111,7 +16117,7 @@
   },
   {
     "Package": "zig",
-    "Version": "0.13.0",
+    "Version": "0.14.0",
     "Description": "General-purpose programming language and toolchain",
     "Homepage": "https://ziglang.org"
   },
@@ -16153,7 +16159,7 @@
   },
   {
     "Package": "zls",
-    "Version": "0.13.0",
+    "Version": "0.14.0",
     "Description": "Zig language server",
     "Homepage": "https://github.com/zigtools/zls"
   },
