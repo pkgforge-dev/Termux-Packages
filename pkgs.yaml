@@ -6510,6 +6510,10 @@
   Version: 2.8.9rel.1-8
   Description: The text web browser
   Homepage: http://lynx.browser.org/
+- Package: lyrebird
+  Version: 0.5.0
+  Description: A pluggable transport plugin for Tor
+  Homepage: https://gitlab.torproject.org/tpo/anti-censorship/pluggable-transports
 - Package: lz4
   Version: 1.10.0
   Description: Fast LZ compression algorithm tool
