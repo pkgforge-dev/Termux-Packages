@@ -367,7 +367,7 @@
   Description: Software for digital TV broadcasting
   Homepage: https://gitlab.com/berdyansk/astra-sm
 - Package: asymptote
-  Version: "2.95"
+  Version: "3.01"
   Description: A powerful descriptive vector graphics language for technical drawing
   Homepage: https://asymptote.sourceforge.io/
 - Package: at
@@ -3371,7 +3371,7 @@
   Description: Static libraries for lftp
   Homepage: https://lftp.tech/
 - Package: lgogdownloader
-  Version: "3.16"
+  Version: "3.17"
   Description: Open source downloader to GOG.com for Linux users using the same API as the official GOGDownloader
   Homepage: https://sites.google.com/site/gogdownloader/
 - Package: lhasa
@@ -3519,7 +3519,7 @@
   Description: Static libraries for libarchive
   Homepage: https://www.libarchive.org/
 - Package: libarrow-cpp
-  Version: 19.0.1-1
+  Version: 19.0.1-2
   Description: C++ libraries for Apache Arrow
   Homepage: https://github.com/apache/arrow
 - Package: libasio
@@ -6875,7 +6875,7 @@
   Description: 'mold: A Modern Linker'
   Homepage: https://github.com/rui314/mold
 - Package: monero
-  Version: 0.18.3.4-1
+  Version: 0.18.3.4-2
   Description: A private, secure, untraceable, decentralised digital currency
   Homepage: https://getmonero.org/
 - Package: mono
@@ -7103,7 +7103,7 @@
   Description: A free set of programs that use the File Transfer Protocol
   Homepage: https://www.ncftp.com/
 - Package: ncmpcpp
-  Version: 0.10.1-2
+  Version: 0.10.1-3
   Description: NCurses Music Player Client (Plus Plus)
   Homepage: https://rybczak.net/ncmpcpp/
 - Package: ncompress
@@ -8279,7 +8279,7 @@
   Description: The PyPA recommended tool for installing Python packages
   Homepage: https://pip.pypa.io/
 - Package: python-pyarrow
-  Version: 19.0.1-1
+  Version: 19.0.1-2
   Description: Python bindings for Apache Arrow
   Homepage: https://github.com/apache/arrow
 - Package: python-pycryptodomex
@@ -8767,11 +8767,11 @@
   Description: Fast incremental file transfer utility
   Homepage: https://rsync.samba.org/
 - Package: rtmpdump
-  Version: 2.4-6
+  Version: "2.6"
   Description: Small dumper for media content streamed over the RTMP protocol
   Homepage: https://rtmpdump.mplayerhq.hu/
 - Package: rtmpdump-static
-  Version: 2.4-6
+  Version: "2.6"
   Description: Static libraries for rtmpdump
   Homepage: https://rtmpdump.mplayerhq.hu/
 - Package: rtorrent
@@ -9155,11 +9155,11 @@
   Description: Eat as much as you want while avoiding walls
   Homepage: https://github.com/gogakoreli/snake
 - Package: snapcast-client
-  Version: 0.31.0
+  Version: 0.31.0-1
   Description: A multiroom client-server audio player (client)
   Homepage: https://github.com/badaix/snapcast
 - Package: snapcast-server
-  Version: 0.31.0
+  Version: 0.31.0-1
   Description: A multiroom client-server audio player (server)
   Homepage: https://github.com/badaix/snapcast
 - Package: snmptt
@@ -10003,7 +10003,7 @@
   Description: Terminal-based typing test
   Homepage: https://github.com/max-niederman/ttyper
 - Package: ttyplot
-  Version: 1.7.0
+  Version: 1.7.1
   Description: A realtime plotting utility for terminal with data input from stdin
   Homepage: https://github.com/tenox7/ttyplot
 - Package: ttyrec
@@ -10259,7 +10259,7 @@
   Description: HTTP load testing tool
   Homepage: https://github.com/tsenart/vegeta
 - Package: vera
-  Version: 1.3.0-5
+  Version: 1.3.0-6
   Description: A programmable tool for verification, analysis and transformation of C++ source code
   Homepage: https://bitbucket.org/verateam/vera
 - Package: vgmstream
@@ -10283,7 +10283,7 @@
   Description: VI Like Emacs - vi work-alike
   Homepage: https://invisible-island.net/vile/
 - Package: vim
-  Version: 9.1.1200-1
+  Version: 9.1.1224
   Description: Vi IMproved - enhanced vi editor
   Homepage: https://www.vim.org
 - Package: virglrenderer
@@ -10635,7 +10635,7 @@
   Description: Static libraries for xvidcore
   Homepage: https://www.xvid.com/
 - Package: xxd
-  Version: 9.1.1200-1
+  Version: 9.1.1224
   Description: Hexdump utility from vim
   Homepage: https://www.vim.org
 - Package: xxhash

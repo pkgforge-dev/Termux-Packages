@@ -90,7 +90,7 @@
 | **assimp** | 5.4.3 | Library to import various well-known 3D model formats in an uniform manner | https://assimp.sourceforge.net/index.html |
 | **assimp-static** | 5.3.1 | Static libraries for assimp | https://assimp.sourceforge.net/index.html |
 | **astra-sm** | 2019.06.19 | Software for digital TV broadcasting | https://gitlab.com/berdyansk/astra-sm |
-| **asymptote** | 2.95 | A powerful descriptive vector graphics language for technical drawing | https://asymptote.sourceforge.io/ |
+| **asymptote** | 3.01 | A powerful descriptive vector graphics language for technical drawing | https://asymptote.sourceforge.io/ |
 | **at** | 3.2.5-1 | AT and batch delayed command scheduling utility and daemon | https://salsa.debian.org/debian/at |
 | **at-spi2-core** | 2.56.0 | Assistive Technology Service Provider Interface (AT-SPI) | https://wiki.gnome.org/Accessibility |
 | **atomicparsley** | 1:20240608.083822.1ed9031 | Read, parse and set metadata of MPEG-4 and 3gp files | https://github.com/wez/atomicparsley |
@@ -841,7 +841,7 @@
 | **lf** | 34 | Terminal file manager | https://github.com/gokcehan/lf |
 | **lftp** | 4.9.2-6 | FTP/HTTP client and file transfer program | https://lftp.tech/ |
 | **lftp-static** | 4.9.2-6 | Static libraries for lftp | https://lftp.tech/ |
-| **lgogdownloader** | 3.16 | Open source downloader to GOG.com for Linux users using the same API as the official GOGDownloader | https://sites.google.com/site/gogdownloader/ |
+| **lgogdownloader** | 3.17 | Open source downloader to GOG.com for Linux users using the same API as the official GOGDownloader | https://sites.google.com/site/gogdownloader/ |
 | **lhasa** | 0.4.0 | LHA compressor/decompressor | https://fragglet.github.io/lhasa/ |
 | **lhasa-static** | 0.4.0 | Static libraries for lhasa | https://fragglet.github.io/lhasa/ |
 | **liba52** | 0.8.0-1 | A free library for decoding ATSC A/52 streams | http://liba52.sourceforge.net/ |
@@ -878,7 +878,7 @@
 | **libapt-pkg-perl** | 0.1.40-10 | Perl interface to APT's libapt-pkg | https://packages.debian.org/libapt-pkg-perl |
 | **libarchive** | 3.7.7 | Multi-format archive and compression library | https://www.libarchive.org/ |
 | **libarchive-static** | 3.7.7 | Static libraries for libarchive | https://www.libarchive.org/ |
-| **libarrow-cpp** | 19.0.1-1 | C++ libraries for Apache Arrow | https://github.com/apache/arrow |
+| **libarrow-cpp** | 19.0.1-2 | C++ libraries for Apache Arrow | https://github.com/apache/arrow |
 | **libasio** | 1.24.0 | Cross-platform C++ library for network and low-level I/O programming | https://think-async.com/Asio |
 | **libasm** | 0.192 | Library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |
 | **libasm-static** | 0.192 | Static library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |
@@ -1717,7 +1717,7 @@
 | **mlocate** | 0.26-5 | Tool to find files anywhere in the filesystem based on their name | https://pagure.io/mlocate |
 | **moar** | 1.31.4 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moar |
 | **mold** | 2.37.1 | mold: A Modern Linker | https://github.com/rui314/mold |
-| **monero** | 0.18.3.4-1 | A private, secure, untraceable, decentralised digital currency | https://getmonero.org/ |
+| **monero** | 0.18.3.4-2 | A private, secure, untraceable, decentralised digital currency | https://getmonero.org/ |
 | **mono** | 6.14.0 | Framework Mono | https://gitlab.winehq.org/mono/mono |
 | **mono-libs** | 6.14.0 | Platform-independent libraries for mono | https://gitlab.winehq.org/mono/mono |
 | **mono-static** | 6.14.0 | Static libraries for mono | https://gitlab.winehq.org/mono/mono |
@@ -1774,7 +1774,7 @@
 | **ncdu** | 1.22 | Disk usage analyzer | https://dev.yorhel.nl/ncdu |
 | **ncdu2** | 2.8 | Disk usage analyzer | https://dev.yorhel.nl/ncdu |
 | **ncftp** | 3.2.8 | A free set of programs that use the File Transfer Protocol | https://www.ncftp.com/ |
-| **ncmpcpp** | 0.10.1-2 | NCurses Music Player Client (Plus Plus) | https://rybczak.net/ncmpcpp/ |
+| **ncmpcpp** | 0.10.1-3 | NCurses Music Player Client (Plus Plus) | https://rybczak.net/ncmpcpp/ |
 | **ncompress** | 5.0 | The classic unix compression utility which can handle the ancient .Z archive | https://github.com/vapier/ncompress |
 | **ncpamixer** | 1.3.9 | An ncurses mixer for PulseAudio | https://github.com/fulhax/ncpamixer |
 | **ncspot** | 1.2.2 | An ncurses Spotify client written in Rust | https://github.com/hrkfdn/ncspot |
@@ -2068,7 +2068,7 @@
 | **python-onnxruntime** | 1.21.0 | Cross-platform, high performance ML inferencing and training accelerator | https://onnxruntime.ai/ |
 | **python-pillow** | 11.1.0 | Python Imaging Library | https://python-pillow.org/ |
 | **python-pip** | 25.0.1 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
-| **python-pyarrow** | 19.0.1-1 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
+| **python-pyarrow** | 19.0.1-2 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
 | **python-pycryptodomex** | 3.22.0 | A self-contained Python package of low-level cryptographic primitives | https://www.pycryptodome.org/ |
 | **python-pynvim** | 0.5.0-1 | Python client for Neovim | https://github.com/neovim/pynvim |
 | **python-sabyenc3** | 8.2.5-1 | C implementations of functions for use within SABnzbd | https://github.com/sabnzbd/sabctools |
@@ -2190,8 +2190,8 @@
 | **rsgain** | 3.6 | A simple audio normalizazion utility | https://github.com/complexlogic/rsgain |
 | **rsnapshot** | 1.5.1 | A remote filesystem snapshot utility | https://www.rsnapshot.org/ |
 | **rsync** | 3.4.1 | Fast incremental file transfer utility | https://rsync.samba.org/ |
-| **rtmpdump** | 2.4-6 | Small dumper for media content streamed over the RTMP protocol | https://rtmpdump.mplayerhq.hu/ |
-| **rtmpdump-static** | 2.4-6 | Static libraries for rtmpdump | https://rtmpdump.mplayerhq.hu/ |
+| **rtmpdump** | 2.6 | Small dumper for media content streamed over the RTMP protocol | https://rtmpdump.mplayerhq.hu/ |
+| **rtmpdump-static** | 2.6 | Static libraries for rtmpdump | https://rtmpdump.mplayerhq.hu/ |
 | **rtorrent** | 0.15.1 | Ncurses BitTorrent client based on libTorrent | https://rakshasa.github.io/rtorrent/ |
 | **rubberband** | 4.0.0 | An audio time-stretching and pitch-shifting library and utility program | https://breakfastquay.com/rubberband/ |
 | **rubberband-ladspa** | 4.0.0 | LADSPA plugin for Rubber Band | https://breakfastquay.com/rubberband/ |
@@ -2287,8 +2287,8 @@
 | **smalltalk** | 3.2.91-14 | A free implementation of the Smalltalk-80 language | http://smalltalk.gnu.org/ |
 | **smalltalk-static** | 3.2.91-14 | Static libraries for smalltalk | http://smalltalk.gnu.org/ |
 | **snake** | 2022.11.07 | Eat as much as you want while avoiding walls | https://github.com/gogakoreli/snake |
-| **snapcast-client** | 0.31.0 | A multiroom client-server audio player (client) | https://github.com/badaix/snapcast |
-| **snapcast-server** | 0.31.0 | A multiroom client-server audio player (server) | https://github.com/badaix/snapcast |
+| **snapcast-client** | 0.31.0-1 | A multiroom client-server audio player (client) | https://github.com/badaix/snapcast |
+| **snapcast-server** | 0.31.0-1 | A multiroom client-server audio player (server) | https://github.com/badaix/snapcast |
 | **snmptt** | 1.5 | SNMP trap translator | http://www.snmptt.org/ |
 | **snowflake** | 2.11.0 | Pluggable Transport using WebRTC, inspired by Flashproxy | https://snowflake.torproject.org/ |
 | **snowflake-client** | 2.11.0 | Pluggable Transport using WebRTC, inspired by Flashproxy (Client) | https://snowflake.torproject.org/ |
@@ -2499,7 +2499,7 @@
 | **ttyc** | 0.4-3 | ttyd protocol client | https://github.com/Depau/ttyc |
 | **ttyd** | 1.7.7 | Command-line tool for sharing terminal over the web | https://tsl0922.github.io/ttyd/ |
 | **ttyper** | 1.6.0 | Terminal-based typing test | https://github.com/max-niederman/ttyper |
-| **ttyplot** | 1.7.0 | A realtime plotting utility for terminal with data input from stdin | https://github.com/tenox7/ttyplot |
+| **ttyplot** | 1.7.1 | A realtime plotting utility for terminal with data input from stdin | https://github.com/tenox7/ttyplot |
 | **ttyrec** | 1.0.8-7 | Terminal recorder and player | http://0xcc.net/ttyrec/ |
 | **tur-repo** | 1.0.1 | A single and trusted place for all unofficial/less popular termux packages | https://github.com/termux-user-repository/tur |
 | **tut** | 2.0.1-2 | A TUI for Mastodon with vim inspired keys | https://github.com/RasmusLindroth/tut |
@@ -2563,13 +2563,13 @@
 | **vde2** | 2.3.3-3 | Virtual Distributed Ethernet for emulators like qemu | https://github.com/virtualsquare/vde-2 |
 | **vde2-static** | 2.3.3-3 | Static libraries for vde2 | https://github.com/virtualsquare/vde-2 |
 | **vegeta** | 12.12.0 | HTTP load testing tool | https://github.com/tsenart/vegeta |
-| **vera** | 1.3.0-5 | A programmable tool for verification, analysis and transformation of C++ source code | https://bitbucket.org/verateam/vera |
+| **vera** | 1.3.0-6 | A programmable tool for verification, analysis and transformation of C++ source code | https://bitbucket.org/verateam/vera |
 | **vgmstream** | 1980 | A library for playback of various streamed audio formats used in video games | https://github.com/vgmstream/vgmstream |
 | **vgmtools** | 2023.01.27 | A collection of tools for the VGM file format | https://github.com/vgmrips/vgmtools |
 | **viddy** | 1.3.0-1 | A modern watch command | https://github.com/sachaos/viddy |
 | **vifm** | 0.14 | File manager with vi like keybindings | https://vifm.info/ |
 | **vile** | 9.8z | VI Like Emacs - vi work-alike | https://invisible-island.net/vile/ |
-| **vim** | 9.1.1200-1 | Vi IMproved - enhanced vi editor | https://www.vim.org |
+| **vim** | 9.1.1224 | Vi IMproved - enhanced vi editor | https://www.vim.org |
 | **virglrenderer** | 1.1.0-1 | A virtual 3D GPU for use inside qemu virtual machines | https://virgil3d.github.io/ |
 | **virglrenderer-android** | 1.0.1-3 | A virtual 3D GPU for use inside qemu virtual machines over OpenGLES libraries on Android | https://virgil3d.github.io/ |
 | **virustotal-cli** | 1.0.1 | Command line interface for VirusTotal | https://github.com/VirusTotal/vt-cli |
@@ -2657,7 +2657,7 @@
 | **xtrans** | 1.6.0 | X transport library | https://xorg.freedesktop.org/ |
 | **xvidcore** | 1.3.7 | High performance and high quality MPEG-4 library | https://www.xvid.com/ |
 | **xvidcore-static** | 1.3.7 | Static libraries for xvidcore | https://www.xvid.com/ |
-| **xxd** | 9.1.1200-1 | Hexdump utility from vim | https://www.vim.org |
+| **xxd** | 9.1.1224 | Hexdump utility from vim | https://www.vim.org |
 | **xxhash** | 0.8.3 | Extremely fast non-cryptographic hash algorithm | https://cyan4973.github.io/xxHash/ |
 | **xxhash-static** | 0.8.3 | Static libraries for xxhash | https://cyan4973.github.io/xxHash/ |
 | **xz-utils** | 5.6.4 | XZ-format compression tools | https://tukaani.org/xz/ |
