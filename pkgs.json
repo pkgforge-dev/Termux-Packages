@@ -4549,7 +4549,7 @@
   },
   {
     "Package": "iproute2",
-    "Version": "6.12.0",
+    "Version": "6.13.0",
     "Description": "Utilities for controlling networking",
     "Homepage": "https://wiki.linuxfoundation.org/networking/iproute2"
   },
@@ -14383,7 +14383,7 @@
   },
   {
     "Package": "tealdeer",
-    "Version": "1.7.1",
+    "Version": "1.7.2",
     "Description": "A very fast implementation of tldr in Rust",
     "Homepage": "https://dbrgn.github.io/tealdeer/"
   },
@@ -14905,13 +14905,13 @@
   },
   {
     "Package": "tree-sitter-vimdoc",
-    "Version": "3.0.0-2",
+    "Version": "3.0.1",
     "Description": "Tree-sitter parser for Vim help files",
     "Homepage": "https://github.com/neovim/tree-sitter-vimdoc"
   },
   {
     "Package": "tree-sitter-vimdoc-static",
-    "Version": "3.0.0-2",
+    "Version": "3.0.1",
     "Description": "Static libraries for tree-sitter-vimdoc",
     "Homepage": "https://github.com/neovim/tree-sitter-vimdoc"
   },
