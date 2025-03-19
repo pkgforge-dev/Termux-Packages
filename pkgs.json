@@ -4435,13 +4435,13 @@
   },
   {
     "Package": "imagemagick",
-    "Version": "7.1.1.45-1",
+    "Version": "7.1.1.46",
     "Description": "Suite to create, edit, compose, or convert images in a variety of formats",
     "Homepage": "https://www.imagemagick.org/"
   },
   {
     "Package": "imagemagick-static",
-    "Version": "7.1.1.45-1",
+    "Version": "7.1.1.46",
     "Description": "Static libraries for imagemagick",
     "Homepage": "https://www.imagemagick.org/"
   },
@@ -4627,7 +4627,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.22.1660",
+    "Version": "0.22.1665",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -8077,7 +8077,7 @@
   },
   {
     "Package": "libsecret",
-    "Version": "0.21.6",
+    "Version": "0.21.7",
     "Description": "A GObject-based library for accessing the Secret Service API",
     "Homepage": "https://gitlab.gnome.org/GNOME/libsecret"
   },
