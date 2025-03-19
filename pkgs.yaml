@@ -3087,7 +3087,7 @@
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: janet
-  Version: 1.37.1
+  Version: 1.38.0
   Description: Janet is a dialect of Lisp intended for embedding into programs and such
   Homepage: https://janet-lang.org
 - Package: jbig2dec
@@ -4423,11 +4423,11 @@
   Description: Static libraries for libisofs
   Homepage: https://dev.lovelyhq.com/libburnia
 - Package: libjanet
-  Version: 1.37.1
+  Version: 1.38.0
   Description: Development library for Janet
   Homepage: https://janet-lang.org
 - Package: libjanet-static
-  Version: 1.37.1
+  Version: 1.38.0
   Description: Static libraries for libjanet
   Homepage: https://janet-lang.org
 - Package: libjansi
@@ -7351,7 +7351,7 @@
   Description: ncurses based sudoku game
   Homepage: http://jubalh.github.io/nudoku/
 - Package: nushell
-  Version: 0.102.0
+  Version: 0.103.0
   Description: A new type of shell operating on structured data
   Homepage: https://www.nushell.sh
 - Package: nwipe
@@ -7479,7 +7479,7 @@
   Description: OpenCL driver from system vendor
   Homepage: https://termux.dev
 - Package: opencolorio
-  Version: 2.4.1
+  Version: 2.4.2
   Description: A color management framework for visual effects and animation
   Homepage: https://opencolorio.org
 - Package: opencolorio-static

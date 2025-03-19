@@ -4633,7 +4633,7 @@
   },
   {
     "Package": "janet",
-    "Version": "1.37.1",
+    "Version": "1.38.0",
     "Description": "Janet is a dialect of Lisp intended for embedding into programs and such",
     "Homepage": "https://janet-lang.org"
   },
@@ -6637,13 +6637,13 @@
   },
   {
     "Package": "libjanet",
-    "Version": "1.37.1",
+    "Version": "1.38.0",
     "Description": "Development library for Janet",
     "Homepage": "https://janet-lang.org"
   },
   {
     "Package": "libjanet-static",
-    "Version": "1.37.1",
+    "Version": "1.38.0",
     "Description": "Static libraries for libjanet",
     "Homepage": "https://janet-lang.org"
   },
@@ -11029,7 +11029,7 @@
   },
   {
     "Package": "nushell",
-    "Version": "0.102.0",
+    "Version": "0.103.0",
     "Description": "A new type of shell operating on structured data",
     "Homepage": "https://www.nushell.sh"
   },
@@ -11221,7 +11221,7 @@
   },
   {
     "Package": "opencolorio",
-    "Version": "2.4.1",
+    "Version": "2.4.2",
     "Description": "A color management framework for visual effects and animation",
     "Homepage": "https://opencolorio.org"
   },
