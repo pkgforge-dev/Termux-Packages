@@ -920,8 +920,8 @@
 | **libc++utilities** | 5.27.3 | Useful C++ classes and routines such as argument parser, IO and conversion utilities | https://github.com/Martchus/cpp-utilities |
 | **libc-client** | 2007f-3 | UW IMAP c-client library | https://www.washington.edu/imap/ |
 | **libc-client-static** | 2007f-3 | Static libraries for libc-client | https://www.washington.edu/imap/ |
-| **libcaca** | 0.99.beta20-1 | Graphics library that outputs text instead of pixels | http://caca.zoy.org/wiki/libcaca |
-| **libcaca-static** | 0.99.beta20-1 | Static libraries for libcaca | http://caca.zoy.org/wiki/libcaca |
+| **libcaca** | 0.99.beta20-2 | Graphics library that outputs text instead of pixels | http://caca.zoy.org/wiki/libcaca |
+| **libcaca-static** | 0.99.beta20-2 | Static libraries for libcaca | http://caca.zoy.org/wiki/libcaca |
 | **libcairo** | 1.18.4 | Cairo 2D vector graphics library | https://cairographics.org |
 | **libcairomm-1.0** | 1.14.5 | Provides a C++ interface to cairo | https://www.cairographics.org/cairomm/ |
 | **libcairomm-1.16** | 1.18.0 | Provides a C++ interface to cairo | https://www.cairographics.org/cairomm/ |
@@ -1338,7 +1338,7 @@
 | **librnnoise-static** | 2021.03.12 | Static libraries for librnnoise | https://jmvalin.ca/demo/rnnoise/ |
 | **librocksdb** | 8.11.3 | A persistent key-value store for flash and RAM storage | https://rocksdb.org/ |
 | **librocksdb-static** | 8.11.3 | Static libraries for librocksdb | https://rocksdb.org/ |
-| **librsvg** | 2.59.2 | Library to render SVG files using cairo | https://wiki.gnome.org/action/show/Projects/LibRsvg |
+| **librsvg** | 2.60.0 | Library to render SVG files using cairo | https://wiki.gnome.org/action/show/Projects/LibRsvg |
 | **librsync** | 2.3.4 | Remote delta-compression library | https://github.com/librsync/librsync |
 | **librtmidi** | 5.0.0-2 | A set of C++ classes that provides a common API for realtime MIDI input/output | https://www.music.mcgill.ca/~gary/rtmidi/ |
 | **librttopo** | 1.1.0-2 | The RT Topology Library exposes an API to create and manage standard topologies | https://git.osgeo.org/gitea/rttopo/librttopo |
@@ -2607,8 +2607,8 @@
 | **vulkan-utility-libraries** | 1.4.310 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
 | **vulkan-validation-layers** | 1.4.310 | Vulkan Validation Layers | https://github.com/KhronosGroup/Vulkan-ValidationLayers |
 | **vulkan-volk** | 1.4.304 | Meta loader for Vulkan API | https://github.com/zeux/volk |
-| **w3m** | 0.5.3.20230121 | Text based Web browser and pager | http://w3m.sourceforge.net/ |
-| **w3m-img** | 0.5.3.20230121 | Inline image extension support utilities for w3m | http://w3m.sourceforge.net/ |
+| **w3m** | 0.5.3.20230121-1 | Text based Web browser and pager | https://w3m.sourceforge.net/ |
+| **w3m-img** | 0.5.3.20230121-1 | Inline image extension support utilities for w3m | https://w3m.sourceforge.net/ |
 | **wabt** | 1.0.37 | The WebAssembly Binary Toolkit | https://github.com/WebAssembly/wabt |
 | **wakatime-cli** | 1.112.1 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
 | **walk** | 1.13.0 | A terminal file manager | https://github.com/antonmedv/walk |

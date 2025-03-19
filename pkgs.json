@@ -5461,13 +5461,13 @@
   },
   {
     "Package": "libcaca",
-    "Version": "0.99.beta20-1",
+    "Version": "0.99.beta20-2",
     "Description": "Graphics library that outputs text instead of pixels",
     "Homepage": "http://caca.zoy.org/wiki/libcaca"
   },
   {
     "Package": "libcaca-static",
-    "Version": "0.99.beta20-1",
+    "Version": "0.99.beta20-2",
     "Description": "Static libraries for libcaca",
     "Homepage": "http://caca.zoy.org/wiki/libcaca"
   },
@@ -7969,7 +7969,7 @@
   },
   {
     "Package": "librsvg",
-    "Version": "2.59.2",
+    "Version": "2.60.0",
     "Description": "Library to render SVG files using cairo",
     "Homepage": "https://wiki.gnome.org/action/show/Projects/LibRsvg"
   },
@@ -15583,15 +15583,15 @@
   },
   {
     "Package": "w3m",
-    "Version": "0.5.3.20230121",
+    "Version": "0.5.3.20230121-1",
     "Description": "Text based Web browser and pager",
-    "Homepage": "http://w3m.sourceforge.net/"
+    "Homepage": "https://w3m.sourceforge.net/"
   },
   {
     "Package": "w3m-img",
-    "Version": "0.5.3.20230121",
+    "Version": "0.5.3.20230121-1",
     "Description": "Inline image extension support utilities for w3m",
-    "Homepage": "http://w3m.sourceforge.net/"
+    "Homepage": "https://w3m.sourceforge.net/"
   },
   {
     "Package": "wabt",
