@@ -1383,7 +1383,7 @@
   Description: A libpcap application that displays various tables of DNS traffic on your network
   Homepage: https://github.com/measurement-factory/dnstop
 - Package: dnsutils
-  Version: 9.20.6-2
+  Version: 9.20.7
   Description: Clients provided with BIND
   Homepage: https://www.isc.org/bind/
 - Package: dnsutils-static
@@ -2203,7 +2203,7 @@
   Description: The Forth implementation of the GNU project
   Homepage: https://www.gnu.org/software/gforth/
 - Package: gh
-  Version: 2.68.1
+  Version: 2.69.0
   Description: GitHub’s official command line tool
   Homepage: https://cli.github.com/
 - Package: ghc
@@ -5294,14 +5294,6 @@
   Version: 0.10.3
   Description: A C11 / gnu11 utilities C library
   Homepage: https://github.com/shlomif/rinutils
-- Package: librnnoise
-  Version: 2021.03.12
-  Description: RNN-based noise suppression
-  Homepage: https://jmvalin.ca/demo/rnnoise/
-- Package: librnnoise-static
-  Version: 2021.03.12
-  Description: Static libraries for librnnoise
-  Homepage: https://jmvalin.ca/demo/rnnoise/
 - Package: librocksdb
   Version: 8.11.3
   Description: A persistent key-value store for flash and RAM storage
