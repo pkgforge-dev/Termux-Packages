@@ -1039,7 +1039,7 @@
   },
   {
     "Package": "bsdtar",
-    "Version": "3.7.7",
+    "Version": "3.7.8",
     "Description": "The tar(1) and cpio(1) programs from FreeBSD, using libarchive",
     "Homepage": "https://www.libarchive.org/"
   },
@@ -4837,7 +4837,7 @@
   },
   {
     "Package": "kakoune-lsp",
-    "Version": "18.1.2",
+    "Version": "18.1.3",
     "Description": "Language Server Protocol Client for the Kakoune editor",
     "Homepage": "https://github.com/kakoune-lsp/kakoune-lsp"
   },
@@ -4897,7 +4897,7 @@
   },
   {
     "Package": "kotlin",
-    "Version": "2.1.10",
+    "Version": "2.1.20",
     "Description": "The Kotlin Programming Language",
     "Homepage": "https://kotlinlang.org/"
   },
@@ -5269,13 +5269,13 @@
   },
   {
     "Package": "libarchive",
-    "Version": "3.7.7",
+    "Version": "3.7.8",
     "Description": "Multi-format archive and compression library",
     "Homepage": "https://www.libarchive.org/"
   },
   {
     "Package": "libarchive-static",
-    "Version": "3.7.7",
+    "Version": "3.7.8",
     "Description": "Static libraries for libarchive",
     "Homepage": "https://www.libarchive.org/"
   },
@@ -10123,7 +10123,7 @@
   },
   {
     "Package": "memcached",
-    "Version": "1.6.37",
+    "Version": "1.6.38",
     "Description": "Free & open source, high-performance, distributed memory object caching system",
     "Homepage": "https://memcached.org/"
   },
