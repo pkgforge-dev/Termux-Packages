@@ -2683,7 +2683,7 @@
   },
   {
     "Package": "fastfetch",
-    "Version": "2.38.0",
+    "Version": "2.39.0",
     "Description": "A maintained, feature-rich and performance oriented, neofetch like system information tool",
     "Homepage": "https://github.com/fastfetch-cli/fastfetch"
   },
@@ -4627,7 +4627,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.22.1665",
+    "Version": "0.22.1669",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -11062,12 +11062,6 @@
     "Version": "2.6.12",
     "Description": "Static libraries for oathtool",
     "Homepage": "http://www.nongnu.org/oath-toolkit/"
-  },
-  {
-    "Package": "obfs4proxy",
-    "Version": "0.0.14-3",
-    "Description": "A pluggable transport plugin for Tor",
-    "Homepage": "https://github.com/Yawning/obfs4"
   },
   {
     "Package": "ocl-icd",
