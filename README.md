@@ -2213,7 +2213,7 @@
 | **rubiks-cube** | 1.2 | A rubik's cube that runs in your terminal | https://github.com/been-jamming/rubiks_cube |
 | **ruby** | 3.4.1-1 | Dynamic programming language with a focus on simplicity and productivity | https://www.ruby-lang.org/ |
 | **ruby-ri** | 3.4.1-1 | Ruby documentation index | https://www.ruby-lang.org/ |
-| **ruff** | 0.11.1 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
+| **ruff** | 0.11.2 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
 | **runit** | 2.1.2-3 | Tools to provide service supervision and to manage services | http://smarden.org/runit |
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.6.1 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
@@ -2490,8 +2490,8 @@
 | **tree-sitter-query** | 0.5.1 | TS query grammar for tree-sitter | https://github.com/tree-sitter-grammars |
 | **tree-sitter-query-static** | 0.4.0-1 | Static libraries for tree-sitter-query | https://github.com/tree-sitter-grammars |
 | **tree-sitter-static** | 0.25.3 | Static libraries for tree-sitter | https://github.com/tree-sitter/tree-sitter |
-| **tree-sitter-vim** | 0.4.0-1 | Vimscript grammar for tree-sitter | https://github.com/tree-sitter-grammars |
-| **tree-sitter-vim-static** | 0.4.0-1 | Static libraries for tree-sitter-vim | https://github.com/tree-sitter-grammars |
+| **tree-sitter-vim** | 0.5.0 | Vimscript grammar for tree-sitter | https://github.com/tree-sitter-grammars |
+| **tree-sitter-vim-static** | 0.5.0 | Static libraries for tree-sitter-vim | https://github.com/tree-sitter-grammars |
 | **tree-sitter-vimdoc** | 3.0.1 | Tree-sitter parser for Vim help files | https://github.com/neovim/tree-sitter-vimdoc |
 | **tree-sitter-vimdoc-static** | 3.0.1 | Static libraries for tree-sitter-vimdoc | https://github.com/neovim/tree-sitter-vimdoc |
 | **trojan-go** | 0.10.6-3 | A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW | https://p4gefau1t.github.io/trojan-go |
@@ -2601,8 +2601,8 @@
 | **vulkan-loader** | 0.0.3 | A metapackage that provides vulkan loader library | https://github.com/termux/termux-packages |
 | **vulkan-loader-android** | 27c | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
 | **vulkan-loader-generic** | 1.4.311 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
-| **vulkan-tools** | 1.4.310 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
-| **vulkan-utility-libraries** | 1.4.310 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
+| **vulkan-tools** | 1.4.311 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
+| **vulkan-utility-libraries** | 1.4.311 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
 | **vulkan-validation-layers** | 1.4.310 | Vulkan Validation Layers | https://github.com/KhronosGroup/Vulkan-ValidationLayers |
 | **vulkan-volk** | 1.4.304 | Meta loader for Vulkan API | https://github.com/zeux/volk |
 | **w3m** | 0.5.3.20230121-1 | Text based Web browser and pager | https://w3m.sourceforge.net/ |

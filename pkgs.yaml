@@ -8811,7 +8811,7 @@
   Description: Ruby documentation index
   Homepage: https://www.ruby-lang.org/
 - Package: ruff
-  Version: 0.11.1
+  Version: 0.11.2
   Description: An extremely fast Python linter, written in Rust
   Homepage: https://github.com/charliermarsh/ruff
 - Package: runit
@@ -9919,11 +9919,11 @@
   Description: Static libraries for tree-sitter
   Homepage: https://github.com/tree-sitter/tree-sitter
 - Package: tree-sitter-vim
-  Version: 0.4.0-1
+  Version: 0.5.0
   Description: Vimscript grammar for tree-sitter
   Homepage: https://github.com/tree-sitter-grammars
 - Package: tree-sitter-vim-static
-  Version: 0.4.0-1
+  Version: 0.5.0
   Description: Static libraries for tree-sitter-vim
   Homepage: https://github.com/tree-sitter-grammars
 - Package: tree-sitter-vimdoc
@@ -10363,11 +10363,11 @@
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
-  Version: 1.4.310
+  Version: 1.4.311
   Description: Vulkan Tools and Utilities
   Homepage: https://github.com/KhronosGroup/Vulkan-Tools
 - Package: vulkan-utility-libraries
-  Version: 1.4.310
+  Version: 1.4.311
   Description: Utility Libraries for Vulkan
   Homepage: https://github.com/KhronosGroup/Vulkan-Utility-Libraries
 - Package: vulkan-validation-layers
