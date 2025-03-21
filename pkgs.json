@@ -3451,7 +3451,7 @@
   },
   {
     "Package": "gleam",
-    "Version": "1.8.1",
+    "Version": "1.9.1",
     "Description": "A friendly language for building type-safe, scalable systems!",
     "Homepage": "https://gleam.run"
   },
@@ -4921,7 +4921,7 @@
   },
   {
     "Package": "kubelogin",
-    "Version": "1.32.2",
+    "Version": "1.32.3",
     "Description": "A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication",
     "Homepage": "https://github.com/int128/kubelogin"
   },
@@ -7879,13 +7879,13 @@
   },
   {
     "Package": "librav1e",
-    "Version": "0.7.1-2",
+    "Version": "0.7.1-3",
     "Description": "An AV1 encoder library focused on speed and safety",
     "Homepage": "https://github.com/xiph/rav1e/"
   },
   {
     "Package": "librav1e-static",
-    "Version": "0.7.1-2",
+    "Version": "0.7.1-3",
     "Description": "Static libraries for librav1e",
     "Homepage": "https://github.com/xiph/rav1e/"
   },
@@ -10753,7 +10753,7 @@
   },
   {
     "Package": "neocmakelsp",
-    "Version": "0.8.19",
+    "Version": "0.8.21",
     "Description": "a cmake lsp based on tower-lsp and treesitter",
     "Homepage": "https://neocmakelsp.github.io/"
   },
@@ -12811,7 +12811,7 @@
   },
   {
     "Package": "rav1e",
-    "Version": "0.7.1-2",
+    "Version": "0.7.1-3",
     "Description": "An AV1 encoder program focused on speed and safety",
     "Homepage": "https://github.com/xiph/rav1e/"
   },
@@ -13243,13 +13243,13 @@
   },
   {
     "Package": "rust",
-    "Version": "1.84.1",
+    "Version": "1.85.1",
     "Description": "Systems programming language focused on safety, speed and concurrency",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20250224",
+    "Version": "20250317",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://rust-analyzer.github.io/"
   },
@@ -13261,37 +13261,37 @@
   },
   {
     "Package": "rust-docs",
-    "Version": "1.84.1",
+    "Version": "1.85.1",
     "Description": "Rust documentation",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-src",
-    "Version": "1.84.1",
+    "Version": "1.85.1",
     "Description": "Rust source code files",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-aarch64-linux-android",
-    "Version": "1.84.1",
+    "Version": "1.85.1",
     "Description": "Rust std for target aarch64-linux-android",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-armv7-linux-androideabi",
-    "Version": "1.84.1",
+    "Version": "1.85.1",
     "Description": "Rust std for target armv7-linux-androideabi",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-i686-linux-android",
-    "Version": "1.84.1",
+    "Version": "1.85.1",
     "Description": "Rust std for target i686-linux-android",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-wasm32-unknown-unknown",
-    "Version": "1.84.1",
+    "Version": "1.85.1",
     "Description": "Rust std for target wasm32-unknown-unknown",
     "Homepage": "https://www.rust-lang.org/"
   },
@@ -13303,31 +13303,31 @@
   },
   {
     "Package": "rust-std-wasm32-wasip1",
-    "Version": "1.84.1",
+    "Version": "1.85.1",
     "Description": "Rust std for target wasm32-wasip1",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-wasm32-wasip2",
-    "Version": "1.84.1",
+    "Version": "1.85.1",
     "Description": "Rust std for target wasm32-wasip2",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-x86-64-linux-android",
-    "Version": "1.84.1",
+    "Version": "1.85.1",
     "Description": "Rust std for target x86_64-linux-android",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rustc-dev",
-    "Version": "1.84.1",
+    "Version": "1.85.1",
     "Description": "Rust compiler development libs",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rustc-src",
-    "Version": "1.84.1",
+    "Version": "1.85.1",
     "Description": "Rust compiler source code files",
     "Homepage": "https://www.rust-lang.org/"
   },
@@ -15523,7 +15523,7 @@
   },
   {
     "Package": "vulkan-headers",
-    "Version": "1.4.310",
+    "Version": "1.4.311",
     "Description": "Vulkan Header files and API registry",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Headers"
   },
