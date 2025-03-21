@@ -2023,7 +2023,7 @@
   Description: A fast reverse proxy to expose a local server behind a NAT or firewall to the internet
   Homepage: https://github.com/fatedier/frp
 - Package: fselect
-  Version: 0.8.9
+  Version: 0.8.10
   Description: Find files with SQL-like queries
   Homepage: https://fselect.rocks/
 - Package: fsmon
@@ -6395,11 +6395,11 @@
   Description: A Linux port of OpenBSDs ksh
   Homepage: https://github.com/dimkr/loksh
 - Package: lowdown
-  Version: 1.4.0
+  Version: 2.0.2
   Description: Markdown utilities and library (fork of hoedown -> sundown -> libsoldout)
   Homepage: https://kristaps.bsd.lv/lowdown
 - Package: lowdown-static
-  Version: 1.4.0
+  Version: 2.0.2
   Description: Static libraries for lowdown
   Homepage: https://kristaps.bsd.lv/lowdown
 - Package: lr
