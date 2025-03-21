@@ -2971,11 +2971,11 @@
   Description: HTTP image processing server & Flowhub.io compatible runtime
   Homepage: https://github.com/imgflo/imgflo
 - Package: imlib2
-  Version: 1.12.4
+  Version: 1.12.4-1
   Description: Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support
   Homepage: https://sourceforge.net/projects/enlightenment/
 - Package: imlib2-static
-  Version: 1.12.4
+  Version: 1.12.4-1
   Description: Static libraries for imlib2
   Homepage: https://sourceforge.net/projects/enlightenment/
 - Package: indent
@@ -5203,11 +5203,11 @@
   Description: Protocol buffers C++ library
   Homepage: https://github.com/protocolbuffers/protobuf
 - Package: libprotobuf-c
-  Version: 1.5.1-1
+  Version: 1.5.1-2
   Description: Protocol buffers C library
   Homepage: https://github.com/protobuf-c/protobuf-c
 - Package: libprotobuf-c-static
-  Version: 1.5.1-1
+  Version: 1.5.1-2
   Description: Static libraries for libprotobuf-c
   Homepage: https://github.com/protobuf-c/protobuf-c
 - Package: libprotozero
@@ -9887,7 +9887,7 @@
   Description: Static libraries for tree-sitter-c
   Homepage: https://github.com/tree-sitter
 - Package: tree-sitter-lua
-  Version: 0.2.0
+  Version: 0.3.0
   Description: Lua grammar for tree-sitter
   Homepage: https://github.com/tree-sitter-grammars
 - Package: tree-sitter-lua-static
@@ -10359,7 +10359,7 @@
   Description: Vulkan Loader for Android
   Homepage: https://source.android.com/devices/graphics/arch-vulkan
 - Package: vulkan-loader-generic
-  Version: 1.4.310
+  Version: 1.4.311
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
