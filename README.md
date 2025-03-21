@@ -497,9 +497,9 @@
 | **fluidsynth** | 2.4.4 | Software synthesizer based on the SoundFont 2 specifications | https://github.com/FluidSynth/fluidsynth |
 | **fm** | 1.1.0 | A terminal based file manager | https://github.com/knipferrc/fm |
 | **fmt** | 1:11.1.4 | Open-source formatting library for C++ | https://fmt.dev/latest/index.html |
-| **fontconfig** | 2.16.0 | Library for configuring and customizing font access | https://www.freedesktop.org/wiki/Software/fontconfig/ |
-| **fontconfig-static** | 2.16.0 | Static libraries for fontconfig | https://www.freedesktop.org/wiki/Software/fontconfig/ |
-| **fontconfig-utils** | 2.16.0 | Fontconfig binaries | https://www.freedesktop.org/wiki/Software/fontconfig/ |
+| **fontconfig** | 2.16.1 | Library for configuring and customizing font access | https://www.freedesktop.org/wiki/Software/fontconfig/ |
+| **fontconfig-static** | 2.16.1 | Static libraries for fontconfig | https://www.freedesktop.org/wiki/Software/fontconfig/ |
+| **fontconfig-utils** | 2.16.1 | Fontconfig binaries | https://www.freedesktop.org/wiki/Software/fontconfig/ |
 | **forestdb-dump** | 1.2 | ForestDB dump tool | https://github.com/couchbase/forestdb |
 | **forgejo** | 10.0.1 | Forgejo is a self-hosted lightweight software forge. | https://forgejo.org/ |
 | **fortune** | 1.2-1 | Revealer of fortunes | https://www.fefe.de/fortune/ |
@@ -1922,7 +1922,7 @@
 | **ovmf** | 20231122-16.fc40-0 | Open Virtual Machine Firmware | https://www.tianocore.org/ |
 | **p11-kit** | 0.25.5 | Provides a way to load and enumerate PKCS#11 modules | https://p11-glue.github.io/p11-glue/p11-kit.html |
 | **p7zip** | 17.06 | Command-line version of the 7zip compressed file archiver | https://github.com/p7zip-project/p7zip |
-| **pacman** | 7.0.0-1 | A library-based package manager with dependency support | https://archlinux.org/pacman/ |
+| **pacman** | 7.0.0-2 | A library-based package manager with dependency support | https://archlinux.org/pacman/ |
 | **pacman4console** | 1.3-3 | A 9 level ncurses pacman game with editor | https://sites.google.com/site/doctormike/pacman.html |
 | **panda3d** | 1.10.15 | A framework for 3D rendering and game development for Python and C++ programs | https://www.panda3d.org/ |
 | **panda3d-samples** | 1.10.15 | Python sample programs that use Panda3D | https://www.panda3d.org/ |

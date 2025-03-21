@@ -2923,19 +2923,19 @@
   },
   {
     "Package": "fontconfig",
-    "Version": "2.16.0",
+    "Version": "2.16.1",
     "Description": "Library for configuring and customizing font access",
     "Homepage": "https://www.freedesktop.org/wiki/Software/fontconfig/"
   },
   {
     "Package": "fontconfig-static",
-    "Version": "2.16.0",
+    "Version": "2.16.1",
     "Description": "Static libraries for fontconfig",
     "Homepage": "https://www.freedesktop.org/wiki/Software/fontconfig/"
   },
   {
     "Package": "fontconfig-utils",
-    "Version": "2.16.0",
+    "Version": "2.16.1",
     "Description": "Fontconfig binaries",
     "Homepage": "https://www.freedesktop.org/wiki/Software/fontconfig/"
   },
@@ -11473,7 +11473,7 @@
   },
   {
     "Package": "pacman",
-    "Version": "7.0.0-1",
+    "Version": "7.0.0-2",
     "Description": "A library-based package manager with dependency support",
     "Homepage": "https://archlinux.org/pacman/"
   },
