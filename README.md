@@ -278,7 +278,7 @@
 | **console-bridge** | 1.0.2 | A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages | https://github.com/ros/console_bridge |
 | **convertlit** | 1.8-1 | An extractor/converter for .LIT eBooks | http://www.convertlit.com/ |
 | **cookcli** | 0.10.0 | A suite of tools to create shopping lists and maintain food recipes | https://cooklang.org |
-| **coreutils** | 9.6 | Basic file, shell and text manipulation utilities from the GNU project | https://www.gnu.org/software/coreutils/ |
+| **coreutils** | 9.6-1 | Basic file, shell and text manipulation utilities from the GNU project | https://www.gnu.org/software/coreutils/ |
 | **corgi** | 0.2.4-4 | CLI workflow manager | https://github.com/DrakeW/corgi |
 | **corkscrew** | 2.0-3 | A tool for tunneling SSH through HTTP proxies | https://wiki.linuxquestions.org/wiki/Corkscrew |
 | **cowsay** | 3.8.4 | Program which generates ASCII pictures of a cow with a message | https://cowsay.diamonds/ |
@@ -831,7 +831,7 @@
 | **kubecolor** | 0.5.0 | Colorize your kubectl output | https://github.com/kubecolor/kubecolor |
 | **kubectl** | 1.32.3 | Kubernetes.io client binary | https://kubernetes.io/ |
 | **kubelogin** | 1.32.2 | A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication | https://github.com/int128/kubelogin |
-| **kubo** | 0.33.2-1 | A peer-to-peer hypermedia distribution protocol | https://ipfs.io/ |
+| **kubo** | 0.34.0 | A peer-to-peer hypermedia distribution protocol | https://ipfs.io/ |
 | **ladspa-sdk** | 1.17-2 | Linux Audio Developer's Simple Plugin API | https://www.ladspa.org/ |
 | **lame** | 3.100-6 | High quality MPEG Audio Layer III (MP3) encoder - frontend | https://lame.sourceforge.io/ |
 | **lastpass-cli** | 1.6.1 | LastPass command line interface tool | https://lastpass.com/ |
