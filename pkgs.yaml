@@ -251,7 +251,7 @@
   Description: APT transport for anonymous package downloads via Tor
   Homepage: https://packages.debian.org/apt
 - Package: aptitude
-  Version: 0.8.13
+  Version: 0.8.13-2
   Description: terminal-based package manager
   Homepage: https://wiki.debian.org/Aptitude
 - Package: aptly
@@ -355,7 +355,7 @@
   Description: ASP.NET Core 9.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: assimp
-  Version: 5.4.3
+  Version: 5.4.3-2
   Description: Library to import various well-known 3D model formats in an uniform manner
   Homepage: https://assimp.sourceforge.net/index.html
 - Package: assimp-static
@@ -491,7 +491,7 @@
   Description: Programmable completion for the bash shell
   Homepage: https://github.com/scop/bash-completion
 - Package: bastet
-  Version: 0.43.2-10
+  Version: 0.43.2-11
   Description: Tetris clone with bastard block-choosing AI
   Homepage: http://fph.altervista.org/prog/bastet.html
 - Package: bat
@@ -571,7 +571,7 @@
   Description: Static libraries for bison
   Homepage: https://www.gnu.org/software/bison/
 - Package: bitcoin
-  Version: "28.1"
+  Version: 28.1-1
   Description: Bitcoin Core
   Homepage: https://bitcoincore.org/
 - Package: bitlbee
@@ -623,15 +623,15 @@
   Description: A non-web client for the terminal, supporting Gopher, Gemini and much more
   Homepage: https://bombadillo.colorfield.space/
 - Package: boost
-  Version: 1:1.84.0
+  Version: 1:1.87.0-1
   Description: Free peer-reviewed portable C++ source libraries
   Homepage: https://boost.org
 - Package: boost-headers
-  Version: 1:1.84.0
+  Version: 1:1.87.0-1
   Description: Boost header files
   Homepage: https://boost.org
 - Package: boost-static
-  Version: 1:1.84.0
+  Version: 1:1.87.0-1
   Description: Static libraries for boost
   Homepage: https://boost.org
 - Package: bore
@@ -643,11 +643,11 @@
   Description: Deduplicating and compressing backup program
   Homepage: https://www.borgbackup.org/
 - Package: botan3
-  Version: 3.7.1
+  Version: 3.7.1-2
   Description: Crypto and TLS for Modern C++
   Homepage: https://botan.randombit.net/
 - Package: botan3-static
-  Version: 3.7.1
+  Version: 3.7.1-2
   Description: Static libraries for botan3
   Homepage: https://botan.randombit.net/
 - Package: boxes
@@ -1699,7 +1699,7 @@
   Description: Emscripten third party test suite files
   Homepage: https://emscripten.org
 - Package: enblend
-  Version: 4.2.0p20161007-4
+  Version: 4.2.0p20161007-6
   Description: A tool for compositing images using a Burt&Adelson multiresolution spline
   Homepage: https://enblend.sourceforge.net/
 - Package: enchant
@@ -2911,11 +2911,11 @@
   Description: A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices
   Homepage: https://www.cloudwego.io
 - Package: i2pd
-  Version: 2.56.0
+  Version: 2.56.0-2
   Description: A full-featured C++ implementation of the I2P router
   Homepage: https://i2pd.website/
 - Package: i2pd-static
-  Version: 2.56.0
+  Version: 2.56.0-2
   Description: Static libraries for i2pd
   Homepage: https://i2pd.website/
 - Package: icecast
@@ -2991,7 +2991,7 @@
   Description: An open source time series database with no external dependencies
   Homepage: https://www.influxdata.com/
 - Package: innoextract
-  Version: 1.9-6
+  Version: 1.9-8
   Description: A tool to unpack installers created by Inno Setup
   Homepage: https://constexpr.org/innoextract/
 - Package: inotify-tools
@@ -3327,7 +3327,7 @@
   Description: Static libraries for ldns
   Homepage: https://www.nlnetlabs.nl/projects/ldns/
 - Package: ledger
-  Version: 3.3.2-3
+  Version: 3.3.2-5
   Description: Powerful, double-entry accounting system
   Homepage: https://www.ledger-cli.org
 - Package: leptonica
@@ -3371,7 +3371,7 @@
   Description: Static libraries for lftp
   Homepage: https://lftp.tech/
 - Package: lgogdownloader
-  Version: "3.17"
+  Version: 3.17-1
   Description: Open source downloader to GOG.com for Linux users using the same API as the official GOGDownloader
   Homepage: https://sites.google.com/site/gogdownloader/
 - Package: lhasa
@@ -3519,11 +3519,11 @@
   Description: Static libraries for libarchive
   Homepage: https://www.libarchive.org/
 - Package: libarrow-cpp
-  Version: 19.0.1-2
+  Version: 19.0.1-3
   Description: C++ libraries for Apache Arrow
   Homepage: https://github.com/apache/arrow
 - Package: libasio
-  Version: 1.24.0
+  Version: 1.24.0-2
   Description: Cross-platform C++ library for network and low-level I/O programming
   Homepage: https://think-async.com/Asio
 - Package: libasm
@@ -3627,7 +3627,7 @@
   Description: C++ Standard Library
   Homepage: https://libcxx.llvm.org/
 - Package: libc++utilities
-  Version: 5.27.3
+  Version: 5.27.3-2
   Description: Useful C++ classes and routines such as argument parser, IO and conversion utilities
   Homepage: https://github.com/Martchus/cpp-utilities
 - Package: libc-client
@@ -4799,7 +4799,7 @@
   Description: MessagePack implementation for C
   Homepage: https://github.com/msgpack/msgpack-c/
 - Package: libmsgpack-cxx
-  Version: 7.0.0
+  Version: 7.0.0-2
   Description: msgpack for C++
   Homepage: https://msgpack.org/
 - Package: libmsgpack-static
@@ -5047,7 +5047,7 @@
   Description: Static libraries for libosl
   Homepage: http://icps.u-strasbg.fr/~bastoul/development/openscop
 - Package: libosmium
-  Version: 2.22.0
+  Version: 2.22.0-2
   Description: Library for reading from and writing to OSM files in XML and PBF formats
   Homepage: https://osmcode.org/libosmium/
 - Package: libosmpbf
@@ -5079,7 +5079,7 @@
   Description: Platform support library used by libCEC and binary add-ons for Kodi
   Homepage: https://github.com/Pulse-Eight/platform
 - Package: libpagmo
-  Version: 2.19.1
+  Version: 2.19.1-2
   Description: Scientific library for massively parallel optimization
   Homepage: https://esa.github.io/pagmo2/index.html
 - Package: libpangomm-1.4
@@ -5287,7 +5287,7 @@
   Description: Static libraries for libretls
   Homepage: https://git.causal.agency/libretls/about/
 - Package: librime
-  Version: 1.13.1
+  Version: 1.13.1-2
   Description: A modular, extensible input method engine in cross-platform C++ code
   Homepage: https://rime.im/
 - Package: librinutils
@@ -5659,7 +5659,7 @@
   Description: Tools for working with tiff files
   Homepage: http://www.simplesystems.org/libtiff/
 - Package: libtins
-  Version: "4.5"
+  Version: 4.5-2
   Description: High-level, multiplatform C++ network packet sniffing and crafting library.
   Homepage: https://libtins.github.io
 - Package: libtinyxml
@@ -5707,7 +5707,7 @@
   Description: Libtorrent BitTorrent library
   Homepage: https://github.com/rakshasa/rtorrent/wiki
 - Package: libtorrent-rasterbar
-  Version: 2.0.11
+  Version: 2.0.11-2
   Description: A feature complete C++ bittorrent implementation focusing on efficiency and scalability
   Homepage: https://libtorrent.org/
 - Package: libtorrent-static
@@ -6879,7 +6879,7 @@
   Description: 'mold: A Modern Linker'
   Homepage: https://github.com/rui314/mold
 - Package: monero
-  Version: 0.18.3.4-2
+  Version: 0.18.3.4-3
   Description: A private, secure, untraceable, decentralised digital currency
   Homepage: https://getmonero.org/
 - Package: mono
@@ -6967,7 +6967,7 @@
   Description: Static libraries for mpd
   Homepage: https://www.musicpd.org
 - Package: mpdscribble
-  Version: "0.25"
+  Version: 0.25-2
   Description: A Music Player Daemon (MPD) client which submits information about tracks being played to a scrobbler
   Homepage: https://www.musicpd.org/clients/mpdscribble/
 - Package: mpg123
@@ -7107,7 +7107,7 @@
   Description: A free set of programs that use the File Transfer Protocol
   Homepage: https://www.ncftp.com/
 - Package: ncmpcpp
-  Version: 0.10.1-3
+  Version: 0.10.1-4
   Description: NCurses Music Player Client (Plus Plus)
   Homepage: https://rybczak.net/ncmpcpp/
 - Package: ncompress
@@ -7451,7 +7451,7 @@
   Description: Software implementation of the OpenAL API
   Homepage: https://openal-soft.org/
 - Package: openbabel
-  Version: 3.1.1-8
+  Version: 3.1.1-10
   Description: Open Babel is a chemical toolbox designed to speak the many languages of chemical data
   Homepage: http://openbabel.org/wiki/Main_Page
 - Package: opencc-tools
@@ -7491,7 +7491,7 @@
   Description: Provides the specification and reference implementation of the EXR file format
   Homepage: https://www.openexr.com/
 - Package: openfoam
-  Version: "2412"
+  Version: 2412-2
   Description: OpenFOAM is a CFD software written in C++
   Homepage: https://www.openfoam.com
 - Package: opengl
@@ -7559,9 +7559,9 @@
   Description: Static libraries for opensc
   Homepage: https://github.com/OpenSC/OpenSC
 - Package: openscad
-  Version: "2021.01"
+  Version: 2021.01-2
   Description: The programmers solid 3D CAD modeller (headless build)
-  Homepage: http://openscad.org/
+  Homepage: https://openscad.org/
 - Package: openssh
   Version: 9.9p2
   Description: Secure shell for logging into a remote machine
@@ -7619,7 +7619,7 @@
   Description: Mesa Off-screen Rendering Library
   Homepage: https://www.mesa3d.org
 - Package: osmium-tool
-  Version: 1.18.0
+  Version: 1.18.0-2
   Description: A multipurpose command line tool based on the Osmium Library
   Homepage: https://osmcode.org/osmium-tool/
 - Package: osslsigncode
@@ -7999,7 +7999,7 @@
   Description: A simple pomodoro timer written with the Ncurses library
   Homepage: https://github.com/chunga2020/pomodoro_curses
 - Package: poppler
-  Version: 24.05.0
+  Version: 24.05.0-2
   Description: PDF rendering library
   Homepage: https://poppler.freedesktop.org/
 - Package: poppler-data
@@ -8047,11 +8047,11 @@
   Description: A multi-client, TLS-only IRC bouncer
   Homepage: https://git.causal.agency/pounce
 - Package: povray
-  Version: 3.8.0-beta.2-11
+  Version: 3.8.0-beta.2-13
   Description: The Persistence of Vision Raytracer
   Homepage: https://www.povray.org/
 - Package: povray-data
-  Version: 3.8.0-beta.2-11
+  Version: 3.8.0-beta.2-13
   Description: Platform-independent data for povray
   Homepage: https://www.povray.org/
 - Package: predict
@@ -8279,7 +8279,7 @@
   Description: The PyPA recommended tool for installing Python packages
   Homepage: https://pip.pypa.io/
 - Package: python-pyarrow
-  Version: 19.0.1-2
+  Version: 19.0.1-3
   Description: Python bindings for Apache Arrow
   Homepage: https://github.com/apache/arrow
 - Package: python-pycryptodomex
@@ -8471,7 +8471,7 @@
   Description: Static libraries for qpdf
   Homepage: http://qpdf.sourceforge.net
 - Package: qrsspig
-  Version: 0.8.0-3
+  Version: 0.8.0-5
   Description: Headless QRSS grabber for Raspberry Pis
   Homepage: https://gitlab.com/hb9fxx/qrsspig
 - Package: quick-lint-js
@@ -8543,11 +8543,11 @@
   Description: An AV1 encoder program focused on speed and safety
   Homepage: https://github.com/xiph/rav1e/
 - Package: ravencoin
-  Version: 4.6.1-5
+  Version: 4.6.1-7
   Description: A peer-to-peer blockchain, handling the efficient creation and transfer of assets from one party to another
   Homepage: https://ravencoin.org/
 - Package: ravencoin-static
-  Version: 4.6.1-5
+  Version: 4.6.1-7
   Description: Static libraries for ravencoin
   Homepage: https://ravencoin.org/
 - Package: rbw
@@ -9155,11 +9155,11 @@
   Description: Eat as much as you want while avoiding walls
   Homepage: https://github.com/gogakoreli/snake
 - Package: snapcast-client
-  Version: 0.31.0-1
+  Version: 0.31.0-2
   Description: A multiroom client-server audio player (client)
   Homepage: https://github.com/badaix/snapcast
 - Package: snapcast-server
-  Version: 0.31.0-1
+  Version: 0.31.0-2
   Description: A multiroom client-server audio player (server)
   Homepage: https://github.com/badaix/snapcast
 - Package: snmptt
@@ -9195,7 +9195,7 @@
   Description: A user-friendly IRC bouncer
   Homepage: https://codeberg.org/emersion/soju
 - Package: solidity
-  Version: 0.8.29
+  Version: 0.8.29-2
   Description: An Ethereum smart contract-oriented language
   Homepage: https://solidity.readthedocs.io
 - Package: sops
@@ -9415,7 +9415,7 @@
   Description: Static libraries for stunnel
   Homepage: https://www.stunnel.org/
 - Package: stuntman
-  Version: 1.2.16-3
+  Version: 1.2.16-5
   Description: An open source STUN server
   Homepage: https://www.stunprotocol.org/
 - Package: stylua
@@ -9527,7 +9527,7 @@
   Description: Static libraries for ta-lib
   Homepage: https://ta-lib.org/
 - Package: taglib
-  Version: 1.13.1
+  Version: 1.13.1-2
   Description: A Library for reading and editing the meta-data of several popular audio formats.
   Homepage: http://taglib.github.io/
 - Package: taplo
@@ -9731,7 +9731,7 @@
   Description: Wrapper around texlives install-tl script
   Homepage: https://www.tug.org/texlive/
 - Package: thrift
-  Version: 0.21.0
+  Version: 0.21.0-2
   Description: Scalable cross-language services framework for IPC/RPC
   Homepage: https://thrift.apache.org
 - Package: tidy
@@ -9795,7 +9795,7 @@
   Description: Very small scheme implementation
   Homepage: http://tinyscheme.sourceforge.net/home.html
 - Package: tizonia
-  Version: 0.22.0-15
+  Version: 0.22.0-17
   Description: A command-line streaming music client/server for Linux
   Homepage: https://github.com/tizonia/
 - Package: tk
@@ -9819,7 +9819,7 @@
   Description: A blazingly fast CLOC (Count Lines Of Code) program
   Homepage: https://github.com/XAMPPRocky/tokei
 - Package: tome2
-  Version: 2022.12.27-3
+  Version: 2022.12.27-5
   Description: An open world roguelike adventure set in middle earth
   Homepage: https://github.com/tome2/tome2
 - Package: toml11
@@ -10259,7 +10259,7 @@
   Description: HTTP load testing tool
   Homepage: https://github.com/tsenart/vegeta
 - Package: vera
-  Version: 1.3.0-6
+  Version: 1.3.0-7
   Description: A programmable tool for verification, analysis and transformation of C++ source code
   Homepage: https://bitbucket.org/verateam/vera
 - Package: vgmstream
@@ -10687,7 +10687,7 @@
   Description: Blazing fast terminal file manager written in Rust, based on async I/O
   Homepage: https://yazi-rs.github.io/
 - Package: yosys
-  Version: "0.51"
+  Version: 0.51-2
   Description: A framework for RTL synthesis tools
   Homepage: https://yosyshq.net/yosys/
 - Package: youtubedr
