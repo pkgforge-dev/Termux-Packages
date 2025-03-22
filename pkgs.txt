@@ -1169,8 +1169,8 @@
  libmd  1.1.0  Message Digest functions from BSD systems  https://www.hadrons.org/software/libmd/ 
  libmd-static  1.1.0  Static libraries for libmd  https://www.hadrons.org/software/libmd/ 
  libmdbx  0.12.10  An extremely fast, compact, powerful, embedded, transactional key-value database  https://libmdbx.dqdkfa.ru/ 
- libmediainfo  24.12  Library for reading information from media files  https://mediaarea.net/en/MediaInfo 
- libmediainfo-static  24.12  Static libraries for libmediainfo  https://mediaarea.net/en/MediaInfo 
+ libmediainfo  25.03  Library for reading information from media files  https://mediaarea.net/en/MediaInfo 
+ libmediainfo-static  25.03  Static libraries for libmediainfo  https://mediaarea.net/en/MediaInfo 
  libmesode  0.10.1-4  Minimal XMPP library written for use with Profanity XMPP client  https://github.com/boothj5/libmesode 
  libmesode-static  0.10.1-4  Static libraries for libmesode  https://github.com/boothj5/libmesode 
  libmhash  0.9.9.9-3  A thread-safe hash library which provides a uniform interface to hash algorithms  https://mhash.sourceforge.net/ 
@@ -1681,7 +1681,7 @@
  mdns-scan  0.5-2  A tool for scanning for mDNS/DNS-SD services published on the local network  https://github.com/alteholz/mdns-scan 
  mdp  1.0.15-2  Command-line based markdown presentation tool  https://github.com/visit1985/mdp 
  media-types  10.1.0-1  List of standard media types and their usual file extension  https://pagure.io/mailcap 
- mediainfo  24.12  Command-line utility for reading information from media files  https://mediaarea.net/en/MediaInfo 
+ mediainfo  25.03  Command-line utility for reading information from media files  https://mediaarea.net/en/MediaInfo 
  mediamtx  1.11.3-1  Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy  https://github.com/bluenviron/mediamtx 
  megacmd  2.0.0-1  Provides non UI access to MEGA services  https://mega.io/ 
  megatools  1.11.1.20230212  Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage  https://megatools.megous.com/ 
@@ -2083,7 +2083,7 @@
  python-torchvision  0.21.0  Datasets, Transforms and Models specific to Computer Vision  https://github.com/pytorch/vision 
  python-xcbgen  1.17.0-1  The xcbgen Python module  https://xcb.freedesktop.org/ 
  python-xlib  0.33-1  The Python X Library  https://github.com/python-xlib/python-xlib 
- python-yt-dlp  2025.02.19-1  A youtube-dl fork with additional features and fixes  https://github.com/yt-dlp/yt-dlp 
+ python-yt-dlp  2025.03.21  A youtube-dl fork with additional features and fixes  https://github.com/yt-dlp/yt-dlp 
  python2  2.7.18-14  Python 2 programming language intended to enable clear programs  http://python.org/ 
  python2-static  2.7.18-14  Static libraries for python2  http://python.org/ 
  pyunbound  1.22.0  Python bindings for Unbound  https://unbound.net/ 
@@ -2359,6 +2359,7 @@
  subversion-perl  1.14.5  Perl interface to Subversion  https://subversion.apache.org 
  subversion-perl-static  1.14.5  Static libraries for subversion-perl  https://subversion.apache.org 
  subversion-static  1.14.5  Static libraries for subversion  https://subversion.apache.org 
+ sudo  1.0.0  A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument as the root (superuser) user in the Termux app  https://github.com/agnostic-apollo/sudo 
  suil  0.10.22  A library for loading and wrapping LV2 plugin UIs  https://drobilla.net/software/suil.html 
  suite3270  4.1ga11-1  A family of IBM 3270 terminal emulators and related tools  http://x3270.bgp.nu/ 
  sun  1.0.0-3  A very simple note taking cli app  https://stand-up-notes.org 
@@ -2411,9 +2412,12 @@
  termux-api-static  0.59.0  Static libraries for termux-api  https://wiki.termux.com/wiki/Termux:API 
  termux-apt-repo  0.5-1  Script to create Termux apt repositories  https://github.com/termux/termux-apt-repo 
  termux-auth  1.5.0  Password authentication library and utility for Termux  https://github.com/termux/termux-auth 
+ termux-core  0.1.0  Utils and libraries for Termux core  https://github.com/termux/termux-core-package 
+ termux-core-static  0.1.0  Static libraries for termux-core  https://github.com/termux/termux-core-package 
  termux-create-package  0.12.0-2  Utility to create Termux packages  https://github.com/termux/termux-create-package 
  termux-elf-cleaner  3.0.1  Cleaner of ELF files for Android  https://github.com/termux/termux-elf-cleaner 
- termux-exec  1:1.0-1  An execve() wrapper to make /bin and /usr/bin shebangs work  https://github.com/termux/termux-exec-package 
+ termux-exec  1:2.0.0  Utils and libraries for Termux exec including a LD_PRELOAD shared library for proper functioning of the Termux execution environment  https://github.com/termux/termux-exec-package 
+ termux-exec-static  1:2.0.0  Static libraries for termux-exec  https://github.com/termux/termux-exec-package 
  termux-gui-bash  0.1.2  A bash library for Termux:GUI  https://github.com/tareksander/termux-gui-bash 
  termux-gui-c  0.1.3-2  A C library for the Termux:GUI plugin  https://github.com/tareksander/termux-gui-c-bindings 
  termux-gui-package  0.1.6-2  A Termux package containing utilities for Termux:GUI  https://github.com/tareksander/termux-gui-package 
@@ -2421,7 +2425,7 @@
  termux-keyring  3.12-1  GPG public keys for the official Termux repositories  https://github.com/termux 
  termux-licenses  2.1  Contains LICENSE files for common licenses  https://termux.dev 
  termux-services  0.13-1  Service daemon for Termux  https://github.com/termux/termux-services/ 
- termux-tools  1.44.7  Basic system tools for Termux  https://termux.dev/ 
+ termux-tools  1.45.0  Basic system tools for Termux  https://termux.dev/ 
  teseq  1.1.1-1  Tool for analyzing control characters and terminal control sequences  https://www.gnu.org/software/teseq/ 
  tesseract  5.5.0-2  Tesseract is probably the most accurate open source OCR engine available  https://github.com/tesseract-ocr/tesseract 
  testssl.sh  3.0.9  Testing TLS/SSL encryption anywhere on any port.  https://testssl.sh/ 
@@ -2501,6 +2505,7 @@
  ttyper  1.6.0  Terminal-based typing test  https://github.com/max-niederman/ttyper 
  ttyplot  1.7.1  A realtime plotting utility for terminal with data input from stdin  https://github.com/tenox7/ttyplot 
  ttyrec  1.0.8-7  Terminal recorder and player  http://0xcc.net/ttyrec/ 
+ tudo  1.0.0  A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument as the Termux app (u<userid>_a<appid>) user in the Termux app  https://github.com/agnostic-apollo/tudo 
  tur-repo  1.0.1  A single and trusted place for all unofficial/less popular termux packages  https://github.com/termux-user-repository/tur 
  tut  2.0.1-2  A TUI for Mastodon with vim inspired keys  https://github.com/RasmusLindroth/tut 
  tvheadend  4.2.8-10  TV streaming server for Linux and Android supporting DVB-S, DVB-S2 and other formats.  https://tvheadend.org/ 

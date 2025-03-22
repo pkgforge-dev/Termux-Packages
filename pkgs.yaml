@@ -4683,11 +4683,11 @@
   Description: An extremely fast, compact, powerful, embedded, transactional key-value database
   Homepage: https://libmdbx.dqdkfa.ru/
 - Package: libmediainfo
-  Version: "24.12"
+  Version: "25.03"
   Description: Library for reading information from media files
   Homepage: https://mediaarea.net/en/MediaInfo
 - Package: libmediainfo-static
-  Version: "24.12"
+  Version: "25.03"
   Description: Static libraries for libmediainfo
   Homepage: https://mediaarea.net/en/MediaInfo
 - Package: libmesode
@@ -6731,7 +6731,7 @@
   Description: List of standard media types and their usual file extension
   Homepage: https://pagure.io/mailcap
 - Package: mediainfo
-  Version: "24.12"
+  Version: "25.03"
   Description: Command-line utility for reading information from media files
   Homepage: https://mediaarea.net/en/MediaInfo
 - Package: mediamtx
@@ -8339,7 +8339,7 @@
   Description: The Python X Library
   Homepage: https://github.com/python-xlib/python-xlib
 - Package: python-yt-dlp
-  Version: 2025.02.19-1
+  Version: 2025.03.21
   Description: A youtube-dl fork with additional features and fixes
   Homepage: https://github.com/yt-dlp/yt-dlp
 - Package: python2
@@ -9442,6 +9442,10 @@
   Version: 1.14.5
   Description: Static libraries for subversion
   Homepage: https://subversion.apache.org
+- Package: sudo
+  Version: 1.0.0
+  Description: A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument as the root (superuser) user in the Termux app
+  Homepage: https://github.com/agnostic-apollo/sudo
 - Package: suil
   Version: 0.10.22
   Description: A library for loading and wrapping LV2 plugin UIs
@@ -9650,6 +9654,14 @@
   Version: 1.5.0
   Description: Password authentication library and utility for Termux
   Homepage: https://github.com/termux/termux-auth
+- Package: termux-core
+  Version: 0.1.0
+  Description: Utils and libraries for Termux core
+  Homepage: https://github.com/termux/termux-core-package
+- Package: termux-core-static
+  Version: 0.1.0
+  Description: Static libraries for termux-core
+  Homepage: https://github.com/termux/termux-core-package
 - Package: termux-create-package
   Version: 0.12.0-2
   Description: Utility to create Termux packages
@@ -9659,8 +9671,12 @@
   Description: Cleaner of ELF files for Android
   Homepage: https://github.com/termux/termux-elf-cleaner
 - Package: termux-exec
-  Version: 1:1.0-1
-  Description: An execve() wrapper to make /bin and /usr/bin shebangs work
+  Version: 1:2.0.0
+  Description: Utils and libraries for Termux exec including a LD_PRELOAD shared library for proper functioning of the Termux execution environment
+  Homepage: https://github.com/termux/termux-exec-package
+- Package: termux-exec-static
+  Version: 1:2.0.0
+  Description: Static libraries for termux-exec
   Homepage: https://github.com/termux/termux-exec-package
 - Package: termux-gui-bash
   Version: 0.1.2
@@ -9691,7 +9707,7 @@
   Description: Service daemon for Termux
   Homepage: https://github.com/termux/termux-services/
 - Package: termux-tools
-  Version: 1.44.7
+  Version: 1.45.0
   Description: Basic system tools for Termux
   Homepage: https://termux.dev/
 - Package: teseq
@@ -10010,6 +10026,10 @@
   Version: 1.0.8-7
   Description: Terminal recorder and player
   Homepage: http://0xcc.net/ttyrec/
+- Package: tudo
+  Version: 1.0.0
+  Description: A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument as the Termux app (u<userid>_a<appid>) user in the Termux app
+  Homepage: https://github.com/agnostic-apollo/tudo
 - Package: tur-repo
   Version: 1.0.1
   Description: A single and trusted place for all unofficial/less popular termux packages
