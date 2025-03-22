@@ -9655,11 +9655,11 @@
   Description: Password authentication library and utility for Termux
   Homepage: https://github.com/termux/termux-auth
 - Package: termux-core
-  Version: 0.1.0
+  Version: 0.2.0
   Description: Utils and libraries for Termux core
   Homepage: https://github.com/termux/termux-core-package
 - Package: termux-core-static
-  Version: 0.1.0
+  Version: 0.2.0
   Description: Static libraries for termux-core
   Homepage: https://github.com/termux/termux-core-package
 - Package: termux-create-package
