@@ -899,7 +899,7 @@
   Description: Static libraries for check
   Homepage: https://libcheck.github.io/check
 - Package: chezmoi
-  Version: 2.60.1
+  Version: 2.61.0
   Description: Manage your dotfiles across multiple machines
   Homepage: https://chezmoi.io
 - Package: chicken
@@ -8371,43 +8371,43 @@
   Description: Static libraries for qalc
   Homepage: https://qalculate.github.io/
 - Package: qemu-common
-  Version: 1:8.2.6-3
+  Version: 1:8.2.6-5
   Description: A set common files used by the QEMU emulators
   Homepage: https://www.qemu.org
 - Package: qemu-system-aarch64-headless
-  Version: 1:8.2.6-3
+  Version: 1:8.2.6-5
   Description: A generic and open source machine emulator and virtualizer (headless)
   Homepage: https://www.qemu.org
 - Package: qemu-system-arm-headless
-  Version: 1:8.2.6-3
+  Version: 1:8.2.6-5
   Description: A generic and open source machine emulator and virtualizer (headless)
   Homepage: https://www.qemu.org
 - Package: qemu-system-i386-headless
-  Version: 1:8.2.6-3
+  Version: 1:8.2.6-5
   Description: A generic and open source machine emulator and virtualizer (headless)
   Homepage: https://www.qemu.org
 - Package: qemu-system-m68k-headless
-  Version: 1:8.2.6-3
+  Version: 1:8.2.6-5
   Description: A generic and open source machine emulator and virtualizer (headless)
   Homepage: https://www.qemu.org
 - Package: qemu-system-ppc-headless
-  Version: 1:8.2.6-3
+  Version: 1:8.2.6-5
   Description: A generic and open source machine emulator and virtualizer (headless)
   Homepage: https://www.qemu.org
 - Package: qemu-system-ppc64-headless
-  Version: 1:8.2.6-3
+  Version: 1:8.2.6-5
   Description: A generic and open source machine emulator and virtualizer (headless)
   Homepage: https://www.qemu.org
 - Package: qemu-system-riscv32-headless
-  Version: 1:8.2.6-3
+  Version: 1:8.2.6-5
   Description: A generic and open source machine emulator and virtualizer (headless)
   Homepage: https://www.qemu.org
 - Package: qemu-system-riscv64-headless
-  Version: 1:8.2.6-3
+  Version: 1:8.2.6-5
   Description: A generic and open source machine emulator and virtualizer (headless)
   Homepage: https://www.qemu.org
 - Package: qemu-system-x86-64-headless
-  Version: 1:8.2.6-3
+  Version: 1:8.2.6-5
   Description: A generic and open source machine emulator and virtualizer (headless)
   Homepage: https://www.qemu.org
 - Package: qemu-system-x86-64-headless-static
@@ -8415,43 +8415,43 @@
   Description: Static libraries for qemu-system-x86-64-headless
   Homepage: https://www.qemu.org
 - Package: qemu-user-aarch64
-  Version: 1:8.2.6-3
+  Version: 1:8.2.6-5
   Description: QEMU Linux user mode emulator
   Homepage: https://www.qemu.org
 - Package: qemu-user-arm
-  Version: 1:8.2.6-3
+  Version: 1:8.2.6-5
   Description: QEMU Linux user mode emulator
   Homepage: https://www.qemu.org
 - Package: qemu-user-i386
-  Version: 1:8.2.6-3
+  Version: 1:8.2.6-5
   Description: QEMU Linux user mode emulator
   Homepage: https://www.qemu.org
 - Package: qemu-user-m68k
-  Version: 1:8.2.6-3
+  Version: 1:8.2.6-5
   Description: QEMU Linux user mode emulator
   Homepage: https://www.qemu.org
 - Package: qemu-user-ppc
-  Version: 1:8.2.6-3
+  Version: 1:8.2.6-5
   Description: QEMU Linux user mode emulator
   Homepage: https://www.qemu.org
 - Package: qemu-user-ppc64
-  Version: 1:8.2.6-3
+  Version: 1:8.2.6-5
   Description: QEMU Linux user mode emulator
   Homepage: https://www.qemu.org
 - Package: qemu-user-riscv32
-  Version: 1:8.2.6-3
+  Version: 1:8.2.6-5
   Description: QEMU Linux user mode emulator
   Homepage: https://www.qemu.org
 - Package: qemu-user-riscv64
-  Version: 1:8.2.6-3
+  Version: 1:8.2.6-5
   Description: QEMU Linux user mode emulator
   Homepage: https://www.qemu.org
 - Package: qemu-user-x86-64
-  Version: 1:8.2.6-3
+  Version: 1:8.2.6-5
   Description: QEMU Linux user mode emulator
   Homepage: https://www.qemu.org
 - Package: qemu-utils
-  Version: 1:8.2.6-3
+  Version: 1:8.2.6-5
   Description: A set of utilities for working with the QEMU emulators
   Homepage: https://www.qemu.org
 - Package: qhull
@@ -9671,11 +9671,11 @@
   Description: Cleaner of ELF files for Android
   Homepage: https://github.com/termux/termux-elf-cleaner
 - Package: termux-exec
-  Version: 1:2.0.0
+  Version: 1:2.1.0-1
   Description: Utils and libraries for Termux exec including a LD_PRELOAD shared library for proper functioning of the Termux execution environment
   Homepage: https://github.com/termux/termux-exec-package
 - Package: termux-exec-static
-  Version: 1:2.0.0
+  Version: 1:2.1.0-1
   Description: Static libraries for termux-exec
   Homepage: https://github.com/termux/termux-exec-package
 - Package: termux-gui-bash

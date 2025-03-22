@@ -235,7 +235,7 @@
 | **chafa-static** | 1.14.5 | Static libraries for chafa | https://hpjansson.org/chafa/ |
 | **check** | 0.15.2-2 | A unit testing framework for C | https://libcheck.github.io/check |
 | **check-static** | 0.15.2-2 | Static libraries for check | https://libcheck.github.io/check |
-| **chezmoi** | 2.60.1 | Manage your dotfiles across multiple machines | https://chezmoi.io |
+| **chezmoi** | 2.61.0 | Manage your dotfiles across multiple machines | https://chezmoi.io |
 | **chicken** | 5.4.0-1 | A feature rich Scheme compiler and interpreter | https://www.call-cc.org |
 | **chicken-static** | 5.4.0-1 | Static libraries for chicken | https://www.call-cc.org |
 | **choose** | 1.3.6 | A human-friendly and fast alternative to cut and (sometimes) awk | https://github.com/theryangeary/choose |
@@ -2103,27 +2103,27 @@
 | **q-dns-client** | 0.19.1 | A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH | https://github.com/natesales/q |
 | **qalc** | 5.5.2 | Powerful and easy to use command line calculator | https://qalculate.github.io/ |
 | **qalc-static** | 5.5.2 | Static libraries for qalc | https://qalculate.github.io/ |
-| **qemu-common** | 1:8.2.6-3 | A set common files used by the QEMU emulators | https://www.qemu.org |
-| **qemu-system-aarch64-headless** | 1:8.2.6-3 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
-| **qemu-system-arm-headless** | 1:8.2.6-3 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
-| **qemu-system-i386-headless** | 1:8.2.6-3 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
-| **qemu-system-m68k-headless** | 1:8.2.6-3 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
-| **qemu-system-ppc-headless** | 1:8.2.6-3 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
-| **qemu-system-ppc64-headless** | 1:8.2.6-3 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
-| **qemu-system-riscv32-headless** | 1:8.2.6-3 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
-| **qemu-system-riscv64-headless** | 1:8.2.6-3 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
-| **qemu-system-x86-64-headless** | 1:8.2.6-3 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
+| **qemu-common** | 1:8.2.6-5 | A set common files used by the QEMU emulators | https://www.qemu.org |
+| **qemu-system-aarch64-headless** | 1:8.2.6-5 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
+| **qemu-system-arm-headless** | 1:8.2.6-5 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
+| **qemu-system-i386-headless** | 1:8.2.6-5 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
+| **qemu-system-m68k-headless** | 1:8.2.6-5 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
+| **qemu-system-ppc-headless** | 1:8.2.6-5 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
+| **qemu-system-ppc64-headless** | 1:8.2.6-5 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
+| **qemu-system-riscv32-headless** | 1:8.2.6-5 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
+| **qemu-system-riscv64-headless** | 1:8.2.6-5 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
+| **qemu-system-x86-64-headless** | 1:8.2.6-5 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
 | **qemu-system-x86-64-headless-static** | 1:8.2.5-1 | Static libraries for qemu-system-x86-64-headless | https://www.qemu.org |
-| **qemu-user-aarch64** | 1:8.2.6-3 | QEMU Linux user mode emulator | https://www.qemu.org |
-| **qemu-user-arm** | 1:8.2.6-3 | QEMU Linux user mode emulator | https://www.qemu.org |
-| **qemu-user-i386** | 1:8.2.6-3 | QEMU Linux user mode emulator | https://www.qemu.org |
-| **qemu-user-m68k** | 1:8.2.6-3 | QEMU Linux user mode emulator | https://www.qemu.org |
-| **qemu-user-ppc** | 1:8.2.6-3 | QEMU Linux user mode emulator | https://www.qemu.org |
-| **qemu-user-ppc64** | 1:8.2.6-3 | QEMU Linux user mode emulator | https://www.qemu.org |
-| **qemu-user-riscv32** | 1:8.2.6-3 | QEMU Linux user mode emulator | https://www.qemu.org |
-| **qemu-user-riscv64** | 1:8.2.6-3 | QEMU Linux user mode emulator | https://www.qemu.org |
-| **qemu-user-x86-64** | 1:8.2.6-3 | QEMU Linux user mode emulator | https://www.qemu.org |
-| **qemu-utils** | 1:8.2.6-3 | A set of utilities for working with the QEMU emulators | https://www.qemu.org |
+| **qemu-user-aarch64** | 1:8.2.6-5 | QEMU Linux user mode emulator | https://www.qemu.org |
+| **qemu-user-arm** | 1:8.2.6-5 | QEMU Linux user mode emulator | https://www.qemu.org |
+| **qemu-user-i386** | 1:8.2.6-5 | QEMU Linux user mode emulator | https://www.qemu.org |
+| **qemu-user-m68k** | 1:8.2.6-5 | QEMU Linux user mode emulator | https://www.qemu.org |
+| **qemu-user-ppc** | 1:8.2.6-5 | QEMU Linux user mode emulator | https://www.qemu.org |
+| **qemu-user-ppc64** | 1:8.2.6-5 | QEMU Linux user mode emulator | https://www.qemu.org |
+| **qemu-user-riscv32** | 1:8.2.6-5 | QEMU Linux user mode emulator | https://www.qemu.org |
+| **qemu-user-riscv64** | 1:8.2.6-5 | QEMU Linux user mode emulator | https://www.qemu.org |
+| **qemu-user-x86-64** | 1:8.2.6-5 | QEMU Linux user mode emulator | https://www.qemu.org |
+| **qemu-utils** | 1:8.2.6-5 | A set of utilities for working with the QEMU emulators | https://www.qemu.org |
 | **qhull** | 8.1-alpha3-0 | Calculate convex hulls and related structures | http://www.qhull.org |
 | **qhull-static** | 8.1-alpha3-0 | Static libraries for qhull | http://www.qhull.org |
 | **qpdf** | 12.0.0 | Content-Preserving PDF Transformation System | http://qpdf.sourceforge.net |
@@ -2428,8 +2428,8 @@
 | **termux-core-static** | 0.2.0 | Static libraries for termux-core | https://github.com/termux/termux-core-package |
 | **termux-create-package** | 0.12.0-2 | Utility to create Termux packages | https://github.com/termux/termux-create-package |
 | **termux-elf-cleaner** | 3.0.1 | Cleaner of ELF files for Android | https://github.com/termux/termux-elf-cleaner |
-| **termux-exec** | 1:2.0.0 | Utils and libraries for Termux exec including a LD_PRELOAD shared library for proper functioning of the Termux execution environment | https://github.com/termux/termux-exec-package |
-| **termux-exec-static** | 1:2.0.0 | Static libraries for termux-exec | https://github.com/termux/termux-exec-package |
+| **termux-exec** | 1:2.1.0-1 | Utils and libraries for Termux exec including a LD_PRELOAD shared library for proper functioning of the Termux execution environment | https://github.com/termux/termux-exec-package |
+| **termux-exec-static** | 1:2.1.0-1 | Static libraries for termux-exec | https://github.com/termux/termux-exec-package |
 | **termux-gui-bash** | 0.1.2 | A bash library for Termux:GUI | https://github.com/tareksander/termux-gui-bash |
 | **termux-gui-c** | 0.1.3-2 | A C library for the Termux:GUI plugin | https://github.com/tareksander/termux-gui-c-bindings |
 | **termux-gui-package** | 0.1.6-2 | A Termux package containing utilities for Termux:GUI | https://github.com/tareksander/termux-gui-package |
