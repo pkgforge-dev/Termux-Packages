@@ -1249,7 +1249,7 @@
   },
   {
     "Package": "ccache",
-    "Version": "4.11.1",
+    "Version": "4.11.2",
     "Description": "Compiler cache for fast recompilation of C/C++ code",
     "Homepage": "https://ccache.samba.org"
   },
@@ -1807,13 +1807,13 @@
   },
   {
     "Package": "dar",
-    "Version": "2.7.16",
+    "Version": "2.7.17",
     "Description": "A full featured command-line backup tool, short for Disk ARchive",
     "Homepage": "http://dar.linux.free.fr/"
   },
   {
     "Package": "dar-static",
-    "Version": "2.7.16",
+    "Version": "2.7.17",
     "Description": "Static libraries for dar",
     "Homepage": "http://dar.linux.free.fr/"
   },
@@ -11101,7 +11101,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "25.5.0",
+    "Version": "25.5.1",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -12391,13 +12391,13 @@
   },
   {
     "Package": "python-numpy",
-    "Version": "2.2.3",
+    "Version": "2.2.4",
     "Description": "The fundamental package for scientific computing with Python",
     "Homepage": "https://numpy.org/"
   },
   {
     "Package": "python-numpy-static",
-    "Version": "2.2.3",
+    "Version": "2.2.4",
     "Description": "Static libraries for python-numpy",
     "Homepage": "https://numpy.org/"
   },
