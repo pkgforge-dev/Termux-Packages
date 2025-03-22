@@ -781,7 +781,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-1 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.22.1672 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.22.1675 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **janet** | 1.38.0 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
 | **jbig2dec** | 0.20 | Decoder implementation of the JBIG2 image compression format | https://jbig2dec.com/ |
 | **jbig2dec-static** | 0.20 | Static libraries for jbig2dec | https://jbig2dec.com/ |
@@ -1381,7 +1381,7 @@
 | **libsoundtouch** | 2.3.3 | An open-source audio processing library for changing the Tempo, Pitch and Playback Rates of audio streams or files | https://www.surina.net/soundtouch/ |
 | **libsoundtouch-static** | 2.3.3 | Static libraries for libsoundtouch | https://www.surina.net/soundtouch/ |
 | **libsoup** | 2.74.3-3 | HTTP client and server library | https://wiki.gnome.org/action/show/Projects/libsoup |
-| **libsoup3** | 3.6.4 | HTTP client and server library | https://libsoup.gnome.org/libsoup-3.0/ |
+| **libsoup3** | 3.6.5 | HTTP client and server library | https://libsoup.gnome.org/libsoup-3.0/ |
 | **libsoxr** | 0.1.3-7 | High quality, one-dimensional sample-rate conversion library | https://sourceforge.net/projects/soxr/ |
 | **libspatialindex** | 2.1.0 | C++ implementation of R*-tree, an MVR-tree and a TPR-tree with C API | https://libspatialindex.github.io |
 | **libspatialite** | 5.1.0 | SQLite extension to support spatial data types and operations | https://www.gaia-gis.it/fossil/libspatialite |
@@ -2003,7 +2003,7 @@
 | **plzip** | 1.12 | A massively parallel lossless data compressor based on the lzlib compression library | https://www.nongnu.org/lzip/plzip.html |
 | **pngcrush** | 1.8.13-1 | Recompresses png files | https://pmt.sourceforge.io/pngcrush/ |
 | **pngquant** | 3.0.3-1 | PNG image optimising utility | https://pngquant.org |
-| **pocketbase** | 0.26.1 | An open source Go backend | https://github.com/pocketbase/pocketbase |
+| **pocketbase** | 0.26.2 | An open source Go backend | https://github.com/pocketbase/pocketbase |
 | **poke** | 4.3 | Interactive, extensible editor for binary data. | http://www.jemarch.net/poke.html |
 | **poke-static** | 4.3 | Static libraries for poke | http://www.jemarch.net/poke.html |
 | **polipo** | 1.1.1 | A small and fast caching web proxy | http://www.pps.jussieu.fr/~jch/software/polipo/ |
