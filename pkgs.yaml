@@ -1051,7 +1051,7 @@
   Description: Tool to colorize diff output
   Homepage: https://www.colordiff.org/
 - Package: command-not-found
-  Version: 2.4.0-67
+  Version: 2.4.0-68
   Description: Suggest installation of packages in interactive shell sessions
   Homepage: https://github.com/termux/command-not-found
 - Package: composer
@@ -1963,7 +1963,7 @@
   Description: ForestDB dump tool
   Homepage: https://github.com/couchbase/forestdb
 - Package: forgejo
-  Version: 10.0.1
+  Version: 10.0.2
   Description: Forgejo is a self-hosted lightweight software forge.
   Homepage: https://forgejo.org/
 - Package: fortune
@@ -6547,11 +6547,11 @@
   Description: A way of synchronizing a collection of mailboxes
   Homepage: http://mailsync.sourceforge.net/
 - Package: mailutils
-  Version: "3.18"
+  Version: "3.19"
   Description: Mailutils is a swiss army knife of electronic mail handling.
   Homepage: https://mailutils.org/
 - Package: mailutils-static
-  Version: "3.18"
+  Version: "3.19"
   Description: Static libraries for mailutils
   Homepage: https://mailutils.org/
 - Package: make

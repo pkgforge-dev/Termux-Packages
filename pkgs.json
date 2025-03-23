@@ -1579,7 +1579,7 @@
   },
   {
     "Package": "command-not-found",
-    "Version": "2.4.0-67",
+    "Version": "2.4.0-68",
     "Description": "Suggest installation of packages in interactive shell sessions",
     "Homepage": "https://github.com/termux/command-not-found"
   },
@@ -2947,7 +2947,7 @@
   },
   {
     "Package": "forgejo",
-    "Version": "10.0.1",
+    "Version": "10.0.2",
     "Description": "Forgejo is a self-hosted lightweight software forge.",
     "Homepage": "https://forgejo.org/"
   },
@@ -9823,13 +9823,13 @@
   },
   {
     "Package": "mailutils",
-    "Version": "3.18",
+    "Version": "3.19",
     "Description": "Mailutils is a swiss army knife of electronic mail handling.",
     "Homepage": "https://mailutils.org/"
   },
   {
     "Package": "mailutils-static",
-    "Version": "3.18",
+    "Version": "3.19",
     "Description": "Static libraries for mailutils",
     "Homepage": "https://mailutils.org/"
   },
