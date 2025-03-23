@@ -3085,8 +3085,14 @@
   },
   {
     "Package": "game-music-emu",
-    "Version": "0.6.3-1",
+    "Version": "0.6.4",
     "Description": "A collection of video game music file emulators",
+    "Homepage": "https://bitbucket.org/mpyne/game-music-emu/wiki/Home"
+  },
+  {
+    "Package": "game-music-emu-static",
+    "Version": "0.6.4",
+    "Description": "Static libraries for game-music-emu",
     "Homepage": "https://bitbucket.org/mpyne/game-music-emu/wiki/Home"
   },
   {
@@ -3595,7 +3601,7 @@
   },
   {
     "Package": "gnunet",
-    "Version": "0.23.1",
+    "Version": "0.24.0",
     "Description": "A framework for secure peer-to-peer networking",
     "Homepage": "https://gnunet.org"
   },
@@ -4879,7 +4885,7 @@
   },
   {
     "Package": "knockd",
-    "Version": "0.8-2",
+    "Version": "0.8.2-1",
     "Description": "A port-knocking daemon",
     "Homepage": "https://zeroflux.org/projects/knock"
   },
@@ -8305,19 +8311,19 @@
   },
   {
     "Package": "libsqlite",
-    "Version": "3.49.1",
+    "Version": "3.49.1-1",
     "Description": "Library implementing a self-contained and transactional SQL database engine",
     "Homepage": "https://www.sqlite.org"
   },
   {
     "Package": "libsqlite-static",
-    "Version": "3.49.1",
+    "Version": "3.49.1-1",
     "Description": "Static libraries for libsqlite",
     "Homepage": "https://www.sqlite.org"
   },
   {
     "Package": "libsqlite-tcl",
-    "Version": "3.49.1",
+    "Version": "3.49.1-1",
     "Description": "tcl bindings for SQLite",
     "Homepage": "https://www.sqlite.org"
   },
@@ -13909,7 +13915,7 @@
   },
   {
     "Package": "sqlite",
-    "Version": "3.49.1",
+    "Version": "3.49.1-1",
     "Description": "Command line shell for SQLite",
     "Homepage": "https://www.sqlite.org"
   },
@@ -15589,7 +15595,7 @@
   },
   {
     "Package": "vulkan-validation-layers",
-    "Version": "1.4.310",
+    "Version": "1.4.311",
     "Description": "Vulkan Validation Layers",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-ValidationLayers"
   },
