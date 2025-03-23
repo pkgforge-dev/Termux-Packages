@@ -1243,7 +1243,7 @@
   Description: The Berkeley DB embedded database system
   Homepage: https://www.oracle.com/database/berkeley-db
 - Package: dbus
-  Version: 1.15.6-3
+  Version: 1.16.2
   Description: Freedesktop.org message bus system
   Homepage: https://dbus.freedesktop.org
 - Package: dbus-python
@@ -1263,7 +1263,7 @@
   Description: Raw digital camera images decoding utility
   Homepage: https://www.dechifro.org/dcraw/
 - Package: ddrescue
-  Version: "1.29"
+  Version: 1.29.1
   Description: GNU data recovery tool
   Homepage: https://www.gnu.org/software/ddrescue/
 - Package: debianutils
@@ -3083,7 +3083,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.1675
+  Version: 0.22.1680
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: janet
@@ -6295,7 +6295,7 @@
   Description: An open-source, multi-format 1D/2D barcode image processing library implemented in C++
   Homepage: https://github.com/zxing-cpp/zxing-cpp
 - Package: lighttpd
-  Version: 1.4.77
+  Version: 1.4.78
   Description: Fast webserver with minimal memory footprint
   Homepage: https://www.lighttpd.net
 - Package: lighttpd-static
@@ -7291,7 +7291,7 @@
   Description: Curses based Performance Monitor for Linux with saving performance stats to a CSV file mode
   Homepage: https://nmon.sourceforge.net/
 - Package: nnn
-  Version: "5.0"
+  Version: "5.1"
   Description: Free, fast, friendly file browser
   Homepage: https://github.com/jarun/nnn
 - Package: no-more-secrets
@@ -8959,7 +8959,7 @@
   Description: Iteratively writes patterns on files or disk devices to make retreiving the data more difficult
   Homepage: https://github.com/chaos/scrub
 - Package: scrypt
-  Version: 1.3.2-3
+  Version: 1.3.3
   Description: scrypt KDF library and file encryption tool
   Homepage: https://www.tarsnap.com/scrypt.html
 - Package: sd
