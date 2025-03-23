@@ -3119,7 +3119,7 @@
   Description: Static libraries for jcal
   Homepage: http://nongnu.org/jcal
 - Package: jfrog-cli
-  Version: 2.74.0
+  Version: 2.74.1
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -4439,11 +4439,11 @@
   Description: A small java library that allows you to use ANSI escape codes to format your console output
   Homepage: https://fusesource.github.io/jansi/
 - Package: libjansson
-  Version: "2.14"
+  Version: 2.14.1
   Description: C library for encoding, decoding and manipulating JSON data
   Homepage: http://www.digip.org/jansson/
 - Package: libjansson-static
-  Version: "2.14"
+  Version: 2.14.1
   Description: Static libraries for libjansson
   Homepage: http://www.digip.org/jansson/
 - Package: libjasper
@@ -7683,7 +7683,7 @@
   Description: par2cmdline is a PAR 2.0 compatible file verification and repair tool
   Homepage: https://github.com/Parchive/par2cmdline
 - Package: parallel
-  Version: "20250222"
+  Version: "20250322"
   Description: GNU Parallel is a shell tool for executing jobs in parallel using one or more machines
   Homepage: https://www.gnu.org/software/parallel/
 - Package: pari
@@ -8619,11 +8619,11 @@
   Description: Static libraries for recode
   Homepage: https://github.com/pinard/Recode
 - Package: recoll
-  Version: 1.42.1
+  Version: 1.43.0
   Description: Full-text search for your desktop
   Homepage: https://www.recoll.org/
 - Package: recoll-python
-  Version: 1.42.1
+  Version: 1.43.0
   Description: Python interface for Recoll
   Homepage: https://www.recoll.org/
 - Package: recoll-static
@@ -8711,7 +8711,7 @@
   Description: Search tool able to locate in PDFs, E-Books, zip, tar.gz, etc
   Homepage: https://github.com/phiresky/ripgrep-all
 - Package: ripsecrets
-  Version: 0.1.8
+  Version: 0.1.9
   Description: A command-line tool to prevent committing secret keys into your source code
   Homepage: https://github.com/sirwart/ripsecrets
 - Package: rirc
@@ -9675,11 +9675,11 @@
   Description: Cleaner of ELF files for Android
   Homepage: https://github.com/termux/termux-elf-cleaner
 - Package: termux-exec
-  Version: 1:2.1.0-1
+  Version: 1:2.2.0
   Description: Utils and libraries for Termux exec including a LD_PRELOAD shared library for proper functioning of the Termux execution environment
   Homepage: https://github.com/termux/termux-exec-package
 - Package: termux-exec-static
-  Version: 1:2.1.0-1
+  Version: 1:2.2.0
   Description: Static libraries for termux-exec
   Homepage: https://github.com/termux/termux-exec-package
 - Package: termux-gui-bash

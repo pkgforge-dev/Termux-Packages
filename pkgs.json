@@ -4681,7 +4681,7 @@
   },
   {
     "Package": "jfrog-cli",
-    "Version": "2.74.0",
+    "Version": "2.74.1",
     "Description": "A CLI for JFrog products",
     "Homepage": "https://jfrog.com/getcli"
   },
@@ -6661,13 +6661,13 @@
   },
   {
     "Package": "libjansson",
-    "Version": "2.14",
+    "Version": "2.14.1",
     "Description": "C library for encoding, decoding and manipulating JSON data",
     "Homepage": "http://www.digip.org/jansson/"
   },
   {
     "Package": "libjansson-static",
-    "Version": "2.14",
+    "Version": "2.14.1",
     "Description": "Static libraries for libjansson",
     "Homepage": "http://www.digip.org/jansson/"
   },
@@ -11527,7 +11527,7 @@
   },
   {
     "Package": "parallel",
-    "Version": "20250222",
+    "Version": "20250322",
     "Description": "GNU Parallel is a shell tool for executing jobs in parallel using one or more machines",
     "Homepage": "https://www.gnu.org/software/parallel/"
   },
@@ -12931,13 +12931,13 @@
   },
   {
     "Package": "recoll",
-    "Version": "1.42.1",
+    "Version": "1.43.0",
     "Description": "Full-text search for your desktop",
     "Homepage": "https://www.recoll.org/"
   },
   {
     "Package": "recoll-python",
-    "Version": "1.42.1",
+    "Version": "1.43.0",
     "Description": "Python interface for Recoll",
     "Homepage": "https://www.recoll.org/"
   },
@@ -13069,7 +13069,7 @@
   },
   {
     "Package": "ripsecrets",
-    "Version": "0.1.8",
+    "Version": "0.1.9",
     "Description": "A command-line tool to prevent committing secret keys into your source code",
     "Homepage": "https://github.com/sirwart/ripsecrets"
   },
@@ -14515,13 +14515,13 @@
   },
   {
     "Package": "termux-exec",
-    "Version": "1:2.1.0-1",
+    "Version": "1:2.2.0",
     "Description": "Utils and libraries for Termux exec including a LD_PRELOAD shared library for proper functioning of the Termux execution environment",
     "Homepage": "https://github.com/termux/termux-exec-package"
   },
   {
     "Package": "termux-exec-static",
-    "Version": "1:2.1.0-1",
+    "Version": "1:2.2.0",
     "Description": "Static libraries for termux-exec",
     "Homepage": "https://github.com/termux/termux-exec-package"
   },
