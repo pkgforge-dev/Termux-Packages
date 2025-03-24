@@ -4057,19 +4057,19 @@
   },
   {
     "Package": "harfbuzz",
-    "Version": "10.4.0-1",
+    "Version": "11.0.0",
     "Description": "OpenType text shaping engine",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-icu",
-    "Version": "10.4.0-1",
+    "Version": "11.0.0",
     "Description": "OpenType text shaping engine ICU backend",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-utils",
-    "Version": "10.4.0-1",
+    "Version": "11.0.0",
     "Description": "Tools using the harfbuzz library",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
@@ -6133,7 +6133,7 @@
   },
   {
     "Package": "libftxui",
-    "Version": "5.0.0",
+    "Version": "6.0.0",
     "Description": "A simple C++ library for terminal based user interface",
     "Homepage": "https://github.com/ArthurSonzogni/FTXUI"
   },
@@ -14701,13 +14701,13 @@
   },
   {
     "Package": "tinygo",
-    "Version": "0.35.0",
+    "Version": "0.37.0",
     "Description": "Go compiler for microcontrollers, WASM, CLI tools",
     "Homepage": "https://tinygo.org"
   },
   {
     "Package": "tinygo-common",
-    "Version": "0.35.0",
+    "Version": "0.37.0",
     "Description": "TinyGo common files",
     "Homepage": "https://tinygo.org"
   },
@@ -14851,9 +14851,9 @@
   },
   {
     "Package": "tree-sitter-c",
-    "Version": "0.23.5",
+    "Version": "0.23.5-1",
     "Description": "C grammar for tree-sitter",
-    "Homepage": "https://github.com/tree-sitter"
+    "Homepage": "https://github.com/tree-sitter/tree-sitter-c"
   },
   {
     "Package": "tree-sitter-c-static",
@@ -14863,9 +14863,9 @@
   },
   {
     "Package": "tree-sitter-lua",
-    "Version": "0.3.0",
+    "Version": "0.3.0-1",
     "Description": "Lua grammar for tree-sitter",
-    "Homepage": "https://github.com/tree-sitter-grammars"
+    "Homepage": "https://github.com/tree-sitter-grammars/tree-sitter-lua"
   },
   {
     "Package": "tree-sitter-lua-static",
@@ -14875,9 +14875,9 @@
   },
   {
     "Package": "tree-sitter-markdown",
-    "Version": "0.3.2",
-    "Description": "Tree-sitter parser for Markdown",
-    "Homepage": "https://github.com/tree-sitter-grammars"
+    "Version": "0.4.1",
+    "Description": "Markdown grammar for tree-sitter",
+    "Homepage": "https://github.com/tree-sitter-grammars/tree-sitter-markdown"
   },
   {
     "Package": "tree-sitter-markdown-static",
@@ -14887,15 +14887,15 @@
   },
   {
     "Package": "tree-sitter-parsers",
-    "Version": "0.0.1",
+    "Version": "0.0.2",
     "Description": "A metapackage that provides commonly used treesitter parsers",
     "Homepage": "https://github.com/termux/termux-packages"
   },
   {
     "Package": "tree-sitter-query",
-    "Version": "0.5.1",
+    "Version": "0.5.1-1",
     "Description": "TS query grammar for tree-sitter",
-    "Homepage": "https://github.com/tree-sitter-grammars"
+    "Homepage": "https://github.com/tree-sitter-grammars/tree-sitter-query"
   },
   {
     "Package": "tree-sitter-query-static",
@@ -14911,25 +14911,25 @@
   },
   {
     "Package": "tree-sitter-vim",
-    "Version": "0.5.0",
+    "Version": "0.5.0-1",
     "Description": "Vimscript grammar for tree-sitter",
-    "Homepage": "https://github.com/tree-sitter-grammars"
+    "Homepage": "https://github.com/tree-sitter-grammars/tree-sitter-vim"
   },
   {
     "Package": "tree-sitter-vim-static",
-    "Version": "0.5.0",
+    "Version": "0.5.0-1",
     "Description": "Static libraries for tree-sitter-vim",
-    "Homepage": "https://github.com/tree-sitter-grammars"
+    "Homepage": "https://github.com/tree-sitter-grammars/tree-sitter-vim"
   },
   {
     "Package": "tree-sitter-vimdoc",
-    "Version": "3.0.1",
+    "Version": "3.0.1-1",
     "Description": "Tree-sitter parser for Vim help files",
     "Homepage": "https://github.com/neovim/tree-sitter-vimdoc"
   },
   {
     "Package": "tree-sitter-vimdoc-static",
-    "Version": "3.0.1",
+    "Version": "3.0.1-1",
     "Description": "Static libraries for tree-sitter-vimdoc",
     "Homepage": "https://github.com/neovim/tree-sitter-vimdoc"
   },
