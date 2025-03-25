@@ -542,8 +542,8 @@
  geoip2-database  20191221-2  GeoLite2 IP geolocation databases compiled by MaxMind  https://dev.maxmind.com/geoip/geoip2/geolite2/ 
  germanium  1.2.3-3  Generate image from source code  https://github.com/matsuyoshi30/germanium 
  getconf  0.6  Utility to print configuration values  https://github.com/termux/getconf 
- geth  1.15.5  Go implementation of the Ethereum protocol  https://geth.ethereum.org/ 
- geth-utils  1.15.5  Additional utilities for Geth (like abigen, bootnode, evm, puppeth)  https://geth.ethereum.org/ 
+ geth  1.15.6  Go implementation of the Ethereum protocol  https://geth.ethereum.org/ 
+ geth-utils  1.15.6  Additional utilities for Geth (like abigen, bootnode, evm, puppeth)  https://geth.ethereum.org/ 
  gettext  0.24  GNU Internationalization utilities  https://www.gnu.org/software/gettext/ 
  gettext-static  0.24  Static libraries for gettext  https://www.gnu.org/software/gettext/ 
  gexiv2  0.14.3-1  A GObject-based Exiv2 wrapper  https://wiki.gnome.org/Projects/gexiv2 
@@ -776,8 +776,8 @@
  jbig2dec-static  0.20  Static libraries for jbig2dec  https://jbig2dec.com/ 
  jbig2enc  2023.01.08-2  An encoder for JBIG2  https://github.com/agl/jbig2enc 
  jbig2enc-static  2023.01.08-2  Static libraries for jbig2enc  https://github.com/agl/jbig2enc 
- jcal  0.4.1  UNIX-cal-like tool to display Jalali (Persian/Iranian) calendar  http://nongnu.org/jcal 
- jcal-static  0.4.1  Static libraries for jcal  http://nongnu.org/jcal 
+ jcal  0.5.1  UNIX-cal-like tool to display Jalali (Persian/Iranian) calendar  http://nongnu.org/jcal 
+ jcal-static  0.5.1  Static libraries for jcal  http://nongnu.org/jcal 
  jfrog-cli  2.74.1  A CLI for JFrog products  https://jfrog.com/getcli 
  jftui  0.7.2  jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server.  https://github.com/Aanok/jftui 
  jhead  3.08  Exif Jpeg header manipulation tool  http://www.sentex.net/~mwandel/jhead/ 
@@ -1849,7 +1849,7 @@
  octomap  1.10.0  An efficient probabilistic 3D mapping framework based on octrees  https://github.com/OctoMap/octomap 
  octomap-static  1.10.0  Static libraries for octomap  https://github.com/OctoMap/octomap 
  odt2txt  0.5-4  Simple converter from OpenDocument Text to plain text  https://github.com/dstosberg/odt2txt 
- oh-my-posh  25.5.1  A prompt theme engine for any shell.  https://ohmyposh.dev 
+ oh-my-posh  25.6.0  A prompt theme engine for any shell.  https://ohmyposh.dev 
  okc-agents  0.1.2  OpenKeychain agents for GnuPG and OpenSSH  https://github.com/DDoSolitary/okc-agents 
  ol  2.6-2  Purely functional dialect of Lisp  https://yuriy-chumak.github.io/ol/ 
  oleo  1.99.16-9  The GNU Spreadsheet  https://www.gnu.org/software/oleo/ 
@@ -2349,7 +2349,7 @@
  stone  2.4-2  A TCP/IP repeater in the application layer  https://www.gcd.org/sengoku/stone/ 
  storj-uplink  1.123.4  Storj DCS Uplink CLI  https://www.storj.io/integrations/uplink-cli 
  stow  2.4.1  Tool for managing the installation of multiple software packages into a single directory  https://www.gnu.org/software/stow/ 
- strace  6.13-1  Debugging utility to monitor system calls and signals received  https://strace.io/ 
+ strace  6.14  Debugging utility to monitor system calls and signals received  https://strace.io/ 
  streamripper  1.64.6-2  Records and splits streaming mp3 into tracks  http://streamripper.sourceforge.net/ 
  stunnel  5.74  Socket wrapper which can provide TLS support to ordinary applications  https://www.stunnel.org/ 
  stunnel-static  5.74  Static libraries for stunnel  https://www.stunnel.org/ 

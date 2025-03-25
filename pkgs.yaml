@@ -2175,11 +2175,11 @@
   Description: Utility to print configuration values
   Homepage: https://github.com/termux/getconf
 - Package: geth
-  Version: 1.15.5
+  Version: 1.15.6
   Description: Go implementation of the Ethereum protocol
   Homepage: https://geth.ethereum.org/
 - Package: geth-utils
-  Version: 1.15.5
+  Version: 1.15.6
   Description: Additional utilities for Geth (like abigen, bootnode, evm, puppeth)
   Homepage: https://geth.ethereum.org/
 - Package: gettext
@@ -3111,11 +3111,11 @@
   Description: Static libraries for jbig2enc
   Homepage: https://github.com/agl/jbig2enc
 - Package: jcal
-  Version: 0.4.1
+  Version: 0.5.1
   Description: UNIX-cal-like tool to display Jalali (Persian/Iranian) calendar
   Homepage: http://nongnu.org/jcal
 - Package: jcal-static
-  Version: 0.4.1
+  Version: 0.5.1
   Description: Static libraries for jcal
   Homepage: http://nongnu.org/jcal
 - Package: jfrog-cli
@@ -7403,7 +7403,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 25.5.1
+  Version: 25.6.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -9403,7 +9403,7 @@
   Description: Tool for managing the installation of multiple software packages into a single directory
   Homepage: https://www.gnu.org/software/stow/
 - Package: strace
-  Version: 6.13-1
+  Version: "6.14"
   Description: Debugging utility to monitor system calls and signals received
   Homepage: https://strace.io/
 - Package: streamripper
