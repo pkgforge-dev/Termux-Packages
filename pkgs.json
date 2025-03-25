@@ -14173,7 +14173,7 @@
   },
   {
     "Package": "sudo",
-    "Version": "1.0.0",
+    "Version": "1.1.0",
     "Description": "A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument as the root (superuser) user in the Termux app",
     "Homepage": "https://github.com/agnostic-apollo/sudo"
   },
@@ -15049,7 +15049,7 @@
   },
   {
     "Package": "tudo",
-    "Version": "1.0.0",
+    "Version": "1.1.0",
     "Description": "A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument as the Termux app (u<userid>_a<appid>) user in the Termux app",
     "Homepage": "https://github.com/agnostic-apollo/tudo"
   },

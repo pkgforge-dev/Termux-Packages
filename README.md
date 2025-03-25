@@ -2372,7 +2372,7 @@
 | **subversion-perl** | 1.14.5 | Perl interface to Subversion | https://subversion.apache.org |
 | **subversion-perl-static** | 1.14.5 | Static libraries for subversion-perl | https://subversion.apache.org |
 | **subversion-static** | 1.14.5 | Static libraries for subversion | https://subversion.apache.org |
-| **sudo** | 1.0.0 | A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument as the root (superuser) user in the Termux app | https://github.com/agnostic-apollo/sudo |
+| **sudo** | 1.1.0 | A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument as the root (superuser) user in the Termux app | https://github.com/agnostic-apollo/sudo |
 | **suil** | 0.10.22 | A library for loading and wrapping LV2 plugin UIs | https://drobilla.net/software/suil.html |
 | **suite3270** | 4.1ga11-1 | A family of IBM 3270 terminal emulators and related tools | http://x3270.bgp.nu/ |
 | **sun** | 1.0.0-3 | A very simple note taking cli app | https://stand-up-notes.org |
@@ -2518,7 +2518,7 @@
 | **ttyper** | 1.6.0 | Terminal-based typing test | https://github.com/max-niederman/ttyper |
 | **ttyplot** | 1.7.1 | A realtime plotting utility for terminal with data input from stdin | https://github.com/tenox7/ttyplot |
 | **ttyrec** | 1.0.8-7 | Terminal recorder and player | http://0xcc.net/ttyrec/ |
-| **tudo** | 1.0.0 | A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument as the Termux app (u<userid>_a<appid>) user in the Termux app | https://github.com/agnostic-apollo/tudo |
+| **tudo** | 1.1.0 | A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument as the Termux app (u<userid>_a<appid>) user in the Termux app | https://github.com/agnostic-apollo/tudo |
 | **tur-repo** | 1.0.1 | A single and trusted place for all unofficial/less popular termux packages | https://github.com/termux-user-repository/tur |
 | **tut** | 2.0.1-2 | A TUI for Mastodon with vim inspired keys | https://github.com/RasmusLindroth/tut |
 | **tvheadend** | 4.2.8-10 | TV streaming server for Linux and Android supporting DVB-S, DVB-S2 and other formats. | https://tvheadend.org/ |
