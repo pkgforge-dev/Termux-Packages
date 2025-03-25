@@ -29,7 +29,7 @@
 | **acr** | 2.2.0 | A fully compatible autoconf replacement | https://github.com/radareorg/acr |
 | **adms** | 2.3.7 | A code generator for the Verilog-AMS language | https://github.com/qucs/adms |
 | **aerc** | 0.20.1 | A pretty good email client | https://aerc-mail.org/ |
-| **agate** | 3.3.13 | Very simple server for the Gemini hypertext protocol | https://github.com/mbrubeck/agate |
+| **agate** | 3.3.14 | Very simple server for the Gemini hypertext protocol | https://github.com/mbrubeck/agate |
 | **age** | 1:1.2.1 | A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability | https://github.com/FiloSottile/age |
 | **agg** | 1.5.0 | asciinema gif generator | https://github.com/asciinema/agg |
 | **aha** | 0.5.1-1 | Converts ANSI escape sequences of a unix terminal to HTML code | https://github.com/theZiz/aha |
@@ -548,7 +548,7 @@
 | **geckodriver** | 0.36.0 | Proxy for using W3C WebDriver-compatible clients to interact with Gecko-based browsers | https://github.com/mozilla/geckodriver |
 | **gecode** | 6.2.0 | Generic Constraint Development Environment | https://github.com/Gecode/gecode |
 | **gecode-static** | 6.2.0 | Static libraries for gecode | https://github.com/Gecode/gecode |
-| **gegl** | 0.4.56 | Data flow based image processing framework | https://gegl.org/ |
+| **gegl** | 0.4.58 | Data flow based image processing framework | https://gegl.org/ |
 | **gengetopt** | 2.23-3 | gengetopt is a tool to write command line option parsing code for C programs | https://www.gnu.org/software/gengetopt/ |
 | **geographiclib** | 2.5 | Utilities and C++ library to solve some geodesic problems | https://geographiclib.sourceforge.io |
 | **geoip2-database** | 20191221-2 | GeoLite2 IP geolocation databases compiled by MaxMind | https://dev.maxmind.com/geoip/geoip2/geolite2/ |
@@ -580,12 +580,12 @@
 | **git-lfs** | 3.6.1 | Git extension for versioning large files | https://git-lfs.github.com/ |
 | **git-sizer** | 1.5.0-4 | Compute various size metrics for a Git repository | https://github.com/github/git-sizer |
 | **git-svn** | 2.49.0 | Convert between Git and Subversion repositories | https://git-scm.com/ |
-| **gitea** | 1.23.5 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
+| **gitea** | 1.23.6 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
 | **gitflow-avh** | 1.12.3-9 | Extend git with Vincent Driessen's branching model. The AVH Edition adds more functionality. | https://github.com/petervanderdoes/gitflow/ |
 | **gitoxide** | 0.41.0 | Rust implementation of Git | https://github.com/Byron/gitoxide |
 | **gitui** | 0.27.0-2 | Blazing fast terminal-ui for git written in rust | https://github.com/extrawurst/gitui |
 | **gkermit** | 2.01 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
-| **glab-cli** | 1.54.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
+| **glab-cli** | 1.55.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
 | **gleam** | 1.9.1 | A friendly language for building type-safe, scalable systems! | https://gleam.run |
 | **glib** | 2.84.0-1 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
 | **glib-bin** | 2.84.0-1 | Programs for the GLib library | https://developer.gnome.org/glib/ |
@@ -769,7 +769,7 @@
 | **iperf3-static** | 3.18 | Static libraries for iperf3 | https://github.com/esnet/iperf |
 | **ipfs** | 0.33.2 | A peer-to-peer hypermedia distribution protocol | https://ipfs.io/ |
 | **ipmitool** | 1.8.19 | Command-line interface to IPMI-enabled devices | https://github.com/ipmitool/ipmitool |
-| **iproute2** | 6.13.0 | Utilities for controlling networking | https://wiki.linuxfoundation.org/networking/iproute2 |
+| **iproute2** | 6.14.0 | Utilities for controlling networking | https://wiki.linuxfoundation.org/networking/iproute2 |
 | **ipv6calc** | 4.3.0 | Does some format changes and calculations of IPv6 addresses | https://www.deepspace6.net/projects/ipv6calc.html |
 | **ipv6toolkit** | 2022.09.30-2 | SI6 Networks IPv6 Toolkit | https://www.si6networks.com/research/tools/ipv6toolkit/ |
 | **ircd-irc2** | 2.11.2p3-1 | An Internet Relay Chat (IRC) daemon | http://www.irc.org/ |
@@ -1701,9 +1701,9 @@
 | **memcached** | 1.6.38 | Free & open source, high-performance, distributed memory object caching system | https://memcached.org/ |
 | **mercury** | 22.01.8 | A logic/functional programming language | https://www.mercurylang.org/ |
 | **mercury-static** | 22.01.8 | Static libraries for mercury | https://www.mercurylang.org/ |
-| **mesa** | 24.3.4-1 | An open-source implementation of the OpenGL specification | https://www.mesa3d.org |
-| **mesa-dev** | 24.3.4-1 | Mesa's OpenGL headers | https://www.mesa3d.org |
-| **mesa-vulkan-icd-swrast** | 24.3.4-1 | Mesa's Swrast Vulkan ICD | https://www.mesa3d.org |
+| **mesa** | 25.0.2 | An open-source implementation of the OpenGL specification | https://www.mesa3d.org |
+| **mesa-dev** | 25.0.2 | Mesa's OpenGL headers | https://www.mesa3d.org |
+| **mesa-vulkan-icd-swrast** | 25.0.2 | Mesa's Swrast Vulkan ICD | https://www.mesa3d.org |
 | **mfcuk** | 2018.07.14 | MiFare Classic Universal toolKit (MFCUK) | https://github.com/nfc-tools/mfcuk |
 | **mg** | 20240709 | microscopic GNU Emacs-style editor | https://github.com/hboetes/mg |
 | **micro** | 2.0.14-1 | Modern and intuitive terminal-based text editor | https://micro-editor.github.io/ |
@@ -1735,7 +1735,7 @@
 | **mono** | 6.14.0 | Framework Mono | https://gitlab.winehq.org/mono/mono |
 | **mono-libs** | 6.14.0 | Platform-independent libraries for mono | https://gitlab.winehq.org/mono/mono |
 | **mono-static** | 6.14.0 | Static libraries for mono | https://gitlab.winehq.org/mono/mono |
-| **monolith** | 2.9.0 | CLI tool for saving complete web pages as a single HTML file | https://github.com/Y2Z/monolith |
+| **monolith** | 2.10.0 | CLI tool for saving complete web pages as a single HTML file | https://github.com/Y2Z/monolith |
 | **moon-buggy** | 1.0.51-5 | Simple game where you drive a car across the moon's surface | https://github.com/seehuhn/moon-buggy |
 | **moreutils** | 0.70 | A growing collection of the unix tools that nobody thought to write thirty years ago | https://joeyh.name/code/moreutils/ |
 | **moria** | 5.7.15-5 | Rogue-like game with an infinite dungeon | https://umoria.org |
@@ -1915,7 +1915,7 @@
 | **opusfile** | 0.12-3 | A high-level API for decoding and seeking within .opus files | https://www.opus-codec.org/ |
 | **opusfile-static** | 0.12-3 | Static libraries for opusfile | https://www.opus-codec.org/ |
 | **osmctools** | 0.9-2 | Simple tools for OpenStreetMap processing | https://gitlab.com/osm-c-tools/osmctools |
-| **osmesa** | 24.3.4-1 | Mesa Off-screen Rendering Library | https://www.mesa3d.org |
+| **osmesa** | 25.0.2 | Mesa Off-screen Rendering Library | https://www.mesa3d.org |
 | **osmium-tool** | 1.18.0-2 | A multipurpose command line tool based on the Osmium Library | https://osmcode.org/osmium-tool/ |
 | **osslsigncode** | 2.9 | OpenSSL based Authenticode signing for PE/MSI/Java CAB files | https://github.com/mtrojnar/osslsigncode |
 | **ossp-uuid** | 1.6.2-3 | ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122. | http://www.ossp.org/pkg/lib/uuid/ |
@@ -1982,7 +1982,7 @@
 | **php-ldap** | 8.4.2-1 | LDAP module for PHP | https://php.net |
 | **php-pgsql** | 8.4.2-1 | PostgreSQL modules for PHP | https://php.net |
 | **php-psr** | 1.2.0-3 | PHP extension providing the accepted PSR interfaces | https://github.com/jbboehr/php-psr |
-| **php-redis** | 6.1.0RC2 | PHP extension for interfacing with Redis | https://github.com/phpredis/phpredis |
+| **php-redis** | 6.2.0 | PHP extension for interfacing with Redis | https://github.com/phpredis/phpredis |
 | **php-sodium** | 8.4.2-1 | Sodium module for PHP | https://php.net |
 | **php-zephir-parser** | 1.7.0 | The Zephir Parser delivered as a C extension for the PHP language | https://github.com/phalcon/php-zephir-parser |
 | **phpmyadmin** | 5.2.2 | A PHP tool for administering MySQL and MariaDB databases | https://www.phpmyadmin.net |
@@ -2096,7 +2096,7 @@
 | **python-torchvision** | 0.21.0 | Datasets, Transforms and Models specific to Computer Vision | https://github.com/pytorch/vision |
 | **python-xcbgen** | 1.17.0-1 | The xcbgen Python module | https://xcb.freedesktop.org/ |
 | **python-xlib** | 0.33-1 | The Python X Library | https://github.com/python-xlib/python-xlib |
-| **python-yt-dlp** | 2025.03.21 | A youtube-dl fork with additional features and fixes | https://github.com/yt-dlp/yt-dlp |
+| **python-yt-dlp** | 2025.03.25 | A youtube-dl fork with additional features and fixes | https://github.com/yt-dlp/yt-dlp |
 | **python2** | 2.7.18-14 | Python 2 programming language intended to enable clear programs | http://python.org/ |
 | **python2-static** | 2.7.18-14 | Static libraries for python2 | http://python.org/ |
 | **pyunbound** | 1.22.0 | Python bindings for Unbound | https://unbound.net/ |
@@ -2377,7 +2377,7 @@
 | **suite3270** | 4.1ga11-1 | A family of IBM 3270 terminal emulators and related tools | http://x3270.bgp.nu/ |
 | **sun** | 1.0.0-3 | A very simple note taking cli app | https://stand-up-notes.org |
 | **surfraw** | 2.3.0-10 | Shell Users' Revolutionary Front Rage Against the Web | https://gitlab.com/surfraw/Surfraw |
-| **svt-av1** | 3.0.1 | Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder) | https://gitlab.com/AOMediaCodec/SVT-AV1 |
+| **svt-av1** | 3.0.2 | Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder) | https://gitlab.com/AOMediaCodec/SVT-AV1 |
 | **swaks** | 20240103.0 | Swiss Army Knife for SMTP | http://jetmore.org/john/code/swaks/ |
 | **swi-prolog** | 9.3.21 | Most popular and complete prolog implementation | https://swi-prolog.org/ |
 | **swift-runtime-aarch64** | 6.0.3-1 | Swift runtime libraries for Android AArch64 | https://swift.org/ |
@@ -2473,7 +2473,7 @@
 | **tome2** | 2022.12.27-5 | An open world roguelike adventure set in middle earth | https://github.com/tome2/tome2 |
 | **toml11** | 4.4.0 | toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library | https://github.com/ToruNiina/toml11 |
 | **topgrade** | 16.0.2 | Upgrade all the things | https://github.com/topgrade-rs/topgrade/ |
-| **tor** | 0.4.8.15 | The Onion Router anonymizing overlay network | https://www.torproject.org |
+| **tor** | 0.4.8.16 | The Onion Router anonymizing overlay network | https://www.torproject.org |
 | **torchaudio-ffmpeg** | 2.6.0 | Minimal FFmpeg libraries for python-torchaudio | https://github.com/pytorch/audio |
 | **torsocks** | 2.4.0 | Wrapper to safely torify applications | https://gitlab.torproject.org/tpo/core/torsocks |
 | **torsocks-static** | 2.4.0 | Static libraries for torsocks | https://gitlab.torproject.org/tpo/core/torsocks |
@@ -2546,7 +2546,7 @@
 | **unixodbc-static** | 2.3.12 | Static libraries for unixodbc | https://www.unixodbc.org/ |
 | **unpaper** | 1:7.0.0-2 | A post-processing tool for scanned sheets of paper | https://www.flameeyes.com/projects/unpaper |
 | **unrar** | 7.1.5 | Tool for extracting files from .rar archives | https://www.rarlab.com/ |
-| **unshield** | 1.5.1-1 | Tool and library to extract CAB files from InstallShield installers | https://github.com/twogood/unshield |
+| **unshield** | 1.6.0 | Tool and library to extract CAB files from InstallShield installers | https://github.com/twogood/unshield |
 | **unzip** | 6.0-9 | Tools for working with zip files | https://sourceforge.net/projects/infozip/ |
 | **up** | 0.4-3 | Helps interactively and incrementally explore textual data in Linux | https://github.com/akavel/up |
 | **update-info-dir** | 7.2-1 | Update or create index file from all installed info files in directory | https://www.gnu.org/software/texinfo/ |

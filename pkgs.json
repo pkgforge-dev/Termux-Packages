@@ -115,7 +115,7 @@
   },
   {
     "Package": "agate",
-    "Version": "3.3.13",
+    "Version": "3.3.14",
     "Description": "Very simple server for the Gemini hypertext protocol",
     "Homepage": "https://github.com/mbrubeck/agate"
   },
@@ -3229,7 +3229,7 @@
   },
   {
     "Package": "gegl",
-    "Version": "0.4.56",
+    "Version": "0.4.58",
     "Description": "Data flow based image processing framework",
     "Homepage": "https://gegl.org/"
   },
@@ -3421,7 +3421,7 @@
   },
   {
     "Package": "gitea",
-    "Version": "1.23.5",
+    "Version": "1.23.6",
     "Description": "Git with a cup of tea, painless self-hosted git service",
     "Homepage": "https://gitea.io"
   },
@@ -3451,7 +3451,7 @@
   },
   {
     "Package": "glab-cli",
-    "Version": "1.54.0",
+    "Version": "1.55.0",
     "Description": "A GitLab CLI tool bringing GitLab to your command line",
     "Homepage": "https://gitlab.com/gitlab-org/cli"
   },
@@ -4555,7 +4555,7 @@
   },
   {
     "Package": "iproute2",
-    "Version": "6.13.0",
+    "Version": "6.14.0",
     "Description": "Utilities for controlling networking",
     "Homepage": "https://wiki.linuxfoundation.org/networking/iproute2"
   },
@@ -10147,19 +10147,19 @@
   },
   {
     "Package": "mesa",
-    "Version": "24.3.4-1",
+    "Version": "25.0.2",
     "Description": "An open-source implementation of the OpenGL specification",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-dev",
-    "Version": "24.3.4-1",
+    "Version": "25.0.2",
     "Description": "Mesas OpenGL headers",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-vulkan-icd-swrast",
-    "Version": "24.3.4-1",
+    "Version": "25.0.2",
     "Description": "Mesas Swrast Vulkan ICD",
     "Homepage": "https://www.mesa3d.org"
   },
@@ -10351,7 +10351,7 @@
   },
   {
     "Package": "monolith",
-    "Version": "2.9.0",
+    "Version": "2.10.0",
     "Description": "CLI tool for saving complete web pages as a single HTML file",
     "Homepage": "https://github.com/Y2Z/monolith"
   },
@@ -11431,7 +11431,7 @@
   },
   {
     "Package": "osmesa",
-    "Version": "24.3.4-1",
+    "Version": "25.0.2",
     "Description": "Mesa Off-screen Rendering Library",
     "Homepage": "https://www.mesa3d.org"
   },
@@ -11833,7 +11833,7 @@
   },
   {
     "Package": "php-redis",
-    "Version": "6.1.0RC2",
+    "Version": "6.2.0",
     "Description": "PHP extension for interfacing with Redis",
     "Homepage": "https://github.com/phpredis/phpredis"
   },
@@ -12517,7 +12517,7 @@
   },
   {
     "Package": "python-yt-dlp",
-    "Version": "2025.03.21",
+    "Version": "2025.03.25",
     "Description": "A youtube-dl fork with additional features and fixes",
     "Homepage": "https://github.com/yt-dlp/yt-dlp"
   },
@@ -14203,7 +14203,7 @@
   },
   {
     "Package": "svt-av1",
-    "Version": "3.0.1",
+    "Version": "3.0.2",
     "Description": "Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder)",
     "Homepage": "https://gitlab.com/AOMediaCodec/SVT-AV1"
   },
@@ -14779,7 +14779,7 @@
   },
   {
     "Package": "tor",
-    "Version": "0.4.8.15",
+    "Version": "0.4.8.16",
     "Description": "The Onion Router anonymizing overlay network",
     "Homepage": "https://www.torproject.org"
   },
@@ -15217,7 +15217,7 @@
   },
   {
     "Package": "unshield",
-    "Version": "1.5.1-1",
+    "Version": "1.6.0",
     "Description": "Tool and library to extract CAB files from InstallShield installers",
     "Homepage": "https://github.com/twogood/unshield"
   },
