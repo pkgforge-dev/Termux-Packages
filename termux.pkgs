@@ -276,7 +276,7 @@
 | **cpufetch** | 1.06 | Simple yet fancy CPU architecture fetching tool | https://github.com/Dr-Noob/cpufetch |
 | **cpulimit** | 0.2-1 | CPU usage limiter | https://github.com/opsengine/cpulimit |
 | **crawl** | 0.32.1 | Roguelike adventure through dungeons filled with dangerous monsters | https://crawl.develz.org/ |
-| **croc** | 1:10.2.1 | Easily and securely send things from one computer to another | https://github.com/schollz/croc |
+| **croc** | 1:10.2.2 | Easily and securely send things from one computer to another | https://github.com/schollz/croc |
 | **cronie** | 1.7.2-2 | Daemon that runs specified programs at scheduled times and related tools | https://github.com/cronie-crond/cronie/ |
 | **crowbook** | 0.16.1-3 | Allows you to write a book in Markdown without worrying about formatting or typography | https://github.com/crowdagger/crowbook |
 | **crunch** | 3.6-4 | Highly customizable wordlist generator | https://sourceforge.net/projects/crunch-wordlist |
@@ -404,7 +404,7 @@
 | **e2tools** | 0.1.2 | mtools analogue for ext2/3 filesystems | https://github.com/e2tools/e2tools |
 | **ebook-tools** | 0.2.2-1 | Tools for accessing and converting various ebook file formats | https://sourceforge.net/projects/ebook-tools/ |
 | **ecj** | 1:4.12-5 | Eclipse Compiler for Java | https://www.eclipse.org/jdt/core/ |
-| **ed** | 1.21 | Classic UNIX line editor | https://www.gnu.org/software/ed/ |
+| **ed** | 1.21.1 | Classic UNIX line editor | https://www.gnu.org/software/ed/ |
 | **edbrowse** | 3.8.10-1 | Line based editor, browser, and mail client | https://edbrowse.org/ |
 | **editorconfig-core-c** | 0.12.9 | EditorConfig core code written in C (for use by plugins supporting EditorConfig parsing) | https://editorconfig.org/ |
 | **editorconfig-core-c-static** | 0.12.9 | Static libraries for editorconfig-core-c | https://editorconfig.org/ |
@@ -489,7 +489,7 @@
 | **fontconfig-static** | 2.16.1 | Static libraries for fontconfig | https://www.freedesktop.org/wiki/Software/fontconfig/ |
 | **fontconfig-utils** | 2.16.1 | Fontconfig binaries | https://www.freedesktop.org/wiki/Software/fontconfig/ |
 | **forestdb-dump** | 1.2 | ForestDB dump tool | https://github.com/couchbase/forestdb |
-| **forgejo** | 10.0.2 | Forgejo is a self-hosted lightweight software forge. | https://forgejo.org/ |
+| **forgejo** | 10.0.3 | Forgejo is a self-hosted lightweight software forge. | https://forgejo.org/ |
 | **fortune** | 1.2-1 | Revealer of fortunes | https://www.fefe.de/fortune/ |
 | **fossil** | 2.25-1 | DSCM with built-in wiki, http interface and server, tickets database | https://www.fossil-scm.org |
 | **freecolor** | 0.9.3 | Freecolor is a replacement for Linux that displays free memory graphically | http://rkeene.org/oss/freecolor/ |
@@ -770,7 +770,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-1 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.22.1685 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.22.1691 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **janet** | 1.38.0 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
 | **jbig2dec** | 0.20 | Decoder implementation of the JBIG2 image compression format | https://jbig2dec.com/ |
 | **jbig2dec-static** | 0.20 | Static libraries for jbig2dec | https://jbig2dec.com/ |

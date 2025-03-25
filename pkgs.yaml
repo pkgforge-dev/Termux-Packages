@@ -1111,7 +1111,7 @@
   Description: Roguelike adventure through dungeons filled with dangerous monsters
   Homepage: https://crawl.develz.org/
 - Package: croc
-  Version: 1:10.2.1
+  Version: 1:10.2.2
   Description: Easily and securely send things from one computer to another
   Homepage: https://github.com/schollz/croc
 - Package: cronie
@@ -1623,7 +1623,7 @@
   Description: Eclipse Compiler for Java
   Homepage: https://www.eclipse.org/jdt/core/
 - Package: ed
-  Version: "1.21"
+  Version: 1.21.1
   Description: Classic UNIX line editor
   Homepage: https://www.gnu.org/software/ed/
 - Package: edbrowse
@@ -1963,7 +1963,7 @@
   Description: ForestDB dump tool
   Homepage: https://github.com/couchbase/forestdb
 - Package: forgejo
-  Version: 10.0.2
+  Version: 10.0.3
   Description: Forgejo is a self-hosted lightweight software forge.
   Homepage: https://forgejo.org/
 - Package: fortune
@@ -3087,7 +3087,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.1685
+  Version: 0.22.1691
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: janet
