@@ -14491,13 +14491,13 @@
   },
   {
     "Package": "termux-core",
-    "Version": "0.2.0",
+    "Version": "0.3.0",
     "Description": "Utils and libraries for Termux core",
     "Homepage": "https://github.com/termux/termux-core-package"
   },
   {
     "Package": "termux-core-static",
-    "Version": "0.2.0",
+    "Version": "0.3.0",
     "Description": "Static libraries for termux-core",
     "Homepage": "https://github.com/termux/termux-core-package"
   },
@@ -14515,13 +14515,13 @@
   },
   {
     "Package": "termux-exec",
-    "Version": "1:2.2.0",
+    "Version": "1:2.3.0",
     "Description": "Utils and libraries for Termux exec including a LD_PRELOAD shared library for proper functioning of the Termux execution environment",
     "Homepage": "https://github.com/termux/termux-exec-package"
   },
   {
     "Package": "termux-exec-static",
-    "Version": "1:2.2.0",
+    "Version": "1:2.3.0",
     "Description": "Static libraries for termux-exec",
     "Homepage": "https://github.com/termux/termux-exec-package"
   },
