@@ -6963,7 +6963,7 @@
   Description: Minimalist command line interface for MPD
   Homepage: https://www.musicpd.org/clients/mpc/
 - Package: mpd
-  Version: 0.24.1
+  Version: 0.24.2
   Description: Music player daemon
   Homepage: https://www.musicpd.org
 - Package: mpd-static
@@ -9195,7 +9195,7 @@
   Description: Static libraries for softether-vpn
   Homepage: https://www.softether.org/
 - Package: soju
-  Version: 0.8.2
+  Version: 0.9.0
   Description: A user-friendly IRC bouncer
   Homepage: https://codeberg.org/emersion/soju
 - Package: solidity
