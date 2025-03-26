@@ -2665,13 +2665,13 @@
   },
   {
     "Package": "fakeroot",
-    "Version": "1.37.1",
+    "Version": "1.37.1.1",
     "Description": "Tool for simulating superuser privileges (with tcp ipc)",
     "Homepage": "https://packages.qa.debian.org/f/fakeroot.html"
   },
   {
     "Package": "fakeroot-static",
-    "Version": "1.37.1",
+    "Version": "1.37.1.1",
     "Description": "Static libraries for fakeroot",
     "Homepage": "https://packages.qa.debian.org/f/fakeroot.html"
   },
@@ -4633,7 +4633,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.22.1691",
+    "Version": "0.22.1695",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -11965,7 +11965,7 @@
   },
   {
     "Package": "pocketbase",
-    "Version": "0.26.3",
+    "Version": "0.26.4",
     "Description": "An open source Go backend",
     "Homepage": "https://github.com/pocketbase/pocketbase"
   },
