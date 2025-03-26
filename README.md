@@ -1122,8 +1122,8 @@
 | **libjansi** | 2.4.1 | A small java library that allows you to use ANSI escape codes to format your console output | https://fusesource.github.io/jansi/ |
 | **libjansson** | 2.14.1 | C library for encoding, decoding and manipulating JSON data | http://www.digip.org/jansson/ |
 | **libjansson-static** | 2.14.1 | Static libraries for libjansson | http://www.digip.org/jansson/ |
-| **libjasper** | 4.2.4 | Library for manipulating JPEG-2000 files | http://www.ece.uvic.ca/~frodo/jasper/ |
-| **libjasper-utils** | 4.2.4 | JPEG-2000 utilities | http://www.ece.uvic.ca/~frodo/jasper/ |
+| **libjasper** | 4.2.5 | Library for manipulating JPEG-2000 files | http://www.ece.uvic.ca/~frodo/jasper/ |
+| **libjasper-utils** | 4.2.5 | JPEG-2000 utilities | http://www.ece.uvic.ca/~frodo/jasper/ |
 | **libjpeg-turbo** | 3.1.0 | Library for reading and writing JPEG image files | https://libjpeg-turbo.virtualgl.org |
 | **libjpeg-turbo-progs** | 3.1.0 | Programs for manipulating JPEG files | https://libjpeg-turbo.virtualgl.org |
 | **libjpeg-turbo-static** | 3.1.0 | Static libraries for libjpeg-turbo | https://libjpeg-turbo.virtualgl.org |
@@ -1370,7 +1370,7 @@
 | **libsm** | 1.2.6 | X11 Session Management library | https://xorg.freedesktop.org/ |
 | **libsm-static** | 1.2.4-1 | Static libraries for libsm | https://xorg.freedesktop.org/ |
 | **libsmartcols** | 2.40.2-3 | Library for smart adaptive formatting of tabular data | https://en.wikipedia.org/wiki/Util-linux |
-| **libsnappy** | 1.2.1 | A compression/decompression library | https://github.com/google/snappy |
+| **libsnappy** | 1.2.2 | A compression/decompression library | https://github.com/google/snappy |
 | **libsndfile** | 1.2.2-1 | Library for reading/writing audio files | http://www.mega-nerd.com/libsndfile |
 | **libsndfile-static** | 1.2.2-1 | Static libraries for libsndfile | http://www.mega-nerd.com/libsndfile |
 | **libsodium** | 1.0.20 | Network communication, cryptography and signaturing library | https://libsodium.org/ |
@@ -1756,7 +1756,7 @@
 | **mpdscribble** | 0.25-2 | A Music Player Daemon (MPD) client which submits information about tracks being played to a scrobbler | https://www.musicpd.org/clients/mpdscribble/ |
 | **mpg123** | 1.32.10 | Fast console MPEG Audio Player and decoder library | https://mpg123.org/ |
 | **mpg123-static** | 1.32.10 | Static libraries for mpg123 | https://mpg123.org/ |
-| **mpv** | 0.39.0-3 | Command-line media player | https://mpv.io/ |
+| **mpv** | 0.40.0 | Command-line media player | https://mpv.io/ |
 | **mruby** | 3.3.0 | Lightweight implementation of the Ruby language | https://mruby.org/ |
 | **mruby-static** | 3.3.0 | Static libraries for mruby | https://mruby.org/ |
 | **msmtp** | 1.8.28 | Lightweight SMTP client | https://marlam.de/msmtp/ |

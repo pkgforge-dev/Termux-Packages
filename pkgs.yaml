@@ -4447,11 +4447,11 @@
   Description: Static libraries for libjansson
   Homepage: http://www.digip.org/jansson/
 - Package: libjasper
-  Version: 4.2.4
+  Version: 4.2.5
   Description: Library for manipulating JPEG-2000 files
   Homepage: http://www.ece.uvic.ca/~frodo/jasper/
 - Package: libjasper-utils
-  Version: 4.2.4
+  Version: 4.2.5
   Description: JPEG-2000 utilities
   Homepage: http://www.ece.uvic.ca/~frodo/jasper/
 - Package: libjpeg-turbo
@@ -5439,7 +5439,7 @@
   Description: Library for smart adaptive formatting of tabular data
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: libsnappy
-  Version: 1.2.1
+  Version: 1.2.2
   Description: A compression/decompression library
   Homepage: https://github.com/google/snappy
 - Package: libsndfile
@@ -6983,7 +6983,7 @@
   Description: Static libraries for mpg123
   Homepage: https://mpg123.org/
 - Package: mpv
-  Version: 0.39.0-3
+  Version: 0.40.0
   Description: Command-line media player
   Homepage: https://mpv.io/
 - Package: mruby
