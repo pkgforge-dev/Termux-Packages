@@ -4105,13 +4105,13 @@
   },
   {
     "Package": "helix",
-    "Version": "25.01.1",
+    "Version": "25.01.1-1",
     "Description": "A post-modern modal text editor written in rust",
     "Homepage": "https://helix-editor.com/"
   },
   {
     "Package": "helix-grammars",
-    "Version": "25.01.1",
+    "Version": "25.01.1-1",
     "Description": "Helix grammars",
     "Homepage": "https://helix-editor.com/"
   },
@@ -8431,7 +8431,7 @@
   },
   {
     "Package": "libtbb",
-    "Version": "2022.0.0",
+    "Version": "2022.1.0",
     "Description": "oneAPI Threading Building Blocks",
     "Homepage": "https://oneapi-src.github.io/oneTBB/"
   },
@@ -13669,7 +13669,7 @@
   },
   {
     "Package": "sing-box",
-    "Version": "1.11.5",
+    "Version": "1.11.6",
     "Description": "The universal proxy platform",
     "Homepage": "https://sing-box.sagernet.org"
   },
@@ -15564,6 +15564,12 @@
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Headers"
   },
   {
+    "Package": "vulkan-icd",
+    "Version": "0.1",
+    "Description": "A metapackage that provides Vulkan ICDs",
+    "Homepage": "https://github.com/termux/termux-packages"
+  },
+  {
     "Package": "vulkan-loader",
     "Version": "0.0.3",
     "Description": "A metapackage that provides vulkan loader library",
@@ -15577,7 +15583,7 @@
   },
   {
     "Package": "vulkan-loader-generic",
-    "Version": "1.4.311",
+    "Version": "1.4.311-1",
     "Description": "Vulkan Loader",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Loader"
   },

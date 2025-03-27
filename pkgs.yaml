@@ -2735,11 +2735,11 @@
   Description: Hetzner Cloud command line client
   Homepage: https://github.com/hetznercloud/cli
 - Package: helix
-  Version: 25.01.1
+  Version: 25.01.1-1
   Description: A post-modern modal text editor written in rust
   Homepage: https://helix-editor.com/
 - Package: helix-grammars
-  Version: 25.01.1
+  Version: 25.01.1-1
   Description: Helix grammars
   Homepage: https://helix-editor.com/
 - Package: hello
@@ -5619,7 +5619,7 @@
   Description: Static libraries for libtasn1
   Homepage: https://www.gnu.org/software/libtasn1/
 - Package: libtbb
-  Version: 2022.0.0
+  Version: 2022.1.0
   Description: oneAPI Threading Building Blocks
   Homepage: https://oneapi-src.github.io/oneTBB/
 - Package: libtd
@@ -9111,7 +9111,7 @@
   Description: A simple heat transfer simulator in pure Rust
   Homepage: https://github.com/file-acomplaint/simuwaerm
 - Package: sing-box
-  Version: 1.11.5
+  Version: 1.11.6
   Description: The universal proxy platform
   Homepage: https://sing-box.sagernet.org
 - Package: skate
@@ -10374,6 +10374,10 @@
   Version: 1.4.311
   Description: Vulkan Header files and API registry
   Homepage: https://github.com/KhronosGroup/Vulkan-Headers
+- Package: vulkan-icd
+  Version: "0.1"
+  Description: A metapackage that provides Vulkan ICDs
+  Homepage: https://github.com/termux/termux-packages
 - Package: vulkan-loader
   Version: 0.0.3
   Description: A metapackage that provides vulkan loader library
@@ -10383,7 +10387,7 @@
   Description: Vulkan Loader for Android
   Homepage: https://source.android.com/devices/graphics/arch-vulkan
 - Package: vulkan-loader-generic
-  Version: 1.4.311
+  Version: 1.4.311-1
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools

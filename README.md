@@ -694,8 +694,8 @@
 | **hashdeep** | 4.4-8 | Programs to compute hashsums of arbitrary number of files recursively | http://md5deep.sourceforge.net/ |
 | **hcl** | 2.23.0 | A toolkit for creating structured configuration languages | https://github.com/hashicorp/hcl |
 | **hcloud** | 1.50.0 | Hetzner Cloud command line client | https://github.com/hetznercloud/cli |
-| **helix** | 25.01.1 | A post-modern modal text editor written in rust | https://helix-editor.com/ |
-| **helix-grammars** | 25.01.1 | Helix grammars | https://helix-editor.com/ |
+| **helix** | 25.01.1-1 | A post-modern modal text editor written in rust | https://helix-editor.com/ |
+| **helix-grammars** | 25.01.1-1 | Helix grammars | https://helix-editor.com/ |
 | **hello** | 2.12.1-1 | Prints a friendly greeting | https://www.gnu.org/software/hello/ |
 | **helm** | 3.17.2 | Helm helps you manage Kubernetes applications | https://helm.sh |
 | **helm-ls** | 0.2.0 | Language server for Helm | https://github.com/mrjosh/helm-ls |
@@ -1415,7 +1415,7 @@
 | **libtalloc-static** | 2.4.2 | Static libraries for libtalloc | https://talloc.samba.org/talloc/doc/html/index.html |
 | **libtasn1** | 4.20.0 | This is GNU Libtasn1, a small ASN.1 library | https://www.gnu.org/software/libtasn1/ |
 | **libtasn1-static** | 4.20.0 | Static libraries for libtasn1 | https://www.gnu.org/software/libtasn1/ |
-| **libtbb** | 2022.0.0 | oneAPI Threading Building Blocks | https://oneapi-src.github.io/oneTBB/ |
+| **libtbb** | 2022.1.0 | oneAPI Threading Building Blocks | https://oneapi-src.github.io/oneTBB/ |
 | **libtd** | 1.8.0 | Library for building Telegram clients | https://core.telegram.org/tdlib/ |
 | **libtd-static** | 1.8.0 | Static libraries for libtd | https://core.telegram.org/tdlib/ |
 | **libtdb** | 1.4.13 | A trivial database system | https://tdb.samba.org/ |
@@ -2288,7 +2288,7 @@
 | **simh** | 1:3.12.5 | A collection of simulators for computer hardware and software from the past | http://simh.trailing-edge.com/ |
 | **simulavr** | 1:1.1.0-2 | Simulator for Microchip AVR (formerly Atmel) microcontrollers | https://www.nongnu.org/simulavr |
 | **simuwaerm** | 0.02 | A simple heat transfer simulator in pure Rust | https://github.com/file-acomplaint/simuwaerm |
-| **sing-box** | 1.11.5 | The universal proxy platform | https://sing-box.sagernet.org |
+| **sing-box** | 1.11.6 | The universal proxy platform | https://sing-box.sagernet.org |
 | **skate** | 1.0.1 | A personal key-value store | https://github.com/charmbracelet/skate |
 | **sl** | 5.05 | Tool curing your bad habit of mistyping | https://github.com/mtoyoda/sl |
 | **slang** | 2.3.3-1 | S-Lang is a powerful interpreted language | https://www.jedsoft.org/slang/ |
@@ -2604,9 +2604,10 @@
 | **vtutils** | 0.5-4 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.4.310 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
 | **vulkan-headers** | 1.4.311 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
+| **vulkan-icd** | 0.1 | A metapackage that provides Vulkan ICDs | https://github.com/termux/termux-packages |
 | **vulkan-loader** | 0.0.3 | A metapackage that provides vulkan loader library | https://github.com/termux/termux-packages |
 | **vulkan-loader-android** | 27c | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
-| **vulkan-loader-generic** | 1.4.311 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
+| **vulkan-loader-generic** | 1.4.311-1 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
 | **vulkan-tools** | 1.4.311 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
 | **vulkan-utility-libraries** | 1.4.311 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
 | **vulkan-validation-layers** | 1.4.311 | Vulkan Validation Layers | https://github.com/KhronosGroup/Vulkan-ValidationLayers |
