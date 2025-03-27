@@ -1683,19 +1683,19 @@
   Description: Extensible, customizable text editor-and more
   Homepage: https://www.gnu.org/software/emacs/
 - Package: emscripten
-  Version: 4.0.5
+  Version: 4.0.6
   Description: 'Emscripten: An LLVM-to-WebAssembly Compiler'
   Homepage: https://emscripten.org
 - Package: emscripten-binaryen
-  Version: 4.0.5
+  Version: 4.0.6
   Description: Emscripten-compatible Binaryen
   Homepage: https://emscripten.org
 - Package: emscripten-llvm
-  Version: 4.0.5
+  Version: 4.0.6
   Description: Emscripten-compatible LLVM
   Homepage: https://emscripten.org
 - Package: emscripten-tests-third-party
-  Version: 4.0.5
+  Version: 4.0.6
   Description: Emscripten third party test suite files
   Homepage: https://emscripten.org
 - Package: enblend
@@ -7183,7 +7183,7 @@
   Description: A version of mutt with added features
   Homepage: https://neomutt.org/
 - Package: neovim
-  Version: 0.10.4-4
+  Version: 0.11.0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: nerdfix
