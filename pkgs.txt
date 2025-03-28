@@ -586,7 +586,7 @@
  glow  2.1.0  Render markdown on the CLI, with pizzazz!  https://github.com/charmbracelet/glow 
  glpk  5.0-1  GNU Linear Programming Kit: solve LP, MIP and other problems  https://www.gnu.org/software/glpk/ 
  glpk-static  5.0-1  Static libraries for glpk  https://www.gnu.org/software/glpk/ 
- glslang  15.1.0  OpenGL and OpenGL ES shader front end and validator  https://github.com/KhronosGroup/glslang 
+ glslang  15.2.0  OpenGL and OpenGL ES shader front end and validator  https://github.com/KhronosGroup/glslang 
  gluelang  0.2.0-1  A programming language that has a strong nature to be a glue of commands  https://ryuichiueda.github.io/GlueLang/ 
  glulxe  0.6.1  Interpreter for the Glulx portable VM for interactive fiction (IF) games  https://www.eblong.com/zarf/glulx/ 
  gmic  3.5.3  Full-featured framework for image processing  https://gmic.eu 
@@ -970,8 +970,8 @@
  libdevil  1.8.0-6  A cross-platform image library utilizing a simple syntax  https://openil.sourceforge.net/ 
  libdispatch  1:6.0.2  The libdispatch project, for concurrency on multicore hardware  https://github.com/swiftlang/swift-corelibs-libdispatch 
  libdisplay-info  0.2.0  EDID and DisplayID library  https://emersion.pages.freedesktop.org/libdisplay-info/ 
- libdmtx  0.7.7  A software library that enables programs to read and write Data Matrix barcodes  https://github.com/dmtx/libdmtx 
- libdmtx-static  0.7.7  Static libraries for libdmtx  https://github.com/dmtx/libdmtx 
+ libdmtx  0.7.8  A software library that enables programs to read and write Data Matrix barcodes  https://github.com/dmtx/libdmtx 
+ libdmtx-static  0.7.8  Static libraries for libdmtx  https://github.com/dmtx/libdmtx 
  libdrm  2.4.124  Userspace interface to kernel DRM services  https://dri.freedesktop.org/wiki/ 
  libduckdb  1.2.1  An in-process SQL OLAP database management system  https://duckdb.org/ 
  libduckdb-static  1.2.1  Static libraries for libduckdb  https://duckdb.org/ 
@@ -2019,7 +2019,7 @@
  procps-static  3.3.17-5  Static libraries for procps  https://gitlab.com/procps-ng/procps 
  procs  0.14.9  A modern replacement for ps  https://github.com/dalance/procs 
  procyon-decompiler  0.6.0-1  A standalone front-end for the Java decompiler in Procyon Compiler Toolset  https://github.com/mstrobel/procyon 
- profanity  0.14.0-3  Profanity is a console based XMPP client written in C using ncurses and libstrophe, inspired by Irssi  https://profanity-im.github.io 
+ profanity  0.15.0  Profanity is a console based XMPP client written in C using ncurses and libstrophe, inspired by Irssi  https://profanity-im.github.io 
  progress  0.17  Linux tool to show progress for cp, mv, dd and more  https://github.com/Xfennec/progress 
  proj  9.6.0  Generic coordinate transformation software  https://proj.org 
  proot  5.1.107-65  Emulate chroot, bind mount and binfmt_misc for non-root users  https://proot-me.github.io/ 
@@ -2084,7 +2084,7 @@
  python-torchvision  0.21.0  Datasets, Transforms and Models specific to Computer Vision  https://github.com/pytorch/vision 
  python-xcbgen  1.17.0-1  The xcbgen Python module  https://xcb.freedesktop.org/ 
  python-xlib  0.33-1  The Python X Library  https://github.com/python-xlib/python-xlib 
- python-yt-dlp  2025.03.26  A youtube-dl fork with additional features and fixes  https://github.com/yt-dlp/yt-dlp 
+ python-yt-dlp  2025.03.27  A youtube-dl fork with additional features and fixes  https://github.com/yt-dlp/yt-dlp 
  python2  2.7.18-14  Python 2 programming language intended to enable clear programs  http://python.org/ 
  python2-static  2.7.18-14  Static libraries for python2  http://python.org/ 
  pyunbound  1.22.0  Python bindings for Unbound  https://unbound.net/ 

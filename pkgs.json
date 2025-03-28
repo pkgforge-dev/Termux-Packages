@@ -3529,7 +3529,7 @@
   },
   {
     "Package": "glslang",
-    "Version": "15.1.0",
+    "Version": "15.2.0",
     "Description": "OpenGL and OpenGL ES shader front end and validator",
     "Homepage": "https://github.com/KhronosGroup/glslang"
   },
@@ -5833,13 +5833,13 @@
   },
   {
     "Package": "libdmtx",
-    "Version": "0.7.7",
+    "Version": "0.7.8",
     "Description": "A software library that enables programs to read and write Data Matrix barcodes",
     "Homepage": "https://github.com/dmtx/libdmtx"
   },
   {
     "Package": "libdmtx-static",
-    "Version": "0.7.7",
+    "Version": "0.7.8",
     "Description": "Static libraries for libdmtx",
     "Homepage": "https://github.com/dmtx/libdmtx"
   },
@@ -12127,7 +12127,7 @@
   },
   {
     "Package": "profanity",
-    "Version": "0.14.0-3",
+    "Version": "0.15.0",
     "Description": "Profanity is a console based XMPP client written in C using ncurses and libstrophe, inspired by Irssi",
     "Homepage": "https://profanity-im.github.io"
   },
@@ -12517,7 +12517,7 @@
   },
   {
     "Package": "python-yt-dlp",
-    "Version": "2025.03.26",
+    "Version": "2025.03.27",
     "Description": "A youtube-dl fork with additional features and fixes",
     "Homepage": "https://github.com/yt-dlp/yt-dlp"
   },
