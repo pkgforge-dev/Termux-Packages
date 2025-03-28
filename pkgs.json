@@ -697,13 +697,13 @@
   },
   {
     "Package": "bacula-fd",
-    "Version": "15.0.2",
+    "Version": "15.0.3",
     "Description": "Bacula backup software",
     "Homepage": "https://www.bacula.org"
   },
   {
     "Package": "bacula-fd-static",
-    "Version": "15.0.2",
+    "Version": "15.0.3",
     "Description": "Static libraries for bacula-fd",
     "Homepage": "https://www.bacula.org"
   },
@@ -3913,7 +3913,7 @@
   },
   {
     "Package": "groonga",
-    "Version": "15.0.3",
+    "Version": "15.0.4",
     "Description": "An embeddable fulltext search engine",
     "Homepage": "https://github.com/groonga/groonga/"
   },
@@ -6133,7 +6133,7 @@
   },
   {
     "Package": "libftxui",
-    "Version": "6.0.0",
+    "Version": "6.0.1",
     "Description": "A simple C++ library for terminal based user interface",
     "Homepage": "https://github.com/ArthurSonzogni/FTXUI"
   },
@@ -12115,7 +12115,7 @@
   },
   {
     "Package": "procs",
-    "Version": "0.14.9",
+    "Version": "0.14.10",
     "Description": "A modern replacement for ps",
     "Homepage": "https://github.com/dalance/procs"
   },

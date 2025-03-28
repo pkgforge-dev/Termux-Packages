@@ -114,8 +114,8 @@
  axel  2.17.14  light command line download accelerator  https://github.com/axel-download-accelerator/axel 
  b3sum  1.7.0  A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum  https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum 
  babl  0.1.112  Dynamic pixel format translation library  https://gegl.org/babl/ 
- bacula-fd  15.0.2  Bacula backup software  https://www.bacula.org 
- bacula-fd-static  15.0.2  Static libraries for bacula-fd  https://www.bacula.org 
+ bacula-fd  15.0.3  Bacula backup software  https://www.bacula.org 
+ bacula-fd-static  15.0.3  Static libraries for bacula-fd  https://www.bacula.org 
  badvpn-udpgw  1.999.130  UDP gateway for BadVPN  https://github.com/ambrop72/badvpn 
  barcode  0.99-4  Tool to convert text strings to printed bars  https://www.gnu.org/software/barcode/ 
  base16384  2.3.1  Encode binary to printable utf16be  https://github.com/fumiama/base16384 
@@ -650,7 +650,7 @@
  grex  1.4.5  Simplifies the task of creating regular expressions  https://github.com/pemistahl/grex 
  groff  1.23.0  typesetting system that reads plain text mixed with formatting commands and produces formatted output  https://www.gnu.org/software/groff/ 
  gron  0.7.1-3  Transforms JSON into discrete assignments  https://github.com/tomnomnom/gron 
- groonga  15.0.3  An embeddable fulltext search engine  https://github.com/groonga/groonga/ 
+ groonga  15.0.4  An embeddable fulltext search engine  https://github.com/groonga/groonga/ 
  groovy  4.0.26-3  A powerful multi-faceted programming language for the JVM platform  https://groovy-lang.org/ 
  gsasl  2.2.1  GNU SASL library command line interface  https://www.gnu.org/software/gsasl 
  gsf-tools  1.14.53  Command-line tools for libgsf  https://gitlab.gnome.org/GNOME/libgsf 
@@ -1020,7 +1020,7 @@
  libforestdb  1.2  A key-value storage engine  https://github.com/couchbase/forestdb 
  libfreexl  2.0.0  Library to extract valid data from within an Excel (.xls) spreadsheet  https://www.gaia-gis.it/fossil/freexl 
  libfreexl-static  2.0.0  Static libraries for libfreexl  https://www.gaia-gis.it/fossil/freexl 
- libftxui  6.0.0  A simple C++ library for terminal based user interface  https://github.com/ArthurSonzogni/FTXUI 
+ libftxui  6.0.1  A simple C++ library for terminal based user interface  https://github.com/ArthurSonzogni/FTXUI 
  libgc  8.2.8  Library providing the Boehm-Demers-Weiser conservative garbage collector  https://www.hboehm.info/gc/ 
  libgc-static  8.2.8  Static libraries for libgc  https://www.hboehm.info/gc/ 
  libgcrypt  1.11.0  General purpose cryptographic library based on the code from GnuPG  https://www.gnu.org/software/libgcrypt/ 
@@ -2017,7 +2017,7 @@
  privoxy  3.0.34-1  Non-caching web proxy with advanced filtering capabilities  https://www.privoxy.org 
  procps  3.3.17-5  Utilities that give information about processes using the /proc filesystem  https://gitlab.com/procps-ng/procps 
  procps-static  3.3.17-5  Static libraries for procps  https://gitlab.com/procps-ng/procps 
- procs  0.14.9  A modern replacement for ps  https://github.com/dalance/procs 
+ procs  0.14.10  A modern replacement for ps  https://github.com/dalance/procs 
  procyon-decompiler  0.6.0-1  A standalone front-end for the Java decompiler in Procyon Compiler Toolset  https://github.com/mstrobel/procyon 
  profanity  0.15.0  Profanity is a console based XMPP client written in C using ncurses and libstrophe, inspired by Irssi  https://profanity-im.github.io 
  progress  0.17  Linux tool to show progress for cp, mv, dd and more  https://github.com/Xfennec/progress 
