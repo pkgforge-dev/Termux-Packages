@@ -321,7 +321,7 @@
 | **datamash** | 1.8 | Program performing numeric, textual and statistical operations | https://www.gnu.org/software/datamash/ |
 | **dateutils** | 0.4.11 | Command line date and time utilities | https://www.fresse.org/dateutils/ |
 | **db** | 18.1.40-4 | The Berkeley DB embedded database system | https://www.oracle.com/database/berkeley-db |
-| **dbus** | 1.16.2 | Freedesktop.org message bus system | https://dbus.freedesktop.org |
+| **dbus** | 1.16.2-1 | Freedesktop.org message bus system | https://dbus.freedesktop.org |
 | **dbus-python** | 1.4.0 | Python bindings for D-Bus | https://dbus.freedesktop.org/doc/dbus-python/ |
 | **dbus-static** | 1.15.6-3 | Static libraries for dbus | https://dbus.freedesktop.org |
 | **dcmtk** | 3.6.7-4 | A collection of libraries and applications implementing large parts the DICOM standard | https://dicom.offis.de/dcmtk |
@@ -2587,7 +2587,7 @@
 | **viddy** | 1.3.0-1 | A modern watch command | https://github.com/sachaos/viddy |
 | **vifm** | 0.14 | File manager with vi like keybindings | https://vifm.info/ |
 | **vile** | 9.8z | VI Like Emacs - vi work-alike | https://invisible-island.net/vile/ |
-| **vim** | 9.1.1227 | Vi IMproved - enhanced vi editor | https://www.vim.org |
+| **vim** | 9.1.1250 | Vi IMproved - enhanced vi editor | https://www.vim.org |
 | **virglrenderer** | 1.1.0-1 | A virtual 3D GPU for use inside qemu virtual machines | https://virgil3d.github.io/ |
 | **virglrenderer-android** | 1.0.1-3 | A virtual 3D GPU for use inside qemu virtual machines over OpenGLES libraries on Android | https://virgil3d.github.io/ |
 | **virustotal-cli** | 1.0.1 | Command line interface for VirusTotal | https://github.com/VirusTotal/vt-cli |
@@ -2676,7 +2676,7 @@
 | **xtrans** | 1.6.0 | X transport library | https://xorg.freedesktop.org/ |
 | **xvidcore** | 1.3.7 | High performance and high quality MPEG-4 library | https://www.xvid.com/ |
 | **xvidcore-static** | 1.3.7 | Static libraries for xvidcore | https://www.xvid.com/ |
-| **xxd** | 9.1.1227 | Hexdump utility from vim | https://www.vim.org |
+| **xxd** | 9.1.1250 | Hexdump utility from vim | https://www.vim.org |
 | **xxhash** | 0.8.3 | Extremely fast non-cryptographic hash algorithm | https://cyan4973.github.io/xxHash/ |
 | **xxhash-static** | 0.8.3 | Static libraries for xxhash | https://cyan4973.github.io/xxHash/ |
 | **xz-utils** | 5.8.0 | XZ-format compression tools | https://tukaani.org/xz/ |
