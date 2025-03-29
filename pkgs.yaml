@@ -1863,7 +1863,7 @@
   Description: A simple file manager written in bash
   Homepage: https://github.com/dylanaraps/fff
 - Package: ffmpeg
-  Version: 7.1.1
+  Version: 7.1.1-1
   Description: Tools and libraries to manipulate a wide range of multimedia formats and protocols
   Homepage: https://ffmpeg.org
 - Package: ffmpegthumbnailer
@@ -4951,7 +4951,7 @@
   Description: Static libraries for libnspr
   Homepage: https://hg.mozilla.org/projects/nspr
 - Package: libnss
-  Version: "3.109"
+  Version: "3.110"
   Description: Network Security Services (NSS)
   Homepage: https://firefox-source-docs.mozilla.org/security/nss/
 - Package: libntl
@@ -5507,7 +5507,7 @@
   Description: Static libraries for libspatialite
   Homepage: https://www.gaia-gis.it/fossil/libspatialite
 - Package: libspdlog
-  Version: 1.15.1
+  Version: 1.15.2
   Description: Very fast, header-only/compiled, C++ logging library
   Homepage: https://github.com/gabime/spdlog
 - Package: libspectre
@@ -7343,7 +7343,7 @@
   Description: The classic snake game with textual interface
   Homepage: https://github.com/alexdantas/nSnake
 - Package: nss-utils
-  Version: "3.109"
+  Version: "3.110"
   Description: Tools for NSS
   Homepage: https://firefox-source-docs.mozilla.org/security/nss/
 - Package: nudoku
