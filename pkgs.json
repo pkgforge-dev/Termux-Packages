@@ -379,7 +379,7 @@
   },
   {
     "Package": "aptitude",
-    "Version": "0.8.13-2",
+    "Version": "0.8.13-3",
     "Description": "terminal-based package manager",
     "Homepage": "https://wiki.debian.org/Aptitude"
   },
@@ -8563,7 +8563,7 @@
   },
   {
     "Package": "libtorrent",
-    "Version": "0.15.1",
+    "Version": "0.15.2",
     "Description": "Libtorrent BitTorrent library",
     "Homepage": "https://github.com/rakshasa/rtorrent/wiki"
   },
@@ -8575,7 +8575,7 @@
   },
   {
     "Package": "libtorrent-static",
-    "Version": "0.15.1",
+    "Version": "0.15.2",
     "Description": "Static libraries for libtorrent",
     "Homepage": "https://github.com/rakshasa/rtorrent/wiki"
   },
@@ -13171,7 +13171,7 @@
   },
   {
     "Package": "rtorrent",
-    "Version": "0.15.1",
+    "Version": "0.15.2",
     "Description": "Ncurses BitTorrent client based on libTorrent",
     "Homepage": "https://rakshasa.github.io/rtorrent/"
   },
