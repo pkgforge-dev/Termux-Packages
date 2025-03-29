@@ -6763,15 +6763,15 @@
   Description: Static libraries for mercury
   Homepage: https://www.mercurylang.org/
 - Package: mesa
-  Version: 25.0.2-1
+  Version: 25.0.2-2
   Description: An open-source implementation of the OpenGL specification
   Homepage: https://www.mesa3d.org
 - Package: mesa-dev
-  Version: 25.0.2-1
+  Version: 25.0.2-2
   Description: Mesas OpenGL headers
   Homepage: https://www.mesa3d.org
 - Package: mesa-vulkan-icd-swrast
-  Version: 25.0.2-1
+  Version: 25.0.2-2
   Description: Mesas Swrast Vulkan ICD
   Homepage: https://www.mesa3d.org
 - Package: mfcuk
@@ -7403,7 +7403,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 25.6.0
+  Version: 25.6.1
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -7619,7 +7619,7 @@
   Description: Simple tools for OpenStreetMap processing
   Homepage: https://gitlab.com/osm-c-tools/osmctools
 - Package: osmesa
-  Version: 25.0.2-1
+  Version: 25.0.2-2
   Description: Mesa Off-screen Rendering Library
   Homepage: https://www.mesa3d.org
 - Package: osmium-tool
@@ -10367,7 +10367,7 @@
   Description: Utilities for testing and working with virtual terminals
   Homepage: https://github.com/fornwall/vtutils
 - Package: vulkan-extension-layer
-  Version: 1.4.310
+  Version: 1.4.311
   Description: Vulkan Extension Layer
   Homepage: https://github.com/KhronosGroup/Vulkan-ExtensionLayer
 - Package: vulkan-headers
