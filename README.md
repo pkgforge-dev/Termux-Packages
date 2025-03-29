@@ -532,8 +532,8 @@
 | **gatling** | 0.16-1 | A high performance http, ftp and smb server | https://www.fefe.de/gatling/ |
 | **gauche** | 0.9.15 | An R7RS Scheme implementation developed to be a handy script interpreter | https://practical-scheme.net/gauche/ |
 | **gauche-static** | 0.9.15 | Static libraries for gauche | https://practical-scheme.net/gauche/ |
-| **gawk** | 5.3.0 | Programming language designed for text processing | https://www.gnu.org/software/gawk/ |
-| **gawk-static** | 5.3.0 | Static libraries for gawk | https://www.gnu.org/software/gawk/ |
+| **gawk** | 5.3.1 | Programming language designed for text processing | https://www.gnu.org/software/gawk/ |
+| **gawk-static** | 5.3.1 | Static libraries for gawk | https://www.gnu.org/software/gawk/ |
 | **gbt** | 2.0.0-6 | Highly configurable prompt builder for Bash and ZSH written in Go | https://github.com/jtyr/gbt |
 | **gcal** | 4.1-3 | Program for calculating and printing calendars | https://www.gnu.org/software/gcal/ |
 | **gdal** | 3.10.2-1 | A translator library for raster and vector geospatial data formats | https://gdal.org |
