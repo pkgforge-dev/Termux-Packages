@@ -429,7 +429,7 @@
 | **enscript** | 1.6.6-12 | Enscript converts ASCII text files to PostScript, HTML, RTF, ANSI and overstrikes | https://www.gnu.org/software/enscript/ |
 | **entr** | 5.7 | Event Notify Test Runner - run arbitrary commands when files change | https://eradman.com/entrproject/ |
 | **erlang** | 27.3 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
-| **esbuild** | 0.25.1 | An extremely fast JavaScript bundler | https://esbuild.github.io/ |
+| **esbuild** | 0.25.2 | An extremely fast JavaScript bundler | https://esbuild.github.io/ |
 | **espeak** | 1.52.0 | Compact software speech synthesizer | https://github.com/espeak-ng/espeak-ng |
 | **espeak-static** | 1.52.0 | Static libraries for espeak | https://github.com/espeak-ng/espeak-ng |
 | **et** | 6.2.9-4 | A remote shell that automatically reconnects without interrupting the session | https://eternalterminal.dev |
@@ -1849,7 +1849,7 @@
 | **octomap** | 1.10.0 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-4 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 25.7.1 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 25.8.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **okc-agents** | 0.1.2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.6-2 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-9 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
@@ -1861,7 +1861,7 @@
 | **oorexx** | 4.2.0-3 | Open Object Rexx | https://www.oorexx.org/ |
 | **oorexx-static** | 4.2.0-3 | Static libraries for oorexx | https://www.oorexx.org/ |
 | **open-adventure** | 1.20 | Forward-port of the original Colossal Cave Adventure from 1976-77 | http://www.catb.org/~esr/open-adventure/ |
-| **openal-soft** | 1.24.2 | Software implementation of the OpenAL API | https://openal-soft.org/ |
+| **openal-soft** | 1.24.3 | Software implementation of the OpenAL API | https://openal-soft.org/ |
 | **openbabel** | 3.1.1-10 | Open Babel is a chemical toolbox designed to speak the many languages of chemical data | http://openbabel.org/wiki/Main_Page |
 | **opencc-tools** | 1.1.9 | Command-line tools for OpenCC | https://github.com/BYVoid/OpenCC |
 | **opencl-clhpp** | 2024.10.24 | Khronos OpenCL C++ Headers | https://github.com/KhronosGroup/OpenCL-CLHPP |
@@ -2181,7 +2181,7 @@
 | **rizin** | 0.7.4-1 | UNIX-like reverse engineering framework and command-line toolset. | https://rizin.re |
 | **rlwrap** | 0.46.1 | Wrapper using readline to enable editing of keyboard input for commands | https://github.com/hanslub42/rlwrap |
 | **rnr** | 0.5.0 | Batch rename files and directories using regular expression (rust) | https://github.com/ismaelgv/rnr |
-| **robin-map** | 1.3.0 | C++ implementation of a fast hash map and hash set using robin hood hashing | https://github.com/Tessil/robin-map/ |
+| **robin-map** | 1.4.0 | C++ implementation of a fast hash map and hash set using robin hood hashing | https://github.com/Tessil/robin-map/ |
 | **robotfindskitten** | 2022.05.21 | A very fun adventure game for robots and humans | https://github.com/noncombatant/robotfindskitten |
 | **root-repo** | 2.4-2 | Package repository containing programs for rooted devices | https://github.com/termux/termux-root-packages |
 | **roqet** | 0.9.33-2 | Standalone command line RDF query utility program | https://librdf.org/rasqal/ |
