@@ -770,7 +770,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-1 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.22.1705 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.22.1709 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **janet** | 1.38.0 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
 | **jbig2dec** | 0.20 | Decoder implementation of the JBIG2 image compression format | https://jbig2dec.com/ |
 | **jbig2dec-static** | 0.20 | Static libraries for jbig2dec | https://jbig2dec.com/ |
@@ -1020,7 +1020,7 @@
 | **libforestdb** | 1.2 | A key-value storage engine | https://github.com/couchbase/forestdb |
 | **libfreexl** | 2.0.0 | Library to extract valid data from within an Excel (.xls) spreadsheet | https://www.gaia-gis.it/fossil/freexl |
 | **libfreexl-static** | 2.0.0 | Static libraries for libfreexl | https://www.gaia-gis.it/fossil/freexl |
-| **libftxui** | 6.0.1 | A simple C++ library for terminal based user interface | https://github.com/ArthurSonzogni/FTXUI |
+| **libftxui** | 6.0.2 | A simple C++ library for terminal based user interface | https://github.com/ArthurSonzogni/FTXUI |
 | **libgc** | 8.2.8 | Library providing the Boehm-Demers-Weiser conservative garbage collector | https://www.hboehm.info/gc/ |
 | **libgc-static** | 8.2.8 | Static libraries for libgc | https://www.hboehm.info/gc/ |
 | **libgcrypt** | 1.11.0 | General purpose cryptographic library based on the code from GnuPG | https://www.gnu.org/software/libgcrypt/ |
@@ -1723,7 +1723,7 @@
 | **mono** | 6.14.0 | Framework Mono | https://gitlab.winehq.org/mono/mono |
 | **mono-libs** | 6.14.0 | Platform-independent libraries for mono | https://gitlab.winehq.org/mono/mono |
 | **mono-static** | 6.14.0 | Static libraries for mono | https://gitlab.winehq.org/mono/mono |
-| **monolith** | 2.10.0 | CLI tool for saving complete web pages as a single HTML file | https://github.com/Y2Z/monolith |
+| **monolith** | 2.10.1 | CLI tool for saving complete web pages as a single HTML file | https://github.com/Y2Z/monolith |
 | **moon-buggy** | 1.0.51-5 | Simple game where you drive a car across the moon's surface | https://github.com/seehuhn/moon-buggy |
 | **moreutils** | 0.70 | A growing collection of the unix tools that nobody thought to write thirty years ago | https://joeyh.name/code/moreutils/ |
 | **moria** | 5.7.15-5 | Rogue-like game with an infinite dungeon | https://umoria.org |
