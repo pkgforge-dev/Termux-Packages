@@ -2175,11 +2175,11 @@
   Description: Utility to print configuration values
   Homepage: https://github.com/termux/getconf
 - Package: geth
-  Version: 1.15.6
+  Version: 1.15.7
   Description: Go implementation of the Ethereum protocol
   Homepage: https://geth.ethereum.org/
 - Package: geth-utils
-  Version: 1.15.6
+  Version: 1.15.7
   Description: Additional utilities for Geth (like abigen, bootnode, evm, puppeth)
   Homepage: https://geth.ethereum.org/
 - Package: gettext
@@ -7403,7 +7403,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 25.10.0
+  Version: 25.10.1
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
