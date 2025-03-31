@@ -184,7 +184,7 @@
 | **bsd-finger** | 0.17-1 | User information lookup program | https://packages.debian.org/sid/source/bsd-finger |
 | **bsd-games** | 1:3.3 | Classic text mode games from UNIX folklore | https://www.polyomino.org.uk/computer/software/bsd-games/ |
 | **bsdtar** | 3.7.9 | The tar(1) and cpio(1) programs from FreeBSD, using libarchive | https://www.libarchive.org/ |
-| **btfs2** | 3.2.0 | Decentralized file system integrating with TRON network and Bittorrent network | https://www.bittorrent.com/btfs/ |
+| **btfs2** | 3.3.0 | Decentralized file system integrating with TRON network and Bittorrent network | https://www.bittorrent.com/btfs/ |
 | **buf** | 1.51.0 | A new way of working with Protocol Buffers | https://buf.build |
 | **build-essential** | 4.1 | A metapackage that installs essential development tools | https://github.com/termux/termux-packages |
 | **busybox** | 1.36.1-3 | Tiny versions of many common UNIX utilities into a single small executable | https://busybox.net/ |
@@ -2311,7 +2311,7 @@
 | **softether-vpn-static** | 5.02.5180-4 | Static libraries for softether-vpn | https://www.softether.org/ |
 | **soju** | 0.9.0 | A user-friendly IRC bouncer | https://codeberg.org/emersion/soju |
 | **solidity** | 0.8.29-2 | An Ethereum smart contract-oriented language | https://solidity.readthedocs.io |
-| **sops** | 3.10.0 | Simple and flexible tool for managing secrets | https://github.com/getsops/sops |
+| **sops** | 3.10.1 | Simple and flexible tool for managing secrets | https://github.com/getsops/sops |
 | **sord** | 0.16.18 | A lightweight C library for storing RDF data in memory | https://drobilla.net/software/sord.html |
 | **sox** | 14.4.2-27 | Command line utility for converting between and applying effects to various audio files formats | https://sox.sourceforge.net/ |
 | **sox-static** | 14.4.2-27 | Static libraries for sox | https://sox.sourceforge.net/ |
@@ -2566,7 +2566,7 @@
 | **uuid-utils** | 2.40.2-3 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
 | **uv** | 0.6.9 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.28 | uWSGI application server container | https://projects.unbit.it/uwsgi |
-| **v2ray** | 5.28.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
+| **v2ray** | 5.29.3 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.18 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
 | **valac-static** | 0.56.18 | Static libraries for valac | https://wiki.gnome.org/Projects/Vala |
 | **valadoc** | 0.56.18 | API documentation generator for vala | https://wiki.gnome.org/Projects/Vala |

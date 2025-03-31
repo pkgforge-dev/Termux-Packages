@@ -695,7 +695,7 @@
   Description: The tar(1) and cpio(1) programs from FreeBSD, using libarchive
   Homepage: https://www.libarchive.org/
 - Package: btfs2
-  Version: 3.2.0
+  Version: 3.3.0
   Description: Decentralized file system integrating with TRON network and Bittorrent network
   Homepage: https://www.bittorrent.com/btfs/
 - Package: buf
@@ -9203,7 +9203,7 @@
   Description: An Ethereum smart contract-oriented language
   Homepage: https://solidity.readthedocs.io
 - Package: sops
-  Version: 3.10.0
+  Version: 3.10.1
   Description: Simple and flexible tool for managing secrets
   Homepage: https://github.com/getsops/sops
 - Package: sord
@@ -10223,7 +10223,7 @@
   Description: uWSGI application server container
   Homepage: https://projects.unbit.it/uwsgi
 - Package: v2ray
-  Version: 5.28.0
+  Version: 5.29.3
   Description: A platform for building proxies to bypass network restrictions
   Homepage: https://www.v2fly.org/
 - Package: valac
