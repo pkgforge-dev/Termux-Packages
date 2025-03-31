@@ -455,7 +455,7 @@
   Description: light command line download accelerator
   Homepage: https://github.com/axel-download-accelerator/axel
 - Package: b3sum
-  Version: 1.7.0
+  Version: 1.8.0
   Description: A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum
   Homepage: https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum
 - Package: babl
@@ -2959,11 +2959,11 @@
   Description: A command line id3v2 tag editor
   Homepage: http://id3v2.sourceforge.net/
 - Package: imagemagick
-  Version: 7.1.1.46
+  Version: 7.1.1.47
   Description: Suite to create, edit, compose, or convert images in a variety of formats
   Homepage: https://www.imagemagick.org/
 - Package: imagemagick-static
-  Version: 7.1.1.46
+  Version: 7.1.1.47
   Description: Static libraries for imagemagick
   Homepage: https://www.imagemagick.org/
 - Package: imath
@@ -3087,7 +3087,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.1709
+  Version: 0.22.1712
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: janet
@@ -8903,7 +8903,7 @@
   Description: A custom system info fetching tool
   Homepage: https://github.com/Mangeshrex/rxfetch
 - Package: sabnzbd
-  Version: 4.4.1
+  Version: 4.5.0
   Description: Fully automated Usenet Binary Downloader
   Homepage: https://sabnzbd.org/
 - Package: salty-chat

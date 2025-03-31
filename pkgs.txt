@@ -112,7 +112,7 @@
  await  1.0.8  Runs list of commands in parallel and waits for their termination  https://await-cli.app/ 
  awesomeshot  1.1.0  A command-line screenshot tool written in bash  https://github.com/mayTermux/awesomeshot 
  axel  2.17.14  light command line download accelerator  https://github.com/axel-download-accelerator/axel 
- b3sum  1.7.0  A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum  https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum 
+ b3sum  1.8.0  A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum  https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum 
  babl  0.1.112  Dynamic pixel format translation library  https://gegl.org/babl/ 
  bacula-fd  15.0.3  Bacula backup software  https://www.bacula.org 
  bacula-fd-static  15.0.3  Static libraries for bacula-fd  https://www.bacula.org 
@@ -738,8 +738,8 @@
  id3lib-static  3.8.3-3  Static libraries for id3lib  http://id3lib.sourceforge.net/ 
  id3ted  1.0-3  A comand line id3 tag editor  https://muennich.github.io/id3ted/ 
  id3v2  0.1.12-1  A command line id3v2 tag editor  http://id3v2.sourceforge.net/ 
- imagemagick  7.1.1.46  Suite to create, edit, compose, or convert images in a variety of formats  https://www.imagemagick.org/ 
- imagemagick-static  7.1.1.46  Static libraries for imagemagick  https://www.imagemagick.org/ 
+ imagemagick  7.1.1.47  Suite to create, edit, compose, or convert images in a variety of formats  https://www.imagemagick.org/ 
+ imagemagick-static  7.1.1.47  Static libraries for imagemagick  https://www.imagemagick.org/ 
  imath  3.1.12  Library for vector/matrix and math operations, plus the half type  https://imath.readthedocs.io/ 
  imgflo  0.4.2-8  HTTP image processing server & Flowhub.io compatible runtime  https://github.com/imgflo/imgflo 
  imlib2  1.12.4-1  Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support  https://sourceforge.net/projects/enlightenment/ 
@@ -770,7 +770,7 @@
  jack  0.0.1  A metapackage that provides JACK Audio Connection Kit  https://github.com/termux/termux-packages 
  jack-example-tools  4  Official JACK example clients and tools  https://jackaudio.org/ 
  jack2  1.9.22-1  The JACK low-latency audio server  https://jackaudio.org/ 
- jackett  0.22.1709  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
+ jackett  0.22.1712  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
  janet  1.38.0  Janet is a dialect of Lisp intended for embedding into programs and such  https://janet-lang.org 
  jbig2dec  0.20  Decoder implementation of the JBIG2 image compression format  https://jbig2dec.com/ 
  jbig2dec-static  0.20  Static libraries for jbig2dec  https://jbig2dec.com/ 
@@ -2224,7 +2224,7 @@
  rustscan  2.4.1  The modern,fast,smart and effective port scanner  https://rustscan.github.io/RustScan 
  rw  1.0.1  A Rust implementation of sponge(1) that never write to TMPDIR  https://github.com/jridgewell/rw 
  rxfetch  2023.01.07  A custom system info fetching tool  https://github.com/Mangeshrex/rxfetch 
- sabnzbd  4.4.1  Fully automated Usenet Binary Downloader  https://sabnzbd.org/ 
+ sabnzbd  4.5.0  Fully automated Usenet Binary Downloader  https://sabnzbd.org/ 
  salty-chat  0.0.22-4  A secure, easy, self-hosted messaging  https://salty.im/ 
  samba  4.16.11-4  SMB/CIFS fileserver  https://www.samba.org/ 
  samefile  2.15-5  Finds files with identical contents, independent of file name  http://www.schweikhardt.net/samefile/ 
