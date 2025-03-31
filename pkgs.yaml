@@ -691,7 +691,7 @@
   Description: Classic text mode games from UNIX folklore
   Homepage: https://www.polyomino.org.uk/computer/software/bsd-games/
 - Package: bsdtar
-  Version: 3.7.8
+  Version: 3.7.9
   Description: The tar(1) and cpio(1) programs from FreeBSD, using libarchive
   Homepage: https://www.libarchive.org/
 - Package: btfs2
@@ -1839,7 +1839,7 @@
   Description: F-Droid client
   Homepage: https://github.com/mvdan/fdroidcl
 - Package: fdupes
-  Version: 2.3.2
+  Version: 2.4.0
   Description: Duplicates file detector
   Homepage: https://github.com/adrianlopezroche/fdupes
 - Package: fennel
@@ -3515,11 +3515,11 @@
   Description: Perl interface to APTs libapt-pkg
   Homepage: https://packages.debian.org/libapt-pkg-perl
 - Package: libarchive
-  Version: 3.7.8
+  Version: 3.7.9
   Description: Multi-format archive and compression library
   Homepage: https://www.libarchive.org/
 - Package: libarchive-static
-  Version: 3.7.8
+  Version: 3.7.9
   Description: Static libraries for libarchive
   Homepage: https://www.libarchive.org/
 - Package: libarrow-cpp
@@ -7043,7 +7043,7 @@
   Description: Video game for color and monochrome text terminals in the genre of Namcos Pac-Man
   Homepage: https://sourceforge.net/projects/myman/
 - Package: mympd
-  Version: 20.1.1
+  Version: 20.1.2
   Description: A standalone and lightweight web-based MPD client
   Homepage: https://jcorporation.github.io/myMPD/
 - Package: mypaint-brushes

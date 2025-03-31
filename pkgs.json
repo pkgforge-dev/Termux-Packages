@@ -1039,7 +1039,7 @@
   },
   {
     "Package": "bsdtar",
-    "Version": "3.7.8",
+    "Version": "3.7.9",
     "Description": "The tar(1) and cpio(1) programs from FreeBSD, using libarchive",
     "Homepage": "https://www.libarchive.org/"
   },
@@ -2761,7 +2761,7 @@
   },
   {
     "Package": "fdupes",
-    "Version": "2.3.2",
+    "Version": "2.4.0",
     "Description": "Duplicates file detector",
     "Homepage": "https://github.com/adrianlopezroche/fdupes"
   },
@@ -5275,13 +5275,13 @@
   },
   {
     "Package": "libarchive",
-    "Version": "3.7.8",
+    "Version": "3.7.9",
     "Description": "Multi-format archive and compression library",
     "Homepage": "https://www.libarchive.org/"
   },
   {
     "Package": "libarchive-static",
-    "Version": "3.7.8",
+    "Version": "3.7.9",
     "Description": "Static libraries for libarchive",
     "Homepage": "https://www.libarchive.org/"
   },
@@ -10567,7 +10567,7 @@
   },
   {
     "Package": "mympd",
-    "Version": "20.1.1",
+    "Version": "20.1.2",
     "Description": "A standalone and lightweight web-based MPD client",
     "Homepage": "https://jcorporation.github.io/myMPD/"
   },
