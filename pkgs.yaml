@@ -2615,7 +2615,7 @@
   Description: A powerful multi-faceted programming language for the JVM platform
   Homepage: https://groovy-lang.org/
 - Package: gsasl
-  Version: 2.2.1
+  Version: 2.2.2
   Description: GNU SASL library command line interface
   Homepage: https://www.gnu.org/software/gsasl
 - Package: gsf-tools
@@ -4219,11 +4219,11 @@
   Description: High performance, open source, general RPC framework that puts mobile and HTTP/2 first
   Homepage: https://grpc.io/
 - Package: libgsasl
-  Version: 2.2.1
+  Version: 2.2.2
   Description: GNU SASL library
   Homepage: https://www.gnu.org/software/gsasl
 - Package: libgsasl-static
-  Version: 2.2.1
+  Version: 2.2.2
   Description: Static libraries for libgsasl
   Homepage: https://www.gnu.org/software/gsasl
 - Package: libgsf
@@ -7403,7 +7403,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 25.8.0
+  Version: 25.10.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents

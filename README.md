@@ -664,7 +664,7 @@
 | **gron** | 0.7.1-3 | Transforms JSON into discrete assignments | https://github.com/tomnomnom/gron |
 | **groonga** | 15.0.4 | An embeddable fulltext search engine | https://github.com/groonga/groonga/ |
 | **groovy** | 4.0.26-3 | A powerful multi-faceted programming language for the JVM platform | https://groovy-lang.org/ |
-| **gsasl** | 2.2.1 | GNU SASL library command line interface | https://www.gnu.org/software/gsasl |
+| **gsasl** | 2.2.2 | GNU SASL library command line interface | https://www.gnu.org/software/gsasl |
 | **gsf-tools** | 1.14.53 | Command-line tools for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
 | **gsl** | 2.8 | GNU Scientific Library (GSL) providing a wide range of mathematical routines | https://www.gnu.org/software/gsl/ |
 | **gsl-static** | 2.8 | Static libraries for gsl | https://www.gnu.org/software/gsl/ |
@@ -1065,8 +1065,8 @@
 | **libgpg-error-static** | 1.50 | Static libraries for libgpg-error | https://www.gnupg.org/related_software/libgpg-error/ |
 | **libgraphite** | 1.3.14-2 | Font system for multiple languages | https://github.com/silnrsi/graphite |
 | **libgrpc** | 1.71.0 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
-| **libgsasl** | 2.2.1 | GNU SASL library | https://www.gnu.org/software/gsasl |
-| **libgsasl-static** | 2.2.1 | Static libraries for libgsasl | https://www.gnu.org/software/gsasl |
+| **libgsasl** | 2.2.2 | GNU SASL library | https://www.gnu.org/software/gsasl |
+| **libgsasl-static** | 2.2.2 | Static libraries for libgsasl | https://www.gnu.org/software/gsasl |
 | **libgsf** | 1.14.53 | The G Structured File Library | https://gitlab.gnome.org/GNOME/libgsf |
 | **libgsf-static** | 1.14.53 | Static libraries for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
 | **libgtop** | 2.41.3 | Library for collecting system monitoring data | https://gitlab.gnome.org/GNOME/libgtop |
@@ -1861,7 +1861,7 @@
 | **octomap** | 1.10.0 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-4 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 25.8.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 25.10.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **okc-agents** | 0.1.2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.6-2 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-9 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
