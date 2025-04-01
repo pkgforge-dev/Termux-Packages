@@ -61,7 +61,6 @@
 | **apt-file** | 3.3 | search for files within packages | https://wiki.debian.org/apt-file |
 | **apt-ftparchive** | 2.8.1-1 | apt-ftparchive is the command line tool that generates the index files that APT uses to access a distribution source | https://packages.debian.org/apt |
 | **apt-transport-tor** | 2.8.1-1 | APT transport for anonymous package downloads via Tor | https://packages.debian.org/apt |
-| **aptitude** | 0.8.13-3 | terminal-based package manager | https://wiki.debian.org/Aptitude |
 | **aptly** | 1.6.1 | A Swiss Army knife for Debian repository management | https://www.aptly.info |
 | **argon2** | 20190702-1 | A password-hashing function (reference C implementation) | https://github.com/P-H-C/phc-winner-argon2 |
 | **argon2-static** | 20190702-1 | Static libraries for argon2 | https://github.com/P-H-C/phc-winner-argon2 |
@@ -610,7 +609,7 @@
 | **gnutls** | 3.8.9 | Commandline utilities for interfacing with the gnutls library | https://www.gnutls.org/ |
 | **go-findimagedupes** | 2023.01.29-3 | Find visually similar or duplicate images | https://gitlab.com/opennota/findimagedupes |
 | **go-musicfox** | 4.6.0 | A netease music player in terminal. | https://github.com/go-musicfox/go-musicfox |
-| **goaccess** | 1.9.3 | An open source real-time web log analyzer and interactive viewer | http://goaccess.io |
+| **goaccess** | 1.9.4 | An open source real-time web log analyzer and interactive viewer | https://goaccess.io |
 | **gobang** | 0.1.0-alpha.5-3 | A cross-platform TUI database management tool written in Rust | https://github.com/TaKO8Ki/gobang |
 | **gobject-introspection** | 1.84.0 | Uniform machine readable API | https://gi.readthedocs.io/ |
 | **gogs** | 0.13.2 | A painless self-hosted Git service | https://gogs.io |
@@ -1849,7 +1848,7 @@
 | **octomap** | 1.10.0 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-4 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 25.10.1 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 25.10.2 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **okc-agents** | 0.1.2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.6-2 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-9 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
@@ -2378,7 +2377,7 @@
 | **swig** | 4.3.0 | Generate scripting interfaces to C/C++ code | https://swig.org |
 | **swtpm** | 0.10.0 | Software TPM Emulator | https://github.com/stefanberger/swtpm |
 | **swtpm-static** | 0.10.0 | Static libraries for swtpm | https://github.com/stefanberger/swtpm |
-| **syncthing** | 1.29.3 | Decentralized file synchronization | https://syncthing.net/ |
+| **syncthing** | 1.29.4 | Decentralized file synchronization | https://syncthing.net/ |
 | **sysprop** | 13.0.0.15-7 | Generates cpp / java sysprop | https://android.googlesource.com/platform/system/tools/sysprop |
 | **ta-lib** | 0.5.0 | Technical analysis library with indicators like ADX | https://ta-lib.org/ |
 | **ta-lib-static** | 0.5.0 | Static libraries for ta-lib | https://ta-lib.org/ |

@@ -378,12 +378,6 @@
     "Homepage": "https://packages.debian.org/apt"
   },
   {
-    "Package": "aptitude",
-    "Version": "0.8.13-3",
-    "Description": "terminal-based package manager",
-    "Homepage": "https://wiki.debian.org/Aptitude"
-  },
-  {
     "Package": "aptly",
     "Version": "1.6.1",
     "Description": "A Swiss Army knife for Debian repository management",
@@ -3673,9 +3667,9 @@
   },
   {
     "Package": "goaccess",
-    "Version": "1.9.3",
+    "Version": "1.9.4",
     "Description": "An open source real-time web log analyzer and interactive viewer",
-    "Homepage": "http://goaccess.io"
+    "Homepage": "https://goaccess.io"
   },
   {
     "Package": "gobang",
@@ -11107,7 +11101,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "25.10.1",
+    "Version": "25.10.2",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -14281,7 +14275,7 @@
   },
   {
     "Package": "syncthing",
-    "Version": "1.29.3",
+    "Version": "1.29.4",
     "Description": "Decentralized file synchronization",
     "Homepage": "https://syncthing.net/"
   },
