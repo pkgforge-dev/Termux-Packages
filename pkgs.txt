@@ -1324,7 +1324,7 @@
  librinutils  0.10.3  A C11 / gnu11 utilities C library  https://github.com/shlomif/rinutils 
  librocksdb  8.11.3  A persistent key-value store for flash and RAM storage  https://rocksdb.org/ 
  librocksdb-static  8.11.3  Static libraries for librocksdb  https://rocksdb.org/ 
- librsvg  2.60.0  Library to render SVG files using cairo  https://wiki.gnome.org/action/show/Projects/LibRsvg 
+ librsvg  2.60.0-1  Library to render SVG files using cairo  https://wiki.gnome.org/action/show/Projects/LibRsvg 
  librsync  2.3.4  Remote delta-compression library  https://github.com/librsync/librsync 
  librtmidi  5.0.0-2  A set of C++ classes that provides a common API for realtime MIDI input/output  https://www.music.mcgill.ca/~gary/rtmidi/ 
  librttopo  1.1.0-2  The RT Topology Library exposes an API to create and manage standard topologies  https://git.osgeo.org/gitea/rttopo/librttopo 
@@ -2367,12 +2367,12 @@
  svt-av1  3.0.2  Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder)  https://gitlab.com/AOMediaCodec/SVT-AV1 
  swaks  20240103.0  Swiss Army Knife for SMTP  http://jetmore.org/john/code/swaks/ 
  swi-prolog  9.3.21  Most popular and complete prolog implementation  https://swi-prolog.org/ 
- swift-runtime-aarch64  6.0.3-1  Swift runtime libraries for Android AArch64  https://swift.org/ 
- swift-runtime-arm  6.0.3-1  Swift runtime libraries for Android armv7  https://swift.org/ 
- swift-runtime-x86-64  6.0.3-1  Swift runtime libraries for Android x86_64  https://swift.org/ 
- swift-sdk-aarch64  6.0.3-1  Swift SDK for Android AArch64  https://swift.org/ 
- swift-sdk-arm  6.0.3-1  Swift SDK for Android armv7  https://swift.org/ 
- swift-sdk-x86-64  6.0.3-1  Swift SDK for Android x86_64  https://swift.org/ 
+ swift-runtime-aarch64  6.1  Swift runtime libraries for Android AArch64  https://swift.org/ 
+ swift-runtime-arm  6.1  Swift runtime libraries for Android armv7  https://swift.org/ 
+ swift-runtime-x86-64  6.1  Swift runtime libraries for Android x86_64  https://swift.org/ 
+ swift-sdk-aarch64  6.1  Swift SDK for Android AArch64  https://swift.org/ 
+ swift-sdk-arm  6.1  Swift SDK for Android armv7  https://swift.org/ 
+ swift-sdk-x86-64  6.1  Swift SDK for Android x86_64  https://swift.org/ 
  swiftshader  2024.05.08  A high-performance CPU-based implementation of the Vulkan graphics API  https://swiftshader.googlesource.com/SwiftShader 
  swig  4.3.0  Generate scripting interfaces to C/C++ code  https://swig.org 
  swtpm  0.10.0  Software TPM Emulator  https://github.com/stefanberger/swtpm 
