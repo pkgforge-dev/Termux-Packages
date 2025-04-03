@@ -1842,7 +1842,7 @@
 | **o-editor** | 2.68.9 | Small, fast and limited text editor | https://github.com/xyproto/o |
 | **oathtool** | 2.6.12 | One-time password components | http://www.nongnu.org/oath-toolkit/ |
 | **oathtool-static** | 2.6.12 | Static libraries for oathtool | http://www.nongnu.org/oath-toolkit/ |
-| **ocl-icd** | 2.3.2 | OpenCL ICD Loader | https://github.com/OCL-dev/ocl-icd |
+| **ocl-icd** | 2.3.3 | OpenCL ICD Loader | https://github.com/OCL-dev/ocl-icd |
 | **ocrad** | 0.29 | Optical Character Recognition program based on a feature extraction method | https://www.gnu.org/software/ocrad/ocrad.html |
 | **ocrad-static** | 0.29 | Static libraries for ocrad | https://www.gnu.org/software/ocrad/ocrad.html |
 | **octomap** | 1.10.0 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
@@ -2533,7 +2533,7 @@
 | **unixodbc-static** | 2.3.12 | Static libraries for unixodbc | https://www.unixodbc.org/ |
 | **unpaper** | 1:7.0.0-2 | A post-processing tool for scanned sheets of paper | https://www.flameeyes.com/projects/unpaper |
 | **unrar** | 7.1.6 | Tool for extracting files from .rar archives | https://www.rarlab.com/ |
-| **unshield** | 1.6.0 | Tool and library to extract CAB files from InstallShield installers | https://github.com/twogood/unshield |
+| **unshield** | 1.6.1 | Tool and library to extract CAB files from InstallShield installers | https://github.com/twogood/unshield |
 | **unzip** | 6.0-9 | Tools for working with zip files | https://sourceforge.net/projects/infozip/ |
 | **up** | 0.4-3 | Helps interactively and incrementally explore textual data in Linux | https://github.com/akavel/up |
 | **update-info-dir** | 7.2-1 | Update or create index file from all installed info files in directory | https://www.gnu.org/software/texinfo/ |
@@ -2558,7 +2558,7 @@
 | **valac-static** | 0.56.18 | Static libraries for valac | https://wiki.gnome.org/Projects/Vala |
 | **valadoc** | 0.56.18 | API documentation generator for vala | https://wiki.gnome.org/Projects/Vala |
 | **valadoc-static** | 0.56.18 | Static libraries for valadoc | https://wiki.gnome.org/Projects/Vala |
-| **vale** | 3.10.0 | A syntax-aware linter for prose built with speed and extensibility in mind | https://vale.sh |
+| **vale** | 3.11.0 | A syntax-aware linter for prose built with speed and extensibility in mind | https://vale.sh |
 | **valgrind** | 3.22.0-1 | Instrumentation framework for building dynamic analysis tools | https://valgrind.org/ |
 | **valgrind-static** | 3.22.0-1 | Static libraries for valgrind | https://valgrind.org/ |
 | **vamp-plugin-sdk** | 2.10-2 | An API for audio analysis and feature extraction plugins | https://www.vamp-plugins.org/ |
@@ -2602,7 +2602,7 @@
 | **w3m** | 0.5.3.20230121-1 | Text based Web browser and pager | https://w3m.sourceforge.net/ |
 | **w3m-img** | 0.5.3.20230121-1 | Inline image extension support utilities for w3m | https://w3m.sourceforge.net/ |
 | **wabt** | 1.0.37 | The WebAssembly Binary Toolkit | https://github.com/WebAssembly/wabt |
-| **wakatime-cli** | 1.112.1 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
+| **wakatime-cli** | 1.115.1 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
 | **walk** | 1.13.0 | A terminal file manager | https://github.com/antonmedv/walk |
 | **wasi-libc** | 25 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |
 | **wasm-component-ld** | 0.5.12 | Command line linker for creating WebAssembly components | https://github.com/bytecodealliance/wasm-component-ld |
@@ -2646,7 +2646,7 @@
 | **x265** | 4.1 | H.265/HEVC video stream encoder tool | http://x265.org/ |
 | **xapian-tools** | 1.4.27 | Basic tools for the Xapian search engine | https://xapian.org |
 | **xcb-proto** | 1.17.0-1 | XML-XCB protocol descriptions | https://xcb.freedesktop.org/ |
-| **xdelta3** | 3.1.0-1 | xdelta3 - VCDIFF (RFC 3284) binary diff tool | https://github.com/jmacd/xdelta |
+| **xdelta3** | 3.1.0-2 | xdelta3 - VCDIFF (RFC 3284) binary diff tool | https://github.com/jmacd/xdelta |
 | **xh** | 0.24.0 | A friendly and fast tool for sending HTTP requests | https://github.com/ducaale/xh |
 | **xls2csv** | 1.6.3 | A command-line tool for converting XLS to CSV | https://github.com/libxls/libxls |
 | **xmake** | 2.9.8 | A cross-platform build utility based on Lua | https://xmake.io/ |
