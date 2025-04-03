@@ -451,12 +451,12 @@
 | **exiv2** | 2:0.28.5 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **exiv2-static** | 2:0.27.7-1 | Static libraries for exiv2 | https://exiv2.org/ |
 | **expect** | 5.45.4-3 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
-| **eza** | 0.20.24 | A modern replacement for ls | https://github.com/eza-community/eza |
+| **eza** | 0.21.0 | A modern replacement for ls | https://github.com/eza-community/eza |
 | **fact++** | 1.6.5-1 | Re-implementation of the well-known FaCT Description Logic (DL) Reasoner | https://bitbucket.org/dtsarkov/factplusplus |
 | **fakeroot** | 1.37.1.1 | Tool for simulating superuser privileges (with tcp ipc) | https://packages.qa.debian.org/f/fakeroot.html |
 | **fakeroot-static** | 1.37.1.1 | Static libraries for fakeroot | https://packages.qa.debian.org/f/fakeroot.html |
 | **fasd** | 1.0.2 | To fastly access files and folders | https://github.com/whjvenyl/fasd |
-| **fastfetch** | 2.39.1 | A maintained, feature-rich and performance oriented, neofetch like system information tool | https://github.com/fastfetch-cli/fastfetch |
+| **fastfetch** | 2.40.0 | A maintained, feature-rich and performance oriented, neofetch like system information tool | https://github.com/fastfetch-cli/fastfetch |
 | **fastmod** | 0.4.4 | Regex-based code refactoring utility | https://github.com/facebookincubator/fastmod |
 | **fatsort** | 1.6.5.640 | A C utility that sorts FAT12, FAT16, FAT32 and exFAT partitions | https://fatsort.sourceforge.io/ |
 | **faust** | 2.79.3 | A functional programming language for signal processing and sound synthesis | https://github.com/grame-cncm/faust |
@@ -781,7 +781,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-1 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.22.1719 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.22.1722 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **janet** | 1.38.0 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
 | **jbig2dec** | 0.20 | Decoder implementation of the JBIG2 image compression format | https://jbig2dec.com/ |
 | **jbig2dec-static** | 0.20 | Static libraries for jbig2dec | https://jbig2dec.com/ |
@@ -1777,7 +1777,7 @@
 | **n2n** | 3.1.1 | A light VPN software | https://github.com/ntop/n2n |
 | **nala** | 0.15.4-4 | Commandline frontend for the apt package manager | https://gitlab.com/volian/nala |
 | **nali** | 0.8.1 | An offline tool for querying IP geographic information and CDN provider | https://github.com/zu1k/nali |
-| **nano** | 8.3 | Small, free and friendly text editor | https://www.nano-editor.org/ |
+| **nano** | 8.4 | Small, free and friendly text editor | https://www.nano-editor.org/ |
 | **nasm** | 2.16.03 | A cross-platform x86 assembler with an Intel-like syntax | https://nasm.us |
 | **natpmpc** | 20230423-1 | Portable and fully compliant implementation of NAT-PMP | https://miniupnp.tuxfamily.org/libnatpmp.html |
 | **natpmpc-static** | 20230423-1 | Static libraries for natpmpc | https://miniupnp.tuxfamily.org/libnatpmp.html |
@@ -1860,7 +1860,7 @@
 | **octomap** | 1.10.0 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-4 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 25.11.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 25.11.1 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **okc-agents** | 0.1.2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.6-2 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-9 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
@@ -2132,7 +2132,7 @@
 | **quick-lint-js** | 3.2.0 | Finds bugs in JavaScript programs | https://quick-lint-js.com/ |
 | **quickjs** | 1:20240113 | QuickJS is a small and embeddable Javascript engine | https://bellard.org/quickjs/ |
 | **quilt** | 0.68 | Allows you to easily manage large numbers of patches | https://savannah.nongnu.org/projects/quilt |
-| **rabbitmq-server** | 4.0.7 | Feature rich, multi-protocol messaging and streaming broker | https://github.com/rabbitmq/rabbitmq-server |
+| **rabbitmq-server** | 4.0.8 | Feature rich, multi-protocol messaging and streaming broker | https://github.com/rabbitmq/rabbitmq-server |
 | **racket** | 8.16 | Full-spectrum programming language going beyond Lisp and Scheme | https://racket-lang.org |
 | **racket-static** | 8.16 | Static libraries for racket | https://racket-lang.org |
 | **radare2** | 5.9.8 | Advanced Hexadecimal Editor | https://rada.re |
@@ -2323,7 +2323,7 @@
 | **speexdsp-static** | 1.2.1 | Static libraries for speexdsp | https://speex.org/ |
 | **spglib** | 2.6.0 | C library for finding and handling crystal symmetries | https://spglib.github.io/spglib/index.html |
 | **spglib-static** | 2.0.2 | Static libraries for spglib | https://spglib.github.io/spglib/index.html |
-| **spiped** | 1.6.3 | a utility for creating symmetrically encrypted and authenticated pipes between socket addresses | https://www.tarsnap.com/spiped.html |
+| **spiped** | 1.6.4 | a utility for creating symmetrically encrypted and authenticated pipes between socket addresses | https://www.tarsnap.com/spiped.html |
 | **spirv-headers** | 1.4.309.0 | SPIR-V Headers | https://github.com/KhronosGroup/SPIRV-Headers |
 | **spirv-tools** | 1.4.309.0 | SPIR-V Tools | https://github.com/KhronosGroup/SPIRV-Tools |
 | **sqlcipher** | 4.6.1 | SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files | https://github.com/sqlcipher/sqlcipher |

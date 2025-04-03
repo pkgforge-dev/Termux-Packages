@@ -1763,7 +1763,7 @@
   Description: Tool for automating interactive terminal applications
   Homepage: https://core.tcl.tk/expect/index
 - Package: eza
-  Version: 0.20.24
+  Version: 0.21.0
   Description: A modern replacement for ls
   Homepage: https://github.com/eza-community/eza
 - Package: fact++
@@ -1783,7 +1783,7 @@
   Description: To fastly access files and folders
   Homepage: https://github.com/whjvenyl/fasd
 - Package: fastfetch
-  Version: 2.39.1
+  Version: 2.40.0
   Description: A maintained, feature-rich and performance oriented, neofetch like system information tool
   Homepage: https://github.com/fastfetch-cli/fastfetch
 - Package: fastmod
@@ -3083,7 +3083,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.1719
+  Version: 0.22.1722
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: janet
@@ -7067,7 +7067,7 @@
   Description: An offline tool for querying IP geographic information and CDN provider
   Homepage: https://github.com/zu1k/nali
 - Package: nano
-  Version: "8.3"
+  Version: "8.4"
   Description: Small, free and friendly text editor
   Homepage: https://www.nano-editor.org/
 - Package: nasm
@@ -7399,7 +7399,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 25.11.0
+  Version: 25.11.1
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -8487,7 +8487,7 @@
   Description: Allows you to easily manage large numbers of patches
   Homepage: https://savannah.nongnu.org/projects/quilt
 - Package: rabbitmq-server
-  Version: 4.0.7
+  Version: 4.0.8
   Description: Feature rich, multi-protocol messaging and streaming broker
   Homepage: https://github.com/rabbitmq/rabbitmq-server
 - Package: racket
@@ -9251,7 +9251,7 @@
   Description: Static libraries for spglib
   Homepage: https://spglib.github.io/spglib/index.html
 - Package: spiped
-  Version: 1.6.3
+  Version: 1.6.4
   Description: a utility for creating symmetrically encrypted and authenticated pipes between socket addresses
   Homepage: https://www.tarsnap.com/spiped.html
 - Package: spirv-headers
