@@ -1453,7 +1453,7 @@
   },
   {
     "Package": "cloudflared",
-    "Version": "2025.2.1",
+    "Version": "2025.4.0",
     "Description": "A tunneling daemon that proxies traffic from the Cloudflare network to your origins",
     "Homepage": "https://github.com/cloudflare/cloudflared"
   },
@@ -4345,7 +4345,7 @@
   },
   {
     "Package": "hwdata",
-    "Version": "0.393",
+    "Version": "0.394",
     "Description": "Database of hardware identification and configuration data",
     "Homepage": "https://github.com/vcrhonek/hwdata"
   },
@@ -13459,13 +13459,13 @@
   },
   {
     "Package": "seafile-client",
-    "Version": "9.0.12",
+    "Version": "9.0.13",
     "Description": "Seafile is a file syncing and sharing software with file encryption and group sharing",
     "Homepage": "https://seafile.com"
   },
   {
     "Package": "seafile-client-static",
-    "Version": "9.0.12",
+    "Version": "9.0.13",
     "Description": "Static libraries for seafile-client",
     "Homepage": "https://seafile.com"
   },
@@ -14209,7 +14209,7 @@
   },
   {
     "Package": "swi-prolog",
-    "Version": "9.3.21",
+    "Version": "9.3.22",
     "Description": "Most popular and complete prolog implementation",
     "Homepage": "https://swi-prolog.org/"
   },
