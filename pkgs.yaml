@@ -6598,6 +6598,10 @@
   Version: 2.0.0-2
   Description: Small CLI app to learn with flashcards and spaced repetition
   Homepage: https://github.com/bttger/markdown-flashcards
+- Package: marksman
+  Version: 2024.12.18
+  Description: LSP language server for editing Markdown files
+  Homepage: https://github.com/artempyanykh/marksman
 - Package: mathomatic
   Version: 16.0.5-6
   Description: Simple CAS and symbolic calculator
