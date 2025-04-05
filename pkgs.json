@@ -679,7 +679,7 @@
   },
   {
     "Package": "b3sum",
-    "Version": "1.8.0",
+    "Version": "1.8.1",
     "Description": "A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum",
     "Homepage": "https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum"
   },
@@ -1183,7 +1183,7 @@
   },
   {
     "Package": "cargo-c",
-    "Version": "0.10.11",
+    "Version": "0.10.12",
     "Description": "Cargo C-ABI helpers",
     "Homepage": "https://github.com/lu-zero/cargo-c"
   },
@@ -1579,7 +1579,7 @@
   },
   {
     "Package": "composer",
-    "Version": "2.8.6",
+    "Version": "2.8.8",
     "Description": "Dependency Manager for PHP",
     "Homepage": "https://getcomposer.org/"
   },
@@ -2677,7 +2677,7 @@
   },
   {
     "Package": "fastfetch",
-    "Version": "2.40.0",
+    "Version": "2.40.3",
     "Description": "A maintained, feature-rich and performance oriented, neofetch like system information tool",
     "Homepage": "https://github.com/fastfetch-cli/fastfetch"
   },
@@ -6913,13 +6913,13 @@
   },
   {
     "Package": "liblzma",
-    "Version": "5.8.0",
+    "Version": "5.8.1",
     "Description": "XZ-format compression library",
     "Homepage": "https://tukaani.org/xz/"
   },
   {
     "Package": "liblzma-static",
-    "Version": "5.8.0",
+    "Version": "5.8.1",
     "Description": "Static libraries for liblzma",
     "Homepage": "https://tukaani.org/xz/"
   },
@@ -15559,7 +15559,7 @@
   },
   {
     "Package": "vulkan-headers",
-    "Version": "1.4.311",
+    "Version": "1.4.312",
     "Description": "Vulkan Header files and API registry",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Headers"
   },
@@ -15583,7 +15583,7 @@
   },
   {
     "Package": "vulkan-loader-generic",
-    "Version": "1.4.311-1",
+    "Version": "1.4.312",
     "Description": "Vulkan Loader",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Loader"
   },
@@ -16015,7 +16015,7 @@
   },
   {
     "Package": "xz-utils",
-    "Version": "5.8.0",
+    "Version": "5.8.1",
     "Description": "XZ-format compression tools",
     "Homepage": "https://tukaani.org/xz/"
   },
