@@ -2575,7 +2575,7 @@
   },
   {
     "Package": "erlang",
-    "Version": "27.3",
+    "Version": "27.3.2",
     "Description": "General-purpose concurrent functional programming language",
     "Homepage": "https://www.erlang.org/"
   },
@@ -3427,7 +3427,7 @@
   },
   {
     "Package": "gitoxide",
-    "Version": "0.41.0",
+    "Version": "0.42.0",
     "Description": "Rust implementation of Git",
     "Homepage": "https://github.com/Byron/gitoxide"
   },
@@ -4603,7 +4603,7 @@
   },
   {
     "Package": "iwyu",
-    "Version": "0.23",
+    "Version": "0.24",
     "Description": "A tool to analyze #includes in C and C++ source files",
     "Homepage": "https://include-what-you-use.org/"
   },
@@ -4627,7 +4627,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.22.1722",
+    "Version": "0.22.1730",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -5443,7 +5443,7 @@
   },
   {
     "Package": "libc++utilities",
-    "Version": "5.27.3-2",
+    "Version": "5.28.0",
     "Description": "Useful C++ classes and routines such as argument parser, IO and conversion utilities",
     "Homepage": "https://github.com/Martchus/cpp-utilities"
   },
@@ -9445,7 +9445,7 @@
   },
   {
     "Package": "lighttpd",
-    "Version": "1.4.78",
+    "Version": "1.4.79",
     "Description": "Fast webserver with minimal memory footprint",
     "Homepage": "https://www.lighttpd.net"
   },
@@ -10237,7 +10237,7 @@
   },
   {
     "Package": "minio",
-    "Version": "2025.03.12.18.04.18",
+    "Version": "2025.04.03.14.56.28",
     "Description": "Multi-Cloud Object Storage",
     "Homepage": "https://min.io/"
   },
@@ -10771,7 +10771,7 @@
   },
   {
     "Package": "neomutt",
-    "Version": "20250113-1",
+    "Version": "20250404",
     "Description": "A version of mutt with added features",
     "Homepage": "https://neomutt.org/"
   },
@@ -11107,7 +11107,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "25.11.1",
+    "Version": "25.12.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -13225,7 +13225,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.11.2",
+    "Version": "0.11.4",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -14095,7 +14095,7 @@
   },
   {
     "Package": "storj-uplink",
-    "Version": "1.124.6",
+    "Version": "1.125.2",
     "Description": "Storj DCS Uplink CLI",
     "Homepage": "https://www.storj.io/integrations/uplink-cli"
   },
@@ -14773,7 +14773,7 @@
   },
   {
     "Package": "topgrade",
-    "Version": "16.0.2",
+    "Version": "16.0.3",
     "Description": "Upgrade all the things",
     "Homepage": "https://github.com/topgrade-rs/topgrade/"
   },
@@ -15217,7 +15217,7 @@
   },
   {
     "Package": "unshield",
-    "Version": "1.6.1",
+    "Version": "1.6.2",
     "Description": "Tool and library to extract CAB files from InstallShield installers",
     "Homepage": "https://github.com/twogood/unshield"
   },
@@ -15367,7 +15367,7 @@
   },
   {
     "Package": "vale",
-    "Version": "3.11.0",
+    "Version": "3.11.1",
     "Description": "A syntax-aware linter for prose built with speed and extensibility in mind",
     "Homepage": "https://vale.sh"
   },
@@ -15595,7 +15595,7 @@
   },
   {
     "Package": "vulkan-utility-libraries",
-    "Version": "1.4.311",
+    "Version": "1.4.312",
     "Description": "Utility Libraries for Vulkan",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Utility-Libraries"
   },

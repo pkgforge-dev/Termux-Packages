@@ -1715,7 +1715,7 @@
   Description: Event Notify Test Runner - run arbitrary commands when files change
   Homepage: https://eradman.com/entrproject/
 - Package: erlang
-  Version: "27.3"
+  Version: 27.3.2
   Description: General-purpose concurrent functional programming language
   Homepage: https://www.erlang.org/
 - Package: esbuild
@@ -2283,7 +2283,7 @@
   Description: Extend git with Vincent Driessens branching model. The AVH Edition adds more functionality.
   Homepage: https://github.com/petervanderdoes/gitflow/
 - Package: gitoxide
-  Version: 0.41.0
+  Version: 0.42.0
   Description: Rust implementation of Git
   Homepage: https://github.com/Byron/gitoxide
 - Package: gitui
@@ -3067,7 +3067,7 @@
   Description: Static libraries for iverilog
   Homepage: http://iverilog.icarus.com/
 - Package: iwyu
-  Version: "0.23"
+  Version: "0.24"
   Description: 'A tool to analyze #includes in C and C++ source files'
   Homepage: https://include-what-you-use.org/
 - Package: jack
@@ -3083,7 +3083,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.1722
+  Version: 0.22.1730
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: janet
@@ -3627,7 +3627,7 @@
   Description: C++ Standard Library
   Homepage: https://libcxx.llvm.org/
 - Package: libc++utilities
-  Version: 5.27.3-2
+  Version: 5.28.0
   Description: Useful C++ classes and routines such as argument parser, IO and conversion utilities
   Homepage: https://github.com/Martchus/cpp-utilities
 - Package: libc-client
@@ -6295,7 +6295,7 @@
   Description: An open-source, multi-format 1D/2D barcode image processing library implemented in C++
   Homepage: https://github.com/zxing-cpp/zxing-cpp
 - Package: lighttpd
-  Version: 1.4.78
+  Version: 1.4.79
   Description: Fast webserver with minimal memory footprint
   Homepage: https://www.lighttpd.net
 - Package: lighttpd-static
@@ -6823,7 +6823,7 @@
   Description: General-purpose software audio FSK modem
   Homepage: http://www.whence.com/minimodem/
 - Package: minio
-  Version: 2025.03.12.18.04.18
+  Version: 2025.04.03.14.56.28
   Description: Multi-Cloud Object Storage
   Homepage: https://min.io/
 - Package: miniserve
@@ -7179,7 +7179,7 @@
   Description: Simple system information script
   Homepage: https://github.com/dylanaraps/neofetch
 - Package: neomutt
-  Version: 20250113-1
+  Version: "20250404"
   Description: A version of mutt with added features
   Homepage: https://neomutt.org/
 - Package: neovim
@@ -7403,7 +7403,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 25.11.1
+  Version: 25.12.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -8815,7 +8815,7 @@
   Description: Ruby documentation index
   Homepage: https://www.ruby-lang.org/
 - Package: ruff
-  Version: 0.11.2
+  Version: 0.11.4
   Description: An extremely fast Python linter, written in Rust
   Homepage: https://github.com/charliermarsh/ruff
 - Package: runit
@@ -9395,7 +9395,7 @@
   Description: A TCP/IP repeater in the application layer
   Homepage: https://www.gcd.org/sengoku/stone/
 - Package: storj-uplink
-  Version: 1.124.6
+  Version: 1.125.2
   Description: Storj DCS Uplink CLI
   Homepage: https://www.storj.io/integrations/uplink-cli
 - Package: stow
@@ -9847,7 +9847,7 @@
   Description: toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library
   Homepage: https://github.com/ToruNiina/toml11
 - Package: topgrade
-  Version: 16.0.2
+  Version: 16.0.3
   Description: Upgrade all the things
   Homepage: https://github.com/topgrade-rs/topgrade/
 - Package: tor
@@ -10143,7 +10143,7 @@
   Description: Tool for extracting files from .rar archives
   Homepage: https://www.rarlab.com/
 - Package: unshield
-  Version: 1.6.1
+  Version: 1.6.2
   Description: Tool and library to extract CAB files from InstallShield installers
   Homepage: https://github.com/twogood/unshield
 - Package: unzip
@@ -10243,7 +10243,7 @@
   Description: Static libraries for valadoc
   Homepage: https://wiki.gnome.org/Projects/Vala
 - Package: vale
-  Version: 3.11.0
+  Version: 3.11.1
   Description: A syntax-aware linter for prose built with speed and extensibility in mind
   Homepage: https://vale.sh
 - Package: valgrind
@@ -10395,7 +10395,7 @@
   Description: Vulkan Tools and Utilities
   Homepage: https://github.com/KhronosGroup/Vulkan-Tools
 - Package: vulkan-utility-libraries
-  Version: 1.4.311
+  Version: 1.4.312
   Description: Utility Libraries for Vulkan
   Homepage: https://github.com/KhronosGroup/Vulkan-Utility-Libraries
 - Package: vulkan-validation-layers
