@@ -1731,7 +1731,7 @@
 | **mlocate** | 0.26-5 | Tool to find files anywhere in the filesystem based on their name | https://pagure.io/mlocate |
 | **moar** | 1.31.4 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moar |
 | **mold** | 2.37.1 | mold: A Modern Linker | https://github.com/rui314/mold |
-| **monero** | 0.18.3.4-3 | A private, secure, untraceable, decentralised digital currency | https://getmonero.org/ |
+| **monero** | 0.18.4.0 | A private, secure, untraceable, decentralised digital currency | https://getmonero.org/ |
 | **mono** | 6.14.0 | Framework Mono | https://gitlab.winehq.org/mono/mono |
 | **mono-libs** | 6.14.0 | Platform-independent libraries for mono | https://gitlab.winehq.org/mono/mono |
 | **mono-static** | 6.14.0 | Static libraries for mono | https://gitlab.winehq.org/mono/mono |
