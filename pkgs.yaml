@@ -2935,7 +2935,7 @@
   Description: Extracts and converts images in MS Windows(R) icon and cursor files.
   Homepage: https://www.nongnu.org/icoutils/
 - Package: icu-devtools
-  Version: "77.1"
+  Version: 77.1-1
   Description: Development utilities for International Components for Unicode
   Homepage: http://site.icu-project.org/home
 - Package: id3lib
@@ -4323,11 +4323,11 @@
   Description: Static libraries for libiconv
   Homepage: https://www.gnu.org/software/libiconv/
 - Package: libicu
-  Version: "77.1"
+  Version: 77.1-1
   Description: International Components for Unicode library
   Homepage: http://site.icu-project.org/home
 - Package: libicu-static
-  Version: "77.1"
+  Version: 77.1-1
   Description: Static libraries for libicu
   Homepage: http://site.icu-project.org/home
 - Package: libid3tag
@@ -4359,19 +4359,19 @@
   Description: Static libraries for libimagequant
   Homepage: https://pngquant.org/lib/
 - Package: libimobiledevice
-  Version: 1.3.0-p20230430-2
+  Version: 1.3.0-p20250228-0
   Description: A library to communicate with services on iOS devices using native protocols
   Homepage: https://libimobiledevice.org/
 - Package: libimobiledevice-glue
-  Version: 1.0.0
+  Version: 1.3.1
   Description: Library with common code used by the libraries and tools around the libimobiledevice project
   Homepage: https://libimobiledevice.org/
 - Package: libimobiledevice-glue-static
-  Version: 1.0.0
+  Version: 1.3.1
   Description: Static libraries for libimobiledevice-glue
   Homepage: https://libimobiledevice.org/
 - Package: libimobiledevice-static
-  Version: 1.3.0-p20230430-2
+  Version: 1.3.0-p20250228-0
   Description: Static libraries for libimobiledevice
   Homepage: https://libimobiledevice.org/
 - Package: libimtui
@@ -5614,6 +5614,14 @@
   Version: 4.20.0
   Description: Static libraries for libtasn1
   Homepage: https://www.gnu.org/software/libtasn1/
+- Package: libtatsu
+  Version: 1.0.4
+  Description: Library handling the communication with Apples Tatsu Signing Server (TSS)
+  Homepage: https://libimobiledevice.org/
+- Package: libtatsu-static
+  Version: 1.0.4
+  Description: Static libraries for libtatsu
+  Homepage: https://libimobiledevice.org/
 - Package: libtbb
   Version: 2022.1.0
   Description: oneAPI Threading Building Blocks
@@ -5835,11 +5843,11 @@
   Description: Static libraries for libusb
   Homepage: https://libusb.info/
 - Package: libusbmuxd
-  Version: 2.0.2-p20230430-2
+  Version: 2.1.0-p20250216-0
   Description: A client library for applications to handle usbmux protocol connections with iOS devices
   Homepage: https://libimobiledevice.org
 - Package: libusbmuxd-static
-  Version: 2.0.2-p20230430-2
+  Version: 2.1.0-p20250216-0
   Description: Static libraries for libusbmuxd
   Homepage: https://libimobiledevice.org
 - Package: libusbredir
