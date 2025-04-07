@@ -2971,11 +2971,11 @@
   Description: HTTP image processing server & Flowhub.io compatible runtime
   Homepage: https://github.com/imgflo/imgflo
 - Package: imlib2
-  Version: 1.12.4-1
+  Version: 1.12.5
   Description: Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support
   Homepage: https://sourceforge.net/projects/enlightenment/
 - Package: imlib2-static
-  Version: 1.12.4-1
+  Version: 1.12.5
   Description: Static libraries for imlib2
   Homepage: https://sourceforge.net/projects/enlightenment/
 - Package: indent
@@ -7735,7 +7735,7 @@
   Description: A command-line tool to generate, analyze, convert and manipulate colors
   Homepage: https://github.com/sharkdp/pastel
 - Package: patch
-  Version: 2.7.6-4
+  Version: "2.8"
   Description: GNU patch which applies diff files to create patched files
   Homepage: https://savannah.gnu.org/projects/patch/
 - Package: patchelf
