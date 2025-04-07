@@ -371,7 +371,7 @@
   Description: AT and batch delayed command scheduling utility and daemon
   Homepage: https://salsa.debian.org/debian/at
 - Package: at-spi2-core
-  Version: 2.56.1
+  Version: 2.56.1-1
   Description: Assistive Technology Service Provider Interface (AT-SPI)
   Homepage: https://wiki.gnome.org/Accessibility
 - Package: atomicparsley
@@ -895,7 +895,7 @@
   Description: Static libraries for check
   Homepage: https://libcheck.github.io/check
 - Package: chezmoi
-  Version: 2.61.0
+  Version: 2.62.0
   Description: Manage your dotfiles across multiple machines
   Homepage: https://chezmoi.io
 - Package: chicken
@@ -2123,7 +2123,7 @@
   Description: The gdbserver program
   Homepage: https://www.gnu.org/software/gdb/
 - Package: gdk-pixbuf
-  Version: 2.42.12
+  Version: 2.42.12-1
   Description: Library for image loading and manipulation
   Homepage: https://wiki.gnome.org/Projects/GdkPixbuf
 - Package: gdrive-downloader
@@ -2303,15 +2303,15 @@
   Description: A friendly language for building type-safe, scalable systems!
   Homepage: https://gleam.run
 - Package: glib
-  Version: 2.84.0-1
+  Version: 2.84.0-2
   Description: Library providing core building blocks for libraries and applications written in C
   Homepage: https://developer.gnome.org/glib/
 - Package: glib-bin
-  Version: 2.84.0-1
+  Version: 2.84.0-2
   Description: Programs for the GLib library
   Homepage: https://developer.gnome.org/glib/
 - Package: glib-cross
-  Version: 2.84.0-1
+  Version: 2.84.0-2
   Description: glib for host (NOT for Termux)
   Homepage: https://developer.gnome.org/glib/
 - Package: glib-networking
@@ -3647,7 +3647,7 @@
   Description: Static libraries for libcaca
   Homepage: http://caca.zoy.org/wiki/libcaca
 - Package: libcairo
-  Version: 1.18.4
+  Version: 1.18.4-1
   Description: Cairo 2D vector graphics library
   Homepage: https://cairographics.org
 - Package: libcairomm-1.0
@@ -5375,7 +5375,7 @@
   Description: Static libraries for libsecp256k1
   Homepage: https://github.com/bitcoin-core/secp256k1
 - Package: libsecret
-  Version: 0.21.7
+  Version: 0.21.7-1
   Description: A GObject-based library for accessing the Secret Service API
   Homepage: https://gitlab.gnome.org/GNOME/libsecret
 - Package: libsfdo
@@ -7679,7 +7679,7 @@
   Description: Static libraries for panda3d
   Homepage: https://www.panda3d.org/
 - Package: pango
-  Version: 1.56.3
+  Version: 1.56.3-1
   Description: Library for laying out and rendering text
   Homepage: https://www.gtk.org/docs/architecture/pango
 - Package: paperkey
@@ -8475,11 +8475,11 @@
   Description: Static libraries for qhull
   Homepage: http://www.qhull.org
 - Package: qpdf
-  Version: 12.0.0
+  Version: 12.1.0
   Description: Content-Preserving PDF Transformation System
   Homepage: http://qpdf.sourceforge.net
 - Package: qpdf-static
-  Version: 12.0.0
+  Version: 12.1.0
   Description: Static libraries for qpdf
   Homepage: http://qpdf.sourceforge.net
 - Package: qrsspig
@@ -10183,7 +10183,7 @@
   Description: Headers for URDF parsers
   Homepage: https://github.com/ros/urdfdom_headers
 - Package: usql
-  Version: 0.19.20
+  Version: 0.19.21
   Description: A universal command-line interface for SQL databases
   Homepage: https://github.com/xo/usql
 - Package: utf8cpp

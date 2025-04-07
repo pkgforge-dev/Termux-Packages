@@ -91,7 +91,7 @@
  astra-sm  2019.06.19  Software for digital TV broadcasting  https://gitlab.com/berdyansk/astra-sm 
  asymptote  3.01  A powerful descriptive vector graphics language for technical drawing  https://asymptote.sourceforge.io/ 
  at  3.2.5-1  AT and batch delayed command scheduling utility and daemon  https://salsa.debian.org/debian/at 
- at-spi2-core  2.56.1  Assistive Technology Service Provider Interface (AT-SPI)  https://wiki.gnome.org/Accessibility 
+ at-spi2-core  2.56.1-1  Assistive Technology Service Provider Interface (AT-SPI)  https://wiki.gnome.org/Accessibility 
  atomicparsley  1:20240608.083822.1ed9031  Read, parse and set metadata of MPEG-4 and 3gp files  https://github.com/wez/atomicparsley 
  atomvm  1:0.6.5  The minimal Erlang VM implementation  https://github.com/bettio/AtomVM 
  atool  0.39.0-1  tool for managing file archives of various types  https://www.nongnu.org/atool 
@@ -222,7 +222,7 @@
  chafa-static  1.14.5  Static libraries for chafa  https://hpjansson.org/chafa/ 
  check  0.15.2-2  A unit testing framework for C  https://libcheck.github.io/check 
  check-static  0.15.2-2  Static libraries for check  https://libcheck.github.io/check 
- chezmoi  2.61.0  Manage your dotfiles across multiple machines  https://chezmoi.io 
+ chezmoi  2.62.0  Manage your dotfiles across multiple machines  https://chezmoi.io 
  chicken  5.4.0-1  A feature rich Scheme compiler and interpreter  https://www.call-cc.org 
  chicken-static  5.4.0-1  Static libraries for chicken  https://www.call-cc.org 
  choose  1.3.6  A human-friendly and fast alternative to cut and (sometimes) awk  https://github.com/theryangeary/choose 
@@ -529,7 +529,7 @@
  gdbm  1.24  Library of database functions that use extensible hashing  https://www.gnu.org.ua/software/gdbm/ 
  gdbm-static  1.24  Static libraries for gdbm  https://www.gnu.org.ua/software/gdbm/ 
  gdbserver  15.2  The gdbserver program  https://www.gnu.org/software/gdb/ 
- gdk-pixbuf  2.42.12  Library for image loading and manipulation  https://wiki.gnome.org/Projects/GdkPixbuf 
+ gdk-pixbuf  2.42.12-1  Library for image loading and manipulation  https://wiki.gnome.org/Projects/GdkPixbuf 
  gdrive-downloader  1:1.1  Download a gdrive folder or file easily, shell ftw  https://github.com/Akianonymus/gdrive-downloader 
  gdu  5.30.1  Fast disk usage analyzer with console interface written in Go  https://github.com/dundee/gdu 
  geckodriver  0.36.0  Proxy for using W3C WebDriver-compatible clients to interact with Gecko-based browsers  https://github.com/mozilla/geckodriver 
@@ -574,9 +574,9 @@
  gkermit  2.01  Simple, Portable, Free File Transfer Software for UNIX  http://www.columbia.edu/kermit/gkermit.html 
  glab-cli  1.55.0  A GitLab CLI tool bringing GitLab to your command line  https://gitlab.com/gitlab-org/cli 
  gleam  1.9.1  A friendly language for building type-safe, scalable systems!  https://gleam.run 
- glib  2.84.0-1  Library providing core building blocks for libraries and applications written in C  https://developer.gnome.org/glib/ 
- glib-bin  2.84.0-1  Programs for the GLib library  https://developer.gnome.org/glib/ 
- glib-cross  2.84.0-1  glib for host (NOT for Termux)  https://developer.gnome.org/glib/ 
+ glib  2.84.0-2  Library providing core building blocks for libraries and applications written in C  https://developer.gnome.org/glib/ 
+ glib-bin  2.84.0-2  Programs for the GLib library  https://developer.gnome.org/glib/ 
+ glib-cross  2.84.0-2  glib for host (NOT for Termux)  https://developer.gnome.org/glib/ 
  glib-networking  2.80.1  Network-related giomodules for glib  https://gitlab.gnome.org/GNOME/glib-networking 
  glibc-repo  1.0  A package repository containing glibc-based programs and libraries  https://github.com/termux/glibc-packages 
  glm  1.0.1  C++ mathematics library for graphics software based on the GLSL specifications  https://glm.g-truc.net/ 
@@ -910,7 +910,7 @@
  libc-client-static  2007f-3  Static libraries for libc-client  https://www.washington.edu/imap/ 
  libcaca  0.99.beta20-2  Graphics library that outputs text instead of pixels  http://caca.zoy.org/wiki/libcaca 
  libcaca-static  0.99.beta20-2  Static libraries for libcaca  http://caca.zoy.org/wiki/libcaca 
- libcairo  1.18.4  Cairo 2D vector graphics library  https://cairographics.org 
+ libcairo  1.18.4-1  Cairo 2D vector graphics library  https://cairographics.org 
  libcairomm-1.0  1.14.5  Provides a C++ interface to cairo  https://www.cairographics.org/cairomm/ 
  libcairomm-1.16  1.18.0  Provides a C++ interface to cairo  https://www.cairographics.org/cairomm/ 
  libcap  2.69  POSIX 1003.1e capabilities  https://sites.google.com/site/fullycapable/ 
@@ -1342,7 +1342,7 @@
  libseccomp-static  2.5.5-3  Static libraries for libseccomp  https://github.com/seccomp/libseccomp 
  libsecp256k1  1:0.6.0  Optimized c library for ECDSA signatures and seret/public key operations on curve secp256k1  https://github.com/bitcoin-core/secp256k1 
  libsecp256k1-static  1:0.6.0  Static libraries for libsecp256k1  https://github.com/bitcoin-core/secp256k1 
- libsecret  0.21.7  A GObject-based library for accessing the Secret Service API  https://gitlab.gnome.org/GNOME/libsecret 
+ libsecret  0.21.7-1  A GObject-based library for accessing the Secret Service API  https://gitlab.gnome.org/GNOME/libsecret 
  libsfdo  0.1.3  A collection of libraries which implement some of the freedesktop.org specifications.  https://gitlab.freedesktop.org/vyivel/libsfdo 
  libshout  2.4.6  Library which can be used to write a source client like ices.  https://icecast.org/ 
  libshout-static  2.4.6  Static libraries for libshout  https://icecast.org/ 
@@ -1918,7 +1918,7 @@
  panda3d  1.10.15  A framework for 3D rendering and game development for Python and C++ programs  https://www.panda3d.org/ 
  panda3d-samples  1.10.15  Python sample programs that use Panda3D  https://www.panda3d.org/ 
  panda3d-static  1.10.15  Static libraries for panda3d  https://www.panda3d.org/ 
- pango  1.56.3  Library for laying out and rendering text  https://www.gtk.org/docs/architecture/pango 
+ pango  1.56.3-1  Library for laying out and rendering text  https://www.gtk.org/docs/architecture/pango 
  paperkey  1.6  Archive OpenPGP keys on paper  http://www.jabberwocky.com/software/paperkey/ 
  par2  0.8.1-4  par2cmdline is a PAR 2.0 compatible file verification and repair tool  https://github.com/Parchive/par2cmdline 
  parallel  20250322  GNU Parallel is a shell tool for executing jobs in parallel using one or more machines  https://www.gnu.org/software/parallel/ 
@@ -2117,8 +2117,8 @@
  qemu-utils  1:8.2.6-5  A set of utilities for working with the QEMU emulators  https://www.qemu.org 
  qhull  8.1-alpha3-0  Calculate convex hulls and related structures  http://www.qhull.org 
  qhull-static  8.1-alpha3-0  Static libraries for qhull  http://www.qhull.org 
- qpdf  12.0.0  Content-Preserving PDF Transformation System  http://qpdf.sourceforge.net 
- qpdf-static  12.0.0  Static libraries for qpdf  http://qpdf.sourceforge.net 
+ qpdf  12.1.0  Content-Preserving PDF Transformation System  http://qpdf.sourceforge.net 
+ qpdf-static  12.1.0  Static libraries for qpdf  http://qpdf.sourceforge.net 
  qrsspig  0.8.0-5  Headless QRSS grabber for Raspberry Pi's  https://gitlab.com/hb9fxx/qrsspig 
  quick-lint-js  3.2.0  Finds bugs in JavaScript programs  https://quick-lint-js.com/ 
  quickjs  1:20240113  QuickJS is a small and embeddable Javascript engine  https://bellard.org/quickjs/ 
@@ -2544,7 +2544,7 @@
  upx  5.0.0  the Ultimate Packer for eXecutables  https://upx.github.io/ 
  urdfdom  4.0.1  Unified Robot Description Format (URDF) parser library and tools  https://github.com/ros/urdfdom 
  urdfdom-headers  1.1.2  Headers for URDF parsers  https://github.com/ros/urdfdom_headers 
- usql  0.19.20  A universal command-line interface for SQL databases  https://github.com/xo/usql 
+ usql  0.19.21  A universal command-line interface for SQL databases  https://github.com/xo/usql 
  utf8cpp  4.0.6  UTF8-CPP: UTF-8 with C++ in a Portable Way  https://github.com/nemtrif/utfcpp 
  utf8proc  2.10.0  Library for processing UTF-8 Unicode data  https://github.com/JuliaLang/utf8proc 
  utf8proc-static  2.10.0  Static libraries for utf8proc  https://github.com/JuliaLang/utf8proc 
