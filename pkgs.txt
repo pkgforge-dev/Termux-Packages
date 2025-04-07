@@ -131,12 +131,12 @@
  bgrep  1.0-4  Binary string grep tool  https://debugmo.de/2009/04/bgrep-a-binary-grep/ 
  biboumi  9.0-4  An XMPP gateway that connects to IRC servers and translates between the two protocols  https://biboumi.louiz.org/ 
  binaryen  123  Binaryen is a compiler and toolchain infrastructure library for WebAssembly  https://github.com/WebAssembly/binaryen 
- binutils  2.44  GNU Binutils (metapackage)  https://www.gnu.org/software/binutils/ 
- binutils-bin  2.44  Collection of binary tools, the main ones being ld, the GNU linker, and as, the GNU assembler  https://www.gnu.org/software/binutils/ 
- binutils-cross  2.44  GNU Binutils for cross build on the host (NOT for Termux)  https://www.gnu.org/software/binutils/ 
- binutils-gold  2.44  gold linker  https://www.gnu.org/software/binutils/ 
+ binutils  2.44-3  GNU Binutils (metapackage)  https://www.gnu.org/software/binutils/ 
+ binutils-bin  2.44-3  Collection of binary tools, the main ones being ld, the GNU linker, and as, the GNU assembler  https://www.gnu.org/software/binutils/ 
+ binutils-cross  2.44-3  GNU Binutils for cross build on the host (NOT for Termux)  https://www.gnu.org/software/binutils/ 
+ binutils-gold  2.44-3  gold linker  https://www.gnu.org/software/binutils/ 
  binutils-is-llvm  0.3-3  Use llvm as binutils  https://github.com/trentbuck/binutils-is-llvm 
- binutils-libs  2.44  GNU Binutils libraries  https://www.gnu.org/software/binutils/ 
+ binutils-libs  2.44-3  GNU Binutils libraries  https://www.gnu.org/software/binutils/ 
  bionic-host  8.0.0-r51-5  bionic libc, libm, libdl and dynamic linker for ubuntu host  https://android.googlesource.com/platform/bionic/ 
  bison  3.8.2-3  General-purpose parser generator  https://www.gnu.org/software/bison/ 
  bison-static  3.8.2-3  Static libraries for bison  https://www.gnu.org/software/bison/ 
@@ -769,7 +769,7 @@
  jack  0.0.1  A metapackage that provides JACK Audio Connection Kit  https://github.com/termux/termux-packages 
  jack-example-tools  4  Official JACK example clients and tools  https://jackaudio.org/ 
  jack2  1.9.22-1  The JACK low-latency audio server  https://jackaudio.org/ 
- jackett  0.22.1733  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
+ jackett  0.22.1740  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
  janet  1.38.0  Janet is a dialect of Lisp intended for embedding into programs and such  https://janet-lang.org 
  jbig2dec  0.20  Decoder implementation of the JBIG2 image compression format  https://jbig2dec.com/ 
  jbig2dec-static  0.20  Static libraries for jbig2dec  https://jbig2dec.com/ 
@@ -2561,7 +2561,7 @@
  valac-static  0.56.18  Static libraries for valac  https://wiki.gnome.org/Projects/Vala 
  valadoc  0.56.18  API documentation generator for vala  https://wiki.gnome.org/Projects/Vala 
  valadoc-static  0.56.18  Static libraries for valadoc  https://wiki.gnome.org/Projects/Vala 
- vale  3.11.1  A syntax-aware linter for prose built with speed and extensibility in mind  https://vale.sh 
+ vale  3.11.2  A syntax-aware linter for prose built with speed and extensibility in mind  https://vale.sh 
  valgrind  3.22.0-1  Instrumentation framework for building dynamic analysis tools  https://valgrind.org/ 
  valgrind-static  3.22.0-1  Static libraries for valgrind  https://valgrind.org/ 
  vamp-plugin-sdk  2.10-2  An API for audio analysis and feature extraction plugins  https://www.vamp-plugins.org/ 
