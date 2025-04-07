@@ -695,7 +695,7 @@
   Description: Decentralized file system integrating with TRON network and Bittorrent network
   Homepage: https://www.bittorrent.com/btfs/
 - Package: buf
-  Version: 1.51.0
+  Version: 1.52.0
   Description: A new way of working with Protocol Buffers
   Homepage: https://buf.build
 - Package: build-essential
@@ -2303,15 +2303,15 @@
   Description: A friendly language for building type-safe, scalable systems!
   Homepage: https://gleam.run
 - Package: glib
-  Version: 2.84.0-2
+  Version: 2.84.1
   Description: Library providing core building blocks for libraries and applications written in C
   Homepage: https://developer.gnome.org/glib/
 - Package: glib-bin
-  Version: 2.84.0-2
+  Version: 2.84.1
   Description: Programs for the GLib library
   Homepage: https://developer.gnome.org/glib/
 - Package: glib-cross
-  Version: 2.84.0-2
+  Version: 2.84.1
   Description: glib for host (NOT for Termux)
   Homepage: https://developer.gnome.org/glib/
 - Package: glib-networking
@@ -6443,7 +6443,7 @@
   Description: Tracks runtime library calls in dynamically linked programs
   Homepage: http://www.ltrace.org/
 - Package: lua-language-server
-  Version: 3.13.9
+  Version: 3.14.0
   Description: Sumneko Lua Language Server coded in Lua
   Homepage: https://github.com/sumneko/lua-language-server
 - Package: lua-lgi
@@ -10375,7 +10375,7 @@
   Description: Utilities for testing and working with virtual terminals
   Homepage: https://github.com/fornwall/vtutils
 - Package: vulkan-extension-layer
-  Version: 1.4.311
+  Version: 1.4.312
   Description: Vulkan Extension Layer
   Homepage: https://github.com/KhronosGroup/Vulkan-ExtensionLayer
 - Package: vulkan-headers
@@ -10399,7 +10399,7 @@
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
-  Version: 1.4.311
+  Version: 1.4.312
   Description: Vulkan Tools and Utilities
   Homepage: https://github.com/KhronosGroup/Vulkan-Tools
 - Package: vulkan-utility-libraries
