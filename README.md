@@ -1311,8 +1311,8 @@
 | **libpopt** | 1.19-2 | Library for parsing cmdline parameters | https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html |
 | **libpopt-static** | 1.19-2 | Static libraries for libpopt | https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html |
 | **libprotobuf** | 2:30.0-1 | Protocol buffers C++ library | https://github.com/protocolbuffers/protobuf |
-| **libprotobuf-c** | 1.5.1-2 | Protocol buffers C library | https://github.com/protobuf-c/protobuf-c |
-| **libprotobuf-c-static** | 1.5.1-2 | Static libraries for libprotobuf-c | https://github.com/protobuf-c/protobuf-c |
+| **libprotobuf-c** | 1.5.2 | Protocol buffers C library | https://github.com/protobuf-c/protobuf-c |
+| **libprotobuf-c-static** | 1.5.2 | Static libraries for libprotobuf-c | https://github.com/protobuf-c/protobuf-c |
 | **libprotozero** | 1.7.1 | Minimalistic protocol buffer decoder and encoder in C++ | https://github.com/mapbox/protozero |
 | **libpsl** | 0.21.5 | Public Suffix List library | https://github.com/rockdaboot/libpsl |
 | **libpsl-static** | 0.21.5 | Static libraries for libpsl | https://github.com/rockdaboot/libpsl |
@@ -2221,7 +2221,7 @@
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.6.1 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
 | **rust** | 1.86.0 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
-| **rust-analyzer** | 20250331 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
+| **rust-analyzer** | 20250407 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
 | **rust-bindgen** | 0.71.1 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
 | **rust-docs** | 1.86.0 | Rust documentation | https://www.rust-lang.org/ |
 | **rust-src** | 1.86.0 | Rust source code files | https://www.rust-lang.org/ |

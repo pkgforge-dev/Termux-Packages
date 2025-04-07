@@ -7807,13 +7807,13 @@
   },
   {
     "Package": "libprotobuf-c",
-    "Version": "1.5.1-2",
+    "Version": "1.5.2",
     "Description": "Protocol buffers C library",
     "Homepage": "https://github.com/protobuf-c/protobuf-c"
   },
   {
     "Package": "libprotobuf-c-static",
-    "Version": "1.5.1-2",
+    "Version": "1.5.2",
     "Description": "Static libraries for libprotobuf-c",
     "Homepage": "https://github.com/protobuf-c/protobuf-c"
   },
@@ -13267,7 +13267,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20250331",
+    "Version": "20250407",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://rust-analyzer.github.io/"
   },
