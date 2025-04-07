@@ -143,12 +143,12 @@
 | **bgrep** | 1.0-4 | Binary string grep tool | https://debugmo.de/2009/04/bgrep-a-binary-grep/ |
 | **biboumi** | 9.0-4 | An XMPP gateway that connects to IRC servers and translates between the two protocols | https://biboumi.louiz.org/ |
 | **binaryen** | 123 | Binaryen is a compiler and toolchain infrastructure library for WebAssembly | https://github.com/WebAssembly/binaryen |
-| **binutils** | 2.43.1 | GNU Binutils (metapackage) | https://www.gnu.org/software/binutils/ |
-| **binutils-bin** | 2.43.1 | Collection of binary tools, the main ones being ld, the GNU linker, and as, the GNU assembler | https://www.gnu.org/software/binutils/ |
-| **binutils-cross** | 2.43.1 | GNU Binutils for cross build on the host (NOT for Termux) | https://www.gnu.org/software/binutils/ |
-| **binutils-gold** | 2.43.1 | gold linker | https://www.gnu.org/software/binutils/ |
+| **binutils** | 2.44 | GNU Binutils (metapackage) | https://www.gnu.org/software/binutils/ |
+| **binutils-bin** | 2.44 | Collection of binary tools, the main ones being ld, the GNU linker, and as, the GNU assembler | https://www.gnu.org/software/binutils/ |
+| **binutils-cross** | 2.44 | GNU Binutils for cross build on the host (NOT for Termux) | https://www.gnu.org/software/binutils/ |
+| **binutils-gold** | 2.44 | gold linker | https://www.gnu.org/software/binutils/ |
 | **binutils-is-llvm** | 0.3-3 | Use llvm as binutils | https://github.com/trentbuck/binutils-is-llvm |
-| **binutils-libs** | 2.43.1 | GNU Binutils libraries | https://www.gnu.org/software/binutils/ |
+| **binutils-libs** | 2.44 | GNU Binutils libraries | https://www.gnu.org/software/binutils/ |
 | **bionic-host** | 8.0.0-r51-5 | bionic libc, libm, libdl and dynamic linker for ubuntu host | https://android.googlesource.com/platform/bionic/ |
 | **bison** | 3.8.2-3 | General-purpose parser generator | https://www.gnu.org/software/bison/ |
 | **bison-static** | 3.8.2-3 | Static libraries for bison | https://www.gnu.org/software/bison/ |
