@@ -1163,7 +1163,7 @@
   Description: A set of utilities for working with Cue Sheet (cue) and Table of Contents (toc) files
   Homepage: https://github.com/svend/cuetools
 - Package: cups
-  Version: 2.4.11
+  Version: 2.4.12
   Description: Common UNIX Printing System
   Homepage: https://www.cups.org/
 - Package: cups-pdf
@@ -1171,7 +1171,7 @@
   Description: CUPS PDF backend
   Homepage: https://www.cups-pdf.de/
 - Package: cups-static
-  Version: 2.4.11
+  Version: 2.4.12
   Description: Static libraries for cups
   Homepage: https://www.cups.org/
 - Package: curl
@@ -3083,7 +3083,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.1740
+  Version: 0.22.1744
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: janet
@@ -9119,7 +9119,7 @@
   Description: A simple heat transfer simulator in pure Rust
   Homepage: https://github.com/file-acomplaint/simuwaerm
 - Package: sing-box
-  Version: 1.11.6
+  Version: 1.11.7
   Description: The universal proxy platform
   Homepage: https://sing-box.sagernet.org
 - Package: skate
