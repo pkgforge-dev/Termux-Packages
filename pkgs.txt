@@ -567,7 +567,7 @@
  git-lfs  3.6.1  Git extension for versioning large files  https://git-lfs.github.com/ 
  git-sizer  1.5.0-4  Compute various size metrics for a Git repository  https://github.com/github/git-sizer 
  git-svn  2.49.0  Convert between Git and Subversion repositories  https://git-scm.com/ 
- gitea  1.23.6  Git with a cup of tea, painless self-hosted git service  https://gitea.io 
+ gitea  1.23.7  Git with a cup of tea, painless self-hosted git service  https://gitea.io 
  gitflow-avh  1.12.3-9  Extend git with Vincent Driessen's branching model. The AVH Edition adds more functionality.  https://github.com/petervanderdoes/gitflow/ 
  gitoxide  0.42.0  Rust implementation of Git  https://github.com/Byron/gitoxide 
  gitui  0.27.0-2  Blazing fast terminal-ui for git written in rust  https://github.com/extrawurst/gitui 
@@ -790,7 +790,7 @@
  jq  1.7.1  Command-line JSON processor  https://stedolan.github.io/jq/ 
  jq-lsp  0.1.11  jq language server  https://github.com/wader/jq-lsp 
  jq-static  1.7.1  Static libraries for jq  https://stedolan.github.io/jq/ 
- jql  8.0.4  A JSON Query Language CLI tool  https://github.com/yamafaktory/jql 
+ jql  8.0.5  A JSON Query Language CLI tool  https://github.com/yamafaktory/jql 
  json-c  0.18  A JSON implementation in C  https://github.com/json-c/json-c/wiki 
  json-c-static  0.18  Static libraries for json-c  https://github.com/json-c/json-c/wiki 
  json-glib  1.10.6  GLib JSON manipulation library  https://wiki.gnome.org/Projects/JsonGlib 
@@ -1093,7 +1093,7 @@
  libimobiledevice-glue-static  1.3.1  Static libraries for libimobiledevice-glue  https://libimobiledevice.org/ 
  libimobiledevice-static  1.3.0-p20250228-0  Static libraries for libimobiledevice  https://libimobiledevice.org/ 
  libimtui  1.0.5-1  An immediate mode text-based user interface library  https://github.com/ggerganov/imtui 
- libinih  59  A simple .INI file parser written in C  https://github.com/benhoyt/inih 
+ libinih  60  A simple .INI file parser written in C  https://github.com/benhoyt/inih 
  libiniparser  4.2.6  Offers parsing of ini files from the C level  https://github.com/ndevilla/iniparser 
  libiniparser-static  4.2.6  Static libraries for libiniparser  https://github.com/ndevilla/iniparser 
  libiodbc  3.52.16  Independent Open DataBase Connectivity for Linux, MacOS X and Unix systems  https://www.iodbc.org/ 

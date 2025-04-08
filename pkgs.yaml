@@ -2275,7 +2275,7 @@
   Description: Convert between Git and Subversion repositories
   Homepage: https://git-scm.com/
 - Package: gitea
-  Version: 1.23.6
+  Version: 1.23.7
   Description: Git with a cup of tea, painless self-hosted git service
   Homepage: https://gitea.io
 - Package: gitflow-avh
@@ -3167,7 +3167,7 @@
   Description: Static libraries for jq
   Homepage: https://stedolan.github.io/jq/
 - Package: jql
-  Version: 8.0.4
+  Version: 8.0.5
   Description: A JSON Query Language CLI tool
   Homepage: https://github.com/yamafaktory/jql
 - Package: json-c
@@ -4379,7 +4379,7 @@
   Description: An immediate mode text-based user interface library
   Homepage: https://github.com/ggerganov/imtui
 - Package: libinih
-  Version: "59"
+  Version: "60"
   Description: A simple .INI file parser written in C
   Homepage: https://github.com/benhoyt/inih
 - Package: libiniparser
