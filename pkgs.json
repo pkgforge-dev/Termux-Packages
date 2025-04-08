@@ -2353,7 +2353,7 @@
   },
   {
     "Package": "duckdb",
-    "Version": "1.2.1",
+    "Version": "1.2.2",
     "Description": "DuckDB Command Line Interface (CLI) shell",
     "Homepage": "https://duckdb.org/"
   },
@@ -5845,13 +5845,13 @@
   },
   {
     "Package": "libduckdb",
-    "Version": "1.2.1",
+    "Version": "1.2.2",
     "Description": "An in-process SQL OLAP database management system",
     "Homepage": "https://duckdb.org/"
   },
   {
     "Package": "libduckdb-static",
-    "Version": "1.2.1",
+    "Version": "1.2.2",
     "Description": "Static libraries for libduckdb",
     "Homepage": "https://duckdb.org/"
   },
