@@ -2207,7 +2207,7 @@
   Description: GitHub’s official command line tool
   Homepage: https://cli.github.com/
 - Package: ghc
-  Version: 9.2.5-1
+  Version: 9.12.2
   Description: The Glasgow Haskell Compiler
   Homepage: https://www.haskell.org/ghc/
 - Package: ghc-libs
@@ -9059,7 +9059,7 @@
   Description: Executing shell commands via HTTP server
   Homepage: https://github.com/msoap/shell2http
 - Package: shellcheck
-  Version: 0.10.0-1
+  Version: 0.10.0-2
   Description: Shell script analysis tool
   Homepage: https://www.shellcheck.net/
 - Package: shellharden
