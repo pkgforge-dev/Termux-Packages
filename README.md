@@ -535,7 +535,7 @@
 | **gawk-static** | 5.3.1 | Static libraries for gawk | https://www.gnu.org/software/gawk/ |
 | **gbt** | 2.0.0-6 | Highly configurable prompt builder for Bash and ZSH written in Go | https://github.com/jtyr/gbt |
 | **gcal** | 4.1-3 | Program for calculating and printing calendars | https://www.gnu.org/software/gcal/ |
-| **gdal** | 3.10.2-1 | A translator library for raster and vector geospatial data formats | https://gdal.org |
+| **gdal** | 3.10.3 | A translator library for raster and vector geospatial data formats | https://gdal.org |
 | **gdal-static** | 3.5.3 | Static libraries for gdal | https://gdal.org |
 | **gdb** | 15.2 | The standard GNU Debugger that runs on many Unix-like systems and works for many programming languages | https://www.gnu.org/software/gdb/ |
 | **gdbm** | 1.24 | Library of database functions that use extensible hashing | https://www.gnu.org.ua/software/gdbm/ |
@@ -1394,9 +1394,9 @@
 | **libspice-protocol** | 0.14.4 | SPICE protocol headers | https://www.spice-space.org/ |
 | **libspice-server** | 0.15.2 | Implements the server side of the SPICE protocol | https://www.spice-space.org/ |
 | **libspice-server-static** | 0.15.2 | Static libraries for libspice-server | https://www.spice-space.org/ |
-| **libsqlite** | 3.49.1-1 | Library implementing a self-contained and transactional SQL database engine | https://www.sqlite.org |
-| **libsqlite-static** | 3.49.1-1 | Static libraries for libsqlite | https://www.sqlite.org |
-| **libsqlite-tcl** | 3.49.1-1 | tcl bindings for SQLite | https://www.sqlite.org |
+| **libsqlite** | 3.49.1-2 | Library implementing a self-contained and transactional SQL database engine | https://www.sqlite.org |
+| **libsqlite-static** | 3.49.1-2 | Static libraries for libsqlite | https://www.sqlite.org |
+| **libsqlite-tcl** | 3.49.1-2 | tcl bindings for SQLite | https://www.sqlite.org |
 | **libsrt** | 1.5.4 | Secure Reliable Transport (SRT) Protocol | https://github.com/Haivision/srt |
 | **libssh** | 0.11.1 | Tiny C SSH library | https://www.libssh.org/ |
 | **libssh2** | 1.11.1 | Client-side library implementing the SSH2 protocol | https://www.libssh2.org |
@@ -2331,7 +2331,7 @@
 | **spirv-tools** | 1.4.309.0 | SPIR-V Tools | https://github.com/KhronosGroup/SPIRV-Tools |
 | **sqlcipher** | 4.6.1 | SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files | https://github.com/sqlcipher/sqlcipher |
 | **sqlcipher-static** | 4.6.1 | Static libraries for sqlcipher | https://github.com/sqlcipher/sqlcipher |
-| **sqlite** | 3.49.1-1 | Command line shell for SQLite | https://www.sqlite.org |
+| **sqlite** | 3.49.1-2 | Command line shell for SQLite | https://www.sqlite.org |
 | **squashfs-tools-ng** | 1.3.2 | New set of tools for working with SquashFS images | https://github.com/AgentD/squashfs-tools-ng |
 | **squashfs-tools-ng-static** | 1.3.2 | Static libraries for squashfs-tools-ng | https://github.com/AgentD/squashfs-tools-ng |
 | **squeezelite** | 2.0.0.1517 | A small headless Logitech Squeezebox emulator | https://ralph-irving.github.io/squeezelite.html |

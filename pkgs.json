@@ -3151,7 +3151,7 @@
   },
   {
     "Package": "gdal",
-    "Version": "3.10.2-1",
+    "Version": "3.10.3",
     "Description": "A translator library for raster and vector geospatial data formats",
     "Homepage": "https://gdal.org"
   },
@@ -8305,19 +8305,19 @@
   },
   {
     "Package": "libsqlite",
-    "Version": "3.49.1-1",
+    "Version": "3.49.1-2",
     "Description": "Library implementing a self-contained and transactional SQL database engine",
     "Homepage": "https://www.sqlite.org"
   },
   {
     "Package": "libsqlite-static",
-    "Version": "3.49.1-1",
+    "Version": "3.49.1-2",
     "Description": "Static libraries for libsqlite",
     "Homepage": "https://www.sqlite.org"
   },
   {
     "Package": "libsqlite-tcl",
-    "Version": "3.49.1-1",
+    "Version": "3.49.1-2",
     "Description": "tcl bindings for SQLite",
     "Homepage": "https://www.sqlite.org"
   },
@@ -13927,7 +13927,7 @@
   },
   {
     "Package": "sqlite",
-    "Version": "3.49.1-1",
+    "Version": "3.49.1-2",
     "Description": "Command line shell for SQLite",
     "Homepage": "https://www.sqlite.org"
   },
