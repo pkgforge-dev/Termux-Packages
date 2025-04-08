@@ -1045,7 +1045,7 @@
   },
   {
     "Package": "buf",
-    "Version": "1.52.0",
+    "Version": "1.52.1",
     "Description": "A new way of working with Protocol Buffers",
     "Homepage": "https://buf.build"
   },
@@ -1087,7 +1087,7 @@
   },
   {
     "Package": "c-ares",
-    "Version": "1.34.4",
+    "Version": "1.34.5",
     "Description": "Library for asynchronous DNS requests (including name resolves)",
     "Homepage": "https://c-ares.org/"
   },
@@ -9541,13 +9541,13 @@
   },
   {
     "Package": "llvm-mingw-w64",
-    "Version": "20241030",
+    "Version": "20250402",
     "Description": "MinGW-w64 toolchain based on LLVM",
     "Homepage": "https://github.com/mstorsjo/llvm-mingw"
   },
   {
     "Package": "llvm-mingw-w64-libcompiler-rt",
-    "Version": "20241030",
+    "Version": "20250402",
     "Description": "Compiler runtime libraries for LLVM-MinGW",
     "Homepage": "https://www.llvm.org/"
   },
@@ -9559,7 +9559,7 @@
   },
   {
     "Package": "llvm-mingw-w64-ucrt",
-    "Version": "20241030",
+    "Version": "20250402",
     "Description": "MinGW-w64 runtime for LLVM-MinGW",
     "Homepage": "https://www.mingw-w64.org/"
   },
