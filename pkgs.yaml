@@ -746,10 +746,6 @@
   Version: 1:2025.02.25
   Description: Common CA certificates (java keystore format)
   Homepage: https://curl.se/docs/caextract.html
-- Package: cabal-install
-  Version: 3.8.1.0
-  Description: The command-line interface for Haskell-Cabal and Hackage
-  Homepage: https://www.haskell.org/cabal/
 - Package: cabextract
   Version: "1.11"
   Description: A program to extract Microsoft cabinet (.CAB) files
@@ -6831,7 +6827,7 @@
   Description: General-purpose software audio FSK modem
   Homepage: http://www.whence.com/minimodem/
 - Package: minio
-  Version: 2025.04.03.14.56.28
+  Version: 2025.04.08.15.41.24
   Description: Multi-Cloud Object Storage
   Homepage: https://min.io/
 - Package: miniserve

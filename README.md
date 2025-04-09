@@ -197,7 +197,6 @@
 | **c-toxcore-static** | 0.2.20-p20250105-0 | Static libraries for c-toxcore | https://tox.chat |
 | **ca-certificates** | 1:2025.02.25 | Common CA certificates | https://curl.se/docs/caextract.html |
 | **ca-certificates-java** | 1:2025.02.25 | Common CA certificates (java keystore format) | https://curl.se/docs/caextract.html |
-| **cabal-install** | 3.8.1.0 | The command-line interface for Haskell-Cabal and Hackage | https://www.haskell.org/cabal/ |
 | **cabextract** | 1.11 | A program to extract Microsoft cabinet (.CAB) files | https://www.cabextract.org.uk/ |
 | **cadaver** | 0.26 | A command-line WebDAV client for Unix | https://notroj.github.io/cadaver/ |
 | **caddy** | 2.9.1 | Fast, cross-platform HTTP/2 web server | https://caddyserver.com/ |
@@ -1718,7 +1717,7 @@
 | **minidlna** | 1.3.3-2 | A server software with the aim of being fully compliant with DLNA/UPnP-AV clients | https://sourceforge.net/projects/minidlna/ |
 | **miniflux** | 2.2.7 | A minimalist and opinionated feed reader | https://miniflux.app/ |
 | **minimodem** | 0.24-1-0 | General-purpose software audio FSK modem | http://www.whence.com/minimodem/ |
-| **minio** | 2025.04.03.14.56.28 | Multi-Cloud Object Storage | https://min.io/ |
+| **minio** | 2025.04.08.15.41.24 | Multi-Cloud Object Storage | https://min.io/ |
 | **miniserve** | 0.29.0 | Tool to serve files and dirs over HTTP | https://github.com/svenstaro/miniserve |
 | **minisign** | 0.12 | A dead simple tool to sign files and verify signatures | https://jedisct1.github.io/minisign/ |
 | **miniupnpc** | 2.3.2 | Small UPnP client library and tool to access Internet Gateway Devices | https://miniupnp.tuxfamily.org/ |
