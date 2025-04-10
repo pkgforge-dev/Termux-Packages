@@ -2053,7 +2053,7 @@
 | **pystring** | 1.1.4 | C++ functions matching the interface and behavior of python string methods with std::string | https://github.com/imageworks/pystring |
 | **python** | 3.12.10 | Python 3 programming language intended to enable clear programs | https://python.org/ |
 | **python-apsw** | 3.49.1.0 | Another Python SQLite Wrapper | https://github.com/rogerbinns/apsw/ |
-| **python-apt** | 2.9.9 | Python bindings for APT | https://apt-team.pages.debian.net/python-apt/ |
+| **python-apt** | 3.0.0 | Python bindings for APT | https://apt-team.pages.debian.net/python-apt/ |
 | **python-bcrypt** | 4.3.0 | Acceptable password hashing for your software and your servers | https://github.com/pyca/bcrypt |
 | **python-brotli** | 1.1.0-2 | lossless compression algorithm and format (Python bindings) | https://github.com/google/brotli |
 | **python-contourpy** | 1.3.1 | Python library for calculating contours in 2D quadrilateral grids | https://contourpy.readthedocs.io/ |
@@ -2703,7 +2703,7 @@
 | **zopfli** | 1.0.3-3 | New zlib compatible compressor tools | https://github.com/google/zopfli |
 | **zoxide** | 0.9.7 | A faster way to navigate your filesystem | https://github.com/ajeetdsouza/zoxide |
 | **zpaq** | 7.15 | Programmable file compressor, library and utilities. Based on the PAQ compression algorithm | http://mattmahoney.net/dc/zpaq.html |
-| **zrok** | 1.0.1 | An open source sharing solution built on OpenZiti. | https://zrok.io/ |
+| **zrok** | 1.0.2 | An open source sharing solution built on OpenZiti. | https://zrok.io/ |
 | **zsh** | 5.9-7 | Shell with lots of features | https://www.zsh.org |
 | **zsh-completions** | 0.35.0 | Additional completion definitions for Zsh | https://github.com/zsh-users/zsh-completions |
 | **zssh** | 1.5c-1 | A program for interactively transferring files to a remote machine while using the secure shell (ssh) | http://zssh.sourceforge.net/ |
