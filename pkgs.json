@@ -1969,7 +1969,7 @@
   },
   {
     "Package": "direnv",
-    "Version": "2.35.0",
+    "Version": "2.36.0",
     "Description": "Environment switcher for shell",
     "Homepage": "https://github.com/direnv/direnv"
   },
@@ -3253,13 +3253,13 @@
   },
   {
     "Package": "geth",
-    "Version": "1.15.7",
+    "Version": "1.15.8",
     "Description": "Go implementation of the Ethereum protocol",
     "Homepage": "https://geth.ethereum.org/"
   },
   {
     "Package": "geth-utils",
-    "Version": "1.15.7",
+    "Version": "1.15.8",
     "Description": "Additional utilities for Geth (like abigen, bootnode, evm, puppeth)",
     "Homepage": "https://geth.ethereum.org/"
   },
@@ -10915,7 +10915,7 @@
   },
   {
     "Package": "nlohmann-json",
-    "Version": "3.11.3",
+    "Version": "3.12.0",
     "Description": "JSON for Modern C++",
     "Homepage": "https://github.com/nlohmann/json"
   },
@@ -13363,7 +13363,7 @@
   },
   {
     "Package": "sabnzbd",
-    "Version": "4.5.0",
+    "Version": "4.5.1",
     "Description": "Fully automated Usenet Binary Downloader",
     "Homepage": "https://sabnzbd.org/"
   },

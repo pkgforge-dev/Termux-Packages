@@ -338,7 +338,7 @@
 | **difftastic** | 0.63.0 | difft: A structural diff that understands syntax | https://github.com/Wilfred/difftastic |
 | **diffutils** | 3.11 | Programs (cmp, diff, diff3 and sdiff) related to finding differences between files | https://www.gnu.org/software/diffutils/ |
 | **dirb** | 2.22-4 | Web Directory Fuzzer | http://dirb.sourceforge.net/ |
-| **direnv** | 2.35.0 | Environment switcher for shell | https://github.com/direnv/direnv |
+| **direnv** | 2.36.0 | Environment switcher for shell | https://github.com/direnv/direnv |
 | **direvent** | 5.4 | Monitor of events in file system directories | https://www.gnu.org.ua/software/direvent/ |
 | **discordo** | 2022.08.12-3 | A lightweight, secure, and feature-rich Discord terminal client | https://github.com/ayntgl/discordo |
 | **diskus** | 0.8.0 | A minimal, fast alternative to 'du -sh' | https://github.com/sharkdp/diskus |
@@ -552,8 +552,8 @@
 | **geoip2-database** | 20191221-2 | GeoLite2 IP geolocation databases compiled by MaxMind | https://dev.maxmind.com/geoip/geoip2/geolite2/ |
 | **germanium** | 1.2.3-3 | Generate image from source code | https://github.com/matsuyoshi30/germanium |
 | **getconf** | 0.6 | Utility to print configuration values | https://github.com/termux/getconf |
-| **geth** | 1.15.7 | Go implementation of the Ethereum protocol | https://geth.ethereum.org/ |
-| **geth-utils** | 1.15.7 | Additional utilities for Geth (like abigen, bootnode, evm, puppeth) | https://geth.ethereum.org/ |
+| **geth** | 1.15.8 | Go implementation of the Ethereum protocol | https://geth.ethereum.org/ |
+| **geth-utils** | 1.15.8 | Additional utilities for Geth (like abigen, bootnode, evm, puppeth) | https://geth.ethereum.org/ |
 | **gettext** | 0.24 | GNU Internationalization utilities | https://www.gnu.org/software/gettext/ |
 | **gettext-static** | 0.24 | Static libraries for gettext | https://www.gnu.org/software/gettext/ |
 | **gexiv2** | 0.14.3-1 | A GObject-based Exiv2 wrapper | https://wiki.gnome.org/Projects/gexiv2 |
@@ -1829,7 +1829,7 @@
 | **nim** | 2.2.2 | Nim programming language compiler | https://nim-lang.org/ |
 | **ninja** | 1.12.1 | A small build system with a focus on speed | https://ninja-build.org |
 | **ninvaders** | 0.1.2-2 | Space Invaders clone based on ncurses for ASCII output | http://ninvaders.sourceforge.net |
-| **nlohmann-json** | 3.11.3 | JSON for Modern C++ | https://github.com/nlohmann/json |
+| **nlohmann-json** | 3.12.0 | JSON for Modern C++ | https://github.com/nlohmann/json |
 | **nlopt** | 2.10.0 | Library for nonlinear optimization | https://nlopt.readthedocs.io/ |
 | **nmap** | 7.95 | Utility for network discovery and security auditing | https://nmap.org/ |
 | **nmap-ncat** | 7.95 | Feature-packed networking utility which reads and writes data across networks from the command line | https://nmap.org/ |
@@ -2237,7 +2237,7 @@
 | **rustscan** | 2.4.1 | The modern,fast,smart and effective port scanner | https://rustscan.github.io/RustScan |
 | **rw** | 1.0.1 | A Rust implementation of sponge(1) that never write to TMPDIR | https://github.com/jridgewell/rw |
 | **rxfetch** | 2023.01.07 | A custom system info fetching tool | https://github.com/Mangeshrex/rxfetch |
-| **sabnzbd** | 4.5.0 | Fully automated Usenet Binary Downloader | https://sabnzbd.org/ |
+| **sabnzbd** | 4.5.1 | Fully automated Usenet Binary Downloader | https://sabnzbd.org/ |
 | **salty-chat** | 0.0.22-4 | A secure, easy, self-hosted messaging | https://salty.im/ |
 | **samba** | 4.16.11-4 | SMB/CIFS fileserver | https://www.samba.org/ |
 | **samefile** | 2.15-5 | Finds files with identical contents, independent of file name | http://www.schweikhardt.net/samefile/ |
