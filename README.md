@@ -325,7 +325,7 @@
 | **dcmtk** | 3.6.7-4 | A collection of libraries and applications implementing large parts the DICOM standard | https://dicom.offis.de/dcmtk |
 | **dcraw** | 9.28.0-6 | Raw digital camera images decoding utility | https://www.dechifro.org/dcraw/ |
 | **ddrescue** | 1.29.1 | GNU data recovery tool | https://www.gnu.org/software/ddrescue/ |
-| **debianutils** | 5.21 | Small utilities which are used primarily by the installation scripts of Debian packages | https://packages.debian.org/debianutils |
+| **debianutils** | 5.22 | Small utilities which are used primarily by the installation scripts of Debian packages | https://packages.debian.org/debianutils |
 | **debootstrap** | 1.0.140 | Bootstrap a basic Debian system | https://wiki.debian.org/Debootstrap |
 | **desed** | 1.2.2 | Demystifies and debugs your sed scripts | https://github.com/SoptikHa2/desed |
 | **deutex** | 5.2.3 | WAD composer for Doom, Heretic, Hexen, and Strife | https://github.com/Doom-Utils/deutex/ |
