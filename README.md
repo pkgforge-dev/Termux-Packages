@@ -101,7 +101,7 @@
 | **assimp** | 5.4.3-2 | Library to import various well-known 3D model formats in an uniform manner | https://assimp.sourceforge.net/index.html |
 | **assimp-static** | 5.3.1 | Static libraries for assimp | https://assimp.sourceforge.net/index.html |
 | **astra-sm** | 2019.06.19 | Software for digital TV broadcasting | https://gitlab.com/berdyansk/astra-sm |
-| **asymptote** | 3.01 | A powerful descriptive vector graphics language for technical drawing | https://asymptote.sourceforge.io/ |
+| **asymptote** | 3.02 | A powerful descriptive vector graphics language for technical drawing | https://asymptote.sourceforge.io/ |
 | **at** | 3.2.5-1 | AT and batch delayed command scheduling utility and daemon | https://salsa.debian.org/debian/at |
 | **at-spi2-core** | 2.56.1-1 | Assistive Technology Service Provider Interface (AT-SPI) | https://wiki.gnome.org/Accessibility |
 | **atomicparsley** | 1:20240608.083822.1ed9031 | Read, parse and set metadata of MPEG-4 and 3gp files | https://github.com/wez/atomicparsley |
@@ -1542,7 +1542,7 @@
 | **libxi-static** | 1.8.2 | Static libraries for libxi | https://xorg.freedesktop.org/ |
 | **libxls** | 1.6.3 | A C library for reading Excel files in the nasty old binary OLE format | https://github.com/libxls/libxls |
 | **libxls-static** | 1.6.3 | Static libraries for libxls | https://github.com/libxls/libxls |
-| **libxlsxwriter** | 1.2.1 | A C library for creating Excel XLSX files | https://libxlsxwriter.github.io/ |
+| **libxlsxwriter** | 1.2.2 | A C library for creating Excel XLSX files | https://libxlsxwriter.github.io/ |
 | **libxml2** | 2.13.7 | Library for parsing XML documents | http://www.xmlsoft.org |
 | **libxml2-python** | 2.13.7 | Python bindings for libxml2 | http://www.xmlsoft.org |
 | **libxml2-python-static** | 2.13.7 | Static libraries for libxml2-python | http://www.xmlsoft.org |
@@ -2243,7 +2243,7 @@
 | **samefile** | 2.15-5 | Finds files with identical contents, independent of file name | http://www.schweikhardt.net/samefile/ |
 | **samurai** | 1.2-1 | ninja-compatible build tool written in C | https://github.com/michaelforney/samurai |
 | **sassc** | 3.6.2 | libsass command line driver | https://github.com/sass/sassc |
-| **sc-im** | 0.8.4-1 | An improved version of sc, a spreadsheet calculator | https://github.com/andmarti1424/sc-im |
+| **sc-im** | 0.8.4-2 | An improved version of sc, a spreadsheet calculator | https://github.com/andmarti1424/sc-im |
 | **scala** | 3.6.4 | Scala 3 compiler and standard library. | https://www.scala-lang.org |
 | **scc** | 3.5.0 | Counts physical the lines of code, blank lines, comment lines, and physical lines of source code | https://github.com/boyter/scc |
 | **sccache** | 0.10.0 | sccache is ccache with cloud storage | https://github.com/mozilla/sccache |
