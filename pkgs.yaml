@@ -607,7 +607,7 @@
   Description: Bandwidth monitor and rate estimator
   Homepage: https://github.com/tgraf/bmon
 - Package: boinc
-  Version: 8.0.4
+  Version: 8.2.0
   Description: Open-source software for volunteer computing
   Homepage: https://boinc.berkeley.edu/
 - Package: boinctui
@@ -2391,7 +2391,7 @@
   Description: gnuit - GNU Interactive Tools
   Homepage: https://www.gnu.org/software/gnuit/
 - Package: gnunet
-  Version: 0.24.0
+  Version: 0.24.1
   Description: A framework for secure peer-to-peer networking
   Homepage: https://gnunet.org
 - Package: gnunet-static
@@ -10223,7 +10223,7 @@
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
-  Version: 2.0.28
+  Version: 2.0.29
   Description: uWSGI application server container
   Homepage: https://projects.unbit.it/uwsgi
 - Package: v2ray
