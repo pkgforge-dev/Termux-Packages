@@ -12421,13 +12421,13 @@
   },
   {
     "Package": "python-pillow",
-    "Version": "11.1.0",
+    "Version": "11.1.0-1",
     "Description": "Python Imaging Library",
     "Homepage": "https://python-pillow.org/"
   },
   {
     "Package": "python-pip",
-    "Version": "25.0.1",
+    "Version": "25.0.1-1",
     "Description": "The PyPA recommended tool for installing Python packages",
     "Homepage": "https://pip.pypa.io/"
   },
@@ -12505,7 +12505,7 @@
   },
   {
     "Package": "python-torchvision",
-    "Version": "0.21.0",
+    "Version": "0.21.0-1",
     "Description": "Datasets, Transforms and Models specific to Computer Vision",
     "Homepage": "https://github.com/pytorch/vision"
   },
