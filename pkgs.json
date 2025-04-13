@@ -1567,7 +1567,7 @@
   },
   {
     "Package": "command-not-found",
-    "Version": "2.4.0-70",
+    "Version": "2.4.0-71",
     "Description": "Suggest installation of packages in interactive shell sessions",
     "Homepage": "https://github.com/termux/command-not-found"
   },
@@ -4675,7 +4675,7 @@
   },
   {
     "Package": "jftui",
-    "Version": "0.7.2",
+    "Version": "0.7.3",
     "Description": "jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server.",
     "Homepage": "https://github.com/Aanok/jftui"
   },
@@ -11815,7 +11815,7 @@
   },
   {
     "Package": "php-imagick",
-    "Version": "3.7.0-6",
+    "Version": "3.8.0",
     "Description": "The Imagick PHP extension",
     "Homepage": "https://github.com/Imagick/imagick"
   },

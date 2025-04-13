@@ -271,7 +271,7 @@
 | **colm** | 0.14.7-1 | COmputer Language Machinery | https://www.colm.net/open-source/colm/ |
 | **colm-static** | 0.14.7-1 | Static libraries for colm | https://www.colm.net/open-source/colm/ |
 | **colordiff** | 1.0.21 | Tool to colorize 'diff' output | https://www.colordiff.org/ |
-| **command-not-found** | 2.4.0-70 | Suggest installation of packages in interactive shell sessions | https://github.com/termux/command-not-found |
+| **command-not-found** | 2.4.0-71 | Suggest installation of packages in interactive shell sessions | https://github.com/termux/command-not-found |
 | **composer** | 2.8.8 | Dependency Manager for PHP | https://getcomposer.org/ |
 | **console-bridge** | 1.0.2 | A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages | https://github.com/ros/console_bridge |
 | **convertlit** | 1.8-1 | An extractor/converter for .LIT eBooks | http://www.convertlit.com/ |
@@ -789,7 +789,7 @@
 | **jcal** | 0.5.1 | UNIX-cal-like tool to display Jalali (Persian/Iranian) calendar | http://nongnu.org/jcal |
 | **jcal-static** | 0.5.1 | Static libraries for jcal | http://nongnu.org/jcal |
 | **jfrog-cli** | 2.74.1 | A CLI for JFrog products | https://jfrog.com/getcli |
-| **jftui** | 0.7.2 | jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server. | https://github.com/Aanok/jftui |
+| **jftui** | 0.7.3 | jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server. | https://github.com/Aanok/jftui |
 | **jhead** | 3.08 | Exif Jpeg header manipulation tool | http://www.sentex.net/~mwandel/jhead/ |
 | **jigdo** | 0.8.2 | Distribute large images by sending and receiving the files that make them up | http://atterer.org/jigdo/ |
 | **jira-go** | 1.0.28-2 | Simple jira command line client written in Go | https://github.com/go-jira/jira |
@@ -1979,7 +1979,7 @@
 | **php-apcu** | 5.1.24 | APCu - APC User Cache | http://php.net/apcu |
 | **php-fpm** | 8.4.2-1 | FastCGI Process Manager for PHP | https://php.net |
 | **php-gd** | 8.4.2-1 | gd module for PHP | https://php.net |
-| **php-imagick** | 3.7.0-6 | The Imagick PHP extension | https://github.com/Imagick/imagick |
+| **php-imagick** | 3.8.0 | The Imagick PHP extension | https://github.com/Imagick/imagick |
 | **php-ldap** | 8.4.2-1 | LDAP module for PHP | https://php.net |
 | **php-pgsql** | 8.4.2-1 | PostgreSQL modules for PHP | https://php.net |
 | **php-psr** | 1.2.0-3 | PHP extension providing the accepted PSR interfaces | https://github.com/jbboehr/php-psr |
