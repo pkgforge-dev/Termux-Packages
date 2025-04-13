@@ -3079,7 +3079,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.1744
+  Version: 0.22.1773
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: janet
@@ -6155,11 +6155,11 @@
   Description: Library to help create and query binary XML blobs
   Homepage: https://github.com/hughsie/libxmlb
 - Package: libxmlrpc
-  Version: 1.59.03
+  Version: 1.60.05
   Description: XML-RPC for C and C++
   Homepage: https://xmlrpc-c.sourceforge.io/
 - Package: libxmlrpc-static
-  Version: 1.59.03
+  Version: 1.60.05
   Description: Static libraries for libxmlrpc
   Homepage: https://xmlrpc-c.sourceforge.io/
 - Package: libxrandr
