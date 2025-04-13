@@ -480,7 +480,7 @@
 | **flatbuffers-static** | 25.2.10 | Static libraries for flatbuffers | https://github.com/google/flatbuffers |
 | **flex** | 2.6.4-3 | Fast lexical analyser generator | https://github.com/westes/flex |
 | **flex-static** | 2.6.4-3 | Static libraries for flex | https://github.com/westes/flex |
-| **fluidsynth** | 2.4.4 | Software synthesizer based on the SoundFont 2 specifications | https://github.com/FluidSynth/fluidsynth |
+| **fluidsynth** | 2.4.5 | Software synthesizer based on the SoundFont 2 specifications | https://github.com/FluidSynth/fluidsynth |
 | **fm** | 1.1.0 | A terminal based file manager | https://github.com/knipferrc/fm |
 | **fmt** | 1:11.1.4 | Open-source formatting library for C++ | https://fmt.dev/latest/index.html |
 | **fontconfig** | 2.16.2 | Library for configuring and customizing font access | https://www.freedesktop.org/wiki/Software/fontconfig/ |
@@ -1312,8 +1312,8 @@
 | **librasqal-static** | 0.9.33-2 | Static libraries for librasqal | https://librdf.org/rasqal/ |
 | **librav1e** | 0.7.1-3 | An AV1 encoder library focused on speed and safety | https://github.com/xiph/rav1e/ |
 | **librav1e-static** | 0.7.1-3 | Static libraries for librav1e | https://github.com/xiph/rav1e/ |
-| **libraw** | 0.21.3 | Library for reading RAW files from digital cameras | https://www.libraw.org/ |
-| **libraw-static** | 0.21.3 | Static libraries for libraw | https://www.libraw.org/ |
+| **libraw** | 0.21.4 | Library for reading RAW files from digital cameras | https://www.libraw.org/ |
+| **libraw-static** | 0.21.4 | Static libraries for libraw | https://www.libraw.org/ |
 | **libre2** | 2024.07.02-2 | A regular expression library | https://github.com/google/re2 |
 | **libregexp-assemble-perl** | 0.38-6 | Perl module to merge several regular expressions | https://metacpan.org/pod/Regexp::Assemble |
 | **libresolv-wrapper** | 1.1.7-4 | A wrapper for DNS name resolving or DNS faking | https://cwrap.org/resolv_wrapper.html |
