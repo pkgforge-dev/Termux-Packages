@@ -243,7 +243,7 @@
 | **ckermit** | 9.0.302-2 | A combined network and serial communication software package | https://www.kermitproject.org/ckermit.html |
 | **clamav** | 1.4.2-1 | Anti-virus toolkit for Unix | https://www.clamav.net/ |
 | **clamav-static** | 1.4.2-1 | Static libraries for clamav | https://www.clamav.net/ |
-| **clang** | 20.1.2 | C language frontend for LLVM | https://clang.llvm.org/ |
+| **clang** | 20.1.2-1 | C language frontend for LLVM | https://clang.llvm.org/ |
 | **clblast** | 1.6.3 | Tuned OpenCL BLAS | https://github.com/CNugteren/CLBlast |
 | **cliaoke** | 0.2.4-4 | Command line karaoke | https://github.com/jessfraz/cliaoke |
 | **clidle** | 2022.05.25-2 | Play Wordle over SSH | https://github.com/ajeetdsouza/clidle |
@@ -948,7 +948,7 @@
 | **libcoinor-utils** | 1:2.11.11 | An open-source collection of classes and helper functions for COIN-OR projects | https://github.com/coin-or/CoinUtils |
 | **libcoinor-utils-static** | 1:2.11.11 | Static libraries for libcoinor-utils | https://github.com/coin-or/CoinUtils |
 | **libcommons-lang3-java** | 3.17.0 | A host of helper utilities for the java.lang API | https://commons.apache.org/proper/commons-lang/ |
-| **libcompiler-rt** | 20.1.2 | Compiler runtime libraries for clang | https://clang.llvm.org/ |
+| **libcompiler-rt** | 20.1.2-1 | Compiler runtime libraries for clang | https://clang.llvm.org/ |
 | **libconfig** | 1.7.3-3 | C/C++ Configuration File Library | https://github.com/hyperrealm/libconfig |
 | **libconfig-static** | 1.7.3-3 | Static libraries for libconfig | https://github.com/hyperrealm/libconfig |
 | **libconfuse** | 3.3 | Small configuration file parser library for C | https://github.com/martinh/libconfuse |
@@ -1136,8 +1136,8 @@
 | **liblightning-static** | 2.2.3 | Static libraries for liblightning | https://www.gnu.org/software/lightning/ |
 | **libliquid-dsp** | 1.7.0 | Software-defined radio digital signal processing library | https://liquidsdr.org/ |
 | **libliquid-dsp-static** | 1.7.0 | Static libraries for libliquid-dsp | https://liquidsdr.org/ |
-| **libllvm** | 20.1.2 | Modular compiler and toolchain technologies library | https://clang.llvm.org/ |
-| **libllvm-static** | 20.1.2 | Static libraries for libllvm | https://clang.llvm.org/ |
+| **libllvm** | 20.1.2-1 | Modular compiler and toolchain technologies library | https://clang.llvm.org/ |
+| **libllvm-static** | 20.1.2-1 | Static libraries for libllvm | https://clang.llvm.org/ |
 | **liblmdb** | 0.9.33 | LMDB implements a simplified variant of the BerkeleyDB (BDB) API | https://symas.com/lmdb/ |
 | **liblmdb-static** | 0.9.33 | Static libraries for liblmdb | https://symas.com/lmdb/ |
 | **liblo** | 0.32 | A lightweight library that provides an easy to use implementation of the OSC protocol | https://liblo.sourceforge.net/ |
@@ -1306,7 +1306,7 @@
 | **libpngwriter** | 0.7.0 | C++ library for creating PNG images | http://pngwriter.sourceforge.net |
 | **libpngwriter-static** | 0.7.0 | Static libraries for libpngwriter | http://pngwriter.sourceforge.net |
 | **libpoco** | 1.14.1 | A comprehensive set of C++ libraries that cover all modern-day programming needs | https://pocoproject.org/ |
-| **libpolly** | 20.1.2 | High-level loop and data-locality optimizer for clang | https://clang.llvm.org/ |
+| **libpolly** | 20.1.2-1 | High-level loop and data-locality optimizer for clang | https://clang.llvm.org/ |
 | **libpopt** | 1.19-2 | Library for parsing cmdline parameters | https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html |
 | **libpopt-static** | 1.19-2 | Static libraries for libpopt | https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html |
 | **libprotobuf** | 2:30.0-1 | Protocol buffers C++ library | https://github.com/protocolbuffers/protobuf |
@@ -1446,8 +1446,8 @@
 | **libtree-ldd** | 3.1.1-1 | Like ldd(1), but prints a tree(1) like output | https://github.com/haampie/libtree |
 | **libtreesitter** | 0.22.6-1 | An incremental parsing system for programming tools | https://github.com/tree-sitter/tree-sitter |
 | **libtreesitter-static** | 0.22.6-1 | Static libraries for libtreesitter | https://github.com/tree-sitter/tree-sitter |
-| **libtsduck** | 3.39.3956 | An extensible toolkit for MPEG transport streams | https://tsduck.io/ |
-| **libtsduck-static** | 3.39.3956 | Static libraries for libtsduck | https://tsduck.io/ |
+| **libtsduck** | 3.40.4165 | An extensible toolkit for MPEG transport streams | https://tsduck.io/ |
+| **libtsduck-static** | 3.40.4165 | Static libraries for libtsduck | https://tsduck.io/ |
 | **libtvision** | 2023.01.29 | A modern port of Turbo Vision 2.0 with Unicode support | https://github.com/magiblot/tvision |
 | **libtwolame** | 0.4.0 | An optimised MPEG Audio Layer 2 (MP2) encoder | https://www.twolame.org/ |
 | **libtwolame-static** | 0.4.0 | Static libraries for libtwolame | https://www.twolame.org/ |
@@ -1597,14 +1597,14 @@
 | **littlecms-static** | 2.17 | Static libraries for littlecms | http://www.littlecms.com/ |
 | **littlecms-utils** | 2.17 | Color management utilities | http://www.littlecms.com/ |
 | **llbuild** | 6.1 | A low-level build system, used by the Swift Package Manager | https://github.com/swiftlang/swift-llbuild |
-| **lld** | 20.1.2 | LLVM-based linker | https://clang.llvm.org/ |
-| **llvm** | 20.1.2 | LLVM modular compiler and toolchain executables | https://clang.llvm.org/ |
+| **lld** | 20.1.2-1 | LLVM-based linker | https://clang.llvm.org/ |
+| **llvm** | 20.1.2-1 | LLVM modular compiler and toolchain executables | https://clang.llvm.org/ |
 | **llvm-mingw-w64** | 20250402 | MinGW-w64 toolchain based on LLVM | https://github.com/mstorsjo/llvm-mingw |
 | **llvm-mingw-w64-libcompiler-rt** | 20250402 | Compiler runtime libraries for LLVM-MinGW | https://www.llvm.org/ |
 | **llvm-mingw-w64-tools** | 12.0.0 | MinGW-w64 tools for LLVM-MinGW | https://github.com/mstorsjo/llvm-mingw |
 | **llvm-mingw-w64-ucrt** | 20250402 | MinGW-w64 runtime for LLVM-MinGW | https://www.mingw-w64.org/ |
-| **llvm-tools** | 20.1.2 | LLVM Development Tools | https://clang.llvm.org/ |
-| **llvmgold** | 20.1.2 | LLVM gold plugin | https://clang.llvm.org/ |
+| **llvm-tools** | 20.1.2-1 | LLVM Development Tools | https://clang.llvm.org/ |
+| **llvmgold** | 20.1.2-1 | LLVM gold plugin | https://clang.llvm.org/ |
 | **lnav** | 0.12.3 | An advanced log file viewer for the small-scale | https://lnav.org/ |
 | **lnd** | 0.17.0-beta-0 | Lightning Network Daemon | https://github.com/lightningnetwork/lnd |
 | **logo-ls** | 2024.07.17 | Modern ls command with vscode like File Icon and Git Integrations | https://github.com/Yash-Handa/logo-ls |
@@ -1728,7 +1728,7 @@
 | **mkp224o** | 1.7.0 | Generate vanity ed25519 (hidden service version 3) onion addresses | https://github.com/cathugger/mkp224o |
 | **mksh** | 59c-2 | The MirBSD Korn Shell - an enhanced version of the public domain ksh | http://www.mirbsd.org/mksh.htm |
 | **mktorrent** | 1.1-p20210130-0 | command line utility to create BitTorrent metainfo files | https://github.com/Rudde/mktorrent |
-| **mlir** | 20.1.2 | A Multi-Level Intermediate Representation for compilers from LLVM | https://clang.llvm.org/ |
+| **mlir** | 20.1.2-1 | A Multi-Level Intermediate Representation for compilers from LLVM | https://clang.llvm.org/ |
 | **mlocate** | 0.26-5 | Tool to find files anywhere in the filesystem based on their name | https://pagure.io/mlocate |
 | **moar** | 1.31.4 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moar |
 | **mold** | 2.37.1 | mold: A Modern Linker | https://github.com/rui314/mold |
@@ -2220,7 +2220,7 @@
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.6.1 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
 | **rust** | 1.86.0 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
-| **rust-analyzer** | 20250407 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
+| **rust-analyzer** | 20250414 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
 | **rust-bindgen** | 0.71.1 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
 | **rust-docs** | 1.86.0 | Rust documentation | https://www.rust-lang.org/ |
 | **rust-src** | 1.86.0 | Rust source code files | https://www.rust-lang.org/ |
@@ -2504,10 +2504,10 @@
 | **trurl** | 0.16 | trurl is a command line tool that parses and manipulates URLs | https://curl.se/trurl/ |
 | **trzsz-go** | 1.1.8 | A simple file transfer tools, similar to lrzsz ( rz / sz ) | https://trzsz.github.io/ |
 | **trzsz-ssh** | 0.1.22 | An openssh client alternative | https://trzsz.github.io/ssh |
-| **tsduck-java** | 3.39.3956 | Java bindings for TSDuck | https://tsduck.io/ |
-| **tsduck-plugins** | 3.39.3956 | Plugins for TSDuck | https://tsduck.io/ |
-| **tsduck-python** | 3.39.3956 | Python bindings for TSDuck | https://tsduck.io/ |
-| **tsduck-tools** | 3.39.3956 | Command line tools for TSDuck | https://tsduck.io/ |
+| **tsduck-java** | 3.40.4165 | Java bindings for TSDuck | https://tsduck.io/ |
+| **tsduck-plugins** | 3.40.4165 | Plugins for TSDuck | https://tsduck.io/ |
+| **tsduck-python** | 3.40.4165 | Python bindings for TSDuck | https://tsduck.io/ |
+| **tsduck-tools** | 3.40.4165 | Command line tools for TSDuck | https://tsduck.io/ |
 | **tsmuxer** | 2023.01.30 | A transport stream muxer for remuxing/muxing elementary streams | https://github.com/justdan96/tsMuxer |
 | **tsocks** | 1.8beta5-4 | transparent network access through a SOCKS 4 or 5 proxy | http://tsocks.sf.net |
 | **tsu** | 8.6.0-1 | A su wrapper for Termux | https://github.com/cswl/tsu |

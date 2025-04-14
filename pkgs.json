@@ -1399,7 +1399,7 @@
   },
   {
     "Package": "clang",
-    "Version": "20.1.2",
+    "Version": "20.1.2-1",
     "Description": "C language frontend for LLVM",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -5629,7 +5629,7 @@
   },
   {
     "Package": "libcompiler-rt",
-    "Version": "20.1.2",
+    "Version": "20.1.2-1",
     "Description": "Compiler runtime libraries for clang",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -6757,13 +6757,13 @@
   },
   {
     "Package": "libllvm",
-    "Version": "20.1.2",
+    "Version": "20.1.2-1",
     "Description": "Modular compiler and toolchain technologies library",
     "Homepage": "https://clang.llvm.org/"
   },
   {
     "Package": "libllvm-static",
-    "Version": "20.1.2",
+    "Version": "20.1.2-1",
     "Description": "Static libraries for libllvm",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -7777,7 +7777,7 @@
   },
   {
     "Package": "libpolly",
-    "Version": "20.1.2",
+    "Version": "20.1.2-1",
     "Description": "High-level loop and data-locality optimizer for clang",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -8617,13 +8617,13 @@
   },
   {
     "Package": "libtsduck",
-    "Version": "3.39.3956",
+    "Version": "3.40.4165",
     "Description": "An extensible toolkit for MPEG transport streams",
     "Homepage": "https://tsduck.io/"
   },
   {
     "Package": "libtsduck-static",
-    "Version": "3.39.3956",
+    "Version": "3.40.4165",
     "Description": "Static libraries for libtsduck",
     "Homepage": "https://tsduck.io/"
   },
@@ -9523,13 +9523,13 @@
   },
   {
     "Package": "lld",
-    "Version": "20.1.2",
+    "Version": "20.1.2-1",
     "Description": "LLVM-based linker",
     "Homepage": "https://clang.llvm.org/"
   },
   {
     "Package": "llvm",
-    "Version": "20.1.2",
+    "Version": "20.1.2-1",
     "Description": "LLVM modular compiler and toolchain executables",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -9559,13 +9559,13 @@
   },
   {
     "Package": "llvm-tools",
-    "Version": "20.1.2",
+    "Version": "20.1.2-1",
     "Description": "LLVM Development Tools",
     "Homepage": "https://clang.llvm.org/"
   },
   {
     "Package": "llvmgold",
-    "Version": "20.1.2",
+    "Version": "20.1.2-1",
     "Description": "LLVM gold plugin",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -10309,7 +10309,7 @@
   },
   {
     "Package": "mlir",
-    "Version": "20.1.2",
+    "Version": "20.1.2-1",
     "Description": "A Multi-Level Intermediate Representation for compilers from LLVM",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -13261,7 +13261,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20250407",
+    "Version": "20250414",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://rust-analyzer.github.io/"
   },
@@ -14965,25 +14965,25 @@
   },
   {
     "Package": "tsduck-java",
-    "Version": "3.39.3956",
+    "Version": "3.40.4165",
     "Description": "Java bindings for TSDuck",
     "Homepage": "https://tsduck.io/"
   },
   {
     "Package": "tsduck-plugins",
-    "Version": "3.39.3956",
+    "Version": "3.40.4165",
     "Description": "Plugins for TSDuck",
     "Homepage": "https://tsduck.io/"
   },
   {
     "Package": "tsduck-python",
-    "Version": "3.39.3956",
+    "Version": "3.40.4165",
     "Description": "Python bindings for TSDuck",
     "Homepage": "https://tsduck.io/"
   },
   {
     "Package": "tsduck-tools",
-    "Version": "3.39.3956",
+    "Version": "3.40.4165",
     "Description": "Command line tools for TSDuck",
     "Homepage": "https://tsduck.io/"
   },
