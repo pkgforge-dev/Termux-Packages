@@ -971,7 +971,7 @@
   Description: A tool which profiles OpenCL devices to find their peak capacities
   Homepage: https://github.com/krrishnarraj/clpeak
 - Package: clvk
-  Version: 0.0.20250330.000140
+  Version: 0.0.20250414.161857
   Description: Experimental implementation of OpenCL on Vulkan
   Homepage: https://github.com/kpet/clvk
 - Package: cmake
@@ -9483,27 +9483,27 @@
   Description: Most popular and complete prolog implementation
   Homepage: https://swi-prolog.org/
 - Package: swift-runtime-aarch64
-  Version: "6.1"
+  Version: 6.1-1
   Description: Swift runtime libraries for Android AArch64
   Homepage: https://swift.org/
 - Package: swift-runtime-arm
-  Version: "6.1"
+  Version: 6.1-1
   Description: Swift runtime libraries for Android armv7
   Homepage: https://swift.org/
 - Package: swift-runtime-x86-64
-  Version: "6.1"
+  Version: 6.1-1
   Description: Swift runtime libraries for Android x86_64
   Homepage: https://swift.org/
 - Package: swift-sdk-aarch64
-  Version: "6.1"
+  Version: 6.1-1
   Description: Swift SDK for Android AArch64
   Homepage: https://swift.org/
 - Package: swift-sdk-arm
-  Version: "6.1"
+  Version: 6.1-1
   Description: Swift SDK for Android armv7
   Homepage: https://swift.org/
 - Package: swift-sdk-x86-64
-  Version: "6.1"
+  Version: 6.1-1
   Description: Swift SDK for Android x86_64
   Homepage: https://swift.org/
 - Package: swiftshader
