@@ -4621,7 +4621,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.22.1773",
+    "Version": "0.22.1775",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -4813,7 +4813,7 @@
   },
   {
     "Package": "k9s",
-    "Version": "0.50.2",
+    "Version": "0.50.3",
     "Description": "Kubernetes CLI To Manage Your Clusters In Style!",
     "Homepage": "https://k9scli.io"
   },
@@ -5347,7 +5347,7 @@
   },
   {
     "Package": "libblocksruntime",
-    "Version": "1:6.0.2",
+    "Version": "1:6.1",
     "Description": "LLVM Blocks runtime library",
     "Homepage": "https://github.com/swiftlang/swift-corelibs-libdispatch"
   },
@@ -5809,7 +5809,7 @@
   },
   {
     "Package": "libdispatch",
-    "Version": "1:6.0.2",
+    "Version": "1:6.1",
     "Description": "The libdispatch project, for concurrency on multicore hardware",
     "Homepage": "https://github.com/swiftlang/swift-corelibs-libdispatch"
   },
@@ -9517,7 +9517,7 @@
   },
   {
     "Package": "llbuild",
-    "Version": "6.0.2",
+    "Version": "6.1",
     "Description": "A low-level build system, used by the Swift Package Manager",
     "Homepage": "https://github.com/swiftlang/swift-llbuild"
   },
@@ -14617,13 +14617,13 @@
   },
   {
     "Package": "texlive-bin",
-    "Version": "20240310-2",
+    "Version": "1:2025.0",
     "Description": "TeX Live is a distribution of the TeX typesetting system. This package contains architecture dependent binaries.",
     "Homepage": "https://www.tug.org/texlive/"
   },
   {
     "Package": "texlive-bin-static",
-    "Version": "20240310-2",
+    "Version": "1:2025.0",
     "Description": "Static libraries for texlive-bin",
     "Homepage": "https://www.tug.org/texlive/"
   },
