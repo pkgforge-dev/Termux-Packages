@@ -2095,7 +2095,7 @@
   Description: Program for calculating and printing calendars
   Homepage: https://www.gnu.org/software/gcal/
 - Package: gdal
-  Version: 3.10.3
+  Version: 3.10.3-1
   Description: A translator library for raster and vector geospatial data formats
   Homepage: https://gdal.org
 - Package: gdal-static
@@ -8031,15 +8031,15 @@
   Description: Aims to bring back the posix profile for Vala
   Homepage: https://github.com/radare/posixvala
 - Package: postgis
-  Version: 3.5.2-1
+  Version: 3.5.2-2
   Description: Spatial database extender for PostgreSQL object-relational database
   Homepage: https://postgis.net
 - Package: postgresql
-  Version: 17.0-2
+  Version: 17.0-3
   Description: Object-relational SQL database
   Homepage: https://www.postgresql.org
 - Package: postgresql-static
-  Version: 17.0-2
+  Version: 17.0-3
   Description: Static libraries for postgresql
   Homepage: https://www.postgresql.org
 - Package: potrace
@@ -10343,11 +10343,11 @@
   Description: A themeable LS_COLORS generator with a rich filetype datebase
   Homepage: https://github.com/sharkdp/vivid
 - Package: vlc
-  Version: 3.0.21-5
+  Version: 3.0.21-6
   Description: A popular libre and open source media player and multimedia engine
   Homepage: https://www.videolan.org/
 - Package: vlc-static
-  Version: 3.0.21-5
+  Version: 3.0.21-6
   Description: Static libraries for vlc
   Homepage: https://www.videolan.org/
 - Package: vobsub2srt

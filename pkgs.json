@@ -3145,7 +3145,7 @@
   },
   {
     "Package": "gdal",
-    "Version": "3.10.3",
+    "Version": "3.10.3-1",
     "Description": "A translator library for raster and vector geospatial data formats",
     "Homepage": "https://gdal.org"
   },
@@ -12049,19 +12049,19 @@
   },
   {
     "Package": "postgis",
-    "Version": "3.5.2-1",
+    "Version": "3.5.2-2",
     "Description": "Spatial database extender for PostgreSQL object-relational database",
     "Homepage": "https://postgis.net"
   },
   {
     "Package": "postgresql",
-    "Version": "17.0-2",
+    "Version": "17.0-3",
     "Description": "Object-relational SQL database",
     "Homepage": "https://www.postgresql.org"
   },
   {
     "Package": "postgresql-static",
-    "Version": "17.0-2",
+    "Version": "17.0-3",
     "Description": "Static libraries for postgresql",
     "Homepage": "https://www.postgresql.org"
   },
@@ -15517,13 +15517,13 @@
   },
   {
     "Package": "vlc",
-    "Version": "3.0.21-5",
+    "Version": "3.0.21-6",
     "Description": "A popular libre and open source media player and multimedia engine",
     "Homepage": "https://www.videolan.org/"
   },
   {
     "Package": "vlc-static",
-    "Version": "3.0.21-5",
+    "Version": "3.0.21-6",
     "Description": "Static libraries for vlc",
     "Homepage": "https://www.videolan.org/"
   },
