@@ -4831,11 +4831,11 @@
   Description: Static libraries for libncnn
   Homepage: https://github.com/Tencent/ncnn
 - Package: libneon
-  Version: 0.34.0
+  Version: 0.34.1
   Description: An HTTP/1.1 and WebDAV client library, with a C interface
   Homepage: https://notroj.github.io/neon/
 - Package: libneon-static
-  Version: 0.34.0
+  Version: 0.34.1
   Description: Static libraries for libneon
   Homepage: https://notroj.github.io/neon/
 - Package: libnet
@@ -4879,11 +4879,11 @@
   Description: Static libraries for libnfs
   Homepage: https://github.com/sahlberg/libnfs
 - Package: libnftnl
-  Version: 1.2.8
+  Version: 1.2.9
   Description: Netfilter library providing interface to the nf_tables subsystem
   Homepage: https://www.netfilter.org/projects/libnftnl/
 - Package: libnftnl-static
-  Version: 1.2.8
+  Version: 1.2.9
   Description: Static libraries for libnftnl
   Homepage: https://www.netfilter.org/projects/libnftnl/
 - Package: libnghttp2
@@ -9615,7 +9615,7 @@
   Description: Telegram messenger CLI
   Homepage: https://github.com/vysheng/tg
 - Package: teleport-tsh
-  Version: 17.4.3
+  Version: 17.4.4
   Description: Secure Access for Developers that doesnt get in the way
   Homepage: https://github.com/gravitational/teleport
 - Package: tenki-php

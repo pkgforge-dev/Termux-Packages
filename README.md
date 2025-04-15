@@ -1218,8 +1218,8 @@
 | **libnats-c-static** | 3.10.1 | Static libraries for libnats-c | https://nats-io.github.io/nats.c/ |
 | **libncnn** | 20230627-9 | A high-performance neural network inference framework optimized for the mobile platform | https://github.com/Tencent/ncnn |
 | **libncnn-static** | 20230627-9 | Static libraries for libncnn | https://github.com/Tencent/ncnn |
-| **libneon** | 0.34.0 | An HTTP/1.1 and WebDAV client library, with a C interface | https://notroj.github.io/neon/ |
-| **libneon-static** | 0.34.0 | Static libraries for libneon | https://notroj.github.io/neon/ |
+| **libneon** | 0.34.1 | An HTTP/1.1 and WebDAV client library, with a C interface | https://notroj.github.io/neon/ |
+| **libneon-static** | 0.34.1 | Static libraries for libneon | https://notroj.github.io/neon/ |
 | **libnet** | 1.3 | A library which provides API for commonly used low-level net functions | https://github.com/libnet/libnet |
 | **libnet-static** | 1.3 | Static libraries for libnet | https://github.com/libnet/libnet |
 | **libnettle** | 3.10.1 | Cryptographic library that is designed to fit easily in more or less any context | https://www.lysator.liu.se/~nisse/nettle/ |
@@ -1230,8 +1230,8 @@
 | **libnfc-static** | 1.8.0-1 | Static libraries for libnfc | https://github.com/nfc-tools/libnfc |
 | **libnfs** | 6.0.2 | NFS client library | https://github.com/sahlberg/libnfs |
 | **libnfs-static** | 5.0.3 | Static libraries for libnfs | https://github.com/sahlberg/libnfs |
-| **libnftnl** | 1.2.8 | Netfilter library providing interface to the nf_tables subsystem | https://www.netfilter.org/projects/libnftnl/ |
-| **libnftnl-static** | 1.2.8 | Static libraries for libnftnl | https://www.netfilter.org/projects/libnftnl/ |
+| **libnftnl** | 1.2.9 | Netfilter library providing interface to the nf_tables subsystem | https://www.netfilter.org/projects/libnftnl/ |
+| **libnftnl-static** | 1.2.9 | Static libraries for libnftnl | https://www.netfilter.org/projects/libnftnl/ |
 | **libnghttp2** | 1.65.0 | nghttp HTTP 2.0 library | https://nghttp2.org/ |
 | **libnghttp2-static** | 1.65.0 | Static libraries for libnghttp2 | https://nghttp2.org/ |
 | **libnghttp3** | 1.8.0 | HTTP/3 library written in C | https://nghttp2.org/nghttp3/ |
@@ -2414,7 +2414,7 @@
 | **tectonic** | 0.15.0-4 | A modernized, complete, self-contained TeX/LaTeX engine | https://tectonic-typesetting.github.io/ |
 | **telegram-bot-api** | 20241031 | Telegram Bot API server | https://github.com/tdlib/telegram-bot-api |
 | **telegram-cli** | 1:1.4.1-6 | Telegram messenger CLI | https://github.com/vysheng/tg |
-| **teleport-tsh** | 17.4.3 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
+| **teleport-tsh** | 17.4.4 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
 | **tenki-php** | 2022.05.26 | A simple PHP application for logging current weather conditions, notes, and waypoints | https://github.com/dmpop/tenki |
 | **tere** | 1.6.0 | Terminal file explorer written in rust | https://github.com/mgunyho/tere |
 | **tergent** | 1.0.0-4 | A cryptoki/PKCS#11 library for Termux that uses Android Keystore as its backend | https://github.com/aeolwyr/tergent |
