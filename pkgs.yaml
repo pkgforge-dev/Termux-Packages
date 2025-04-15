@@ -187,7 +187,7 @@
   Description: A free MS Word reader
   Homepage: https://en.m.wikipedia.org/wiki/Antiword
 - Package: aom-tools
-  Version: 3.12.0
+  Version: 3.12.1
   Description: Command-line tools using AOMedia library
   Homepage: https://aomedia.org/
 - Package: aosp-libs
@@ -2199,7 +2199,7 @@
   Description: The Forth implementation of the GNU project
   Homepage: https://www.gnu.org/software/gforth/
 - Package: gh
-  Version: 2.69.0
+  Version: 2.70.0
   Description: GitHub’s official command line tool
   Homepage: https://cli.github.com/
 - Package: ghc
@@ -3079,7 +3079,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.1775
+  Version: 0.22.1778
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: janet
@@ -3495,11 +3495,11 @@
   Description: Static libraries for libao
   Homepage: https://www.xiph.org/ao/
 - Package: libaom
-  Version: 3.12.0
+  Version: 3.12.1
   Description: AV1 Video Codec Library
   Homepage: https://aomedia.org/
 - Package: libaom-static
-  Version: 3.12.0
+  Version: 3.12.1
   Description: Static libraries for libaom
   Homepage: https://aomedia.org/
 - Package: libapt-pkg-perl
@@ -6355,7 +6355,7 @@
   Description: LLVM modular compiler and toolchain executables
   Homepage: https://clang.llvm.org/
 - Package: llvm-mingw-w64
-  Version: "20250402"
+  Version: 20250402-1
   Description: MinGW-w64 toolchain based on LLVM
   Homepage: https://github.com/mstorsjo/llvm-mingw
 - Package: llvm-mingw-w64-libcompiler-rt
