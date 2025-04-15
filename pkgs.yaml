@@ -631,7 +631,7 @@
   Description: Static libraries for boost
   Homepage: https://boost.org
 - Package: bore
-  Version: 0.5.2
+  Version: 0.5.3
   Description: Bore is a simple CLI tool for making tunnels to localhost
   Homepage: https://github.com/ekzhang/bore
 - Package: borgbackup
@@ -8175,7 +8175,7 @@
   Description: Password generator which by default, unless given the -s option, generates memorable but insecure passwords
   Homepage: http://pwgen.sourceforge.net/
 - Package: pycairo
-  Version: 1.27.0-1
+  Version: 1.28.0
   Description: Python bindings for the cairo graphics library
   Homepage: https://www.cairographics.org/pycairo/
 - Package: pygobject
@@ -9007,7 +9007,7 @@
   Description: A perl-script to send XMPP (jabber) messages
   Homepage: https://sendxmpp.hostname.sk/
 - Package: senpai
-  Version: 1:0.4.0
+  Version: 1:0.4.1
   Description: An IRC client that works best with bouncers
   Homepage: https://git.sr.ht/~delthas/senpai
 - Package: sensible-utils
