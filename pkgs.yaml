@@ -667,7 +667,7 @@
   Description: A cross-platform strong encryption and not detectable proxy. Zero-Configuration.
   Homepage: https://github.com/txthinking/brook
 - Package: broot
-  Version: 1.45.1
+  Version: 1.46.0
   Description: A better way to navigate directories
   Homepage: https://github.com/Canop/broot
 - Package: brotli
@@ -1303,7 +1303,7 @@
   Description: 'difft: A structural diff that understands syntax'
   Homepage: https://github.com/Wilfred/difftastic
 - Package: diffutils
-  Version: "3.11"
+  Version: "3.12"
   Description: Programs (cmp, diff, diff3 and sdiff) related to finding differences between files
   Homepage: https://www.gnu.org/software/diffutils/
 - Package: dirb
@@ -1375,7 +1375,7 @@
   Description: A libpcap application that displays various tables of DNS traffic on your network
   Homepage: https://github.com/measurement-factory/dnstop
 - Package: dnsutils
-  Version: 9.20.7-1
+  Version: 9.20.8
   Description: Clients provided with BIND
   Homepage: https://www.isc.org/bind/
 - Package: dnsutils-static
@@ -2583,7 +2583,7 @@
   Description: Game where you try to eat as much as possible of the board before munching yourself into a corner
   Homepage: http://www.catb.org/~esr/greed/
 - Package: grep
-  Version: "3.11"
+  Version: "3.12"
   Description: Command which searches one or more input files for lines containing a match to a specified pattern
   Homepage: https://www.gnu.org/software/grep/
 - Package: grex
