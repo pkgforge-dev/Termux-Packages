@@ -2011,7 +2011,7 @@
   Description: Interpreter for Infocom and other Z-machine interactive fiction (IF) games
   Homepage: https://gitlab.com/DavidGriffith/frotz
 - Package: frp
-  Version: 0.61.2
+  Version: 0.62.0
   Description: A fast reverse proxy to expose a local server behind a NAT or firewall to the internet
   Homepage: https://github.com/fatedier/frp
 - Package: fselect
@@ -4895,11 +4895,11 @@
   Description: Static libraries for libnghttp2
   Homepage: https://nghttp2.org/
 - Package: libnghttp3
-  Version: 1.8.0
+  Version: 1.9.0
   Description: HTTP/3 library written in C
   Homepage: https://nghttp2.org/nghttp3/
 - Package: libnghttp3-static
-  Version: 1.8.0
+  Version: 1.9.0
   Description: Static libraries for libnghttp3
   Homepage: https://nghttp2.org/nghttp3/
 - Package: libnl
@@ -5003,7 +5003,7 @@
   Description: Static libraries for libopencore-amr
   Homepage: https://sourceforge.net/projects/opencore-amr
 - Package: libopenfec
-  Version: 1.4.2.11
+  Version: 1.4.2.12
   Description: Application-Level Forward Erasure Correction implementation library
   Homepage: http://openfec.org
 - Package: libopenmpt
@@ -6623,7 +6623,7 @@
   Description: Connect to your mattermost or slack using your IRC-client of choice
   Homepage: https://github.com/42wim/matterircd
 - Package: mautrix-whatsapp
-  Version: 0.11.4
+  Version: 0.12.0
   Description: A Matrix-WhatsApp puppeting bridge
   Homepage: https://maunium.net/go/mautrix-whatsapp/
 - Package: maven

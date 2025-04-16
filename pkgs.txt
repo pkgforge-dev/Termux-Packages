@@ -501,7 +501,7 @@
  frobtads  2.0-3  TADS is a free authoring system for writing your own Interactive Fiction  http://www.tads.org/frobtads.htm 
  frogcomposband  7.1.salmiak-1  Open world Angband variant with many additions  https://github.com/sulkasormi/frogcomposband/ 
  frotz  2.55  Interpreter for Infocom and other Z-machine interactive fiction (IF) games  https://gitlab.com/DavidGriffith/frotz 
- frp  0.61.2  A fast reverse proxy to expose a local server behind a NAT or firewall to the internet  https://github.com/fatedier/frp 
+ frp  0.62.0  A fast reverse proxy to expose a local server behind a NAT or firewall to the internet  https://github.com/fatedier/frp 
  fselect  0.8.11  Find files with SQL-like queries  https://fselect.rocks/ 
  fsmon  1.8.6  Filesystem monitor with fanotify and inotify backends  https://github.com/nowsecure/fsmon 
  fwknop  2.6.11  fwknop: Single Packet Authorization > Port Knocking  https://www.cipherdyne.org/fwknop/ 
@@ -1222,8 +1222,8 @@
  libnftnl-static  1.2.9  Static libraries for libnftnl  https://www.netfilter.org/projects/libnftnl/ 
  libnghttp2  1.65.0  nghttp HTTP 2.0 library  https://nghttp2.org/ 
  libnghttp2-static  1.65.0  Static libraries for libnghttp2  https://nghttp2.org/ 
- libnghttp3  1.8.0  HTTP/3 library written in C  https://nghttp2.org/nghttp3/ 
- libnghttp3-static  1.8.0  Static libraries for libnghttp3  https://nghttp2.org/nghttp3/ 
+ libnghttp3  1.9.0  HTTP/3 library written in C  https://nghttp2.org/nghttp3/ 
+ libnghttp3-static  1.9.0  Static libraries for libnghttp3  https://nghttp2.org/nghttp3/ 
  libnl  3.11.0  Collection of libraries providing APIs to netlink protocol based Linux kernel interfaces  https://github.com/thom311/libnl 
  libnl-cli  3.11.0  Command-line interface utilities for libnl  https://github.com/thom311/libnl 
  libnl-cli-static  3.11.0  Static libraries for libnl-cli  https://github.com/thom311/libnl 
@@ -1249,7 +1249,7 @@
  libopencc  1.1.9  An opensource project for conversions between Traditional Chinese, Simplified Chinese and Japanese Kanji (Shinjitai)  https://github.com/BYVoid/OpenCC 
  libopencore-amr  0.1.6  Open source implementation of the Adaptive Multi Rate (AMR) speech codec  https://sourceforge.net/projects/opencore-amr 
  libopencore-amr-static  0.1.6  Static libraries for libopencore-amr  https://sourceforge.net/projects/opencore-amr 
- libopenfec  1.4.2.11  Application-Level Forward Erasure Correction implementation library  http://openfec.org 
+ libopenfec  1.4.2.12  Application-Level Forward Erasure Correction implementation library  http://openfec.org 
  libopenmpt  0.7.13  OpenMPT based module player library and libopenmpt based command-line player  https://lib.openmpt.org/libopenmpt/ 
  libopenmpt-static  0.7.13  Static libraries for libopenmpt  https://lib.openmpt.org/libopenmpt/ 
  libopus  1.5.2  Reference implementation of the Opus codec  https://www.opus-codec.org/ 
@@ -1654,7 +1654,7 @@
  matplotlib  3.10.1  A comprehensive library for creating static, animated, and interactive visualizations in Python  https://matplotlib.org/ 
  matterbridge  1.26.0-3  A simple chat bridge  https://github.com/42wim/matterbridge 
  matterircd  0.28.0  Connect to your mattermost or slack using your IRC-client of choice  https://github.com/42wim/matterircd 
- mautrix-whatsapp  0.11.4  A Matrix-WhatsApp puppeting bridge  https://maunium.net/go/mautrix-whatsapp/ 
+ mautrix-whatsapp  0.12.0  A Matrix-WhatsApp puppeting bridge  https://maunium.net/go/mautrix-whatsapp/ 
  maven  3.9.9  A Java software project management and comprehension tool  https://maven.apache.org/ 
  maxcso  1.13.0  A fast ISO to CSO compression program for use with PSP and PS2 emulators  https://github.com/unknownbrackets/maxcso 
  mazter  2022.08.13  Mazes in your terminal  https://github.com/Canop/mazter 
