@@ -162,7 +162,7 @@
 | **blk-utils** | 2.40.2-3 | Utilities for handling block device attributes | https://en.wikipedia.org/wiki/Util-linux |
 | **blogc** | 0.20.1 | A blog compiler | https://blogc.rgm.io/ |
 | **bmon** | 4.0-3 | Bandwidth monitor and rate estimator | https://github.com/tgraf/bmon |
-| **boinc** | 8.2.0 | Open-source software for volunteer computing | https://boinc.berkeley.edu/ |
+| **boinc** | 8.2.1 | Open-source software for volunteer computing | https://boinc.berkeley.edu/ |
 | **boinctui** | 2.7.1 | curses based manager for Boinc client | https://sourceforge.net/projects/boinctui/ |
 | **bombadillo** | 2.4.0-2 | A non-web client for the terminal, supporting Gopher, Gemini and much more | https://bombadillo.colorfield.space/ |
 | **boost** | 1:1.87.0-1 | Free peer-reviewed portable C++ source libraries | https://boost.org |
@@ -438,7 +438,7 @@
 | **enchant-static** | 2.8.2-1 | Static libraries for enchant | https://rrthomas.github.io/enchant/ |
 | **enscript** | 1.6.6-12 | Enscript converts ASCII text files to PostScript, HTML, RTF, ANSI and overstrikes | https://www.gnu.org/software/enscript/ |
 | **entr** | 5.7 | Event Notify Test Runner - run arbitrary commands when files change | https://eradman.com/entrproject/ |
-| **erlang** | 27.3.2 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
+| **erlang** | 27.3.3 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
 | **esbuild** | 0.25.2 | An extremely fast JavaScript bundler | https://esbuild.github.io/ |
 | **espeak** | 1.52.0 | Compact software speech synthesizer | https://github.com/espeak-ng/espeak-ng |
 | **espeak-static** | 1.52.0 | Static libraries for espeak | https://github.com/espeak-ng/espeak-ng |
@@ -684,9 +684,9 @@
 | **gumbo-parser-static** | 0.10.1 | Static libraries for gumbo-parser | https://github.com/google/gumbo-parser |
 | **gzip** | 1.14 | Standard GNU file compression utilities | https://www.gnu.org/software/gzip/ |
 | **haproxy** | 3.1.6 | The Reliable, High Performance TCP/HTTP Load Balancer | https://www.haproxy.org/ |
-| **harfbuzz** | 11.0.1 | OpenType text shaping engine | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
-| **harfbuzz-icu** | 11.0.1 | OpenType text shaping engine ICU backend | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
-| **harfbuzz-utils** | 11.0.1 | Tools using the harfbuzz library | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
+| **harfbuzz** | 11.1.0 | OpenType text shaping engine | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
+| **harfbuzz-icu** | 11.1.0 | OpenType text shaping engine ICU backend | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
+| **harfbuzz-utils** | 11.1.0 | Tools using the harfbuzz library | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
 | **has** | 1.5.0-1 | has checks presence of various command line tools and their versions on the path | https://github.com/kdabir/has |
 | **hash-slinger** | 3.3-1 | Various tools to generate special DNS records | https://github.com/letoams/hash-slinger |
 | **hashdeep** | 4.4-8 | Programs to compute hashsums of arbitrary number of files recursively | http://md5deep.sourceforge.net/ |
