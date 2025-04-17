@@ -312,7 +312,7 @@
 | **dar** | 2.7.17 | A full featured command-line backup tool, short for Disk ARchive | http://dar.linux.free.fr/ |
 | **dar-static** | 2.7.17 | Static libraries for dar | http://dar.linux.free.fr/ |
 | **darkhttpd** | 1.16 | A simple webserver, implemented in a single .c file. | https://unix4lyfe.org/darkhttpd |
-| **dart** | 3.7.2 | Dart is a general-purpose programming language | https://dart.dev/ |
+| **dart** | 3.7.3 | Dart is a general-purpose programming language | https://dart.dev/ |
 | **dasel** | 2.8.1 | Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility | https://github.com/TomWright/dasel |
 | **dash** | 0.5.12 | Small POSIX-compliant implementation of /bin/sh | http://gondor.apana.org.au/~herbert/dash/ |
 | **dasm** | 2.20.14.1 | Macro assembler with support for several 8-bit microprocessors | https://dasm-dillon.sourceforge.io/ |
@@ -1574,7 +1574,7 @@
 | **libyaml-static** | 0.2.5-4 | Static libraries for libyaml | https://pyyaml.org/wiki/LibYAML |
 | **libzen** | 0.4.41 | ZenLib C++ utility library | https://mediaarea.net/en/MediaInfo |
 | **libzen-static** | 0.4.41 | Static libraries for libzen | https://mediaarea.net/en/MediaInfo |
-| **libzim** | 9.2.3-2 | The ZIM library is the reference implementation for the ZIM file format. | https://openzim.org |
+| **libzim** | 9.3.0 | The ZIM library is the reference implementation for the ZIM file format. | https://openzim.org |
 | **libzimg** | 3.0.5 | Scaling, colorspace conversion, and dithering library | https://github.com/sekrit-twc/zimg |
 | **libzimg-static** | 3.0.5 | Static libraries for libzimg | https://github.com/sekrit-twc/zimg |
 | **libzip** | 1.11.3 | Library for reading, creating, and modifying zip archives | https://libzip.org/ |
