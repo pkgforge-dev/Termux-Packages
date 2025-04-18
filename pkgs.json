@@ -3366,6 +3366,12 @@
     "Homepage": "https://git-scm.com/"
   },
   {
+    "Package": "git-credential-manager",
+    "Version": "2.6.1",
+    "Description": "Cross-platform Git credential storage for multiple hosting providers",
+    "Homepage": "https://aka.ms/gcm"
+  },
+  {
     "Package": "git-crypt",
     "Version": "0.7.0-2",
     "Description": "Enables transparent encryption and decryption of files for a git repository",
@@ -3499,7 +3505,7 @@
   },
   {
     "Package": "glow",
-    "Version": "2.1.0",
+    "Version": "2.1.0-1",
     "Description": "Render markdown on the CLI, with pizzazz!",
     "Homepage": "https://github.com/charmbracelet/glow"
   },
@@ -9049,13 +9055,13 @@
   },
   {
     "Package": "libxapian",
-    "Version": "1.4.27",
+    "Version": "1.4.28",
     "Description": "Xapian search engine library",
     "Homepage": "https://xapian.org"
   },
   {
     "Package": "libxapian-static",
-    "Version": "1.4.27",
+    "Version": "1.4.28",
     "Description": "Static libraries for libxapian",
     "Homepage": "https://xapian.org"
   },
@@ -11359,13 +11365,13 @@
   },
   {
     "Package": "openssh",
-    "Version": "10.0p2",
+    "Version": "10.0p2-1",
     "Description": "Secure shell for logging into a remote machine",
     "Homepage": "https://www.openssh.com/"
   },
   {
     "Package": "openssh-sftp-server",
-    "Version": "10.0p2",
+    "Version": "10.0p2-1",
     "Description": "OpenSSH SFTP server subsystem",
     "Homepage": "https://www.openssh.com/"
   },
@@ -14839,7 +14845,7 @@
   },
   {
     "Package": "transmission",
-    "Version": "4.0.6-2",
+    "Version": "4.0.6-3",
     "Description": "Easy, lean and powerful BitTorrent client",
     "Homepage": "https://transmissionbt.com/"
   },
@@ -15565,7 +15571,7 @@
   },
   {
     "Package": "vulkan-headers",
-    "Version": "1.4.312",
+    "Version": "1.4.313",
     "Description": "Vulkan Header files and API registry",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Headers"
   },
@@ -15619,13 +15625,13 @@
   },
   {
     "Package": "w3m",
-    "Version": "0.5.3.20230121-1",
+    "Version": "0.5.3.20230121-2",
     "Description": "Text based Web browser and pager",
     "Homepage": "https://w3m.sourceforge.net/"
   },
   {
     "Package": "w3m-img",
-    "Version": "0.5.3.20230121-1",
+    "Version": "0.5.3.20230121-2",
     "Description": "Inline image extension support utilities for w3m",
     "Homepage": "https://w3m.sourceforge.net/"
   },
@@ -15889,7 +15895,7 @@
   },
   {
     "Package": "xapian-tools",
-    "Version": "1.4.27",
+    "Version": "1.4.28",
     "Description": "Basic tools for the Xapian search engine",
     "Homepage": "https://xapian.org"
   },

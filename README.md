@@ -571,6 +571,7 @@
 | **gifsicle** | 1.96 | Tool for creating, editing, and getting information about GIF images and animations | https://www.lcdf.org/gifsicle/ |
 | **gifski** | 1.33.0 | GIF encoder based on libimagequant | https://gif.ski/ |
 | **git** | 2.49.0 | Fast, scalable, distributed revision control system | https://git-scm.com/ |
+| **git-credential-manager** | 2.6.1 | Cross-platform Git credential storage for multiple hosting providers | https://aka.ms/gcm |
 | **git-crypt** | 0.7.0-2 | Enables transparent encryption and decryption of files for a git repository | https://www.agwa.name/projects/git-crypt/ |
 | **git-delta** | 0.18.2-2 | A syntax-highlighter for git and diff output | https://dandavison.github.io/delta/ |
 | **git-gitk** | 2.49.0 | Git repository browser | https://git-scm.com/ |
@@ -593,7 +594,7 @@
 | **glm** | 1.0.1 | C++ mathematics library for graphics software based on the GLSL specifications | https://glm.g-truc.net/ |
 | **global** | 6.6.14 | Source code search and browse tools | https://www.gnu.org/software/global/ |
 | **global-static** | 6.6.12 | Static libraries for global | https://www.gnu.org/software/global/ |
-| **glow** | 2.1.0 | Render markdown on the CLI, with pizzazz! | https://github.com/charmbracelet/glow |
+| **glow** | 2.1.0-1 | Render markdown on the CLI, with pizzazz! | https://github.com/charmbracelet/glow |
 | **glpk** | 5.0-1 | GNU Linear Programming Kit: solve LP, MIP and other problems | https://www.gnu.org/software/glpk/ |
 | **glpk-static** | 5.0-1 | Static libraries for glpk | https://www.gnu.org/software/glpk/ |
 | **glslang** | 15.2.0 | OpenGL and OpenGL ES shader front end and validator | https://github.com/KhronosGroup/glslang |
@@ -1518,8 +1519,8 @@
 | **libx264-static** | 1:0.164.3191 | Static libraries for libx264 | https://www.videolan.org/developers/x264.html |
 | **libx265** | 4.1 | H.265/HEVC video stream encoder library | http://x265.org/ |
 | **libx265-static** | 4.1 | Static libraries for libx265 | http://x265.org/ |
-| **libxapian** | 1.4.27 | Xapian search engine library | https://xapian.org |
-| **libxapian-static** | 1.4.27 | Static libraries for libxapian | https://xapian.org |
+| **libxapian** | 1.4.28 | Xapian search engine library | https://xapian.org |
+| **libxapian-static** | 1.4.28 | Static libraries for libxapian | https://xapian.org |
 | **libxau** | 1.0.12 | X11 authorisation library | https://xorg.freedesktop.org/ |
 | **libxau-static** | 1.0.11 | Static libraries for libxau | https://xorg.freedesktop.org/ |
 | **libxcb** | 1.17.0 | X11 client-side library | https://xcb.freedesktop.org/ |
@@ -1903,8 +1904,8 @@
 | **opensc** | 0.26.1 | Open source smart card tools and middleware | https://github.com/OpenSC/OpenSC |
 | **opensc-static** | 0.26.1 | Static libraries for opensc | https://github.com/OpenSC/OpenSC |
 | **openscad** | 2021.01-3 | The programmers solid 3D CAD modeller (headless build) | https://openscad.org/ |
-| **openssh** | 10.0p2 | Secure shell for logging into a remote machine | https://www.openssh.com/ |
-| **openssh-sftp-server** | 10.0p2 | OpenSSH SFTP server subsystem | https://www.openssh.com/ |
+| **openssh** | 10.0p2-1 | Secure shell for logging into a remote machine | https://www.openssh.com/ |
+| **openssh-sftp-server** | 10.0p2-1 | OpenSSH SFTP server subsystem | https://www.openssh.com/ |
 | **openssl** | 1:3.4.1 | Library implementing the SSL and TLS protocols as well as general purpose cryptography functions | https://www.openssl.org/ |
 | **openssl-1.1** | 1:1.1.1w | Library implementing the SSL and TLS protocols as well as general purpose cryptography functions | https://www.openssl.org/ |
 | **openssl-1.1-static** | 1:1.1.1w | Static libraries for openssl-1.1 | https://www.openssl.org/ |
@@ -2483,7 +2484,7 @@
 | **tracepath** | 20240905 | Tool to trace the network path to a remote host | https://github.com/iputils/iputils |
 | **traceroute** | 2.1.6 | A new modern implementation of traceroute(8) utility for Linux systems | https://traceroute.sourceforge.net/ |
 | **translate-shell** | 0.9.7.1 | Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc. | https://www.soimort.org/translate-shell |
-| **transmission** | 4.0.6-2 | Easy, lean and powerful BitTorrent client | https://transmissionbt.com/ |
+| **transmission** | 4.0.6-3 | Easy, lean and powerful BitTorrent client | https://transmissionbt.com/ |
 | **tree** | 2.2.1 | Recursive directory lister producing a depth indented listing of files | http://mama.indstate.edu/users/ice/tree/ |
 | **tree-sitter** | 0.25.3 | An incremental parsing system for programming tools | https://github.com/tree-sitter/tree-sitter |
 | **tree-sitter-c** | 0.23.5-1 | C grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-c |
@@ -2604,7 +2605,7 @@
 | **vttest** | 20241208 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-4 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.4.312 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
-| **vulkan-headers** | 1.4.312 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
+| **vulkan-headers** | 1.4.313 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
 | **vulkan-icd** | 0.1 | A metapackage that provides Vulkan ICDs | https://github.com/termux/termux-packages |
 | **vulkan-loader** | 0.0.3 | A metapackage that provides vulkan loader library | https://github.com/termux/termux-packages |
 | **vulkan-loader-android** | 27c | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
@@ -2613,8 +2614,8 @@
 | **vulkan-utility-libraries** | 1.4.312 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
 | **vulkan-validation-layers** | 1.4.311 | Vulkan Validation Layers | https://github.com/KhronosGroup/Vulkan-ValidationLayers |
 | **vulkan-volk** | 1.4.304 | Meta loader for Vulkan API | https://github.com/zeux/volk |
-| **w3m** | 0.5.3.20230121-1 | Text based Web browser and pager | https://w3m.sourceforge.net/ |
-| **w3m-img** | 0.5.3.20230121-1 | Inline image extension support utilities for w3m | https://w3m.sourceforge.net/ |
+| **w3m** | 0.5.3.20230121-2 | Text based Web browser and pager | https://w3m.sourceforge.net/ |
+| **w3m-img** | 0.5.3.20230121-2 | Inline image extension support utilities for w3m | https://w3m.sourceforge.net/ |
 | **wabt** | 1.0.37 | The WebAssembly Binary Toolkit | https://github.com/WebAssembly/wabt |
 | **wakatime-cli** | 1.115.1 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
 | **walk** | 1.13.0 | A terminal file manager | https://github.com/antonmedv/walk |
@@ -2658,7 +2659,7 @@
 | **x11-repo** | 8.4-1 | Package repository containing X11 programs and libraries | https://github.com/termux/x11-packages |
 | **x264** | 1:0.164.3191 | Commandline video encoder for the H.264/MPEG-4 AVC format | https://www.videolan.org/developers/x264.html |
 | **x265** | 4.1 | H.265/HEVC video stream encoder tool | http://x265.org/ |
-| **xapian-tools** | 1.4.27 | Basic tools for the Xapian search engine | https://xapian.org |
+| **xapian-tools** | 1.4.28 | Basic tools for the Xapian search engine | https://xapian.org |
 | **xcb-proto** | 1.17.0-1 | XML-XCB protocol descriptions | https://xcb.freedesktop.org/ |
 | **xdelta3** | 3.1.0-2 | xdelta3 - VCDIFF (RFC 3284) binary diff tool | https://github.com/jmacd/xdelta |
 | **xh** | 0.24.0 | A friendly and fast tool for sending HTTP requests | https://github.com/ducaale/xh |
