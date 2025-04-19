@@ -1759,7 +1759,7 @@
   Description: Tool for automating interactive terminal applications
   Homepage: https://core.tcl.tk/expect/index
 - Package: eza
-  Version: 0.21.0
+  Version: 0.21.1
   Description: A modern replacement for ls
   Homepage: https://github.com/eza-community/eza
 - Package: fact++
@@ -6035,11 +6035,11 @@
   Description: Static libraries for libx265
   Homepage: http://x265.org/
 - Package: libxapian
-  Version: 1.4.28
+  Version: 1.4.29
   Description: Xapian search engine library
   Homepage: https://xapian.org
 - Package: libxapian-static
-  Version: 1.4.28
+  Version: 1.4.29
   Description: Static libraries for libxapian
   Homepage: https://xapian.org
 - Package: libxau
@@ -9119,7 +9119,7 @@
   Description: A simple heat transfer simulator in pure Rust
   Homepage: https://github.com/file-acomplaint/simuwaerm
 - Package: sing-box
-  Version: 1.11.7
+  Version: 1.11.8
   Description: The universal proxy platform
   Homepage: https://sing-box.sagernet.org
 - Package: skate
@@ -10595,7 +10595,7 @@
   Description: H.265/HEVC video stream encoder tool
   Homepage: http://x265.org/
 - Package: xapian-tools
-  Version: 1.4.28
+  Version: 1.4.29
   Description: Basic tools for the Xapian search engine
   Homepage: https://xapian.org
 - Package: xcb-proto
