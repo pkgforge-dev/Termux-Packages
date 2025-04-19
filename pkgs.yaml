@@ -635,7 +635,7 @@
   Description: Bore is a simple CLI tool for making tunnels to localhost
   Homepage: https://github.com/ekzhang/bore
 - Package: borgbackup
-  Version: 1.4.0-2
+  Version: 1.4.1
   Description: Deduplicating and compressing backup program
   Homepage: https://www.borgbackup.org/
 - Package: botan3
@@ -755,7 +755,7 @@
   Description: A command-line WebDAV client for Unix
   Homepage: https://notroj.github.io/cadaver/
 - Package: caddy
-  Version: 2.9.1
+  Version: 2.10.0
   Description: Fast, cross-platform HTTP/2 web server
   Homepage: https://caddyserver.com/
 - Package: calc
@@ -10395,15 +10395,15 @@
   Description: Vulkan Loader for Android
   Homepage: https://source.android.com/devices/graphics/arch-vulkan
 - Package: vulkan-loader-generic
-  Version: 1.4.312
+  Version: 1.4.313
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
-  Version: 1.4.312
+  Version: 1.4.313
   Description: Vulkan Tools and Utilities
   Homepage: https://github.com/KhronosGroup/Vulkan-Tools
 - Package: vulkan-utility-libraries
-  Version: 1.4.312
+  Version: 1.4.313
   Description: Utility Libraries for Vulkan
   Homepage: https://github.com/KhronosGroup/Vulkan-Utility-Libraries
 - Package: vulkan-validation-layers
@@ -10479,23 +10479,23 @@
   Description: Turn any program that uses STDIN/STDOUT into a WebSocket server
   Homepage: http://websocketd.com/
 - Package: weechat
-  Version: 4.6.1
+  Version: 4.6.2
   Description: Fast, light and extensible IRC chat client
   Homepage: https://weechat.org/
 - Package: weechat-lua-plugin
-  Version: 4.6.1
+  Version: 4.6.2
   Description: WeeChat Lua Plugin
   Homepage: https://weechat.org/
 - Package: weechat-perl-plugin
-  Version: 4.6.1
+  Version: 4.6.2
   Description: WeeChat Perl Plugin
   Homepage: https://weechat.org/
 - Package: weechat-python-plugin
-  Version: 4.6.1
+  Version: 4.6.2
   Description: WeeChat Python3 Plugin
   Homepage: https://weechat.org/
 - Package: weechat-ruby-plugin
-  Version: 4.6.1
+  Version: 4.6.2
   Description: WeeChat Ruby Plugin
   Homepage: https://weechat.org/
 - Package: weggli
@@ -10851,7 +10851,7 @@
   Description: A file transfer program to download files from remote web servers
   Homepage: http://zsync.moria.org.uk/
 - Package: zziplib
-  Version: 0.13.78
+  Version: 0.13.79
   Description: Provides read access to zipped files in a zip-archive, using compression based on free algorithms
   Homepage: https://zziplib.sourceforge.net/
 - Package: zzuf

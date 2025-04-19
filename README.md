@@ -169,7 +169,7 @@
 | **boost-headers** | 1:1.87.0-1 | Boost header files | https://boost.org |
 | **boost-static** | 1:1.87.0-1 | Static libraries for boost | https://boost.org |
 | **bore** | 0.5.3 | Bore is a simple CLI tool for making tunnels to localhost | https://github.com/ekzhang/bore |
-| **borgbackup** | 1.4.0-2 | Deduplicating and compressing backup program | https://www.borgbackup.org/ |
+| **borgbackup** | 1.4.1 | Deduplicating and compressing backup program | https://www.borgbackup.org/ |
 | **botan3** | 3.7.1-2 | Crypto and TLS for Modern C++ | https://botan.randombit.net/ |
 | **botan3-static** | 3.7.1-2 | Static libraries for botan3 | https://botan.randombit.net/ |
 | **boxes** | 2.3.1 | A command line filter program which draws ASCII art boxes around your input text | https://boxes.thomasjensen.com/ |
@@ -199,7 +199,7 @@
 | **ca-certificates-java** | 1:2025.02.25 | Common CA certificates (java keystore format) | https://curl.se/docs/caextract.html |
 | **cabextract** | 1.11 | A program to extract Microsoft cabinet (.CAB) files | https://www.cabextract.org.uk/ |
 | **cadaver** | 0.26 | A command-line WebDAV client for Unix | https://notroj.github.io/cadaver/ |
-| **caddy** | 2.9.1 | Fast, cross-platform HTTP/2 web server | https://caddyserver.com/ |
+| **caddy** | 2.10.0 | Fast, cross-platform HTTP/2 web server | https://caddyserver.com/ |
 | **calc** | 2.15.1.0 | Arbitrary precision console calculator | http://www.isthe.com/chongo/tech/comp/calc/ |
 | **calcurse** | 4.8.1-1 | calcurse is a calendar and scheduling application for the command line | https://calcurse.org/ |
 | **calcurse-caldav** | 4.8.1-1 | Sync calcurse with remote caldav calendar | https://calcurse.org/ |
@@ -2609,9 +2609,9 @@
 | **vulkan-icd** | 0.1 | A metapackage that provides Vulkan ICDs | https://github.com/termux/termux-packages |
 | **vulkan-loader** | 0.0.3 | A metapackage that provides vulkan loader library | https://github.com/termux/termux-packages |
 | **vulkan-loader-android** | 27c | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
-| **vulkan-loader-generic** | 1.4.312 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
-| **vulkan-tools** | 1.4.312 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
-| **vulkan-utility-libraries** | 1.4.312 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
+| **vulkan-loader-generic** | 1.4.313 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
+| **vulkan-tools** | 1.4.313 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
+| **vulkan-utility-libraries** | 1.4.313 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
 | **vulkan-validation-layers** | 1.4.311 | Vulkan Validation Layers | https://github.com/KhronosGroup/Vulkan-ValidationLayers |
 | **vulkan-volk** | 1.4.304 | Meta loader for Vulkan API | https://github.com/zeux/volk |
 | **w3m** | 0.5.3.20230121-2 | Text based Web browser and pager | https://w3m.sourceforge.net/ |
@@ -2630,11 +2630,11 @@
 | **webp-pixbuf-loader** | 0.2.7 | WebM GDK Pixbuf Loader library | https://github.com/aruiz/webp-pixbuf-loader |
 | **websocat** | 1.14.0 | Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions | https://github.com/vi/websocat |
 | **websocketd** | 0.4.1-3 | Turn any program that uses STDIN/STDOUT into a WebSocket server | http://websocketd.com/ |
-| **weechat** | 4.6.1 | Fast, light and extensible IRC chat client | https://weechat.org/ |
-| **weechat-lua-plugin** | 4.6.1 | WeeChat Lua Plugin | https://weechat.org/ |
-| **weechat-perl-plugin** | 4.6.1 | WeeChat Perl Plugin | https://weechat.org/ |
-| **weechat-python-plugin** | 4.6.1 | WeeChat Python3 Plugin | https://weechat.org/ |
-| **weechat-ruby-plugin** | 4.6.1 | WeeChat Ruby Plugin | https://weechat.org/ |
+| **weechat** | 4.6.2 | Fast, light and extensible IRC chat client | https://weechat.org/ |
+| **weechat-lua-plugin** | 4.6.2 | WeeChat Lua Plugin | https://weechat.org/ |
+| **weechat-perl-plugin** | 4.6.2 | WeeChat Perl Plugin | https://weechat.org/ |
+| **weechat-python-plugin** | 4.6.2 | WeeChat Python3 Plugin | https://weechat.org/ |
+| **weechat-ruby-plugin** | 4.6.2 | WeeChat Ruby Plugin | https://weechat.org/ |
 | **weggli** | 0.2.4-2 | A fast and robust semantic search tool for C and C++ codebases | https://github.com/googleprojectzero/weggli |
 | **wego** | 2.3 | weather app for the terminal | https://github.com/schachmat/wego |
 | **wget** | 1.25.0 | Commandline tool for retrieving files using HTTP, HTTPS and FTP | https://www.gnu.org/software/wget/ |
@@ -2723,7 +2723,7 @@
 | **zstd** | 1.5.7 | Zstandard compression | https://github.com/facebook/zstd |
 | **zstd-static** | 1.5.6-1 | Static libraries for zstd | https://github.com/facebook/zstd |
 | **zsync** | 0.6.2-5 | A file transfer program to download files from remote web servers | http://zsync.moria.org.uk/ |
-| **zziplib** | 0.13.78 | Provides read access to zipped files in a zip-archive, using compression based on free algorithms | https://zziplib.sourceforge.net/ |
+| **zziplib** | 0.13.79 | Provides read access to zipped files in a zip-archive, using compression based on free algorithms | https://zziplib.sourceforge.net/ |
 | **zzuf** | 2022.05.29 | A transparent application input fuzzer | http://caca.zoy.org/wiki/zzuf |
 | **zzuf-static** | 2022.05.29 | Static libraries for zzuf | http://caca.zoy.org/wiki/zzuf |
 
