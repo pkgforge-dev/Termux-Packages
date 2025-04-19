@@ -781,7 +781,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-1 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.22.1791 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.22.1795 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **janet** | 1.38.0 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
 | **jbig2dec** | 0.20 | Decoder implementation of the JBIG2 image compression format | https://jbig2dec.com/ |
 | **jbig2dec-static** | 0.20 | Static libraries for jbig2dec | https://jbig2dec.com/ |
@@ -1785,7 +1785,7 @@
 | **natpmpc** | 20230423-1 | Portable and fully compliant implementation of NAT-PMP | https://miniupnp.tuxfamily.org/libnatpmp.html |
 | **natpmpc-static** | 20230423-1 | Static libraries for natpmpc | https://miniupnp.tuxfamily.org/libnatpmp.html |
 | **navi** | 2.24.0 | An interactive cheatsheet tool for the command-line | https://github.com/denisidoro/navi |
-| **navidrome** | 0.55.1 | 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic | https://www.navidrome.org/ |
+| **navidrome** | 0.55.2 | 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic | https://www.navidrome.org/ |
 | **ncdc** | 1.25 | Modern and lightweight direct connect client with a friendly ncurses interface | https://dev.yorhel.nl/ncdc |
 | **ncdu** | 1.22 | Disk usage analyzer | https://dev.yorhel.nl/ncdu |
 | **ncdu2** | 2.8 | Disk usage analyzer | https://dev.yorhel.nl/ncdu |
