@@ -7039,7 +7039,7 @@
   Description: Lightweight PDF and XPS viewer (utilities)
   Homepage: https://mupdf.com/
 - Package: music-file-organizer
-  Version: 1.0.4-6
+  Version: 1.0.4-7
   Description: Organizer of audio files into directories based on metadata tags
   Homepage: https://git.zx2c4.com/music-file-organizer/about/
 - Package: mutt
@@ -7099,7 +7099,7 @@
   Description: An interactive cheatsheet tool for the command-line
   Homepage: https://github.com/denisidoro/navi
 - Package: navidrome
-  Version: 0.54.5
+  Version: 0.55.1
   Description: "\U0001F3A7☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic"
   Homepage: https://www.navidrome.org/
 - Package: ncdc
@@ -7119,7 +7119,7 @@
   Description: A free set of programs that use the File Transfer Protocol
   Homepage: https://www.ncftp.com/
 - Package: ncmpcpp
-  Version: 0.10.1-4
+  Version: 0.10.1-5
   Description: NCurses Music Player Client (Plus Plus)
   Homepage: https://rybczak.net/ncmpcpp/
 - Package: ncompress
@@ -8767,7 +8767,7 @@
   Description: A tool for doing record analysis and transformation
   Homepage: https://github.com/dflemstr/rq
 - Package: rsgain
-  Version: "3.6"
+  Version: 3.6-1
   Description: A simple audio normalizazion utility
   Homepage: https://github.com/complexlogic/rsgain
 - Package: rsnapshot
@@ -9543,7 +9543,7 @@
   Description: Static libraries for ta-lib
   Homepage: https://ta-lib.org/
 - Package: taglib
-  Version: 1.13.1-2
+  Version: 2.0.2
   Description: A Library for reading and editing the meta-data of several popular audio formats.
   Homepage: http://taglib.github.io/
 - Package: taplo
@@ -9823,7 +9823,7 @@
   Description: Very small scheme implementation
   Homepage: http://tinyscheme.sourceforge.net/home.html
 - Package: tizonia
-  Version: 0.22.0-17
+  Version: 0.22.0-18
   Description: A command-line streaming music client/server for Linux
   Homepage: https://github.com/tizonia/
 - Package: tk
@@ -10347,11 +10347,11 @@
   Description: A themeable LS_COLORS generator with a rich filetype datebase
   Homepage: https://github.com/sharkdp/vivid
 - Package: vlc
-  Version: 3.0.21-6
+  Version: 3.0.21-7
   Description: A popular libre and open source media player and multimedia engine
   Homepage: https://www.videolan.org/
 - Package: vlc-static
-  Version: 3.0.21-6
+  Version: 3.0.21-7
   Description: Static libraries for vlc
   Homepage: https://www.videolan.org/
 - Package: vobsub2srt
