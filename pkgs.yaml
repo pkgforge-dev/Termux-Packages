@@ -1635,7 +1635,7 @@
   Description: 'Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms'
   Homepage: http://eigen.tuxfamily.org
 - Package: eja
-  Version: 15.4.5
+  Version: 18.4.19
   Description: eja micro web server
   Homepage: https://github.com/eja/eja
 - Package: electric-fence
@@ -3627,7 +3627,7 @@
   Description: C++ Standard Library
   Homepage: https://libcxx.llvm.org/
 - Package: libc++utilities
-  Version: 5.28.0
+  Version: 5.28.1
   Description: Useful C++ classes and routines such as argument parser, IO and conversion utilities
   Homepage: https://github.com/Martchus/cpp-utilities
 - Package: libc-client
@@ -10015,7 +10015,7 @@
   Description: Simple terminal clock
   Homepage: https://github.com/xorg62/tty-clock
 - Package: tty-solitaire
-  Version: 1.4.0
+  Version: 1.4.1
   Description: Klondike solitaire game
   Homepage: https://github.com/mpereira/tty-solitaire
 - Package: ttyc
