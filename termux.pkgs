@@ -439,7 +439,7 @@
 | **exiv2** | 2:0.28.5 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **exiv2-static** | 2:0.27.7-1 | Static libraries for exiv2 | https://exiv2.org/ |
 | **expect** | 5.45.4-3 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
-| **eza** | 0.21.2 | A modern replacement for ls | https://github.com/eza-community/eza |
+| **eza** | 0.21.3 | A modern replacement for ls | https://github.com/eza-community/eza |
 | **fact++** | 1.6.5-1 | Re-implementation of the well-known FaCT Description Logic (DL) Reasoner | https://bitbucket.org/dtsarkov/factplusplus |
 | **fakeroot** | 1.37.1.1 | Tool for simulating superuser privileges (with tcp ipc) | https://packages.qa.debian.org/f/fakeroot.html |
 | **fakeroot-static** | 1.37.1.1 | Static libraries for fakeroot | https://packages.qa.debian.org/f/fakeroot.html |
@@ -573,7 +573,7 @@
 | **gitoxide** | 0.44.0 | Rust implementation of Git | https://github.com/Byron/gitoxide |
 | **gitui** | 0.27.0-2 | Blazing fast terminal-ui for git written in rust | https://github.com/extrawurst/gitui |
 | **gkermit** | 2.01 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
-| **glab-cli** | 1.56.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
+| **glab-cli** | 1.57.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
 | **gleam** | 1.10.0 | A friendly language for building type-safe, scalable systems! | https://gleam.run |
 | **glib** | 2.84.1-2 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
 | **glib-bin** | 2.84.1-1 | Programs for the GLib library | https://developer.gnome.org/glib/ |
@@ -791,7 +791,7 @@
 | **jq** | 1.7.1 | Command-line JSON processor | https://stedolan.github.io/jq/ |
 | **jq-lsp** | 0.1.11 | jq language server | https://github.com/wader/jq-lsp |
 | **jq-static** | 1.7.1 | Static libraries for jq | https://stedolan.github.io/jq/ |
-| **jql** | 8.0.5 | A JSON Query Language CLI tool | https://github.com/yamafaktory/jql |
+| **jql** | 8.0.6 | A JSON Query Language CLI tool | https://github.com/yamafaktory/jql |
 | **json-c** | 0.18 | A JSON implementation in C | https://github.com/json-c/json-c/wiki |
 | **json-c-static** | 0.18 | Static libraries for json-c | https://github.com/json-c/json-c/wiki |
 | **json-glib** | 1.10.6 | GLib JSON manipulation library | https://wiki.gnome.org/Projects/JsonGlib |
