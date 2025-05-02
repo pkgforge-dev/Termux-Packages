@@ -955,7 +955,7 @@
 | **libconfig-static** | 1.8 | Static libraries for libconfig | https://github.com/hyperrealm/libconfig |
 | **libconfuse** | 3.3 | Small configuration file parser library for C | https://github.com/martinh/libconfuse |
 | **libconfuse-static** | 3.3 | Static libraries for libconfuse | https://github.com/martinh/libconfuse |
-| **libcpufeatures** | 0.9.0 | A cross-platform C library to retrieve CPU features (such as available instructions) at runtime | https://github.com/google/cpu_features |
+| **libcpufeatures** | 0.10.0 | A cross-platform C library to retrieve CPU features (such as available instructions) at runtime | https://github.com/google/cpu_features |
 | **libcroco** | 0.6.13-9 | CSS parsing and manipulation library | https://gitlab.gnome.org/Archive/libcroco |
 | **libcroco-static** | 0.6.13-9 | Static libraries for libcroco | https://gitlab.gnome.org/Archive/libcroco |
 | **libcrypt** | 0.2-5 | A crypt(3) implementation | http://michael.dipperstein.com/crypt/ |
@@ -2086,7 +2086,7 @@
 | **python-numpy-static** | 2.2.5 | Static libraries for python-numpy | https://numpy.org/ |
 | **python-onnxruntime** | 1.21.1 | Cross-platform, high performance ML inferencing and training accelerator | https://onnxruntime.ai/ |
 | **python-pillow** | 11.1.0-1 | Python Imaging Library | https://python-pillow.org/ |
-| **python-pip** | 25.1 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
+| **python-pip** | 25.1.1 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
 | **python-pyarrow** | 19.0.1-3 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
 | **python-pycryptodomex** | 3.22.0 | A self-contained Python package of low-level cryptographic primitives | https://www.pycryptodome.org/ |
 | **python-pynvim** | 0.5.0-1 | Python client for Neovim | https://github.com/neovim/pynvim |
@@ -2591,7 +2591,7 @@
 | **vgmstream** | 1980 | A library for playback of various streamed audio formats used in video games | https://github.com/vgmstream/vgmstream |
 | **vgmtools** | 2023.01.27 | A collection of tools for the VGM file format | https://github.com/vgmrips/vgmtools |
 | **viddy** | 1.3.0-1 | A modern watch command | https://github.com/sachaos/viddy |
-| **vifm** | 0.14 | File manager with vi like keybindings | https://vifm.info/ |
+| **vifm** | 0.14.1 | File manager with vi like keybindings | https://vifm.info/ |
 | **vile** | 9.8z | VI Like Emacs - vi work-alike | https://invisible-island.net/vile/ |
 | **vim** | 9.1.1350 | Vi IMproved - enhanced vi editor | https://www.vim.org |
 | **virglrenderer** | 1.1.0-1 | A virtual 3D GPU for use inside qemu virtual machines | https://virgil3d.github.io/ |
@@ -2666,7 +2666,7 @@
 | **xapian-tools** | 1.4.29 | Basic tools for the Xapian search engine | https://xapian.org |
 | **xcb-proto** | 1.17.0-1 | XML-XCB protocol descriptions | https://xcb.freedesktop.org/ |
 | **xdelta3** | 3.1.0-2 | xdelta3 - VCDIFF (RFC 3284) binary diff tool | https://github.com/jmacd/xdelta |
-| **xh** | 0.24.0 | A friendly and fast tool for sending HTTP requests | https://github.com/ducaale/xh |
+| **xh** | 0.24.1 | A friendly and fast tool for sending HTTP requests | https://github.com/ducaale/xh |
 | **xls2csv** | 1.6.3 | A command-line tool for converting XLS to CSV | https://github.com/libxls/libxls |
 | **xmake** | 2.9.9 | A cross-platform build utility based on Lua | https://xmake.io/ |
 | **xmlsec** | 1.3.7-2 | XML Security Library | https://www.aleksey.com/xmlsec/ |

@@ -3779,7 +3779,7 @@
   Description: Static libraries for libconfuse
   Homepage: https://github.com/martinh/libconfuse
 - Package: libcpufeatures
-  Version: 0.9.0
+  Version: 0.10.0
   Description: A cross-platform C library to retrieve CPU features (such as available instructions) at runtime
   Homepage: https://github.com/google/cpu_features
 - Package: libcroco
@@ -8303,7 +8303,7 @@
   Description: Python Imaging Library
   Homepage: https://python-pillow.org/
 - Package: python-pip
-  Version: "25.1"
+  Version: 25.1.1
   Description: The PyPA recommended tool for installing Python packages
   Homepage: https://pip.pypa.io/
 - Package: python-pyarrow
@@ -10323,7 +10323,7 @@
   Description: A modern watch command
   Homepage: https://github.com/sachaos/viddy
 - Package: vifm
-  Version: "0.14"
+  Version: 0.14.1
   Description: File manager with vi like keybindings
   Homepage: https://vifm.info/
 - Package: vile
@@ -10623,7 +10623,7 @@
   Description: xdelta3 - VCDIFF (RFC 3284) binary diff tool
   Homepage: https://github.com/jmacd/xdelta
 - Package: xh
-  Version: 0.24.0
+  Version: 0.24.1
   Description: A friendly and fast tool for sending HTTP requests
   Homepage: https://github.com/ducaale/xh
 - Package: xls2csv
