@@ -248,7 +248,7 @@
 | **clblast** | 1.6.3 | Tuned OpenCL BLAS | https://github.com/CNugteren/CLBlast |
 | **cliaoke** | 0.2.4-4 | Command line karaoke | https://github.com/jessfraz/cliaoke |
 | **clidle** | 2022.05.25-2 | Play Wordle over SSH | https://github.com/ajeetdsouza/clidle |
-| **clifm** | 1.24 | The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell | https://github.com/leo-arch/clifm |
+| **clifm** | 1.25 | The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell | https://github.com/leo-arch/clifm |
 | **clinfo** | 3.0.25.02.14 | Print all known information about all available OpenCL platforms and devices in the system | https://github.com/Oblomov/clinfo |
 | **clipp** | 1.2.3-1 | Command line interfaces for modern C++ | https://github.com/muellan/clipp |
 | **cloneit** | 20240728 | A cli tool to download specific GitHub directories or files | https://github.com/alok8bb/cloneit |
@@ -500,7 +500,7 @@
 | **fontconfig-static** | 2.16.2 | Static libraries for fontconfig | https://www.freedesktop.org/wiki/Software/fontconfig/ |
 | **fontconfig-utils** | 2.16.2 | Fontconfig binaries | https://www.freedesktop.org/wiki/Software/fontconfig/ |
 | **forestdb-dump** | 1.2 | ForestDB dump tool | https://github.com/couchbase/forestdb |
-| **forgejo** | 11.0.0 | Forgejo is a self-hosted lightweight software forge. | https://forgejo.org/ |
+| **forgejo** | 11.0.1 | Forgejo is a self-hosted lightweight software forge. | https://forgejo.org/ |
 | **fortune** | 1.2-1 | Revealer of fortunes | https://www.fefe.de/fortune/ |
 | **fossil** | 2.26 | DSCM with built-in wiki, http interface and server, tickets database | https://www.fossil-scm.org |
 | **freecolor** | 0.9.3 | Freecolor is a replacement for Linux that displays free memory graphically | http://rkeene.org/oss/freecolor/ |
@@ -555,8 +555,8 @@
 | **getconf** | 0.6 | Utility to print configuration values | https://github.com/termux/getconf |
 | **geth** | 1.15.10 | Go implementation of the Ethereum protocol | https://geth.ethereum.org/ |
 | **geth-utils** | 1.15.10 | Additional utilities for Geth (like abigen, bootnode, evm, puppeth) | https://geth.ethereum.org/ |
-| **gettext** | 0.24-1 | GNU Internationalization utilities | https://www.gnu.org/software/gettext/ |
-| **gettext-static** | 0.24-1 | Static libraries for gettext | https://www.gnu.org/software/gettext/ |
+| **gettext** | 0.24.1 | GNU Internationalization utilities | https://www.gnu.org/software/gettext/ |
+| **gettext-static** | 0.24.1 | Static libraries for gettext | https://www.gnu.org/software/gettext/ |
 | **gexiv2** | 0.14.3-1 | A GObject-based Exiv2 wrapper | https://wiki.gnome.org/Projects/gexiv2 |
 | **gflags** | 2.2.2-9 | A C++ library that implements commandline flags processing | https://github.com/gflags/gflags |
 | **gflags-static** | 2.2.2-9 | Static libraries for gflags | https://github.com/gflags/gflags |
@@ -1311,7 +1311,7 @@
 | **libpolly** | 20.1.3-1 | High-level loop and data-locality optimizer for clang | https://clang.llvm.org/ |
 | **libpopt** | 1.19-2 | Library for parsing cmdline parameters | https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html |
 | **libpopt-static** | 1.19-2 | Static libraries for libpopt | https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html |
-| **libprotobuf** | 2:30.0-2 | Protocol buffers C++ library | https://github.com/protocolbuffers/protobuf |
+| **libprotobuf** | 2:30.0-3 | Protocol buffers C++ library | https://github.com/protocolbuffers/protobuf |
 | **libprotobuf-c** | 1.5.2 | Protocol buffers C library | https://github.com/protobuf-c/protobuf-c |
 | **libprotobuf-c-static** | 1.5.2 | Static libraries for libprotobuf-c | https://github.com/protobuf-c/protobuf-c |
 | **libprotozero** | 1.7.1 | Minimalistic protocol buffer decoder and encoder in C++ | https://github.com/mapbox/protozero |
@@ -2042,9 +2042,9 @@
 | **proj** | 9.6.0 | Generic coordinate transformation software | https://proj.org |
 | **proot** | 5.1.107-65 | Emulate chroot, bind mount and binfmt_misc for non-root users | https://proot-me.github.io/ |
 | **proot-distro** | 4.25.0 | Termux official utility for managing proot'ed Linux distributions | https://github.com/termux/proot-distro |
-| **protobuf** | 2:30.0-2 | Compiler for protocol buffer definition files | https://github.com/protocolbuffers/protobuf |
-| **protobuf-dev** | 2:30.0-2 | CMake files for protobuf shared libraries | https://github.com/protocolbuffers/protobuf |
-| **protobuf-static** | 30.0-2 | Protocol buffers C++ library (static) | https://github.com/protocolbuffers/protobuf |
+| **protobuf** | 2:30.0-3 | Compiler for protocol buffer definition files | https://github.com/protocolbuffers/protobuf |
+| **protobuf-dev** | 2:30.0-3 | CMake files for protobuf shared libraries | https://github.com/protocolbuffers/protobuf |
+| **protobuf-static** | 30.0-3 | Protocol buffers C++ library (static) | https://github.com/protocolbuffers/protobuf |
 | **prover9** | 2009-11A-1 | An automated theorem prover for first-order and equational logic | https://www.cs.unm.edu/~mccune/prover9/ |
 | **proxychains-ng** | 4.17 | A hook preloader that allows to redirect TCP traffic of existing dynamically linked programs through one or more SOCKS or HTTP proxies | https://github.com/rofl0r/proxychains-ng |
 | **psmisc** | 23.7 | Some small useful utilities that use the proc filesystem | https://gitlab.com/psmisc/psmisc |

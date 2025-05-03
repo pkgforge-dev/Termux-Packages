@@ -1429,7 +1429,7 @@
   },
   {
     "Package": "clifm",
-    "Version": "1.24",
+    "Version": "1.25",
     "Description": "The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell",
     "Homepage": "https://github.com/leo-arch/clifm"
   },
@@ -2941,7 +2941,7 @@
   },
   {
     "Package": "forgejo",
-    "Version": "11.0.0",
+    "Version": "11.0.1",
     "Description": "Forgejo is a self-hosted lightweight software forge.",
     "Homepage": "https://forgejo.org/"
   },
@@ -3271,13 +3271,13 @@
   },
   {
     "Package": "gettext",
-    "Version": "0.24-1",
+    "Version": "0.24.1",
     "Description": "GNU Internationalization utilities",
     "Homepage": "https://www.gnu.org/software/gettext/"
   },
   {
     "Package": "gettext-static",
-    "Version": "0.24-1",
+    "Version": "0.24.1",
     "Description": "Static libraries for gettext",
     "Homepage": "https://www.gnu.org/software/gettext/"
   },
@@ -7807,7 +7807,7 @@
   },
   {
     "Package": "libprotobuf",
-    "Version": "2:30.0-2",
+    "Version": "2:30.0-3",
     "Description": "Protocol buffers C++ library",
     "Homepage": "https://github.com/protocolbuffers/protobuf"
   },
@@ -12193,19 +12193,19 @@
   },
   {
     "Package": "protobuf",
-    "Version": "2:30.0-2",
+    "Version": "2:30.0-3",
     "Description": "Compiler for protocol buffer definition files",
     "Homepage": "https://github.com/protocolbuffers/protobuf"
   },
   {
     "Package": "protobuf-dev",
-    "Version": "2:30.0-2",
+    "Version": "2:30.0-3",
     "Description": "CMake files for protobuf shared libraries",
     "Homepage": "https://github.com/protocolbuffers/protobuf"
   },
   {
     "Package": "protobuf-static",
-    "Version": "30.0-2",
+    "Version": "30.0-3",
     "Description": "Protocol buffers C++ library (static)",
     "Homepage": "https://github.com/protocolbuffers/protobuf"
   },
