@@ -3243,7 +3243,7 @@
   Description: Key directory that maps social media identities to encryption keys
   Homepage: https://keybase.io
 - Package: keychain
-  Version: 2.9.1
+  Version: 2.9.2
   Description: keychain ssh-agent front-end
   Homepage: https://www.funtoo.org/Keychain
 - Package: kibi
@@ -7423,7 +7423,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 25.20.1
+  Version: 25.21.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -8255,7 +8255,7 @@
   Description: Python library for calculating contours in 2D quadrilateral grids
   Homepage: https://contourpy.readthedocs.io/
 - Package: python-cryptography
-  Version: 44.0.2
+  Version: 44.0.3
   Description: Provides cryptographic recipes and primitives to Python developers
   Homepage: https://github.com/pyca/cryptography
 - Package: python-ensurepip-wheels
@@ -8303,7 +8303,7 @@
   Description: Python Imaging Library
   Homepage: https://python-pillow.org/
 - Package: python-pip
-  Version: 25.1.1
+  Version: 25.1.1-1
   Description: The PyPA recommended tool for installing Python packages
   Homepage: https://pip.pypa.io/
 - Package: python-pyarrow
