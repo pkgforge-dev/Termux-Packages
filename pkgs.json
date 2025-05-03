@@ -1243,7 +1243,7 @@
   },
   {
     "Package": "ccache",
-    "Version": "4.11.2",
+    "Version": "4.11.3",
     "Description": "Compiler cache for fast recompilation of C/C++ code",
     "Homepage": "https://ccache.samba.org"
   },
@@ -10543,7 +10543,7 @@
   },
   {
     "Package": "mu",
-    "Version": "1.12.9",
+    "Version": "1.12.10",
     "Description": "Maildir indexer/searcher and Emacs client (mu4e)",
     "Homepage": "https://www.djcbsoftware.nl/code/mu/"
   },
@@ -14947,13 +14947,13 @@
   },
   {
     "Package": "tree-sitter-vim",
-    "Version": "0.5.0-1",
+    "Version": "0.6.0",
     "Description": "Vimscript grammar for tree-sitter",
     "Homepage": "https://github.com/tree-sitter-grammars/tree-sitter-vim"
   },
   {
     "Package": "tree-sitter-vim-static",
-    "Version": "0.5.0-1",
+    "Version": "0.6.0",
     "Description": "Static libraries for tree-sitter-vim",
     "Homepage": "https://github.com/tree-sitter-grammars/tree-sitter-vim"
   },
@@ -16123,7 +16123,7 @@
   },
   {
     "Package": "yq",
-    "Version": "4.45.1",
+    "Version": "4.45.2",
     "Description": "A lightweight and portable command-line YAML, JSON and XML processor",
     "Homepage": "https://mikefarah.gitbook.io/yq/"
   },
