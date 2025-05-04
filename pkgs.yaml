@@ -1931,7 +1931,7 @@
   Description: Static libraries for flex
   Homepage: https://github.com/westes/flex
 - Package: fluidsynth
-  Version: 2.4.5
+  Version: 2.4.6
   Description: Software synthesizer based on the SoundFont 2 specifications
   Homepage: https://github.com/FluidSynth/fluidsynth
 - Package: fm
@@ -8695,7 +8695,7 @@
   Description: A CLI for interacting with REST-ish HTTP APIs
   Homepage: https://github.com/danielgtaylor/restish
 - Package: rgbds
-  Version: 0.9.1
+  Version: 0.9.2
   Description: Rednex Game Boy Development System - An assembly toolchain for the Nintendo Game Boy & Game Boy Color
   Homepage: https://rgbds.gbdev.io
 - Package: rhash
