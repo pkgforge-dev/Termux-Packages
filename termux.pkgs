@@ -1236,7 +1236,7 @@
 | **libnpth-static** | 1.6-2 | Static libraries for libnpth | https://www.gnupg.org/related_software/npth/ |
 | **libnspr** | 4.36 | Netscape Portable Runtime (NSPR) | https://hg.mozilla.org/projects/nspr |
 | **libnspr-static** | 4.36 | Static libraries for libnspr | https://hg.mozilla.org/projects/nspr |
-| **libnss** | 3.110 | Network Security Services (NSS) | https://firefox-source-docs.mozilla.org/security/nss/ |
+| **libnss** | 3.111 | Network Security Services (NSS) | https://firefox-source-docs.mozilla.org/security/nss/ |
 | **libntl** | 11.5.1-1 | A Library for doing Number Theory | https://libntl.org |
 | **libntl-static** | 11.5.1-1 | Static libraries for libntl | https://libntl.org |
 | **libobjc2** | 2.1-2 | The GNUstep Objective-C runtime | http://www.gnustep.org/ |
@@ -1839,7 +1839,7 @@
 | **nsis** | 3.11 | A professional open source system to create Windows installers | https://sourceforge.net/projects/nsis/ |
 | **nsis-stubs** | 3.11 | NSIS Stubs | https://sourceforge.net/projects/nsis/ |
 | **nsnake** | 3.0.1-6 | The classic snake game with textual interface | https://github.com/alexdantas/nSnake |
-| **nss-utils** | 3.110 | Tools for NSS | https://firefox-source-docs.mozilla.org/security/nss/ |
+| **nss-utils** | 3.111 | Tools for NSS | https://firefox-source-docs.mozilla.org/security/nss/ |
 | **nudoku** | 5.0.0 | ncurses based sudoku game | http://jubalh.github.io/nudoku/ |
 | **nushell** | 0.104.0 | A new type of shell operating on structured data | https://www.nushell.sh |
 | **nwipe** | 0.38 | A program that will securely erase the entire contents of disks | https://github.com/martijnvanbrummelen/nwipe |
@@ -2235,7 +2235,7 @@
 | **samefile** | 2.15-5 | Finds files with identical contents, independent of file name | http://www.schweikhardt.net/samefile/ |
 | **samurai** | 1.2-1 | ninja-compatible build tool written in C | https://github.com/michaelforney/samurai |
 | **sassc** | 3.6.2 | libsass command line driver | https://github.com/sass/sassc |
-| **sc-im** | 0.8.4-2 | An improved version of sc, a spreadsheet calculator | https://github.com/andmarti1424/sc-im |
+| **sc-im** | 0.8.4-3 | An improved version of sc, a spreadsheet calculator | https://github.com/andmarti1424/sc-im |
 | **scala** | 3.6.4 | Scala 3 compiler and standard library. | https://www.scala-lang.org |
 | **scc** | 3.5.0 | Counts physical the lines of code, blank lines, comment lines, and physical lines of source code | https://github.com/boyter/scc |
 | **sccache** | 0.10.0 | sccache is ccache with cloud storage | https://github.com/mozilla/sccache |

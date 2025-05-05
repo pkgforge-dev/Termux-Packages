@@ -4951,7 +4951,7 @@
   Description: Static libraries for libnspr
   Homepage: https://hg.mozilla.org/projects/nspr
 - Package: libnss
-  Version: "3.110"
+  Version: "3.111"
   Description: Network Security Services (NSS)
   Homepage: https://firefox-source-docs.mozilla.org/security/nss/
 - Package: libntl
@@ -7363,7 +7363,7 @@
   Description: The classic snake game with textual interface
   Homepage: https://github.com/alexdantas/nSnake
 - Package: nss-utils
-  Version: "3.110"
+  Version: "3.111"
   Description: Tools for NSS
   Homepage: https://firefox-source-docs.mozilla.org/security/nss/
 - Package: nudoku
@@ -8947,7 +8947,7 @@
   Description: libsass command line driver
   Homepage: https://github.com/sass/sassc
 - Package: sc-im
-  Version: 0.8.4-2
+  Version: 0.8.4-3
   Description: An improved version of sc, a spreadsheet calculator
   Homepage: https://github.com/andmarti1424/sc-im
 - Package: scala
