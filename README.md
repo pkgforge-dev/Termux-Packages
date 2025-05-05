@@ -2431,12 +2431,12 @@
 | **termux-api-static** | 0.59.1 | Static libraries for termux-api | https://wiki.termux.com/wiki/Termux:API |
 | **termux-apt-repo** | 0.5-1 | Script to create Termux apt repositories | https://github.com/termux/termux-apt-repo |
 | **termux-auth** | 1.5.0 | Password authentication library and utility for Termux | https://github.com/termux/termux-auth |
-| **termux-core** | 0.3.0 | Utils and libraries for Termux core | https://github.com/termux/termux-core-package |
-| **termux-core-static** | 0.3.0 | Static libraries for termux-core | https://github.com/termux/termux-core-package |
+| **termux-core** | 0.4.0 | Utils and libraries for Termux core | https://github.com/termux/termux-core-package |
+| **termux-core-static** | 0.4.0 | Static libraries for termux-core | https://github.com/termux/termux-core-package |
 | **termux-create-package** | 0.12.0-2 | Utility to create Termux packages | https://github.com/termux/termux-create-package |
 | **termux-elf-cleaner** | 3.0.1 | Cleaner of ELF files for Android | https://github.com/termux/termux-elf-cleaner |
-| **termux-exec** | 1:2.3.0 | Utils and libraries for Termux exec including a LD_PRELOAD shared library for proper functioning of the Termux execution environment | https://github.com/termux/termux-exec-package |
-| **termux-exec-static** | 1:2.3.0 | Static libraries for termux-exec | https://github.com/termux/termux-exec-package |
+| **termux-exec** | 1:2.4.0 | Utils and libraries for Termux exec including a LD_PRELOAD shared library for proper functioning of the Termux execution environment | https://github.com/termux/termux-exec-package |
+| **termux-exec-static** | 1:2.4.0 | Static libraries for termux-exec | https://github.com/termux/termux-exec-package |
 | **termux-gui-bash** | 0.1.2 | A bash library for Termux:GUI | https://github.com/tareksander/termux-gui-bash |
 | **termux-gui-c** | 0.1.3-3 | A C library for the Termux:GUI plugin | https://github.com/tareksander/termux-gui-c-bindings |
 | **termux-gui-package** | 0.1.6-2 | A Termux package containing utilities for Termux:GUI | https://github.com/tareksander/termux-gui-package |
