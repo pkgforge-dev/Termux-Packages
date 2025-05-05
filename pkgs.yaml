@@ -1623,7 +1623,7 @@
   Description: Classic UNIX line editor
   Homepage: https://www.gnu.org/software/ed/
 - Package: edbrowse
-  Version: 3.8.11
+  Version: 3.8.12
   Description: Line based editor, browser, and mail client
   Homepage: https://edbrowse.org/
 - Package: editorconfig-core-c
@@ -2171,11 +2171,11 @@
   Description: Utility to print configuration values
   Homepage: https://github.com/termux/getconf
 - Package: geth
-  Version: 1.15.10
+  Version: 1.15.11
   Description: Go implementation of the Ethereum protocol
   Homepage: https://geth.ethereum.org/
 - Package: geth-utils
-  Version: 1.15.10
+  Version: 1.15.11
   Description: Additional utilities for Geth (like abigen, bootnode, evm, puppeth)
   Homepage: https://geth.ethereum.org/
 - Package: gettext
