@@ -543,8 +543,8 @@
  getconf  0.6  Utility to print configuration values  https://github.com/termux/getconf 
  geth  1.15.11  Go implementation of the Ethereum protocol  https://geth.ethereum.org/ 
  geth-utils  1.15.11  Additional utilities for Geth (like abigen, bootnode, evm, puppeth)  https://geth.ethereum.org/ 
- gettext  0.24.1  GNU Internationalization utilities  https://www.gnu.org/software/gettext/ 
- gettext-static  0.24.1  Static libraries for gettext  https://www.gnu.org/software/gettext/ 
+ gettext  0.24.1-1  GNU Internationalization utilities  https://www.gnu.org/software/gettext/ 
+ gettext-static  0.24.1-1  Static libraries for gettext  https://www.gnu.org/software/gettext/ 
  gexiv2  0.14.3-1  A GObject-based Exiv2 wrapper  https://wiki.gnome.org/Projects/gexiv2 
  gflags  2.2.2-9  A C++ library that implements commandline flags processing  https://github.com/gflags/gflags 
  gflags-static  2.2.2-9  Static libraries for gflags  https://github.com/gflags/gflags 
@@ -1139,7 +1139,7 @@
  liblqr-static  0.4.3  Static libraries for liblqr  https://github.com/carlobaldassi/liblqr 
  liblrdf  0.6.1  A library to make it easy to manipulate RDF files describing LADSPA plugins  https://github.com/swh/LRDF 
  liblrdf-static  0.6.1  Static libraries for liblrdf  https://github.com/swh/LRDF 
- libltdl  2.5.4  Library for dlopening libraries  https://www.gnu.org/software/libtool/ 
+ libltdl  2.5.4-1  Library for dlopening libraries  https://www.gnu.org/software/libtool/ 
  liblua51  5.1.5  Shared library for the Lua interpreter (v5.1.x)  https://www.lua.org 
  liblua51-static  5.1.5  Static libraries for liblua51  https://www.lua.org 
  liblua52  5.2.4-8  Shared library for the Lua interpreter (v5.2.x)  https://www.lua.org 
@@ -1428,7 +1428,7 @@
  libtomcrypt-static  1.18.2  Static libraries for libtomcrypt  https://www.libtom.net/LibTomCrypt/ 
  libtommath  1.3.0  A free open source portable number theoretic multiple-precision integer library  https://www.libtom.net/LibTomMath/ 
  libtommath-static  1.3.0  Static libraries for libtommath  https://www.libtom.net/LibTomMath/ 
- libtool  2.5.4  Generic library support script hiding the complexity of using shared libraries behind a consistent, portable interface  https://www.gnu.org/software/libtool/ 
+ libtool  2.5.4-1  Generic library support script hiding the complexity of using shared libraries behind a consistent, portable interface  https://www.gnu.org/software/libtool/ 
  libtorrent  0.15.3-1  Libtorrent BitTorrent library  https://github.com/rakshasa/rtorrent/wiki 
  libtorrent-rasterbar  2.0.11-2  A feature complete C++ bittorrent implementation focusing on efficiency and scalability  https://libtorrent.org/ 
  libtorrent-static  0.15.3-1  Static libraries for libtorrent  https://github.com/rakshasa/rtorrent/wiki 
@@ -1666,7 +1666,7 @@
  mbedtls-static  3.6.3  Static libraries for mbedtls  https://tls.mbed.org/ 
  mc  4.8.33-1  Midnight Commander - a powerful file manager  https://midnight-commander.org 
  mcfly  0.9.3  Replaces your default ctrl-r shell history search with an intelligent search engine  https://github.com/cantino/mcfly 
- mdbook  0.4.48  Creates book from markdown files  https://rust-lang.github.io/mdBook/ 
+ mdbook  0.4.49  Creates book from markdown files  https://rust-lang.github.io/mdBook/ 
  mdbook-auto-gen-summary  0.1.10  A preprocessor and cli tool for mdbook to auto generate summary  https://github.com/cococolanosugar/mdbook-auto-gen-summary 
  mdbook-cat-prep  1.0.9  A preprocessor for mdbook which provides teacher, subject, material and tag functionality  https://github.com/gjk-cat/cat-prep 
  mdbook-epub  0.4.48  An EPUB renderer for mdbook  https://github.com/Michael-F-Bryan/mdbook-epub 
@@ -2319,8 +2319,8 @@
  spglib-static  2.0.2  Static libraries for spglib  https://spglib.github.io/spglib/index.html 
  spidermonkey  128.10.0  Mozilla's JavaScript engine  https://spidermonkey.dev 
  spiped  1.6.4  a utility for creating symmetrically encrypted and authenticated pipes between socket addresses  https://www.tarsnap.com/spiped.html 
- spirv-headers  1.4.309.0  SPIR-V Headers  https://github.com/KhronosGroup/SPIRV-Headers 
- spirv-tools  1.4.309.0  SPIR-V Tools  https://github.com/KhronosGroup/SPIRV-Tools 
+ spirv-headers  1.4.313.0  SPIR-V Headers  https://github.com/KhronosGroup/SPIRV-Headers 
+ spirv-tools  1.4.313.0  SPIR-V Tools  https://github.com/KhronosGroup/SPIRV-Tools 
  sqlcipher  4.6.1  SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files  https://github.com/sqlcipher/sqlcipher 
  sqlcipher-static  4.6.1  Static libraries for sqlcipher  https://github.com/sqlcipher/sqlcipher 
  sqlite  3.49.1-2  Command line shell for SQLite  https://www.sqlite.org 
@@ -2601,9 +2601,9 @@
  vulkan-icd  0.1  A metapackage that provides Vulkan ICDs  https://github.com/termux/termux-packages 
  vulkan-loader  0.0.3  A metapackage that provides vulkan loader library  https://github.com/termux/termux-packages 
  vulkan-loader-android  27c  Vulkan Loader for Android  https://source.android.com/devices/graphics/arch-vulkan 
- vulkan-loader-generic  1.4.313  Vulkan Loader  https://github.com/KhronosGroup/Vulkan-Loader 
- vulkan-tools  1.4.313  Vulkan Tools and Utilities  https://github.com/KhronosGroup/Vulkan-Tools 
- vulkan-utility-libraries  1.4.313  Utility Libraries for Vulkan  https://github.com/KhronosGroup/Vulkan-Utility-Libraries 
+ vulkan-loader-generic  1.4.314  Vulkan Loader  https://github.com/KhronosGroup/Vulkan-Loader 
+ vulkan-tools  1.4.314  Vulkan Tools and Utilities  https://github.com/KhronosGroup/Vulkan-Tools 
+ vulkan-utility-libraries  1.4.314  Utility Libraries for Vulkan  https://github.com/KhronosGroup/Vulkan-Utility-Libraries 
  vulkan-validation-layers  1.4.311  Vulkan Validation Layers  https://github.com/KhronosGroup/Vulkan-ValidationLayers 
  vulkan-volk  1.4.304  Meta loader for Vulkan API  https://github.com/zeux/volk 
  w3m  0.5.3.20230121-2  Text based Web browser and pager  https://w3m.sourceforge.net/ 

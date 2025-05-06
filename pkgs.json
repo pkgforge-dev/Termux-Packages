@@ -3271,13 +3271,13 @@
   },
   {
     "Package": "gettext",
-    "Version": "0.24.1",
+    "Version": "0.24.1-1",
     "Description": "GNU Internationalization utilities",
     "Homepage": "https://www.gnu.org/software/gettext/"
   },
   {
     "Package": "gettext-static",
-    "Version": "0.24.1",
+    "Version": "0.24.1-1",
     "Description": "Static libraries for gettext",
     "Homepage": "https://www.gnu.org/software/gettext/"
   },
@@ -6847,7 +6847,7 @@
   },
   {
     "Package": "libltdl",
-    "Version": "2.5.4",
+    "Version": "2.5.4-1",
     "Description": "Library for dlopening libraries",
     "Homepage": "https://www.gnu.org/software/libtool/"
   },
@@ -8581,7 +8581,7 @@
   },
   {
     "Package": "libtool",
-    "Version": "2.5.4",
+    "Version": "2.5.4-1",
     "Description": "Generic library support script hiding the complexity of using shared libraries behind a consistent, portable interface",
     "Homepage": "https://www.gnu.org/software/libtool/"
   },
@@ -10009,7 +10009,7 @@
   },
   {
     "Package": "mdbook",
-    "Version": "0.4.48",
+    "Version": "0.4.49",
     "Description": "Creates book from markdown files",
     "Homepage": "https://rust-lang.github.io/mdBook/"
   },
@@ -13927,13 +13927,13 @@
   },
   {
     "Package": "spirv-headers",
-    "Version": "1.4.309.0",
+    "Version": "1.4.313.0",
     "Description": "SPIR-V Headers",
     "Homepage": "https://github.com/KhronosGroup/SPIRV-Headers"
   },
   {
     "Package": "spirv-tools",
-    "Version": "1.4.309.0",
+    "Version": "1.4.313.0",
     "Description": "SPIR-V Tools",
     "Homepage": "https://github.com/KhronosGroup/SPIRV-Tools"
   },
@@ -15619,19 +15619,19 @@
   },
   {
     "Package": "vulkan-loader-generic",
-    "Version": "1.4.313",
+    "Version": "1.4.314",
     "Description": "Vulkan Loader",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Loader"
   },
   {
     "Package": "vulkan-tools",
-    "Version": "1.4.313",
+    "Version": "1.4.314",
     "Description": "Vulkan Tools and Utilities",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Tools"
   },
   {
     "Package": "vulkan-utility-libraries",
-    "Version": "1.4.313",
+    "Version": "1.4.314",
     "Description": "Utility Libraries for Vulkan",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Utility-Libraries"
   },
