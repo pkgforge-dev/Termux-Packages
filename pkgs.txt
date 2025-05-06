@@ -18,7 +18,7 @@
  ada  3.2.4  WHATWG-compliant and fast URL parser written in modern C++  https://github.com/ada-url/ada 
  adms  2.3.7  A code generator for the Verilog-AMS language  https://github.com/qucs/adms 
  aerc  0.20.1  A pretty good email client  https://aerc-mail.org/ 
- agate  3.3.14  Very simple server for the Gemini hypertext protocol  https://github.com/mbrubeck/agate 
+ agate  3.3.16  Very simple server for the Gemini hypertext protocol  https://github.com/mbrubeck/agate 
  age  1:1.2.1  A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability  https://github.com/FiloSottile/age 
  agg  1.5.0  asciinema gif generator  https://github.com/asciinema/agg 
  aha  0.5.1-1  Converts ANSI escape sequences of a unix terminal to HTML code  https://github.com/theZiz/aha 
@@ -504,7 +504,7 @@
  frotz  2.55  Interpreter for Infocom and other Z-machine interactive fiction (IF) games  https://gitlab.com/DavidGriffith/frotz 
  frp  0.62.1  A fast reverse proxy to expose a local server behind a NAT or firewall to the internet  https://github.com/fatedier/frp 
  fselect  0.8.11  Find files with SQL-like queries  https://fselect.rocks/ 
- fsmon  1.8.6  Filesystem monitor with fanotify and inotify backends  https://github.com/nowsecure/fsmon 
+ fsmon  1.8.8  Filesystem monitor with fanotify and inotify backends  https://github.com/nowsecure/fsmon 
  fwknop  2.6.11  fwknop: Single Packet Authorization > Port Knocking  https://www.cipherdyne.org/fwknop/ 
  fwknop-static  2.6.11  Static libraries for fwknop  https://www.cipherdyne.org/fwknop/ 
  fx  35.0.0  Interactive JSON viewer on your terminal  https://github.com/antonmedv/fx 
@@ -713,7 +713,7 @@
  httrack-data  3.49.6  Platform-independent data for httrack  http://www.httrack.com 
  httrack-static  3.49.6  Static libraries for httrack  http://www.httrack.com 
  hub  2.14.2-5  Command-line wrapper for git that makes you better at GitHub  https://hub.github.com/ 
- hugo  0.147.1  A fast and flexible static site generator  https://gohugo.io/ 
+ hugo  0.147.2  A fast and flexible static site generator  https://gohugo.io/ 
  hummin  2021.05.18-3  Command line client for the imperial library of trantor  https://trantor.is/ 
  hunspell  1.7.2  Spell checker  https://hunspell.github.io 
  hunspell-en-us  20240129  American english dictionary for hunspell  https://hunspell.github.io 
@@ -1688,7 +1688,7 @@
  mdp  1.0.15-2  Command-line based markdown presentation tool  https://github.com/visit1985/mdp 
  media-types  13.0.0  List of standard media types and their usual file extension  https://pagure.io/mailcap 
  mediainfo  25.04  Command-line utility for reading information from media files  https://mediaarea.net/en/MediaInfo 
- mediamtx  1.12.1  Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy  https://github.com/bluenviron/mediamtx 
+ mediamtx  1.12.2  Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy  https://github.com/bluenviron/mediamtx 
  megacmd  2.0.0-1  Provides non UI access to MEGA services  https://mega.io/ 
  megatools  1.11.1.20230212  Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage  https://megatools.megous.com/ 
  memcached  1.6.38  Free & open source, high-performance, distributed memory object caching system  https://memcached.org/ 

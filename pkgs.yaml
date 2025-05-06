@@ -79,7 +79,7 @@
   Description: A pretty good email client
   Homepage: https://aerc-mail.org/
 - Package: agate
-  Version: 3.3.14
+  Version: 3.3.16
   Description: Very simple server for the Gemini hypertext protocol
   Homepage: https://github.com/mbrubeck/agate
 - Package: age
@@ -2023,7 +2023,7 @@
   Description: Find files with SQL-like queries
   Homepage: https://fselect.rocks/
 - Package: fsmon
-  Version: 1.8.6
+  Version: 1.8.8
   Description: Filesystem monitor with fanotify and inotify backends
   Homepage: https://github.com/nowsecure/fsmon
 - Package: fwknop
@@ -2859,7 +2859,7 @@
   Description: Command-line wrapper for git that makes you better at GitHub
   Homepage: https://hub.github.com/
 - Package: hugo
-  Version: 0.147.1
+  Version: 0.147.2
   Description: A fast and flexible static site generator
   Homepage: https://gohugo.io/
 - Package: hummin
@@ -6759,7 +6759,7 @@
   Description: Command-line utility for reading information from media files
   Homepage: https://mediaarea.net/en/MediaInfo
 - Package: mediamtx
-  Version: 1.12.1
+  Version: 1.12.2
   Description: Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy
   Homepage: https://github.com/bluenviron/mediamtx
 - Package: megacmd
