@@ -534,6 +534,7 @@
 | **gawk** | 5.3.1 | Programming language designed for text processing | https://www.gnu.org/software/gawk/ |
 | **gawk-static** | 5.3.1 | Static libraries for gawk | https://www.gnu.org/software/gawk/ |
 | **gbt** | 2.0.0-6 | Highly configurable prompt builder for Bash and ZSH written in Go | https://github.com/jtyr/gbt |
+| **gcab** | 1.6 | GObject library to create cabinet files | https://gitlab.gnome.org/GNOME/gcab |
 | **gcal** | 4.1-3 | Program for calculating and printing calendars | https://www.gnu.org/software/gcal/ |
 | **gdal** | 3.10.3-1 | A translator library for raster and vector geospatial data formats | https://gdal.org |
 | **gdal-static** | 3.5.3 | Static libraries for gdal | https://gdal.org |
@@ -1764,6 +1765,7 @@
 | **mpv** | 0.40.0 | Command-line media player | https://mpv.io/ |
 | **mruby** | 3.4.0 | Lightweight implementation of the Ruby language | https://mruby.org/ |
 | **mruby-static** | 3.4.0 | Static libraries for mruby | https://mruby.org/ |
+| **msitools** | 0.106 | Set of programs to inspect and build Windows Installer (.MSI) files | https://gitlab.gnome.org/GNOME/msitools |
 | **msmtp** | 1.8.28 | Lightweight SMTP client | https://marlam.de/msmtp/ |
 | **mtd-utils** | 2.3.0 | Utilities for dealing with MTD devices | http://www.linux-mtd.infradead.org/ |
 | **mtools** | 4.0.48 | Tool for manipulating FAT images | https://www.gnu.org/software/mtools/ |

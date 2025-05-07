@@ -3144,6 +3144,12 @@
     "Homepage": "https://github.com/jtyr/gbt"
   },
   {
+    "Package": "gcab",
+    "Version": "1.6",
+    "Description": "GObject library to create cabinet files",
+    "Homepage": "https://gitlab.gnome.org/GNOME/gcab"
+  },
+  {
     "Package": "gcal",
     "Version": "4.1-3",
     "Description": "Program for calculating and printing calendars",
@@ -10522,6 +10528,12 @@
     "Version": "3.4.0",
     "Description": "Static libraries for mruby",
     "Homepage": "https://mruby.org/"
+  },
+  {
+    "Package": "msitools",
+    "Version": "0.106",
+    "Description": "Set of programs to inspect and build Windows Installer (.MSI) files",
+    "Homepage": "https://gitlab.gnome.org/GNOME/msitools"
   },
   {
     "Package": "msmtp",
