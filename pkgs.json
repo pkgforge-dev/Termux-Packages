@@ -601,7 +601,7 @@
   },
   {
     "Package": "atuin",
-    "Version": "18.5.0",
+    "Version": "18.6.0",
     "Description": "Magical shell history",
     "Homepage": "https://atuin.sh/"
   },
@@ -3745,7 +3745,7 @@
   },
   {
     "Package": "goose",
-    "Version": "3.24.2",
+    "Version": "3.24.3",
     "Description": "A database migration tool. Supports SQL migrations and Go functions.",
     "Homepage": "https://pressly.github.io/goose"
   },
@@ -4351,7 +4351,7 @@
   },
   {
     "Package": "hwdata",
-    "Version": "0.394",
+    "Version": "0.395",
     "Description": "Database of hardware identification and configuration data",
     "Homepage": "https://github.com/vcrhonek/hwdata"
   },
@@ -4633,7 +4633,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.22.1867",
+    "Version": "0.22.1874",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -11293,37 +11293,37 @@
   },
   {
     "Package": "openjdk-17",
-    "Version": "17.0-38",
+    "Version": "17.0.15",
     "Description": "Java development kit and runtime",
-    "Homepage": "https://github.com/openjdk/mobile"
+    "Homepage": "https://openjdk.java.net"
   },
   {
     "Package": "openjdk-17-source",
-    "Version": "17.0-38",
+    "Version": "17.0.15",
     "Description": "Source files for openjdk-17",
-    "Homepage": "https://github.com/openjdk/mobile"
+    "Homepage": "https://openjdk.java.net"
   },
   {
     "Package": "openjdk-17-x",
-    "Version": "17.0-38",
+    "Version": "17.0.15",
     "Description": "Portion of openjdk-17 requiring X11 functionality",
-    "Homepage": "https://github.com/openjdk/mobile"
+    "Homepage": "https://openjdk.java.net"
   },
   {
     "Package": "openjdk-21",
-    "Version": "21.0.7",
+    "Version": "21.0.7-1",
     "Description": "Java development kit and runtime",
     "Homepage": "https://openjdk.java.net"
   },
   {
     "Package": "openjdk-21-source",
-    "Version": "21.0.7",
+    "Version": "21.0.7-1",
     "Description": "Source files for openjdk-21",
     "Homepage": "https://openjdk.java.net"
   },
   {
     "Package": "openjdk-21-x",
-    "Version": "21.0.7",
+    "Version": "21.0.7-1",
     "Description": "Portion of openjdk-21 requiring X11 functionality",
     "Homepage": "https://openjdk.java.net"
   },
@@ -14455,7 +14455,7 @@
   },
   {
     "Package": "teleport-tsh",
-    "Version": "17.4.7",
+    "Version": "17.4.8",
     "Description": "Secure Access for Developers that doesnt get in the way",
     "Homepage": "https://github.com/gravitational/teleport"
   },
