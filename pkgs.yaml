@@ -2183,11 +2183,11 @@
   Description: Additional utilities for Geth (like abigen, bootnode, evm, puppeth)
   Homepage: https://geth.ethereum.org/
 - Package: gettext
-  Version: 0.24.1-1
+  Version: "0.25"
   Description: GNU Internationalization utilities
   Homepage: https://www.gnu.org/software/gettext/
 - Package: gettext-static
-  Version: 0.24.1-1
+  Version: "0.25"
   Description: Static libraries for gettext
   Homepage: https://www.gnu.org/software/gettext/
 - Package: gexiv2
@@ -4091,7 +4091,7 @@
   Description: Static libraries for libfreexl
   Homepage: https://www.gaia-gis.it/fossil/freexl
 - Package: libftxui
-  Version: 6.1.8
+  Version: 6.1.9
   Description: A simple C++ library for terminal based user interface
   Homepage: https://github.com/ArthurSonzogni/FTXUI
 - Package: libgc
@@ -5551,15 +5551,15 @@
   Description: Static libraries for libspice-server
   Homepage: https://www.spice-space.org/
 - Package: libsqlite
-  Version: 3.49.1-2
+  Version: 3.49.2
   Description: Library implementing a self-contained and transactional SQL database engine
   Homepage: https://www.sqlite.org
 - Package: libsqlite-static
-  Version: 3.49.1-2
+  Version: 3.49.2
   Description: Static libraries for libsqlite
   Homepage: https://www.sqlite.org
 - Package: libsqlite-tcl
-  Version: 3.49.1-2
+  Version: 3.49.2
   Description: tcl bindings for SQLite
   Homepage: https://www.sqlite.org
 - Package: libsrt
@@ -8551,7 +8551,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 4.3.0
+  Version: 4.4.0
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
@@ -9307,7 +9307,7 @@
   Description: Static libraries for sqlcipher
   Homepage: https://github.com/sqlcipher/sqlcipher
 - Package: sqlite
-  Version: 3.49.1-2
+  Version: 3.49.2
   Description: Command line shell for SQLite
   Homepage: https://www.sqlite.org
 - Package: squashfs-tools-ng
@@ -10247,7 +10247,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.7.2-1
+  Version: 0.7.3
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
@@ -10751,7 +10751,7 @@
   Description: A framework for RTL synthesis tools
   Homepage: https://yosyshq.net/yosys/
 - Package: youtubedr
-  Version: 2.10.3
+  Version: 2.10.4
   Description: Download youtube video in Golang
   Homepage: https://github.com/kkdai/youtube
 - Package: yq

@@ -544,8 +544,8 @@
 | **getconf** | 0.6 | Utility to print configuration values | https://github.com/termux/getconf |
 | **geth** | 1.15.11 | Go implementation of the Ethereum protocol | https://geth.ethereum.org/ |
 | **geth-utils** | 1.15.11 | Additional utilities for Geth (like abigen, bootnode, evm, puppeth) | https://geth.ethereum.org/ |
-| **gettext** | 0.24.1-1 | GNU Internationalization utilities | https://www.gnu.org/software/gettext/ |
-| **gettext-static** | 0.24.1-1 | Static libraries for gettext | https://www.gnu.org/software/gettext/ |
+| **gettext** | 0.25 | GNU Internationalization utilities | https://www.gnu.org/software/gettext/ |
+| **gettext-static** | 0.25 | Static libraries for gettext | https://www.gnu.org/software/gettext/ |
 | **gexiv2** | 0.14.3-1 | A GObject-based Exiv2 wrapper | https://wiki.gnome.org/Projects/gexiv2 |
 | **gflags** | 2.2.2-9 | A C++ library that implements commandline flags processing | https://github.com/gflags/gflags |
 | **gflags-static** | 2.2.2-9 | Static libraries for gflags | https://github.com/gflags/gflags |
@@ -1021,7 +1021,7 @@
 | **libforestdb** | 1.2 | A key-value storage engine | https://github.com/couchbase/forestdb |
 | **libfreexl** | 2.0.0 | Library to extract valid data from within an Excel (.xls) spreadsheet | https://www.gaia-gis.it/fossil/freexl |
 | **libfreexl-static** | 2.0.0 | Static libraries for libfreexl | https://www.gaia-gis.it/fossil/freexl |
-| **libftxui** | 6.1.8 | A simple C++ library for terminal based user interface | https://github.com/ArthurSonzogni/FTXUI |
+| **libftxui** | 6.1.9 | A simple C++ library for terminal based user interface | https://github.com/ArthurSonzogni/FTXUI |
 | **libgc** | 8.2.8 | Library providing the Boehm-Demers-Weiser conservative garbage collector | https://www.hboehm.info/gc/ |
 | **libgc-static** | 8.2.8 | Static libraries for libgc | https://www.hboehm.info/gc/ |
 | **libgcrypt** | 1.11.0 | General purpose cryptographic library based on the code from GnuPG | https://www.gnu.org/software/libgcrypt/ |
@@ -1386,9 +1386,9 @@
 | **libspice-protocol** | 0.14.4 | SPICE protocol headers | https://www.spice-space.org/ |
 | **libspice-server** | 0.15.2 | Implements the server side of the SPICE protocol | https://www.spice-space.org/ |
 | **libspice-server-static** | 0.15.2 | Static libraries for libspice-server | https://www.spice-space.org/ |
-| **libsqlite** | 3.49.1-2 | Library implementing a self-contained and transactional SQL database engine | https://www.sqlite.org |
-| **libsqlite-static** | 3.49.1-2 | Static libraries for libsqlite | https://www.sqlite.org |
-| **libsqlite-tcl** | 3.49.1-2 | tcl bindings for SQLite | https://www.sqlite.org |
+| **libsqlite** | 3.49.2 | Library implementing a self-contained and transactional SQL database engine | https://www.sqlite.org |
+| **libsqlite-static** | 3.49.2 | Static libraries for libsqlite | https://www.sqlite.org |
+| **libsqlite-tcl** | 3.49.2 | tcl bindings for SQLite | https://www.sqlite.org |
 | **libsrt** | 1.5.4 | Secure Reliable Transport (SRT) Protocol | https://github.com/Haivision/srt |
 | **libssh** | 0.11.1 | Tiny C SSH library | https://www.libssh.org/ |
 | **libssh2** | 1.11.1 | Client-side library implementing the SSH2 protocol | https://www.libssh2.org |
@@ -2136,7 +2136,7 @@
 | **rage** | 0.11.1 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
-| **railway-cli** | 4.3.0 | This is the command line interface for Railway | https://railway.app |
+| **railway-cli** | 4.4.0 | This is the command line interface for Railway | https://railway.app |
 | **range-v3** | 0.12.0 | Range library for C++14/17/20, basis for C++20's std::ranges | https://github.com/ericniebler/range-v3 |
 | **ranger** | 1.9.4 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-5 | Fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |
@@ -2325,7 +2325,7 @@
 | **spirv-tools** | 1.4.313.0 | SPIR-V Tools | https://github.com/KhronosGroup/SPIRV-Tools |
 | **sqlcipher** | 4.6.1 | SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files | https://github.com/sqlcipher/sqlcipher |
 | **sqlcipher-static** | 4.6.1 | Static libraries for sqlcipher | https://github.com/sqlcipher/sqlcipher |
-| **sqlite** | 3.49.1-2 | Command line shell for SQLite | https://www.sqlite.org |
+| **sqlite** | 3.49.2 | Command line shell for SQLite | https://www.sqlite.org |
 | **squashfs-tools-ng** | 1.3.2 | New set of tools for working with SquashFS images | https://github.com/AgentD/squashfs-tools-ng |
 | **squashfs-tools-ng-static** | 1.3.2 | Static libraries for squashfs-tools-ng | https://github.com/AgentD/squashfs-tools-ng |
 | **squeezelite** | 2.0.0.1517 | A small headless Logitech Squeezebox emulator | https://ralph-irving.github.io/squeezelite.html |
@@ -2560,7 +2560,7 @@
 | **util-linux-static** | 2.40.2-3 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-1 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.40.2-3 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **uv** | 0.7.2-1 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
+| **uv** | 0.7.3 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.29-1 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.31.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.18 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
@@ -2686,7 +2686,7 @@
 | **yasm-static** | 1.3.0-6 | Static libraries for yasm | https://yasm.tortall.net/ |
 | **yazi** | 25.4.8 | Blazing fast terminal file manager written in Rust, based on async I/O | https://yazi-rs.github.io/ |
 | **yosys** | 0.53 | A framework for RTL synthesis tools | https://yosyshq.net/yosys/ |
-| **youtubedr** | 2.10.3 | Download youtube video in Golang | https://github.com/kkdai/youtube |
+| **youtubedr** | 2.10.4 | Download youtube video in Golang | https://github.com/kkdai/youtube |
 | **yq** | 4.45.2 | A lightweight and portable command-line YAML, JSON and XML processor | https://mikefarah.gitbook.io/yq/ |
 | **ytfzf** | 2.6.2 | A POSIX script that helps you find Youtube videos (without API) | https://github.com/pystardust/ytfzf |
 | **ytui-music** | 2.0.0-beta-2 | Youtube client in terminal for music | https://github.com/sudipghimire533/ytui-music |

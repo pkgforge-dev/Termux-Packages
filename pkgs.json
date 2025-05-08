@@ -3277,13 +3277,13 @@
   },
   {
     "Package": "gettext",
-    "Version": "0.24.1-1",
+    "Version": "0.25",
     "Description": "GNU Internationalization utilities",
     "Homepage": "https://www.gnu.org/software/gettext/"
   },
   {
     "Package": "gettext-static",
-    "Version": "0.24.1-1",
+    "Version": "0.25",
     "Description": "Static libraries for gettext",
     "Homepage": "https://www.gnu.org/software/gettext/"
   },
@@ -6139,7 +6139,7 @@
   },
   {
     "Package": "libftxui",
-    "Version": "6.1.8",
+    "Version": "6.1.9",
     "Description": "A simple C++ library for terminal based user interface",
     "Homepage": "https://github.com/ArthurSonzogni/FTXUI"
   },
@@ -8329,19 +8329,19 @@
   },
   {
     "Package": "libsqlite",
-    "Version": "3.49.1-2",
+    "Version": "3.49.2",
     "Description": "Library implementing a self-contained and transactional SQL database engine",
     "Homepage": "https://www.sqlite.org"
   },
   {
     "Package": "libsqlite-static",
-    "Version": "3.49.1-2",
+    "Version": "3.49.2",
     "Description": "Static libraries for libsqlite",
     "Homepage": "https://www.sqlite.org"
   },
   {
     "Package": "libsqlite-tcl",
-    "Version": "3.49.1-2",
+    "Version": "3.49.2",
     "Description": "tcl bindings for SQLite",
     "Homepage": "https://www.sqlite.org"
   },
@@ -12829,7 +12829,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "4.3.0",
+    "Version": "4.4.0",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -13963,7 +13963,7 @@
   },
   {
     "Package": "sqlite",
-    "Version": "3.49.1-2",
+    "Version": "3.49.2",
     "Description": "Command line shell for SQLite",
     "Homepage": "https://www.sqlite.org"
   },
@@ -15373,7 +15373,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.7.2-1",
+    "Version": "0.7.3",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
@@ -16129,7 +16129,7 @@
   },
   {
     "Package": "youtubedr",
-    "Version": "2.10.3",
+    "Version": "2.10.4",
     "Description": "Download youtube video in Golang",
     "Homepage": "https://github.com/kkdai/youtube"
   },
