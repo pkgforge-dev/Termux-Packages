@@ -439,7 +439,7 @@
 | **enchant-static** | 2.8.4 | Static libraries for enchant | https://rrthomas.github.io/enchant/ |
 | **enscript** | 1.6.6-12 | Enscript converts ASCII text files to PostScript, HTML, RTF, ANSI and overstrikes | https://www.gnu.org/software/enscript/ |
 | **entr** | 5.7 | Event Notify Test Runner - run arbitrary commands when files change | https://eradman.com/entrproject/ |
-| **erlang** | 27.3.3 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
+| **erlang** | 27.3.4 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
 | **esbuild** | 0.25.4 | An extremely fast JavaScript bundler | https://esbuild.github.io/ |
 | **espeak** | 1.52.0 | Compact software speech synthesizer | https://github.com/espeak-ng/espeak-ng |
 | **espeak-static** | 1.52.0 | Static libraries for espeak | https://github.com/espeak-ng/espeak-ng |
@@ -1390,7 +1390,7 @@
 | **libspatialindex** | 2.1.0 | C++ implementation of R*-tree, an MVR-tree and a TPR-tree with C API | https://libspatialindex.github.io |
 | **libspatialite** | 5.1.0-1 | SQLite extension to support spatial data types and operations | https://www.gaia-gis.it/fossil/libspatialite |
 | **libspatialite-static** | 5.1.0-1 | Static libraries for libspatialite | https://www.gaia-gis.it/fossil/libspatialite |
-| **libspdlog** | 1.15.2 | Very fast, header-only/compiled, C++ logging library | https://github.com/gabime/spdlog |
+| **libspdlog** | 1.15.3 | Very fast, header-only/compiled, C++ logging library | https://github.com/gabime/spdlog |
 | **libspectre** | 0.2.12 | A small library for rendering Postscript documents | https://www.freedesktop.org/wiki/Software/libspectre/ |
 | **libspectre-static** | 0.2.12 | Static libraries for libspectre | https://www.freedesktop.org/wiki/Software/libspectre/ |
 | **libspeex** | 1.2.1 | A patent-free, Open Source/Free Software voice codec | https://www.speex.org/ |
@@ -2699,7 +2699,7 @@
 | **yazi** | 25.4.8 | Blazing fast terminal file manager written in Rust, based on async I/O | https://yazi-rs.github.io/ |
 | **yosys** | 0.53 | A framework for RTL synthesis tools | https://yosyshq.net/yosys/ |
 | **youtubedr** | 2.10.4 | Download youtube video in Golang | https://github.com/kkdai/youtube |
-| **yq** | 4.45.2 | A lightweight and portable command-line YAML, JSON and XML processor | https://mikefarah.gitbook.io/yq/ |
+| **yq** | 4.45.3 | A lightweight and portable command-line YAML, JSON and XML processor | https://mikefarah.gitbook.io/yq/ |
 | **ytfzf** | 2.6.2 | A POSIX script that helps you find Youtube videos (without API) | https://github.com/pystardust/ytfzf |
 | **ytui-music** | 2.0.0-beta-2 | Youtube client in terminal for music | https://github.com/sudipghimire533/ytui-music |
 | **yuma123** | 2.13-3 | Provides an opensource YANG API in C | https://yuma123.org/ |
