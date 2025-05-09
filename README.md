@@ -1818,7 +1818,7 @@
 | **net-snmp** | 5.9.4 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.4 | Static libraries for net-snmp | http://www.net-snmp.org/ |
 | **net-tools** | 2.10.0 | Configuration tools for Linux networking | http://net-tools.sourceforge.net/ |
-| **netcat-openbsd** | 1.228-1-0 | TCP/IP swiss army knife. OpenBSD variant. | https://packages.debian.org/sid/netcat-openbsd |
+| **netcat-openbsd** | 1.229-1-0 | TCP/IP swiss army knife. OpenBSD variant. | https://packages.debian.org/sid/netcat-openbsd |
 | **netcdf-c** | 4.9.3 | NetCDF is a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data | https://www.unidata.ucar.edu/software/netcdf/ |
 | **netcdf-c-static** | 4.9.3 | Static libraries for netcdf-c | https://www.unidata.ucar.edu/software/netcdf/ |
 | **nethack** | 3.6.7 | Dungeon crawl game | http://www.nethack.org/ |
@@ -1868,7 +1868,7 @@
 | **octomap** | 1.10.0 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-4 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 25.21.1 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 25.22.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **okc-agents** | 0.1.2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.6-2 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-9 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
