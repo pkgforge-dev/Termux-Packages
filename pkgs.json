@@ -9949,7 +9949,7 @@
   },
   {
     "Package": "matplotlib",
-    "Version": "3.10.1",
+    "Version": "3.10.3",
     "Description": "A comprehensive library for creating static, animated, and interactive visualizations in Python",
     "Homepage": "https://matplotlib.org/"
   },
@@ -12409,7 +12409,7 @@
   },
   {
     "Package": "python-greenlet",
-    "Version": "3.2.1",
+    "Version": "3.2.2",
     "Description": "Lightweight coroutines for in-process concurrent programming",
     "Homepage": "https://github.com/python-greenlet/greenlet"
   },
@@ -13267,7 +13267,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.11.8",
+    "Version": "0.11.9",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -15631,7 +15631,7 @@
   },
   {
     "Package": "vulkan-loader-generic",
-    "Version": "1.4.314",
+    "Version": "1.4.315",
     "Description": "Vulkan Loader",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Loader"
   },
@@ -15643,7 +15643,7 @@
   },
   {
     "Package": "vulkan-utility-libraries",
-    "Version": "1.4.314",
+    "Version": "1.4.315",
     "Description": "Utility Libraries for Vulkan",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Utility-Libraries"
   },
