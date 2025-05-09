@@ -110,7 +110,7 @@
 | **atool** | 0.39.0-1 | tool for managing file archives of various types | https://www.nongnu.org/atool |
 | **attr** | 2.5.2 | Utilities for manipulating filesystem extended attributes | http://savannah.nongnu.org/projects/attr/ |
 | **attr-static** | 2.5.2 | Static libraries for attr | http://savannah.nongnu.org/projects/attr/ |
-| **atuin** | 18.6.0 | Magical shell history | https://atuin.sh/ |
+| **atuin** | 18.6.1 | Magical shell history | https://atuin.sh/ |
 | **aubio** | 0.4.9-4 | A library to label music and sounds | https://aubio.org/ |
 | **aubio-static** | 0.4.9-4 | Static libraries for aubio | https://aubio.org/ |
 | **autoconf** | 2.72 | Creator of shell scripts to configure source code packages | https://www.gnu.org/software/autoconf/autoconf.html |
