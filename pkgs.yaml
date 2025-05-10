@@ -1743,7 +1743,7 @@
   Description: A Go based command line tool for exercism.io
   Homepage: https://github.com/exercism/cli/
 - Package: exhale
-  Version: 1.2.1
+  Version: 1.2.1.2
   Description: Open source xHE-AAC encoder
   Homepage: https://gitlab.com/ecodis/exhale
 - Package: exiftool
@@ -7035,7 +7035,7 @@
   Description: Tool for manipulating FAT images
   Homepage: https://www.gnu.org/software/mtools/
 - Package: mu
-  Version: 1.12.10
+  Version: 1.12.11
   Description: Maildir indexer/searcher and Emacs client (mu4e)
   Homepage: https://www.djcbsoftware.nl/code/mu/
 - Package: muchsync
@@ -7207,7 +7207,7 @@
   Description: Simple system information script
   Homepage: https://github.com/dylanaraps/neofetch
 - Package: neomutt
-  Version: "20250404"
+  Version: "20250510"
   Description: A version of mutt with added features
   Homepage: https://neomutt.org/
 - Package: neovim

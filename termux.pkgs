@@ -434,7 +434,7 @@
 | **et** | 6.2.9-4 | A remote shell that automatically reconnects without interrupting the session | https://eternalterminal.dev |
 | **etsh** | 5.4.0 | An enhanced, backward-compatible port of Thompson Shell | https://etsh.nl |
 | **exercism** | 3.5.4 | A Go based command line tool for exercism.io | https://github.com/exercism/cli/ |
-| **exhale** | 1.2.1 | Open source xHE-AAC encoder | https://gitlab.com/ecodis/exhale |
+| **exhale** | 1.2.1.2 | Open source xHE-AAC encoder | https://gitlab.com/ecodis/exhale |
 | **exiftool** | 13.29 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
 | **exiv2** | 2:0.28.5 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **exiv2-static** | 2:0.27.7-1 | Static libraries for exiv2 | https://exiv2.org/ |
@@ -1757,7 +1757,7 @@
 | **msmtp** | 1.8.28 | Lightweight SMTP client | https://marlam.de/msmtp/ |
 | **mtd-utils** | 2.3.0 | Utilities for dealing with MTD devices | http://www.linux-mtd.infradead.org/ |
 | **mtools** | 4.0.48 | Tool for manipulating FAT images | https://www.gnu.org/software/mtools/ |
-| **mu** | 1.12.10 | Maildir indexer/searcher and Emacs client (mu4e) | https://www.djcbsoftware.nl/code/mu/ |
+| **mu** | 1.12.11 | Maildir indexer/searcher and Emacs client (mu4e) | https://www.djcbsoftware.nl/code/mu/ |
 | **muchsync** | 7-1 | Synchronize notmuch mail across machines | http://www.muchsync.org/ |
 | **multitail** | 7.1.5 | Tool to monitor logfiles and command output in multiple windows in a terminal, colorize, filter and merge | http://www.vanheusden.com/multitail/ |
 | **mupdf** | 1.24.10 | Lightweight PDF and XPS viewer (library) | https://mupdf.com/ |
@@ -1800,7 +1800,7 @@
 | **nelua** | 2024.01.13 | Minimal, efficient, statically-typed and meta-programmable systems programming language | https://nelua.io |
 | **neocmakelsp** | 0.8.22 | a cmake lsp based on tower-lsp and treesitter | https://neocmakelsp.github.io/ |
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
-| **neomutt** | 20250404 | A version of mutt with added features | https://neomutt.org/ |
+| **neomutt** | 20250510 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.11.1-1 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
 | **nerdfix** | 0.4.2 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.4 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
