@@ -1047,7 +1047,7 @@
   Description: Tool to colorize diff output
   Homepage: https://www.colordiff.org/
 - Package: command-not-found
-  Version: 2.4.0-74
+  Version: 2.4.0-75
   Description: Suggest installation of packages in interactive shell sessions
   Homepage: https://github.com/termux/command-not-found
 - Package: composer
@@ -1559,7 +1559,7 @@
   Description: A small, configurable console text editor
   Homepage: https://craigbarnes.gitlab.io/dte/
 - Package: dua
-  Version: 2.30.0
+  Version: 2.30.1
   Description: View disk space usage and delete unwanted data, fast
   Homepage: https://github.com/Byron/dua-cli
 - Package: duc
@@ -6507,7 +6507,7 @@
   Description: Deployment and management system for Lua modules
   Homepage: https://luarocks.org/
 - Package: luv
-  Version: 1.50.0-1-0
+  Version: 1.51.0-0-0
   Description: Bare libuv bindings for lua
   Homepage: https://github.com/luvit/luv
 - Package: luvi
