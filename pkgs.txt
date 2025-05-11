@@ -966,8 +966,8 @@
  libde265-static  1.0.15  Static libraries for libde265  https://github.com/strukturag/libde265 
  libdebuginfod  0.192  Library for debuginfod  https://sourceware.org/elfutils/ 
  libdecor  0.2.2  Client-side decorations library for Wayland clients  https://gitlab.freedesktop.org/libdecor/libdecor 
- libdeflate  1.23  C library for fast compression and decompression  https://github.com/ebiggers/libdeflate 
- libdeflate-static  1.23  Static libraries for libdeflate  https://github.com/ebiggers/libdeflate 
+ libdeflate  1.24  C library for fast compression and decompression  https://github.com/ebiggers/libdeflate 
+ libdeflate-static  1.24  Static libraries for libdeflate  https://github.com/ebiggers/libdeflate 
  libdevil  1.8.0-6  A cross-platform image library utilizing a simple syntax  https://openil.sourceforge.net/ 
  libdispatch  1:6.1  The libdispatch project, for concurrency on multicore hardware  https://github.com/swiftlang/swift-corelibs-libdispatch 
  libdisplay-info  0.2.0  EDID and DisplayID library  https://emersion.pages.freedesktop.org/libdisplay-info/ 
@@ -1647,7 +1647,7 @@
  make-guile  4.4.1  Tool to control the generation of non-source files from source files  https://www.gnu.org/software/make/ 
  mandoc  1.14.6-3  Man page viewer from the mandoc toolset  https://mdocml.bsd.lv/ 
  mangal  4.0.6-2  Cli manga downloader  https://github.com/metafates/mangal 
- manpages  6.13-1  Man pages for linux kernel and C library interfaces  https://www.kernel.org/doc/man-pages/ 
+ manpages  6.14  Man pages for linux kernel and C library interfaces  https://www.kernel.org/doc/man-pages/ 
  mapserver  8.2.2-2  MapServer is CGI-based platform for publishing spatial data and interactive mapping applications to the web  https://mapserver.org/ 
  mariadb  2:11.8.0  A drop-in replacement for mysql server  https://mariadb.org 
  mariadb-static  2:11.8.0  Static libraries for mariadb  https://mariadb.org 
@@ -2434,7 +2434,7 @@
  termux-keyring  3.12-1  GPG public keys for the official Termux repositories  https://github.com/termux 
  termux-licenses  2.1  Contains LICENSE files for common licenses  https://termux.dev 
  termux-services  0.13-1  Service daemon for Termux  https://github.com/termux/termux-services/ 
- termux-tools  1.45.0  Basic system tools for Termux  https://termux.dev/ 
+ termux-tools  1.46.0  Basic system tools for Termux  https://termux.dev/ 
  teseq  1.1.1-1  Tool for analyzing control characters and terminal control sequences  https://www.gnu.org/software/teseq/ 
  tesseract  5.5.0-2  Tesseract is probably the most accurate open source OCR engine available  https://github.com/tesseract-ocr/tesseract 
  testssl.sh  3.0.9  Testing TLS/SSL encryption anywhere on any port.  https://testssl.sh/ 

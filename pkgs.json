@@ -5809,13 +5809,13 @@
   },
   {
     "Package": "libdeflate",
-    "Version": "1.23",
+    "Version": "1.24",
     "Description": "C library for fast compression and decompression",
     "Homepage": "https://github.com/ebiggers/libdeflate"
   },
   {
     "Package": "libdeflate-static",
-    "Version": "1.23",
+    "Version": "1.24",
     "Description": "Static libraries for libdeflate",
     "Homepage": "https://github.com/ebiggers/libdeflate"
   },
@@ -9895,7 +9895,7 @@
   },
   {
     "Package": "manpages",
-    "Version": "6.13-1",
+    "Version": "6.14",
     "Description": "Man pages for linux kernel and C library interfaces",
     "Homepage": "https://www.kernel.org/doc/man-pages/"
   },
@@ -14617,7 +14617,7 @@
   },
   {
     "Package": "termux-tools",
-    "Version": "1.45.0",
+    "Version": "1.46.0",
     "Description": "Basic system tools for Termux",
     "Homepage": "https://termux.dev/"
   },
