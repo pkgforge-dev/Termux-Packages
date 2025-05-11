@@ -3229,7 +3229,7 @@
   },
   {
     "Package": "gegl",
-    "Version": "0.4.58",
+    "Version": "0.4.62",
     "Description": "Data flow based image processing framework",
     "Homepage": "https://gegl.org/"
   },
@@ -10183,19 +10183,19 @@
   },
   {
     "Package": "mesa",
-    "Version": "25.1.0",
+    "Version": "25.1.0-1",
     "Description": "An open-source implementation of the OpenGL specification",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-dev",
-    "Version": "25.1.0",
+    "Version": "25.1.0-1",
     "Description": "Mesas OpenGL headers",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-vulkan-icd-swrast",
-    "Version": "25.1.0",
+    "Version": "25.1.0-1",
     "Description": "Mesas Swrast Vulkan ICD",
     "Homepage": "https://www.mesa3d.org"
   },
@@ -10609,7 +10609,7 @@
   },
   {
     "Package": "mympd",
-    "Version": "20.1.3",
+    "Version": "21.0.0",
     "Description": "A standalone and lightweight web-based MPD client",
     "Homepage": "https://jcorporation.github.io/myMPD/"
   },
@@ -14719,7 +14719,7 @@
   },
   {
     "Package": "timg",
-    "Version": "1.6.1",
+    "Version": "1.6.2",
     "Description": "A terminal image and video viewer",
     "Homepage": "https://timg.sh/"
   },
@@ -14893,7 +14893,7 @@
   },
   {
     "Package": "tree-sitter",
-    "Version": "0.25.3",
+    "Version": "0.25.4",
     "Description": "An incremental parsing system for programming tools",
     "Homepage": "https://github.com/tree-sitter/tree-sitter"
   },
@@ -14953,7 +14953,7 @@
   },
   {
     "Package": "tree-sitter-static",
-    "Version": "0.25.3",
+    "Version": "0.25.4",
     "Description": "Static libraries for tree-sitter",
     "Homepage": "https://github.com/tree-sitter/tree-sitter"
   },
@@ -15757,31 +15757,31 @@
   },
   {
     "Package": "weechat",
-    "Version": "4.6.2",
+    "Version": "4.6.3",
     "Description": "Fast, light and extensible IRC chat client",
     "Homepage": "https://weechat.org/"
   },
   {
     "Package": "weechat-lua-plugin",
-    "Version": "4.6.2",
+    "Version": "4.6.3",
     "Description": "WeeChat Lua Plugin",
     "Homepage": "https://weechat.org/"
   },
   {
     "Package": "weechat-perl-plugin",
-    "Version": "4.6.2",
+    "Version": "4.6.3",
     "Description": "WeeChat Perl Plugin",
     "Homepage": "https://weechat.org/"
   },
   {
     "Package": "weechat-python-plugin",
-    "Version": "4.6.2",
+    "Version": "4.6.3",
     "Description": "WeeChat Python3 Plugin",
     "Homepage": "https://weechat.org/"
   },
   {
     "Package": "weechat-ruby-plugin",
-    "Version": "4.6.2",
+    "Version": "4.6.3",
     "Description": "WeeChat Ruby Plugin",
     "Homepage": "https://weechat.org/"
   },
