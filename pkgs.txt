@@ -1296,7 +1296,7 @@
  libpng-static  1.6.48  Static libraries for libpng  http://www.libpng.org/pub/png/libpng.html 
  libpngwriter  0.7.0  C++ library for creating PNG images  http://pngwriter.sourceforge.net 
  libpngwriter-static  0.7.0  Static libraries for libpngwriter  http://pngwriter.sourceforge.net 
- libpoco  1.14.1  A comprehensive set of C++ libraries that cover all modern-day programming needs  https://pocoproject.org/ 
+ libpoco  1.14.2  A comprehensive set of C++ libraries that cover all modern-day programming needs  https://pocoproject.org/ 
  libpolly  20.1.4  High-level loop and data-locality optimizer for clang  https://clang.llvm.org/ 
  libpopt  1.19-2  Library for parsing cmdline parameters  https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html 
  libpopt-static  1.19-2  Static libraries for libpopt  https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html 
@@ -1724,7 +1724,7 @@
  mlir  20.1.4  A Multi-Level Intermediate Representation for compilers from LLVM  https://clang.llvm.org/ 
  mlocate  0.26-5  Tool to find files anywhere in the filesystem based on their name  https://pagure.io/mlocate 
  moar  1.31.5  A pager designed to just do the right thing without any configuration  https://github.com/walles/moar 
- mold  2.39.0  mold: A Modern Linker  https://github.com/rui314/mold 
+ mold  2.39.1  mold: A Modern Linker  https://github.com/rui314/mold 
  monero  0.18.4.0  A private, secure, untraceable, decentralised digital currency  https://getmonero.org/ 
  mono  6.14.1  Framework Mono  https://gitlab.winehq.org/mono/mono 
  mono-libs  6.14.1  Platform-independent libraries for mono  https://gitlab.winehq.org/mono/mono 
@@ -1856,7 +1856,7 @@
  octomap  1.10.0  An efficient probabilistic 3D mapping framework based on octrees  https://github.com/OctoMap/octomap 
  octomap-static  1.10.0  Static libraries for octomap  https://github.com/OctoMap/octomap 
  odt2txt  0.5-4  Simple converter from OpenDocument Text to plain text  https://github.com/dstosberg/odt2txt 
- oh-my-posh  25.22.0  A prompt theme engine for any shell.  https://ohmyposh.dev 
+ oh-my-posh  25.23.0  A prompt theme engine for any shell.  https://ohmyposh.dev 
  okc-agents  0.1.2  OpenKeychain agents for GnuPG and OpenSSH  https://github.com/DDoSolitary/okc-agents 
  ol  2.6-2  Purely functional dialect of Lisp  https://yuriy-chumak.github.io/ol/ 
  oleo  1.99.16-9  The GNU Spreadsheet  https://www.gnu.org/software/oleo/ 
@@ -2214,7 +2214,7 @@
  runit-static  2.1.2-3  Static libraries for runit  http://smarden.org/runit 
  rush  0.6.1  A cross-platform command-line tool for executing jobs in parallel  https://github.com/shenwei356/rush 
  rust  1.86.0  Systems programming language focused on safety, speed and concurrency  https://www.rust-lang.org/ 
- rust-analyzer  20250505  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
+ rust-analyzer  20250512  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
  rust-bindgen  0.71.1  Automatically generates Rust FFI bindings to C (and some C++) libraries  https://github.com/rust-lang/rust-bindgen 
  rust-docs  1.86.0  Rust documentation  https://www.rust-lang.org/ 
  rust-src  1.86.0  Rust source code files  https://www.rust-lang.org/ 
@@ -2488,7 +2488,7 @@
  tree-sitter-markdown  0.4.1  Markdown grammar for tree-sitter  https://github.com/tree-sitter-grammars/tree-sitter-markdown 
  tree-sitter-markdown-static  0.3.2  Static libraries for tree-sitter-markdown  https://github.com/tree-sitter-grammars 
  tree-sitter-parsers  0.0.2  A metapackage that provides commonly used treesitter parsers  https://github.com/termux/termux-packages 
- tree-sitter-query  0.5.1-1  TS query grammar for tree-sitter  https://github.com/tree-sitter-grammars/tree-sitter-query 
+ tree-sitter-query  0.6.0  TS query grammar for tree-sitter  https://github.com/tree-sitter-grammars/tree-sitter-query 
  tree-sitter-query-static  0.4.0-1  Static libraries for tree-sitter-query  https://github.com/tree-sitter-grammars 
  tree-sitter-static  0.25.4  Static libraries for tree-sitter  https://github.com/tree-sitter/tree-sitter 
  tree-sitter-vim  0.6.0  Vimscript grammar for tree-sitter  https://github.com/tree-sitter-grammars/tree-sitter-vim 

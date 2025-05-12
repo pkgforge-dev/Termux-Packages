@@ -5191,7 +5191,7 @@
   Description: Static libraries for libpngwriter
   Homepage: http://pngwriter.sourceforge.net
 - Package: libpoco
-  Version: 1.14.1
+  Version: 1.14.2
   Description: A comprehensive set of C++ libraries that cover all modern-day programming needs
   Homepage: https://pocoproject.org/
 - Package: libpolly
@@ -6903,7 +6903,7 @@
   Description: A pager designed to just do the right thing without any configuration
   Homepage: https://github.com/walles/moar
 - Package: mold
-  Version: 2.39.0
+  Version: 2.39.1
   Description: 'mold: A Modern Linker'
   Homepage: https://github.com/rui314/mold
 - Package: monero
@@ -7431,7 +7431,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 25.22.0
+  Version: 25.23.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -8863,7 +8863,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: "20250505"
+  Version: "20250512"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://rust-analyzer.github.io/
 - Package: rust-bindgen
@@ -9959,7 +9959,7 @@
   Description: A metapackage that provides commonly used treesitter parsers
   Homepage: https://github.com/termux/termux-packages
 - Package: tree-sitter-query
-  Version: 0.5.1-1
+  Version: 0.6.0
   Description: TS query grammar for tree-sitter
   Homepage: https://github.com/tree-sitter-grammars/tree-sitter-query
 - Package: tree-sitter-query-static
