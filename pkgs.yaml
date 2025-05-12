@@ -2707,15 +2707,15 @@
   Description: The Reliable, High Performance TCP/HTTP Load Balancer
   Homepage: https://www.haproxy.org/
 - Package: harfbuzz
-  Version: 11.2.0
+  Version: 11.2.1
   Description: OpenType text shaping engine
   Homepage: https://www.freedesktop.org/wiki/Software/HarfBuzz/
 - Package: harfbuzz-icu
-  Version: 11.2.0
+  Version: 11.2.1
   Description: OpenType text shaping engine ICU backend
   Homepage: https://www.freedesktop.org/wiki/Software/HarfBuzz/
 - Package: harfbuzz-utils
-  Version: 11.2.0
+  Version: 11.2.1
   Description: Tools using the harfbuzz library
   Homepage: https://www.freedesktop.org/wiki/Software/HarfBuzz/
 - Package: has
@@ -2863,7 +2863,7 @@
   Description: Command-line wrapper for git that makes you better at GitHub
   Homepage: https://hub.github.com/
 - Package: hugo
-  Version: 0.147.2
+  Version: 0.147.3
   Description: A fast and flexible static site generator
   Homepage: https://gohugo.io/
 - Package: hummin
@@ -9479,7 +9479,7 @@
   Description: Static libraries for subversion
   Homepage: https://subversion.apache.org
 - Package: sudo
-  Version: 1.1.0
+  Version: 1.2.0
   Description: A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument as the root (superuser) user in the Termux app
   Homepage: https://github.com/agnostic-apollo/sudo
 - Package: suil
@@ -10063,7 +10063,7 @@
   Description: Terminal recorder and player
   Homepage: http://0xcc.net/ttyrec/
 - Package: tudo
-  Version: 1.1.0
+  Version: 1.2.0
   Description: A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument as the Termux app (u<userid>_a<appid>) user in the Termux app
   Homepage: https://github.com/agnostic-apollo/tudo
 - Package: tur-repo
