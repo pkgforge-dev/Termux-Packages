@@ -234,7 +234,7 @@
 | **chafa-static** | 1.14.5 | Static libraries for chafa | https://hpjansson.org/chafa/ |
 | **check** | 0.15.2-2 | A unit testing framework for C | https://libcheck.github.io/check |
 | **check-static** | 0.15.2-2 | Static libraries for check | https://libcheck.github.io/check |
-| **chezmoi** | 2.62.3 | Manage your dotfiles across multiple machines | https://chezmoi.io |
+| **chezmoi** | 2.62.4 | Manage your dotfiles across multiple machines | https://chezmoi.io |
 | **chicken** | 5.4.0-1 | A feature rich Scheme compiler and interpreter | https://www.call-cc.org |
 | **chicken-static** | 5.4.0-1 | Static libraries for chicken | https://www.call-cc.org |
 | **choose** | 1.3.6 | A human-friendly and fast alternative to cut and (sometimes) awk | https://github.com/theryangeary/choose |
@@ -2166,7 +2166,7 @@
 | **rdiff** | 2.3.4 | Remote incremental backup | https://github.com/librsync/librsync |
 | **rdiff-backup** | 2.2.6-2 | A utility for local/remote mirroring and incremental backups | https://rdiff-backup.net |
 | **rdircd** | 2023.02.07-1 | A daemon that allows using a personal Discord account through an IRC client | https://github.com/mk-fg/reliable-discord-client-irc-daemon |
-| **rdrview** | 1:0.1.3-1 | Command line tool to extract the main content from a webpage | https://github.com/eafer/rdrview |
+| **rdrview** | 1:0.1.4 | Command line tool to extract the main content from a webpage | https://github.com/eafer/rdrview |
 | **re2c** | 4.2 | Lexer generator for C, C++ and Go. | https://re2c.org/ |
 | **readline** | 8.2.13 | Library that allow users to edit command lines as they are typed in | https://tiswww.case.edu/php/chet/readline/rltop.html |
 | **readline-static** | 8.2.13 | Static libraries for readline | https://tiswww.case.edu/php/chet/readline/rltop.html |
