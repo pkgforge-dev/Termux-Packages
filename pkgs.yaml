@@ -367,7 +367,7 @@
   Description: Software for digital TV broadcasting
   Homepage: https://gitlab.com/berdyansk/astra-sm
 - Package: asymptote
-  Version: "3.02"
+  Version: "3.03"
   Description: A powerful descriptive vector graphics language for technical drawing
   Homepage: https://asymptote.sourceforge.io/
 - Package: at
@@ -699,7 +699,7 @@
   Description: Decentralized file system integrating with TRON network and Bittorrent network
   Homepage: https://www.bittorrent.com/btfs/
 - Package: buf
-  Version: 1.53.0
+  Version: 1.54.0
   Description: A new way of working with Protocol Buffers
   Homepage: https://buf.build
 - Package: build-essential
@@ -2283,7 +2283,7 @@
   Description: Convert between Git and Subversion repositories
   Homepage: https://git-scm.com/
 - Package: gitea
-  Version: 1.23.7
+  Version: 1.23.8
   Description: Git with a cup of tea, painless self-hosted git service
   Homepage: https://gitea.io
 - Package: gitflow-avh
