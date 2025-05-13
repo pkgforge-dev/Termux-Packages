@@ -1771,11 +1771,11 @@
   Description: Re-implementation of the well-known FaCT Description Logic (DL) Reasoner
   Homepage: https://bitbucket.org/dtsarkov/factplusplus
 - Package: fakeroot
-  Version: 1.37.1.1
+  Version: 1.37.1.2
   Description: Tool for simulating superuser privileges (with tcp ipc)
   Homepage: https://packages.qa.debian.org/f/fakeroot.html
 - Package: fakeroot-static
-  Version: 1.37.1.1
+  Version: 1.37.1.2
   Description: Static libraries for fakeroot
   Homepage: https://packages.qa.debian.org/f/fakeroot.html
 - Package: fasd
@@ -2035,7 +2035,7 @@
   Description: Static libraries for fwknop
   Homepage: https://www.cipherdyne.org/fwknop/
 - Package: fx
-  Version: 35.0.0
+  Version: 36.0.0
   Description: Interactive JSON viewer on your terminal
   Homepage: https://github.com/antonmedv/fx
 - Package: fzf
@@ -3271,7 +3271,7 @@
   Description: Open-source implementation of the APL-like K programming language
   Homepage: https://github.com/kevinlawler/kona
 - Package: kotlin
-  Version: 2.1.20
+  Version: 2.1.21
   Description: The Kotlin Programming Language
   Homepage: https://kotlinlang.org/
 - Package: krb5
@@ -3783,7 +3783,7 @@
   Description: Static libraries for libconfuse
   Homepage: https://github.com/martinh/libconfuse
 - Package: libcpufeatures
-  Version: 0.10.0
+  Version: 0.10.1
   Description: A cross-platform C library to retrieve CPU features (such as available instructions) at runtime
   Homepage: https://github.com/google/cpu_features
 - Package: libcroco
@@ -7599,11 +7599,11 @@
   Description: The programmers solid 3D CAD modeller (headless build)
   Homepage: https://openscad.org/
 - Package: openssh
-  Version: 10.0p2-6
+  Version: 10.0p2-7
   Description: Secure shell for logging into a remote machine
   Homepage: https://www.openssh.com/
 - Package: openssh-sftp-server
-  Version: 10.0p2-6
+  Version: 10.0p2-7
   Description: OpenSSH SFTP server subsystem
   Homepage: https://www.openssh.com/
 - Package: openssl
