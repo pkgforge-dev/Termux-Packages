@@ -178,7 +178,7 @@
 | **brainfuck-static** | 1:2.7.3 | Static libraries for brainfuck | https://github.com/fabianishere/brainfuck |
 | **brogue** | 1.14.1 | Roguelike dungeon crawling game (community edition) | https://sites.google.com/site/broguegame/ |
 | **brook** | 20250202 | A cross-platform strong encryption and not detectable proxy. Zero-Configuration. | https://github.com/txthinking/brook |
-| **broot** | 1.46.3 | A better way to navigate directories | https://github.com/Canop/broot |
+| **broot** | 1.46.4 | A better way to navigate directories | https://github.com/Canop/broot |
 | **brotli** | 1.1.0-1 | lossless compression algorithm and format (command line utility) | https://github.com/google/brotli |
 | **brotli-static** | 1.0.9-1 | Static libraries for brotli | https://github.com/google/brotli |
 | **bsd-finger** | 0.17-1 | User information lookup program | https://packages.debian.org/sid/source/bsd-finger |
@@ -822,7 +822,7 @@
 | **kbd** | 2.7.1 | KBD's showkey utility for examining keycodes | https://kbd-project.org/ |
 | **kcptun** | 20250427 | A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC | https://github.com/xtaci/kcptun |
 | **keybase** | 6.5.1 | Key directory that maps social media identities to encryption keys | https://keybase.io |
-| **keychain** | 2.9.2 | keychain ssh-agent front-end | https://www.funtoo.org/Keychain |
+| **keychain** | 2.9.3 | keychain ssh-agent front-end | https://www.funtoo.org/Keychain |
 | **kibi** | 0.2.2-1 | A tiny terminal text editor, written in Rust | https://github.com/ilai-deutel/kibi |
 | **kiwix-tools** | 3.7.0 | A collection of Kiwix related command line tools | https://github.com/kiwix/kiwix-tools |
 | **knockd** | 0.8.2-1 | A port-knocking daemon | https://zeroflux.org/projects/knock |
