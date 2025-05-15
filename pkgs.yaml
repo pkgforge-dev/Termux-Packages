@@ -2755,7 +2755,7 @@
   Description: Helm helps you manage Kubernetes applications
   Homepage: https://helm.sh
 - Package: helm-ls
-  Version: 0.2.1
+  Version: 0.2.2
   Description: Language server for Helm
   Homepage: https://github.com/mrjosh/helm-ls
 - Package: help2man
@@ -3247,7 +3247,7 @@
   Description: Key directory that maps social media identities to encryption keys
   Homepage: https://keybase.io
 - Package: keychain
-  Version: 2.9.3
+  Version: 2.9.4
   Description: keychain ssh-agent front-end
   Homepage: https://www.funtoo.org/Keychain
 - Package: kibi
@@ -8555,7 +8555,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 4.5.0
+  Version: 4.5.1
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
@@ -10323,7 +10323,7 @@
   Description: A programmable tool for verification, analysis and transformation of C++ source code
   Homepage: https://bitbucket.org/verateam/vera
 - Package: vgmstream
-  Version: "1980"
+  Version: "2023"
   Description: A library for playback of various streamed audio formats used in video games
   Homepage: https://github.com/vgmstream/vgmstream
 - Package: vgmtools
