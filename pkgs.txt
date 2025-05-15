@@ -965,7 +965,6 @@
  libde265  1.0.15  H.265/HEVC video stream decoder library  https://github.com/strukturag/libde265 
  libde265-static  1.0.15  Static libraries for libde265  https://github.com/strukturag/libde265 
  libdebuginfod  0.192  Library for debuginfod  https://sourceware.org/elfutils/ 
- libdecor  0.2.2  Client-side decorations library for Wayland clients  https://gitlab.freedesktop.org/libdecor/libdecor 
  libdeflate  1.24  C library for fast compression and decompression  https://github.com/ebiggers/libdeflate 
  libdeflate-static  1.24  Static libraries for libdeflate  https://github.com/ebiggers/libdeflate 
  libdevil  1.8.0-6  A cross-platform image library utilizing a simple syntax  https://openil.sourceforge.net/ 
@@ -1288,8 +1287,8 @@
  libpixman  0.46.0  Low-level library for pixel manipulation  https://www.pixman.org/ 
  libpixman-static  0.42.2  Static libraries for libpixman  http://www.pixman.org/ 
  libplacebo  6.338.2-1  Reusable library for GPU-accelerated video/image rendering  http://libplacebo.org/ 
- libplist  2.6.0-1  A small portable C library to handle Apple Property List files in binary or XML format  https://libimobiledevice.org 
- libplist-static  2.6.0-1  Static libraries for libplist  https://libimobiledevice.org 
+ libplist  2.7.0  A small portable C library to handle Apple Property List files in binary or XML format  https://libimobiledevice.org 
+ libplist-static  2.7.0  Static libraries for libplist  https://libimobiledevice.org 
  libpluto  0.10.5  Shared library for the Pluto interpreter  https://plutolang.github.io/ 
  libpluto-static  0.10.5  Static libraries for libpluto  https://plutolang.github.io/ 
  libpng  1.6.48  Official PNG reference library  http://www.libpng.org/pub/png/libpng.html 

@@ -3866,10 +3866,6 @@
   Version: "0.192"
   Description: Library for debuginfod
   Homepage: https://sourceware.org/elfutils/
-- Package: libdecor
-  Version: 0.2.2
-  Description: Client-side decorations library for Wayland clients
-  Homepage: https://gitlab.freedesktop.org/libdecor/libdecor
 - Package: libdeflate
   Version: "1.24"
   Description: C library for fast compression and decompression
@@ -5159,11 +5155,11 @@
   Description: Reusable library for GPU-accelerated video/image rendering
   Homepage: http://libplacebo.org/
 - Package: libplist
-  Version: 2.6.0-1
+  Version: 2.7.0
   Description: A small portable C library to handle Apple Property List files in binary or XML format
   Homepage: https://libimobiledevice.org
 - Package: libplist-static
-  Version: 2.6.0-1
+  Version: 2.7.0
   Description: Static libraries for libplist
   Homepage: https://libimobiledevice.org
 - Package: libpluto
