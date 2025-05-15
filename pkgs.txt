@@ -167,7 +167,7 @@
  brogue  1.14.1  Roguelike dungeon crawling game (community edition)  https://sites.google.com/site/broguegame/ 
  brook  20250202  A cross-platform strong encryption and not detectable proxy. Zero-Configuration.  https://github.com/txthinking/brook 
  broot  1.46.4  A better way to navigate directories  https://github.com/Canop/broot 
- brotli  1.1.0-1  lossless compression algorithm and format (command line utility)  https://github.com/google/brotli 
+ brotli  1.1.0-2  lossless compression algorithm and format (command line utility)  https://github.com/google/brotli 
  brotli-static  1.0.9-1  Static libraries for brotli  https://github.com/google/brotli 
  bsd-finger  0.17-1  User information lookup program  https://packages.debian.org/sid/source/bsd-finger 
  bsd-games  1:3.3  Classic text mode games from UNIX folklore  https://www.polyomino.org.uk/computer/software/bsd-games/ 
@@ -463,7 +463,7 @@
  fetchmail  6.5.2  A remote-mail retrieval utility  https://www.fetchmail.info/ 
  fetchmailconf  6.5.2  A GUI configurator for generating fetchmail configuration files  https://www.fetchmail.info/ 
  fff  2.2  A simple file manager written in bash  https://github.com/dylanaraps/fff 
- ffmpeg  7.1.1-3  Tools and libraries to manipulate a wide range of multimedia formats and protocols  https://ffmpeg.org 
+ ffmpeg  7.1.1-4  Tools and libraries to manipulate a wide range of multimedia formats and protocols  https://ffmpeg.org 
  ffmpegthumbnailer  2.2.3-p20240913-1  Lightweight video thumbnailer that can be used by file managers  https://github.com/dirkvdb/ffmpegthumbnailer 
  ffsend  0.2.77  A fully featured Firefox Send client  https://gitlab.com/timvisee/ffsend 
  fftw  3.3.10-3  Library for computing the Discrete Fourier Transform (DFT) in one or more dimensions  http://www.fftw.org/ 
@@ -503,7 +503,7 @@
  frogcomposband  7.1.salmiak-1  Open world Angband variant with many additions  https://github.com/sulkasormi/frogcomposband/ 
  frotz  2.55  Interpreter for Infocom and other Z-machine interactive fiction (IF) games  https://gitlab.com/DavidGriffith/frotz 
  frp  0.62.1  A fast reverse proxy to expose a local server behind a NAT or firewall to the internet  https://github.com/fatedier/frp 
- fselect  0.8.11  Find files with SQL-like queries  https://fselect.rocks/ 
+ fselect  0.8.12  Find files with SQL-like queries  https://fselect.rocks/ 
  fsmon  1.8.8  Filesystem monitor with fanotify and inotify backends  https://github.com/nowsecure/fsmon 
  fwknop  2.6.11  fwknop: Single Packet Authorization > Port Knocking  https://www.cipherdyne.org/fwknop/ 
  fwknop-static  2.6.11  Static libraries for fwknop  https://www.cipherdyne.org/fwknop/ 
@@ -576,9 +576,9 @@
  gkermit  2.01  Simple, Portable, Free File Transfer Software for UNIX  http://www.columbia.edu/kermit/gkermit.html 
  glab-cli  1.57.0  A GitLab CLI tool bringing GitLab to your command line  https://gitlab.com/gitlab-org/cli 
  gleam  1.10.0  A friendly language for building type-safe, scalable systems!  https://gleam.run 
- glib  2.84.1-3  Library providing core building blocks for libraries and applications written in C  https://developer.gnome.org/glib/ 
+ glib  2.84.1-4  Library providing core building blocks for libraries and applications written in C  https://developer.gnome.org/glib/ 
  glib-bin  2.84.1-1  Programs for the GLib library  https://developer.gnome.org/glib/ 
- glib-cross  2.84.1-3  glib for host (NOT for Termux)  https://developer.gnome.org/glib/ 
+ glib-cross  2.84.1-4  glib for host (NOT for Termux)  https://developer.gnome.org/glib/ 
  glib-networking  2.80.1  Network-related giomodules for glib  https://gitlab.gnome.org/GNOME/glib-networking 
  glibc-repo  1.0  A package repository containing glibc-based programs and libraries  https://github.com/termux/glibc-packages 
  glm  1.0.1  C++ mathematics library for graphics software based on the GLSL specifications  https://glm.g-truc.net/ 
@@ -629,8 +629,8 @@
  gopls  0.18.1  The official Go language server  https://github.com/golang/tools 
  gotop  4.2.0-3  A terminal based graphical activity monitor inspired by gtop and vtop  https://github.com/xxxserxxx/gotop 
  gotty  1.5.0-3  Share your terminal as a web application  https://github.com/sorenisanerd/gotty 
- gpac  2.4.0-2  An open-source multimedia framework focused on modularity and standards compliance  https://gpac.wp.imt.fr/ 
- gpac-static  2.4.0-2  Static libraries for gpac  https://gpac.wp.imt.fr/ 
+ gpac  2.4.0-3  An open-source multimedia framework focused on modularity and standards compliance  https://gpac.wp.imt.fr/ 
+ gpac-static  2.4.0-3  Static libraries for gpac  https://gpac.wp.imt.fr/ 
  gperf  3.3  A perfect hash function generator  https://www.gnu.org/software/gperf 
  gpgme  1.24.2  Library designed to make access to GnuPG easier  https://www.gnupg.org/related_software/gpgme/ 
  gpgme-static  1.24.2  Static libraries for gpgme  https://www.gnupg.org/related_software/gpgme/ 
@@ -659,8 +659,8 @@
  gsl-static  2.8  Static libraries for gsl  https://www.gnu.org/software/gsl/ 
  gst-libav  1.26.1  GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code  https://gstreamer.freedesktop.org/modules/gst-libav.html 
  gst-plugins-bad  1.26.1  GStreamer Bad Plug-ins  https://gstreamer.freedesktop.org/ 
- gst-plugins-base  1.26.1  GStreamer base plug-ins  https://gstreamer.freedesktop.org/ 
- gst-plugins-gl-headers  1.26.1  OpenGL headers for GStreamer plugins  https://gstreamer.freedesktop.org/ 
+ gst-plugins-base  1.26.1-1  GStreamer base plug-ins  https://gstreamer.freedesktop.org/ 
+ gst-plugins-gl-headers  1.26.1-1  OpenGL headers for GStreamer plugins  https://gstreamer.freedesktop.org/ 
  gst-plugins-good  1.26.1  GStreamer Good Plug-ins  https://gstreamer.freedesktop.org/ 
  gst-plugins-ugly  1.26.1  GStreamer Ugly Plug-ins  https://gstreamer.freedesktop.org/ 
  gst-python  1.26.1  Python bindings for GStreamer  https://gstreamer.freedesktop.org/ 
@@ -1194,8 +1194,8 @@
  libmpc  1.3.1  Library for the arithmetic of complex numbers with arbitrarily high precision  http://www.multiprecision.org/ 
  libmpc-static  1.3.1  Static libraries for libmpc  http://www.multiprecision.org/ 
  libmpdclient  2.22  Asynchronous API library for interfacing MPD in the C, C++ & Objective C languages  https://www.musicpd.org/libs/libmpdclient/ 
- libmpeg2  0.5.1  MPEG-2 decoder libraries  https://libmpeg2.sourceforge.io/ 
- libmpeg2-static  0.5.1  Static libraries for libmpeg2  https://libmpeg2.sourceforge.io/ 
+ libmpeg2  0.5.1-1  MPEG-2 decoder libraries  https://libmpeg2.sourceforge.io/ 
+ libmpeg2-static  0.5.1-1  Static libraries for libmpeg2  https://libmpeg2.sourceforge.io/ 
  libmpfr  4.2.1  C library for multiple-precision floating-point computations with correct rounding  https://www.mpfr.org/ 
  libmpfr-static  4.2.1  Static libraries for libmpfr  https://www.mpfr.org/ 
  libmsgpack  6.1.0  MessagePack implementation for C  https://github.com/msgpack/msgpack-c/ 
@@ -1327,7 +1327,7 @@
  librnnoise-static  0.2  Static libraries for librnnoise  https://jmvalin.ca/demo/rnnoise/ 
  librocksdb  8.11.3  A persistent key-value store for flash and RAM storage  https://rocksdb.org/ 
  librocksdb-static  8.11.3  Static libraries for librocksdb  https://rocksdb.org/ 
- librsvg  2.60.0-2  Library to render SVG files using cairo  https://wiki.gnome.org/action/show/Projects/LibRsvg 
+ librsvg  2.60.0-3  Library to render SVG files using cairo  https://wiki.gnome.org/action/show/Projects/LibRsvg 
  librsync  2.3.4  Remote delta-compression library  https://github.com/librsync/librsync 
  librtmidi  5.0.0-2  A set of C++ classes that provides a common API for realtime MIDI input/output  https://www.music.mcgill.ca/~gary/rtmidi/ 
  librttopo  1.1.0-2  The RT Topology Library exposes an API to create and manage standard topologies  https://git.osgeo.org/gitea/rttopo/librttopo 
@@ -1412,8 +1412,8 @@
  libtd-static  1.8.0  Static libraries for libtd  https://core.telegram.org/tdlib/ 
  libtdb  1.4.13  A trivial database system  https://tdb.samba.org/ 
  libtermkey  0.22-3  Library for processing of keyboard entry for terminal-based programs  http://www.leonerd.org.uk/code/libtermkey/ 
- libtheora  1.1.1-1  An open video codec developed by the Xiph.org  https://www.theora.org/ 
- libtheora-static  1.1.1-1  Static libraries for libtheora  https://www.theora.org/ 
+ libtheora  1.2.0  An open video codec developed by the Xiph.org  https://www.theora.org/ 
+ libtheora-static  1.2.0  Static libraries for libtheora  https://www.theora.org/ 
  libthread-db  22-1  Thread debugging library  https://android.googlesource.com/platform/ndk/ 
  libtiff  4.7.0  Support for the Tag Image File Format (TIFF) for storing image data  http://www.simplesystems.org/libtiff/ 
  libtiff-static  4.7.0  Static libraries for libtiff  http://www.simplesystems.org/libtiff/ 
@@ -2062,7 +2062,7 @@
  python-apsw  3.49.2.0  Another Python SQLite Wrapper  https://github.com/rogerbinns/apsw/ 
  python-apt  3.0.0  Python bindings for APT  https://apt-team.pages.debian.net/python-apt/ 
  python-bcrypt  4.3.0  Acceptable password hashing for your software and your servers  https://github.com/pyca/bcrypt 
- python-brotli  1.1.0-2  lossless compression algorithm and format (Python bindings)  https://github.com/google/brotli 
+ python-brotli  1.1.0-3  lossless compression algorithm and format (Python bindings)  https://github.com/google/brotli 
  python-contourpy  1.3.2  Python library for calculating contours in 2D quadrilateral grids  https://contourpy.readthedocs.io/ 
  python-cryptography  44.0.3  Provides cryptographic recipes and primitives to Python developers  https://github.com/pyca/cryptography 
  python-ensurepip-wheels  3.12.10  Wheels for Python ensurepip  https://python.org/ 
@@ -2469,7 +2469,7 @@
  tome2  2022.12.27-5  An open world roguelike adventure set in middle earth  https://github.com/tome2/tome2 
  toml11  4.4.0  toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library  https://github.com/ToruNiina/toml11 
  topgrade  16.0.3  Upgrade all the things  https://github.com/topgrade-rs/topgrade/ 
- tor  0.4.8.16  The Onion Router anonymizing overlay network  https://www.torproject.org 
+ tor  0.4.8.16-1  The Onion Router anonymizing overlay network  https://www.torproject.org 
  torchaudio-ffmpeg  2.6.0  Minimal FFmpeg libraries for python-torchaudio  https://github.com/pytorch/audio 
  torsocks  2.5.0  Wrapper to safely torify applications  https://gitlab.torproject.org/tpo/core/torsocks 
  torsocks-static  2.5.0  Static libraries for torsocks  https://gitlab.torproject.org/tpo/core/torsocks 
@@ -2591,8 +2591,8 @@
  vitetris  0.59.1-3  Virtual terminal tris clone  http://victornils.net/tetris/ 
  viu  1.5.1  Terminal image viewer with native support for iTerm and Kitty  https://github.com/atanunq/viu 
  vivid  0.10.1  A themeable LS_COLORS generator with a rich filetype datebase  https://github.com/sharkdp/vivid 
- vlc  3.0.21-7  A popular libre and open source media player and multimedia engine  https://www.videolan.org/ 
- vlc-static  3.0.21-7  Static libraries for vlc  https://www.videolan.org/ 
+ vlc  3.0.21-8  A popular libre and open source media player and multimedia engine  https://www.videolan.org/ 
+ vlc-static  3.0.21-8  Static libraries for vlc  https://www.videolan.org/ 
  vobsub2srt  2017.12.18-2  A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR  https://github.com/ruediger/VobSub2SRT 
  vorbis-tools  1.4.3  Ogg Vorbis tools  https://github.com/xiph/vorbis-tools 
  vtm  0.9.99.70  Terminal multiplexer with TUI window manager and multi-party session sharing  https://vtm.netxs.online/ 
@@ -2613,7 +2613,7 @@
  wabt  1.0.37  The WebAssembly Binary Toolkit  https://github.com/WebAssembly/wabt 
  wakatime-cli  1.115.2  Command line interface used by all WakaTime text editor plugins  https://wakatime.com/plugins/ 
  walk  1.13.0  A terminal file manager  https://github.com/antonmedv/walk 
- wasi-libc  25  Libc for WebAssembly programs built on top of WASI system calls  https://wasi.dev/ 
+ wasi-libc  25-1  Libc for WebAssembly programs built on top of WASI system calls  https://wasi.dev/ 
  wasm-component-ld  0.5.13  Command line linker for creating WebAssembly components  https://github.com/bytecodealliance/wasm-component-ld 
  wasmedge-static  0.14.0  Static libraries for wasmedge  https://wasmedge.org/ 
  watchexec  2.3.0  Executes commands in response to file modifications  https://github.com/watchexec/watchexec 

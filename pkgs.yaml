@@ -675,7 +675,7 @@
   Description: A better way to navigate directories
   Homepage: https://github.com/Canop/broot
 - Package: brotli
-  Version: 1.1.0-1
+  Version: 1.1.0-2
   Description: lossless compression algorithm and format (command line utility)
   Homepage: https://github.com/google/brotli
 - Package: brotli-static
@@ -1859,7 +1859,7 @@
   Description: A simple file manager written in bash
   Homepage: https://github.com/dylanaraps/fff
 - Package: ffmpeg
-  Version: 7.1.1-3
+  Version: 7.1.1-4
   Description: Tools and libraries to manipulate a wide range of multimedia formats and protocols
   Homepage: https://ffmpeg.org
 - Package: ffmpegthumbnailer
@@ -2019,7 +2019,7 @@
   Description: A fast reverse proxy to expose a local server behind a NAT or firewall to the internet
   Homepage: https://github.com/fatedier/frp
 - Package: fselect
-  Version: 0.8.11
+  Version: 0.8.12
   Description: Find files with SQL-like queries
   Homepage: https://fselect.rocks/
 - Package: fsmon
@@ -2311,7 +2311,7 @@
   Description: A friendly language for building type-safe, scalable systems!
   Homepage: https://gleam.run
 - Package: glib
-  Version: 2.84.1-3
+  Version: 2.84.1-4
   Description: Library providing core building blocks for libraries and applications written in C
   Homepage: https://developer.gnome.org/glib/
 - Package: glib-bin
@@ -2319,7 +2319,7 @@
   Description: Programs for the GLib library
   Homepage: https://developer.gnome.org/glib/
 - Package: glib-cross
-  Version: 2.84.1-3
+  Version: 2.84.1-4
   Description: glib for host (NOT for Termux)
   Homepage: https://developer.gnome.org/glib/
 - Package: glib-networking
@@ -2523,11 +2523,11 @@
   Description: Share your terminal as a web application
   Homepage: https://github.com/sorenisanerd/gotty
 - Package: gpac
-  Version: 2.4.0-2
+  Version: 2.4.0-3
   Description: An open-source multimedia framework focused on modularity and standards compliance
   Homepage: https://gpac.wp.imt.fr/
 - Package: gpac-static
-  Version: 2.4.0-2
+  Version: 2.4.0-3
   Description: Static libraries for gpac
   Homepage: https://gpac.wp.imt.fr/
 - Package: gperf
@@ -2643,11 +2643,11 @@
   Description: GStreamer Bad Plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-plugins-base
-  Version: 1.26.1
+  Version: 1.26.1-1
   Description: GStreamer base plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-plugins-gl-headers
-  Version: 1.26.1
+  Version: 1.26.1-1
   Description: OpenGL headers for GStreamer plugins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-plugins-good
@@ -4783,11 +4783,11 @@
   Description: Asynchronous API library for interfacing MPD in the C, C++ & Objective C languages
   Homepage: https://www.musicpd.org/libs/libmpdclient/
 - Package: libmpeg2
-  Version: 0.5.1
+  Version: 0.5.1-1
   Description: MPEG-2 decoder libraries
   Homepage: https://libmpeg2.sourceforge.io/
 - Package: libmpeg2-static
-  Version: 0.5.1
+  Version: 0.5.1-1
   Description: Static libraries for libmpeg2
   Homepage: https://libmpeg2.sourceforge.io/
 - Package: libmpfr
@@ -5315,7 +5315,7 @@
   Description: Static libraries for librocksdb
   Homepage: https://rocksdb.org/
 - Package: librsvg
-  Version: 2.60.0-2
+  Version: 2.60.0-3
   Description: Library to render SVG files using cairo
   Homepage: https://wiki.gnome.org/action/show/Projects/LibRsvg
 - Package: librsync
@@ -5655,11 +5655,11 @@
   Description: Library for processing of keyboard entry for terminal-based programs
   Homepage: http://www.leonerd.org.uk/code/libtermkey/
 - Package: libtheora
-  Version: 1.1.1-1
+  Version: 1.2.0
   Description: An open video codec developed by the Xiph.org
   Homepage: https://www.theora.org/
 - Package: libtheora-static
-  Version: 1.1.1-1
+  Version: 1.2.0
   Description: Static libraries for libtheora
   Homepage: https://www.theora.org/
 - Package: libthread-db
@@ -8255,7 +8255,7 @@
   Description: Acceptable password hashing for your software and your servers
   Homepage: https://github.com/pyca/bcrypt
 - Package: python-brotli
-  Version: 1.1.0-2
+  Version: 1.1.0-3
   Description: lossless compression algorithm and format (Python bindings)
   Homepage: https://github.com/google/brotli
 - Package: python-contourpy
@@ -9883,7 +9883,7 @@
   Description: Upgrade all the things
   Homepage: https://github.com/topgrade-rs/topgrade/
 - Package: tor
-  Version: 0.4.8.16
+  Version: 0.4.8.16-1
   Description: The Onion Router anonymizing overlay network
   Homepage: https://www.torproject.org
 - Package: torchaudio-ffmpeg
@@ -10371,11 +10371,11 @@
   Description: A themeable LS_COLORS generator with a rich filetype datebase
   Homepage: https://github.com/sharkdp/vivid
 - Package: vlc
-  Version: 3.0.21-7
+  Version: 3.0.21-8
   Description: A popular libre and open source media player and multimedia engine
   Homepage: https://www.videolan.org/
 - Package: vlc-static
-  Version: 3.0.21-7
+  Version: 3.0.21-8
   Description: Static libraries for vlc
   Homepage: https://www.videolan.org/
 - Package: vobsub2srt
@@ -10459,7 +10459,7 @@
   Description: A terminal file manager
   Homepage: https://github.com/antonmedv/walk
 - Package: wasi-libc
-  Version: "25"
+  Version: 25-1
   Description: Libc for WebAssembly programs built on top of WASI system calls
   Homepage: https://wasi.dev/
 - Package: wasm-component-ld
