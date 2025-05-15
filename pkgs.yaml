@@ -5807,11 +5807,11 @@
   Description: Static libraries for libudfread
   Homepage: https://code.videolan.org/videolan/libudfread/
 - Package: libunbound
-  Version: 1.23.0
+  Version: 1.23.0-1
   Description: A validating, recursive, caching DNS resolver
   Homepage: https://unbound.net/
 - Package: libunbound-static
-  Version: 1.23.0
+  Version: 1.23.0-1
   Description: Static libraries for libunbound
   Homepage: https://unbound.net/
 - Package: libunibilium
@@ -8387,7 +8387,7 @@
   Description: Static libraries for python2
   Homepage: http://python.org/
 - Package: pyunbound
-  Version: 1.23.0
+  Version: 1.23.0-1
   Description: Python bindings for Unbound
   Homepage: https://unbound.net/
 - Package: pzstd
@@ -8979,7 +8979,7 @@
   Description: Small man page generator
   Homepage: https://git.sr.ht/~sircmpwn/scdoc
 - Package: screen
-  Version: 5.0.0-3
+  Version: 5.0.1
   Description: Terminal multiplexer with VT100/ANSI terminal emulation
   Homepage: https://www.gnu.org/software/screen/
 - Package: screenfetch
@@ -10127,7 +10127,7 @@
   Description: Command line tools for archive and file unarchiving and extraction
   Homepage: https://theunarchiver.com/command-line
 - Package: unbound
-  Version: 1.23.0
+  Version: 1.23.0-1
   Description: Unbound command-line tools
   Homepage: https://unbound.net/
 - Package: unbound-static
