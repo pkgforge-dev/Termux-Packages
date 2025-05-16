@@ -195,7 +195,7 @@
  capnproto  1.1.0  Data interchange format and capability-based RPC system  https://capnproto.org/ 
  capstone  5.0.6  Lightweight multi-platform, multi-architecture disassembly framework  https://www.capstone-engine.org/ 
  capstone-static  5.0.6  Static libraries for capstone  https://www.capstone-engine.org/ 
- cargo-c  0.10.12  Cargo C-ABI helpers  https://github.com/lu-zero/cargo-c 
+ cargo-c  0.10.13  Cargo C-ABI helpers  https://github.com/lu-zero/cargo-c 
  catdoc  0.95-1  Program which reads MS-Word file and prints readable ASCII text to stdout  http://www.wagner.pp.ru/~vitus/software/catdoc/ 
  catgirl  2.2a  A TLS-only terminal IRC client  https://git.causal.agency/catgirl 
  catimg  2.7.0  Renders images in the terminal  https://posva.net/shell/retro/bash/2013/05/27/catimg 
@@ -811,7 +811,7 @@
  kbd  2.7.1  KBD's showkey utility for examining keycodes  https://kbd-project.org/ 
  kcptun  20250427  A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC  https://github.com/xtaci/kcptun 
  keybase  6.5.1  Key directory that maps social media identities to encryption keys  https://keybase.io 
- keychain  2.9.4  keychain ssh-agent front-end  https://www.funtoo.org/Keychain 
+ keychain  2.9.5  keychain ssh-agent front-end  https://www.funtoo.org/Keychain 
  kibi  0.2.2-1  A tiny terminal text editor, written in Rust  https://github.com/ilai-deutel/kibi 
  kiwix-tools  3.7.0  A collection of Kiwix related command line tools  https://github.com/kiwix/kiwix-tools 
  knockd  0.8.2-1  A port-knocking daemon  https://zeroflux.org/projects/knock 
@@ -2495,8 +2495,8 @@
  tree-sitter-static  0.25.4  Static libraries for tree-sitter  https://github.com/tree-sitter/tree-sitter 
  tree-sitter-vim  0.6.0  Vimscript grammar for tree-sitter  https://github.com/tree-sitter-grammars/tree-sitter-vim 
  tree-sitter-vim-static  0.6.0  Static libraries for tree-sitter-vim  https://github.com/tree-sitter-grammars/tree-sitter-vim 
- tree-sitter-vimdoc  3.0.1-1  Tree-sitter parser for Vim help files  https://github.com/neovim/tree-sitter-vimdoc 
- tree-sitter-vimdoc-static  3.0.1-1  Static libraries for tree-sitter-vimdoc  https://github.com/neovim/tree-sitter-vimdoc 
+ tree-sitter-vimdoc  4.0.0  Tree-sitter parser for Vim help files  https://github.com/neovim/tree-sitter-vimdoc 
+ tree-sitter-vimdoc-static  4.0.0  Static libraries for tree-sitter-vimdoc  https://github.com/neovim/tree-sitter-vimdoc 
  trojan-go  0.10.6-3  A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW  https://p4gefau1t.github.io/trojan-go 
  trurl  0.16  trurl is a command line tool that parses and manipulates URLs  https://curl.se/trurl/ 
  trzsz-go  1.1.8  A simple file transfer tools, similar to lrzsz ( rz / sz )  https://trzsz.github.io/ 

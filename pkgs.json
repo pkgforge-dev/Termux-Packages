@@ -1183,7 +1183,7 @@
   },
   {
     "Package": "cargo-c",
-    "Version": "0.10.12",
+    "Version": "0.10.13",
     "Description": "Cargo C-ABI helpers",
     "Homepage": "https://github.com/lu-zero/cargo-c"
   },
@@ -4879,7 +4879,7 @@
   },
   {
     "Package": "keychain",
-    "Version": "2.9.4",
+    "Version": "2.9.5",
     "Description": "keychain ssh-agent front-end",
     "Homepage": "https://www.funtoo.org/Keychain"
   },
@@ -14983,13 +14983,13 @@
   },
   {
     "Package": "tree-sitter-vimdoc",
-    "Version": "3.0.1-1",
+    "Version": "4.0.0",
     "Description": "Tree-sitter parser for Vim help files",
     "Homepage": "https://github.com/neovim/tree-sitter-vimdoc"
   },
   {
     "Package": "tree-sitter-vimdoc-static",
-    "Version": "3.0.1-1",
+    "Version": "4.0.0",
     "Description": "Static libraries for tree-sitter-vimdoc",
     "Homepage": "https://github.com/neovim/tree-sitter-vimdoc"
   },
