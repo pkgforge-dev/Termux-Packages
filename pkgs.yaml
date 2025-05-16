@@ -3091,7 +3091,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.1900
+  Version: 0.22.1908
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: janet
@@ -6639,7 +6639,7 @@
   Description: Connect to your mattermost or slack using your IRC-client of choice
   Homepage: https://github.com/42wim/matterircd
 - Package: mautrix-whatsapp
-  Version: 0.12.0
+  Version: 0.12.1
   Description: A Matrix-WhatsApp puppeting bridge
   Homepage: https://maunium.net/go/mautrix-whatsapp/
 - Package: maven
