@@ -2575,8 +2575,14 @@
   },
   {
     "Package": "erlang",
-    "Version": "27.3.4",
+    "Version": "27.3.4-1",
     "Description": "General-purpose concurrent functional programming language",
+    "Homepage": "https://www.erlang.org/"
+  },
+  {
+    "Package": "erlang-doc",
+    "Version": "27.3.4-1",
+    "Description": "Erlang HTML documentation",
     "Homepage": "https://www.erlang.org/"
   },
   {
@@ -12492,6 +12498,12 @@
     "Homepage": "https://github.com/neovim/pynvim"
   },
   {
+    "Package": "python-ruff",
+    "Version": "0.11.10-1",
+    "Description": "An extremely fast Python linter, written in Rust (Python bindings)",
+    "Homepage": "https://github.com/charliermarsh/ruff"
+  },
+  {
     "Package": "python-sabyenc3",
     "Version": "8.2.5-1",
     "Description": "C implementations of functions for use within SABnzbd",
@@ -13267,7 +13279,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.11.10",
+    "Version": "0.11.10-1",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
