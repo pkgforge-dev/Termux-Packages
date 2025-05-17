@@ -1735,7 +1735,7 @@
 | **mktorrent** | 1.1-p20210130-0 | command line utility to create BitTorrent metainfo files | https://github.com/Rudde/mktorrent |
 | **mlir** | 20.1.4 | A Multi-Level Intermediate Representation for compilers from LLVM | https://clang.llvm.org/ |
 | **mlocate** | 0.26-5 | Tool to find files anywhere in the filesystem based on their name | https://pagure.io/mlocate |
-| **moar** | 1.31.5 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moar |
+| **moar** | 1.31.6 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moar |
 | **mold** | 2.39.1 | mold: A Modern Linker | https://github.com/rui314/mold |
 | **monero** | 0.18.4.0 | A private, secure, untraceable, decentralised digital currency | https://getmonero.org/ |
 | **mono** | 6.14.1 | Framework Mono | https://gitlab.winehq.org/mono/mono |
