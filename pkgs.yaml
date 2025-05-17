@@ -8867,7 +8867,7 @@
   Description: A cross-platform command-line tool for executing jobs in parallel
   Homepage: https://github.com/shenwei356/rush
 - Package: rust
-  Version: 1.86.0
+  Version: 1.87.0
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
@@ -8879,27 +8879,27 @@
   Description: Automatically generates Rust FFI bindings to C (and some C++) libraries
   Homepage: https://github.com/rust-lang/rust-bindgen
 - Package: rust-docs
-  Version: 1.86.0
+  Version: 1.87.0
   Description: Rust documentation
   Homepage: https://www.rust-lang.org/
 - Package: rust-src
-  Version: 1.86.0
+  Version: 1.87.0
   Description: Rust source code files
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-aarch64-linux-android
-  Version: 1.86.0
+  Version: 1.87.0
   Description: Rust std for target aarch64-linux-android
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-armv7-linux-androideabi
-  Version: 1.86.0
+  Version: 1.87.0
   Description: Rust std for target armv7-linux-androideabi
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-i686-linux-android
-  Version: 1.86.0
+  Version: 1.87.0
   Description: Rust std for target i686-linux-android
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-wasm32-unknown-unknown
-  Version: 1.86.0
+  Version: 1.87.0
   Description: Rust std for target wasm32-unknown-unknown
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-wasm32-wasi
@@ -8907,23 +8907,23 @@
   Description: Rust std for target wasm32-wasi
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-wasm32-wasip1
-  Version: 1.86.0
+  Version: 1.87.0
   Description: Rust std for target wasm32-wasip1
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-wasm32-wasip2
-  Version: 1.86.0
+  Version: 1.87.0
   Description: Rust std for target wasm32-wasip2
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-x86-64-linux-android
-  Version: 1.86.0
+  Version: 1.87.0
   Description: Rust std for target x86_64-linux-android
   Homepage: https://www.rust-lang.org/
 - Package: rustc-dev
-  Version: 1.86.0
+  Version: 1.87.0
   Description: Rust compiler development libs
   Homepage: https://www.rust-lang.org/
 - Package: rustc-src
-  Version: 1.86.0
+  Version: 1.87.0
   Description: Rust compiler source code files
   Homepage: https://www.rust-lang.org/
 - Package: rustscan
@@ -10118,6 +10118,10 @@
   Version: "2.3"
   Description: Linux tools for UDF filesystems and DVD/CD-R(W) drives
   Homepage: https://github.com/pali/udftools
+- Package: udocker
+  Version: 1.3.17
+  Description: A basic user tool to execute simple docker containers in batch or interactive systems without root privileges.
+  Homepage: https://indigo-dc.github.io/udocker
 - Package: uftrace
   Version: "0.17"
   Description: Function (graph) tracer for user-space
