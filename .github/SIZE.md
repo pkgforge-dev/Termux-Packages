@@ -1,12 +1,12 @@
 ```mathematica
-1.6M └─┬ main
+2.0M └─┬ main
 488K   ├── pkgs.json
+392K   ├── pkgs.yaml
 300K   ├── termux.pkgs
 300K   ├── index.html
 300K   ├── README.md
 276K   ├── pkgs.txt
 4.0K   ├── LICENSE
 4.0K   ├── INFO.md
-4.0K   ├── CNAME
-  0B   └── pkgs.yaml
+4.0K   └── CNAME
 ```
