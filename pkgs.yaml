@@ -3027,11 +3027,11 @@
   Description: Calculates IP broadcast, network, Cisco wildcard mask, and host ranges
   Homepage: http://jodies.de/ipcalc
 - Package: iperf3
-  Version: "3.18"
+  Version: "3.19"
   Description: TCP, UDP, and SCTP network bandwidth measurement tool
   Homepage: https://github.com/esnet/iperf
 - Package: iperf3-static
-  Version: "3.18"
+  Version: "3.19"
   Description: Static libraries for iperf3
   Homepage: https://github.com/esnet/iperf
 - Package: ipfs
