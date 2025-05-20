@@ -1211,7 +1211,7 @@
   Description: A simple webserver, implemented in a single .c file.
   Homepage: https://unix4lyfe.org/darkhttpd
 - Package: dart
-  Version: 3.7.3
+  Version: 3.8.0
   Description: Dart is a general-purpose programming language
   Homepage: https://dart.dev/
 - Package: dasel
@@ -1911,7 +1911,7 @@
   Description: Utilities to find files meeting specified criteria and perform various actions on the files which are found
   Homepage: https://www.gnu.org/software/findutils/
 - Package: fish
-  Version: 4.0.2-1
+  Version: 4.0.2-2
   Description: The user-friendly command line shell
   Homepage: https://fishshell.com/
 - Package: flac
@@ -7203,7 +7203,7 @@
   Description: Minimal, efficient, statically-typed and meta-programmable systems programming language
   Homepage: https://nelua.io
 - Package: neocmakelsp
-  Version: 0.8.22
+  Version: 0.8.23
   Description: a cmake lsp based on tower-lsp and treesitter
   Homepage: https://neocmakelsp.github.io/
 - Package: neofetch
@@ -10211,7 +10211,7 @@
   Description: the Ultimate Packer for eXecutables
   Homepage: https://upx.github.io/
 - Package: urdfdom
-  Version: 4.0.1
+  Version: 5.0.0
   Description: Unified Robot Description Format (URDF) parser library and tools
   Homepage: https://github.com/ros/urdfdom
 - Package: urdfdom-headers
@@ -10399,7 +10399,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 0.9.99.71
+  Version: 2025.05.20
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://vtm.netxs.online/
 - Package: vttest
