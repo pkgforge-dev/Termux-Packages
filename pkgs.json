@@ -1039,7 +1039,7 @@
   },
   {
     "Package": "bsdtar",
-    "Version": "3.7.9-1",
+    "Version": "3.8.0",
     "Description": "The tar(1) and cpio(1) programs from FreeBSD, using libarchive",
     "Homepage": "https://www.libarchive.org/"
   },
@@ -4303,7 +4303,7 @@
   },
   {
     "Package": "hugo",
-    "Version": "0.147.3",
+    "Version": "0.147.4",
     "Description": "A fast and flexible static site generator",
     "Homepage": "https://gohugo.io/"
   },
@@ -4645,7 +4645,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.22.1929",
+    "Version": "0.22.1930",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -5287,13 +5287,13 @@
   },
   {
     "Package": "libarchive",
-    "Version": "3.7.9-1",
+    "Version": "3.8.0",
     "Description": "Multi-format archive and compression library",
     "Homepage": "https://www.libarchive.org/"
   },
   {
     "Package": "libarchive-static",
-    "Version": "3.7.9-1",
+    "Version": "3.8.0",
     "Description": "Static libraries for libarchive",
     "Homepage": "https://www.libarchive.org/"
   },
@@ -14341,7 +14341,7 @@
   },
   {
     "Package": "syncthing",
-    "Version": "1.29.5",
+    "Version": "1.29.6",
     "Description": "Decentralized file synchronization",
     "Homepage": "https://syncthing.net/"
   },
