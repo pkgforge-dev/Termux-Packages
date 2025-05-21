@@ -3475,7 +3475,7 @@
   },
   {
     "Package": "glib",
-    "Version": "2.84.1-4",
+    "Version": "2.84.2",
     "Description": "Library providing core building blocks for libraries and applications written in C",
     "Homepage": "https://developer.gnome.org/glib/"
   },
@@ -3487,7 +3487,7 @@
   },
   {
     "Package": "glib-cross",
-    "Version": "2.84.1-4",
+    "Version": "2.84.2",
     "Description": "glib for host (NOT for Termux)",
     "Homepage": "https://developer.gnome.org/glib/"
   },
@@ -3811,25 +3811,25 @@
   },
   {
     "Package": "gpgme",
-    "Version": "1.24.2",
+    "Version": "1.24.3",
     "Description": "Library designed to make access to GnuPG easier",
     "Homepage": "https://www.gnupg.org/related_software/gpgme/"
   },
   {
     "Package": "gpgme-static",
-    "Version": "1.24.2",
+    "Version": "1.24.3",
     "Description": "Static libraries for gpgme",
     "Homepage": "https://www.gnupg.org/related_software/gpgme/"
   },
   {
     "Package": "gpgmepp",
-    "Version": "1.24.2",
+    "Version": "1.24.3",
     "Description": "Programmatic C++ library interface to GnuPG",
     "Homepage": "https://www.gnupg.org/related_software/gpgme/"
   },
   {
     "Package": "gpgmepp-static",
-    "Version": "1.24.2",
+    "Version": "1.24.3",
     "Description": "Static libraries for gpgmepp",
     "Homepage": "https://www.gnupg.org/related_software/gpgme/"
   },
@@ -4645,7 +4645,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.22.1930",
+    "Version": "0.22.1933",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -4933,7 +4933,7 @@
   },
   {
     "Package": "kubectl",
-    "Version": "1.33.0",
+    "Version": "1.33.1",
     "Description": "Kubernetes.io client binary",
     "Homepage": "https://kubernetes.io/"
   },
@@ -5791,13 +5791,13 @@
   },
   {
     "Package": "libde265",
-    "Version": "1.0.15",
+    "Version": "1.0.16",
     "Description": "H.265/HEVC video stream decoder library",
     "Homepage": "https://github.com/strukturag/libde265"
   },
   {
     "Package": "libde265-static",
-    "Version": "1.0.15",
+    "Version": "1.0.16",
     "Description": "Static libraries for libde265",
     "Homepage": "https://github.com/strukturag/libde265"
   },
@@ -8767,13 +8767,13 @@
   },
   {
     "Package": "liburcu",
-    "Version": "0.15.2",
+    "Version": "0.15.3",
     "Description": "LGPLv2.1 userspace RCU (read-copy-update) library",
     "Homepage": "https://liburcu.org/"
   },
   {
     "Package": "liburcu-static",
-    "Version": "0.15.2",
+    "Version": "0.15.3",
     "Description": "Static libraries for liburcu",
     "Homepage": "https://liburcu.org/"
   },
