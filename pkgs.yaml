@@ -879,11 +879,11 @@
   Description: A fast and lightweight GIF encoding library
   Homepage: https://github.com/dloebl/cgif
 - Package: chafa
-  Version: 1.16.0
+  Version: 1.16.1
   Description: Image-to-text converter supporting a wide range of symbols, etc.
   Homepage: https://hpjansson.org/chafa/
 - Package: chafa-static
-  Version: 1.16.0
+  Version: 1.16.1
   Description: Static libraries for chafa
   Homepage: https://hpjansson.org/chafa/
 - Package: check
@@ -10399,7 +10399,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2025.05.20
+  Version: 2025.05.21
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://vtm.netxs.online/
 - Package: vttest
