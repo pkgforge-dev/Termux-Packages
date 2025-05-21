@@ -1280,7 +1280,7 @@
 | **libotr** | 4.1.1-2 | Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing: Encryption, Authentication, Deniability, Perfect forward secrecy | https://otr.cypherpunks.ca |
 | **libotr-static** | 4.1.1-2 | Static libraries for libotr | https://otr.cypherpunks.ca |
 | **libowfat** | 0.33-1 | GPL reimplementation of libdjb | http://www.fefe.de/libowfat/ |
-| **libp11** | 0.4.13 | PKCS#11 wrapper library | https://github.com/OpenSC/libp11 |
+| **libp11** | 0.4.14 | PKCS#11 wrapper library | https://github.com/OpenSC/libp11 |
 | **libp8-platform** | 2.1.0.1-3 | Platform support library used by libCEC and binary add-ons for Kodi | https://github.com/Pulse-Eight/platform |
 | **libpagmo** | 2.19.1-2 | Scientific library for massively parallel optimization | https://esa.github.io/pagmo2/index.html |
 | **libpangomm-1.4** | 2.46.4 | A C++ API for Pango | https://www.gtkmm.org/ |
