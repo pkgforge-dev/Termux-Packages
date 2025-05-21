@@ -2353,7 +2353,7 @@
   },
   {
     "Package": "duckdb",
-    "Version": "1.2.2",
+    "Version": "1.3.0",
     "Description": "DuckDB Command Line Interface (CLI) shell",
     "Homepage": "https://duckdb.org/"
   },
@@ -5857,13 +5857,13 @@
   },
   {
     "Package": "libduckdb",
-    "Version": "1.2.2",
+    "Version": "1.3.0",
     "Description": "An in-process SQL OLAP database management system",
     "Homepage": "https://duckdb.org/"
   },
   {
     "Package": "libduckdb-static",
-    "Version": "1.2.2",
+    "Version": "1.3.0",
     "Description": "Static libraries for libduckdb",
     "Homepage": "https://duckdb.org/"
   },
@@ -13447,7 +13447,7 @@
   },
   {
     "Package": "sc-im",
-    "Version": "0.8.4-3",
+    "Version": "0.8.5",
     "Description": "An improved version of sc, a spreadsheet calculator",
     "Homepage": "https://github.com/andmarti1424/sc-im"
   },
@@ -15403,7 +15403,7 @@
   },
   {
     "Package": "v2ray",
-    "Version": "5.31.0",
+    "Version": "5.32.0",
     "Description": "A platform for building proxies to bypass network restrictions",
     "Homepage": "https://www.v2fly.org/"
   },
@@ -15601,7 +15601,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "2025.05.21",
+    "Version": "2025.05.21a",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://vtm.netxs.online/"
   },
