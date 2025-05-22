@@ -2160,7 +2160,7 @@
 | **ravencoin-static** | 4.6.1-7 | Static libraries for ravencoin | https://ravencoin.org/ |
 | **rbw** | 1.13.2 | An unofficial command line client for Bitwarden | https://github.com/doy/rbw |
 | **rc** | 1.7.4-1 | An alternative implementation of the plan 9 rc shell | https://github.com/rakitzis/rc |
-| **rclone** | 1.69.2 | rsync for cloud storage | https://rclone.org/ |
+| **rclone** | 1.69.3 | rsync for cloud storage | https://rclone.org/ |
 | **rcm** | 1.3.6 | Dotfiles management | https://github.com/thoughtbot/rcm |
 | **rcs** | 5.10.1 | The GNU Revision Control System | https://www.gnu.org/s/rcs |
 | **rcshell** | 1.7.4-4 | An alternative implementation of the plan 9 rc shell | http://tobold.org/article/rc |
