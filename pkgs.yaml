@@ -1787,7 +1787,7 @@
   Description: To fastly access files and folders
   Homepage: https://github.com/whjvenyl/fasd
 - Package: fastfetch
-  Version: 2.43.0
+  Version: 2.44.0
   Description: A maintained, feature-rich and performance oriented, neofetch like system information tool
   Homepage: https://github.com/fastfetch-cli/fastfetch
 - Package: fastmod
@@ -3311,7 +3311,7 @@
   Description: LastPass command line interface tool
   Homepage: https://lastpass.com/
 - Package: lazygit
-  Version: 0.51.0
+  Version: 0.51.1
   Description: Simple terminal UI for git commands
   Homepage: https://github.com/jesseduffield/lazygit
 - Package: lazyread
@@ -6787,15 +6787,15 @@
   Description: Static libraries for mercury
   Homepage: https://www.mercurylang.org/
 - Package: mesa
-  Version: 25.1.1
+  Version: 25.1.1-1
   Description: An open-source implementation of the OpenGL specification
   Homepage: https://www.mesa3d.org
 - Package: mesa-dev
-  Version: 25.1.1
+  Version: 25.1.1-1
   Description: Mesas OpenGL headers
   Homepage: https://www.mesa3d.org
 - Package: mesa-vulkan-icd-swrast
-  Version: 25.1.1
+  Version: 25.1.1-1
   Description: Mesas Swrast Vulkan ICD
   Homepage: https://www.mesa3d.org
 - Package: mfcuk
@@ -6867,11 +6867,11 @@
   Description: Static libraries for miniupnpc
   Homepage: https://miniupnp.tuxfamily.org/
 - Package: minizinc
-  Version: 2.9.2
+  Version: 2.9.3
   Description: A medium-level constraint modelling language
   Homepage: https://github.com/MiniZinc/libminizinc
 - Package: minizinc-static
-  Version: 2.9.2
+  Version: 2.9.3
   Description: Static libraries for minizinc
   Homepage: https://github.com/MiniZinc/libminizinc
 - Package: mkbootimg
@@ -10735,11 +10735,11 @@
   Description: Static libraries for yajl
   Homepage: https://lloyd.github.io/yajl/
 - Package: yara
-  Version: 4.5.2
+  Version: 4.5.3
   Description: Tool aimed at helping malware researchers to identify and classify malware samples
   Homepage: https://github.com/VirusTotal/yara
 - Package: yara-static
-  Version: 4.5.2
+  Version: 4.5.3
   Description: Static libraries for yara
   Homepage: https://github.com/VirusTotal/yara
 - Package: yarn
