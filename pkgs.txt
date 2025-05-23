@@ -1570,7 +1570,7 @@
  libzim  9.3.0  The ZIM library is the reference implementation for the ZIM file format.  https://openzim.org 
  libzimg  3.0.5  Scaling, colorspace conversion, and dithering library  https://github.com/sekrit-twc/zimg 
  libzimg-static  3.0.5  Static libraries for libzimg  https://github.com/sekrit-twc/zimg 
- libzip  1.11.3  Library for reading, creating, and modifying zip archives  https://libzip.org/ 
+ libzip  1.11.4  Library for reading, creating, and modifying zip archives  https://libzip.org/ 
  libzita-convolver  4.0.3-1  A real-time C++ convolution library  https://kokkinizita.linuxaudio.org/linuxaudio/ 
  libzix  0.6.2  lightweight C99 portability and data structure library  https://drobilla.net/category/zix 
  libzmq  4.3.5  Fast messaging system built on sockets. C and C++ bindings. aka 0MQ, ZMQ.  https://zeromq.org/ 
@@ -1667,7 +1667,7 @@
  mbedtls-static  3.6.3.1  Static libraries for mbedtls  https://www.trustedfirmware.org/projects/mbed-tls/ 
  mc  4.8.33-1  Midnight Commander - a powerful file manager  https://midnight-commander.org 
  mcfly  0.9.3  Replaces your default ctrl-r shell history search with an intelligent search engine  https://github.com/cantino/mcfly 
- mdbook  0.4.49  Creates book from markdown files  https://rust-lang.github.io/mdBook/ 
+ mdbook  0.4.50  Creates book from markdown files  https://rust-lang.github.io/mdBook/ 
  mdbook-auto-gen-summary  0.1.10  A preprocessor and cli tool for mdbook to auto generate summary  https://github.com/cococolanosugar/mdbook-auto-gen-summary 
  mdbook-cat-prep  1.0.9  A preprocessor for mdbook which provides teacher, subject, material and tag functionality  https://github.com/gjk-cat/cat-prep 
  mdbook-epub  0.4.48  An EPUB renderer for mdbook  https://github.com/Michael-F-Bryan/mdbook-epub 
@@ -1844,7 +1844,7 @@
  nsnake  3.0.1-6  The classic snake game with textual interface  https://github.com/alexdantas/nSnake 
  nss-utils  3.111  Tools for NSS  https://firefox-source-docs.mozilla.org/security/nss/ 
  nudoku  5.0.0  ncurses based sudoku game  http://jubalh.github.io/nudoku/ 
- nushell  0.104.0  A new type of shell operating on structured data  https://www.nushell.sh 
+ nushell  0.104.1  A new type of shell operating on structured data  https://www.nushell.sh 
  nwipe  0.38  A program that will securely erase the entire contents of disks  https://github.com/martijnvanbrummelen/nwipe 
  nyancat  1.5.2  Nyancat in your terminal, rendered through ANSI escape sequences.  http://nyancat.dakko.us 
  nzbget  21.1-7  The most efficient usenet downloader  https://nzbget.net/ 

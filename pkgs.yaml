@@ -6287,7 +6287,7 @@
   Description: Static libraries for libzimg
   Homepage: https://github.com/sekrit-twc/zimg
 - Package: libzip
-  Version: 1.11.3
+  Version: 1.11.4
   Description: Library for reading, creating, and modifying zip archives
   Homepage: https://libzip.org/
 - Package: libzita-convolver
@@ -6675,7 +6675,7 @@
   Description: Replaces your default ctrl-r shell history search with an intelligent search engine
   Homepage: https://github.com/cantino/mcfly
 - Package: mdbook
-  Version: 0.4.49
+  Version: 0.4.50
   Description: Creates book from markdown files
   Homepage: https://rust-lang.github.io/mdBook/
 - Package: mdbook-auto-gen-summary
@@ -7383,7 +7383,7 @@
   Description: ncurses based sudoku game
   Homepage: http://jubalh.github.io/nudoku/
 - Package: nushell
-  Version: 0.104.0
+  Version: 0.104.1
   Description: A new type of shell operating on structured data
   Homepage: https://www.nushell.sh
 - Package: nwipe
