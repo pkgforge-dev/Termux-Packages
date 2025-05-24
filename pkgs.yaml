@@ -1523,7 +1523,7 @@
   Description: Binary-decimal and decimal-binary routines for IEEE doubles
   Homepage: https://github.com/google/double-conversion
 - Package: doxygen
-  Version: 1.13.2
+  Version: 1.14.0
   Description: A documentation system for C++, C, Java, IDL and PHP
   Homepage: http://www.doxygen.org
 - Package: dpkg
@@ -7435,7 +7435,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 25.23.2
+  Version: 25.23.3
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -9519,27 +9519,27 @@
   Description: Most popular and complete prolog implementation
   Homepage: https://swi-prolog.org/
 - Package: swift-runtime-aarch64
-  Version: 6.1-1
+  Version: 6.1.1
   Description: Swift runtime libraries for Android AArch64
   Homepage: https://swift.org/
 - Package: swift-runtime-arm
-  Version: 6.1-1
+  Version: 6.1.1
   Description: Swift runtime libraries for Android armv7
   Homepage: https://swift.org/
 - Package: swift-runtime-x86-64
-  Version: 6.1-1
+  Version: 6.1.1
   Description: Swift runtime libraries for Android x86_64
   Homepage: https://swift.org/
 - Package: swift-sdk-aarch64
-  Version: 6.1-1
+  Version: 6.1.1
   Description: Swift SDK for Android AArch64
   Homepage: https://swift.org/
 - Package: swift-sdk-arm
-  Version: 6.1-1
+  Version: 6.1.1
   Description: Swift SDK for Android armv7
   Homepage: https://swift.org/
 - Package: swift-sdk-x86-64
-  Version: 6.1-1
+  Version: 6.1.1
   Description: Swift SDK for Android x86_64
   Homepage: https://swift.org/
 - Package: swiftshader
@@ -9939,7 +9939,7 @@
   Description: An incremental parsing system for programming tools
   Homepage: https://github.com/tree-sitter/tree-sitter
 - Package: tree-sitter-c
-  Version: 0.23.5-1
+  Version: 0.24.1
   Description: C grammar for tree-sitter
   Homepage: https://github.com/tree-sitter/tree-sitter-c
 - Package: tree-sitter-c-static

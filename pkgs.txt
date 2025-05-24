@@ -379,7 +379,7 @@
  dotnet8.0  8.0.16  .NET 8.0  https://dotnet.microsoft.com/en-us/ 
  dotnet9.0  9.0.5  .NET 9.0  https://dotnet.microsoft.com/en-us/ 
  double-conversion  3.3.1  Binary-decimal and decimal-binary routines for IEEE doubles  https://github.com/google/double-conversion 
- doxygen  1.13.2  A documentation system for C++, C, Java, IDL and PHP  http://www.doxygen.org 
+ doxygen  1.14.0  A documentation system for C++, C, Java, IDL and PHP  http://www.doxygen.org 
  dpkg  1.22.6-1  Debian package management system  https://packages.debian.org/dpkg 
  dpkg-perl  1.22.6-1  Perl modules for dpkg  https://packages.debian.org/dpkg 
  dpkg-scanpackages  1.22.6-1  Creates Packages index files  https://packages.debian.org/dpkg 
@@ -1857,7 +1857,7 @@
  octomap  1.10.0  An efficient probabilistic 3D mapping framework based on octrees  https://github.com/OctoMap/octomap 
  octomap-static  1.10.0  Static libraries for octomap  https://github.com/OctoMap/octomap 
  odt2txt  0.5-4  Simple converter from OpenDocument Text to plain text  https://github.com/dstosberg/odt2txt 
- oh-my-posh  25.23.2  A prompt theme engine for any shell.  https://ohmyposh.dev 
+ oh-my-posh  25.23.3  A prompt theme engine for any shell.  https://ohmyposh.dev 
  okc-agents  0.1.2  OpenKeychain agents for GnuPG and OpenSSH  https://github.com/DDoSolitary/okc-agents 
  ol  2.6-2  Purely functional dialect of Lisp  https://yuriy-chumak.github.io/ol/ 
  oleo  1.99.16-9  The GNU Spreadsheet  https://www.gnu.org/software/oleo/ 
@@ -2378,12 +2378,12 @@
  svt-av1  3.0.2  Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder)  https://gitlab.com/AOMediaCodec/SVT-AV1 
  swaks  20240103.0  Swiss Army Knife for SMTP  http://jetmore.org/john/code/swaks/ 
  swi-prolog  9.3.22  Most popular and complete prolog implementation  https://swi-prolog.org/ 
- swift-runtime-aarch64  6.1-1  Swift runtime libraries for Android AArch64  https://swift.org/ 
- swift-runtime-arm  6.1-1  Swift runtime libraries for Android armv7  https://swift.org/ 
- swift-runtime-x86-64  6.1-1  Swift runtime libraries for Android x86_64  https://swift.org/ 
- swift-sdk-aarch64  6.1-1  Swift SDK for Android AArch64  https://swift.org/ 
- swift-sdk-arm  6.1-1  Swift SDK for Android armv7  https://swift.org/ 
- swift-sdk-x86-64  6.1-1  Swift SDK for Android x86_64  https://swift.org/ 
+ swift-runtime-aarch64  6.1.1  Swift runtime libraries for Android AArch64  https://swift.org/ 
+ swift-runtime-arm  6.1.1  Swift runtime libraries for Android armv7  https://swift.org/ 
+ swift-runtime-x86-64  6.1.1  Swift runtime libraries for Android x86_64  https://swift.org/ 
+ swift-sdk-aarch64  6.1.1  Swift SDK for Android AArch64  https://swift.org/ 
+ swift-sdk-arm  6.1.1  Swift SDK for Android armv7  https://swift.org/ 
+ swift-sdk-x86-64  6.1.1  Swift SDK for Android x86_64  https://swift.org/ 
  swiftshader  2024.05.08  A high-performance CPU-based implementation of the Vulkan graphics API  https://swiftshader.googlesource.com/SwiftShader 
  swig  4.3.1  Generate scripting interfaces to C/C++ code  https://swig.org 
  swtpm  0.10.1  Software TPM Emulator  https://github.com/stefanberger/swtpm 
@@ -2483,7 +2483,7 @@
  transmission  4.0.6-3  Easy, lean and powerful BitTorrent client  https://transmissionbt.com/ 
  tree  2.2.1  Recursive directory lister producing a depth indented listing of files  http://mama.indstate.edu/users/ice/tree/ 
  tree-sitter  0.25.4  An incremental parsing system for programming tools  https://github.com/tree-sitter/tree-sitter 
- tree-sitter-c  0.23.5-1  C grammar for tree-sitter  https://github.com/tree-sitter/tree-sitter-c 
+ tree-sitter-c  0.24.1  C grammar for tree-sitter  https://github.com/tree-sitter/tree-sitter-c 
  tree-sitter-c-static  0.23.1  Static libraries for tree-sitter-c  https://github.com/tree-sitter 
  tree-sitter-lua  0.3.0-1  Lua grammar for tree-sitter  https://github.com/tree-sitter-grammars/tree-sitter-lua 
  tree-sitter-lua-static  0.2.0  Static libraries for tree-sitter-lua  https://github.com/tree-sitter-grammars 
