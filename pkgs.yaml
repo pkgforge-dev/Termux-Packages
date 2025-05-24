@@ -3095,7 +3095,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.1941
+  Version: 0.22.1945
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: janet
@@ -7571,11 +7571,11 @@
   Description: Command-line tools using the JPEG 2000 library
   Homepage: https://www.openjpeg.org/
 - Package: openldap
-  Version: 2.6.9
+  Version: 2.6.10
   Description: OpenLDAP server
   Homepage: https://openldap.org
 - Package: openldap-static
-  Version: 2.6.9
+  Version: 2.6.10
   Description: Static libraries for openldap
   Homepage: https://openldap.org
 - Package: openmpi
