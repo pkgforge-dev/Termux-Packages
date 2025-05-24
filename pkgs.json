@@ -2071,7 +2071,7 @@
   },
   {
     "Package": "dnsutils",
-    "Version": "9.20.8",
+    "Version": "9.20.9",
     "Description": "Clients provided with BIND",
     "Homepage": "https://www.isc.org/bind/"
   },
@@ -8905,13 +8905,13 @@
   },
   {
     "Package": "libvoikko",
-    "Version": "4.3.2-1",
+    "Version": "4.3.3",
     "Description": "A spelling and grammar checker, hyphenator and collection of related linguistic data for Finnish language",
     "Homepage": "http://voikko.sourceforge.net"
   },
   {
     "Package": "libvoikko-static",
-    "Version": "4.3.2-1",
+    "Version": "4.3.3",
     "Description": "Static libraries for libvoikko",
     "Homepage": "http://voikko.sourceforge.net"
   },
@@ -12019,7 +12019,7 @@
   },
   {
     "Package": "pocketbase",
-    "Version": "0.28.1",
+    "Version": "0.28.2",
     "Description": "An open source Go backend",
     "Homepage": "https://github.com/pocketbase/pocketbase"
   },

@@ -343,7 +343,7 @@
  dnslookup  1.11.1  Simple command line utility to make DNS lookups. Supports all known DNS protocols: plain DNS, DoH, DoT, DoQ, DNSCrypt.  https://github.com/ameshkov/dnslookup 
  dnsmap  0.36-2  Subdomain Bruteforcing Tool  https://github.com/resurrecting-open-source-projects/dnsmap 
  dnstop  2022.10.19  A libpcap application that displays various tables of DNS traffic on your network  https://github.com/measurement-factory/dnstop 
- dnsutils  9.20.8  Clients provided with BIND  https://www.isc.org/bind/ 
+ dnsutils  9.20.9  Clients provided with BIND  https://www.isc.org/bind/ 
  dnsutils-static  9.16.41  Static libraries for dnsutils  https://www.isc.org/downloads/bind/ 
  docbook-xml  5.1  A widely used XML scheme for writing documentation and help  https://www.oasis-open.org/docbook/ 
  docbook-xsl  1.79.2-2  XML stylesheets for Docbook-xml transformations  https://docbook.org/ 
@@ -1482,8 +1482,8 @@
  libvmaf-static  3.0.0  Static libraries for libvmaf  https://github.com/Netflix/vmaf 
  libvo-amrwbenc  0.1.3  VisualOn AMR-WB encoder library  https://sourceforge.net/projects/opencore-amr 
  libvo-amrwbenc-static  0.1.3  Static libraries for libvo-amrwbenc  https://sourceforge.net/projects/opencore-amr 
- libvoikko  4.3.2-1  A spelling and grammar checker, hyphenator and collection of related linguistic data for Finnish language  http://voikko.sourceforge.net 
- libvoikko-static  4.3.2-1  Static libraries for libvoikko  http://voikko.sourceforge.net 
+ libvoikko  4.3.3  A spelling and grammar checker, hyphenator and collection of related linguistic data for Finnish language  http://voikko.sourceforge.net 
+ libvoikko-static  4.3.3  Static libraries for libvoikko  http://voikko.sourceforge.net 
  libvorbis  1.3.7-2  Library for using the Ogg Vorbis compressed audio format  https://xiph.org/vorbis/ 
  libvorbis-static  1.3.7-2  Static libraries for libvorbis  https://xiph.org/vorbis/ 
  libvpx  1:1.15.0-1  VP8 & VP9 Codec SDK  https://www.webmproject.org 
@@ -2001,7 +2001,7 @@
  plzip  1.12  A massively parallel lossless data compressor based on the lzlib compression library  https://www.nongnu.org/lzip/plzip.html 
  pngcrush  1.8.13-1  Recompresses png files  https://pmt.sourceforge.io/pngcrush/ 
  pngquant  3.0.3-1  PNG image optimising utility  https://pngquant.org 
- pocketbase  0.28.1  An open source Go backend  https://github.com/pocketbase/pocketbase 
+ pocketbase  0.28.2  An open source Go backend  https://github.com/pocketbase/pocketbase 
  poke  4.3  Interactive, extensible editor for binary data.  http://www.jemarch.net/poke.html 
  poke-static  4.3  Static libraries for poke  http://www.jemarch.net/poke.html 
  polipo  1.1.1  A small and fast caching web proxy  http://www.pps.jussieu.fr/~jch/software/polipo/ 
