@@ -6611,11 +6611,11 @@
   Description: Static libraries for mariadb
   Homepage: https://mariadb.org
 - Package: marisa
-  Version: 0.2.6-2
+  Version: 0.2.7
   Description: Matching Algorithm with Recursively Implemented StorAge
   Homepage: https://github.com/s-yata/marisa-trie
 - Package: marisa-static
-  Version: 0.2.6-2
+  Version: 0.2.7
   Description: Static libraries for marisa
   Homepage: https://github.com/s-yata/marisa-trie
 - Package: markdown-flashcards
@@ -9999,7 +9999,7 @@
   Description: A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW
   Homepage: https://p4gefau1t.github.io/trojan-go
 - Package: trurl
-  Version: "0.16"
+  Version: 0.16.1
   Description: trurl is a command line tool that parses and manipulates URLs
   Homepage: https://curl.se/trurl/
 - Package: trzsz-go
