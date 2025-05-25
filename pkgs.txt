@@ -423,8 +423,8 @@
  emscripten-llvm  4.0.9  Emscripten-compatible LLVM  https://emscripten.org 
  emscripten-tests-third-party  4.0.9  Emscripten third party test suite files  https://emscripten.org 
  enblend  4.2.0p20161007-6  A tool for compositing images using a Burt&Adelson multiresolution spline  https://enblend.sourceforge.net/ 
- enchant  2.8.4  Wraps a number of different spelling libraries and programs with a consistent interface  https://rrthomas.github.io/enchant/ 
- enchant-static  2.8.4  Static libraries for enchant  https://rrthomas.github.io/enchant/ 
+ enchant  2.8.5  Wraps a number of different spelling libraries and programs with a consistent interface  https://rrthomas.github.io/enchant/ 
+ enchant-static  2.8.5  Static libraries for enchant  https://rrthomas.github.io/enchant/ 
  enscript  1.6.6-12  Enscript converts ASCII text files to PostScript, HTML, RTF, ANSI and overstrikes  https://www.gnu.org/software/enscript/ 
  entr  5.7  Event Notify Test Runner - run arbitrary commands when files change  https://eradman.com/entrproject/ 
  erlang  27.3.4-1  General-purpose concurrent functional programming language  https://www.erlang.org/ 
@@ -2438,7 +2438,7 @@
  termux-services  0.13-1  Service daemon for Termux  https://github.com/termux/termux-services/ 
  termux-tools  1.46.0+really1.45.0  Basic system tools for Termux  https://termux.dev/ 
  teseq  1.1.1-1  Tool for analyzing control characters and terminal control sequences  https://www.gnu.org/software/teseq/ 
- tesseract  5.5.0-2  Tesseract is probably the most accurate open source OCR engine available  https://github.com/tesseract-ocr/tesseract 
+ tesseract  5.5.1  Tesseract is probably the most accurate open source OCR engine available  https://github.com/tesseract-ocr/tesseract 
  testssl.sh  3.0.9  Testing TLS/SSL encryption anywhere on any port.  https://testssl.sh/ 
  tex-gyre  2.501-1  The TeX Gyre (TG) Collection of Fonts  https://www.gust.org.pl/projects/e-foundry/tex-gyre/ 
  texinfo  7.2-2  Documentation system for on-line information and printed output  https://www.gnu.org/software/texinfo/ 
