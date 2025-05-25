@@ -1919,7 +1919,7 @@
 | **openssl-tool** | 1:3.4.1 | The openssl command line cryptographic tool | https://www.openssl.org/ |
 | **openssl1.1-tool** | 1:1.1.1w | The openssl command line cryptographic tool | https://www.openssl.org/ |
 | **opentimelineio** | 0.17.0 | Open Source API and interchange format for editorial timeline information. | http://opentimeline.io/ |
-| **optipng** | 0.7.8 | PNG optimizer that recompresses image files to a smaller size, without losing any information | https://optipng.sourceforge.net/ |
+| **optipng** | 7.9.1 | PNG optimizer that recompresses image files to a smaller size, without losing any information | https://optipng.sourceforge.net/ |
 | **opus-tools** | 0.2-3 | Utilities to encode and decode .opus files | https://www.opus-codec.org/ |
 | **opusfile** | 0.12-3 | A high-level API for decoding and seeking within .opus files | https://www.opus-codec.org/ |
 | **opusfile-static** | 0.12-3 | Static libraries for opusfile | https://www.opus-codec.org/ |
