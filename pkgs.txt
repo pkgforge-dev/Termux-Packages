@@ -508,7 +508,7 @@
  fsmon  1.8.8  Filesystem monitor with fanotify and inotify backends  https://github.com/nowsecure/fsmon 
  fwknop  2.6.11  fwknop: Single Packet Authorization > Port Knocking  https://www.cipherdyne.org/fwknop/ 
  fwknop-static  2.6.11  Static libraries for fwknop  https://www.cipherdyne.org/fwknop/ 
- fx  36.0.2  Interactive JSON viewer on your terminal  https://github.com/antonmedv/fx 
+ fx  36.0.3  Interactive JSON viewer on your terminal  https://github.com/antonmedv/fx 
  fzf  0.62.0  Command-line fuzzy finder  https://junegunn.github.io/fzf/ 
  fzy  1.0  A simple, fast fuzzy finder for the terminal  https://github.com/jhawthorn/fzy 
  g-ir-scanner  1.84.0  A tool which generates GIR XML files  https://gi.readthedocs.io/ 
@@ -547,7 +547,7 @@
  geth-utils  1.15.11  Additional utilities for Geth (like abigen, bootnode, evm, puppeth)  https://geth.ethereum.org/ 
  gettext  0.25  GNU Internationalization utilities  https://www.gnu.org/software/gettext/ 
  gettext-static  0.25  Static libraries for gettext  https://www.gnu.org/software/gettext/ 
- gexiv2  0.14.3-1  A GObject-based Exiv2 wrapper  https://wiki.gnome.org/Projects/gexiv2 
+ gexiv2  0.14.5  A GObject-based Exiv2 wrapper  https://wiki.gnome.org/Projects/gexiv2 
  gflags  2.2.2-9  A C++ library that implements commandline flags processing  https://github.com/gflags/gflags 
  gflags-static  2.2.2-9  Static libraries for gflags  https://github.com/gflags/gflags 
  gforth  0.7.3-1  The Forth implementation of the GNU project  https://www.gnu.org/software/gforth/ 
@@ -2065,7 +2065,7 @@
  python-bcrypt  4.3.0  Acceptable password hashing for your software and your servers  https://github.com/pyca/bcrypt 
  python-brotli  1.1.0-3  lossless compression algorithm and format (Python bindings)  https://github.com/google/brotli 
  python-contourpy  1.3.2  Python library for calculating contours in 2D quadrilateral grids  https://contourpy.readthedocs.io/ 
- python-cryptography  45.0.2  Provides cryptographic recipes and primitives to Python developers  https://github.com/pyca/cryptography 
+ python-cryptography  45.0.3  Provides cryptographic recipes and primitives to Python developers  https://github.com/pyca/cryptography 
  python-ensurepip-wheels  3.12.10  Wheels for Python ensurepip  https://python.org/ 
  python-greenlet  3.2.2  Lightweight coroutines for in-process concurrent programming  https://github.com/python-greenlet/greenlet 
  python-grpcio  1.72.0  High performance, open source, general RPC framework that puts mobile and HTTP/2 first  https://grpc.io/ 

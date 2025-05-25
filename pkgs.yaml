@@ -2039,7 +2039,7 @@
   Description: Static libraries for fwknop
   Homepage: https://www.cipherdyne.org/fwknop/
 - Package: fx
-  Version: 36.0.2
+  Version: 36.0.3
   Description: Interactive JSON viewer on your terminal
   Homepage: https://github.com/antonmedv/fx
 - Package: fzf
@@ -2195,7 +2195,7 @@
   Description: Static libraries for gettext
   Homepage: https://www.gnu.org/software/gettext/
 - Package: gexiv2
-  Version: 0.14.3-1
+  Version: 0.14.5
   Description: A GObject-based Exiv2 wrapper
   Homepage: https://wiki.gnome.org/Projects/gexiv2
 - Package: gflags
@@ -8267,7 +8267,7 @@
   Description: Python library for calculating contours in 2D quadrilateral grids
   Homepage: https://contourpy.readthedocs.io/
 - Package: python-cryptography
-  Version: 45.0.2
+  Version: 45.0.3
   Description: Provides cryptographic recipes and primitives to Python developers
   Homepage: https://github.com/pyca/cryptography
 - Package: python-ensurepip-wheels
