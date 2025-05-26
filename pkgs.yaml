@@ -499,7 +499,7 @@
   Description: A cat(1) clone with wings
   Homepage: https://github.com/sharkdp/bat
 - Package: bc
-  Version: 1.08.1
+  Version: 1.08.2
   Description: Arbitrary precision numeric processing language
   Homepage: https://www.gnu.org/software/bc/
 - Package: bc-gh
@@ -3095,7 +3095,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.1947
+  Version: 0.22.1951
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: janet
