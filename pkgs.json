@@ -7363,13 +7363,13 @@
   },
   {
     "Package": "libnghttp3",
-    "Version": "1.9.0",
+    "Version": "1.10.0",
     "Description": "HTTP/3 library written in C",
     "Homepage": "https://nghttp2.org/nghttp3/"
   },
   {
     "Package": "libnghttp3-static",
-    "Version": "1.9.0",
+    "Version": "1.10.0",
     "Description": "Static libraries for libnghttp3",
     "Homepage": "https://nghttp2.org/nghttp3/"
   },
@@ -14167,7 +14167,7 @@
   },
   {
     "Package": "strace",
-    "Version": "6.14",
+    "Version": "6.15",
     "Description": "Debugging utility to monitor system calls and signals received",
     "Homepage": "https://strace.io/"
   },
