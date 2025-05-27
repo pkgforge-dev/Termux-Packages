@@ -4303,7 +4303,7 @@
   },
   {
     "Package": "hugo",
-    "Version": "0.147.5",
+    "Version": "0.147.6",
     "Description": "A fast and flexible static site generator",
     "Homepage": "https://gohugo.io/"
   },
@@ -7363,13 +7363,13 @@
   },
   {
     "Package": "libnghttp3",
-    "Version": "1.10.0",
+    "Version": "1.10.1",
     "Description": "HTTP/3 library written in C",
     "Homepage": "https://nghttp2.org/nghttp3/"
   },
   {
     "Package": "libnghttp3-static",
-    "Version": "1.10.0",
+    "Version": "1.10.1",
     "Description": "Static libraries for libnghttp3",
     "Homepage": "https://nghttp2.org/nghttp3/"
   },
@@ -16105,13 +16105,13 @@
   },
   {
     "Package": "yara",
-    "Version": "4.5.3",
+    "Version": "4.5.4",
     "Description": "Tool aimed at helping malware researchers to identify and classify malware samples",
     "Homepage": "https://github.com/VirusTotal/yara"
   },
   {
     "Package": "yara-static",
-    "Version": "4.5.3",
+    "Version": "4.5.4",
     "Description": "Static libraries for yara",
     "Homepage": "https://github.com/VirusTotal/yara"
   },
