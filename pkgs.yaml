@@ -1723,7 +1723,7 @@
   Description: Erlang HTML documentation
   Homepage: https://www.erlang.org/
 - Package: esbuild
-  Version: 0.25.4
+  Version: 0.25.5
   Description: An extremely fast JavaScript bundler
   Homepage: https://esbuild.github.io/
 - Package: espeak
@@ -3095,7 +3095,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.1951
+  Version: 0.22.1956
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: janet
@@ -6859,11 +6859,11 @@
   Description: A dead simple tool to sign files and verify signatures
   Homepage: https://jedisct1.github.io/minisign/
 - Package: miniupnpc
-  Version: 2.3.2
+  Version: 2.3.3
   Description: Small UPnP client library and tool to access Internet Gateway Devices
   Homepage: https://miniupnp.tuxfamily.org/
 - Package: miniupnpc-static
-  Version: 2.3.2
+  Version: 2.3.3
   Description: Static libraries for miniupnpc
   Homepage: https://miniupnp.tuxfamily.org/
 - Package: minizinc
@@ -8747,7 +8747,7 @@
   Description: Search tool able to locate in PDFs, E-Books, zip, tar.gz, etc
   Homepage: https://github.com/phiresky/ripgrep-all
 - Package: ripsecrets
-  Version: 0.1.9
+  Version: 0.1.10
   Description: A command-line tool to prevent committing secret keys into your source code
   Homepage: https://github.com/sirwart/ripsecrets
 - Package: rirc

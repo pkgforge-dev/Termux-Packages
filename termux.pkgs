@@ -429,7 +429,7 @@
 | **entr** | 5.7 | Event Notify Test Runner - run arbitrary commands when files change | https://eradman.com/entrproject/ |
 | **erlang** | 27.3.4-1 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
 | **erlang-doc** | 27.3.4-1 | Erlang HTML documentation | https://www.erlang.org/ |
-| **esbuild** | 0.25.4 | An extremely fast JavaScript bundler | https://esbuild.github.io/ |
+| **esbuild** | 0.25.5 | An extremely fast JavaScript bundler | https://esbuild.github.io/ |
 | **espeak** | 1.52.0 | Compact software speech synthesizer | https://github.com/espeak-ng/espeak-ng |
 | **espeak-static** | 1.52.0 | Static libraries for espeak | https://github.com/espeak-ng/espeak-ng |
 | **et** | 6.2.9-4 | A remote shell that automatically reconnects without interrupting the session | https://eternalterminal.dev |
@@ -772,7 +772,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-1 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.22.1951 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.22.1956 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **janet** | 1.38.0 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
 | **jbig2dec** | 0.20 | Decoder implementation of the JBIG2 image compression format | https://jbig2dec.com/ |
 | **jbig2dec-static** | 0.20 | Static libraries for jbig2dec | https://jbig2dec.com/ |
@@ -1713,8 +1713,8 @@
 | **minio** | 2025.05.24.17.08.30 | Multi-Cloud Object Storage | https://min.io/ |
 | **miniserve** | 0.29.0 | Tool to serve files and dirs over HTTP | https://github.com/svenstaro/miniserve |
 | **minisign** | 0.12 | A dead simple tool to sign files and verify signatures | https://jedisct1.github.io/minisign/ |
-| **miniupnpc** | 2.3.2 | Small UPnP client library and tool to access Internet Gateway Devices | https://miniupnp.tuxfamily.org/ |
-| **miniupnpc-static** | 2.3.2 | Static libraries for miniupnpc | https://miniupnp.tuxfamily.org/ |
+| **miniupnpc** | 2.3.3 | Small UPnP client library and tool to access Internet Gateway Devices | https://miniupnp.tuxfamily.org/ |
+| **miniupnpc-static** | 2.3.3 | Static libraries for miniupnpc | https://miniupnp.tuxfamily.org/ |
 | **minizinc** | 2.9.3 | A medium-level constraint modelling language | https://github.com/MiniZinc/libminizinc |
 | **minizinc-static** | 2.9.3 | Static libraries for minizinc | https://github.com/MiniZinc/libminizinc |
 | **mkbootimg** | 2022.11.09 | Maintained fork with android's mkbootimg and unpackbootimg | https://github.com/osm0sis/mkbootimg |
@@ -2185,7 +2185,7 @@
 | **rip2** | 0.9.4 | A safe and ergonomic alternative to rm | https://github.com/MilesCranmer/rip2 |
 | **ripgrep** | 14.1.1 | Search tool like grep and The Silver Searcher | https://github.com/BurntSushi/ripgrep |
 | **ripgrep-all** | 1.0.0-alpha.5-3 | Search tool able to locate in PDFs, E-Books, zip, tar.gz, etc | https://github.com/phiresky/ripgrep-all |
-| **ripsecrets** | 0.1.9 | A command-line tool to prevent committing secret keys into your source code | https://github.com/sirwart/ripsecrets |
+| **ripsecrets** | 0.1.10 | A command-line tool to prevent committing secret keys into your source code | https://github.com/sirwart/ripsecrets |
 | **rirc** | 0.1.7-1 | A terminal IRC client in C | https://github.com/rcr/rirc |
 | **rizin** | 0.7.4-1 | UNIX-like reverse engineering framework and command-line toolset. | https://rizin.re |
 | **rlwrap** | 0.46.1 | Wrapper using readline to enable editing of keyboard input for commands | https://github.com/hanslub42/rlwrap |
