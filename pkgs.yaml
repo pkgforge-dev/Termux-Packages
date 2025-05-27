@@ -4955,7 +4955,7 @@
   Description: Static libraries for libnspr
   Homepage: https://hg.mozilla.org/projects/nspr
 - Package: libnss
-  Version: "3.111"
+  Version: "3.112"
   Description: Network Security Services (NSS)
   Homepage: https://firefox-source-docs.mozilla.org/security/nss/
 - Package: libntl
@@ -6899,7 +6899,7 @@
   Description: Tool to find files anywhere in the filesystem based on their name
   Homepage: https://pagure.io/mlocate
 - Package: moar
-  Version: 1.31.7
+  Version: 1.31.8
   Description: A pager designed to just do the right thing without any configuration
   Homepage: https://github.com/walles/moar
 - Package: mold
@@ -7375,7 +7375,7 @@
   Description: The classic snake game with textual interface
   Homepage: https://github.com/alexdantas/nSnake
 - Package: nss-utils
-  Version: "3.111"
+  Version: "3.112"
   Description: Tools for NSS
   Homepage: https://firefox-source-docs.mozilla.org/security/nss/
 - Package: nudoku
@@ -8747,7 +8747,7 @@
   Description: Search tool able to locate in PDFs, E-Books, zip, tar.gz, etc
   Homepage: https://github.com/phiresky/ripgrep-all
 - Package: ripsecrets
-  Version: 0.1.10
+  Version: 0.1.11
   Description: A command-line tool to prevent committing secret keys into your source code
   Homepage: https://github.com/sirwart/ripsecrets
 - Package: rirc
@@ -10399,7 +10399,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2025.05.21a
+  Version: 2025.05.27
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://vtm.netxs.online/
 - Package: vttest
