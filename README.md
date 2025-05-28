@@ -698,7 +698,7 @@
 | **hcloud** | 1.50.0 | Hetzner Cloud command line client | https://github.com/hetznercloud/cli |
 | **helix** | 25.01.1-1 | A post-modern modal text editor written in rust | https://helix-editor.com/ |
 | **helix-grammars** | 25.01.1-1 | Helix grammars | https://helix-editor.com/ |
-| **hello** | 2.12.1-1 | Prints a friendly greeting | https://www.gnu.org/software/hello/ |
+| **hello** | 2.12.2 | Prints a friendly greeting | https://www.gnu.org/software/hello/ |
 | **helm** | 3.18.0 | Helm helps you manage Kubernetes applications | https://helm.sh |
 | **helm-ls** | 0.2.2 | Language server for Helm | https://github.com/mrjosh/helm-ls |
 | **help2man** | 1.49.3 | Conversion tool to create man files | https://www.gnu.org/software/help2man/ |
