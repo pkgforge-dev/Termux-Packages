@@ -1175,7 +1175,7 @@
   Description: Static libraries for cups
   Homepage: https://www.cups.org/
 - Package: curl
-  Version: 8.13.0
+  Version: 8.14.0
   Description: Command line tool for transferring data with URL syntax
   Homepage: https://curl.se/
 - Package: curlie
@@ -3095,7 +3095,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.1956
+  Version: 0.22.1960
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: janet
@@ -3815,11 +3815,11 @@
   Description: Static libraries for libcunit
   Homepage: https://sourceforge.net/projects/cunit/
 - Package: libcurl
-  Version: 8.13.0
+  Version: 8.14.0
   Description: Easy-to-use client-side URL transfer library
   Homepage: https://curl.se/
 - Package: libcurl-static
-  Version: 8.13.0
+  Version: 8.14.0
   Description: Static libraries for libcurl
   Homepage: https://curl.se/
 - Package: libcwidget
@@ -9935,7 +9935,7 @@
   Description: Recursive directory lister producing a depth indented listing of files
   Homepage: http://mama.indstate.edu/users/ice/tree/
 - Package: tree-sitter
-  Version: 0.25.4
+  Version: 0.25.5
   Description: An incremental parsing system for programming tools
   Homepage: https://github.com/tree-sitter/tree-sitter
 - Package: tree-sitter-c
@@ -9975,7 +9975,7 @@
   Description: Static libraries for tree-sitter-query
   Homepage: https://github.com/tree-sitter-grammars
 - Package: tree-sitter-static
-  Version: 0.25.4
+  Version: 0.25.5
   Description: Static libraries for tree-sitter
   Homepage: https://github.com/tree-sitter/tree-sitter
 - Package: tree-sitter-vim

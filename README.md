@@ -304,7 +304,7 @@
 | **cups** | 2.4.12 | Common UNIX Printing System | https://www.cups.org/ |
 | **cups-pdf** | 3.0.1 | CUPS PDF backend | https://www.cups-pdf.de/ |
 | **cups-static** | 2.4.12 | Static libraries for cups | https://www.cups.org/ |
-| **curl** | 8.13.0 | Command line tool for transferring data with URL syntax | https://curl.se/ |
+| **curl** | 8.14.0 | Command line tool for transferring data with URL syntax | https://curl.se/ |
 | **curlie** | 1.8.2 | The power of curl, the ease of use of httpie | https://curlie.io/ |
 | **curseofwar** | 1.3.0-4 | Fast-paced action strategy game focusing on high-level strategic planning | http://a-nikolaev.github.io/curseofwar/ |
 | **cvs** | 1:1.12.13-4 | Concurrent Versions System | https://www.nongnu.org/cvs/ |
@@ -784,7 +784,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-1 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.22.1956 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.22.1960 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **janet** | 1.38.0 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
 | **jbig2dec** | 0.20 | Decoder implementation of the JBIG2 image compression format | https://jbig2dec.com/ |
 | **jbig2dec-static** | 0.20 | Static libraries for jbig2dec | https://jbig2dec.com/ |
@@ -964,8 +964,8 @@
 | **libcue** | 2.3.0 | CUE Sheet Parser Library | https://github.com/lipnitsk/libcue/ |
 | **libcunit** | 2.1.3 | C Unit Testing Framework | https://sourceforge.net/projects/cunit/ |
 | **libcunit-static** | 2.1.3 | Static libraries for libcunit | https://sourceforge.net/projects/cunit/ |
-| **libcurl** | 8.13.0 | Easy-to-use client-side URL transfer library | https://curl.se/ |
-| **libcurl-static** | 8.13.0 | Static libraries for libcurl | https://curl.se/ |
+| **libcurl** | 8.14.0 | Easy-to-use client-side URL transfer library | https://curl.se/ |
+| **libcurl-static** | 8.14.0 | Static libraries for libcurl | https://curl.se/ |
 | **libcwidget** | 0.5.18 | high-level terminal interface library for C++ | https://salsa.debian.org/cwidget-team/ |
 | **libcwidget-static** | 0.5.18 | Static libraries for libcwidget | https://salsa.debian.org/cwidget-team/ |
 | **libczmq** | 4.2.1-3 | High-level C binding for ZeroMQ | https://zeromq.org/ |
@@ -2494,7 +2494,7 @@
 | **translate-shell** | 0.9.7.1 | Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc. | https://www.soimort.org/translate-shell |
 | **transmission** | 4.0.6-3 | Easy, lean and powerful BitTorrent client | https://transmissionbt.com/ |
 | **tree** | 2.2.1 | Recursive directory lister producing a depth indented listing of files | http://mama.indstate.edu/users/ice/tree/ |
-| **tree-sitter** | 0.25.4 | An incremental parsing system for programming tools | https://github.com/tree-sitter/tree-sitter |
+| **tree-sitter** | 0.25.5 | An incremental parsing system for programming tools | https://github.com/tree-sitter/tree-sitter |
 | **tree-sitter-c** | 0.24.1 | C grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-c |
 | **tree-sitter-c-static** | 0.23.1 | Static libraries for tree-sitter-c | https://github.com/tree-sitter |
 | **tree-sitter-lua** | 0.3.0-1 | Lua grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-lua |
@@ -2504,7 +2504,7 @@
 | **tree-sitter-parsers** | 0.0.2 | A metapackage that provides commonly used treesitter parsers | https://github.com/termux/termux-packages |
 | **tree-sitter-query** | 0.6.0 | TS query grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-query |
 | **tree-sitter-query-static** | 0.4.0-1 | Static libraries for tree-sitter-query | https://github.com/tree-sitter-grammars |
-| **tree-sitter-static** | 0.25.4 | Static libraries for tree-sitter | https://github.com/tree-sitter/tree-sitter |
+| **tree-sitter-static** | 0.25.5 | Static libraries for tree-sitter | https://github.com/tree-sitter/tree-sitter |
 | **tree-sitter-vim** | 0.6.0 | Vimscript grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-vim |
 | **tree-sitter-vim-static** | 0.6.0 | Static libraries for tree-sitter-vim | https://github.com/tree-sitter-grammars/tree-sitter-vim |
 | **tree-sitter-vimdoc** | 4.0.0 | Tree-sitter parser for Vim help files | https://github.com/neovim/tree-sitter-vimdoc |
