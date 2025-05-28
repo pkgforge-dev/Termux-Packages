@@ -143,9 +143,9 @@
   Description: A code search / replace tool
   Homepage: https://github.com/dalance/amber
 - Package: amfora
-  Version: 1.10.0-1
+  Version: 1.10.0-2
   Description: Aims to be the best looking Gemini client
-  Homepage: https://github.com/makeworld-the-better-one/amfora
+  Homepage: https://github.com/makew0rld/amfora
 - Package: anacron
   Version: "2.3"
   Description: A periodic command scheduler
@@ -2307,7 +2307,7 @@
   Description: Simple, Portable, Free File Transfer Software for UNIX
   Homepage: http://www.columbia.edu/kermit/gkermit.html
 - Package: glab-cli
-  Version: 1.57.0
+  Version: 1.58.0
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
@@ -10755,7 +10755,7 @@
   Description: Static libraries for yasm
   Homepage: https://yasm.tortall.net/
 - Package: yazi
-  Version: 25.4.8
+  Version: 25.5.28
   Description: Blazing fast terminal file manager written in Rust, based on async I/O
   Homepage: https://yazi-rs.github.io/
 - Package: yosys
