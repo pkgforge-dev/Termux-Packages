@@ -2707,7 +2707,7 @@
   Description: Standard GNU file compression utilities
   Homepage: https://www.gnu.org/software/gzip/
 - Package: haproxy
-  Version: 3.1.7
+  Version: 3.2.0
   Description: The Reliable, High Performance TCP/HTTP Load Balancer
   Homepage: https://www.haproxy.org/
 - Package: harfbuzz
@@ -3095,7 +3095,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.1960
+  Version: 0.22.1967
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: janet
@@ -8759,7 +8759,7 @@
   Description: UNIX-like reverse engineering framework and command-line toolset.
   Homepage: https://rizin.re
 - Package: rlwrap
-  Version: 0.46.1
+  Version: 0.46.2
   Description: Wrapper using readline to enable editing of keyboard input for commands
   Homepage: https://github.com/hanslub42/rlwrap
 - Package: rnr
@@ -10883,9 +10883,9 @@
   Description: Static libraries for zstd
   Homepage: https://github.com/facebook/zstd
 - Package: zsync
-  Version: 0.6.2-5
+  Version: 0.6.3
   Description: A file transfer program to download files from remote web servers
-  Homepage: http://zsync.moria.org.uk/
+  Homepage: https://zsync.moria.org.uk/
 - Package: zziplib
   Version: 0.13.79
   Description: Provides read access to zipped files in a zip-archive, using compression based on free algorithms
