@@ -5659,13 +5659,13 @@
   },
   {
     "Package": "libconfig",
-    "Version": "1.8",
+    "Version": "1.8.1",
     "Description": "C/C++ Configuration File Library",
     "Homepage": "https://github.com/hyperrealm/libconfig"
   },
   {
     "Package": "libconfig-static",
-    "Version": "1.8",
+    "Version": "1.8.1",
     "Description": "Static libraries for libconfig",
     "Homepage": "https://github.com/hyperrealm/libconfig"
   },
@@ -11083,7 +11083,7 @@
   },
   {
     "Package": "nwipe",
-    "Version": "0.38",
+    "Version": "0.38-1",
     "Description": "A program that will securely erase the entire contents of disks",
     "Homepage": "https://github.com/martijnvanbrummelen/nwipe"
   },
@@ -14473,7 +14473,7 @@
   },
   {
     "Package": "telegram-cli",
-    "Version": "1:1.4.1-6",
+    "Version": "1:1.4.1-7",
     "Description": "Telegram messenger CLI",
     "Homepage": "https://github.com/vysheng/tg"
   },
@@ -14869,7 +14869,7 @@
   },
   {
     "Package": "toxic",
-    "Version": "0.16.1-1",
+    "Version": "0.16.1-2",
     "Description": "A command line client for Tox",
     "Homepage": "https://github.com/JFreegman/toxic"
   },

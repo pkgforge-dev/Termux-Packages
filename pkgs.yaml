@@ -3771,11 +3771,11 @@
   Description: Compiler runtime libraries for clang
   Homepage: https://clang.llvm.org/
 - Package: libconfig
-  Version: "1.8"
+  Version: 1.8.1
   Description: C/C++ Configuration File Library
   Homepage: https://github.com/hyperrealm/libconfig
 - Package: libconfig-static
-  Version: "1.8"
+  Version: 1.8.1
   Description: Static libraries for libconfig
   Homepage: https://github.com/hyperrealm/libconfig
 - Package: libconfuse
@@ -7387,7 +7387,7 @@
   Description: A new type of shell operating on structured data
   Homepage: https://www.nushell.sh
 - Package: nwipe
-  Version: "0.38"
+  Version: 0.38-1
   Description: A program that will securely erase the entire contents of disks
   Homepage: https://github.com/martijnvanbrummelen/nwipe
 - Package: nyancat
@@ -9647,7 +9647,7 @@
   Description: Telegram Bot API server
   Homepage: https://github.com/tdlib/telegram-bot-api
 - Package: telegram-cli
-  Version: 1:1.4.1-6
+  Version: 1:1.4.1-7
   Description: Telegram messenger CLI
   Homepage: https://github.com/vysheng/tg
 - Package: teleport-tsh
@@ -9911,7 +9911,7 @@
   Description: Simple GObject-based library to parse and save a host of playlist formats
   Homepage: https://gitlab.gnome.org/GNOME/totem-pl-parser
 - Package: toxic
-  Version: 0.16.1-1
+  Version: 0.16.1-2
   Description: A command line client for Tox
   Homepage: https://github.com/JFreegman/toxic
 - Package: tracepath
