@@ -1814,7 +1814,7 @@
 | **neocmakelsp** | 0.8.23 | a cmake lsp based on tower-lsp and treesitter | https://neocmakelsp.github.io/ |
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20250510 | A version of mutt with added features | https://neomutt.org/ |
-| **neovim** | 0.11.1-1 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
+| **neovim** | 0.11.2 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
 | **nerdfix** | 0.4.2 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.4 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.4 | Static libraries for net-snmp | http://www.net-snmp.org/ |
@@ -1948,6 +1948,7 @@
 | **paruz** | 1.1.2 | A fzf terminal UI for paru or pacman | https://github.com/joehillen/paruz |
 | **pass** | 1.7.4-5 | Lightweight directory-based password manager | https://www.passwordstore.org |
 | **pass-otp** | 1.2.0-4 | A pass extension for managing one-time-password (OTP) tokens | https://github.com/tadfisher/pass-otp |
+| **passage** | 1.7.4a2 | A fork of password-store that uses age as backend | https://github.com/FiloSottile/passage |
 | **passphrase2pgp** | 1.3.0-2 | Generate EdDSA/cv25519 private key in GnuPG/SSH format reproducibly per hash of user given passphrase | https://github.com/skeeto/passphrase2pgp |
 | **pastebinit** | 1.5.1-2 | Command-line pastebin client | https://launchpad.net/pastebinit |
 | **pastel** | 0.10.0 | A command-line tool to generate, analyze, convert and manipulate colors | https://github.com/sharkdp/pastel |
@@ -2712,7 +2713,7 @@
 | **zbar** | 0.23.93 | Software suite for reading bar codes from various sources | https://github.com/mchehab/zbar |
 | **zbar-static** | 0.23.93 | Static libraries for zbar | https://github.com/mchehab/zbar |
 | **zeronet** | 0.7.1-9 | Decentralized websites using Bitcoin crypto and BitTorrent network | https://zeronet.io/ |
-| **zig** | 0.14.0 | General-purpose programming language and toolchain | https://ziglang.org |
+| **zig** | 0.14.1 | General-purpose programming language and toolchain | https://ziglang.org |
 | **zile** | 2.6.4 | Lightweight clone of the Emacs text editor | https://www.gnu.org/software/zile/ |
 | **zip** | 3.0-5 | Tools for working with zip files | https://sourceforge.net/projects/infozip/ |
 | **zipios** | 2.3.2 | A small C++ library for reading and writing zip files | https://zipios.sourceforge.io/ |
@@ -2723,7 +2724,7 @@
 | **znc** | 1.9.1-2 | An advanced IRC bouncer | https://znc.in/ |
 | **zola** | 0.20.0 | A fast static site generator in a single binary with everything built-in. | https://github.com/getzola/zola |
 | **zopfli** | 1.0.3-3 | New zlib compatible compressor tools | https://github.com/google/zopfli |
-| **zoxide** | 0.9.8 | A faster way to navigate your filesystem | https://github.com/ajeetdsouza/zoxide |
+| **zoxide** | 0.9.8-1 | A faster way to navigate your filesystem | https://github.com/ajeetdsouza/zoxide |
 | **zpaq** | 7.15 | Programmable file compressor, library and utilities. Based on the PAQ compression algorithm | http://mattmahoney.net/dc/zpaq.html |
 | **zrok** | 1.0.4 | An open source sharing solution built on OpenZiti. | https://zrok.io/ |
 | **zsh** | 5.9-7 | Shell with lots of features | https://www.zsh.org |

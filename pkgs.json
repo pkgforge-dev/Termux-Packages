@@ -10825,7 +10825,7 @@
   },
   {
     "Package": "neovim",
-    "Version": "0.11.1-1",
+    "Version": "0.11.2",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim)",
     "Homepage": "https://neovim.io/"
   },
@@ -11626,6 +11626,12 @@
     "Version": "1.2.0-4",
     "Description": "A pass extension for managing one-time-password (OTP) tokens",
     "Homepage": "https://github.com/tadfisher/pass-otp"
+  },
+  {
+    "Package": "passage",
+    "Version": "1.7.4a2",
+    "Description": "A fork of password-store that uses age as backend",
+    "Homepage": "https://github.com/FiloSottile/passage"
   },
   {
     "Package": "passphrase2pgp",
@@ -16213,7 +16219,7 @@
   },
   {
     "Package": "zig",
-    "Version": "0.14.0",
+    "Version": "0.14.1",
     "Description": "General-purpose programming language and toolchain",
     "Homepage": "https://ziglang.org"
   },
@@ -16279,7 +16285,7 @@
   },
   {
     "Package": "zoxide",
-    "Version": "0.9.8",
+    "Version": "0.9.8-1",
     "Description": "A faster way to navigate your filesystem",
     "Homepage": "https://github.com/ajeetdsouza/zoxide"
   },
