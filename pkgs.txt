@@ -166,7 +166,7 @@
  brainfuck-static  1:2.7.3  Static libraries for brainfuck  https://github.com/fabianishere/brainfuck 
  brogue  1.14.1  Roguelike dungeon crawling game (community edition)  https://sites.google.com/site/broguegame/ 
  brook  20250202  A cross-platform strong encryption and not detectable proxy. Zero-Configuration.  https://github.com/txthinking/brook 
- broot  1.46.4  A better way to navigate directories  https://github.com/Canop/broot 
+ broot  1.46.5  A better way to navigate directories  https://github.com/Canop/broot 
  brotli  1.1.0-2  lossless compression algorithm and format (command line utility)  https://github.com/google/brotli 
  brotli-static  1.0.9-1  Static libraries for brotli  https://github.com/google/brotli 
  bsd-finger  0.17-1  User information lookup program  https://packages.debian.org/sid/source/bsd-finger 
@@ -659,13 +659,13 @@
  gsl  2.8  GNU Scientific Library (GSL) providing a wide range of mathematical routines  https://www.gnu.org/software/gsl/ 
  gsl-static  2.8  Static libraries for gsl  https://www.gnu.org/software/gsl/ 
  gst-libav  1.26.1  GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code  https://gstreamer.freedesktop.org/modules/gst-libav.html 
- gst-plugins-bad  1.26.1  GStreamer Bad Plug-ins  https://gstreamer.freedesktop.org/ 
+ gst-plugins-bad  1.26.2  GStreamer Bad Plug-ins  https://gstreamer.freedesktop.org/ 
  gst-plugins-base  1.26.1-1  GStreamer base plug-ins  https://gstreamer.freedesktop.org/ 
  gst-plugins-gl-headers  1.26.1-1  OpenGL headers for GStreamer plugins  https://gstreamer.freedesktop.org/ 
- gst-plugins-good  1.26.1  GStreamer Good Plug-ins  https://gstreamer.freedesktop.org/ 
+ gst-plugins-good  1.26.2  GStreamer Good Plug-ins  https://gstreamer.freedesktop.org/ 
  gst-plugins-ugly  1.26.1  GStreamer Ugly Plug-ins  https://gstreamer.freedesktop.org/ 
  gst-python  1.26.1  Python bindings for GStreamer  https://gstreamer.freedesktop.org/ 
- gstreamer  1.26.1  Open source multimedia framework  https://gstreamer.freedesktop.org/ 
+ gstreamer  1.26.2  Open source multimedia framework  https://gstreamer.freedesktop.org/ 
  gtypist  2.10.1  Universal typing tutor  https://www.gnu.org/software/gtypist/ 
  guile  3.0.9-2  Portable, embeddable Scheme implementation written in C  http://www.gnu.org/software/guile/ 
  guile-static  3.0.9-2  Static libraries for guile  http://www.gnu.org/software/guile/ 
@@ -683,7 +683,7 @@
  hash-slinger  3.4  Various tools to generate special DNS records  https://github.com/letoams/hash-slinger 
  hashdeep  4.4-8  Programs to compute hashsums of arbitrary number of files recursively  http://md5deep.sourceforge.net/ 
  hcl  2.23.0  A toolkit for creating structured configuration languages  https://github.com/hashicorp/hcl 
- hcloud  1.50.0  Hetzner Cloud command line client  https://github.com/hetznercloud/cli 
+ hcloud  1.51.0  Hetzner Cloud command line client  https://github.com/hetznercloud/cli 
  helix  25.01.1-1  A post-modern modal text editor written in rust  https://helix-editor.com/ 
  helix-grammars  25.01.1-1  Helix grammars  https://helix-editor.com/ 
  hello  2.12.2  Prints a friendly greeting  https://www.gnu.org/software/hello/ 
@@ -708,8 +708,8 @@
  html-xml-utils  8.6  A number of simple utilities for manipulating HTML and XML files  https://www.w3.org/Tools/HTML-XML-utils/ 
  html2text  1:2.2.3  Utility that converts HTML documents into plain text  http://www.mbayer.de/html2text/ 
  htop  3.4.1  Interactive process viewer for Linux  https://htop.dev/ 
- htslib  1.21  C library for high-throughput sequencing data formats  https://github.com/samtools/htslib 
- htslib-static  1.21  Static libraries for htslib  https://github.com/samtools/htslib 
+ htslib  1.22  C library for high-throughput sequencing data formats  https://github.com/samtools/htslib 
+ htslib-static  1.22  Static libraries for htslib  https://github.com/samtools/htslib 
  httping  4.4.0  ping-like program for http-requests  https://github.com/folkertvanheusden/HTTPing 
  httrack  3.49.6  It allows you to download a World Wide Web site from the Internet  http://www.httrack.com 
  httrack-data  3.49.6  Platform-independent data for httrack  http://www.httrack.com 
@@ -1857,7 +1857,7 @@
  octomap  1.10.0  An efficient probabilistic 3D mapping framework based on octrees  https://github.com/OctoMap/octomap 
  octomap-static  1.10.0  Static libraries for octomap  https://github.com/OctoMap/octomap 
  odt2txt  0.5-4  Simple converter from OpenDocument Text to plain text  https://github.com/dstosberg/odt2txt 
- oh-my-posh  26.0.2  A prompt theme engine for any shell.  https://ohmyposh.dev 
+ oh-my-posh  26.0.4  A prompt theme engine for any shell.  https://ohmyposh.dev 
  okc-agents  0.1.2  OpenKeychain agents for GnuPG and OpenSSH  https://github.com/DDoSolitary/okc-agents 
  ol  2.6-2  Purely functional dialect of Lisp  https://yuriy-chumak.github.io/ol/ 
  oleo  1.99.16-9  The GNU Spreadsheet  https://www.gnu.org/software/oleo/ 
@@ -2720,6 +2720,6 @@
  zstd  1.5.7  Zstandard compression  https://github.com/facebook/zstd 
  zstd-static  1.5.6-1  Static libraries for zstd  https://github.com/facebook/zstd 
  zsync  0.6.3  A file transfer program to download files from remote web servers  https://zsync.moria.org.uk/ 
- zziplib  0.13.79  Provides read access to zipped files in a zip-archive, using compression based on free algorithms  https://zziplib.sourceforge.net/ 
+ zziplib  0.13.80  Provides read access to zipped files in a zip-archive, using compression based on free algorithms  https://zziplib.sourceforge.net/ 
  zzuf  2022.05.29  A transparent application input fuzzer  http://caca.zoy.org/wiki/zzuf 
  zzuf-static  2022.05.29  Static libraries for zzuf  http://caca.zoy.org/wiki/zzuf 

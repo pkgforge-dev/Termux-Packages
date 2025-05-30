@@ -671,7 +671,7 @@
   Description: A cross-platform strong encryption and not detectable proxy. Zero-Configuration.
   Homepage: https://github.com/txthinking/brook
 - Package: broot
-  Version: 1.46.4
+  Version: 1.46.5
   Description: A better way to navigate directories
   Homepage: https://github.com/Canop/broot
 - Package: brotli
@@ -2643,7 +2643,7 @@
   Description: GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code
   Homepage: https://gstreamer.freedesktop.org/modules/gst-libav.html
 - Package: gst-plugins-bad
-  Version: 1.26.1
+  Version: 1.26.2
   Description: GStreamer Bad Plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-plugins-base
@@ -2655,7 +2655,7 @@
   Description: OpenGL headers for GStreamer plugins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-plugins-good
-  Version: 1.26.1
+  Version: 1.26.2
   Description: GStreamer Good Plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-plugins-ugly
@@ -2667,7 +2667,7 @@
   Description: Python bindings for GStreamer
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gstreamer
-  Version: 1.26.1
+  Version: 1.26.2
   Description: Open source multimedia framework
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gtypist
@@ -2739,7 +2739,7 @@
   Description: A toolkit for creating structured configuration languages
   Homepage: https://github.com/hashicorp/hcl
 - Package: hcloud
-  Version: 1.50.0
+  Version: 1.51.0
   Description: Hetzner Cloud command line client
   Homepage: https://github.com/hetznercloud/cli
 - Package: helix
@@ -2839,11 +2839,11 @@
   Description: Interactive process viewer for Linux
   Homepage: https://htop.dev/
 - Package: htslib
-  Version: "1.21"
+  Version: "1.22"
   Description: C library for high-throughput sequencing data formats
   Homepage: https://github.com/samtools/htslib
 - Package: htslib-static
-  Version: "1.21"
+  Version: "1.22"
   Description: Static libraries for htslib
   Homepage: https://github.com/samtools/htslib
 - Package: httping
@@ -7435,7 +7435,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 26.0.2
+  Version: 26.0.4
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -10887,7 +10887,7 @@
   Description: A file transfer program to download files from remote web servers
   Homepage: https://zsync.moria.org.uk/
 - Package: zziplib
-  Version: 0.13.79
+  Version: 0.13.80
   Description: Provides read access to zipped files in a zip-archive, using compression based on free algorithms
   Homepage: https://zziplib.sourceforge.net/
 - Package: zzuf

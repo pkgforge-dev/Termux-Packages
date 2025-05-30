@@ -1009,7 +1009,7 @@
   },
   {
     "Package": "broot",
-    "Version": "1.46.4",
+    "Version": "1.46.5",
     "Description": "A better way to navigate directories",
     "Homepage": "https://github.com/Canop/broot"
   },
@@ -3967,7 +3967,7 @@
   },
   {
     "Package": "gst-plugins-bad",
-    "Version": "1.26.1",
+    "Version": "1.26.2",
     "Description": "GStreamer Bad Plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
@@ -3985,7 +3985,7 @@
   },
   {
     "Package": "gst-plugins-good",
-    "Version": "1.26.1",
+    "Version": "1.26.2",
     "Description": "GStreamer Good Plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
@@ -4003,7 +4003,7 @@
   },
   {
     "Package": "gstreamer",
-    "Version": "1.26.1",
+    "Version": "1.26.2",
     "Description": "Open source multimedia framework",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
@@ -4111,7 +4111,7 @@
   },
   {
     "Package": "hcloud",
-    "Version": "1.50.0",
+    "Version": "1.51.0",
     "Description": "Hetzner Cloud command line client",
     "Homepage": "https://github.com/hetznercloud/cli"
   },
@@ -4261,13 +4261,13 @@
   },
   {
     "Package": "htslib",
-    "Version": "1.21",
+    "Version": "1.22",
     "Description": "C library for high-throughput sequencing data formats",
     "Homepage": "https://github.com/samtools/htslib"
   },
   {
     "Package": "htslib-static",
-    "Version": "1.21",
+    "Version": "1.22",
     "Description": "Static libraries for htslib",
     "Homepage": "https://github.com/samtools/htslib"
   },
@@ -11155,7 +11155,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "26.0.2",
+    "Version": "26.0.4",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -16333,7 +16333,7 @@
   },
   {
     "Package": "zziplib",
-    "Version": "0.13.79",
+    "Version": "0.13.80",
     "Description": "Provides read access to zipped files in a zip-archive, using compression based on free algorithms",
     "Homepage": "https://zziplib.sourceforge.net/"
   },
