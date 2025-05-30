@@ -2211,7 +2211,7 @@
   Description: The Forth implementation of the GNU project
   Homepage: https://www.gnu.org/software/gforth/
 - Package: gh
-  Version: 2.73.0
+  Version: 2.74.0
   Description: GitHub’s official command line tool
   Homepage: https://cli.github.com/
 - Package: ghc
@@ -7027,7 +7027,7 @@
   Description: Set of programs to inspect and build Windows Installer (.MSI) files
   Homepage: https://gitlab.gnome.org/GNOME/msitools
 - Package: msmtp
-  Version: 1.8.28
+  Version: 1.8.29
   Description: Lightweight SMTP client
   Homepage: https://marlam.de/msmtp/
 - Package: mtd-utils
@@ -7435,7 +7435,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 26.0.1
+  Version: 26.0.2
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
