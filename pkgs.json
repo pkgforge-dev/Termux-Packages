@@ -2623,7 +2623,7 @@
   },
   {
     "Package": "exercism",
-    "Version": "3.5.4",
+    "Version": "3.5.5",
     "Description": "A Go based command line tool for exercism.io",
     "Homepage": "https://github.com/exercism/cli/"
   },
@@ -2659,7 +2659,7 @@
   },
   {
     "Package": "eza",
-    "Version": "0.21.3",
+    "Version": "0.21.4",
     "Description": "A modern replacement for ls",
     "Homepage": "https://github.com/eza-community/eza"
   },
@@ -3529,7 +3529,7 @@
   },
   {
     "Package": "glow",
-    "Version": "2.1.0-1",
+    "Version": "2.1.1",
     "Description": "Render markdown on the CLI, with pizzazz!",
     "Homepage": "https://github.com/charmbracelet/glow"
   },
@@ -3967,7 +3967,7 @@
   },
   {
     "Package": "gst-libav",
-    "Version": "1.26.1",
+    "Version": "1.26.2",
     "Description": "GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code",
     "Homepage": "https://gstreamer.freedesktop.org/modules/gst-libav.html"
   },
@@ -3979,13 +3979,13 @@
   },
   {
     "Package": "gst-plugins-base",
-    "Version": "1.26.1-1",
+    "Version": "1.26.2",
     "Description": "GStreamer base plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
   {
     "Package": "gst-plugins-gl-headers",
-    "Version": "1.26.1-1",
+    "Version": "1.26.2",
     "Description": "OpenGL headers for GStreamer plugins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
@@ -3997,7 +3997,7 @@
   },
   {
     "Package": "gst-plugins-ugly",
-    "Version": "1.26.1",
+    "Version": "1.26.2",
     "Description": "GStreamer Ugly Plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
@@ -4045,7 +4045,7 @@
   },
   {
     "Package": "gum",
-    "Version": "0.16.0",
+    "Version": "0.16.1",
     "Description": "A tool for creating minimal interactive TUIs for shell scripts",
     "Homepage": "https://github.com/charmbracelet/gum"
   },
@@ -15637,7 +15637,7 @@
   },
   {
     "Package": "vulkan-headers",
-    "Version": "1.4.315",
+    "Version": "1.4.316",
     "Description": "Vulkan Header files and API registry",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Headers"
   },
