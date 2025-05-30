@@ -1183,7 +1183,7 @@
   },
   {
     "Package": "carapace",
-    "Version": "1.3.2",
+    "Version": "1.3.2-1",
     "Description": "Multi-shell multi-command argument completer",
     "Homepage": "https://carapace.sh/"
   },
@@ -4003,7 +4003,7 @@
   },
   {
     "Package": "gst-python",
-    "Version": "1.26.1",
+    "Version": "1.26.2",
     "Description": "Python bindings for GStreamer",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
@@ -10189,19 +10189,19 @@
   },
   {
     "Package": "mesa",
-    "Version": "25.1.1-1",
+    "Version": "25.1.1-2",
     "Description": "An open-source implementation of the OpenGL specification",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-dev",
-    "Version": "25.1.1-1",
+    "Version": "25.1.1-2",
     "Description": "Mesas OpenGL headers",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-vulkan-icd-swrast",
-    "Version": "25.1.1-1",
+    "Version": "25.1.1-2",
     "Description": "Mesas Swrast Vulkan ICD",
     "Homepage": "https://www.mesa3d.org"
   },
@@ -10267,7 +10267,7 @@
   },
   {
     "Package": "miniflux",
-    "Version": "2.2.8",
+    "Version": "2.2.9",
     "Description": "A minimalist and opinionated feed reader",
     "Homepage": "https://miniflux.app/"
   },
@@ -10693,7 +10693,7 @@
   },
   {
     "Package": "navidrome",
-    "Version": "0.56.0",
+    "Version": "0.56.1",
     "Description": "🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic",
     "Homepage": "https://www.navidrome.org/"
   },
@@ -15613,7 +15613,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "2025.05.27",
+    "Version": "2025.05.28",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://vtm.netxs.online/"
   },
@@ -16147,7 +16147,7 @@
   },
   {
     "Package": "yazi",
-    "Version": "25.5.28",
+    "Version": "25.5.31",
     "Description": "Blazing fast terminal file manager written in Rust, based on async I/O",
     "Homepage": "https://yazi-rs.github.io/"
   },
