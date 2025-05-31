@@ -7439,7 +7439,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 26.0.4
+  Version: 26.0.5
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -7751,11 +7751,11 @@
   Description: Lightweight directory-based password manager
   Homepage: https://www.passwordstore.org
 - Package: pass-otp
-  Version: 1.2.0-4
-  Description: A pass extension for managing one-time-password (OTP) tokens
+  Version: 1.2.0-p20221228-0
+  Description: A pass/passage extension for managing one-time-password (OTP) tokens
   Homepage: https://github.com/tadfisher/pass-otp
 - Package: passage
-  Version: 1.7.4a2
+  Version: 1.7.4a2-1
   Description: A fork of password-store that uses age as backend
   Homepage: https://github.com/FiloSottile/passage
 - Package: passphrase2pgp
