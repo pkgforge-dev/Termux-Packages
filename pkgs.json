@@ -2557,13 +2557,13 @@
   },
   {
     "Package": "enchant",
-    "Version": "2.8.5",
+    "Version": "2.8.6",
     "Description": "Wraps a number of different spelling libraries and programs with a consistent interface",
     "Homepage": "https://rrthomas.github.io/enchant/"
   },
   {
     "Package": "enchant-static",
-    "Version": "2.8.5",
+    "Version": "2.8.6",
     "Description": "Static libraries for enchant",
     "Homepage": "https://rrthomas.github.io/enchant/"
   },
@@ -14761,7 +14761,7 @@
   },
   {
     "Package": "tintin++",
-    "Version": "2.02.42",
+    "Version": "2.02.51",
     "Description": "Classic text-based MUD client",
     "Homepage": "https://tintin.mudhalla.net"
   },
@@ -15403,7 +15403,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.7.8",
+    "Version": "0.7.9",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
@@ -15661,19 +15661,19 @@
   },
   {
     "Package": "vulkan-loader-generic",
-    "Version": "1.4.315",
+    "Version": "1.4.316",
     "Description": "Vulkan Loader",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Loader"
   },
   {
     "Package": "vulkan-tools",
-    "Version": "1.4.315",
+    "Version": "1.4.316",
     "Description": "Vulkan Tools and Utilities",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Tools"
   },
   {
     "Package": "vulkan-utility-libraries",
-    "Version": "1.4.315",
+    "Version": "1.4.316",
     "Description": "Utility Libraries for Vulkan",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Utility-Libraries"
   },
