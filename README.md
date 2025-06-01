@@ -299,7 +299,7 @@
 | **csh** | 20110502-1 | C Shell with process control from 3BSD | https://packages.debian.org/sid/csh |
 | **csol** | 1.6.0 | A small collection of solitaire games implemented in C using ncurses | https://github.com/nielssp/csol |
 | **csview** | 1.3.4 | Pretty-printing CSV/TSV/xSV on terminal | https://github.com/wfxr/csview |
-| **ctags** | 2:6.1.0-2 | Universal ctags: Source code index builder | https://ctags.io/ |
+| **ctags** | 2:6.2.0 | Universal ctags: Source code index builder | https://ctags.io/ |
 | **ctypes-sh** | 1.2-1 | A foreign function interface for bash | https://github.com/taviso/ctypes.sh |
 | **cuetools** | 1.4.1 | A set of utilities for working with Cue Sheet (cue) and Table of Contents (toc) files | https://github.com/svend/cuetools |
 | **cups** | 2.4.12 | Common UNIX Printing System | https://www.cups.org/ |
@@ -785,7 +785,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-1 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.22.1974 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.22.1975 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **janet** | 1.38.0 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
 | **jbig2dec** | 0.20 | Decoder implementation of the JBIG2 image compression format | https://jbig2dec.com/ |
 | **jbig2dec-static** | 0.20 | Static libraries for jbig2dec | https://jbig2dec.com/ |
@@ -1266,8 +1266,8 @@
 | **libopencore-amr** | 0.1.6 | Open source implementation of the Adaptive Multi Rate (AMR) speech codec | https://sourceforge.net/projects/opencore-amr |
 | **libopencore-amr-static** | 0.1.6 | Static libraries for libopencore-amr | https://sourceforge.net/projects/opencore-amr |
 | **libopenfec** | 1.4.2.12 | Application-Level Forward Erasure Correction implementation library | http://openfec.org |
-| **libopenmpt** | 0.7.13 | OpenMPT based module player library and libopenmpt based command-line player | https://lib.openmpt.org/libopenmpt/ |
-| **libopenmpt-static** | 0.7.13 | Static libraries for libopenmpt | https://lib.openmpt.org/libopenmpt/ |
+| **libopenmpt** | 0.8.0 | OpenMPT based module player library and libopenmpt based command-line player | https://lib.openmpt.org/libopenmpt/ |
+| **libopenmpt-static** | 0.8.0 | Static libraries for libopenmpt | https://lib.openmpt.org/libopenmpt/ |
 | **libopus** | 1.5.2 | Reference implementation of the Opus codec | https://www.opus-codec.org/ |
 | **libopus-static** | 1.5.2 | Static libraries for libopus | https://www.opus-codec.org/ |
 | **libopusenc** | 0.2.1-3 | High-level API for encoding .opus files | https://github.com/xiph/libopusenc |
@@ -1796,7 +1796,7 @@
 | **ncdc** | 1.25 | Modern and lightweight direct connect client with a friendly ncurses interface | https://dev.yorhel.nl/ncdc |
 | **ncdu** | 1.22 | Disk usage analyzer | https://dev.yorhel.nl/ncdu |
 | **ncdu2** | 2.8.2 | Disk usage analyzer | https://dev.yorhel.nl/ncdu |
-| **ncftp** | 3.2.8 | A free set of programs that use the File Transfer Protocol | https://www.ncftp.com/ |
+| **ncftp** | 3.3.0 | A free set of programs that use the File Transfer Protocol | https://www.ncftp.com/ |
 | **ncmpcpp** | 0.10.1-5 | NCurses Music Player Client (Plus Plus) | https://rybczak.net/ncmpcpp/ |
 | **ncompress** | 5.0 | The classic unix compression utility which can handle the ancient .Z archive | https://github.com/vapier/ncompress |
 | **ncpamixer** | 1.3.10 | An ncurses mixer for PulseAudio | https://github.com/fulhax/ncpamixer |
