@@ -535,7 +535,7 @@
   },
   {
     "Package": "assimp",
-    "Version": "5.4.3-2",
+    "Version": "6.0.0",
     "Description": "Library to import various well-known 3D model formats in an uniform manner",
     "Homepage": "https://assimp.sourceforge.net/index.html"
   },
@@ -1579,7 +1579,7 @@
   },
   {
     "Package": "command-not-found",
-    "Version": "2.4.0-77",
+    "Version": "2.4.0-78",
     "Description": "Suggest installation of packages in interactive shell sessions",
     "Homepage": "https://github.com/termux/command-not-found"
   },
@@ -13069,7 +13069,7 @@
   },
   {
     "Package": "restic-server",
-    "Version": "0.13.0",
+    "Version": "0.14.0",
     "Description": "Restics REST backend API server",
     "Homepage": "https://restic.net/"
   },

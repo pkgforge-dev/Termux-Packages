@@ -87,7 +87,7 @@
  aspnetcore-runtime-dbg-9.0  9.0.5  ASP.NET Core 9.0 Runtime Managed Debug Symbols  https://dotnet.microsoft.com/en-us/ 
  aspnetcore-targeting-pack-8.0  8.0.16  ASP.NET Core 8.0 Targeting Pack  https://dotnet.microsoft.com/en-us/ 
  aspnetcore-targeting-pack-9.0  9.0.5  ASP.NET Core 9.0 Targeting Pack  https://dotnet.microsoft.com/en-us/ 
- assimp  5.4.3-2  Library to import various well-known 3D model formats in an uniform manner  https://assimp.sourceforge.net/index.html 
+ assimp  6.0.0  Library to import various well-known 3D model formats in an uniform manner  https://assimp.sourceforge.net/index.html 
  assimp-static  5.3.1  Static libraries for assimp  https://assimp.sourceforge.net/index.html 
  astra-sm  2019.06.19  Software for digital TV broadcasting  https://gitlab.com/berdyansk/astra-sm 
  asymptote  3.04  A powerful descriptive vector graphics language for technical drawing  https://asymptote.sourceforge.io/ 
@@ -261,7 +261,7 @@
  colm  0.14.7-1  COmputer Language Machinery  https://www.colm.net/open-source/colm/ 
  colm-static  0.14.7-1  Static libraries for colm  https://www.colm.net/open-source/colm/ 
  colordiff  1.0.21  Tool to colorize 'diff' output  https://www.colordiff.org/ 
- command-not-found  2.4.0-77  Suggest installation of packages in interactive shell sessions  https://github.com/termux/command-not-found 
+ command-not-found  2.4.0-78  Suggest installation of packages in interactive shell sessions  https://github.com/termux/command-not-found 
  composer  2.8.9  Dependency Manager for PHP  https://getcomposer.org/ 
  console-bridge  1.0.2  A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages  https://github.com/ros/console_bridge 
  convertlit  1.8-1  An extractor/converter for .LIT eBooks  http://www.convertlit.com/ 
@@ -2176,7 +2176,7 @@
  reptyr  0.10.0  Tool for reparenting a running program to a new terminal  https://github.com/nelhage/reptyr 
  resolv-conf  1.3  Resolver configuration file  https://man7.org/linux/man-pages/man5/resolv.conf.5.html 
  restic  0.18.0  Fast, secure, efficient backup program  https://restic.net/ 
- restic-server  0.13.0  Restic's REST backend API server  https://restic.net/ 
+ restic-server  0.14.0  Restic's REST backend API server  https://restic.net/ 
  restish  0.20.0  A CLI for interacting with REST-ish HTTP APIs  https://github.com/danielgtaylor/restish 
  rgbds  0.9.2  Rednex Game Boy Development System - An assembly toolchain for the Nintendo Game Boy & Game Boy Color  https://rgbds.gbdev.io 
  rhash  1.4.6  Console utility for calculation and verification of magnet links and a wide range of hash sums  https://github.com/rhash/RHash 
