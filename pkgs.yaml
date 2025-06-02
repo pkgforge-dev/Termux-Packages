@@ -2315,7 +2315,7 @@
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
-  Version: 1.10.0
+  Version: 1.11.0
   Description: A friendly language for building type-safe, scalable systems!
   Homepage: https://gleam.run
 - Package: glib
@@ -2759,7 +2759,7 @@
   Description: Prints a friendly greeting
   Homepage: https://www.gnu.org/software/hello/
 - Package: helm
-  Version: 3.18.1
+  Version: 3.18.2
   Description: Helm helps you manage Kubernetes applications
   Homepage: https://helm.sh
 - Package: helm-ls
@@ -3175,7 +3175,7 @@
   Description: Command-line JSON processor
   Homepage: https://stedolan.github.io/jq/
 - Package: jq-lsp
-  Version: 0.1.11
+  Version: 0.1.12
   Description: jq language server
   Homepage: https://github.com/wader/jq-lsp
 - Package: jq-static
@@ -7031,7 +7031,7 @@
   Description: Set of programs to inspect and build Windows Installer (.MSI) files
   Homepage: https://gitlab.gnome.org/GNOME/msitools
 - Package: msmtp
-  Version: 1.8.29
+  Version: 1.8.30
   Description: Lightweight SMTP client
   Homepage: https://marlam.de/msmtp/
 - Package: mtd-utils
@@ -8135,7 +8135,7 @@
   Description: Linux tool to show progress for cp, mv, dd and more
   Homepage: https://github.com/Xfennec/progress
 - Package: proj
-  Version: 9.6.0
+  Version: 9.6.1
   Description: Generic coordinate transformation software
   Homepage: https://proj.org
 - Package: proot
@@ -9567,7 +9567,7 @@
   Description: Static libraries for swtpm
   Homepage: https://github.com/stefanberger/swtpm
 - Package: syncthing
-  Version: 1.29.6
+  Version: 1.29.7
   Description: Decentralized file synchronization
   Homepage: https://syncthing.net/
 - Package: sysprop
