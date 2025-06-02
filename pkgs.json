@@ -6535,13 +6535,13 @@
   },
   {
     "Package": "libidn2",
-    "Version": "2.3.7",
+    "Version": "2.3.8",
     "Description": "Free software implementation of IDNA2008, Punycode and TR46",
     "Homepage": "https://www.gnu.org/software/libidn/#libidn2"
   },
   {
     "Package": "libidn2-static",
-    "Version": "2.3.7",
+    "Version": "2.3.8",
     "Description": "Static libraries for libidn2",
     "Homepage": "https://www.gnu.org/software/libidn/#libidn2"
   },
@@ -6865,49 +6865,49 @@
   },
   {
     "Package": "liblua51",
-    "Version": "5.1.5",
+    "Version": "5.1.5-1",
     "Description": "Shared library for the Lua interpreter (v5.1.x)",
     "Homepage": "https://www.lua.org"
   },
   {
     "Package": "liblua51-static",
-    "Version": "5.1.5",
+    "Version": "5.1.5-1",
     "Description": "Static libraries for liblua51",
     "Homepage": "https://www.lua.org"
   },
   {
     "Package": "liblua52",
-    "Version": "5.2.4-8",
+    "Version": "5.2.4-9",
     "Description": "Shared library for the Lua interpreter (v5.2.x)",
     "Homepage": "https://www.lua.org"
   },
   {
     "Package": "liblua52-static",
-    "Version": "5.2.4-8",
+    "Version": "5.2.4-9",
     "Description": "Static libraries for liblua52",
     "Homepage": "https://www.lua.org"
   },
   {
     "Package": "liblua53",
-    "Version": "5.3.6",
+    "Version": "5.3.6-1",
     "Description": "Shared library for the Lua interpreter (v5.3.x)",
     "Homepage": "https://www.lua.org/"
   },
   {
     "Package": "liblua53-static",
-    "Version": "5.3.6",
+    "Version": "5.3.6-1",
     "Description": "Static libraries for liblua53",
     "Homepage": "https://www.lua.org/"
   },
   {
     "Package": "liblua54",
-    "Version": "5.4.7",
+    "Version": "5.4.7-1",
     "Description": "Shared library for the Lua interpreter",
     "Homepage": "https://www.lua.org/"
   },
   {
     "Package": "liblua54-static",
-    "Version": "5.4.7",
+    "Version": "5.4.7-1",
     "Description": "Static libraries for liblua54",
     "Homepage": "https://www.lua.org/"
   },
@@ -9715,7 +9715,7 @@
   },
   {
     "Package": "lua51",
-    "Version": "5.1.5",
+    "Version": "5.1.5-1",
     "Description": "Simple, extensible, embeddable programming language",
     "Homepage": "https://www.lua.org"
   },
@@ -9727,7 +9727,7 @@
   },
   {
     "Package": "lua52",
-    "Version": "5.2.4-8",
+    "Version": "5.2.4-9",
     "Description": "Simple, extensible, embeddable programming language",
     "Homepage": "https://www.lua.org"
   },
@@ -9739,7 +9739,7 @@
   },
   {
     "Package": "lua53",
-    "Version": "5.3.6",
+    "Version": "5.3.6-1",
     "Description": "Simple, extensible, embeddable programming language",
     "Homepage": "https://www.lua.org/"
   },
@@ -9751,7 +9751,7 @@
   },
   {
     "Package": "lua54",
-    "Version": "5.4.7",
+    "Version": "5.4.7-1",
     "Description": "Simple, extensible, embeddable programming language",
     "Homepage": "https://www.lua.org/"
   },
