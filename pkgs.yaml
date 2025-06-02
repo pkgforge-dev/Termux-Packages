@@ -3099,7 +3099,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.1975
+  Version: 0.22.1978
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: janet
@@ -4347,11 +4347,11 @@
   Description: MAD ID3 tag manipulation library
   Homepage: http://www.underbit.com/products/mad/
 - Package: libidn
-  Version: "1.42"
+  Version: "1.43"
   Description: GNU Libidn library, implementation of IETF IDN specifications
   Homepage: https://www.gnu.org/software/libidn/
 - Package: libidn-static
-  Version: "1.42"
+  Version: "1.43"
   Description: Static libraries for libidn
   Homepage: https://www.gnu.org/software/libidn/
 - Package: libidn2
