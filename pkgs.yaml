@@ -2907,7 +2907,7 @@
   Description: Static libraries for hunspell
   Homepage: https://hunspell.github.io
 - Package: hut
-  Version: 0.6.0
+  Version: 0.6.0-1
   Description: A CLI tool for sr.ht
   Homepage: https://git.sr.ht/~xenrox/hut
 - Package: hwdata
@@ -3391,13 +3391,13 @@
   Description: Open source downloader to GOG.com for Linux users using the same API as the official GOGDownloader
   Homepage: https://sites.google.com/site/gogdownloader/
 - Package: lhasa
-  Version: 0.4.0
+  Version: 0.4.0-1
   Description: LHA compressor/decompressor
-  Homepage: https://fragglet.github.io/lhasa/
+  Homepage: https://lhasa.soulsphere.org/
 - Package: lhasa-static
-  Version: 0.4.0
+  Version: 0.4.0-1
   Description: Static libraries for lhasa
-  Homepage: https://fragglet.github.io/lhasa/
+  Homepage: https://lhasa.soulsphere.org/
 - Package: liba52
   Version: 0.8.0-1
   Description: A free library for decoding ATSC A/52 streams
@@ -5131,11 +5131,11 @@
   Description: Posix-compatible runtime libraries for libpcre
   Homepage: https://www.pcre.org
 - Package: libpcsclite
-  Version: 2.3.3
+  Version: 2.3.3-1
   Description: Middleware to access a smart card using SCard API (PC/SC).
   Homepage: https://pcsclite.apdu.fr/
 - Package: libpcsclite-static
-  Version: 2.3.3
+  Version: 2.3.3-1
   Description: Static libraries for libpcsclite
   Homepage: https://pcsclite.apdu.fr/
 - Package: libphysfs
@@ -6719,7 +6719,7 @@
   Description: A mdbook preprocessor to render pikchr code blocks as images in your book
   Homepage: https://github.com/podsvirov/mdbook-pikchr
 - Package: mdbook-plantuml
-  Version: 0.8.0-1
+  Version: 0.8.0-2
   Description: mdBook preprocessor to render PlantUML code blocks as images in your book
   Homepage: https://github.com/sytsereitsma/mdbook-plantuml
 - Package: mdbook-presentation-preprocessor
@@ -7823,7 +7823,7 @@
   Description: A grep with Perl-compatible regular expressions
   Homepage: https://www.pcre.org
 - Package: pcscd
-  Version: 2.3.3
+  Version: 2.3.3-1
   Description: Middleware to access a smart card using SCard API (PC/SC). (daemon side)
   Homepage: https://pcsclite.apdu.fr/
 - Package: pdf2djvu
