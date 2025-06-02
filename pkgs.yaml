@@ -691,7 +691,7 @@
   Description: Classic text mode games from UNIX folklore
   Homepage: https://www.polyomino.org.uk/computer/software/bsd-games/
 - Package: bsdtar
-  Version: 3.8.0
+  Version: 3.8.1
   Description: The tar(1) and cpio(1) programs from FreeBSD, using libarchive
   Homepage: https://www.libarchive.org/
 - Package: btfs2
@@ -3527,11 +3527,11 @@
   Description: Perl interface to APTs libapt-pkg
   Homepage: https://packages.debian.org/libapt-pkg-perl
 - Package: libarchive
-  Version: 3.8.0
+  Version: 3.8.1
   Description: Multi-format archive and compression library
   Homepage: https://www.libarchive.org/
 - Package: libarchive-static
-  Version: 3.8.0
+  Version: 3.8.1
   Description: Static libraries for libarchive
   Homepage: https://www.libarchive.org/
 - Package: libarrow-cpp
@@ -5855,11 +5855,11 @@
   Description: Static libraries for liburcu
   Homepage: https://liburcu.org/
 - Package: libusb
-  Version: 1.0.28
+  Version: 1.0.29
   Description: A C library that provides generic access to USB devices
   Homepage: https://libusb.info/
 - Package: libusb-static
-  Version: 1.0.28
+  Version: 1.0.29
   Description: Static libraries for libusb
   Homepage: https://libusb.info/
 - Package: libusbmuxd
