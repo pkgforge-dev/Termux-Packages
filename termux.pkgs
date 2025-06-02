@@ -1054,7 +1054,7 @@
 | **libgpg-error** | 1.55 | Small library that defines common error values for all GnuPG components | https://www.gnupg.org/related_software/libgpg-error/ |
 | **libgpg-error-static** | 1.55 | Static libraries for libgpg-error | https://www.gnupg.org/related_software/libgpg-error/ |
 | **libgraphite** | 1.3.14-2 | Font system for multiple languages | https://github.com/silnrsi/graphite |
-| **libgrpc** | 1.72.0 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
+| **libgrpc** | 1.72.1 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
 | **libgsasl** | 2.2.2 | GNU SASL library | https://www.gnu.org/software/gsasl |
 | **libgsasl-static** | 2.2.2 | Static libraries for libgsasl | https://www.gnu.org/software/gsasl |
 | **libgsf** | 1.14.53-1 | The G Structured File Library | https://gitlab.gnome.org/GNOME/libgsf |
@@ -2070,7 +2070,7 @@
 | **python-cryptography** | 45.0.3 | Provides cryptographic recipes and primitives to Python developers | https://github.com/pyca/cryptography |
 | **python-ensurepip-wheels** | 3.12.10 | Wheels for Python ensurepip | https://python.org/ |
 | **python-greenlet** | 3.2.2 | Lightweight coroutines for in-process concurrent programming | https://github.com/python-greenlet/greenlet |
-| **python-grpcio** | 1.72.0 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
+| **python-grpcio** | 1.72.1 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
 | **python-lameenc** | 1.8.1 | Python bindings around the LAME encoder | https://github.com/chrisstaite/lameenc |
 | **python-libsass** | 0.23.0 | A straightforward binding of libsass for Python | https://github.com/sass/libsass-python |
 | **python-lxml** | 5.4.0 | Python binding for the libxml2 and libxslt libraries | https://github.com/lxml/lxml |
@@ -2218,7 +2218,7 @@
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.6.1 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
 | **rust** | 1.87.0 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
-| **rust-analyzer** | 20250526 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
+| **rust-analyzer** | 20250602 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
 | **rust-bindgen** | 0.71.1 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
 | **rust-docs** | 1.87.0 | Rust documentation | https://www.rust-lang.org/ |
 | **rust-src** | 1.87.0 | Rust source code files | https://www.rust-lang.org/ |
@@ -2479,7 +2479,7 @@
 | **torsocks-static** | 2.5.0 | Static libraries for torsocks | https://gitlab.torproject.org/tpo/core/torsocks |
 | **totem-pl-parser** | 3.26.6-1 | Simple GObject-based library to parse and save a host of playlist formats | https://gitlab.gnome.org/GNOME/totem-pl-parser |
 | **toxic** | 0.16.1-2 | A command line client for Tox | https://github.com/JFreegman/toxic |
-| **tracepath** | 20240905 | Tool to trace the network path to a remote host | https://github.com/iputils/iputils |
+| **tracepath** | 20250602 | Tool to trace the network path to a remote host | https://github.com/iputils/iputils |
 | **traceroute** | 2.1.6 | A new modern implementation of traceroute(8) utility for Linux systems | https://traceroute.sourceforge.net/ |
 | **translate-shell** | 0.9.7.1 | Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc. | https://www.soimort.org/translate-shell |
 | **transmission** | 4.0.6-3 | Easy, lean and powerful BitTorrent client | https://transmissionbt.com/ |

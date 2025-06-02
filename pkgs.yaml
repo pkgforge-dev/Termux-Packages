@@ -4223,7 +4223,7 @@
   Description: Font system for multiple languages
   Homepage: https://github.com/silnrsi/graphite
 - Package: libgrpc
-  Version: 1.72.0
+  Version: 1.72.1
   Description: High performance, open source, general RPC framework that puts mobile and HTTP/2 first
   Homepage: https://grpc.io/
 - Package: libgsasl
@@ -8287,7 +8287,7 @@
   Description: Lightweight coroutines for in-process concurrent programming
   Homepage: https://github.com/python-greenlet/greenlet
 - Package: python-grpcio
-  Version: 1.72.0
+  Version: 1.72.1
   Description: High performance, open source, general RPC framework that puts mobile and HTTP/2 first
   Homepage: https://grpc.io/
 - Package: python-lameenc
@@ -8879,7 +8879,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: "20250526"
+  Version: "20250602"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://rust-analyzer.github.io/
 - Package: rust-bindgen
@@ -9923,7 +9923,7 @@
   Description: A command line client for Tox
   Homepage: https://github.com/JFreegman/toxic
 - Package: tracepath
-  Version: "20240905"
+  Version: "20250602"
   Description: Tool to trace the network path to a remote host
   Homepage: https://github.com/iputils/iputils
 - Package: traceroute

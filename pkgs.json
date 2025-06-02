@@ -6337,7 +6337,7 @@
   },
   {
     "Package": "libgrpc",
-    "Version": "1.72.0",
+    "Version": "1.72.1",
     "Description": "High performance, open source, general RPC framework that puts mobile and HTTP/2 first",
     "Homepage": "https://grpc.io/"
   },
@@ -12433,7 +12433,7 @@
   },
   {
     "Package": "python-grpcio",
-    "Version": "1.72.0",
+    "Version": "1.72.1",
     "Description": "High performance, open source, general RPC framework that puts mobile and HTTP/2 first",
     "Homepage": "https://grpc.io/"
   },
@@ -13321,7 +13321,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20250526",
+    "Version": "20250602",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://rust-analyzer.github.io/"
   },
@@ -14887,7 +14887,7 @@
   },
   {
     "Package": "tracepath",
-    "Version": "20240905",
+    "Version": "20250602",
     "Description": "Tool to trace the network path to a remote host",
     "Homepage": "https://github.com/iputils/iputils"
   },
