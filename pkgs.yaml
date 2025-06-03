@@ -23,7 +23,7 @@
   Description: A PC XT-compatible emulator/virtual machine
   Homepage: https://github.com/adriancable/8086tiny
 - Package: a52dec
-  Version: 0.8.0-1
+  Version: 0.8.0-2
   Description: A test program for liba52
   Homepage: http://liba52.sourceforge.net/
 - Package: aalib
@@ -3399,11 +3399,11 @@
   Description: Static libraries for lhasa
   Homepage: https://lhasa.soulsphere.org/
 - Package: liba52
-  Version: 0.8.0-1
+  Version: 0.8.0-2
   Description: A free library for decoding ATSC A/52 streams
   Homepage: http://liba52.sourceforge.net/
 - Package: liba52-static
-  Version: 0.8.0-1
+  Version: 0.8.0-2
   Description: Static libraries for liba52
   Homepage: http://liba52.sourceforge.net/
 - Package: libacl
@@ -7519,11 +7519,11 @@
   Description: Static libraries for opencolorio
   Homepage: https://opencolorio.org
 - Package: openethereum
-  Version: 3.3.5-3
+  Version: 3.3.5-4
   Description: Lightweight Ethereum Client
   Homepage: https://openethereum.github.io
 - Package: openethereum-utils
-  Version: 3.3.5-3
+  Version: 3.3.5-4
   Description: Additional utilities for OpenEthereum (like evm, ethstore, ethkey)
   Homepage: https://openethereum.github.io
 - Package: openexr

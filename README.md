@@ -16,7 +16,7 @@
 | **6tunnel** | 0.13 | Allows you to use services provided by IPv6 hosts with IPv4-only applications and vice-versa | https://github.com/wojtekka/6tunnel |
 | **7zip** | 24.09 | 7-Zip file archiver with a high compression ratio | https://www.7-zip.org |
 | **8086tiny** | 1.25-4 | A PC XT-compatible emulator/virtual machine | https://github.com/adriancable/8086tiny |
-| **a52dec** | 0.8.0-1 | A test program for liba52 | http://liba52.sourceforge.net/ |
+| **a52dec** | 0.8.0-2 | A test program for liba52 | http://liba52.sourceforge.net/ |
 | **aalib** | 1.4rc5-12 | A portable ASCII art graphic library | https://sourceforge.net/projects/aa-project/ |
 | **aalib-static** | 1.4rc5-12 | Static libraries for aalib | https://sourceforge.net/projects/aa-project/ |
 | **aapt** | 13.0.0.6-18 | Android Asset Packaging Tool | https://elinux.org/Android_aapt |
@@ -860,8 +860,8 @@
 | **lgogdownloader** | 3.17-1 | Open source downloader to GOG.com for Linux users using the same API as the official GOGDownloader | https://sites.google.com/site/gogdownloader/ |
 | **lhasa** | 0.4.0-1 | LHA compressor/decompressor | https://lhasa.soulsphere.org/ |
 | **lhasa-static** | 0.4.0-1 | Static libraries for lhasa | https://lhasa.soulsphere.org/ |
-| **liba52** | 0.8.0-1 | A free library for decoding ATSC A/52 streams | http://liba52.sourceforge.net/ |
-| **liba52-static** | 0.8.0-1 | Static libraries for liba52 | http://liba52.sourceforge.net/ |
+| **liba52** | 0.8.0-2 | A free library for decoding ATSC A/52 streams | http://liba52.sourceforge.net/ |
+| **liba52-static** | 0.8.0-2 | Static libraries for liba52 | http://liba52.sourceforge.net/ |
 | **libacl** | 2.3.1 | Access control list shared library | http://savannah.nongnu.org/projects/acl |
 | **libacl-static** | 2.3.1 | Static libraries for libacl | http://savannah.nongnu.org/projects/acl |
 | **libaml** | 0.3.0 | Andri's Main Loop library | https://github.com/any1/aml |
@@ -1890,8 +1890,8 @@
 | **opencl-vendor-driver** | 0.3 | OpenCL driver from system vendor | https://termux.dev |
 | **opencolorio** | 2.4.2 | A color management framework for visual effects and animation | https://opencolorio.org |
 | **opencolorio-static** | 2.1.2 | Static libraries for opencolorio | https://opencolorio.org |
-| **openethereum** | 3.3.5-3 | Lightweight Ethereum Client | https://openethereum.github.io |
-| **openethereum-utils** | 3.3.5-3 | Additional utilities for OpenEthereum (like evm, ethstore, ethkey) | https://openethereum.github.io |
+| **openethereum** | 3.3.5-4 | Lightweight Ethereum Client | https://openethereum.github.io |
+| **openethereum-utils** | 3.3.5-4 | Additional utilities for OpenEthereum (like evm, ethstore, ethkey) | https://openethereum.github.io |
 | **openexr** | 3.2.4 | Provides the specification and reference implementation of the EXR file format | https://www.openexr.com/ |
 | **openfoam** | 2412-2 | OpenFOAM is a CFD software written in C++ | https://www.openfoam.com |
 | **opengl** | 4.5 | A metapackage for OpenGL implementation | https://github.com/termux/termux-packages |
