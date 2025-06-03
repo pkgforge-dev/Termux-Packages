@@ -5335,11 +5335,11 @@
   Description: A set of C++ classes that provides a common API for realtime MIDI input/output
   Homepage: https://www.music.mcgill.ca/~gary/rtmidi/
 - Package: librttopo
-  Version: 1.1.0-2
+  Version: 1.1.0-3
   Description: The RT Topology Library exposes an API to create and manage standard topologies
   Homepage: https://git.osgeo.org/gitea/rttopo/librttopo
 - Package: librttopo-static
-  Version: 1.1.0-2
+  Version: 1.1.0-3
   Description: Static libraries for librttopo
   Homepage: https://git.osgeo.org/gitea/rttopo/librttopo
 - Package: librusty-v8
