@@ -738,7 +738,7 @@
 | **hunspell-ru** | 20210731 | Russian dictionary for hunspell | https://hunspell.github.io |
 | **hunspell-static** | 1.7.2 | Static libraries for hunspell | https://hunspell.github.io |
 | **hut** | 0.6.0-1 | A CLI tool for sr.ht | https://git.sr.ht/~xenrox/hut |
-| **hwdata** | 0.395 | Database of hardware identification and configuration data | https://github.com/vcrhonek/hwdata |
+| **hwdata** | 0.396 | Database of hardware identification and configuration data | https://github.com/vcrhonek/hwdata |
 | **hydroxide** | 0.2.29 | A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge | https://github.com/emersion/hydroxide |
 | **hyperfine** | 1.19.0 | A command-line benchmarking tool | https://github.com/sharkdp/hyperfine |
 | **hz** | 0.9.7 | A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices | https://www.cloudwego.io |
@@ -785,7 +785,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-1 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.22.1978 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.22.1984 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **janet** | 1.38.0 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
 | **jbig2dec** | 0.20 | Decoder implementation of the JBIG2 image compression format | https://jbig2dec.com/ |
 | **jbig2dec-static** | 0.20 | Static libraries for jbig2dec | https://jbig2dec.com/ |
@@ -820,7 +820,7 @@
 | **k9s** | 0.50.6 | Kubernetes CLI To Manage Your Clusters In Style! | https://k9scli.io |
 | **kainjow-mustache** | 4.1 | Mustache implementation for modern C++ | https://github.com/kainjow/Mustache |
 | **kakoune** | 2025.06.03 | Code editor heavily inspired by Vim | https://kakoune.org/ |
-| **kakoune-lsp** | 18.1.3 | Language Server Protocol Client for the Kakoune editor | https://github.com/kakoune-lsp/kakoune-lsp |
+| **kakoune-lsp** | 18.2.0 | Language Server Protocol Client for the Kakoune editor | https://github.com/kakoune-lsp/kakoune-lsp |
 | **kbd** | 2.8.0 | KBD's showkey utility for examining keycodes | https://kbd-project.org/ |
 | **kcptun** | 20250427 | A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC | https://github.com/xtaci/kcptun |
 | **keybase** | 6.5.1 | Key directory that maps social media identities to encryption keys | https://keybase.io |
@@ -2578,7 +2578,7 @@
 | **uucp** | 1.07-1 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.40.2-3 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
 | **uv** | 0.7.9 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
-| **uwsgi** | 2.0.29-1 | uWSGI application server container | https://projects.unbit.it/uwsgi |
+| **uwsgi** | 2.0.30 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.32.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.18 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
 | **valac-static** | 0.56.18 | Static libraries for valac | https://wiki.gnome.org/Projects/Vala |
