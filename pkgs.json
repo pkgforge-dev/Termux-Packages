@@ -3469,7 +3469,7 @@
   },
   {
     "Package": "glab-cli",
-    "Version": "1.58.0",
+    "Version": "1.59.1",
     "Description": "A GitLab CLI tool bringing GitLab to your command line",
     "Homepage": "https://gitlab.com/gitlab-org/cli"
   },
@@ -10189,19 +10189,19 @@
   },
   {
     "Package": "mesa",
-    "Version": "25.1.1-2",
+    "Version": "25.1.2",
     "Description": "An open-source implementation of the OpenGL specification",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-dev",
-    "Version": "25.1.1-2",
+    "Version": "25.1.2",
     "Description": "Mesas OpenGL headers",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-vulkan-icd-swrast",
-    "Version": "25.1.1-2",
+    "Version": "25.1.2",
     "Description": "Mesas Swrast Vulkan ICD",
     "Homepage": "https://www.mesa3d.org"
   },
@@ -13735,7 +13735,7 @@
   },
   {
     "Package": "sing-box",
-    "Version": "1.11.11",
+    "Version": "1.11.13",
     "Description": "The universal proxy platform",
     "Homepage": "https://sing-box.sagernet.org"
   },
@@ -14917,7 +14917,7 @@
   },
   {
     "Package": "tree-sitter",
-    "Version": "0.25.5",
+    "Version": "0.25.6",
     "Description": "An incremental parsing system for programming tools",
     "Homepage": "https://github.com/tree-sitter/tree-sitter"
   },
@@ -14977,7 +14977,7 @@
   },
   {
     "Package": "tree-sitter-static",
-    "Version": "0.25.5",
+    "Version": "0.25.6",
     "Description": "Static libraries for tree-sitter",
     "Homepage": "https://github.com/tree-sitter/tree-sitter"
   },
