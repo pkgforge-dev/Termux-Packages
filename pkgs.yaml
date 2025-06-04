@@ -1179,7 +1179,7 @@
   Description: Static libraries for cups
   Homepage: https://www.cups.org/
 - Package: curl
-  Version: 8.14.0
+  Version: 8.14.1
   Description: Command line tool for transferring data with URL syntax
   Homepage: https://curl.se/
 - Package: curlie
@@ -3819,11 +3819,11 @@
   Description: Static libraries for libcunit
   Homepage: https://sourceforge.net/projects/cunit/
 - Package: libcurl
-  Version: 8.14.0
+  Version: 8.14.1
   Description: Easy-to-use client-side URL transfer library
   Homepage: https://curl.se/
 - Package: libcurl-static
-  Version: 8.14.0
+  Version: 8.14.1
   Description: Static libraries for libcurl
   Homepage: https://curl.se/
 - Package: libcwidget
@@ -9139,7 +9139,7 @@
   Description: Implementations of SIMD instructions for all systems
   Homepage: https://simd-everywhere.github.io/
 - Package: simdjson
-  Version: 3.12.3
+  Version: 3.13.0
   Description: A C++ library to see how fast we can parse JSON with complete validation
   Homepage: https://simdjson.org/
 - Package: simh
@@ -9847,11 +9847,11 @@
   Description: Flexible, screen-oriented MUD client, for use with any type of MUD
   Homepage: https://tinyfugue.sourceforge.net/
 - Package: tinygo
-  Version: 0.37.0
+  Version: 0.37.0-1
   Description: Go compiler for microcontrollers, WASM, CLI tools
   Homepage: https://tinygo.org
 - Package: tinygo-common
-  Version: 0.37.0
+  Version: 0.37.0-1
   Description: TinyGo common files
   Homepage: https://tinygo.org
 - Package: tinyproxy
