@@ -2383,7 +2383,7 @@
   Description: Full-featured framework for image processing (GraphicsMagick variant)
   Homepage: https://gmic.eu
 - Package: gn
-  Version: 20220502-1
+  Version: "20250605"
   Description: Meta-build system that generates build files for Ninja
   Homepage: https://gn.googlesource.com/gn
 - Package: gnucap
@@ -2423,7 +2423,7 @@
   Description: Implementation of the OpenPGP standard for encrypting and signing data and communication
   Homepage: https://www.gnupg.org/
 - Package: gnuplot
-  Version: 6.0.2
+  Version: 6.0.3
   Description: Command-line driven graphing utility
   Homepage: http://gnuplot.info/
 - Package: gnurl

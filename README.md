@@ -606,7 +606,7 @@
 | **glulxe** | 0.6.1 | Interpreter for the Glulx portable VM for interactive fiction (IF) games | https://www.eblong.com/zarf/glulx/ |
 | **gmic** | 3.5.3 | Full-featured framework for image processing | https://gmic.eu |
 | **gmic-gm** | 3.5.3 | Full-featured framework for image processing (GraphicsMagick variant) | https://gmic.eu |
-| **gn** | 20220502-1 | Meta-build system that generates build files for Ninja | https://gn.googlesource.com/gn |
+| **gn** | 20250605 | Meta-build system that generates build files for Ninja | https://gn.googlesource.com/gn |
 | **gnucap** | 20210107-3 | The Gnu Circuit Analysis Package | https://www.gnu.org/software/gnucap/gnucap.html |
 | **gnuchess** | 6.2.11 | Chess-playing program | https://www.gnu.org/software/chess/ |
 | **gnucobol** | 3.2-1 | A free/libre COBOL compiler | https://gnucobol.sourceforge.io/ |
@@ -616,7 +616,7 @@
 | **gnunet** | 0.24.2 | A framework for secure peer-to-peer networking | https://gnunet.org |
 | **gnunet-static** | 0.19.4-2 | Static libraries for gnunet | https://gnunet.org |
 | **gnupg** | 2.5.5 | Implementation of the OpenPGP standard for encrypting and signing data and communication | https://www.gnupg.org/ |
-| **gnuplot** | 6.0.2 | Command-line driven graphing utility | http://gnuplot.info/ |
+| **gnuplot** | 6.0.3 | Command-line driven graphing utility | http://gnuplot.info/ |
 | **gnurl** | 7.72.0 | Fork of libcurl, which is mostly for GNUnet | https://gnunet.org/en/gnurl.html |
 | **gnurl-static** | 7.72.0 | Static libraries for gnurl | https://gnunet.org/en/gnurl.html |
 | **gnushogi** | 1.4.2-p20141119-0 | Program that plays the game of Shogi, also known as Japanese Chess | https://www.gnu.org/software/gnushogi/ |
