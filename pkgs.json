@@ -2383,7 +2383,7 @@
   },
   {
     "Package": "dust",
-    "Version": "1.2.0",
+    "Version": "1.2.1",
     "Description": "A more intuitive version of du in rust",
     "Homepage": "https://github.com/bootandy/dust"
   },
@@ -3469,7 +3469,7 @@
   },
   {
     "Package": "glab-cli",
-    "Version": "1.59.1",
+    "Version": "1.59.2",
     "Description": "A GitLab CLI tool bringing GitLab to your command line",
     "Homepage": "https://gitlab.com/gitlab-org/cli"
   },
@@ -11161,7 +11161,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "26.2.2",
+    "Version": "26.3.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -12805,7 +12805,7 @@
   },
   {
     "Package": "rabbitmq-server",
-    "Version": "4.1.0",
+    "Version": "4.1.1",
     "Description": "Feature rich, multi-protocol messaging and streaming broker",
     "Homepage": "https://github.com/rabbitmq/rabbitmq-server"
   },
@@ -15403,7 +15403,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.7.10",
+    "Version": "0.7.11",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
@@ -15613,7 +15613,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "2025.06.03a",
+    "Version": "2025.06.05",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://vtm.netxs.online/"
   },

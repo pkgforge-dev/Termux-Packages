@@ -395,7 +395,7 @@
  duf  0.8.1-3  Disk usage/free utility  https://github.com/muesli/duf 
  dufs  0.43.0-1  A file server that supports static serving, uploading, searching, accessing control, webdav...  https://github.com/sigoden/dufs 
  duktape  2.7.0-1  Simple REPL for Duktape  https://www.duktape.org/ 
- dust  1.2.0  A more intuitive version of du in rust  https://github.com/bootandy/dust 
+ dust  1.2.1  A more intuitive version of du in rust  https://github.com/bootandy/dust 
  dvdauthor  0.7.2-3  Generates a DVD-Video movie from a valid MPEG-2 stream  https://dvdauthor.sourceforge.net/ 
  dvtm  0.15-3  Terminal tiling window manager  https://github.com/martanne/dvtm 
  dwarves  1.30  Pahole and other DWARF utils  https://git.kernel.org/cgit/devel/pahole/pahole.git/ 
@@ -576,7 +576,7 @@
  gitoxide  0.44.0  Rust implementation of Git  https://github.com/Byron/gitoxide 
  gitui  0.27.0-2  Blazing fast terminal-ui for git written in rust  https://github.com/extrawurst/gitui 
  gkermit  2.01  Simple, Portable, Free File Transfer Software for UNIX  http://www.columbia.edu/kermit/gkermit.html 
- glab-cli  1.59.1  A GitLab CLI tool bringing GitLab to your command line  https://gitlab.com/gitlab-org/cli 
+ glab-cli  1.59.2  A GitLab CLI tool bringing GitLab to your command line  https://gitlab.com/gitlab-org/cli 
  gleam  1.11.0  A friendly language for building type-safe, scalable systems!  https://gleam.run 
  glib  2.84.2  Library providing core building blocks for libraries and applications written in C  https://developer.gnome.org/glib/ 
  glib-bin  2.84.1-1  Programs for the GLib library  https://developer.gnome.org/glib/ 
@@ -1858,7 +1858,7 @@
  octomap  1.10.0  An efficient probabilistic 3D mapping framework based on octrees  https://github.com/OctoMap/octomap 
  octomap-static  1.10.0  Static libraries for octomap  https://github.com/OctoMap/octomap 
  odt2txt  0.5-4  Simple converter from OpenDocument Text to plain text  https://github.com/dstosberg/odt2txt 
- oh-my-posh  26.2.2  A prompt theme engine for any shell.  https://ohmyposh.dev 
+ oh-my-posh  26.3.0  A prompt theme engine for any shell.  https://ohmyposh.dev 
  okc-agents  0.1.2  OpenKeychain agents for GnuPG and OpenSSH  https://github.com/DDoSolitary/okc-agents 
  ol  2.6-2  Purely functional dialect of Lisp  https://yuriy-chumak.github.io/ol/ 
  oleo  1.99.16-9  The GNU Spreadsheet  https://www.gnu.org/software/oleo/ 
@@ -2132,7 +2132,7 @@
  quick-lint-js  3.2.0  Finds bugs in JavaScript programs  https://quick-lint-js.com/ 
  quickjs  1:20240113  QuickJS is a small and embeddable Javascript engine  https://bellard.org/quickjs/ 
  quilt  0.69  Allows you to easily manage large numbers of patches  https://savannah.nongnu.org/projects/quilt 
- rabbitmq-server  4.1.0  Feature rich, multi-protocol messaging and streaming broker  https://github.com/rabbitmq/rabbitmq-server 
+ rabbitmq-server  4.1.1  Feature rich, multi-protocol messaging and streaming broker  https://github.com/rabbitmq/rabbitmq-server 
  racket  8.17  Full-spectrum programming language going beyond Lisp and Scheme  https://racket-lang.org 
  racket-static  8.17  Static libraries for racket  https://racket-lang.org 
  radare2  5.9.8  Advanced Hexadecimal Editor  https://rada.re 
@@ -2565,7 +2565,7 @@
  util-linux-static  2.40.2-3  Static libraries for util-linux  https://en.wikipedia.org/wiki/Util-linux 
  uucp  1.07-1  The standard UUCP package of the Free Software Foundation  https://www.airs.com/ian/uucp.html 
  uuid-utils  2.40.2-3  Utilities for handling universally unique identifiers  https://en.wikipedia.org/wiki/Util-linux 
- uv  0.7.10  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
+ uv  0.7.11  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
  uwsgi  2.0.30  uWSGI application server container  https://projects.unbit.it/uwsgi 
  v2ray  5.32.0  A platform for building proxies to bypass network restrictions  https://www.v2fly.org/ 
  valac  0.56.18  C# like language for the GObject system  https://wiki.gnome.org/Projects/Vala 
@@ -2600,7 +2600,7 @@
  vlc-static  3.0.21-8  Static libraries for vlc  https://www.videolan.org/ 
  vobsub2srt  2017.12.18-2  A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR  https://github.com/ruediger/VobSub2SRT 
  vorbis-tools  1.4.3  Ogg Vorbis tools  https://github.com/xiph/vorbis-tools 
- vtm  2025.06.03a  Terminal multiplexer with TUI window manager and multi-party session sharing  https://vtm.netxs.online/ 
+ vtm  2025.06.05  Terminal multiplexer with TUI window manager and multi-party session sharing  https://vtm.netxs.online/ 
  vttest  20241208  Program for testing the VT100 compatibility of terminal emulators  https://invisible-island.net/vttest/ 
  vtutils  0.5-4  Utilities for testing and working with virtual terminals  https://github.com/fornwall/vtutils 
  vulkan-extension-layer  1.4.313  Vulkan Extension Layer  https://github.com/KhronosGroup/Vulkan-ExtensionLayer 
