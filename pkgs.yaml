@@ -1255,7 +1255,7 @@
   Description: Static libraries for dbus
   Homepage: https://dbus.freedesktop.org
 - Package: dcmtk
-  Version: 3.6.7-5
+  Version: 3.6.9
   Description: A collection of libraries and applications implementing large parts the DICOM standard
   Homepage: https://dicom.offis.de/dcmtk
 - Package: dcraw
@@ -5967,7 +5967,7 @@
   Description: Terminal emulator library
   Homepage: https://www.leonerd.org.uk/code/libvterm/
 - Package: libvxl
-  Version: 3.5.0-2
+  Version: 3.5.0-3
   Description: A multi-platform collection of C++ software libraries for Computer Vision and Image Understanding
   Homepage: https://vxl.github.io
 - Package: libwavpack
@@ -5991,7 +5991,7 @@
   Description: Wayland protocols library
   Homepage: https://wayland.freedesktop.org/
 - Package: libwebp
-  Version: 1.5.0
+  Version: 1.5.0-1
   Description: Library to encode and decode images in WebP format
   Homepage: https://github.com/webmproject/libwebp
 - Package: libwebp-static
@@ -8283,7 +8283,7 @@
   Description: Wheels for Python ensurepip
   Homepage: https://python.org/
 - Package: python-greenlet
-  Version: 3.2.2
+  Version: 3.2.3
   Description: Lightweight coroutines for in-process concurrent programming
   Homepage: https://github.com/python-greenlet/greenlet
 - Package: python-grpcio
@@ -8691,7 +8691,7 @@
   Description: In-memory data structure store used as a database, cache and message broker
   Homepage: https://redis.io/
 - Package: remind
-  Version: 1:05.03.07
+  Version: 1:05.04.00
   Description: Sophisticated calendar and alarm program
   Homepage: https://dianne.skoll.ca/projects/remind/
 - Package: renameutils
@@ -9659,7 +9659,7 @@
   Description: Telegram messenger CLI
   Homepage: https://github.com/vysheng/tg
 - Package: teleport-tsh
-  Version: 17.4.8
+  Version: 17.5.1
   Description: Secure Access for Developers that doesnt get in the way
   Homepage: https://github.com/gravitational/teleport
 - Package: tenki-php
@@ -9923,7 +9923,7 @@
   Description: A command line client for Tox
   Homepage: https://github.com/JFreegman/toxic
 - Package: tracepath
-  Version: "20250602"
+  Version: "20250605"
   Description: Tool to trace the network path to a remote host
   Homepage: https://github.com/iputils/iputils
 - Package: traceroute
@@ -10351,7 +10351,7 @@
   Description: A modern watch command
   Homepage: https://github.com/sachaos/viddy
 - Package: vifm
-  Version: 0.14.2
+  Version: 0.14.3
   Description: File manager with vi like keybindings
   Homepage: https://vifm.info/
 - Package: vile
