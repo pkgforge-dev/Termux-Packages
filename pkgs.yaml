@@ -3099,7 +3099,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.1992
+  Version: 0.22.1995
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: janet
@@ -5171,11 +5171,11 @@
   Description: Static libraries for libplist
   Homepage: https://libimobiledevice.org
 - Package: libpluto
-  Version: 0.10.5
+  Version: 0.11.0
   Description: Shared library for the Pluto interpreter
   Homepage: https://plutolang.github.io/
 - Package: libpluto-static
-  Version: 0.10.5
+  Version: 0.11.0
   Description: Static libraries for libpluto
   Homepage: https://plutolang.github.io/
 - Package: libpng
@@ -5863,11 +5863,11 @@
   Description: Static libraries for libusb
   Homepage: https://libusb.info/
 - Package: libusbmuxd
-  Version: 2.1.0-p20250216-0
+  Version: 2.1.1
   Description: A client library for applications to handle usbmux protocol connections with iOS devices
   Homepage: https://libimobiledevice.org
 - Package: libusbmuxd-static
-  Version: 2.1.0-p20250216-0
+  Version: 2.1.1
   Description: Static libraries for libusbmuxd
   Homepage: https://libimobiledevice.org
 - Package: libusbredir
@@ -8003,7 +8003,7 @@
   Description: Simple command line audio player for Android
   Homepage: https://github.com/termux/play-audio
 - Package: plutolang
-  Version: 0.10.5
+  Version: 0.11.0
   Description: A superset of Lua 5.4 with a focus on general-purpose programming.
   Homepage: https://plutolang.github.io/
 - Package: plzip
