@@ -8135,7 +8135,7 @@
   Description: Linux tool to show progress for cp, mv, dd and more
   Homepage: https://github.com/Xfennec/progress
 - Package: proj
-  Version: 9.6.1
+  Version: 9.6.2
   Description: Generic coordinate transformation software
   Homepage: https://proj.org
 - Package: proot
@@ -10371,7 +10371,7 @@
   Description: A virtual 3D GPU for use inside qemu virtual machines over OpenGLES libraries on Android
   Homepage: https://virgil3d.github.io/
 - Package: virustotal-cli
-  Version: 1.0.1
+  Version: 1.1.1
   Description: Command line interface for VirusTotal
   Homepage: https://github.com/VirusTotal/vt-cli
 - Package: vis
@@ -10407,7 +10407,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2025.06.06
+  Version: 2025.06.06a
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://vtm.netxs.online/
 - Package: vttest
@@ -10423,7 +10423,7 @@
   Description: Vulkan Extension Layer
   Homepage: https://github.com/KhronosGroup/Vulkan-ExtensionLayer
 - Package: vulkan-headers
-  Version: 1.4.316
+  Version: 1.4.317
   Description: Vulkan Header files and API registry
   Homepage: https://github.com/KhronosGroup/Vulkan-Headers
 - Package: vulkan-icd
@@ -10439,7 +10439,7 @@
   Description: Vulkan Loader for Android
   Homepage: https://source.android.com/devices/graphics/arch-vulkan
 - Package: vulkan-loader-generic
-  Version: 1.4.316
+  Version: 1.4.317
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
@@ -10447,7 +10447,7 @@
   Description: Vulkan Tools and Utilities
   Homepage: https://github.com/KhronosGroup/Vulkan-Tools
 - Package: vulkan-utility-libraries
-  Version: 1.4.316
+  Version: 1.4.317
   Description: Utility Libraries for Vulkan
   Homepage: https://github.com/KhronosGroup/Vulkan-Utility-Libraries
 - Package: vulkan-validation-layers
