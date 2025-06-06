@@ -1662,8 +1662,8 @@
 | **mangal** | 4.0.6-2 | Cli manga downloader | https://github.com/metafates/mangal |
 | **manpages** | 6.14 | Man pages for linux kernel and C library interfaces | https://www.kernel.org/doc/man-pages/ |
 | **mapserver** | 8.2.2-2 | MapServer is CGI-based platform for publishing spatial data and interactive mapping applications to the web | https://mapserver.org/ |
-| **mariadb** | 2:11.8.0 | A drop-in replacement for mysql server | https://mariadb.org |
-| **mariadb-static** | 2:11.8.0 | Static libraries for mariadb | https://mariadb.org |
+| **mariadb** | 2:11.8.2 | A drop-in replacement for mysql server | https://mariadb.org |
+| **mariadb-static** | 2:11.8.2 | Static libraries for mariadb | https://mariadb.org |
 | **marisa** | 0.3.0 | Matching Algorithm with Recursively Implemented StorAge | https://github.com/s-yata/marisa-trie |
 | **marisa-static** | 0.2.7 | Static libraries for marisa | https://github.com/s-yata/marisa-trie |
 | **markdown-flashcards** | 2.0.0-2 | Small CLI app to learn with flashcards and spaced repetition | https://github.com/bttger/markdown-flashcards |
