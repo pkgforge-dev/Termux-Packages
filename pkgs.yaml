@@ -1719,11 +1719,11 @@
   Description: Event Notify Test Runner - run arbitrary commands when files change
   Homepage: https://eradman.com/entrproject/
 - Package: erlang
-  Version: 27.3.4-1
+  Version: "28.0"
   Description: General-purpose concurrent functional programming language
   Homepage: https://www.erlang.org/
 - Package: erlang-doc
-  Version: 27.3.4-1
+  Version: "28.0"
   Description: Erlang HTML documentation
   Homepage: https://www.erlang.org/
 - Package: esbuild

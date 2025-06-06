@@ -440,8 +440,8 @@
 | **enchant-static** | 2.8.6 | Static libraries for enchant | https://rrthomas.github.io/enchant/ |
 | **enscript** | 1.6.6-12 | Enscript converts ASCII text files to PostScript, HTML, RTF, ANSI and overstrikes | https://www.gnu.org/software/enscript/ |
 | **entr** | 5.7 | Event Notify Test Runner - run arbitrary commands when files change | https://eradman.com/entrproject/ |
-| **erlang** | 27.3.4-1 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
-| **erlang-doc** | 27.3.4-1 | Erlang HTML documentation | https://www.erlang.org/ |
+| **erlang** | 28.0 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
+| **erlang-doc** | 28.0 | Erlang HTML documentation | https://www.erlang.org/ |
 | **esbuild** | 0.25.5 | An extremely fast JavaScript bundler | https://esbuild.github.io/ |
 | **espeak** | 1.52.0 | Compact software speech synthesizer | https://github.com/espeak-ng/espeak-ng |
 | **espeak-static** | 1.52.0 | Static libraries for espeak | https://github.com/espeak-ng/espeak-ng |
