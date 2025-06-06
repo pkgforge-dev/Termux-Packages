@@ -1148,8 +1148,8 @@
 | **liblua52-static** | 5.2.4-9 | Static libraries for liblua52 | https://www.lua.org |
 | **liblua53** | 5.3.6-1 | Shared library for the Lua interpreter (v5.3.x) | https://www.lua.org/ |
 | **liblua53-static** | 5.3.6-1 | Static libraries for liblua53 | https://www.lua.org/ |
-| **liblua54** | 5.4.7-1 | Shared library for the Lua interpreter | https://www.lua.org/ |
-| **liblua54-static** | 5.4.7-1 | Static libraries for liblua54 | https://www.lua.org/ |
+| **liblua54** | 5.4.8 | Shared library for the Lua interpreter | https://www.lua.org/ |
+| **liblua54-static** | 5.4.8 | Static libraries for liblua54 | https://www.lua.org/ |
 | **libluajit** | 1:2.1.1731601260 | Just-In-Time Compiler for Lua | https://luajit.org/ |
 | **libluajit-static** | 1:2.1.1731601260 | Static libraries for libluajit | https://luajit.org/ |
 | **liblz4** | 1.10.0 | Fast LZ compression algorithm library | https://lz4.github.io/lz4/ |
@@ -1623,7 +1623,7 @@
 | **lua52-lpeg** | 1.1.0-2 | Pattern-matching library for Lua 5.2 | https://www.inf.puc-rio.br/~roberto/lpeg |
 | **lua53** | 5.3.6-1 | Simple, extensible, embeddable programming language | https://www.lua.org/ |
 | **lua53-lpeg** | 1.1.0-2 | Pattern-matching library for Lua 5.3 | https://www.inf.puc-rio.br/~roberto/lpeg |
-| **lua54** | 5.4.7-1 | Simple, extensible, embeddable programming language | https://www.lua.org/ |
+| **lua54** | 5.4.8 | Simple, extensible, embeddable programming language | https://www.lua.org/ |
 | **luajit** | 1:2.1.1731601260 | Just-In-Time compiler for Lua - command line tool | https://luajit.org/ |
 | **luarocks** | 3.11.1 | Deployment and management system for Lua modules | https://luarocks.org/ |
 | **luv** | 1.51.0-1-0 | Bare libuv bindings for lua | https://github.com/luvit/luv |

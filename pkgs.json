@@ -6901,13 +6901,13 @@
   },
   {
     "Package": "liblua54",
-    "Version": "5.4.7-1",
+    "Version": "5.4.8",
     "Description": "Shared library for the Lua interpreter",
     "Homepage": "https://www.lua.org/"
   },
   {
     "Package": "liblua54-static",
-    "Version": "5.4.7-1",
+    "Version": "5.4.8",
     "Description": "Static libraries for liblua54",
     "Homepage": "https://www.lua.org/"
   },
@@ -9751,7 +9751,7 @@
   },
   {
     "Package": "lua54",
-    "Version": "5.4.7-1",
+    "Version": "5.4.8",
     "Description": "Simple, extensible, embeddable programming language",
     "Homepage": "https://www.lua.org/"
   },
