@@ -223,7 +223,7 @@
  chafa-static  1.16.1  Static libraries for chafa  https://hpjansson.org/chafa/ 
  check  0.15.2-2  A unit testing framework for C  https://libcheck.github.io/check 
  check-static  0.15.2-2  Static libraries for check  https://libcheck.github.io/check 
- chezmoi  2.62.5  Manage your dotfiles across multiple machines  https://chezmoi.io 
+ chezmoi  2.62.6  Manage your dotfiles across multiple machines  https://chezmoi.io 
  chicken  5.4.0-1  A feature rich Scheme compiler and interpreter  https://www.call-cc.org 
  chicken-static  5.4.0-1  Static libraries for chicken  https://www.call-cc.org 
  choose  1.3.6  A human-friendly and fast alternative to cut and (sometimes) awk  https://github.com/theryangeary/choose 
@@ -275,7 +275,7 @@
  cppi  1.18-1  Indents C preprocessor directives to reflect their nesting, among other regularizations  https://www.gnu.org/software/cppi/ 
  cpufetch  1.06  Simple yet fancy CPU architecture fetching tool  https://github.com/Dr-Noob/cpufetch 
  cpulimit  0.2-1  CPU usage limiter  https://github.com/opsengine/cpulimit 
- crawl  0.33.0  Roguelike adventure through dungeons filled with dangerous monsters  https://crawl.develz.org/ 
+ crawl  0.33.1  Roguelike adventure through dungeons filled with dangerous monsters  https://crawl.develz.org/ 
  croc  1:10.2.2  Easily and securely send things from one computer to another  https://github.com/schollz/croc 
  cronie  1.7.2-2  Daemon that runs specified programs at scheduled times and related tools  https://github.com/cronie-crond/cronie/ 
  crowbook  0.16.1-3  Allows you to write a book in Markdown without worrying about formatting or typography  https://github.com/crowdagger/crowbook 
@@ -1038,7 +1038,7 @@
  libgf2x-static  1.3.0  Static libraries for libgf2x  https://gitlab.inria.fr/gf2x/gf2x 
  libgfshare  2.0.0-7  Utilities for multi-way secret-sharing  http://www.digital-scurf.org/software/libgfshare 
  libgfshare-static  2.0.0-7  Static libraries for libgfshare  http://www.digital-scurf.org/software/libgfshare 
- libgit2  1.9.0  C library implementing Git core methods  https://libgit2.github.com/ 
+ libgit2  1.9.1  C library implementing Git core methods  https://libgit2.github.com/ 
  libglibmm-2.4  2.66.7  A C++ API for parts of glib that are useful for C++  https://www.gtkmm.org/ 
  libglibmm-2.68  2.84.0  A C++ API for parts of glib that are useful for C++  https://www.gtkmm.org/ 
  libglvnd  1.7.0  The GL Vendor-Neutral Dispatch library  https://gitlab.freedesktop.org/glvnd/libglvnd 
@@ -1858,7 +1858,7 @@
  octomap  1.10.0  An efficient probabilistic 3D mapping framework based on octrees  https://github.com/OctoMap/octomap 
  octomap-static  1.10.0  Static libraries for octomap  https://github.com/OctoMap/octomap 
  odt2txt  0.5-4  Simple converter from OpenDocument Text to plain text  https://github.com/dstosberg/odt2txt 
- oh-my-posh  26.3.0  A prompt theme engine for any shell.  https://ohmyposh.dev 
+ oh-my-posh  26.4.0  A prompt theme engine for any shell.  https://ohmyposh.dev 
  okc-agents  0.1.2  OpenKeychain agents for GnuPG and OpenSSH  https://github.com/DDoSolitary/okc-agents 
  ol  2.6-2  Purely functional dialect of Lisp  https://yuriy-chumak.github.io/ol/ 
  oleo  1.99.16-9  The GNU Spreadsheet  https://www.gnu.org/software/oleo/ 
@@ -2565,7 +2565,7 @@
  util-linux-static  2.40.2-3  Static libraries for util-linux  https://en.wikipedia.org/wiki/Util-linux 
  uucp  1.07-1  The standard UUCP package of the Free Software Foundation  https://www.airs.com/ian/uucp.html 
  uuid-utils  2.40.2-3  Utilities for handling universally unique identifiers  https://en.wikipedia.org/wiki/Util-linux 
- uv  0.7.11  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
+ uv  0.7.12  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
  uwsgi  2.0.30  uWSGI application server container  https://projects.unbit.it/uwsgi 
  v2ray  5.32.0  A platform for building proxies to bypass network restrictions  https://www.v2fly.org/ 
  valac  0.56.18  C# like language for the GObject system  https://wiki.gnome.org/Projects/Vala 
@@ -2609,7 +2609,7 @@
  vulkan-loader  0.0.3  A metapackage that provides vulkan loader library  https://github.com/termux/termux-packages 
  vulkan-loader-android  27c  Vulkan Loader for Android  https://source.android.com/devices/graphics/arch-vulkan 
  vulkan-loader-generic  1.4.317  Vulkan Loader  https://github.com/KhronosGroup/Vulkan-Loader 
- vulkan-tools  1.4.316  Vulkan Tools and Utilities  https://github.com/KhronosGroup/Vulkan-Tools 
+ vulkan-tools  1.4.317  Vulkan Tools and Utilities  https://github.com/KhronosGroup/Vulkan-Tools 
  vulkan-utility-libraries  1.4.317  Utility Libraries for Vulkan  https://github.com/KhronosGroup/Vulkan-Utility-Libraries 
  vulkan-validation-layers  1.4.315  Vulkan Validation Layers  https://github.com/KhronosGroup/Vulkan-ValidationLayers 
  vulkan-volk  1.4.304  Meta loader for Vulkan API  https://github.com/zeux/volk 
