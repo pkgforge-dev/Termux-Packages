@@ -315,7 +315,7 @@
 | **dcmtk** | 3.6.9 | A collection of libraries and applications implementing large parts the DICOM standard | https://dicom.offis.de/dcmtk |
 | **dcraw** | 9.28.0-6 | Raw digital camera images decoding utility | https://www.dechifro.org/dcraw/ |
 | **ddrescue** | 1.29.1 | GNU data recovery tool | https://www.gnu.org/software/ddrescue/ |
-| **debianutils** | 5.22 | Small utilities which are used primarily by the installation scripts of Debian packages | https://packages.debian.org/debianutils |
+| **debianutils** | 5.23.1 | Small utilities which are used primarily by the installation scripts of Debian packages | https://packages.debian.org/debianutils |
 | **debootstrap** | 1.0.141 | Bootstrap a basic Debian system | https://wiki.debian.org/Debootstrap |
 | **desed** | 1.2.2 | Demystifies and debugs your sed scripts | https://github.com/SoptikHa2/desed |
 | **deutex** | 5.2.3 | WAD composer for Doom, Heretic, Hexen, and Strife | https://github.com/Doom-Utils/deutex/ |
@@ -716,7 +716,7 @@
 | **httrack-data** | 3.49.6 | Platform-independent data for httrack | http://www.httrack.com |
 | **httrack-static** | 3.49.6 | Static libraries for httrack | http://www.httrack.com |
 | **hub** | 2.14.2-5 | Command-line wrapper for git that makes you better at GitHub | https://hub.github.com/ |
-| **hugo** | 0.147.7 | A fast and flexible static site generator | https://gohugo.io/ |
+| **hugo** | 0.147.8 | A fast and flexible static site generator | https://gohugo.io/ |
 | **hummin** | 2021.05.18-3 | Command line client for the imperial library of trantor | https://trantor.is/ |
 | **hunspell** | 1.7.2 | Spell checker | https://hunspell.github.io |
 | **hunspell-en-us** | 20240129 | American english dictionary for hunspell | https://hunspell.github.io |
@@ -886,8 +886,8 @@
 | **libasio** | 1.24.0-2 | Cross-platform C++ library for network and low-level I/O programming | https://think-async.com/Asio |
 | **libasm** | 0.192 | Library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |
 | **libasm-static** | 0.192 | Static library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |
-| **libass** | 0.17.3 | A portable library for SSA/ASS subtitles rendering | https://github.com/libass/libass |
-| **libass-static** | 0.17.3 | Static libraries for libass | https://github.com/libass/libass |
+| **libass** | 0.17.4 | A portable library for SSA/ASS subtitles rendering | https://github.com/libass/libass |
+| **libass-static** | 0.17.4 | Static libraries for libass | https://github.com/libass/libass |
 | **libassuan** | 3.0.2 | Library implementing the Assuan IPC protocol used between most newer GnuPG components | https://www.gnupg.org/related_software/libassuan/ |
 | **libassuan-static** | 3.0.2 | Static libraries for libassuan | https://www.gnupg.org/related_software/libassuan/ |
 | **libatomic-ops** | 7.8.2 | Provides semi-portable access to hardware-provided atomic memory update operations | https://github.com/ivmai/libatomic_ops |
@@ -1696,9 +1696,9 @@
 | **memcached** | 1.6.38 | Free & open source, high-performance, distributed memory object caching system | https://memcached.org/ |
 | **mercury** | 22.01.8 | A logic/functional programming language | https://www.mercurylang.org/ |
 | **mercury-static** | 22.01.8 | Static libraries for mercury | https://www.mercurylang.org/ |
-| **mesa** | 25.1.2 | An open-source implementation of the OpenGL specification | https://www.mesa3d.org |
-| **mesa-dev** | 25.1.2 | Mesa's OpenGL headers | https://www.mesa3d.org |
-| **mesa-vulkan-icd-swrast** | 25.1.2 | Mesa's Swrast Vulkan ICD | https://www.mesa3d.org |
+| **mesa** | 25.1.3 | An open-source implementation of the OpenGL specification | https://www.mesa3d.org |
+| **mesa-dev** | 25.1.3 | Mesa's OpenGL headers | https://www.mesa3d.org |
+| **mesa-vulkan-icd-swrast** | 25.1.3 | Mesa's Swrast Vulkan ICD | https://www.mesa3d.org |
 | **mfcuk** | 2018.07.14 | MiFare Classic Universal toolKit (MFCUK) | https://github.com/nfc-tools/mfcuk |
 | **mg** | 20240709 | microscopic GNU Emacs-style editor | https://github.com/hboetes/mg |
 | **micro** | 2.0.14-1 | Modern and intuitive terminal-based text editor | https://micro-editor.github.io/ |
