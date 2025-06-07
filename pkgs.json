@@ -4651,7 +4651,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.22.1995",
+    "Version": "0.22.1997",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -4801,13 +4801,13 @@
   },
   {
     "Package": "jsoncpp",
-    "Version": "1.9.6",
+    "Version": "1.9.6-1",
     "Description": "C++ library for interacting with JSON",
     "Homepage": "https://github.com/open-source-parsers/jsoncpp"
   },
   {
     "Package": "jsoncpp-static",
-    "Version": "1.9.6",
+    "Version": "1.9.6-1",
     "Description": "Static libraries for jsoncpp",
     "Homepage": "https://github.com/open-source-parsers/jsoncpp"
   },
@@ -4975,7 +4975,7 @@
   },
   {
     "Package": "lazygit",
-    "Version": "0.51.1",
+    "Version": "0.52.0",
     "Description": "Simple terminal UI for git commands",
     "Homepage": "https://github.com/jesseduffield/lazygit"
   },
