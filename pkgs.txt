@@ -2130,7 +2130,7 @@
  qpdf-static  12.2.0  Static libraries for qpdf  http://qpdf.sourceforge.net 
  qrsspig  0.8.0-5  Headless QRSS grabber for Raspberry Pi's  https://gitlab.com/hb9fxx/qrsspig 
  quick-lint-js  3.2.0  Finds bugs in JavaScript programs  https://quick-lint-js.com/ 
- quickjs  1:20240113  QuickJS is a small and embeddable Javascript engine  https://bellard.org/quickjs/ 
+ quickjs  1:20250426  QuickJS is a small and embeddable Javascript engine  https://bellard.org/quickjs/ 
  quilt  0.69  Allows you to easily manage large numbers of patches  https://savannah.nongnu.org/projects/quilt 
  rabbitmq-server  4.1.1  Feature rich, multi-protocol messaging and streaming broker  https://github.com/rabbitmq/rabbitmq-server 
  racket  8.17  Full-spectrum programming language going beyond Lisp and Scheme  https://racket-lang.org 
@@ -2490,9 +2490,9 @@
  tree-sitter-cross-tools  0.25.6-3  Tools for cross build on the host (NOT for Termux)  https://github.com/tree-sitter/tree-sitter 
  tree-sitter-lua  0.4.0-1  Lua grammar for tree-sitter  https://github.com/tree-sitter-grammars/tree-sitter-lua 
  tree-sitter-lua-static  0.2.0  Static libraries for tree-sitter-lua  https://github.com/tree-sitter-grammars 
- tree-sitter-markdown  0.5.0-1  Markdown grammar for tree-sitter  https://github.com/tree-sitter-grammars/tree-sitter-markdown 
+ tree-sitter-markdown  0.5.0-2  Markdown grammar for tree-sitter  https://github.com/tree-sitter-grammars/tree-sitter-markdown 
  tree-sitter-markdown-static  0.3.2  Static libraries for tree-sitter-markdown  https://github.com/tree-sitter-grammars 
- tree-sitter-parsers  0.0.3  A metapackage that provides commonly used treesitter parsers  https://github.com/termux/termux-packages 
+ tree-sitter-parsers  0.0.4  A metapackage that provides commonly used treesitter parsers  https://github.com/termux/termux-packages 
  tree-sitter-query  0.6.1  TS query grammar for tree-sitter  https://github.com/tree-sitter-grammars/tree-sitter-query 
  tree-sitter-query-static  0.4.0-1  Static libraries for tree-sitter-query  https://github.com/tree-sitter-grammars 
  tree-sitter-static  0.25.6-3  Static libraries for tree-sitter  https://github.com/tree-sitter/tree-sitter 

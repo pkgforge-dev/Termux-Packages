@@ -8527,7 +8527,7 @@
   Description: Finds bugs in JavaScript programs
   Homepage: https://quick-lint-js.com/
 - Package: quickjs
-  Version: 1:20240113
+  Version: 1:20250426
   Description: QuickJS is a small and embeddable Javascript engine
   Homepage: https://bellard.org/quickjs/
 - Package: quilt
@@ -9967,7 +9967,7 @@
   Description: Static libraries for tree-sitter-lua
   Homepage: https://github.com/tree-sitter-grammars
 - Package: tree-sitter-markdown
-  Version: 0.5.0-1
+  Version: 0.5.0-2
   Description: Markdown grammar for tree-sitter
   Homepage: https://github.com/tree-sitter-grammars/tree-sitter-markdown
 - Package: tree-sitter-markdown-static
@@ -9975,7 +9975,7 @@
   Description: Static libraries for tree-sitter-markdown
   Homepage: https://github.com/tree-sitter-grammars
 - Package: tree-sitter-parsers
-  Version: 0.0.3
+  Version: 0.0.4
   Description: A metapackage that provides commonly used treesitter parsers
   Homepage: https://github.com/termux/termux-packages
 - Package: tree-sitter-query
