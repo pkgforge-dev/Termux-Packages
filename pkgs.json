@@ -1579,7 +1579,7 @@
   },
   {
     "Package": "command-not-found",
-    "Version": "2.4.0-78",
+    "Version": "2.4.0-79",
     "Description": "Suggest installation of packages in interactive shell sessions",
     "Homepage": "https://github.com/termux/command-not-found"
   },
@@ -6337,7 +6337,7 @@
   },
   {
     "Package": "libgrpc",
-    "Version": "1.72.1",
+    "Version": "1.73.0",
     "Description": "High performance, open source, general RPC framework that puts mobile and HTTP/2 first",
     "Homepage": "https://grpc.io/"
   },
@@ -10513,13 +10513,13 @@
   },
   {
     "Package": "mpg123",
-    "Version": "1.32.10",
+    "Version": "1.33.0",
     "Description": "Fast console MPEG Audio Player and decoder library",
     "Homepage": "https://mpg123.org/"
   },
   {
     "Package": "mpg123-static",
-    "Version": "1.32.10",
+    "Version": "1.33.0",
     "Description": "Static libraries for mpg123",
     "Homepage": "https://mpg123.org/"
   },
@@ -12433,7 +12433,7 @@
   },
   {
     "Package": "python-grpcio",
-    "Version": "1.72.1",
+    "Version": "1.73.0",
     "Description": "High performance, open source, general RPC framework that puts mobile and HTTP/2 first",
     "Homepage": "https://grpc.io/"
   },
@@ -15619,7 +15619,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "2025.06.06a",
+    "Version": "2025.06.08",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://vtm.netxs.online/"
   },
