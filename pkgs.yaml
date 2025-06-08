@@ -9943,11 +9943,11 @@
   Description: Recursive directory lister producing a depth indented listing of files
   Homepage: http://mama.indstate.edu/users/ice/tree/
 - Package: tree-sitter
-  Version: 0.25.6-2
+  Version: 0.25.6-3
   Description: An incremental parsing system for programming tools
   Homepage: https://github.com/tree-sitter/tree-sitter
 - Package: tree-sitter-c
-  Version: 0.24.1
+  Version: 0.24.1-1
   Description: C grammar for tree-sitter
   Homepage: https://github.com/tree-sitter/tree-sitter-c
 - Package: tree-sitter-c-static
@@ -9955,11 +9955,11 @@
   Description: Static libraries for tree-sitter-c
   Homepage: https://github.com/tree-sitter
 - Package: tree-sitter-cross-tools
-  Version: 0.25.6-2
+  Version: 0.25.6-3
   Description: Tools for cross build on the host (NOT for Termux)
   Homepage: https://github.com/tree-sitter/tree-sitter
 - Package: tree-sitter-lua
-  Version: 0.4.0
+  Version: 0.4.0-1
   Description: Lua grammar for tree-sitter
   Homepage: https://github.com/tree-sitter-grammars/tree-sitter-lua
 - Package: tree-sitter-lua-static
@@ -9967,7 +9967,7 @@
   Description: Static libraries for tree-sitter-lua
   Homepage: https://github.com/tree-sitter-grammars
 - Package: tree-sitter-markdown
-  Version: 0.5.0
+  Version: 0.5.0-1
   Description: Markdown grammar for tree-sitter
   Homepage: https://github.com/tree-sitter-grammars/tree-sitter-markdown
 - Package: tree-sitter-markdown-static
@@ -9975,7 +9975,7 @@
   Description: Static libraries for tree-sitter-markdown
   Homepage: https://github.com/tree-sitter-grammars
 - Package: tree-sitter-parsers
-  Version: 0.0.2
+  Version: 0.0.3
   Description: A metapackage that provides commonly used treesitter parsers
   Homepage: https://github.com/termux/termux-packages
 - Package: tree-sitter-query
@@ -9987,23 +9987,23 @@
   Description: Static libraries for tree-sitter-query
   Homepage: https://github.com/tree-sitter-grammars
 - Package: tree-sitter-static
-  Version: 0.25.6-2
+  Version: 0.25.6-3
   Description: Static libraries for tree-sitter
   Homepage: https://github.com/tree-sitter/tree-sitter
 - Package: tree-sitter-vim
-  Version: 0.6.0
+  Version: 0.6.0-1
   Description: Vimscript grammar for tree-sitter
   Homepage: https://github.com/tree-sitter-grammars/tree-sitter-vim
 - Package: tree-sitter-vim-static
-  Version: 0.6.0
+  Version: 0.6.0-1
   Description: Static libraries for tree-sitter-vim
   Homepage: https://github.com/tree-sitter-grammars/tree-sitter-vim
 - Package: tree-sitter-vimdoc
-  Version: 4.0.0
+  Version: 4.0.0-1
   Description: Tree-sitter parser for Vim help files
   Homepage: https://github.com/neovim/tree-sitter-vimdoc
 - Package: tree-sitter-vimdoc-static
-  Version: 4.0.0
+  Version: 4.0.0-1
   Description: Static libraries for tree-sitter-vimdoc
   Homepage: https://github.com/neovim/tree-sitter-vimdoc
 - Package: trojan-go
