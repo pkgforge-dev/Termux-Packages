@@ -2075,14 +2075,14 @@
 | **pypy3-tests** | 7.3.15-4 | Test files for PyPy 3 | https://pypy.org |
 | **pypy3-tkinter** | 7.3.15-4 | Tkinter support for PyPy 3 | https://pypy.org |
 | **pystring** | 1.1.4 | C++ functions matching the interface and behavior of python string methods with std::string | https://github.com/imageworks/pystring |
-| **python** | 3.12.10 | Python 3 programming language intended to enable clear programs | https://python.org/ |
+| **python** | 3.12.11 | Python 3 programming language intended to enable clear programs | https://python.org/ |
 | **python-apsw** | 3.49.2.0 | Another Python SQLite Wrapper | https://github.com/rogerbinns/apsw/ |
 | **python-apt** | 3.0.0 | Python bindings for APT | https://apt-team.pages.debian.net/python-apt/ |
 | **python-bcrypt** | 4.3.0 | Acceptable password hashing for your software and your servers | https://github.com/pyca/bcrypt |
 | **python-brotli** | 1.1.0-3 | lossless compression algorithm and format (Python bindings) | https://github.com/google/brotli |
 | **python-contourpy** | 1.3.2 | Python library for calculating contours in 2D quadrilateral grids | https://contourpy.readthedocs.io/ |
 | **python-cryptography** | 45.0.3 | Provides cryptographic recipes and primitives to Python developers | https://github.com/pyca/cryptography |
-| **python-ensurepip-wheels** | 3.12.10 | Wheels for Python ensurepip | https://python.org/ |
+| **python-ensurepip-wheels** | 3.12.11 | Wheels for Python ensurepip | https://python.org/ |
 | **python-greenlet** | 3.2.3 | Lightweight coroutines for in-process concurrent programming | https://github.com/python-greenlet/greenlet |
 | **python-grpcio** | 1.73.0 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
 | **python-lameenc** | 1.8.1 | Python bindings around the LAME encoder | https://github.com/chrisstaite/lameenc |
@@ -2100,9 +2100,9 @@
 | **python-ruff** | 0.11.13 | An extremely fast Python linter, written in Rust (Python bindings) | https://github.com/charliermarsh/ruff |
 | **python-sabyenc3** | 8.2.5-1 | C implementations of functions for use within SABnzbd | https://github.com/sabnzbd/sabctools |
 | **python-skia-pathops** | 0.8.0-1 | Python bindings for the Skia library's Path Ops | https://github.com/fonttools/skia-pathops |
-| **python-static** | 3.12.10 | Static libraries for python | https://python.org/ |
+| **python-static** | 3.12.11 | Static libraries for python | https://python.org/ |
 | **python-tflite-runtime** | 2.19.0 | TensorFlow Lite Python bindings | https://www.tensorflow.org/lite |
-| **python-tkinter** | 3.12.10 | Tkinter support for Python 3 | https://python.org/ |
+| **python-tkinter** | 3.12.11 | Tkinter support for Python 3 | https://python.org/ |
 | **python-tldp** | 0.7.5-5 | Tools for publishing from TLDP sources | https://github.com/tLDP/python-tldp |
 | **python-torch** | 2.6.0 | Tensors and Dynamic neural networks in Python | https://pytorch.org/ |
 | **python-torch-static** | 2.6.0 | Static libraries for python-torch | https://pytorch.org/ |
