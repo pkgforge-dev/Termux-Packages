@@ -355,7 +355,7 @@
   Description: ASP.NET Core 9.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: assimp
-  Version: 6.0.1
+  Version: 6.0.2
   Description: Library to import various well-known 3D model formats in an uniform manner
   Homepage: https://assimp.sourceforge.net/index.html
 - Package: assimp-static
@@ -611,7 +611,7 @@
   Description: Bandwidth monitor and rate estimator
   Homepage: https://github.com/tgraf/bmon
 - Package: boinc
-  Version: 8.2.3
+  Version: 8.2.4
   Description: Open-source software for volunteer computing
   Homepage: https://boinc.berkeley.edu/
 - Package: boinctui
@@ -698,6 +698,10 @@
   Version: 3.3.0
   Description: Decentralized file system integrating with TRON network and Bittorrent network
   Homepage: https://www.bittorrent.com/btfs/
+- Package: btrfs-progs
+  Version: "6.14"
+  Description: Utilities for Btrfs filesystem
+  Homepage: https://btrfs.readthedocs.io/en/latest/
 - Package: buf
   Version: 1.54.0
   Description: A new way of working with Protocol Buffers
@@ -1750,6 +1754,10 @@
   Version: 3.5.5
   Description: A Go based command line tool for exercism.io
   Homepage: https://github.com/exercism/cli/
+- Package: exfatprogs
+  Version: 1.2.8
+  Description: exFAT filesystem userspace utilities
+  Homepage: https://github.com/exfatprogs/exfatprogs
 - Package: exhale
   Version: 1.2.1.2
   Description: Open source xHE-AAC encoder
@@ -1823,7 +1831,7 @@
   Description: A significantly faster alternative to the classic Unix cp(1) command
   Homepage: https://github.com/Svetlitski/fcp
 - Package: fd
-  Version: 10.2.0
+  Version: 10.2.0-1
   Description: Simple, fast and user-friendly alternative to find
   Homepage: https://github.com/sharkdp/fd
 - Package: fdisk
@@ -7439,7 +7447,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 26.4.0
+  Version: 26.4.1
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -8103,7 +8111,7 @@
   Description: Platform-independent data for povray
   Homepage: https://www.povray.org/
 - Package: predict
-  Version: 2.3.1-1
+  Version: 2.3.1-2
   Description: A Satellite Tracking/Orbital Prediction Program
   Homepage: https://www.qsl.net/kd2bd/predict.html
 - Package: privoxy

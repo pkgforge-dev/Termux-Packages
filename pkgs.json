@@ -535,7 +535,7 @@
   },
   {
     "Package": "assimp",
-    "Version": "6.0.1",
+    "Version": "6.0.2",
     "Description": "Library to import various well-known 3D model formats in an uniform manner",
     "Homepage": "https://assimp.sourceforge.net/index.html"
   },
@@ -919,7 +919,7 @@
   },
   {
     "Package": "boinc",
-    "Version": "8.2.3",
+    "Version": "8.2.4",
     "Description": "Open-source software for volunteer computing",
     "Homepage": "https://boinc.berkeley.edu/"
   },
@@ -1048,6 +1048,12 @@
     "Version": "3.3.0",
     "Description": "Decentralized file system integrating with TRON network and Bittorrent network",
     "Homepage": "https://www.bittorrent.com/btfs/"
+  },
+  {
+    "Package": "btrfs-progs",
+    "Version": "6.14",
+    "Description": "Utilities for Btrfs filesystem",
+    "Homepage": "https://btrfs.readthedocs.io/en/latest/"
   },
   {
     "Package": "buf",
@@ -2628,6 +2634,12 @@
     "Homepage": "https://github.com/exercism/cli/"
   },
   {
+    "Package": "exfatprogs",
+    "Version": "1.2.8",
+    "Description": "exFAT filesystem userspace utilities",
+    "Homepage": "https://github.com/exfatprogs/exfatprogs"
+  },
+  {
     "Package": "exhale",
     "Version": "1.2.1.2",
     "Description": "Open source xHE-AAC encoder",
@@ -2737,7 +2749,7 @@
   },
   {
     "Package": "fd",
-    "Version": "10.2.0",
+    "Version": "10.2.0-1",
     "Description": "Simple, fast and user-friendly alternative to find",
     "Homepage": "https://github.com/sharkdp/fd"
   },
@@ -11161,7 +11173,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "26.4.0",
+    "Version": "26.4.1",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -12157,7 +12169,7 @@
   },
   {
     "Package": "predict",
-    "Version": "2.3.1-1",
+    "Version": "2.3.1-2",
     "Description": "A Satellite Tracking/Orbital Prediction Program",
     "Homepage": "https://www.qsl.net/kd2bd/predict.html"
   },
