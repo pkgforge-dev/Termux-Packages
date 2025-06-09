@@ -2771,7 +2771,7 @@
   Description: Helm helps you manage Kubernetes applications
   Homepage: https://helm.sh
 - Package: helm-ls
-  Version: 0.3.0
+  Version: 0.4.0
   Description: Language server for Helm
   Homepage: https://github.com/mrjosh/helm-ls
 - Package: help2man
@@ -3911,7 +3911,7 @@
   Description: Static libraries for libdmtx
   Homepage: https://github.com/dmtx/libdmtx
 - Package: libdrm
-  Version: 2.4.124
+  Version: 2.4.125
   Description: Userspace interface to kernel DRM services
   Homepage: https://dri.freedesktop.org/wiki/
 - Package: libduckdb
@@ -7447,7 +7447,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 26.4.1
+  Version: 26.5.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
