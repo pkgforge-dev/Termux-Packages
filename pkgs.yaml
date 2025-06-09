@@ -223,11 +223,11 @@
   Description: Provides a standard for creating app stores across distributions
   Homepage: https://www.freedesktop.org/wiki/Distributions/AppStream/
 - Package: apr
-  Version: 1.7.5
+  Version: 1.7.6
   Description: Apache Portable Runtime Library
   Homepage: https://apr.apache.org/
 - Package: apr-static
-  Version: 1.7.5
+  Version: 1.7.6
   Description: Static libraries for apr
   Homepage: https://apr.apache.org/
 - Package: apr-util
@@ -1755,7 +1755,7 @@
   Description: A Go based command line tool for exercism.io
   Homepage: https://github.com/exercism/cli/
 - Package: exfatprogs
-  Version: 1.2.8
+  Version: 1.2.9
   Description: exFAT filesystem userspace utilities
   Homepage: https://github.com/exfatprogs/exfatprogs
 - Package: exhale
@@ -2479,7 +2479,7 @@
   Description: Uniform machine readable API
   Homepage: https://gi.readthedocs.io/
 - Package: gogs
-  Version: 0.13.2
+  Version: 0.13.3
   Description: A painless self-hosted Git service
   Homepage: https://gogs.io
 - Package: gojq
@@ -3107,7 +3107,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.1999
+  Version: 0.22.2002
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: janet
@@ -6687,7 +6687,7 @@
   Description: Replaces your default ctrl-r shell history search with an intelligent search engine
   Homepage: https://github.com/cantino/mcfly
 - Package: mdbook
-  Version: 0.4.50
+  Version: 0.4.51
   Description: Creates book from markdown files
   Homepage: https://rust-lang.github.io/mdBook/
 - Package: mdbook-auto-gen-summary
@@ -8079,7 +8079,7 @@
   Description: Aims to bring back the posix profile for Vala
   Homepage: https://github.com/radare/posixvala
 - Package: postgis
-  Version: 3.5.2-2
+  Version: 3.5.3
   Description: Spatial database extender for PostgreSQL object-relational database
   Homepage: https://postgis.net
 - Package: postgresql
@@ -8887,7 +8887,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: 20250602-1
+  Version: "20250609"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://rust-analyzer.github.io/
 - Package: rust-bindgen
@@ -8983,7 +8983,7 @@
   Description: An improved version of sc, a spreadsheet calculator
   Homepage: https://github.com/andmarti1424/sc-im
 - Package: scala
-  Version: 3.7.0
+  Version: 3.7.1
   Description: Scala 3 compiler and standard library.
   Homepage: https://www.scala-lang.org
 - Package: scc
@@ -9467,11 +9467,11 @@
   Description: Records and splits streaming mp3 into tracks
   Homepage: http://streamripper.sourceforge.net/
 - Package: stunnel
-  Version: "5.74"
+  Version: "5.75"
   Description: Socket wrapper which can provide TLS support to ordinary applications
   Homepage: https://www.stunnel.org/
 - Package: stunnel-static
-  Version: "5.74"
+  Version: "5.75"
   Description: Static libraries for stunnel
   Homepage: https://www.stunnel.org/
 - Package: stuntman
@@ -10307,7 +10307,7 @@
   Description: Static libraries for valadoc
   Homepage: https://wiki.gnome.org/Projects/Vala
 - Package: vale
-  Version: 3.11.2
+  Version: 3.12.0
   Description: A syntax-aware linter for prose built with speed and extensibility in mind
   Homepage: https://vale.sh
 - Package: valgrind

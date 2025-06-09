@@ -337,13 +337,13 @@
   },
   {
     "Package": "apr",
-    "Version": "1.7.5",
+    "Version": "1.7.6",
     "Description": "Apache Portable Runtime Library",
     "Homepage": "https://apr.apache.org/"
   },
   {
     "Package": "apr-static",
-    "Version": "1.7.5",
+    "Version": "1.7.6",
     "Description": "Static libraries for apr",
     "Homepage": "https://apr.apache.org/"
   },
@@ -2635,7 +2635,7 @@
   },
   {
     "Package": "exfatprogs",
-    "Version": "1.2.8",
+    "Version": "1.2.9",
     "Description": "exFAT filesystem userspace utilities",
     "Homepage": "https://github.com/exfatprogs/exfatprogs"
   },
@@ -3721,7 +3721,7 @@
   },
   {
     "Package": "gogs",
-    "Version": "0.13.2",
+    "Version": "0.13.3",
     "Description": "A painless self-hosted Git service",
     "Homepage": "https://gogs.io"
   },
@@ -4663,7 +4663,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.22.1999",
+    "Version": "0.22.2002",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -10033,7 +10033,7 @@
   },
   {
     "Package": "mdbook",
-    "Version": "0.4.50",
+    "Version": "0.4.51",
     "Description": "Creates book from markdown files",
     "Homepage": "https://rust-lang.github.io/mdBook/"
   },
@@ -12121,7 +12121,7 @@
   },
   {
     "Package": "postgis",
-    "Version": "3.5.2-2",
+    "Version": "3.5.3",
     "Description": "Spatial database extender for PostgreSQL object-relational database",
     "Homepage": "https://postgis.net"
   },
@@ -13333,7 +13333,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20250602-1",
+    "Version": "20250609",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://rust-analyzer.github.io/"
   },
@@ -13477,7 +13477,7 @@
   },
   {
     "Package": "scala",
-    "Version": "3.7.0",
+    "Version": "3.7.1",
     "Description": "Scala 3 compiler and standard library.",
     "Homepage": "https://www.scala-lang.org"
   },
@@ -14203,13 +14203,13 @@
   },
   {
     "Package": "stunnel",
-    "Version": "5.74",
+    "Version": "5.75",
     "Description": "Socket wrapper which can provide TLS support to ordinary applications",
     "Homepage": "https://www.stunnel.org/"
   },
   {
     "Package": "stunnel-static",
-    "Version": "5.74",
+    "Version": "5.75",
     "Description": "Static libraries for stunnel",
     "Homepage": "https://www.stunnel.org/"
   },
@@ -15463,7 +15463,7 @@
   },
   {
     "Package": "vale",
-    "Version": "3.11.2",
+    "Version": "3.12.0",
     "Description": "A syntax-aware linter for prose built with speed and extensibility in mind",
     "Homepage": "https://vale.sh"
   },

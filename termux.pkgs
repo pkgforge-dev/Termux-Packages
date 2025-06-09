@@ -54,8 +54,8 @@
 | **apkeep** | 0.17.0-1 | A command-line tool for downloading APK files from various sources | https://github.com/EFForg/apkeep |
 | **apksigner** | 33.0.1 | APK signing tool from Android SDK | https://developer.android.com/studio/command-line/apksigner |
 | **appstream** | 1.0.5 | Provides a standard for creating app stores across distributions | https://www.freedesktop.org/wiki/Distributions/AppStream/ |
-| **apr** | 1.7.5 | Apache Portable Runtime Library | https://apr.apache.org/ |
-| **apr-static** | 1.7.5 | Static libraries for apr | https://apr.apache.org/ |
+| **apr** | 1.7.6 | Apache Portable Runtime Library | https://apr.apache.org/ |
+| **apr-static** | 1.7.6 | Static libraries for apr | https://apr.apache.org/ |
 | **apr-util** | 1.6.3-2 | Apache Portable Runtime Utility Library | https://apr.apache.org/ |
 | **apr-util-static** | 1.6.3-2 | Static libraries for apr-util | https://apr.apache.org/ |
 | **apt** | 2.8.1-1 | Front-end for the dpkg package manager | https://packages.debian.org/apt |
@@ -437,7 +437,7 @@
 | **et** | 6.2.9-4 | A remote shell that automatically reconnects without interrupting the session | https://eternalterminal.dev |
 | **etsh** | 5.4.0 | An enhanced, backward-compatible port of Thompson Shell | https://etsh.nl |
 | **exercism** | 3.5.5 | A Go based command line tool for exercism.io | https://github.com/exercism/cli/ |
-| **exfatprogs** | 1.2.8 | exFAT filesystem userspace utilities | https://github.com/exfatprogs/exfatprogs |
+| **exfatprogs** | 1.2.9 | exFAT filesystem userspace utilities | https://github.com/exfatprogs/exfatprogs |
 | **exhale** | 1.2.1.2 | Open source xHE-AAC encoder | https://gitlab.com/ecodis/exhale |
 | **exiftool** | 13.30 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
 | **exiv2** | 2:0.28.5 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
@@ -618,7 +618,7 @@
 | **goaccess** | 1.9.4 | An open source real-time web log analyzer and interactive viewer | https://goaccess.io |
 | **gobang** | 0.1.0-alpha.5-3 | A cross-platform TUI database management tool written in Rust | https://github.com/TaKO8Ki/gobang |
 | **gobject-introspection** | 1.84.0 | Uniform machine readable API | https://gi.readthedocs.io/ |
-| **gogs** | 0.13.2 | A painless self-hosted Git service | https://gogs.io |
+| **gogs** | 0.13.3 | A painless self-hosted Git service | https://gogs.io |
 | **gojq** | 0.12.17 | Pure Go implementation of jq | https://github.com/itchyny/gojq |
 | **golang** | 3:1.24.2 | Go programming language compiler | https://golang.org/ |
 | **golang-doc** | 3:1.24.2 | Go programming language - documentation | https://golang.org/ |
@@ -775,7 +775,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-1 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.22.1999 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.22.2002 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **janet** | 1.38.0 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
 | **jbig2dec** | 0.20 | Decoder implementation of the JBIG2 image compression format | https://jbig2dec.com/ |
 | **jbig2dec-static** | 0.20 | Static libraries for jbig2dec | https://jbig2dec.com/ |
@@ -1670,7 +1670,7 @@
 | **mbedtls-static** | 3.6.3.1 | Static libraries for mbedtls | https://www.trustedfirmware.org/projects/mbed-tls/ |
 | **mc** | 4.8.33-1 | Midnight Commander - a powerful file manager | https://midnight-commander.org |
 | **mcfly** | 0.9.3 | Replaces your default ctrl-r shell history search with an intelligent search engine | https://github.com/cantino/mcfly |
-| **mdbook** | 0.4.50 | Creates book from markdown files | https://rust-lang.github.io/mdBook/ |
+| **mdbook** | 0.4.51 | Creates book from markdown files | https://rust-lang.github.io/mdBook/ |
 | **mdbook-auto-gen-summary** | 0.1.10 | A preprocessor and cli tool for mdbook to auto generate summary | https://github.com/cococolanosugar/mdbook-auto-gen-summary |
 | **mdbook-cat-prep** | 1.0.9 | A preprocessor for mdbook which provides teacher, subject, material and tag functionality | https://github.com/gjk-cat/cat-prep |
 | **mdbook-epub** | 0.4.48 | An EPUB renderer for mdbook | https://github.com/Michael-F-Bryan/mdbook-epub |
@@ -2018,7 +2018,7 @@
 | **portaudio-static** | 19.07.00-2 | Static libraries for portaudio | https://www.portaudio.com/ |
 | **portmidi** | 2.0.4 | A cross-platform MIDI input/output library | https://github.com/PortMidi/portmidi |
 | **posixvala** | 0.2 | Aims to bring back the posix profile for Vala | https://github.com/radare/posixvala |
-| **postgis** | 3.5.2-2 | Spatial database extender for PostgreSQL object-relational database | https://postgis.net |
+| **postgis** | 3.5.3 | Spatial database extender for PostgreSQL object-relational database | https://postgis.net |
 | **postgresql** | 17.0-3 | Object-relational SQL database | https://www.postgresql.org |
 | **postgresql-static** | 17.0-3 | Static libraries for postgresql | https://www.postgresql.org |
 | **potrace** | 1.16-1 | Tool for transforming a bitmap into a smooth, scalable image | http://potrace.sourceforge.net |
@@ -2220,7 +2220,7 @@
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.6.1 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
 | **rust** | 1.87.0-1 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
-| **rust-analyzer** | 20250602-1 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
+| **rust-analyzer** | 20250609 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
 | **rust-bindgen** | 0.72.0 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
 | **rust-docs** | 1.87.0-1 | Rust documentation | https://www.rust-lang.org/ |
 | **rust-src** | 1.87.0-1 | Rust source code files | https://www.rust-lang.org/ |
@@ -2244,7 +2244,7 @@
 | **samurai** | 1.2-1 | ninja-compatible build tool written in C | https://github.com/michaelforney/samurai |
 | **sassc** | 3.6.2 | libsass command line driver | https://github.com/sass/sassc |
 | **sc-im** | 0.8.5 | An improved version of sc, a spreadsheet calculator | https://github.com/andmarti1424/sc-im |
-| **scala** | 3.7.0 | Scala 3 compiler and standard library. | https://www.scala-lang.org |
+| **scala** | 3.7.1 | Scala 3 compiler and standard library. | https://www.scala-lang.org |
 | **scc** | 3.5.0 | Counts physical the lines of code, blank lines, comment lines, and physical lines of source code | https://github.com/boyter/scc |
 | **sccache** | 0.10.0 | sccache is ccache with cloud storage | https://github.com/mozilla/sccache |
 | **scdaemon** | 2.5.5 | Daemon invoked by gpg to manage smartcards | https://www.gnupg.org/ |
@@ -2365,8 +2365,8 @@
 | **stow** | 2.4.1 | Tool for managing the installation of multiple software packages into a single directory | https://www.gnu.org/software/stow/ |
 | **strace** | 6.15 | Debugging utility to monitor system calls and signals received | https://strace.io/ |
 | **streamripper** | 1.64.6-2 | Records and splits streaming mp3 into tracks | http://streamripper.sourceforge.net/ |
-| **stunnel** | 5.74 | Socket wrapper which can provide TLS support to ordinary applications | https://www.stunnel.org/ |
-| **stunnel-static** | 5.74 | Static libraries for stunnel | https://www.stunnel.org/ |
+| **stunnel** | 5.75 | Socket wrapper which can provide TLS support to ordinary applications | https://www.stunnel.org/ |
+| **stunnel-static** | 5.75 | Static libraries for stunnel | https://www.stunnel.org/ |
 | **stuntman** | 1.2.16-5 | An open source STUN server | https://www.stunprotocol.org/ |
 | **stylua** | 2.1.0 | An opinionated Lua code formatter | https://github.com/JohnnyMorganz/StyLua |
 | **subtitleripper** | 0.3.4 | DVD subtitle ripper for Linux | http://subtitleripper.sourceforge.net/ |
@@ -2575,7 +2575,7 @@
 | **valac-static** | 0.56.18 | Static libraries for valac | https://wiki.gnome.org/Projects/Vala |
 | **valadoc** | 0.56.18 | API documentation generator for vala | https://wiki.gnome.org/Projects/Vala |
 | **valadoc-static** | 0.56.18 | Static libraries for valadoc | https://wiki.gnome.org/Projects/Vala |
-| **vale** | 3.11.2 | A syntax-aware linter for prose built with speed and extensibility in mind | https://vale.sh |
+| **vale** | 3.12.0 | A syntax-aware linter for prose built with speed and extensibility in mind | https://vale.sh |
 | **valgrind** | 3.22.0-1 | Instrumentation framework for building dynamic analysis tools | https://valgrind.org/ |
 | **valgrind-static** | 3.22.0-1 | Static libraries for valgrind | https://valgrind.org/ |
 | **vamp-plugin-sdk** | 2.10-2 | An API for audio analysis and feature extraction plugins | https://www.vamp-plugins.org/ |
