@@ -1615,7 +1615,7 @@
   },
   {
     "Package": "coreutils",
-    "Version": "9.6-1",
+    "Version": "9.7",
     "Description": "Basic file, shell and text manipulation utilities from the GNU project",
     "Homepage": "https://www.gnu.org/software/coreutils/"
   },
@@ -1975,7 +1975,7 @@
   },
   {
     "Package": "diffutils",
-    "Version": "3.12",
+    "Version": "3.12-1",
     "Description": "Programs (cmp, diff, diff3 and sdiff) related to finding differences between files",
     "Homepage": "https://www.gnu.org/software/diffutils/"
   },
@@ -3919,7 +3919,7 @@
   },
   {
     "Package": "grep",
-    "Version": "3.12",
+    "Version": "3.12-1",
     "Description": "Command which searches one or more input files for lines containing a match to a specified pattern",
     "Homepage": "https://www.gnu.org/software/grep/"
   },

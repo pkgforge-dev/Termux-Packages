@@ -1075,7 +1075,7 @@
   Description: A suite of tools to create shopping lists and maintain food recipes
   Homepage: https://cooklang.org
 - Package: coreutils
-  Version: 9.6-1
+  Version: "9.7"
   Description: Basic file, shell and text manipulation utilities from the GNU project
   Homepage: https://www.gnu.org/software/coreutils/
 - Package: corgi
@@ -1315,7 +1315,7 @@
   Description: 'difft: A structural diff that understands syntax'
   Homepage: https://github.com/Wilfred/difftastic
 - Package: diffutils
-  Version: "3.12"
+  Version: 3.12-1
   Description: Programs (cmp, diff, diff3 and sdiff) related to finding differences between files
   Homepage: https://www.gnu.org/software/diffutils/
 - Package: dirb
@@ -2611,7 +2611,7 @@
   Description: Game where you try to eat as much as possible of the board before munching yourself into a corner
   Homepage: http://www.catb.org/~esr/greed/
 - Package: grep
-  Version: "3.12"
+  Version: 3.12-1
   Description: Command which searches one or more input files for lines containing a match to a specified pattern
   Homepage: https://www.gnu.org/software/grep/
 - Package: grex
