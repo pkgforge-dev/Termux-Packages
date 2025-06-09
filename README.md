@@ -74,7 +74,7 @@
 | **apt-file** | 3.3 | search for files within packages | https://wiki.debian.org/apt-file |
 | **apt-ftparchive** | 2.8.1-1 | apt-ftparchive is the command line tool that generates the index files that APT uses to access a distribution source | https://packages.debian.org/apt |
 | **apt-transport-tor** | 2.8.1-1 | APT transport for anonymous package downloads via Tor | https://packages.debian.org/apt |
-| **aptly** | 1.6.1 | A Swiss Army knife for Debian repository management | https://www.aptly.info |
+| **aptly** | 1.6.2 | A Swiss Army knife for Debian repository management | https://www.aptly.info |
 | **argon2** | 20190702-1 | A password-hashing function (reference C implementation) | https://github.com/P-H-C/phc-winner-argon2 |
 | **argon2-static** | 20190702-1 | Static libraries for argon2 | https://github.com/P-H-C/phc-winner-argon2 |
 | **argp** | 1.5.0 | Standalone version of arguments parsing functions from GLIBC | https://github.com/argp-standalone/argp-standalone |
@@ -1283,7 +1283,7 @@
 | **libotr** | 4.1.1-2 | Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing: Encryption, Authentication, Deniability, Perfect forward secrecy | https://otr.cypherpunks.ca |
 | **libotr-static** | 4.1.1-2 | Static libraries for libotr | https://otr.cypherpunks.ca |
 | **libowfat** | 0.33-1 | GPL reimplementation of libdjb | http://www.fefe.de/libowfat/ |
-| **libp11** | 0.4.14 | PKCS#11 wrapper library | https://github.com/OpenSC/libp11 |
+| **libp11** | 0.4.15 | PKCS#11 wrapper library | https://github.com/OpenSC/libp11 |
 | **libp8-platform** | 2.1.0.1-3 | Platform support library used by libCEC and binary add-ons for Kodi | https://github.com/Pulse-Eight/platform |
 | **libpagmo** | 2.19.1-2 | Scientific library for massively parallel optimization | https://esa.github.io/pagmo2/index.html |
 | **libpangomm-1.4** | 2.46.4 | A C++ API for Pango | https://www.gtkmm.org/ |
@@ -1863,7 +1863,7 @@
 | **nwipe** | 0.38-1 | A program that will securely erase the entire contents of disks | https://github.com/martijnvanbrummelen/nwipe |
 | **nyancat** | 1.5.2 | Nyancat in your terminal, rendered through ANSI escape sequences. | http://nyancat.dakko.us |
 | **nzbget** | 21.1-7 | The most efficient usenet downloader | https://nzbget.net/ |
-| **o-editor** | 2.69.0 | Small, fast and limited text editor | https://github.com/xyproto/o |
+| **o-editor** | 2.70.0 | Small, fast and limited text editor | https://github.com/xyproto/o |
 | **oathtool** | 2.6.12-1 | One-time password components | http://www.nongnu.org/oath-toolkit/ |
 | **oathtool-static** | 2.6.12-1 | Static libraries for oathtool | http://www.nongnu.org/oath-toolkit/ |
 | **ocl-icd** | 2.3.3 | OpenCL ICD Loader | https://github.com/OCL-dev/ocl-icd |
@@ -2730,7 +2730,7 @@
 | **zopfli** | 1.0.3-3 | New zlib compatible compressor tools | https://github.com/google/zopfli |
 | **zoxide** | 0.9.8-1 | A faster way to navigate your filesystem | https://github.com/ajeetdsouza/zoxide |
 | **zpaq** | 7.15 | Programmable file compressor, library and utilities. Based on the PAQ compression algorithm | http://mattmahoney.net/dc/zpaq.html |
-| **zrok** | 1.0.4 | An open source sharing solution built on OpenZiti. | https://zrok.io/ |
+| **zrok** | 1.0.5 | An open source sharing solution built on OpenZiti. | https://zrok.io/ |
 | **zsh** | 5.9-7 | Shell with lots of features | https://www.zsh.org |
 | **zsh-completions** | 0.35.0 | Additional completion definitions for Zsh | https://github.com/zsh-users/zsh-completions |
 | **zssh** | 1.5c-1 | A program for interactively transferring files to a remote machine while using the secure shell (ssh) | http://zssh.sourceforge.net/ |

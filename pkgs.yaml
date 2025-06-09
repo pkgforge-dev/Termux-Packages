@@ -255,7 +255,7 @@
   Description: APT transport for anonymous package downloads via Tor
   Homepage: https://packages.debian.org/apt
 - Package: aptly
-  Version: 1.6.1
+  Version: 1.6.2
   Description: A Swiss Army knife for Debian repository management
   Homepage: https://www.aptly.info
 - Package: argon2
@@ -5091,7 +5091,7 @@
   Description: GPL reimplementation of libdjb
   Homepage: http://www.fefe.de/libowfat/
 - Package: libp11
-  Version: 0.4.14
+  Version: 0.4.15
   Description: PKCS#11 wrapper library
   Homepage: https://github.com/OpenSC/libp11
 - Package: libp8-platform
@@ -7411,7 +7411,7 @@
   Description: The most efficient usenet downloader
   Homepage: https://nzbget.net/
 - Package: o-editor
-  Version: 2.69.0
+  Version: 2.70.0
   Description: Small, fast and limited text editor
   Homepage: https://github.com/xyproto/o
 - Package: oathtool
@@ -10879,7 +10879,7 @@
   Description: Programmable file compressor, library and utilities. Based on the PAQ compression algorithm
   Homepage: http://mattmahoney.net/dc/zpaq.html
 - Package: zrok
-  Version: 1.0.4
+  Version: 1.0.5
   Description: An open source sharing solution built on OpenZiti.
   Homepage: https://zrok.io/
 - Package: zsh
