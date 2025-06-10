@@ -420,10 +420,10 @@
  eltclsh  1.19-2  Interactive shell for TCL programming language  https://homepages.laas.fr/mallet/soft/shell/eltclsh 
  elvish  0.21.0  A friendly and expressive Unix shell  https://github.com/elves/elvish 
  emacs  30.1-1  Extensible, customizable text editor-and more  https://www.gnu.org/software/emacs/ 
- emscripten  4.0.9  Emscripten: An LLVM-to-WebAssembly Compiler  https://emscripten.org 
- emscripten-binaryen  4.0.9  Emscripten-compatible Binaryen  https://emscripten.org 
- emscripten-llvm  4.0.9  Emscripten-compatible LLVM  https://emscripten.org 
- emscripten-tests-third-party  4.0.9  Emscripten third party test suite files  https://emscripten.org 
+ emscripten  4.0.10  Emscripten: An LLVM-to-WebAssembly Compiler  https://emscripten.org 
+ emscripten-binaryen  4.0.10  Emscripten-compatible Binaryen  https://emscripten.org 
+ emscripten-llvm  4.0.10  Emscripten-compatible LLVM  https://emscripten.org 
+ emscripten-tests-third-party  4.0.10  Emscripten third party test suite files  https://emscripten.org 
  enblend  4.2.0p20161007-6  A tool for compositing images using a Burt&Adelson multiresolution spline  https://enblend.sourceforge.net/ 
  enchant  2.8.6  Wraps a number of different spelling libraries and programs with a consistent interface  https://rrthomas.github.io/enchant/ 
  enchant-static  2.8.6  Static libraries for enchant  https://rrthomas.github.io/enchant/ 
@@ -554,7 +554,7 @@
  gflags  2.2.2-9  A C++ library that implements commandline flags processing  https://github.com/gflags/gflags 
  gflags-static  2.2.2-9  Static libraries for gflags  https://github.com/gflags/gflags 
  gforth  0.7.3-1  The Forth implementation of the GNU project  https://www.gnu.org/software/gforth/ 
- gh  2.74.0  GitHub’s official command line tool  https://cli.github.com/ 
+ gh  2.74.1  GitHub’s official command line tool  https://cli.github.com/ 
  ghc  9.12.2  The Glasgow Haskell Compiler  https://www.haskell.org/ghc/ 
  ghc-libs  9.2.5-1  The Glasgow Haskell Compiler libraries  https://www.haskell.org/ghc/ 
  ghc-libs-static  8.10.7-3  Static libraries for ghc-libs  https://www.haskell.org/ghc/ 
@@ -1116,9 +1116,9 @@
  libjansson-static  2.14.1  Static libraries for libjansson  http://www.digip.org/jansson/ 
  libjasper  4.2.5  Library for manipulating JPEG-2000 files  http://www.ece.uvic.ca/~frodo/jasper/ 
  libjasper-utils  4.2.5  JPEG-2000 utilities  http://www.ece.uvic.ca/~frodo/jasper/ 
- libjpeg-turbo  3.1.0  Library for reading and writing JPEG image files  https://libjpeg-turbo.virtualgl.org 
- libjpeg-turbo-progs  3.1.0  Programs for manipulating JPEG files  https://libjpeg-turbo.virtualgl.org 
- libjpeg-turbo-static  3.1.0  Static libraries for libjpeg-turbo  https://libjpeg-turbo.virtualgl.org 
+ libjpeg-turbo  3.1.1  Library for reading and writing JPEG image files  https://libjpeg-turbo.virtualgl.org 
+ libjpeg-turbo-progs  3.1.1  Programs for manipulating JPEG files  https://libjpeg-turbo.virtualgl.org 
+ libjpeg-turbo-static  3.1.1  Static libraries for libjpeg-turbo  https://libjpeg-turbo.virtualgl.org 
  libjxl  0.11.1  JPEG XL image format reference implementation  https://jpegxl.info/ 
  libjxl-progs  0.11.1  Programs for manipulating JPEG XL files  https://jpegxl.info/ 
  libkiwix  13.1.0-3  A library that contains a lot of things used by other kiwix programs  https://github.com/kiwix/libkiwix 
@@ -1436,8 +1436,8 @@
  libtorrent  0.15.4  Libtorrent BitTorrent library  https://github.com/rakshasa/rtorrent/wiki 
  libtorrent-rasterbar  2.0.11-2  A feature complete C++ bittorrent implementation focusing on efficiency and scalability  https://libtorrent.org/ 
  libtorrent-static  0.15.4  Static libraries for libtorrent  https://github.com/rakshasa/rtorrent/wiki 
- libtpms  0.10.0  Provides software emulation of a Trusted Platform Module (TPM 1.2 and TPM 2.0)  https://github.com/stefanberger/libtpms 
- libtpms-static  0.10.0  Static libraries for libtpms  https://github.com/stefanberger/libtpms 
+ libtpms  0.10.1  Provides software emulation of a Trusted Platform Module (TPM 1.2 and TPM 2.0)  https://github.com/stefanberger/libtpms 
+ libtpms-static  0.10.1  Static libraries for libtpms  https://github.com/stefanberger/libtpms 
  libtranscript  0.3.4  A character-set conversion library  https://os.ghalkes.nl/libtranscript.html 
  libtree-ldd  3.1.1-1  Like ldd(1), but prints a tree(1) like output  https://github.com/haampie/libtree 
  libtreesitter  0.22.6-1  An incremental parsing system for programming tools  https://github.com/tree-sitter/tree-sitter 
@@ -1860,7 +1860,7 @@
  octomap  1.10.0  An efficient probabilistic 3D mapping framework based on octrees  https://github.com/OctoMap/octomap 
  octomap-static  1.10.0  Static libraries for octomap  https://github.com/OctoMap/octomap 
  odt2txt  0.5-4  Simple converter from OpenDocument Text to plain text  https://github.com/dstosberg/odt2txt 
- oh-my-posh  26.6.0  A prompt theme engine for any shell.  https://ohmyposh.dev 
+ oh-my-posh  26.6.1  A prompt theme engine for any shell.  https://ohmyposh.dev 
  okc-agents  0.1.2  OpenKeychain agents for GnuPG and OpenSSH  https://github.com/DDoSolitary/okc-agents 
  ol  2.6-2  Purely functional dialect of Lisp  https://yuriy-chumak.github.io/ol/ 
  oleo  1.99.16-9  The GNU Spreadsheet  https://www.gnu.org/software/oleo/ 

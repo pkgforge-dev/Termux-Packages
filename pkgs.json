@@ -2533,25 +2533,25 @@
   },
   {
     "Package": "emscripten",
-    "Version": "4.0.9",
+    "Version": "4.0.10",
     "Description": "Emscripten: An LLVM-to-WebAssembly Compiler",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-binaryen",
-    "Version": "4.0.9",
+    "Version": "4.0.10",
     "Description": "Emscripten-compatible Binaryen",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-llvm",
-    "Version": "4.0.9",
+    "Version": "4.0.10",
     "Description": "Emscripten-compatible LLVM",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-tests-third-party",
-    "Version": "4.0.9",
+    "Version": "4.0.10",
     "Description": "Emscripten third party test suite files",
     "Homepage": "https://emscripten.org"
   },
@@ -3337,7 +3337,7 @@
   },
   {
     "Package": "gh",
-    "Version": "2.74.0",
+    "Version": "2.74.1",
     "Description": "GitHub’s official command line tool",
     "Homepage": "https://cli.github.com/"
   },
@@ -6709,19 +6709,19 @@
   },
   {
     "Package": "libjpeg-turbo",
-    "Version": "3.1.0",
+    "Version": "3.1.1",
     "Description": "Library for reading and writing JPEG image files",
     "Homepage": "https://libjpeg-turbo.virtualgl.org"
   },
   {
     "Package": "libjpeg-turbo-progs",
-    "Version": "3.1.0",
+    "Version": "3.1.1",
     "Description": "Programs for manipulating JPEG files",
     "Homepage": "https://libjpeg-turbo.virtualgl.org"
   },
   {
     "Package": "libjpeg-turbo-static",
-    "Version": "3.1.0",
+    "Version": "3.1.1",
     "Description": "Static libraries for libjpeg-turbo",
     "Homepage": "https://libjpeg-turbo.virtualgl.org"
   },
@@ -8629,13 +8629,13 @@
   },
   {
     "Package": "libtpms",
-    "Version": "0.10.0",
+    "Version": "0.10.1",
     "Description": "Provides software emulation of a Trusted Platform Module (TPM 1.2 and TPM 2.0)",
     "Homepage": "https://github.com/stefanberger/libtpms"
   },
   {
     "Package": "libtpms-static",
-    "Version": "0.10.0",
+    "Version": "0.10.1",
     "Description": "Static libraries for libtpms",
     "Homepage": "https://github.com/stefanberger/libtpms"
   },
@@ -11173,7 +11173,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "26.6.0",
+    "Version": "26.6.1",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
