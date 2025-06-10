@@ -635,7 +635,7 @@
   Description: Static libraries for boost
   Homepage: https://boost.org
 - Package: bore
-  Version: 0.5.3
+  Version: 0.6.0
   Description: Bore is a simple CLI tool for making tunnels to localhost
   Homepage: https://github.com/ekzhang/bore
 - Package: borgbackup
@@ -6911,7 +6911,7 @@
   Description: Tool to find files anywhere in the filesystem based on their name
   Homepage: https://pagure.io/mlocate
 - Package: moar
-  Version: 1.31.8
+  Version: 1.31.9
   Description: A pager designed to just do the right thing without any configuration
   Homepage: https://github.com/walles/moar
 - Package: mold
@@ -7447,7 +7447,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 26.5.0
+  Version: 26.6.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -8027,7 +8027,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pocketbase
-  Version: 0.28.2
+  Version: 0.28.3
   Description: An open source Go backend
   Homepage: https://github.com/pocketbase/pocketbase
 - Package: poke
@@ -8283,7 +8283,7 @@
   Description: Python library for calculating contours in 2D quadrilateral grids
   Homepage: https://contourpy.readthedocs.io/
 - Package: python-cryptography
-  Version: 45.0.3
+  Version: 45.0.4
   Description: Provides cryptographic recipes and primitives to Python developers
   Homepage: https://github.com/pyca/cryptography
 - Package: python-ensurepip-wheels
@@ -8399,7 +8399,7 @@
   Description: The Python X Library
   Homepage: https://github.com/python-xlib/python-xlib
 - Package: python-yt-dlp
-  Version: 2025.05.22
+  Version: 2025.06.09
   Description: A youtube-dl fork with additional features and fixes
   Homepage: https://github.com/yt-dlp/yt-dlp
 - Package: python2
@@ -8723,7 +8723,7 @@
   Description: Restics REST backend API server
   Homepage: https://restic.net/
 - Package: restish
-  Version: 0.20.0
+  Version: 0.21.0
   Description: A CLI for interacting with REST-ish HTTP APIs
   Homepage: https://github.com/danielgtaylor/restish
 - Package: rgbds
@@ -10419,7 +10419,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2025.06.08
+  Version: 2025.06.09
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://vtm.netxs.online/
 - Package: vttest
