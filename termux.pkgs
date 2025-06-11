@@ -775,7 +775,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-1 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.22.2004 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.22.2008 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **janet** | 1.38.0 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
 | **jbig2dec** | 0.20 | Decoder implementation of the JBIG2 image compression format | https://jbig2dec.com/ |
 | **jbig2dec-static** | 0.20 | Static libraries for jbig2dec | https://jbig2dec.com/ |
@@ -1066,8 +1066,8 @@
 | **libgts** | 0.7.6-1 | Provides useful functions to deal with 3D surfaces meshed with interconnected triangles | https://gts.sourceforge.net/ |
 | **libgts-static** | 0.7.6-1 | Static libraries for libgts | https://gts.sourceforge.net/ |
 | **libgxps** | 0.3.2-2 | handling and rendering XPS documents | https://wiki.gnome.org/libgxps |
-| **libhangul** | 0.1.0-p20230415-2 | A library to support hangul input method logic | https://github.com/libhangul/libhangul |
-| **libhangul-static** | 0.1.0-p20230415-2 | Static libraries for libhangul | https://github.com/libhangul/libhangul |
+| **libhangul** | 0.2.0 | A library to support hangul input method logic | https://github.com/libhangul/libhangul |
+| **libhangul-static** | 0.2.0 | Static libraries for libhangul | https://github.com/libhangul/libhangul |
 | **libhdf5** | 1.14.4.3 | Hierarchical Data Format 5 (HDF5) | https://portal.hdfgroup.org/display/support |
 | **libhdf5-static** | 1.14.4.3 | Static libraries for libhdf5 | https://portal.hdfgroup.org/display/support |
 | **libheif** | 1.19.8 | HEIF (HEIC/AVIF) image encoding and decoding library | https://github.com/strukturag/libheif |

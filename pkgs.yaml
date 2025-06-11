@@ -3107,7 +3107,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.2004
+  Version: 0.22.2008
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: janet
@@ -4271,11 +4271,11 @@
   Description: handling and rendering XPS documents
   Homepage: https://wiki.gnome.org/libgxps
 - Package: libhangul
-  Version: 0.1.0-p20230415-2
+  Version: 0.2.0
   Description: A library to support hangul input method logic
   Homepage: https://github.com/libhangul/libhangul
 - Package: libhangul-static
-  Version: 0.1.0-p20230415-2
+  Version: 0.2.0
   Description: Static libraries for libhangul
   Homepage: https://github.com/libhangul/libhangul
 - Package: libhdf5
