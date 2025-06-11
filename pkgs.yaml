@@ -1863,11 +1863,11 @@
   Description: A fast, simple, recursive content discovery tool written in Rust
   Homepage: https://github.com/epi052/feroxbuster
 - Package: fetchmail
-  Version: 6.5.2
+  Version: 6.5.3
   Description: A remote-mail retrieval utility
   Homepage: https://www.fetchmail.info/
 - Package: fetchmailconf
-  Version: 6.5.2
+  Version: 6.5.3
   Description: A GUI configurator for generating fetchmail configuration files
   Homepage: https://www.fetchmail.info/
 - Package: fff
@@ -7395,7 +7395,7 @@
   Description: ncurses based sudoku game
   Homepage: http://jubalh.github.io/nudoku/
 - Package: nushell
-  Version: 0.104.1
+  Version: 0.105.1
   Description: A new type of shell operating on structured data
   Homepage: https://www.nushell.sh
 - Package: nwipe
