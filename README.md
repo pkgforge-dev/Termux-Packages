@@ -1424,8 +1424,8 @@
 | **libtatsu** | 1.0.5 | Library handling the communication with Apple's Tatsu Signing Server (TSS) | https://libimobiledevice.org/ |
 | **libtatsu-static** | 1.0.5 | Static libraries for libtatsu | https://libimobiledevice.org/ |
 | **libtbb** | 2022.1.0 | oneAPI Threading Building Blocks | https://oneapi-src.github.io/oneTBB/ |
-| **libtd** | 1.8.0 | Library for building Telegram clients | https://core.telegram.org/tdlib/ |
-| **libtd-static** | 1.8.0 | Static libraries for libtd | https://core.telegram.org/tdlib/ |
+| **libtd** | 1.8.50 | Library for building Telegram clients | https://core.telegram.org/tdlib/ |
+| **libtd-static** | 1.8.50 | Static libraries for libtd | https://core.telegram.org/tdlib/ |
 | **libtdb** | 1.4.13 | A trivial database system | https://tdb.samba.org/ |
 | **libtermkey** | 0.22-3 | Library for processing of keyboard entry for terminal-based programs | http://www.leonerd.org.uk/code/libtermkey/ |
 | **libtheora** | 1.2.0 | An open video codec developed by the Xiph.org | https://www.theora.org/ |
@@ -2592,6 +2592,8 @@
 | **valgrind-static** | 3.22.0-1 | Static libraries for valgrind | https://valgrind.org/ |
 | **vamp-plugin-sdk** | 2.10-2 | An API for audio analysis and feature extraction plugins | https://www.vamp-plugins.org/ |
 | **vamp-plugin-sdk-static** | 2.10-2 | Static libraries for vamp-plugin-sdk | https://www.vamp-plugins.org/ |
+| **vapoursynth** | 72 | Video processing framework with simplicity in mind | https://www.vapoursynth.com/ |
+| **vapoursynth-static** | 72 | Static libraries for vapoursynth | https://www.vapoursynth.com/ |
 | **vbindiff** | 3.0-beta5-0 | Visual binary diff | https://www.cjmweb.net/vbindiff/ |
 | **vcsh** | 2.0.10 | Config manager based on Git | https://github.com/RichiH/vcsh |
 | **vde2** | 2.3.3-3 | Virtual Distributed Ethernet for emulators like qemu | https://github.com/virtualsquare/vde-2 |

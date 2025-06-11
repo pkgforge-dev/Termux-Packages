@@ -5655,11 +5655,11 @@
   Description: oneAPI Threading Building Blocks
   Homepage: https://oneapi-src.github.io/oneTBB/
 - Package: libtd
-  Version: 1.8.0
+  Version: 1.8.50
   Description: Library for building Telegram clients
   Homepage: https://core.telegram.org/tdlib/
 - Package: libtd-static
-  Version: 1.8.0
+  Version: 1.8.50
   Description: Static libraries for libtd
   Homepage: https://core.telegram.org/tdlib/
 - Package: libtdb
@@ -10326,6 +10326,14 @@
   Version: 2.10-2
   Description: Static libraries for vamp-plugin-sdk
   Homepage: https://www.vamp-plugins.org/
+- Package: vapoursynth
+  Version: "72"
+  Description: Video processing framework with simplicity in mind
+  Homepage: https://www.vapoursynth.com/
+- Package: vapoursynth-static
+  Version: "72"
+  Description: Static libraries for vapoursynth
+  Homepage: https://www.vapoursynth.com/
 - Package: vbindiff
   Version: 3.0-beta5-0
   Description: Visual binary diff
