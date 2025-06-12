@@ -690,7 +690,7 @@
 | **gumbo-parser** | 0.10.1 | An HTML5 parsing library | https://github.com/google/gumbo-parser |
 | **gumbo-parser-static** | 0.10.1 | Static libraries for gumbo-parser | https://github.com/google/gumbo-parser |
 | **gzip** | 1.14 | Standard GNU file compression utilities | https://www.gnu.org/software/gzip/ |
-| **haproxy** | 3.2.0 | The Reliable, High Performance TCP/HTTP Load Balancer | https://www.haproxy.org/ |
+| **haproxy** | 3.2.1 | The Reliable, High Performance TCP/HTTP Load Balancer | https://www.haproxy.org/ |
 | **harfbuzz** | 11.2.1 | OpenType text shaping engine | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
 | **harfbuzz-icu** | 11.2.1 | OpenType text shaping engine ICU backend | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
 | **harfbuzz-utils** | 11.2.1 | Tools using the harfbuzz library | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
@@ -824,7 +824,7 @@
 | **kakoune** | 2025.06.03 | Code editor heavily inspired by Vim | https://kakoune.org/ |
 | **kakoune-lsp** | 18.2.0 | Language Server Protocol Client for the Kakoune editor | https://github.com/kakoune-lsp/kakoune-lsp |
 | **kbd** | 2.8.0 | KBD's showkey utility for examining keycodes | https://kbd-project.org/ |
-| **kcptun** | 20250427 | A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC | https://github.com/xtaci/kcptun |
+| **kcptun** | 20250612 | A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC | https://github.com/xtaci/kcptun |
 | **keybase** | 6.5.1 | Key directory that maps social media identities to encryption keys | https://keybase.io |
 | **keychain** | 2.9.5 | keychain ssh-agent front-end | https://www.funtoo.org/Keychain |
 | **kibi** | 0.2.2-1 | A tiny terminal text editor, written in Rust | https://github.com/ilai-deutel/kibi |
