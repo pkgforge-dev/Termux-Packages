@@ -3107,7 +3107,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.2011
+  Version: 0.22.2015
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: janet
@@ -9951,11 +9951,11 @@
   Description: Recursive directory lister producing a depth indented listing of files
   Homepage: http://mama.indstate.edu/users/ice/tree/
 - Package: tree-sitter
-  Version: 0.25.6-3
+  Version: 0.25.6-4
   Description: An incremental parsing system for programming tools
   Homepage: https://github.com/tree-sitter/tree-sitter
 - Package: tree-sitter-c
-  Version: 0.24.1-1
+  Version: 0.24.1-2
   Description: C grammar for tree-sitter
   Homepage: https://github.com/tree-sitter/tree-sitter-c
 - Package: tree-sitter-c-static
@@ -9967,7 +9967,7 @@
   Description: Tools for cross build on the host (NOT for Termux)
   Homepage: https://github.com/tree-sitter/tree-sitter
 - Package: tree-sitter-lua
-  Version: 0.4.0-1
+  Version: 0.4.0-2
   Description: Lua grammar for tree-sitter
   Homepage: https://github.com/tree-sitter-grammars/tree-sitter-lua
 - Package: tree-sitter-lua-static
@@ -9975,7 +9975,7 @@
   Description: Static libraries for tree-sitter-lua
   Homepage: https://github.com/tree-sitter-grammars
 - Package: tree-sitter-markdown
-  Version: 0.5.0-2
+  Version: 0.5.0-3
   Description: Markdown grammar for tree-sitter
   Homepage: https://github.com/tree-sitter-grammars/tree-sitter-markdown
 - Package: tree-sitter-markdown-static
@@ -9983,11 +9983,11 @@
   Description: Static libraries for tree-sitter-markdown
   Homepage: https://github.com/tree-sitter-grammars
 - Package: tree-sitter-parsers
-  Version: 0.0.4
+  Version: 0.0.5
   Description: A metapackage that provides commonly used treesitter parsers
   Homepage: https://github.com/termux/termux-packages
 - Package: tree-sitter-query
-  Version: 0.6.1
+  Version: 0.6.1-1
   Description: TS query grammar for tree-sitter
   Homepage: https://github.com/tree-sitter-grammars/tree-sitter-query
 - Package: tree-sitter-query-static
@@ -9995,23 +9995,23 @@
   Description: Static libraries for tree-sitter-query
   Homepage: https://github.com/tree-sitter-grammars
 - Package: tree-sitter-static
-  Version: 0.25.6-3
+  Version: 0.25.6-4
   Description: Static libraries for tree-sitter
   Homepage: https://github.com/tree-sitter/tree-sitter
 - Package: tree-sitter-vim
-  Version: 0.6.0-1
+  Version: 0.6.0-2
   Description: Vimscript grammar for tree-sitter
   Homepage: https://github.com/tree-sitter-grammars/tree-sitter-vim
 - Package: tree-sitter-vim-static
-  Version: 0.6.0-1
+  Version: 0.6.0-2
   Description: Static libraries for tree-sitter-vim
   Homepage: https://github.com/tree-sitter-grammars/tree-sitter-vim
 - Package: tree-sitter-vimdoc
-  Version: 4.0.0-1
+  Version: 4.0.0-2
   Description: Tree-sitter parser for Vim help files
   Homepage: https://github.com/neovim/tree-sitter-vimdoc
 - Package: tree-sitter-vimdoc-static
-  Version: 4.0.0-1
+  Version: 4.0.0-2
   Description: Static libraries for tree-sitter-vimdoc
   Homepage: https://github.com/neovim/tree-sitter-vimdoc
 - Package: trojan-go
