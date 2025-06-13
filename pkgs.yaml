@@ -2327,7 +2327,7 @@
   Description: A friendly language for building type-safe, scalable systems!
   Homepage: https://gleam.run
 - Package: glib
-  Version: 2.84.2
+  Version: 2.84.3
   Description: Library providing core building blocks for libraries and applications written in C
   Homepage: https://developer.gnome.org/glib/
 - Package: glib-bin
@@ -2335,7 +2335,7 @@
   Description: Programs for the GLib library
   Homepage: https://developer.gnome.org/glib/
 - Package: glib-cross
-  Version: 2.84.2
+  Version: 2.84.3
   Description: glib for host (NOT for Termux)
   Homepage: https://developer.gnome.org/glib/
 - Package: glib-networking
@@ -8307,7 +8307,7 @@
   Description: Python binding for the libxml2 and libxslt libraries
   Homepage: https://github.com/lxml/lxml
 - Package: python-msgpack
-  Version: 1.1.0-1
+  Version: 1.1.1
   Description: MessagePack serializer implementation for Python
   Homepage: https://github.com/msgpack/msgpack-python
 - Package: python-numpy
@@ -9631,7 +9631,7 @@
   Description: Tools for TDB
   Homepage: https://tdb.samba.org/
 - Package: tdl
-  Version: 0.18.5
+  Version: 0.19.0
   Description: Telegram downloader/tools written in Golang
   Homepage: https://docs.iyear.me/tdl/
 - Package: tea
@@ -10435,7 +10435,7 @@
   Description: Vulkan Extension Layer
   Homepage: https://github.com/KhronosGroup/Vulkan-ExtensionLayer
 - Package: vulkan-headers
-  Version: 1.4.317
+  Version: 1.4.318
   Description: Vulkan Header files and API registry
   Homepage: https://github.com/KhronosGroup/Vulkan-Headers
 - Package: vulkan-icd
@@ -10879,7 +10879,7 @@
   Description: Programmable file compressor, library and utilities. Based on the PAQ compression algorithm
   Homepage: http://mattmahoney.net/dc/zpaq.html
 - Package: zrok
-  Version: 1.0.5
+  Version: 1.0.6
   Description: An open source sharing solution built on OpenZiti.
   Homepage: https://zrok.io/
 - Package: zsh
