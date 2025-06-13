@@ -676,7 +676,6 @@
 | **gst-libav** | 1.26.2 | GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code | https://gstreamer.freedesktop.org/modules/gst-libav.html |
 | **gst-plugins-bad** | 1.26.2 | GStreamer Bad Plug-ins | https://gstreamer.freedesktop.org/ |
 | **gst-plugins-base** | 1.26.2-1 | GStreamer base plug-ins | https://gstreamer.freedesktop.org/ |
-| **gst-plugins-gl-headers** | 1.26.2 | OpenGL headers for GStreamer plugins | https://gstreamer.freedesktop.org/ |
 | **gst-plugins-good** | 1.26.2 | GStreamer Good Plug-ins | https://gstreamer.freedesktop.org/ |
 | **gst-plugins-ugly** | 1.26.2 | GStreamer Ugly Plug-ins | https://gstreamer.freedesktop.org/ |
 | **gst-python** | 1.26.2 | Python bindings for GStreamer | https://gstreamer.freedesktop.org/ |
@@ -1307,8 +1306,8 @@
 | **libplist-static** | 2.7.0 | Static libraries for libplist | https://libimobiledevice.org |
 | **libpluto** | 0.11.1 | Shared library for the Pluto interpreter | https://plutolang.github.io/ |
 | **libpluto-static** | 0.11.1 | Static libraries for libpluto | https://plutolang.github.io/ |
-| **libpng** | 1.6.48 | Official PNG reference library | http://www.libpng.org/pub/png/libpng.html |
-| **libpng-static** | 1.6.48 | Static libraries for libpng | http://www.libpng.org/pub/png/libpng.html |
+| **libpng** | 1.6.49 | Official PNG reference library | http://www.libpng.org/pub/png/libpng.html |
+| **libpng-static** | 1.6.49 | Static libraries for libpng | http://www.libpng.org/pub/png/libpng.html |
 | **libpngwriter** | 0.7.0 | C++ library for creating PNG images | http://pngwriter.sourceforge.net |
 | **libpngwriter-static** | 0.7.0 | Static libraries for libpngwriter | http://pngwriter.sourceforge.net |
 | **libpoco** | 1.14.2 | A comprehensive set of C++ libraries that cover all modern-day programming needs | https://pocoproject.org/ |
@@ -2230,7 +2229,7 @@
 | **ruff** | 0.11.13 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
 | **runit** | 2.1.2-3 | Tools to provide service supervision and to manage services | http://smarden.org/runit |
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
-| **rush** | 0.6.1 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
+| **rush** | 0.7.0 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
 | **rust** | 1.87.0-1 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
 | **rust-analyzer** | 20250609 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
 | **rust-bindgen** | 0.72.0 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
@@ -2486,7 +2485,7 @@
 | **tokei** | 13.0.0-alpha.8-0 | A blazingly fast CLOC (Count Lines Of Code) program | https://github.com/XAMPPRocky/tokei |
 | **tome2** | 2022.12.27-5 | An open world roguelike adventure set in middle earth | https://github.com/tome2/tome2 |
 | **toml11** | 4.4.0 | toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library | https://github.com/ToruNiina/toml11 |
-| **topgrade** | 16.0.3 | Upgrade all the things | https://github.com/topgrade-rs/topgrade/ |
+| **topgrade** | 16.0.4 | Upgrade all the things | https://github.com/topgrade-rs/topgrade/ |
 | **tor** | 0.4.8.16-1 | The Onion Router anonymizing overlay network | https://www.torproject.org |
 | **torchaudio-ffmpeg** | 2.6.0 | Minimal FFmpeg libraries for python-torchaudio | https://github.com/pytorch/audio |
 | **torsocks** | 2.5.0 | Wrapper to safely torify applications | https://gitlab.torproject.org/tpo/core/torsocks |
@@ -2501,7 +2500,6 @@
 | **tree-sitter** | 0.25.6-4 | An incremental parsing system for programming tools | https://github.com/tree-sitter/tree-sitter |
 | **tree-sitter-c** | 0.24.1-2 | C grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-c |
 | **tree-sitter-c-static** | 0.23.1 | Static libraries for tree-sitter-c | https://github.com/tree-sitter |
-| **tree-sitter-cross-tools** | 0.25.6-3 | Tools for cross build on the host (NOT for Termux) | https://github.com/tree-sitter/tree-sitter |
 | **tree-sitter-lua** | 0.4.0-2 | Lua grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-lua |
 | **tree-sitter-lua-static** | 0.2.0 | Static libraries for tree-sitter-lua | https://github.com/tree-sitter-grammars |
 | **tree-sitter-markdown** | 0.5.0-3 | Markdown grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-markdown |

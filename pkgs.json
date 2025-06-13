@@ -3996,12 +3996,6 @@
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
   {
-    "Package": "gst-plugins-gl-headers",
-    "Version": "1.26.2",
-    "Description": "OpenGL headers for GStreamer plugins",
-    "Homepage": "https://gstreamer.freedesktop.org/"
-  },
-  {
     "Package": "gst-plugins-good",
     "Version": "1.26.2",
     "Description": "GStreamer Good Plug-ins",
@@ -7783,13 +7777,13 @@
   },
   {
     "Package": "libpng",
-    "Version": "1.6.48",
+    "Version": "1.6.49",
     "Description": "Official PNG reference library",
     "Homepage": "http://www.libpng.org/pub/png/libpng.html"
   },
   {
     "Package": "libpng-static",
-    "Version": "1.6.48",
+    "Version": "1.6.49",
     "Description": "Static libraries for libpng",
     "Homepage": "http://www.libpng.org/pub/png/libpng.html"
   },
@@ -13321,7 +13315,7 @@
   },
   {
     "Package": "rush",
-    "Version": "0.6.1",
+    "Version": "0.7.0",
     "Description": "A cross-platform command-line tool for executing jobs in parallel",
     "Homepage": "https://github.com/shenwei356/rush"
   },
@@ -14857,7 +14851,7 @@
   },
   {
     "Package": "topgrade",
-    "Version": "16.0.3",
+    "Version": "16.0.4",
     "Description": "Upgrade all the things",
     "Homepage": "https://github.com/topgrade-rs/topgrade/"
   },
@@ -14944,12 +14938,6 @@
     "Version": "0.23.1",
     "Description": "Static libraries for tree-sitter-c",
     "Homepage": "https://github.com/tree-sitter"
-  },
-  {
-    "Package": "tree-sitter-cross-tools",
-    "Version": "0.25.6-3",
-    "Description": "Tools for cross build on the host (NOT for Termux)",
-    "Homepage": "https://github.com/tree-sitter/tree-sitter"
   },
   {
     "Package": "tree-sitter-lua",
