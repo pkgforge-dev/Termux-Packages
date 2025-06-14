@@ -4734,6 +4734,12 @@
     "Homepage": "https://github.com/go-jira/jira"
   },
   {
+    "Package": "jless",
+    "Version": "0.9.0",
+    "Description": "A command-line JSON viewer designed for reading, exploring, and searching through JSON data.",
+    "Homepage": "https://jless.io"
+  },
+  {
     "Package": "jo",
     "Version": "1.9",
     "Description": "JSON output from a shell",
@@ -10369,7 +10375,7 @@
   },
   {
     "Package": "mold",
-    "Version": "2.40.0",
+    "Version": "2.40.1",
     "Description": "mold: A Modern Linker",
     "Homepage": "https://github.com/rui314/mold"
   },

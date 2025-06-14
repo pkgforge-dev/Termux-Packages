@@ -3154,6 +3154,10 @@
   Version: 1.0.28-2
   Description: Simple jira command line client written in Go
   Homepage: https://github.com/go-jira/jira
+- Package: jless
+  Version: 0.9.0
+  Description: A command-line JSON viewer designed for reading, exploring, and searching through JSON data.
+  Homepage: https://jless.io
 - Package: jo
   Version: "1.9"
   Description: JSON output from a shell
@@ -6911,7 +6915,7 @@
   Description: A pager designed to just do the right thing without any configuration
   Homepage: https://github.com/walles/moar
 - Package: mold
-  Version: 2.40.0
+  Version: 2.40.1
   Description: 'mold: A Modern Linker'
   Homepage: https://github.com/rui314/mold
 - Package: monero
