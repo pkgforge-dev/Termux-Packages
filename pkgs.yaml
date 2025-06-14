@@ -2767,7 +2767,7 @@
   Description: Helm helps you manage Kubernetes applications
   Homepage: https://helm.sh
 - Package: helm-ls
-  Version: 0.4.0
+  Version: 0.4.1
   Description: Language server for Helm
   Homepage: https://github.com/mrjosh/helm-ls
 - Package: help2man
@@ -7447,7 +7447,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 26.7.0
+  Version: 26.8.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
