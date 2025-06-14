@@ -2198,7 +2198,7 @@
 | **rinetd** | 1:0.73-1 | A user-mode TCP port redirection server | https://github.com/samhocevar/rinetd |
 | **rip** | 0.13.1-1 | A command-line deletion tool focused on safety, ergonomics, and performance | https://github.com/nivekuil/rip |
 | **rip2** | 0.9.4 | A safe and ergonomic alternative to rm | https://github.com/MilesCranmer/rip2 |
-| **ripgrep** | 14.1.1 | Search tool like grep and The Silver Searcher | https://github.com/BurntSushi/ripgrep |
+| **ripgrep** | 14.1.1-1 | Search tool like grep and The Silver Searcher | https://github.com/BurntSushi/ripgrep |
 | **ripgrep-all** | 1.0.0-alpha.5-3 | Search tool able to locate in PDFs, E-Books, zip, tar.gz, etc | https://github.com/phiresky/ripgrep-all |
 | **ripsecrets** | 0.1.11 | A command-line tool to prevent committing secret keys into your source code | https://github.com/sirwart/ripsecrets |
 | **rirc** | 0.1.7-1 | A terminal IRC client in C | https://github.com/rcr/rirc |
