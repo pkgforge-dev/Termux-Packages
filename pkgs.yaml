@@ -779,7 +779,7 @@
   Description: Sync calcurse with remote caldav calendar
   Homepage: https://calcurse.org/
 - Package: capnproto
-  Version: 1.1.0
+  Version: 1.2.0
   Description: Data interchange format and capability-based RPC system
   Homepage: https://capnproto.org/
 - Package: capstone
@@ -5551,15 +5551,15 @@
   Description: Static libraries for libspeex
   Homepage: https://www.speex.org/
 - Package: libspice-protocol
-  Version: 0.14.4
+  Version: 0.14.5
   Description: SPICE protocol headers
   Homepage: https://www.spice-space.org/
 - Package: libspice-server
-  Version: 0.15.2
+  Version: 0.16.0
   Description: Implements the server side of the SPICE protocol
   Homepage: https://www.spice-space.org/
 - Package: libspice-server-static
-  Version: 0.15.2
+  Version: 0.16.0
   Description: Static libraries for libspice-server
   Homepage: https://www.spice-space.org/
 - Package: libsqlite
@@ -9595,7 +9595,7 @@
   Description: A Library for reading and editing the meta-data of several popular audio formats.
   Homepage: http://taglib.github.io/
 - Package: taplo
-  Version: 0.9.3
+  Version: 0.10.0
   Description: A TOML LSP and toolkit
   Homepage: https://taplo.tamasfe.dev/
 - Package: tar
@@ -10675,7 +10675,7 @@
   Description: A command-line tool for converting XLS to CSV
   Homepage: https://github.com/libxls/libxls
 - Package: xmake
-  Version: 2.9.9
+  Version: 3.0.0
   Description: A cross-platform build utility based on Lua
   Homepage: https://xmake.io/
 - Package: xmlsec
