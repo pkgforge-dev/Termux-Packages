@@ -1256,8 +1256,8 @@
 | **libopencore-amr** | 0.1.6 | Open source implementation of the Adaptive Multi Rate (AMR) speech codec | https://sourceforge.net/projects/opencore-amr |
 | **libopencore-amr-static** | 0.1.6 | Static libraries for libopencore-amr | https://sourceforge.net/projects/opencore-amr |
 | **libopenfec** | 1.4.2.12 | Application-Level Forward Erasure Correction implementation library | http://openfec.org |
-| **libopenmpt** | 0.8.0 | OpenMPT based module player library and libopenmpt based command-line player | https://lib.openmpt.org/libopenmpt/ |
-| **libopenmpt-static** | 0.8.0 | Static libraries for libopenmpt | https://lib.openmpt.org/libopenmpt/ |
+| **libopenmpt** | 0.8.1 | OpenMPT based module player library and libopenmpt based command-line player | https://lib.openmpt.org/libopenmpt/ |
+| **libopenmpt-static** | 0.8.1 | Static libraries for libopenmpt | https://lib.openmpt.org/libopenmpt/ |
 | **libopus** | 1.5.2 | Reference implementation of the Opus codec | https://www.opus-codec.org/ |
 | **libopus-static** | 1.5.2 | Static libraries for libopus | https://www.opus-codec.org/ |
 | **libopusenc** | 0.2.1-3 | High-level API for encoding .opus files | https://github.com/xiph/libopusenc |
@@ -2494,7 +2494,7 @@
 | **tree-sitter-markdown** | 0.5.0-3 | Markdown grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-markdown |
 | **tree-sitter-markdown-static** | 0.3.2 | Static libraries for tree-sitter-markdown | https://github.com/tree-sitter-grammars |
 | **tree-sitter-parsers** | 0.0.5 | A metapackage that provides commonly used treesitter parsers | https://github.com/termux/termux-packages |
-| **tree-sitter-query** | 0.6.1-1 | TS query grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-query |
+| **tree-sitter-query** | 0.6.2 | TS query grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-query |
 | **tree-sitter-query-static** | 0.4.0-1 | Static libraries for tree-sitter-query | https://github.com/tree-sitter-grammars |
 | **tree-sitter-static** | 0.25.6-4 | Static libraries for tree-sitter | https://github.com/tree-sitter/tree-sitter |
 | **tree-sitter-vim** | 0.6.0-2 | Vimscript grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-vim |

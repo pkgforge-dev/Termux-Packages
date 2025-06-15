@@ -7549,13 +7549,13 @@
   },
   {
     "Package": "libopenmpt",
-    "Version": "0.8.0",
+    "Version": "0.8.1",
     "Description": "OpenMPT based module player library and libopenmpt based command-line player",
     "Homepage": "https://lib.openmpt.org/libopenmpt/"
   },
   {
     "Package": "libopenmpt-static",
-    "Version": "0.8.0",
+    "Version": "0.8.1",
     "Description": "Static libraries for libopenmpt",
     "Homepage": "https://lib.openmpt.org/libopenmpt/"
   },
@@ -14977,7 +14977,7 @@
   },
   {
     "Package": "tree-sitter-query",
-    "Version": "0.6.1-1",
+    "Version": "0.6.2",
     "Description": "TS query grammar for tree-sitter",
     "Homepage": "https://github.com/tree-sitter-grammars/tree-sitter-query"
   },
