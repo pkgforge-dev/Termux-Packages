@@ -2365,7 +2365,7 @@
   },
   {
     "Package": "duckdb",
-    "Version": "1.3.0",
+    "Version": "1.3.1",
     "Description": "DuckDB Command Line Interface (CLI) shell",
     "Homepage": "https://duckdb.org/"
   },
@@ -5875,13 +5875,13 @@
   },
   {
     "Package": "libduckdb",
-    "Version": "1.3.0",
+    "Version": "1.3.1",
     "Description": "An in-process SQL OLAP database management system",
     "Homepage": "https://duckdb.org/"
   },
   {
     "Package": "libduckdb-static",
-    "Version": "1.3.0",
+    "Version": "1.3.1",
     "Description": "Static libraries for libduckdb",
     "Homepage": "https://duckdb.org/"
   },
@@ -14179,7 +14179,7 @@
   },
   {
     "Package": "storj-uplink",
-    "Version": "1.128.4",
+    "Version": "1.129.2",
     "Description": "Storj DCS Uplink CLI",
     "Homepage": "https://www.storj.io/integrations/uplink-cli"
   },

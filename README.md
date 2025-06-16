@@ -404,7 +404,7 @@
 | **dte** | 1.11.1-1 | A small, configurable console text editor | https://craigbarnes.gitlab.io/dte/ |
 | **dua** | 2.30.1 | View disk space usage and delete unwanted data, fast | https://github.com/Byron/dua-cli |
 | **duc** | 1.4.5 | High-performance disk usage analyzer | http://duc.zevv.nl/ |
-| **duckdb** | 1.3.0 | DuckDB Command Line Interface (CLI) shell | https://duckdb.org/ |
+| **duckdb** | 1.3.1 | DuckDB Command Line Interface (CLI) shell | https://duckdb.org/ |
 | **duf** | 0.8.1-3 | Disk usage/free utility | https://github.com/muesli/duf |
 | **dufs** | 0.43.0-1 | A file server that supports static serving, uploading, searching, accessing control, webdav... | https://github.com/sigoden/dufs |
 | **duktape** | 2.7.0-1 | Simple REPL for Duktape | https://www.duktape.org/ |
@@ -989,8 +989,8 @@
 | **libdmtx** | 0.7.8 | A software library that enables programs to read and write Data Matrix barcodes | https://github.com/dmtx/libdmtx |
 | **libdmtx-static** | 0.7.8 | Static libraries for libdmtx | https://github.com/dmtx/libdmtx |
 | **libdrm** | 2.4.125 | Userspace interface to kernel DRM services | https://dri.freedesktop.org/wiki/ |
-| **libduckdb** | 1.3.0 | An in-process SQL OLAP database management system | https://duckdb.org/ |
-| **libduckdb-static** | 1.3.0 | Static libraries for libduckdb | https://duckdb.org/ |
+| **libduckdb** | 1.3.1 | An in-process SQL OLAP database management system | https://duckdb.org/ |
+| **libduckdb-static** | 1.3.1 | Static libraries for libduckdb | https://duckdb.org/ |
 | **libduktape** | 2.7.0-1 | An embeddable Javascript engine with a focus on portability and compact footprint | https://www.duktape.org/ |
 | **libdvbcsa** | 1.1.0-2 | An implementation of the DVB Common Scrambling Algorithm - DVB/CSA - with encryption and decryption capabilities | https://www.videolan.org/developers/libdvbcsa.html |
 | **libdvbcsa-static** | 1.1.0-2 | Static libraries for libdvbcsa | https://www.videolan.org/developers/libdvbcsa.html |
@@ -2373,7 +2373,7 @@
 | **stoken** | 0.93-2 | Software Token for Linux/UNIX | https://github.com/cernekee/stoken |
 | **stoken-static** | 0.93-2 | Static libraries for stoken | https://github.com/cernekee/stoken |
 | **stone** | 2.4-2 | A TCP/IP repeater in the application layer | https://www.gcd.org/sengoku/stone/ |
-| **storj-uplink** | 1.128.4 | Storj DCS Uplink CLI | https://www.storj.io/integrations/uplink-cli |
+| **storj-uplink** | 1.129.2 | Storj DCS Uplink CLI | https://www.storj.io/integrations/uplink-cli |
 | **stow** | 2.4.1 | Tool for managing the installation of multiple software packages into a single directory | https://www.gnu.org/software/stow/ |
 | **strace** | 6.15 | Debugging utility to monitor system calls and signals received | https://strace.io/ |
 | **streamripper** | 1.64.6-2 | Records and splits streaming mp3 into tracks | http://streamripper.sourceforge.net/ |
