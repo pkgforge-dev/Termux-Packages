@@ -2463,7 +2463,7 @@
   Description: Find visually similar or duplicate images
   Homepage: https://gitlab.com/opennota/findimagedupes
 - Package: go-musicfox
-  Version: 4.6.0
+  Version: 4.6.2
   Description: A netease music player in terminal.
   Homepage: https://github.com/go-musicfox/go-musicfox
 - Package: goaccess
@@ -3055,7 +3055,7 @@
   Description: Utilities for controlling networking
   Homepage: https://wiki.linuxfoundation.org/networking/iproute2
 - Package: ipv6calc
-  Version: 4.3.1
+  Version: 4.3.2
   Description: Does some format changes and calculations of IPv6 addresses
   Homepage: https://www.deepspace6.net/projects/ipv6calc.html
 - Package: ipv6toolkit
@@ -4987,11 +4987,11 @@
   Description: An open source, high performance library for simulating rigid body dynamics
   Homepage: https://www.ode.org
 - Package: libogg
-  Version: 1.3.5
+  Version: 1.3.6
   Description: Library for working with the Ogg multimedia container format
   Homepage: https://xiph.org/ogg/
 - Package: libogg-static
-  Version: 1.3.5
+  Version: 1.3.6
   Description: Static libraries for libogg
   Homepage: https://xiph.org/ogg/
 - Package: liboggz
