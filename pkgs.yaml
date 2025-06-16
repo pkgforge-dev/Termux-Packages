@@ -1707,11 +1707,11 @@
   Description: A tool for compositing images using a Burt&Adelson multiresolution spline
   Homepage: https://enblend.sourceforge.net/
 - Package: enchant
-  Version: 2.8.6
+  Version: 2.8.7
   Description: Wraps a number of different spelling libraries and programs with a consistent interface
   Homepage: https://rrthomas.github.io/enchant/
 - Package: enchant-static
-  Version: 2.8.6
+  Version: 2.8.7
   Description: Static libraries for enchant
   Homepage: https://rrthomas.github.io/enchant/
 - Package: enscript
@@ -1723,11 +1723,11 @@
   Description: Event Notify Test Runner - run arbitrary commands when files change
   Homepage: https://eradman.com/entrproject/
 - Package: erlang
-  Version: "28.0"
+  Version: 28.0.1
   Description: General-purpose concurrent functional programming language
   Homepage: https://www.erlang.org/
 - Package: erlang-doc
-  Version: "28.0"
+  Version: 28.0.1
   Description: Erlang HTML documentation
   Homepage: https://www.erlang.org/
 - Package: esbuild
@@ -6539,7 +6539,7 @@
   Description: A plugin standard for audio systems
   Homepage: https://lv2plug.in/
 - Package: lychee
-  Version: 0.19.0
+  Version: 0.19.1
   Description: A fast, async, resource-friendly link checker written in Rust
   Homepage: https://github.com/lycheeverse/lychee
 - Package: lynx
@@ -8699,7 +8699,7 @@
   Description: In-memory data structure store used as a database, cache and message broker
   Homepage: https://redis.io/
 - Package: remind
-  Version: 1:05.04.00
+  Version: 1:05.04.01
   Description: Sophisticated calendar and alarm program
   Homepage: https://dianne.skoll.ca/projects/remind/
 - Package: renameutils
