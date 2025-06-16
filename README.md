@@ -338,7 +338,7 @@
 | **dictd** | 1.13.3 | Online dictionary client and server | https://sourceforge.net/projects/dict/ |
 | **diff-so-fancy** | 1.4.4 | Good-lookin' diffs. Actually... nah... The best-lookin' diffs | https://github.com/so-fancy/diff-so-fancy |
 | **diffstat** | 1.68 | Displays a histogram of changes to a file | https://invisible-island.net/diffstat/diffstat.html |
-| **difftastic** | 0.63.0 | difft: A structural diff that understands syntax | https://github.com/Wilfred/difftastic |
+| **difftastic** | 0.64.0 | difft: A structural diff that understands syntax | https://github.com/Wilfred/difftastic |
 | **diffutils** | 3.12-1 | Programs (cmp, diff, diff3 and sdiff) related to finding differences between files | https://www.gnu.org/software/diffutils/ |
 | **dirb** | 2.22-4 | Web Directory Fuzzer | http://dirb.sourceforge.net/ |
 | **direnv** | 2.36.0 | Environment switcher for shell | https://github.com/direnv/direnv |
@@ -660,8 +660,8 @@
 | **graphene** | 1.10.8-1 | A thin layer of graphic data types | https://ebassi.github.io/graphene/ |
 | **graphicsmagick** | 1.3.45-3 | Collection of image processing tools | http://www.graphicsmagick.org/ |
 | **graphicsmagick-static** | 1.3.45-3 | Static libraries for graphicsmagick | http://www.graphicsmagick.org/ |
-| **graphviz** | 13.0.0 | Rich set of graph drawing tools | https://www.graphviz.org/ |
-| **graphviz-static** | 13.0.0 | Static libraries for graphviz | https://www.graphviz.org/ |
+| **graphviz** | 13.0.1 | Rich set of graph drawing tools | https://www.graphviz.org/ |
+| **graphviz-static** | 13.0.1 | Static libraries for graphviz | https://www.graphviz.org/ |
 | **greed** | 4.3 | Game where you try to eat as much as possible of the board before munching yourself into a corner | http://www.catb.org/~esr/greed/ |
 | **grep** | 3.12-1 | Command which searches one or more input files for lines containing a match to a specified pattern | https://www.gnu.org/software/grep/ |
 | **grex** | 1.4.5 | Simplifies the task of creating regular expressions | https://github.com/pemistahl/grex |
