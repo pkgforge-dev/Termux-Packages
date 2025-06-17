@@ -2839,7 +2839,7 @@
   Description: A number of simple utilities for manipulating HTML and XML files
   Homepage: https://www.w3.org/Tools/HTML-XML-utils/
 - Package: html2text
-  Version: 1:2.2.3
+  Version: 1:2.3.0
   Description: Utility that converts HTML documents into plain text
   Homepage: http://www.mbayer.de/html2text/
 - Package: htop
@@ -4911,11 +4911,11 @@
   Description: Static libraries for libnftnl
   Homepage: https://www.netfilter.org/projects/libnftnl/
 - Package: libnghttp2
-  Version: 1.65.0
+  Version: 1.66.0
   Description: nghttp HTTP 2.0 library
   Homepage: https://nghttp2.org/
 - Package: libnghttp2-static
-  Version: 1.65.0
+  Version: 1.66.0
   Description: Static libraries for libnghttp2
   Homepage: https://nghttp2.org/
 - Package: libnghttp3
@@ -7447,7 +7447,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 26.8.0
+  Version: 26.9.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
