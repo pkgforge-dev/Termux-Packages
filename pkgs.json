@@ -1057,7 +1057,7 @@
   },
   {
     "Package": "buf",
-    "Version": "1.54.0",
+    "Version": "1.55.0",
     "Description": "A new way of working with Protocol Buffers",
     "Homepage": "https://buf.build"
   },
@@ -1465,7 +1465,7 @@
   },
   {
     "Package": "cloudflared",
-    "Version": "2025.6.0",
+    "Version": "2025.6.1",
     "Description": "A tunneling daemon that proxies traffic from the Cloudflare network to your origins",
     "Homepage": "https://github.com/cloudflare/cloudflared"
   },
@@ -3481,7 +3481,7 @@
   },
   {
     "Package": "glab-cli",
-    "Version": "1.59.2",
+    "Version": "1.60.0",
     "Description": "A GitLab CLI tool bringing GitLab to your command line",
     "Homepage": "https://gitlab.com/gitlab-org/cli"
   },
@@ -12523,7 +12523,7 @@
   },
   {
     "Package": "python-ruff",
-    "Version": "0.11.13",
+    "Version": "0.12.0",
     "Description": "An extremely fast Python linter, written in Rust (Python bindings)",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -13303,7 +13303,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.11.13",
+    "Version": "0.12.0",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
