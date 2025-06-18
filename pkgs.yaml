@@ -703,7 +703,7 @@
   Description: Utilities for Btrfs filesystem
   Homepage: https://btrfs.readthedocs.io/en/latest/
 - Package: buf
-  Version: 1.55.0
+  Version: 1.55.1
   Description: A new way of working with Protocol Buffers
   Homepage: https://buf.build
 - Package: build-essential
@@ -1707,11 +1707,11 @@
   Description: A tool for compositing images using a Burt&Adelson multiresolution spline
   Homepage: https://enblend.sourceforge.net/
 - Package: enchant
-  Version: 2.8.8
+  Version: 2.8.9
   Description: Wraps a number of different spelling libraries and programs with a consistent interface
   Homepage: https://rrthomas.github.io/enchant/
 - Package: enchant-static
-  Version: 2.8.8
+  Version: 2.8.9
   Description: Static libraries for enchant
   Homepage: https://rrthomas.github.io/enchant/
 - Package: enscript
@@ -5795,7 +5795,7 @@
   Description: Static libraries for libtwolame
   Homepage: https://www.twolame.org/
 - Package: libuber-h3
-  Version: 4.2.1
+  Version: 4.3.0
   Description: A hexagonal hierarchical geospatial indexing system
   Homepage: https://h3geo.org/
 - Package: libuchardet
@@ -9639,7 +9639,7 @@
   Description: Telegram downloader/tools written in Golang
   Homepage: https://docs.iyear.me/tdl/
 - Package: tea
-  Version: 0.10.0
+  Version: 0.10.1
   Description: The official CLI for Gitea
   Homepage: https://gitea.com/gitea/tea
 - Package: tealdeer

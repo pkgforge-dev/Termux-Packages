@@ -186,7 +186,7 @@
 | **bsdtar** | 3.8.1 | The tar(1) and cpio(1) programs from FreeBSD, using libarchive | https://www.libarchive.org/ |
 | **btfs2** | 3.3.0 | Decentralized file system integrating with TRON network and Bittorrent network | https://www.bittorrent.com/btfs/ |
 | **btrfs-progs** | 6.14 | Utilities for Btrfs filesystem | https://btrfs.readthedocs.io/en/latest/ |
-| **buf** | 1.55.0 | A new way of working with Protocol Buffers | https://buf.build |
+| **buf** | 1.55.1 | A new way of working with Protocol Buffers | https://buf.build |
 | **build-essential** | 4.1 | A metapackage that installs essential development tools | https://github.com/termux/termux-packages |
 | **busybox** | 1.36.1-3 | Tiny versions of many common UNIX utilities into a single small executable | https://busybox.net/ |
 | **bvi** | 1.4.2 | Binary file editor based on vi | http://bvi.sourceforge.net/ |
@@ -437,8 +437,8 @@
 | **emscripten-llvm** | 4.0.10 | Emscripten-compatible LLVM | https://emscripten.org |
 | **emscripten-tests-third-party** | 4.0.10 | Emscripten third party test suite files | https://emscripten.org |
 | **enblend** | 4.2.0p20161007-6 | A tool for compositing images using a Burt&Adelson multiresolution spline | https://enblend.sourceforge.net/ |
-| **enchant** | 2.8.8 | Wraps a number of different spelling libraries and programs with a consistent interface | https://rrthomas.github.io/enchant/ |
-| **enchant-static** | 2.8.8 | Static libraries for enchant | https://rrthomas.github.io/enchant/ |
+| **enchant** | 2.8.9 | Wraps a number of different spelling libraries and programs with a consistent interface | https://rrthomas.github.io/enchant/ |
+| **enchant-static** | 2.8.9 | Static libraries for enchant | https://rrthomas.github.io/enchant/ |
 | **enscript** | 1.6.6-12 | Enscript converts ASCII text files to PostScript, HTML, RTF, ANSI and overstrikes | https://www.gnu.org/software/enscript/ |
 | **entr** | 5.7 | Event Notify Test Runner - run arbitrary commands when files change | https://eradman.com/entrproject/ |
 | **erlang** | 28.0.1 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
@@ -1459,7 +1459,7 @@
 | **libtvision** | 2023.01.29 | A modern port of Turbo Vision 2.0 with Unicode support | https://github.com/magiblot/tvision |
 | **libtwolame** | 0.4.0 | An optimised MPEG Audio Layer 2 (MP2) encoder | https://www.twolame.org/ |
 | **libtwolame-static** | 0.4.0 | Static libraries for libtwolame | https://www.twolame.org/ |
-| **libuber-h3** | 4.2.1 | A hexagonal hierarchical geospatial indexing system | https://h3geo.org/ |
+| **libuber-h3** | 4.3.0 | A hexagonal hierarchical geospatial indexing system | https://h3geo.org/ |
 | **libuchardet** | 0.0.8 | An encoding detector library | https://www.freedesktop.org/wiki/Software/uchardet/ |
 | **libuchardet-static** | 0.0.8 | Static libraries for libuchardet | https://www.freedesktop.org/wiki/Software/uchardet/ |
 | **libucontext** | 1.2 | A library which provides the ucontext.h C API | https://github.com/kaniini/libucontext |
@@ -2420,7 +2420,7 @@
 | **tcsh** | 6.24.15 | TENEX C Shell, an enhanced version of Berkeley csh | https://www.tcsh.org |
 | **tdb-tools** | 1.4.13 | Tools for TDB | https://tdb.samba.org/ |
 | **tdl** | 0.19.0 | Telegram downloader/tools written in Golang | https://docs.iyear.me/tdl/ |
-| **tea** | 0.10.0 | The official CLI for Gitea | https://gitea.com/gitea/tea |
+| **tea** | 0.10.1 | The official CLI for Gitea | https://gitea.com/gitea/tea |
 | **tealdeer** | 1.7.2 | A very fast implementation of tldr in Rust | https://dbrgn.github.io/tealdeer/ |
 | **teckit** | 2.5.12 | TECkit is a library for encoding conversion | https://scripts.sil.org/teckitdownloads |
 | **teckit-static** | 2.5.12 | Static libraries for teckit | https://scripts.sil.org/teckitdownloads |
