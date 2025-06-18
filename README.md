@@ -431,7 +431,7 @@
 | **elixir** | 1.18.4 | Elixir is a dynamic, functional language designed for building scalable and maintainable applications | https://elixir-lang.org/ |
 | **eltclsh** | 1.19-2 | Interactive shell for TCL programming language | https://homepages.laas.fr/mallet/soft/shell/eltclsh |
 | **elvish** | 0.21.0 | A friendly and expressive Unix shell | https://github.com/elves/elvish |
-| **emacs** | 30.1-1 | Extensible, customizable text editor-and more | https://www.gnu.org/software/emacs/ |
+| **emacs** | 30.1-2 | Extensible, customizable text editor-and more | https://www.gnu.org/software/emacs/ |
 | **emscripten** | 4.0.10 | Emscripten: An LLVM-to-WebAssembly Compiler | https://emscripten.org |
 | **emscripten-binaryen** | 4.0.10 | Emscripten-compatible Binaryen | https://emscripten.org |
 | **emscripten-llvm** | 4.0.10 | Emscripten-compatible LLVM | https://emscripten.org |
