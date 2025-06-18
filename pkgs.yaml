@@ -7619,7 +7619,7 @@
   Description: OpenSSH SFTP server subsystem
   Homepage: https://www.openssh.com/
 - Package: openssl
-  Version: 1:3.4.1
+  Version: 1:3.5.0
   Description: Library implementing the SSL and TLS protocols as well as general purpose cryptography functions
   Homepage: https://www.openssl.org/
 - Package: openssl-1.1
@@ -7631,11 +7631,11 @@
   Description: Static libraries for openssl-1.1
   Homepage: https://www.openssl.org/
 - Package: openssl-static
-  Version: 1:3.4.1
+  Version: 1:3.5.0
   Description: Static libraries for openssl
   Homepage: https://www.openssl.org/
 - Package: openssl-tool
-  Version: 1:3.4.1
+  Version: 1:3.5.0
   Description: The openssl command line cryptographic tool
   Homepage: https://www.openssl.org/
 - Package: openssl1.1-tool
@@ -9391,7 +9391,7 @@
   Description: measure character-echo latency and bandwidth for an interactive ssh session
   Homepage: https://github.com/spook/sshping
 - Package: sslscan
-  Version: 2.1.6
+  Version: 2.2.0
   Description: Utility to discover supported cipher suites on SSL/TLS enabled servers
   Homepage: https://github.com/rbsec/sslscan
 - Package: sssnake
