@@ -889,7 +889,7 @@
   },
   {
     "Package": "blas-openblas",
-    "Version": "0.3.29",
+    "Version": "0.3.30",
     "Description": "OpenBLAS symlinks for BLAS/CBLAS/LAPACK/LAPACKE",
     "Homepage": "https://www.openblas.net"
   },
@@ -7513,13 +7513,13 @@
   },
   {
     "Package": "libopenblas",
-    "Version": "0.3.29",
+    "Version": "0.3.30",
     "Description": "An optimized BLAS library based on GotoBLAS2 1.13 BSD",
     "Homepage": "https://www.openblas.net"
   },
   {
     "Package": "libopenblas-static",
-    "Version": "0.3.29",
+    "Version": "0.3.30",
     "Description": "Static libraries for libopenblas",
     "Homepage": "https://www.openblas.net"
   },

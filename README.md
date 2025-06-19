@@ -158,7 +158,7 @@
 | **bk** | 0.6.0 | A terminal EPUB reader | https://github.com/aeosynth/bk |
 | **blackbox** | 1:1.20220610 | Safely store secrets in Git/Mercurial/Subversion | https://github.com/StackExchange/blackbox |
 | **blade** | 0.0.87 | A simple, fast, clean and dynamic language | https://bladelang.com/ |
-| **blas-openblas** | 0.3.29 | OpenBLAS symlinks for BLAS/CBLAS/LAPACK/LAPACKE | https://www.openblas.net |
+| **blas-openblas** | 0.3.30 | OpenBLAS symlinks for BLAS/CBLAS/LAPACK/LAPACKE | https://www.openblas.net |
 | **blink** | 1:1.1.0 | Tiny x86-64 Linux emulator | https://justine.lol/blinkenlights/ |
 | **blk-utils** | 2.40.2-3 | Utilities for handling block device attributes | https://en.wikipedia.org/wiki/Util-linux |
 | **blogc** | 0.20.1 | A blog compiler | https://blogc.rgm.io/ |
@@ -1262,8 +1262,8 @@
 | **liboggz** | 1.1.2 | Command and library to inspect, tweak, edit and validate Ogg files | https://www.xiph.org/oggz/ |
 | **liboggz-static** | 1.1.2 | Static libraries for liboggz | https://www.xiph.org/oggz/ |
 | **libolm** | 3.2.16 | An implementation of the Double Ratchet cryptographic ratchet | https://matrix.org/docs/projects/other/olm/ |
-| **libopenblas** | 0.3.29 | An optimized BLAS library based on GotoBLAS2 1.13 BSD | https://www.openblas.net |
-| **libopenblas-static** | 0.3.29 | Static libraries for libopenblas | https://www.openblas.net |
+| **libopenblas** | 0.3.30 | An optimized BLAS library based on GotoBLAS2 1.13 BSD | https://www.openblas.net |
+| **libopenblas-static** | 0.3.30 | Static libraries for libopenblas | https://www.openblas.net |
 | **libopencc** | 1.1.9 | An opensource project for conversions between Traditional Chinese, Simplified Chinese and Japanese Kanji (Shinjitai) | https://github.com/BYVoid/OpenCC |
 | **libopencore-amr** | 0.1.6 | Open source implementation of the Adaptive Multi Rate (AMR) speech codec | https://sourceforge.net/projects/opencore-amr |
 | **libopencore-amr-static** | 0.1.6 | Static libraries for libopencore-amr | https://sourceforge.net/projects/opencore-amr |

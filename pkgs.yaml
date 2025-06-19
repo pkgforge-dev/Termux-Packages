@@ -591,7 +591,7 @@
   Description: A simple, fast, clean and dynamic language
   Homepage: https://bladelang.com/
 - Package: blas-openblas
-  Version: 0.3.29
+  Version: 0.3.30
   Description: OpenBLAS symlinks for BLAS/CBLAS/LAPACK/LAPACKE
   Homepage: https://www.openblas.net
 - Package: blink
@@ -5007,11 +5007,11 @@
   Description: An implementation of the Double Ratchet cryptographic ratchet
   Homepage: https://matrix.org/docs/projects/other/olm/
 - Package: libopenblas
-  Version: 0.3.29
+  Version: 0.3.30
   Description: An optimized BLAS library based on GotoBLAS2 1.13 BSD
   Homepage: https://www.openblas.net
 - Package: libopenblas-static
-  Version: 0.3.29
+  Version: 0.3.30
   Description: Static libraries for libopenblas
   Homepage: https://www.openblas.net
 - Package: libopencc
