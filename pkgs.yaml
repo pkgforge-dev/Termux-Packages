@@ -2319,7 +2319,7 @@
   Description: Simple, Portable, Free File Transfer Software for UNIX
   Homepage: http://www.columbia.edu/kermit/gkermit.html
 - Package: glab-cli
-  Version: 1.60.1
+  Version: 1.60.2
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
@@ -3103,7 +3103,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.2026
+  Version: 0.22.2029
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: janet
@@ -6915,7 +6915,7 @@
   Description: A pager designed to just do the right thing without any configuration
   Homepage: https://github.com/walles/moar
 - Package: mold
-  Version: 2.40.1
+  Version: 2.40.1-1
   Description: 'mold: A Modern Linker'
   Homepage: https://github.com/rui314/mold
 - Package: monero
@@ -9163,7 +9163,7 @@
   Description: A simple heat transfer simulator in pure Rust
   Homepage: https://github.com/file-acomplaint/simuwaerm
 - Package: sing-box
-  Version: 1.11.13
+  Version: 1.11.14
   Description: The universal proxy platform
   Homepage: https://sing-box.sagernet.org
 - Package: skate
