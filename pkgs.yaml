@@ -2527,7 +2527,7 @@
   Description: University of Minnesota gopher
   Homepage: gopher://gopher.quux.org/1/devel/gopher
 - Package: gopls
-  Version: 0.19.0
+  Version: 0.19.1
   Description: The official Go language server
   Homepage: https://github.com/golang/tools
 - Package: gotop
@@ -8615,7 +8615,7 @@
   Description: An alternative implementation of the plan 9 rc shell
   Homepage: https://github.com/rakitzis/rc
 - Package: rclone
-  Version: 1.70.0
+  Version: 1.70.1
   Description: rsync for cloud storage
   Homepage: https://rclone.org/
 - Package: rcm
