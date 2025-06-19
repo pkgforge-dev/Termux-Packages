@@ -244,8 +244,8 @@
 | **chrony** | 4.7 | chrony is an implementation of the Network Time Protocol (NTP) | https://chrony-project.org/ |
 | **ciso** | 1.0.2-1 | PSP ISO compression tool | https://github.com/jamie/ciso |
 | **ckermit** | 9.0.302-2 | A combined network and serial communication software package | https://www.kermitproject.org/ckermit.html |
-| **clamav** | 1.4.2-1 | Anti-virus toolkit for Unix | https://www.clamav.net/ |
-| **clamav-static** | 1.4.2-1 | Static libraries for clamav | https://www.clamav.net/ |
+| **clamav** | 1.4.3 | Anti-virus toolkit for Unix | https://www.clamav.net/ |
+| **clamav-static** | 1.4.3 | Static libraries for clamav | https://www.clamav.net/ |
 | **clang** | 20.1.6 | C language frontend for LLVM | https://clang.llvm.org/ |
 | **clblast** | 1.6.3 | Tuned OpenCL BLAS | https://github.com/CNugteren/CLBlast |
 | **cliaoke** | 0.2.4-4 | Command line karaoke | https://github.com/jessfraz/cliaoke |
@@ -523,7 +523,7 @@
 | **fsmon** | 1.8.8 | Filesystem monitor with fanotify and inotify backends | https://github.com/nowsecure/fsmon |
 | **fwknop** | 2.6.11 | fwknop: Single Packet Authorization > Port Knocking | https://www.cipherdyne.org/fwknop/ |
 | **fwknop-static** | 2.6.11 | Static libraries for fwknop | https://www.cipherdyne.org/fwknop/ |
-| **fx** | 36.0.3 | Interactive JSON viewer on your terminal | https://github.com/antonmedv/fx |
+| **fx** | 36.0.4 | Interactive JSON viewer on your terminal | https://github.com/antonmedv/fx |
 | **fzf** | 0.62.0 | Command-line fuzzy finder | https://junegunn.github.io/fzf/ |
 | **fzy** | 1.0 | A simple, fast fuzzy finder for the terminal | https://github.com/jhawthorn/fzy |
 | **g-ir-scanner** | 1.84.0 | A tool which generates GIR XML files | https://gi.readthedocs.io/ |
@@ -835,7 +835,7 @@
 | **kotlin** | 2.1.21 | The Kotlin Programming Language | https://kotlinlang.org/ |
 | **krb5** | 1.21.3 | The Kerberos network authentication system | https://web.mit.edu/kerberos |
 | **kubecolor** | 0.5.1 | Colorize your kubectl output | https://github.com/kubecolor/kubecolor |
-| **kubectl** | 1.33.1 | Kubernetes.io client binary | https://kubernetes.io/ |
+| **kubectl** | 1.33.2 | Kubernetes.io client binary | https://kubernetes.io/ |
 | **kubelogin** | 1.33.0 | A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication | https://github.com/int128/kubelogin |
 | **kubo** | 0.35.0 | A peer-to-peer hypermedia distribution protocol | https://ipfs.io/ |
 | **ladspa-sdk** | 1.17-2 | Linux Audio Developer's Simple Plugin API | https://www.ladspa.org/ |
@@ -2547,7 +2547,7 @@
 | **udocker** | 1.3.17 | A basic user tool to execute simple docker containers in batch or interactive systems without root privileges. | https://indigo-dc.github.io/udocker |
 | **uftrace** | 0.17 | Function (graph) tracer for user-space | https://uftrace.github.io/slide |
 | **ugit** | 5.9 | ugit helps you undo your last git command with grace. Your damage control git buddy | https://github.com/Bhupesh-V/ugit |
-| **ugrep** | 7.4.3 | A faster, user-friendly and compatible grep replacement | https://github.com/Genivia/ugrep |
+| **ugrep** | 7.5.0 | A faster, user-friendly and compatible grep replacement | https://github.com/Genivia/ugrep |
 | **unar** | 1.10.8-1 | Command line tools for archive and file unarchiving and extraction | https://theunarchiver.com/command-line |
 | **unbound** | 1.23.0-1 | Unbound command-line tools | https://unbound.net/ |
 | **unbound-static** | 1.17.1 | Static libraries for unbound | https://unbound.net/ |

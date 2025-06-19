@@ -935,11 +935,11 @@
   Description: A combined network and serial communication software package
   Homepage: https://www.kermitproject.org/ckermit.html
 - Package: clamav
-  Version: 1.4.2-1
+  Version: 1.4.3
   Description: Anti-virus toolkit for Unix
   Homepage: https://www.clamav.net/
 - Package: clamav-static
-  Version: 1.4.2-1
+  Version: 1.4.3
   Description: Static libraries for clamav
   Homepage: https://www.clamav.net/
 - Package: clang
@@ -2051,7 +2051,7 @@
   Description: Static libraries for fwknop
   Homepage: https://www.cipherdyne.org/fwknop/
 - Package: fx
-  Version: 36.0.3
+  Version: 36.0.4
   Description: Interactive JSON viewer on your terminal
   Homepage: https://github.com/antonmedv/fx
 - Package: fzf
@@ -3299,7 +3299,7 @@
   Description: Colorize your kubectl output
   Homepage: https://github.com/kubecolor/kubecolor
 - Package: kubectl
-  Version: 1.33.1
+  Version: 1.33.2
   Description: Kubernetes.io client binary
   Homepage: https://kubernetes.io/
 - Package: kubelogin
@@ -10147,7 +10147,7 @@
   Description: ugit helps you undo your last git command with grace. Your damage control git buddy
   Homepage: https://github.com/Bhupesh-V/ugit
 - Package: ugrep
-  Version: 7.4.3
+  Version: 7.5.0
   Description: A faster, user-friendly and compatible grep replacement
   Homepage: https://github.com/Genivia/ugrep
 - Package: unar
