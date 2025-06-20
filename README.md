@@ -738,7 +738,7 @@
 | **hunspell-nl** | 2013.07.22 | Dutch dictionary for hunspell | https://www.opentaal.org/ |
 | **hunspell-ru** | 20210731 | Russian dictionary for hunspell | https://hunspell.github.io |
 | **hunspell-static** | 1.7.2 | Static libraries for hunspell | https://hunspell.github.io |
-| **hut** | 0.6.0-1 | A CLI tool for sr.ht | https://git.sr.ht/~xenrox/hut |
+| **hut** | 0.7.0 | A CLI tool for sr.ht | https://git.sr.ht/~xenrox/hut |
 | **hwdata** | 0.396 | Database of hardware identification and configuration data | https://github.com/vcrhonek/hwdata |
 | **hydroxide** | 0.2.29 | A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge | https://github.com/emersion/hydroxide |
 | **hyperfine** | 1.19.0 | A command-line benchmarking tool | https://github.com/sharkdp/hyperfine |
@@ -786,7 +786,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-1 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.22.2029 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.22.2032 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **janet** | 1.38.0 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
 | **jbig2dec** | 0.20 | Decoder implementation of the JBIG2 image compression format | https://jbig2dec.com/ |
 | **jbig2dec-static** | 0.20 | Static libraries for jbig2dec | https://jbig2dec.com/ |
