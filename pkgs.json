@@ -1417,7 +1417,7 @@
   },
   {
     "Package": "clang",
-    "Version": "20.1.6",
+    "Version": "20.1.7",
     "Description": "C language frontend for LLVM",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -5671,7 +5671,7 @@
   },
   {
     "Package": "libcompiler-rt",
-    "Version": "20.1.6",
+    "Version": "20.1.7",
     "Description": "Compiler runtime libraries for clang",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -6793,13 +6793,13 @@
   },
   {
     "Package": "libllvm",
-    "Version": "20.1.6",
+    "Version": "20.1.7",
     "Description": "Modular compiler and toolchain technologies library",
     "Homepage": "https://clang.llvm.org/"
   },
   {
     "Package": "libllvm-static",
-    "Version": "20.1.6",
+    "Version": "20.1.7",
     "Description": "Static libraries for libllvm",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -7813,7 +7813,7 @@
   },
   {
     "Package": "libpolly",
-    "Version": "20.1.6",
+    "Version": "20.1.7",
     "Description": "High-level loop and data-locality optimizer for clang",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -9571,13 +9571,13 @@
   },
   {
     "Package": "lld",
-    "Version": "20.1.6",
+    "Version": "20.1.7",
     "Description": "LLVM-based linker",
     "Homepage": "https://clang.llvm.org/"
   },
   {
     "Package": "llvm",
-    "Version": "20.1.6",
+    "Version": "20.1.7",
     "Description": "LLVM modular compiler and toolchain executables",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -9607,13 +9607,13 @@
   },
   {
     "Package": "llvm-tools",
-    "Version": "20.1.6",
+    "Version": "20.1.7",
     "Description": "LLVM Development Tools",
     "Homepage": "https://clang.llvm.org/"
   },
   {
     "Package": "llvmgold",
-    "Version": "20.1.6",
+    "Version": "20.1.7",
     "Description": "LLVM gold plugin",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -10357,7 +10357,7 @@
   },
   {
     "Package": "mlir",
-    "Version": "20.1.6",
+    "Version": "20.1.7",
     "Description": "A Multi-Level Intermediate Representation for compilers from LLVM",
     "Homepage": "https://clang.llvm.org/"
   },
