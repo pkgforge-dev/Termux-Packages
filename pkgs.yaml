@@ -2487,13 +2487,13 @@
   Description: Pure Go implementation of jq
   Homepage: https://github.com/itchyny/gojq
 - Package: golang
-  Version: 3:1.24.2
+  Version: 3:1.24.4
   Description: Go programming language compiler
-  Homepage: https://golang.org/
+  Homepage: https://go.dev/
 - Package: golang-doc
-  Version: 3:1.24.2
+  Version: 3:1.24.4
   Description: Go programming language - documentation
-  Homepage: https://golang.org/
+  Homepage: https://go.dev/
 - Package: gomp
   Version: 2023.02.02-2
   Description: MPD client inspired by ncmpcpp with builtin cover-art view and LastFM integration
