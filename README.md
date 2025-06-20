@@ -208,7 +208,7 @@
 | **capnproto** | 1.2.0 | Data interchange format and capability-based RPC system | https://capnproto.org/ |
 | **capstone** | 5.0.6 | Lightweight multi-platform, multi-architecture disassembly framework | https://www.capstone-engine.org/ |
 | **capstone-static** | 5.0.6 | Static libraries for capstone | https://www.capstone-engine.org/ |
-| **carapace** | 1.3.2-1 | Multi-shell multi-command argument completer | https://carapace.sh/ |
+| **carapace** | 1.3.3 | Multi-shell multi-command argument completer | https://carapace.sh/ |
 | **cargo-c** | 0.10.13 | Cargo C-ABI helpers | https://github.com/lu-zero/cargo-c |
 | **catdoc** | 0.95-1 | Program which reads MS-Word file and prints readable ASCII text to stdout | http://www.wagner.pp.ru/~vitus/software/catdoc/ |
 | **catgirl** | 2.2a | A TLS-only terminal IRC client | https://git.causal.agency/catgirl |
@@ -451,7 +451,7 @@
 | **exercism** | 3.5.5 | A Go based command line tool for exercism.io | https://github.com/exercism/cli/ |
 | **exfatprogs** | 1.2.9 | exFAT filesystem userspace utilities | https://github.com/exfatprogs/exfatprogs |
 | **exhale** | 1.2.1.2 | Open source xHE-AAC encoder | https://gitlab.com/ecodis/exhale |
-| **exiftool** | 13.30 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
+| **exiftool** | 13.31 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
 | **exiv2** | 2:0.28.5 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **exiv2-static** | 2:0.27.7-1 | Static libraries for exiv2 | https://exiv2.org/ |
 | **expect** | 5.45.4-3 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
@@ -585,7 +585,7 @@
 | **git-lfs** | 3.6.1 | Git extension for versioning large files | https://git-lfs.github.com/ |
 | **git-sizer** | 1.5.0-4 | Compute various size metrics for a Git repository | https://github.com/github/git-sizer |
 | **git-svn** | 2.50.0 | Convert between Git and Subversion repositories | https://git-scm.com/ |
-| **gitea** | 1.24.0 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
+| **gitea** | 1.24.1 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
 | **gitflow-avh** | 1.12.3-9 | Extend git with Vincent Driessen's branching model. The AVH Edition adds more functionality. | https://github.com/petervanderdoes/gitflow/ |
 | **gitoxide** | 0.44.0 | Rust implementation of Git | https://github.com/Byron/gitoxide |
 | **gitui** | 0.27.0-2 | Blazing fast terminal-ui for git written in rust | https://github.com/extrawurst/gitui |
