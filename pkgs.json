@@ -3151,13 +3151,13 @@
   },
   {
     "Package": "gawk",
-    "Version": "5.3.1",
+    "Version": "5.3.1-1",
     "Description": "Programming language designed for text processing",
     "Homepage": "https://www.gnu.org/software/gawk/"
   },
   {
     "Package": "gawk-static",
-    "Version": "5.3.1",
+    "Version": "5.3.1-1",
     "Description": "Static libraries for gawk",
     "Homepage": "https://www.gnu.org/software/gawk/"
   },
@@ -11386,6 +11386,12 @@
     "Version": "2.6.10",
     "Description": "Static libraries for openldap",
     "Homepage": "https://openldap.org"
+  },
+  {
+    "Package": "openlist",
+    "Version": "4.0.0",
+    "Description": "A file list program that supports multiple storage",
+    "Homepage": "https://oplist.org/"
   },
   {
     "Package": "openmpi",
