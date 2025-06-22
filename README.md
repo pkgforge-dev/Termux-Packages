@@ -274,7 +274,7 @@
 | **colm** | 0.14.7-1 | COmputer Language Machinery | https://www.colm.net/open-source/colm/ |
 | **colm-static** | 0.14.7-1 | Static libraries for colm | https://www.colm.net/open-source/colm/ |
 | **colordiff** | 1.0.21 | Tool to colorize 'diff' output | https://www.colordiff.org/ |
-| **command-not-found** | 2.4.0-80 | Suggest installation of packages in interactive shell sessions | https://github.com/termux/command-not-found |
+| **command-not-found** | 2.4.0-81 | Suggest installation of packages in interactive shell sessions | https://github.com/termux/command-not-found |
 | **composer** | 2.8.9 | Dependency Manager for PHP | https://getcomposer.org/ |
 | **console-bridge** | 1.0.2 | A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages | https://github.com/ros/console_bridge |
 | **convertlit** | 1.8-1 | An extractor/converter for .LIT eBooks | http://www.convertlit.com/ |
@@ -437,8 +437,8 @@
 | **emscripten-llvm** | 4.0.10 | Emscripten-compatible LLVM | https://emscripten.org |
 | **emscripten-tests-third-party** | 4.0.10 | Emscripten third party test suite files | https://emscripten.org |
 | **enblend** | 4.2.0p20161007-6 | A tool for compositing images using a Burt&Adelson multiresolution spline | https://enblend.sourceforge.net/ |
-| **enchant** | 2.8.9 | Wraps a number of different spelling libraries and programs with a consistent interface | https://rrthomas.github.io/enchant/ |
-| **enchant-static** | 2.8.9 | Static libraries for enchant | https://rrthomas.github.io/enchant/ |
+| **enchant** | 2.8.10 | Wraps a number of different spelling libraries and programs with a consistent interface | https://rrthomas.github.io/enchant/ |
+| **enchant-static** | 2.8.10 | Static libraries for enchant | https://rrthomas.github.io/enchant/ |
 | **enscript** | 1.6.6-12 | Enscript converts ASCII text files to PostScript, HTML, RTF, ANSI and overstrikes | https://www.gnu.org/software/enscript/ |
 | **entr** | 5.7 | Event Notify Test Runner - run arbitrary commands when files change | https://eradman.com/entrproject/ |
 | **erlang** | 28.0.1 | General-purpose concurrent functional programming language | https://www.erlang.org/ |

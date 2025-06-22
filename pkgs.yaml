@@ -1055,7 +1055,7 @@
   Description: Tool to colorize diff output
   Homepage: https://www.colordiff.org/
 - Package: command-not-found
-  Version: 2.4.0-80
+  Version: 2.4.0-81
   Description: Suggest installation of packages in interactive shell sessions
   Homepage: https://github.com/termux/command-not-found
 - Package: composer
@@ -1707,11 +1707,11 @@
   Description: A tool for compositing images using a Burt&Adelson multiresolution spline
   Homepage: https://enblend.sourceforge.net/
 - Package: enchant
-  Version: 2.8.9
+  Version: 2.8.10
   Description: Wraps a number of different spelling libraries and programs with a consistent interface
   Homepage: https://rrthomas.github.io/enchant/
 - Package: enchant-static
-  Version: 2.8.9
+  Version: 2.8.10
   Description: Static libraries for enchant
   Homepage: https://rrthomas.github.io/enchant/
 - Package: enscript
