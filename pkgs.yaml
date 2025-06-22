@@ -3103,7 +3103,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.2035
+  Version: 0.22.2037
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: janet
@@ -10635,7 +10635,7 @@
   Description: Modern HTTP benchmarking tool
   Homepage: https://github.com/wg/wrk
 - Package: wtfutil
-  Version: 0.43.0-2
+  Version: 0.44.0
   Description: The personal information dashboard for your terminal
   Homepage: https://wtfutil.com/
 - Package: wuzz
