@@ -15427,7 +15427,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.7.13",
+    "Version": "0.7.14",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
@@ -15649,9 +15649,9 @@
   },
   {
     "Package": "vtm",
-    "Version": "2025.06.15",
+    "Version": "2025.06.18",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
-    "Homepage": "https://vtm.netxs.online/"
+    "Homepage": "https://github.com/directvt/vtm"
   },
   {
     "Package": "vttest",

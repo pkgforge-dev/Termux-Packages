@@ -10283,7 +10283,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.7.13
+  Version: 0.7.14
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
@@ -10431,9 +10431,9 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2025.06.15
+  Version: 2025.06.18
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
-  Homepage: https://vtm.netxs.online/
+  Homepage: https://github.com/directvt/vtm
 - Package: vttest
   Version: "20241208"
   Description: Program for testing the VT100 compatibility of terminal emulators
