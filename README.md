@@ -224,7 +224,7 @@
 | **ccextractor** | 0.94-5 | A tool used to produce subtitles for TV recordings | https://ccextractor.org/ |
 | **ccls** | 0.20241206 | C/C++/ObjC language server | https://github.com/MaskRay/ccls |
 | **ccrypt** | 1.11 | Secure encryption and decryption of files and streams utility | http://ccrypt.sourceforge.net/ |
-| **cec-client** | 7.0.0 | Client applications for libCEC | https://libcec.pulse-eight.com/ |
+| **cec-client** | 7.1.1 | Client applications for libCEC | https://libcec.pulse-eight.com/ |
 | **ceu-lang** | 2019.07.17-2 | The Structured Synchronous Reactive Programming Language Céu | https://github.com/ceu-lang/ceu |
 | **cfengine** | 1:3.25.0-1 | CFEngine is a configuration management technology | https://cfengine.com/ |
 | **cfengine-static** | 1:3.25.0-1 | Static libraries for cfengine | https://cfengine.com/ |
@@ -729,7 +729,7 @@
 | **httrack-data** | 3.49.6 | Platform-independent data for httrack | http://www.httrack.com |
 | **httrack-static** | 3.49.6 | Static libraries for httrack | http://www.httrack.com |
 | **hub** | 2.14.2-5 | Command-line wrapper for git that makes you better at GitHub | https://hub.github.com/ |
-| **hugo** | 0.147.8 | A fast and flexible static site generator | https://gohugo.io/ |
+| **hugo** | 0.147.9 | A fast and flexible static site generator | https://gohugo.io/ |
 | **hummin** | 2021.05.18-3 | Command line client for the imperial library of trantor | https://trantor.is/ |
 | **hunspell** | 1.7.2 | Spell checker | https://hunspell.github.io |
 | **hunspell-en-us** | 20240129 | American english dictionary for hunspell | https://hunspell.github.io |
@@ -939,7 +939,8 @@
 | **libcddb** | 1.3.2 | A C library to access data on a CDDB server | http://libcddb.sourceforge.net/ |
 | **libcddb-static** | 1.3.2 | Static libraries for libcddb | http://libcddb.sourceforge.net/ |
 | **libcdk** | 5.0-20250116-0 | Curses Development Kit | https://dickey.his.com/cdk/cdk.html |
-| **libcec** | 7.0.0 | Provides support for Pulse-Eight's USB-CEC adapter and other CEC capable hardware | https://libcec.pulse-eight.com/ |
+| **libcec** | 7.1.1 | Provides support for Pulse-Eight's USB-CEC adapter and other CEC capable hardware | https://libcec.pulse-eight.com/ |
+| **libcec-static** | 7.1.1 | Static libraries for libcec | https://libcec.pulse-eight.com/ |
 | **libceres-solver** | 2.2.0-1 | C++ library for modeling and solving large, complicated optimization problems | http://ceres-solver.org |
 | **libchipmunk** | 7.0.3-1 | A fast and lightweight 2D game physics library | http://chipmunk2d.net |
 | **libcln** | 1.3.7 | CLN is a library for efficient computations with all kinds of numbers in arbitrary precision | https://www.ginac.de/CLN/ |
@@ -2233,7 +2234,7 @@
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.7.0 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
 | **rust** | 1.87.0-1 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
-| **rust-analyzer** | 20250616 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
+| **rust-analyzer** | 20250623 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
 | **rust-bindgen** | 0.72.0 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
 | **rust-docs** | 1.87.0-1 | Rust documentation | https://www.rust-lang.org/ |
 | **rust-src** | 1.87.0-1 | Rust source code files | https://www.rust-lang.org/ |

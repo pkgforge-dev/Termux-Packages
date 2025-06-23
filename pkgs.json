@@ -1285,7 +1285,7 @@
   },
   {
     "Package": "cec-client",
-    "Version": "7.0.0",
+    "Version": "7.1.1",
     "Description": "Client applications for libCEC",
     "Homepage": "https://libcec.pulse-eight.com/"
   },
@@ -4315,7 +4315,7 @@
   },
   {
     "Package": "hugo",
-    "Version": "0.147.8",
+    "Version": "0.147.9",
     "Description": "A fast and flexible static site generator",
     "Homepage": "https://gohugo.io/"
   },
@@ -5575,8 +5575,14 @@
   },
   {
     "Package": "libcec",
-    "Version": "7.0.0",
+    "Version": "7.1.1",
     "Description": "Provides support for Pulse-Eights USB-CEC adapter and other CEC capable hardware",
+    "Homepage": "https://libcec.pulse-eight.com/"
+  },
+  {
+    "Package": "libcec-static",
+    "Version": "7.1.1",
+    "Description": "Static libraries for libcec",
     "Homepage": "https://libcec.pulse-eight.com/"
   },
   {
@@ -13339,7 +13345,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20250616",
+    "Version": "20250623",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://rust-analyzer.github.io/"
   },
