@@ -1909,7 +1909,7 @@
 | **openjpeg-tools** | 2.5.3 | Command-line tools using the JPEG 2000 library | https://www.openjpeg.org/ |
 | **openldap** | 2.6.10 | OpenLDAP server | https://openldap.org |
 | **openldap-static** | 2.6.10 | Static libraries for openldap | https://openldap.org |
-| **openlist** | 4.0.1 | A file list program that supports multiple storage | https://oplist.org/ |
+| **openlist** | 4.0.2 | A file list program that supports multiple storage | https://oplist.org/ |
 | **openmpi** | 4.1.5 | Open source Message Passing Interface implementation | https://www.open-mpi.org |
 | **openmpi-static** | 4.1.5 | Static libraries for openmpi | https://www.open-mpi.org |
 | **opensc** | 0.26.1 | Open source smart card tools and middleware | https://github.com/OpenSC/OpenSC |
