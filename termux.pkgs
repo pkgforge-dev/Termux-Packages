@@ -224,7 +224,7 @@
 | **chafa-static** | 1.16.1 | Static libraries for chafa | https://hpjansson.org/chafa/ |
 | **check** | 0.15.2-2 | A unit testing framework for C | https://libcheck.github.io/check |
 | **check-static** | 0.15.2-2 | Static libraries for check | https://libcheck.github.io/check |
-| **chezmoi** | 2.62.6 | Manage your dotfiles across multiple machines | https://chezmoi.io |
+| **chezmoi** | 2.62.7 | Manage your dotfiles across multiple machines | https://chezmoi.io |
 | **chicken** | 5.4.0-1 | A feature rich Scheme compiler and interpreter | https://www.call-cc.org |
 | **chicken-static** | 5.4.0-1 | Static libraries for chicken | https://www.call-cc.org |
 | **choose** | 1.3.6 | A human-friendly and fast alternative to cut and (sometimes) awk | https://github.com/theryangeary/choose |
@@ -1820,7 +1820,7 @@
 | **netstandard-targeting-pack-2.1-8.0** | 8.0.17 | NETStandard.Library 2.1 Targeting Pack (.NET 8.0) | https://dotnet.microsoft.com/en-us/ |
 | **netstandard-targeting-pack-2.1-9.0** | 9.0.6 | NETStandard.Library 2.1 Targeting Pack (.NET 9.0) | https://dotnet.microsoft.com/en-us/ |
 | **nettle** | 3.10.1 | Low level cryptographic tools | https://www.lysator.liu.se/~nisse/nettle/ |
-| **newsboat** | 2.39-1 | RSS/Atom feed reader for the text console | https://newsboat.org/ |
+| **newsboat** | 2.40 | RSS/Atom feed reader for the text console | https://newsboat.org/ |
 | **nginx** | 1.28.0 | Lightweight HTTP server | https://www.nginx.org |
 | **ngircd** | 27 | Free, portable and lightweight Internet Relay Chat server | https://ngircd.barton.de/ |
 | **ngspice** | 44.2 | A mixed-level/mixed-signal circuit simulator | https://ngspice.sourceforge.net/ |
@@ -1932,7 +1932,7 @@
 | **pango** | 1.56.3-1 | Library for laying out and rendering text | https://www.gtk.org/docs/architecture/pango |
 | **paperkey** | 1.6 | Archive OpenPGP keys on paper | http://www.jabberwocky.com/software/paperkey/ |
 | **par2** | 1.0.0 | par2cmdline is a PAR 2.0 compatible file verification and repair tool | https://github.com/Parchive/par2cmdline |
-| **parallel** | 20250522 | GNU Parallel is a shell tool for executing jobs in parallel using one or more machines | https://www.gnu.org/software/parallel/ |
+| **parallel** | 20250622 | GNU Parallel is a shell tool for executing jobs in parallel using one or more machines | https://www.gnu.org/software/parallel/ |
 | **pari** | 2.17.2 | A computer algebra system designed for fast computations in number theory | https://pari.math.u-bordeaux.fr/ |
 | **pari-static** | 2.17.2 | Static libraries for pari | https://pari.math.u-bordeaux.fr/ |
 | **parted** | 3.6 | Versatile partition editor | https://www.gnu.org/software/parted/ |
@@ -2570,7 +2570,7 @@
 | **uuid-utils** | 2.40.2-3 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
 | **uv** | 0.7.13 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.30 | uWSGI application server container | https://projects.unbit.it/uwsgi |
-| **v2ray** | 5.32.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
+| **v2ray** | 5.33.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.18 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
 | **valac-static** | 0.56.18 | Static libraries for valac | https://wiki.gnome.org/Projects/Vala |
 | **valadoc** | 0.56.18 | API documentation generator for vala | https://wiki.gnome.org/Projects/Vala |
