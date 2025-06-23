@@ -1402,9 +1402,9 @@
 | **libspice-protocol** | 0.14.5 | SPICE protocol headers | https://www.spice-space.org/ |
 | **libspice-server** | 0.16.0 | Implements the server side of the SPICE protocol | https://www.spice-space.org/ |
 | **libspice-server-static** | 0.16.0 | Static libraries for libspice-server | https://www.spice-space.org/ |
-| **libsqlite** | 3.50.1 | Library implementing a self-contained and transactional SQL database engine | https://www.sqlite.org |
-| **libsqlite-static** | 3.50.1 | Static libraries for libsqlite | https://www.sqlite.org |
-| **libsqlite-tcl** | 3.50.1 | tcl bindings for SQLite | https://www.sqlite.org |
+| **libsqlite** | 3.50.1-1 | Library implementing a self-contained and transactional SQL database engine | https://www.sqlite.org |
+| **libsqlite-static** | 3.50.1-1 | Static libraries for libsqlite | https://www.sqlite.org |
+| **libsqlite-tcl** | 3.50.1-1 | tcl bindings for SQLite | https://www.sqlite.org |
 | **libsrt** | 1.5.4 | Secure Reliable Transport (SRT) Protocol | https://github.com/Haivision/srt |
 | **libssh** | 0.11.1 | Tiny C SSH library | https://www.libssh.org/ |
 | **libssh2** | 1.11.1 | Client-side library implementing the SSH2 protocol | https://www.libssh2.org |
@@ -2345,7 +2345,7 @@
 | **spirv-tools** | 1.4.313.0 | SPIR-V Tools | https://github.com/KhronosGroup/SPIRV-Tools |
 | **sqlcipher** | 4.6.1 | SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files | https://github.com/sqlcipher/sqlcipher |
 | **sqlcipher-static** | 4.6.1 | Static libraries for sqlcipher | https://github.com/sqlcipher/sqlcipher |
-| **sqlite** | 3.50.1 | Command line shell for SQLite | https://www.sqlite.org |
+| **sqlite** | 3.50.1-1 | Command line shell for SQLite | https://www.sqlite.org |
 | **squashfs-tools-ng** | 1.3.2 | New set of tools for working with SquashFS images | https://github.com/AgentD/squashfs-tools-ng |
 | **squashfs-tools-ng-static** | 1.3.2 | Static libraries for squashfs-tools-ng | https://github.com/AgentD/squashfs-tools-ng |
 | **squeezelite** | 2.0.0.1517 | A small headless Logitech Squeezebox emulator | https://ralph-irving.github.io/squeezelite.html |
@@ -2618,7 +2618,7 @@
 | **vlc-static** | 3.0.21-8 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-2 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.3 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 2025.06.12b | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
+| **vtm** | 2025.06.15 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
 | **vttest** | 20241208 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-4 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.4.313 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
