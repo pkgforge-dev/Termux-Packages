@@ -711,7 +711,7 @@
   Description: A metapackage that installs essential development tools
   Homepage: https://github.com/termux/termux-packages
 - Package: busybox
-  Version: 1.36.1-3
+  Version: 1.37.0
   Description: Tiny versions of many common UNIX utilities into a single small executable
   Homepage: https://busybox.net/
 - Package: bvi
@@ -3191,7 +3191,7 @@
   Description: Static libraries for jq
   Homepage: https://stedolan.github.io/jq/
 - Package: jql
-  Version: 8.0.6
+  Version: 8.0.7
   Description: A JSON Query Language CLI tool
   Homepage: https://github.com/yamafaktory/jql
 - Package: json-c
@@ -4803,7 +4803,7 @@
   Description: Static libraries for libmpc
   Homepage: http://www.multiprecision.org/
 - Package: libmpdclient
-  Version: "2.22"
+  Version: "2.23"
   Description: Asynchronous API library for interfacing MPD in the C, C++ & Objective C languages
   Homepage: https://www.musicpd.org/libs/libmpdclient/
 - Package: libmpeg2
@@ -10119,11 +10119,11 @@
   Description: A TUI for Mastodon with vim inspired keys
   Homepage: https://github.com/RasmusLindroth/tut
 - Package: tvheadend
-  Version: 4.2.8-10
+  Version: 4.2.8-11
   Description: TV streaming server for Linux and Android supporting DVB-S, DVB-S2 and other formats.
   Homepage: https://tvheadend.org/
 - Package: tvheadend-data
-  Version: 4.2.8-10
+  Version: 4.2.8-11
   Description: Platform-independent data for tvheadend
   Homepage: https://tvheadend.org/
 - Package: tweego
