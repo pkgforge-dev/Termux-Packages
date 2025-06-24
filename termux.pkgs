@@ -94,7 +94,7 @@
 | **at** | 3.2.5-1 | AT and batch delayed command scheduling utility and daemon | https://salsa.debian.org/debian/at |
 | **at-spi2-core** | 2.56.2 | Assistive Technology Service Provider Interface (AT-SPI) | https://wiki.gnome.org/Accessibility |
 | **atomicparsley** | 1:20240608.083822.1ed9031 | Read, parse and set metadata of MPEG-4 and 3gp files | https://github.com/wez/atomicparsley |
-| **atomvm** | 1:0.6.5 | The minimal Erlang VM implementation | https://github.com/bettio/AtomVM |
+| **atomvm** | 1:0.6.6 | The minimal Erlang VM implementation | https://github.com/bettio/AtomVM |
 | **atool** | 0.39.0-1 | tool for managing file archives of various types | https://www.nongnu.org/atool |
 | **attr** | 2.5.2 | Utilities for manipulating filesystem extended attributes | http://savannah.nongnu.org/projects/attr/ |
 | **attr-static** | 2.5.2 | Static libraries for attr | http://savannah.nongnu.org/projects/attr/ |
@@ -511,7 +511,7 @@
 | **fsmon** | 1.8.8 | Filesystem monitor with fanotify and inotify backends | https://github.com/nowsecure/fsmon |
 | **fwknop** | 2.6.11 | fwknop: Single Packet Authorization > Port Knocking | https://www.cipherdyne.org/fwknop/ |
 | **fwknop-static** | 2.6.11 | Static libraries for fwknop | https://www.cipherdyne.org/fwknop/ |
-| **fx** | 36.0.4 | Interactive JSON viewer on your terminal | https://github.com/antonmedv/fx |
+| **fx** | 37.0.0 | Interactive JSON viewer on your terminal | https://github.com/antonmedv/fx |
 | **fzf** | 0.62.0 | Command-line fuzzy finder | https://junegunn.github.io/fzf/ |
 | **fzy** | 1.0 | A simple, fast fuzzy finder for the terminal | https://github.com/jhawthorn/fzy |
 | **g-ir-scanner** | 1.84.0 | A tool which generates GIR XML files | https://gi.readthedocs.io/ |
@@ -673,7 +673,7 @@
 | **guile-static** | 3.0.9-2 | Static libraries for guile | http://www.gnu.org/software/guile/ |
 | **guile18** | 1.8.8-16 | Portable, embeddable Scheme implementation written in C. (legacy branch) | http://www.gnu.org/software/guile/ |
 | **guile18-static** | 1.8.8-16 | Static libraries for guile18 | http://www.gnu.org/software/guile/ |
-| **gum** | 0.16.1 | A tool for creating minimal interactive TUIs for shell scripts | https://github.com/charmbracelet/gum |
+| **gum** | 0.16.2 | A tool for creating minimal interactive TUIs for shell scripts | https://github.com/charmbracelet/gum |
 | **gumbo-parser** | 0.10.1 | An HTML5 parsing library | https://github.com/google/gumbo-parser |
 | **gumbo-parser-static** | 0.10.1 | Static libraries for gumbo-parser | https://github.com/google/gumbo-parser |
 | **gzip** | 1.14 | Standard GNU file compression utilities | https://www.gnu.org/software/gzip/ |
@@ -931,6 +931,7 @@
 | **libcec-static** | 7.1.1 | Static libraries for libcec | https://libcec.pulse-eight.com/ |
 | **libceres-solver** | 2.2.0-1 | C++ library for modeling and solving large, complicated optimization problems | http://ceres-solver.org |
 | **libchipmunk** | 7.0.3-1 | A fast and lightweight 2D game physics library | http://chipmunk2d.net |
+| **libclc** | 20.1.7 | Open source implementation of the library requirements of the OpenCL C programming language | https://libclc.llvm.org/ |
 | **libcln** | 1.3.7 | CLN is a library for efficient computations with all kinds of numbers in arbitrary precision | https://www.ginac.de/CLN/ |
 | **libcln-static** | 1.3.7 | Static libraries for libcln | https://www.ginac.de/CLN/ |
 | **libcloog** | 0.21.1 | Library that generates loops for scanning polyhedra | http://www.bastoul.net/cloog/index.php |
@@ -1699,9 +1700,10 @@
 | **memcached** | 1.6.38 | Free & open source, high-performance, distributed memory object caching system | https://memcached.org/ |
 | **mercury** | 22.01.8 | A logic/functional programming language | https://www.mercurylang.org/ |
 | **mercury-static** | 22.01.8 | Static libraries for mercury | https://www.mercurylang.org/ |
-| **mesa** | 25.1.4 | An open-source implementation of the OpenGL specification | https://www.mesa3d.org |
-| **mesa-dev** | 25.1.4 | Mesa's OpenGL headers | https://www.mesa3d.org |
-| **mesa-vulkan-icd-swrast** | 25.1.4 | Mesa's Swrast Vulkan ICD | https://www.mesa3d.org |
+| **mesa** | 25.1.4-1 | An open-source implementation of the OpenGL specification | https://www.mesa3d.org |
+| **mesa-dev** | 25.1.4-1 | Mesa's OpenGL headers | https://www.mesa3d.org |
+| **mesa-opencl-icd-rusticl** | 25.1.4-1 | Mesa's Rusticl OpenCL ICD | https://www.mesa3d.org |
+| **mesa-vulkan-icd-swrast** | 25.1.4-1 | Mesa's Swrast Vulkan ICD | https://www.mesa3d.org |
 | **mfcuk** | 2018.07.14 | MiFare Classic Universal toolKit (MFCUK) | https://github.com/nfc-tools/mfcuk |
 | **mg** | 20240709 | microscopic GNU Emacs-style editor | https://github.com/hboetes/mg |
 | **micro** | 2.0.14-1 | Modern and intuitive terminal-based text editor | https://micro-editor.github.io/ |
@@ -1714,7 +1716,7 @@
 | **minidlna** | 1.3.3-2 | A server software with the aim of being fully compliant with DLNA/UPnP-AV clients | https://sourceforge.net/projects/minidlna/ |
 | **miniflux** | 2.2.9 | A minimalist and opinionated feed reader | https://miniflux.app/ |
 | **minimodem** | 0.24-1-0 | General-purpose software audio FSK modem | http://www.whence.com/minimodem/ |
-| **minio** | 2025.05.24.17.08.30 | Multi-Cloud Object Storage | https://min.io/ |
+| **minio** | 2025.06.13.11.33.47 | Multi-Cloud Object Storage | https://min.io/ |
 | **miniserve** | 0.29.0 | Tool to serve files and dirs over HTTP | https://github.com/svenstaro/miniserve |
 | **minisign** | 0.12 | A dead simple tool to sign files and verify signatures | https://jedisct1.github.io/minisign/ |
 | **miniupnpc** | 2.3.3 | Small UPnP client library and tool to access Internet Gateway Devices | https://miniupnp.tuxfamily.org/ |
@@ -1855,7 +1857,7 @@
 | **o-editor** | 2.70.0 | Small, fast and limited text editor | https://github.com/xyproto/o |
 | **oathtool** | 2.6.12-1 | One-time password components | http://www.nongnu.org/oath-toolkit/ |
 | **oathtool-static** | 2.6.12-1 | Static libraries for oathtool | http://www.nongnu.org/oath-toolkit/ |
-| **ocl-icd** | 2.3.3 | OpenCL ICD Loader | https://github.com/OCL-dev/ocl-icd |
+| **ocl-icd** | 2.3.3-1 | OpenCL ICD Loader | https://github.com/OCL-dev/ocl-icd |
 | **ocrad** | 0.29 | Optical Character Recognition program based on a feature extraction method | https://www.gnu.org/software/ocrad/ocrad.html |
 | **ocrad-static** | 0.29 | Static libraries for ocrad | https://www.gnu.org/software/ocrad/ocrad.html |
 | **octomap** | 1.10.0 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
@@ -1919,7 +1921,7 @@
 | **osmctools** | 0.9-2 | Simple tools for OpenStreetMap processing | https://gitlab.com/osm-c-tools/osmctools |
 | **osmesa** | 25.0.5 | Mesa Off-screen Rendering Library | https://www.mesa3d.org |
 | **osmium-tool** | 1.18.0-2 | A multipurpose command line tool based on the Osmium Library | https://osmcode.org/osmium-tool/ |
-| **osslsigncode** | 2.9 | OpenSSL based Authenticode signing for PE/MSI/Java CAB files | https://github.com/mtrojnar/osslsigncode |
+| **osslsigncode** | 2.10 | OpenSSL based Authenticode signing for PE/MSI/Java CAB files | https://github.com/mtrojnar/osslsigncode |
 | **ossp-uuid** | 1.6.2-3 | ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122. | http://www.ossp.org/pkg/lib/uuid/ |
 | **ossp-uuid-static** | 1.6.2-3 | Static libraries for ossp-uuid | http://www.ossp.org/pkg/lib/uuid/ |
 | **ovmf** | 20231122-16.fc40-0 | Open Virtual Machine Firmware | https://www.tianocore.org/ |
@@ -2330,6 +2332,7 @@
 | **spidermonkey** | 128.10.0 | Mozilla's JavaScript engine | https://spidermonkey.dev |
 | **spiped** | 1.6.4 | a utility for creating symmetrically encrypted and authenticated pipes between socket addresses | https://www.tarsnap.com/spiped.html |
 | **spirv-headers** | 1.4.313.0 | SPIR-V Headers | https://github.com/KhronosGroup/SPIRV-Headers |
+| **spirv-llvm-translator** | 20.1.3 | SPIR-V LLVM Translator | https://github.com/KhronosGroup/SPIRV-LLVM-Translator |
 | **spirv-tools** | 1.4.313.0 | SPIR-V Tools | https://github.com/KhronosGroup/SPIRV-Tools |
 | **sqlcipher** | 4.6.1 | SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files | https://github.com/sqlcipher/sqlcipher |
 | **sqlcipher-static** | 4.6.1 | Static libraries for sqlcipher | https://github.com/sqlcipher/sqlcipher |
