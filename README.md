@@ -786,7 +786,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-1 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.22.2054 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.22.2056 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **janet** | 1.38.0 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
 | **jbig2dec** | 0.20 | Decoder implementation of the JBIG2 image compression format | https://jbig2dec.com/ |
 | **jbig2dec-static** | 0.20 | Static libraries for jbig2dec | https://jbig2dec.com/ |
@@ -1741,7 +1741,7 @@
 | **mktorrent** | 1.1-p20210130-0 | command line utility to create BitTorrent metainfo files | https://github.com/Rudde/mktorrent |
 | **mlir** | 20.1.7 | A Multi-Level Intermediate Representation for compilers from LLVM | https://clang.llvm.org/ |
 | **mlocate** | 0.26-5 | Tool to find files anywhere in the filesystem based on their name | https://pagure.io/mlocate |
-| **moar** | 1.32.0 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moar |
+| **moar** | 1.32.1 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moar |
 | **mold** | 2.40.1-1 | mold: A Modern Linker | https://github.com/rui314/mold |
 | **monero** | 0.18.4.0 | A private, secure, untraceable, decentralised digital currency | https://getmonero.org/ |
 | **mono** | 6.14.1 | Framework Mono | https://gitlab.winehq.org/mono/mono |

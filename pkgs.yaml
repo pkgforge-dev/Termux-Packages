@@ -3103,7 +3103,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.2054
+  Version: 0.22.2056
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: janet
@@ -6923,7 +6923,7 @@
   Description: Tool to find files anywhere in the filesystem based on their name
   Homepage: https://pagure.io/mlocate
 - Package: moar
-  Version: 1.32.0
+  Version: 1.32.1
   Description: A pager designed to just do the right thing without any configuration
   Homepage: https://github.com/walles/moar
 - Package: mold
