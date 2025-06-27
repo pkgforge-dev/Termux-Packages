@@ -18,7 +18,7 @@
  ada  3.2.4  WHATWG-compliant and fast URL parser written in modern C++  https://github.com/ada-url/ada 
  adms  2.3.7  A code generator for the Verilog-AMS language  https://github.com/qucs/adms 
  aerc  0.20.1  A pretty good email client  https://aerc-mail.org/ 
- agate  3.3.16  Very simple server for the Gemini hypertext protocol  https://github.com/mbrubeck/agate 
+ agate  3.3.17  Very simple server for the Gemini hypertext protocol  https://github.com/mbrubeck/agate 
  age  1:1.2.1  A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability  https://github.com/FiloSottile/age 
  agg  1.5.0  asciinema gif generator  https://github.com/asciinema/agg 
  aha  0.5.1-1  Converts ANSI escape sequences of a unix terminal to HTML code  https://github.com/theZiz/aha 
@@ -166,7 +166,7 @@
  brainfuck-static  1:2.7.3  Static libraries for brainfuck  https://github.com/fabianishere/brainfuck 
  brogue  1.14.1  Roguelike dungeon crawling game (community edition)  https://sites.google.com/site/broguegame/ 
  brook  20250202  A cross-platform strong encryption and not detectable proxy. Zero-Configuration.  https://github.com/txthinking/brook 
- broot  1.46.5  A better way to navigate directories  https://github.com/Canop/broot 
+ broot  1.47.0  A better way to navigate directories  https://github.com/Canop/broot 
  brotli  1.1.0-2  lossless compression algorithm and format (command line utility)  https://github.com/google/brotli 
  brotli-static  1.0.9-1  Static libraries for brotli  https://github.com/google/brotli 
  bsd-finger  0.17-1  User information lookup program  https://packages.debian.org/sid/source/bsd-finger 
@@ -546,8 +546,8 @@
  geoip2-database  20191221-2  GeoLite2 IP geolocation databases compiled by MaxMind  https://dev.maxmind.com/geoip/geoip2/geolite2/ 
  germanium  1.2.3-3  Generate image from source code  https://github.com/matsuyoshi30/germanium 
  getconf  0.6  Utility to print configuration values  https://github.com/termux/getconf 
- geth  1.15.11  Go implementation of the Ethereum protocol  https://geth.ethereum.org/ 
- geth-utils  1.15.11  Additional utilities for Geth (like abigen, bootnode, evm, puppeth)  https://geth.ethereum.org/ 
+ geth  1.16.0  Go implementation of the Ethereum protocol  https://geth.ethereum.org/ 
+ geth-utils  1.16.0  Additional utilities for Geth (like abigen, bootnode, evm, puppeth)  https://geth.ethereum.org/ 
  gettext  0.25  GNU Internationalization utilities  https://www.gnu.org/software/gettext/ 
  gettext-static  0.25  Static libraries for gettext  https://www.gnu.org/software/gettext/ 
  gexiv2  0.14.5  A GObject-based Exiv2 wrapper  https://wiki.gnome.org/Projects/gexiv2 
@@ -1218,8 +1218,8 @@
  libneon-static  0.34.2  Static libraries for libneon  https://notroj.github.io/neon/ 
  libnet  1.3  A library which provides API for commonly used low-level net functions  https://github.com/libnet/libnet 
  libnet-static  1.3  Static libraries for libnet  https://github.com/libnet/libnet 
- libnettle  3.10.1  Cryptographic library that is designed to fit easily in more or less any context  https://www.lysator.liu.se/~nisse/nettle/ 
- libnettle-static  3.10.1  Static libraries for libnettle  https://www.lysator.liu.se/~nisse/nettle/ 
+ libnettle  3.10.2  Cryptographic library that is designed to fit easily in more or less any context  https://www.lysator.liu.se/~nisse/nettle/ 
+ libnettle-static  3.10.2  Static libraries for libnettle  https://www.lysator.liu.se/~nisse/nettle/ 
  libnewt  0.52.25  A programming library for color text mode, widget based user interfaces  https://pagure.io/newt 
  libnewt-static  0.52.25  Static libraries for libnewt  https://pagure.io/newt 
  libnfc  1.8.0-1  Free/Libre Near Field Communication (NFC) library  https://github.com/nfc-tools/libnfc 
@@ -1322,7 +1322,7 @@
  librav1e-static  0.7.1-3  Static libraries for librav1e  https://github.com/xiph/rav1e/ 
  libraw  0.21.4  Library for reading RAW files from digital cameras  https://www.libraw.org/ 
  libraw-static  0.21.4  Static libraries for libraw  https://www.libraw.org/ 
- libre2  2024.07.02-2  A regular expression library  https://github.com/google/re2 
+ libre2  2025-06-26b-0  A regular expression library  https://github.com/google/re2 
  libregexp-assemble-perl  0.38-6  Perl module to merge several regular expressions  https://metacpan.org/pod/Regexp::Assemble 
  libresolv-wrapper  1.1.7-4  A wrapper for DNS name resolving or DNS faking  https://cwrap.org/resolv_wrapper.html 
  libretls  3.8.1  libtls for OpenSSL  https://git.causal.agency/libretls/about/ 
@@ -1822,7 +1822,7 @@
  netstandard-targeting-pack-2.1  9.0  A metapackage for NETStandard.Library 2.1 Targeting Pack  https://dotnet.microsoft.com/en-us/ 
  netstandard-targeting-pack-2.1-8.0  8.0.17  NETStandard.Library 2.1 Targeting Pack (.NET 8.0)  https://dotnet.microsoft.com/en-us/ 
  netstandard-targeting-pack-2.1-9.0  9.0.6  NETStandard.Library 2.1 Targeting Pack (.NET 9.0)  https://dotnet.microsoft.com/en-us/ 
- nettle  3.10.1  Low level cryptographic tools  https://www.lysator.liu.se/~nisse/nettle/ 
+ nettle  3.10.2  Low level cryptographic tools  https://www.lysator.liu.se/~nisse/nettle/ 
  newsboat  2.40  RSS/Atom feed reader for the text console  https://newsboat.org/ 
  nginx  1.29.0  Lightweight HTTP server  https://www.nginx.org 
  ngircd  27  Free, portable and lightweight Internet Relay Chat server  https://ngircd.barton.de/ 
@@ -1925,8 +1925,8 @@
  ossp-uuid  1.6.2-3  ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122.  http://www.ossp.org/pkg/lib/uuid/ 
  ossp-uuid-static  1.6.2-3  Static libraries for ossp-uuid  http://www.ossp.org/pkg/lib/uuid/ 
  ovmf  20231122-16.fc40-0  Open Virtual Machine Firmware  https://www.tianocore.org/ 
- oxc-language-server  1.2.0  Oxc JavaScript linter language server  https://oxc.rs/ 
- oxlint  1.2.0  Oxc JavaScript linter  https://oxc.rs/ 
+ oxc-language-server  1.3.0  Oxc JavaScript linter language server  https://oxc.rs/ 
+ oxlint  1.3.0  Oxc JavaScript linter  https://oxc.rs/ 
  p11-kit  0.25.5  Provides a way to load and enumerate PKCS#11 modules  https://p11-glue.github.io/p11-glue/p11-kit.html 
  p7zip  17.06  Command-line version of the 7zip compressed file archiver  https://github.com/p7zip-project/p7zip 
  pacman  7.0.0-3  A library-based package manager with dependency support  https://archlinux.org/pacman/ 
@@ -2091,7 +2091,7 @@
  python-pyarrow  20.0.0  Python bindings for Apache Arrow  https://github.com/apache/arrow 
  python-pycryptodomex  3.23.0  A self-contained Python package of low-level cryptographic primitives  https://www.pycryptodome.org/ 
  python-pynvim  0.5.2  Python client for Neovim  https://github.com/neovim/pynvim 
- python-ruff  0.12.0  An extremely fast Python linter, written in Rust (Python bindings)  https://github.com/charliermarsh/ruff 
+ python-ruff  0.12.1  An extremely fast Python linter, written in Rust (Python bindings)  https://github.com/charliermarsh/ruff 
  python-sabyenc3  8.2.5-1  C implementations of functions for use within SABnzbd  https://github.com/sabnzbd/sabctools 
  python-skia-pathops  0.8.0-1  Python bindings for the Skia library's Path Ops  https://github.com/fonttools/skia-pathops 
  python-static  3.12.11  Static libraries for python  https://python.org/ 
@@ -2221,7 +2221,7 @@
  rubiks-cube  1.2  A rubik's cube that runs in your terminal  https://github.com/been-jamming/rubiks_cube 
  ruby  3.4.1-1  Dynamic programming language with a focus on simplicity and productivity  https://www.ruby-lang.org/ 
  ruby-ri  3.4.1-1  Ruby documentation index  https://www.ruby-lang.org/ 
- ruff  0.12.0  An extremely fast Python linter, written in Rust  https://github.com/charliermarsh/ruff 
+ ruff  0.12.1  An extremely fast Python linter, written in Rust  https://github.com/charliermarsh/ruff 
  runit  2.1.2-3  Tools to provide service supervision and to manage services  http://smarden.org/runit 
  runit-static  2.1.2-3  Static libraries for runit  http://smarden.org/runit 
  rush  0.7.0  A cross-platform command-line tool for executing jobs in parallel  https://github.com/shenwei356/rush 
@@ -2663,7 +2663,7 @@
  wordgrinder  0.8  A Unicode-aware character cell word processor  http://cowlark.com/wordgrinder/ 
  wren  0.4.0-1  Small, fast, class-based concurrent scripting language interpreter  https://wren.io/ 
  wrk  4.2.0  Modern HTTP benchmarking tool  https://github.com/wg/wrk 
- wtfutil  0.44.0  The personal information dashboard for your terminal  https://wtfutil.com/ 
+ wtfutil  0.44.1  The personal information dashboard for your terminal  https://wtfutil.com/ 
  wuzz  0.5.0-4  Interactive command line tool for HTTP inspection  https://github.com/asciimoo/wuzz 
  wv-tools  1.2.9-4  Command-line tools for libwv  https://wvware.sourceforge.net/ 
  x11-repo  8.4-1  Package repository containing X11 programs and libraries  https://github.com/termux/x11-packages 
