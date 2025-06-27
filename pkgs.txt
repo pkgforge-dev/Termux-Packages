@@ -661,11 +661,11 @@
  gsf-tools  1.14.53-1  Command-line tools for libgsf  https://gitlab.gnome.org/GNOME/libgsf 
  gsl  2.8  GNU Scientific Library (GSL) providing a wide range of mathematical routines  https://www.gnu.org/software/gsl/ 
  gsl-static  2.8  Static libraries for gsl  https://www.gnu.org/software/gsl/ 
- gst-libav  1.26.2  GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code  https://gstreamer.freedesktop.org/modules/gst-libav.html 
- gst-plugins-bad  1.26.2  GStreamer Bad Plug-ins  https://gstreamer.freedesktop.org/ 
- gst-plugins-base  1.26.2-1  GStreamer base plug-ins  https://gstreamer.freedesktop.org/ 
- gst-plugins-good  1.26.2  GStreamer Good Plug-ins  https://gstreamer.freedesktop.org/ 
- gst-plugins-ugly  1.26.2  GStreamer Ugly Plug-ins  https://gstreamer.freedesktop.org/ 
+ gst-libav  1.26.3  GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code  https://gstreamer.freedesktop.org/modules/gst-libav.html 
+ gst-plugins-bad  1.26.3  GStreamer Bad Plug-ins  https://gstreamer.freedesktop.org/ 
+ gst-plugins-base  1.26.3  GStreamer base plug-ins  https://gstreamer.freedesktop.org/ 
+ gst-plugins-good  1.26.3  GStreamer Good Plug-ins  https://gstreamer.freedesktop.org/ 
+ gst-plugins-ugly  1.26.3  GStreamer Ugly Plug-ins  https://gstreamer.freedesktop.org/ 
  gst-python  1.26.2  Python bindings for GStreamer  https://gstreamer.freedesktop.org/ 
  gstreamer  1.26.3  Open source multimedia framework  https://gstreamer.freedesktop.org/ 
  gtypist  2.10.1  Universal typing tutor  https://www.gnu.org/software/gtypist/ 
@@ -1899,7 +1899,7 @@
  openjpeg-tools  2.5.3  Command-line tools using the JPEG 2000 library  https://www.openjpeg.org/ 
  openldap  2.6.10  OpenLDAP server  https://openldap.org 
  openldap-static  2.6.10  Static libraries for openldap  https://openldap.org 
- openlist  4.0.3  A file list program that supports multiple storage  https://oplist.org/ 
+ openlist  4.0.4  A file list program that supports multiple storage  https://oplist.org/ 
  openmpi  4.1.5  Open source Message Passing Interface implementation  https://www.open-mpi.org 
  openmpi-static  4.1.5  Static libraries for openmpi  https://www.open-mpi.org 
  opensc  0.26.1  Open source smart card tools and middleware  https://github.com/OpenSC/OpenSC 
@@ -2148,7 +2148,7 @@
  rage  0.11.1  A simple, secure and modern encryption tool  https://age-encryption.org/v1 
  ragel  7.0.4  Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code  https://www.colm.net/open-source/ragel/ 
  ragel-static  7.0.4  Static libraries for ragel  https://www.colm.net/open-source/ragel/ 
- railway-cli  4.5.3  This is the command line interface for Railway  https://railway.app 
+ railway-cli  4.5.4  This is the command line interface for Railway  https://railway.app 
  range-v3  0.12.0  Range library for C++14/17/20, basis for C++20's std::ranges  https://github.com/ericniebler/range-v3 
  ranger  1.9.4  File manager with VI key bindings  https://ranger.github.io/ 
  rapidjson  1.1.0-5  Fast JSON parser/generator for C++ with SAX/DOM style API  https://github.com/Tencent/rapidjson/ 
@@ -2615,7 +2615,7 @@
  vttest  20241208  Program for testing the VT100 compatibility of terminal emulators  https://invisible-island.net/vttest/ 
  vtutils  0.5-4  Utilities for testing and working with virtual terminals  https://github.com/fornwall/vtutils 
  vulkan-extension-layer  1.4.313  Vulkan Extension Layer  https://github.com/KhronosGroup/Vulkan-ExtensionLayer 
- vulkan-headers  1.4.319  Vulkan Header files and API registry  https://github.com/KhronosGroup/Vulkan-Headers 
+ vulkan-headers  1.4.320  Vulkan Header files and API registry  https://github.com/KhronosGroup/Vulkan-Headers 
  vulkan-icd  0.1  A metapackage that provides Vulkan ICDs  https://github.com/termux/termux-packages 
  vulkan-loader  0.0.3  A metapackage that provides vulkan loader library  https://github.com/termux/termux-packages 
  vulkan-loader-android  27c  Vulkan Loader for Android  https://source.android.com/devices/graphics/arch-vulkan 

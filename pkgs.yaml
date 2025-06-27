@@ -2651,23 +2651,23 @@
   Description: Static libraries for gsl
   Homepage: https://www.gnu.org/software/gsl/
 - Package: gst-libav
-  Version: 1.26.2
+  Version: 1.26.3
   Description: GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code
   Homepage: https://gstreamer.freedesktop.org/modules/gst-libav.html
 - Package: gst-plugins-bad
-  Version: 1.26.2
+  Version: 1.26.3
   Description: GStreamer Bad Plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-plugins-base
-  Version: 1.26.2-1
+  Version: 1.26.3
   Description: GStreamer base plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-plugins-good
-  Version: 1.26.2
+  Version: 1.26.3
   Description: GStreamer Good Plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-plugins-ugly
-  Version: 1.26.2
+  Version: 1.26.3
   Description: GStreamer Ugly Plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-python
@@ -7603,7 +7603,7 @@
   Description: Static libraries for openldap
   Homepage: https://openldap.org
 - Package: openlist
-  Version: 4.0.3
+  Version: 4.0.4
   Description: A file list program that supports multiple storage
   Homepage: https://oplist.org/
 - Package: openmpi
@@ -8599,7 +8599,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 4.5.3
+  Version: 4.5.4
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
@@ -10467,7 +10467,7 @@
   Description: Vulkan Extension Layer
   Homepage: https://github.com/KhronosGroup/Vulkan-ExtensionLayer
 - Package: vulkan-headers
-  Version: 1.4.319
+  Version: 1.4.320
   Description: Vulkan Header files and API registry
   Homepage: https://github.com/KhronosGroup/Vulkan-Headers
 - Package: vulkan-icd
