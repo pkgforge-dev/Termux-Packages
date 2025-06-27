@@ -2287,7 +2287,7 @@
   Description: A graphical interface to Git
   Homepage: https://git-scm.com/
 - Package: git-lfs
-  Version: 3.6.1
+  Version: 3.7.0
   Description: Git extension for versioning large files
   Homepage: https://git-lfs.github.com/
 - Package: git-sizer
@@ -2675,7 +2675,7 @@
   Description: Python bindings for GStreamer
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gstreamer
-  Version: 1.26.2
+  Version: 1.26.3
   Description: Open source multimedia framework
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gtypist
@@ -3103,7 +3103,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.2056
+  Version: 0.22.2064
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: janet
