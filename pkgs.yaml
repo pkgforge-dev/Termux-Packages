@@ -1959,15 +1959,15 @@
   Description: Open-source formatting library for C++
   Homepage: https://fmt.dev/latest/index.html
 - Package: fontconfig
-  Version: 2.16.2
+  Version: 2.17.0
   Description: Library for configuring and customizing font access
   Homepage: https://www.freedesktop.org/wiki/Software/fontconfig/
 - Package: fontconfig-static
-  Version: 2.16.2
+  Version: 2.17.0
   Description: Static libraries for fontconfig
   Homepage: https://www.freedesktop.org/wiki/Software/fontconfig/
 - Package: fontconfig-utils
-  Version: 2.16.2
+  Version: 2.17.0
   Description: Fontconfig binaries
   Homepage: https://www.freedesktop.org/wiki/Software/fontconfig/
 - Package: forestdb-dump
@@ -2055,7 +2055,7 @@
   Description: Interactive JSON viewer on your terminal
   Homepage: https://github.com/antonmedv/fx
 - Package: fzf
-  Version: 0.62.0
+  Version: 0.63.0
   Description: Command-line fuzzy finder
   Homepage: https://junegunn.github.io/fzf/
 - Package: fzy
@@ -2671,7 +2671,7 @@
   Description: GStreamer Ugly Plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-python
-  Version: 1.26.2
+  Version: 1.26.3
   Description: Python bindings for GStreamer
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gstreamer
@@ -8639,7 +8639,7 @@
   Description: An alternative implementation of the plan 9 rc shell
   Homepage: https://github.com/rakitzis/rc
 - Package: rclone
-  Version: 1.70.1
+  Version: 1.70.2
   Description: rsync for cloud storage
   Homepage: https://rclone.org/
 - Package: rcm
@@ -10487,11 +10487,11 @@
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
-  Version: 1.4.319
+  Version: 1.4.320
   Description: Vulkan Tools and Utilities
   Homepage: https://github.com/KhronosGroup/Vulkan-Tools
 - Package: vulkan-utility-libraries
-  Version: 1.4.319
+  Version: 1.4.320
   Description: Utility Libraries for Vulkan
   Homepage: https://github.com/KhronosGroup/Vulkan-Utility-Libraries
 - Package: vulkan-validation-layers
