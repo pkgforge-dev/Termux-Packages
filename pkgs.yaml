@@ -795,7 +795,7 @@
   Description: Multi-shell multi-command argument completer
   Homepage: https://carapace.sh/
 - Package: cargo-c
-  Version: 0.10.13
+  Version: 0.10.14
   Description: Cargo C-ABI helpers
   Homepage: https://github.com/lu-zero/cargo-c
 - Package: catdoc
@@ -3103,7 +3103,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.2072
+  Version: 0.22.2075
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: janet
@@ -8027,7 +8027,7 @@
   Description: Interactive package manager and resource monitor
   Homepage: https://github.com/orhun/pkgtop
 - Package: plantuml
-  Version: 1.2025.3
+  Version: 1.2025.4
   Description: Draws UML diagrams, using a simple and human readable text description
   Homepage: https://plantuml.com/
 - Package: play-audio
