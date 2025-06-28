@@ -63,7 +63,7 @@
   Description: Tool like grep optimized for programmers
   Homepage: https://beyondgrep.com/
 - Package: acr
-  Version: 2.2.0
+  Version: 2.2.2
   Description: A fully compatible autoconf replacement
   Homepage: https://github.com/radareorg/acr
 - Package: ada
@@ -6875,7 +6875,7 @@
   Description: Multi-Cloud Object Storage
   Homepage: https://min.io/
 - Package: miniserve
-  Version: 0.30.0
+  Version: 0.31.0
   Description: Tool to serve files and dirs over HTTP
   Homepage: https://github.com/svenstaro/miniserve
 - Package: minisign
