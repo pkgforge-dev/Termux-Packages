@@ -1547,7 +1547,7 @@
   Description: Creates Packages index files
   Homepage: https://packages.debian.org/dpkg
 - Package: dropbear
-  Version: "2025.87"
+  Version: 2025.87-1
   Description: Small SSH server and client
   Homepage: https://matt.ucc.asn.au/dropbear/dropbear.html
 - Package: dtach
@@ -5075,7 +5075,7 @@
   Description: Static libraries for libosl
   Homepage: http://icps.u-strasbg.fr/~bastoul/development/openscop
 - Package: libosmium
-  Version: 2.22.0-2
+  Version: 2.22.0-3
   Description: Library for reading from and writing to OSM files in XML and PBF formats
   Homepage: https://osmcode.org/libosmium/
 - Package: libosmpbf
@@ -5239,7 +5239,7 @@
   Description: Static libraries for libprotobuf-c
   Homepage: https://github.com/protobuf-c/protobuf-c
 - Package: libprotozero
-  Version: 1.7.1
+  Version: 1.8.0
   Description: Minimalistic protocol buffer decoder and encoder in C++
   Homepage: https://github.com/mapbox/protozero
 - Package: libpsl
@@ -7687,7 +7687,7 @@
   Description: Mesa Off-screen Rendering Library
   Homepage: https://www.mesa3d.org
 - Package: osmium-tool
-  Version: 1.18.0-2
+  Version: 1.18.0-3
   Description: A multipurpose command line tool based on the Osmium Library
   Homepage: https://osmcode.org/osmium-tool/
 - Package: osslsigncode
@@ -10303,7 +10303,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.7.15
+  Version: 0.7.16
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi

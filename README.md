@@ -397,7 +397,7 @@
 | **dpkg** | 1.22.6-1 | Debian package management system | https://packages.debian.org/dpkg |
 | **dpkg-perl** | 1.22.6-1 | Perl modules for dpkg | https://packages.debian.org/dpkg |
 | **dpkg-scanpackages** | 1.22.6-1 | Creates Packages index files | https://packages.debian.org/dpkg |
-| **dropbear** | 2025.87 | Small SSH server and client | https://matt.ucc.asn.au/dropbear/dropbear.html |
+| **dropbear** | 2025.87-1 | Small SSH server and client | https://matt.ucc.asn.au/dropbear/dropbear.html |
 | **dtach** | 0.9 | Emulates the detach feature of screen | http://dtach.sourceforge.net/ |
 | **dtc** | 1.7.2 | Device Tree Compiler | https://git.kernel.org/pub/scm/utils/dtc/dtc |
 | **dtc-static** | 1.7.2 | Static libraries for dtc | https://git.kernel.org/pub/scm/utils/dtc/dtc |
@@ -1279,7 +1279,7 @@
 | **liborc** | 0.4.41 | Library of Optimized Inner Loops Runtime Compiler | https://gstreamer.freedesktop.org/projects/orc.html |
 | **libosl** | 0.9.7 | A Specification and a Library for Data Exchange in Polyhedral Compilation Tools | http://icps.u-strasbg.fr/~bastoul/development/openscop |
 | **libosl-static** | 0.9.7 | Static libraries for libosl | http://icps.u-strasbg.fr/~bastoul/development/openscop |
-| **libosmium** | 2.22.0-2 | Library for reading from and writing to OSM files in XML and PBF formats | https://osmcode.org/libosmium/ |
+| **libosmium** | 2.22.0-3 | Library for reading from and writing to OSM files in XML and PBF formats | https://osmcode.org/libosmium/ |
 | **libosmpbf** | 1.5.1-1 | osmpbf is a Java/C library to read and write OpenStreetMap PBF files | https://github.com/openstreetmap/OSM-binary/ |
 | **libosmpbf-static** | 1.5.1-1 | Static libraries for libosmpbf | https://github.com/openstreetmap/OSM-binary/ |
 | **libotr** | 4.1.1-2 | Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing: Encryption, Authentication, Deniability, Perfect forward secrecy | https://otr.cypherpunks.ca |
@@ -1320,7 +1320,7 @@
 | **libprotobuf** | 2:30.0-3 | Protocol buffers C++ library | https://github.com/protocolbuffers/protobuf |
 | **libprotobuf-c** | 1.5.2 | Protocol buffers C library | https://github.com/protobuf-c/protobuf-c |
 | **libprotobuf-c-static** | 1.5.2 | Static libraries for libprotobuf-c | https://github.com/protobuf-c/protobuf-c |
-| **libprotozero** | 1.7.1 | Minimalistic protocol buffer decoder and encoder in C++ | https://github.com/mapbox/protozero |
+| **libprotozero** | 1.8.0 | Minimalistic protocol buffer decoder and encoder in C++ | https://github.com/mapbox/protozero |
 | **libpsl** | 0.21.5 | Public Suffix List library | https://github.com/rockdaboot/libpsl |
 | **libpsl-static** | 0.21.5 | Static libraries for libpsl | https://github.com/rockdaboot/libpsl |
 | **libpugixml** | 1.15 | Light-weight, simple and fast XML parser for C++ with XPath support | https://pugixml.org/ |
@@ -1932,7 +1932,7 @@
 | **opusfile-static** | 0.12-3 | Static libraries for opusfile | https://www.opus-codec.org/ |
 | **osmctools** | 0.9-2 | Simple tools for OpenStreetMap processing | https://gitlab.com/osm-c-tools/osmctools |
 | **osmesa** | 25.0.5 | Mesa Off-screen Rendering Library | https://www.mesa3d.org |
-| **osmium-tool** | 1.18.0-2 | A multipurpose command line tool based on the Osmium Library | https://osmcode.org/osmium-tool/ |
+| **osmium-tool** | 1.18.0-3 | A multipurpose command line tool based on the Osmium Library | https://osmcode.org/osmium-tool/ |
 | **osslsigncode** | 2.10 | OpenSSL based Authenticode signing for PE/MSI/Java CAB files | https://github.com/mtrojnar/osslsigncode |
 | **ossp-uuid** | 1.6.2-3 | ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122. | http://www.ossp.org/pkg/lib/uuid/ |
 | **ossp-uuid-static** | 1.6.2-3 | Static libraries for ossp-uuid | http://www.ossp.org/pkg/lib/uuid/ |
@@ -2586,7 +2586,7 @@
 | **util-linux-static** | 2.40.2-3 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-1 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.40.2-3 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **uv** | 0.7.15 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
+| **uv** | 0.7.16 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.30 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.33.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.18 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
