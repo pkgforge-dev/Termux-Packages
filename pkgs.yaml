@@ -375,7 +375,7 @@
   Description: AT and batch delayed command scheduling utility and daemon
   Homepage: https://salsa.debian.org/debian/at
 - Package: at-spi2-core
-  Version: 2.56.2
+  Version: 2.56.3
   Description: Assistive Technology Service Provider Interface (AT-SPI)
   Homepage: https://wiki.gnome.org/Accessibility
 - Package: atomicparsley
@@ -3103,7 +3103,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.2075
+  Version: 0.22.2084
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: janet
@@ -8095,7 +8095,7 @@
   Description: Static libraries for portaudio
   Homepage: https://www.portaudio.com/
 - Package: portmidi
-  Version: 2.0.4
+  Version: 2.0.6
   Description: A cross-platform MIDI input/output library
   Homepage: https://github.com/PortMidi/portmidi
 - Package: posixvala

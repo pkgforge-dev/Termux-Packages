@@ -92,7 +92,7 @@
 | **astra-sm** | 2019.06.19 | Software for digital TV broadcasting | https://gitlab.com/berdyansk/astra-sm |
 | **asymptote** | 3.04 | A powerful descriptive vector graphics language for technical drawing | https://asymptote.sourceforge.io/ |
 | **at** | 3.2.5-1 | AT and batch delayed command scheduling utility and daemon | https://salsa.debian.org/debian/at |
-| **at-spi2-core** | 2.56.2 | Assistive Technology Service Provider Interface (AT-SPI) | https://wiki.gnome.org/Accessibility |
+| **at-spi2-core** | 2.56.3 | Assistive Technology Service Provider Interface (AT-SPI) | https://wiki.gnome.org/Accessibility |
 | **atomicparsley** | 1:20240608.083822.1ed9031 | Read, parse and set metadata of MPEG-4 and 3gp files | https://github.com/wez/atomicparsley |
 | **atomvm** | 1:0.6.6 | The minimal Erlang VM implementation | https://github.com/bettio/AtomVM |
 | **atool** | 0.39.0-1 | tool for managing file archives of various types | https://www.nongnu.org/atool |
@@ -774,7 +774,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-1 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.22.2075 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.22.2084 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **janet** | 1.38.0 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
 | **jbig2dec** | 0.20 | Decoder implementation of the JBIG2 image compression format | https://jbig2dec.com/ |
 | **jbig2dec-static** | 0.20 | Static libraries for jbig2dec | https://jbig2dec.com/ |
@@ -2022,7 +2022,7 @@
 | **poppler-data** | 0.4.12 | Consists of encoding files for use with poppler | https://poppler.freedesktop.org/ |
 | **portaudio** | 19.07.00-2 | A portable audio I/O library | https://www.portaudio.com/ |
 | **portaudio-static** | 19.07.00-2 | Static libraries for portaudio | https://www.portaudio.com/ |
-| **portmidi** | 2.0.4 | A cross-platform MIDI input/output library | https://github.com/PortMidi/portmidi |
+| **portmidi** | 2.0.6 | A cross-platform MIDI input/output library | https://github.com/PortMidi/portmidi |
 | **posixvala** | 0.2 | Aims to bring back the posix profile for Vala | https://github.com/radare/posixvala |
 | **postgis** | 3.5.3 | Spatial database extender for PostgreSQL object-relational database | https://postgis.net |
 | **postgresql** | 17.0-3 | Object-relational SQL database | https://www.postgresql.org |
