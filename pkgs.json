@@ -745,7 +745,7 @@
   },
   {
     "Package": "bat",
-    "Version": "0.25.0-1",
+    "Version": "0.25.0-2",
     "Description": "A cat(1) clone with wings",
     "Homepage": "https://github.com/sharkdp/bat"
   },
@@ -901,7 +901,7 @@
   },
   {
     "Package": "blk-utils",
-    "Version": "2.40.2-3",
+    "Version": "2.40.2-4",
     "Description": "Utilities for handling block device attributes",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -1069,7 +1069,7 @@
   },
   {
     "Package": "busybox",
-    "Version": "1.37.0",
+    "Version": "1.37.0-1",
     "Description": "Tiny versions of many common UNIX utilities into a single small executable",
     "Homepage": "https://busybox.net/"
   },
@@ -1615,7 +1615,7 @@
   },
   {
     "Package": "coreutils",
-    "Version": "9.7",
+    "Version": "9.7-1",
     "Description": "Basic file, shell and text manipulation utilities from the GNU project",
     "Homepage": "https://www.gnu.org/software/coreutils/"
   },
@@ -1681,7 +1681,7 @@
   },
   {
     "Package": "cronie",
-    "Version": "1.7.2-2",
+    "Version": "1.7.2-3",
     "Description": "Daemon that runs specified programs at scheduled times and related tools",
     "Homepage": "https://github.com/cronie-crond/cronie/"
   },
@@ -2305,19 +2305,19 @@
   },
   {
     "Package": "dpkg",
-    "Version": "1.22.6-1",
+    "Version": "1.22.6-2",
     "Description": "Debian package management system",
     "Homepage": "https://packages.debian.org/dpkg"
   },
   {
     "Package": "dpkg-perl",
-    "Version": "1.22.6-1",
+    "Version": "1.22.6-2",
     "Description": "Perl modules for dpkg",
     "Homepage": "https://packages.debian.org/dpkg"
   },
   {
     "Package": "dpkg-scanpackages",
-    "Version": "1.22.6-1",
+    "Version": "1.22.6-2",
     "Description": "Creates Packages index files",
     "Homepage": "https://packages.debian.org/dpkg"
   },
@@ -2527,7 +2527,7 @@
   },
   {
     "Package": "emacs",
-    "Version": "30.1-2",
+    "Version": "30.1-3",
     "Description": "Extensible, customizable text editor-and more",
     "Homepage": "https://www.gnu.org/software/emacs/"
   },
@@ -2755,7 +2755,7 @@
   },
   {
     "Package": "fdisk",
-    "Version": "2.40.2-3",
+    "Version": "2.40.2-4",
     "Description": "Utilities to manipulate disk partition tables",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -3397,7 +3397,7 @@
   },
   {
     "Package": "git",
-    "Version": "2.50.0",
+    "Version": "2.50.0-1",
     "Description": "Fast, scalable, distributed revision control system",
     "Homepage": "https://git-scm.com/"
   },
@@ -3421,13 +3421,13 @@
   },
   {
     "Package": "git-gitk",
-    "Version": "2.50.0",
+    "Version": "2.50.0-1",
     "Description": "Git repository browser",
     "Homepage": "https://git-scm.com/"
   },
   {
     "Package": "git-gui",
-    "Version": "2.50.0",
+    "Version": "2.50.0-1",
     "Description": "A graphical interface to Git",
     "Homepage": "https://git-scm.com/"
   },
@@ -3445,7 +3445,7 @@
   },
   {
     "Package": "git-svn",
-    "Version": "2.50.0",
+    "Version": "2.50.0-1",
     "Description": "Convert between Git and Subversion repositories",
     "Homepage": "https://git-scm.com/"
   },
@@ -4747,7 +4747,7 @@
   },
   {
     "Package": "joe",
-    "Version": "4.6-2",
+    "Version": "4.6-3",
     "Description": "Wordstar like text editor",
     "Homepage": "http://joe-editor.sourceforge.net"
   },
@@ -4831,7 +4831,7 @@
   },
   {
     "Package": "jupp",
-    "Version": "3.1jupp41",
+    "Version": "3.1jupp41-1",
     "Description": "User friendly full screen text editor",
     "Homepage": "http://www.mirbsd.org/jupp.htm"
   },
@@ -4867,7 +4867,7 @@
   },
   {
     "Package": "kakoune",
-    "Version": "2025.06.03",
+    "Version": "2025.06.03-1",
     "Description": "Code editor heavily inspired by Vim",
     "Homepage": "https://kakoune.org/"
   },
@@ -4903,7 +4903,7 @@
   },
   {
     "Package": "kibi",
-    "Version": "0.2.2-1",
+    "Version": "0.2.2-2",
     "Description": "A tiny terminal text editor, written in Rust",
     "Homepage": "https://github.com/ilai-deutel/kibi"
   },
@@ -5047,7 +5047,7 @@
   },
   {
     "Package": "less",
-    "Version": "679",
+    "Version": "679-1",
     "Description": "Terminal pager program used to view the contents of a text file one screen at a time",
     "Homepage": "https://www.greenwoodsoftware.com/less/"
   },
@@ -5383,7 +5383,7 @@
   },
   {
     "Package": "libblkid",
-    "Version": "2.40.2-3",
+    "Version": "2.40.2-4",
     "Description": "Block device identification library",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -6073,7 +6073,7 @@
   },
   {
     "Package": "libfdisk",
-    "Version": "2.40.2-3",
+    "Version": "2.40.2-4",
     "Description": "Library for manipulating disk partition tables",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -6889,49 +6889,49 @@
   },
   {
     "Package": "liblua51",
-    "Version": "5.1.5-1",
+    "Version": "5.1.5-3",
     "Description": "Shared library for the Lua interpreter (v5.1.x)",
     "Homepage": "https://www.lua.org"
   },
   {
     "Package": "liblua51-static",
-    "Version": "5.1.5-1",
+    "Version": "5.1.5-3",
     "Description": "Static libraries for liblua51",
     "Homepage": "https://www.lua.org"
   },
   {
     "Package": "liblua52",
-    "Version": "5.2.4-9",
+    "Version": "5.2.4-11",
     "Description": "Shared library for the Lua interpreter (v5.2.x)",
     "Homepage": "https://www.lua.org"
   },
   {
     "Package": "liblua52-static",
-    "Version": "5.2.4-9",
+    "Version": "5.2.4-11",
     "Description": "Static libraries for liblua52",
     "Homepage": "https://www.lua.org"
   },
   {
     "Package": "liblua53",
-    "Version": "5.3.6-1",
+    "Version": "5.3.6-3",
     "Description": "Shared library for the Lua interpreter (v5.3.x)",
     "Homepage": "https://www.lua.org/"
   },
   {
     "Package": "liblua53-static",
-    "Version": "5.3.6-1",
+    "Version": "5.3.6-3",
     "Description": "Static libraries for liblua53",
     "Homepage": "https://www.lua.org/"
   },
   {
     "Package": "liblua54",
-    "Version": "5.4.8",
+    "Version": "5.4.8-2",
     "Description": "Shared library for the Lua interpreter",
     "Homepage": "https://www.lua.org/"
   },
   {
     "Package": "liblua54-static",
-    "Version": "5.4.8",
+    "Version": "5.4.8-2",
     "Description": "Static libraries for liblua54",
     "Homepage": "https://www.lua.org/"
   },
@@ -7165,7 +7165,7 @@
   },
   {
     "Package": "libmount",
-    "Version": "2.40.2-3",
+    "Version": "2.40.2-4",
     "Description": "Library for (un)mounting filesystems",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -8203,7 +8203,7 @@
   },
   {
     "Package": "libsmartcols",
-    "Version": "2.40.2-3",
+    "Version": "2.40.2-4",
     "Description": "Library for smart adaptive formatting of tabular data",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -8845,7 +8845,7 @@
   },
   {
     "Package": "libuuid",
-    "Version": "2.40.2-3",
+    "Version": "2.40.2-4",
     "Description": "Library for handling universally unique identifiers",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -9739,7 +9739,7 @@
   },
   {
     "Package": "lua51",
-    "Version": "5.1.5-1",
+    "Version": "5.1.5-3",
     "Description": "Simple, extensible, embeddable programming language",
     "Homepage": "https://www.lua.org"
   },
@@ -9751,7 +9751,7 @@
   },
   {
     "Package": "lua52",
-    "Version": "5.2.4-9",
+    "Version": "5.2.4-11",
     "Description": "Simple, extensible, embeddable programming language",
     "Homepage": "https://www.lua.org"
   },
@@ -9763,7 +9763,7 @@
   },
   {
     "Package": "lua53",
-    "Version": "5.3.6-1",
+    "Version": "5.3.6-3",
     "Description": "Simple, extensible, embeddable programming language",
     "Homepage": "https://www.lua.org/"
   },
@@ -9775,7 +9775,7 @@
   },
   {
     "Package": "lua54",
-    "Version": "5.4.8",
+    "Version": "5.4.8-2",
     "Description": "Simple, extensible, embeddable programming language",
     "Homepage": "https://www.lua.org/"
   },
@@ -9913,7 +9913,7 @@
   },
   {
     "Package": "mandoc",
-    "Version": "1.14.6-3",
+    "Version": "1.14.6-4",
     "Description": "Man page viewer from the mandoc toolset",
     "Homepage": "https://mdocml.bsd.lv/"
   },
@@ -10243,13 +10243,13 @@
   },
   {
     "Package": "mg",
-    "Version": "20240709",
+    "Version": "20240709-1",
     "Description": "microscopic GNU Emacs-style editor",
     "Homepage": "https://github.com/hboetes/mg"
   },
   {
     "Package": "micro",
-    "Version": "2.0.14-1",
+    "Version": "2.0.14-2",
     "Description": "Modern and intuitive terminal-based text editor",
     "Homepage": "https://micro-editor.github.io/"
   },
@@ -10387,7 +10387,7 @@
   },
   {
     "Package": "moar",
-    "Version": "1.32.2",
+    "Version": "1.32.2-1",
     "Description": "A pager designed to just do the right thing without any configuration",
     "Homepage": "https://github.com/walles/moar"
   },
@@ -10477,13 +10477,13 @@
   },
   {
     "Package": "most",
-    "Version": "5.2.0",
+    "Version": "5.2.0-1",
     "Description": "A terminal pager similar to more and less",
     "Homepage": "http://www.jedsoft.org/most/index.html"
   },
   {
     "Package": "mount-utils",
-    "Version": "2.40.2-3",
+    "Version": "2.40.2-4",
     "Description": "Utilities for (un)mounting filesystems",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -10693,7 +10693,7 @@
   },
   {
     "Package": "nano",
-    "Version": "8.5",
+    "Version": "8.5-1",
     "Description": "Small, free and friendly text editor",
     "Homepage": "https://www.nano-editor.org/"
   },
@@ -10831,7 +10831,7 @@
   },
   {
     "Package": "ne",
-    "Version": "3.3.4",
+    "Version": "3.3.4-1",
     "Description": "Easy-to-use and powerful text editor",
     "Homepage": "https://ne.di.unimi.it/"
   },
@@ -10861,7 +10861,7 @@
   },
   {
     "Package": "neovim",
-    "Version": "0.11.2",
+    "Version": "0.11.2-1",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim)",
     "Homepage": "https://neovim.io/"
   },
@@ -10891,7 +10891,7 @@
   },
   {
     "Package": "netcat-openbsd",
-    "Version": "1.229-1-0",
+    "Version": "1.229-1-3",
     "Description": "TCP/IP swiss army knife. OpenBSD variant.",
     "Homepage": "https://packages.debian.org/sid/netcat-openbsd"
   },
@@ -11005,7 +11005,7 @@
   },
   {
     "Package": "nmap",
-    "Version": "7.97",
+    "Version": "7.97-3",
     "Description": "Utility for network discovery and security auditing",
     "Homepage": "https://nmap.org/"
   },
@@ -15433,13 +15433,13 @@
   },
   {
     "Package": "util-linux",
-    "Version": "2.40.2-3",
+    "Version": "2.40.2-4",
     "Description": "Miscellaneous system utilities",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
   {
     "Package": "util-linux-static",
-    "Version": "2.40.2-3",
+    "Version": "2.40.2-4",
     "Description": "Static libraries for util-linux",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -15451,7 +15451,7 @@
   },
   {
     "Package": "uuid-utils",
-    "Version": "2.40.2-3",
+    "Version": "2.40.2-4",
     "Description": "Utilities for handling universally unique identifiers",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -15607,7 +15607,7 @@
   },
   {
     "Package": "vim",
-    "Version": "9.1.1450",
+    "Version": "9.1.1450-1",
     "Description": "Vi IMproved - enhanced vi editor",
     "Homepage": "https://www.vim.org"
   },
@@ -15631,7 +15631,7 @@
   },
   {
     "Package": "vis",
-    "Version": "0.9-3",
+    "Version": "0.9-4",
     "Description": "Modern, legacy free, simple yet efficient vim-like editor",
     "Homepage": "https://www.brain-dump.org/projects/vis/"
   },
@@ -15757,13 +15757,13 @@
   },
   {
     "Package": "w3m",
-    "Version": "0.5.3.20230121-2",
+    "Version": "0.5.3.20230121-3",
     "Description": "Text based Web browser and pager",
     "Homepage": "https://w3m.sourceforge.net/"
   },
   {
     "Package": "w3m-img",
-    "Version": "0.5.3.20230121-2",
+    "Version": "0.5.3.20230121-3",
     "Description": "Inline image extension support utilities for w3m",
     "Homepage": "https://w3m.sourceforge.net/"
   },
@@ -16141,7 +16141,7 @@
   },
   {
     "Package": "xxd",
-    "Version": "9.1.1450",
+    "Version": "9.1.1450-1",
     "Description": "Hexdump utility from vim",
     "Homepage": "https://www.vim.org"
   },
@@ -16297,7 +16297,7 @@
   },
   {
     "Package": "zile",
-    "Version": "2.6.4",
+    "Version": "2.6.4-1",
     "Description": "Lightweight clone of the Emacs text editor",
     "Homepage": "https://www.gnu.org/software/zile/"
   },
