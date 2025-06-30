@@ -8447,11 +8447,11 @@
   Description: A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH
   Homepage: https://github.com/natesales/q
 - Package: qalc
-  Version: 5.5.2-1
+  Version: 5.6.0
   Description: Powerful and easy to use command line calculator
   Homepage: https://qalculate.github.io/
 - Package: qalc-static
-  Version: 5.5.2-1
+  Version: 5.6.0
   Description: Static libraries for qalc
   Homepage: https://qalculate.github.io/
 - Package: qemu-common
@@ -8675,7 +8675,7 @@
   Description: Command line tool to extract the main content from a webpage
   Homepage: https://github.com/eafer/rdrview
 - Package: re2c
-  Version: "4.2"
+  Version: "4.3"
   Description: Lexer generator for C, C++ and Go.
   Homepage: https://re2c.org/
 - Package: readline
@@ -9479,7 +9479,7 @@
   Description: A TCP/IP repeater in the application layer
   Homepage: https://www.gcd.org/sengoku/stone/
 - Package: storj-uplink
-  Version: 1.129.2
+  Version: 1.130.8
   Description: Storj DCS Uplink CLI
   Homepage: https://www.storj.io/integrations/uplink-cli
 - Package: stow

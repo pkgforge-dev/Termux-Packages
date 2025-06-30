@@ -2110,8 +2110,8 @@
  pyunbound  1.23.0-1  Python bindings for Unbound  https://unbound.net/ 
  pzstd  1.5.7  A Pigz-like tool for Zstandard  https://github.com/facebook/zstd 
  q-dns-client  0.19.2  A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH  https://github.com/natesales/q 
- qalc  5.5.2-1  Powerful and easy to use command line calculator  https://qalculate.github.io/ 
- qalc-static  5.5.2-1  Static libraries for qalc  https://qalculate.github.io/ 
+ qalc  5.6.0  Powerful and easy to use command line calculator  https://qalculate.github.io/ 
+ qalc-static  5.6.0  Static libraries for qalc  https://qalculate.github.io/ 
  qemu-common  1:8.2.6-6  A set common files used by the QEMU emulators  https://www.qemu.org 
  qemu-system-aarch64-headless  1:8.2.6-6  A generic and open source machine emulator and virtualizer (headless)  https://www.qemu.org 
  qemu-system-arm-headless  1:8.2.6-6  A generic and open source machine emulator and virtualizer (headless)  https://www.qemu.org 
@@ -2167,7 +2167,7 @@
  rdiff-backup  2.2.6-2  A utility for local/remote mirroring and incremental backups  https://rdiff-backup.net 
  rdircd  2023.02.07-1  A daemon that allows using a personal Discord account through an IRC client  https://github.com/mk-fg/reliable-discord-client-irc-daemon 
  rdrview  1:0.1.4  Command line tool to extract the main content from a webpage  https://github.com/eafer/rdrview 
- re2c  4.2  Lexer generator for C, C++ and Go.  https://re2c.org/ 
+ re2c  4.3  Lexer generator for C, C++ and Go.  https://re2c.org/ 
  readline  8.2.13  Library that allow users to edit command lines as they are typed in  https://tiswww.case.edu/php/chet/readline/rltop.html 
  readline-static  8.2.13  Static libraries for readline  https://tiswww.case.edu/php/chet/readline/rltop.html 
  recode  3.7.15  Charset converter tool and library  https://github.com/pinard/Recode 
@@ -2368,7 +2368,7 @@
  stoken  0.93-2  Software Token for Linux/UNIX  https://github.com/cernekee/stoken 
  stoken-static  0.93-2  Static libraries for stoken  https://github.com/cernekee/stoken 
  stone  2.4-2  A TCP/IP repeater in the application layer  https://www.gcd.org/sengoku/stone/ 
- storj-uplink  1.129.2  Storj DCS Uplink CLI  https://www.storj.io/integrations/uplink-cli 
+ storj-uplink  1.130.8  Storj DCS Uplink CLI  https://www.storj.io/integrations/uplink-cli 
  stow  2.4.1  Tool for managing the installation of multiple software packages into a single directory  https://www.gnu.org/software/stow/ 
  strace  6.15  Debugging utility to monitor system calls and signals received  https://strace.io/ 
  streamripper  1.64.6-2  Records and splits streaming mp3 into tracks  http://streamripper.sourceforge.net/ 
