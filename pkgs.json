@@ -2305,19 +2305,19 @@
   },
   {
     "Package": "dpkg",
-    "Version": "1.22.6-2",
+    "Version": "1.22.6-3",
     "Description": "Debian package management system",
     "Homepage": "https://packages.debian.org/dpkg"
   },
   {
     "Package": "dpkg-perl",
-    "Version": "1.22.6-2",
+    "Version": "1.22.6-3",
     "Description": "Perl modules for dpkg",
     "Homepage": "https://packages.debian.org/dpkg"
   },
   {
     "Package": "dpkg-scanpackages",
-    "Version": "1.22.6-2",
+    "Version": "1.22.6-3",
     "Description": "Creates Packages index files",
     "Homepage": "https://packages.debian.org/dpkg"
   },
@@ -15745,7 +15745,7 @@
   },
   {
     "Package": "vulkan-validation-layers",
-    "Version": "1.4.315",
+    "Version": "1.4.319",
     "Description": "Vulkan Validation Layers",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-ValidationLayers"
   },

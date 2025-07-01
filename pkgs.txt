@@ -382,9 +382,9 @@
  dotnet9.0  9.0.6  .NET 9.0  https://dotnet.microsoft.com/en-us/ 
  double-conversion  3.3.1  Binary-decimal and decimal-binary routines for IEEE doubles  https://github.com/google/double-conversion 
  doxygen  1.14.0  A documentation system for C++, C, Java, IDL and PHP  http://www.doxygen.org 
- dpkg  1.22.6-2  Debian package management system  https://packages.debian.org/dpkg 
- dpkg-perl  1.22.6-2  Perl modules for dpkg  https://packages.debian.org/dpkg 
- dpkg-scanpackages  1.22.6-2  Creates Packages index files  https://packages.debian.org/dpkg 
+ dpkg  1.22.6-3  Debian package management system  https://packages.debian.org/dpkg 
+ dpkg-perl  1.22.6-3  Perl modules for dpkg  https://packages.debian.org/dpkg 
+ dpkg-scanpackages  1.22.6-3  Creates Packages index files  https://packages.debian.org/dpkg 
  dropbear  2025.87-1  Small SSH server and client  https://matt.ucc.asn.au/dropbear/dropbear.html 
  dtach  0.9  Emulates the detach feature of screen  http://dtach.sourceforge.net/ 
  dtc  1.7.2  Device Tree Compiler  https://git.kernel.org/pub/scm/utils/dtc/dtc 
@@ -2622,7 +2622,7 @@
  vulkan-loader-generic  1.4.320  Vulkan Loader  https://github.com/KhronosGroup/Vulkan-Loader 
  vulkan-tools  1.4.320  Vulkan Tools and Utilities  https://github.com/KhronosGroup/Vulkan-Tools 
  vulkan-utility-libraries  1.4.320  Utility Libraries for Vulkan  https://github.com/KhronosGroup/Vulkan-Utility-Libraries 
- vulkan-validation-layers  1.4.315  Vulkan Validation Layers  https://github.com/KhronosGroup/Vulkan-ValidationLayers 
+ vulkan-validation-layers  1.4.319  Vulkan Validation Layers  https://github.com/KhronosGroup/Vulkan-ValidationLayers 
  vulkan-volk  1.4.304  Meta loader for Vulkan API  https://github.com/zeux/volk 
  w3m  0.5.3.20230121-3  Text based Web browser and pager  https://w3m.sourceforge.net/ 
  w3m-img  0.5.3.20230121-3  Inline image extension support utilities for w3m  https://w3m.sourceforge.net/ 
