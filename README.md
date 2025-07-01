@@ -660,8 +660,8 @@
 | **graphene** | 1.10.8-1 | A thin layer of graphic data types | https://ebassi.github.io/graphene/ |
 | **graphicsmagick** | 1.3.45-3 | Collection of image processing tools | http://www.graphicsmagick.org/ |
 | **graphicsmagick-static** | 1.3.45-3 | Static libraries for graphicsmagick | http://www.graphicsmagick.org/ |
-| **graphviz** | 13.0.1 | Rich set of graph drawing tools | https://www.graphviz.org/ |
-| **graphviz-static** | 13.0.1 | Static libraries for graphviz | https://www.graphviz.org/ |
+| **graphviz** | 13.1.0 | Rich set of graph drawing tools | https://www.graphviz.org/ |
+| **graphviz-static** | 13.1.0 | Static libraries for graphviz | https://www.graphviz.org/ |
 | **greed** | 4.3 | Game where you try to eat as much as possible of the board before munching yourself into a corner | http://www.catb.org/~esr/greed/ |
 | **grep** | 3.12-1 | Command which searches one or more input files for lines containing a match to a specified pattern | https://www.gnu.org/software/grep/ |
 | **grex** | 1.4.5 | Simplifies the task of creating regular expressions | https://github.com/pemistahl/grex |
@@ -805,9 +805,9 @@
 | **jove** | 4.17.5.3 | Jove is a compact, powerful, Emacs-style text-editor. | https://directory.fsf.org/wiki/Jove |
 | **jp2a** | 1.3.2 | A simple JPEG to ASCII converter | https://github.com/Talinx/jp2a/ |
 | **jpegoptim** | 1.5.5-1 | JPEG optimizer that recompresses image files to a smaller size, without losing any information | https://www.kokkonen.net/tjko/projects.html |
-| **jq** | 1.8.0 | Command-line JSON processor | https://stedolan.github.io/jq/ |
+| **jq** | 1.8.1 | Command-line JSON processor | https://stedolan.github.io/jq/ |
 | **jq-lsp** | 0.1.13 | jq language server | https://github.com/wader/jq-lsp |
-| **jq-static** | 1.8.0 | Static libraries for jq | https://stedolan.github.io/jq/ |
+| **jq-static** | 1.8.1 | Static libraries for jq | https://stedolan.github.io/jq/ |
 | **jql** | 8.0.7 | A JSON Query Language CLI tool | https://github.com/yamafaktory/jql |
 | **json-c** | 0.18 | A JSON implementation in C | https://github.com/json-c/json-c/wiki |
 | **json-c-static** | 0.18 | Static libraries for json-c | https://github.com/json-c/json-c/wiki |
@@ -816,7 +816,7 @@
 | **jsoncpp-static** | 1.9.6-1 | Static libraries for jsoncpp | https://github.com/open-source-parsers/jsoncpp |
 | **jump** | 0.51.0-3 | Jump helps you navigate in shell faster by learning your habits | https://github.com/gsamokovarov/jump |
 | **jupp** | 3.1jupp41-1 | User friendly full screen text editor | http://www.mirbsd.org/jupp.htm |
-| **just** | 1.40.0 | A handy way to save and run project-specific commands | https://just.systems |
+| **just** | 1.41.0 | A handy way to save and run project-specific commands | https://just.systems |
 | **jython** | 2.7.4 | Python for the Java Platform | https://www.jython.org/ |
 | **k2pdfopt** | 2.55-3 | A tool that optimizes PDF files for viewing on mobile readers | https://www.willus.com/k2pdfopt/ |
 | **k9s** | 0.50.6 | Kubernetes CLI To Manage Your Clusters In Style! | https://k9scli.io |
@@ -1084,8 +1084,8 @@
 | **libhangul-static** | 0.2.0 | Static libraries for libhangul | https://github.com/libhangul/libhangul |
 | **libhdf5** | 1.14.4.3 | Hierarchical Data Format 5 (HDF5) | https://portal.hdfgroup.org/display/support |
 | **libhdf5-static** | 1.14.4.3 | Static libraries for libhdf5 | https://portal.hdfgroup.org/display/support |
-| **libheif** | 1.19.8 | HEIF (HEIC/AVIF) image encoding and decoding library | https://github.com/strukturag/libheif |
-| **libheif-progs** | 1.19.8 | Programs for manipulating HEIF (HEIC/AVIF) image files | https://github.com/strukturag/libheif |
+| **libheif** | 1.20.0 | HEIF (HEIC/AVIF) image encoding and decoding library | https://github.com/strukturag/libheif |
+| **libheif-progs** | 1.20.0 | Programs for manipulating HEIF (HEIC/AVIF) image files | https://github.com/strukturag/libheif |
 | **libheif-static** | 1.15.2 | Static libraries for libheif | https://github.com/strukturag/libheif |
 | **libhiredis** | 1.3.0 | Hiredis is a minimalistic C client library for the Redis database | https://redis.com/lp/hiredis |
 | **libhiredis-static** | 1.1.0 | Static libraries for libhiredis | https://redis.com/lp/hiredis |
@@ -2411,7 +2411,7 @@
 | **swig** | 4.3.1 | Generate scripting interfaces to C/C++ code | https://swig.org |
 | **swtpm** | 0.10.1 | Software TPM Emulator | https://github.com/stefanberger/swtpm |
 | **swtpm-static** | 0.10.1 | Static libraries for swtpm | https://github.com/stefanberger/swtpm |
-| **syncthing** | 1.29.7 | Decentralized file synchronization | https://syncthing.net/ |
+| **syncthing** | 1.30.0 | Decentralized file synchronization | https://syncthing.net/ |
 | **sysprop** | 13.0.0.15-7 | Generates cpp / java sysprop | https://android.googlesource.com/platform/system/tools/sysprop |
 | **ta-lib** | 0.5.0 | Technical analysis library with indicators like ADX | https://ta-lib.org/ |
 | **ta-lib-static** | 0.5.0 | Static libraries for ta-lib | https://ta-lib.org/ |

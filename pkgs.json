@@ -3901,13 +3901,13 @@
   },
   {
     "Package": "graphviz",
-    "Version": "13.0.1",
+    "Version": "13.1.0",
     "Description": "Rich set of graph drawing tools",
     "Homepage": "https://www.graphviz.org/"
   },
   {
     "Package": "graphviz-static",
-    "Version": "13.0.1",
+    "Version": "13.1.0",
     "Description": "Static libraries for graphviz",
     "Homepage": "https://www.graphviz.org/"
   },
@@ -4771,7 +4771,7 @@
   },
   {
     "Package": "jq",
-    "Version": "1.8.0",
+    "Version": "1.8.1",
     "Description": "Command-line JSON processor",
     "Homepage": "https://stedolan.github.io/jq/"
   },
@@ -4783,7 +4783,7 @@
   },
   {
     "Package": "jq-static",
-    "Version": "1.8.0",
+    "Version": "1.8.1",
     "Description": "Static libraries for jq",
     "Homepage": "https://stedolan.github.io/jq/"
   },
@@ -4837,7 +4837,7 @@
   },
   {
     "Package": "just",
-    "Version": "1.40.0",
+    "Version": "1.41.0",
     "Description": "A handy way to save and run project-specific commands",
     "Homepage": "https://just.systems"
   },
@@ -6445,13 +6445,13 @@
   },
   {
     "Package": "libheif",
-    "Version": "1.19.8",
+    "Version": "1.20.0",
     "Description": "HEIF (HEIC/AVIF) image encoding and decoding library",
     "Homepage": "https://github.com/strukturag/libheif"
   },
   {
     "Package": "libheif-progs",
-    "Version": "1.19.8",
+    "Version": "1.20.0",
     "Description": "Programs for manipulating HEIF (HEIC/AVIF) image files",
     "Homepage": "https://github.com/strukturag/libheif"
   },
@@ -14407,7 +14407,7 @@
   },
   {
     "Package": "syncthing",
-    "Version": "1.29.7",
+    "Version": "1.30.0",
     "Description": "Decentralized file synchronization",
     "Homepage": "https://syncthing.net/"
   },
