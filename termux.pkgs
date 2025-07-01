@@ -15,7 +15,7 @@
 | **abseil-cpp** | 20250127.1 | Abseil C++ Common Libraries | https://abseil.io/ |
 | **ack-grep** | 3.8.1 | Tool like grep optimized for programmers | https://beyondgrep.com/ |
 | **acr** | 2.2.2 | A fully compatible autoconf replacement | https://github.com/radareorg/acr |
-| **ada** | 3.2.4 | WHATWG-compliant and fast URL parser written in modern C++ | https://github.com/ada-url/ada |
+| **ada** | 3.2.5 | WHATWG-compliant and fast URL parser written in modern C++ | https://github.com/ada-url/ada |
 | **adms** | 2.3.7 | A code generator for the Verilog-AMS language | https://github.com/qucs/adms |
 | **aerc** | 0.20.1 | A pretty good email client | https://aerc-mail.org/ |
 | **agate** | 3.3.17 | Very simple server for the Gemini hypertext protocol | https://github.com/mbrubeck/agate |
@@ -1668,8 +1668,8 @@
 | **maven** | 3.9.10 | A Java software project management and comprehension tool | https://maven.apache.org/ |
 | **maxcso** | 1.13.0 | A fast ISO to CSO compression program for use with PSP and PS2 emulators | https://github.com/unknownbrackets/maxcso |
 | **mazter** | 2022.08.13 | Mazes in your terminal | https://github.com/Canop/mazter |
-| **mbedtls** | 3.6.3.1 | Light-weight cryptographic and SSL/TLS library | https://www.trustedfirmware.org/projects/mbed-tls/ |
-| **mbedtls-static** | 3.6.3.1 | Static libraries for mbedtls | https://www.trustedfirmware.org/projects/mbed-tls/ |
+| **mbedtls** | 3.6.4 | Light-weight cryptographic and SSL/TLS library | https://www.trustedfirmware.org/projects/mbed-tls/ |
+| **mbedtls-static** | 3.6.4 | Static libraries for mbedtls | https://www.trustedfirmware.org/projects/mbed-tls/ |
 | **mc** | 4.8.33-1 | Midnight Commander - a powerful file manager | https://midnight-commander.org |
 | **mcfly** | 0.9.3 | Replaces your default ctrl-r shell history search with an intelligent search engine | https://github.com/cantino/mcfly |
 | **mdbook** | 0.4.51 | Creates book from markdown files | https://rust-lang.github.io/mdBook/ |
@@ -1863,7 +1863,7 @@
 | **octomap** | 1.10.0 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-4 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 26.12.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 26.13.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **okc-agents** | 0.1.2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.6-2 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-9 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
@@ -2104,7 +2104,7 @@
 | **python-torchvision** | 0.21.0-1 | Datasets, Transforms and Models specific to Computer Vision | https://github.com/pytorch/vision |
 | **python-xcbgen** | 1.17.0-1 | The xcbgen Python module | https://xcb.freedesktop.org/ |
 | **python-xlib** | 0.33-1 | The Python X Library | https://github.com/python-xlib/python-xlib |
-| **python-yt-dlp** | 2025.06.25 | A youtube-dl fork with additional features and fixes | https://github.com/yt-dlp/yt-dlp |
+| **python-yt-dlp** | 2025.06.30 | A youtube-dl fork with additional features and fixes | https://github.com/yt-dlp/yt-dlp |
 | **python2** | 2.7.18-14 | Python 2 programming language intended to enable clear programs | http://python.org/ |
 | **python2-static** | 2.7.18-14 | Static libraries for python2 | http://python.org/ |
 | **pyunbound** | 1.23.0-1 | Python bindings for Unbound | https://unbound.net/ |
@@ -2278,7 +2278,7 @@
 | **shaderc** | 2025.3 | Collection of tools, libraries, and tests for Vulkan shader compilation | https://github.com/google/shaderc |
 | **sharutils** | 4.15.2-3 | Utilities for packaging and unpackaging shell archives | https://www.gnu.org/software/sharutils/ |
 | **shc** | 4.0.3-3 | Shell script compiler | https://neurobin.org/projects/softwares/unix/shc/ |
-| **sheldon** | 0.8.2 | Fast, configurable, shell plugin manager | https://sheldon.cli.rs/ |
+| **sheldon** | 0.8.3 | Fast, configurable, shell plugin manager | https://sheldon.cli.rs/ |
 | **shell2http** | 1.17.0 | Executing shell commands via HTTP server | https://github.com/msoap/shell2http |
 | **shellcheck** | 0.10.0-2 | Shell script analysis tool | https://www.shellcheck.net/ |
 | **shellharden** | 4.3.1 | The corrective bash syntax highlighter | https://github.com/anordal/shellharden |

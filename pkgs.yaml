@@ -67,7 +67,7 @@
   Description: A fully compatible autoconf replacement
   Homepage: https://github.com/radareorg/acr
 - Package: ada
-  Version: 3.2.4
+  Version: 3.2.5
   Description: WHATWG-compliant and fast URL parser written in modern C++
   Homepage: https://github.com/ada-url/ada
 - Package: adms
@@ -6679,11 +6679,11 @@
   Description: Mazes in your terminal
   Homepage: https://github.com/Canop/mazter
 - Package: mbedtls
-  Version: 3.6.3.1
+  Version: 3.6.4
   Description: Light-weight cryptographic and SSL/TLS library
   Homepage: https://www.trustedfirmware.org/projects/mbed-tls/
 - Package: mbedtls-static
-  Version: 3.6.3.1
+  Version: 3.6.4
   Description: Static libraries for mbedtls
   Homepage: https://www.trustedfirmware.org/projects/mbed-tls/
 - Package: mc
@@ -7459,7 +7459,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 26.12.0
+  Version: 26.13.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -8423,7 +8423,7 @@
   Description: The Python X Library
   Homepage: https://github.com/python-xlib/python-xlib
 - Package: python-yt-dlp
-  Version: 2025.06.25
+  Version: 2025.06.30
   Description: A youtube-dl fork with additional features and fixes
   Homepage: https://github.com/yt-dlp/yt-dlp
 - Package: python2
@@ -9119,7 +9119,7 @@
   Description: Shell script compiler
   Homepage: https://neurobin.org/projects/softwares/unix/shc/
 - Package: sheldon
-  Version: 0.8.2
+  Version: 0.8.3
   Description: Fast, configurable, shell plugin manager
   Homepage: https://sheldon.cli.rs/
 - Package: shell2http
