@@ -2119,7 +2119,7 @@
   Description: Program for calculating and printing calendars
   Homepage: https://www.gnu.org/software/gcal/
 - Package: gdal
-  Version: 3.11.0
+  Version: 3.11.1
   Description: A translator library for raster and vector geospatial data formats
   Homepage: https://gdal.org
 - Package: gdal-static
@@ -7147,7 +7147,7 @@
   Description: An interactive cheatsheet tool for the command-line
   Homepage: https://github.com/denisidoro/navi
 - Package: navidrome
-  Version: 0.56.1
+  Version: 0.57.0
   Description: "\U0001F3A7☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic"
   Homepage: https://www.navidrome.org/
 - Package: ncdc
@@ -10255,7 +10255,7 @@
   Description: the Ultimate Packer for eXecutables
   Homepage: https://upx.github.io/
 - Package: urdfdom
-  Version: 5.0.0
+  Version: 5.0.1
   Description: Unified Robot Description Format (URDF) parser library and tools
   Homepage: https://github.com/ros/urdfdom
 - Package: urdfdom-headers
