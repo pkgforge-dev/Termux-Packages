@@ -10213,25 +10213,25 @@
   },
   {
     "Package": "mesa",
-    "Version": "25.1.4-1",
+    "Version": "25.1.5",
     "Description": "An open-source implementation of the OpenGL specification",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-dev",
-    "Version": "25.1.4-1",
+    "Version": "25.1.5",
     "Description": "Mesas OpenGL headers",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-opencl-icd-rusticl",
-    "Version": "25.1.4-1",
+    "Version": "25.1.5",
     "Description": "Mesas Rusticl OpenCL ICD",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-vulkan-icd-swrast",
-    "Version": "25.1.4-1",
+    "Version": "25.1.5",
     "Description": "Mesas Swrast Vulkan ICD",
     "Homepage": "https://www.mesa3d.org"
   },
@@ -12463,7 +12463,7 @@
   },
   {
     "Package": "python-cryptography",
-    "Version": "45.0.4",
+    "Version": "45.0.5",
     "Description": "Provides cryptographic recipes and primitives to Python developers",
     "Homepage": "https://github.com/pyca/cryptography"
   },
