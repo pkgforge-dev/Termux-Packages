@@ -2371,7 +2371,7 @@
   Description: Static libraries for glpk
   Homepage: https://www.gnu.org/software/glpk/
 - Package: glslang
-  Version: 15.3.0
+  Version: 15.4.0
   Description: OpenGL and OpenGL ES shader front end and validator
   Homepage: https://github.com/KhronosGroup/glslang
 - Package: gluelang
@@ -4855,11 +4855,11 @@
   Description: Static libraries for libnats-c
   Homepage: https://nats-io.github.io/nats.c/
 - Package: libncnn
-  Version: "20241226"
+  Version: "20250503"
   Description: A high-performance neural network inference framework optimized for the mobile platform
   Homepage: https://github.com/Tencent/ncnn
 - Package: libncnn-static
-  Version: "20241226"
+  Version: "20250503"
   Description: Static libraries for libncnn
   Homepage: https://github.com/Tencent/ncnn
 - Package: libneon
