@@ -3301,13 +3301,13 @@
   },
   {
     "Package": "gettext",
-    "Version": "0.25",
+    "Version": "0.25.1",
     "Description": "GNU Internationalization utilities",
     "Homepage": "https://www.gnu.org/software/gettext/"
   },
   {
     "Package": "gettext-static",
-    "Version": "0.25",
+    "Version": "0.25.1",
     "Description": "Static libraries for gettext",
     "Homepage": "https://www.gnu.org/software/gettext/"
   },
@@ -4075,7 +4075,7 @@
   },
   {
     "Package": "haproxy",
-    "Version": "3.2.1",
+    "Version": "3.2.2",
     "Description": "The Reliable, High Performance TCP/HTTP Load Balancer",
     "Homepage": "https://www.haproxy.org/"
   },
@@ -6445,13 +6445,13 @@
   },
   {
     "Package": "libheif",
-    "Version": "1.20.0",
+    "Version": "1.20.1",
     "Description": "HEIF (HEIC/AVIF) image encoding and decoding library",
     "Homepage": "https://github.com/strukturag/libheif"
   },
   {
     "Package": "libheif-progs",
-    "Version": "1.20.0",
+    "Version": "1.20.1",
     "Description": "Programs for manipulating HEIF (HEIC/AVIF) image files",
     "Homepage": "https://github.com/strukturag/libheif"
   },
@@ -11407,7 +11407,7 @@
   },
   {
     "Package": "openlist",
-    "Version": "4.0.5",
+    "Version": "4.0.7",
     "Description": "A file list program that supports multiple storage",
     "Homepage": "https://oplist.org/"
   },

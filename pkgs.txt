@@ -548,8 +548,8 @@
  getconf  0.6  Utility to print configuration values  https://github.com/termux/getconf 
  geth  1.16.1  Go implementation of the Ethereum protocol  https://geth.ethereum.org/ 
  geth-utils  1.16.1  Additional utilities for Geth (like abigen, bootnode, evm, puppeth)  https://geth.ethereum.org/ 
- gettext  0.25  GNU Internationalization utilities  https://www.gnu.org/software/gettext/ 
- gettext-static  0.25  Static libraries for gettext  https://www.gnu.org/software/gettext/ 
+ gettext  0.25.1  GNU Internationalization utilities  https://www.gnu.org/software/gettext/ 
+ gettext-static  0.25.1  Static libraries for gettext  https://www.gnu.org/software/gettext/ 
  gexiv2  0.14.5  A GObject-based Exiv2 wrapper  https://wiki.gnome.org/Projects/gexiv2 
  gflags  2.2.2-9  A C++ library that implements commandline flags processing  https://github.com/gflags/gflags 
  gflags-static  2.2.2-9  Static libraries for gflags  https://github.com/gflags/gflags 
@@ -677,7 +677,7 @@
  gumbo-parser  0.10.1  An HTML5 parsing library  https://github.com/google/gumbo-parser 
  gumbo-parser-static  0.10.1  Static libraries for gumbo-parser  https://github.com/google/gumbo-parser 
  gzip  1.14  Standard GNU file compression utilities  https://www.gnu.org/software/gzip/ 
- haproxy  3.2.1  The Reliable, High Performance TCP/HTTP Load Balancer  https://www.haproxy.org/ 
+ haproxy  3.2.2  The Reliable, High Performance TCP/HTTP Load Balancer  https://www.haproxy.org/ 
  harfbuzz  11.2.1  OpenType text shaping engine  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
  harfbuzz-icu  11.2.1  OpenType text shaping engine ICU backend  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
  harfbuzz-utils  11.2.1  Tools using the harfbuzz library  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
@@ -1072,8 +1072,8 @@
  libhangul-static  0.2.0  Static libraries for libhangul  https://github.com/libhangul/libhangul 
  libhdf5  1.14.4.3  Hierarchical Data Format 5 (HDF5)  https://portal.hdfgroup.org/display/support 
  libhdf5-static  1.14.4.3  Static libraries for libhdf5  https://portal.hdfgroup.org/display/support 
- libheif  1.20.0  HEIF (HEIC/AVIF) image encoding and decoding library  https://github.com/strukturag/libheif 
- libheif-progs  1.20.0  Programs for manipulating HEIF (HEIC/AVIF) image files  https://github.com/strukturag/libheif 
+ libheif  1.20.1  HEIF (HEIC/AVIF) image encoding and decoding library  https://github.com/strukturag/libheif 
+ libheif-progs  1.20.1  Programs for manipulating HEIF (HEIC/AVIF) image files  https://github.com/strukturag/libheif 
  libheif-static  1.15.2  Static libraries for libheif  https://github.com/strukturag/libheif 
  libhiredis  1.3.0  Hiredis is a minimalistic C client library for the Redis database  https://redis.com/lp/hiredis 
  libhiredis-static  1.1.0  Static libraries for libhiredis  https://redis.com/lp/hiredis 
@@ -1899,7 +1899,7 @@
  openjpeg-tools  2.5.3  Command-line tools using the JPEG 2000 library  https://www.openjpeg.org/ 
  openldap  2.6.10  OpenLDAP server  https://openldap.org 
  openldap-static  2.6.10  Static libraries for openldap  https://openldap.org 
- openlist  4.0.5  A file list program that supports multiple storage  https://oplist.org/ 
+ openlist  4.0.7  A file list program that supports multiple storage  https://oplist.org/ 
  openmpi  4.1.5  Open source Message Passing Interface implementation  https://www.open-mpi.org 
  openmpi-static  4.1.5  Static libraries for openmpi  https://www.open-mpi.org 
  opensc  0.26.1  Open source smart card tools and middleware  https://github.com/OpenSC/OpenSC 

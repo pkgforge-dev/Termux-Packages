@@ -2199,11 +2199,11 @@
   Description: Additional utilities for Geth (like abigen, bootnode, evm, puppeth)
   Homepage: https://geth.ethereum.org/
 - Package: gettext
-  Version: "0.25"
+  Version: 0.25.1
   Description: GNU Internationalization utilities
   Homepage: https://www.gnu.org/software/gettext/
 - Package: gettext-static
-  Version: "0.25"
+  Version: 0.25.1
   Description: Static libraries for gettext
   Homepage: https://www.gnu.org/software/gettext/
 - Package: gexiv2
@@ -2715,7 +2715,7 @@
   Description: Standard GNU file compression utilities
   Homepage: https://www.gnu.org/software/gzip/
 - Package: haproxy
-  Version: 3.2.1
+  Version: 3.2.2
   Description: The Reliable, High Performance TCP/HTTP Load Balancer
   Homepage: https://www.haproxy.org/
 - Package: harfbuzz
@@ -4295,11 +4295,11 @@
   Description: Static libraries for libhdf5
   Homepage: https://portal.hdfgroup.org/display/support
 - Package: libheif
-  Version: 1.20.0
+  Version: 1.20.1
   Description: HEIF (HEIC/AVIF) image encoding and decoding library
   Homepage: https://github.com/strukturag/libheif
 - Package: libheif-progs
-  Version: 1.20.0
+  Version: 1.20.1
   Description: Programs for manipulating HEIF (HEIC/AVIF) image files
   Homepage: https://github.com/strukturag/libheif
 - Package: libheif-static
@@ -7603,7 +7603,7 @@
   Description: Static libraries for openldap
   Homepage: https://openldap.org
 - Package: openlist
-  Version: 4.0.5
+  Version: 4.0.7
   Description: A file list program that supports multiple storage
   Homepage: https://oplist.org/
 - Package: openmpi
