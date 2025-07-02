@@ -7707,11 +7707,11 @@
   Description: Open Virtual Machine Firmware
   Homepage: https://www.tianocore.org/
 - Package: oxc-language-server
-  Version: 1.4.0
+  Version: 1.5.0
   Description: Oxc JavaScript linter language server
   Homepage: https://oxc.rs/
 - Package: oxlint
-  Version: 1.4.0
+  Version: 1.5.0
   Description: Oxc JavaScript linter
   Homepage: https://oxc.rs/
 - Package: p11-kit
@@ -10891,7 +10891,7 @@
   Description: Zig language server
   Homepage: https://github.com/zigtools/zls
 - Package: znc
-  Version: 1.10.0
+  Version: 1.10.1
   Description: An advanced IRC bouncer
   Homepage: https://znc.in/
 - Package: zola

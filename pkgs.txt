@@ -1925,8 +1925,8 @@
  ossp-uuid  1.6.2-3  ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122.  http://www.ossp.org/pkg/lib/uuid/ 
  ossp-uuid-static  1.6.2-3  Static libraries for ossp-uuid  http://www.ossp.org/pkg/lib/uuid/ 
  ovmf  20231122-16.fc40-0  Open Virtual Machine Firmware  https://www.tianocore.org/ 
- oxc-language-server  1.4.0  Oxc JavaScript linter language server  https://oxc.rs/ 
- oxlint  1.4.0  Oxc JavaScript linter  https://oxc.rs/ 
+ oxc-language-server  1.5.0  Oxc JavaScript linter language server  https://oxc.rs/ 
+ oxlint  1.5.0  Oxc JavaScript linter  https://oxc.rs/ 
  p11-kit  0.25.5  Provides a way to load and enumerate PKCS#11 modules  https://p11-glue.github.io/p11-glue/p11-kit.html 
  p7zip  17.06  Command-line version of the 7zip compressed file archiver  https://github.com/p7zip-project/p7zip 
  pacman  7.0.0-3  A library-based package manager with dependency support  https://archlinux.org/pacman/ 
@@ -2721,7 +2721,7 @@
  zlib  1.3.1  Compression library implementing the deflate compression method found in gzip and PKZIP  https://www.zlib.net/ 
  zlib-static  1.3.1  Static libraries for zlib  https://www.zlib.net/ 
  zls  0.14.0  Zig language server  https://github.com/zigtools/zls 
- znc  1.10.0  An advanced IRC bouncer  https://znc.in/ 
+ znc  1.10.1  An advanced IRC bouncer  https://znc.in/ 
  zola  0.20.0  A fast static site generator in a single binary with everything built-in.  https://github.com/getzola/zola 
  zopfli  1.0.3-3  New zlib compatible compressor tools  https://github.com/google/zopfli 
  zoxide  0.9.8-1  A faster way to navigate your filesystem  https://github.com/ajeetdsouza/zoxide 
