@@ -1987,7 +1987,7 @@
   },
   {
     "Package": "direnv",
-    "Version": "2.36.0",
+    "Version": "2.37.0",
     "Description": "Environment switcher for shell",
     "Homepage": "https://github.com/direnv/direnv"
   },
@@ -2941,19 +2941,19 @@
   },
   {
     "Package": "fontconfig",
-    "Version": "2.17.0",
+    "Version": "2.17.1",
     "Description": "Library for configuring and customizing font access",
     "Homepage": "https://www.freedesktop.org/wiki/Software/fontconfig/"
   },
   {
     "Package": "fontconfig-static",
-    "Version": "2.17.0",
+    "Version": "2.17.1",
     "Description": "Static libraries for fontconfig",
     "Homepage": "https://www.freedesktop.org/wiki/Software/fontconfig/"
   },
   {
     "Package": "fontconfig-utils",
-    "Version": "2.17.0",
+    "Version": "2.17.1",
     "Description": "Fontconfig binaries",
     "Homepage": "https://www.freedesktop.org/wiki/Software/fontconfig/"
   },
@@ -3289,13 +3289,13 @@
   },
   {
     "Package": "geth",
-    "Version": "1.16.0",
+    "Version": "1.16.1",
     "Description": "Go implementation of the Ethereum protocol",
     "Homepage": "https://geth.ethereum.org/"
   },
   {
     "Package": "geth-utils",
-    "Version": "1.16.0",
+    "Version": "1.16.1",
     "Description": "Additional utilities for Geth (like abigen, bootnode, evm, puppeth)",
     "Homepage": "https://geth.ethereum.org/"
   },
@@ -7465,7 +7465,7 @@
   },
   {
     "Package": "libnss",
-    "Version": "3.113",
+    "Version": "3.113.1",
     "Description": "Network Security Services (NSS)",
     "Homepage": "https://firefox-source-docs.mozilla.org/security/nss/"
   },
@@ -11101,7 +11101,7 @@
   },
   {
     "Package": "nss-utils",
-    "Version": "3.113",
+    "Version": "3.113.1",
     "Description": "Tools for NSS",
     "Homepage": "https://firefox-source-docs.mozilla.org/security/nss/"
   },
