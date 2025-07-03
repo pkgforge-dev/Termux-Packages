@@ -1465,7 +1465,7 @@
   },
   {
     "Package": "cloudflared",
-    "Version": "2025.6.1",
+    "Version": "2025.7.0",
     "Description": "A tunneling daemon that proxies traffic from the Cloudflare network to your origins",
     "Homepage": "https://github.com/cloudflare/cloudflared"
   },
@@ -12559,7 +12559,7 @@
   },
   {
     "Package": "python-ruff",
-    "Version": "0.12.1",
+    "Version": "0.12.2",
     "Description": "An extremely fast Python linter, written in Rust (Python bindings)",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -12853,7 +12853,7 @@
   },
   {
     "Package": "rabbitmq-server",
-    "Version": "4.1.1",
+    "Version": "4.1.2",
     "Description": "Feature rich, multi-protocol messaging and streaming broker",
     "Homepage": "https://github.com/rabbitmq/rabbitmq-server"
   },
@@ -13339,7 +13339,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.12.1",
+    "Version": "0.12.2",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -15469,7 +15469,7 @@
   },
   {
     "Package": "v2ray",
-    "Version": "5.34.0",
+    "Version": "5.35.0",
     "Description": "A platform for building proxies to bypass network restrictions",
     "Homepage": "https://www.v2fly.org/"
   },
