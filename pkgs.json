@@ -2647,7 +2647,7 @@
   },
   {
     "Package": "exiftool",
-    "Version": "13.31",
+    "Version": "13.32",
     "Description": "Utility for reading, writing and editing meta information in a wide variety of files.",
     "Homepage": "https://exiftool.org/"
   },
@@ -2701,7 +2701,7 @@
   },
   {
     "Package": "fastfetch",
-    "Version": "2.46.0",
+    "Version": "2.47.0",
     "Description": "A maintained, feature-rich and performance oriented, neofetch like system information tool",
     "Homepage": "https://github.com/fastfetch-cli/fastfetch"
   },
@@ -7795,13 +7795,13 @@
   },
   {
     "Package": "libpng",
-    "Version": "1.6.49",
+    "Version": "1.6.50",
     "Description": "Official PNG reference library",
     "Homepage": "http://www.libpng.org/pub/png/libpng.html"
   },
   {
     "Package": "libpng-static",
-    "Version": "1.6.49",
+    "Version": "1.6.50",
     "Description": "Static libraries for libpng",
     "Homepage": "http://www.libpng.org/pub/png/libpng.html"
   },
@@ -15385,7 +15385,7 @@
   },
   {
     "Package": "urdfdom",
-    "Version": "5.0.1",
+    "Version": "5.0.2",
     "Description": "Unified Robot Description Format (URDF) parser library and tools",
     "Homepage": "https://github.com/ros/urdfdom"
   },
