@@ -9783,7 +9783,7 @@
   Description: A graphical package manager for various package formats for Termux and proot-distro distros
   Homepage: https://github.com/tareksander/termux-gui-pm
 - Package: termux-keyring
-  Version: 3.12-1
+  Version: "3.13"
   Description: GPG public keys for the official Termux repositories
   Homepage: https://github.com/termux
 - Package: termux-licenses
