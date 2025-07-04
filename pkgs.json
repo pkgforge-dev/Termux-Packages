@@ -14754,6 +14754,12 @@
     "Homepage": "https://www.tug.org/texlive/"
   },
   {
+    "Package": "tgpt",
+    "Version": "2.10.0",
+    "Description": "AI Chatbots in terminal without needing API keys",
+    "Homepage": "https://github.com/aandrew-me/tgpt"
+  },
+  {
     "Package": "thrift",
     "Version": "0.22.0",
     "Description": "Scalable cross-language services framework for IPC/RPC",

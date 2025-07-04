@@ -2469,6 +2469,7 @@
 | **texlive-bin** | 1:2025.0 | TeX Live is a distribution of the TeX typesetting system. This package contains architecture dependent binaries. | https://www.tug.org/texlive/ |
 | **texlive-bin-static** | 1:2025.0 | Static libraries for texlive-bin | https://www.tug.org/texlive/ |
 | **texlive-installer** | 20250308 | Wrapper around texlive's install-tl script | https://www.tug.org/texlive/ |
+| **tgpt** | 2.10.0 | AI Chatbots in terminal without needing API keys | https://github.com/aandrew-me/tgpt |
 | **thrift** | 0.22.0 | Scalable cross-language services framework for IPC/RPC | https://thrift.apache.org |
 | **tidy** | 5.9.14-next-0 | A tool to tidy down your HTML code to a clean style | http://www.html-tidy.org/ |
 | **tidy-static** | 5.9.14-next-0 | Static libraries for tidy | http://www.html-tidy.org/ |
