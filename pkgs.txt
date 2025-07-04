@@ -643,7 +643,7 @@
  gpgv  2.5.5  GNU privacy guard - signature verification tool  https://www.gnupg.org/ 
  gping  1.19.0  Ping, but with a graph  https://github.com/orf/gping 
  gpsbabel  1.4.4-2  GPS file conversion plus transfer to/from GPS units  https://www.gpsbabel.org/ 
- gradle  1:8.14.2  Powerful build system for the JVM  https://gradle.org/ 
+ gradle  1:8.14.3  Powerful build system for the JVM  https://gradle.org/ 
  grafana  1:11.6.0  The open-source platform for monitoring and observability  https://grafana.com/ 
  graphene  1.10.8-1  A thin layer of graphic data types  https://ebassi.github.io/graphene/ 
  graphicsmagick  1.3.45-3  Collection of image processing tools  http://www.graphicsmagick.org/ 
@@ -1708,7 +1708,7 @@
  mg  20240709-1  microscopic GNU Emacs-style editor  https://github.com/hboetes/mg 
  micro  2.0.14-2  Modern and intuitive terminal-based text editor  https://micro-editor.github.io/ 
  microsocks  1:1.0.5  tiny, portable SOCKS5 server with very moderate resource usage  https://github.com/rofl0r/microsocks 
- miller  6.13.0  Like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON  https://miller.readthedocs.io/ 
+ miller  6.14.0  Like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON  https://miller.readthedocs.io/ 
  mimetic  0.9.8-1  A C++ Email library (MIME)  https://www.codesink.org/mimetic_mime_library.html 
  mimetic-static  0.9.8-1  Static libraries for mimetic  https://www.codesink.org/mimetic_mime_library.html 
  minesweeper  0.3.1-3  A simple terminal-based implementation of Minesweeper  https://github.com/benhsm/minesweeper 
@@ -2620,7 +2620,7 @@
  vulkan-icd  0.1  A metapackage that provides Vulkan ICDs  https://github.com/termux/termux-packages 
  vulkan-loader  0.0.3  A metapackage that provides vulkan loader library  https://github.com/termux/termux-packages 
  vulkan-loader-android  27c  Vulkan Loader for Android  https://source.android.com/devices/graphics/arch-vulkan 
- vulkan-loader-generic  1.4.320  Vulkan Loader  https://github.com/KhronosGroup/Vulkan-Loader 
+ vulkan-loader-generic  1.4.321  Vulkan Loader  https://github.com/KhronosGroup/Vulkan-Loader 
  vulkan-tools  1.4.320  Vulkan Tools and Utilities  https://github.com/KhronosGroup/Vulkan-Tools 
  vulkan-utility-libraries  1.4.321  Utility Libraries for Vulkan  https://github.com/KhronosGroup/Vulkan-Utility-Libraries 
  vulkan-validation-layers  1.4.320  Vulkan Validation Layers  https://github.com/KhronosGroup/Vulkan-ValidationLayers 

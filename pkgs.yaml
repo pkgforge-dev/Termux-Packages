@@ -2579,7 +2579,7 @@
   Description: GPS file conversion plus transfer to/from GPS units
   Homepage: https://www.gpsbabel.org/
 - Package: gradle
-  Version: 1:8.14.2
+  Version: 1:8.14.3
   Description: Powerful build system for the JVM
   Homepage: https://gradle.org/
 - Package: grafana
@@ -6839,7 +6839,7 @@
   Description: tiny, portable SOCKS5 server with very moderate resource usage
   Homepage: https://github.com/rofl0r/microsocks
 - Package: miller
-  Version: 6.13.0
+  Version: 6.14.0
   Description: Like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
   Homepage: https://miller.readthedocs.io/
 - Package: mimetic
@@ -10487,7 +10487,7 @@
   Description: Vulkan Loader for Android
   Homepage: https://source.android.com/devices/graphics/arch-vulkan
 - Package: vulkan-loader-generic
-  Version: 1.4.320
+  Version: 1.4.321
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
