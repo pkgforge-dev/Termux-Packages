@@ -987,11 +987,11 @@
   Description: Experimental implementation of OpenCL on Vulkan
   Homepage: https://github.com/kpet/clvk
 - Package: cmake
-  Version: 3.31.6
+  Version: 4.0.3
   Description: Family of tools designed to build, test and package software
   Homepage: https://cmake.org/
 - Package: cmake-curses-gui
-  Version: 3.31.6
+  Version: 4.0.3
   Description: Curses based user interface for CMake (ccmake)
   Homepage: https://cmake.org/
 - Package: cmark
@@ -1783,7 +1783,7 @@
   Description: A modern replacement for ls
   Homepage: https://github.com/eza-community/eza
 - Package: fact++
-  Version: 1.6.5-1
+  Version: 1.6.5-2
   Description: Re-implementation of the well-known FaCT Description Logic (DL) Reasoner
   Homepage: https://bitbucket.org/dtsarkov/factplusplus
 - Package: fakeroot
@@ -1971,7 +1971,7 @@
   Description: Fontconfig binaries
   Homepage: https://www.freedesktop.org/wiki/Software/fontconfig/
 - Package: forestdb-dump
-  Version: "1.2"
+  Version: 1.2-1
   Description: ForestDB dump tool
   Homepage: https://github.com/couchbase/forestdb
 - Package: forgejo
@@ -3191,11 +3191,11 @@
   Description: A JSON Query Language CLI tool
   Homepage: https://github.com/yamafaktory/jql
 - Package: json-c
-  Version: "0.18"
+  Version: 0.18-1
   Description: A JSON implementation in C
   Homepage: https://github.com/json-c/json-c/wiki
 - Package: json-c-static
-  Version: "0.18"
+  Version: 0.18-1
   Description: Static libraries for json-c
   Homepage: https://github.com/json-c/json-c/wiki
 - Package: json-glib
@@ -3315,7 +3315,7 @@
   Description: High quality MPEG Audio Layer III (MP3) encoder - frontend
   Homepage: https://lame.sourceforge.io/
 - Package: lastpass-cli
-  Version: 1.6.1-1
+  Version: 1.6.1-2
   Description: LastPass command line interface tool
   Homepage: https://lastpass.com/
 - Package: lazygit
@@ -3971,11 +3971,11 @@
   Description: Static library to read DWARF information
   Homepage: https://sourceware.org/elfutils/
 - Package: libebml
-  Version: 1.4.5
+  Version: 1.4.5-1
   Description: Extensible Binary Meta Language library
   Homepage: https://github.com/Matroska-Org/libebml
 - Package: libebur128
-  Version: 1.2.6-1
+  Version: 1.2.6-2
   Description: Implements the EBU R 128 standard for loudness normalisation
   Homepage: https://github.com/jiixyj/libebur128
 - Package: libedit
@@ -4095,7 +4095,7 @@
   Description: Static libraries for libflann
   Homepage: https://github.com/flann-lib/flann
 - Package: libforestdb
-  Version: "1.2"
+  Version: 1.2-1
   Description: A key-value storage engine
   Homepage: https://github.com/couchbase/forestdb
 - Package: libfreexl
@@ -4355,7 +4355,7 @@
   Description: Static libraries for libicu
   Homepage: http://site.icu-project.org/home
 - Package: libid3tag
-  Version: 0.16.3
+  Version: 0.16.3-1
   Description: MAD ID3 tag manipulation library
   Homepage: http://www.underbit.com/products/mad/
 - Package: libidn
@@ -5359,7 +5359,7 @@
   Description: High quality Rust bindings to V8s C++ API
   Homepage: https://github.com/denoland/rusty_v8
 - Package: libsamplerate
-  Version: 0.2.2-1
+  Version: 0.2.2-2
   Description: A library for performing sample rate conversion of audio data
   Homepage: https://libsndfile.github.io/libsamplerate/
 - Package: libsasl
@@ -5427,7 +5427,7 @@
   Description: Implements a typesafe callback system for standard C++
   Homepage: https://libsigcplusplus.github.io/libsigcplusplus/
 - Package: libsigc++-3.0
-  Version: 3.6.0
+  Version: 3.6.0-1
   Description: Implements a typesafe callback system for standard C++
   Homepage: https://libsigcplusplus.github.io/libsigcplusplus/
 - Package: libsignal-protocol-c
@@ -8531,11 +8531,11 @@
   Description: A set of utilities for working with the QEMU emulators
   Homepage: https://www.qemu.org
 - Package: qhull
-  Version: 8.1-alpha3-0
+  Version: 8.1-alpha3-1
   Description: Calculate convex hulls and related structures
   Homepage: http://www.qhull.org
 - Package: qhull-static
-  Version: 8.1-alpha3-0
+  Version: 8.1-alpha3-1
   Description: Static libraries for qhull
   Homepage: http://www.qhull.org
 - Package: qpdf
@@ -9631,7 +9631,7 @@
   Description: Task spooler is a Unix batch system where the tasks spooled run one after the other
   Homepage: https://vicerveza.homeunix.net/~viric/soft/ts/
 - Package: tasksh
-  Version: 1.2.0-9
+  Version: 1.2.0-10
   Description: Shell command wrapping Taskwarrior commands
   Homepage: https://taskwarrior.org
 - Package: taskwarrior
@@ -9683,7 +9683,7 @@
   Description: A modernized, complete, self-contained TeX/LaTeX engine
   Homepage: https://tectonic-typesetting.github.io/
 - Package: telegram-bot-api
-  Version: "20241031"
+  Version: 20241031-1
   Description: Telegram Bot API server
   Homepage: https://github.com/tdlib/telegram-bot-api
 - Package: telegram-cli
@@ -9839,11 +9839,11 @@
   Description: Scalable cross-language services framework for IPC/RPC
   Homepage: https://thrift.apache.org
 - Package: tidy
-  Version: 5.9.14-next-0
+  Version: 5.9.14-next-2
   Description: A tool to tidy down your HTML code to a clean style
   Homepage: http://www.html-tidy.org/
 - Package: tidy-static
-  Version: 5.9.14-next-0
+  Version: 5.9.14-next-2
   Description: Static libraries for tidy
   Homepage: http://www.html-tidy.org/
 - Package: tig
@@ -9971,7 +9971,7 @@
   Description: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
   Homepage: https://www.soimort.org/translate-shell
 - Package: transmission
-  Version: 4.0.6-3
+  Version: 4.0.6-4
   Description: Easy, lean and powerful BitTorrent client
   Homepage: https://transmissionbt.com/
 - Package: tree
@@ -10443,7 +10443,7 @@
   Description: Static libraries for vlc
   Homepage: https://www.videolan.org/
 - Package: vobsub2srt
-  Version: 2017.12.18-2
+  Version: 2017.12.18-3
   Description: A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR
   Homepage: https://github.com/ruediger/VobSub2SRT
 - Package: vorbis-tools

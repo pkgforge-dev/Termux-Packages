@@ -1483,13 +1483,13 @@
   },
   {
     "Package": "cmake",
-    "Version": "3.31.6",
+    "Version": "4.0.3",
     "Description": "Family of tools designed to build, test and package software",
     "Homepage": "https://cmake.org/"
   },
   {
     "Package": "cmake-curses-gui",
-    "Version": "3.31.6",
+    "Version": "4.0.3",
     "Description": "Curses based user interface for CMake (ccmake)",
     "Homepage": "https://cmake.org/"
   },
@@ -2677,7 +2677,7 @@
   },
   {
     "Package": "fact++",
-    "Version": "1.6.5-1",
+    "Version": "1.6.5-2",
     "Description": "Re-implementation of the well-known FaCT Description Logic (DL) Reasoner",
     "Homepage": "https://bitbucket.org/dtsarkov/factplusplus"
   },
@@ -2959,7 +2959,7 @@
   },
   {
     "Package": "forestdb-dump",
-    "Version": "1.2",
+    "Version": "1.2-1",
     "Description": "ForestDB dump tool",
     "Homepage": "https://github.com/couchbase/forestdb"
   },
@@ -4789,13 +4789,13 @@
   },
   {
     "Package": "json-c",
-    "Version": "0.18",
+    "Version": "0.18-1",
     "Description": "A JSON implementation in C",
     "Homepage": "https://github.com/json-c/json-c/wiki"
   },
   {
     "Package": "json-c-static",
-    "Version": "0.18",
+    "Version": "0.18-1",
     "Description": "Static libraries for json-c",
     "Homepage": "https://github.com/json-c/json-c/wiki"
   },
@@ -4975,7 +4975,7 @@
   },
   {
     "Package": "lastpass-cli",
-    "Version": "1.6.1-1",
+    "Version": "1.6.1-2",
     "Description": "LastPass command line interface tool",
     "Homepage": "https://lastpass.com/"
   },
@@ -5959,13 +5959,13 @@
   },
   {
     "Package": "libebml",
-    "Version": "1.4.5",
+    "Version": "1.4.5-1",
     "Description": "Extensible Binary Meta Language library",
     "Homepage": "https://github.com/Matroska-Org/libebml"
   },
   {
     "Package": "libebur128",
-    "Version": "1.2.6-1",
+    "Version": "1.2.6-2",
     "Description": "Implements the EBU R 128 standard for loudness normalisation",
     "Homepage": "https://github.com/jiixyj/libebur128"
   },
@@ -6145,7 +6145,7 @@
   },
   {
     "Package": "libforestdb",
-    "Version": "1.2",
+    "Version": "1.2-1",
     "Description": "A key-value storage engine",
     "Homepage": "https://github.com/couchbase/forestdb"
   },
@@ -6535,7 +6535,7 @@
   },
   {
     "Package": "libid3tag",
-    "Version": "0.16.3",
+    "Version": "0.16.3-1",
     "Description": "MAD ID3 tag manipulation library",
     "Homepage": "http://www.underbit.com/products/mad/"
   },
@@ -8041,7 +8041,7 @@
   },
   {
     "Package": "libsamplerate",
-    "Version": "0.2.2-1",
+    "Version": "0.2.2-2",
     "Description": "A library for performing sample rate conversion of audio data",
     "Homepage": "https://libsndfile.github.io/libsamplerate/"
   },
@@ -8143,7 +8143,7 @@
   },
   {
     "Package": "libsigc++-3.0",
-    "Version": "3.6.0",
+    "Version": "3.6.0-1",
     "Description": "Implements a typesafe callback system for standard C++",
     "Homepage": "https://libsigcplusplus.github.io/libsigcplusplus/"
   },
@@ -12799,13 +12799,13 @@
   },
   {
     "Package": "qhull",
-    "Version": "8.1-alpha3-0",
+    "Version": "8.1-alpha3-1",
     "Description": "Calculate convex hulls and related structures",
     "Homepage": "http://www.qhull.org"
   },
   {
     "Package": "qhull-static",
-    "Version": "8.1-alpha3-0",
+    "Version": "8.1-alpha3-1",
     "Description": "Static libraries for qhull",
     "Homepage": "http://www.qhull.org"
   },
@@ -14449,7 +14449,7 @@
   },
   {
     "Package": "tasksh",
-    "Version": "1.2.0-9",
+    "Version": "1.2.0-10",
     "Description": "Shell command wrapping Taskwarrior commands",
     "Homepage": "https://taskwarrior.org"
   },
@@ -14527,7 +14527,7 @@
   },
   {
     "Package": "telegram-bot-api",
-    "Version": "20241031",
+    "Version": "20241031-1",
     "Description": "Telegram Bot API server",
     "Homepage": "https://github.com/tdlib/telegram-bot-api"
   },
@@ -14761,13 +14761,13 @@
   },
   {
     "Package": "tidy",
-    "Version": "5.9.14-next-0",
+    "Version": "5.9.14-next-2",
     "Description": "A tool to tidy down your HTML code to a clean style",
     "Homepage": "http://www.html-tidy.org/"
   },
   {
     "Package": "tidy-static",
-    "Version": "5.9.14-next-0",
+    "Version": "5.9.14-next-2",
     "Description": "Static libraries for tidy",
     "Homepage": "http://www.html-tidy.org/"
   },
@@ -14959,7 +14959,7 @@
   },
   {
     "Package": "transmission",
-    "Version": "4.0.6-3",
+    "Version": "4.0.6-4",
     "Description": "Easy, lean and powerful BitTorrent client",
     "Homepage": "https://transmissionbt.com/"
   },
@@ -15667,7 +15667,7 @@
   },
   {
     "Package": "vobsub2srt",
-    "Version": "2017.12.18-2",
+    "Version": "2017.12.18-3",
     "Description": "A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR",
     "Homepage": "https://github.com/ruediger/VobSub2SRT"
   },

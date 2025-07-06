@@ -257,8 +257,8 @@
 | **cloudflared** | 2025.7.0 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
 | **clpeak** | 1.1.4 | A tool which profiles OpenCL devices to find their peak capacities | https://github.com/krrishnarraj/clpeak |
 | **clvk** | 0.0.20250703.065636 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
-| **cmake** | 3.31.6 | Family of tools designed to build, test and package software | https://cmake.org/ |
-| **cmake-curses-gui** | 3.31.6 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
+| **cmake** | 4.0.3 | Family of tools designed to build, test and package software | https://cmake.org/ |
+| **cmake-curses-gui** | 4.0.3 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
 | **cmark** | 0.31.1 | CommonMark parsing and rendering program | https://github.com/commonmark/cmark |
 | **cmark-static** | 0.31.1 | Static libraries for cmark | https://github.com/commonmark/cmark |
 | **cmatrix** | 2.0 | Command producing a Matrix-style animation | https://github.com/abishekvashok/cmatrix |
@@ -456,7 +456,7 @@
 | **exiv2-static** | 2:0.27.7-1 | Static libraries for exiv2 | https://exiv2.org/ |
 | **expect** | 5.45.4-3 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
 | **eza** | 0.22.0 | A modern replacement for ls | https://github.com/eza-community/eza |
-| **fact++** | 1.6.5-1 | Re-implementation of the well-known FaCT Description Logic (DL) Reasoner | https://bitbucket.org/dtsarkov/factplusplus |
+| **fact++** | 1.6.5-2 | Re-implementation of the well-known FaCT Description Logic (DL) Reasoner | https://bitbucket.org/dtsarkov/factplusplus |
 | **fakeroot** | 1.37.1.2 | Tool for simulating superuser privileges (with tcp ipc) | https://packages.qa.debian.org/f/fakeroot.html |
 | **fakeroot-static** | 1.37.1.2 | Static libraries for fakeroot | https://packages.qa.debian.org/f/fakeroot.html |
 | **fasd** | 1.0.2 | To fastly access files and folders | https://github.com/whjvenyl/fasd |
@@ -503,7 +503,7 @@
 | **fontconfig** | 2.17.1 | Library for configuring and customizing font access | https://www.freedesktop.org/wiki/Software/fontconfig/ |
 | **fontconfig-static** | 2.17.1 | Static libraries for fontconfig | https://www.freedesktop.org/wiki/Software/fontconfig/ |
 | **fontconfig-utils** | 2.17.1 | Fontconfig binaries | https://www.freedesktop.org/wiki/Software/fontconfig/ |
-| **forestdb-dump** | 1.2 | ForestDB dump tool | https://github.com/couchbase/forestdb |
+| **forestdb-dump** | 1.2-1 | ForestDB dump tool | https://github.com/couchbase/forestdb |
 | **forgejo** | 11.0.2 | Forgejo is a self-hosted lightweight software forge. | https://forgejo.org/ |
 | **fortune** | 1.2-1 | Revealer of fortunes | https://www.fefe.de/fortune/ |
 | **fossil** | 2.26 | DSCM with built-in wiki, http interface and server, tickets database | https://www.fossil-scm.org |
@@ -808,8 +808,8 @@
 | **jq-lsp** | 0.1.13 | jq language server | https://github.com/wader/jq-lsp |
 | **jq-static** | 1.8.1 | Static libraries for jq | https://stedolan.github.io/jq/ |
 | **jql** | 8.0.7 | A JSON Query Language CLI tool | https://github.com/yamafaktory/jql |
-| **json-c** | 0.18 | A JSON implementation in C | https://github.com/json-c/json-c/wiki |
-| **json-c-static** | 0.18 | Static libraries for json-c | https://github.com/json-c/json-c/wiki |
+| **json-c** | 0.18-1 | A JSON implementation in C | https://github.com/json-c/json-c/wiki |
+| **json-c-static** | 0.18-1 | Static libraries for json-c | https://github.com/json-c/json-c/wiki |
 | **json-glib** | 1.10.6 | GLib JSON manipulation library | https://wiki.gnome.org/Projects/JsonGlib |
 | **jsoncpp** | 1.9.6-1 | C++ library for interacting with JSON | https://github.com/open-source-parsers/jsoncpp |
 | **jsoncpp-static** | 1.9.6-1 | Static libraries for jsoncpp | https://github.com/open-source-parsers/jsoncpp |
@@ -839,7 +839,7 @@
 | **kubo** | 0.35.0 | A peer-to-peer hypermedia distribution protocol | https://ipfs.io/ |
 | **ladspa-sdk** | 1.17-2 | Linux Audio Developer's Simple Plugin API | https://www.ladspa.org/ |
 | **lame** | 3.100-6 | High quality MPEG Audio Layer III (MP3) encoder - frontend | https://lame.sourceforge.io/ |
-| **lastpass-cli** | 1.6.1-1 | LastPass command line interface tool | https://lastpass.com/ |
+| **lastpass-cli** | 1.6.1-2 | LastPass command line interface tool | https://lastpass.com/ |
 | **lazygit** | 0.53.0 | Simple terminal UI for git commands | https://github.com/jesseduffield/lazygit |
 | **lazyread** | 2.0-1 | An auto-scroller, pager, and e-book reader all in one | http://lazyread.sourceforge.net/ |
 | **lcal** | 2.1.0 | A multi-platform program which generates PostScript lunar calendars in a yearly format | https://pcal.sourceforge.net/ |
@@ -1003,8 +1003,8 @@
 | **libdvdread-static** | 6.1.3 | Static libraries for libdvdread | https://code.videolan.org/videolan/libdvdread |
 | **libdw** | 0.192 | Library to read DWARF information | https://sourceware.org/elfutils/ |
 | **libdw-static** | 0.192 | Static library to read DWARF information | https://sourceware.org/elfutils/ |
-| **libebml** | 1.4.5 | Extensible Binary Meta Language library | https://github.com/Matroska-Org/libebml |
-| **libebur128** | 1.2.6-1 | Implements the EBU R 128 standard for loudness normalisation | https://github.com/jiixyj/libebur128 |
+| **libebml** | 1.4.5-1 | Extensible Binary Meta Language library | https://github.com/Matroska-Org/libebml |
+| **libebur128** | 1.2.6-2 | Implements the EBU R 128 standard for loudness normalisation | https://github.com/jiixyj/libebur128 |
 | **libedit** | 20240517-3.1-0 | Library providing line editing, history, and tokenization functions | https://thrysoee.dk/editline/ |
 | **libedit-static** | 20240517-3.1-0 | Static libraries for libedit | https://thrysoee.dk/editline/ |
 | **libelf** | 0.192 | ELF object file access library | https://sourceware.org/elfutils/ |
@@ -1034,7 +1034,7 @@
 | **libflac-static** | 1.5.0 | Static libraries for libflac | https://xiph.org/flac/ |
 | **libflann** | 2022.10.27-1 | A library for performing fast approximate nearest neighbor searches in high dimensional spaces | https://github.com/flann-lib/flann |
 | **libflann-static** | 2019.04.06-1 | Static libraries for libflann | https://github.com/flann-lib/flann |
-| **libforestdb** | 1.2 | A key-value storage engine | https://github.com/couchbase/forestdb |
+| **libforestdb** | 1.2-1 | A key-value storage engine | https://github.com/couchbase/forestdb |
 | **libfreexl** | 2.0.0 | Library to extract valid data from within an Excel (.xls) spreadsheet | https://www.gaia-gis.it/fossil/freexl |
 | **libfreexl-static** | 2.0.0 | Static libraries for libfreexl | https://www.gaia-gis.it/fossil/freexl |
 | **libftxui** | 6.1.9 | A simple C++ library for terminal based user interface | https://github.com/ArthurSonzogni/FTXUI |
@@ -1099,7 +1099,7 @@
 | **libiconv-static** | 1.18 | Static libraries for libiconv | https://www.gnu.org/software/libiconv/ |
 | **libicu** | 77.1-1 | International Components for Unicode library | http://site.icu-project.org/home |
 | **libicu-static** | 77.1-1 | Static libraries for libicu | http://site.icu-project.org/home |
-| **libid3tag** | 0.16.3 | MAD ID3 tag manipulation library | http://www.underbit.com/products/mad/ |
+| **libid3tag** | 0.16.3-1 | MAD ID3 tag manipulation library | http://www.underbit.com/products/mad/ |
 | **libidn** | 1.43 | GNU Libidn library, implementation of IETF IDN specifications | https://www.gnu.org/software/libidn/ |
 | **libidn-static** | 1.43 | Static libraries for libidn | https://www.gnu.org/software/libidn/ |
 | **libidn2** | 2.3.8 | Free software implementation of IDNA2008, Punycode and TR46 | https://www.gnu.org/software/libidn/#libidn2 |
@@ -1350,7 +1350,7 @@
 | **librttopo** | 1.1.0-3 | The RT Topology Library exposes an API to create and manage standard topologies | https://git.osgeo.org/gitea/rttopo/librttopo |
 | **librttopo-static** | 1.1.0-3 | Static libraries for librttopo | https://git.osgeo.org/gitea/rttopo/librttopo |
 | **librusty-v8** | 130.0.1 | High quality Rust bindings to V8's C++ API | https://github.com/denoland/rusty_v8 |
-| **libsamplerate** | 0.2.2-1 | A library for performing sample rate conversion of audio data | https://libsndfile.github.io/libsamplerate/ |
+| **libsamplerate** | 0.2.2-2 | A library for performing sample rate conversion of audio data | https://libsndfile.github.io/libsamplerate/ |
 | **libsasl** | 2.1.28-1 | Cyrus SASL - authentication abstraction library | https://www.cyrusimap.org/sasl/ |
 | **libsasl-static** | 2.1.28-1 | Static libraries for libsasl | https://www.cyrusimap.org/sasl/ |
 | **libsass** | 3.6.6 | Sass compiler written in C++ | https://github.com/sass/libsass |
@@ -1367,7 +1367,7 @@
 | **libshout** | 2.4.6-1 | Library which can be used to write a source client like ices. | https://icecast.org/ |
 | **libshout-static** | 2.4.6-1 | Static libraries for libshout | https://icecast.org/ |
 | **libsigc++-2.0** | 2.12.1 | Implements a typesafe callback system for standard C++ | https://libsigcplusplus.github.io/libsigcplusplus/ |
-| **libsigc++-3.0** | 3.6.0 | Implements a typesafe callback system for standard C++ | https://libsigcplusplus.github.io/libsigcplusplus/ |
+| **libsigc++-3.0** | 3.6.0-1 | Implements a typesafe callback system for standard C++ | https://libsigcplusplus.github.io/libsigcplusplus/ |
 | **libsignal-protocol-c** | 2.3.3-2 | Signal Protocol C Library | https://github.com/signalapp/libsignal-protocol-c |
 | **libsigsegv** | 2.14 | GNU libsigsegv is a library for handling page faults in user mode | https://www.gnu.org/software/libsigsegv/ |
 | **libsigsegv-static** | 2.14 | Static libraries for libsigsegv | https://www.gnu.org/software/libsigsegv/ |
@@ -2143,8 +2143,8 @@
 | **qemu-user-riscv64** | 1:8.2.6-6 | QEMU Linux user mode emulator | https://www.qemu.org |
 | **qemu-user-x86-64** | 1:8.2.6-6 | QEMU Linux user mode emulator | https://www.qemu.org |
 | **qemu-utils** | 1:8.2.6-6 | A set of utilities for working with the QEMU emulators | https://www.qemu.org |
-| **qhull** | 8.1-alpha3-0 | Calculate convex hulls and related structures | http://www.qhull.org |
-| **qhull-static** | 8.1-alpha3-0 | Static libraries for qhull | http://www.qhull.org |
+| **qhull** | 8.1-alpha3-1 | Calculate convex hulls and related structures | http://www.qhull.org |
+| **qhull-static** | 8.1-alpha3-1 | Static libraries for qhull | http://www.qhull.org |
 | **qpdf** | 12.2.0 | Content-Preserving PDF Transformation System | http://qpdf.sourceforge.net |
 | **qpdf-static** | 12.2.0 | Static libraries for qpdf | http://qpdf.sourceforge.net |
 | **qrsspig** | 0.8.0-5 | Headless QRSS grabber for Raspberry Pi's | https://gitlab.com/hb9fxx/qrsspig |
@@ -2418,7 +2418,7 @@
 | **taplo** | 0.10.0 | A TOML LSP and toolkit | https://taplo.tamasfe.dev/ |
 | **tar** | 1.35 | GNU tar for manipulating tar archives | https://www.gnu.org/software/tar/ |
 | **task-spooler** | 1:1.0.3 | Task spooler is a Unix batch system where the tasks spooled run one after the other | https://vicerveza.homeunix.net/~viric/soft/ts/ |
-| **tasksh** | 1.2.0-9 | Shell command wrapping Taskwarrior commands | https://taskwarrior.org |
+| **tasksh** | 1.2.0-10 | Shell command wrapping Taskwarrior commands | https://taskwarrior.org |
 | **taskwarrior** | 3.4.1 | Utility for managing your TODO list | https://taskwarrior.org |
 | **tcc** | 1:0.9.27-p20230415-2 | Tiny C Compiler | https://bellard.org/tcc/ |
 | **tcl** | 8.6.14 | Powerful but easy to learn dynamic programming language | https://www.tcl.tk/ |
@@ -2431,7 +2431,7 @@
 | **teckit** | 2.5.12 | TECkit is a library for encoding conversion | https://scripts.sil.org/teckitdownloads |
 | **teckit-static** | 2.5.12 | Static libraries for teckit | https://scripts.sil.org/teckitdownloads |
 | **tectonic** | 0.15.0-4 | A modernized, complete, self-contained TeX/LaTeX engine | https://tectonic-typesetting.github.io/ |
-| **telegram-bot-api** | 20241031 | Telegram Bot API server | https://github.com/tdlib/telegram-bot-api |
+| **telegram-bot-api** | 20241031-1 | Telegram Bot API server | https://github.com/tdlib/telegram-bot-api |
 | **telegram-cli** | 1:1.4.1-7 | Telegram messenger CLI | https://github.com/vysheng/tg |
 | **teleport-tsh** | 18.0.0 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
 | **tenki-php** | 2022.05.26 | A simple PHP application for logging current weather conditions, notes, and waypoints | https://github.com/dmpop/tenki |
@@ -2470,8 +2470,8 @@
 | **texlive-installer** | 20250308 | Wrapper around texlive's install-tl script | https://www.tug.org/texlive/ |
 | **tgpt** | 2.10.0 | AI Chatbots in terminal without needing API keys | https://github.com/aandrew-me/tgpt |
 | **thrift** | 0.22.0 | Scalable cross-language services framework for IPC/RPC | https://thrift.apache.org |
-| **tidy** | 5.9.14-next-0 | A tool to tidy down your HTML code to a clean style | http://www.html-tidy.org/ |
-| **tidy-static** | 5.9.14-next-0 | Static libraries for tidy | http://www.html-tidy.org/ |
+| **tidy** | 5.9.14-next-2 | A tool to tidy down your HTML code to a clean style | http://www.html-tidy.org/ |
+| **tidy-static** | 5.9.14-next-2 | Static libraries for tidy | http://www.html-tidy.org/ |
 | **tig** | 2.5.12 | Ncurses-based text-mode interface for git | https://jonas.github.io/tig/ |
 | **tilde** | 1.1.3-1 | A text editor for the console/terminal | https://os.ghalkes.nl/tilde/ |
 | **time** | 1.9 | GNU time program for measuring CPU resource usage | https://www.gnu.org/software/time/ |
@@ -2503,7 +2503,7 @@
 | **tracepath** | 20250605 | Tool to trace the network path to a remote host | https://github.com/iputils/iputils |
 | **traceroute** | 2.1.6 | A new modern implementation of traceroute(8) utility for Linux systems | https://traceroute.sourceforge.net/ |
 | **translate-shell** | 0.9.7.1 | Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc. | https://www.soimort.org/translate-shell |
-| **transmission** | 4.0.6-3 | Easy, lean and powerful BitTorrent client | https://transmissionbt.com/ |
+| **transmission** | 4.0.6-4 | Easy, lean and powerful BitTorrent client | https://transmissionbt.com/ |
 | **tree** | 2.2.1 | Recursive directory lister producing a depth indented listing of files | http://mama.indstate.edu/users/ice/tree/ |
 | **tree-sitter** | 0.25.6-4 | An incremental parsing system for programming tools | https://github.com/tree-sitter/tree-sitter |
 | **tree-sitter-c** | 0.24.1-2 | C grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-c |
@@ -2621,7 +2621,7 @@
 | **vivid** | 0.10.1 | A themeable LS_COLORS generator with a rich filetype datebase | https://github.com/sharkdp/vivid |
 | **vlc** | 3.0.21-8 | A popular libre and open source media player and multimedia engine | https://www.videolan.org/ |
 | **vlc-static** | 3.0.21-8 | Static libraries for vlc | https://www.videolan.org/ |
-| **vobsub2srt** | 2017.12.18-2 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
+| **vobsub2srt** | 2017.12.18-3 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.3 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
 | **vtm** | 2025.06.18 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
 | **vttest** | 20241208 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
