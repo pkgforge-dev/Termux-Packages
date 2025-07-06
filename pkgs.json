@@ -2389,7 +2389,7 @@
   },
   {
     "Package": "dust",
-    "Version": "1.2.1",
+    "Version": "1.2.2",
     "Description": "A more intuitive version of du in rust",
     "Homepage": "https://github.com/bootandy/dust"
   },
@@ -8353,19 +8353,19 @@
   },
   {
     "Package": "libsqlite",
-    "Version": "3.50.1-1",
+    "Version": "3.50.2",
     "Description": "Library implementing a self-contained and transactional SQL database engine",
     "Homepage": "https://www.sqlite.org"
   },
   {
     "Package": "libsqlite-static",
-    "Version": "3.50.1-1",
+    "Version": "3.50.2",
     "Description": "Static libraries for libsqlite",
     "Homepage": "https://www.sqlite.org"
   },
   {
     "Package": "libsqlite-tcl",
-    "Version": "3.50.1-1",
+    "Version": "3.50.2",
     "Description": "tcl bindings for SQLite",
     "Homepage": "https://www.sqlite.org"
   },
@@ -14035,7 +14035,7 @@
   },
   {
     "Package": "sqlite",
-    "Version": "3.50.1-1",
+    "Version": "3.50.2",
     "Description": "Command line shell for SQLite",
     "Homepage": "https://www.sqlite.org"
   },
