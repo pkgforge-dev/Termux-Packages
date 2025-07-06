@@ -1861,7 +1861,7 @@
 | **nsnake** | 3.0.1-6 | The classic snake game with textual interface | https://github.com/alexdantas/nSnake |
 | **nss-utils** | 3.113.1 | Tools for NSS | https://firefox-source-docs.mozilla.org/security/nss/ |
 | **nudoku** | 5.0.0 | ncurses based sudoku game | http://jubalh.github.io/nudoku/ |
-| **nushell** | 0.105.1 | A new type of shell operating on structured data | https://www.nushell.sh |
+| **nushell** | 0.105.1-1 | A new type of shell operating on structured data | https://www.nushell.sh |
 | **nwipe** | 0.38-1 | A program that will securely erase the entire contents of disks | https://github.com/martijnvanbrummelen/nwipe |
 | **nyancat** | 1.5.2 | Nyancat in your terminal, rendered through ANSI escape sequences. | http://nyancat.dakko.us |
 | **nzbget** | 21.1-7 | The most efficient usenet downloader | https://nzbget.net/ |
