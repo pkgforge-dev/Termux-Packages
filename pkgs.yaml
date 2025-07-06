@@ -1055,7 +1055,7 @@
   Description: Tool to colorize diff output
   Homepage: https://www.colordiff.org/
 - Package: command-not-found
-  Version: 3.1-1
+  Version: 3.1-2
   Description: Suggest installation of packages in interactive shell sessions
   Homepage: https://github.com/termux/command-not-found
 - Package: composer
@@ -7475,7 +7475,7 @@
   Description: The GNU Spreadsheet
   Homepage: https://www.gnu.org/software/oleo/
 - Package: onefetch
-  Version: 2.24.0
+  Version: 2.25.0
   Description: A command-line Git information tool written in Rust
   Homepage: https://onefetch.dev/
 - Package: onigmo
