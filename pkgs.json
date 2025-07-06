@@ -4566,12 +4566,6 @@
     "Homepage": "https://github.com/esnet/iperf"
   },
   {
-    "Package": "ipfs",
-    "Version": "0.33.2",
-    "Description": "A peer-to-peer hypermedia distribution protocol",
-    "Homepage": "https://ipfs.io/"
-  },
-  {
     "Package": "ipmitool",
     "Version": "1.8.19",
     "Description": "Command-line interface to IPMI-enabled devices",
@@ -4657,7 +4651,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.22.2120",
+    "Version": "0.22.2123",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
