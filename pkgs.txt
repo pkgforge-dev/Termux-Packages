@@ -655,7 +655,7 @@
  grex  1.4.5  Simplifies the task of creating regular expressions  https://github.com/pemistahl/grex 
  groff  1.23.0-1  typesetting system that reads plain text mixed with formatting commands and produces formatted output  https://www.gnu.org/software/groff/ 
  gron  0.7.1-3  Transforms JSON into discrete assignments  https://github.com/tomnomnom/gron 
- groonga  15.1.1  An embeddable fulltext search engine  https://github.com/groonga/groonga/ 
+ groonga  15.1.2  An embeddable fulltext search engine  https://github.com/groonga/groonga/ 
  groovy  4.0.26-3  A powerful multi-faceted programming language for the JVM platform  https://groovy-lang.org/ 
  gsasl  2.2.2  GNU SASL library command line interface  https://www.gnu.org/software/gsasl 
  gsf-tools  1.14.53-1  Command-line tools for libgsf  https://gitlab.gnome.org/GNOME/libgsf 
@@ -773,7 +773,7 @@
  jack  0.0.1  A metapackage that provides JACK Audio Connection Kit  https://github.com/termux/termux-packages 
  jack-example-tools  4  Official JACK example clients and tools  https://jackaudio.org/ 
  jack2  1.9.22-1  The JACK low-latency audio server  https://jackaudio.org/ 
- jackett  0.22.2123  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
+ jackett  0.22.2125  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
  janet  1.38.0  Janet is a dialect of Lisp intended for embedding into programs and such  https://janet-lang.org 
  jbig2dec  0.20  Decoder implementation of the JBIG2 image compression format  https://jbig2dec.com/ 
  jbig2dec-static  0.20  Static libraries for jbig2dec  https://jbig2dec.com/ 
@@ -1862,7 +1862,7 @@
  octomap  1.10.0  An efficient probabilistic 3D mapping framework based on octrees  https://github.com/OctoMap/octomap 
  octomap-static  1.10.0  Static libraries for octomap  https://github.com/OctoMap/octomap 
  odt2txt  0.5-4  Simple converter from OpenDocument Text to plain text  https://github.com/dstosberg/odt2txt 
- oh-my-posh  26.14.0  A prompt theme engine for any shell.  https://ohmyposh.dev 
+ oh-my-posh  26.14.1  A prompt theme engine for any shell.  https://ohmyposh.dev 
  okc-agents  0.1.2  OpenKeychain agents for GnuPG and OpenSSH  https://github.com/DDoSolitary/okc-agents 
  ol  2.6-2  Purely functional dialect of Lisp  https://yuriy-chumak.github.io/ol/ 
  oleo  1.99.16-9  The GNU Spreadsheet  https://www.gnu.org/software/oleo/ 
@@ -1924,8 +1924,8 @@
  ossp-uuid  1.6.2-3  ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122.  http://www.ossp.org/pkg/lib/uuid/ 
  ossp-uuid-static  1.6.2-3  Static libraries for ossp-uuid  http://www.ossp.org/pkg/lib/uuid/ 
  ovmf  20231122-16.fc40-0  Open Virtual Machine Firmware  https://www.tianocore.org/ 
- oxc-language-server  1.5.0  Oxc JavaScript linter language server  https://oxc.rs/ 
- oxlint  1.5.0  Oxc JavaScript linter  https://oxc.rs/ 
+ oxc-language-server  1.6.0  Oxc JavaScript linter language server  https://oxc.rs/ 
+ oxlint  1.6.0  Oxc JavaScript linter  https://oxc.rs/ 
  p11-kit  0.25.5  Provides a way to load and enumerate PKCS#11 modules  https://p11-glue.github.io/p11-glue/p11-kit.html 
  p7zip  17.06  Command-line version of the 7zip compressed file archiver  https://github.com/p7zip-project/p7zip 
  pacman  7.0.0-3  A library-based package manager with dependency support  https://archlinux.org/pacman/ 
@@ -2225,7 +2225,7 @@
  runit-static  2.1.2-3  Static libraries for runit  http://smarden.org/runit 
  rush  0.7.0  A cross-platform command-line tool for executing jobs in parallel  https://github.com/shenwei356/rush 
  rust  1.88.0  Systems programming language focused on safety, speed and concurrency  https://www.rust-lang.org/ 
- rust-analyzer  20250630  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
+ rust-analyzer  20250707  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
  rust-bindgen  0.72.0  Automatically generates Rust FFI bindings to C (and some C++) libraries  https://github.com/rust-lang/rust-bindgen 
  rust-docs  1.88.0  Rust documentation  https://www.rust-lang.org/ 
  rust-src  1.88.0  Rust source code files  https://www.rust-lang.org/ 
