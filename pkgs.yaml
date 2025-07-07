@@ -95,7 +95,7 @@
   Description: Converts ANSI escape sequences of a unix terminal to HTML code
   Homepage: https://github.com/theZiz/aha
 - Package: aichat
-  Version: 0.29.0
+  Version: 0.30.0
   Description: A powerful chatgpt cli
   Homepage: https://github.com/sigoden/aichat
 - Package: aidl
@@ -1751,7 +1751,7 @@
   Description: An enhanced, backward-compatible port of Thompson Shell
   Homepage: https://etsh.nl
 - Package: exercism
-  Version: 3.5.5
+  Version: 3.5.6
   Description: A Go based command line tool for exercism.io
   Homepage: https://github.com/exercism/cli/
 - Package: exfatprogs
@@ -2207,7 +2207,7 @@
   Description: Static libraries for gettext
   Homepage: https://www.gnu.org/software/gettext/
 - Package: gexiv2
-  Version: 0.14.5
+  Version: 0.14.6
   Description: A GObject-based Exiv2 wrapper
   Homepage: https://wiki.gnome.org/Projects/gexiv2
 - Package: gflags
@@ -6779,7 +6779,7 @@
   Description: Command-line utility for reading information from media files
   Homepage: https://mediaarea.net/en/MediaInfo
 - Package: mediamtx
-  Version: 1.12.3
+  Version: 1.13.0
   Description: Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy
   Homepage: https://github.com/bluenviron/mediamtx
 - Package: megacmd
@@ -7455,7 +7455,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 26.13.0
+  Version: 26.14.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -9135,7 +9135,7 @@
   Description: Implementation of a web server that can export arbitrary command line tools to a web based terminal emulator
   Homepage: https://github.com/shellinabox/shellinabox
 - Package: shfmt
-  Version: 3.11.0
+  Version: 3.12.0
   Description: A shell parser and formatter
   Homepage: https://github.com/mvdan/sh
 - Package: shiori

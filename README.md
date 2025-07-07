@@ -34,7 +34,7 @@
 | **age** | 1:1.2.1 | A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability | https://github.com/FiloSottile/age |
 | **agg** | 1.5.0 | asciinema gif generator | https://github.com/asciinema/agg |
 | **aha** | 0.5.1-1 | Converts ANSI escape sequences of a unix terminal to HTML code | https://github.com/theZiz/aha |
-| **aichat** | 0.29.0 | A powerful chatgpt cli | https://github.com/sigoden/aichat |
+| **aichat** | 0.30.0 | A powerful chatgpt cli | https://github.com/sigoden/aichat |
 | **aidl** | 13.0.0.6-18 | Android Interface Definition Language (AIDL) | https://elinux.org/Android_aapt |
 | **alass** | 2.0.0-2 | Automatic Language-Agnostic Subtitle Synchronization | https://github.com/kaegi/alass |
 | **alembic** | 1.8.8 | A framework for sharing scene data that includes a C++ lib, a file format and client plugin | https://alembic.io |
@@ -448,7 +448,7 @@
 | **espeak-static** | 1.52.0 | Static libraries for espeak | https://github.com/espeak-ng/espeak-ng |
 | **et** | 6.2.9-4 | A remote shell that automatically reconnects without interrupting the session | https://eternalterminal.dev |
 | **etsh** | 5.4.0 | An enhanced, backward-compatible port of Thompson Shell | https://etsh.nl |
-| **exercism** | 3.5.5 | A Go based command line tool for exercism.io | https://github.com/exercism/cli/ |
+| **exercism** | 3.5.6 | A Go based command line tool for exercism.io | https://github.com/exercism/cli/ |
 | **exfatprogs** | 1.2.9 | exFAT filesystem userspace utilities | https://github.com/exfatprogs/exfatprogs |
 | **exhale** | 1.2.1.2 | Open source xHE-AAC encoder | https://gitlab.com/ecodis/exhale |
 | **exiftool** | 13.32 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
@@ -562,7 +562,7 @@
 | **geth-utils** | 1.16.1 | Additional utilities for Geth (like abigen, bootnode, evm, puppeth) | https://geth.ethereum.org/ |
 | **gettext** | 0.25.1 | GNU Internationalization utilities | https://www.gnu.org/software/gettext/ |
 | **gettext-static** | 0.25.1 | Static libraries for gettext | https://www.gnu.org/software/gettext/ |
-| **gexiv2** | 0.14.5 | A GObject-based Exiv2 wrapper | https://wiki.gnome.org/Projects/gexiv2 |
+| **gexiv2** | 0.14.6 | A GObject-based Exiv2 wrapper | https://wiki.gnome.org/Projects/gexiv2 |
 | **gflags** | 2.2.2-9 | A C++ library that implements commandline flags processing | https://github.com/gflags/gflags |
 | **gflags-static** | 2.2.2-9 | Static libraries for gflags | https://github.com/gflags/gflags |
 | **gforth** | 0.7.3-1 | The Forth implementation of the GNU project | https://www.gnu.org/software/gforth/ |
@@ -1705,7 +1705,7 @@
 | **mdp** | 1.0.15-2 | Command-line based markdown presentation tool | https://github.com/visit1985/mdp |
 | **media-types** | 13.0.0 | List of standard media types and their usual file extension | https://pagure.io/mailcap |
 | **mediainfo** | 25.04 | Command-line utility for reading information from media files | https://mediaarea.net/en/MediaInfo |
-| **mediamtx** | 1.12.3 | Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy | https://github.com/bluenviron/mediamtx |
+| **mediamtx** | 1.13.0 | Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy | https://github.com/bluenviron/mediamtx |
 | **megacmd** | 2.0.0-1 | Provides non UI access to MEGA services | https://mega.io/ |
 | **megatools** | 1.11.1.20230212 | Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage | https://megatools.megous.com/ |
 | **memcached** | 1.6.38 | Free & open source, high-performance, distributed memory object caching system | https://memcached.org/ |
@@ -1874,7 +1874,7 @@
 | **octomap** | 1.10.0 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-4 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 26.13.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 26.14.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **okc-agents** | 0.1.2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.6-2 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-9 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
@@ -2294,7 +2294,7 @@
 | **shellcheck** | 0.10.0-2 | Shell script analysis tool | https://www.shellcheck.net/ |
 | **shellharden** | 4.3.1 | The corrective bash syntax highlighter | https://github.com/anordal/shellharden |
 | **shellinabox** | 2.21 | Implementation of a web server that can export arbitrary command line tools to a web based terminal emulator | https://github.com/shellinabox/shellinabox |
-| **shfmt** | 3.11.0 | A shell parser and formatter | https://github.com/mvdan/sh |
+| **shfmt** | 3.12.0 | A shell parser and formatter | https://github.com/mvdan/sh |
 | **shiori** | 1.7.4 | Simple bookmark manager built with Go | https://github.com/go-shiori/shiori |
 | **shntool** | 3.0.10 | A multi-purpose WAVE data processing and reporting utility | http://shnutils.freeshell.org/shntool/ |
 | **shtool** | 2.0.8-9 | compilation of small but very stable and portable shell scripts into a single shell tool | http://www.gnu.org/software/shtool/ |
