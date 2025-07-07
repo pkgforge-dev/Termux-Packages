@@ -1731,7 +1731,7 @@
   Description: Erlang HTML documentation
   Homepage: https://www.erlang.org/
 - Package: esbuild
-  Version: 0.25.5
+  Version: 0.25.6
   Description: An extremely fast JavaScript bundler
   Homepage: https://esbuild.github.io/
 - Package: espeak
@@ -2743,7 +2743,7 @@
   Description: Programs to compute hashsums of arbitrary number of files recursively
   Homepage: http://md5deep.sourceforge.net/
 - Package: hcl
-  Version: 2.23.0
+  Version: 2.24.0
   Description: A toolkit for creating structured configuration languages
   Homepage: https://github.com/hashicorp/hcl
 - Package: hcloud
@@ -4375,11 +4375,11 @@
   Description: Static libraries for libidn2
   Homepage: https://www.gnu.org/software/libidn/#libidn2
 - Package: libimagequant
-  Version: 4.3.4
+  Version: 4.4.0
   Description: Small, portable C library for high-quality conversion of RGBA images to 8-bit indexed-color (palette) images
   Homepage: https://pngquant.org/lib/
 - Package: libimagequant-static
-  Version: 4.3.4
+  Version: 4.4.0
   Description: Static libraries for libimagequant
   Homepage: https://pngquant.org/lib/
 - Package: libimobiledevice
@@ -10167,7 +10167,7 @@
   Description: A basic user tool to execute simple docker containers in batch or interactive systems without root privileges.
   Homepage: https://indigo-dc.github.io/udocker
 - Package: uftrace
-  Version: "0.17"
+  Version: 0.18.1
   Description: Function (graph) tracer for user-space
   Homepage: https://uftrace.github.io/slide
 - Package: ugit
@@ -10487,7 +10487,7 @@
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
-  Version: 1.4.320
+  Version: 1.4.321
   Description: Vulkan Tools and Utilities
   Homepage: https://github.com/KhronosGroup/Vulkan-Tools
 - Package: vulkan-utility-libraries

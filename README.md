@@ -443,7 +443,7 @@
 | **entr** | 5.7 | Event Notify Test Runner - run arbitrary commands when files change | https://eradman.com/entrproject/ |
 | **erlang** | 28.0.1 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
 | **erlang-doc** | 28.0.1 | Erlang HTML documentation | https://www.erlang.org/ |
-| **esbuild** | 0.25.5 | An extremely fast JavaScript bundler | https://esbuild.github.io/ |
+| **esbuild** | 0.25.6 | An extremely fast JavaScript bundler | https://esbuild.github.io/ |
 | **espeak** | 1.52.0 | Compact software speech synthesizer | https://github.com/espeak-ng/espeak-ng |
 | **espeak-static** | 1.52.0 | Static libraries for espeak | https://github.com/espeak-ng/espeak-ng |
 | **et** | 6.2.9-4 | A remote shell that automatically reconnects without interrupting the session | https://eternalterminal.dev |
@@ -696,7 +696,7 @@
 | **has** | 1.5.0-1 | has checks presence of various command line tools and their versions on the path | https://github.com/kdabir/has |
 | **hash-slinger** | 3.4 | Various tools to generate special DNS records | https://github.com/letoams/hash-slinger |
 | **hashdeep** | 4.4-8 | Programs to compute hashsums of arbitrary number of files recursively | http://md5deep.sourceforge.net/ |
-| **hcl** | 2.23.0 | A toolkit for creating structured configuration languages | https://github.com/hashicorp/hcl |
+| **hcl** | 2.24.0 | A toolkit for creating structured configuration languages | https://github.com/hashicorp/hcl |
 | **hcloud** | 1.51.0 | Hetzner Cloud command line client | https://github.com/hetznercloud/cli |
 | **helix** | 25.01.1-2 | A post-modern modal text editor written in rust | https://helix-editor.com/ |
 | **helix-grammars** | 25.01.1-2 | Helix grammars | https://helix-editor.com/ |
@@ -1104,8 +1104,8 @@
 | **libidn-static** | 1.43 | Static libraries for libidn | https://www.gnu.org/software/libidn/ |
 | **libidn2** | 2.3.8 | Free software implementation of IDNA2008, Punycode and TR46 | https://www.gnu.org/software/libidn/#libidn2 |
 | **libidn2-static** | 2.3.8 | Static libraries for libidn2 | https://www.gnu.org/software/libidn/#libidn2 |
-| **libimagequant** | 4.3.4 | Small, portable C library for high-quality conversion of RGBA images to 8-bit indexed-color (palette) images | https://pngquant.org/lib/ |
-| **libimagequant-static** | 4.3.4 | Static libraries for libimagequant | https://pngquant.org/lib/ |
+| **libimagequant** | 4.4.0 | Small, portable C library for high-quality conversion of RGBA images to 8-bit indexed-color (palette) images | https://pngquant.org/lib/ |
+| **libimagequant-static** | 4.4.0 | Static libraries for libimagequant | https://pngquant.org/lib/ |
 | **libimobiledevice** | 1.3.0-p20250228-0 | A library to communicate with services on iOS devices using native protocols | https://libimobiledevice.org/ |
 | **libimobiledevice-glue** | 1.3.2 | Library with common code used by the libraries and tools around the libimobiledevice project | https://libimobiledevice.org/ |
 | **libimobiledevice-glue-static** | 1.3.2 | Static libraries for libimobiledevice-glue | https://libimobiledevice.org/ |
@@ -2552,7 +2552,7 @@
 | **uchardet** | 0.0.8 | An encoding detector utility | https://www.freedesktop.org/wiki/Software/uchardet/ |
 | **udftools** | 2.3 | Linux tools for UDF filesystems and DVD/CD-R(W) drives | https://github.com/pali/udftools |
 | **udocker** | 1.3.17 | A basic user tool to execute simple docker containers in batch or interactive systems without root privileges. | https://indigo-dc.github.io/udocker |
-| **uftrace** | 0.17 | Function (graph) tracer for user-space | https://uftrace.github.io/slide |
+| **uftrace** | 0.18.1 | Function (graph) tracer for user-space | https://uftrace.github.io/slide |
 | **ugit** | 5.9 | ugit helps you undo your last git command with grace. Your damage control git buddy | https://github.com/Bhupesh-V/ugit |
 | **ugrep** | 7.5.0 | A faster, user-friendly and compatible grep replacement | https://github.com/Genivia/ugrep |
 | **unar** | 1.10.8-1 | Command line tools for archive and file unarchiving and extraction | https://theunarchiver.com/command-line |
@@ -2632,7 +2632,7 @@
 | **vulkan-loader** | 0.0.3 | A metapackage that provides vulkan loader library | https://github.com/termux/termux-packages |
 | **vulkan-loader-android** | 27c | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
 | **vulkan-loader-generic** | 1.4.321 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
-| **vulkan-tools** | 1.4.320 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
+| **vulkan-tools** | 1.4.321 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
 | **vulkan-utility-libraries** | 1.4.321 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
 | **vulkan-validation-layers** | 1.4.321 | Vulkan Validation Layers | https://github.com/KhronosGroup/Vulkan-ValidationLayers |
 | **vulkan-volk** | 1.4.304 | Meta loader for Vulkan API | https://github.com/zeux/volk |
