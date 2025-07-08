@@ -2365,7 +2365,7 @@
   },
   {
     "Package": "duckdb",
-    "Version": "1.3.1",
+    "Version": "1.3.2",
     "Description": "DuckDB Command Line Interface (CLI) shell",
     "Homepage": "https://duckdb.org/"
   },
@@ -5881,13 +5881,13 @@
   },
   {
     "Package": "libduckdb",
-    "Version": "1.3.1",
+    "Version": "1.3.2",
     "Description": "An in-process SQL OLAP database management system",
     "Homepage": "https://duckdb.org/"
   },
   {
     "Package": "libduckdb-static",
-    "Version": "1.3.1",
+    "Version": "1.3.2",
     "Description": "Static libraries for libduckdb",
     "Homepage": "https://duckdb.org/"
   },
@@ -13675,7 +13675,7 @@
   },
   {
     "Package": "sheldon",
-    "Version": "0.8.3",
+    "Version": "0.8.4",
     "Description": "Fast, configurable, shell plugin manager",
     "Homepage": "https://sheldon.cli.rs/"
   },
