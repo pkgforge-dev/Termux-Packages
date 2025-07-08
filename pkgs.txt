@@ -119,7 +119,7 @@
  badvpn-udpgw  1.999.130  UDP gateway for BadVPN  https://github.com/ambrop72/badvpn 
  barcode  0.99-4  Tool to convert text strings to printed bars  https://www.gnu.org/software/barcode/ 
  base16384  2.3.1  Encode binary to printable utf16be  https://github.com/fumiama/base16384 
- bash  5.2.37-2  A sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh)  https://www.gnu.org/software/bash/ 
+ bash  5.3  A sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh)  https://www.gnu.org/software/bash/ 
  bash-completion  2.16.0  Programmable completion for the bash shell  https://github.com/scop/bash-completion 
  bastet  0.43.2-11  Tetris clone with 'bastard' block-choosing AI  http://fph.altervista.org/prog/bastet.html 
  bat  0.25.0-2  A cat(1) clone with wings  https://github.com/sharkdp/bat 
@@ -717,7 +717,7 @@
  httrack-data  3.49.6  Platform-independent data for httrack  http://www.httrack.com 
  httrack-static  3.49.6  Static libraries for httrack  http://www.httrack.com 
  hub  2.14.2-5  Command-line wrapper for git that makes you better at GitHub  https://hub.github.com/ 
- hugo  0.147.9  A fast and flexible static site generator  https://gohugo.io/ 
+ hugo  0.148.0  A fast and flexible static site generator  https://gohugo.io/ 
  hummin  2021.05.18-3  Command line client for the imperial library of trantor  https://trantor.is/ 
  hunspell  1.7.2  Spell checker  https://hunspell.github.io 
  hunspell-en-us  20240129  American english dictionary for hunspell  https://hunspell.github.io 
@@ -2167,8 +2167,8 @@
  rdircd  2023.02.07-1  A daemon that allows using a personal Discord account through an IRC client  https://github.com/mk-fg/reliable-discord-client-irc-daemon 
  rdrview  1:0.1.4  Command line tool to extract the main content from a webpage  https://github.com/eafer/rdrview 
  re2c  4.3  Lexer generator for C, C++ and Go.  https://re2c.org/ 
- readline  8.2.13  Library that allow users to edit command lines as they are typed in  https://tiswww.case.edu/php/chet/readline/rltop.html 
- readline-static  8.2.13  Static libraries for readline  https://tiswww.case.edu/php/chet/readline/rltop.html 
+ readline  8.3  Library that allow users to edit command lines as they are typed in  https://tiswww.case.edu/php/chet/readline/rltop.html 
+ readline-static  8.3  Static libraries for readline  https://tiswww.case.edu/php/chet/readline/rltop.html 
  recode  3.7.15  Charset converter tool and library  https://github.com/pinard/Recode 
  recode-static  3.7.15  Static libraries for recode  https://github.com/pinard/Recode 
  recoll  1.43.2  Full-text search for your desktop  https://www.recoll.org/ 

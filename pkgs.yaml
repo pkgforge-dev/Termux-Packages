@@ -483,7 +483,7 @@
   Description: Encode binary to printable utf16be
   Homepage: https://github.com/fumiama/base16384
 - Package: bash
-  Version: 5.2.37-2
+  Version: "5.3"
   Description: A sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh)
   Homepage: https://www.gnu.org/software/bash/
 - Package: bash-completion
@@ -2875,7 +2875,7 @@
   Description: Command-line wrapper for git that makes you better at GitHub
   Homepage: https://hub.github.com/
 - Package: hugo
-  Version: 0.147.9
+  Version: 0.148.0
   Description: A fast and flexible static site generator
   Homepage: https://gohugo.io/
 - Package: hummin
@@ -8675,11 +8675,11 @@
   Description: Lexer generator for C, C++ and Go.
   Homepage: https://re2c.org/
 - Package: readline
-  Version: 8.2.13
+  Version: "8.3"
   Description: Library that allow users to edit command lines as they are typed in
   Homepage: https://tiswww.case.edu/php/chet/readline/rltop.html
 - Package: readline-static
-  Version: 8.2.13
+  Version: "8.3"
   Description: Static libraries for readline
   Homepage: https://tiswww.case.edu/php/chet/readline/rltop.html
 - Package: recode
