@@ -3099,7 +3099,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.2125
+  Version: 0.22.2132
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: janet
@@ -8283,7 +8283,7 @@
   Description: Python 3 programming language intended to enable clear programs
   Homepage: https://python.org/
 - Package: python-apsw
-  Version: 3.49.2.0
+  Version: 3.50.2.0
   Description: Another Python SQLite Wrapper
   Homepage: https://github.com/rogerbinns/apsw/
 - Package: python-apt
