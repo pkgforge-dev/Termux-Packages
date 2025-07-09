@@ -1011,7 +1011,7 @@
   Description: cmocka is an unit testing framework for C
   Homepage: https://cmocka.org/
 - Package: cmus
-  Version: 2.12.0-3
+  Version: 2.12.0-4
   Description: Small, fast and powerful console music player
   Homepage: https://cmus.github.io/
 - Package: cmusfm
@@ -6519,7 +6519,7 @@
   Description: Just-In-Time compiler for Lua - command line tool
   Homepage: https://luajit.org/
 - Package: luarocks
-  Version: 3.11.1
+  Version: 3.12.1
   Description: Deployment and management system for Lua modules
   Homepage: https://luarocks.org/
 - Package: luv
