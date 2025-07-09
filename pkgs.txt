@@ -352,6 +352,7 @@
  dotconf-static  1.4.1  Static libraries for dotconf  https://github.com/williamh/dotconf 
  dotnet-apphost-pack-8.0  8.0.18  .NET 8.0 Targeting Pack  https://dotnet.microsoft.com/en-us/ 
  dotnet-apphost-pack-9.0  9.0.7  .NET 9.0 Targeting Pack  https://dotnet.microsoft.com/en-us/ 
+ dotnet-host  9.0-1  A metapackage for .NET Host  https://dotnet.microsoft.com/en-us/ 
  dotnet-host-8.0  8.0.18  .NET 8.0 Host  https://dotnet.microsoft.com/en-us/ 
  dotnet-host-9.0  9.0.7  .NET 9.0 Host  https://dotnet.microsoft.com/en-us/ 
  dotnet-hostfxr-8.0  8.0.18  .NET 8.0 Host Resolver  https://dotnet.microsoft.com/en-us/ 
@@ -1765,6 +1766,7 @@
  nethack  3.6.7  Dungeon crawl game  http://www.nethack.org/ 
  netpbm  1:10.73.43-4  Toolkit for manipulation of graphic images of different formats  https://netpbm.sourceforge.net/ 
  netsed  1.3-5  Alter the contents of packets forwarded through network in real time  http://silicone.homelinux.org/projects/netsed/ 
+ netstandard-targeting-pack-2.1  9.0-1  A metapackage for NETStandard.Library 2.1 Targeting Pack  https://dotnet.microsoft.com/en-us/ 
  netstandard-targeting-pack-2.1-8.0  8.0.18  NETStandard.Library 2.1 Targeting Pack (.NET 8.0)  https://dotnet.microsoft.com/en-us/ 
  netstandard-targeting-pack-2.1-9.0  9.0.7  NETStandard.Library 2.1 Targeting Pack (.NET 9.0)  https://dotnet.microsoft.com/en-us/ 
  nettle  3.10.2  Low level cryptographic tools  https://www.lysator.liu.se/~nisse/nettle/ 
