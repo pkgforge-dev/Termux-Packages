@@ -2647,7 +2647,7 @@
   Description: Standard GNU file compression utilities
   Homepage: https://www.gnu.org/software/gzip/
 - Package: haproxy
-  Version: 3.2.2
+  Version: 3.2.3
   Description: The Reliable, High Performance TCP/HTTP Load Balancer
   Homepage: https://www.haproxy.org/
 - Package: harfbuzz
@@ -6563,7 +6563,7 @@
   Description: A tool for scanning for mDNS/DNS-SD services published on the local network
   Homepage: https://github.com/alteholz/mdns-scan
 - Package: mdp
-  Version: 1.0.17
+  Version: 1.0.18
   Description: Command-line based markdown presentation tool
   Homepage: https://github.com/visit1985/mdp
 - Package: media-types
@@ -8443,11 +8443,11 @@
   Description: Static libraries for recode
   Homepage: https://github.com/pinard/Recode
 - Package: recoll
-  Version: 1.43.2
+  Version: 1.43.3
   Description: Full-text search for your desktop
   Homepage: https://www.recoll.org/
 - Package: recoll-python
-  Version: 1.43.2
+  Version: 1.43.3
   Description: Python interface for Recoll
   Homepage: https://www.recoll.org/
 - Package: recutils
@@ -8651,7 +8651,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: "20250707"
+  Version: "20250709"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://rust-analyzer.github.io/
 - Package: rust-bindgen
@@ -9387,7 +9387,7 @@
   Description: Tcl Standard Library
   Homepage: https://core.tcl-lang.org/tcllib/
 - Package: tcsh
-  Version: 6.24.15
+  Version: 6.24.16
   Description: TENEX C Shell, an enhanced version of Berkeley csh
   Homepage: https://www.tcsh.org
 - Package: tdb-tools

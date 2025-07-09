@@ -672,7 +672,7 @@
 | **gumbo-parser** | 0.10.1 | An HTML5 parsing library | https://github.com/google/gumbo-parser |
 | **gumbo-parser-static** | 0.10.1 | Static libraries for gumbo-parser | https://github.com/google/gumbo-parser |
 | **gzip** | 1.14 | Standard GNU file compression utilities | https://www.gnu.org/software/gzip/ |
-| **haproxy** | 3.2.2 | The Reliable, High Performance TCP/HTTP Load Balancer | https://www.haproxy.org/ |
+| **haproxy** | 3.2.3 | The Reliable, High Performance TCP/HTTP Load Balancer | https://www.haproxy.org/ |
 | **harfbuzz** | 11.2.1 | OpenType text shaping engine | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
 | **harfbuzz-icu** | 11.2.1 | OpenType text shaping engine ICU backend | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
 | **harfbuzz-utils** | 11.2.1 | Tools using the harfbuzz library | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
@@ -1651,7 +1651,7 @@
 | **mdbtools** | 1.0.1 | A set of programs to help you extract data from Microsoft Access files in various settings | https://github.com/mdbtools/mdbtools |
 | **mdbtools-static** | 1.0.1 | Static libraries for mdbtools | https://github.com/mdbtools/mdbtools |
 | **mdns-scan** | 0.5-2 | A tool for scanning for mDNS/DNS-SD services published on the local network | https://github.com/alteholz/mdns-scan |
-| **mdp** | 1.0.17 | Command-line based markdown presentation tool | https://github.com/visit1985/mdp |
+| **mdp** | 1.0.18 | Command-line based markdown presentation tool | https://github.com/visit1985/mdp |
 | **media-types** | 13.0.0 | List of standard media types and their usual file extension | https://pagure.io/mailcap |
 | **mediainfo** | 25.04 | Command-line utility for reading information from media files | https://mediaarea.net/en/MediaInfo |
 | **mediamtx** | 1.13.0 | Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy | https://github.com/bluenviron/mediamtx |
@@ -2121,8 +2121,8 @@
 | **readline-static** | 8.3 | Static libraries for readline | https://tiswww.case.edu/php/chet/readline/rltop.html |
 | **recode** | 3.7.15 | Charset converter tool and library | https://github.com/pinard/Recode |
 | **recode-static** | 3.7.15 | Static libraries for recode | https://github.com/pinard/Recode |
-| **recoll** | 1.43.2 | Full-text search for your desktop | https://www.recoll.org/ |
-| **recoll-python** | 1.43.2 | Python interface for Recoll | https://www.recoll.org/ |
+| **recoll** | 1.43.3 | Full-text search for your desktop | https://www.recoll.org/ |
+| **recoll-python** | 1.43.3 | Python interface for Recoll | https://www.recoll.org/ |
 | **recutils** | 1.9 | Set of tools and libraries to access human-editable, plain text databases called recfiles | https://www.gnu.org/software/recutils/ |
 | **recutils-static** | 1.9 | Static libraries for recutils | https://www.gnu.org/software/recutils/ |
 | **redir** | 3.3-2 | TCP port redirector for UNIX | https://github.com/troglobit/redir |
@@ -2173,7 +2173,7 @@
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.7.0 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
 | **rust** | 1.88.0 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
-| **rust-analyzer** | 20250707 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
+| **rust-analyzer** | 20250709 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
 | **rust-bindgen** | 0.72.0 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
 | **rust-docs** | 1.88.0 | Rust documentation | https://www.rust-lang.org/ |
 | **rust-src** | 1.88.0 | Rust source code files | https://www.rust-lang.org/ |
@@ -2357,7 +2357,7 @@
 | **tcc** | 1:0.9.27-p20230415-2 | Tiny C Compiler | https://bellard.org/tcc/ |
 | **tcl** | 8.6.14 | Powerful but easy to learn dynamic programming language | https://www.tcl.tk/ |
 | **tcllib** | 2.0 | Tcl Standard Library | https://core.tcl-lang.org/tcllib/ |
-| **tcsh** | 6.24.15 | TENEX C Shell, an enhanced version of Berkeley csh | https://www.tcsh.org |
+| **tcsh** | 6.24.16 | TENEX C Shell, an enhanced version of Berkeley csh | https://www.tcsh.org |
 | **tdb-tools** | 1.4.13 | Tools for TDB | https://tdb.samba.org/ |
 | **tdl** | 0.19.1 | Telegram downloader/tools written in Golang | https://docs.iyear.me/tdl/ |
 | **tea** | 0.10.1 | The official CLI for Gitea | https://gitea.com/gitea/tea |
