@@ -114,10 +114,6 @@
   Version: 1.17.3
   Description: Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support
   Homepage: https://algernon.roboticoverlords.org/
-- Package: alist
-  Version: 3.45.0
-  Description: A file list program that supports multiple storage
-  Homepage: https://alist.nn.ci
 - Package: alpine
   Version: "2.26"
   Description: Fast, easy to use email client
@@ -146,10 +142,6 @@
   Version: 1.10.0-2
   Description: Aims to be the best looking Gemini client
   Homepage: https://github.com/makew0rld/amfora
-- Package: anacron
-  Version: "2.3"
-  Description: A periodic command scheduler
-  Homepage: http://anacron.sourceforge.net/
 - Package: android-tools
   Version: 35.0.2-2
   Description: Android platform tools
@@ -358,10 +350,6 @@
   Version: 6.0.2
   Description: Library to import various well-known 3D model formats in an uniform manner
   Homepage: https://assimp.sourceforge.net/index.html
-- Package: assimp-static
-  Version: 5.3.1
-  Description: Static libraries for assimp
-  Homepage: https://assimp.sourceforge.net/index.html
 - Package: astra-sm
   Version: 2019.06.19
   Description: Software for digital TV broadcasting
@@ -558,10 +546,6 @@
   Version: 2.44-3
   Description: GNU Binutils libraries
   Homepage: https://www.gnu.org/software/binutils/
-- Package: bionic-host
-  Version: 8.0.0-r51-5
-  Description: bionic libc, libm, libdl and dynamic linker for ubuntu host
-  Homepage: https://android.googlesource.com/platform/bionic/
 - Package: bison
   Version: 3.8.2-3
   Description: General-purpose parser generator
@@ -677,10 +661,6 @@
 - Package: brotli
   Version: 1.1.0-2
   Description: lossless compression algorithm and format (command line utility)
-  Homepage: https://github.com/google/brotli
-- Package: brotli-static
-  Version: 1.0.9-1
-  Description: Static libraries for brotli
   Homepage: https://github.com/google/brotli
 - Package: bsd-finger
   Version: 0.17-1
@@ -903,7 +883,7 @@
   Description: Static libraries for check
   Homepage: https://libcheck.github.io/check
 - Package: chezmoi
-  Version: 2.62.7
+  Version: 2.63.0
   Description: Manage your dotfiles across multiple machines
   Homepage: https://chezmoi.io
 - Package: chicken
@@ -1130,10 +1110,6 @@
   Version: 3.6-4
   Description: Highly customizable wordlist generator
   Homepage: https://sourceforge.net/projects/crunch-wordlist
-- Package: crypto-monitor
-  Version: 2021.02.22-3
-  Description: Real-time crypto currency monitor
-  Homepage: https://github.com/edghyhdz/crypto_monitor
 - Package: cryptopp
   Version: 8.9.0
   Description: A free C++ class library of cryptographic schemes
@@ -1254,10 +1230,6 @@
   Version: 1.4.0
   Description: Python bindings for D-Bus
   Homepage: https://dbus.freedesktop.org/doc/dbus-python/
-- Package: dbus-static
-  Version: 1.15.6-3
-  Description: Static libraries for dbus
-  Homepage: https://dbus.freedesktop.org
 - Package: dcmtk
   Version: 3.6.9
   Description: A collection of libraries and applications implementing large parts the DICOM standard
@@ -1390,10 +1362,6 @@
   Version: 9.20.10
   Description: Clients provided with BIND
   Homepage: https://www.isc.org/bind/
-- Package: dnsutils-static
-  Version: 9.16.41
-  Description: Static libraries for dnsutils
-  Homepage: https://www.isc.org/downloads/bind/
 - Package: docbook-xml
   Version: "5.1"
   Description: A widely used XML scheme for writing documentation and help
@@ -1414,10 +1382,6 @@
   Version: 2.4.12
   Description: The fastest feature-rich C++11/14/17/20 single-header testing framework
   Homepage: https://github.com/doctest/doctest
-- Package: dog
-  Version: 0.1.0-2
-  Description: A command-line DNS client.
-  Homepage: https://dns.lookup.dog/
 - Package: doge
   Version: 0.2.8-1
   Description: A command-line DNS client
@@ -1449,10 +1413,6 @@
 - Package: dotnet-apphost-pack-9.0
   Version: 9.0.7
   Description: .NET 9.0 Targeting Pack
-  Homepage: https://dotnet.microsoft.com/en-us/
-- Package: dotnet-host
-  Version: "9.0"
-  Description: A metapackage for .NET Host
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-host-8.0
   Version: 8.0.18
@@ -1770,10 +1730,6 @@
   Version: 2:0.28.5
   Description: Exif, Iptc and XMP metadata manipulation library and tools
   Homepage: https://exiv2.org/
-- Package: exiv2-static
-  Version: 2:0.27.7-1
-  Description: Static libraries for exiv2
-  Homepage: https://exiv2.org/
 - Package: expect
   Version: 5.45.4-3
   Description: Tool for automating interactive terminal applications
@@ -2082,10 +2038,6 @@
   Version: 4.14.0
   Description: Packages for gap
   Homepage: https://www.gap-system.org/
-- Package: gap-static
-  Version: 4.12.2
-  Description: Static libraries for gap
-  Homepage: https://www.gap-system.org/
 - Package: gatling
   Version: 0.16-1
   Description: A high performance http, ftp and smb server
@@ -2121,10 +2073,6 @@
 - Package: gdal
   Version: 3.11.1
   Description: A translator library for raster and vector geospatial data formats
-  Homepage: https://gdal.org
-- Package: gdal-static
-  Version: 3.5.3
-  Description: Static libraries for gdal
   Homepage: https://gdal.org
 - Package: gdb
   Version: "15.2"
@@ -2230,14 +2178,6 @@
   Version: 9.12.2
   Description: The Glasgow Haskell Compiler
   Homepage: https://www.haskell.org/ghc/
-- Package: ghc-libs
-  Version: 9.2.5-1
-  Description: The Glasgow Haskell Compiler libraries
-  Homepage: https://www.haskell.org/ghc/
-- Package: ghc-libs-static
-  Version: 8.10.7-3
-  Description: Static libraries for ghc-libs
-  Homepage: https://www.haskell.org/ghc/
 - Package: ghostscript
   Version: 10.03.1-3
   Description: Interpreter for the PostScript language and for PDF
@@ -2330,10 +2270,6 @@
   Version: 2.84.3
   Description: Library providing core building blocks for libraries and applications written in C
   Homepage: https://developer.gnome.org/glib/
-- Package: glib-bin
-  Version: 2.84.1-1
-  Description: Programs for the GLib library
-  Homepage: https://developer.gnome.org/glib/
 - Package: glib-cross
   Version: 2.84.3
   Description: glib for host (NOT for Termux)
@@ -2353,10 +2289,6 @@
 - Package: global
   Version: 6.6.14
   Description: Source code search and browse tools
-  Homepage: https://www.gnu.org/software/global/
-- Package: global-static
-  Version: 6.6.12
-  Description: Static libraries for global
   Homepage: https://www.gnu.org/software/global/
 - Package: glow
   Version: 2.1.1
@@ -2421,10 +2353,6 @@
 - Package: gnunet
   Version: 0.24.3
   Description: A framework for secure peer-to-peer networking
-  Homepage: https://gnunet.org
-- Package: gnunet-static
-  Version: 0.19.4-2
-  Description: Static libraries for gnunet
   Homepage: https://gnunet.org
 - Package: gnupg
   Version: 2.5.5
@@ -2966,10 +2894,6 @@
   Version: 3.8.3-3
   Description: Static libraries for id3lib
   Homepage: http://id3lib.sourceforge.net/
-- Package: id3ted
-  Version: 1.0-3
-  Description: A comand line id3 tag editor
-  Homepage: https://muennich.github.io/id3ted/
 - Package: id3v2
   Version: 0.1.12-1
   Description: A command line id3v2 tag editor
@@ -3099,7 +3023,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.2132
+  Version: 0.22.2135
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: janet
@@ -3322,10 +3246,6 @@
   Version: 0.53.0
   Description: Simple terminal UI for git commands
   Homepage: https://github.com/jesseduffield/lazygit
-- Package: lazyread
-  Version: 2.0-1
-  Description: An auto-scroller, pager, and e-book reader all in one
-  Homepage: http://lazyread.sourceforge.net/
 - Package: lcal
   Version: 2.1.0
   Description: A multi-platform program which generates PostScript lunar calendars in a yearly format
@@ -3838,14 +3758,6 @@
   Version: 8.14.1
   Description: Static libraries for libcurl
   Homepage: https://curl.se/
-- Package: libcwidget
-  Version: 0.5.18
-  Description: high-level terminal interface library for C++
-  Homepage: https://salsa.debian.org/cwidget-team/
-- Package: libcwidget-static
-  Version: 0.5.18
-  Description: Static libraries for libcwidget
-  Homepage: https://salsa.debian.org/cwidget-team/
 - Package: libczmq
   Version: 4.2.1-3
   Description: High-level C binding for ZeroMQ
@@ -4062,14 +3974,6 @@
   Version: 3.4.7
   Description: Static libraries for libffi
   Homepage: https://sourceware.org/libffi/
-- Package: libfinalcut
-  Version: 0.9.1
-  Description: A C++ class library and widget toolkit for creating a text-based user interface
-  Homepage: https://github.com/gansm/finalcut
-- Package: libfinalcut-static
-  Version: 0.9.1
-  Description: Static libraries for libfinalcut
-  Homepage: https://github.com/gansm/finalcut
 - Package: libfixposix
   Version: 0.5.1
   Description: Thin wrapper over POSIX syscalls
@@ -4089,10 +3993,6 @@
 - Package: libflann
   Version: 2022.10.27-1
   Description: A library for performing fast approximate nearest neighbor searches in high dimensional spaces
-  Homepage: https://github.com/flann-lib/flann
-- Package: libflann-static
-  Version: 2019.04.06-1
-  Description: Static libraries for libflann
   Homepage: https://github.com/flann-lib/flann
 - Package: libforestdb
   Version: 1.2-1
@@ -4298,17 +4198,9 @@
   Version: 1.20.1
   Description: Programs for manipulating HEIF (HEIC/AVIF) image files
   Homepage: https://github.com/strukturag/libheif
-- Package: libheif-static
-  Version: 1.15.2
-  Description: Static libraries for libheif
-  Homepage: https://github.com/strukturag/libheif
 - Package: libhiredis
   Version: 1.3.0
   Description: Hiredis is a minimalistic C client library for the Redis database
-  Homepage: https://redis.com/lp/hiredis
-- Package: libhiredis-static
-  Version: 1.1.0
-  Description: Static libraries for libhiredis
   Homepage: https://redis.com/lp/hiredis
 - Package: libhtmlcxx
   Version: 0.87-4
@@ -4333,10 +4225,6 @@
 - Package: libice
   Version: 1.1.2
   Description: X11 Inter-Client Exchange library
-  Homepage: https://xorg.freedesktop.org/
-- Package: libice-static
-  Version: 1.1.1
-  Description: Static libraries for libice
   Homepage: https://xorg.freedesktop.org/
 - Package: libiconv
   Version: "1.18"
@@ -4650,17 +4538,9 @@
   Version: 1.4.7
   Description: Provides many low-level data structures which are helpful for writing compilers
   Homepage: https://sourceforge.net/projects/dict/
-- Package: libmaa-static
-  Version: 1.3.2-2
-  Description: Static libraries for libmaa
-  Homepage: https://sourceforge.net/projects/dict/
 - Package: libmad
   Version: 0.16.4-1
   Description: MAD is a high-quality MPEG audio decoder
-  Homepage: http://www.underbit.com/products/mad/
-- Package: libmad-static
-  Version: 0.15.1b-3
-  Description: Static libraries for libmad
   Homepage: http://www.underbit.com/products/mad/
 - Package: libmariadbcpp
   Version: 1.1.2
@@ -4901,10 +4781,6 @@
 - Package: libnfs
   Version: 6.0.2
   Description: NFS client library
-  Homepage: https://github.com/sahlberg/libnfs
-- Package: libnfs-static
-  Version: 5.0.3
-  Description: Static libraries for libnfs
   Homepage: https://github.com/sahlberg/libnfs
 - Package: libnftnl
   Version: 1.2.9
@@ -5166,10 +5042,6 @@
   Version: 0.46.2
   Description: Low-level library for pixel manipulation
   Homepage: https://www.pixman.org/
-- Package: libpixman-static
-  Version: 0.42.2
-  Description: Static libraries for libpixman
-  Homepage: http://www.pixman.org/
 - Package: libplacebo
   Version: 6.338.2-1
   Description: Reusable library for GPU-accelerated video/image rendering
@@ -5354,10 +5226,6 @@
   Version: 1.1.0-3
   Description: Static libraries for librttopo
   Homepage: https://git.osgeo.org/gitea/rttopo/librttopo
-- Package: librusty-v8
-  Version: 130.0.1
-  Description: High quality Rust bindings to V8s C++ API
-  Homepage: https://github.com/denoland/rusty_v8
 - Package: libsamplerate
   Version: 0.2.2-2
   Description: A library for performing sample rate conversion of audio data
@@ -5446,10 +5314,6 @@
   Version: 1.10.5
   Description: Encoder/decoder implementation for DEC SIXEL graphics
   Homepage: https://saitoha.github.io/libsixel/
-- Package: libsixel-static
-  Version: 1.10.3-2
-  Description: Static libraries for libsixel
-  Homepage: https://saitoha.github.io/libsixel/
 - Package: libslirp
   Version: 4.8.0-1
   Description: A general purpose TCP-IP emulator
@@ -5457,10 +5321,6 @@
 - Package: libsm
   Version: 1.2.6
   Description: X11 Session Management library
-  Homepage: https://xorg.freedesktop.org/
-- Package: libsm-static
-  Version: 1.2.4-1
-  Description: Static libraries for libsm
   Homepage: https://xorg.freedesktop.org/
 - Package: libsmartcols
   Version: 2.40.2-4
@@ -5655,7 +5515,7 @@
   Description: Static libraries for libtatsu
   Homepage: https://libimobiledevice.org/
 - Package: libtbb
-  Version: 2022.1.0
+  Version: 2022.2.0-1
   Description: oneAPI Threading Building Blocks
   Homepage: https://oneapi-src.github.io/oneTBB/
 - Package: libtd
@@ -5770,14 +5630,6 @@
   Version: 3.1.1-1
   Description: Like ldd(1), but prints a tree(1) like output
   Homepage: https://github.com/haampie/libtree
-- Package: libtreesitter
-  Version: 0.22.6-1
-  Description: An incremental parsing system for programming tools
-  Homepage: https://github.com/tree-sitter/tree-sitter
-- Package: libtreesitter-static
-  Version: 0.22.6-1
-  Description: Static libraries for libtreesitter
-  Homepage: https://github.com/tree-sitter/tree-sitter
 - Package: libtsduck
   Version: 3.40.4165
   Description: An extensible toolkit for MPEG transport streams
@@ -5850,14 +5702,6 @@
   Version: 1.1.9
   Description: Transactional embedded database engine
   Homepage: https://unqlite.org/
-- Package: libupscaledb
-  Version: 2.2.1p20210820-9
-  Description: A database engine written in C/C++
-  Homepage: https://upscaledb.com/
-- Package: libupscaledb-static
-  Version: 2.2.1p20210820-9
-  Description: Static libraries for libupscaledb
-  Homepage: https://upscaledb.com/
 - Package: liburcu
   Version: 0.15.3
   Description: LGPLv2.1 userspace RCU (read-copy-update) library
@@ -5885,10 +5729,6 @@
 - Package: libusbredir
   Version: 0.13.0
   Description: network protocol for sending USB device traffic over a network connection
-  Homepage: https://www.spice-space.org/
-- Package: libusbredir-static
-  Version: 0.7.1
-  Description: Static libraries for libusbredir
   Homepage: https://www.spice-space.org/
 - Package: libuuid
   Version: 2.40.2-4
@@ -5929,10 +5769,6 @@
 - Package: libvips
   Version: 8.17.1
   Description: A fast image processing library with low memory needs
-  Homepage: https://libvips.github.io/libvips/
-- Package: libvips-static
-  Version: 8.13.3-3
-  Description: Static libraries for libvips
   Homepage: https://libvips.github.io/libvips/
 - Package: libvmaf
   Version: 3.0.0
@@ -6006,18 +5842,10 @@
   Version: 1.6.0-rc1-0
   Description: Library to encode and decode images in WebP format
   Homepage: https://github.com/webmproject/libwebp
-- Package: libwebp-static
-  Version: 1.5.0
-  Description: Static libraries for libwebp
-  Homepage: https://github.com/webmproject/libwebp
 - Package: libwebrtc-audio-processing
   Version: 1.3-2
   Description: A library containing the AudioProcessing module from the WebRTC project
   Homepage: https://www.freedesktop.org/software/pulseaudio/webrtc-audio-processing/
-- Package: libwebrtc-audio-processing-static
-  Version: 0.3.1-2
-  Description: Static libraries for libwebrtc-audio-processing
-  Homepage: https://freedesktop.org/software/pulseaudio/webrtc-audio-processing/
 - Package: libwebsockets
   Version: 4.3.5
   Description: Lightweight C websockets library
@@ -6077,10 +5905,6 @@
 - Package: libxau
   Version: 1.0.12
   Description: X11 authorisation library
-  Homepage: https://xorg.freedesktop.org/
-- Package: libxau-static
-  Version: 1.0.11
-  Description: Static libraries for libxau
   Homepage: https://xorg.freedesktop.org/
 - Package: libxcb
   Version: 1.17.0
@@ -6210,25 +6034,13 @@
   Version: 0.9.12
   Description: X Rendering Extension client library
   Homepage: https://xorg.freedesktop.org/
-- Package: libxrender-static
-  Version: 0.9.11
-  Description: Static libraries for libxrender
-  Homepage: https://xorg.freedesktop.org/
 - Package: libxshmfence
   Version: 1.3.3
   Description: A library that exposes a event API on top of Linux futexes
   Homepage: https://xorg.freedesktop.org/
-- Package: libxshmfence-static
-  Version: 1.3.2-1
-  Description: Static libraries for libxshmfence
-  Homepage: https://xorg.freedesktop.org/
 - Package: libxslt
   Version: 1.1.43-1
   Description: XSLT processing library
-  Homepage: http://xmlsoft.org/libxslt/
-- Package: libxslt-static
-  Version: 1.1.39
-  Description: Static libraries for libxslt
   Homepage: http://xmlsoft.org/libxslt/
 - Package: libxss
   Version: 1.2.4
@@ -6258,17 +6070,9 @@
   Version: 1.0.13
   Description: Library for the X Video (Xv) extension to the X Window System
   Homepage: https://xorg.freedesktop.org/
-- Package: libxv-static
-  Version: 1.0.12
-  Description: Static libraries for libxv
-  Homepage: https://xorg.freedesktop.org/
 - Package: libxxf86vm
   Version: 1.1.6
   Description: X11 XFree86 video mode extension library
-  Homepage: https://xorg.freedesktop.org/
-- Package: libxxf86vm-static
-  Version: 1.1.5-1
-  Description: Static libraries for libxxf86vm
   Homepage: https://xorg.freedesktop.org/
 - Package: libyaml
   Version: 0.2.5-4
@@ -6326,10 +6130,6 @@
   Version: 1.0.3-3
   Description: New zlib compatible compressor library
   Homepage: https://github.com/google/zopfli
-- Package: libzthread-static
-  Version: 2.3.2-1
-  Description: Static libraries for libzthread
-  Homepage: http://zthread.sourceforge.net/
 - Package: libzxing-cpp
   Version: 2.3.0-1
   Description: An open-source, multi-format 1D/2D barcode image processing library implemented in C++
@@ -6337,10 +6137,6 @@
 - Package: lighttpd
   Version: 1.4.79
   Description: Fast webserver with minimal memory footprint
-  Homepage: https://www.lighttpd.net
-- Package: lighttpd-static
-  Version: 1.4.70-2
-  Description: Static libraries for lighttpd
   Homepage: https://www.lighttpd.net
 - Package: lilv
   Version: 0.24.26
@@ -6519,7 +6315,7 @@
   Description: Just-In-Time compiler for Lua - command line tool
   Homepage: https://luajit.org/
 - Package: luarocks
-  Version: 3.12.1
+  Version: 3.12.2
   Description: Deployment and management system for Lua modules
   Homepage: https://luarocks.org/
 - Package: luv
@@ -6629,10 +6425,6 @@
 - Package: marisa
   Version: 0.3.0
   Description: Matching Algorithm with Recursively Implemented StorAge
-  Homepage: https://github.com/s-yata/marisa-trie
-- Package: marisa-static
-  Version: 0.2.7
-  Description: Static libraries for marisa
   Homepage: https://github.com/s-yata/marisa-trie
 - Package: markdown-flashcards
   Version: 2.0.1
@@ -7014,10 +6806,6 @@
   Version: 0.24.4
   Description: Music player daemon
   Homepage: https://www.musicpd.org
-- Package: mpd-static
-  Version: 0.23.15
-  Description: Static libraries for mpd
-  Homepage: https://www.musicpd.org
 - Package: mpdscribble
   Version: 0.25-2
   Description: A Music Player Daemon (MPD) client which submits information about tracks being played to a scrobbler
@@ -7278,10 +7066,6 @@
   Version: 1.3-5
   Description: Alter the contents of packets forwarded through network in real time
   Homepage: http://silicone.homelinux.org/projects/netsed/
-- Package: netstandard-targeting-pack-2.1
-  Version: "9.0"
-  Description: A metapackage for NETStandard.Library 2.1 Targeting Pack
-  Homepage: https://dotnet.microsoft.com/en-us/
 - Package: netstandard-targeting-pack-2.1-8.0
   Version: 8.0.18
   Description: NETStandard.Library 2.1 Targeting Pack (.NET 8.0)
@@ -7333,10 +7117,6 @@
 - Package: nmap
   Version: 7.97-4
   Description: Utility for network discovery and security auditing
-  Homepage: https://nmap.org/
-- Package: nmap-ncat
-  Version: "7.97"
-  Description: Feature-packed networking utility which reads and writes data across networks from the command line
   Homepage: https://nmap.org/
 - Package: nmh
   Version: 1.8-1
@@ -7406,10 +7186,6 @@
   Version: 0.105.1-1
   Description: A new type of shell operating on structured data
   Homepage: https://www.nushell.sh
-- Package: nwipe
-  Version: 0.38-1
-  Description: A program that will securely erase the entire contents of disks
-  Homepage: https://github.com/martijnvanbrummelen/nwipe
 - Package: nyancat
   Version: 1.5.2
   Description: Nyancat in your terminal, rendered through ANSI escape sequences.
@@ -7530,10 +7306,6 @@
   Version: 2.4.2
   Description: A color management framework for visual effects and animation
   Homepage: https://opencolorio.org
-- Package: opencolorio-static
-  Version: 2.1.2
-  Description: Static libraries for opencolorio
-  Homepage: https://opencolorio.org
 - Package: openethereum
   Version: 3.3.5-4
   Description: Lightweight Ethereum Client
@@ -7634,24 +7406,12 @@
   Version: 1:3.5.0-1
   Description: Library implementing the SSL and TLS protocols as well as general purpose cryptography functions
   Homepage: https://www.openssl.org/
-- Package: openssl-1.1
-  Version: 1:1.1.1w
-  Description: Library implementing the SSL and TLS protocols as well as general purpose cryptography functions
-  Homepage: https://www.openssl.org/
-- Package: openssl-1.1-static
-  Version: 1:1.1.1w
-  Description: Static libraries for openssl-1.1
-  Homepage: https://www.openssl.org/
 - Package: openssl-static
   Version: 1:3.5.0-1
   Description: Static libraries for openssl
   Homepage: https://www.openssl.org/
 - Package: openssl-tool
   Version: 1:3.5.0-1
-  Description: The openssl command line cryptographic tool
-  Homepage: https://www.openssl.org/
-- Package: openssl1.1-tool
-  Version: 1:1.1.1w
   Description: The openssl command line cryptographic tool
   Homepage: https://www.openssl.org/
 - Package: opentimelineio
@@ -7678,10 +7438,6 @@
   Version: 0.9-2
   Description: Simple tools for OpenStreetMap processing
   Homepage: https://gitlab.com/osm-c-tools/osmctools
-- Package: osmesa
-  Version: 25.0.5
-  Description: Mesa Off-screen Rendering Library
-  Homepage: https://www.mesa3d.org
 - Package: osmium-tool
   Version: 1.18.0-3
   Description: A multipurpose command line tool based on the Osmium Library
@@ -8222,10 +7978,6 @@
   Version: 17.0-1
   Description: PulseAudio GLIB mainloop component
   Homepage: https://www.freedesktop.org/wiki/Software/PulseAudio
-- Package: pulseaudio-glib-static
-  Version: 14.2-10
-  Description: Static library for PulseAudio GLIB mainloop component
-  Homepage: https://www.freedesktop.org/wiki/Software/PulseAudio
 - Package: pup
   Version: 0.4.0-7
   Description: command line tool for processing HTML
@@ -8343,7 +8095,7 @@
   Description: Static libraries for python-numpy
   Homepage: https://numpy.org/
 - Package: python-onnxruntime
-  Version: 1.22.0
+  Version: 1.22.1
   Description: Cross-platform, high performance ML inferencing and training accelerator
   Homepage: https://onnxruntime.ai/
 - Package: python-pillow
@@ -8578,10 +8330,6 @@
   Version: 5.9.8
   Description: Advanced Hexadecimal Editor
   Homepage: https://rada.re
-- Package: radare2-static
-  Version: 5.7.8
-  Description: Static libraries for radare2
-  Homepage: https://rada.re
 - Package: rage
   Version: 0.11.1
   Description: A simple, secure and modern encryption tool
@@ -8646,10 +8394,6 @@
   Version: 5.10.1
   Description: The GNU Revision Control System
   Homepage: https://www.gnu.org/s/rcs
-- Package: rcshell
-  Version: 1.7.4-4
-  Description: An alternative implementation of the plan 9 rc shell
-  Homepage: http://tobold.org/article/rc
 - Package: rdfind
   Version: 1.7.0
   Description: A tool for finding duplicate files
@@ -8697,10 +8441,6 @@
 - Package: recoll-python
   Version: 1.43.2
   Description: Python interface for Recoll
-  Homepage: https://www.recoll.org/
-- Package: recoll-static
-  Version: 1.37.5
-  Description: Static libraries for recoll
   Homepage: https://www.recoll.org/
 - Package: recutils
   Version: "1.9"
@@ -8766,10 +8506,6 @@
   Version: 1:0.73-1
   Description: A user-mode TCP port redirection server
   Homepage: https://github.com/samhocevar/rinetd
-- Package: rip
-  Version: 0.13.1-1
-  Description: A command-line deletion tool focused on safety, ergonomics, and performance
-  Homepage: https://github.com/nivekuil/rip
 - Package: rip2
   Version: 0.9.4
   Description: A safe and ergonomic alternative to rm
@@ -8937,10 +8673,6 @@
 - Package: rust-std-wasm32-unknown-unknown
   Version: 1.88.0
   Description: Rust std for target wasm32-unknown-unknown
-  Homepage: https://www.rust-lang.org/
-- Package: rust-std-wasm32-wasi
-  Version: 1.83.0-2
-  Description: Rust std for target wasm32-wasi
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-wasm32-wasip1
   Version: 1.88.0
@@ -9321,10 +9053,6 @@
 - Package: spglib
   Version: 2.6.0
   Description: C library for finding and handling crystal symmetries
-  Homepage: https://spglib.github.io/spglib/index.html
-- Package: spglib-static
-  Version: 2.0.2
-  Description: Static libraries for spglib
   Homepage: https://spglib.github.io/spglib/index.html
 - Package: spidermonkey
   Version: 128.10.0
@@ -9986,26 +9714,14 @@
   Version: 0.24.1-2
   Description: C grammar for tree-sitter
   Homepage: https://github.com/tree-sitter/tree-sitter-c
-- Package: tree-sitter-c-static
-  Version: 0.23.1
-  Description: Static libraries for tree-sitter-c
-  Homepage: https://github.com/tree-sitter
 - Package: tree-sitter-lua
   Version: 0.4.0-2
   Description: Lua grammar for tree-sitter
   Homepage: https://github.com/tree-sitter-grammars/tree-sitter-lua
-- Package: tree-sitter-lua-static
-  Version: 0.2.0
-  Description: Static libraries for tree-sitter-lua
-  Homepage: https://github.com/tree-sitter-grammars
 - Package: tree-sitter-markdown
   Version: 0.5.0-3
   Description: Markdown grammar for tree-sitter
   Homepage: https://github.com/tree-sitter-grammars/tree-sitter-markdown
-- Package: tree-sitter-markdown-static
-  Version: 0.3.2
-  Description: Static libraries for tree-sitter-markdown
-  Homepage: https://github.com/tree-sitter-grammars
 - Package: tree-sitter-parsers
   Version: 0.0.5
   Description: A metapackage that provides commonly used treesitter parsers
@@ -10014,10 +9730,6 @@
   Version: 0.6.2
   Description: TS query grammar for tree-sitter
   Homepage: https://github.com/tree-sitter-grammars/tree-sitter-query
-- Package: tree-sitter-query-static
-  Version: 0.4.0-1
-  Description: Static libraries for tree-sitter-query
-  Homepage: https://github.com/tree-sitter-grammars
 - Package: tree-sitter-static
   Version: 0.25.6-4
   Description: Static libraries for tree-sitter
@@ -10146,10 +9858,6 @@
   Version: 0.13.1
   Description: A new markup-based typesetting system that is powerful and easy to learn
   Homepage: https://typst.app/
-- Package: typst-lsp
-  Version: 0.13.0-1
-  Description: Language server for Typst
-  Homepage: https://github.com/nvarner/typst-lsp
 - Package: typstfmt
   Version: 0.2.10
   Description: basic formatter for the Typst language
@@ -10185,10 +9893,6 @@
 - Package: unbound
   Version: 1.23.0-1
   Description: Unbound command-line tools
-  Homepage: https://unbound.net/
-- Package: unbound-static
-  Version: 1.17.1
-  Description: Static libraries for unbound
   Homepage: https://unbound.net/
 - Package: unicode-data
   Version: 16.0.0
@@ -10246,10 +9950,6 @@
   Version: 7.2-2
   Description: Update or create index file from all installed info files in directory
   Homepage: https://www.gnu.org/software/texinfo/
-- Package: upscaledb-tools
-  Version: 2.2.1p20210820-9
-  Description: Tools for upscaledb
-  Homepage: https://upscaledb.com/
 - Package: upx
   Version: 5.0.1
   Description: the Ultimate Packer for eXecutables
@@ -10530,10 +10230,6 @@
   Version: 0.5.15
   Description: Command line linker for creating WebAssembly components
   Homepage: https://github.com/bytecodealliance/wasm-component-ld
-- Package: wasmedge-static
-  Version: 0.14.0
-  Description: Static libraries for wasmedge
-  Homepage: https://wasmedge.org/
 - Package: watchexec
   Version: 2.3.0
   Description: Executes commands in response to file modifications
@@ -10929,10 +10625,6 @@
 - Package: zstd
   Version: 1.5.7
   Description: Zstandard compression
-  Homepage: https://github.com/facebook/zstd
-- Package: zstd-static
-  Version: 1.5.6-1
-  Description: Static libraries for zstd
   Homepage: https://github.com/facebook/zstd
 - Package: zsync
   Version: 0.6.3
