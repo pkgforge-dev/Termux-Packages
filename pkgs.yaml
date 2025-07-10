@@ -1039,7 +1039,7 @@
   Description: Suggest installation of packages in interactive shell sessions
   Homepage: https://github.com/termux/command-not-found
 - Package: composer
-  Version: 2.8.9
+  Version: 2.8.10
   Description: Dependency Manager for PHP
   Homepage: https://getcomposer.org/
 - Package: console-bridge
@@ -2263,7 +2263,7 @@
   Description: Simple, Portable, Free File Transfer Software for UNIX
   Homepage: http://www.columbia.edu/kermit/gkermit.html
 - Package: glab-cli
-  Version: 1.61.0
+  Version: 1.62.0
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
@@ -9107,7 +9107,7 @@
   Description: A small headless Logitech Squeezebox emulator
   Homepage: https://ralph-irving.github.io/squeezelite.html
 - Package: squid
-  Version: 7.0.2
+  Version: "7.1"
   Description: Full-featured Web proxy cache server
   Homepage: http://www.squid-cache.org
 - Package: sratom
@@ -9319,7 +9319,7 @@
   Description: Swift SDK for Android x86_64
   Homepage: https://swift.org/
 - Package: swiftshader
-  Version: 2025.06.25
+  Version: 2025.06.25-1
   Description: A high-performance CPU-based implementation of the Vulkan graphics API
   Homepage: https://swiftshader.googlesource.com/SwiftShader
 - Package: swig

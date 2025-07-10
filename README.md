@@ -270,7 +270,7 @@
 | **colm-static** | 0.14.7-1 | Static libraries for colm | https://www.colm.net/open-source/colm/ |
 | **colordiff** | 1.0.21 | Tool to colorize 'diff' output | https://www.colordiff.org/ |
 | **command-not-found** | 3.1-2 | Suggest installation of packages in interactive shell sessions | https://github.com/termux/command-not-found |
-| **composer** | 2.8.9 | Dependency Manager for PHP | https://getcomposer.org/ |
+| **composer** | 2.8.10 | Dependency Manager for PHP | https://getcomposer.org/ |
 | **console-bridge** | 1.0.2 | A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages | https://github.com/ros/console_bridge |
 | **convertlit** | 1.8-1 | An extractor/converter for .LIT eBooks | http://www.convertlit.com/ |
 | **cookcli** | 0.14.0 | A suite of tools to create shopping lists and maintain food recipes | https://cooklang.org |
@@ -576,7 +576,7 @@
 | **gitoxide** | 0.44.0 | Rust implementation of Git | https://github.com/Byron/gitoxide |
 | **gitui** | 0.27.0-2 | Blazing fast terminal-ui for git written in rust | https://github.com/extrawurst/gitui |
 | **gkermit** | 2.01 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
-| **glab-cli** | 1.61.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
+| **glab-cli** | 1.62.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
 | **gleam** | 1.11.1 | A friendly language for building type-safe, scalable systems! | https://gleam.run |
 | **glib** | 2.84.3 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
 | **glib-cross** | 2.84.3 | glib for host (NOT for Termux) | https://developer.gnome.org/glib/ |
@@ -2287,7 +2287,7 @@
 | **squashfs-tools-ng** | 1.3.2 | New set of tools for working with SquashFS images | https://github.com/AgentD/squashfs-tools-ng |
 | **squashfs-tools-ng-static** | 1.3.2 | Static libraries for squashfs-tools-ng | https://github.com/AgentD/squashfs-tools-ng |
 | **squeezelite** | 2.0.0.1517 | A small headless Logitech Squeezebox emulator | https://ralph-irving.github.io/squeezelite.html |
-| **squid** | 7.0.2 | Full-featured Web proxy cache server | http://www.squid-cache.org |
+| **squid** | 7.1 | Full-featured Web proxy cache server | http://www.squid-cache.org |
 | **sratom** | 0.6.18 | A small library for serialising LV2 atoms to and from RDF | https://drobilla.net/software/sratom.html |
 | **srelay** | 0.4.8p3-7 | A Free SOCKS proxy server | https://sourceforge.net/projects/socks-relay |
 | **srt-tools** | 1.5.4 | Command-line tools for libsrt | https://github.com/Haivision/srt |
@@ -2340,7 +2340,7 @@
 | **swift-sdk-aarch64** | 6.1.2 | Swift SDK for Android AArch64 | https://swift.org/ |
 | **swift-sdk-arm** | 6.1.2 | Swift SDK for Android armv7 | https://swift.org/ |
 | **swift-sdk-x86-64** | 6.1.2 | Swift SDK for Android x86_64 | https://swift.org/ |
-| **swiftshader** | 2025.06.25 | A high-performance CPU-based implementation of the Vulkan graphics API | https://swiftshader.googlesource.com/SwiftShader |
+| **swiftshader** | 2025.06.25-1 | A high-performance CPU-based implementation of the Vulkan graphics API | https://swiftshader.googlesource.com/SwiftShader |
 | **swig** | 4.3.1 | Generate scripting interfaces to C/C++ code | https://swig.org |
 | **swtpm** | 0.10.1 | Software TPM Emulator | https://github.com/stefanberger/swtpm |
 | **swtpm-static** | 0.10.1 | Static libraries for swtpm | https://github.com/stefanberger/swtpm |
