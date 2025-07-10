@@ -1981,13 +1981,13 @@
   },
   {
     "Package": "djvulibre",
-    "Version": "3.5.28-6",
+    "Version": "3.5.29",
     "Description": "Suite to create, manipulate and view DjVu (déjà vu) documents",
     "Homepage": "https://djvu.sourceforge.net/"
   },
   {
     "Package": "djvulibre-static",
-    "Version": "3.5.28-6",
+    "Version": "3.5.29",
     "Description": "Static libraries for djvulibre",
     "Homepage": "https://djvu.sourceforge.net/"
   },
@@ -2023,7 +2023,7 @@
   },
   {
     "Package": "dnslookup",
-    "Version": "1.11.1",
+    "Version": "1.11.1-1",
     "Description": "Simple command line utility to make DNS lookups. Supports all known DNS protocols: plain DNS, DoH, DoT, DoQ, DNSCrypt.",
     "Homepage": "https://github.com/ameshkov/dnslookup"
   },
@@ -3631,13 +3631,13 @@
   },
   {
     "Package": "golang",
-    "Version": "3:1.24.4",
+    "Version": "3:1.24.5",
     "Description": "Go programming language compiler",
     "Homepage": "https://go.dev/"
   },
   {
     "Package": "golang-doc",
-    "Version": "3:1.24.4",
+    "Version": "3:1.24.5",
     "Description": "Go programming language - documentation",
     "Homepage": "https://go.dev/"
   },
@@ -3691,7 +3691,7 @@
   },
   {
     "Package": "gopls",
-    "Version": "0.19.1",
+    "Version": "0.19.1-1",
     "Description": "The official Go language server",
     "Homepage": "https://github.com/golang/tools"
   },
@@ -13075,7 +13075,7 @@
   },
   {
     "Package": "sabnzbd",
-    "Version": "4.5.1",
+    "Version": "4.5.2",
     "Description": "Fully automated Usenet Binary Downloader",
     "Homepage": "https://sabnzbd.org/"
   },
