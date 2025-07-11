@@ -301,7 +301,7 @@
   },
   {
     "Package": "apache2",
-    "Version": "1:2.4.63",
+    "Version": "1:2.4.64",
     "Description": "Apache Web Server",
     "Homepage": "https://httpd.apache.org"
   },
@@ -9607,7 +9607,7 @@
   },
   {
     "Package": "mandoc",
-    "Version": "1.14.6-4",
+    "Version": "1.14.6-5",
     "Description": "Man page viewer from the mandoc toolset",
     "Homepage": "https://mdocml.bsd.lv/"
   },
@@ -10663,7 +10663,7 @@
   },
   {
     "Package": "ninja",
-    "Version": "1.13.0",
+    "Version": "1.13.1",
     "Description": "A small build system with a focus on speed",
     "Homepage": "https://ninja-build.org"
   },
