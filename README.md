@@ -1590,7 +1590,7 @@
 | **lua53-lpeg** | 1.1.0-2 | Pattern-matching library for Lua 5.3 | https://www.inf.puc-rio.br/~roberto/lpeg |
 | **lua54** | 5.4.8-2 | Simple, extensible, embeddable programming language | https://www.lua.org/ |
 | **luajit** | 1:2.1.1731601260 | Just-In-Time compiler for Lua - command line tool | https://luajit.org/ |
-| **luarocks** | 3.12.2 | Deployment and management system for Lua modules | https://luarocks.org/ |
+| **luarocks** | 3.12.2-1 | Deployment and management system for Lua modules | https://luarocks.org/ |
 | **luv** | 1.51.0-1-0 | Bare libuv bindings for lua | https://github.com/luvit/luv |
 | **luvi** | 1:2.15.0 | A project in-between luv and luvit | https://luvit.io |
 | **luvit** | 2.18.1-1 | Asynchronous I/O for Lua | https://luvit.io |
