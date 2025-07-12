@@ -494,7 +494,7 @@
 | **fontconfig-static** | 2.17.1 | Static libraries for fontconfig | https://www.freedesktop.org/wiki/Software/fontconfig/ |
 | **fontconfig-utils** | 2.17.1 | Fontconfig binaries | https://www.freedesktop.org/wiki/Software/fontconfig/ |
 | **forestdb-dump** | 1.2-1 | ForestDB dump tool | https://github.com/couchbase/forestdb |
-| **forgejo** | 11.0.2 | Forgejo is a self-hosted lightweight software forge. | https://forgejo.org/ |
+| **forgejo** | 11.0.3 | Forgejo is a self-hosted lightweight software forge. | https://forgejo.org/ |
 | **fortune** | 1.2-1 | Revealer of fortunes | https://www.fefe.de/fortune/ |
 | **fossil** | 2.26 | DSCM with built-in wiki, http interface and server, tickets database | https://www.fossil-scm.org |
 | **freecolor** | 0.9.3 | Freecolor is a replacement for Linux that displays free memory graphically | http://rkeene.org/oss/freecolor/ |
@@ -515,7 +515,7 @@
 | **fwknop-static** | 2.6.11 | Static libraries for fwknop | https://www.cipherdyne.org/fwknop/ |
 | **fx** | 37.0.1 | Interactive JSON viewer on your terminal | https://github.com/antonmedv/fx |
 | **fzf** | 0.64.0 | Command-line fuzzy finder | https://junegunn.github.io/fzf/ |
-| **fzy** | 1.0 | A simple, fast fuzzy finder for the terminal | https://github.com/jhawthorn/fzy |
+| **fzy** | 1.1 | A simple, fast fuzzy finder for the terminal | https://github.com/jhawthorn/fzy |
 | **g-ir-scanner** | 1.84.0 | A tool which generates GIR XML files | https://gi.readthedocs.io/ |
 | **game-music-emu** | 0.6.4 | A collection of video game music file emulators | https://bitbucket.org/mpyne/game-music-emu/wiki/Home |
 | **game-music-emu-static** | 0.6.4 | Static libraries for game-music-emu | https://bitbucket.org/mpyne/game-music-emu/wiki/Home |
@@ -1690,7 +1690,7 @@
 | **mlir** | 20.1.7 | A Multi-Level Intermediate Representation for compilers from LLVM | https://clang.llvm.org/ |
 | **mlocate** | 0.26-5 | Tool to find files anywhere in the filesystem based on their name | https://pagure.io/mlocate |
 | **moar** | 1.32.3 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moar |
-| **mold** | 2.40.1-1 | mold: A Modern Linker | https://github.com/rui314/mold |
+| **mold** | 2.40.2 | mold: A Modern Linker | https://github.com/rui314/mold |
 | **monero** | 0.18.4.0 | A private, secure, untraceable, decentralised digital currency | https://getmonero.org/ |
 | **mono** | 6.14.1 | Framework Mono | https://gitlab.winehq.org/mono/mono |
 | **mono-libs** | 6.14.1 | Platform-independent libraries for mono | https://gitlab.winehq.org/mono/mono |
