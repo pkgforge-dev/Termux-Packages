@@ -10333,7 +10333,7 @@
   },
   {
     "Package": "mympd",
-    "Version": "22.0.1",
+    "Version": "22.0.1-1",
     "Description": "A standalone and lightweight web-based MPD client",
     "Homepage": "https://jcorporation.github.io/myMPD/"
   },
@@ -11011,37 +11011,37 @@
   },
   {
     "Package": "openjdk-17",
-    "Version": "17.0.15-1",
+    "Version": "17.0.15-2",
     "Description": "Java development kit and runtime",
     "Homepage": "https://openjdk.java.net"
   },
   {
     "Package": "openjdk-17-source",
-    "Version": "17.0.15-1",
+    "Version": "17.0.15-2",
     "Description": "Source files for openjdk-17",
     "Homepage": "https://openjdk.java.net"
   },
   {
     "Package": "openjdk-17-x",
-    "Version": "17.0.15-1",
+    "Version": "17.0.15-2",
     "Description": "Portion of openjdk-17 requiring X11 functionality",
     "Homepage": "https://openjdk.java.net"
   },
   {
     "Package": "openjdk-21",
-    "Version": "21.0.7-2",
+    "Version": "21.0.7-3",
     "Description": "Java development kit and runtime",
     "Homepage": "https://openjdk.java.net"
   },
   {
     "Package": "openjdk-21-source",
-    "Version": "21.0.7-2",
+    "Version": "21.0.7-3",
     "Description": "Source files for openjdk-21",
     "Homepage": "https://openjdk.java.net"
   },
   {
     "Package": "openjdk-21-x",
-    "Version": "21.0.7-2",
+    "Version": "21.0.7-3",
     "Description": "Portion of openjdk-21 requiring X11 functionality",
     "Homepage": "https://openjdk.java.net"
   },
@@ -14617,13 +14617,13 @@
   },
   {
     "Package": "tree-sitter-vim",
-    "Version": "0.6.0-2",
+    "Version": "0.7.0",
     "Description": "Vimscript grammar for tree-sitter",
     "Homepage": "https://github.com/tree-sitter-grammars/tree-sitter-vim"
   },
   {
     "Package": "tree-sitter-vim-static",
-    "Version": "0.6.0-2",
+    "Version": "0.7.0",
     "Description": "Static libraries for tree-sitter-vim",
     "Homepage": "https://github.com/tree-sitter-grammars/tree-sitter-vim"
   },
