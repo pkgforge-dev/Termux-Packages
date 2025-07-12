@@ -755,7 +755,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-1 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.22.2145 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.22.2151 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **janet** | 1.38.0 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
 | **jbig2dec** | 0.20 | Decoder implementation of the JBIG2 image compression format | https://jbig2dec.com/ |
 | **jbig2dec-static** | 0.20 | Static libraries for jbig2dec | https://jbig2dec.com/ |
@@ -1161,7 +1161,7 @@
 | **libmnl-static** | 1.0.5 | Static libraries for libmnl | https://www.netfilter.org/projects/libmnl/ |
 | **libmodplug** | 0.8.9.1.r461 | The ModPlug mod file playing library | http://modplug-xmms.sourceforge.net/ |
 | **libmodplug-static** | 0.8.9.1.r461 | Static libraries for libmodplug | http://modplug-xmms.sourceforge.net/ |
-| **libmosquitto** | 2.0.21 | MQTT library | https://mosquitto.org/ |
+| **libmosquitto** | 2.0.22 | MQTT library | https://mosquitto.org/ |
 | **libmount** | 2.40.2-4 | Library for (un)mounting filesystems | https://en.wikipedia.org/wiki/Util-linux |
 | **libmp3lame** | 3.100-6 | High quality MPEG Audio Layer III (MP3) encoder | https://lame.sourceforge.io/ |
 | **libmp3lame-static** | 3.100-6 | Static libraries for libmp3lame | https://lame.sourceforge.io/ |
@@ -1691,7 +1691,7 @@
 | **morse2ascii** | 0.2.1 | A tool to decode the morse codes from a PCM WAV file as well as from text and RAW PCM files | https://packages.debian.org/sid/morse2ascii |
 | **mosh** | 1.4.0-13 | Mobile shell that supports roaming and intelligent local echo | https://mosh.org |
 | **mosh-perl** | 1.4.0-13 | The mosh Perl script | https://mosh.org |
-| **mosquitto** | 2.0.21 | MQTT version 3.1/3.1.1 compatible message broker and clients | https://mosquitto.org/ |
+| **mosquitto** | 2.0.22 | MQTT version 3.1/3.1.1 compatible message broker and clients | https://mosquitto.org/ |
 | **most** | 5.2.0-1 | A terminal pager similar to 'more' and 'less' | http://www.jedsoft.org/most/index.html |
 | **mount-utils** | 2.40.2-4 | Utilities for (un)mounting filesystems | https://en.wikipedia.org/wiki/Util-linux |
 | **mp3cat** | 0.5 | Copies a byte stream, skipping everything except mp3 frames with valid headers | https://tomclegg.ca/mp3cat |
@@ -2542,7 +2542,7 @@
 | **vttest** | 20241208 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-4 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.4.321 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
-| **vulkan-headers** | 1.4.321 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
+| **vulkan-headers** | 1.4.322 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
 | **vulkan-icd** | 0.1 | A metapackage that provides Vulkan ICDs | https://github.com/termux/termux-packages |
 | **vulkan-loader** | 0.0.3 | A metapackage that provides vulkan loader library | https://github.com/termux/termux-packages |
 | **vulkan-loader-android** | 27c | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
