@@ -257,7 +257,7 @@
  colm  0.14.7-1  COmputer Language Machinery  https://www.colm.net/open-source/colm/ 
  colm-static  0.14.7-1  Static libraries for colm  https://www.colm.net/open-source/colm/ 
  colordiff  1.0.21  Tool to colorize 'diff' output  https://www.colordiff.org/ 
- command-not-found  3.1-2  Suggest installation of packages in interactive shell sessions  https://github.com/termux/command-not-found 
+ command-not-found  3.1-3  Suggest installation of packages in interactive shell sessions  https://github.com/termux/command-not-found 
  composer  2.8.10  Dependency Manager for PHP  https://getcomposer.org/ 
  console-bridge  1.0.2  A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages  https://github.com/ros/console_bridge 
  convertlit  1.8-1  An extractor/converter for .LIT eBooks  http://www.convertlit.com/ 
@@ -433,7 +433,7 @@
  exiftool  13.32  Utility for reading, writing and editing meta information in a wide variety of files.  https://exiftool.org/ 
  exiv2  2:0.28.5  Exif, Iptc and XMP metadata manipulation library and tools  https://exiv2.org/ 
  expect  5.45.4-3  Tool for automating interactive terminal applications  https://core.tcl.tk/expect/index 
- eza  0.22.0  A modern replacement for ls  https://github.com/eza-community/eza 
+ eza  0.22.1  A modern replacement for ls  https://github.com/eza-community/eza 
  fact++  1.6.5-2  Re-implementation of the well-known FaCT Description Logic (DL) Reasoner  https://bitbucket.org/dtsarkov/factplusplus 
  fakeroot  1.37.1.2  Tool for simulating superuser privileges (with tcp ipc)  https://packages.qa.debian.org/f/fakeroot.html 
  fakeroot-static  1.37.1.2  Static libraries for fakeroot  https://packages.qa.debian.org/f/fakeroot.html 
@@ -1755,7 +1755,7 @@
  neocmakelsp  0.8.23-1  a cmake lsp based on tower-lsp and treesitter  https://neocmakelsp.github.io/ 
  neofetch  7.1.0-1  Simple system information script  https://github.com/dylanaraps/neofetch 
  neomutt  20250510  A version of mutt with added features  https://neomutt.org/ 
- neovim  0.11.2-2  Ambitious Vim-fork focused on extensibility and agility (nvim)  https://neovim.io/ 
+ neovim  0.11.3  Ambitious Vim-fork focused on extensibility and agility (nvim)  https://neovim.io/ 
  nerdfix  0.4.2  nerdfix helps you to find/fix obsolete Nerd Font icons in your project.  https://github.com/loichyan/nerdfix 
  net-snmp  5.9.4  Various tools relating to the Simple Network Management Protocol  http://www.net-snmp.org/ 
  net-snmp-static  5.9.4  Static libraries for net-snmp  http://www.net-snmp.org/ 
@@ -2427,13 +2427,13 @@
  translate-shell  0.9.7.1  Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.  https://www.soimort.org/translate-shell 
  transmission  4.0.6-4  Easy, lean and powerful BitTorrent client  https://transmissionbt.com/ 
  tree  2.2.1  Recursive directory lister producing a depth indented listing of files  http://mama.indstate.edu/users/ice/tree/ 
- tree-sitter  0.25.6-4  An incremental parsing system for programming tools  https://github.com/tree-sitter/tree-sitter 
+ tree-sitter  0.25.7  An incremental parsing system for programming tools  https://github.com/tree-sitter/tree-sitter 
  tree-sitter-c  0.24.1-2  C grammar for tree-sitter  https://github.com/tree-sitter/tree-sitter-c 
  tree-sitter-lua  0.4.0-2  Lua grammar for tree-sitter  https://github.com/tree-sitter-grammars/tree-sitter-lua 
  tree-sitter-markdown  0.5.0-3  Markdown grammar for tree-sitter  https://github.com/tree-sitter-grammars/tree-sitter-markdown 
  tree-sitter-parsers  0.0.5  A metapackage that provides commonly used treesitter parsers  https://github.com/termux/termux-packages 
  tree-sitter-query  0.6.2  TS query grammar for tree-sitter  https://github.com/tree-sitter-grammars/tree-sitter-query 
- tree-sitter-static  0.25.6-4  Static libraries for tree-sitter  https://github.com/tree-sitter/tree-sitter 
+ tree-sitter-static  0.25.7  Static libraries for tree-sitter  https://github.com/tree-sitter/tree-sitter 
  tree-sitter-vim  0.7.0  Vimscript grammar for tree-sitter  https://github.com/tree-sitter-grammars/tree-sitter-vim 
  tree-sitter-vim-static  0.7.0  Static libraries for tree-sitter-vim  https://github.com/tree-sitter-grammars/tree-sitter-vim 
  tree-sitter-vimdoc  4.0.0-2  Tree-sitter parser for Vim help files  https://github.com/neovim/tree-sitter-vimdoc 

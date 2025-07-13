@@ -1555,7 +1555,7 @@
   },
   {
     "Package": "command-not-found",
-    "Version": "3.1-2",
+    "Version": "3.1-3",
     "Description": "Suggest installation of packages in interactive shell sessions",
     "Homepage": "https://github.com/termux/command-not-found"
   },
@@ -2611,7 +2611,7 @@
   },
   {
     "Package": "eza",
-    "Version": "0.22.0",
+    "Version": "0.22.1",
     "Description": "A modern replacement for ls",
     "Homepage": "https://github.com/eza-community/eza"
   },
@@ -10543,7 +10543,7 @@
   },
   {
     "Package": "neovim",
-    "Version": "0.11.2-2",
+    "Version": "0.11.3",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim)",
     "Homepage": "https://neovim.io/"
   },
@@ -14575,7 +14575,7 @@
   },
   {
     "Package": "tree-sitter",
-    "Version": "0.25.6-4",
+    "Version": "0.25.7",
     "Description": "An incremental parsing system for programming tools",
     "Homepage": "https://github.com/tree-sitter/tree-sitter"
   },
@@ -14611,7 +14611,7 @@
   },
   {
     "Package": "tree-sitter-static",
-    "Version": "0.25.6-4",
+    "Version": "0.25.7",
     "Description": "Static libraries for tree-sitter",
     "Homepage": "https://github.com/tree-sitter/tree-sitter"
   },
