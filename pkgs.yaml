@@ -2903,11 +2903,11 @@
   Description: A command line id3v2 tag editor
   Homepage: http://id3v2.sourceforge.net/
 - Package: imagemagick
-  Version: 7.1.1.47-1
+  Version: 7.1.2.0
   Description: Suite to create, edit, compose, or convert images in a variety of formats
   Homepage: https://www.imagemagick.org/
 - Package: imagemagick-static
-  Version: 7.1.1.47-1
+  Version: 7.1.2.0
   Description: Static libraries for imagemagick
   Homepage: https://www.imagemagick.org/
 - Package: imath
@@ -9715,7 +9715,7 @@
   Description: Recursive directory lister producing a depth indented listing of files
   Homepage: http://mama.indstate.edu/users/ice/tree/
 - Package: tree-sitter
-  Version: 0.25.7
+  Version: 0.25.8
   Description: An incremental parsing system for programming tools
   Homepage: https://github.com/tree-sitter/tree-sitter
 - Package: tree-sitter-c
@@ -9739,7 +9739,7 @@
   Description: TS query grammar for tree-sitter
   Homepage: https://github.com/tree-sitter-grammars/tree-sitter-query
 - Package: tree-sitter-static
-  Version: 0.25.7
+  Version: 0.25.8
   Description: Static libraries for tree-sitter
   Homepage: https://github.com/tree-sitter/tree-sitter
 - Package: tree-sitter-vim
