@@ -2779,11 +2779,11 @@
   Description: Interactive process viewer for Linux
   Homepage: https://htop.dev/
 - Package: htslib
-  Version: "1.22"
+  Version: 1.22.1
   Description: C library for high-throughput sequencing data formats
   Homepage: https://github.com/samtools/htslib
 - Package: htslib-static
-  Version: "1.22"
+  Version: 1.22.1
   Description: Static libraries for htslib
   Homepage: https://github.com/samtools/htslib
 - Package: httping
