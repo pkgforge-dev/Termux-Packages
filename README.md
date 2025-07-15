@@ -45,7 +45,7 @@
 | **alsa-utils** | 1.2.13-1 | The Advanced Linux Sound Architecture (ALSA) - utils | https://www.alsa-project.org |
 | **alsa-utils-static** | 1.2.13-1 | Static libraries for alsa-utils | https://www.alsa-project.org |
 | **amber** | 0.6.0 | A code search / replace tool | https://github.com/dalance/amber |
-| **amfora** | 1.10.0-2 | Aims to be the best looking Gemini client | https://github.com/makew0rld/amfora |
+| **amfora** | 1.11.0 | Aims to be the best looking Gemini client | https://github.com/makew0rld/amfora |
 | **android-tools** | 35.0.2-2 | Android platform tools | https://developer.android.com/ |
 | **anewer** | 0.1.6 | Append lines from stdin to a file if these lines do not present in that file (aHash-based uniq) | https://github.com/ysf/anewer |
 | **angband** | 4.2.5 | Dungeon exploration adventure game | https://rephial.org/ |
@@ -571,7 +571,7 @@
 | **git-lfs** | 3.7.0 | Git extension for versioning large files | https://git-lfs.github.com/ |
 | **git-sizer** | 1.5.0-4 | Compute various size metrics for a Git repository | https://github.com/github/git-sizer |
 | **git-svn** | 2.50.1 | Convert between Git and Subversion repositories | https://git-scm.com/ |
-| **gitea** | 1.24.2 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
+| **gitea** | 1.24.3 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
 | **gitflow-avh** | 1.12.3-9 | Extend git with Vincent Driessen's branching model. The AVH Edition adds more functionality. | https://github.com/petervanderdoes/gitflow/ |
 | **gitoxide** | 0.44.0 | Rust implementation of Git | https://github.com/Byron/gitoxide |
 | **gitui** | 0.27.0-2 | Blazing fast terminal-ui for git written in rust | https://github.com/extrawurst/gitui |
@@ -767,7 +767,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-1 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.22.2154 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.22.2159 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **janet** | 1.38.0 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
 | **jbig2dec** | 0.20 | Decoder implementation of the JBIG2 image compression format | https://jbig2dec.com/ |
 | **jbig2dec-static** | 0.20 | Static libraries for jbig2dec | https://jbig2dec.com/ |
