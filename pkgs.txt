@@ -475,7 +475,7 @@
  flatbuffers-static  25.2.10  Static libraries for flatbuffers  https://github.com/google/flatbuffers 
  flex  2.6.4-3  Fast lexical analyser generator  https://github.com/westes/flex 
  flex-static  2.6.4-3  Static libraries for flex  https://github.com/westes/flex 
- fluidsynth  2.4.6  Software synthesizer based on the SoundFont 2 specifications  https://github.com/FluidSynth/fluidsynth 
+ fluidsynth  2.4.7  Software synthesizer based on the SoundFont 2 specifications  https://github.com/FluidSynth/fluidsynth 
  fm  1.1.0  A terminal based file manager  https://github.com/knipferrc/fm 
  fmt  1:11.1.4  Open-source formatting library for C++  https://fmt.dev/latest/index.html 
  fontconfig  2.17.1  Library for configuring and customizing font access  https://www.freedesktop.org/wiki/Software/fontconfig/ 
@@ -788,7 +788,7 @@
  just  1.42.1  A handy way to save and run project-specific commands  https://just.systems 
  jython  2.7.4  Python for the Java Platform  https://www.jython.org/ 
  k2pdfopt  2.55-3  A tool that optimizes PDF files for viewing on mobile readers  https://www.willus.com/k2pdfopt/ 
- k9s  0.50.7  Kubernetes CLI To Manage Your Clusters In Style!  https://k9scli.io 
+ k9s  0.50.8  Kubernetes CLI To Manage Your Clusters In Style!  https://k9scli.io 
  kainjow-mustache  4.1  Mustache implementation for modern C++  https://github.com/kainjow/Mustache 
  kakoune  2025.06.03-1  Code editor heavily inspired by Vim  https://kakoune.org/ 
  kakoune-lsp  18.2.0  Language Server Protocol Client for the Kakoune editor  https://github.com/kakoune-lsp/kakoune-lsp 
@@ -1808,7 +1808,7 @@
  octomap  1.10.0  An efficient probabilistic 3D mapping framework based on octrees  https://github.com/OctoMap/octomap 
  octomap-static  1.10.0  Static libraries for octomap  https://github.com/OctoMap/octomap 
  odt2txt  0.5-4  Simple converter from OpenDocument Text to plain text  https://github.com/dstosberg/odt2txt 
- oh-my-posh  26.14.3  A prompt theme engine for any shell.  https://ohmyposh.dev 
+ oh-my-posh  26.15.0  A prompt theme engine for any shell.  https://ohmyposh.dev 
  okc-agents  0.1.2  OpenKeychain agents for GnuPG and OpenSSH  https://github.com/DDoSolitary/okc-agents 
  ol  2.6-2  Purely functional dialect of Lisp  https://yuriy-chumak.github.io/ol/ 
  oleo  1.99.16-9  The GNU Spreadsheet  https://www.gnu.org/software/oleo/ 
@@ -2266,9 +2266,9 @@
  spglib  2.6.0  C library for finding and handling crystal symmetries  https://spglib.github.io/spglib/index.html 
  spidermonkey  128.10.0  Mozilla's JavaScript engine  https://spidermonkey.dev 
  spiped  1.6.4  a utility for creating symmetrically encrypted and authenticated pipes between socket addresses  https://www.tarsnap.com/spiped.html 
- spirv-headers  1.4.313.0  SPIR-V Headers  https://github.com/KhronosGroup/SPIRV-Headers 
+ spirv-headers  1.4.321.0  SPIR-V Headers  https://github.com/KhronosGroup/SPIRV-Headers 
  spirv-llvm-translator  20.1.4  SPIR-V LLVM Translator  https://github.com/KhronosGroup/SPIRV-LLVM-Translator 
- spirv-tools  1.4.313.0  SPIR-V Tools  https://github.com/KhronosGroup/SPIRV-Tools 
+ spirv-tools  1.4.321.0  SPIR-V Tools  https://github.com/KhronosGroup/SPIRV-Tools 
  sqlcipher  4.6.1  SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files  https://github.com/sqlcipher/sqlcipher 
  sqlcipher-static  4.6.1  Static libraries for sqlcipher  https://github.com/sqlcipher/sqlcipher 
  sqlite  3.50.2  Command line shell for SQLite  https://www.sqlite.org 
