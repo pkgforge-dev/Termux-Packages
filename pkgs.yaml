@@ -1715,7 +1715,7 @@
   Description: An enhanced, backward-compatible port of Thompson Shell
   Homepage: https://etsh.nl
 - Package: exercism
-  Version: 3.5.6
+  Version: 3.5.7
   Description: A Go based command line tool for exercism.io
   Homepage: https://github.com/exercism/cli/
 - Package: exfatprogs
@@ -2175,7 +2175,7 @@
   Description: The Forth implementation of the GNU project
   Homepage: https://www.gnu.org/software/gforth/
 - Package: gh
-  Version: 2.75.0
+  Version: 2.75.1
   Description: GitHub’s official command line tool
   Homepage: https://cli.github.com/
 - Package: ghc
@@ -3147,7 +3147,7 @@
   Description: User friendly full screen text editor
   Homepage: http://www.mirbsd.org/jupp.htm
 - Package: just
-  Version: 1.42.0
+  Version: 1.42.1
   Description: A handy way to save and run project-specific commands
   Homepage: https://just.systems
 - Package: jython
@@ -3231,7 +3231,7 @@
   Description: A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication
   Homepage: https://github.com/int128/kubelogin
 - Package: kubo
-  Version: 0.35.0
+  Version: 0.36.0
   Description: A peer-to-peer hypermedia distribution protocol
   Homepage: https://ipfs.io/
 - Package: ladspa-sdk
@@ -4615,11 +4615,11 @@
   Description: Static libraries for libmhash
   Homepage: https://mhash.sourceforge.net/
 - Package: libmicrohttpd
-  Version: 1.0.1
+  Version: 1.0.2
   Description: A small C library that is supposed to make it easy to run an HTTP server as part of another application
   Homepage: http://www.gnu.org/software/libmicrohttpd/
 - Package: libmicrohttpd-static
-  Version: 1.0.1
+  Version: 1.0.2
   Description: Static libraries for libmicrohttpd
   Homepage: http://www.gnu.org/software/libmicrohttpd/
 - Package: libminizip
@@ -6487,7 +6487,7 @@
   Description: Replaces your default ctrl-r shell history search with an intelligent search engine
   Homepage: https://github.com/cantino/mcfly
 - Package: mdbook
-  Version: 0.4.51
+  Version: 0.4.52
   Description: Creates book from markdown files
   Homepage: https://rust-lang.github.io/mdBook/
 - Package: mdbook-auto-gen-summary
@@ -10191,7 +10191,7 @@
   Description: Vulkan Loader for Android
   Homepage: https://source.android.com/devices/graphics/arch-vulkan
 - Package: vulkan-loader-generic
-  Version: 1.4.321
+  Version: 1.4.322
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools

@@ -439,7 +439,7 @@
 | **espeak-static** | 1.52.0 | Static libraries for espeak | https://github.com/espeak-ng/espeak-ng |
 | **et** | 6.2.9-4 | A remote shell that automatically reconnects without interrupting the session | https://eternalterminal.dev |
 | **etsh** | 5.4.0 | An enhanced, backward-compatible port of Thompson Shell | https://etsh.nl |
-| **exercism** | 3.5.6 | A Go based command line tool for exercism.io | https://github.com/exercism/cli/ |
+| **exercism** | 3.5.7 | A Go based command line tool for exercism.io | https://github.com/exercism/cli/ |
 | **exfatprogs** | 1.2.9 | exFAT filesystem userspace utilities | https://github.com/exfatprogs/exfatprogs |
 | **exhale** | 1.2.1.2 | Open source xHE-AAC encoder | https://gitlab.com/ecodis/exhale |
 | **exiftool** | 13.32 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
@@ -554,7 +554,7 @@
 | **gflags** | 2.2.2-9 | A C++ library that implements commandline flags processing | https://github.com/gflags/gflags |
 | **gflags-static** | 2.2.2-9 | Static libraries for gflags | https://github.com/gflags/gflags |
 | **gforth** | 0.7.3-1 | The Forth implementation of the GNU project | https://www.gnu.org/software/gforth/ |
-| **gh** | 2.75.0 | GitHub’s official command line tool | https://cli.github.com/ |
+| **gh** | 2.75.1 | GitHub’s official command line tool | https://cli.github.com/ |
 | **ghc** | 9.12.2 | The Glasgow Haskell Compiler | https://www.haskell.org/ghc/ |
 | **ghostscript** | 10.03.1-3 | Interpreter for the PostScript language and for PDF | https://www.ghostscript.com/ |
 | **giflib** | 5.2.2 | A library for reading and writing gif images | https://giflib.sourceforge.net/ |
@@ -797,7 +797,7 @@
 | **jsoncpp-static** | 1.9.6-1 | Static libraries for jsoncpp | https://github.com/open-source-parsers/jsoncpp |
 | **jump** | 0.51.0-3 | Jump helps you navigate in shell faster by learning your habits | https://github.com/gsamokovarov/jump |
 | **jupp** | 3.1jupp41-1 | User friendly full screen text editor | http://www.mirbsd.org/jupp.htm |
-| **just** | 1.42.0 | A handy way to save and run project-specific commands | https://just.systems |
+| **just** | 1.42.1 | A handy way to save and run project-specific commands | https://just.systems |
 | **jython** | 2.7.4 | Python for the Java Platform | https://www.jython.org/ |
 | **k2pdfopt** | 2.55-3 | A tool that optimizes PDF files for viewing on mobile readers | https://www.willus.com/k2pdfopt/ |
 | **k9s** | 0.50.7 | Kubernetes CLI To Manage Your Clusters In Style! | https://k9scli.io |
@@ -818,7 +818,7 @@
 | **kubecolor** | 0.5.1 | Colorize your kubectl output | https://github.com/kubecolor/kubecolor |
 | **kubectl** | 1.33.2 | Kubernetes.io client binary | https://kubernetes.io/ |
 | **kubelogin** | 1.34.0 | A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication | https://github.com/int128/kubelogin |
-| **kubo** | 0.35.0 | A peer-to-peer hypermedia distribution protocol | https://ipfs.io/ |
+| **kubo** | 0.36.0 | A peer-to-peer hypermedia distribution protocol | https://ipfs.io/ |
 | **ladspa-sdk** | 1.17-2 | Linux Audio Developer's Simple Plugin API | https://www.ladspa.org/ |
 | **lame** | 3.100-6 | High quality MPEG Audio Layer III (MP3) encoder - frontend | https://lame.sourceforge.io/ |
 | **lastpass-cli** | 1.6.1-2 | LastPass command line interface tool | https://lastpass.com/ |
@@ -1164,8 +1164,8 @@
 | **libmesode-static** | 0.10.1-4 | Static libraries for libmesode | https://github.com/boothj5/libmesode |
 | **libmhash** | 0.9.9.9-3 | A thread-safe hash library which provides a uniform interface to hash algorithms | https://mhash.sourceforge.net/ |
 | **libmhash-static** | 0.9.9.9-3 | Static libraries for libmhash | https://mhash.sourceforge.net/ |
-| **libmicrohttpd** | 1.0.1 | A small C library that is supposed to make it easy to run an HTTP server as part of another application | http://www.gnu.org/software/libmicrohttpd/ |
-| **libmicrohttpd-static** | 1.0.1 | Static libraries for libmicrohttpd | http://www.gnu.org/software/libmicrohttpd/ |
+| **libmicrohttpd** | 1.0.2 | A small C library that is supposed to make it easy to run an HTTP server as part of another application | http://www.gnu.org/software/libmicrohttpd/ |
+| **libmicrohttpd-static** | 1.0.2 | Static libraries for libmicrohttpd | http://www.gnu.org/software/libmicrohttpd/ |
 | **libminizip** | 1.3.1 | Mini zip and unzip based on zlib | https://www.winimage.com/zLibDll/minizip.html |
 | **libminizip-ng** | 4.0.10 | A zip manipulation library written in C | https://github.com/zlib-ng/minizip-ng |
 | **libminizip-static** | 1.3.1 | Static libraries for libminizip | https://www.winimage.com/zLibDll/minizip.html |
@@ -1632,7 +1632,7 @@
 | **mbedtls-static** | 3.6.4 | Static libraries for mbedtls | https://www.trustedfirmware.org/projects/mbed-tls/ |
 | **mc** | 4.8.33-1 | Midnight Commander - a powerful file manager | https://midnight-commander.org |
 | **mcfly** | 0.9.3 | Replaces your default ctrl-r shell history search with an intelligent search engine | https://github.com/cantino/mcfly |
-| **mdbook** | 0.4.51 | Creates book from markdown files | https://rust-lang.github.io/mdBook/ |
+| **mdbook** | 0.4.52 | Creates book from markdown files | https://rust-lang.github.io/mdBook/ |
 | **mdbook-auto-gen-summary** | 0.1.10 | A preprocessor and cli tool for mdbook to auto generate summary | https://github.com/cococolanosugar/mdbook-auto-gen-summary |
 | **mdbook-cat-prep** | 1.0.9 | A preprocessor for mdbook which provides teacher, subject, material and tag functionality | https://github.com/gjk-cat/cat-prep |
 | **mdbook-epub** | 0.4.48 | An EPUB renderer for mdbook | https://github.com/Michael-F-Bryan/mdbook-epub |
@@ -2558,7 +2558,7 @@
 | **vulkan-icd** | 0.1 | A metapackage that provides Vulkan ICDs | https://github.com/termux/termux-packages |
 | **vulkan-loader** | 0.0.3 | A metapackage that provides vulkan loader library | https://github.com/termux/termux-packages |
 | **vulkan-loader-android** | 27c | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
-| **vulkan-loader-generic** | 1.4.321 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
+| **vulkan-loader-generic** | 1.4.322 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
 | **vulkan-tools** | 1.4.321 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
 | **vulkan-utility-libraries** | 1.4.321 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
 | **vulkan-validation-layers** | 1.4.321 | Vulkan Validation Layers | https://github.com/KhronosGroup/Vulkan-ValidationLayers |
