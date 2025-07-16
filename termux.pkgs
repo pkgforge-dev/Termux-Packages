@@ -564,7 +564,7 @@
 | **gitoxide** | 0.44.0 | Rust implementation of Git | https://github.com/Byron/gitoxide |
 | **gitui** | 0.27.0-2 | Blazing fast terminal-ui for git written in rust | https://github.com/extrawurst/gitui |
 | **gkermit** | 2.01 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
-| **glab-cli** | 1.62.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
+| **glab-cli** | 1.63.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
 | **gleam** | 1.11.1 | A friendly language for building type-safe, scalable systems! | https://gleam.run |
 | **glib** | 2.84.3 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
 | **glib-cross** | 2.84.3 | glib for host (NOT for Termux) | https://developer.gnome.org/glib/ |
@@ -785,7 +785,7 @@
 | **jsoncpp-static** | 1.9.6-1 | Static libraries for jsoncpp | https://github.com/open-source-parsers/jsoncpp |
 | **jump** | 0.51.0-3 | Jump helps you navigate in shell faster by learning your habits | https://github.com/gsamokovarov/jump |
 | **jupp** | 3.1jupp41-1 | User friendly full screen text editor | http://www.mirbsd.org/jupp.htm |
-| **just** | 1.42.1 | A handy way to save and run project-specific commands | https://just.systems |
+| **just** | 1.42.2 | A handy way to save and run project-specific commands | https://just.systems |
 | **jython** | 2.7.4 | Python for the Java Platform | https://www.jython.org/ |
 | **k2pdfopt** | 2.55-3 | A tool that optimizes PDF files for viewing on mobile readers | https://www.willus.com/k2pdfopt/ |
 | **k9s** | 0.50.8 | Kubernetes CLI To Manage Your Clusters In Style! | https://k9scli.io |
@@ -1497,11 +1497,11 @@
 | **libxls** | 1.6.3 | A C library for reading Excel files in the nasty old binary OLE format | https://github.com/libxls/libxls |
 | **libxls-static** | 1.6.3 | Static libraries for libxls | https://github.com/libxls/libxls |
 | **libxlsxwriter** | 1.2.3 | A C library for creating Excel XLSX files | https://libxlsxwriter.github.io/ |
-| **libxml2** | 2.14.4 | Library for parsing XML documents | http://www.xmlsoft.org |
-| **libxml2-python** | 2.14.4 | Python bindings for libxml2 | http://www.xmlsoft.org |
-| **libxml2-python-static** | 2.14.4 | Static libraries for libxml2-python | http://www.xmlsoft.org |
-| **libxml2-static** | 2.14.4 | Static libraries for libxml2 | http://www.xmlsoft.org |
-| **libxml2-utils** | 2.14.4 | XML utilities | http://www.xmlsoft.org |
+| **libxml2** | 2.14.5 | Library for parsing XML documents | http://www.xmlsoft.org |
+| **libxml2-python** | 2.14.5 | Python bindings for libxml2 | http://www.xmlsoft.org |
+| **libxml2-python-static** | 2.14.5 | Static libraries for libxml2-python | http://www.xmlsoft.org |
+| **libxml2-static** | 2.14.5 | Static libraries for libxml2 | http://www.xmlsoft.org |
+| **libxml2-utils** | 2.14.5 | XML utilities | http://www.xmlsoft.org |
 | **libxmlb** | 0.3.22 | Library to help create and query binary XML blobs | https://github.com/hughsie/libxmlb |
 | **libxmlrpc** | 1.60.05 | XML-RPC for C and C++ | https://xmlrpc-c.sourceforge.io/ |
 | **libxmlrpc-static** | 1.60.05 | Static libraries for libxmlrpc | https://xmlrpc-c.sourceforge.io/ |
@@ -1833,9 +1833,9 @@
 | **openfoam** | 2412-2 | OpenFOAM is a CFD software written in C++ | https://www.openfoam.com |
 | **opengl** | 4.5 | A metapackage for OpenGL implementation | https://github.com/termux/termux-packages |
 | **openh264** | 2.6.0 | Codec library supporting H.264 encoding and decoding | https://www.openh264.org/ |
-| **openjdk-17** | 17.0.15-2 | Java development kit and runtime | https://openjdk.java.net |
-| **openjdk-17-source** | 17.0.15-2 | Source files for openjdk-17 | https://openjdk.java.net |
-| **openjdk-17-x** | 17.0.15-2 | Portion of openjdk-17 requiring X11 functionality | https://openjdk.java.net |
+| **openjdk-17** | 17.0.16 | Java development kit and runtime | https://openjdk.java.net |
+| **openjdk-17-source** | 17.0.16 | Source files for openjdk-17 | https://openjdk.java.net |
+| **openjdk-17-x** | 17.0.16 | Portion of openjdk-17 requiring X11 functionality | https://openjdk.java.net |
 | **openjdk-21** | 21.0.7-3 | Java development kit and runtime | https://openjdk.java.net |
 | **openjdk-21-source** | 21.0.7-3 | Source files for openjdk-21 | https://openjdk.java.net |
 | **openjdk-21-x** | 21.0.7-3 | Portion of openjdk-21 requiring X11 functionality | https://openjdk.java.net |

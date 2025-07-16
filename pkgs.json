@@ -3397,7 +3397,7 @@
   },
   {
     "Package": "glab-cli",
-    "Version": "1.62.0",
+    "Version": "1.63.0",
     "Description": "A GitLab CLI tool bringing GitLab to your command line",
     "Homepage": "https://gitlab.com/gitlab-org/cli"
   },
@@ -4723,7 +4723,7 @@
   },
   {
     "Package": "just",
-    "Version": "1.42.1",
+    "Version": "1.42.2",
     "Description": "A handy way to save and run project-specific commands",
     "Homepage": "https://just.systems"
   },
@@ -8995,31 +8995,31 @@
   },
   {
     "Package": "libxml2",
-    "Version": "2.14.4",
+    "Version": "2.14.5",
     "Description": "Library for parsing XML documents",
     "Homepage": "http://www.xmlsoft.org"
   },
   {
     "Package": "libxml2-python",
-    "Version": "2.14.4",
+    "Version": "2.14.5",
     "Description": "Python bindings for libxml2",
     "Homepage": "http://www.xmlsoft.org"
   },
   {
     "Package": "libxml2-python-static",
-    "Version": "2.14.4",
+    "Version": "2.14.5",
     "Description": "Static libraries for libxml2-python",
     "Homepage": "http://www.xmlsoft.org"
   },
   {
     "Package": "libxml2-static",
-    "Version": "2.14.4",
+    "Version": "2.14.5",
     "Description": "Static libraries for libxml2",
     "Homepage": "http://www.xmlsoft.org"
   },
   {
     "Package": "libxml2-utils",
-    "Version": "2.14.4",
+    "Version": "2.14.5",
     "Description": "XML utilities",
     "Homepage": "http://www.xmlsoft.org"
   },
@@ -11011,19 +11011,19 @@
   },
   {
     "Package": "openjdk-17",
-    "Version": "17.0.15-2",
+    "Version": "17.0.16",
     "Description": "Java development kit and runtime",
     "Homepage": "https://openjdk.java.net"
   },
   {
     "Package": "openjdk-17-source",
-    "Version": "17.0.15-2",
+    "Version": "17.0.16",
     "Description": "Source files for openjdk-17",
     "Homepage": "https://openjdk.java.net"
   },
   {
     "Package": "openjdk-17-x",
-    "Version": "17.0.15-2",
+    "Version": "17.0.16",
     "Description": "Portion of openjdk-17 requiring X11 functionality",
     "Homepage": "https://openjdk.java.net"
   },
