@@ -1995,7 +1995,7 @@
   Description: A fast reverse proxy to expose a local server behind a NAT or firewall to the internet
   Homepage: https://github.com/fatedier/frp
 - Package: fselect
-  Version: 0.8.12
+  Version: 0.9.0
   Description: Find files with SQL-like queries
   Homepage: https://fselect.rocks/
 - Package: fsmon
@@ -3027,7 +3027,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.2159
+  Version: 0.22.2161
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: janet
@@ -3223,7 +3223,7 @@
   Description: Colorize your kubectl output
   Homepage: https://github.com/kubecolor/kubecolor
 - Package: kubectl
-  Version: 1.33.2
+  Version: 1.33.3
   Description: Kubernetes.io client binary
   Homepage: https://kubernetes.io/
 - Package: kubelogin
@@ -6459,7 +6459,7 @@
   Description: A Matrix-WhatsApp puppeting bridge
   Homepage: https://maunium.net/go/mautrix-whatsapp/
 - Package: maven
-  Version: 3.9.10
+  Version: 3.9.11
   Description: A Java software project management and comprehension tool
   Homepage: https://maven.apache.org/
 - Package: maxcso
@@ -7143,11 +7143,11 @@
   Description: This project provides a command line tool called nms that recreates the famous data decryption effect.
   Homepage: https://github.com/bartobri/no-more-secrets
 - Package: nodejs
-  Version: 24.4.0
+  Version: 24.4.1
   Description: Open Source, cross-platform JavaScript runtime environment
   Homepage: https://nodejs.org/
 - Package: nodejs-lts
-  Version: 22.17.0
+  Version: 22.17.1
   Description: Open Source, cross-platform JavaScript runtime environment
   Homepage: https://nodejs.org/
 - Package: notcurses
@@ -9427,7 +9427,7 @@
   Description: Telegram messenger CLI
   Homepage: https://github.com/vysheng/tg
 - Package: teleport-tsh
-  Version: 18.0.0
+  Version: 18.0.1
   Description: Secure Access for Developers that doesnt get in the way
   Homepage: https://github.com/gravitational/teleport
 - Package: tenki-php
