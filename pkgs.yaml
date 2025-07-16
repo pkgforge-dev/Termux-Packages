@@ -1159,7 +1159,7 @@
   Description: Static libraries for cups
   Homepage: https://www.cups.org/
 - Package: curl
-  Version: 8.14.1
+  Version: 8.15.0
   Description: Command line tool for transferring data with URL syntax
   Homepage: https://curl.se/
 - Package: curlie
@@ -2251,7 +2251,7 @@
   Description: Extend git with Vincent Driessens branching model. The AVH Edition adds more functionality.
   Homepage: https://github.com/petervanderdoes/gitflow/
 - Package: gitoxide
-  Version: 0.44.0
+  Version: 0.45.0
   Description: Rust implementation of Git
   Homepage: https://github.com/Byron/gitoxide
 - Package: gitui
@@ -3755,11 +3755,11 @@
   Description: Static libraries for libcunit
   Homepage: https://sourceforge.net/projects/cunit/
 - Package: libcurl
-  Version: 8.14.1
+  Version: 8.15.0
   Description: Easy-to-use client-side URL transfer library
   Homepage: https://curl.se/
 - Package: libcurl-static
-  Version: 8.14.1
+  Version: 8.15.0
   Description: Static libraries for libcurl
   Homepage: https://curl.se/
 - Package: libczmq
@@ -4743,11 +4743,11 @@
   Description: Static libraries for libncnn
   Homepage: https://github.com/Tencent/ncnn
 - Package: libneon
-  Version: 0.34.2
+  Version: 0.35.0
   Description: An HTTP/1.1 and WebDAV client library, with a C interface
   Homepage: https://notroj.github.io/neon/
 - Package: libneon-static
-  Version: 0.34.2
+  Version: 0.35.0
   Description: Static libraries for libneon
   Homepage: https://notroj.github.io/neon/
 - Package: libnet
@@ -5683,11 +5683,11 @@
   Description: Static libraries for libudfread
   Homepage: https://code.videolan.org/videolan/libudfread/
 - Package: libunbound
-  Version: 1.23.0-1
+  Version: 1.23.1
   Description: A validating, recursive, caching DNS resolver
   Homepage: https://unbound.net/
 - Package: libunbound-static
-  Version: 1.23.0-1
+  Version: 1.23.1
   Description: Static libraries for libunbound
   Homepage: https://unbound.net/
 - Package: libunibilium
@@ -7239,7 +7239,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 26.15.0
+  Version: 26.16.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -8191,7 +8191,7 @@
   Description: Static libraries for python2
   Homepage: http://python.org/
 - Package: pyunbound
-  Version: 1.23.0-1
+  Version: 1.23.1
   Description: Python bindings for Unbound
   Homepage: https://unbound.net/
 - Package: pzstd
@@ -9899,7 +9899,7 @@
   Description: Command line tools for archive and file unarchiving and extraction
   Homepage: https://theunarchiver.com/command-line
 - Package: unbound
-  Version: 1.23.0-1
+  Version: 1.23.1
   Description: Unbound command-line tools
   Homepage: https://unbound.net/
 - Package: unicode-data
