@@ -645,12 +645,12 @@
  gsl  2.8  GNU Scientific Library (GSL) providing a wide range of mathematical routines  https://www.gnu.org/software/gsl/ 
  gsl-static  2.8  Static libraries for gsl  https://www.gnu.org/software/gsl/ 
  gst-libav  1.26.3  GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code  https://gstreamer.freedesktop.org/modules/gst-libav.html 
- gst-plugins-bad  1.26.3  GStreamer Bad Plug-ins  https://gstreamer.freedesktop.org/ 
+ gst-plugins-bad  1.26.4  GStreamer Bad Plug-ins  https://gstreamer.freedesktop.org/ 
  gst-plugins-base  1.26.3  GStreamer base plug-ins  https://gstreamer.freedesktop.org/ 
- gst-plugins-good  1.26.3  GStreamer Good Plug-ins  https://gstreamer.freedesktop.org/ 
- gst-plugins-ugly  1.26.3  GStreamer Ugly Plug-ins  https://gstreamer.freedesktop.org/ 
+ gst-plugins-good  1.26.4  GStreamer Good Plug-ins  https://gstreamer.freedesktop.org/ 
+ gst-plugins-ugly  1.26.4  GStreamer Ugly Plug-ins  https://gstreamer.freedesktop.org/ 
  gst-python  1.26.3  Python bindings for GStreamer  https://gstreamer.freedesktop.org/ 
- gstreamer  1.26.3  Open source multimedia framework  https://gstreamer.freedesktop.org/ 
+ gstreamer  1.26.4  Open source multimedia framework  https://gstreamer.freedesktop.org/ 
  gtypist  2.10.1  Universal typing tutor  https://www.gnu.org/software/gtypist/ 
  guile  3.0.9-2  Portable, embeddable Scheme implementation written in C  http://www.gnu.org/software/guile/ 
  guile-static  3.0.9-2  Static libraries for guile  http://www.gnu.org/software/guile/ 
@@ -1679,7 +1679,7 @@
  mlocate  0.26-5  Tool to find files anywhere in the filesystem based on their name  https://pagure.io/mlocate 
  moar  1.32.3  A pager designed to just do the right thing without any configuration  https://github.com/walles/moar 
  mold  2.40.2  mold: A Modern Linker  https://github.com/rui314/mold 
- monero  0.18.4.0  A private, secure, untraceable, decentralised digital currency  https://getmonero.org/ 
+ monero  0.18.4.1  A private, secure, untraceable, decentralised digital currency  https://getmonero.org/ 
  mono  6.14.1  Framework Mono  https://gitlab.winehq.org/mono/mono 
  mono-libs  6.14.1  Platform-independent libraries for mono  https://gitlab.winehq.org/mono/mono 
  mono-static  6.14.1  Static libraries for mono  https://gitlab.winehq.org/mono/mono 
@@ -1865,8 +1865,8 @@
  ossp-uuid  1.6.2-3  ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122.  http://www.ossp.org/pkg/lib/uuid/ 
  ossp-uuid-static  1.6.2-3  Static libraries for ossp-uuid  http://www.ossp.org/pkg/lib/uuid/ 
  ovmf  20231122-16.fc40-0  Open Virtual Machine Firmware  https://www.tianocore.org/ 
- oxc-language-server  1.6.0  Oxc JavaScript linter language server  https://oxc.rs/ 
- oxlint  1.6.0  Oxc JavaScript linter  https://oxc.rs/ 
+ oxc-language-server  1.7.0  Oxc JavaScript linter language server  https://oxc.rs/ 
+ oxlint  1.7.0  Oxc JavaScript linter  https://oxc.rs/ 
  p11-kit  0.25.5  Provides a way to load and enumerate PKCS#11 modules  https://p11-glue.github.io/p11-glue/p11-kit.html 
  p7zip  17.06  Command-line version of the 7zip compressed file archiver  https://github.com/p7zip-project/p7zip 
  pacman  7.0.0-3  A library-based package manager with dependency support  https://archlinux.org/pacman/ 

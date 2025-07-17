@@ -2587,7 +2587,7 @@
   Description: GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code
   Homepage: https://gstreamer.freedesktop.org/modules/gst-libav.html
 - Package: gst-plugins-bad
-  Version: 1.26.3
+  Version: 1.26.4
   Description: GStreamer Bad Plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-plugins-base
@@ -2595,11 +2595,11 @@
   Description: GStreamer base plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-plugins-good
-  Version: 1.26.3
+  Version: 1.26.4
   Description: GStreamer Good Plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-plugins-ugly
-  Version: 1.26.3
+  Version: 1.26.4
   Description: GStreamer Ugly Plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-python
@@ -2607,7 +2607,7 @@
   Description: Python bindings for GStreamer
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gstreamer
-  Version: 1.26.3
+  Version: 1.26.4
   Description: Open source multimedia framework
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gtypist
@@ -6723,7 +6723,7 @@
   Description: 'mold: A Modern Linker'
   Homepage: https://github.com/rui314/mold
 - Package: monero
-  Version: 0.18.4.0
+  Version: 0.18.4.1
   Description: A private, secure, untraceable, decentralised digital currency
   Homepage: https://getmonero.org/
 - Package: mono
@@ -7467,11 +7467,11 @@
   Description: Open Virtual Machine Firmware
   Homepage: https://www.tianocore.org/
 - Package: oxc-language-server
-  Version: 1.6.0
+  Version: 1.7.0
   Description: Oxc JavaScript linter language server
   Homepage: https://oxc.rs/
 - Package: oxlint
-  Version: 1.6.0
+  Version: 1.7.0
   Description: Oxc JavaScript linter
   Homepage: https://oxc.rs/
 - Package: p11-kit
