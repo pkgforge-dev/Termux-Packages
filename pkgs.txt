@@ -15,7 +15,7 @@
  abseil-cpp  20250127.1  Abseil C++ Common Libraries  https://abseil.io/ 
  ack-grep  3.8.1  Tool like grep optimized for programmers  https://beyondgrep.com/ 
  acr  2.2.2  A fully compatible autoconf replacement  https://github.com/radareorg/acr 
- ada  3.2.5  WHATWG-compliant and fast URL parser written in modern C++  https://github.com/ada-url/ada 
+ ada  3.2.6  WHATWG-compliant and fast URL parser written in modern C++  https://github.com/ada-url/ada 
  adms  2.3.7  A code generator for the Verilog-AMS language  https://github.com/qucs/adms 
  aerc  0.20.1  A pretty good email client  https://aerc-mail.org/ 
  agate  3.3.17  Very simple server for the Gemini hypertext protocol  https://github.com/mbrubeck/agate 
@@ -183,7 +183,7 @@
  ca-certificates  1:2025.05.20  Common CA certificates  https://curl.se/docs/caextract.html 
  ca-certificates-java  1:2025.05.20  Common CA certificates (java keystore format)  https://curl.se/docs/caextract.html 
  cabextract  1.11  A program to extract Microsoft cabinet (.CAB) files  https://www.cabextract.org.uk/ 
- cadaver  0.26  A command-line WebDAV client for Unix  https://notroj.github.io/cadaver/ 
+ cadaver  0.27  A command-line WebDAV client for Unix  https://notroj.github.io/cadaver/ 
  caddy  2.10.0  Fast, cross-platform HTTP/2 web server  https://caddyserver.com/ 
  calc  2.15.1.1  Arbitrary precision console calculator  http://www.isthe.com/chongo/tech/comp/calc/ 
  calcurse  4.8.1-1  calcurse is a calendar and scheduling application for the command line  https://calcurse.org/ 
@@ -755,7 +755,7 @@
  jack  0.0.1  A metapackage that provides JACK Audio Connection Kit  https://github.com/termux/termux-packages 
  jack-example-tools  4  Official JACK example clients and tools  https://jackaudio.org/ 
  jack2  1.9.22-1  The JACK low-latency audio server  https://jackaudio.org/ 
- jackett  0.22.2161  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
+ jackett  0.22.2162  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
  janet  1.38.0  Janet is a dialect of Lisp intended for embedding into programs and such  https://janet-lang.org 
  jbig2dec  0.20  Decoder implementation of the JBIG2 image compression format  https://jbig2dec.com/ 
  jbig2dec-static  0.20  Static libraries for jbig2dec  https://jbig2dec.com/ 
@@ -1808,7 +1808,7 @@
  octomap  1.10.0  An efficient probabilistic 3D mapping framework based on octrees  https://github.com/OctoMap/octomap 
  octomap-static  1.10.0  Static libraries for octomap  https://github.com/OctoMap/octomap 
  odt2txt  0.5-4  Simple converter from OpenDocument Text to plain text  https://github.com/dstosberg/odt2txt 
- oh-my-posh  26.16.0  A prompt theme engine for any shell.  https://ohmyposh.dev 
+ oh-my-posh  26.16.1  A prompt theme engine for any shell.  https://ohmyposh.dev 
  okc-agents  0.1.2  OpenKeychain agents for GnuPG and OpenSSH  https://github.com/DDoSolitary/okc-agents 
  ol  2.6-2  Purely functional dialect of Lisp  https://yuriy-chumak.github.io/ol/ 
  oleo  1.99.16-9  The GNU Spreadsheet  https://www.gnu.org/software/oleo/ 
@@ -2086,7 +2086,7 @@
  rage  0.11.1  A simple, secure and modern encryption tool  https://age-encryption.org/v1 
  ragel  7.0.4  Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code  https://www.colm.net/open-source/ragel/ 
  ragel-static  7.0.4  Static libraries for ragel  https://www.colm.net/open-source/ragel/ 
- railway-cli  4.5.4  This is the command line interface for Railway  https://railway.app 
+ railway-cli  4.5.5  This is the command line interface for Railway  https://railway.app 
  range-v3  0.12.0  Range library for C++14/17/20, basis for C++20's std::ranges  https://github.com/ericniebler/range-v3 
  ranger  1.9.4  File manager with VI key bindings  https://ranger.github.io/ 
  rapidjson  1.1.0-5  Fast JSON parser/generator for C++ with SAX/DOM style API  https://github.com/Tencent/rapidjson/ 

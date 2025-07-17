@@ -67,7 +67,7 @@
   Description: A fully compatible autoconf replacement
   Homepage: https://github.com/radareorg/acr
 - Package: ada
-  Version: 3.2.5
+  Version: 3.2.6
   Description: WHATWG-compliant and fast URL parser written in modern C++
   Homepage: https://github.com/ada-url/ada
 - Package: adms
@@ -739,7 +739,7 @@
   Description: A program to extract Microsoft cabinet (.CAB) files
   Homepage: https://www.cabextract.org.uk/
 - Package: cadaver
-  Version: "0.26"
+  Version: "0.27"
   Description: A command-line WebDAV client for Unix
   Homepage: https://notroj.github.io/cadaver/
 - Package: caddy
@@ -3027,7 +3027,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.2161
+  Version: 0.22.2162
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: janet
@@ -7239,7 +7239,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 26.16.0
+  Version: 26.16.1
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -8351,7 +8351,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 4.5.4
+  Version: 4.5.5
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
