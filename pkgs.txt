@@ -420,8 +420,8 @@
  enchant-static  2.8.10  Static libraries for enchant  https://rrthomas.github.io/enchant/ 
  enscript  1.6.6-12  Enscript converts ASCII text files to PostScript, HTML, RTF, ANSI and overstrikes  https://www.gnu.org/software/enscript/ 
  entr  5.7  Event Notify Test Runner - run arbitrary commands when files change  https://eradman.com/entrproject/ 
- erlang  28.0.1  General-purpose concurrent functional programming language  https://www.erlang.org/ 
- erlang-doc  28.0.1  Erlang HTML documentation  https://www.erlang.org/ 
+ erlang  28.0.2  General-purpose concurrent functional programming language  https://www.erlang.org/ 
+ erlang-doc  28.0.2  Erlang HTML documentation  https://www.erlang.org/ 
  esbuild  0.25.6  An extremely fast JavaScript bundler  https://esbuild.github.io/ 
  espeak  1.52.0  Compact software speech synthesizer  https://github.com/espeak-ng/espeak-ng 
  espeak-static  1.52.0  Static libraries for espeak  https://github.com/espeak-ng/espeak-ng 
@@ -2030,7 +2030,7 @@
  python-pyarrow  20.0.0  Python bindings for Apache Arrow  https://github.com/apache/arrow 
  python-pycryptodomex  3.23.0  A self-contained Python package of low-level cryptographic primitives  https://www.pycryptodome.org/ 
  python-pynvim  0.5.2  Python client for Neovim  https://github.com/neovim/pynvim 
- python-ruff  0.12.3  An extremely fast Python linter, written in Rust (Python bindings)  https://github.com/charliermarsh/ruff 
+ python-ruff  0.12.4  An extremely fast Python linter, written in Rust (Python bindings)  https://github.com/charliermarsh/ruff 
  python-sabyenc3  8.2.5-1  C implementations of functions for use within SABnzbd  https://github.com/sabnzbd/sabctools 
  python-skia-pathops  0.8.0-1  Python bindings for the Skia library's Path Ops  https://github.com/fonttools/skia-pathops 
  python-static  3.12.11  Static libraries for python  https://python.org/ 
@@ -2156,7 +2156,7 @@
  rubiks-cube  1.2  A rubik's cube that runs in your terminal  https://github.com/been-jamming/rubiks_cube 
  ruby  3.4.1-1  Dynamic programming language with a focus on simplicity and productivity  https://www.ruby-lang.org/ 
  ruby-ri  3.4.1-1  Ruby documentation index  https://www.ruby-lang.org/ 
- ruff  0.12.3  An extremely fast Python linter, written in Rust  https://github.com/charliermarsh/ruff 
+ ruff  0.12.4  An extremely fast Python linter, written in Rust  https://github.com/charliermarsh/ruff 
  runit  2.1.2-3  Tools to provide service supervision and to manage services  http://smarden.org/runit 
  runit-static  2.1.2-3  Static libraries for runit  http://smarden.org/runit 
  rush  0.7.0  A cross-platform command-line tool for executing jobs in parallel  https://github.com/shenwei356/rush 
@@ -2301,7 +2301,7 @@
  stoken  0.93-2  Software Token for Linux/UNIX  https://github.com/cernekee/stoken 
  stoken-static  0.93-2  Static libraries for stoken  https://github.com/cernekee/stoken 
  stone  2.4-2  A TCP/IP repeater in the application layer  https://www.gcd.org/sengoku/stone/ 
- storj-uplink  1.130.8  Storj DCS Uplink CLI  https://www.storj.io/integrations/uplink-cli 
+ storj-uplink  1.131.7  Storj DCS Uplink CLI  https://www.storj.io/integrations/uplink-cli 
  stow  2.4.1  Tool for managing the installation of multiple software packages into a single directory  https://www.gnu.org/software/stow/ 
  strace  6.15  Debugging utility to monitor system calls and signals received  https://strace.io/ 
  streamripper  1.64.6-2  Records and splits streaming mp3 into tracks  http://streamripper.sourceforge.net/ 
@@ -2501,7 +2501,7 @@
  util-linux-static  2.40.2-4  Static libraries for util-linux  https://en.wikipedia.org/wiki/Util-linux 
  uucp  1.07-1  The standard UUCP package of the Free Software Foundation  https://www.airs.com/ian/uucp.html 
  uuid-utils  2.40.2-4  Utilities for handling universally unique identifiers  https://en.wikipedia.org/wiki/Util-linux 
- uv  0.7.21  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
+ uv  0.7.22  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
  uwsgi  2.0.30  uWSGI application server container  https://projects.unbit.it/uwsgi 
  v2ray  5.37.0  A platform for building proxies to bypass network restrictions  https://www.v2fly.org/ 
  valac  0.56.18  C# like language for the GObject system  https://wiki.gnome.org/Projects/Vala 

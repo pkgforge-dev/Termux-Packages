@@ -1687,11 +1687,11 @@
   Description: Event Notify Test Runner - run arbitrary commands when files change
   Homepage: https://eradman.com/entrproject/
 - Package: erlang
-  Version: 28.0.1
+  Version: 28.0.2
   Description: General-purpose concurrent functional programming language
   Homepage: https://www.erlang.org/
 - Package: erlang-doc
-  Version: 28.0.1
+  Version: 28.0.2
   Description: Erlang HTML documentation
   Homepage: https://www.erlang.org/
 - Package: esbuild
@@ -8127,7 +8127,7 @@
   Description: Python client for Neovim
   Homepage: https://github.com/neovim/pynvim
 - Package: python-ruff
-  Version: 0.12.3
+  Version: 0.12.4
   Description: An extremely fast Python linter, written in Rust (Python bindings)
   Homepage: https://github.com/charliermarsh/ruff
 - Package: python-sabyenc3
@@ -8631,7 +8631,7 @@
   Description: Ruby documentation index
   Homepage: https://www.ruby-lang.org/
 - Package: ruff
-  Version: 0.12.3
+  Version: 0.12.4
   Description: An extremely fast Python linter, written in Rust
   Homepage: https://github.com/charliermarsh/ruff
 - Package: runit
@@ -9211,7 +9211,7 @@
   Description: A TCP/IP repeater in the application layer
   Homepage: https://www.gcd.org/sengoku/stone/
 - Package: storj-uplink
-  Version: 1.130.8
+  Version: 1.131.7
   Description: Storj DCS Uplink CLI
   Homepage: https://www.storj.io/integrations/uplink-cli
 - Package: stow
@@ -10011,7 +10011,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.7.21
+  Version: 0.7.22
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
