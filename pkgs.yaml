@@ -963,7 +963,7 @@
   Description: A tool which profiles OpenCL devices to find their peak capacities
   Homepage: https://github.com/krrishnarraj/clpeak
 - Package: clvk
-  Version: 0.0.20250703.065636
+  Version: 0.0.20250714.081613
   Description: Experimental implementation of OpenCL on Vulkan
   Homepage: https://github.com/kpet/clvk
 - Package: cmake
@@ -1747,7 +1747,7 @@
   Description: Tool for automating interactive terminal applications
   Homepage: https://core.tcl.tk/expect/index
 - Package: eza
-  Version: 0.22.1
+  Version: 0.23.0
   Description: A modern replacement for ls
   Homepage: https://github.com/eza-community/eza
 - Package: fact++
@@ -1943,7 +1943,7 @@
   Description: ForestDB dump tool
   Homepage: https://github.com/couchbase/forestdb
 - Package: forgejo
-  Version: 11.0.3
+  Version: 12.0.0
   Description: Forgejo is a self-hosted lightweight software forge.
   Homepage: https://forgejo.org/
 - Package: fortune

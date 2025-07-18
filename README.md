@@ -251,7 +251,7 @@
 | **cloneit** | 20240728 | A cli tool to download specific GitHub directories or files | https://github.com/alok8bb/cloneit |
 | **cloudflared** | 2025.7.0 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
 | **clpeak** | 1.1.4 | A tool which profiles OpenCL devices to find their peak capacities | https://github.com/krrishnarraj/clpeak |
-| **clvk** | 0.0.20250703.065636 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
+| **clvk** | 0.0.20250714.081613 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
 | **cmake** | 4.0.3 | Family of tools designed to build, test and package software | https://cmake.org/ |
 | **cmake-curses-gui** | 4.0.3 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
 | **cmark** | 0.31.1 | CommonMark parsing and rendering program | https://github.com/commonmark/cmark |
@@ -447,7 +447,7 @@
 | **exiftool** | 13.32 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
 | **exiv2** | 2:0.28.5 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **expect** | 5.45.4-3 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
-| **eza** | 0.22.1 | A modern replacement for ls | https://github.com/eza-community/eza |
+| **eza** | 0.23.0 | A modern replacement for ls | https://github.com/eza-community/eza |
 | **fact++** | 1.6.5-2 | Re-implementation of the well-known FaCT Description Logic (DL) Reasoner | https://bitbucket.org/dtsarkov/factplusplus |
 | **fakeroot** | 1.37.1.2 | Tool for simulating superuser privileges (with tcp ipc) | https://packages.qa.debian.org/f/fakeroot.html |
 | **fakeroot-static** | 1.37.1.2 | Static libraries for fakeroot | https://packages.qa.debian.org/f/fakeroot.html |
@@ -496,7 +496,7 @@
 | **fontconfig-static** | 2.17.1 | Static libraries for fontconfig | https://www.freedesktop.org/wiki/Software/fontconfig/ |
 | **fontconfig-utils** | 2.17.1 | Fontconfig binaries | https://www.freedesktop.org/wiki/Software/fontconfig/ |
 | **forestdb-dump** | 1.2-1 | ForestDB dump tool | https://github.com/couchbase/forestdb |
-| **forgejo** | 11.0.3 | Forgejo is a self-hosted lightweight software forge. | https://forgejo.org/ |
+| **forgejo** | 12.0.0 | Forgejo is a self-hosted lightweight software forge. | https://forgejo.org/ |
 | **fortune** | 1.2-1 | Revealer of fortunes | https://www.fefe.de/fortune/ |
 | **fossil** | 2.26 | DSCM with built-in wiki, http interface and server, tickets database | https://www.fossil-scm.org |
 | **freecolor** | 0.9.3 | Freecolor is a replacement for Linux that displays free memory graphically | http://rkeene.org/oss/freecolor/ |
