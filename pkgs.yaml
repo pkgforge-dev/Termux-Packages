@@ -3027,9 +3027,17 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.2162
+  Version: 0.22.2163
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
+- Package: jadx
+  Version: 1.5.2
+  Description: Dex to Java decompiler
+  Homepage: https://github.com/skylot/jadx
+- Package: jadx-x
+  Version: 1.5.2
+  Description: Dex to Java decompiler GUI
+  Homepage: https://github.com/skylot/jadx
 - Package: janet
   Version: 1.38.0
   Description: Janet is a dialect of Lisp intended for embedding into programs and such
@@ -3303,7 +3311,7 @@
   Description: A real-time word puzzle for text terminals
   Homepage: https://www.kyne.au/~mark/software/lexter.php
 - Package: lf
-  Version: "35"
+  Version: "36"
   Description: Terminal file manager
   Homepage: https://github.com/gokcehan/lf
 - Package: lftp
@@ -4651,7 +4659,7 @@
   Description: Static libraries for libmodplug
   Homepage: http://modplug-xmms.sourceforge.net/
 - Package: libmosquitto
-  Version: 2.0.22
+  Version: 2.0.22-1
   Description: MQTT library
   Homepage: https://mosquitto.org/
 - Package: libmount
@@ -5167,7 +5175,7 @@
   Description: Static libraries for libraw
   Homepage: https://www.libraw.org/
 - Package: libre2
-  Version: 2025-06-26b-0
+  Version: 2025-07-17-0
   Description: A regular expression library
   Homepage: https://github.com/google/re2
 - Package: libregexp-assemble-perl
@@ -5851,7 +5859,7 @@
   Description: A library containing the AudioProcessing module from the WebRTC project
   Homepage: https://www.freedesktop.org/software/pulseaudio/webrtc-audio-processing/
 - Package: libwebsockets
-  Version: 4.3.5
+  Version: 4.4.1
   Description: Lightweight C websockets library
   Homepage: https://libwebsockets.org
 - Package: libwolfssl
@@ -6771,7 +6779,7 @@
   Description: The mosh Perl script
   Homepage: https://mosh.org
 - Package: mosquitto
-  Version: 2.0.22
+  Version: 2.0.22-1
   Description: MQTT version 3.1/3.1.1 compatible message broker and clients
   Homepage: https://mosquitto.org/
 - Package: most
@@ -8787,11 +8795,11 @@
   Description: StarDict Console Version
   Homepage: http://dushistov.github.io/sdcv/
 - Package: seafile-client
-  Version: 9.0.14
+  Version: 9.0.14-1
   Description: Seafile is a file syncing and sharing software with file encryption and group sharing
   Homepage: https://seafile.com
 - Package: seafile-client-static
-  Version: 9.0.14
+  Version: 9.0.14-1
   Description: Static libraries for seafile-client
   Homepage: https://seafile.com
 - Package: seanime
@@ -9819,7 +9827,7 @@
   Description: ttyd protocol client
   Homepage: https://github.com/Depau/ttyc
 - Package: ttyd
-  Version: 1.7.7
+  Version: 1.7.7-1
   Description: Command-line tool for sharing terminal over the web
   Homepage: https://tsl0922.github.io/ttyd/
 - Package: ttyper
@@ -10407,7 +10415,7 @@
   Description: A command-line tool for converting XLS to CSV
   Homepage: https://github.com/libxls/libxls
 - Package: xmake
-  Version: 3.0.0
+  Version: 3.0.1
   Description: A cross-platform build utility based on Lua
   Homepage: https://xmake.io/
 - Package: xmlsec
