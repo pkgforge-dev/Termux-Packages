@@ -650,7 +650,7 @@
 | **grex** | 1.4.5 | Simplifies the task of creating regular expressions | https://github.com/pemistahl/grex |
 | **groff** | 1.23.0-1 | typesetting system that reads plain text mixed with formatting commands and produces formatted output | https://www.gnu.org/software/groff/ |
 | **gron** | 0.7.1-3 | Transforms JSON into discrete assignments | https://github.com/tomnomnom/gron |
-| **groonga** | 15.1.2 | An embeddable fulltext search engine | https://github.com/groonga/groonga/ |
+| **groonga** | 15.1.3 | An embeddable fulltext search engine | https://github.com/groonga/groonga/ |
 | **groovy** | 4.0.26-3 | A powerful multi-faceted programming language for the JVM platform | https://groovy-lang.org/ |
 | **gsasl** | 2.2.2 | GNU SASL library command line interface | https://www.gnu.org/software/gsasl |
 | **gsf-tools** | 1.14.53-1 | Command-line tools for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
@@ -878,7 +878,7 @@
 | **libapt-pkg-perl** | 0.1.40-10 | Perl interface to APT's libapt-pkg | https://packages.debian.org/libapt-pkg-perl |
 | **libarchive** | 3.8.1 | Multi-format archive and compression library | https://www.libarchive.org/ |
 | **libarchive-static** | 3.8.1 | Static libraries for libarchive | https://www.libarchive.org/ |
-| **libarrow-cpp** | 20.0.0 | C++ libraries for Apache Arrow | https://github.com/apache/arrow |
+| **libarrow-cpp** | 21.0.0 | C++ libraries for Apache Arrow | https://github.com/apache/arrow |
 | **libasio** | 1.24.0-2 | Cross-platform C++ library for network and low-level I/O programming | https://think-async.com/Asio |
 | **libasm** | 0.192 | Library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |
 | **libasm-static** | 0.192 | Static library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |
@@ -2041,7 +2041,7 @@
 | **python-onnxruntime** | 1.22.1 | Cross-platform, high performance ML inferencing and training accelerator | https://onnxruntime.ai/ |
 | **python-pillow** | 11.1.0-1 | Python Imaging Library | https://python-pillow.org/ |
 | **python-pip** | 25.1.1-1 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
-| **python-pyarrow** | 20.0.0 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
+| **python-pyarrow** | 21.0.0 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
 | **python-pycryptodomex** | 3.23.0 | A self-contained Python package of low-level cryptographic primitives | https://www.pycryptodome.org/ |
 | **python-pynvim** | 0.5.2 | Python client for Neovim | https://github.com/neovim/pynvim |
 | **python-ruff** | 0.12.4 | An extremely fast Python linter, written in Rust (Python bindings) | https://github.com/charliermarsh/ruff |
