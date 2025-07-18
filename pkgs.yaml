@@ -771,7 +771,7 @@
   Description: Static libraries for capstone
   Homepage: https://www.capstone-engine.org/
 - Package: carapace
-  Version: 1.3.3
+  Version: 1.4.0
   Description: Multi-shell multi-command argument completer
   Homepage: https://carapace.sh/
 - Package: cargo-c
@@ -2175,7 +2175,7 @@
   Description: The Forth implementation of the GNU project
   Homepage: https://www.gnu.org/software/gforth/
 - Package: gh
-  Version: 2.75.1
+  Version: 2.76.0
   Description: GitHub’s official command line tool
   Homepage: https://cli.github.com/
 - Package: ghc
@@ -3703,7 +3703,7 @@
   Description: Static libraries for libcoinor-utils
   Homepage: https://github.com/coin-or/CoinUtils
 - Package: libcommons-lang3-java
-  Version: 3.17.0
+  Version: 3.18.0
   Description: A host of helper utilities for the java.lang API
   Homepage: https://commons.apache.org/proper/commons-lang/
 - Package: libcompiler-rt
@@ -5431,15 +5431,15 @@
   Description: Static libraries for libspice-server
   Homepage: https://www.spice-space.org/
 - Package: libsqlite
-  Version: 3.50.2
+  Version: 3.50.3
   Description: Library implementing a self-contained and transactional SQL database engine
   Homepage: https://www.sqlite.org
 - Package: libsqlite-static
-  Version: 3.50.2
+  Version: 3.50.3
   Description: Static libraries for libsqlite
   Homepage: https://www.sqlite.org
 - Package: libsqlite-tcl
-  Version: 3.50.2
+  Version: 3.50.3
   Description: tcl bindings for SQLite
   Homepage: https://www.sqlite.org
 - Package: libsrt
@@ -6887,7 +6887,7 @@
   Description: Video game for color and monochrome text terminals in the genre of Namcos Pac-Man
   Homepage: https://sourceforge.net/projects/myman/
 - Package: mympd
-  Version: 22.0.1-1
+  Version: 22.0.2
   Description: A standalone and lightweight web-based MPD client
   Homepage: https://jcorporation.github.io/myMPD/
 - Package: mypaint-brushes
@@ -9091,7 +9091,7 @@
   Description: Static libraries for sqlcipher
   Homepage: https://github.com/sqlcipher/sqlcipher
 - Package: sqlite
-  Version: 3.50.2
+  Version: 3.50.3
   Description: Command line shell for SQLite
   Homepage: https://www.sqlite.org
 - Package: squashfs-tools-ng
@@ -9427,7 +9427,7 @@
   Description: Telegram messenger CLI
   Homepage: https://github.com/vysheng/tg
 - Package: teleport-tsh
-  Version: 18.0.1
+  Version: 18.0.2
   Description: Secure Access for Developers that doesnt get in the way
   Homepage: https://github.com/gravitational/teleport
 - Package: tenki-php
@@ -10011,7 +10011,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.7.22
+  Version: 0.8.0
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi

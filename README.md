@@ -203,7 +203,7 @@
 | **capnproto** | 1.2.0 | Data interchange format and capability-based RPC system | https://capnproto.org/ |
 | **capstone** | 5.0.6 | Lightweight multi-platform, multi-architecture disassembly framework | https://www.capstone-engine.org/ |
 | **capstone-static** | 5.0.6 | Static libraries for capstone | https://www.capstone-engine.org/ |
-| **carapace** | 1.3.3 | Multi-shell multi-command argument completer | https://carapace.sh/ |
+| **carapace** | 1.4.0 | Multi-shell multi-command argument completer | https://carapace.sh/ |
 | **cargo-c** | 0.10.14 | Cargo C-ABI helpers | https://github.com/lu-zero/cargo-c |
 | **catdoc** | 0.95-1 | Program which reads MS-Word file and prints readable ASCII text to stdout | http://www.wagner.pp.ru/~vitus/software/catdoc/ |
 | **catgirl** | 2.2a | A TLS-only terminal IRC client | https://git.causal.agency/catgirl |
@@ -554,7 +554,7 @@
 | **gflags** | 2.2.2-9 | A C++ library that implements commandline flags processing | https://github.com/gflags/gflags |
 | **gflags-static** | 2.2.2-9 | Static libraries for gflags | https://github.com/gflags/gflags |
 | **gforth** | 0.7.3-1 | The Forth implementation of the GNU project | https://www.gnu.org/software/gforth/ |
-| **gh** | 2.75.1 | GitHub’s official command line tool | https://cli.github.com/ |
+| **gh** | 2.76.0 | GitHub’s official command line tool | https://cli.github.com/ |
 | **ghc** | 9.12.2 | The Glasgow Haskell Compiler | https://www.haskell.org/ghc/ |
 | **ghostscript** | 10.03.1-3 | Interpreter for the PostScript language and for PDF | https://www.ghostscript.com/ |
 | **giflib** | 5.2.2 | A library for reading and writing gif images | https://giflib.sourceforge.net/ |
@@ -936,7 +936,7 @@
 | **libcoinor-osi-static** | 1:0.108.8 | Static libraries for libcoinor-osi | https://github.com/coin-or/Osi |
 | **libcoinor-utils** | 1:2.11.11 | An open-source collection of classes and helper functions for COIN-OR projects | https://github.com/coin-or/CoinUtils |
 | **libcoinor-utils-static** | 1:2.11.11 | Static libraries for libcoinor-utils | https://github.com/coin-or/CoinUtils |
-| **libcommons-lang3-java** | 3.17.0 | A host of helper utilities for the java.lang API | https://commons.apache.org/proper/commons-lang/ |
+| **libcommons-lang3-java** | 3.18.0 | A host of helper utilities for the java.lang API | https://commons.apache.org/proper/commons-lang/ |
 | **libcompiler-rt** | 20.1.7 | Compiler runtime libraries for clang | https://clang.llvm.org/ |
 | **libconfig** | 1.8.1 | C/C++ Configuration File Library | https://github.com/hyperrealm/libconfig |
 | **libconfig-static** | 1.8.1 | Static libraries for libconfig | https://github.com/hyperrealm/libconfig |
@@ -1368,9 +1368,9 @@
 | **libspice-protocol** | 0.14.5 | SPICE protocol headers | https://www.spice-space.org/ |
 | **libspice-server** | 0.16.0 | Implements the server side of the SPICE protocol | https://www.spice-space.org/ |
 | **libspice-server-static** | 0.16.0 | Static libraries for libspice-server | https://www.spice-space.org/ |
-| **libsqlite** | 3.50.2 | Library implementing a self-contained and transactional SQL database engine | https://www.sqlite.org |
-| **libsqlite-static** | 3.50.2 | Static libraries for libsqlite | https://www.sqlite.org |
-| **libsqlite-tcl** | 3.50.2 | tcl bindings for SQLite | https://www.sqlite.org |
+| **libsqlite** | 3.50.3 | Library implementing a self-contained and transactional SQL database engine | https://www.sqlite.org |
+| **libsqlite-static** | 3.50.3 | Static libraries for libsqlite | https://www.sqlite.org |
+| **libsqlite-tcl** | 3.50.3 | tcl bindings for SQLite | https://www.sqlite.org |
 | **libsrt** | 1.5.4 | Secure Reliable Transport (SRT) Protocol | https://github.com/Haivision/srt |
 | **libssh** | 0.11.2 | Tiny C SSH library | https://www.libssh.org/ |
 | **libssh2** | 1.11.1 | Client-side library implementing the SSH2 protocol | https://www.libssh2.org |
@@ -1732,7 +1732,7 @@
 | **music-file-organizer** | 1.0.4-7 | Organizer of audio files into directories based on metadata tags | https://git.zx2c4.com/music-file-organizer/about/ |
 | **mutt** | 2.2.14-1 | Mail client with patches from neomutt | http://www.mutt.org/ |
 | **myman** | 0.7.1-6 | Video game for color and monochrome text terminals in the genre of Namco's Pac-Man | https://sourceforge.net/projects/myman/ |
-| **mympd** | 22.0.1-1 | A standalone and lightweight web-based MPD client | https://jcorporation.github.io/myMPD/ |
+| **mympd** | 22.0.2 | A standalone and lightweight web-based MPD client | https://jcorporation.github.io/myMPD/ |
 | **mypaint-brushes** | 2.0.2 | MyPaint brushes | https://github.com/mypaint/mypaint-brushes |
 | **myrepos** | 1.20180726-4 | Tool to manage all your version control repos | https://myrepos.branchable.com/ |
 | **n-t-roff-sc** | 7.16-1.1.3-0 | A vi-like spreadsheet calculator | https://github.com/n-t-roff/sc |
@@ -2283,7 +2283,7 @@
 | **spirv-tools** | 1.4.321.0 | SPIR-V Tools | https://github.com/KhronosGroup/SPIRV-Tools |
 | **sqlcipher** | 4.6.1 | SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files | https://github.com/sqlcipher/sqlcipher |
 | **sqlcipher-static** | 4.6.1 | Static libraries for sqlcipher | https://github.com/sqlcipher/sqlcipher |
-| **sqlite** | 3.50.2 | Command line shell for SQLite | https://www.sqlite.org |
+| **sqlite** | 3.50.3 | Command line shell for SQLite | https://www.sqlite.org |
 | **squashfs-tools-ng** | 1.3.2 | New set of tools for working with SquashFS images | https://github.com/AgentD/squashfs-tools-ng |
 | **squashfs-tools-ng-static** | 1.3.2 | Static libraries for squashfs-tools-ng | https://github.com/AgentD/squashfs-tools-ng |
 | **squeezelite** | 2.0.0.1517 | A small headless Logitech Squeezebox emulator | https://ralph-irving.github.io/squeezelite.html |
@@ -2367,7 +2367,7 @@
 | **tectonic** | 0.15.0-4 | A modernized, complete, self-contained TeX/LaTeX engine | https://tectonic-typesetting.github.io/ |
 | **telegram-bot-api** | 20241031-1 | Telegram Bot API server | https://github.com/tdlib/telegram-bot-api |
 | **telegram-cli** | 1:1.4.1-7 | Telegram messenger CLI | https://github.com/vysheng/tg |
-| **teleport-tsh** | 18.0.1 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
+| **teleport-tsh** | 18.0.2 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
 | **tenki-php** | 2022.05.26 | A simple PHP application for logging current weather conditions, notes, and waypoints | https://github.com/dmpop/tenki |
 | **tere** | 1.6.0 | Terminal file explorer written in rust | https://github.com/mgunyho/tere |
 | **tergent** | 1.0.0-4 | A cryptoki/PKCS#11 library for Termux that uses Android Keystore as its backend | https://github.com/aeolwyr/tergent |
@@ -2513,7 +2513,7 @@
 | **util-linux-static** | 2.40.2-4 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-1 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.40.2-4 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **uv** | 0.7.22 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
+| **uv** | 0.8.0 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.30 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.37.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.18 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
