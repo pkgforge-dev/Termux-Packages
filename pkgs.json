@@ -259,7 +259,7 @@
   },
   {
     "Package": "ant",
-    "Version": "1.10.15",
+    "Version": "1.10.15-1",
     "Description": "Java based build tool like make",
     "Homepage": "https://ant.apache.org/"
   },
@@ -313,7 +313,7 @@
   },
   {
     "Package": "apksigner",
-    "Version": "33.0.1",
+    "Version": "33.0.1-1",
     "Description": "APK signing tool from Android SDK",
     "Homepage": "https://developer.android.com/studio/command-line/apksigner"
   },
@@ -745,7 +745,7 @@
   },
   {
     "Package": "bdsup2sub",
-    "Version": "4.0.1",
+    "Version": "4.0.1-1",
     "Description": "A subtitle conversion tool for image based stream formats",
     "Homepage": "https://github.com/mjuhasz/BDSup2Sub"
   },
@@ -1765,7 +1765,7 @@
   },
   {
     "Package": "d8",
-    "Version": "33.0.1",
+    "Version": "33.0.1-1",
     "Description": "DEX bytecode compiler from Android SDK",
     "Homepage": "https://developer.android.com/studio/command-line/d8"
   },
@@ -1891,7 +1891,7 @@
   },
   {
     "Package": "dex2jar",
-    "Version": "2.4",
+    "Version": "2.4-1",
     "Description": "Tools to work with android .dex and java .class files",
     "Homepage": "https://github.com/pxb1988/dex2jar"
   },
@@ -2266,6 +2266,18 @@
     "Version": "1.22.6-3",
     "Description": "Creates Packages index files",
     "Homepage": "https://packages.debian.org/dpkg"
+  },
+  {
+    "Package": "draco",
+    "Version": "1.5.7",
+    "Description": "Library for compressing and decompressing 3D geometric meshes and point clouds",
+    "Homepage": "https://google.github.io/draco/"
+  },
+  {
+    "Package": "draco-static",
+    "Version": "1.5.7",
+    "Description": "Static libraries for draco",
+    "Homepage": "https://google.github.io/draco/"
   },
   {
     "Package": "dropbear",
@@ -3769,7 +3781,7 @@
   },
   {
     "Package": "gradle",
-    "Version": "1:8.14.3",
+    "Version": "1:8.14.3-1",
     "Description": "Powerful build system for the JVM",
     "Homepage": "https://gradle.org/"
   },
@@ -3847,7 +3859,7 @@
   },
   {
     "Package": "groovy",
-    "Version": "4.0.26-3",
+    "Version": "4.0.26-4",
     "Description": "A powerful multi-faceted programming language for the JVM platform",
     "Homepage": "https://groovy-lang.org/"
   },
@@ -4027,13 +4039,13 @@
   },
   {
     "Package": "helix",
-    "Version": "25.01.1-2",
+    "Version": "25.07",
     "Description": "A post-modern modal text editor written in rust",
     "Homepage": "https://helix-editor.com/"
   },
   {
     "Package": "helix-grammars",
-    "Version": "25.01.1-2",
+    "Version": "25.07",
     "Description": "Helix grammars",
     "Homepage": "https://helix-editor.com/"
   },
@@ -4741,7 +4753,7 @@
   },
   {
     "Package": "jython",
-    "Version": "2.7.4",
+    "Version": "2.7.4-1",
     "Description": "Python for the Java Platform",
     "Homepage": "https://www.jython.org/"
   },
@@ -4831,7 +4843,7 @@
   },
   {
     "Package": "kotlin",
-    "Version": "2.2.0",
+    "Version": "2.2.0-1",
     "Description": "The Kotlin Programming Language",
     "Homepage": "https://kotlinlang.org/"
   },
@@ -5269,7 +5281,7 @@
   },
   {
     "Package": "libbcprov-java",
-    "Version": "1.80",
+    "Version": "1.80-1",
     "Description": "A lightweight cryptography API for Java",
     "Homepage": "https://www.bouncycastle.org/java.html"
   },
@@ -6294,6 +6306,12 @@
     "Homepage": "https://github.com/libhangul/libhangul"
   },
   {
+    "Package": "libharu",
+    "Version": "2.4.5",
+    "Description": "Free, cross platform, open source library for generating PDF files",
+    "Homepage": "http://libharu.org/"
+  },
+  {
     "Package": "libhdf5",
     "Version": "1.14.4.3",
     "Description": "Hierarchical Data Format 5 (HDF5)",
@@ -7279,13 +7297,13 @@
   },
   {
     "Package": "libnspr",
-    "Version": "4.36",
+    "Version": "4.37",
     "Description": "Netscape Portable Runtime (NSPR)",
     "Homepage": "https://hg.mozilla.org/projects/nspr"
   },
   {
     "Package": "libnspr-static",
-    "Version": "4.36",
+    "Version": "4.37",
     "Description": "Static libraries for libnspr",
     "Homepage": "https://hg.mozilla.org/projects/nspr"
   },
@@ -9522,6 +9540,12 @@
     "Homepage": "https://github.com/iawia002/lux"
   },
   {
+    "Package": "lux-cli",
+    "Version": "0.9.1",
+    "Description": "A package manager for Lua, similar to luarocks",
+    "Homepage": "https://nvim-neorocks.github.io/"
+  },
+  {
     "Package": "lv2",
     "Version": "1.18.10-5",
     "Description": "A plugin standard for audio systems",
@@ -9703,7 +9727,7 @@
   },
   {
     "Package": "maven",
-    "Version": "3.9.11",
+    "Version": "3.9.11-1",
     "Description": "A Java software project management and comprehension tool",
     "Homepage": "https://maven.apache.org/"
   },
@@ -10873,7 +10897,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "26.16.1",
+    "Version": "26.17.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -11023,37 +11047,37 @@
   },
   {
     "Package": "openjdk-17",
-    "Version": "17.0.16",
+    "Version": "17.0.16-1",
     "Description": "Java development kit and runtime",
     "Homepage": "https://openjdk.java.net"
   },
   {
     "Package": "openjdk-17-source",
-    "Version": "17.0.16",
+    "Version": "17.0.16-1",
     "Description": "Source files for openjdk-17",
     "Homepage": "https://openjdk.java.net"
   },
   {
     "Package": "openjdk-17-x",
-    "Version": "17.0.16",
+    "Version": "17.0.16-1",
     "Description": "Portion of openjdk-17 requiring X11 functionality",
     "Homepage": "https://openjdk.java.net"
   },
   {
     "Package": "openjdk-21",
-    "Version": "21.0.7-3",
+    "Version": "21.0.8",
     "Description": "Java development kit and runtime",
     "Homepage": "https://openjdk.java.net"
   },
   {
     "Package": "openjdk-21-source",
-    "Version": "21.0.7-3",
+    "Version": "21.0.8",
     "Description": "Source files for openjdk-21",
     "Homepage": "https://openjdk.java.net"
   },
   {
     "Package": "openjdk-21-x",
-    "Version": "21.0.7-3",
+    "Version": "21.0.8",
     "Description": "Portion of openjdk-21 requiring X11 functionality",
     "Homepage": "https://openjdk.java.net"
   },
@@ -11152,6 +11176,12 @@
     "Version": "0.17.0",
     "Description": "Open Source API and interchange format for editorial timeline information.",
     "Homepage": "http://opentimeline.io/"
+  },
+  {
+    "Package": "openxr",
+    "Version": "1.1.49",
+    "Description": "Open standard that provides a common set of APIs for developing XR applications",
+    "Homepage": "https://www.khronos.org/openxr/"
   },
   {
     "Package": "optipng",
@@ -11467,7 +11497,7 @@
   },
   {
     "Package": "pdftk",
-    "Version": "3.3.3-2",
+    "Version": "3.3.3-3",
     "Description": "A simple tool for doing everyday things with PDF documents",
     "Homepage": "https://gitlab.com/pdftk-java/pdftk"
   },
@@ -11695,7 +11725,7 @@
   },
   {
     "Package": "plantuml",
-    "Version": "1.2025.4",
+    "Version": "1.2025.4-1",
     "Description": "Draws UML diagrams, using a simple and human readable text description",
     "Homepage": "https://plantuml.com/"
   },
@@ -11887,7 +11917,7 @@
   },
   {
     "Package": "procyon-decompiler",
-    "Version": "0.6.0-1",
+    "Version": "0.6.0-2",
     "Description": "A standalone front-end for the Java decompiler in Procyon Compiler Toolset",
     "Homepage": "https://github.com/mstrobel/procyon"
   },
@@ -11977,7 +12007,7 @@
   },
   {
     "Package": "pueue",
-    "Version": "4.0.0-rc.1-1",
+    "Version": "4.0.1",
     "Description": "A command-line task management tool for sequential and parallel execution of long-running tasks",
     "Homepage": "https://github.com/Nukesor/pueue"
   },
@@ -12016,6 +12046,12 @@
     "Version": "2.08-1",
     "Description": "Password generator which by default, unless given the -s option, generates memorable but insecure passwords",
     "Homepage": "http://pwgen.sourceforge.net/"
+  },
+  {
+    "Package": "pybind11",
+    "Version": "3.0.0-1",
+    "Description": "A lightweight header-only library that exposes C++ types in Python and vice versa",
+    "Homepage": "https://pybind11.readthedocs.io/"
   },
   {
     "Package": "pycairo",
@@ -13129,7 +13165,7 @@
   },
   {
     "Package": "scala",
-    "Version": "3.7.1",
+    "Version": "3.7.1-1",
     "Description": "Scala 3 compiler and standard library.",
     "Homepage": "https://www.scala-lang.org"
   },
@@ -15277,7 +15313,7 @@
   },
   {
     "Package": "vulkan-headers",
-    "Version": "1.4.322",
+    "Version": "1.4.323",
     "Description": "Vulkan Header files and API registry",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Headers"
   },
@@ -15787,7 +15823,7 @@
   },
   {
     "Package": "yosys",
-    "Version": "0.55",
+    "Version": "0.55-1",
     "Description": "A framework for RTL synthesis tools",
     "Homepage": "https://yosyshq.net/yosys/"
   },

@@ -41,7 +41,7 @@
 | **angle-grinder** | 0.19.6 | Slice and dice logs on the command line | https://github.com/rcoh/angle-grinder |
 | **ani-cli** | 4.10 | A cli to browse and watch anime | https://github.com/pystardust/ani-cli |
 | **ansifilter** | 2.21-1 | Strip or convert ANSI codes into HTML, (La)Tex, RTF, or BBCode | http://www.andre-simon.de/doku/ansifilter/en/ansifilter.php |
-| **ant** | 1.10.15 | Java based build tool like make | https://ant.apache.org/ |
+| **ant** | 1.10.15-1 | Java based build tool like make | https://ant.apache.org/ |
 | **antibody** | 6.1.1-2 | The fastest shell plugin manager | https://github.com/getantibody/antibody |
 | **antiword** | 0.37-3 | A free MS Word reader | https://en.m.wikipedia.org/wiki/Antiword |
 | **aom-tools** | 3.12.1 | Command-line tools using AOMedia library | https://aomedia.org/ |
@@ -50,7 +50,7 @@
 | **apache-orc** | 2.1.3 | Columnar storage for Hadoop workloads | https://orc.apache.org/ |
 | **apache2** | 1:2.4.64 | Apache Web Server | https://httpd.apache.org |
 | **apkeep** | 0.17.0-1 | A command-line tool for downloading APK files from various sources | https://github.com/EFForg/apkeep |
-| **apksigner** | 33.0.1 | APK signing tool from Android SDK | https://developer.android.com/studio/command-line/apksigner |
+| **apksigner** | 33.0.1-1 | APK signing tool from Android SDK | https://developer.android.com/studio/command-line/apksigner |
 | **appstream** | 1.0.5 | Provides a standard for creating app stores across distributions | https://www.freedesktop.org/wiki/Distributions/AppStream/ |
 | **apr** | 1.7.6 | Apache Portable Runtime Library | https://apr.apache.org/ |
 | **apr-static** | 1.7.6 | Static libraries for apr | https://apr.apache.org/ |
@@ -122,7 +122,7 @@
 | **bat** | 0.25.0-2 | A cat(1) clone with wings | https://github.com/sharkdp/bat |
 | **bc** | 1.08.2 | Arbitrary precision numeric processing language | https://www.gnu.org/software/bc/ |
 | **bc-gh** | 7.0.3 | Unix dc and POSIX bc with GNU and BSD extensions | https://git.gavinhoward.com/gavin/bc |
-| **bdsup2sub** | 4.0.1 | A subtitle conversion tool for image based stream formats | https://github.com/mjuhasz/BDSup2Sub |
+| **bdsup2sub** | 4.0.1-1 | A subtitle conversion tool for image based stream formats | https://github.com/mjuhasz/BDSup2Sub |
 | **beanshell** | 2.1.1-1 | Small, free, embeddable, source level Java interpreter with object based scripting language features written in Java | https://github.com/beanshell/beanshell |
 | **bed** | 0.2.8 | Binary editor written in GO | https://github.com/itchyny/bed |
 | **bftpd** | 6.3 | Small, easy-to-configure FTP server | https://bftpd.sourceforge.net/ |
@@ -292,7 +292,7 @@
 | **curlie** | 1.8.2 | The power of curl, the ease of use of httpie | https://curlie.io/ |
 | **curseofwar** | 1.3.0-4 | Fast-paced action strategy game focusing on high-level strategic planning | http://a-nikolaev.github.io/curseofwar/ |
 | **cvs** | 1:1.12.13-4 | Concurrent Versions System | https://www.nongnu.org/cvs/ |
-| **d8** | 33.0.1 | DEX bytecode compiler from Android SDK | https://developer.android.com/studio/command-line/d8 |
+| **d8** | 33.0.1-1 | DEX bytecode compiler from Android SDK | https://developer.android.com/studio/command-line/d8 |
 | **daemonize** | 1.7.8-2 | Run a command as a Unix daemon | http://software.clapper.org/daemonize/ |
 | **dar** | 2.7.18 | A full featured command-line backup tool, short for Disk ARchive | http://dar.linux.free.fr/ |
 | **dar-static** | 2.7.18 | Static libraries for dar | http://dar.linux.free.fr/ |
@@ -313,7 +313,7 @@
 | **debootstrap** | 1.0.141 | Bootstrap a basic Debian system | https://wiki.debian.org/Debootstrap |
 | **desed** | 1.2.2 | Demystifies and debugs your sed scripts | https://github.com/SoptikHa2/desed |
 | **deutex** | 5.2.3 | WAD composer for Doom, Heretic, Hexen, and Strife | https://github.com/Doom-Utils/deutex/ |
-| **dex2jar** | 2.4 | Tools to work with android .dex and java .class files | https://github.com/pxb1988/dex2jar |
+| **dex2jar** | 2.4-1 | Tools to work with android .dex and java .class files | https://github.com/pxb1988/dex2jar |
 | **dialog** | 1.3-20240307-0 | Application used in shell scripts which displays text user interface widgets | https://invisible-island.net/dialog/ |
 | **dialog-static** | 1.3-20240307-0 | Static libraries for dialog | https://invisible-island.net/dialog/ |
 | **dictd** | 1.13.3 | Online dictionary client and server | https://sourceforge.net/projects/dict/ |
@@ -376,6 +376,8 @@
 | **dpkg** | 1.22.6-3 | Debian package management system | https://packages.debian.org/dpkg |
 | **dpkg-perl** | 1.22.6-3 | Perl modules for dpkg | https://packages.debian.org/dpkg |
 | **dpkg-scanpackages** | 1.22.6-3 | Creates Packages index files | https://packages.debian.org/dpkg |
+| **draco** | 1.5.7 | Library for compressing and decompressing 3D geometric meshes and point clouds | https://google.github.io/draco/ |
+| **draco-static** | 1.5.7 | Static libraries for draco | https://google.github.io/draco/ |
 | **dropbear** | 2025.87-1 | Small SSH server and client | https://matt.ucc.asn.au/dropbear/dropbear.html |
 | **dtach** | 0.9 | Emulates the detach feature of screen | http://dtach.sourceforge.net/ |
 | **dtc** | 1.7.2 | Device Tree Compiler | https://git.kernel.org/pub/scm/utils/dtc/dtc |
@@ -626,7 +628,7 @@
 | **gpgv** | 2.5.5 | GNU privacy guard - signature verification tool | https://www.gnupg.org/ |
 | **gping** | 1.19.0 | Ping, but with a graph | https://github.com/orf/gping |
 | **gpsbabel** | 1.4.4-2 | GPS file conversion plus transfer to/from GPS units | https://www.gpsbabel.org/ |
-| **gradle** | 1:8.14.3 | Powerful build system for the JVM | https://gradle.org/ |
+| **gradle** | 1:8.14.3-1 | Powerful build system for the JVM | https://gradle.org/ |
 | **grafana** | 1:11.6.0 | The open-source platform for monitoring and observability | https://grafana.com/ |
 | **graphene** | 1.10.8-1 | A thin layer of graphic data types | https://ebassi.github.io/graphene/ |
 | **graphicsmagick** | 1.3.45-3 | Collection of image processing tools | http://www.graphicsmagick.org/ |
@@ -639,7 +641,7 @@
 | **groff** | 1.23.0-1 | typesetting system that reads plain text mixed with formatting commands and produces formatted output | https://www.gnu.org/software/groff/ |
 | **gron** | 0.7.1-3 | Transforms JSON into discrete assignments | https://github.com/tomnomnom/gron |
 | **groonga** | 15.1.3 | An embeddable fulltext search engine | https://github.com/groonga/groonga/ |
-| **groovy** | 4.0.26-3 | A powerful multi-faceted programming language for the JVM platform | https://groovy-lang.org/ |
+| **groovy** | 4.0.26-4 | A powerful multi-faceted programming language for the JVM platform | https://groovy-lang.org/ |
 | **gsasl** | 2.2.2 | GNU SASL library command line interface | https://www.gnu.org/software/gsasl |
 | **gsf-tools** | 1.14.53-1 | Command-line tools for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
 | **gsl** | 2.8 | GNU Scientific Library (GSL) providing a wide range of mathematical routines | https://www.gnu.org/software/gsl/ |
@@ -669,8 +671,8 @@
 | **hashdeep** | 4.4-8 | Programs to compute hashsums of arbitrary number of files recursively | http://md5deep.sourceforge.net/ |
 | **hcl** | 2.24.0 | A toolkit for creating structured configuration languages | https://github.com/hashicorp/hcl |
 | **hcloud** | 1.51.0 | Hetzner Cloud command line client | https://github.com/hetznercloud/cli |
-| **helix** | 25.01.1-2 | A post-modern modal text editor written in rust | https://helix-editor.com/ |
-| **helix-grammars** | 25.01.1-2 | Helix grammars | https://helix-editor.com/ |
+| **helix** | 25.07 | A post-modern modal text editor written in rust | https://helix-editor.com/ |
+| **helix-grammars** | 25.07 | Helix grammars | https://helix-editor.com/ |
 | **hello** | 2.12.2 | Prints a friendly greeting | https://www.gnu.org/software/hello/ |
 | **helm** | 3.18.4 | Helm helps you manage Kubernetes applications | https://helm.sh |
 | **helm-ls** | 0.4.1 | Language server for Helm | https://github.com/mrjosh/helm-ls |
@@ -788,7 +790,7 @@
 | **jump** | 0.51.0-3 | Jump helps you navigate in shell faster by learning your habits | https://github.com/gsamokovarov/jump |
 | **jupp** | 3.1jupp41-1 | User friendly full screen text editor | http://www.mirbsd.org/jupp.htm |
 | **just** | 1.42.2 | A handy way to save and run project-specific commands | https://just.systems |
-| **jython** | 2.7.4 | Python for the Java Platform | https://www.jython.org/ |
+| **jython** | 2.7.4-1 | Python for the Java Platform | https://www.jython.org/ |
 | **k2pdfopt** | 2.55-3 | A tool that optimizes PDF files for viewing on mobile readers | https://www.willus.com/k2pdfopt/ |
 | **k9s** | 0.50.9 | Kubernetes CLI To Manage Your Clusters In Style! | https://k9scli.io |
 | **kainjow-mustache** | 4.1 | Mustache implementation for modern C++ | https://github.com/kainjow/Mustache |
@@ -803,7 +805,7 @@
 | **knockd** | 0.8.2-1 | A port-knocking daemon | https://zeroflux.org/projects/knock |
 | **knot-utils** | 3.2.4-1 | Knot DNS utilities | https://www.knot-dns.cz/ |
 | **kona** | 20211225 | Open-source implementation of the APL-like K programming language | https://github.com/kevinlawler/kona |
-| **kotlin** | 2.2.0 | The Kotlin Programming Language | https://kotlinlang.org/ |
+| **kotlin** | 2.2.0-1 | The Kotlin Programming Language | https://kotlinlang.org/ |
 | **krb5** | 1.21.3 | The Kerberos network authentication system | https://web.mit.edu/kerberos |
 | **kubecolor** | 0.5.1 | Colorize your kubectl output | https://github.com/kubecolor/kubecolor |
 | **kubectl** | 1.33.3 | Kubernetes.io client binary | https://kubernetes.io/ |
@@ -876,7 +878,7 @@
 | **libassuan-static** | 3.0.2 | Static libraries for libassuan | https://www.gnupg.org/related_software/libassuan/ |
 | **libatomic-ops** | 7.8.2 | Provides semi-portable access to hardware-provided atomic memory update operations | https://github.com/ivmai/libatomic_ops |
 | **libatomic-ops-static** | 7.8.2 | Static libraries for libatomic-ops | https://github.com/ivmai/libatomic_ops |
-| **libbcprov-java** | 1.80 | A lightweight cryptography API for Java | https://www.bouncycastle.org/java.html |
+| **libbcprov-java** | 1.80-1 | A lightweight cryptography API for Java | https://www.bouncycastle.org/java.html |
 | **libblkid** | 2.40.2-4 | Block device identification library | https://en.wikipedia.org/wiki/Util-linux |
 | **libblocksruntime** | 1:6.1 | LLVM Blocks runtime library | https://github.com/swiftlang/swift-corelibs-libdispatch |
 | **libblosc** | 1.21.6 | A blocking, shuffling and loss-less compression library | https://www.blosc.org |
@@ -1047,6 +1049,7 @@
 | **libgxps** | 0.3.2-2 | handling and rendering XPS documents | https://wiki.gnome.org/libgxps |
 | **libhangul** | 0.2.0 | A library to support hangul input method logic | https://github.com/libhangul/libhangul |
 | **libhangul-static** | 0.2.0 | Static libraries for libhangul | https://github.com/libhangul/libhangul |
+| **libharu** | 2.4.5 | Free, cross platform, open source library for generating PDF files | http://libharu.org/ |
 | **libhdf5** | 1.14.4.3 | Hierarchical Data Format 5 (HDF5) | https://portal.hdfgroup.org/display/support |
 | **libhdf5-static** | 1.14.4.3 | Static libraries for libhdf5 | https://portal.hdfgroup.org/display/support |
 | **libheif** | 1.20.1 | HEIF (HEIC/AVIF) image encoding and decoding library | https://github.com/strukturag/libheif |
@@ -1211,8 +1214,8 @@
 | **libnova-static** | 0.16 | Static libraries for libnova | http://libnova.sourceforge.net |
 | **libnpth** | 1.6-2 | New GNU Portable Threads Library | https://www.gnupg.org/related_software/npth/ |
 | **libnpth-static** | 1.6-2 | Static libraries for libnpth | https://www.gnupg.org/related_software/npth/ |
-| **libnspr** | 4.36 | Netscape Portable Runtime (NSPR) | https://hg.mozilla.org/projects/nspr |
-| **libnspr-static** | 4.36 | Static libraries for libnspr | https://hg.mozilla.org/projects/nspr |
+| **libnspr** | 4.37 | Netscape Portable Runtime (NSPR) | https://hg.mozilla.org/projects/nspr |
+| **libnspr-static** | 4.37 | Static libraries for libnspr | https://hg.mozilla.org/projects/nspr |
 | **libnss** | 3.113.1 | Network Security Services (NSS) | https://firefox-source-docs.mozilla.org/security/nss/ |
 | **libntl** | 11.5.1-1 | A Library for doing Number Theory | https://libntl.org |
 | **libntl-static** | 11.5.1-1 | Static libraries for libntl | https://libntl.org |
@@ -1585,6 +1588,7 @@
 | **luvi** | 1:2.15.0 | A project in-between luv and luvit | https://luvit.io |
 | **luvit** | 2.18.1-1 | Asynchronous I/O for Lua | https://luvit.io |
 | **lux** | 0.24.1-1 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
+| **lux-cli** | 0.9.1 | A package manager for Lua, similar to luarocks | https://nvim-neorocks.github.io/ |
 | **lv2** | 1.18.10-5 | A plugin standard for audio systems | https://lv2plug.in/ |
 | **lychee** | 0.19.1 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
 | **lynx** | 2.9.2 | The text web browser | http://lynx.browser.org/ |
@@ -1615,7 +1619,7 @@
 | **matterbridge** | 1.26.0-3 | A simple chat bridge | https://github.com/42wim/matterbridge |
 | **matterircd** | 0.28.0 | Connect to your mattermost or slack using your IRC-client of choice | https://github.com/42wim/matterircd |
 | **mautrix-whatsapp** | 0.12.3 | A Matrix-WhatsApp puppeting bridge | https://maunium.net/go/mautrix-whatsapp/ |
-| **maven** | 3.9.11 | A Java software project management and comprehension tool | https://maven.apache.org/ |
+| **maven** | 3.9.11-1 | A Java software project management and comprehension tool | https://maven.apache.org/ |
 | **maxcso** | 1.13.0 | A fast ISO to CSO compression program for use with PSP and PS2 emulators | https://github.com/unknownbrackets/maxcso |
 | **mazter** | 2022.08.13 | Mazes in your terminal | https://github.com/Canop/mazter |
 | **mbedtls** | 3.6.4 | Light-weight cryptographic and SSL/TLS library | https://www.trustedfirmware.org/projects/mbed-tls/ |
@@ -1810,7 +1814,7 @@
 | **octomap** | 1.10.0 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-4 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 26.16.1 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 26.17.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **okc-agents** | 0.1.2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.6-2 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-9 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
@@ -1835,12 +1839,12 @@
 | **openfoam** | 2412-2 | OpenFOAM is a CFD software written in C++ | https://www.openfoam.com |
 | **opengl** | 4.5 | A metapackage for OpenGL implementation | https://github.com/termux/termux-packages |
 | **openh264** | 2.6.0 | Codec library supporting H.264 encoding and decoding | https://www.openh264.org/ |
-| **openjdk-17** | 17.0.16 | Java development kit and runtime | https://openjdk.java.net |
-| **openjdk-17-source** | 17.0.16 | Source files for openjdk-17 | https://openjdk.java.net |
-| **openjdk-17-x** | 17.0.16 | Portion of openjdk-17 requiring X11 functionality | https://openjdk.java.net |
-| **openjdk-21** | 21.0.7-3 | Java development kit and runtime | https://openjdk.java.net |
-| **openjdk-21-source** | 21.0.7-3 | Source files for openjdk-21 | https://openjdk.java.net |
-| **openjdk-21-x** | 21.0.7-3 | Portion of openjdk-21 requiring X11 functionality | https://openjdk.java.net |
+| **openjdk-17** | 17.0.16-1 | Java development kit and runtime | https://openjdk.java.net |
+| **openjdk-17-source** | 17.0.16-1 | Source files for openjdk-17 | https://openjdk.java.net |
+| **openjdk-17-x** | 17.0.16-1 | Portion of openjdk-17 requiring X11 functionality | https://openjdk.java.net |
+| **openjdk-21** | 21.0.8 | Java development kit and runtime | https://openjdk.java.net |
+| **openjdk-21-source** | 21.0.8 | Source files for openjdk-21 | https://openjdk.java.net |
+| **openjdk-21-x** | 21.0.8 | Portion of openjdk-21 requiring X11 functionality | https://openjdk.java.net |
 | **openjpeg** | 2.5.3 | JPEG 2000 image compression library | https://www.openjpeg.org/ |
 | **openjpeg-tools** | 2.5.3 | Command-line tools using the JPEG 2000 library | https://www.openjpeg.org/ |
 | **openldap** | 2.6.10 | OpenLDAP server | https://openldap.org |
@@ -1857,6 +1861,7 @@
 | **openssl-static** | 1:3.5.1 | Static libraries for openssl | https://www.openssl.org/ |
 | **openssl-tool** | 1:3.5.1 | The openssl command line cryptographic tool | https://www.openssl.org/ |
 | **opentimelineio** | 0.17.0 | Open Source API and interchange format for editorial timeline information. | http://opentimeline.io/ |
+| **openxr** | 1.1.49 | Open standard that provides a common set of APIs for developing XR applications | https://www.khronos.org/openxr/ |
 | **optipng** | 7.9.1 | PNG optimizer that recompresses image files to a smaller size, without losing any information | https://optipng.sourceforge.net/ |
 | **opus-tools** | 0.2-3 | Utilities to encode and decode .opus files | https://www.opus-codec.org/ |
 | **opusfile** | 0.12-3 | A high-level API for decoding and seeking within .opus files | https://www.opus-codec.org/ |
@@ -1909,7 +1914,7 @@
 | **pdf2svg** | 0.2.4 | A PDF to SVG converter | http://www.cityinthesky.co.uk/opensource/pdf2svg/ |
 | **pdfcpu** | 0.11.0 | A PDF processor written in Go | https://pdfcpu.io |
 | **pdfgrep** | 2.2.0-3 | Command line utility to search text in PDF files | https://pdfgrep.org/ |
-| **pdftk** | 3.3.3-2 | A simple tool for doing everyday things with PDF documents | https://gitlab.com/pdftk-java/pdftk |
+| **pdftk** | 3.3.3-3 | A simple tool for doing everyday things with PDF documents | https://gitlab.com/pdftk-java/pdftk |
 | **peaclock** | 0.4.3-7 | A responsive and customizable clock, timer, and stopwatch for the terminal. | https://github.com/octobanana/peaclock |
 | **peco** | 0.5.11-2 | Simplistic interactive filtering tool | https://github.com/peco/peco |
 | **perl** | 5.38.2-3 | Capable, feature-rich programming language | https://www.perl.org/ |
@@ -1947,7 +1952,7 @@
 | **pkg-config** | 0.29.2-2 | Helper tool used when compiling applications and libraries | https://www.freedesktop.org/wiki/Software/pkg-config/ |
 | **pkgfile** | 24 | An alpm .files metadata explorer | https://github.com/falconindy/pkgfile |
 | **pkgtop** | 2.5.1 | Interactive package manager and resource monitor | https://github.com/orhun/pkgtop |
-| **plantuml** | 1.2025.4 | Draws UML diagrams, using a simple and human readable text description | https://plantuml.com/ |
+| **plantuml** | 1.2025.4-1 | Draws UML diagrams, using a simple and human readable text description | https://plantuml.com/ |
 | **play-audio** | 0.6-1 | Simple command line audio player for Android | https://github.com/termux/play-audio |
 | **plutolang** | 0.11.1 | A superset of Lua 5.4 with a focus on general-purpose programming. | https://plutolang.github.io/ |
 | **plzip** | 1.12 | A massively parallel lossless data compressor based on the lzlib compression library | https://www.nongnu.org/lzip/plzip.html |
@@ -1979,7 +1984,7 @@
 | **procps** | 3.3.17-5 | Utilities that give information about processes using the /proc filesystem | https://gitlab.com/procps-ng/procps |
 | **procps-static** | 3.3.17-5 | Static libraries for procps | https://gitlab.com/procps-ng/procps |
 | **procs** | 0.14.10 | A modern replacement for ps | https://github.com/dalance/procs |
-| **procyon-decompiler** | 0.6.0-1 | A standalone front-end for the Java decompiler in Procyon Compiler Toolset | https://github.com/mstrobel/procyon |
+| **procyon-decompiler** | 0.6.0-2 | A standalone front-end for the Java decompiler in Procyon Compiler Toolset | https://github.com/mstrobel/procyon |
 | **profanity** | 0.15.0 | Profanity is a console based XMPP client written in C using ncurses and libstrophe, inspired by Irssi | https://profanity-im.github.io |
 | **progress** | 0.17 | Linux tool to show progress for cp, mv, dd and more | https://github.com/Xfennec/progress |
 | **proj** | 9.6.2 | Generic coordinate transformation software | https://proj.org |
@@ -1994,13 +1999,14 @@
 | **ptex** | 2.4.3 | Per-Face Texture Mapping for Production Rendering | https://github.com/wdas/ptex |
 | **ptex-static** | 2.4.3 | Static libraries for ptex | https://github.com/wdas/ptex |
 | **ptunnel-ng** | 1.43 | Tunnel TCP connections through ICMP | https://github.com/lnslbrty/ptunnel-ng |
-| **pueue** | 4.0.0-rc.1-1 | A command-line task management tool for sequential and parallel execution of long-running tasks | https://github.com/Nukesor/pueue |
+| **pueue** | 4.0.1 | A command-line task management tool for sequential and parallel execution of long-running tasks | https://github.com/Nukesor/pueue |
 | **pulseaudio** | 17.0-1 | A featureful, general-purpose sound server | https://www.freedesktop.org/wiki/Software/PulseAudio |
 | **pulseaudio-glib** | 17.0-1 | PulseAudio GLIB mainloop component | https://www.freedesktop.org/wiki/Software/PulseAudio |
 | **pup** | 0.4.0-7 | command line tool for processing HTML | https://github.com/ericchiang/pup |
 | **pure-ftpd** | 1.0.52 | Pure-FTPd is a free (BSD), secure, production-quality and standard-conformant FTP server | https://www.pureftpd.org/project/pure-ftpd |
 | **pv** | 1.9.31 | Terminal-based tool for monitoring the progress of data through a pipeline | https://www.ivarch.com/programs/pv.shtml |
 | **pwgen** | 2.08-1 | Password generator which by default, unless given the '-s' option, generates memorable but insecure passwords | http://pwgen.sourceforge.net/ |
+| **pybind11** | 3.0.0-1 | A lightweight header-only library that exposes C++ types in Python and vice versa | https://pybind11.readthedocs.io/ |
 | **pycairo** | 1.28.0 | Python bindings for the cairo graphics library | https://www.cairographics.org/pycairo/ |
 | **pygobject** | 3.52.3 | Python package which provides bindings for GObject based libraries | https://pygobject.gnome.org/ |
 | **pypy** | 7.3.20 | A fast, compliant alternative implementation of Python | https://pypy.org |
@@ -2186,7 +2192,7 @@
 | **samurai** | 1.2-1 | ninja-compatible build tool written in C | https://github.com/michaelforney/samurai |
 | **sassc** | 3.6.2 | libsass command line driver | https://github.com/sass/sassc |
 | **sc-im** | 0.8.5-1 | An improved version of sc, a spreadsheet calculator | https://github.com/andmarti1424/sc-im |
-| **scala** | 3.7.1 | Scala 3 compiler and standard library. | https://www.scala-lang.org |
+| **scala** | 3.7.1-1 | Scala 3 compiler and standard library. | https://www.scala-lang.org |
 | **scc** | 3.5.0 | Counts physical the lines of code, blank lines, comment lines, and physical lines of source code | https://github.com/boyter/scc |
 | **sccache** | 0.10.0 | sccache is ccache with cloud storage | https://github.com/mozilla/sccache |
 | **scdaemon** | 2.5.5 | Daemon invoked by gpg to manage smartcards | https://www.gnupg.org/ |
@@ -2544,7 +2550,7 @@
 | **vttest** | 20241208 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-4 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.4.321 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
-| **vulkan-headers** | 1.4.322 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
+| **vulkan-headers** | 1.4.323 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
 | **vulkan-icd** | 0.1 | A metapackage that provides Vulkan ICDs | https://github.com/termux/termux-packages |
 | **vulkan-loader** | 0.0.3 | A metapackage that provides vulkan loader library | https://github.com/termux/termux-packages |
 | **vulkan-loader-android** | 27c | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
@@ -2629,7 +2635,7 @@
 | **yasm** | 1.3.0-6 | Assembler supporting the x86 and AMD64 instruction sets | https://yasm.tortall.net/ |
 | **yasm-static** | 1.3.0-6 | Static libraries for yasm | https://yasm.tortall.net/ |
 | **yazi** | 25.5.31-1 | Blazing fast terminal file manager written in Rust, based on async I/O | https://yazi-rs.github.io/ |
-| **yosys** | 0.55 | A framework for RTL synthesis tools | https://yosyshq.net/yosys/ |
+| **yosys** | 0.55-1 | A framework for RTL synthesis tools | https://yosyshq.net/yosys/ |
 | **youtubedr** | 2.10.4 | Download youtube video in Golang | https://github.com/kkdai/youtube |
 | **yq** | 4.46.1 | A lightweight and portable command-line YAML, JSON and XML processor | https://mikefarah.gitbook.io/yq/ |
 | **ytfzf** | 2.6.2 | A POSIX script that helps you find Youtube videos (without API) | https://github.com/pystardust/ytfzf |
