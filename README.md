@@ -550,8 +550,8 @@
 | **getconf** | 0.6 | Utility to print configuration values | https://github.com/termux/getconf |
 | **geth** | 1.16.1 | Go implementation of the Ethereum protocol | https://geth.ethereum.org/ |
 | **geth-utils** | 1.16.1 | Additional utilities for Geth (like abigen, bootnode, evm, puppeth) | https://geth.ethereum.org/ |
-| **gettext** | 0.25.1 | GNU Internationalization utilities | https://www.gnu.org/software/gettext/ |
-| **gettext-static** | 0.25.1 | Static libraries for gettext | https://www.gnu.org/software/gettext/ |
+| **gettext** | 0.26 | GNU Internationalization utilities | https://www.gnu.org/software/gettext/ |
+| **gettext-static** | 0.26 | Static libraries for gettext | https://www.gnu.org/software/gettext/ |
 | **gexiv2** | 0.14.6 | A GObject-based Exiv2 wrapper | https://wiki.gnome.org/Projects/gexiv2 |
 | **gflags** | 2.2.2-9 | A C++ library that implements commandline flags processing | https://github.com/gflags/gflags |
 | **gflags-static** | 2.2.2-9 | Static libraries for gflags | https://github.com/gflags/gflags |
@@ -769,7 +769,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-1 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.22.2165 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.22.2174 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **jadx** | 1.5.2 | Dex to Java decompiler | https://github.com/skylot/jadx |
 | **jadx-x** | 1.5.2 | Dex to Java decompiler GUI | https://github.com/skylot/jadx |
 | **janet** | 1.38.0 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
@@ -2511,7 +2511,7 @@
 | **upx** | 5.0.1 | the Ultimate Packer for eXecutables | https://upx.github.io/ |
 | **urdfdom** | 5.0.2 | Unified Robot Description Format (URDF) parser library and tools | https://github.com/ros/urdfdom |
 | **urdfdom-headers** | 1.1.2 | Headers for URDF parsers | https://github.com/ros/urdfdom_headers |
-| **usql** | 0.19.24 | A universal command-line interface for SQL databases | https://github.com/xo/usql |
+| **usql** | 0.19.25 | A universal command-line interface for SQL databases | https://github.com/xo/usql |
 | **utf8cpp** | 4.0.6 | UTF8-CPP: UTF-8 with C++ in a Portable Way | https://github.com/nemtrif/utfcpp |
 | **utf8proc** | 2.10.0 | Library for processing UTF-8 Unicode data | https://github.com/JuliaLang/utf8proc |
 | **utf8proc-static** | 2.10.0 | Static libraries for utf8proc | https://github.com/JuliaLang/utf8proc |

@@ -3241,13 +3241,13 @@
   },
   {
     "Package": "gettext",
-    "Version": "0.25.1",
+    "Version": "0.26",
     "Description": "GNU Internationalization utilities",
     "Homepage": "https://www.gnu.org/software/gettext/"
   },
   {
     "Package": "gettext-static",
-    "Version": "0.25.1",
+    "Version": "0.26",
     "Description": "Static libraries for gettext",
     "Homepage": "https://www.gnu.org/software/gettext/"
   },
@@ -4555,7 +4555,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.22.2165",
+    "Version": "0.22.2174",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -15007,7 +15007,7 @@
   },
   {
     "Package": "usql",
-    "Version": "0.19.24",
+    "Version": "0.19.25",
     "Description": "A universal command-line interface for SQL databases",
     "Homepage": "https://github.com/xo/usql"
   },

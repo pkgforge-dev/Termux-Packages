@@ -2159,11 +2159,11 @@
   Description: Additional utilities for Geth (like abigen, bootnode, evm, puppeth)
   Homepage: https://geth.ethereum.org/
 - Package: gettext
-  Version: 0.25.1
+  Version: "0.26"
   Description: GNU Internationalization utilities
   Homepage: https://www.gnu.org/software/gettext/
 - Package: gettext-static
-  Version: 0.25.1
+  Version: "0.26"
   Description: Static libraries for gettext
   Homepage: https://www.gnu.org/software/gettext/
 - Package: gexiv2
@@ -3035,7 +3035,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.2165
+  Version: 0.22.2174
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -10003,7 +10003,7 @@
   Description: Headers for URDF parsers
   Homepage: https://github.com/ros/urdfdom_headers
 - Package: usql
-  Version: 0.19.24
+  Version: 0.19.25
   Description: A universal command-line interface for SQL databases
   Homepage: https://github.com/xo/usql
 - Package: utf8cpp
