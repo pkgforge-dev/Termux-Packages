@@ -1555,7 +1555,7 @@
   },
   {
     "Package": "command-not-found",
-    "Version": "3.1-3",
+    "Version": "3.1-4",
     "Description": "Suggest installation of packages in interactive shell sessions",
     "Homepage": "https://github.com/termux/command-not-found"
   },
@@ -2557,7 +2557,7 @@
   },
   {
     "Package": "esbuild",
-    "Version": "0.25.7",
+    "Version": "0.25.8",
     "Description": "An extremely fast JavaScript bundler",
     "Homepage": "https://esbuild.github.io/"
   },
@@ -3811,13 +3811,13 @@
   },
   {
     "Package": "graphviz",
-    "Version": "13.1.0",
+    "Version": "13.1.1",
     "Description": "Rich set of graph drawing tools",
     "Homepage": "https://www.graphviz.org/"
   },
   {
     "Package": "graphviz-static",
-    "Version": "13.1.0",
+    "Version": "13.1.1",
     "Description": "Static libraries for graphviz",
     "Homepage": "https://www.graphviz.org/"
   },
@@ -5581,7 +5581,7 @@
   },
   {
     "Package": "libcommons-lang3-java",
-    "Version": "3.18.0",
+    "Version": "3.18.0-1",
     "Description": "A host of helper utilities for the java.lang API",
     "Homepage": "https://commons.apache.org/proper/commons-lang/"
   },
