@@ -1295,7 +1295,7 @@
   Description: Web Directory Fuzzer
   Homepage: http://dirb.sourceforge.net/
 - Package: direnv
-  Version: 2.37.0
+  Version: 2.37.1
   Description: Environment switcher for shell
   Homepage: https://github.com/direnv/direnv
 - Package: direvent
@@ -4935,11 +4935,11 @@
   Description: Application-Level Forward Erasure Correction implementation library
   Homepage: http://openfec.org
 - Package: libopenmpt
-  Version: 0.8.1
+  Version: 0.8.2
   Description: OpenMPT based module player library and libopenmpt based command-line player
   Homepage: https://lib.openmpt.org/libopenmpt/
 - Package: libopenmpt-static
-  Version: 0.8.1
+  Version: 0.8.2
   Description: Static libraries for libopenmpt
   Homepage: https://lib.openmpt.org/libopenmpt/
 - Package: libopus
@@ -6451,7 +6451,7 @@
   Description: Static libraries for mariadb
   Homepage: https://mariadb.org
 - Package: marisa
-  Version: 0.3.0
+  Version: 0.3.1
   Description: Matching Algorithm with Recursively Implemented StorAge
   Homepage: https://github.com/s-yata/marisa-trie
 - Package: markdown-flashcards
