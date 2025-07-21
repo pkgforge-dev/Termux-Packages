@@ -4615,7 +4615,7 @@
   },
   {
     "Package": "jfrog-cli",
-    "Version": "2.77.0",
+    "Version": "2.78.0",
     "Description": "A CLI for JFrog products",
     "Homepage": "https://jfrog.com/getcli"
   },
@@ -7356,12 +7356,6 @@
     "Homepage": "https://www.xiph.org/oggz/"
   },
   {
-    "Package": "liboggz-static",
-    "Version": "1.1.2",
-    "Description": "Static libraries for liboggz",
-    "Homepage": "https://www.xiph.org/oggz/"
-  },
-  {
     "Package": "libolm",
     "Version": "3.2.16",
     "Description": "An implementation of the Double Ratchet cryptographic ratchet",
@@ -9901,7 +9895,7 @@
   },
   {
     "Package": "mediamtx",
-    "Version": "1.13.0",
+    "Version": "1.13.1",
     "Description": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy",
     "Homepage": "https://github.com/bluenviron/mediamtx"
   },
@@ -10111,7 +10105,7 @@
   },
   {
     "Package": "moar",
-    "Version": "1.32.3",
+    "Version": "1.32.4",
     "Description": "A pager designed to just do the right thing without any configuration",
     "Homepage": "https://github.com/walles/moar"
   },

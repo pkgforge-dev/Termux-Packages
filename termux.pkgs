@@ -767,7 +767,7 @@
 | **jbig2enc-static** | 2023.01.08-2 | Static libraries for jbig2enc | https://github.com/agl/jbig2enc |
 | **jcal** | 0.5.1 | UNIX-cal-like tool to display Jalali (Persian/Iranian) calendar | http://nongnu.org/jcal |
 | **jcal-static** | 0.5.1 | Static libraries for jcal | http://nongnu.org/jcal |
-| **jfrog-cli** | 2.77.0 | A CLI for JFrog products | https://jfrog.com/getcli |
+| **jfrog-cli** | 2.78.0 | A CLI for JFrog products | https://jfrog.com/getcli |
 | **jftui** | 0.7.4 | jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server. | https://github.com/Aanok/jftui |
 | **jhead** | 3.08 | Exif Jpeg header manipulation tool | http://www.sentex.net/~mwandel/jhead/ |
 | **jigdo** | 0.8.2 | Distribute large images by sending and receiving the files that make them up | http://atterer.org/jigdo/ |
@@ -1224,7 +1224,6 @@
 | **libogg** | 1.3.6 | Library for working with the Ogg multimedia container format | https://xiph.org/ogg/ |
 | **libogg-static** | 1.3.6 | Static libraries for libogg | https://xiph.org/ogg/ |
 | **liboggz** | 1.1.3 | Command and library to inspect, tweak, edit and validate Ogg files | https://www.xiph.org/oggz/ |
-| **liboggz-static** | 1.1.2 | Static libraries for liboggz | https://www.xiph.org/oggz/ |
 | **libolm** | 3.2.16 | An implementation of the Double Ratchet cryptographic ratchet | https://matrix.org/docs/projects/other/olm/ |
 | **libopenblas** | 0.3.30 | An optimized BLAS library based on GotoBLAS2 1.13 BSD | https://www.openblas.net |
 | **libopenblas-static** | 0.3.30 | Static libraries for libopenblas | https://www.openblas.net |
@@ -1648,7 +1647,7 @@
 | **mdp** | 1.0.18 | Command-line based markdown presentation tool | https://github.com/visit1985/mdp |
 | **media-types** | 13.0.0 | List of standard media types and their usual file extension | https://pagure.io/mailcap |
 | **mediainfo** | 25.04 | Command-line utility for reading information from media files | https://mediaarea.net/en/MediaInfo |
-| **mediamtx** | 1.13.0 | Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy | https://github.com/bluenviron/mediamtx |
+| **mediamtx** | 1.13.1 | Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy | https://github.com/bluenviron/mediamtx |
 | **megacmd** | 2.0.0-1 | Provides non UI access to MEGA services | https://mega.io/ |
 | **megatools** | 1.11.1.20230212 | Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage | https://megatools.megous.com/ |
 | **memcached** | 1.6.38 | Free & open source, high-performance, distributed memory object caching system | https://memcached.org/ |
@@ -1683,7 +1682,7 @@
 | **mktorrent** | 1.1-p20210130-0 | command line utility to create BitTorrent metainfo files | https://github.com/Rudde/mktorrent |
 | **mlir** | 20.1.7 | A Multi-Level Intermediate Representation for compilers from LLVM | https://clang.llvm.org/ |
 | **mlocate** | 0.26-5 | Tool to find files anywhere in the filesystem based on their name | https://pagure.io/mlocate |
-| **moar** | 1.32.3 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moar |
+| **moar** | 1.32.4 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moar |
 | **mold** | 2.40.2 | mold: A Modern Linker | https://github.com/rui314/mold |
 | **monero** | 0.18.4.1 | A private, secure, untraceable, decentralised digital currency | https://getmonero.org/ |
 | **mono** | 6.14.1 | Framework Mono | https://gitlab.winehq.org/mono/mono |
