@@ -1075,7 +1075,7 @@
   Description: CPIO implementation from the GNU project
   Homepage: https://www.gnu.org/software/cpio/
 - Package: cppcheck
-  Version: 2.17.1
+  Version: 2.18.0
   Description: tool for static C/C++ code analysis
   Homepage: https://github.com/danmar/cppcheck
 - Package: cppi
@@ -2659,15 +2659,15 @@
   Description: The Reliable, High Performance TCP/HTTP Load Balancer
   Homepage: https://www.haproxy.org/
 - Package: harfbuzz
-  Version: 11.2.1
+  Version: 11.3.1
   Description: OpenType text shaping engine
   Homepage: https://www.freedesktop.org/wiki/Software/HarfBuzz/
 - Package: harfbuzz-icu
-  Version: 11.2.1
+  Version: 11.3.1
   Description: OpenType text shaping engine ICU backend
   Homepage: https://www.freedesktop.org/wiki/Software/HarfBuzz/
 - Package: harfbuzz-utils
-  Version: 11.2.1
+  Version: 11.3.1
   Description: Tools using the harfbuzz library
   Homepage: https://www.freedesktop.org/wiki/Software/HarfBuzz/
 - Package: has
@@ -5063,7 +5063,7 @@
   Description: Static libraries for libpipeline
   Homepage: http://libpipeline.nongnu.org/
 - Package: libpixman
-  Version: 0.46.2
+  Version: 0.46.4
   Description: Low-level library for pixel manipulation
   Homepage: https://www.pixman.org/
 - Package: libplacebo
@@ -8075,7 +8075,7 @@
   Description: Python 3 programming language intended to enable clear programs
   Homepage: https://python.org/
 - Package: python-apsw
-  Version: 3.50.2.0
+  Version: 3.50.3.0
   Description: Another Python SQLite Wrapper
   Homepage: https://github.com/rogerbinns/apsw/
 - Package: python-apt

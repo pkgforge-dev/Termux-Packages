@@ -267,7 +267,7 @@
  corkscrew  2.0-3  A tool for tunneling SSH through HTTP proxies  https://wiki.linuxquestions.org/wiki/Corkscrew 
  cowsay  3.8.4  Program which generates ASCII pictures of a cow with a message  https://cowsay.diamonds/ 
  cpio  2.15  CPIO implementation from the GNU project  https://www.gnu.org/software/cpio/ 
- cppcheck  2.17.1  tool for static C/C++ code analysis  https://github.com/danmar/cppcheck 
+ cppcheck  2.18.0  tool for static C/C++ code analysis  https://github.com/danmar/cppcheck 
  cppi  1.18-1  Indents C preprocessor directives to reflect their nesting, among other regularizations  https://www.gnu.org/software/cppi/ 
  cpufetch  1.06  Simple yet fancy CPU architecture fetching tool  https://github.com/Dr-Noob/cpufetch 
  cpulimit  0.2-1  CPU usage limiter  https://github.com/opsengine/cpulimit 
@@ -663,9 +663,9 @@
  gumbo-parser-static  0.10.1  Static libraries for gumbo-parser  https://github.com/google/gumbo-parser 
  gzip  1.14  Standard GNU file compression utilities  https://www.gnu.org/software/gzip/ 
  haproxy  3.2.3  The Reliable, High Performance TCP/HTTP Load Balancer  https://www.haproxy.org/ 
- harfbuzz  11.2.1  OpenType text shaping engine  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
- harfbuzz-icu  11.2.1  OpenType text shaping engine ICU backend  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
- harfbuzz-utils  11.2.1  Tools using the harfbuzz library  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
+ harfbuzz  11.3.1  OpenType text shaping engine  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
+ harfbuzz-icu  11.3.1  OpenType text shaping engine ICU backend  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
+ harfbuzz-utils  11.3.1  Tools using the harfbuzz library  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
  has  1.5.0-1  has checks presence of various command line tools and their versions on the path  https://github.com/kdabir/has 
  hash-slinger  3.4  Various tools to generate special DNS records  https://github.com/letoams/hash-slinger 
  hashdeep  4.4-8  Programs to compute hashsums of arbitrary number of files recursively  http://md5deep.sourceforge.net/ 
@@ -1264,7 +1264,7 @@
  libphysfs  3.2.0-1  A portable, flexible file i/o abstraction  https://icculus.org/physfs/ 
  libpipeline  1.5.8  C library for manipulating pipelines of subprocesses in a flexible and convenient way  http://libpipeline.nongnu.org/ 
  libpipeline-static  1.5.8  Static libraries for libpipeline  http://libpipeline.nongnu.org/ 
- libpixman  0.46.2  Low-level library for pixel manipulation  https://www.pixman.org/ 
+ libpixman  0.46.4  Low-level library for pixel manipulation  https://www.pixman.org/ 
  libplacebo  6.338.2-1  Reusable library for GPU-accelerated video/image rendering  http://libplacebo.org/ 
  libplist  2.7.0  A small portable C library to handle Apple Property List files in binary or XML format  https://libimobiledevice.org 
  libplist-static  2.7.0  Static libraries for libplist  https://libimobiledevice.org 
@@ -2017,7 +2017,7 @@
  pypy3-tkinter  7.3.15-4  Tkinter support for PyPy 3  https://pypy.org 
  pystring  1.1.4  C++ functions matching the interface and behavior of python string methods with std::string  https://github.com/imageworks/pystring 
  python  3.12.11  Python 3 programming language intended to enable clear programs  https://python.org/ 
- python-apsw  3.50.2.0  Another Python SQLite Wrapper  https://github.com/rogerbinns/apsw/ 
+ python-apsw  3.50.3.0  Another Python SQLite Wrapper  https://github.com/rogerbinns/apsw/ 
  python-apt  3.0.0  Python bindings for APT  https://apt-team.pages.debian.net/python-apt/ 
  python-bcrypt  4.3.0  Acceptable password hashing for your software and your servers  https://github.com/pyca/bcrypt 
  python-brotli  1.1.0-3  lossless compression algorithm and format (Python bindings)  https://github.com/google/brotli 
