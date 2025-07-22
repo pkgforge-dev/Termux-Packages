@@ -233,7 +233,7 @@
 | **clblast** | 1.6.3 | Tuned OpenCL BLAS | https://github.com/CNugteren/CLBlast |
 | **cliaoke** | 0.2.4-4 | Command line karaoke | https://github.com/jessfraz/cliaoke |
 | **clidle** | 2022.05.25-2 | Play Wordle over SSH | https://github.com/ajeetdsouza/clidle |
-| **clifm** | 1.25 | The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell | https://github.com/leo-arch/clifm |
+| **clifm** | 1.26 | The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell | https://github.com/leo-arch/clifm |
 | **clinfo** | 3.0.25.02.14 | Print all known information about all available OpenCL platforms and devices in the system | https://github.com/Oblomov/clinfo |
 | **clipp** | 1.2.3-1 | Command line interfaces for modern C++ | https://github.com/muellan/clipp |
 | **cloneit** | 20240728 | A cli tool to download specific GitHub directories or files | https://github.com/alok8bb/cloneit |
@@ -398,7 +398,7 @@
 | **e2tools** | 0.1.2 | mtools analogue for ext2/3 filesystems | https://github.com/e2tools/e2tools |
 | **ebook-tools** | 0.2.2-2 | Tools for accessing and converting various ebook file formats | https://sourceforge.net/projects/ebook-tools/ |
 | **ecj** | 1:4.12-5 | Eclipse Compiler for Java | https://www.eclipse.org/jdt/core/ |
-| **ed** | 1.21.1 | Classic UNIX line editor | https://www.gnu.org/software/ed/ |
+| **ed** | 1.22 | Classic UNIX line editor | https://www.gnu.org/software/ed/ |
 | **edbrowse** | 3.8.12 | Line based editor, browser, and mail client | https://edbrowse.org/ |
 | **editorconfig-core-c** | 0.12.9 | EditorConfig core code written in C (for use by plugins supporting EditorConfig parsing) | https://editorconfig.org/ |
 | **editorconfig-core-c-static** | 0.12.9 | Static libraries for editorconfig-core-c | https://editorconfig.org/ |
@@ -427,7 +427,7 @@
 | **esbuild** | 0.25.8 | An extremely fast JavaScript bundler | https://esbuild.github.io/ |
 | **espeak** | 1.52.0 | Compact software speech synthesizer | https://github.com/espeak-ng/espeak-ng |
 | **espeak-static** | 1.52.0 | Static libraries for espeak | https://github.com/espeak-ng/espeak-ng |
-| **et** | 6.2.9-4 | A remote shell that automatically reconnects without interrupting the session | https://eternalterminal.dev |
+| **et** | 6.2.10 | A remote shell that automatically reconnects without interrupting the session | https://eternalterminal.dev |
 | **etsh** | 5.4.0 | An enhanced, backward-compatible port of Thompson Shell | https://etsh.nl |
 | **exercism** | 3.5.7 | A Go based command line tool for exercism.io | https://github.com/exercism/cli/ |
 | **exfatprogs** | 1.2.9 | exFAT filesystem userspace utilities | https://github.com/exfatprogs/exfatprogs |
@@ -1320,8 +1320,8 @@
 | **libseat** | 0.9.1 | Reference implementation of a wayland compositor | https://sr.ht/~kennylevinsen/seatd/ |
 | **libseccomp** | 2.5.5-3 | Enhanced seccomp library | https://github.com/seccomp/libseccomp |
 | **libseccomp-static** | 2.5.5-3 | Static libraries for libseccomp | https://github.com/seccomp/libseccomp |
-| **libsecp256k1** | 1:0.6.0 | Optimized c library for ECDSA signatures and seret/public key operations on curve secp256k1 | https://github.com/bitcoin-core/secp256k1 |
-| **libsecp256k1-static** | 1:0.6.0 | Static libraries for libsecp256k1 | https://github.com/bitcoin-core/secp256k1 |
+| **libsecp256k1** | 1:0.7.0 | Optimized c library for ECDSA signatures and seret/public key operations on curve secp256k1 | https://github.com/bitcoin-core/secp256k1 |
+| **libsecp256k1-static** | 1:0.7.0 | Static libraries for libsecp256k1 | https://github.com/bitcoin-core/secp256k1 |
 | **libsecret** | 0.21.7-1 | A GObject-based library for accessing the Secret Service API | https://gitlab.gnome.org/GNOME/libsecret |
 | **libsfdo** | 0.1.4 | A collection of libraries which implement some of the freedesktop.org specifications. | https://gitlab.freedesktop.org/vyivel/libsfdo |
 | **libshout** | 2.4.6-1 | Library which can be used to write a source client like ices. | https://icecast.org/ |
@@ -1587,7 +1587,7 @@
 | **luvi** | 1:2.15.0 | A project in-between luv and luvit | https://luvit.io |
 | **luvit** | 2.18.1-1 | Asynchronous I/O for Lua | https://luvit.io |
 | **lux** | 0.24.1-1 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
-| **lux-cli** | 0.9.1 | A package manager for Lua, similar to luarocks | https://nvim-neorocks.github.io/ |
+| **lux-cli** | 0.10.0 | A package manager for Lua, similar to luarocks | https://nvim-neorocks.github.io/ |
 | **lv2** | 1.18.10-5 | A plugin standard for audio systems | https://lv2plug.in/ |
 | **lychee** | 0.19.1 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
 | **lynx** | 2.9.2 | The text web browser | http://lynx.browser.org/ |
@@ -1682,7 +1682,7 @@
 | **mktorrent** | 1.1-p20210130-0 | command line utility to create BitTorrent metainfo files | https://github.com/Rudde/mktorrent |
 | **mlir** | 20.1.7 | A Multi-Level Intermediate Representation for compilers from LLVM | https://clang.llvm.org/ |
 | **mlocate** | 0.26-5 | Tool to find files anywhere in the filesystem based on their name | https://pagure.io/mlocate |
-| **moar** | 1.32.4 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moar |
+| **moar** | 1.32.5 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moar |
 | **mold** | 2.40.2 | mold: A Modern Linker | https://github.com/rui314/mold |
 | **monero** | 0.18.4.1 | A private, secure, untraceable, decentralised digital currency | https://getmonero.org/ |
 | **mono** | 6.14.1 | Framework Mono | https://gitlab.winehq.org/mono/mono |
@@ -1883,7 +1883,7 @@
 | **pango** | 1.56.4 | Library for laying out and rendering text | https://www.gtk.org/docs/architecture/pango |
 | **paperkey** | 1.6 | Archive OpenPGP keys on paper | http://www.jabberwocky.com/software/paperkey/ |
 | **par2** | 1.0.0 | par2cmdline is a PAR 2.0 compatible file verification and repair tool | https://github.com/Parchive/par2cmdline |
-| **parallel** | 20250622 | GNU Parallel is a shell tool for executing jobs in parallel using one or more machines | https://www.gnu.org/software/parallel/ |
+| **parallel** | 20250722 | GNU Parallel is a shell tool for executing jobs in parallel using one or more machines | https://www.gnu.org/software/parallel/ |
 | **pari** | 2.17.2 | A computer algebra system designed for fast computations in number theory | https://pari.math.u-bordeaux.fr/ |
 | **pari-static** | 2.17.2 | Static libraries for pari | https://pari.math.u-bordeaux.fr/ |
 | **parted** | 3.6 | Versatile partition editor | https://www.gnu.org/software/parted/ |
@@ -2050,7 +2050,7 @@
 | **python-torchvision** | 0.21.0-1 | Datasets, Transforms and Models specific to Computer Vision | https://github.com/pytorch/vision |
 | **python-xcbgen** | 1.17.0-1 | The xcbgen Python module | https://xcb.freedesktop.org/ |
 | **python-xlib** | 0.33-1 | The Python X Library | https://github.com/python-xlib/python-xlib |
-| **python-yt-dlp** | 2025.06.30 | A youtube-dl fork with additional features and fixes | https://github.com/yt-dlp/yt-dlp |
+| **python-yt-dlp** | 2025.07.21 | A youtube-dl fork with additional features and fixes | https://github.com/yt-dlp/yt-dlp |
 | **python2** | 2.7.18-14 | Python 2 programming language intended to enable clear programs | http://python.org/ |
 | **python2-static** | 2.7.18-14 | Static libraries for python2 | http://python.org/ |
 | **pyunbound** | 1.23.1 | Python bindings for Unbound | https://unbound.net/ |
@@ -2204,7 +2204,7 @@
 | **sdcv** | 0.5.5-1 | StarDict Console Version | http://dushistov.github.io/sdcv/ |
 | **seafile-client** | 9.0.14-1 | Seafile is a file syncing and sharing software with file encryption and group sharing | https://seafile.com |
 | **seafile-client-static** | 9.0.14-1 | Static libraries for seafile-client | https://seafile.com |
-| **seanime** | 2.9.2 | Self-hosted anime and manga server for sea rovers. | https://github.com/5rahim/seanime |
+| **seanime** | 2.9.3 | Self-hosted anime and manga server for sea rovers. | https://github.com/5rahim/seanime |
 | **seccure** | 0.5-7 | SECCURE Elliptic Curve Crypto Utility for Reliable Encryption | http://point-at-infinity.org/seccure/ |
 | **secure-delete** | 3.1-5 | Secure file, disk, swap, memory erasure utilities | http://www.thc.org/ |
 | **sed** | 4.9-1 | GNU stream editor for filtering/transforming text | https://www.gnu.org/software/sed/ |

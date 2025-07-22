@@ -939,7 +939,7 @@
   Description: Play Wordle over SSH
   Homepage: https://github.com/ajeetdsouza/clidle
 - Package: clifm
-  Version: "1.25"
+  Version: "1.26"
   Description: 'The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell'
   Homepage: https://github.com/leo-arch/clifm
 - Package: clinfo
@@ -1599,7 +1599,7 @@
   Description: Eclipse Compiler for Java
   Homepage: https://www.eclipse.org/jdt/core/
 - Package: ed
-  Version: 1.21.1
+  Version: "1.22"
   Description: Classic UNIX line editor
   Homepage: https://www.gnu.org/software/ed/
 - Package: edbrowse
@@ -1715,7 +1715,7 @@
   Description: Static libraries for espeak
   Homepage: https://github.com/espeak-ng/espeak-ng
 - Package: et
-  Version: 6.2.9-4
+  Version: 6.2.10
   Description: A remote shell that automatically reconnects without interrupting the session
   Homepage: https://eternalterminal.dev
 - Package: etsh
@@ -5287,11 +5287,11 @@
   Description: Static libraries for libseccomp
   Homepage: https://github.com/seccomp/libseccomp
 - Package: libsecp256k1
-  Version: 1:0.6.0
+  Version: 1:0.7.0
   Description: Optimized c library for ECDSA signatures and seret/public key operations on curve secp256k1
   Homepage: https://github.com/bitcoin-core/secp256k1
 - Package: libsecp256k1-static
-  Version: 1:0.6.0
+  Version: 1:0.7.0
   Description: Static libraries for libsecp256k1
   Homepage: https://github.com/bitcoin-core/secp256k1
 - Package: libsecret
@@ -6355,7 +6355,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.9.1
+  Version: 0.10.0
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://nvim-neorocks.github.io/
 - Package: lv2
@@ -6735,7 +6735,7 @@
   Description: Tool to find files anywhere in the filesystem based on their name
   Homepage: https://pagure.io/mlocate
 - Package: moar
-  Version: 1.32.4
+  Version: 1.32.5
   Description: A pager designed to just do the right thing without any configuration
   Homepage: https://github.com/walles/moar
 - Package: mold
@@ -7539,7 +7539,7 @@
   Description: par2cmdline is a PAR 2.0 compatible file verification and repair tool
   Homepage: https://github.com/Parchive/par2cmdline
 - Package: parallel
-  Version: "20250622"
+  Version: "20250722"
   Description: GNU Parallel is a shell tool for executing jobs in parallel using one or more machines
   Homepage: https://www.gnu.org/software/parallel/
 - Package: pari
@@ -8207,7 +8207,7 @@
   Description: The Python X Library
   Homepage: https://github.com/python-xlib/python-xlib
 - Package: python-yt-dlp
-  Version: 2025.06.30
+  Version: 2025.07.21
   Description: A youtube-dl fork with additional features and fixes
   Homepage: https://github.com/yt-dlp/yt-dlp
 - Package: python2
@@ -8823,7 +8823,7 @@
   Description: Static libraries for seafile-client
   Homepage: https://seafile.com
 - Package: seanime
-  Version: 2.9.2
+  Version: 2.9.3
   Description: Self-hosted anime and manga server for sea rovers.
   Homepage: https://github.com/5rahim/seanime
 - Package: seccure
