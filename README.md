@@ -515,7 +515,7 @@
 | **fsmon** | 1.8.8 | Filesystem monitor with fanotify and inotify backends | https://github.com/nowsecure/fsmon |
 | **fwknop** | 2.6.11 | fwknop: Single Packet Authorization > Port Knocking | https://www.cipherdyne.org/fwknop/ |
 | **fwknop-static** | 2.6.11 | Static libraries for fwknop | https://www.cipherdyne.org/fwknop/ |
-| **fx** | 37.0.1 | Interactive JSON viewer on your terminal | https://github.com/antonmedv/fx |
+| **fx** | 38.0.0 | Interactive JSON viewer on your terminal | https://github.com/antonmedv/fx |
 | **fzf** | 0.64.0 | Command-line fuzzy finder | https://junegunn.github.io/fzf/ |
 | **fzy** | 1.1 | A simple, fast fuzzy finder for the terminal | https://github.com/jhawthorn/fzy |
 | **g-ir-scanner** | 1.84.0 | A tool which generates GIR XML files | https://gi.readthedocs.io/ |
@@ -2231,7 +2231,7 @@
 | **shaderc** | 2025.3 | Collection of tools, libraries, and tests for Vulkan shader compilation | https://github.com/google/shaderc |
 | **sharutils** | 4.15.2-3 | Utilities for packaging and unpackaging shell archives | https://www.gnu.org/software/sharutils/ |
 | **shc** | 4.0.3-3 | Shell script compiler | https://neurobin.org/projects/softwares/unix/shc/ |
-| **sheldon** | 0.8.4 | Fast, configurable, shell plugin manager | https://sheldon.cli.rs/ |
+| **sheldon** | 0.8.5 | Fast, configurable, shell plugin manager | https://sheldon.cli.rs/ |
 | **shell2http** | 1.17.0 | Executing shell commands via HTTP server | https://github.com/msoap/shell2http |
 | **shellcheck** | 0.10.0-2 | Shell script analysis tool | https://www.shellcheck.net/ |
 | **shellharden** | 4.3.1 | The corrective bash syntax highlighter | https://github.com/anordal/shellharden |
@@ -2557,7 +2557,7 @@
 | **vlc-static** | 3.0.21-8 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-3 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.3 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 2025.07.17 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
+| **vtm** | 2025.07.22 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
 | **vttest** | 20241208 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-4 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.4.321 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
