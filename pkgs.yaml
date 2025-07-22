@@ -1715,7 +1715,7 @@
   Description: Static libraries for espeak
   Homepage: https://github.com/espeak-ng/espeak-ng
 - Package: et
-  Version: 6.2.10
+  Version: 6.2.11
   Description: A remote shell that automatically reconnects without interrupting the session
   Homepage: https://eternalterminal.dev
 - Package: etsh
@@ -3035,7 +3035,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.2178
+  Version: 0.22.2182
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -6431,7 +6431,7 @@
   Description: Cli manga downloader
   Homepage: https://github.com/metafates/mangal
 - Package: manpages
-  Version: "6.14"
+  Version: "6.15"
   Description: Man pages for linux kernel and C library interfaces
   Homepage: https://www.kernel.org/doc/man-pages/
 - Package: mapserver
@@ -10139,7 +10139,7 @@
   Description: VI Like Emacs - vi work-alike
   Homepage: https://invisible-island.net/vile/
 - Package: vim
-  Version: 9.1.1450-1
+  Version: 9.1.1550
   Description: Vi IMproved - enhanced vi editor
   Homepage: https://www.vim.org
 - Package: virglrenderer
@@ -10491,7 +10491,7 @@
   Description: Static libraries for xvidcore
   Homepage: https://www.xvid.com/
 - Package: xxd
-  Version: 9.1.1450-1
+  Version: 9.1.1550
   Description: Hexdump utility from vim
   Homepage: https://www.vim.org
 - Package: xxhash
