@@ -3035,7 +3035,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.2182
+  Version: 0.22.2185
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -7359,27 +7359,27 @@
   Description: Codec library supporting H.264 encoding and decoding
   Homepage: https://www.openh264.org/
 - Package: openjdk-17
-  Version: 17.0.16-1
+  Version: 17.0.16-2
   Description: Java development kit and runtime
   Homepage: https://openjdk.java.net
 - Package: openjdk-17-source
-  Version: 17.0.16-1
+  Version: 17.0.16-2
   Description: Source files for openjdk-17
   Homepage: https://openjdk.java.net
 - Package: openjdk-17-x
-  Version: 17.0.16-1
+  Version: 17.0.16-2
   Description: Portion of openjdk-17 requiring X11 functionality
   Homepage: https://openjdk.java.net
 - Package: openjdk-21
-  Version: 21.0.8
+  Version: 21.0.8-1
   Description: Java development kit and runtime
   Homepage: https://openjdk.java.net
 - Package: openjdk-21-source
-  Version: 21.0.8
+  Version: 21.0.8-1
   Description: Source files for openjdk-21
   Homepage: https://openjdk.java.net
 - Package: openjdk-21-x
-  Version: 21.0.8
+  Version: 21.0.8-1
   Description: Portion of openjdk-21 requiring X11 functionality
   Homepage: https://openjdk.java.net
 - Package: openjpeg
