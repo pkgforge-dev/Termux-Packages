@@ -1327,7 +1327,7 @@
   },
   {
     "Package": "chezmoi",
-    "Version": "2.63.0",
+    "Version": "2.63.1",
     "Description": "Manage your dotfiles across multiple machines",
     "Homepage": "https://chezmoi.io"
   },
@@ -2521,13 +2521,13 @@
   },
   {
     "Package": "enchant",
-    "Version": "2.8.10",
+    "Version": "2.8.11",
     "Description": "Wraps a number of different spelling libraries and programs with a consistent interface",
     "Homepage": "https://rrthomas.github.io/enchant/"
   },
   {
     "Package": "enchant-static",
-    "Version": "2.8.10",
+    "Version": "2.8.11",
     "Description": "Static libraries for enchant",
     "Homepage": "https://rrthomas.github.io/enchant/"
   },
@@ -10981,13 +10981,13 @@
   },
   {
     "Package": "opencl-clhpp",
-    "Version": "2024.10.24",
+    "Version": "2025.07.22",
     "Description": "Khronos OpenCL C++ Headers",
     "Homepage": "https://github.com/KhronosGroup/OpenCL-CLHPP"
   },
   {
     "Package": "opencl-headers",
-    "Version": "2024.10.24",
+    "Version": "2025.07.22",
     "Description": "Khronos OpenCL-Headers",
     "Homepage": "https://github.com/KhronosGroup/OpenCL-Headers"
   },
@@ -15061,7 +15061,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.8.1",
+    "Version": "0.8.2",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
