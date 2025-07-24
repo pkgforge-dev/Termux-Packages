@@ -771,7 +771,7 @@
   Description: Static libraries for capstone
   Homepage: https://www.capstone-engine.org/
 - Package: carapace
-  Version: 1.4.0
+  Version: 1.4.1
   Description: Multi-shell multi-command argument completer
   Homepage: https://carapace.sh/
 - Package: cargo-c
@@ -1191,7 +1191,7 @@
   Description: Static libraries for dar
   Homepage: http://dar.linux.free.fr/
 - Package: darkhttpd
-  Version: "1.16"
+  Version: "1.17"
   Description: A simple webserver, implemented in a single .c file.
   Homepage: https://unix4lyfe.org/darkhttpd
 - Package: dart
@@ -6735,7 +6735,7 @@
   Description: Tool to find files anywhere in the filesystem based on their name
   Homepage: https://pagure.io/mlocate
 - Package: moar
-  Version: 1.32.5
+  Version: 1.32.6
   Description: A pager designed to just do the right thing without any configuration
   Homepage: https://github.com/walles/moar
 - Package: mold
@@ -10187,7 +10187,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2025.07.22
+  Version: 2025.07.24
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vttest
