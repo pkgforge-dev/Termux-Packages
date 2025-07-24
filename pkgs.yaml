@@ -7399,7 +7399,7 @@
   Description: Static libraries for openldap
   Homepage: https://openldap.org
 - Package: openlist
-  Version: 4.0.8
+  Version: 4.0.9
   Description: A file list program that supports multiple storage
   Homepage: https://oplist.org/
 - Package: openmpi
@@ -8155,7 +8155,7 @@
   Description: Python client for Neovim
   Homepage: https://github.com/neovim/pynvim
 - Package: python-ruff
-  Version: 0.12.4
+  Version: 0.12.5
   Description: An extremely fast Python linter, written in Rust (Python bindings)
   Homepage: https://github.com/charliermarsh/ruff
 - Package: python-sabyenc3
@@ -8659,7 +8659,7 @@
   Description: Ruby documentation index
   Homepage: https://www.ruby-lang.org/
 - Package: ruff
-  Version: 0.12.4
+  Version: 0.12.5
   Description: An extremely fast Python linter, written in Rust
   Homepage: https://github.com/charliermarsh/ruff
 - Package: runit
