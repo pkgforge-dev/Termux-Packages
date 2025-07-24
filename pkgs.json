@@ -4555,7 +4555,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.22.2185",
+    "Version": "0.22.2187",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -6235,7 +6235,7 @@
   },
   {
     "Package": "libgrpc",
-    "Version": "1.73.1",
+    "Version": "1.74.0",
     "Description": "High performance, open source, general RPC framework that puts mobile and HTTP/2 first",
     "Homepage": "https://grpc.io/"
   },
@@ -9907,9 +9907,9 @@
   },
   {
     "Package": "megatools",
-    "Version": "1.11.1.20230212",
+    "Version": "1.11.5.20250706",
     "Description": "Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage",
-    "Homepage": "https://megatools.megous.com/"
+    "Homepage": "https://xff.cz/megatools/"
   },
   {
     "Package": "memcached",
