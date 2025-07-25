@@ -801,7 +801,7 @@
 | **jsoncpp-static** | 1.9.6-1 | Static libraries for jsoncpp | https://github.com/open-source-parsers/jsoncpp |
 | **jump** | 0.51.0-3 | Jump helps you navigate in shell faster by learning your habits | https://github.com/gsamokovarov/jump |
 | **jupp** | 3.1jupp41-1 | User friendly full screen text editor | http://www.mirbsd.org/jupp.htm |
-| **just** | 1.42.3 | A handy way to save and run project-specific commands | https://just.systems |
+| **just** | 1.42.4 | A handy way to save and run project-specific commands | https://just.systems |
 | **jython** | 2.7.4-1 | Python for the Java Platform | https://www.jython.org/ |
 | **k2pdfopt** | 2.55-3 | A tool that optimizes PDF files for viewing on mobile readers | https://www.willus.com/k2pdfopt/ |
 | **k9s** | 0.50.9 | Kubernetes CLI To Manage Your Clusters In Style! | https://k9scli.io |
@@ -2520,7 +2520,7 @@
 | **util-linux-static** | 2.40.2-4 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-1 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.40.2-4 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **uv** | 0.8.2 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
+| **uv** | 0.8.3 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.30 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.37.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.18 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
@@ -2557,7 +2557,7 @@
 | **vlc-static** | 3.0.21-8 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-3 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.3 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 2025.07.24 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
+| **vtm** | 2025.07.25 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
 | **vttest** | 20241208 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-4 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.4.321 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
