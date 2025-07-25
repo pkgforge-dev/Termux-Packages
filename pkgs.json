@@ -6475,7 +6475,7 @@
   },
   {
     "Package": "libinih",
-    "Version": "60",
+    "Version": "61",
     "Description": "A simple .INI file parser written in C",
     "Homepage": "https://github.com/benhoyt/inih"
   },
@@ -7237,13 +7237,13 @@
   },
   {
     "Package": "libnghttp3",
-    "Version": "1.10.1",
+    "Version": "1.11.0",
     "Description": "HTTP/3 library written in C",
     "Homepage": "https://nghttp2.org/nghttp3/"
   },
   {
     "Package": "libnghttp3-static",
-    "Version": "1.10.1",
+    "Version": "1.11.0",
     "Description": "Static libraries for libnghttp3",
     "Homepage": "https://nghttp2.org/nghttp3/"
   },
@@ -14953,7 +14953,7 @@
   },
   {
     "Package": "unrar",
-    "Version": "7.1.8",
+    "Version": "7.1.9",
     "Description": "Tool for extracting files from .rar archives",
     "Homepage": "https://www.rarlab.com/"
   },

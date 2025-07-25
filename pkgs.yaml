@@ -4315,7 +4315,7 @@
   Description: An immediate mode text-based user interface library
   Homepage: https://github.com/ggerganov/imtui
 - Package: libinih
-  Version: "60"
+  Version: "61"
   Description: A simple .INI file parser written in C
   Homepage: https://github.com/benhoyt/inih
 - Package: libiniparser
@@ -4823,11 +4823,11 @@
   Description: Static libraries for libnghttp2
   Homepage: https://nghttp2.org/
 - Package: libnghttp3
-  Version: 1.10.1
+  Version: 1.11.0
   Description: HTTP/3 library written in C
   Homepage: https://nghttp2.org/nghttp3/
 - Package: libnghttp3-static
-  Version: 1.10.1
+  Version: 1.11.0
   Description: Static libraries for libnghttp3
   Homepage: https://nghttp2.org/nghttp3/
 - Package: libnl
@@ -9967,7 +9967,7 @@
   Description: A post-processing tool for scanned sheets of paper
   Homepage: https://www.flameeyes.com/projects/unpaper
 - Package: unrar
-  Version: 7.1.8
+  Version: 7.1.9
   Description: Tool for extracting files from .rar archives
   Homepage: https://www.rarlab.com/
 - Package: unshield
