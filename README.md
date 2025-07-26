@@ -2033,7 +2033,7 @@
 | **python-bcrypt** | 4.3.0 | Acceptable password hashing for your software and your servers | https://github.com/pyca/bcrypt |
 | **python-brotli** | 1.1.0-3 | lossless compression algorithm and format (Python bindings) | https://github.com/google/brotli |
 | **python-cmake** | 4.0.3 | Python wrapper for CMake | https://cmake-python-distributions.readthedocs.io/ |
-| **python-contourpy** | 1.3.2 | Python library for calculating contours in 2D quadrilateral grids | https://contourpy.readthedocs.io/ |
+| **python-contourpy** | 1.3.3 | Python library for calculating contours in 2D quadrilateral grids | https://contourpy.readthedocs.io/ |
 | **python-cryptography** | 45.0.5 | Provides cryptographic recipes and primitives to Python developers | https://github.com/pyca/cryptography |
 | **python-ensurepip-wheels** | 3.12.11 | Wheels for Python ensurepip | https://python.org/ |
 | **python-greenlet** | 3.2.3 | Lightweight coroutines for in-process concurrent programming | https://github.com/python-greenlet/greenlet |
