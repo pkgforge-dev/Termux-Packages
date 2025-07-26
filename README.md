@@ -753,8 +753,8 @@
 | **intltool** | 0.51.0-3 | The internationalization tool collection | https://launchpad.net/intltool |
 | **inxi** | 3.3.38-1-0 | Full featured CLI system information tool | https://smxi.org/site/about.htm#inxi |
 | **ipcalc** | 0.51 | Calculates IP broadcast, network, Cisco wildcard mask, and host ranges | http://jodies.de/ipcalc |
-| **iperf3** | 3.19 | TCP, UDP, and SCTP network bandwidth measurement tool | https://github.com/esnet/iperf |
-| **iperf3-static** | 3.19 | Static libraries for iperf3 | https://github.com/esnet/iperf |
+| **iperf3** | 3.19.1 | TCP, UDP, and SCTP network bandwidth measurement tool | https://github.com/esnet/iperf |
+| **iperf3-static** | 3.19.1 | Static libraries for iperf3 | https://github.com/esnet/iperf |
 | **ipmitool** | 1.8.19 | Command-line interface to IPMI-enabled devices | https://github.com/ipmitool/ipmitool |
 | **iproute2** | 6.15.0 | Utilities for controlling networking | https://wiki.linuxfoundation.org/networking/iproute2 |
 | **ipv6calc** | 4.3.2 | Does some format changes and calculations of IPv6 addresses | https://www.deepspace6.net/projects/ipv6calc.html |
@@ -2032,6 +2032,7 @@
 | **python-apt** | 3.0.0 | Python bindings for APT | https://apt-team.pages.debian.net/python-apt/ |
 | **python-bcrypt** | 4.3.0 | Acceptable password hashing for your software and your servers | https://github.com/pyca/bcrypt |
 | **python-brotli** | 1.1.0-3 | lossless compression algorithm and format (Python bindings) | https://github.com/google/brotli |
+| **python-cmake** | 4.0.3 | Python wrapper for CMake | https://cmake-python-distributions.readthedocs.io/ |
 | **python-contourpy** | 1.3.2 | Python library for calculating contours in 2D quadrilateral grids | https://contourpy.readthedocs.io/ |
 | **python-cryptography** | 45.0.5 | Provides cryptographic recipes and primitives to Python developers | https://github.com/pyca/cryptography |
 | **python-ensurepip-wheels** | 3.12.11 | Wheels for Python ensurepip | https://python.org/ |
