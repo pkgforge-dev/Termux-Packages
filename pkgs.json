@@ -1555,7 +1555,7 @@
   },
   {
     "Package": "command-not-found",
-    "Version": "3.1-4",
+    "Version": "3.1-5",
     "Description": "Suggest installation of packages in interactive shell sessions",
     "Homepage": "https://github.com/termux/command-not-found"
   },
@@ -3991,19 +3991,19 @@
   },
   {
     "Package": "harfbuzz",
-    "Version": "11.3.2",
+    "Version": "11.3.3",
     "Description": "OpenType text shaping engine",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-icu",
-    "Version": "11.3.2",
+    "Version": "11.3.3",
     "Description": "OpenType text shaping engine ICU backend",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-utils",
-    "Version": "11.3.2",
+    "Version": "11.3.3",
     "Description": "Tools using the harfbuzz library",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
@@ -10015,7 +10015,7 @@
   },
   {
     "Package": "miniflux",
-    "Version": "2.2.10",
+    "Version": "2.2.11",
     "Description": "A minimalist and opinionated feed reader",
     "Homepage": "https://miniflux.app/"
   },
@@ -12031,7 +12031,7 @@
   },
   {
     "Package": "pv",
-    "Version": "1.9.31",
+    "Version": "1.9.34",
     "Description": "Terminal-based tool for monitoring the progress of data through a pipeline",
     "Homepage": "https://www.ivarch.com/programs/pv.shtml"
   },
