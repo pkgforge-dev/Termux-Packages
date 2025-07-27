@@ -27,7 +27,7 @@
 | **abseil-cpp** | 20250127.1 | Abseil C++ Common Libraries | https://abseil.io/ |
 | **ack-grep** | 3.8.1 | Tool like grep optimized for programmers | https://beyondgrep.com/ |
 | **acr** | 2.2.2 | A fully compatible autoconf replacement | https://github.com/radareorg/acr |
-| **ada** | 3.2.6 | WHATWG-compliant and fast URL parser written in modern C++ | https://github.com/ada-url/ada |
+| **ada** | 3.2.7 | WHATWG-compliant and fast URL parser written in modern C++ | https://github.com/ada-url/ada |
 | **adms** | 2.3.7 | A code generator for the Verilog-AMS language | https://github.com/qucs/adms |
 | **aerc** | 0.20.1 | A pretty good email client | https://aerc-mail.org/ |
 | **agate** | 3.3.17 | Very simple server for the Gemini hypertext protocol | https://github.com/mbrubeck/agate |
@@ -714,7 +714,7 @@
 | **httrack-data** | 3.49.6 | Platform-independent data for httrack | http://www.httrack.com |
 | **httrack-static** | 3.49.6 | Static libraries for httrack | http://www.httrack.com |
 | **hub** | 2.14.2-5 | Command-line wrapper for git that makes you better at GitHub | https://hub.github.com/ |
-| **hugo** | 0.148.1 | A fast and flexible static site generator | https://gohugo.io/ |
+| **hugo** | 0.148.2 | A fast and flexible static site generator | https://gohugo.io/ |
 | **hummin** | 2021.05.18-3 | Command line client for the imperial library of trantor | https://trantor.is/ |
 | **hunspell** | 1.7.2 | Spell checker | https://hunspell.github.io |
 | **hunspell-en-us** | 20240129 | American english dictionary for hunspell | https://hunspell.github.io |
@@ -2340,7 +2340,7 @@
 | **suite3270** | 4.1ga11-1 | A family of IBM 3270 terminal emulators and related tools | http://x3270.bgp.nu/ |
 | **sun** | 1.0.0-3 | A very simple note taking cli app | https://stand-up-notes.org |
 | **surfraw** | 2.3.0-10 | Shell Users' Revolutionary Front Rage Against the Web | https://gitlab.com/surfraw/Surfraw |
-| **svt-av1** | 3.0.2 | Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder) | https://gitlab.com/AOMediaCodec/SVT-AV1 |
+| **svt-av1** | 3.1.0 | Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder) | https://gitlab.com/AOMediaCodec/SVT-AV1 |
 | **swaks** | 20240103.0 | Swiss Army Knife for SMTP | http://jetmore.org/john/code/swaks/ |
 | **swi-prolog** | 9.3.22 | Most popular and complete prolog implementation | https://swi-prolog.org/ |
 | **swift-runtime-aarch64** | 6.1.2 | Swift runtime libraries for Android AArch64 | https://swift.org/ |
