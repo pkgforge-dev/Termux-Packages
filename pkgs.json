@@ -12180,6 +12180,12 @@
     "Homepage": "https://github.com/sass/libsass-python"
   },
   {
+    "Package": "python-llvmlite",
+    "Version": "0.44.0",
+    "Description": "A lightweight LLVM python binding for writing JIT compilers",
+    "Homepage": "https://llvmlite.pydata.org/"
+  },
+  {
     "Package": "python-lxml",
     "Version": "6.0.0",
     "Description": "Python binding for the libxml2 and libxslt libraries",
