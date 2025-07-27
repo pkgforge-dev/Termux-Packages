@@ -504,7 +504,7 @@
  fwknop  2.6.11  fwknop: Single Packet Authorization > Port Knocking  https://www.cipherdyne.org/fwknop/ 
  fwknop-static  2.6.11  Static libraries for fwknop  https://www.cipherdyne.org/fwknop/ 
  fx  38.0.0  Interactive JSON viewer on your terminal  https://github.com/antonmedv/fx 
- fzf  0.64.0  Command-line fuzzy finder  https://junegunn.github.io/fzf/ 
+ fzf  0.65.0  Command-line fuzzy finder  https://junegunn.github.io/fzf/ 
  fzy  1.1  A simple, fast fuzzy finder for the terminal  https://github.com/jhawthorn/fzy 
  g-ir-scanner  1.84.0  A tool which generates GIR XML files  https://gi.readthedocs.io/ 
  game-music-emu  0.6.4  A collection of video game music file emulators  https://bitbucket.org/mpyne/game-music-emu/wiki/Home 
@@ -757,7 +757,7 @@
  jack  0.0.1  A metapackage that provides JACK Audio Connection Kit  https://github.com/termux/termux-packages 
  jack-example-tools  4  Official JACK example clients and tools  https://jackaudio.org/ 
  jack2  1.9.22-1  The JACK low-latency audio server  https://jackaudio.org/ 
- jackett  0.22.2196  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
+ jackett  0.22.2200  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
  jadx  1.5.2  Dex to Java decompiler  https://github.com/skylot/jadx 
  jadx-x  1.5.2  Dex to Java decompiler GUI  https://github.com/skylot/jadx 
  janet  1.38.0  Janet is a dialect of Lisp intended for embedding into programs and such  https://janet-lang.org 
@@ -2546,7 +2546,7 @@
  vlc-static  3.0.21-8  Static libraries for vlc  https://www.videolan.org/ 
  vobsub2srt  2017.12.18-3  A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR  https://github.com/ruediger/VobSub2SRT 
  vorbis-tools  1.4.3  Ogg Vorbis tools  https://github.com/xiph/vorbis-tools 
- vtm  2025.07.26  Terminal multiplexer with TUI window manager and multi-party session sharing  https://github.com/directvt/vtm 
+ vtm  2025.07.27  Terminal multiplexer with TUI window manager and multi-party session sharing  https://github.com/directvt/vtm 
  vttest  20241208  Program for testing the VT100 compatibility of terminal emulators  https://invisible-island.net/vttest/ 
  vtutils  0.5-4  Utilities for testing and working with virtual terminals  https://github.com/fornwall/vtutils 
  vulkan-extension-layer  1.4.321  Vulkan Extension Layer  https://github.com/KhronosGroup/Vulkan-ExtensionLayer 
@@ -2562,7 +2562,7 @@
  w3m  0.5.3.20230121-3  Text based Web browser and pager  https://w3m.sourceforge.net/ 
  w3m-img  0.5.3.20230121-3  Inline image extension support utilities for w3m  https://w3m.sourceforge.net/ 
  wabt  1.0.37  The WebAssembly Binary Toolkit  https://github.com/WebAssembly/wabt 
- wakatime-cli  1.124.1  Command line interface used by all WakaTime text editor plugins  https://wakatime.com/plugins/ 
+ wakatime-cli  1.125.1  Command line interface used by all WakaTime text editor plugins  https://wakatime.com/plugins/ 
  walk  1.13.0  A terminal file manager  https://github.com/antonmedv/walk 
  wasi-libc  25-1  Libc for WebAssembly programs built on top of WASI system calls  https://wasi.dev/ 
  wasm-component-ld  0.5.15  Command line linker for creating WebAssembly components  https://github.com/bytecodealliance/wasm-component-ld 
