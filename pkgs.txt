@@ -744,7 +744,7 @@
  iperf3  3.19.1  TCP, UDP, and SCTP network bandwidth measurement tool  https://github.com/esnet/iperf 
  iperf3-static  3.19.1  Static libraries for iperf3  https://github.com/esnet/iperf 
  ipmitool  1.8.19  Command-line interface to IPMI-enabled devices  https://github.com/ipmitool/ipmitool 
- iproute2  6.15.0  Utilities for controlling networking  https://wiki.linuxfoundation.org/networking/iproute2 
+ iproute2  6.16.0  Utilities for controlling networking  https://wiki.linuxfoundation.org/networking/iproute2 
  ipv6calc  4.3.2  Does some format changes and calculations of IPv6 addresses  https://www.deepspace6.net/projects/ipv6calc.html 
  ipv6toolkit  2022.09.30-2  SI6 Networks IPv6 Toolkit  https://www.si6networks.com/research/tools/ipv6toolkit/ 
  ircd-irc2  2.11.2p3-1  An Internet Relay Chat (IRC) daemon  http://www.irc.org/ 
@@ -767,7 +767,7 @@
  jbig2enc-static  2023.01.08-2  Static libraries for jbig2enc  https://github.com/agl/jbig2enc 
  jcal  0.5.1  UNIX-cal-like tool to display Jalali (Persian/Iranian) calendar  http://nongnu.org/jcal 
  jcal-static  0.5.1  Static libraries for jcal  http://nongnu.org/jcal 
- jfrog-cli  2.78.0  A CLI for JFrog products  https://jfrog.com/getcli 
+ jfrog-cli  2.78.1  A CLI for JFrog products  https://jfrog.com/getcli 
  jftui  0.7.4  jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server.  https://github.com/Aanok/jftui 
  jhead  3.08  Exif Jpeg header manipulation tool  http://www.sentex.net/~mwandel/jhead/ 
  jigdo  0.8.2  Distribute large images by sending and receiving the files that make them up  http://atterer.org/jigdo/ 
@@ -2421,7 +2421,7 @@
  tmate  2.4.0-2  Terminal multiplexer with instant terminal sharing  https://tmate.io 
  tmux  3.5a  Terminal multiplexer  https://tmux.github.io/ 
  toilet  0.3-2  FIGlet-compatible display of large colourful characters in text mode  http://caca.zoy.org/wiki/toilet 
- tokei  13.0.0-alpha.8-0  A blazingly fast CLOC (Count Lines Of Code) program  https://github.com/XAMPPRocky/tokei 
+ tokei  13.0.0-alpha.9-0  A blazingly fast CLOC (Count Lines Of Code) program  https://github.com/XAMPPRocky/tokei 
  tome2  2022.12.27-5  An open world roguelike adventure set in middle earth  https://github.com/tome2/tome2 
  toml11  4.4.0  toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library  https://github.com/ToruNiina/toml11 
  topgrade  16.0.4  Upgrade all the things  https://github.com/topgrade-rs/topgrade/ 
@@ -2643,7 +2643,7 @@
  ytui-music  2.0.0-beta-2  Youtube client in terminal for music  https://github.com/sudipghimire533/ytui-music 
  yuma123  2.13-3  Provides an opensource YANG API in C  https://yuma123.org/ 
  yuma123-static  2.13-3  Static libraries for yuma123  https://yuma123.org/ 
- z-push  2.7.5  An open-source application to synchronize ActiveSync compatible devices and Outlook  https://z-push.org/ 
+ z-push  2.7.6  An open-source application to synchronize ActiveSync compatible devices and Outlook  https://z-push.org/ 
  z3  4.15.2  Z3 is a theorem prover from Microsoft Research  https://github.com/Z3Prover/z3 
  zbar  0.23.93  Software suite for reading bar codes from various sources  https://github.com/mchehab/zbar 
  zbar-static  0.23.93  Static libraries for zbar  https://github.com/mchehab/zbar 
