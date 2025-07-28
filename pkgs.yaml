@@ -3035,7 +3035,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.2200
+  Version: 0.22.2202
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -6835,11 +6835,11 @@
   Description: A Music Player Daemon (MPD) client which submits information about tracks being played to a scrobbler
   Homepage: https://www.musicpd.org/clients/mpdscribble/
 - Package: mpg123
-  Version: 1.33.0
+  Version: 1.33.1
   Description: Fast console MPEG Audio Player and decoder library
   Homepage: https://mpg123.org/
 - Package: mpg123-static
-  Version: 1.33.0
+  Version: 1.33.1
   Description: Static libraries for mpg123
   Homepage: https://mpg123.org/
 - Package: mpv
@@ -8687,7 +8687,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: "20250721"
+  Version: "20250728"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://rust-analyzer.github.io/
 - Package: rust-bindgen

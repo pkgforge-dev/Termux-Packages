@@ -4555,7 +4555,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.22.2200",
+    "Version": "0.22.2202",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -10255,13 +10255,13 @@
   },
   {
     "Package": "mpg123",
-    "Version": "1.33.0",
+    "Version": "1.33.1",
     "Description": "Fast console MPEG Audio Player and decoder library",
     "Homepage": "https://mpg123.org/"
   },
   {
     "Package": "mpg123-static",
-    "Version": "1.33.0",
+    "Version": "1.33.1",
     "Description": "Static libraries for mpg123",
     "Homepage": "https://mpg123.org/"
   },
@@ -13033,7 +13033,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20250721",
+    "Version": "20250728",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://rust-analyzer.github.io/"
   },

@@ -757,7 +757,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-1 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.22.2200 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.22.2202 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **jadx** | 1.5.2 | Dex to Java decompiler | https://github.com/skylot/jadx |
 | **jadx-x** | 1.5.2 | Dex to Java decompiler GUI | https://github.com/skylot/jadx |
 | **janet** | 1.38.0 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
@@ -1707,8 +1707,8 @@
 | **mpc** | 0.35 | Minimalist command line interface for MPD | https://www.musicpd.org/clients/mpc/ |
 | **mpd** | 0.24.4 | Music player daemon | https://www.musicpd.org |
 | **mpdscribble** | 0.25-2 | A Music Player Daemon (MPD) client which submits information about tracks being played to a scrobbler | https://www.musicpd.org/clients/mpdscribble/ |
-| **mpg123** | 1.33.0 | Fast console MPEG Audio Player and decoder library | https://mpg123.org/ |
-| **mpg123-static** | 1.33.0 | Static libraries for mpg123 | https://mpg123.org/ |
+| **mpg123** | 1.33.1 | Fast console MPEG Audio Player and decoder library | https://mpg123.org/ |
+| **mpg123-static** | 1.33.1 | Static libraries for mpg123 | https://mpg123.org/ |
 | **mpv** | 0.40.0 | Command-line media player | https://mpv.io/ |
 | **mruby** | 3.4.0 | Lightweight implementation of the Ruby language | https://mruby.org/ |
 | **mruby-static** | 3.4.0 | Static libraries for mruby | https://mruby.org/ |
@@ -2170,7 +2170,7 @@
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.7.0 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
 | **rust** | 1.88.0-1 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
-| **rust-analyzer** | 20250721 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
+| **rust-analyzer** | 20250728 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
 | **rust-bindgen** | 0.72.0 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
 | **rust-docs** | 1.88.0-1 | Rust documentation | https://www.rust-lang.org/ |
 | **rust-src** | 1.88.0-1 | Rust source code files | https://www.rust-lang.org/ |
