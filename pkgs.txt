@@ -838,7 +838,7 @@
  liba52-static  0.8.0-2  Static libraries for liba52  http://liba52.sourceforge.net/ 
  libacl  2.3.1  Access control list shared library  http://savannah.nongnu.org/projects/acl 
  libacl-static  2.3.1  Static libraries for libacl  http://savannah.nongnu.org/projects/acl 
- libaml  0.3.0  Andri's Main Loop library  https://github.com/any1/aml 
+ libaml  1.0.0  Andri's Main Loop library  https://github.com/any1/aml 
  libandroid-complex-math  0.2  A shared library providing libm complex math functions  https://android.googlesource.com/platform/bionic/+/refs/heads/master/libm/upstream-netbsd/lib/libm/complex 
  libandroid-complex-math-static  0.2  Static libraries for libandroid-complex-math  https://android.googlesource.com/platform/bionic/+/refs/heads/master/libm/upstream-netbsd/lib/libm/complex 
  libandroid-execinfo  0.1-1  Shared library for the backtrace system function  https://man7.org/linux/man-pages/man3/backtrace.3.html 
@@ -1871,8 +1871,8 @@
  ossp-uuid  1.6.2-3  ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122.  http://www.ossp.org/pkg/lib/uuid/ 
  ossp-uuid-static  1.6.2-3  Static libraries for ossp-uuid  http://www.ossp.org/pkg/lib/uuid/ 
  ovmf  20231122-16.fc40-0  Open Virtual Machine Firmware  https://www.tianocore.org/ 
- oxc-language-server  1.7.0  Oxc JavaScript linter language server  https://oxc.rs/ 
- oxlint  1.7.0  Oxc JavaScript linter  https://oxc.rs/ 
+ oxc-language-server  1.8.0-1  Oxc JavaScript linter language server  https://oxc.rs/ 
+ oxlint  1.8.0-1  Oxc JavaScript linter  https://oxc.rs/ 
  p11-kit  0.25.5  Provides a way to load and enumerate PKCS#11 modules  https://p11-glue.github.io/p11-glue/p11-kit.html 
  p7zip  17.06  Command-line version of the 7zip compressed file archiver  https://github.com/p7zip-project/p7zip 
  pacman  7.0.0-3  A library-based package manager with dependency support  https://archlinux.org/pacman/ 
