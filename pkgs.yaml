@@ -695,9 +695,9 @@
   Description: Tiny versions of many common UNIX utilities into a single small executable
   Homepage: https://busybox.net/
 - Package: bvi
-  Version: 1.4.2
+  Version: 1.5.0
   Description: Binary file editor based on vi
-  Homepage: http://bvi.sourceforge.net/
+  Homepage: https://bvi.sourceforge.net/
 - Package: byacc
   Version: 20241231-1
   Description: byacc is generally conceded to be the best yacc variant available
@@ -6955,7 +6955,7 @@
   Description: An interactive cheatsheet tool for the command-line
   Homepage: https://github.com/denisidoro/navi
 - Package: navidrome
-  Version: 0.57.0
+  Version: 0.58.0
   Description: "\U0001F3A7☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic"
   Homepage: https://www.navidrome.org/
 - Package: ncdc
@@ -7719,7 +7719,7 @@
   Description: Sodium module for PHP/Apache
   Homepage: https://php.net
 - Package: php-apcu
-  Version: 5.1.24
+  Version: 5.1.25
   Description: APCu - APC User Cache
   Homepage: http://php.net/apcu
 - Package: php-fpm
@@ -8503,7 +8503,7 @@
   Description: In-memory data structure store used as a database, cache and message broker
   Homepage: https://redis.io/
 - Package: remind
-  Version: 1:05.04.02
+  Version: 1:05.05.00
   Description: Sophisticated calendar and alarm program
   Homepage: https://dianne.skoll.ca/projects/remind/
 - Package: renameutils
@@ -10363,7 +10363,7 @@
   Description: An advanced geospatial data analysis platform
   Homepage: https://github.com/jblindsay/whitebox-tools
 - Package: whois
-  Version: 5.6.1
+  Version: 5.6.3
   Description: An intelligent Whois client
   Homepage: https://github.com/rfc1036/whois
 - Package: wireguard-tools
