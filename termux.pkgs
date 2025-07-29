@@ -223,7 +223,7 @@
 | **chicken** | 5.4.0-1 | A feature rich Scheme compiler and interpreter | https://www.call-cc.org |
 | **chicken-static** | 5.4.0-1 | Static libraries for chicken | https://www.call-cc.org |
 | **choose** | 1.3.6 | A human-friendly and fast alternative to cut and (sometimes) awk | https://github.com/theryangeary/choose |
-| **chromaprint** | 1.5.1-p20221217-2 | C library for generating audio fingerprints used by AcoustID | https://acoustid.org/chromaprint |
+| **chromaprint** | 1.5.1-p20250625-0 | C library for generating audio fingerprints used by AcoustID (fpcalc tool) | https://acoustid.org/chromaprint |
 | **chrony** | 4.7 | chrony is an implementation of the Network Time Protocol (NTP) | https://chrony-project.org/ |
 | **ciso** | 1.0.2-1 | PSP ISO compression tool | https://github.com/jamie/ciso |
 | **ckermit** | 9.0.302-2 | A combined network and serial communication software package | https://www.kermitproject.org/ckermit.html |
@@ -459,7 +459,7 @@
 | **fetchmail** | 6.5.4 | A remote-mail retrieval utility | https://www.fetchmail.info/ |
 | **fetchmailconf** | 6.5.4 | A GUI configurator for generating fetchmail configuration files | https://www.fetchmail.info/ |
 | **fff** | 2.2 | A simple file manager written in bash | https://github.com/dylanaraps/fff |
-| **ffmpeg** | 7.1.1-4 | Tools and libraries to manipulate a wide range of multimedia formats and protocols | https://ffmpeg.org |
+| **ffmpeg** | 7.1.1-5 | Tools and libraries to manipulate a wide range of multimedia formats and protocols | https://ffmpeg.org |
 | **ffmpegthumbnailer** | 2.2.3-p20240913-1 | Lightweight video thumbnailer that can be used by file managers | https://github.com/dirkvdb/ffmpegthumbnailer |
 | **ffsend** | 0.2.77-1 | A fully featured Firefox Send client | https://gitlab.com/timvisee/ffsend |
 | **fftw** | 3.3.10-3 | Library for computing the Discrete Fourier Transform (DFT) in one or more dimensions | http://www.fftw.org/ |
@@ -566,7 +566,7 @@
 | **gitoxide** | 0.45.0 | Rust implementation of Git | https://github.com/Byron/gitoxide |
 | **gitui** | 0.27.0-2 | Blazing fast terminal-ui for git written in rust | https://github.com/extrawurst/gitui |
 | **gkermit** | 2.01 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
-| **glab-cli** | 1.64.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
+| **glab-cli** | 1.65.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
 | **gleam** | 1.11.1 | A friendly language for building type-safe, scalable systems! | https://gleam.run |
 | **glib** | 2.84.3 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
 | **glib-cross** | 2.84.3 | glib for host (NOT for Termux) | https://developer.gnome.org/glib/ |
@@ -649,7 +649,7 @@
 | **gst-libav** | 1.26.4 | GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code | https://gstreamer.freedesktop.org/modules/gst-libav.html |
 | **gst-plugins-bad** | 1.26.4 | GStreamer Bad Plug-ins | https://gstreamer.freedesktop.org/ |
 | **gst-plugins-base** | 1.26.4 | GStreamer base plug-ins | https://gstreamer.freedesktop.org/ |
-| **gst-plugins-good** | 1.26.4 | GStreamer Good Plug-ins | https://gstreamer.freedesktop.org/ |
+| **gst-plugins-good** | 1.26.4-1 | GStreamer Good Plug-ins | https://gstreamer.freedesktop.org/ |
 | **gst-plugins-ugly** | 1.26.4 | GStreamer Ugly Plug-ins | https://gstreamer.freedesktop.org/ |
 | **gst-python** | 1.26.4 | Python bindings for GStreamer | https://gstreamer.freedesktop.org/ |
 | **gstreamer** | 1.26.4 | Open source multimedia framework | https://gstreamer.freedesktop.org/ |
@@ -675,7 +675,7 @@
 | **helix-grammars** | 25.07.1 | Helix grammars | https://helix-editor.com/ |
 | **hello** | 2.12.2 | Prints a friendly greeting | https://www.gnu.org/software/hello/ |
 | **helm** | 3.18.4 | Helm helps you manage Kubernetes applications | https://helm.sh |
-| **helm-ls** | 0.4.1 | Language server for Helm | https://github.com/mrjosh/helm-ls |
+| **helm-ls** | 0.5.0 | Language server for Helm | https://github.com/mrjosh/helm-ls |
 | **help2man** | 1.49.3 | Conversion tool to create man files | https://www.gnu.org/software/help2man/ |
 | **hexcurse** | 1.60.0-6 | Console hexeditor | https://github.com/LonnyGomes/hexcurse |
 | **hexedit** | 1.6 | view and edit files in hexadecimal or in ASCII | http://rigaux.org/hexedit.html |
@@ -767,7 +767,7 @@
 | **jbig2enc-static** | 2023.01.08-2 | Static libraries for jbig2enc | https://github.com/agl/jbig2enc |
 | **jcal** | 0.5.1 | UNIX-cal-like tool to display Jalali (Persian/Iranian) calendar | http://nongnu.org/jcal |
 | **jcal-static** | 0.5.1 | Static libraries for jcal | http://nongnu.org/jcal |
-| **jfrog-cli** | 2.78.1 | A CLI for JFrog products | https://jfrog.com/getcli |
+| **jfrog-cli** | 2.78.2 | A CLI for JFrog products | https://jfrog.com/getcli |
 | **jftui** | 0.7.4 | jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server. | https://github.com/Aanok/jftui |
 | **jhead** | 3.08 | Exif Jpeg header manipulation tool | http://www.sentex.net/~mwandel/jhead/ |
 | **jigdo** | 0.8.2 | Distribute large images by sending and receiving the files that make them up | http://atterer.org/jigdo/ |
@@ -915,6 +915,7 @@
 | **libcec-static** | 7.1.1 | Static libraries for libcec | https://libcec.pulse-eight.com/ |
 | **libceres-solver** | 2.2.0-1 | C++ library for modeling and solving large, complicated optimization problems | http://ceres-solver.org |
 | **libchipmunk** | 7.0.3-1 | A fast and lightweight 2D game physics library | http://chipmunk2d.net |
+| **libchromaprint** | 1.5.1-p20250625-0 | C library for generating audio fingerprints used by AcoustID | https://acoustid.org/chromaprint |
 | **libclc** | 20.1.7 | Open source implementation of the library requirements of the OpenCL C programming language | https://libclc.llvm.org/ |
 | **libcln** | 1.3.7 | CLN is a library for efficient computations with all kinds of numbers in arbitrary precision | https://www.ginac.de/CLN/ |
 | **libcln-static** | 1.3.7 | Static libraries for libcln | https://www.ginac.de/CLN/ |
@@ -1151,8 +1152,8 @@
 | **libmd** | 1.1.0 | Message Digest functions from BSD systems | https://www.hadrons.org/software/libmd/ |
 | **libmd-static** | 1.1.0 | Static libraries for libmd | https://www.hadrons.org/software/libmd/ |
 | **libmdbx** | 0.12.10 | An extremely fast, compact, powerful, embedded, transactional key-value database | https://libmdbx.dqdkfa.ru/ |
-| **libmediainfo** | 25.04 | Library for reading information from media files | https://mediaarea.net/en/MediaInfo |
-| **libmediainfo-static** | 25.04 | Static libraries for libmediainfo | https://mediaarea.net/en/MediaInfo |
+| **libmediainfo** | 25.07 | Library for reading information from media files | https://mediaarea.net/en/MediaInfo |
+| **libmediainfo-static** | 25.07 | Static libraries for libmediainfo | https://mediaarea.net/en/MediaInfo |
 | **libmesode** | 0.10.1-4 | Minimal XMPP library written for use with Profanity XMPP client | https://github.com/boothj5/libmesode |
 | **libmesode-static** | 0.10.1-4 | Static libraries for libmesode | https://github.com/boothj5/libmesode |
 | **libmhash** | 0.9.9.9-3 | A thread-safe hash library which provides a uniform interface to hash algorithms | https://mhash.sourceforge.net/ |
@@ -1179,6 +1180,8 @@
 | **libmpeg2-static** | 0.5.1-1 | Static libraries for libmpeg2 | https://libmpeg2.sourceforge.io/ |
 | **libmpfr** | 4.2.1 | C library for multiple-precision floating-point computations with correct rounding | https://www.mpfr.org/ |
 | **libmpfr-static** | 4.2.1 | Static libraries for libmpfr | https://www.mpfr.org/ |
+| **libmpg123** | 1.33.1-1 | Fast console MPEG Audio Player and decoder library | https://mpg123.org/ |
+| **libmpg123-static** | 1.33.1-1 | Static libraries for libmpg123 | https://mpg123.org/ |
 | **libmsgpack** | 6.1.0 | MessagePack implementation for C | https://github.com/msgpack/msgpack-c/ |
 | **libmsgpack-cxx** | 7.0.0-2 | msgpack for C++ | https://msgpack.org/ |
 | **libmsgpack-static** | 6.1.0 | Static libraries for libmsgpack | https://github.com/msgpack/msgpack-c/ |
@@ -1231,8 +1234,8 @@
 | **libopencore-amr** | 0.1.6 | Open source implementation of the Adaptive Multi Rate (AMR) speech codec | https://sourceforge.net/projects/opencore-amr |
 | **libopencore-amr-static** | 0.1.6 | Static libraries for libopencore-amr | https://sourceforge.net/projects/opencore-amr |
 | **libopenfec** | 1.4.2.12 | Application-Level Forward Erasure Correction implementation library | http://openfec.org |
-| **libopenmpt** | 0.8.2 | OpenMPT based module player library and libopenmpt based command-line player | https://lib.openmpt.org/libopenmpt/ |
-| **libopenmpt-static** | 0.8.2 | Static libraries for libopenmpt | https://lib.openmpt.org/libopenmpt/ |
+| **libopenmpt** | 0.8.2-1 | Library to render tracker music formats to a PCM audio stream | https://lib.openmpt.org/libopenmpt/ |
+| **libopenmpt-static** | 0.8.2-1 | Static libraries for libopenmpt | https://lib.openmpt.org/libopenmpt/ |
 | **libopus** | 1.5.2 | Reference implementation of the Opus codec | https://www.opus-codec.org/ |
 | **libopus-static** | 1.5.2 | Static libraries for libopus | https://www.opus-codec.org/ |
 | **libopusenc** | 0.2.1-3 | High-level API for encoding .opus files | https://github.com/xiph/libopusenc |
@@ -1646,7 +1649,7 @@
 | **mdns-scan** | 0.5-2 | A tool for scanning for mDNS/DNS-SD services published on the local network | https://github.com/alteholz/mdns-scan |
 | **mdp** | 1.0.18 | Command-line based markdown presentation tool | https://github.com/visit1985/mdp |
 | **media-types** | 13.0.0 | List of standard media types and their usual file extension | https://pagure.io/mailcap |
-| **mediainfo** | 25.04 | Command-line utility for reading information from media files | https://mediaarea.net/en/MediaInfo |
+| **mediainfo** | 25.07 | Command-line utility for reading information from media files | https://mediaarea.net/en/MediaInfo |
 | **mediamtx** | 1.13.1 | Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy | https://github.com/bluenviron/mediamtx |
 | **megacmd** | 2.0.0-1 | Provides non UI access to MEGA services | https://mega.io/ |
 | **megatools** | 1.11.5.20250706 | Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage | https://xff.cz/megatools/ |
@@ -1701,13 +1704,13 @@
 | **mount-utils** | 2.40.2-4 | Utilities for (un)mounting filesystems | https://en.wikipedia.org/wiki/Util-linux |
 | **mp3cat** | 0.5 | Copies a byte stream, skipping everything except mp3 frames with valid headers | https://tomclegg.ca/mp3cat |
 | **mp3cat-go** | 4.2.2-3 | A command line utility for joining MP3 files. | https://www.dmulholl.com/dev/mp3cat.html |
-| **mp3gain** | 1.6.2 | Analyzes and adjusts mp3 files so that they have the same volume | http://mp3gain.sourceforge.net/ |
+| **mp3gain** | 1.6.2-1 | Analyzes and adjusts mp3 files so that they have the same volume | https://mp3gain.sourceforge.net/ |
 | **mp3splt** | 2.6.2-1 | Utility to split mp3, ogg vorbis and FLAC files without decoding | http://mp3splt.sourceforge.net |
 | **mp3wrap** | 0.5 | A command-line utility that wraps quickly two or more mp3 files in one single large playable mp3 | https://mp3wrap.sourceforge.net/ |
 | **mpc** | 0.35 | Minimalist command line interface for MPD | https://www.musicpd.org/clients/mpc/ |
-| **mpd** | 0.24.4 | Music player daemon | https://www.musicpd.org |
+| **mpd** | 0.24.4-1 | Music player daemon | https://www.musicpd.org |
 | **mpdscribble** | 0.25-2 | A Music Player Daemon (MPD) client which submits information about tracks being played to a scrobbler | https://www.musicpd.org/clients/mpdscribble/ |
-| **mpg123** | 1.33.1 | Fast console MPEG Audio Player and decoder library | https://mpg123.org/ |
+| **mpg123** | 1.33.1-1 | Fast console MPEG Audio Player based on libmpg123 | https://mpg123.org/ |
 | **mpg123-static** | 1.33.1 | Static libraries for mpg123 | https://mpg123.org/ |
 | **mpv** | 0.40.0 | Command-line media player | https://mpv.io/ |
 | **mruby** | 3.4.0 | Lightweight implementation of the Ruby language | https://mruby.org/ |
@@ -1851,6 +1854,7 @@
 | **openlist** | 4.0.9 | A file list program that supports multiple storage | https://oplist.org/ |
 | **openmpi** | 4.1.5 | Open source Message Passing Interface implementation | https://www.open-mpi.org |
 | **openmpi-static** | 4.1.5 | Static libraries for openmpi | https://www.open-mpi.org |
+| **openmpt123** | 0.8.2-1 | libopenmpt based command-line player for tracker music formats | https://lib.openmpt.org/libopenmpt/ |
 | **opensc** | 0.26.1 | Open source smart card tools and middleware | https://github.com/OpenSC/OpenSC |
 | **opensc-static** | 0.26.1 | Static libraries for opensc | https://github.com/OpenSC/OpenSC |
 | **openscad** | 2021.01-3 | The programmers solid 3D CAD modeller (headless build) | https://openscad.org/ |
@@ -2283,7 +2287,7 @@
 | **sqlite** | 3.50.3 | Command line shell for SQLite | https://www.sqlite.org |
 | **squashfs-tools-ng** | 1.3.2 | New set of tools for working with SquashFS images | https://github.com/AgentD/squashfs-tools-ng |
 | **squashfs-tools-ng-static** | 1.3.2 | Static libraries for squashfs-tools-ng | https://github.com/AgentD/squashfs-tools-ng |
-| **squeezelite** | 2.0.0.1517 | A small headless Logitech Squeezebox emulator | https://ralph-irving.github.io/squeezelite.html |
+| **squeezelite** | 2.0.0.1517-1 | A small headless Logitech Squeezebox emulator | https://ralph-irving.github.io/squeezelite.html |
 | **squid** | 7.1 | Full-featured Web proxy cache server | http://www.squid-cache.org |
 | **sratom** | 0.6.18 | A small library for serialising LV2 atoms to and from RDF | https://drobilla.net/software/sratom.html |
 | **srelay** | 0.4.8p3-7 | A Free SOCKS proxy server | https://sourceforge.net/projects/socks-relay |
@@ -2416,7 +2420,7 @@
 | **tinygo-common** | 0.38.0 | TinyGo common files | https://tinygo.org |
 | **tinyproxy** | 1.11.2 | Light-weight HTTP proxy daemon for POSIX operating systems | https://tinyproxy.github.io/ |
 | **tinyscheme** | 1.42-1 | Very small scheme implementation | http://tinyscheme.sourceforge.net/home.html |
-| **tizonia** | 0.22.0-18 | A command-line streaming music client/server for Linux | https://github.com/tizonia/ |
+| **tizonia** | 0.22.0-19 | A command-line streaming music client/server for Linux | https://github.com/tizonia/ |
 | **tk** | 8.6.14 | A windowing toolkit for use with tcl | https://tcl.sourceforge.net/ |
 | **tmate** | 2.4.0-2 | Terminal multiplexer with instant terminal sharing | https://tmate.io |
 | **tmux** | 3.5a | Terminal multiplexer | https://tmux.github.io/ |
@@ -2530,7 +2534,7 @@
 | **vde2-static** | 2.3.3-4 | Static libraries for vde2 | https://github.com/virtualsquare/vde-2 |
 | **vegeta** | 12.12.0 | HTTP load testing tool | https://github.com/tsenart/vegeta |
 | **vera** | 1.3.0-7 | A programmable tool for verification, analysis and transformation of C++ source code | https://bitbucket.org/verateam/vera |
-| **vgmstream** | 2023 | A library for playback of various streamed audio formats used in video games | https://github.com/vgmstream/vgmstream |
+| **vgmstream** | 2023-1 | A library for playback of various streamed audio formats used in video games | https://github.com/vgmstream/vgmstream |
 | **vgmtools** | 2023.01.27 | A collection of tools for the VGM file format | https://github.com/vgmrips/vgmtools |
 | **viddy** | 1.3.0-1 | A modern watch command | https://github.com/sachaos/viddy |
 | **vifm** | 0.14.3 | File manager with vi like keybindings | https://vifm.info/ |
@@ -2543,8 +2547,8 @@
 | **vitetris** | 0.59.1-3 | Virtual terminal *tris clone | http://victornils.net/tetris/ |
 | **viu** | 1.5.1 | Terminal image viewer with native support for iTerm and Kitty | https://github.com/atanunq/viu |
 | **vivid** | 0.10.1 | A themeable LS_COLORS generator with a rich filetype datebase | https://github.com/sharkdp/vivid |
-| **vlc** | 3.0.21-8 | A popular libre and open source media player and multimedia engine | https://www.videolan.org/ |
-| **vlc-static** | 3.0.21-8 | Static libraries for vlc | https://www.videolan.org/ |
+| **vlc** | 3.0.21-9 | A popular libre and open source media player and multimedia engine | https://www.videolan.org/ |
+| **vlc-static** | 3.0.21-9 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-3 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.3 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
 | **vtm** | 2025.07.28 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |

@@ -899,8 +899,8 @@
   Description: A human-friendly and fast alternative to cut and (sometimes) awk
   Homepage: https://github.com/theryangeary/choose
 - Package: chromaprint
-  Version: 1.5.1-p20221217-2
-  Description: C library for generating audio fingerprints used by AcoustID
+  Version: 1.5.1-p20250625-0
+  Description: C library for generating audio fingerprints used by AcoustID (fpcalc tool)
   Homepage: https://acoustid.org/chromaprint
 - Package: chrony
   Version: "4.7"
@@ -1843,7 +1843,7 @@
   Description: A simple file manager written in bash
   Homepage: https://github.com/dylanaraps/fff
 - Package: ffmpeg
-  Version: 7.1.1-4
+  Version: 7.1.1-5
   Description: Tools and libraries to manipulate a wide range of multimedia formats and protocols
   Homepage: https://ffmpeg.org
 - Package: ffmpegthumbnailer
@@ -2271,7 +2271,7 @@
   Description: Simple, Portable, Free File Transfer Software for UNIX
   Homepage: http://www.columbia.edu/kermit/gkermit.html
 - Package: glab-cli
-  Version: 1.64.0
+  Version: 1.65.0
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
@@ -2603,7 +2603,7 @@
   Description: GStreamer base plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-plugins-good
-  Version: 1.26.4
+  Version: 1.26.4-1
   Description: GStreamer Good Plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-plugins-ugly
@@ -2707,7 +2707,7 @@
   Description: Helm helps you manage Kubernetes applications
   Homepage: https://helm.sh
 - Package: helm-ls
-  Version: 0.4.1
+  Version: 0.5.0
   Description: Language server for Helm
   Homepage: https://github.com/mrjosh/helm-ls
 - Package: help2man
@@ -3075,7 +3075,7 @@
   Description: Static libraries for jcal
   Homepage: http://nongnu.org/jcal
 - Package: jfrog-cli
-  Version: 2.78.1
+  Version: 2.78.2
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -3666,6 +3666,10 @@
   Version: 7.0.3-1
   Description: A fast and lightweight 2D game physics library
   Homepage: http://chipmunk2d.net
+- Package: libchromaprint
+  Version: 1.5.1-p20250625-0
+  Description: C library for generating audio fingerprints used by AcoustID
+  Homepage: https://acoustid.org/chromaprint
 - Package: libclc
   Version: 20.1.7
   Description: Open source implementation of the library requirements of the OpenCL C programming language
@@ -4611,11 +4615,11 @@
   Description: An extremely fast, compact, powerful, embedded, transactional key-value database
   Homepage: https://libmdbx.dqdkfa.ru/
 - Package: libmediainfo
-  Version: "25.04"
+  Version: "25.07"
   Description: Library for reading information from media files
   Homepage: https://mediaarea.net/en/MediaInfo
 - Package: libmediainfo-static
-  Version: "25.04"
+  Version: "25.07"
   Description: Static libraries for libmediainfo
   Homepage: https://mediaarea.net/en/MediaInfo
 - Package: libmesode
@@ -4722,6 +4726,14 @@
   Version: 4.2.1
   Description: Static libraries for libmpfr
   Homepage: https://www.mpfr.org/
+- Package: libmpg123
+  Version: 1.33.1-1
+  Description: Fast console MPEG Audio Player and decoder library
+  Homepage: https://mpg123.org/
+- Package: libmpg123-static
+  Version: 1.33.1-1
+  Description: Static libraries for libmpg123
+  Homepage: https://mpg123.org/
 - Package: libmsgpack
   Version: 6.1.0
   Description: MessagePack implementation for C
@@ -4931,11 +4943,11 @@
   Description: Application-Level Forward Erasure Correction implementation library
   Homepage: http://openfec.org
 - Package: libopenmpt
-  Version: 0.8.2
-  Description: OpenMPT based module player library and libopenmpt based command-line player
+  Version: 0.8.2-1
+  Description: Library to render tracker music formats to a PCM audio stream
   Homepage: https://lib.openmpt.org/libopenmpt/
 - Package: libopenmpt-static
-  Version: 0.8.2
+  Version: 0.8.2-1
   Description: Static libraries for libopenmpt
   Homepage: https://lib.openmpt.org/libopenmpt/
 - Package: libopus
@@ -6591,7 +6603,7 @@
   Description: List of standard media types and their usual file extension
   Homepage: https://pagure.io/mailcap
 - Package: mediainfo
-  Version: "25.04"
+  Version: "25.07"
   Description: Command-line utility for reading information from media files
   Homepage: https://mediaarea.net/en/MediaInfo
 - Package: mediamtx
@@ -6811,9 +6823,9 @@
   Description: A command line utility for joining MP3 files.
   Homepage: https://www.dmulholl.com/dev/mp3cat.html
 - Package: mp3gain
-  Version: 1.6.2
+  Version: 1.6.2-1
   Description: Analyzes and adjusts mp3 files so that they have the same volume
-  Homepage: http://mp3gain.sourceforge.net/
+  Homepage: https://mp3gain.sourceforge.net/
 - Package: mp3splt
   Version: 2.6.2-1
   Description: Utility to split mp3, ogg vorbis and FLAC files without decoding
@@ -6827,7 +6839,7 @@
   Description: Minimalist command line interface for MPD
   Homepage: https://www.musicpd.org/clients/mpc/
 - Package: mpd
-  Version: 0.24.4
+  Version: 0.24.4-1
   Description: Music player daemon
   Homepage: https://www.musicpd.org
 - Package: mpdscribble
@@ -6835,8 +6847,8 @@
   Description: A Music Player Daemon (MPD) client which submits information about tracks being played to a scrobbler
   Homepage: https://www.musicpd.org/clients/mpdscribble/
 - Package: mpg123
-  Version: 1.33.1
-  Description: Fast console MPEG Audio Player and decoder library
+  Version: 1.33.1-1
+  Description: Fast console MPEG Audio Player based on libmpg123
   Homepage: https://mpg123.org/
 - Package: mpg123-static
   Version: 1.33.1
@@ -7410,6 +7422,10 @@
   Version: 4.1.5
   Description: Static libraries for openmpi
   Homepage: https://www.open-mpi.org
+- Package: openmpt123
+  Version: 0.8.2-1
+  Description: libopenmpt based command-line player for tracker music formats
+  Homepage: https://lib.openmpt.org/libopenmpt/
 - Package: opensc
   Version: 0.26.1
   Description: Open source smart card tools and middleware
@@ -9139,7 +9155,7 @@
   Description: Static libraries for squashfs-tools-ng
   Homepage: https://github.com/AgentD/squashfs-tools-ng
 - Package: squeezelite
-  Version: 2.0.0.1517
+  Version: 2.0.0.1517-1
   Description: A small headless Logitech Squeezebox emulator
   Homepage: https://ralph-irving.github.io/squeezelite.html
 - Package: squid
@@ -9671,7 +9687,7 @@
   Description: Very small scheme implementation
   Homepage: http://tinyscheme.sourceforge.net/home.html
 - Package: tizonia
-  Version: 0.22.0-18
+  Version: 0.22.0-19
   Description: A command-line streaming music client/server for Linux
   Homepage: https://github.com/tizonia/
 - Package: tk
@@ -10127,7 +10143,7 @@
   Description: A programmable tool for verification, analysis and transformation of C++ source code
   Homepage: https://bitbucket.org/verateam/vera
 - Package: vgmstream
-  Version: "2023"
+  Version: 2023-1
   Description: A library for playback of various streamed audio formats used in video games
   Homepage: https://github.com/vgmstream/vgmstream
 - Package: vgmtools
@@ -10179,11 +10195,11 @@
   Description: A themeable LS_COLORS generator with a rich filetype datebase
   Homepage: https://github.com/sharkdp/vivid
 - Package: vlc
-  Version: 3.0.21-8
+  Version: 3.0.21-9
   Description: A popular libre and open source media player and multimedia engine
   Homepage: https://www.videolan.org/
 - Package: vlc-static
-  Version: 3.0.21-8
+  Version: 3.0.21-9
   Description: Static libraries for vlc
   Homepage: https://www.videolan.org/
 - Package: vobsub2srt
