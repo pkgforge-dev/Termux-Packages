@@ -1679,11 +1679,11 @@
   Description: A tool for compositing images using a Burt&Adelson multiresolution spline
   Homepage: https://enblend.sourceforge.net/
 - Package: enchant
-  Version: 2.8.11
+  Version: 2.8.12
   Description: Wraps a number of different spelling libraries and programs with a consistent interface
   Homepage: https://rrthomas.github.io/enchant/
 - Package: enchant-static
-  Version: 2.8.11
+  Version: 2.8.12
   Description: Static libraries for enchant
   Homepage: https://rrthomas.github.io/enchant/
 - Package: enscript
@@ -6607,7 +6607,7 @@
   Description: Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage
   Homepage: https://xff.cz/megatools/
 - Package: memcached
-  Version: 1.6.38
+  Version: 1.6.39
   Description: Free & open source, high-performance, distributed memory object caching system
   Homepage: https://memcached.org/
 - Package: mercury
@@ -6735,7 +6735,7 @@
   Description: Tool to find files anywhere in the filesystem based on their name
   Homepage: https://pagure.io/mlocate
 - Package: moar
-  Version: 1.32.6
+  Version: 1.33.0
   Description: A pager designed to just do the right thing without any configuration
   Homepage: https://github.com/walles/moar
 - Package: mold
@@ -7259,7 +7259,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 26.17.1
+  Version: 26.17.2
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -7491,11 +7491,11 @@
   Description: Open Virtual Machine Firmware
   Homepage: https://www.tianocore.org/
 - Package: oxc-language-server
-  Version: 1.8.0-1
+  Version: 1.9.0
   Description: Oxc JavaScript linter language server
   Homepage: https://oxc.rs/
 - Package: oxlint
-  Version: 1.8.0-1
+  Version: 1.9.0
   Description: Oxc JavaScript linter
   Homepage: https://oxc.rs/
 - Package: p11-kit
@@ -8387,7 +8387,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 4.5.5
+  Version: 4.5.6
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3

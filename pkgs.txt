@@ -418,8 +418,8 @@
  emscripten-llvm  4.0.10  Emscripten-compatible LLVM  https://emscripten.org 
  emscripten-tests-third-party  4.0.10  Emscripten third party test suite files  https://emscripten.org 
  enblend  4.2.0p20161007-6  A tool for compositing images using a Burt&Adelson multiresolution spline  https://enblend.sourceforge.net/ 
- enchant  2.8.11  Wraps a number of different spelling libraries and programs with a consistent interface  https://rrthomas.github.io/enchant/ 
- enchant-static  2.8.11  Static libraries for enchant  https://rrthomas.github.io/enchant/ 
+ enchant  2.8.12  Wraps a number of different spelling libraries and programs with a consistent interface  https://rrthomas.github.io/enchant/ 
+ enchant-static  2.8.12  Static libraries for enchant  https://rrthomas.github.io/enchant/ 
  enscript  1.6.6-12  Enscript converts ASCII text files to PostScript, HTML, RTF, ANSI and overstrikes  https://www.gnu.org/software/enscript/ 
  entr  5.7  Event Notify Test Runner - run arbitrary commands when files change  https://eradman.com/entrproject/ 
  erlang  28.0.2  General-purpose concurrent functional programming language  https://www.erlang.org/ 
@@ -1650,7 +1650,7 @@
  mediamtx  1.13.1  Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy  https://github.com/bluenviron/mediamtx 
  megacmd  2.0.0-1  Provides non UI access to MEGA services  https://mega.io/ 
  megatools  1.11.5.20250706  Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage  https://xff.cz/megatools/ 
- memcached  1.6.38  Free & open source, high-performance, distributed memory object caching system  https://memcached.org/ 
+ memcached  1.6.39  Free & open source, high-performance, distributed memory object caching system  https://memcached.org/ 
  mercury  22.01.8  A logic/functional programming language  https://www.mercurylang.org/ 
  mercury-static  22.01.8  Static libraries for mercury  https://www.mercurylang.org/ 
  mesa  25.1.5  An open-source implementation of the OpenGL specification  https://www.mesa3d.org 
@@ -1682,7 +1682,7 @@
  mktorrent  1.1-p20210130-0  command line utility to create BitTorrent metainfo files  https://github.com/Rudde/mktorrent 
  mlir  20.1.8  A Multi-Level Intermediate Representation for compilers from LLVM  https://clang.llvm.org/ 
  mlocate  0.26-5  Tool to find files anywhere in the filesystem based on their name  https://pagure.io/mlocate 
- moar  1.32.6  A pager designed to just do the right thing without any configuration  https://github.com/walles/moar 
+ moar  1.33.0  A pager designed to just do the right thing without any configuration  https://github.com/walles/moar 
  mold  2.40.2  mold: A Modern Linker  https://github.com/rui314/mold 
  monero  0.18.4.1  A private, secure, untraceable, decentralised digital currency  https://getmonero.org/ 
  mono  6.14.1  Framework Mono  https://gitlab.winehq.org/mono/mono 
@@ -1813,7 +1813,7 @@
  octomap  1.10.0  An efficient probabilistic 3D mapping framework based on octrees  https://github.com/OctoMap/octomap 
  octomap-static  1.10.0  Static libraries for octomap  https://github.com/OctoMap/octomap 
  odt2txt  0.5-4  Simple converter from OpenDocument Text to plain text  https://github.com/dstosberg/odt2txt 
- oh-my-posh  26.17.1  A prompt theme engine for any shell.  https://ohmyposh.dev 
+ oh-my-posh  26.17.2  A prompt theme engine for any shell.  https://ohmyposh.dev 
  okc-agents  0.1.2  OpenKeychain agents for GnuPG and OpenSSH  https://github.com/DDoSolitary/okc-agents 
  ol  2.6-2  Purely functional dialect of Lisp  https://yuriy-chumak.github.io/ol/ 
  oleo  1.99.16-9  The GNU Spreadsheet  https://www.gnu.org/software/oleo/ 
@@ -1871,8 +1871,8 @@
  ossp-uuid  1.6.2-3  ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122.  http://www.ossp.org/pkg/lib/uuid/ 
  ossp-uuid-static  1.6.2-3  Static libraries for ossp-uuid  http://www.ossp.org/pkg/lib/uuid/ 
  ovmf  20231122-16.fc40-0  Open Virtual Machine Firmware  https://www.tianocore.org/ 
- oxc-language-server  1.8.0-1  Oxc JavaScript linter language server  https://oxc.rs/ 
- oxlint  1.8.0-1  Oxc JavaScript linter  https://oxc.rs/ 
+ oxc-language-server  1.9.0  Oxc JavaScript linter language server  https://oxc.rs/ 
+ oxlint  1.9.0  Oxc JavaScript linter  https://oxc.rs/ 
  p11-kit  0.25.5  Provides a way to load and enumerate PKCS#11 modules  https://p11-glue.github.io/p11-glue/p11-kit.html 
  p7zip  17.06  Command-line version of the 7zip compressed file archiver  https://github.com/p7zip-project/p7zip 
  pacman  7.0.0-3  A library-based package manager with dependency support  https://archlinux.org/pacman/ 
@@ -2095,7 +2095,7 @@
  rage  0.11.1  A simple, secure and modern encryption tool  https://age-encryption.org/v1 
  ragel  7.0.4  Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code  https://www.colm.net/open-source/ragel/ 
  ragel-static  7.0.4  Static libraries for ragel  https://www.colm.net/open-source/ragel/ 
- railway-cli  4.5.5  This is the command line interface for Railway  https://railway.app 
+ railway-cli  4.5.6  This is the command line interface for Railway  https://railway.app 
  range-v3  0.12.0  Range library for C++14/17/20, basis for C++20's std::ranges  https://github.com/ericniebler/range-v3 
  ranger  1.9.4  File manager with VI key bindings  https://ranger.github.io/ 
  rapidjson  1.1.0-5  Fast JSON parser/generator for C++ with SAX/DOM style API  https://github.com/Tencent/rapidjson/ 
