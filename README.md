@@ -558,7 +558,7 @@
 | **gforth** | 0.7.3-1 | The Forth implementation of the GNU project | https://www.gnu.org/software/gforth/ |
 | **gh** | 2.76.1 | GitHub’s official command line tool | https://cli.github.com/ |
 | **ghc** | 9.12.2 | The Glasgow Haskell Compiler | https://www.haskell.org/ghc/ |
-| **ghostscript** | 10.03.1-3 | Interpreter for the PostScript language and for PDF | https://www.ghostscript.com/ |
+| **ghostscript** | 10.05.1 | Interpreter for the PostScript language and for PDF | https://www.ghostscript.com/ |
 | **giflib** | 5.2.2 | A library for reading and writing gif images | https://giflib.sourceforge.net/ |
 | **giflib-static** | 5.2.2 | Static libraries for giflib | https://giflib.sourceforge.net/ |
 | **giflib-utils** | 5.2.2 | A set of utilities that comes with giflib package | https://giflib.sourceforge.net/ |
@@ -769,7 +769,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-1 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.22.2202 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.22.2207 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **jadx** | 1.5.2 | Dex to Java decompiler | https://github.com/skylot/jadx |
 | **jadx-x** | 1.5.2 | Dex to Java decompiler GUI | https://github.com/skylot/jadx |
 | **janet** | 1.38.0 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
@@ -1110,8 +1110,8 @@
 | **libjpeg-turbo** | 3.1.1 | Library for reading and writing JPEG image files | https://libjpeg-turbo.virtualgl.org |
 | **libjpeg-turbo-progs** | 3.1.1 | Programs for manipulating JPEG files | https://libjpeg-turbo.virtualgl.org |
 | **libjpeg-turbo-static** | 3.1.1 | Static libraries for libjpeg-turbo | https://libjpeg-turbo.virtualgl.org |
-| **libjxl** | 0.11.1 | JPEG XL image format reference implementation | https://jpegxl.info/ |
-| **libjxl-progs** | 0.11.1 | Programs for manipulating JPEG XL files | https://jpegxl.info/ |
+| **libjxl** | 0.11.1-1 | JPEG XL image format reference implementation | https://jpegxl.info/ |
+| **libjxl-progs** | 0.11.1-1 | Programs for manipulating JPEG XL files | https://jpegxl.info/ |
 | **libkiwix** | 13.1.0-3 | A library that contains a lot of things used by other kiwix programs | https://github.com/kiwix/libkiwix |
 | **libknot** | 3.2.4-1 | Knot DNS libraries | https://www.knot-dns.cz/ |
 | **libknot-static** | 3.2.4-1 | Static libraries for libknot | https://www.knot-dns.cz/ |
