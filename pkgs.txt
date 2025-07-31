@@ -440,7 +440,7 @@
  fakeroot  1.37.1.2  Tool for simulating superuser privileges (with tcp ipc)  https://packages.qa.debian.org/f/fakeroot.html 
  fakeroot-static  1.37.1.2  Static libraries for fakeroot  https://packages.qa.debian.org/f/fakeroot.html 
  fasd  1.0.2  To fastly access files and folders  https://github.com/whjvenyl/fasd 
- fastfetch  2.48.1  A maintained, feature-rich and performance oriented, neofetch like system information tool  https://github.com/fastfetch-cli/fastfetch 
+ fastfetch  2.49.0  A maintained, feature-rich and performance oriented, neofetch like system information tool  https://github.com/fastfetch-cli/fastfetch 
  fastmod  0.4.4  Regex-based code refactoring utility  https://github.com/facebookincubator/fastmod 
  fatsort  1.6.5.640  A C utility that sorts FAT12, FAT16, FAT32 and exFAT partitions  https://fatsort.sourceforge.io/ 
  faust  2.81.2  A functional programming language for signal processing and sound synthesis  https://github.com/grame-cncm/faust 
@@ -1363,9 +1363,9 @@
  libspice-protocol  0.14.5  SPICE protocol headers  https://www.spice-space.org/ 
  libspice-server  0.16.0  Implements the server side of the SPICE protocol  https://www.spice-space.org/ 
  libspice-server-static  0.16.0  Static libraries for libspice-server  https://www.spice-space.org/ 
- libsqlite  3.50.3  Library implementing a self-contained and transactional SQL database engine  https://www.sqlite.org 
- libsqlite-static  3.50.3  Static libraries for libsqlite  https://www.sqlite.org 
- libsqlite-tcl  3.50.3  tcl bindings for SQLite  https://www.sqlite.org 
+ libsqlite  3.50.4  Library implementing a self-contained and transactional SQL database engine  https://www.sqlite.org 
+ libsqlite-static  3.50.4  Static libraries for libsqlite  https://www.sqlite.org 
+ libsqlite-tcl  3.50.4  tcl bindings for SQLite  https://www.sqlite.org 
  libsrt  1.5.4  Secure Reliable Transport (SRT) Protocol  https://github.com/Haivision/srt 
  libssh  0.11.2  Tiny C SSH library  https://www.libssh.org/ 
  libssh2  1.11.1  Client-side library implementing the SSH2 protocol  https://www.libssh2.org 
@@ -1851,7 +1851,7 @@
  openjpeg-tools  2.5.3  Command-line tools using the JPEG 2000 library  https://www.openjpeg.org/ 
  openldap  2.6.10  OpenLDAP server  https://openldap.org 
  openldap-static  2.6.10  Static libraries for openldap  https://openldap.org 
- openlist  4.0.9  A file list program that supports multiple storage  https://oplist.org/ 
+ openlist  4.1.0  A file list program that supports multiple storage  https://oplist.org/ 
  openmpi  4.1.5  Open source Message Passing Interface implementation  https://www.open-mpi.org 
  openmpi-static  4.1.5  Static libraries for openmpi  https://www.open-mpi.org 
  openmpt123  0.8.2-1  libopenmpt based command-line player for tracker music formats  https://lib.openmpt.org/libopenmpt/ 
@@ -2284,7 +2284,7 @@
  spirv-tools  1.4.321.0-1  SPIR-V Tools  https://github.com/KhronosGroup/SPIRV-Tools 
  sqlcipher  4.6.1  SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files  https://github.com/sqlcipher/sqlcipher 
  sqlcipher-static  4.6.1  Static libraries for sqlcipher  https://github.com/sqlcipher/sqlcipher 
- sqlite  3.50.3  Command line shell for SQLite  https://www.sqlite.org 
+ sqlite  3.50.4  Command line shell for SQLite  https://www.sqlite.org 
  squashfs-tools-ng  1.3.2  New set of tools for working with SquashFS images  https://github.com/AgentD/squashfs-tools-ng 
  squashfs-tools-ng-static  1.3.2  Static libraries for squashfs-tools-ng  https://github.com/AgentD/squashfs-tools-ng 
  squeezelite  2.0.0.1517-1  A small headless Logitech Squeezebox emulator  https://ralph-irving.github.io/squeezelite.html 
