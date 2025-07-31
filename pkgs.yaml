@@ -215,11 +215,11 @@
   Description: Provides a standard for creating app stores across distributions
   Homepage: https://www.freedesktop.org/wiki/Distributions/AppStream/
 - Package: apr
-  Version: 1.7.6
+  Version: 1.7.6-1
   Description: Apache Portable Runtime Library
   Homepage: https://apr.apache.org/
 - Package: apr-static
-  Version: 1.7.6
+  Version: 1.7.6-1
   Description: Static libraries for apr
   Homepage: https://apr.apache.org/
 - Package: apr-util
@@ -8387,9 +8387,9 @@
   Description: Static libraries for racket
   Homepage: https://racket-lang.org
 - Package: radare2
-  Version: 5.9.8
-  Description: Advanced Hexadecimal Editor
-  Homepage: https://rada.re
+  Version: 6.0.0
+  Description: UNIX-like reverse engineering framework and command-line toolset
+  Homepage: https://www.radare.org/
 - Package: rage
   Version: 0.11.1
   Description: A simple, secure and modern encryption tool
