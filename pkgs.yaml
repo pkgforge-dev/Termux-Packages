@@ -1647,7 +1647,7 @@
   Description: Elixir is a dynamic, functional language designed for building scalable and maintainable applications
   Homepage: https://elixir-lang.org/
 - Package: eltclsh
-  Version: 1.19-2
+  Version: "1.20"
   Description: Interactive shell for TCL programming language
   Homepage: https://homepages.laas.fr/mallet/soft/shell/eltclsh
 - Package: elvish
@@ -3035,7 +3035,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.2208
+  Version: 0.22.2213
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -6419,7 +6419,7 @@
   Description: A way of synchronizing a collection of mailboxes
   Homepage: http://mailsync.sourceforge.net/
 - Package: mailutils
-  Version: "3.19"
+  Version: "3.20"
   Description: Mailutils is a swiss army knife of electronic mail handling.
   Homepage: https://mailutils.org/
 - Package: mailutils-static
