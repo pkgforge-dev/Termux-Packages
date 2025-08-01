@@ -306,8 +306,8 @@
 | **cvs** | 1:1.12.13-4 | Concurrent Versions System | https://www.nongnu.org/cvs/ |
 | **d8** | 33.0.1-1 | DEX bytecode compiler from Android SDK | https://developer.android.com/studio/command-line/d8 |
 | **daemonize** | 1.7.8-2 | Run a command as a Unix daemon | http://software.clapper.org/daemonize/ |
-| **dar** | 2.7.18 | A full featured command-line backup tool, short for Disk ARchive | http://dar.linux.free.fr/ |
-| **dar-static** | 2.7.18 | Static libraries for dar | http://dar.linux.free.fr/ |
+| **dar** | 2.7.19 | A full featured command-line backup tool, short for Disk ARchive | http://dar.linux.free.fr/ |
+| **dar-static** | 2.7.19 | Static libraries for dar | http://dar.linux.free.fr/ |
 | **darkhttpd** | 1.17 | A simple webserver, implemented in a single .c file. | https://unix4lyfe.org/darkhttpd |
 | **dart** | 3.8.2 | Dart is a general-purpose programming language | https://dart.dev/ |
 | **dasel** | 2.8.1 | Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility | https://github.com/TomWright/dasel |
@@ -321,7 +321,7 @@
 | **dcmtk** | 3.6.9 | A collection of libraries and applications implementing large parts the DICOM standard | https://dicom.offis.de/dcmtk |
 | **dcraw** | 9.28.0-6 | Raw digital camera images decoding utility | https://www.dechifro.org/dcraw/ |
 | **ddrescue** | 1.29.1 | GNU data recovery tool | https://www.gnu.org/software/ddrescue/ |
-| **debianutils** | 5.23.1 | Small utilities which are used primarily by the installation scripts of Debian packages | https://packages.debian.org/debianutils |
+| **debianutils** | 5.23.2 | Small utilities which are used primarily by the installation scripts of Debian packages | https://packages.debian.org/debianutils |
 | **debootstrap** | 1.0.141 | Bootstrap a basic Debian system | https://wiki.debian.org/Debootstrap |
 | **desed** | 1.2.2 | Demystifies and debugs your sed scripts | https://github.com/SoptikHa2/desed |
 | **deutex** | 5.2.3 | WAD composer for Doom, Heretic, Hexen, and Strife | https://github.com/Doom-Utils/deutex/ |
@@ -678,7 +678,7 @@
 | **harfbuzz** | 11.3.3 | OpenType text shaping engine | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
 | **harfbuzz-icu** | 11.3.3 | OpenType text shaping engine ICU backend | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
 | **harfbuzz-utils** | 11.3.3 | Tools using the harfbuzz library | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
-| **has** | 1.5.1 | has checks presence of various command line tools and their versions on the path | https://github.com/kdabir/has |
+| **has** | 1.5.2 | has checks presence of various command line tools and their versions on the path | https://github.com/kdabir/has |
 | **hash-slinger** | 3.4 | Various tools to generate special DNS records | https://github.com/letoams/hash-slinger |
 | **hashdeep** | 4.4-8 | Programs to compute hashsums of arbitrary number of files recursively | http://md5deep.sourceforge.net/ |
 | **hcl** | 2.24.0 | A toolkit for creating structured configuration languages | https://github.com/hashicorp/hcl |
