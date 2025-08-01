@@ -1027,7 +1027,7 @@
   },
   {
     "Package": "buf",
-    "Version": "1.55.1",
+    "Version": "1.56.0",
     "Description": "A new way of working with Protocol Buffers",
     "Homepage": "https://buf.build"
   },
@@ -2347,7 +2347,7 @@
   },
   {
     "Package": "dust",
-    "Version": "1.2.2",
+    "Version": "1.2.3",
     "Description": "A more intuitive version of du in rust",
     "Homepage": "https://github.com/bootandy/dust"
   },
@@ -9553,7 +9553,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.11.2",
+    "Version": "0.12.1",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://nvim-neorocks.github.io/"
   },
@@ -10261,7 +10261,7 @@
   },
   {
     "Package": "mpd",
-    "Version": "0.24.4-1",
+    "Version": "0.24.5",
     "Description": "Music player daemon",
     "Homepage": "https://www.musicpd.org"
   },
