@@ -504,7 +504,7 @@
  fwknop  2.6.11  fwknop: Single Packet Authorization > Port Knocking  https://www.cipherdyne.org/fwknop/ 
  fwknop-static  2.6.11  Static libraries for fwknop  https://www.cipherdyne.org/fwknop/ 
  fx  38.0.0  Interactive JSON viewer on your terminal  https://github.com/antonmedv/fx 
- fzf  0.65.0  Command-line fuzzy finder  https://junegunn.github.io/fzf/ 
+ fzf  0.65.1  Command-line fuzzy finder  https://junegunn.github.io/fzf/ 
  fzy  1.1  A simple, fast fuzzy finder for the terminal  https://github.com/jhawthorn/fzy 
  g-ir-scanner  1.84.0  A tool which generates GIR XML files  https://gi.readthedocs.io/ 
  game-music-emu  0.6.4  A collection of video game music file emulators  https://bitbucket.org/mpyne/game-music-emu/wiki/Home 
@@ -617,7 +617,7 @@
  gopher  3.0.17.3-1  University of Minnesota gopher  gopher://gopher.quux.org/1/devel/gopher 
  gopls  0.19.1-1  The official Go language server  https://github.com/golang/tools 
  gotop  4.2.0-3  A terminal based graphical activity monitor inspired by gtop and vtop  https://github.com/xxxserxxx/gotop 
- gotty  1.5.0-3  Share your terminal as a web application  https://github.com/sorenisanerd/gotty 
+ gotty  1.5.1  Share your terminal as a web application  https://github.com/sorenisanerd/gotty 
  gpac  2.4.0-3  An open-source multimedia framework focused on modularity and standards compliance  https://gpac.wp.imt.fr/ 
  gpac-static  2.4.0-3  Static libraries for gpac  https://gpac.wp.imt.fr/ 
  gperf  3.3  A perfect hash function generator  https://www.gnu.org/software/gperf 
@@ -757,7 +757,7 @@
  jack  0.0.1  A metapackage that provides JACK Audio Connection Kit  https://github.com/termux/termux-packages 
  jack-example-tools  4  Official JACK example clients and tools  https://jackaudio.org/ 
  jack2  1.9.22-1  The JACK low-latency audio server  https://jackaudio.org/ 
- jackett  0.22.2219  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
+ jackett  0.22.2223  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
  jadx  1.5.2  Dex to Java decompiler  https://github.com/skylot/jadx 
  jadx-x  1.5.2  Dex to Java decompiler GUI  https://github.com/skylot/jadx 
  janet  1.38.0  Janet is a dialect of Lisp intended for embedding into programs and such  https://janet-lang.org 
@@ -1094,8 +1094,8 @@
  libjansi  2.4.2  A small java library that allows you to use ANSI escape codes to format your console output  https://fusesource.github.io/jansi/ 
  libjansson  2.14.1  C library for encoding, decoding and manipulating JSON data  http://www.digip.org/jansson/ 
  libjansson-static  2.14.1  Static libraries for libjansson  http://www.digip.org/jansson/ 
- libjasper  4.2.6  Library for manipulating JPEG-2000 files  http://www.ece.uvic.ca/~frodo/jasper/ 
- libjasper-utils  4.2.6  JPEG-2000 utilities  http://www.ece.uvic.ca/~frodo/jasper/ 
+ libjasper  4.2.7  Library for manipulating JPEG-2000 files  http://www.ece.uvic.ca/~frodo/jasper/ 
+ libjasper-utils  4.2.7  JPEG-2000 utilities  http://www.ece.uvic.ca/~frodo/jasper/ 
  libjpeg-turbo  3.1.1  Library for reading and writing JPEG image files  https://libjpeg-turbo.virtualgl.org 
  libjpeg-turbo-progs  3.1.1  Programs for manipulating JPEG files  https://libjpeg-turbo.virtualgl.org 
  libjpeg-turbo-static  3.1.1  Static libraries for libjpeg-turbo  https://libjpeg-turbo.virtualgl.org 
@@ -2567,7 +2567,7 @@
  w3m  0.5.3.20230121-3  Text based Web browser and pager  https://w3m.sourceforge.net/ 
  w3m-img  0.5.3.20230121-3  Inline image extension support utilities for w3m  https://w3m.sourceforge.net/ 
  wabt  1.0.37  The WebAssembly Binary Toolkit  https://github.com/WebAssembly/wabt 
- wakatime-cli  1.127.0  Command line interface used by all WakaTime text editor plugins  https://wakatime.com/plugins/ 
+ wakatime-cli  1.129.1  Command line interface used by all WakaTime text editor plugins  https://wakatime.com/plugins/ 
  walk  1.13.0  A terminal file manager  https://github.com/antonmedv/walk 
  wasi-libc  25-1  Libc for WebAssembly programs built on top of WASI system calls  https://wasi.dev/ 
  wasm-component-ld  0.5.15  Command line linker for creating WebAssembly components  https://github.com/bytecodealliance/wasm-component-ld 
