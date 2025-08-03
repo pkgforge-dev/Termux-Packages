@@ -10211,7 +10211,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2025.07.28
+  Version: 2025.08.03
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vttest
@@ -10283,7 +10283,7 @@
   Description: A terminal file manager
   Homepage: https://github.com/antonmedv/walk
 - Package: wasi-libc
-  Version: 25-1
+  Version: "27"
   Description: Libc for WebAssembly programs built on top of WASI system calls
   Homepage: https://wasi.dev/
 - Package: wasm-component-ld
