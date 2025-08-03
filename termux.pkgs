@@ -257,7 +257,7 @@
 | **colm** | 0.14.7-1 | COmputer Language Machinery | https://www.colm.net/open-source/colm/ |
 | **colm-static** | 0.14.7-1 | Static libraries for colm | https://www.colm.net/open-source/colm/ |
 | **colordiff** | 1.0.21 | Tool to colorize 'diff' output | https://www.colordiff.org/ |
-| **command-not-found** | 3.1-5 | Suggest installation of packages in interactive shell sessions | https://github.com/termux/command-not-found |
+| **command-not-found** | 3.1-6 | Suggest installation of packages in interactive shell sessions | https://github.com/termux/command-not-found |
 | **composer** | 2.8.10 | Dependency Manager for PHP | https://getcomposer.org/ |
 | **console-bridge** | 1.0.2 | A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages | https://github.com/ros/console_bridge |
 | **convertlit** | 1.8-1 | An extractor/converter for .LIT eBooks | http://www.convertlit.com/ |
@@ -294,8 +294,8 @@
 | **cvs** | 1:1.12.13-4 | Concurrent Versions System | https://www.nongnu.org/cvs/ |
 | **d8** | 33.0.1-1 | DEX bytecode compiler from Android SDK | https://developer.android.com/studio/command-line/d8 |
 | **daemonize** | 1.7.8-2 | Run a command as a Unix daemon | http://software.clapper.org/daemonize/ |
-| **dar** | 2.7.19 | A full featured command-line backup tool, short for Disk ARchive | http://dar.linux.free.fr/ |
-| **dar-static** | 2.7.19 | Static libraries for dar | http://dar.linux.free.fr/ |
+| **dar** | 2.8.0 | A full featured command-line backup tool, short for Disk ARchive | http://dar.linux.free.fr/ |
+| **dar-static** | 2.8.0 | Static libraries for dar | http://dar.linux.free.fr/ |
 | **darkhttpd** | 1.17 | A simple webserver, implemented in a single .c file. | https://unix4lyfe.org/darkhttpd |
 | **dart** | 3.8.2 | Dart is a general-purpose programming language | https://dart.dev/ |
 | **dasel** | 2.8.1 | Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility | https://github.com/TomWright/dasel |
@@ -1094,8 +1094,8 @@
 | **libjansi** | 2.4.2 | A small java library that allows you to use ANSI escape codes to format your console output | https://fusesource.github.io/jansi/ |
 | **libjansson** | 2.14.1 | C library for encoding, decoding and manipulating JSON data | http://www.digip.org/jansson/ |
 | **libjansson-static** | 2.14.1 | Static libraries for libjansson | http://www.digip.org/jansson/ |
-| **libjasper** | 4.2.5 | Library for manipulating JPEG-2000 files | http://www.ece.uvic.ca/~frodo/jasper/ |
-| **libjasper-utils** | 4.2.5 | JPEG-2000 utilities | http://www.ece.uvic.ca/~frodo/jasper/ |
+| **libjasper** | 4.2.6 | Library for manipulating JPEG-2000 files | http://www.ece.uvic.ca/~frodo/jasper/ |
+| **libjasper-utils** | 4.2.6 | JPEG-2000 utilities | http://www.ece.uvic.ca/~frodo/jasper/ |
 | **libjpeg-turbo** | 3.1.1 | Library for reading and writing JPEG image files | https://libjpeg-turbo.virtualgl.org |
 | **libjpeg-turbo-progs** | 3.1.1 | Programs for manipulating JPEG files | https://libjpeg-turbo.virtualgl.org |
 | **libjpeg-turbo-static** | 3.1.1 | Static libraries for libjpeg-turbo | https://libjpeg-turbo.virtualgl.org |

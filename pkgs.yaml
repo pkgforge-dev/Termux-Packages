@@ -1035,7 +1035,7 @@
   Description: Tool to colorize diff output
   Homepage: https://www.colordiff.org/
 - Package: command-not-found
-  Version: 3.1-5
+  Version: 3.1-6
   Description: Suggest installation of packages in interactive shell sessions
   Homepage: https://github.com/termux/command-not-found
 - Package: composer
@@ -1183,11 +1183,11 @@
   Description: Run a command as a Unix daemon
   Homepage: http://software.clapper.org/daemonize/
 - Package: dar
-  Version: 2.7.19
+  Version: 2.8.0
   Description: A full featured command-line backup tool, short for Disk ARchive
   Homepage: http://dar.linux.free.fr/
 - Package: dar-static
-  Version: 2.7.19
+  Version: 2.8.0
   Description: Static libraries for dar
   Homepage: http://dar.linux.free.fr/
 - Package: darkhttpd
@@ -4383,11 +4383,11 @@
   Description: Static libraries for libjansson
   Homepage: http://www.digip.org/jansson/
 - Package: libjasper
-  Version: 4.2.5
+  Version: 4.2.6
   Description: Library for manipulating JPEG-2000 files
   Homepage: http://www.ece.uvic.ca/~frodo/jasper/
 - Package: libjasper-utils
-  Version: 4.2.5
+  Version: 4.2.6
   Description: JPEG-2000 utilities
   Homepage: http://www.ece.uvic.ca/~frodo/jasper/
 - Package: libjpeg-turbo
