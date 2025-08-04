@@ -2475,7 +2475,7 @@
   Description: A terminal based graphical activity monitor inspired by gtop and vtop
   Homepage: https://github.com/xxxserxxx/gotop
 - Package: gotty
-  Version: 1.5.1
+  Version: 1.6.0
   Description: Share your terminal as a web application
   Homepage: https://github.com/sorenisanerd/gotty
 - Package: gpac
@@ -6367,7 +6367,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.12.1
+  Version: 0.13.0
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://nvim-neorocks.github.io/
 - Package: lv2
@@ -10211,7 +10211,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2025.08.03b
+  Version: 2025.08.04
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vttest
