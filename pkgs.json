@@ -9636,12 +9636,6 @@
     "Homepage": "https://mailutils.org/"
   },
   {
-    "Package": "mailutils-static",
-    "Version": "3.19",
-    "Description": "Static libraries for mailutils",
-    "Homepage": "https://mailutils.org/"
-  },
-  {
     "Package": "make",
     "Version": "4.4.1",
     "Description": "Tool to control the generation of non-source files from source files",
@@ -10275,12 +10269,6 @@
     "Package": "mpg123",
     "Version": "1.33.1-1",
     "Description": "Fast console MPEG Audio Player based on libmpg123",
-    "Homepage": "https://mpg123.org/"
-  },
-  {
-    "Package": "mpg123-static",
-    "Version": "1.33.1",
-    "Description": "Static libraries for mpg123",
     "Homepage": "https://mpg123.org/"
   },
   {
@@ -13057,7 +13045,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20250728",
+    "Version": "20250804",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://rust-analyzer.github.io/"
   },
@@ -13465,7 +13453,7 @@
   },
   {
     "Package": "sing-box",
-    "Version": "1.11.15",
+    "Version": "1.12.0",
     "Description": "The universal proxy platform",
     "Homepage": "https://sing-box.sagernet.org"
   },

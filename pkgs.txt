@@ -1604,7 +1604,6 @@
  magic-wormhole-rs  0.7.6  Rust implementation of Magic Wormhole, with new features and enhancements  https://github.com/magic-wormhole/magic-wormhole.rs 
  mailsync  5.2.7-1  A way of synchronizing a collection of mailboxes  http://mailsync.sourceforge.net/ 
  mailutils  3.20  Mailutils is a swiss army knife of electronic mail handling.   https://mailutils.org/ 
- mailutils-static  3.19  Static libraries for mailutils  https://mailutils.org/ 
  make  4.4.1  Tool to control the generation of non-source files from source files  https://www.gnu.org/software/make/ 
  make-guile  4.4.1  Tool to control the generation of non-source files from source files  https://www.gnu.org/software/make/ 
  mandoc  1.14.6-5  Man page viewer from the mandoc toolset  https://mdocml.bsd.lv/ 
@@ -1711,7 +1710,6 @@
  mpd  0.24.5  Music player daemon  https://www.musicpd.org 
  mpdscribble  0.25-2  A Music Player Daemon (MPD) client which submits information about tracks being played to a scrobbler  https://www.musicpd.org/clients/mpdscribble/ 
  mpg123  1.33.1-1  Fast console MPEG Audio Player based on libmpg123  https://mpg123.org/ 
- mpg123-static  1.33.1  Static libraries for mpg123  https://mpg123.org/ 
  mpv  0.40.0  Command-line media player  https://mpv.io/ 
  mruby  3.4.0  Lightweight implementation of the Ruby language  https://mruby.org/ 
  mruby-static  3.4.0  Static libraries for mruby  https://mruby.org/ 
@@ -2174,7 +2172,7 @@
  runit-static  2.1.2-3  Static libraries for runit  http://smarden.org/runit 
  rush  0.7.0  A cross-platform command-line tool for executing jobs in parallel  https://github.com/shenwei356/rush 
  rust  1.88.0-1  Systems programming language focused on safety, speed and concurrency  https://www.rust-lang.org/ 
- rust-analyzer  20250728  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
+ rust-analyzer  20250804  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
  rust-bindgen  0.72.0  Automatically generates Rust FFI bindings to C (and some C++) libraries  https://github.com/rust-lang/rust-bindgen 
  rust-docs  1.88.0-1  Rust documentation  https://www.rust-lang.org/ 
  rust-src  1.88.0-1  Rust source code files  https://www.rust-lang.org/ 
@@ -2242,7 +2240,7 @@
  simh  1:3.12.5  A collection of simulators for computer hardware and software from the past  http://simh.trailing-edge.com/ 
  simulavr  1:1.1.0-2  Simulator for Microchip AVR (formerly Atmel) microcontrollers  https://www.nongnu.org/simulavr 
  simuwaerm  0.02  A simple heat transfer simulator in pure Rust  https://github.com/file-acomplaint/simuwaerm 
- sing-box  1.11.15  The universal proxy platform  https://sing-box.sagernet.org 
+ sing-box  1.12.0  The universal proxy platform  https://sing-box.sagernet.org 
  skate  1.0.1  A personal key-value store  https://github.com/charmbracelet/skate 
  sl  5.05  Tool curing your bad habit of mistyping  https://github.com/mtoyoda/sl 
  slang  2.3.3-1  S-Lang is a powerful interpreted language  https://www.jedsoft.org/slang/ 
