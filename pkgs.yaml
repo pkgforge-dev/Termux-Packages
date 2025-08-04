@@ -387,7 +387,7 @@
   Description: Static libraries for attr
   Homepage: http://savannah.nongnu.org/projects/attr/
 - Package: atuin
-  Version: 18.7.1
+  Version: 18.8.0
   Description: Magical shell history
   Homepage: https://atuin.sh/
 - Package: aubio
@@ -2855,7 +2855,7 @@
   Description: A CLI tool for sr.ht
   Homepage: https://git.sr.ht/~xenrox/hut
 - Package: hwdata
-  Version: "0.397"
+  Version: "0.398"
   Description: Database of hardware identification and configuration data
   Homepage: https://github.com/vcrhonek/hwdata
 - Package: hydroxide
@@ -3035,7 +3035,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.2223
+  Version: 0.22.2225
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -3415,7 +3415,7 @@
   Description: Static libraries for libandroid-spawn
   Homepage: https://man7.org/linux/man-pages/man3/posix_spawn.3.html
 - Package: libandroid-stub
-  Version: 27c-3
+  Version: 28c
   Description: Stub libandroid.so for non-Android certified environment
   Homepage: https://android.googlesource.com/platform/frameworks/base/+/main/native/android
 - Package: libandroid-support
@@ -3583,7 +3583,7 @@
   Description: BZ2 format compression library
   Homepage: http://www.bzip.org/
 - Package: libc++
-  Version: 27c
+  Version: 28c
   Description: C++ Standard Library
   Homepage: https://libcxx.llvm.org/
 - Package: libc++utilities
@@ -7015,19 +7015,19 @@
   Description: Tools for working with terminals
   Homepage: https://invisible-island.net/ncurses/
 - Package: ndk-multilib
-  Version: 27c
+  Version: 28c
   Description: Multilib binaries for cross-compilation
   Homepage: https://developer.android.com/tools/sdk/ndk/index.html
 - Package: ndk-multilib-native-static
-  Version: 27c
+  Version: 28c
   Description: Install native static libs from NDK
   Homepage: https://developer.android.com/tools/sdk/ndk/index.html
 - Package: ndk-multilib-native-stubs
-  Version: 27c
+  Version: 28c
   Description: Install native stubs for shared libs from NDK
   Homepage: https://developer.android.com/tools/sdk/ndk/index.html
 - Package: ndk-sysroot
-  Version: 27c
+  Version: 28c
   Description: System header and library files from the Android NDK needed for compiling C programs
   Homepage: https://developer.android.com/tools/sdk/ndk/index.html
 - Package: ne
@@ -10203,7 +10203,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2025.08.04
+  Version: 2025.08.04a
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vttest
@@ -10231,7 +10231,7 @@
   Description: A metapackage that provides vulkan loader library
   Homepage: https://github.com/termux/termux-packages
 - Package: vulkan-loader-android
-  Version: 27c
+  Version: 28c
   Description: Vulkan Loader for Android
   Homepage: https://source.android.com/devices/graphics/arch-vulkan
 - Package: vulkan-loader-generic
