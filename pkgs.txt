@@ -536,8 +536,8 @@
  geoip2-database  20191221-2  GeoLite2 IP geolocation databases compiled by MaxMind  https://dev.maxmind.com/geoip/geoip2/geolite2/ 
  germanium  1.2.3-3  Generate image from source code  https://github.com/matsuyoshi30/germanium 
  getconf  0.6  Utility to print configuration values  https://github.com/termux/getconf 
- geth  1.16.1  Go implementation of the Ethereum protocol  https://geth.ethereum.org/ 
- geth-utils  1.16.1  Additional utilities for Geth (like abigen, bootnode, evm, puppeth)  https://geth.ethereum.org/ 
+ geth  1.16.2  Go implementation of the Ethereum protocol  https://geth.ethereum.org/ 
+ geth-utils  1.16.2  Additional utilities for Geth (like abigen, bootnode, evm, puppeth)  https://geth.ethereum.org/ 
  gettext  0.26  GNU Internationalization utilities  https://www.gnu.org/software/gettext/ 
  gettext-static  0.26  Static libraries for gettext  https://www.gnu.org/software/gettext/ 
  gexiv2  0.14.6  A GObject-based Exiv2 wrapper  https://wiki.gnome.org/Projects/gexiv2 
@@ -2061,8 +2061,8 @@
  pyunbound  1.23.1  Python bindings for Unbound  https://unbound.net/ 
  pzstd  1.5.7  A Pigz-like tool for Zstandard  https://github.com/facebook/zstd 
  q-dns-client  0.19.5  A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH  https://github.com/natesales/q 
- qalc  5.6.0  Powerful and easy to use command line calculator  https://qalculate.github.io/ 
- qalc-static  5.6.0  Static libraries for qalc  https://qalculate.github.io/ 
+ qalc  5.7.0  Powerful and easy to use command line calculator  https://qalculate.github.io/ 
+ qalc-static  5.7.0  Static libraries for qalc  https://qalculate.github.io/ 
  qemu-common  1:8.2.6-6  A set common files used by the QEMU emulators  https://www.qemu.org 
  qemu-system-aarch64-headless  1:8.2.6-6  A generic and open source machine emulator and virtualizer (headless)  https://www.qemu.org 
  qemu-system-arm-headless  1:8.2.6-6  A generic and open source machine emulator and virtualizer (headless)  https://www.qemu.org 
@@ -2091,7 +2091,7 @@
  quick-lint-js  3.2.0  Finds bugs in JavaScript programs  https://quick-lint-js.com/ 
  quickjs  1:20250426  QuickJS is a small and embeddable Javascript engine  https://bellard.org/quickjs/ 
  quilt  0.69  Allows you to easily manage large numbers of patches  https://savannah.nongnu.org/projects/quilt 
- rabbitmq-server  4.1.2  Feature rich, multi-protocol messaging and streaming broker  https://github.com/rabbitmq/rabbitmq-server 
+ rabbitmq-server  4.1.3  Feature rich, multi-protocol messaging and streaming broker  https://github.com/rabbitmq/rabbitmq-server 
  racket  8.17  Full-spectrum programming language going beyond Lisp and Scheme  https://racket-lang.org 
  racket-static  8.17  Static libraries for racket  https://racket-lang.org 
  radare2  6.0.0  UNIX-like reverse engineering framework and command-line toolset  https://www.radare.org/ 
@@ -2253,8 +2253,8 @@
  smalltalk  3.2.91-14  A free implementation of the Smalltalk-80 language  http://smalltalk.gnu.org/ 
  smalltalk-static  3.2.91-14  Static libraries for smalltalk  http://smalltalk.gnu.org/ 
  snake  2022.11.07  Eat as much as you want while avoiding walls  https://github.com/gogakoreli/snake 
- snapcast-client  0.32.0  A multiroom client-server audio player (client)  https://github.com/badaix/snapcast 
- snapcast-server  0.32.0  A multiroom client-server audio player (server)  https://github.com/badaix/snapcast 
+ snapcast-client  0.32.1  A multiroom client-server audio player (client)  https://github.com/badaix/snapcast 
+ snapcast-server  0.32.1  A multiroom client-server audio player (server)  https://github.com/badaix/snapcast 
  snmptt  1.5  SNMP trap translator  http://www.snmptt.org/ 
  snowflake  2.11.0  Pluggable Transport using WebRTC, inspired by Flashproxy  https://snowflake.torproject.org/ 
  snowflake-client  2.11.0  Pluggable Transport using WebRTC, inspired by Flashproxy (Client)  https://snowflake.torproject.org/ 
@@ -2550,17 +2550,17 @@
  vlc-static  3.0.21-9  Static libraries for vlc  https://www.videolan.org/ 
  vobsub2srt  2017.12.18-3  A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR  https://github.com/ruediger/VobSub2SRT 
  vorbis-tools  1.4.3  Ogg Vorbis tools  https://github.com/xiph/vorbis-tools 
- vtm  2025.08.04a  Terminal multiplexer with TUI window manager and multi-party session sharing  https://github.com/directvt/vtm 
+ vtm  2025.08.04b  Terminal multiplexer with TUI window manager and multi-party session sharing  https://github.com/directvt/vtm 
  vttest  20241208  Program for testing the VT100 compatibility of terminal emulators  https://invisible-island.net/vttest/ 
  vtutils  0.5-4  Utilities for testing and working with virtual terminals  https://github.com/fornwall/vtutils 
  vulkan-extension-layer  1.4.321  Vulkan Extension Layer  https://github.com/KhronosGroup/Vulkan-ExtensionLayer 
- vulkan-headers  1.4.323  Vulkan Header files and API registry  https://github.com/KhronosGroup/Vulkan-Headers 
+ vulkan-headers  1.4.324  Vulkan Header files and API registry  https://github.com/KhronosGroup/Vulkan-Headers 
  vulkan-icd  0.1  A metapackage that provides Vulkan ICDs  https://github.com/termux/termux-packages 
  vulkan-loader  0.0.3  A metapackage that provides vulkan loader library  https://github.com/termux/termux-packages 
  vulkan-loader-android  28c  Vulkan Loader for Android  https://source.android.com/devices/graphics/arch-vulkan 
- vulkan-loader-generic  1.4.323  Vulkan Loader  https://github.com/KhronosGroup/Vulkan-Loader 
+ vulkan-loader-generic  1.4.324  Vulkan Loader  https://github.com/KhronosGroup/Vulkan-Loader 
  vulkan-tools  1.4.323  Vulkan Tools and Utilities  https://github.com/KhronosGroup/Vulkan-Tools 
- vulkan-utility-libraries  1.4.323  Utility Libraries for Vulkan  https://github.com/KhronosGroup/Vulkan-Utility-Libraries 
+ vulkan-utility-libraries  1.4.324  Utility Libraries for Vulkan  https://github.com/KhronosGroup/Vulkan-Utility-Libraries 
  vulkan-validation-layers  1.4.323  Vulkan Validation Layers  https://github.com/KhronosGroup/Vulkan-ValidationLayers 
  vulkan-volk  1.4.304  Meta loader for Vulkan API  https://github.com/zeux/volk 
  w3m  0.5.3.20230121-3  Text based Web browser and pager  https://w3m.sourceforge.net/ 
