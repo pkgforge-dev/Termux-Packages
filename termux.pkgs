@@ -556,13 +556,13 @@
 | **git-credential-manager** | 2.6.1 | Cross-platform Git credential storage for multiple hosting providers | https://aka.ms/gcm |
 | **git-crypt** | 0.7.0-2 | Enables transparent encryption and decryption of files for a git repository | https://www.agwa.name/projects/git-crypt/ |
 | **git-delta** | 0.18.2-2 | A syntax-highlighter for git and diff output | https://dandavison.github.io/delta/ |
-| **git-extras** | 7.4.0 | Little git extras. | https://github.com/tj/git-extras |
+| **git-extras** | 7.4.0-1 | Little git extras. | https://github.com/tj/git-extras |
 | **git-gitk** | 2.50.1-1 | Git repository browser | https://git-scm.com/ |
 | **git-gui** | 2.50.1-1 | A graphical interface to Git | https://git-scm.com/ |
 | **git-lfs** | 3.7.0 | Git extension for versioning large files | https://git-lfs.github.com/ |
 | **git-sizer** | 1.5.0-4 | Compute various size metrics for a Git repository | https://github.com/github/git-sizer |
 | **git-svn** | 2.50.1-1 | Convert between Git and Subversion repositories | https://git-scm.com/ |
-| **gitea** | 1.24.3 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
+| **gitea** | 1.24.4 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
 | **gitflow-avh** | 1.12.3-9 | Extend git with Vincent Driessen's branching model. The AVH Edition adds more functionality. | https://github.com/petervanderdoes/gitflow/ |
 | **gitoxide** | 0.45.0 | Rust implementation of Git | https://github.com/Byron/gitoxide |
 | **gitui** | 0.27.0-2 | Blazing fast terminal-ui for git written in rust | https://github.com/extrawurst/gitui |
@@ -1792,7 +1792,7 @@
 | **nnn** | 5.1 | Free, fast, friendly file browser | https://github.com/jarun/nnn |
 | **no-more-secrets** | 1.0.1-1 | This project provides a command line tool called nms that recreates the famous data decryption effect. | https://github.com/bartobri/no-more-secrets |
 | **nodejs** | 24.5.0 | Open Source, cross-platform JavaScript runtime environment | https://nodejs.org/ |
-| **nodejs-lts** | 22.17.1 | Open Source, cross-platform JavaScript runtime environment | https://nodejs.org/ |
+| **nodejs-lts** | 22.18.0 | Open Source, cross-platform JavaScript runtime environment | https://nodejs.org/ |
 | **notcurses** | 3.0.16 | blingful TUIs and character graphics | https://notcurses.com/ |
 | **notcurses-data** | 3.0.16 | Platform-independent data for notcurses | https://notcurses.com/ |
 | **notcurses-tools** | 3.0.16 | Tools and demos for notcurses | https://notcurses.com/ |
@@ -2098,7 +2098,7 @@
 | **rage** | 0.11.1 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
-| **railway-cli** | 4.6.0 | This is the command line interface for Railway | https://railway.app |
+| **railway-cli** | 4.6.1 | This is the command line interface for Railway | https://railway.app |
 | **range-v3** | 0.12.0 | Range library for C++14/17/20, basis for C++20's std::ranges | https://github.com/ericniebler/range-v3 |
 | **ranger** | 1.9.4 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-5 | Fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |
