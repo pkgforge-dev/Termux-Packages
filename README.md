@@ -580,7 +580,7 @@
 | **gitui** | 0.27.0-2 | Blazing fast terminal-ui for git written in rust | https://github.com/extrawurst/gitui |
 | **gkermit** | 2.01 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
 | **glab-cli** | 1.65.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
-| **gleam** | 1.11.1 | A friendly language for building type-safe, scalable systems! | https://gleam.run |
+| **gleam** | 1.12.0 | A friendly language for building type-safe, scalable systems! | https://gleam.run |
 | **glib** | 2.84.3 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
 | **glib-cross** | 2.84.3 | glib for host (NOT for Termux) | https://developer.gnome.org/glib/ |
 | **glib-networking** | 2.80.1 | Network-related giomodules for glib | https://gitlab.gnome.org/GNOME/glib-networking |
@@ -1303,7 +1303,7 @@
 | **libqrencode** | 4.1.1 | Fast and compact library for encoding data in a QR Code symbol | https://fukuchi.org/works/qrencode/ |
 | **libraptor2** | 2.0.16-8 | RDF Syntax Library | https://librdf.org/raptor/ |
 | **libraptor2-static** | 2.0.16-8 | Static libraries for libraptor2 | https://librdf.org/raptor/ |
-| **libraqm** | 0.10.2 | Raqm is a small library that encapsulates the logic for complex text layout and provides a convenient API | https://github.com/HOST-Oman/libraqm |
+| **libraqm** | 0.10.3 | Raqm is a small library that encapsulates the logic for complex text layout and provides a convenient API | https://github.com/HOST-Oman/libraqm |
 | **librasqal** | 0.9.33-3 | RDF Query Library | https://librdf.org/rasqal/ |
 | **librasqal-static** | 0.9.33-3 | Static libraries for librasqal | https://librdf.org/rasqal/ |
 | **librav1e** | 0.7.1-3 | An AV1 encoder library focused on speed and safety | https://github.com/xiph/rav1e/ |
@@ -2327,7 +2327,7 @@
 | **stone** | 2.4-2 | A TCP/IP repeater in the application layer | https://www.gcd.org/sengoku/stone/ |
 | **storj-uplink** | 1.131.7 | Storj DCS Uplink CLI | https://www.storj.io/integrations/uplink-cli |
 | **stow** | 2.4.1 | Tool for managing the installation of multiple software packages into a single directory | https://www.gnu.org/software/stow/ |
-| **strace** | 6.15 | Debugging utility to monitor system calls and signals received | https://strace.io/ |
+| **strace** | 6.16 | Debugging utility to monitor system calls and signals received | https://strace.io/ |
 | **streamripper** | 1.64.6-2 | Records and splits streaming mp3 into tracks | http://streamripper.sourceforge.net/ |
 | **stunnel** | 5.75 | Socket wrapper which can provide TLS support to ordinary applications | https://www.stunnel.org/ |
 | **stunnel-static** | 5.75 | Static libraries for stunnel | https://www.stunnel.org/ |

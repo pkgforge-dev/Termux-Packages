@@ -2279,7 +2279,7 @@
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
-  Version: 1.11.1
+  Version: 1.12.0
   Description: A friendly language for building type-safe, scalable systems!
   Homepage: https://gleam.run
 - Package: glib
@@ -5171,7 +5171,7 @@
   Description: Static libraries for libraptor2
   Homepage: https://librdf.org/raptor/
 - Package: libraqm
-  Version: 0.10.2
+  Version: 0.10.3
   Description: Raqm is a small library that encapsulates the logic for complex text layout and provides a convenient API
   Homepage: https://github.com/HOST-Oman/libraqm
 - Package: librasqal
@@ -9267,7 +9267,7 @@
   Description: Tool for managing the installation of multiple software packages into a single directory
   Homepage: https://www.gnu.org/software/stow/
 - Package: strace
-  Version: "6.15"
+  Version: "6.16"
   Description: Debugging utility to monitor system calls and signals received
   Homepage: https://strace.io/
 - Package: streamripper
