@@ -1599,7 +1599,7 @@
   Description: Eclipse Compiler for Java
   Homepage: https://www.eclipse.org/jdt/core/
 - Package: ed
-  Version: "1.22"
+  Version: 1.22.1
   Description: Classic UNIX line editor
   Homepage: https://www.gnu.org/software/ed/
 - Package: edbrowse
@@ -4387,11 +4387,11 @@
   Description: Static libraries for libjansson
   Homepage: http://www.digip.org/jansson/
 - Package: libjasper
-  Version: 4.2.7
+  Version: 4.2.8
   Description: Library for manipulating JPEG-2000 files
   Homepage: http://www.ece.uvic.ca/~frodo/jasper/
 - Package: libjasper-utils
-  Version: 4.2.7
+  Version: 4.2.8
   Description: JPEG-2000 utilities
   Homepage: http://www.ece.uvic.ca/~frodo/jasper/
 - Package: libjpeg-turbo
@@ -8835,11 +8835,11 @@
   Description: StarDict Console Version
   Homepage: http://dushistov.github.io/sdcv/
 - Package: seafile-client
-  Version: 9.0.14-1
+  Version: 9.0.15
   Description: Seafile is a file syncing and sharing software with file encryption and group sharing
   Homepage: https://seafile.com
 - Package: seafile-client-static
-  Version: 9.0.14-1
+  Version: 9.0.15
   Description: Static libraries for seafile-client
   Homepage: https://seafile.com
 - Package: seanime
@@ -9475,7 +9475,7 @@
   Description: Telegram messenger CLI
   Homepage: https://github.com/vysheng/tg
 - Package: teleport-tsh
-  Version: 18.1.2
+  Version: 18.1.3
   Description: Secure Access for Developers that doesnt get in the way
   Homepage: https://github.com/gravitational/teleport
 - Package: tenki-php
@@ -10259,11 +10259,11 @@
   Description: Meta loader for Vulkan API
   Homepage: https://github.com/zeux/volk
 - Package: w3m
-  Version: 0.5.3.20230121-3
+  Version: 0.5.4
   Description: Text based Web browser and pager
   Homepage: https://w3m.sourceforge.net/
 - Package: w3m-img
-  Version: 0.5.3.20230121-3
+  Version: 0.5.4
   Description: Inline image extension support utilities for w3m
   Homepage: https://w3m.sourceforge.net/
 - Package: wabt
