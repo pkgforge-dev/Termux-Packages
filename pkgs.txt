@@ -815,7 +815,7 @@
  ladspa-sdk  1.17-2  Linux Audio Developer's Simple Plugin API  https://www.ladspa.org/ 
  lame  3.100-6  High quality MPEG Audio Layer III (MP3) encoder - frontend  https://lame.sourceforge.io/ 
  lastpass-cli  1.6.1-2  LastPass command line interface tool  https://lastpass.com/ 
- lazygit  0.54.0  Simple terminal UI for git commands  https://github.com/jesseduffield/lazygit 
+ lazygit  0.54.1  Simple terminal UI for git commands  https://github.com/jesseduffield/lazygit 
  lcal  2.1.0  A multi-platform program which generates PostScript lunar calendars in a yearly format  https://pcal.sourceforge.net/ 
  ldc  1.30.0-2  D programming language compiler, built with LLVM  https://github.com/ldc-developers/ldc 
  ldd  0.3  Fake ldd command  https://github.com/termux/termux-packages 
@@ -1874,8 +1874,8 @@
  ossp-uuid  1.6.2-3  ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122.  http://www.ossp.org/pkg/lib/uuid/ 
  ossp-uuid-static  1.6.2-3  Static libraries for ossp-uuid  http://www.ossp.org/pkg/lib/uuid/ 
  ovmf  20231122-16.fc40-0  Open Virtual Machine Firmware  https://www.tianocore.org/ 
- oxc-language-server  1.9.0  Oxc JavaScript linter language server  https://oxc.rs/ 
- oxlint  1.9.0  Oxc JavaScript linter  https://oxc.rs/ 
+ oxc-language-server  1.10.0  Oxc JavaScript linter language server  https://oxc.rs/ 
+ oxlint  1.10.0  Oxc JavaScript linter  https://oxc.rs/ 
  p11-kit  0.25.5  Provides a way to load and enumerate PKCS#11 modules  https://p11-glue.github.io/p11-glue/p11-kit.html 
  p7zip  17.06  Command-line version of the 7zip compressed file archiver  https://github.com/p7zip-project/p7zip 
  pacman  7.0.0-3  A library-based package manager with dependency support  https://archlinux.org/pacman/ 
