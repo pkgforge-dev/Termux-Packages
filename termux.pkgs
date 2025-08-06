@@ -432,7 +432,7 @@
 | **exercism** | 3.5.7 | A Go based command line tool for exercism.io | https://github.com/exercism/cli/ |
 | **exfatprogs** | 1.2.9 | exFAT filesystem userspace utilities | https://github.com/exfatprogs/exfatprogs |
 | **exhale** | 1.2.1.2 | Open source xHE-AAC encoder | https://gitlab.com/ecodis/exhale |
-| **exiftool** | 13.33 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
+| **exiftool** | 13.33-1 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
 | **exiv2** | 2:0.28.5 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **expect** | 5.45.4-3 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
 | **eza** | 0.23.0 | A modern replacement for ls | https://github.com/eza-community/eza |
@@ -750,7 +750,7 @@
 | **ipv6toolkit** | 2022.09.30-2 | SI6 Networks IPv6 Toolkit | https://www.si6networks.com/research/tools/ipv6toolkit/ |
 | **ircd-irc2** | 2.11.2p3-1 | An Internet Relay Chat (IRC) daemon | http://www.irc.org/ |
 | **ired** | 0.6-2 | Minimalist hexadecimal editor | https://github.com/radare/ired |
-| **irssi** | 1.4.5-2 | Terminal based IRC client | https://irssi.org/ |
+| **irssi** | 1.4.5-3 | Terminal based IRC client | https://irssi.org/ |
 | **isync** | 1.5.1 | IMAP and MailDir mailbox synchronizer | http://isync.sourceforge.net |
 | **iverilog** | 12.0 | Icarus Verilog compiler and simulation tool | http://iverilog.icarus.com/ |
 | **iverilog-static** | 12.0 | Static libraries for iverilog | http://iverilog.icarus.com/ |
@@ -807,7 +807,7 @@
 | **knot-utils** | 3.2.4-1 | Knot DNS utilities | https://www.knot-dns.cz/ |
 | **kona** | 20211225 | Open-source implementation of the APL-like K programming language | https://github.com/kevinlawler/kona |
 | **kotlin** | 2.2.0-1 | The Kotlin Programming Language | https://kotlinlang.org/ |
-| **krb5** | 1.21.3 | The Kerberos network authentication system | https://web.mit.edu/kerberos |
+| **krb5** | 1.22 | The Kerberos network authentication system | https://web.mit.edu/kerberos |
 | **kubecolor** | 0.5.1 | Colorize your kubectl output | https://github.com/kubecolor/kubecolor |
 | **kubectl** | 1.33.3 | Kubernetes.io client binary | https://kubernetes.io/ |
 | **kubelogin** | 1.34.0 | A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication | https://github.com/int128/kubelogin |
@@ -866,7 +866,7 @@
 | **libao-static** | 1.2.2-7 | Static libraries for libao | https://www.xiph.org/ao/ |
 | **libaom** | 3.12.1 | AV1 Video Codec Library | https://aomedia.org/ |
 | **libaom-static** | 3.12.1 | Static libraries for libaom | https://aomedia.org/ |
-| **libapt-pkg-perl** | 0.1.40-10 | Perl interface to APT's libapt-pkg | https://packages.debian.org/libapt-pkg-perl |
+| **libapt-pkg-perl** | 0.1.40-11 | Perl interface to APT's libapt-pkg | https://packages.debian.org/libapt-pkg-perl |
 | **libarchive** | 3.8.1 | Multi-format archive and compression library | https://www.libarchive.org/ |
 | **libarchive-static** | 3.8.1 | Static libraries for libarchive | https://www.libarchive.org/ |
 | **libarrow-cpp** | 21.0.0 | C++ libraries for Apache Arrow | https://github.com/apache/arrow |
@@ -1299,7 +1299,7 @@
 | **libraw** | 0.21.4 | Library for reading RAW files from digital cameras | https://www.libraw.org/ |
 | **libraw-static** | 0.21.4 | Static libraries for libraw | https://www.libraw.org/ |
 | **libre2** | 2025-08-05-0 | A regular expression library | https://github.com/google/re2 |
-| **libregexp-assemble-perl** | 0.38-6 | Perl module to merge several regular expressions | https://metacpan.org/pod/Regexp::Assemble |
+| **libregexp-assemble-perl** | 0.38-7 | Perl module to merge several regular expressions | https://metacpan.org/pod/Regexp::Assemble |
 | **libresolv-wrapper** | 1.1.7-4 | A wrapper for DNS name resolving or DNS faking | https://cwrap.org/resolv_wrapper.html |
 | **libretls** | 3.8.1 | libtls for OpenSSL | https://git.causal.agency/libretls/about/ |
 | **libretls-static** | 3.8.1 | Static libraries for libretls | https://git.causal.agency/libretls/about/ |
@@ -1919,7 +1919,7 @@
 | **pdftk** | 3.3.3-3 | A simple tool for doing everyday things with PDF documents | https://gitlab.com/pdftk-java/pdftk |
 | **peaclock** | 0.4.3-7 | A responsive and customizable clock, timer, and stopwatch for the terminal. | https://github.com/octobanana/peaclock |
 | **peco** | 0.5.11-2 | Simplistic interactive filtering tool | https://github.com/peco/peco |
-| **perl** | 5.38.2-3 | Capable, feature-rich programming language | https://www.perl.org/ |
+| **perl** | 5.40.3 | Capable, feature-rich programming language | https://www.perl.org/ |
 | **perl-rename** | 1.14 | renames multiple files using perl expressions. | https://search.cpan.org/~pederst/rename/ |
 | **pet** | 1.0.1 | Simple command-line snippet manager | https://github.com/knqyf263/pet |
 | **pforth** | 1:2.0.1 | Portable Forth in C | http://www.softsynth.com/pforth/ |
@@ -2322,10 +2322,10 @@
 | **stuntman** | 1.2.16-5 | An open source STUN server | https://www.stunprotocol.org/ |
 | **stylua** | 2.1.0 | An opinionated Lua code formatter | https://github.com/JohnnyMorganz/StyLua |
 | **subtitleripper** | 0.3.4 | DVD subtitle ripper for Linux | http://subtitleripper.sourceforge.net/ |
-| **subversion** | 1.14.5 | Centralized version control system characterized by its simplicity | https://subversion.apache.org |
-| **subversion-perl** | 1.14.5 | Perl interface to Subversion | https://subversion.apache.org |
-| **subversion-perl-static** | 1.14.5 | Static libraries for subversion-perl | https://subversion.apache.org |
-| **subversion-static** | 1.14.5 | Static libraries for subversion | https://subversion.apache.org |
+| **subversion** | 1.14.5-1 | Centralized version control system characterized by its simplicity | https://subversion.apache.org |
+| **subversion-perl** | 1.14.5-1 | Perl interface to Subversion | https://subversion.apache.org |
+| **subversion-perl-static** | 1.14.5-1 | Static libraries for subversion-perl | https://subversion.apache.org |
+| **subversion-static** | 1.14.5-1 | Static libraries for subversion | https://subversion.apache.org |
 | **sudo** | 1.2.0 | A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument as the root (superuser) user in the Termux app | https://github.com/agnostic-apollo/sudo |
 | **suil** | 0.10.22 | A library for loading and wrapping LV2 plugin UIs | https://drobilla.net/software/suil.html |
 | **suite3270** | 4.1ga11-1 | A family of IBM 3270 terminal emulators and related tools | http://x3270.bgp.nu/ |

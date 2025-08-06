@@ -1735,7 +1735,7 @@
   Description: Open source xHE-AAC encoder
   Homepage: https://gitlab.com/ecodis/exhale
 - Package: exiftool
-  Version: "13.33"
+  Version: 13.33-1
   Description: Utility for reading, writing and editing meta information in a wide variety of files.
   Homepage: https://exiftool.org/
 - Package: exiv2
@@ -3007,7 +3007,7 @@
   Description: Minimalist hexadecimal editor
   Homepage: https://github.com/radare/ired
 - Package: irssi
-  Version: 1.4.5-2
+  Version: 1.4.5-3
   Description: Terminal based IRC client
   Homepage: https://irssi.org/
 - Package: isync
@@ -3235,7 +3235,7 @@
   Description: The Kotlin Programming Language
   Homepage: https://kotlinlang.org/
 - Package: krb5
-  Version: 1.21.3
+  Version: "1.22"
   Description: The Kerberos network authentication system
   Homepage: https://web.mit.edu/kerberos
 - Package: kubecolor
@@ -3471,7 +3471,7 @@
   Description: Static libraries for libaom
   Homepage: https://aomedia.org/
 - Package: libapt-pkg-perl
-  Version: 0.1.40-10
+  Version: 0.1.40-11
   Description: Perl interface to APTs libapt-pkg
   Homepage: https://packages.debian.org/libapt-pkg-perl
 - Package: libarchive
@@ -5203,7 +5203,7 @@
   Description: A regular expression library
   Homepage: https://github.com/google/re2
 - Package: libregexp-assemble-perl
-  Version: 0.38-6
+  Version: 0.38-7
   Description: Perl module to merge several regular expressions
   Homepage: https://metacpan.org/pod/Regexp::Assemble
 - Package: libresolv-wrapper
@@ -7683,7 +7683,7 @@
   Description: Simplistic interactive filtering tool
   Homepage: https://github.com/peco/peco
 - Package: perl
-  Version: 5.38.2-3
+  Version: 5.40.3
   Description: Capable, feature-rich programming language
   Homepage: https://www.perl.org/
 - Package: perl-rename
@@ -9295,19 +9295,19 @@
   Description: DVD subtitle ripper for Linux
   Homepage: http://subtitleripper.sourceforge.net/
 - Package: subversion
-  Version: 1.14.5
+  Version: 1.14.5-1
   Description: Centralized version control system characterized by its simplicity
   Homepage: https://subversion.apache.org
 - Package: subversion-perl
-  Version: 1.14.5
+  Version: 1.14.5-1
   Description: Perl interface to Subversion
   Homepage: https://subversion.apache.org
 - Package: subversion-perl-static
-  Version: 1.14.5
+  Version: 1.14.5-1
   Description: Static libraries for subversion-perl
   Homepage: https://subversion.apache.org
 - Package: subversion-static
-  Version: 1.14.5
+  Version: 1.14.5-1
   Description: Static libraries for subversion
   Homepage: https://subversion.apache.org
 - Package: sudo
