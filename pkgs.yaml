@@ -79,7 +79,7 @@
   Description: A pretty good email client
   Homepage: https://aerc-mail.org/
 - Package: agate
-  Version: 3.3.17
+  Version: 3.3.18
   Description: Very simple server for the Gemini hypertext protocol
   Homepage: https://github.com/mbrubeck/agate
 - Package: age
@@ -967,11 +967,11 @@
   Description: Experimental implementation of OpenCL on Vulkan
   Homepage: https://github.com/kpet/clvk
 - Package: cmake
-  Version: 4.0.3
+  Version: 4.1.0
   Description: Family of tools designed to build, test and package software
   Homepage: https://cmake.org/
 - Package: cmake-curses-gui
-  Version: 4.0.3
+  Version: 4.1.0
   Description: Curses based user interface for CMake (ccmake)
   Homepage: https://cmake.org/
 - Package: cmark
@@ -5199,7 +5199,7 @@
   Description: Static libraries for libraw
   Homepage: https://www.libraw.org/
 - Package: libre2
-  Version: 2025-07-22-0
+  Version: 2025-08-05-0
   Description: A regular expression library
   Homepage: https://github.com/google/re2
 - Package: libregexp-assemble-perl
@@ -6371,7 +6371,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.13.0
+  Version: 0.13.1
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://nvim-neorocks.github.io/
 - Package: lv2
@@ -7731,7 +7731,7 @@
   Description: Sodium module for PHP/Apache
   Homepage: https://php.net
 - Package: php-apcu
-  Version: 5.1.25
+  Version: 5.1.26
   Description: APCu - APC User Cache
   Homepage: http://php.net/apcu
 - Package: php-fpm
@@ -8107,7 +8107,7 @@
   Description: Python library for calculating contours in 2D quadrilateral grids
   Homepage: https://contourpy.readthedocs.io/
 - Package: python-cryptography
-  Version: 45.0.5
+  Version: 45.0.6
   Description: Provides cryptographic recipes and primitives to Python developers
   Homepage: https://github.com/pyca/cryptography
 - Package: python-ensurepip-wheels
@@ -9019,11 +9019,11 @@
   Description: Eat as much as you want while avoiding walls
   Homepage: https://github.com/gogakoreli/snake
 - Package: snapcast-client
-  Version: 0.32.1
+  Version: 0.32.2
   Description: A multiroom client-server audio player (client)
   Homepage: https://github.com/badaix/snapcast
 - Package: snapcast-server
-  Version: 0.32.1
+  Version: 0.32.2
   Description: A multiroom client-server audio player (server)
   Homepage: https://github.com/badaix/snapcast
 - Package: snmptt
@@ -9475,7 +9475,7 @@
   Description: Telegram messenger CLI
   Homepage: https://github.com/vysheng/tg
 - Package: teleport-tsh
-  Version: 18.1.1
+  Version: 18.1.2
   Description: Secure Access for Developers that doesnt get in the way
   Homepage: https://github.com/gravitational/teleport
 - Package: tenki-php
@@ -10059,7 +10059,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.8.4
+  Version: 0.8.5
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi

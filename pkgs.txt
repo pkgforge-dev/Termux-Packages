@@ -18,7 +18,7 @@
  ada  3.2.7  WHATWG-compliant and fast URL parser written in modern C++  https://github.com/ada-url/ada 
  adms  2.3.7  A code generator for the Verilog-AMS language  https://github.com/qucs/adms 
  aerc  0.20.1  A pretty good email client  https://aerc-mail.org/ 
- agate  3.3.17  Very simple server for the Gemini hypertext protocol  https://github.com/mbrubeck/agate 
+ agate  3.3.18  Very simple server for the Gemini hypertext protocol  https://github.com/mbrubeck/agate 
  age  1:1.2.1  A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability  https://github.com/FiloSottile/age 
  agg  1.5.0  asciinema gif generator  https://github.com/asciinema/agg 
  aha  0.5.1-1  Converts ANSI escape sequences of a unix terminal to HTML code  https://github.com/theZiz/aha 
@@ -240,8 +240,8 @@
  cloudflared  2025.7.0  A tunneling daemon that proxies traffic from the Cloudflare network to your origins  https://github.com/cloudflare/cloudflared 
  clpeak  1.1.4  A tool which profiles OpenCL devices to find their peak capacities  https://github.com/krrishnarraj/clpeak 
  clvk  0.0.20250803.153553  Experimental implementation of OpenCL on Vulkan  https://github.com/kpet/clvk 
- cmake  4.0.3  Family of tools designed to build, test and package software  https://cmake.org/ 
- cmake-curses-gui  4.0.3  Curses based user interface for CMake (ccmake)  https://cmake.org/ 
+ cmake  4.1.0  Family of tools designed to build, test and package software  https://cmake.org/ 
+ cmake-curses-gui  4.1.0  Curses based user interface for CMake (ccmake)  https://cmake.org/ 
  cmark  0.31.1  CommonMark parsing and rendering program  https://github.com/commonmark/cmark 
  cmark-static  0.31.1  Static libraries for cmark  https://github.com/commonmark/cmark 
  cmatrix  2.0  Command producing a Matrix-style animation  https://github.com/abishekvashok/cmatrix 
@@ -1298,7 +1298,7 @@
  librav1e-static  0.7.1-3  Static libraries for librav1e  https://github.com/xiph/rav1e/ 
  libraw  0.21.4  Library for reading RAW files from digital cameras  https://www.libraw.org/ 
  libraw-static  0.21.4  Static libraries for libraw  https://www.libraw.org/ 
- libre2  2025-07-22-0  A regular expression library  https://github.com/google/re2 
+ libre2  2025-08-05-0  A regular expression library  https://github.com/google/re2 
  libregexp-assemble-perl  0.38-6  Perl module to merge several regular expressions  https://metacpan.org/pod/Regexp::Assemble 
  libresolv-wrapper  1.1.7-4  A wrapper for DNS name resolving or DNS faking  https://cwrap.org/resolv_wrapper.html 
  libretls  3.8.1  libtls for OpenSSL  https://git.causal.agency/libretls/about/ 
@@ -1591,7 +1591,7 @@
  luvi  1:2.15.0  A project in-between luv and luvit  https://luvit.io 
  luvit  2.18.1-1  Asynchronous I/O for Lua  https://luvit.io 
  lux  0.24.1-1  CLI tool to download videos from various websites  https://github.com/iawia002/lux 
- lux-cli  0.13.0  A package manager for Lua, similar to luarocks  https://nvim-neorocks.github.io/ 
+ lux-cli  0.13.1  A package manager for Lua, similar to luarocks  https://nvim-neorocks.github.io/ 
  lv2  1.18.10-5  A plugin standard for audio systems  https://lv2plug.in/ 
  lychee  0.19.1  A fast, async, resource-friendly link checker written in Rust  https://github.com/lycheeverse/lychee 
  lynx  2.9.2  The text web browser  http://lynx.browser.org/ 
@@ -1931,7 +1931,7 @@
  php-apache-opcache  8.4.2-2  OPcache module for PHP/Apache  https://php.net 
  php-apache-pgsql  8.4.2-2  PostgreSQL modules for PHP/Apache  https://php.net 
  php-apache-sodium  8.4.2-2  Sodium module for PHP/Apache  https://php.net 
- php-apcu  5.1.25  APCu - APC User Cache  http://php.net/apcu 
+ php-apcu  5.1.26  APCu - APC User Cache  http://php.net/apcu 
  php-fpm  8.4.2-2  FastCGI Process Manager for PHP  https://php.net 
  php-gd  8.4.2-2  gd module for PHP  https://php.net 
  php-imagick  3.8.0  The Imagick PHP extension  https://github.com/Imagick/imagick 
@@ -2025,7 +2025,7 @@
  python-brotli  1.1.0-3  lossless compression algorithm and format (Python bindings)  https://github.com/google/brotli 
  python-cmake  4.0.3  Python wrapper for CMake  https://cmake-python-distributions.readthedocs.io/ 
  python-contourpy  1.3.3  Python library for calculating contours in 2D quadrilateral grids  https://contourpy.readthedocs.io/ 
- python-cryptography  45.0.5  Provides cryptographic recipes and primitives to Python developers  https://github.com/pyca/cryptography 
+ python-cryptography  45.0.6  Provides cryptographic recipes and primitives to Python developers  https://github.com/pyca/cryptography 
  python-ensurepip-wheels  3.12.11  Wheels for Python ensurepip  https://python.org/ 
  python-greenlet  3.2.3  Lightweight coroutines for in-process concurrent programming  https://github.com/python-greenlet/greenlet 
  python-grpcio  1.74.0  High performance, open source, general RPC framework that puts mobile and HTTP/2 first  https://grpc.io/ 
@@ -2253,8 +2253,8 @@
  smalltalk  3.2.91-14  A free implementation of the Smalltalk-80 language  http://smalltalk.gnu.org/ 
  smalltalk-static  3.2.91-14  Static libraries for smalltalk  http://smalltalk.gnu.org/ 
  snake  2022.11.07  Eat as much as you want while avoiding walls  https://github.com/gogakoreli/snake 
- snapcast-client  0.32.1  A multiroom client-server audio player (client)  https://github.com/badaix/snapcast 
- snapcast-server  0.32.1  A multiroom client-server audio player (server)  https://github.com/badaix/snapcast 
+ snapcast-client  0.32.2  A multiroom client-server audio player (client)  https://github.com/badaix/snapcast 
+ snapcast-server  0.32.2  A multiroom client-server audio player (server)  https://github.com/badaix/snapcast 
  snmptt  1.5  SNMP trap translator  http://www.snmptt.org/ 
  snowflake  2.11.0  Pluggable Transport using WebRTC, inspired by Flashproxy  https://snowflake.torproject.org/ 
  snowflake-client  2.11.0  Pluggable Transport using WebRTC, inspired by Flashproxy (Client)  https://snowflake.torproject.org/ 
@@ -2367,7 +2367,7 @@
  tectonic  0.15.0-4  A modernized, complete, self-contained TeX/LaTeX engine  https://tectonic-typesetting.github.io/ 
  telegram-bot-api  20241031-1  Telegram Bot API server  https://github.com/tdlib/telegram-bot-api 
  telegram-cli  1:1.4.1-7  Telegram messenger CLI  https://github.com/vysheng/tg 
- teleport-tsh  18.1.1  Secure Access for Developers that doesn't get in the way  https://github.com/gravitational/teleport 
+ teleport-tsh  18.1.2  Secure Access for Developers that doesn't get in the way  https://github.com/gravitational/teleport 
  tenki-php  2022.05.26  A simple PHP application for logging current weather conditions, notes, and waypoints  https://github.com/dmpop/tenki 
  tere  1.6.0  Terminal file explorer written in rust  https://github.com/mgunyho/tere 
  tergent  1.0.0-4  A cryptoki/PKCS#11 library for Termux that uses Android Keystore as its backend  https://github.com/aeolwyr/tergent 
@@ -2513,7 +2513,7 @@
  util-linux-static  2.40.2-4  Static libraries for util-linux  https://en.wikipedia.org/wiki/Util-linux 
  uucp  1.07-1  The standard UUCP package of the Free Software Foundation  https://www.airs.com/ian/uucp.html 
  uuid-utils  2.40.2-4  Utilities for handling universally unique identifiers  https://en.wikipedia.org/wiki/Util-linux 
- uv  0.8.4  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
+ uv  0.8.5  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
  uwsgi  2.0.30  uWSGI application server container  https://projects.unbit.it/uwsgi 
  v2ray  5.37.0  A platform for building proxies to bypass network restrictions  https://www.v2fly.org/ 
  valac  0.56.18  C# like language for the GObject system  https://wiki.gnome.org/Projects/Vala 
