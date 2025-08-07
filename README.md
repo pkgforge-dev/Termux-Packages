@@ -385,9 +385,9 @@
 | **dotnet9.0** | 9.0.7 | .NET 9.0 | https://dotnet.microsoft.com/en-us/ |
 | **double-conversion** | 3.3.1 | Binary-decimal and decimal-binary routines for IEEE doubles | https://github.com/google/double-conversion |
 | **doxygen** | 1.14.0 | A documentation system for C++, C, Java, IDL and PHP | http://www.doxygen.org |
-| **dpkg** | 1.22.6-3 | Debian package management system | https://packages.debian.org/dpkg |
-| **dpkg-perl** | 1.22.6-3 | Perl modules for dpkg | https://packages.debian.org/dpkg |
-| **dpkg-scanpackages** | 1.22.6-3 | Creates Packages index files | https://packages.debian.org/dpkg |
+| **dpkg** | 1.22.6-4 | Debian package management system | https://packages.debian.org/dpkg |
+| **dpkg-perl** | 1.22.6-4 | Perl modules for dpkg | https://packages.debian.org/dpkg |
+| **dpkg-scanpackages** | 1.22.6-4 | Creates Packages index files | https://packages.debian.org/dpkg |
 | **draco** | 1.5.7 | Library for compressing and decompressing 3D geometric meshes and point clouds | https://google.github.io/draco/ |
 | **draco-static** | 1.5.7 | Static libraries for draco | https://google.github.io/draco/ |
 | **dropbear** | 2025.87-1 | Small SSH server and client | https://matt.ucc.asn.au/dropbear/dropbear.html |
@@ -641,7 +641,7 @@
 | **gpgv** | 2.5.5 | GNU privacy guard - signature verification tool | https://www.gnupg.org/ |
 | **gping** | 1.19.0 | Ping, but with a graph | https://github.com/orf/gping |
 | **gpsbabel** | 1.4.4-2 | GPS file conversion plus transfer to/from GPS units | https://www.gpsbabel.org/ |
-| **gradle** | 1:8.14.3-1 | Powerful build system for the JVM | https://gradle.org/ |
+| **gradle** | 1:9.0.0-1 | Powerful build system for the JVM | https://gradle.org/ |
 | **grafana** | 1:11.6.0 | The open-source platform for monitoring and observability | https://grafana.com/ |
 | **graphene** | 1.10.8-1 | A thin layer of graphic data types | https://ebassi.github.io/graphene/ |
 | **graphicsmagick** | 1.3.45-3 | Collection of image processing tools | http://www.graphicsmagick.org/ |
@@ -2407,7 +2407,7 @@
 | **termux-tools** | 1.46.0+really1.45.0 | Basic system tools for Termux | https://termux.dev/ |
 | **teseq** | 1.1.1-1 | Tool for analyzing control characters and terminal control sequences | https://www.gnu.org/software/teseq/ |
 | **tesseract** | 5.5.1 | Tesseract is probably the most accurate open source OCR engine available | https://github.com/tesseract-ocr/tesseract |
-| **testssl.sh** | 3.0.9 | Testing TLS/SSL encryption anywhere on any port. | https://testssl.sh/ |
+| **testssl.sh** | 3.2.1 | Testing TLS/SSL encryption anywhere on any port. | https://testssl.sh/ |
 | **tex-gyre** | 2.501-1 | The TeX Gyre (TG) Collection of Fonts | https://www.gust.org.pl/projects/e-foundry/tex-gyre/ |
 | **texinfo** | 7.2-2 | Documentation system for on-line information and printed output | https://www.gnu.org/software/texinfo/ |
 | **texlab** | 5.23.1 | A cross-platform implementation of the Language Server Protocol providing rich cross-editing support for the LaTeX typesetting system | https://texlab.netlify.app/ |

@@ -1499,15 +1499,15 @@
   Description: A documentation system for C++, C, Java, IDL and PHP
   Homepage: http://www.doxygen.org
 - Package: dpkg
-  Version: 1.22.6-3
+  Version: 1.22.6-4
   Description: Debian package management system
   Homepage: https://packages.debian.org/dpkg
 - Package: dpkg-perl
-  Version: 1.22.6-3
+  Version: 1.22.6-4
   Description: Perl modules for dpkg
   Homepage: https://packages.debian.org/dpkg
 - Package: dpkg-scanpackages
-  Version: 1.22.6-3
+  Version: 1.22.6-4
   Description: Creates Packages index files
   Homepage: https://packages.debian.org/dpkg
 - Package: draco
@@ -2523,7 +2523,7 @@
   Description: GPS file conversion plus transfer to/from GPS units
   Homepage: https://www.gpsbabel.org/
 - Package: gradle
-  Version: 1:8.14.3-1
+  Version: 1:9.0.0-1
   Description: Powerful build system for the JVM
   Homepage: https://gradle.org/
 - Package: grafana
@@ -9587,7 +9587,7 @@
   Description: Tesseract is probably the most accurate open source OCR engine available
   Homepage: https://github.com/tesseract-ocr/tesseract
 - Package: testssl.sh
-  Version: 3.0.9
+  Version: 3.2.1
   Description: Testing TLS/SSL encryption anywhere on any port.
   Homepage: https://testssl.sh/
 - Package: tex-gyre
