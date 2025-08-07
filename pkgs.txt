@@ -600,7 +600,7 @@
  gnustep-make  2.9.3  The GNUstep makefile package  https://www.gnustep.org 
  gnutls  3.8.9  Commandline utilities for interfacing with the gnutls library  https://www.gnutls.org/ 
  go-findimagedupes  2023.01.29-3  Find visually similar or duplicate images  https://gitlab.com/opennota/findimagedupes 
- go-musicfox  4.6.3  A netease music player in terminal.  https://github.com/go-musicfox/go-musicfox 
+ go-musicfox  4.6.4  A netease music player in terminal.  https://github.com/go-musicfox/go-musicfox 
  goaccess  1.9.4  An open source real-time web log analyzer and interactive viewer  https://goaccess.io 
  gobang  0.1.0-alpha.5-3  A cross-platform TUI database management tool written in Rust  https://github.com/TaKO8Ki/gobang 
  gobject-introspection  1.84.0  Uniform machine readable API  https://gi.readthedocs.io/ 
@@ -1510,7 +1510,7 @@
  libxml2-python-static  2.14.5  Static libraries for libxml2-python  http://www.xmlsoft.org 
  libxml2-static  2.14.5  Static libraries for libxml2  http://www.xmlsoft.org 
  libxml2-utils  2.14.5  XML utilities  http://www.xmlsoft.org 
- libxmlb  0.3.22  Library to help create and query binary XML blobs  https://github.com/hughsie/libxmlb 
+ libxmlb  0.3.23  Library to help create and query binary XML blobs  https://github.com/hughsie/libxmlb 
  libxmlrpc  1.60.05  XML-RPC for C and C++  https://xmlrpc-c.sourceforge.io/ 
  libxmlrpc-static  1.60.05  Static libraries for libxmlrpc  https://xmlrpc-c.sourceforge.io/ 
  libxrandr  1.5.4  X11 RandR extension library  https://xorg.freedesktop.org/ 
@@ -1874,8 +1874,8 @@
  ossp-uuid  1.6.2-3  ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122.  http://www.ossp.org/pkg/lib/uuid/ 
  ossp-uuid-static  1.6.2-3  Static libraries for ossp-uuid  http://www.ossp.org/pkg/lib/uuid/ 
  ovmf  20231122-16.fc40-0  Open Virtual Machine Firmware  https://www.tianocore.org/ 
- oxc-language-server  1.10.0  Oxc JavaScript linter language server  https://oxc.rs/ 
- oxlint  1.10.0  Oxc JavaScript linter  https://oxc.rs/ 
+ oxc-language-server  1.11.0  Oxc JavaScript linter language server  https://oxc.rs/ 
+ oxlint  1.11.0  Oxc JavaScript linter  https://oxc.rs/ 
  p11-kit  0.25.5  Provides a way to load and enumerate PKCS#11 modules  https://p11-glue.github.io/p11-glue/p11-kit.html 
  p7zip  17.06  Command-line version of the 7zip compressed file archiver  https://github.com/p7zip-project/p7zip 
  pacman  7.0.0-3  A library-based package manager with dependency support  https://archlinux.org/pacman/ 
@@ -2027,7 +2027,7 @@
  python-contourpy  1.3.3  Python library for calculating contours in 2D quadrilateral grids  https://contourpy.readthedocs.io/ 
  python-cryptography  45.0.6  Provides cryptographic recipes and primitives to Python developers  https://github.com/pyca/cryptography 
  python-ensurepip-wheels  3.12.11  Wheels for Python ensurepip  https://python.org/ 
- python-greenlet  3.2.3  Lightweight coroutines for in-process concurrent programming  https://github.com/python-greenlet/greenlet 
+ python-greenlet  3.2.4  Lightweight coroutines for in-process concurrent programming  https://github.com/python-greenlet/greenlet 
  python-grpcio  1.74.1  High performance, open source, general RPC framework that puts mobile and HTTP/2 first  https://grpc.io/ 
  python-lameenc  1.8.1  Python bindings around the LAME encoder  https://github.com/chrisstaite/lameenc 
  python-libsass  0.23.0  A straightforward binding of libsass for Python  https://github.com/sass/libsass-python 
