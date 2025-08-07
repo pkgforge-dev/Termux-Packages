@@ -231,7 +231,7 @@
 | **chafa-static** | 1.16.2 | Static libraries for chafa | https://hpjansson.org/chafa/ |
 | **check** | 0.15.2-2 | A unit testing framework for C | https://libcheck.github.io/check |
 | **check-static** | 0.15.2-2 | Static libraries for check | https://libcheck.github.io/check |
-| **chezmoi** | 2.63.1 | Manage your dotfiles across multiple machines | https://chezmoi.io |
+| **chezmoi** | 2.64.0 | Manage your dotfiles across multiple machines | https://chezmoi.io |
 | **chicken** | 5.4.0-1 | A feature rich Scheme compiler and interpreter | https://www.call-cc.org |
 | **chicken-static** | 5.4.0-1 | Static libraries for chicken | https://www.call-cc.org |
 | **choose** | 1.3.6 | A human-friendly and fast alternative to cut and (sometimes) awk | https://github.com/theryangeary/choose |
@@ -1216,8 +1216,8 @@
 | **libnfc** | 1.8.0-1 | Free/Libre Near Field Communication (NFC) library | https://github.com/nfc-tools/libnfc |
 | **libnfc-static** | 1.8.0-1 | Static libraries for libnfc | https://github.com/nfc-tools/libnfc |
 | **libnfs** | 6.0.2 | NFS client library | https://github.com/sahlberg/libnfs |
-| **libnftnl** | 1.2.9 | Netfilter library providing interface to the nf_tables subsystem | https://www.netfilter.org/projects/libnftnl/ |
-| **libnftnl-static** | 1.2.9 | Static libraries for libnftnl | https://www.netfilter.org/projects/libnftnl/ |
+| **libnftnl** | 1.3.0 | Netfilter library providing interface to the nf_tables subsystem | https://www.netfilter.org/projects/libnftnl/ |
+| **libnftnl-static** | 1.3.0 | Static libraries for libnftnl | https://www.netfilter.org/projects/libnftnl/ |
 | **libnghttp2** | 1.66.0 | nghttp HTTP 2.0 library | https://nghttp2.org/ |
 | **libnghttp2-static** | 1.66.0 | Static libraries for libnghttp2 | https://nghttp2.org/ |
 | **libnghttp3** | 1.11.0 | HTTP/3 library written in C | https://nghttp2.org/nghttp3/ |

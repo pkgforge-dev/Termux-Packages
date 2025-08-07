@@ -883,7 +883,7 @@
   Description: Static libraries for check
   Homepage: https://libcheck.github.io/check
 - Package: chezmoi
-  Version: 2.63.1
+  Version: 2.64.0
   Description: Manage your dotfiles across multiple machines
   Homepage: https://chezmoi.io
 - Package: chicken
@@ -4823,11 +4823,11 @@
   Description: NFS client library
   Homepage: https://github.com/sahlberg/libnfs
 - Package: libnftnl
-  Version: 1.2.9
+  Version: 1.3.0
   Description: Netfilter library providing interface to the nf_tables subsystem
   Homepage: https://www.netfilter.org/projects/libnftnl/
 - Package: libnftnl-static
-  Version: 1.2.9
+  Version: 1.3.0
   Description: Static libraries for libnftnl
   Homepage: https://www.netfilter.org/projects/libnftnl/
 - Package: libnghttp2
