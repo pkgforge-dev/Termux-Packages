@@ -111,7 +111,7 @@
   Description: A framework for sharing scene data that includes a C++ lib, a file format and client plugin
   Homepage: https://alembic.io
 - Package: algernon
-  Version: 1.17.3
+  Version: 1.17.4
   Description: Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support
   Homepage: https://algernon.roboticoverlords.org/
 - Package: alpine
@@ -583,7 +583,7 @@
   Description: Tiny x86-64 Linux emulator
   Homepage: https://justine.lol/blinkenlights/
 - Package: blk-utils
-  Version: 2.40.2-4
+  Version: 2.40.2-5
   Description: Utilities for handling block device attributes
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: blogc
@@ -1803,7 +1803,7 @@
   Description: Simple, fast and user-friendly alternative to find
   Homepage: https://github.com/sharkdp/fd
 - Package: fdisk
-  Version: 2.40.2-4
+  Version: 2.40.2-5
   Description: Utilities to manipulate disk partition tables
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: fdkaac
@@ -3527,7 +3527,7 @@
   Description: A lightweight cryptography API for Java
   Homepage: https://www.bouncycastle.org/java.html
 - Package: libblkid
-  Version: 2.40.2-4
+  Version: 2.40.2-5
   Description: Block device identification library
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: libblocksruntime
@@ -3955,7 +3955,7 @@
   Description: Static libraries for libev
   Homepage: http://software.schmorp.de/pkg/libev.html
 - Package: libevent
-  Version: 2.1.12-2
+  Version: 2.1.12-3
   Description: Library that provides asynchronous event notification
   Homepage: https://libevent.org/
 - Package: libexif
@@ -3983,7 +3983,7 @@
   Description: Flexible collision library
   Homepage: https://github.com/flexible-collision-library/fcl
 - Package: libfdisk
-  Version: 2.40.2-4
+  Version: 2.40.2-5
   Description: Library for manipulating disk partition tables
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: libfdk-aac
@@ -4683,7 +4683,7 @@
   Description: MQTT library
   Homepage: https://mosquitto.org/
 - Package: libmount
-  Version: 2.40.2-4
+  Version: 2.40.2-5
   Description: Library for (un)mounting filesystems
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: libmp3lame
@@ -5359,7 +5359,7 @@
   Description: X11 Session Management library
   Homepage: https://xorg.freedesktop.org/
 - Package: libsmartcols
-  Version: 2.40.2-4
+  Version: 2.40.2-5
   Description: Library for smart adaptive formatting of tabular data
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: libsnappy
@@ -5463,15 +5463,15 @@
   Description: Static libraries for libspice-server
   Homepage: https://www.spice-space.org/
 - Package: libsqlite
-  Version: 3.50.4
+  Version: 3.50.4-1
   Description: Library implementing a self-contained and transactional SQL database engine
   Homepage: https://www.sqlite.org
 - Package: libsqlite-static
-  Version: 3.50.4
+  Version: 3.50.4-1
   Description: Static libraries for libsqlite
   Homepage: https://www.sqlite.org
 - Package: libsqlite-tcl
-  Version: 3.50.4
+  Version: 3.50.4-1
   Description: tcl bindings for SQLite
   Homepage: https://www.sqlite.org
 - Package: libsrt
@@ -5767,7 +5767,7 @@
   Description: network protocol for sending USB device traffic over a network connection
   Homepage: https://www.spice-space.org/
 - Package: libuuid
-  Version: 2.40.2-4
+  Version: 2.40.2-5
   Description: Library for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: libuv
@@ -6811,7 +6811,7 @@
   Description: A terminal pager similar to more and less
   Homepage: http://www.jedsoft.org/most/index.html
 - Package: mount-utils
-  Version: 2.40.2-4
+  Version: 2.40.2-5
   Description: Utilities for (un)mounting filesystems
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: mp3cat
@@ -8175,7 +8175,7 @@
   Description: Python client for Neovim
   Homepage: https://github.com/neovim/pynvim
 - Package: python-ruff
-  Version: 0.12.7
+  Version: 0.12.8
   Description: An extremely fast Python linter, written in Rust (Python bindings)
   Homepage: https://github.com/charliermarsh/ruff
 - Package: python-sabyenc3
@@ -8679,7 +8679,7 @@
   Description: Ruby documentation index
   Homepage: https://www.ruby-lang.org/
 - Package: ruff
-  Version: 0.12.7
+  Version: 0.12.8
   Description: An extremely fast Python linter, written in Rust
   Homepage: https://github.com/charliermarsh/ruff
 - Package: runit
@@ -9139,7 +9139,7 @@
   Description: Static libraries for sqlcipher
   Homepage: https://github.com/sqlcipher/sqlcipher
 - Package: sqlite
-  Version: 3.50.4
+  Version: 3.50.4-1
   Description: Command line shell for SQLite
   Homepage: https://www.sqlite.org
 - Package: squashfs-tools-ng
@@ -10043,11 +10043,11 @@
   Description: C preprocessor implementations of a hash table and a linked list
   Homepage: https://troydhanson.github.io/uthash/
 - Package: util-linux
-  Version: 2.40.2-4
+  Version: 2.40.2-5
   Description: Miscellaneous system utilities
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: util-linux-static
-  Version: 2.40.2-4
+  Version: 2.40.2-5
   Description: Static libraries for util-linux
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uucp
@@ -10055,7 +10055,7 @@
   Description: The standard UUCP package of the Free Software Foundation
   Homepage: https://www.airs.com/ian/uucp.html
 - Package: uuid-utils
-  Version: 2.40.2-4
+  Version: 2.40.2-5
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
@@ -10411,7 +10411,7 @@
   Description: Modern HTTP benchmarking tool
   Homepage: https://github.com/wg/wrk
 - Package: wtfutil
-  Version: 0.45.0
+  Version: 0.46.0
   Description: The personal information dashboard for your terminal
   Homepage: https://wtfutil.com/
 - Package: wuzz
@@ -10663,7 +10663,7 @@
   Description: Programmable file compressor, library and utilities. Based on the PAQ compression algorithm
   Homepage: http://mattmahoney.net/dc/zpaq.html
 - Package: zrok
-  Version: 1.0.8
+  Version: 1.1.0
   Description: An open source sharing solution built on OpenZiti.
   Homepage: https://zrok.io/
 - Package: zsh
