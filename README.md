@@ -662,7 +662,7 @@
 | **gst-libav** | 1.26.4 | GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code | https://gstreamer.freedesktop.org/modules/gst-libav.html |
 | **gst-plugins-bad** | 1.26.5 | GStreamer Bad Plug-ins | https://gstreamer.freedesktop.org/ |
 | **gst-plugins-base** | 1.26.5 | GStreamer base plug-ins | https://gstreamer.freedesktop.org/ |
-| **gst-plugins-good** | 1.26.4-1 | GStreamer Good Plug-ins | https://gstreamer.freedesktop.org/ |
+| **gst-plugins-good** | 1.26.5 | GStreamer Good Plug-ins | https://gstreamer.freedesktop.org/ |
 | **gst-plugins-ugly** | 1.26.5 | GStreamer Ugly Plug-ins | https://gstreamer.freedesktop.org/ |
 | **gst-python** | 1.26.4 | Python bindings for GStreamer | https://gstreamer.freedesktop.org/ |
 | **gstreamer** | 1.26.5 | Open source multimedia framework | https://gstreamer.freedesktop.org/ |
@@ -1401,7 +1401,7 @@
 | **libtbb** | 2022.2.0-1 | oneAPI Threading Building Blocks | https://oneapi-src.github.io/oneTBB/ |
 | **libtd** | 1.8.50 | Library for building Telegram clients | https://core.telegram.org/tdlib/ |
 | **libtd-static** | 1.8.50 | Static libraries for libtd | https://core.telegram.org/tdlib/ |
-| **libtdb** | 1.4.13 | A trivial database system | https://tdb.samba.org/ |
+| **libtdb** | 1.4.14 | A trivial database system | https://tdb.samba.org/ |
 | **libtermkey** | 0.22-3 | Library for processing of keyboard entry for terminal-based programs | http://www.leonerd.org.uk/code/libtermkey/ |
 | **libtheora** | 1.2.0 | An open video codec developed by the Xiph.org | https://www.theora.org/ |
 | **libtheora-static** | 1.2.0 | Static libraries for libtheora | https://www.theora.org/ |
@@ -2370,7 +2370,7 @@
 | **tcl** | 8.6.14 | Powerful but easy to learn dynamic programming language | https://www.tcl.tk/ |
 | **tcllib** | 2.0 | Tcl Standard Library | https://core.tcl-lang.org/tcllib/ |
 | **tcsh** | 6.24.16 | TENEX C Shell, an enhanced version of Berkeley csh | https://www.tcsh.org |
-| **tdb-tools** | 1.4.13 | Tools for TDB | https://tdb.samba.org/ |
+| **tdb-tools** | 1.4.14 | Tools for TDB | https://tdb.samba.org/ |
 | **tdl** | 0.19.1 | Telegram downloader/tools written in Golang | https://docs.iyear.me/tdl/ |
 | **tea** | 0.10.1 | The official CLI for Gitea | https://gitea.com/gitea/tea |
 | **tealdeer** | 1.7.2 | A very fast implementation of tldr in Rust | https://dbrgn.github.io/tealdeer/ |

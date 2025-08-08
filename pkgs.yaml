@@ -2607,7 +2607,7 @@
   Description: GStreamer base plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-plugins-good
-  Version: 1.26.4-1
+  Version: 1.26.5
   Description: GStreamer Good Plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-plugins-ugly
@@ -5563,7 +5563,7 @@
   Description: Static libraries for libtd
   Homepage: https://core.telegram.org/tdlib/
 - Package: libtdb
-  Version: 1.4.13
+  Version: 1.4.14
   Description: A trivial database system
   Homepage: https://tdb.samba.org/
 - Package: libtermkey
@@ -9439,7 +9439,7 @@
   Description: TENEX C Shell, an enhanced version of Berkeley csh
   Homepage: https://www.tcsh.org
 - Package: tdb-tools
-  Version: 1.4.13
+  Version: 1.4.14
   Description: Tools for TDB
   Homepage: https://tdb.samba.org/
 - Package: tdl
