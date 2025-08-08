@@ -955,7 +955,7 @@
   Description: A cli tool to download specific GitHub directories or files
   Homepage: https://github.com/alok8bb/cloneit
 - Package: cloudflared
-  Version: 2025.7.0
+  Version: 2025.8.0
   Description: A tunneling daemon that proxies traffic from the Cloudflare network to your origins
   Homepage: https://github.com/cloudflare/cloudflared
 - Package: clpeak
@@ -2615,7 +2615,7 @@
   Description: GStreamer Ugly Plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-python
-  Version: 1.26.4
+  Version: 1.26.5
   Description: Python bindings for GStreamer
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gstreamer
@@ -9019,11 +9019,11 @@
   Description: Eat as much as you want while avoiding walls
   Homepage: https://github.com/gogakoreli/snake
 - Package: snapcast-client
-  Version: 0.32.2
+  Version: 0.32.3
   Description: A multiroom client-server audio player (client)
   Homepage: https://github.com/badaix/snapcast
 - Package: snapcast-server
-  Version: 0.32.2
+  Version: 0.32.3
   Description: A multiroom client-server audio player (server)
   Homepage: https://github.com/badaix/snapcast
 - Package: snmptt
@@ -10223,7 +10223,7 @@
   Description: Vulkan Extension Layer
   Homepage: https://github.com/KhronosGroup/Vulkan-ExtensionLayer
 - Package: vulkan-headers
-  Version: 1.4.324
+  Version: 1.4.325
   Description: Vulkan Header files and API registry
   Homepage: https://github.com/KhronosGroup/Vulkan-Headers
 - Package: vulkan-icd
@@ -10239,7 +10239,7 @@
   Description: Vulkan Loader for Android
   Homepage: https://source.android.com/devices/graphics/arch-vulkan
 - Package: vulkan-loader-generic
-  Version: 1.4.324
+  Version: 1.4.325
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
@@ -10247,7 +10247,7 @@
   Description: Vulkan Tools and Utilities
   Homepage: https://github.com/KhronosGroup/Vulkan-Tools
 - Package: vulkan-utility-libraries
-  Version: 1.4.324
+  Version: 1.4.325
   Description: Utility Libraries for Vulkan
   Homepage: https://github.com/KhronosGroup/Vulkan-Utility-Libraries
 - Package: vulkan-validation-layers

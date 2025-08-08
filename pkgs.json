@@ -1435,7 +1435,7 @@
   },
   {
     "Package": "cloudflared",
-    "Version": "2025.7.0",
+    "Version": "2025.8.0",
     "Description": "A tunneling daemon that proxies traffic from the Cloudflare network to your origins",
     "Homepage": "https://github.com/cloudflare/cloudflared"
   },
@@ -3925,7 +3925,7 @@
   },
   {
     "Package": "gst-python",
-    "Version": "1.26.4",
+    "Version": "1.26.5",
     "Description": "Python bindings for GStreamer",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
@@ -13531,13 +13531,13 @@
   },
   {
     "Package": "snapcast-client",
-    "Version": "0.32.2",
+    "Version": "0.32.3",
     "Description": "A multiroom client-server audio player (client)",
     "Homepage": "https://github.com/badaix/snapcast"
   },
   {
     "Package": "snapcast-server",
-    "Version": "0.32.2",
+    "Version": "0.32.3",
     "Description": "A multiroom client-server audio player (server)",
     "Homepage": "https://github.com/badaix/snapcast"
   },
@@ -15337,7 +15337,7 @@
   },
   {
     "Package": "vulkan-headers",
-    "Version": "1.4.324",
+    "Version": "1.4.325",
     "Description": "Vulkan Header files and API registry",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Headers"
   },
@@ -15361,7 +15361,7 @@
   },
   {
     "Package": "vulkan-loader-generic",
-    "Version": "1.4.324",
+    "Version": "1.4.325",
     "Description": "Vulkan Loader",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Loader"
   },
@@ -15373,7 +15373,7 @@
   },
   {
     "Package": "vulkan-utility-libraries",
-    "Version": "1.4.324",
+    "Version": "1.4.325",
     "Description": "Utility Libraries for Vulkan",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Utility-Libraries"
   },
