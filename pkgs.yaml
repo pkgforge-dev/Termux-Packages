@@ -2619,7 +2619,7 @@
   Description: Python bindings for GStreamer
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gstreamer
-  Version: 1.26.4
+  Version: 1.26.5
   Description: Open source multimedia framework
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gtypist
@@ -6451,11 +6451,11 @@
   Description: MapServer is CGI-based platform for publishing spatial data and interactive mapping applications to the web
   Homepage: https://mapserver.org/
 - Package: mariadb
-  Version: 2:11.8.2
+  Version: 2:11.8.3
   Description: A drop-in replacement for mysql server
   Homepage: https://mariadb.org
 - Package: mariadb-static
-  Version: 2:11.8.2
+  Version: 2:11.8.3
   Description: Static libraries for mariadb
   Homepage: https://mariadb.org
 - Package: marisa
@@ -10159,7 +10159,7 @@
   Description: VI Like Emacs - vi work-alike
   Homepage: https://invisible-island.net/vile/
 - Package: vim
-  Version: 9.1.1550
+  Version: 9.1.1602
   Description: Vi IMproved - enhanced vi editor
   Homepage: https://www.vim.org
 - Package: virglrenderer
@@ -10511,7 +10511,7 @@
   Description: Static libraries for xvidcore
   Homepage: https://www.xvid.com/
 - Package: xxd
-  Version: 9.1.1550
+  Version: 9.1.1602
   Description: Hexdump utility from vim
   Homepage: https://www.vim.org
 - Package: xxhash
