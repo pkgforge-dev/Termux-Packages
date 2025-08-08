@@ -35,11 +35,11 @@
   Description: Static libraries for aalib
   Homepage: https://sourceforge.net/projects/aa-project/
 - Package: aapt
-  Version: 13.0.0.6-18
+  Version: 13.0.0.6-19
   Description: Android Asset Packaging Tool
   Homepage: https://elinux.org/Android_aapt
 - Package: aapt2
-  Version: 13.0.0.6-18
+  Version: 13.0.0.6-19
   Description: AAPT2 (Android Asset Packaging Tool)
   Homepage: https://elinux.org/Android_aapt
 - Package: abduco
@@ -99,7 +99,7 @@
   Description: A powerful chatgpt cli
   Homepage: https://github.com/sigoden/aichat
 - Package: aidl
-  Version: 13.0.0.6-18
+  Version: 13.0.0.6-19
   Description: Android Interface Definition Language (AIDL)
   Homepage: https://elinux.org/Android_aapt
 - Package: alass
@@ -143,7 +143,7 @@
   Description: Aims to be the best looking Gemini client
   Homepage: https://github.com/makew0rld/amfora
 - Package: android-tools
-  Version: 35.0.2-2
+  Version: 35.0.2-3
   Description: Android platform tools
   Homepage: https://developer.android.com/
 - Package: anewer
@@ -2455,7 +2455,7 @@
   Description: Logging library for C++
   Homepage: https://github.com/google/glog
 - Package: googletest
-  Version: 1.15.2
+  Version: 1.17.0
   Description: Google C++ testing framework
   Homepage: https://github.com/google/googletest
 - Package: goose
@@ -2599,11 +2599,11 @@
   Description: GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code
   Homepage: https://gstreamer.freedesktop.org/modules/gst-libav.html
 - Package: gst-plugins-bad
-  Version: 1.26.4
+  Version: 1.26.5
   Description: GStreamer Bad Plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-plugins-base
-  Version: 1.26.4
+  Version: 1.26.5
   Description: GStreamer base plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-plugins-good
@@ -2611,7 +2611,7 @@
   Description: GStreamer Good Plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-plugins-ugly
-  Version: 1.26.4
+  Version: 1.26.5
   Description: GStreamer Ugly Plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-python
@@ -4415,7 +4415,7 @@
   Description: Programs for manipulating JPEG XL files
   Homepage: https://jpegxl.info/
 - Package: libkiwix
-  Version: 13.1.0-3
+  Version: 13.1.0-4
   Description: A library that contains a lot of things used by other kiwix programs
   Homepage: https://github.com/kiwix/libkiwix
 - Package: libknot
@@ -6131,7 +6131,7 @@
   Description: Static libraries for libzen
   Homepage: https://mediaarea.net/en/MediaInfo
 - Package: libzim
-  Version: 9.3.0
+  Version: 9.3.0-1
   Description: The ZIM library is the reference implementation for the ZIM file format.
   Homepage: https://openzim.org
 - Package: libzimg
@@ -6451,11 +6451,11 @@
   Description: MapServer is CGI-based platform for publishing spatial data and interactive mapping applications to the web
   Homepage: https://mapserver.org/
 - Package: mariadb
-  Version: 2:11.8.3
+  Version: 2:12.0.2
   Description: A drop-in replacement for mysql server
   Homepage: https://mariadb.org
 - Package: mariadb-static
-  Version: 2:11.8.3
+  Version: 2:12.0.2
   Description: Static libraries for mariadb
   Homepage: https://mariadb.org
 - Package: marisa
