@@ -406,10 +406,6 @@
   Version: 2024.10.16
   Description: A collection of freely re-usable Autoconf macros
   Homepage: https://www.gnu.org/software/autoconf-archive/
-- Package: autoconf213
-  Version: "2.13"
-  Description: Creator of shell scripts to configure source code packages (legacy v2.13)
-  Homepage: https://www.gnu.org/software/autoconf/autoconf.html
 - Package: autojump
   Version: 22.5.3-1
   Description: A faster way to navigate your filesystem
@@ -6746,10 +6742,6 @@
   Version: 0.26-5
   Description: Tool to find files anywhere in the filesystem based on their name
   Homepage: https://pagure.io/mlocate
-- Package: moar
-  Version: 1.33.0
-  Description: A pager designed to just do the right thing without any configuration
-  Homepage: https://github.com/walles/moar
 - Package: mold
   Version: 2.40.3
   Description: 'mold: A Modern Linker'

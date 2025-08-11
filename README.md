@@ -112,7 +112,6 @@
 | **aubio-static** | 0.4.9-4 | Static libraries for aubio | https://aubio.org/ |
 | **autoconf** | 2.72 | Creator of shell scripts to configure source code packages | https://www.gnu.org/software/autoconf/autoconf.html |
 | **autoconf-archive** | 2024.10.16 | A collection of freely re-usable Autoconf macros | https://www.gnu.org/software/autoconf-archive/ |
-| **autoconf213** | 2.13 | Creator of shell scripts to configure source code packages (legacy v2.13) | https://www.gnu.org/software/autoconf/autoconf.html |
 | **autojump** | 22.5.3-1 | A faster way to navigate your filesystem | https://github.com/wting/autojump |
 | **automake** | 1.17 | Tool for automatically generating Makefile.in files | https://www.gnu.org/software/automake/ |
 | **autossh** | 1.4g-3 | Automatically restart SSH sessions and tunnels | https://www.harding.motd.ca/autossh/ |
@@ -1697,7 +1696,6 @@
 | **mktorrent** | 1.1-p20210130-0 | command line utility to create BitTorrent metainfo files | https://github.com/Rudde/mktorrent |
 | **mlir** | 20.1.8-1 | A Multi-Level Intermediate Representation for compilers from LLVM | https://clang.llvm.org/ |
 | **mlocate** | 0.26-5 | Tool to find files anywhere in the filesystem based on their name | https://pagure.io/mlocate |
-| **moar** | 1.33.0 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moar |
 | **mold** | 2.40.3 | mold: A Modern Linker | https://github.com/rui314/mold |
 | **monero** | 0.18.4.1 | A private, secure, untraceable, decentralised digital currency | https://getmonero.org/ |
 | **mono** | 6.14.1 | Framework Mono | https://gitlab.winehq.org/mono/mono |
