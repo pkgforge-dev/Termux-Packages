@@ -3075,7 +3075,7 @@
   Description: Static libraries for jcal
   Homepage: http://nongnu.org/jcal
 - Package: jfrog-cli
-  Version: 2.78.2
+  Version: 2.78.3
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -3263,7 +3263,7 @@
   Description: LastPass command line interface tool
   Homepage: https://lastpass.com/
 - Package: lazygit
-  Version: 0.54.1
+  Version: 0.54.2
   Description: Simple terminal UI for git commands
   Homepage: https://github.com/jesseduffield/lazygit
 - Package: lcal
@@ -5087,11 +5087,11 @@
   Description: Static libraries for libplist
   Homepage: https://libimobiledevice.org
 - Package: libpluto
-  Version: 0.11.1
+  Version: 0.11.2
   Description: Shared library for the Pluto interpreter
   Homepage: https://plutolang.github.io/
 - Package: libpluto-static
-  Version: 0.11.1
+  Version: 0.11.2
   Description: Static libraries for libpluto
   Homepage: https://plutolang.github.io/
 - Package: libpng
@@ -7827,7 +7827,7 @@
   Description: Simple command line audio player for Android
   Homepage: https://github.com/termux/play-audio
 - Package: plutolang
-  Version: 0.11.1
+  Version: 0.11.2
   Description: A superset of Lua 5.4 with a focus on general-purpose programming.
   Homepage: https://plutolang.github.io/
 - Package: plzip
@@ -7859,11 +7859,11 @@
   Description: A small and fast caching web proxy
   Homepage: http://www.pps.jussieu.fr/~jch/software/polipo/
 - Package: polyml
-  Version: 5.9.1-1
+  Version: 5.9.2
   Description: A Standard ML implementation
   Homepage: https://www.polyml.org/
 - Package: polyml-static
-  Version: 5.9.1-1
+  Version: 5.9.2
   Description: Static libraries for polyml
   Homepage: https://www.polyml.org/
 - Package: pomodoro-curses

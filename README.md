@@ -779,7 +779,7 @@
 | **jbig2enc-static** | 2023.01.08-2 | Static libraries for jbig2enc | https://github.com/agl/jbig2enc |
 | **jcal** | 0.5.1 | UNIX-cal-like tool to display Jalali (Persian/Iranian) calendar | http://nongnu.org/jcal |
 | **jcal-static** | 0.5.1 | Static libraries for jcal | http://nongnu.org/jcal |
-| **jfrog-cli** | 2.78.2 | A CLI for JFrog products | https://jfrog.com/getcli |
+| **jfrog-cli** | 2.78.3 | A CLI for JFrog products | https://jfrog.com/getcli |
 | **jftui** | 0.7.4 | jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server. | https://github.com/Aanok/jftui |
 | **jhead** | 3.08 | Exif Jpeg header manipulation tool | http://www.sentex.net/~mwandel/jhead/ |
 | **jigdo** | 0.8.2 | Distribute large images by sending and receiving the files that make them up | http://atterer.org/jigdo/ |
@@ -826,7 +826,7 @@
 | **ladspa-sdk** | 1.17-2 | Linux Audio Developer's Simple Plugin API | https://www.ladspa.org/ |
 | **lame** | 3.100-6 | High quality MPEG Audio Layer III (MP3) encoder - frontend | https://lame.sourceforge.io/ |
 | **lastpass-cli** | 1.6.1-2 | LastPass command line interface tool | https://lastpass.com/ |
-| **lazygit** | 0.54.1 | Simple terminal UI for git commands | https://github.com/jesseduffield/lazygit |
+| **lazygit** | 0.54.2 | Simple terminal UI for git commands | https://github.com/jesseduffield/lazygit |
 | **lcal** | 2.1.0 | A multi-platform program which generates PostScript lunar calendars in a yearly format | https://pcal.sourceforge.net/ |
 | **ldc** | 1.30.0-2 | D programming language compiler, built with LLVM | https://github.com/ldc-developers/ldc |
 | **ldd** | 0.3 | Fake ldd command | https://github.com/termux/termux-packages |
@@ -1282,8 +1282,8 @@
 | **libplacebo** | 6.338.2-1 | Reusable library for GPU-accelerated video/image rendering | http://libplacebo.org/ |
 | **libplist** | 2.7.0 | A small portable C library to handle Apple Property List files in binary or XML format | https://libimobiledevice.org |
 | **libplist-static** | 2.7.0 | Static libraries for libplist | https://libimobiledevice.org |
-| **libpluto** | 0.11.1 | Shared library for the Pluto interpreter | https://plutolang.github.io/ |
-| **libpluto-static** | 0.11.1 | Static libraries for libpluto | https://plutolang.github.io/ |
+| **libpluto** | 0.11.2 | Shared library for the Pluto interpreter | https://plutolang.github.io/ |
+| **libpluto-static** | 0.11.2 | Static libraries for libpluto | https://plutolang.github.io/ |
 | **libpng** | 1.6.50 | Official PNG reference library | http://www.libpng.org/pub/png/libpng.html |
 | **libpng-static** | 1.6.50 | Static libraries for libpng | http://www.libpng.org/pub/png/libpng.html |
 | **libpngwriter** | 0.7.0 | C++ library for creating PNG images | http://pngwriter.sourceforge.net |
@@ -1967,7 +1967,7 @@
 | **pkgtop** | 2.5.1 | Interactive package manager and resource monitor | https://github.com/orhun/pkgtop |
 | **plantuml** | 1.2025.4-1 | Draws UML diagrams, using a simple and human readable text description | https://plantuml.com/ |
 | **play-audio** | 0.6-1 | Simple command line audio player for Android | https://github.com/termux/play-audio |
-| **plutolang** | 0.11.1 | A superset of Lua 5.4 with a focus on general-purpose programming. | https://plutolang.github.io/ |
+| **plutolang** | 0.11.2 | A superset of Lua 5.4 with a focus on general-purpose programming. | https://plutolang.github.io/ |
 | **plzip** | 1.12 | A massively parallel lossless data compressor based on the lzlib compression library | https://www.nongnu.org/lzip/plzip.html |
 | **pngcrush** | 1.8.13-1 | Recompresses png files | https://pmt.sourceforge.io/pngcrush/ |
 | **pngquant** | 3.0.3-1 | PNG image optimising utility | https://pngquant.org |
@@ -1975,8 +1975,8 @@
 | **poke** | 4.3 | Interactive, extensible editor for binary data. | http://www.jemarch.net/poke.html |
 | **poke-static** | 4.3 | Static libraries for poke | http://www.jemarch.net/poke.html |
 | **polipo** | 1.1.1 | A small and fast caching web proxy | http://www.pps.jussieu.fr/~jch/software/polipo/ |
-| **polyml** | 5.9.1-1 | A Standard ML implementation | https://www.polyml.org/ |
-| **polyml-static** | 5.9.1-1 | Static libraries for polyml | https://www.polyml.org/ |
+| **polyml** | 5.9.2 | A Standard ML implementation | https://www.polyml.org/ |
+| **polyml-static** | 5.9.2 | Static libraries for polyml | https://www.polyml.org/ |
 | **pomodoro-curses** | 2.5 | A simple pomodoro timer written with the Ncurses library | https://github.com/chunga2020/pomodoro_curses |
 | **poppler** | 24.05.0-2 | PDF rendering library | https://poppler.freedesktop.org/ |
 | **poppler-data** | 0.4.12 | Consists of encoding files for use with poppler | https://poppler.freedesktop.org/ |
