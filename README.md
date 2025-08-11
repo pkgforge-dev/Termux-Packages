@@ -2025,9 +2025,9 @@
 | **pypy** | 7.3.20 | A fast, compliant alternative implementation of Python | https://pypy.org |
 | **pypy-tests** | 7.3.20 | Test files for PyPy | https://pypy.org |
 | **pypy-tkinter** | 7.3.20 | Tkinter support for PyPy | https://pypy.org |
-| **pypy3** | 7.3.17 | A fast, compliant alternative implementation of Python 3 | https://pypy.org |
-| **pypy3-tests** | 7.3.17 | Test files for PyPy 3 | https://pypy.org |
-| **pypy3-tkinter** | 7.3.17 | Tkinter support for PyPy 3 | https://pypy.org |
+| **pypy3** | 7.3.19 | A fast, compliant alternative implementation of Python 3 | https://pypy.org |
+| **pypy3-tests** | 7.3.19 | Test files for PyPy 3 | https://pypy.org |
+| **pypy3-tkinter** | 7.3.19 | Tkinter support for PyPy 3 | https://pypy.org |
 | **pystring** | 1.1.4 | C++ functions matching the interface and behavior of python string methods with std::string | https://github.com/imageworks/pystring |
 | **python** | 3.12.11 | Python 3 programming language intended to enable clear programs | https://python.org/ |
 | **python-apsw** | 3.50.4.0 | Another Python SQLite Wrapper | https://github.com/rogerbinns/apsw/ |
