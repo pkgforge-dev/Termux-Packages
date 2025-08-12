@@ -1691,7 +1691,7 @@
 | **mono-static** | 6.14.1 | Static libraries for mono | https://gitlab.winehq.org/mono/mono |
 | **monolith** | 2.10.1 | CLI tool for saving complete web pages as a single HTML file | https://github.com/Y2Z/monolith |
 | **moon-buggy** | 1.0.51-5 | Simple game where you drive a car across the moon's surface | https://github.com/seehuhn/moon-buggy |
-| **moor** | 2.0.2 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moor |
+| **moor** | 2.0.3 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moor |
 | **mop** | 2025.03.17 | Stock market tracker | https://github.com/mop-tracker/mop |
 | **moreutils** | 0.70 | A growing collection of the unix tools that nobody thought to write thirty years ago | https://joeyh.name/code/moreutils/ |
 | **moria** | 5.7.15-5 | Rogue-like game with an infinite dungeon | https://umoria.org |
@@ -1873,8 +1873,8 @@
 | **ossp-uuid** | 1.6.2-3 | ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122. | http://www.ossp.org/pkg/lib/uuid/ |
 | **ossp-uuid-static** | 1.6.2-3 | Static libraries for ossp-uuid | http://www.ossp.org/pkg/lib/uuid/ |
 | **ovmf** | 20231122-16.fc40-0 | Open Virtual Machine Firmware | https://www.tianocore.org/ |
-| **oxc-language-server** | 1.11.1 | Oxc JavaScript linter language server | https://oxc.rs/ |
-| **oxlint** | 1.11.1 | Oxc JavaScript linter | https://oxc.rs/ |
+| **oxc-language-server** | 1.11.2 | Oxc JavaScript linter language server | https://oxc.rs/ |
+| **oxlint** | 1.11.2 | Oxc JavaScript linter | https://oxc.rs/ |
 | **p11-kit** | 0.25.5 | Provides a way to load and enumerate PKCS#11 modules | https://p11-glue.github.io/p11-glue/p11-kit.html |
 | **p7zip** | 17.06 | Command-line version of the 7zip compressed file archiver | https://github.com/p7zip-project/p7zip |
 | **pacman** | 7.0.0-3 | A library-based package manager with dependency support | https://archlinux.org/pacman/ |
@@ -2120,8 +2120,8 @@
 | **readline-static** | 8.3.1 | Static libraries for readline | https://tiswww.case.edu/php/chet/readline/rltop.html |
 | **recode** | 3.7.15 | Charset converter tool and library | https://github.com/pinard/Recode |
 | **recode-static** | 3.7.15 | Static libraries for recode | https://github.com/pinard/Recode |
-| **recoll** | 1.43.3 | Full-text search for your desktop | https://www.recoll.org/ |
-| **recoll-python** | 1.43.3 | Python interface for Recoll | https://www.recoll.org/ |
+| **recoll** | 1.43.4 | Full-text search for your desktop | https://www.recoll.org/ |
+| **recoll-python** | 1.43.4 | Python interface for Recoll | https://www.recoll.org/ |
 | **recutils** | 1.9 | Set of tools and libraries to access human-editable, plain text databases called recfiles | https://www.gnu.org/software/recutils/ |
 | **recutils-static** | 1.9 | Static libraries for recutils | https://www.gnu.org/software/recutils/ |
 | **redir** | 3.3-2 | TCP port redirector for UNIX | https://github.com/troglobit/redir |
