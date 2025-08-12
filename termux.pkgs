@@ -2013,9 +2013,9 @@
 | **pypy** | 7.3.20 | A fast, compliant alternative implementation of Python | https://pypy.org |
 | **pypy-tests** | 7.3.20 | Test files for PyPy | https://pypy.org |
 | **pypy-tkinter** | 7.3.20 | Tkinter support for PyPy | https://pypy.org |
-| **pypy3** | 7.3.19 | A fast, compliant alternative implementation of Python 3 | https://pypy.org |
-| **pypy3-tests** | 7.3.19 | Test files for PyPy 3 | https://pypy.org |
-| **pypy3-tkinter** | 7.3.19 | Tkinter support for PyPy 3 | https://pypy.org |
+| **pypy3** | 7.3.19-1 | A fast, compliant alternative implementation of Python 3 | https://pypy.org |
+| **pypy3-tests** | 7.3.19-1 | Test files for PyPy 3 | https://pypy.org |
+| **pypy3-tkinter** | 7.3.19-1 | Tkinter support for PyPy 3 | https://pypy.org |
 | **pystring** | 1.1.4 | C++ functions matching the interface and behavior of python string methods with std::string | https://github.com/imageworks/pystring |
 | **python** | 3.12.11 | Python 3 programming language intended to enable clear programs | https://python.org/ |
 | **python-apsw** | 3.50.4.0 | Another Python SQLite Wrapper | https://github.com/rogerbinns/apsw/ |
@@ -2512,7 +2512,7 @@
 | **util-linux-static** | 2.40.2-5 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-1 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.40.2-5 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **uv** | 0.8.8 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
+| **uv** | 0.8.9 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.30 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.37.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.18 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |

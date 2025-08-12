@@ -8059,15 +8059,15 @@
   Description: Tkinter support for PyPy
   Homepage: https://pypy.org
 - Package: pypy3
-  Version: 7.3.19
+  Version: 7.3.19-1
   Description: A fast, compliant alternative implementation of Python 3
   Homepage: https://pypy.org
 - Package: pypy3-tests
-  Version: 7.3.19
+  Version: 7.3.19-1
   Description: Test files for PyPy 3
   Homepage: https://pypy.org
 - Package: pypy3-tkinter
-  Version: 7.3.19
+  Version: 7.3.19-1
   Description: Tkinter support for PyPy 3
   Homepage: https://pypy.org
 - Package: pystring
@@ -10055,7 +10055,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.8.8
+  Version: 0.8.9
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
