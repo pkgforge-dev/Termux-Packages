@@ -113,7 +113,7 @@
 | **autoconf** | 2.72 | Creator of shell scripts to configure source code packages | https://www.gnu.org/software/autoconf/autoconf.html |
 | **autoconf-archive** | 2024.10.16 | A collection of freely re-usable Autoconf macros | https://www.gnu.org/software/autoconf-archive/ |
 | **autojump** | 22.5.3-1 | A faster way to navigate your filesystem | https://github.com/wting/autojump |
-| **automake** | 1.17 | Tool for automatically generating Makefile.in files | https://www.gnu.org/software/automake/ |
+| **automake** | 1.18.1 | Tool for automatically generating Makefile.in files | https://www.gnu.org/software/automake/ |
 | **autossh** | 1.4g-3 | Automatically restart SSH sessions and tunnels | https://www.harding.motd.ca/autossh/ |
 | **aview** | 1.3.0rc1-5 | High quality ascii-art image browser and animation player | http://aa-project.sourceforge.net/aview/ |
 | **avra** | 1.4.2 | Assember for the Atmel AVR microcontroller family | https://github.com/Ro5bert/avra |
