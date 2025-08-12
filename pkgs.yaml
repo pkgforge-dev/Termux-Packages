@@ -327,7 +327,7 @@
   Description: ASP.NET Core 8.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-runtime-9.0
-  Version: 9.0.7
+  Version: 9.0.7-1
   Description: ASP.NET Core 9.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-runtime-dbg-8.0
@@ -335,7 +335,7 @@
   Description: ASP.NET Core 8.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-runtime-dbg-9.0
-  Version: 9.0.7
+  Version: 9.0.7-1
   Description: ASP.NET Core 9.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-targeting-pack-8.0
@@ -343,7 +343,7 @@
   Description: ASP.NET Core 8.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-targeting-pack-9.0
-  Version: 9.0.7
+  Version: 9.0.7-1
   Description: ASP.NET Core 9.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: assimp
@@ -1407,7 +1407,7 @@
   Description: .NET 8.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-apphost-pack-9.0
-  Version: 9.0.7
+  Version: 9.0.7-1
   Description: .NET 9.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-host
@@ -1419,7 +1419,7 @@
   Description: .NET 8.0 Host
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-host-9.0
-  Version: 9.0.7
+  Version: 9.0.7-1
   Description: .NET 9.0 Host
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-hostfxr-8.0
@@ -1427,7 +1427,7 @@
   Description: .NET 8.0 Host Resolver
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-hostfxr-9.0
-  Version: 9.0.7
+  Version: 9.0.7-1
   Description: .NET 9.0 Host Resolver
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-8.0
@@ -1435,7 +1435,7 @@
   Description: .NET 8.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-9.0
-  Version: 9.0.7
+  Version: 9.0.7-1
   Description: .NET 9.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-dbg-8.0
@@ -1443,7 +1443,7 @@
   Description: .NET 8.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-dbg-9.0
-  Version: 9.0.7
+  Version: 9.0.7-1
   Description: .NET 9.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-8.0
@@ -1451,7 +1451,7 @@
   Description: .NET 8.0 SDK
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-9.0
-  Version: 9.0.7
+  Version: 9.0.7-1
   Description: .NET 9.0 SDK
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-dbg-8.0
@@ -1459,7 +1459,7 @@
   Description: .NET 8.0 SDK Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-dbg-9.0
-  Version: 9.0.7
+  Version: 9.0.7-1
   Description: .NET 9.0 SDK Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-targeting-pack-8.0
@@ -1467,7 +1467,7 @@
   Description: .NET 8.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-targeting-pack-9.0
-  Version: 9.0.7
+  Version: 9.0.7-1
   Description: .NET 9.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-templates-8.0
@@ -1475,7 +1475,7 @@
   Description: .NET 8.0 Templates
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-templates-9.0
-  Version: 9.0.7
+  Version: 9.0.7-1
   Description: .NET 9.0 Templates
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet8.0
@@ -1483,7 +1483,7 @@
   Description: .NET 8.0
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet9.0
-  Version: 9.0.7
+  Version: 9.0.7-1
   Description: .NET 9.0
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: double-conversion
@@ -3035,7 +3035,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.2225
+  Version: 0.22.2280-1
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -6603,7 +6603,7 @@
   Description: Command-line utility for reading information from media files
   Homepage: https://mediaarea.net/en/MediaInfo
 - Package: mediamtx
-  Version: 1.13.1
+  Version: 1.14.0
   Description: Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy
   Homepage: https://github.com/bluenviron/mediamtx
 - Package: megacmd
@@ -7103,7 +7103,7 @@
   Description: NETStandard.Library 2.1 Targeting Pack (.NET 8.0)
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: netstandard-targeting-pack-2.1-9.0
-  Version: 9.0.7
+  Version: 9.0.7-1
   Description: NETStandard.Library 2.1 Targeting Pack (.NET 9.0)
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: nettle
@@ -8379,7 +8379,7 @@
   Description: Static libraries for racket
   Homepage: https://racket-lang.org
 - Package: radare2
-  Version: 6.0.0
+  Version: 6.0.2
   Description: UNIX-like reverse engineering framework and command-line toolset
   Homepage: https://www.radare.org/
 - Package: rage
@@ -10203,7 +10203,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2025.08.10
+  Version: 2025.08.12
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vttest
@@ -10659,7 +10659,7 @@
   Description: Programmable file compressor, library and utilities. Based on the PAQ compression algorithm
   Homepage: http://mattmahoney.net/dc/zpaq.html
 - Package: zrok
-  Version: 1.1.1
+  Version: 1.1.2
   Description: An open source sharing solution built on OpenZiti.
   Homepage: https://zrok.io/
 - Package: zsh
