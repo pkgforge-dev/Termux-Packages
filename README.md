@@ -573,12 +573,12 @@
 | **git-lfs** | 3.7.0 | Git extension for versioning large files | https://git-lfs.github.com/ |
 | **git-sizer** | 1.5.0-4 | Compute various size metrics for a Git repository | https://github.com/github/git-sizer |
 | **git-svn** | 2.50.1-1 | Convert between Git and Subversion repositories | https://git-scm.com/ |
-| **gitea** | 1.24.4 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
+| **gitea** | 1.24.5 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
 | **gitflow-avh** | 1.12.3-9 | Extend git with Vincent Driessen's branching model. The AVH Edition adds more functionality. | https://github.com/petervanderdoes/gitflow/ |
 | **gitoxide** | 0.45.0 | Rust implementation of Git | https://github.com/Byron/gitoxide |
 | **gitui** | 0.27.0-2 | Blazing fast terminal-ui for git written in rust | https://github.com/extrawurst/gitui |
 | **gkermit** | 2.01 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
-| **glab-cli** | 1.65.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
+| **glab-cli** | 1.66.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
 | **gleam** | 1.12.0 | A friendly language for building type-safe, scalable systems! | https://gleam.run |
 | **glib** | 2.84.4 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
 | **glib-cross** | 2.84.4 | glib for host (NOT for Termux) | https://developer.gnome.org/glib/ |
@@ -1553,7 +1553,7 @@
 | **libzmq-static** | 4.3.5 | Static libraries for libzmq | https://zeromq.org/ |
 | **libzopfli** | 1.0.3-3 | New zlib compatible compressor library | https://github.com/google/zopfli |
 | **libzxing-cpp** | 2.3.0-1 | An open-source, multi-format 1D/2D barcode image processing library implemented in C++ | https://github.com/zxing-cpp/zxing-cpp |
-| **lighttpd** | 1.4.79 | Fast webserver with minimal memory footprint | https://www.lighttpd.net |
+| **lighttpd** | 1.4.80 | Fast webserver with minimal memory footprint | https://www.lighttpd.net |
 | **lilv** | 0.24.26 | A C library to make the use of LV2 plugins as simple as possible for applications | https://drobilla.net/software/lilv.html |
 | **lilypond** | 2.24.4-1 | A music engraving program | https://lilypond.org/ |
 | **links** | 2.29-1 | Links is a text and graphics mode WWW browser | http://links.twibright.com |
