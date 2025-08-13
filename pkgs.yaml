@@ -1699,7 +1699,7 @@
   Description: Erlang HTML documentation
   Homepage: https://www.erlang.org/
 - Package: esbuild
-  Version: 0.25.8
+  Version: 0.25.9
   Description: An extremely fast JavaScript bundler
   Homepage: https://esbuild.github.io/
 - Package: espeak
@@ -2911,11 +2911,11 @@
   Description: A command line id3v2 tag editor
   Homepage: http://id3v2.sourceforge.net/
 - Package: imagemagick
-  Version: 7.1.2.0
+  Version: 7.1.2.1
   Description: Suite to create, edit, compose, or convert images in a variety of formats
   Homepage: https://www.imagemagick.org/
 - Package: imagemagick-static
-  Version: 7.1.2.0
+  Version: 7.1.2.1
   Description: Static libraries for imagemagick
   Homepage: https://www.imagemagick.org/
 - Package: imath
@@ -3839,7 +3839,7 @@
   Description: The libdispatch project, for concurrency on multicore hardware
   Homepage: https://github.com/swiftlang/swift-corelibs-libdispatch
 - Package: libdisplay-info
-  Version: 0.2.0
+  Version: 0.3.0
   Description: EDID and DisplayID library
   Homepage: https://emersion.pages.freedesktop.org/libdisplay-info/
 - Package: libdmtx
@@ -5195,7 +5195,7 @@
   Description: Static libraries for libraw
   Homepage: https://www.libraw.org/
 - Package: libre2
-  Version: 2025-08-05-0
+  Version: 2025-08-12-0
   Description: A regular expression library
   Homepage: https://github.com/google/re2
 - Package: libregexp-assemble-perl
@@ -7263,7 +7263,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 26.19.0
+  Version: 26.19.1
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -10239,7 +10239,7 @@
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
-  Version: 1.4.323
+  Version: 1.4.325
   Description: Vulkan Tools and Utilities
   Homepage: https://github.com/KhronosGroup/Vulkan-Tools
 - Package: vulkan-utility-libraries

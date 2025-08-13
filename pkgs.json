@@ -2551,7 +2551,7 @@
   },
   {
     "Package": "esbuild",
-    "Version": "0.25.8",
+    "Version": "0.25.9",
     "Description": "An extremely fast JavaScript bundler",
     "Homepage": "https://esbuild.github.io/"
   },
@@ -4369,13 +4369,13 @@
   },
   {
     "Package": "imagemagick",
-    "Version": "7.1.2.0",
+    "Version": "7.1.2.1",
     "Description": "Suite to create, edit, compose, or convert images in a variety of formats",
     "Homepage": "https://www.imagemagick.org/"
   },
   {
     "Package": "imagemagick-static",
-    "Version": "7.1.2.0",
+    "Version": "7.1.2.1",
     "Description": "Static libraries for imagemagick",
     "Homepage": "https://www.imagemagick.org/"
   },
@@ -5761,7 +5761,7 @@
   },
   {
     "Package": "libdisplay-info",
-    "Version": "0.2.0",
+    "Version": "0.3.0",
     "Description": "EDID and DisplayID library",
     "Homepage": "https://emersion.pages.freedesktop.org/libdisplay-info/"
   },
@@ -7795,7 +7795,7 @@
   },
   {
     "Package": "libre2",
-    "Version": "2025-08-05-0",
+    "Version": "2025-08-12-0",
     "Description": "A regular expression library",
     "Homepage": "https://github.com/google/re2"
   },
@@ -10897,7 +10897,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "26.19.0",
+    "Version": "26.19.1",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -15361,7 +15361,7 @@
   },
   {
     "Package": "vulkan-tools",
-    "Version": "1.4.323",
+    "Version": "1.4.325",
     "Description": "Vulkan Tools and Utilities",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Tools"
   },
