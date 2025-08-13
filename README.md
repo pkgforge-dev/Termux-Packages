@@ -628,6 +628,7 @@
 | **gopass** | 1.15.16 | The slightly more awesome standard unix password manager for teams | https://github.com/gopasspw/gopass |
 | **gopher** | 3.0.17.3-1 | University of Minnesota gopher | gopher://gopher.quux.org/1/devel/gopher |
 | **gopls** | 0.19.1-1 | The official Go language server | https://github.com/golang/tools |
+| **gost** | 2.12.0 | GO Simple Tunnel - a simple tunnel written in golang | https://github.com/ginuerzh/gost |
 | **gotop** | 4.2.0-3 | A terminal based graphical activity monitor inspired by gtop and vtop | https://github.com/xxxserxxx/gotop |
 | **gotty** | 1.6.0 | Share your terminal as a web application | https://github.com/sorenisanerd/gotty |
 | **gpac** | 2.4.0-3 | An open-source multimedia framework focused on modularity and standards compliance | https://gpac.wp.imt.fr/ |

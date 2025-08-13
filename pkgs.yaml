@@ -2470,6 +2470,10 @@
   Version: 0.19.1-1
   Description: The official Go language server
   Homepage: https://github.com/golang/tools
+- Package: gost
+  Version: 2.12.0
+  Description: GO Simple Tunnel - a simple tunnel written in golang
+  Homepage: https://github.com/ginuerzh/gost
 - Package: gotop
   Version: 4.2.0-3
   Description: A terminal based graphical activity monitor inspired by gtop and vtop
