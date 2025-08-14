@@ -167,7 +167,7 @@
  bsd-games  1:3.3  Classic text mode games from UNIX folklore  https://www.polyomino.org.uk/computer/software/bsd-games/ 
  bsdtar  3.8.1  The tar(1) and cpio(1) programs from FreeBSD, using libarchive  https://www.libarchive.org/ 
  btfs2  4.0.0  Decentralized file system integrating with TRON network and Bittorrent network  https://www.bittorrent.com/btfs/ 
- btrfs-progs  6.15  Utilities for Btrfs filesystem  https://btrfs.readthedocs.io/en/latest/ 
+ btrfs-progs  6.16  Utilities for Btrfs filesystem  https://btrfs.readthedocs.io/en/latest/ 
  buf  1.56.0  A new way of working with Protocol Buffers  https://buf.build 
  build-essential  4.1  A metapackage that installs essential development tools  https://github.com/termux/termux-packages 
  busybox  1.37.0-1  Tiny versions of many common UNIX utilities into a single small executable  https://busybox.net/ 
@@ -386,7 +386,7 @@
  duc  1.4.5  High-performance disk usage analyzer  http://duc.zevv.nl/ 
  duckdb  1.3.2  DuckDB Command Line Interface (CLI) shell  https://duckdb.org/ 
  duf  0.8.1-3  Disk usage/free utility  https://github.com/muesli/duf 
- dufs  0.43.0-1  A file server that supports static serving, uploading, searching, accessing control, webdav...  https://github.com/sigoden/dufs 
+ dufs  0.44.0  A file server that supports static serving, uploading, searching, accessing control, webdav...  https://github.com/sigoden/dufs 
  duktape  2.7.0-1  Simple REPL for Duktape  https://www.duktape.org/ 
  dust  1.2.3  A more intuitive version of du in rust  https://github.com/bootandy/dust 
  dvdauthor  0.7.2-3  Generates a DVD-Video movie from a valid MPEG-2 stream  https://dvdauthor.sourceforge.net/ 
@@ -664,9 +664,9 @@
  gumbo-parser-static  0.10.1  Static libraries for gumbo-parser  https://github.com/google/gumbo-parser 
  gzip  1.14  Standard GNU file compression utilities  https://www.gnu.org/software/gzip/ 
  haproxy  3.2.4  The Reliable, High Performance TCP/HTTP Load Balancer  https://www.haproxy.org/ 
- harfbuzz  11.3.3  OpenType text shaping engine  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
- harfbuzz-icu  11.3.3  OpenType text shaping engine ICU backend  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
- harfbuzz-utils  11.3.3  Tools using the harfbuzz library  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
+ harfbuzz  11.4.1  OpenType text shaping engine  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
+ harfbuzz-icu  11.4.1  OpenType text shaping engine ICU backend  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
+ harfbuzz-utils  11.4.1  Tools using the harfbuzz library  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
  has  1.5.2  has checks presence of various command line tools and their versions on the path  https://github.com/kdabir/has 
  hash-slinger  3.4  Various tools to generate special DNS records  https://github.com/letoams/hash-slinger 
  hashdeep  4.4-8  Programs to compute hashsums of arbitrary number of files recursively  http://md5deep.sourceforge.net/ 
@@ -758,7 +758,7 @@
  jack  0.0.1  A metapackage that provides JACK Audio Connection Kit  https://github.com/termux/termux-packages 
  jack-example-tools  4  Official JACK example clients and tools  https://jackaudio.org/ 
  jack2  1.9.22-1  The JACK low-latency audio server  https://jackaudio.org/ 
- jackett  0.22.2282  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
+ jackett  0.22.2286  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
  jadx  1.5.2  Dex to Java decompiler  https://github.com/skylot/jadx 
  jadx-x  1.5.2  Dex to Java decompiler GUI  https://github.com/skylot/jadx 
  janet  1.38.0  Janet is a dialect of Lisp intended for embedding into programs and such  https://janet-lang.org 
@@ -2173,7 +2173,7 @@
  runit-static  2.1.2-3  Static libraries for runit  http://smarden.org/runit 
  rush  0.7.0  A cross-platform command-line tool for executing jobs in parallel  https://github.com/shenwei356/rush 
  rust  1.89.0  Systems programming language focused on safety, speed and concurrency  https://www.rust-lang.org/ 
- rust-analyzer  20250811  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
+ rust-analyzer  20250811-1  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
  rust-bindgen  0.72.0  Automatically generates Rust FFI bindings to C (and some C++) libraries  https://github.com/rust-lang/rust-bindgen 
  rust-docs  1.89.0  Rust documentation  https://www.rust-lang.org/ 
  rust-src  1.89.0  Rust source code files  https://www.rust-lang.org/ 

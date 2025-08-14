@@ -1015,7 +1015,7 @@
   },
   {
     "Package": "btrfs-progs",
-    "Version": "6.15",
+    "Version": "6.16",
     "Description": "Utilities for Btrfs filesystem",
     "Homepage": "https://btrfs.readthedocs.io/en/latest/"
   },
@@ -2329,7 +2329,7 @@
   },
   {
     "Package": "dufs",
-    "Version": "0.43.0-1",
+    "Version": "0.44.0",
     "Description": "A file server that supports static serving, uploading, searching, accessing control, webdav...",
     "Homepage": "https://github.com/sigoden/dufs"
   },
@@ -3997,19 +3997,19 @@
   },
   {
     "Package": "harfbuzz",
-    "Version": "11.3.3",
+    "Version": "11.4.1",
     "Description": "OpenType text shaping engine",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-icu",
-    "Version": "11.3.3",
+    "Version": "11.4.1",
     "Description": "OpenType text shaping engine ICU backend",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-utils",
-    "Version": "11.3.3",
+    "Version": "11.4.1",
     "Description": "Tools using the harfbuzz library",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
@@ -4561,7 +4561,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.22.2282",
+    "Version": "0.22.2286",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -13051,7 +13051,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20250811",
+    "Version": "20250811-1",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://rust-analyzer.github.io/"
   },
