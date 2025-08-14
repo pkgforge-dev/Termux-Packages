@@ -2367,7 +2367,7 @@
   Description: A framework for secure peer-to-peer networking
   Homepage: https://gnunet.org
 - Package: gnupg
-  Version: 2.5.5
+  Version: 2.5.11
   Description: Implementation of the OpenPGP standard for encrypting and signing data and communication
   Homepage: https://www.gnupg.org/
 - Package: gnuplot
@@ -2395,7 +2395,7 @@
   Description: The GNUstep makefile package
   Homepage: https://www.gnustep.org
 - Package: gnutls
-  Version: 3.8.9
+  Version: 3.8.10
   Description: Commandline utilities for interfacing with the gnutls library
   Homepage: https://www.gnutls.org/
 - Package: go-findimagedupes
@@ -2511,7 +2511,7 @@
   Description: Static libraries for gpgmepp
   Homepage: https://www.gnupg.org/related_software/gpgme/
 - Package: gpgv
-  Version: 2.5.5
+  Version: 2.5.11
   Description: GNU privacy guard - signature verification tool
   Homepage: https://www.gnupg.org/
 - Package: gping
@@ -4143,11 +4143,11 @@
   Description: A library of general-purpose, non-graphical Objective C objects
   Homepage: https://www.gnustep.org
 - Package: libgnutls
-  Version: 3.8.9
+  Version: 3.8.10
   Description: Secure communications library implementing the SSL, TLS and DTLS protocols and technologies around them
   Homepage: https://www.gnutls.org/
 - Package: libgnutls-static
-  Version: 3.8.9
+  Version: 3.8.10
   Description: Static libraries for libgnutls
   Homepage: https://www.gnutls.org/
 - Package: libgpg-error
@@ -7443,15 +7443,15 @@
   Description: OpenSSH SFTP server subsystem
   Homepage: https://www.openssh.com/
 - Package: openssl
-  Version: 1:3.5.1
+  Version: 1:3.5.2
   Description: Library implementing the SSL and TLS protocols as well as general purpose cryptography functions
   Homepage: https://www.openssl.org/
 - Package: openssl-static
-  Version: 1:3.5.1
+  Version: 1:3.5.2
   Description: Static libraries for openssl
   Homepage: https://www.openssl.org/
 - Package: openssl-tool
-  Version: 1:3.5.1
+  Version: 1:3.5.2
   Description: The openssl command line cryptographic tool
   Homepage: https://www.openssl.org/
 - Package: opentimelineio
@@ -8803,7 +8803,7 @@
   Description: sccache is ccache with cloud storage
   Homepage: https://github.com/mozilla/sccache
 - Package: scdaemon
-  Version: 2.5.5
+  Version: 2.5.11
   Description: Daemon invoked by gpg to manage smartcards
   Homepage: https://www.gnupg.org/
 - Package: scdoc

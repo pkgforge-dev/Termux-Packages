@@ -590,14 +590,14 @@
  gnugo  3.8-5  Program that plays the game of Go  https://www.gnu.org/software/gnugo/ 
  gnuit  4.9.5  gnuit - GNU Interactive Tools  https://www.gnu.org/software/gnuit/ 
  gnunet  0.24.3  A framework for secure peer-to-peer networking  https://gnunet.org 
- gnupg  2.5.5  Implementation of the OpenPGP standard for encrypting and signing data and communication  https://www.gnupg.org/ 
+ gnupg  2.5.11  Implementation of the OpenPGP standard for encrypting and signing data and communication  https://www.gnupg.org/ 
  gnuplot  6.0.3  Command-line driven graphing utility  http://gnuplot.info/ 
  gnurl  7.72.0  Fork of libcurl, which is mostly for GNUnet  https://gnunet.org/en/gnurl.html 
  gnurl-static  7.72.0  Static libraries for gnurl  https://gnunet.org/en/gnurl.html 
  gnushogi  1.4.2-p20141119-0  Program that plays the game of Shogi, also known as Japanese Chess  https://www.gnu.org/software/gnushogi/ 
  gnuski  0.3-6  Open source clone of Skifree, the old Windows game  https://sourceforge.net/projects/gnuski 
  gnustep-make  2.9.3  The GNUstep makefile package  https://www.gnustep.org 
- gnutls  3.8.9  Commandline utilities for interfacing with the gnutls library  https://www.gnutls.org/ 
+ gnutls  3.8.10  Commandline utilities for interfacing with the gnutls library  https://www.gnutls.org/ 
  go-findimagedupes  2023.01.29-3  Find visually similar or duplicate images  https://gitlab.com/opennota/findimagedupes 
  go-musicfox  4.6.6  A netease music player in terminal.  https://github.com/go-musicfox/go-musicfox 
  goaccess  1.9.4  An open source real-time web log analyzer and interactive viewer  https://goaccess.io 
@@ -626,7 +626,7 @@
  gpgme-static  1.24.3  Static libraries for gpgme  https://www.gnupg.org/related_software/gpgme/ 
  gpgmepp  1.24.3  Programmatic C++ library interface to GnuPG  https://www.gnupg.org/related_software/gpgme/ 
  gpgmepp-static  1.24.3  Static libraries for gpgmepp  https://www.gnupg.org/related_software/gpgme/ 
- gpgv  2.5.5  GNU privacy guard - signature verification tool  https://www.gnupg.org/ 
+ gpgv  2.5.11  GNU privacy guard - signature verification tool  https://www.gnupg.org/ 
  gping  1.19.0  Ping, but with a graph  https://github.com/orf/gping 
  gpsbabel  1.4.4-2  GPS file conversion plus transfer to/from GPS units  https://www.gpsbabel.org/ 
  gradle  1:9.0.0-1  Powerful build system for the JVM  https://gradle.org/ 
@@ -1034,8 +1034,8 @@
  libgmp-static  6.3.0-1  Static libraries for libgmp  https://gmplib.org/ 
  libgnt  2.14.4-1  An ncurses toolkit for creating text-mode graphical user interfaces in a fast and easy way  https://keep.imfreedom.org/libgnt/libgnt 
  libgnustep-base  1.31.1-2  A library of general-purpose, non-graphical Objective C objects  https://www.gnustep.org 
- libgnutls  3.8.9  Secure communications library implementing the SSL, TLS and DTLS protocols and technologies around them  https://www.gnutls.org/ 
- libgnutls-static  3.8.9  Static libraries for libgnutls  https://www.gnutls.org/ 
+ libgnutls  3.8.10  Secure communications library implementing the SSL, TLS and DTLS protocols and technologies around them  https://www.gnutls.org/ 
+ libgnutls-static  3.8.10  Static libraries for libgnutls  https://www.gnutls.org/ 
  libgpg-error  1.55  Small library that defines common error values for all GnuPG components  https://www.gnupg.org/related_software/libgpg-error/ 
  libgpg-error-static  1.55  Static libraries for libgpg-error  https://www.gnupg.org/related_software/libgpg-error/ 
  libgraphite  1.3.14-2  Font system for multiple languages  https://github.com/silnrsi/graphite 
@@ -1859,9 +1859,9 @@
  openscad  2021.01-3  The programmers solid 3D CAD modeller (headless build)  https://openscad.org/ 
  openssh  10.0p2-8  Secure shell for logging into a remote machine  https://www.openssh.com/ 
  openssh-sftp-server  10.0p2-8  OpenSSH SFTP server subsystem  https://www.openssh.com/ 
- openssl  1:3.5.1  Library implementing the SSL and TLS protocols as well as general purpose cryptography functions  https://www.openssl.org/ 
- openssl-static  1:3.5.1  Static libraries for openssl  https://www.openssl.org/ 
- openssl-tool  1:3.5.1  The openssl command line cryptographic tool  https://www.openssl.org/ 
+ openssl  1:3.5.2  Library implementing the SSL and TLS protocols as well as general purpose cryptography functions  https://www.openssl.org/ 
+ openssl-static  1:3.5.2  Static libraries for openssl  https://www.openssl.org/ 
+ openssl-tool  1:3.5.2  The openssl command line cryptographic tool  https://www.openssl.org/ 
  opentimelineio  0.17.0  Open Source API and interchange format for editorial timeline information.  http://opentimeline.io/ 
  openxr  1.1.50  Open standard that provides a common set of APIs for developing XR applications  https://www.khronos.org/openxr/ 
  optipng  7.9.1  PNG optimizer that recompresses image files to a smaller size, without losing any information  https://optipng.sourceforge.net/ 
@@ -2199,7 +2199,7 @@
  scala  3.7.2  Scala 3 compiler and standard library.  https://www.scala-lang.org 
  scc  3.5.0  Counts physical the lines of code, blank lines, comment lines, and physical lines of source code  https://github.com/boyter/scc 
  sccache  0.10.0  sccache is ccache with cloud storage  https://github.com/mozilla/sccache 
- scdaemon  2.5.5  Daemon invoked by gpg to manage smartcards  https://www.gnupg.org/ 
+ scdaemon  2.5.11  Daemon invoked by gpg to manage smartcards  https://www.gnupg.org/ 
  scdoc  1.11.3  Small man page generator  https://git.sr.ht/~sircmpwn/scdoc 
  screen  5.0.1  Terminal multiplexer with VT100/ANSI terminal emulation  https://www.gnu.org/software/screen/ 
  screenfetch  3.9.9  Bash Screenshot Information Tool  https://github.com/KittyKatt/screenFetch 
