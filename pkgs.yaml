@@ -955,7 +955,7 @@
   Description: A tunneling daemon that proxies traffic from the Cloudflare network to your origins
   Homepage: https://github.com/cloudflare/cloudflared
 - Package: clpeak
-  Version: 1.1.4
+  Version: 1.1.5
   Description: A tool which profiles OpenCL devices to find their peak capacities
   Homepage: https://github.com/krrishnarraj/clpeak
 - Package: clvk
@@ -2467,7 +2467,7 @@
   Description: University of Minnesota gopher
   Homepage: gopher://gopher.quux.org/1/devel/gopher
 - Package: gopls
-  Version: 0.19.1-1
+  Version: 0.20.0
   Description: The official Go language server
   Homepage: https://github.com/golang/tools
 - Package: gost
@@ -2659,7 +2659,7 @@
   Description: Standard GNU file compression utilities
   Homepage: https://www.gnu.org/software/gzip/
 - Package: haproxy
-  Version: 3.2.3
+  Version: 3.2.4
   Description: The Reliable, High Performance TCP/HTTP Load Balancer
   Homepage: https://www.haproxy.org/
 - Package: harfbuzz
@@ -2707,7 +2707,7 @@
   Description: Prints a friendly greeting
   Homepage: https://www.gnu.org/software/hello/
 - Package: helm
-  Version: 3.18.4
+  Version: 3.18.5
   Description: Helm helps you manage Kubernetes applications
   Homepage: https://helm.sh
 - Package: helm-ls
@@ -3243,7 +3243,7 @@
   Description: Colorize your kubectl output
   Homepage: https://github.com/kubecolor/kubecolor
 - Package: kubectl
-  Version: 1.33.3
+  Version: 1.33.4
   Description: Kubernetes.io client binary
   Homepage: https://kubernetes.io/
 - Package: kubelogin
@@ -3315,7 +3315,7 @@
   Description: Fast key-value storage library
   Homepage: https://github.com/google/leveldb
 - Package: lexbor
-  Version: 2.4.0
+  Version: 2.5.0
   Description: Fast embeddable web browser engine written in C with no dependencies
   Homepage: https://lexbor.com
 - Package: lexter
@@ -5091,11 +5091,11 @@
   Description: Static libraries for libplist
   Homepage: https://libimobiledevice.org
 - Package: libpluto
-  Version: 0.11.2
+  Version: 0.11.3
   Description: Shared library for the Pluto interpreter
   Homepage: https://plutolang.github.io/
 - Package: libpluto-static
-  Version: 0.11.2
+  Version: 0.11.3
   Description: Static libraries for libpluto
   Homepage: https://plutolang.github.io/
 - Package: libpng
@@ -7119,7 +7119,7 @@
   Description: RSS/Atom feed reader for the text console
   Homepage: https://newsboat.org/
 - Package: nginx
-  Version: 1.29.0
+  Version: 1.29.1
   Description: Lightweight HTTP server
   Homepage: https://www.nginx.org
 - Package: ngircd
@@ -7151,7 +7151,7 @@
   Description: Library for nonlinear optimization
   Homepage: https://nlopt.readthedocs.io/
 - Package: nmap
-  Version: 7.97-4
+  Version: "7.98"
   Description: Utility for network discovery and security auditing
   Homepage: https://nmap.org/
 - Package: nmh
@@ -7831,7 +7831,7 @@
   Description: Simple command line audio player for Android
   Homepage: https://github.com/termux/play-audio
 - Package: plutolang
-  Version: 0.11.2
+  Version: 0.11.3
   Description: A superset of Lua 5.4 with a focus on general-purpose programming.
   Homepage: https://plutolang.github.io/
 - Package: plzip
@@ -10059,7 +10059,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.8.9
+  Version: 0.8.10
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
