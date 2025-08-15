@@ -2485,25 +2485,25 @@
   },
   {
     "Package": "emscripten",
-    "Version": "4.0.12",
+    "Version": "4.0.13",
     "Description": "Emscripten: An LLVM-to-WebAssembly Compiler",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-binaryen",
-    "Version": "4.0.12",
+    "Version": "4.0.13",
     "Description": "Emscripten-compatible Binaryen",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-llvm",
-    "Version": "4.0.12",
+    "Version": "4.0.13",
     "Description": "Emscripten-compatible LLVM",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-tests-third-party",
-    "Version": "4.0.12",
+    "Version": "4.0.13",
     "Description": "Emscripten third party test suite files",
     "Homepage": "https://emscripten.org"
   },
@@ -15091,7 +15091,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.8.10",
+    "Version": "0.8.11",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
@@ -15313,7 +15313,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "2025.08.13",
+    "Version": "2025.08.14",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://github.com/directvt/vtm"
   },
