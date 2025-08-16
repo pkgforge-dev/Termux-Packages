@@ -3083,7 +3083,7 @@
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
-  Version: 0.7.4
+  Version: 0.7.5
   Description: jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server.
   Homepage: https://github.com/Aanok/jftui
 - Package: jhead
@@ -10595,7 +10595,7 @@
   Description: An open-source application to synchronize ActiveSync compatible devices and Outlook
   Homepage: https://z-push.org/
 - Package: z3
-  Version: 4.15.2
+  Version: 4.15.3
   Description: Z3 is a theorem prover from Microsoft Research
   Homepage: https://github.com/Z3Prover/z3
 - Package: zbar
