@@ -6135,11 +6135,11 @@
   Description: The ZIM library is the reference implementation for the ZIM file format.
   Homepage: https://openzim.org
 - Package: libzimg
-  Version: 3.0.5
+  Version: 3.0.6
   Description: Scaling, colorspace conversion, and dithering library
   Homepage: https://github.com/sekrit-twc/zimg
 - Package: libzimg-static
-  Version: 3.0.5
+  Version: 3.0.6
   Description: Static libraries for libzimg
   Homepage: https://github.com/sekrit-twc/zimg
 - Package: libzip
