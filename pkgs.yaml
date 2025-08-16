@@ -1763,7 +1763,7 @@
   Description: To fastly access files and folders
   Homepage: https://github.com/whjvenyl/fasd
 - Package: fastfetch
-  Version: 2.50.1
+  Version: 2.50.2
   Description: A maintained, feature-rich and performance oriented, neofetch like system information tool
   Homepage: https://github.com/fastfetch-cli/fastfetch
 - Package: fastmod
@@ -6487,7 +6487,7 @@
   Description: Connect to your mattermost or slack using your IRC-client of choice
   Homepage: https://github.com/42wim/matterircd
 - Package: mautrix-whatsapp
-  Version: 0.12.3
+  Version: 0.12.4
   Description: A Matrix-WhatsApp puppeting bridge
   Homepage: https://maunium.net/go/mautrix-whatsapp/
 - Package: maven
@@ -8843,7 +8843,7 @@
   Description: Static libraries for seafile-client
   Homepage: https://seafile.com
 - Package: seanime
-  Version: 2.9.4
+  Version: 2.9.6
   Description: Self-hosted anime and manga server for sea rovers.
   Homepage: https://github.com/5rahim/seanime
 - Package: seccure
@@ -9643,7 +9643,7 @@
   Description: GNU time program for measuring CPU resource usage
   Homepage: https://www.gnu.org/software/time/
 - Package: timewarrior
-  Version: 1.8.0
+  Version: 1.9.0
   Description: Command-line time tracker
   Homepage: https://timewarrior.net/
 - Package: timg
@@ -10271,7 +10271,7 @@
   Description: The WebAssembly Binary Toolkit
   Homepage: https://github.com/WebAssembly/wabt
 - Package: wakatime-cli
-  Version: 1.130.1
+  Version: 1.130.3
   Description: Command line interface used by all WakaTime text editor plugins
   Homepage: https://wakatime.com/plugins/
 - Package: walk
