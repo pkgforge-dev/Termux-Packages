@@ -4887,7 +4887,7 @@
   Description: Static libraries for libnspr
   Homepage: https://hg.mozilla.org/projects/nspr
 - Package: libnss
-  Version: "3.114"
+  Version: "3.115"
   Description: Network Security Services (NSS)
   Homepage: https://firefox-source-docs.mozilla.org/security/nss/
 - Package: libntl
@@ -7171,7 +7171,7 @@
   Description: This project provides a command line tool called nms that recreates the famous data decryption effect.
   Homepage: https://github.com/bartobri/no-more-secrets
 - Package: nodejs
-  Version: 24.5.0
+  Version: 24.6.0
   Description: Open Source, cross-platform JavaScript runtime environment
   Homepage: https://nodejs.org/
 - Package: nodejs-lts
@@ -7211,7 +7211,7 @@
   Description: The classic snake game with textual interface
   Homepage: https://github.com/alexdantas/nSnake
 - Package: nss-utils
-  Version: "3.114"
+  Version: "3.115"
   Description: Tools for NSS
   Homepage: https://firefox-source-docs.mozilla.org/security/nss/
 - Package: nudoku
