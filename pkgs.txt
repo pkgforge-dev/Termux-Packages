@@ -323,7 +323,7 @@
  dirb  2.22-4  Web Directory Fuzzer  http://dirb.sourceforge.net/ 
  direnv  2.37.1  Environment switcher for shell  https://github.com/direnv/direnv 
  direvent  5.4  Monitor of events in file system directories  https://www.gnu.org.ua/software/direvent/ 
- discordo  2022.08.12-3  A lightweight, secure, and feature-rich Discord terminal client  https://github.com/ayntgl/discordo 
+ discordo  2025.08.06  A lightweight, secure, and feature-rich Discord terminal client  https://github.com/ayntgl/discordo 
  diskus  0.8.0  A minimal, fast alternative to 'du -sh'  https://github.com/sharkdp/diskus 
  distant  1:0.20.0-2  Library and tooling that supports remote filesystem and process  https://github.com/chipsenkbeil/distant 
  distcc  3.4-3  Distributed C/C++ compiler  http://distcc.org/ 
@@ -611,7 +611,7 @@
  gomuks  0.3.1  A terminal Matrix client written in Go  https://maunium.net/go/gomuks/ 
  google-drive-upload  4.5  Bash scripts to upload files to google drive  https://github.com/labbots/google-drive-upload 
  google-glog  0.7.1  Logging library for C++  https://github.com/google/glog 
- googletest  1.17.0  Google C++ testing framework  https://github.com/google/googletest 
+ googletest  1.17.0-1  Google C++ testing framework  https://github.com/google/googletest 
  goose  3.24.3  A database migration tool. Supports SQL migrations and Go functions.  https://pressly.github.io/goose 
  gopass  1.15.16  The slightly more awesome standard unix password manager for teams  https://github.com/gopasspw/gopass 
  gopher  3.0.17.3-1  University of Minnesota gopher  gopher://gopher.quux.org/1/devel/gopher 
@@ -2213,6 +2213,7 @@
  seccure  0.5-7  SECCURE Elliptic Curve Crypto Utility for Reliable Encryption  http://point-at-infinity.org/seccure/ 
  secure-delete  3.1-5  Secure file, disk, swap, memory erasure utilities  http://www.thc.org/ 
  sed  4.9-1  GNU stream editor for filtering/transforming text  https://www.gnu.org/software/sed/ 
+ sendme  0.27.0  A tool to send files and directories, based on iroh  https://github.com/n0-computer/sendme 
  sendxmpp  1.24  A perl-script to send XMPP (jabber) messages  https://sendxmpp.hostname.sk/ 
  senpai  1:0.4.1  An IRC client that works best with bouncers  https://git.sr.ht/~delthas/senpai 
  sensible-utils  0.0.25  Small utilities used by programs to sensibly select and spawn an appropriate browser, editor, or pager  https://packages.debian.org/sid/sensible-utils 

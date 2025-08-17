@@ -1299,7 +1299,7 @@
   Description: Monitor of events in file system directories
   Homepage: https://www.gnu.org.ua/software/direvent/
 - Package: discordo
-  Version: 2022.08.12-3
+  Version: 2025.08.06
   Description: A lightweight, secure, and feature-rich Discord terminal client
   Homepage: https://github.com/ayntgl/discordo
 - Package: diskus
@@ -2451,7 +2451,7 @@
   Description: Logging library for C++
   Homepage: https://github.com/google/glog
 - Package: googletest
-  Version: 1.17.0
+  Version: 1.17.0-1
   Description: Google C++ testing framework
   Homepage: https://github.com/google/googletest
 - Package: goose
@@ -8858,6 +8858,10 @@
   Version: 4.9-1
   Description: GNU stream editor for filtering/transforming text
   Homepage: https://www.gnu.org/software/sed/
+- Package: sendme
+  Version: 0.27.0
+  Description: A tool to send files and directories, based on iroh
+  Homepage: https://github.com/n0-computer/sendme
 - Package: sendxmpp
   Version: "1.24"
   Description: A perl-script to send XMPP (jabber) messages
