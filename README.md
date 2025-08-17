@@ -1553,7 +1553,7 @@
 | **libzmq-static** | 4.3.5 | Static libraries for libzmq | https://zeromq.org/ |
 | **libzopfli** | 1.0.3-3 | New zlib compatible compressor library | https://github.com/google/zopfli |
 | **libzxing-cpp** | 2.3.0-1 | An open-source, multi-format 1D/2D barcode image processing library implemented in C++ | https://github.com/zxing-cpp/zxing-cpp |
-| **lighttpd** | 1.4.80 | Fast webserver with minimal memory footprint | https://www.lighttpd.net |
+| **lighttpd** | 1.4.81 | Fast webserver with minimal memory footprint | https://www.lighttpd.net |
 | **lilv** | 0.24.26 | A C library to make the use of LV2 plugins as simple as possible for applications | https://drobilla.net/software/lilv.html |
 | **lilypond** | 2.24.4-1 | A music engraving program | https://lilypond.org/ |
 | **links** | 2.29-1 | Links is a text and graphics mode WWW browser | http://links.twibright.com |
@@ -1697,7 +1697,7 @@
 | **mktorrent** | 1.1-p20210130-0 | command line utility to create BitTorrent metainfo files | https://github.com/Rudde/mktorrent |
 | **mlir** | 20.1.8-2 | A Multi-Level Intermediate Representation for compilers from LLVM | https://clang.llvm.org/ |
 | **mlocate** | 0.26-5 | Tool to find files anywhere in the filesystem based on their name | https://pagure.io/mlocate |
-| **mold** | 2.40.3 | mold: A Modern Linker | https://github.com/rui314/mold |
+| **mold** | 2.40.4 | mold: A Modern Linker | https://github.com/rui314/mold |
 | **monero** | 0.18.4.1 | A private, secure, untraceable, decentralised digital currency | https://getmonero.org/ |
 | **mono** | 6.14.1 | Framework Mono | https://gitlab.winehq.org/mono/mono |
 | **mono-libs** | 6.14.1 | Platform-independent libraries for mono | https://gitlab.winehq.org/mono/mono |
