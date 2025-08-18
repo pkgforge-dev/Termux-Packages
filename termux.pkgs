@@ -179,14 +179,14 @@
 | **c-script** | 0.14 | Compile and execute C "scripts" in one go! | https://github.com/ryanmjacobs/c |
 | **c-toxcore** | 0.2.20-p20250105-0 | Backend library for the Tox protocol | https://tox.chat |
 | **c-toxcore-static** | 0.2.20-p20250105-0 | Static libraries for c-toxcore | https://tox.chat |
-| **ca-certificates** | 1:2025.07.15 | Common CA certificates | https://curl.se/docs/caextract.html |
-| **ca-certificates-java** | 1:2025.07.15 | Common CA certificates (java keystore format) | https://curl.se/docs/caextract.html |
+| **ca-certificates** | 1:2025.08.12 | Common CA certificates | https://curl.se/docs/caextract.html |
+| **ca-certificates-java** | 1:2025.08.12 | Common CA certificates (java keystore format) | https://curl.se/docs/caextract.html |
 | **cabextract** | 1.11 | A program to extract Microsoft cabinet (.CAB) files | https://www.cabextract.org.uk/ |
 | **cadaver** | 0.27 | A command-line WebDAV client for Unix | https://notroj.github.io/cadaver/ |
 | **caddy** | 2.10.0 | Fast, cross-platform HTTP/2 web server | https://caddyserver.com/ |
 | **calc** | 2.15.1.1 | Arbitrary precision console calculator | http://www.isthe.com/chongo/tech/comp/calc/ |
-| **calcurse** | 4.8.1-1 | calcurse is a calendar and scheduling application for the command line | https://calcurse.org/ |
-| **calcurse-caldav** | 4.8.1-1 | Sync calcurse with remote caldav calendar | https://calcurse.org/ |
+| **calcurse** | 4.8.2 | calcurse is a calendar and scheduling application for the command line | https://calcurse.org/ |
+| **calcurse-caldav** | 4.8.2 | Sync calcurse with remote caldav calendar | https://calcurse.org/ |
 | **capnproto** | 1.2.0 | Data interchange format and capability-based RPC system | https://capnproto.org/ |
 | **capstone** | 5.0.6 | Lightweight multi-platform, multi-architecture disassembly framework | https://www.capstone-engine.org/ |
 | **capstone-static** | 5.0.6 | Static libraries for capstone | https://www.capstone-engine.org/ |
@@ -266,7 +266,7 @@
 | **corkscrew** | 2.0-3 | A tool for tunneling SSH through HTTP proxies | https://wiki.linuxquestions.org/wiki/Corkscrew |
 | **cowsay** | 3.8.4 | Program which generates ASCII pictures of a cow with a message | https://cowsay.diamonds/ |
 | **cpio** | 2.15 | CPIO implementation from the GNU project | https://www.gnu.org/software/cpio/ |
-| **cppcheck** | 2.18.0 | tool for static C/C++ code analysis | https://github.com/danmar/cppcheck |
+| **cppcheck** | 2.18.1 | tool for static C/C++ code analysis | https://github.com/danmar/cppcheck |
 | **cppi** | 1.18-1 | Indents C preprocessor directives to reflect their nesting, among other regularizations | https://www.gnu.org/software/cppi/ |
 | **cpufetch** | 1.06 | Simple yet fancy CPU architecture fetching tool | https://github.com/Dr-Noob/cpufetch |
 | **cpulimit** | 0.2-1 | CPU usage limiter | https://github.com/opsengine/cpulimit |

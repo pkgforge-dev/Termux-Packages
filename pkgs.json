@@ -1087,13 +1087,13 @@
   },
   {
     "Package": "ca-certificates",
-    "Version": "1:2025.07.15",
+    "Version": "1:2025.08.12",
     "Description": "Common CA certificates",
     "Homepage": "https://curl.se/docs/caextract.html"
   },
   {
     "Package": "ca-certificates-java",
-    "Version": "1:2025.07.15",
+    "Version": "1:2025.08.12",
     "Description": "Common CA certificates (java keystore format)",
     "Homepage": "https://curl.se/docs/caextract.html"
   },
@@ -1123,13 +1123,13 @@
   },
   {
     "Package": "calcurse",
-    "Version": "4.8.1-1",
+    "Version": "4.8.2",
     "Description": "calcurse is a calendar and scheduling application for the command line",
     "Homepage": "https://calcurse.org/"
   },
   {
     "Package": "calcurse-caldav",
-    "Version": "4.8.1-1",
+    "Version": "4.8.2",
     "Description": "Sync calcurse with remote caldav calendar",
     "Homepage": "https://calcurse.org/"
   },
@@ -1609,7 +1609,7 @@
   },
   {
     "Package": "cppcheck",
-    "Version": "2.18.0",
+    "Version": "2.18.1",
     "Description": "tool for static C/C++ code analysis",
     "Homepage": "https://github.com/danmar/cppcheck"
   },
