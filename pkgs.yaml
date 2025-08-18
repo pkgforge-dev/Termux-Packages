@@ -4047,11 +4047,11 @@
   Description: Static libraries for libgc
   Homepage: https://www.hboehm.info/gc/
 - Package: libgcrypt
-  Version: 1.11.1
+  Version: 1.11.2
   Description: General purpose cryptographic library based on the code from GnuPG
   Homepage: https://www.gnu.org/software/libgcrypt/
 - Package: libgcrypt-static
-  Version: 1.11.1
+  Version: 1.11.2
   Description: Static libraries for libgcrypt
   Homepage: https://www.gnu.org/software/libgcrypt/
 - Package: libgd
@@ -10211,7 +10211,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2025.08.15
+  Version: 2025.08.17
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vttest

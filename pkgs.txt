@@ -1010,8 +1010,8 @@
  libftxui  6.1.9  A simple C++ library for terminal based user interface  https://github.com/ArthurSonzogni/FTXUI 
  libgc  8.2.8  Library providing the Boehm-Demers-Weiser conservative garbage collector  https://www.hboehm.info/gc/ 
  libgc-static  8.2.8  Static libraries for libgc  https://www.hboehm.info/gc/ 
- libgcrypt  1.11.1  General purpose cryptographic library based on the code from GnuPG  https://www.gnu.org/software/libgcrypt/ 
- libgcrypt-static  1.11.1  Static libraries for libgcrypt  https://www.gnu.org/software/libgcrypt/ 
+ libgcrypt  1.11.2  General purpose cryptographic library based on the code from GnuPG  https://www.gnu.org/software/libgcrypt/ 
+ libgcrypt-static  1.11.2  Static libraries for libgcrypt  https://www.gnu.org/software/libgcrypt/ 
  libgd  1:2.3.3-4  GD is an open source code library for the dynamic creation of images by programmers  https://libgd.github.io/ 
  libgd-static  1:2.3.3-4  Static libraries for libgd  https://libgd.github.io/ 
  libgedit-gfls  0.3.0  A module dedicated to file loading and saving  https://gitlab.gnome.org/World/gedit/libgedit-gfls 
@@ -2551,7 +2551,7 @@
  vlc-static  3.0.21-9  Static libraries for vlc  https://www.videolan.org/ 
  vobsub2srt  2017.12.18-3  A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR  https://github.com/ruediger/VobSub2SRT 
  vorbis-tools  1.4.3  Ogg Vorbis tools  https://github.com/xiph/vorbis-tools 
- vtm  2025.08.15  Terminal multiplexer with TUI window manager and multi-party session sharing  https://github.com/directvt/vtm 
+ vtm  2025.08.17  Terminal multiplexer with TUI window manager and multi-party session sharing  https://github.com/directvt/vtm 
  vttest  20241208  Program for testing the VT100 compatibility of terminal emulators  https://invisible-island.net/vttest/ 
  vtutils  0.5-4  Utilities for testing and working with virtual terminals  https://github.com/fornwall/vtutils 
  vulkan-extension-layer  1.4.321  Vulkan Extension Layer  https://github.com/KhronosGroup/Vulkan-ExtensionLayer 
