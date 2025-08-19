@@ -228,7 +228,7 @@
  ckermit  9.0.302-2  A combined network and serial communication software package  https://www.kermitproject.org/ckermit.html 
  clamav  1.4.3  Anti-virus toolkit for Unix  https://www.clamav.net/ 
  clamav-static  1.4.3  Static libraries for clamav  https://www.clamav.net/ 
- clang  20.1.8-2  C language frontend for LLVM  https://clang.llvm.org/ 
+ clang  20.1.8-3  C language frontend for LLVM  https://clang.llvm.org/ 
  clblast  1.6.3  Tuned OpenCL BLAS  https://github.com/CNugteren/CLBlast 
  cliaoke  0.2.4-4  Command line karaoke  https://github.com/jessfraz/cliaoke 
  clidle  2022.05.25-2  Play Wordle over SSH  https://github.com/ajeetdsouza/clidle 
@@ -397,7 +397,7 @@
  e2tools  0.1.2  mtools analogue for ext2/3 filesystems  https://github.com/e2tools/e2tools 
  ebook-tools  0.2.2-2  Tools for accessing and converting various ebook file formats  https://sourceforge.net/projects/ebook-tools/ 
  ecj  1:4.12-5  Eclipse Compiler for Java  https://www.eclipse.org/jdt/core/ 
- ed  1.22.1  Classic UNIX line editor  https://www.gnu.org/software/ed/ 
+ ed  1.22.2  Classic UNIX line editor  https://www.gnu.org/software/ed/ 
  edbrowse  3.8.12  Line based editor, browser, and mail client  https://edbrowse.org/ 
  editorconfig-core-c  0.12.9  EditorConfig core code written in C (for use by plugins supporting EditorConfig parsing)  https://editorconfig.org/ 
  editorconfig-core-c-static  0.12.9  Static libraries for editorconfig-core-c  https://editorconfig.org/ 
@@ -431,7 +431,7 @@
  exercism  3.5.7  A Go based command line tool for exercism.io  https://github.com/exercism/cli/ 
  exfatprogs  1.2.9  exFAT filesystem userspace utilities  https://github.com/exfatprogs/exfatprogs 
  exhale  1.2.1.2  Open source xHE-AAC encoder  https://gitlab.com/ecodis/exhale 
- exiftool  13.33-1  Utility for reading, writing and editing meta information in a wide variety of files.  https://exiftool.org/ 
+ exiftool  13.34  Utility for reading, writing and editing meta information in a wide variety of files.  https://exiftool.org/ 
  exiv2  2:0.28.5  Exif, Iptc and XMP metadata manipulation library and tools  https://exiv2.org/ 
  expect  5.45.4-3  Tool for automating interactive terminal applications  https://core.tcl.tk/expect/index 
  eza  0.23.0  A modern replacement for ls  https://github.com/eza-community/eza 
@@ -551,16 +551,16 @@
  giflib-utils  5.2.2  A set of utilities that comes with giflib package  https://giflib.sourceforge.net/ 
  gifsicle  1.96  Tool for creating, editing, and getting information about GIF images and animations  https://www.lcdf.org/gifsicle/ 
  gifski  1.34.0  GIF encoder based on libimagequant  https://gif.ski/ 
- git  2.50.1-1  Fast, scalable, distributed revision control system  https://git-scm.com/ 
+ git  2.51.0  Fast, scalable, distributed revision control system  https://git-scm.com/ 
  git-credential-manager  2.6.1  Cross-platform Git credential storage for multiple hosting providers  https://aka.ms/gcm 
  git-crypt  0.7.0-2  Enables transparent encryption and decryption of files for a git repository  https://www.agwa.name/projects/git-crypt/ 
  git-delta  0.18.2-2  A syntax-highlighter for git and diff output  https://dandavison.github.io/delta/ 
  git-extras  7.4.0-1  Little git extras.  https://github.com/tj/git-extras 
- git-gitk  2.50.1-1  Git repository browser  https://git-scm.com/ 
- git-gui  2.50.1-1  A graphical interface to Git  https://git-scm.com/ 
+ git-gitk  2.51.0  Git repository browser  https://git-scm.com/ 
+ git-gui  2.51.0  A graphical interface to Git  https://git-scm.com/ 
  git-lfs  3.7.0  Git extension for versioning large files  https://git-lfs.github.com/ 
  git-sizer  1.5.0-4  Compute various size metrics for a Git repository  https://github.com/github/git-sizer 
- git-svn  2.50.1-1  Convert between Git and Subversion repositories  https://git-scm.com/ 
+ git-svn  2.51.0  Convert between Git and Subversion repositories  https://git-scm.com/ 
  gitea  1.24.5  Git with a cup of tea, painless self-hosted git service  https://gitea.io 
  gitflow-avh  1.12.3-9  Extend git with Vincent Driessen's branching model. The AVH Edition adds more functionality.  https://github.com/petervanderdoes/gitflow/ 
  gitoxide  0.45.0  Rust implementation of Git  https://github.com/Byron/gitoxide 
@@ -931,7 +931,7 @@
  libcoinor-utils  1:2.11.11  An open-source collection of classes and helper functions for COIN-OR projects  https://github.com/coin-or/CoinUtils 
  libcoinor-utils-static  1:2.11.11  Static libraries for libcoinor-utils  https://github.com/coin-or/CoinUtils 
  libcommons-lang3-java  3.18.0-1  A host of helper utilities for the java.lang API  https://commons.apache.org/proper/commons-lang/ 
- libcompiler-rt  20.1.8-2  Compiler runtime libraries for clang  https://clang.llvm.org/ 
+ libcompiler-rt  20.1.8-3  Compiler runtime libraries for clang  https://clang.llvm.org/ 
  libconfig  1.8.1  C/C++ Configuration File Library  https://github.com/hyperrealm/libconfig 
  libconfig-static  1.8.1  Static libraries for libconfig  https://github.com/hyperrealm/libconfig 
  libconfuse  3.3  Small configuration file parser library for C  https://github.com/martinh/libconfuse 
@@ -1111,8 +1111,8 @@
  liblightning-static  2.2.3  Static libraries for liblightning  https://www.gnu.org/software/lightning/ 
  libliquid-dsp  1.7.0  Software-defined radio digital signal processing library  https://liquidsdr.org/ 
  libliquid-dsp-static  1.7.0  Static libraries for libliquid-dsp  https://liquidsdr.org/ 
- libllvm  20.1.8-2  Modular compiler and toolchain technologies library  https://clang.llvm.org/ 
- libllvm-static  20.1.8-2  Static libraries for libllvm  https://clang.llvm.org/ 
+ libllvm  20.1.8-3  Modular compiler and toolchain technologies library  https://clang.llvm.org/ 
+ libllvm-static  20.1.8-3  Static libraries for libllvm  https://clang.llvm.org/ 
  liblmdb  0.9.33  LMDB implements a simplified variant of the BerkeleyDB (BDB) API  https://symas.com/lmdb/ 
  liblmdb-static  0.9.33  Static libraries for liblmdb  https://symas.com/lmdb/ 
  liblo  0.32  A lightweight library that provides an easy to use implementation of the OSC protocol  https://liblo.sourceforge.net/ 
@@ -1278,7 +1278,7 @@
  libpngwriter  0.7.0  C++ library for creating PNG images  http://pngwriter.sourceforge.net 
  libpngwriter-static  0.7.0  Static libraries for libpngwriter  http://pngwriter.sourceforge.net 
  libpoco  1.14.2  A comprehensive set of C++ libraries that cover all modern-day programming needs  https://pocoproject.org/ 
- libpolly  20.1.8-2  High-level loop and data-locality optimizer for clang  https://clang.llvm.org/ 
+ libpolly  20.1.8-3  High-level loop and data-locality optimizer for clang  https://clang.llvm.org/ 
  libpopt  1.19-2  Library for parsing cmdline parameters  https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html 
  libpopt-static  1.19-2  Static libraries for libpopt  https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html 
  libprotobuf  2:30.0-3  Protocol buffers C++ library  https://github.com/protocolbuffers/protobuf 
@@ -1552,14 +1552,15 @@
  littlecms-static  2.17  Static libraries for littlecms  http://www.littlecms.com/ 
  littlecms-utils  2.17  Color management utilities  http://www.littlecms.com/ 
  llbuild  6.1  A low-level build system, used by the Swift Package Manager  https://github.com/swiftlang/swift-llbuild 
- lld  20.1.8-2  LLVM-based linker  https://clang.llvm.org/ 
- llvm  20.1.8-2  LLVM modular compiler and toolchain executables  https://clang.llvm.org/ 
+ lld  20.1.8-3  LLVM-based linker  https://clang.llvm.org/ 
+ lldb  20.1.8-3  LLVM-based debugger  https://clang.llvm.org/ 
+ llvm  20.1.8-3  LLVM modular compiler and toolchain executables  https://clang.llvm.org/ 
  llvm-mingw-w64  20250402-1  MinGW-w64 toolchain based on LLVM  https://github.com/mstorsjo/llvm-mingw 
  llvm-mingw-w64-libcompiler-rt  20250402  Compiler runtime libraries for LLVM-MinGW  https://www.llvm.org/ 
  llvm-mingw-w64-tools  12.0.0  MinGW-w64 tools for LLVM-MinGW  https://github.com/mstorsjo/llvm-mingw 
  llvm-mingw-w64-ucrt  20250402  MinGW-w64 runtime for LLVM-MinGW  https://www.mingw-w64.org/ 
- llvm-tools  20.1.8-2  LLVM Development Tools  https://clang.llvm.org/ 
- llvmgold  20.1.8-2  LLVM gold plugin  https://clang.llvm.org/ 
+ llvm-tools  20.1.8-3  LLVM Development Tools  https://clang.llvm.org/ 
+ llvmgold  20.1.8-3  LLVM gold plugin  https://clang.llvm.org/ 
  lnav  0.12.3  An advanced log file viewer for the small-scale  https://lnav.org/ 
  lnd  0.17.0-beta-0  Lightning Network Daemon  https://github.com/lightningnetwork/lnd 
  logo-ls  2024.07.17  Modern ls command with vscode like File Icon and Git Integrations  https://github.com/Yash-Handa/logo-ls 
@@ -1683,7 +1684,7 @@
  mkp224o  1.7.0  Generate vanity ed25519 (hidden service version 3) onion addresses  https://github.com/cathugger/mkp224o 
  mksh  59c-2  The MirBSD Korn Shell - an enhanced version of the public domain ksh  http://www.mirbsd.org/mksh.htm 
  mktorrent  1.1-p20210130-0  command line utility to create BitTorrent metainfo files  https://github.com/Rudde/mktorrent 
- mlir  20.1.8-2  A Multi-Level Intermediate Representation for compilers from LLVM  https://clang.llvm.org/ 
+ mlir  20.1.8-3  A Multi-Level Intermediate Representation for compilers from LLVM  https://clang.llvm.org/ 
  mlocate  0.26-5  Tool to find files anywhere in the filesystem based on their name  https://pagure.io/mlocate 
  mold  2.40.4  mold: A Modern Linker  https://github.com/rui314/mold 
  monero  0.18.4.1  A private, secure, untraceable, decentralised digital currency  https://getmonero.org/ 
@@ -1874,8 +1875,8 @@
  ossp-uuid  1.6.2-3  ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122.  http://www.ossp.org/pkg/lib/uuid/ 
  ossp-uuid-static  1.6.2-3  Static libraries for ossp-uuid  http://www.ossp.org/pkg/lib/uuid/ 
  ovmf  20231122-16.fc40-0  Open Virtual Machine Firmware  https://www.tianocore.org/ 
- oxc-language-server  1.11.2  Oxc JavaScript linter language server  https://oxc.rs/ 
- oxlint  1.11.2  Oxc JavaScript linter  https://oxc.rs/ 
+ oxc-language-server  1.12.0  Oxc JavaScript linter language server  https://oxc.rs/ 
+ oxlint  1.12.0  Oxc JavaScript linter  https://oxc.rs/ 
  p11-kit  0.25.5  Provides a way to load and enumerate PKCS#11 modules  https://p11-glue.github.io/p11-glue/p11-kit.html 
  p7zip  17.06  Command-line version of the 7zip compressed file archiver  https://github.com/p7zip-project/p7zip 
  pacman  7.0.0-3  A library-based package manager with dependency support  https://archlinux.org/pacman/ 
@@ -2513,7 +2514,7 @@
  util-linux-static  2.40.2-5  Static libraries for util-linux  https://en.wikipedia.org/wiki/Util-linux 
  uucp  1.07-1  The standard UUCP package of the Free Software Foundation  https://www.airs.com/ian/uucp.html 
  uuid-utils  2.40.2-5  Utilities for handling universally unique identifiers  https://en.wikipedia.org/wiki/Util-linux 
- uv  0.8.11  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
+ uv  0.8.12  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
  uwsgi  2.0.30  uWSGI application server container  https://projects.unbit.it/uwsgi 
  v2ray  5.37.0  A platform for building proxies to bypass network restrictions  https://www.v2fly.org/ 
  valac  0.56.18  C# like language for the GObject system  https://wiki.gnome.org/Projects/Vala 

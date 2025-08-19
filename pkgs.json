@@ -1381,7 +1381,7 @@
   },
   {
     "Package": "clang",
-    "Version": "20.1.8-2",
+    "Version": "20.1.8-3",
     "Description": "C language frontend for LLVM",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -2395,7 +2395,7 @@
   },
   {
     "Package": "ed",
-    "Version": "1.22.1",
+    "Version": "1.22.2",
     "Description": "Classic UNIX line editor",
     "Homepage": "https://www.gnu.org/software/ed/"
   },
@@ -2599,7 +2599,7 @@
   },
   {
     "Package": "exiftool",
-    "Version": "13.33-1",
+    "Version": "13.34",
     "Description": "Utility for reading, writing and editing meta information in a wide variety of files.",
     "Homepage": "https://exiftool.org/"
   },
@@ -3319,7 +3319,7 @@
   },
   {
     "Package": "git",
-    "Version": "2.50.1-1",
+    "Version": "2.51.0",
     "Description": "Fast, scalable, distributed revision control system",
     "Homepage": "https://git-scm.com/"
   },
@@ -3349,13 +3349,13 @@
   },
   {
     "Package": "git-gitk",
-    "Version": "2.50.1-1",
+    "Version": "2.51.0",
     "Description": "Git repository browser",
     "Homepage": "https://git-scm.com/"
   },
   {
     "Package": "git-gui",
-    "Version": "2.50.1-1",
+    "Version": "2.51.0",
     "Description": "A graphical interface to Git",
     "Homepage": "https://git-scm.com/"
   },
@@ -3373,7 +3373,7 @@
   },
   {
     "Package": "git-svn",
-    "Version": "2.50.1-1",
+    "Version": "2.51.0",
     "Description": "Convert between Git and Subversion repositories",
     "Homepage": "https://git-scm.com/"
   },
@@ -5599,7 +5599,7 @@
   },
   {
     "Package": "libcompiler-rt",
-    "Version": "20.1.8-2",
+    "Version": "20.1.8-3",
     "Description": "Compiler runtime libraries for clang",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -6679,13 +6679,13 @@
   },
   {
     "Package": "libllvm",
-    "Version": "20.1.8-2",
+    "Version": "20.1.8-3",
     "Description": "Modular compiler and toolchain technologies library",
     "Homepage": "https://clang.llvm.org/"
   },
   {
     "Package": "libllvm-static",
-    "Version": "20.1.8-2",
+    "Version": "20.1.8-3",
     "Description": "Static libraries for libllvm",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -7681,7 +7681,7 @@
   },
   {
     "Package": "libpolly",
-    "Version": "20.1.8-2",
+    "Version": "20.1.8-3",
     "Description": "High-level loop and data-locality optimizer for clang",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -9325,13 +9325,19 @@
   },
   {
     "Package": "lld",
-    "Version": "20.1.8-2",
+    "Version": "20.1.8-3",
     "Description": "LLVM-based linker",
     "Homepage": "https://clang.llvm.org/"
   },
   {
+    "Package": "lldb",
+    "Version": "20.1.8-3",
+    "Description": "LLVM-based debugger",
+    "Homepage": "https://clang.llvm.org/"
+  },
+  {
     "Package": "llvm",
-    "Version": "20.1.8-2",
+    "Version": "20.1.8-3",
     "Description": "LLVM modular compiler and toolchain executables",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -9361,13 +9367,13 @@
   },
   {
     "Package": "llvm-tools",
-    "Version": "20.1.8-2",
+    "Version": "20.1.8-3",
     "Description": "LLVM Development Tools",
     "Homepage": "https://clang.llvm.org/"
   },
   {
     "Package": "llvmgold",
-    "Version": "20.1.8-2",
+    "Version": "20.1.8-3",
     "Description": "LLVM gold plugin",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -10111,7 +10117,7 @@
   },
   {
     "Package": "mlir",
-    "Version": "20.1.8-2",
+    "Version": "20.1.8-3",
     "Description": "A Multi-Level Intermediate Representation for compilers from LLVM",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -11257,13 +11263,13 @@
   },
   {
     "Package": "oxc-language-server",
-    "Version": "1.11.2",
+    "Version": "1.12.0",
     "Description": "Oxc JavaScript linter language server",
     "Homepage": "https://oxc.rs/"
   },
   {
     "Package": "oxlint",
-    "Version": "1.11.2",
+    "Version": "1.12.0",
     "Description": "Oxc JavaScript linter",
     "Homepage": "https://oxc.rs/"
   },
@@ -15091,7 +15097,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.8.11",
+    "Version": "0.8.12",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },

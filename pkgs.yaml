@@ -919,7 +919,7 @@
   Description: Static libraries for clamav
   Homepage: https://www.clamav.net/
 - Package: clang
-  Version: 20.1.8-2
+  Version: 20.1.8-3
   Description: C language frontend for LLVM
   Homepage: https://clang.llvm.org/
 - Package: clblast
@@ -1595,7 +1595,7 @@
   Description: Eclipse Compiler for Java
   Homepage: https://www.eclipse.org/jdt/core/
 - Package: ed
-  Version: 1.22.1
+  Version: 1.22.2
   Description: Classic UNIX line editor
   Homepage: https://www.gnu.org/software/ed/
 - Package: edbrowse
@@ -1731,7 +1731,7 @@
   Description: Open source xHE-AAC encoder
   Homepage: https://gitlab.com/ecodis/exhale
 - Package: exiftool
-  Version: 13.33-1
+  Version: "13.34"
   Description: Utility for reading, writing and editing meta information in a wide variety of files.
   Homepage: https://exiftool.org/
 - Package: exiv2
@@ -2211,7 +2211,7 @@
   Description: GIF encoder based on libimagequant
   Homepage: https://gif.ski/
 - Package: git
-  Version: 2.50.1-1
+  Version: 2.51.0
   Description: Fast, scalable, distributed revision control system
   Homepage: https://git-scm.com/
 - Package: git-credential-manager
@@ -2231,11 +2231,11 @@
   Description: Little git extras.
   Homepage: https://github.com/tj/git-extras
 - Package: git-gitk
-  Version: 2.50.1-1
+  Version: 2.51.0
   Description: Git repository browser
   Homepage: https://git-scm.com/
 - Package: git-gui
-  Version: 2.50.1-1
+  Version: 2.51.0
   Description: A graphical interface to Git
   Homepage: https://git-scm.com/
 - Package: git-lfs
@@ -2247,7 +2247,7 @@
   Description: Compute various size metrics for a Git repository
   Homepage: https://github.com/github/git-sizer
 - Package: git-svn
-  Version: 2.50.1-1
+  Version: 2.51.0
   Description: Convert between Git and Subversion repositories
   Homepage: https://git-scm.com/
 - Package: gitea
@@ -3731,7 +3731,7 @@
   Description: A host of helper utilities for the java.lang API
   Homepage: https://commons.apache.org/proper/commons-lang/
 - Package: libcompiler-rt
-  Version: 20.1.8-2
+  Version: 20.1.8-3
   Description: Compiler runtime libraries for clang
   Homepage: https://clang.llvm.org/
 - Package: libconfig
@@ -4451,11 +4451,11 @@
   Description: Static libraries for libliquid-dsp
   Homepage: https://liquidsdr.org/
 - Package: libllvm
-  Version: 20.1.8-2
+  Version: 20.1.8-3
   Description: Modular compiler and toolchain technologies library
   Homepage: https://clang.llvm.org/
 - Package: libllvm-static
-  Version: 20.1.8-2
+  Version: 20.1.8-3
   Description: Static libraries for libllvm
   Homepage: https://clang.llvm.org/
 - Package: liblmdb
@@ -5119,7 +5119,7 @@
   Description: A comprehensive set of C++ libraries that cover all modern-day programming needs
   Homepage: https://pocoproject.org/
 - Package: libpolly
-  Version: 20.1.8-2
+  Version: 20.1.8-3
   Description: High-level loop and data-locality optimizer for clang
   Homepage: https://clang.llvm.org/
 - Package: libpopt
@@ -6215,11 +6215,15 @@
   Description: A low-level build system, used by the Swift Package Manager
   Homepage: https://github.com/swiftlang/swift-llbuild
 - Package: lld
-  Version: 20.1.8-2
+  Version: 20.1.8-3
   Description: LLVM-based linker
   Homepage: https://clang.llvm.org/
+- Package: lldb
+  Version: 20.1.8-3
+  Description: LLVM-based debugger
+  Homepage: https://clang.llvm.org/
 - Package: llvm
-  Version: 20.1.8-2
+  Version: 20.1.8-3
   Description: LLVM modular compiler and toolchain executables
   Homepage: https://clang.llvm.org/
 - Package: llvm-mingw-w64
@@ -6239,11 +6243,11 @@
   Description: MinGW-w64 runtime for LLVM-MinGW
   Homepage: https://www.mingw-w64.org/
 - Package: llvm-tools
-  Version: 20.1.8-2
+  Version: 20.1.8-3
   Description: LLVM Development Tools
   Homepage: https://clang.llvm.org/
 - Package: llvmgold
-  Version: 20.1.8-2
+  Version: 20.1.8-3
   Description: LLVM gold plugin
   Homepage: https://clang.llvm.org/
 - Package: lnav
@@ -6739,7 +6743,7 @@
   Description: command line utility to create BitTorrent metainfo files
   Homepage: https://github.com/Rudde/mktorrent
 - Package: mlir
-  Version: 20.1.8-2
+  Version: 20.1.8-3
   Description: A Multi-Level Intermediate Representation for compilers from LLVM
   Homepage: https://clang.llvm.org/
 - Package: mlocate
@@ -7503,11 +7507,11 @@
   Description: Open Virtual Machine Firmware
   Homepage: https://www.tianocore.org/
 - Package: oxc-language-server
-  Version: 1.11.2
+  Version: 1.12.0
   Description: Oxc JavaScript linter language server
   Homepage: https://oxc.rs/
 - Package: oxlint
-  Version: 1.11.2
+  Version: 1.12.0
   Description: Oxc JavaScript linter
   Homepage: https://oxc.rs/
 - Package: p11-kit
@@ -10059,7 +10063,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.8.11
+  Version: 0.8.12
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
