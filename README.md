@@ -349,7 +349,7 @@
 | **dnslookup** | 1.11.1-1 | Simple command line utility to make DNS lookups. Supports all known DNS protocols: plain DNS, DoH, DoT, DoQ, DNSCrypt. | https://github.com/ameshkov/dnslookup |
 | **dnsmap** | 0.36-2 | Subdomain Bruteforcing Tool | https://github.com/resurrecting-open-source-projects/dnsmap |
 | **dnstop** | 2022.10.19 | A libpcap application that displays various tables of DNS traffic on your network | https://github.com/measurement-factory/dnstop |
-| **dnsutils** | 9.20.11 | Clients provided with BIND | https://www.isc.org/bind/ |
+| **dnsutils** | 9.20.12 | Clients provided with BIND | https://www.isc.org/bind/ |
 | **docbook-xml** | 5.1 | A widely used XML scheme for writing documentation and help | https://www.oasis-open.org/docbook/ |
 | **docbook-xsl** | 1.79.2-2 | XML stylesheets for Docbook-xml transformations | https://docbook.org/ |
 | **docopt** | 0.6.3-3 | Command line arguments parser for C++11 and later | http://docopt.org |
