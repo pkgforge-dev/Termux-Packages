@@ -3039,7 +3039,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.2311
+  Version: 0.22.2315
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -8231,7 +8231,7 @@
   Description: The Python X Library
   Homepage: https://github.com/python-xlib/python-xlib
 - Package: python-yt-dlp
-  Version: 2025.08.11
+  Version: 2025.08.20
   Description: A youtube-dl fork with additional features and fixes
   Homepage: https://github.com/yt-dlp/yt-dlp
 - Package: python2
@@ -8975,7 +8975,7 @@
   Description: A simple heat transfer simulator in pure Rust
   Homepage: https://github.com/file-acomplaint/simuwaerm
 - Package: sing-box
-  Version: 1.12.1
+  Version: 1.12.2
   Description: The universal proxy platform
   Homepage: https://sing-box.sagernet.org
 - Package: skate
@@ -9671,11 +9671,11 @@
   Description: Flexible, screen-oriented MUD client, for use with any type of MUD
   Homepage: https://tinyfugue.sourceforge.net/
 - Package: tinygo
-  Version: 0.38.0
+  Version: 0.39.0
   Description: Go compiler for microcontrollers, WASM, CLI tools
   Homepage: https://tinygo.org
 - Package: tinygo-common
-  Version: 0.38.0
+  Version: 0.39.0
   Description: TinyGo common files
   Homepage: https://tinygo.org
 - Package: tinyproxy
