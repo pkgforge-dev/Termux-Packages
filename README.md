@@ -1683,7 +1683,7 @@
 | **minesweeper** | 0.3.1-3 | A simple terminal-based implementation of Minesweeper | https://github.com/benhsm/minesweeper |
 | **minicom** | 2.10 | Friendly menu driven serial communication program | https://salsa.debian.org/minicom-team/minicom |
 | **minidlna** | 1.3.3-2 | A server software with the aim of being fully compliant with DLNA/UPnP-AV clients | https://sourceforge.net/projects/minidlna/ |
-| **miniflux** | 2.2.11 | A minimalist and opinionated feed reader | https://miniflux.app/ |
+| **miniflux** | 2.2.12 | A minimalist and opinionated feed reader | https://miniflux.app/ |
 | **minimodem** | 0.24-1-0 | General-purpose software audio FSK modem | http://www.whence.com/minimodem/ |
 | **minio** | 2025.07.23.15.54.02 | Multi-Cloud Object Storage | https://min.io/ |
 | **miniserve** | 0.31.0 | Tool to serve files and dirs over HTTP | https://github.com/svenstaro/miniserve |
