@@ -257,7 +257,7 @@
 | **colm-static** | 0.14.7-1 | Static libraries for colm | https://www.colm.net/open-source/colm/ |
 | **colordiff** | 1.0.21 | Tool to colorize 'diff' output | https://www.colordiff.org/ |
 | **command-not-found** | 3.1-8 | Suggest installation of packages in interactive shell sessions | https://github.com/termux/command-not-found |
-| **composer** | 2.8.10 | Dependency Manager for PHP | https://getcomposer.org/ |
+| **composer** | 2.8.11 | Dependency Manager for PHP | https://getcomposer.org/ |
 | **console-bridge** | 1.0.2 | A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages | https://github.com/ros/console_bridge |
 | **convertlit** | 1.8-1 | An extractor/converter for .LIT eBooks | http://www.convertlit.com/ |
 | **cookcli** | 0.14.0 | A suite of tools to create shopping lists and maintain food recipes | https://cooklang.org |
@@ -768,7 +768,7 @@
 | **jbig2enc-static** | 2023.01.08-2 | Static libraries for jbig2enc | https://github.com/agl/jbig2enc |
 | **jcal** | 0.5.1 | UNIX-cal-like tool to display Jalali (Persian/Iranian) calendar | http://nongnu.org/jcal |
 | **jcal-static** | 0.5.1 | Static libraries for jcal | http://nongnu.org/jcal |
-| **jfrog-cli** | 2.78.3 | A CLI for JFrog products | https://jfrog.com/getcli |
+| **jfrog-cli** | 2.78.5 | A CLI for JFrog products | https://jfrog.com/getcli |
 | **jftui** | 0.7.5 | jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server. | https://github.com/Aanok/jftui |
 | **jhead** | 3.08 | Exif Jpeg header manipulation tool | http://www.sentex.net/~mwandel/jhead/ |
 | **jigdo** | 0.8.2 | Distribute large images by sending and receiving the files that make them up | http://atterer.org/jigdo/ |
@@ -807,7 +807,7 @@
 | **knot-utils** | 3.2.4-1 | Knot DNS utilities | https://www.knot-dns.cz/ |
 | **kona** | 20211225 | Open-source implementation of the APL-like K programming language | https://github.com/kevinlawler/kona |
 | **kotlin** | 2.2.10 | The Kotlin Programming Language | https://kotlinlang.org/ |
-| **krb5** | 1.22 | The Kerberos network authentication system | https://web.mit.edu/kerberos |
+| **krb5** | 1.22.1 | The Kerberos network authentication system | https://web.mit.edu/kerberos |
 | **kubecolor** | 0.5.1 | Colorize your kubectl output | https://github.com/kubecolor/kubecolor |
 | **kubectl** | 1.33.4 | Kubernetes.io client binary | https://kubernetes.io/ |
 | **kubelogin** | 1.34.1 | A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication | https://github.com/int128/kubelogin |
@@ -1735,7 +1735,7 @@
 | **n2n** | 3.1.1 | A light VPN software | https://github.com/ntop/n2n |
 | **nala** | 0.16.0 | Commandline frontend for the apt package manager | https://gitlab.com/volian/nala |
 | **nali** | 0.8.1 | An offline tool for querying IP geographic information and CDN provider | https://github.com/zu1k/nali |
-| **nano** | 8.5-2 | Small, free and friendly text editor | https://www.nano-editor.org/ |
+| **nano** | 8.6 | Small, free and friendly text editor | https://www.nano-editor.org/ |
 | **nasm** | 2.16.03 | A cross-platform x86 assembler with an Intel-like syntax | https://nasm.us |
 | **natpmpc** | 20230423-1 | Portable and fully compliant implementation of NAT-PMP | https://miniupnp.tuxfamily.org/libnatpmp.html |
 | **natpmpc-static** | 20230423-1 | Static libraries for natpmpc | https://miniupnp.tuxfamily.org/libnatpmp.html |

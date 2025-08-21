@@ -1035,7 +1035,7 @@
   Description: Suggest installation of packages in interactive shell sessions
   Homepage: https://github.com/termux/command-not-found
 - Package: composer
-  Version: 2.8.10
+  Version: 2.8.11
   Description: Dependency Manager for PHP
   Homepage: https://getcomposer.org/
 - Package: console-bridge
@@ -3079,7 +3079,7 @@
   Description: Static libraries for jcal
   Homepage: http://nongnu.org/jcal
 - Package: jfrog-cli
-  Version: 2.78.3
+  Version: 2.78.5
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -3235,7 +3235,7 @@
   Description: The Kotlin Programming Language
   Homepage: https://kotlinlang.org/
 - Package: krb5
-  Version: "1.22"
+  Version: 1.22.1
   Description: The Kerberos network authentication system
   Homepage: https://web.mit.edu/kerberos
 - Package: kubecolor
@@ -6947,7 +6947,7 @@
   Description: An offline tool for querying IP geographic information and CDN provider
   Homepage: https://github.com/zu1k/nali
 - Package: nano
-  Version: 8.5-2
+  Version: "8.6"
   Description: Small, free and friendly text editor
   Homepage: https://www.nano-editor.org/
 - Package: nasm
