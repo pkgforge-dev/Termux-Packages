@@ -3997,19 +3997,19 @@
   },
   {
     "Package": "harfbuzz",
-    "Version": "11.4.1",
+    "Version": "11.4.2",
     "Description": "OpenType text shaping engine",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-icu",
-    "Version": "11.4.1",
+    "Version": "11.4.2",
     "Description": "OpenType text shaping engine ICU backend",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-utils",
-    "Version": "11.4.1",
+    "Version": "11.4.2",
     "Description": "Tools using the harfbuzz library",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
@@ -4561,7 +4561,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.22.2315",
+    "Version": "0.22.2319",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -9565,7 +9565,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.15.0",
+    "Version": "0.15.4",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://nvim-neorocks.github.io/"
   },
@@ -13465,7 +13465,7 @@
   },
   {
     "Package": "sing-box",
-    "Version": "1.12.2",
+    "Version": "1.12.3",
     "Description": "The universal proxy platform",
     "Homepage": "https://sing-box.sagernet.org"
   },
@@ -14221,7 +14221,7 @@
   },
   {
     "Package": "teleport-tsh",
-    "Version": "18.1.5",
+    "Version": "18.1.6",
     "Description": "Secure Access for Developers that doesnt get in the way",
     "Homepage": "https://github.com/gravitational/teleport"
   },

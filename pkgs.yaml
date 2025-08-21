@@ -2663,15 +2663,15 @@
   Description: The Reliable, High Performance TCP/HTTP Load Balancer
   Homepage: https://www.haproxy.org/
 - Package: harfbuzz
-  Version: 11.4.1
+  Version: 11.4.2
   Description: OpenType text shaping engine
   Homepage: https://www.freedesktop.org/wiki/Software/HarfBuzz/
 - Package: harfbuzz-icu
-  Version: 11.4.1
+  Version: 11.4.2
   Description: OpenType text shaping engine ICU backend
   Homepage: https://www.freedesktop.org/wiki/Software/HarfBuzz/
 - Package: harfbuzz-utils
-  Version: 11.4.1
+  Version: 11.4.2
   Description: Tools using the harfbuzz library
   Homepage: https://www.freedesktop.org/wiki/Software/HarfBuzz/
 - Package: has
@@ -3039,7 +3039,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.2315
+  Version: 0.22.2319
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -6375,7 +6375,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.15.0
+  Version: 0.15.4
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://nvim-neorocks.github.io/
 - Package: lv2
@@ -8975,7 +8975,7 @@
   Description: A simple heat transfer simulator in pure Rust
   Homepage: https://github.com/file-acomplaint/simuwaerm
 - Package: sing-box
-  Version: 1.12.2
+  Version: 1.12.3
   Description: The universal proxy platform
   Homepage: https://sing-box.sagernet.org
 - Package: skate
@@ -9479,7 +9479,7 @@
   Description: Telegram messenger CLI
   Homepage: https://github.com/vysheng/tg
 - Package: teleport-tsh
-  Version: 18.1.5
+  Version: 18.1.6
   Description: Secure Access for Developers that doesnt get in the way
   Homepage: https://github.com/gravitational/teleport
 - Package: tenki-php
