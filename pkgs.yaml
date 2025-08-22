@@ -3039,7 +3039,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.2319
+  Version: 0.22.2321
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -8591,7 +8591,7 @@
   Description: UNIX-like reverse engineering framework and command-line toolset.
   Homepage: https://rizin.re
 - Package: rlwrap
-  Version: 0.46.2
+  Version: "0.47"
   Description: Wrapper using readline to enable editing of keyboard input for commands
   Homepage: https://github.com/hanslub42/rlwrap
 - Package: rnr

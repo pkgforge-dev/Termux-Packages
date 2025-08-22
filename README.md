@@ -770,7 +770,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-1 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.22.2319 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.22.2321 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **jadx** | 1.5.2 | Dex to Java decompiler | https://github.com/skylot/jadx |
 | **jadx-x** | 1.5.2 | Dex to Java decompiler GUI | https://github.com/skylot/jadx |
 | **janet** | 1.38.0 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
@@ -2158,7 +2158,7 @@
 | **ripsecrets** | 0.1.11 | A command-line tool to prevent committing secret keys into your source code | https://github.com/sirwart/ripsecrets |
 | **rirc** | 0.1.7-1 | A terminal IRC client in C | https://github.com/rcr/rirc |
 | **rizin** | 0.8.1 | UNIX-like reverse engineering framework and command-line toolset. | https://rizin.re |
-| **rlwrap** | 0.46.2 | Wrapper using readline to enable editing of keyboard input for commands | https://github.com/hanslub42/rlwrap |
+| **rlwrap** | 0.47 | Wrapper using readline to enable editing of keyboard input for commands | https://github.com/hanslub42/rlwrap |
 | **rnr** | 0.5.0 | Batch rename files and directories using regular expression (rust) | https://github.com/ismaelgv/rnr |
 | **robin-map** | 1.4.0 | C++ implementation of a fast hash map and hash set using robin hood hashing | https://github.com/Tessil/robin-map/ |
 | **robotfindskitten** | 2022.05.21 | A very fun adventure game for robots and humans | https://github.com/noncombatant/robotfindskitten |
