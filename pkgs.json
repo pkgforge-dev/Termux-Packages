@@ -3025,7 +3025,7 @@
   },
   {
     "Package": "fx",
-    "Version": "39.0.1",
+    "Version": "39.0.2",
     "Description": "Interactive JSON viewer on your terminal",
     "Homepage": "https://github.com/antonmedv/fx"
   },
@@ -3271,7 +3271,7 @@
   },
   {
     "Package": "gh",
-    "Version": "2.76.2",
+    "Version": "2.78.0",
     "Description": "GitHub’s official command line tool",
     "Homepage": "https://cli.github.com/"
   },
@@ -5047,7 +5047,7 @@
   },
   {
     "Package": "libaml",
-    "Version": "1.0.0",
+    "Version": "1.0.0-1",
     "Description": "Andris Main Loop library",
     "Homepage": "https://github.com/any1/aml"
   },
@@ -12271,7 +12271,7 @@
   },
   {
     "Package": "python-ruff",
-    "Version": "0.12.9",
+    "Version": "0.12.10",
     "Description": "An extremely fast Python linter, written in Rust (Python bindings)",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -13027,7 +13027,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.12.9",
+    "Version": "0.12.10",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -15097,7 +15097,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.8.12",
+    "Version": "0.8.13",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
@@ -15319,7 +15319,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "2025.08.21",
+    "Version": "2025.08.22a",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://github.com/directvt/vtm"
   },

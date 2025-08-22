@@ -514,7 +514,7 @@
 | **fsmon** | 1.8.8 | Filesystem monitor with fanotify and inotify backends | https://github.com/nowsecure/fsmon |
 | **fwknop** | 2.6.11 | fwknop: Single Packet Authorization > Port Knocking | https://www.cipherdyne.org/fwknop/ |
 | **fwknop-static** | 2.6.11 | Static libraries for fwknop | https://www.cipherdyne.org/fwknop/ |
-| **fx** | 39.0.1 | Interactive JSON viewer on your terminal | https://github.com/antonmedv/fx |
+| **fx** | 39.0.2 | Interactive JSON viewer on your terminal | https://github.com/antonmedv/fx |
 | **fzf** | 0.65.1 | Command-line fuzzy finder | https://junegunn.github.io/fzf/ |
 | **fzy** | 1.1 | A simple, fast fuzzy finder for the terminal | https://github.com/jhawthorn/fzy |
 | **g-ir-scanner** | 1.84.0 | A tool which generates GIR XML files | https://gi.readthedocs.io/ |
@@ -555,7 +555,7 @@
 | **gflags** | 2.2.2-9 | A C++ library that implements commandline flags processing | https://github.com/gflags/gflags |
 | **gflags-static** | 2.2.2-9 | Static libraries for gflags | https://github.com/gflags/gflags |
 | **gforth** | 0.7.3-1 | The Forth implementation of the GNU project | https://www.gnu.org/software/gforth/ |
-| **gh** | 2.76.2 | GitHub’s official command line tool | https://cli.github.com/ |
+| **gh** | 2.78.0 | GitHub’s official command line tool | https://cli.github.com/ |
 | **ghc** | 9.12.2 | The Glasgow Haskell Compiler | https://www.haskell.org/ghc/ |
 | **ghostscript** | 10.05.1 | Interpreter for the PostScript language and for PDF | https://www.ghostscript.com/ |
 | **giflib** | 5.2.2 | A library for reading and writing gif images | https://giflib.sourceforge.net/ |
@@ -851,7 +851,7 @@
 | **liba52-static** | 0.8.0-2 | Static libraries for liba52 | http://liba52.sourceforge.net/ |
 | **libacl** | 2.3.1 | Access control list shared library | http://savannah.nongnu.org/projects/acl |
 | **libacl-static** | 2.3.1 | Static libraries for libacl | http://savannah.nongnu.org/projects/acl |
-| **libaml** | 1.0.0 | Andri's Main Loop library | https://github.com/any1/aml |
+| **libaml** | 1.0.0-1 | Andri's Main Loop library | https://github.com/any1/aml |
 | **libandroid-complex-math** | 0.2 | A shared library providing libm complex math functions | https://android.googlesource.com/platform/bionic/+/refs/heads/master/libm/upstream-netbsd/lib/libm/complex |
 | **libandroid-complex-math-static** | 0.2 | Static libraries for libandroid-complex-math | https://android.googlesource.com/platform/bionic/+/refs/heads/master/libm/upstream-netbsd/lib/libm/complex |
 | **libandroid-execinfo** | 0.1-1 | Shared library for the backtrace system function | https://man7.org/linux/man-pages/man3/backtrace.3.html |
@@ -2055,7 +2055,7 @@
 | **python-pyarrow** | 21.0.0 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
 | **python-pycryptodomex** | 3.23.0 | A self-contained Python package of low-level cryptographic primitives | https://www.pycryptodome.org/ |
 | **python-pynvim** | 0.5.2 | Python client for Neovim | https://github.com/neovim/pynvim |
-| **python-ruff** | 0.12.9 | An extremely fast Python linter, written in Rust (Python bindings) | https://github.com/charliermarsh/ruff |
+| **python-ruff** | 0.12.10 | An extremely fast Python linter, written in Rust (Python bindings) | https://github.com/charliermarsh/ruff |
 | **python-sabyenc3** | 8.2.6 | C implementations of functions for use within SABnzbd | https://github.com/sabnzbd/sabctools |
 | **python-skia-pathops** | 0.8.0-1 | Python bindings for the Skia library's Path Ops | https://github.com/fonttools/skia-pathops |
 | **python-static** | 3.12.11 | Static libraries for python | https://python.org/ |
@@ -2181,7 +2181,7 @@
 | **rubiks-cube** | 1.2 | A rubik's cube that runs in your terminal | https://github.com/been-jamming/rubiks_cube |
 | **ruby** | 3.4.1-1 | Dynamic programming language with a focus on simplicity and productivity | https://www.ruby-lang.org/ |
 | **ruby-ri** | 3.4.1-1 | Ruby documentation index | https://www.ruby-lang.org/ |
-| **ruff** | 0.12.9 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
+| **ruff** | 0.12.10 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
 | **runit** | 2.1.2-3 | Tools to provide service supervision and to manage services | http://smarden.org/runit |
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.7.0 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
@@ -2526,7 +2526,7 @@
 | **util-linux-static** | 2.40.2-5 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-1 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.40.2-5 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **uv** | 0.8.12 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
+| **uv** | 0.8.13 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.30 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.37.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.18 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
@@ -2563,7 +2563,7 @@
 | **vlc-static** | 3.0.21-9 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-3 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.3 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 2025.08.21 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
+| **vtm** | 2025.08.22a | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
 | **vttest** | 20241208 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-4 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.4.321 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |

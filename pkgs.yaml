@@ -2015,7 +2015,7 @@
   Description: Static libraries for fwknop
   Homepage: https://www.cipherdyne.org/fwknop/
 - Package: fx
-  Version: 39.0.1
+  Version: 39.0.2
   Description: Interactive JSON viewer on your terminal
   Homepage: https://github.com/antonmedv/fx
 - Package: fzf
@@ -2179,7 +2179,7 @@
   Description: The Forth implementation of the GNU project
   Homepage: https://www.gnu.org/software/gforth/
 - Package: gh
-  Version: 2.76.2
+  Version: 2.78.0
   Description: GitHub’s official command line tool
   Homepage: https://cli.github.com/
 - Package: ghc
@@ -3363,7 +3363,7 @@
   Description: Static libraries for libacl
   Homepage: http://savannah.nongnu.org/projects/acl
 - Package: libaml
-  Version: 1.0.0
+  Version: 1.0.0-1
   Description: Andris Main Loop library
   Homepage: https://github.com/any1/aml
 - Package: libandroid-complex-math
@@ -8179,7 +8179,7 @@
   Description: Python client for Neovim
   Homepage: https://github.com/neovim/pynvim
 - Package: python-ruff
-  Version: 0.12.9
+  Version: 0.12.10
   Description: An extremely fast Python linter, written in Rust (Python bindings)
   Homepage: https://github.com/charliermarsh/ruff
 - Package: python-sabyenc3
@@ -8683,7 +8683,7 @@
   Description: Ruby documentation index
   Homepage: https://www.ruby-lang.org/
 - Package: ruff
-  Version: 0.12.9
+  Version: 0.12.10
   Description: An extremely fast Python linter, written in Rust
   Homepage: https://github.com/charliermarsh/ruff
 - Package: runit
@@ -10063,7 +10063,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.8.12
+  Version: 0.8.13
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
@@ -10211,7 +10211,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2025.08.21
+  Version: 2025.08.22a
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vttest
