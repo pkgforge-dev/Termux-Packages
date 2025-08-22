@@ -1111,7 +1111,7 @@
   },
   {
     "Package": "caddy",
-    "Version": "2.10.0",
+    "Version": "2.10.1",
     "Description": "Fast, cross-platform HTTP/2 web server",
     "Homepage": "https://caddyserver.com/"
   },
@@ -7333,7 +7333,7 @@
   },
   {
     "Package": "libnss",
-    "Version": "3.115",
+    "Version": "3.115.1",
     "Description": "Network Security Services (NSS)",
     "Homepage": "https://firefox-source-docs.mozilla.org/security/nss/"
   },
@@ -10825,7 +10825,7 @@
   },
   {
     "Package": "nss-utils",
-    "Version": "3.115",
+    "Version": "3.115.1",
     "Description": "Tools for NSS",
     "Homepage": "https://firefox-source-docs.mozilla.org/security/nss/"
   },
@@ -12667,7 +12667,7 @@
   },
   {
     "Package": "rclone",
-    "Version": "1.70.3",
+    "Version": "1.71.0",
     "Description": "rsync for cloud storage",
     "Homepage": "https://rclone.org/"
   },
@@ -15319,7 +15319,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "2025.08.22a",
+    "Version": "2025.08.23",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://github.com/directvt/vtm"
   },
