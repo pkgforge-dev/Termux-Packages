@@ -2000,7 +2000,7 @@
 | **procps-static** | 3.3.17-5 | Static libraries for procps | https://gitlab.com/procps-ng/procps |
 | **procs** | 0.14.10 | A modern replacement for ps | https://github.com/dalance/procs |
 | **procyon-decompiler** | 0.6.0-2 | A standalone front-end for the Java decompiler in Procyon Compiler Toolset | https://github.com/mstrobel/procyon |
-| **profanity** | 0.15.0 | Profanity is a console based XMPP client written in C using ncurses and libstrophe, inspired by Irssi | https://profanity-im.github.io |
+| **profanity** | 0.15.1 | Profanity is a console based XMPP client written in C using ncurses and libstrophe, inspired by Irssi | https://profanity-im.github.io |
 | **progress** | 0.17 | Linux tool to show progress for cp, mv, dd and more | https://github.com/Xfennec/progress |
 | **proj** | 9.6.2 | Generic coordinate transformation software | https://proj.org |
 | **proot** | 5.1.107-65 | Emulate chroot, bind mount and binfmt_misc for non-root users | https://proot-me.github.io/ |
@@ -2045,7 +2045,7 @@
 | **python-lameenc** | 1.8.1 | Python bindings around the LAME encoder | https://github.com/chrisstaite/lameenc |
 | **python-libsass** | 0.23.0 | A straightforward binding of libsass for Python | https://github.com/sass/libsass-python |
 | **python-llvmlite** | 0.44.0 | A lightweight LLVM python binding for writing JIT compilers | https://llvmlite.pydata.org/ |
-| **python-lxml** | 6.0.0 | Python binding for the libxml2 and libxslt libraries | https://github.com/lxml/lxml |
+| **python-lxml** | 6.0.1 | Python binding for the libxml2 and libxslt libraries | https://github.com/lxml/lxml |
 | **python-msgpack** | 1.1.1 | MessagePack serializer implementation for Python | https://github.com/msgpack/msgpack-python |
 | **python-numpy** | 2.2.5 | The fundamental package for scientific computing with Python | https://numpy.org/ |
 | **python-numpy-static** | 2.2.5 | Static libraries for python-numpy | https://numpy.org/ |
@@ -2158,7 +2158,7 @@
 | **ripsecrets** | 0.1.11 | A command-line tool to prevent committing secret keys into your source code | https://github.com/sirwart/ripsecrets |
 | **rirc** | 0.1.7-1 | A terminal IRC client in C | https://github.com/rcr/rirc |
 | **rizin** | 0.8.1 | UNIX-like reverse engineering framework and command-line toolset. | https://rizin.re |
-| **rlwrap** | 0.47 | Wrapper using readline to enable editing of keyboard input for commands | https://github.com/hanslub42/rlwrap |
+| **rlwrap** | 0.47.1 | Wrapper using readline to enable editing of keyboard input for commands | https://github.com/hanslub42/rlwrap |
 | **rnr** | 0.5.0 | Batch rename files and directories using regular expression (rust) | https://github.com/ismaelgv/rnr |
 | **robin-map** | 1.4.0 | C++ implementation of a fast hash map and hash set using robin hood hashing | https://github.com/Tessil/robin-map/ |
 | **robotfindskitten** | 2022.05.21 | A very fun adventure game for robots and humans | https://github.com/noncombatant/robotfindskitten |
@@ -2357,7 +2357,7 @@
 | **swig** | 4.3.1 | Generate scripting interfaces to C/C++ code | https://swig.org |
 | **swtpm** | 0.10.1 | Software TPM Emulator | https://github.com/stefanberger/swtpm |
 | **swtpm-static** | 0.10.1 | Static libraries for swtpm | https://github.com/stefanberger/swtpm |
-| **syncthing** | 2.0.2 | Decentralized file synchronization | https://syncthing.net/ |
+| **syncthing** | 2.0.3 | Decentralized file synchronization | https://syncthing.net/ |
 | **sysprop** | 13.0.0.15-7 | Generates cpp / java sysprop | https://android.googlesource.com/platform/system/tools/sysprop |
 | **ta-lib** | 0.5.0 | Technical analysis library with indicators like ADX | https://ta-lib.org/ |
 | **ta-lib-static** | 0.5.0 | Static libraries for ta-lib | https://ta-lib.org/ |
