@@ -8043,7 +8043,7 @@
   Description: Password generator which by default, unless given the -s option, generates memorable but insecure passwords
   Homepage: http://pwgen.sourceforge.net/
 - Package: pybind11
-  Version: 3.0.0-1
+  Version: 3.0.1
   Description: A lightweight header-only library that exposes C++ types in Python and vice versa
   Homepage: https://pybind11.readthedocs.io/
 - Package: pycairo
@@ -8231,7 +8231,7 @@
   Description: The Python X Library
   Homepage: https://github.com/python-xlib/python-xlib
 - Package: python-yt-dlp
-  Version: 2025.08.20
+  Version: 2025.08.22
   Description: A youtube-dl fork with additional features and fixes
   Homepage: https://github.com/yt-dlp/yt-dlp
 - Package: python2
