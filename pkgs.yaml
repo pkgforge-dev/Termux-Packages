@@ -2131,7 +2131,7 @@
   Description: gengetopt is a tool to write command line option parsing code for C programs
   Homepage: https://www.gnu.org/software/gengetopt/
 - Package: geographiclib
-  Version: 2.5.1
+  Version: 2.5.2
   Description: Utilities and C++ library to solve some geodesic problems
   Homepage: https://geographiclib.sourceforge.io
 - Package: geoip2-database
@@ -2663,15 +2663,15 @@
   Description: The Reliable, High Performance TCP/HTTP Load Balancer
   Homepage: https://www.haproxy.org/
 - Package: harfbuzz
-  Version: 11.4.2
+  Version: 11.4.3
   Description: OpenType text shaping engine
   Homepage: https://www.freedesktop.org/wiki/Software/HarfBuzz/
 - Package: harfbuzz-icu
-  Version: 11.4.2
+  Version: 11.4.3
   Description: OpenType text shaping engine ICU backend
   Homepage: https://www.freedesktop.org/wiki/Software/HarfBuzz/
 - Package: harfbuzz-utils
-  Version: 11.4.2
+  Version: 11.4.3
   Description: Tools using the harfbuzz library
   Homepage: https://www.freedesktop.org/wiki/Software/HarfBuzz/
 - Package: has
@@ -4099,7 +4099,7 @@
   Description: Static libraries for libgfshare
   Homepage: http://www.digital-scurf.org/software/libgfshare
 - Package: libgit2
-  Version: 1.9.1
+  Version: 1.9.1-1
   Description: C library implementing Git core methods
   Homepage: https://libgit2.github.com/
 - Package: libglibmm-2.4
@@ -5639,7 +5639,7 @@
   Description: Generic library support script hiding the complexity of using shared libraries behind a consistent, portable interface
   Homepage: https://www.gnu.org/software/libtool/
 - Package: libtorrent
-  Version: 0.15.5
+  Version: 0.15.6
   Description: Libtorrent BitTorrent library
   Homepage: https://github.com/rakshasa/rtorrent/wiki
 - Package: libtorrent-rasterbar
@@ -5647,7 +5647,7 @@
   Description: A feature complete C++ bittorrent implementation focusing on efficiency and scalability
   Homepage: https://libtorrent.org/
 - Package: libtorrent-static
-  Version: 0.15.5
+  Version: 0.15.6
   Description: Static libraries for libtorrent
   Homepage: https://github.com/rakshasa/rtorrent/wiki
 - Package: libtpms
@@ -7851,7 +7851,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pocketbase
-  Version: 0.29.2
+  Version: 0.29.3
   Description: An open source Go backend
   Homepage: https://github.com/pocketbase/pocketbase
 - Package: poke
@@ -8647,7 +8647,7 @@
   Description: Static libraries for rtmpdump
   Homepage: https://rtmpdump.mplayerhq.hu/
 - Package: rtorrent
-  Version: 0.15.5
+  Version: 0.15.6
   Description: Ncurses BitTorrent client based on libTorrent
   Homepage: https://rakshasa.github.io/rtorrent/
 - Package: rubberband
@@ -10275,7 +10275,7 @@
   Description: The WebAssembly Binary Toolkit
   Homepage: https://github.com/WebAssembly/wabt
 - Package: wakatime-cli
-  Version: 1.130.4
+  Version: 1.131.0
   Description: Command line interface used by all WakaTime text editor plugins
   Homepage: https://wakatime.com/plugins/
 - Package: walk

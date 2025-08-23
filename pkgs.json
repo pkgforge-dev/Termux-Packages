@@ -3199,7 +3199,7 @@
   },
   {
     "Package": "geographiclib",
-    "Version": "2.5.1",
+    "Version": "2.5.2",
     "Description": "Utilities and C++ library to solve some geodesic problems",
     "Homepage": "https://geographiclib.sourceforge.io"
   },
@@ -3997,19 +3997,19 @@
   },
   {
     "Package": "harfbuzz",
-    "Version": "11.4.2",
+    "Version": "11.4.3",
     "Description": "OpenType text shaping engine",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-icu",
-    "Version": "11.4.2",
+    "Version": "11.4.3",
     "Description": "OpenType text shaping engine ICU backend",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-utils",
-    "Version": "11.4.2",
+    "Version": "11.4.3",
     "Description": "Tools using the harfbuzz library",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
@@ -6151,7 +6151,7 @@
   },
   {
     "Package": "libgit2",
-    "Version": "1.9.1",
+    "Version": "1.9.1-1",
     "Description": "C library implementing Git core methods",
     "Homepage": "https://libgit2.github.com/"
   },
@@ -8461,7 +8461,7 @@
   },
   {
     "Package": "libtorrent",
-    "Version": "0.15.5",
+    "Version": "0.15.6",
     "Description": "Libtorrent BitTorrent library",
     "Homepage": "https://github.com/rakshasa/rtorrent/wiki"
   },
@@ -8473,7 +8473,7 @@
   },
   {
     "Package": "libtorrent-static",
-    "Version": "0.15.5",
+    "Version": "0.15.6",
     "Description": "Static libraries for libtorrent",
     "Homepage": "https://github.com/rakshasa/rtorrent/wiki"
   },
@@ -11779,7 +11779,7 @@
   },
   {
     "Package": "pocketbase",
-    "Version": "0.29.2",
+    "Version": "0.29.3",
     "Description": "An open source Go backend",
     "Homepage": "https://github.com/pocketbase/pocketbase"
   },
@@ -12973,7 +12973,7 @@
   },
   {
     "Package": "rtorrent",
-    "Version": "0.15.5",
+    "Version": "0.15.6",
     "Description": "Ncurses BitTorrent client based on libTorrent",
     "Homepage": "https://rakshasa.github.io/rtorrent/"
   },
@@ -15415,7 +15415,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "1.130.4",
+    "Version": "1.131.0",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },
