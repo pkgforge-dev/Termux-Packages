@@ -1825,7 +1825,7 @@
   },
   {
     "Package": "db",
-    "Version": "18.1.40-4",
+    "Version": "18.1.40-5",
     "Description": "The Berkeley DB embedded database system",
     "Homepage": "https://www.oracle.com/database/berkeley-db"
   },
@@ -2395,7 +2395,7 @@
   },
   {
     "Package": "ed",
-    "Version": "1.22.2",
+    "Version": "1.22.2-1",
     "Description": "Classic UNIX line editor",
     "Homepage": "https://www.gnu.org/software/ed/"
   },
@@ -3133,13 +3133,13 @@
   },
   {
     "Package": "gdbm",
-    "Version": "1.26",
+    "Version": "1.26-1",
     "Description": "Library of database functions that use extensible hashing",
     "Homepage": "https://www.gnu.org.ua/software/gdbm/"
   },
   {
     "Package": "gdbm-static",
-    "Version": "1.26",
+    "Version": "1.26-1",
     "Description": "Static libraries for gdbm",
     "Homepage": "https://www.gnu.org.ua/software/gdbm/"
   },
@@ -4375,13 +4375,13 @@
   },
   {
     "Package": "imagemagick",
-    "Version": "7.1.2.1",
+    "Version": "7.1.2.2",
     "Description": "Suite to create, edit, compose, or convert images in a variety of formats",
     "Homepage": "https://www.imagemagick.org/"
   },
   {
     "Package": "imagemagick-static",
-    "Version": "7.1.2.1",
+    "Version": "7.1.2.2",
     "Description": "Static libraries for imagemagick",
     "Homepage": "https://www.imagemagick.org/"
   },
@@ -5077,13 +5077,13 @@
   },
   {
     "Package": "libandroid-glob",
-    "Version": "0.6-2",
+    "Version": "0.6-3",
     "Description": "Shared library for the glob(3) system function",
     "Homepage": "https://man7.org/linux/man-pages/man3/glob.3.html"
   },
   {
     "Package": "libandroid-glob-static",
-    "Version": "0.6-2",
+    "Version": "0.6-3",
     "Description": "Static libraries for libandroid-glob",
     "Homepage": "https://man7.org/linux/man-pages/man3/glob.3.html"
   },
@@ -5443,13 +5443,13 @@
   },
   {
     "Package": "libcap-ng",
-    "Version": "2:0.8.5",
+    "Version": "2:0.8.5-1",
     "Description": "Library making programming with POSIX capabilities easier than traditional libcap",
     "Homepage": "https://people.redhat.com/sgrubb/libcap-ng/"
   },
   {
     "Package": "libcap-ng-static",
-    "Version": "2:0.8.5",
+    "Version": "2:0.8.5-1",
     "Description": "Static libraries for libcap-ng",
     "Homepage": "https://people.redhat.com/sgrubb/libcap-ng/"
   },
@@ -5713,13 +5713,13 @@
   },
   {
     "Package": "libdb",
-    "Version": "18.1.40-4",
+    "Version": "18.1.40-5",
     "Description": "The Berkeley DB embedded database system (library)",
     "Homepage": "https://www.oracle.com/database/berkeley-db"
   },
   {
     "Package": "libdb-static",
-    "Version": "18.1.40-4",
+    "Version": "18.1.40-5",
     "Description": "Static libraries for libdb",
     "Homepage": "https://www.oracle.com/database/berkeley-db"
   },
@@ -5953,13 +5953,13 @@
   },
   {
     "Package": "libexpat",
-    "Version": "2.7.1",
+    "Version": "2.7.1-1",
     "Description": "XML parsing C library",
     "Homepage": "https://libexpat.github.io/"
   },
   {
     "Package": "libexpat-static",
-    "Version": "2.7.1",
+    "Version": "2.7.1-1",
     "Description": "Static libraries for libexpat",
     "Homepage": "https://libexpat.github.io/"
   },

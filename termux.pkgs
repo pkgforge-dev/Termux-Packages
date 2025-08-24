@@ -302,7 +302,7 @@
 | **dasm** | 2.20.14.1 | Macro assembler with support for several 8-bit microprocessors | https://dasm-dillon.sourceforge.io/ |
 | **datamash** | 1.9 | Program performing numeric, textual and statistical operations | https://www.gnu.org/software/datamash/ |
 | **dateutils** | 0.4.11 | Command line date and time utilities | https://www.fresse.org/dateutils/ |
-| **db** | 18.1.40-4 | The Berkeley DB embedded database system | https://www.oracle.com/database/berkeley-db |
+| **db** | 18.1.40-5 | The Berkeley DB embedded database system | https://www.oracle.com/database/berkeley-db |
 | **dbus** | 1.16.2-1 | Freedesktop.org message bus system | https://dbus.freedesktop.org |
 | **dbus-python** | 1.4.0 | Python bindings for D-Bus | https://dbus.freedesktop.org/doc/dbus-python/ |
 | **dcmtk** | 3.6.9 | A collection of libraries and applications implementing large parts the DICOM standard | https://dicom.offis.de/dcmtk |
@@ -397,7 +397,7 @@
 | **e2tools** | 0.1.2 | mtools analogue for ext2/3 filesystems | https://github.com/e2tools/e2tools |
 | **ebook-tools** | 0.2.2-2 | Tools for accessing and converting various ebook file formats | https://sourceforge.net/projects/ebook-tools/ |
 | **ecj** | 1:4.12-5 | Eclipse Compiler for Java | https://www.eclipse.org/jdt/core/ |
-| **ed** | 1.22.2 | Classic UNIX line editor | https://www.gnu.org/software/ed/ |
+| **ed** | 1.22.2-1 | Classic UNIX line editor | https://www.gnu.org/software/ed/ |
 | **edbrowse** | 3.8.12 | Line based editor, browser, and mail client | https://edbrowse.org/ |
 | **editorconfig-core-c** | 0.12.9 | EditorConfig core code written in C (for use by plugins supporting EditorConfig parsing) | https://editorconfig.org/ |
 | **editorconfig-core-c-static** | 0.12.9 | Static libraries for editorconfig-core-c | https://editorconfig.org/ |
@@ -520,8 +520,8 @@
 | **gcal** | 4.1-3 | Program for calculating and printing calendars | https://www.gnu.org/software/gcal/ |
 | **gdal** | 3.11.3 | A translator library for raster and vector geospatial data formats | https://gdal.org |
 | **gdb** | 15.2 | The standard GNU Debugger that runs on many Unix-like systems and works for many programming languages | https://www.gnu.org/software/gdb/ |
-| **gdbm** | 1.26 | Library of database functions that use extensible hashing | https://www.gnu.org.ua/software/gdbm/ |
-| **gdbm-static** | 1.26 | Static libraries for gdbm | https://www.gnu.org.ua/software/gdbm/ |
+| **gdbm** | 1.26-1 | Library of database functions that use extensible hashing | https://www.gnu.org.ua/software/gdbm/ |
+| **gdbm-static** | 1.26-1 | Static libraries for gdbm | https://www.gnu.org.ua/software/gdbm/ |
 | **gdbserver** | 15.2 | The gdbserver program | https://www.gnu.org/software/gdb/ |
 | **gdk-pixbuf** | 2.42.12-3 | Library for image loading and manipulation | https://wiki.gnome.org/Projects/GdkPixbuf |
 | **gdrive-downloader** | 1:1.1 | Download a gdrive folder or file easily, shell ftw | https://github.com/Akianonymus/gdrive-downloader |
@@ -727,8 +727,8 @@
 | **id3lib** | 3.8.3-3 | A software library for manipulating ID3v1/v1.1 and ID3v2 tags | http://id3lib.sourceforge.net/ |
 | **id3lib-static** | 3.8.3-3 | Static libraries for id3lib | http://id3lib.sourceforge.net/ |
 | **id3v2** | 0.1.12-1 | A command line id3v2 tag editor | http://id3v2.sourceforge.net/ |
-| **imagemagick** | 7.1.2.1 | Suite to create, edit, compose, or convert images in a variety of formats | https://www.imagemagick.org/ |
-| **imagemagick-static** | 7.1.2.1 | Static libraries for imagemagick | https://www.imagemagick.org/ |
+| **imagemagick** | 7.1.2.2 | Suite to create, edit, compose, or convert images in a variety of formats | https://www.imagemagick.org/ |
+| **imagemagick-static** | 7.1.2.2 | Static libraries for imagemagick | https://www.imagemagick.org/ |
 | **imath** | 3.1.12 | Library for vector/matrix and math operations, plus the half type | https://imath.readthedocs.io/ |
 | **imgflo** | 0.4.2-8 | HTTP image processing server & Flowhub.io compatible runtime | https://github.com/imgflo/imgflo |
 | **imlib2** | 1.12.5 | Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support | https://sourceforge.net/projects/enlightenment/ |
@@ -844,8 +844,8 @@
 | **libandroid-complex-math-static** | 0.2 | Static libraries for libandroid-complex-math | https://android.googlesource.com/platform/bionic/+/refs/heads/master/libm/upstream-netbsd/lib/libm/complex |
 | **libandroid-execinfo** | 0.1-1 | Shared library for the backtrace system function | https://man7.org/linux/man-pages/man3/backtrace.3.html |
 | **libandroid-execinfo-static** | 0.1-1 | Static libraries for libandroid-execinfo | https://man7.org/linux/man-pages/man3/backtrace.3.html |
-| **libandroid-glob** | 0.6-2 | Shared library for the glob(3) system function | https://man7.org/linux/man-pages/man3/glob.3.html |
-| **libandroid-glob-static** | 0.6-2 | Static libraries for libandroid-glob | https://man7.org/linux/man-pages/man3/glob.3.html |
+| **libandroid-glob** | 0.6-3 | Shared library for the glob(3) system function | https://man7.org/linux/man-pages/man3/glob.3.html |
+| **libandroid-glob-static** | 0.6-3 | Static libraries for libandroid-glob | https://man7.org/linux/man-pages/man3/glob.3.html |
 | **libandroid-posix-semaphore** | 0.1-3 | Shared library for the posix semaphore system function | https://man7.org/linux/man-pages/man7/sem_overview.7.html |
 | **libandroid-posix-semaphore-static** | 0.1-3 | Static libraries for libandroid-posix-semaphore | https://man7.org/linux/man-pages/man7/sem_overview.7.html |
 | **libandroid-selinux** | 14.0.0.11 | Android fork of libselinux, an SELinux userland library | https://selinuxproject.org |
@@ -905,8 +905,8 @@
 | **libcairomm-1.0** | 1.14.5 | Provides a C++ interface to cairo | https://www.cairographics.org/cairomm/ |
 | **libcairomm-1.16** | 1.18.0 | Provides a C++ interface to cairo | https://www.cairographics.org/cairomm/ |
 | **libcap** | 2.69 | POSIX 1003.1e capabilities | https://sites.google.com/site/fullycapable/ |
-| **libcap-ng** | 2:0.8.5 | Library making programming with POSIX capabilities easier than traditional libcap | https://people.redhat.com/sgrubb/libcap-ng/ |
-| **libcap-ng-static** | 2:0.8.5 | Static libraries for libcap-ng | https://people.redhat.com/sgrubb/libcap-ng/ |
+| **libcap-ng** | 2:0.8.5-1 | Library making programming with POSIX capabilities easier than traditional libcap | https://people.redhat.com/sgrubb/libcap-ng/ |
+| **libcap-ng-static** | 2:0.8.5-1 | Static libraries for libcap-ng | https://people.redhat.com/sgrubb/libcap-ng/ |
 | **libcap-static** | 2.69 | Static libraries for libcap | https://sites.google.com/site/fullycapable/ |
 | **libccd** | 2.1-1 | Library for collision detection between two convex shapes | https://github.com/danfis/libccd |
 | **libcddb** | 1.3.2 | A C library to access data on a CDDB server | http://libcddb.sourceforge.net/ |
@@ -950,8 +950,8 @@
 | **libdaemon** | 0.14 | A lightweight C library that eases the writing of UNIX daemons | https://0pointer.de/lennart/projects/libdaemon/ |
 | **libdaemon-static** | 0.14 | Static libraries for libdaemon | https://0pointer.de/lennart/projects/libdaemon/ |
 | **libdav1d** | 1.5.1 | AV1 cross-platform decoder focused on speed and correctness | https://code.videolan.org/videolan/dav1d/ |
-| **libdb** | 18.1.40-4 | The Berkeley DB embedded database system (library) | https://www.oracle.com/database/berkeley-db |
-| **libdb-static** | 18.1.40-4 | Static libraries for libdb | https://www.oracle.com/database/berkeley-db |
+| **libdb** | 18.1.40-5 | The Berkeley DB embedded database system (library) | https://www.oracle.com/database/berkeley-db |
+| **libdb-static** | 18.1.40-5 | Static libraries for libdb | https://www.oracle.com/database/berkeley-db |
 | **libde265** | 1.0.16 | H.265/HEVC video stream decoder library | https://github.com/strukturag/libde265 |
 | **libde265-static** | 1.0.16 | Static libraries for libde265 | https://github.com/strukturag/libde265 |
 | **libdebuginfod** | 0.193 | Library for debuginfod | https://sourceware.org/elfutils/ |
@@ -990,8 +990,8 @@
 | **libevent** | 2.1.12-3 | Library that provides asynchronous event notification | https://libevent.org/ |
 | **libexif** | 0.6.25 | Library for reading and writing EXIF image metadata | https://libexif.github.io/ |
 | **libexif-static** | 0.6.25 | Static libraries for libexif | https://libexif.github.io/ |
-| **libexpat** | 2.7.1 | XML parsing C library | https://libexpat.github.io/ |
-| **libexpat-static** | 2.7.1 | Static libraries for libexpat | https://libexpat.github.io/ |
+| **libexpat** | 2.7.1-1 | XML parsing C library | https://libexpat.github.io/ |
+| **libexpat-static** | 2.7.1-1 | Static libraries for libexpat | https://libexpat.github.io/ |
 | **libfann** | 2.2.0-1 | Fast artificial neural network library | http://leenissen.dk/fann/wp |
 | **libfcl** | 0.7.0-2 | Flexible collision library | https://github.com/flexible-collision-library/fcl |
 | **libfdisk** | 2.40.2-5 | Library for manipulating disk partition tables | https://en.wikipedia.org/wiki/Util-linux |
