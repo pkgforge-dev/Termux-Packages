@@ -467,7 +467,7 @@
   Description: Encode binary to printable utf16be
   Homepage: https://github.com/fumiama/base16384
 - Package: bash
-  Version: 5.3.3
+  Version: 5.3.3-1
   Description: A sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh)
   Homepage: https://www.gnu.org/software/bash/
 - Package: bash-completion
@@ -703,7 +703,7 @@
   Description: Byobu is a GPLv3 open source text-based window manager and terminal multiplexer
   Homepage: https://www.byobu.org/
 - Package: bzip2
-  Version: 1.0.8-6
+  Version: 1.0.8-7
   Description: Tools for working with bzip2 compression
   Homepage: http://www.bzip.org/
 - Package: c-ares
@@ -1051,7 +1051,7 @@
   Description: A suite of tools to create shopping lists and maintain food recipes
   Homepage: https://cooklang.org
 - Package: coreutils
-  Version: 9.7-2
+  Version: 9.7-3
   Description: Basic file, shell and text manipulation utilities from the GNU project
   Homepage: https://www.gnu.org/software/coreutils/
 - Package: corgi
@@ -1155,7 +1155,7 @@
   Description: Static libraries for cups
   Homepage: https://www.cups.org/
 - Package: curl
-  Version: 8.15.0
+  Version: 8.15.0-1
   Description: Command line tool for transferring data with URL syntax
   Homepage: https://curl.se/
 - Package: curlie
@@ -1199,7 +1199,7 @@
   Description: Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility
   Homepage: https://github.com/TomWright/dasel
 - Package: dash
-  Version: 0.5.12
+  Version: 0.5.12-1
   Description: Small POSIX-compliant implementation of /bin/sh
   Homepage: http://gondor.apana.org.au/~herbert/dash/
 - Package: dasm
@@ -1239,7 +1239,7 @@
   Description: GNU data recovery tool
   Homepage: https://www.gnu.org/software/ddrescue/
 - Package: debianutils
-  Version: 5.23.2
+  Version: 5.23.2-1
   Description: Small utilities which are used primarily by the installation scripts of Debian packages
   Homepage: https://packages.debian.org/debianutils
 - Package: debootstrap
@@ -1655,19 +1655,19 @@
   Description: Extensible, customizable text editor-and more
   Homepage: https://www.gnu.org/software/emacs/
 - Package: emscripten
-  Version: 4.0.13
+  Version: 4.0.13-1
   Description: 'Emscripten: An LLVM-to-WebAssembly Compiler'
   Homepage: https://emscripten.org
 - Package: emscripten-binaryen
-  Version: 4.0.13
+  Version: 4.0.13-1
   Description: Emscripten-compatible Binaryen
   Homepage: https://emscripten.org
 - Package: emscripten-llvm
-  Version: 4.0.13
+  Version: 4.0.13-1
   Description: Emscripten-compatible LLVM
   Homepage: https://emscripten.org
 - Package: emscripten-tests-third-party
-  Version: 4.0.13
+  Version: 4.0.13-1
   Description: Emscripten third party test suite files
   Homepage: https://emscripten.org
 - Package: enblend
@@ -1883,7 +1883,7 @@
   Description: Findomain is the fastest subdomain enumerator and the only one written in Rust
   Homepage: https://findomain.app/
 - Package: findutils
-  Version: 4.10.0
+  Version: 4.10.0-1
   Description: Utilities to find files meeting specified criteria and perform various actions on the files which are found
   Homepage: https://www.gnu.org/software/findutils/
 - Package: fish
@@ -2059,11 +2059,11 @@
   Description: Static libraries for gauche
   Homepage: https://practical-scheme.net/gauche/
 - Package: gawk
-  Version: 5.3.1-1
+  Version: 5.3.1-2
   Description: Programming language designed for text processing
   Homepage: https://www.gnu.org/software/gawk/
 - Package: gawk-static
-  Version: 5.3.1-1
+  Version: 5.3.1-2
   Description: Static libraries for gawk
   Homepage: https://www.gnu.org/software/gawk/
 - Package: gbt
@@ -2555,7 +2555,7 @@
   Description: Game where you try to eat as much as possible of the board before munching yourself into a corner
   Homepage: http://www.catb.org/~esr/greed/
 - Package: grep
-  Version: 3.12-1
+  Version: 3.12-2
   Description: Command which searches one or more input files for lines containing a match to a specified pattern
   Homepage: https://www.gnu.org/software/grep/
 - Package: grex
@@ -2655,7 +2655,7 @@
   Description: Static libraries for gumbo-parser
   Homepage: https://github.com/google/gumbo-parser
 - Package: gzip
-  Version: "1.14"
+  Version: 1.14-1
   Description: Standard GNU file compression utilities
   Homepage: https://www.gnu.org/software/gzip/
 - Package: haproxy
@@ -2943,7 +2943,7 @@
   Description: C language source code formatting program
   Homepage: https://www.gnu.org/software/indent/
 - Package: inetutils
-  Version: "2.6"
+  Version: 2.6-1
   Description: Collection of common network programs
   Homepage: https://www.gnu.org/software/inetutils/
 - Package: influxdb
@@ -3303,7 +3303,7 @@
   Description: Static libraries for leptonica
   Homepage: http://www.leptonica.com/
 - Package: less
-  Version: 679-1
+  Version: 679-2
   Description: Terminal pager program used to view the contents of a text file one screen at a time
   Homepage: https://www.greenwoodsoftware.com/less/
 - Package: lesspipe
@@ -3507,11 +3507,11 @@
   Description: Static libraries for libass
   Homepage: https://github.com/libass/libass
 - Package: libassuan
-  Version: 3.0.2
+  Version: 3.0.2-1
   Description: Library implementing the Assuan IPC protocol used between most newer GnuPG components
   Homepage: https://www.gnupg.org/related_software/libassuan/
 - Package: libassuan-static
-  Version: 3.0.2
+  Version: 3.0.2-1
   Description: Static libraries for libassuan
   Homepage: https://www.gnupg.org/related_software/libassuan/
 - Package: libatomic-ops
@@ -3583,7 +3583,7 @@
   Description: Static libraries for libburn
   Homepage: https://dev.lovelyhq.com/libburnia
 - Package: libbz2
-  Version: 1.0.8-6
+  Version: 1.0.8-7
   Description: BZ2 format compression library
   Homepage: http://www.bzip.org/
 - Package: libc++
@@ -3763,7 +3763,7 @@
   Description: Static libraries for libcroco
   Homepage: https://gitlab.gnome.org/Archive/libcroco
 - Package: libcrypt
-  Version: 0.2-5
+  Version: 0.2-6
   Description: A crypt(3) implementation
   Homepage: http://michael.dipperstein.com/crypt/
 - Package: libcue
@@ -3779,11 +3779,11 @@
   Description: Static libraries for libcunit
   Homepage: https://sourceforge.net/projects/cunit/
 - Package: libcurl
-  Version: 8.15.0
+  Version: 8.15.0-1
   Description: Easy-to-use client-side URL transfer library
   Homepage: https://curl.se/
 - Package: libcurl-static
-  Version: 8.15.0
+  Version: 8.15.0-1
   Description: Static libraries for libcurl
   Homepage: https://curl.se/
 - Package: libczmq
@@ -4127,11 +4127,11 @@
   Description: Static libraries for libgmime
   Homepage: https://github.com/jstedfast/gmime
 - Package: libgmp
-  Version: 6.3.0-1
+  Version: 6.3.0-2
   Description: Library for arbitrary precision arithmetic
   Homepage: https://gmplib.org/
 - Package: libgmp-static
-  Version: 6.3.0-1
+  Version: 6.3.0-2
   Description: Static libraries for libgmp
   Homepage: https://gmplib.org/
 - Package: libgnt
@@ -4551,11 +4551,11 @@
   Description: Fast LZ compression algorithm library
   Homepage: https://lz4.github.io/lz4/
 - Package: liblzma
-  Version: 5.8.1
+  Version: 5.8.1-1
   Description: XZ-format compression library
   Homepage: https://tukaani.org/xz/
 - Package: liblzma-static
-  Version: 5.8.1
+  Version: 5.8.1-1
   Description: Static libraries for liblzma
   Homepage: https://tukaani.org/xz/
 - Package: liblzo
@@ -5727,11 +5727,11 @@
   Description: Terminfo parsing library
   Homepage: https://github.com/neovim/unibilium
 - Package: libunistring
-  Version: "1.3"
+  Version: 1.3-1
   Description: Library providing functions for manipulating Unicode strings
   Homepage: https://www.gnu.org/software/libunistring/
 - Package: libunistring-static
-  Version: "1.3"
+  Version: 1.3-1
   Description: Static libraries for libunistring
   Homepage: https://www.gnu.org/software/libunistring/
 - Package: libunqlite
@@ -6947,7 +6947,7 @@
   Description: An offline tool for querying IP geographic information and CDN provider
   Homepage: https://github.com/zu1k/nali
 - Package: nano
-  Version: "8.6"
+  Version: 8.6-1
   Description: Small, free and friendly text editor
   Homepage: https://www.nano-editor.org/
 - Package: nasm
@@ -7083,11 +7083,11 @@
   Description: TCP/IP swiss army knife. OpenBSD variant.
   Homepage: https://packages.debian.org/sid/netcat-openbsd
 - Package: netcdf-c
-  Version: 4.9.3
+  Version: 4.9.3-1
   Description: NetCDF is a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data
   Homepage: https://www.unidata.ucar.edu/software/netcdf/
 - Package: netcdf-c-static
-  Version: 4.9.3
+  Version: 4.9.3-1
   Description: Static libraries for netcdf-c
   Homepage: https://www.unidata.ucar.edu/software/netcdf/
 - Package: nethack
@@ -8247,7 +8247,7 @@
   Description: Python bindings for Unbound
   Homepage: https://unbound.net/
 - Package: pzstd
-  Version: 1.5.7
+  Version: 1.5.7-1
   Description: A Pigz-like tool for Zstandard
   Homepage: https://github.com/facebook/zstd
 - Package: q-dns-client
@@ -8479,11 +8479,11 @@
   Description: Lexer generator for C, C++ and Go.
   Homepage: https://re2c.org/
 - Package: readline
-  Version: 8.3.1
+  Version: 8.3.1-1
   Description: Library that allow users to edit command lines as they are typed in
   Homepage: https://tiswww.case.edu/php/chet/readline/rltop.html
 - Package: readline-static
-  Version: 8.3.1
+  Version: 8.3.1-1
   Description: Static libraries for readline
   Homepage: https://tiswww.case.edu/php/chet/readline/rltop.html
 - Package: recode
@@ -8859,7 +8859,7 @@
   Description: Secure file, disk, swap, memory erasure utilities
   Homepage: http://www.thc.org/
 - Package: sed
-  Version: 4.9-1
+  Version: 4.9-2
   Description: GNU stream editor for filtering/transforming text
   Homepage: https://www.gnu.org/software/sed/
 - Package: sendme
@@ -9411,7 +9411,7 @@
   Description: A TOML LSP and toolkit
   Homepage: https://taplo.tamasfe.dev/
 - Package: tar
-  Version: "1.35"
+  Version: 1.35-1
   Description: GNU tar for manipulating tar archives
   Homepage: https://www.gnu.org/software/tar/
 - Package: task-spooler
@@ -9999,7 +9999,7 @@
   Description: Tool and library to extract CAB files from InstallShield installers
   Homepage: https://github.com/twogood/unshield
 - Package: unzip
-  Version: 6.0-9
+  Version: 6.0-10
   Description: Tools for working with zip files
   Homepage: https://sourceforge.net/projects/infozip/
 - Package: up
@@ -10519,15 +10519,15 @@
   Description: Hexdump utility from vim
   Homepage: https://www.vim.org
 - Package: xxhash
-  Version: 0.8.3
+  Version: 0.8.3-1
   Description: Extremely fast non-cryptographic hash algorithm
   Homepage: https://cyan4973.github.io/xxHash/
 - Package: xxhash-static
-  Version: 0.8.3
+  Version: 0.8.3-1
   Description: Static libraries for xxhash
   Homepage: https://cyan4973.github.io/xxHash/
 - Package: xz-utils
-  Version: 5.8.1
+  Version: 5.8.1-1
   Description: XZ-format compression tools
   Homepage: https://tukaani.org/xz/
 - Package: yadm
@@ -10635,11 +10635,11 @@
   Description: A plain text note-taking assistant
   Homepage: https://zk-org.github.io/zk/
 - Package: zlib
-  Version: 1.3.1
+  Version: 1.3.1-1
   Description: Compression library implementing the deflate compression method found in gzip and PKZIP
   Homepage: https://www.zlib.net/
 - Package: zlib-static
-  Version: 1.3.1
+  Version: 1.3.1-1
   Description: Static libraries for zlib
   Homepage: https://www.zlib.net/
 - Package: zls
@@ -10683,7 +10683,7 @@
   Description: A program for interactively transferring files to a remote machine while using the secure shell (ssh)
   Homepage: http://zssh.sourceforge.net/
 - Package: zstd
-  Version: 1.5.7
+  Version: 1.5.7-1
   Description: Zstandard compression
   Homepage: https://github.com/facebook/zstd
 - Package: zsync

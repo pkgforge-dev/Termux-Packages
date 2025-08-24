@@ -115,7 +115,7 @@
  badvpn-udpgw  1.999.130  UDP gateway for BadVPN  https://github.com/ambrop72/badvpn 
  barcode  0.99-4  Tool to convert text strings to printed bars  https://www.gnu.org/software/barcode/ 
  base16384  2.3.1  Encode binary to printable utf16be  https://github.com/fumiama/base16384 
- bash  5.3.3  A sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh)  https://www.gnu.org/software/bash/ 
+ bash  5.3.3-1  A sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh)  https://www.gnu.org/software/bash/ 
  bash-completion  2.16.0  Programmable completion for the bash shell  https://github.com/scop/bash-completion 
  bastet  0.43.2-11  Tetris clone with 'bastard' block-choosing AI  http://fph.altervista.org/prog/bastet.html 
  bat  0.25.0-2  A cat(1) clone with wings  https://github.com/sharkdp/bat 
@@ -174,7 +174,7 @@
  bvi  1.5.0  Binary file editor based on vi  https://bvi.sourceforge.net/ 
  byacc  20241231-1  byacc is generally conceded to be the best yacc variant available  https://invisible-island.net/byacc/ 
  byobu  6.13  Byobu is a GPLv3 open source text-based window manager and terminal multiplexer  https://www.byobu.org/ 
- bzip2  1.0.8-6  Tools for working with bzip2 compression  http://www.bzip.org/ 
+ bzip2  1.0.8-7  Tools for working with bzip2 compression  http://www.bzip.org/ 
  c-ares  1.34.5  Library for asynchronous DNS requests (including name resolves)  https://c-ares.org/ 
  c-script  0.14  Compile and execute C "scripts" in one go!  https://github.com/ryanmjacobs/c 
  c-toxcore  0.2.20-p20250105-0  Backend library for the Tox protocol  https://tox.chat 
@@ -261,7 +261,7 @@
  console-bridge  1.0.2  A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages  https://github.com/ros/console_bridge 
  convertlit  1.8-1  An extractor/converter for .LIT eBooks  http://www.convertlit.com/ 
  cookcli  0.14.0  A suite of tools to create shopping lists and maintain food recipes  https://cooklang.org 
- coreutils  9.7-2  Basic file, shell and text manipulation utilities from the GNU project  https://www.gnu.org/software/coreutils/ 
+ coreutils  9.7-3  Basic file, shell and text manipulation utilities from the GNU project  https://www.gnu.org/software/coreutils/ 
  corgi  0.2.4-4  CLI workflow manager  https://github.com/DrakeW/corgi 
  corkscrew  2.0-3  A tool for tunneling SSH through HTTP proxies  https://wiki.linuxquestions.org/wiki/Corkscrew 
  cowsay  3.8.4  Program which generates ASCII pictures of a cow with a message  https://cowsay.diamonds/ 
@@ -287,7 +287,7 @@
  cups  2.4.12  Common UNIX Printing System  https://www.cups.org/ 
  cups-pdf  3.0.1  CUPS PDF backend  https://www.cups-pdf.de/ 
  cups-static  2.4.12  Static libraries for cups  https://www.cups.org/ 
- curl  8.15.0  Command line tool for transferring data with URL syntax  https://curl.se/ 
+ curl  8.15.0-1  Command line tool for transferring data with URL syntax  https://curl.se/ 
  curlie  1.8.2  The power of curl, the ease of use of httpie  https://curlie.io/ 
  curseofwar  1.3.0-4  Fast-paced action strategy game focusing on high-level strategic planning  http://a-nikolaev.github.io/curseofwar/ 
  cvs  1:1.12.13-4  Concurrent Versions System  https://www.nongnu.org/cvs/ 
@@ -298,7 +298,7 @@
  darkhttpd  1.17  A simple webserver, implemented in a single .c file.  https://unix4lyfe.org/darkhttpd 
  dart  3.8.3  Dart is a general-purpose programming language  https://dart.dev/ 
  dasel  2.8.1  Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility  https://github.com/TomWright/dasel 
- dash  0.5.12  Small POSIX-compliant implementation of /bin/sh  http://gondor.apana.org.au/~herbert/dash/ 
+ dash  0.5.12-1  Small POSIX-compliant implementation of /bin/sh  http://gondor.apana.org.au/~herbert/dash/ 
  dasm  2.20.14.1  Macro assembler with support for several 8-bit microprocessors  https://dasm-dillon.sourceforge.io/ 
  datamash  1.9  Program performing numeric, textual and statistical operations  https://www.gnu.org/software/datamash/ 
  dateutils  0.4.11  Command line date and time utilities  https://www.fresse.org/dateutils/ 
@@ -308,7 +308,7 @@
  dcmtk  3.6.9  A collection of libraries and applications implementing large parts the DICOM standard  https://dicom.offis.de/dcmtk 
  dcraw  9.28.0-6  Raw digital camera images decoding utility  https://www.dechifro.org/dcraw/ 
  ddrescue  1.29.1  GNU data recovery tool  https://www.gnu.org/software/ddrescue/ 
- debianutils  5.23.2  Small utilities which are used primarily by the installation scripts of Debian packages  https://packages.debian.org/debianutils 
+ debianutils  5.23.2-1  Small utilities which are used primarily by the installation scripts of Debian packages  https://packages.debian.org/debianutils 
  debootstrap  1.0.141  Bootstrap a basic Debian system  https://wiki.debian.org/Debootstrap 
  desed  1.2.2  Demystifies and debugs your sed scripts  https://github.com/SoptikHa2/desed 
  deutex  5.2.3  WAD composer for Doom, Heretic, Hexen, and Strife  https://github.com/Doom-Utils/deutex/ 
@@ -412,10 +412,10 @@
  eltclsh  1.20  Interactive shell for TCL programming language  https://homepages.laas.fr/mallet/soft/shell/eltclsh 
  elvish  0.21.0  A friendly and expressive Unix shell  https://github.com/elves/elvish 
  emacs  30.1-4  Extensible, customizable text editor-and more  https://www.gnu.org/software/emacs/ 
- emscripten  4.0.13  Emscripten: An LLVM-to-WebAssembly Compiler  https://emscripten.org 
- emscripten-binaryen  4.0.13  Emscripten-compatible Binaryen  https://emscripten.org 
- emscripten-llvm  4.0.13  Emscripten-compatible LLVM  https://emscripten.org 
- emscripten-tests-third-party  4.0.13  Emscripten third party test suite files  https://emscripten.org 
+ emscripten  4.0.13-1  Emscripten: An LLVM-to-WebAssembly Compiler  https://emscripten.org 
+ emscripten-binaryen  4.0.13-1  Emscripten-compatible Binaryen  https://emscripten.org 
+ emscripten-llvm  4.0.13-1  Emscripten-compatible LLVM  https://emscripten.org 
+ emscripten-tests-third-party  4.0.13-1  Emscripten third party test suite files  https://emscripten.org 
  enblend  4.2.0p20161007-6  A tool for compositing images using a Burt&Adelson multiresolution spline  https://enblend.sourceforge.net/ 
  enchant  2.8.12  Wraps a number of different spelling libraries and programs with a consistent interface  https://rrthomas.github.io/enchant/ 
  enchant-static  2.8.12  Static libraries for enchant  https://rrthomas.github.io/enchant/ 
@@ -469,7 +469,7 @@
  finch  2.14.14-1  Text-based multi-protocol instant messaging client  https://pidgin.im/ 
  finch-static  2.14.14-1  Static libraries for finch  https://pidgin.im/ 
  findomain  10.0.1  Findomain is the fastest subdomain enumerator and the only one written in Rust  https://findomain.app/ 
- findutils  4.10.0  Utilities to find files meeting specified criteria and perform various actions on the files which are found  https://www.gnu.org/software/findutils/ 
+ findutils  4.10.0-1  Utilities to find files meeting specified criteria and perform various actions on the files which are found  https://www.gnu.org/software/findutils/ 
  fish  4.0.2-2  The user-friendly command line shell  https://fishshell.com/ 
  flac  1.5.0  FLAC (Free Lossless Audio Codec) command-line tool  https://xiph.org/flac/ 
  flatbuffers  25.2.10  Memory Efficient Serialization Library  https://github.com/google/flatbuffers 
@@ -513,8 +513,8 @@
  gatling  0.16-1  A high performance http, ftp and smb server  https://www.fefe.de/gatling/ 
  gauche  0.9.15  An R7RS Scheme implementation developed to be a handy script interpreter  https://practical-scheme.net/gauche/ 
  gauche-static  0.9.15  Static libraries for gauche  https://practical-scheme.net/gauche/ 
- gawk  5.3.1-1  Programming language designed for text processing  https://www.gnu.org/software/gawk/ 
- gawk-static  5.3.1-1  Static libraries for gawk  https://www.gnu.org/software/gawk/ 
+ gawk  5.3.1-2  Programming language designed for text processing  https://www.gnu.org/software/gawk/ 
+ gawk-static  5.3.1-2  Static libraries for gawk  https://www.gnu.org/software/gawk/ 
  gbt  2.0.0-6  Highly configurable prompt builder for Bash and ZSH written in Go  https://github.com/jtyr/gbt 
  gcab  1.6  GObject library to create cabinet files  https://gitlab.gnome.org/GNOME/gcab 
  gcal  4.1-3  Program for calculating and printing calendars  https://www.gnu.org/software/gcal/ 
@@ -637,7 +637,7 @@
  graphviz  13.1.2  Rich set of graph drawing tools  https://www.graphviz.org/ 
  graphviz-static  13.1.2  Static libraries for graphviz  https://www.graphviz.org/ 
  greed  4.3  Game where you try to eat as much as possible of the board before munching yourself into a corner  http://www.catb.org/~esr/greed/ 
- grep  3.12-1  Command which searches one or more input files for lines containing a match to a specified pattern  https://www.gnu.org/software/grep/ 
+ grep  3.12-2  Command which searches one or more input files for lines containing a match to a specified pattern  https://www.gnu.org/software/grep/ 
  grex  1.4.5  Simplifies the task of creating regular expressions  https://github.com/pemistahl/grex 
  groff  1.23.0-1  typesetting system that reads plain text mixed with formatting commands and produces formatted output  https://www.gnu.org/software/groff/ 
  gron  0.7.1-3  Transforms JSON into discrete assignments  https://github.com/tomnomnom/gron 
@@ -662,7 +662,7 @@
  gum  0.16.2  A tool for creating minimal interactive TUIs for shell scripts  https://github.com/charmbracelet/gum 
  gumbo-parser  0.10.1  An HTML5 parsing library  https://github.com/google/gumbo-parser 
  gumbo-parser-static  0.10.1  Static libraries for gumbo-parser  https://github.com/google/gumbo-parser 
- gzip  1.14  Standard GNU file compression utilities  https://www.gnu.org/software/gzip/ 
+ gzip  1.14-1  Standard GNU file compression utilities  https://www.gnu.org/software/gzip/ 
  haproxy  3.2.4  The Reliable, High Performance TCP/HTTP Load Balancer  https://www.haproxy.org/ 
  harfbuzz  11.4.3  OpenType text shaping engine  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
  harfbuzz-icu  11.4.3  OpenType text shaping engine ICU backend  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
@@ -734,7 +734,7 @@
  imlib2  1.12.5  Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support  https://sourceforge.net/projects/enlightenment/ 
  imlib2-static  1.12.5  Static libraries for imlib2  https://sourceforge.net/projects/enlightenment/ 
  indent  2.2.13  C language source code formatting program  https://www.gnu.org/software/indent/ 
- inetutils  2.6  Collection of common network programs  https://www.gnu.org/software/inetutils/ 
+ inetutils  2.6-1  Collection of common network programs  https://www.gnu.org/software/inetutils/ 
  influxdb  1.8.10-3  An open source time series database with no external dependencies  https://www.influxdata.com/ 
  innoextract  1.9-8  A tool to unpack installers created by Inno Setup  https://constexpr.org/innoextract/ 
  inotify-tools  4.23.9.0  Programs providing a simple interface to inotify  https://github.com/rvoicilas/inotify-tools/wiki 
@@ -824,7 +824,7 @@
  ledger  3.3.2-5  Powerful, double-entry accounting system  https://www.ledger-cli.org 
  leptonica  1.85.0  Library for image processing and image analysis  http://www.leptonica.com/ 
  leptonica-static  1.85.0  Static libraries for leptonica  http://www.leptonica.com/ 
- less  679-1  Terminal pager program used to view the contents of a text file one screen at a time  https://www.greenwoodsoftware.com/less/ 
+ less  679-2  Terminal pager program used to view the contents of a text file one screen at a time  https://www.greenwoodsoftware.com/less/ 
  lesspipe  2.19  An input filter for the pager less  http://www-zeuthen.desy.de/~friebel/unix/lesspipe.html 
  leveldb  1.23-3  Fast key-value storage library  https://github.com/google/leveldb 
  lexbor  2.5.0  Fast embeddable web browser engine written in C with no dependencies  https://lexbor.com 
@@ -875,8 +875,8 @@
  libasm-static  0.193  Static library to assemble and disassemble instructions  https://sourceware.org/elfutils/ 
  libass  0.17.4  A portable library for SSA/ASS subtitles rendering  https://github.com/libass/libass 
  libass-static  0.17.4  Static libraries for libass  https://github.com/libass/libass 
- libassuan  3.0.2  Library implementing the Assuan IPC protocol used between most newer GnuPG components  https://www.gnupg.org/related_software/libassuan/ 
- libassuan-static  3.0.2  Static libraries for libassuan  https://www.gnupg.org/related_software/libassuan/ 
+ libassuan  3.0.2-1  Library implementing the Assuan IPC protocol used between most newer GnuPG components  https://www.gnupg.org/related_software/libassuan/ 
+ libassuan-static  3.0.2-1  Static libraries for libassuan  https://www.gnupg.org/related_software/libassuan/ 
  libatomic-ops  7.8.2  Provides semi-portable access to hardware-provided atomic memory update operations  https://github.com/ivmai/libatomic_ops 
  libatomic-ops-static  7.8.2  Static libraries for libatomic-ops  https://github.com/ivmai/libatomic_ops 
  libbcprov-java  1.80-1  A lightweight cryptography API for Java  https://www.bouncycastle.org/java.html 
@@ -894,7 +894,7 @@
  libbullet  3.25  SDK for real-time collision detection and multi-physics simulation for robotics, VR, etc  https://github.com/bulletphysics/bullet3 
  libburn  1.5.6  Library for reading, mastering and writing optical discs  https://dev.lovelyhq.com/libburnia 
  libburn-static  1.5.6  Static libraries for libburn  https://dev.lovelyhq.com/libburnia 
- libbz2  1.0.8-6  BZ2 format compression library  http://www.bzip.org/ 
+ libbz2  1.0.8-7  BZ2 format compression library  http://www.bzip.org/ 
  libc++  28c  C++ Standard Library  https://libcxx.llvm.org/ 
  libc++utilities  5.30.0  Useful C++ classes and routines such as argument parser, IO and conversion utilities  https://github.com/Martchus/cpp-utilities 
  libc-client  2007f-3  UW IMAP c-client library  https://www.washington.edu/imap/ 
@@ -939,12 +939,12 @@
  libcpufeatures  0.10.1  A cross-platform C library to retrieve CPU features (such as available instructions) at runtime  https://github.com/google/cpu_features 
  libcroco  0.6.13-9  CSS parsing and manipulation library  https://gitlab.gnome.org/Archive/libcroco 
  libcroco-static  0.6.13-9  Static libraries for libcroco  https://gitlab.gnome.org/Archive/libcroco 
- libcrypt  0.2-5  A crypt(3) implementation  http://michael.dipperstein.com/crypt/ 
+ libcrypt  0.2-6  A crypt(3) implementation  http://michael.dipperstein.com/crypt/ 
  libcue  2.3.0  CUE Sheet Parser Library  https://github.com/lipnitsk/libcue/ 
  libcunit  2.1.3  C Unit Testing Framework  https://sourceforge.net/projects/cunit/ 
  libcunit-static  2.1.3  Static libraries for libcunit  https://sourceforge.net/projects/cunit/ 
- libcurl  8.15.0  Easy-to-use client-side URL transfer library  https://curl.se/ 
- libcurl-static  8.15.0  Static libraries for libcurl  https://curl.se/ 
+ libcurl  8.15.0-1  Easy-to-use client-side URL transfer library  https://curl.se/ 
+ libcurl-static  8.15.0-1  Static libraries for libcurl  https://curl.se/ 
  libczmq  4.2.1-3  High-level C binding for ZeroMQ  https://zeromq.org/ 
  libczmq-static  4.2.1-3  Static libraries for libczmq  https://zeromq.org/ 
  libdaemon  0.14  A lightweight C library that eases the writing of UNIX daemons  https://0pointer.de/lennart/projects/libdaemon/ 
@@ -1030,8 +1030,8 @@
  libglvnd-dev  1.7.0  GLVND's OpenGL headers  https://gitlab.freedesktop.org/glvnd/libglvnd 
  libgmime  3.2.15  MIME message parser and creator  https://github.com/jstedfast/gmime 
  libgmime-static  3.2.15  Static libraries for libgmime  https://github.com/jstedfast/gmime 
- libgmp  6.3.0-1  Library for arbitrary precision arithmetic  https://gmplib.org/ 
- libgmp-static  6.3.0-1  Static libraries for libgmp  https://gmplib.org/ 
+ libgmp  6.3.0-2  Library for arbitrary precision arithmetic  https://gmplib.org/ 
+ libgmp-static  6.3.0-2  Static libraries for libgmp  https://gmplib.org/ 
  libgnt  2.14.4-1  An ncurses toolkit for creating text-mode graphical user interfaces in a fast and easy way  https://keep.imfreedom.org/libgnt/libgnt 
  libgnustep-base  1.31.1-2  A library of general-purpose, non-graphical Objective C objects  https://www.gnustep.org 
  libgnutls  3.8.10  Secure communications library implementing the SSL, TLS and DTLS protocols and technologies around them  https://www.gnutls.org/ 
@@ -1136,8 +1136,8 @@
  libluajit  1:2.1.1731601260  Just-In-Time Compiler for Lua  https://luajit.org/ 
  libluajit-static  1:2.1.1731601260  Static libraries for libluajit  https://luajit.org/ 
  liblz4  1.10.0  Fast LZ compression algorithm library  https://lz4.github.io/lz4/ 
- liblzma  5.8.1  XZ-format compression library  https://tukaani.org/xz/ 
- liblzma-static  5.8.1  Static libraries for liblzma  https://tukaani.org/xz/ 
+ liblzma  5.8.1-1  XZ-format compression library  https://tukaani.org/xz/ 
+ liblzma-static  5.8.1-1  Static libraries for liblzma  https://tukaani.org/xz/ 
  liblzo  2.10-3  Portable lossless data compression library  http://www.oberhumer.com/opensource/lzo 
  liblzo-static  2.10-3  Static libraries for liblzo  http://www.oberhumer.com/opensource/lzo 
  libmaa  1.4.7  Provides many low-level data structures which are helpful for writing compilers  https://sourceforge.net/projects/dict/ 
@@ -1430,8 +1430,8 @@
  libunbound  1.23.1  A validating, recursive, caching DNS resolver  https://unbound.net/ 
  libunbound-static  1.23.1  Static libraries for libunbound  https://unbound.net/ 
  libunibilium  2.1.2  Terminfo parsing library  https://github.com/neovim/unibilium 
- libunistring  1.3  Library providing functions for manipulating Unicode strings  https://www.gnu.org/software/libunistring/ 
- libunistring-static  1.3  Static libraries for libunistring  https://www.gnu.org/software/libunistring/ 
+ libunistring  1.3-1  Library providing functions for manipulating Unicode strings  https://www.gnu.org/software/libunistring/ 
+ libunistring-static  1.3-1  Static libraries for libunistring  https://www.gnu.org/software/libunistring/ 
  libunqlite  1.1.9  Transactional embedded database engine  https://unqlite.org/ 
  liburcu  0.15.3  LGPLv2.1 userspace RCU (read-copy-update) library  https://liburcu.org/ 
  liburcu-static  0.15.3  Static libraries for liburcu  https://liburcu.org/ 
@@ -1735,7 +1735,7 @@
  n2n  3.1.1  A light VPN software  https://github.com/ntop/n2n 
  nala  0.16.0  Commandline frontend for the apt package manager  https://gitlab.com/volian/nala 
  nali  0.8.1  An offline tool for querying IP geographic information and CDN provider  https://github.com/zu1k/nali 
- nano  8.6  Small, free and friendly text editor  https://www.nano-editor.org/ 
+ nano  8.6-1  Small, free and friendly text editor  https://www.nano-editor.org/ 
  nasm  2.16.03  A cross-platform x86 assembler with an Intel-like syntax  https://nasm.us 
  natpmpc  20230423-1  Portable and fully compliant implementation of NAT-PMP  https://miniupnp.tuxfamily.org/libnatpmp.html 
  natpmpc-static  20230423-1  Static libraries for natpmpc  https://miniupnp.tuxfamily.org/libnatpmp.html 
@@ -1769,8 +1769,8 @@
  net-snmp-static  5.9.4  Static libraries for net-snmp  http://www.net-snmp.org/ 
  net-tools  2.10.0  Configuration tools for Linux networking  http://net-tools.sourceforge.net/ 
  netcat-openbsd  1.229-1-3  TCP/IP swiss army knife. OpenBSD variant.  https://packages.debian.org/sid/netcat-openbsd 
- netcdf-c  4.9.3  NetCDF is a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data  https://www.unidata.ucar.edu/software/netcdf/ 
- netcdf-c-static  4.9.3  Static libraries for netcdf-c  https://www.unidata.ucar.edu/software/netcdf/ 
+ netcdf-c  4.9.3-1  NetCDF is a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data  https://www.unidata.ucar.edu/software/netcdf/ 
+ netcdf-c-static  4.9.3-1  Static libraries for netcdf-c  https://www.unidata.ucar.edu/software/netcdf/ 
  nethack  3.6.7  Dungeon crawl game  http://www.nethack.org/ 
  netpbm  1:10.73.43-4  Toolkit for manipulation of graphic images of different formats  https://netpbm.sourceforge.net/ 
  netsed  1.4  Alter the contents of packets forwarded through network in real time  http://silicone.homelinux.org/projects/netsed/ 
@@ -2060,7 +2060,7 @@
  python2  2.7.18-14  Python 2 programming language intended to enable clear programs  http://python.org/ 
  python2-static  2.7.18-14  Static libraries for python2  http://python.org/ 
  pyunbound  1.23.1  Python bindings for Unbound  https://unbound.net/ 
- pzstd  1.5.7  A Pigz-like tool for Zstandard  https://github.com/facebook/zstd 
+ pzstd  1.5.7-1  A Pigz-like tool for Zstandard  https://github.com/facebook/zstd 
  q-dns-client  0.19.5  A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH  https://github.com/natesales/q 
  qalc  5.7.0  Powerful and easy to use command line calculator  https://qalculate.github.io/ 
  qalc-static  5.7.0  Static libraries for qalc  https://qalculate.github.io/ 
@@ -2118,8 +2118,8 @@
  rdircd  2023.02.07-1  A daemon that allows using a personal Discord account through an IRC client  https://github.com/mk-fg/reliable-discord-client-irc-daemon 
  rdrview  1:0.1.4  Command line tool to extract the main content from a webpage  https://github.com/eafer/rdrview 
  re2c  4.3  Lexer generator for C, C++ and Go.  https://re2c.org/ 
- readline  8.3.1  Library that allow users to edit command lines as they are typed in  https://tiswww.case.edu/php/chet/readline/rltop.html 
- readline-static  8.3.1  Static libraries for readline  https://tiswww.case.edu/php/chet/readline/rltop.html 
+ readline  8.3.1-1  Library that allow users to edit command lines as they are typed in  https://tiswww.case.edu/php/chet/readline/rltop.html 
+ readline-static  8.3.1-1  Static libraries for readline  https://tiswww.case.edu/php/chet/readline/rltop.html 
  recode  3.7.15  Charset converter tool and library  https://github.com/pinard/Recode 
  recode-static  3.7.15  Static libraries for recode  https://github.com/pinard/Recode 
  recoll  1.43.4  Full-text search for your desktop  https://www.recoll.org/ 
@@ -2213,7 +2213,7 @@
  seanime  2.9.7  Self-hosted anime and manga server for sea rovers.  https://github.com/5rahim/seanime 
  seccure  0.5-7  SECCURE Elliptic Curve Crypto Utility for Reliable Encryption  http://point-at-infinity.org/seccure/ 
  secure-delete  3.1-5  Secure file, disk, swap, memory erasure utilities  http://www.thc.org/ 
- sed  4.9-1  GNU stream editor for filtering/transforming text  https://www.gnu.org/software/sed/ 
+ sed  4.9-2  GNU stream editor for filtering/transforming text  https://www.gnu.org/software/sed/ 
  sendme  0.27.0  A tool to send files and directories, based on iroh  https://github.com/n0-computer/sendme 
  sendxmpp  1.24  A perl-script to send XMPP (jabber) messages  https://sendxmpp.hostname.sk/ 
  senpai  1:0.4.1  An IRC client that works best with bouncers  https://git.sr.ht/~delthas/senpai 
@@ -2351,7 +2351,7 @@
  ta-lib-static  0.5.0  Static libraries for ta-lib  https://ta-lib.org/ 
  taglib  2.1.1  A Library for reading and editing the meta-data of several popular audio formats.  http://taglib.github.io/ 
  taplo  0.10.0  A TOML LSP and toolkit  https://taplo.tamasfe.dev/ 
- tar  1.35  GNU tar for manipulating tar archives  https://www.gnu.org/software/tar/ 
+ tar  1.35-1  GNU tar for manipulating tar archives  https://www.gnu.org/software/tar/ 
  task-spooler  1:1.0.3  Task spooler is a Unix batch system where the tasks spooled run one after the other  https://vicerveza.homeunix.net/~viric/soft/ts/ 
  tasksh  1.2.0-10  Shell command wrapping Taskwarrior commands  https://taskwarrior.org 
  taskwarrior  3.4.1  Utility for managing your TODO list  https://taskwarrior.org 
@@ -2498,7 +2498,7 @@
  unpaper  1:7.0.0-2  A post-processing tool for scanned sheets of paper  https://www.flameeyes.com/projects/unpaper 
  unrar  7.1.10  Tool for extracting files from .rar archives  https://www.rarlab.com/ 
  unshield  1.6.2  Tool and library to extract CAB files from InstallShield installers  https://github.com/twogood/unshield 
- unzip  6.0-9  Tools for working with zip files  https://sourceforge.net/projects/infozip/ 
+ unzip  6.0-10  Tools for working with zip files  https://sourceforge.net/projects/infozip/ 
  up  0.4-3  Helps interactively and incrementally explore textual data in Linux  https://github.com/akavel/up 
  update-info-dir  7.2-2  Update or create index file from all installed info files in directory  https://www.gnu.org/software/texinfo/ 
  upx  5.0.2  the Ultimate Packer for eXecutables  https://upx.github.io/ 
@@ -2628,9 +2628,9 @@
  xvidcore  1.3.7  High performance and high quality MPEG-4 library  https://www.xvid.com/ 
  xvidcore-static  1.3.7  Static libraries for xvidcore  https://www.xvid.com/ 
  xxd  9.1.1650  Hexdump utility from vim  https://www.vim.org 
- xxhash  0.8.3  Extremely fast non-cryptographic hash algorithm  https://cyan4973.github.io/xxHash/ 
- xxhash-static  0.8.3  Static libraries for xxhash  https://cyan4973.github.io/xxHash/ 
- xz-utils  5.8.1  XZ-format compression tools  https://tukaani.org/xz/ 
+ xxhash  0.8.3-1  Extremely fast non-cryptographic hash algorithm  https://cyan4973.github.io/xxHash/ 
+ xxhash-static  0.8.3-1  Static libraries for xxhash  https://cyan4973.github.io/xxHash/ 
+ xz-utils  5.8.1-1  XZ-format compression tools  https://tukaani.org/xz/ 
  yadm  3.5.0  Yet Another Dotfiles Manager  https://yadm.io/ 
  yajl  2.1.0-7  Yet Another JSON Library  https://lloyd.github.io/yajl/ 
  yajl-static  2.1.0-7  Static libraries for yajl  https://lloyd.github.io/yajl/ 
@@ -2657,8 +2657,8 @@
  zip  3.0-5  Tools for working with zip files  https://sourceforge.net/projects/infozip/ 
  zipios  2.3.2  A small C++ library for reading and writing zip files  https://zipios.sourceforge.io/ 
  zk  0.15.1  A plain text note-taking assistant  https://zk-org.github.io/zk/ 
- zlib  1.3.1  Compression library implementing the deflate compression method found in gzip and PKZIP  https://www.zlib.net/ 
- zlib-static  1.3.1  Static libraries for zlib  https://www.zlib.net/ 
+ zlib  1.3.1-1  Compression library implementing the deflate compression method found in gzip and PKZIP  https://www.zlib.net/ 
+ zlib-static  1.3.1-1  Static libraries for zlib  https://www.zlib.net/ 
  zls  0.14.0  Zig language server  https://github.com/zigtools/zls 
  znc  1.10.1  An advanced IRC bouncer  https://znc.in/ 
  zola  0.21.0  A fast static site generator in a single binary with everything built-in.  https://github.com/getzola/zola 
@@ -2669,7 +2669,7 @@
  zsh  5.9-8  Shell with lots of features  https://www.zsh.org 
  zsh-completions  0.35.0  Additional completion definitions for Zsh  https://github.com/zsh-users/zsh-completions 
  zssh  1.5c-1  A program for interactively transferring files to a remote machine while using the secure shell (ssh)  http://zssh.sourceforge.net/ 
- zstd  1.5.7  Zstandard compression  https://github.com/facebook/zstd 
+ zstd  1.5.7-1  Zstandard compression  https://github.com/facebook/zstd 
  zsync  0.6.3  A file transfer program to download files from remote web servers  https://zsync.moria.org.uk/ 
  zziplib  0.13.80  Provides read access to zipped files in a zip-archive, using compression based on free algorithms  https://zziplib.sourceforge.net/ 
  zzuf  2022.05.29  A transparent application input fuzzer  http://caca.zoy.org/wiki/zzuf 
