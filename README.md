@@ -1699,7 +1699,7 @@
 | **mlir** | 20.1.8-3 | A Multi-Level Intermediate Representation for compilers from LLVM | https://clang.llvm.org/ |
 | **mlocate** | 0.26-5 | Tool to find files anywhere in the filesystem based on their name | https://pagure.io/mlocate |
 | **mold** | 2.40.4 | mold: A Modern Linker | https://github.com/rui314/mold |
-| **monero** | 0.18.4.1 | A private, secure, untraceable, decentralised digital currency | https://getmonero.org/ |
+| **monero** | 0.18.4.2 | A private, secure, untraceable, decentralised digital currency | https://getmonero.org/ |
 | **mono** | 6.14.1 | Framework Mono | https://gitlab.winehq.org/mono/mono |
 | **mono-libs** | 6.14.1 | Platform-independent libraries for mono | https://gitlab.winehq.org/mono/mono |
 | **mono-static** | 6.14.1 | Static libraries for mono | https://gitlab.winehq.org/mono/mono |
@@ -2119,7 +2119,7 @@
 | **rav1e** | 0.7.1-3 | An AV1 encoder program focused on speed and safety | https://github.com/xiph/rav1e/ |
 | **ravencoin** | 4.6.1-7 | A peer-to-peer blockchain, handling the efficient creation and transfer of assets from one party to another | https://ravencoin.org/ |
 | **ravencoin-static** | 4.6.1-7 | Static libraries for ravencoin | https://ravencoin.org/ |
-| **rbw** | 1.13.2 | An unofficial command line client for Bitwarden | https://github.com/doy/rbw |
+| **rbw** | 1.14.0 | An unofficial command line client for Bitwarden | https://github.com/doy/rbw |
 | **rc** | 1.7.4-1 | An alternative implementation of the plan 9 rc shell | https://github.com/rakitzis/rc |
 | **rclone** | 1.71.0 | rsync for cloud storage | https://rclone.org/ |
 | **rcm** | 1.3.6 | Dotfiles management | https://github.com/thoughtbot/rcm |
@@ -2563,7 +2563,7 @@
 | **vlc-static** | 3.0.21-9 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-3 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.3 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 2025.08.23 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
+| **vtm** | 2025.08.24 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
 | **vttest** | 20241208 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-4 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.4.321 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
