@@ -758,10 +758,10 @@
  jack  0.0.1  A metapackage that provides JACK Audio Connection Kit  https://github.com/termux/termux-packages 
  jack-example-tools  4  Official JACK example clients and tools  https://jackaudio.org/ 
  jack2  1.9.22-1  The JACK low-latency audio server  https://jackaudio.org/ 
- jackett  0.22.2329  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
+ jackett  0.22.2343  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
  jadx  1.5.2  Dex to Java decompiler  https://github.com/skylot/jadx 
  jadx-x  1.5.2  Dex to Java decompiler GUI  https://github.com/skylot/jadx 
- janet  1.38.0  Janet is a dialect of Lisp intended for embedding into programs and such  https://janet-lang.org 
+ janet  1.39.0  Janet is a dialect of Lisp intended for embedding into programs and such  https://janet-lang.org 
  jbig2dec  0.20  Decoder implementation of the JBIG2 image compression format  https://jbig2dec.com/ 
  jbig2dec-static  0.20  Static libraries for jbig2dec  https://jbig2dec.com/ 
  jbig2enc  2023.01.08-2  An encoder for JBIG2  https://github.com/agl/jbig2enc 
@@ -829,7 +829,7 @@
  leveldb  1.23-3  Fast key-value storage library  https://github.com/google/leveldb 
  lexbor  2.5.0  Fast embeddable web browser engine written in C with no dependencies  https://lexbor.com 
  lexter  1.0.3-4  A real-time word puzzle for text terminals  https://www.kyne.au/~mark/software/lexter.php 
- lf  36  Terminal file manager  https://github.com/gokcehan/lf 
+ lf  37  Terminal file manager  https://github.com/gokcehan/lf 
  lftp  4.9.2-6  FTP/HTTP client and file transfer program  https://lftp.tech/ 
  lftp-static  4.9.2-6  Static libraries for lftp  https://lftp.tech/ 
  lgogdownloader  3.17-1  Open source downloader to GOG.com for Linux users using the same API as the official GOGDownloader  https://sites.google.com/site/gogdownloader/ 
@@ -1090,8 +1090,8 @@
  libisoburn-static  1.5.6  Static libraries for libisoburn  https://dev.lovelyhq.com/libburnia 
  libisofs  1.5.6.pl01  Library to pack up hard disk files and directories into a ISO 9660 disk image  https://dev.lovelyhq.com/libburnia 
  libisofs-static  1.5.6.pl01  Static libraries for libisofs  https://dev.lovelyhq.com/libburnia 
- libjanet  1.38.0  Development library for Janet  https://janet-lang.org 
- libjanet-static  1.38.0  Static libraries for libjanet  https://janet-lang.org 
+ libjanet  1.39.0  Development library for Janet  https://janet-lang.org 
+ libjanet-static  1.39.0  Static libraries for libjanet  https://janet-lang.org 
  libjansi  2.4.2  A small java library that allows you to use ANSI escape codes to format your console output  https://fusesource.github.io/jansi/ 
  libjansson  2.14.1  C library for encoding, decoding and manipulating JSON data  http://www.digip.org/jansson/ 
  libjansson-static  2.14.1  Static libraries for libjansson  http://www.digip.org/jansson/ 
