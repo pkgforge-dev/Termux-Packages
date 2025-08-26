@@ -221,7 +221,7 @@
  chezmoi  2.64.0  Manage your dotfiles across multiple machines  https://chezmoi.io 
  chicken  5.4.0-1  A feature rich Scheme compiler and interpreter  https://www.call-cc.org 
  chicken-static  5.4.0-1  Static libraries for chicken  https://www.call-cc.org 
- choose  1.3.6  A human-friendly and fast alternative to cut and (sometimes) awk  https://github.com/theryangeary/choose 
+ choose  1.3.7  A human-friendly and fast alternative to cut and (sometimes) awk  https://github.com/theryangeary/choose 
  chromaprint  1.5.1-p20250625-0  C library for generating audio fingerprints used by AcoustID (fpcalc tool)  https://acoustid.org/chromaprint 
  chrony  4.7  chrony is an implementation of the Network Time Protocol (NTP)  https://chrony-project.org/ 
  ciso  1.0.2-1  PSP ISO compression tool  https://github.com/jamie/ciso 
@@ -758,7 +758,7 @@
  jack  0.0.1  A metapackage that provides JACK Audio Connection Kit  https://github.com/termux/termux-packages 
  jack-example-tools  4  Official JACK example clients and tools  https://jackaudio.org/ 
  jack2  1.9.22-1  The JACK low-latency audio server  https://jackaudio.org/ 
- jackett  0.22.2343  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
+ jackett  0.22.2349  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
  jadx  1.5.2  Dex to Java decompiler  https://github.com/skylot/jadx 
  jadx-x  1.5.2  Dex to Java decompiler GUI  https://github.com/skylot/jadx 
  janet  1.39.0  Janet is a dialect of Lisp intended for embedding into programs and such  https://janet-lang.org 
@@ -1400,8 +1400,8 @@
  libtins  4.5-2  High-level, multiplatform C++ network packet sniffing and crafting library.  https://libtins.github.io 
  libtinyxml  2.6.2-1  A simple, small, C++ XML parser  https://sourceforge.net/projects/tinyxml 
  libtinyxml2  11.0.0  A simple, small, efficient, C++ XML parser  http://www.grinninglizard.com/tinyxml2/ 
- libtirpc  1.3.6-1  Transport Independent RPC library  http://git.linux-nfs.org/?p=steved/libtirpc.git 
- libtirpc-static  1.3.6-1  Static libraries for libtirpc  http://git.linux-nfs.org/?p=steved/libtirpc.git 
+ libtirpc  1.3.7  Transport Independent RPC library  http://git.linux-nfs.org/?p=steved/libtirpc.git 
+ libtirpc-static  1.3.7  Static libraries for libtirpc  http://git.linux-nfs.org/?p=steved/libtirpc.git 
  libtllist  1.1.0  A small font loading and glyph rasterization library  https://codeberg.org/dnkl/fcft 
  libtomcrypt  1.18.2  A fairly comprehensive, modular and portable cryptographic toolkit  https://www.libtom.net/LibTomCrypt/ 
  libtomcrypt-static  1.18.2  Static libraries for libtomcrypt  https://www.libtom.net/LibTomCrypt/ 
@@ -1693,7 +1693,7 @@
  mono-static  6.14.1  Static libraries for mono  https://gitlab.winehq.org/mono/mono 
  monolith  2.10.1  CLI tool for saving complete web pages as a single HTML file  https://github.com/Y2Z/monolith 
  moon-buggy  1.0.51-5  Simple game where you drive a car across the moon's surface  https://github.com/seehuhn/moon-buggy 
- moor  2.0.4  A pager designed to just do the right thing without any configuration  https://github.com/walles/moor 
+ moor  2.0.5  A pager designed to just do the right thing without any configuration  https://github.com/walles/moor 
  mop  2025.03.17  Stock market tracker  https://github.com/mop-tracker/mop 
  moreutils  0.70  A growing collection of the unix tools that nobody thought to write thirty years ago  https://joeyh.name/code/moreutils/ 
  moria  5.7.15-5  Rogue-like game with an infinite dungeon  https://umoria.org 
@@ -1884,7 +1884,7 @@
  panda3d  1.10.15  A framework for 3D rendering and game development for Python and C++ programs  https://www.panda3d.org/ 
  panda3d-samples  1.10.15  Python sample programs that use Panda3D  https://www.panda3d.org/ 
  panda3d-static  1.10.15  Static libraries for panda3d  https://www.panda3d.org/ 
- pango  1.56.4  Library for laying out and rendering text  https://www.gtk.org/docs/architecture/pango 
+ pango  1.57.0  Library for laying out and rendering text  https://www.gtk.org/docs/architecture/pango 
  paperkey  1.6  Archive OpenPGP keys on paper  http://www.jabberwocky.com/software/paperkey/ 
  par2  1.0.0  par2cmdline is a PAR 2.0 compatible file verification and repair tool  https://github.com/Parchive/par2cmdline 
  parallel  20250822  GNU Parallel is a shell tool for executing jobs in parallel using one or more machines  https://www.gnu.org/software/parallel/ 

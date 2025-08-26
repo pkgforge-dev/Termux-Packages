@@ -891,7 +891,7 @@
   Description: Static libraries for chicken
   Homepage: https://www.call-cc.org
 - Package: choose
-  Version: 1.3.6
+  Version: 1.3.7
   Description: A human-friendly and fast alternative to cut and (sometimes) awk
   Homepage: https://github.com/theryangeary/choose
 - Package: chromaprint
@@ -3039,7 +3039,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.2343
+  Version: 0.22.2349
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -5607,11 +5607,11 @@
   Description: A simple, small, efficient, C++ XML parser
   Homepage: http://www.grinninglizard.com/tinyxml2/
 - Package: libtirpc
-  Version: 1.3.6-1
+  Version: 1.3.7
   Description: Transport Independent RPC library
   Homepage: http://git.linux-nfs.org/?p=steved/libtirpc.git
 - Package: libtirpc-static
-  Version: 1.3.6-1
+  Version: 1.3.7
   Description: Static libraries for libtirpc
   Homepage: http://git.linux-nfs.org/?p=steved/libtirpc.git
 - Package: libtllist
@@ -6779,7 +6779,7 @@
   Description: Simple game where you drive a car across the moons surface
   Homepage: https://github.com/seehuhn/moon-buggy
 - Package: moor
-  Version: 2.0.4
+  Version: 2.0.5
   Description: A pager designed to just do the right thing without any configuration
   Homepage: https://github.com/walles/moor
 - Package: mop
@@ -7543,7 +7543,7 @@
   Description: Static libraries for panda3d
   Homepage: https://www.panda3d.org/
 - Package: pango
-  Version: 1.56.4
+  Version: 1.57.0
   Description: Library for laying out and rendering text
   Homepage: https://www.gtk.org/docs/architecture/pango
 - Package: paperkey

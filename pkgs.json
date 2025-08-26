@@ -1339,7 +1339,7 @@
   },
   {
     "Package": "choose",
-    "Version": "1.3.6",
+    "Version": "1.3.7",
     "Description": "A human-friendly and fast alternative to cut and (sometimes) awk",
     "Homepage": "https://github.com/theryangeary/choose"
   },
@@ -4561,7 +4561,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.22.2343",
+    "Version": "0.22.2349",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -8413,13 +8413,13 @@
   },
   {
     "Package": "libtirpc",
-    "Version": "1.3.6-1",
+    "Version": "1.3.7",
     "Description": "Transport Independent RPC library",
     "Homepage": "http://git.linux-nfs.org/?p=steved/libtirpc.git"
   },
   {
     "Package": "libtirpc-static",
-    "Version": "1.3.6-1",
+    "Version": "1.3.7",
     "Description": "Static libraries for libtirpc",
     "Homepage": "http://git.linux-nfs.org/?p=steved/libtirpc.git"
   },
@@ -10171,7 +10171,7 @@
   },
   {
     "Package": "moor",
-    "Version": "2.0.4",
+    "Version": "2.0.5",
     "Description": "A pager designed to just do the right thing without any configuration",
     "Homepage": "https://github.com/walles/moor"
   },
@@ -11317,7 +11317,7 @@
   },
   {
     "Package": "pango",
-    "Version": "1.56.4",
+    "Version": "1.57.0",
     "Description": "Library for laying out and rendering text",
     "Homepage": "https://www.gtk.org/docs/architecture/pango"
   },
