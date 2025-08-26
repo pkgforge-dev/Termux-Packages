@@ -3997,19 +3997,19 @@
   },
   {
     "Package": "harfbuzz",
-    "Version": "11.4.3",
+    "Version": "11.4.4",
     "Description": "OpenType text shaping engine",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-icu",
-    "Version": "11.4.3",
+    "Version": "11.4.4",
     "Description": "OpenType text shaping engine ICU backend",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-utils",
-    "Version": "11.4.3",
+    "Version": "11.4.4",
     "Description": "Tools using the harfbuzz library",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
@@ -11335,7 +11335,7 @@
   },
   {
     "Package": "parallel",
-    "Version": "20250722",
+    "Version": "20250822",
     "Description": "GNU Parallel is a shell tool for executing jobs in parallel using one or more machines",
     "Homepage": "https://www.gnu.org/software/parallel/"
   },
@@ -15433,7 +15433,7 @@
   },
   {
     "Package": "wasm-component-ld",
-    "Version": "0.5.15",
+    "Version": "0.5.16",
     "Description": "Command line linker for creating WebAssembly components",
     "Homepage": "https://github.com/bytecodealliance/wasm-component-ld"
   },
