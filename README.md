@@ -780,7 +780,7 @@
 | **jbig2enc-static** | 2023.01.08-2 | Static libraries for jbig2enc | https://github.com/agl/jbig2enc |
 | **jcal** | 0.5.1 | UNIX-cal-like tool to display Jalali (Persian/Iranian) calendar | http://nongnu.org/jcal |
 | **jcal-static** | 0.5.1 | Static libraries for jcal | http://nongnu.org/jcal |
-| **jfrog-cli** | 2.78.5 | A CLI for JFrog products | https://jfrog.com/getcli |
+| **jfrog-cli** | 2.78.6 | A CLI for JFrog products | https://jfrog.com/getcli |
 | **jftui** | 0.7.5 | jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server. | https://github.com/Aanok/jftui |
 | **jhead** | 3.08 | Exif Jpeg header manipulation tool | http://www.sentex.net/~mwandel/jhead/ |
 | **jigdo** | 0.8.2 | Distribute large images by sending and receiving the files that make them up | http://atterer.org/jigdo/ |
@@ -2471,7 +2471,6 @@
 | **tsduck-plugins** | 3.40.4165 | Plugins for TSDuck | https://tsduck.io/ |
 | **tsduck-python** | 3.40.4165 | Python bindings for TSDuck | https://tsduck.io/ |
 | **tsduck-tools** | 3.40.4165 | Command line tools for TSDuck | https://tsduck.io/ |
-| **tsmuxer** | 2023.01.30 | A transport stream muxer for remuxing/muxing elementary streams | https://github.com/justdan96/tsMuxer |
 | **tsocks** | 1.8beta5-4 | transparent network access through a SOCKS 4 or 5 proxy | http://tsocks.sf.net |
 | **tsu** | 8.6.0-1 | A su wrapper for Termux | https://github.com/cswl/tsu |
 | **ttf-dejavu** | 2.37-8 | Font family based on the Bitstream Vera Fonts with a wider range of characters | https://dejavu-fonts.github.io/ |

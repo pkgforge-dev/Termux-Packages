@@ -3079,7 +3079,7 @@
   Description: Static libraries for jcal
   Homepage: http://nongnu.org/jcal
 - Package: jfrog-cli
-  Version: 2.78.5
+  Version: 2.78.6
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -9842,10 +9842,6 @@
   Version: 3.40.4165
   Description: Command line tools for TSDuck
   Homepage: https://tsduck.io/
-- Package: tsmuxer
-  Version: 2023.01.30
-  Description: A transport stream muxer for remuxing/muxing elementary streams
-  Homepage: https://github.com/justdan96/tsMuxer
 - Package: tsocks
   Version: 1.8beta5-4
   Description: transparent network access through a SOCKS 4 or 5 proxy
