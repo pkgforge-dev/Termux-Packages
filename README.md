@@ -203,7 +203,7 @@
 | **capstone** | 5.0.6 | Lightweight multi-platform, multi-architecture disassembly framework | https://www.capstone-engine.org/ |
 | **capstone-static** | 5.0.6 | Static libraries for capstone | https://www.capstone-engine.org/ |
 | **carapace** | 1.4.1 | Multi-shell multi-command argument completer | https://carapace.sh/ |
-| **cargo-c** | 0.10.15 | Cargo C-ABI helpers | https://github.com/lu-zero/cargo-c |
+| **cargo-c** | 0.10.15-1 | Cargo C-ABI helpers | https://github.com/lu-zero/cargo-c |
 | **catdoc** | 0.95-1 | Program which reads MS-Word file and prints readable ASCII text to stdout | http://www.wagner.pp.ru/~vitus/software/catdoc/ |
 | **catgirl** | 2.2a | A TLS-only terminal IRC client | https://git.causal.agency/catgirl |
 | **catimg** | 2.7.0 | Renders images in the terminal | https://posva.net/shell/retro/bash/2013/05/27/catimg |
@@ -351,7 +351,7 @@
 | **dnstop** | 2022.10.19 | A libpcap application that displays various tables of DNS traffic on your network | https://github.com/measurement-factory/dnstop |
 | **dnsutils** | 9.20.12 | Clients provided with BIND | https://www.isc.org/bind/ |
 | **docbook-xml** | 5.1-1 | A widely used XML scheme for writing documentation and help | https://www.oasis-open.org/docbook/ |
-| **docbook-xsl** | 1.79.2-3 | XML stylesheets for Docbook-xml transformations | https://docbook.org/ |
+| **docbook-xsl** | 1.79.2-4 | XML stylesheets for Docbook-xml transformations | https://docbook.org/ |
 | **docopt** | 0.6.3-3 | Command line arguments parser for C++11 and later | http://docopt.org |
 | **docopt-static** | 0.6.3-3 | Static libraries for docopt | http://docopt.org |
 | **doctest** | 2.4.12 | The fastest feature-rich C++11/14/17/20 single-header testing framework | https://github.com/doctest/doctest |
@@ -639,7 +639,7 @@
 | **gpgmepp** | 1.24.3 | Programmatic C++ library interface to GnuPG | https://www.gnupg.org/related_software/gpgme/ |
 | **gpgmepp-static** | 1.24.3 | Static libraries for gpgmepp | https://www.gnupg.org/related_software/gpgme/ |
 | **gpgv** | 2.5.11 | GNU privacy guard - signature verification tool | https://www.gnupg.org/ |
-| **gping** | 1.19.0 | Ping, but with a graph | https://github.com/orf/gping |
+| **gping** | 1.20.1-1 | Ping, but with a graph | https://github.com/orf/gping |
 | **gpsbabel** | 1.4.4-2 | GPS file conversion plus transfer to/from GPS units | https://www.gpsbabel.org/ |
 | **gradle** | 1:9.0.0-1 | Powerful build system for the JVM | https://gradle.org/ |
 | **grafana** | 1:11.6.0 | The open-source platform for monitoring and observability | https://grafana.com/ |
@@ -1306,8 +1306,8 @@
 | **libraqm** | 0.10.3 | Raqm is a small library that encapsulates the logic for complex text layout and provides a convenient API | https://github.com/HOST-Oman/libraqm |
 | **librasqal** | 0.9.33-3 | RDF Query Library | https://librdf.org/rasqal/ |
 | **librasqal-static** | 0.9.33-3 | Static libraries for librasqal | https://librdf.org/rasqal/ |
-| **librav1e** | 0.7.1-3 | An AV1 encoder library focused on speed and safety | https://github.com/xiph/rav1e/ |
-| **librav1e-static** | 0.7.1-3 | Static libraries for librav1e | https://github.com/xiph/rav1e/ |
+| **librav1e** | 0.7.1-4 | An AV1 encoder library focused on speed and safety | https://github.com/xiph/rav1e/ |
+| **librav1e-static** | 0.7.1-4 | Static libraries for librav1e | https://github.com/xiph/rav1e/ |
 | **libraw** | 0.21.4 | Library for reading RAW files from digital cameras | https://www.libraw.org/ |
 | **libraw-static** | 0.21.4 | Static libraries for libraw | https://www.libraw.org/ |
 | **libre2** | 2025-08-12-0 | A regular expression library | https://github.com/google/re2 |
@@ -2116,7 +2116,7 @@
 | **ranger** | 1.9.4 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-5 | Fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |
 | **ratt** | 2023.02.02-2 | A tool for converting websites to rss/atom feeds | https://git.sr.ht/~ghost08/ratt |
-| **rav1e** | 0.7.1-3 | An AV1 encoder program focused on speed and safety | https://github.com/xiph/rav1e/ |
+| **rav1e** | 0.7.1-4 | An AV1 encoder program focused on speed and safety | https://github.com/xiph/rav1e/ |
 | **ravencoin** | 4.6.1-7 | A peer-to-peer blockchain, handling the efficient creation and transfer of assets from one party to another | https://ravencoin.org/ |
 | **ravencoin-static** | 4.6.1-7 | Static libraries for ravencoin | https://ravencoin.org/ |
 | **rbw** | 1.14.0 | An unofficial command line client for Bitwarden | https://github.com/doy/rbw |
@@ -2185,20 +2185,20 @@
 | **runit** | 2.1.2-3 | Tools to provide service supervision and to manage services | http://smarden.org/runit |
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.7.0 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
-| **rust** | 1.89.0 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
+| **rust** | 1.89.0-1 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
 | **rust-analyzer** | 20250825 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
 | **rust-bindgen** | 0.72.0 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
-| **rust-docs** | 1.89.0 | Rust documentation | https://www.rust-lang.org/ |
-| **rust-src** | 1.89.0 | Rust source code files | https://www.rust-lang.org/ |
-| **rust-std-aarch64-linux-android** | 1.89.0 | Rust std for target aarch64-linux-android | https://www.rust-lang.org/ |
-| **rust-std-armv7-linux-androideabi** | 1.89.0 | Rust std for target armv7-linux-androideabi | https://www.rust-lang.org/ |
-| **rust-std-i686-linux-android** | 1.89.0 | Rust std for target i686-linux-android | https://www.rust-lang.org/ |
-| **rust-std-wasm32-unknown-unknown** | 1.89.0 | Rust std for target wasm32-unknown-unknown | https://www.rust-lang.org/ |
-| **rust-std-wasm32-wasip1** | 1.89.0 | Rust std for target wasm32-wasip1 | https://www.rust-lang.org/ |
-| **rust-std-wasm32-wasip2** | 1.89.0 | Rust std for target wasm32-wasip2 | https://www.rust-lang.org/ |
-| **rust-std-x86-64-linux-android** | 1.89.0 | Rust std for target x86_64-linux-android | https://www.rust-lang.org/ |
-| **rustc-dev** | 1.89.0 | Rust compiler development libs | https://www.rust-lang.org/ |
-| **rustc-src** | 1.89.0 | Rust compiler source code files | https://www.rust-lang.org/ |
+| **rust-docs** | 1.89.0-1 | Rust documentation | https://www.rust-lang.org/ |
+| **rust-src** | 1.89.0-1 | Rust source code files | https://www.rust-lang.org/ |
+| **rust-std-aarch64-linux-android** | 1.89.0-1 | Rust std for target aarch64-linux-android | https://www.rust-lang.org/ |
+| **rust-std-armv7-linux-androideabi** | 1.89.0-1 | Rust std for target armv7-linux-androideabi | https://www.rust-lang.org/ |
+| **rust-std-i686-linux-android** | 1.89.0-1 | Rust std for target i686-linux-android | https://www.rust-lang.org/ |
+| **rust-std-wasm32-unknown-unknown** | 1.89.0-1 | Rust std for target wasm32-unknown-unknown | https://www.rust-lang.org/ |
+| **rust-std-wasm32-wasip1** | 1.89.0-1 | Rust std for target wasm32-wasip1 | https://www.rust-lang.org/ |
+| **rust-std-wasm32-wasip2** | 1.89.0-1 | Rust std for target wasm32-wasip2 | https://www.rust-lang.org/ |
+| **rust-std-x86-64-linux-android** | 1.89.0-1 | Rust std for target x86_64-linux-android | https://www.rust-lang.org/ |
+| **rustc-dev** | 1.89.0-1 | Rust compiler development libs | https://www.rust-lang.org/ |
+| **rustc-src** | 1.89.0-1 | Rust compiler source code files | https://www.rust-lang.org/ |
 | **rustscan** | 2.4.1 | The modern,fast,smart and effective port scanner | https://rustscan.github.io/RustScan |
 | **rw** | 1.0.1 | A Rust implementation of sponge(1) that never write to TMPDIR | https://github.com/jridgewell/rw |
 | **rxfetch** | 2023.01.07 | A custom system info fetching tool | https://github.com/Mangeshrex/rxfetch |
