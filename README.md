@@ -68,10 +68,10 @@
 | **apr-static** | 1.7.6-1 | Static libraries for apr | https://apr.apache.org/ |
 | **apr-util** | 1.6.3-2 | Apache Portable Runtime Utility Library | https://apr.apache.org/ |
 | **apr-util-static** | 1.6.3-2 | Static libraries for apr-util | https://apr.apache.org/ |
-| **apt** | 2.8.1-1 | Front-end for the dpkg package manager | https://packages.debian.org/apt |
+| **apt** | 2.8.1-2 | Front-end for the dpkg package manager | https://packages.debian.org/apt |
 | **apt-file** | 3.3 | search for files within packages | https://wiki.debian.org/apt-file |
-| **apt-ftparchive** | 2.8.1-1 | apt-ftparchive is the command line tool that generates the index files that APT uses to access a distribution source | https://packages.debian.org/apt |
-| **apt-transport-tor** | 2.8.1-1 | APT transport for anonymous package downloads via Tor | https://packages.debian.org/apt |
+| **apt-ftparchive** | 2.8.1-2 | apt-ftparchive is the command line tool that generates the index files that APT uses to access a distribution source | https://packages.debian.org/apt |
+| **apt-transport-tor** | 2.8.1-2 | APT transport for anonymous package downloads via Tor | https://packages.debian.org/apt |
 | **aptly** | 1.6.2 | A Swiss Army knife for Debian repository management | https://www.aptly.info |
 | **argon2** | 20190702-1 | A password-hashing function (reference C implementation) | https://github.com/P-H-C/phc-winner-argon2 |
 | **argon2-static** | 20190702-1 | Static libraries for argon2 | https://github.com/P-H-C/phc-winner-argon2 |
@@ -1761,11 +1761,11 @@
 | **ncompress** | 5.0 | The classic unix compression utility which can handle the ancient .Z archive | https://github.com/vapier/ncompress |
 | **ncpamixer** | 1.3.10 | An ncurses mixer for PulseAudio | https://github.com/fulhax/ncpamixer |
 | **ncspot** | 1.3.1 | An ncurses Spotify client written in Rust | https://github.com/hrkfdn/ncspot |
-| **ncurses** | 6.5.20240831-2 | Library for text-based user interfaces in a terminal-independent manner | https://invisible-island.net/ncurses/ |
-| **ncurses-static** | 6.5.20240831-2 | Static libraries for ncurses | https://invisible-island.net/ncurses/ |
-| **ncurses-ui-libs** | 6.5.20240831-2 | Libraries for terminal user interfaces based on ncurses | https://invisible-island.net/ncurses/ |
-| **ncurses-ui-libs-static** | 6.5.20240831-2 | Static libraries for terminal user interfaces based on ncurses | https://invisible-island.net/ncurses/ |
-| **ncurses-utils** | 6.5.20240831-2 | Tools for working with terminals | https://invisible-island.net/ncurses/ |
+| **ncurses** | 6.5.20240831-3 | Library for text-based user interfaces in a terminal-independent manner | https://invisible-island.net/ncurses/ |
+| **ncurses-static** | 6.5.20240831-3 | Static libraries for ncurses | https://invisible-island.net/ncurses/ |
+| **ncurses-ui-libs** | 6.5.20240831-3 | Libraries for terminal user interfaces based on ncurses | https://invisible-island.net/ncurses/ |
+| **ncurses-ui-libs-static** | 6.5.20240831-3 | Static libraries for terminal user interfaces based on ncurses | https://invisible-island.net/ncurses/ |
+| **ncurses-utils** | 6.5.20240831-3 | Tools for working with terminals | https://invisible-island.net/ncurses/ |
 | **ndk-multilib** | 28c | Multilib binaries for cross-compilation | https://developer.android.com/tools/sdk/ndk/index.html |
 | **ndk-multilib-native-static** | 28c | Install native static libs from NDK | https://developer.android.com/tools/sdk/ndk/index.html |
 | **ndk-multilib-native-stubs** | 28c | Install native stubs for shared libs from NDK | https://developer.android.com/tools/sdk/ndk/index.html |
@@ -2010,7 +2010,7 @@
 | **protobuf-static** | 30.0-3 | Protocol buffers C++ library (static) | https://github.com/protocolbuffers/protobuf |
 | **prover9** | 2009-11A-1 | An automated theorem prover for first-order and equational logic | https://www.cs.unm.edu/~mccune/prover9/ |
 | **proxychains-ng** | 4.17 | A hook preloader that allows to redirect TCP traffic of existing dynamically linked programs through one or more SOCKS or HTTP proxies | https://github.com/rofl0r/proxychains-ng |
-| **psmisc** | 23.7 | Some small useful utilities that use the proc filesystem | https://gitlab.com/psmisc/psmisc |
+| **psmisc** | 23.7-1 | Some small useful utilities that use the proc filesystem | https://gitlab.com/psmisc/psmisc |
 | **ptex** | 2.4.3 | Per-Face Texture Mapping for Production Rendering | https://github.com/wdas/ptex |
 | **ptex-static** | 2.4.3 | Static libraries for ptex | https://github.com/wdas/ptex |
 | **ptunnel-ng** | 1.43 | Tunnel TCP connections through ICMP | https://github.com/lnslbrty/ptunnel-ng |
@@ -2031,7 +2031,7 @@
 | **pypy3-tests** | 7.3.19-1 | Test files for PyPy 3 | https://pypy.org |
 | **pypy3-tkinter** | 7.3.19-1 | Tkinter support for PyPy 3 | https://pypy.org |
 | **pystring** | 1.1.4 | C++ functions matching the interface and behavior of python string methods with std::string | https://github.com/imageworks/pystring |
-| **python** | 3.12.11 | Python 3 programming language intended to enable clear programs | https://python.org/ |
+| **python** | 3.12.11-1 | Python 3 programming language intended to enable clear programs | https://python.org/ |
 | **python-apsw** | 3.50.4.0 | Another Python SQLite Wrapper | https://github.com/rogerbinns/apsw/ |
 | **python-apt** | 3.0.0 | Python bindings for APT | https://apt-team.pages.debian.net/python-apt/ |
 | **python-bcrypt** | 4.3.0 | Acceptable password hashing for your software and your servers | https://github.com/pyca/bcrypt |
@@ -2039,7 +2039,7 @@
 | **python-cmake** | 4.1.0 | Python wrapper for CMake | https://cmake-python-distributions.readthedocs.io/ |
 | **python-contourpy** | 1.3.3 | Python library for calculating contours in 2D quadrilateral grids | https://contourpy.readthedocs.io/ |
 | **python-cryptography** | 45.0.6 | Provides cryptographic recipes and primitives to Python developers | https://github.com/pyca/cryptography |
-| **python-ensurepip-wheels** | 3.12.11 | Wheels for Python ensurepip | https://python.org/ |
+| **python-ensurepip-wheels** | 3.12.11-1 | Wheels for Python ensurepip | https://python.org/ |
 | **python-greenlet** | 3.2.4 | Lightweight coroutines for in-process concurrent programming | https://github.com/python-greenlet/greenlet |
 | **python-grpcio** | 1.74.1 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
 | **python-lameenc** | 1.8.1 | Python bindings around the LAME encoder | https://github.com/chrisstaite/lameenc |
@@ -2058,9 +2058,9 @@
 | **python-ruff** | 0.12.10 | An extremely fast Python linter, written in Rust (Python bindings) | https://github.com/charliermarsh/ruff |
 | **python-sabyenc3** | 8.2.6 | C implementations of functions for use within SABnzbd | https://github.com/sabnzbd/sabctools |
 | **python-skia-pathops** | 0.8.0-1 | Python bindings for the Skia library's Path Ops | https://github.com/fonttools/skia-pathops |
-| **python-static** | 3.12.11 | Static libraries for python | https://python.org/ |
+| **python-static** | 3.12.11-1 | Static libraries for python | https://python.org/ |
 | **python-tflite-runtime** | 2.20.0 | TensorFlow Lite Python bindings | https://www.tensorflow.org/lite |
-| **python-tkinter** | 3.12.11 | Tkinter support for Python 3 | https://python.org/ |
+| **python-tkinter** | 3.12.11-1 | Tkinter support for Python 3 | https://python.org/ |
 | **python-tldp** | 0.7.5-5 | Tools for publishing from TLDP sources | https://github.com/tLDP/python-tldp |
 | **python-torch** | 2.6.0 | Tensors and Dynamic neural networks in Python | https://pytorch.org/ |
 | **python-torch-static** | 2.6.0 | Static libraries for python-torch | https://pytorch.org/ |
@@ -2354,7 +2354,7 @@
 | **swift-sdk-arm** | 6.1.2 | Swift SDK for Android armv7 | https://swift.org/ |
 | **swift-sdk-x86-64** | 6.1.2 | Swift SDK for Android x86_64 | https://swift.org/ |
 | **swiftshader** | 2025.06.25-1 | A high-performance CPU-based implementation of the Vulkan graphics API | https://swiftshader.googlesource.com/SwiftShader |
-| **swig** | 4.3.1 | Generate scripting interfaces to C/C++ code | https://swig.org |
+| **swig** | 4.3.1-1 | Generate scripting interfaces to C/C++ code | https://swig.org |
 | **swtpm** | 0.10.1 | Software TPM Emulator | https://github.com/stefanberger/swtpm |
 | **swtpm-static** | 0.10.1 | Static libraries for swtpm | https://github.com/stefanberger/swtpm |
 | **syncthing** | 2.0.3 | Decentralized file synchronization | https://syncthing.net/ |
@@ -2368,7 +2368,7 @@
 | **tasksh** | 1.2.0-10 | Shell command wrapping Taskwarrior commands | https://taskwarrior.org |
 | **taskwarrior** | 3.4.1 | Utility for managing your TODO list | https://taskwarrior.org |
 | **tcc** | 1:0.9.27-p20230415-2 | Tiny C Compiler | https://bellard.org/tcc/ |
-| **tcl** | 8.6.14 | Powerful but easy to learn dynamic programming language | https://www.tcl.tk/ |
+| **tcl** | 8.6.14-1 | Powerful but easy to learn dynamic programming language | https://www.tcl.tk/ |
 | **tcllib** | 2.0 | Tcl Standard Library | https://core.tcl-lang.org/tcllib/ |
 | **tcsh** | 6.24.16 | TENEX C Shell, an enhanced version of Berkeley csh | https://www.tcsh.org |
 | **tdb-tools** | 1.4.14 | Tools for TDB | https://tdb.samba.org/ |
@@ -2386,18 +2386,18 @@
 | **tergent** | 1.0.0-4 | A cryptoki/PKCS#11 library for Termux that uses Android Keystore as its backend | https://github.com/aeolwyr/tergent |
 | **termimage** | 1.2.1 | Terminal image viewer | https://github.com/nabijaczleweli/termimage |
 | **termplay** | 2.0.6 | Plays an image/video in your terminal | https://gitlab.com/jD91mZM2/termplay |
-| **termux-am** | 0.8.0-1 | Android Oreo-compatible am command reimplementation | https://github.com/termux/TermuxAm |
-| **termux-am-socket** | 1.5.0 | A faster version of am with less features that only works while Termux is running | https://github.com/termux/termux-am-socket |
+| **termux-am** | 0.8.0-2 | Android Oreo-compatible am command reimplementation | https://github.com/termux/TermuxAm |
+| **termux-am-socket** | 1.5.0-1 | A faster version of am with less features that only works while Termux is running | https://github.com/termux/termux-am-socket |
 | **termux-api** | 0.59.1 | Termux API commands (install also the Termux:API app) | https://wiki.termux.com/wiki/Termux:API |
 | **termux-api-static** | 0.59.1 | Static libraries for termux-api | https://wiki.termux.com/wiki/Termux:API |
 | **termux-apt-repo** | 0.5-1 | Script to create Termux apt repositories | https://github.com/termux/termux-apt-repo |
 | **termux-auth** | 1.5.0 | Password authentication library and utility for Termux | https://github.com/termux/termux-auth |
-| **termux-core** | 0.4.0 | Utils and libraries for Termux core | https://github.com/termux/termux-core-package |
-| **termux-core-static** | 0.4.0 | Static libraries for termux-core | https://github.com/termux/termux-core-package |
+| **termux-core** | 0.4.0-1 | Utils and libraries for Termux core | https://github.com/termux/termux-core-package |
+| **termux-core-static** | 0.4.0-1 | Static libraries for termux-core | https://github.com/termux/termux-core-package |
 | **termux-create-package** | 0.12.0-2 | Utility to create Termux packages | https://github.com/termux/termux-create-package |
 | **termux-elf-cleaner** | 3.0.1 | Cleaner of ELF files for Android | https://github.com/termux/termux-elf-cleaner |
-| **termux-exec** | 1:2.4.0 | Utils and libraries for Termux exec including a LD_PRELOAD shared library for proper functioning of the Termux execution environment | https://github.com/termux/termux-exec-package |
-| **termux-exec-static** | 1:2.4.0 | Static libraries for termux-exec | https://github.com/termux/termux-exec-package |
+| **termux-exec** | 1:2.4.0-1 | Utils and libraries for Termux exec including a LD_PRELOAD shared library for proper functioning of the Termux execution environment | https://github.com/termux/termux-exec-package |
+| **termux-exec-static** | 1:2.4.0-1 | Static libraries for termux-exec | https://github.com/termux/termux-exec-package |
 | **termux-gui-bash** | 0.1.2 | A bash library for Termux:GUI | https://github.com/tareksander/termux-gui-bash |
 | **termux-gui-c** | 0.1.3-3 | A C library for the Termux:GUI plugin | https://github.com/tareksander/termux-gui-c-bindings |
 | **termux-gui-package** | 0.1.6-2 | A Termux package containing utilities for Termux:GUI | https://github.com/tareksander/termux-gui-package |
@@ -2405,7 +2405,7 @@
 | **termux-keyring** | 3.13 | GPG public keys for the official Termux repositories | https://github.com/termux |
 | **termux-licenses** | 2.1 | Contains LICENSE files for common licenses | https://termux.dev |
 | **termux-services** | 0.13-1 | Service daemon for Termux | https://github.com/termux/termux-services/ |
-| **termux-tools** | 1.46.0+really1.45.0 | Basic system tools for Termux | https://termux.dev/ |
+| **termux-tools** | 1.46.0+really1.45.0-1 | Basic system tools for Termux | https://termux.dev/ |
 | **teseq** | 1.1.1-1 | Tool for analyzing control characters and terminal control sequences | https://www.gnu.org/software/teseq/ |
 | **tesseract** | 5.5.1 | Tesseract is probably the most accurate open source OCR engine available | https://github.com/tesseract-ocr/tesseract |
 | **testssl.sh** | 3.2.1 | Testing TLS/SSL encryption anywhere on any port. | https://testssl.sh/ |

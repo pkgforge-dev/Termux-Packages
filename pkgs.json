@@ -349,7 +349,7 @@
   },
   {
     "Package": "apt",
-    "Version": "2.8.1-1",
+    "Version": "2.8.1-2",
     "Description": "Front-end for the dpkg package manager",
     "Homepage": "https://packages.debian.org/apt"
   },
@@ -361,13 +361,13 @@
   },
   {
     "Package": "apt-ftparchive",
-    "Version": "2.8.1-1",
+    "Version": "2.8.1-2",
     "Description": "apt-ftparchive is the command line tool that generates the index files that APT uses to access a distribution source",
     "Homepage": "https://packages.debian.org/apt"
   },
   {
     "Package": "apt-transport-tor",
-    "Version": "2.8.1-1",
+    "Version": "2.8.1-2",
     "Description": "APT transport for anonymous package downloads via Tor",
     "Homepage": "https://packages.debian.org/apt"
   },
@@ -10507,31 +10507,31 @@
   },
   {
     "Package": "ncurses",
-    "Version": "6.5.20240831-2",
+    "Version": "6.5.20240831-3",
     "Description": "Library for text-based user interfaces in a terminal-independent manner",
     "Homepage": "https://invisible-island.net/ncurses/"
   },
   {
     "Package": "ncurses-static",
-    "Version": "6.5.20240831-2",
+    "Version": "6.5.20240831-3",
     "Description": "Static libraries for ncurses",
     "Homepage": "https://invisible-island.net/ncurses/"
   },
   {
     "Package": "ncurses-ui-libs",
-    "Version": "6.5.20240831-2",
+    "Version": "6.5.20240831-3",
     "Description": "Libraries for terminal user interfaces based on ncurses",
     "Homepage": "https://invisible-island.net/ncurses/"
   },
   {
     "Package": "ncurses-ui-libs-static",
-    "Version": "6.5.20240831-2",
+    "Version": "6.5.20240831-3",
     "Description": "Static libraries for terminal user interfaces based on ncurses",
     "Homepage": "https://invisible-island.net/ncurses/"
   },
   {
     "Package": "ncurses-utils",
-    "Version": "6.5.20240831-2",
+    "Version": "6.5.20240831-3",
     "Description": "Tools for working with terminals",
     "Homepage": "https://invisible-island.net/ncurses/"
   },
@@ -12001,7 +12001,7 @@
   },
   {
     "Package": "psmisc",
-    "Version": "23.7",
+    "Version": "23.7-1",
     "Description": "Some small useful utilities that use the proc filesystem",
     "Homepage": "https://gitlab.com/psmisc/psmisc"
   },
@@ -12127,7 +12127,7 @@
   },
   {
     "Package": "python",
-    "Version": "3.12.11",
+    "Version": "3.12.11-1",
     "Description": "Python 3 programming language intended to enable clear programs",
     "Homepage": "https://python.org/"
   },
@@ -12175,7 +12175,7 @@
   },
   {
     "Package": "python-ensurepip-wheels",
-    "Version": "3.12.11",
+    "Version": "3.12.11-1",
     "Description": "Wheels for Python ensurepip",
     "Homepage": "https://python.org/"
   },
@@ -12289,7 +12289,7 @@
   },
   {
     "Package": "python-static",
-    "Version": "3.12.11",
+    "Version": "3.12.11-1",
     "Description": "Static libraries for python",
     "Homepage": "https://python.org/"
   },
@@ -12301,7 +12301,7 @@
   },
   {
     "Package": "python-tkinter",
-    "Version": "3.12.11",
+    "Version": "3.12.11-1",
     "Description": "Tkinter support for Python 3",
     "Homepage": "https://python.org/"
   },
@@ -14065,7 +14065,7 @@
   },
   {
     "Package": "swig",
-    "Version": "4.3.1",
+    "Version": "4.3.1-1",
     "Description": "Generate scripting interfaces to C/C++ code",
     "Homepage": "https://swig.org"
   },
@@ -14149,7 +14149,7 @@
   },
   {
     "Package": "tcl",
-    "Version": "8.6.14",
+    "Version": "8.6.14-1",
     "Description": "Powerful but easy to learn dynamic programming language",
     "Homepage": "https://www.tcl.tk/"
   },
@@ -14257,13 +14257,13 @@
   },
   {
     "Package": "termux-am",
-    "Version": "0.8.0-1",
+    "Version": "0.8.0-2",
     "Description": "Android Oreo-compatible am command reimplementation",
     "Homepage": "https://github.com/termux/TermuxAm"
   },
   {
     "Package": "termux-am-socket",
-    "Version": "1.5.0",
+    "Version": "1.5.0-1",
     "Description": "A faster version of am with less features that only works while Termux is running",
     "Homepage": "https://github.com/termux/termux-am-socket"
   },
@@ -14293,13 +14293,13 @@
   },
   {
     "Package": "termux-core",
-    "Version": "0.4.0",
+    "Version": "0.4.0-1",
     "Description": "Utils and libraries for Termux core",
     "Homepage": "https://github.com/termux/termux-core-package"
   },
   {
     "Package": "termux-core-static",
-    "Version": "0.4.0",
+    "Version": "0.4.0-1",
     "Description": "Static libraries for termux-core",
     "Homepage": "https://github.com/termux/termux-core-package"
   },
@@ -14317,13 +14317,13 @@
   },
   {
     "Package": "termux-exec",
-    "Version": "1:2.4.0",
+    "Version": "1:2.4.0-1",
     "Description": "Utils and libraries for Termux exec including a LD_PRELOAD shared library for proper functioning of the Termux execution environment",
     "Homepage": "https://github.com/termux/termux-exec-package"
   },
   {
     "Package": "termux-exec-static",
-    "Version": "1:2.4.0",
+    "Version": "1:2.4.0-1",
     "Description": "Static libraries for termux-exec",
     "Homepage": "https://github.com/termux/termux-exec-package"
   },
@@ -14371,7 +14371,7 @@
   },
   {
     "Package": "termux-tools",
-    "Version": "1.46.0+really1.45.0",
+    "Version": "1.46.0+really1.45.0-1",
     "Description": "Basic system tools for Termux",
     "Homepage": "https://termux.dev/"
   },
