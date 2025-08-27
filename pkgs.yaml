@@ -679,7 +679,7 @@
   Description: Utilities for Btrfs filesystem
   Homepage: https://btrfs.readthedocs.io/en/latest/
 - Package: buf
-  Version: 1.56.0
+  Version: 1.57.0
   Description: A new way of working with Protocol Buffers
   Homepage: https://buf.build
 - Package: build-essential
@@ -899,7 +899,7 @@
   Description: C library for generating audio fingerprints used by AcoustID (fpcalc tool)
   Homepage: https://acoustid.org/chromaprint
 - Package: chrony
-  Version: "4.7"
+  Version: "4.8"
   Description: chrony is an implementation of the Network Time Protocol (NTP)
   Homepage: https://chrony-project.org/
 - Package: ciso
@@ -2819,7 +2819,7 @@
   Description: Command-line wrapper for git that makes you better at GitHub
   Homepage: https://hub.github.com/
 - Package: hugo
-  Version: 0.148.2
+  Version: 0.149.0
   Description: A fast and flexible static site generator
   Homepage: https://gohugo.io/
 - Package: hummin
@@ -7639,15 +7639,15 @@
   Description: Static libraries for pcre
   Homepage: https://www.pcre.org
 - Package: pcre2
-  Version: 10.45-1
+  Version: "10.46"
   Description: Perl 5 compatible regular expression library
   Homepage: https://www.pcre.org
 - Package: pcre2-static
-  Version: 10.45-1
+  Version: "10.46"
   Description: Static libraries for pcre2
   Homepage: https://www.pcre.org
 - Package: pcre2grep
-  Version: 10.45-1
+  Version: "10.46"
   Description: A grep with Perl-compatible regular expressions
   Homepage: https://www.pcre.org
 - Package: pcregrep
@@ -9415,7 +9415,7 @@
   Description: GNU tar for manipulating tar archives
   Homepage: https://www.gnu.org/software/tar/
 - Package: task-spooler
-  Version: 1:1.0.3
+  Version: 1:1.0.3-1
   Description: Task spooler is a Unix batch system where the tasks spooled run one after the other
   Homepage: https://vicerveza.homeunix.net/~viric/soft/ts/
 - Package: tasksh

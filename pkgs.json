@@ -1021,7 +1021,7 @@
   },
   {
     "Package": "buf",
-    "Version": "1.56.0",
+    "Version": "1.57.0",
     "Description": "A new way of working with Protocol Buffers",
     "Homepage": "https://buf.build"
   },
@@ -1351,7 +1351,7 @@
   },
   {
     "Package": "chrony",
-    "Version": "4.7",
+    "Version": "4.8",
     "Description": "chrony is an implementation of the Network Time Protocol (NTP)",
     "Homepage": "https://chrony-project.org/"
   },
@@ -4231,7 +4231,7 @@
   },
   {
     "Package": "hugo",
-    "Version": "0.148.2",
+    "Version": "0.149.0",
     "Description": "A fast and flexible static site generator",
     "Homepage": "https://gohugo.io/"
   },
@@ -11461,19 +11461,19 @@
   },
   {
     "Package": "pcre2",
-    "Version": "10.45-1",
+    "Version": "10.46",
     "Description": "Perl 5 compatible regular expression library",
     "Homepage": "https://www.pcre.org"
   },
   {
     "Package": "pcre2-static",
-    "Version": "10.45-1",
+    "Version": "10.46",
     "Description": "Static libraries for pcre2",
     "Homepage": "https://www.pcre.org"
   },
   {
     "Package": "pcre2grep",
-    "Version": "10.45-1",
+    "Version": "10.46",
     "Description": "A grep with Perl-compatible regular expressions",
     "Homepage": "https://www.pcre.org"
   },
@@ -14125,7 +14125,7 @@
   },
   {
     "Package": "task-spooler",
-    "Version": "1:1.0.3",
+    "Version": "1:1.0.3-1",
     "Description": "Task spooler is a Unix batch system where the tasks spooled run one after the other",
     "Homepage": "https://vicerveza.homeunix.net/~viric/soft/ts/"
   },

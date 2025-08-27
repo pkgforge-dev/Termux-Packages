@@ -180,7 +180,7 @@
 | **bsdtar** | 3.8.1 | The tar(1) and cpio(1) programs from FreeBSD, using libarchive | https://www.libarchive.org/ |
 | **btfs2** | 4.0.0 | Decentralized file system integrating with TRON network and Bittorrent network | https://www.bittorrent.com/btfs/ |
 | **btrfs-progs** | 6.16 | Utilities for Btrfs filesystem | https://btrfs.readthedocs.io/en/latest/ |
-| **buf** | 1.56.0 | A new way of working with Protocol Buffers | https://buf.build |
+| **buf** | 1.57.0 | A new way of working with Protocol Buffers | https://buf.build |
 | **build-essential** | 4.1 | A metapackage that installs essential development tools | https://github.com/termux/termux-packages |
 | **busybox** | 1.37.0-1 | Tiny versions of many common UNIX utilities into a single small executable | https://busybox.net/ |
 | **bvi** | 1.5.0 | Binary file editor based on vi | https://bvi.sourceforge.net/ |
@@ -235,7 +235,7 @@
 | **chicken-static** | 5.4.0-1 | Static libraries for chicken | https://www.call-cc.org |
 | **choose** | 1.3.7 | A human-friendly and fast alternative to cut and (sometimes) awk | https://github.com/theryangeary/choose |
 | **chromaprint** | 1.5.1-p20250625-0 | C library for generating audio fingerprints used by AcoustID (fpcalc tool) | https://acoustid.org/chromaprint |
-| **chrony** | 4.7 | chrony is an implementation of the Network Time Protocol (NTP) | https://chrony-project.org/ |
+| **chrony** | 4.8 | chrony is an implementation of the Network Time Protocol (NTP) | https://chrony-project.org/ |
 | **ciso** | 1.0.2-1 | PSP ISO compression tool | https://github.com/jamie/ciso |
 | **ckermit** | 9.0.302-2 | A combined network and serial communication software package | https://www.kermitproject.org/ckermit.html |
 | **clamav** | 1.4.3 | Anti-virus toolkit for Unix | https://www.clamav.net/ |
@@ -715,7 +715,7 @@
 | **httrack-data** | 3.49.6 | Platform-independent data for httrack | http://www.httrack.com |
 | **httrack-static** | 3.49.6 | Static libraries for httrack | http://www.httrack.com |
 | **hub** | 2.14.2-5 | Command-line wrapper for git that makes you better at GitHub | https://hub.github.com/ |
-| **hugo** | 0.148.2 | A fast and flexible static site generator | https://gohugo.io/ |
+| **hugo** | 0.149.0 | A fast and flexible static site generator | https://gohugo.io/ |
 | **hummin** | 2021.05.18-3 | Command line client for the imperial library of trantor | https://trantor.is/ |
 | **hunspell** | 1.7.2 | Spell checker | https://hunspell.github.io |
 | **hunspell-en-us** | 20240129 | American english dictionary for hunspell | https://hunspell.github.io |
@@ -1920,9 +1920,9 @@
 | **pcaudiolib-static** | 1.3 | Static libraries for pcaudiolib | https://github.com/espeak-ng/pcaudiolib |
 | **pcre** | 8.45-1 | Library implementing regular expression pattern matching using the same syntax and semantics as Perl 5 | https://www.pcre.org |
 | **pcre-static** | 8.45-1 | Static libraries for pcre | https://www.pcre.org |
-| **pcre2** | 10.45-1 | Perl 5 compatible regular expression library | https://www.pcre.org |
-| **pcre2-static** | 10.45-1 | Static libraries for pcre2 | https://www.pcre.org |
-| **pcre2grep** | 10.45-1 | A grep with Perl-compatible regular expressions | https://www.pcre.org |
+| **pcre2** | 10.46 | Perl 5 compatible regular expression library | https://www.pcre.org |
+| **pcre2-static** | 10.46 | Static libraries for pcre2 | https://www.pcre.org |
+| **pcre2grep** | 10.46 | A grep with Perl-compatible regular expressions | https://www.pcre.org |
 | **pcregrep** | 8.45-1 | A grep with Perl-compatible regular expressions | https://www.pcre.org |
 | **pcscd** | 2.3.3-1 | Middleware to access a smart card using SCard API (PC/SC). (daemon side) | https://pcsclite.apdu.fr/ |
 | **pdf2djvu** | 0.9.19-6 | PDF to DjVu converter | https://github.com/jwilk/pdf2djvu |
@@ -2364,7 +2364,7 @@
 | **taglib** | 2.1.1 | A Library for reading and editing the meta-data of several popular audio formats. | http://taglib.github.io/ |
 | **taplo** | 0.10.0 | A TOML LSP and toolkit | https://taplo.tamasfe.dev/ |
 | **tar** | 1.35-1 | GNU tar for manipulating tar archives | https://www.gnu.org/software/tar/ |
-| **task-spooler** | 1:1.0.3 | Task spooler is a Unix batch system where the tasks spooled run one after the other | https://vicerveza.homeunix.net/~viric/soft/ts/ |
+| **task-spooler** | 1:1.0.3-1 | Task spooler is a Unix batch system where the tasks spooled run one after the other | https://vicerveza.homeunix.net/~viric/soft/ts/ |
 | **tasksh** | 1.2.0-10 | Shell command wrapping Taskwarrior commands | https://taskwarrior.org |
 | **taskwarrior** | 3.4.1 | Utility for managing your TODO list | https://taskwarrior.org |
 | **tcc** | 1:0.9.27-p20230415-2 | Tiny C Compiler | https://bellard.org/tcc/ |
