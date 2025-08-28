@@ -2015,7 +2015,7 @@
   Description: Static libraries for fwknop
   Homepage: https://www.cipherdyne.org/fwknop/
 - Package: fx
-  Version: 39.0.2
+  Version: 39.0.3
   Description: Interactive JSON viewer on your terminal
   Homepage: https://github.com/antonmedv/fx
 - Package: fzf
@@ -7047,7 +7047,7 @@
   Description: Minimal, efficient, statically-typed and meta-programmable systems programming language
   Homepage: https://nelua.io
 - Package: neocmakelsp
-  Version: 0.8.23-1
+  Version: 0.8.25
   Description: a cmake lsp based on tower-lsp and treesitter
   Homepage: https://neocmakelsp.github.io/
 - Package: neofetch
@@ -8179,7 +8179,7 @@
   Description: Python client for Neovim
   Homepage: https://github.com/neovim/pynvim
 - Package: python-ruff
-  Version: 0.12.10
+  Version: 0.12.11
   Description: An extremely fast Python linter, written in Rust (Python bindings)
   Homepage: https://github.com/charliermarsh/ruff
 - Package: python-sabyenc3
@@ -8683,7 +8683,7 @@
   Description: Ruby documentation index
   Homepage: https://www.ruby-lang.org/
 - Package: ruff
-  Version: 0.12.10
+  Version: 0.12.11
   Description: An extremely fast Python linter, written in Rust
   Homepage: https://github.com/charliermarsh/ruff
 - Package: runit
