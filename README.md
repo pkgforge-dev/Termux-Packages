@@ -251,8 +251,8 @@
 | **cloudflared** | 2025.8.1 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
 | **clpeak** | 1.1.5 | A tool which profiles OpenCL devices to find their peak capacities | https://github.com/krrishnarraj/clpeak |
 | **clvk** | 0.0.20250818.172654 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
-| **cmake** | 4.1.0 | Family of tools designed to build, test and package software | https://cmake.org/ |
-| **cmake-curses-gui** | 4.1.0 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
+| **cmake** | 4.1.1 | Family of tools designed to build, test and package software | https://cmake.org/ |
+| **cmake-curses-gui** | 4.1.1 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
 | **cmark** | 0.31.1 | CommonMark parsing and rendering program | https://github.com/commonmark/cmark |
 | **cmark-static** | 0.31.1 | Static libraries for cmark | https://github.com/commonmark/cmark |
 | **cmatrix** | 2.0 | Command producing a Matrix-style animation | https://github.com/abishekvashok/cmatrix |
@@ -821,9 +821,9 @@
 | **kotlin** | 2.2.10 | The Kotlin Programming Language | https://kotlinlang.org/ |
 | **krb5** | 1.22.1 | The Kerberos network authentication system | https://web.mit.edu/kerberos |
 | **kubecolor** | 0.5.1 | Colorize your kubectl output | https://github.com/kubecolor/kubecolor |
-| **kubectl** | 1.33.4 | Kubernetes.io client binary | https://kubernetes.io/ |
+| **kubectl** | 1.34.0 | Kubernetes.io client binary | https://kubernetes.io/ |
 | **kubelogin** | 1.34.1 | A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication | https://github.com/int128/kubelogin |
-| **kubo** | 0.36.0 | A peer-to-peer hypermedia distribution protocol | https://ipfs.io/ |
+| **kubo** | 0.37.0 | A peer-to-peer hypermedia distribution protocol | https://ipfs.io/ |
 | **ladspa-sdk** | 1.17-2 | Linux Audio Developer's Simple Plugin API | https://www.ladspa.org/ |
 | **lame** | 3.100-6 | High quality MPEG Audio Layer III (MP3) encoder - frontend | https://lame.sourceforge.io/ |
 | **lastpass-cli** | 1.6.1-2 | LastPass command line interface tool | https://lastpass.com/ |
@@ -2068,7 +2068,7 @@
 | **python-torchvision** | 0.21.0-1 | Datasets, Transforms and Models specific to Computer Vision | https://github.com/pytorch/vision |
 | **python-xcbgen** | 1.17.0-1 | The xcbgen Python module | https://xcb.freedesktop.org/ |
 | **python-xlib** | 0.33-1 | The Python X Library | https://github.com/python-xlib/python-xlib |
-| **python-yt-dlp** | 2025.08.22 | A youtube-dl fork with additional features and fixes | https://github.com/yt-dlp/yt-dlp |
+| **python-yt-dlp** | 2025.08.27 | A youtube-dl fork with additional features and fixes | https://github.com/yt-dlp/yt-dlp |
 | **python2** | 2.7.18-14 | Python 2 programming language intended to enable clear programs | http://python.org/ |
 | **python2-static** | 2.7.18-14 | Static libraries for python2 | http://python.org/ |
 | **pyunbound** | 1.23.1-1 | Python bindings for Unbound | https://unbound.net/ |
@@ -2422,7 +2422,7 @@
 | **tig** | 2.5.12 | Ncurses-based text-mode interface for git | https://jonas.github.io/tig/ |
 | **tilde** | 1.1.3-1 | A text editor for the console/terminal | https://os.ghalkes.nl/tilde/ |
 | **time** | 1.9 | GNU time program for measuring CPU resource usage | https://www.gnu.org/software/time/ |
-| **timewarrior** | 1.9.0 | Command-line time tracker | https://timewarrior.net/ |
+| **timewarrior** | 1.9.1 | Command-line time tracker | https://timewarrior.net/ |
 | **timg** | 1.6.2 | A terminal image and video viewer | https://timg.sh/ |
 | **timidity++** | 2.15.0-1 | MIDI-to-WAVE converter and player | http://timidity.sourceforge.net/ |
 | **tin-summer** | 1.21.14 | Find build artifacts that are taking up disk space | https://github.com/vmchale/tin-summer |
@@ -2527,7 +2527,7 @@
 | **uuid-utils** | 2.40.2-5 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
 | **uv** | 0.8.13 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.30 | uWSGI application server container | https://projects.unbit.it/uwsgi |
-| **v2ray** | 5.37.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
+| **v2ray** | 5.38.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.18 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
 | **valac-static** | 0.56.18 | Static libraries for valac | https://wiki.gnome.org/Projects/Vala |
 | **valadoc** | 0.56.18 | API documentation generator for vala | https://wiki.gnome.org/Projects/Vala |

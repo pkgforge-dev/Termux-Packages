@@ -1447,13 +1447,13 @@
   },
   {
     "Package": "cmake",
-    "Version": "4.1.0",
+    "Version": "4.1.1",
     "Description": "Family of tools designed to build, test and package software",
     "Homepage": "https://cmake.org/"
   },
   {
     "Package": "cmake-curses-gui",
-    "Version": "4.1.0",
+    "Version": "4.1.1",
     "Description": "Curses based user interface for CMake (ccmake)",
     "Homepage": "https://cmake.org/"
   },
@@ -4867,7 +4867,7 @@
   },
   {
     "Package": "kubectl",
-    "Version": "1.33.4",
+    "Version": "1.34.0",
     "Description": "Kubernetes.io client binary",
     "Homepage": "https://kubernetes.io/"
   },
@@ -4879,7 +4879,7 @@
   },
   {
     "Package": "kubo",
-    "Version": "0.36.0",
+    "Version": "0.37.0",
     "Description": "A peer-to-peer hypermedia distribution protocol",
     "Homepage": "https://ipfs.io/"
   },
@@ -12349,7 +12349,7 @@
   },
   {
     "Package": "python-yt-dlp",
-    "Version": "2025.08.22",
+    "Version": "2025.08.27",
     "Description": "A youtube-dl fork with additional features and fixes",
     "Homepage": "https://github.com/yt-dlp/yt-dlp"
   },
@@ -14473,7 +14473,7 @@
   },
   {
     "Package": "timewarrior",
-    "Version": "1.9.0",
+    "Version": "1.9.1",
     "Description": "Command-line time tracker",
     "Homepage": "https://timewarrior.net/"
   },
@@ -15103,7 +15103,7 @@
   },
   {
     "Package": "v2ray",
-    "Version": "5.37.0",
+    "Version": "5.38.0",
     "Description": "A platform for building proxies to bypass network restrictions",
     "Homepage": "https://www.v2fly.org/"
   },
