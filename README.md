@@ -186,7 +186,7 @@
 | **bvi** | 1.5.0 | Binary file editor based on vi | https://bvi.sourceforge.net/ |
 | **byacc** | 20241231-1 | byacc is generally conceded to be the best yacc variant available | https://invisible-island.net/byacc/ |
 | **byobu** | 6.13 | Byobu is a GPLv3 open source text-based window manager and terminal multiplexer | https://www.byobu.org/ |
-| **bzip2** | 1.0.8-7 | Tools for working with bzip2 compression | http://www.bzip.org/ |
+| **bzip2** | 1.0.8-8 | Tools for working with bzip2 compression | http://www.bzip.org/ |
 | **c-ares** | 1.34.5 | Library for asynchronous DNS requests (including name resolves) | https://c-ares.org/ |
 | **c-script** | 0.14 | Compile and execute C "scripts" in one go! | https://github.com/ryanmjacobs/c |
 | **c-toxcore** | 0.2.20-p20250105-0 | Backend library for the Tox protocol | https://tox.chat |
@@ -819,7 +819,7 @@
 | **knot-utils** | 3.2.4-1 | Knot DNS utilities | https://www.knot-dns.cz/ |
 | **kona** | 20211225 | Open-source implementation of the APL-like K programming language | https://github.com/kevinlawler/kona |
 | **kotlin** | 2.2.10 | The Kotlin Programming Language | https://kotlinlang.org/ |
-| **krb5** | 1.22.1 | The Kerberos network authentication system | https://web.mit.edu/kerberos |
+| **krb5** | 1.22.1-1 | The Kerberos network authentication system | https://web.mit.edu/kerberos |
 | **kubecolor** | 0.5.1 | Colorize your kubectl output | https://github.com/kubecolor/kubecolor |
 | **kubectl** | 1.34.0 | Kubernetes.io client binary | https://kubernetes.io/ |
 | **kubelogin** | 1.34.1 | A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication | https://github.com/int128/kubelogin |
@@ -854,8 +854,8 @@
 | **libaml** | 1.0.0-1 | Andri's Main Loop library | https://github.com/any1/aml |
 | **libandroid-complex-math** | 0.2 | A shared library providing libm complex math functions | https://android.googlesource.com/platform/bionic/+/refs/heads/master/libm/upstream-netbsd/lib/libm/complex |
 | **libandroid-complex-math-static** | 0.2 | Static libraries for libandroid-complex-math | https://android.googlesource.com/platform/bionic/+/refs/heads/master/libm/upstream-netbsd/lib/libm/complex |
-| **libandroid-execinfo** | 0.1-1 | Shared library for the backtrace system function | https://man7.org/linux/man-pages/man3/backtrace.3.html |
-| **libandroid-execinfo-static** | 0.1-1 | Static libraries for libandroid-execinfo | https://man7.org/linux/man-pages/man3/backtrace.3.html |
+| **libandroid-execinfo** | 0.1-2 | Shared library for the backtrace system function | https://man7.org/linux/man-pages/man3/backtrace.3.html |
+| **libandroid-execinfo-static** | 0.1-2 | Static libraries for libandroid-execinfo | https://man7.org/linux/man-pages/man3/backtrace.3.html |
 | **libandroid-glob** | 0.6-3 | Shared library for the glob(3) system function | https://man7.org/linux/man-pages/man3/glob.3.html |
 | **libandroid-glob-static** | 0.6-3 | Static libraries for libandroid-glob | https://man7.org/linux/man-pages/man3/glob.3.html |
 | **libandroid-posix-semaphore** | 0.1-4 | Shared library for the posix semaphore system function | https://man7.org/linux/man-pages/man7/sem_overview.7.html |
@@ -906,7 +906,7 @@
 | **libbullet** | 3.25 | SDK for real-time collision detection and multi-physics simulation for robotics, VR, etc | https://github.com/bulletphysics/bullet3 |
 | **libburn** | 1.5.6 | Library for reading, mastering and writing optical discs | https://dev.lovelyhq.com/libburnia |
 | **libburn-static** | 1.5.6 | Static libraries for libburn | https://dev.lovelyhq.com/libburnia |
-| **libbz2** | 1.0.8-7 | BZ2 format compression library | http://www.bzip.org/ |
+| **libbz2** | 1.0.8-8 | BZ2 format compression library | http://www.bzip.org/ |
 | **libc++** | 28c | C++ Standard Library | https://libcxx.llvm.org/ |
 | **libc++utilities** | 5.30.0 | Useful C++ classes and routines such as argument parser, IO and conversion utilities | https://github.com/Martchus/cpp-utilities |
 | **libc-client** | 2007f-3 | UW IMAP c-client library | https://www.washington.edu/imap/ |
@@ -916,10 +916,10 @@
 | **libcairo** | 1.18.4-1 | Cairo 2D vector graphics library | https://cairographics.org |
 | **libcairomm-1.0** | 1.14.5 | Provides a C++ interface to cairo | https://www.cairographics.org/cairomm/ |
 | **libcairomm-1.16** | 1.18.0 | Provides a C++ interface to cairo | https://www.cairographics.org/cairomm/ |
-| **libcap** | 2.69 | POSIX 1003.1e capabilities | https://sites.google.com/site/fullycapable/ |
+| **libcap** | 2.69-1 | POSIX 1003.1e capabilities | https://sites.google.com/site/fullycapable/ |
 | **libcap-ng** | 2:0.8.5-1 | Library making programming with POSIX capabilities easier than traditional libcap | https://people.redhat.com/sgrubb/libcap-ng/ |
 | **libcap-ng-static** | 2:0.8.5-1 | Static libraries for libcap-ng | https://people.redhat.com/sgrubb/libcap-ng/ |
-| **libcap-static** | 2.69 | Static libraries for libcap | https://sites.google.com/site/fullycapable/ |
+| **libcap-static** | 2.69-1 | Static libraries for libcap | https://sites.google.com/site/fullycapable/ |
 | **libccd** | 2.1-1 | Library for collision detection between two convex shapes | https://github.com/danfis/libccd |
 | **libcddb** | 1.3.2 | A C library to access data on a CDDB server | http://libcddb.sourceforge.net/ |
 | **libcddb-static** | 1.3.2 | Static libraries for libcddb | http://libcddb.sourceforge.net/ |
@@ -990,8 +990,8 @@
 | **libdw-static** | 0.193 | Static library to read DWARF information | https://sourceware.org/elfutils/ |
 | **libebml** | 1.4.5-1 | Extensible Binary Meta Language library | https://github.com/Matroska-Org/libebml |
 | **libebur128** | 1.2.6-2 | Implements the EBU R 128 standard for loudness normalisation | https://github.com/jiixyj/libebur128 |
-| **libedit** | 20240517-3.1-0 | Library providing line editing, history, and tokenization functions | https://thrysoee.dk/editline/ |
-| **libedit-static** | 20240517-3.1-0 | Static libraries for libedit | https://thrysoee.dk/editline/ |
+| **libedit** | 20240517-3.1-1 | Library providing line editing, history, and tokenization functions | https://thrysoee.dk/editline/ |
+| **libedit-static** | 20240517-3.1-1 | Static libraries for libedit | https://thrysoee.dk/editline/ |
 | **libelf** | 0.193 | ELF object file access library | https://sourceware.org/elfutils/ |
 | **libelf-static** | 0.193 | Static libraries for libelf | https://sourceware.org/elfutils/ |
 | **libenet** | 1.3.18 | ENet reliable UDP networking library | http://enet.bespin.org |
@@ -1870,8 +1870,8 @@
 | **opensc** | 0.26.1 | Open source smart card tools and middleware | https://github.com/OpenSC/OpenSC |
 | **opensc-static** | 0.26.1 | Static libraries for opensc | https://github.com/OpenSC/OpenSC |
 | **openscad** | 2021.01-3 | The programmers solid 3D CAD modeller (headless build) | https://openscad.org/ |
-| **openssh** | 10.0p2-8 | Secure shell for logging into a remote machine | https://www.openssh.com/ |
-| **openssh-sftp-server** | 10.0p2-8 | OpenSSH SFTP server subsystem | https://www.openssh.com/ |
+| **openssh** | 10.0p2-9 | Secure shell for logging into a remote machine | https://www.openssh.com/ |
+| **openssh-sftp-server** | 10.0p2-9 | OpenSSH SFTP server subsystem | https://www.openssh.com/ |
 | **openssl** | 1:3.5.2 | Library implementing the SSL and TLS protocols as well as general purpose cryptography functions | https://www.openssl.org/ |
 | **openssl-static** | 1:3.5.2 | Static libraries for openssl | https://www.openssl.org/ |
 | **openssl-tool** | 1:3.5.2 | The openssl command line cryptographic tool | https://www.openssl.org/ |
@@ -2153,7 +2153,7 @@
 | **rig** | 1.11-1 | A program that generates fake identities | http://rig.sourceforge.net/ |
 | **rinetd** | 1:0.73-1 | A user-mode TCP port redirection server | https://github.com/samhocevar/rinetd |
 | **rip2** | 0.9.4 | A safe and ergonomic alternative to rm | https://github.com/MilesCranmer/rip2 |
-| **ripgrep** | 14.1.1-1 | Search tool like grep and The Silver Searcher | https://github.com/BurntSushi/ripgrep |
+| **ripgrep** | 14.1.1-2 | Search tool like grep and The Silver Searcher | https://github.com/BurntSushi/ripgrep |
 | **ripgrep-all** | 1.0.0-alpha.5-3 | Search tool able to locate in PDFs, E-Books, zip, tar.gz, etc | https://github.com/phiresky/ripgrep-all |
 | **ripsecrets** | 0.1.11 | A command-line tool to prevent committing secret keys into your source code | https://github.com/sirwart/ripsecrets |
 | **rirc** | 0.1.7-1 | A terminal IRC client in C | https://github.com/rcr/rirc |
@@ -2391,7 +2391,7 @@
 | **termux-api** | 0.59.1 | Termux API commands (install also the Termux:API app) | https://wiki.termux.com/wiki/Termux:API |
 | **termux-api-static** | 0.59.1 | Static libraries for termux-api | https://wiki.termux.com/wiki/Termux:API |
 | **termux-apt-repo** | 0.5-1 | Script to create Termux apt repositories | https://github.com/termux/termux-apt-repo |
-| **termux-auth** | 1.5.0 | Password authentication library and utility for Termux | https://github.com/termux/termux-auth |
+| **termux-auth** | 1.5.0-1 | Password authentication library and utility for Termux | https://github.com/termux/termux-auth |
 | **termux-core** | 0.4.0-1 | Utils and libraries for Termux core | https://github.com/termux/termux-core-package |
 | **termux-core-static** | 0.4.0-1 | Static libraries for termux-core | https://github.com/termux/termux-core-package |
 | **termux-create-package** | 0.12.0-2 | Utility to create Termux packages | https://github.com/termux/termux-create-package |
@@ -2677,7 +2677,7 @@
 | **zoxide** | 0.9.8-1 | A faster way to navigate your filesystem | https://github.com/ajeetdsouza/zoxide |
 | **zpaq** | 7.15 | Programmable file compressor, library and utilities. Based on the PAQ compression algorithm | http://mattmahoney.net/dc/zpaq.html |
 | **zrok** | 1.1.3 | An open source sharing solution built on OpenZiti. | https://zrok.io/ |
-| **zsh** | 5.9-8 | Shell with lots of features | https://www.zsh.org |
+| **zsh** | 5.9-9 | Shell with lots of features | https://www.zsh.org |
 | **zsh-completions** | 0.35.0 | Additional completion definitions for Zsh | https://github.com/zsh-users/zsh-completions |
 | **zssh** | 1.5c-1 | A program for interactively transferring files to a remote machine while using the secure shell (ssh) | http://zssh.sourceforge.net/ |
 | **zstd** | 1.5.7-1 | Zstandard compression | https://github.com/facebook/zstd |

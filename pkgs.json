@@ -1057,7 +1057,7 @@
   },
   {
     "Package": "bzip2",
-    "Version": "1.0.8-7",
+    "Version": "1.0.8-8",
     "Description": "Tools for working with bzip2 compression",
     "Homepage": "http://www.bzip.org/"
   },
@@ -4855,7 +4855,7 @@
   },
   {
     "Package": "krb5",
-    "Version": "1.22.1",
+    "Version": "1.22.1-1",
     "Description": "The Kerberos network authentication system",
     "Homepage": "https://web.mit.edu/kerberos"
   },
@@ -5065,13 +5065,13 @@
   },
   {
     "Package": "libandroid-execinfo",
-    "Version": "0.1-1",
+    "Version": "0.1-2",
     "Description": "Shared library for the backtrace system function",
     "Homepage": "https://man7.org/linux/man-pages/man3/backtrace.3.html"
   },
   {
     "Package": "libandroid-execinfo-static",
-    "Version": "0.1-1",
+    "Version": "0.1-2",
     "Description": "Static libraries for libandroid-execinfo",
     "Homepage": "https://man7.org/linux/man-pages/man3/backtrace.3.html"
   },
@@ -5377,7 +5377,7 @@
   },
   {
     "Package": "libbz2",
-    "Version": "1.0.8-7",
+    "Version": "1.0.8-8",
     "Description": "BZ2 format compression library",
     "Homepage": "http://www.bzip.org/"
   },
@@ -5437,7 +5437,7 @@
   },
   {
     "Package": "libcap",
-    "Version": "2.69",
+    "Version": "2.69-1",
     "Description": "POSIX 1003.1e capabilities",
     "Homepage": "https://sites.google.com/site/fullycapable/"
   },
@@ -5455,7 +5455,7 @@
   },
   {
     "Package": "libcap-static",
-    "Version": "2.69",
+    "Version": "2.69-1",
     "Description": "Static libraries for libcap",
     "Homepage": "https://sites.google.com/site/fullycapable/"
   },
@@ -5881,13 +5881,13 @@
   },
   {
     "Package": "libedit",
-    "Version": "20240517-3.1-0",
+    "Version": "20240517-3.1-1",
     "Description": "Library providing line editing, history, and tokenization functions",
     "Homepage": "https://thrysoee.dk/editline/"
   },
   {
     "Package": "libedit-static",
-    "Version": "20240517-3.1-0",
+    "Version": "20240517-3.1-1",
     "Description": "Static libraries for libedit",
     "Homepage": "https://thrysoee.dk/editline/"
   },
@@ -11161,13 +11161,13 @@
   },
   {
     "Package": "openssh",
-    "Version": "10.0p2-8",
+    "Version": "10.0p2-9",
     "Description": "Secure shell for logging into a remote machine",
     "Homepage": "https://www.openssh.com/"
   },
   {
     "Package": "openssh-sftp-server",
-    "Version": "10.0p2-8",
+    "Version": "10.0p2-9",
     "Description": "OpenSSH SFTP server subsystem",
     "Homepage": "https://www.openssh.com/"
   },
@@ -12859,7 +12859,7 @@
   },
   {
     "Package": "ripgrep",
-    "Version": "14.1.1-1",
+    "Version": "14.1.1-2",
     "Description": "Search tool like grep and The Silver Searcher",
     "Homepage": "https://github.com/BurntSushi/ripgrep"
   },
@@ -14287,7 +14287,7 @@
   },
   {
     "Package": "termux-auth",
-    "Version": "1.5.0",
+    "Version": "1.5.0-1",
     "Description": "Password authentication library and utility for Termux",
     "Homepage": "https://github.com/termux/termux-auth"
   },
@@ -16003,7 +16003,7 @@
   },
   {
     "Package": "zsh",
-    "Version": "5.9-8",
+    "Version": "5.9-9",
     "Description": "Shell with lots of features",
     "Homepage": "https://www.zsh.org"
   },
