@@ -854,8 +854,8 @@
 | **libaml** | 1.0.0-1 | Andri's Main Loop library | https://github.com/any1/aml |
 | **libandroid-complex-math** | 0.2 | A shared library providing libm complex math functions | https://android.googlesource.com/platform/bionic/+/refs/heads/master/libm/upstream-netbsd/lib/libm/complex |
 | **libandroid-complex-math-static** | 0.2 | Static libraries for libandroid-complex-math | https://android.googlesource.com/platform/bionic/+/refs/heads/master/libm/upstream-netbsd/lib/libm/complex |
-| **libandroid-execinfo** | 0.1-2 | Shared library for the backtrace system function | https://man7.org/linux/man-pages/man3/backtrace.3.html |
-| **libandroid-execinfo-static** | 0.1-2 | Static libraries for libandroid-execinfo | https://man7.org/linux/man-pages/man3/backtrace.3.html |
+| **libandroid-execinfo** | 0.1-3 | Shared library for the backtrace system function | https://man7.org/linux/man-pages/man3/backtrace.3.html |
+| **libandroid-execinfo-static** | 0.1-3 | Static libraries for libandroid-execinfo | https://man7.org/linux/man-pages/man3/backtrace.3.html |
 | **libandroid-glob** | 0.6-3 | Shared library for the glob(3) system function | https://man7.org/linux/man-pages/man3/glob.3.html |
 | **libandroid-glob-static** | 0.6-3 | Static libraries for libandroid-glob | https://man7.org/linux/man-pages/man3/glob.3.html |
 | **libandroid-posix-semaphore** | 0.1-4 | Shared library for the posix semaphore system function | https://man7.org/linux/man-pages/man7/sem_overview.7.html |
