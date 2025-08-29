@@ -603,15 +603,15 @@
   Description: A non-web client for the terminal, supporting Gopher, Gemini and much more
   Homepage: https://bombadillo.colorfield.space/
 - Package: boost
-  Version: 1:1.87.0-1
+  Version: 1:1.87.0-2
   Description: Free peer-reviewed portable C++ source libraries
   Homepage: https://boost.org
 - Package: boost-headers
-  Version: 1:1.87.0-1
+  Version: 1:1.87.0-2
   Description: Boost header files
   Homepage: https://boost.org
 - Package: boost-static
-  Version: 1:1.87.0-1
+  Version: 1:1.87.0-2
   Description: Static libraries for boost
   Homepage: https://boost.org
 - Package: bore
@@ -10663,7 +10663,7 @@
   Description: Programmable file compressor, library and utilities. Based on the PAQ compression algorithm
   Homepage: http://mattmahoney.net/dc/zpaq.html
 - Package: zrok
-  Version: 1.1.3
+  Version: 1.1.3-1
   Description: An open source sharing solution built on OpenZiti.
   Homepage: https://zrok.io/
 - Package: zsh
