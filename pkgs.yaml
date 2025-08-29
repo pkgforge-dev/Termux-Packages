@@ -75,7 +75,7 @@
   Description: A code generator for the Verilog-AMS language
   Homepage: https://github.com/qucs/adms
 - Package: aerc
-  Version: 0.20.1
+  Version: 0.21.0
   Description: A pretty good email client
   Homepage: https://aerc-mail.org/
 - Package: agate
@@ -7463,7 +7463,7 @@
   Description: Open Source API and interchange format for editorial timeline information.
   Homepage: http://opentimeline.io/
 - Package: openxr
-  Version: 1.1.50
+  Version: 1.1.51
   Description: Open standard that provides a common set of APIs for developing XR applications
   Homepage: https://www.khronos.org/openxr/
 - Package: optipng
@@ -7735,7 +7735,7 @@
   Description: Sodium module for PHP/Apache
   Homepage: https://php.net
 - Package: php-apcu
-  Version: 5.1.26
+  Version: 5.1.27
   Description: APCu - APC User Cache
   Homepage: http://php.net/apcu
 - Package: php-fpm
@@ -10059,7 +10059,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.8.13
+  Version: 0.8.14
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi

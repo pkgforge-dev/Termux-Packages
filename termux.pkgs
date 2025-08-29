@@ -17,7 +17,7 @@
 | **acr** | 2.2.2 | A fully compatible autoconf replacement | https://github.com/radareorg/acr |
 | **ada** | 3.2.7 | WHATWG-compliant and fast URL parser written in modern C++ | https://github.com/ada-url/ada |
 | **adms** | 2.3.7 | A code generator for the Verilog-AMS language | https://github.com/qucs/adms |
-| **aerc** | 0.20.1 | A pretty good email client | https://aerc-mail.org/ |
+| **aerc** | 0.21.0 | A pretty good email client | https://aerc-mail.org/ |
 | **agate** | 3.3.18 | Very simple server for the Gemini hypertext protocol | https://github.com/mbrubeck/agate |
 | **age** | 1:1.2.1 | A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability | https://github.com/FiloSottile/age |
 | **agg** | 1.5.0 | asciinema gif generator | https://github.com/asciinema/agg |
@@ -1864,7 +1864,7 @@
 | **openssl-static** | 1:3.5.2 | Static libraries for openssl | https://www.openssl.org/ |
 | **openssl-tool** | 1:3.5.2 | The openssl command line cryptographic tool | https://www.openssl.org/ |
 | **opentimelineio** | 0.17.0 | Open Source API and interchange format for editorial timeline information. | http://opentimeline.io/ |
-| **openxr** | 1.1.50 | Open standard that provides a common set of APIs for developing XR applications | https://www.khronos.org/openxr/ |
+| **openxr** | 1.1.51 | Open standard that provides a common set of APIs for developing XR applications | https://www.khronos.org/openxr/ |
 | **optipng** | 7.9.1 | PNG optimizer that recompresses image files to a smaller size, without losing any information | https://optipng.sourceforge.net/ |
 | **opus-tools** | 0.2-3 | Utilities to encode and decode .opus files | https://www.opus-codec.org/ |
 | **opusfile** | 0.12-3 | A high-level API for decoding and seeking within .opus files | https://www.opus-codec.org/ |
@@ -1932,7 +1932,7 @@
 | **php-apache-opcache** | 8.4.2-2 | OPcache module for PHP/Apache | https://php.net |
 | **php-apache-pgsql** | 8.4.2-2 | PostgreSQL modules for PHP/Apache | https://php.net |
 | **php-apache-sodium** | 8.4.2-2 | Sodium module for PHP/Apache | https://php.net |
-| **php-apcu** | 5.1.26 | APCu - APC User Cache | http://php.net/apcu |
+| **php-apcu** | 5.1.27 | APCu - APC User Cache | http://php.net/apcu |
 | **php-fpm** | 8.4.2-2 | FastCGI Process Manager for PHP | https://php.net |
 | **php-gd** | 8.4.2-2 | gd module for PHP | https://php.net |
 | **php-imagick** | 3.8.0 | The Imagick PHP extension | https://github.com/Imagick/imagick |
@@ -2513,7 +2513,7 @@
 | **util-linux-static** | 2.40.2-5 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-1 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.40.2-5 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **uv** | 0.8.13 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
+| **uv** | 0.8.14 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.30 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.38.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.18 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
