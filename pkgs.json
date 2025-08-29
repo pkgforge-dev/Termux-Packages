@@ -1003,7 +1003,7 @@
   },
   {
     "Package": "bsdtar",
-    "Version": "3.8.1",
+    "Version": "3.8.1-1",
     "Description": "The tar(1) and cpio(1) programs from FreeBSD, using libarchive",
     "Homepage": "https://www.libarchive.org/"
   },
@@ -1033,7 +1033,7 @@
   },
   {
     "Package": "busybox",
-    "Version": "1.37.0-1",
+    "Version": "1.37.0-2",
     "Description": "Tiny versions of many common UNIX utilities into a single small executable",
     "Homepage": "https://busybox.net/"
   },
@@ -4729,13 +4729,13 @@
   },
   {
     "Package": "jsoncpp",
-    "Version": "1.9.6-1",
+    "Version": "1.9.6-2",
     "Description": "C++ library for interacting with JSON",
     "Homepage": "https://github.com/open-source-parsers/jsoncpp"
   },
   {
     "Package": "jsoncpp-static",
-    "Version": "1.9.6-1",
+    "Version": "1.9.6-2",
     "Description": "Static libraries for jsoncpp",
     "Homepage": "https://github.com/open-source-parsers/jsoncpp"
   },
@@ -5215,13 +5215,13 @@
   },
   {
     "Package": "libarchive",
-    "Version": "3.8.1",
+    "Version": "3.8.1-1",
     "Description": "Multi-format archive and compression library",
     "Homepage": "https://www.libarchive.org/"
   },
   {
     "Package": "libarchive-static",
-    "Version": "3.8.1",
+    "Version": "3.8.1-1",
     "Description": "Static libraries for libarchive",
     "Homepage": "https://www.libarchive.org/"
   },
@@ -6181,13 +6181,13 @@
   },
   {
     "Package": "libgmime",
-    "Version": "3.2.15",
+    "Version": "3.2.15-1",
     "Description": "MIME message parser and creator",
     "Homepage": "https://github.com/jstedfast/gmime"
   },
   {
     "Package": "libgmime-static",
-    "Version": "3.2.15",
+    "Version": "3.2.15-1",
     "Description": "Static libraries for libgmime",
     "Homepage": "https://github.com/jstedfast/gmime"
   },
@@ -7687,13 +7687,13 @@
   },
   {
     "Package": "libpopt",
-    "Version": "1.19-2",
+    "Version": "1.19-3",
     "Description": "Library for parsing cmdline parameters",
     "Homepage": "https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html"
   },
   {
     "Package": "libpopt-static",
-    "Version": "1.19-2",
+    "Version": "1.19-3",
     "Description": "Static libraries for libpopt",
     "Homepage": "https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html"
   },
@@ -8293,13 +8293,13 @@
   },
   {
     "Package": "libtalloc",
-    "Version": "2.4.2",
+    "Version": "2.4.3",
     "Description": "Hierarchical, reference counted memory pool system with destructors",
     "Homepage": "https://talloc.samba.org/talloc/doc/html/index.html"
   },
   {
     "Package": "libtalloc-static",
-    "Version": "2.4.2",
+    "Version": "2.4.3",
     "Description": "Static libraries for libtalloc",
     "Homepage": "https://talloc.samba.org/talloc/doc/html/index.html"
   },
@@ -8659,13 +8659,13 @@
   },
   {
     "Package": "libuv",
-    "Version": "1.51.0",
+    "Version": "1.51.0-1",
     "Description": "Support library with a focus on asynchronous I/O",
     "Homepage": "https://libuv.org"
   },
   {
     "Package": "libuv-static",
-    "Version": "1.51.0",
+    "Version": "1.51.0-1",
     "Description": "Static libraries for libuv",
     "Homepage": "https://libuv.org"
   },
@@ -8899,13 +8899,13 @@
   },
   {
     "Package": "libxapian",
-    "Version": "1.4.29",
+    "Version": "1.4.29-1",
     "Description": "Xapian search engine library",
     "Homepage": "https://xapian.org"
   },
   {
     "Package": "libxapian-static",
-    "Version": "1.4.29",
+    "Version": "1.4.29-1",
     "Description": "Static libraries for libxapian",
     "Homepage": "https://xapian.org"
   },
@@ -9661,7 +9661,7 @@
   },
   {
     "Package": "mandoc",
-    "Version": "1.14.6-5",
+    "Version": "1.14.6-6",
     "Description": "Man page viewer from the mandoc toolset",
     "Homepage": "https://mdocml.bsd.lv/"
   },
@@ -10369,7 +10369,7 @@
   },
   {
     "Package": "mutt",
-    "Version": "2.2.14-1",
+    "Version": "2.2.14-2",
     "Description": "Mail client with patches from neomutt",
     "Homepage": "http://www.mutt.org/"
   },
@@ -10711,7 +10711,7 @@
   },
   {
     "Package": "ninja",
-    "Version": "1.13.1",
+    "Version": "1.13.1-1",
     "Description": "A small build system with a focus on speed",
     "Homepage": "https://ninja-build.org"
   },
@@ -10795,7 +10795,7 @@
   },
   {
     "Package": "notmuch",
-    "Version": "0.39",
+    "Version": "0.39-1",
     "Description": "Thread-based email index, search and tagging system",
     "Homepage": "https://notmuchmail.org"
   },
@@ -12955,7 +12955,7 @@
   },
   {
     "Package": "rsync",
-    "Version": "3.4.1",
+    "Version": "3.4.1-1",
     "Description": "Fast incremental file transfer utility",
     "Homepage": "https://rsync.samba.org/"
   },
@@ -13033,13 +13033,13 @@
   },
   {
     "Package": "runit",
-    "Version": "2.1.2-3",
+    "Version": "2.1.2-4",
     "Description": "Tools to provide service supervision and to manage services",
     "Homepage": "http://smarden.org/runit"
   },
   {
     "Package": "runit-static",
-    "Version": "2.1.2-3",
+    "Version": "2.1.2-4",
     "Description": "Static libraries for runit",
     "Homepage": "http://smarden.org/runit"
   },
@@ -14647,7 +14647,7 @@
   },
   {
     "Package": "tree",
-    "Version": "2.2.1",
+    "Version": "2.2.1-1",
     "Description": "Recursive directory lister producing a depth indented listing of files",
     "Homepage": "http://mama.indstate.edu/users/ice/tree/"
   },
@@ -15655,7 +15655,7 @@
   },
   {
     "Package": "xapian-tools",
-    "Version": "1.4.29",
+    "Version": "1.4.29-1",
     "Description": "Basic tools for the Xapian search engine",
     "Homepage": "https://xapian.org"
   },
@@ -15931,7 +15931,7 @@
   },
   {
     "Package": "zip",
-    "Version": "3.0-5",
+    "Version": "3.0-6",
     "Description": "Tools for working with zip files",
     "Homepage": "https://sourceforge.net/projects/infozip/"
   },

@@ -177,12 +177,12 @@
 | **brotli** | 1.1.0-2 | lossless compression algorithm and format (command line utility) | https://github.com/google/brotli |
 | **bsd-finger** | 0.17-1 | User information lookup program | https://packages.debian.org/sid/source/bsd-finger |
 | **bsd-games** | 1:3.3 | Classic text mode games from UNIX folklore | https://www.polyomino.org.uk/computer/software/bsd-games/ |
-| **bsdtar** | 3.8.1 | The tar(1) and cpio(1) programs from FreeBSD, using libarchive | https://www.libarchive.org/ |
+| **bsdtar** | 3.8.1-1 | The tar(1) and cpio(1) programs from FreeBSD, using libarchive | https://www.libarchive.org/ |
 | **btfs2** | 4.0.0 | Decentralized file system integrating with TRON network and Bittorrent network | https://www.bittorrent.com/btfs/ |
 | **btrfs-progs** | 6.16 | Utilities for Btrfs filesystem | https://btrfs.readthedocs.io/en/latest/ |
 | **buf** | 1.57.0 | A new way of working with Protocol Buffers | https://buf.build |
 | **build-essential** | 4.1 | A metapackage that installs essential development tools | https://github.com/termux/termux-packages |
-| **busybox** | 1.37.0-1 | Tiny versions of many common UNIX utilities into a single small executable | https://busybox.net/ |
+| **busybox** | 1.37.0-2 | Tiny versions of many common UNIX utilities into a single small executable | https://busybox.net/ |
 | **bvi** | 1.5.0 | Binary file editor based on vi | https://bvi.sourceforge.net/ |
 | **byacc** | 20241231-1 | byacc is generally conceded to be the best yacc variant available | https://invisible-island.net/byacc/ |
 | **byobu** | 6.13 | Byobu is a GPLv3 open source text-based window manager and terminal multiplexer | https://www.byobu.org/ |
@@ -798,8 +798,8 @@
 | **json-c** | 0.18-1 | A JSON implementation in C | https://github.com/json-c/json-c/wiki |
 | **json-c-static** | 0.18-1 | Static libraries for json-c | https://github.com/json-c/json-c/wiki |
 | **json-glib** | 1.10.6 | GLib JSON manipulation library | https://wiki.gnome.org/Projects/JsonGlib |
-| **jsoncpp** | 1.9.6-1 | C++ library for interacting with JSON | https://github.com/open-source-parsers/jsoncpp |
-| **jsoncpp-static** | 1.9.6-1 | Static libraries for jsoncpp | https://github.com/open-source-parsers/jsoncpp |
+| **jsoncpp** | 1.9.6-2 | C++ library for interacting with JSON | https://github.com/open-source-parsers/jsoncpp |
+| **jsoncpp-static** | 1.9.6-2 | Static libraries for jsoncpp | https://github.com/open-source-parsers/jsoncpp |
 | **jump** | 0.51.0-3 | Jump helps you navigate in shell faster by learning your habits | https://github.com/gsamokovarov/jump |
 | **jupp** | 3.1jupp41-1 | User friendly full screen text editor | http://www.mirbsd.org/jupp.htm |
 | **just** | 1.42.4 | A handy way to save and run project-specific commands | https://just.systems |
@@ -879,8 +879,8 @@
 | **libaom** | 3.12.1 | AV1 Video Codec Library | https://aomedia.org/ |
 | **libaom-static** | 3.12.1 | Static libraries for libaom | https://aomedia.org/ |
 | **libapt-pkg-perl** | 0.1.40-11 | Perl interface to APT's libapt-pkg | https://packages.debian.org/libapt-pkg-perl |
-| **libarchive** | 3.8.1 | Multi-format archive and compression library | https://www.libarchive.org/ |
-| **libarchive-static** | 3.8.1 | Static libraries for libarchive | https://www.libarchive.org/ |
+| **libarchive** | 3.8.1-1 | Multi-format archive and compression library | https://www.libarchive.org/ |
+| **libarchive-static** | 3.8.1-1 | Static libraries for libarchive | https://www.libarchive.org/ |
 | **libarrow-cpp** | 21.0.0 | C++ libraries for Apache Arrow | https://github.com/apache/arrow |
 | **libasio** | 1.24.0-2 | Cross-platform C++ library for network and low-level I/O programming | https://think-async.com/Asio |
 | **libasm** | 0.193 | Library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |
@@ -1040,8 +1040,8 @@
 | **libglibmm-2.68** | 2.84.0 | A C++ API for parts of glib that are useful for C++ | https://www.gtkmm.org/ |
 | **libglvnd** | 1.7.0 | The GL Vendor-Neutral Dispatch library | https://gitlab.freedesktop.org/glvnd/libglvnd |
 | **libglvnd-dev** | 1.7.0 | GLVND's OpenGL headers | https://gitlab.freedesktop.org/glvnd/libglvnd |
-| **libgmime** | 3.2.15 | MIME message parser and creator | https://github.com/jstedfast/gmime |
-| **libgmime-static** | 3.2.15 | Static libraries for libgmime | https://github.com/jstedfast/gmime |
+| **libgmime** | 3.2.15-1 | MIME message parser and creator | https://github.com/jstedfast/gmime |
+| **libgmime-static** | 3.2.15-1 | Static libraries for libgmime | https://github.com/jstedfast/gmime |
 | **libgmp** | 6.3.0-2 | Library for arbitrary precision arithmetic | https://gmplib.org/ |
 | **libgmp-static** | 6.3.0-2 | Static libraries for libgmp | https://gmplib.org/ |
 | **libgnt** | 2.14.4-1 | An ncurses toolkit for creating text-mode graphical user interfaces in a fast and easy way | https://keep.imfreedom.org/libgnt/libgnt |
@@ -1291,8 +1291,8 @@
 | **libpngwriter-static** | 0.7.0 | Static libraries for libpngwriter | http://pngwriter.sourceforge.net |
 | **libpoco** | 1.14.2 | A comprehensive set of C++ libraries that cover all modern-day programming needs | https://pocoproject.org/ |
 | **libpolly** | 20.1.8-3 | High-level loop and data-locality optimizer for clang | https://clang.llvm.org/ |
-| **libpopt** | 1.19-2 | Library for parsing cmdline parameters | https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html |
-| **libpopt-static** | 1.19-2 | Static libraries for libpopt | https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html |
+| **libpopt** | 1.19-3 | Library for parsing cmdline parameters | https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html |
+| **libpopt-static** | 1.19-3 | Static libraries for libpopt | https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html |
 | **libprotobuf** | 2:30.0-3 | Protocol buffers C++ library | https://github.com/protocolbuffers/protobuf |
 | **libprotobuf-c** | 1.5.2 | Protocol buffers C library | https://github.com/protobuf-c/protobuf-c |
 | **libprotobuf-c-static** | 1.5.2 | Static libraries for libprotobuf-c | https://github.com/protobuf-c/protobuf-c |
@@ -1392,8 +1392,8 @@
 | **libt3key** | 0.2.11 | A library and database with escape sequence to key symbol mappings | https://os.ghalkes.nl/t3/libt3key.html |
 | **libt3widget** | 1.2.2-2 | A library of widgets and dialogs to facilitate construction of easy-to-use terminal-based programs | https://os.ghalkes.nl/t3/libt3widget.html |
 | **libt3window** | 0.4.2 | A library providing a windowing abstraction on terminals | https://os.ghalkes.nl/t3/libt3window.html |
-| **libtalloc** | 2.4.2 | Hierarchical, reference counted memory pool system with destructors | https://talloc.samba.org/talloc/doc/html/index.html |
-| **libtalloc-static** | 2.4.2 | Static libraries for libtalloc | https://talloc.samba.org/talloc/doc/html/index.html |
+| **libtalloc** | 2.4.3 | Hierarchical, reference counted memory pool system with destructors | https://talloc.samba.org/talloc/doc/html/index.html |
+| **libtalloc-static** | 2.4.3 | Static libraries for libtalloc | https://talloc.samba.org/talloc/doc/html/index.html |
 | **libtasn1** | 4.20.0 | This is GNU Libtasn1, a small ASN.1 library | https://www.gnu.org/software/libtasn1/ |
 | **libtasn1-static** | 4.20.0 | Static libraries for libtasn1 | https://www.gnu.org/software/libtasn1/ |
 | **libtatsu** | 1.0.5 | Library handling the communication with Apple's Tatsu Signing Server (TSS) | https://libimobiledevice.org/ |
@@ -1453,8 +1453,8 @@
 | **libusbmuxd-static** | 2.1.1 | Static libraries for libusbmuxd | https://libimobiledevice.org |
 | **libusbredir** | 0.13.0 | network protocol for sending USB device traffic over a network connection | https://www.spice-space.org/ |
 | **libuuid** | 2.40.2-5 | Library for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **libuv** | 1.51.0 | Support library with a focus on asynchronous I/O | https://libuv.org |
-| **libuv-static** | 1.51.0 | Static libraries for libuv | https://libuv.org |
+| **libuv** | 1.51.0-1 | Support library with a focus on asynchronous I/O | https://libuv.org |
+| **libuv-static** | 1.51.0-1 | Static libraries for libuv | https://libuv.org |
 | **libv4l** | 1.24.1-1 | Linux libraries to handle media devices | https://git.linuxtv.org/v4l-utils.git |
 | **libv4l-static** | 1.24.1-1 | Static libraries for libv4l | https://git.linuxtv.org/v4l-utils.git |
 | **libvbisam** | 2.0-2 | A replacement for IBM's C-ISAM | https://sourceforge.net/projects/vbisam/ |
@@ -1493,8 +1493,8 @@
 | **libx264-static** | 1:0.164.3191 | Static libraries for libx264 | https://www.videolan.org/developers/x264.html |
 | **libx265** | 4.1 | H.265/HEVC video stream encoder library | http://x265.org/ |
 | **libx265-static** | 4.1 | Static libraries for libx265 | http://x265.org/ |
-| **libxapian** | 1.4.29 | Xapian search engine library | https://xapian.org |
-| **libxapian-static** | 1.4.29 | Static libraries for libxapian | https://xapian.org |
+| **libxapian** | 1.4.29-1 | Xapian search engine library | https://xapian.org |
+| **libxapian-static** | 1.4.29-1 | Static libraries for libxapian | https://xapian.org |
 | **libxau** | 1.0.12 | X11 authorisation library | https://xorg.freedesktop.org/ |
 | **libxcb** | 1.17.0 | X11 client-side library | https://xcb.freedesktop.org/ |
 | **libxcb-static** | 1.17.0 | Static libraries for libxcb | https://xcb.freedesktop.org/ |
@@ -1620,7 +1620,7 @@
 | **mailutils** | 3.20 | Mailutils is a swiss army knife of electronic mail handling.  | https://mailutils.org/ |
 | **make** | 4.4.1-1 | Tool to control the generation of non-source files from source files | https://www.gnu.org/software/make/ |
 | **make-guile** | 4.4.1-1 | Tool to control the generation of non-source files from source files | https://www.gnu.org/software/make/ |
-| **mandoc** | 1.14.6-5 | Man page viewer from the mandoc toolset | https://mdocml.bsd.lv/ |
+| **mandoc** | 1.14.6-6 | Man page viewer from the mandoc toolset | https://mdocml.bsd.lv/ |
 | **mangal** | 4.0.6-2 | Cli manga downloader | https://github.com/metafates/mangal |
 | **manpages** | 6.15 | Man pages for linux kernel and C library interfaces | https://www.kernel.org/doc/man-pages/ |
 | **mapserver** | 8.2.2-2 | MapServer is CGI-based platform for publishing spatial data and interactive mapping applications to the web | https://mapserver.org/ |
@@ -1738,7 +1738,7 @@
 | **mupdf-static** | 1.24.10 | Static libraries for mupdf | https://mupdf.com/ |
 | **mupdf-tools** | 1.24.10 | Lightweight PDF and XPS viewer (utilities) | https://mupdf.com/ |
 | **music-file-organizer** | 1.0.4-7 | Organizer of audio files into directories based on metadata tags | https://git.zx2c4.com/music-file-organizer/about/ |
-| **mutt** | 2.2.14-1 | Mail client with patches from neomutt | http://www.mutt.org/ |
+| **mutt** | 2.2.14-2 | Mail client with patches from neomutt | http://www.mutt.org/ |
 | **myman** | 0.7.1-6 | Video game for color and monochrome text terminals in the genre of Namco's Pac-Man | https://sourceforge.net/projects/myman/ |
 | **mympd** | 22.0.4 | A standalone and lightweight web-based MPD client | https://jcorporation.github.io/myMPD/ |
 | **mypaint-brushes** | 2.0.2 | MyPaint brushes | https://github.com/mypaint/mypaint-brushes |
@@ -1795,7 +1795,7 @@
 | **ngircd** | 27 | Free, portable and lightweight Internet Relay Chat server | https://ngircd.barton.de/ |
 | **ngspice** | 44.2 | A mixed-level/mixed-signal circuit simulator | https://ngspice.sourceforge.net/ |
 | **nim** | 2.2.4 | Nim programming language compiler | https://nim-lang.org/ |
-| **ninja** | 1.13.1 | A small build system with a focus on speed | https://ninja-build.org |
+| **ninja** | 1.13.1-1 | A small build system with a focus on speed | https://ninja-build.org |
 | **ninvaders** | 0.1.2-2 | Space Invaders clone based on ncurses for ASCII output | http://ninvaders.sourceforge.net |
 | **nlohmann-json** | 3.12.0 | JSON for Modern C++ | https://github.com/nlohmann/json |
 | **nlopt** | 2.10.0 | Library for nonlinear optimization | https://nlopt.readthedocs.io/ |
@@ -1809,7 +1809,7 @@
 | **notcurses** | 3.0.16 | blingful TUIs and character graphics | https://notcurses.com/ |
 | **notcurses-data** | 3.0.16 | Platform-independent data for notcurses | https://notcurses.com/ |
 | **notcurses-tools** | 3.0.16 | Tools and demos for notcurses | https://notcurses.com/ |
-| **notmuch** | 0.39 | Thread-based email index, search and tagging system | https://notmuchmail.org |
+| **notmuch** | 0.39-1 | Thread-based email index, search and tagging system | https://notmuchmail.org |
 | **npush** | 0.7-1 | Curses-based logic game similar to Sokoban and Boulder Dash | http://npush.sourceforge.net/ |
 | **nsis** | 3.11 | A professional open source system to create Windows installers | https://sourceforge.net/projects/nsis/ |
 | **nsis-stubs** | 3.11 | NSIS Stubs | https://sourceforge.net/projects/nsis/ |
@@ -2169,7 +2169,7 @@
 | **rq** | 1.0.4 | A tool for doing record analysis and transformation | https://github.com/dflemstr/rq |
 | **rsgain** | 3.6-1 | A simple audio normalizazion utility | https://github.com/complexlogic/rsgain |
 | **rsnapshot** | 1.5.1 | A remote filesystem snapshot utility | https://www.rsnapshot.org/ |
-| **rsync** | 3.4.1 | Fast incremental file transfer utility | https://rsync.samba.org/ |
+| **rsync** | 3.4.1-1 | Fast incremental file transfer utility | https://rsync.samba.org/ |
 | **rtmpdump** | 2.6 | Small dumper for media content streamed over the RTMP protocol | https://rtmpdump.mplayerhq.hu/ |
 | **rtmpdump-static** | 2.6 | Static libraries for rtmpdump | https://rtmpdump.mplayerhq.hu/ |
 | **rtorrent** | 0.15.6 | Ncurses BitTorrent client based on libTorrent | https://rakshasa.github.io/rtorrent/ |
@@ -2182,8 +2182,8 @@
 | **ruby** | 3.4.1-2 | Dynamic programming language with a focus on simplicity and productivity | https://www.ruby-lang.org/ |
 | **ruby-ri** | 3.4.1-2 | Ruby documentation index | https://www.ruby-lang.org/ |
 | **ruff** | 0.12.11 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
-| **runit** | 2.1.2-3 | Tools to provide service supervision and to manage services | http://smarden.org/runit |
-| **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
+| **runit** | 2.1.2-4 | Tools to provide service supervision and to manage services | http://smarden.org/runit |
+| **runit-static** | 2.1.2-4 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.7.0 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
 | **rust** | 1.89.0-1 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
 | **rust-analyzer** | 20250825 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
@@ -2451,7 +2451,7 @@
 | **traceroute** | 2.1.6 | A new modern implementation of traceroute(8) utility for Linux systems | https://traceroute.sourceforge.net/ |
 | **translate-shell** | 0.9.7.1 | Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc. | https://www.soimort.org/translate-shell |
 | **transmission** | 4.0.6-4 | Easy, lean and powerful BitTorrent client | https://transmissionbt.com/ |
-| **tree** | 2.2.1 | Recursive directory lister producing a depth indented listing of files | http://mama.indstate.edu/users/ice/tree/ |
+| **tree** | 2.2.1-1 | Recursive directory lister producing a depth indented listing of files | http://mama.indstate.edu/users/ice/tree/ |
 | **tree-sitter** | 0.25.8 | An incremental parsing system for programming tools | https://github.com/tree-sitter/tree-sitter |
 | **tree-sitter-c** | 0.24.1-2 | C grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-c |
 | **tree-sitter-lua** | 0.4.0-2 | Lua grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-lua |
@@ -2619,7 +2619,7 @@
 | **x11-repo** | 8.4-1 | Package repository containing X11 programs and libraries | https://github.com/termux/x11-packages |
 | **x264** | 1:0.164.3191 | Commandline video encoder for the H.264/MPEG-4 AVC format | https://www.videolan.org/developers/x264.html |
 | **x265** | 4.1 | H.265/HEVC video stream encoder tool | http://x265.org/ |
-| **xapian-tools** | 1.4.29 | Basic tools for the Xapian search engine | https://xapian.org |
+| **xapian-tools** | 1.4.29-1 | Basic tools for the Xapian search engine | https://xapian.org |
 | **xcb-proto** | 1.17.0-1 | XML-XCB protocol descriptions | https://xcb.freedesktop.org/ |
 | **xdelta3** | 3.1.0-2 | xdelta3 - VCDIFF (RFC 3284) binary diff tool | https://github.com/jmacd/xdelta |
 | **xh** | 0.24.1 | A friendly and fast tool for sending HTTP requests | https://github.com/ducaale/xh |
@@ -2665,7 +2665,7 @@
 | **zeronet** | 0.7.1-9 | Decentralized websites using Bitcoin crypto and BitTorrent network | https://zeronet.io/ |
 | **zig** | 0.14.1 | General-purpose programming language and toolchain | https://ziglang.org |
 | **zile** | 2.6.4-1 | Lightweight clone of the Emacs text editor | https://www.gnu.org/software/zile/ |
-| **zip** | 3.0-5 | Tools for working with zip files | https://sourceforge.net/projects/infozip/ |
+| **zip** | 3.0-6 | Tools for working with zip files | https://sourceforge.net/projects/infozip/ |
 | **zipios** | 2.3.2 | A small C++ library for reading and writing zip files | https://zipios.sourceforge.io/ |
 | **zk** | 0.15.1 | A plain text note-taking assistant | https://zk-org.github.io/zk/ |
 | **zlib** | 1.3.1-1 | Compression library implementing the deflate compression method found in gzip and PKZIP | https://www.zlib.net/ |

@@ -667,7 +667,7 @@
   Description: Classic text mode games from UNIX folklore
   Homepage: https://www.polyomino.org.uk/computer/software/bsd-games/
 - Package: bsdtar
-  Version: 3.8.1
+  Version: 3.8.1-1
   Description: The tar(1) and cpio(1) programs from FreeBSD, using libarchive
   Homepage: https://www.libarchive.org/
 - Package: btfs2
@@ -687,7 +687,7 @@
   Description: A metapackage that installs essential development tools
   Homepage: https://github.com/termux/termux-packages
 - Package: busybox
-  Version: 1.37.0-1
+  Version: 1.37.0-2
   Description: Tiny versions of many common UNIX utilities into a single small executable
   Homepage: https://busybox.net/
 - Package: bvi
@@ -3151,11 +3151,11 @@
   Description: GLib JSON manipulation library
   Homepage: https://wiki.gnome.org/Projects/JsonGlib
 - Package: jsoncpp
-  Version: 1.9.6-1
+  Version: 1.9.6-2
   Description: C++ library for interacting with JSON
   Homepage: https://github.com/open-source-parsers/jsoncpp
 - Package: jsoncpp-static
-  Version: 1.9.6-1
+  Version: 1.9.6-2
   Description: Static libraries for jsoncpp
   Homepage: https://github.com/open-source-parsers/jsoncpp
 - Package: jump
@@ -3475,11 +3475,11 @@
   Description: Perl interface to APTs libapt-pkg
   Homepage: https://packages.debian.org/libapt-pkg-perl
 - Package: libarchive
-  Version: 3.8.1
+  Version: 3.8.1-1
   Description: Multi-format archive and compression library
   Homepage: https://www.libarchive.org/
 - Package: libarchive-static
-  Version: 3.8.1
+  Version: 3.8.1-1
   Description: Static libraries for libarchive
   Homepage: https://www.libarchive.org/
 - Package: libarrow-cpp
@@ -4119,11 +4119,11 @@
   Description: GLVNDs OpenGL headers
   Homepage: https://gitlab.freedesktop.org/glvnd/libglvnd
 - Package: libgmime
-  Version: 3.2.15
+  Version: 3.2.15-1
   Description: MIME message parser and creator
   Homepage: https://github.com/jstedfast/gmime
 - Package: libgmime-static
-  Version: 3.2.15
+  Version: 3.2.15-1
   Description: Static libraries for libgmime
   Homepage: https://github.com/jstedfast/gmime
 - Package: libgmp
@@ -5123,11 +5123,11 @@
   Description: High-level loop and data-locality optimizer for clang
   Homepage: https://clang.llvm.org/
 - Package: libpopt
-  Version: 1.19-2
+  Version: 1.19-3
   Description: Library for parsing cmdline parameters
   Homepage: https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html
 - Package: libpopt-static
-  Version: 1.19-2
+  Version: 1.19-3
   Description: Static libraries for libpopt
   Homepage: https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html
 - Package: libprotobuf
@@ -5527,11 +5527,11 @@
   Description: A library providing a windowing abstraction on terminals
   Homepage: https://os.ghalkes.nl/t3/libt3window.html
 - Package: libtalloc
-  Version: 2.4.2
+  Version: 2.4.3
   Description: Hierarchical, reference counted memory pool system with destructors
   Homepage: https://talloc.samba.org/talloc/doc/html/index.html
 - Package: libtalloc-static
-  Version: 2.4.2
+  Version: 2.4.3
   Description: Static libraries for libtalloc
   Homepage: https://talloc.samba.org/talloc/doc/html/index.html
 - Package: libtasn1
@@ -5771,11 +5771,11 @@
   Description: Library for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: libuv
-  Version: 1.51.0
+  Version: 1.51.0-1
   Description: Support library with a focus on asynchronous I/O
   Homepage: https://libuv.org
 - Package: libuv-static
-  Version: 1.51.0
+  Version: 1.51.0-1
   Description: Static libraries for libuv
   Homepage: https://libuv.org
 - Package: libv4l
@@ -5931,11 +5931,11 @@
   Description: Static libraries for libx265
   Homepage: http://x265.org/
 - Package: libxapian
-  Version: 1.4.29
+  Version: 1.4.29-1
   Description: Xapian search engine library
   Homepage: https://xapian.org
 - Package: libxapian-static
-  Version: 1.4.29
+  Version: 1.4.29-1
   Description: Static libraries for libxapian
   Homepage: https://xapian.org
 - Package: libxau
@@ -6439,7 +6439,7 @@
   Description: Tool to control the generation of non-source files from source files
   Homepage: https://www.gnu.org/software/make/
 - Package: mandoc
-  Version: 1.14.6-5
+  Version: 1.14.6-6
   Description: Man page viewer from the mandoc toolset
   Homepage: https://mdocml.bsd.lv/
 - Package: mangal
@@ -6911,7 +6911,7 @@
   Description: Organizer of audio files into directories based on metadata tags
   Homepage: https://git.zx2c4.com/music-file-organizer/about/
 - Package: mutt
-  Version: 2.2.14-1
+  Version: 2.2.14-2
   Description: Mail client with patches from neomutt
   Homepage: http://www.mutt.org/
 - Package: myman
@@ -7139,7 +7139,7 @@
   Description: Nim programming language compiler
   Homepage: https://nim-lang.org/
 - Package: ninja
-  Version: 1.13.1
+  Version: 1.13.1-1
   Description: A small build system with a focus on speed
   Homepage: https://ninja-build.org
 - Package: ninvaders
@@ -7195,7 +7195,7 @@
   Description: Tools and demos for notcurses
   Homepage: https://notcurses.com/
 - Package: notmuch
-  Version: "0.39"
+  Version: 0.39-1
   Description: Thread-based email index, search and tagging system
   Homepage: https://notmuchmail.org
 - Package: npush
@@ -8635,7 +8635,7 @@
   Description: A remote filesystem snapshot utility
   Homepage: https://www.rsnapshot.org/
 - Package: rsync
-  Version: 3.4.1
+  Version: 3.4.1-1
   Description: Fast incremental file transfer utility
   Homepage: https://rsync.samba.org/
 - Package: rtmpdump
@@ -8687,11 +8687,11 @@
   Description: An extremely fast Python linter, written in Rust
   Homepage: https://github.com/charliermarsh/ruff
 - Package: runit
-  Version: 2.1.2-3
+  Version: 2.1.2-4
   Description: Tools to provide service supervision and to manage services
   Homepage: http://smarden.org/runit
 - Package: runit-static
-  Version: 2.1.2-3
+  Version: 2.1.2-4
   Description: Static libraries for runit
   Homepage: http://smarden.org/runit
 - Package: rush
@@ -9763,7 +9763,7 @@
   Description: Easy, lean and powerful BitTorrent client
   Homepage: https://transmissionbt.com/
 - Package: tree
-  Version: 2.2.1
+  Version: 2.2.1-1
   Description: Recursive directory lister producing a depth indented listing of files
   Homepage: http://mama.indstate.edu/users/ice/tree/
 - Package: tree-sitter
@@ -10435,7 +10435,7 @@
   Description: H.265/HEVC video stream encoder tool
   Homepage: http://x265.org/
 - Package: xapian-tools
-  Version: 1.4.29
+  Version: 1.4.29-1
   Description: Basic tools for the Xapian search engine
   Homepage: https://xapian.org
 - Package: xcb-proto
@@ -10619,7 +10619,7 @@
   Description: Lightweight clone of the Emacs text editor
   Homepage: https://www.gnu.org/software/zile/
 - Package: zip
-  Version: 3.0-5
+  Version: 3.0-6
   Description: Tools for working with zip files
   Homepage: https://sourceforge.net/projects/infozip/
 - Package: zipios
