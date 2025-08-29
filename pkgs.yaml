@@ -3039,7 +3039,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.2360
+  Version: 0.22.2362
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -7819,7 +7819,7 @@
   Description: Helper tool used when compiling applications and libraries
   Homepage: https://www.freedesktop.org/wiki/Software/pkg-config/
 - Package: pkgfile
-  Version: "24"
+  Version: "25"
   Description: An alpm .files metadata explorer
   Homepage: https://github.com/falconindy/pkgfile
 - Package: pkgtop
