@@ -2617,7 +2617,7 @@
   },
   {
     "Package": "eza",
-    "Version": "0.23.0",
+    "Version": "0.23.0-1",
     "Description": "A modern replacement for ls",
     "Homepage": "https://github.com/eza-community/eza"
   },
@@ -4687,7 +4687,7 @@
   },
   {
     "Package": "jq",
-    "Version": "1.8.1",
+    "Version": "1.8.1-1",
     "Description": "Command-line JSON processor",
     "Homepage": "https://stedolan.github.io/jq/"
   },
@@ -4699,7 +4699,7 @@
   },
   {
     "Package": "jq-static",
-    "Version": "1.8.1",
+    "Version": "1.8.1-1",
     "Description": "Static libraries for jq",
     "Homepage": "https://stedolan.github.io/jq/"
   },
@@ -4927,13 +4927,13 @@
   },
   {
     "Package": "ldns",
-    "Version": "1.8.4",
+    "Version": "1.8.4-1",
     "Description": "Library for simplifying DNS programming and supporting recent and experimental RFCs",
     "Homepage": "https://www.nlnetlabs.nl/projects/ldns/"
   },
   {
     "Package": "ldns-static",
-    "Version": "1.8.4",
+    "Version": "1.8.4-1",
     "Description": "Static libraries for ldns",
     "Homepage": "https://www.nlnetlabs.nl/projects/ldns/"
   },
@@ -9169,7 +9169,7 @@
   },
   {
     "Package": "libyaml",
-    "Version": "0.2.5-4",
+    "Version": "0.2.5-5",
     "Description": "LibYAML is a YAML 1.1 parser and emitter written in C",
     "Homepage": "https://pyyaml.org/wiki/LibYAML"
   },
@@ -9181,7 +9181,7 @@
   },
   {
     "Package": "libyaml-static",
-    "Version": "0.2.5-4",
+    "Version": "0.2.5-5",
     "Description": "Static libraries for libyaml",
     "Homepage": "https://pyyaml.org/wiki/LibYAML"
   },
@@ -9649,13 +9649,13 @@
   },
   {
     "Package": "make",
-    "Version": "4.4.1",
+    "Version": "4.4.1-1",
     "Description": "Tool to control the generation of non-source files from source files",
     "Homepage": "https://www.gnu.org/software/make/"
   },
   {
     "Package": "make-guile",
-    "Version": "4.4.1",
+    "Version": "4.4.1-1",
     "Description": "Tool to control the generation of non-source files from source files",
     "Homepage": "https://www.gnu.org/software/make/"
   },
@@ -10951,13 +10951,13 @@
   },
   {
     "Package": "oniguruma",
-    "Version": "6.9.10",
+    "Version": "6.9.10-1",
     "Description": "Regular expressions library",
     "Homepage": "https://github.com/kkos/oniguruma"
   },
   {
     "Package": "oniguruma-static",
-    "Version": "6.9.10",
+    "Version": "6.9.10-1",
     "Description": "Static libraries for oniguruma",
     "Homepage": "https://github.com/kkos/oniguruma"
   },
@@ -13015,13 +13015,13 @@
   },
   {
     "Package": "ruby",
-    "Version": "3.4.1-1",
+    "Version": "3.4.1-2",
     "Description": "Dynamic programming language with a focus on simplicity and productivity",
     "Homepage": "https://www.ruby-lang.org/"
   },
   {
     "Package": "ruby-ri",
-    "Version": "3.4.1-1",
+    "Version": "3.4.1-2",
     "Description": "Ruby documentation index",
     "Homepage": "https://www.ruby-lang.org/"
   },
@@ -14551,7 +14551,7 @@
   },
   {
     "Package": "tmux",
-    "Version": "3.5a",
+    "Version": "3.5a-1",
     "Description": "Terminal multiplexer",
     "Homepage": "https://tmux.github.io/"
   },
