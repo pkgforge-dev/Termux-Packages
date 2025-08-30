@@ -770,7 +770,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-1 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.22.2367 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.22.2374 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **jadx** | 1.5.2 | Dex to Java decompiler | https://github.com/skylot/jadx |
 | **jadx-x** | 1.5.2 | Dex to Java decompiler GUI | https://github.com/skylot/jadx |
 | **janet** | 1.39.0 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
@@ -1476,9 +1476,9 @@
 | **libvxl** | 3.5.0-3 | A multi-platform collection of C++ software libraries for Computer Vision and Image Understanding | https://vxl.github.io |
 | **libwavpack** | 5.8.1 | A completely open audio compression format providing lossless, high-quality lossy, and a unique hybrid compression mode | https://www.wavpack.com/ |
 | **libwavpack-static** | 5.8.1 | Static libraries for libwavpack | https://www.wavpack.com/ |
-| **libwayland** | 1.23.1-2 | Wayland protocol library | https://wayland.freedesktop.org/ |
-| **libwayland-cross-scanner** | 1.23.1-2 | wayland-scanner for host (NOT for Termux) | https://wayland.freedesktop.org/ |
-| **libwayland-protocols** | 1.41 | Wayland protocols library | https://wayland.freedesktop.org/ |
+| **libwayland** | 1.24.0 | Wayland protocol library | https://wayland.freedesktop.org/ |
+| **libwayland-cross-scanner** | 1.24.0 | wayland-scanner for host (NOT for Termux) | https://wayland.freedesktop.org/ |
+| **libwayland-protocols** | 1.45 | Wayland protocols library | https://wayland.freedesktop.org/ |
 | **libwebp** | 1.6.0-rc1-0 | Library to encode and decode images in WebP format | https://github.com/webmproject/libwebp |
 | **libwebrtc-audio-processing** | 1.3-2 | A library containing the AudioProcessing module from the WebRTC project | https://www.freedesktop.org/software/pulseaudio/webrtc-audio-processing/ |
 | **libwebsockets** | 4.4.1 | Lightweight C websockets library | https://libwebsockets.org |

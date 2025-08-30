@@ -3039,7 +3039,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.2367
+  Version: 0.22.2374
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -5863,15 +5863,15 @@
   Description: Static libraries for libwavpack
   Homepage: https://www.wavpack.com/
 - Package: libwayland
-  Version: 1.23.1-2
+  Version: 1.24.0
   Description: Wayland protocol library
   Homepage: https://wayland.freedesktop.org/
 - Package: libwayland-cross-scanner
-  Version: 1.23.1-2
+  Version: 1.24.0
   Description: wayland-scanner for host (NOT for Termux)
   Homepage: https://wayland.freedesktop.org/
 - Package: libwayland-protocols
-  Version: "1.41"
+  Version: "1.45"
   Description: Wayland protocols library
   Homepage: https://wayland.freedesktop.org/
 - Package: libwebp
