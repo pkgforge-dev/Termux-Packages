@@ -6181,13 +6181,13 @@
   },
   {
     "Package": "libgmime",
-    "Version": "3.2.15-1",
+    "Version": "3.2.15-2",
     "Description": "MIME message parser and creator",
     "Homepage": "https://github.com/jstedfast/gmime"
   },
   {
     "Package": "libgmime-static",
-    "Version": "3.2.15-1",
+    "Version": "3.2.15-2",
     "Description": "Static libraries for libgmime",
     "Homepage": "https://github.com/jstedfast/gmime"
   },
@@ -7903,13 +7903,13 @@
   },
   {
     "Package": "libsasl",
-    "Version": "2.1.28-1",
+    "Version": "2.1.28-2",
     "Description": "Cyrus SASL - authentication abstraction library",
     "Homepage": "https://www.cyrusimap.org/sasl/"
   },
   {
     "Package": "libsasl-static",
-    "Version": "2.1.28-1",
+    "Version": "2.1.28-2",
     "Description": "Static libraries for libsasl",
     "Homepage": "https://www.cyrusimap.org/sasl/"
   },
@@ -10585,7 +10585,7 @@
   },
   {
     "Package": "neomutt",
-    "Version": "20250510",
+    "Version": "20250510-1",
     "Description": "A version of mutt with added features",
     "Homepage": "https://neomutt.org/"
   },
@@ -15313,7 +15313,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "2025.08.26",
+    "Version": "2025.08.30",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://github.com/directvt/vtm"
   },
@@ -15523,7 +15523,7 @@
   },
   {
     "Package": "wget",
-    "Version": "1.25.0",
+    "Version": "1.25.0-1",
     "Description": "Commandline tool for retrieving files using HTTP, HTTPS and FTP",
     "Homepage": "https://www.gnu.org/software/wget/"
   },
@@ -15859,7 +15859,7 @@
   },
   {
     "Package": "yq",
-    "Version": "4.47.1",
+    "Version": "4.47.1-1",
     "Description": "A lightweight and portable command-line YAML, JSON and XML processor",
     "Homepage": "https://mikefarah.gitbook.io/yq/"
   },
