@@ -3997,19 +3997,19 @@
   },
   {
     "Package": "harfbuzz",
-    "Version": "11.4.4",
+    "Version": "11.4.5",
     "Description": "OpenType text shaping engine",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-icu",
-    "Version": "11.4.4",
+    "Version": "11.4.5",
     "Description": "OpenType text shaping engine ICU backend",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-utils",
-    "Version": "11.4.4",
+    "Version": "11.4.5",
     "Description": "Tools using the harfbuzz library",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
@@ -10909,7 +10909,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "26.19.2",
+    "Version": "26.20.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
