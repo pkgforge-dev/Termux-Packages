@@ -299,7 +299,7 @@
   Description: language server for NASM/GAS/GO assembly
   Homepage: https://github.com/bergercookie/asm-lsp
 - Package: aspell
-  Version: 0.60.8.1
+  Version: 0.60.8.1-1
   Description: A free and open source spell checker designed to replace Ispell
   Homepage: http://aspell.net
 - Package: aspell-de
@@ -319,7 +319,7 @@
   Description: French dictionary for aspell
   Homepage: http://aspell.net/
 - Package: aspell-static
-  Version: 0.60.8.1
+  Version: 0.60.8.1-1
   Description: Static libraries for aspell
   Homepage: http://aspell.net
 - Package: aspnetcore-runtime-8.0
@@ -6479,7 +6479,7 @@
   Description: Simple CAS and symbolic calculator
   Homepage: https://en.wikipedia.org/wiki/Mathomatic
 - Package: matplotlib
-  Version: 3.10.5
+  Version: 3.10.6
   Description: A comprehensive library for creating static, animated, and interactive visualizations in Python
   Homepage: https://matplotlib.org/
 - Package: matterbridge
@@ -8847,7 +8847,7 @@
   Description: Static libraries for seafile-client
   Homepage: https://seafile.com
 - Package: seanime
-  Version: 2.9.7
+  Version: 2.9.9
   Description: Self-hosted anime and manga server for sea rovers.
   Homepage: https://github.com/5rahim/seanime
 - Package: seccure
@@ -9479,7 +9479,7 @@
   Description: Telegram messenger CLI
   Homepage: https://github.com/vysheng/tg
 - Package: teleport-tsh
-  Version: 18.1.7
+  Version: 18.1.8
   Description: Secure Access for Developers that doesnt get in the way
   Homepage: https://github.com/gravitational/teleport
 - Package: tenki-php
@@ -10223,7 +10223,7 @@
   Description: Vulkan Extension Layer
   Homepage: https://github.com/KhronosGroup/Vulkan-ExtensionLayer
 - Package: vulkan-headers
-  Version: 1.4.325
+  Version: 1.4.326
   Description: Vulkan Header files and API registry
   Homepage: https://github.com/KhronosGroup/Vulkan-Headers
 - Package: vulkan-icd
@@ -10239,7 +10239,7 @@
   Description: Vulkan Loader for Android
   Homepage: https://source.android.com/devices/graphics/arch-vulkan
 - Package: vulkan-loader-generic
-  Version: 1.4.325
+  Version: 1.4.326
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
@@ -10247,7 +10247,7 @@
   Description: Vulkan Tools and Utilities
   Homepage: https://github.com/KhronosGroup/Vulkan-Tools
 - Package: vulkan-utility-libraries
-  Version: 1.4.325
+  Version: 1.4.326
   Description: Utility Libraries for Vulkan
   Homepage: https://github.com/KhronosGroup/Vulkan-Utility-Libraries
 - Package: vulkan-validation-layers

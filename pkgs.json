@@ -451,7 +451,7 @@
   },
   {
     "Package": "aspell",
-    "Version": "0.60.8.1",
+    "Version": "0.60.8.1-1",
     "Description": "A free and open source spell checker designed to replace Ispell",
     "Homepage": "http://aspell.net"
   },
@@ -481,7 +481,7 @@
   },
   {
     "Package": "aspell-static",
-    "Version": "0.60.8.1",
+    "Version": "0.60.8.1-1",
     "Description": "Static libraries for aspell",
     "Homepage": "http://aspell.net"
   },
@@ -9721,7 +9721,7 @@
   },
   {
     "Package": "matplotlib",
-    "Version": "3.10.5",
+    "Version": "3.10.6",
     "Description": "A comprehensive library for creating static, animated, and interactive visualizations in Python",
     "Homepage": "https://matplotlib.org/"
   },
@@ -13273,7 +13273,7 @@
   },
   {
     "Package": "seanime",
-    "Version": "2.9.7",
+    "Version": "2.9.9",
     "Description": "Self-hosted anime and manga server for sea rovers.",
     "Homepage": "https://github.com/5rahim/seanime"
   },
@@ -14221,7 +14221,7 @@
   },
   {
     "Package": "teleport-tsh",
-    "Version": "18.1.7",
+    "Version": "18.1.8",
     "Description": "Secure Access for Developers that doesnt get in the way",
     "Homepage": "https://github.com/gravitational/teleport"
   },
@@ -15337,7 +15337,7 @@
   },
   {
     "Package": "vulkan-headers",
-    "Version": "1.4.325",
+    "Version": "1.4.326",
     "Description": "Vulkan Header files and API registry",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Headers"
   },
@@ -15361,7 +15361,7 @@
   },
   {
     "Package": "vulkan-loader-generic",
-    "Version": "1.4.325",
+    "Version": "1.4.326",
     "Description": "Vulkan Loader",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Loader"
   },
@@ -15373,7 +15373,7 @@
   },
   {
     "Package": "vulkan-utility-libraries",
-    "Version": "1.4.325",
+    "Version": "1.4.326",
     "Description": "Utility Libraries for Vulkan",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Utility-Libraries"
   },

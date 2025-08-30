@@ -73,12 +73,12 @@
  asciidoctor  2.0.23-1  An implementation of AsciiDoc in Ruby  https://asciidoctor.org/ 
  asciinema  2.4.0-1  Record and share your terminal sessions, the right way  https://asciinema.org/ 
  asm-lsp  0.10.0  language server for NASM/GAS/GO assembly  https://github.com/bergercookie/asm-lsp 
- aspell  0.60.8.1  A free and open source spell checker designed to replace Ispell  http://aspell.net 
+ aspell  0.60.8.1-1  A free and open source spell checker designed to replace Ispell  http://aspell.net 
  aspell-de  1:20161207.7.0  German dictionary for aspell  http://aspell.net/ 
  aspell-en  1:2020.12.07  English dictionary for aspell  http://aspell.net/ 
  aspell-es  2:1.11-2-0  Spanish dictionary for aspell  http://aspell.net/ 
  aspell-fr  2:0.50-3-1  French dictionary for aspell  http://aspell.net/ 
- aspell-static  0.60.8.1  Static libraries for aspell  http://aspell.net 
+ aspell-static  0.60.8.1-1  Static libraries for aspell  http://aspell.net 
  aspnetcore-runtime-8.0  8.0.18  ASP.NET Core 8.0 Runtime  https://dotnet.microsoft.com/en-us/ 
  aspnetcore-runtime-9.0  9.0.7-1  ASP.NET Core 9.0 Runtime  https://dotnet.microsoft.com/en-us/ 
  aspnetcore-runtime-dbg-8.0  8.0.18  ASP.NET Core 8.0 Runtime Managed Debug Symbols  https://dotnet.microsoft.com/en-us/ 
@@ -1618,7 +1618,7 @@
  markdown-flashcards  2.0.1  Small CLI app to learn with flashcards and spaced repetition  https://github.com/bttger/markdown-flashcards 
  marksman  2024.12.18  LSP language server for editing Markdown files  https://github.com/artempyanykh/marksman 
  mathomatic  16.0.5-6  Simple CAS and symbolic calculator  https://en.wikipedia.org/wiki/Mathomatic 
- matplotlib  3.10.5  A comprehensive library for creating static, animated, and interactive visualizations in Python  https://matplotlib.org/ 
+ matplotlib  3.10.6  A comprehensive library for creating static, animated, and interactive visualizations in Python  https://matplotlib.org/ 
  matterbridge  1.26.0-3  A simple chat bridge  https://github.com/42wim/matterbridge 
  matterircd  0.28.0  Connect to your mattermost or slack using your IRC-client of choice  https://github.com/42wim/matterircd 
  mautrix-whatsapp  0.12.4  A Matrix-WhatsApp puppeting bridge  https://maunium.net/go/mautrix-whatsapp/ 
@@ -2210,7 +2210,7 @@
  sdcv  0.5.5-1  StarDict Console Version  http://dushistov.github.io/sdcv/ 
  seafile-client  9.0.15  Seafile is a file syncing and sharing software with file encryption and group sharing  https://seafile.com 
  seafile-client-static  9.0.15  Static libraries for seafile-client  https://seafile.com 
- seanime  2.9.7  Self-hosted anime and manga server for sea rovers.  https://github.com/5rahim/seanime 
+ seanime  2.9.9  Self-hosted anime and manga server for sea rovers.  https://github.com/5rahim/seanime 
  seccure  0.5-7  SECCURE Elliptic Curve Crypto Utility for Reliable Encryption  http://point-at-infinity.org/seccure/ 
  secure-delete  3.1-5  Secure file, disk, swap, memory erasure utilities  http://www.thc.org/ 
  sed  4.9-2  GNU stream editor for filtering/transforming text  https://www.gnu.org/software/sed/ 
@@ -2368,7 +2368,7 @@
  tectonic  0.15.0-4  A modernized, complete, self-contained TeX/LaTeX engine  https://tectonic-typesetting.github.io/ 
  telegram-bot-api  20241031-1  Telegram Bot API server  https://github.com/tdlib/telegram-bot-api 
  telegram-cli  1:1.4.1-7  Telegram messenger CLI  https://github.com/vysheng/tg 
- teleport-tsh  18.1.7  Secure Access for Developers that doesn't get in the way  https://github.com/gravitational/teleport 
+ teleport-tsh  18.1.8  Secure Access for Developers that doesn't get in the way  https://github.com/gravitational/teleport 
  tenki-php  2022.05.26  A simple PHP application for logging current weather conditions, notes, and waypoints  https://github.com/dmpop/tenki 
  tere  1.6.0  Terminal file explorer written in rust  https://github.com/mgunyho/tere 
  tergent  1.0.0-4  A cryptoki/PKCS#11 library for Termux that uses Android Keystore as its backend  https://github.com/aeolwyr/tergent 
@@ -2554,13 +2554,13 @@
  vttest  20241208  Program for testing the VT100 compatibility of terminal emulators  https://invisible-island.net/vttest/ 
  vtutils  0.5-4  Utilities for testing and working with virtual terminals  https://github.com/fornwall/vtutils 
  vulkan-extension-layer  1.4.321  Vulkan Extension Layer  https://github.com/KhronosGroup/Vulkan-ExtensionLayer 
- vulkan-headers  1.4.325  Vulkan Header files and API registry  https://github.com/KhronosGroup/Vulkan-Headers 
+ vulkan-headers  1.4.326  Vulkan Header files and API registry  https://github.com/KhronosGroup/Vulkan-Headers 
  vulkan-icd  0.1  A metapackage that provides Vulkan ICDs  https://github.com/termux/termux-packages 
  vulkan-loader  0.0.3  A metapackage that provides vulkan loader library  https://github.com/termux/termux-packages 
  vulkan-loader-android  28c  Vulkan Loader for Android  https://source.android.com/devices/graphics/arch-vulkan 
- vulkan-loader-generic  1.4.325  Vulkan Loader  https://github.com/KhronosGroup/Vulkan-Loader 
+ vulkan-loader-generic  1.4.326  Vulkan Loader  https://github.com/KhronosGroup/Vulkan-Loader 
  vulkan-tools  1.4.325  Vulkan Tools and Utilities  https://github.com/KhronosGroup/Vulkan-Tools 
- vulkan-utility-libraries  1.4.325  Utility Libraries for Vulkan  https://github.com/KhronosGroup/Vulkan-Utility-Libraries 
+ vulkan-utility-libraries  1.4.326  Utility Libraries for Vulkan  https://github.com/KhronosGroup/Vulkan-Utility-Libraries 
  vulkan-validation-layers  1.4.325  Vulkan Validation Layers  https://github.com/KhronosGroup/Vulkan-ValidationLayers 
  vulkan-volk  1.4.304  Meta loader for Vulkan API  https://github.com/zeux/volk 
  w3m  0.5.5  Text based Web browser and pager  https://w3m.sourceforge.net/ 
