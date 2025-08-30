@@ -4579,7 +4579,7 @@
   },
   {
     "Package": "janet",
-    "Version": "1.39.0",
+    "Version": "1.39.1",
     "Description": "Janet is a dialect of Lisp intended for embedding into programs and such",
     "Homepage": "https://janet-lang.org"
   },
@@ -6553,13 +6553,13 @@
   },
   {
     "Package": "libjanet",
-    "Version": "1.39.0",
+    "Version": "1.39.1",
     "Description": "Development library for Janet",
     "Homepage": "https://janet-lang.org"
   },
   {
     "Package": "libjanet-static",
-    "Version": "1.39.0",
+    "Version": "1.39.1",
     "Description": "Static libraries for libjanet",
     "Homepage": "https://janet-lang.org"
   },

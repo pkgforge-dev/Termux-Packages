@@ -773,7 +773,7 @@
 | **jackett** | 0.22.2374 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **jadx** | 1.5.2 | Dex to Java decompiler | https://github.com/skylot/jadx |
 | **jadx-x** | 1.5.2 | Dex to Java decompiler GUI | https://github.com/skylot/jadx |
-| **janet** | 1.39.0 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
+| **janet** | 1.39.1 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
 | **jbig2dec** | 0.20 | Decoder implementation of the JBIG2 image compression format | https://jbig2dec.com/ |
 | **jbig2dec-static** | 0.20 | Static libraries for jbig2dec | https://jbig2dec.com/ |
 | **jbig2enc** | 2023.01.08-2 | An encoder for JBIG2 | https://github.com/agl/jbig2enc |
@@ -1102,8 +1102,8 @@
 | **libisoburn-static** | 1.5.6 | Static libraries for libisoburn | https://dev.lovelyhq.com/libburnia |
 | **libisofs** | 1.5.6.pl01 | Library to pack up hard disk files and directories into a ISO 9660 disk image | https://dev.lovelyhq.com/libburnia |
 | **libisofs-static** | 1.5.6.pl01 | Static libraries for libisofs | https://dev.lovelyhq.com/libburnia |
-| **libjanet** | 1.39.0 | Development library for Janet | https://janet-lang.org |
-| **libjanet-static** | 1.39.0 | Static libraries for libjanet | https://janet-lang.org |
+| **libjanet** | 1.39.1 | Development library for Janet | https://janet-lang.org |
+| **libjanet-static** | 1.39.1 | Static libraries for libjanet | https://janet-lang.org |
 | **libjansi** | 2.4.2 | A small java library that allows you to use ANSI escape codes to format your console output | https://fusesource.github.io/jansi/ |
 | **libjansson** | 2.14.1 | C library for encoding, decoding and manipulating JSON data | http://www.digip.org/jansson/ |
 | **libjansson-static** | 2.14.1 | Static libraries for libjansson | http://www.digip.org/jansson/ |
