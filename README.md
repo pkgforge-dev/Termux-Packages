@@ -1805,7 +1805,7 @@
 | **nnn** | 5.1 | Free, fast, friendly file browser | https://github.com/jarun/nnn |
 | **no-more-secrets** | 1.0.1-1 | This project provides a command line tool called nms that recreates the famous data decryption effect. | https://github.com/bartobri/no-more-secrets |
 | **nodejs** | 24.7.0 | Open Source, cross-platform JavaScript runtime environment | https://nodejs.org/ |
-| **nodejs-lts** | 22.18.0 | Open Source, cross-platform JavaScript runtime environment | https://nodejs.org/ |
+| **nodejs-lts** | 22.19.0 | Open Source, cross-platform JavaScript runtime environment | https://nodejs.org/ |
 | **notcurses** | 3.0.16 | blingful TUIs and character graphics | https://notcurses.com/ |
 | **notcurses-data** | 3.0.16 | Platform-independent data for notcurses | https://notcurses.com/ |
 | **notcurses-tools** | 3.0.16 | Tools and demos for notcurses | https://notcurses.com/ |
