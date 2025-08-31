@@ -473,8 +473,8 @@
 | **ffmpeg** | 7.1.1-5 | Tools and libraries to manipulate a wide range of multimedia formats and protocols | https://ffmpeg.org |
 | **ffmpegthumbnailer** | 2.2.3-p20240913-1 | Lightweight video thumbnailer that can be used by file managers | https://github.com/dirkvdb/ffmpegthumbnailer |
 | **ffsend** | 0.2.77-1 | A fully featured Firefox Send client | https://gitlab.com/timvisee/ffsend |
-| **fftw** | 3.3.10-3 | Library for computing the Discrete Fourier Transform (DFT) in one or more dimensions | http://www.fftw.org/ |
-| **fftw-static** | 3.3.10-3 | Static libraries for fftw | http://www.fftw.org/ |
+| **fftw** | 3.3.10-4 | Library for computing the Discrete Fourier Transform (DFT) in one or more dimensions | http://www.fftw.org/ |
+| **fftw-static** | 3.3.10-4 | Static libraries for fftw | http://www.fftw.org/ |
 | **figlet** | 2.2.5-2 | Program for making large letters out of ordinary text | http://www.figlet.org/ |
 | **file** | 5.46-1 | Command-line tool that tells you in words what kind of data a file contains | https://darwinsys.com/file/ |
 | **file-static** | 5.46-1 | Static libraries for file | https://darwinsys.com/file/ |
@@ -741,7 +741,7 @@
 | **id3v2** | 0.1.12-1 | A command line id3v2 tag editor | http://id3v2.sourceforge.net/ |
 | **imagemagick** | 7.1.2.3 | Suite to create, edit, compose, or convert images in a variety of formats | https://www.imagemagick.org/ |
 | **imagemagick-static** | 7.1.2.3 | Static libraries for imagemagick | https://www.imagemagick.org/ |
-| **imath** | 3.1.12 | Library for vector/matrix and math operations, plus the half type | https://imath.readthedocs.io/ |
+| **imath** | 3.1.12-1 | Library for vector/matrix and math operations, plus the half type | https://imath.readthedocs.io/ |
 | **imgflo** | 0.4.2-8 | HTTP image processing server & Flowhub.io compatible runtime | https://github.com/imgflo/imgflo |
 | **imlib2** | 1.12.5 | Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support | https://sourceforge.net/projects/enlightenment/ |
 | **imlib2-static** | 1.12.5 | Static libraries for imlib2 | https://sourceforge.net/projects/enlightenment/ |
@@ -1112,8 +1112,8 @@
 | **libjpeg-turbo** | 3.1.1 | Library for reading and writing JPEG image files | https://libjpeg-turbo.virtualgl.org |
 | **libjpeg-turbo-progs** | 3.1.1 | Programs for manipulating JPEG files | https://libjpeg-turbo.virtualgl.org |
 | **libjpeg-turbo-static** | 3.1.1 | Static libraries for libjpeg-turbo | https://libjpeg-turbo.virtualgl.org |
-| **libjxl** | 0.11.1-1 | JPEG XL image format reference implementation | https://jpegxl.info/ |
-| **libjxl-progs** | 0.11.1-1 | Programs for manipulating JPEG XL files | https://jpegxl.info/ |
+| **libjxl** | 0.11.1-2 | JPEG XL image format reference implementation | https://jpegxl.info/ |
+| **libjxl-progs** | 0.11.1-2 | Programs for manipulating JPEG XL files | https://jpegxl.info/ |
 | **libkiwix** | 13.1.0-4 | A library that contains a lot of things used by other kiwix programs | https://github.com/kiwix/libkiwix |
 | **libknot** | 3.2.4-1 | Knot DNS libraries | https://www.knot-dns.cz/ |
 | **libknot-static** | 3.2.4-1 | Static libraries for libknot | https://www.knot-dns.cz/ |
@@ -1427,8 +1427,8 @@
 | **libtpms-static** | 0.10.1 | Static libraries for libtpms | https://github.com/stefanberger/libtpms |
 | **libtranscript** | 0.3.4 | A character-set conversion library | https://os.ghalkes.nl/libtranscript.html |
 | **libtree-ldd** | 3.1.1-1 | Like ldd(1), but prints a tree(1) like output | https://github.com/haampie/libtree |
-| **libtsduck** | 3.40.4165 | An extensible toolkit for MPEG transport streams | https://tsduck.io/ |
-| **libtsduck-static** | 3.40.4165 | Static libraries for libtsduck | https://tsduck.io/ |
+| **libtsduck** | 3.40.4165-1 | An extensible toolkit for MPEG transport streams | https://tsduck.io/ |
+| **libtsduck-static** | 3.40.4165-1 | Static libraries for libtsduck | https://tsduck.io/ |
 | **libtvision** | 2023.01.29 | A modern port of Turbo Vision 2.0 with Unicode support | https://github.com/magiblot/tvision |
 | **libtwolame** | 0.4.0 | An optimised MPEG Audio Layer 2 (MP2) encoder | https://www.twolame.org/ |
 | **libtwolame-static** | 0.4.0 | Static libraries for libtwolame | https://www.twolame.org/ |
@@ -1849,7 +1849,7 @@
 | **opencolorio** | 2.4.2 | A color management framework for visual effects and animation | https://opencolorio.org |
 | **openethereum** | 3.3.5-4 | Lightweight Ethereum Client | https://openethereum.github.io |
 | **openethereum-utils** | 3.3.5-4 | Additional utilities for OpenEthereum (like evm, ethstore, ethkey) | https://openethereum.github.io |
-| **openexr** | 3.2.4 | Provides the specification and reference implementation of the EXR file format | https://www.openexr.com/ |
+| **openexr** | 3.2.4-1 | Provides the specification and reference implementation of the EXR file format | https://www.openexr.com/ |
 | **openfoam** | 2412-2 | OpenFOAM is a CFD software written in C++ | https://www.openfoam.com |
 | **opengl** | 4.5 | A metapackage for OpenGL implementation | https://github.com/termux/termux-packages |
 | **openh264** | 2.6.0 | Codec library supporting H.264 encoding and decoding | https://www.openh264.org/ |
@@ -1859,8 +1859,8 @@
 | **openjdk-21** | 21.0.8-1 | Java development kit and runtime | https://openjdk.java.net |
 | **openjdk-21-source** | 21.0.8-1 | Source files for openjdk-21 | https://openjdk.java.net |
 | **openjdk-21-x** | 21.0.8-1 | Portion of openjdk-21 requiring X11 functionality | https://openjdk.java.net |
-| **openjpeg** | 2.5.3 | JPEG 2000 image compression library | https://www.openjpeg.org/ |
-| **openjpeg-tools** | 2.5.3 | Command-line tools using the JPEG 2000 library | https://www.openjpeg.org/ |
+| **openjpeg** | 2.5.3-1 | JPEG 2000 image compression library | https://www.openjpeg.org/ |
+| **openjpeg-tools** | 2.5.3-1 | Command-line tools using the JPEG 2000 library | https://www.openjpeg.org/ |
 | **openldap** | 2.6.10 | OpenLDAP server | https://openldap.org |
 | **openldap-static** | 2.6.10 | Static libraries for openldap | https://openldap.org |
 | **openlist** | 4.1.1 | A file list program that supports multiple storage | https://oplist.org/ |
@@ -2468,10 +2468,10 @@
 | **trurl** | 0.16.1 | trurl is a command line tool that parses and manipulates URLs | https://curl.se/trurl/ |
 | **trzsz-go** | 1.1.8 | A simple file transfer tools, similar to lrzsz ( rz / sz ) | https://trzsz.github.io/ |
 | **trzsz-ssh** | 0.1.22 | An openssh client alternative | https://trzsz.github.io/ssh |
-| **tsduck-java** | 3.40.4165 | Java bindings for TSDuck | https://tsduck.io/ |
-| **tsduck-plugins** | 3.40.4165 | Plugins for TSDuck | https://tsduck.io/ |
-| **tsduck-python** | 3.40.4165 | Python bindings for TSDuck | https://tsduck.io/ |
-| **tsduck-tools** | 3.40.4165 | Command line tools for TSDuck | https://tsduck.io/ |
+| **tsduck-java** | 3.40.4165-1 | Java bindings for TSDuck | https://tsduck.io/ |
+| **tsduck-plugins** | 3.40.4165-1 | Plugins for TSDuck | https://tsduck.io/ |
+| **tsduck-python** | 3.40.4165-1 | Python bindings for TSDuck | https://tsduck.io/ |
+| **tsduck-tools** | 3.40.4165-1 | Command line tools for TSDuck | https://tsduck.io/ |
 | **tsocks** | 1.8beta5-4 | transparent network access through a SOCKS 4 or 5 proxy | http://tsocks.sf.net |
 | **tsu** | 8.6.0-1 | A su wrapper for Termux | https://github.com/cswl/tsu |
 | **ttf-dejavu** | 2.37-8 | Font family based on the Bitstream Vera Fonts with a wider range of characters | https://dejavu-fonts.github.io/ |

@@ -1851,11 +1851,11 @@
   Description: A fully featured Firefox Send client
   Homepage: https://gitlab.com/timvisee/ffsend
 - Package: fftw
-  Version: 3.3.10-3
+  Version: 3.3.10-4
   Description: Library for computing the Discrete Fourier Transform (DFT) in one or more dimensions
   Homepage: http://www.fftw.org/
 - Package: fftw-static
-  Version: 3.3.10-3
+  Version: 3.3.10-4
   Description: Static libraries for fftw
   Homepage: http://www.fftw.org/
 - Package: figlet
@@ -2923,7 +2923,7 @@
   Description: Static libraries for imagemagick
   Homepage: https://www.imagemagick.org/
 - Package: imath
-  Version: 3.1.12
+  Version: 3.1.12-1
   Description: Library for vector/matrix and math operations, plus the half type
   Homepage: https://imath.readthedocs.io/
 - Package: imgflo
@@ -4407,11 +4407,11 @@
   Description: Static libraries for libjpeg-turbo
   Homepage: https://libjpeg-turbo.virtualgl.org
 - Package: libjxl
-  Version: 0.11.1-1
+  Version: 0.11.1-2
   Description: JPEG XL image format reference implementation
   Homepage: https://jpegxl.info/
 - Package: libjxl-progs
-  Version: 0.11.1-1
+  Version: 0.11.1-2
   Description: Programs for manipulating JPEG XL files
   Homepage: https://jpegxl.info/
 - Package: libkiwix
@@ -5667,11 +5667,11 @@
   Description: Like ldd(1), but prints a tree(1) like output
   Homepage: https://github.com/haampie/libtree
 - Package: libtsduck
-  Version: 3.40.4165
+  Version: 3.40.4165-1
   Description: An extensible toolkit for MPEG transport streams
   Homepage: https://tsduck.io/
 - Package: libtsduck-static
-  Version: 3.40.4165
+  Version: 3.40.4165-1
   Description: Static libraries for libtsduck
   Homepage: https://tsduck.io/
 - Package: libtvision
@@ -7355,7 +7355,7 @@
   Description: Additional utilities for OpenEthereum (like evm, ethstore, ethkey)
   Homepage: https://openethereum.github.io
 - Package: openexr
-  Version: 3.2.4
+  Version: 3.2.4-1
   Description: Provides the specification and reference implementation of the EXR file format
   Homepage: https://www.openexr.com/
 - Package: openfoam
@@ -7395,11 +7395,11 @@
   Description: Portion of openjdk-21 requiring X11 functionality
   Homepage: https://openjdk.java.net
 - Package: openjpeg
-  Version: 2.5.3
+  Version: 2.5.3-1
   Description: JPEG 2000 image compression library
   Homepage: https://www.openjpeg.org/
 - Package: openjpeg-tools
-  Version: 2.5.3
+  Version: 2.5.3-1
   Description: Command-line tools using the JPEG 2000 library
   Homepage: https://www.openjpeg.org/
 - Package: openldap
@@ -9831,19 +9831,19 @@
   Description: An openssh client alternative
   Homepage: https://trzsz.github.io/ssh
 - Package: tsduck-java
-  Version: 3.40.4165
+  Version: 3.40.4165-1
   Description: Java bindings for TSDuck
   Homepage: https://tsduck.io/
 - Package: tsduck-plugins
-  Version: 3.40.4165
+  Version: 3.40.4165-1
   Description: Plugins for TSDuck
   Homepage: https://tsduck.io/
 - Package: tsduck-python
-  Version: 3.40.4165
+  Version: 3.40.4165-1
   Description: Python bindings for TSDuck
   Homepage: https://tsduck.io/
 - Package: tsduck-tools
-  Version: 3.40.4165
+  Version: 3.40.4165-1
   Description: Command line tools for TSDuck
   Homepage: https://tsduck.io/
 - Package: tsocks
