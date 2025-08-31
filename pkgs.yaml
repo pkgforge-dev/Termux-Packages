@@ -2915,11 +2915,11 @@
   Description: A command line id3v2 tag editor
   Homepage: http://id3v2.sourceforge.net/
 - Package: imagemagick
-  Version: 7.1.2.2
+  Version: 7.1.2.3
   Description: Suite to create, edit, compose, or convert images in a variety of formats
   Homepage: https://www.imagemagick.org/
 - Package: imagemagick-static
-  Version: 7.1.2.2
+  Version: 7.1.2.3
   Description: Static libraries for imagemagick
   Homepage: https://www.imagemagick.org/
 - Package: imath
@@ -7271,7 +7271,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 26.20.0
+  Version: 26.20.1
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
