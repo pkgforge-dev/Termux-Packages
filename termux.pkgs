@@ -476,7 +476,7 @@
 | **flatbuffers-static** | 25.2.10 | Static libraries for flatbuffers | https://github.com/google/flatbuffers |
 | **flex** | 2.6.4-3 | Fast lexical analyser generator | https://github.com/westes/flex |
 | **flex-static** | 2.6.4-3 | Static libraries for flex | https://github.com/westes/flex |
-| **fluidsynth** | 2.4.7 | Software synthesizer based on the SoundFont 2 specifications | https://github.com/FluidSynth/fluidsynth |
+| **fluidsynth** | 2.4.8 | Software synthesizer based on the SoundFont 2 specifications | https://github.com/FluidSynth/fluidsynth |
 | **fm** | 1.1.0 | A terminal based file manager | https://github.com/knipferrc/fm |
 | **fmt** | 1:11.1.4 | Open-source formatting library for C++ | https://fmt.dev/latest/index.html |
 | **fontconfig** | 2.17.1 | Library for configuring and customizing font access | https://www.freedesktop.org/wiki/Software/fontconfig/ |
@@ -502,7 +502,7 @@
 | **fsmon** | 1.8.8 | Filesystem monitor with fanotify and inotify backends | https://github.com/nowsecure/fsmon |
 | **fwknop** | 2.6.11 | fwknop: Single Packet Authorization > Port Knocking | https://www.cipherdyne.org/fwknop/ |
 | **fwknop-static** | 2.6.11 | Static libraries for fwknop | https://www.cipherdyne.org/fwknop/ |
-| **fx** | 39.0.3 | Interactive JSON viewer on your terminal | https://github.com/antonmedv/fx |
+| **fx** | 39.0.4 | Interactive JSON viewer on your terminal | https://github.com/antonmedv/fx |
 | **fzf** | 0.65.1 | Command-line fuzzy finder | https://junegunn.github.io/fzf/ |
 | **fzy** | 1.1 | A simple, fast fuzzy finder for the terminal | https://github.com/jhawthorn/fzy |
 | **g-ir-scanner** | 1.84.0 | A tool which generates GIR XML files | https://gi.readthedocs.io/ |
@@ -523,7 +523,7 @@
 | **gdbm** | 1.26-1 | Library of database functions that use extensible hashing | https://www.gnu.org.ua/software/gdbm/ |
 | **gdbm-static** | 1.26-1 | Static libraries for gdbm | https://www.gnu.org.ua/software/gdbm/ |
 | **gdbserver** | 15.2 | The gdbserver program | https://www.gnu.org/software/gdb/ |
-| **gdk-pixbuf** | 2.42.12-3 | Library for image loading and manipulation | https://wiki.gnome.org/Projects/GdkPixbuf |
+| **gdk-pixbuf** | 2.42.12-4 | Library for image loading and manipulation | https://wiki.gnome.org/Projects/GdkPixbuf |
 | **gdrive-downloader** | 1:1.1 | Download a gdrive folder or file easily, shell ftw | https://github.com/Akianonymus/gdrive-downloader |
 | **gdu** | 5.31.0 | Fast disk usage analyzer with console interface written in Go | https://github.com/dundee/gdu |
 | **geckodriver** | 0.36.0 | Proxy for using W3C WebDriver-compatible clients to interact with Gecko-based browsers | https://github.com/mozilla/geckodriver |
@@ -762,10 +762,10 @@
 | **jadx** | 1.5.2 | Dex to Java decompiler | https://github.com/skylot/jadx |
 | **jadx-x** | 1.5.2 | Dex to Java decompiler GUI | https://github.com/skylot/jadx |
 | **janet** | 1.39.1 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
-| **jbig2dec** | 0.20 | Decoder implementation of the JBIG2 image compression format | https://jbig2dec.com/ |
-| **jbig2dec-static** | 0.20 | Static libraries for jbig2dec | https://jbig2dec.com/ |
-| **jbig2enc** | 2023.01.08-2 | An encoder for JBIG2 | https://github.com/agl/jbig2enc |
-| **jbig2enc-static** | 2023.01.08-2 | Static libraries for jbig2enc | https://github.com/agl/jbig2enc |
+| **jbig2dec** | 0.20-1 | Decoder implementation of the JBIG2 image compression format | https://jbig2dec.com/ |
+| **jbig2dec-static** | 0.20-1 | Static libraries for jbig2dec | https://jbig2dec.com/ |
+| **jbig2enc** | 2023.01.08-3 | An encoder for JBIG2 | https://github.com/agl/jbig2enc |
+| **jbig2enc-static** | 2023.01.08-3 | Static libraries for jbig2enc | https://github.com/agl/jbig2enc |
 | **jcal** | 0.5.1 | UNIX-cal-like tool to display Jalali (Persian/Iranian) calendar | http://nongnu.org/jcal |
 | **jcal-static** | 0.5.1 | Static libraries for jcal | http://nongnu.org/jcal |
 | **jfrog-cli** | 2.78.7 | A CLI for JFrog products | https://jfrog.com/getcli |
@@ -1097,9 +1097,9 @@
 | **libjansson-static** | 2.14.1 | Static libraries for libjansson | http://www.digip.org/jansson/ |
 | **libjasper** | 4.2.8 | Library for manipulating JPEG-2000 files | http://www.ece.uvic.ca/~frodo/jasper/ |
 | **libjasper-utils** | 4.2.8 | JPEG-2000 utilities | http://www.ece.uvic.ca/~frodo/jasper/ |
-| **libjpeg-turbo** | 3.1.1 | Library for reading and writing JPEG image files | https://libjpeg-turbo.virtualgl.org |
-| **libjpeg-turbo-progs** | 3.1.1 | Programs for manipulating JPEG files | https://libjpeg-turbo.virtualgl.org |
-| **libjpeg-turbo-static** | 3.1.1 | Static libraries for libjpeg-turbo | https://libjpeg-turbo.virtualgl.org |
+| **libjpeg-turbo** | 3.1.1-1 | Library for reading and writing JPEG image files | https://libjpeg-turbo.virtualgl.org |
+| **libjpeg-turbo-progs** | 3.1.1-1 | Programs for manipulating JPEG files | https://libjpeg-turbo.virtualgl.org |
+| **libjpeg-turbo-static** | 3.1.1-1 | Static libraries for libjpeg-turbo | https://libjpeg-turbo.virtualgl.org |
 | **libjxl** | 0.11.1-2 | JPEG XL image format reference implementation | https://jpegxl.info/ |
 | **libjxl-progs** | 0.11.1-2 | Programs for manipulating JPEG XL files | https://jpegxl.info/ |
 | **libkiwix** | 13.1.0-4 | A library that contains a lot of things used by other kiwix programs | https://github.com/kiwix/libkiwix |
@@ -1394,9 +1394,9 @@
 | **libtheora** | 1.2.0 | An open video codec developed by the Xiph.org | https://www.theora.org/ |
 | **libtheora-static** | 1.2.0 | Static libraries for libtheora | https://www.theora.org/ |
 | **libthread-db** | 22-1 | Thread debugging library | https://android.googlesource.com/platform/ndk/ |
-| **libtiff** | 4.7.0 | Support for the Tag Image File Format (TIFF) for storing image data | http://www.simplesystems.org/libtiff/ |
-| **libtiff-static** | 4.7.0 | Static libraries for libtiff | http://www.simplesystems.org/libtiff/ |
-| **libtiff-utils** | 4.7.0 | Tools for working with tiff files | http://www.simplesystems.org/libtiff/ |
+| **libtiff** | 4.7.0-1 | Support for the Tag Image File Format (TIFF) for storing image data | http://www.simplesystems.org/libtiff/ |
+| **libtiff-static** | 4.7.0-1 | Static libraries for libtiff | http://www.simplesystems.org/libtiff/ |
+| **libtiff-utils** | 4.7.0-1 | Tools for working with tiff files | http://www.simplesystems.org/libtiff/ |
 | **libtins** | 4.5-2 | High-level, multiplatform C++ network packet sniffing and crafting library. | https://libtins.github.io |
 | **libtinyxml** | 2.6.2-1 | A simple, small, C++ XML parser | https://sourceforge.net/projects/tinyxml |
 | **libtinyxml2** | 11.0.0 | A simple, small, efficient, C++ XML parser | http://www.grinninglizard.com/tinyxml2/ |
@@ -1693,7 +1693,7 @@
 | **mono-static** | 6.14.1 | Static libraries for mono | https://gitlab.winehq.org/mono/mono |
 | **monolith** | 2.10.1 | CLI tool for saving complete web pages as a single HTML file | https://github.com/Y2Z/monolith |
 | **moon-buggy** | 1.0.51-5 | Simple game where you drive a car across the moon's surface | https://github.com/seehuhn/moon-buggy |
-| **moor** | 2.0.5 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moor |
+| **moor** | 2.1.0 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moor |
 | **mop** | 2025.03.17 | Stock market tracker | https://github.com/mop-tracker/mop |
 | **moreutils** | 0.70 | A growing collection of the unix tools that nobody thought to write thirty years ago | https://joeyh.name/code/moreutils/ |
 | **moria** | 5.7.15-5 | Rogue-like game with an infinite dungeon | https://umoria.org |

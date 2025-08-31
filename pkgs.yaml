@@ -1911,7 +1911,7 @@
   Description: Static libraries for flex
   Homepage: https://github.com/westes/flex
 - Package: fluidsynth
-  Version: 2.4.7
+  Version: 2.4.8
   Description: Software synthesizer based on the SoundFont 2 specifications
   Homepage: https://github.com/FluidSynth/fluidsynth
 - Package: fm
@@ -2015,7 +2015,7 @@
   Description: Static libraries for fwknop
   Homepage: https://www.cipherdyne.org/fwknop/
 - Package: fx
-  Version: 39.0.3
+  Version: 39.0.4
   Description: Interactive JSON viewer on your terminal
   Homepage: https://github.com/antonmedv/fx
 - Package: fzf
@@ -2099,7 +2099,7 @@
   Description: The gdbserver program
   Homepage: https://www.gnu.org/software/gdb/
 - Package: gdk-pixbuf
-  Version: 2.42.12-3
+  Version: 2.42.12-4
   Description: Library for image loading and manipulation
   Homepage: https://wiki.gnome.org/Projects/GdkPixbuf
 - Package: gdrive-downloader
@@ -3055,19 +3055,19 @@
   Description: Janet is a dialect of Lisp intended for embedding into programs and such
   Homepage: https://janet-lang.org
 - Package: jbig2dec
-  Version: "0.20"
+  Version: 0.20-1
   Description: Decoder implementation of the JBIG2 image compression format
   Homepage: https://jbig2dec.com/
 - Package: jbig2dec-static
-  Version: "0.20"
+  Version: 0.20-1
   Description: Static libraries for jbig2dec
   Homepage: https://jbig2dec.com/
 - Package: jbig2enc
-  Version: 2023.01.08-2
+  Version: 2023.01.08-3
   Description: An encoder for JBIG2
   Homepage: https://github.com/agl/jbig2enc
 - Package: jbig2enc-static
-  Version: 2023.01.08-2
+  Version: 2023.01.08-3
   Description: Static libraries for jbig2enc
   Homepage: https://github.com/agl/jbig2enc
 - Package: jcal
@@ -4395,15 +4395,15 @@
   Description: JPEG-2000 utilities
   Homepage: http://www.ece.uvic.ca/~frodo/jasper/
 - Package: libjpeg-turbo
-  Version: 3.1.1
+  Version: 3.1.1-1
   Description: Library for reading and writing JPEG image files
   Homepage: https://libjpeg-turbo.virtualgl.org
 - Package: libjpeg-turbo-progs
-  Version: 3.1.1
+  Version: 3.1.1-1
   Description: Programs for manipulating JPEG files
   Homepage: https://libjpeg-turbo.virtualgl.org
 - Package: libjpeg-turbo-static
-  Version: 3.1.1
+  Version: 3.1.1-1
   Description: Static libraries for libjpeg-turbo
   Homepage: https://libjpeg-turbo.virtualgl.org
 - Package: libjxl
@@ -5583,15 +5583,15 @@
   Description: Thread debugging library
   Homepage: https://android.googlesource.com/platform/ndk/
 - Package: libtiff
-  Version: 4.7.0
+  Version: 4.7.0-1
   Description: Support for the Tag Image File Format (TIFF) for storing image data
   Homepage: http://www.simplesystems.org/libtiff/
 - Package: libtiff-static
-  Version: 4.7.0
+  Version: 4.7.0-1
   Description: Static libraries for libtiff
   Homepage: http://www.simplesystems.org/libtiff/
 - Package: libtiff-utils
-  Version: 4.7.0
+  Version: 4.7.0-1
   Description: Tools for working with tiff files
   Homepage: http://www.simplesystems.org/libtiff/
 - Package: libtins
@@ -6779,7 +6779,7 @@
   Description: Simple game where you drive a car across the moons surface
   Homepage: https://github.com/seehuhn/moon-buggy
 - Package: moor
-  Version: 2.0.5
+  Version: 2.1.0
   Description: A pager designed to just do the right thing without any configuration
   Homepage: https://github.com/walles/moor
 - Package: mop
