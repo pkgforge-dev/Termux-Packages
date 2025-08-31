@@ -483,7 +483,7 @@
   Description: A cat(1) clone with wings
   Homepage: https://github.com/sharkdp/bat
 - Package: bc
-  Version: 1.08.2
+  Version: 1.08.2-1
   Description: Arbitrary precision numeric processing language
   Homepage: https://www.gnu.org/software/bc/
 - Package: bc-gh
@@ -1887,7 +1887,7 @@
   Description: Utilities to find files meeting specified criteria and perform various actions on the files which are found
   Homepage: https://www.gnu.org/software/findutils/
 - Package: fish
-  Version: 4.0.2-2
+  Version: 4.0.2-3
   Description: The user-friendly command line shell
   Homepage: https://fishshell.com/
 - Package: flac
@@ -1923,15 +1923,15 @@
   Description: Open-source formatting library for C++
   Homepage: https://fmt.dev/latest/index.html
 - Package: fontconfig
-  Version: 2.17.1
+  Version: 2.17.1-1
   Description: Library for configuring and customizing font access
   Homepage: https://www.freedesktop.org/wiki/Software/fontconfig/
 - Package: fontconfig-static
-  Version: 2.17.1
+  Version: 2.17.1-1
   Description: Static libraries for fontconfig
   Homepage: https://www.freedesktop.org/wiki/Software/fontconfig/
 - Package: fontconfig-utils
-  Version: 2.17.1
+  Version: 2.17.1-1
   Description: Fontconfig binaries
   Homepage: https://www.freedesktop.org/wiki/Software/fontconfig/
 - Package: forestdb-dump
@@ -1975,11 +1975,11 @@
   Description: Minimalistic plugin API for video effects
   Homepage: https://www.dyne.org/software/frei0r/
 - Package: fribidi
-  Version: 1.0.16
+  Version: 1.0.16-1
   Description: Implementation of the Unicode Bidirectional Algorithm
   Homepage: https://github.com/fribidi/fribidi/
 - Package: fribidi-static
-  Version: 1.0.16
+  Version: 1.0.16-1
   Description: Static libraries for fribidi
   Homepage: https://github.com/fribidi/fribidi/
 - Package: frobtads
@@ -3187,7 +3187,7 @@
   Description: Mustache implementation for modern C++
   Homepage: https://github.com/kainjow/Mustache
 - Package: kakoune
-  Version: 2025.06.03-1
+  Version: 2025.06.03-2
   Description: Code editor heavily inspired by Vim
   Homepage: https://kakoune.org/
 - Package: kakoune-lsp
@@ -5099,21 +5099,21 @@
   Description: Static libraries for libpluto
   Homepage: https://plutolang.github.io/
 - Package: libpng
-  Version: 1.6.50
+  Version: 1.6.50-1
   Description: Official PNG reference library
   Homepage: http://www.libpng.org/pub/png/libpng.html
 - Package: libpng-static
-  Version: 1.6.50
+  Version: 1.6.50-1
   Description: Static libraries for libpng
   Homepage: http://www.libpng.org/pub/png/libpng.html
 - Package: libpngwriter
-  Version: 0.7.0
+  Version: 0.7.0-1
   Description: C++ library for creating PNG images
-  Homepage: http://pngwriter.sourceforge.net
+  Homepage: https://pngwriter.sourceforge.net
 - Package: libpngwriter-static
-  Version: 0.7.0
+  Version: 0.7.0-1
   Description: Static libraries for libpngwriter
-  Homepage: http://pngwriter.sourceforge.net
+  Homepage: https://pngwriter.sourceforge.net
 - Package: libpoco
   Version: 1.14.2
   Description: A comprehensive set of C++ libraries that cover all modern-day programming needs
@@ -5191,11 +5191,11 @@
   Description: Static libraries for librav1e
   Homepage: https://github.com/xiph/rav1e/
 - Package: libraw
-  Version: 0.21.4
+  Version: 0.21.4-1
   Description: Library for reading RAW files from digital cameras
   Homepage: https://www.libraw.org/
 - Package: libraw-static
-  Version: 0.21.4
+  Version: 0.21.4-1
   Description: Static libraries for libraw
   Homepage: https://www.libraw.org/
 - Package: libre2
@@ -5907,19 +5907,19 @@
   Description: Static libraries for libwv
   Homepage: https://wvware.sourceforge.net/
 - Package: libx11
-  Version: 1.8.12
+  Version: 1.8.12-1
   Description: X11 client-side library
   Homepage: https://xorg.freedesktop.org/
 - Package: libx11-static
-  Version: 1.8.12
+  Version: 1.8.12-1
   Description: Static libraries for libx11
   Homepage: https://xorg.freedesktop.org/
 - Package: libx264
-  Version: 1:0.164.3191
+  Version: 1:0.164.3191-1
   Description: Library for encoding video streams into the H.264/MPEG-4 AVC format
   Homepage: https://www.videolan.org/developers/x264.html
 - Package: libx264-static
-  Version: 1:0.164.3191
+  Version: 1:0.164.3191-1
   Description: Static libraries for libx264
   Homepage: https://www.videolan.org/developers/x264.html
 - Package: libx265
@@ -5943,11 +5943,11 @@
   Description: X11 authorisation library
   Homepage: https://xorg.freedesktop.org/
 - Package: libxcb
-  Version: 1.17.0
+  Version: 1.17.0-1
   Description: X11 client-side library
   Homepage: https://xcb.freedesktop.org/
 - Package: libxcb-static
-  Version: 1.17.0
+  Version: 1.17.0-1
   Description: Static libraries for libxcb
   Homepage: https://xcb.freedesktop.org/
 - Package: libxcfun
@@ -6655,11 +6655,11 @@
   Description: MiFare Classic Universal toolKit (MFCUK)
   Homepage: https://github.com/nfc-tools/mfcuk
 - Package: mg
-  Version: 20240709-1
+  Version: 20240709-2
   Description: microscopic GNU Emacs-style editor
   Homepage: https://github.com/hboetes/mg
 - Package: micro
-  Version: 2.0.14-2
+  Version: 2.0.14-3
   Description: Modern and intuitive terminal-based text editor
   Homepage: https://micro-editor.github.io/
 - Package: microsocks
@@ -7039,7 +7039,7 @@
   Description: System header and library files from the Android NDK needed for compiling C programs
   Homepage: https://developer.android.com/tools/sdk/ndk/index.html
 - Package: ne
-  Version: 3.3.4-1
+  Version: 3.3.4-2
   Description: Easy-to-use and powerful text editor
   Homepage: https://ne.di.unimi.it/
 - Package: nelua
@@ -7482,6 +7482,10 @@
   Version: 0.12-3
   Description: Static libraries for opusfile
   Homepage: https://www.opus-codec.org/
+- Package: orbiton
+  Version: 2.70.0-1
+  Description: Small, fast and limited text editor
+  Homepage: https://roboticoverlords.org/orbiton/
 - Package: osmctools
   Version: 0.9-2
   Description: Simple tools for OpenStreetMap processing
@@ -7943,7 +7947,7 @@
   Description: A Satellite Tracking/Orbital Prediction Program
   Homepage: https://www.qsl.net/kd2bd/predict.html
 - Package: privoxy
-  Version: 3.0.34-1
+  Version: 4.0.0
   Description: Non-caching web proxy with advanced filtering capabilities
   Homepage: https://www.privoxy.org
 - Package: procps
@@ -10179,7 +10183,7 @@
   Description: Command line interface for VirusTotal
   Homepage: https://github.com/VirusTotal/vt-cli
 - Package: vis
-  Version: 0.9-4
+  Version: 0.9-5
   Description: Modern, legacy free, simple yet efficient vim-like editor
   Homepage: https://www.brain-dump.org/projects/vis/
 - Package: vitetris
@@ -10431,7 +10435,7 @@
   Description: Package repository containing X11 programs and libraries
   Homepage: https://github.com/termux/x11-packages
 - Package: x264
-  Version: 1:0.164.3191
+  Version: 1:0.164.3191-1
   Description: Commandline video encoder for the H.264/MPEG-4 AVC format
   Homepage: https://www.videolan.org/developers/x264.html
 - Package: x265
@@ -10619,7 +10623,7 @@
   Description: General-purpose programming language and toolchain
   Homepage: https://ziglang.org
 - Package: zile
-  Version: 2.6.4-1
+  Version: 2.6.4-2
   Description: Lightweight clone of the Emacs text editor
   Homepage: https://www.gnu.org/software/zile/
 - Package: zip
