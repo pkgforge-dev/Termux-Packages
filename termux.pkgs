@@ -434,7 +434,7 @@
 | **exiftool** | 13.34 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
 | **exiv2** | 2:0.28.5 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **expect** | 5.45.4-3 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
-| **eza** | 0.23.0-1 | A modern replacement for ls | https://github.com/eza-community/eza |
+| **eza** | 0.23.1 | A modern replacement for ls | https://github.com/eza-community/eza |
 | **fact++** | 1.6.5-2 | Re-implementation of the well-known FaCT Description Logic (DL) Reasoner | https://bitbucket.org/dtsarkov/factplusplus |
 | **fakeroot** | 1.37.1.2 | Tool for simulating superuser privileges (with tcp ipc) | https://packages.qa.debian.org/f/fakeroot.html |
 | **fakeroot-static** | 1.37.1.2 | Static libraries for fakeroot | https://packages.qa.debian.org/f/fakeroot.html |
@@ -503,7 +503,7 @@
 | **fwknop** | 2.6.11 | fwknop: Single Packet Authorization > Port Knocking | https://www.cipherdyne.org/fwknop/ |
 | **fwknop-static** | 2.6.11 | Static libraries for fwknop | https://www.cipherdyne.org/fwknop/ |
 | **fx** | 39.0.4 | Interactive JSON viewer on your terminal | https://github.com/antonmedv/fx |
-| **fzf** | 0.65.1 | Command-line fuzzy finder | https://junegunn.github.io/fzf/ |
+| **fzf** | 0.65.2 | Command-line fuzzy finder | https://junegunn.github.io/fzf/ |
 | **fzy** | 1.1 | A simple, fast fuzzy finder for the terminal | https://github.com/jhawthorn/fzy |
 | **g-ir-scanner** | 1.84.0 | A tool which generates GIR XML files | https://gi.readthedocs.io/ |
 | **game-music-emu** | 0.6.4 | A collection of video game music file emulators | https://bitbucket.org/mpyne/game-music-emu/wiki/Home |
@@ -2176,7 +2176,7 @@
 | **rush** | 0.7.0 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
 | **rust** | 1.89.0-1 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
 | **rust-analyzer** | 20250825 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
-| **rust-bindgen** | 0.72.0 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
+| **rust-bindgen** | 0.72.1 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
 | **rust-docs** | 1.89.0-1 | Rust documentation | https://www.rust-lang.org/ |
 | **rust-src** | 1.89.0-1 | Rust source code files | https://www.rust-lang.org/ |
 | **rust-std-aarch64-linux-android** | 1.89.0-1 | Rust std for target aarch64-linux-android | https://www.rust-lang.org/ |
