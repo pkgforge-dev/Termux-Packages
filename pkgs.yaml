@@ -123,7 +123,7 @@
   Description: The Advanced Linux Sound Architecture (ALSA) - library
   Homepage: https://www.alsa-project.org
 - Package: alsa-plugins
-  Version: 1.2.12
+  Version: 1.2.12-1
   Description: The Advanced Linux Sound Architecture (ALSA) - plugins
   Homepage: https://www.alsa-project.org
 - Package: alsa-utils
@@ -3259,7 +3259,7 @@
   Description: Linux Audio Developers Simple Plugin API
   Homepage: https://www.ladspa.org/
 - Package: lame
-  Version: 3.100-6
+  Version: 3.100-7
   Description: High quality MPEG Audio Layer III (MP3) encoder - frontend
   Homepage: https://lame.sourceforge.io/
 - Package: lastpass-cli
@@ -3803,7 +3803,7 @@
   Description: Static libraries for libdaemon
   Homepage: https://0pointer.de/lennart/projects/libdaemon/
 - Package: libdav1d
-  Version: 1.5.1
+  Version: 1.5.1-1
   Description: AV1 cross-platform decoder focused on speed and correctness
   Homepage: https://code.videolan.org/videolan/dav1d/
 - Package: libdb
@@ -4687,11 +4687,11 @@
   Description: Library for (un)mounting filesystems
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: libmp3lame
-  Version: 3.100-6
+  Version: 3.100-7
   Description: High quality MPEG Audio Layer III (MP3) encoder
   Homepage: https://lame.sourceforge.io/
 - Package: libmp3lame-static
-  Version: 3.100-6
+  Version: 3.100-7
   Description: Static libraries for libmp3lame
   Homepage: https://lame.sourceforge.io/
 - Package: libmp3splt
@@ -6199,15 +6199,15 @@
   Description: A simple tool for batch test ss/ssr/v2ray/trojan servers
   Homepage: https://github.com/xxf098/LiteSpeedTest
 - Package: littlecms
-  Version: "2.17"
+  Version: 2.17-1
   Description: Color management library
   Homepage: http://www.littlecms.com/
 - Package: littlecms-static
-  Version: "2.17"
+  Version: 2.17-1
   Description: Static libraries for littlecms
   Homepage: http://www.littlecms.com/
 - Package: littlecms-utils
-  Version: "2.17"
+  Version: 2.17-1
   Description: Color management utilities
   Homepage: http://www.littlecms.com/
 - Package: llbuild
@@ -7383,15 +7383,15 @@
   Description: Portion of openjdk-17 requiring X11 functionality
   Homepage: https://openjdk.java.net
 - Package: openjdk-21
-  Version: 21.0.8-1
+  Version: 21.0.8-2
   Description: Java development kit and runtime
   Homepage: https://openjdk.java.net
 - Package: openjdk-21-source
-  Version: 21.0.8-1
+  Version: 21.0.8-2
   Description: Source files for openjdk-21
   Homepage: https://openjdk.java.net
 - Package: openjdk-21-x
-  Version: 21.0.8-1
+  Version: 21.0.8-2
   Description: Portion of openjdk-21 requiring X11 functionality
   Homepage: https://openjdk.java.net
 - Package: openjpeg
@@ -8503,11 +8503,11 @@
   Description: Static libraries for recode
   Homepage: https://github.com/pinard/Recode
 - Package: recoll
-  Version: 1.43.4
+  Version: 1.43.5
   Description: Full-text search for your desktop
   Homepage: https://www.recoll.org/
 - Package: recoll-python
-  Version: 1.43.4
+  Version: 1.43.5
   Description: Python interface for Recoll
   Homepage: https://www.recoll.org/
 - Package: recutils

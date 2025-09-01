@@ -41,7 +41,7 @@
 | **algernon** | 1.17.4 | Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support | https://algernon.roboticoverlords.org/ |
 | **alpine** | 2.26 | Fast, easy to use email client | http://alpine.x10host.com/ |
 | **alsa-lib** | 1.2.14 | The Advanced Linux Sound Architecture (ALSA) - library | https://www.alsa-project.org |
-| **alsa-plugins** | 1.2.12 | The Advanced Linux Sound Architecture (ALSA) - plugins | https://www.alsa-project.org |
+| **alsa-plugins** | 1.2.12-1 | The Advanced Linux Sound Architecture (ALSA) - plugins | https://www.alsa-project.org |
 | **alsa-utils** | 1.2.13-1 | The Advanced Linux Sound Architecture (ALSA) - utils | https://www.alsa-project.org |
 | **alsa-utils-static** | 1.2.13-1 | Static libraries for alsa-utils | https://www.alsa-project.org |
 | **amber** | 0.6.0 | A code search / replace tool | https://github.com/dalance/amber |
@@ -825,7 +825,7 @@
 | **kubelogin** | 1.34.1 | A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication | https://github.com/int128/kubelogin |
 | **kubo** | 0.37.0 | A peer-to-peer hypermedia distribution protocol | https://ipfs.io/ |
 | **ladspa-sdk** | 1.17-2 | Linux Audio Developer's Simple Plugin API | https://www.ladspa.org/ |
-| **lame** | 3.100-6 | High quality MPEG Audio Layer III (MP3) encoder - frontend | https://lame.sourceforge.io/ |
+| **lame** | 3.100-7 | High quality MPEG Audio Layer III (MP3) encoder - frontend | https://lame.sourceforge.io/ |
 | **lastpass-cli** | 1.6.1-2 | LastPass command line interface tool | https://lastpass.com/ |
 | **lazygit** | 0.54.2 | Simple terminal UI for git commands | https://github.com/jesseduffield/lazygit |
 | **lcal** | 2.1.0 | A multi-platform program which generates PostScript lunar calendars in a yearly format | https://pcal.sourceforge.net/ |
@@ -961,7 +961,7 @@
 | **libczmq-static** | 4.2.1-3 | Static libraries for libczmq | https://zeromq.org/ |
 | **libdaemon** | 0.14 | A lightweight C library that eases the writing of UNIX daemons | https://0pointer.de/lennart/projects/libdaemon/ |
 | **libdaemon-static** | 0.14 | Static libraries for libdaemon | https://0pointer.de/lennart/projects/libdaemon/ |
-| **libdav1d** | 1.5.1 | AV1 cross-platform decoder focused on speed and correctness | https://code.videolan.org/videolan/dav1d/ |
+| **libdav1d** | 1.5.1-1 | AV1 cross-platform decoder focused on speed and correctness | https://code.videolan.org/videolan/dav1d/ |
 | **libdb** | 18.1.40-5 | The Berkeley DB embedded database system (library) | https://www.oracle.com/database/berkeley-db |
 | **libdb-static** | 18.1.40-5 | Static libraries for libdb | https://www.oracle.com/database/berkeley-db |
 | **libde265** | 1.0.16 | H.265/HEVC video stream decoder library | https://github.com/strukturag/libde265 |
@@ -1182,8 +1182,8 @@
 | **libmodplug-static** | 0.8.9.1.r461 | Static libraries for libmodplug | http://modplug-xmms.sourceforge.net/ |
 | **libmosquitto** | 2.0.22-1 | MQTT library | https://mosquitto.org/ |
 | **libmount** | 2.40.2-5 | Library for (un)mounting filesystems | https://en.wikipedia.org/wiki/Util-linux |
-| **libmp3lame** | 3.100-6 | High quality MPEG Audio Layer III (MP3) encoder | https://lame.sourceforge.io/ |
-| **libmp3lame-static** | 3.100-6 | Static libraries for libmp3lame | https://lame.sourceforge.io/ |
+| **libmp3lame** | 3.100-7 | High quality MPEG Audio Layer III (MP3) encoder | https://lame.sourceforge.io/ |
+| **libmp3lame-static** | 3.100-7 | Static libraries for libmp3lame | https://lame.sourceforge.io/ |
 | **libmp3splt** | 0.9.2-9 | Utility to split MP3, Ogg Vorbis and native FLAC files without decoding | http://mp3splt.sourceforge.net |
 | **libmp3splt-static** | 0.9.2-9 | Static libraries for libmp3splt | http://mp3splt.sourceforge.net |
 | **libmpc** | 1.3.1 | Library for the arithmetic of complex numbers with arbitrarily high precision | http://www.multiprecision.org/ |
@@ -1560,9 +1560,9 @@
 | **lipl** | 0.1.3 | A command line tool that is similar to watch but has extended functions for commands outputing a number | https://github.com/yxdunc/lipl |
 | **lit** | 3.8.5-3 | Toolkit for developing, sharing, and running luvit/lua programs and libraries. | https://luvit.io |
 | **litespeedtest** | 0.15.0-2 | A simple tool for batch test ss/ssr/v2ray/trojan servers | https://github.com/xxf098/LiteSpeedTest |
-| **littlecms** | 2.17 | Color management library | http://www.littlecms.com/ |
-| **littlecms-static** | 2.17 | Static libraries for littlecms | http://www.littlecms.com/ |
-| **littlecms-utils** | 2.17 | Color management utilities | http://www.littlecms.com/ |
+| **littlecms** | 2.17-1 | Color management library | http://www.littlecms.com/ |
+| **littlecms-static** | 2.17-1 | Static libraries for littlecms | http://www.littlecms.com/ |
+| **littlecms-utils** | 2.17-1 | Color management utilities | http://www.littlecms.com/ |
 | **llbuild** | 6.1 | A low-level build system, used by the Swift Package Manager | https://github.com/swiftlang/swift-llbuild |
 | **lld** | 20.1.8-3 | LLVM-based linker | https://clang.llvm.org/ |
 | **lldb** | 20.1.8-3 | LLVM-based debugger | https://clang.llvm.org/ |
@@ -1856,9 +1856,9 @@
 | **openjdk-17** | 17.0.16-2 | Java development kit and runtime | https://openjdk.java.net |
 | **openjdk-17-source** | 17.0.16-2 | Source files for openjdk-17 | https://openjdk.java.net |
 | **openjdk-17-x** | 17.0.16-2 | Portion of openjdk-17 requiring X11 functionality | https://openjdk.java.net |
-| **openjdk-21** | 21.0.8-1 | Java development kit and runtime | https://openjdk.java.net |
-| **openjdk-21-source** | 21.0.8-1 | Source files for openjdk-21 | https://openjdk.java.net |
-| **openjdk-21-x** | 21.0.8-1 | Portion of openjdk-21 requiring X11 functionality | https://openjdk.java.net |
+| **openjdk-21** | 21.0.8-2 | Java development kit and runtime | https://openjdk.java.net |
+| **openjdk-21-source** | 21.0.8-2 | Source files for openjdk-21 | https://openjdk.java.net |
+| **openjdk-21-x** | 21.0.8-2 | Portion of openjdk-21 requiring X11 functionality | https://openjdk.java.net |
 | **openjpeg** | 2.5.3-1 | JPEG 2000 image compression library | https://www.openjpeg.org/ |
 | **openjpeg-tools** | 2.5.3-1 | Command-line tools using the JPEG 2000 library | https://www.openjpeg.org/ |
 | **openldap** | 2.6.10 | OpenLDAP server | https://openldap.org |
@@ -2136,8 +2136,8 @@
 | **readline-static** | 8.3.1-1 | Static libraries for readline | https://tiswww.case.edu/php/chet/readline/rltop.html |
 | **recode** | 3.7.15 | Charset converter tool and library | https://github.com/pinard/Recode |
 | **recode-static** | 3.7.15 | Static libraries for recode | https://github.com/pinard/Recode |
-| **recoll** | 1.43.4 | Full-text search for your desktop | https://www.recoll.org/ |
-| **recoll-python** | 1.43.4 | Python interface for Recoll | https://www.recoll.org/ |
+| **recoll** | 1.43.5 | Full-text search for your desktop | https://www.recoll.org/ |
+| **recoll-python** | 1.43.5 | Python interface for Recoll | https://www.recoll.org/ |
 | **recutils** | 1.9 | Set of tools and libraries to access human-editable, plain text databases called recfiles | https://www.gnu.org/software/recutils/ |
 | **recutils-static** | 1.9 | Static libraries for recutils | https://www.gnu.org/software/recutils/ |
 | **redir** | 3.3-2 | TCP port redirector for UNIX | https://github.com/troglobit/redir |
