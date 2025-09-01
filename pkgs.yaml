@@ -291,7 +291,7 @@
   Description: An implementation of AsciiDoc in Ruby
   Homepage: https://asciidoctor.org/
 - Package: asciinema
-  Version: 3.0.0~rc.5
+  Version: 3.0.0-rc.5-0
   Description: Record and share your terminal sessions, the right way
   Homepage: https://asciinema.org/
 - Package: asm-lsp
@@ -1190,10 +1190,6 @@
   Version: "1.17"
   Description: A simple webserver, implemented in a single .c file.
   Homepage: https://unix4lyfe.org/darkhttpd
-- Package: dart
-  Version: 3.8.3
-  Description: Dart is a general-purpose programming language
-  Homepage: https://dart.dev/
 - Package: dasel
   Version: 2.8.1
   Description: Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility
@@ -2783,7 +2779,7 @@
   Description: A number of simple utilities for manipulating HTML and XML files
   Homepage: https://www.w3.org/Tools/HTML-XML-utils/
 - Package: html2text
-  Version: 1:2.3.0
+  Version: 1:2.4.0
   Description: Utility that converts HTML documents into plain text
   Homepage: http://www.mbayer.de/html2text/
 - Package: htop

@@ -83,7 +83,7 @@
 | **arturo** | 0.9.83 | Simple, expressive & portable programming language for efficient scripting | https://arturo-lang.io |
 | **asciidoc** | 10.2.1-1 | Text document format for short documents, articles, books and UNIX man pages. | https://asciidoc.org |
 | **asciidoctor** | 2.0.23-1 | An implementation of AsciiDoc in Ruby | https://asciidoctor.org/ |
-| **asciinema** | 3.0.0~rc.5 | Record and share your terminal sessions, the right way | https://asciinema.org/ |
+| **asciinema** | 3.0.0-rc.5-0 | Record and share your terminal sessions, the right way | https://asciinema.org/ |
 | **asm-lsp** | 0.10.0 | language server for NASM/GAS/GO assembly | https://github.com/bergercookie/asm-lsp |
 | **aspell** | 0.60.8.1-1 | A free and open source spell checker designed to replace Ispell | http://aspell.net |
 | **aspell-de** | 1:20161207.7.0 | German dictionary for aspell | http://aspell.net/ |
@@ -308,7 +308,6 @@
 | **dar** | 2.8.0 | A full featured command-line backup tool, short for Disk ARchive | http://dar.linux.free.fr/ |
 | **dar-static** | 2.8.0 | Static libraries for dar | http://dar.linux.free.fr/ |
 | **darkhttpd** | 1.17 | A simple webserver, implemented in a single .c file. | https://unix4lyfe.org/darkhttpd |
-| **dart** | 3.8.3 | Dart is a general-purpose programming language | https://dart.dev/ |
 | **dasel** | 2.8.1 | Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility | https://github.com/TomWright/dasel |
 | **dash** | 0.5.12-1 | Small POSIX-compliant implementation of /bin/sh | http://gondor.apana.org.au/~herbert/dash/ |
 | **dasm** | 2.20.14.1 | Macro assembler with support for several 8-bit microprocessors | https://dasm-dillon.sourceforge.io/ |
@@ -706,7 +705,7 @@
 | **hr** | 1.5 | A horizontal ruler for your terminal | https://github.com/LuRsT/hr |
 | **hstr** | 3.1 | Shell history suggest box for bash and zsh | https://github.com/dvorka/hstr |
 | **html-xml-utils** | 8.7 | A number of simple utilities for manipulating HTML and XML files | https://www.w3.org/Tools/HTML-XML-utils/ |
-| **html2text** | 1:2.3.0 | Utility that converts HTML documents into plain text | http://www.mbayer.de/html2text/ |
+| **html2text** | 1:2.4.0 | Utility that converts HTML documents into plain text | http://www.mbayer.de/html2text/ |
 | **htop** | 3.4.1 | Interactive process viewer for Linux | https://htop.dev/ |
 | **htslib** | 1.22.1 | C library for high-throughput sequencing data formats | https://github.com/samtools/htslib |
 | **htslib-static** | 1.22.1 | Static libraries for htslib | https://github.com/samtools/htslib |
