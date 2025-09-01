@@ -291,7 +291,7 @@
   Description: An implementation of AsciiDoc in Ruby
   Homepage: https://asciidoctor.org/
 - Package: asciinema
-  Version: 2.4.0-1
+  Version: 3.0.0~rc.5
   Description: Record and share your terminal sessions, the right way
   Homepage: https://asciinema.org/
 - Package: asm-lsp
@@ -8443,7 +8443,7 @@
   Description: Static libraries for ravencoin
   Homepage: https://ravencoin.org/
 - Package: rbw
-  Version: 1.14.0
+  Version: 1.14.1
   Description: An unofficial command line client for Bitwarden
   Homepage: https://github.com/doy/rbw
 - Package: rc
