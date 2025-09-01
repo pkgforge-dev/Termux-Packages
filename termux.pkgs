@@ -238,7 +238,7 @@
 | **cloneit** | 20240728 | A cli tool to download specific GitHub directories or files | https://github.com/alok8bb/cloneit |
 | **cloudflared** | 2025.8.1 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
 | **clpeak** | 1.1.5 | A tool which profiles OpenCL devices to find their peak capacities | https://github.com/krrishnarraj/clpeak |
-| **clvk** | 0.0.20250818.172654 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
+| **clvk** | 0.0.20250821.115133 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
 | **cmake** | 4.1.1 | Family of tools designed to build, test and package software | https://cmake.org/ |
 | **cmake-curses-gui** | 4.1.1 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
 | **cmark** | 0.31.1 | CommonMark parsing and rendering program | https://github.com/commonmark/cmark |
@@ -428,7 +428,7 @@
 | **espeak-static** | 1.52.0 | Static libraries for espeak | https://github.com/espeak-ng/espeak-ng |
 | **et** | 6.2.11 | A remote shell that automatically reconnects without interrupting the session | https://eternalterminal.dev |
 | **etsh** | 5.4.0 | An enhanced, backward-compatible port of Thompson Shell | https://etsh.nl |
-| **exercism** | 3.5.7 | A Go based command line tool for exercism.io | https://github.com/exercism/cli/ |
+| **exercism** | 3.5.7-1 | A Go based command line tool for exercism.io | https://github.com/exercism/cli/ |
 | **exfatprogs** | 1.2.9 | exFAT filesystem userspace utilities | https://github.com/exfatprogs/exfatprogs |
 | **exhale** | 1.2.1.2 | Open source xHE-AAC encoder | https://gitlab.com/ecodis/exhale |
 | **exiftool** | 13.34 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
@@ -605,8 +605,8 @@
 | **gobject-introspection** | 1.84.0 | Uniform machine readable API | https://gi.readthedocs.io/ |
 | **gogs** | 0.13.3 | A painless self-hosted Git service | https://gogs.io |
 | **gojq** | 0.12.17 | Pure Go implementation of jq | https://github.com/itchyny/gojq |
-| **golang** | 3:1.24.5 | Go programming language compiler | https://go.dev/ |
-| **golang-doc** | 3:1.24.5 | Go programming language - documentation | https://go.dev/ |
+| **golang** | 3:1.25.0 | Go programming language compiler | https://go.dev/ |
+| **golang-doc** | 3:1.25.0 | Go programming language - documentation | https://go.dev/ |
 | **gomp** | 2023.02.02-2 | MPD client inspired by ncmpcpp with builtin cover-art view and LastFM integration | https://aditya-k2.github.io/gomp/ |
 | **gomuks** | 0.3.1 | A terminal Matrix client written in Go | https://maunium.net/go/gomuks/ |
 | **google-drive-upload** | 4.5 | Bash scripts to upload files to google drive | https://github.com/labbots/google-drive-upload |
@@ -793,7 +793,7 @@
 | **just** | 1.42.4 | A handy way to save and run project-specific commands | https://just.systems |
 | **jython** | 2.7.4-1 | Python for the Java Platform | https://www.jython.org/ |
 | **k2pdfopt** | 2.55-3 | A tool that optimizes PDF files for viewing on mobile readers | https://www.willus.com/k2pdfopt/ |
-| **k9s** | 0.50.9 | Kubernetes CLI To Manage Your Clusters In Style! | https://k9scli.io |
+| **k9s** | 0.50.9-1 | Kubernetes CLI To Manage Your Clusters In Style! | https://k9scli.io |
 | **kainjow-mustache** | 4.1 | Mustache implementation for modern C++ | https://github.com/kainjow/Mustache |
 | **kakoune** | 2025.06.03-2 | Code editor heavily inspired by Vim | https://kakoune.org/ |
 | **kakoune-lsp** | 18.2.0 | Language Server Protocol Client for the Kakoune editor | https://github.com/kakoune-lsp/kakoune-lsp |
@@ -2310,7 +2310,7 @@
 | **stdoutisatty** | 1.0 | Patch the isatty() calls for colored output in pipeline | https://github.com/lilydjwg/stdoutisatty |
 | **steghide** | 0.5.1-7 | Embeds a message in a file by replacing some of the least significant bits | https://steghide.sourceforge.net/ |
 | **stemwords** | 2.2.0-1 | A command-line tool which uses libstemmer | https://snowballstem.org/ |
-| **step-cli** | 0.28.7 | An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows | https://smallstep.com/cli |
+| **step-cli** | 0.28.7-1 | An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows | https://smallstep.com/cli |
 | **stfl** | 0.24-6 | Structured Terminal Forms Language/Library | http://www.clifford.at/stfl |
 | **stfl-static** | 0.24-6 | Static libraries for stfl | http://www.clifford.at/stfl |
 | **stoken** | 0.93-2 | Software Token for Linux/UNIX | https://github.com/cernekee/stoken |
@@ -2643,7 +2643,7 @@
 | **yazi** | 25.5.31-1 | Blazing fast terminal file manager written in Rust, based on async I/O | https://yazi-rs.github.io/ |
 | **yosys** | 0.56 | A framework for RTL synthesis tools | https://yosyshq.net/yosys/ |
 | **youtubedr** | 2.10.4 | Download youtube video in Golang | https://github.com/kkdai/youtube |
-| **yq** | 4.47.1-1 | A lightweight and portable command-line YAML, JSON and XML processor | https://mikefarah.gitbook.io/yq/ |
+| **yq** | 4.47.1-2 | A lightweight and portable command-line YAML, JSON and XML processor | https://mikefarah.gitbook.io/yq/ |
 | **ytfzf** | 2.6.2 | A POSIX script that helps you find Youtube videos (without API) | https://github.com/pystardust/ytfzf |
 | **ytui-music** | 2.0.0-beta-2 | Youtube client in terminal for music | https://github.com/sudipghimire533/ytui-music |
 | **yuma123** | 2.13-3 | Provides an opensource YANG API in C | https://yuma123.org/ |

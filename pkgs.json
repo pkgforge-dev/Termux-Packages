@@ -1441,7 +1441,7 @@
   },
   {
     "Package": "clvk",
-    "Version": "0.0.20250818.172654",
+    "Version": "0.0.20250821.115133",
     "Description": "Experimental implementation of OpenCL on Vulkan",
     "Homepage": "https://github.com/kpet/clvk"
   },
@@ -2581,7 +2581,7 @@
   },
   {
     "Package": "exercism",
-    "Version": "3.5.7",
+    "Version": "3.5.7-1",
     "Description": "A Go based command line tool for exercism.io",
     "Homepage": "https://github.com/exercism/cli/"
   },
@@ -3643,13 +3643,13 @@
   },
   {
     "Package": "golang",
-    "Version": "3:1.24.5",
+    "Version": "3:1.25.0",
     "Description": "Go programming language compiler",
     "Homepage": "https://go.dev/"
   },
   {
     "Package": "golang-doc",
-    "Version": "3:1.24.5",
+    "Version": "3:1.25.0",
     "Description": "Go programming language - documentation",
     "Homepage": "https://go.dev/"
   },
@@ -4771,7 +4771,7 @@
   },
   {
     "Package": "k9s",
-    "Version": "0.50.9",
+    "Version": "0.50.9-1",
     "Description": "Kubernetes CLI To Manage Your Clusters In Style!",
     "Homepage": "https://k9scli.io"
   },
@@ -13873,7 +13873,7 @@
   },
   {
     "Package": "step-cli",
-    "Version": "0.28.7",
+    "Version": "0.28.7-1",
     "Description": "An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows",
     "Homepage": "https://smallstep.com/cli"
   },
@@ -15871,7 +15871,7 @@
   },
   {
     "Package": "yq",
-    "Version": "4.47.1-1",
+    "Version": "4.47.1-2",
     "Description": "A lightweight and portable command-line YAML, JSON and XML processor",
     "Homepage": "https://mikefarah.gitbook.io/yq/"
   },
