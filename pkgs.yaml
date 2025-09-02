@@ -9690,6 +9690,10 @@
   Version: 1.42-1
   Description: Very small scheme implementation
   Homepage: http://tinyscheme.sourceforge.net/home.html
+- Package: tinysparql
+  Version: 3.9.2
+  Description: Desktop-neutral metadata-based search framework
+  Homepage: https://gnome.pages.gitlab.gnome.org/tinysparql
 - Package: tizonia
   Version: 0.22.0-19
   Description: A command-line streaming music client/server for Linux
@@ -10010,6 +10014,10 @@
   Version: 7.2-2
   Description: Update or create index file from all installed info files in directory
   Homepage: https://www.gnu.org/software/texinfo/
+- Package: upower
+  Version: 1.90.9
+  Description: Power management support for DeviceKit
+  Homepage: https://upower.freedesktop.org/
 - Package: upx
   Version: 5.0.2
   Description: the Ultimate Packer for eXecutables
