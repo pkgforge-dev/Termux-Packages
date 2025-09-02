@@ -463,7 +463,7 @@
   Description: Tool to convert text strings to printed bars
   Homepage: https://www.gnu.org/software/barcode/
 - Package: base16384
-  Version: 2.3.1
+  Version: 2.3.2
   Description: Encode binary to printable utf16be
   Homepage: https://github.com/fumiama/base16384
 - Package: bash
@@ -2143,11 +2143,11 @@
   Description: Utility to print configuration values
   Homepage: https://github.com/termux/getconf
 - Package: geth
-  Version: 1.16.2
+  Version: 1.16.3
   Description: Go implementation of the Ethereum protocol
   Homepage: https://geth.ethereum.org/
 - Package: geth-utils
-  Version: 1.16.2
+  Version: 1.16.3
   Description: Additional utilities for Geth (like abigen, bootnode, evm, puppeth)
   Homepage: https://geth.ethereum.org/
 - Package: gettext
@@ -2855,7 +2855,7 @@
   Description: A CLI tool for sr.ht
   Homepage: https://git.sr.ht/~xenrox/hut
 - Package: hwdata
-  Version: "0.398"
+  Version: "0.399"
   Description: Database of hardware identification and configuration data
   Homepage: https://github.com/vcrhonek/hwdata
 - Package: hydroxide
@@ -3035,7 +3035,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.2390
+  Version: 0.22.2404
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -7907,7 +7907,7 @@
   Description: Aims to bring back the posix profile for Vala
   Homepage: https://github.com/radare/posixvala
 - Package: postgis
-  Version: 3.5.3
+  Version: 3.6.0
   Description: Spatial database extender for PostgreSQL object-relational database
   Homepage: https://postgis.net
 - Package: postgresql
@@ -9391,7 +9391,7 @@
   Description: Static libraries for swtpm
   Homepage: https://github.com/stefanberger/swtpm
 - Package: syncthing
-  Version: 2.0.3
+  Version: 2.0.4
   Description: Decentralized file synchronization
   Homepage: https://syncthing.net/
 - Package: sysprop
