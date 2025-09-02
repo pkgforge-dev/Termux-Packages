@@ -55,13 +55,13 @@
   },
   {
     "Package": "aapt",
-    "Version": "13.0.0.6-19",
+    "Version": "13.0.0.6-20",
     "Description": "Android Asset Packaging Tool",
     "Homepage": "https://elinux.org/Android_aapt"
   },
   {
     "Package": "aapt2",
-    "Version": "13.0.0.6-19",
+    "Version": "13.0.0.6-20",
     "Description": "AAPT2 (Android Asset Packaging Tool)",
     "Homepage": "https://elinux.org/Android_aapt"
   },
@@ -151,7 +151,7 @@
   },
   {
     "Package": "aidl",
-    "Version": "13.0.0.6-19",
+    "Version": "13.0.0.6-20",
     "Description": "Android Interface Definition Language (AIDL)",
     "Homepage": "https://elinux.org/Android_aapt"
   },
@@ -1219,7 +1219,7 @@
   },
   {
     "Package": "ccache",
-    "Version": "4.11.3",
+    "Version": "4.11.3-1",
     "Description": "Compiler cache for fast recompilation of C/C++ code",
     "Homepage": "https://ccache.samba.org"
   },
@@ -2875,7 +2875,7 @@
   },
   {
     "Package": "fmt",
-    "Version": "1:11.1.4",
+    "Version": "1:11.2.0",
     "Description": "Open-source formatting library for C++",
     "Homepage": "https://fmt.dev/latest/index.html"
   },
@@ -8143,7 +8143,7 @@
   },
   {
     "Package": "libspdlog",
-    "Version": "1.15.3",
+    "Version": "1.15.3-1",
     "Description": "Very fast, header-only/compiled, C++ logging library",
     "Homepage": "https://github.com/gabime/spdlog"
   },
@@ -8983,13 +8983,13 @@
   },
   {
     "Package": "libxfixes",
-    "Version": "6.0.1",
+    "Version": "6.0.2",
     "Description": "X11 miscellaneous fixes extension library",
     "Homepage": "https://xorg.freedesktop.org/"
   },
   {
     "Package": "libxfixes-static",
-    "Version": "6.0.1",
+    "Version": "6.0.2",
     "Description": "Static libraries for libxfixes",
     "Homepage": "https://xorg.freedesktop.org/"
   },
@@ -10261,7 +10261,7 @@
   },
   {
     "Package": "mpd",
-    "Version": "0.24.5",
+    "Version": "0.24.5-1",
     "Description": "Music player daemon",
     "Homepage": "https://www.musicpd.org"
   },
@@ -14095,7 +14095,7 @@
   },
   {
     "Package": "sysprop",
-    "Version": "13.0.0.15-7",
+    "Version": "13.0.0.15-8",
     "Description": "Generates cpp / java sysprop",
     "Homepage": "https://android.googlesource.com/platform/system/tools/sysprop"
   },

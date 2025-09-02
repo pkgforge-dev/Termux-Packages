@@ -35,11 +35,11 @@
   Description: Static libraries for aalib
   Homepage: https://sourceforge.net/projects/aa-project/
 - Package: aapt
-  Version: 13.0.0.6-19
+  Version: 13.0.0.6-20
   Description: Android Asset Packaging Tool
   Homepage: https://elinux.org/Android_aapt
 - Package: aapt2
-  Version: 13.0.0.6-19
+  Version: 13.0.0.6-20
   Description: AAPT2 (Android Asset Packaging Tool)
   Homepage: https://elinux.org/Android_aapt
 - Package: abduco
@@ -99,7 +99,7 @@
   Description: A powerful chatgpt cli
   Homepage: https://github.com/sigoden/aichat
 - Package: aidl
-  Version: 13.0.0.6-19
+  Version: 13.0.0.6-20
   Description: Android Interface Definition Language (AIDL)
   Homepage: https://elinux.org/Android_aapt
 - Package: alass
@@ -811,7 +811,7 @@
   Description: A free compiler for 6502 based system.
   Homepage: https://cc65.github.io/
 - Package: ccache
-  Version: 4.11.3
+  Version: 4.11.3-1
   Description: Compiler cache for fast recompilation of C/C++ code
   Homepage: https://ccache.samba.org
 - Package: cccc
@@ -1915,7 +1915,7 @@
   Description: A terminal based file manager
   Homepage: https://github.com/knipferrc/fm
 - Package: fmt
-  Version: 1:11.1.4
+  Version: 1:11.2.0
   Description: Open-source formatting library for C++
   Homepage: https://fmt.dev/latest/index.html
 - Package: fontconfig
@@ -5427,7 +5427,7 @@
   Description: Static libraries for libspatialite
   Homepage: https://www.gaia-gis.it/fossil/libspatialite
 - Package: libspdlog
-  Version: 1.15.3
+  Version: 1.15.3-1
   Description: Very fast, header-only/compiled, C++ logging library
   Homepage: https://github.com/gabime/spdlog
 - Package: libspectre
@@ -5987,11 +5987,11 @@
   Description: Static libraries for libxext
   Homepage: https://xorg.freedesktop.org/
 - Package: libxfixes
-  Version: 6.0.1
+  Version: 6.0.2
   Description: X11 miscellaneous fixes extension library
   Homepage: https://xorg.freedesktop.org/
 - Package: libxfixes-static
-  Version: 6.0.1
+  Version: 6.0.2
   Description: Static libraries for libxfixes
   Homepage: https://xorg.freedesktop.org/
 - Package: libxft
@@ -6839,7 +6839,7 @@
   Description: Minimalist command line interface for MPD
   Homepage: https://www.musicpd.org/clients/mpc/
 - Package: mpd
-  Version: 0.24.5
+  Version: 0.24.5-1
   Description: Music player daemon
   Homepage: https://www.musicpd.org
 - Package: mpdscribble
@@ -9395,7 +9395,7 @@
   Description: Decentralized file synchronization
   Homepage: https://syncthing.net/
 - Package: sysprop
-  Version: 13.0.0.15-7
+  Version: 13.0.0.15-8
   Description: Generates cpp / java sysprop
   Homepage: https://android.googlesource.com/platform/system/tools/sysprop
 - Package: ta-lib
