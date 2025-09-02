@@ -6235,7 +6235,7 @@
   },
   {
     "Package": "libgraphite",
-    "Version": "1.3.14-2",
+    "Version": "1.3.14-3",
     "Description": "Font system for multiple languages",
     "Homepage": "https://github.com/silnrsi/graphite"
   },
@@ -6727,13 +6727,13 @@
   },
   {
     "Package": "liblqr",
-    "Version": "0.4.3",
+    "Version": "0.4.3-1",
     "Description": "Provides a C/C++ API for performing non-uniform resizing of images by the seam-carving technique",
     "Homepage": "https://github.com/carlobaldassi/liblqr"
   },
   {
     "Package": "liblqr-static",
-    "Version": "0.4.3",
+    "Version": "0.4.3-1",
     "Description": "Static libraries for liblqr",
     "Homepage": "https://github.com/carlobaldassi/liblqr"
   },
@@ -6805,13 +6805,13 @@
   },
   {
     "Package": "libluajit",
-    "Version": "1:2.1.1731601260",
+    "Version": "1:2.1.1731601260-1",
     "Description": "Just-In-Time Compiler for Lua",
     "Homepage": "https://luajit.org/"
   },
   {
     "Package": "libluajit-static",
-    "Version": "1:2.1.1731601260",
+    "Version": "1:2.1.1731601260-1",
     "Description": "Static libraries for libluajit",
     "Homepage": "https://luajit.org/"
   },
@@ -7609,7 +7609,7 @@
   },
   {
     "Package": "libpixman",
-    "Version": "0.46.4",
+    "Version": "0.46.4-1",
     "Description": "Low-level library for pixel manipulation",
     "Homepage": "https://www.pixman.org/"
   },
@@ -9211,7 +9211,7 @@
   },
   {
     "Package": "libzip",
-    "Version": "1.11.4",
+    "Version": "1.11.4-1",
     "Description": "Library for reading, creating, and modifying zip archives",
     "Homepage": "https://libzip.org/"
   },
@@ -9523,7 +9523,7 @@
   },
   {
     "Package": "luajit",
-    "Version": "1:2.1.1731601260",
+    "Version": "1:2.1.1731601260-1",
     "Description": "Just-In-Time compiler for Lua - command line tool",
     "Homepage": "https://luajit.org/"
   },
@@ -14659,19 +14659,19 @@
   },
   {
     "Package": "tree-sitter",
-    "Version": "0.25.8",
+    "Version": "0.25.8-1",
     "Description": "An incremental parsing system for programming tools",
     "Homepage": "https://github.com/tree-sitter/tree-sitter"
   },
   {
     "Package": "tree-sitter-c",
-    "Version": "0.24.1-2",
+    "Version": "0.24.1-3",
     "Description": "C grammar for tree-sitter",
     "Homepage": "https://github.com/tree-sitter/tree-sitter-c"
   },
   {
     "Package": "tree-sitter-lua",
-    "Version": "0.4.0-2",
+    "Version": "0.4.0-3",
     "Description": "Lua grammar for tree-sitter",
     "Homepage": "https://github.com/tree-sitter-grammars/tree-sitter-lua"
   },
@@ -14695,7 +14695,7 @@
   },
   {
     "Package": "tree-sitter-static",
-    "Version": "0.25.8",
+    "Version": "0.25.8-1",
     "Description": "Static libraries for tree-sitter",
     "Homepage": "https://github.com/tree-sitter/tree-sitter"
   },
@@ -15049,13 +15049,13 @@
   },
   {
     "Package": "utf8proc",
-    "Version": "2.10.0",
+    "Version": "2.10.0-1",
     "Description": "Library for processing UTF-8 Unicode data",
     "Homepage": "https://github.com/JuliaLang/utf8proc"
   },
   {
     "Package": "utf8proc-static",
-    "Version": "2.10.0",
+    "Version": "2.10.0-1",
     "Description": "Static libraries for utf8proc",
     "Homepage": "https://github.com/JuliaLang/utf8proc"
   },
