@@ -655,7 +655,7 @@
   Description: A better way to navigate directories
   Homepage: https://github.com/Canop/broot
 - Package: brotli
-  Version: 1.1.0-2
+  Version: 1.1.0-3
   Description: lossless compression algorithm and format (command line utility)
   Homepage: https://github.com/google/brotli
 - Package: bsd-finger
@@ -3607,7 +3607,7 @@
   Description: Static libraries for libcaca
   Homepage: http://caca.zoy.org/wiki/libcaca
 - Package: libcairo
-  Version: 1.18.4-1
+  Version: 1.18.4-2
   Description: Cairo 2D vector graphics library
   Homepage: https://cairographics.org
 - Package: libcairomm-1.0
@@ -4951,11 +4951,11 @@
   Description: Static libraries for libopenmpt
   Homepage: https://lib.openmpt.org/libopenmpt/
 - Package: libopus
-  Version: 1.5.2
+  Version: 1.5.2-1
   Description: Reference implementation of the Opus codec
   Homepage: https://www.opus-codec.org/
 - Package: libopus-static
-  Version: 1.5.2
+  Version: 1.5.2-1
   Description: Static libraries for libopus
   Homepage: https://www.opus-codec.org/
 - Package: libopusenc
@@ -5475,7 +5475,7 @@
   Description: Secure Reliable Transport (SRT) Protocol
   Homepage: https://github.com/Haivision/srt
 - Package: libssh
-  Version: 0.11.2
+  Version: 0.11.2-1
   Description: Tiny C SSH library
   Homepage: https://www.libssh.org/
 - Package: libssh2
@@ -5567,11 +5567,11 @@
   Description: Library for processing of keyboard entry for terminal-based programs
   Homepage: http://www.leonerd.org.uk/code/libtermkey/
 - Package: libtheora
-  Version: 1.2.0
+  Version: 1.2.0-1
   Description: An open video codec developed by the Xiph.org
   Homepage: https://www.theora.org/
 - Package: libtheora-static
-  Version: 1.2.0
+  Version: 1.2.0-1
   Description: Static libraries for libtheora
   Homepage: https://www.theora.org/
 - Package: libthread-db
@@ -5919,11 +5919,11 @@
   Description: Static libraries for libx264
   Homepage: https://www.videolan.org/developers/x264.html
 - Package: libx265
-  Version: "4.1"
+  Version: 4.1-1
   Description: H.265/HEVC video stream encoder library
   Homepage: http://x265.org/
 - Package: libx265-static
-  Version: "4.1"
+  Version: 4.1-1
   Description: Static libraries for libx265
   Homepage: http://x265.org/
 - Package: libxapian
@@ -7127,7 +7127,7 @@
   Description: Free, portable and lightweight Internet Relay Chat server
   Homepage: https://ngircd.barton.de/
 - Package: ngspice
-  Version: "44.2"
+  Version: "45"
   Description: A mixed-level/mixed-signal circuit simulator
   Homepage: https://ngspice.sourceforge.net/
 - Package: nim
@@ -10435,7 +10435,7 @@
   Description: Commandline video encoder for the H.264/MPEG-4 AVC format
   Homepage: https://www.videolan.org/developers/x264.html
 - Package: x265
-  Version: "4.1"
+  Version: 4.1-1
   Description: H.265/HEVC video stream encoder tool
   Homepage: http://x265.org/
 - Package: xapian-tools

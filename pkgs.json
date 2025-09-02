@@ -985,7 +985,7 @@
   },
   {
     "Package": "brotli",
-    "Version": "1.1.0-2",
+    "Version": "1.1.0-3",
     "Description": "lossless compression algorithm and format (command line utility)",
     "Homepage": "https://github.com/google/brotli"
   },
@@ -5413,7 +5413,7 @@
   },
   {
     "Package": "libcairo",
-    "Version": "1.18.4-1",
+    "Version": "1.18.4-2",
     "Description": "Cairo 2D vector graphics library",
     "Homepage": "https://cairographics.org"
   },
@@ -7429,13 +7429,13 @@
   },
   {
     "Package": "libopus",
-    "Version": "1.5.2",
+    "Version": "1.5.2-1",
     "Description": "Reference implementation of the Opus codec",
     "Homepage": "https://www.opus-codec.org/"
   },
   {
     "Package": "libopus-static",
-    "Version": "1.5.2",
+    "Version": "1.5.2-1",
     "Description": "Static libraries for libopus",
     "Homepage": "https://www.opus-codec.org/"
   },
@@ -8215,7 +8215,7 @@
   },
   {
     "Package": "libssh",
-    "Version": "0.11.2",
+    "Version": "0.11.2-1",
     "Description": "Tiny C SSH library",
     "Homepage": "https://www.libssh.org/"
   },
@@ -8353,13 +8353,13 @@
   },
   {
     "Package": "libtheora",
-    "Version": "1.2.0",
+    "Version": "1.2.0-1",
     "Description": "An open video codec developed by the Xiph.org",
     "Homepage": "https://www.theora.org/"
   },
   {
     "Package": "libtheora-static",
-    "Version": "1.2.0",
+    "Version": "1.2.0-1",
     "Description": "Static libraries for libtheora",
     "Homepage": "https://www.theora.org/"
   },
@@ -8881,13 +8881,13 @@
   },
   {
     "Package": "libx265",
-    "Version": "4.1",
+    "Version": "4.1-1",
     "Description": "H.265/HEVC video stream encoder library",
     "Homepage": "http://x265.org/"
   },
   {
     "Package": "libx265-static",
-    "Version": "4.1",
+    "Version": "4.1-1",
     "Description": "Static libraries for libx265",
     "Homepage": "http://x265.org/"
   },
@@ -10693,7 +10693,7 @@
   },
   {
     "Package": "ngspice",
-    "Version": "44.2",
+    "Version": "45",
     "Description": "A mixed-level/mixed-signal circuit simulator",
     "Homepage": "https://ngspice.sourceforge.net/"
   },
@@ -15655,7 +15655,7 @@
   },
   {
     "Package": "x265",
-    "Version": "4.1",
+    "Version": "4.1-1",
     "Description": "H.265/HEVC video stream encoder tool",
     "Homepage": "http://x265.org/"
   },
