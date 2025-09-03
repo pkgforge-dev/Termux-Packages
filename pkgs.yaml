@@ -3131,7 +3131,7 @@
   Description: Static libraries for jq
   Homepage: https://stedolan.github.io/jq/
 - Package: jql
-  Version: 8.0.7
+  Version: 8.0.8
   Description: A JSON Query Language CLI tool
   Homepage: https://github.com/yamafaktory/jql
 - Package: json-c
@@ -8571,7 +8571,7 @@
   Description: A user-mode TCP port redirection server
   Homepage: https://github.com/samhocevar/rinetd
 - Package: rip2
-  Version: 0.9.4
+  Version: 0.9.5
   Description: A safe and ergonomic alternative to rm
   Homepage: https://github.com/MilesCranmer/rip2
 - Package: ripgrep
@@ -9391,7 +9391,7 @@
   Description: Static libraries for swtpm
   Homepage: https://github.com/stefanberger/swtpm
 - Package: syncthing
-  Version: 2.0.5
+  Version: 2.0.6
   Description: Decentralized file synchronization
   Homepage: https://syncthing.net/
 - Package: sysprop
