@@ -183,7 +183,7 @@
   Description: A free MS Word reader
   Homepage: https://en.m.wikipedia.org/wiki/Antiword
 - Package: aom-tools
-  Version: 3.12.1
+  Version: 3.13.0
   Description: Command-line tools using AOMedia library
   Homepage: https://aomedia.org/
 - Package: aosp-libs
@@ -1547,7 +1547,7 @@
   Description: Disk usage/free utility
   Homepage: https://github.com/muesli/duf
 - Package: dufs
-  Version: 0.44.0
+  Version: 0.45.0
   Description: A file server that supports static serving, uploading, searching, accessing control, webdav...
   Homepage: https://github.com/sigoden/dufs
 - Package: duktape
@@ -3459,11 +3459,11 @@
   Description: Static libraries for libao
   Homepage: https://www.xiph.org/ao/
 - Package: libaom
-  Version: 3.12.1
+  Version: 3.13.0
   Description: AV1 Video Codec Library
   Homepage: https://aomedia.org/
 - Package: libaom-static
-  Version: 3.12.1
+  Version: 3.13.0
   Description: Static libraries for libaom
   Homepage: https://aomedia.org/
 - Package: libapt-pkg-perl

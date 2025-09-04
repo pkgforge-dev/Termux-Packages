@@ -56,7 +56,7 @@
 | **ant** | 1.10.15-1 | Java based build tool like make | https://ant.apache.org/ |
 | **antibody** | 6.1.1-2 | The fastest shell plugin manager | https://github.com/getantibody/antibody |
 | **antiword** | 0.37-3 | A free MS Word reader | https://en.m.wikipedia.org/wiki/Antiword |
-| **aom-tools** | 3.12.1 | Command-line tools using AOMedia library | https://aomedia.org/ |
+| **aom-tools** | 3.13.0 | Command-line tools using AOMedia library | https://aomedia.org/ |
 | **aosp-libs** | 9.0.0-r76-0 | bionic libc, libicuuc, liblzma, zlib, and boringssl for package builder and termux-docker | https://source.android.com/ |
 | **aosp-utils** | 9.0.0-r76-0 | AOSP-based mksh, toybox and iputils for termux-docker | https://source.android.com/ |
 | **apache-orc** | 2.2.0 | Columnar storage for Hadoop workloads | https://orc.apache.org/ |
@@ -397,7 +397,7 @@
 | **duc** | 1.4.5 | High-performance disk usage analyzer | http://duc.zevv.nl/ |
 | **duckdb** | 1.3.2 | DuckDB Command Line Interface (CLI) shell | https://duckdb.org/ |
 | **duf** | 0.8.1-3 | Disk usage/free utility | https://github.com/muesli/duf |
-| **dufs** | 0.44.0 | A file server that supports static serving, uploading, searching, accessing control, webdav... | https://github.com/sigoden/dufs |
+| **dufs** | 0.45.0 | A file server that supports static serving, uploading, searching, accessing control, webdav... | https://github.com/sigoden/dufs |
 | **duktape** | 2.7.0-1 | Simple REPL for Duktape | https://www.duktape.org/ |
 | **dust** | 1.2.3 | A more intuitive version of du in rust | https://github.com/bootandy/dust |
 | **dvdauthor** | 0.7.2-3 | Generates a DVD-Video movie from a valid MPEG-2 stream | https://dvdauthor.sourceforge.net/ |
@@ -875,8 +875,8 @@
 | **libandroid-wordexp-static** | 0.1 | Static libraries for libandroid-wordexp | https://man7.org/linux/man-pages/man3/wordexp.3.html |
 | **libao** | 1.2.2-7 | A cross platform audio library | https://www.xiph.org/ao/ |
 | **libao-static** | 1.2.2-7 | Static libraries for libao | https://www.xiph.org/ao/ |
-| **libaom** | 3.12.1 | AV1 Video Codec Library | https://aomedia.org/ |
-| **libaom-static** | 3.12.1 | Static libraries for libaom | https://aomedia.org/ |
+| **libaom** | 3.13.0 | AV1 Video Codec Library | https://aomedia.org/ |
+| **libaom-static** | 3.13.0 | Static libraries for libaom | https://aomedia.org/ |
 | **libapt-pkg-perl** | 0.1.40-11 | Perl interface to APT's libapt-pkg | https://packages.debian.org/libapt-pkg-perl |
 | **libarchive** | 3.8.1-1 | Multi-format archive and compression library | https://www.libarchive.org/ |
 | **libarchive-static** | 3.8.1-1 | Static libraries for libarchive | https://www.libarchive.org/ |

@@ -277,7 +277,7 @@
   },
   {
     "Package": "aom-tools",
-    "Version": "3.12.1",
+    "Version": "3.13.0",
     "Description": "Command-line tools using AOMedia library",
     "Homepage": "https://aomedia.org/"
   },
@@ -2323,7 +2323,7 @@
   },
   {
     "Package": "dufs",
-    "Version": "0.44.0",
+    "Version": "0.45.0",
     "Description": "A file server that supports static serving, uploading, searching, accessing control, webdav...",
     "Homepage": "https://github.com/sigoden/dufs"
   },
@@ -5191,13 +5191,13 @@
   },
   {
     "Package": "libaom",
-    "Version": "3.12.1",
+    "Version": "3.13.0",
     "Description": "AV1 Video Codec Library",
     "Homepage": "https://aomedia.org/"
   },
   {
     "Package": "libaom-static",
-    "Version": "3.12.1",
+    "Version": "3.13.0",
     "Description": "Static libraries for libaom",
     "Homepage": "https://aomedia.org/"
   },
