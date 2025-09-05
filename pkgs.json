@@ -3403,7 +3403,7 @@
   },
   {
     "Package": "glab-cli",
-    "Version": "1.67.0",
+    "Version": "1.68.0",
     "Description": "A GitLab CLI tool bringing GitLab to your command line",
     "Homepage": "https://gitlab.com/gitlab-org/cli"
   },
@@ -14002,6 +14002,12 @@
     "Version": "1.0.0-3",
     "Description": "A very simple note taking cli app",
     "Homepage": "https://stand-up-notes.org"
+  },
+  {
+    "Package": "supercollider",
+    "Version": "3.14.0",
+    "Description": "A platform for audio synthesis and algorithmic composition",
+    "Homepage": "http://supercollider.github.io/"
   },
   {
     "Package": "surfraw",
