@@ -439,7 +439,7 @@
   },
   {
     "Package": "asciinema",
-    "Version": "3.0.0-rc.5-0",
+    "Version": "1:3.0.0~rc.5",
     "Description": "Record and share your terminal sessions, the right way",
     "Homepage": "https://asciinema.org/"
   },
@@ -829,7 +829,7 @@
   },
   {
     "Package": "bitcoin",
-    "Version": "29.0-1",
+    "Version": "29.1",
     "Description": "Bitcoin Core",
     "Homepage": "https://bitcoincore.org/"
   },
@@ -4555,7 +4555,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.22.2418",
+    "Version": "0.22.2429",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -14095,7 +14095,7 @@
   },
   {
     "Package": "syncthing",
-    "Version": "2.0.6",
+    "Version": "2.0.7",
     "Description": "Decentralized file synchronization",
     "Homepage": "https://syncthing.net/"
   },
@@ -15337,7 +15337,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "2025.09.02",
+    "Version": "2025.09.05",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://github.com/directvt/vtm"
   },
