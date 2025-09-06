@@ -183,7 +183,7 @@
   Description: A free MS Word reader
   Homepage: https://en.m.wikipedia.org/wiki/Antiword
 - Package: aom-tools
-  Version: 3.13.0
+  Version: 3.13.1
   Description: Command-line tools using AOMedia library
   Homepage: https://aomedia.org/
 - Package: aosp-libs
@@ -3263,7 +3263,7 @@
   Description: LastPass command line interface tool
   Homepage: https://lastpass.com/
 - Package: lazygit
-  Version: 0.54.2
+  Version: 0.55.0
   Description: Simple terminal UI for git commands
   Homepage: https://github.com/jesseduffield/lazygit
 - Package: lcal
@@ -3459,11 +3459,11 @@
   Description: Static libraries for libao
   Homepage: https://www.xiph.org/ao/
 - Package: libaom
-  Version: 3.13.0
+  Version: 3.13.1
   Description: AV1 Video Codec Library
   Homepage: https://aomedia.org/
 - Package: libaom-static
-  Version: 3.13.0
+  Version: 3.13.1
   Description: Static libraries for libaom
   Homepage: https://aomedia.org/
 - Package: libapt-pkg-perl

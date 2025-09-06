@@ -44,7 +44,7 @@
 | **ant** | 1.10.15-1 | Java based build tool like make | https://ant.apache.org/ |
 | **antibody** | 6.1.1-2 | The fastest shell plugin manager | https://github.com/getantibody/antibody |
 | **antiword** | 0.37-3 | A free MS Word reader | https://en.m.wikipedia.org/wiki/Antiword |
-| **aom-tools** | 3.13.0 | Command-line tools using AOMedia library | https://aomedia.org/ |
+| **aom-tools** | 3.13.1 | Command-line tools using AOMedia library | https://aomedia.org/ |
 | **aosp-libs** | 9.0.0-r76-0 | bionic libc, libicuuc, liblzma, zlib, and boringssl for package builder and termux-docker | https://source.android.com/ |
 | **aosp-utils** | 9.0.0-r76-0 | AOSP-based mksh, toybox and iputils for termux-docker | https://source.android.com/ |
 | **apache-orc** | 2.2.0 | Columnar storage for Hadoop workloads | https://orc.apache.org/ |
@@ -814,7 +814,7 @@
 | **ladspa-sdk** | 1.17-2 | Linux Audio Developer's Simple Plugin API | https://www.ladspa.org/ |
 | **lame** | 3.100-7 | High quality MPEG Audio Layer III (MP3) encoder - frontend | https://lame.sourceforge.io/ |
 | **lastpass-cli** | 1.6.1-2 | LastPass command line interface tool | https://lastpass.com/ |
-| **lazygit** | 0.54.2 | Simple terminal UI for git commands | https://github.com/jesseduffield/lazygit |
+| **lazygit** | 0.55.0 | Simple terminal UI for git commands | https://github.com/jesseduffield/lazygit |
 | **lcal** | 2.1.0 | A multi-platform program which generates PostScript lunar calendars in a yearly format | https://pcal.sourceforge.net/ |
 | **ldc** | 1.30.0-2 | D programming language compiler, built with LLVM | https://github.com/ldc-developers/ldc |
 | **ldd** | 0.3 | Fake ldd command | https://github.com/termux/termux-packages |
@@ -863,8 +863,8 @@
 | **libandroid-wordexp-static** | 0.1 | Static libraries for libandroid-wordexp | https://man7.org/linux/man-pages/man3/wordexp.3.html |
 | **libao** | 1.2.2-7 | A cross platform audio library | https://www.xiph.org/ao/ |
 | **libao-static** | 1.2.2-7 | Static libraries for libao | https://www.xiph.org/ao/ |
-| **libaom** | 3.13.0 | AV1 Video Codec Library | https://aomedia.org/ |
-| **libaom-static** | 3.13.0 | Static libraries for libaom | https://aomedia.org/ |
+| **libaom** | 3.13.1 | AV1 Video Codec Library | https://aomedia.org/ |
+| **libaom-static** | 3.13.1 | Static libraries for libaom | https://aomedia.org/ |
 | **libapt-pkg-perl** | 0.1.40-11 | Perl interface to APT's libapt-pkg | https://packages.debian.org/libapt-pkg-perl |
 | **libarchive** | 3.8.1-1 | Multi-format archive and compression library | https://www.libarchive.org/ |
 | **libarchive-static** | 3.8.1-1 | Static libraries for libarchive | https://www.libarchive.org/ |
