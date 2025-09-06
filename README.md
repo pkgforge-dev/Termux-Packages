@@ -442,10 +442,10 @@
 | **exercism** | 3.5.7-1 | A Go based command line tool for exercism.io | https://github.com/exercism/cli/ |
 | **exfatprogs** | 1.2.9 | exFAT filesystem userspace utilities | https://github.com/exfatprogs/exfatprogs |
 | **exhale** | 1.2.1.2 | Open source xHE-AAC encoder | https://gitlab.com/ecodis/exhale |
-| **exiftool** | 13.34 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
+| **exiftool** | 13.35 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
 | **exiv2** | 2:0.28.7 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **expect** | 5.45.4-3 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
-| **eza** | 0.23.1 | A modern replacement for ls | https://github.com/eza-community/eza |
+| **eza** | 0.23.2 | A modern replacement for ls | https://github.com/eza-community/eza |
 | **fact++** | 1.6.5-2 | Re-implementation of the well-known FaCT Description Logic (DL) Reasoner | https://bitbucket.org/dtsarkov/factplusplus |
 | **fakeroot** | 1.37.1.2 | Tool for simulating superuser privileges (with tcp ipc) | https://packages.qa.debian.org/f/fakeroot.html |
 | **fakeroot-static** | 1.37.1.2 | Static libraries for fakeroot | https://packages.qa.debian.org/f/fakeroot.html |
@@ -1727,7 +1727,7 @@
 | **mruby** | 3.4.0 | Lightweight implementation of the Ruby language | https://mruby.org/ |
 | **mruby-static** | 3.4.0 | Static libraries for mruby | https://mruby.org/ |
 | **msitools** | 0.106 | Set of programs to inspect and build Windows Installer (.MSI) files | https://gitlab.gnome.org/GNOME/msitools |
-| **msmtp** | 1.8.30 | Lightweight SMTP client | https://marlam.de/msmtp/ |
+| **msmtp** | 1.8.31 | Lightweight SMTP client | https://marlam.de/msmtp/ |
 | **mtd-utils** | 2.3.0 | Utilities for dealing with MTD devices | http://www.linux-mtd.infradead.org/ |
 | **mtools** | 4.0.49 | Tool for manipulating FAT images | https://www.gnu.org/software/mtools/ |
 | **mu** | 1.12.12 | Maildir indexer/searcher and Emacs client (mu4e) | https://www.djcbsoftware.nl/code/mu/ |
@@ -1862,7 +1862,7 @@
 | **openjpeg-tools** | 2.5.3-1 | Command-line tools using the JPEG 2000 library | https://www.openjpeg.org/ |
 | **openldap** | 2.6.10 | OpenLDAP server | https://openldap.org |
 | **openldap-static** | 2.6.10 | Static libraries for openldap | https://openldap.org |
-| **openlist** | 4.1.1 | A file list program that supports multiple storage | https://oplist.org/ |
+| **openlist** | 4.1.2 | A file list program that supports multiple storage | https://oplist.org/ |
 | **openmpi** | 4.1.5 | Open source Message Passing Interface implementation | https://www.open-mpi.org |
 | **openmpi-static** | 4.1.5 | Static libraries for openmpi | https://www.open-mpi.org |
 | **openmpt123** | 0.8.2-1 | libopenmpt based command-line player for tracker music formats | https://lib.openmpt.org/libopenmpt/ |
@@ -2024,7 +2024,7 @@
 | **pwgen** | 2.08-1 | Password generator which by default, unless given the '-s' option, generates memorable but insecure passwords | http://pwgen.sourceforge.net/ |
 | **pybind11** | 3.0.1-1 | A lightweight header-only library that exposes C++ types in Python and vice versa | https://pybind11.readthedocs.io/ |
 | **pycairo** | 1.28.0 | Python bindings for the cairo graphics library | https://www.cairographics.org/pycairo/ |
-| **pygobject** | 3.52.3 | Python package which provides bindings for GObject based libraries | https://pygobject.gnome.org/ |
+| **pygobject** | 3.54.0 | Python package which provides bindings for GObject based libraries | https://pygobject.gnome.org/ |
 | **pypy** | 7.3.20 | A fast, compliant alternative implementation of Python | https://pypy.org |
 | **pypy-tests** | 7.3.20 | Test files for PyPy | https://pypy.org |
 | **pypy-tkinter** | 7.3.20 | Tkinter support for PyPy | https://pypy.org |
