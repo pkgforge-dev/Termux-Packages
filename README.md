@@ -1579,7 +1579,7 @@
 | **loksh** | 7.7 | A Linux port of OpenBSD's ksh | https://github.com/dimkr/loksh |
 | **lowdown** | 2.0.2 | Markdown utilities and library (fork of hoedown -> sundown -> libsoldout) | https://kristaps.bsd.lv/lowdown |
 | **lowdown-static** | 2.0.2 | Static libraries for lowdown | https://kristaps.bsd.lv/lowdown |
-| **lr** | 2.0 | list files, recursively, includes the best features of ls, find, stat and du | https://git.vuxu.org/lr/about/ |
+| **lr** | 2.0.1 | list files, recursively, includes the best features of ls, find, stat and du | https://git.vuxu.org/lr/about/ |
 | **lrzip** | 0.651 | A compression utility that excels at compressing large files | https://github.com/ckolivas/lrzip |
 | **lrzsz** | 0.12.21-rc1-0 | Tools for zmodem/xmodem/ymodem file transfer | https://ohse.de/uwe/software/lrzsz.html |
 | **lsd** | 1.1.5 | Next gen ls command | https://github.com/lsd-rs/lsd |
