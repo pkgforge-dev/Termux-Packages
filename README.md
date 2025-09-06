@@ -2667,7 +2667,7 @@
 | **zbar** | 0.23.93 | Software suite for reading bar codes from various sources | https://github.com/mchehab/zbar |
 | **zbar-static** | 0.23.93 | Static libraries for zbar | https://github.com/mchehab/zbar |
 | **zeronet** | 0.7.1-9 | Decentralized websites using Bitcoin crypto and BitTorrent network | https://zeronet.io/ |
-| **zig** | 0.14.1 | General-purpose programming language and toolchain | https://ziglang.org |
+| **zig** | 0.15.1 | General-purpose programming language and toolchain | https://ziglang.org |
 | **zile** | 2.6.4-2 | Lightweight clone of the Emacs text editor | https://www.gnu.org/software/zile/ |
 | **zip** | 3.0-6 | Tools for working with zip files | https://sourceforge.net/projects/infozip/ |
 | **zipios** | 2.3.2 | A small C++ library for reading and writing zip files | https://zipios.sourceforge.io/ |
