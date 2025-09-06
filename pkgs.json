@@ -5269,15 +5269,15 @@
   },
   {
     "Package": "libatomic-ops",
-    "Version": "7.8.2",
+    "Version": "7.8.4",
     "Description": "Provides semi-portable access to hardware-provided atomic memory update operations",
-    "Homepage": "https://github.com/ivmai/libatomic_ops"
+    "Homepage": "https://github.com/bdwgc/libatomic_ops"
   },
   {
     "Package": "libatomic-ops-static",
-    "Version": "7.8.2",
+    "Version": "7.8.4",
     "Description": "Static libraries for libatomic-ops",
-    "Homepage": "https://github.com/ivmai/libatomic_ops"
+    "Homepage": "https://github.com/bdwgc/libatomic_ops"
   },
   {
     "Package": "libbcprov-java",
@@ -12355,7 +12355,7 @@
   },
   {
     "Package": "python-yt-dlp",
-    "Version": "2025.08.27",
+    "Version": "2025.09.05",
     "Description": "A youtube-dl fork with additional features and fixes",
     "Homepage": "https://github.com/yt-dlp/yt-dlp"
   },
