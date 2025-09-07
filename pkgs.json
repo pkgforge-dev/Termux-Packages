@@ -1,13 +1,13 @@
 [
   {
     "Package": "0verkill",
-    "Version": "1:0.16",
+    "Version": "1:0.16-1",
     "Description": "Bloody 2D action deathmatch-like game in ASCII-ART",
     "Homepage": "https://github.com/hackndev/0verkill"
   },
   {
     "Package": "2048-c",
-    "Version": "1:1.0.3",
+    "Version": "1:1.0.3-1",
     "Description": "Console version of the game 2048 for GNU/Linux",
     "Homepage": "https://github.com/mevdschee/2048.c"
   },
@@ -19,19 +19,19 @@
   },
   {
     "Package": "6tunnel",
-    "Version": "0.13",
+    "Version": "0.13-1",
     "Description": "Allows you to use services provided by IPv6 hosts with IPv4-only applications and vice-versa",
     "Homepage": "https://github.com/wojtekka/6tunnel"
   },
   {
     "Package": "7zip",
-    "Version": "25.01",
+    "Version": "25.01-1",
     "Description": "7-Zip file archiver with a high compression ratio",
     "Homepage": "https://www.7-zip.org"
   },
   {
     "Package": "8086tiny",
-    "Version": "1.25-4",
+    "Version": "1.25-5",
     "Description": "A PC XT-compatible emulator/virtual machine",
     "Homepage": "https://github.com/adriancable/8086tiny"
   },
@@ -43,13 +43,13 @@
   },
   {
     "Package": "aalib",
-    "Version": "1.4rc5-12",
+    "Version": "1.4rc5-13",
     "Description": "A portable ASCII art graphic library",
     "Homepage": "https://sourceforge.net/projects/aa-project/"
   },
   {
     "Package": "aalib-static",
-    "Version": "1.4rc5-12",
+    "Version": "1.4rc5-13",
     "Description": "Static libraries for aalib",
     "Homepage": "https://sourceforge.net/projects/aa-project/"
   },
@@ -67,19 +67,19 @@
   },
   {
     "Package": "abduco",
-    "Version": "0.6-3",
+    "Version": "0.6-4",
     "Description": "Clean and simple terminal session manager",
     "Homepage": "https://www.brain-dump.org/projects/abduco/"
   },
   {
     "Package": "abook",
-    "Version": "0.6.2",
+    "Version": "0.6.2-1",
     "Description": "Abook is a text-based addressbook program designed to use with mutt mail client",
     "Homepage": "http://abook.sourceforge.net/"
   },
   {
     "Package": "abootimg",
-    "Version": "0.6-2",
+    "Version": "0.6-3",
     "Description": "Pack or unpack android boot images",
     "Homepage": "https://gitlab.com/ajs124/abootimg"
   },
@@ -109,7 +109,7 @@
   },
   {
     "Package": "adms",
-    "Version": "2.3.7",
+    "Version": "2.3.7-1",
     "Description": "A code generator for the Verilog-AMS language",
     "Homepage": "https://github.com/qucs/adms"
   },
@@ -127,25 +127,25 @@
   },
   {
     "Package": "age",
-    "Version": "1:1.2.1",
+    "Version": "1:1.2.1-1",
     "Description": "A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability",
     "Homepage": "https://github.com/FiloSottile/age"
   },
   {
     "Package": "agg",
-    "Version": "1.5.0",
+    "Version": "1.5.0-1",
     "Description": "asciinema gif generator",
     "Homepage": "https://github.com/asciinema/agg"
   },
   {
     "Package": "aha",
-    "Version": "0.5.1-1",
+    "Version": "0.5.1-2",
     "Description": "Converts ANSI escape sequences of a unix terminal to HTML code",
     "Homepage": "https://github.com/theZiz/aha"
   },
   {
     "Package": "aichat",
-    "Version": "0.30.0",
+    "Version": "0.30.0-1",
     "Description": "A powerful chatgpt cli",
     "Homepage": "https://github.com/sigoden/aichat"
   },
@@ -157,13 +157,13 @@
   },
   {
     "Package": "alass",
-    "Version": "2.0.0-2",
+    "Version": "2.0.0-3",
     "Description": "Automatic Language-Agnostic Subtitle Synchronization",
     "Homepage": "https://github.com/kaegi/alass"
   },
   {
     "Package": "alembic",
-    "Version": "1.8.8",
+    "Version": "1.8.8-1",
     "Description": "A framework for sharing scene data that includes a C++ lib, a file format and client plugin",
     "Homepage": "https://alembic.io"
   },
@@ -175,13 +175,13 @@
   },
   {
     "Package": "alpine",
-    "Version": "2.26",
+    "Version": "2.26-1",
     "Description": "Fast, easy to use email client",
     "Homepage": "http://alpine.x10host.com/"
   },
   {
     "Package": "alsa-lib",
-    "Version": "1.2.14",
+    "Version": "1.2.14-1",
     "Description": "The Advanced Linux Sound Architecture (ALSA) - library",
     "Homepage": "https://www.alsa-project.org"
   },
@@ -193,25 +193,25 @@
   },
   {
     "Package": "alsa-utils",
-    "Version": "1.2.13-1",
+    "Version": "1.2.13-2",
     "Description": "The Advanced Linux Sound Architecture (ALSA) - utils",
     "Homepage": "https://www.alsa-project.org"
   },
   {
     "Package": "alsa-utils-static",
-    "Version": "1.2.13-1",
+    "Version": "1.2.13-2",
     "Description": "Static libraries for alsa-utils",
     "Homepage": "https://www.alsa-project.org"
   },
   {
     "Package": "amber",
-    "Version": "0.6.0",
+    "Version": "0.6.0-1",
     "Description": "A code search / replace tool",
     "Homepage": "https://github.com/dalance/amber"
   },
   {
     "Package": "amfora",
-    "Version": "1.11.0",
+    "Version": "1.11.0-1",
     "Description": "Aims to be the best looking Gemini client",
     "Homepage": "https://github.com/makew0rld/amfora"
   },
@@ -223,13 +223,13 @@
   },
   {
     "Package": "anewer",
-    "Version": "0.1.6",
+    "Version": "0.1.6-1",
     "Description": "Append lines from stdin to a file if these lines do not present in that file (aHash-based uniq)",
     "Homepage": "https://github.com/ysf/anewer"
   },
   {
     "Package": "angband",
-    "Version": "4.2.5",
+    "Version": "4.2.5-1",
     "Description": "Dungeon exploration adventure game",
     "Homepage": "https://rephial.org/"
   },
@@ -241,7 +241,7 @@
   },
   {
     "Package": "angle-grinder",
-    "Version": "0.19.6",
+    "Version": "0.19.6-1",
     "Description": "Slice and dice logs on the command line",
     "Homepage": "https://github.com/rcoh/angle-grinder"
   },

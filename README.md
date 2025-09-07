@@ -10,47 +10,47 @@
 ---
 |Package | Version | Description | Homepage |
 |--------|---------|-------------|----------|
-| **0verkill** | 1:0.16 | Bloody 2D action deathmatch-like game in ASCII-ART | https://github.com/hackndev/0verkill |
-| **2048-c** | 1:1.0.3 | Console version of the game '2048' for GNU/Linux | https://github.com/mevdschee/2048.c |
+| **0verkill** | 1:0.16-1 | Bloody 2D action deathmatch-like game in ASCII-ART | https://github.com/hackndev/0verkill |
+| **2048-c** | 1:1.0.3-1 | Console version of the game '2048' for GNU/Linux | https://github.com/mevdschee/2048.c |
 | **2ping** | 4.5.1-4 | A bi-directional ping utility | https://www.finnie.org/software/2ping/ |
-| **6tunnel** | 0.13 | Allows you to use services provided by IPv6 hosts with IPv4-only applications and vice-versa | https://github.com/wojtekka/6tunnel |
-| **7zip** | 25.01 | 7-Zip file archiver with a high compression ratio | https://www.7-zip.org |
-| **8086tiny** | 1.25-4 | A PC XT-compatible emulator/virtual machine | https://github.com/adriancable/8086tiny |
+| **6tunnel** | 0.13-1 | Allows you to use services provided by IPv6 hosts with IPv4-only applications and vice-versa | https://github.com/wojtekka/6tunnel |
+| **7zip** | 25.01-1 | 7-Zip file archiver with a high compression ratio | https://www.7-zip.org |
+| **8086tiny** | 1.25-5 | A PC XT-compatible emulator/virtual machine | https://github.com/adriancable/8086tiny |
 | **a52dec** | 0.8.0-2 | A test program for liba52 | http://liba52.sourceforge.net/ |
-| **aalib** | 1.4rc5-12 | A portable ASCII art graphic library | https://sourceforge.net/projects/aa-project/ |
-| **aalib-static** | 1.4rc5-12 | Static libraries for aalib | https://sourceforge.net/projects/aa-project/ |
+| **aalib** | 1.4rc5-13 | A portable ASCII art graphic library | https://sourceforge.net/projects/aa-project/ |
+| **aalib-static** | 1.4rc5-13 | Static libraries for aalib | https://sourceforge.net/projects/aa-project/ |
 | **aapt** | 13.0.0.6-21 | Android Asset Packaging Tool | https://elinux.org/Android_aapt |
 | **aapt2** | 13.0.0.6-21 | AAPT2 (Android Asset Packaging Tool) | https://elinux.org/Android_aapt |
-| **abduco** | 0.6-3 | Clean and simple terminal session manager | https://www.brain-dump.org/projects/abduco/ |
-| **abook** | 0.6.2 | Abook is a text-based addressbook program designed to use with mutt mail client | http://abook.sourceforge.net/ |
-| **abootimg** | 0.6-2 | Pack or unpack android boot images | https://gitlab.com/ajs124/abootimg |
+| **abduco** | 0.6-4 | Clean and simple terminal session manager | https://www.brain-dump.org/projects/abduco/ |
+| **abook** | 0.6.2-1 | Abook is a text-based addressbook program designed to use with mutt mail client | http://abook.sourceforge.net/ |
+| **abootimg** | 0.6-3 | Pack or unpack android boot images | https://gitlab.com/ajs124/abootimg |
 | **abseil-cpp** | 20250814.0 | Abseil C++ Common Libraries | https://abseil.io/ |
 | **ack-grep** | 3.9.0 | Tool like grep optimized for programmers | https://beyondgrep.com/ |
 | **acr** | 2.2.2 | A fully compatible autoconf replacement | https://github.com/radareorg/acr |
 | **ada** | 3.2.7 | WHATWG-compliant and fast URL parser written in modern C++ | https://github.com/ada-url/ada |
-| **adms** | 2.3.7 | A code generator for the Verilog-AMS language | https://github.com/qucs/adms |
+| **adms** | 2.3.7-1 | A code generator for the Verilog-AMS language | https://github.com/qucs/adms |
 | **aerc** | 0.21.0 | A pretty good email client | https://aerc-mail.org/ |
 | **agate** | 3.3.18 | Very simple server for the Gemini hypertext protocol | https://github.com/mbrubeck/agate |
-| **age** | 1:1.2.1 | A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability | https://github.com/FiloSottile/age |
-| **agg** | 1.5.0 | asciinema gif generator | https://github.com/asciinema/agg |
-| **aha** | 0.5.1-1 | Converts ANSI escape sequences of a unix terminal to HTML code | https://github.com/theZiz/aha |
-| **aichat** | 0.30.0 | A powerful chatgpt cli | https://github.com/sigoden/aichat |
+| **age** | 1:1.2.1-1 | A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability | https://github.com/FiloSottile/age |
+| **agg** | 1.5.0-1 | asciinema gif generator | https://github.com/asciinema/agg |
+| **aha** | 0.5.1-2 | Converts ANSI escape sequences of a unix terminal to HTML code | https://github.com/theZiz/aha |
+| **aichat** | 0.30.0-1 | A powerful chatgpt cli | https://github.com/sigoden/aichat |
 | **aidl** | 13.0.0.6-21 | Android Interface Definition Language (AIDL) | https://elinux.org/Android_aapt |
-| **alass** | 2.0.0-2 | Automatic Language-Agnostic Subtitle Synchronization | https://github.com/kaegi/alass |
-| **alembic** | 1.8.8 | A framework for sharing scene data that includes a C++ lib, a file format and client plugin | https://alembic.io |
+| **alass** | 2.0.0-3 | Automatic Language-Agnostic Subtitle Synchronization | https://github.com/kaegi/alass |
+| **alembic** | 1.8.8-1 | A framework for sharing scene data that includes a C++ lib, a file format and client plugin | https://alembic.io |
 | **algernon** | 1.17.4 | Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support | https://algernon.roboticoverlords.org/ |
-| **alpine** | 2.26 | Fast, easy to use email client | http://alpine.x10host.com/ |
-| **alsa-lib** | 1.2.14 | The Advanced Linux Sound Architecture (ALSA) - library | https://www.alsa-project.org |
+| **alpine** | 2.26-1 | Fast, easy to use email client | http://alpine.x10host.com/ |
+| **alsa-lib** | 1.2.14-1 | The Advanced Linux Sound Architecture (ALSA) - library | https://www.alsa-project.org |
 | **alsa-plugins** | 1.2.12-1 | The Advanced Linux Sound Architecture (ALSA) - plugins | https://www.alsa-project.org |
-| **alsa-utils** | 1.2.13-1 | The Advanced Linux Sound Architecture (ALSA) - utils | https://www.alsa-project.org |
-| **alsa-utils-static** | 1.2.13-1 | Static libraries for alsa-utils | https://www.alsa-project.org |
-| **amber** | 0.6.0 | A code search / replace tool | https://github.com/dalance/amber |
-| **amfora** | 1.11.0 | Aims to be the best looking Gemini client | https://github.com/makew0rld/amfora |
+| **alsa-utils** | 1.2.13-2 | The Advanced Linux Sound Architecture (ALSA) - utils | https://www.alsa-project.org |
+| **alsa-utils-static** | 1.2.13-2 | Static libraries for alsa-utils | https://www.alsa-project.org |
+| **amber** | 0.6.0-1 | A code search / replace tool | https://github.com/dalance/amber |
+| **amfora** | 1.11.0-1 | Aims to be the best looking Gemini client | https://github.com/makew0rld/amfora |
 | **android-tools** | 35.0.2-4 | Android platform tools | https://developer.android.com/ |
-| **anewer** | 0.1.6 | Append lines from stdin to a file if these lines do not present in that file (aHash-based uniq) | https://github.com/ysf/anewer |
-| **angband** | 4.2.5 | Dungeon exploration adventure game | https://rephial.org/ |
+| **anewer** | 0.1.6-1 | Append lines from stdin to a file if these lines do not present in that file (aHash-based uniq) | https://github.com/ysf/anewer |
+| **angband** | 4.2.5-1 | Dungeon exploration adventure game | https://rephial.org/ |
 | **angle-android** | 2.1.24923-f09a19ce-2 | A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android | https://chromium.googlesource.com/angle/angle |
-| **angle-grinder** | 0.19.6 | Slice and dice logs on the command line | https://github.com/rcoh/angle-grinder |
+| **angle-grinder** | 0.19.6-1 | Slice and dice logs on the command line | https://github.com/rcoh/angle-grinder |
 | **ani-cli** | 4.10 | A cli to browse and watch anime | https://github.com/pystardust/ani-cli |
 | **ansifilter** | 2.21-1 | Strip or convert ANSI codes into HTML, (La)Tex, RTF, or BBCode | http://www.andre-simon.de/doku/ansifilter/en/ansifilter.php |
 | **ant** | 1.10.15-1 | Java based build tool like make | https://ant.apache.org/ |
