@@ -3035,7 +3035,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.2431
+  Version: 0.22.2438
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -4943,11 +4943,11 @@
   Description: Application-Level Forward Erasure Correction implementation library
   Homepage: http://openfec.org
 - Package: libopenmpt
-  Version: 0.8.2-1
+  Version: 0.8.3
   Description: Library to render tracker music formats to a PCM audio stream
   Homepage: https://lib.openmpt.org/libopenmpt/
 - Package: libopenmpt-static
-  Version: 0.8.2-1
+  Version: 0.8.3
   Description: Static libraries for libopenmpt
   Homepage: https://lib.openmpt.org/libopenmpt/
 - Package: libopus
@@ -7419,7 +7419,7 @@
   Description: Static libraries for openmpi
   Homepage: https://www.open-mpi.org
 - Package: openmpt123
-  Version: 0.8.2-1
+  Version: 0.8.3
   Description: libopenmpt based command-line player for tracker music formats
   Homepage: https://lib.openmpt.org/libopenmpt/
 - Package: opensc
@@ -7855,7 +7855,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pocketbase
-  Version: 0.29.3
+  Version: 0.30.0
   Description: An open source Go backend
   Homepage: https://github.com/pocketbase/pocketbase
 - Package: poke
@@ -8255,7 +8255,7 @@
   Description: A Pigz-like tool for Zstandard
   Homepage: https://github.com/facebook/zstd
 - Package: q-dns-client
-  Version: 0.19.5
+  Version: 0.19.8
   Description: A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH
   Homepage: https://github.com/natesales/q
 - Package: qalc

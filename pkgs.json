@@ -4555,7 +4555,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.22.2431",
+    "Version": "0.22.2438",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -7417,13 +7417,13 @@
   },
   {
     "Package": "libopenmpt",
-    "Version": "0.8.2-1",
+    "Version": "0.8.3",
     "Description": "Library to render tracker music formats to a PCM audio stream",
     "Homepage": "https://lib.openmpt.org/libopenmpt/"
   },
   {
     "Package": "libopenmpt-static",
-    "Version": "0.8.2-1",
+    "Version": "0.8.3",
     "Description": "Static libraries for libopenmpt",
     "Homepage": "https://lib.openmpt.org/libopenmpt/"
   },
@@ -11131,7 +11131,7 @@
   },
   {
     "Package": "openmpt123",
-    "Version": "0.8.2-1",
+    "Version": "0.8.3",
     "Description": "libopenmpt based command-line player for tracker music formats",
     "Homepage": "https://lib.openmpt.org/libopenmpt/"
   },
@@ -11785,7 +11785,7 @@
   },
   {
     "Package": "pocketbase",
-    "Version": "0.29.3",
+    "Version": "0.30.0",
     "Description": "An open source Go backend",
     "Homepage": "https://github.com/pocketbase/pocketbase"
   },
@@ -12385,7 +12385,7 @@
   },
   {
     "Package": "q-dns-client",
-    "Version": "0.19.5",
+    "Version": "0.19.8",
     "Description": "A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH",
     "Homepage": "https://github.com/natesales/q"
   },

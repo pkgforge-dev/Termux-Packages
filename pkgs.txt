@@ -757,7 +757,7 @@
  jack  0.0.1  A metapackage that provides JACK Audio Connection Kit  https://github.com/termux/termux-packages 
  jack-example-tools  4  Official JACK example clients and tools  https://jackaudio.org/ 
  jack2  1.9.22-1  The JACK low-latency audio server  https://jackaudio.org/ 
- jackett  0.22.2431  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
+ jackett  0.22.2438  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
  jadx  1.5.2  Dex to Java decompiler  https://github.com/skylot/jadx 
  jadx-x  1.5.2  Dex to Java decompiler GUI  https://github.com/skylot/jadx 
  janet  1.39.1  Janet is a dialect of Lisp intended for embedding into programs and such  https://janet-lang.org 
@@ -1234,8 +1234,8 @@
  libopencore-amr  0.1.6  Open source implementation of the Adaptive Multi Rate (AMR) speech codec  https://sourceforge.net/projects/opencore-amr 
  libopencore-amr-static  0.1.6  Static libraries for libopencore-amr  https://sourceforge.net/projects/opencore-amr 
  libopenfec  1.4.2.12  Application-Level Forward Erasure Correction implementation library  http://openfec.org 
- libopenmpt  0.8.2-1  Library to render tracker music formats to a PCM audio stream  https://lib.openmpt.org/libopenmpt/ 
- libopenmpt-static  0.8.2-1  Static libraries for libopenmpt  https://lib.openmpt.org/libopenmpt/ 
+ libopenmpt  0.8.3  Library to render tracker music formats to a PCM audio stream  https://lib.openmpt.org/libopenmpt/ 
+ libopenmpt-static  0.8.3  Static libraries for libopenmpt  https://lib.openmpt.org/libopenmpt/ 
  libopus  1.5.2-1  Reference implementation of the Opus codec  https://www.opus-codec.org/ 
  libopus-static  1.5.2-1  Static libraries for libopus  https://www.opus-codec.org/ 
  libopusenc  0.2.1-3  High-level API for encoding .opus files  https://github.com/xiph/libopusenc 
@@ -1853,7 +1853,7 @@
  openlist  4.1.2  A file list program that supports multiple storage  https://oplist.org/ 
  openmpi  4.1.5  Open source Message Passing Interface implementation  https://www.open-mpi.org 
  openmpi-static  4.1.5  Static libraries for openmpi  https://www.open-mpi.org 
- openmpt123  0.8.2-1  libopenmpt based command-line player for tracker music formats  https://lib.openmpt.org/libopenmpt/ 
+ openmpt123  0.8.3  libopenmpt based command-line player for tracker music formats  https://lib.openmpt.org/libopenmpt/ 
  opensc  0.26.1  Open source smart card tools and middleware  https://github.com/OpenSC/OpenSC 
  opensc-static  0.26.1  Static libraries for opensc  https://github.com/OpenSC/OpenSC 
  openscad  2021.01-4  The programmers solid 3D CAD modeller (headless build)  https://openscad.org/ 
@@ -1962,7 +1962,7 @@
  plzip  1.12  A massively parallel lossless data compressor based on the lzlib compression library  https://www.nongnu.org/lzip/plzip.html 
  pngcrush  1.8.13-1  Recompresses png files  https://pmt.sourceforge.io/pngcrush/ 
  pngquant  3.0.3-1  PNG image optimising utility  https://pngquant.org 
- pocketbase  0.29.3  An open source Go backend  https://github.com/pocketbase/pocketbase 
+ pocketbase  0.30.0  An open source Go backend  https://github.com/pocketbase/pocketbase 
  poke  4.3  Interactive, extensible editor for binary data.  http://www.jemarch.net/poke.html 
  poke-static  4.3  Static libraries for poke  http://www.jemarch.net/poke.html 
  polipo  1.1.1  A small and fast caching web proxy  http://www.pps.jussieu.fr/~jch/software/polipo/ 
@@ -2062,7 +2062,7 @@
  python2-static  2.7.18-14  Static libraries for python2  http://python.org/ 
  pyunbound  1.23.1-1  Python bindings for Unbound  https://unbound.net/ 
  pzstd  1.5.7-1  A Pigz-like tool for Zstandard  https://github.com/facebook/zstd 
- q-dns-client  0.19.5  A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH  https://github.com/natesales/q 
+ q-dns-client  0.19.8  A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH  https://github.com/natesales/q 
  qalc  5.7.0  Powerful and easy to use command line calculator  https://qalculate.github.io/ 
  qalc-static  5.7.0  Static libraries for qalc  https://qalculate.github.io/ 
  qemu-common  1:8.2.6-6  A set common files used by the QEMU emulators  https://www.qemu.org 
