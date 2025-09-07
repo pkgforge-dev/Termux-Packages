@@ -446,7 +446,7 @@
 | **faustlibraries** | 2.81.2 | Faust DSP libraries | https://github.com/grame-cncm/faust |
 | **fclones** | 0.35.0 | Efficient Duplicate File Finder | https://github.com/pkolaczk/fclones |
 | **fcp** | 0.2.1-1 | A significantly faster alternative to the classic Unix cp(1) command | https://github.com/Svetlitski/fcp |
-| **fd** | 10.2.0-1 | Simple, fast and user-friendly alternative to find | https://github.com/sharkdp/fd |
+| **fd** | 10.3.0-1 | Simple, fast and user-friendly alternative to find | https://github.com/sharkdp/fd |
 | **fdisk** | 2.40.2-5 | Utilities to manipulate disk partition tables | https://en.wikipedia.org/wiki/Util-linux |
 | **fdkaac** | 1.0.6 | command line encoder frontend for libfdk-aac | https://github.com/nu774/fdkaac |
 | **fdm** | 2.2 | A program designed to fetch mail from POP3 or IMAP servers, or receive local mail from stdin, and deliver it in various ways | https://github.com/nicm/fdm |
@@ -799,7 +799,7 @@
 | **kbd** | 2.9.0 | KBD's showkey utility for examining keycodes | https://kbd-project.org/ |
 | **kcptun** | 20250730 | A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC | https://github.com/xtaci/kcptun |
 | **keybase** | 6.5.1 | Key directory that maps social media identities to encryption keys | https://keybase.io |
-| **keychain** | 2.9.5 | keychain ssh-agent front-end | https://www.funtoo.org/Keychain |
+| **keychain** | 2.9.6 | keychain ssh-agent front-end | https://www.funtoo.org/Keychain |
 | **kibi** | 0.2.2-2 | A tiny terminal text editor, written in Rust | https://github.com/ilai-deutel/kibi |
 | **kiwix-tools** | 3.7.0 | A collection of Kiwix related command line tools | https://github.com/kiwix/kiwix-tools |
 | **knockd** | 0.8.2-1 | A port-knocking daemon | https://zeroflux.org/projects/knock |
@@ -1780,7 +1780,7 @@
 | **newsboat** | 2.40 | RSS/Atom feed reader for the text console | https://newsboat.org/ |
 | **nginx** | 1.29.1 | Lightweight HTTP server | https://www.nginx.org |
 | **ngircd** | 27 | Free, portable and lightweight Internet Relay Chat server | https://ngircd.barton.de/ |
-| **ngspice** | 45 | A mixed-level/mixed-signal circuit simulator | https://ngspice.sourceforge.net/ |
+| **ngspice** | 45.2 | A mixed-level/mixed-signal circuit simulator | https://ngspice.sourceforge.net/ |
 | **nim** | 2.2.4 | Nim programming language compiler | https://nim-lang.org/ |
 | **ninja** | 1.13.1-1 | A small build system with a focus on speed | https://ninja-build.org |
 | **ninvaders** | 0.1.2-2 | Space Invaders clone based on ncurses for ASCII output | http://ninvaders.sourceforge.net |
@@ -2443,13 +2443,13 @@
 | **translate-shell** | 0.9.7.1 | Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc. | https://www.soimort.org/translate-shell |
 | **transmission** | 4.0.6-4 | Easy, lean and powerful BitTorrent client | https://transmissionbt.com/ |
 | **tree** | 2.2.1-1 | Recursive directory lister producing a depth indented listing of files | http://mama.indstate.edu/users/ice/tree/ |
-| **tree-sitter** | 0.25.8-1 | An incremental parsing system for programming tools | https://github.com/tree-sitter/tree-sitter |
+| **tree-sitter** | 0.25.9 | An incremental parsing system for programming tools | https://github.com/tree-sitter/tree-sitter |
 | **tree-sitter-c** | 0.24.1-3 | C grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-c |
 | **tree-sitter-lua** | 0.4.0-3 | Lua grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-lua |
 | **tree-sitter-markdown** | 0.5.0-3 | Markdown grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-markdown |
 | **tree-sitter-parsers** | 0.0.5 | A metapackage that provides commonly used treesitter parsers | https://github.com/termux/termux-packages |
 | **tree-sitter-query** | 0.6.2 | TS query grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-query |
-| **tree-sitter-static** | 0.25.8-1 | Static libraries for tree-sitter | https://github.com/tree-sitter/tree-sitter |
+| **tree-sitter-static** | 0.25.9 | Static libraries for tree-sitter | https://github.com/tree-sitter/tree-sitter |
 | **tree-sitter-vim** | 0.7.0 | Vimscript grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-vim |
 | **tree-sitter-vim-static** | 0.7.0 | Static libraries for tree-sitter-vim | https://github.com/tree-sitter-grammars/tree-sitter-vim |
 | **tree-sitter-vimdoc** | 4.0.0-2 | Tree-sitter parser for Vim help files | https://github.com/neovim/tree-sitter-vimdoc |
@@ -2554,7 +2554,7 @@
 | **vlc-static** | 3.0.21-10 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-3 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.3 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 2025.09.05 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
+| **vtm** | 2025.09.06 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
 | **vttest** | 20241208 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-4 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.4.321 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
@@ -2605,7 +2605,7 @@
 | **wordgrinder** | 0.8 | A Unicode-aware character cell word processor | http://cowlark.com/wordgrinder/ |
 | **wren** | 0.4.0-1 | Small, fast, class-based concurrent scripting language interpreter | https://wren.io/ |
 | **wrk** | 4.2.0 | Modern HTTP benchmarking tool | https://github.com/wg/wrk |
-| **wtfutil** | 0.46.0 | The personal information dashboard for your terminal | https://wtfutil.com/ |
+| **wtfutil** | 0.46.1 | The personal information dashboard for your terminal | https://wtfutil.com/ |
 | **wuzz** | 0.5.0-4 | Interactive command line tool for HTTP inspection | https://github.com/asciimoo/wuzz |
 | **wv-tools** | 1.2.9-4 | Command-line tools for libwv | https://wvware.sourceforge.net/ |
 | **x11-repo** | 8.4-1 | Package repository containing X11 programs and libraries | https://github.com/termux/x11-packages |
