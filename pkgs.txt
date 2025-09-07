@@ -488,8 +488,8 @@
  freecolor  0.9.3  Freecolor is a replacement for Linux that displays free memory graphically  http://rkeene.org/oss/freecolor/ 
  freeimage  3.18.0-6  The library project for developers who would like to support popular graphics image formats  https://freeimage.sourceforge.io 
  freeimage-static  3.18.0-6  Static libraries for freeimage  https://freeimage.sourceforge.io 
- freetype  2.13.3  Software font engine capable of producing high-quality output  https://www.freetype.org 
- freetype-static  2.13.3  Static libraries for freetype  https://www.freetype.org 
+ freetype  2.14.0  Software font engine capable of producing high-quality output  https://www.freetype.org 
+ freetype-static  2.14.0  Static libraries for freetype  https://www.freetype.org 
  frei0r-plugins  2.4.0  Minimalistic plugin API for video effects  https://www.dyne.org/software/frei0r/ 
  fribidi  1.0.16-1  Implementation of the Unicode Bidirectional Algorithm  https://github.com/fribidi/fribidi/ 
  fribidi-static  1.0.16-1  Static libraries for fribidi  https://github.com/fribidi/fribidi/ 
@@ -1806,7 +1806,6 @@
  nushell  0.107.0-1  A new type of shell operating on structured data  https://www.nushell.sh 
  nyancat  1.5.2  Nyancat in your terminal, rendered through ANSI escape sequences.  http://nyancat.dakko.us 
  nzbget  21.1-7  The most efficient usenet downloader  https://nzbget.net/ 
- o-editor  2.70.0  Small, fast and limited text editor  https://github.com/xyproto/o 
  oathtool  2.6.12-1  One-time password components  http://www.nongnu.org/oath-toolkit/ 
  oathtool-static  2.6.12-1  Static libraries for oathtool  http://www.nongnu.org/oath-toolkit/ 
  ocl-icd  2.3.3-1  OpenCL ICD Loader  https://github.com/OCL-dev/ocl-icd 
@@ -2625,7 +2624,6 @@
  xorg-util-macros  1.20.2  X.Org Autotools macros  https://xorg.freedesktop.org/ 
  xorgproto  2024.1  X.Org X11 Protocol headers  https://xorg.freedesktop.org/ 
  xorriso  1:1.5.7-2  Tool for creating ISO files  https://www.gnu.org/software/xorriso 
- xpup  2021.12.26-3  pup for XML  https://github.com/ericchiang/xpup 
  xsltproc  1.1.43-2  XSLT command line processor  http://xmlsoft.org/libxslt/ 
  xtrans  1.6.0  X transport library  https://xorg.freedesktop.org/ 
  xvidcore  1.3.7  High performance and high quality MPEG-4 library  https://www.xvid.com/ 

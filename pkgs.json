@@ -2941,13 +2941,13 @@
   },
   {
     "Package": "freetype",
-    "Version": "2.13.3",
+    "Version": "2.14.0",
     "Description": "Software font engine capable of producing high-quality output",
     "Homepage": "https://www.freetype.org"
   },
   {
     "Package": "freetype-static",
-    "Version": "2.13.3",
+    "Version": "2.14.0",
     "Description": "Static libraries for freetype",
     "Homepage": "https://www.freetype.org"
   },
@@ -10848,12 +10848,6 @@
     "Homepage": "https://nzbget.net/"
   },
   {
-    "Package": "o-editor",
-    "Version": "2.70.0",
-    "Description": "Small, fast and limited text editor",
-    "Homepage": "https://github.com/xyproto/o"
-  },
-  {
     "Package": "oathtool",
     "Version": "2.6.12-1",
     "Description": "One-time password components",
@@ -15760,12 +15754,6 @@
     "Version": "1:1.5.7-2",
     "Description": "Tool for creating ISO files",
     "Homepage": "https://www.gnu.org/software/xorriso"
-  },
-  {
-    "Package": "xpup",
-    "Version": "2021.12.26-3",
-    "Description": "pup for XML",
-    "Homepage": "https://github.com/ericchiang/xpup"
   },
   {
     "Package": "xsltproc",
