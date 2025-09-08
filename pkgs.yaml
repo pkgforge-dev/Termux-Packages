@@ -167,7 +167,7 @@
   Description: A cli to browse and watch anime
   Homepage: https://github.com/pystardust/ani-cli
 - Package: ansifilter
-  Version: 2.21-1
+  Version: 2.21-2
   Description: Strip or convert ANSI codes into HTML, (La)Tex, RTF, or BBCode
   Homepage: http://www.andre-simon.de/doku/ansifilter/en/ansifilter.php
 - Package: ant
@@ -175,11 +175,11 @@
   Description: Java based build tool like make
   Homepage: https://ant.apache.org/
 - Package: antibody
-  Version: 6.1.1-2
+  Version: 6.1.1-3
   Description: The fastest shell plugin manager
   Homepage: https://github.com/getantibody/antibody
 - Package: antiword
-  Version: 0.37-3
+  Version: 0.37-4
   Description: A free MS Word reader
   Homepage: https://en.m.wikipedia.org/wiki/Antiword
 - Package: aom-tools
@@ -187,23 +187,23 @@
   Description: Command-line tools using AOMedia library
   Homepage: https://aomedia.org/
 - Package: aosp-libs
-  Version: 9.0.0-r76-0
+  Version: 9.0.0-r76-1
   Description: bionic libc, libicuuc, liblzma, zlib, and boringssl for package builder and termux-docker
   Homepage: https://source.android.com/
 - Package: aosp-utils
-  Version: 9.0.0-r76-0
+  Version: 9.0.0-r76-1
   Description: AOSP-based mksh, toybox and iputils for termux-docker
   Homepage: https://source.android.com/
 - Package: apache-orc
-  Version: 2.2.0
+  Version: 2.2.0-1
   Description: Columnar storage for Hadoop workloads
   Homepage: https://orc.apache.org/
 - Package: apache2
-  Version: 1:2.4.65
+  Version: 1:2.4.65-1
   Description: Apache Web Server
   Homepage: https://httpd.apache.org
 - Package: apkeep
-  Version: 0.17.0-1
+  Version: 0.17.0-2
   Description: A command-line tool for downloading APK files from various sources
   Homepage: https://github.com/EFForg/apkeep
 - Package: apksigner
@@ -215,19 +215,19 @@
   Description: Provides a standard for creating app stores across distributions
   Homepage: https://www.freedesktop.org/wiki/Distributions/AppStream/
 - Package: apr
-  Version: 1.7.6-1
+  Version: 1.7.6-2
   Description: Apache Portable Runtime Library
   Homepage: https://apr.apache.org/
 - Package: apr-static
-  Version: 1.7.6-1
+  Version: 1.7.6-2
   Description: Static libraries for apr
   Homepage: https://apr.apache.org/
 - Package: apr-util
-  Version: 1.6.3-2
+  Version: 1.6.3-3
   Description: Apache Portable Runtime Utility Library
   Homepage: https://apr.apache.org/
 - Package: apr-util-static
-  Version: 1.6.3-2
+  Version: 1.6.3-3
   Description: Static libraries for apr-util
   Homepage: https://apr.apache.org/
 - Package: apt
@@ -247,39 +247,39 @@
   Description: APT transport for anonymous package downloads via Tor
   Homepage: https://packages.debian.org/apt
 - Package: aptly
-  Version: 1.6.2
+  Version: 1.6.2-1
   Description: A Swiss Army knife for Debian repository management
   Homepage: https://www.aptly.info
 - Package: argon2
-  Version: 20190702-1
+  Version: 20190702-2
   Description: A password-hashing function (reference C implementation)
   Homepage: https://github.com/P-H-C/phc-winner-argon2
 - Package: argon2-static
-  Version: 20190702-1
+  Version: 20190702-2
   Description: Static libraries for argon2
   Homepage: https://github.com/P-H-C/phc-winner-argon2
 - Package: argp
-  Version: 1.5.0
+  Version: 1.5.0-1
   Description: Standalone version of arguments parsing functions from GLIBC
   Homepage: https://github.com/argp-standalone/argp-standalone
 - Package: argp-static
-  Version: 1.5.0
+  Version: 1.5.0-1
   Description: Static libraries for argp
   Homepage: https://github.com/argp-standalone/argp-standalone
 - Package: aria2
-  Version: 1.37.0-1
+  Version: 1.37.0-2
   Description: Download utility supporting HTTP/HTTPS, FTP, BitTorrent and Metalink
   Homepage: https://aria2.github.io
 - Package: arj
-  Version: 3.10.22-5
+  Version: 3.10.22-6
   Description: Open-source version of arj archiver
-  Homepage: http://arj.sourceforge.net/
+  Homepage: https://arj.sourceforge.net/
 - Package: artalk
-  Version: 2.9.1
+  Version: 2.9.1-1
   Description: A self-hosted comment system
   Homepage: https://artalk.js.org/
 - Package: arturo
-  Version: 0.9.83
+  Version: 0.9.83-1
   Description: Simple, expressive & portable programming language for efficient scripting
   Homepage: https://arturo-lang.io
 - Package: asciidoc
@@ -295,7 +295,7 @@
   Description: Record and share your terminal sessions, the right way
   Homepage: https://asciinema.org/
 - Package: asm-lsp
-  Version: 0.10.0
+  Version: 0.10.0-1
   Description: language server for NASM/GAS/GO assembly
   Homepage: https://github.com/bergercookie/asm-lsp
 - Package: aspell
@@ -351,27 +351,27 @@
   Description: Library to import various well-known 3D model formats in an uniform manner
   Homepage: https://assimp.sourceforge.net/index.html
 - Package: astra-sm
-  Version: 2019.06.19
+  Version: 2019.06.19-1
   Description: Software for digital TV broadcasting
   Homepage: https://gitlab.com/berdyansk/astra-sm
 - Package: asymptote
-  Version: "3.05"
+  Version: 3.05-1
   Description: A powerful descriptive vector graphics language for technical drawing
   Homepage: https://asymptote.sourceforge.io/
 - Package: at
-  Version: 3.2.5-1
+  Version: 3.2.5-2
   Description: AT and batch delayed command scheduling utility and daemon
   Homepage: https://salsa.debian.org/debian/at
 - Package: at-spi2-core
-  Version: 2.56.4
+  Version: 2.56.4-1
   Description: Assistive Technology Service Provider Interface (AT-SPI)
   Homepage: https://wiki.gnome.org/Accessibility
 - Package: atomicparsley
-  Version: 1:20240608.083822.1ed9031
+  Version: 1:20240608.083822.1ed9031-1
   Description: Read, parse and set metadata of MPEG-4 and 3gp files
   Homepage: https://github.com/wez/atomicparsley
 - Package: atomvm
-  Version: 1:0.6.6
+  Version: 1:0.6.6-1
   Description: The minimal Erlang VM implementation
   Homepage: https://github.com/bettio/AtomVM
 - Package: atool
@@ -379,11 +379,11 @@
   Description: tool for managing file archives of various types
   Homepage: https://www.nongnu.org/atool
 - Package: attr
-  Version: 2.5.2
+  Version: 2.5.2-1
   Description: Utilities for manipulating filesystem extended attributes
   Homepage: http://savannah.nongnu.org/projects/attr/
 - Package: attr-static
-  Version: 2.5.2
+  Version: 2.5.2-1
   Description: Static libraries for attr
   Homepage: http://savannah.nongnu.org/projects/attr/
 - Package: atuin
@@ -391,11 +391,11 @@
   Description: Magical shell history
   Homepage: https://atuin.sh/
 - Package: aubio
-  Version: 0.4.9-4
+  Version: 0.4.9-5
   Description: A library to label music and sounds
   Homepage: https://aubio.org/
 - Package: aubio-static
-  Version: 0.4.9-4
+  Version: 0.4.9-5
   Description: Static libraries for aubio
   Homepage: https://aubio.org/
 - Package: autoconf
@@ -415,15 +415,15 @@
   Description: Tool for automatically generating Makefile.in files
   Homepage: https://www.gnu.org/software/automake/
 - Package: autossh
-  Version: 1.4g-3
+  Version: 1.4g-4
   Description: Automatically restart SSH sessions and tunnels
   Homepage: https://www.harding.motd.ca/autossh/
 - Package: aview
-  Version: 1.3.0rc1-5
+  Version: 1.3.0rc1-6
   Description: High quality ascii-art image browser and animation player
-  Homepage: http://aa-project.sourceforge.net/aview/
+  Homepage: https://aa-project.sourceforge.net/aview/
 - Package: avra
-  Version: 1.4.2
+  Version: 1.4.2-1
   Description: Assember for the Atmel AVR microcontroller family
   Homepage: https://github.com/Ro5bert/avra
 - Package: await
@@ -435,15 +435,15 @@
   Description: A command-line screenshot tool written in bash
   Homepage: https://github.com/mayTermux/awesomeshot
 - Package: axel
-  Version: 2.17.14
+  Version: 2.17.14-1
   Description: light command line download accelerator
   Homepage: https://github.com/axel-download-accelerator/axel
 - Package: b3sum
-  Version: 1.8.2
+  Version: 1.8.2-1
   Description: A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum
   Homepage: https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum
 - Package: babl
-  Version: 0.1.114
+  Version: 0.1.114-1
   Description: Dynamic pixel format translation library
   Homepage: https://gegl.org/babl/
 - Package: bacula-fd
@@ -1543,7 +1543,7 @@
   Description: DuckDB Command Line Interface (CLI) shell
   Homepage: https://duckdb.org/
 - Package: duf
-  Version: 0.8.1-3
+  Version: 0.9.0
   Description: Disk usage/free utility
   Homepage: https://github.com/muesli/duf
 - Package: dufs
@@ -6695,7 +6695,7 @@
   Description: General-purpose software audio FSK modem
   Homepage: http://www.whence.com/minimodem/
 - Package: minio
-  Version: 2025.07.23.15.54.02
+  Version: 2025.09.07.16.13.09
   Description: Multi-Cloud Object Storage
   Homepage: https://min.io/
 - Package: miniserve
@@ -8175,7 +8175,7 @@
   Description: A self-contained Python package of low-level cryptographic primitives
   Homepage: https://www.pycryptodome.org/
 - Package: python-pynvim
-  Version: 0.5.2
+  Version: 0.6.0
   Description: Python client for Neovim
   Homepage: https://github.com/neovim/pynvim
 - Package: python-ruff

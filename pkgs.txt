@@ -40,39 +40,39 @@
  angle-android  2.1.24923-f09a19ce-2  A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android  https://chromium.googlesource.com/angle/angle 
  angle-grinder  0.19.6-1  Slice and dice logs on the command line  https://github.com/rcoh/angle-grinder 
  ani-cli  4.10  A cli to browse and watch anime  https://github.com/pystardust/ani-cli 
- ansifilter  2.21-1  Strip or convert ANSI codes into HTML, (La)Tex, RTF, or BBCode  http://www.andre-simon.de/doku/ansifilter/en/ansifilter.php 
+ ansifilter  2.21-2  Strip or convert ANSI codes into HTML, (La)Tex, RTF, or BBCode  http://www.andre-simon.de/doku/ansifilter/en/ansifilter.php 
  ant  1.10.15-1  Java based build tool like make  https://ant.apache.org/ 
- antibody  6.1.1-2  The fastest shell plugin manager  https://github.com/getantibody/antibody 
- antiword  0.37-3  A free MS Word reader  https://en.m.wikipedia.org/wiki/Antiword 
+ antibody  6.1.1-3  The fastest shell plugin manager  https://github.com/getantibody/antibody 
+ antiword  0.37-4  A free MS Word reader  https://en.m.wikipedia.org/wiki/Antiword 
  aom-tools  3.13.1  Command-line tools using AOMedia library  https://aomedia.org/ 
- aosp-libs  9.0.0-r76-0  bionic libc, libicuuc, liblzma, zlib, and boringssl for package builder and termux-docker  https://source.android.com/ 
- aosp-utils  9.0.0-r76-0  AOSP-based mksh, toybox and iputils for termux-docker  https://source.android.com/ 
- apache-orc  2.2.0  Columnar storage for Hadoop workloads  https://orc.apache.org/ 
- apache2  1:2.4.65  Apache Web Server  https://httpd.apache.org 
- apkeep  0.17.0-1  A command-line tool for downloading APK files from various sources  https://github.com/EFForg/apkeep 
+ aosp-libs  9.0.0-r76-1  bionic libc, libicuuc, liblzma, zlib, and boringssl for package builder and termux-docker  https://source.android.com/ 
+ aosp-utils  9.0.0-r76-1  AOSP-based mksh, toybox and iputils for termux-docker  https://source.android.com/ 
+ apache-orc  2.2.0-1  Columnar storage for Hadoop workloads  https://orc.apache.org/ 
+ apache2  1:2.4.65-1  Apache Web Server  https://httpd.apache.org 
+ apkeep  0.17.0-2  A command-line tool for downloading APK files from various sources  https://github.com/EFForg/apkeep 
  apksigner  33.0.1-1  APK signing tool from Android SDK  https://developer.android.com/studio/command-line/apksigner 
  appstream  1.0.6  Provides a standard for creating app stores across distributions  https://www.freedesktop.org/wiki/Distributions/AppStream/ 
- apr  1.7.6-1  Apache Portable Runtime Library  https://apr.apache.org/ 
- apr-static  1.7.6-1  Static libraries for apr  https://apr.apache.org/ 
- apr-util  1.6.3-2  Apache Portable Runtime Utility Library  https://apr.apache.org/ 
- apr-util-static  1.6.3-2  Static libraries for apr-util  https://apr.apache.org/ 
+ apr  1.7.6-2  Apache Portable Runtime Library  https://apr.apache.org/ 
+ apr-static  1.7.6-2  Static libraries for apr  https://apr.apache.org/ 
+ apr-util  1.6.3-3  Apache Portable Runtime Utility Library  https://apr.apache.org/ 
+ apr-util-static  1.6.3-3  Static libraries for apr-util  https://apr.apache.org/ 
  apt  2.8.1-2  Front-end for the dpkg package manager  https://packages.debian.org/apt 
  apt-file  3.3  search for files within packages  https://wiki.debian.org/apt-file 
  apt-ftparchive  2.8.1-2  apt-ftparchive is the command line tool that generates the index files that APT uses to access a distribution source  https://packages.debian.org/apt 
  apt-transport-tor  2.8.1-2  APT transport for anonymous package downloads via Tor  https://packages.debian.org/apt 
- aptly  1.6.2  A Swiss Army knife for Debian repository management  https://www.aptly.info 
- argon2  20190702-1  A password-hashing function (reference C implementation)  https://github.com/P-H-C/phc-winner-argon2 
- argon2-static  20190702-1  Static libraries for argon2  https://github.com/P-H-C/phc-winner-argon2 
- argp  1.5.0  Standalone version of arguments parsing functions from GLIBC  https://github.com/argp-standalone/argp-standalone 
- argp-static  1.5.0  Static libraries for argp  https://github.com/argp-standalone/argp-standalone 
- aria2  1.37.0-1  Download utility supporting HTTP/HTTPS, FTP, BitTorrent and Metalink  https://aria2.github.io 
- arj  3.10.22-5  Open-source version of arj archiver  http://arj.sourceforge.net/ 
- artalk  2.9.1  A self-hosted comment system  https://artalk.js.org/ 
- arturo  0.9.83  Simple, expressive & portable programming language for efficient scripting  https://arturo-lang.io 
+ aptly  1.6.2-1  A Swiss Army knife for Debian repository management  https://www.aptly.info 
+ argon2  20190702-2  A password-hashing function (reference C implementation)  https://github.com/P-H-C/phc-winner-argon2 
+ argon2-static  20190702-2  Static libraries for argon2  https://github.com/P-H-C/phc-winner-argon2 
+ argp  1.5.0-1  Standalone version of arguments parsing functions from GLIBC  https://github.com/argp-standalone/argp-standalone 
+ argp-static  1.5.0-1  Static libraries for argp  https://github.com/argp-standalone/argp-standalone 
+ aria2  1.37.0-2  Download utility supporting HTTP/HTTPS, FTP, BitTorrent and Metalink  https://aria2.github.io 
+ arj  3.10.22-6  Open-source version of arj archiver  https://arj.sourceforge.net/ 
+ artalk  2.9.1-1  A self-hosted comment system  https://artalk.js.org/ 
+ arturo  0.9.83-1  Simple, expressive & portable programming language for efficient scripting  https://arturo-lang.io 
  asciidoc  10.2.1-1  Text document format for short documents, articles, books and UNIX man pages.  https://asciidoc.org 
  asciidoctor  2.0.23-1  An implementation of AsciiDoc in Ruby  https://asciidoctor.org/ 
  asciinema  1:3.0.0~rc.5  Record and share your terminal sessions, the right way  https://asciinema.org/ 
- asm-lsp  0.10.0  language server for NASM/GAS/GO assembly  https://github.com/bergercookie/asm-lsp 
+ asm-lsp  0.10.0-1  language server for NASM/GAS/GO assembly  https://github.com/bergercookie/asm-lsp 
  aspell  0.60.8.1-1  A free and open source spell checker designed to replace Ispell  http://aspell.net 
  aspell-de  1:20161207.7.0  German dictionary for aspell  http://aspell.net/ 
  aspell-en  1:2020.12.07  English dictionary for aspell  http://aspell.net/ 
@@ -86,30 +86,30 @@
  aspnetcore-targeting-pack-8.0  8.0.18  ASP.NET Core 8.0 Targeting Pack  https://dotnet.microsoft.com/en-us/ 
  aspnetcore-targeting-pack-9.0  9.0.7-1  ASP.NET Core 9.0 Targeting Pack  https://dotnet.microsoft.com/en-us/ 
  assimp  6.0.2-1  Library to import various well-known 3D model formats in an uniform manner  https://assimp.sourceforge.net/index.html 
- astra-sm  2019.06.19  Software for digital TV broadcasting  https://gitlab.com/berdyansk/astra-sm 
- asymptote  3.05  A powerful descriptive vector graphics language for technical drawing  https://asymptote.sourceforge.io/ 
- at  3.2.5-1  AT and batch delayed command scheduling utility and daemon  https://salsa.debian.org/debian/at 
- at-spi2-core  2.56.4  Assistive Technology Service Provider Interface (AT-SPI)  https://wiki.gnome.org/Accessibility 
- atomicparsley  1:20240608.083822.1ed9031  Read, parse and set metadata of MPEG-4 and 3gp files  https://github.com/wez/atomicparsley 
- atomvm  1:0.6.6  The minimal Erlang VM implementation  https://github.com/bettio/AtomVM 
+ astra-sm  2019.06.19-1  Software for digital TV broadcasting  https://gitlab.com/berdyansk/astra-sm 
+ asymptote  3.05-1  A powerful descriptive vector graphics language for technical drawing  https://asymptote.sourceforge.io/ 
+ at  3.2.5-2  AT and batch delayed command scheduling utility and daemon  https://salsa.debian.org/debian/at 
+ at-spi2-core  2.56.4-1  Assistive Technology Service Provider Interface (AT-SPI)  https://wiki.gnome.org/Accessibility 
+ atomicparsley  1:20240608.083822.1ed9031-1  Read, parse and set metadata of MPEG-4 and 3gp files  https://github.com/wez/atomicparsley 
+ atomvm  1:0.6.6-1  The minimal Erlang VM implementation  https://github.com/bettio/AtomVM 
  atool  0.39.0-1  tool for managing file archives of various types  https://www.nongnu.org/atool 
- attr  2.5.2  Utilities for manipulating filesystem extended attributes  http://savannah.nongnu.org/projects/attr/ 
- attr-static  2.5.2  Static libraries for attr  http://savannah.nongnu.org/projects/attr/ 
+ attr  2.5.2-1  Utilities for manipulating filesystem extended attributes  http://savannah.nongnu.org/projects/attr/ 
+ attr-static  2.5.2-1  Static libraries for attr  http://savannah.nongnu.org/projects/attr/ 
  atuin  18.8.0  Magical shell history  https://atuin.sh/ 
- aubio  0.4.9-4  A library to label music and sounds  https://aubio.org/ 
- aubio-static  0.4.9-4  Static libraries for aubio  https://aubio.org/ 
+ aubio  0.4.9-5  A library to label music and sounds  https://aubio.org/ 
+ aubio-static  0.4.9-5  Static libraries for aubio  https://aubio.org/ 
  autoconf  2.72  Creator of shell scripts to configure source code packages  https://www.gnu.org/software/autoconf/autoconf.html 
  autoconf-archive  2024.10.16  A collection of freely re-usable Autoconf macros  https://www.gnu.org/software/autoconf-archive/ 
  autojump  22.5.3-1  A faster way to navigate your filesystem  https://github.com/wting/autojump 
  automake  1.18.1  Tool for automatically generating Makefile.in files  https://www.gnu.org/software/automake/ 
- autossh  1.4g-3  Automatically restart SSH sessions and tunnels  https://www.harding.motd.ca/autossh/ 
- aview  1.3.0rc1-5  High quality ascii-art image browser and animation player  http://aa-project.sourceforge.net/aview/ 
- avra  1.4.2  Assember for the Atmel AVR microcontroller family  https://github.com/Ro5bert/avra 
+ autossh  1.4g-4  Automatically restart SSH sessions and tunnels  https://www.harding.motd.ca/autossh/ 
+ aview  1.3.0rc1-6  High quality ascii-art image browser and animation player  https://aa-project.sourceforge.net/aview/ 
+ avra  1.4.2-1  Assember for the Atmel AVR microcontroller family  https://github.com/Ro5bert/avra 
  await  2.1.0  Runs list of commands in parallel and waits for their termination  https://github.com/slavaGanzin/await 
  awesomeshot  1.1.0  A command-line screenshot tool written in bash  https://github.com/mayTermux/awesomeshot 
- axel  2.17.14  light command line download accelerator  https://github.com/axel-download-accelerator/axel 
- b3sum  1.8.2  A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum  https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum 
- babl  0.1.114  Dynamic pixel format translation library  https://gegl.org/babl/ 
+ axel  2.17.14-1  light command line download accelerator  https://github.com/axel-download-accelerator/axel 
+ b3sum  1.8.2-1  A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum  https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum 
+ babl  0.1.114-1  Dynamic pixel format translation library  https://gegl.org/babl/ 
  bacula-fd  15.0.3  Bacula backup software  https://www.bacula.org 
  bacula-fd-static  15.0.3  Static libraries for bacula-fd  https://www.bacula.org 
  badvpn-udpgw  1.999.130  UDP gateway for BadVPN  https://github.com/ambrop72/badvpn 
@@ -384,7 +384,7 @@
  dua  2.31.0  View disk space usage and delete unwanted data, fast  https://github.com/Byron/dua-cli 
  duc  1.4.5  High-performance disk usage analyzer  http://duc.zevv.nl/ 
  duckdb  1.3.2  DuckDB Command Line Interface (CLI) shell  https://duckdb.org/ 
- duf  0.8.1-3  Disk usage/free utility  https://github.com/muesli/duf 
+ duf  0.9.0  Disk usage/free utility  https://github.com/muesli/duf 
  dufs  0.45.0  A file server that supports static serving, uploading, searching, accessing control, webdav...  https://github.com/sigoden/dufs 
  duktape  2.7.0-1  Simple REPL for Duktape  https://www.duktape.org/ 
  dust  1.2.3  A more intuitive version of du in rust  https://github.com/bootandy/dust 
@@ -1672,7 +1672,7 @@
  minidlna  1.3.3-2  A server software with the aim of being fully compliant with DLNA/UPnP-AV clients  https://sourceforge.net/projects/minidlna/ 
  miniflux  2.2.12  A minimalist and opinionated feed reader  https://miniflux.app/ 
  minimodem  0.24-1-0  General-purpose software audio FSK modem  http://www.whence.com/minimodem/ 
- minio  2025.07.23.15.54.02  Multi-Cloud Object Storage  https://min.io/ 
+ minio  2025.09.07.16.13.09  Multi-Cloud Object Storage  https://min.io/ 
  miniserve  0.31.0  Tool to serve files and dirs over HTTP  https://github.com/svenstaro/miniserve 
  minisign  0.12  A dead simple tool to sign files and verify signatures  https://jedisct1.github.io/minisign/ 
  miniupnpc  2.3.3  Small UPnP client library and tool to access Internet Gateway Devices  https://miniupnp.tuxfamily.org/ 
@@ -2042,7 +2042,7 @@
  python-pip  25.2  The PyPA recommended tool for installing Python packages  https://pip.pypa.io/ 
  python-pyarrow  21.0.0-2  Python bindings for Apache Arrow  https://github.com/apache/arrow 
  python-pycryptodomex  3.23.0  A self-contained Python package of low-level cryptographic primitives  https://www.pycryptodome.org/ 
- python-pynvim  0.5.2  Python client for Neovim  https://github.com/neovim/pynvim 
+ python-pynvim  0.6.0  Python client for Neovim  https://github.com/neovim/pynvim 
  python-ruff  0.12.12  An extremely fast Python linter, written in Rust (Python bindings)  https://github.com/charliermarsh/ruff 
  python-sabyenc3  8.2.6  C implementations of functions for use within SABnzbd  https://github.com/sabnzbd/sabctools 
  python-skia-pathops  0.8.0-1  Python bindings for the Skia library's Path Ops  https://github.com/fonttools/skia-pathops 
