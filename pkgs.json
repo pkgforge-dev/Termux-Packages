@@ -1447,13 +1447,13 @@
   },
   {
     "Package": "cmake",
-    "Version": "4.1.1",
+    "Version": "4.1.1-1",
     "Description": "Family of tools designed to build, test and package software",
     "Homepage": "https://cmake.org/"
   },
   {
     "Package": "cmake-curses-gui",
-    "Version": "4.1.1",
+    "Version": "4.1.1-1",
     "Description": "Curses based user interface for CMake (ccmake)",
     "Homepage": "https://cmake.org/"
   },
@@ -4447,7 +4447,7 @@
   },
   {
     "Package": "inxi",
-    "Version": "3.3.38-1-0",
+    "Version": "3.3.39-1-0",
     "Description": "Full featured CLI system information tool",
     "Homepage": "https://smxi.org/site/about.htm#inxi"
   },
@@ -4555,7 +4555,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.22.2438",
+    "Version": "0.22.2441",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
