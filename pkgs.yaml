@@ -447,19 +447,19 @@
   Description: Dynamic pixel format translation library
   Homepage: https://gegl.org/babl/
 - Package: bacula-fd
-  Version: 15.0.3
+  Version: 15.0.3-1
   Description: Bacula backup software
   Homepage: https://www.bacula.org
 - Package: bacula-fd-static
-  Version: 15.0.3
+  Version: 15.0.3-1
   Description: Static libraries for bacula-fd
   Homepage: https://www.bacula.org
 - Package: badvpn-udpgw
-  Version: 1.999.130
+  Version: 1.999.130-1
   Description: UDP gateway for BadVPN
   Homepage: https://github.com/ambrop72/badvpn
 - Package: barcode
-  Version: 0.99-4
+  Version: 0.99-5
   Description: Tool to convert text strings to printed bars
   Homepage: https://www.gnu.org/software/barcode/
 - Package: base16384
@@ -519,19 +519,19 @@
   Description: Binaryen is a compiler and toolchain infrastructure library for WebAssembly
   Homepage: https://github.com/WebAssembly/binaryen
 - Package: binutils
-  Version: 2.44-3
+  Version: 2.44-4
   Description: GNU Binutils (metapackage)
   Homepage: https://www.gnu.org/software/binutils/
 - Package: binutils-bin
-  Version: 2.44-3
+  Version: 2.44-4
   Description: Collection of binary tools, the main ones being ld, the GNU linker, and as, the GNU assembler
   Homepage: https://www.gnu.org/software/binutils/
 - Package: binutils-cross
-  Version: 2.44-3
+  Version: 2.44-4
   Description: GNU Binutils for cross build on the host (NOT for Termux)
   Homepage: https://www.gnu.org/software/binutils/
 - Package: binutils-gold
-  Version: 2.44-3
+  Version: 2.44-4
   Description: gold linker
   Homepage: https://www.gnu.org/software/binutils/
 - Package: binutils-is-llvm
@@ -539,15 +539,15 @@
   Description: Use llvm as binutils
   Homepage: https://github.com/trentbuck/binutils-is-llvm
 - Package: binutils-libs
-  Version: 2.44-3
+  Version: 2.44-4
   Description: GNU Binutils libraries
   Homepage: https://www.gnu.org/software/binutils/
 - Package: bison
-  Version: 3.8.2-3
+  Version: 3.8.2-4
   Description: General-purpose parser generator
   Homepage: https://www.gnu.org/software/bison/
 - Package: bison-static
-  Version: 3.8.2-3
+  Version: 3.8.2-4
   Description: Static libraries for bison
   Homepage: https://www.gnu.org/software/bison/
 - Package: bitcoin
@@ -555,11 +555,11 @@
   Description: Bitcoin Core
   Homepage: https://bitcoincore.org/
 - Package: bitlbee
-  Version: 3.6-1-1
+  Version: 3.6-1-2
   Description: An IRC to other chat networks gateway
   Homepage: https://www.bitlbee.org/
 - Package: bk
-  Version: 0.6.0
+  Version: 0.6.0-1
   Description: A terminal EPUB reader
   Homepage: https://github.com/aeosynth/bk
 - Package: blackbox
@@ -575,7 +575,7 @@
   Description: OpenBLAS symlinks for BLAS/CBLAS/LAPACK/LAPACKE
   Homepage: https://www.openblas.net
 - Package: blink
-  Version: 1:1.1.0
+  Version: 1:1.1.0-1
   Description: Tiny x86-64 Linux emulator
   Homepage: https://justine.lol/blinkenlights/
 - Package: blk-utils
@@ -583,15 +583,15 @@
   Description: Utilities for handling block device attributes
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: blogc
-  Version: 0.20.1
+  Version: 0.20.1-1
   Description: A blog compiler
   Homepage: https://blogc.rgm.io/
 - Package: bmon
-  Version: 4.0-3
+  Version: 4.0-4
   Description: Bandwidth monitor and rate estimator
   Homepage: https://github.com/tgraf/bmon
 - Package: boinc
-  Version: 8.2.5
+  Version: 8.2.5-1
   Description: Open-source software for volunteer computing
   Homepage: https://boinc.berkeley.edu/
 - Package: boinctui
@@ -599,7 +599,7 @@
   Description: curses based manager for Boinc client
   Homepage: https://sourceforge.net/projects/boinctui/
 - Package: bombadillo
-  Version: 2.4.0-2
+  Version: 2.4.0-3
   Description: A non-web client for the terminal, supporting Gopher, Gemini and much more
   Homepage: https://bombadillo.colorfield.space/
 - Package: boost
@@ -615,11 +615,11 @@
   Description: Static libraries for boost
   Homepage: https://boost.org
 - Package: bore
-  Version: 0.6.0
+  Version: 0.6.0-1
   Description: Bore is a simple CLI tool for making tunnels to localhost
   Homepage: https://github.com/ekzhang/bore
 - Package: borgbackup
-  Version: 1.4.1
+  Version: 1.4.1-1
   Description: Deduplicating and compressing backup program
   Homepage: https://www.borgbackup.org/
 - Package: botan3
@@ -631,19 +631,19 @@
   Description: Static libraries for botan3
   Homepage: https://botan.randombit.net/
 - Package: boxes
-  Version: 2.3.1
+  Version: 2.3.1-1
   Description: A command line filter program which draws ASCII art boxes around your input text
   Homepage: https://boxes.thomasjensen.com/
 - Package: brainfuck
-  Version: 1:2.7.3
+  Version: 1:2.7.3-1
   Description: Brainfuck Interpreter written in C
   Homepage: https://github.com/fabianishere/brainfuck
 - Package: brainfuck-static
-  Version: 1:2.7.3
+  Version: 1:2.7.3-1
   Description: Static libraries for brainfuck
   Homepage: https://github.com/fabianishere/brainfuck
 - Package: brogue
-  Version: 1.14.1
+  Version: 1.14.1-1
   Description: Roguelike dungeon crawling game (community edition)
   Homepage: https://sites.google.com/site/broguegame/
 - Package: brook
