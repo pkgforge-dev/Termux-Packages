@@ -1790,10 +1790,6 @@
   Version: 0.35.0-1
   Description: Efficient Duplicate File Finder
   Homepage: https://github.com/pkolaczk/fclones
-- Package: fcp
-  Version: 0.2.1-1
-  Description: A significantly faster alternative to the classic Unix cp(1) command
-  Homepage: https://github.com/Svetlitski/fcp
 - Package: fd
   Version: 10.3.0-1
   Description: Simple, fast and user-friendly alternative to find
@@ -1802,14 +1798,6 @@
   Version: 2.40.2-5
   Description: Utilities to manipulate disk partition tables
   Homepage: https://en.wikipedia.org/wiki/Util-linux
-- Package: fdkaac
-  Version: 1.0.6
-  Description: command line encoder frontend for libfdk-aac
-  Homepage: https://github.com/nu774/fdkaac
-- Package: fdm
-  Version: "2.2"
-  Description: A program designed to fetch mail from POP3 or IMAP servers, or receive local mail from stdin, and deliver it in various ways
-  Homepage: https://github.com/nicm/fdm
 - Package: fdroidcl
   Version: 0.8.1-1
   Description: F-Droid client
@@ -2031,19 +2019,19 @@
   Description: A tool which generates GIR XML files
   Homepage: https://gi.readthedocs.io/
 - Package: game-music-emu
-  Version: 0.6.4
+  Version: 0.6.4-1
   Description: A collection of video game music file emulators
   Homepage: https://bitbucket.org/mpyne/game-music-emu/wiki/Home
 - Package: game-music-emu-static
-  Version: 0.6.4
+  Version: 0.6.4-1
   Description: Static libraries for game-music-emu
   Homepage: https://bitbucket.org/mpyne/game-music-emu/wiki/Home
 - Package: gap
-  Version: 4.14.0
+  Version: 4.14.0-1
   Description: GAP is a system for computational discrete algebra, with particular emphasis on Computational Group Theory
   Homepage: https://www.gap-system.org/
 - Package: gap-packages
-  Version: 4.14.0
+  Version: 4.14.0-1
   Description: Packages for gap
   Homepage: https://www.gap-system.org/
 - Package: gatling
@@ -2051,11 +2039,11 @@
   Description: A high performance http, ftp and smb server
   Homepage: https://www.fefe.de/gatling/
 - Package: gauche
-  Version: 0.9.15
+  Version: 0.9.15-1
   Description: An R7RS Scheme implementation developed to be a handy script interpreter
   Homepage: https://practical-scheme.net/gauche/
 - Package: gauche-static
-  Version: 0.9.15
+  Version: 0.9.15-1
   Description: Static libraries for gauche
   Homepage: https://practical-scheme.net/gauche/
 - Package: gawk
@@ -8799,7 +8787,7 @@
   Description: An improved version of sc, a spreadsheet calculator
   Homepage: https://github.com/andmarti1424/sc-im
 - Package: scala
-  Version: 3.7.2
+  Version: 3.7.3
   Description: Scala 3 compiler and standard library.
   Homepage: https://www.scala-lang.org
 - Package: scc
@@ -9967,11 +9955,11 @@
   Description: The Unicode Character Database (UCD)
   Homepage: https://unicode.org/ucd/
 - Package: unicorn
-  Version: 2.1.3
+  Version: 2.1.4
   Description: Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework
   Homepage: https://www.unicorn-engine.org/
 - Package: unicorn-static
-  Version: 2.1.3
+  Version: 2.1.4
   Description: Static libraries for unicorn
   Homepage: https://www.unicorn-engine.org/
 - Package: unifdef
@@ -10299,7 +10287,7 @@
   Description: Libc for WebAssembly programs built on top of WASI system calls
   Homepage: https://wasi.dev/
 - Package: wasm-component-ld
-  Version: 0.5.16
+  Version: 0.5.17
   Description: Command line linker for creating WebAssembly components
   Homepage: https://github.com/bytecodealliance/wasm-component-ld
 - Package: watchexec

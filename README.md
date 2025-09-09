@@ -458,11 +458,8 @@
 | **faust-static** | 2.81.2-1 | Static libraries for faust | https://github.com/grame-cncm/faust |
 | **faustlibraries** | 2.81.2-1 | Faust DSP libraries | https://github.com/grame-cncm/faust |
 | **fclones** | 0.35.0-1 | Efficient Duplicate File Finder | https://github.com/pkolaczk/fclones |
-| **fcp** | 0.2.1-1 | A significantly faster alternative to the classic Unix cp(1) command | https://github.com/Svetlitski/fcp |
 | **fd** | 10.3.0-1 | Simple, fast and user-friendly alternative to find | https://github.com/sharkdp/fd |
 | **fdisk** | 2.40.2-5 | Utilities to manipulate disk partition tables | https://en.wikipedia.org/wiki/Util-linux |
-| **fdkaac** | 1.0.6 | command line encoder frontend for libfdk-aac | https://github.com/nu774/fdkaac |
-| **fdm** | 2.2 | A program designed to fetch mail from POP3 or IMAP servers, or receive local mail from stdin, and deliver it in various ways | https://github.com/nicm/fdm |
 | **fdroidcl** | 0.8.1-1 | F-Droid client | https://github.com/mvdan/fdroidcl |
 | **fdupes** | 2.4.0-1 | Duplicates file detector | https://github.com/adrianlopezroche/fdupes |
 | **fennel** | 1.5.3 | A Lisp that compiles to Lua | https://fennel-lang.org |
@@ -518,13 +515,13 @@
 | **fzf** | 0.65.2 | Command-line fuzzy finder | https://junegunn.github.io/fzf/ |
 | **fzy** | 1.1-1 | A simple, fast fuzzy finder for the terminal | https://github.com/jhawthorn/fzy |
 | **g-ir-scanner** | 1.84.0 | A tool which generates GIR XML files | https://gi.readthedocs.io/ |
-| **game-music-emu** | 0.6.4 | A collection of video game music file emulators | https://bitbucket.org/mpyne/game-music-emu/wiki/Home |
-| **game-music-emu-static** | 0.6.4 | Static libraries for game-music-emu | https://bitbucket.org/mpyne/game-music-emu/wiki/Home |
-| **gap** | 4.14.0 | GAP is a system for computational discrete algebra, with particular emphasis on Computational Group Theory | https://www.gap-system.org/ |
-| **gap-packages** | 4.14.0 | Packages for gap | https://www.gap-system.org/ |
+| **game-music-emu** | 0.6.4-1 | A collection of video game music file emulators | https://bitbucket.org/mpyne/game-music-emu/wiki/Home |
+| **game-music-emu-static** | 0.6.4-1 | Static libraries for game-music-emu | https://bitbucket.org/mpyne/game-music-emu/wiki/Home |
+| **gap** | 4.14.0-1 | GAP is a system for computational discrete algebra, with particular emphasis on Computational Group Theory | https://www.gap-system.org/ |
+| **gap-packages** | 4.14.0-1 | Packages for gap | https://www.gap-system.org/ |
 | **gatling** | 0.16-1 | A high performance http, ftp and smb server | https://www.fefe.de/gatling/ |
-| **gauche** | 0.9.15 | An R7RS Scheme implementation developed to be a handy script interpreter | https://practical-scheme.net/gauche/ |
-| **gauche-static** | 0.9.15 | Static libraries for gauche | https://practical-scheme.net/gauche/ |
+| **gauche** | 0.9.15-1 | An R7RS Scheme implementation developed to be a handy script interpreter | https://practical-scheme.net/gauche/ |
+| **gauche-static** | 0.9.15-1 | Static libraries for gauche | https://practical-scheme.net/gauche/ |
 | **gawk** | 5.3.1-2 | Programming language designed for text processing | https://www.gnu.org/software/gawk/ |
 | **gawk-static** | 5.3.1-2 | Static libraries for gawk | https://www.gnu.org/software/gawk/ |
 | **gbt** | 2.0.0-6 | Highly configurable prompt builder for Bash and ZSH written in Go | https://github.com/jtyr/gbt |
@@ -2210,7 +2207,7 @@
 | **samurai** | 1.2-1 | ninja-compatible build tool written in C | https://github.com/michaelforney/samurai |
 | **sassc** | 3.6.2 | libsass command line driver | https://github.com/sass/sassc |
 | **sc-im** | 0.8.5-1 | An improved version of sc, a spreadsheet calculator | https://github.com/andmarti1424/sc-im |
-| **scala** | 3.7.2 | Scala 3 compiler and standard library. | https://www.scala-lang.org |
+| **scala** | 3.7.3 | Scala 3 compiler and standard library. | https://www.scala-lang.org |
 | **scc** | 3.5.0 | Counts physical the lines of code, blank lines, comment lines, and physical lines of source code | https://github.com/boyter/scc |
 | **sccache** | 0.10.0 | sccache is ccache with cloud storage | https://github.com/mozilla/sccache |
 | **scdaemon** | 2.5.11 | Daemon invoked by gpg to manage smartcards | https://www.gnupg.org/ |
@@ -2502,8 +2499,8 @@
 | **unar** | 1.10.8-1 | Command line tools for archive and file unarchiving and extraction | https://theunarchiver.com/command-line |
 | **unbound** | 1.23.1-1 | Unbound command-line tools | https://unbound.net/ |
 | **unicode-data** | 16.0.0 | The Unicode Character Database (UCD) | https://unicode.org/ucd/ |
-| **unicorn** | 2.1.3 | Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework | https://www.unicorn-engine.org/ |
-| **unicorn-static** | 2.1.3 | Static libraries for unicorn | https://www.unicorn-engine.org/ |
+| **unicorn** | 2.1.4 | Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework | https://www.unicorn-engine.org/ |
+| **unicorn-static** | 2.1.4 | Static libraries for unicorn | https://www.unicorn-engine.org/ |
 | **unifdef** | 2.12 | Remove #ifdef'ed lines | http://dotat.at/prog/unifdef/ |
 | **units** | 2.24 | Converts between different systems of units | https://www.gnu.org/software/units/ |
 | **units-cur** | 2.24 | units_cur Python script | https://www.gnu.org/software/units/ |
@@ -2585,7 +2582,7 @@
 | **wakatime-cli** | 1.131.0 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
 | **walk** | 1.13.0 | A terminal file manager | https://github.com/antonmedv/walk |
 | **wasi-libc** | 27 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |
-| **wasm-component-ld** | 0.5.16 | Command line linker for creating WebAssembly components | https://github.com/bytecodealliance/wasm-component-ld |
+| **wasm-component-ld** | 0.5.17 | Command line linker for creating WebAssembly components | https://github.com/bytecodealliance/wasm-component-ld |
 | **watchexec** | 2.3.0 | Executes commands in response to file modifications | https://github.com/watchexec/watchexec |
 | **wavpack** | 5.8.1 | WavPack command-line programs | https://www.wavpack.com/ |
 | **waypipe** | 0.10.4 | A proxy for Wayland clients | https://gitlab.freedesktop.org/mstoeckl/waypipe |
