@@ -1071,7 +1071,7 @@
   Description: CPIO implementation from the GNU project
   Homepage: https://www.gnu.org/software/cpio/
 - Package: cppcheck
-  Version: 2.18.2
+  Version: 2.18.3
   Description: tool for static C/C++ code analysis
   Homepage: https://github.com/danmar/cppcheck
 - Package: cppi
@@ -5243,7 +5243,7 @@
   Description: Static libraries for librocksdb
   Homepage: https://rocksdb.org/
 - Package: librsvg
-  Version: 2.61.0
+  Version: 2.61.1
   Description: Library to render SVG files using cairo
   Homepage: https://wiki.gnome.org/action/show/Projects/LibRsvg
 - Package: librsync
@@ -6027,23 +6027,23 @@
   Description: A C library for creating Excel XLSX files
   Homepage: https://libxlsxwriter.github.io/
 - Package: libxml2
-  Version: 2.14.5-1
+  Version: 2.14.6
   Description: Library for parsing XML documents
   Homepage: http://www.xmlsoft.org
 - Package: libxml2-python
-  Version: 2.14.5-1
+  Version: 2.14.6
   Description: Python bindings for libxml2
   Homepage: http://www.xmlsoft.org
 - Package: libxml2-python-static
-  Version: 2.14.5-1
+  Version: 2.14.6
   Description: Static libraries for libxml2-python
   Homepage: http://www.xmlsoft.org
 - Package: libxml2-static
-  Version: 2.14.5-1
+  Version: 2.14.6
   Description: Static libraries for libxml2
   Homepage: http://www.xmlsoft.org
 - Package: libxml2-utils
-  Version: 2.14.5-1
+  Version: 2.14.6
   Description: XML utilities
   Homepage: http://www.xmlsoft.org
 - Package: libxmlb
@@ -7519,7 +7519,7 @@
   Description: Oxc JavaScript linter
   Homepage: https://oxc.rs/
 - Package: p11-kit
-  Version: 0.25.5
+  Version: 0.25.6
   Description: Provides a way to load and enumerate PKCS#11 modules
   Homepage: https://p11-glue.github.io/p11-glue/p11-kit.html
 - Package: p7zip
@@ -10223,7 +10223,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2025.09.06
+  Version: 2025.09.08
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vttest

@@ -266,7 +266,7 @@
 | **corkscrew** | 2.0-4 | A tool for tunneling SSH through HTTP proxies | https://wiki.linuxquestions.org/wiki/Corkscrew |
 | **cowsay** | 3.8.4 | Program which generates ASCII pictures of a cow with a message | https://cowsay.diamonds/ |
 | **cpio** | 2.15-1 | CPIO implementation from the GNU project | https://www.gnu.org/software/cpio/ |
-| **cppcheck** | 2.18.2 | tool for static C/C++ code analysis | https://github.com/danmar/cppcheck |
+| **cppcheck** | 2.18.3 | tool for static C/C++ code analysis | https://github.com/danmar/cppcheck |
 | **cppi** | 1.18-2 | Indents C preprocessor directives to reflect their nesting, among other regularizations | https://www.gnu.org/software/cppi/ |
 | **cpufetch** | 1.06-1 | Simple yet fancy CPU architecture fetching tool | https://github.com/Dr-Noob/cpufetch |
 | **cpulimit** | 0.2-2 | CPU usage limiter | https://github.com/opsengine/cpulimit |
@@ -1309,7 +1309,7 @@
 | **librnnoise-static** | 0.2 | Static libraries for librnnoise | https://jmvalin.ca/demo/rnnoise/ |
 | **librocksdb** | 8.11.3 | A persistent key-value store for flash and RAM storage | https://rocksdb.org/ |
 | **librocksdb-static** | 8.11.3 | Static libraries for librocksdb | https://rocksdb.org/ |
-| **librsvg** | 2.61.0 | Library to render SVG files using cairo | https://wiki.gnome.org/action/show/Projects/LibRsvg |
+| **librsvg** | 2.61.1 | Library to render SVG files using cairo | https://wiki.gnome.org/action/show/Projects/LibRsvg |
 | **librsync** | 2.3.4 | Remote delta-compression library | https://github.com/librsync/librsync |
 | **librtmidi** | 5.0.0-2 | A set of C++ classes that provides a common API for realtime MIDI input/output | https://www.music.mcgill.ca/~gary/rtmidi/ |
 | **librttopo** | 1.1.0-3 | The RT Topology Library exposes an API to create and manage standard topologies | https://git.osgeo.org/gitea/rttopo/librttopo |
@@ -1505,11 +1505,11 @@
 | **libxls** | 1.6.3 | A C library for reading Excel files in the nasty old binary OLE format | https://github.com/libxls/libxls |
 | **libxls-static** | 1.6.3 | Static libraries for libxls | https://github.com/libxls/libxls |
 | **libxlsxwriter** | 1.2.3 | A C library for creating Excel XLSX files | https://libxlsxwriter.github.io/ |
-| **libxml2** | 2.14.5-1 | Library for parsing XML documents | http://www.xmlsoft.org |
-| **libxml2-python** | 2.14.5-1 | Python bindings for libxml2 | http://www.xmlsoft.org |
-| **libxml2-python-static** | 2.14.5-1 | Static libraries for libxml2-python | http://www.xmlsoft.org |
-| **libxml2-static** | 2.14.5-1 | Static libraries for libxml2 | http://www.xmlsoft.org |
-| **libxml2-utils** | 2.14.5-1 | XML utilities | http://www.xmlsoft.org |
+| **libxml2** | 2.14.6 | Library for parsing XML documents | http://www.xmlsoft.org |
+| **libxml2-python** | 2.14.6 | Python bindings for libxml2 | http://www.xmlsoft.org |
+| **libxml2-python-static** | 2.14.6 | Static libraries for libxml2-python | http://www.xmlsoft.org |
+| **libxml2-static** | 2.14.6 | Static libraries for libxml2 | http://www.xmlsoft.org |
+| **libxml2-utils** | 2.14.6 | XML utilities | http://www.xmlsoft.org |
 | **libxmlb** | 0.3.23 | Library to help create and query binary XML blobs | https://github.com/hughsie/libxmlb |
 | **libxmlrpc** | 1.60.05 | XML-RPC for C and C++ | https://xmlrpc-c.sourceforge.io/ |
 | **libxmlrpc-static** | 1.60.05 | Static libraries for libxmlrpc | https://xmlrpc-c.sourceforge.io/ |
@@ -1878,7 +1878,7 @@
 | **oxc-language-server** | 1.14.0-1 | Oxc JavaScript linter language server | https://oxc.rs/ |
 | **oxfmt** | 1.14.0-1 | Oxc JavaScript formatter | https://oxc.rs/ |
 | **oxlint** | 1.14.0-1 | Oxc JavaScript linter | https://oxc.rs/ |
-| **p11-kit** | 0.25.5 | Provides a way to load and enumerate PKCS#11 modules | https://p11-glue.github.io/p11-glue/p11-kit.html |
+| **p11-kit** | 0.25.6 | Provides a way to load and enumerate PKCS#11 modules | https://p11-glue.github.io/p11-glue/p11-kit.html |
 | **p7zip** | 17.06 | Command-line version of the 7zip compressed file archiver | https://github.com/p7zip-project/p7zip |
 | **pacman** | 7.0.0-3 | A library-based package manager with dependency support | https://archlinux.org/pacman/ |
 | **pacman4console** | 1.3-3 | A 9 level ncurses pacman game with editor | https://sites.google.com/site/doctormike/pacman.html |
@@ -2554,7 +2554,7 @@
 | **vlc-static** | 3.0.21-10 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-3 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.3 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 2025.09.06 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
+| **vtm** | 2025.09.08 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
 | **vttest** | 20241208 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-4 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.4.321 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
