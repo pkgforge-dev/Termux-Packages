@@ -160,50 +160,50 @@
 | **brainfuck** | 1:2.7.3-1 | Brainfuck Interpreter written in C | https://github.com/fabianishere/brainfuck |
 | **brainfuck-static** | 1:2.7.3-1 | Static libraries for brainfuck | https://github.com/fabianishere/brainfuck |
 | **brogue** | 1.14.1-1 | Roguelike dungeon crawling game (community edition) | https://sites.google.com/site/broguegame/ |
-| **brook** | 20250808 | A cross-platform strong encryption and not detectable proxy. Zero-Configuration. | https://github.com/txthinking/brook |
+| **brook** | 20250808-1 | A cross-platform strong encryption and not detectable proxy. Zero-Configuration. | https://github.com/txthinking/brook |
 | **broot** | 1.48.0 | A better way to navigate directories | https://github.com/Canop/broot |
 | **brotli** | 1.1.0-3 | lossless compression algorithm and format (command line utility) | https://github.com/google/brotli |
-| **bsd-finger** | 0.17-1 | User information lookup program | https://packages.debian.org/sid/source/bsd-finger |
-| **bsd-games** | 1:3.3 | Classic text mode games from UNIX folklore | https://www.polyomino.org.uk/computer/software/bsd-games/ |
+| **bsd-finger** | 0.17-2 | User information lookup program | https://packages.debian.org/sid/source/bsd-finger |
+| **bsd-games** | 1:3.3-1 | Classic text mode games from UNIX folklore | https://www.polyomino.org.uk/computer/software/bsd-games/ |
 | **bsdtar** | 3.8.1-1 | The tar(1) and cpio(1) programs from FreeBSD, using libarchive | https://www.libarchive.org/ |
-| **btfs2** | 4.0.0 | Decentralized file system integrating with TRON network and Bittorrent network | https://www.bittorrent.com/btfs/ |
+| **btfs2** | 4.0.0-1 | Decentralized file system integrating with TRON network and Bittorrent network | https://www.bittorrent.com/btfs/ |
 | **btrfs-progs** | 6.16 | Utilities for Btrfs filesystem | https://btrfs.readthedocs.io/en/latest/ |
 | **buf** | 1.57.0 | A new way of working with Protocol Buffers | https://buf.build |
 | **build-essential** | 4.1 | A metapackage that installs essential development tools | https://github.com/termux/termux-packages |
 | **busybox** | 1.37.0-2 | Tiny versions of many common UNIX utilities into a single small executable | https://busybox.net/ |
-| **bvi** | 1.5.0 | Binary file editor based on vi | https://bvi.sourceforge.net/ |
-| **byacc** | 20241231-1 | byacc is generally conceded to be the best yacc variant available | https://invisible-island.net/byacc/ |
+| **bvi** | 1.5.0-1 | Binary file editor based on vi | https://bvi.sourceforge.net/ |
+| **byacc** | 20241231-2 | byacc is generally conceded to be the best yacc variant available | https://invisible-island.net/byacc/ |
 | **byobu** | 6.13 | Byobu is a GPLv3 open source text-based window manager and terminal multiplexer | https://www.byobu.org/ |
 | **bzip2** | 1.0.8-8 | Tools for working with bzip2 compression | http://www.bzip.org/ |
-| **c-ares** | 1.34.5 | Library for asynchronous DNS requests (including name resolves) | https://c-ares.org/ |
+| **c-ares** | 1.34.5-1 | Library for asynchronous DNS requests (including name resolves) | https://c-ares.org/ |
 | **c-script** | 0.14 | Compile and execute C "scripts" in one go! | https://github.com/ryanmjacobs/c |
 | **c-toxcore** | 0.2.20-p20250105-1 | Backend library for the Tox protocol | https://tox.chat |
 | **c-toxcore-static** | 0.2.20-p20250105-1 | Static libraries for c-toxcore | https://tox.chat |
 | **ca-certificates** | 1:2025.08.12 | Common CA certificates | https://curl.se/docs/caextract.html |
 | **ca-certificates-java** | 1:2025.08.12 | Common CA certificates (java keystore format) | https://curl.se/docs/caextract.html |
-| **cabextract** | 1.11 | A program to extract Microsoft cabinet (.CAB) files | https://www.cabextract.org.uk/ |
-| **cadaver** | 0.27 | A command-line WebDAV client for Unix | https://notroj.github.io/cadaver/ |
+| **cabextract** | 1.11-1 | A program to extract Microsoft cabinet (.CAB) files | https://www.cabextract.org.uk/ |
+| **cadaver** | 0.27-1 | A command-line WebDAV client for Unix | https://notroj.github.io/cadaver/ |
 | **caddy** | 2.10.2 | Fast, cross-platform HTTP/2 web server | https://caddyserver.com/ |
-| **calc** | 2.15.1.1 | Arbitrary precision console calculator | http://www.isthe.com/chongo/tech/comp/calc/ |
+| **calc** | 2.15.1.1-1 | Arbitrary precision console calculator | http://www.isthe.com/chongo/tech/comp/calc/ |
 | **calcurse** | 4.8.2 | calcurse is a calendar and scheduling application for the command line | https://calcurse.org/ |
 | **calcurse-caldav** | 4.8.2 | Sync calcurse with remote caldav calendar | https://calcurse.org/ |
-| **capnproto** | 1.2.0 | Data interchange format and capability-based RPC system | https://capnproto.org/ |
-| **capstone** | 5.0.6 | Lightweight multi-platform, multi-architecture disassembly framework | https://www.capstone-engine.org/ |
-| **capstone-static** | 5.0.6 | Static libraries for capstone | https://www.capstone-engine.org/ |
+| **capnproto** | 1.2.0-1 | Data interchange format and capability-based RPC system | https://capnproto.org/ |
+| **capstone** | 5.0.6-1 | Lightweight multi-platform, multi-architecture disassembly framework | https://www.capstone-engine.org/ |
+| **capstone-static** | 5.0.6-1 | Static libraries for capstone | https://www.capstone-engine.org/ |
 | **carapace** | 1.5.0 | Multi-shell multi-command argument completer | https://carapace.sh/ |
 | **cargo-c** | 0.10.15-1 | Cargo C-ABI helpers | https://github.com/lu-zero/cargo-c |
-| **catdoc** | 0.95-1 | Program which reads MS-Word file and prints readable ASCII text to stdout | http://www.wagner.pp.ru/~vitus/software/catdoc/ |
-| **catgirl** | 2.2a | A TLS-only terminal IRC client | https://git.causal.agency/catgirl |
-| **catimg** | 2.7.0 | Renders images in the terminal | https://posva.net/shell/retro/bash/2013/05/27/catimg |
-| **cava** | 0.10.4 | Console-based Audio Visualizer. Works with MPD and Pulseaudio | https://github.com/karlstav/cava |
-| **cavez-of-phear** | 0.6.1-1 | A Boulder Dash like game for consoles/terminals | https://github.com/AMDmi3/cavezofphear |
+| **catdoc** | 0.95-2 | Program which reads MS-Word file and prints readable ASCII text to stdout | http://www.wagner.pp.ru/~vitus/software/catdoc/ |
+| **catgirl** | 2.2a-1 | A TLS-only terminal IRC client | https://git.causal.agency/catgirl |
+| **catimg** | 2.7.0-1 | Renders images in the terminal | https://posva.net/shell/retro/bash/2013/05/27/catimg |
+| **cava** | 0.10.4-1 | Console-based Audio Visualizer. Works with MPD and Pulseaudio | https://github.com/karlstav/cava |
+| **cavez-of-phear** | 0.6.1-2 | A Boulder Dash like game for consoles/terminals | https://github.com/AMDmi3/cavezofphear |
 | **cavif-rs** | 1.5.6 | AVIF image creator in pure Rust | https://lib.rs/cavif |
-| **cboard** | 0.7.5-4 | PGN browser, editor and chess engine frontend | https://benkibbey.wordpress.com/cboard/ |
-| **cbonsai** | 1.4.2 | Grow bonsai trees in your terminal | https://gitlab.com/jallbrit/cbonsai |
-| **cc65** | 2.19 | A free compiler for 6502 based system. | https://cc65.github.io/ |
+| **cboard** | 0.7.5-5 | PGN browser, editor and chess engine frontend | https://benkibbey.wordpress.com/cboard/ |
+| **cbonsai** | 1.4.2-1 | Grow bonsai trees in your terminal | https://gitlab.com/jallbrit/cbonsai |
+| **cc65** | 2.19-1 | A free compiler for 6502 based system | https://cc65.github.io/ |
 | **ccache** | 4.11.3-1 | Compiler cache for fast recompilation of C/C++ code | https://ccache.samba.org |
-| **cccc** | 3.2.0 | Source code counter and metrics tool for C++, C, and Java | https://sarnold.github.io/cccc/ |
-| **ccextractor** | 0.94-5 | A tool used to produce subtitles for TV recordings | https://ccextractor.org/ |
+| **cccc** | 3.2.0-1 | Source code counter and metrics tool for C++, C, and Java | https://sarnold.github.io/cccc/ |
+| **ccextractor** | 0.94-6 | A tool used to produce subtitles for TV recordings | https://ccextractor.org/ |
 | **ccls** | 0.20250511 | C/C++/ObjC language server | https://github.com/MaskRay/ccls |
 | **ccrypt** | 1.11 | Secure encryption and decryption of files and streams utility | http://ccrypt.sourceforge.net/ |
 | **cec-client** | 7.1.1 | Client applications for libCEC | https://libcec.pulse-eight.com/ |
@@ -523,7 +523,7 @@
 | **gdbm** | 1.26-1 | Library of database functions that use extensible hashing | https://www.gnu.org.ua/software/gdbm/ |
 | **gdbm-static** | 1.26-1 | Static libraries for gdbm | https://www.gnu.org.ua/software/gdbm/ |
 | **gdbserver** | 15.2 | The gdbserver program | https://www.gnu.org/software/gdb/ |
-| **gdk-pixbuf** | 2.42.12-4 | Library for image loading and manipulation | https://wiki.gnome.org/Projects/GdkPixbuf |
+| **gdk-pixbuf** | 2.44.0 | Library for image loading and manipulation | https://wiki.gnome.org/Projects/GdkPixbuf |
 | **gdrive-downloader** | 1:1.1 | Download a gdrive folder or file easily, shell ftw | https://github.com/Akianonymus/gdrive-downloader |
 | **gdu** | 5.31.0 | Fast disk usage analyzer with console interface written in Go | https://github.com/dundee/gdu |
 | **geckodriver** | 0.36.0 | Proxy for using W3C WebDriver-compatible clients to interact with Gecko-based browsers | https://github.com/mozilla/geckodriver |

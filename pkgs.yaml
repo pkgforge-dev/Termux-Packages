@@ -647,7 +647,7 @@
   Description: Roguelike dungeon crawling game (community edition)
   Homepage: https://sites.google.com/site/broguegame/
 - Package: brook
-  Version: "20250808"
+  Version: 20250808-1
   Description: A cross-platform strong encryption and not detectable proxy. Zero-Configuration.
   Homepage: https://github.com/txthinking/brook
 - Package: broot
@@ -659,11 +659,11 @@
   Description: lossless compression algorithm and format (command line utility)
   Homepage: https://github.com/google/brotli
 - Package: bsd-finger
-  Version: 0.17-1
+  Version: 0.17-2
   Description: User information lookup program
   Homepage: https://packages.debian.org/sid/source/bsd-finger
 - Package: bsd-games
-  Version: "1:3.3"
+  Version: 1:3.3-1
   Description: Classic text mode games from UNIX folklore
   Homepage: https://www.polyomino.org.uk/computer/software/bsd-games/
 - Package: bsdtar
@@ -671,7 +671,7 @@
   Description: The tar(1) and cpio(1) programs from FreeBSD, using libarchive
   Homepage: https://www.libarchive.org/
 - Package: btfs2
-  Version: 4.0.0
+  Version: 4.0.0-1
   Description: Decentralized file system integrating with TRON network and Bittorrent network
   Homepage: https://www.bittorrent.com/btfs/
 - Package: btrfs-progs
@@ -691,11 +691,11 @@
   Description: Tiny versions of many common UNIX utilities into a single small executable
   Homepage: https://busybox.net/
 - Package: bvi
-  Version: 1.5.0
+  Version: 1.5.0-1
   Description: Binary file editor based on vi
   Homepage: https://bvi.sourceforge.net/
 - Package: byacc
-  Version: 20241231-1
+  Version: 20241231-2
   Description: byacc is generally conceded to be the best yacc variant available
   Homepage: https://invisible-island.net/byacc/
 - Package: byobu
@@ -707,7 +707,7 @@
   Description: Tools for working with bzip2 compression
   Homepage: http://www.bzip.org/
 - Package: c-ares
-  Version: 1.34.5
+  Version: 1.34.5-1
   Description: Library for asynchronous DNS requests (including name resolves)
   Homepage: https://c-ares.org/
 - Package: c-script
@@ -731,11 +731,11 @@
   Description: Common CA certificates (java keystore format)
   Homepage: https://curl.se/docs/caextract.html
 - Package: cabextract
-  Version: "1.11"
+  Version: 1.11-1
   Description: A program to extract Microsoft cabinet (.CAB) files
   Homepage: https://www.cabextract.org.uk/
 - Package: cadaver
-  Version: "0.27"
+  Version: 0.27-1
   Description: A command-line WebDAV client for Unix
   Homepage: https://notroj.github.io/cadaver/
 - Package: caddy
@@ -743,7 +743,7 @@
   Description: Fast, cross-platform HTTP/2 web server
   Homepage: https://caddyserver.com/
 - Package: calc
-  Version: 2.15.1.1
+  Version: 2.15.1.1-1
   Description: Arbitrary precision console calculator
   Homepage: http://www.isthe.com/chongo/tech/comp/calc/
 - Package: calcurse
@@ -755,15 +755,15 @@
   Description: Sync calcurse with remote caldav calendar
   Homepage: https://calcurse.org/
 - Package: capnproto
-  Version: 1.2.0
+  Version: 1.2.0-1
   Description: Data interchange format and capability-based RPC system
   Homepage: https://capnproto.org/
 - Package: capstone
-  Version: 5.0.6
+  Version: 5.0.6-1
   Description: Lightweight multi-platform, multi-architecture disassembly framework
   Homepage: https://www.capstone-engine.org/
 - Package: capstone-static
-  Version: 5.0.6
+  Version: 5.0.6-1
   Description: Static libraries for capstone
   Homepage: https://www.capstone-engine.org/
 - Package: carapace
@@ -775,23 +775,23 @@
   Description: Cargo C-ABI helpers
   Homepage: https://github.com/lu-zero/cargo-c
 - Package: catdoc
-  Version: 0.95-1
+  Version: 0.95-2
   Description: Program which reads MS-Word file and prints readable ASCII text to stdout
   Homepage: http://www.wagner.pp.ru/~vitus/software/catdoc/
 - Package: catgirl
-  Version: 2.2a
+  Version: 2.2a-1
   Description: A TLS-only terminal IRC client
   Homepage: https://git.causal.agency/catgirl
 - Package: catimg
-  Version: 2.7.0
+  Version: 2.7.0-1
   Description: Renders images in the terminal
   Homepage: https://posva.net/shell/retro/bash/2013/05/27/catimg
 - Package: cava
-  Version: 0.10.4
+  Version: 0.10.4-1
   Description: Console-based Audio Visualizer. Works with MPD and Pulseaudio
   Homepage: https://github.com/karlstav/cava
 - Package: cavez-of-phear
-  Version: 0.6.1-1
+  Version: 0.6.1-2
   Description: A Boulder Dash like game for consoles/terminals
   Homepage: https://github.com/AMDmi3/cavezofphear
 - Package: cavif-rs
@@ -799,27 +799,27 @@
   Description: AVIF image creator in pure Rust
   Homepage: https://lib.rs/cavif
 - Package: cboard
-  Version: 0.7.5-4
+  Version: 0.7.5-5
   Description: PGN browser, editor and chess engine frontend
   Homepage: https://benkibbey.wordpress.com/cboard/
 - Package: cbonsai
-  Version: 1.4.2
+  Version: 1.4.2-1
   Description: Grow bonsai trees in your terminal
   Homepage: https://gitlab.com/jallbrit/cbonsai
 - Package: cc65
-  Version: "2.19"
-  Description: A free compiler for 6502 based system.
+  Version: 2.19-1
+  Description: A free compiler for 6502 based system
   Homepage: https://cc65.github.io/
 - Package: ccache
   Version: 4.11.3-1
   Description: Compiler cache for fast recompilation of C/C++ code
   Homepage: https://ccache.samba.org
 - Package: cccc
-  Version: 3.2.0
+  Version: 3.2.0-1
   Description: Source code counter and metrics tool for C++, C, and Java
   Homepage: https://sarnold.github.io/cccc/
 - Package: ccextractor
-  Version: 0.94-5
+  Version: 0.94-6
   Description: A tool used to produce subtitles for TV recordings
   Homepage: https://ccextractor.org/
 - Package: ccls
@@ -2099,7 +2099,7 @@
   Description: The gdbserver program
   Homepage: https://www.gnu.org/software/gdb/
 - Package: gdk-pixbuf
-  Version: 2.42.12-4
+  Version: 2.44.0
   Description: Library for image loading and manipulation
   Homepage: https://wiki.gnome.org/Projects/GdkPixbuf
 - Package: gdrive-downloader
