@@ -1243,9 +1243,9 @@
   },
   {
     "Package": "ccrypt",
-    "Version": "1.11",
+    "Version": "1.11-1",
     "Description": "Secure encryption and decryption of files and streams utility",
-    "Homepage": "http://ccrypt.sourceforge.net/"
+    "Homepage": "https://ccrypt.sourceforge.net/"
   },
   {
     "Package": "cec-client",
@@ -1261,13 +1261,13 @@
   },
   {
     "Package": "cfengine",
-    "Version": "1:3.25.0-1",
+    "Version": "1:3.25.0-2",
     "Description": "CFEngine is a configuration management technology",
     "Homepage": "https://cfengine.com/"
   },
   {
     "Package": "cfengine-static",
-    "Version": "1:3.25.0-1",
+    "Version": "1:3.25.0-2",
     "Description": "Static libraries for cfengine",
     "Homepage": "https://cfengine.com/"
   },
@@ -1285,37 +1285,37 @@
   },
   {
     "Package": "cgdb",
-    "Version": "0.8.0",
+    "Version": "0.8.0-1",
     "Description": "A lightweight curses (terminal-based) interface to the GNU Debugger (GDB)",
     "Homepage": "https://cgdb.github.io/"
   },
   {
     "Package": "cgif",
-    "Version": "0.5.0",
+    "Version": "0.5.0-1",
     "Description": "A fast and lightweight GIF encoding library",
     "Homepage": "https://github.com/dloebl/cgif"
   },
   {
     "Package": "chafa",
-    "Version": "1.16.2",
+    "Version": "1.16.2-1",
     "Description": "Image-to-text converter supporting a wide range of symbols, etc.",
     "Homepage": "https://hpjansson.org/chafa/"
   },
   {
     "Package": "chafa-static",
-    "Version": "1.16.2",
+    "Version": "1.16.2-1",
     "Description": "Static libraries for chafa",
     "Homepage": "https://hpjansson.org/chafa/"
   },
   {
     "Package": "check",
-    "Version": "0.15.2-2",
+    "Version": "0.15.2-3",
     "Description": "A unit testing framework for C",
     "Homepage": "https://libcheck.github.io/check"
   },
   {
     "Package": "check-static",
-    "Version": "0.15.2-2",
+    "Version": "0.15.2-3",
     "Description": "Static libraries for check",
     "Homepage": "https://libcheck.github.io/check"
   },
@@ -1327,13 +1327,13 @@
   },
   {
     "Package": "chicken",
-    "Version": "5.4.0-1",
+    "Version": "5.4.0-2",
     "Description": "A feature rich Scheme compiler and interpreter",
     "Homepage": "https://www.call-cc.org"
   },
   {
     "Package": "chicken-static",
-    "Version": "5.4.0-1",
+    "Version": "5.4.0-2",
     "Description": "Static libraries for chicken",
     "Homepage": "https://www.call-cc.org"
   },
@@ -1357,13 +1357,13 @@
   },
   {
     "Package": "ciso",
-    "Version": "1.0.2-1",
+    "Version": "1.0.2-2",
     "Description": "PSP ISO compression tool",
     "Homepage": "https://github.com/jamie/ciso"
   },
   {
     "Package": "ckermit",
-    "Version": "9.0.302-2",
+    "Version": "9.0.302-3",
     "Description": "A combined network and serial communication software package",
     "Homepage": "https://www.kermitproject.org/ckermit.html"
   },
@@ -1387,31 +1387,31 @@
   },
   {
     "Package": "clblast",
-    "Version": "1.6.3",
+    "Version": "1.6.3-1",
     "Description": "Tuned OpenCL BLAS",
     "Homepage": "https://github.com/CNugteren/CLBlast"
   },
   {
     "Package": "cliaoke",
-    "Version": "0.2.4-4",
+    "Version": "0.2.4-5",
     "Description": "Command line karaoke",
     "Homepage": "https://github.com/jessfraz/cliaoke"
   },
   {
     "Package": "clidle",
-    "Version": "2022.05.25-2",
+    "Version": "2022.05.25-3",
     "Description": "Play Wordle over SSH",
     "Homepage": "https://github.com/ajeetdsouza/clidle"
   },
   {
     "Package": "clifm",
-    "Version": "1.26",
+    "Version": "1.26-1",
     "Description": "The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell",
     "Homepage": "https://github.com/leo-arch/clifm"
   },
   {
     "Package": "clinfo",
-    "Version": "3.0.25.02.14",
+    "Version": "3.0.25.02.14-1",
     "Description": "Print all known information about all available OpenCL platforms and devices in the system",
     "Homepage": "https://github.com/Oblomov/clinfo"
   },
@@ -1423,7 +1423,7 @@
   },
   {
     "Package": "cloneit",
-    "Version": "20240728",
+    "Version": "20240728-1",
     "Description": "A cli tool to download specific GitHub directories or files",
     "Homepage": "https://github.com/alok8bb/cloneit"
   },
@@ -1837,19 +1837,19 @@
   },
   {
     "Package": "dcmtk",
-    "Version": "3.6.9",
+    "Version": "3.6.9-1",
     "Description": "A collection of libraries and applications implementing large parts the DICOM standard",
     "Homepage": "https://dicom.offis.de/dcmtk"
   },
   {
     "Package": "dcraw",
-    "Version": "9.28.0-6",
+    "Version": "9.28.0-7",
     "Description": "Raw digital camera images decoding utility",
     "Homepage": "https://www.dechifro.org/dcraw/"
   },
   {
     "Package": "ddrescue",
-    "Version": "1.29.1",
+    "Version": "1.29.1-1",
     "Description": "GNU data recovery tool",
     "Homepage": "https://www.gnu.org/software/ddrescue/"
   },
@@ -1867,13 +1867,13 @@
   },
   {
     "Package": "desed",
-    "Version": "1.2.2",
+    "Version": "1.2.2-1",
     "Description": "Demystifies and debugs your sed scripts",
     "Homepage": "https://github.com/SoptikHa2/desed"
   },
   {
     "Package": "deutex",
-    "Version": "5.2.3",
+    "Version": "5.2.3-1",
     "Description": "WAD composer for Doom, Heretic, Hexen, and Strife",
     "Homepage": "https://github.com/Doom-Utils/deutex/"
   },
@@ -1897,7 +1897,7 @@
   },
   {
     "Package": "dictd",
-    "Version": "1.13.3",
+    "Version": "1.13.3-1",
     "Description": "Online dictionary client and server",
     "Homepage": "https://sourceforge.net/projects/dict/"
   },
@@ -1909,13 +1909,13 @@
   },
   {
     "Package": "diffstat",
-    "Version": "1.68",
+    "Version": "1.68-1",
     "Description": "Displays a histogram of changes to a file",
     "Homepage": "https://invisible-island.net/diffstat/diffstat.html"
   },
   {
     "Package": "difftastic",
-    "Version": "0.64.0-1",
+    "Version": "0.64.0-2",
     "Description": "difft: A structural diff that understands syntax",
     "Homepage": "https://github.com/Wilfred/difftastic"
   },
@@ -1927,13 +1927,13 @@
   },
   {
     "Package": "dirb",
-    "Version": "2.22-4",
+    "Version": "2.22-5",
     "Description": "Web Directory Fuzzer",
-    "Homepage": "http://dirb.sourceforge.net/"
+    "Homepage": "https://dirb.sourceforge.net/"
   },
   {
     "Package": "direnv",
-    "Version": "2.37.1",
+    "Version": "2.37.1-1",
     "Description": "Environment switcher for shell",
     "Homepage": "https://github.com/direnv/direnv"
   },

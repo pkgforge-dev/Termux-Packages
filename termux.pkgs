@@ -205,37 +205,37 @@
 | **cccc** | 3.2.0-1 | Source code counter and metrics tool for C++, C, and Java | https://sarnold.github.io/cccc/ |
 | **ccextractor** | 0.94-6 | A tool used to produce subtitles for TV recordings | https://ccextractor.org/ |
 | **ccls** | 0.20250511 | C/C++/ObjC language server | https://github.com/MaskRay/ccls |
-| **ccrypt** | 1.11 | Secure encryption and decryption of files and streams utility | http://ccrypt.sourceforge.net/ |
+| **ccrypt** | 1.11-1 | Secure encryption and decryption of files and streams utility | https://ccrypt.sourceforge.net/ |
 | **cec-client** | 7.1.1 | Client applications for libCEC | https://libcec.pulse-eight.com/ |
 | **ceu-lang** | 2019.07.17-2 | The Structured Synchronous Reactive Programming Language Céu | https://github.com/ceu-lang/ceu |
-| **cfengine** | 1:3.25.0-1 | CFEngine is a configuration management technology | https://cfengine.com/ |
-| **cfengine-static** | 1:3.25.0-1 | Static libraries for cfengine | https://cfengine.com/ |
+| **cfengine** | 1:3.25.0-2 | CFEngine is a configuration management technology | https://cfengine.com/ |
+| **cfengine-static** | 1:3.25.0-2 | Static libraries for cfengine | https://cfengine.com/ |
 | **cfm** | 1.2.0-3 | A basic file manager that runs inside a terminal, designed for Linux. It's fully responsive and incredibly fast. | https://github.com/0l1v3rr/cli-file-manager |
 | **cgal** | 6.0.1 | Computational Geometry Algorithms Library | https://www.cgal.org/ |
-| **cgdb** | 0.8.0 | A lightweight curses (terminal-based) interface to the GNU Debugger (GDB) | https://cgdb.github.io/ |
-| **cgif** | 0.5.0 | A fast and lightweight GIF encoding library | https://github.com/dloebl/cgif |
-| **chafa** | 1.16.2 | Image-to-text converter supporting a wide range of symbols, etc. | https://hpjansson.org/chafa/ |
-| **chafa-static** | 1.16.2 | Static libraries for chafa | https://hpjansson.org/chafa/ |
-| **check** | 0.15.2-2 | A unit testing framework for C | https://libcheck.github.io/check |
-| **check-static** | 0.15.2-2 | Static libraries for check | https://libcheck.github.io/check |
+| **cgdb** | 0.8.0-1 | A lightweight curses (terminal-based) interface to the GNU Debugger (GDB) | https://cgdb.github.io/ |
+| **cgif** | 0.5.0-1 | A fast and lightweight GIF encoding library | https://github.com/dloebl/cgif |
+| **chafa** | 1.16.2-1 | Image-to-text converter supporting a wide range of symbols, etc. | https://hpjansson.org/chafa/ |
+| **chafa-static** | 1.16.2-1 | Static libraries for chafa | https://hpjansson.org/chafa/ |
+| **check** | 0.15.2-3 | A unit testing framework for C | https://libcheck.github.io/check |
+| **check-static** | 0.15.2-3 | Static libraries for check | https://libcheck.github.io/check |
 | **chezmoi** | 2.65.0 | Manage your dotfiles across multiple machines | https://chezmoi.io |
-| **chicken** | 5.4.0-1 | A feature rich Scheme compiler and interpreter | https://www.call-cc.org |
-| **chicken-static** | 5.4.0-1 | Static libraries for chicken | https://www.call-cc.org |
+| **chicken** | 5.4.0-2 | A feature rich Scheme compiler and interpreter | https://www.call-cc.org |
+| **chicken-static** | 5.4.0-2 | Static libraries for chicken | https://www.call-cc.org |
 | **choose** | 1.3.7 | A human-friendly and fast alternative to cut and (sometimes) awk | https://github.com/theryangeary/choose |
 | **chromaprint** | 1.5.1-p20250625-0 | C library for generating audio fingerprints used by AcoustID (fpcalc tool) | https://acoustid.org/chromaprint |
 | **chrony** | 4.8 | chrony is an implementation of the Network Time Protocol (NTP) | https://chrony-project.org/ |
-| **ciso** | 1.0.2-1 | PSP ISO compression tool | https://github.com/jamie/ciso |
-| **ckermit** | 9.0.302-2 | A combined network and serial communication software package | https://www.kermitproject.org/ckermit.html |
+| **ciso** | 1.0.2-2 | PSP ISO compression tool | https://github.com/jamie/ciso |
+| **ckermit** | 9.0.302-3 | A combined network and serial communication software package | https://www.kermitproject.org/ckermit.html |
 | **clamav** | 1.4.3 | Anti-virus toolkit for Unix | https://www.clamav.net/ |
 | **clamav-static** | 1.4.3 | Static libraries for clamav | https://www.clamav.net/ |
 | **clang** | 20.1.8-3 | C language frontend for LLVM | https://clang.llvm.org/ |
-| **clblast** | 1.6.3 | Tuned OpenCL BLAS | https://github.com/CNugteren/CLBlast |
-| **cliaoke** | 0.2.4-4 | Command line karaoke | https://github.com/jessfraz/cliaoke |
-| **clidle** | 2022.05.25-2 | Play Wordle over SSH | https://github.com/ajeetdsouza/clidle |
-| **clifm** | 1.26 | The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell | https://github.com/leo-arch/clifm |
-| **clinfo** | 3.0.25.02.14 | Print all known information about all available OpenCL platforms and devices in the system | https://github.com/Oblomov/clinfo |
+| **clblast** | 1.6.3-1 | Tuned OpenCL BLAS | https://github.com/CNugteren/CLBlast |
+| **cliaoke** | 0.2.4-5 | Command line karaoke | https://github.com/jessfraz/cliaoke |
+| **clidle** | 2022.05.25-3 | Play Wordle over SSH | https://github.com/ajeetdsouza/clidle |
+| **clifm** | 1.26-1 | The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell | https://github.com/leo-arch/clifm |
+| **clinfo** | 3.0.25.02.14-1 | Print all known information about all available OpenCL platforms and devices in the system | https://github.com/Oblomov/clinfo |
 | **clipp** | 1.2.3-1 | Command line interfaces for modern C++ | https://github.com/muellan/clipp |
-| **cloneit** | 20240728 | A cli tool to download specific GitHub directories or files | https://github.com/alok8bb/cloneit |
+| **cloneit** | 20240728-1 | A cli tool to download specific GitHub directories or files | https://github.com/alok8bb/cloneit |
 | **cloudflared** | 2025.8.1 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
 | **clpeak** | 1.1.5 | A tool which profiles OpenCL devices to find their peak capacities | https://github.com/krrishnarraj/clpeak |
 | **clvk** | 0.0.20250903.181031 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
@@ -304,23 +304,23 @@
 | **db** | 18.1.40-5 | The Berkeley DB embedded database system | https://www.oracle.com/database/berkeley-db |
 | **dbus** | 1.16.2-2 | Freedesktop.org message bus system | https://dbus.freedesktop.org |
 | **dbus-python** | 1.4.0-1 | Python bindings for D-Bus | https://dbus.freedesktop.org/doc/dbus-python/ |
-| **dcmtk** | 3.6.9 | A collection of libraries and applications implementing large parts the DICOM standard | https://dicom.offis.de/dcmtk |
-| **dcraw** | 9.28.0-6 | Raw digital camera images decoding utility | https://www.dechifro.org/dcraw/ |
-| **ddrescue** | 1.29.1 | GNU data recovery tool | https://www.gnu.org/software/ddrescue/ |
+| **dcmtk** | 3.6.9-1 | A collection of libraries and applications implementing large parts the DICOM standard | https://dicom.offis.de/dcmtk |
+| **dcraw** | 9.28.0-7 | Raw digital camera images decoding utility | https://www.dechifro.org/dcraw/ |
+| **ddrescue** | 1.29.1-1 | GNU data recovery tool | https://www.gnu.org/software/ddrescue/ |
 | **debianutils** | 5.23.2-1 | Small utilities which are used primarily by the installation scripts of Debian packages | https://packages.debian.org/debianutils |
 | **debootstrap** | 1.0.141 | Bootstrap a basic Debian system | https://wiki.debian.org/Debootstrap |
-| **desed** | 1.2.2 | Demystifies and debugs your sed scripts | https://github.com/SoptikHa2/desed |
-| **deutex** | 5.2.3 | WAD composer for Doom, Heretic, Hexen, and Strife | https://github.com/Doom-Utils/deutex/ |
+| **desed** | 1.2.2-1 | Demystifies and debugs your sed scripts | https://github.com/SoptikHa2/desed |
+| **deutex** | 5.2.3-1 | WAD composer for Doom, Heretic, Hexen, and Strife | https://github.com/Doom-Utils/deutex/ |
 | **dex2jar** | 2.4-1 | Tools to work with android .dex and java .class files | https://github.com/pxb1988/dex2jar |
 | **dialog** | 1.3-20240307-1 | Application used in shell scripts which displays text user interface widgets | https://invisible-island.net/dialog/ |
 | **dialog-static** | 1.3-20240307-1 | Static libraries for dialog | https://invisible-island.net/dialog/ |
-| **dictd** | 1.13.3 | Online dictionary client and server | https://sourceforge.net/projects/dict/ |
+| **dictd** | 1.13.3-1 | Online dictionary client and server | https://sourceforge.net/projects/dict/ |
 | **diff-so-fancy** | 1.4.4 | Good-lookin' diffs. Actually... nah... The best-lookin' diffs | https://github.com/so-fancy/diff-so-fancy |
-| **diffstat** | 1.68 | Displays a histogram of changes to a file | https://invisible-island.net/diffstat/diffstat.html |
-| **difftastic** | 0.64.0-1 | difft: A structural diff that understands syntax | https://github.com/Wilfred/difftastic |
+| **diffstat** | 1.68-1 | Displays a histogram of changes to a file | https://invisible-island.net/diffstat/diffstat.html |
+| **difftastic** | 0.64.0-2 | difft: A structural diff that understands syntax | https://github.com/Wilfred/difftastic |
 | **diffutils** | 3.12-2 | Programs (cmp, diff, diff3 and sdiff) related to finding differences between files | https://www.gnu.org/software/diffutils/ |
-| **dirb** | 2.22-4 | Web Directory Fuzzer | http://dirb.sourceforge.net/ |
-| **direnv** | 2.37.1 | Environment switcher for shell | https://github.com/direnv/direnv |
+| **dirb** | 2.22-5 | Web Directory Fuzzer | https://dirb.sourceforge.net/ |
+| **direnv** | 2.37.1-1 | Environment switcher for shell | https://github.com/direnv/direnv |
 | **direvent** | 5.4 | Monitor of events in file system directories | https://www.gnu.org.ua/software/direvent/ |
 | **discordo** | 2025.08.06 | A lightweight, secure, and feature-rich Discord terminal client | https://github.com/ayntgl/discordo |
 | **diskus** | 0.8.0 | A minimal, fast alternative to 'du -sh' | https://github.com/sharkdp/diskus |
