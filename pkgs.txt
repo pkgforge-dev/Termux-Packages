@@ -321,34 +321,34 @@
  diffutils  3.12-2  Programs (cmp, diff, diff3 and sdiff) related to finding differences between files  https://www.gnu.org/software/diffutils/ 
  dirb  2.22-5  Web Directory Fuzzer  https://dirb.sourceforge.net/ 
  direnv  2.37.1-1  Environment switcher for shell  https://github.com/direnv/direnv 
- direvent  5.4  Monitor of events in file system directories  https://www.gnu.org.ua/software/direvent/ 
+ direvent  5.4-1  Monitor of events in file system directories  https://www.gnu.org.ua/software/direvent/ 
  discordo  2025.08.06  A lightweight, secure, and feature-rich Discord terminal client  https://github.com/ayntgl/discordo 
- diskus  0.8.0  A minimal, fast alternative to 'du -sh'  https://github.com/sharkdp/diskus 
- distant  1:0.20.0-2  Library and tooling that supports remote filesystem and process  https://github.com/chipsenkbeil/distant 
- distcc  3.4-3  Distributed C/C++ compiler  http://distcc.org/ 
- djvulibre  3.5.29  Suite to create, manipulate and view DjVu ('déjà vu') documents  https://djvu.sourceforge.net/ 
- djvulibre-static  3.5.29  Static libraries for djvulibre  https://djvu.sourceforge.net/ 
- dmagnetic  0.37  Interpreter for classic text adventure games and interactive fiction  https://dettus.net/dMagnetic 
- dmtx-utils  0.7.6  A command line interface for libdmtx  https://github.com/dmtx/dmtx-utils 
+ diskus  0.8.0-1  A minimal, fast alternative to 'du -sh'  https://github.com/sharkdp/diskus 
+ distant  1:0.20.0-3  Library and tooling that supports remote filesystem and process  https://github.com/chipsenkbeil/distant 
+ distcc  3.4-4  Distributed C/C++ compiler  http://distcc.org/ 
+ djvulibre  3.5.29-1  Suite to create, manipulate and view DjVu ('déjà vu') documents  https://djvu.sourceforge.net/ 
+ djvulibre-static  3.5.29-1  Static libraries for djvulibre  https://djvu.sourceforge.net/ 
+ dmagnetic  0.37-1  Interpreter for classic text adventure games and interactive fiction  https://dettus.net/dMagnetic 
+ dmtx-utils  0.7.6-1  A command line interface for libdmtx  https://github.com/dmtx/dmtx-utils 
  dnglab  0.7.0  Camera RAW to DNG file format converter  https://github.com/dnglab/dnglab 
- dnote  1:0.15.1  A simple command line notebook for programmers  https://www.getdnote.com/ 
- dnote-server  2.1.1-2  This package contains the Dnote server. It comprises of the web interface, the web API, and the background jobs.  https://www.getdnote.com/ 
- dns2tcp  0.5.2-1  dns2tcp is a tool for relaying TCP connections over DNS  https://github.com/alex-sector/dns2tcp 
- dnslookup  1.11.1-1  Simple command line utility to make DNS lookups. Supports all known DNS protocols: plain DNS, DoH, DoT, DoQ, DNSCrypt.  https://github.com/ameshkov/dnslookup 
- dnsmap  0.36-2  Subdomain Bruteforcing Tool  https://github.com/resurrecting-open-source-projects/dnsmap 
- dnstop  2022.10.19  A libpcap application that displays various tables of DNS traffic on your network  https://github.com/measurement-factory/dnstop 
+ dnote  1:0.15.1-1  A simple command line notebook for programmers  https://www.getdnote.com/ 
+ dnote-server  2.1.1-3  This package contains the Dnote server. It comprises of the web interface, the web API, and the background jobs.  https://www.getdnote.com/ 
+ dns2tcp  0.5.2-2  dns2tcp is a tool for relaying TCP connections over DNS  https://github.com/alex-sector/dns2tcp 
+ dnslookup  1.11.1-2  Simple command line utility to make DNS lookups. Supports all known DNS protocols: plain DNS, DoH, DoT, DoQ, DNSCrypt.  https://github.com/ameshkov/dnslookup 
+ dnsmap  0.36-3  Subdomain Bruteforcing Tool  https://github.com/resurrecting-open-source-projects/dnsmap 
+ dnstop  2022.10.19-1  A libpcap application that displays various tables of DNS traffic on your network  https://github.com/measurement-factory/dnstop 
  dnsutils  9.20.12  Clients provided with BIND  https://www.isc.org/bind/ 
  docbook-xml  5.1-1  A widely used XML scheme for writing documentation and help  https://www.oasis-open.org/docbook/ 
  docbook-xsl  1.79.2-4  XML stylesheets for Docbook-xml transformations  https://docbook.org/ 
- docopt  0.6.3-3  Command line arguments parser for C++11 and later  http://docopt.org 
- docopt-static  0.6.3-3  Static libraries for docopt  http://docopt.org 
+ docopt  0.6.3-4  Command line arguments parser for C++11 and later  http://docopt.org 
+ docopt-static  0.6.3-4  Static libraries for docopt  http://docopt.org 
  doctest  2.4.12  The fastest feature-rich C++11/14/17/20 single-header testing framework  https://github.com/doctest/doctest 
- doge  0.2.8-1  A command-line DNS client  https://github.com/Dj-Codeman/dog_community 
- dopewars  1.6.2  Drug-dealing game set in streets of New York City  https://dopewars.sourceforge.io 
+ doge  0.2.8-2  A command-line DNS client  https://github.com/Dj-Codeman/dog_community 
+ dopewars  1.6.2-1  Drug-dealing game set in streets of New York City  https://dopewars.sourceforge.io 
  dos2unix  7.5.2-1  Converts between DOS and Unix text files  https://waterlan.home.xs4all.nl/dos2unix.html 
- dosfstools  4.2  DOS file system utilities  https://github.com/dosfstools/dosfstools 
- dotconf  1.4.1  dot.conf configuration file parser  https://github.com/williamh/dotconf 
- dotconf-static  1.4.1  Static libraries for dotconf  https://github.com/williamh/dotconf 
+ dosfstools  4.2-1  DOS file system utilities  https://github.com/dosfstools/dosfstools 
+ dotconf  1.4.1-1  dot.conf configuration file parser  https://github.com/williamh/dotconf 
+ dotconf-static  1.4.1-1  Static libraries for dotconf  https://github.com/williamh/dotconf 
  dotnet-apphost-pack-8.0  8.0.18  .NET 8.0 Targeting Pack  https://dotnet.microsoft.com/en-us/ 
  dotnet-apphost-pack-9.0  9.0.7-1  .NET 9.0 Targeting Pack  https://dotnet.microsoft.com/en-us/ 
  dotnet-host  9.0-2  A metapackage for .NET Host  https://dotnet.microsoft.com/en-us/ 
@@ -370,141 +370,141 @@
  dotnet-templates-9.0  9.0.7-1  .NET 9.0 Templates  https://dotnet.microsoft.com/en-us/ 
  dotnet8.0  8.0.18  .NET 8.0  https://dotnet.microsoft.com/en-us/ 
  dotnet9.0  9.0.7-1  .NET 9.0  https://dotnet.microsoft.com/en-us/ 
- double-conversion  3.3.1  Binary-decimal and decimal-binary routines for IEEE doubles  https://github.com/google/double-conversion 
- doxygen  1.14.0  A documentation system for C++, C, Java, IDL and PHP  http://www.doxygen.org 
+ double-conversion  3.3.1-1  Binary-decimal and decimal-binary routines for IEEE doubles  https://github.com/google/double-conversion 
+ doxygen  1.14.0-1  A documentation system for C++, C, Java, IDL and PHP  http://www.doxygen.org 
  dpkg  1.22.6-4  Debian package management system  https://packages.debian.org/dpkg 
  dpkg-perl  1.22.6-4  Perl modules for dpkg  https://packages.debian.org/dpkg 
  dpkg-scanpackages  1.22.6-4  Creates Packages index files  https://packages.debian.org/dpkg 
- draco  1.5.7  Library for compressing and decompressing 3D geometric meshes and point clouds  https://google.github.io/draco/ 
- draco-static  1.5.7  Static libraries for draco  https://google.github.io/draco/ 
- dropbear  2025.87-1  Small SSH server and client  https://matt.ucc.asn.au/dropbear/dropbear.html 
- dtach  0.9  Emulates the detach feature of screen  http://dtach.sourceforge.net/ 
- dtc  1.7.2  Device Tree Compiler  https://git.kernel.org/pub/scm/utils/dtc/dtc 
- dtc-static  1.7.2  Static libraries for dtc  https://git.kernel.org/pub/scm/utils/dtc/dtc 
- dte  1.11.1-1  A small, configurable console text editor  https://craigbarnes.gitlab.io/dte/ 
- dua  2.31.0  View disk space usage and delete unwanted data, fast  https://github.com/Byron/dua-cli 
- duc  1.4.5  High-performance disk usage analyzer  http://duc.zevv.nl/ 
+ draco  1.5.7-1  Library for compressing and decompressing 3D geometric meshes and point clouds  https://google.github.io/draco/ 
+ draco-static  1.5.7-1  Static libraries for draco  https://google.github.io/draco/ 
+ dropbear  2025.87-2  Small SSH server and client  https://matt.ucc.asn.au/dropbear/dropbear.html 
+ dtach  0.9-1  Emulates the detach feature of screen  https://dtach.sourceforge.net/ 
+ dtc  1.7.2-1  Device Tree Compiler  https://git.kernel.org/pub/scm/utils/dtc/dtc 
+ dtc-static  1.7.2-1  Static libraries for dtc  https://git.kernel.org/pub/scm/utils/dtc/dtc 
+ dte  1.11.1-2  A small, configurable console text editor  https://craigbarnes.gitlab.io/dte/ 
+ dua  2.31.0-1  View disk space usage and delete unwanted data, fast  https://github.com/Byron/dua-cli 
+ duc  1.4.5-1  High-performance disk usage analyzer  http://duc.zevv.nl/ 
  duckdb  1.3.2  DuckDB Command Line Interface (CLI) shell  https://duckdb.org/ 
  duf  0.9.1  Disk usage/free utility  https://github.com/muesli/duf 
  dufs  0.45.0  A file server that supports static serving, uploading, searching, accessing control, webdav...  https://github.com/sigoden/dufs 
  duktape  2.7.0-1  Simple REPL for Duktape  https://www.duktape.org/ 
- dust  1.2.3  A more intuitive version of du in rust  https://github.com/bootandy/dust 
- dvdauthor  0.7.2-3  Generates a DVD-Video movie from a valid MPEG-2 stream  https://dvdauthor.sourceforge.net/ 
- dvtm  0.15-3  Terminal tiling window manager  https://github.com/martanne/dvtm 
- dwarves  1.30  Pahole and other DWARF utils  https://git.kernel.org/cgit/devel/pahole/pahole.git/ 
+ dust  1.2.3-1  A more intuitive version of du in rust  https://github.com/bootandy/dust 
+ dvdauthor  0.7.2-4  Generates a DVD-Video movie from a valid MPEG-2 stream  https://dvdauthor.sourceforge.net/ 
+ dvtm  0.15-4  Terminal tiling window manager  https://github.com/martanne/dvtm 
+ dwarves  1.30-1  Pahole and other DWARF utils  https://git.kernel.org/cgit/devel/pahole/pahole.git/ 
  dx  1:1.16-7  Command which takes in Java class files and converts them to format executable by Dalvik VM  http://developer.android.com/tools/help/index.html 
- e2fsprogs  1.47.3  EXT 2/3/4 filesystem utilities  https://e2fsprogs.sourceforge.net 
- e2tools  0.1.2  mtools analogue for ext2/3 filesystems  https://github.com/e2tools/e2tools 
- ebook-tools  0.2.2-2  Tools for accessing and converting various ebook file formats  https://sourceforge.net/projects/ebook-tools/ 
+ e2fsprogs  1.47.3-1  EXT 2/3/4 filesystem utilities  https://e2fsprogs.sourceforge.net 
+ e2tools  0.1.2-1  mtools analogue for ext2/3 filesystems  https://github.com/e2tools/e2tools 
+ ebook-tools  0.2.2-3  Tools for accessing and converting various ebook file formats  https://sourceforge.net/projects/ebook-tools/ 
  ecj  1:4.12-5  Eclipse Compiler for Java  https://www.eclipse.org/jdt/core/ 
  ed  1.22.2-1  Classic UNIX line editor  https://www.gnu.org/software/ed/ 
- edbrowse  3.8.12  Line based editor, browser, and mail client  https://edbrowse.org/ 
- editorconfig-core-c  0.12.9  EditorConfig core code written in C (for use by plugins supporting EditorConfig parsing)  https://editorconfig.org/ 
- editorconfig-core-c-static  0.12.9  Static libraries for editorconfig-core-c  https://editorconfig.org/ 
+ edbrowse  3.8.12-1  Line based editor, browser, and mail client  https://edbrowse.org/ 
+ editorconfig-core-c  0.12.9-1  EditorConfig core code written in C (for use by plugins supporting EditorConfig parsing)  https://editorconfig.org/ 
+ editorconfig-core-c-static  0.12.9-1  Static libraries for editorconfig-core-c  https://editorconfig.org/ 
  eigen  3.4.0  Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms  http://eigen.tuxfamily.org 
- eja  18.4.19  eja micro web server  https://github.com/eja/eja 
- electric-fence  2.2.7  Electric Fence (eFence) malloc memory debugger  https://elinux.org/Electric_Fence 
- electric-fence-static  2.2.7  Static libraries for electric-fence  https://elinux.org/Electric_Fence 
+ eja  18.4.19-1  eja micro web server  https://github.com/eja/eja 
+ electric-fence  2.2.7-1  Electric Fence (eFence) malloc memory debugger  https://elinux.org/Electric_Fence 
+ electric-fence-static  2.2.7-1  Static libraries for electric-fence  https://elinux.org/Electric_Fence 
  electrum  4.5.8-2  Electrum is a lightweight Bitcoin wallet  https://electrum.org 
  elfutils  0.193  A collection of utilities to read, create and modify ELF binary files  https://sourceware.org/elfutils/ 
- elinks  0.18.0  Full-Featured Text WWW Browser  https://github.com/rkd77/elinks 
+ elinks  0.18.0-1  Full-Featured Text WWW Browser  https://github.com/rkd77/elinks 
  elixir  1.18.4  Elixir is a dynamic, functional language designed for building scalable and maintainable applications  https://elixir-lang.org/ 
- eltclsh  1.20  Interactive shell for TCL programming language  https://homepages.laas.fr/mallet/soft/shell/eltclsh 
- elvish  0.21.0  A friendly and expressive Unix shell  https://github.com/elves/elvish 
+ eltclsh  1.20-1  Interactive shell for TCL programming language  https://homepages.laas.fr/mallet/soft/shell/eltclsh 
+ elvish  0.21.0-1  A friendly and expressive Unix shell  https://github.com/elves/elvish 
  emacs  30.2  Extensible, customizable text editor-and more  https://www.gnu.org/software/emacs/ 
  emscripten  4.0.14  Emscripten: An LLVM-to-WebAssembly Compiler  https://emscripten.org 
  emscripten-binaryen  4.0.14  Emscripten-compatible Binaryen  https://emscripten.org 
  emscripten-llvm  4.0.14  Emscripten-compatible LLVM  https://emscripten.org 
  emscripten-tests-third-party  4.0.14  Emscripten third party test suite files  https://emscripten.org 
  enblend  4.2.0p20161007-7  A tool for compositing images using a Burt&Adelson multiresolution spline  https://enblend.sourceforge.net/ 
- enchant  2.8.12  Wraps a number of different spelling libraries and programs with a consistent interface  https://rrthomas.github.io/enchant/ 
- enchant-static  2.8.12  Static libraries for enchant  https://rrthomas.github.io/enchant/ 
- enscript  1.6.6-12  Enscript converts ASCII text files to PostScript, HTML, RTF, ANSI and overstrikes  https://www.gnu.org/software/enscript/ 
- entr  5.7  Event Notify Test Runner - run arbitrary commands when files change  https://eradman.com/entrproject/ 
- erlang  28.0.2  General-purpose concurrent functional programming language  https://www.erlang.org/ 
- erlang-doc  28.0.2  Erlang HTML documentation  https://www.erlang.org/ 
+ enchant  2.8.12-1  Wraps a number of different spelling libraries and programs with a consistent interface  https://rrthomas.github.io/enchant/ 
+ enchant-static  2.8.12-1  Static libraries for enchant  https://rrthomas.github.io/enchant/ 
+ enscript  1.6.6-13  Enscript converts ASCII text files to PostScript, HTML, RTF, ANSI and overstrikes  https://www.gnu.org/software/enscript/ 
+ entr  5.7-1  Event Notify Test Runner - run arbitrary commands when files change  https://eradman.com/entrproject/ 
+ erlang  28.0.2-1  General-purpose concurrent functional programming language  https://www.erlang.org/ 
+ erlang-doc  28.0.2-1  Erlang HTML documentation  https://www.erlang.org/ 
  esbuild  0.25.9  An extremely fast JavaScript bundler  https://esbuild.github.io/ 
- espeak  1.52.0  Compact software speech synthesizer  https://github.com/espeak-ng/espeak-ng 
- espeak-static  1.52.0  Static libraries for espeak  https://github.com/espeak-ng/espeak-ng 
+ espeak  1.52.0-1  Compact software speech synthesizer  https://github.com/espeak-ng/espeak-ng 
+ espeak-static  1.52.0-1  Static libraries for espeak  https://github.com/espeak-ng/espeak-ng 
  et  6.2.11-1  A remote shell that automatically reconnects without interrupting the session  https://eternalterminal.dev 
- etsh  5.4.0  An enhanced, backward-compatible port of Thompson Shell  https://etsh.nl 
+ etsh  5.4.0-1  An enhanced, backward-compatible port of Thompson Shell  https://etsh.nl 
  exercism  3.5.7-1  A Go based command line tool for exercism.io  https://github.com/exercism/cli/ 
- exfatprogs  1.2.9  exFAT filesystem userspace utilities  https://github.com/exfatprogs/exfatprogs 
- exhale  1.2.1.2  Open source xHE-AAC encoder  https://gitlab.com/ecodis/exhale 
+ exfatprogs  1.2.9-1  exFAT filesystem userspace utilities  https://github.com/exfatprogs/exfatprogs 
+ exhale  1.2.1.2-1  Open source xHE-AAC encoder  https://gitlab.com/ecodis/exhale 
  exiftool  13.35  Utility for reading, writing and editing meta information in a wide variety of files.  https://exiftool.org/ 
  exiv2  2:0.28.7  Exif, Iptc and XMP metadata manipulation library and tools  https://exiv2.org/ 
- expect  5.45.4-3  Tool for automating interactive terminal applications  https://core.tcl.tk/expect/index 
+ expect  5.45.4-4  Tool for automating interactive terminal applications  https://core.tcl.tk/expect/index 
  eza  0.23.2  A modern replacement for ls  https://github.com/eza-community/eza 
- fact++  1.6.5-2  Re-implementation of the well-known FaCT Description Logic (DL) Reasoner  https://bitbucket.org/dtsarkov/factplusplus 
- fakeroot  1.37.1.2  Tool for simulating superuser privileges (with tcp ipc)  https://packages.qa.debian.org/f/fakeroot.html 
- fakeroot-static  1.37.1.2  Static libraries for fakeroot  https://packages.qa.debian.org/f/fakeroot.html 
+ fact++  1.6.5-3  Re-implementation of the well-known FaCT Description Logic (DL) Reasoner  https://bitbucket.org/dtsarkov/factplusplus 
+ fakeroot  1.37.1.2-1  Tool for simulating superuser privileges (with tcp ipc)  https://packages.qa.debian.org/f/fakeroot.html 
+ fakeroot-static  1.37.1.2-1  Static libraries for fakeroot  https://packages.qa.debian.org/f/fakeroot.html 
  fasd  1.0.2  To fastly access files and folders  https://github.com/whjvenyl/fasd 
  fastfetch  2.52.0-1  A maintained, feature-rich and performance oriented, neofetch like system information tool  https://github.com/fastfetch-cli/fastfetch 
- fastmod  0.4.4  Regex-based code refactoring utility  https://github.com/facebookincubator/fastmod 
- fatsort  1.6.5.640  A C utility that sorts FAT12, FAT16, FAT32 and exFAT partitions  https://fatsort.sourceforge.io/ 
- faust  2.81.2  A functional programming language for signal processing and sound synthesis  https://github.com/grame-cncm/faust 
- faust-static  2.81.2  Static libraries for faust  https://github.com/grame-cncm/faust 
- faustlibraries  2.81.2  Faust DSP libraries  https://github.com/grame-cncm/faust 
- fclones  0.35.0  Efficient Duplicate File Finder  https://github.com/pkolaczk/fclones 
+ fastmod  0.4.4-1  Regex-based code refactoring utility  https://github.com/facebookincubator/fastmod 
+ fatsort  1.6.5.640-1  A C utility that sorts FAT12, FAT16, FAT32 and exFAT partitions  https://fatsort.sourceforge.io/ 
+ faust  2.81.2-1  A functional programming language for signal processing and sound synthesis  https://github.com/grame-cncm/faust 
+ faust-static  2.81.2-1  Static libraries for faust  https://github.com/grame-cncm/faust 
+ faustlibraries  2.81.2-1  Faust DSP libraries  https://github.com/grame-cncm/faust 
+ fclones  0.35.0-1  Efficient Duplicate File Finder  https://github.com/pkolaczk/fclones 
  fcp  0.2.1-1  A significantly faster alternative to the classic Unix cp(1) command  https://github.com/Svetlitski/fcp 
  fd  10.3.0-1  Simple, fast and user-friendly alternative to find  https://github.com/sharkdp/fd 
  fdisk  2.40.2-5  Utilities to manipulate disk partition tables  https://en.wikipedia.org/wiki/Util-linux 
  fdkaac  1.0.6  command line encoder frontend for libfdk-aac  https://github.com/nu774/fdkaac 
  fdm  2.2  A program designed to fetch mail from POP3 or IMAP servers, or receive local mail from stdin, and deliver it in various ways  https://github.com/nicm/fdm 
- fdroidcl  0.8.1  F-Droid client  https://github.com/mvdan/fdroidcl 
- fdupes  2.4.0  Duplicates file detector  https://github.com/adrianlopezroche/fdupes 
+ fdroidcl  0.8.1-1  F-Droid client  https://github.com/mvdan/fdroidcl 
+ fdupes  2.4.0-1  Duplicates file detector  https://github.com/adrianlopezroche/fdupes 
  fennel  1.5.3  A Lisp that compiles to Lua  https://fennel-lang.org 
  feroxbuster  2.12.0  A fast, simple, recursive content discovery tool written in Rust  https://github.com/epi052/feroxbuster 
- fetchmail  6.5.4  A remote-mail retrieval utility  https://www.fetchmail.info/ 
- fetchmailconf  6.5.4  A GUI configurator for generating fetchmail configuration files  https://www.fetchmail.info/ 
+ fetchmail  6.5.4-1  A remote-mail retrieval utility  https://www.fetchmail.info/ 
+ fetchmailconf  6.5.4-1  A GUI configurator for generating fetchmail configuration files  https://www.fetchmail.info/ 
  fff  2.2  A simple file manager written in bash  https://github.com/dylanaraps/fff 
  ffmpeg  7.1.1-6  Tools and libraries to manipulate a wide range of multimedia formats and protocols  https://ffmpeg.org 
- ffmpegthumbnailer  2.2.3-p20240913-1  Lightweight video thumbnailer that can be used by file managers  https://github.com/dirkvdb/ffmpegthumbnailer 
- ffsend  0.2.77-1  A fully featured Firefox Send client  https://gitlab.com/timvisee/ffsend 
+ ffmpegthumbnailer  2.2.3-p20240913-2  Lightweight video thumbnailer that can be used by file managers  https://github.com/dirkvdb/ffmpegthumbnailer 
+ ffsend  0.2.77-2  A fully featured Firefox Send client  https://gitlab.com/timvisee/ffsend 
  fftw  3.3.10-4  Library for computing the Discrete Fourier Transform (DFT) in one or more dimensions  http://www.fftw.org/ 
  fftw-static  3.3.10-4  Static libraries for fftw  http://www.fftw.org/ 
- figlet  2.2.5-2  Program for making large letters out of ordinary text  http://www.figlet.org/ 
- file  5.46-1  Command-line tool that tells you in words what kind of data a file contains  https://darwinsys.com/file/ 
- file-static  5.46-1  Static libraries for file  https://darwinsys.com/file/ 
- finch  2.14.14-1  Text-based multi-protocol instant messaging client  https://pidgin.im/ 
- finch-static  2.14.14-1  Static libraries for finch  https://pidgin.im/ 
- findomain  10.0.1  Findomain is the fastest subdomain enumerator and the only one written in Rust  https://findomain.app/ 
+ figlet  2.2.5-3  Program for making large letters out of ordinary text  http://www.figlet.org/ 
+ file  5.46-2  Command-line tool that tells you in words what kind of data a file contains  https://darwinsys.com/file/ 
+ file-static  5.46-2  Static libraries for file  https://darwinsys.com/file/ 
+ finch  2.14.14-2  Text-based multi-protocol instant messaging client  https://pidgin.im/ 
+ finch-static  2.14.14-2  Static libraries for finch  https://pidgin.im/ 
+ findomain  10.0.1-1  Findomain is the fastest subdomain enumerator and the only one written in Rust  https://findomain.app/ 
  findutils  4.10.0-1  Utilities to find files meeting specified criteria and perform various actions on the files which are found  https://www.gnu.org/software/findutils/ 
  fish  4.0.2-3  The user-friendly command line shell  https://fishshell.com/ 
  flac  1.5.0  FLAC (Free Lossless Audio Codec) command-line tool  https://xiph.org/flac/ 
- flatbuffers  25.2.10  Memory Efficient Serialization Library  https://github.com/google/flatbuffers 
- flatbuffers-static  25.2.10  Static libraries for flatbuffers  https://github.com/google/flatbuffers 
- flex  2.6.4-3  Fast lexical analyser generator  https://github.com/westes/flex 
- flex-static  2.6.4-3  Static libraries for flex  https://github.com/westes/flex 
+ flatbuffers  25.2.10-1  Memory Efficient Serialization Library  https://github.com/google/flatbuffers 
+ flatbuffers-static  25.2.10-1  Static libraries for flatbuffers  https://github.com/google/flatbuffers 
+ flex  2.6.4-4  Fast lexical analyser generator  https://github.com/westes/flex 
+ flex-static  2.6.4-4  Static libraries for flex  https://github.com/westes/flex 
  fluidsynth  2.4.8  Software synthesizer based on the SoundFont 2 specifications  https://github.com/FluidSynth/fluidsynth 
- fm  1.1.0  A terminal based file manager  https://github.com/knipferrc/fm 
+ fm  1.1.0-1  A terminal based file manager  https://github.com/knipferrc/fm 
  fmt  1:11.2.0  Open-source formatting library for C++  https://fmt.dev/latest/index.html 
  fontconfig  2.17.1-1  Library for configuring and customizing font access  https://www.freedesktop.org/wiki/Software/fontconfig/ 
  fontconfig-static  2.17.1-1  Static libraries for fontconfig  https://www.freedesktop.org/wiki/Software/fontconfig/ 
  fontconfig-utils  2.17.1-1  Fontconfig binaries  https://www.freedesktop.org/wiki/Software/fontconfig/ 
  forestdb-dump  1.2-1  ForestDB dump tool  https://github.com/couchbase/forestdb 
- forgejo  12.0.1  Forgejo is a self-hosted lightweight software forge.  https://forgejo.org/ 
- fortune  1.2-1  Revealer of fortunes  https://www.fefe.de/fortune/ 
+ forgejo  12.0.1-1  Forgejo is a self-hosted lightweight software forge.  https://forgejo.org/ 
+ fortune  1.2-2  Revealer of fortunes  https://www.fefe.de/fortune/ 
  fossil  2.26  DSCM with built-in wiki, http interface and server, tickets database  https://www.fossil-scm.org 
- freecolor  0.9.3  Freecolor is a replacement for Linux that displays free memory graphically  http://rkeene.org/oss/freecolor/ 
- freeimage  3.18.0-6  The library project for developers who would like to support popular graphics image formats  https://freeimage.sourceforge.io 
- freeimage-static  3.18.0-6  Static libraries for freeimage  https://freeimage.sourceforge.io 
+ freecolor  0.9.3-1  Freecolor is a replacement for Linux that displays free memory graphically  http://rkeene.org/oss/freecolor/ 
+ freeimage  3.18.0-7  The library project for developers who would like to support popular graphics image formats  https://freeimage.sourceforge.io 
+ freeimage-static  3.18.0-7  Static libraries for freeimage  https://freeimage.sourceforge.io 
  freetype  2.14.0  Software font engine capable of producing high-quality output  https://www.freetype.org 
  freetype-static  2.14.0  Static libraries for freetype  https://www.freetype.org 
  frei0r-plugins  2.4.0  Minimalistic plugin API for video effects  https://www.dyne.org/software/frei0r/ 
  fribidi  1.0.16-1  Implementation of the Unicode Bidirectional Algorithm  https://github.com/fribidi/fribidi/ 
  fribidi-static  1.0.16-1  Static libraries for fribidi  https://github.com/fribidi/fribidi/ 
- frobtads  2.0-3  TADS is a free authoring system for writing your own Interactive Fiction  http://www.tads.org/frobtads.htm 
- frogcomposband  7.1.salmiak-1  Open world Angband variant with many additions  https://github.com/sulkasormi/frogcomposband/ 
- frotz  2.55  Interpreter for Infocom and other Z-machine interactive fiction (IF) games  https://gitlab.com/DavidGriffith/frotz 
+ frobtads  2.0-4  TADS is a free authoring system for writing your own Interactive Fiction  http://www.tads.org/frobtads.htm 
+ frogcomposband  7.1.salmiak-2  Open world Angband variant with many additions  https://github.com/sulkasormi/frogcomposband/ 
+ frotz  2.55-1  Interpreter for Infocom and other Z-machine interactive fiction (IF) games  https://gitlab.com/DavidGriffith/frotz 
  frp  0.64.0  A fast reverse proxy to expose a local server behind a NAT or firewall to the internet  https://github.com/fatedier/frp 
- fselect  0.9.0  Find files with SQL-like queries  https://fselect.rocks/ 
- fsmon  1.8.8  Filesystem monitor with fanotify and inotify backends  https://github.com/nowsecure/fsmon 
- fwknop  2.6.11  fwknop: Single Packet Authorization > Port Knocking  https://www.cipherdyne.org/fwknop/ 
- fwknop-static  2.6.11  Static libraries for fwknop  https://www.cipherdyne.org/fwknop/ 
+ fselect  0.9.0-1  Find files with SQL-like queries  https://fselect.rocks/ 
+ fsmon  1.8.8-1  Filesystem monitor with fanotify and inotify backends  https://github.com/nowsecure/fsmon 
+ fwknop  2.6.11-1  fwknop: Single Packet Authorization > Port Knocking  https://www.cipherdyne.org/fwknop/ 
+ fwknop-static  2.6.11-1  Static libraries for fwknop  https://www.cipherdyne.org/fwknop/ 
  fx  39.1.0  Interactive JSON viewer on your terminal  https://github.com/antonmedv/fx 
  fzf  0.65.2  Command-line fuzzy finder  https://junegunn.github.io/fzf/ 
- fzy  1.1  A simple, fast fuzzy finder for the terminal  https://github.com/jhawthorn/fzy 
+ fzy  1.1-1  A simple, fast fuzzy finder for the terminal  https://github.com/jhawthorn/fzy 
  g-ir-scanner  1.84.0  A tool which generates GIR XML files  https://gi.readthedocs.io/ 
  game-music-emu  0.6.4  A collection of video game music file emulators  https://bitbucket.org/mpyne/game-music-emu/wiki/Home 
  game-music-emu-static  0.6.4  Static libraries for game-music-emu  https://bitbucket.org/mpyne/game-music-emu/wiki/Home 
@@ -516,9 +516,9 @@
  gawk  5.3.1-2  Programming language designed for text processing  https://www.gnu.org/software/gawk/ 
  gawk-static  5.3.1-2  Static libraries for gawk  https://www.gnu.org/software/gawk/ 
  gbt  2.0.0-6  Highly configurable prompt builder for Bash and ZSH written in Go  https://github.com/jtyr/gbt 
- gcab  1.6  GObject library to create cabinet files  https://gitlab.gnome.org/GNOME/gcab 
- gcal  4.1-3  Program for calculating and printing calendars  https://www.gnu.org/software/gcal/ 
- gdal  3.11.3  A translator library for raster and vector geospatial data formats  https://gdal.org 
+ gcab  1.6-1  GObject library to create cabinet files  https://gitlab.gnome.org/GNOME/gcab 
+ gcal  4.1-4  Program for calculating and printing calendars  https://www.gnu.org/software/gcal/ 
+ gdal  3.11.3-1  A translator library for raster and vector geospatial data formats  https://gdal.org 
  gdb  15.2  The standard GNU Debugger that runs on many Unix-like systems and works for many programming languages  https://www.gnu.org/software/gdb/ 
  gdbm  1.26-1  Library of database functions that use extensible hashing  https://www.gnu.org.ua/software/gdbm/ 
  gdbm-static  1.26-1  Static libraries for gdbm  https://www.gnu.org.ua/software/gdbm/ 
@@ -543,7 +543,7 @@
  gflags  2.2.2-9  A C++ library that implements commandline flags processing  https://github.com/gflags/gflags 
  gflags-static  2.2.2-9  Static libraries for gflags  https://github.com/gflags/gflags 
  gforth  0.7.3-1  The Forth implementation of the GNU project  https://www.gnu.org/software/gforth/ 
- gh  2.78.0  GitHub’s official command line tool  https://cli.github.com/ 
+ gh  2.79.0  GitHub’s official command line tool  https://cli.github.com/ 
  ghc  9.12.2  The Glasgow Haskell Compiler  https://www.haskell.org/ghc/ 
  ghostscript  10.05.1  Interpreter for the PostScript language and for PDF  https://www.ghostscript.com/ 
  giflib  5.2.2  A library for reading and writing gif images  https://giflib.sourceforge.net/ 
@@ -2661,7 +2661,7 @@
  zk  0.15.1  A plain text note-taking assistant  https://zk-org.github.io/zk/ 
  zlib  1.3.1-1  Compression library implementing the deflate compression method found in gzip and PKZIP  https://www.zlib.net/ 
  zlib-static  1.3.1-1  Static libraries for zlib  https://www.zlib.net/ 
- zls  0.14.0  Zig language server  https://github.com/zigtools/zls 
+ zls  0.15.0  Zig language server  https://github.com/zigtools/zls 
  znc  1.10.1  An advanced IRC bouncer  https://znc.in/ 
  zola  0.21.0  A fast static site generator in a single binary with everything built-in.  https://github.com/getzola/zola 
  zopfli  1.0.3-3  New zlib compatible compressor tools  https://github.com/google/zopfli 

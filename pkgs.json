@@ -1939,7 +1939,7 @@
   },
   {
     "Package": "direvent",
-    "Version": "5.4",
+    "Version": "5.4-1",
     "Description": "Monitor of events in file system directories",
     "Homepage": "https://www.gnu.org.ua/software/direvent/"
   },
@@ -1951,43 +1951,43 @@
   },
   {
     "Package": "diskus",
-    "Version": "0.8.0",
+    "Version": "0.8.0-1",
     "Description": "A minimal, fast alternative to du -sh",
     "Homepage": "https://github.com/sharkdp/diskus"
   },
   {
     "Package": "distant",
-    "Version": "1:0.20.0-2",
+    "Version": "1:0.20.0-3",
     "Description": "Library and tooling that supports remote filesystem and process",
     "Homepage": "https://github.com/chipsenkbeil/distant"
   },
   {
     "Package": "distcc",
-    "Version": "3.4-3",
+    "Version": "3.4-4",
     "Description": "Distributed C/C++ compiler",
     "Homepage": "http://distcc.org/"
   },
   {
     "Package": "djvulibre",
-    "Version": "3.5.29",
+    "Version": "3.5.29-1",
     "Description": "Suite to create, manipulate and view DjVu (déjà vu) documents",
     "Homepage": "https://djvu.sourceforge.net/"
   },
   {
     "Package": "djvulibre-static",
-    "Version": "3.5.29",
+    "Version": "3.5.29-1",
     "Description": "Static libraries for djvulibre",
     "Homepage": "https://djvu.sourceforge.net/"
   },
   {
     "Package": "dmagnetic",
-    "Version": "0.37",
+    "Version": "0.37-1",
     "Description": "Interpreter for classic text adventure games and interactive fiction",
     "Homepage": "https://dettus.net/dMagnetic"
   },
   {
     "Package": "dmtx-utils",
-    "Version": "0.7.6",
+    "Version": "0.7.6-1",
     "Description": "A command line interface for libdmtx",
     "Homepage": "https://github.com/dmtx/dmtx-utils"
   },
@@ -1999,37 +1999,37 @@
   },
   {
     "Package": "dnote",
-    "Version": "1:0.15.1",
+    "Version": "1:0.15.1-1",
     "Description": "A simple command line notebook for programmers",
     "Homepage": "https://www.getdnote.com/"
   },
   {
     "Package": "dnote-server",
-    "Version": "2.1.1-2",
+    "Version": "2.1.1-3",
     "Description": "This package contains the Dnote server. It comprises of the web interface, the web API, and the background jobs.",
     "Homepage": "https://www.getdnote.com/"
   },
   {
     "Package": "dns2tcp",
-    "Version": "0.5.2-1",
+    "Version": "0.5.2-2",
     "Description": "dns2tcp is a tool for relaying TCP connections over DNS",
     "Homepage": "https://github.com/alex-sector/dns2tcp"
   },
   {
     "Package": "dnslookup",
-    "Version": "1.11.1-1",
+    "Version": "1.11.1-2",
     "Description": "Simple command line utility to make DNS lookups. Supports all known DNS protocols: plain DNS, DoH, DoT, DoQ, DNSCrypt.",
     "Homepage": "https://github.com/ameshkov/dnslookup"
   },
   {
     "Package": "dnsmap",
-    "Version": "0.36-2",
+    "Version": "0.36-3",
     "Description": "Subdomain Bruteforcing Tool",
     "Homepage": "https://github.com/resurrecting-open-source-projects/dnsmap"
   },
   {
     "Package": "dnstop",
-    "Version": "2022.10.19",
+    "Version": "2022.10.19-1",
     "Description": "A libpcap application that displays various tables of DNS traffic on your network",
     "Homepage": "https://github.com/measurement-factory/dnstop"
   },
@@ -2053,13 +2053,13 @@
   },
   {
     "Package": "docopt",
-    "Version": "0.6.3-3",
+    "Version": "0.6.3-4",
     "Description": "Command line arguments parser for C++11 and later",
     "Homepage": "http://docopt.org"
   },
   {
     "Package": "docopt-static",
-    "Version": "0.6.3-3",
+    "Version": "0.6.3-4",
     "Description": "Static libraries for docopt",
     "Homepage": "http://docopt.org"
   },
@@ -2071,13 +2071,13 @@
   },
   {
     "Package": "doge",
-    "Version": "0.2.8-1",
+    "Version": "0.2.8-2",
     "Description": "A command-line DNS client",
     "Homepage": "https://github.com/Dj-Codeman/dog_community"
   },
   {
     "Package": "dopewars",
-    "Version": "1.6.2",
+    "Version": "1.6.2-1",
     "Description": "Drug-dealing game set in streets of New York City",
     "Homepage": "https://dopewars.sourceforge.io"
   },
@@ -2089,19 +2089,19 @@
   },
   {
     "Package": "dosfstools",
-    "Version": "4.2",
+    "Version": "4.2-1",
     "Description": "DOS file system utilities",
     "Homepage": "https://github.com/dosfstools/dosfstools"
   },
   {
     "Package": "dotconf",
-    "Version": "1.4.1",
+    "Version": "1.4.1-1",
     "Description": "dot.conf configuration file parser",
     "Homepage": "https://github.com/williamh/dotconf"
   },
   {
     "Package": "dotconf-static",
-    "Version": "1.4.1",
+    "Version": "1.4.1-1",
     "Description": "Static libraries for dotconf",
     "Homepage": "https://github.com/williamh/dotconf"
   },
@@ -2233,13 +2233,13 @@
   },
   {
     "Package": "double-conversion",
-    "Version": "3.3.1",
+    "Version": "3.3.1-1",
     "Description": "Binary-decimal and decimal-binary routines for IEEE doubles",
     "Homepage": "https://github.com/google/double-conversion"
   },
   {
     "Package": "doxygen",
-    "Version": "1.14.0",
+    "Version": "1.14.0-1",
     "Description": "A documentation system for C++, C, Java, IDL and PHP",
     "Homepage": "http://www.doxygen.org"
   },
@@ -2263,55 +2263,55 @@
   },
   {
     "Package": "draco",
-    "Version": "1.5.7",
+    "Version": "1.5.7-1",
     "Description": "Library for compressing and decompressing 3D geometric meshes and point clouds",
     "Homepage": "https://google.github.io/draco/"
   },
   {
     "Package": "draco-static",
-    "Version": "1.5.7",
+    "Version": "1.5.7-1",
     "Description": "Static libraries for draco",
     "Homepage": "https://google.github.io/draco/"
   },
   {
     "Package": "dropbear",
-    "Version": "2025.87-1",
+    "Version": "2025.87-2",
     "Description": "Small SSH server and client",
     "Homepage": "https://matt.ucc.asn.au/dropbear/dropbear.html"
   },
   {
     "Package": "dtach",
-    "Version": "0.9",
+    "Version": "0.9-1",
     "Description": "Emulates the detach feature of screen",
-    "Homepage": "http://dtach.sourceforge.net/"
+    "Homepage": "https://dtach.sourceforge.net/"
   },
   {
     "Package": "dtc",
-    "Version": "1.7.2",
+    "Version": "1.7.2-1",
     "Description": "Device Tree Compiler",
     "Homepage": "https://git.kernel.org/pub/scm/utils/dtc/dtc"
   },
   {
     "Package": "dtc-static",
-    "Version": "1.7.2",
+    "Version": "1.7.2-1",
     "Description": "Static libraries for dtc",
     "Homepage": "https://git.kernel.org/pub/scm/utils/dtc/dtc"
   },
   {
     "Package": "dte",
-    "Version": "1.11.1-1",
+    "Version": "1.11.1-2",
     "Description": "A small, configurable console text editor",
     "Homepage": "https://craigbarnes.gitlab.io/dte/"
   },
   {
     "Package": "dua",
-    "Version": "2.31.0",
+    "Version": "2.31.0-1",
     "Description": "View disk space usage and delete unwanted data, fast",
     "Homepage": "https://github.com/Byron/dua-cli"
   },
   {
     "Package": "duc",
-    "Version": "1.4.5",
+    "Version": "1.4.5-1",
     "Description": "High-performance disk usage analyzer",
     "Homepage": "http://duc.zevv.nl/"
   },
@@ -2341,25 +2341,25 @@
   },
   {
     "Package": "dust",
-    "Version": "1.2.3",
+    "Version": "1.2.3-1",
     "Description": "A more intuitive version of du in rust",
     "Homepage": "https://github.com/bootandy/dust"
   },
   {
     "Package": "dvdauthor",
-    "Version": "0.7.2-3",
+    "Version": "0.7.2-4",
     "Description": "Generates a DVD-Video movie from a valid MPEG-2 stream",
     "Homepage": "https://dvdauthor.sourceforge.net/"
   },
   {
     "Package": "dvtm",
-    "Version": "0.15-3",
+    "Version": "0.15-4",
     "Description": "Terminal tiling window manager",
     "Homepage": "https://github.com/martanne/dvtm"
   },
   {
     "Package": "dwarves",
-    "Version": "1.30",
+    "Version": "1.30-1",
     "Description": "Pahole and other DWARF utils",
     "Homepage": "https://git.kernel.org/cgit/devel/pahole/pahole.git/"
   },
@@ -2371,19 +2371,19 @@
   },
   {
     "Package": "e2fsprogs",
-    "Version": "1.47.3",
+    "Version": "1.47.3-1",
     "Description": "EXT 2/3/4 filesystem utilities",
     "Homepage": "https://e2fsprogs.sourceforge.net"
   },
   {
     "Package": "e2tools",
-    "Version": "0.1.2",
+    "Version": "0.1.2-1",
     "Description": "mtools analogue for ext2/3 filesystems",
     "Homepage": "https://github.com/e2tools/e2tools"
   },
   {
     "Package": "ebook-tools",
-    "Version": "0.2.2-2",
+    "Version": "0.2.2-3",
     "Description": "Tools for accessing and converting various ebook file formats",
     "Homepage": "https://sourceforge.net/projects/ebook-tools/"
   },
@@ -2401,19 +2401,19 @@
   },
   {
     "Package": "edbrowse",
-    "Version": "3.8.12",
+    "Version": "3.8.12-1",
     "Description": "Line based editor, browser, and mail client",
     "Homepage": "https://edbrowse.org/"
   },
   {
     "Package": "editorconfig-core-c",
-    "Version": "0.12.9",
+    "Version": "0.12.9-1",
     "Description": "EditorConfig core code written in C (for use by plugins supporting EditorConfig parsing)",
     "Homepage": "https://editorconfig.org/"
   },
   {
     "Package": "editorconfig-core-c-static",
-    "Version": "0.12.9",
+    "Version": "0.12.9-1",
     "Description": "Static libraries for editorconfig-core-c",
     "Homepage": "https://editorconfig.org/"
   },
@@ -2425,19 +2425,19 @@
   },
   {
     "Package": "eja",
-    "Version": "18.4.19",
+    "Version": "18.4.19-1",
     "Description": "eja micro web server",
     "Homepage": "https://github.com/eja/eja"
   },
   {
     "Package": "electric-fence",
-    "Version": "2.2.7",
+    "Version": "2.2.7-1",
     "Description": "Electric Fence (eFence) malloc memory debugger",
     "Homepage": "https://elinux.org/Electric_Fence"
   },
   {
     "Package": "electric-fence-static",
-    "Version": "2.2.7",
+    "Version": "2.2.7-1",
     "Description": "Static libraries for electric-fence",
     "Homepage": "https://elinux.org/Electric_Fence"
   },
@@ -2455,7 +2455,7 @@
   },
   {
     "Package": "elinks",
-    "Version": "0.18.0",
+    "Version": "0.18.0-1",
     "Description": "Full-Featured Text WWW Browser",
     "Homepage": "https://github.com/rkd77/elinks"
   },
@@ -2467,13 +2467,13 @@
   },
   {
     "Package": "eltclsh",
-    "Version": "1.20",
+    "Version": "1.20-1",
     "Description": "Interactive shell for TCL programming language",
     "Homepage": "https://homepages.laas.fr/mallet/soft/shell/eltclsh"
   },
   {
     "Package": "elvish",
-    "Version": "0.21.0",
+    "Version": "0.21.0-1",
     "Description": "A friendly and expressive Unix shell",
     "Homepage": "https://github.com/elves/elvish"
   },
@@ -2515,37 +2515,37 @@
   },
   {
     "Package": "enchant",
-    "Version": "2.8.12",
+    "Version": "2.8.12-1",
     "Description": "Wraps a number of different spelling libraries and programs with a consistent interface",
     "Homepage": "https://rrthomas.github.io/enchant/"
   },
   {
     "Package": "enchant-static",
-    "Version": "2.8.12",
+    "Version": "2.8.12-1",
     "Description": "Static libraries for enchant",
     "Homepage": "https://rrthomas.github.io/enchant/"
   },
   {
     "Package": "enscript",
-    "Version": "1.6.6-12",
+    "Version": "1.6.6-13",
     "Description": "Enscript converts ASCII text files to PostScript, HTML, RTF, ANSI and overstrikes",
     "Homepage": "https://www.gnu.org/software/enscript/"
   },
   {
     "Package": "entr",
-    "Version": "5.7",
+    "Version": "5.7-1",
     "Description": "Event Notify Test Runner - run arbitrary commands when files change",
     "Homepage": "https://eradman.com/entrproject/"
   },
   {
     "Package": "erlang",
-    "Version": "28.0.2",
+    "Version": "28.0.2-1",
     "Description": "General-purpose concurrent functional programming language",
     "Homepage": "https://www.erlang.org/"
   },
   {
     "Package": "erlang-doc",
-    "Version": "28.0.2",
+    "Version": "28.0.2-1",
     "Description": "Erlang HTML documentation",
     "Homepage": "https://www.erlang.org/"
   },
@@ -2557,13 +2557,13 @@
   },
   {
     "Package": "espeak",
-    "Version": "1.52.0",
+    "Version": "1.52.0-1",
     "Description": "Compact software speech synthesizer",
     "Homepage": "https://github.com/espeak-ng/espeak-ng"
   },
   {
     "Package": "espeak-static",
-    "Version": "1.52.0",
+    "Version": "1.52.0-1",
     "Description": "Static libraries for espeak",
     "Homepage": "https://github.com/espeak-ng/espeak-ng"
   },
@@ -2575,7 +2575,7 @@
   },
   {
     "Package": "etsh",
-    "Version": "5.4.0",
+    "Version": "5.4.0-1",
     "Description": "An enhanced, backward-compatible port of Thompson Shell",
     "Homepage": "https://etsh.nl"
   },
@@ -2587,13 +2587,13 @@
   },
   {
     "Package": "exfatprogs",
-    "Version": "1.2.9",
+    "Version": "1.2.9-1",
     "Description": "exFAT filesystem userspace utilities",
     "Homepage": "https://github.com/exfatprogs/exfatprogs"
   },
   {
     "Package": "exhale",
-    "Version": "1.2.1.2",
+    "Version": "1.2.1.2-1",
     "Description": "Open source xHE-AAC encoder",
     "Homepage": "https://gitlab.com/ecodis/exhale"
   },
@@ -2611,7 +2611,7 @@
   },
   {
     "Package": "expect",
-    "Version": "5.45.4-3",
+    "Version": "5.45.4-4",
     "Description": "Tool for automating interactive terminal applications",
     "Homepage": "https://core.tcl.tk/expect/index"
   },
@@ -2623,19 +2623,19 @@
   },
   {
     "Package": "fact++",
-    "Version": "1.6.5-2",
+    "Version": "1.6.5-3",
     "Description": "Re-implementation of the well-known FaCT Description Logic (DL) Reasoner",
     "Homepage": "https://bitbucket.org/dtsarkov/factplusplus"
   },
   {
     "Package": "fakeroot",
-    "Version": "1.37.1.2",
+    "Version": "1.37.1.2-1",
     "Description": "Tool for simulating superuser privileges (with tcp ipc)",
     "Homepage": "https://packages.qa.debian.org/f/fakeroot.html"
   },
   {
     "Package": "fakeroot-static",
-    "Version": "1.37.1.2",
+    "Version": "1.37.1.2-1",
     "Description": "Static libraries for fakeroot",
     "Homepage": "https://packages.qa.debian.org/f/fakeroot.html"
   },
@@ -2653,37 +2653,37 @@
   },
   {
     "Package": "fastmod",
-    "Version": "0.4.4",
+    "Version": "0.4.4-1",
     "Description": "Regex-based code refactoring utility",
     "Homepage": "https://github.com/facebookincubator/fastmod"
   },
   {
     "Package": "fatsort",
-    "Version": "1.6.5.640",
+    "Version": "1.6.5.640-1",
     "Description": "A C utility that sorts FAT12, FAT16, FAT32 and exFAT partitions",
     "Homepage": "https://fatsort.sourceforge.io/"
   },
   {
     "Package": "faust",
-    "Version": "2.81.2",
+    "Version": "2.81.2-1",
     "Description": "A functional programming language for signal processing and sound synthesis",
     "Homepage": "https://github.com/grame-cncm/faust"
   },
   {
     "Package": "faust-static",
-    "Version": "2.81.2",
+    "Version": "2.81.2-1",
     "Description": "Static libraries for faust",
     "Homepage": "https://github.com/grame-cncm/faust"
   },
   {
     "Package": "faustlibraries",
-    "Version": "2.81.2",
+    "Version": "2.81.2-1",
     "Description": "Faust DSP libraries",
     "Homepage": "https://github.com/grame-cncm/faust"
   },
   {
     "Package": "fclones",
-    "Version": "0.35.0",
+    "Version": "0.35.0-1",
     "Description": "Efficient Duplicate File Finder",
     "Homepage": "https://github.com/pkolaczk/fclones"
   },
@@ -2719,13 +2719,13 @@
   },
   {
     "Package": "fdroidcl",
-    "Version": "0.8.1",
+    "Version": "0.8.1-1",
     "Description": "F-Droid client",
     "Homepage": "https://github.com/mvdan/fdroidcl"
   },
   {
     "Package": "fdupes",
-    "Version": "2.4.0",
+    "Version": "2.4.0-1",
     "Description": "Duplicates file detector",
     "Homepage": "https://github.com/adrianlopezroche/fdupes"
   },
@@ -2743,13 +2743,13 @@
   },
   {
     "Package": "fetchmail",
-    "Version": "6.5.4",
+    "Version": "6.5.4-1",
     "Description": "A remote-mail retrieval utility",
     "Homepage": "https://www.fetchmail.info/"
   },
   {
     "Package": "fetchmailconf",
-    "Version": "6.5.4",
+    "Version": "6.5.4-1",
     "Description": "A GUI configurator for generating fetchmail configuration files",
     "Homepage": "https://www.fetchmail.info/"
   },
@@ -2767,13 +2767,13 @@
   },
   {
     "Package": "ffmpegthumbnailer",
-    "Version": "2.2.3-p20240913-1",
+    "Version": "2.2.3-p20240913-2",
     "Description": "Lightweight video thumbnailer that can be used by file managers",
     "Homepage": "https://github.com/dirkvdb/ffmpegthumbnailer"
   },
   {
     "Package": "ffsend",
-    "Version": "0.2.77-1",
+    "Version": "0.2.77-2",
     "Description": "A fully featured Firefox Send client",
     "Homepage": "https://gitlab.com/timvisee/ffsend"
   },
@@ -2791,37 +2791,37 @@
   },
   {
     "Package": "figlet",
-    "Version": "2.2.5-2",
+    "Version": "2.2.5-3",
     "Description": "Program for making large letters out of ordinary text",
     "Homepage": "http://www.figlet.org/"
   },
   {
     "Package": "file",
-    "Version": "5.46-1",
+    "Version": "5.46-2",
     "Description": "Command-line tool that tells you in words what kind of data a file contains",
     "Homepage": "https://darwinsys.com/file/"
   },
   {
     "Package": "file-static",
-    "Version": "5.46-1",
+    "Version": "5.46-2",
     "Description": "Static libraries for file",
     "Homepage": "https://darwinsys.com/file/"
   },
   {
     "Package": "finch",
-    "Version": "2.14.14-1",
+    "Version": "2.14.14-2",
     "Description": "Text-based multi-protocol instant messaging client",
     "Homepage": "https://pidgin.im/"
   },
   {
     "Package": "finch-static",
-    "Version": "2.14.14-1",
+    "Version": "2.14.14-2",
     "Description": "Static libraries for finch",
     "Homepage": "https://pidgin.im/"
   },
   {
     "Package": "findomain",
-    "Version": "10.0.1",
+    "Version": "10.0.1-1",
     "Description": "Findomain is the fastest subdomain enumerator and the only one written in Rust",
     "Homepage": "https://findomain.app/"
   },
@@ -2845,25 +2845,25 @@
   },
   {
     "Package": "flatbuffers",
-    "Version": "25.2.10",
+    "Version": "25.2.10-1",
     "Description": "Memory Efficient Serialization Library",
     "Homepage": "https://github.com/google/flatbuffers"
   },
   {
     "Package": "flatbuffers-static",
-    "Version": "25.2.10",
+    "Version": "25.2.10-1",
     "Description": "Static libraries for flatbuffers",
     "Homepage": "https://github.com/google/flatbuffers"
   },
   {
     "Package": "flex",
-    "Version": "2.6.4-3",
+    "Version": "2.6.4-4",
     "Description": "Fast lexical analyser generator",
     "Homepage": "https://github.com/westes/flex"
   },
   {
     "Package": "flex-static",
-    "Version": "2.6.4-3",
+    "Version": "2.6.4-4",
     "Description": "Static libraries for flex",
     "Homepage": "https://github.com/westes/flex"
   },
@@ -2875,7 +2875,7 @@
   },
   {
     "Package": "fm",
-    "Version": "1.1.0",
+    "Version": "1.1.0-1",
     "Description": "A terminal based file manager",
     "Homepage": "https://github.com/knipferrc/fm"
   },
@@ -2911,13 +2911,13 @@
   },
   {
     "Package": "forgejo",
-    "Version": "12.0.1",
+    "Version": "12.0.1-1",
     "Description": "Forgejo is a self-hosted lightweight software forge.",
     "Homepage": "https://forgejo.org/"
   },
   {
     "Package": "fortune",
-    "Version": "1.2-1",
+    "Version": "1.2-2",
     "Description": "Revealer of fortunes",
     "Homepage": "https://www.fefe.de/fortune/"
   },
@@ -2929,19 +2929,19 @@
   },
   {
     "Package": "freecolor",
-    "Version": "0.9.3",
+    "Version": "0.9.3-1",
     "Description": "Freecolor is a replacement for Linux that displays free memory graphically",
     "Homepage": "http://rkeene.org/oss/freecolor/"
   },
   {
     "Package": "freeimage",
-    "Version": "3.18.0-6",
+    "Version": "3.18.0-7",
     "Description": "The library project for developers who would like to support popular graphics image formats",
     "Homepage": "https://freeimage.sourceforge.io"
   },
   {
     "Package": "freeimage-static",
-    "Version": "3.18.0-6",
+    "Version": "3.18.0-7",
     "Description": "Static libraries for freeimage",
     "Homepage": "https://freeimage.sourceforge.io"
   },
@@ -2977,19 +2977,19 @@
   },
   {
     "Package": "frobtads",
-    "Version": "2.0-3",
+    "Version": "2.0-4",
     "Description": "TADS is a free authoring system for writing your own Interactive Fiction",
     "Homepage": "http://www.tads.org/frobtads.htm"
   },
   {
     "Package": "frogcomposband",
-    "Version": "7.1.salmiak-1",
+    "Version": "7.1.salmiak-2",
     "Description": "Open world Angband variant with many additions",
     "Homepage": "https://github.com/sulkasormi/frogcomposband/"
   },
   {
     "Package": "frotz",
-    "Version": "2.55",
+    "Version": "2.55-1",
     "Description": "Interpreter for Infocom and other Z-machine interactive fiction (IF) games",
     "Homepage": "https://gitlab.com/DavidGriffith/frotz"
   },
@@ -3001,25 +3001,25 @@
   },
   {
     "Package": "fselect",
-    "Version": "0.9.0",
+    "Version": "0.9.0-1",
     "Description": "Find files with SQL-like queries",
     "Homepage": "https://fselect.rocks/"
   },
   {
     "Package": "fsmon",
-    "Version": "1.8.8",
+    "Version": "1.8.8-1",
     "Description": "Filesystem monitor with fanotify and inotify backends",
     "Homepage": "https://github.com/nowsecure/fsmon"
   },
   {
     "Package": "fwknop",
-    "Version": "2.6.11",
+    "Version": "2.6.11-1",
     "Description": "fwknop: Single Packet Authorization > Port Knocking",
     "Homepage": "https://www.cipherdyne.org/fwknop/"
   },
   {
     "Package": "fwknop-static",
-    "Version": "2.6.11",
+    "Version": "2.6.11-1",
     "Description": "Static libraries for fwknop",
     "Homepage": "https://www.cipherdyne.org/fwknop/"
   },
@@ -3037,7 +3037,7 @@
   },
   {
     "Package": "fzy",
-    "Version": "1.1",
+    "Version": "1.1-1",
     "Description": "A simple, fast fuzzy finder for the terminal",
     "Homepage": "https://github.com/jhawthorn/fzy"
   },
@@ -3109,19 +3109,19 @@
   },
   {
     "Package": "gcab",
-    "Version": "1.6",
+    "Version": "1.6-1",
     "Description": "GObject library to create cabinet files",
     "Homepage": "https://gitlab.gnome.org/GNOME/gcab"
   },
   {
     "Package": "gcal",
-    "Version": "4.1-3",
+    "Version": "4.1-4",
     "Description": "Program for calculating and printing calendars",
     "Homepage": "https://www.gnu.org/software/gcal/"
   },
   {
     "Package": "gdal",
-    "Version": "3.11.3",
+    "Version": "3.11.3-1",
     "Description": "A translator library for raster and vector geospatial data formats",
     "Homepage": "https://gdal.org"
   },
@@ -3271,7 +3271,7 @@
   },
   {
     "Package": "gh",
-    "Version": "2.78.0",
+    "Version": "2.79.0",
     "Description": "GitHub’s official command line tool",
     "Homepage": "https://cli.github.com/"
   },
@@ -15979,7 +15979,7 @@
   },
   {
     "Package": "zls",
-    "Version": "0.14.0",
+    "Version": "0.15.0",
     "Description": "Zig language server",
     "Homepage": "https://github.com/zigtools/zls"
   },
