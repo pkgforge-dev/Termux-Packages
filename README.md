@@ -202,7 +202,7 @@
 | **capnproto** | 1.2.0 | Data interchange format and capability-based RPC system | https://capnproto.org/ |
 | **capstone** | 5.0.6 | Lightweight multi-platform, multi-architecture disassembly framework | https://www.capstone-engine.org/ |
 | **capstone-static** | 5.0.6 | Static libraries for capstone | https://www.capstone-engine.org/ |
-| **carapace** | 1.4.1 | Multi-shell multi-command argument completer | https://carapace.sh/ |
+| **carapace** | 1.5.0 | Multi-shell multi-command argument completer | https://carapace.sh/ |
 | **cargo-c** | 0.10.15-1 | Cargo C-ABI helpers | https://github.com/lu-zero/cargo-c |
 | **catdoc** | 0.95-1 | Program which reads MS-Word file and prints readable ASCII text to stdout | http://www.wagner.pp.ru/~vitus/software/catdoc/ |
 | **catgirl** | 2.2a | A TLS-only terminal IRC client | https://git.causal.agency/catgirl |
@@ -397,7 +397,7 @@
 | **dua** | 2.31.0 | View disk space usage and delete unwanted data, fast | https://github.com/Byron/dua-cli |
 | **duc** | 1.4.5 | High-performance disk usage analyzer | http://duc.zevv.nl/ |
 | **duckdb** | 1.3.2 | DuckDB Command Line Interface (CLI) shell | https://duckdb.org/ |
-| **duf** | 0.9.0 | Disk usage/free utility | https://github.com/muesli/duf |
+| **duf** | 0.9.1 | Disk usage/free utility | https://github.com/muesli/duf |
 | **dufs** | 0.45.0 | A file server that supports static serving, uploading, searching, accessing control, webdav... | https://github.com/sigoden/dufs |
 | **duktape** | 2.7.0-1 | Simple REPL for Duktape | https://www.duktape.org/ |
 | **dust** | 1.2.3 | A more intuitive version of du in rust | https://github.com/bootandy/dust |
@@ -771,8 +771,8 @@
 | **jack-example-tools** | 4 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-1 | The JACK low-latency audio server | https://jackaudio.org/ |
 | **jackett** | 0.22.2441 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
-| **jadx** | 1.5.2 | Dex to Java decompiler | https://github.com/skylot/jadx |
-| **jadx-x** | 1.5.2 | Dex to Java decompiler GUI | https://github.com/skylot/jadx |
+| **jadx** | 1.5.3 | Dex to Java decompiler | https://github.com/skylot/jadx |
+| **jadx-x** | 1.5.3 | Dex to Java decompiler GUI | https://github.com/skylot/jadx |
 | **janet** | 1.39.1 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
 | **jbig2dec** | 0.20-1 | Decoder implementation of the JBIG2 image compression format | https://jbig2dec.com/ |
 | **jbig2dec-static** | 0.20-1 | Static libraries for jbig2dec | https://jbig2dec.com/ |
@@ -1968,7 +1968,7 @@
 | **pkg-config** | 0.29.2-2 | Helper tool used when compiling applications and libraries | https://www.freedesktop.org/wiki/Software/pkg-config/ |
 | **pkgfile** | 25 | An alpm .files metadata explorer | https://github.com/falconindy/pkgfile |
 | **pkgtop** | 2.5.1 | Interactive package manager and resource monitor | https://github.com/orhun/pkgtop |
-| **plantuml** | 1.2025.6 | Draws UML diagrams, using a simple and human readable text description | https://plantuml.com/ |
+| **plantuml** | 1.2025.7 | Draws UML diagrams, using a simple and human readable text description | https://plantuml.com/ |
 | **play-audio** | 0.6-1 | Simple command line audio player for Android | https://github.com/termux/play-audio |
 | **plutolang** | 0.11.3 | A superset of Lua 5.4 with a focus on general-purpose programming. | https://plutolang.github.io/ |
 | **plzip** | 1.12 | A massively parallel lossless data compressor based on the lzlib compression library | https://www.nongnu.org/lzip/plzip.html |
@@ -2656,7 +2656,7 @@
 | **yazi** | 25.5.31-1 | Blazing fast terminal file manager written in Rust, based on async I/O | https://yazi-rs.github.io/ |
 | **yosys** | 0.56-1 | A framework for RTL synthesis tools | https://yosyshq.net/yosys/ |
 | **youtubedr** | 2.10.4 | Download youtube video in Golang | https://github.com/kkdai/youtube |
-| **yq** | 4.47.1-2 | A lightweight and portable command-line YAML, JSON and XML processor | https://mikefarah.gitbook.io/yq/ |
+| **yq** | 4.47.2 | A lightweight and portable command-line YAML, JSON and XML processor | https://mikefarah.gitbook.io/yq/ |
 | **ytfzf** | 2.6.2 | A POSIX script that helps you find Youtube videos (without API) | https://github.com/pystardust/ytfzf |
 | **ytui-music** | 2.0.0-beta-2 | Youtube client in terminal for music | https://github.com/sudipghimire533/ytui-music |
 | **yuma123** | 2.13-3 | Provides an opensource YANG API in C | https://yuma123.org/ |
