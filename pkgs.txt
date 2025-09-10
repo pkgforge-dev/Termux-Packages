@@ -537,8 +537,6 @@
  gettext  0.26-1  GNU Internationalization utilities  https://www.gnu.org/software/gettext/ 
  gettext-static  0.26-1  Static libraries for gettext  https://www.gnu.org/software/gettext/ 
  gexiv2  0.14.6-1  A GObject-based Exiv2 wrapper  https://wiki.gnome.org/Projects/gexiv2 
- gflags  2.2.2-9  A C++ library that implements commandline flags processing  https://github.com/gflags/gflags 
- gflags-static  2.2.2-9  Static libraries for gflags  https://github.com/gflags/gflags 
  gforth  0.7.3-1  The Forth implementation of the GNU project  https://www.gnu.org/software/gforth/ 
  gh  2.79.0  GitHub’s official command line tool  https://cli.github.com/ 
  ghc  9.12.2  The Glasgow Haskell Compiler  https://www.haskell.org/ghc/ 
@@ -2512,7 +2510,7 @@
  util-linux-static  2.40.2-5  Static libraries for util-linux  https://en.wikipedia.org/wiki/Util-linux 
  uucp  1.07-1  The standard UUCP package of the Free Software Foundation  https://www.airs.com/ian/uucp.html 
  uuid-utils  2.40.2-5  Utilities for handling universally unique identifiers  https://en.wikipedia.org/wiki/Util-linux 
- uv  0.8.15  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
+ uv  0.8.16  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
  uwsgi  2.0.30  uWSGI application server container  https://projects.unbit.it/uwsgi 
  v2ray  5.38.0  A platform for building proxies to bypass network restrictions  https://www.v2fly.org/ 
  valac  0.56.18  C# like language for the GObject system  https://wiki.gnome.org/Projects/Vala 

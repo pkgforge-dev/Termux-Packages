@@ -3234,18 +3234,6 @@
     "Homepage": "https://wiki.gnome.org/Projects/gexiv2"
   },
   {
-    "Package": "gflags",
-    "Version": "2.2.2-9",
-    "Description": "A C++ library that implements commandline flags processing",
-    "Homepage": "https://github.com/gflags/gflags"
-  },
-  {
-    "Package": "gflags-static",
-    "Version": "2.2.2-9",
-    "Description": "Static libraries for gflags",
-    "Homepage": "https://github.com/gflags/gflags"
-  },
-  {
     "Package": "gforth",
     "Version": "0.7.3-1",
     "Description": "The Forth implementation of the GNU project",
@@ -15085,7 +15073,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.8.15",
+    "Version": "0.8.16",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
