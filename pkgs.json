@@ -55,13 +55,13 @@
   },
   {
     "Package": "aapt",
-    "Version": "13.0.0.6-21",
+    "Version": "13.0.0.6-22",
     "Description": "Android Asset Packaging Tool",
     "Homepage": "https://elinux.org/Android_aapt"
   },
   {
     "Package": "aapt2",
-    "Version": "13.0.0.6-21",
+    "Version": "13.0.0.6-22",
     "Description": "AAPT2 (Android Asset Packaging Tool)",
     "Homepage": "https://elinux.org/Android_aapt"
   },
@@ -151,7 +151,7 @@
   },
   {
     "Package": "aidl",
-    "Version": "13.0.0.6-21",
+    "Version": "13.0.0.6-22",
     "Description": "Android Interface Definition Language (AIDL)",
     "Homepage": "https://elinux.org/Android_aapt"
   },
@@ -217,7 +217,7 @@
   },
   {
     "Package": "android-tools",
-    "Version": "35.0.2-4",
+    "Version": "35.0.2-5",
     "Description": "Android platform tools",
     "Homepage": "https://developer.android.com/"
   },
@@ -295,7 +295,7 @@
   },
   {
     "Package": "apache-orc",
-    "Version": "2.2.0-1",
+    "Version": "2.2.0-2",
     "Description": "Columnar storage for Hadoop workloads",
     "Homepage": "https://orc.apache.org/"
   },
@@ -2569,7 +2569,7 @@
   },
   {
     "Package": "et",
-    "Version": "6.2.11-1",
+    "Version": "6.2.11-2",
     "Description": "A remote shell that automatically reconnects without interrupting the session",
     "Homepage": "https://eternalterminal.dev"
   },
@@ -5185,7 +5185,7 @@
   },
   {
     "Package": "libarrow-cpp",
-    "Version": "21.0.0-2",
+    "Version": "21.0.0-3",
     "Description": "C++ libraries for Apache Arrow",
     "Homepage": "https://github.com/apache/arrow"
   },
@@ -6205,7 +6205,7 @@
   },
   {
     "Package": "libgrpc",
-    "Version": "1.74.1-1",
+    "Version": "1.74.1-2",
     "Description": "High performance, open source, general RPC framework that puts mobile and HTTP/2 first",
     "Homepage": "https://grpc.io/"
   },
@@ -7105,25 +7105,25 @@
   },
   {
     "Package": "libnats-c",
-    "Version": "3.10.1",
+    "Version": "3.10.1-1",
     "Description": "A C client for the NATS messaging system",
     "Homepage": "https://nats-io.github.io/nats.c/"
   },
   {
     "Package": "libnats-c-static",
-    "Version": "3.10.1",
+    "Version": "3.10.1-1",
     "Description": "Static libraries for libnats-c",
     "Homepage": "https://nats-io.github.io/nats.c/"
   },
   {
     "Package": "libncnn",
-    "Version": "20250503-1",
+    "Version": "20250503-2",
     "Description": "A high-performance neural network inference framework optimized for the mobile platform",
     "Homepage": "https://github.com/Tencent/ncnn"
   },
   {
     "Package": "libncnn-static",
-    "Version": "20250503-1",
+    "Version": "20250503-2",
     "Description": "Static libraries for libncnn",
     "Homepage": "https://github.com/Tencent/ncnn"
   },
@@ -7441,13 +7441,13 @@
   },
   {
     "Package": "libosmpbf",
-    "Version": "1.5.1-1",
+    "Version": "1.5.1-2",
     "Description": "osmpbf is a Java/C library to read and write OpenStreetMap PBF files",
     "Homepage": "https://github.com/openstreetmap/OSM-binary/"
   },
   {
     "Package": "libosmpbf-static",
-    "Version": "1.5.1-1",
+    "Version": "1.5.1-2",
     "Description": "Static libraries for libosmpbf",
     "Homepage": "https://github.com/openstreetmap/OSM-binary/"
   },
@@ -7657,19 +7657,19 @@
   },
   {
     "Package": "libprotobuf",
-    "Version": "2:30.0-4",
+    "Version": "2:32.0",
     "Description": "Protocol buffers C++ library",
     "Homepage": "https://github.com/protocolbuffers/protobuf"
   },
   {
     "Package": "libprotobuf-c",
-    "Version": "1.5.2-1",
+    "Version": "1.5.2-2",
     "Description": "Protocol buffers C library",
     "Homepage": "https://github.com/protobuf-c/protobuf-c"
   },
   {
     "Package": "libprotobuf-c-static",
-    "Version": "1.5.2-1",
+    "Version": "1.5.2-2",
     "Description": "Static libraries for libprotobuf-c",
     "Homepage": "https://github.com/protobuf-c/protobuf-c"
   },
@@ -8371,13 +8371,13 @@
   },
   {
     "Package": "libtirpc",
-    "Version": "1.3.7",
+    "Version": "1.3.7-1",
     "Description": "Transport Independent RPC library",
     "Homepage": "http://git.linux-nfs.org/?p=steved/libtirpc.git"
   },
   {
     "Package": "libtirpc-static",
-    "Version": "1.3.7",
+    "Version": "1.3.7-1",
     "Description": "Static libraries for libtirpc",
     "Homepage": "http://git.linux-nfs.org/?p=steved/libtirpc.git"
   },
@@ -8983,14 +8983,20 @@
   },
   {
     "Package": "libxls",
-    "Version": "1.6.3",
+    "Version": "1.6.3-1",
     "Description": "A C library for reading Excel files in the nasty old binary OLE format",
     "Homepage": "https://github.com/libxls/libxls"
   },
   {
     "Package": "libxls-static",
-    "Version": "1.6.3",
+    "Version": "1.6.3-1",
     "Description": "Static libraries for libxls",
+    "Homepage": "https://github.com/libxls/libxls"
+  },
+  {
+    "Package": "libxls2csv",
+    "Version": "1.6.3-1",
+    "Description": "A command-line tool for converting XLS to CSV",
     "Homepage": "https://github.com/libxls/libxls"
   },
   {
@@ -9409,13 +9415,13 @@
   },
   {
     "Package": "lsof",
-    "Version": "4.99.5-1",
+    "Version": "4.99.5-2",
     "Description": "Lists open files for running Unix processes",
     "Homepage": "https://github.com/lsof-org/lsof"
   },
   {
     "Package": "lsof-static",
-    "Version": "4.99.5-1",
+    "Version": "4.99.5-2",
     "Description": "Static libraries for lsof",
     "Homepage": "https://github.com/lsof-org/lsof"
   },
@@ -9637,7 +9643,7 @@
   },
   {
     "Package": "mapserver",
-    "Version": "8.2.2-2",
+    "Version": "8.2.2-3",
     "Description": "MapServer is CGI-based platform for publishing spatial data and interactive mapping applications to the web",
     "Homepage": "https://mapserver.org/"
   },
@@ -10093,7 +10099,7 @@
   },
   {
     "Package": "monero",
-    "Version": "0.18.4.2-1",
+    "Version": "0.18.4.2-2",
     "Description": "A private, secure, untraceable, decentralised digital currency",
     "Homepage": "https://getmonero.org/"
   },
@@ -10159,13 +10165,13 @@
   },
   {
     "Package": "mosh",
-    "Version": "1.4.0-14",
+    "Version": "1.4.0-15",
     "Description": "Mobile shell that supports roaming and intelligent local echo",
     "Homepage": "https://mosh.org"
   },
   {
     "Package": "mosh-perl",
-    "Version": "1.4.0-14",
+    "Version": "1.4.0-15",
     "Description": "The mosh Perl script",
     "Homepage": "https://mosh.org"
   },
@@ -11821,7 +11827,7 @@
   },
   {
     "Package": "postgis",
-    "Version": "3.6.0",
+    "Version": "3.6.0-1",
     "Description": "Spatial database extender for PostgreSQL object-relational database",
     "Homepage": "https://postgis.net"
   },
@@ -11935,19 +11941,19 @@
   },
   {
     "Package": "protobuf",
-    "Version": "2:30.0-4",
+    "Version": "2:32.0",
     "Description": "Compiler for protocol buffer definition files",
     "Homepage": "https://github.com/protocolbuffers/protobuf"
   },
   {
     "Package": "protobuf-dev",
-    "Version": "2:30.0-4",
+    "Version": "2:32.0",
     "Description": "CMake files for protobuf shared libraries",
     "Homepage": "https://github.com/protocolbuffers/protobuf"
   },
   {
     "Package": "protobuf-static",
-    "Version": "30.0-4",
+    "Version": "32.0",
     "Description": "Protocol buffers C++ library (static)",
     "Homepage": "https://github.com/protocolbuffers/protobuf"
   },
@@ -12199,7 +12205,7 @@
   },
   {
     "Package": "python-onnxruntime",
-    "Version": "1.22.2-1",
+    "Version": "1.22.2-2",
     "Description": "Cross-platform, high performance ML inferencing and training accelerator",
     "Homepage": "https://onnxruntime.ai/"
   },
@@ -12217,7 +12223,7 @@
   },
   {
     "Package": "python-pyarrow",
-    "Version": "21.0.0-2",
+    "Version": "21.0.0-3",
     "Description": "Python bindings for Apache Arrow",
     "Homepage": "https://github.com/apache/arrow"
   },
@@ -12277,13 +12283,13 @@
   },
   {
     "Package": "python-torch",
-    "Version": "2.6.0",
+    "Version": "2.6.0-1",
     "Description": "Tensors and Dynamic neural networks in Python",
     "Homepage": "https://pytorch.org/"
   },
   {
     "Package": "python-torch-static",
-    "Version": "2.6.0",
+    "Version": "2.6.0-1",
     "Description": "Static libraries for python-torch",
     "Homepage": "https://pytorch.org/"
   },
@@ -14059,7 +14065,7 @@
   },
   {
     "Package": "sysprop",
-    "Version": "13.0.0.15-8",
+    "Version": "13.0.0.15-9",
     "Description": "Generates cpp / java sysprop",
     "Homepage": "https://android.googlesource.com/platform/system/tools/sysprop"
   },
@@ -14305,7 +14311,7 @@
   },
   {
     "Package": "termux-gui-c",
-    "Version": "0.1.3-4",
+    "Version": "0.1.3-5",
     "Description": "A C library for the Termux:GUI plugin",
     "Homepage": "https://github.com/tareksander/termux-gui-c-bindings"
   },

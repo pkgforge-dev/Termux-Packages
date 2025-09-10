@@ -35,11 +35,11 @@
   Description: Static libraries for aalib
   Homepage: https://sourceforge.net/projects/aa-project/
 - Package: aapt
-  Version: 13.0.0.6-21
+  Version: 13.0.0.6-22
   Description: Android Asset Packaging Tool
   Homepage: https://elinux.org/Android_aapt
 - Package: aapt2
-  Version: 13.0.0.6-21
+  Version: 13.0.0.6-22
   Description: AAPT2 (Android Asset Packaging Tool)
   Homepage: https://elinux.org/Android_aapt
 - Package: abduco
@@ -99,7 +99,7 @@
   Description: A powerful chatgpt cli
   Homepage: https://github.com/sigoden/aichat
 - Package: aidl
-  Version: 13.0.0.6-21
+  Version: 13.0.0.6-22
   Description: Android Interface Definition Language (AIDL)
   Homepage: https://elinux.org/Android_aapt
 - Package: alass
@@ -143,7 +143,7 @@
   Description: Aims to be the best looking Gemini client
   Homepage: https://github.com/makew0rld/amfora
 - Package: android-tools
-  Version: 35.0.2-4
+  Version: 35.0.2-5
   Description: Android platform tools
   Homepage: https://developer.android.com/
 - Package: anewer
@@ -195,7 +195,7 @@
   Description: AOSP-based mksh, toybox and iputils for termux-docker
   Homepage: https://source.android.com/
 - Package: apache-orc
-  Version: 2.2.0-1
+  Version: 2.2.0-2
   Description: Columnar storage for Hadoop workloads
   Homepage: https://orc.apache.org/
 - Package: apache2
@@ -1711,7 +1711,7 @@
   Description: Static libraries for espeak
   Homepage: https://github.com/espeak-ng/espeak-ng
 - Package: et
-  Version: 6.2.11-1
+  Version: 6.2.11-2
   Description: A remote shell that automatically reconnects without interrupting the session
   Homepage: https://eternalterminal.dev
 - Package: etsh
@@ -3455,7 +3455,7 @@
   Description: Static libraries for libarchive
   Homepage: https://www.libarchive.org/
 - Package: libarrow-cpp
-  Version: 21.0.0-2
+  Version: 21.0.0-3
   Description: C++ libraries for Apache Arrow
   Homepage: https://github.com/apache/arrow
 - Package: libasio
@@ -4135,7 +4135,7 @@
   Description: Font system for multiple languages
   Homepage: https://github.com/silnrsi/graphite
 - Package: libgrpc
-  Version: 1.74.1-1
+  Version: 1.74.1-2
   Description: High performance, open source, general RPC framework that puts mobile and HTTP/2 first
   Homepage: https://grpc.io/
 - Package: libgsasl
@@ -4735,19 +4735,19 @@
   Description: Static libraries for libmypaint
   Homepage: https://github.com/mypaint/libmypaint
 - Package: libnats-c
-  Version: 3.10.1
+  Version: 3.10.1-1
   Description: A C client for the NATS messaging system
   Homepage: https://nats-io.github.io/nats.c/
 - Package: libnats-c-static
-  Version: 3.10.1
+  Version: 3.10.1-1
   Description: Static libraries for libnats-c
   Homepage: https://nats-io.github.io/nats.c/
 - Package: libncnn
-  Version: 20250503-1
+  Version: 20250503-2
   Description: A high-performance neural network inference framework optimized for the mobile platform
   Homepage: https://github.com/Tencent/ncnn
 - Package: libncnn-static
-  Version: 20250503-1
+  Version: 20250503-2
   Description: Static libraries for libncnn
   Homepage: https://github.com/Tencent/ncnn
 - Package: libneon
@@ -4959,11 +4959,11 @@
   Description: Library for reading from and writing to OSM files in XML and PBF formats
   Homepage: https://osmcode.org/libosmium/
 - Package: libosmpbf
-  Version: 1.5.1-1
+  Version: 1.5.1-2
   Description: osmpbf is a Java/C library to read and write OpenStreetMap PBF files
   Homepage: https://github.com/openstreetmap/OSM-binary/
 - Package: libosmpbf-static
-  Version: 1.5.1-1
+  Version: 1.5.1-2
   Description: Static libraries for libosmpbf
   Homepage: https://github.com/openstreetmap/OSM-binary/
 - Package: libotr
@@ -5103,15 +5103,15 @@
   Description: Static libraries for libpopt
   Homepage: https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html
 - Package: libprotobuf
-  Version: 2:30.0-4
+  Version: "2:32.0"
   Description: Protocol buffers C++ library
   Homepage: https://github.com/protocolbuffers/protobuf
 - Package: libprotobuf-c
-  Version: 1.5.2-1
+  Version: 1.5.2-2
   Description: Protocol buffers C library
   Homepage: https://github.com/protobuf-c/protobuf-c
 - Package: libprotobuf-c-static
-  Version: 1.5.2-1
+  Version: 1.5.2-2
   Description: Static libraries for libprotobuf-c
   Homepage: https://github.com/protobuf-c/protobuf-c
 - Package: libprotozero
@@ -5579,11 +5579,11 @@
   Description: A simple, small, efficient, C++ XML parser
   Homepage: http://www.grinninglizard.com/tinyxml2/
 - Package: libtirpc
-  Version: 1.3.7
+  Version: 1.3.7-1
   Description: Transport Independent RPC library
   Homepage: http://git.linux-nfs.org/?p=steved/libtirpc.git
 - Package: libtirpc-static
-  Version: 1.3.7
+  Version: 1.3.7-1
   Description: Static libraries for libtirpc
   Homepage: http://git.linux-nfs.org/?p=steved/libtirpc.git
 - Package: libtllist
@@ -5987,12 +5987,16 @@
   Description: Static libraries for libxi
   Homepage: https://xorg.freedesktop.org/
 - Package: libxls
-  Version: 1.6.3
+  Version: 1.6.3-1
   Description: A C library for reading Excel files in the nasty old binary OLE format
   Homepage: https://github.com/libxls/libxls
 - Package: libxls-static
-  Version: 1.6.3
+  Version: 1.6.3-1
   Description: Static libraries for libxls
+  Homepage: https://github.com/libxls/libxls
+- Package: libxls2csv
+  Version: 1.6.3-1
+  Description: A command-line tool for converting XLS to CSV
   Homepage: https://github.com/libxls/libxls
 - Package: libxlsxwriter
   Version: 1.2.3
@@ -6271,11 +6275,11 @@
   Description: Shows thumbnails in terminal using sixel graphics
   Homepage: https://github.com/hackerb9/lsix
 - Package: lsof
-  Version: 4.99.5-1
+  Version: 4.99.5-2
   Description: Lists open files for running Unix processes
   Homepage: https://github.com/lsof-org/lsof
 - Package: lsof-static
-  Version: 4.99.5-1
+  Version: 4.99.5-2
   Description: Static libraries for lsof
   Homepage: https://github.com/lsof-org/lsof
 - Package: ltrace
@@ -6423,7 +6427,7 @@
   Description: Man pages for linux kernel and C library interfaces
   Homepage: https://www.kernel.org/doc/man-pages/
 - Package: mapserver
-  Version: 8.2.2-2
+  Version: 8.2.2-3
   Description: MapServer is CGI-based platform for publishing spatial data and interactive mapping applications to the web
   Homepage: https://mapserver.org/
 - Package: mariadb
@@ -6727,7 +6731,7 @@
   Description: 'mold: A Modern Linker'
   Homepage: https://github.com/rui314/mold
 - Package: monero
-  Version: 0.18.4.2-1
+  Version: 0.18.4.2-2
   Description: A private, secure, untraceable, decentralised digital currency
   Homepage: https://getmonero.org/
 - Package: mono
@@ -6771,11 +6775,11 @@
   Description: A tool to decode the morse codes from a PCM WAV file as well as from text and RAW PCM files
   Homepage: https://packages.debian.org/sid/morse2ascii
 - Package: mosh
-  Version: 1.4.0-14
+  Version: 1.4.0-15
   Description: Mobile shell that supports roaming and intelligent local echo
   Homepage: https://mosh.org
 - Package: mosh-perl
-  Version: 1.4.0-14
+  Version: 1.4.0-15
   Description: The mosh Perl script
   Homepage: https://mosh.org
 - Package: mosquitto
@@ -7879,7 +7883,7 @@
   Description: Aims to bring back the posix profile for Vala
   Homepage: https://github.com/radare/posixvala
 - Package: postgis
-  Version: 3.6.0
+  Version: 3.6.0-1
   Description: Spatial database extender for PostgreSQL object-relational database
   Homepage: https://postgis.net
 - Package: postgresql
@@ -7955,15 +7959,15 @@
   Description: Termux official utility for managing prooted Linux distributions
   Homepage: https://github.com/termux/proot-distro
 - Package: protobuf
-  Version: 2:30.0-4
+  Version: "2:32.0"
   Description: Compiler for protocol buffer definition files
   Homepage: https://github.com/protocolbuffers/protobuf
 - Package: protobuf-dev
-  Version: 2:30.0-4
+  Version: "2:32.0"
   Description: CMake files for protobuf shared libraries
   Homepage: https://github.com/protocolbuffers/protobuf
 - Package: protobuf-static
-  Version: 30.0-4
+  Version: "32.0"
   Description: Protocol buffers C++ library (static)
   Homepage: https://github.com/protocolbuffers/protobuf
 - Package: prover9
@@ -8131,7 +8135,7 @@
   Description: Static libraries for python-numpy
   Homepage: https://numpy.org/
 - Package: python-onnxruntime
-  Version: 1.22.2-1
+  Version: 1.22.2-2
   Description: Cross-platform, high performance ML inferencing and training accelerator
   Homepage: https://onnxruntime.ai/
 - Package: python-pillow
@@ -8143,7 +8147,7 @@
   Description: The PyPA recommended tool for installing Python packages
   Homepage: https://pip.pypa.io/
 - Package: python-pyarrow
-  Version: 21.0.0-2
+  Version: 21.0.0-3
   Description: Python bindings for Apache Arrow
   Homepage: https://github.com/apache/arrow
 - Package: python-pycryptodomex
@@ -8183,11 +8187,11 @@
   Description: Tools for publishing from TLDP sources
   Homepage: https://github.com/tLDP/python-tldp
 - Package: python-torch
-  Version: 2.6.0
+  Version: 2.6.0-1
   Description: Tensors and Dynamic neural networks in Python
   Homepage: https://pytorch.org/
 - Package: python-torch-static
-  Version: 2.6.0
+  Version: 2.6.0-1
   Description: Static libraries for python-torch
   Homepage: https://pytorch.org/
 - Package: python-torchaudio
@@ -9371,7 +9375,7 @@
   Description: Decentralized file synchronization
   Homepage: https://syncthing.net/
 - Package: sysprop
-  Version: 13.0.0.15-8
+  Version: 13.0.0.15-9
   Description: Generates cpp / java sysprop
   Homepage: https://android.googlesource.com/platform/system/tools/sysprop
 - Package: ta-lib
@@ -9535,7 +9539,7 @@
   Description: A bash library for Termux:GUI
   Homepage: https://github.com/tareksander/termux-gui-bash
 - Package: termux-gui-c
-  Version: 0.1.3-4
+  Version: 0.1.3-5
   Description: A C library for the Termux:GUI plugin
   Homepage: https://github.com/tareksander/termux-gui-c-bindings
 - Package: termux-gui-package
