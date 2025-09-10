@@ -1155,7 +1155,7 @@
   Description: Static libraries for cups
   Homepage: https://www.cups.org/
 - Package: curl
-  Version: 8.15.0-1
+  Version: 8.16.0
   Description: Command line tool for transferring data with URL syntax
   Homepage: https://curl.se/
 - Package: curlie
@@ -3023,7 +3023,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.2444-1
+  Version: 0.22.2451
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -3759,11 +3759,11 @@
   Description: Static libraries for libcunit
   Homepage: https://sourceforge.net/projects/cunit/
 - Package: libcurl
-  Version: 8.15.0-1
+  Version: 8.16.0
   Description: Easy-to-use client-side URL transfer library
   Homepage: https://curl.se/
 - Package: libcurl-static
-  Version: 8.15.0-1
+  Version: 8.16.0
   Description: Static libraries for libcurl
   Homepage: https://curl.se/
 - Package: libczmq
@@ -7499,7 +7499,7 @@
   Description: Oxc JavaScript linter
   Homepage: https://oxc.rs/
 - Package: p11-kit
-  Version: 0.25.6
+  Version: 0.25.7
   Description: Provides a way to load and enumerate PKCS#11 modules
   Homepage: https://p11-glue.github.io/p11-glue/p11-kit.html
 - Package: p7zip
