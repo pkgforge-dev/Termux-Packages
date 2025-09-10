@@ -23,7 +23,7 @@
   Description: A PC XT-compatible emulator/virtual machine
   Homepage: https://github.com/adriancable/8086tiny
 - Package: a52dec
-  Version: 0.8.0-2
+  Version: 0.8.0-3
   Description: A test program for liba52
   Homepage: http://liba52.sourceforge.net/
 - Package: aalib
@@ -831,7 +831,7 @@
   Description: Secure encryption and decryption of files and streams utility
   Homepage: https://ccrypt.sourceforge.net/
 - Package: cec-client
-  Version: 7.1.1
+  Version: 7.1.1-1
   Description: Client applications for libCEC
   Homepage: https://libcec.pulse-eight.com/
 - Package: ceu-lang
@@ -895,7 +895,7 @@
   Description: A human-friendly and fast alternative to cut and (sometimes) awk
   Homepage: https://github.com/theryangeary/choose
 - Package: chromaprint
-  Version: 1.5.1-p20250625-0
+  Version: 1.5.1-p20250625-1
   Description: C library for generating audio fingerprints used by AcoustID (fpcalc tool)
   Homepage: https://acoustid.org/chromaprint
 - Package: chrony
@@ -3139,7 +3139,7 @@
   Description: Jump helps you navigate in shell faster by learning your habits
   Homepage: https://github.com/gsamokovarov/jump
 - Package: just
-  Version: 1.42.4
+  Version: 1.42.4-1
   Description: A handy way to save and run project-specific commands
   Homepage: https://just.systems
 - Package: jython
@@ -3147,7 +3147,7 @@
   Description: Python for the Java Platform
   Homepage: https://www.jython.org/
 - Package: k2pdfopt
-  Version: 2.55-3
+  Version: 2.55-4
   Description: A tool that optimizes PDF files for viewing on mobile readers
   Homepage: https://www.willus.com/k2pdfopt/
 - Package: k9s
@@ -3163,7 +3163,7 @@
   Description: Code editor heavily inspired by Vim
   Homepage: https://kakoune.org/
 - Package: kakoune-lsp
-  Version: 18.2.0
+  Version: 18.2.0-1
   Description: Language Server Protocol Client for the Kakoune editor
   Homepage: https://github.com/kakoune-lsp/kakoune-lsp
 - Package: kbd
@@ -3171,11 +3171,11 @@
   Description: KBDs showkey utility for examining keycodes
   Homepage: https://kbd-project.org/
 - Package: kcptun
-  Version: "20250730"
+  Version: 20250730-1
   Description: A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC
   Homepage: https://github.com/xtaci/kcptun
 - Package: keybase
-  Version: 6.5.1
+  Version: 6.5.1-1
   Description: Key directory that maps social media identities to encryption keys
   Homepage: https://keybase.io
 - Package: keychain
@@ -3183,15 +3183,15 @@
   Description: keychain ssh-agent front-end
   Homepage: https://www.funtoo.org/Keychain
 - Package: kibi
-  Version: 0.2.2-2
+  Version: 0.2.2-3
   Description: A tiny terminal text editor, written in Rust
   Homepage: https://github.com/ilai-deutel/kibi
 - Package: kiwix-tools
-  Version: 3.7.0
+  Version: 3.7.0-1
   Description: A collection of Kiwix related command line tools
   Homepage: https://github.com/kiwix/kiwix-tools
 - Package: knockd
-  Version: 0.8.2-1
+  Version: 0.8.2-2
   Description: A port-knocking daemon
   Homepage: https://zeroflux.org/projects/knock
 - Package: knot-utils
@@ -3199,7 +3199,7 @@
   Description: Knot DNS utilities
   Homepage: https://www.knot-dns.cz/
 - Package: kona
-  Version: "20211225"
+  Version: 20211225-1
   Description: Open-source implementation of the APL-like K programming language
   Homepage: https://github.com/kevinlawler/kona
 - Package: kotlin
@@ -3211,7 +3211,7 @@
   Description: The Kerberos network authentication system
   Homepage: https://web.mit.edu/kerberos
 - Package: kubecolor
-  Version: 0.5.1
+  Version: 0.5.1-1
   Description: Colorize your kubectl output
   Homepage: https://github.com/kubecolor/kubecolor
 - Package: kubectl
@@ -3235,7 +3235,7 @@
   Description: High quality MPEG Audio Layer III (MP3) encoder - frontend
   Homepage: https://lame.sourceforge.io/
 - Package: lastpass-cli
-  Version: 1.6.1-2
+  Version: 1.6.1-3
   Description: LastPass command line interface tool
   Homepage: https://lastpass.com/
 - Package: lazygit
@@ -3291,7 +3291,7 @@
   Description: Fast embeddable web browser engine written in C with no dependencies
   Homepage: https://lexbor.com
 - Package: lexter
-  Version: 1.0.3-4
+  Version: 1.0.3-5
   Description: A real-time word puzzle for text terminals
   Homepage: https://www.kyne.au/~mark/software/lexter.php
 - Package: lf
@@ -3299,11 +3299,11 @@
   Description: Terminal file manager
   Homepage: https://github.com/gokcehan/lf
 - Package: lftp
-  Version: 4.9.2-6
+  Version: 4.9.2-7
   Description: FTP/HTTP client and file transfer program
   Homepage: https://lftp.tech/
 - Package: lftp-static
-  Version: 4.9.2-6
+  Version: 4.9.2-7
   Description: Static libraries for lftp
   Homepage: https://lftp.tech/
 - Package: lgogdownloader
@@ -3311,27 +3311,27 @@
   Description: Open source downloader to GOG.com for Linux users using the same API as the official GOGDownloader
   Homepage: https://sites.google.com/site/gogdownloader/
 - Package: lhasa
-  Version: 0.5.0
+  Version: 0.5.0-1
   Description: LHA compressor/decompressor
   Homepage: https://lhasa.soulsphere.org/
 - Package: lhasa-static
-  Version: 0.5.0
+  Version: 0.5.0-1
   Description: Static libraries for lhasa
   Homepage: https://lhasa.soulsphere.org/
 - Package: liba52
-  Version: 0.8.0-2
+  Version: 0.8.0-3
   Description: A free library for decoding ATSC A/52 streams
   Homepage: http://liba52.sourceforge.net/
 - Package: liba52-static
-  Version: 0.8.0-2
+  Version: 0.8.0-3
   Description: Static libraries for liba52
   Homepage: http://liba52.sourceforge.net/
 - Package: libacl
-  Version: 2.3.1
+  Version: 2.3.1-1
   Description: Access control list shared library
   Homepage: http://savannah.nongnu.org/projects/acl
 - Package: libacl-static
-  Version: 2.3.1
+  Version: 2.3.1-1
   Description: Static libraries for libacl
   Homepage: http://savannah.nongnu.org/projects/acl
 - Package: libaml
@@ -3375,11 +3375,11 @@
   Description: Android fork of libselinux, an SELinux userland library
   Homepage: https://selinuxproject.org
 - Package: libandroid-shmem
-  Version: "0.5"
+  Version: 0.5-1
   Description: System V shared memory emulation on Android using ashmem
   Homepage: https://github.com/termux/libandroid-shmem
 - Package: libandroid-shmem-static
-  Version: "0.5"
+  Version: 0.5-1
   Description: Static libraries for libandroid-shmem
   Homepage: https://github.com/termux/libandroid-shmem
 - Package: libandroid-spawn
@@ -3403,11 +3403,11 @@
   Description: Static libraries for libandroid-support
   Homepage: https://github.com/termux/libandroid-support
 - Package: libandroid-sysv-semaphore
-  Version: "0.1"
+  Version: 0.1-1
   Description: A shared library providing System V semaphores
   Homepage: https://android.googlesource.com/platform/bionic/+/refs/heads/master/libc/bionic/sys_sem.cpp
 - Package: libandroid-sysv-semaphore-static
-  Version: "0.1"
+  Version: 0.1-1
   Description: Static libraries for libandroid-sysv-semaphore
   Homepage: https://android.googlesource.com/platform/bionic/+/refs/heads/master/libc/bionic/sys_sem.cpp
 - Package: libandroid-utimes
@@ -3419,19 +3419,19 @@
   Description: Static libraries for libandroid-utimes
   Homepage: https://github.com/termux/libandroid-utimes
 - Package: libandroid-wordexp
-  Version: "0.1"
+  Version: 0.1-1
   Description: Shared library for the wordexp(3) system function
   Homepage: https://man7.org/linux/man-pages/man3/wordexp.3.html
 - Package: libandroid-wordexp-static
-  Version: "0.1"
+  Version: 0.1-1
   Description: Static libraries for libandroid-wordexp
   Homepage: https://man7.org/linux/man-pages/man3/wordexp.3.html
 - Package: libao
-  Version: 1.2.2-7
+  Version: 1.2.2-8
   Description: A cross platform audio library
   Homepage: https://www.xiph.org/ao/
 - Package: libao-static
-  Version: 1.2.2-7
+  Version: 1.2.2-8
   Description: Static libraries for libao
   Homepage: https://www.xiph.org/ao/
 - Package: libaom
@@ -3443,7 +3443,7 @@
   Description: Static libraries for libaom
   Homepage: https://aomedia.org/
 - Package: libapt-pkg-perl
-  Version: 0.1.40-11
+  Version: 0.1.40-12
   Description: Perl interface to APTs libapt-pkg
   Homepage: https://packages.debian.org/libapt-pkg-perl
 - Package: libarchive
@@ -3471,11 +3471,11 @@
   Description: Static library to assemble and disassemble instructions
   Homepage: https://sourceware.org/elfutils/
 - Package: libass
-  Version: 0.17.4
+  Version: 0.17.4-1
   Description: A portable library for SSA/ASS subtitles rendering
   Homepage: https://github.com/libass/libass
 - Package: libass-static
-  Version: 0.17.4
+  Version: 0.17.4-1
   Description: Static libraries for libass
   Homepage: https://github.com/libass/libass
 - Package: libassuan
@@ -3503,55 +3503,55 @@
   Description: Block device identification library
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: libblocksruntime
-  Version: "1:6.1"
+  Version: 1:6.1-1
   Description: LLVM Blocks runtime library
   Homepage: https://github.com/swiftlang/swift-corelibs-libdispatch
 - Package: libblosc
-  Version: 1.21.6
+  Version: 1.21.6-1
   Description: A blocking, shuffling and loss-less compression library
   Homepage: https://www.blosc.org
 - Package: libblosc-static
-  Version: 1.21.6
+  Version: 1.21.6-1
   Description: Static libraries for libblosc
   Homepage: https://www.blosc.org
 - Package: libbluray
-  Version: 1.3.4-2
+  Version: 1.3.4-3
   Description: An open-source library designed for Blu-Ray Discs playback for media players
   Homepage: https://code.videolan.org/videolan/libbluray/
 - Package: libbluray-static
-  Version: 1.3.4-2
+  Version: 1.3.4-3
   Description: Static libraries for libbluray
   Homepage: https://code.videolan.org/videolan/libbluray/
 - Package: libbluray-utils
-  Version: 1.3.4-2
+  Version: 1.3.4-3
   Description: Example utilities for libbluray
   Homepage: https://code.videolan.org/videolan/libbluray/
 - Package: libbs2b
-  Version: 3.1.0-1
+  Version: 3.1.0-2
   Description: Bauer stereophonic-to-binaural DSP
-  Homepage: http://bs2b.sourceforge.net/
+  Homepage: https://bs2b.sourceforge.net/
 - Package: libbs2b-static
-  Version: 3.1.0-1
+  Version: 3.1.0-2
   Description: Static libraries for libbs2b
-  Homepage: http://bs2b.sourceforge.net/
+  Homepage: https://bs2b.sourceforge.net/
 - Package: libbsd
-  Version: 0.11.7-1
+  Version: 0.11.7-2
   Description: utility functions from BSD systems
   Homepage: https://libbsd.freedesktop.org
 - Package: libbsd-static
-  Version: 0.11.7-1
+  Version: 0.11.7-2
   Description: Static libraries for libbsd
   Homepage: https://libbsd.freedesktop.org
 - Package: libbullet
-  Version: "3.25"
+  Version: 3.25-1
   Description: SDK for real-time collision detection and multi-physics simulation for robotics, VR, etc
   Homepage: https://github.com/bulletphysics/bullet3
 - Package: libburn
-  Version: 1.5.6
+  Version: 1.5.6-1
   Description: Library for reading, mastering and writing optical discs
   Homepage: https://dev.lovelyhq.com/libburnia
 - Package: libburn-static
-  Version: 1.5.6
+  Version: 1.5.6-1
   Description: Static libraries for libburn
   Homepage: https://dev.lovelyhq.com/libburnia
 - Package: libbz2
@@ -3567,19 +3567,19 @@
   Description: Useful C++ classes and routines such as argument parser, IO and conversion utilities
   Homepage: https://github.com/Martchus/cpp-utilities
 - Package: libc-client
-  Version: 2007f-3
+  Version: 2007f-4
   Description: UW IMAP c-client library
   Homepage: https://www.washington.edu/imap/
 - Package: libc-client-static
-  Version: 2007f-3
+  Version: 2007f-4
   Description: Static libraries for libc-client
   Homepage: https://www.washington.edu/imap/
 - Package: libcaca
-  Version: 0.99.beta20-2
+  Version: 0.99.beta20-3
   Description: Graphics library that outputs text instead of pixels
   Homepage: http://caca.zoy.org/wiki/libcaca
 - Package: libcaca-static
-  Version: 0.99.beta20-2
+  Version: 0.99.beta20-3
   Description: Static libraries for libcaca
   Homepage: http://caca.zoy.org/wiki/libcaca
 - Package: libcairo
@@ -3587,11 +3587,11 @@
   Description: Cairo 2D vector graphics library
   Homepage: https://cairographics.org
 - Package: libcairomm-1.0
-  Version: 1.14.5
+  Version: 1.14.5-1
   Description: Provides a C++ interface to cairo
   Homepage: https://www.cairographics.org/cairomm/
 - Package: libcairomm-1.16
-  Version: 1.18.0
+  Version: 1.18.0-1
   Description: Provides a C++ interface to cairo
   Homepage: https://www.cairographics.org/cairomm/
 - Package: libcap
@@ -3611,39 +3611,39 @@
   Description: Static libraries for libcap
   Homepage: https://sites.google.com/site/fullycapable/
 - Package: libccd
-  Version: 2.1-1
+  Version: 2.1-2
   Description: Library for collision detection between two convex shapes
   Homepage: https://github.com/danfis/libccd
 - Package: libcddb
-  Version: 1.3.2
+  Version: 1.3.2-1
   Description: A C library to access data on a CDDB server
-  Homepage: http://libcddb.sourceforge.net/
+  Homepage: https://libcddb.sourceforge.net/
 - Package: libcddb-static
-  Version: 1.3.2
+  Version: 1.3.2-1
   Description: Static libraries for libcddb
-  Homepage: http://libcddb.sourceforge.net/
+  Homepage: https://libcddb.sourceforge.net/
 - Package: libcdk
-  Version: 5.0-20250116-0
+  Version: 5.0-20250116-1
   Description: Curses Development Kit
   Homepage: https://dickey.his.com/cdk/cdk.html
 - Package: libcec
-  Version: 7.1.1
+  Version: 7.1.1-1
   Description: Provides support for Pulse-Eights USB-CEC adapter and other CEC capable hardware
   Homepage: https://libcec.pulse-eight.com/
 - Package: libcec-static
-  Version: 7.1.1
+  Version: 7.1.1-1
   Description: Static libraries for libcec
   Homepage: https://libcec.pulse-eight.com/
 - Package: libceres-solver
-  Version: 2.2.0-1
+  Version: 2.2.0-2
   Description: C++ library for modeling and solving large, complicated optimization problems
   Homepage: http://ceres-solver.org
 - Package: libchipmunk
-  Version: 7.0.3-1
+  Version: 7.0.3-2
   Description: A fast and lightweight 2D game physics library
   Homepage: http://chipmunk2d.net
 - Package: libchromaprint
-  Version: 1.5.1-p20250625-0
+  Version: 1.5.1-p20250625-1
   Description: C library for generating audio fingerprints used by AcoustID
   Homepage: https://acoustid.org/chromaprint
 - Package: libclc
@@ -3651,51 +3651,51 @@
   Description: Open source implementation of the library requirements of the OpenCL C programming language
   Homepage: https://libclc.llvm.org/
 - Package: libcln
-  Version: 1.3.7
+  Version: 1.3.7-1
   Description: CLN is a library for efficient computations with all kinds of numbers in arbitrary precision
   Homepage: https://www.ginac.de/CLN/
 - Package: libcln-static
-  Version: 1.3.7
+  Version: 1.3.7-1
   Description: Static libraries for libcln
   Homepage: https://www.ginac.de/CLN/
 - Package: libcloog
-  Version: 0.21.1
+  Version: 0.21.1-1
   Description: Library that generates loops for scanning polyhedra
   Homepage: http://www.bastoul.net/cloog/index.php
 - Package: libcloog-static
-  Version: 0.21.1
+  Version: 0.21.1-1
   Description: Static libraries for libcloog
   Homepage: http://www.bastoul.net/cloog/index.php
 - Package: libcoap
-  Version: 4.3.5-rc3-0
+  Version: 4.3.5-rc3-1
   Description: Implementation of CoAP, a lightweight protocol for resource constrained devices
   Homepage: https://libcoap.net/
 - Package: libcoap-static
-  Version: 4.3.5-rc3-0
+  Version: 4.3.5-rc3-1
   Description: Static libraries for libcoap
   Homepage: https://libcoap.net/
 - Package: libcoinor-cgl
-  Version: 0.60.8
+  Version: 0.60.8-1
   Description: An open-source cut generation library for COIN-OR projects
   Homepage: https://github.com/coin-or/Cgl
 - Package: libcoinor-cgl-static
-  Version: 0.60.8
+  Version: 0.60.8-1
   Description: Static libraries for libcoinor-cgl
   Homepage: https://github.com/coin-or/Cgl
 - Package: libcoinor-osi
-  Version: 1:0.108.8
+  Version: 1:0.108.8-1
   Description: An abstract base class to a generic linear programming (LP) solver
   Homepage: https://github.com/coin-or/Osi
 - Package: libcoinor-osi-static
-  Version: 1:0.108.8
+  Version: 1:0.108.8-1
   Description: Static libraries for libcoinor-osi
   Homepage: https://github.com/coin-or/Osi
 - Package: libcoinor-utils
-  Version: 1:2.11.11
+  Version: 1:2.11.11-1
   Description: An open-source collection of classes and helper functions for COIN-OR projects
   Homepage: https://github.com/coin-or/CoinUtils
 - Package: libcoinor-utils-static
-  Version: 1:2.11.11
+  Version: 1:2.11.11-1
   Description: Static libraries for libcoinor-utils
   Homepage: https://github.com/coin-or/CoinUtils
 - Package: libcommons-lang3-java
@@ -3707,31 +3707,31 @@
   Description: Compiler runtime libraries for clang
   Homepage: https://clang.llvm.org/
 - Package: libconfig
-  Version: 1.8.1
+  Version: 1.8.1-1
   Description: C/C++ Configuration File Library
   Homepage: https://github.com/hyperrealm/libconfig
 - Package: libconfig-static
-  Version: 1.8.1
+  Version: 1.8.1-1
   Description: Static libraries for libconfig
   Homepage: https://github.com/hyperrealm/libconfig
 - Package: libconfuse
-  Version: "3.3"
+  Version: 3.3-1
   Description: Small configuration file parser library for C
   Homepage: https://github.com/martinh/libconfuse
 - Package: libconfuse-static
-  Version: "3.3"
+  Version: 3.3-1
   Description: Static libraries for libconfuse
   Homepage: https://github.com/martinh/libconfuse
 - Package: libcpufeatures
-  Version: 0.10.1
+  Version: 0.10.1-1
   Description: A cross-platform C library to retrieve CPU features (such as available instructions) at runtime
   Homepage: https://github.com/google/cpu_features
 - Package: libcroco
-  Version: 0.6.13-9
+  Version: 0.6.13-10
   Description: CSS parsing and manipulation library
   Homepage: https://gitlab.gnome.org/Archive/libcroco
 - Package: libcroco-static
-  Version: 0.6.13-9
+  Version: 0.6.13-10
   Description: Static libraries for libcroco
   Homepage: https://gitlab.gnome.org/Archive/libcroco
 - Package: libcrypt
@@ -3739,15 +3739,15 @@
   Description: A crypt(3) implementation
   Homepage: http://michael.dipperstein.com/crypt/
 - Package: libcue
-  Version: 2.3.0
+  Version: 2.3.0-1
   Description: CUE Sheet Parser Library
   Homepage: https://github.com/lipnitsk/libcue/
 - Package: libcunit
-  Version: 2.1.3
+  Version: 2.1.3-1
   Description: C Unit Testing Framework
   Homepage: https://sourceforge.net/projects/cunit/
 - Package: libcunit-static
-  Version: 2.1.3
+  Version: 2.1.3-1
   Description: Static libraries for libcunit
   Homepage: https://sourceforge.net/projects/cunit/
 - Package: libcurl
@@ -3759,19 +3759,19 @@
   Description: Static libraries for libcurl
   Homepage: https://curl.se/
 - Package: libczmq
-  Version: 4.2.1-3
+  Version: 4.2.1-4
   Description: High-level C binding for ZeroMQ
   Homepage: https://zeromq.org/
 - Package: libczmq-static
-  Version: 4.2.1-3
+  Version: 4.2.1-4
   Description: Static libraries for libczmq
   Homepage: https://zeromq.org/
 - Package: libdaemon
-  Version: "0.14"
+  Version: 0.14-1
   Description: A lightweight C library that eases the writing of UNIX daemons
   Homepage: https://0pointer.de/lennart/projects/libdaemon/
 - Package: libdaemon-static
-  Version: "0.14"
+  Version: 0.14-1
   Description: Static libraries for libdaemon
   Homepage: https://0pointer.de/lennart/projects/libdaemon/
 - Package: libdav1d
@@ -3787,11 +3787,11 @@
   Description: Static libraries for libdb
   Homepage: https://www.oracle.com/database/berkeley-db
 - Package: libde265
-  Version: 1.0.16
+  Version: 1.0.16-1
   Description: H.265/HEVC video stream decoder library
   Homepage: https://github.com/strukturag/libde265
 - Package: libde265-static
-  Version: 1.0.16
+  Version: 1.0.16-1
   Description: Static libraries for libde265
   Homepage: https://github.com/strukturag/libde265
 - Package: libdebuginfod
@@ -3799,19 +3799,19 @@
   Description: Library for debuginfod
   Homepage: https://sourceware.org/elfutils/
 - Package: libdeflate
-  Version: "1.24"
+  Version: 1.24-1
   Description: C library for fast compression and decompression
   Homepage: https://github.com/ebiggers/libdeflate
 - Package: libdeflate-static
-  Version: "1.24"
+  Version: 1.24-1
   Description: Static libraries for libdeflate
   Homepage: https://github.com/ebiggers/libdeflate
 - Package: libdevil
-  Version: 1.8.0-6
+  Version: 1.8.0-7
   Description: A cross-platform image library utilizing a simple syntax
   Homepage: https://openil.sourceforge.net/
 - Package: libdispatch
-  Version: "1:6.1"
+  Version: 1:6.1-1
   Description: The libdispatch project, for concurrency on multicore hardware
   Homepage: https://github.com/swiftlang/swift-corelibs-libdispatch
 - Package: libdisplay-info
@@ -3819,15 +3819,15 @@
   Description: EDID and DisplayID library
   Homepage: https://emersion.pages.freedesktop.org/libdisplay-info/
 - Package: libdmtx
-  Version: 0.7.8
+  Version: 0.7.8-1
   Description: A software library that enables programs to read and write Data Matrix barcodes
   Homepage: https://github.com/dmtx/libdmtx
 - Package: libdmtx-static
-  Version: 0.7.8
+  Version: 0.7.8-1
   Description: Static libraries for libdmtx
   Homepage: https://github.com/dmtx/libdmtx
 - Package: libdrm
-  Version: 2.4.125
+  Version: 2.4.125-1
   Description: Userspace interface to kernel DRM services
   Homepage: https://dri.freedesktop.org/wiki/
 - Package: libduckdb
@@ -3859,19 +3859,19 @@
   Description: Static libraries for libdvbpsi
   Homepage: https://code.videolan.org/videolan/libdvbpsi/
 - Package: libdvdnav
-  Version: 6.1.1
+  Version: 6.1.1-1
   Description: A library that allows easy use of sophisticated DVD navigation features
   Homepage: https://www.videolan.org/developers/libdvdnav.html
 - Package: libdvdnav-static
-  Version: 6.1.1
+  Version: 6.1.1-1
   Description: Static libraries for libdvdnav
   Homepage: https://www.videolan.org/developers/libdvdnav.html
 - Package: libdvdread
-  Version: 6.1.3
+  Version: 6.1.3-1
   Description: A library that allows easy use of sophisticated DVD navigation features
   Homepage: https://code.videolan.org/videolan/libdvdread
 - Package: libdvdread-static
-  Version: 6.1.3
+  Version: 6.1.3-1
   Description: Static libraries for libdvdread
   Homepage: https://code.videolan.org/videolan/libdvdread
 - Package: libdw
@@ -3883,11 +3883,11 @@
   Description: Static library to read DWARF information
   Homepage: https://sourceware.org/elfutils/
 - Package: libebml
-  Version: 1.4.5-1
+  Version: 1.4.5-2
   Description: Extensible Binary Meta Language library
   Homepage: https://github.com/Matroska-Org/libebml
 - Package: libebur128
-  Version: 1.2.6-2
+  Version: 1.2.6-3
   Description: Implements the EBU R 128 standard for loudness normalisation
   Homepage: https://github.com/jiixyj/libebur128
 - Package: libedit

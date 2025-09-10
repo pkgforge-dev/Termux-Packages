@@ -4,7 +4,7 @@
  6tunnel  0.14  Allows you to use services provided by IPv6 hosts with IPv4-only applications and vice-versa  https://github.com/wojtekka/6tunnel 
  7zip  25.01-1  7-Zip file archiver with a high compression ratio  https://www.7-zip.org 
  8086tiny  1.25-5  A PC XT-compatible emulator/virtual machine  https://github.com/adriancable/8086tiny 
- a52dec  0.8.0-2  A test program for liba52  http://liba52.sourceforge.net/ 
+ a52dec  0.8.0-3  A test program for liba52  http://liba52.sourceforge.net/ 
  aalib  1.4rc5-13  A portable ASCII art graphic library  https://sourceforge.net/projects/aa-project/ 
  aalib-static  1.4rc5-13  Static libraries for aalib  https://sourceforge.net/projects/aa-project/ 
  aapt  13.0.0.6-22  Android Asset Packaging Tool  https://elinux.org/Android_aapt 
@@ -206,7 +206,7 @@
  ccextractor  0.94-6  A tool used to produce subtitles for TV recordings  https://ccextractor.org/ 
  ccls  0.20250511  C/C++/ObjC language server  https://github.com/MaskRay/ccls 
  ccrypt  1.11-1  Secure encryption and decryption of files and streams utility  https://ccrypt.sourceforge.net/ 
- cec-client  7.1.1  Client applications for libCEC  https://libcec.pulse-eight.com/ 
+ cec-client  7.1.1-1  Client applications for libCEC  https://libcec.pulse-eight.com/ 
  ceu-lang  2019.07.17-2  The Structured Synchronous Reactive Programming Language Céu  https://github.com/ceu-lang/ceu 
  cfengine  1:3.25.0-2  CFEngine is a configuration management technology  https://cfengine.com/ 
  cfengine-static  1:3.25.0-2  Static libraries for cfengine  https://cfengine.com/ 
@@ -222,7 +222,7 @@
  chicken  5.4.0-2  A feature rich Scheme compiler and interpreter  https://www.call-cc.org 
  chicken-static  5.4.0-2  Static libraries for chicken  https://www.call-cc.org 
  choose  1.3.7  A human-friendly and fast alternative to cut and (sometimes) awk  https://github.com/theryangeary/choose 
- chromaprint  1.5.1-p20250625-0  C library for generating audio fingerprints used by AcoustID (fpcalc tool)  https://acoustid.org/chromaprint 
+ chromaprint  1.5.1-p20250625-1  C library for generating audio fingerprints used by AcoustID (fpcalc tool)  https://acoustid.org/chromaprint 
  chrony  4.8  chrony is an implementation of the Network Time Protocol (NTP)  https://chrony-project.org/ 
  ciso  1.0.2-2  PSP ISO compression tool  https://github.com/jamie/ciso 
  ckermit  9.0.302-3  A combined network and serial communication software package  https://www.kermitproject.org/ckermit.html 
@@ -783,31 +783,31 @@
  jsoncpp  1.9.6-2  C++ library for interacting with JSON  https://github.com/open-source-parsers/jsoncpp 
  jsoncpp-static  1.9.6-2  Static libraries for jsoncpp  https://github.com/open-source-parsers/jsoncpp 
  jump  0.51.0-3  Jump helps you navigate in shell faster by learning your habits  https://github.com/gsamokovarov/jump 
- just  1.42.4  A handy way to save and run project-specific commands  https://just.systems 
+ just  1.42.4-1  A handy way to save and run project-specific commands  https://just.systems 
  jython  2.7.4-1  Python for the Java Platform  https://www.jython.org/ 
- k2pdfopt  2.55-3  A tool that optimizes PDF files for viewing on mobile readers  https://www.willus.com/k2pdfopt/ 
+ k2pdfopt  2.55-4  A tool that optimizes PDF files for viewing on mobile readers  https://www.willus.com/k2pdfopt/ 
  k9s  0.50.9-1  Kubernetes CLI To Manage Your Clusters In Style!  https://k9scli.io 
  kainjow-mustache  4.1  Mustache implementation for modern C++  https://github.com/kainjow/Mustache 
  kakoune  2025.06.03-2  Code editor heavily inspired by Vim  https://kakoune.org/ 
- kakoune-lsp  18.2.0  Language Server Protocol Client for the Kakoune editor  https://github.com/kakoune-lsp/kakoune-lsp 
+ kakoune-lsp  18.2.0-1  Language Server Protocol Client for the Kakoune editor  https://github.com/kakoune-lsp/kakoune-lsp 
  kbd  2.9.0  KBD's showkey utility for examining keycodes  https://kbd-project.org/ 
- kcptun  20250730  A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC  https://github.com/xtaci/kcptun 
- keybase  6.5.1  Key directory that maps social media identities to encryption keys  https://keybase.io 
+ kcptun  20250730-1  A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC  https://github.com/xtaci/kcptun 
+ keybase  6.5.1-1  Key directory that maps social media identities to encryption keys  https://keybase.io 
  keychain  2.9.6  keychain ssh-agent front-end  https://www.funtoo.org/Keychain 
- kibi  0.2.2-2  A tiny terminal text editor, written in Rust  https://github.com/ilai-deutel/kibi 
- kiwix-tools  3.7.0  A collection of Kiwix related command line tools  https://github.com/kiwix/kiwix-tools 
- knockd  0.8.2-1  A port-knocking daemon  https://zeroflux.org/projects/knock 
+ kibi  0.2.2-3  A tiny terminal text editor, written in Rust  https://github.com/ilai-deutel/kibi 
+ kiwix-tools  3.7.0-1  A collection of Kiwix related command line tools  https://github.com/kiwix/kiwix-tools 
+ knockd  0.8.2-2  A port-knocking daemon  https://zeroflux.org/projects/knock 
  knot-utils  3.2.4-1  Knot DNS utilities  https://www.knot-dns.cz/ 
- kona  20211225  Open-source implementation of the APL-like K programming language  https://github.com/kevinlawler/kona 
+ kona  20211225-1  Open-source implementation of the APL-like K programming language  https://github.com/kevinlawler/kona 
  kotlin  2.2.20  The Kotlin Programming Language  https://kotlinlang.org/ 
  krb5  1.22.1-1  The Kerberos network authentication system  https://web.mit.edu/kerberos 
- kubecolor  0.5.1  Colorize your kubectl output  https://github.com/kubecolor/kubecolor 
+ kubecolor  0.5.1-1  Colorize your kubectl output  https://github.com/kubecolor/kubecolor 
  kubectl  1.34.1  Kubernetes.io client binary  https://kubernetes.io/ 
  kubelogin  1.34.1  A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication  https://github.com/int128/kubelogin 
  kubo  0.37.0  A peer-to-peer hypermedia distribution protocol  https://ipfs.io/ 
  ladspa-sdk  1.17-2  Linux Audio Developer's Simple Plugin API  https://www.ladspa.org/ 
  lame  3.100-7  High quality MPEG Audio Layer III (MP3) encoder - frontend  https://lame.sourceforge.io/ 
- lastpass-cli  1.6.1-2  LastPass command line interface tool  https://lastpass.com/ 
+ lastpass-cli  1.6.1-3  LastPass command line interface tool  https://lastpass.com/ 
  lazygit  0.55.0  Simple terminal UI for git commands  https://github.com/jesseduffield/lazygit 
  lcal  2.1.0  A multi-platform program which generates PostScript lunar calendars in a yearly format  https://pcal.sourceforge.net/ 
  ldc  1.30.0-2  D programming language compiler, built with LLVM  https://github.com/ldc-developers/ldc 
@@ -821,17 +821,17 @@
  lesspipe  2.19  An input filter for the pager less  http://www-zeuthen.desy.de/~friebel/unix/lesspipe.html 
  leveldb  1.23-3  Fast key-value storage library  https://github.com/google/leveldb 
  lexbor  2.5.0  Fast embeddable web browser engine written in C with no dependencies  https://lexbor.com 
- lexter  1.0.3-4  A real-time word puzzle for text terminals  https://www.kyne.au/~mark/software/lexter.php 
+ lexter  1.0.3-5  A real-time word puzzle for text terminals  https://www.kyne.au/~mark/software/lexter.php 
  lf  37  Terminal file manager  https://github.com/gokcehan/lf 
- lftp  4.9.2-6  FTP/HTTP client and file transfer program  https://lftp.tech/ 
- lftp-static  4.9.2-6  Static libraries for lftp  https://lftp.tech/ 
+ lftp  4.9.2-7  FTP/HTTP client and file transfer program  https://lftp.tech/ 
+ lftp-static  4.9.2-7  Static libraries for lftp  https://lftp.tech/ 
  lgogdownloader  3.17-2  Open source downloader to GOG.com for Linux users using the same API as the official GOGDownloader  https://sites.google.com/site/gogdownloader/ 
- lhasa  0.5.0  LHA compressor/decompressor  https://lhasa.soulsphere.org/ 
- lhasa-static  0.5.0  Static libraries for lhasa  https://lhasa.soulsphere.org/ 
- liba52  0.8.0-2  A free library for decoding ATSC A/52 streams  http://liba52.sourceforge.net/ 
- liba52-static  0.8.0-2  Static libraries for liba52  http://liba52.sourceforge.net/ 
- libacl  2.3.1  Access control list shared library  http://savannah.nongnu.org/projects/acl 
- libacl-static  2.3.1  Static libraries for libacl  http://savannah.nongnu.org/projects/acl 
+ lhasa  0.5.0-1  LHA compressor/decompressor  https://lhasa.soulsphere.org/ 
+ lhasa-static  0.5.0-1  Static libraries for lhasa  https://lhasa.soulsphere.org/ 
+ liba52  0.8.0-3  A free library for decoding ATSC A/52 streams  http://liba52.sourceforge.net/ 
+ liba52-static  0.8.0-3  Static libraries for liba52  http://liba52.sourceforge.net/ 
+ libacl  2.3.1-1  Access control list shared library  http://savannah.nongnu.org/projects/acl 
+ libacl-static  2.3.1-1  Static libraries for libacl  http://savannah.nongnu.org/projects/acl 
  libaml  1.0.0-1  Andri's Main Loop library  https://github.com/any1/aml 
  libandroid-complex-math  0.2  A shared library providing libm complex math functions  https://android.googlesource.com/platform/bionic/+/refs/heads/master/libm/upstream-netbsd/lib/libm/complex 
  libandroid-complex-math-static  0.2  Static libraries for libandroid-complex-math  https://android.googlesource.com/platform/bionic/+/refs/heads/master/libm/upstream-netbsd/lib/libm/complex 
@@ -842,120 +842,120 @@
  libandroid-posix-semaphore  0.1-4  Shared library for the posix semaphore system function  https://man7.org/linux/man-pages/man7/sem_overview.7.html 
  libandroid-posix-semaphore-static  0.1-4  Static libraries for libandroid-posix-semaphore  https://man7.org/linux/man-pages/man7/sem_overview.7.html 
  libandroid-selinux  14.0.0.11-1  Android fork of libselinux, an SELinux userland library  https://selinuxproject.org 
- libandroid-shmem  0.5  System V shared memory emulation on Android using ashmem  https://github.com/termux/libandroid-shmem 
- libandroid-shmem-static  0.5  Static libraries for libandroid-shmem  https://github.com/termux/libandroid-shmem 
+ libandroid-shmem  0.5-1  System V shared memory emulation on Android using ashmem  https://github.com/termux/libandroid-shmem 
+ libandroid-shmem-static  0.5-1  Static libraries for libandroid-shmem  https://github.com/termux/libandroid-shmem 
  libandroid-spawn  0.3  Shared library for the posix_spawn system function  https://man7.org/linux/man-pages/man3/posix_spawn.3.html 
  libandroid-spawn-static  0.3  Static libraries for libandroid-spawn  https://man7.org/linux/man-pages/man3/posix_spawn.3.html 
  libandroid-stub  28c  Stub libandroid.so for non-Android certified environment  https://android.googlesource.com/platform/frameworks/base/+/main/native/android 
  libandroid-support  29-1  Library extending the Android C library (Bionic) for additional multibyte, locale and math support  https://github.com/termux/libandroid-support 
  libandroid-support-static  29-1  Static libraries for libandroid-support  https://github.com/termux/libandroid-support 
- libandroid-sysv-semaphore  0.1  A shared library providing System V semaphores  https://android.googlesource.com/platform/bionic/+/refs/heads/master/libc/bionic/sys_sem.cpp 
- libandroid-sysv-semaphore-static  0.1  Static libraries for libandroid-sysv-semaphore  https://android.googlesource.com/platform/bionic/+/refs/heads/master/libc/bionic/sys_sem.cpp 
+ libandroid-sysv-semaphore  0.1-1  A shared library providing System V semaphores  https://android.googlesource.com/platform/bionic/+/refs/heads/master/libc/bionic/sys_sem.cpp 
+ libandroid-sysv-semaphore-static  0.1-1  Static libraries for libandroid-sysv-semaphore  https://android.googlesource.com/platform/bionic/+/refs/heads/master/libc/bionic/sys_sem.cpp 
  libandroid-utimes  0.4  futimes, futimesat and lutimes from bionic  https://github.com/termux/libandroid-utimes 
  libandroid-utimes-static  0.4  Static libraries for libandroid-utimes  https://github.com/termux/libandroid-utimes 
- libandroid-wordexp  0.1  Shared library for the wordexp(3) system function  https://man7.org/linux/man-pages/man3/wordexp.3.html 
- libandroid-wordexp-static  0.1  Static libraries for libandroid-wordexp  https://man7.org/linux/man-pages/man3/wordexp.3.html 
- libao  1.2.2-7  A cross platform audio library  https://www.xiph.org/ao/ 
- libao-static  1.2.2-7  Static libraries for libao  https://www.xiph.org/ao/ 
+ libandroid-wordexp  0.1-1  Shared library for the wordexp(3) system function  https://man7.org/linux/man-pages/man3/wordexp.3.html 
+ libandroid-wordexp-static  0.1-1  Static libraries for libandroid-wordexp  https://man7.org/linux/man-pages/man3/wordexp.3.html 
+ libao  1.2.2-8  A cross platform audio library  https://www.xiph.org/ao/ 
+ libao-static  1.2.2-8  Static libraries for libao  https://www.xiph.org/ao/ 
  libaom  3.13.1  AV1 Video Codec Library  https://aomedia.org/ 
  libaom-static  3.13.1  Static libraries for libaom  https://aomedia.org/ 
- libapt-pkg-perl  0.1.40-11  Perl interface to APT's libapt-pkg  https://packages.debian.org/libapt-pkg-perl 
+ libapt-pkg-perl  0.1.40-12  Perl interface to APT's libapt-pkg  https://packages.debian.org/libapt-pkg-perl 
  libarchive  3.8.1-1  Multi-format archive and compression library  https://www.libarchive.org/ 
  libarchive-static  3.8.1-1  Static libraries for libarchive  https://www.libarchive.org/ 
  libarrow-cpp  21.0.0-3  C++ libraries for Apache Arrow  https://github.com/apache/arrow 
  libasio  1.24.0-3  Cross-platform C++ library for network and low-level I/O programming  https://think-async.com/Asio 
  libasm  0.193  Library to assemble and disassemble instructions  https://sourceware.org/elfutils/ 
  libasm-static  0.193  Static library to assemble and disassemble instructions  https://sourceware.org/elfutils/ 
- libass  0.17.4  A portable library for SSA/ASS subtitles rendering  https://github.com/libass/libass 
- libass-static  0.17.4  Static libraries for libass  https://github.com/libass/libass 
+ libass  0.17.4-1  A portable library for SSA/ASS subtitles rendering  https://github.com/libass/libass 
+ libass-static  0.17.4-1  Static libraries for libass  https://github.com/libass/libass 
  libassuan  3.0.2-1  Library implementing the Assuan IPC protocol used between most newer GnuPG components  https://www.gnupg.org/related_software/libassuan/ 
  libassuan-static  3.0.2-1  Static libraries for libassuan  https://www.gnupg.org/related_software/libassuan/ 
  libatomic-ops  7.8.4  Provides semi-portable access to hardware-provided atomic memory update operations  https://github.com/bdwgc/libatomic_ops 
  libatomic-ops-static  7.8.4  Static libraries for libatomic-ops  https://github.com/bdwgc/libatomic_ops 
  libbcprov-java  1.80-1  A lightweight cryptography API for Java  https://www.bouncycastle.org/java.html 
  libblkid  2.40.2-5  Block device identification library  https://en.wikipedia.org/wiki/Util-linux 
- libblocksruntime  1:6.1  LLVM Blocks runtime library  https://github.com/swiftlang/swift-corelibs-libdispatch 
- libblosc  1.21.6  A blocking, shuffling and loss-less compression library  https://www.blosc.org 
- libblosc-static  1.21.6  Static libraries for libblosc  https://www.blosc.org 
- libbluray  1.3.4-2  An open-source library designed for Blu-Ray Discs playback for media players  https://code.videolan.org/videolan/libbluray/ 
- libbluray-static  1.3.4-2  Static libraries for libbluray  https://code.videolan.org/videolan/libbluray/ 
- libbluray-utils  1.3.4-2  Example utilities for libbluray  https://code.videolan.org/videolan/libbluray/ 
- libbs2b  3.1.0-1  Bauer stereophonic-to-binaural DSP  http://bs2b.sourceforge.net/ 
- libbs2b-static  3.1.0-1  Static libraries for libbs2b  http://bs2b.sourceforge.net/ 
- libbsd  0.11.7-1  utility functions from BSD systems  https://libbsd.freedesktop.org 
- libbsd-static  0.11.7-1  Static libraries for libbsd  https://libbsd.freedesktop.org 
- libbullet  3.25  SDK for real-time collision detection and multi-physics simulation for robotics, VR, etc  https://github.com/bulletphysics/bullet3 
- libburn  1.5.6  Library for reading, mastering and writing optical discs  https://dev.lovelyhq.com/libburnia 
- libburn-static  1.5.6  Static libraries for libburn  https://dev.lovelyhq.com/libburnia 
+ libblocksruntime  1:6.1-1  LLVM Blocks runtime library  https://github.com/swiftlang/swift-corelibs-libdispatch 
+ libblosc  1.21.6-1  A blocking, shuffling and loss-less compression library  https://www.blosc.org 
+ libblosc-static  1.21.6-1  Static libraries for libblosc  https://www.blosc.org 
+ libbluray  1.3.4-3  An open-source library designed for Blu-Ray Discs playback for media players  https://code.videolan.org/videolan/libbluray/ 
+ libbluray-static  1.3.4-3  Static libraries for libbluray  https://code.videolan.org/videolan/libbluray/ 
+ libbluray-utils  1.3.4-3  Example utilities for libbluray  https://code.videolan.org/videolan/libbluray/ 
+ libbs2b  3.1.0-2  Bauer stereophonic-to-binaural DSP  https://bs2b.sourceforge.net/ 
+ libbs2b-static  3.1.0-2  Static libraries for libbs2b  https://bs2b.sourceforge.net/ 
+ libbsd  0.11.7-2  utility functions from BSD systems  https://libbsd.freedesktop.org 
+ libbsd-static  0.11.7-2  Static libraries for libbsd  https://libbsd.freedesktop.org 
+ libbullet  3.25-1  SDK for real-time collision detection and multi-physics simulation for robotics, VR, etc  https://github.com/bulletphysics/bullet3 
+ libburn  1.5.6-1  Library for reading, mastering and writing optical discs  https://dev.lovelyhq.com/libburnia 
+ libburn-static  1.5.6-1  Static libraries for libburn  https://dev.lovelyhq.com/libburnia 
  libbz2  1.0.8-8  BZ2 format compression library  http://www.bzip.org/ 
  libc++  28c  C++ Standard Library  https://libcxx.llvm.org/ 
  libc++utilities  5.30.0-1  Useful C++ classes and routines such as argument parser, IO and conversion utilities  https://github.com/Martchus/cpp-utilities 
- libc-client  2007f-3  UW IMAP c-client library  https://www.washington.edu/imap/ 
- libc-client-static  2007f-3  Static libraries for libc-client  https://www.washington.edu/imap/ 
- libcaca  0.99.beta20-2  Graphics library that outputs text instead of pixels  http://caca.zoy.org/wiki/libcaca 
- libcaca-static  0.99.beta20-2  Static libraries for libcaca  http://caca.zoy.org/wiki/libcaca 
+ libc-client  2007f-4  UW IMAP c-client library  https://www.washington.edu/imap/ 
+ libc-client-static  2007f-4  Static libraries for libc-client  https://www.washington.edu/imap/ 
+ libcaca  0.99.beta20-3  Graphics library that outputs text instead of pixels  http://caca.zoy.org/wiki/libcaca 
+ libcaca-static  0.99.beta20-3  Static libraries for libcaca  http://caca.zoy.org/wiki/libcaca 
  libcairo  1.18.4-2  Cairo 2D vector graphics library  https://cairographics.org 
- libcairomm-1.0  1.14.5  Provides a C++ interface to cairo  https://www.cairographics.org/cairomm/ 
- libcairomm-1.16  1.18.0  Provides a C++ interface to cairo  https://www.cairographics.org/cairomm/ 
+ libcairomm-1.0  1.14.5-1  Provides a C++ interface to cairo  https://www.cairographics.org/cairomm/ 
+ libcairomm-1.16  1.18.0-1  Provides a C++ interface to cairo  https://www.cairographics.org/cairomm/ 
  libcap  2.69-1  POSIX 1003.1e capabilities  https://sites.google.com/site/fullycapable/ 
  libcap-ng  2:0.8.5-1  Library making programming with POSIX capabilities easier than traditional libcap  https://people.redhat.com/sgrubb/libcap-ng/ 
  libcap-ng-static  2:0.8.5-1  Static libraries for libcap-ng  https://people.redhat.com/sgrubb/libcap-ng/ 
  libcap-static  2.69-1  Static libraries for libcap  https://sites.google.com/site/fullycapable/ 
- libccd  2.1-1  Library for collision detection between two convex shapes  https://github.com/danfis/libccd 
- libcddb  1.3.2  A C library to access data on a CDDB server  http://libcddb.sourceforge.net/ 
- libcddb-static  1.3.2  Static libraries for libcddb  http://libcddb.sourceforge.net/ 
- libcdk  5.0-20250116-0  Curses Development Kit  https://dickey.his.com/cdk/cdk.html 
- libcec  7.1.1  Provides support for Pulse-Eight's USB-CEC adapter and other CEC capable hardware  https://libcec.pulse-eight.com/ 
- libcec-static  7.1.1  Static libraries for libcec  https://libcec.pulse-eight.com/ 
- libceres-solver  2.2.0-1  C++ library for modeling and solving large, complicated optimization problems  http://ceres-solver.org 
- libchipmunk  7.0.3-1  A fast and lightweight 2D game physics library  http://chipmunk2d.net 
- libchromaprint  1.5.1-p20250625-0  C library for generating audio fingerprints used by AcoustID  https://acoustid.org/chromaprint 
+ libccd  2.1-2  Library for collision detection between two convex shapes  https://github.com/danfis/libccd 
+ libcddb  1.3.2-1  A C library to access data on a CDDB server  https://libcddb.sourceforge.net/ 
+ libcddb-static  1.3.2-1  Static libraries for libcddb  https://libcddb.sourceforge.net/ 
+ libcdk  5.0-20250116-1  Curses Development Kit  https://dickey.his.com/cdk/cdk.html 
+ libcec  7.1.1-1  Provides support for Pulse-Eight's USB-CEC adapter and other CEC capable hardware  https://libcec.pulse-eight.com/ 
+ libcec-static  7.1.1-1  Static libraries for libcec  https://libcec.pulse-eight.com/ 
+ libceres-solver  2.2.0-2  C++ library for modeling and solving large, complicated optimization problems  http://ceres-solver.org 
+ libchipmunk  7.0.3-2  A fast and lightweight 2D game physics library  http://chipmunk2d.net 
+ libchromaprint  1.5.1-p20250625-1  C library for generating audio fingerprints used by AcoustID  https://acoustid.org/chromaprint 
  libclc  20.1.7  Open source implementation of the library requirements of the OpenCL C programming language  https://libclc.llvm.org/ 
- libcln  1.3.7  CLN is a library for efficient computations with all kinds of numbers in arbitrary precision  https://www.ginac.de/CLN/ 
- libcln-static  1.3.7  Static libraries for libcln  https://www.ginac.de/CLN/ 
- libcloog  0.21.1  Library that generates loops for scanning polyhedra  http://www.bastoul.net/cloog/index.php 
- libcloog-static  0.21.1  Static libraries for libcloog  http://www.bastoul.net/cloog/index.php 
- libcoap  4.3.5-rc3-0  Implementation of CoAP, a lightweight protocol for resource constrained devices  https://libcoap.net/ 
- libcoap-static  4.3.5-rc3-0  Static libraries for libcoap  https://libcoap.net/ 
- libcoinor-cgl  0.60.8  An open-source cut generation library for COIN-OR projects  https://github.com/coin-or/Cgl 
- libcoinor-cgl-static  0.60.8  Static libraries for libcoinor-cgl  https://github.com/coin-or/Cgl 
- libcoinor-osi  1:0.108.8  An abstract base class to a generic linear programming (LP) solver  https://github.com/coin-or/Osi 
- libcoinor-osi-static  1:0.108.8  Static libraries for libcoinor-osi  https://github.com/coin-or/Osi 
- libcoinor-utils  1:2.11.11  An open-source collection of classes and helper functions for COIN-OR projects  https://github.com/coin-or/CoinUtils 
- libcoinor-utils-static  1:2.11.11  Static libraries for libcoinor-utils  https://github.com/coin-or/CoinUtils 
+ libcln  1.3.7-1  CLN is a library for efficient computations with all kinds of numbers in arbitrary precision  https://www.ginac.de/CLN/ 
+ libcln-static  1.3.7-1  Static libraries for libcln  https://www.ginac.de/CLN/ 
+ libcloog  0.21.1-1  Library that generates loops for scanning polyhedra  http://www.bastoul.net/cloog/index.php 
+ libcloog-static  0.21.1-1  Static libraries for libcloog  http://www.bastoul.net/cloog/index.php 
+ libcoap  4.3.5-rc3-1  Implementation of CoAP, a lightweight protocol for resource constrained devices  https://libcoap.net/ 
+ libcoap-static  4.3.5-rc3-1  Static libraries for libcoap  https://libcoap.net/ 
+ libcoinor-cgl  0.60.8-1  An open-source cut generation library for COIN-OR projects  https://github.com/coin-or/Cgl 
+ libcoinor-cgl-static  0.60.8-1  Static libraries for libcoinor-cgl  https://github.com/coin-or/Cgl 
+ libcoinor-osi  1:0.108.8-1  An abstract base class to a generic linear programming (LP) solver  https://github.com/coin-or/Osi 
+ libcoinor-osi-static  1:0.108.8-1  Static libraries for libcoinor-osi  https://github.com/coin-or/Osi 
+ libcoinor-utils  1:2.11.11-1  An open-source collection of classes and helper functions for COIN-OR projects  https://github.com/coin-or/CoinUtils 
+ libcoinor-utils-static  1:2.11.11-1  Static libraries for libcoinor-utils  https://github.com/coin-or/CoinUtils 
  libcommons-lang3-java  3.18.0-1  A host of helper utilities for the java.lang API  https://commons.apache.org/proper/commons-lang/ 
  libcompiler-rt  20.1.8-3  Compiler runtime libraries for clang  https://clang.llvm.org/ 
- libconfig  1.8.1  C/C++ Configuration File Library  https://github.com/hyperrealm/libconfig 
- libconfig-static  1.8.1  Static libraries for libconfig  https://github.com/hyperrealm/libconfig 
- libconfuse  3.3  Small configuration file parser library for C  https://github.com/martinh/libconfuse 
- libconfuse-static  3.3  Static libraries for libconfuse  https://github.com/martinh/libconfuse 
- libcpufeatures  0.10.1  A cross-platform C library to retrieve CPU features (such as available instructions) at runtime  https://github.com/google/cpu_features 
- libcroco  0.6.13-9  CSS parsing and manipulation library  https://gitlab.gnome.org/Archive/libcroco 
- libcroco-static  0.6.13-9  Static libraries for libcroco  https://gitlab.gnome.org/Archive/libcroco 
+ libconfig  1.8.1-1  C/C++ Configuration File Library  https://github.com/hyperrealm/libconfig 
+ libconfig-static  1.8.1-1  Static libraries for libconfig  https://github.com/hyperrealm/libconfig 
+ libconfuse  3.3-1  Small configuration file parser library for C  https://github.com/martinh/libconfuse 
+ libconfuse-static  3.3-1  Static libraries for libconfuse  https://github.com/martinh/libconfuse 
+ libcpufeatures  0.10.1-1  A cross-platform C library to retrieve CPU features (such as available instructions) at runtime  https://github.com/google/cpu_features 
+ libcroco  0.6.13-10  CSS parsing and manipulation library  https://gitlab.gnome.org/Archive/libcroco 
+ libcroco-static  0.6.13-10  Static libraries for libcroco  https://gitlab.gnome.org/Archive/libcroco 
  libcrypt  0.2-6  A crypt(3) implementation  http://michael.dipperstein.com/crypt/ 
- libcue  2.3.0  CUE Sheet Parser Library  https://github.com/lipnitsk/libcue/ 
- libcunit  2.1.3  C Unit Testing Framework  https://sourceforge.net/projects/cunit/ 
- libcunit-static  2.1.3  Static libraries for libcunit  https://sourceforge.net/projects/cunit/ 
+ libcue  2.3.0-1  CUE Sheet Parser Library  https://github.com/lipnitsk/libcue/ 
+ libcunit  2.1.3-1  C Unit Testing Framework  https://sourceforge.net/projects/cunit/ 
+ libcunit-static  2.1.3-1  Static libraries for libcunit  https://sourceforge.net/projects/cunit/ 
  libcurl  8.16.0  Easy-to-use client-side URL transfer library  https://curl.se/ 
  libcurl-static  8.16.0  Static libraries for libcurl  https://curl.se/ 
- libczmq  4.2.1-3  High-level C binding for ZeroMQ  https://zeromq.org/ 
- libczmq-static  4.2.1-3  Static libraries for libczmq  https://zeromq.org/ 
- libdaemon  0.14  A lightweight C library that eases the writing of UNIX daemons  https://0pointer.de/lennart/projects/libdaemon/ 
- libdaemon-static  0.14  Static libraries for libdaemon  https://0pointer.de/lennart/projects/libdaemon/ 
+ libczmq  4.2.1-4  High-level C binding for ZeroMQ  https://zeromq.org/ 
+ libczmq-static  4.2.1-4  Static libraries for libczmq  https://zeromq.org/ 
+ libdaemon  0.14-1  A lightweight C library that eases the writing of UNIX daemons  https://0pointer.de/lennart/projects/libdaemon/ 
+ libdaemon-static  0.14-1  Static libraries for libdaemon  https://0pointer.de/lennart/projects/libdaemon/ 
  libdav1d  1.5.1-1  AV1 cross-platform decoder focused on speed and correctness  https://code.videolan.org/videolan/dav1d/ 
  libdb  18.1.40-5  The Berkeley DB embedded database system (library)  https://www.oracle.com/database/berkeley-db 
  libdb-static  18.1.40-5  Static libraries for libdb  https://www.oracle.com/database/berkeley-db 
- libde265  1.0.16  H.265/HEVC video stream decoder library  https://github.com/strukturag/libde265 
- libde265-static  1.0.16  Static libraries for libde265  https://github.com/strukturag/libde265 
+ libde265  1.0.16-1  H.265/HEVC video stream decoder library  https://github.com/strukturag/libde265 
+ libde265-static  1.0.16-1  Static libraries for libde265  https://github.com/strukturag/libde265 
  libdebuginfod  0.193  Library for debuginfod  https://sourceware.org/elfutils/ 
- libdeflate  1.24  C library for fast compression and decompression  https://github.com/ebiggers/libdeflate 
- libdeflate-static  1.24  Static libraries for libdeflate  https://github.com/ebiggers/libdeflate 
- libdevil  1.8.0-6  A cross-platform image library utilizing a simple syntax  https://openil.sourceforge.net/ 
- libdispatch  1:6.1  The libdispatch project, for concurrency on multicore hardware  https://github.com/swiftlang/swift-corelibs-libdispatch 
+ libdeflate  1.24-1  C library for fast compression and decompression  https://github.com/ebiggers/libdeflate 
+ libdeflate-static  1.24-1  Static libraries for libdeflate  https://github.com/ebiggers/libdeflate 
+ libdevil  1.8.0-7  A cross-platform image library utilizing a simple syntax  https://openil.sourceforge.net/ 
+ libdispatch  1:6.1-1  The libdispatch project, for concurrency on multicore hardware  https://github.com/swiftlang/swift-corelibs-libdispatch 
  libdisplay-info  0.3.0  EDID and DisplayID library  https://emersion.pages.freedesktop.org/libdisplay-info/ 
- libdmtx  0.7.8  A software library that enables programs to read and write Data Matrix barcodes  https://github.com/dmtx/libdmtx 
- libdmtx-static  0.7.8  Static libraries for libdmtx  https://github.com/dmtx/libdmtx 
- libdrm  2.4.125  Userspace interface to kernel DRM services  https://dri.freedesktop.org/wiki/ 
+ libdmtx  0.7.8-1  A software library that enables programs to read and write Data Matrix barcodes  https://github.com/dmtx/libdmtx 
+ libdmtx-static  0.7.8-1  Static libraries for libdmtx  https://github.com/dmtx/libdmtx 
+ libdrm  2.4.125-1  Userspace interface to kernel DRM services  https://dri.freedesktop.org/wiki/ 
  libduckdb  1.3.2  An in-process SQL OLAP database management system  https://duckdb.org/ 
  libduckdb-static  1.3.2  Static libraries for libduckdb  https://duckdb.org/ 
  libduktape  2.7.0-1  An embeddable Javascript engine with a focus on portability and compact footprint  https://www.duktape.org/ 
@@ -963,14 +963,14 @@
  libdvbcsa-static  1.1.0-2  Static libraries for libdvbcsa  https://www.videolan.org/developers/libdvbcsa.html 
  libdvbpsi  1.3.3  Simple MPEG TS PSI parser library supporting various standards  https://code.videolan.org/videolan/libdvbpsi/ 
  libdvbpsi-static  1.3.3  Static libraries for libdvbpsi  https://code.videolan.org/videolan/libdvbpsi/ 
- libdvdnav  6.1.1  A library that allows easy use of sophisticated DVD navigation features  https://www.videolan.org/developers/libdvdnav.html 
- libdvdnav-static  6.1.1  Static libraries for libdvdnav  https://www.videolan.org/developers/libdvdnav.html 
- libdvdread  6.1.3  A library that allows easy use of sophisticated DVD navigation features  https://code.videolan.org/videolan/libdvdread 
- libdvdread-static  6.1.3  Static libraries for libdvdread  https://code.videolan.org/videolan/libdvdread 
+ libdvdnav  6.1.1-1  A library that allows easy use of sophisticated DVD navigation features  https://www.videolan.org/developers/libdvdnav.html 
+ libdvdnav-static  6.1.1-1  Static libraries for libdvdnav  https://www.videolan.org/developers/libdvdnav.html 
+ libdvdread  6.1.3-1  A library that allows easy use of sophisticated DVD navigation features  https://code.videolan.org/videolan/libdvdread 
+ libdvdread-static  6.1.3-1  Static libraries for libdvdread  https://code.videolan.org/videolan/libdvdread 
  libdw  0.193  Library to read DWARF information  https://sourceware.org/elfutils/ 
  libdw-static  0.193  Static library to read DWARF information  https://sourceware.org/elfutils/ 
- libebml  1.4.5-1  Extensible Binary Meta Language library  https://github.com/Matroska-Org/libebml 
- libebur128  1.2.6-2  Implements the EBU R 128 standard for loudness normalisation  https://github.com/jiixyj/libebur128 
+ libebml  1.4.5-2  Extensible Binary Meta Language library  https://github.com/Matroska-Org/libebml 
+ libebur128  1.2.6-3  Implements the EBU R 128 standard for loudness normalisation  https://github.com/jiixyj/libebur128 
  libedit  20240517-3.1-1  Library providing line editing, history, and tokenization functions  https://thrysoee.dk/editline/ 
  libedit-static  20240517-3.1-1  Static libraries for libedit  https://thrysoee.dk/editline/ 
  libelf  0.193  ELF object file access library  https://sourceware.org/elfutils/ 
