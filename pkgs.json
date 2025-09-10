@@ -1015,7 +1015,7 @@
   },
   {
     "Package": "btrfs-progs",
-    "Version": "6.16",
+    "Version": "6.16.1",
     "Description": "Utilities for Btrfs filesystem",
     "Homepage": "https://btrfs.readthedocs.io/en/latest/"
   },
@@ -2035,7 +2035,7 @@
   },
   {
     "Package": "dnsutils",
-    "Version": "9.20.12",
+    "Version": "9.20.13",
     "Description": "Clients provided with BIND",
     "Homepage": "https://www.isc.org/bind/"
   },
@@ -4825,7 +4825,7 @@
   },
   {
     "Package": "kubectl",
-    "Version": "1.34.0",
+    "Version": "1.34.1",
     "Description": "Kubernetes.io client binary",
     "Homepage": "https://kubernetes.io/"
   },
@@ -9037,7 +9037,7 @@
   },
   {
     "Package": "libxmlb",
-    "Version": "0.3.23",
+    "Version": "0.3.24",
     "Description": "Library to help create and query binary XML blobs",
     "Homepage": "https://github.com/hughsie/libxmlb"
   },
@@ -9085,13 +9085,13 @@
   },
   {
     "Package": "libxss",
-    "Version": "1.2.4",
+    "Version": "1.2.5",
     "Description": "X11 Screen Saver extension library",
     "Homepage": "https://xorg.freedesktop.org/"
   },
   {
     "Package": "libxss-static",
-    "Version": "1.2.4",
+    "Version": "1.2.5",
     "Description": "Static libraries for libxss",
     "Homepage": "https://xorg.freedesktop.org/"
   },

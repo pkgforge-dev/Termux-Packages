@@ -179,7 +179,7 @@
 | **bsd-games** | 1:3.3-1 | Classic text mode games from UNIX folklore | https://www.polyomino.org.uk/computer/software/bsd-games/ |
 | **bsdtar** | 3.8.1-1 | The tar(1) and cpio(1) programs from FreeBSD, using libarchive | https://www.libarchive.org/ |
 | **btfs2** | 4.0.0-1 | Decentralized file system integrating with TRON network and Bittorrent network | https://www.bittorrent.com/btfs/ |
-| **btrfs-progs** | 6.16 | Utilities for Btrfs filesystem | https://btrfs.readthedocs.io/en/latest/ |
+| **btrfs-progs** | 6.16.1 | Utilities for Btrfs filesystem | https://btrfs.readthedocs.io/en/latest/ |
 | **buf** | 1.57.0 | A new way of working with Protocol Buffers | https://buf.build |
 | **build-essential** | 4.1 | A metapackage that installs essential development tools | https://github.com/termux/termux-packages |
 | **busybox** | 1.37.0-2 | Tiny versions of many common UNIX utilities into a single small executable | https://busybox.net/ |
@@ -349,7 +349,7 @@
 | **dnslookup** | 1.11.1-2 | Simple command line utility to make DNS lookups. Supports all known DNS protocols: plain DNS, DoH, DoT, DoQ, DNSCrypt. | https://github.com/ameshkov/dnslookup |
 | **dnsmap** | 0.36-3 | Subdomain Bruteforcing Tool | https://github.com/resurrecting-open-source-projects/dnsmap |
 | **dnstop** | 2022.10.19-1 | A libpcap application that displays various tables of DNS traffic on your network | https://github.com/measurement-factory/dnstop |
-| **dnsutils** | 9.20.12 | Clients provided with BIND | https://www.isc.org/bind/ |
+| **dnsutils** | 9.20.13 | Clients provided with BIND | https://www.isc.org/bind/ |
 | **docbook-xml** | 5.1-1 | A widely used XML scheme for writing documentation and help | https://www.oasis-open.org/docbook/ |
 | **docbook-xsl** | 1.79.2-4 | XML stylesheets for Docbook-xml transformations | https://docbook.org/ |
 | **docopt** | 0.6.3-4 | Command line arguments parser for C++11 and later | http://docopt.org |
@@ -814,7 +814,7 @@
 | **kotlin** | 2.2.20 | The Kotlin Programming Language | https://kotlinlang.org/ |
 | **krb5** | 1.22.1-1 | The Kerberos network authentication system | https://web.mit.edu/kerberos |
 | **kubecolor** | 0.5.1 | Colorize your kubectl output | https://github.com/kubecolor/kubecolor |
-| **kubectl** | 1.34.0 | Kubernetes.io client binary | https://kubernetes.io/ |
+| **kubectl** | 1.34.1 | Kubernetes.io client binary | https://kubernetes.io/ |
 | **kubelogin** | 1.34.1 | A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication | https://github.com/int128/kubelogin |
 | **kubo** | 0.37.0 | A peer-to-peer hypermedia distribution protocol | https://ipfs.io/ |
 | **ladspa-sdk** | 1.17-2 | Linux Audio Developer's Simple Plugin API | https://www.ladspa.org/ |
@@ -1516,7 +1516,7 @@
 | **libxml2-python-static** | 2.14.6 | Static libraries for libxml2-python | http://www.xmlsoft.org |
 | **libxml2-static** | 2.14.6 | Static libraries for libxml2 | http://www.xmlsoft.org |
 | **libxml2-utils** | 2.14.6 | XML utilities | http://www.xmlsoft.org |
-| **libxmlb** | 0.3.23 | Library to help create and query binary XML blobs | https://github.com/hughsie/libxmlb |
+| **libxmlb** | 0.3.24 | Library to help create and query binary XML blobs | https://github.com/hughsie/libxmlb |
 | **libxmlrpc** | 1.60.05 | XML-RPC for C and C++ | https://xmlrpc-c.sourceforge.io/ |
 | **libxmlrpc-static** | 1.60.05 | Static libraries for libxmlrpc | https://xmlrpc-c.sourceforge.io/ |
 | **libxrandr** | 1.5.4 | X11 RandR extension library | https://xorg.freedesktop.org/ |
@@ -1524,8 +1524,8 @@
 | **libxrender** | 0.9.12 | X Rendering Extension client library | https://xorg.freedesktop.org/ |
 | **libxshmfence** | 1.3.3 | A library that exposes a event API on top of Linux futexes | https://xorg.freedesktop.org/ |
 | **libxslt** | 1.1.43-2 | XSLT processing library | http://xmlsoft.org/libxslt/ |
-| **libxss** | 1.2.4 | X11 Screen Saver extension library | https://xorg.freedesktop.org/ |
-| **libxss-static** | 1.2.4 | Static libraries for libxss | https://xorg.freedesktop.org/ |
+| **libxss** | 1.2.5 | X11 Screen Saver extension library | https://xorg.freedesktop.org/ |
+| **libxss-static** | 1.2.5 | Static libraries for libxss | https://xorg.freedesktop.org/ |
 | **libxt** | 1.3.1 | X11 toolkit intrinsics library | https://xorg.freedesktop.org/ |
 | **libxt-static** | 1.3.1 | Static libraries for libxt | https://xorg.freedesktop.org/ |
 | **libxtst** | 1.2.5 | Xlib-based library for XTEST & RECORD extensions | https://xorg.freedesktop.org/ |
