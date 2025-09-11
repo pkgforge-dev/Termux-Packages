@@ -3349,7 +3349,7 @@
   },
   {
     "Package": "gitea",
-    "Version": "1.24.5",
+    "Version": "1.24.6",
     "Description": "Git with a cup of tea, painless self-hosted git service",
     "Homepage": "https://gitea.io"
   },
@@ -4525,7 +4525,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.22.2451",
+    "Version": "0.23.8",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -6720,30 +6720,6 @@
     "Homepage": "https://www.gnu.org/software/libtool/"
   },
   {
-    "Package": "liblua51",
-    "Version": "5.1.5-3",
-    "Description": "Shared library for the Lua interpreter (v5.1.x)",
-    "Homepage": "https://www.lua.org"
-  },
-  {
-    "Package": "liblua51-static",
-    "Version": "5.1.5-3",
-    "Description": "Static libraries for liblua51",
-    "Homepage": "https://www.lua.org"
-  },
-  {
-    "Package": "liblua52",
-    "Version": "5.2.4-11",
-    "Description": "Shared library for the Lua interpreter (v5.2.x)",
-    "Homepage": "https://www.lua.org"
-  },
-  {
-    "Package": "liblua52-static",
-    "Version": "5.2.4-11",
-    "Description": "Static libraries for liblua52",
-    "Homepage": "https://www.lua.org"
-  },
-  {
     "Package": "liblua53",
     "Version": "5.3.6-4",
     "Description": "Shared library for the Lua interpreter (v5.3.x)",
@@ -7902,36 +7878,6 @@
     "Homepage": "https://github.com/haiwen/libsearpc"
   },
   {
-    "Package": "libseat",
-    "Version": "0.9.1",
-    "Description": "Reference implementation of a wayland compositor",
-    "Homepage": "https://sr.ht/~kennylevinsen/seatd/"
-  },
-  {
-    "Package": "libseccomp",
-    "Version": "2.5.5-3",
-    "Description": "Enhanced seccomp library",
-    "Homepage": "https://github.com/seccomp/libseccomp"
-  },
-  {
-    "Package": "libseccomp-static",
-    "Version": "2.5.5-3",
-    "Description": "Static libraries for libseccomp",
-    "Homepage": "https://github.com/seccomp/libseccomp"
-  },
-  {
-    "Package": "libsecp256k1",
-    "Version": "1:0.7.0",
-    "Description": "Optimized c library for ECDSA signatures and seret/public key operations on curve secp256k1",
-    "Homepage": "https://github.com/bitcoin-core/secp256k1"
-  },
-  {
-    "Package": "libsecp256k1-static",
-    "Version": "1:0.7.0",
-    "Description": "Static libraries for libsecp256k1",
-    "Homepage": "https://github.com/bitcoin-core/secp256k1"
-  },
-  {
     "Package": "libsecret",
     "Version": "0.21.7-1",
     "Description": "A GObject-based library for accessing the Secret Service API",
@@ -8074,12 +8020,6 @@
     "Version": "2.3.3-1",
     "Description": "Static libraries for libsoundtouch",
     "Homepage": "https://www.surina.net/soundtouch/"
-  },
-  {
-    "Package": "libsoup",
-    "Version": "2.74.3-4",
-    "Description": "HTTP client and server library",
-    "Homepage": "https://wiki.gnome.org/action/show/Projects/libsoup"
   },
   {
     "Package": "libsoup3",
@@ -8688,42 +8628,6 @@
     "Homepage": "https://github.com/Netflix/vmaf"
   },
   {
-    "Package": "libvo-amrwbenc",
-    "Version": "0.1.3",
-    "Description": "VisualOn AMR-WB encoder library",
-    "Homepage": "https://sourceforge.net/projects/opencore-amr"
-  },
-  {
-    "Package": "libvo-amrwbenc-static",
-    "Version": "0.1.3",
-    "Description": "Static libraries for libvo-amrwbenc",
-    "Homepage": "https://sourceforge.net/projects/opencore-amr"
-  },
-  {
-    "Package": "libvoikko",
-    "Version": "4.3.3",
-    "Description": "A spelling and grammar checker, hyphenator and collection of related linguistic data for Finnish language",
-    "Homepage": "http://voikko.sourceforge.net"
-  },
-  {
-    "Package": "libvoikko-static",
-    "Version": "4.3.3",
-    "Description": "Static libraries for libvoikko",
-    "Homepage": "http://voikko.sourceforge.net"
-  },
-  {
-    "Package": "libvorbis",
-    "Version": "1.3.7-2",
-    "Description": "Library for using the Ogg Vorbis compressed audio format",
-    "Homepage": "https://xiph.org/vorbis/"
-  },
-  {
-    "Package": "libvorbis-static",
-    "Version": "1.3.7-2",
-    "Description": "Static libraries for libvorbis",
-    "Homepage": "https://xiph.org/vorbis/"
-  },
-  {
     "Package": "libvpx",
     "Version": "1:1.15.2",
     "Description": "VP8 & VP9 Codec SDK",
@@ -8734,12 +8638,6 @@
     "Version": "1:1.15.2",
     "Description": "Static libraries for libvpx",
     "Homepage": "https://www.webmproject.org"
-  },
-  {
-    "Package": "libvterm",
-    "Version": "1:0.3.3",
-    "Description": "Terminal emulator library",
-    "Homepage": "https://www.leonerd.org.uk/code/libvterm/"
   },
   {
     "Package": "libvxl",
@@ -9204,40 +9102,10 @@
     "Homepage": "https://drobilla.net/category/zix"
   },
   {
-    "Package": "libzmq",
-    "Version": "4.3.5",
-    "Description": "Fast messaging system built on sockets. C and C++ bindings. aka 0MQ, ZMQ.",
-    "Homepage": "https://zeromq.org/"
-  },
-  {
-    "Package": "libzmq-static",
-    "Version": "4.3.5",
-    "Description": "Static libraries for libzmq",
-    "Homepage": "https://zeromq.org/"
-  },
-  {
-    "Package": "libzopfli",
-    "Version": "1.0.3-3",
-    "Description": "New zlib compatible compressor library",
-    "Homepage": "https://github.com/google/zopfli"
-  },
-  {
-    "Package": "libzxing-cpp",
-    "Version": "2.3.0-1",
-    "Description": "An open-source, multi-format 1D/2D barcode image processing library implemented in C++",
-    "Homepage": "https://github.com/zxing-cpp/zxing-cpp"
-  },
-  {
     "Package": "lighttpd",
     "Version": "1.4.81",
     "Description": "Fast webserver with minimal memory footprint",
     "Homepage": "https://www.lighttpd.net"
-  },
-  {
-    "Package": "lilv",
-    "Version": "0.24.26",
-    "Description": "A C library to make the use of LV2 plugins as simple as possible for applications",
-    "Homepage": "https://drobilla.net/software/lilv.html"
   },
   {
     "Package": "lilypond",
@@ -9456,22 +9324,10 @@
     "Homepage": "https://www.inf.puc-rio.br/~roberto/lpeg"
   },
   {
-    "Package": "lua51",
-    "Version": "5.1.5-3",
-    "Description": "Simple, extensible, embeddable programming language",
-    "Homepage": "https://www.lua.org"
-  },
-  {
     "Package": "lua51-lpeg",
     "Version": "1.1.0-3",
     "Description": "Pattern-matching library for Lua 5.1",
     "Homepage": "https://www.inf.puc-rio.br/~roberto/lpeg"
-  },
-  {
-    "Package": "lua52",
-    "Version": "5.2.4-11",
-    "Description": "Simple, extensible, embeddable programming language",
-    "Homepage": "https://www.lua.org"
   },
   {
     "Package": "lua52-lpeg",
@@ -9697,13 +9553,13 @@
   },
   {
     "Package": "matterbridge",
-    "Version": "1.26.0-3",
+    "Version": "1.26.0-4",
     "Description": "A simple chat bridge",
     "Homepage": "https://github.com/42wim/matterbridge"
   },
   {
     "Package": "matterircd",
-    "Version": "0.28.0",
+    "Version": "0.28.0-1",
     "Description": "Connect to your mattermost or slack using your IRC-client of choice",
     "Homepage": "https://github.com/42wim/matterircd"
   },
@@ -9721,7 +9577,7 @@
   },
   {
     "Package": "maxcso",
-    "Version": "1.13.0",
+    "Version": "1.13.0-1",
     "Description": "A fast ISO to CSO compression program for use with PSP and PS2 emulators",
     "Homepage": "https://github.com/unknownbrackets/maxcso"
   },
@@ -15964,12 +15820,6 @@
     "Version": "0.21.0",
     "Description": "A fast static site generator in a single binary with everything built-in.",
     "Homepage": "https://github.com/getzola/zola"
-  },
-  {
-    "Package": "zopfli",
-    "Version": "1.0.3-3",
-    "Description": "New zlib compatible compressor tools",
-    "Homepage": "https://github.com/google/zopfli"
   },
   {
     "Package": "zoxide",

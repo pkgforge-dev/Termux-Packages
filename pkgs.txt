@@ -556,7 +556,7 @@
  git-lfs  3.7.0-1  Git extension for versioning large files  https://git-lfs.github.com/ 
  git-sizer  1.5.0-5  Compute various size metrics for a Git repository  https://github.com/github/git-sizer 
  git-svn  2.51.0  Convert between Git and Subversion repositories  https://git-scm.com/ 
- gitea  1.24.5  Git with a cup of tea, painless self-hosted git service  https://gitea.io 
+ gitea  1.24.6  Git with a cup of tea, painless self-hosted git service  https://gitea.io 
  gitflow-avh  1.12.3-9  Extend git with Vincent Driessen's branching model. The AVH Edition adds more functionality.  https://github.com/petervanderdoes/gitflow/ 
  gitoxide  0.45.0-1  Rust implementation of Git  https://github.com/Byron/gitoxide 
  gitui  0.27.0-2  Blazing fast terminal-ui for git written in rust  https://github.com/extrawurst/gitui 
@@ -752,7 +752,7 @@
  jack  0.0.1  A metapackage that provides JACK Audio Connection Kit  https://github.com/termux/termux-packages 
  jack-example-tools  4-1  Official JACK example clients and tools  https://jackaudio.org/ 
  jack2  1.9.22-2  The JACK low-latency audio server  https://jackaudio.org/ 
- jackett  0.22.2451  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
+ jackett  0.23.8  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
  jadx  1.5.3  Dex to Java decompiler  https://github.com/skylot/jadx 
  jadx-x  1.5.3  Dex to Java decompiler GUI  https://github.com/skylot/jadx 
  janet  1.39.1  Janet is a dialect of Lisp intended for embedding into programs and such  https://janet-lang.org 
@@ -1118,10 +1118,6 @@
  liblrdf  0.6.1-1  A library to make it easy to manipulate RDF files describing LADSPA plugins  https://github.com/swh/LRDF 
  liblrdf-static  0.6.1-1  Static libraries for liblrdf  https://github.com/swh/LRDF 
  libltdl  2.5.4-1  Library for dlopening libraries  https://www.gnu.org/software/libtool/ 
- liblua51  5.1.5-3  Shared library for the Lua interpreter (v5.1.x)  https://www.lua.org 
- liblua51-static  5.1.5-3  Static libraries for liblua51  https://www.lua.org 
- liblua52  5.2.4-11  Shared library for the Lua interpreter (v5.2.x)  https://www.lua.org 
- liblua52-static  5.2.4-11  Static libraries for liblua52  https://www.lua.org 
  liblua53  5.3.6-4  Shared library for the Lua interpreter (v5.3.x)  https://www.lua.org/ 
  liblua53-static  5.3.6-4  Static libraries for liblua53  https://www.lua.org/ 
  liblua54  5.4.8-3  Shared library for the Lua interpreter  https://www.lua.org/ 
@@ -1315,11 +1311,6 @@
  libsass-static  3.6.6-1  Static libraries for libsass  https://github.com/sass/libsass 
  libsearpc  1:3.2.0-7  A simple C language RPC framework (mainly for seafile)  https://github.com/haiwen/libsearpc 
  libsearpc-static  1:3.2.0-7  Static libraries for libsearpc  https://github.com/haiwen/libsearpc 
- libseat  0.9.1  Reference implementation of a wayland compositor  https://sr.ht/~kennylevinsen/seatd/ 
- libseccomp  2.5.5-3  Enhanced seccomp library  https://github.com/seccomp/libseccomp 
- libseccomp-static  2.5.5-3  Static libraries for libseccomp  https://github.com/seccomp/libseccomp 
- libsecp256k1  1:0.7.0  Optimized c library for ECDSA signatures and seret/public key operations on curve secp256k1  https://github.com/bitcoin-core/secp256k1 
- libsecp256k1-static  1:0.7.0  Static libraries for libsecp256k1  https://github.com/bitcoin-core/secp256k1 
  libsecret  0.21.7-1  A GObject-based library for accessing the Secret Service API  https://gitlab.gnome.org/GNOME/libsecret 
  libsfdo  0.1.4-1  A collection of libraries which implement some of the freedesktop.org specifications.  https://gitlab.freedesktop.org/vyivel/libsfdo 
  libshout  2.4.6-2  Library which can be used to write a source client like ices.  https://icecast.org/ 
@@ -1344,7 +1335,6 @@
  libsophia-static  2.2-1  Static libraries for libsophia  http://sophia.systems/ 
  libsoundtouch  2.3.3-1  An open-source audio processing library for changing the Tempo, Pitch and Playback Rates of audio streams or files  https://www.surina.net/soundtouch/ 
  libsoundtouch-static  2.3.3-1  Static libraries for libsoundtouch  https://www.surina.net/soundtouch/ 
- libsoup  2.74.3-4  HTTP client and server library  https://wiki.gnome.org/action/show/Projects/libsoup 
  libsoup3  3.6.5-1  HTTP client and server library  https://libsoup.gnome.org/libsoup-3.0/ 
  libsoxr  0.1.3-8  High quality, one-dimensional sample-rate conversion library  https://sourceforge.net/projects/soxr/ 
  libspatialindex  2.1.0-1  C++ implementation of R-tree, an MVR-tree and a TPR-tree with C API  https://libspatialindex.github.io 
@@ -1446,15 +1436,8 @@
  libvips  8.17.1-1  A fast image processing library with low memory needs  https://libvips.github.io/libvips/ 
  libvmaf  3.0.0-1  A perceptual video quality assessment algorithm developed by Netflix  https://github.com/Netflix/vmaf 
  libvmaf-static  3.0.0-1  Static libraries for libvmaf  https://github.com/Netflix/vmaf 
- libvo-amrwbenc  0.1.3  VisualOn AMR-WB encoder library  https://sourceforge.net/projects/opencore-amr 
- libvo-amrwbenc-static  0.1.3  Static libraries for libvo-amrwbenc  https://sourceforge.net/projects/opencore-amr 
- libvoikko  4.3.3  A spelling and grammar checker, hyphenator and collection of related linguistic data for Finnish language  http://voikko.sourceforge.net 
- libvoikko-static  4.3.3  Static libraries for libvoikko  http://voikko.sourceforge.net 
- libvorbis  1.3.7-2  Library for using the Ogg Vorbis compressed audio format  https://xiph.org/vorbis/ 
- libvorbis-static  1.3.7-2  Static libraries for libvorbis  https://xiph.org/vorbis/ 
  libvpx  1:1.15.2  VP8 & VP9 Codec SDK  https://www.webmproject.org 
  libvpx-static  1:1.15.2  Static libraries for libvpx  https://www.webmproject.org 
- libvterm  1:0.3.3  Terminal emulator library  https://www.leonerd.org.uk/code/libvterm/ 
  libvxl  3.5.0-4  A multi-platform collection of C++ software libraries for Computer Vision and Image Understanding  https://vxl.github.io 
  libwavpack  5.8.1-1  A completely open audio compression format providing lossless, high-quality lossy, and a unique hybrid compression mode  https://www.wavpack.com/ 
  libwavpack-static  5.8.1-1  Static libraries for libwavpack  https://www.wavpack.com/ 
@@ -1532,12 +1515,7 @@
  libzip  1.11.4-1  Library for reading, creating, and modifying zip archives  https://libzip.org/ 
  libzita-convolver  4.0.3-2  A real-time C++ convolution library  https://kokkinizita.linuxaudio.org/linuxaudio/ 
  libzix  0.6.2-1  lightweight C99 portability and data structure library  https://drobilla.net/category/zix 
- libzmq  4.3.5  Fast messaging system built on sockets. C and C++ bindings. aka 0MQ, ZMQ.  https://zeromq.org/ 
- libzmq-static  4.3.5  Static libraries for libzmq  https://zeromq.org/ 
- libzopfli  1.0.3-3  New zlib compatible compressor library  https://github.com/google/zopfli 
- libzxing-cpp  2.3.0-1  An open-source, multi-format 1D/2D barcode image processing library implemented in C++  https://github.com/zxing-cpp/zxing-cpp 
  lighttpd  1.4.81  Fast webserver with minimal memory footprint  https://www.lighttpd.net 
- lilv  0.24.26  A C library to make the use of LV2 plugins as simple as possible for applications  https://drobilla.net/software/lilv.html 
  lilypond  2.24.4-2  A music engraving program  https://lilypond.org/ 
  links  2.29-2  Links is a text and graphics mode WWW browser  http://links.twibright.com 
  lipl  0.1.3-1  A command line tool that is similar to watch but has extended functions for commands outputing a number  https://github.com/yxdunc/lipl 
@@ -1574,9 +1552,7 @@
  lua-language-server  3.15.0-1  Sumneko Lua Language Server coded in Lua  https://github.com/sumneko/lua-language-server 
  lua-lgi  0.9.2-1  Dynamic Lua binding to GObject libraries using GObject-Introspection  https://github.com/lgi-devs/lgi 
  lua-lpeg  1.1.0-3  Pattern-matching library for Lua 5.4  https://www.inf.puc-rio.br/~roberto/lpeg 
- lua51  5.1.5-3  Simple, extensible, embeddable programming language  https://www.lua.org 
  lua51-lpeg  1.1.0-3  Pattern-matching library for Lua 5.1  https://www.inf.puc-rio.br/~roberto/lpeg 
- lua52  5.2.4-11  Simple, extensible, embeddable programming language  https://www.lua.org 
  lua52-lpeg  1.1.0-3  Pattern-matching library for Lua 5.2  https://www.inf.puc-rio.br/~roberto/lpeg 
  lua53  5.3.6-4  Simple, extensible, embeddable programming language  https://www.lua.org/ 
  lua53-lpeg  1.1.0-3  Pattern-matching library for Lua 5.3  https://www.inf.puc-rio.br/~roberto/lpeg 
@@ -1614,11 +1590,11 @@
  marksman  2024.12.18  LSP language server for editing Markdown files  https://github.com/artempyanykh/marksman 
  mathomatic  16.0.5-7  Simple CAS and symbolic calculator  https://en.wikipedia.org/wiki/Mathomatic 
  matplotlib  3.10.6  A comprehensive library for creating static, animated, and interactive visualizations in Python  https://matplotlib.org/ 
- matterbridge  1.26.0-3  A simple chat bridge  https://github.com/42wim/matterbridge 
- matterircd  0.28.0  Connect to your mattermost or slack using your IRC-client of choice  https://github.com/42wim/matterircd 
+ matterbridge  1.26.0-4  A simple chat bridge  https://github.com/42wim/matterbridge 
+ matterircd  0.28.0-1  Connect to your mattermost or slack using your IRC-client of choice  https://github.com/42wim/matterircd 
  mautrix-whatsapp  0.12.4  A Matrix-WhatsApp puppeting bridge  https://maunium.net/go/mautrix-whatsapp/ 
  maven  3.9.11-1  A Java software project management and comprehension tool  https://maven.apache.org/ 
- maxcso  1.13.0  A fast ISO to CSO compression program for use with PSP and PS2 emulators  https://github.com/unknownbrackets/maxcso 
+ maxcso  1.13.0-1  A fast ISO to CSO compression program for use with PSP and PS2 emulators  https://github.com/unknownbrackets/maxcso 
  mazter  2022.08.13-1  Mazes in your terminal  https://github.com/Canop/mazter 
  mbedtls  3.6.4-1  Light-weight cryptographic and SSL/TLS library  https://www.trustedfirmware.org/projects/mbed-tls/ 
  mbedtls-static  3.6.4-1  Static libraries for mbedtls  https://www.trustedfirmware.org/projects/mbed-tls/ 
@@ -2659,7 +2635,6 @@
  zls  0.15.0  Zig language server  https://github.com/zigtools/zls 
  znc  1.10.1  An advanced IRC bouncer  https://znc.in/ 
  zola  0.21.0  A fast static site generator in a single binary with everything built-in.  https://github.com/getzola/zola 
- zopfli  1.0.3-3  New zlib compatible compressor tools  https://github.com/google/zopfli 
  zoxide  0.9.8-1  A faster way to navigate your filesystem  https://github.com/ajeetdsouza/zoxide 
  zpaq  7.15  Programmable file compressor, library and utilities. Based on the PAQ compression algorithm  http://mattmahoney.net/dc/zpaq.html 
  zrok  1.1.3-1  An open source sharing solution built on OpenZiti.  https://zrok.io/ 
