@@ -253,7 +253,7 @@
   },
   {
     "Package": "ansifilter",
-    "Version": "2.21-2",
+    "Version": "2.22",
     "Description": "Strip or convert ANSI codes into HTML, (La)Tex, RTF, or BBCode",
     "Homepage": "http://www.andre-simon.de/doku/ansifilter/en/ansifilter.php"
   },
@@ -859,7 +859,7 @@
   },
   {
     "Package": "blas-openblas",
-    "Version": "0.3.30",
+    "Version": "0.3.30-1",
     "Description": "OpenBLAS symlinks for BLAS/CBLAS/LAPACK/LAPACKE",
     "Homepage": "https://www.openblas.net"
   },
@@ -1183,7 +1183,7 @@
   },
   {
     "Package": "cava",
-    "Version": "0.10.5",
+    "Version": "0.10.6",
     "Description": "Console-based Audio Visualizer. Works with MPD and Pulseaudio",
     "Homepage": "https://github.com/karlstav/cava"
   },
@@ -2317,7 +2317,7 @@
   },
   {
     "Package": "duckdb",
-    "Version": "1.3.2",
+    "Version": "1.3.2-1",
     "Description": "DuckDB Command Line Interface (CLI) shell",
     "Homepage": "https://duckdb.org/"
   },
@@ -2335,7 +2335,7 @@
   },
   {
     "Package": "duktape",
-    "Version": "2.7.0-1",
+    "Version": "2.7.0-2",
     "Description": "Simple REPL for Duktape",
     "Homepage": "https://www.duktape.org/"
   },
@@ -2821,7 +2821,7 @@
   },
   {
     "Package": "flac",
-    "Version": "1.5.0",
+    "Version": "1.5.0-1",
     "Description": "FLAC (Free Lossless Audio Codec) command-line tool",
     "Homepage": "https://xiph.org/flac/"
   },
@@ -2887,7 +2887,7 @@
   },
   {
     "Package": "forestdb-dump",
-    "Version": "1.2-1",
+    "Version": "1.2-2",
     "Description": "ForestDB dump tool",
     "Homepage": "https://github.com/couchbase/forestdb"
   },
@@ -3835,13 +3835,13 @@
   },
   {
     "Package": "gsasl",
-    "Version": "2.2.2",
+    "Version": "2.2.2-1",
     "Description": "GNU SASL library command line interface",
     "Homepage": "https://www.gnu.org/software/gsasl"
   },
   {
     "Package": "gsf-tools",
-    "Version": "1.14.53-1",
+    "Version": "1.14.53-2",
     "Description": "Command-line tools for libgsf",
     "Homepage": "https://gitlab.gnome.org/GNOME/libgsf"
   },
@@ -4093,7 +4093,7 @@
   },
   {
     "Package": "hnterm",
-    "Version": "1.0.5-1",
+    "Version": "1.0.5-2",
     "Description": "A simple tool to browse Hacker News in the terminal",
     "Homepage": "https://github.com/ggerganov/imtui"
   },
@@ -4315,7 +4315,7 @@
   },
   {
     "Package": "icu-devtools",
-    "Version": "77.1-1",
+    "Version": "77.1-2",
     "Description": "Development utilities for International Components for Unicode",
     "Homepage": "http://site.icu-project.org/home"
   },
@@ -4795,7 +4795,7 @@
   },
   {
     "Package": "knot-utils",
-    "Version": "3.2.4-1",
+    "Version": "3.2.4-2",
     "Description": "Knot DNS utilities",
     "Homepage": "https://www.knot-dns.cz/"
   },
@@ -4867,7 +4867,7 @@
   },
   {
     "Package": "lcal",
-    "Version": "2.1.0",
+    "Version": "2.1.0-1",
     "Description": "A multi-platform program which generates PostScript lunar calendars in a yearly format",
     "Homepage": "https://pcal.sourceforge.net/"
   },
@@ -4903,13 +4903,13 @@
   },
   {
     "Package": "leptonica",
-    "Version": "1.85.0",
+    "Version": "1.85.0-1",
     "Description": "Library for image processing and image analysis",
     "Homepage": "http://www.leptonica.com/"
   },
   {
     "Package": "leptonica-static",
-    "Version": "1.85.0",
+    "Version": "1.85.0-1",
     "Description": "Static libraries for leptonica",
     "Homepage": "http://www.leptonica.com/"
   },
@@ -4927,7 +4927,7 @@
   },
   {
     "Package": "leveldb",
-    "Version": "1.23-3",
+    "Version": "1.23-4",
     "Description": "Fast key-value storage library",
     "Homepage": "https://github.com/google/leveldb"
   },
@@ -5749,43 +5749,43 @@
   },
   {
     "Package": "libduckdb",
-    "Version": "1.3.2",
+    "Version": "1.3.2-1",
     "Description": "An in-process SQL OLAP database management system",
     "Homepage": "https://duckdb.org/"
   },
   {
     "Package": "libduckdb-static",
-    "Version": "1.3.2",
+    "Version": "1.3.2-1",
     "Description": "Static libraries for libduckdb",
     "Homepage": "https://duckdb.org/"
   },
   {
     "Package": "libduktape",
-    "Version": "2.7.0-1",
+    "Version": "2.7.0-2",
     "Description": "An embeddable Javascript engine with a focus on portability and compact footprint",
     "Homepage": "https://www.duktape.org/"
   },
   {
     "Package": "libdvbcsa",
-    "Version": "1.1.0-2",
+    "Version": "1.1.0-3",
     "Description": "An implementation of the DVB Common Scrambling Algorithm - DVB/CSA - with encryption and decryption capabilities",
     "Homepage": "https://www.videolan.org/developers/libdvbcsa.html"
   },
   {
     "Package": "libdvbcsa-static",
-    "Version": "1.1.0-2",
+    "Version": "1.1.0-3",
     "Description": "Static libraries for libdvbcsa",
     "Homepage": "https://www.videolan.org/developers/libdvbcsa.html"
   },
   {
     "Package": "libdvbpsi",
-    "Version": "1.3.3",
+    "Version": "1.3.3-1",
     "Description": "Simple MPEG TS PSI parser library supporting various standards",
     "Homepage": "https://code.videolan.org/videolan/libdvbpsi/"
   },
   {
     "Package": "libdvbpsi-static",
-    "Version": "1.3.3",
+    "Version": "1.3.3-1",
     "Description": "Static libraries for libdvbpsi",
     "Homepage": "https://code.videolan.org/videolan/libdvbpsi/"
   },
@@ -5863,31 +5863,31 @@
   },
   {
     "Package": "libenet",
-    "Version": "1.3.18",
+    "Version": "1.3.18-1",
     "Description": "ENet reliable UDP networking library",
     "Homepage": "http://enet.bespin.org"
   },
   {
     "Package": "libenet-static",
-    "Version": "1.3.18",
+    "Version": "1.3.18-1",
     "Description": "Static libraries for libenet",
     "Homepage": "http://enet.bespin.org"
   },
   {
     "Package": "libepoxy",
-    "Version": "1.5.10-2",
+    "Version": "1.5.10-3",
     "Description": "Library handling OpenGL function pointer management",
     "Homepage": "https://github.com/anholt/libepoxy"
   },
   {
     "Package": "libev",
-    "Version": "4.33-1",
+    "Version": "4.33-2",
     "Description": "Full-featured and high-performance event loop library",
     "Homepage": "http://software.schmorp.de/pkg/libev.html"
   },
   {
     "Package": "libev-static",
-    "Version": "4.33-1",
+    "Version": "4.33-2",
     "Description": "Static libraries for libev",
     "Homepage": "http://software.schmorp.de/pkg/libev.html"
   },
@@ -5899,13 +5899,13 @@
   },
   {
     "Package": "libexif",
-    "Version": "0.6.25",
+    "Version": "0.6.25-1",
     "Description": "Library for reading and writing EXIF image metadata",
     "Homepage": "https://libexif.github.io/"
   },
   {
     "Package": "libexif-static",
-    "Version": "0.6.25",
+    "Version": "0.6.25-1",
     "Description": "Static libraries for libexif",
     "Homepage": "https://libexif.github.io/"
   },
@@ -5923,13 +5923,13 @@
   },
   {
     "Package": "libfann",
-    "Version": "2.2.0-1",
+    "Version": "2.2.0-2",
     "Description": "Fast artificial neural network library",
     "Homepage": "http://leenissen.dk/fann/wp"
   },
   {
     "Package": "libfcl",
-    "Version": "0.7.0-2",
+    "Version": "0.7.0-3",
     "Description": "Flexible collision library",
     "Homepage": "https://github.com/flexible-collision-library/fcl"
   },
@@ -5941,13 +5941,13 @@
   },
   {
     "Package": "libfdk-aac",
-    "Version": "2.0.3",
+    "Version": "2.0.3-1",
     "Description": "Fraunhofer FDK AAC Codec Library",
     "Homepage": "https://github.com/mstorsjo/fdk-aac"
   },
   {
     "Package": "libfdk-aac-static",
-    "Version": "2.0.3",
+    "Version": "2.0.3-1",
     "Description": "Static libraries for libfdk-aac",
     "Homepage": "https://github.com/mstorsjo/fdk-aac"
   },
@@ -5965,67 +5965,67 @@
   },
   {
     "Package": "libfixposix",
-    "Version": "0.5.1",
+    "Version": "0.5.1-1",
     "Description": "Thin wrapper over POSIX syscalls",
     "Homepage": "https://github.com/sionescu/libfixposix/"
   },
   {
     "Package": "libfixposix-static",
-    "Version": "0.5.1",
+    "Version": "0.5.1-1",
     "Description": "Static libraries for libfixposix",
     "Homepage": "https://github.com/sionescu/libfixposix/"
   },
   {
     "Package": "libflac",
-    "Version": "1.5.0",
+    "Version": "1.5.0-1",
     "Description": "FLAC (Free Lossless Audio Codec) library",
     "Homepage": "https://xiph.org/flac/"
   },
   {
     "Package": "libflac-static",
-    "Version": "1.5.0",
+    "Version": "1.5.0-1",
     "Description": "Static libraries for libflac",
     "Homepage": "https://xiph.org/flac/"
   },
   {
     "Package": "libflann",
-    "Version": "2022.10.27-1",
+    "Version": "2022.10.27-2",
     "Description": "A library for performing fast approximate nearest neighbor searches in high dimensional spaces",
     "Homepage": "https://github.com/flann-lib/flann"
   },
   {
     "Package": "libforestdb",
-    "Version": "1.2-1",
+    "Version": "1.2-2",
     "Description": "A key-value storage engine",
     "Homepage": "https://github.com/couchbase/forestdb"
   },
   {
     "Package": "libfreexl",
-    "Version": "2.0.0",
+    "Version": "2.0.0-1",
     "Description": "Library to extract valid data from within an Excel (.xls) spreadsheet",
     "Homepage": "https://www.gaia-gis.it/fossil/freexl"
   },
   {
     "Package": "libfreexl-static",
-    "Version": "2.0.0",
+    "Version": "2.0.0-1",
     "Description": "Static libraries for libfreexl",
     "Homepage": "https://www.gaia-gis.it/fossil/freexl"
   },
   {
     "Package": "libftxui",
-    "Version": "6.1.9",
+    "Version": "6.1.9-1",
     "Description": "A simple C++ library for terminal based user interface",
     "Homepage": "https://github.com/ArthurSonzogni/FTXUI"
   },
   {
     "Package": "libgc",
-    "Version": "8.2.8",
+    "Version": "8.2.8-1",
     "Description": "Library providing the Boehm-Demers-Weiser conservative garbage collector",
     "Homepage": "https://www.hboehm.info/gc/"
   },
   {
     "Package": "libgc-static",
-    "Version": "8.2.8",
+    "Version": "8.2.8-1",
     "Description": "Static libraries for libgc",
     "Homepage": "https://www.hboehm.info/gc/"
   },
@@ -6043,31 +6043,31 @@
   },
   {
     "Package": "libgd",
-    "Version": "1:2.3.3-4",
+    "Version": "1:2.3.3-5",
     "Description": "GD is an open source code library for the dynamic creation of images by programmers",
     "Homepage": "https://libgd.github.io/"
   },
   {
     "Package": "libgd-static",
-    "Version": "1:2.3.3-4",
+    "Version": "1:2.3.3-5",
     "Description": "Static libraries for libgd",
     "Homepage": "https://libgd.github.io/"
   },
   {
     "Package": "libgedit-gfls",
-    "Version": "0.3.0",
+    "Version": "0.3.0-1",
     "Description": "A module dedicated to file loading and saving",
     "Homepage": "https://gitlab.gnome.org/World/gedit/libgedit-gfls"
   },
   {
     "Package": "libgee",
-    "Version": "0.20.8",
+    "Version": "0.20.8-1",
     "Description": "A collection library providing GObject-based interfaces and classes for commonly used data structures",
     "Homepage": "https://wiki.gnome.org/Projects/Libgee"
   },
   {
     "Package": "libgee-static",
-    "Version": "0.20.8",
+    "Version": "0.20.8-1",
     "Description": "Static libraries for libgee",
     "Homepage": "https://wiki.gnome.org/Projects/Libgee"
   },
@@ -6079,33 +6079,33 @@
   },
   {
     "Package": "libgeotiff",
-    "Version": "1.7.4",
+    "Version": "1.7.4-1",
     "Description": "Library for handling TIFF for georeferenced raster imagery",
     "Homepage": "https://github.com/OSGeo/libgeotiff"
   },
   {
     "Package": "libgf2x",
-    "Version": "1.3.0",
+    "Version": "1.3.0-1",
     "Description": "A library for multiplying polynomials over the binary field",
     "Homepage": "https://gitlab.inria.fr/gf2x/gf2x"
   },
   {
     "Package": "libgf2x-static",
-    "Version": "1.3.0",
+    "Version": "1.3.0-1",
     "Description": "Static libraries for libgf2x",
     "Homepage": "https://gitlab.inria.fr/gf2x/gf2x"
   },
   {
     "Package": "libgfshare",
-    "Version": "2.0.0-7",
+    "Version": "2.0.0-8",
     "Description": "Utilities for multi-way secret-sharing",
-    "Homepage": "http://www.digital-scurf.org/software/libgfshare"
+    "Homepage": "https://www.digital-scurf.org/software/libgfshare"
   },
   {
     "Package": "libgfshare-static",
-    "Version": "2.0.0-7",
+    "Version": "2.0.0-8",
     "Description": "Static libraries for libgfshare",
-    "Homepage": "http://www.digital-scurf.org/software/libgfshare"
+    "Homepage": "https://www.digital-scurf.org/software/libgfshare"
   },
   {
     "Package": "libgit2",
@@ -6115,25 +6115,25 @@
   },
   {
     "Package": "libglibmm-2.4",
-    "Version": "2.66.7",
+    "Version": "2.66.7-1",
     "Description": "A C++ API for parts of glib that are useful for C++",
     "Homepage": "https://www.gtkmm.org/"
   },
   {
     "Package": "libglibmm-2.68",
-    "Version": "2.84.0",
+    "Version": "2.84.0-1",
     "Description": "A C++ API for parts of glib that are useful for C++",
     "Homepage": "https://www.gtkmm.org/"
   },
   {
     "Package": "libglvnd",
-    "Version": "1.7.0",
+    "Version": "1.7.0-1",
     "Description": "The GL Vendor-Neutral Dispatch library",
     "Homepage": "https://gitlab.freedesktop.org/glvnd/libglvnd"
   },
   {
     "Package": "libglvnd-dev",
-    "Version": "1.7.0",
+    "Version": "1.7.0-1",
     "Description": "GLVNDs OpenGL headers",
     "Homepage": "https://gitlab.freedesktop.org/glvnd/libglvnd"
   },
@@ -6163,7 +6163,7 @@
   },
   {
     "Package": "libgnt",
-    "Version": "2.14.4-1",
+    "Version": "2.14.4-2",
     "Description": "An ncurses toolkit for creating text-mode graphical user interfaces in a fast and easy way",
     "Homepage": "https://keep.imfreedom.org/libgnt/libgnt"
   },
@@ -6211,85 +6211,85 @@
   },
   {
     "Package": "libgsasl",
-    "Version": "2.2.2",
+    "Version": "2.2.2-1",
     "Description": "GNU SASL library",
     "Homepage": "https://www.gnu.org/software/gsasl"
   },
   {
     "Package": "libgsasl-static",
-    "Version": "2.2.2",
+    "Version": "2.2.2-1",
     "Description": "Static libraries for libgsasl",
     "Homepage": "https://www.gnu.org/software/gsasl"
   },
   {
     "Package": "libgsf",
-    "Version": "1.14.53-1",
+    "Version": "1.14.53-2",
     "Description": "The G Structured File Library",
     "Homepage": "https://gitlab.gnome.org/GNOME/libgsf"
   },
   {
     "Package": "libgsf-static",
-    "Version": "1.14.53-1",
+    "Version": "1.14.53-2",
     "Description": "Static libraries for libgsf",
     "Homepage": "https://gitlab.gnome.org/GNOME/libgsf"
   },
   {
     "Package": "libgtop",
-    "Version": "2.41.3",
+    "Version": "2.41.3-1",
     "Description": "Library for collecting system monitoring data",
     "Homepage": "https://gitlab.gnome.org/GNOME/libgtop"
   },
   {
     "Package": "libgtop-static",
-    "Version": "2.41.3",
+    "Version": "2.41.3-1",
     "Description": "Static libraries for libgtop",
     "Homepage": "https://gitlab.gnome.org/GNOME/libgtop"
   },
   {
     "Package": "libgts",
-    "Version": "0.7.6-1",
+    "Version": "0.7.6-2",
     "Description": "Provides useful functions to deal with 3D surfaces meshed with interconnected triangles",
     "Homepage": "https://gts.sourceforge.net/"
   },
   {
     "Package": "libgts-static",
-    "Version": "0.7.6-1",
+    "Version": "0.7.6-2",
     "Description": "Static libraries for libgts",
     "Homepage": "https://gts.sourceforge.net/"
   },
   {
     "Package": "libgxps",
-    "Version": "0.3.2-2",
+    "Version": "0.3.2-3",
     "Description": "handling and rendering XPS documents",
     "Homepage": "https://wiki.gnome.org/libgxps"
   },
   {
     "Package": "libhangul",
-    "Version": "0.2.0",
+    "Version": "0.2.0-1",
     "Description": "A library to support hangul input method logic",
     "Homepage": "https://github.com/libhangul/libhangul"
   },
   {
     "Package": "libhangul-static",
-    "Version": "0.2.0",
+    "Version": "0.2.0-1",
     "Description": "Static libraries for libhangul",
     "Homepage": "https://github.com/libhangul/libhangul"
   },
   {
     "Package": "libharu",
-    "Version": "2.4.5",
+    "Version": "2.4.5-1",
     "Description": "Free, cross platform, open source library for generating PDF files",
     "Homepage": "http://libharu.org/"
   },
   {
     "Package": "libhdf5",
-    "Version": "1.14.4.3",
+    "Version": "1.14.4.3-1",
     "Description": "Hierarchical Data Format 5 (HDF5)",
     "Homepage": "https://portal.hdfgroup.org/display/support"
   },
   {
     "Package": "libhdf5-static",
-    "Version": "1.14.4.3",
+    "Version": "1.14.4.3-1",
     "Description": "Static libraries for libhdf5",
     "Homepage": "https://portal.hdfgroup.org/display/support"
   },
@@ -6307,43 +6307,43 @@
   },
   {
     "Package": "libhiredis",
-    "Version": "1.3.0",
+    "Version": "1.3.0-1",
     "Description": "Hiredis is a minimalistic C client library for the Redis database",
     "Homepage": "https://redis.com/lp/hiredis"
   },
   {
     "Package": "libhtmlcxx",
-    "Version": "0.87-4",
+    "Version": "0.87-5",
     "Description": "A simple non-validating css1 and html parser for C++",
     "Homepage": "https://htmlcxx.sourceforge.net/"
   },
   {
     "Package": "libhtmlcxx-static",
-    "Version": "0.87-4",
+    "Version": "0.87-5",
     "Description": "Static libraries for libhtmlcxx",
     "Homepage": "https://htmlcxx.sourceforge.net/"
   },
   {
     "Package": "libhyphen",
-    "Version": "2.8.8",
+    "Version": "2.8.8-1",
     "Description": "hyphenation library to use converted TeX hyphenation patterns",
     "Homepage": "https://github.com/hunspell/hyphen"
   },
   {
     "Package": "libhyphen-static",
-    "Version": "2.8.8",
+    "Version": "2.8.8-1",
     "Description": "Static libraries for libhyphen",
     "Homepage": "https://github.com/hunspell/hyphen"
   },
   {
     "Package": "libical",
-    "Version": "3.0.20-1",
+    "Version": "3.0.20-2",
     "Description": "Libical is an Open Source implementation of the iCalendar protocols and protocol data units",
     "Homepage": "https://libical.github.io/libical/"
   },
   {
     "Package": "libice",
-    "Version": "1.1.2",
+    "Version": "1.1.2-1",
     "Description": "X11 Inter-Client Exchange library",
     "Homepage": "https://xorg.freedesktop.org/"
   },
@@ -6361,31 +6361,31 @@
   },
   {
     "Package": "libicu",
-    "Version": "77.1-1",
+    "Version": "77.1-2",
     "Description": "International Components for Unicode library",
     "Homepage": "http://site.icu-project.org/home"
   },
   {
     "Package": "libicu-static",
-    "Version": "77.1-1",
+    "Version": "77.1-2",
     "Description": "Static libraries for libicu",
     "Homepage": "http://site.icu-project.org/home"
   },
   {
     "Package": "libid3tag",
-    "Version": "0.16.3-1",
+    "Version": "0.16.3-2",
     "Description": "MAD ID3 tag manipulation library",
     "Homepage": "http://www.underbit.com/products/mad/"
   },
   {
     "Package": "libidn",
-    "Version": "1.43",
+    "Version": "1.43-1",
     "Description": "GNU Libidn library, implementation of IETF IDN specifications",
     "Homepage": "https://www.gnu.org/software/libidn/"
   },
   {
     "Package": "libidn-static",
-    "Version": "1.43",
+    "Version": "1.43-1",
     "Description": "Static libraries for libidn",
     "Homepage": "https://www.gnu.org/software/libidn/"
   },
@@ -6403,109 +6403,109 @@
   },
   {
     "Package": "libimagequant",
-    "Version": "4.4.0",
+    "Version": "4.4.0-1",
     "Description": "Small, portable C library for high-quality conversion of RGBA images to 8-bit indexed-color (palette) images",
     "Homepage": "https://pngquant.org/lib/"
   },
   {
     "Package": "libimagequant-static",
-    "Version": "4.4.0",
+    "Version": "4.4.0-1",
     "Description": "Static libraries for libimagequant",
     "Homepage": "https://pngquant.org/lib/"
   },
   {
     "Package": "libimobiledevice",
-    "Version": "1.3.0-p20250228-0",
+    "Version": "1.3.0-p20250228-1",
     "Description": "A library to communicate with services on iOS devices using native protocols",
     "Homepage": "https://libimobiledevice.org/"
   },
   {
     "Package": "libimobiledevice-glue",
-    "Version": "1.3.2",
+    "Version": "1.3.2-1",
     "Description": "Library with common code used by the libraries and tools around the libimobiledevice project",
     "Homepage": "https://libimobiledevice.org/"
   },
   {
     "Package": "libimobiledevice-glue-static",
-    "Version": "1.3.2",
+    "Version": "1.3.2-1",
     "Description": "Static libraries for libimobiledevice-glue",
     "Homepage": "https://libimobiledevice.org/"
   },
   {
     "Package": "libimobiledevice-static",
-    "Version": "1.3.0-p20250228-0",
+    "Version": "1.3.0-p20250228-1",
     "Description": "Static libraries for libimobiledevice",
     "Homepage": "https://libimobiledevice.org/"
   },
   {
     "Package": "libimtui",
-    "Version": "1.0.5-1",
+    "Version": "1.0.5-2",
     "Description": "An immediate mode text-based user interface library",
     "Homepage": "https://github.com/ggerganov/imtui"
   },
   {
     "Package": "libinih",
-    "Version": "61",
+    "Version": "61-1",
     "Description": "A simple .INI file parser written in C",
     "Homepage": "https://github.com/benhoyt/inih"
   },
   {
     "Package": "libiniparser",
-    "Version": "4.2.6",
+    "Version": "4.2.6-1",
     "Description": "Offers parsing of ini files from the C level",
     "Homepage": "https://github.com/ndevilla/iniparser"
   },
   {
     "Package": "libiniparser-static",
-    "Version": "4.2.6",
+    "Version": "4.2.6-1",
     "Description": "Static libraries for libiniparser",
     "Homepage": "https://github.com/ndevilla/iniparser"
   },
   {
     "Package": "libiodbc",
-    "Version": "3.52.16",
+    "Version": "3.52.16-1",
     "Description": "Independent Open DataBase Connectivity for Linux, MacOS X and Unix systems",
     "Homepage": "https://www.iodbc.org/"
   },
   {
     "Package": "libiodbc-static",
-    "Version": "3.52.16",
+    "Version": "3.52.16-1",
     "Description": "Static libraries for libiodbc",
     "Homepage": "https://www.iodbc.org/"
   },
   {
     "Package": "libisl",
-    "Version": "0.26",
+    "Version": "0.26-1",
     "Description": "Library for manipulating sets and relations of integer points bounded by linear constraints",
     "Homepage": "https://libisl.sourceforge.io/"
   },
   {
     "Package": "libisl-static",
-    "Version": "0.26",
+    "Version": "0.26-1",
     "Description": "Static libraries for libisl",
     "Homepage": "https://libisl.sourceforge.io/"
   },
   {
     "Package": "libisoburn",
-    "Version": "1.5.6",
+    "Version": "1.5.6-1",
     "Description": "Frontend for libraries libburn and libisofs",
     "Homepage": "https://dev.lovelyhq.com/libburnia"
   },
   {
     "Package": "libisoburn-static",
-    "Version": "1.5.6",
+    "Version": "1.5.6-1",
     "Description": "Static libraries for libisoburn",
     "Homepage": "https://dev.lovelyhq.com/libburnia"
   },
   {
     "Package": "libisofs",
-    "Version": "1.5.6.pl01",
+    "Version": "1.5.6.pl01-1",
     "Description": "Library to pack up hard disk files and directories into a ISO 9660 disk image",
     "Homepage": "https://dev.lovelyhq.com/libburnia"
   },
   {
     "Package": "libisofs-static",
-    "Version": "1.5.6.pl01",
+    "Version": "1.5.6.pl01-1",
     "Description": "Static libraries for libisofs",
     "Homepage": "https://dev.lovelyhq.com/libburnia"
   },
@@ -6523,19 +6523,19 @@
   },
   {
     "Package": "libjansi",
-    "Version": "2.4.2",
+    "Version": "2.4.2-1",
     "Description": "A small java library that allows you to use ANSI escape codes to format your console output",
     "Homepage": "https://fusesource.github.io/jansi/"
   },
   {
     "Package": "libjansson",
-    "Version": "2.14.1",
+    "Version": "2.14.1-1",
     "Description": "C library for encoding, decoding and manipulating JSON data",
     "Homepage": "http://www.digip.org/jansson/"
   },
   {
     "Package": "libjansson-static",
-    "Version": "2.14.1",
+    "Version": "2.14.1-1",
     "Description": "Static libraries for libjansson",
     "Homepage": "http://www.digip.org/jansson/"
   },
@@ -6589,13 +6589,13 @@
   },
   {
     "Package": "libknot",
-    "Version": "3.2.4-1",
+    "Version": "3.2.4-2",
     "Description": "Knot DNS libraries",
     "Homepage": "https://www.knot-dns.cz/"
   },
   {
     "Package": "libknot-static",
-    "Version": "3.2.4-1",
+    "Version": "3.2.4-2",
     "Description": "Static libraries for libknot",
     "Homepage": "https://www.knot-dns.cz/"
   },
@@ -6613,25 +6613,25 @@
   },
   {
     "Package": "liblightning",
-    "Version": "2.2.3",
+    "Version": "2.2.3-1",
     "Description": "A library to aid in making portable programs that compile assembly code at run time",
     "Homepage": "https://www.gnu.org/software/lightning/"
   },
   {
     "Package": "liblightning-static",
-    "Version": "2.2.3",
+    "Version": "2.2.3-1",
     "Description": "Static libraries for liblightning",
     "Homepage": "https://www.gnu.org/software/lightning/"
   },
   {
     "Package": "libliquid-dsp",
-    "Version": "1.7.0",
+    "Version": "1.7.0-1",
     "Description": "Software-defined radio digital signal processing library",
     "Homepage": "https://liquidsdr.org/"
   },
   {
     "Package": "libliquid-dsp-static",
-    "Version": "1.7.0",
+    "Version": "1.7.0-1",
     "Description": "Static libraries for libliquid-dsp",
     "Homepage": "https://liquidsdr.org/"
   },
@@ -6649,43 +6649,43 @@
   },
   {
     "Package": "liblmdb",
-    "Version": "0.9.33",
+    "Version": "0.9.33-1",
     "Description": "LMDB implements a simplified variant of the BerkeleyDB (BDB) API",
     "Homepage": "https://symas.com/lmdb/"
   },
   {
     "Package": "liblmdb-static",
-    "Version": "0.9.33",
+    "Version": "0.9.33-1",
     "Description": "Static libraries for liblmdb",
     "Homepage": "https://symas.com/lmdb/"
   },
   {
     "Package": "liblo",
-    "Version": "0.32",
+    "Version": "0.32-1",
     "Description": "A lightweight library that provides an easy to use implementation of the OSC protocol",
     "Homepage": "https://liblo.sourceforge.net/"
   },
   {
     "Package": "liblo-static",
-    "Version": "0.32",
+    "Version": "0.32-1",
     "Description": "Static libraries for liblo",
     "Homepage": "https://liblo.sourceforge.net/"
   },
   {
     "Package": "liblog4c",
-    "Version": "1.2.4-1",
+    "Version": "1.2.4-2",
     "Description": "A C library for flexible logging to files, syslog and other destinations",
     "Homepage": "https://log4c.sourceforge.net/"
   },
   {
     "Package": "liblog4c-static",
-    "Version": "1.2.4-1",
+    "Version": "1.2.4-2",
     "Description": "Static libraries for liblog4c",
     "Homepage": "https://log4c.sourceforge.net/"
   },
   {
     "Package": "liblog4cxx",
-    "Version": "1.0.0-1",
+    "Version": "1.0.0-2",
     "Description": "A logging framework for C++ patterned after Apache log4j",
     "Homepage": "https://logging.apache.org/log4cxx/latest_stable/index.html"
   },
@@ -6703,13 +6703,13 @@
   },
   {
     "Package": "liblrdf",
-    "Version": "0.6.1",
+    "Version": "0.6.1-1",
     "Description": "A library to make it easy to manipulate RDF files describing LADSPA plugins",
     "Homepage": "https://github.com/swh/LRDF"
   },
   {
     "Package": "liblrdf-static",
-    "Version": "0.6.1",
+    "Version": "0.6.1-1",
     "Description": "Static libraries for liblrdf",
     "Homepage": "https://github.com/swh/LRDF"
   },
@@ -6745,25 +6745,25 @@
   },
   {
     "Package": "liblua53",
-    "Version": "5.3.6-3",
+    "Version": "5.3.6-4",
     "Description": "Shared library for the Lua interpreter (v5.3.x)",
     "Homepage": "https://www.lua.org/"
   },
   {
     "Package": "liblua53-static",
-    "Version": "5.3.6-3",
+    "Version": "5.3.6-4",
     "Description": "Static libraries for liblua53",
     "Homepage": "https://www.lua.org/"
   },
   {
     "Package": "liblua54",
-    "Version": "5.4.8-2",
+    "Version": "5.4.8-3",
     "Description": "Shared library for the Lua interpreter",
     "Homepage": "https://www.lua.org/"
   },
   {
     "Package": "liblua54-static",
-    "Version": "5.4.8-2",
+    "Version": "5.4.8-3",
     "Description": "Static libraries for liblua54",
     "Homepage": "https://www.lua.org/"
   },
@@ -6799,73 +6799,73 @@
   },
   {
     "Package": "liblzo",
-    "Version": "2.10-3",
+    "Version": "2.10-4",
     "Description": "Portable lossless data compression library",
     "Homepage": "http://www.oberhumer.com/opensource/lzo"
   },
   {
     "Package": "liblzo-static",
-    "Version": "2.10-3",
+    "Version": "2.10-4",
     "Description": "Static libraries for liblzo",
     "Homepage": "http://www.oberhumer.com/opensource/lzo"
   },
   {
     "Package": "libmaa",
-    "Version": "1.4.7",
+    "Version": "1.4.7-1",
     "Description": "Provides many low-level data structures which are helpful for writing compilers",
     "Homepage": "https://sourceforge.net/projects/dict/"
   },
   {
     "Package": "libmad",
-    "Version": "0.16.4-1",
+    "Version": "0.16.4-2",
     "Description": "MAD is a high-quality MPEG audio decoder",
     "Homepage": "http://www.underbit.com/products/mad/"
   },
   {
     "Package": "libmariadbcpp",
-    "Version": "1.1.2",
+    "Version": "1.1.2-1",
     "Description": "Enables C++ applications to establish client connections to MariaDB Enterprise over TLS",
     "Homepage": "https://mariadb.com/docs/clients/mariadb-connectors/connector-cpp/"
   },
   {
     "Package": "libmatio",
-    "Version": "1.5.28",
+    "Version": "1.5.28-1",
     "Description": "A C library for reading and writing Matlab MAT files",
     "Homepage": "https://github.com/tbeu/matio"
   },
   {
     "Package": "libmatroska",
-    "Version": "1.7.1",
+    "Version": "1.7.1-1",
     "Description": "Matroska library",
     "Homepage": "https://dl.matroska.org/downloads/libmatroska/"
   },
   {
     "Package": "libmaxminddb",
-    "Version": "1.12.2",
+    "Version": "1.12.2-1",
     "Description": "MaxMind GeoIP2 database - library and utilities",
     "Homepage": "https://dev.maxmind.com/geoip/geoip2/"
   },
   {
     "Package": "libmaxminddb-static",
-    "Version": "1.12.2",
+    "Version": "1.12.2-1",
     "Description": "Static libraries for libmaxminddb",
     "Homepage": "https://dev.maxmind.com/geoip/geoip2/"
   },
   {
     "Package": "libmaxminddb-tools",
-    "Version": "1.12.2",
+    "Version": "1.12.2-1",
     "Description": "A geoip lookup utility for MaxMind DB",
     "Homepage": "https://dev.maxmind.com/geoip/geoip2/"
   },
   {
     "Package": "libmcrypt",
-    "Version": "2.5.8-5",
+    "Version": "2.5.8-6",
     "Description": "A library which provides a uniform interface to several symmetric encryption algorithms",
     "Homepage": "https://mcrypt.sourceforge.net/"
   },
   {
     "Package": "libmcrypt-static",
-    "Version": "2.5.8-5",
+    "Version": "2.5.8-6",
     "Description": "Static libraries for libmcrypt",
     "Homepage": "https://mcrypt.sourceforge.net/"
   },
@@ -6883,103 +6883,103 @@
   },
   {
     "Package": "libmdbx",
-    "Version": "0.12.10",
+    "Version": "0.12.10-1",
     "Description": "An extremely fast, compact, powerful, embedded, transactional key-value database",
     "Homepage": "https://libmdbx.dqdkfa.ru/"
   },
   {
     "Package": "libmediainfo",
-    "Version": "25.07",
+    "Version": "25.07-1",
     "Description": "Library for reading information from media files",
     "Homepage": "https://mediaarea.net/en/MediaInfo"
   },
   {
     "Package": "libmediainfo-static",
-    "Version": "25.07",
+    "Version": "25.07-1",
     "Description": "Static libraries for libmediainfo",
     "Homepage": "https://mediaarea.net/en/MediaInfo"
   },
   {
     "Package": "libmesode",
-    "Version": "0.10.1-4",
+    "Version": "0.10.1-5",
     "Description": "Minimal XMPP library written for use with Profanity XMPP client",
     "Homepage": "https://github.com/boothj5/libmesode"
   },
   {
     "Package": "libmesode-static",
-    "Version": "0.10.1-4",
+    "Version": "0.10.1-5",
     "Description": "Static libraries for libmesode",
     "Homepage": "https://github.com/boothj5/libmesode"
   },
   {
     "Package": "libmhash",
-    "Version": "0.9.9.9-3",
+    "Version": "0.9.9.9-4",
     "Description": "A thread-safe hash library which provides a uniform interface to hash algorithms",
     "Homepage": "https://mhash.sourceforge.net/"
   },
   {
     "Package": "libmhash-static",
-    "Version": "0.9.9.9-3",
+    "Version": "0.9.9.9-4",
     "Description": "Static libraries for libmhash",
     "Homepage": "https://mhash.sourceforge.net/"
   },
   {
     "Package": "libmicrohttpd",
-    "Version": "1.0.2",
+    "Version": "1.0.2-1",
     "Description": "A small C library that is supposed to make it easy to run an HTTP server as part of another application",
     "Homepage": "http://www.gnu.org/software/libmicrohttpd/"
   },
   {
     "Package": "libmicrohttpd-static",
-    "Version": "1.0.2",
+    "Version": "1.0.2-1",
     "Description": "Static libraries for libmicrohttpd",
     "Homepage": "http://www.gnu.org/software/libmicrohttpd/"
   },
   {
     "Package": "libminizip",
-    "Version": "1.3.1",
+    "Version": "1.3.1-1",
     "Description": "Mini zip and unzip based on zlib",
     "Homepage": "https://www.winimage.com/zLibDll/minizip.html"
   },
   {
     "Package": "libminizip-ng",
-    "Version": "4.0.10",
+    "Version": "4.0.10-1",
     "Description": "A zip manipulation library written in C",
     "Homepage": "https://github.com/zlib-ng/minizip-ng"
   },
   {
     "Package": "libminizip-static",
-    "Version": "1.3.1",
+    "Version": "1.3.1-1",
     "Description": "Static libraries for libminizip",
     "Homepage": "https://www.winimage.com/zLibDll/minizip.html"
   },
   {
     "Package": "libmnl",
-    "Version": "1.0.5",
+    "Version": "1.0.5-1",
     "Description": "a minimalistic user-space library oriented to Netlink developers",
     "Homepage": "https://www.netfilter.org/projects/libmnl/"
   },
   {
     "Package": "libmnl-static",
-    "Version": "1.0.5",
+    "Version": "1.0.5-1",
     "Description": "Static libraries for libmnl",
     "Homepage": "https://www.netfilter.org/projects/libmnl/"
   },
   {
     "Package": "libmodplug",
-    "Version": "0.8.9.1.r461",
+    "Version": "0.8.9.1.r461-1",
     "Description": "The ModPlug mod file playing library",
-    "Homepage": "http://modplug-xmms.sourceforge.net/"
+    "Homepage": "https://modplug-xmms.sourceforge.net/"
   },
   {
     "Package": "libmodplug-static",
-    "Version": "0.8.9.1.r461",
+    "Version": "0.8.9.1.r461-1",
     "Description": "Static libraries for libmodplug",
-    "Homepage": "http://modplug-xmms.sourceforge.net/"
+    "Homepage": "https://modplug-xmms.sourceforge.net/"
   },
   {
     "Package": "libmosquitto",
-    "Version": "2.0.22-1",
+    "Version": "2.0.22-2",
     "Description": "MQTT library",
     "Homepage": "https://mosquitto.org/"
   },
@@ -7003,27 +7003,27 @@
   },
   {
     "Package": "libmp3splt",
-    "Version": "0.9.2-9",
+    "Version": "0.9.2-10",
     "Description": "Utility to split MP3, Ogg Vorbis and native FLAC files without decoding",
-    "Homepage": "http://mp3splt.sourceforge.net"
+    "Homepage": "https://mp3splt.sourceforge.net"
   },
   {
     "Package": "libmp3splt-static",
-    "Version": "0.9.2-9",
+    "Version": "0.9.2-10",
     "Description": "Static libraries for libmp3splt",
-    "Homepage": "http://mp3splt.sourceforge.net"
+    "Homepage": "https://mp3splt.sourceforge.net"
   },
   {
     "Package": "libmpc",
-    "Version": "1.3.1",
+    "Version": "1.3.1-1",
     "Description": "Library for the arithmetic of complex numbers with arbitrarily high precision",
-    "Homepage": "http://www.multiprecision.org/"
+    "Homepage": "https://www.multiprecision.org/"
   },
   {
     "Package": "libmpc-static",
-    "Version": "1.3.1",
+    "Version": "1.3.1-1",
     "Description": "Static libraries for libmpc",
-    "Homepage": "http://www.multiprecision.org/"
+    "Homepage": "https://www.multiprecision.org/"
   },
   {
     "Package": "libmpdclient",
@@ -7057,19 +7057,19 @@
   },
   {
     "Package": "libmpg123",
-    "Version": "1.33.1-1",
+    "Version": "1.33.1-2",
     "Description": "Fast console MPEG Audio Player and decoder library",
     "Homepage": "https://mpg123.org/"
   },
   {
     "Package": "libmpg123-static",
-    "Version": "1.33.1-1",
+    "Version": "1.33.1-2",
     "Description": "Static libraries for libmpg123",
     "Homepage": "https://mpg123.org/"
   },
   {
     "Package": "libmsgpack",
-    "Version": "6.1.0",
+    "Version": "6.1.0-1",
     "Description": "MessagePack implementation for C",
     "Homepage": "https://github.com/msgpack/msgpack-c/"
   },
@@ -7081,25 +7081,25 @@
   },
   {
     "Package": "libmsgpack-static",
-    "Version": "6.1.0",
+    "Version": "6.1.0-1",
     "Description": "Static libraries for libmsgpack",
     "Homepage": "https://github.com/msgpack/msgpack-c/"
   },
   {
     "Package": "libmuparser",
-    "Version": "2.3.5",
+    "Version": "2.3.5-1",
     "Description": "An extensible high performance math expression parser library written in C++",
     "Homepage": "https://beltoforion.de/en/muparser"
   },
   {
     "Package": "libmypaint",
-    "Version": "1.6.1-1",
+    "Version": "1.6.1-2",
     "Description": "MyPaint brush engine library",
     "Homepage": "https://github.com/mypaint/libmypaint"
   },
   {
     "Package": "libmypaint-static",
-    "Version": "1.6.1-1",
+    "Version": "1.6.1-2",
     "Description": "Static libraries for libmypaint",
     "Homepage": "https://github.com/mypaint/libmypaint"
   },
@@ -7129,25 +7129,25 @@
   },
   {
     "Package": "libneon",
-    "Version": "0.35.0",
+    "Version": "0.35.0-1",
     "Description": "An HTTP/1.1 and WebDAV client library, with a C interface",
     "Homepage": "https://notroj.github.io/neon/"
   },
   {
     "Package": "libneon-static",
-    "Version": "0.35.0",
+    "Version": "0.35.0-1",
     "Description": "Static libraries for libneon",
     "Homepage": "https://notroj.github.io/neon/"
   },
   {
     "Package": "libnet",
-    "Version": "1.3",
+    "Version": "1.3-1",
     "Description": "A library which provides API for commonly used low-level net functions",
     "Homepage": "https://github.com/libnet/libnet"
   },
   {
     "Package": "libnet-static",
-    "Version": "1.3",
+    "Version": "1.3-1",
     "Description": "Static libraries for libnet",
     "Homepage": "https://github.com/libnet/libnet"
   },
@@ -7165,31 +7165,31 @@
   },
   {
     "Package": "libnewt",
-    "Version": "0.52.25",
+    "Version": "0.52.25-1",
     "Description": "A programming library for color text mode, widget based user interfaces",
     "Homepage": "https://pagure.io/newt"
   },
   {
     "Package": "libnewt-static",
-    "Version": "0.52.25",
+    "Version": "0.52.25-1",
     "Description": "Static libraries for libnewt",
     "Homepage": "https://pagure.io/newt"
   },
   {
     "Package": "libnfc",
-    "Version": "1.8.0-1",
+    "Version": "1.8.0-2",
     "Description": "Free/Libre Near Field Communication (NFC) library",
     "Homepage": "https://github.com/nfc-tools/libnfc"
   },
   {
     "Package": "libnfc-static",
-    "Version": "1.8.0-1",
+    "Version": "1.8.0-2",
     "Description": "Static libraries for libnfc",
     "Homepage": "https://github.com/nfc-tools/libnfc"
   },
   {
     "Package": "libnfs",
-    "Version": "6.0.2",
+    "Version": "6.0.2-1",
     "Description": "NFS client library",
     "Homepage": "https://github.com/sahlberg/libnfs"
   },
@@ -7231,39 +7231,39 @@
   },
   {
     "Package": "libnl",
-    "Version": "3.11.0",
+    "Version": "3.11.0-1",
     "Description": "Collection of libraries providing APIs to netlink protocol based Linux kernel interfaces",
     "Homepage": "https://github.com/thom311/libnl"
   },
   {
     "Package": "libnl-cli",
-    "Version": "3.11.0",
+    "Version": "3.11.0-1",
     "Description": "Command-line interface utilities for libnl",
     "Homepage": "https://github.com/thom311/libnl"
   },
   {
     "Package": "libnl-cli-static",
-    "Version": "3.11.0",
+    "Version": "3.11.0-1",
     "Description": "Static libraries for libnl-cli",
     "Homepage": "https://github.com/thom311/libnl"
   },
   {
     "Package": "libnl-static",
-    "Version": "3.11.0",
+    "Version": "3.11.0-1",
     "Description": "Static libraries for libnl",
     "Homepage": "https://github.com/thom311/libnl"
   },
   {
     "Package": "libnova",
-    "Version": "0.16",
+    "Version": "0.16-1",
     "Description": "A general purpose, double precision, Celestial Mechanics, Astrometry and Astrodynamics library",
-    "Homepage": "http://libnova.sourceforge.net"
+    "Homepage": "https://libnova.sourceforge.net"
   },
   {
     "Package": "libnova-static",
-    "Version": "0.16",
+    "Version": "0.16-1",
     "Description": "Static libraries for libnova",
-    "Homepage": "http://libnova.sourceforge.net"
+    "Homepage": "https://libnova.sourceforge.net"
   },
   {
     "Package": "libnpth",
@@ -7279,13 +7279,13 @@
   },
   {
     "Package": "libnspr",
-    "Version": "4.37",
+    "Version": "4.37-1",
     "Description": "Netscape Portable Runtime (NSPR)",
     "Homepage": "https://hg.mozilla.org/projects/nspr"
   },
   {
     "Package": "libnspr-static",
-    "Version": "4.37",
+    "Version": "4.37-1",
     "Description": "Static libraries for libnspr",
     "Homepage": "https://hg.mozilla.org/projects/nspr"
   },
@@ -7309,73 +7309,73 @@
   },
   {
     "Package": "libobjc2",
-    "Version": "2.1-2",
+    "Version": "2.1-3",
     "Description": "The GNUstep Objective-C runtime",
-    "Homepage": "http://www.gnustep.org/"
+    "Homepage": "https://www.gnustep.org/"
   },
   {
     "Package": "libode",
-    "Version": "0.16.6",
+    "Version": "0.16.6-1",
     "Description": "An open source, high performance library for simulating rigid body dynamics",
     "Homepage": "https://www.ode.org"
   },
   {
     "Package": "libogg",
-    "Version": "1.3.6",
+    "Version": "1.3.6-1",
     "Description": "Library for working with the Ogg multimedia container format",
     "Homepage": "https://xiph.org/ogg/"
   },
   {
     "Package": "libogg-static",
-    "Version": "1.3.6",
+    "Version": "1.3.6-1",
     "Description": "Static libraries for libogg",
     "Homepage": "https://xiph.org/ogg/"
   },
   {
     "Package": "liboggz",
-    "Version": "1.1.3",
+    "Version": "1.1.3-1",
     "Description": "Command and library to inspect, tweak, edit and validate Ogg files",
     "Homepage": "https://www.xiph.org/oggz/"
   },
   {
     "Package": "libolm",
-    "Version": "3.2.16",
+    "Version": "3.2.16-1",
     "Description": "An implementation of the Double Ratchet cryptographic ratchet",
     "Homepage": "https://matrix.org/docs/projects/other/olm/"
   },
   {
     "Package": "libopenblas",
-    "Version": "0.3.30",
+    "Version": "0.3.30-1",
     "Description": "An optimized BLAS library based on GotoBLAS2 1.13 BSD",
     "Homepage": "https://www.openblas.net"
   },
   {
     "Package": "libopenblas-static",
-    "Version": "0.3.30",
+    "Version": "0.3.30-1",
     "Description": "Static libraries for libopenblas",
     "Homepage": "https://www.openblas.net"
   },
   {
     "Package": "libopencc",
-    "Version": "1.1.9",
+    "Version": "1.1.9-1",
     "Description": "An opensource project for conversions between Traditional Chinese, Simplified Chinese and Japanese Kanji (Shinjitai)",
     "Homepage": "https://github.com/BYVoid/OpenCC"
   },
   {
     "Package": "libopencore-amr",
-    "Version": "0.1.6",
+    "Version": "0.1.6-1",
     "Description": "Open source implementation of the Adaptive Multi Rate (AMR) speech codec",
-    "Homepage": "https://sourceforge.net/projects/opencore-amr"
+    "Homepage": "https://sourceforge.net/projects/opencore-amr/"
   },
   {
     "Package": "libopencore-amr-static",
-    "Version": "0.1.6",
+    "Version": "0.1.6-1",
     "Description": "Static libraries for libopencore-amr",
-    "Homepage": "https://sourceforge.net/projects/opencore-amr"
+    "Homepage": "https://sourceforge.net/projects/opencore-amr/"
   },
   {
     "Package": "libopenfec",
-    "Version": "1.4.2.12",
+    "Version": "1.4.2.12-1",
     "Description": "Application-Level Forward Erasure Correction implementation library",
     "Homepage": "http://openfec.org"
   },
@@ -7405,31 +7405,31 @@
   },
   {
     "Package": "libopusenc",
-    "Version": "0.2.1-3",
+    "Version": "0.2.1-4",
     "Description": "High-level API for encoding .opus files",
     "Homepage": "https://github.com/xiph/libopusenc"
   },
   {
     "Package": "libopusenc-static",
-    "Version": "0.2.1-3",
+    "Version": "0.2.1-4",
     "Description": "Static libraries for libopusenc",
     "Homepage": "https://github.com/xiph/libopusenc"
   },
   {
     "Package": "liborc",
-    "Version": "0.4.41",
+    "Version": "0.4.41-1",
     "Description": "Library of Optimized Inner Loops Runtime Compiler",
     "Homepage": "https://gstreamer.freedesktop.org/projects/orc.html"
   },
   {
     "Package": "libosl",
-    "Version": "0.9.7",
+    "Version": "0.9.7-1",
     "Description": "A Specification and a Library for Data Exchange in Polyhedral Compilation Tools",
     "Homepage": "http://icps.u-strasbg.fr/~bastoul/development/openscop"
   },
   {
     "Package": "libosl-static",
-    "Version": "0.9.7",
+    "Version": "0.9.7-1",
     "Description": "Static libraries for libosl",
     "Homepage": "http://icps.u-strasbg.fr/~bastoul/development/openscop"
   },
@@ -7453,13 +7453,13 @@
   },
   {
     "Package": "libotr",
-    "Version": "4.1.1-2",
+    "Version": "4.1.1-3",
     "Description": "Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing: Encryption, Authentication, Deniability, Perfect forward secrecy",
     "Homepage": "https://otr.cypherpunks.ca"
   },
   {
     "Package": "libotr-static",
-    "Version": "4.1.1-2",
+    "Version": "4.1.1-3",
     "Description": "Static libraries for libotr",
     "Homepage": "https://otr.cypherpunks.ca"
   },
@@ -7471,13 +7471,13 @@
   },
   {
     "Package": "libp11",
-    "Version": "0.4.16",
+    "Version": "0.4.16-1",
     "Description": "PKCS#11 wrapper library",
     "Homepage": "https://github.com/OpenSC/libp11"
   },
   {
     "Package": "libp8-platform",
-    "Version": "2.1.0.1-3",
+    "Version": "2.1.0.1-4",
     "Description": "Platform support library used by libCEC and binary add-ons for Kodi",
     "Homepage": "https://github.com/Pulse-Eight/platform"
   },
@@ -7489,49 +7489,49 @@
   },
   {
     "Package": "libpangomm-1.4",
-    "Version": "2.46.4",
+    "Version": "2.46.4-1",
     "Description": "A C++ API for Pango",
     "Homepage": "https://www.gtkmm.org/"
   },
   {
     "Package": "libpangomm-2.48",
-    "Version": "2.56.1",
+    "Version": "2.56.1-1",
     "Description": "A C++ API for Pango",
     "Homepage": "https://www.gtkmm.org/"
   },
   {
     "Package": "libpano13",
-    "Version": "2.9.22-1",
+    "Version": "2.9.22-2",
     "Description": "Part of the Panorama Tools by Helmut Dersch",
     "Homepage": "https://panotools.sourceforge.net/"
   },
   {
     "Package": "libpano13-static",
-    "Version": "2.9.22-1",
+    "Version": "2.9.22-2",
     "Description": "Static libraries for libpano13",
     "Homepage": "https://panotools.sourceforge.net/"
   },
   {
     "Package": "libpaper",
-    "Version": "2.2.6",
+    "Version": "2.2.6-1",
     "Description": "Library for handling paper characteristics (by @rrthomas)",
     "Homepage": "https://github.com/rrthomas/psutils"
   },
   {
     "Package": "libpaper-static",
-    "Version": "2.2.6",
+    "Version": "2.2.6-1",
     "Description": "Static libraries for libpaper",
     "Homepage": "https://github.com/rrthomas/psutils"
   },
   {
     "Package": "libpcap",
-    "Version": "1.10.5",
+    "Version": "1.10.5-1",
     "Description": "Library for network traffic capture",
     "Homepage": "https://www.tcpdump.org"
   },
   {
     "Package": "libpcap-static",
-    "Version": "1.10.5",
+    "Version": "1.10.5-1",
     "Description": "Static libraries for libpcap",
     "Homepage": "https://www.tcpdump.org"
   },
@@ -7543,31 +7543,31 @@
   },
   {
     "Package": "libpcsclite",
-    "Version": "2.3.3-1",
+    "Version": "2.3.3-2",
     "Description": "Middleware to access a smart card using SCard API (PC/SC).",
     "Homepage": "https://pcsclite.apdu.fr/"
   },
   {
     "Package": "libpcsclite-static",
-    "Version": "2.3.3-1",
+    "Version": "2.3.3-2",
     "Description": "Static libraries for libpcsclite",
     "Homepage": "https://pcsclite.apdu.fr/"
   },
   {
     "Package": "libphysfs",
-    "Version": "3.2.0-1",
+    "Version": "3.2.0-2",
     "Description": "A portable, flexible file i/o abstraction",
     "Homepage": "https://icculus.org/physfs/"
   },
   {
     "Package": "libpipeline",
-    "Version": "1.5.8",
+    "Version": "1.5.8-1",
     "Description": "C library for manipulating pipelines of subprocesses in a flexible and convenient way",
     "Homepage": "http://libpipeline.nongnu.org/"
   },
   {
     "Package": "libpipeline-static",
-    "Version": "1.5.8",
+    "Version": "1.5.8-1",
     "Description": "Static libraries for libpipeline",
     "Homepage": "http://libpipeline.nongnu.org/"
   },
@@ -7579,19 +7579,19 @@
   },
   {
     "Package": "libplacebo",
-    "Version": "6.338.2-1",
+    "Version": "6.338.2-2",
     "Description": "Reusable library for GPU-accelerated video/image rendering",
     "Homepage": "http://libplacebo.org/"
   },
   {
     "Package": "libplist",
-    "Version": "2.7.0",
+    "Version": "2.7.0-1",
     "Description": "A small portable C library to handle Apple Property List files in binary or XML format",
     "Homepage": "https://libimobiledevice.org"
   },
   {
     "Package": "libplist-static",
-    "Version": "2.7.0",
+    "Version": "2.7.0-1",
     "Description": "Static libraries for libplist",
     "Homepage": "https://libimobiledevice.org"
   },
@@ -7633,7 +7633,7 @@
   },
   {
     "Package": "libpoco",
-    "Version": "1.14.2",
+    "Version": "1.14.2-1",
     "Description": "A comprehensive set of C++ libraries that cover all modern-day programming needs",
     "Homepage": "https://pocoproject.org/"
   },
@@ -7681,37 +7681,43 @@
   },
   {
     "Package": "libpsl",
-    "Version": "0.21.5",
+    "Version": "0.21.5-1",
     "Description": "Public Suffix List library",
     "Homepage": "https://github.com/rockdaboot/libpsl"
   },
   {
     "Package": "libpsl-static",
-    "Version": "0.21.5",
+    "Version": "0.21.5-1",
     "Description": "Static libraries for libpsl",
     "Homepage": "https://github.com/rockdaboot/libpsl"
   },
   {
     "Package": "libpugixml",
-    "Version": "1.15",
+    "Version": "1.15-1",
     "Description": "Light-weight, simple and fast XML parser for C++ with XPath support",
     "Homepage": "https://pugixml.org/"
   },
   {
     "Package": "libqrencode",
-    "Version": "4.1.1",
+    "Version": "4.1.1-1",
     "Description": "Fast and compact library for encoding data in a QR Code symbol",
     "Homepage": "https://fukuchi.org/works/qrencode/"
   },
   {
+    "Package": "libqrencode-static",
+    "Version": "4.1.1-1",
+    "Description": "Static libraries for libqrencode",
+    "Homepage": "https://fukuchi.org/works/qrencode/"
+  },
+  {
     "Package": "libraptor2",
-    "Version": "2.0.16-8",
+    "Version": "2.0.16-9",
     "Description": "RDF Syntax Library",
     "Homepage": "https://librdf.org/raptor/"
   },
   {
     "Package": "libraptor2-static",
-    "Version": "2.0.16-8",
+    "Version": "2.0.16-9",
     "Description": "Static libraries for libraptor2",
     "Homepage": "https://librdf.org/raptor/"
   },
@@ -7723,13 +7729,13 @@
   },
   {
     "Package": "librasqal",
-    "Version": "0.9.33-3",
+    "Version": "0.9.33-4",
     "Description": "RDF Query Library",
     "Homepage": "https://librdf.org/rasqal/"
   },
   {
     "Package": "librasqal-static",
-    "Version": "0.9.33-3",
+    "Version": "0.9.33-4",
     "Description": "Static libraries for librasqal",
     "Homepage": "https://librdf.org/rasqal/"
   },
@@ -7771,19 +7777,19 @@
   },
   {
     "Package": "libresolv-wrapper",
-    "Version": "1.1.7-4",
+    "Version": "1.1.7-5",
     "Description": "A wrapper for DNS name resolving or DNS faking",
     "Homepage": "https://cwrap.org/resolv_wrapper.html"
   },
   {
     "Package": "libretls",
-    "Version": "3.8.1",
+    "Version": "3.8.1-1",
     "Description": "libtls for OpenSSL",
     "Homepage": "https://git.causal.agency/libretls/about/"
   },
   {
     "Package": "libretls-static",
-    "Version": "3.8.1",
+    "Version": "3.8.1-1",
     "Description": "Static libraries for libretls",
     "Homepage": "https://git.causal.agency/libretls/about/"
   },
@@ -7801,25 +7807,25 @@
   },
   {
     "Package": "librnnoise",
-    "Version": "0.2",
+    "Version": "0.2-1",
     "Description": "RNN-based noise suppression",
     "Homepage": "https://jmvalin.ca/demo/rnnoise/"
   },
   {
     "Package": "librnnoise-static",
-    "Version": "0.2",
+    "Version": "0.2-1",
     "Description": "Static libraries for librnnoise",
     "Homepage": "https://jmvalin.ca/demo/rnnoise/"
   },
   {
     "Package": "librocksdb",
-    "Version": "8.11.3",
+    "Version": "8.11.3-1",
     "Description": "A persistent key-value store for flash and RAM storage",
     "Homepage": "https://rocksdb.org/"
   },
   {
     "Package": "librocksdb-static",
-    "Version": "8.11.3",
+    "Version": "8.11.3-1",
     "Description": "Static libraries for librocksdb",
     "Homepage": "https://rocksdb.org/"
   },
@@ -7831,31 +7837,31 @@
   },
   {
     "Package": "librsync",
-    "Version": "2.3.4",
+    "Version": "2.3.4-1",
     "Description": "Remote delta-compression library",
     "Homepage": "https://github.com/librsync/librsync"
   },
   {
     "Package": "librtmidi",
-    "Version": "5.0.0-2",
+    "Version": "5.0.0-3",
     "Description": "A set of C++ classes that provides a common API for realtime MIDI input/output",
     "Homepage": "https://www.music.mcgill.ca/~gary/rtmidi/"
   },
   {
     "Package": "librttopo",
-    "Version": "1.1.0-3",
+    "Version": "1.1.0-4",
     "Description": "The RT Topology Library exposes an API to create and manage standard topologies",
     "Homepage": "https://git.osgeo.org/gitea/rttopo/librttopo"
   },
   {
     "Package": "librttopo-static",
-    "Version": "1.1.0-3",
+    "Version": "1.1.0-4",
     "Description": "Static libraries for librttopo",
     "Homepage": "https://git.osgeo.org/gitea/rttopo/librttopo"
   },
   {
     "Package": "libsamplerate",
-    "Version": "0.2.2-2",
+    "Version": "0.2.2-3",
     "Description": "A library for performing sample rate conversion of audio data",
     "Homepage": "https://libsndfile.github.io/libsamplerate/"
   },
@@ -7873,25 +7879,25 @@
   },
   {
     "Package": "libsass",
-    "Version": "3.6.6",
+    "Version": "3.6.6-1",
     "Description": "Sass compiler written in C++",
     "Homepage": "https://github.com/sass/libsass"
   },
   {
     "Package": "libsass-static",
-    "Version": "3.6.6",
+    "Version": "3.6.6-1",
     "Description": "Static libraries for libsass",
     "Homepage": "https://github.com/sass/libsass"
   },
   {
     "Package": "libsearpc",
-    "Version": "1:3.2.0-6",
+    "Version": "1:3.2.0-7",
     "Description": "A simple C language RPC framework (mainly for seafile)",
     "Homepage": "https://github.com/haiwen/libsearpc"
   },
   {
     "Package": "libsearpc-static",
-    "Version": "1:3.2.0-6",
+    "Version": "1:3.2.0-7",
     "Description": "Static libraries for libsearpc",
     "Homepage": "https://github.com/haiwen/libsearpc"
   },
@@ -7933,67 +7939,67 @@
   },
   {
     "Package": "libsfdo",
-    "Version": "0.1.4",
+    "Version": "0.1.4-1",
     "Description": "A collection of libraries which implement some of the freedesktop.org specifications.",
     "Homepage": "https://gitlab.freedesktop.org/vyivel/libsfdo"
   },
   {
     "Package": "libshout",
-    "Version": "2.4.6-1",
+    "Version": "2.4.6-2",
     "Description": "Library which can be used to write a source client like ices.",
     "Homepage": "https://icecast.org/"
   },
   {
     "Package": "libshout-static",
-    "Version": "2.4.6-1",
+    "Version": "2.4.6-2",
     "Description": "Static libraries for libshout",
     "Homepage": "https://icecast.org/"
   },
   {
     "Package": "libsigc++-2.0",
-    "Version": "2.12.1",
+    "Version": "2.12.1-1",
     "Description": "Implements a typesafe callback system for standard C++",
     "Homepage": "https://libsigcplusplus.github.io/libsigcplusplus/"
   },
   {
     "Package": "libsigc++-3.0",
-    "Version": "3.6.0-1",
+    "Version": "3.6.0-2",
     "Description": "Implements a typesafe callback system for standard C++",
     "Homepage": "https://libsigcplusplus.github.io/libsigcplusplus/"
   },
   {
     "Package": "libsignal-protocol-c",
-    "Version": "2.3.3-2",
+    "Version": "2.3.3-3",
     "Description": "Signal Protocol C Library",
     "Homepage": "https://github.com/signalapp/libsignal-protocol-c"
   },
   {
     "Package": "libsigsegv",
-    "Version": "2.14",
+    "Version": "2.14-1",
     "Description": "GNU libsigsegv is a library for handling page faults in user mode",
     "Homepage": "https://www.gnu.org/software/libsigsegv/"
   },
   {
     "Package": "libsigsegv-static",
-    "Version": "2.14",
+    "Version": "2.14-1",
     "Description": "Static libraries for libsigsegv",
     "Homepage": "https://www.gnu.org/software/libsigsegv/"
   },
   {
     "Package": "libsixel",
-    "Version": "1.10.5",
+    "Version": "1.10.5-1",
     "Description": "Encoder/decoder implementation for DEC SIXEL graphics",
     "Homepage": "https://saitoha.github.io/libsixel/"
   },
   {
     "Package": "libslirp",
-    "Version": "4.8.0-1",
+    "Version": "4.8.0-2",
     "Description": "A general purpose TCP-IP emulator",
     "Homepage": "https://gitlab.freedesktop.org/slirp/libslirp"
   },
   {
     "Package": "libsm",
-    "Version": "1.2.6",
+    "Version": "1.2.6-1",
     "Description": "X11 Session Management library",
     "Homepage": "https://xorg.freedesktop.org/"
   },
@@ -8005,67 +8011,67 @@
   },
   {
     "Package": "libsnappy",
-    "Version": "1.2.2",
+    "Version": "1.2.2-1",
     "Description": "A compression/decompression library",
     "Homepage": "https://github.com/google/snappy"
   },
   {
     "Package": "libsndfile",
-    "Version": "1.2.2-1",
+    "Version": "1.2.2-2",
     "Description": "Library for reading/writing audio files",
     "Homepage": "http://www.mega-nerd.com/libsndfile"
   },
   {
     "Package": "libsndfile-static",
-    "Version": "1.2.2-1",
+    "Version": "1.2.2-2",
     "Description": "Static libraries for libsndfile",
     "Homepage": "http://www.mega-nerd.com/libsndfile"
   },
   {
     "Package": "libsodium",
-    "Version": "1.0.20",
+    "Version": "1.0.20-1",
     "Description": "Network communication, cryptography and signaturing library",
     "Homepage": "https://libsodium.org/"
   },
   {
     "Package": "libsodium-static",
-    "Version": "1.0.20",
+    "Version": "1.0.20-1",
     "Description": "Static libraries for libsodium",
     "Homepage": "https://libsodium.org/"
   },
   {
     "Package": "libsoldout",
-    "Version": "1.4-1",
+    "Version": "1.4-2",
     "Description": "Flexible C library and tools for markdown",
     "Homepage": "https://fossil.instinctive.eu/libsoldout/index"
   },
   {
     "Package": "libsoldout-static",
-    "Version": "1.4-1",
+    "Version": "1.4-2",
     "Description": "Static libraries for libsoldout",
     "Homepage": "https://fossil.instinctive.eu/libsoldout/index"
   },
   {
     "Package": "libsophia",
-    "Version": "2.2",
+    "Version": "2.2-1",
     "Description": "Advanced transactional MVCC key-value/row storage library",
     "Homepage": "http://sophia.systems/"
   },
   {
     "Package": "libsophia-static",
-    "Version": "2.2",
+    "Version": "2.2-1",
     "Description": "Static libraries for libsophia",
     "Homepage": "http://sophia.systems/"
   },
   {
     "Package": "libsoundtouch",
-    "Version": "2.3.3",
+    "Version": "2.3.3-1",
     "Description": "An open-source audio processing library for changing the Tempo, Pitch and Playback Rates of audio streams or files",
     "Homepage": "https://www.surina.net/soundtouch/"
   },
   {
     "Package": "libsoundtouch-static",
-    "Version": "2.3.3",
+    "Version": "2.3.3-1",
     "Description": "Static libraries for libsoundtouch",
     "Homepage": "https://www.surina.net/soundtouch/"
   },
@@ -8077,31 +8083,31 @@
   },
   {
     "Package": "libsoup3",
-    "Version": "3.6.5",
+    "Version": "3.6.5-1",
     "Description": "HTTP client and server library",
     "Homepage": "https://libsoup.gnome.org/libsoup-3.0/"
   },
   {
     "Package": "libsoxr",
-    "Version": "0.1.3-7",
+    "Version": "0.1.3-8",
     "Description": "High quality, one-dimensional sample-rate conversion library",
     "Homepage": "https://sourceforge.net/projects/soxr/"
   },
   {
     "Package": "libspatialindex",
-    "Version": "2.1.0",
+    "Version": "2.1.0-1",
     "Description": "C++ implementation of R*-tree, an MVR-tree and a TPR-tree with C API",
     "Homepage": "https://libspatialindex.github.io"
   },
   {
     "Package": "libspatialite",
-    "Version": "5.1.0-1",
+    "Version": "5.1.0-2",
     "Description": "SQLite extension to support spatial data types and operations",
     "Homepage": "https://www.gaia-gis.it/fossil/libspatialite"
   },
   {
     "Package": "libspatialite-static",
-    "Version": "5.1.0-1",
+    "Version": "5.1.0-2",
     "Description": "Static libraries for libspatialite",
     "Homepage": "https://www.gaia-gis.it/fossil/libspatialite"
   },
@@ -8113,25 +8119,25 @@
   },
   {
     "Package": "libspectre",
-    "Version": "0.2.12",
+    "Version": "0.2.12-1",
     "Description": "A small library for rendering Postscript documents",
     "Homepage": "https://www.freedesktop.org/wiki/Software/libspectre/"
   },
   {
     "Package": "libspectre-static",
-    "Version": "0.2.12",
+    "Version": "0.2.12-1",
     "Description": "Static libraries for libspectre",
     "Homepage": "https://www.freedesktop.org/wiki/Software/libspectre/"
   },
   {
     "Package": "libspeex",
-    "Version": "1.2.1",
+    "Version": "1.2.1-1",
     "Description": "A patent-free, Open Source/Free Software voice codec",
     "Homepage": "https://www.speex.org/"
   },
   {
     "Package": "libspeex-static",
-    "Version": "1.2.1",
+    "Version": "1.2.1-1",
     "Description": "Static libraries for libspeex",
     "Homepage": "https://www.speex.org/"
   },
@@ -8143,13 +8149,13 @@
   },
   {
     "Package": "libspice-server",
-    "Version": "0.16.0",
+    "Version": "0.16.0-1",
     "Description": "Implements the server side of the SPICE protocol",
     "Homepage": "https://www.spice-space.org/"
   },
   {
     "Package": "libspice-server-static",
-    "Version": "0.16.0",
+    "Version": "0.16.0-1",
     "Description": "Static libraries for libspice-server",
     "Homepage": "https://www.spice-space.org/"
   },
@@ -8173,7 +8179,7 @@
   },
   {
     "Package": "libsrt",
-    "Version": "1.5.4",
+    "Version": "1.5.4-1",
     "Description": "Secure Reliable Transport (SRT) Protocol",
     "Homepage": "https://github.com/Haivision/srt"
   },
@@ -8197,55 +8203,55 @@
   },
   {
     "Package": "libstemmer",
-    "Version": "2.2.0-1",
+    "Version": "2.2.0-2",
     "Description": "Snowball compiler and stemming algorithms",
     "Homepage": "https://snowballstem.org/"
   },
   {
     "Package": "libstemmer-static",
-    "Version": "2.2.0-1",
+    "Version": "2.2.0-2",
     "Description": "Static libraries for libstemmer",
     "Homepage": "https://snowballstem.org/"
   },
   {
     "Package": "libstrophe",
-    "Version": "0.14.0",
+    "Version": "0.14.0-1",
     "Description": "libstrophe is a minimal XMPP library written in C",
     "Homepage": "https://strophe.im/libstrophe"
   },
   {
     "Package": "libstrophe-static",
-    "Version": "0.14.0",
+    "Version": "0.14.0-1",
     "Description": "Static libraries for libstrophe",
     "Homepage": "https://strophe.im/libstrophe"
   },
   {
     "Package": "libt3config",
-    "Version": "1.0.0",
+    "Version": "1.0.0-1",
     "Description": "A library for reading and writing configuration files",
     "Homepage": "https://os.ghalkes.nl/t3/libt3config.html"
   },
   {
     "Package": "libt3highlight",
-    "Version": "0.5.0",
+    "Version": "0.5.0-1",
     "Description": "A library for syntax highlighting different types of text files",
     "Homepage": "https://os.ghalkes.nl/t3/libt3highlight.html"
   },
   {
     "Package": "libt3key",
-    "Version": "0.2.11",
+    "Version": "0.2.11-1",
     "Description": "A library and database with escape sequence to key symbol mappings",
     "Homepage": "https://os.ghalkes.nl/t3/libt3key.html"
   },
   {
     "Package": "libt3widget",
-    "Version": "1.2.2-2",
+    "Version": "1.2.2-3",
     "Description": "A library of widgets and dialogs to facilitate construction of easy-to-use terminal-based programs",
     "Homepage": "https://os.ghalkes.nl/t3/libt3widget.html"
   },
   {
     "Package": "libt3window",
-    "Version": "0.4.2",
+    "Version": "0.4.2-1",
     "Description": "A library providing a windowing abstraction on terminals",
     "Homepage": "https://os.ghalkes.nl/t3/libt3window.html"
   },
@@ -8263,43 +8269,43 @@
   },
   {
     "Package": "libtasn1",
-    "Version": "4.20.0",
+    "Version": "4.20.0-1",
     "Description": "This is GNU Libtasn1, a small ASN.1 library",
     "Homepage": "https://www.gnu.org/software/libtasn1/"
   },
   {
     "Package": "libtasn1-static",
-    "Version": "4.20.0",
+    "Version": "4.20.0-1",
     "Description": "Static libraries for libtasn1",
     "Homepage": "https://www.gnu.org/software/libtasn1/"
   },
   {
     "Package": "libtatsu",
-    "Version": "1.0.5",
+    "Version": "1.0.5-1",
     "Description": "Library handling the communication with Apples Tatsu Signing Server (TSS)",
     "Homepage": "https://libimobiledevice.org/"
   },
   {
     "Package": "libtatsu-static",
-    "Version": "1.0.5",
+    "Version": "1.0.5-1",
     "Description": "Static libraries for libtatsu",
     "Homepage": "https://libimobiledevice.org/"
   },
   {
     "Package": "libtbb",
-    "Version": "2022.2.0-1",
+    "Version": "2022.2.0-2",
     "Description": "oneAPI Threading Building Blocks",
     "Homepage": "https://oneapi-src.github.io/oneTBB/"
   },
   {
     "Package": "libtd",
-    "Version": "1.8.50",
+    "Version": "1.8.50-1",
     "Description": "Library for building Telegram clients",
     "Homepage": "https://core.telegram.org/tdlib/"
   },
   {
     "Package": "libtd-static",
-    "Version": "1.8.50",
+    "Version": "1.8.50-1",
     "Description": "Static libraries for libtd",
     "Homepage": "https://core.telegram.org/tdlib/"
   },
@@ -8311,7 +8317,7 @@
   },
   {
     "Package": "libtermkey",
-    "Version": "0.22-3",
+    "Version": "0.22-4",
     "Description": "Library for processing of keyboard entry for terminal-based programs",
     "Homepage": "http://www.leonerd.org.uk/code/libtermkey/"
   },
@@ -8329,7 +8335,7 @@
   },
   {
     "Package": "libthread-db",
-    "Version": "22-1",
+    "Version": "22-2",
     "Description": "Thread debugging library",
     "Homepage": "https://android.googlesource.com/platform/ndk/"
   },
@@ -8359,13 +8365,13 @@
   },
   {
     "Package": "libtinyxml",
-    "Version": "2.6.2-1",
+    "Version": "2.6.2-2",
     "Description": "A simple, small, C++ XML parser",
-    "Homepage": "https://sourceforge.net/projects/tinyxml"
+    "Homepage": "https://sourceforge.net/projects/tinyxml/"
   },
   {
     "Package": "libtinyxml2",
-    "Version": "11.0.0",
+    "Version": "11.0.0-1",
     "Description": "A simple, small, efficient, C++ XML parser",
     "Homepage": "http://www.grinninglizard.com/tinyxml2/"
   },
@@ -8389,13 +8395,13 @@
   },
   {
     "Package": "libtomcrypt",
-    "Version": "1.18.2",
+    "Version": "1.18.2-1",
     "Description": "A fairly comprehensive, modular and portable cryptographic toolkit",
     "Homepage": "https://www.libtom.net/LibTomCrypt/"
   },
   {
     "Package": "libtomcrypt-static",
-    "Version": "1.18.2",
+    "Version": "1.18.2-1",
     "Description": "Static libraries for libtomcrypt",
     "Homepage": "https://www.libtom.net/LibTomCrypt/"
   },
@@ -8437,25 +8443,25 @@
   },
   {
     "Package": "libtpms",
-    "Version": "0.10.1",
+    "Version": "0.10.1-1",
     "Description": "Provides software emulation of a Trusted Platform Module (TPM 1.2 and TPM 2.0)",
     "Homepage": "https://github.com/stefanberger/libtpms"
   },
   {
     "Package": "libtpms-static",
-    "Version": "0.10.1",
+    "Version": "0.10.1-1",
     "Description": "Static libraries for libtpms",
     "Homepage": "https://github.com/stefanberger/libtpms"
   },
   {
     "Package": "libtranscript",
-    "Version": "0.3.4",
+    "Version": "0.3.4-1",
     "Description": "A character-set conversion library",
     "Homepage": "https://os.ghalkes.nl/libtranscript.html"
   },
   {
     "Package": "libtree-ldd",
-    "Version": "3.1.1-1",
+    "Version": "3.1.1-2",
     "Description": "Like ldd(1), but prints a tree(1) like output",
     "Homepage": "https://github.com/haampie/libtree"
   },
@@ -8473,61 +8479,61 @@
   },
   {
     "Package": "libtvision",
-    "Version": "2023.01.29",
+    "Version": "2023.01.29-1",
     "Description": "A modern port of Turbo Vision 2.0 with Unicode support",
     "Homepage": "https://github.com/magiblot/tvision"
   },
   {
     "Package": "libtwolame",
-    "Version": "0.4.0",
+    "Version": "0.4.0-1",
     "Description": "An optimised MPEG Audio Layer 2 (MP2) encoder",
     "Homepage": "https://www.twolame.org/"
   },
   {
     "Package": "libtwolame-static",
-    "Version": "0.4.0",
+    "Version": "0.4.0-1",
     "Description": "Static libraries for libtwolame",
     "Homepage": "https://www.twolame.org/"
   },
   {
     "Package": "libuber-h3",
-    "Version": "4.3.0",
+    "Version": "4.3.0-1",
     "Description": "A hexagonal hierarchical geospatial indexing system",
     "Homepage": "https://h3geo.org/"
   },
   {
     "Package": "libuchardet",
-    "Version": "0.0.8",
+    "Version": "0.0.8-1",
     "Description": "An encoding detector library",
     "Homepage": "https://www.freedesktop.org/wiki/Software/uchardet/"
   },
   {
     "Package": "libuchardet-static",
-    "Version": "0.0.8",
+    "Version": "0.0.8-1",
     "Description": "Static libraries for libuchardet",
     "Homepage": "https://www.freedesktop.org/wiki/Software/uchardet/"
   },
   {
     "Package": "libucontext",
-    "Version": "1.2",
+    "Version": "1.2-1",
     "Description": "A library which provides the ucontext.h C API",
     "Homepage": "https://github.com/kaniini/libucontext"
   },
   {
     "Package": "libucontext-static",
-    "Version": "1.2",
+    "Version": "1.2-1",
     "Description": "Static libraries for libucontext",
     "Homepage": "https://github.com/kaniini/libucontext"
   },
   {
     "Package": "libudfread",
-    "Version": "1.1.2",
+    "Version": "1.1.2-1",
     "Description": "A library for reading UDF",
     "Homepage": "https://code.videolan.org/videolan/libudfread/"
   },
   {
     "Package": "libudfread-static",
-    "Version": "1.1.2",
+    "Version": "1.1.2-1",
     "Description": "Static libraries for libudfread",
     "Homepage": "https://code.videolan.org/videolan/libudfread/"
   },
@@ -8545,7 +8551,7 @@
   },
   {
     "Package": "libunibilium",
-    "Version": "2.1.2",
+    "Version": "2.1.2-1",
     "Description": "Terminfo parsing library",
     "Homepage": "https://github.com/neovim/unibilium"
   },
@@ -8569,43 +8575,43 @@
   },
   {
     "Package": "liburcu",
-    "Version": "0.15.3",
+    "Version": "0.15.3-1",
     "Description": "LGPLv2.1 userspace RCU (read-copy-update) library",
     "Homepage": "https://liburcu.org/"
   },
   {
     "Package": "liburcu-static",
-    "Version": "0.15.3",
+    "Version": "0.15.3-1",
     "Description": "Static libraries for liburcu",
     "Homepage": "https://liburcu.org/"
   },
   {
     "Package": "libusb",
-    "Version": "1.0.29",
+    "Version": "1.0.29-1",
     "Description": "A C library that provides generic access to USB devices",
     "Homepage": "https://libusb.info/"
   },
   {
     "Package": "libusb-static",
-    "Version": "1.0.29",
+    "Version": "1.0.29-1",
     "Description": "Static libraries for libusb",
     "Homepage": "https://libusb.info/"
   },
   {
     "Package": "libusbmuxd",
-    "Version": "2.1.1",
+    "Version": "2.1.1-1",
     "Description": "A client library for applications to handle usbmux protocol connections with iOS devices",
     "Homepage": "https://libimobiledevice.org"
   },
   {
     "Package": "libusbmuxd-static",
-    "Version": "2.1.1",
+    "Version": "2.1.1-1",
     "Description": "Static libraries for libusbmuxd",
     "Homepage": "https://libimobiledevice.org"
   },
   {
     "Package": "libusbredir",
-    "Version": "0.13.0",
+    "Version": "0.13.0-1",
     "Description": "network protocol for sending USB device traffic over a network connection",
     "Homepage": "https://www.spice-space.org/"
   },
@@ -8629,55 +8635,55 @@
   },
   {
     "Package": "libv4l",
-    "Version": "1.24.1-1",
+    "Version": "1.24.1-2",
     "Description": "Linux libraries to handle media devices",
     "Homepage": "https://git.linuxtv.org/v4l-utils.git"
   },
   {
     "Package": "libv4l-static",
-    "Version": "1.24.1-1",
+    "Version": "1.24.1-2",
     "Description": "Static libraries for libv4l",
     "Homepage": "https://git.linuxtv.org/v4l-utils.git"
   },
   {
     "Package": "libvbisam",
-    "Version": "2.0-2",
+    "Version": "2.0-3",
     "Description": "A replacement for IBMs C-ISAM",
     "Homepage": "https://sourceforge.net/projects/vbisam/"
   },
   {
     "Package": "libvbisam-static",
-    "Version": "2.0-2",
+    "Version": "2.0-3",
     "Description": "Static libraries for libvbisam",
     "Homepage": "https://sourceforge.net/projects/vbisam/"
   },
   {
     "Package": "libvidstab",
-    "Version": "1.1.1-1",
+    "Version": "1.1.1-2",
     "Description": "video stabilization library",
     "Homepage": "https://github.com/georgmartius/vid.stab"
   },
   {
     "Package": "libvigra",
-    "Version": "1.12.2",
+    "Version": "1.12.2-1",
     "Description": "Computer vision library",
     "Homepage": "https://ukoethe.github.io/vigra/"
   },
   {
     "Package": "libvips",
-    "Version": "8.17.1",
+    "Version": "8.17.1-1",
     "Description": "A fast image processing library with low memory needs",
     "Homepage": "https://libvips.github.io/libvips/"
   },
   {
     "Package": "libvmaf",
-    "Version": "3.0.0",
+    "Version": "3.0.0-1",
     "Description": "A perceptual video quality assessment algorithm developed by Netflix",
     "Homepage": "https://github.com/Netflix/vmaf"
   },
   {
     "Package": "libvmaf-static",
-    "Version": "3.0.0",
+    "Version": "3.0.0-1",
     "Description": "Static libraries for libvmaf",
     "Homepage": "https://github.com/Netflix/vmaf"
   },
@@ -8737,19 +8743,19 @@
   },
   {
     "Package": "libvxl",
-    "Version": "3.5.0-3",
+    "Version": "3.5.0-4",
     "Description": "A multi-platform collection of C++ software libraries for Computer Vision and Image Understanding",
     "Homepage": "https://vxl.github.io"
   },
   {
     "Package": "libwavpack",
-    "Version": "5.8.1",
+    "Version": "5.8.1-1",
     "Description": "A completely open audio compression format providing lossless, high-quality lossy, and a unique hybrid compression mode",
     "Homepage": "https://www.wavpack.com/"
   },
   {
     "Package": "libwavpack-static",
-    "Version": "5.8.1",
+    "Version": "5.8.1-1",
     "Description": "Static libraries for libwavpack",
     "Homepage": "https://www.wavpack.com/"
   },
@@ -8785,37 +8791,37 @@
   },
   {
     "Package": "libwebsockets",
-    "Version": "4.4.1",
+    "Version": "4.4.1-1",
     "Description": "Lightweight C websockets library",
     "Homepage": "https://libwebsockets.org"
   },
   {
     "Package": "libwolfssl",
-    "Version": "5.8.2",
+    "Version": "5.8.2-1",
     "Description": "A small, fast, portable implementation of TLS/SSL for embedded devices to the cloud",
     "Homepage": "https://www.wolfssl.com/"
   },
   {
     "Package": "libwren",
-    "Version": "0.4.0-2",
+    "Version": "0.4.0-3",
     "Description": "Small, fast, class-based concurrent scripting language libraries",
     "Homepage": "https://wren.io/"
   },
   {
     "Package": "libwslay",
-    "Version": "1.1.1",
+    "Version": "1.1.1-1",
     "Description": "WebSocket library",
     "Homepage": "https://github.com/tatsuhiro-t/wslay"
   },
   {
     "Package": "libwv",
-    "Version": "1.2.9-4",
+    "Version": "1.2.9-5",
     "Description": "A library which allows access to Microsoft Word files",
     "Homepage": "https://wvware.sourceforge.net/"
   },
   {
     "Package": "libwv-static",
-    "Version": "1.2.9-4",
+    "Version": "1.2.9-5",
     "Description": "Static libraries for libwv",
     "Homepage": "https://wvware.sourceforge.net/"
   },
@@ -8869,7 +8875,7 @@
   },
   {
     "Package": "libxau",
-    "Version": "1.0.12",
+    "Version": "1.0.12-1",
     "Description": "X11 authorisation library",
     "Homepage": "https://xorg.freedesktop.org/"
   },
@@ -8887,7 +8893,7 @@
   },
   {
     "Package": "libxcfun",
-    "Version": "2.1.1",
+    "Version": "2.1.1-1",
     "Description": "A library of exchange-correlation functionals with arbitrary-order derivatives",
     "Homepage": "https://github.com/dftlibs/xcfun"
   },
@@ -8905,43 +8911,43 @@
   },
   {
     "Package": "libxdg-basedir",
-    "Version": "1.2.3",
+    "Version": "1.2.3-1",
     "Description": "An implementation of the XDG Base Directory specifications",
     "Homepage": "https://github.com/devnev/libxdg-basedir"
   },
   {
     "Package": "libxdg-basedir-static",
-    "Version": "1.2.3",
+    "Version": "1.2.3-1",
     "Description": "Static libraries for libxdg-basedir",
     "Homepage": "https://github.com/devnev/libxdg-basedir"
   },
   {
     "Package": "libxdmcp",
-    "Version": "1.1.5",
+    "Version": "1.1.5-1",
     "Description": "X11 Display Manager Control Protocol library",
     "Homepage": "https://xorg.freedesktop.org/"
   },
   {
     "Package": "libxdmcp-static",
-    "Version": "1.1.5",
+    "Version": "1.1.5-1",
     "Description": "Static libraries for libxdmcp",
     "Homepage": "https://xorg.freedesktop.org/"
   },
   {
     "Package": "libxdrfile",
-    "Version": "1.1.4",
+    "Version": "1.1.4-1",
     "Description": "Library for reading and writing xtc, edr and trr files",
     "Homepage": "https://userguide.mdanalysis.org/stable/formats/reference/xtc.html"
   },
   {
     "Package": "libxext",
-    "Version": "1.3.6",
+    "Version": "1.3.6-1",
     "Description": "X11 miscellaneous extensions library",
     "Homepage": "https://xorg.freedesktop.org/"
   },
   {
     "Package": "libxext-static",
-    "Version": "1.3.6",
+    "Version": "1.3.6-1",
     "Description": "Static libraries for libxext",
     "Homepage": "https://xorg.freedesktop.org/"
   },
@@ -8959,25 +8965,25 @@
   },
   {
     "Package": "libxft",
-    "Version": "2.3.9",
+    "Version": "2.3.9-1",
     "Description": "FreeType-based font drawing library for X",
     "Homepage": "https://xorg.freedesktop.org/"
   },
   {
     "Package": "libxft-static",
-    "Version": "2.3.9",
+    "Version": "2.3.9-1",
     "Description": "Static libraries for libxft",
     "Homepage": "https://xorg.freedesktop.org/"
   },
   {
     "Package": "libxi",
-    "Version": "1.8.2",
+    "Version": "1.8.2-1",
     "Description": "X11 Input extension library",
     "Homepage": "https://xorg.freedesktop.org/"
   },
   {
     "Package": "libxi-static",
-    "Version": "1.8.2",
+    "Version": "1.8.2-1",
     "Description": "Static libraries for libxi",
     "Homepage": "https://xorg.freedesktop.org/"
   },
@@ -9001,7 +9007,7 @@
   },
   {
     "Package": "libxlsxwriter",
-    "Version": "1.2.3",
+    "Version": "1.2.3-1",
     "Description": "A C library for creating Excel XLSX files",
     "Homepage": "https://libxlsxwriter.github.io/"
   },
@@ -9043,37 +9049,37 @@
   },
   {
     "Package": "libxmlrpc",
-    "Version": "1.60.05",
+    "Version": "1.60.05-1",
     "Description": "XML-RPC for C and C++",
     "Homepage": "https://xmlrpc-c.sourceforge.io/"
   },
   {
     "Package": "libxmlrpc-static",
-    "Version": "1.60.05",
+    "Version": "1.60.05-1",
     "Description": "Static libraries for libxmlrpc",
     "Homepage": "https://xmlrpc-c.sourceforge.io/"
   },
   {
     "Package": "libxrandr",
-    "Version": "1.5.4",
+    "Version": "1.5.4-1",
     "Description": "X11 RandR extension library",
     "Homepage": "https://xorg.freedesktop.org/"
   },
   {
     "Package": "libxrandr-static",
-    "Version": "1.5.4",
+    "Version": "1.5.4-1",
     "Description": "Static libraries for libxrandr",
     "Homepage": "https://xorg.freedesktop.org/"
   },
   {
     "Package": "libxrender",
-    "Version": "0.9.12",
+    "Version": "0.9.12-1",
     "Description": "X Rendering Extension client library",
     "Homepage": "https://xorg.freedesktop.org/"
   },
   {
     "Package": "libxshmfence",
-    "Version": "1.3.3",
+    "Version": "1.3.3-1",
     "Description": "A library that exposes a event API on top of Linux futexes",
     "Homepage": "https://xorg.freedesktop.org/"
   },
@@ -9097,37 +9103,37 @@
   },
   {
     "Package": "libxt",
-    "Version": "1.3.1",
+    "Version": "1.3.1-1",
     "Description": "X11 toolkit intrinsics library",
     "Homepage": "https://xorg.freedesktop.org/"
   },
   {
     "Package": "libxt-static",
-    "Version": "1.3.1",
+    "Version": "1.3.1-1",
     "Description": "Static libraries for libxt",
     "Homepage": "https://xorg.freedesktop.org/"
   },
   {
     "Package": "libxtst",
-    "Version": "1.2.5",
+    "Version": "1.2.5-1",
     "Description": "Xlib-based library for XTEST & RECORD extensions",
     "Homepage": "https://xorg.freedesktop.org/"
   },
   {
     "Package": "libxtst-static",
-    "Version": "1.2.5",
+    "Version": "1.2.5-1",
     "Description": "Static libraries for libxtst",
     "Homepage": "https://xorg.freedesktop.org/"
   },
   {
     "Package": "libxv",
-    "Version": "1.0.13",
+    "Version": "1.0.13-1",
     "Description": "Library for the X Video (Xv) extension to the X Window System",
     "Homepage": "https://xorg.freedesktop.org/"
   },
   {
     "Package": "libxxf86vm",
-    "Version": "1.1.6",
+    "Version": "1.1.6-1",
     "Description": "X11 XFree86 video mode extension library",
     "Homepage": "https://xorg.freedesktop.org/"
   },
@@ -9139,7 +9145,7 @@
   },
   {
     "Package": "libyaml-cpp",
-    "Version": "0.8.0",
+    "Version": "0.8.0-1",
     "Description": "A YAML parser and emitter in C++ matching the YAML 1.2 spec",
     "Homepage": "https://github.com/jbeder/yaml-cpp"
   },
@@ -9151,13 +9157,13 @@
   },
   {
     "Package": "libzen",
-    "Version": "0.4.41",
+    "Version": "0.4.41-1",
     "Description": "ZenLib C++ utility library",
     "Homepage": "https://mediaarea.net/en/MediaInfo"
   },
   {
     "Package": "libzen-static",
-    "Version": "0.4.41",
+    "Version": "0.4.41-1",
     "Description": "Static libraries for libzen",
     "Homepage": "https://mediaarea.net/en/MediaInfo"
   },
@@ -9187,13 +9193,13 @@
   },
   {
     "Package": "libzita-convolver",
-    "Version": "4.0.3-1",
+    "Version": "4.0.3-2",
     "Description": "A real-time C++ convolution library",
     "Homepage": "https://kokkinizita.linuxaudio.org/linuxaudio/"
   },
   {
     "Package": "libzix",
-    "Version": "0.6.2",
+    "Version": "0.6.2-1",
     "Description": "lightweight C99 portability and data structure library",
     "Homepage": "https://drobilla.net/category/zix"
   },
@@ -9235,19 +9241,19 @@
   },
   {
     "Package": "lilypond",
-    "Version": "2.24.4-1",
+    "Version": "2.24.4-2",
     "Description": "A music engraving program",
     "Homepage": "https://lilypond.org/"
   },
   {
     "Package": "links",
-    "Version": "2.29-1",
+    "Version": "2.29-2",
     "Description": "Links is a text and graphics mode WWW browser",
     "Homepage": "http://links.twibright.com"
   },
   {
     "Package": "lipl",
-    "Version": "0.1.3",
+    "Version": "0.1.3-1",
     "Description": "A command line tool that is similar to watch but has extended functions for commands outputing a number",
     "Homepage": "https://github.com/yxdunc/lipl"
   },
@@ -9259,7 +9265,7 @@
   },
   {
     "Package": "litespeedtest",
-    "Version": "0.15.0-2",
+    "Version": "0.15.0-3",
     "Description": "A simple tool for batch test ss/ssr/v2ray/trojan servers",
     "Homepage": "https://github.com/xxf098/LiteSpeedTest"
   },
@@ -9283,7 +9289,7 @@
   },
   {
     "Package": "llbuild",
-    "Version": "6.1",
+    "Version": "6.1-1",
     "Description": "A low-level build system, used by the Swift Package Manager",
     "Homepage": "https://github.com/swiftlang/swift-llbuild"
   },
@@ -9319,7 +9325,7 @@
   },
   {
     "Package": "llvm-mingw-w64-tools",
-    "Version": "12.0.0",
+    "Version": "12.0.0-1",
     "Description": "MinGW-w64 tools for LLVM-MinGW",
     "Homepage": "https://github.com/mstorsjo/llvm-mingw"
   },
@@ -9343,43 +9349,43 @@
   },
   {
     "Package": "lnav",
-    "Version": "0.12.3",
+    "Version": "0.12.3-1",
     "Description": "An advanced log file viewer for the small-scale",
     "Homepage": "https://lnav.org/"
   },
   {
     "Package": "lnd",
-    "Version": "0.17.0-beta-0",
+    "Version": "0.17.0-beta-1",
     "Description": "Lightning Network Daemon",
     "Homepage": "https://github.com/lightningnetwork/lnd"
   },
   {
     "Package": "logo-ls",
-    "Version": "2024.07.17",
+    "Version": "2024.07.17-1",
     "Description": "Modern ls command with vscode like File Icon and Git Integrations",
     "Homepage": "https://github.com/Yash-Handa/logo-ls"
   },
   {
     "Package": "logrotate",
-    "Version": "3.22.0",
+    "Version": "3.22.0-1",
     "Description": "Simplify the administration of log files on a system which generates a lot of log files",
     "Homepage": "https://github.com/logrotate/logrotate"
   },
   {
     "Package": "loksh",
-    "Version": "7.7",
+    "Version": "7.7-1",
     "Description": "A Linux port of OpenBSDs ksh",
     "Homepage": "https://github.com/dimkr/loksh"
   },
   {
     "Package": "lowdown",
-    "Version": "2.0.2",
+    "Version": "2.0.2-1",
     "Description": "Markdown utilities and library (fork of hoedown -> sundown -> libsoldout)",
     "Homepage": "https://kristaps.bsd.lv/lowdown"
   },
   {
     "Package": "lowdown-static",
-    "Version": "2.0.2",
+    "Version": "2.0.2-1",
     "Description": "Static libraries for lowdown",
     "Homepage": "https://kristaps.bsd.lv/lowdown"
   },
@@ -9391,19 +9397,19 @@
   },
   {
     "Package": "lrzip",
-    "Version": "0.651",
+    "Version": "0.651-1",
     "Description": "A compression utility that excels at compressing large files",
     "Homepage": "https://github.com/ckolivas/lrzip"
   },
   {
     "Package": "lrzsz",
-    "Version": "0.12.21-rc1-0",
+    "Version": "0.12.21-rc1-1",
     "Description": "Tools for zmodem/xmodem/ymodem file transfer",
     "Homepage": "https://ohse.de/uwe/software/lrzsz.html"
   },
   {
     "Package": "lsd",
-    "Version": "1.1.5",
+    "Version": "1.1.5-1",
     "Description": "Next gen ls command",
     "Homepage": "https://github.com/lsd-rs/lsd"
   },
@@ -9427,25 +9433,25 @@
   },
   {
     "Package": "ltrace",
-    "Version": "1:0.7.9",
+    "Version": "1:0.7.9-1",
     "Description": "Tracks runtime library calls in dynamically linked programs",
     "Homepage": "http://www.ltrace.org/"
   },
   {
     "Package": "lua-language-server",
-    "Version": "3.15.0",
+    "Version": "3.15.0-1",
     "Description": "Sumneko Lua Language Server coded in Lua",
     "Homepage": "https://github.com/sumneko/lua-language-server"
   },
   {
     "Package": "lua-lgi",
-    "Version": "0.9.2",
+    "Version": "0.9.2-1",
     "Description": "Dynamic Lua binding to GObject libraries using GObject-Introspection",
     "Homepage": "https://github.com/lgi-devs/lgi"
   },
   {
     "Package": "lua-lpeg",
-    "Version": "1.1.0-2",
+    "Version": "1.1.0-3",
     "Description": "Pattern-matching library for Lua 5.4",
     "Homepage": "https://www.inf.puc-rio.br/~roberto/lpeg"
   },
@@ -9457,7 +9463,7 @@
   },
   {
     "Package": "lua51-lpeg",
-    "Version": "1.1.0-2",
+    "Version": "1.1.0-3",
     "Description": "Pattern-matching library for Lua 5.1",
     "Homepage": "https://www.inf.puc-rio.br/~roberto/lpeg"
   },
@@ -9469,25 +9475,25 @@
   },
   {
     "Package": "lua52-lpeg",
-    "Version": "1.1.0-2",
+    "Version": "1.1.0-3",
     "Description": "Pattern-matching library for Lua 5.2",
     "Homepage": "https://www.inf.puc-rio.br/~roberto/lpeg"
   },
   {
     "Package": "lua53",
-    "Version": "5.3.6-3",
+    "Version": "5.3.6-4",
     "Description": "Simple, extensible, embeddable programming language",
     "Homepage": "https://www.lua.org/"
   },
   {
     "Package": "lua53-lpeg",
-    "Version": "1.1.0-2",
+    "Version": "1.1.0-3",
     "Description": "Pattern-matching library for Lua 5.3",
     "Homepage": "https://www.inf.puc-rio.br/~roberto/lpeg"
   },
   {
     "Package": "lua54",
-    "Version": "5.4.8-2",
+    "Version": "5.4.8-3",
     "Description": "Simple, extensible, embeddable programming language",
     "Homepage": "https://www.lua.org/"
   },
@@ -9505,13 +9511,13 @@
   },
   {
     "Package": "luv",
-    "Version": "1.51.0-1-0",
+    "Version": "1.51.0-1-1",
     "Description": "Bare libuv bindings for lua",
     "Homepage": "https://github.com/luvit/luv"
   },
   {
     "Package": "luvi",
-    "Version": "1:2.15.0",
+    "Version": "1:2.15.0-1",
     "Description": "A project in-between luv and luvit",
     "Homepage": "https://luvit.io"
   },
@@ -9523,7 +9529,7 @@
   },
   {
     "Package": "lux",
-    "Version": "0.24.1-1",
+    "Version": "0.24.1-2",
     "Description": "CLI tool to download videos from various websites",
     "Homepage": "https://github.com/iawia002/lux"
   },
@@ -9547,13 +9553,13 @@
   },
   {
     "Package": "lynx",
-    "Version": "2.9.2",
+    "Version": "2.9.2-1",
     "Description": "The text web browser",
     "Homepage": "http://lynx.browser.org/"
   },
   {
     "Package": "lyrebird",
-    "Version": "0.6.1",
+    "Version": "0.6.1-1",
     "Description": "A pluggable transport plugin for Tor",
     "Homepage": "https://gitlab.torproject.org/tpo/anti-censorship/pluggable-transports"
   },
@@ -9565,49 +9571,49 @@
   },
   {
     "Package": "lzip",
-    "Version": "1.25",
+    "Version": "1.25-1",
     "Description": "Lossless data compressor similar to gzip and bzip2",
     "Homepage": "https://www.nongnu.org/lzip/"
   },
   {
     "Package": "lzlib",
-    "Version": "1.15",
+    "Version": "1.15-1",
     "Description": "A library providing in-memory LZMA compression and decompression functions",
     "Homepage": "http://www.nongnu.org/lzip/lzlib.html"
   },
   {
     "Package": "lzlib-static",
-    "Version": "1.15",
+    "Version": "1.15-1",
     "Description": "Static libraries for lzlib",
     "Homepage": "http://www.nongnu.org/lzip/lzlib.html"
   },
   {
     "Package": "lzop",
-    "Version": "1.04-1",
+    "Version": "1.04-2",
     "Description": "File compressor using lzo lib.",
     "Homepage": "https://www.lzop.org"
   },
   {
     "Package": "m4",
-    "Version": "1.4.19-4",
+    "Version": "1.4.19-5",
     "Description": "Traditional Unix macro processor",
     "Homepage": "https://www.gnu.org/software/m4/m4.html"
   },
   {
     "Package": "magic-wormhole-rs",
-    "Version": "0.7.6",
+    "Version": "0.7.6-1",
     "Description": "Rust implementation of Magic Wormhole, with new features and enhancements",
     "Homepage": "https://github.com/magic-wormhole/magic-wormhole.rs"
   },
   {
     "Package": "mailsync",
-    "Version": "5.2.7-1",
+    "Version": "5.2.7-2",
     "Description": "A way of synchronizing a collection of mailboxes",
-    "Homepage": "http://mailsync.sourceforge.net/"
+    "Homepage": "https://mailsync.sourceforge.net/"
   },
   {
     "Package": "mailutils",
-    "Version": "3.20",
+    "Version": "3.20-1",
     "Description": "Mailutils is a swiss army knife of electronic mail handling.",
     "Homepage": "https://mailutils.org/"
   },
@@ -9631,7 +9637,7 @@
   },
   {
     "Package": "mangal",
-    "Version": "4.0.6-2",
+    "Version": "4.0.6-3",
     "Description": "Cli manga downloader",
     "Homepage": "https://github.com/metafates/mangal"
   },
@@ -9661,7 +9667,7 @@
   },
   {
     "Package": "marisa",
-    "Version": "0.3.1",
+    "Version": "0.3.1-1",
     "Description": "Matching Algorithm with Recursively Implemented StorAge",
     "Homepage": "https://github.com/s-yata/marisa-trie"
   },
@@ -9679,7 +9685,7 @@
   },
   {
     "Package": "mathomatic",
-    "Version": "16.0.5-6",
+    "Version": "16.0.5-7",
     "Description": "Simple CAS and symbolic calculator",
     "Homepage": "https://en.wikipedia.org/wiki/Mathomatic"
   },
@@ -9721,37 +9727,37 @@
   },
   {
     "Package": "mazter",
-    "Version": "2022.08.13",
+    "Version": "2022.08.13-1",
     "Description": "Mazes in your terminal",
     "Homepage": "https://github.com/Canop/mazter"
   },
   {
     "Package": "mbedtls",
-    "Version": "3.6.4",
+    "Version": "3.6.4-1",
     "Description": "Light-weight cryptographic and SSL/TLS library",
     "Homepage": "https://www.trustedfirmware.org/projects/mbed-tls/"
   },
   {
     "Package": "mbedtls-static",
-    "Version": "3.6.4",
+    "Version": "3.6.4-1",
     "Description": "Static libraries for mbedtls",
     "Homepage": "https://www.trustedfirmware.org/projects/mbed-tls/"
   },
   {
     "Package": "mc",
-    "Version": "4.8.33-1",
+    "Version": "4.8.33-2",
     "Description": "Midnight Commander - a powerful file manager",
     "Homepage": "https://midnight-commander.org"
   },
   {
     "Package": "mcfly",
-    "Version": "0.9.3",
+    "Version": "0.9.3-1",
     "Description": "Replaces your default ctrl-r shell history search with an intelligent search engine",
     "Homepage": "https://github.com/cantino/mcfly"
   },
   {
     "Package": "mdbook",
-    "Version": "0.4.52",
+    "Version": "0.4.52-1",
     "Description": "Creates book from markdown files",
     "Homepage": "https://rust-lang.github.io/mdBook/"
   },
@@ -9769,19 +9775,19 @@
   },
   {
     "Package": "mdbook-epub",
-    "Version": "0.4.48",
+    "Version": "0.4.48-1",
     "Description": "An EPUB renderer for mdbook",
     "Homepage": "https://github.com/Michael-F-Bryan/mdbook-epub"
   },
   {
     "Package": "mdbook-graphviz",
-    "Version": "0.2.1-1",
+    "Version": "0.2.1-2",
     "Description": "mdbook preprocessor to add graphviz support",
     "Homepage": "https://github.com/dylanowen/mdbook-graphviz"
   },
   {
     "Package": "mdbook-katex",
-    "Version": "0.9.4",
+    "Version": "0.9.4-1",
     "Description": "A preprocessor for mdBook, pre-rendering LaTex equations to HTML at build time",
     "Homepage": "https://github.com/lzanini/mdbook-katex"
   },
@@ -10177,7 +10183,7 @@
   },
   {
     "Package": "mosquitto",
-    "Version": "2.0.22-1",
+    "Version": "2.0.22-2",
     "Description": "MQTT version 3.1/3.1.1 compatible message broker and clients",
     "Homepage": "https://mosquitto.org/"
   },
@@ -10243,7 +10249,7 @@
   },
   {
     "Package": "mpg123",
-    "Version": "1.33.1-1",
+    "Version": "1.33.1-2",
     "Description": "Fast console MPEG Audio Player based on libmpg123",
     "Homepage": "https://mpg123.org/"
   },
@@ -10951,7 +10957,7 @@
   },
   {
     "Package": "opencc-tools",
-    "Version": "1.1.9",
+    "Version": "1.1.9-1",
     "Description": "Command-line tools for OpenCC",
     "Homepage": "https://github.com/BYVoid/OpenCC"
   },
@@ -11455,7 +11461,7 @@
   },
   {
     "Package": "pcscd",
-    "Version": "2.3.3-1",
+    "Version": "2.3.3-2",
     "Description": "Middleware to access a smart card using SCard API (PC/SC). (daemon side)",
     "Homepage": "https://pcsclite.apdu.fr/"
   },
@@ -12661,7 +12667,7 @@
   },
   {
     "Package": "rdiff",
-    "Version": "2.3.4",
+    "Version": "2.3.4-1",
     "Description": "Remote incremental backup",
     "Homepage": "https://github.com/librsync/librsync"
   },
@@ -12889,7 +12895,7 @@
   },
   {
     "Package": "roqet",
-    "Version": "0.9.33-3",
+    "Version": "0.9.33-4",
     "Description": "Standalone command line RDF query utility program",
     "Homepage": "https://librdf.org/rasqal/"
   },
@@ -13621,7 +13627,7 @@
   },
   {
     "Package": "speex-utils",
-    "Version": "1.2.1",
+    "Version": "1.2.1-1",
     "Description": "Speex command line tools",
     "Homepage": "https://www.speex.org/"
   },
@@ -13729,7 +13735,7 @@
   },
   {
     "Package": "srt-tools",
-    "Version": "1.5.4",
+    "Version": "1.5.4-1",
     "Description": "Command-line tools for libsrt",
     "Homepage": "https://github.com/Haivision/srt"
   },
@@ -13825,7 +13831,7 @@
   },
   {
     "Package": "stemwords",
-    "Version": "2.2.0-1",
+    "Version": "2.2.0-2",
     "Description": "A command-line tool which uses libstemmer",
     "Homepage": "https://snowballstem.org/"
   },
@@ -14845,7 +14851,7 @@
   },
   {
     "Package": "twolame",
-    "Version": "0.4.0",
+    "Version": "0.4.0-1",
     "Description": "The frontend for libtwolame",
     "Homepage": "https://www.twolame.org/"
   },
@@ -14863,7 +14869,7 @@
   },
   {
     "Package": "uchardet",
-    "Version": "0.0.8",
+    "Version": "0.0.8-1",
     "Description": "An encoding detector utility",
     "Homepage": "https://www.freedesktop.org/wiki/Software/uchardet/"
   },
@@ -15079,7 +15085,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.8.16",
+    "Version": "0.8.17",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
@@ -15301,7 +15307,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "2025.09.08",
+    "Version": "2025.09.10",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://github.com/directvt/vtm"
   },
@@ -15427,7 +15433,7 @@
   },
   {
     "Package": "wavpack",
-    "Version": "5.8.1",
+    "Version": "5.8.1-1",
     "Description": "WavPack command-line programs",
     "Homepage": "https://www.wavpack.com/"
   },
@@ -15541,7 +15547,7 @@
   },
   {
     "Package": "whiptail",
-    "Version": "0.52.25",
+    "Version": "0.52.25-1",
     "Description": "Display dialog boxes from shell scripts",
     "Homepage": "https://pagure.io/newt"
   },
@@ -15619,7 +15625,7 @@
   },
   {
     "Package": "wv-tools",
-    "Version": "1.2.9-4",
+    "Version": "1.2.9-5",
     "Description": "Command-line tools for libwv",
     "Homepage": "https://wvware.sourceforge.net/"
   },
