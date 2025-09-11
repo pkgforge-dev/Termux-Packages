@@ -1951,11 +1951,11 @@
   Description: Static libraries for freeimage
   Homepage: https://freeimage.sourceforge.io
 - Package: freetype
-  Version: 2.14.0
+  Version: 2.14.1
   Description: Software font engine capable of producing high-quality output
   Homepage: https://www.freetype.org
 - Package: freetype-static
-  Version: 2.14.0
+  Version: 2.14.1
   Description: Static libraries for freetype
   Homepage: https://www.freetype.org
 - Package: frei0r-plugins
@@ -5731,23 +5731,23 @@
   Description: Static libraries for libvbisam
   Homepage: https://sourceforge.net/projects/vbisam/
 - Package: libvidstab
-  Version: 1.1.1-2
+  Version: 1.1.1-3
   Description: video stabilization library
   Homepage: https://github.com/georgmartius/vid.stab
 - Package: libvigra
-  Version: 1.12.2-1
+  Version: 1.12.2-2
   Description: Computer vision library
   Homepage: https://ukoethe.github.io/vigra/
 - Package: libvips
-  Version: 8.17.1-1
+  Version: 8.17.1-2
   Description: A fast image processing library with low memory needs
   Homepage: https://libvips.github.io/libvips/
 - Package: libvmaf
-  Version: 3.0.0-1
+  Version: 3.0.0-2
   Description: A perceptual video quality assessment algorithm developed by Netflix
   Homepage: https://github.com/Netflix/vmaf
 - Package: libvmaf-static
-  Version: 3.0.0-1
+  Version: 3.0.0-2
   Description: Static libraries for libvmaf
   Homepage: https://github.com/Netflix/vmaf
 - Package: libvpx
@@ -5799,19 +5799,19 @@
   Description: A small, fast, portable implementation of TLS/SSL for embedded devices to the cloud
   Homepage: https://www.wolfssl.com/
 - Package: libwren
-  Version: 0.4.0-3
+  Version: 0.4.0-4
   Description: Small, fast, class-based concurrent scripting language libraries
   Homepage: https://wren.io/
 - Package: libwslay
-  Version: 1.1.1-1
+  Version: 1.1.1-2
   Description: WebSocket library
   Homepage: https://github.com/tatsuhiro-t/wslay
 - Package: libwv
-  Version: 1.2.9-5
+  Version: 1.2.9-6
   Description: A library which allows access to Microsoft Word files
   Homepage: https://wvware.sourceforge.net/
 - Package: libwv-static
-  Version: 1.2.9-5
+  Version: 1.2.9-6
   Description: Static libraries for libwv
   Homepage: https://wvware.sourceforge.net/
 - Package: libx11
@@ -5847,7 +5847,7 @@
   Description: Static libraries for libxapian
   Homepage: https://xapian.org
 - Package: libxau
-  Version: 1.0.12-1
+  Version: 1.0.12-2
   Description: X11 authorisation library
   Homepage: https://xorg.freedesktop.org/
 - Package: libxcb
@@ -5859,7 +5859,7 @@
   Description: Static libraries for libxcb
   Homepage: https://xcb.freedesktop.org/
 - Package: libxcfun
-  Version: 2.1.1-1
+  Version: 2.1.1-2
   Description: A library of exchange-correlation functionals with arbitrary-order derivatives
   Homepage: https://github.com/dftlibs/xcfun
 - Package: libxcursor
@@ -5871,23 +5871,23 @@
   Description: Static libraries for libxcursor
   Homepage: https://xorg.freedesktop.org/
 - Package: libxdg-basedir
-  Version: 1.2.3-1
+  Version: 1.2.3-2
   Description: An implementation of the XDG Base Directory specifications
   Homepage: https://github.com/devnev/libxdg-basedir
 - Package: libxdg-basedir-static
-  Version: 1.2.3-1
+  Version: 1.2.3-2
   Description: Static libraries for libxdg-basedir
   Homepage: https://github.com/devnev/libxdg-basedir
 - Package: libxdmcp
-  Version: 1.1.5-1
+  Version: 1.1.5-2
   Description: X11 Display Manager Control Protocol library
   Homepage: https://xorg.freedesktop.org/
 - Package: libxdmcp-static
-  Version: 1.1.5-1
+  Version: 1.1.5-2
   Description: Static libraries for libxdmcp
   Homepage: https://xorg.freedesktop.org/
 - Package: libxdrfile
-  Version: 1.1.4-1
+  Version: 1.1.4-2
   Description: Library for reading and writing xtc, edr and trr files
   Homepage: https://userguide.mdanalysis.org/stable/formats/reference/xtc.html
 - Package: libxext
@@ -6066,10 +6066,30 @@
   Version: 0.6.2-1
   Description: lightweight C99 portability and data structure library
   Homepage: https://drobilla.net/category/zix
+- Package: libzmq
+  Version: 4.3.5-2
+  Description: Fast messaging system built on sockets. C and C++ bindings. aka 0MQ, ZMQ.
+  Homepage: https://zeromq.org/
+- Package: libzmq-static
+  Version: 4.3.5-2
+  Description: Static libraries for libzmq
+  Homepage: https://zeromq.org/
+- Package: libzopfli
+  Version: 1.0.3-5
+  Description: New zlib compatible compressor library
+  Homepage: https://github.com/google/zopfli
+- Package: libzxing-cpp
+  Version: 2.3.0-3
+  Description: An open-source, multi-format 1D/2D barcode image processing library implemented in C++
+  Homepage: https://github.com/zxing-cpp/zxing-cpp
 - Package: lighttpd
   Version: 1.4.81
   Description: Fast webserver with minimal memory footprint
   Homepage: https://www.lighttpd.net
+- Package: lilv
+  Version: 0.24.26-2
+  Description: A C library to make the use of LV2 plugins as simple as possible for applications
+  Homepage: https://drobilla.net/software/lilv.html
 - Package: lilypond
   Version: 2.24.4-2
   Description: A music engraving program
@@ -6431,55 +6451,55 @@
   Description: A preprocessor for mdBook, pre-rendering LaTex equations to HTML at build time
   Homepage: https://github.com/lzanini/mdbook-katex
 - Package: mdbook-linkcheck
-  Version: 0.7.7-1
+  Version: 0.7.7-2
   Description: A backend for mdbook which will check your links for you
   Homepage: https://michael-f-bryan.github.io/mdbook-linkcheck/
 - Package: mdbook-mermaid
-  Version: 0.15.0
+  Version: 0.15.0-1
   Description: A preprocessor for mdbook to add mermaid support
   Homepage: https://github.com/badboy/mdbook-mermaid
 - Package: mdbook-open-on-gh
-  Version: 2.4.3
+  Version: 2.4.3-1
   Description: A preprocessor for mdbook to add a open-on-github link on every page
   Homepage: https://github.com/badboy/mdbook-open-on-gh
 - Package: mdbook-pikchr
-  Version: 0.1.9
+  Version: 0.1.9-1
   Description: A mdbook preprocessor to render pikchr code blocks as images in your book
   Homepage: https://github.com/podsvirov/mdbook-pikchr
 - Package: mdbook-plantuml
-  Version: 0.8.0-2
+  Version: 0.8.0-3
   Description: mdBook preprocessor to render PlantUML code blocks as images in your book
   Homepage: https://github.com/sytsereitsma/mdbook-plantuml
 - Package: mdbook-presentation-preprocessor
-  Version: 0.3.1-1
+  Version: 0.3.1-2
   Description: A preprocessor for utilizing an MDBook as slides for a presentation
   Homepage: https://github.com/FreeMasen/mdbook-presentation-preprocessor
 - Package: mdbook-svgbob
-  Version: 0.2.2
+  Version: 0.2.2-1
   Description: SvgBob mdbook preprocessor which swaps code-blocks with neat SVG
   Homepage: https://github.com/boozook/mdbook-svgbob
 - Package: mdbook-svgbob2
-  Version: 0.3.0
+  Version: 0.3.0-1
   Description: Alternative mdbook preprocessor for svgbob
   Homepage: https://github.com/matthiasbeyer/mdbook-svgbob2
 - Package: mdbook-tera
-  Version: 0.5.1
+  Version: 0.5.1-1
   Description: Tera preprocessor for mdBook
   Homepage: https://github.com/avitex/mdbook-tera
 - Package: mdbook-toc
-  Version: 0.14.2
+  Version: 0.14.2-1
   Description: A preprocessor for mdbook to add inline Table of Contents support
   Homepage: https://github.com/badboy/mdbook-toc
 - Package: mdbtools
-  Version: 1.0.1
+  Version: 1.0.1-1
   Description: A set of programs to help you extract data from Microsoft Access files in various settings
   Homepage: https://github.com/mdbtools/mdbtools
 - Package: mdbtools-static
-  Version: 1.0.1
+  Version: 1.0.1-1
   Description: Static libraries for mdbtools
   Homepage: https://github.com/mdbtools/mdbtools
 - Package: mdns-scan
-  Version: 0.5-2
+  Version: 0.5-3
   Description: A tool for scanning for mDNS/DNS-SD services published on the local network
   Homepage: https://github.com/alteholz/mdns-scan
 - Package: mdp
@@ -10319,7 +10339,7 @@
   Description: Interactive command line tool for HTTP inspection
   Homepage: https://github.com/asciimoo/wuzz
 - Package: wv-tools
-  Version: 1.2.9-5
+  Version: 1.2.9-6
   Description: Command-line tools for libwv
   Homepage: https://wvware.sourceforge.net/
 - Package: x11-repo
@@ -10546,6 +10566,10 @@
   Version: 0.21.0
   Description: A fast static site generator in a single binary with everything built-in.
   Homepage: https://github.com/getzola/zola
+- Package: zopfli
+  Version: 1.0.3-5
+  Description: New zlib compatible compressor tools
+  Homepage: https://github.com/google/zopfli
 - Package: zoxide
   Version: 0.9.8-1
   Description: A faster way to navigate your filesystem

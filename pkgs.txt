@@ -486,8 +486,8 @@
  freecolor  0.9.3-1  Freecolor is a replacement for Linux that displays free memory graphically  http://rkeene.org/oss/freecolor/ 
  freeimage  3.18.0-7  The library project for developers who would like to support popular graphics image formats  https://freeimage.sourceforge.io 
  freeimage-static  3.18.0-7  Static libraries for freeimage  https://freeimage.sourceforge.io 
- freetype  2.14.0  Software font engine capable of producing high-quality output  https://www.freetype.org 
- freetype-static  2.14.0  Static libraries for freetype  https://www.freetype.org 
+ freetype  2.14.1  Software font engine capable of producing high-quality output  https://www.freetype.org 
+ freetype-static  2.14.1  Static libraries for freetype  https://www.freetype.org 
  frei0r-plugins  2.4.0  Minimalistic plugin API for video effects  https://www.dyne.org/software/frei0r/ 
  fribidi  1.0.16-1  Implementation of the Unicode Bidirectional Algorithm  https://github.com/fribidi/fribidi/ 
  fribidi-static  1.0.16-1  Static libraries for fribidi  https://github.com/fribidi/fribidi/ 
@@ -1431,11 +1431,11 @@
  libv4l-static  1.24.1-2  Static libraries for libv4l  https://git.linuxtv.org/v4l-utils.git 
  libvbisam  2.0-3  A replacement for IBM's C-ISAM  https://sourceforge.net/projects/vbisam/ 
  libvbisam-static  2.0-3  Static libraries for libvbisam  https://sourceforge.net/projects/vbisam/ 
- libvidstab  1.1.1-2  video stabilization library  https://github.com/georgmartius/vid.stab 
- libvigra  1.12.2-1  Computer vision library  https://ukoethe.github.io/vigra/ 
- libvips  8.17.1-1  A fast image processing library with low memory needs  https://libvips.github.io/libvips/ 
- libvmaf  3.0.0-1  A perceptual video quality assessment algorithm developed by Netflix  https://github.com/Netflix/vmaf 
- libvmaf-static  3.0.0-1  Static libraries for libvmaf  https://github.com/Netflix/vmaf 
+ libvidstab  1.1.1-3  video stabilization library  https://github.com/georgmartius/vid.stab 
+ libvigra  1.12.2-2  Computer vision library  https://ukoethe.github.io/vigra/ 
+ libvips  8.17.1-2  A fast image processing library with low memory needs  https://libvips.github.io/libvips/ 
+ libvmaf  3.0.0-2  A perceptual video quality assessment algorithm developed by Netflix  https://github.com/Netflix/vmaf 
+ libvmaf-static  3.0.0-2  Static libraries for libvmaf  https://github.com/Netflix/vmaf 
  libvpx  1:1.15.2  VP8 & VP9 Codec SDK  https://www.webmproject.org 
  libvpx-static  1:1.15.2  Static libraries for libvpx  https://www.webmproject.org 
  libvxl  3.5.0-4  A multi-platform collection of C++ software libraries for Computer Vision and Image Understanding  https://vxl.github.io 
@@ -1448,10 +1448,10 @@
  libwebrtc-audio-processing  1.3-3  A library containing the AudioProcessing module from the WebRTC project  https://www.freedesktop.org/software/pulseaudio/webrtc-audio-processing/ 
  libwebsockets  4.4.1-1  Lightweight C websockets library  https://libwebsockets.org 
  libwolfssl  5.8.2-1  A small, fast, portable implementation of TLS/SSL for embedded devices to the cloud  https://www.wolfssl.com/ 
- libwren  0.4.0-3  Small, fast, class-based concurrent scripting language libraries  https://wren.io/ 
- libwslay  1.1.1-1  WebSocket library  https://github.com/tatsuhiro-t/wslay 
- libwv  1.2.9-5  A library which allows access to Microsoft Word files  https://wvware.sourceforge.net/ 
- libwv-static  1.2.9-5  Static libraries for libwv  https://wvware.sourceforge.net/ 
+ libwren  0.4.0-4  Small, fast, class-based concurrent scripting language libraries  https://wren.io/ 
+ libwslay  1.1.1-2  WebSocket library  https://github.com/tatsuhiro-t/wslay 
+ libwv  1.2.9-6  A library which allows access to Microsoft Word files  https://wvware.sourceforge.net/ 
+ libwv-static  1.2.9-6  Static libraries for libwv  https://wvware.sourceforge.net/ 
  libx11  1.8.12-1  X11 client-side library  https://xorg.freedesktop.org/ 
  libx11-static  1.8.12-1  Static libraries for libx11  https://xorg.freedesktop.org/ 
  libx264  1:0.164.3191-1  Library for encoding video streams into the H.264/MPEG-4 AVC format  https://www.videolan.org/developers/x264.html 
@@ -1460,17 +1460,17 @@
  libx265-static  4.1-1  Static libraries for libx265  http://x265.org/ 
  libxapian  1.4.29-1  Xapian search engine library  https://xapian.org 
  libxapian-static  1.4.29-1  Static libraries for libxapian  https://xapian.org 
- libxau  1.0.12-1  X11 authorisation library  https://xorg.freedesktop.org/ 
+ libxau  1.0.12-2  X11 authorisation library  https://xorg.freedesktop.org/ 
  libxcb  1.17.0-1  X11 client-side library  https://xcb.freedesktop.org/ 
  libxcb-static  1.17.0-1  Static libraries for libxcb  https://xcb.freedesktop.org/ 
- libxcfun  2.1.1-1  A library of exchange-correlation functionals with arbitrary-order derivatives  https://github.com/dftlibs/xcfun 
+ libxcfun  2.1.1-2  A library of exchange-correlation functionals with arbitrary-order derivatives  https://github.com/dftlibs/xcfun 
  libxcursor  1.2.3  X cursor management library  https://xorg.freedesktop.org/ 
  libxcursor-static  1.2.3  Static libraries for libxcursor  https://xorg.freedesktop.org/ 
- libxdg-basedir  1.2.3-1  An implementation of the XDG Base Directory specifications  https://github.com/devnev/libxdg-basedir 
- libxdg-basedir-static  1.2.3-1  Static libraries for libxdg-basedir  https://github.com/devnev/libxdg-basedir 
- libxdmcp  1.1.5-1  X11 Display Manager Control Protocol library  https://xorg.freedesktop.org/ 
- libxdmcp-static  1.1.5-1  Static libraries for libxdmcp  https://xorg.freedesktop.org/ 
- libxdrfile  1.1.4-1  Library for reading and writing xtc, edr and trr files  https://userguide.mdanalysis.org/stable/formats/reference/xtc.html 
+ libxdg-basedir  1.2.3-2  An implementation of the XDG Base Directory specifications  https://github.com/devnev/libxdg-basedir 
+ libxdg-basedir-static  1.2.3-2  Static libraries for libxdg-basedir  https://github.com/devnev/libxdg-basedir 
+ libxdmcp  1.1.5-2  X11 Display Manager Control Protocol library  https://xorg.freedesktop.org/ 
+ libxdmcp-static  1.1.5-2  Static libraries for libxdmcp  https://xorg.freedesktop.org/ 
+ libxdrfile  1.1.4-2  Library for reading and writing xtc, edr and trr files  https://userguide.mdanalysis.org/stable/formats/reference/xtc.html 
  libxext  1.3.6-1  X11 miscellaneous extensions library  https://xorg.freedesktop.org/ 
  libxext-static  1.3.6-1  Static libraries for libxext  https://xorg.freedesktop.org/ 
  libxfixes  6.0.2  X11 miscellaneous 'fixes' extension library  https://xorg.freedesktop.org/ 
@@ -1515,7 +1515,12 @@
  libzip  1.11.4-1  Library for reading, creating, and modifying zip archives  https://libzip.org/ 
  libzita-convolver  4.0.3-2  A real-time C++ convolution library  https://kokkinizita.linuxaudio.org/linuxaudio/ 
  libzix  0.6.2-1  lightweight C99 portability and data structure library  https://drobilla.net/category/zix 
+ libzmq  4.3.5-2  Fast messaging system built on sockets. C and C++ bindings. aka 0MQ, ZMQ.  https://zeromq.org/ 
+ libzmq-static  4.3.5-2  Static libraries for libzmq  https://zeromq.org/ 
+ libzopfli  1.0.3-5  New zlib compatible compressor library  https://github.com/google/zopfli 
+ libzxing-cpp  2.3.0-3  An open-source, multi-format 1D/2D barcode image processing library implemented in C++  https://github.com/zxing-cpp/zxing-cpp 
  lighttpd  1.4.81  Fast webserver with minimal memory footprint  https://www.lighttpd.net 
+ lilv  0.24.26-2  A C library to make the use of LV2 plugins as simple as possible for applications  https://drobilla.net/software/lilv.html 
  lilypond  2.24.4-2  A music engraving program  https://lilypond.org/ 
  links  2.29-2  Links is a text and graphics mode WWW browser  http://links.twibright.com 
  lipl  0.1.3-1  A command line tool that is similar to watch but has extended functions for commands outputing a number  https://github.com/yxdunc/lipl 
@@ -1606,19 +1611,19 @@
  mdbook-epub  0.4.48-1  An EPUB renderer for mdbook  https://github.com/Michael-F-Bryan/mdbook-epub 
  mdbook-graphviz  0.2.1-2  mdbook preprocessor to add graphviz support  https://github.com/dylanowen/mdbook-graphviz 
  mdbook-katex  0.9.4-1  A preprocessor for mdBook, pre-rendering LaTex equations to HTML at build time  https://github.com/lzanini/mdbook-katex 
- mdbook-linkcheck  0.7.7-1  A backend for mdbook which will check your links for you  https://michael-f-bryan.github.io/mdbook-linkcheck/ 
- mdbook-mermaid  0.15.0  A preprocessor for mdbook to add mermaid support  https://github.com/badboy/mdbook-mermaid 
- mdbook-open-on-gh  2.4.3  A preprocessor for mdbook to add a open-on-github link on every page  https://github.com/badboy/mdbook-open-on-gh 
- mdbook-pikchr  0.1.9  A mdbook preprocessor to render pikchr code blocks as images in your book  https://github.com/podsvirov/mdbook-pikchr 
- mdbook-plantuml  0.8.0-2  mdBook preprocessor to render PlantUML code blocks as images in your book  https://github.com/sytsereitsma/mdbook-plantuml 
- mdbook-presentation-preprocessor  0.3.1-1  A preprocessor for utilizing an MDBook as slides for a presentation  https://github.com/FreeMasen/mdbook-presentation-preprocessor 
- mdbook-svgbob  0.2.2  SvgBob mdbook preprocessor which swaps code-blocks with neat SVG  https://github.com/boozook/mdbook-svgbob 
- mdbook-svgbob2  0.3.0  Alternative mdbook preprocessor for svgbob  https://github.com/matthiasbeyer/mdbook-svgbob2 
- mdbook-tera  0.5.1  Tera preprocessor for mdBook  https://github.com/avitex/mdbook-tera 
- mdbook-toc  0.14.2  A preprocessor for mdbook to add inline Table of Contents support  https://github.com/badboy/mdbook-toc 
- mdbtools  1.0.1  A set of programs to help you extract data from Microsoft Access files in various settings  https://github.com/mdbtools/mdbtools 
- mdbtools-static  1.0.1  Static libraries for mdbtools  https://github.com/mdbtools/mdbtools 
- mdns-scan  0.5-2  A tool for scanning for mDNS/DNS-SD services published on the local network  https://github.com/alteholz/mdns-scan 
+ mdbook-linkcheck  0.7.7-2  A backend for mdbook which will check your links for you  https://michael-f-bryan.github.io/mdbook-linkcheck/ 
+ mdbook-mermaid  0.15.0-1  A preprocessor for mdbook to add mermaid support  https://github.com/badboy/mdbook-mermaid 
+ mdbook-open-on-gh  2.4.3-1  A preprocessor for mdbook to add a open-on-github link on every page  https://github.com/badboy/mdbook-open-on-gh 
+ mdbook-pikchr  0.1.9-1  A mdbook preprocessor to render pikchr code blocks as images in your book  https://github.com/podsvirov/mdbook-pikchr 
+ mdbook-plantuml  0.8.0-3  mdBook preprocessor to render PlantUML code blocks as images in your book  https://github.com/sytsereitsma/mdbook-plantuml 
+ mdbook-presentation-preprocessor  0.3.1-2  A preprocessor for utilizing an MDBook as slides for a presentation  https://github.com/FreeMasen/mdbook-presentation-preprocessor 
+ mdbook-svgbob  0.2.2-1  SvgBob mdbook preprocessor which swaps code-blocks with neat SVG  https://github.com/boozook/mdbook-svgbob 
+ mdbook-svgbob2  0.3.0-1  Alternative mdbook preprocessor for svgbob  https://github.com/matthiasbeyer/mdbook-svgbob2 
+ mdbook-tera  0.5.1-1  Tera preprocessor for mdBook  https://github.com/avitex/mdbook-tera 
+ mdbook-toc  0.14.2-1  A preprocessor for mdbook to add inline Table of Contents support  https://github.com/badboy/mdbook-toc 
+ mdbtools  1.0.1-1  A set of programs to help you extract data from Microsoft Access files in various settings  https://github.com/mdbtools/mdbtools 
+ mdbtools-static  1.0.1-1  Static libraries for mdbtools  https://github.com/mdbtools/mdbtools 
+ mdns-scan  0.5-3  A tool for scanning for mDNS/DNS-SD services published on the local network  https://github.com/alteholz/mdns-scan 
  mdp  1.0.18  Command-line based markdown presentation tool  https://github.com/visit1985/mdp 
  media-types  13.0.0  List of standard media types and their usual file extension  https://pagure.io/mailcap 
  mediainfo  25.07  Command-line utility for reading information from media files  https://mediaarea.net/en/MediaInfo 
@@ -2578,7 +2583,7 @@
  wrk  4.2.0  Modern HTTP benchmarking tool  https://github.com/wg/wrk 
  wtfutil  0.46.1  The personal information dashboard for your terminal  https://wtfutil.com/ 
  wuzz  0.5.0-4  Interactive command line tool for HTTP inspection  https://github.com/asciimoo/wuzz 
- wv-tools  1.2.9-5  Command-line tools for libwv  https://wvware.sourceforge.net/ 
+ wv-tools  1.2.9-6  Command-line tools for libwv  https://wvware.sourceforge.net/ 
  x11-repo  8.4-1  Package repository containing X11 programs and libraries  https://github.com/termux/x11-packages 
  x264  1:0.164.3191-1  Commandline video encoder for the H.264/MPEG-4 AVC format  https://www.videolan.org/developers/x264.html 
  x265  4.1-1  H.265/HEVC video stream encoder tool  http://x265.org/ 
@@ -2635,6 +2640,7 @@
  zls  0.15.0  Zig language server  https://github.com/zigtools/zls 
  znc  1.10.1  An advanced IRC bouncer  https://znc.in/ 
  zola  0.21.0  A fast static site generator in a single binary with everything built-in.  https://github.com/getzola/zola 
+ zopfli  1.0.3-5  New zlib compatible compressor tools  https://github.com/google/zopfli 
  zoxide  0.9.8-1  A faster way to navigate your filesystem  https://github.com/ajeetdsouza/zoxide 
  zpaq  7.15  Programmable file compressor, library and utilities. Based on the PAQ compression algorithm  http://mattmahoney.net/dc/zpaq.html 
  zrok  1.1.3-1  An open source sharing solution built on OpenZiti.  https://zrok.io/ 
