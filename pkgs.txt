@@ -825,7 +825,7 @@
  leptonica  1.85.0-1  Library for image processing and image analysis  http://www.leptonica.com/ 
  leptonica-static  1.85.0-1  Static libraries for leptonica  http://www.leptonica.com/ 
  less  679-2  Terminal pager program used to view the contents of a text file one screen at a time  https://www.greenwoodsoftware.com/less/ 
- lesspipe  2.19  An input filter for the pager less  http://www-zeuthen.desy.de/~friebel/unix/lesspipe.html 
+ lesspipe  2.19-1  An input filter for the pager less  http://www-zeuthen.desy.de/~friebel/unix/lesspipe.html 
  leveldb  1.23-4  Fast key-value storage library  https://github.com/google/leveldb 
  lexbor  2.5.0  Fast embeddable web browser engine written in C with no dependencies  https://lexbor.com 
  lexter  1.0.3-5  A real-time word puzzle for text terminals  https://www.kyne.au/~mark/software/lexter.php 
@@ -2133,42 +2133,42 @@
  redis  1:7.2.5-1  In-memory data structure store used as a database, cache and message broker  https://redis.io/ 
  remind  1:06.01.00  Sophisticated calendar and alarm program  https://dianne.skoll.ca/projects/remind/ 
  renameutils  0.12.0-3  A set of programs designed to make renaming of files faster and less cumbersome  https://www.nongnu.org/renameutils/ 
- reptyr  0.10.0  Tool for reparenting a running program to a new terminal  https://github.com/nelhage/reptyr 
+ reptyr  0.10.0-1  Tool for reparenting a running program to a new terminal  https://github.com/nelhage/reptyr 
  resolv-conf  1.3  Resolver configuration file  https://man7.org/linux/man-pages/man5/resolv.conf.5.html 
- restic  0.18.0  Fast, secure, efficient backup program  https://restic.net/ 
- restic-server  0.14.0  Restic's REST backend API server  https://restic.net/ 
- restish  0.21.0  A CLI for interacting with REST-ish HTTP APIs  https://github.com/danielgtaylor/restish 
- rgbds  0.9.4  Rednex Game Boy Development System - An assembly toolchain for the Nintendo Game Boy & Game Boy Color  https://rgbds.gbdev.io 
- rhash  1.4.6  Console utility for calculation and verification of magnet links and a wide range of hash sums  https://github.com/rhash/RHash 
- rhash-static  1.4.6  Static libraries for rhash  https://github.com/rhash/RHash 
- rig  1.11-1  A program that generates fake identities  http://rig.sourceforge.net/ 
- rinetd  1:0.73-1  A user-mode TCP port redirection server  https://github.com/samhocevar/rinetd 
+ restic  0.18.0-1  Fast, secure, efficient backup program  https://restic.net/ 
+ restic-server  0.14.0-1  Restic's REST backend API server  https://restic.net/ 
+ restish  0.21.0-1  A CLI for interacting with REST-ish HTTP APIs  https://github.com/danielgtaylor/restish 
+ rgbds  0.9.4-1  Rednex Game Boy Development System - An assembly toolchain for the Nintendo Game Boy & Game Boy Color  https://rgbds.gbdev.io 
+ rhash  1.4.6-1  Console utility for calculation and verification of magnet links and a wide range of hash sums  https://github.com/rhash/RHash 
+ rhash-static  1.4.6-1  Static libraries for rhash  https://github.com/rhash/RHash 
+ rig  1.11-2  A program that generates fake identities  https://rig.sourceforge.net/ 
+ rinetd  1:0.73-2  A user-mode TCP port redirection server  https://github.com/samhocevar/rinetd 
  rip2  0.9.5  A safe and ergonomic alternative to rm  https://github.com/MilesCranmer/rip2 
  ripgrep  14.1.1-2  Search tool like grep and The Silver Searcher  https://github.com/BurntSushi/ripgrep 
- ripgrep-all  1.0.0-alpha.5-3  Search tool able to locate in PDFs, E-Books, zip, tar.gz, etc  https://github.com/phiresky/ripgrep-all 
- ripsecrets  0.1.11  A command-line tool to prevent committing secret keys into your source code  https://github.com/sirwart/ripsecrets 
- rirc  0.1.7-1  A terminal IRC client in C  https://github.com/rcr/rirc 
- rizin  0.8.1  UNIX-like reverse engineering framework and command-line toolset.  https://rizin.re 
+ ripgrep-all  1.0.0-alpha.5-4  Search tool able to locate in PDFs, E-Books, zip, tar.gz, etc  https://github.com/phiresky/ripgrep-all 
+ ripsecrets  0.1.11-1  A command-line tool to prevent committing secret keys into your source code  https://github.com/sirwart/ripsecrets 
+ rirc  0.1.7-2  A terminal IRC client in C  https://github.com/rcr/rirc 
+ rizin  0.8.1-1  UNIX-like reverse engineering framework and command-line toolset.  https://rizin.re 
  rlwrap  0.47.1  Wrapper using readline to enable editing of keyboard input for commands  https://github.com/hanslub42/rlwrap 
- rnr  0.5.0  Batch rename files and directories using regular expression (rust)  https://github.com/ismaelgv/rnr 
+ rnr  0.5.0-1  Batch rename files and directories using regular expression (rust)  https://github.com/ismaelgv/rnr 
  robin-map  1.4.0  C++ implementation of a fast hash map and hash set using robin hood hashing  https://github.com/Tessil/robin-map/ 
- robotfindskitten  2022.05.21  A very fun adventure game for robots and humans  https://github.com/noncombatant/robotfindskitten 
+ robotfindskitten  2022.05.21-1  A very fun adventure game for robots and humans  https://github.com/noncombatant/robotfindskitten 
  root-repo  2.4-2  Package repository containing programs for rooted devices  https://github.com/termux/termux-root-packages 
  roqet  0.9.33-4  Standalone command line RDF query utility program  https://librdf.org/rasqal/ 
- rp-pppoe  4.0  A PPP-over-Ethernet redirector for pppd  https://dianne.skoll.ca/projects/rp-pppoe/ 
- rpm  4.18.1  RPM Package Manager  https://rpm.org/ 
- rq  1.0.4  A tool for doing record analysis and transformation  https://github.com/dflemstr/rq 
- rsgain  3.6-1  A simple audio normalizazion utility  https://github.com/complexlogic/rsgain 
+ rp-pppoe  4.0-1  A PPP-over-Ethernet redirector for pppd  https://dianne.skoll.ca/projects/rp-pppoe/ 
+ rpm  4.18.1-1  RPM Package Manager  https://rpm.org/ 
+ rq  1.0.4-1  A tool for doing record analysis and transformation  https://github.com/dflemstr/rq 
+ rsgain  3.6-2  A simple audio normalizazion utility  https://github.com/complexlogic/rsgain 
  rsnapshot  1.5.1  A remote filesystem snapshot utility  https://www.rsnapshot.org/ 
  rsync  3.4.1-1  Fast incremental file transfer utility  https://rsync.samba.org/ 
- rtmpdump  2.6  Small dumper for media content streamed over the RTMP protocol  https://rtmpdump.mplayerhq.hu/ 
- rtmpdump-static  2.6  Static libraries for rtmpdump  https://rtmpdump.mplayerhq.hu/ 
+ rtmpdump  2.6-1  Small dumper for media content streamed over the RTMP protocol  https://rtmpdump.mplayerhq.hu/ 
+ rtmpdump-static  2.6-1  Static libraries for rtmpdump  https://rtmpdump.mplayerhq.hu/ 
  rtorrent  0.15.6  Ncurses BitTorrent client based on libTorrent  https://rakshasa.github.io/rtorrent/ 
- rubberband  4.0.0  An audio time-stretching and pitch-shifting library and utility program  https://breakfastquay.com/rubberband/ 
- rubberband-ladspa  4.0.0  LADSPA plugin for Rubber Band  https://breakfastquay.com/rubberband/ 
- rubberband-lv2  4.0.0  LV2 plugin for Rubber Band  https://breakfastquay.com/rubberband/ 
- rubberband-static  4.0.0  Static libraries for rubberband  https://breakfastquay.com/rubberband/ 
- rubberband-vamp  4.0.0  Vamp plugin for Rubber Band  https://breakfastquay.com/rubberband/ 
+ rubberband  4.0.0-1  An audio time-stretching and pitch-shifting library and utility program  https://breakfastquay.com/rubberband/ 
+ rubberband-ladspa  4.0.0-1  LADSPA plugin for Rubber Band  https://breakfastquay.com/rubberband/ 
+ rubberband-lv2  4.0.0-1  LV2 plugin for Rubber Band  https://breakfastquay.com/rubberband/ 
+ rubberband-static  4.0.0-1  Static libraries for rubberband  https://breakfastquay.com/rubberband/ 
+ rubberband-vamp  4.0.0-1  Vamp plugin for Rubber Band  https://breakfastquay.com/rubberband/ 
  rubiks-cube  1.2  A rubik's cube that runs in your terminal  https://github.com/been-jamming/rubiks_cube 
  ruby  3.4.1-2  Dynamic programming language with a focus on simplicity and productivity  https://www.ruby-lang.org/ 
  ruby-ri  3.4.1-2  Ruby documentation index  https://www.ruby-lang.org/ 

@@ -4963,7 +4963,7 @@
   },
   {
     "Package": "lesspipe",
-    "Version": "2.19",
+    "Version": "2.19-1",
     "Description": "An input filter for the pager less",
     "Homepage": "http://www-zeuthen.desy.de/~friebel/unix/lesspipe.html"
   },
@@ -12811,7 +12811,7 @@
   },
   {
     "Package": "reptyr",
-    "Version": "0.10.0",
+    "Version": "0.10.0-1",
     "Description": "Tool for reparenting a running program to a new terminal",
     "Homepage": "https://github.com/nelhage/reptyr"
   },
@@ -12823,49 +12823,49 @@
   },
   {
     "Package": "restic",
-    "Version": "0.18.0",
+    "Version": "0.18.0-1",
     "Description": "Fast, secure, efficient backup program",
     "Homepage": "https://restic.net/"
   },
   {
     "Package": "restic-server",
-    "Version": "0.14.0",
+    "Version": "0.14.0-1",
     "Description": "Restics REST backend API server",
     "Homepage": "https://restic.net/"
   },
   {
     "Package": "restish",
-    "Version": "0.21.0",
+    "Version": "0.21.0-1",
     "Description": "A CLI for interacting with REST-ish HTTP APIs",
     "Homepage": "https://github.com/danielgtaylor/restish"
   },
   {
     "Package": "rgbds",
-    "Version": "0.9.4",
+    "Version": "0.9.4-1",
     "Description": "Rednex Game Boy Development System - An assembly toolchain for the Nintendo Game Boy & Game Boy Color",
     "Homepage": "https://rgbds.gbdev.io"
   },
   {
     "Package": "rhash",
-    "Version": "1.4.6",
+    "Version": "1.4.6-1",
     "Description": "Console utility for calculation and verification of magnet links and a wide range of hash sums",
     "Homepage": "https://github.com/rhash/RHash"
   },
   {
     "Package": "rhash-static",
-    "Version": "1.4.6",
+    "Version": "1.4.6-1",
     "Description": "Static libraries for rhash",
     "Homepage": "https://github.com/rhash/RHash"
   },
   {
     "Package": "rig",
-    "Version": "1.11-1",
+    "Version": "1.11-2",
     "Description": "A program that generates fake identities",
-    "Homepage": "http://rig.sourceforge.net/"
+    "Homepage": "https://rig.sourceforge.net/"
   },
   {
     "Package": "rinetd",
-    "Version": "1:0.73-1",
+    "Version": "1:0.73-2",
     "Description": "A user-mode TCP port redirection server",
     "Homepage": "https://github.com/samhocevar/rinetd"
   },
@@ -12883,25 +12883,25 @@
   },
   {
     "Package": "ripgrep-all",
-    "Version": "1.0.0-alpha.5-3",
+    "Version": "1.0.0-alpha.5-4",
     "Description": "Search tool able to locate in PDFs, E-Books, zip, tar.gz, etc",
     "Homepage": "https://github.com/phiresky/ripgrep-all"
   },
   {
     "Package": "ripsecrets",
-    "Version": "0.1.11",
+    "Version": "0.1.11-1",
     "Description": "A command-line tool to prevent committing secret keys into your source code",
     "Homepage": "https://github.com/sirwart/ripsecrets"
   },
   {
     "Package": "rirc",
-    "Version": "0.1.7-1",
+    "Version": "0.1.7-2",
     "Description": "A terminal IRC client in C",
     "Homepage": "https://github.com/rcr/rirc"
   },
   {
     "Package": "rizin",
-    "Version": "0.8.1",
+    "Version": "0.8.1-1",
     "Description": "UNIX-like reverse engineering framework and command-line toolset.",
     "Homepage": "https://rizin.re"
   },
@@ -12913,7 +12913,7 @@
   },
   {
     "Package": "rnr",
-    "Version": "0.5.0",
+    "Version": "0.5.0-1",
     "Description": "Batch rename files and directories using regular expression (rust)",
     "Homepage": "https://github.com/ismaelgv/rnr"
   },
@@ -12925,7 +12925,7 @@
   },
   {
     "Package": "robotfindskitten",
-    "Version": "2022.05.21",
+    "Version": "2022.05.21-1",
     "Description": "A very fun adventure game for robots and humans",
     "Homepage": "https://github.com/noncombatant/robotfindskitten"
   },
@@ -12943,25 +12943,25 @@
   },
   {
     "Package": "rp-pppoe",
-    "Version": "4.0",
+    "Version": "4.0-1",
     "Description": "A PPP-over-Ethernet redirector for pppd",
     "Homepage": "https://dianne.skoll.ca/projects/rp-pppoe/"
   },
   {
     "Package": "rpm",
-    "Version": "4.18.1",
+    "Version": "4.18.1-1",
     "Description": "RPM Package Manager",
     "Homepage": "https://rpm.org/"
   },
   {
     "Package": "rq",
-    "Version": "1.0.4",
+    "Version": "1.0.4-1",
     "Description": "A tool for doing record analysis and transformation",
     "Homepage": "https://github.com/dflemstr/rq"
   },
   {
     "Package": "rsgain",
-    "Version": "3.6-1",
+    "Version": "3.6-2",
     "Description": "A simple audio normalizazion utility",
     "Homepage": "https://github.com/complexlogic/rsgain"
   },
@@ -12979,13 +12979,13 @@
   },
   {
     "Package": "rtmpdump",
-    "Version": "2.6",
+    "Version": "2.6-1",
     "Description": "Small dumper for media content streamed over the RTMP protocol",
     "Homepage": "https://rtmpdump.mplayerhq.hu/"
   },
   {
     "Package": "rtmpdump-static",
-    "Version": "2.6",
+    "Version": "2.6-1",
     "Description": "Static libraries for rtmpdump",
     "Homepage": "https://rtmpdump.mplayerhq.hu/"
   },
@@ -12997,31 +12997,31 @@
   },
   {
     "Package": "rubberband",
-    "Version": "4.0.0",
+    "Version": "4.0.0-1",
     "Description": "An audio time-stretching and pitch-shifting library and utility program",
     "Homepage": "https://breakfastquay.com/rubberband/"
   },
   {
     "Package": "rubberband-ladspa",
-    "Version": "4.0.0",
+    "Version": "4.0.0-1",
     "Description": "LADSPA plugin for Rubber Band",
     "Homepage": "https://breakfastquay.com/rubberband/"
   },
   {
     "Package": "rubberband-lv2",
-    "Version": "4.0.0",
+    "Version": "4.0.0-1",
     "Description": "LV2 plugin for Rubber Band",
     "Homepage": "https://breakfastquay.com/rubberband/"
   },
   {
     "Package": "rubberband-static",
-    "Version": "4.0.0",
+    "Version": "4.0.0-1",
     "Description": "Static libraries for rubberband",
     "Homepage": "https://breakfastquay.com/rubberband/"
   },
   {
     "Package": "rubberband-vamp",
-    "Version": "4.0.0",
+    "Version": "4.0.0-1",
     "Description": "Vamp plugin for Rubber Band",
     "Homepage": "https://breakfastquay.com/rubberband/"
   },
