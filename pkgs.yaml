@@ -1143,7 +1143,7 @@
   Description: A set of utilities for working with Cue Sheet (cue) and Table of Contents (toc) files
   Homepage: https://github.com/svend/cuetools
 - Package: cups
-  Version: 2.4.12-1
+  Version: 2.4.14
   Description: Common UNIX Printing System
   Homepage: https://www.cups.org/
 - Package: cups-pdf
@@ -1151,7 +1151,7 @@
   Description: CUPS PDF backend
   Homepage: https://www.cups-pdf.de/
 - Package: cups-static
-  Version: 2.4.12-1
+  Version: 2.4.14
   Description: Static libraries for cups
   Homepage: https://www.cups.org/
 - Package: curl
@@ -3039,7 +3039,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.23.8
+  Version: 0.23.12
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -7351,11 +7351,11 @@
   Description: A color management framework for visual effects and animation
   Homepage: https://opencolorio.org
 - Package: openethereum
-  Version: 3.3.5-4
+  Version: 3.3.5-5
   Description: Lightweight Ethereum Client
   Homepage: https://openethereum.github.io
 - Package: openethereum-utils
-  Version: 3.3.5-4
+  Version: 3.3.5-5
   Description: Additional utilities for OpenEthereum (like evm, ethstore, ethkey)
   Homepage: https://openethereum.github.io
 - Package: openexr
@@ -7363,7 +7363,7 @@
   Description: Provides the specification and reference implementation of the EXR file format
   Homepage: https://www.openexr.com/
 - Package: openfoam
-  Version: 2412-3
+  Version: 2412-4
   Description: OpenFOAM is a CFD software written in C++
   Homepage: https://www.openfoam.com
 - Package: opengl
@@ -7371,7 +7371,7 @@
   Description: A metapackage for OpenGL implementation
   Homepage: https://github.com/termux/termux-packages
 - Package: openh264
-  Version: 2.6.0
+  Version: 2.6.0-1
   Description: Codec library supporting H.264 encoding and decoding
   Homepage: https://www.openh264.org/
 - Package: openjdk-17
@@ -7407,11 +7407,11 @@
   Description: Command-line tools using the JPEG 2000 library
   Homepage: https://www.openjpeg.org/
 - Package: openldap
-  Version: 2.6.10
+  Version: 2.6.10-1
   Description: OpenLDAP server
   Homepage: https://openldap.org
 - Package: openldap-static
-  Version: 2.6.10
+  Version: 2.6.10-1
   Description: Static libraries for openldap
   Homepage: https://openldap.org
 - Package: openlist

@@ -296,9 +296,9 @@
 | **ctags** | 2:6.2.0-1 | Universal ctags: Source code index builder | https://ctags.io/ |
 | **ctypes-sh** | 1.2-2 | A foreign function interface for bash | https://github.com/taviso/ctypes.sh |
 | **cuetools** | 1.4.1-1 | A set of utilities for working with Cue Sheet (cue) and Table of Contents (toc) files | https://github.com/svend/cuetools |
-| **cups** | 2.4.12-1 | Common UNIX Printing System | https://www.cups.org/ |
+| **cups** | 2.4.14 | Common UNIX Printing System | https://www.cups.org/ |
 | **cups-pdf** | 3.0.1-1 | CUPS PDF backend | https://www.cups-pdf.de/ |
-| **cups-static** | 2.4.12-1 | Static libraries for cups | https://www.cups.org/ |
+| **cups-static** | 2.4.14 | Static libraries for cups | https://www.cups.org/ |
 | **curl** | 8.16.0 | Command line tool for transferring data with URL syntax | https://curl.se/ |
 | **curlie** | 1.8.2 | The power of curl, the ease of use of httpie | https://curlie.io/ |
 | **curseofwar** | 1.3.0-5 | Fast-paced action strategy game focusing on high-level strategic planning | http://a-nikolaev.github.io/curseofwar/ |
@@ -770,7 +770,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4-1 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-2 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.23.8 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.23.12 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **jadx** | 1.5.3 | Dex to Java decompiler | https://github.com/skylot/jadx |
 | **jadx-x** | 1.5.3 | Dex to Java decompiler GUI | https://github.com/skylot/jadx |
 | **janet** | 1.39.1 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
@@ -1848,12 +1848,12 @@
 | **opencl-headers** | 2025.07.22 | Khronos OpenCL-Headers | https://github.com/KhronosGroup/OpenCL-Headers |
 | **opencl-vendor-driver** | 0.3 | OpenCL driver from system vendor | https://termux.dev |
 | **opencolorio** | 2.4.2-1 | A color management framework for visual effects and animation | https://opencolorio.org |
-| **openethereum** | 3.3.5-4 | Lightweight Ethereum Client | https://openethereum.github.io |
-| **openethereum-utils** | 3.3.5-4 | Additional utilities for OpenEthereum (like evm, ethstore, ethkey) | https://openethereum.github.io |
+| **openethereum** | 3.3.5-5 | Lightweight Ethereum Client | https://openethereum.github.io |
+| **openethereum-utils** | 3.3.5-5 | Additional utilities for OpenEthereum (like evm, ethstore, ethkey) | https://openethereum.github.io |
 | **openexr** | 3.2.4-1 | Provides the specification and reference implementation of the EXR file format | https://www.openexr.com/ |
-| **openfoam** | 2412-3 | OpenFOAM is a CFD software written in C++ | https://www.openfoam.com |
+| **openfoam** | 2412-4 | OpenFOAM is a CFD software written in C++ | https://www.openfoam.com |
 | **opengl** | 4.5 | A metapackage for OpenGL implementation | https://github.com/termux/termux-packages |
-| **openh264** | 2.6.0 | Codec library supporting H.264 encoding and decoding | https://www.openh264.org/ |
+| **openh264** | 2.6.0-1 | Codec library supporting H.264 encoding and decoding | https://www.openh264.org/ |
 | **openjdk-17** | 17.0.16-2 | Java development kit and runtime | https://openjdk.java.net |
 | **openjdk-17-source** | 17.0.16-2 | Source files for openjdk-17 | https://openjdk.java.net |
 | **openjdk-17-x** | 17.0.16-2 | Portion of openjdk-17 requiring X11 functionality | https://openjdk.java.net |
@@ -1862,8 +1862,8 @@
 | **openjdk-21-x** | 21.0.8-2 | Portion of openjdk-21 requiring X11 functionality | https://openjdk.java.net |
 | **openjpeg** | 2.5.3-1 | JPEG 2000 image compression library | https://www.openjpeg.org/ |
 | **openjpeg-tools** | 2.5.3-1 | Command-line tools using the JPEG 2000 library | https://www.openjpeg.org/ |
-| **openldap** | 2.6.10 | OpenLDAP server | https://openldap.org |
-| **openldap-static** | 2.6.10 | Static libraries for openldap | https://openldap.org |
+| **openldap** | 2.6.10-1 | OpenLDAP server | https://openldap.org |
+| **openldap-static** | 2.6.10-1 | Static libraries for openldap | https://openldap.org |
 | **openlist** | 4.1.2-1 | A file list program that supports multiple storage | https://oplist.org/ |
 | **openmpi** | 4.1.5-1 | Open source Message Passing Interface implementation | https://www.open-mpi.org |
 | **openmpi-static** | 4.1.5-1 | Static libraries for openmpi | https://www.open-mpi.org |

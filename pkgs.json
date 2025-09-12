@@ -1717,7 +1717,7 @@
   },
   {
     "Package": "cups",
-    "Version": "2.4.12-1",
+    "Version": "2.4.14",
     "Description": "Common UNIX Printing System",
     "Homepage": "https://www.cups.org/"
   },
@@ -1729,7 +1729,7 @@
   },
   {
     "Package": "cups-static",
-    "Version": "2.4.12-1",
+    "Version": "2.4.14",
     "Description": "Static libraries for cups",
     "Homepage": "https://www.cups.org/"
   },
@@ -4561,7 +4561,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.23.8",
+    "Version": "0.23.12",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -11029,13 +11029,13 @@
   },
   {
     "Package": "openethereum",
-    "Version": "3.3.5-4",
+    "Version": "3.3.5-5",
     "Description": "Lightweight Ethereum Client",
     "Homepage": "https://openethereum.github.io"
   },
   {
     "Package": "openethereum-utils",
-    "Version": "3.3.5-4",
+    "Version": "3.3.5-5",
     "Description": "Additional utilities for OpenEthereum (like evm, ethstore, ethkey)",
     "Homepage": "https://openethereum.github.io"
   },
@@ -11047,7 +11047,7 @@
   },
   {
     "Package": "openfoam",
-    "Version": "2412-3",
+    "Version": "2412-4",
     "Description": "OpenFOAM is a CFD software written in C++",
     "Homepage": "https://www.openfoam.com"
   },
@@ -11059,7 +11059,7 @@
   },
   {
     "Package": "openh264",
-    "Version": "2.6.0",
+    "Version": "2.6.0-1",
     "Description": "Codec library supporting H.264 encoding and decoding",
     "Homepage": "https://www.openh264.org/"
   },
@@ -11113,13 +11113,13 @@
   },
   {
     "Package": "openldap",
-    "Version": "2.6.10",
+    "Version": "2.6.10-1",
     "Description": "OpenLDAP server",
     "Homepage": "https://openldap.org"
   },
   {
     "Package": "openldap-static",
-    "Version": "2.6.10",
+    "Version": "2.6.10-1",
     "Description": "Static libraries for openldap",
     "Homepage": "https://openldap.org"
   },
