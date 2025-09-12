@@ -3277,7 +3277,7 @@
   },
   {
     "Package": "ghc",
-    "Version": "9.12.2",
+    "Version": "9.12.2-2",
     "Description": "The Glasgow Haskell Compiler",
     "Homepage": "https://www.haskell.org/ghc/"
   },
@@ -7579,7 +7579,7 @@
   },
   {
     "Package": "libpcreposix",
-    "Version": "8.45-1",
+    "Version": "8.45-2",
     "Description": "Posix-compatible runtime libraries for libpcre",
     "Homepage": "https://www.pcre.org"
   },
@@ -10861,55 +10861,55 @@
   },
   {
     "Package": "nzbget",
-    "Version": "21.1-7",
+    "Version": "21.1-8",
     "Description": "The most efficient usenet downloader",
     "Homepage": "https://nzbget.net/"
   },
   {
     "Package": "oathtool",
-    "Version": "2.6.12-1",
+    "Version": "2.6.12-2",
     "Description": "One-time password components",
     "Homepage": "http://www.nongnu.org/oath-toolkit/"
   },
   {
     "Package": "oathtool-static",
-    "Version": "2.6.12-1",
+    "Version": "2.6.12-2",
     "Description": "Static libraries for oathtool",
     "Homepage": "http://www.nongnu.org/oath-toolkit/"
   },
   {
     "Package": "ocl-icd",
-    "Version": "2.3.3-1",
+    "Version": "2.3.3-2",
     "Description": "OpenCL ICD Loader",
     "Homepage": "https://github.com/OCL-dev/ocl-icd"
   },
   {
     "Package": "ocrad",
-    "Version": "0.29",
+    "Version": "0.29-1",
     "Description": "Optical Character Recognition program based on a feature extraction method",
     "Homepage": "https://www.gnu.org/software/ocrad/ocrad.html"
   },
   {
     "Package": "ocrad-static",
-    "Version": "0.29",
+    "Version": "0.29-1",
     "Description": "Static libraries for ocrad",
     "Homepage": "https://www.gnu.org/software/ocrad/ocrad.html"
   },
   {
     "Package": "octomap",
-    "Version": "1.10.0",
+    "Version": "1.10.0-1",
     "Description": "An efficient probabilistic 3D mapping framework based on octrees",
     "Homepage": "https://github.com/OctoMap/octomap"
   },
   {
     "Package": "octomap-static",
-    "Version": "1.10.0",
+    "Version": "1.10.0-1",
     "Description": "Static libraries for octomap",
     "Homepage": "https://github.com/OctoMap/octomap"
   },
   {
     "Package": "odt2txt",
-    "Version": "0.5-4",
+    "Version": "0.5-5",
     "Description": "Simple converter from OpenDocument Text to plain text",
     "Homepage": "https://github.com/dstosberg/odt2txt"
   },
@@ -10921,37 +10921,37 @@
   },
   {
     "Package": "okc-agents",
-    "Version": "0.1.2",
+    "Version": "0.1.2-1",
     "Description": "OpenKeychain agents for GnuPG and OpenSSH",
     "Homepage": "https://github.com/DDoSolitary/okc-agents"
   },
   {
     "Package": "ol",
-    "Version": "2.6-2",
+    "Version": "2.6-3",
     "Description": "Purely functional dialect of Lisp",
     "Homepage": "https://yuriy-chumak.github.io/ol/"
   },
   {
     "Package": "oleo",
-    "Version": "1.99.16-9",
+    "Version": "1.99.16-10",
     "Description": "The GNU Spreadsheet",
     "Homepage": "https://www.gnu.org/software/oleo/"
   },
   {
     "Package": "onefetch",
-    "Version": "2.25.0",
+    "Version": "2.25.0-1",
     "Description": "A command-line Git information tool written in Rust",
     "Homepage": "https://onefetch.dev/"
   },
   {
     "Package": "onigmo",
-    "Version": "6.2.0",
+    "Version": "6.2.0-1",
     "Description": "A regular expressions library forked from Oniguruma",
     "Homepage": "https://github.com/k-takata/Onigmo"
   },
   {
     "Package": "onigmo-static",
-    "Version": "6.2.0",
+    "Version": "6.2.0-1",
     "Description": "Static libraries for onigmo",
     "Homepage": "https://github.com/k-takata/Onigmo"
   },
@@ -10969,19 +10969,19 @@
   },
   {
     "Package": "oorexx",
-    "Version": "4.2.0-3",
+    "Version": "4.2.0-4",
     "Description": "Open Object Rexx",
     "Homepage": "https://www.oorexx.org/"
   },
   {
     "Package": "oorexx-static",
-    "Version": "4.2.0-3",
+    "Version": "4.2.0-4",
     "Description": "Static libraries for oorexx",
     "Homepage": "https://www.oorexx.org/"
   },
   {
     "Package": "open-adventure",
-    "Version": "1.20",
+    "Version": "1.20-1",
     "Description": "Forward-port of the original Colossal Cave Adventure from 1976-77",
     "Homepage": "http://www.catb.org/~esr/open-adventure/"
   },
@@ -11023,7 +11023,7 @@
   },
   {
     "Package": "opencolorio",
-    "Version": "2.4.2",
+    "Version": "2.4.2-1",
     "Description": "A color management framework for visual effects and animation",
     "Homepage": "https://opencolorio.org"
   },
@@ -11125,19 +11125,19 @@
   },
   {
     "Package": "openlist",
-    "Version": "4.1.2",
+    "Version": "4.1.2-1",
     "Description": "A file list program that supports multiple storage",
     "Homepage": "https://oplist.org/"
   },
   {
     "Package": "openmpi",
-    "Version": "4.1.5",
+    "Version": "4.1.5-1",
     "Description": "Open source Message Passing Interface implementation",
     "Homepage": "https://www.open-mpi.org"
   },
   {
     "Package": "openmpi-static",
-    "Version": "4.1.5",
+    "Version": "4.1.5-1",
     "Description": "Static libraries for openmpi",
     "Homepage": "https://www.open-mpi.org"
   },
@@ -11149,19 +11149,19 @@
   },
   {
     "Package": "opensc",
-    "Version": "0.26.1",
+    "Version": "0.26.1-1",
     "Description": "Open source smart card tools and middleware",
     "Homepage": "https://github.com/OpenSC/OpenSC"
   },
   {
     "Package": "opensc-static",
-    "Version": "0.26.1",
+    "Version": "0.26.1-1",
     "Description": "Static libraries for opensc",
     "Homepage": "https://github.com/OpenSC/OpenSC"
   },
   {
     "Package": "openscad",
-    "Version": "2021.01-4",
+    "Version": "2021.01-5",
     "Description": "The programmers solid 3D CAD modeller (headless build)",
     "Homepage": "https://openscad.org/"
   },
@@ -11197,7 +11197,7 @@
   },
   {
     "Package": "opentimelineio",
-    "Version": "0.17.0",
+    "Version": "0.17.0-1",
     "Description": "Open Source API and interchange format for editorial timeline information.",
     "Homepage": "http://opentimeline.io/"
   },
@@ -11209,25 +11209,25 @@
   },
   {
     "Package": "optipng",
-    "Version": "7.9.1",
+    "Version": "7.9.1-1",
     "Description": "PNG optimizer that recompresses image files to a smaller size, without losing any information",
     "Homepage": "https://optipng.sourceforge.net/"
   },
   {
     "Package": "opus-tools",
-    "Version": "0.2-3",
+    "Version": "0.2-4",
     "Description": "Utilities to encode and decode .opus files",
     "Homepage": "https://www.opus-codec.org/"
   },
   {
     "Package": "opusfile",
-    "Version": "0.12-3",
+    "Version": "0.12-4",
     "Description": "A high-level API for decoding and seeking within .opus files",
     "Homepage": "https://www.opus-codec.org/"
   },
   {
     "Package": "opusfile-static",
-    "Version": "0.12-3",
+    "Version": "0.12-4",
     "Description": "Static libraries for opusfile",
     "Homepage": "https://www.opus-codec.org/"
   },
@@ -11239,7 +11239,7 @@
   },
   {
     "Package": "osmctools",
-    "Version": "0.9-2",
+    "Version": "0.9-3",
     "Description": "Simple tools for OpenStreetMap processing",
     "Homepage": "https://gitlab.com/osm-c-tools/osmctools"
   },
@@ -11251,19 +11251,19 @@
   },
   {
     "Package": "osslsigncode",
-    "Version": "2.10",
+    "Version": "2.10-1",
     "Description": "OpenSSL based Authenticode signing for PE/MSI/Java CAB files",
     "Homepage": "https://github.com/mtrojnar/osslsigncode"
   },
   {
     "Package": "ossp-uuid",
-    "Version": "1.6.2-3",
+    "Version": "1.6.2-4",
     "Description": "ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122.",
     "Homepage": "http://www.ossp.org/pkg/lib/uuid/"
   },
   {
     "Package": "ossp-uuid-static",
-    "Version": "1.6.2-3",
+    "Version": "1.6.2-4",
     "Description": "Static libraries for ossp-uuid",
     "Homepage": "http://www.ossp.org/pkg/lib/uuid/"
   },
@@ -11299,37 +11299,37 @@
   },
   {
     "Package": "p7zip",
-    "Version": "17.06",
+    "Version": "17.06-1",
     "Description": "Command-line version of the 7zip compressed file archiver",
     "Homepage": "https://github.com/p7zip-project/p7zip"
   },
   {
     "Package": "pacman",
-    "Version": "7.0.0-3",
+    "Version": "7.0.0-4",
     "Description": "A library-based package manager with dependency support",
     "Homepage": "https://archlinux.org/pacman/"
   },
   {
     "Package": "pacman4console",
-    "Version": "1.3-3",
+    "Version": "1.3-4",
     "Description": "A 9 level ncurses pacman game with editor",
     "Homepage": "https://sites.google.com/site/doctormike/pacman.html"
   },
   {
     "Package": "panda3d",
-    "Version": "1.10.15",
+    "Version": "1.10.15-1",
     "Description": "A framework for 3D rendering and game development for Python and C++ programs",
     "Homepage": "https://www.panda3d.org/"
   },
   {
     "Package": "panda3d-samples",
-    "Version": "1.10.15",
+    "Version": "1.10.15-1",
     "Description": "Python sample programs that use Panda3D",
     "Homepage": "https://www.panda3d.org/"
   },
   {
     "Package": "panda3d-static",
-    "Version": "1.10.15",
+    "Version": "1.10.15-1",
     "Description": "Static libraries for panda3d",
     "Homepage": "https://www.panda3d.org/"
   },
@@ -11341,13 +11341,13 @@
   },
   {
     "Package": "paperkey",
-    "Version": "1.6",
+    "Version": "1.6-1",
     "Description": "Archive OpenPGP keys on paper",
     "Homepage": "http://www.jabberwocky.com/software/paperkey/"
   },
   {
     "Package": "par2",
-    "Version": "1.0.0",
+    "Version": "1.0.0-1",
     "Description": "par2cmdline is a PAR 2.0 compatible file verification and repair tool",
     "Homepage": "https://github.com/Parchive/par2cmdline"
   },
@@ -11359,25 +11359,25 @@
   },
   {
     "Package": "pari",
-    "Version": "2.17.2",
+    "Version": "2.17.2-1",
     "Description": "A computer algebra system designed for fast computations in number theory",
     "Homepage": "https://pari.math.u-bordeaux.fr/"
   },
   {
     "Package": "pari-static",
-    "Version": "2.17.2",
+    "Version": "2.17.2-1",
     "Description": "Static libraries for pari",
     "Homepage": "https://pari.math.u-bordeaux.fr/"
   },
   {
     "Package": "parted",
-    "Version": "3.6",
+    "Version": "3.6-1",
     "Description": "Versatile partition editor",
     "Homepage": "https://www.gnu.org/software/parted/"
   },
   {
     "Package": "parted-static",
-    "Version": "3.6",
+    "Version": "3.6-1",
     "Description": "Static libraries for parted",
     "Homepage": "https://www.gnu.org/software/parted/"
   },
@@ -11407,7 +11407,7 @@
   },
   {
     "Package": "passphrase2pgp",
-    "Version": "1.3.0-2",
+    "Version": "1.3.0-3",
     "Description": "Generate EdDSA/cv25519 private key in GnuPG/SSH format reproducibly per hash of user given passphrase",
     "Homepage": "https://github.com/skeeto/passphrase2pgp"
   },
@@ -11419,7 +11419,7 @@
   },
   {
     "Package": "pastel",
-    "Version": "0.10.0",
+    "Version": "0.10.0-1",
     "Description": "A command-line tool to generate, analyze, convert and manipulate colors",
     "Homepage": "https://github.com/sharkdp/pastel"
   },
@@ -11431,7 +11431,7 @@
   },
   {
     "Package": "patchelf",
-    "Version": "0.18.0",
+    "Version": "0.18.0-1",
     "Description": "Utility to modify the dynamic linker and RPATH of ELF executables",
     "Homepage": "https://nixos.org/patchelf.html"
   },
@@ -11449,31 +11449,31 @@
   },
   {
     "Package": "pcal",
-    "Version": "4.11.0",
+    "Version": "4.11.0-1",
     "Description": "A multi-platform program which generates annotated PostScript or HTML calendars in a monthly or yearly format",
     "Homepage": "https://pcal.sourceforge.net/"
   },
   {
     "Package": "pcaudiolib",
-    "Version": "1.3",
+    "Version": "1.3-1",
     "Description": "Portable C Audio Library",
     "Homepage": "https://github.com/espeak-ng/pcaudiolib"
   },
   {
     "Package": "pcaudiolib-static",
-    "Version": "1.3",
+    "Version": "1.3-1",
     "Description": "Static libraries for pcaudiolib",
     "Homepage": "https://github.com/espeak-ng/pcaudiolib"
   },
   {
     "Package": "pcre",
-    "Version": "8.45-1",
+    "Version": "8.45-2",
     "Description": "Library implementing regular expression pattern matching using the same syntax and semantics as Perl 5",
     "Homepage": "https://www.pcre.org"
   },
   {
     "Package": "pcre-static",
-    "Version": "8.45-1",
+    "Version": "8.45-2",
     "Description": "Static libraries for pcre",
     "Homepage": "https://www.pcre.org"
   },
@@ -11497,7 +11497,7 @@
   },
   {
     "Package": "pcregrep",
-    "Version": "8.45-1",
+    "Version": "8.45-2",
     "Description": "A grep with Perl-compatible regular expressions",
     "Homepage": "https://www.pcre.org"
   },
@@ -11515,19 +11515,19 @@
   },
   {
     "Package": "pdf2svg",
-    "Version": "0.2.4",
+    "Version": "0.2.4-1",
     "Description": "A PDF to SVG converter",
     "Homepage": "http://www.cityinthesky.co.uk/opensource/pdf2svg/"
   },
   {
     "Package": "pdfcpu",
-    "Version": "0.11.0",
+    "Version": "0.11.0-1",
     "Description": "A PDF processor written in Go",
     "Homepage": "https://pdfcpu.io"
   },
   {
     "Package": "pdfgrep",
-    "Version": "2.2.0-3",
+    "Version": "2.2.0-4",
     "Description": "Command line utility to search text in PDF files",
     "Homepage": "https://pdfgrep.org/"
   },
@@ -11539,7 +11539,7 @@
   },
   {
     "Package": "peaclock",
-    "Version": "0.4.3-7",
+    "Version": "0.4.3-8",
     "Description": "A responsive and customizable clock, timer, and stopwatch for the terminal.",
     "Homepage": "https://github.com/octobanana/peaclock"
   },
@@ -11563,15 +11563,15 @@
   },
   {
     "Package": "pet",
-    "Version": "1.0.1",
+    "Version": "1.0.1-1",
     "Description": "Simple command-line snippet manager",
     "Homepage": "https://github.com/knqyf263/pet"
   },
   {
     "Package": "pforth",
-    "Version": "1:2.0.1",
+    "Version": "1:2.0.1-1",
     "Description": "Portable Forth in C",
-    "Homepage": "http://www.softsynth.com/pforth/"
+    "Homepage": "https://www.softsynth.com/pforth/"
   },
   {
     "Package": "pgroonga",
@@ -11581,43 +11581,43 @@
   },
   {
     "Package": "photon-rss",
-    "Version": "2023.02.02-2",
+    "Version": "2023.02.02-3",
     "Description": "An RSS/Atom reader with the focus on speed, usability and a bit of unix philosophy",
     "Homepage": "https://git.sr.ht/~ghost08/photon"
   },
   {
     "Package": "php",
-    "Version": "8.4.2-2",
+    "Version": "8.4.2-3",
     "Description": "Server-side, HTML-embedded scripting language",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-apache",
-    "Version": "8.4.2-2",
+    "Version": "8.4.2-3",
     "Description": "Apache 2.0 Handler module for PHP",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-apache-ldap",
-    "Version": "8.4.2-2",
+    "Version": "8.4.2-3",
     "Description": "LDAP module for PHP/Apache",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-apache-opcache",
-    "Version": "8.4.2-2",
+    "Version": "8.4.2-3",
     "Description": "OPcache module for PHP/Apache",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-apache-pgsql",
-    "Version": "8.4.2-2",
+    "Version": "8.4.2-3",
     "Description": "PostgreSQL modules for PHP/Apache",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-apache-sodium",
-    "Version": "8.4.2-2",
+    "Version": "8.4.2-3",
     "Description": "Sodium module for PHP/Apache",
     "Homepage": "https://php.net"
   },
@@ -11629,55 +11629,55 @@
   },
   {
     "Package": "php-fpm",
-    "Version": "8.4.2-2",
+    "Version": "8.4.2-3",
     "Description": "FastCGI Process Manager for PHP",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-gd",
-    "Version": "8.4.2-2",
+    "Version": "8.4.2-3",
     "Description": "gd module for PHP",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-imagick",
-    "Version": "3.8.0",
+    "Version": "3.8.0-1",
     "Description": "The Imagick PHP extension",
     "Homepage": "https://github.com/Imagick/imagick"
   },
   {
     "Package": "php-ldap",
-    "Version": "8.4.2-2",
+    "Version": "8.4.2-3",
     "Description": "LDAP module for PHP",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-pgsql",
-    "Version": "8.4.2-2",
+    "Version": "8.4.2-3",
     "Description": "PostgreSQL modules for PHP",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-psr",
-    "Version": "1.2.0-3",
+    "Version": "1.2.0-4",
     "Description": "PHP extension providing the accepted PSR interfaces",
     "Homepage": "https://github.com/jbboehr/php-psr"
   },
   {
     "Package": "php-redis",
-    "Version": "6.2.0",
+    "Version": "6.2.0-1",
     "Description": "PHP extension for interfacing with Redis",
     "Homepage": "https://github.com/phpredis/phpredis"
   },
   {
     "Package": "php-sodium",
-    "Version": "8.4.2-2",
+    "Version": "8.4.2-3",
     "Description": "Sodium module for PHP",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-zephir-parser",
-    "Version": "1.7.0",
+    "Version": "1.7.0-1",
     "Description": "The Zephir Parser delivered as a C extension for the PHP language",
     "Homepage": "https://github.com/phalcon/php-zephir-parser"
   },
@@ -12799,7 +12799,7 @@
   },
   {
     "Package": "remind",
-    "Version": "1:06.00.02",
+    "Version": "1:06.01.00",
     "Description": "Sophisticated calendar and alarm program",
     "Homepage": "https://dianne.skoll.ca/projects/remind/"
   },

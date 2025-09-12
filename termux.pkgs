@@ -544,7 +544,7 @@
 | **gflags-static** | 2.2.2-11 | Static libraries for gflags | https://github.com/gflags/gflags |
 | **gforth** | 0.7.3-3 | The Forth implementation of the GNU project | https://www.gnu.org/software/gforth/ |
 | **gh** | 2.79.0 | GitHub’s official command line tool | https://cli.github.com/ |
-| **ghc** | 9.12.2 | The Glasgow Haskell Compiler | https://www.haskell.org/ghc/ |
+| **ghc** | 9.12.2-2 | The Glasgow Haskell Compiler | https://www.haskell.org/ghc/ |
 | **ghostscript** | 10.05.1-2 | Interpreter for the PostScript language and for PDF | https://www.ghostscript.com/ |
 | **giflib** | 5.2.2-1 | A library for reading and writing gif images | https://giflib.sourceforge.net/ |
 | **giflib-static** | 5.2.2-1 | Static libraries for giflib | https://giflib.sourceforge.net/ |
@@ -1261,7 +1261,7 @@
 | **libpaper-static** | 2.2.6-1 | Static libraries for libpaper | https://github.com/rrthomas/psutils |
 | **libpcap** | 1.10.5-1 | Library for network traffic capture | https://www.tcpdump.org |
 | **libpcap-static** | 1.10.5-1 | Static libraries for libpcap | https://www.tcpdump.org |
-| **libpcreposix** | 8.45-1 | Posix-compatible runtime libraries for libpcre | https://www.pcre.org |
+| **libpcreposix** | 8.45-2 | Posix-compatible runtime libraries for libpcre | https://www.pcre.org |
 | **libpcsclite** | 2.3.3-2 | Middleware to access a smart card using SCard API (PC/SC). | https://pcsclite.apdu.fr/ |
 | **libpcsclite-static** | 2.3.3-2 | Static libraries for libpcsclite | https://pcsclite.apdu.fr/ |
 | **libphysfs** | 3.2.0-2 | A portable, flexible file i/o abstraction | https://icculus.org/physfs/ |
@@ -1808,34 +1808,34 @@
 | **nudoku** | 6.0.0 | ncurses based sudoku game | http://jubalh.github.io/nudoku/ |
 | **nushell** | 0.107.0-2 | A new type of shell operating on structured data | https://www.nushell.sh |
 | **nyancat** | 1.5.2-1 | Nyancat in your terminal, rendered through ANSI escape sequences. | http://nyancat.dakko.us |
-| **nzbget** | 21.1-7 | The most efficient usenet downloader | https://nzbget.net/ |
-| **oathtool** | 2.6.12-1 | One-time password components | http://www.nongnu.org/oath-toolkit/ |
-| **oathtool-static** | 2.6.12-1 | Static libraries for oathtool | http://www.nongnu.org/oath-toolkit/ |
-| **ocl-icd** | 2.3.3-1 | OpenCL ICD Loader | https://github.com/OCL-dev/ocl-icd |
-| **ocrad** | 0.29 | Optical Character Recognition program based on a feature extraction method | https://www.gnu.org/software/ocrad/ocrad.html |
-| **ocrad-static** | 0.29 | Static libraries for ocrad | https://www.gnu.org/software/ocrad/ocrad.html |
-| **octomap** | 1.10.0 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
-| **octomap-static** | 1.10.0 | Static libraries for octomap | https://github.com/OctoMap/octomap |
-| **odt2txt** | 0.5-4 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
+| **nzbget** | 21.1-8 | The most efficient usenet downloader | https://nzbget.net/ |
+| **oathtool** | 2.6.12-2 | One-time password components | http://www.nongnu.org/oath-toolkit/ |
+| **oathtool-static** | 2.6.12-2 | Static libraries for oathtool | http://www.nongnu.org/oath-toolkit/ |
+| **ocl-icd** | 2.3.3-2 | OpenCL ICD Loader | https://github.com/OCL-dev/ocl-icd |
+| **ocrad** | 0.29-1 | Optical Character Recognition program based on a feature extraction method | https://www.gnu.org/software/ocrad/ocrad.html |
+| **ocrad-static** | 0.29-1 | Static libraries for ocrad | https://www.gnu.org/software/ocrad/ocrad.html |
+| **octomap** | 1.10.0-1 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
+| **octomap-static** | 1.10.0-1 | Static libraries for octomap | https://github.com/OctoMap/octomap |
+| **odt2txt** | 0.5-5 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
 | **oh-my-posh** | 26.23.2 | A prompt theme engine for any shell. | https://ohmyposh.dev |
-| **okc-agents** | 0.1.2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
-| **ol** | 2.6-2 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
-| **oleo** | 1.99.16-9 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
-| **onefetch** | 2.25.0 | A command-line Git information tool written in Rust | https://onefetch.dev/ |
-| **onigmo** | 6.2.0 | A regular expressions library forked from Oniguruma | https://github.com/k-takata/Onigmo |
-| **onigmo-static** | 6.2.0 | Static libraries for onigmo | https://github.com/k-takata/Onigmo |
+| **okc-agents** | 0.1.2-1 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
+| **ol** | 2.6-3 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
+| **oleo** | 1.99.16-10 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
+| **onefetch** | 2.25.0-1 | A command-line Git information tool written in Rust | https://onefetch.dev/ |
+| **onigmo** | 6.2.0-1 | A regular expressions library forked from Oniguruma | https://github.com/k-takata/Onigmo |
+| **onigmo-static** | 6.2.0-1 | Static libraries for onigmo | https://github.com/k-takata/Onigmo |
 | **oniguruma** | 6.9.10-1 | Regular expressions library | https://github.com/kkos/oniguruma |
 | **oniguruma-static** | 6.9.10-1 | Static libraries for oniguruma | https://github.com/kkos/oniguruma |
-| **oorexx** | 4.2.0-3 | Open Object Rexx | https://www.oorexx.org/ |
-| **oorexx-static** | 4.2.0-3 | Static libraries for oorexx | https://www.oorexx.org/ |
-| **open-adventure** | 1.20 | Forward-port of the original Colossal Cave Adventure from 1976-77 | http://www.catb.org/~esr/open-adventure/ |
+| **oorexx** | 4.2.0-4 | Open Object Rexx | https://www.oorexx.org/ |
+| **oorexx-static** | 4.2.0-4 | Static libraries for oorexx | https://www.oorexx.org/ |
+| **open-adventure** | 1.20-1 | Forward-port of the original Colossal Cave Adventure from 1976-77 | http://www.catb.org/~esr/open-adventure/ |
 | **openal-soft** | 1.24.3 | Software implementation of the OpenAL API | https://openal-soft.org/ |
 | **openbabel** | 3.1.1-12 | Open Babel is a chemical toolbox designed to speak the many languages of chemical data | http://openbabel.org/wiki/Main_Page |
 | **opencc-tools** | 1.1.9-1 | Command-line tools for OpenCC | https://github.com/BYVoid/OpenCC |
 | **opencl-clhpp** | 2025.07.22 | Khronos OpenCL C++ Headers | https://github.com/KhronosGroup/OpenCL-CLHPP |
 | **opencl-headers** | 2025.07.22 | Khronos OpenCL-Headers | https://github.com/KhronosGroup/OpenCL-Headers |
 | **opencl-vendor-driver** | 0.3 | OpenCL driver from system vendor | https://termux.dev |
-| **opencolorio** | 2.4.2 | A color management framework for visual effects and animation | https://opencolorio.org |
+| **opencolorio** | 2.4.2-1 | A color management framework for visual effects and animation | https://opencolorio.org |
 | **openethereum** | 3.3.5-4 | Lightweight Ethereum Client | https://openethereum.github.io |
 | **openethereum-utils** | 3.3.5-4 | Additional utilities for OpenEthereum (like evm, ethstore, ethkey) | https://openethereum.github.io |
 | **openexr** | 3.2.4-1 | Provides the specification and reference implementation of the EXR file format | https://www.openexr.com/ |
@@ -1852,99 +1852,99 @@
 | **openjpeg-tools** | 2.5.3-1 | Command-line tools using the JPEG 2000 library | https://www.openjpeg.org/ |
 | **openldap** | 2.6.10 | OpenLDAP server | https://openldap.org |
 | **openldap-static** | 2.6.10 | Static libraries for openldap | https://openldap.org |
-| **openlist** | 4.1.2 | A file list program that supports multiple storage | https://oplist.org/ |
-| **openmpi** | 4.1.5 | Open source Message Passing Interface implementation | https://www.open-mpi.org |
-| **openmpi-static** | 4.1.5 | Static libraries for openmpi | https://www.open-mpi.org |
+| **openlist** | 4.1.2-1 | A file list program that supports multiple storage | https://oplist.org/ |
+| **openmpi** | 4.1.5-1 | Open source Message Passing Interface implementation | https://www.open-mpi.org |
+| **openmpi-static** | 4.1.5-1 | Static libraries for openmpi | https://www.open-mpi.org |
 | **openmpt123** | 0.8.3 | libopenmpt based command-line player for tracker music formats | https://lib.openmpt.org/libopenmpt/ |
-| **opensc** | 0.26.1 | Open source smart card tools and middleware | https://github.com/OpenSC/OpenSC |
-| **opensc-static** | 0.26.1 | Static libraries for opensc | https://github.com/OpenSC/OpenSC |
-| **openscad** | 2021.01-4 | The programmers solid 3D CAD modeller (headless build) | https://openscad.org/ |
+| **opensc** | 0.26.1-1 | Open source smart card tools and middleware | https://github.com/OpenSC/OpenSC |
+| **opensc-static** | 0.26.1-1 | Static libraries for opensc | https://github.com/OpenSC/OpenSC |
+| **openscad** | 2021.01-5 | The programmers solid 3D CAD modeller (headless build) | https://openscad.org/ |
 | **openssh** | 10.0p2-9 | Secure shell for logging into a remote machine | https://www.openssh.com/ |
 | **openssh-sftp-server** | 10.0p2-9 | OpenSSH SFTP server subsystem | https://www.openssh.com/ |
 | **openssl** | 1:3.5.2 | Library implementing the SSL and TLS protocols as well as general purpose cryptography functions | https://www.openssl.org/ |
 | **openssl-static** | 1:3.5.2 | Static libraries for openssl | https://www.openssl.org/ |
 | **openssl-tool** | 1:3.5.2 | The openssl command line cryptographic tool | https://www.openssl.org/ |
-| **opentimelineio** | 0.17.0 | Open Source API and interchange format for editorial timeline information. | http://opentimeline.io/ |
+| **opentimelineio** | 0.17.0-1 | Open Source API and interchange format for editorial timeline information. | http://opentimeline.io/ |
 | **openxr** | 1.1.51 | Open standard that provides a common set of APIs for developing XR applications | https://www.khronos.org/openxr/ |
-| **optipng** | 7.9.1 | PNG optimizer that recompresses image files to a smaller size, without losing any information | https://optipng.sourceforge.net/ |
-| **opus-tools** | 0.2-3 | Utilities to encode and decode .opus files | https://www.opus-codec.org/ |
-| **opusfile** | 0.12-3 | A high-level API for decoding and seeking within .opus files | https://www.opus-codec.org/ |
-| **opusfile-static** | 0.12-3 | Static libraries for opusfile | https://www.opus-codec.org/ |
+| **optipng** | 7.9.1-1 | PNG optimizer that recompresses image files to a smaller size, without losing any information | https://optipng.sourceforge.net/ |
+| **opus-tools** | 0.2-4 | Utilities to encode and decode .opus files | https://www.opus-codec.org/ |
+| **opusfile** | 0.12-4 | A high-level API for decoding and seeking within .opus files | https://www.opus-codec.org/ |
+| **opusfile-static** | 0.12-4 | Static libraries for opusfile | https://www.opus-codec.org/ |
 | **orbiton** | 2.70.0-1 | Small, fast and limited text editor | https://roboticoverlords.org/orbiton/ |
-| **osmctools** | 0.9-2 | Simple tools for OpenStreetMap processing | https://gitlab.com/osm-c-tools/osmctools |
+| **osmctools** | 0.9-3 | Simple tools for OpenStreetMap processing | https://gitlab.com/osm-c-tools/osmctools |
 | **osmium-tool** | 1.18.0-4 | A multipurpose command line tool based on the Osmium Library | https://osmcode.org/osmium-tool/ |
-| **osslsigncode** | 2.10 | OpenSSL based Authenticode signing for PE/MSI/Java CAB files | https://github.com/mtrojnar/osslsigncode |
-| **ossp-uuid** | 1.6.2-3 | ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122. | http://www.ossp.org/pkg/lib/uuid/ |
-| **ossp-uuid-static** | 1.6.2-3 | Static libraries for ossp-uuid | http://www.ossp.org/pkg/lib/uuid/ |
+| **osslsigncode** | 2.10-1 | OpenSSL based Authenticode signing for PE/MSI/Java CAB files | https://github.com/mtrojnar/osslsigncode |
+| **ossp-uuid** | 1.6.2-4 | ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122. | http://www.ossp.org/pkg/lib/uuid/ |
+| **ossp-uuid-static** | 1.6.2-4 | Static libraries for ossp-uuid | http://www.ossp.org/pkg/lib/uuid/ |
 | **ovmf** | 20231122-16.fc40-0 | Open Virtual Machine Firmware | https://www.tianocore.org/ |
 | **oxc-language-server** | 1.14.0-1 | Oxc JavaScript linter language server | https://oxc.rs/ |
 | **oxfmt** | 1.14.0-1 | Oxc JavaScript formatter | https://oxc.rs/ |
 | **oxlint** | 1.14.0-1 | Oxc JavaScript linter | https://oxc.rs/ |
 | **p11-kit** | 0.25.7 | Provides a way to load and enumerate PKCS#11 modules | https://p11-glue.github.io/p11-glue/p11-kit.html |
-| **p7zip** | 17.06 | Command-line version of the 7zip compressed file archiver | https://github.com/p7zip-project/p7zip |
-| **pacman** | 7.0.0-3 | A library-based package manager with dependency support | https://archlinux.org/pacman/ |
-| **pacman4console** | 1.3-3 | A 9 level ncurses pacman game with editor | https://sites.google.com/site/doctormike/pacman.html |
-| **panda3d** | 1.10.15 | A framework for 3D rendering and game development for Python and C++ programs | https://www.panda3d.org/ |
-| **panda3d-samples** | 1.10.15 | Python sample programs that use Panda3D | https://www.panda3d.org/ |
-| **panda3d-static** | 1.10.15 | Static libraries for panda3d | https://www.panda3d.org/ |
+| **p7zip** | 17.06-1 | Command-line version of the 7zip compressed file archiver | https://github.com/p7zip-project/p7zip |
+| **pacman** | 7.0.0-4 | A library-based package manager with dependency support | https://archlinux.org/pacman/ |
+| **pacman4console** | 1.3-4 | A 9 level ncurses pacman game with editor | https://sites.google.com/site/doctormike/pacman.html |
+| **panda3d** | 1.10.15-1 | A framework for 3D rendering and game development for Python and C++ programs | https://www.panda3d.org/ |
+| **panda3d-samples** | 1.10.15-1 | Python sample programs that use Panda3D | https://www.panda3d.org/ |
+| **panda3d-static** | 1.10.15-1 | Static libraries for panda3d | https://www.panda3d.org/ |
 | **pango** | 1.57.0 | Library for laying out and rendering text | https://www.gtk.org/docs/architecture/pango |
-| **paperkey** | 1.6 | Archive OpenPGP keys on paper | http://www.jabberwocky.com/software/paperkey/ |
-| **par2** | 1.0.0 | par2cmdline is a PAR 2.0 compatible file verification and repair tool | https://github.com/Parchive/par2cmdline |
+| **paperkey** | 1.6-1 | Archive OpenPGP keys on paper | http://www.jabberwocky.com/software/paperkey/ |
+| **par2** | 1.0.0-1 | par2cmdline is a PAR 2.0 compatible file verification and repair tool | https://github.com/Parchive/par2cmdline |
 | **parallel** | 20250822 | GNU Parallel is a shell tool for executing jobs in parallel using one or more machines | https://www.gnu.org/software/parallel/ |
-| **pari** | 2.17.2 | A computer algebra system designed for fast computations in number theory | https://pari.math.u-bordeaux.fr/ |
-| **pari-static** | 2.17.2 | Static libraries for pari | https://pari.math.u-bordeaux.fr/ |
-| **parted** | 3.6 | Versatile partition editor | https://www.gnu.org/software/parted/ |
-| **parted-static** | 3.6 | Static libraries for parted | https://www.gnu.org/software/parted/ |
+| **pari** | 2.17.2-1 | A computer algebra system designed for fast computations in number theory | https://pari.math.u-bordeaux.fr/ |
+| **pari-static** | 2.17.2-1 | Static libraries for pari | https://pari.math.u-bordeaux.fr/ |
+| **parted** | 3.6-1 | Versatile partition editor | https://www.gnu.org/software/parted/ |
+| **parted-static** | 3.6-1 | Static libraries for parted | https://www.gnu.org/software/parted/ |
 | **paruz** | 1.1.2 | A fzf terminal UI for paru or pacman | https://github.com/joehillen/paruz |
 | **pass** | 1.7.4-5 | Lightweight directory-based password manager | https://www.passwordstore.org |
 | **pass-otp** | 1.2.0-p20250809-0 | A pass/passage extension for managing one-time-password (OTP) tokens | https://github.com/tadfisher/pass-otp |
 | **passage** | 1.7.4a2-1 | A fork of password-store that uses age as backend | https://github.com/FiloSottile/passage |
-| **passphrase2pgp** | 1.3.0-2 | Generate EdDSA/cv25519 private key in GnuPG/SSH format reproducibly per hash of user given passphrase | https://github.com/skeeto/passphrase2pgp |
+| **passphrase2pgp** | 1.3.0-3 | Generate EdDSA/cv25519 private key in GnuPG/SSH format reproducibly per hash of user given passphrase | https://github.com/skeeto/passphrase2pgp |
 | **pastebinit** | 1.5.1-2 | Command-line pastebin client | https://launchpad.net/pastebinit |
-| **pastel** | 0.10.0 | A command-line tool to generate, analyze, convert and manipulate colors | https://github.com/sharkdp/pastel |
+| **pastel** | 0.10.0-1 | A command-line tool to generate, analyze, convert and manipulate colors | https://github.com/sharkdp/pastel |
 | **patch** | 2.8-1 | GNU patch which applies diff files to create patched files | https://savannah.gnu.org/projects/patch/ |
-| **patchelf** | 0.18.0 | Utility to modify the dynamic linker and RPATH of ELF executables | https://nixos.org/patchelf.html |
+| **patchelf** | 0.18.0-1 | Utility to modify the dynamic linker and RPATH of ELF executables | https://nixos.org/patchelf.html |
 | **pathpicker** | 0.9.5-2 | Facebook PathPicker - a terminal-based file picker | https://facebook.github.io/PathPicker/ |
 | **pb** | 2022.11.03-1 | A helper utility for using 0x0 pastebin services | https://tildegit.org/tomasino/pb |
-| **pcal** | 4.11.0 | A multi-platform program which generates annotated PostScript or HTML calendars in a monthly or yearly format | https://pcal.sourceforge.net/ |
-| **pcaudiolib** | 1.3 | Portable C Audio Library | https://github.com/espeak-ng/pcaudiolib |
-| **pcaudiolib-static** | 1.3 | Static libraries for pcaudiolib | https://github.com/espeak-ng/pcaudiolib |
-| **pcre** | 8.45-1 | Library implementing regular expression pattern matching using the same syntax and semantics as Perl 5 | https://www.pcre.org |
-| **pcre-static** | 8.45-1 | Static libraries for pcre | https://www.pcre.org |
+| **pcal** | 4.11.0-1 | A multi-platform program which generates annotated PostScript or HTML calendars in a monthly or yearly format | https://pcal.sourceforge.net/ |
+| **pcaudiolib** | 1.3-1 | Portable C Audio Library | https://github.com/espeak-ng/pcaudiolib |
+| **pcaudiolib-static** | 1.3-1 | Static libraries for pcaudiolib | https://github.com/espeak-ng/pcaudiolib |
+| **pcre** | 8.45-2 | Library implementing regular expression pattern matching using the same syntax and semantics as Perl 5 | https://www.pcre.org |
+| **pcre-static** | 8.45-2 | Static libraries for pcre | https://www.pcre.org |
 | **pcre2** | 10.46 | Perl 5 compatible regular expression library | https://www.pcre.org |
 | **pcre2-static** | 10.46 | Static libraries for pcre2 | https://www.pcre.org |
 | **pcre2grep** | 10.46 | A grep with Perl-compatible regular expressions | https://www.pcre.org |
-| **pcregrep** | 8.45-1 | A grep with Perl-compatible regular expressions | https://www.pcre.org |
+| **pcregrep** | 8.45-2 | A grep with Perl-compatible regular expressions | https://www.pcre.org |
 | **pcscd** | 2.3.3-2 | Middleware to access a smart card using SCard API (PC/SC). (daemon side) | https://pcsclite.apdu.fr/ |
 | **pdf2djvu** | 0.9.19-6 | PDF to DjVu converter | https://github.com/jwilk/pdf2djvu |
-| **pdf2svg** | 0.2.4 | A PDF to SVG converter | http://www.cityinthesky.co.uk/opensource/pdf2svg/ |
-| **pdfcpu** | 0.11.0 | A PDF processor written in Go | https://pdfcpu.io |
-| **pdfgrep** | 2.2.0-3 | Command line utility to search text in PDF files | https://pdfgrep.org/ |
+| **pdf2svg** | 0.2.4-1 | A PDF to SVG converter | http://www.cityinthesky.co.uk/opensource/pdf2svg/ |
+| **pdfcpu** | 0.11.0-1 | A PDF processor written in Go | https://pdfcpu.io |
+| **pdfgrep** | 2.2.0-4 | Command line utility to search text in PDF files | https://pdfgrep.org/ |
 | **pdftk** | 3.3.3-3 | A simple tool for doing everyday things with PDF documents | https://gitlab.com/pdftk-java/pdftk |
-| **peaclock** | 0.4.3-7 | A responsive and customizable clock, timer, and stopwatch for the terminal. | https://github.com/octobanana/peaclock |
+| **peaclock** | 0.4.3-8 | A responsive and customizable clock, timer, and stopwatch for the terminal. | https://github.com/octobanana/peaclock |
 | **peco** | 0.5.11-2 | Simplistic interactive filtering tool | https://github.com/peco/peco |
 | **perl** | 5.40.3 | Capable, feature-rich programming language | https://www.perl.org/ |
 | **perl-rename** | 1.14 | renames multiple files using perl expressions. | https://search.cpan.org/~pederst/rename/ |
-| **pet** | 1.0.1 | Simple command-line snippet manager | https://github.com/knqyf263/pet |
-| **pforth** | 1:2.0.1 | Portable Forth in C | http://www.softsynth.com/pforth/ |
+| **pet** | 1.0.1-1 | Simple command-line snippet manager | https://github.com/knqyf263/pet |
+| **pforth** | 1:2.0.1-1 | Portable Forth in C | https://www.softsynth.com/pforth/ |
 | **pgroonga** | 4.0.1 | A PostgreSQL extension to use Groonga as index | https://github.com/pgroonga/pgroonga |
-| **photon-rss** | 2023.02.02-2 | An RSS/Atom reader with the focus on speed, usability and a bit of unix philosophy | https://git.sr.ht/~ghost08/photon |
-| **php** | 8.4.2-2 | Server-side, HTML-embedded scripting language | https://php.net |
-| **php-apache** | 8.4.2-2 | Apache 2.0 Handler module for PHP | https://php.net |
-| **php-apache-ldap** | 8.4.2-2 | LDAP module for PHP/Apache | https://php.net |
-| **php-apache-opcache** | 8.4.2-2 | OPcache module for PHP/Apache | https://php.net |
-| **php-apache-pgsql** | 8.4.2-2 | PostgreSQL modules for PHP/Apache | https://php.net |
-| **php-apache-sodium** | 8.4.2-2 | Sodium module for PHP/Apache | https://php.net |
+| **photon-rss** | 2023.02.02-3 | An RSS/Atom reader with the focus on speed, usability and a bit of unix philosophy | https://git.sr.ht/~ghost08/photon |
+| **php** | 8.4.2-3 | Server-side, HTML-embedded scripting language | https://php.net |
+| **php-apache** | 8.4.2-3 | Apache 2.0 Handler module for PHP | https://php.net |
+| **php-apache-ldap** | 8.4.2-3 | LDAP module for PHP/Apache | https://php.net |
+| **php-apache-opcache** | 8.4.2-3 | OPcache module for PHP/Apache | https://php.net |
+| **php-apache-pgsql** | 8.4.2-3 | PostgreSQL modules for PHP/Apache | https://php.net |
+| **php-apache-sodium** | 8.4.2-3 | Sodium module for PHP/Apache | https://php.net |
 | **php-apcu** | 5.1.27 | APCu - APC User Cache | http://php.net/apcu |
-| **php-fpm** | 8.4.2-2 | FastCGI Process Manager for PHP | https://php.net |
-| **php-gd** | 8.4.2-2 | gd module for PHP | https://php.net |
-| **php-imagick** | 3.8.0 | The Imagick PHP extension | https://github.com/Imagick/imagick |
-| **php-ldap** | 8.4.2-2 | LDAP module for PHP | https://php.net |
-| **php-pgsql** | 8.4.2-2 | PostgreSQL modules for PHP | https://php.net |
-| **php-psr** | 1.2.0-3 | PHP extension providing the accepted PSR interfaces | https://github.com/jbboehr/php-psr |
-| **php-redis** | 6.2.0 | PHP extension for interfacing with Redis | https://github.com/phpredis/phpredis |
-| **php-sodium** | 8.4.2-2 | Sodium module for PHP | https://php.net |
-| **php-zephir-parser** | 1.7.0 | The Zephir Parser delivered as a C extension for the PHP language | https://github.com/phalcon/php-zephir-parser |
+| **php-fpm** | 8.4.2-3 | FastCGI Process Manager for PHP | https://php.net |
+| **php-gd** | 8.4.2-3 | gd module for PHP | https://php.net |
+| **php-imagick** | 3.8.0-1 | The Imagick PHP extension | https://github.com/Imagick/imagick |
+| **php-ldap** | 8.4.2-3 | LDAP module for PHP | https://php.net |
+| **php-pgsql** | 8.4.2-3 | PostgreSQL modules for PHP | https://php.net |
+| **php-psr** | 1.2.0-4 | PHP extension providing the accepted PSR interfaces | https://github.com/jbboehr/php-psr |
+| **php-redis** | 6.2.0-1 | PHP extension for interfacing with Redis | https://github.com/phpredis/phpredis |
+| **php-sodium** | 8.4.2-3 | Sodium module for PHP | https://php.net |
+| **php-zephir-parser** | 1.7.0-1 | The Zephir Parser delivered as a C extension for the PHP language | https://github.com/phalcon/php-zephir-parser |
 | **phpmyadmin** | 5.2.2 | A PHP tool for administering MySQL and MariaDB databases | https://www.phpmyadmin.net |
 | **pianobar** | 2024.12.21 | pianobar is a free/open-source, console-based client for the personalized online radio Pandora. | https://6xq.net/pianobar/ |
 | **pick** | 4.0.0-2 | Utility to choose one option from a set of choices with fuzzy search functionality | https://github.com/calleerlandsson/pick |
@@ -2131,7 +2131,7 @@
 | **recutils-static** | 1.9 | Static libraries for recutils | https://www.gnu.org/software/recutils/ |
 | **redir** | 3.3-2 | TCP port redirector for UNIX | https://github.com/troglobit/redir |
 | **redis** | 1:7.2.5 | In-memory data structure store used as a database, cache and message broker | https://redis.io/ |
-| **remind** | 1:06.00.02 | Sophisticated calendar and alarm program | https://dianne.skoll.ca/projects/remind/ |
+| **remind** | 1:06.01.00 | Sophisticated calendar and alarm program | https://dianne.skoll.ca/projects/remind/ |
 | **renameutils** | 0.12.0-2 | A set of programs designed to make renaming of files faster and less cumbersome | https://www.nongnu.org/renameutils/ |
 | **reptyr** | 0.10.0 | Tool for reparenting a running program to a new terminal | https://github.com/nelhage/reptyr |
 | **resolv-conf** | 1.3 | Resolver configuration file | https://man7.org/linux/man-pages/man5/resolv.conf.5.html |
