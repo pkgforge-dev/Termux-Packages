@@ -1477,7 +1477,7 @@
   },
   {
     "Package": "cmocka",
-    "Version": "1.1.8-1",
+    "Version": "1.1.8-2",
     "Description": "cmocka is an unit testing framework for C",
     "Homepage": "https://cmocka.org/"
   },
@@ -2275,25 +2275,25 @@
   },
   {
     "Package": "dropbear",
-    "Version": "2025.87-2",
+    "Version": "2025.87-3",
     "Description": "Small SSH server and client",
     "Homepage": "https://matt.ucc.asn.au/dropbear/dropbear.html"
   },
   {
     "Package": "dtach",
-    "Version": "0.9-1",
+    "Version": "0.9-2",
     "Description": "Emulates the detach feature of screen",
     "Homepage": "https://dtach.sourceforge.net/"
   },
   {
     "Package": "dtc",
-    "Version": "1.7.2-1",
+    "Version": "1.7.2-2",
     "Description": "Device Tree Compiler",
     "Homepage": "https://git.kernel.org/pub/scm/utils/dtc/dtc"
   },
   {
     "Package": "dtc-static",
-    "Version": "1.7.2-1",
+    "Version": "1.7.2-2",
     "Description": "Static libraries for dtc",
     "Homepage": "https://git.kernel.org/pub/scm/utils/dtc/dtc"
   },
@@ -2688,6 +2688,12 @@
     "Homepage": "https://github.com/pkolaczk/fclones"
   },
   {
+    "Package": "fcp",
+    "Version": "0.2.1-3",
+    "Description": "A significantly faster alternative to the classic Unix cp(1) command",
+    "Homepage": "https://github.com/Svetlitski/fcp"
+  },
+  {
     "Package": "fd",
     "Version": "10.3.0-1",
     "Description": "Simple, fast and user-friendly alternative to find",
@@ -2698,6 +2704,18 @@
     "Version": "2.40.2-5",
     "Description": "Utilities to manipulate disk partition tables",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
+  },
+  {
+    "Package": "fdkaac",
+    "Version": "1.0.6-2",
+    "Description": "command line encoder frontend for libfdk-aac",
+    "Homepage": "https://github.com/nu774/fdkaac"
+  },
+  {
+    "Package": "fdm",
+    "Version": "2.2-2",
+    "Description": "A program designed to fetch mail from POP3 or IMAP servers, or receive local mail from stdin, and deliver it in various ways",
+    "Homepage": "https://github.com/nicm/fdm"
   },
   {
     "Package": "fdroidcl",
@@ -2959,19 +2977,19 @@
   },
   {
     "Package": "frobtads",
-    "Version": "2.0-4",
+    "Version": "2.0-5",
     "Description": "TADS is a free authoring system for writing your own Interactive Fiction",
     "Homepage": "http://www.tads.org/frobtads.htm"
   },
   {
     "Package": "frogcomposband",
-    "Version": "7.1.salmiak-2",
+    "Version": "7.1.salmiak-3",
     "Description": "Open world Angband variant with many additions",
     "Homepage": "https://github.com/sulkasormi/frogcomposband/"
   },
   {
     "Package": "frotz",
-    "Version": "2.55-1",
+    "Version": "2.55-2",
     "Description": "Interpreter for Infocom and other Z-machine interactive fiction (IF) games",
     "Homepage": "https://gitlab.com/DavidGriffith/frotz"
   },
@@ -3043,13 +3061,13 @@
   },
   {
     "Package": "gap",
-    "Version": "4.14.0-1",
+    "Version": "4.14.0-2",
     "Description": "GAP is a system for computational discrete algebra, with particular emphasis on Computational Group Theory",
     "Homepage": "https://www.gap-system.org/"
   },
   {
     "Package": "gap-packages",
-    "Version": "4.14.0-1",
+    "Version": "4.14.0-2",
     "Description": "Packages for gap",
     "Homepage": "https://www.gap-system.org/"
   },
@@ -3061,13 +3079,13 @@
   },
   {
     "Package": "gauche",
-    "Version": "0.9.15-1",
+    "Version": "0.9.15-2",
     "Description": "An R7RS Scheme implementation developed to be a handy script interpreter",
     "Homepage": "https://practical-scheme.net/gauche/"
   },
   {
     "Package": "gauche-static",
-    "Version": "0.9.15-1",
+    "Version": "0.9.15-2",
     "Description": "Static libraries for gauche",
     "Homepage": "https://practical-scheme.net/gauche/"
   },
@@ -3234,8 +3252,20 @@
     "Homepage": "https://wiki.gnome.org/Projects/gexiv2"
   },
   {
+    "Package": "gflags",
+    "Version": "2.2.2-11",
+    "Description": "A C++ library that implements commandline flags processing",
+    "Homepage": "https://github.com/gflags/gflags"
+  },
+  {
+    "Package": "gflags-static",
+    "Version": "2.2.2-11",
+    "Description": "Static libraries for gflags",
+    "Homepage": "https://github.com/gflags/gflags"
+  },
+  {
     "Package": "gforth",
-    "Version": "0.7.3-1",
+    "Version": "0.7.3-3",
     "Description": "The Forth implementation of the GNU project",
     "Homepage": "https://www.gnu.org/software/gforth/"
   },
@@ -3253,7 +3283,7 @@
   },
   {
     "Package": "ghostscript",
-    "Version": "10.05.1",
+    "Version": "10.05.1-2",
     "Description": "Interpreter for the PostScript language and for PDF",
     "Homepage": "https://www.ghostscript.com/"
   },
@@ -3442,6 +3472,12 @@
     "Version": "5.0-2",
     "Description": "Static libraries for glpk",
     "Homepage": "https://www.gnu.org/software/glpk/"
+  },
+  {
+    "Package": "glslang",
+    "Version": "15.4.0-2",
+    "Description": "OpenGL and OpenGL ES shader front end and validator",
+    "Homepage": "https://github.com/KhronosGroup/glslang"
   },
   {
     "Package": "gluelang",
@@ -4027,7 +4063,7 @@
   },
   {
     "Package": "helm",
-    "Version": "3.18.6",
+    "Version": "3.19.0",
     "Description": "Helm helps you manage Kubernetes applications",
     "Homepage": "https://helm.sh"
   },
@@ -4429,13 +4465,13 @@
   },
   {
     "Package": "iperf3",
-    "Version": "3.19.1-1",
+    "Version": "3.19.1-2",
     "Description": "TCP, UDP, and SCTP network bandwidth measurement tool",
     "Homepage": "https://github.com/esnet/iperf"
   },
   {
     "Package": "iperf3-static",
-    "Version": "3.19.1-1",
+    "Version": "3.19.1-2",
     "Description": "Static libraries for iperf3",
     "Homepage": "https://github.com/esnet/iperf"
   },
@@ -4459,13 +4495,13 @@
   },
   {
     "Package": "ipv6toolkit",
-    "Version": "2022.09.30-3",
+    "Version": "2022.09.30-4",
     "Description": "SI6 Networks IPv6 Toolkit",
     "Homepage": "https://www.si6networks.com/research/tools/ipv6toolkit/"
   },
   {
     "Package": "ircd-irc2",
-    "Version": "2.11.2p3-2",
+    "Version": "2.11.2p3-3",
     "Description": "An Internet Relay Chat (IRC) daemon",
     "Homepage": "http://www.irc.org/"
   },
@@ -4708,6 +4744,12 @@
     "Version": "0.51.0-3",
     "Description": "Jump helps you navigate in shell faster by learning your habits",
     "Homepage": "https://github.com/gsamokovarov/jump"
+  },
+  {
+    "Package": "jupp",
+    "Version": "3.1jupp41-3",
+    "Description": "User friendly full screen text editor",
+    "Homepage": "http://www.mirbsd.org/jupp.htm"
   },
   {
     "Package": "just",
@@ -5317,7 +5359,7 @@
   },
   {
     "Package": "libbullet",
-    "Version": "3.25-1",
+    "Version": "3.25-2",
     "Description": "SDK for real-time collision detection and multi-physics simulation for robotics, VR, etc",
     "Homepage": "https://github.com/bulletphysics/bullet3"
   },
@@ -6079,19 +6121,19 @@
   },
   {
     "Package": "libgeotiff",
-    "Version": "1.7.4-1",
+    "Version": "1.7.4-2",
     "Description": "Library for handling TIFF for georeferenced raster imagery",
     "Homepage": "https://github.com/OSGeo/libgeotiff"
   },
   {
     "Package": "libgf2x",
-    "Version": "1.3.0-1",
+    "Version": "1.3.0-2",
     "Description": "A library for multiplying polynomials over the binary field",
     "Homepage": "https://gitlab.inria.fr/gf2x/gf2x"
   },
   {
     "Package": "libgf2x-static",
-    "Version": "1.3.0-1",
+    "Version": "1.3.0-2",
     "Description": "Static libraries for libgf2x",
     "Homepage": "https://gitlab.inria.fr/gf2x/gf2x"
   },
@@ -6445,19 +6487,19 @@
   },
   {
     "Package": "libinih",
-    "Version": "61-1",
+    "Version": "62",
     "Description": "A simple .INI file parser written in C",
     "Homepage": "https://github.com/benhoyt/inih"
   },
   {
     "Package": "libiniparser",
-    "Version": "4.2.6-1",
+    "Version": "4.2.6-2",
     "Description": "Offers parsing of ini files from the C level",
     "Homepage": "https://github.com/ndevilla/iniparser"
   },
   {
     "Package": "libiniparser-static",
-    "Version": "4.2.6-1",
+    "Version": "4.2.6-2",
     "Description": "Static libraries for libiniparser",
     "Homepage": "https://github.com/ndevilla/iniparser"
   },
@@ -6703,13 +6745,13 @@
   },
   {
     "Package": "liblrdf",
-    "Version": "0.6.1-1",
+    "Version": "0.6.1-2",
     "Description": "A library to make it easy to manipulate RDF files describing LADSPA plugins",
     "Homepage": "https://github.com/swh/LRDF"
   },
   {
     "Package": "liblrdf-static",
-    "Version": "0.6.1-1",
+    "Version": "0.6.1-2",
     "Description": "Static libraries for liblrdf",
     "Homepage": "https://github.com/swh/LRDF"
   },
@@ -6718,6 +6760,30 @@
     "Version": "2.5.4-1",
     "Description": "Library for dlopening libraries",
     "Homepage": "https://www.gnu.org/software/libtool/"
+  },
+  {
+    "Package": "liblua51",
+    "Version": "5.1.5-5",
+    "Description": "Shared library for the Lua interpreter (v5.1.x)",
+    "Homepage": "https://www.lua.org"
+  },
+  {
+    "Package": "liblua51-static",
+    "Version": "5.1.5-5",
+    "Description": "Static libraries for liblua51",
+    "Homepage": "https://www.lua.org"
+  },
+  {
+    "Package": "liblua52",
+    "Version": "5.2.4-13",
+    "Description": "Shared library for the Lua interpreter (v5.2.x)",
+    "Homepage": "https://www.lua.org"
+  },
+  {
+    "Package": "liblua52-static",
+    "Version": "5.2.4-13",
+    "Description": "Static libraries for liblua52",
+    "Homepage": "https://www.lua.org"
   },
   {
     "Package": "liblua53",
@@ -7878,8 +7944,38 @@
     "Homepage": "https://github.com/haiwen/libsearpc"
   },
   {
+    "Package": "libseat",
+    "Version": "0.9.1-2",
+    "Description": "Reference implementation of a wayland compositor",
+    "Homepage": "https://sr.ht/~kennylevinsen/seatd/"
+  },
+  {
+    "Package": "libseccomp",
+    "Version": "2.5.5-5",
+    "Description": "Enhanced seccomp library",
+    "Homepage": "https://github.com/seccomp/libseccomp"
+  },
+  {
+    "Package": "libseccomp-static",
+    "Version": "2.5.5-5",
+    "Description": "Static libraries for libseccomp",
+    "Homepage": "https://github.com/seccomp/libseccomp"
+  },
+  {
+    "Package": "libsecp256k1",
+    "Version": "1:0.7.0-2",
+    "Description": "Optimized c library for ECDSA signatures and seret/public key operations on curve secp256k1",
+    "Homepage": "https://github.com/bitcoin-core/secp256k1"
+  },
+  {
+    "Package": "libsecp256k1-static",
+    "Version": "1:0.7.0-2",
+    "Description": "Static libraries for libsecp256k1",
+    "Homepage": "https://github.com/bitcoin-core/secp256k1"
+  },
+  {
     "Package": "libsecret",
-    "Version": "0.21.7-1",
+    "Version": "0.21.7-3",
     "Description": "A GObject-based library for accessing the Secret Service API",
     "Homepage": "https://gitlab.gnome.org/GNOME/libsecret"
   },
@@ -8022,6 +8118,12 @@
     "Homepage": "https://www.surina.net/soundtouch/"
   },
   {
+    "Package": "libsoup",
+    "Version": "2.74.3-6",
+    "Description": "HTTP client and server library",
+    "Homepage": "https://wiki.gnome.org/action/show/Projects/libsoup"
+  },
+  {
     "Package": "libsoup3",
     "Version": "3.6.5-1",
     "Description": "HTTP client and server library",
@@ -8155,25 +8257,25 @@
   },
   {
     "Package": "libstrophe",
-    "Version": "0.14.0-1",
+    "Version": "0.14.0-2",
     "Description": "libstrophe is a minimal XMPP library written in C",
     "Homepage": "https://strophe.im/libstrophe"
   },
   {
     "Package": "libstrophe-static",
-    "Version": "0.14.0-1",
+    "Version": "0.14.0-2",
     "Description": "Static libraries for libstrophe",
     "Homepage": "https://strophe.im/libstrophe"
   },
   {
     "Package": "libt3config",
-    "Version": "1.0.0-1",
+    "Version": "1.0.0-2",
     "Description": "A library for reading and writing configuration files",
     "Homepage": "https://os.ghalkes.nl/t3/libt3config.html"
   },
   {
     "Package": "libt3highlight",
-    "Version": "0.5.0-1",
+    "Version": "0.5.0-2",
     "Description": "A library for syntax highlighting different types of text files",
     "Homepage": "https://os.ghalkes.nl/t3/libt3highlight.html"
   },
@@ -8443,25 +8545,25 @@
   },
   {
     "Package": "libuchardet",
-    "Version": "0.0.8-1",
+    "Version": "0.0.8-2",
     "Description": "An encoding detector library",
     "Homepage": "https://www.freedesktop.org/wiki/Software/uchardet/"
   },
   {
     "Package": "libuchardet-static",
-    "Version": "0.0.8-1",
+    "Version": "0.0.8-2",
     "Description": "Static libraries for libuchardet",
     "Homepage": "https://www.freedesktop.org/wiki/Software/uchardet/"
   },
   {
     "Package": "libucontext",
-    "Version": "1.2-1",
+    "Version": "1.2-2",
     "Description": "A library which provides the ucontext.h C API",
     "Homepage": "https://github.com/kaniini/libucontext"
   },
   {
     "Package": "libucontext-static",
-    "Version": "1.2-1",
+    "Version": "1.2-2",
     "Description": "Static libraries for libucontext",
     "Homepage": "https://github.com/kaniini/libucontext"
   },
@@ -8628,6 +8730,42 @@
     "Homepage": "https://github.com/Netflix/vmaf"
   },
   {
+    "Package": "libvo-amrwbenc",
+    "Version": "0.1.3-2",
+    "Description": "VisualOn AMR-WB encoder library",
+    "Homepage": "https://sourceforge.net/projects/opencore-amr/"
+  },
+  {
+    "Package": "libvo-amrwbenc-static",
+    "Version": "0.1.3-2",
+    "Description": "Static libraries for libvo-amrwbenc",
+    "Homepage": "https://sourceforge.net/projects/opencore-amr/"
+  },
+  {
+    "Package": "libvoikko",
+    "Version": "4.3.3-2",
+    "Description": "A spelling and grammar checker, hyphenator and collection of related linguistic data for Finnish language",
+    "Homepage": "http://voikko.sourceforge.net"
+  },
+  {
+    "Package": "libvoikko-static",
+    "Version": "4.3.3-2",
+    "Description": "Static libraries for libvoikko",
+    "Homepage": "http://voikko.sourceforge.net"
+  },
+  {
+    "Package": "libvorbis",
+    "Version": "1.3.7-4",
+    "Description": "Library for using the Ogg Vorbis compressed audio format",
+    "Homepage": "https://xiph.org/vorbis/"
+  },
+  {
+    "Package": "libvorbis-static",
+    "Version": "1.3.7-4",
+    "Description": "Static libraries for libvorbis",
+    "Homepage": "https://xiph.org/vorbis/"
+  },
+  {
     "Package": "libvpx",
     "Version": "1:1.15.2",
     "Description": "VP8 & VP9 Codec SDK",
@@ -8638,6 +8776,12 @@
     "Version": "1:1.15.2",
     "Description": "Static libraries for libvpx",
     "Homepage": "https://www.webmproject.org"
+  },
+  {
+    "Package": "libvterm",
+    "Version": "1:0.3.3-2",
+    "Description": "Terminal emulator library",
+    "Homepage": "https://www.leonerd.org.uk/code/libvterm/"
   },
   {
     "Package": "libvxl",
@@ -8887,19 +9031,19 @@
   },
   {
     "Package": "libxls",
-    "Version": "1.6.3-1",
+    "Version": "1.6.3-2",
     "Description": "A C library for reading Excel files in the nasty old binary OLE format",
     "Homepage": "https://github.com/libxls/libxls"
   },
   {
     "Package": "libxls-static",
-    "Version": "1.6.3-1",
+    "Version": "1.6.3-2",
     "Description": "Static libraries for libxls",
     "Homepage": "https://github.com/libxls/libxls"
   },
   {
     "Package": "libxls2csv",
-    "Version": "1.6.3-1",
+    "Version": "1.6.3-2",
     "Description": "A command-line tool for converting XLS to CSV",
     "Homepage": "https://github.com/libxls/libxls"
   },
@@ -9295,19 +9439,19 @@
   },
   {
     "Package": "lrzip",
-    "Version": "0.651-1",
+    "Version": "0.651-2",
     "Description": "A compression utility that excels at compressing large files",
     "Homepage": "https://github.com/ckolivas/lrzip"
   },
   {
     "Package": "lrzsz",
-    "Version": "0.12.21-rc1-1",
+    "Version": "0.12.21-rc1-2",
     "Description": "Tools for zmodem/xmodem/ymodem file transfer",
     "Homepage": "https://ohse.de/uwe/software/lrzsz.html"
   },
   {
     "Package": "lsd",
-    "Version": "1.1.5-1",
+    "Version": "1.1.5-2",
     "Description": "Next gen ls command",
     "Homepage": "https://github.com/lsd-rs/lsd"
   },
@@ -9354,10 +9498,22 @@
     "Homepage": "https://www.inf.puc-rio.br/~roberto/lpeg"
   },
   {
+    "Package": "lua51",
+    "Version": "5.1.5-5",
+    "Description": "Simple, extensible, embeddable programming language",
+    "Homepage": "https://www.lua.org"
+  },
+  {
     "Package": "lua51-lpeg",
     "Version": "1.1.0-3",
     "Description": "Pattern-matching library for Lua 5.1",
     "Homepage": "https://www.inf.puc-rio.br/~roberto/lpeg"
+  },
+  {
+    "Package": "lua52",
+    "Version": "5.2.4-13",
+    "Description": "Simple, extensible, embeddable programming language",
+    "Homepage": "https://www.lua.org"
   },
   {
     "Package": "lua52-lpeg",
@@ -9757,7 +9913,7 @@
   },
   {
     "Package": "mdp",
-    "Version": "1.0.18",
+    "Version": "1.0.18-1",
     "Description": "Command-line based markdown presentation tool",
     "Homepage": "https://github.com/visit1985/mdp"
   },
@@ -9769,7 +9925,7 @@
   },
   {
     "Package": "mediainfo",
-    "Version": "25.07",
+    "Version": "25.07-1",
     "Description": "Command-line utility for reading information from media files",
     "Homepage": "https://mediaarea.net/en/MediaInfo"
   },
@@ -9787,55 +9943,55 @@
   },
   {
     "Package": "megatools",
-    "Version": "1.11.5.20250706",
+    "Version": "1.11.5.20250706-1",
     "Description": "Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage",
     "Homepage": "https://xff.cz/megatools/"
   },
   {
     "Package": "memcached",
-    "Version": "1.6.39",
+    "Version": "1.6.39-1",
     "Description": "Free & open source, high-performance, distributed memory object caching system",
     "Homepage": "https://memcached.org/"
   },
   {
     "Package": "mercury",
-    "Version": "22.01.8",
+    "Version": "22.01.8-1",
     "Description": "A logic/functional programming language",
     "Homepage": "https://www.mercurylang.org/"
   },
   {
     "Package": "mercury-static",
-    "Version": "22.01.8",
+    "Version": "22.01.8-1",
     "Description": "Static libraries for mercury",
     "Homepage": "https://www.mercurylang.org/"
   },
   {
     "Package": "mesa",
-    "Version": "25.1.5",
+    "Version": "25.1.5-1",
     "Description": "An open-source implementation of the OpenGL specification",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-dev",
-    "Version": "25.1.5",
+    "Version": "25.1.5-1",
     "Description": "Mesas OpenGL headers",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-opencl-icd-rusticl",
-    "Version": "25.1.5",
+    "Version": "25.1.5-1",
     "Description": "Mesas Rusticl OpenCL ICD",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-vulkan-icd-swrast",
-    "Version": "25.1.5",
+    "Version": "25.1.5-1",
     "Description": "Mesas Swrast Vulkan ICD",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mfcuk",
-    "Version": "2018.07.14",
+    "Version": "2018.07.14-1",
     "Description": "MiFare Classic Universal toolKit (MFCUK)",
     "Homepage": "https://github.com/nfc-tools/mfcuk"
   },
@@ -9853,7 +10009,7 @@
   },
   {
     "Package": "microsocks",
-    "Version": "1:1.0.5",
+    "Version": "1:1.0.5-1",
     "Description": "tiny, portable SOCKS5 server with very moderate resource usage",
     "Homepage": "https://github.com/rofl0r/microsocks"
   },
@@ -9865,31 +10021,31 @@
   },
   {
     "Package": "mimetic",
-    "Version": "0.9.8-1",
+    "Version": "0.9.8-2",
     "Description": "A C++ Email library (MIME)",
     "Homepage": "https://www.codesink.org/mimetic_mime_library.html"
   },
   {
     "Package": "mimetic-static",
-    "Version": "0.9.8-1",
+    "Version": "0.9.8-2",
     "Description": "Static libraries for mimetic",
     "Homepage": "https://www.codesink.org/mimetic_mime_library.html"
   },
   {
     "Package": "minesweeper",
-    "Version": "0.3.1-3",
+    "Version": "0.3.1-4",
     "Description": "A simple terminal-based implementation of Minesweeper",
     "Homepage": "https://github.com/benhsm/minesweeper"
   },
   {
     "Package": "minicom",
-    "Version": "2.10",
+    "Version": "2.10-1",
     "Description": "Friendly menu driven serial communication program",
     "Homepage": "https://salsa.debian.org/minicom-team/minicom"
   },
   {
     "Package": "minidlna",
-    "Version": "1.3.3-2",
+    "Version": "1.3.3-3",
     "Description": "A server software with the aim of being fully compliant with DLNA/UPnP-AV clients",
     "Homepage": "https://sourceforge.net/projects/minidlna/"
   },
@@ -9901,7 +10057,7 @@
   },
   {
     "Package": "minimodem",
-    "Version": "0.24-1-0",
+    "Version": "0.24-1-1",
     "Description": "General-purpose software audio FSK modem",
     "Homepage": "http://www.whence.com/minimodem/"
   },
@@ -9913,49 +10069,49 @@
   },
   {
     "Package": "miniserve",
-    "Version": "0.31.0",
+    "Version": "0.31.0-1",
     "Description": "Tool to serve files and dirs over HTTP",
     "Homepage": "https://github.com/svenstaro/miniserve"
   },
   {
     "Package": "minisign",
-    "Version": "0.12",
+    "Version": "0.12-1",
     "Description": "A dead simple tool to sign files and verify signatures",
     "Homepage": "https://jedisct1.github.io/minisign/"
   },
   {
     "Package": "miniupnpc",
-    "Version": "2.3.3",
+    "Version": "2.3.3-1",
     "Description": "Small UPnP client library and tool to access Internet Gateway Devices",
     "Homepage": "https://miniupnp.tuxfamily.org/"
   },
   {
     "Package": "miniupnpc-static",
-    "Version": "2.3.3",
+    "Version": "2.3.3-1",
     "Description": "Static libraries for miniupnpc",
     "Homepage": "https://miniupnp.tuxfamily.org/"
   },
   {
     "Package": "minizinc",
-    "Version": "2.9.3",
+    "Version": "2.9.3-1",
     "Description": "A medium-level constraint modelling language",
     "Homepage": "https://github.com/MiniZinc/libminizinc"
   },
   {
     "Package": "minizinc-static",
-    "Version": "2.9.3",
+    "Version": "2.9.3-1",
     "Description": "Static libraries for minizinc",
     "Homepage": "https://github.com/MiniZinc/libminizinc"
   },
   {
     "Package": "mkbootimg",
-    "Version": "2022.11.09",
+    "Version": "2022.11.09-1",
     "Description": "Maintained fork with androids mkbootimg and unpackbootimg",
     "Homepage": "https://github.com/osm0sis/mkbootimg"
   },
   {
     "Package": "mkp224o",
-    "Version": "1.7.0",
+    "Version": "1.7.0-1",
     "Description": "Generate vanity ed25519 (hidden service version 3) onion addresses",
     "Homepage": "https://github.com/cathugger/mkp224o"
   },
@@ -9967,7 +10123,7 @@
   },
   {
     "Package": "mktorrent",
-    "Version": "1.1-p20210130-0",
+    "Version": "1.1-p20210130-1",
     "Description": "command line utility to create BitTorrent metainfo files",
     "Homepage": "https://github.com/Rudde/mktorrent"
   },
@@ -9979,7 +10135,7 @@
   },
   {
     "Package": "mlocate",
-    "Version": "0.26-5",
+    "Version": "0.26-6",
     "Description": "Tool to find files anywhere in the filesystem based on their name",
     "Homepage": "https://pagure.io/mlocate"
   },
@@ -9997,61 +10153,61 @@
   },
   {
     "Package": "mono",
-    "Version": "6.14.1",
+    "Version": "6.14.1-1",
     "Description": "Framework Mono",
     "Homepage": "https://gitlab.winehq.org/mono/mono"
   },
   {
     "Package": "mono-libs",
-    "Version": "6.14.1",
+    "Version": "6.14.1-1",
     "Description": "Platform-independent libraries for mono",
     "Homepage": "https://gitlab.winehq.org/mono/mono"
   },
   {
     "Package": "mono-static",
-    "Version": "6.14.1",
+    "Version": "6.14.1-1",
     "Description": "Static libraries for mono",
     "Homepage": "https://gitlab.winehq.org/mono/mono"
   },
   {
     "Package": "monolith",
-    "Version": "2.10.1",
+    "Version": "2.10.1-1",
     "Description": "CLI tool for saving complete web pages as a single HTML file",
     "Homepage": "https://github.com/Y2Z/monolith"
   },
   {
     "Package": "moon-buggy",
-    "Version": "1.0.51-5",
+    "Version": "1.0.51-6",
     "Description": "Simple game where you drive a car across the moons surface",
     "Homepage": "https://github.com/seehuhn/moon-buggy"
   },
   {
     "Package": "moor",
-    "Version": "2.1.0",
+    "Version": "2.1.1",
     "Description": "A pager designed to just do the right thing without any configuration",
     "Homepage": "https://github.com/walles/moor"
   },
   {
     "Package": "mop",
-    "Version": "2025.03.17",
+    "Version": "2025.03.17-1",
     "Description": "Stock market tracker",
     "Homepage": "https://github.com/mop-tracker/mop"
   },
   {
     "Package": "moreutils",
-    "Version": "0.70",
+    "Version": "0.70-1",
     "Description": "A growing collection of the unix tools that nobody thought to write thirty years ago",
     "Homepage": "https://joeyh.name/code/moreutils/"
   },
   {
     "Package": "moria",
-    "Version": "5.7.15-5",
+    "Version": "5.7.15-6",
     "Description": "Rogue-like game with an infinite dungeon",
     "Homepage": "https://umoria.org"
   },
   {
     "Package": "morse2ascii",
-    "Version": "0.2.1",
+    "Version": "0.2.1-1",
     "Description": "A tool to decode the morse codes from a PCM WAV file as well as from text and RAW PCM files",
     "Homepage": "https://packages.debian.org/sid/morse2ascii"
   },
@@ -10075,7 +10231,7 @@
   },
   {
     "Package": "most",
-    "Version": "5.2.0-1",
+    "Version": "5.2.0-3",
     "Description": "A terminal pager similar to more and less",
     "Homepage": "http://www.jedsoft.org/most/index.html"
   },
@@ -10087,7 +10243,7 @@
   },
   {
     "Package": "mp3cat",
-    "Version": "0.5",
+    "Version": "0.5-2",
     "Description": "Copies a byte stream, skipping everything except mp3 frames with valid headers",
     "Homepage": "https://tomclegg.ca/mp3cat"
   },
@@ -10099,25 +10255,25 @@
   },
   {
     "Package": "mp3gain",
-    "Version": "1.6.2-1",
+    "Version": "1.6.2-2",
     "Description": "Analyzes and adjusts mp3 files so that they have the same volume",
     "Homepage": "https://mp3gain.sourceforge.net/"
   },
   {
     "Package": "mp3splt",
-    "Version": "2.6.2-1",
+    "Version": "2.6.2-2",
     "Description": "Utility to split mp3, ogg vorbis and FLAC files without decoding",
-    "Homepage": "http://mp3splt.sourceforge.net"
+    "Homepage": "https://mp3splt.sourceforge.net"
   },
   {
     "Package": "mp3wrap",
-    "Version": "0.5",
+    "Version": "0.5-2",
     "Description": "A command-line utility that wraps quickly two or more mp3 files in one single large playable mp3",
     "Homepage": "https://mp3wrap.sourceforge.net/"
   },
   {
     "Package": "mpc",
-    "Version": "0.35",
+    "Version": "0.35-2",
     "Description": "Minimalist command line interface for MPD",
     "Homepage": "https://www.musicpd.org/clients/mpc/"
   },
@@ -10141,25 +10297,25 @@
   },
   {
     "Package": "mpv",
-    "Version": "0.40.0",
+    "Version": "0.40.0-1",
     "Description": "Command-line media player",
     "Homepage": "https://mpv.io/"
   },
   {
     "Package": "mruby",
-    "Version": "3.4.0",
+    "Version": "3.4.0-1",
     "Description": "Lightweight implementation of the Ruby language",
     "Homepage": "https://mruby.org/"
   },
   {
     "Package": "mruby-static",
-    "Version": "3.4.0",
+    "Version": "3.4.0-1",
     "Description": "Static libraries for mruby",
     "Homepage": "https://mruby.org/"
   },
   {
     "Package": "msitools",
-    "Version": "0.106",
+    "Version": "0.106-1",
     "Description": "Set of programs to inspect and build Windows Installer (.MSI) files",
     "Homepage": "https://gitlab.gnome.org/GNOME/msitools"
   },
@@ -10171,55 +10327,55 @@
   },
   {
     "Package": "mtd-utils",
-    "Version": "2.3.0",
+    "Version": "2.3.0-1",
     "Description": "Utilities for dealing with MTD devices",
     "Homepage": "http://www.linux-mtd.infradead.org/"
   },
   {
     "Package": "mtools",
-    "Version": "4.0.49",
+    "Version": "4.0.49-1",
     "Description": "Tool for manipulating FAT images",
     "Homepage": "https://www.gnu.org/software/mtools/"
   },
   {
     "Package": "mu",
-    "Version": "1.12.12",
+    "Version": "1.12.12-1",
     "Description": "Maildir indexer/searcher and Emacs client (mu4e)",
     "Homepage": "https://www.djcbsoftware.nl/code/mu/"
   },
   {
     "Package": "muchsync",
-    "Version": "7-1",
+    "Version": "7-2",
     "Description": "Synchronize notmuch mail across machines",
     "Homepage": "http://www.muchsync.org/"
   },
   {
     "Package": "multitail",
-    "Version": "7.1.5",
+    "Version": "7.1.5-2",
     "Description": "Tool to monitor logfiles and command output in multiple windows in a terminal, colorize, filter and merge",
     "Homepage": "http://www.vanheusden.com/multitail/"
   },
   {
     "Package": "mupdf",
-    "Version": "1.24.10",
+    "Version": "1.24.10-2",
     "Description": "Lightweight PDF and XPS viewer (library)",
     "Homepage": "https://mupdf.com/"
   },
   {
     "Package": "mupdf-static",
-    "Version": "1.24.10",
+    "Version": "1.24.10-2",
     "Description": "Static libraries for mupdf",
     "Homepage": "https://mupdf.com/"
   },
   {
     "Package": "mupdf-tools",
-    "Version": "1.24.10",
+    "Version": "1.24.10-2",
     "Description": "Lightweight PDF and XPS viewer (utilities)",
     "Homepage": "https://mupdf.com/"
   },
   {
     "Package": "music-file-organizer",
-    "Version": "1.0.4-7",
+    "Version": "1.0.4-9",
     "Description": "Organizer of audio files into directories based on metadata tags",
     "Homepage": "https://git.zx2c4.com/music-file-organizer/about/"
   },
@@ -10255,13 +10411,13 @@
   },
   {
     "Package": "n-t-roff-sc",
-    "Version": "7.16-1.1.3-0",
+    "Version": "7.16-1.1.3-2",
     "Description": "A vi-like spreadsheet calculator",
     "Homepage": "https://github.com/n-t-roff/sc"
   },
   {
     "Package": "n2n",
-    "Version": "3.1.1",
+    "Version": "3.1.1-1",
     "Description": "A light VPN software",
     "Homepage": "https://github.com/ntop/n2n"
   },
@@ -10273,7 +10429,7 @@
   },
   {
     "Package": "nali",
-    "Version": "0.8.1",
+    "Version": "0.8.1-1",
     "Description": "An offline tool for querying IP geographic information and CDN provider",
     "Homepage": "https://github.com/zu1k/nali"
   },
@@ -10285,43 +10441,43 @@
   },
   {
     "Package": "nasm",
-    "Version": "2.16.03",
+    "Version": "2.16.03-1",
     "Description": "A cross-platform x86 assembler with an Intel-like syntax",
     "Homepage": "https://nasm.us"
   },
   {
     "Package": "natpmpc",
-    "Version": "20230423-1",
+    "Version": "20230423-2",
     "Description": "Portable and fully compliant implementation of NAT-PMP",
     "Homepage": "https://miniupnp.tuxfamily.org/libnatpmp.html"
   },
   {
     "Package": "natpmpc-static",
-    "Version": "20230423-1",
+    "Version": "20230423-2",
     "Description": "Static libraries for natpmpc",
     "Homepage": "https://miniupnp.tuxfamily.org/libnatpmp.html"
   },
   {
     "Package": "navi",
-    "Version": "2.24.0",
+    "Version": "2.24.0-1",
     "Description": "An interactive cheatsheet tool for the command-line",
     "Homepage": "https://github.com/denisidoro/navi"
   },
   {
     "Package": "navidrome",
-    "Version": "0.58.0",
+    "Version": "0.58.0-1",
     "Description": "🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic",
     "Homepage": "https://www.navidrome.org/"
   },
   {
     "Package": "ncdc",
-    "Version": "1.25",
+    "Version": "1.25-1",
     "Description": "Modern and lightweight direct connect client with a friendly ncurses interface",
     "Homepage": "https://dev.yorhel.nl/ncdc"
   },
   {
     "Package": "ncdu",
-    "Version": "1.22",
+    "Version": "1.22-1",
     "Description": "Disk usage analyzer",
     "Homepage": "https://dev.yorhel.nl/ncdu"
   },
@@ -10333,7 +10489,7 @@
   },
   {
     "Package": "ncftp",
-    "Version": "3.3.0",
+    "Version": "3.3.0-1",
     "Description": "A free set of programs that use the File Transfer Protocol",
     "Homepage": "https://www.ncftp.com/"
   },
@@ -10345,13 +10501,13 @@
   },
   {
     "Package": "ncompress",
-    "Version": "5.0",
+    "Version": "5.0-1",
     "Description": "The classic unix compression utility which can handle the ancient .Z archive",
     "Homepage": "https://github.com/vapier/ncompress"
   },
   {
     "Package": "ncpamixer",
-    "Version": "1.3.10",
+    "Version": "1.3.10-1",
     "Description": "An ncurses mixer for PulseAudio",
     "Homepage": "https://github.com/fulhax/ncpamixer"
   },
@@ -10393,19 +10549,19 @@
   },
   {
     "Package": "ndk-multilib",
-    "Version": "28c",
+    "Version": "28c-1",
     "Description": "Multilib binaries for cross-compilation",
     "Homepage": "https://developer.android.com/tools/sdk/ndk/index.html"
   },
   {
     "Package": "ndk-multilib-native-static",
-    "Version": "28c",
+    "Version": "28c-1",
     "Description": "Install native static libs from NDK",
     "Homepage": "https://developer.android.com/tools/sdk/ndk/index.html"
   },
   {
     "Package": "ndk-multilib-native-stubs",
-    "Version": "28c",
+    "Version": "28c-1",
     "Description": "Install native stubs for shared libs from NDK",
     "Homepage": "https://developer.android.com/tools/sdk/ndk/index.html"
   },
@@ -10423,7 +10579,7 @@
   },
   {
     "Package": "nelua",
-    "Version": "2024.01.13",
+    "Version": "2024.01.13-1",
     "Description": "Minimal, efficient, statically-typed and meta-programmable systems programming language",
     "Homepage": "https://nelua.io"
   },
@@ -10453,19 +10609,19 @@
   },
   {
     "Package": "nerdfix",
-    "Version": "0.4.2",
+    "Version": "0.4.2-1",
     "Description": "nerdfix helps you to find/fix obsolete Nerd Font icons in your project.",
     "Homepage": "https://github.com/loichyan/nerdfix"
   },
   {
     "Package": "net-snmp",
-    "Version": "5.9.4",
+    "Version": "5.9.4-1",
     "Description": "Various tools relating to the Simple Network Management Protocol",
     "Homepage": "http://www.net-snmp.org/"
   },
   {
     "Package": "net-snmp-static",
-    "Version": "5.9.4",
+    "Version": "5.9.4-1",
     "Description": "Static libraries for net-snmp",
     "Homepage": "http://www.net-snmp.org/"
   },
@@ -10477,7 +10633,7 @@
   },
   {
     "Package": "netcat-openbsd",
-    "Version": "1.229-1-3",
+    "Version": "1.229-1-4",
     "Description": "TCP/IP swiss army knife. OpenBSD variant.",
     "Homepage": "https://packages.debian.org/sid/netcat-openbsd"
   },
@@ -10495,13 +10651,13 @@
   },
   {
     "Package": "nethack",
-    "Version": "3.6.7",
+    "Version": "3.6.7-1",
     "Description": "Dungeon crawl game",
     "Homepage": "http://www.nethack.org/"
   },
   {
     "Package": "netpbm",
-    "Version": "1:10.73.43-4",
+    "Version": "1:10.73.43-5",
     "Description": "Toolkit for manipulation of graphic images of different formats",
     "Homepage": "https://netpbm.sourceforge.net/"
   },
@@ -10549,7 +10705,7 @@
   },
   {
     "Package": "ngircd",
-    "Version": "27",
+    "Version": "27-1",
     "Description": "Free, portable and lightweight Internet Relay Chat server",
     "Homepage": "https://ngircd.barton.de/"
   },
@@ -10561,7 +10717,7 @@
   },
   {
     "Package": "nim",
-    "Version": "2.2.4",
+    "Version": "2.2.4-1",
     "Description": "Nim programming language compiler",
     "Homepage": "https://nim-lang.org/"
   },
@@ -10573,9 +10729,9 @@
   },
   {
     "Package": "ninvaders",
-    "Version": "0.1.2-2",
+    "Version": "0.1.2-3",
     "Description": "Space Invaders clone based on ncurses for ASCII output",
-    "Homepage": "http://ninvaders.sourceforge.net"
+    "Homepage": "https://ninvaders.sourceforge.net"
   },
   {
     "Package": "nlohmann-json",
@@ -10585,7 +10741,7 @@
   },
   {
     "Package": "nlopt",
-    "Version": "2.10.0",
+    "Version": "2.10.0-1",
     "Description": "Library for nonlinear optimization",
     "Homepage": "https://nlopt.readthedocs.io/"
   },
@@ -10597,26 +10753,26 @@
   },
   {
     "Package": "nmh",
-    "Version": "1.8-1",
+    "Version": "1.8-2",
     "Description": "Powerful electronic mail handling system",
     "Homepage": "http://www.nongnu.org/nmh/"
   },
   {
     "Package": "nmon",
-    "Version": "16q",
+    "Version": "16q-2",
     "Description": "Curses based Performance Monitor for Linux with saving performance stats to a CSV file mode",
     "Homepage": "https://nmon.sourceforge.net/"
   },
   {
     "Package": "nnn",
-    "Version": "5.1",
+    "Version": "5.1-2",
     "Description": "Free, fast, friendly file browser",
     "Homepage": "https://github.com/jarun/nnn"
   },
   {
     "Package": "no-more-secrets",
-    "Version": "1.0.1-1",
-    "Description": "This project provides a command line tool called nms that recreates the famous data decryption effect.",
+    "Version": "1.0.1-3",
+    "Description": "This project provides a command line tool called nms that recreates the famous data decryption effect",
     "Homepage": "https://github.com/bartobri/no-more-secrets"
   },
   {
@@ -10633,19 +10789,19 @@
   },
   {
     "Package": "notcurses",
-    "Version": "3.0.16",
+    "Version": "3.0.16-2",
     "Description": "blingful TUIs and character graphics",
     "Homepage": "https://notcurses.com/"
   },
   {
     "Package": "notcurses-data",
-    "Version": "3.0.16",
+    "Version": "3.0.16-2",
     "Description": "Platform-independent data for notcurses",
     "Homepage": "https://notcurses.com/"
   },
   {
     "Package": "notcurses-tools",
-    "Version": "3.0.16",
+    "Version": "3.0.16-2",
     "Description": "Tools and demos for notcurses",
     "Homepage": "https://notcurses.com/"
   },
@@ -10657,25 +10813,25 @@
   },
   {
     "Package": "npush",
-    "Version": "0.7-1",
+    "Version": "0.7-2",
     "Description": "Curses-based logic game similar to Sokoban and Boulder Dash",
-    "Homepage": "http://npush.sourceforge.net/"
+    "Homepage": "https://npush.sourceforge.net/"
   },
   {
     "Package": "nsis",
-    "Version": "3.11",
+    "Version": "3.11-1",
     "Description": "A professional open source system to create Windows installers",
     "Homepage": "https://sourceforge.net/projects/nsis/"
   },
   {
     "Package": "nsis-stubs",
-    "Version": "3.11",
+    "Version": "3.11-1",
     "Description": "NSIS Stubs",
     "Homepage": "https://sourceforge.net/projects/nsis/"
   },
   {
     "Package": "nsnake",
-    "Version": "3.0.1-6",
+    "Version": "3.0.1-7",
     "Description": "The classic snake game with textual interface",
     "Homepage": "https://github.com/alexdantas/nSnake"
   },
@@ -10699,7 +10855,7 @@
   },
   {
     "Package": "nyancat",
-    "Version": "1.5.2",
+    "Version": "1.5.2-1",
     "Description": "Nyancat in your terminal, rendered through ANSI escape sequences.",
     "Homepage": "http://nyancat.dakko.us"
   },
@@ -10759,7 +10915,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "26.23.1",
+    "Version": "26.23.2",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -13303,7 +13459,7 @@
   },
   {
     "Package": "simdjson",
-    "Version": "3.13.0",
+    "Version": "4.0.0",
     "Description": "A C++ library to see how fast we can parse JSON with complete validation",
     "Homepage": "https://simdjson.org/"
   },
@@ -14755,7 +14911,7 @@
   },
   {
     "Package": "uchardet",
-    "Version": "0.0.8-1",
+    "Version": "0.0.8-2",
     "Description": "An encoding detector utility",
     "Homepage": "https://www.freedesktop.org/wiki/Software/uchardet/"
   },
@@ -15193,7 +15349,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "2025.09.11",
+    "Version": "2025.09.12",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://github.com/directvt/vtm"
   },
