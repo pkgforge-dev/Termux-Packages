@@ -7791,19 +7791,19 @@
   Description: A PHP tool for administering MySQL and MariaDB databases
   Homepage: https://www.phpmyadmin.net
 - Package: pianobar
-  Version: 2024.12.21
+  Version: 2024.12.21-1
   Description: pianobar is a free/open-source, console-based client for the personalized online radio Pandora.
   Homepage: https://6xq.net/pianobar/
 - Package: pick
-  Version: 4.0.0-2
+  Version: 4.0.0-3
   Description: Utility to choose one option from a set of choices with fuzzy search functionality
   Homepage: https://github.com/calleerlandsson/pick
 - Package: picocom
-  Version: 2018.04.12
+  Version: 2018.04.12-1
   Description: A minimal dumb-terminal emulation program
   Homepage: https://github.com/npat-efault/picocom
 - Package: pigz
-  Version: "2.8"
+  Version: 2.8-1
   Description: Parallel implementation of the gzip file compressor
   Homepage: https://www.zlib.net/pigz
 - Package: pinentry
@@ -7811,11 +7811,11 @@
   Description: Dialog allowing secure password entry
   Homepage: https://www.gnupg.org/related_software/pinentry/index.html
 - Package: pingme
-  Version: 0.2.6-3
+  Version: 0.2.6-4
   Description: A small utility which can be called from anywhere to send a message with particular information
   Homepage: https://github.com/kha7iq/pingme
 - Package: pipebuffer
-  Version: 0.0.git20211120
+  Version: 0.0.git20211120-1
   Description: Arbitrary-sized in-memory buffer between pipelined programs (non-blocking mbuffer analogue for pipeline)
   Homepage: https://github.com/tfenne/pipebuffer
 - Package: pipes.sh
@@ -7823,11 +7823,11 @@
   Description: Animated pipes terminal screensaver
   Homepage: https://github.com/pipeseroni/pipes.sh
 - Package: pipewire
-  Version: 1.2.7
+  Version: 1.2.7-1
   Description: A server and user space API to deal with multimedia pipelines
   Homepage: https://pipewire.org/
 - Package: pkg-config
-  Version: 0.29.2-2
+  Version: 0.29.2-3
   Description: Helper tool used when compiling applications and libraries
   Homepage: https://www.freedesktop.org/wiki/Software/pkg-config/
 - Package: pkgfile
@@ -7843,7 +7843,7 @@
   Description: Draws UML diagrams, using a simple and human readable text description
   Homepage: https://plantuml.com/
 - Package: play-audio
-  Version: 0.6-1
+  Version: 0.6-2
   Description: Simple command line audio player for Android
   Homepage: https://github.com/termux/play-audio
 - Package: plutolang
@@ -7851,11 +7851,11 @@
   Description: A superset of Lua 5.4 with a focus on general-purpose programming.
   Homepage: https://plutolang.github.io/
 - Package: plzip
-  Version: "1.12"
+  Version: 1.12-1
   Description: A massively parallel lossless data compressor based on the lzlib compression library
   Homepage: https://www.nongnu.org/lzip/plzip.html
 - Package: pngcrush
-  Version: 1.8.13-1
+  Version: 1.8.13-2
   Description: Recompresses png files
   Homepage: https://pmt.sourceforge.io/pngcrush/
 - Package: pngquant
@@ -8183,7 +8183,7 @@
   Description: Python bindings for Apache Arrow
   Homepage: https://github.com/apache/arrow
 - Package: python-pycryptodomex
-  Version: 3.23.0
+  Version: 3.23.0-1
   Description: A self-contained Python package of low-level cryptographic primitives
   Homepage: https://www.pycryptodome.org/
 - Package: python-pynvim
@@ -8195,11 +8195,11 @@
   Description: An extremely fast Python linter, written in Rust (Python bindings)
   Homepage: https://github.com/charliermarsh/ruff
 - Package: python-sabyenc3
-  Version: 8.2.6
+  Version: 8.2.6-1
   Description: C implementations of functions for use within SABnzbd
   Homepage: https://github.com/sabnzbd/sabctools
 - Package: python-skia-pathops
-  Version: 0.8.0-1
+  Version: 0.8.0-2
   Description: Python bindings for the Skia librarys Path Ops
   Homepage: https://github.com/fonttools/skia-pathops
 - Package: python-static
@@ -8227,11 +8227,11 @@
   Description: Static libraries for python-torch
   Homepage: https://pytorch.org/
 - Package: python-torchaudio
-  Version: 2.6.0
+  Version: 2.6.0-1
   Description: Data manipulation and transformation for audio signal processing, powered by PyTorch
   Homepage: https://github.com/pytorch/audio
 - Package: python-torchvision
-  Version: 0.21.0-1
+  Version: 0.21.0-2
   Description: Datasets, Transforms and Models specific to Computer Vision
   Homepage: https://github.com/pytorch/vision
 - Package: python-xcbgen
@@ -8247,11 +8247,11 @@
   Description: A youtube-dl fork with additional features and fixes
   Homepage: https://github.com/yt-dlp/yt-dlp
 - Package: python2
-  Version: 2.7.18-14
+  Version: 2.7.18-15
   Description: Python 2 programming language intended to enable clear programs
   Homepage: http://python.org/
 - Package: python2-static
-  Version: 2.7.18-14
+  Version: 2.7.18-15
   Description: Static libraries for python2
   Homepage: http://python.org/
 - Package: pyunbound
@@ -8355,19 +8355,19 @@
   Description: A set of utilities for working with the QEMU emulators
   Homepage: https://www.qemu.org
 - Package: qhull
-  Version: 8.1-alpha3-1
+  Version: 8.1-alpha3-2
   Description: Calculate convex hulls and related structures
   Homepage: http://www.qhull.org
 - Package: qhull-static
-  Version: 8.1-alpha3-1
+  Version: 8.1-alpha3-2
   Description: Static libraries for qhull
   Homepage: http://www.qhull.org
 - Package: qpdf
-  Version: 12.2.0
+  Version: 12.2.0-1
   Description: Content-Preserving PDF Transformation System
   Homepage: http://qpdf.sourceforge.net
 - Package: qpdf-static
-  Version: 12.2.0
+  Version: 12.2.0-1
   Description: Static libraries for qpdf
   Homepage: http://qpdf.sourceforge.net
 - Package: qrsspig
@@ -8475,7 +8475,7 @@
   Description: Remote incremental backup
   Homepage: https://github.com/librsync/librsync
 - Package: rdiff-backup
-  Version: 2.2.6-2
+  Version: 2.2.6-3
   Description: A utility for local/remote mirroring and incremental backups
   Homepage: https://rdiff-backup.net
 - Package: rdircd
@@ -8483,11 +8483,11 @@
   Description: A daemon that allows using a personal Discord account through an IRC client
   Homepage: https://github.com/mk-fg/reliable-discord-client-irc-daemon
 - Package: rdrview
-  Version: 1:0.1.4
+  Version: 1:0.1.4-1
   Description: Command line tool to extract the main content from a webpage
   Homepage: https://github.com/eafer/rdrview
 - Package: re2c
-  Version: "4.3"
+  Version: 4.3-1
   Description: Lexer generator for C, C++ and Go.
   Homepage: https://re2c.org/
 - Package: readline
@@ -8499,11 +8499,11 @@
   Description: Static libraries for readline
   Homepage: https://tiswww.case.edu/php/chet/readline/rltop.html
 - Package: recode
-  Version: 3.7.15
+  Version: 3.7.15-1
   Description: Charset converter tool and library
   Homepage: https://github.com/pinard/Recode
 - Package: recode-static
-  Version: 3.7.15
+  Version: 3.7.15-1
   Description: Static libraries for recode
   Homepage: https://github.com/pinard/Recode
 - Package: recoll
@@ -8515,19 +8515,19 @@
   Description: Python interface for Recoll
   Homepage: https://www.recoll.org/
 - Package: recutils
-  Version: "1.9"
+  Version: 1.9-1
   Description: Set of tools and libraries to access human-editable, plain text databases called recfiles
   Homepage: https://www.gnu.org/software/recutils/
 - Package: recutils-static
-  Version: "1.9"
+  Version: 1.9-1
   Description: Static libraries for recutils
   Homepage: https://www.gnu.org/software/recutils/
 - Package: redir
-  Version: 3.3-2
+  Version: 3.3-3
   Description: TCP port redirector for UNIX
   Homepage: https://github.com/troglobit/redir
 - Package: redis
-  Version: 1:7.2.5
+  Version: 1:7.2.5-1
   Description: In-memory data structure store used as a database, cache and message broker
   Homepage: https://redis.io/
 - Package: remind
@@ -8535,7 +8535,7 @@
   Description: Sophisticated calendar and alarm program
   Homepage: https://dianne.skoll.ca/projects/remind/
 - Package: renameutils
-  Version: 0.12.0-2
+  Version: 0.12.0-3
   Description: A set of programs designed to make renaming of files faster and less cumbersome
   Homepage: https://www.nongnu.org/renameutils/
 - Package: reptyr
@@ -9747,7 +9747,7 @@
   Description: The Onion Router anonymizing overlay network
   Homepage: https://www.torproject.org
 - Package: torchaudio-ffmpeg
-  Version: 2.6.0
+  Version: 2.6.0-1
   Description: Minimal FFmpeg libraries for python-torchaudio
   Homepage: https://github.com/pytorch/audio
 - Package: torsocks
