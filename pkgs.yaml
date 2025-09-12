@@ -8379,7 +8379,7 @@
   Description: Finds bugs in JavaScript programs
   Homepage: https://quick-lint-js.com/
 - Package: quickjs
-  Version: 1:20250426
+  Version: 1:20250426-1
   Description: QuickJS is a small and embeddable Javascript engine
   Homepage: https://bellard.org/quickjs/
 - Package: quilt
@@ -8403,15 +8403,15 @@
   Description: UNIX-like reverse engineering framework and command-line toolset
   Homepage: https://www.radare.org/
 - Package: rage
-  Version: 0.11.1
+  Version: 0.11.1-1
   Description: A simple, secure and modern encryption tool
   Homepage: https://age-encryption.org/v1
 - Package: ragel
-  Version: 7.0.4
+  Version: 7.0.4-1
   Description: Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: ragel-static
-  Version: 7.0.4
+  Version: 7.0.4-1
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
@@ -8431,7 +8431,7 @@
   Description: Fast JSON parser/generator for C++ with SAX/DOM style API
   Homepage: https://github.com/Tencent/rapidjson/
 - Package: ratt
-  Version: 2023.02.02-2
+  Version: 2023.02.02-3
   Description: A tool for converting websites to rss/atom feeds
   Homepage: https://git.sr.ht/~ghost08/ratt
 - Package: rav1e
@@ -8451,7 +8451,7 @@
   Description: An unofficial command line client for Bitwarden
   Homepage: https://github.com/doy/rbw
 - Package: rc
-  Version: 1.7.4-1
+  Version: 1.7.4-2
   Description: An alternative implementation of the plan 9 rc shell
   Homepage: https://github.com/rakitzis/rc
 - Package: rclone
@@ -8463,11 +8463,11 @@
   Description: Dotfiles management
   Homepage: https://github.com/thoughtbot/rcm
 - Package: rcs
-  Version: 5.10.1
+  Version: 5.10.1-1
   Description: The GNU Revision Control System
   Homepage: https://www.gnu.org/s/rcs
 - Package: rdfind
-  Version: 1.7.0
+  Version: 1.7.0-1
   Description: A tool for finding duplicate files
   Homepage: https://github.com/pauldreik/rdfind
 - Package: rdiff
