@@ -1300,7 +1300,7 @@
 | **libpsl** | 0.21.5-1 | Public Suffix List library | https://github.com/rockdaboot/libpsl |
 | **libpsl-static** | 0.21.5-1 | Static libraries for libpsl | https://github.com/rockdaboot/libpsl |
 | **libpugixml** | 1.15-1 | Light-weight, simple and fast XML parser for C++ with XPath support | https://pugixml.org/ |
-| **libqrencode** | 4.1.1-1 | Fast and compact library for encoding data in a QR Code symbol | https://fukuchi.org/works/qrencode/ |
+| **libqrencode** | 4.1.1-2 | Fast and compact library for encoding data in a QR Code symbol | https://fukuchi.org/works/qrencode/ |
 | **libqrencode-static** | 4.1.1-1 | Static libraries for libqrencode | https://fukuchi.org/works/qrencode/ |
 | **libraptor2** | 2.0.16-9 | RDF Syntax Library | https://librdf.org/raptor/ |
 | **libraptor2-static** | 2.0.16-9 | Static libraries for libraptor2 | https://librdf.org/raptor/ |
