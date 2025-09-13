@@ -3997,19 +3997,19 @@
   },
   {
     "Package": "harfbuzz",
-    "Version": "11.4.5",
+    "Version": "11.5.0",
     "Description": "OpenType text shaping engine",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-icu",
-    "Version": "11.4.5",
+    "Version": "11.5.0",
     "Description": "OpenType text shaping engine ICU backend",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-utils",
-    "Version": "11.4.5",
+    "Version": "11.5.0",
     "Description": "Tools using the harfbuzz library",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
@@ -4561,7 +4561,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.23.12",
+    "Version": "0.23.17",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -11293,7 +11293,7 @@
   },
   {
     "Package": "p11-kit",
-    "Version": "0.25.7",
+    "Version": "0.25.8",
     "Description": "Provides a way to load and enumerate PKCS#11 modules",
     "Homepage": "https://p11-glue.github.io/p11-glue/p11-kit.html"
   },
@@ -13459,7 +13459,7 @@
   },
   {
     "Package": "simdjson",
-    "Version": "4.0.0",
+    "Version": "4.0.1",
     "Description": "A C++ library to see how fast we can parse JSON with complete validation",
     "Homepage": "https://simdjson.org/"
   },
@@ -14245,7 +14245,7 @@
   },
   {
     "Package": "teleport-tsh",
-    "Version": "18.2.0",
+    "Version": "18.2.1",
     "Description": "Secure Access for Developers that doesnt get in the way",
     "Homepage": "https://github.com/gravitational/teleport"
   },
