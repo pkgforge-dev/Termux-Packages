@@ -547,7 +547,7 @@
   },
   {
     "Package": "at-spi2-core",
-    "Version": "2.56.4-1",
+    "Version": "2.56.5",
     "Description": "Assistive Technology Service Provider Interface (AT-SPI)",
     "Homepage": "https://wiki.gnome.org/Accessibility"
   },
@@ -3151,7 +3151,7 @@
   },
   {
     "Package": "gdk-pixbuf",
-    "Version": "2.44.0",
+    "Version": "2.44.1",
     "Description": "Library for image loading and manipulation",
     "Homepage": "https://wiki.gnome.org/Projects/GdkPixbuf"
   },
@@ -8713,7 +8713,7 @@
   },
   {
     "Package": "libvips",
-    "Version": "8.17.1-2",
+    "Version": "8.17.2",
     "Description": "A fast image processing library with low memory needs",
     "Homepage": "https://libvips.github.io/libvips/"
   },
@@ -9967,25 +9967,25 @@
   },
   {
     "Package": "mesa",
-    "Version": "25.1.5-1",
+    "Version": "25.1.5-2",
     "Description": "An open-source implementation of the OpenGL specification",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-dev",
-    "Version": "25.1.5-1",
+    "Version": "25.1.5-2",
     "Description": "Mesas OpenGL headers",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-opencl-icd-rusticl",
-    "Version": "25.1.5-1",
+    "Version": "25.1.5-2",
     "Description": "Mesas Rusticl OpenCL ICD",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-vulkan-icd-swrast",
-    "Version": "25.1.5-1",
+    "Version": "25.1.5-2",
     "Description": "Mesas Swrast Vulkan ICD",
     "Homepage": "https://www.mesa3d.org"
   },
@@ -10915,7 +10915,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "26.23.3",
+    "Version": "26.23.4",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
