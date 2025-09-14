@@ -3127,7 +3127,7 @@
   },
   {
     "Package": "gdb",
-    "Version": "15.2",
+    "Version": "16.3",
     "Description": "The standard GNU Debugger that runs on many Unix-like systems and works for many programming languages",
     "Homepage": "https://www.gnu.org/software/gdb/"
   },
@@ -3145,7 +3145,7 @@
   },
   {
     "Package": "gdbserver",
-    "Version": "15.2",
+    "Version": "16.3",
     "Description": "The gdbserver program",
     "Homepage": "https://www.gnu.org/software/gdb/"
   },
@@ -13591,25 +13591,25 @@
   },
   {
     "Package": "socat",
-    "Version": "1.8.0.3",
+    "Version": "1.8.0.3-1",
     "Description": "Relay for bidirectional data transfer between two independent data channels",
     "Homepage": "http://www.dest-unreach.org/socat/"
   },
   {
     "Package": "softether-vpn",
-    "Version": "5.02.5180-4",
+    "Version": "5.02.5180-5",
     "Description": "An open-source cross-platform multi-protocol VPN program",
     "Homepage": "https://www.softether.org/"
   },
   {
     "Package": "softether-vpn-static",
-    "Version": "5.02.5180-4",
+    "Version": "5.02.5180-5",
     "Description": "Static libraries for softether-vpn",
     "Homepage": "https://www.softether.org/"
   },
   {
     "Package": "soju",
-    "Version": "0.9.0",
+    "Version": "0.9.0-1",
     "Description": "A user-friendly IRC bouncer",
     "Homepage": "https://codeberg.org/emersion/soju"
   },
@@ -13621,49 +13621,49 @@
   },
   {
     "Package": "sops",
-    "Version": "3.10.2",
+    "Version": "3.10.2-1",
     "Description": "Simple and flexible tool for managing secrets",
     "Homepage": "https://github.com/getsops/sops"
   },
   {
     "Package": "sord",
-    "Version": "0.16.18",
+    "Version": "0.16.18-1",
     "Description": "A lightweight C library for storing RDF data in memory",
     "Homepage": "https://drobilla.net/software/sord.html"
   },
   {
     "Package": "sox",
-    "Version": "14.4.2-27",
+    "Version": "14.4.2-28",
     "Description": "Command line utility for converting between and applying effects to various audio files formats",
     "Homepage": "https://sox.sourceforge.net/"
   },
   {
     "Package": "sox-static",
-    "Version": "14.4.2-27",
+    "Version": "14.4.2-28",
     "Description": "Static libraries for sox",
     "Homepage": "https://sox.sourceforge.net/"
   },
   {
     "Package": "spatialite-tools",
-    "Version": "5.0.1-4",
+    "Version": "5.0.1-5",
     "Description": "Collection of tools supporting SpatiaLite",
     "Homepage": "https://www.gaia-gis.it/fossil/spatialite-tools"
   },
   {
     "Package": "speechd",
-    "Version": "0.11.5-1",
+    "Version": "0.11.5-2",
     "Description": "Common interface to speech synthesis",
     "Homepage": "https://github.com/brailcom/speechd"
   },
   {
     "Package": "speechd-data",
-    "Version": "0.11.5-1",
+    "Version": "0.11.5-2",
     "Description": "Platform-independent data for speechd",
     "Homepage": "https://github.com/brailcom/speechd"
   },
   {
     "Package": "speedtest-go",
-    "Version": "1.7.10",
+    "Version": "1.7.10-1",
     "Description": "Command line interface to test internet speed using speedtest.net",
     "Homepage": "https://github.com/showwin/speedtest-go/"
   },
@@ -13675,31 +13675,31 @@
   },
   {
     "Package": "speexdsp",
-    "Version": "1.2.1",
+    "Version": "1.2.1-1",
     "Description": "Speex audio processing library",
     "Homepage": "https://speex.org/"
   },
   {
     "Package": "speexdsp-static",
-    "Version": "1.2.1",
+    "Version": "1.2.1-1",
     "Description": "Static libraries for speexdsp",
     "Homepage": "https://speex.org/"
   },
   {
     "Package": "spglib",
-    "Version": "2.6.0",
+    "Version": "2.6.0-1",
     "Description": "C library for finding and handling crystal symmetries",
     "Homepage": "https://spglib.github.io/spglib/index.html"
   },
   {
     "Package": "spidermonkey",
-    "Version": "128.10.0",
+    "Version": "128.10.0-1",
     "Description": "Mozillas JavaScript engine",
     "Homepage": "https://spidermonkey.dev"
   },
   {
     "Package": "spiped",
-    "Version": "1.6.4",
+    "Version": "1.6.4-1",
     "Description": "a utility for creating symmetrically encrypted and authenticated pipes between socket addresses",
     "Homepage": "https://www.tarsnap.com/spiped.html"
   },
@@ -13717,19 +13717,19 @@
   },
   {
     "Package": "spirv-tools",
-    "Version": "1.4.321.0-1",
+    "Version": "1.4.321.0-2",
     "Description": "SPIR-V Tools",
     "Homepage": "https://github.com/KhronosGroup/SPIRV-Tools"
   },
   {
     "Package": "sqlcipher",
-    "Version": "4.6.1",
+    "Version": "4.6.1-1",
     "Description": "SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files",
     "Homepage": "https://github.com/sqlcipher/sqlcipher"
   },
   {
     "Package": "sqlcipher-static",
-    "Version": "4.6.1",
+    "Version": "4.6.1-1",
     "Description": "Static libraries for sqlcipher",
     "Homepage": "https://github.com/sqlcipher/sqlcipher"
   },
@@ -13741,39 +13741,39 @@
   },
   {
     "Package": "squashfs-tools-ng",
-    "Version": "1.3.2",
+    "Version": "1.3.2-1",
     "Description": "New set of tools for working with SquashFS images",
     "Homepage": "https://github.com/AgentD/squashfs-tools-ng"
   },
   {
     "Package": "squashfs-tools-ng-static",
-    "Version": "1.3.2",
+    "Version": "1.3.2-1",
     "Description": "Static libraries for squashfs-tools-ng",
     "Homepage": "https://github.com/AgentD/squashfs-tools-ng"
   },
   {
     "Package": "squeezelite",
-    "Version": "2.0.0.1517-1",
+    "Version": "2.0.0.1517-2",
     "Description": "A small headless Logitech Squeezebox emulator",
     "Homepage": "https://ralph-irving.github.io/squeezelite.html"
   },
   {
     "Package": "squid",
-    "Version": "7.1",
+    "Version": "7.1-1",
     "Description": "Full-featured Web proxy cache server",
     "Homepage": "http://www.squid-cache.org"
   },
   {
     "Package": "sratom",
-    "Version": "0.6.18",
+    "Version": "0.6.18-1",
     "Description": "A small library for serialising LV2 atoms to and from RDF",
     "Homepage": "https://drobilla.net/software/sratom.html"
   },
   {
     "Package": "srelay",
-    "Version": "0.4.8p3-7",
+    "Version": "0.4.8p3-8",
     "Description": "A Free SOCKS proxy server",
-    "Homepage": "https://sourceforge.net/projects/socks-relay"
+    "Homepage": "https://sourceforge.net/projects/socks-relay/"
   },
   {
     "Package": "srt-tools",
@@ -14455,7 +14455,7 @@
   },
   {
     "Package": "tgpt",
-    "Version": "2.10.0",
+    "Version": "2.10.0-1",
     "Description": "AI Chatbots in terminal without needing API keys",
     "Homepage": "https://github.com/aandrew-me/tgpt"
   },
@@ -14467,25 +14467,25 @@
   },
   {
     "Package": "tidy",
-    "Version": "5.9.14-next-2",
+    "Version": "5.9.14-next-3",
     "Description": "A tool to tidy down your HTML code to a clean style",
     "Homepage": "http://www.html-tidy.org/"
   },
   {
     "Package": "tidy-static",
-    "Version": "5.9.14-next-2",
+    "Version": "5.9.14-next-3",
     "Description": "Static libraries for tidy",
     "Homepage": "http://www.html-tidy.org/"
   },
   {
     "Package": "tig",
-    "Version": "2.5.12",
+    "Version": "2.5.12-1",
     "Description": "Ncurses-based text-mode interface for git",
     "Homepage": "https://jonas.github.io/tig/"
   },
   {
     "Package": "tilde",
-    "Version": "1.1.3-1",
+    "Version": "1.1.3-2",
     "Description": "A text editor for the console/terminal",
     "Homepage": "https://os.ghalkes.nl/tilde/"
   },
@@ -14569,13 +14569,13 @@
   },
   {
     "Package": "tk",
-    "Version": "8.6.14",
+    "Version": "8.6.14-1",
     "Description": "A windowing toolkit for use with tcl",
     "Homepage": "https://tcl.sourceforge.net/"
   },
   {
     "Package": "tmate",
-    "Version": "2.4.0-2",
+    "Version": "2.4.0-3",
     "Description": "Terminal multiplexer with instant terminal sharing",
     "Homepage": "https://tmate.io"
   },
@@ -14587,13 +14587,13 @@
   },
   {
     "Package": "toilet",
-    "Version": "0.3-2",
+    "Version": "0.3-3",
     "Description": "FIGlet-compatible display of large colourful characters in text mode",
     "Homepage": "http://caca.zoy.org/wiki/toilet"
   },
   {
     "Package": "tokei",
-    "Version": "13.0.0-alpha.9-0",
+    "Version": "13.0.0-alpha.9-1",
     "Description": "A blazingly fast CLOC (Count Lines Of Code) program",
     "Homepage": "https://github.com/XAMPPRocky/tokei"
   },
@@ -14701,7 +14701,7 @@
   },
   {
     "Package": "tree-sitter-markdown",
-    "Version": "0.5.0-3",
+    "Version": "0.5.0-4",
     "Description": "Markdown grammar for tree-sitter",
     "Homepage": "https://github.com/tree-sitter-grammars/tree-sitter-markdown"
   },
@@ -14725,49 +14725,49 @@
   },
   {
     "Package": "tree-sitter-vim",
-    "Version": "0.7.0",
+    "Version": "0.7.0-1",
     "Description": "Vimscript grammar for tree-sitter",
     "Homepage": "https://github.com/tree-sitter-grammars/tree-sitter-vim"
   },
   {
     "Package": "tree-sitter-vim-static",
-    "Version": "0.7.0",
+    "Version": "0.7.0-1",
     "Description": "Static libraries for tree-sitter-vim",
     "Homepage": "https://github.com/tree-sitter-grammars/tree-sitter-vim"
   },
   {
     "Package": "tree-sitter-vimdoc",
-    "Version": "4.0.0-2",
+    "Version": "4.0.0-3",
     "Description": "Tree-sitter parser for Vim help files",
     "Homepage": "https://github.com/neovim/tree-sitter-vimdoc"
   },
   {
     "Package": "tree-sitter-vimdoc-static",
-    "Version": "4.0.0-2",
+    "Version": "4.0.0-3",
     "Description": "Static libraries for tree-sitter-vimdoc",
     "Homepage": "https://github.com/neovim/tree-sitter-vimdoc"
   },
   {
     "Package": "trojan-go",
-    "Version": "0.10.6-3",
+    "Version": "0.10.6-4",
     "Description": "A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW",
     "Homepage": "https://p4gefau1t.github.io/trojan-go"
   },
   {
     "Package": "trurl",
-    "Version": "0.16.1",
+    "Version": "0.16.1-1",
     "Description": "trurl is a command line tool that parses and manipulates URLs",
     "Homepage": "https://curl.se/trurl/"
   },
   {
     "Package": "trzsz-go",
-    "Version": "1.1.8",
+    "Version": "1.1.8-1",
     "Description": "A simple file transfer tools, similar to lrzsz ( rz / sz )",
     "Homepage": "https://trzsz.github.io/"
   },
   {
     "Package": "trzsz-ssh",
-    "Version": "0.1.22",
+    "Version": "0.1.22-1",
     "Description": "An openssh client alternative",
     "Homepage": "https://trzsz.github.io/ssh"
   },
@@ -14797,7 +14797,7 @@
   },
   {
     "Package": "tsocks",
-    "Version": "1.8beta5-4",
+    "Version": "1.8beta5-5",
     "Description": "transparent network access through a SOCKS 4 or 5 proxy",
     "Homepage": "http://tsocks.sf.net"
   },
@@ -14815,43 +14815,43 @@
   },
   {
     "Package": "tty-clock",
-    "Version": "2.3-1",
+    "Version": "2.3-2",
     "Description": "Simple terminal clock",
     "Homepage": "https://github.com/xorg62/tty-clock"
   },
   {
     "Package": "tty-solitaire",
-    "Version": "1.4.1",
+    "Version": "1.4.1-1",
     "Description": "Klondike solitaire game",
     "Homepage": "https://github.com/mpereira/tty-solitaire"
   },
   {
     "Package": "ttyc",
-    "Version": "0.4-3",
+    "Version": "0.4-4",
     "Description": "ttyd protocol client",
     "Homepage": "https://github.com/Depau/ttyc"
   },
   {
     "Package": "ttyd",
-    "Version": "1.7.7-1",
+    "Version": "1.7.7-2",
     "Description": "Command-line tool for sharing terminal over the web",
     "Homepage": "https://tsl0922.github.io/ttyd/"
   },
   {
     "Package": "ttyper",
-    "Version": "1.6.0",
+    "Version": "1.6.0-1",
     "Description": "Terminal-based typing test",
     "Homepage": "https://github.com/max-niederman/ttyper"
   },
   {
     "Package": "ttyplot",
-    "Version": "1.7.1",
+    "Version": "1.7.1-1",
     "Description": "A realtime plotting utility for terminal with data input from stdin",
     "Homepage": "https://github.com/tenox7/ttyplot"
   },
   {
     "Package": "ttyrec",
-    "Version": "1.0.8-7",
+    "Version": "1.0.8-8",
     "Description": "Terminal recorder and player",
     "Homepage": "http://0xcc.net/ttyrec/"
   },
@@ -14869,19 +14869,19 @@
   },
   {
     "Package": "tut",
-    "Version": "2.0.1-2",
+    "Version": "2.0.1-3",
     "Description": "A TUI for Mastodon with vim inspired keys",
     "Homepage": "https://github.com/RasmusLindroth/tut"
   },
   {
     "Package": "tvheadend",
-    "Version": "4.2.8-11",
+    "Version": "4.2.8-12",
     "Description": "TV streaming server for Linux and Android supporting DVB-S, DVB-S2 and other formats.",
     "Homepage": "https://tvheadend.org/"
   },
   {
     "Package": "tvheadend-data",
-    "Version": "4.2.8-11",
+    "Version": "4.2.8-12",
     "Description": "Platform-independent data for tvheadend",
     "Homepage": "https://tvheadend.org/"
   },
@@ -14899,13 +14899,13 @@
   },
   {
     "Package": "typst",
-    "Version": "0.13.1",
+    "Version": "0.13.1-1",
     "Description": "A new markup-based typesetting system that is powerful and easy to learn",
     "Homepage": "https://typst.app/"
   },
   {
     "Package": "typstfmt",
-    "Version": "0.2.10",
+    "Version": "0.2.10-1",
     "Description": "basic formatter for the Typst language",
     "Homepage": "https://github.com/astrale-sharp/typstfmt"
   },
@@ -14917,7 +14917,7 @@
   },
   {
     "Package": "udftools",
-    "Version": "2.3",
+    "Version": "2.3-1",
     "Description": "Linux tools for UDF filesystems and DVD/CD-R(W) drives",
     "Homepage": "https://github.com/pali/udftools"
   },
@@ -15019,7 +15019,7 @@
   },
   {
     "Package": "unshield",
-    "Version": "1.6.2",
+    "Version": "1.6.2-1",
     "Description": "Tool and library to extract CAB files from InstallShield installers",
     "Homepage": "https://github.com/twogood/unshield"
   },
@@ -15031,7 +15031,7 @@
   },
   {
     "Package": "up",
-    "Version": "0.4-3",
+    "Version": "0.4-4",
     "Description": "Helps interactively and incrementally explore textual data in Linux",
     "Homepage": "https://github.com/akavel/up"
   },
@@ -15049,13 +15049,13 @@
   },
   {
     "Package": "upx",
-    "Version": "5.0.2",
+    "Version": "5.0.2-1",
     "Description": "the Ultimate Packer for eXecutables",
     "Homepage": "https://upx.github.io/"
   },
   {
     "Package": "urdfdom",
-    "Version": "5.0.2",
+    "Version": "5.0.2-1",
     "Description": "Unified Robot Description Format (URDF) parser library and tools",
     "Homepage": "https://github.com/ros/urdfdom"
   },
@@ -15067,7 +15067,7 @@
   },
   {
     "Package": "usql",
-    "Version": "0.19.25",
+    "Version": "0.19.25-1",
     "Description": "A universal command-line interface for SQL databases",
     "Homepage": "https://github.com/xo/usql"
   },
@@ -15091,7 +15091,7 @@
   },
   {
     "Package": "utfdecode",
-    "Version": "0.3.4-6",
+    "Version": "0.3.4-7",
     "Description": "Tool for decoding, encoding and debugging unicode",
     "Homepage": "https://github.com/fornwall/utfdecode"
   },
@@ -15115,7 +15115,7 @@
   },
   {
     "Package": "uucp",
-    "Version": "1.07-1",
+    "Version": "1.07-2",
     "Description": "The standard UUCP package of the Free Software Foundation",
     "Homepage": "https://www.airs.com/ian/uucp.html"
   },
@@ -15133,7 +15133,7 @@
   },
   {
     "Package": "uwsgi",
-    "Version": "2.0.30",
+    "Version": "2.0.30-1",
     "Description": "uWSGI application server container",
     "Homepage": "https://projects.unbit.it/uwsgi"
   },
@@ -15145,31 +15145,31 @@
   },
   {
     "Package": "valac",
-    "Version": "0.56.18",
+    "Version": "0.56.18-1",
     "Description": "C# like language for the GObject system",
     "Homepage": "https://wiki.gnome.org/Projects/Vala"
   },
   {
     "Package": "valac-static",
-    "Version": "0.56.18",
+    "Version": "0.56.18-1",
     "Description": "Static libraries for valac",
     "Homepage": "https://wiki.gnome.org/Projects/Vala"
   },
   {
     "Package": "valadoc",
-    "Version": "0.56.18",
+    "Version": "0.56.18-1",
     "Description": "API documentation generator for vala",
     "Homepage": "https://wiki.gnome.org/Projects/Vala"
   },
   {
     "Package": "valadoc-static",
-    "Version": "0.56.18",
+    "Version": "0.56.18-1",
     "Description": "Static libraries for valadoc",
     "Homepage": "https://wiki.gnome.org/Projects/Vala"
   },
   {
     "Package": "vale",
-    "Version": "3.12.0",
+    "Version": "3.12.0-1",
     "Description": "A syntax-aware linter for prose built with speed and extensibility in mind",
     "Homepage": "https://vale.sh"
   },
@@ -15187,31 +15187,31 @@
   },
   {
     "Package": "vamp-plugin-sdk",
-    "Version": "2.10-2",
+    "Version": "2.10-3",
     "Description": "An API for audio analysis and feature extraction plugins",
     "Homepage": "https://www.vamp-plugins.org/"
   },
   {
     "Package": "vamp-plugin-sdk-static",
-    "Version": "2.10-2",
+    "Version": "2.10-3",
     "Description": "Static libraries for vamp-plugin-sdk",
     "Homepage": "https://www.vamp-plugins.org/"
   },
   {
     "Package": "vapoursynth",
-    "Version": "72",
+    "Version": "72-1",
     "Description": "Video processing framework with simplicity in mind",
     "Homepage": "https://www.vapoursynth.com/"
   },
   {
     "Package": "vapoursynth-static",
-    "Version": "72",
+    "Version": "72-1",
     "Description": "Static libraries for vapoursynth",
     "Homepage": "https://www.vapoursynth.com/"
   },
   {
     "Package": "vbindiff",
-    "Version": "3.0-beta5-0",
+    "Version": "3.0-beta5-1",
     "Description": "Visual binary diff",
     "Homepage": "https://www.cjmweb.net/vbindiff/"
   },
@@ -15223,19 +15223,19 @@
   },
   {
     "Package": "vde2",
-    "Version": "2.3.3-4",
+    "Version": "2.3.3-5",
     "Description": "Virtual Distributed Ethernet for emulators like qemu",
     "Homepage": "https://github.com/virtualsquare/vde-2"
   },
   {
     "Package": "vde2-static",
-    "Version": "2.3.3-4",
+    "Version": "2.3.3-5",
     "Description": "Static libraries for vde2",
     "Homepage": "https://github.com/virtualsquare/vde-2"
   },
   {
     "Package": "vegeta",
-    "Version": "12.12.0",
+    "Version": "12.12.0-1",
     "Description": "HTTP load testing tool",
     "Homepage": "https://github.com/tsenart/vegeta"
   },
@@ -15247,31 +15247,31 @@
   },
   {
     "Package": "vgmstream",
-    "Version": "2023-1",
+    "Version": "2023-2",
     "Description": "A library for playback of various streamed audio formats used in video games",
     "Homepage": "https://github.com/vgmstream/vgmstream"
   },
   {
     "Package": "vgmtools",
-    "Version": "2023.01.27",
+    "Version": "2023.01.27-1",
     "Description": "A collection of tools for the VGM file format",
     "Homepage": "https://github.com/vgmrips/vgmtools"
   },
   {
     "Package": "viddy",
-    "Version": "1.3.0-1",
+    "Version": "1.3.0-2",
     "Description": "A modern watch command",
     "Homepage": "https://github.com/sachaos/viddy"
   },
   {
     "Package": "vifm",
-    "Version": "0.14.3",
+    "Version": "0.14.3-1",
     "Description": "File manager with vi like keybindings",
     "Homepage": "https://vifm.info/"
   },
   {
     "Package": "vile",
-    "Version": "9.8z",
+    "Version": "9.8z-1",
     "Description": "VI Like Emacs - vi work-alike",
     "Homepage": "https://invisible-island.net/vile/"
   },
@@ -15289,13 +15289,13 @@
   },
   {
     "Package": "virglrenderer-android",
-    "Version": "1.0.1-3",
+    "Version": "1.0.1-4",
     "Description": "A virtual 3D GPU for use inside qemu virtual machines over OpenGLES libraries on Android",
     "Homepage": "https://virgil3d.github.io/"
   },
   {
     "Package": "virustotal-cli",
-    "Version": "1.1.1",
+    "Version": "1.1.1-1",
     "Description": "Command line interface for VirusTotal",
     "Homepage": "https://github.com/VirusTotal/vt-cli"
   },
@@ -15307,19 +15307,19 @@
   },
   {
     "Package": "vitetris",
-    "Version": "0.59.1-3",
+    "Version": "0.59.1-4",
     "Description": "Virtual terminal *tris clone",
     "Homepage": "http://victornils.net/tetris/"
   },
   {
     "Package": "viu",
-    "Version": "1.5.1",
+    "Version": "1.5.1-1",
     "Description": "Terminal image viewer with native support for iTerm and Kitty",
     "Homepage": "https://github.com/atanunq/viu"
   },
   {
     "Package": "vivid",
-    "Version": "0.10.1",
+    "Version": "0.10.1-1",
     "Description": "A themeable LS_COLORS generator with a rich filetype datebase",
     "Homepage": "https://github.com/sharkdp/vivid"
   },
@@ -15337,13 +15337,13 @@
   },
   {
     "Package": "vobsub2srt",
-    "Version": "2017.12.18-3",
+    "Version": "2017.12.18-4",
     "Description": "A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR",
     "Homepage": "https://github.com/ruediger/VobSub2SRT"
   },
   {
     "Package": "vorbis-tools",
-    "Version": "1.4.3",
+    "Version": "1.4.3-1",
     "Description": "Ogg Vorbis tools",
     "Homepage": "https://github.com/xiph/vorbis-tools"
   },
@@ -15355,13 +15355,13 @@
   },
   {
     "Package": "vttest",
-    "Version": "20241208",
+    "Version": "20241208-1",
     "Description": "Program for testing the VT100 compatibility of terminal emulators",
     "Homepage": "https://invisible-island.net/vttest/"
   },
   {
     "Package": "vtutils",
-    "Version": "0.5-4",
+    "Version": "0.5-5",
     "Description": "Utilities for testing and working with virtual terminals",
     "Homepage": "https://github.com/fornwall/vtutils"
   },
@@ -15391,7 +15391,7 @@
   },
   {
     "Package": "vulkan-loader-android",
-    "Version": "28c",
+    "Version": "28c-1",
     "Description": "Vulkan Loader for Android",
     "Homepage": "https://source.android.com/devices/graphics/arch-vulkan"
   },
@@ -15439,7 +15439,7 @@
   },
   {
     "Package": "wabt",
-    "Version": "1.0.37",
+    "Version": "1.0.37-1",
     "Description": "The WebAssembly Binary Toolkit",
     "Homepage": "https://github.com/WebAssembly/wabt"
   },
@@ -15469,7 +15469,7 @@
   },
   {
     "Package": "watchexec",
-    "Version": "2.3.0",
+    "Version": "2.3.0-1",
     "Description": "Executes commands in response to file modifications",
     "Homepage": "https://github.com/watchexec/watchexec"
   },
@@ -15481,37 +15481,37 @@
   },
   {
     "Package": "waypipe",
-    "Version": "0.10.4",
+    "Version": "0.10.4-1",
     "Description": "A proxy for Wayland clients",
     "Homepage": "https://gitlab.freedesktop.org/mstoeckl/waypipe"
   },
   {
     "Package": "wcalc",
-    "Version": "2.5-5",
+    "Version": "2.5-6",
     "Description": "Capable calculator",
-    "Homepage": "http://w-calc.sourceforge.net"
+    "Homepage": "https://w-calc.sourceforge.net"
   },
   {
     "Package": "wdiff",
-    "Version": "1.2.2-1",
+    "Version": "1.2.2-2",
     "Description": "Display word differences between text files",
     "Homepage": "https://www.gnu.org/software/wdiff/"
   },
   {
     "Package": "webp-pixbuf-loader",
-    "Version": "0.2.7",
+    "Version": "0.2.7-1",
     "Description": "WebM GDK Pixbuf Loader library",
     "Homepage": "https://github.com/aruiz/webp-pixbuf-loader"
   },
   {
     "Package": "websocat",
-    "Version": "1.14.0-1",
+    "Version": "1.14.0-2",
     "Description": "Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions",
     "Homepage": "https://github.com/vi/websocat"
   },
   {
     "Package": "websocketd",
-    "Version": "0.4.1-3",
+    "Version": "0.4.1-4",
     "Description": "Turn any program that uses STDIN/STDOUT into a WebSocket server",
     "Homepage": "http://websocketd.com/"
   },
@@ -15547,13 +15547,13 @@
   },
   {
     "Package": "weggli",
-    "Version": "0.2.4-2",
+    "Version": "0.2.4-3",
     "Description": "A fast and robust semantic search tool for C and C++ codebases",
     "Homepage": "https://github.com/googleprojectzero/weggli"
   },
   {
     "Package": "wego",
-    "Version": "2.3",
+    "Version": "2.3-1",
     "Description": "weather app for the terminal",
     "Homepage": "https://github.com/schachmat/wego"
   },
@@ -15565,13 +15565,13 @@
   },
   {
     "Package": "wget2",
-    "Version": "2.2.0",
+    "Version": "2.2.0-1",
     "Description": "The successor of GNU Wget, a file and recursive website downloader",
     "Homepage": "https://gitlab.com/gnuwget/wget2"
   },
   {
     "Package": "wget2-static",
-    "Version": "2.2.0",
+    "Version": "2.2.0-1",
     "Description": "Static libraries for wget2",
     "Homepage": "https://gitlab.com/gnuwget/wget2"
   },
@@ -15583,7 +15583,7 @@
   },
   {
     "Package": "which",
-    "Version": "2.23",
+    "Version": "2.23-1",
     "Description": "Shows the full path of (shell) commands",
     "Homepage": "https://savannah.gnu.org/projects/which/"
   },
@@ -15595,43 +15595,43 @@
   },
   {
     "Package": "whitebox-tools",
-    "Version": "2.4.0",
+    "Version": "2.4.0-1",
     "Description": "An advanced geospatial data analysis platform",
     "Homepage": "https://github.com/jblindsay/whitebox-tools"
   },
   {
     "Package": "whois",
-    "Version": "5.6.3",
+    "Version": "5.6.3-1",
     "Description": "An intelligent Whois client",
     "Homepage": "https://github.com/rfc1036/whois"
   },
   {
     "Package": "wireguard-tools",
-    "Version": "1.0.20210914-2",
+    "Version": "1.0.20210914-3",
     "Description": "Tools for the WireGuard secure network tunnel",
     "Homepage": "https://www.wireguard.com"
   },
   {
     "Package": "wireproxy",
-    "Version": "1.0.10",
+    "Version": "1.0.10-1",
     "Description": "Wireguard client that exposes itself as a socks5 proxy",
     "Homepage": "https://github.com/pufferffish/wireproxy"
   },
   {
     "Package": "wiz",
-    "Version": "2022.06.02",
+    "Version": "2022.06.02-1",
     "Description": "A high-level assembly language for writing homebrew software for retro console platforms",
     "Homepage": "http://wiz-lang.org/"
   },
   {
     "Package": "woff2",
-    "Version": "1.0.2-3",
+    "Version": "1.0.2-4",
     "Description": "font compression reference code",
     "Homepage": "https://www.w3.org/TR/WOFF2/"
   },
   {
     "Package": "wol",
-    "Version": "0.7.1-3",
+    "Version": "0.7.1-4",
     "Description": "Program implementing Wake On LAN functionality",
     "Homepage": "https://sourceforge.net/projects/wake-on-lan/"
   },
@@ -15643,13 +15643,13 @@
   },
   {
     "Package": "wren",
-    "Version": "0.4.0-1",
+    "Version": "0.4.0-2",
     "Description": "Small, fast, class-based concurrent scripting language interpreter",
     "Homepage": "https://wren.io/"
   },
   {
     "Package": "wrk",
-    "Version": "4.2.0",
+    "Version": "4.2.0-1",
     "Description": "Modern HTTP benchmarking tool",
     "Homepage": "https://github.com/wg/wrk"
   },
@@ -15661,7 +15661,7 @@
   },
   {
     "Package": "wuzz",
-    "Version": "0.5.0-4",
+    "Version": "0.5.0-5",
     "Description": "Interactive command line tool for HTTP inspection",
     "Homepage": "https://github.com/asciimoo/wuzz"
   },
@@ -15703,13 +15703,13 @@
   },
   {
     "Package": "xdelta3",
-    "Version": "3.1.0-2",
+    "Version": "3.1.0-3",
     "Description": "xdelta3 - VCDIFF (RFC 3284) binary diff tool",
     "Homepage": "https://github.com/jmacd/xdelta"
   },
   {
     "Package": "xh",
-    "Version": "0.24.1",
+    "Version": "0.24.1-1",
     "Description": "A friendly and fast tool for sending HTTP requests",
     "Homepage": "https://github.com/ducaale/xh"
   },
@@ -15727,31 +15727,31 @@
   },
   {
     "Package": "xmlsec",
-    "Version": "1.3.7-2",
+    "Version": "1.3.7-3",
     "Description": "XML Security Library",
     "Homepage": "https://www.aleksey.com/xmlsec/"
   },
   {
     "Package": "xmlsec-static",
-    "Version": "1.3.7-2",
+    "Version": "1.3.7-3",
     "Description": "Static libraries for xmlsec",
     "Homepage": "https://www.aleksey.com/xmlsec/"
   },
   {
     "Package": "xmlstarlet",
-    "Version": "1.6.1-7",
+    "Version": "1.6.1-8",
     "Description": "Command line XML toolkit",
     "Homepage": "https://xmlstar.sourceforge.net/"
   },
   {
     "Package": "xmlto",
-    "Version": "0.0.29-1",
+    "Version": "0.0.29-2",
     "Description": "Convert xml to many other formats",
     "Homepage": "https://pagure.io/xmlto/"
   },
   {
     "Package": "xmppc",
-    "Version": "0.1.2-2",
+    "Version": "0.1.2-3",
     "Description": "Command Line Interface Tool for XMPP",
     "Homepage": "https://codeberg.org/Anoxinon_e.V./xmppc"
   },
@@ -15769,7 +15769,7 @@
   },
   {
     "Package": "xorriso",
-    "Version": "1:1.5.7-2",
+    "Version": "1:1.5.7-3",
     "Description": "Tool for creating ISO files",
     "Homepage": "https://www.gnu.org/software/xorriso"
   },
@@ -15787,13 +15787,13 @@
   },
   {
     "Package": "xvidcore",
-    "Version": "1.3.7",
+    "Version": "1.3.7-1",
     "Description": "High performance and high quality MPEG-4 library",
     "Homepage": "https://www.xvid.com/"
   },
   {
     "Package": "xvidcore-static",
-    "Version": "1.3.7",
+    "Version": "1.3.7-1",
     "Description": "Static libraries for xvidcore",
     "Homepage": "https://www.xvid.com/"
   },
@@ -15841,13 +15841,13 @@
   },
   {
     "Package": "yara",
-    "Version": "4.5.4",
+    "Version": "4.5.4-1",
     "Description": "Tool aimed at helping malware researchers to identify and classify malware samples",
     "Homepage": "https://github.com/VirusTotal/yara"
   },
   {
     "Package": "yara-static",
-    "Version": "4.5.4",
+    "Version": "4.5.4-1",
     "Description": "Static libraries for yara",
     "Homepage": "https://github.com/VirusTotal/yara"
   },
@@ -15859,19 +15859,19 @@
   },
   {
     "Package": "yasm",
-    "Version": "1.3.0-6",
+    "Version": "1.3.0-7",
     "Description": "Assembler supporting the x86 and AMD64 instruction sets",
     "Homepage": "https://yasm.tortall.net/"
   },
   {
     "Package": "yasm-static",
-    "Version": "1.3.0-6",
+    "Version": "1.3.0-7",
     "Description": "Static libraries for yasm",
     "Homepage": "https://yasm.tortall.net/"
   },
   {
     "Package": "yazi",
-    "Version": "25.5.31-1",
+    "Version": "25.5.31-2",
     "Description": "Blazing fast terminal file manager written in Rust, based on async I/O",
     "Homepage": "https://yazi-rs.github.io/"
   },
@@ -15967,13 +15967,13 @@
   },
   {
     "Package": "zipios",
-    "Version": "2.3.2",
+    "Version": "2.3.2-1",
     "Description": "A small C++ library for reading and writing zip files",
     "Homepage": "https://zipios.sourceforge.io/"
   },
   {
     "Package": "zk",
-    "Version": "0.15.1",
+    "Version": "0.15.1-1",
     "Description": "A plain text note-taking assistant",
     "Homepage": "https://zk-org.github.io/zk/"
   },
@@ -15997,13 +15997,13 @@
   },
   {
     "Package": "znc",
-    "Version": "1.10.1",
+    "Version": "1.10.1-1",
     "Description": "An advanced IRC bouncer",
     "Homepage": "https://znc.in/"
   },
   {
     "Package": "zola",
-    "Version": "0.21.0",
+    "Version": "0.21.0-1",
     "Description": "A fast static site generator in a single binary with everything built-in.",
     "Homepage": "https://github.com/getzola/zola"
   },
