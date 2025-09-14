@@ -101,7 +101,7 @@
 | **astra-sm** | 2019.06.19-1 | Software for digital TV broadcasting | https://gitlab.com/berdyansk/astra-sm |
 | **asymptote** | 3.05-1 | A powerful descriptive vector graphics language for technical drawing | https://asymptote.sourceforge.io/ |
 | **at** | 3.2.5-2 | AT and batch delayed command scheduling utility and daemon | https://salsa.debian.org/debian/at |
-| **at-spi2-core** | 2.56.5 | Assistive Technology Service Provider Interface (AT-SPI) | https://wiki.gnome.org/Accessibility |
+| **at-spi2-core** | 2.58.0 | Assistive Technology Service Provider Interface (AT-SPI) | https://wiki.gnome.org/Accessibility |
 | **atomicparsley** | 1:20240608.083822.1ed9031-1 | Read, parse and set metadata of MPEG-4 and 3gp files | https://github.com/wez/atomicparsley |
 | **atomvm** | 1:0.6.6-1 | The minimal Erlang VM implementation | https://github.com/bettio/AtomVM |
 | **atool** | 0.39.0-1 | tool for managing file archives of various types | https://www.nongnu.org/atool |
@@ -797,7 +797,7 @@
 | **jql** | 8.0.8 | A JSON Query Language CLI tool | https://github.com/yamafaktory/jql |
 | **json-c** | 0.18-2 | A JSON implementation in C | https://github.com/json-c/json-c/wiki |
 | **json-c-static** | 0.18-2 | Static libraries for json-c | https://github.com/json-c/json-c/wiki |
-| **json-glib** | 1.10.6-1 | GLib JSON manipulation library | https://wiki.gnome.org/Projects/JsonGlib |
+| **json-glib** | 1.10.8 | GLib JSON manipulation library | https://wiki.gnome.org/Projects/JsonGlib |
 | **jsoncpp** | 1.9.6-2 | C++ library for interacting with JSON | https://github.com/open-source-parsers/jsoncpp |
 | **jsoncpp-static** | 1.9.6-2 | Static libraries for jsoncpp | https://github.com/open-source-parsers/jsoncpp |
 | **jump** | 0.51.0-3 | Jump helps you navigate in shell faster by learning your habits | https://github.com/gsamokovarov/jump |
@@ -2522,7 +2522,7 @@
 | **urdfdom** | 5.0.2 | Unified Robot Description Format (URDF) parser library and tools | https://github.com/ros/urdfdom |
 | **urdfdom-headers** | 1.1.2 | Headers for URDF parsers | https://github.com/ros/urdfdom_headers |
 | **usql** | 0.19.25 | A universal command-line interface for SQL databases | https://github.com/xo/usql |
-| **utf8cpp** | 4.0.6 | UTF8-CPP: UTF-8 with C++ in a Portable Way | https://github.com/nemtrif/utfcpp |
+| **utf8cpp** | 4.0.7 | UTF8-CPP: UTF-8 with C++ in a Portable Way | https://github.com/nemtrif/utfcpp |
 | **utf8proc** | 2.10.0-1 | Library for processing UTF-8 Unicode data | https://github.com/JuliaLang/utf8proc |
 | **utf8proc-static** | 2.10.0-1 | Static libraries for utf8proc | https://github.com/JuliaLang/utf8proc |
 | **utfdecode** | 0.3.4-6 | Tool for decoding, encoding and debugging unicode | https://github.com/fornwall/utfdecode |

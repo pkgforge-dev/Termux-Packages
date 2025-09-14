@@ -363,7 +363,7 @@
   Description: AT and batch delayed command scheduling utility and daemon
   Homepage: https://salsa.debian.org/debian/at
 - Package: at-spi2-core
-  Version: 2.56.5
+  Version: 2.58.0
   Description: Assistive Technology Service Provider Interface (AT-SPI)
   Homepage: https://wiki.gnome.org/Accessibility
 - Package: atomicparsley
@@ -3147,7 +3147,7 @@
   Description: Static libraries for json-c
   Homepage: https://github.com/json-c/json-c/wiki
 - Package: json-glib
-  Version: 1.10.6-1
+  Version: 1.10.8
   Description: GLib JSON manipulation library
   Homepage: https://wiki.gnome.org/Projects/JsonGlib
 - Package: jsoncpp
@@ -10047,7 +10047,7 @@
   Description: A universal command-line interface for SQL databases
   Homepage: https://github.com/xo/usql
 - Package: utf8cpp
-  Version: 4.0.6
+  Version: 4.0.7
   Description: 'UTF8-CPP: UTF-8 with C++ in a Portable Way'
   Homepage: https://github.com/nemtrif/utfcpp
 - Package: utf8proc
