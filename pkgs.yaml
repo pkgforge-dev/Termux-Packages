@@ -2531,7 +2531,7 @@
   Description: The open-source platform for monitoring and observability
   Homepage: https://grafana.com/
 - Package: graphene
-  Version: 1.10.8-2
+  Version: 1.10.8-3
   Description: A thin layer of graphic data types
   Homepage: https://ebassi.github.io/graphene/
 - Package: graphicsmagick
@@ -3471,7 +3471,7 @@
   Description: Static libraries for libaom
   Homepage: https://aomedia.org/
 - Package: libapt-pkg-perl
-  Version: 0.1.40-12
+  Version: 0.1.40-13
   Description: Perl interface to APTs libapt-pkg
   Homepage: https://packages.debian.org/libapt-pkg-perl
 - Package: libarchive
@@ -6767,15 +6767,15 @@
   Description: A private, secure, untraceable, decentralised digital currency
   Homepage: https://getmonero.org/
 - Package: mono
-  Version: 6.14.1-1
+  Version: 6.14.1-2
   Description: Framework Mono
   Homepage: https://gitlab.winehq.org/mono/mono
 - Package: mono-libs
-  Version: 6.14.1-1
+  Version: 6.14.1-2
   Description: Platform-independent libraries for mono
   Homepage: https://gitlab.winehq.org/mono/mono
 - Package: mono-static
-  Version: 6.14.1-1
+  Version: 6.14.1-2
   Description: Static libraries for mono
   Homepage: https://gitlab.winehq.org/mono/mono
 - Package: monolith
@@ -7031,15 +7031,15 @@
   Description: Tools for working with terminals
   Homepage: https://invisible-island.net/ncurses/
 - Package: ndk-multilib
-  Version: 28c-1
+  Version: 28c-2
   Description: Multilib binaries for cross-compilation
   Homepage: https://developer.android.com/tools/sdk/ndk/index.html
 - Package: ndk-multilib-native-static
-  Version: 28c-1
+  Version: 28c-2
   Description: Install native static libs from NDK
   Homepage: https://developer.android.com/tools/sdk/ndk/index.html
 - Package: ndk-multilib-native-stubs
-  Version: 28c-1
+  Version: 28c-2
   Description: Install native stubs for shared libs from NDK
   Homepage: https://developer.android.com/tools/sdk/ndk/index.html
 - Package: ndk-sysroot
@@ -7099,7 +7099,7 @@
   Description: Static libraries for netcdf-c
   Homepage: https://www.unidata.ucar.edu/software/netcdf/
 - Package: nethack
-  Version: 3.6.7-1
+  Version: 3.6.7-2
   Description: Dungeon crawl game
   Homepage: http://www.nethack.org/
 - Package: netpbm
@@ -8167,7 +8167,7 @@
   Description: Static libraries for python-numpy
   Homepage: https://numpy.org/
 - Package: python-onnxruntime
-  Version: 1.22.2-3
+  Version: 1.22.2-4
   Description: Cross-platform, high performance ML inferencing and training accelerator
   Homepage: https://onnxruntime.ai/
 - Package: python-pillow
@@ -8683,7 +8683,7 @@
   Description: Vamp plugin for Rubber Band
   Homepage: https://breakfastquay.com/rubberband/
 - Package: rubiks-cube
-  Version: "1.2"
+  Version: 1.2-1
   Description: A rubiks cube that runs in your terminal
   Homepage: https://github.com/been-jamming/rubiks_cube
 - Package: ruby
@@ -8707,7 +8707,7 @@
   Description: Static libraries for runit
   Homepage: http://smarden.org/runit
 - Package: rush
-  Version: 0.7.0
+  Version: 0.7.0-1
   Description: A cross-platform command-line tool for executing jobs in parallel
   Homepage: https://github.com/shenwei356/rush
 - Package: rust
@@ -8767,11 +8767,11 @@
   Description: Rust compiler source code files
   Homepage: https://www.rust-lang.org/
 - Package: rustscan
-  Version: 2.4.1
+  Version: 2.4.1-1
   Description: The modern,fast,smart and effective port scanner
   Homepage: https://rustscan.github.io/RustScan
 - Package: rw
-  Version: 1.0.1
+  Version: 1.0.1-1
   Description: A Rust implementation of sponge(1) that never write to TMPDIR
   Homepage: https://github.com/jridgewell/rw
 - Package: rxfetch
@@ -8787,23 +8787,23 @@
   Description: A secure, easy, self-hosted messaging
   Homepage: https://salty.im/
 - Package: samba
-  Version: 4.16.11-4
+  Version: 4.16.11-5
   Description: SMB/CIFS fileserver
   Homepage: https://www.samba.org/
 - Package: samefile
-  Version: 2.15-5
+  Version: 2.15-6
   Description: Finds files with identical contents, independent of file name
   Homepage: http://www.schweikhardt.net/samefile/
 - Package: samurai
-  Version: 1.2-1
+  Version: 1.2-2
   Description: ninja-compatible build tool written in C
   Homepage: https://github.com/michaelforney/samurai
 - Package: sassc
-  Version: 3.6.2
+  Version: 3.6.2-1
   Description: libsass command line driver
   Homepage: https://github.com/sass/sassc
 - Package: sc-im
-  Version: 0.8.5-1
+  Version: 0.8.5-2
   Description: An improved version of sc, a spreadsheet calculator
   Homepage: https://github.com/andmarti1424/sc-im
 - Package: scala
@@ -8811,11 +8811,11 @@
   Description: Scala 3 compiler and standard library.
   Homepage: https://www.scala-lang.org
 - Package: scc
-  Version: 3.5.0
+  Version: 3.5.0-1
   Description: Counts physical the lines of code, blank lines, comment lines, and physical lines of source code
   Homepage: https://github.com/boyter/scc
 - Package: sccache
-  Version: 0.10.0
+  Version: 0.10.0-1
   Description: sccache is ccache with cloud storage
   Homepage: https://github.com/mozilla/sccache
 - Package: scdaemon
@@ -8823,11 +8823,11 @@
   Description: Daemon invoked by gpg to manage smartcards
   Homepage: https://www.gnupg.org/
 - Package: scdoc
-  Version: 1.11.3
+  Version: 1.11.3-1
   Description: Small man page generator
   Homepage: https://git.sr.ht/~sircmpwn/scdoc
 - Package: screen
-  Version: 5.0.1
+  Version: 5.0.1-1
   Description: Terminal multiplexer with VT100/ANSI terminal emulation
   Homepage: https://www.gnu.org/software/screen/
 - Package: screenfetch
@@ -8835,19 +8835,19 @@
   Description: Bash Screenshot Information Tool
   Homepage: https://github.com/KittyKatt/screenFetch
 - Package: scrub
-  Version: 2.6.1-1
+  Version: 2.6.1-2
   Description: Iteratively writes patterns on files or disk devices to make retreiving the data more difficult
   Homepage: https://github.com/chaos/scrub
 - Package: scrypt
-  Version: 1.3.3
+  Version: 1.3.3-1
   Description: scrypt KDF library and file encryption tool
   Homepage: https://www.tarsnap.com/scrypt.html
 - Package: sd
-  Version: 1.0.0-1
+  Version: 1.0.0-2
   Description: An intuitive find & replace CLI
   Homepage: https://github.com/chmln/sd
 - Package: sdcv
-  Version: 0.5.5-1
+  Version: 0.5.5-2
   Description: StarDict Console Version
   Homepage: http://dushistov.github.io/sdcv/
 - Package: seafile-client
@@ -8863,13 +8863,13 @@
   Description: Self-hosted anime and manga server for sea rovers.
   Homepage: https://github.com/5rahim/seanime
 - Package: seccure
-  Version: 0.5-7
+  Version: 0.5-8
   Description: SECCURE Elliptic Curve Crypto Utility for Reliable Encryption
   Homepage: http://point-at-infinity.org/seccure/
 - Package: secure-delete
-  Version: 3.1-5
+  Version: 3.1-6
   Description: Secure file, disk, swap, memory erasure utilities
-  Homepage: http://www.thc.org/
+  Homepage: https://www.thc.org/
 - Package: sed
   Version: 4.9-2
   Description: GNU stream editor for filtering/transforming text
@@ -8883,7 +8883,7 @@
   Description: A perl-script to send XMPP (jabber) messages
   Homepage: https://sendxmpp.hostname.sk/
 - Package: senpai
-  Version: 1:0.4.1
+  Version: 1:0.4.1-1
   Description: An IRC client that works best with bouncers
   Homepage: https://git.sr.ht/~delthas/senpai
 - Package: sensible-utils
@@ -8891,63 +8891,63 @@
   Description: Small utilities used by programs to sensibly select and spawn an appropriate browser, editor, or pager
   Homepage: https://packages.debian.org/sid/sensible-utils
 - Package: serd
-  Version: 0.32.4
+  Version: 0.32.4-1
   Description: A lightweight C library for RDF syntax
   Homepage: https://drobilla.net/software/serd.html
 - Package: serf
-  Version: 1.3.10-1
+  Version: 1.3.10-2
   Description: High performance C-based HTTP client library
   Homepage: https://serf.apache.org/
 - Package: serf-static
-  Version: 1.3.10-1
+  Version: 1.3.10-2
   Description: Static libraries for serf
   Homepage: https://serf.apache.org/
 - Package: sfeed
-  Version: "2.2"
+  Version: 2.2-1
   Description: Shell-script/crontab oriented feed aggregator and parser utility (curses-based reader included)
   Homepage: https://codemadness.org/sfeed-simple-feed-parser.html
 - Package: sftpgo
-  Version: 2.6.6
+  Version: 2.6.6-1
   Description: Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server
   Homepage: https://sftpgo.com/
 - Package: shaderc
-  Version: "2025.3"
+  Version: 2025.3-1
   Description: Collection of tools, libraries, and tests for Vulkan shader compilation
   Homepage: https://github.com/google/shaderc
 - Package: sharutils
-  Version: 4.15.2-3
+  Version: 4.15.2-4
   Description: Utilities for packaging and unpackaging shell archives
   Homepage: https://www.gnu.org/software/sharutils/
 - Package: shc
-  Version: 4.0.3-3
+  Version: 4.0.3-4
   Description: Shell script compiler
   Homepage: https://neurobin.org/projects/softwares/unix/shc/
 - Package: sheldon
-  Version: 0.8.5
+  Version: 0.8.5-1
   Description: Fast, configurable, shell plugin manager
   Homepage: https://sheldon.cli.rs/
 - Package: shell2http
-  Version: 1.17.0
+  Version: 1.17.0-1
   Description: Executing shell commands via HTTP server
   Homepage: https://github.com/msoap/shell2http
 - Package: shellharden
-  Version: 4.3.1
+  Version: 4.3.1-1
   Description: The corrective bash syntax highlighter
   Homepage: https://github.com/anordal/shellharden
 - Package: shellinabox
-  Version: "2.21"
+  Version: 2.21-1
   Description: Implementation of a web server that can export arbitrary command line tools to a web based terminal emulator
   Homepage: https://github.com/shellinabox/shellinabox
 - Package: shfmt
-  Version: 3.12.0
+  Version: 3.12.0-1
   Description: A shell parser and formatter
   Homepage: https://github.com/mvdan/sh
 - Package: shiori
-  Version: 1.7.4
+  Version: 1.7.4-1
   Description: Simple bookmark manager built with Go
   Homepage: https://github.com/go-shiori/shiori
 - Package: shntool
-  Version: 3.0.10
+  Version: 3.0.10-1
   Description: A multi-purpose WAVE data processing and reporting utility
   Homepage: http://shnutils.freeshell.org/shntool/
 - Package: shtool
@@ -8955,15 +8955,15 @@
   Description: compilation of small but very stable and portable shell scripts into a single shell tool
   Homepage: http://www.gnu.org/software/shtool/
 - Package: signify
-  Version: "32"
+  Version: 32-1
   Description: Lightweight cryptographic signing and verifying tool
   Homepage: https://github.com/aperezdc/signify
 - Package: silicon
-  Version: 0.5.3
+  Version: 0.5.3-1
   Description: Silicon is an alternative to Carbon implemented in Rust
   Homepage: https://github.com/Aloxaf/silicon
 - Package: silversearcher-ag
-  Version: 2.2.0-5
+  Version: 2.2.0-6
   Description: Fast grep-like program, alternative to ack-grep
   Homepage: https://geoff.greer.fm/ag/
 - Package: simde
@@ -8975,7 +8975,7 @@
   Description: A C++ library to see how fast we can parse JSON with complete validation
   Homepage: https://simdjson.org/
 - Package: simh
-  Version: 1:3.12.5
+  Version: 1:3.12.5-1
   Description: A collection of simulators for computer hardware and software from the past
   Homepage: http://simh.trailing-edge.com/
 - Package: simulavr
@@ -8983,7 +8983,7 @@
   Description: Simulator for Microchip AVR (formerly Atmel) microcontrollers
   Homepage: https://www.nongnu.org/simulavr
 - Package: simuwaerm
-  Version: "0.02"
+  Version: 0.02-1
   Description: A simple heat transfer simulator in pure Rust
   Homepage: https://github.com/file-acomplaint/simuwaerm
 - Package: sing-box
@@ -8991,15 +8991,15 @@
   Description: The universal proxy platform
   Homepage: https://sing-box.sagernet.org
 - Package: skate
-  Version: 1.0.1
+  Version: 1.0.1-1
   Description: A personal key-value store
   Homepage: https://github.com/charmbracelet/skate
 - Package: sl
-  Version: "5.05"
+  Version: 5.05-1
   Description: Tool curing your bad habit of mistyping
   Homepage: https://github.com/mtoyoda/sl
 - Package: slang
-  Version: 2.3.3-1
+  Version: 2.3.3-2
   Description: S-Lang is a powerful interpreted language
   Homepage: https://www.jedsoft.org/slang/
 - Package: slashtime
@@ -9007,15 +9007,15 @@
   Description: A small program which displays the time in various places
   Homepage: https://github.com/istathar/slashtime
 - Package: sleuthkit
-  Version: 4.14.0
+  Version: 4.14.0-1
   Description: The Sleuth Kit® (TSK) is a library for digital forensics tools.
   Homepage: https://sleuthkit.org/
 - Package: sleuthkit-static
-  Version: 4.14.0
+  Version: 4.14.0-1
   Description: Static libraries for sleuthkit
   Homepage: https://sleuthkit.org/
 - Package: slides
-  Version: 0.9.0-4
+  Version: 0.9.0-5
   Description: Slides in your terminal
   Homepage: https://github.com/maaslalani/slides
 - Package: slugify
@@ -9023,15 +9023,15 @@
   Description: Bash command that converts filenames and directories to a web friendly format.
   Homepage: https://github.com/benlinton/slugify
 - Package: smalltalk
-  Version: 3.2.91-14
+  Version: 3.2.91-15
   Description: A free implementation of the Smalltalk-80 language
   Homepage: http://smalltalk.gnu.org/
 - Package: smalltalk-static
-  Version: 3.2.91-14
+  Version: 3.2.91-15
   Description: Static libraries for smalltalk
   Homepage: http://smalltalk.gnu.org/
 - Package: snake
-  Version: 2022.11.07
+  Version: 2022.11.07-1
   Description: Eat as much as you want while avoiding walls
   Homepage: https://github.com/gogakoreli/snake
 - Package: snapcast-client
@@ -9191,15 +9191,15 @@
   Description: A command-line tool that generates a pair of .idx/.sub subtitle files from a textual subtitles file
   Homepage: https://srt2vobsub.sourceforge.io/
 - Package: ssdb
-  Version: 1.9.9-2
+  Version: 1.9.9-3
   Description: A Redis compatible NoSQL database stored on disk
   Homepage: https://ssdb.io/
 - Package: ssdeep
-  Version: 2.14.1-1
+  Version: 2.14.1-2
   Description: A program for computing context triggered piecewise hashes (CTPH)
   Homepage: https://ssdeep-project.github.io/ssdeep/
 - Package: ssdeep-static
-  Version: 2.14.1-1
+  Version: 2.14.1-2
   Description: Static libraries for ssdeep
   Homepage: https://ssdeep-project.github.io/ssdeep/
 - Package: sse2neon
@@ -9207,31 +9207,31 @@
   Description: A C/C++ header file that converts Intel SSE intrinsics to Arm/Aarch64 NEON intrinsics
   Homepage: https://github.com/DLTcollab/sse2neon
 - Package: sshpass
-  Version: "1.10"
+  Version: 1.10-1
   Description: Noninteractive ssh password provider
   Homepage: https://sourceforge.net/projects/sshpass/
 - Package: sshping
-  Version: 0.1.4-2
+  Version: 0.1.4-3
   Description: measure character-echo latency and bandwidth for an interactive ssh session
   Homepage: https://github.com/spook/sshping
 - Package: sslscan
-  Version: 2.2.0
+  Version: 2.2.0-1
   Description: Utility to discover supported cipher suites on SSL/TLS enabled servers
   Homepage: https://github.com/rbsec/sslscan
 - Package: sssnake
-  Version: 0.3.2-1
+  Version: 0.3.2-2
   Description: cli snake game that plays itself
   Homepage: https://github.com/AngelJumbo/sssnake
 - Package: ssss
-  Version: 0.5.7
+  Version: 0.5.7-1
   Description: Simple command-line implementation of Shamirs Secret Sharing Scheme
   Homepage: https://github.com/MrJoy/ssss
 - Package: stag
-  Version: 1.0.0-1
+  Version: 1.0.0-2
   Description: Streaming bar graphs. For stats and stuff.
   Homepage: https://github.com/seenaburns/stag
 - Package: starship
-  Version: 1.23.0
+  Version: 1.23.0-1
   Description: A minimal, blazing fast, and extremely customizable prompt for any shell
   Homepage: https://starship.rs
 - Package: stdman
@@ -9239,11 +9239,11 @@
   Description: Formatted C++23 stdlib man pages (cppreference)
   Homepage: https://github.com/jeaye/stdman
 - Package: stdoutisatty
-  Version: "1.0"
+  Version: 1.0-1
   Description: Patch the isatty() calls for colored output in pipeline
   Homepage: https://github.com/lilydjwg/stdoutisatty
 - Package: steghide
-  Version: 0.5.1-7
+  Version: 0.5.1-8
   Description: Embeds a message in a file by replacing some of the least significant bits
   Homepage: https://steghide.sourceforge.net/
 - Package: stemwords
@@ -9255,23 +9255,23 @@
   Description: An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows
   Homepage: https://smallstep.com/cli
 - Package: stfl
-  Version: 0.24-6
+  Version: 0.24-7
   Description: Structured Terminal Forms Language/Library
   Homepage: http://www.clifford.at/stfl
 - Package: stfl-static
-  Version: 0.24-6
+  Version: 0.24-7
   Description: Static libraries for stfl
   Homepage: http://www.clifford.at/stfl
 - Package: stoken
-  Version: 0.93-2
+  Version: 0.93-3
   Description: Software Token for Linux/UNIX
   Homepage: https://github.com/cernekee/stoken
 - Package: stoken-static
-  Version: 0.93-2
+  Version: 0.93-3
   Description: Static libraries for stoken
   Homepage: https://github.com/cernekee/stoken
 - Package: stone
-  Version: 2.4-2
+  Version: 2.4-3
   Description: A TCP/IP repeater in the application layer
   Homepage: https://www.gcd.org/sengoku/stone/
 - Package: storj-uplink
@@ -9287,15 +9287,15 @@
   Description: Debugging utility to monitor system calls and signals received
   Homepage: https://strace.io/
 - Package: streamripper
-  Version: 1.64.6-2
+  Version: 1.64.6-3
   Description: Records and splits streaming mp3 into tracks
-  Homepage: http://streamripper.sourceforge.net/
+  Homepage: https://streamripper.sourceforge.net/
 - Package: stunnel
-  Version: "5.75"
+  Version: 5.75-1
   Description: Socket wrapper which can provide TLS support to ordinary applications
   Homepage: https://www.stunnel.org/
 - Package: stunnel-static
-  Version: "5.75"
+  Version: 5.75-1
   Description: Static libraries for stunnel
   Homepage: https://www.stunnel.org/
 - Package: stuntman
@@ -9303,13 +9303,13 @@
   Description: An open source STUN server
   Homepage: https://www.stunprotocol.org/
 - Package: stylua
-  Version: 2.1.0
+  Version: 2.1.0-1
   Description: An opinionated Lua code formatter
   Homepage: https://github.com/JohnnyMorganz/StyLua
 - Package: subtitleripper
-  Version: 0.3.4
+  Version: 0.3.4-1
   Description: DVD subtitle ripper for Linux
-  Homepage: http://subtitleripper.sourceforge.net/
+  Homepage: https://subtitleripper.sourceforge.net/
 - Package: subversion
   Version: 1.14.5-1
   Description: Centralized version control system characterized by its simplicity
@@ -9331,13 +9331,13 @@
   Description: A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument as the root (superuser) user in the Termux app
   Homepage: https://github.com/agnostic-apollo/sudo
 - Package: suil
-  Version: 0.10.22
+  Version: 0.10.22-1
   Description: A library for loading and wrapping LV2 plugin UIs
   Homepage: https://drobilla.net/software/suil.html
 - Package: suite3270
-  Version: 4.1ga11-1
+  Version: 4.1ga11-2
   Description: A family of IBM 3270 terminal emulators and related tools
-  Homepage: http://x3270.bgp.nu/
+  Homepage: https://x3270.bgp.nu/
 - Package: sun
   Version: 1.0.0-3
   Description: A very simple note taking cli app
@@ -9359,7 +9359,7 @@
   Description: Swiss Army Knife for SMTP
   Homepage: http://jetmore.org/john/code/swaks/
 - Package: swi-prolog
-  Version: 9.3.22
+  Version: 9.3.22-1
   Description: Most popular and complete prolog implementation
   Homepage: https://swi-prolog.org/
 - Package: swift-runtime-aarch64
@@ -9387,7 +9387,7 @@
   Description: Swift SDK for Android x86_64
   Homepage: https://swift.org/
 - Package: swiftshader
-  Version: 2025.06.25-1
+  Version: 2025.06.25-2
   Description: A high-performance CPU-based implementation of the Vulkan graphics API
   Homepage: https://swiftshader.googlesource.com/SwiftShader
 - Package: swig
@@ -9395,11 +9395,11 @@
   Description: Generate scripting interfaces to C/C++ code
   Homepage: https://swig.org
 - Package: swtpm
-  Version: 0.10.1
+  Version: 0.10.1-1
   Description: Software TPM Emulator
   Homepage: https://github.com/stefanberger/swtpm
 - Package: swtpm-static
-  Version: 0.10.1
+  Version: 0.10.1-1
   Description: Static libraries for swtpm
   Homepage: https://github.com/stefanberger/swtpm
 - Package: syncthing
@@ -9423,7 +9423,7 @@
   Description: A Library for reading and editing the meta-data of several popular audio formats.
   Homepage: http://taglib.github.io/
 - Package: taplo
-  Version: 0.10.0
+  Version: 0.10.0-1
   Description: A TOML LSP and toolkit
   Homepage: https://taplo.tamasfe.dev/
 - Package: tar
@@ -9435,7 +9435,7 @@
   Description: Task spooler is a Unix batch system where the tasks spooled run one after the other
   Homepage: https://vicerveza.homeunix.net/~viric/soft/ts/
 - Package: tasksh
-  Version: 1.2.0-10
+  Version: 1.2.0-11
   Description: Shell command wrapping Taskwarrior commands
   Homepage: https://taskwarrior.org
 - Package: taskwarrior
@@ -9455,7 +9455,7 @@
   Description: Tcl Standard Library
   Homepage: https://core.tcl-lang.org/tcllib/
 - Package: tcsh
-  Version: 6.24.16
+  Version: 6.24.16-1
   Description: TENEX C Shell, an enhanced version of Berkeley csh
   Homepage: https://www.tcsh.org
 - Package: tdb-tools
@@ -9467,19 +9467,19 @@
   Description: Telegram downloader/tools written in Golang
   Homepage: https://docs.iyear.me/tdl/
 - Package: tea
-  Version: 0.10.1
+  Version: 0.10.1-1
   Description: The official CLI for Gitea
   Homepage: https://gitea.com/gitea/tea
 - Package: tealdeer
-  Version: 1.7.2
+  Version: 1.7.2-1
   Description: A very fast implementation of tldr in Rust
   Homepage: https://dbrgn.github.io/tealdeer/
 - Package: teckit
-  Version: 2.5.12
+  Version: 2.5.12-1
   Description: TECkit is a library for encoding conversion
   Homepage: https://scripts.sil.org/teckitdownloads
 - Package: teckit-static
-  Version: 2.5.12
+  Version: 2.5.12-1
   Description: Static libraries for teckit
   Homepage: https://scripts.sil.org/teckitdownloads
 - Package: tectonic
@@ -9487,11 +9487,11 @@
   Description: A modernized, complete, self-contained TeX/LaTeX engine
   Homepage: https://tectonic-typesetting.github.io/
 - Package: telegram-bot-api
-  Version: 20241031-1
+  Version: 20241031-2
   Description: Telegram Bot API server
   Homepage: https://github.com/tdlib/telegram-bot-api
 - Package: telegram-cli
-  Version: 1:1.4.1-7
+  Version: 1:1.4.1-8
   Description: Telegram messenger CLI
   Homepage: https://github.com/vysheng/tg
 - Package: teleport-tsh
@@ -9503,11 +9503,11 @@
   Description: A simple PHP application for logging current weather conditions, notes, and waypoints
   Homepage: https://github.com/dmpop/tenki
 - Package: tere
-  Version: 1.6.0
+  Version: 1.6.0-1
   Description: Terminal file explorer written in rust
   Homepage: https://github.com/mgunyho/tere
 - Package: tergent
-  Version: 1.0.0-4
+  Version: 1.0.0-5
   Description: A cryptoki/PKCS#11 library for Termux that uses Android Keystore as its backend
   Homepage: https://github.com/aeolwyr/tergent
 - Package: termimage
@@ -9515,7 +9515,7 @@
   Description: Terminal image viewer
   Homepage: https://github.com/nabijaczleweli/termimage
 - Package: termplay
-  Version: 2.0.6
+  Version: 2.0.6-1
   Description: Plays an image/video in your terminal
   Homepage: https://gitlab.com/jD91mZM2/termplay
 - Package: termux-am
@@ -9527,11 +9527,11 @@
   Description: A faster version of am with less features that only works while Termux is running
   Homepage: https://github.com/termux/termux-am-socket
 - Package: termux-api
-  Version: 0.59.1
+  Version: 0.59.1-1
   Description: Termux API commands (install also the Termux:API app)
   Homepage: https://wiki.termux.com/wiki/Termux:API
 - Package: termux-api-static
-  Version: 0.59.1
+  Version: 0.59.1-1
   Description: Static libraries for termux-api
   Homepage: https://wiki.termux.com/wiki/Termux:API
 - Package: termux-apt-repo
@@ -9555,7 +9555,7 @@
   Description: Utility to create Termux packages
   Homepage: https://github.com/termux/termux-create-package
 - Package: termux-elf-cleaner
-  Version: 3.0.1
+  Version: 3.0.1-1
   Description: Cleaner of ELF files for Android
   Homepage: https://github.com/termux/termux-elf-cleaner
 - Package: termux-exec
@@ -9567,7 +9567,7 @@
   Description: Static libraries for termux-exec
   Homepage: https://github.com/termux/termux-exec-package
 - Package: termux-gui-bash
-  Version: 0.1.2
+  Version: 0.1.2-1
   Description: A bash library for Termux:GUI
   Homepage: https://github.com/tareksander/termux-gui-bash
 - Package: termux-gui-c
@@ -9599,11 +9599,11 @@
   Description: Basic system tools for Termux
   Homepage: https://termux.dev/
 - Package: teseq
-  Version: 1.1.1-1
+  Version: 1.1.1-2
   Description: Tool for analyzing control characters and terminal control sequences
   Homepage: https://www.gnu.org/software/teseq/
 - Package: tesseract
-  Version: 5.5.1
+  Version: 5.5.1-1
   Description: Tesseract is probably the most accurate open source OCR engine available
   Homepage: https://github.com/tesseract-ocr/tesseract
 - Package: testssl.sh
@@ -9619,15 +9619,15 @@
   Description: Documentation system for on-line information and printed output
   Homepage: https://www.gnu.org/software/texinfo/
 - Package: texlab
-  Version: 5.23.1
+  Version: 5.23.1-1
   Description: A cross-platform implementation of the Language Server Protocol providing rich cross-editing support for the LaTeX typesetting system
   Homepage: https://texlab.netlify.app/
 - Package: texlive-bin
-  Version: 1:2025.0
+  Version: 1:2025.0-1
   Description: TeX Live is a distribution of the TeX typesetting system. This package contains architecture dependent binaries.
   Homepage: https://www.tug.org/texlive/
 - Package: texlive-bin-static
-  Version: 1:2025.0
+  Version: 1:2025.0-1
   Description: Static libraries for texlive-bin
   Homepage: https://www.tug.org/texlive/
 - Package: texlive-installer
@@ -9659,7 +9659,7 @@
   Description: A text editor for the console/terminal
   Homepage: https://os.ghalkes.nl/tilde/
 - Package: time
-  Version: "1.9"
+  Version: 1.9-1
   Description: GNU time program for measuring CPU resource usage
   Homepage: https://www.gnu.org/software/time/
 - Package: timewarrior
@@ -9667,23 +9667,23 @@
   Description: Command-line time tracker
   Homepage: https://timewarrior.net/
 - Package: timg
-  Version: 1.6.2
+  Version: 1.6.2-1
   Description: A terminal image and video viewer
   Homepage: https://timg.sh/
 - Package: timidity++
-  Version: 2.15.0-1
+  Version: 2.15.0-2
   Description: MIDI-to-WAVE converter and player
-  Homepage: http://timidity.sourceforge.net/
+  Homepage: https://timidity.sourceforge.net/
 - Package: tin-summer
-  Version: 1.21.14
+  Version: 1.21.14-1
   Description: Find build artifacts that are taking up disk space
   Homepage: https://github.com/vmchale/tin-summer
 - Package: tintin++
-  Version: 2.02.51
+  Version: 2.02.51-1
   Description: Classic text-based MUD client
   Homepage: https://tintin.mudhalla.net
 - Package: tinyfugue
-  Version: 5.0b8-3
+  Version: 5.0b8-4
   Description: Flexible, screen-oriented MUD client, for use with any type of MUD
   Homepage: https://tinyfugue.sourceforge.net/
 - Package: tinygo
@@ -9695,13 +9695,13 @@
   Description: TinyGo common files
   Homepage: https://tinygo.org
 - Package: tinyproxy
-  Version: 1.11.2
+  Version: 1.11.2-1
   Description: Light-weight HTTP proxy daemon for POSIX operating systems
   Homepage: https://tinyproxy.github.io/
 - Package: tinyscheme
-  Version: 1.42-1
+  Version: 1.42-2
   Description: Very small scheme implementation
-  Homepage: http://tinyscheme.sourceforge.net/home.html
+  Homepage: https://tinyscheme.sourceforge.net/home.html
 - Package: tinysparql
   Version: 3.9.2-1
   Description: Desktop-neutral metadata-based search framework
@@ -9739,11 +9739,11 @@
   Description: toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library
   Homepage: https://github.com/ToruNiina/toml11
 - Package: topgrade
-  Version: 16.0.4
+  Version: 16.0.4-1
   Description: Upgrade all the things
   Homepage: https://github.com/topgrade-rs/topgrade/
 - Package: tor
-  Version: 0.4.8.17
+  Version: 0.4.8.17-1
   Description: The Onion Router anonymizing overlay network
   Homepage: https://www.torproject.org
 - Package: torchaudio-ffmpeg
@@ -9751,27 +9751,27 @@
   Description: Minimal FFmpeg libraries for python-torchaudio
   Homepage: https://github.com/pytorch/audio
 - Package: torsocks
-  Version: 2.5.0
+  Version: 2.5.0-1
   Description: Wrapper to safely torify applications
   Homepage: https://gitlab.torproject.org/tpo/core/torsocks
 - Package: torsocks-static
-  Version: 2.5.0
+  Version: 2.5.0-1
   Description: Static libraries for torsocks
   Homepage: https://gitlab.torproject.org/tpo/core/torsocks
 - Package: totem-pl-parser
-  Version: 3.26.6-1
+  Version: 3.26.6-2
   Description: Simple GObject-based library to parse and save a host of playlist formats
   Homepage: https://gitlab.gnome.org/GNOME/totem-pl-parser
 - Package: toxic
-  Version: 0.16.1-2
+  Version: 0.16.1-3
   Description: A command line client for Tox
   Homepage: https://github.com/JFreegman/toxic
 - Package: tracepath
-  Version: "20250605"
+  Version: 20250605-1
   Description: Tool to trace the network path to a remote host
   Homepage: https://github.com/iputils/iputils
 - Package: traceroute
-  Version: 2.1.6
+  Version: 2.1.6-1
   Description: A new modern implementation of traceroute(8) utility for Linux systems
   Homepage: https://traceroute.sourceforge.net/
 - Package: translate-shell
@@ -9779,7 +9779,7 @@
   Description: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
   Homepage: https://www.soimort.org/translate-shell
 - Package: transmission
-  Version: 4.0.6-4
+  Version: 4.0.6-5
   Description: Easy, lean and powerful BitTorrent client
   Homepage: https://transmissionbt.com/
 - Package: tree
@@ -9959,11 +9959,11 @@
   Description: ugit helps you undo your last git command with grace. Your damage control git buddy
   Homepage: https://github.com/Bhupesh-V/ugit
 - Package: ugrep
-  Version: 7.5.0
+  Version: 7.5.0-1
   Description: A faster, user-friendly and compatible grep replacement
   Homepage: https://github.com/Genivia/ugrep
 - Package: unar
-  Version: 1.10.8-1
+  Version: 1.10.8-2
   Description: Command line tools for archive and file unarchiving and extraction
   Homepage: https://theunarchiver.com/command-line
 - Package: unbound
@@ -9983,31 +9983,31 @@
   Description: Static libraries for unicorn
   Homepage: https://www.unicorn-engine.org/
 - Package: unifdef
-  Version: "2.12"
+  Version: 2.12-1
   Description: 'Remove #ifdefed lines'
   Homepage: http://dotat.at/prog/unifdef/
 - Package: units
-  Version: "2.24"
+  Version: 2.24-1
   Description: Converts between different systems of units
   Homepage: https://www.gnu.org/software/units/
 - Package: units-cur
-  Version: "2.24"
+  Version: 2.24-1
   Description: units_cur Python script
   Homepage: https://www.gnu.org/software/units/
 - Package: unixodbc
-  Version: 2.3.12
+  Version: 2.3.12-1
   Description: An Open Source ODBC sub-system and an ODBC SDK for Linux, Mac OSX, and UNIX
   Homepage: https://www.unixodbc.org/
 - Package: unixodbc-static
-  Version: 2.3.12
+  Version: 2.3.12-1
   Description: Static libraries for unixodbc
   Homepage: https://www.unixodbc.org/
 - Package: unpaper
-  Version: 1:7.0.0-2
+  Version: 1:7.0.0-3
   Description: A post-processing tool for scanned sheets of paper
   Homepage: https://www.flameeyes.com/projects/unpaper
 - Package: unrar
-  Version: 7.1.10
+  Version: 7.1.10-1
   Description: Tool for extracting files from .rar archives
   Homepage: https://www.rarlab.com/
 - Package: unshield
@@ -10215,11 +10215,11 @@
   Description: A themeable LS_COLORS generator with a rich filetype datebase
   Homepage: https://github.com/sharkdp/vivid
 - Package: vlc
-  Version: 3.0.21-10
+  Version: 3.0.21-11
   Description: A popular libre and open source media player and multimedia engine
   Homepage: https://www.videolan.org/
 - Package: vlc-static
-  Version: 3.0.21-10
+  Version: 3.0.21-11
   Description: Static libraries for vlc
   Homepage: https://www.videolan.org/
 - Package: vobsub2srt
@@ -10587,7 +10587,7 @@
   Description: A framework for RTL synthesis tools
   Homepage: https://yosyshq.net/yosys/
 - Package: youtubedr
-  Version: 2.10.4
+  Version: 2.10.4-1
   Description: Download youtube video in Golang
   Homepage: https://github.com/kkdai/youtube
 - Package: yq
@@ -10603,11 +10603,11 @@
   Description: Youtube client in terminal for music
   Homepage: https://github.com/sudipghimire533/ytui-music
 - Package: yuma123
-  Version: 2.13-3
+  Version: 2.13-4
   Description: Provides an opensource YANG API in C
   Homepage: https://yuma123.org/
 - Package: yuma123-static
-  Version: 2.13-3
+  Version: 2.13-4
   Description: Static libraries for yuma123
   Homepage: https://yuma123.org/
 - Package: z-push
@@ -10619,11 +10619,11 @@
   Description: Z3 is a theorem prover from Microsoft Research
   Homepage: https://github.com/Z3Prover/z3
 - Package: zbar
-  Version: 0.23.93
+  Version: 0.23.93-1
   Description: Software suite for reading bar codes from various sources
   Homepage: https://github.com/mchehab/zbar
 - Package: zbar-static
-  Version: 0.23.93
+  Version: 0.23.93-1
   Description: Static libraries for zbar
   Homepage: https://github.com/mchehab/zbar
 - Package: zeronet
@@ -10675,11 +10675,11 @@
   Description: New zlib compatible compressor tools
   Homepage: https://github.com/google/zopfli
 - Package: zoxide
-  Version: 0.9.8-1
+  Version: 0.9.8-2
   Description: A faster way to navigate your filesystem
   Homepage: https://github.com/ajeetdsouza/zoxide
 - Package: zpaq
-  Version: "7.15"
+  Version: 7.15-1
   Description: Programmable file compressor, library and utilities. Based on the PAQ compression algorithm
   Homepage: http://mattmahoney.net/dc/zpaq.html
 - Package: zrok
@@ -10703,18 +10703,18 @@
   Description: Zstandard compression
   Homepage: https://github.com/facebook/zstd
 - Package: zsync
-  Version: 0.6.3
+  Version: 0.6.3-1
   Description: A file transfer program to download files from remote web servers
   Homepage: https://zsync.moria.org.uk/
 - Package: zziplib
-  Version: 0.13.80
+  Version: 0.13.80-1
   Description: Provides read access to zipped files in a zip-archive, using compression based on free algorithms
   Homepage: https://zziplib.sourceforge.net/
 - Package: zzuf
-  Version: 2022.05.29
+  Version: 2022.05.29-1
   Description: A transparent application input fuzzer
   Homepage: http://caca.zoy.org/wiki/zzuf
 - Package: zzuf-static
-  Version: 2022.05.29
+  Version: 2022.05.29-1
   Description: Static libraries for zzuf
   Homepage: http://caca.zoy.org/wiki/zzuf

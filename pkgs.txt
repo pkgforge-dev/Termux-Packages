@@ -631,7 +631,7 @@
  gpsbabel  1.4.4-3  GPS file conversion plus transfer to/from GPS units  https://www.gpsbabel.org/ 
  gradle  1:9.0.0-1  Powerful build system for the JVM  https://gradle.org/ 
  grafana  1:11.6.0-1  The open-source platform for monitoring and observability  https://grafana.com/ 
- graphene  1.10.8-2  A thin layer of graphic data types  https://ebassi.github.io/graphene/ 
+ graphene  1.10.8-3  A thin layer of graphic data types  https://ebassi.github.io/graphene/ 
  graphicsmagick  1.3.45-4  Collection of image processing tools  http://www.graphicsmagick.org/ 
  graphicsmagick-static  1.3.45-4  Static libraries for graphicsmagick  http://www.graphicsmagick.org/ 
  graphviz  13.1.2  Rich set of graph drawing tools  https://www.graphviz.org/ 
@@ -866,7 +866,7 @@
  libao-static  1.2.2-8  Static libraries for libao  https://www.xiph.org/ao/ 
  libaom  3.13.1  AV1 Video Codec Library  https://aomedia.org/ 
  libaom-static  3.13.1  Static libraries for libaom  https://aomedia.org/ 
- libapt-pkg-perl  0.1.40-12  Perl interface to APT's libapt-pkg  https://packages.debian.org/libapt-pkg-perl 
+ libapt-pkg-perl  0.1.40-13  Perl interface to APT's libapt-pkg  https://packages.debian.org/libapt-pkg-perl 
  libarchive  3.8.1-1  Multi-format archive and compression library  https://www.libarchive.org/ 
  libarchive-static  3.8.1-1  Static libraries for libarchive  https://www.libarchive.org/ 
  libarrow-cpp  21.0.0-3  C++ libraries for Apache Arrow  https://github.com/apache/arrow 
@@ -1690,9 +1690,9 @@
  mlocate  0.26-6  Tool to find files anywhere in the filesystem based on their name  https://pagure.io/mlocate 
  mold  2.40.4  mold: A Modern Linker  https://github.com/rui314/mold 
  monero  0.18.4.2-2  A private, secure, untraceable, decentralised digital currency  https://getmonero.org/ 
- mono  6.14.1-1  Framework Mono  https://gitlab.winehq.org/mono/mono 
- mono-libs  6.14.1-1  Platform-independent libraries for mono  https://gitlab.winehq.org/mono/mono 
- mono-static  6.14.1-1  Static libraries for mono  https://gitlab.winehq.org/mono/mono 
+ mono  6.14.1-2  Framework Mono  https://gitlab.winehq.org/mono/mono 
+ mono-libs  6.14.1-2  Platform-independent libraries for mono  https://gitlab.winehq.org/mono/mono 
+ mono-static  6.14.1-2  Static libraries for mono  https://gitlab.winehq.org/mono/mono 
  monolith  2.10.1-1  CLI tool for saving complete web pages as a single HTML file  https://github.com/Y2Z/monolith 
  moon-buggy  1.0.51-6  Simple game where you drive a car across the moon's surface  https://github.com/seehuhn/moon-buggy 
  moor  2.1.1  A pager designed to just do the right thing without any configuration  https://github.com/walles/moor 
@@ -1756,9 +1756,9 @@
  ncurses-ui-libs  6.5.20240831-3  Libraries for terminal user interfaces based on ncurses  https://invisible-island.net/ncurses/ 
  ncurses-ui-libs-static  6.5.20240831-3  Static libraries for terminal user interfaces based on ncurses  https://invisible-island.net/ncurses/ 
  ncurses-utils  6.5.20240831-3  Tools for working with terminals  https://invisible-island.net/ncurses/ 
- ndk-multilib  28c-1  Multilib binaries for cross-compilation  https://developer.android.com/tools/sdk/ndk/index.html 
- ndk-multilib-native-static  28c-1  Install native static libs from NDK  https://developer.android.com/tools/sdk/ndk/index.html 
- ndk-multilib-native-stubs  28c-1  Install native stubs for shared libs from NDK  https://developer.android.com/tools/sdk/ndk/index.html 
+ ndk-multilib  28c-2  Multilib binaries for cross-compilation  https://developer.android.com/tools/sdk/ndk/index.html 
+ ndk-multilib-native-static  28c-2  Install native static libs from NDK  https://developer.android.com/tools/sdk/ndk/index.html 
+ ndk-multilib-native-stubs  28c-2  Install native stubs for shared libs from NDK  https://developer.android.com/tools/sdk/ndk/index.html 
  ndk-sysroot  28c  System header and library files from the Android NDK needed for compiling C programs  https://developer.android.com/tools/sdk/ndk/index.html 
  ne  3.3.4-2  Easy-to-use and powerful text editor  https://ne.di.unimi.it/ 
  nelua  2024.01.13-1  Minimal, efficient, statically-typed and meta-programmable systems programming language  https://nelua.io 
@@ -1773,7 +1773,7 @@
  netcat-openbsd  1.229-1-4  TCP/IP swiss army knife. OpenBSD variant.  https://packages.debian.org/sid/netcat-openbsd 
  netcdf-c  4.9.3-1  NetCDF is a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data  https://www.unidata.ucar.edu/software/netcdf/ 
  netcdf-c-static  4.9.3-1  Static libraries for netcdf-c  https://www.unidata.ucar.edu/software/netcdf/ 
- nethack  3.6.7-1  Dungeon crawl game  http://www.nethack.org/ 
+ nethack  3.6.7-2  Dungeon crawl game  http://www.nethack.org/ 
  netpbm  1:10.73.43-5  Toolkit for manipulation of graphic images of different formats  https://netpbm.sourceforge.net/ 
  netsed  1.4  Alter the contents of packets forwarded through network in real time  http://silicone.homelinux.org/projects/netsed/ 
  netstandard-targeting-pack-2.1  9.0-2  A metapackage for NETStandard.Library 2.1 Targeting Pack  https://dotnet.microsoft.com/en-us/ 
@@ -2040,7 +2040,7 @@
  python-msgpack  1.1.1-1  MessagePack serializer implementation for Python  https://github.com/msgpack/msgpack-python 
  python-numpy  2.2.5-1  The fundamental package for scientific computing with Python  https://numpy.org/ 
  python-numpy-static  2.2.5-1  Static libraries for python-numpy  https://numpy.org/ 
- python-onnxruntime  1.22.2-3  Cross-platform, high performance ML inferencing and training accelerator  https://onnxruntime.ai/ 
+ python-onnxruntime  1.22.2-4  Cross-platform, high performance ML inferencing and training accelerator  https://onnxruntime.ai/ 
  python-pillow  11.1.0-2  Python Imaging Library  https://python-pillow.org/ 
  python-pip  25.2  The PyPA recommended tool for installing Python packages  https://pip.pypa.io/ 
  python-pyarrow  21.0.0-3  Python bindings for Apache Arrow  https://github.com/apache/arrow 
@@ -2169,13 +2169,13 @@
  rubberband-lv2  4.0.0-1  LV2 plugin for Rubber Band  https://breakfastquay.com/rubberband/ 
  rubberband-static  4.0.0-1  Static libraries for rubberband  https://breakfastquay.com/rubberband/ 
  rubberband-vamp  4.0.0-1  Vamp plugin for Rubber Band  https://breakfastquay.com/rubberband/ 
- rubiks-cube  1.2  A rubik's cube that runs in your terminal  https://github.com/been-jamming/rubiks_cube 
+ rubiks-cube  1.2-1  A rubik's cube that runs in your terminal  https://github.com/been-jamming/rubiks_cube 
  ruby  3.4.1-2  Dynamic programming language with a focus on simplicity and productivity  https://www.ruby-lang.org/ 
  ruby-ri  3.4.1-2  Ruby documentation index  https://www.ruby-lang.org/ 
  ruff  0.13.0  An extremely fast Python linter, written in Rust  https://github.com/charliermarsh/ruff 
  runit  2.1.2-4  Tools to provide service supervision and to manage services  http://smarden.org/runit 
  runit-static  2.1.2-4  Static libraries for runit  http://smarden.org/runit 
- rush  0.7.0  A cross-platform command-line tool for executing jobs in parallel  https://github.com/shenwei356/rush 
+ rush  0.7.0-1  A cross-platform command-line tool for executing jobs in parallel  https://github.com/shenwei356/rush 
  rust  1.89.0-1  Systems programming language focused on safety, speed and concurrency  https://www.rust-lang.org/ 
  rust-analyzer  20250825  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
  rust-bindgen  0.72.1  Automatically generates Rust FFI bindings to C (and some C++) libraries  https://github.com/rust-lang/rust-bindgen 
@@ -2190,73 +2190,73 @@
  rust-std-x86-64-linux-android  1.89.0-1  Rust std for target x86_64-linux-android  https://www.rust-lang.org/ 
  rustc-dev  1.89.0-1  Rust compiler development libs  https://www.rust-lang.org/ 
  rustc-src  1.89.0-1  Rust compiler source code files  https://www.rust-lang.org/ 
- rustscan  2.4.1  The modern,fast,smart and effective port scanner  https://rustscan.github.io/RustScan 
- rw  1.0.1  A Rust implementation of sponge(1) that never write to TMPDIR  https://github.com/jridgewell/rw 
+ rustscan  2.4.1-1  The modern,fast,smart and effective port scanner  https://rustscan.github.io/RustScan 
+ rw  1.0.1-1  A Rust implementation of sponge(1) that never write to TMPDIR  https://github.com/jridgewell/rw 
  rxfetch  2023.01.07  A custom system info fetching tool  https://github.com/Mangeshrex/rxfetch 
  sabnzbd  4.5.3  Fully automated Usenet Binary Downloader  https://sabnzbd.org/ 
  salty-chat  0.0.22-4  A secure, easy, self-hosted messaging  https://salty.im/ 
- samba  4.16.11-4  SMB/CIFS fileserver  https://www.samba.org/ 
- samefile  2.15-5  Finds files with identical contents, independent of file name  http://www.schweikhardt.net/samefile/ 
- samurai  1.2-1  ninja-compatible build tool written in C  https://github.com/michaelforney/samurai 
- sassc  3.6.2  libsass command line driver  https://github.com/sass/sassc 
- sc-im  0.8.5-1  An improved version of sc, a spreadsheet calculator  https://github.com/andmarti1424/sc-im 
+ samba  4.16.11-5  SMB/CIFS fileserver  https://www.samba.org/ 
+ samefile  2.15-6  Finds files with identical contents, independent of file name  http://www.schweikhardt.net/samefile/ 
+ samurai  1.2-2  ninja-compatible build tool written in C  https://github.com/michaelforney/samurai 
+ sassc  3.6.2-1  libsass command line driver  https://github.com/sass/sassc 
+ sc-im  0.8.5-2  An improved version of sc, a spreadsheet calculator  https://github.com/andmarti1424/sc-im 
  scala  3.7.3  Scala 3 compiler and standard library.  https://www.scala-lang.org 
- scc  3.5.0  Counts physical the lines of code, blank lines, comment lines, and physical lines of source code  https://github.com/boyter/scc 
- sccache  0.10.0  sccache is ccache with cloud storage  https://github.com/mozilla/sccache 
+ scc  3.5.0-1  Counts physical the lines of code, blank lines, comment lines, and physical lines of source code  https://github.com/boyter/scc 
+ sccache  0.10.0-1  sccache is ccache with cloud storage  https://github.com/mozilla/sccache 
  scdaemon  2.5.11  Daemon invoked by gpg to manage smartcards  https://www.gnupg.org/ 
- scdoc  1.11.3  Small man page generator  https://git.sr.ht/~sircmpwn/scdoc 
- screen  5.0.1  Terminal multiplexer with VT100/ANSI terminal emulation  https://www.gnu.org/software/screen/ 
+ scdoc  1.11.3-1  Small man page generator  https://git.sr.ht/~sircmpwn/scdoc 
+ screen  5.0.1-1  Terminal multiplexer with VT100/ANSI terminal emulation  https://www.gnu.org/software/screen/ 
  screenfetch  3.9.9  Bash Screenshot Information Tool  https://github.com/KittyKatt/screenFetch 
- scrub  2.6.1-1  Iteratively writes patterns on files or disk devices to make retreiving the data more difficult  https://github.com/chaos/scrub 
- scrypt  1.3.3  scrypt KDF library and file encryption tool  https://www.tarsnap.com/scrypt.html 
- sd  1.0.0-1  An intuitive find & replace CLI  https://github.com/chmln/sd 
- sdcv  0.5.5-1  StarDict Console Version  http://dushistov.github.io/sdcv/ 
+ scrub  2.6.1-2  Iteratively writes patterns on files or disk devices to make retreiving the data more difficult  https://github.com/chaos/scrub 
+ scrypt  1.3.3-1  scrypt KDF library and file encryption tool  https://www.tarsnap.com/scrypt.html 
+ sd  1.0.0-2  An intuitive find & replace CLI  https://github.com/chmln/sd 
+ sdcv  0.5.5-2  StarDict Console Version  http://dushistov.github.io/sdcv/ 
  seafile-client  9.0.15  Seafile is a file syncing and sharing software with file encryption and group sharing  https://seafile.com 
  seafile-client-static  9.0.15  Static libraries for seafile-client  https://seafile.com 
  seanime  2.9.10  Self-hosted anime and manga server for sea rovers.  https://github.com/5rahim/seanime 
- seccure  0.5-7  SECCURE Elliptic Curve Crypto Utility for Reliable Encryption  http://point-at-infinity.org/seccure/ 
- secure-delete  3.1-5  Secure file, disk, swap, memory erasure utilities  http://www.thc.org/ 
+ seccure  0.5-8  SECCURE Elliptic Curve Crypto Utility for Reliable Encryption  http://point-at-infinity.org/seccure/ 
+ secure-delete  3.1-6  Secure file, disk, swap, memory erasure utilities  https://www.thc.org/ 
  sed  4.9-2  GNU stream editor for filtering/transforming text  https://www.gnu.org/software/sed/ 
  sendme  0.27.0  A tool to send files and directories, based on iroh  https://github.com/n0-computer/sendme 
  sendxmpp  1.24  A perl-script to send XMPP (jabber) messages  https://sendxmpp.hostname.sk/ 
- senpai  1:0.4.1  An IRC client that works best with bouncers  https://git.sr.ht/~delthas/senpai 
+ senpai  1:0.4.1-1  An IRC client that works best with bouncers  https://git.sr.ht/~delthas/senpai 
  sensible-utils  0.0.26  Small utilities used by programs to sensibly select and spawn an appropriate browser, editor, or pager  https://packages.debian.org/sid/sensible-utils 
- serd  0.32.4  A lightweight C library for RDF syntax  https://drobilla.net/software/serd.html 
- serf  1.3.10-1  High performance C-based HTTP client library  https://serf.apache.org/ 
- serf-static  1.3.10-1  Static libraries for serf  https://serf.apache.org/ 
- sfeed  2.2  Shell-script/crontab oriented feed aggregator and parser utility (curses-based reader included)  https://codemadness.org/sfeed-simple-feed-parser.html 
- sftpgo  2.6.6  Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server  https://sftpgo.com/ 
- shaderc  2025.3  Collection of tools, libraries, and tests for Vulkan shader compilation  https://github.com/google/shaderc 
- sharutils  4.15.2-3  Utilities for packaging and unpackaging shell archives  https://www.gnu.org/software/sharutils/ 
- shc  4.0.3-3  Shell script compiler  https://neurobin.org/projects/softwares/unix/shc/ 
- sheldon  0.8.5  Fast, configurable, shell plugin manager  https://sheldon.cli.rs/ 
- shell2http  1.17.0  Executing shell commands via HTTP server  https://github.com/msoap/shell2http 
- shellharden  4.3.1  The corrective bash syntax highlighter  https://github.com/anordal/shellharden 
- shellinabox  2.21  Implementation of a web server that can export arbitrary command line tools to a web based terminal emulator  https://github.com/shellinabox/shellinabox 
- shfmt  3.12.0  A shell parser and formatter  https://github.com/mvdan/sh 
- shiori  1.7.4  Simple bookmark manager built with Go  https://github.com/go-shiori/shiori 
- shntool  3.0.10  A multi-purpose WAVE data processing and reporting utility  http://shnutils.freeshell.org/shntool/ 
+ serd  0.32.4-1  A lightweight C library for RDF syntax  https://drobilla.net/software/serd.html 
+ serf  1.3.10-2  High performance C-based HTTP client library  https://serf.apache.org/ 
+ serf-static  1.3.10-2  Static libraries for serf  https://serf.apache.org/ 
+ sfeed  2.2-1  Shell-script/crontab oriented feed aggregator and parser utility (curses-based reader included)  https://codemadness.org/sfeed-simple-feed-parser.html 
+ sftpgo  2.6.6-1  Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server  https://sftpgo.com/ 
+ shaderc  2025.3-1  Collection of tools, libraries, and tests for Vulkan shader compilation  https://github.com/google/shaderc 
+ sharutils  4.15.2-4  Utilities for packaging and unpackaging shell archives  https://www.gnu.org/software/sharutils/ 
+ shc  4.0.3-4  Shell script compiler  https://neurobin.org/projects/softwares/unix/shc/ 
+ sheldon  0.8.5-1  Fast, configurable, shell plugin manager  https://sheldon.cli.rs/ 
+ shell2http  1.17.0-1  Executing shell commands via HTTP server  https://github.com/msoap/shell2http 
+ shellharden  4.3.1-1  The corrective bash syntax highlighter  https://github.com/anordal/shellharden 
+ shellinabox  2.21-1  Implementation of a web server that can export arbitrary command line tools to a web based terminal emulator  https://github.com/shellinabox/shellinabox 
+ shfmt  3.12.0-1  A shell parser and formatter  https://github.com/mvdan/sh 
+ shiori  1.7.4-1  Simple bookmark manager built with Go  https://github.com/go-shiori/shiori 
+ shntool  3.0.10-1  A multi-purpose WAVE data processing and reporting utility  http://shnutils.freeshell.org/shntool/ 
  shtool  2.0.8-9  compilation of small but very stable and portable shell scripts into a single shell tool  http://www.gnu.org/software/shtool/ 
- signify  32  Lightweight cryptographic signing and verifying tool  https://github.com/aperezdc/signify 
- silicon  0.5.3  Silicon is an alternative to Carbon implemented in Rust  https://github.com/Aloxaf/silicon 
- silversearcher-ag  2.2.0-5  Fast grep-like program, alternative to ack-grep  https://geoff.greer.fm/ag/ 
+ signify  32-1  Lightweight cryptographic signing and verifying tool  https://github.com/aperezdc/signify 
+ silicon  0.5.3-1  Silicon is an alternative to Carbon implemented in Rust  https://github.com/Aloxaf/silicon 
+ silversearcher-ag  2.2.0-6  Fast grep-like program, alternative to ack-grep  https://geoff.greer.fm/ag/ 
  simde  0.8.2  Implementations of SIMD instructions for all systems  https://simd-everywhere.github.io/ 
  simdjson  4.0.1  A C++ library to see how fast we can parse JSON with complete validation  https://simdjson.org/ 
- simh  1:3.12.5  A collection of simulators for computer hardware and software from the past  http://simh.trailing-edge.com/ 
+ simh  1:3.12.5-1  A collection of simulators for computer hardware and software from the past  http://simh.trailing-edge.com/ 
  simulavr  1:1.1.0-2  Simulator for Microchip AVR (formerly Atmel) microcontrollers  https://www.nongnu.org/simulavr 
- simuwaerm  0.02  A simple heat transfer simulator in pure Rust  https://github.com/file-acomplaint/simuwaerm 
+ simuwaerm  0.02-1  A simple heat transfer simulator in pure Rust  https://github.com/file-acomplaint/simuwaerm 
  sing-box  1.12.8  The universal proxy platform  https://sing-box.sagernet.org 
- skate  1.0.1  A personal key-value store  https://github.com/charmbracelet/skate 
- sl  5.05  Tool curing your bad habit of mistyping  https://github.com/mtoyoda/sl 
- slang  2.3.3-1  S-Lang is a powerful interpreted language  https://www.jedsoft.org/slang/ 
+ skate  1.0.1-1  A personal key-value store  https://github.com/charmbracelet/skate 
+ sl  5.05-1  Tool curing your bad habit of mistyping  https://github.com/mtoyoda/sl 
+ slang  2.3.3-2  S-Lang is a powerful interpreted language  https://www.jedsoft.org/slang/ 
  slashtime  2023.01.04-1  A small program which displays the time in various places  https://github.com/istathar/slashtime 
- sleuthkit  4.14.0  The Sleuth Kit® (TSK) is a library for digital forensics tools.   https://sleuthkit.org/ 
- sleuthkit-static  4.14.0  Static libraries for sleuthkit  https://sleuthkit.org/ 
- slides  0.9.0-4  Slides in your terminal  https://github.com/maaslalani/slides 
+ sleuthkit  4.14.0-1  The Sleuth Kit® (TSK) is a library for digital forensics tools.   https://sleuthkit.org/ 
+ sleuthkit-static  4.14.0-1  Static libraries for sleuthkit  https://sleuthkit.org/ 
+ slides  0.9.0-5  Slides in your terminal  https://github.com/maaslalani/slides 
  slugify  2016.01.23  Bash command that converts filenames and directories to a web friendly format.  https://github.com/benlinton/slugify 
- smalltalk  3.2.91-14  A free implementation of the Smalltalk-80 language  http://smalltalk.gnu.org/ 
- smalltalk-static  3.2.91-14  Static libraries for smalltalk  http://smalltalk.gnu.org/ 
- snake  2022.11.07  Eat as much as you want while avoiding walls  https://github.com/gogakoreli/snake 
+ smalltalk  3.2.91-15  A free implementation of the Smalltalk-80 language  http://smalltalk.gnu.org/ 
+ smalltalk-static  3.2.91-15  Static libraries for smalltalk  http://smalltalk.gnu.org/ 
+ snake  2022.11.07-1  Eat as much as you want while avoiding walls  https://github.com/gogakoreli/snake 
  snapcast-client  0.32.3-1  A multiroom client-server audio player (client)  https://github.com/badaix/snapcast 
  snapcast-server  0.32.3-1  A multiroom client-server audio player (server)  https://github.com/badaix/snapcast 
  snmptt  1.5  SNMP trap translator  http://www.snmptt.org/ 
@@ -2296,101 +2296,101 @@
  srelay  0.4.8p3-7  A Free SOCKS proxy server  https://sourceforge.net/projects/socks-relay 
  srt-tools  1.5.4-1  Command-line tools for libsrt  https://github.com/Haivision/srt 
  srt2vobsub  1.0-4  A command-line tool that generates a pair of .idx/.sub subtitle files from a textual subtitles file  https://srt2vobsub.sourceforge.io/ 
- ssdb  1.9.9-2  A Redis compatible NoSQL database stored on disk  https://ssdb.io/ 
- ssdeep  2.14.1-1  A program for computing context triggered piecewise hashes (CTPH)  https://ssdeep-project.github.io/ssdeep/ 
- ssdeep-static  2.14.1-1  Static libraries for ssdeep  https://ssdeep-project.github.io/ssdeep/ 
+ ssdb  1.9.9-3  A Redis compatible NoSQL database stored on disk  https://ssdb.io/ 
+ ssdeep  2.14.1-2  A program for computing context triggered piecewise hashes (CTPH)  https://ssdeep-project.github.io/ssdeep/ 
+ ssdeep-static  2.14.1-2  Static libraries for ssdeep  https://ssdeep-project.github.io/ssdeep/ 
  sse2neon  1.8.0  A C/C++ header file that converts Intel SSE intrinsics to Arm/Aarch64 NEON intrinsics  https://github.com/DLTcollab/sse2neon 
- sshpass  1.10  Noninteractive ssh password provider  https://sourceforge.net/projects/sshpass/ 
- sshping  0.1.4-2  measure character-echo latency and bandwidth for an interactive ssh session  https://github.com/spook/sshping 
- sslscan  2.2.0  Utility to discover supported cipher suites on SSL/TLS enabled servers  https://github.com/rbsec/sslscan 
- sssnake  0.3.2-1  cli snake game that plays itself  https://github.com/AngelJumbo/sssnake 
- ssss  0.5.7  Simple command-line implementation of Shamir's Secret Sharing Scheme  https://github.com/MrJoy/ssss 
- stag  1.0.0-1  Streaming bar graphs. For stats and stuff.  https://github.com/seenaburns/stag 
- starship  1.23.0  A minimal, blazing fast, and extremely customizable prompt for any shell  https://starship.rs 
+ sshpass  1.10-1  Noninteractive ssh password provider  https://sourceforge.net/projects/sshpass/ 
+ sshping  0.1.4-3  measure character-echo latency and bandwidth for an interactive ssh session  https://github.com/spook/sshping 
+ sslscan  2.2.0-1  Utility to discover supported cipher suites on SSL/TLS enabled servers  https://github.com/rbsec/sslscan 
+ sssnake  0.3.2-2  cli snake game that plays itself  https://github.com/AngelJumbo/sssnake 
+ ssss  0.5.7-1  Simple command-line implementation of Shamir's Secret Sharing Scheme  https://github.com/MrJoy/ssss 
+ stag  1.0.0-2  Streaming bar graphs. For stats and stuff.  https://github.com/seenaburns/stag 
+ starship  1.23.0-1  A minimal, blazing fast, and extremely customizable prompt for any shell  https://starship.rs 
  stdman  2024.07.05  Formatted C++23 stdlib man pages (cppreference)  https://github.com/jeaye/stdman 
- stdoutisatty  1.0  Patch the isatty() calls for colored output in pipeline  https://github.com/lilydjwg/stdoutisatty 
- steghide  0.5.1-7  Embeds a message in a file by replacing some of the least significant bits  https://steghide.sourceforge.net/ 
+ stdoutisatty  1.0-1  Patch the isatty() calls for colored output in pipeline  https://github.com/lilydjwg/stdoutisatty 
+ steghide  0.5.1-8  Embeds a message in a file by replacing some of the least significant bits  https://steghide.sourceforge.net/ 
  stemwords  2.2.0-2  A command-line tool which uses libstemmer  https://snowballstem.org/ 
  step-cli  0.28.7-1  An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows  https://smallstep.com/cli 
- stfl  0.24-6  Structured Terminal Forms Language/Library  http://www.clifford.at/stfl 
- stfl-static  0.24-6  Static libraries for stfl  http://www.clifford.at/stfl 
- stoken  0.93-2  Software Token for Linux/UNIX  https://github.com/cernekee/stoken 
- stoken-static  0.93-2  Static libraries for stoken  https://github.com/cernekee/stoken 
- stone  2.4-2  A TCP/IP repeater in the application layer  https://www.gcd.org/sengoku/stone/ 
+ stfl  0.24-7  Structured Terminal Forms Language/Library  http://www.clifford.at/stfl 
+ stfl-static  0.24-7  Static libraries for stfl  http://www.clifford.at/stfl 
+ stoken  0.93-3  Software Token for Linux/UNIX  https://github.com/cernekee/stoken 
+ stoken-static  0.93-3  Static libraries for stoken  https://github.com/cernekee/stoken 
+ stone  2.4-3  A TCP/IP repeater in the application layer  https://www.gcd.org/sengoku/stone/ 
  storj-uplink  1.136.4  Storj DCS Uplink CLI  https://www.storj.io/integrations/uplink-cli 
  stow  2.4.1  Tool for managing the installation of multiple software packages into a single directory  https://www.gnu.org/software/stow/ 
  strace  6.16  Debugging utility to monitor system calls and signals received  https://strace.io/ 
- streamripper  1.64.6-2  Records and splits streaming mp3 into tracks  http://streamripper.sourceforge.net/ 
- stunnel  5.75  Socket wrapper which can provide TLS support to ordinary applications  https://www.stunnel.org/ 
- stunnel-static  5.75  Static libraries for stunnel  https://www.stunnel.org/ 
+ streamripper  1.64.6-3  Records and splits streaming mp3 into tracks  https://streamripper.sourceforge.net/ 
+ stunnel  5.75-1  Socket wrapper which can provide TLS support to ordinary applications  https://www.stunnel.org/ 
+ stunnel-static  5.75-1  Static libraries for stunnel  https://www.stunnel.org/ 
  stuntman  1.2.16-6  An open source STUN server  https://www.stunprotocol.org/ 
- stylua  2.1.0  An opinionated Lua code formatter  https://github.com/JohnnyMorganz/StyLua 
- subtitleripper  0.3.4  DVD subtitle ripper for Linux  http://subtitleripper.sourceforge.net/ 
+ stylua  2.1.0-1  An opinionated Lua code formatter  https://github.com/JohnnyMorganz/StyLua 
+ subtitleripper  0.3.4-1  DVD subtitle ripper for Linux  https://subtitleripper.sourceforge.net/ 
  subversion  1.14.5-1  Centralized version control system characterized by its simplicity  https://subversion.apache.org 
  subversion-perl  1.14.5-1  Perl interface to Subversion  https://subversion.apache.org 
  subversion-perl-static  1.14.5-1  Static libraries for subversion-perl  https://subversion.apache.org 
  subversion-static  1.14.5-1  Static libraries for subversion  https://subversion.apache.org 
  sudo  1.2.0  A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument as the root (superuser) user in the Termux app  https://github.com/agnostic-apollo/sudo 
- suil  0.10.22  A library for loading and wrapping LV2 plugin UIs  https://drobilla.net/software/suil.html 
- suite3270  4.1ga11-1  A family of IBM 3270 terminal emulators and related tools  http://x3270.bgp.nu/ 
+ suil  0.10.22-1  A library for loading and wrapping LV2 plugin UIs  https://drobilla.net/software/suil.html 
+ suite3270  4.1ga11-2  A family of IBM 3270 terminal emulators and related tools  https://x3270.bgp.nu/ 
  sun  1.0.0-3  A very simple note taking cli app  https://stand-up-notes.org 
  supercollider  3.14.0  A platform for audio synthesis and algorithmic composition  http://supercollider.github.io/ 
  surfraw  2.3.0-10  Shell Users' Revolutionary Front Rage Against the Web  https://gitlab.com/surfraw/Surfraw 
  svt-av1  3.1.2  Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder)  https://gitlab.com/AOMediaCodec/SVT-AV1 
  swaks  20240103.0  Swiss Army Knife for SMTP  http://jetmore.org/john/code/swaks/ 
- swi-prolog  9.3.22  Most popular and complete prolog implementation  https://swi-prolog.org/ 
+ swi-prolog  9.3.22-1  Most popular and complete prolog implementation  https://swi-prolog.org/ 
  swift-runtime-aarch64  6.1.3  Swift runtime libraries for Android AArch64  https://swift.org/ 
  swift-runtime-arm  6.1.3  Swift runtime libraries for Android armv7  https://swift.org/ 
  swift-runtime-x86-64  6.1.3  Swift runtime libraries for Android x86_64  https://swift.org/ 
  swift-sdk-aarch64  6.1.3  Swift SDK for Android AArch64  https://swift.org/ 
  swift-sdk-arm  6.1.3  Swift SDK for Android armv7  https://swift.org/ 
  swift-sdk-x86-64  6.1.3  Swift SDK for Android x86_64  https://swift.org/ 
- swiftshader  2025.06.25-1  A high-performance CPU-based implementation of the Vulkan graphics API  https://swiftshader.googlesource.com/SwiftShader 
+ swiftshader  2025.06.25-2  A high-performance CPU-based implementation of the Vulkan graphics API  https://swiftshader.googlesource.com/SwiftShader 
  swig  4.3.1-1  Generate scripting interfaces to C/C++ code  https://swig.org 
- swtpm  0.10.1  Software TPM Emulator  https://github.com/stefanberger/swtpm 
- swtpm-static  0.10.1  Static libraries for swtpm  https://github.com/stefanberger/swtpm 
+ swtpm  0.10.1-1  Software TPM Emulator  https://github.com/stefanberger/swtpm 
+ swtpm-static  0.10.1-1  Static libraries for swtpm  https://github.com/stefanberger/swtpm 
  syncthing  2.0.9  Decentralized file synchronization  https://syncthing.net/ 
  sysprop  13.0.0.15-9  Generates cpp / java sysprop  https://android.googlesource.com/platform/system/tools/sysprop 
  ta-lib  0.5.0  Technical analysis library with indicators like ADX  https://ta-lib.org/ 
  ta-lib-static  0.5.0  Static libraries for ta-lib  https://ta-lib.org/ 
  taglib  2.1.1-1  A Library for reading and editing the meta-data of several popular audio formats.  http://taglib.github.io/ 
- taplo  0.10.0  A TOML LSP and toolkit  https://taplo.tamasfe.dev/ 
+ taplo  0.10.0-1  A TOML LSP and toolkit  https://taplo.tamasfe.dev/ 
  tar  1.35-1  GNU tar for manipulating tar archives  https://www.gnu.org/software/tar/ 
  task-spooler  1:1.0.3-1  Task spooler is a Unix batch system where the tasks spooled run one after the other  https://vicerveza.homeunix.net/~viric/soft/ts/ 
- tasksh  1.2.0-10  Shell command wrapping Taskwarrior commands  https://taskwarrior.org 
+ tasksh  1.2.0-11  Shell command wrapping Taskwarrior commands  https://taskwarrior.org 
  taskwarrior  3.4.1  Utility for managing your TODO list  https://taskwarrior.org 
  tcc  1:0.9.27-p20230415-2  Tiny C Compiler  https://bellard.org/tcc/ 
  tcl  8.6.14-1  Powerful but easy to learn dynamic programming language  https://www.tcl.tk/ 
  tcllib  2.0  Tcl Standard Library  https://core.tcl-lang.org/tcllib/ 
- tcsh  6.24.16  TENEX C Shell, an enhanced version of Berkeley csh  https://www.tcsh.org 
+ tcsh  6.24.16-1  TENEX C Shell, an enhanced version of Berkeley csh  https://www.tcsh.org 
  tdb-tools  1.4.14  Tools for TDB  https://tdb.samba.org/ 
  tdl  0.19.1-1  Telegram downloader/tools written in Golang  https://docs.iyear.me/tdl/ 
- tea  0.10.1  The official CLI for Gitea  https://gitea.com/gitea/tea 
- tealdeer  1.7.2  A very fast implementation of tldr in Rust  https://dbrgn.github.io/tealdeer/ 
- teckit  2.5.12  TECkit is a library for encoding conversion  https://scripts.sil.org/teckitdownloads 
- teckit-static  2.5.12  Static libraries for teckit  https://scripts.sil.org/teckitdownloads 
+ tea  0.10.1-1  The official CLI for Gitea  https://gitea.com/gitea/tea 
+ tealdeer  1.7.2-1  A very fast implementation of tldr in Rust  https://dbrgn.github.io/tealdeer/ 
+ teckit  2.5.12-1  TECkit is a library for encoding conversion  https://scripts.sil.org/teckitdownloads 
+ teckit-static  2.5.12-1  Static libraries for teckit  https://scripts.sil.org/teckitdownloads 
  tectonic  0.15.0-4  A modernized, complete, self-contained TeX/LaTeX engine  https://tectonic-typesetting.github.io/ 
- telegram-bot-api  20241031-1  Telegram Bot API server  https://github.com/tdlib/telegram-bot-api 
- telegram-cli  1:1.4.1-7  Telegram messenger CLI  https://github.com/vysheng/tg 
+ telegram-bot-api  20241031-2  Telegram Bot API server  https://github.com/tdlib/telegram-bot-api 
+ telegram-cli  1:1.4.1-8  Telegram messenger CLI  https://github.com/vysheng/tg 
  teleport-tsh  18.2.1  Secure Access for Developers that doesn't get in the way  https://github.com/gravitational/teleport 
  tenki-php  2022.05.26  A simple PHP application for logging current weather conditions, notes, and waypoints  https://github.com/dmpop/tenki 
- tere  1.6.0  Terminal file explorer written in rust  https://github.com/mgunyho/tere 
- tergent  1.0.0-4  A cryptoki/PKCS#11 library for Termux that uses Android Keystore as its backend  https://github.com/aeolwyr/tergent 
+ tere  1.6.0-1  Terminal file explorer written in rust  https://github.com/mgunyho/tere 
+ tergent  1.0.0-5  A cryptoki/PKCS#11 library for Termux that uses Android Keystore as its backend  https://github.com/aeolwyr/tergent 
  termimage  1.2.1  Terminal image viewer  https://github.com/nabijaczleweli/termimage 
- termplay  2.0.6  Plays an image/video in your terminal  https://gitlab.com/jD91mZM2/termplay 
+ termplay  2.0.6-1  Plays an image/video in your terminal  https://gitlab.com/jD91mZM2/termplay 
  termux-am  0.8.0-2  Android Oreo-compatible am command reimplementation  https://github.com/termux/TermuxAm 
  termux-am-socket  1.5.0-1  A faster version of am with less features that only works while Termux is running  https://github.com/termux/termux-am-socket 
- termux-api  0.59.1  Termux API commands (install also the Termux:API app)  https://wiki.termux.com/wiki/Termux:API 
- termux-api-static  0.59.1  Static libraries for termux-api  https://wiki.termux.com/wiki/Termux:API 
+ termux-api  0.59.1-1  Termux API commands (install also the Termux:API app)  https://wiki.termux.com/wiki/Termux:API 
+ termux-api-static  0.59.1-1  Static libraries for termux-api  https://wiki.termux.com/wiki/Termux:API 
  termux-apt-repo  0.5-1  Script to create Termux apt repositories  https://github.com/termux/termux-apt-repo 
  termux-auth  1.5.0-1  Password authentication library and utility for Termux  https://github.com/termux/termux-auth 
  termux-core  0.4.0-1  Utils and libraries for Termux core  https://github.com/termux/termux-core-package 
  termux-core-static  0.4.0-1  Static libraries for termux-core  https://github.com/termux/termux-core-package 
  termux-create-package  0.12.0-2  Utility to create Termux packages  https://github.com/termux/termux-create-package 
- termux-elf-cleaner  3.0.1  Cleaner of ELF files for Android  https://github.com/termux/termux-elf-cleaner 
+ termux-elf-cleaner  3.0.1-1  Cleaner of ELF files for Android  https://github.com/termux/termux-elf-cleaner 
  termux-exec  1:2.4.0-1  Utils and libraries for Termux exec including a LD_PRELOAD shared library for proper functioning of the Termux execution environment  https://github.com/termux/termux-exec-package 
  termux-exec-static  1:2.4.0-1  Static libraries for termux-exec  https://github.com/termux/termux-exec-package 
- termux-gui-bash  0.1.2  A bash library for Termux:GUI  https://github.com/tareksander/termux-gui-bash 
+ termux-gui-bash  0.1.2-1  A bash library for Termux:GUI  https://github.com/tareksander/termux-gui-bash 
  termux-gui-c  0.1.3-5  A C library for the Termux:GUI plugin  https://github.com/tareksander/termux-gui-c-bindings 
  termux-gui-package  0.1.6-2  A Termux package containing utilities for Termux:GUI  https://github.com/tareksander/termux-gui-package 
  termux-gui-pm  1.0.0-2  A graphical package manager for various package formats for Termux and proot-distro distros  https://github.com/tareksander/termux-gui-pm 
@@ -2398,14 +2398,14 @@
  termux-licenses  2.1  Contains LICENSE files for common licenses  https://termux.dev 
  termux-services  0.13-1  Service daemon for Termux  https://github.com/termux/termux-services/ 
  termux-tools  1.46.0+really1.45.0-1  Basic system tools for Termux  https://termux.dev/ 
- teseq  1.1.1-1  Tool for analyzing control characters and terminal control sequences  https://www.gnu.org/software/teseq/ 
- tesseract  5.5.1  Tesseract is probably the most accurate open source OCR engine available  https://github.com/tesseract-ocr/tesseract 
+ teseq  1.1.1-2  Tool for analyzing control characters and terminal control sequences  https://www.gnu.org/software/teseq/ 
+ tesseract  5.5.1-1  Tesseract is probably the most accurate open source OCR engine available  https://github.com/tesseract-ocr/tesseract 
  testssl.sh  3.2.1  Testing TLS/SSL encryption anywhere on any port.  https://testssl.sh/ 
  tex-gyre  2.501-1  The TeX Gyre (TG) Collection of Fonts  https://www.gust.org.pl/projects/e-foundry/tex-gyre/ 
  texinfo  7.2-2  Documentation system for on-line information and printed output  https://www.gnu.org/software/texinfo/ 
- texlab  5.23.1  A cross-platform implementation of the Language Server Protocol providing rich cross-editing support for the LaTeX typesetting system  https://texlab.netlify.app/ 
- texlive-bin  1:2025.0  TeX Live is a distribution of the TeX typesetting system. This package contains architecture dependent binaries.  https://www.tug.org/texlive/ 
- texlive-bin-static  1:2025.0  Static libraries for texlive-bin  https://www.tug.org/texlive/ 
+ texlab  5.23.1-1  A cross-platform implementation of the Language Server Protocol providing rich cross-editing support for the LaTeX typesetting system  https://texlab.netlify.app/ 
+ texlive-bin  1:2025.0-1  TeX Live is a distribution of the TeX typesetting system. This package contains architecture dependent binaries.  https://www.tug.org/texlive/ 
+ texlive-bin-static  1:2025.0-1  Static libraries for texlive-bin  https://www.tug.org/texlive/ 
  texlive-installer  20250308  Wrapper around texlive's install-tl script  https://www.tug.org/texlive/ 
  tgpt  2.10.0  AI Chatbots in terminal without needing API keys  https://github.com/aandrew-me/tgpt 
  thrift  0.22.0-1  Scalable cross-language services framework for IPC/RPC  https://thrift.apache.org 
@@ -2413,17 +2413,17 @@
  tidy-static  5.9.14-next-2  Static libraries for tidy  http://www.html-tidy.org/ 
  tig  2.5.12  Ncurses-based text-mode interface for git  https://jonas.github.io/tig/ 
  tilde  1.1.3-1  A text editor for the console/terminal  https://os.ghalkes.nl/tilde/ 
- time  1.9  GNU time program for measuring CPU resource usage  https://www.gnu.org/software/time/ 
+ time  1.9-1  GNU time program for measuring CPU resource usage  https://www.gnu.org/software/time/ 
  timewarrior  1.9.1  Command-line time tracker  https://timewarrior.net/ 
- timg  1.6.2  A terminal image and video viewer  https://timg.sh/ 
- timidity++  2.15.0-1  MIDI-to-WAVE converter and player  http://timidity.sourceforge.net/ 
- tin-summer  1.21.14  Find build artifacts that are taking up disk space  https://github.com/vmchale/tin-summer 
- tintin++  2.02.51  Classic text-based MUD client  https://tintin.mudhalla.net 
- tinyfugue  5.0b8-3  Flexible, screen-oriented MUD client, for use with any type of MUD  https://tinyfugue.sourceforge.net/ 
+ timg  1.6.2-1  A terminal image and video viewer  https://timg.sh/ 
+ timidity++  2.15.0-2  MIDI-to-WAVE converter and player  https://timidity.sourceforge.net/ 
+ tin-summer  1.21.14-1  Find build artifacts that are taking up disk space  https://github.com/vmchale/tin-summer 
+ tintin++  2.02.51-1  Classic text-based MUD client  https://tintin.mudhalla.net 
+ tinyfugue  5.0b8-4  Flexible, screen-oriented MUD client, for use with any type of MUD  https://tinyfugue.sourceforge.net/ 
  tinygo  0.39.0  Go compiler for microcontrollers, WASM, CLI tools  https://tinygo.org 
  tinygo-common  0.39.0  TinyGo common files  https://tinygo.org 
- tinyproxy  1.11.2  Light-weight HTTP proxy daemon for POSIX operating systems  https://tinyproxy.github.io/ 
- tinyscheme  1.42-1  Very small scheme implementation  http://tinyscheme.sourceforge.net/home.html 
+ tinyproxy  1.11.2-1  Light-weight HTTP proxy daemon for POSIX operating systems  https://tinyproxy.github.io/ 
+ tinyscheme  1.42-2  Very small scheme implementation  https://tinyscheme.sourceforge.net/home.html 
  tinysparql  3.9.2-1  Desktop-neutral metadata-based search framework  https://gnome.pages.gitlab.gnome.org/tinysparql 
  tizonia  0.22.0-20  A command-line streaming music client/server for Linux  https://github.com/tizonia/ 
  tk  8.6.14  A windowing toolkit for use with tcl  https://tcl.sourceforge.net/ 
@@ -2433,17 +2433,17 @@
  tokei  13.0.0-alpha.9-0  A blazingly fast CLOC (Count Lines Of Code) program  https://github.com/XAMPPRocky/tokei 
  tome2  2022.12.27-6  An open world roguelike adventure set in middle earth  https://github.com/tome2/tome2 
  toml11  4.4.0  toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library  https://github.com/ToruNiina/toml11 
- topgrade  16.0.4  Upgrade all the things  https://github.com/topgrade-rs/topgrade/ 
- tor  0.4.8.17  The Onion Router anonymizing overlay network  https://www.torproject.org 
+ topgrade  16.0.4-1  Upgrade all the things  https://github.com/topgrade-rs/topgrade/ 
+ tor  0.4.8.17-1  The Onion Router anonymizing overlay network  https://www.torproject.org 
  torchaudio-ffmpeg  2.6.0-1  Minimal FFmpeg libraries for python-torchaudio  https://github.com/pytorch/audio 
- torsocks  2.5.0  Wrapper to safely torify applications  https://gitlab.torproject.org/tpo/core/torsocks 
- torsocks-static  2.5.0  Static libraries for torsocks  https://gitlab.torproject.org/tpo/core/torsocks 
- totem-pl-parser  3.26.6-1  Simple GObject-based library to parse and save a host of playlist formats  https://gitlab.gnome.org/GNOME/totem-pl-parser 
- toxic  0.16.1-2  A command line client for Tox  https://github.com/JFreegman/toxic 
- tracepath  20250605  Tool to trace the network path to a remote host  https://github.com/iputils/iputils 
- traceroute  2.1.6  A new modern implementation of traceroute(8) utility for Linux systems  https://traceroute.sourceforge.net/ 
+ torsocks  2.5.0-1  Wrapper to safely torify applications  https://gitlab.torproject.org/tpo/core/torsocks 
+ torsocks-static  2.5.0-1  Static libraries for torsocks  https://gitlab.torproject.org/tpo/core/torsocks 
+ totem-pl-parser  3.26.6-2  Simple GObject-based library to parse and save a host of playlist formats  https://gitlab.gnome.org/GNOME/totem-pl-parser 
+ toxic  0.16.1-3  A command line client for Tox  https://github.com/JFreegman/toxic 
+ tracepath  20250605-1  Tool to trace the network path to a remote host  https://github.com/iputils/iputils 
+ traceroute  2.1.6-1  A new modern implementation of traceroute(8) utility for Linux systems  https://traceroute.sourceforge.net/ 
  translate-shell  0.9.7.1  Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.  https://www.soimort.org/translate-shell 
- transmission  4.0.6-4  Easy, lean and powerful BitTorrent client  https://transmissionbt.com/ 
+ transmission  4.0.6-5  Easy, lean and powerful BitTorrent client  https://transmissionbt.com/ 
  tree  2.2.1-1  Recursive directory lister producing a depth indented listing of files  http://mama.indstate.edu/users/ice/tree/ 
  tree-sitter  0.25.9  An incremental parsing system for programming tools  https://github.com/tree-sitter/tree-sitter 
  tree-sitter-c  0.24.1-3  C grammar for tree-sitter  https://github.com/tree-sitter/tree-sitter-c 
@@ -2488,19 +2488,19 @@
  udocker  1.3.17  A basic user tool to execute simple docker containers in batch or interactive systems without root privileges.  https://indigo-dc.github.io/udocker 
  uftrace  0.18.1  Function (graph) tracer for user-space  https://uftrace.github.io/slide 
  ugit  5.9  ugit helps you undo your last git command with grace. Your damage control git buddy  https://github.com/Bhupesh-V/ugit 
- ugrep  7.5.0  A faster, user-friendly and compatible grep replacement  https://github.com/Genivia/ugrep 
- unar  1.10.8-1  Command line tools for archive and file unarchiving and extraction  https://theunarchiver.com/command-line 
+ ugrep  7.5.0-1  A faster, user-friendly and compatible grep replacement  https://github.com/Genivia/ugrep 
+ unar  1.10.8-2  Command line tools for archive and file unarchiving and extraction  https://theunarchiver.com/command-line 
  unbound  1.23.1-1  Unbound command-line tools  https://unbound.net/ 
  unicode-data  17.0.0  The Unicode Character Database (UCD)  https://unicode.org/ucd/ 
  unicorn  2.1.4  Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework  https://www.unicorn-engine.org/ 
  unicorn-static  2.1.4  Static libraries for unicorn  https://www.unicorn-engine.org/ 
- unifdef  2.12  Remove #ifdef'ed lines  http://dotat.at/prog/unifdef/ 
- units  2.24  Converts between different systems of units  https://www.gnu.org/software/units/ 
- units-cur  2.24  units_cur Python script  https://www.gnu.org/software/units/ 
- unixodbc  2.3.12  An Open Source ODBC sub-system and an ODBC SDK for Linux, Mac OSX, and UNIX  https://www.unixodbc.org/ 
- unixodbc-static  2.3.12  Static libraries for unixodbc  https://www.unixodbc.org/ 
- unpaper  1:7.0.0-2  A post-processing tool for scanned sheets of paper  https://www.flameeyes.com/projects/unpaper 
- unrar  7.1.10  Tool for extracting files from .rar archives  https://www.rarlab.com/ 
+ unifdef  2.12-1  Remove #ifdef'ed lines  http://dotat.at/prog/unifdef/ 
+ units  2.24-1  Converts between different systems of units  https://www.gnu.org/software/units/ 
+ units-cur  2.24-1  units_cur Python script  https://www.gnu.org/software/units/ 
+ unixodbc  2.3.12-1  An Open Source ODBC sub-system and an ODBC SDK for Linux, Mac OSX, and UNIX  https://www.unixodbc.org/ 
+ unixodbc-static  2.3.12-1  Static libraries for unixodbc  https://www.unixodbc.org/ 
+ unpaper  1:7.0.0-3  A post-processing tool for scanned sheets of paper  https://www.flameeyes.com/projects/unpaper 
+ unrar  7.1.10-1  Tool for extracting files from .rar archives  https://www.rarlab.com/ 
  unshield  1.6.2  Tool and library to extract CAB files from InstallShield installers  https://github.com/twogood/unshield 
  unzip  6.0-10  Tools for working with zip files  https://sourceforge.net/projects/infozip/ 
  up  0.4-3  Helps interactively and incrementally explore textual data in Linux  https://github.com/akavel/up 
@@ -2552,8 +2552,8 @@
  vitetris  0.59.1-3  Virtual terminal tris clone  http://victornils.net/tetris/ 
  viu  1.5.1  Terminal image viewer with native support for iTerm and Kitty  https://github.com/atanunq/viu 
  vivid  0.10.1  A themeable LS_COLORS generator with a rich filetype datebase  https://github.com/sharkdp/vivid 
- vlc  3.0.21-10  A popular libre and open source media player and multimedia engine  https://www.videolan.org/ 
- vlc-static  3.0.21-10  Static libraries for vlc  https://www.videolan.org/ 
+ vlc  3.0.21-11  A popular libre and open source media player and multimedia engine  https://www.videolan.org/ 
+ vlc-static  3.0.21-11  Static libraries for vlc  https://www.videolan.org/ 
  vobsub2srt  2017.12.18-3  A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR  https://github.com/ruediger/VobSub2SRT 
  vorbis-tools  1.4.3  Ogg Vorbis tools  https://github.com/xiph/vorbis-tools 
  vtm  2025.09.12  Terminal multiplexer with TUI window manager and multi-party session sharing  https://github.com/directvt/vtm 
@@ -2645,16 +2645,16 @@
  yasm-static  1.3.0-6  Static libraries for yasm  https://yasm.tortall.net/ 
  yazi  25.5.31-1  Blazing fast terminal file manager written in Rust, based on async I/O  https://yazi-rs.github.io/ 
  yosys  0.57  A framework for RTL synthesis tools  https://yosyshq.net/yosys/ 
- youtubedr  2.10.4  Download youtube video in Golang  https://github.com/kkdai/youtube 
+ youtubedr  2.10.4-1  Download youtube video in Golang  https://github.com/kkdai/youtube 
  yq  4.47.2  A lightweight and portable command-line YAML, JSON and XML processor  https://mikefarah.gitbook.io/yq/ 
  ytfzf  2.6.2  A POSIX script that helps you find Youtube videos (without API)  https://github.com/pystardust/ytfzf 
  ytui-music  2.0.0-beta-2  Youtube client in terminal for music  https://github.com/sudipghimire533/ytui-music 
- yuma123  2.13-3  Provides an opensource YANG API in C  https://yuma123.org/ 
- yuma123-static  2.13-3  Static libraries for yuma123  https://yuma123.org/ 
+ yuma123  2.13-4  Provides an opensource YANG API in C  https://yuma123.org/ 
+ yuma123-static  2.13-4  Static libraries for yuma123  https://yuma123.org/ 
  z-push  2.7.6  An open-source application to synchronize ActiveSync compatible devices and Outlook  https://z-push.org/ 
  z3  4.15.3  Z3 is a theorem prover from Microsoft Research  https://github.com/Z3Prover/z3 
- zbar  0.23.93  Software suite for reading bar codes from various sources  https://github.com/mchehab/zbar 
- zbar-static  0.23.93  Static libraries for zbar  https://github.com/mchehab/zbar 
+ zbar  0.23.93-1  Software suite for reading bar codes from various sources  https://github.com/mchehab/zbar 
+ zbar-static  0.23.93-1  Static libraries for zbar  https://github.com/mchehab/zbar 
  zeronet  0.7.1-9  Decentralized websites using Bitcoin crypto and BitTorrent network  https://zeronet.io/ 
  zig  0.15.1  General-purpose programming language and toolchain  https://ziglang.org 
  zile  2.6.4-2  Lightweight clone of the Emacs text editor  https://www.gnu.org/software/zile/ 
@@ -2667,14 +2667,14 @@
  znc  1.10.1  An advanced IRC bouncer  https://znc.in/ 
  zola  0.21.0  A fast static site generator in a single binary with everything built-in.  https://github.com/getzola/zola 
  zopfli  1.0.3-5  New zlib compatible compressor tools  https://github.com/google/zopfli 
- zoxide  0.9.8-1  A faster way to navigate your filesystem  https://github.com/ajeetdsouza/zoxide 
- zpaq  7.15  Programmable file compressor, library and utilities. Based on the PAQ compression algorithm  http://mattmahoney.net/dc/zpaq.html 
+ zoxide  0.9.8-2  A faster way to navigate your filesystem  https://github.com/ajeetdsouza/zoxide 
+ zpaq  7.15-1  Programmable file compressor, library and utilities. Based on the PAQ compression algorithm  http://mattmahoney.net/dc/zpaq.html 
  zrok  1.1.3-1  An open source sharing solution built on OpenZiti.  https://zrok.io/ 
  zsh  5.9-9  Shell with lots of features  https://www.zsh.org 
  zsh-completions  0.35.0  Additional completion definitions for Zsh  https://github.com/zsh-users/zsh-completions 
  zssh  1.5c-1  A program for interactively transferring files to a remote machine while using the secure shell (ssh)  http://zssh.sourceforge.net/ 
  zstd  1.5.7-1  Zstandard compression  https://github.com/facebook/zstd 
- zsync  0.6.3  A file transfer program to download files from remote web servers  https://zsync.moria.org.uk/ 
- zziplib  0.13.80  Provides read access to zipped files in a zip-archive, using compression based on free algorithms  https://zziplib.sourceforge.net/ 
- zzuf  2022.05.29  A transparent application input fuzzer  http://caca.zoy.org/wiki/zzuf 
- zzuf-static  2022.05.29  Static libraries for zzuf  http://caca.zoy.org/wiki/zzuf 
+ zsync  0.6.3-1  A file transfer program to download files from remote web servers  https://zsync.moria.org.uk/ 
+ zziplib  0.13.80-1  Provides read access to zipped files in a zip-archive, using compression based on free algorithms  https://zziplib.sourceforge.net/ 
+ zzuf  2022.05.29-1  A transparent application input fuzzer  http://caca.zoy.org/wiki/zzuf 
+ zzuf-static  2022.05.29-1  Static libraries for zzuf  http://caca.zoy.org/wiki/zzuf 
