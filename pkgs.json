@@ -1219,7 +1219,7 @@
   },
   {
     "Package": "ccache",
-    "Version": "4.11.3-1",
+    "Version": "4.12",
     "Description": "Compiler cache for fast recompilation of C/C++ code",
     "Homepage": "https://ccache.samba.org"
   },
@@ -2617,7 +2617,7 @@
   },
   {
     "Package": "eza",
-    "Version": "0.23.2",
+    "Version": "0.23.3",
     "Description": "A modern replacement for ls",
     "Homepage": "https://github.com/eza-community/eza"
   },
@@ -3895,7 +3895,7 @@
   },
   {
     "Package": "gst-libav",
-    "Version": "1.26.5",
+    "Version": "1.26.6",
     "Description": "GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code",
     "Homepage": "https://gstreamer.freedesktop.org/modules/gst-libav.html"
   },
@@ -3931,7 +3931,7 @@
   },
   {
     "Package": "gstreamer",
-    "Version": "1.26.5",
+    "Version": "1.26.6",
     "Description": "Open source multimedia framework",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
