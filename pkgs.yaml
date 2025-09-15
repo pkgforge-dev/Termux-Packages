@@ -291,7 +291,7 @@
   Description: An implementation of AsciiDoc in Ruby
   Homepage: https://asciidoctor.org/
 - Package: asciinema
-  Version: 1:3.0.0~rc.5
+  Version: 1:3.0.0
   Description: Record and share your terminal sessions, the right way
   Homepage: https://asciinema.org/
 - Package: asm-lsp
@@ -2271,7 +2271,7 @@
   Description: Simple, Portable, Free File Transfer Software for UNIX
   Homepage: http://www.columbia.edu/kermit/gkermit.html
 - Package: glab-cli
-  Version: 1.68.0
+  Version: 1.70.0
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
@@ -8971,7 +8971,7 @@
   Description: Implementations of SIMD instructions for all systems
   Homepage: https://simd-everywhere.github.io/
 - Package: simdjson
-  Version: 4.0.1
+  Version: 4.0.2
   Description: A C++ library to see how fast we can parse JSON with complete validation
   Homepage: https://simdjson.org/
 - Package: simh
@@ -10683,7 +10683,7 @@
   Description: Programmable file compressor, library and utilities. Based on the PAQ compression algorithm
   Homepage: http://mattmahoney.net/dc/zpaq.html
 - Package: zrok
-  Version: 1.1.3-1
+  Version: 1.1.4
   Description: An open source sharing solution built on OpenZiti.
   Homepage: https://zrok.io/
 - Package: zsh
