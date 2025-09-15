@@ -7075,13 +7075,13 @@
   },
   {
     "Package": "libmpeg2",
-    "Version": "0.5.1-1",
+    "Version": "0.5.1-2",
     "Description": "MPEG-2 decoder libraries",
     "Homepage": "https://libmpeg2.sourceforge.io/"
   },
   {
     "Package": "libmpeg2-static",
-    "Version": "0.5.1-1",
+    "Version": "0.5.1-2",
     "Description": "Static libraries for libmpeg2",
     "Homepage": "https://libmpeg2.sourceforge.io/"
   },
@@ -14425,7 +14425,7 @@
   },
   {
     "Package": "texinfo",
-    "Version": "7.2-2",
+    "Version": "7.2-3",
     "Description": "Documentation system for on-line information and printed output",
     "Homepage": "https://www.gnu.org/software/texinfo/"
   },
@@ -15037,7 +15037,7 @@
   },
   {
     "Package": "update-info-dir",
-    "Version": "7.2-2",
+    "Version": "7.2-3",
     "Description": "Update or create index file from all installed info files in directory",
     "Homepage": "https://www.gnu.org/software/texinfo/"
   },
