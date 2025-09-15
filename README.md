@@ -1218,8 +1218,8 @@
 | **libnfs** | 6.0.2-1 | NFS client library | https://github.com/sahlberg/libnfs |
 | **libnftnl** | 1.3.0 | Netfilter library providing interface to the nf_tables subsystem | https://www.netfilter.org/projects/libnftnl/ |
 | **libnftnl-static** | 1.3.0 | Static libraries for libnftnl | https://www.netfilter.org/projects/libnftnl/ |
-| **libnghttp2** | 1.67.0 | nghttp HTTP 2.0 library | https://nghttp2.org/ |
-| **libnghttp2-static** | 1.67.0 | Static libraries for libnghttp2 | https://nghttp2.org/ |
+| **libnghttp2** | 1.67.1 | nghttp HTTP 2.0 library | https://nghttp2.org/ |
+| **libnghttp2-static** | 1.67.1 | Static libraries for libnghttp2 | https://nghttp2.org/ |
 | **libnghttp3** | 1.11.0-1 | HTTP/3 library written in C | https://nghttp2.org/nghttp3/ |
 | **libnghttp3-static** | 1.11.0-1 | Static libraries for libnghttp3 | https://nghttp2.org/nghttp3/ |
 | **libnl** | 3.11.0-1 | Collection of libraries providing APIs to netlink protocol based Linux kernel interfaces | https://github.com/thom311/libnl |
@@ -2005,7 +2005,7 @@
 | **procyon-decompiler** | 0.6.0-2 | A standalone front-end for the Java decompiler in Procyon Compiler Toolset | https://github.com/mstrobel/procyon |
 | **profanity** | 0.15.1 | Profanity is a console based XMPP client written in C using ncurses and libstrophe, inspired by Irssi | https://profanity-im.github.io |
 | **progress** | 0.17-1 | Linux tool to show progress for cp, mv, dd and more | https://github.com/Xfennec/progress |
-| **proj** | 9.6.2-1 | Generic coordinate transformation software | https://proj.org |
+| **proj** | 9.7.0 | Generic coordinate transformation software | https://proj.org |
 | **proot** | 5.1.107-65 | Emulate chroot, bind mount and binfmt_misc for non-root users | https://proot-me.github.io/ |
 | **proot-distro** | 4.29.0 | Termux official utility for managing proot'ed Linux distributions | https://github.com/termux/proot-distro |
 | **protobuf** | 2:32.0 | Compiler for protocol buffer definition files | https://github.com/protocolbuffers/protobuf |
@@ -2377,7 +2377,7 @@
 | **tcsh** | 6.24.16-1 | TENEX C Shell, an enhanced version of Berkeley csh | https://www.tcsh.org |
 | **tdb-tools** | 1.4.14 | Tools for TDB | https://tdb.samba.org/ |
 | **tdl** | 0.19.1-1 | Telegram downloader/tools written in Golang | https://docs.iyear.me/tdl/ |
-| **tea** | 0.10.1-1 | The official CLI for Gitea | https://gitea.com/gitea/tea |
+| **tea** | 0.11.0 | The official CLI for Gitea | https://gitea.com/gitea/tea |
 | **tealdeer** | 1.7.2-1 | A very fast implementation of tldr in Rust | https://dbrgn.github.io/tealdeer/ |
 | **teckit** | 2.5.12-1 | TECkit is a library for encoding conversion | https://scripts.sil.org/teckitdownloads |
 | **teckit-static** | 2.5.12-1 | Static libraries for teckit | https://scripts.sil.org/teckitdownloads |

@@ -7249,13 +7249,13 @@
   },
   {
     "Package": "libnghttp2",
-    "Version": "1.67.0",
+    "Version": "1.67.1",
     "Description": "nghttp HTTP 2.0 library",
     "Homepage": "https://nghttp2.org/"
   },
   {
     "Package": "libnghttp2-static",
-    "Version": "1.67.0",
+    "Version": "1.67.1",
     "Description": "Static libraries for libnghttp2",
     "Homepage": "https://nghttp2.org/"
   },
@@ -11971,7 +11971,7 @@
   },
   {
     "Package": "proj",
-    "Version": "9.6.2-1",
+    "Version": "9.7.0",
     "Description": "Generic coordinate transformation software",
     "Homepage": "https://proj.org"
   },
@@ -14203,7 +14203,7 @@
   },
   {
     "Package": "tea",
-    "Version": "0.10.1-1",
+    "Version": "0.11.0",
     "Description": "The official CLI for Gitea",
     "Homepage": "https://gitea.com/gitea/tea"
   },
