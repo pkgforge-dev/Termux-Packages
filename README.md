@@ -790,7 +790,7 @@
 | **joe** | 4.6-4 | Wordstar like text editor | http://joe-editor.sourceforge.net |
 | **jove** | 4.17.5.3-1 | Jove is a compact, powerful, Emacs-style text-editor. | https://directory.fsf.org/wiki/Jove |
 | **jp2a** | 1.3.2-1 | A simple JPEG to ASCII converter | https://github.com/Talinx/jp2a/ |
-| **jpegoptim** | 1.5.5-2 | JPEG optimizer that recompresses image files to a smaller size, without losing any information | https://www.kokkonen.net/tjko/projects.html |
+| **jpegoptim** | 1.5.6 | JPEG optimizer that recompresses image files to a smaller size, without losing any information | https://www.kokkonen.net/tjko/projects.html |
 | **jq** | 1.8.1-1 | Command-line JSON processor | https://stedolan.github.io/jq/ |
 | **jq-lsp** | 0.1.13 | jq language server | https://github.com/wader/jq-lsp |
 | **jq-static** | 1.8.1-1 | Static libraries for jq | https://stedolan.github.io/jq/ |
