@@ -3409,7 +3409,7 @@
   },
   {
     "Package": "glab-cli",
-    "Version": "1.70.0",
+    "Version": "1.71.1",
     "Description": "A GitLab CLI tool bringing GitLab to your command line",
     "Homepage": "https://gitlab.com/gitlab-org/cli"
   },
@@ -3859,7 +3859,7 @@
   },
   {
     "Package": "groonga",
-    "Version": "15.1.5",
+    "Version": "15.1.5-1",
     "Description": "An embeddable fulltext search engine",
     "Homepage": "https://github.com/groonga/groonga/"
   },
@@ -4561,7 +4561,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.23.23",
+    "Version": "0.23.28",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -7743,12 +7743,6 @@
     "Package": "libqrencode",
     "Version": "4.1.1-2",
     "Description": "Fast and compact library for encoding data in a QR Code symbol",
-    "Homepage": "https://fukuchi.org/works/qrencode/"
-  },
-  {
-    "Package": "libqrencode-static",
-    "Version": "4.1.1-1",
-    "Description": "Static libraries for libqrencode",
     "Homepage": "https://fukuchi.org/works/qrencode/"
   },
   {
@@ -11575,7 +11569,7 @@
   },
   {
     "Package": "pgroonga",
-    "Version": "4.0.1",
+    "Version": "4.0.2",
     "Description": "A PostgreSQL extension to use Groonga as index",
     "Homepage": "https://github.com/pgroonga/pgroonga"
   },
@@ -13459,7 +13453,7 @@
   },
   {
     "Package": "simdjson",
-    "Version": "4.0.2",
+    "Version": "4.0.3",
     "Description": "A C++ library to see how fast we can parse JSON with complete validation",
     "Homepage": "https://simdjson.org/"
   },
@@ -15712,12 +15706,6 @@
     "Version": "0.24.1-1",
     "Description": "A friendly and fast tool for sending HTTP requests",
     "Homepage": "https://github.com/ducaale/xh"
-  },
-  {
-    "Package": "xls2csv",
-    "Version": "1.6.3",
-    "Description": "A command-line tool for converting XLS to CSV",
-    "Homepage": "https://github.com/libxls/libxls"
   },
   {
     "Package": "xmake",
