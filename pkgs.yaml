@@ -242,6 +242,10 @@
   Version: 2.8.1-2
   Description: apt-ftparchive is the command line tool that generates the index files that APT uses to access a distribution source
   Homepage: https://packages.debian.org/apt
+- Package: apt-show-versions
+  Version: 0.22.16
+  Description: Lists available package versions with distribution
+  Homepage: https://salsa.debian.org/debian/apt-show-versions
 - Package: apt-transport-tor
   Version: 2.8.1-2
   Description: APT transport for anonymous package downloads via Tor
@@ -1887,7 +1891,7 @@
   Description: Utilities to find files meeting specified criteria and perform various actions on the files which are found
   Homepage: https://www.gnu.org/software/findutils/
 - Package: fish
-  Version: 4.0.2-3
+  Version: 4.0.6
   Description: The user-friendly command line shell
   Homepage: https://fishshell.com/
 - Package: flac
@@ -3307,7 +3311,7 @@
   Description: Terminal pager program used to view the contents of a text file one screen at a time
   Homepage: https://www.greenwoodsoftware.com/less/
 - Package: lesspipe
-  Version: 2.19-1
+  Version: "2.20"
   Description: An input filter for the pager less
   Homepage: http://www-zeuthen.desy.de/~friebel/unix/lesspipe.html
 - Package: leveldb
@@ -7535,7 +7539,7 @@
   Description: A library-based package manager with dependency support
   Homepage: https://archlinux.org/pacman/
 - Package: pacman4console
-  Version: 1.3-4
+  Version: 1.3-5
   Description: A 9 level ncurses pacman game with editor
   Homepage: https://sites.google.com/site/doctormike/pacman.html
 - Package: panda3d

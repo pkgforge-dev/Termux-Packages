@@ -59,6 +59,7 @@
 | **apt** | 2.8.1-2 | Front-end for the dpkg package manager | https://packages.debian.org/apt |
 | **apt-file** | 3.3 | search for files within packages | https://wiki.debian.org/apt-file |
 | **apt-ftparchive** | 2.8.1-2 | apt-ftparchive is the command line tool that generates the index files that APT uses to access a distribution source | https://packages.debian.org/apt |
+| **apt-show-versions** | 0.22.16 | Lists available package versions with distribution | https://salsa.debian.org/debian/apt-show-versions |
 | **apt-transport-tor** | 2.8.1-2 | APT transport for anonymous package downloads via Tor | https://packages.debian.org/apt |
 | **aptly** | 1.6.2-1 | A Swiss Army knife for Debian repository management | https://www.aptly.info |
 | **argon2** | 20190702-2 | A password-hashing function (reference C implementation) | https://github.com/P-H-C/phc-winner-argon2 |
@@ -470,7 +471,7 @@
 | **finch-static** | 2.14.14-2 | Static libraries for finch | https://pidgin.im/ |
 | **findomain** | 10.0.1-1 | Findomain is the fastest subdomain enumerator and the only one written in Rust | https://findomain.app/ |
 | **findutils** | 4.10.0-1 | Utilities to find files meeting specified criteria and perform various actions on the files which are found | https://www.gnu.org/software/findutils/ |
-| **fish** | 4.0.2-3 | The user-friendly command line shell | https://fishshell.com/ |
+| **fish** | 4.0.6 | The user-friendly command line shell | https://fishshell.com/ |
 | **flac** | 1.5.0-1 | FLAC (Free Lossless Audio Codec) command-line tool | https://xiph.org/flac/ |
 | **flatbuffers** | 25.2.10-1 | Memory Efficient Serialization Library | https://github.com/google/flatbuffers |
 | **flatbuffers-static** | 25.2.10-1 | Static libraries for flatbuffers | https://github.com/google/flatbuffers |
@@ -825,7 +826,7 @@
 | **leptonica** | 1.85.0-1 | Library for image processing and image analysis | http://www.leptonica.com/ |
 | **leptonica-static** | 1.85.0-1 | Static libraries for leptonica | http://www.leptonica.com/ |
 | **less** | 679-2 | Terminal pager program used to view the contents of a text file one screen at a time | https://www.greenwoodsoftware.com/less/ |
-| **lesspipe** | 2.19-1 | An input filter for the pager less | http://www-zeuthen.desy.de/~friebel/unix/lesspipe.html |
+| **lesspipe** | 2.20 | An input filter for the pager less | http://www-zeuthen.desy.de/~friebel/unix/lesspipe.html |
 | **leveldb** | 1.23-4 | Fast key-value storage library | https://github.com/google/leveldb |
 | **lexbor** | 2.5.0 | Fast embeddable web browser engine written in C with no dependencies | https://lexbor.com |
 | **lexter** | 1.0.3-5 | A real-time word puzzle for text terminals | https://www.kyne.au/~mark/software/lexter.php |
@@ -1882,7 +1883,7 @@
 | **p11-kit** | 0.25.8 | Provides a way to load and enumerate PKCS#11 modules | https://p11-glue.github.io/p11-glue/p11-kit.html |
 | **p7zip** | 17.06-1 | Command-line version of the 7zip compressed file archiver | https://github.com/p7zip-project/p7zip |
 | **pacman** | 7.0.0-4 | A library-based package manager with dependency support | https://archlinux.org/pacman/ |
-| **pacman4console** | 1.3-4 | A 9 level ncurses pacman game with editor | https://sites.google.com/site/doctormike/pacman.html |
+| **pacman4console** | 1.3-5 | A 9 level ncurses pacman game with editor | https://sites.google.com/site/doctormike/pacman.html |
 | **panda3d** | 1.10.15-1 | A framework for 3D rendering and game development for Python and C++ programs | https://www.panda3d.org/ |
 | **panda3d-samples** | 1.10.15-1 | Python sample programs that use Panda3D | https://www.panda3d.org/ |
 | **panda3d-static** | 1.10.15-1 | Static libraries for panda3d | https://www.panda3d.org/ |
