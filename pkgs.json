@@ -3409,7 +3409,7 @@
   },
   {
     "Package": "glab-cli",
-    "Version": "1.71.1",
+    "Version": "1.71.2",
     "Description": "A GitLab CLI tool bringing GitLab to your command line",
     "Homepage": "https://gitlab.com/gitlab-org/cli"
   },
@@ -4435,13 +4435,13 @@
   },
   {
     "Package": "inotify-tools",
-    "Version": "4.23.9.0-1",
+    "Version": "4.25.9.0",
     "Description": "Programs providing a simple interface to inotify",
     "Homepage": "https://github.com/rvoicilas/inotify-tools/wiki"
   },
   {
     "Package": "inotify-tools-static",
-    "Version": "4.23.9.0-1",
+    "Version": "4.25.9.0",
     "Description": "Static libraries for inotify-tools",
     "Homepage": "https://github.com/rvoicilas/inotify-tools/wiki"
   },
