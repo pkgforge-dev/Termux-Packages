@@ -3043,7 +3043,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.23.28
+  Version: 0.23.32
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -6559,7 +6559,7 @@
   Description: A backend for mdbook which will check your links for you
   Homepage: https://michael-f-bryan.github.io/mdbook-linkcheck/
 - Package: mdbook-mermaid
-  Version: 0.15.0-1
+  Version: 0.16.0
   Description: A preprocessor for mdbook to add mermaid support
   Homepage: https://github.com/badboy/mdbook-mermaid
 - Package: mdbook-open-on-gh
@@ -6711,7 +6711,7 @@
   Description: Multi-Cloud Object Storage
   Homepage: https://min.io/
 - Package: miniserve
-  Version: 0.31.0-1
+  Version: 0.32.0
   Description: Tool to serve files and dirs over HTTP
   Homepage: https://github.com/svenstaro/miniserve
 - Package: minisign
