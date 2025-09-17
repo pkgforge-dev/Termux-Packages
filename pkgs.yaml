@@ -1695,11 +1695,11 @@
   Description: Event Notify Test Runner - run arbitrary commands when files change
   Homepage: https://eradman.com/entrproject/
 - Package: erlang
-  Version: 28.0.4
+  Version: "28.1"
   Description: General-purpose concurrent functional programming language
   Homepage: https://www.erlang.org/
 - Package: erlang-doc
-  Version: 28.0.4
+  Version: "28.1"
   Description: Erlang HTML documentation
   Homepage: https://www.erlang.org/
 - Package: esbuild
@@ -3527,7 +3527,7 @@
   Description: Static libraries for libatomic-ops
   Homepage: https://github.com/bdwgc/libatomic_ops
 - Package: libbcprov-java
-  Version: 1.80-1
+  Version: "1.82"
   Description: A lightweight cryptography API for Java
   Homepage: https://www.bouncycastle.org/java.html
 - Package: libblkid
@@ -6507,7 +6507,7 @@
   Description: Connect to your mattermost or slack using your IRC-client of choice
   Homepage: https://github.com/42wim/matterircd
 - Package: mautrix-whatsapp
-  Version: 0.12.4
+  Version: 0.12.5
   Description: A Matrix-WhatsApp puppeting bridge
   Homepage: https://maunium.net/go/mautrix-whatsapp/
 - Package: maven
@@ -9807,7 +9807,7 @@
   Description: Lua grammar for tree-sitter
   Homepage: https://github.com/tree-sitter-grammars/tree-sitter-lua
 - Package: tree-sitter-markdown
-  Version: 0.5.0-4
+  Version: 0.5.1
   Description: Markdown grammar for tree-sitter
   Homepage: https://github.com/tree-sitter-grammars/tree-sitter-markdown
 - Package: tree-sitter-parsers

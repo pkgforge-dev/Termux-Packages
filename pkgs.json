@@ -2545,13 +2545,13 @@
   },
   {
     "Package": "erlang",
-    "Version": "28.0.4",
+    "Version": "28.1",
     "Description": "General-purpose concurrent functional programming language",
     "Homepage": "https://www.erlang.org/"
   },
   {
     "Package": "erlang-doc",
-    "Version": "28.0.4",
+    "Version": "28.1",
     "Description": "Erlang HTML documentation",
     "Homepage": "https://www.erlang.org/"
   },
@@ -5293,7 +5293,7 @@
   },
   {
     "Package": "libbcprov-java",
-    "Version": "1.80-1",
+    "Version": "1.82",
     "Description": "A lightweight cryptography API for Java",
     "Homepage": "https://www.bouncycastle.org/java.html"
   },
@@ -9763,7 +9763,7 @@
   },
   {
     "Package": "mautrix-whatsapp",
-    "Version": "0.12.4",
+    "Version": "0.12.5",
     "Description": "A Matrix-WhatsApp puppeting bridge",
     "Homepage": "https://maunium.net/go/mautrix-whatsapp/"
   },
@@ -14713,7 +14713,7 @@
   },
   {
     "Package": "tree-sitter-markdown",
-    "Version": "0.5.0-4",
+    "Version": "0.5.1",
     "Description": "Markdown grammar for tree-sitter",
     "Homepage": "https://github.com/tree-sitter-grammars/tree-sitter-markdown"
   },
