@@ -590,6 +590,10 @@
   Version: 0.20.1-1
   Description: A blog compiler
   Homepage: https://blogc.rgm.io/
+- Package: blueprint-compiler
+  Version: 0.18.0
+  Description: Markup language for GTK user interfaces
+  Homepage: https://gnome.pages.gitlab.gnome.org/blueprint-compiler/
 - Package: bmon
   Version: 4.0-4
   Description: Bandwidth monitor and rate estimator
