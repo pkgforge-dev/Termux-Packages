@@ -213,7 +213,7 @@
  cfengine  1:3.25.0-2  CFEngine is a configuration management technology  https://cfengine.com/ 
  cfengine-static  1:3.25.0-2  Static libraries for cfengine  https://cfengine.com/ 
  cfm  1.2.0-3  A basic file manager that runs inside a terminal, designed for Linux. It's fully responsive and incredibly fast.  https://github.com/0l1v3rr/cli-file-manager 
- cgal  6.0.1  Computational Geometry Algorithms Library  https://www.cgal.org/ 
+ cgal  6.0.2  Computational Geometry Algorithms Library  https://www.cgal.org/ 
  cgdb  0.8.0-1  A lightweight curses (terminal-based) interface to the GNU Debugger (GDB)  https://cgdb.github.io/ 
  cgif  0.5.0-1  A fast and lightweight GIF encoding library  https://github.com/dloebl/cgif 
  chafa  1.16.2-1  Image-to-text converter supporting a wide range of symbols, etc.  https://hpjansson.org/chafa/ 
@@ -425,7 +425,7 @@
  entr  5.7-1  Event Notify Test Runner - run arbitrary commands when files change  https://eradman.com/entrproject/ 
  erlang  28.1  General-purpose concurrent functional programming language  https://www.erlang.org/ 
  erlang-doc  28.1  Erlang HTML documentation  https://www.erlang.org/ 
- esbuild  0.25.9  An extremely fast JavaScript bundler  https://esbuild.github.io/ 
+ esbuild  0.25.10  An extremely fast JavaScript bundler  https://esbuild.github.io/ 
  espeak  1.52.0-1  Compact software speech synthesizer  https://github.com/espeak-ng/espeak-ng 
  espeak-static  1.52.0-1  Static libraries for espeak  https://github.com/espeak-ng/espeak-ng 
  et  6.2.11-2  A remote shell that automatically reconnects without interrupting the session  https://eternalterminal.dev 
@@ -568,7 +568,7 @@
  gitoxide  0.45.0-1  Rust implementation of Git  https://github.com/Byron/gitoxide 
  gitui  0.27.0-3  Blazing fast terminal-ui for git written in rust  https://github.com/extrawurst/gitui 
  gkermit  2.01-1  Simple, Portable, Free File Transfer Software for UNIX  http://www.columbia.edu/kermit/gkermit.html 
- glab-cli  1.71.2  A GitLab CLI tool bringing GitLab to your command line  https://gitlab.com/gitlab-org/cli 
+ glab-cli  1.72.0  A GitLab CLI tool bringing GitLab to your command line  https://gitlab.com/gitlab-org/cli 
  gleam  1.12.0  A friendly language for building type-safe, scalable systems!  https://gleam.run 
  glib  2.84.4  Library providing core building blocks for libraries and applications written in C  https://developer.gnome.org/glib/ 
  glib-cross  2.84.4  glib for host (NOT for Termux)  https://developer.gnome.org/glib/ 
@@ -1820,7 +1820,7 @@
  octomap  1.10.0-1  An efficient probabilistic 3D mapping framework based on octrees  https://github.com/OctoMap/octomap 
  octomap-static  1.10.0-1  Static libraries for octomap  https://github.com/OctoMap/octomap 
  odt2txt  0.5-5  Simple converter from OpenDocument Text to plain text  https://github.com/dstosberg/odt2txt 
- oh-my-posh  26.23.5  A prompt theme engine for any shell.  https://ohmyposh.dev 
+ oh-my-posh  26.23.6  A prompt theme engine for any shell.  https://ohmyposh.dev 
  okc-agents  0.1.2-2  OpenKeychain agents for GnuPG and OpenSSH  https://github.com/DDoSolitary/okc-agents 
  ol  2.6-3  Purely functional dialect of Lisp  https://yuriy-chumak.github.io/ol/ 
  oleo  1.99.16-10  The GNU Spreadsheet  https://www.gnu.org/software/oleo/ 
