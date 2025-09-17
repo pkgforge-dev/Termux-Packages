@@ -51,7 +51,7 @@
  apache2  1:2.4.65-1  Apache Web Server  https://httpd.apache.org 
  apkeep  0.17.0-2  A command-line tool for downloading APK files from various sources  https://github.com/EFForg/apkeep 
  apksigner  33.0.1-1  APK signing tool from Android SDK  https://developer.android.com/studio/command-line/apksigner 
- appstream  1.0.6  Provides a standard for creating app stores across distributions  https://www.freedesktop.org/wiki/Distributions/AppStream/ 
+ appstream  1.1.0  Provides a standard for creating app stores across distributions  https://www.freedesktop.org/wiki/Distributions/AppStream/ 
  apr  1.7.6-2  Apache Portable Runtime Library  https://apr.apache.org/ 
  apr-static  1.7.6-2  Static libraries for apr  https://apr.apache.org/ 
  apr-util  1.6.3-3  Apache Portable Runtime Utility Library  https://apr.apache.org/ 
@@ -1009,6 +1009,8 @@
  libfreexl  2.0.0-1  Library to extract valid data from within an Excel (.xls) spreadsheet  https://www.gaia-gis.it/fossil/freexl 
  libfreexl-static  2.0.0-1  Static libraries for libfreexl  https://www.gaia-gis.it/fossil/freexl 
  libftxui  6.1.9-1  A simple C++ library for terminal based user interface  https://github.com/ArthurSonzogni/FTXUI 
+ libfyaml  0.9  Fully feature complete YAML parser and emitter  https://pantoniou.github.io/libfyaml/ 
+ libfyaml-static  0.9  Static libraries for libfyaml  https://pantoniou.github.io/libfyaml/ 
  libgc  8.2.8-1  Library providing the Boehm-Demers-Weiser conservative garbage collector  https://www.hboehm.info/gc/ 
  libgc-static  8.2.8-1  Static libraries for libgc  https://www.hboehm.info/gc/ 
  libgcrypt  1.11.2-1  General purpose cryptographic library based on the code from GnuPG  https://www.gnu.org/software/libgcrypt/ 

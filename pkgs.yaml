@@ -211,7 +211,7 @@
   Description: APK signing tool from Android SDK
   Homepage: https://developer.android.com/studio/command-line/apksigner
 - Package: appstream
-  Version: 1.0.6
+  Version: 1.1.0
   Description: Provides a standard for creating app stores across distributions
   Homepage: https://www.freedesktop.org/wiki/Distributions/AppStream/
 - Package: apr
@@ -4042,6 +4042,14 @@
   Version: 6.1.9-1
   Description: A simple C++ library for terminal based user interface
   Homepage: https://github.com/ArthurSonzogni/FTXUI
+- Package: libfyaml
+  Version: "0.9"
+  Description: Fully feature complete YAML parser and emitter
+  Homepage: https://pantoniou.github.io/libfyaml/
+- Package: libfyaml-static
+  Version: "0.9"
+  Description: Static libraries for libfyaml
+  Homepage: https://pantoniou.github.io/libfyaml/
 - Package: libgc
   Version: 8.2.8-1
   Description: Library providing the Boehm-Demers-Weiser conservative garbage collector
