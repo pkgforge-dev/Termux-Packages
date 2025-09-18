@@ -327,7 +327,7 @@
   Description: Static libraries for aspell
   Homepage: http://aspell.net
 - Package: aspnetcore-runtime-8.0
-  Version: 8.0.18
+  Version: 8.0.20
   Description: ASP.NET Core 8.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-runtime-9.0
@@ -335,7 +335,7 @@
   Description: ASP.NET Core 9.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-runtime-dbg-8.0
-  Version: 8.0.18
+  Version: 8.0.20
   Description: ASP.NET Core 8.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-runtime-dbg-9.0
@@ -343,7 +343,7 @@
   Description: ASP.NET Core 9.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-targeting-pack-8.0
-  Version: 8.0.18
+  Version: 8.0.20
   Description: ASP.NET Core 8.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-targeting-pack-9.0
@@ -959,7 +959,7 @@
   Description: A cli tool to download specific GitHub directories or files
   Homepage: https://github.com/alok8bb/cloneit
 - Package: cloudflared
-  Version: 2025.8.1
+  Version: 2025.9.0
   Description: A tunneling daemon that proxies traffic from the Cloudflare network to your origins
   Homepage: https://github.com/cloudflare/cloudflared
 - Package: clpeak
@@ -1411,7 +1411,7 @@
   Description: Static libraries for dotconf
   Homepage: https://github.com/williamh/dotconf
 - Package: dotnet-apphost-pack-8.0
-  Version: 8.0.18
+  Version: 8.0.20
   Description: .NET 8.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-apphost-pack-9.0
@@ -1423,7 +1423,7 @@
   Description: A metapackage for .NET Host
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-host-8.0
-  Version: 8.0.18
+  Version: 8.0.20
   Description: .NET 8.0 Host
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-host-9.0
@@ -1431,7 +1431,7 @@
   Description: .NET 9.0 Host
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-hostfxr-8.0
-  Version: 8.0.18
+  Version: 8.0.20
   Description: .NET 8.0 Host Resolver
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-hostfxr-9.0
@@ -1439,7 +1439,7 @@
   Description: .NET 9.0 Host Resolver
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-8.0
-  Version: 8.0.18
+  Version: 8.0.20
   Description: .NET 8.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-9.0
@@ -1447,7 +1447,7 @@
   Description: .NET 9.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-dbg-8.0
-  Version: 8.0.18
+  Version: 8.0.20
   Description: .NET 8.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-dbg-9.0
@@ -1455,7 +1455,7 @@
   Description: .NET 9.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-8.0
-  Version: 8.0.18
+  Version: 8.0.20
   Description: .NET 8.0 SDK
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-9.0
@@ -1463,7 +1463,7 @@
   Description: .NET 9.0 SDK
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-dbg-8.0
-  Version: 8.0.18
+  Version: 8.0.20
   Description: .NET 8.0 SDK Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-dbg-9.0
@@ -1471,7 +1471,7 @@
   Description: .NET 9.0 SDK Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-targeting-pack-8.0
-  Version: 8.0.18
+  Version: 8.0.20
   Description: .NET 8.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-targeting-pack-9.0
@@ -1479,7 +1479,7 @@
   Description: .NET 9.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-templates-8.0
-  Version: 8.0.18
+  Version: 8.0.20
   Description: .NET 8.0 Templates
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-templates-9.0
@@ -1487,7 +1487,7 @@
   Description: .NET 9.0 Templates
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet8.0
-  Version: 8.0.18
+  Version: 8.0.20
   Description: .NET 8.0
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet9.0
@@ -1895,7 +1895,7 @@
   Description: Utilities to find files meeting specified criteria and perform various actions on the files which are found
   Homepage: https://www.gnu.org/software/findutils/
 - Package: fish
-  Version: 4.0.6
+  Version: 4.0.8
   Description: The user-friendly command line shell
   Homepage: https://fishshell.com/
 - Package: flac
@@ -2223,7 +2223,7 @@
   Description: Fast, scalable, distributed revision control system
   Homepage: https://git-scm.com/
 - Package: git-credential-manager
-  Version: 2.6.1-1
+  Version: 2.6.1-2
   Description: Cross-platform Git credential storage for multiple hosting providers
   Homepage: https://aka.ms/gcm
 - Package: git-crypt
@@ -3047,7 +3047,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.23.38
+  Version: 0.23.38-1
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -5731,11 +5731,11 @@
   Description: Static libraries for libudfread
   Homepage: https://code.videolan.org/videolan/libudfread/
 - Package: libunbound
-  Version: 1.23.1-1
+  Version: 1.24.0
   Description: A validating, recursive, caching DNS resolver
   Homepage: https://unbound.net/
 - Package: libunbound-static
-  Version: 1.23.1-1
+  Version: 1.24.0
   Description: Static libraries for libunbound
   Homepage: https://unbound.net/
 - Package: libunibilium
@@ -7127,7 +7127,7 @@
   Description: A metapackage for NETStandard.Library 2.1 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: netstandard-targeting-pack-2.1-8.0
-  Version: 8.0.18
+  Version: 8.0.20
   Description: NETStandard.Library 2.1 Targeting Pack (.NET 8.0)
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: netstandard-targeting-pack-2.1-9.0
@@ -8267,7 +8267,7 @@
   Description: Static libraries for python2
   Homepage: http://python.org/
 - Package: pyunbound
-  Version: 1.23.1-1
+  Version: 1.24.0
   Description: Python bindings for Unbound
   Homepage: https://unbound.net/
 - Package: pzstd
@@ -9979,7 +9979,7 @@
   Description: Command line tools for archive and file unarchiving and extraction
   Homepage: https://theunarchiver.com/command-line
 - Package: unbound
-  Version: 1.23.1-1
+  Version: 1.24.0
   Description: Unbound command-line tools
   Homepage: https://unbound.net/
 - Package: unicode-data

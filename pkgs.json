@@ -493,7 +493,7 @@
   },
   {
     "Package": "aspnetcore-runtime-8.0",
-    "Version": "8.0.18",
+    "Version": "8.0.20",
     "Description": "ASP.NET Core 8.0 Runtime",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -505,7 +505,7 @@
   },
   {
     "Package": "aspnetcore-runtime-dbg-8.0",
-    "Version": "8.0.18",
+    "Version": "8.0.20",
     "Description": "ASP.NET Core 8.0 Runtime Managed Debug Symbols",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -517,7 +517,7 @@
   },
   {
     "Package": "aspnetcore-targeting-pack-8.0",
-    "Version": "8.0.18",
+    "Version": "8.0.20",
     "Description": "ASP.NET Core 8.0 Targeting Pack",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -1441,7 +1441,7 @@
   },
   {
     "Package": "cloudflared",
-    "Version": "2025.8.1",
+    "Version": "2025.9.0",
     "Description": "A tunneling daemon that proxies traffic from the Cloudflare network to your origins",
     "Homepage": "https://github.com/cloudflare/cloudflared"
   },
@@ -2119,7 +2119,7 @@
   },
   {
     "Package": "dotnet-apphost-pack-8.0",
-    "Version": "8.0.18",
+    "Version": "8.0.20",
     "Description": ".NET 8.0 Targeting Pack",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2137,7 +2137,7 @@
   },
   {
     "Package": "dotnet-host-8.0",
-    "Version": "8.0.18",
+    "Version": "8.0.20",
     "Description": ".NET 8.0 Host",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2149,7 +2149,7 @@
   },
   {
     "Package": "dotnet-hostfxr-8.0",
-    "Version": "8.0.18",
+    "Version": "8.0.20",
     "Description": ".NET 8.0 Host Resolver",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2161,7 +2161,7 @@
   },
   {
     "Package": "dotnet-runtime-8.0",
-    "Version": "8.0.18",
+    "Version": "8.0.20",
     "Description": ".NET 8.0 Runtime",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2173,7 +2173,7 @@
   },
   {
     "Package": "dotnet-runtime-dbg-8.0",
-    "Version": "8.0.18",
+    "Version": "8.0.20",
     "Description": ".NET 8.0 Runtime Managed Debug Symbols",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2185,7 +2185,7 @@
   },
   {
     "Package": "dotnet-sdk-8.0",
-    "Version": "8.0.18",
+    "Version": "8.0.20",
     "Description": ".NET 8.0 SDK",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2197,7 +2197,7 @@
   },
   {
     "Package": "dotnet-sdk-dbg-8.0",
-    "Version": "8.0.18",
+    "Version": "8.0.20",
     "Description": ".NET 8.0 SDK Managed Debug Symbols",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2209,7 +2209,7 @@
   },
   {
     "Package": "dotnet-targeting-pack-8.0",
-    "Version": "8.0.18",
+    "Version": "8.0.20",
     "Description": ".NET 8.0 Targeting Pack",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2221,7 +2221,7 @@
   },
   {
     "Package": "dotnet-templates-8.0",
-    "Version": "8.0.18",
+    "Version": "8.0.20",
     "Description": ".NET 8.0 Templates",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2233,7 +2233,7 @@
   },
   {
     "Package": "dotnet8.0",
-    "Version": "8.0.18",
+    "Version": "8.0.20",
     "Description": ".NET 8.0",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2845,7 +2845,7 @@
   },
   {
     "Package": "fish",
-    "Version": "4.0.6",
+    "Version": "4.0.8",
     "Description": "The user-friendly command line shell",
     "Homepage": "https://fishshell.com/"
   },
@@ -3337,7 +3337,7 @@
   },
   {
     "Package": "git-credential-manager",
-    "Version": "2.6.1-1",
+    "Version": "2.6.1-2",
     "Description": "Cross-platform Git credential storage for multiple hosting providers",
     "Homepage": "https://aka.ms/gcm"
   },
@@ -4573,7 +4573,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.23.38",
+    "Version": "0.23.38-1",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -8599,13 +8599,13 @@
   },
   {
     "Package": "libunbound",
-    "Version": "1.23.1-1",
+    "Version": "1.24.0",
     "Description": "A validating, recursive, caching DNS resolver",
     "Homepage": "https://unbound.net/"
   },
   {
     "Package": "libunbound-static",
-    "Version": "1.23.1-1",
+    "Version": "1.24.0",
     "Description": "Static libraries for libunbound",
     "Homepage": "https://unbound.net/"
   },
@@ -10693,7 +10693,7 @@
   },
   {
     "Package": "netstandard-targeting-pack-2.1-8.0",
-    "Version": "8.0.18",
+    "Version": "8.0.20",
     "Description": "NETStandard.Library 2.1 Targeting Pack (.NET 8.0)",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -12403,7 +12403,7 @@
   },
   {
     "Package": "pyunbound",
-    "Version": "1.23.1-1",
+    "Version": "1.24.0",
     "Description": "Python bindings for Unbound",
     "Homepage": "https://unbound.net/"
   },
@@ -14971,7 +14971,7 @@
   },
   {
     "Package": "unbound",
-    "Version": "1.23.1-1",
+    "Version": "1.24.0",
     "Description": "Unbound command-line tools",
     "Homepage": "https://unbound.net/"
   },
