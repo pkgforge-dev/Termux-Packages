@@ -795,7 +795,7 @@
  just  1.42.4-1  A handy way to save and run project-specific commands  https://just.systems 
  jython  2.7.4-1  Python for the Java Platform  https://www.jython.org/ 
  k2pdfopt  2.55-4  A tool that optimizes PDF files for viewing on mobile readers  https://www.willus.com/k2pdfopt/ 
- k9s  0.50.9-1  Kubernetes CLI To Manage Your Clusters In Style!  https://k9scli.io 
+ k9s  0.50.10  Kubernetes CLI To Manage Your Clusters In Style!  https://k9scli.io 
  kainjow-mustache  4.1  Mustache implementation for modern C++  https://github.com/kainjow/Mustache 
  kakoune  2025.06.03-2  Code editor heavily inspired by Vim  https://kakoune.org/ 
  kakoune-lsp  18.2.0-1  Language Server Protocol Client for the Kakoune editor  https://github.com/kakoune-lsp/kakoune-lsp 
@@ -817,7 +817,7 @@
  ladspa-sdk  1.17-2  Linux Audio Developer's Simple Plugin API  https://www.ladspa.org/ 
  lame  3.100-7  High quality MPEG Audio Layer III (MP3) encoder - frontend  https://lame.sourceforge.io/ 
  lastpass-cli  1.6.1-3  LastPass command line interface tool  https://lastpass.com/ 
- lazygit  0.55.0  Simple terminal UI for git commands  https://github.com/jesseduffield/lazygit 
+ lazygit  0.55.1  Simple terminal UI for git commands  https://github.com/jesseduffield/lazygit 
  lcal  2.1.0-1  A multi-platform program which generates PostScript lunar calendars in a yearly format  https://pcal.sourceforge.net/ 
  ldc  1.30.0-2  D programming language compiler, built with LLVM  https://github.com/ldc-developers/ldc 
  ldd  0.3  Fake ldd command  https://github.com/termux/termux-packages 
@@ -1597,7 +1597,7 @@
  luvi  1:2.15.0-1  A project in-between luv and luvit  https://luvit.io 
  luvit  2.18.1-1  Asynchronous I/O for Lua  https://luvit.io 
  lux  0.24.1-2  CLI tool to download videos from various websites  https://github.com/iawia002/lux 
- lux-cli  0.17.1  A package manager for Lua, similar to luarocks  https://nvim-neorocks.github.io/ 
+ lux-cli  0.18.0  A package manager for Lua, similar to luarocks  https://nvim-neorocks.github.io/ 
  lv2  1.18.10-5  A plugin standard for audio systems  https://lv2plug.in/ 
  lychee  0.20.1  A fast, async, resource-friendly link checker written in Rust  https://github.com/lycheeverse/lychee 
  lynx  2.9.2-1  The text web browser  http://lynx.browser.org/ 
@@ -2522,7 +2522,7 @@
  util-linux-static  2.40.2-5  Static libraries for util-linux  https://en.wikipedia.org/wiki/Util-linux 
  uucp  1.07-2  The standard UUCP package of the Free Software Foundation  https://www.airs.com/ian/uucp.html 
  uuid-utils  2.40.2-5  Utilities for handling universally unique identifiers  https://en.wikipedia.org/wiki/Util-linux 
- uv  0.8.17  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
+ uv  0.8.18  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
  uwsgi  2.0.30-1  uWSGI application server container  https://projects.unbit.it/uwsgi 
  v2ray  5.38.0  A platform for building proxies to bypass network restrictions  https://www.v2fly.org/ 
  valac  0.56.18-1  C# like language for the GObject system  https://wiki.gnome.org/Projects/Vala 
