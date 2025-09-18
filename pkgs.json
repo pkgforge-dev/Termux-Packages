@@ -3732,6 +3732,12 @@
     "Homepage": "https://github.com/xxxserxxx/gotop"
   },
   {
+    "Package": "gotorrent",
+    "Version": "0.1.2",
+    "Description": "TUI for searching torrents",
+    "Homepage": "https://github.com/ismaelpadilla/gotorrent"
+  },
+  {
     "Package": "gotty",
     "Version": "1.6.0-1",
     "Description": "Share your terminal as a web application",
@@ -10135,7 +10141,7 @@
   },
   {
     "Package": "mksh",
-    "Version": "59c-2",
+    "Version": "59c-3",
     "Description": "The MirBSD Korn Shell - an enhanced version of the public domain ksh",
     "Homepage": "http://www.mirbsd.org/mksh.htm"
   },

@@ -620,6 +620,7 @@
  gopls  0.20.0  The official Go language server  https://github.com/golang/tools 
  gost  2.12.0  GO Simple Tunnel - a simple tunnel written in golang  https://github.com/ginuerzh/gost 
  gotop  4.2.0-4  A terminal based graphical activity monitor inspired by gtop and vtop  https://github.com/xxxserxxx/gotop 
+ gotorrent  0.1.2  TUI for searching torrents  https://github.com/ismaelpadilla/gotorrent 
  gotty  1.6.0-1  Share your terminal as a web application  https://github.com/sorenisanerd/gotty 
  gpac  2.4.0-4  An open-source multimedia framework focused on modularity and standards compliance  https://gpac.wp.imt.fr/ 
  gpac-static  2.4.0-4  Static libraries for gpac  https://gpac.wp.imt.fr/ 
@@ -1687,7 +1688,7 @@
  minizinc-static  2.9.3-1  Static libraries for minizinc  https://github.com/MiniZinc/libminizinc 
  mkbootimg  2022.11.09-1  Maintained fork with android's mkbootimg and unpackbootimg  https://github.com/osm0sis/mkbootimg 
  mkp224o  1.7.0-1  Generate vanity ed25519 (hidden service version 3) onion addresses  https://github.com/cathugger/mkp224o 
- mksh  59c-2  The MirBSD Korn Shell - an enhanced version of the public domain ksh  http://www.mirbsd.org/mksh.htm 
+ mksh  59c-3  The MirBSD Korn Shell - an enhanced version of the public domain ksh  http://www.mirbsd.org/mksh.htm 
  mktorrent  1.1-p20210130-1  command line utility to create BitTorrent metainfo files  https://github.com/Rudde/mktorrent 
  mlir  20.1.8-3  A Multi-Level Intermediate Representation for compilers from LLVM  https://clang.llvm.org/ 
  mlocate  0.26-6  Tool to find files anywhere in the filesystem based on their name  https://pagure.io/mlocate 
