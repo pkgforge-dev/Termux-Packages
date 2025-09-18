@@ -731,11 +731,11 @@
   Description: Static libraries for c-toxcore
   Homepage: https://tox.chat
 - Package: ca-certificates
-  Version: 1:2025.08.12
+  Version: 1:2025.09.09
   Description: Common CA certificates
   Homepage: https://curl.se/docs/caextract.html
 - Package: ca-certificates-java
-  Version: 1:2025.08.12
+  Version: 1:2025.09.09
   Description: Common CA certificates (java keystore format)
   Homepage: https://curl.se/docs/caextract.html
 - Package: cabextract
@@ -4747,11 +4747,11 @@
   Description: Static libraries for libmpfr
   Homepage: https://www.mpfr.org/
 - Package: libmpg123
-  Version: 1.33.1-2
+  Version: 1.33.2
   Description: Fast console MPEG Audio Player and decoder library
   Homepage: https://mpg123.org/
 - Package: libmpg123-static
-  Version: 1.33.1-2
+  Version: 1.33.2
   Description: Static libraries for libmpg123
   Homepage: https://mpg123.org/
 - Package: libmsgpack
@@ -6871,7 +6871,7 @@
   Description: A Music Player Daemon (MPD) client which submits information about tracks being played to a scrobbler
   Homepage: https://www.musicpd.org/clients/mpdscribble/
 - Package: mpg123
-  Version: 1.33.1-2
+  Version: 1.33.2
   Description: Fast console MPEG Audio Player based on libmpg123
   Homepage: https://mpg123.org/
 - Package: mpv

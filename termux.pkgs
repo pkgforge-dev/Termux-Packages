@@ -181,8 +181,8 @@
 | **c-script** | 0.14 | Compile and execute C "scripts" in one go! | https://github.com/ryanmjacobs/c |
 | **c-toxcore** | 0.2.20-p20250105-1 | Backend library for the Tox protocol | https://tox.chat |
 | **c-toxcore-static** | 0.2.20-p20250105-1 | Static libraries for c-toxcore | https://tox.chat |
-| **ca-certificates** | 1:2025.08.12 | Common CA certificates | https://curl.se/docs/caextract.html |
-| **ca-certificates-java** | 1:2025.08.12 | Common CA certificates (java keystore format) | https://curl.se/docs/caextract.html |
+| **ca-certificates** | 1:2025.09.09 | Common CA certificates | https://curl.se/docs/caextract.html |
+| **ca-certificates-java** | 1:2025.09.09 | Common CA certificates (java keystore format) | https://curl.se/docs/caextract.html |
 | **cabextract** | 1.11-1 | A program to extract Microsoft cabinet (.CAB) files | https://www.cabextract.org.uk/ |
 | **cadaver** | 0.27-1 | A command-line WebDAV client for Unix | https://notroj.github.io/cadaver/ |
 | **caddy** | 2.10.2 | Fast, cross-platform HTTP/2 web server | https://caddyserver.com/ |
@@ -1185,8 +1185,8 @@
 | **libmpeg2-static** | 0.5.1-2 | Static libraries for libmpeg2 | https://libmpeg2.sourceforge.io/ |
 | **libmpfr** | 4.2.1-1 | C library for multiple-precision floating-point computations with correct rounding | https://www.mpfr.org/ |
 | **libmpfr-static** | 4.2.1-1 | Static libraries for libmpfr | https://www.mpfr.org/ |
-| **libmpg123** | 1.33.1-2 | Fast console MPEG Audio Player and decoder library | https://mpg123.org/ |
-| **libmpg123-static** | 1.33.1-2 | Static libraries for libmpg123 | https://mpg123.org/ |
+| **libmpg123** | 1.33.2 | Fast console MPEG Audio Player and decoder library | https://mpg123.org/ |
+| **libmpg123-static** | 1.33.2 | Static libraries for libmpg123 | https://mpg123.org/ |
 | **libmsgpack** | 6.1.0-1 | MessagePack implementation for C | https://github.com/msgpack/msgpack-c/ |
 | **libmsgpack-cxx** | 7.0.0-3 | msgpack for C++ | https://msgpack.org/ |
 | **libmsgpack-static** | 6.1.0-1 | Static libraries for libmsgpack | https://github.com/msgpack/msgpack-c/ |
@@ -1716,7 +1716,7 @@
 | **mpc** | 0.35-2 | Minimalist command line interface for MPD | https://www.musicpd.org/clients/mpc/ |
 | **mpd** | 0.24.5-1 | Music player daemon | https://www.musicpd.org |
 | **mpdscribble** | 0.25-3 | A Music Player Daemon (MPD) client which submits information about tracks being played to a scrobbler | https://www.musicpd.org/clients/mpdscribble/ |
-| **mpg123** | 1.33.1-2 | Fast console MPEG Audio Player based on libmpg123 | https://mpg123.org/ |
+| **mpg123** | 1.33.2 | Fast console MPEG Audio Player based on libmpg123 | https://mpg123.org/ |
 | **mpv** | 0.40.0-1 | Command-line media player | https://mpv.io/ |
 | **mruby** | 3.4.0-1 | Lightweight implementation of the Ruby language | https://mruby.org/ |
 | **mruby-static** | 3.4.0-1 | Static libraries for mruby | https://mruby.org/ |
