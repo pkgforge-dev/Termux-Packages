@@ -796,7 +796,7 @@
  just  1.42.4-1  A handy way to save and run project-specific commands  https://just.systems 
  jython  2.7.4-1  Python for the Java Platform  https://www.jython.org/ 
  k2pdfopt  2.55-4  A tool that optimizes PDF files for viewing on mobile readers  https://www.willus.com/k2pdfopt/ 
- k9s  0.50.11  Kubernetes CLI To Manage Your Clusters In Style!  https://k9scli.io 
+ k9s  0.50.12  Kubernetes CLI To Manage Your Clusters In Style!  https://k9scli.io 
  kainjow-mustache  4.1  Mustache implementation for modern C++  https://github.com/kainjow/Mustache 
  kakoune  2025.06.03-2  Code editor heavily inspired by Vim  https://kakoune.org/ 
  kakoune-lsp  18.2.0-1  Language Server Protocol Client for the Kakoune editor  https://github.com/kakoune-lsp/kakoune-lsp 
@@ -1581,7 +1581,7 @@
  lsix  1.9.1  Shows thumbnails in terminal using sixel graphics  https://github.com/hackerb9/lsix 
  lsof  4.99.5-2  Lists open files for running Unix processes  https://github.com/lsof-org/lsof 
  lsof-static  4.99.5-2  Static libraries for lsof  https://github.com/lsof-org/lsof 
- ltrace  1:0.7.9-1  Tracks runtime library calls in dynamically linked programs  http://www.ltrace.org/ 
+ ltrace  1:0.8.1  Tracks runtime library calls in dynamically linked programs  http://www.ltrace.org/ 
  lua-language-server  3.15.0-1  Sumneko Lua Language Server coded in Lua  https://github.com/sumneko/lua-language-server 
  lua-lgi  0.9.2-1  Dynamic Lua binding to GObject libraries using GObject-Introspection  https://github.com/lgi-devs/lgi 
  lua-lpeg  1.1.0-3  Pattern-matching library for Lua 5.4  https://www.inf.puc-rio.br/~roberto/lpeg 
@@ -1856,7 +1856,7 @@
  openjpeg-tools  2.5.3-1  Command-line tools using the JPEG 2000 library  https://www.openjpeg.org/ 
  openldap  2.6.10-1  OpenLDAP server  https://openldap.org 
  openldap-static  2.6.10-1  Static libraries for openldap  https://openldap.org 
- openlist  4.1.2-1  A file list program that supports multiple storage  https://oplist.org/ 
+ openlist  4.1.3  A file list program that supports multiple storage  https://oplist.org/ 
  openmpi  4.1.5-1  Open source Message Passing Interface implementation  https://www.open-mpi.org 
  openmpi-static  4.1.5-1  Static libraries for openmpi  https://www.open-mpi.org 
  openmpt123  0.8.3  libopenmpt based command-line player for tracker music formats  https://lib.openmpt.org/libopenmpt/ 
@@ -2568,9 +2568,9 @@
  vulkan-icd  0.1  A metapackage that provides Vulkan ICDs  https://github.com/termux/termux-packages 
  vulkan-loader  0.0.3  A metapackage that provides vulkan loader library  https://github.com/termux/termux-packages 
  vulkan-loader-android  28c-1  Vulkan Loader for Android  https://source.android.com/devices/graphics/arch-vulkan 
- vulkan-loader-generic  1.4.326  Vulkan Loader  https://github.com/KhronosGroup/Vulkan-Loader 
+ vulkan-loader-generic  1.4.327  Vulkan Loader  https://github.com/KhronosGroup/Vulkan-Loader 
  vulkan-tools  1.4.326  Vulkan Tools and Utilities  https://github.com/KhronosGroup/Vulkan-Tools 
- vulkan-utility-libraries  1.4.326  Utility Libraries for Vulkan  https://github.com/KhronosGroup/Vulkan-Utility-Libraries 
+ vulkan-utility-libraries  1.4.327  Utility Libraries for Vulkan  https://github.com/KhronosGroup/Vulkan-Utility-Libraries 
  vulkan-validation-layers  1.4.326  Vulkan Validation Layers  https://github.com/KhronosGroup/Vulkan-ValidationLayers 
  vulkan-volk  1.4.304  Meta loader for Vulkan API  https://github.com/zeux/volk 
  w3m  0.5.5  Text based Web browser and pager  https://w3m.sourceforge.net/ 
