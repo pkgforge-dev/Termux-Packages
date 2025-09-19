@@ -1055,7 +1055,7 @@
   Description: An extractor/converter for .LIT eBooks
   Homepage: http://www.convertlit.com/
 - Package: cookcli
-  Version: 0.17.1
+  Version: 0.17.2
   Description: A suite of tools to create shopping lists and maintain food recipes
   Homepage: https://cooklang.org
 - Package: coreutils
@@ -2467,7 +2467,7 @@
   Description: A database migration tool. Supports SQL migrations and Go functions.
   Homepage: https://pressly.github.io/goose
 - Package: gopass
-  Version: 1.15.17
+  Version: 1.15.18
   Description: The slightly more awesome standard unix password manager for teams
   Homepage: https://github.com/gopasspw/gopass
 - Package: gopher
@@ -10263,7 +10263,7 @@
   Description: Vulkan Extension Layer
   Homepage: https://github.com/KhronosGroup/Vulkan-ExtensionLayer
 - Package: vulkan-headers
-  Version: 1.4.326
+  Version: 1.4.327
   Description: Vulkan Header files and API registry
   Homepage: https://github.com/KhronosGroup/Vulkan-Headers
 - Package: vulkan-icd
