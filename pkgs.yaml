@@ -63,7 +63,7 @@
   Description: Tool like grep optimized for programmers
   Homepage: https://beyondgrep.com/
 - Package: acr
-  Version: 2.2.2
+  Version: 2.2.4
   Description: A fully compatible autoconf replacement
   Homepage: https://github.com/radareorg/acr
 - Package: ada
@@ -79,7 +79,7 @@
   Description: A pretty good email client
   Homepage: https://aerc-mail.org/
 - Package: agate
-  Version: 3.3.18
+  Version: 3.3.19
   Description: Very simple server for the Gemini hypertext protocol
   Homepage: https://github.com/mbrubeck/agate
 - Package: age
@@ -743,7 +743,7 @@
   Description: A program to extract Microsoft cabinet (.CAB) files
   Homepage: https://www.cabextract.org.uk/
 - Package: cadaver
-  Version: 0.27-1
+  Version: "0.28"
   Description: A command-line WebDAV client for Unix
   Homepage: https://notroj.github.io/cadaver/
 - Package: caddy
@@ -1055,7 +1055,7 @@
   Description: An extractor/converter for .LIT eBooks
   Homepage: http://www.convertlit.com/
 - Package: cookcli
-  Version: 0.16.0
+  Version: 0.17.1
   Description: A suite of tools to create shopping lists and maintain food recipes
   Homepage: https://cooklang.org
 - Package: coreutils
@@ -5603,15 +5603,15 @@
   Description: Thread debugging library
   Homepage: https://android.googlesource.com/platform/ndk/
 - Package: libtiff
-  Version: 4.7.0-1
+  Version: 4.7.1
   Description: Support for the Tag Image File Format (TIFF) for storing image data
   Homepage: http://www.simplesystems.org/libtiff/
 - Package: libtiff-static
-  Version: 4.7.0-1
+  Version: 4.7.1
   Description: Static libraries for libtiff
   Homepage: http://www.simplesystems.org/libtiff/
 - Package: libtiff-utils
-  Version: 4.7.0-1
+  Version: 4.7.1
   Description: Tools for working with tiff files
   Homepage: http://www.simplesystems.org/libtiff/
 - Package: libtins
@@ -6715,7 +6715,7 @@
   Description: A server software with the aim of being fully compliant with DLNA/UPnP-AV clients
   Homepage: https://sourceforge.net/projects/minidlna/
 - Package: miniflux
-  Version: 2.2.12
+  Version: 2.2.13
   Description: A minimalist and opinionated feed reader
   Homepage: https://miniflux.app/
 - Package: minimodem
@@ -8207,7 +8207,7 @@
   Description: Python client for Neovim
   Homepage: https://github.com/neovim/pynvim
 - Package: python-ruff
-  Version: 0.13.0
+  Version: 0.13.1
   Description: An extremely fast Python linter, written in Rust (Python bindings)
   Homepage: https://github.com/charliermarsh/ruff
 - Package: python-sabyenc3
@@ -8279,7 +8279,7 @@
   Description: A Pigz-like tool for Zstandard
   Homepage: https://github.com/facebook/zstd
 - Package: q-dns-client
-  Version: 0.19.8
+  Version: 0.19.9
   Description: A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH
   Homepage: https://github.com/natesales/q
 - Package: qalc
@@ -8711,7 +8711,7 @@
   Description: Ruby documentation index
   Homepage: https://www.ruby-lang.org/
 - Package: ruff
-  Version: 0.13.0
+  Version: 0.13.1
   Description: An extremely fast Python linter, written in Rust
   Homepage: https://github.com/charliermarsh/ruff
 - Package: runit
@@ -8987,7 +8987,7 @@
   Description: Implementations of SIMD instructions for all systems
   Homepage: https://simd-everywhere.github.io/
 - Package: simdjson
-  Version: 4.0.4
+  Version: 4.0.5
   Description: A C++ library to see how fast we can parse JSON with complete validation
   Homepage: https://simdjson.org/
 - Package: simh

@@ -26,11 +26,11 @@
 | **abootimg** | 0.6-3 | Pack or unpack android boot images | https://gitlab.com/ajs124/abootimg |
 | **abseil-cpp** | 20250814.0 | Abseil C++ Common Libraries | https://abseil.io/ |
 | **ack-grep** | 3.9.0 | Tool like grep optimized for programmers | https://beyondgrep.com/ |
-| **acr** | 2.2.2 | A fully compatible autoconf replacement | https://github.com/radareorg/acr |
+| **acr** | 2.2.4 | A fully compatible autoconf replacement | https://github.com/radareorg/acr |
 | **ada** | 3.2.7 | WHATWG-compliant and fast URL parser written in modern C++ | https://github.com/ada-url/ada |
 | **adms** | 2.3.7-1 | A code generator for the Verilog-AMS language | https://github.com/qucs/adms |
 | **aerc** | 0.21.0 | A pretty good email client | https://aerc-mail.org/ |
-| **agate** | 3.3.18 | Very simple server for the Gemini hypertext protocol | https://github.com/mbrubeck/agate |
+| **agate** | 3.3.19 | Very simple server for the Gemini hypertext protocol | https://github.com/mbrubeck/agate |
 | **age** | 1:1.2.1-1 | A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability | https://github.com/FiloSottile/age |
 | **agg** | 1.5.0-1 | asciinema gif generator | https://github.com/asciinema/agg |
 | **aha** | 0.5.1-2 | Converts ANSI escape sequences of a unix terminal to HTML code | https://github.com/theZiz/aha |
@@ -196,7 +196,7 @@
 | **ca-certificates** | 1:2025.09.09 | Common CA certificates | https://curl.se/docs/caextract.html |
 | **ca-certificates-java** | 1:2025.09.09 | Common CA certificates (java keystore format) | https://curl.se/docs/caextract.html |
 | **cabextract** | 1.11-1 | A program to extract Microsoft cabinet (.CAB) files | https://www.cabextract.org.uk/ |
-| **cadaver** | 0.27-1 | A command-line WebDAV client for Unix | https://notroj.github.io/cadaver/ |
+| **cadaver** | 0.28 | A command-line WebDAV client for Unix | https://notroj.github.io/cadaver/ |
 | **caddy** | 2.10.2 | Fast, cross-platform HTTP/2 web server | https://caddyserver.com/ |
 | **calc** | 2.15.1.1-1 | Arbitrary precision console calculator | http://www.isthe.com/chongo/tech/comp/calc/ |
 | **calcurse** | 4.8.2 | calcurse is a calendar and scheduling application for the command line | https://calcurse.org/ |
@@ -274,7 +274,7 @@
 | **composer** | 2.8.11 | Dependency Manager for PHP | https://getcomposer.org/ |
 | **console-bridge** | 1.0.2-1 | A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages | https://github.com/ros/console_bridge |
 | **convertlit** | 1.8-2 | An extractor/converter for .LIT eBooks | http://www.convertlit.com/ |
-| **cookcli** | 0.16.0 | A suite of tools to create shopping lists and maintain food recipes | https://cooklang.org |
+| **cookcli** | 0.17.1 | A suite of tools to create shopping lists and maintain food recipes | https://cooklang.org |
 | **coreutils** | 9.7-3 | Basic file, shell and text manipulation utilities from the GNU project | https://www.gnu.org/software/coreutils/ |
 | **corgi** | 0.2.4-5 | CLI workflow manager | https://github.com/DrakeW/corgi |
 | **corkscrew** | 2.0-4 | A tool for tunneling SSH through HTTP proxies | https://wiki.linuxquestions.org/wiki/Corkscrew |
@@ -1411,9 +1411,9 @@
 | **libtheora** | 1.2.0-1 | An open video codec developed by the Xiph.org | https://www.theora.org/ |
 | **libtheora-static** | 1.2.0-1 | Static libraries for libtheora | https://www.theora.org/ |
 | **libthread-db** | 22-2 | Thread debugging library | https://android.googlesource.com/platform/ndk/ |
-| **libtiff** | 4.7.0-1 | Support for the Tag Image File Format (TIFF) for storing image data | http://www.simplesystems.org/libtiff/ |
-| **libtiff-static** | 4.7.0-1 | Static libraries for libtiff | http://www.simplesystems.org/libtiff/ |
-| **libtiff-utils** | 4.7.0-1 | Tools for working with tiff files | http://www.simplesystems.org/libtiff/ |
+| **libtiff** | 4.7.1 | Support for the Tag Image File Format (TIFF) for storing image data | http://www.simplesystems.org/libtiff/ |
+| **libtiff-static** | 4.7.1 | Static libraries for libtiff | http://www.simplesystems.org/libtiff/ |
+| **libtiff-utils** | 4.7.1 | Tools for working with tiff files | http://www.simplesystems.org/libtiff/ |
 | **libtins** | 4.5-3 | High-level, multiplatform C++ network packet sniffing and crafting library. | https://libtins.github.io |
 | **libtinyxml** | 2.6.2-2 | A simple, small, C++ XML parser | https://sourceforge.net/projects/tinyxml/ |
 | **libtinyxml2** | 11.0.0-1 | A simple, small, efficient, C++ XML parser | http://www.grinninglizard.com/tinyxml2/ |
@@ -1689,7 +1689,7 @@
 | **minesweeper** | 0.3.1-4 | A simple terminal-based implementation of Minesweeper | https://github.com/benhsm/minesweeper |
 | **minicom** | 2.10-1 | Friendly menu driven serial communication program | https://salsa.debian.org/minicom-team/minicom |
 | **minidlna** | 1.3.3-3 | A server software with the aim of being fully compliant with DLNA/UPnP-AV clients | https://sourceforge.net/projects/minidlna/ |
-| **miniflux** | 2.2.12 | A minimalist and opinionated feed reader | https://miniflux.app/ |
+| **miniflux** | 2.2.13 | A minimalist and opinionated feed reader | https://miniflux.app/ |
 | **minimodem** | 0.24-1-1 | General-purpose software audio FSK modem | http://www.whence.com/minimodem/ |
 | **minio** | 2025.09.07.16.13.09 | Multi-Cloud Object Storage | https://min.io/ |
 | **miniserve** | 0.32.0 | Tool to serve files and dirs over HTTP | https://github.com/svenstaro/miniserve |
@@ -2062,7 +2062,7 @@
 | **python-pyarrow** | 21.0.0-3 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
 | **python-pycryptodomex** | 3.23.0-1 | A self-contained Python package of low-level cryptographic primitives | https://www.pycryptodome.org/ |
 | **python-pynvim** | 0.6.0 | Python client for Neovim | https://github.com/neovim/pynvim |
-| **python-ruff** | 0.13.0 | An extremely fast Python linter, written in Rust (Python bindings) | https://github.com/charliermarsh/ruff |
+| **python-ruff** | 0.13.1 | An extremely fast Python linter, written in Rust (Python bindings) | https://github.com/charliermarsh/ruff |
 | **python-sabyenc3** | 8.2.6-1 | C implementations of functions for use within SABnzbd | https://github.com/sabnzbd/sabctools |
 | **python-skia-pathops** | 0.8.0-2 | Python bindings for the Skia library's Path Ops | https://github.com/fonttools/skia-pathops |
 | **python-static** | 3.12.11-1 | Static libraries for python | https://python.org/ |
@@ -2080,7 +2080,7 @@
 | **python2-static** | 2.7.18-15 | Static libraries for python2 | http://python.org/ |
 | **pyunbound** | 1.24.0 | Python bindings for Unbound | https://unbound.net/ |
 | **pzstd** | 1.5.7-1 | A Pigz-like tool for Zstandard | https://github.com/facebook/zstd |
-| **q-dns-client** | 0.19.8 | A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH | https://github.com/natesales/q |
+| **q-dns-client** | 0.19.9 | A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH | https://github.com/natesales/q |
 | **qalc** | 5.7.0 | Powerful and easy to use command line calculator | https://qalculate.github.io/ |
 | **qalc-static** | 5.7.0 | Static libraries for qalc | https://qalculate.github.io/ |
 | **qemu-common** | 1:8.2.6-6 | A set common files used by the QEMU emulators | https://www.qemu.org |
@@ -2188,7 +2188,7 @@
 | **rubiks-cube** | 1.2-1 | A rubik's cube that runs in your terminal | https://github.com/been-jamming/rubiks_cube |
 | **ruby** | 3.4.1-2 | Dynamic programming language with a focus on simplicity and productivity | https://www.ruby-lang.org/ |
 | **ruby-ri** | 3.4.1-2 | Ruby documentation index | https://www.ruby-lang.org/ |
-| **ruff** | 0.13.0 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
+| **ruff** | 0.13.1 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
 | **runit** | 2.1.2-4 | Tools to provide service supervision and to manage services | http://smarden.org/runit |
 | **runit-static** | 2.1.2-4 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.7.0-1 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
@@ -2257,7 +2257,7 @@
 | **silicon** | 0.5.3-1 | Silicon is an alternative to Carbon implemented in Rust | https://github.com/Aloxaf/silicon |
 | **silversearcher-ag** | 2.2.0-6 | Fast grep-like program, alternative to ack-grep | https://geoff.greer.fm/ag/ |
 | **simde** | 0.8.2 | Implementations of SIMD instructions for all systems | https://simd-everywhere.github.io/ |
-| **simdjson** | 4.0.4 | A C++ library to see how fast we can parse JSON with complete validation | https://simdjson.org/ |
+| **simdjson** | 4.0.5 | A C++ library to see how fast we can parse JSON with complete validation | https://simdjson.org/ |
 | **simh** | 1:3.12.5-1 | A collection of simulators for computer hardware and software from the past | http://simh.trailing-edge.com/ |
 | **simulavr** | 1:1.1.0-2 | Simulator for Microchip AVR (formerly Atmel) microcontrollers | https://www.nongnu.org/simulavr |
 | **simuwaerm** | 0.02-1 | A simple heat transfer simulator in pure Rust | https://github.com/file-acomplaint/simuwaerm |
