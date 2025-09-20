@@ -11227,7 +11227,7 @@
   },
   {
     "Package": "openxr",
-    "Version": "1.1.51",
+    "Version": "1.1.52",
     "Description": "Open standard that provides a common set of APIs for developing XR applications",
     "Homepage": "https://www.khronos.org/openxr/"
   },
@@ -12823,7 +12823,7 @@
   },
   {
     "Package": "remind",
-    "Version": "1:06.01.01",
+    "Version": "1:06.01.02",
     "Description": "Sophisticated calendar and alarm program",
     "Homepage": "https://dianne.skoll.ca/projects/remind/"
   },
@@ -15151,7 +15151,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.8.18",
+    "Version": "0.8.19",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
@@ -15439,7 +15439,7 @@
   },
   {
     "Package": "vulkan-validation-layers",
-    "Version": "1.4.326",
+    "Version": "1.4.327",
     "Description": "Vulkan Validation Layers",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-ValidationLayers"
   },
@@ -15733,7 +15733,7 @@
   },
   {
     "Package": "xh",
-    "Version": "0.24.1-1",
+    "Version": "0.25.0",
     "Description": "A friendly and fast tool for sending HTTP requests",
     "Homepage": "https://github.com/ducaale/xh"
   },
