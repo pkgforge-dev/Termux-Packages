@@ -6803,7 +6803,7 @@
   Description: Simple game where you drive a car across the moons surface
   Homepage: https://github.com/seehuhn/moon-buggy
 - Package: moor
-  Version: 2.1.1
+  Version: 2.2.0
   Description: A pager designed to just do the right thing without any configuration
   Homepage: https://github.com/walles/moor
 - Package: mop
@@ -7415,11 +7415,11 @@
   Description: Portion of openjdk-21 requiring X11 functionality
   Homepage: https://openjdk.java.net
 - Package: openjpeg
-  Version: 2.5.3-1
+  Version: 2.5.4
   Description: JPEG 2000 image compression library
   Homepage: https://www.openjpeg.org/
 - Package: openjpeg-tools
-  Version: 2.5.3-1
+  Version: 2.5.4
   Description: Command-line tools using the JPEG 2000 library
   Homepage: https://www.openjpeg.org/
 - Package: openldap
