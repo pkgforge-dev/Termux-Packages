@@ -1579,7 +1579,7 @@
 | **llvm-mingw-w64-ucrt** | 20250402 | MinGW-w64 runtime for LLVM-MinGW | https://www.mingw-w64.org/ |
 | **llvm-tools** | 20.1.8-3 | LLVM Development Tools | https://clang.llvm.org/ |
 | **llvmgold** | 20.1.8-3 | LLVM gold plugin | https://clang.llvm.org/ |
-| **lnav** | 0.12.3-1 | An advanced log file viewer for the small-scale | https://lnav.org/ |
+| **lnav** | 0.13.2 | An advanced log file viewer for the small-scale | https://lnav.org/ |
 | **lnd** | 0.17.0-beta-1 | Lightning Network Daemon | https://github.com/lightningnetwork/lnd |
 | **logo-ls** | 2024.07.17-1 | Modern ls command with vscode like File Icon and Git Integrations | https://github.com/Yash-Handa/logo-ls |
 | **logrotate** | 3.22.0-1 | Simplify the administration of log files on a system which generates a lot of log files | https://github.com/logrotate/logrotate |
@@ -1893,9 +1893,9 @@
 | **ossp-uuid** | 1.6.2-4 | ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122. | http://www.ossp.org/pkg/lib/uuid/ |
 | **ossp-uuid-static** | 1.6.2-4 | Static libraries for ossp-uuid | http://www.ossp.org/pkg/lib/uuid/ |
 | **ovmf** | 20231122-16.fc40-0 | Open Virtual Machine Firmware | https://www.tianocore.org/ |
-| **oxc-language-server** | 1.14.0-1 | Oxc JavaScript linter language server | https://oxc.rs/ |
-| **oxfmt** | 1.14.0-1 | Oxc JavaScript formatter | https://oxc.rs/ |
-| **oxlint** | 1.14.0-1 | Oxc JavaScript linter | https://oxc.rs/ |
+| **oxc-language-server** | 1.16.0 | Oxc JavaScript linter language server | https://oxc.rs/ |
+| **oxfmt** | 1.16.0 | Oxc JavaScript formatter | https://oxc.rs/ |
+| **oxlint** | 1.16.0 | Oxc JavaScript linter | https://oxc.rs/ |
 | **p11-kit** | 0.25.9 | Provides a way to load and enumerate PKCS#11 modules | https://p11-glue.github.io/p11-glue/p11-kit.html |
 | **p7zip** | 17.06-1 | Command-line version of the 7zip compressed file archiver | https://github.com/p7zip-project/p7zip |
 | **pacman** | 7.0.0-4 | A library-based package manager with dependency support | https://archlinux.org/pacman/ |
