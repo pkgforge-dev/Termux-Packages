@@ -285,7 +285,7 @@
 | **cpufetch** | 1.06-1 | Simple yet fancy CPU architecture fetching tool | https://github.com/Dr-Noob/cpufetch |
 | **cpulimit** | 0.2-2 | CPU usage limiter | https://github.com/opsengine/cpulimit |
 | **crawl** | 0.33.1-1 | Roguelike adventure through dungeons filled with dangerous monsters | https://crawl.develz.org/ |
-| **croc** | 1:10.2.4-1 | Easily and securely send things from one computer to another | https://github.com/schollz/croc |
+| **croc** | 1:10.2.5 | Easily and securely send things from one computer to another | https://github.com/schollz/croc |
 | **cronie** | 1.7.2-4 | Daemon that runs specified programs at scheduled times and related tools | https://github.com/cronie-crond/cronie/ |
 | **crowbook** | 0.17.0-1 | Allows you to write a book in Markdown without worrying about formatting or typography | https://github.com/crowdagger/crowbook |
 | **crunch** | 3.6-5 | Highly customizable wordlist generator | https://sourceforge.net/projects/crunch-wordlist/ |
@@ -2257,7 +2257,7 @@
 | **silicon** | 0.5.3-1 | Silicon is an alternative to Carbon implemented in Rust | https://github.com/Aloxaf/silicon |
 | **silversearcher-ag** | 2.2.0-6 | Fast grep-like program, alternative to ack-grep | https://geoff.greer.fm/ag/ |
 | **simde** | 0.8.2 | Implementations of SIMD instructions for all systems | https://simd-everywhere.github.io/ |
-| **simdjson** | 4.0.5 | A C++ library to see how fast we can parse JSON with complete validation | https://simdjson.org/ |
+| **simdjson** | 4.0.6 | A C++ library to see how fast we can parse JSON with complete validation | https://simdjson.org/ |
 | **simh** | 1:3.12.5-1 | A collection of simulators for computer hardware and software from the past | http://simh.trailing-edge.com/ |
 | **simulavr** | 1:1.1.0-2 | Simulator for Microchip AVR (formerly Atmel) microcontrollers | https://www.nongnu.org/simulavr |
 | **simuwaerm** | 0.02-1 | A simple heat transfer simulator in pure Rust | https://github.com/file-acomplaint/simuwaerm |
@@ -2382,7 +2382,7 @@
 | **tdb-tools** | 1.4.14 | Tools for TDB | https://tdb.samba.org/ |
 | **tdl** | 0.19.2 | Telegram downloader/tools written in Golang | https://docs.iyear.me/tdl/ |
 | **tea** | 0.11.0 | The official CLI for Gitea | https://gitea.com/gitea/tea |
-| **tealdeer** | 1.7.2-1 | A very fast implementation of tldr in Rust | https://dbrgn.github.io/tealdeer/ |
+| **tealdeer** | 1.7.2-2 | A very fast implementation of tldr in Rust | https://tealdeer-rs.github.io/tealdeer/ |
 | **teckit** | 2.5.12-1 | TECkit is a library for encoding conversion | https://scripts.sil.org/teckitdownloads |
 | **teckit-static** | 2.5.12-1 | Static libraries for teckit | https://scripts.sil.org/teckitdownloads |
 | **tectonic** | 0.15.0-4 | A modernized, complete, self-contained TeX/LaTeX engine | https://tectonic-typesetting.github.io/ |

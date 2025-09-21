@@ -1099,7 +1099,7 @@
   Description: Roguelike adventure through dungeons filled with dangerous monsters
   Homepage: https://crawl.develz.org/
 - Package: croc
-  Version: 1:10.2.4-1
+  Version: 1:10.2.5
   Description: Easily and securely send things from one computer to another
   Homepage: https://github.com/schollz/croc
 - Package: cronie
@@ -8987,7 +8987,7 @@
   Description: Implementations of SIMD instructions for all systems
   Homepage: https://simd-everywhere.github.io/
 - Package: simdjson
-  Version: 4.0.5
+  Version: 4.0.6
   Description: A C++ library to see how fast we can parse JSON with complete validation
   Homepage: https://simdjson.org/
 - Package: simh
@@ -9487,9 +9487,9 @@
   Description: The official CLI for Gitea
   Homepage: https://gitea.com/gitea/tea
 - Package: tealdeer
-  Version: 1.7.2-1
+  Version: 1.7.2-2
   Description: A very fast implementation of tldr in Rust
-  Homepage: https://dbrgn.github.io/tealdeer/
+  Homepage: https://tealdeer-rs.github.io/tealdeer/
 - Package: teckit
   Version: 2.5.12-1
   Description: TECkit is a library for encoding conversion
