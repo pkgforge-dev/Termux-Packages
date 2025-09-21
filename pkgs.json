@@ -6787,7 +6787,7 @@
   },
   {
     "Package": "libltdl",
-    "Version": "2.5.4-1",
+    "Version": "2.5.4-2",
     "Description": "Library for dlopening libraries",
     "Homepage": "https://www.gnu.org/software/libtool/"
   },
@@ -8485,7 +8485,7 @@
   },
   {
     "Package": "libtool",
-    "Version": "2.5.4-1",
+    "Version": "2.5.4-2",
     "Description": "Generic library support script hiding the complexity of using shared libraries behind a consistent, portable interface",
     "Homepage": "https://www.gnu.org/software/libtool/"
   },
@@ -13597,19 +13597,19 @@
   },
   {
     "Package": "snowflake",
-    "Version": "2.11.0",
+    "Version": "2.11.0-1",
     "Description": "Pluggable Transport using WebRTC, inspired by Flashproxy",
     "Homepage": "https://snowflake.torproject.org/"
   },
   {
     "Package": "snowflake-client",
-    "Version": "2.11.0",
+    "Version": "2.11.0-1",
     "Description": "Pluggable Transport using WebRTC, inspired by Flashproxy (Client)",
     "Homepage": "https://snowflake.torproject.org/"
   },
   {
     "Package": "snowflake-proxy",
-    "Version": "2.11.0",
+    "Version": "2.11.0-1",
     "Description": "Pluggable Transport using WebRTC, inspired by Flashproxy (Proxy)",
     "Homepage": "https://snowflake.torproject.org/"
   },

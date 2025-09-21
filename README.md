@@ -1141,7 +1141,7 @@
 | **liblqr-static** | 0.4.3-1 | Static libraries for liblqr | https://github.com/carlobaldassi/liblqr |
 | **liblrdf** | 0.6.1-2 | A library to make it easy to manipulate RDF files describing LADSPA plugins | https://github.com/swh/LRDF |
 | **liblrdf-static** | 0.6.1-2 | Static libraries for liblrdf | https://github.com/swh/LRDF |
-| **libltdl** | 2.5.4-1 | Library for dlopening libraries | https://www.gnu.org/software/libtool/ |
+| **libltdl** | 2.5.4-2 | Library for dlopening libraries | https://www.gnu.org/software/libtool/ |
 | **liblua51** | 5.1.5-5 | Shared library for the Lua interpreter (v5.1.x) | https://www.lua.org |
 | **liblua51-static** | 5.1.5-5 | Static libraries for liblua51 | https://www.lua.org |
 | **liblua52** | 5.2.4-13 | Shared library for the Lua interpreter (v5.2.x) | https://www.lua.org |
@@ -1424,7 +1424,7 @@
 | **libtomcrypt-static** | 1.18.2-1 | Static libraries for libtomcrypt | https://www.libtom.net/LibTomCrypt/ |
 | **libtommath** | 1.3.0 | A free open source portable number theoretic multiple-precision integer library | https://www.libtom.net/LibTomMath/ |
 | **libtommath-static** | 1.3.0 | Static libraries for libtommath | https://www.libtom.net/LibTomMath/ |
-| **libtool** | 2.5.4-1 | Generic library support script hiding the complexity of using shared libraries behind a consistent, portable interface | https://www.gnu.org/software/libtool/ |
+| **libtool** | 2.5.4-2 | Generic library support script hiding the complexity of using shared libraries behind a consistent, portable interface | https://www.gnu.org/software/libtool/ |
 | **libtorrent** | 0.15.6 | Libtorrent BitTorrent library | https://github.com/rakshasa/rtorrent/wiki |
 | **libtorrent-rasterbar** | 2.0.11-3 | A feature complete C++ bittorrent implementation focusing on efficiency and scalability | https://libtorrent.org/ |
 | **libtorrent-static** | 0.15.6 | Static libraries for libtorrent | https://github.com/rakshasa/rtorrent/wiki |
@@ -2276,9 +2276,9 @@
 | **snapcast-client** | 0.32.3-1 | A multiroom client-server audio player (client) | https://github.com/badaix/snapcast |
 | **snapcast-server** | 0.32.3-1 | A multiroom client-server audio player (server) | https://github.com/badaix/snapcast |
 | **snmptt** | 1.5 | SNMP trap translator | http://www.snmptt.org/ |
-| **snowflake** | 2.11.0 | Pluggable Transport using WebRTC, inspired by Flashproxy | https://snowflake.torproject.org/ |
-| **snowflake-client** | 2.11.0 | Pluggable Transport using WebRTC, inspired by Flashproxy (Client) | https://snowflake.torproject.org/ |
-| **snowflake-proxy** | 2.11.0 | Pluggable Transport using WebRTC, inspired by Flashproxy (Proxy) | https://snowflake.torproject.org/ |
+| **snowflake** | 2.11.0-1 | Pluggable Transport using WebRTC, inspired by Flashproxy | https://snowflake.torproject.org/ |
+| **snowflake-client** | 2.11.0-1 | Pluggable Transport using WebRTC, inspired by Flashproxy (Client) | https://snowflake.torproject.org/ |
+| **snowflake-proxy** | 2.11.0-1 | Pluggable Transport using WebRTC, inspired by Flashproxy (Proxy) | https://snowflake.torproject.org/ |
 | **socat** | 1.8.0.3-1 | Relay for bidirectional data transfer between two independent data channels | http://www.dest-unreach.org/socat/ |
 | **softether-vpn** | 5.02.5180-5 | An open-source cross-platform multi-protocol VPN program | https://www.softether.org/ |
 | **softether-vpn-static** | 5.02.5180-5 | Static libraries for softether-vpn | https://www.softether.org/ |
