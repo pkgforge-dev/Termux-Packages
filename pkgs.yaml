@@ -3051,7 +3051,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.23.48
+  Version: 0.23.52
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -7143,7 +7143,7 @@
   Description: Low level cryptographic tools
   Homepage: https://www.lysator.liu.se/~nisse/nettle/
 - Package: newsboat
-  Version: "2.40"
+  Version: "2.41"
   Description: RSS/Atom feed reader for the text console
   Homepage: https://newsboat.org/
 - Package: nginx
@@ -7291,7 +7291,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 26.23.9
+  Version: 26.24.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
