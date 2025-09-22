@@ -1639,7 +1639,7 @@
   Description: Electrum is a lightweight Bitcoin wallet
   Homepage: https://electrum.org
 - Package: elfutils
-  Version: "0.193"
+  Version: 0.193-1
   Description: A collection of utilities to read, create and modify ELF binary files
   Homepage: https://sourceware.org/elfutils/
 - Package: elinks
@@ -3503,11 +3503,11 @@
   Description: Cross-platform C++ library for network and low-level I/O programming
   Homepage: https://think-async.com/Asio
 - Package: libasm
-  Version: "0.193"
+  Version: 0.193-1
   Description: Library to assemble and disassemble instructions
   Homepage: https://sourceware.org/elfutils/
 - Package: libasm-static
-  Version: "0.193"
+  Version: 0.193-1
   Description: Static library to assemble and disassemble instructions
   Homepage: https://sourceware.org/elfutils/
 - Package: libass
@@ -3835,7 +3835,7 @@
   Description: Static libraries for libde265
   Homepage: https://github.com/strukturag/libde265
 - Package: libdebuginfod
-  Version: "0.193"
+  Version: 0.193-1
   Description: Library for debuginfod
   Homepage: https://sourceware.org/elfutils/
 - Package: libdeflate
@@ -3915,11 +3915,11 @@
   Description: Static libraries for libdvdread
   Homepage: https://code.videolan.org/videolan/libdvdread
 - Package: libdw
-  Version: "0.193"
+  Version: 0.193-1
   Description: Library to read DWARF information
   Homepage: https://sourceware.org/elfutils/
 - Package: libdw-static
-  Version: "0.193"
+  Version: 0.193-1
   Description: Static library to read DWARF information
   Homepage: https://sourceware.org/elfutils/
 - Package: libebml
@@ -3939,11 +3939,11 @@
   Description: Static libraries for libedit
   Homepage: https://thrysoee.dk/editline/
 - Package: libelf
-  Version: "0.193"
+  Version: 0.193-1
   Description: ELF object file access library
   Homepage: https://sourceware.org/elfutils/
 - Package: libelf-static
-  Version: "0.193"
+  Version: 0.193-1
   Description: Static libraries for libelf
   Homepage: https://sourceware.org/elfutils/
 - Package: libenet
