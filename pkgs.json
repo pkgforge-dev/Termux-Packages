@@ -1441,7 +1441,7 @@
   },
   {
     "Package": "cloudflared",
-    "Version": "2025.9.0",
+    "Version": "2025.9.1",
     "Description": "A tunneling daemon that proxies traffic from the Cloudflare network to your origins",
     "Homepage": "https://github.com/cloudflare/cloudflared"
   },
@@ -4015,19 +4015,19 @@
   },
   {
     "Package": "harfbuzz",
-    "Version": "11.5.0",
+    "Version": "11.5.1",
     "Description": "OpenType text shaping engine",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-icu",
-    "Version": "11.5.0",
+    "Version": "11.5.1",
     "Description": "OpenType text shaping engine ICU backend",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-utils",
-    "Version": "11.5.0",
+    "Version": "11.5.1",
     "Description": "Tools using the harfbuzz library",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
@@ -15367,7 +15367,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "2025.09.12",
+    "Version": "2025.09.23",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://github.com/directvt/vtm"
   },
@@ -15421,7 +15421,7 @@
   },
   {
     "Package": "vulkan-tools",
-    "Version": "1.4.326",
+    "Version": "1.4.327",
     "Description": "Vulkan Tools and Utilities",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Tools"
   },

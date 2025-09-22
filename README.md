@@ -250,7 +250,7 @@
 | **clinfo** | 3.0.25.02.14-1 | Print all known information about all available OpenCL platforms and devices in the system | https://github.com/Oblomov/clinfo |
 | **clipp** | 1.2.3-1 | Command line interfaces for modern C++ | https://github.com/muellan/clipp |
 | **cloneit** | 20240728-1 | A cli tool to download specific GitHub directories or files | https://github.com/alok8bb/cloneit |
-| **cloudflared** | 2025.9.0 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
+| **cloudflared** | 2025.9.1 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
 | **clpeak** | 1.1.5 | A tool which profiles OpenCL devices to find their peak capacities | https://github.com/krrishnarraj/clpeak |
 | **clvk** | 0.0.20250910.081800 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
 | **cmake** | 4.1.1-1 | Family of tools designed to build, test and package software | https://cmake.org/ |
@@ -679,9 +679,9 @@
 | **gumbo-parser-static** | 0.10.1-1 | Static libraries for gumbo-parser | https://github.com/google/gumbo-parser |
 | **gzip** | 1.14-1 | Standard GNU file compression utilities | https://www.gnu.org/software/gzip/ |
 | **haproxy** | 3.2.4 | The Reliable, High Performance TCP/HTTP Load Balancer | https://www.haproxy.org/ |
-| **harfbuzz** | 11.5.0 | OpenType text shaping engine | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
-| **harfbuzz-icu** | 11.5.0 | OpenType text shaping engine ICU backend | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
-| **harfbuzz-utils** | 11.5.0 | Tools using the harfbuzz library | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
+| **harfbuzz** | 11.5.1 | OpenType text shaping engine | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
+| **harfbuzz-icu** | 11.5.1 | OpenType text shaping engine ICU backend | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
+| **harfbuzz-utils** | 11.5.1 | Tools using the harfbuzz library | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
 | **has** | 1.5.2 | has checks presence of various command line tools and their versions on the path | https://github.com/kdabir/has |
 | **hash-slinger** | 3.4 | Various tools to generate special DNS records | https://github.com/letoams/hash-slinger |
 | **hashdeep** | 4.4-9 | Programs to compute hashsums of arbitrary number of files recursively | https://md5deep.sourceforge.net/ |
@@ -2571,7 +2571,7 @@
 | **vlc-static** | 3.0.21-11 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-4 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.3-1 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 2025.09.12 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
+| **vtm** | 2025.09.23 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
 | **vttest** | 20241208-1 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-5 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.4.326 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
@@ -2580,7 +2580,7 @@
 | **vulkan-loader** | 0.0.3 | A metapackage that provides vulkan loader library | https://github.com/termux/termux-packages |
 | **vulkan-loader-android** | 28c-1 | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
 | **vulkan-loader-generic** | 1.4.327 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
-| **vulkan-tools** | 1.4.326 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
+| **vulkan-tools** | 1.4.327 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
 | **vulkan-utility-libraries** | 1.4.327 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
 | **vulkan-validation-layers** | 1.4.327 | Vulkan Validation Layers | https://github.com/KhronosGroup/Vulkan-ValidationLayers |
 | **vulkan-volk** | 1.4.304 | Meta loader for Vulkan API | https://github.com/zeux/volk |
