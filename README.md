@@ -649,8 +649,8 @@
 | **graphene** | 1.10.8-3 | A thin layer of graphic data types | https://ebassi.github.io/graphene/ |
 | **graphicsmagick** | 1.3.45-4 | Collection of image processing tools | http://www.graphicsmagick.org/ |
 | **graphicsmagick-static** | 1.3.45-4 | Static libraries for graphicsmagick | http://www.graphicsmagick.org/ |
-| **graphviz** | 13.1.2 | Rich set of graph drawing tools | https://www.graphviz.org/ |
-| **graphviz-static** | 13.1.2 | Static libraries for graphviz | https://www.graphviz.org/ |
+| **graphviz** | 14.0.0 | Rich set of graph drawing tools | https://www.graphviz.org/ |
+| **graphviz-static** | 14.0.0 | Static libraries for graphviz | https://www.graphviz.org/ |
 | **greed** | 4.3-1 | Game where you try to eat as much as possible of the board before munching yourself into a corner | http://www.catb.org/~esr/greed/ |
 | **grep** | 3.12-2 | Command which searches one or more input files for lines containing a match to a specified pattern | https://www.gnu.org/software/grep/ |
 | **grex** | 1.4.5-1 | Simplifies the task of creating regular expressions | https://github.com/pemistahl/grex |
@@ -1932,7 +1932,6 @@
 | **pcre2grep** | 10.46 | A grep with Perl-compatible regular expressions | https://www.pcre.org |
 | **pcregrep** | 8.45-2 | A grep with Perl-compatible regular expressions | https://www.pcre.org |
 | **pcscd** | 2.3.3-2 | Middleware to access a smart card using SCard API (PC/SC). (daemon side) | https://pcsclite.apdu.fr/ |
-| **pdf2djvu** | 0.9.19-6 | PDF to DjVu converter | https://github.com/jwilk/pdf2djvu |
 | **pdf2svg** | 0.2.4-1 | A PDF to SVG converter | http://www.cityinthesky.co.uk/opensource/pdf2svg/ |
 | **pdfcpu** | 0.11.0-1 | A PDF processor written in Go | https://pdfcpu.io |
 | **pdfgrep** | 2.2.0-4 | Command line utility to search text in PDF files | https://pdfgrep.org/ |
@@ -2052,7 +2051,7 @@
 | **python-lameenc** | 1.8.1-1 | Python bindings around the LAME encoder | https://github.com/chrisstaite/lameenc |
 | **python-libsass** | 0.23.0-1 | A straightforward binding of libsass for Python | https://github.com/sass/libsass-python |
 | **python-llvmlite** | 0.44.0 | A lightweight LLVM python binding for writing JIT compilers | https://llvmlite.pydata.org/ |
-| **python-lxml** | 6.0.1 | Python binding for the libxml2 and libxslt libraries | https://github.com/lxml/lxml |
+| **python-lxml** | 6.0.2 | Python binding for the libxml2 and libxslt libraries | https://github.com/lxml/lxml |
 | **python-msgpack** | 1.1.1-1 | MessagePack serializer implementation for Python | https://github.com/msgpack/msgpack-python |
 | **python-numpy** | 2.2.5-1 | The fundamental package for scientific computing with Python | https://numpy.org/ |
 | **python-numpy-static** | 2.2.5-1 | Static libraries for python-numpy | https://numpy.org/ |
@@ -2151,7 +2150,7 @@
 | **renameutils** | 0.12.0-3 | A set of programs designed to make renaming of files faster and less cumbersome | https://www.nongnu.org/renameutils/ |
 | **reptyr** | 0.10.0-1 | Tool for reparenting a running program to a new terminal | https://github.com/nelhage/reptyr |
 | **resolv-conf** | 1.3 | Resolver configuration file | https://man7.org/linux/man-pages/man5/resolv.conf.5.html |
-| **restic** | 0.18.0-1 | Fast, secure, efficient backup program | https://restic.net/ |
+| **restic** | 0.18.1 | Fast, secure, efficient backup program | https://restic.net/ |
 | **restic-server** | 0.14.0-1 | Restic's REST backend API server | https://restic.net/ |
 | **restish** | 0.21.0-1 | A CLI for interacting with REST-ish HTTP APIs | https://github.com/danielgtaylor/restish |
 | **rgbds** | 0.9.4-1 | Rednex Game Boy Development System - An assembly toolchain for the Nintendo Game Boy & Game Boy Color | https://rgbds.gbdev.io |

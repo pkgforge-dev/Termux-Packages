@@ -2555,11 +2555,11 @@
   Description: Static libraries for graphicsmagick
   Homepage: http://www.graphicsmagick.org/
 - Package: graphviz
-  Version: 13.1.2
+  Version: 14.0.0
   Description: Rich set of graph drawing tools
   Homepage: https://www.graphviz.org/
 - Package: graphviz-static
-  Version: 13.1.2
+  Version: 14.0.0
   Description: Static libraries for graphviz
   Homepage: https://www.graphviz.org/
 - Package: greed
@@ -7686,10 +7686,6 @@
   Version: 2.3.3-2
   Description: Middleware to access a smart card using SCard API (PC/SC). (daemon side)
   Homepage: https://pcsclite.apdu.fr/
-- Package: pdf2djvu
-  Version: 0.9.19-6
-  Description: PDF to DjVu converter
-  Homepage: https://github.com/jwilk/pdf2djvu
 - Package: pdf2svg
   Version: 0.2.4-1
   Description: A PDF to SVG converter
@@ -8167,7 +8163,7 @@
   Description: A lightweight LLVM python binding for writing JIT compilers
   Homepage: https://llvmlite.pydata.org/
 - Package: python-lxml
-  Version: 6.0.1
+  Version: 6.0.2
   Description: Python binding for the libxml2 and libxslt libraries
   Homepage: https://github.com/lxml/lxml
 - Package: python-msgpack
@@ -8563,7 +8559,7 @@
   Description: Resolver configuration file
   Homepage: https://man7.org/linux/man-pages/man5/resolv.conf.5.html
 - Package: restic
-  Version: 0.18.0-1
+  Version: 0.18.1
   Description: Fast, secure, efficient backup program
   Homepage: https://restic.net/
 - Package: restic-server
