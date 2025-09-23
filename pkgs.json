@@ -103,7 +103,7 @@
   },
   {
     "Package": "ada",
-    "Version": "3.2.8",
+    "Version": "3.2.9",
     "Description": "WHATWG-compliant and fast URL parser written in modern C++",
     "Homepage": "https://github.com/ada-url/ada"
   },
@@ -2659,7 +2659,7 @@
   },
   {
     "Package": "fastfetch",
-    "Version": "2.52.0-1",
+    "Version": "2.53.0",
     "Description": "A maintained, feature-rich and performance oriented, neofetch like system information tool",
     "Homepage": "https://github.com/fastfetch-cli/fastfetch"
   },
@@ -4579,7 +4579,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.23.52",
+    "Version": "0.23.56",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -7807,13 +7807,13 @@
   },
   {
     "Package": "librav1e",
-    "Version": "0.7.1-4",
+    "Version": "0.8.1",
     "Description": "An AV1 encoder library focused on speed and safety",
     "Homepage": "https://github.com/xiph/rav1e/"
   },
   {
     "Package": "librav1e-static",
-    "Version": "0.7.1-4",
+    "Version": "0.8.1",
     "Description": "Static libraries for librav1e",
     "Homepage": "https://github.com/xiph/rav1e/"
   },
@@ -12673,7 +12673,7 @@
   },
   {
     "Package": "rav1e",
-    "Version": "0.7.1-4",
+    "Version": "0.8.1",
     "Description": "An AV1 encoder program focused on speed and safety",
     "Homepage": "https://github.com/xiph/rav1e/"
   },
@@ -14701,7 +14701,7 @@
   },
   {
     "Package": "tree-sitter",
-    "Version": "0.25.9",
+    "Version": "0.25.10",
     "Description": "An incremental parsing system for programming tools",
     "Homepage": "https://github.com/tree-sitter/tree-sitter"
   },
@@ -14737,7 +14737,7 @@
   },
   {
     "Package": "tree-sitter-static",
-    "Version": "0.25.9",
+    "Version": "0.25.10",
     "Description": "Static libraries for tree-sitter",
     "Homepage": "https://github.com/tree-sitter/tree-sitter"
   },
