@@ -67,7 +67,7 @@
   Description: A fully compatible autoconf replacement
   Homepage: https://github.com/radareorg/acr
 - Package: ada
-  Version: 3.2.9
+  Version: 3.3.0
   Description: WHATWG-compliant and fast URL parser written in modern C++
   Homepage: https://github.com/ada-url/ada
 - Package: adms
@@ -2187,7 +2187,7 @@
   Description: The Forth implementation of the GNU project
   Homepage: https://www.gnu.org/software/gforth/
 - Package: gh
-  Version: 2.79.0
+  Version: 2.80.0
   Description: GitHub’s official command line tool
   Homepage: https://cli.github.com/
 - Package: ghc
@@ -2671,7 +2671,7 @@
   Description: Standard GNU file compression utilities
   Homepage: https://www.gnu.org/software/gzip/
 - Package: haproxy
-  Version: 3.2.4
+  Version: 3.2.5
   Description: The Reliable, High Performance TCP/HTTP Load Balancer
   Homepage: https://www.haproxy.org/
 - Package: harfbuzz
