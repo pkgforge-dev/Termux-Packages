@@ -1283,7 +1283,7 @@
   Description: Displays a histogram of changes to a file
   Homepage: https://invisible-island.net/diffstat/diffstat.html
 - Package: difftastic
-  Version: 0.64.0-2
+  Version: 0.65.0
   Description: 'difft: A structural diff that understands syntax'
   Homepage: https://github.com/Wilfred/difftastic
 - Package: diffutils
@@ -1903,11 +1903,11 @@
   Description: FLAC (Free Lossless Audio Codec) command-line tool
   Homepage: https://xiph.org/flac/
 - Package: flatbuffers
-  Version: 25.2.10-1
+  Version: 25.9.23
   Description: Memory Efficient Serialization Library
   Homepage: https://github.com/google/flatbuffers
 - Package: flatbuffers-static
-  Version: 25.2.10-1
+  Version: 25.9.23
   Description: Static libraries for flatbuffers
   Homepage: https://github.com/google/flatbuffers
 - Package: flex
@@ -2035,7 +2035,7 @@
   Description: A simple, fast fuzzy finder for the terminal
   Homepage: https://github.com/jhawthorn/fzy
 - Package: g-ir-scanner
-  Version: 1.84.0-1
+  Version: 1.86.0
   Description: A tool which generates GIR XML files
   Homepage: https://gi.readthedocs.io/
 - Package: game-music-emu
@@ -2107,7 +2107,7 @@
   Description: The gdbserver program
   Homepage: https://www.gnu.org/software/gdb/
 - Package: gdk-pixbuf
-  Version: 2.44.1
+  Version: 2.44.2
   Description: Library for image loading and manipulation
   Homepage: https://wiki.gnome.org/Projects/GdkPixbuf
 - Package: gdrive-downloader
@@ -2423,7 +2423,7 @@
   Description: A cross-platform TUI database management tool written in Rust
   Homepage: https://github.com/TaKO8Ki/gobang
 - Package: gobject-introspection
-  Version: 1.84.0-1
+  Version: 1.86.0
   Description: Uniform machine readable API
   Homepage: https://gi.readthedocs.io/
 - Package: gogs
@@ -3051,7 +3051,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.23.56
+  Version: 0.23.59
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx

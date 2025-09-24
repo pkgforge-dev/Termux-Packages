@@ -319,7 +319,7 @@
  dictd  1.13.3-1  Online dictionary client and server  https://sourceforge.net/projects/dict/ 
  diff-so-fancy  1.4.4  Good-lookin' diffs. Actually... nah... The best-lookin' diffs  https://github.com/so-fancy/diff-so-fancy 
  diffstat  1.68-1  Displays a histogram of changes to a file  https://invisible-island.net/diffstat/diffstat.html 
- difftastic  0.64.0-2  difft: A structural diff that understands syntax  https://github.com/Wilfred/difftastic 
+ difftastic  0.65.0  difft: A structural diff that understands syntax  https://github.com/Wilfred/difftastic 
  diffutils  3.12-2  Programs (cmp, diff, diff3 and sdiff) related to finding differences between files  https://www.gnu.org/software/diffutils/ 
  dirb  2.22-5  Web Directory Fuzzer  https://dirb.sourceforge.net/ 
  direnv  2.37.1-1  Environment switcher for shell  https://github.com/direnv/direnv 
@@ -474,8 +474,8 @@
  findutils  4.10.0-1  Utilities to find files meeting specified criteria and perform various actions on the files which are found  https://www.gnu.org/software/findutils/ 
  fish  4.0.8  The user-friendly command line shell  https://fishshell.com/ 
  flac  1.5.0-1  FLAC (Free Lossless Audio Codec) command-line tool  https://xiph.org/flac/ 
- flatbuffers  25.2.10-1  Memory Efficient Serialization Library  https://github.com/google/flatbuffers 
- flatbuffers-static  25.2.10-1  Static libraries for flatbuffers  https://github.com/google/flatbuffers 
+ flatbuffers  25.9.23  Memory Efficient Serialization Library  https://github.com/google/flatbuffers 
+ flatbuffers-static  25.9.23  Static libraries for flatbuffers  https://github.com/google/flatbuffers 
  flex  2.6.4-4  Fast lexical analyser generator  https://github.com/westes/flex 
  flex-static  2.6.4-4  Static libraries for flex  https://github.com/westes/flex 
  fluidsynth  2.4.8  Software synthesizer based on the SoundFont 2 specifications  https://github.com/FluidSynth/fluidsynth 
@@ -507,7 +507,7 @@
  fx  39.1.0  Interactive JSON viewer on your terminal  https://github.com/antonmedv/fx 
  fzf  0.65.2  Command-line fuzzy finder  https://junegunn.github.io/fzf/ 
  fzy  1.1-1  A simple, fast fuzzy finder for the terminal  https://github.com/jhawthorn/fzy 
- g-ir-scanner  1.84.0-1  A tool which generates GIR XML files  https://gi.readthedocs.io/ 
+ g-ir-scanner  1.86.0  A tool which generates GIR XML files  https://gi.readthedocs.io/ 
  game-music-emu  0.6.4-1  A collection of video game music file emulators  https://bitbucket.org/mpyne/game-music-emu/wiki/Home 
  game-music-emu-static  0.6.4-1  Static libraries for game-music-emu  https://bitbucket.org/mpyne/game-music-emu/wiki/Home 
  gap  4.14.0-2  GAP is a system for computational discrete algebra, with particular emphasis on Computational Group Theory  https://www.gap-system.org/ 
@@ -525,7 +525,7 @@
  gdbm  1.26-1  Library of database functions that use extensible hashing  https://www.gnu.org.ua/software/gdbm/ 
  gdbm-static  1.26-1  Static libraries for gdbm  https://www.gnu.org.ua/software/gdbm/ 
  gdbserver  16.3  The gdbserver program  https://www.gnu.org/software/gdb/ 
- gdk-pixbuf  2.44.1  Library for image loading and manipulation  https://wiki.gnome.org/Projects/GdkPixbuf 
+ gdk-pixbuf  2.44.2  Library for image loading and manipulation  https://wiki.gnome.org/Projects/GdkPixbuf 
  gdrive-downloader  1:1.1  Download a gdrive folder or file easily, shell ftw  https://github.com/Akianonymus/gdrive-downloader 
  gdu  5.31.0-1  Fast disk usage analyzer with console interface written in Go  https://github.com/dundee/gdu 
  geckodriver  0.36.0-1  Proxy for using W3C WebDriver-compatible clients to interact with Gecko-based browsers  https://github.com/mozilla/geckodriver 
@@ -604,7 +604,7 @@
  go-musicfox  4.7.1  A netease music player in terminal.  https://github.com/go-musicfox/go-musicfox 
  goaccess  1.9.4-1  An open source real-time web log analyzer and interactive viewer  https://goaccess.io 
  gobang  0.1.0-alpha.5-4  A cross-platform TUI database management tool written in Rust  https://github.com/TaKO8Ki/gobang 
- gobject-introspection  1.84.0-1  Uniform machine readable API  https://gi.readthedocs.io/ 
+ gobject-introspection  1.86.0  Uniform machine readable API  https://gi.readthedocs.io/ 
  gogs  0.13.3-1  A painless self-hosted Git service  https://gogs.io 
  gojq  0.12.17  Pure Go implementation of jq  https://github.com/itchyny/gojq 
  golang  3:1.25.0  Go programming language compiler  https://go.dev/ 
@@ -761,7 +761,7 @@
  jack  0.0.1  A metapackage that provides JACK Audio Connection Kit  https://github.com/termux/termux-packages 
  jack-example-tools  4-1  Official JACK example clients and tools  https://jackaudio.org/ 
  jack2  1.9.22-2  The JACK low-latency audio server  https://jackaudio.org/ 
- jackett  0.23.56  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
+ jackett  0.23.59  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
  jadx  1.5.3  Dex to Java decompiler  https://github.com/skylot/jadx 
  jadx-x  1.5.3  Dex to Java decompiler GUI  https://github.com/skylot/jadx 
  janet  1.39.1  Janet is a dialect of Lisp intended for embedding into programs and such  https://janet-lang.org 

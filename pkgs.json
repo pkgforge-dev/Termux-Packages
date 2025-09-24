@@ -1927,7 +1927,7 @@
   },
   {
     "Package": "difftastic",
-    "Version": "0.64.0-2",
+    "Version": "0.65.0",
     "Description": "difft: A structural diff that understands syntax",
     "Homepage": "https://github.com/Wilfred/difftastic"
   },
@@ -2857,13 +2857,13 @@
   },
   {
     "Package": "flatbuffers",
-    "Version": "25.2.10-1",
+    "Version": "25.9.23",
     "Description": "Memory Efficient Serialization Library",
     "Homepage": "https://github.com/google/flatbuffers"
   },
   {
     "Package": "flatbuffers-static",
-    "Version": "25.2.10-1",
+    "Version": "25.9.23",
     "Description": "Static libraries for flatbuffers",
     "Homepage": "https://github.com/google/flatbuffers"
   },
@@ -3055,7 +3055,7 @@
   },
   {
     "Package": "g-ir-scanner",
-    "Version": "1.84.0-1",
+    "Version": "1.86.0",
     "Description": "A tool which generates GIR XML files",
     "Homepage": "https://gi.readthedocs.io/"
   },
@@ -3163,7 +3163,7 @@
   },
   {
     "Package": "gdk-pixbuf",
-    "Version": "2.44.1",
+    "Version": "2.44.2",
     "Description": "Library for image loading and manipulation",
     "Homepage": "https://wiki.gnome.org/Projects/GdkPixbuf"
   },
@@ -3637,7 +3637,7 @@
   },
   {
     "Package": "gobject-introspection",
-    "Version": "1.84.0-1",
+    "Version": "1.86.0",
     "Description": "Uniform machine readable API",
     "Homepage": "https://gi.readthedocs.io/"
   },
@@ -4579,7 +4579,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.23.56",
+    "Version": "0.23.59",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
