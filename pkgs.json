@@ -7291,13 +7291,13 @@
   },
   {
     "Package": "libnghttp3",
-    "Version": "1.11.0-1",
+    "Version": "1.12.0",
     "Description": "HTTP/3 library written in C",
     "Homepage": "https://nghttp2.org/nghttp3/"
   },
   {
     "Package": "libnghttp3-static",
-    "Version": "1.11.0-1",
+    "Version": "1.12.0",
     "Description": "Static libraries for libnghttp3",
     "Homepage": "https://nghttp2.org/nghttp3/"
   },
@@ -13087,7 +13087,7 @@
   },
   {
     "Package": "rust",
-    "Version": "1.89.0-1",
+    "Version": "1.90.0",
     "Description": "Systems programming language focused on safety, speed and concurrency",
     "Homepage": "https://www.rust-lang.org/"
   },
@@ -13105,67 +13105,67 @@
   },
   {
     "Package": "rust-docs",
-    "Version": "1.89.0-1",
+    "Version": "1.90.0",
     "Description": "Rust documentation",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-src",
-    "Version": "1.89.0-1",
+    "Version": "1.90.0",
     "Description": "Rust source code files",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-aarch64-linux-android",
-    "Version": "1.89.0-1",
+    "Version": "1.90.0",
     "Description": "Rust std for target aarch64-linux-android",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-armv7-linux-androideabi",
-    "Version": "1.89.0-1",
+    "Version": "1.90.0",
     "Description": "Rust std for target armv7-linux-androideabi",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-i686-linux-android",
-    "Version": "1.89.0-1",
+    "Version": "1.90.0",
     "Description": "Rust std for target i686-linux-android",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-wasm32-unknown-unknown",
-    "Version": "1.89.0-1",
+    "Version": "1.90.0",
     "Description": "Rust std for target wasm32-unknown-unknown",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-wasm32-wasip1",
-    "Version": "1.89.0-1",
+    "Version": "1.90.0",
     "Description": "Rust std for target wasm32-wasip1",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-wasm32-wasip2",
-    "Version": "1.89.0-1",
+    "Version": "1.90.0",
     "Description": "Rust std for target wasm32-wasip2",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-x86-64-linux-android",
-    "Version": "1.89.0-1",
+    "Version": "1.90.0",
     "Description": "Rust std for target x86_64-linux-android",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rustc-dev",
-    "Version": "1.89.0-1",
+    "Version": "1.90.0",
     "Description": "Rust compiler development libs",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rustc-src",
-    "Version": "1.89.0-1",
+    "Version": "1.90.0",
     "Description": "Rust compiler source code files",
     "Homepage": "https://www.rust-lang.org/"
   },
@@ -14125,7 +14125,7 @@
   },
   {
     "Package": "syncthing",
-    "Version": "2.0.9",
+    "Version": "2.0.10",
     "Description": "Decentralized file synchronization",
     "Homepage": "https://syncthing.net/"
   },
@@ -15367,7 +15367,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "2025.09.25",
+    "Version": "2025.09.26",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://github.com/directvt/vtm"
   },
