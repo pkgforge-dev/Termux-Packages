@@ -2272,8 +2272,8 @@
 | **smalltalk** | 3.2.91-15 | A free implementation of the Smalltalk-80 language | http://smalltalk.gnu.org/ |
 | **smalltalk-static** | 3.2.91-15 | Static libraries for smalltalk | http://smalltalk.gnu.org/ |
 | **snake** | 2022.11.07-1 | Eat as much as you want while avoiding walls | https://github.com/gogakoreli/snake |
-| **snapcast-client** | 0.32.3-1 | A multiroom client-server audio player (client) | https://github.com/badaix/snapcast |
-| **snapcast-server** | 0.32.3-1 | A multiroom client-server audio player (server) | https://github.com/badaix/snapcast |
+| **snapcast-client** | 0.33.0 | A multiroom client-server audio player (client) | https://github.com/badaix/snapcast |
+| **snapcast-server** | 0.33.0 | A multiroom client-server audio player (server) | https://github.com/badaix/snapcast |
 | **snmptt** | 1.5 | SNMP trap translator | http://www.snmptt.org/ |
 | **snowflake** | 2.11.0-1 | Pluggable Transport using WebRTC, inspired by Flashproxy | https://snowflake.torproject.org/ |
 | **snowflake-client** | 2.11.0-1 | Pluggable Transport using WebRTC, inspired by Flashproxy (Client) | https://snowflake.torproject.org/ |
