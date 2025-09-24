@@ -9799,9 +9799,9 @@
   Description: Recursive directory lister producing a depth indented listing of files
   Homepage: http://mama.indstate.edu/users/ice/tree/
 - Package: tree-sitter
-  Version: 0.25.10
+  Version: 0.25.10-1
   Description: An incremental parsing system for programming tools
-  Homepage: https://github.com/tree-sitter/tree-sitter
+  Homepage: https://tree-sitter.github.io/
 - Package: tree-sitter-c
   Version: 0.24.1-3
   Description: C grammar for tree-sitter
@@ -9823,9 +9823,9 @@
   Description: TS query grammar for tree-sitter
   Homepage: https://github.com/tree-sitter-grammars/tree-sitter-query
 - Package: tree-sitter-static
-  Version: 0.25.10
+  Version: 0.25.10-1
   Description: Static libraries for tree-sitter
-  Homepage: https://github.com/tree-sitter/tree-sitter
+  Homepage: https://tree-sitter.github.io/
 - Package: tree-sitter-vim
   Version: 0.7.0-1
   Description: Vimscript grammar for tree-sitter
