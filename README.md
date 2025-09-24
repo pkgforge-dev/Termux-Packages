@@ -252,7 +252,7 @@
 | **cloneit** | 20240728-1 | A cli tool to download specific GitHub directories or files | https://github.com/alok8bb/cloneit |
 | **cloudflared** | 2025.9.1 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
 | **clpeak** | 1.1.5 | A tool which profiles OpenCL devices to find their peak capacities | https://github.com/krrishnarraj/clpeak |
-| **clvk** | 0.0.20250910.081800 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
+| **clvk** | 0.0.20250920.101737 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
 | **cmake** | 4.1.1-1 | Family of tools designed to build, test and package software | https://cmake.org/ |
 | **cmake-curses-gui** | 4.1.1-1 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
 | **cmark** | 0.31.1-1 | CommonMark parsing and rendering program | https://github.com/commonmark/cmark |
@@ -1041,8 +1041,8 @@
 | **libgfshare** | 2.0.0-8 | Utilities for multi-way secret-sharing | https://www.digital-scurf.org/software/libgfshare |
 | **libgfshare-static** | 2.0.0-8 | Static libraries for libgfshare | https://www.digital-scurf.org/software/libgfshare |
 | **libgit2** | 1.9.1-1 | C library implementing Git core methods | https://libgit2.github.com/ |
-| **libglibmm-2.4** | 2.66.7-1 | A C++ API for parts of glib that are useful for C++ | https://www.gtkmm.org/ |
-| **libglibmm-2.68** | 2.84.0-1 | A C++ API for parts of glib that are useful for C++ | https://www.gtkmm.org/ |
+| **libglibmm-2.4** | 2.66.8 | A C++ API for parts of glib that are useful for C++ | https://www.gtkmm.org/ |
+| **libglibmm-2.68** | 2.86.0 | A C++ API for parts of glib that are useful for C++ | https://www.gtkmm.org/ |
 | **libglvnd** | 1.7.0-1 | The GL Vendor-Neutral Dispatch library | https://gitlab.freedesktop.org/glvnd/libglvnd |
 | **libglvnd-dev** | 1.7.0-1 | GLVND's OpenGL headers | https://gitlab.freedesktop.org/glvnd/libglvnd |
 | **libgmime** | 3.2.15-2 | MIME message parser and creator | https://github.com/jstedfast/gmime |
