@@ -3051,7 +3051,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.23.59
+  Version: 0.23.62
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -8467,7 +8467,7 @@
   Description: An alternative implementation of the plan 9 rc shell
   Homepage: https://github.com/rakitzis/rc
 - Package: rclone
-  Version: 1.71.0
+  Version: 1.71.1
   Description: rsync for cloud storage
   Homepage: https://rclone.org/
 - Package: rcm
