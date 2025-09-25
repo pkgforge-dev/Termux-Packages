@@ -87,7 +87,7 @@
   Description: A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability
   Homepage: https://github.com/FiloSottile/age
 - Package: agg
-  Version: 1.5.0-1
+  Version: 1.6.0
   Description: asciinema gif generator
   Homepage: https://github.com/asciinema/agg
 - Package: aha
@@ -2003,7 +2003,7 @@
   Description: Interpreter for Infocom and other Z-machine interactive fiction (IF) games
   Homepage: https://gitlab.com/DavidGriffith/frotz
 - Package: frp
-  Version: 0.64.0
+  Version: 0.65.0
   Description: A fast reverse proxy to expose a local server behind a NAT or firewall to the internet
   Homepage: https://github.com/fatedier/frp
 - Package: fselect
@@ -8723,7 +8723,7 @@
   Description: A cross-platform command-line tool for executing jobs in parallel
   Homepage: https://github.com/shenwei356/rush
 - Package: rust
-  Version: 1.90.0
+  Version: 1.90.0+really1.89.0
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
@@ -8735,47 +8735,47 @@
   Description: Automatically generates Rust FFI bindings to C (and some C++) libraries
   Homepage: https://github.com/rust-lang/rust-bindgen
 - Package: rust-docs
-  Version: 1.90.0
+  Version: 1.90.0+really1.89.0
   Description: Rust documentation
   Homepage: https://www.rust-lang.org/
 - Package: rust-src
-  Version: 1.90.0
+  Version: 1.90.0+really1.89.0
   Description: Rust source code files
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-aarch64-linux-android
-  Version: 1.90.0
+  Version: 1.90.0+really1.89.0
   Description: Rust std for target aarch64-linux-android
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-armv7-linux-androideabi
-  Version: 1.90.0
+  Version: 1.90.0+really1.89.0
   Description: Rust std for target armv7-linux-androideabi
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-i686-linux-android
-  Version: 1.90.0
+  Version: 1.90.0+really1.89.0
   Description: Rust std for target i686-linux-android
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-wasm32-unknown-unknown
-  Version: 1.90.0
+  Version: 1.90.0+really1.89.0
   Description: Rust std for target wasm32-unknown-unknown
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-wasm32-wasip1
-  Version: 1.90.0
+  Version: 1.90.0+really1.89.0
   Description: Rust std for target wasm32-wasip1
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-wasm32-wasip2
-  Version: 1.90.0
+  Version: 1.90.0+really1.89.0
   Description: Rust std for target wasm32-wasip2
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-x86-64-linux-android
-  Version: 1.90.0
+  Version: 1.90.0+really1.89.0
   Description: Rust std for target x86_64-linux-android
   Homepage: https://www.rust-lang.org/
 - Package: rustc-dev
-  Version: 1.90.0
+  Version: 1.90.0+really1.89.0
   Description: Rust compiler development libs
   Homepage: https://www.rust-lang.org/
 - Package: rustc-src
-  Version: 1.90.0
+  Version: 1.90.0+really1.89.0
   Description: Rust compiler source code files
   Homepage: https://www.rust-lang.org/
 - Package: rustscan
