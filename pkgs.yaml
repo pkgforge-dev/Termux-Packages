@@ -1187,11 +1187,11 @@
   Description: Run a command as a Unix daemon
   Homepage: http://software.clapper.org/daemonize/
 - Package: dar
-  Version: 2.8.0-1
+  Version: 2.8.1
   Description: A full featured command-line backup tool, short for Disk ARchive
   Homepage: http://dar.linux.free.fr/
 - Package: dar-static
-  Version: 2.8.0-1
+  Version: 2.8.1
   Description: Static libraries for dar
   Homepage: http://dar.linux.free.fr/
 - Package: darkhttpd
@@ -2831,7 +2831,7 @@
   Description: Command-line wrapper for git that makes you better at GitHub
   Homepage: https://hub.github.com/
 - Package: hugo
-  Version: 0.150.0
+  Version: 0.150.1
   Description: A fast and flexible static site generator
   Homepage: https://gohugo.io/
 - Package: hummin
