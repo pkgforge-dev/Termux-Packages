@@ -432,7 +432,7 @@
 | **etsh** | 5.4.0-1 | An enhanced, backward-compatible port of Thompson Shell | https://etsh.nl |
 | **exercism** | 3.5.8 | A Go based command line tool for exercism.io | https://github.com/exercism/cli/ |
 | **exfatprogs** | 1.2.9-1 | exFAT filesystem userspace utilities | https://github.com/exfatprogs/exfatprogs |
-| **exhale** | 1.2.1.2-1 | Open source xHE-AAC encoder | https://gitlab.com/ecodis/exhale |
+| **exhale** | 1.2.2RC | Open source xHE-AAC encoder | https://gitlab.com/ecodis/exhale |
 | **exiftool** | 13.37 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
 | **exiv2** | 2:0.28.7 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **expect** | 5.45.4-4 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
@@ -457,8 +457,8 @@
 | **fdupes** | 2.4.0-1 | Duplicates file detector | https://github.com/adrianlopezroche/fdupes |
 | **fennel** | 1.5.3 | A Lisp that compiles to Lua | https://fennel-lang.org |
 | **feroxbuster** | 2.12.0 | A fast, simple, recursive content discovery tool written in Rust | https://github.com/epi052/feroxbuster |
-| **fetchmail** | 6.5.4-1 | A remote-mail retrieval utility | https://www.fetchmail.info/ |
-| **fetchmailconf** | 6.5.4-1 | A GUI configurator for generating fetchmail configuration files | https://www.fetchmail.info/ |
+| **fetchmail** | 6.5.5 | A remote-mail retrieval utility | https://www.fetchmail.info/ |
+| **fetchmailconf** | 6.5.5 | A GUI configurator for generating fetchmail configuration files | https://www.fetchmail.info/ |
 | **fff** | 2.2 | A simple file manager written in bash | https://github.com/dylanaraps/fff |
 | **ffmpeg** | 7.1.1-6 | Tools and libraries to manipulate a wide range of multimedia formats and protocols | https://ffmpeg.org |
 | **ffmpegthumbnailer** | 2.2.3-p20240913-2 | Lightweight video thumbnailer that can be used by file managers | https://github.com/dirkvdb/ffmpegthumbnailer |
@@ -993,8 +993,8 @@
 | **libevent** | 2.1.12-3 | Library that provides asynchronous event notification | https://libevent.org/ |
 | **libexif** | 0.6.25-1 | Library for reading and writing EXIF image metadata | https://libexif.github.io/ |
 | **libexif-static** | 0.6.25-1 | Static libraries for libexif | https://libexif.github.io/ |
-| **libexpat** | 2.7.2 | XML parsing C library | https://libexpat.github.io/ |
-| **libexpat-static** | 2.7.2 | Static libraries for libexpat | https://libexpat.github.io/ |
+| **libexpat** | 2.7.3 | XML parsing C library | https://libexpat.github.io/ |
+| **libexpat-static** | 2.7.3 | Static libraries for libexpat | https://libexpat.github.io/ |
 | **libfann** | 2.2.0-2 | Fast artificial neural network library | http://leenissen.dk/fann/wp |
 | **libfcl** | 0.7.0-3 | Flexible collision library | https://github.com/flexible-collision-library/fcl |
 | **libfdisk** | 2.40.2-5 | Library for manipulating disk partition tables | https://en.wikipedia.org/wiki/Util-linux |

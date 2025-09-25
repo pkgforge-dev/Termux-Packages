@@ -1735,7 +1735,7 @@
   Description: exFAT filesystem userspace utilities
   Homepage: https://github.com/exfatprogs/exfatprogs
 - Package: exhale
-  Version: 1.2.1.2-1
+  Version: 1.2.2RC
   Description: Open source xHE-AAC encoder
   Homepage: https://gitlab.com/ecodis/exhale
 - Package: exiftool
@@ -1835,11 +1835,11 @@
   Description: A fast, simple, recursive content discovery tool written in Rust
   Homepage: https://github.com/epi052/feroxbuster
 - Package: fetchmail
-  Version: 6.5.4-1
+  Version: 6.5.5
   Description: A remote-mail retrieval utility
   Homepage: https://www.fetchmail.info/
 - Package: fetchmailconf
-  Version: 6.5.4-1
+  Version: 6.5.5
   Description: A GUI configurator for generating fetchmail configuration files
   Homepage: https://www.fetchmail.info/
 - Package: fff
@@ -3979,11 +3979,11 @@
   Description: Static libraries for libexif
   Homepage: https://libexif.github.io/
 - Package: libexpat
-  Version: 2.7.2
+  Version: 2.7.3
   Description: XML parsing C library
   Homepage: https://libexpat.github.io/
 - Package: libexpat-static
-  Version: 2.7.2
+  Version: 2.7.3
   Description: Static libraries for libexpat
   Homepage: https://libexpat.github.io/
 - Package: libfann
