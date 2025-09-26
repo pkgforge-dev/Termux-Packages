@@ -761,7 +761,7 @@
  jack  0.0.1  A metapackage that provides JACK Audio Connection Kit  https://github.com/termux/termux-packages 
  jack-example-tools  4-1  Official JACK example clients and tools  https://jackaudio.org/ 
  jack2  1.9.22-2  The JACK low-latency audio server  https://jackaudio.org/ 
- jackett  0.23.62  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
+ jackett  0.23.69  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
  jadx  1.5.3  Dex to Java decompiler  https://github.com/skylot/jadx 
  jadx-x  1.5.3  Dex to Java decompiler GUI  https://github.com/skylot/jadx 
  janet  1.39.1  Janet is a dialect of Lisp intended for embedding into programs and such  https://janet-lang.org 
@@ -2028,7 +2028,7 @@
  python  3.12.11-1  Python 3 programming language intended to enable clear programs  https://python.org/ 
  python-apsw  3.50.4.0-1  Another Python SQLite Wrapper  https://github.com/rogerbinns/apsw/ 
  python-apt  3.0.0-1  Python bindings for APT  https://apt-team.pages.debian.net/python-apt/ 
- python-bcrypt  4.3.0-1  Acceptable password hashing for your software and your servers  https://github.com/pyca/bcrypt 
+ python-bcrypt  5.0.0  Acceptable password hashing for your software and your servers  https://github.com/pyca/bcrypt 
  python-brotli  1.1.0-4  lossless compression algorithm and format (Python bindings)  https://github.com/google/brotli 
  python-cmake  4.1.0  Python wrapper for CMake  https://cmake-python-distributions.readthedocs.io/ 
  python-contourpy  1.3.3-1  Python library for calculating contours in 2D quadrilateral grids  https://contourpy.readthedocs.io/ 
