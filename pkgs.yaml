@@ -3091,7 +3091,7 @@
   Description: Static libraries for jcal
   Homepage: http://nongnu.org/jcal
 - Package: jfrog-cli
-  Version: 2.79.1
+  Version: 2.79.2
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -4783,11 +4783,11 @@
   Description: Static libraries for libmypaint
   Homepage: https://github.com/mypaint/libmypaint
 - Package: libnats-c
-  Version: 3.10.1-1
+  Version: 3.11.0
   Description: A C client for the NATS messaging system
   Homepage: https://nats-io.github.io/nats.c/
 - Package: libnats-c-static
-  Version: 3.10.1-1
+  Version: 3.11.0
   Description: Static libraries for libnats-c
   Homepage: https://nats-io.github.io/nats.c/
 - Package: libncnn
