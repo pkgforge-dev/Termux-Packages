@@ -4183,7 +4183,7 @@
   Description: Font system for multiple languages
   Homepage: https://github.com/silnrsi/graphite
 - Package: libgrpc
-  Version: 1.75.0
+  Version: 1.75.1
   Description: High performance, open source, general RPC framework that puts mobile and HTTP/2 first
   Homepage: https://grpc.io/
 - Package: libgsasl
@@ -8147,7 +8147,7 @@
   Description: Lightweight coroutines for in-process concurrent programming
   Homepage: https://github.com/python-greenlet/greenlet
 - Package: python-grpcio
-  Version: 1.75.0
+  Version: 1.75.1
   Description: High performance, open source, general RPC framework that puts mobile and HTTP/2 first
   Homepage: https://grpc.io/
 - Package: python-lameenc

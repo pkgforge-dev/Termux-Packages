@@ -1056,7 +1056,7 @@
 | **libgpg-error** | 1.55-1 | Small library that defines common error values for all GnuPG components | https://www.gnupg.org/related_software/libgpg-error/ |
 | **libgpg-error-static** | 1.55-1 | Static libraries for libgpg-error | https://www.gnupg.org/related_software/libgpg-error/ |
 | **libgraphite** | 1.3.14-3 | Font system for multiple languages | https://github.com/silnrsi/graphite |
-| **libgrpc** | 1.75.0 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
+| **libgrpc** | 1.75.1 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
 | **libgsasl** | 2.2.2-1 | GNU SASL library | https://www.gnu.org/software/gsasl |
 | **libgsasl-static** | 2.2.2-1 | Static libraries for libgsasl | https://www.gnu.org/software/gsasl |
 | **libgsf** | 1.14.53-2 | The G Structured File Library | https://gitlab.gnome.org/GNOME/libgsf |
@@ -2047,7 +2047,7 @@
 | **python-cryptography** | 46.0.1 | Provides cryptographic recipes and primitives to Python developers | https://github.com/pyca/cryptography |
 | **python-ensurepip-wheels** | 3.12.11-1 | Wheels for Python ensurepip | https://python.org/ |
 | **python-greenlet** | 3.2.4 | Lightweight coroutines for in-process concurrent programming | https://github.com/python-greenlet/greenlet |
-| **python-grpcio** | 1.75.0 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
+| **python-grpcio** | 1.75.1 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
 | **python-lameenc** | 1.8.1-1 | Python bindings around the LAME encoder | https://github.com/chrisstaite/lameenc |
 | **python-libsass** | 0.23.0-1 | A straightforward binding of libsass for Python | https://github.com/sass/libsass-python |
 | **python-llvmlite** | 0.44.0 | A lightweight LLVM python binding for writing JIT compilers | https://llvmlite.pydata.org/ |
