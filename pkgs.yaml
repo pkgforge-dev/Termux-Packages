@@ -8923,7 +8923,7 @@
   Description: Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server
   Homepage: https://sftpgo.com/
 - Package: shaderc
-  Version: 2025.3-1
+  Version: "2025.4"
   Description: Collection of tools, libraries, and tests for Vulkan shader compilation
   Homepage: https://github.com/google/shaderc
 - Package: sharutils
@@ -8955,7 +8955,7 @@
   Description: A shell parser and formatter
   Homepage: https://github.com/mvdan/sh
 - Package: shiori
-  Version: 1.7.4-1
+  Version: 1.8.0
   Description: Simple bookmark manager built with Go
   Homepage: https://github.com/go-shiori/shiori
 - Package: shntool
@@ -10275,7 +10275,7 @@
   Description: Vulkan Loader for Android
   Homepage: https://source.android.com/devices/graphics/arch-vulkan
 - Package: vulkan-loader-generic
-  Version: 1.4.327
+  Version: 1.4.328
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
