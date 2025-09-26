@@ -3235,13 +3235,13 @@
   },
   {
     "Package": "geth",
-    "Version": "1.16.3",
+    "Version": "1.16.4",
     "Description": "Go implementation of the Ethereum protocol",
     "Homepage": "https://geth.ethereum.org/"
   },
   {
     "Package": "geth-utils",
-    "Version": "1.16.3",
+    "Version": "1.16.4",
     "Description": "Additional utilities for Geth (like abigen, bootnode, evm, puppeth)",
     "Homepage": "https://geth.ethereum.org/"
   },
@@ -5611,7 +5611,7 @@
   },
   {
     "Package": "libcommons-lang3-java",
-    "Version": "3.18.0-1",
+    "Version": "3.19.0",
     "Description": "A host of helper utilities for the java.lang API",
     "Homepage": "https://commons.apache.org/proper/commons-lang/"
   },
