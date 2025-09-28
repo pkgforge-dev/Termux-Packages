@@ -3390,6 +3390,12 @@
     "Homepage": "https://git-scm.com/"
   },
   {
+    "Package": "git-town",
+    "Version": "22.0.0",
+    "Description": "Git branches made easy",
+    "Homepage": "https://www.git-town.com"
+  },
+  {
     "Package": "gitea",
     "Version": "1.24.6",
     "Description": "Git with a cup of tea, painless self-hosted git service",
@@ -4015,19 +4021,19 @@
   },
   {
     "Package": "harfbuzz",
-    "Version": "11.5.1",
+    "Version": "12.0.0",
     "Description": "OpenType text shaping engine",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-icu",
-    "Version": "11.5.1",
+    "Version": "12.0.0",
     "Description": "OpenType text shaping engine ICU backend",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-utils",
-    "Version": "11.5.1",
+    "Version": "12.0.0",
     "Description": "Tools using the harfbuzz library",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
@@ -4771,7 +4777,7 @@
   },
   {
     "Package": "just",
-    "Version": "1.42.4-1",
+    "Version": "1.43.0-1",
     "Description": "A handy way to save and run project-specific commands",
     "Homepage": "https://just.systems"
   },
@@ -12001,7 +12007,7 @@
   },
   {
     "Package": "proot-distro",
-    "Version": "4.29.0",
+    "Version": "4.30.0",
     "Description": "Termux official utility for managing prooted Linux distributions",
     "Homepage": "https://github.com/termux/proot-distro"
   },
@@ -12619,7 +12625,7 @@
   },
   {
     "Package": "radare2",
-    "Version": "6.0.2",
+    "Version": "6.0.4",
     "Description": "UNIX-like reverse engineering framework and command-line toolset",
     "Homepage": "https://www.radare.org/"
   },
