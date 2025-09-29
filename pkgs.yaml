@@ -943,7 +943,7 @@
   Description: Play Wordle over SSH
   Homepage: https://github.com/ajeetdsouza/clidle
 - Package: clifm
-  Version: 1.26-1
+  Version: 1.26.3
   Description: 'The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell'
   Homepage: https://github.com/leo-arch/clifm
 - Package: clinfo
@@ -1055,7 +1055,7 @@
   Description: An extractor/converter for .LIT eBooks
   Homepage: http://www.convertlit.com/
 - Package: cookcli
-  Version: 0.18.0
+  Version: 0.18.1
   Description: A suite of tools to create shopping lists and maintain food recipes
   Homepage: https://cooklang.org
 - Package: coreutils
@@ -2047,11 +2047,11 @@
   Description: Static libraries for game-music-emu
   Homepage: https://bitbucket.org/mpyne/game-music-emu/wiki/Home
 - Package: gap
-  Version: 4.14.0-2
+  Version: 4.15.0
   Description: GAP is a system for computational discrete algebra, with particular emphasis on Computational Group Theory
   Homepage: https://www.gap-system.org/
 - Package: gap-packages
-  Version: 4.14.0-2
+  Version: 4.15.0
   Description: Packages for gap
   Homepage: https://www.gap-system.org/
 - Package: gatling
@@ -8079,7 +8079,7 @@
   Description: Python bindings for the cairo graphics library
   Homepage: https://www.cairographics.org/pycairo/
 - Package: pygobject
-  Version: 3.54.2
+  Version: 3.54.3
   Description: Python package which provides bindings for GObject based libraries
   Homepage: https://pygobject.gnome.org/
 - Package: pypy
@@ -9095,7 +9095,7 @@
   Description: An Ethereum smart contract-oriented language
   Homepage: https://solidity.readthedocs.io
 - Package: sops
-  Version: 3.10.2-1
+  Version: 3.11.0
   Description: Simple and flexible tool for managing secrets
   Homepage: https://github.com/getsops/sops
 - Package: sord
@@ -10179,7 +10179,7 @@
   Description: A programmable tool for verification, analysis and transformation of C++ source code
   Homepage: https://bitbucket.org/verateam/vera
 - Package: vgmstream
-  Version: 2023-2
+  Version: "2055"
   Description: A library for playback of various streamed audio formats used in video games
   Homepage: https://github.com/vgmstream/vgmstream
 - Package: vgmtools
