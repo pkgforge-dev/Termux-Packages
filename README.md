@@ -774,7 +774,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4-1 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-2 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.23.74 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.23.87 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **jadx** | 1.5.3 | Dex to Java decompiler | https://github.com/skylot/jadx |
 | **jadx-x** | 1.5.3 | Dex to Java decompiler GUI | https://github.com/skylot/jadx |
 | **janet** | 1.39.1 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
@@ -1697,8 +1697,8 @@
 | **minisign** | 0.12-1 | A dead simple tool to sign files and verify signatures | https://jedisct1.github.io/minisign/ |
 | **miniupnpc** | 2.3.3-1 | Small UPnP client library and tool to access Internet Gateway Devices | https://miniupnp.tuxfamily.org/ |
 | **miniupnpc-static** | 2.3.3-1 | Static libraries for miniupnpc | https://miniupnp.tuxfamily.org/ |
-| **minizinc** | 2.9.3-1 | A medium-level constraint modelling language | https://github.com/MiniZinc/libminizinc |
-| **minizinc-static** | 2.9.3-1 | Static libraries for minizinc | https://github.com/MiniZinc/libminizinc |
+| **minizinc** | 2.9.4 | A medium-level constraint modelling language | https://github.com/MiniZinc/libminizinc |
+| **minizinc-static** | 2.9.4 | Static libraries for minizinc | https://github.com/MiniZinc/libminizinc |
 | **mkbootimg** | 2022.11.09-1 | Maintained fork with android's mkbootimg and unpackbootimg | https://github.com/osm0sis/mkbootimg |
 | **mkp224o** | 1.7.0-1 | Generate vanity ed25519 (hidden service version 3) onion addresses | https://github.com/cathugger/mkp224o |
 | **mksh** | 59c-3 | The MirBSD Korn Shell - an enhanced version of the public domain ksh | http://www.mirbsd.org/mksh.htm |
