@@ -683,7 +683,7 @@
   Description: Decentralized file system integrating with TRON network and Bittorrent network
   Homepage: https://www.bittorrent.com/btfs/
 - Package: btrfs-progs
-  Version: 6.16.1
+  Version: "6.17"
   Description: Utilities for Btrfs filesystem
   Homepage: https://btrfs.readthedocs.io/en/latest/
 - Package: buf
@@ -2587,7 +2587,7 @@
   Description: Transforms JSON into discrete assignments
   Homepage: https://github.com/tomnomnom/gron
 - Package: groonga
-  Version: 15.1.5-1
+  Version: 15.1.7
   Description: An embeddable fulltext search engine
   Homepage: https://github.com/groonga/groonga/
 - Package: groovy
