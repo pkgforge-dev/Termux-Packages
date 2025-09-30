@@ -749,7 +749,7 @@
 | **iperf3** | 3.19.1-2 | TCP, UDP, and SCTP network bandwidth measurement tool | https://github.com/esnet/iperf |
 | **iperf3-static** | 3.19.1-2 | Static libraries for iperf3 | https://github.com/esnet/iperf |
 | **ipmitool** | 1.8.19-1 | Command-line interface to IPMI-enabled devices | https://github.com/ipmitool/ipmitool |
-| **iproute2** | 6.16.0-1 | Utilities for controlling networking | https://wiki.linuxfoundation.org/networking/iproute2 |
+| **iproute2** | 6.17.0 | Utilities for controlling networking | https://wiki.linuxfoundation.org/networking/iproute2 |
 | **ipv6calc** | 4.4.0 | Does some format changes and calculations of IPv6 addresses | https://www.deepspace6.net/projects/ipv6calc.html |
 | **ipv6toolkit** | 2022.09.30-4 | SI6 Networks IPv6 Toolkit | https://www.si6networks.com/research/tools/ipv6toolkit/ |
 | **ircd-irc2** | 2.11.2p3-3 | An Internet Relay Chat (IRC) daemon | http://www.irc.org/ |
@@ -2376,7 +2376,7 @@
 | **tectonic** | 0.15.0-4 | A modernized, complete, self-contained TeX/LaTeX engine | https://tectonic-typesetting.github.io/ |
 | **telegram-bot-api** | 20241031-2 | Telegram Bot API server | https://github.com/tdlib/telegram-bot-api |
 | **telegram-cli** | 1:1.4.1-8 | Telegram messenger CLI | https://github.com/vysheng/tg |
-| **teleport-tsh** | 18.2.2 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
+| **teleport-tsh** | 18.2.3 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
 | **tenki-php** | 2022.05.26 | A simple PHP application for logging current weather conditions, notes, and waypoints | https://github.com/dmpop/tenki |
 | **tere** | 1.6.0-1 | Terminal file explorer written in rust | https://github.com/mgunyho/tere |
 | **tergent** | 1.0.0-5 | A cryptoki/PKCS#11 library for Termux that uses Android Keystore as its backend | https://github.com/aeolwyr/tergent |
@@ -2501,8 +2501,8 @@
 | **unifdef** | 2.12-1 | Remove #ifdef'ed lines | http://dotat.at/prog/unifdef/ |
 | **units** | 2.24-1 | Converts between different systems of units | https://www.gnu.org/software/units/ |
 | **units-cur** | 2.24-1 | units_cur Python script | https://www.gnu.org/software/units/ |
-| **unixodbc** | 2.3.12-1 | An Open Source ODBC sub-system and an ODBC SDK for Linux, Mac OSX, and UNIX | https://www.unixodbc.org/ |
-| **unixodbc-static** | 2.3.12-1 | Static libraries for unixodbc | https://www.unixodbc.org/ |
+| **unixodbc** | 2.3.13 | An Open Source ODBC sub-system and an ODBC SDK for Linux, Mac OSX, and UNIX | https://www.unixodbc.org/ |
+| **unixodbc-static** | 2.3.13 | Static libraries for unixodbc | https://www.unixodbc.org/ |
 | **unpaper** | 1:7.0.0-3 | A post-processing tool for scanned sheets of paper | https://www.flameeyes.com/projects/unpaper |
 | **unrar** | 7.1.10-1 | Tool for extracting files from .rar archives | https://www.rarlab.com/ |
 | **unshield** | 1.6.2-1 | Tool and library to extract CAB files from InstallShield installers | https://github.com/twogood/unshield |

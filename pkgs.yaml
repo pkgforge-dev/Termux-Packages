@@ -3003,7 +3003,7 @@
   Description: Command-line interface to IPMI-enabled devices
   Homepage: https://github.com/ipmitool/ipmitool
 - Package: iproute2
-  Version: 6.16.0-1
+  Version: 6.17.0
   Description: Utilities for controlling networking
   Homepage: https://wiki.linuxfoundation.org/networking/iproute2
 - Package: ipv6calc
@@ -9511,7 +9511,7 @@
   Description: Telegram messenger CLI
   Homepage: https://github.com/vysheng/tg
 - Package: teleport-tsh
-  Version: 18.2.2
+  Version: 18.2.3
   Description: Secure Access for Developers that doesnt get in the way
   Homepage: https://github.com/gravitational/teleport
 - Package: tenki-php
@@ -10011,11 +10011,11 @@
   Description: units_cur Python script
   Homepage: https://www.gnu.org/software/units/
 - Package: unixodbc
-  Version: 2.3.12-1
+  Version: 2.3.13
   Description: An Open Source ODBC sub-system and an ODBC SDK for Linux, Mac OSX, and UNIX
   Homepage: https://www.unixodbc.org/
 - Package: unixodbc-static
-  Version: 2.3.12-1
+  Version: 2.3.13
   Description: Static libraries for unixodbc
   Homepage: https://www.unixodbc.org/
 - Package: unpaper
