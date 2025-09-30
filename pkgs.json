@@ -2677,19 +2677,19 @@
   },
   {
     "Package": "faust",
-    "Version": "2.81.2-1",
+    "Version": "2.81.8",
     "Description": "A functional programming language for signal processing and sound synthesis",
     "Homepage": "https://github.com/grame-cncm/faust"
   },
   {
     "Package": "faust-static",
-    "Version": "2.81.2-1",
+    "Version": "2.81.8",
     "Description": "Static libraries for faust",
     "Homepage": "https://github.com/grame-cncm/faust"
   },
   {
     "Package": "faustlibraries",
-    "Version": "2.81.2-1",
+    "Version": "2.81.8",
     "Description": "Faust DSP libraries",
     "Homepage": "https://github.com/grame-cncm/faust"
   },
@@ -4585,7 +4585,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.23.87",
+    "Version": "0.24.7",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
