@@ -971,11 +971,11 @@
   Description: Experimental implementation of OpenCL on Vulkan
   Homepage: https://github.com/kpet/clvk
 - Package: cmake
-  Version: 4.1.1-1
+  Version: 4.1.2
   Description: Family of tools designed to build, test and package software
   Homepage: https://cmake.org/
 - Package: cmake-curses-gui
-  Version: 4.1.1-1
+  Version: 4.1.2
   Description: Curses based user interface for CMake (ccmake)
   Homepage: https://cmake.org/
 - Package: cmark
@@ -1739,7 +1739,7 @@
   Description: Open source xHE-AAC encoder
   Homepage: https://gitlab.com/ecodis/exhale
 - Package: exiftool
-  Version: "13.37"
+  Version: "13.38"
   Description: Utility for reading, writing and editing meta information in a wide variety of files.
   Homepage: https://exiftool.org/
 - Package: exiv2
@@ -4643,11 +4643,11 @@
   Description: An extremely fast, compact, powerful, embedded, transactional key-value database
   Homepage: https://libmdbx.dqdkfa.ru/
 - Package: libmediainfo
-  Version: 25.07-1
+  Version: "25.09"
   Description: Library for reading information from media files
   Homepage: https://mediaarea.net/en/MediaInfo
 - Package: libmediainfo-static
-  Version: 25.07-1
+  Version: "25.09"
   Description: Static libraries for libmediainfo
   Homepage: https://mediaarea.net/en/MediaInfo
 - Package: libmesode
@@ -6635,7 +6635,7 @@
   Description: List of standard media types and their usual file extension
   Homepage: https://pagure.io/mailcap
 - Package: mediainfo
-  Version: 25.07-1
+  Version: "25.09"
   Description: Command-line utility for reading information from media files
   Homepage: https://mediaarea.net/en/MediaInfo
 - Package: mediamtx
@@ -10059,7 +10059,7 @@
   Description: Headers for URDF parsers
   Homepage: https://github.com/ros/urdfdom_headers
 - Package: usql
-  Version: 0.19.25-1
+  Version: 0.19.26
   Description: A universal command-line interface for SQL databases
   Homepage: https://github.com/xo/usql
 - Package: utf8cpp
