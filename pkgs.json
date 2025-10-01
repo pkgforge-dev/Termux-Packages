@@ -4021,19 +4021,19 @@
   },
   {
     "Package": "harfbuzz",
-    "Version": "12.0.0",
+    "Version": "12.1.0",
     "Description": "OpenType text shaping engine",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-icu",
-    "Version": "12.0.0",
+    "Version": "12.1.0",
     "Description": "OpenType text shaping engine ICU backend",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-utils",
-    "Version": "12.0.0",
+    "Version": "12.1.0",
     "Description": "Tools using the harfbuzz library",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
@@ -4585,7 +4585,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.24.7",
+    "Version": "0.24.17",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -12211,7 +12211,7 @@
   },
   {
     "Package": "python-cryptography",
-    "Version": "46.0.1",
+    "Version": "46.0.2",
     "Description": "Provides cryptographic recipes and primitives to Python developers",
     "Homepage": "https://github.com/pyca/cryptography"
   },
@@ -12823,7 +12823,7 @@
   },
   {
     "Package": "remind",
-    "Version": "1:06.01.02",
+    "Version": "1:06.01.03",
     "Description": "Sophisticated calendar and alarm program",
     "Homepage": "https://dianne.skoll.ca/projects/remind/"
   },
