@@ -225,7 +225,7 @@
 | **cfengine** | 1:3.25.0-2 | CFEngine is a configuration management technology | https://cfengine.com/ |
 | **cfengine-static** | 1:3.25.0-2 | Static libraries for cfengine | https://cfengine.com/ |
 | **cfm** | 1.2.0-3 | A basic file manager that runs inside a terminal, designed for Linux. It's fully responsive and incredibly fast. | https://github.com/0l1v3rr/cli-file-manager |
-| **cgal** | 6.0.2 | Computational Geometry Algorithms Library | https://www.cgal.org/ |
+| **cgal** | 6.1 | Computational Geometry Algorithms Library | https://www.cgal.org/ |
 | **cgdb** | 0.8.0-1 | A lightweight curses (terminal-based) interface to the GNU Debugger (GDB) | https://cgdb.github.io/ |
 | **cgif** | 0.5.0-1 | A fast and lightweight GIF encoding library | https://github.com/dloebl/cgif |
 | **chafa** | 1.16.2-1 | Image-to-text converter supporting a wide range of symbols, etc. | https://hpjansson.org/chafa/ |
@@ -2563,7 +2563,7 @@
 | **vim** | 9.1.1800 | Vi IMproved - enhanced vi editor | https://www.vim.org |
 | **virglrenderer** | 1.2.0 | A virtual 3D GPU for use inside qemu virtual machines | https://virgil3d.github.io/ |
 | **virglrenderer-android** | 1.0.1-4 | A virtual 3D GPU for use inside qemu virtual machines over OpenGLES libraries on Android | https://virgil3d.github.io/ |
-| **virustotal-cli** | 1.1.1-1 | Command line interface for VirusTotal | https://github.com/VirusTotal/vt-cli |
+| **virustotal-cli** | 1.2.0 | Command line interface for VirusTotal | https://github.com/VirusTotal/vt-cli |
 | **vis** | 0.9-5 | Modern, legacy free, simple yet efficient vim-like editor | https://www.brain-dump.org/projects/vis/ |
 | **vitetris** | 0.59.1-4 | Virtual terminal *tris clone | http://victornils.net/tetris/ |
 | **viu** | 1.5.1-1 | Terminal image viewer with native support for iTerm and Kitty | https://github.com/atanunq/viu |

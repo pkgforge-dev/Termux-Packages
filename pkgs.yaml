@@ -859,7 +859,7 @@
   Description: A basic file manager that runs inside a terminal, designed for Linux. Its fully responsive and incredibly fast.
   Homepage: https://github.com/0l1v3rr/cli-file-manager
 - Package: cgal
-  Version: 6.0.2
+  Version: "6.1"
   Description: Computational Geometry Algorithms Library
   Homepage: https://www.cgal.org/
 - Package: cgdb
@@ -10211,7 +10211,7 @@
   Description: A virtual 3D GPU for use inside qemu virtual machines over OpenGLES libraries on Android
   Homepage: https://virgil3d.github.io/
 - Package: virustotal-cli
-  Version: 1.1.1-1
+  Version: 1.2.0
   Description: Command line interface for VirusTotal
   Homepage: https://github.com/VirusTotal/vt-cli
 - Package: vis
