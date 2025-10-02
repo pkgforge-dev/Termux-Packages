@@ -819,7 +819,7 @@
   Description: A free compiler for 6502 based system
   Homepage: https://cc65.github.io/
 - Package: ccache
-  Version: "4.12"
+  Version: 4.12.1
   Description: Compiler cache for fast recompilation of C/C++ code
   Homepage: https://ccache.samba.org
 - Package: cccc
@@ -2187,7 +2187,7 @@
   Description: The Forth implementation of the GNU project
   Homepage: https://www.gnu.org/software/gforth/
 - Package: gh
-  Version: 2.80.0
+  Version: 2.81.0
   Description: GitHub’s official command line tool
   Homepage: https://cli.github.com/
 - Package: ghc
@@ -3871,7 +3871,7 @@
   Description: Static libraries for libdmtx
   Homepage: https://github.com/dmtx/libdmtx
 - Package: libdrm
-  Version: 2.4.125-1
+  Version: 2.4.126
   Description: Userspace interface to kernel DRM services
   Homepage: https://dri.freedesktop.org/wiki/
 - Package: libduckdb
@@ -8727,7 +8727,7 @@
   Description: A cross-platform command-line tool for executing jobs in parallel
   Homepage: https://github.com/shenwei356/rush
 - Package: rust
-  Version: 1.90.0+really1.89.0
+  Version: 1.90.0+really1.90.0
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
@@ -8739,47 +8739,47 @@
   Description: Automatically generates Rust FFI bindings to C (and some C++) libraries
   Homepage: https://github.com/rust-lang/rust-bindgen
 - Package: rust-docs
-  Version: 1.90.0+really1.89.0
+  Version: 1.90.0+really1.90.0
   Description: Rust documentation
   Homepage: https://www.rust-lang.org/
 - Package: rust-src
-  Version: 1.90.0+really1.89.0
+  Version: 1.90.0+really1.90.0
   Description: Rust source code files
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-aarch64-linux-android
-  Version: 1.90.0+really1.89.0
+  Version: 1.90.0+really1.90.0
   Description: Rust std for target aarch64-linux-android
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-armv7-linux-androideabi
-  Version: 1.90.0+really1.89.0
+  Version: 1.90.0+really1.90.0
   Description: Rust std for target armv7-linux-androideabi
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-i686-linux-android
-  Version: 1.90.0+really1.89.0
+  Version: 1.90.0+really1.90.0
   Description: Rust std for target i686-linux-android
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-wasm32-unknown-unknown
-  Version: 1.90.0+really1.89.0
+  Version: 1.90.0+really1.90.0
   Description: Rust std for target wasm32-unknown-unknown
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-wasm32-wasip1
-  Version: 1.90.0+really1.89.0
+  Version: 1.90.0+really1.90.0
   Description: Rust std for target wasm32-wasip1
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-wasm32-wasip2
-  Version: 1.90.0+really1.89.0
+  Version: 1.90.0+really1.90.0
   Description: Rust std for target wasm32-wasip2
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-x86-64-linux-android
-  Version: 1.90.0+really1.89.0
+  Version: 1.90.0+really1.90.0
   Description: Rust std for target x86_64-linux-android
   Homepage: https://www.rust-lang.org/
 - Package: rustc-dev
-  Version: 1.90.0+really1.89.0
+  Version: 1.90.0+really1.90.0
   Description: Rust compiler development libs
   Homepage: https://www.rust-lang.org/
 - Package: rustc-src
-  Version: 1.90.0+really1.89.0
+  Version: 1.90.0+really1.90.0
   Description: Rust compiler source code files
   Homepage: https://www.rust-lang.org/
 - Package: rustscan
@@ -10695,7 +10695,7 @@
   Description: Programmable file compressor, library and utilities. Based on the PAQ compression algorithm
   Homepage: http://mattmahoney.net/dc/zpaq.html
 - Package: zrok
-  Version: 1.1.5
+  Version: 1.1.7
   Description: An open source sharing solution built on OpenZiti.
   Homepage: https://zrok.io/
 - Package: zsh

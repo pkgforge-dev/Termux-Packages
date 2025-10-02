@@ -215,7 +215,7 @@
 | **cboard** | 0.7.5-5 | PGN browser, editor and chess engine frontend | https://benkibbey.wordpress.com/cboard/ |
 | **cbonsai** | 1.4.2-1 | Grow bonsai trees in your terminal | https://gitlab.com/jallbrit/cbonsai |
 | **cc65** | 2.19-1 | A free compiler for 6502 based system | https://cc65.github.io/ |
-| **ccache** | 4.12 | Compiler cache for fast recompilation of C/C++ code | https://ccache.samba.org |
+| **ccache** | 4.12.1 | Compiler cache for fast recompilation of C/C++ code | https://ccache.samba.org |
 | **cccc** | 3.2.0-1 | Source code counter and metrics tool for C++, C, and Java | https://sarnold.github.io/cccc/ |
 | **ccextractor** | 0.94-6 | A tool used to produce subtitles for TV recordings | https://ccextractor.org/ |
 | **ccls** | 0.20250511 | C/C++/ObjC language server | https://github.com/MaskRay/ccls |
@@ -557,7 +557,7 @@
 | **gflags** | 2.2.2-11 | A C++ library that implements commandline flags processing | https://github.com/gflags/gflags |
 | **gflags-static** | 2.2.2-11 | Static libraries for gflags | https://github.com/gflags/gflags |
 | **gforth** | 0.7.3-3 | The Forth implementation of the GNU project | https://www.gnu.org/software/gforth/ |
-| **gh** | 2.80.0 | GitHub’s official command line tool | https://cli.github.com/ |
+| **gh** | 2.81.0 | GitHub’s official command line tool | https://cli.github.com/ |
 | **ghc** | 9.12.2-2 | The Glasgow Haskell Compiler | https://www.haskell.org/ghc/ |
 | **ghostscript** | 10.05.1-2 | Interpreter for the PostScript language and for PDF | https://www.ghostscript.com/ |
 | **giflib** | 5.2.2-1 | A library for reading and writing gif images | https://giflib.sourceforge.net/ |
@@ -978,7 +978,7 @@
 | **libdisplay-info** | 0.3.0 | EDID and DisplayID library | https://emersion.pages.freedesktop.org/libdisplay-info/ |
 | **libdmtx** | 0.7.8-1 | A software library that enables programs to read and write Data Matrix barcodes | https://github.com/dmtx/libdmtx |
 | **libdmtx-static** | 0.7.8-1 | Static libraries for libdmtx | https://github.com/dmtx/libdmtx |
-| **libdrm** | 2.4.125-1 | Userspace interface to kernel DRM services | https://dri.freedesktop.org/wiki/ |
+| **libdrm** | 2.4.126 | Userspace interface to kernel DRM services | https://dri.freedesktop.org/wiki/ |
 | **libduckdb** | 1.4.0 | An in-process SQL OLAP database management system | https://duckdb.org/ |
 | **libduckdb-static** | 1.4.0 | Static libraries for libduckdb | https://duckdb.org/ |
 | **libduktape** | 2.7.0-2 | An embeddable Javascript engine with a focus on portability and compact footprint | https://www.duktape.org/ |
@@ -2192,20 +2192,20 @@
 | **runit** | 2.1.2-4 | Tools to provide service supervision and to manage services | http://smarden.org/runit |
 | **runit-static** | 2.1.2-4 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.7.0-1 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
-| **rust** | 1.90.0+really1.89.0 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
+| **rust** | 1.90.0+really1.90.0 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
 | **rust-analyzer** | 20250825 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
 | **rust-bindgen** | 0.72.1 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
-| **rust-docs** | 1.90.0+really1.89.0 | Rust documentation | https://www.rust-lang.org/ |
-| **rust-src** | 1.90.0+really1.89.0 | Rust source code files | https://www.rust-lang.org/ |
-| **rust-std-aarch64-linux-android** | 1.90.0+really1.89.0 | Rust std for target aarch64-linux-android | https://www.rust-lang.org/ |
-| **rust-std-armv7-linux-androideabi** | 1.90.0+really1.89.0 | Rust std for target armv7-linux-androideabi | https://www.rust-lang.org/ |
-| **rust-std-i686-linux-android** | 1.90.0+really1.89.0 | Rust std for target i686-linux-android | https://www.rust-lang.org/ |
-| **rust-std-wasm32-unknown-unknown** | 1.90.0+really1.89.0 | Rust std for target wasm32-unknown-unknown | https://www.rust-lang.org/ |
-| **rust-std-wasm32-wasip1** | 1.90.0+really1.89.0 | Rust std for target wasm32-wasip1 | https://www.rust-lang.org/ |
-| **rust-std-wasm32-wasip2** | 1.90.0+really1.89.0 | Rust std for target wasm32-wasip2 | https://www.rust-lang.org/ |
-| **rust-std-x86-64-linux-android** | 1.90.0+really1.89.0 | Rust std for target x86_64-linux-android | https://www.rust-lang.org/ |
-| **rustc-dev** | 1.90.0+really1.89.0 | Rust compiler development libs | https://www.rust-lang.org/ |
-| **rustc-src** | 1.90.0+really1.89.0 | Rust compiler source code files | https://www.rust-lang.org/ |
+| **rust-docs** | 1.90.0+really1.90.0 | Rust documentation | https://www.rust-lang.org/ |
+| **rust-src** | 1.90.0+really1.90.0 | Rust source code files | https://www.rust-lang.org/ |
+| **rust-std-aarch64-linux-android** | 1.90.0+really1.90.0 | Rust std for target aarch64-linux-android | https://www.rust-lang.org/ |
+| **rust-std-armv7-linux-androideabi** | 1.90.0+really1.90.0 | Rust std for target armv7-linux-androideabi | https://www.rust-lang.org/ |
+| **rust-std-i686-linux-android** | 1.90.0+really1.90.0 | Rust std for target i686-linux-android | https://www.rust-lang.org/ |
+| **rust-std-wasm32-unknown-unknown** | 1.90.0+really1.90.0 | Rust std for target wasm32-unknown-unknown | https://www.rust-lang.org/ |
+| **rust-std-wasm32-wasip1** | 1.90.0+really1.90.0 | Rust std for target wasm32-wasip1 | https://www.rust-lang.org/ |
+| **rust-std-wasm32-wasip2** | 1.90.0+really1.90.0 | Rust std for target wasm32-wasip2 | https://www.rust-lang.org/ |
+| **rust-std-x86-64-linux-android** | 1.90.0+really1.90.0 | Rust std for target x86_64-linux-android | https://www.rust-lang.org/ |
+| **rustc-dev** | 1.90.0+really1.90.0 | Rust compiler development libs | https://www.rust-lang.org/ |
+| **rustc-src** | 1.90.0+really1.90.0 | Rust compiler source code files | https://www.rust-lang.org/ |
 | **rustscan** | 2.4.1-1 | The modern,fast,smart and effective port scanner | https://rustscan.github.io/RustScan |
 | **rw** | 1.0.1-1 | A Rust implementation of sponge(1) that never write to TMPDIR | https://github.com/jridgewell/rw |
 | **rxfetch** | 2023.01.07 | A custom system info fetching tool | https://github.com/Mangeshrex/rxfetch |
@@ -2684,7 +2684,7 @@
 | **zopfli** | 1.0.3-5 | New zlib compatible compressor tools | https://github.com/google/zopfli |
 | **zoxide** | 0.9.8-2 | A faster way to navigate your filesystem | https://github.com/ajeetdsouza/zoxide |
 | **zpaq** | 7.15-1 | Programmable file compressor, library and utilities. Based on the PAQ compression algorithm | http://mattmahoney.net/dc/zpaq.html |
-| **zrok** | 1.1.5 | An open source sharing solution built on OpenZiti. | https://zrok.io/ |
+| **zrok** | 1.1.7 | An open source sharing solution built on OpenZiti. | https://zrok.io/ |
 | **zsh** | 5.9-9 | Shell with lots of features | https://www.zsh.org |
 | **zsh-completions** | 0.35.0 | Additional completion definitions for Zsh | https://github.com/zsh-users/zsh-completions |
 | **zssh** | 1.5c-1 | A program for interactively transferring files to a remote machine while using the secure shell (ssh) | http://zssh.sourceforge.net/ |
