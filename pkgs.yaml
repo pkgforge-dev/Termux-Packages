@@ -195,7 +195,7 @@
   Description: AOSP-based mksh, toybox and iputils for termux-docker
   Homepage: https://source.android.com/
 - Package: apache-orc
-  Version: 2.2.0-2
+  Version: 2.2.1
   Description: Columnar storage for Hadoop workloads
   Homepage: https://orc.apache.org/
 - Package: apache2
@@ -3055,7 +3055,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.24.17
+  Version: 0.24.24
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -3267,7 +3267,7 @@
   Description: A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication
   Homepage: https://github.com/int128/kubelogin
 - Package: kubo
-  Version: 0.37.0
+  Version: 0.38.0
   Description: A peer-to-peer hypermedia distribution protocol
   Homepage: https://ipfs.io/
 - Package: ladspa-sdk
@@ -7731,7 +7731,7 @@
   Description: Portable Forth in C
   Homepage: https://www.softsynth.com/pforth/
 - Package: pgroonga
-  Version: 4.0.2
+  Version: 4.0.4
   Description: A PostgreSQL extension to use Groonga as index
   Homepage: https://github.com/pgroonga/pgroonga
 - Package: photon-rss
@@ -8291,83 +8291,83 @@
   Description: Static libraries for qalc
   Homepage: https://qalculate.github.io/
 - Package: qemu-common
-  Version: 1:8.2.6-6
+  Version: 1:8.2.10
   Description: A set common files used by the QEMU emulators
   Homepage: https://www.qemu.org
 - Package: qemu-system-aarch64-headless
-  Version: 1:8.2.6-6
+  Version: 1:8.2.10
   Description: A generic and open source machine emulator and virtualizer (headless)
   Homepage: https://www.qemu.org
 - Package: qemu-system-arm-headless
-  Version: 1:8.2.6-6
+  Version: 1:8.2.10
   Description: A generic and open source machine emulator and virtualizer (headless)
   Homepage: https://www.qemu.org
 - Package: qemu-system-i386-headless
-  Version: 1:8.2.6-6
+  Version: 1:8.2.10
   Description: A generic and open source machine emulator and virtualizer (headless)
   Homepage: https://www.qemu.org
 - Package: qemu-system-m68k-headless
-  Version: 1:8.2.6-6
+  Version: 1:8.2.10
   Description: A generic and open source machine emulator and virtualizer (headless)
   Homepage: https://www.qemu.org
 - Package: qemu-system-ppc-headless
-  Version: 1:8.2.6-6
+  Version: 1:8.2.10
   Description: A generic and open source machine emulator and virtualizer (headless)
   Homepage: https://www.qemu.org
 - Package: qemu-system-ppc64-headless
-  Version: 1:8.2.6-6
+  Version: 1:8.2.10
   Description: A generic and open source machine emulator and virtualizer (headless)
   Homepage: https://www.qemu.org
 - Package: qemu-system-riscv32-headless
-  Version: 1:8.2.6-6
+  Version: 1:8.2.10
   Description: A generic and open source machine emulator and virtualizer (headless)
   Homepage: https://www.qemu.org
 - Package: qemu-system-riscv64-headless
-  Version: 1:8.2.6-6
+  Version: 1:8.2.10
   Description: A generic and open source machine emulator and virtualizer (headless)
   Homepage: https://www.qemu.org
 - Package: qemu-system-x86-64-headless
-  Version: 1:8.2.6-6
+  Version: 1:8.2.10
   Description: A generic and open source machine emulator and virtualizer (headless)
   Homepage: https://www.qemu.org
 - Package: qemu-user-aarch64
-  Version: 1:8.2.6-6
+  Version: 1:8.2.10
   Description: QEMU Linux user mode emulator
   Homepage: https://www.qemu.org
 - Package: qemu-user-arm
-  Version: 1:8.2.6-6
+  Version: 1:8.2.10
   Description: QEMU Linux user mode emulator
   Homepage: https://www.qemu.org
 - Package: qemu-user-i386
-  Version: 1:8.2.6-6
+  Version: 1:8.2.10
   Description: QEMU Linux user mode emulator
   Homepage: https://www.qemu.org
 - Package: qemu-user-m68k
-  Version: 1:8.2.6-6
+  Version: 1:8.2.10
   Description: QEMU Linux user mode emulator
   Homepage: https://www.qemu.org
 - Package: qemu-user-ppc
-  Version: 1:8.2.6-6
+  Version: 1:8.2.10
   Description: QEMU Linux user mode emulator
   Homepage: https://www.qemu.org
 - Package: qemu-user-ppc64
-  Version: 1:8.2.6-6
+  Version: 1:8.2.10
   Description: QEMU Linux user mode emulator
   Homepage: https://www.qemu.org
 - Package: qemu-user-riscv32
-  Version: 1:8.2.6-6
+  Version: 1:8.2.10
   Description: QEMU Linux user mode emulator
   Homepage: https://www.qemu.org
 - Package: qemu-user-riscv64
-  Version: 1:8.2.6-6
+  Version: 1:8.2.10
   Description: QEMU Linux user mode emulator
   Homepage: https://www.qemu.org
 - Package: qemu-user-x86-64
-  Version: 1:8.2.6-6
+  Version: 1:8.2.10
   Description: QEMU Linux user mode emulator
   Homepage: https://www.qemu.org
 - Package: qemu-utils
-  Version: 1:8.2.6-6
+  Version: 1:8.2.10
   Description: A set of utilities for working with the QEMU emulators
   Homepage: https://www.qemu.org
 - Package: qhull
@@ -9511,7 +9511,7 @@
   Description: Telegram messenger CLI
   Homepage: https://github.com/vysheng/tg
 - Package: teleport-tsh
-  Version: 18.2.3
+  Version: 18.2.4
   Description: Secure Access for Developers that doesnt get in the way
   Homepage: https://github.com/gravitational/teleport
 - Package: tenki-php

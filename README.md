@@ -59,7 +59,7 @@
 | **aom-tools** | 3.13.1 | Command-line tools using AOMedia library | https://aomedia.org/ |
 | **aosp-libs** | 9.0.0-r76-1 | bionic libc, libicuuc, liblzma, zlib, and boringssl for package builder and termux-docker | https://source.android.com/ |
 | **aosp-utils** | 9.0.0-r76-1 | AOSP-based mksh, toybox and iputils for termux-docker | https://source.android.com/ |
-| **apache-orc** | 2.2.0-2 | Columnar storage for Hadoop workloads | https://orc.apache.org/ |
+| **apache-orc** | 2.2.1 | Columnar storage for Hadoop workloads | https://orc.apache.org/ |
 | **apache2** | 1:2.4.65-1 | Apache Web Server | https://httpd.apache.org |
 | **apkeep** | 0.17.0-2 | A command-line tool for downloading APK files from various sources | https://github.com/EFForg/apkeep |
 | **apksigner** | 33.0.1-1 | APK signing tool from Android SDK | https://developer.android.com/studio/command-line/apksigner |
@@ -774,7 +774,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4-1 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-2 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.24.17 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.24.24 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **jadx** | 1.5.3 | Dex to Java decompiler | https://github.com/skylot/jadx |
 | **jadx-x** | 1.5.3 | Dex to Java decompiler GUI | https://github.com/skylot/jadx |
 | **janet** | 1.39.1 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
@@ -827,7 +827,7 @@
 | **kubecolor** | 0.5.2 | Colorize your kubectl output | https://github.com/kubecolor/kubecolor |
 | **kubectl** | 1.34.1 | Kubernetes.io client binary | https://kubernetes.io/ |
 | **kubelogin** | 1.34.1 | A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication | https://github.com/int128/kubelogin |
-| **kubo** | 0.37.0 | A peer-to-peer hypermedia distribution protocol | https://ipfs.io/ |
+| **kubo** | 0.38.0 | A peer-to-peer hypermedia distribution protocol | https://ipfs.io/ |
 | **ladspa-sdk** | 1.17-2 | Linux Audio Developer's Simple Plugin API | https://www.ladspa.org/ |
 | **lame** | 3.100-7 | High quality MPEG Audio Layer III (MP3) encoder - frontend | https://lame.sourceforge.io/ |
 | **lastpass-cli** | 1.6.1-3 | LastPass command line interface tool | https://lastpass.com/ |
@@ -1943,7 +1943,7 @@
 | **perl-rename** | 1.14 | renames multiple files using perl expressions. | https://search.cpan.org/~pederst/rename/ |
 | **pet** | 1.0.1-1 | Simple command-line snippet manager | https://github.com/knqyf263/pet |
 | **pforth** | 1:2.0.1-1 | Portable Forth in C | https://www.softsynth.com/pforth/ |
-| **pgroonga** | 4.0.2 | A PostgreSQL extension to use Groonga as index | https://github.com/pgroonga/pgroonga |
+| **pgroonga** | 4.0.4 | A PostgreSQL extension to use Groonga as index | https://github.com/pgroonga/pgroonga |
 | **photon-rss** | 2023.02.02-3 | An RSS/Atom reader with the focus on speed, usability and a bit of unix philosophy | https://git.sr.ht/~ghost08/photon |
 | **php** | 8.4.2-3 | Server-side, HTML-embedded scripting language | https://php.net |
 | **php-apache** | 8.4.2-3 | Apache 2.0 Handler module for PHP | https://php.net |
@@ -2083,26 +2083,26 @@
 | **q-dns-client** | 0.19.9 | A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH | https://github.com/natesales/q |
 | **qalc** | 5.7.0 | Powerful and easy to use command line calculator | https://qalculate.github.io/ |
 | **qalc-static** | 5.7.0 | Static libraries for qalc | https://qalculate.github.io/ |
-| **qemu-common** | 1:8.2.6-6 | A set common files used by the QEMU emulators | https://www.qemu.org |
-| **qemu-system-aarch64-headless** | 1:8.2.6-6 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
-| **qemu-system-arm-headless** | 1:8.2.6-6 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
-| **qemu-system-i386-headless** | 1:8.2.6-6 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
-| **qemu-system-m68k-headless** | 1:8.2.6-6 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
-| **qemu-system-ppc-headless** | 1:8.2.6-6 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
-| **qemu-system-ppc64-headless** | 1:8.2.6-6 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
-| **qemu-system-riscv32-headless** | 1:8.2.6-6 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
-| **qemu-system-riscv64-headless** | 1:8.2.6-6 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
-| **qemu-system-x86-64-headless** | 1:8.2.6-6 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
-| **qemu-user-aarch64** | 1:8.2.6-6 | QEMU Linux user mode emulator | https://www.qemu.org |
-| **qemu-user-arm** | 1:8.2.6-6 | QEMU Linux user mode emulator | https://www.qemu.org |
-| **qemu-user-i386** | 1:8.2.6-6 | QEMU Linux user mode emulator | https://www.qemu.org |
-| **qemu-user-m68k** | 1:8.2.6-6 | QEMU Linux user mode emulator | https://www.qemu.org |
-| **qemu-user-ppc** | 1:8.2.6-6 | QEMU Linux user mode emulator | https://www.qemu.org |
-| **qemu-user-ppc64** | 1:8.2.6-6 | QEMU Linux user mode emulator | https://www.qemu.org |
-| **qemu-user-riscv32** | 1:8.2.6-6 | QEMU Linux user mode emulator | https://www.qemu.org |
-| **qemu-user-riscv64** | 1:8.2.6-6 | QEMU Linux user mode emulator | https://www.qemu.org |
-| **qemu-user-x86-64** | 1:8.2.6-6 | QEMU Linux user mode emulator | https://www.qemu.org |
-| **qemu-utils** | 1:8.2.6-6 | A set of utilities for working with the QEMU emulators | https://www.qemu.org |
+| **qemu-common** | 1:8.2.10 | A set common files used by the QEMU emulators | https://www.qemu.org |
+| **qemu-system-aarch64-headless** | 1:8.2.10 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
+| **qemu-system-arm-headless** | 1:8.2.10 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
+| **qemu-system-i386-headless** | 1:8.2.10 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
+| **qemu-system-m68k-headless** | 1:8.2.10 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
+| **qemu-system-ppc-headless** | 1:8.2.10 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
+| **qemu-system-ppc64-headless** | 1:8.2.10 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
+| **qemu-system-riscv32-headless** | 1:8.2.10 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
+| **qemu-system-riscv64-headless** | 1:8.2.10 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
+| **qemu-system-x86-64-headless** | 1:8.2.10 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
+| **qemu-user-aarch64** | 1:8.2.10 | QEMU Linux user mode emulator | https://www.qemu.org |
+| **qemu-user-arm** | 1:8.2.10 | QEMU Linux user mode emulator | https://www.qemu.org |
+| **qemu-user-i386** | 1:8.2.10 | QEMU Linux user mode emulator | https://www.qemu.org |
+| **qemu-user-m68k** | 1:8.2.10 | QEMU Linux user mode emulator | https://www.qemu.org |
+| **qemu-user-ppc** | 1:8.2.10 | QEMU Linux user mode emulator | https://www.qemu.org |
+| **qemu-user-ppc64** | 1:8.2.10 | QEMU Linux user mode emulator | https://www.qemu.org |
+| **qemu-user-riscv32** | 1:8.2.10 | QEMU Linux user mode emulator | https://www.qemu.org |
+| **qemu-user-riscv64** | 1:8.2.10 | QEMU Linux user mode emulator | https://www.qemu.org |
+| **qemu-user-x86-64** | 1:8.2.10 | QEMU Linux user mode emulator | https://www.qemu.org |
+| **qemu-utils** | 1:8.2.10 | A set of utilities for working with the QEMU emulators | https://www.qemu.org |
 | **qhull** | 8.1-alpha3-2 | Calculate convex hulls and related structures | http://www.qhull.org |
 | **qhull-static** | 8.1-alpha3-2 | Static libraries for qhull | http://www.qhull.org |
 | **qpdf** | 12.2.0-1 | Content-Preserving PDF Transformation System | http://qpdf.sourceforge.net |
@@ -2388,7 +2388,7 @@
 | **tectonic** | 0.15.0-4 | A modernized, complete, self-contained TeX/LaTeX engine | https://tectonic-typesetting.github.io/ |
 | **telegram-bot-api** | 20241031-2 | Telegram Bot API server | https://github.com/tdlib/telegram-bot-api |
 | **telegram-cli** | 1:1.4.1-8 | Telegram messenger CLI | https://github.com/vysheng/tg |
-| **teleport-tsh** | 18.2.3 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
+| **teleport-tsh** | 18.2.4 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
 | **tenki-php** | 2022.05.26 | A simple PHP application for logging current weather conditions, notes, and waypoints | https://github.com/dmpop/tenki |
 | **tere** | 1.6.0-1 | Terminal file explorer written in rust | https://github.com/mgunyho/tere |
 | **tergent** | 1.0.0-5 | A cryptoki/PKCS#11 library for Termux that uses Android Keystore as its backend | https://github.com/aeolwyr/tergent |
