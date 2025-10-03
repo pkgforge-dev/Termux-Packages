@@ -1335,7 +1335,7 @@
   Description: A command line interface for libdmtx
   Homepage: https://github.com/dmtx/dmtx-utils
 - Package: dnglab
-  Version: 0.7.0
+  Version: 0.7.1
   Description: Camera RAW to DNG file format converter
   Homepage: https://github.com/dnglab/dnglab
 - Package: dnote
@@ -1835,11 +1835,11 @@
   Description: A fast, simple, recursive content discovery tool written in Rust
   Homepage: https://github.com/epi052/feroxbuster
 - Package: fetchmail
-  Version: 6.5.5
+  Version: 6.5.6
   Description: A remote-mail retrieval utility
   Homepage: https://www.fetchmail.info/
 - Package: fetchmailconf
-  Version: 6.5.5
+  Version: 6.5.6
   Description: A GUI configurator for generating fetchmail configuration files
   Homepage: https://www.fetchmail.info/
 - Package: fff
@@ -2467,7 +2467,7 @@
   Description: Google C++ testing framework
   Homepage: https://github.com/google/googletest
 - Package: goose
-  Version: 3.25.0
+  Version: 3.26.0
   Description: A database migration tool. Supports SQL migrations and Go functions.
   Homepage: https://pressly.github.io/goose
 - Package: gopass
@@ -2675,7 +2675,7 @@
   Description: Standard GNU file compression utilities
   Homepage: https://www.gnu.org/software/gzip/
 - Package: haproxy
-  Version: 3.2.5
+  Version: 3.2.6
   Description: The Reliable, High Performance TCP/HTTP Load Balancer
   Homepage: https://www.haproxy.org/
 - Package: harfbuzz
