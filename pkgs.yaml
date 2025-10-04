@@ -1611,11 +1611,11 @@
   Description: Line based editor, browser, and mail client
   Homepage: https://edbrowse.org/
 - Package: editorconfig-core-c
-  Version: 0.12.9-1
+  Version: 0.12.10
   Description: EditorConfig core code written in C (for use by plugins supporting EditorConfig parsing)
   Homepage: https://editorconfig.org/
 - Package: editorconfig-core-c-static
-  Version: 0.12.9-1
+  Version: 0.12.10
   Description: Static libraries for editorconfig-core-c
   Homepage: https://editorconfig.org/
 - Package: eigen
@@ -3055,7 +3055,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.24.31
+  Version: 0.24.37
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -6343,7 +6343,7 @@
   Description: Sumneko Lua Language Server coded in Lua
   Homepage: https://github.com/sumneko/lua-language-server
 - Package: lua-lgi
-  Version: 0.9.2-1
+  Version: 0.9.2-2
   Description: Dynamic Lua binding to GObject libraries using GObject-Introspection
   Homepage: https://github.com/lgi-devs/lgi
 - Package: lua-lpeg

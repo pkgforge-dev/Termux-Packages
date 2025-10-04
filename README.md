@@ -413,8 +413,8 @@
 | **ecj** | 1:4.12-5 | Eclipse Compiler for Java | https://www.eclipse.org/jdt/core/ |
 | **ed** | 1.22.2-1 | Classic UNIX line editor | https://www.gnu.org/software/ed/ |
 | **edbrowse** | 3.8.12-1 | Line based editor, browser, and mail client | https://edbrowse.org/ |
-| **editorconfig-core-c** | 0.12.9-1 | EditorConfig core code written in C (for use by plugins supporting EditorConfig parsing) | https://editorconfig.org/ |
-| **editorconfig-core-c-static** | 0.12.9-1 | Static libraries for editorconfig-core-c | https://editorconfig.org/ |
+| **editorconfig-core-c** | 0.12.10 | EditorConfig core code written in C (for use by plugins supporting EditorConfig parsing) | https://editorconfig.org/ |
+| **editorconfig-core-c-static** | 0.12.10 | Static libraries for editorconfig-core-c | https://editorconfig.org/ |
 | **eigen** | 3.4.0 | Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms | http://eigen.tuxfamily.org |
 | **eja** | 18.4.19-1 | eja micro web server | https://github.com/eja/eja |
 | **electric-fence** | 2.2.7-1 | Electric Fence (eFence) malloc memory debugger | https://elinux.org/Electric_Fence |
@@ -774,7 +774,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4-1 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-2 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.24.31 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.24.37 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **jadx** | 1.5.3 | Dex to Java decompiler | https://github.com/skylot/jadx |
 | **jadx-x** | 1.5.3 | Dex to Java decompiler GUI | https://github.com/skylot/jadx |
 | **janet** | 1.39.1 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
@@ -1596,7 +1596,7 @@
 | **lsof-static** | 4.99.5-2 | Static libraries for lsof | https://github.com/lsof-org/lsof |
 | **ltrace** | 1:0.8.1 | Tracks runtime library calls in dynamically linked programs | http://www.ltrace.org/ |
 | **lua-language-server** | 3.15.0-1 | Sumneko Lua Language Server coded in Lua | https://github.com/sumneko/lua-language-server |
-| **lua-lgi** | 0.9.2-1 | Dynamic Lua binding to GObject libraries using GObject-Introspection | https://github.com/lgi-devs/lgi |
+| **lua-lgi** | 0.9.2-2 | Dynamic Lua binding to GObject libraries using GObject-Introspection | https://github.com/lgi-devs/lgi |
 | **lua-lpeg** | 1.1.0-3 | Pattern-matching library for Lua 5.4 | https://www.inf.puc-rio.br/~roberto/lpeg |
 | **lua51** | 5.1.5-5 | Simple, extensible, embeddable programming language | https://www.lua.org |
 | **lua51-lpeg** | 1.1.0-3 | Pattern-matching library for Lua 5.1 | https://www.inf.puc-rio.br/~roberto/lpeg |
