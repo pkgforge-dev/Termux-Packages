@@ -163,7 +163,7 @@
   },
   {
     "Package": "alembic",
-    "Version": "1.8.8-1",
+    "Version": "1.8.9",
     "Description": "A framework for sharing scene data that includes a C++ lib, a file format and client plugin",
     "Homepage": "https://alembic.io"
   },
@@ -2629,7 +2629,7 @@
   },
   {
     "Package": "eza",
-    "Version": "0.23.3",
+    "Version": "0.23.4",
     "Description": "A modern replacement for ls",
     "Homepage": "https://github.com/eza-community/eza"
   },
@@ -14233,7 +14233,7 @@
   },
   {
     "Package": "tealdeer",
-    "Version": "1.7.2-2",
+    "Version": "1.8.0",
     "Description": "A very fast implementation of tldr in Rust",
     "Homepage": "https://tealdeer-rs.github.io/tealdeer/"
   },
