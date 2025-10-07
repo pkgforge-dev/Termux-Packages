@@ -775,7 +775,7 @@
   Description: Static libraries for capstone
   Homepage: https://www.capstone-engine.org/
 - Package: carapace
-  Version: 1.5.1
+  Version: 1.5.2
   Description: Multi-shell multi-command argument completer
   Homepage: https://carapace.sh/
 - Package: cargo-c
@@ -1059,7 +1059,7 @@
   Description: A suite of tools to create shopping lists and maintain food recipes
   Homepage: https://cooklang.org
 - Package: coreutils
-  Version: 9.7-3
+  Version: "9.8"
   Description: Basic file, shell and text manipulation utilities from the GNU project
   Homepage: https://www.gnu.org/software/coreutils/
 - Package: corgi
@@ -3195,7 +3195,7 @@
   Description: A tool that optimizes PDF files for viewing on mobile readers
   Homepage: https://www.willus.com/k2pdfopt/
 - Package: k9s
-  Version: 0.50.14
+  Version: 0.50.15
   Description: Kubernetes CLI To Manage Your Clusters In Style!
   Homepage: https://k9scli.io
 - Package: kainjow-mustache
@@ -10015,11 +10015,11 @@
   Description: units_cur Python script
   Homepage: https://www.gnu.org/software/units/
 - Package: unixodbc
-  Version: 2.3.13
+  Version: 2.3.14
   Description: An Open Source ODBC sub-system and an ODBC SDK for Linux, Mac OSX, and UNIX
   Homepage: https://www.unixodbc.org/
 - Package: unixodbc-static
-  Version: 2.3.13
+  Version: 2.3.14
   Description: Static libraries for unixodbc
   Homepage: https://www.unixodbc.org/
 - Package: unpaper
