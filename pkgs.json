@@ -2497,25 +2497,25 @@
   },
   {
     "Package": "emscripten",
-    "Version": "4.0.15",
+    "Version": "4.0.16",
     "Description": "Emscripten: An LLVM-to-WebAssembly Compiler",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-binaryen",
-    "Version": "4.0.15",
+    "Version": "4.0.16",
     "Description": "Emscripten-compatible Binaryen",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-llvm",
-    "Version": "4.0.15",
+    "Version": "4.0.16",
     "Description": "Emscripten-compatible LLVM",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-tests-third-party",
-    "Version": "4.0.15",
+    "Version": "4.0.16",
     "Description": "Emscripten third party test suite files",
     "Homepage": "https://emscripten.org"
   },
@@ -10342,6 +10342,12 @@
     "Version": "3.4.0-1",
     "Description": "Static libraries for mruby",
     "Homepage": "https://mruby.org/"
+  },
+  {
+    "Package": "msedit",
+    "Version": "1.2.0",
+    "Description": "A simple editor for simple needs (Microsoft Edit)",
+    "Homepage": "https://github.com/microsoft/edit"
   },
   {
     "Package": "msitools",
