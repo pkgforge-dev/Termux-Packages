@@ -3195,7 +3195,7 @@
   Description: A tool that optimizes PDF files for viewing on mobile readers
   Homepage: https://www.willus.com/k2pdfopt/
 - Package: k9s
-  Version: 0.50.13
+  Version: 0.50.14
   Description: Kubernetes CLI To Manage Your Clusters In Style!
   Homepage: https://k9scli.io
 - Package: kainjow-mustache
@@ -10103,7 +10103,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.8.23
+  Version: 0.8.24
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
