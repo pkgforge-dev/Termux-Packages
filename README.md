@@ -687,7 +687,7 @@
 | **hash-slinger** | 3.4 | Various tools to generate special DNS records | https://github.com/letoams/hash-slinger |
 | **hashdeep** | 4.4-9 | Programs to compute hashsums of arbitrary number of files recursively | https://md5deep.sourceforge.net/ |
 | **hcl** | 2.24.0-1 | A toolkit for creating structured configuration languages | https://github.com/hashicorp/hcl |
-| **hcloud** | 1.53.0 | Hetzner Cloud command line client | https://github.com/hetznercloud/cli |
+| **hcloud** | 1.54.0 | Hetzner Cloud command line client | https://github.com/hetznercloud/cli |
 | **helix** | 25.07.1-1 | A post-modern modal text editor written in rust | https://helix-editor.com/ |
 | **helix-grammars** | 25.07.1-1 | Helix grammars | https://helix-editor.com/ |
 | **hello** | 2.12.2 | Prints a friendly greeting | https://www.gnu.org/software/hello/ |
@@ -1835,7 +1835,7 @@
 | **octomap** | 1.10.0-1 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0-1 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-5 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 27.1.1 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 27.1.2 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **okc-agents** | 0.1.2-2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.6-3 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-10 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
