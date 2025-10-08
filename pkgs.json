@@ -1333,7 +1333,7 @@
   },
   {
     "Package": "chezmoi",
-    "Version": "2.65.2",
+    "Version": "2.66.0",
     "Description": "Manage your dotfiles across multiple machines",
     "Homepage": "https://chezmoi.io"
   },
@@ -10177,7 +10177,7 @@
   },
   {
     "Package": "monero",
-    "Version": "0.18.4.2-2",
+    "Version": "0.18.4.3",
     "Description": "A private, secure, untraceable, decentralised digital currency",
     "Homepage": "https://getmonero.org/"
   },
@@ -10735,7 +10735,7 @@
   },
   {
     "Package": "nginx",
-    "Version": "1.29.1",
+    "Version": "1.29.2",
     "Description": "Lightweight HTTP server",
     "Homepage": "https://www.nginx.org"
   },
@@ -12319,7 +12319,7 @@
   },
   {
     "Package": "python-ruff",
-    "Version": "0.13.3",
+    "Version": "0.14.0",
     "Description": "An extremely fast Python linter, written in Rust (Python bindings)",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -13075,7 +13075,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.13.3",
+    "Version": "0.14.0",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -15157,7 +15157,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.8.24",
+    "Version": "0.9.0",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
