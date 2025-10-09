@@ -687,7 +687,7 @@
   Description: Utilities for Btrfs filesystem
   Homepage: https://btrfs.readthedocs.io/en/latest/
 - Package: buf
-  Version: 1.57.2
+  Version: 1.58.0
   Description: A new way of working with Protocol Buffers
   Homepage: https://buf.build
 - Package: build-essential
@@ -8531,11 +8531,11 @@
   Description: Static libraries for recode
   Homepage: https://github.com/pinard/Recode
 - Package: recoll
-  Version: 1.43.5
+  Version: 1.43.6
   Description: Full-text search for your desktop
   Homepage: https://www.recoll.org/
 - Package: recoll-python
-  Version: 1.43.5
+  Version: 1.43.6
   Description: Python interface for Recoll
   Homepage: https://www.recoll.org/
 - Package: recutils
