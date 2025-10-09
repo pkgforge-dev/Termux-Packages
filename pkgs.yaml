@@ -583,7 +583,7 @@
   Description: Tiny x86-64 Linux emulator
   Homepage: https://justine.lol/blinkenlights/
 - Package: blk-utils
-  Version: 2.40.2-5
+  Version: 2.41.2
   Description: Utilities for handling block device attributes
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: blogc
@@ -782,6 +782,10 @@
   Version: 0.10.16
   Description: Cargo C-ABI helpers
   Homepage: https://github.com/lu-zero/cargo-c
+- Package: cargo-leptos
+  Version: 0.2.44
+  Description: Build tool for the Rust framework Leptos
+  Homepage: https://github.com/leptos-rs/cargo-leptos
 - Package: catdoc
   Version: 0.95-2
   Description: Program which reads MS-Word file and prints readable ASCII text to stdout
@@ -1059,7 +1063,7 @@
   Description: A suite of tools to create shopping lists and maintain food recipes
   Homepage: https://cooklang.org
 - Package: coreutils
-  Version: "9.8"
+  Version: 9.8-1
   Description: Basic file, shell and text manipulation utilities from the GNU project
   Homepage: https://www.gnu.org/software/coreutils/
 - Package: corgi
@@ -1807,7 +1811,7 @@
   Description: Simple, fast and user-friendly alternative to find
   Homepage: https://github.com/sharkdp/fd
 - Package: fdisk
-  Version: 2.40.2-5
+  Version: 2.41.2
   Description: Utilities to manipulate disk partition tables
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: fdkaac
@@ -3267,7 +3271,7 @@
   Description: A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication
   Homepage: https://github.com/int128/kubelogin
 - Package: kubo
-  Version: 0.38.0
+  Version: 0.38.1
   Description: A peer-to-peer hypermedia distribution protocol
   Homepage: https://ipfs.io/
 - Package: ladspa-sdk
@@ -3543,7 +3547,7 @@
   Description: A lightweight cryptography API for Java
   Homepage: https://www.bouncycastle.org/java.html
 - Package: libblkid
-  Version: 2.40.2-5
+  Version: 2.41.2
   Description: Block device identification library
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: libblocksruntime
@@ -3999,7 +4003,7 @@
   Description: Flexible collision library
   Homepage: https://github.com/flexible-collision-library/fcl
 - Package: libfdisk
-  Version: 2.40.2-5
+  Version: 2.41.2
   Description: Library for manipulating disk partition tables
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: libfdk-aac
@@ -4707,7 +4711,7 @@
   Description: MQTT library
   Homepage: https://mosquitto.org/
 - Package: libmount
-  Version: 2.40.2-5
+  Version: 2.41.2
   Description: Library for (un)mounting filesystems
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: libmp3lame
@@ -5383,7 +5387,7 @@
   Description: X11 Session Management library
   Homepage: https://xorg.freedesktop.org/
 - Package: libsmartcols
-  Version: 2.40.2-5
+  Version: 2.41.2
   Description: Library for smart adaptive formatting of tabular data
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: libsnappy
@@ -5791,7 +5795,7 @@
   Description: network protocol for sending USB device traffic over a network connection
   Homepage: https://www.spice-space.org/
 - Package: libuuid
-  Version: 2.40.2-5
+  Version: 2.41.2
   Description: Library for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: libuv
@@ -6507,7 +6511,7 @@
   Description: Simple CAS and symbolic calculator
   Homepage: https://en.wikipedia.org/wiki/Mathomatic
 - Package: matplotlib
-  Version: 3.10.6
+  Version: 3.10.7
   Description: A comprehensive library for creating static, animated, and interactive visualizations in Python
   Homepage: https://matplotlib.org/
 - Package: matterbridge
@@ -6843,7 +6847,7 @@
   Description: A terminal pager similar to more and less
   Homepage: http://www.jedsoft.org/most/index.html
 - Package: mount-utils
-  Version: 2.40.2-5
+  Version: 2.41.2
   Description: Utilities for (un)mounting filesystems
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: mp3cat
@@ -8551,7 +8555,7 @@
   Description: In-memory data structure store used as a database, cache and message broker
   Homepage: https://redis.io/
 - Package: remind
-  Version: 1:06.01.03
+  Version: 1:06.01.04
   Description: Sophisticated calendar and alarm program
   Homepage: https://dianne.skoll.ca/projects/remind/
 - Package: renameutils
@@ -8803,7 +8807,7 @@
   Description: Fully automated Usenet Binary Downloader
   Homepage: https://sabnzbd.org/
 - Package: salty-chat
-  Version: 0.0.22-4
+  Version: 0.0.22-p20251006-0
   Description: A secure, easy, self-hosted messaging
   Homepage: https://salty.im/
 - Package: samba
@@ -9155,7 +9159,7 @@
   Description: a utility for creating symmetrically encrypted and authenticated pipes between socket addresses
   Homepage: https://www.tarsnap.com/spiped.html
 - Package: spirv-headers
-  Version: 1.4.328.0
+  Version: 1.4.328.1
   Description: SPIR-V Headers
   Homepage: https://github.com/KhronosGroup/SPIRV-Headers
 - Package: spirv-llvm-translator
@@ -9163,7 +9167,7 @@
   Description: SPIR-V LLVM Translator
   Homepage: https://github.com/KhronosGroup/SPIRV-LLVM-Translator
 - Package: spirv-tools
-  Version: 1.4.328.0
+  Version: 1.4.328.1
   Description: SPIR-V Tools
   Homepage: https://github.com/KhronosGroup/SPIRV-Tools
 - Package: sqlcipher
@@ -10087,11 +10091,11 @@
   Description: C preprocessor implementations of a hash table and a linked list
   Homepage: https://troydhanson.github.io/uthash/
 - Package: util-linux
-  Version: 2.40.2-5
+  Version: 2.41.2
   Description: Miscellaneous system utilities
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: util-linux-static
-  Version: 2.40.2-5
+  Version: 2.41.2
   Description: Static libraries for util-linux
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uucp
@@ -10099,7 +10103,7 @@
   Description: The standard UUCP package of the Free Software Foundation
   Homepage: https://www.airs.com/ian/uucp.html
 - Package: uuid-utils
-  Version: 2.40.2-5
+  Version: 2.41.2
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
@@ -10327,7 +10331,7 @@
   Description: Libc for WebAssembly programs built on top of WASI system calls
   Homepage: https://wasi.dev/
 - Package: wasm-component-ld
-  Version: 0.5.17
+  Version: 0.5.18
   Description: Command line linker for creating WebAssembly components
   Homepage: https://github.com/bytecodealliance/wasm-component-ld
 - Package: watchexec

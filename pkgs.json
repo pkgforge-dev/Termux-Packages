@@ -877,7 +877,7 @@
   },
   {
     "Package": "blk-utils",
-    "Version": "2.40.2-5",
+    "Version": "2.41.2",
     "Description": "Utilities for handling block device attributes",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -1174,6 +1174,12 @@
     "Version": "0.10.16",
     "Description": "Cargo C-ABI helpers",
     "Homepage": "https://github.com/lu-zero/cargo-c"
+  },
+  {
+    "Package": "cargo-leptos",
+    "Version": "0.2.44",
+    "Description": "Build tool for the Rust framework Leptos",
+    "Homepage": "https://github.com/leptos-rs/cargo-leptos"
   },
   {
     "Package": "catdoc",
@@ -1591,7 +1597,7 @@
   },
   {
     "Package": "coreutils",
-    "Version": "9.8",
+    "Version": "9.8-1",
     "Description": "Basic file, shell and text manipulation utilities from the GNU project",
     "Homepage": "https://www.gnu.org/software/coreutils/"
   },
@@ -2713,7 +2719,7 @@
   },
   {
     "Package": "fdisk",
-    "Version": "2.40.2-5",
+    "Version": "2.41.2",
     "Description": "Utilities to manipulate disk partition tables",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -4903,7 +4909,7 @@
   },
   {
     "Package": "kubo",
-    "Version": "0.38.0",
+    "Version": "0.38.1",
     "Description": "A peer-to-peer hypermedia distribution protocol",
     "Homepage": "https://ipfs.io/"
   },
@@ -5317,7 +5323,7 @@
   },
   {
     "Package": "libblkid",
-    "Version": "2.40.2-5",
+    "Version": "2.41.2",
     "Description": "Block device identification library",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -6001,7 +6007,7 @@
   },
   {
     "Package": "libfdisk",
-    "Version": "2.40.2-5",
+    "Version": "2.41.2",
     "Description": "Library for manipulating disk partition tables",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -7063,7 +7069,7 @@
   },
   {
     "Package": "libmount",
-    "Version": "2.40.2-5",
+    "Version": "2.41.2",
     "Description": "Library for (un)mounting filesystems",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -8077,7 +8083,7 @@
   },
   {
     "Package": "libsmartcols",
-    "Version": "2.40.2-5",
+    "Version": "2.41.2",
     "Description": "Library for smart adaptive formatting of tabular data",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -8689,7 +8695,7 @@
   },
   {
     "Package": "libuuid",
-    "Version": "2.40.2-5",
+    "Version": "2.41.2",
     "Description": "Library for handling universally unique identifiers",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -9763,7 +9769,7 @@
   },
   {
     "Package": "matplotlib",
-    "Version": "3.10.6",
+    "Version": "3.10.7",
     "Description": "A comprehensive library for creating static, animated, and interactive visualizations in Python",
     "Homepage": "https://matplotlib.org/"
   },
@@ -10267,7 +10273,7 @@
   },
   {
     "Package": "mount-utils",
-    "Version": "2.40.2-5",
+    "Version": "2.41.2",
     "Description": "Utilities for (un)mounting filesystems",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -12829,7 +12835,7 @@
   },
   {
     "Package": "remind",
-    "Version": "1:06.01.03",
+    "Version": "1:06.01.04",
     "Description": "Sophisticated calendar and alarm program",
     "Homepage": "https://dianne.skoll.ca/projects/remind/"
   },
@@ -13207,7 +13213,7 @@
   },
   {
     "Package": "salty-chat",
-    "Version": "0.0.22-4",
+    "Version": "0.0.22-p20251006-0",
     "Description": "A secure, easy, self-hosted messaging",
     "Homepage": "https://salty.im/"
   },
@@ -13735,7 +13741,7 @@
   },
   {
     "Package": "spirv-headers",
-    "Version": "1.4.328.0",
+    "Version": "1.4.328.1",
     "Description": "SPIR-V Headers",
     "Homepage": "https://github.com/KhronosGroup/SPIRV-Headers"
   },
@@ -13747,7 +13753,7 @@
   },
   {
     "Package": "spirv-tools",
-    "Version": "1.4.328.0",
+    "Version": "1.4.328.1",
     "Description": "SPIR-V Tools",
     "Homepage": "https://github.com/KhronosGroup/SPIRV-Tools"
   },
@@ -15133,13 +15139,13 @@
   },
   {
     "Package": "util-linux",
-    "Version": "2.40.2-5",
+    "Version": "2.41.2",
     "Description": "Miscellaneous system utilities",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
   {
     "Package": "util-linux-static",
-    "Version": "2.40.2-5",
+    "Version": "2.41.2",
     "Description": "Static libraries for util-linux",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -15151,7 +15157,7 @@
   },
   {
     "Package": "uuid-utils",
-    "Version": "2.40.2-5",
+    "Version": "2.41.2",
     "Description": "Utilities for handling universally unique identifiers",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -15493,7 +15499,7 @@
   },
   {
     "Package": "wasm-component-ld",
-    "Version": "0.5.17",
+    "Version": "0.5.18",
     "Description": "Command line linker for creating WebAssembly components",
     "Homepage": "https://github.com/bytecodealliance/wasm-component-ld"
   },
