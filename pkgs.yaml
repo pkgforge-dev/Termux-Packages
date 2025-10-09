@@ -679,7 +679,7 @@
   Description: The tar(1) and cpio(1) programs from FreeBSD, using libarchive
   Homepage: https://www.libarchive.org/
 - Package: btfs2
-  Version: 4.0.0-1
+  Version: 4.1.0
   Description: Decentralized file system integrating with TRON network and Bittorrent network
   Homepage: https://www.bittorrent.com/btfs/
 - Package: btrfs-progs
@@ -10115,7 +10115,7 @@
   Description: uWSGI application server container
   Homepage: https://projects.unbit.it/uwsgi
 - Package: v2ray
-  Version: 5.39.0
+  Version: 5.40.0
   Description: A platform for building proxies to bypass network restrictions
   Homepage: https://www.v2fly.org/
 - Package: valac
