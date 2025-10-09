@@ -621,8 +621,8 @@
 | **gobject-introspection** | 1.86.0 | Uniform machine readable API | https://gi.readthedocs.io/ |
 | **gogs** | 0.13.3-1 | A painless self-hosted Git service | https://gogs.io |
 | **gojq** | 0.12.17 | Pure Go implementation of jq | https://github.com/itchyny/gojq |
-| **golang** | 3:1.25.0 | Go programming language compiler | https://go.dev/ |
-| **golang-doc** | 3:1.25.0 | Go programming language - documentation | https://go.dev/ |
+| **golang** | 3:1.25.2 | Go programming language compiler | https://go.dev/ |
+| **golang-doc** | 3:1.25.2 | Go programming language - documentation | https://go.dev/ |
 | **gomp** | 2023.02.02-3 | MPD client inspired by ncmpcpp with builtin cover-art view and LastFM integration | https://aditya-k2.github.io/gomp/ |
 | **gomuks** | 0.3.1-1 | A terminal Matrix client written in Go | https://maunium.net/go/gomuks/ |
 | **google-drive-upload** | 4.5 | Bash scripts to upload files to google drive | https://github.com/labbots/google-drive-upload |
