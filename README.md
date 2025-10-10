@@ -2583,9 +2583,9 @@
 | **vulkan-icd** | 0.1 | A metapackage that provides Vulkan ICDs | https://github.com/termux/termux-packages |
 | **vulkan-loader** | 0.0.3 | A metapackage that provides vulkan loader library | https://github.com/termux/termux-packages |
 | **vulkan-loader-android** | 28c-1 | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
-| **vulkan-loader-generic** | 1.4.328 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
+| **vulkan-loader-generic** | 1.4.329 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
 | **vulkan-tools** | 1.4.328 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
-| **vulkan-utility-libraries** | 1.4.328 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
+| **vulkan-utility-libraries** | 1.4.329 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
 | **vulkan-validation-layers** | 1.4.328 | Vulkan Validation Layers | https://github.com/KhronosGroup/Vulkan-ValidationLayers |
 | **vulkan-volk** | 1.4.304 | Meta loader for Vulkan API | https://github.com/zeux/volk |
 | **w3m** | 0.5.5 | Text based Web browser and pager | https://w3m.sourceforge.net/ |
