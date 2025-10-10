@@ -1866,8 +1866,8 @@
 | **opensc** | 0.26.1-1 | Open source smart card tools and middleware | https://github.com/OpenSC/OpenSC |
 | **opensc-static** | 0.26.1-1 | Static libraries for opensc | https://github.com/OpenSC/OpenSC |
 | **openscad** | 2021.01-5 | The programmers solid 3D CAD modeller (headless build) | https://openscad.org/ |
-| **openssh** | 10.1p1 | Secure shell for logging into a remote machine | https://www.openssh.com/ |
-| **openssh-sftp-server** | 10.1p1 | OpenSSH SFTP server subsystem | https://www.openssh.com/ |
+| **openssh** | 10.2p1 | Secure shell for logging into a remote machine | https://www.openssh.com/ |
+| **openssh-sftp-server** | 10.2p1 | OpenSSH SFTP server subsystem | https://www.openssh.com/ |
 | **openssl** | 1:3.5.2 | Library implementing the SSL and TLS protocols as well as general purpose cryptography functions | https://www.openssl.org/ |
 | **openssl-static** | 1:3.5.2 | Static libraries for openssl | https://www.openssl.org/ |
 | **openssl-tool** | 1:3.5.2 | The openssl command line cryptographic tool | https://www.openssl.org/ |
@@ -2567,7 +2567,7 @@
 | **vttest** | 20241208-1 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-5 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.4.328 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
-| **vulkan-headers** | 1.4.328 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
+| **vulkan-headers** | 1.4.329 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
 | **vulkan-icd** | 0.1 | A metapackage that provides Vulkan ICDs | https://github.com/termux/termux-packages |
 | **vulkan-loader** | 0.0.3 | A metapackage that provides vulkan loader library | https://github.com/termux/termux-packages |
 | **vulkan-loader-android** | 28c-1 | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |

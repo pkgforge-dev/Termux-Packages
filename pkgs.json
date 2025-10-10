@@ -11209,13 +11209,13 @@
   },
   {
     "Package": "openssh",
-    "Version": "10.1p1",
+    "Version": "10.2p1",
     "Description": "Secure shell for logging into a remote machine",
     "Homepage": "https://www.openssh.com/"
   },
   {
     "Package": "openssh-sftp-server",
-    "Version": "10.1p1",
+    "Version": "10.2p1",
     "Description": "OpenSSH SFTP server subsystem",
     "Homepage": "https://www.openssh.com/"
   },
@@ -15415,7 +15415,7 @@
   },
   {
     "Package": "vulkan-headers",
-    "Version": "1.4.328",
+    "Version": "1.4.329",
     "Description": "Vulkan Header files and API registry",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Headers"
   },
