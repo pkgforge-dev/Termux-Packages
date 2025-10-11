@@ -192,7 +192,7 @@
  capnproto  1.2.0-1  Data interchange format and capability-based RPC system  https://capnproto.org/ 
  capstone  5.0.6-1  Lightweight multi-platform, multi-architecture disassembly framework  https://www.capstone-engine.org/ 
  capstone-static  5.0.6-1  Static libraries for capstone  https://www.capstone-engine.org/ 
- carapace  1.5.2  Multi-shell multi-command argument completer  https://carapace.sh/ 
+ carapace  1.5.3  Multi-shell multi-command argument completer  https://carapace.sh/ 
  cargo-c  0.10.16  Cargo C-ABI helpers  https://github.com/lu-zero/cargo-c 
  cargo-leptos  0.2.45  Build tool for the Rust framework Leptos  https://github.com/leptos-rs/cargo-leptos 
  catdoc  0.95-2  Program which reads MS-Word file and prints readable ASCII text to stdout  http://www.wagner.pp.ru/~vitus/software/catdoc/ 
@@ -457,7 +457,7 @@
  fdroidcl  0.8.1-1  F-Droid client  https://github.com/mvdan/fdroidcl 
  fdupes  2.4.0-1  Duplicates file detector  https://github.com/adrianlopezroche/fdupes 
  fennel  1.5.3  A Lisp that compiles to Lua  https://fennel-lang.org 
- feroxbuster  2.12.0  A fast, simple, recursive content discovery tool written in Rust  https://github.com/epi052/feroxbuster 
+ feroxbuster  2.13.0  A fast, simple, recursive content discovery tool written in Rust  https://github.com/epi052/feroxbuster 
  fetchmail  6.5.6  A remote-mail retrieval utility  https://www.fetchmail.info/ 
  fetchmailconf  6.5.6  A GUI configurator for generating fetchmail configuration files  https://www.fetchmail.info/ 
  fff  2.2  A simple file manager written in bash  https://github.com/dylanaraps/fff 
@@ -570,7 +570,7 @@
  gitoxide  0.45.0-1  Rust implementation of Git  https://github.com/Byron/gitoxide 
  gitui  0.27.0-3  Blazing fast terminal-ui for git written in rust  https://github.com/extrawurst/gitui 
  gkermit  2.01-1  Simple, Portable, Free File Transfer Software for UNIX  http://www.columbia.edu/kermit/gkermit.html 
- glab-cli  1.73.0  A GitLab CLI tool bringing GitLab to your command line  https://gitlab.com/gitlab-org/cli 
+ glab-cli  1.73.1  A GitLab CLI tool bringing GitLab to your command line  https://gitlab.com/gitlab-org/cli 
  gleam  1.12.0  A friendly language for building type-safe, scalable systems!  https://gleam.run 
  glib  2.86.0  Library providing core building blocks for libraries and applications written in C  https://developer.gnome.org/glib/ 
  glib-cross  2.86.0  glib for host (NOT for Termux)  https://developer.gnome.org/glib/ 
@@ -2526,7 +2526,7 @@
  util-linux-static  2.41.2  Static libraries for util-linux  https://en.wikipedia.org/wiki/Util-linux 
  uucp  1.07-2  The standard UUCP package of the Free Software Foundation  https://www.airs.com/ian/uucp.html 
  uuid-utils  2.41.2  Utilities for handling universally unique identifiers  https://en.wikipedia.org/wiki/Util-linux 
- uv  0.9.1  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
+ uv  0.9.2  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
  uwsgi  2.0.30-1  uWSGI application server container  https://projects.unbit.it/uwsgi 
  v2ray  5.40.0  A platform for building proxies to bypass network restrictions  https://www.v2fly.org/ 
  valac  0.56.18-1  C# like language for the GObject system  https://wiki.gnome.org/Projects/Vala 
@@ -2572,9 +2572,9 @@
  vulkan-loader  0.0.3  A metapackage that provides vulkan loader library  https://github.com/termux/termux-packages 
  vulkan-loader-android  28c-1  Vulkan Loader for Android  https://source.android.com/devices/graphics/arch-vulkan 
  vulkan-loader-generic  1.4.329  Vulkan Loader  https://github.com/KhronosGroup/Vulkan-Loader 
- vulkan-tools  1.4.328  Vulkan Tools and Utilities  https://github.com/KhronosGroup/Vulkan-Tools 
+ vulkan-tools  1.4.329  Vulkan Tools and Utilities  https://github.com/KhronosGroup/Vulkan-Tools 
  vulkan-utility-libraries  1.4.329  Utility Libraries for Vulkan  https://github.com/KhronosGroup/Vulkan-Utility-Libraries 
- vulkan-validation-layers  1.4.328  Vulkan Validation Layers  https://github.com/KhronosGroup/Vulkan-ValidationLayers 
+ vulkan-validation-layers  1.4.329  Vulkan Validation Layers  https://github.com/KhronosGroup/Vulkan-ValidationLayers 
  vulkan-volk  1.4.304  Meta loader for Vulkan API  https://github.com/zeux/volk 
  w3m  0.5.5  Text based Web browser and pager  https://w3m.sourceforge.net/ 
  w3m-img  0.5.5  Inline image extension support utilities for w3m  https://w3m.sourceforge.net/ 
