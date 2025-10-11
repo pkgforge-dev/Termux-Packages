@@ -1333,7 +1333,7 @@
 | **librtmidi** | 5.0.0-3 | A set of C++ classes that provides a common API for realtime MIDI input/output | https://www.music.mcgill.ca/~gary/rtmidi/ |
 | **librttopo** | 1.1.0-4 | The RT Topology Library exposes an API to create and manage standard topologies | https://git.osgeo.org/gitea/rttopo/librttopo |
 | **librttopo-static** | 1.1.0-4 | Static libraries for librttopo | https://git.osgeo.org/gitea/rttopo/librttopo |
-| **libsamplerate** | 0.2.2-3 | A library for performing sample rate conversion of audio data | https://libsndfile.github.io/libsamplerate/ |
+| **libsamplerate** | 0.2.2-4 | A library for performing sample rate conversion of audio data | https://libsndfile.github.io/libsamplerate/ |
 | **libsasl** | 2.1.28-2 | Cyrus SASL - authentication abstraction library | https://www.cyrusimap.org/sasl/ |
 | **libsasl-static** | 2.1.28-2 | Static libraries for libsasl | https://www.cyrusimap.org/sasl/ |
 | **libsass** | 3.6.6-1 | Sass compiler written in C++ | https://github.com/sass/libsass |
