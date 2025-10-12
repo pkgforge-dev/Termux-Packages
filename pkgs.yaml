@@ -367,7 +367,7 @@
   Description: AT and batch delayed command scheduling utility and daemon
   Homepage: https://salsa.debian.org/debian/at
 - Package: at-spi2-core
-  Version: 2.58.0
+  Version: 2.58.1
   Description: Assistive Technology Service Provider Interface (AT-SPI)
   Homepage: https://wiki.gnome.org/Accessibility
 - Package: atomicparsley
@@ -10259,7 +10259,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2025.10.03
+  Version: 2025.10.11
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vttest
