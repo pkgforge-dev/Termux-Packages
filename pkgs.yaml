@@ -3059,7 +3059,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.24.111
+  Version: 0.24.115
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -8071,7 +8071,7 @@
   Description: Pure-FTPd is a free (BSD), secure, production-quality and standard-conformant FTP server
   Homepage: https://www.pureftpd.org/project/pure-ftpd
 - Package: pv
-  Version: 1.9.34-1
+  Version: 1.9.42
   Description: Terminal-based tool for monitoring the progress of data through a pipeline
   Homepage: https://www.ivarch.com/programs/pv.shtml
 - Package: pwgen
@@ -10115,7 +10115,7 @@
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
-  Version: 2.0.30-1
+  Version: 2.0.31
   Description: uWSGI application server container
   Homepage: https://projects.unbit.it/uwsgi
 - Package: v2ray
@@ -10615,7 +10615,7 @@
   Description: Download youtube video in Golang
   Homepage: https://github.com/kkdai/youtube
 - Package: yq
-  Version: 4.47.2
+  Version: 4.48.1
   Description: A lightweight and portable command-line YAML, JSON and XML processor
   Homepage: https://mikefarah.gitbook.io/yq/
 - Package: ytfzf

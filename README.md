@@ -775,7 +775,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4-1 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-2 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.24.111 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.24.115 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **jadx** | 1.5.3 | Dex to Java decompiler | https://github.com/skylot/jadx |
 | **jadx-x** | 1.5.3 | Dex to Java decompiler GUI | https://github.com/skylot/jadx |
 | **janet** | 1.39.1 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
@@ -2028,7 +2028,7 @@
 | **pulseaudio-glib** | 17.0-1 | PulseAudio GLIB mainloop component | https://www.freedesktop.org/wiki/Software/PulseAudio |
 | **pup** | 0.4.0-7 | command line tool for processing HTML | https://github.com/ericchiang/pup |
 | **pure-ftpd** | 1.0.52-1 | Pure-FTPd is a free (BSD), secure, production-quality and standard-conformant FTP server | https://www.pureftpd.org/project/pure-ftpd |
-| **pv** | 1.9.34-1 | Terminal-based tool for monitoring the progress of data through a pipeline | https://www.ivarch.com/programs/pv.shtml |
+| **pv** | 1.9.42 | Terminal-based tool for monitoring the progress of data through a pipeline | https://www.ivarch.com/programs/pv.shtml |
 | **pwgen** | 2.08-2 | Password generator which by default, unless given the '-s' option, generates memorable but insecure passwords | http://pwgen.sourceforge.net/ |
 | **pybind11** | 3.0.1-1 | A lightweight header-only library that exposes C++ types in Python and vice versa | https://pybind11.readthedocs.io/ |
 | **pycairo** | 1.28.0-1 | Python bindings for the cairo graphics library | https://www.cairographics.org/pycairo/ |
@@ -2539,7 +2539,7 @@
 | **uucp** | 1.07-2 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.41.2 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
 | **uv** | 0.9.2 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
-| **uwsgi** | 2.0.30-1 | uWSGI application server container | https://projects.unbit.it/uwsgi |
+| **uwsgi** | 2.0.31 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.40.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.18-1 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
 | **valac-static** | 0.56.18-1 | Static libraries for valac | https://wiki.gnome.org/Projects/Vala |
@@ -2664,7 +2664,7 @@
 | **yazi** | 25.5.31-3 | Blazing fast terminal file manager written in Rust, based on async I/O | https://yazi-rs.github.io/ |
 | **yosys** | 0.58 | A framework for RTL synthesis tools | https://yosyshq.net/yosys/ |
 | **youtubedr** | 2.10.4-1 | Download youtube video in Golang | https://github.com/kkdai/youtube |
-| **yq** | 4.47.2 | A lightweight and portable command-line YAML, JSON and XML processor | https://mikefarah.gitbook.io/yq/ |
+| **yq** | 4.48.1 | A lightweight and portable command-line YAML, JSON and XML processor | https://mikefarah.gitbook.io/yq/ |
 | **ytfzf** | 2.6.2 | A POSIX script that helps you find Youtube videos (without API) | https://github.com/pystardust/ytfzf |
 | **ytui-music** | 2.0.0-beta-2 | Youtube client in terminal for music | https://github.com/sudipghimire533/ytui-music |
 | **yuma123** | 2.13-4 | Provides an opensource YANG API in C | https://yuma123.org/ |
