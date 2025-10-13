@@ -346,7 +346,7 @@
 | **dmagnetic** | 0.37-1 | Interpreter for classic text adventure games and interactive fiction | https://dettus.net/dMagnetic |
 | **dmtx-utils** | 0.7.6-1 | A command line interface for libdmtx | https://github.com/dmtx/dmtx-utils |
 | **dnglab** | 0.7.1 | Camera RAW to DNG file format converter | https://github.com/dnglab/dnglab |
-| **dnote** | 1:0.15.2 | A simple command line notebook for programmers | https://www.getdnote.com/ |
+| **dnote** | 1:0.15.3 | A simple command line notebook for programmers | https://www.getdnote.com/ |
 | **dnote-server** | 2.1.1-3 | This package contains the Dnote server. It comprises of the web interface, the web API, and the background jobs. | https://www.getdnote.com/ |
 | **dns2tcp** | 0.5.2-2 | dns2tcp is a tool for relaying TCP connections over DNS | https://github.com/alex-sector/dns2tcp |
 | **dnslookup** | 1.11.1-2 | Simple command line utility to make DNS lookups. Supports all known DNS protocols: plain DNS, DoH, DoT, DoQ, DNSCrypt. | https://github.com/ameshkov/dnslookup |
@@ -1612,7 +1612,7 @@
 | **luvi** | 1:2.15.0-1 | A project in-between luv and luvit | https://luvit.io |
 | **luvit** | 2.18.1-1 | Asynchronous I/O for Lua | https://luvit.io |
 | **lux** | 0.24.1-2 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
-| **lux-cli** | 0.18.1 | A package manager for Lua, similar to luarocks | https://nvim-neorocks.github.io/ |
+| **lux-cli** | 0.18.2 | A package manager for Lua, similar to luarocks | https://nvim-neorocks.github.io/ |
 | **lv2** | 1.18.10-5 | A plugin standard for audio systems | https://lv2plug.in/ |
 | **lychee** | 0.20.1 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
 | **lynx** | 2.9.2-1 | The text web browser | http://lynx.browser.org/ |
@@ -1713,7 +1713,7 @@
 | **mono-static** | 6.14.1-2 | Static libraries for mono | https://gitlab.winehq.org/mono/mono |
 | **monolith** | 2.10.1-1 | CLI tool for saving complete web pages as a single HTML file | https://github.com/Y2Z/monolith |
 | **moon-buggy** | 1.0.51-6 | Simple game where you drive a car across the moon's surface | https://github.com/seehuhn/moon-buggy |
-| **moor** | 2.5.0 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moor |
+| **moor** | 2.5.1 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moor |
 | **mop** | 2025.03.17-1 | Stock market tracker | https://github.com/mop-tracker/mop |
 | **moreutils** | 0.70-1 | A growing collection of the unix tools that nobody thought to write thirty years ago | https://joeyh.name/code/moreutils/ |
 | **moria** | 5.7.15-6 | Rogue-like game with an infinite dungeon | https://umoria.org |
@@ -2148,7 +2148,7 @@
 | **recutils** | 1.9-1 | Set of tools and libraries to access human-editable, plain text databases called recfiles | https://www.gnu.org/software/recutils/ |
 | **recutils-static** | 1.9-1 | Static libraries for recutils | https://www.gnu.org/software/recutils/ |
 | **redir** | 3.3-3 | TCP port redirector for UNIX | https://github.com/troglobit/redir |
-| **redis** | 1:7.2.5-1 | In-memory data structure store used as a database, cache and message broker | https://redis.io/ |
+| **redis** | 1:8.2.2 | In-memory data structure store used as a database, cache and message broker | https://redis.io/ |
 | **remind** | 1:06.01.05 | Sophisticated calendar and alarm program | https://dianne.skoll.ca/projects/remind/ |
 | **renameutils** | 0.12.0-3 | A set of programs designed to make renaming of files faster and less cumbersome | https://www.nongnu.org/renameutils/ |
 | **reptyr** | 0.10.0-1 | Tool for reparenting a running program to a new terminal | https://github.com/nelhage/reptyr |
@@ -2548,6 +2548,8 @@
 | **vale** | 3.12.0-1 | A syntax-aware linter for prose built with speed and extensibility in mind | https://vale.sh |
 | **valgrind** | 3.22.0-1 | Instrumentation framework for building dynamic analysis tools | https://valgrind.org/ |
 | **valgrind-static** | 3.22.0-1 | Static libraries for valgrind | https://valgrind.org/ |
+| **valkey** | 8.1.4 | In-memory data structure store used as a database, cache and message broker | https://valkey.io/ |
+| **valkey-static** | 8.1.4 | Static libraries for valkey | https://valkey.io/ |
 | **vamp-plugin-sdk** | 2.10-3 | An API for audio analysis and feature extraction plugins | https://www.vamp-plugins.org/ |
 | **vamp-plugin-sdk-static** | 2.10-3 | Static libraries for vamp-plugin-sdk | https://www.vamp-plugins.org/ |
 | **vapoursynth** | 72-1 | Video processing framework with simplicity in mind | https://www.vapoursynth.com/ |

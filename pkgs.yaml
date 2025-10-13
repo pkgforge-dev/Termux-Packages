@@ -1343,7 +1343,7 @@
   Description: Camera RAW to DNG file format converter
   Homepage: https://github.com/dnglab/dnglab
 - Package: dnote
-  Version: 1:0.15.2
+  Version: 1:0.15.3
   Description: A simple command line notebook for programmers
   Homepage: https://www.getdnote.com/
 - Package: dnote-server
@@ -6407,7 +6407,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.18.1
+  Version: 0.18.2
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://nvim-neorocks.github.io/
 - Package: lv2
@@ -6811,7 +6811,7 @@
   Description: Simple game where you drive a car across the moons surface
   Homepage: https://github.com/seehuhn/moon-buggy
 - Package: moor
-  Version: 2.5.0
+  Version: 2.5.1
   Description: A pager designed to just do the right thing without any configuration
   Homepage: https://github.com/walles/moor
 - Package: mop
@@ -8551,7 +8551,7 @@
   Description: TCP port redirector for UNIX
   Homepage: https://github.com/troglobit/redir
 - Package: redis
-  Version: 1:7.2.5-1
+  Version: 1:8.2.2
   Description: In-memory data structure store used as a database, cache and message broker
   Homepage: https://redis.io/
 - Package: remind
@@ -10150,6 +10150,14 @@
   Version: 3.22.0-1
   Description: Static libraries for valgrind
   Homepage: https://valgrind.org/
+- Package: valkey
+  Version: 8.1.4
+  Description: In-memory data structure store used as a database, cache and message broker
+  Homepage: https://valkey.io/
+- Package: valkey-static
+  Version: 8.1.4
+  Description: Static libraries for valkey
+  Homepage: https://valkey.io/
 - Package: vamp-plugin-sdk
   Version: 2.10-3
   Description: An API for audio analysis and feature extraction plugins

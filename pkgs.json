@@ -2017,7 +2017,7 @@
   },
   {
     "Package": "dnote",
-    "Version": "1:0.15.2",
+    "Version": "1:0.15.3",
     "Description": "A simple command line notebook for programmers",
     "Homepage": "https://www.getdnote.com/"
   },
@@ -9613,7 +9613,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.18.1",
+    "Version": "0.18.2",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://nvim-neorocks.github.io/"
   },
@@ -10219,7 +10219,7 @@
   },
   {
     "Package": "moor",
-    "Version": "2.5.0",
+    "Version": "2.5.1",
     "Description": "A pager designed to just do the right thing without any configuration",
     "Homepage": "https://github.com/walles/moor"
   },
@@ -12829,7 +12829,7 @@
   },
   {
     "Package": "redis",
-    "Version": "1:7.2.5-1",
+    "Version": "1:8.2.2",
     "Description": "In-memory data structure store used as a database, cache and message broker",
     "Homepage": "https://redis.io/"
   },
@@ -15226,6 +15226,18 @@
     "Version": "3.22.0-1",
     "Description": "Static libraries for valgrind",
     "Homepage": "https://valgrind.org/"
+  },
+  {
+    "Package": "valkey",
+    "Version": "8.1.4",
+    "Description": "In-memory data structure store used as a database, cache and message broker",
+    "Homepage": "https://valkey.io/"
+  },
+  {
+    "Package": "valkey-static",
+    "Version": "8.1.4",
+    "Description": "Static libraries for valkey",
+    "Homepage": "https://valkey.io/"
   },
   {
     "Package": "vamp-plugin-sdk",
