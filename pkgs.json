@@ -1405,7 +1405,7 @@
   },
   {
     "Package": "clang",
-    "Version": "21.1.3",
+    "Version": "21.1.3-1",
     "Description": "C language frontend for LLVM",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -3439,7 +3439,7 @@
   },
   {
     "Package": "glab-cli",
-    "Version": "1.73.1",
+    "Version": "1.74.0",
     "Description": "A GitLab CLI tool bringing GitLab to your command line",
     "Homepage": "https://gitlab.com/gitlab-org/cli"
   },
@@ -5641,7 +5641,7 @@
   },
   {
     "Package": "libcompiler-rt",
-    "Version": "21.1.3",
+    "Version": "21.1.3-1",
     "Description": "Compiler runtime libraries for clang",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -6733,13 +6733,13 @@
   },
   {
     "Package": "libllvm",
-    "Version": "21.1.3",
+    "Version": "21.1.3-1",
     "Description": "Modular compiler and toolchain technologies library",
     "Homepage": "https://clang.llvm.org/"
   },
   {
     "Package": "libllvm-static",
-    "Version": "21.1.3",
+    "Version": "21.1.3-1",
     "Description": "Static libraries for libllvm",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -7735,7 +7735,7 @@
   },
   {
     "Package": "libpolly",
-    "Version": "21.1.3",
+    "Version": "21.1.3-1",
     "Description": "High-level loop and data-locality optimizer for clang",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -9385,19 +9385,19 @@
   },
   {
     "Package": "lld",
-    "Version": "21.1.3",
+    "Version": "21.1.3-1",
     "Description": "LLVM-based linker",
     "Homepage": "https://clang.llvm.org/"
   },
   {
     "Package": "lldb",
-    "Version": "21.1.3",
+    "Version": "21.1.3-1",
     "Description": "LLVM-based debugger",
     "Homepage": "https://clang.llvm.org/"
   },
   {
     "Package": "llvm",
-    "Version": "21.1.3",
+    "Version": "21.1.3-1",
     "Description": "LLVM modular compiler and toolchain executables",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -9427,13 +9427,13 @@
   },
   {
     "Package": "llvm-tools",
-    "Version": "21.1.3",
+    "Version": "21.1.3-1",
     "Description": "LLVM Development Tools",
     "Homepage": "https://clang.llvm.org/"
   },
   {
     "Package": "llvmgold",
-    "Version": "21.1.3",
+    "Version": "21.1.3-1",
     "Description": "LLVM gold plugin",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -10177,7 +10177,7 @@
   },
   {
     "Package": "mlir",
-    "Version": "21.1.3",
+    "Version": "21.1.3-1",
     "Description": "A Multi-Level Intermediate Representation for compilers from LLVM",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -15247,7 +15247,7 @@
   },
   {
     "Package": "valkey",
-    "Version": "8.1.4",
+    "Version": "8.1.4-1",
     "Description": "In-memory data structure store used as a database, cache and message broker",
     "Homepage": "https://valkey.io/"
   },
