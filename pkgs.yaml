@@ -494,6 +494,10 @@
   Version: 7.0.3-1
   Description: Unix dc and POSIX bc with GNU and BSD extensions
   Homepage: https://git.gavinhoward.com/gavin/bc
+- Package: bchunk
+  Version: 1.2.2
+  Description: Tool to convert .bin + .cue files to .iso files
+  Homepage: http://he.fi/bchunk/
 - Package: bdsup2sub
   Version: 4.0.1-1
   Description: A subtitle conversion tool for image based stream formats
@@ -515,7 +519,7 @@
   Description: Binary string grep tool
   Homepage: https://debugmo.de/2009/04/bgrep-a-binary-grep/
 - Package: biboumi
-  Version: 9.0-4
+  Version: 9.0-5
   Description: An XMPP gateway that connects to IRC servers and translates between the two protocols
   Homepage: https://biboumi.louiz.org/
 - Package: binaryen
@@ -835,7 +839,7 @@
   Description: A tool used to produce subtitles for TV recordings
   Homepage: https://ccextractor.org/
 - Package: ccls
-  Version: "0.20250511"
+  Version: "0.20250815"
   Description: C/C++/ObjC language server
   Homepage: https://github.com/MaskRay/ccls
 - Package: ccrypt
@@ -999,7 +1003,7 @@
   Description: cmocka is an unit testing framework for C
   Homepage: https://cmocka.org/
 - Package: cmus
-  Version: 2.12.0-4
+  Version: 2.12.0-5
   Description: Small, fast and powerful console music player
   Homepage: https://cmus.github.io/
 - Package: cmusfm
@@ -1851,7 +1855,7 @@
   Description: A simple file manager written in bash
   Homepage: https://github.com/dylanaraps/fff
 - Package: ffmpeg
-  Version: 7.1.1-6
+  Version: 7.1.1-7
   Description: Tools and libraries to manipulate a wide range of multimedia formats and protocols
   Homepage: https://ffmpeg.org
 - Package: ffmpegthumbnailer
@@ -1899,7 +1903,7 @@
   Description: Utilities to find files meeting specified criteria and perform various actions on the files which are found
   Homepage: https://www.gnu.org/software/findutils/
 - Package: fish
-  Version: 4.0.8
+  Version: 4.1.0
   Description: The user-friendly command line shell
   Homepage: https://fishshell.com/
 - Package: flac
@@ -2135,7 +2139,7 @@
   Description: Static libraries for gecode
   Homepage: https://github.com/Gecode/gecode
 - Package: gegl
-  Version: 0.4.64
+  Version: 0.4.64-1
   Description: Data flow based image processing framework
   Homepage: https://gegl.org/
 - Package: gengetopt
@@ -2331,7 +2335,7 @@
   Description: Static libraries for glpk
   Homepage: https://www.gnu.org/software/glpk/
 - Package: glslang
-  Version: 16.0.0
+  Version: 16.0.0-1
   Description: OpenGL and OpenGL ES shader front end and validator
   Homepage: https://github.com/KhronosGroup/glslang
 - Package: gluelang
@@ -2343,11 +2347,11 @@
   Description: Interpreter for the Glulx portable VM for interactive fiction (IF) games
   Homepage: https://www.eblong.com/zarf/glulx/
 - Package: gmic
-  Version: 3.5.3-1
+  Version: 3.5.3-2
   Description: Full-featured framework for image processing
   Homepage: https://gmic.eu
 - Package: gmic-gm
-  Version: 3.5.3-1
+  Version: 3.5.3-2
   Description: Full-featured framework for image processing (GraphicsMagick variant)
   Homepage: https://gmic.eu
 - Package: gn
@@ -2902,6 +2906,10 @@
   Version: 2.58.0
   Description: Static libraries for i2pd
   Homepage: https://i2pd.website/
+- Package: iat
+  Version: 0.1.7
+  Description: Iso9660 Analyzer Tool
+  Homepage: http://iat.berlios.de/
 - Package: icecast
   Version: 2.4.4-8
   Description: Icecast is a streaming media (audio/video) server
@@ -2935,11 +2943,11 @@
   Description: A command line id3v2 tag editor
   Homepage: https://id3v2.sourceforge.net/
 - Package: imagemagick
-  Version: 7.1.2.5
+  Version: 7.1.2.5-1
   Description: Suite to create, edit, compose, or convert images in a variety of formats
   Homepage: https://www.imagemagick.org/
 - Package: imagemagick-static
-  Version: 7.1.2.5
+  Version: 7.1.2.5-1
   Description: Static libraries for imagemagick
   Homepage: https://www.imagemagick.org/
 - Package: imath
@@ -3695,7 +3703,7 @@
   Description: C library for generating audio fingerprints used by AcoustID
   Homepage: https://acoustid.org/chromaprint
 - Package: libclc
-  Version: 20.1.7
+  Version: 21.1.3
   Description: Open source implementation of the library requirements of the OpenCL C programming language
   Homepage: https://libclc.llvm.org/
 - Package: libcln
@@ -4435,11 +4443,11 @@
   Description: Static libraries for libjpeg-turbo
   Homepage: https://libjpeg-turbo.virtualgl.org
 - Package: libjxl
-  Version: 0.11.1-4
+  Version: 0.11.1-5
   Description: JPEG XL image format reference implementation
   Homepage: https://jpegxl.info/
 - Package: libjxl-progs
-  Version: 0.11.1-4
+  Version: 0.11.1-5
   Description: Programs for manipulating JPEG XL files
   Homepage: https://jpegxl.info/
 - Package: libkiwix
@@ -5107,7 +5115,7 @@
   Description: Low-level library for pixel manipulation
   Homepage: https://www.pixman.org/
 - Package: libplacebo
-  Version: 6.338.2-2
+  Version: 7.351.0
   Description: Reusable library for GPU-accelerated video/image rendering
   Homepage: http://libplacebo.org/
 - Package: libplist
@@ -5119,11 +5127,11 @@
   Description: Static libraries for libplist
   Homepage: https://libimobiledevice.org
 - Package: libpluto
-  Version: 0.11.3
+  Version: 0.12.1
   Description: Shared library for the Pluto interpreter
   Homepage: https://plutolang.github.io/
 - Package: libpluto-static
-  Version: 0.11.3
+  Version: 0.12.1
   Description: Static libraries for libpluto
   Homepage: https://plutolang.github.io/
 - Package: libpng
@@ -5763,7 +5771,7 @@
   Description: Static libraries for libunistring
   Homepage: https://www.gnu.org/software/libunistring/
 - Package: libunqlite
-  Version: 1.1.9
+  Version: 1.1.9-1
   Description: Transactional embedded database engine
   Homepage: https://unqlite.org/
 - Package: liburcu
@@ -5827,11 +5835,11 @@
   Description: video stabilization library
   Homepage: https://github.com/georgmartius/vid.stab
 - Package: libvigra
-  Version: 1.12.2-2
+  Version: 1.12.2-3
   Description: Computer vision library
   Homepage: https://ukoethe.github.io/vigra/
 - Package: libvips
-  Version: 8.17.2
+  Version: 8.17.2-1
   Description: A fast image processing library with low memory needs
   Homepage: https://libvips.github.io/libvips/
 - Package: libvmaf
@@ -6667,19 +6675,19 @@
   Description: Static libraries for mercury
   Homepage: https://www.mercurylang.org/
 - Package: mesa
-  Version: 25.1.5-2
+  Version: 25.2.4
   Description: An open-source implementation of the OpenGL specification
   Homepage: https://www.mesa3d.org
 - Package: mesa-dev
-  Version: 25.1.5-2
+  Version: 25.2.4
   Description: Mesas OpenGL headers
   Homepage: https://www.mesa3d.org
 - Package: mesa-opencl-icd-rusticl
-  Version: 25.1.5-2
+  Version: 25.2.4
   Description: Mesas Rusticl OpenCL ICD
   Homepage: https://www.mesa3d.org
 - Package: mesa-vulkan-icd-swrast
-  Version: 25.1.5-2
+  Version: 25.2.4
   Description: Mesas Swrast Vulkan ICD
   Homepage: https://www.mesa3d.org
 - Package: mfcuk
@@ -6887,7 +6895,7 @@
   Description: Fast console MPEG Audio Player based on libmpg123
   Homepage: https://mpg123.org/
 - Package: mpv
-  Version: 0.40.0-1
+  Version: 0.40.0-2
   Description: Command-line media player
   Homepage: https://mpv.io/
 - Package: mruby
@@ -7387,7 +7395,7 @@
   Description: Additional utilities for OpenEthereum (like evm, ethstore, ethkey)
   Homepage: https://openethereum.github.io
 - Package: openexr
-  Version: 3.2.4-1
+  Version: 3.4.0
   Description: Provides the specification and reference implementation of the EXR file format
   Homepage: https://www.openexr.com/
 - Package: openfoam
@@ -7425,6 +7433,10 @@
 - Package: openjdk-21-x
   Version: 21.0.8-2
   Description: Portion of openjdk-21 requiring X11 functionality
+  Homepage: https://openjdk.java.net
+- Package: openjdk-25-source
+  Version: "25"
+  Description: Source files for openjdk-25
   Homepage: https://openjdk.java.net
 - Package: openjpeg
   Version: 2.5.4
@@ -7871,7 +7883,7 @@
   Description: Simple command line audio player for Android
   Homepage: https://github.com/termux/play-audio
 - Package: plutolang
-  Version: 0.11.3
+  Version: 0.12.1
   Description: A superset of Lua 5.4 with a focus on general-purpose programming.
   Homepage: https://plutolang.github.io/
 - Package: plzip
@@ -7963,11 +7975,11 @@
   Description: A multi-client, TLS-only IRC bouncer
   Homepage: https://git.causal.agency/pounce
 - Package: povray
-  Version: 3.8.0-beta.2-15
+  Version: 3.8.0-beta.2-16
   Description: The Persistence of Vision Raytracer
   Homepage: https://www.povray.org/
 - Package: povray-data
-  Version: 3.8.0-beta.2-15
+  Version: 3.8.0-beta.2-16
   Description: Platform-independent data for povray
   Homepage: https://www.povray.org/
 - Package: predict
@@ -8139,7 +8151,7 @@
   Description: lossless compression algorithm and format (Python bindings)
   Homepage: https://github.com/google/brotli
 - Package: python-cmake
-  Version: 4.1.0
+  Version: 4.1.0-1
   Description: Python wrapper for CMake
   Homepage: https://cmake-python-distributions.readthedocs.io/
 - Package: python-contourpy
@@ -8399,7 +8411,7 @@
   Description: Headless QRSS grabber for Raspberry Pis
   Homepage: https://gitlab.com/hb9fxx/qrsspig
 - Package: quick-lint-js
-  Version: 3.2.0
+  Version: 3.2.0-1
   Description: Finds bugs in JavaScript programs
   Homepage: https://quick-lint-js.com/
 - Package: quickjs
@@ -8451,7 +8463,7 @@
   Description: File manager with VI key bindings
   Homepage: https://ranger.github.io/
 - Package: rapidjson
-  Version: 1.1.0-5
+  Version: 1.1.0-6
   Description: Fast JSON parser/generator for C++ with SAX/DOM style API
   Homepage: https://github.com/Tencent/rapidjson/
 - Package: ratt
@@ -9383,7 +9395,7 @@
   Description: Swiss Army Knife for SMTP
   Homepage: http://jetmore.org/john/code/swaks/
 - Package: swi-prolog
-  Version: 9.3.22-1
+  Version: 9.3.32
   Description: Most popular and complete prolog implementation
   Homepage: https://swi-prolog.org/
 - Package: swift-runtime-aarch64
@@ -9635,7 +9647,7 @@
   Description: Testing TLS/SSL encryption anywhere on any port.
   Homepage: https://testssl.sh/
 - Package: tex-gyre
-  Version: 2.501-1
+  Version: 2.501-2
   Description: The TeX Gyre (TG) Collection of Fonts
   Homepage: https://www.gust.org.pl/projects/e-foundry/tex-gyre/
 - Package: texinfo

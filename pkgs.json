@@ -744,6 +744,12 @@
     "Homepage": "https://git.gavinhoward.com/gavin/bc"
   },
   {
+    "Package": "bchunk",
+    "Version": "1.2.2",
+    "Description": "Tool to convert .bin + .cue files to .iso files",
+    "Homepage": "http://he.fi/bchunk/"
+  },
+  {
     "Package": "bdsup2sub",
     "Version": "4.0.1-1",
     "Description": "A subtitle conversion tool for image based stream formats",
@@ -775,7 +781,7 @@
   },
   {
     "Package": "biboumi",
-    "Version": "9.0-4",
+    "Version": "9.0-5",
     "Description": "An XMPP gateway that connects to IRC servers and translates between the two protocols",
     "Homepage": "https://biboumi.louiz.org/"
   },
@@ -1255,7 +1261,7 @@
   },
   {
     "Package": "ccls",
-    "Version": "0.20250511",
+    "Version": "0.20250815",
     "Description": "C/C++/ObjC language server",
     "Homepage": "https://github.com/MaskRay/ccls"
   },
@@ -1501,7 +1507,7 @@
   },
   {
     "Package": "cmus",
-    "Version": "2.12.0-4",
+    "Version": "2.12.0-5",
     "Description": "Small, fast and powerful console music player",
     "Homepage": "https://cmus.github.io/"
   },
@@ -2779,7 +2785,7 @@
   },
   {
     "Package": "ffmpeg",
-    "Version": "7.1.1-6",
+    "Version": "7.1.1-7",
     "Description": "Tools and libraries to manipulate a wide range of multimedia formats and protocols",
     "Homepage": "https://ffmpeg.org"
   },
@@ -2851,7 +2857,7 @@
   },
   {
     "Package": "fish",
-    "Version": "4.0.8",
+    "Version": "4.1.0",
     "Description": "The user-friendly command line shell",
     "Homepage": "https://fishshell.com/"
   },
@@ -3205,7 +3211,7 @@
   },
   {
     "Package": "gegl",
-    "Version": "0.4.64",
+    "Version": "0.4.64-1",
     "Description": "Data flow based image processing framework",
     "Homepage": "https://gegl.org/"
   },
@@ -3499,7 +3505,7 @@
   },
   {
     "Package": "glslang",
-    "Version": "16.0.0",
+    "Version": "16.0.0-1",
     "Description": "OpenGL and OpenGL ES shader front end and validator",
     "Homepage": "https://github.com/KhronosGroup/glslang"
   },
@@ -3517,13 +3523,13 @@
   },
   {
     "Package": "gmic",
-    "Version": "3.5.3-1",
+    "Version": "3.5.3-2",
     "Description": "Full-featured framework for image processing",
     "Homepage": "https://gmic.eu"
   },
   {
     "Package": "gmic-gm",
-    "Version": "3.5.3-1",
+    "Version": "3.5.3-2",
     "Description": "Full-featured framework for image processing (GraphicsMagick variant)",
     "Homepage": "https://gmic.eu"
   },
@@ -4356,6 +4362,12 @@
     "Homepage": "https://i2pd.website/"
   },
   {
+    "Package": "iat",
+    "Version": "0.1.7",
+    "Description": "Iso9660 Analyzer Tool",
+    "Homepage": "http://iat.berlios.de/"
+  },
+  {
     "Package": "icecast",
     "Version": "2.4.4-8",
     "Description": "Icecast is a streaming media (audio/video) server",
@@ -4405,13 +4417,13 @@
   },
   {
     "Package": "imagemagick",
-    "Version": "7.1.2.5",
+    "Version": "7.1.2.5-1",
     "Description": "Suite to create, edit, compose, or convert images in a variety of formats",
     "Homepage": "https://www.imagemagick.org/"
   },
   {
     "Package": "imagemagick-static",
-    "Version": "7.1.2.5",
+    "Version": "7.1.2.5-1",
     "Description": "Static libraries for imagemagick",
     "Homepage": "https://www.imagemagick.org/"
   },
@@ -5545,7 +5557,7 @@
   },
   {
     "Package": "libclc",
-    "Version": "20.1.7",
+    "Version": "21.1.3",
     "Description": "Open source implementation of the library requirements of the OpenCL C programming language",
     "Homepage": "https://libclc.llvm.org/"
   },
@@ -6655,13 +6667,13 @@
   },
   {
     "Package": "libjxl",
-    "Version": "0.11.1-4",
+    "Version": "0.11.1-5",
     "Description": "JPEG XL image format reference implementation",
     "Homepage": "https://jpegxl.info/"
   },
   {
     "Package": "libjxl-progs",
-    "Version": "0.11.1-4",
+    "Version": "0.11.1-5",
     "Description": "Programs for manipulating JPEG XL files",
     "Homepage": "https://jpegxl.info/"
   },
@@ -7663,7 +7675,7 @@
   },
   {
     "Package": "libplacebo",
-    "Version": "6.338.2-2",
+    "Version": "7.351.0",
     "Description": "Reusable library for GPU-accelerated video/image rendering",
     "Homepage": "http://libplacebo.org/"
   },
@@ -7681,13 +7693,13 @@
   },
   {
     "Package": "libpluto",
-    "Version": "0.11.3",
+    "Version": "0.12.1",
     "Description": "Shared library for the Pluto interpreter",
     "Homepage": "https://plutolang.github.io/"
   },
   {
     "Package": "libpluto-static",
-    "Version": "0.11.3",
+    "Version": "0.12.1",
     "Description": "Static libraries for libpluto",
     "Homepage": "https://plutolang.github.io/"
   },
@@ -8647,7 +8659,7 @@
   },
   {
     "Package": "libunqlite",
-    "Version": "1.1.9",
+    "Version": "1.1.9-1",
     "Description": "Transactional embedded database engine",
     "Homepage": "https://unqlite.org/"
   },
@@ -8743,13 +8755,13 @@
   },
   {
     "Package": "libvigra",
-    "Version": "1.12.2-2",
+    "Version": "1.12.2-3",
     "Description": "Computer vision library",
     "Homepage": "https://ukoethe.github.io/vigra/"
   },
   {
     "Package": "libvips",
-    "Version": "8.17.2",
+    "Version": "8.17.2-1",
     "Description": "A fast image processing library with low memory needs",
     "Homepage": "https://libvips.github.io/libvips/"
   },
@@ -10003,25 +10015,25 @@
   },
   {
     "Package": "mesa",
-    "Version": "25.1.5-2",
+    "Version": "25.2.4",
     "Description": "An open-source implementation of the OpenGL specification",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-dev",
-    "Version": "25.1.5-2",
+    "Version": "25.2.4",
     "Description": "Mesas OpenGL headers",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-opencl-icd-rusticl",
-    "Version": "25.1.5-2",
+    "Version": "25.2.4",
     "Description": "Mesas Rusticl OpenCL ICD",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-vulkan-icd-swrast",
-    "Version": "25.1.5-2",
+    "Version": "25.2.4",
     "Description": "Mesas Swrast Vulkan ICD",
     "Homepage": "https://www.mesa3d.org"
   },
@@ -10333,7 +10345,7 @@
   },
   {
     "Package": "mpv",
-    "Version": "0.40.0-1",
+    "Version": "0.40.0-2",
     "Description": "Command-line media player",
     "Homepage": "https://mpv.io/"
   },
@@ -11083,7 +11095,7 @@
   },
   {
     "Package": "openexr",
-    "Version": "3.2.4-1",
+    "Version": "3.4.0",
     "Description": "Provides the specification and reference implementation of the EXR file format",
     "Homepage": "https://www.openexr.com/"
   },
@@ -11139,6 +11151,12 @@
     "Package": "openjdk-21-x",
     "Version": "21.0.8-2",
     "Description": "Portion of openjdk-21 requiring X11 functionality",
+    "Homepage": "https://openjdk.java.net"
+  },
+  {
+    "Package": "openjdk-25-source",
+    "Version": "25",
+    "Description": "Source files for openjdk-25",
     "Homepage": "https://openjdk.java.net"
   },
   {
@@ -11809,7 +11827,7 @@
   },
   {
     "Package": "plutolang",
-    "Version": "0.11.3",
+    "Version": "0.12.1",
     "Description": "A superset of Lua 5.4 with a focus on general-purpose programming.",
     "Homepage": "https://plutolang.github.io/"
   },
@@ -11947,13 +11965,13 @@
   },
   {
     "Package": "povray",
-    "Version": "3.8.0-beta.2-15",
+    "Version": "3.8.0-beta.2-16",
     "Description": "The Persistence of Vision Raytracer",
     "Homepage": "https://www.povray.org/"
   },
   {
     "Package": "povray-data",
-    "Version": "3.8.0-beta.2-15",
+    "Version": "3.8.0-beta.2-16",
     "Description": "Platform-independent data for povray",
     "Homepage": "https://www.povray.org/"
   },
@@ -12211,7 +12229,7 @@
   },
   {
     "Package": "python-cmake",
-    "Version": "4.1.0",
+    "Version": "4.1.0-1",
     "Description": "Python wrapper for CMake",
     "Homepage": "https://cmake-python-distributions.readthedocs.io/"
   },
@@ -12601,7 +12619,7 @@
   },
   {
     "Package": "quick-lint-js",
-    "Version": "3.2.0",
+    "Version": "3.2.0-1",
     "Description": "Finds bugs in JavaScript programs",
     "Homepage": "https://quick-lint-js.com/"
   },
@@ -12679,7 +12697,7 @@
   },
   {
     "Package": "rapidjson",
-    "Version": "1.1.0-5",
+    "Version": "1.1.0-6",
     "Description": "Fast JSON parser/generator for C++ with SAX/DOM style API",
     "Homepage": "https://github.com/Tencent/rapidjson/"
   },
@@ -14077,7 +14095,7 @@
   },
   {
     "Package": "swi-prolog",
-    "Version": "9.3.22-1",
+    "Version": "9.3.32",
     "Description": "Most popular and complete prolog implementation",
     "Homepage": "https://swi-prolog.org/"
   },
@@ -14455,7 +14473,7 @@
   },
   {
     "Package": "tex-gyre",
-    "Version": "2.501-1",
+    "Version": "2.501-2",
     "Description": "The TeX Gyre (TG) Collection of Fonts",
     "Homepage": "https://www.gust.org.pl/projects/e-foundry/tex-gyre/"
   },
