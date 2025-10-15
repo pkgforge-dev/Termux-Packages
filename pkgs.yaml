@@ -3051,7 +3051,7 @@
   Description: Static libraries for iverilog
   Homepage: http://iverilog.icarus.com/
 - Package: iwyu
-  Version: 0.24-1
+  Version: "0.25"
   Description: 'A tool to analyze #includes in C and C++ source files'
   Homepage: https://include-what-you-use.org/
 - Package: jack
