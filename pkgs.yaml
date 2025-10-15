@@ -559,7 +559,7 @@
   Description: Static libraries for bison
   Homepage: https://www.gnu.org/software/bison/
 - Package: bitcoin
-  Version: "29.1"
+  Version: "30.0"
   Description: Bitcoin Core
   Homepage: https://bitcoincore.org/
 - Package: bitlbee
@@ -1531,7 +1531,7 @@
   Description: Static libraries for draco
   Homepage: https://google.github.io/draco/
 - Package: dropbear
-  Version: 2025.87-3
+  Version: "2025.88"
   Description: Small SSH server and client
   Homepage: https://matt.ucc.asn.au/dropbear/dropbear.html
 - Package: dtach
@@ -1903,7 +1903,7 @@
   Description: Utilities to find files meeting specified criteria and perform various actions on the files which are found
   Homepage: https://www.gnu.org/software/findutils/
 - Package: fish
-  Version: 4.1.0
+  Version: 4.1.2
   Description: The user-friendly command line shell
   Homepage: https://fishshell.com/
 - Package: flac
@@ -2099,7 +2099,7 @@
   Description: A translator library for raster and vector geospatial data formats
   Homepage: https://gdal.org
 - Package: gdb
-  Version: "16.3"
+  Version: 16.3-1
   Description: The standard GNU Debugger that runs on many Unix-like systems and works for many programming languages
   Homepage: https://www.gnu.org/software/gdb/
 - Package: gdbm
@@ -2111,7 +2111,7 @@
   Description: Static libraries for gdbm
   Homepage: https://www.gnu.org.ua/software/gdbm/
 - Package: gdbserver
-  Version: "16.3"
+  Version: 16.3-1
   Description: The gdbserver program
   Homepage: https://www.gnu.org/software/gdb/
 - Package: gdk-pixbuf
@@ -2651,11 +2651,11 @@
   Description: Universal typing tutor
   Homepage: https://www.gnu.org/software/gtypist/
 - Package: guile
-  Version: 3.0.9-3
+  Version: 3.0.10
   Description: Portable, embeddable Scheme implementation written in C
   Homepage: http://www.gnu.org/software/guile/
 - Package: guile-static
-  Version: 3.0.9-3
+  Version: 3.0.10
   Description: Static libraries for guile
   Homepage: http://www.gnu.org/software/guile/
 - Package: guile18
@@ -6219,7 +6219,7 @@
   Description: A C library to make the use of LV2 plugins as simple as possible for applications
   Homepage: https://drobilla.net/software/lilv.html
 - Package: lilypond
-  Version: 2.24.4-2
+  Version: 2.24.4-3
   Description: A music engraving program
   Homepage: https://lilypond.org/
 - Package: links
@@ -6475,7 +6475,7 @@
   Description: Tool to control the generation of non-source files from source files
   Homepage: https://www.gnu.org/software/make/
 - Package: make-guile
-  Version: 4.4.1-1
+  Version: 4.4.1-2
   Description: Tool to control the generation of non-source files from source files
   Homepage: https://www.gnu.org/software/make/
 - Package: mandoc
@@ -8911,7 +8911,7 @@
   Description: GNU stream editor for filtering/transforming text
   Homepage: https://www.gnu.org/software/sed/
 - Package: sendme
-  Version: 0.27.0
+  Version: 0.29.0
   Description: A tool to send files and directories, based on iroh
   Homepage: https://github.com/n0-computer/sendme
 - Package: sendxmpp

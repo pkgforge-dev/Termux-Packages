@@ -138,7 +138,7 @@
 | **binutils-libs** | 2.44-4 | GNU Binutils libraries | https://www.gnu.org/software/binutils/ |
 | **bison** | 3.8.2-4 | General-purpose parser generator | https://www.gnu.org/software/bison/ |
 | **bison-static** | 3.8.2-4 | Static libraries for bison | https://www.gnu.org/software/bison/ |
-| **bitcoin** | 29.1 | Bitcoin Core | https://bitcoincore.org/ |
+| **bitcoin** | 30.0 | Bitcoin Core | https://bitcoincore.org/ |
 | **bitlbee** | 3.6-1-2 | An IRC to other chat networks gateway | https://www.bitlbee.org/ |
 | **bk** | 0.6.0-1 | A terminal EPUB reader | https://github.com/aeosynth/bk |
 | **blackbox** | 1:1.20220610 | Safely store secrets in Git/Mercurial/Subversion | https://github.com/StackExchange/blackbox |
@@ -381,7 +381,7 @@
 | **dpkg-scanpackages** | 1.22.6-4 | Creates Packages index files | https://packages.debian.org/dpkg |
 | **draco** | 1.5.7-1 | Library for compressing and decompressing 3D geometric meshes and point clouds | https://google.github.io/draco/ |
 | **draco-static** | 1.5.7-1 | Static libraries for draco | https://google.github.io/draco/ |
-| **dropbear** | 2025.87-3 | Small SSH server and client | https://matt.ucc.asn.au/dropbear/dropbear.html |
+| **dropbear** | 2025.88 | Small SSH server and client | https://matt.ucc.asn.au/dropbear/dropbear.html |
 | **dtach** | 0.9-2 | Emulates the detach feature of screen | https://dtach.sourceforge.net/ |
 | **dtc** | 1.7.2-2 | Device Tree Compiler | https://git.kernel.org/pub/scm/utils/dtc/dtc |
 | **dtc-static** | 1.7.2-2 | Static libraries for dtc | https://git.kernel.org/pub/scm/utils/dtc/dtc |
@@ -474,7 +474,7 @@
 | **finch-static** | 2.14.14-2 | Static libraries for finch | https://pidgin.im/ |
 | **findomain** | 10.0.1-1 | Findomain is the fastest subdomain enumerator and the only one written in Rust | https://findomain.app/ |
 | **findutils** | 4.10.0-1 | Utilities to find files meeting specified criteria and perform various actions on the files which are found | https://www.gnu.org/software/findutils/ |
-| **fish** | 4.1.0 | The user-friendly command line shell | https://fishshell.com/ |
+| **fish** | 4.1.2 | The user-friendly command line shell | https://fishshell.com/ |
 | **flac** | 1.5.0-1 | FLAC (Free Lossless Audio Codec) command-line tool | https://xiph.org/flac/ |
 | **flatbuffers** | 25.9.23 | Memory Efficient Serialization Library | https://github.com/google/flatbuffers |
 | **flatbuffers-static** | 25.9.23 | Static libraries for flatbuffers | https://github.com/google/flatbuffers |
@@ -523,10 +523,10 @@
 | **gcab** | 1.6-1 | GObject library to create cabinet files | https://gitlab.gnome.org/GNOME/gcab |
 | **gcal** | 4.1-4 | Program for calculating and printing calendars | https://www.gnu.org/software/gcal/ |
 | **gdal** | 3.11.4 | A translator library for raster and vector geospatial data formats | https://gdal.org |
-| **gdb** | 16.3 | The standard GNU Debugger that runs on many Unix-like systems and works for many programming languages | https://www.gnu.org/software/gdb/ |
+| **gdb** | 16.3-1 | The standard GNU Debugger that runs on many Unix-like systems and works for many programming languages | https://www.gnu.org/software/gdb/ |
 | **gdbm** | 1.26-1 | Library of database functions that use extensible hashing | https://www.gnu.org.ua/software/gdbm/ |
 | **gdbm-static** | 1.26-1 | Static libraries for gdbm | https://www.gnu.org.ua/software/gdbm/ |
-| **gdbserver** | 16.3 | The gdbserver program | https://www.gnu.org/software/gdb/ |
+| **gdbserver** | 16.3-1 | The gdbserver program | https://www.gnu.org/software/gdb/ |
 | **gdk-pixbuf** | 2.44.3-1 | Library for image loading and manipulation | https://wiki.gnome.org/Projects/GdkPixbuf |
 | **gdrive-downloader** | 1:1.1 | Download a gdrive folder or file easily, shell ftw | https://github.com/Akianonymus/gdrive-downloader |
 | **gdu** | 5.31.0-1 | Fast disk usage analyzer with console interface written in Go | https://github.com/dundee/gdu |
@@ -661,8 +661,8 @@
 | **gst-python** | 1.26.7 | Python bindings for GStreamer | https://gstreamer.freedesktop.org/ |
 | **gstreamer** | 1.26.7 | Open source multimedia framework | https://gstreamer.freedesktop.org/ |
 | **gtypist** | 2.10.1-1 | Universal typing tutor | https://www.gnu.org/software/gtypist/ |
-| **guile** | 3.0.9-3 | Portable, embeddable Scheme implementation written in C | http://www.gnu.org/software/guile/ |
-| **guile-static** | 3.0.9-3 | Static libraries for guile | http://www.gnu.org/software/guile/ |
+| **guile** | 3.0.10 | Portable, embeddable Scheme implementation written in C | http://www.gnu.org/software/guile/ |
+| **guile-static** | 3.0.10 | Static libraries for guile | http://www.gnu.org/software/guile/ |
 | **guile18** | 1.8.8-16 | Portable, embeddable Scheme implementation written in C. (legacy branch) | http://www.gnu.org/software/guile/ |
 | **guile18-static** | 1.8.8-16 | Static libraries for guile18 | http://www.gnu.org/software/guile/ |
 | **gum** | 0.17.0 | A tool for creating minimal interactive TUIs for shell scripts | https://github.com/charmbracelet/gum |
@@ -1553,7 +1553,7 @@
 | **libzxing-cpp** | 2.3.0-3 | An open-source, multi-format 1D/2D barcode image processing library implemented in C++ | https://github.com/zxing-cpp/zxing-cpp |
 | **lighttpd** | 1.4.82 | Fast webserver with minimal memory footprint | https://www.lighttpd.net |
 | **lilv** | 0.24.26-2 | A C library to make the use of LV2 plugins as simple as possible for applications | https://drobilla.net/software/lilv.html |
-| **lilypond** | 2.24.4-2 | A music engraving program | https://lilypond.org/ |
+| **lilypond** | 2.24.4-3 | A music engraving program | https://lilypond.org/ |
 | **links** | 2.29-2 | Links is a text and graphics mode WWW browser | http://links.twibright.com |
 | **lipl** | 0.1.3-1 | A command line tool that is similar to watch but has extended functions for commands outputing a number | https://github.com/yxdunc/lipl |
 | **lit** | 3.8.5-3 | Toolkit for developing, sharing, and running luvit/lua programs and libraries. | https://luvit.io |
@@ -1617,7 +1617,7 @@
 | **mailsync** | 5.2.7-2 | A way of synchronizing a collection of mailboxes | https://mailsync.sourceforge.net/ |
 | **mailutils** | 3.20-1 | Mailutils is a swiss army knife of electronic mail handling.  | https://mailutils.org/ |
 | **make** | 4.4.1-1 | Tool to control the generation of non-source files from source files | https://www.gnu.org/software/make/ |
-| **make-guile** | 4.4.1-1 | Tool to control the generation of non-source files from source files | https://www.gnu.org/software/make/ |
+| **make-guile** | 4.4.1-2 | Tool to control the generation of non-source files from source files | https://www.gnu.org/software/make/ |
 | **mandoc** | 1.14.6-6 | Man page viewer from the mandoc toolset | https://mdocml.bsd.lv/ |
 | **mangal** | 4.0.6-3 | Cli manga downloader | https://github.com/metafates/mangal |
 | **manpages** | 6.15 | Man pages for linux kernel and C library interfaces | https://www.kernel.org/doc/man-pages/ |
@@ -2226,7 +2226,7 @@
 | **seccure** | 0.5-8 | SECCURE Elliptic Curve Crypto Utility for Reliable Encryption | http://point-at-infinity.org/seccure/ |
 | **secure-delete** | 3.1-6 | Secure file, disk, swap, memory erasure utilities | https://www.thc.org/ |
 | **sed** | 4.9-2 | GNU stream editor for filtering/transforming text | https://www.gnu.org/software/sed/ |
-| **sendme** | 0.27.0 | A tool to send files and directories, based on iroh | https://github.com/n0-computer/sendme |
+| **sendme** | 0.29.0 | A tool to send files and directories, based on iroh | https://github.com/n0-computer/sendme |
 | **sendxmpp** | 1.24 | A perl-script to send XMPP (jabber) messages | https://sendxmpp.hostname.sk/ |
 | **senpai** | 1:0.4.1-1 | An IRC client that works best with bouncers | https://git.sr.ht/~delthas/senpai |
 | **sensible-utils** | 0.0.26 | Small utilities used by programs to sensibly select and spawn an appropriate browser, editor, or pager | https://packages.debian.org/sid/sensible-utils |
