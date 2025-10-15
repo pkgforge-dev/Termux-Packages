@@ -2575,7 +2575,7 @@
   },
   {
     "Package": "esbuild",
-    "Version": "0.25.10",
+    "Version": "0.25.11",
     "Description": "An extremely fast JavaScript bundler",
     "Homepage": "https://esbuild.github.io/"
   },
@@ -3949,13 +3949,13 @@
   },
   {
     "Package": "gst-plugins-good",
-    "Version": "1.26.6",
+    "Version": "1.26.7",
     "Description": "GStreamer Good Plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
   {
     "Package": "gst-plugins-ugly",
-    "Version": "1.26.6",
+    "Version": "1.26.7",
     "Description": "GStreamer Ugly Plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
@@ -4417,13 +4417,13 @@
   },
   {
     "Package": "imagemagick",
-    "Version": "7.1.2.5-1",
+    "Version": "7.1.2.7",
     "Description": "Suite to create, edit, compose, or convert images in a variety of formats",
     "Homepage": "https://www.imagemagick.org/"
   },
   {
     "Package": "imagemagick-static",
-    "Version": "7.1.2.5-1",
+    "Version": "7.1.2.7",
     "Description": "Static libraries for imagemagick",
     "Homepage": "https://www.imagemagick.org/"
   },
@@ -4603,7 +4603,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.24.131",
+    "Version": "0.24.134",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -4999,7 +4999,7 @@
   },
   {
     "Package": "less",
-    "Version": "679-2",
+    "Version": "685",
     "Description": "Terminal pager program used to view the contents of a text file one screen at a time",
     "Homepage": "https://www.greenwoodsoftware.com/less/"
   },
@@ -5827,7 +5827,7 @@
   },
   {
     "Package": "libdrm",
-    "Version": "2.4.126",
+    "Version": "2.4.127",
     "Description": "Userspace interface to kernel DRM services",
     "Homepage": "https://dri.freedesktop.org/wiki/"
   },
@@ -10231,7 +10231,7 @@
   },
   {
     "Package": "moor",
-    "Version": "2.5.1",
+    "Version": "2.5.2",
     "Description": "A pager designed to just do the right thing without any configuration",
     "Homepage": "https://github.com/walles/moor"
   },
@@ -11719,7 +11719,7 @@
   },
   {
     "Package": "php-redis",
-    "Version": "6.2.0-1",
+    "Version": "6.3.0RC1",
     "Description": "PHP extension for interfacing with Redis",
     "Homepage": "https://github.com/phpredis/phpredis"
   },
