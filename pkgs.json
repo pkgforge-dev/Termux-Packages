@@ -1021,7 +1021,7 @@
   },
   {
     "Package": "bsdtar",
-    "Version": "3.8.1-1",
+    "Version": "3.8.2",
     "Description": "The tar(1) and cpio(1) programs from FreeBSD, using libarchive",
     "Homepage": "https://www.libarchive.org/"
   },
@@ -3295,7 +3295,7 @@
   },
   {
     "Package": "gh",
-    "Version": "2.81.0",
+    "Version": "2.82.0",
     "Description": "GitHub’s official command line tool",
     "Homepage": "https://cli.github.com/"
   },
@@ -5257,13 +5257,13 @@
   },
   {
     "Package": "libarchive",
-    "Version": "3.8.1-1",
+    "Version": "3.8.2",
     "Description": "Multi-format archive and compression library",
     "Homepage": "https://www.libarchive.org/"
   },
   {
     "Package": "libarchive-static",
-    "Version": "3.8.1-1",
+    "Version": "3.8.2",
     "Description": "Static libraries for libarchive",
     "Homepage": "https://www.libarchive.org/"
   },
@@ -11851,7 +11851,7 @@
   },
   {
     "Package": "pocketbase",
-    "Version": "0.30.2",
+    "Version": "0.30.3",
     "Description": "An open source Go backend",
     "Homepage": "https://github.com/pocketbase/pocketbase"
   },
@@ -12241,7 +12241,7 @@
   },
   {
     "Package": "python-cryptography",
-    "Version": "46.0.2",
+    "Version": "46.0.3",
     "Description": "Provides cryptographic recipes and primitives to Python developers",
     "Homepage": "https://github.com/pyca/cryptography"
   },
@@ -13969,7 +13969,7 @@
   },
   {
     "Package": "storj-uplink",
-    "Version": "1.136.4",
+    "Version": "1.139.6",
     "Description": "Storj DCS Uplink CLI",
     "Homepage": "https://www.storj.io/integrations/uplink-cli"
   },
