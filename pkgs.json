@@ -3343,7 +3343,7 @@
   },
   {
     "Package": "git",
-    "Version": "2.51.0",
+    "Version": "2.51.1",
     "Description": "Fast, scalable, distributed revision control system",
     "Homepage": "https://git-scm.com/"
   },
@@ -3373,13 +3373,13 @@
   },
   {
     "Package": "git-gitk",
-    "Version": "2.51.0",
+    "Version": "2.51.1",
     "Description": "Git repository browser",
     "Homepage": "https://git-scm.com/"
   },
   {
     "Package": "git-gui",
-    "Version": "2.51.0",
+    "Version": "2.51.1",
     "Description": "A graphical interface to Git",
     "Homepage": "https://git-scm.com/"
   },
@@ -3397,7 +3397,7 @@
   },
   {
     "Package": "git-svn",
-    "Version": "2.51.0",
+    "Version": "2.51.1",
     "Description": "Convert between Git and Subversion repositories",
     "Homepage": "https://git-scm.com/"
   },
@@ -4603,7 +4603,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.24.134",
+    "Version": "0.24.141",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -12931,7 +12931,7 @@
   },
   {
     "Package": "ripgrep",
-    "Version": "14.1.1-2",
+    "Version": "15.0.0",
     "Description": "Search tool like grep and The Silver Searcher",
     "Homepage": "https://github.com/BurntSushi/ripgrep"
   },

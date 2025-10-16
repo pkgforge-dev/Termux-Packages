@@ -555,16 +555,16 @@
 | **giflib-utils** | 5.2.2-1 | A set of utilities that comes with giflib package | https://giflib.sourceforge.net/ |
 | **gifsicle** | 1.96-1 | Tool for creating, editing, and getting information about GIF images and animations | https://www.lcdf.org/gifsicle/ |
 | **gifski** | 1.34.0-1 | GIF encoder based on libimagequant | https://gif.ski/ |
-| **git** | 2.51.0 | Fast, scalable, distributed revision control system | https://git-scm.com/ |
+| **git** | 2.51.1 | Fast, scalable, distributed revision control system | https://git-scm.com/ |
 | **git-credential-manager** | 2.6.1-2 | Cross-platform Git credential storage for multiple hosting providers | https://aka.ms/gcm |
 | **git-crypt** | 0.7.0-3 | Enables transparent encryption and decryption of files for a git repository | https://www.agwa.name/projects/git-crypt/ |
 | **git-delta** | 0.18.2-3 | A syntax-highlighter for git and diff output | https://dandavison.github.io/delta/ |
 | **git-extras** | 7.4.0-1 | Little git extras. | https://github.com/tj/git-extras |
-| **git-gitk** | 2.51.0 | Git repository browser | https://git-scm.com/ |
-| **git-gui** | 2.51.0 | A graphical interface to Git | https://git-scm.com/ |
+| **git-gitk** | 2.51.1 | Git repository browser | https://git-scm.com/ |
+| **git-gui** | 2.51.1 | A graphical interface to Git | https://git-scm.com/ |
 | **git-lfs** | 3.7.0-1 | Git extension for versioning large files | https://git-lfs.github.com/ |
 | **git-sizer** | 1.5.0-5 | Compute various size metrics for a Git repository | https://github.com/github/git-sizer |
-| **git-svn** | 2.51.0 | Convert between Git and Subversion repositories | https://git-scm.com/ |
+| **git-svn** | 2.51.1 | Convert between Git and Subversion repositories | https://git-scm.com/ |
 | **git-town** | 22.1.0 | Git branches made easy | https://www.git-town.com |
 | **gitea** | 1.24.6 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
 | **gitflow-avh** | 1.12.3-9 | Extend git with Vincent Driessen's branching model. The AVH Edition adds more functionality. | https://github.com/petervanderdoes/gitflow/ |
@@ -765,7 +765,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4-1 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-2 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.24.134 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.24.141 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **jadx** | 1.5.3 | Dex to Java decompiler | https://github.com/skylot/jadx |
 | **jadx-x** | 1.5.3 | Dex to Java decompiler GUI | https://github.com/skylot/jadx |
 | **janet** | 1.39.1 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
@@ -2153,7 +2153,7 @@
 | **rig** | 1.11-2 | A program that generates fake identities | https://rig.sourceforge.net/ |
 | **rinetd** | 1:0.73-2 | A user-mode TCP port redirection server | https://github.com/samhocevar/rinetd |
 | **rip2** | 0.9.5 | A safe and ergonomic alternative to rm | https://github.com/MilesCranmer/rip2 |
-| **ripgrep** | 14.1.1-2 | Search tool like grep and The Silver Searcher | https://github.com/BurntSushi/ripgrep |
+| **ripgrep** | 15.0.0 | Search tool like grep and The Silver Searcher | https://github.com/BurntSushi/ripgrep |
 | **ripgrep-all** | 1.0.0-alpha.5-4 | Search tool able to locate in PDFs, E-Books, zip, tar.gz, etc | https://github.com/phiresky/ripgrep-all |
 | **ripsecrets** | 0.1.11-1 | A command-line tool to prevent committing secret keys into your source code | https://github.com/sirwart/ripsecrets |
 | **rirc** | 0.1.7-2 | A terminal IRC client in C | https://github.com/rcr/rirc |

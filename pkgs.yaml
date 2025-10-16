@@ -2227,7 +2227,7 @@
   Description: GIF encoder based on libimagequant
   Homepage: https://gif.ski/
 - Package: git
-  Version: 2.51.0
+  Version: 2.51.1
   Description: Fast, scalable, distributed revision control system
   Homepage: https://git-scm.com/
 - Package: git-credential-manager
@@ -2247,11 +2247,11 @@
   Description: Little git extras.
   Homepage: https://github.com/tj/git-extras
 - Package: git-gitk
-  Version: 2.51.0
+  Version: 2.51.1
   Description: Git repository browser
   Homepage: https://git-scm.com/
 - Package: git-gui
-  Version: 2.51.0
+  Version: 2.51.1
   Description: A graphical interface to Git
   Homepage: https://git-scm.com/
 - Package: git-lfs
@@ -2263,7 +2263,7 @@
   Description: Compute various size metrics for a Git repository
   Homepage: https://github.com/github/git-sizer
 - Package: git-svn
-  Version: 2.51.0
+  Version: 2.51.1
   Description: Convert between Git and Subversion repositories
   Homepage: https://git-scm.com/
 - Package: git-town
@@ -3067,7 +3067,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.24.134
+  Version: 0.24.141
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -8619,7 +8619,7 @@
   Description: A safe and ergonomic alternative to rm
   Homepage: https://github.com/MilesCranmer/rip2
 - Package: ripgrep
-  Version: 14.1.1-2
+  Version: 15.0.0
   Description: Search tool like grep and The Silver Searcher
   Homepage: https://github.com/BurntSushi/ripgrep
 - Package: ripgrep-all
