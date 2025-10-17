@@ -6591,7 +6591,7 @@
   Description: A backend for mdbook which will check your links for you
   Homepage: https://michael-f-bryan.github.io/mdbook-linkcheck/
 - Package: mdbook-mermaid
-  Version: 0.16.0
+  Version: 0.16.1
   Description: A preprocessor for mdbook to add mermaid support
   Homepage: https://github.com/badboy/mdbook-mermaid
 - Package: mdbook-open-on-gh
@@ -7899,7 +7899,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pocketbase
-  Version: 0.30.3
+  Version: 0.30.4
   Description: An open source Go backend
   Homepage: https://github.com/pocketbase/pocketbase
 - Package: poke
