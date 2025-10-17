@@ -574,7 +574,7 @@
 | **git-extras** | 7.4.0-1 | Little git extras. | https://github.com/tj/git-extras |
 | **git-gitk** | 2.51.1 | Git repository browser | https://git-scm.com/ |
 | **git-gui** | 2.51.1 | A graphical interface to Git | https://git-scm.com/ |
-| **git-lfs** | 3.7.0-1 | Git extension for versioning large files | https://git-lfs.github.com/ |
+| **git-lfs** | 3.7.1 | Git extension for versioning large files | https://git-lfs.github.com/ |
 | **git-sizer** | 1.5.0-5 | Compute various size metrics for a Git repository | https://github.com/github/git-sizer |
 | **git-svn** | 2.51.1 | Convert between Git and Subversion repositories | https://git-scm.com/ |
 | **git-town** | 22.1.0 | Git branches made easy | https://www.git-town.com |
@@ -777,7 +777,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4-1 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-2 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.24.141 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.24.145 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **jadx** | 1.5.3 | Dex to Java decompiler | https://github.com/skylot/jadx |
 | **jadx-x** | 1.5.3 | Dex to Java decompiler GUI | https://github.com/skylot/jadx |
 | **janet** | 1.39.1 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
