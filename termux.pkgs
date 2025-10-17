@@ -249,7 +249,7 @@
 | **cmark-static** | 0.31.1-1 | Static libraries for cmark | https://github.com/commonmark/cmark |
 | **cmatrix** | 2.0-1 | Command producing a Matrix-style animation | https://github.com/abishekvashok/cmatrix |
 | **cmocka** | 1.1.8-2 | cmocka is an unit testing framework for C | https://cmocka.org/ |
-| **cmus** | 2.12.0-5 | Small, fast and powerful console music player | https://cmus.github.io/ |
+| **cmus** | 2.12.0-6 | Small, fast and powerful console music player | https://cmus.github.io/ |
 | **cmusfm** | 0.5.0-1 | Last.fm standalone scrobbler for the cmus music player | https://github.com/Arkq/cmusfm |
 | **codecrypt** | 1.8-10 | The post-quantum cryptography tool | http://e-x-a.org/codecrypt/ |
 | **coinor-cbc** | 2.10.12-1 | An open-source mixed integer linear programming solver | https://github.com/coin-or/Cbc |
@@ -1646,7 +1646,7 @@
 | **mdbook-graphviz** | 0.2.1-2 | mdbook preprocessor to add graphviz support | https://github.com/dylanowen/mdbook-graphviz |
 | **mdbook-katex** | 0.9.4-1 | A preprocessor for mdBook, pre-rendering LaTex equations to HTML at build time | https://github.com/lzanini/mdbook-katex |
 | **mdbook-linkcheck** | 0.7.7-2 | A backend for mdbook which will check your links for you | https://michael-f-bryan.github.io/mdbook-linkcheck/ |
-| **mdbook-mermaid** | 0.16.1 | A preprocessor for mdbook to add mermaid support | https://github.com/badboy/mdbook-mermaid |
+| **mdbook-mermaid** | 0.16.2 | A preprocessor for mdbook to add mermaid support | https://github.com/badboy/mdbook-mermaid |
 | **mdbook-open-on-gh** | 2.4.3-1 | A preprocessor for mdbook to add a open-on-github link on every page | https://github.com/badboy/mdbook-open-on-gh |
 | **mdbook-pikchr** | 0.1.9-1 | A mdbook preprocessor to render pikchr code blocks as images in your book | https://github.com/podsvirov/mdbook-pikchr |
 | **mdbook-plantuml** | 0.8.0-3 | mdBook preprocessor to render PlantUML code blocks as images in your book | https://github.com/sytsereitsma/mdbook-plantuml |
@@ -2680,7 +2680,7 @@
 | **zopfli** | 1.0.3-5 | New zlib compatible compressor tools | https://github.com/google/zopfli |
 | **zoxide** | 0.9.8-2 | A faster way to navigate your filesystem | https://github.com/ajeetdsouza/zoxide |
 | **zpaq** | 7.15-1 | Programmable file compressor, library and utilities. Based on the PAQ compression algorithm | http://mattmahoney.net/dc/zpaq.html |
-| **zrok** | 1.1.9 | An open source sharing solution built on OpenZiti. | https://zrok.io/ |
+| **zrok** | 1.1.10 | An open source sharing solution built on OpenZiti. | https://zrok.io/ |
 | **zsh** | 5.9-9 | Shell with lots of features | https://www.zsh.org |
 | **zsh-completions** | 0.35.0 | Additional completion definitions for Zsh | https://github.com/zsh-users/zsh-completions |
 | **zssh** | 1.5c-1 | A program for interactively transferring files to a remote machine while using the secure shell (ssh) | http://zssh.sourceforge.net/ |
