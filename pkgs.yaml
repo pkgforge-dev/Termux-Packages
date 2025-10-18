@@ -1671,19 +1671,19 @@
   Description: Extensible, customizable text editor-and more
   Homepage: https://www.gnu.org/software/emacs/
 - Package: emscripten
-  Version: 4.0.16
+  Version: 4.0.17
   Description: 'Emscripten: An LLVM-to-WebAssembly Compiler'
   Homepage: https://emscripten.org
 - Package: emscripten-binaryen
-  Version: 4.0.16
+  Version: 4.0.17
   Description: Emscripten-compatible Binaryen
   Homepage: https://emscripten.org
 - Package: emscripten-llvm
-  Version: 4.0.16
+  Version: 4.0.17
   Description: Emscripten-compatible LLVM
   Homepage: https://emscripten.org
 - Package: emscripten-tests-third-party
-  Version: 4.0.16
+  Version: 4.0.17
   Description: Emscripten third party test suite files
   Homepage: https://emscripten.org
 - Package: enblend
@@ -3067,7 +3067,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.24.145
+  Version: 0.24.153
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -6819,7 +6819,7 @@
   Description: Simple game where you drive a car across the moons surface
   Homepage: https://github.com/seehuhn/moon-buggy
 - Package: moor
-  Version: 2.5.2
+  Version: 2.6.0
   Description: A pager designed to just do the right thing without any configuration
   Homepage: https://github.com/walles/moor
 - Package: mop
@@ -8131,7 +8131,7 @@
   Description: C++ functions matching the interface and behavior of python string methods with std::string
   Homepage: https://github.com/imageworks/pystring
 - Package: python
-  Version: 3.12.11-1
+  Version: 3.12.12
   Description: Python 3 programming language intended to enable clear programs
   Homepage: https://python.org/
 - Package: python-apsw
@@ -8163,7 +8163,7 @@
   Description: Provides cryptographic recipes and primitives to Python developers
   Homepage: https://github.com/pyca/cryptography
 - Package: python-ensurepip-wheels
-  Version: 3.12.11-1
+  Version: 3.12.12
   Description: Wheels for Python ensurepip
   Homepage: https://python.org/
 - Package: python-greenlet
@@ -8239,7 +8239,7 @@
   Description: Python bindings for the Skia librarys Path Ops
   Homepage: https://github.com/fonttools/skia-pathops
 - Package: python-static
-  Version: 3.12.11-1
+  Version: 3.12.12
   Description: Static libraries for python
   Homepage: https://python.org/
 - Package: python-tflite-runtime
@@ -8247,7 +8247,7 @@
   Description: TensorFlow Lite Python bindings
   Homepage: https://www.tensorflow.org/lite
 - Package: python-tkinter
-  Version: 3.12.11-1
+  Version: 3.12.12
   Description: Tkinter support for Python 3
   Homepage: https://python.org/
 - Package: python-tldp
@@ -9503,7 +9503,7 @@
   Description: Telegram downloader/tools written in Golang
   Homepage: https://docs.iyear.me/tdl/
 - Package: tea
-  Version: 0.11.0
+  Version: 0.11.1
   Description: The official CLI for Gitea
   Homepage: https://gitea.com/gitea/tea
 - Package: tealdeer

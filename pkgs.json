@@ -2509,25 +2509,25 @@
   },
   {
     "Package": "emscripten",
-    "Version": "4.0.16",
+    "Version": "4.0.17",
     "Description": "Emscripten: An LLVM-to-WebAssembly Compiler",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-binaryen",
-    "Version": "4.0.16",
+    "Version": "4.0.17",
     "Description": "Emscripten-compatible Binaryen",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-llvm",
-    "Version": "4.0.16",
+    "Version": "4.0.17",
     "Description": "Emscripten-compatible LLVM",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-tests-third-party",
-    "Version": "4.0.16",
+    "Version": "4.0.17",
     "Description": "Emscripten third party test suite files",
     "Homepage": "https://emscripten.org"
   },
@@ -4603,7 +4603,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.24.145",
+    "Version": "0.24.153",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -10231,7 +10231,7 @@
   },
   {
     "Package": "moor",
-    "Version": "2.5.2",
+    "Version": "2.6.0",
     "Description": "A pager designed to just do the right thing without any configuration",
     "Homepage": "https://github.com/walles/moor"
   },
@@ -12199,7 +12199,7 @@
   },
   {
     "Package": "python",
-    "Version": "3.12.11-1",
+    "Version": "3.12.12",
     "Description": "Python 3 programming language intended to enable clear programs",
     "Homepage": "https://python.org/"
   },
@@ -12247,7 +12247,7 @@
   },
   {
     "Package": "python-ensurepip-wheels",
-    "Version": "3.12.11-1",
+    "Version": "3.12.12",
     "Description": "Wheels for Python ensurepip",
     "Homepage": "https://python.org/"
   },
@@ -12361,7 +12361,7 @@
   },
   {
     "Package": "python-static",
-    "Version": "3.12.11-1",
+    "Version": "3.12.12",
     "Description": "Static libraries for python",
     "Homepage": "https://python.org/"
   },
@@ -12373,7 +12373,7 @@
   },
   {
     "Package": "python-tkinter",
-    "Version": "3.12.11-1",
+    "Version": "3.12.12",
     "Description": "Tkinter support for Python 3",
     "Homepage": "https://python.org/"
   },
@@ -14257,7 +14257,7 @@
   },
   {
     "Package": "tea",
-    "Version": "0.11.0",
+    "Version": "0.11.1",
     "Description": "The official CLI for Gitea",
     "Homepage": "https://gitea.com/gitea/tea"
   },

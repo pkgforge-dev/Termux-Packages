@@ -428,10 +428,10 @@
 | **eltclsh** | 1.20-1 | Interactive shell for TCL programming language | https://homepages.laas.fr/mallet/soft/shell/eltclsh |
 | **elvish** | 0.21.0-1 | A friendly and expressive Unix shell | https://github.com/elves/elvish |
 | **emacs** | 30.2 | Extensible, customizable text editor-and more | https://www.gnu.org/software/emacs/ |
-| **emscripten** | 4.0.16 | Emscripten: An LLVM-to-WebAssembly Compiler | https://emscripten.org |
-| **emscripten-binaryen** | 4.0.16 | Emscripten-compatible Binaryen | https://emscripten.org |
-| **emscripten-llvm** | 4.0.16 | Emscripten-compatible LLVM | https://emscripten.org |
-| **emscripten-tests-third-party** | 4.0.16 | Emscripten third party test suite files | https://emscripten.org |
+| **emscripten** | 4.0.17 | Emscripten: An LLVM-to-WebAssembly Compiler | https://emscripten.org |
+| **emscripten-binaryen** | 4.0.17 | Emscripten-compatible Binaryen | https://emscripten.org |
+| **emscripten-llvm** | 4.0.17 | Emscripten-compatible LLVM | https://emscripten.org |
+| **emscripten-tests-third-party** | 4.0.17 | Emscripten third party test suite files | https://emscripten.org |
 | **enblend** | 4.2.0p20161007-7 | A tool for compositing images using a Burt&Adelson multiresolution spline | https://enblend.sourceforge.net/ |
 | **enchant** | 2.8.12-1 | Wraps a number of different spelling libraries and programs with a consistent interface | https://rrthomas.github.io/enchant/ |
 | **enchant-static** | 2.8.12-1 | Static libraries for enchant | https://rrthomas.github.io/enchant/ |
@@ -777,7 +777,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4-1 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-2 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.24.145 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.24.153 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **jadx** | 1.5.3 | Dex to Java decompiler | https://github.com/skylot/jadx |
 | **jadx-x** | 1.5.3 | Dex to Java decompiler GUI | https://github.com/skylot/jadx |
 | **janet** | 1.39.1 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
@@ -1715,7 +1715,7 @@
 | **mono-static** | 6.14.1-2 | Static libraries for mono | https://gitlab.winehq.org/mono/mono |
 | **monolith** | 2.10.1-1 | CLI tool for saving complete web pages as a single HTML file | https://github.com/Y2Z/monolith |
 | **moon-buggy** | 1.0.51-6 | Simple game where you drive a car across the moon's surface | https://github.com/seehuhn/moon-buggy |
-| **moor** | 2.5.2 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moor |
+| **moor** | 2.6.0 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moor |
 | **mop** | 2025.03.17-1 | Stock market tracker | https://github.com/mop-tracker/mop |
 | **moreutils** | 0.70-1 | A growing collection of the unix tools that nobody thought to write thirty years ago | https://joeyh.name/code/moreutils/ |
 | **moria** | 5.7.15-6 | Rogue-like game with an infinite dungeon | https://umoria.org |
@@ -2043,7 +2043,7 @@
 | **pypy3-tests** | 7.3.19-1 | Test files for PyPy 3 | https://pypy.org |
 | **pypy3-tkinter** | 7.3.19-1 | Tkinter support for PyPy 3 | https://pypy.org |
 | **pystring** | 1.1.4-1 | C++ functions matching the interface and behavior of python string methods with std::string | https://github.com/imageworks/pystring |
-| **python** | 3.12.11-1 | Python 3 programming language intended to enable clear programs | https://python.org/ |
+| **python** | 3.12.12 | Python 3 programming language intended to enable clear programs | https://python.org/ |
 | **python-apsw** | 3.50.4.0-1 | Another Python SQLite Wrapper | https://github.com/rogerbinns/apsw/ |
 | **python-apt** | 3.0.0-1 | Python bindings for APT | https://apt-team.pages.debian.net/python-apt/ |
 | **python-bcrypt** | 5.0.0 | Acceptable password hashing for your software and your servers | https://github.com/pyca/bcrypt |
@@ -2051,7 +2051,7 @@
 | **python-cmake** | 4.1.0-1 | Python wrapper for CMake | https://cmake-python-distributions.readthedocs.io/ |
 | **python-contourpy** | 1.3.3-1 | Python library for calculating contours in 2D quadrilateral grids | https://contourpy.readthedocs.io/ |
 | **python-cryptography** | 46.0.3 | Provides cryptographic recipes and primitives to Python developers | https://github.com/pyca/cryptography |
-| **python-ensurepip-wheels** | 3.12.11-1 | Wheels for Python ensurepip | https://python.org/ |
+| **python-ensurepip-wheels** | 3.12.12 | Wheels for Python ensurepip | https://python.org/ |
 | **python-greenlet** | 3.2.4 | Lightweight coroutines for in-process concurrent programming | https://github.com/python-greenlet/greenlet |
 | **python-grpcio** | 1.75.1 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
 | **python-lameenc** | 1.8.1-1 | Python bindings around the LAME encoder | https://github.com/chrisstaite/lameenc |
@@ -2070,9 +2070,9 @@
 | **python-ruff** | 0.14.1 | An extremely fast Python linter, written in Rust (Python bindings) | https://github.com/charliermarsh/ruff |
 | **python-sabyenc3** | 8.2.6-1 | C implementations of functions for use within SABnzbd | https://github.com/sabnzbd/sabctools |
 | **python-skia-pathops** | 0.8.0-2 | Python bindings for the Skia library's Path Ops | https://github.com/fonttools/skia-pathops |
-| **python-static** | 3.12.11-1 | Static libraries for python | https://python.org/ |
+| **python-static** | 3.12.12 | Static libraries for python | https://python.org/ |
 | **python-tflite-runtime** | 2.20.0 | TensorFlow Lite Python bindings | https://www.tensorflow.org/lite |
-| **python-tkinter** | 3.12.11-1 | Tkinter support for Python 3 | https://python.org/ |
+| **python-tkinter** | 3.12.12 | Tkinter support for Python 3 | https://python.org/ |
 | **python-tldp** | 0.7.5-5 | Tools for publishing from TLDP sources | https://github.com/tLDP/python-tldp |
 | **python-torch** | 2.6.0-1 | Tensors and Dynamic neural networks in Python | https://pytorch.org/ |
 | **python-torch-static** | 2.6.0-1 | Static libraries for python-torch | https://pytorch.org/ |
@@ -2386,7 +2386,7 @@
 | **tcsh** | 6.24.16-1 | TENEX C Shell, an enhanced version of Berkeley csh | https://www.tcsh.org |
 | **tdb-tools** | 1.4.14 | Tools for TDB | https://tdb.samba.org/ |
 | **tdl** | 0.19.2 | Telegram downloader/tools written in Golang | https://docs.iyear.me/tdl/ |
-| **tea** | 0.11.0 | The official CLI for Gitea | https://gitea.com/gitea/tea |
+| **tea** | 0.11.1 | The official CLI for Gitea | https://gitea.com/gitea/tea |
 | **tealdeer** | 1.8.0 | A very fast implementation of tldr in Rust | https://tealdeer-rs.github.io/tealdeer/ |
 | **teckit** | 2.5.12-1 | TECkit is a library for encoding conversion | https://scripts.sil.org/teckitdownloads |
 | **teckit-static** | 2.5.12-1 | Static libraries for teckit | https://scripts.sil.org/teckitdownloads |
