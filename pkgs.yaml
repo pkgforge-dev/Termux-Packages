@@ -975,7 +975,7 @@
   Description: A tool which profiles OpenCL devices to find their peak capacities
   Homepage: https://github.com/krrishnarraj/clpeak
 - Package: clvk
-  Version: 0.0.20251004.105545
+  Version: 0.0.20251015.154326
   Description: Experimental implementation of OpenCL on Vulkan
   Homepage: https://github.com/kpet/clvk
 - Package: cmake
@@ -1955,7 +1955,7 @@
   Description: ForestDB dump tool
   Homepage: https://github.com/couchbase/forestdb
 - Package: forgejo
-  Version: 13.0.0
+  Version: 13.0.1
   Description: Forgejo is a self-hosted lightweight software forge.
   Homepage: https://forgejo.org/
 - Package: fortune
@@ -10279,7 +10279,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2025.10.16
+  Version: 2025.10.17
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vttest
