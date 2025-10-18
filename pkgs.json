@@ -2767,13 +2767,13 @@
   },
   {
     "Package": "fetchmail",
-    "Version": "6.5.6",
+    "Version": "6.5.7",
     "Description": "A remote-mail retrieval utility",
     "Homepage": "https://www.fetchmail.info/"
   },
   {
     "Package": "fetchmailconf",
-    "Version": "6.5.6",
+    "Version": "6.5.7",
     "Description": "A GUI configurator for generating fetchmail configuration files",
     "Homepage": "https://www.fetchmail.info/"
   },
@@ -10231,7 +10231,7 @@
   },
   {
     "Package": "moor",
-    "Version": "2.6.0",
+    "Version": "2.6.1",
     "Description": "A pager designed to just do the right thing without any configuration",
     "Homepage": "https://github.com/walles/moor"
   },
@@ -11605,7 +11605,7 @@
   },
   {
     "Package": "perl",
-    "Version": "5.40.3",
+    "Version": "5.40.3-1",
     "Description": "Capable, feature-rich programming language",
     "Homepage": "https://www.perl.org/"
   },
@@ -12031,7 +12031,7 @@
   },
   {
     "Package": "proot",
-    "Version": "5.1.107-65",
+    "Version": "5.1.107-67",
     "Description": "Emulate chroot, bind mount and binfmt_misc for non-root users",
     "Homepage": "https://proot-me.github.io/"
   },
