@@ -1565,10 +1565,10 @@
 | **lld** | 21.1.3-1 | LLVM-based linker | https://clang.llvm.org/ |
 | **lldb** | 21.1.3-1 | LLVM-based debugger | https://clang.llvm.org/ |
 | **llvm** | 21.1.3-1 | LLVM modular compiler and toolchain executables | https://clang.llvm.org/ |
-| **llvm-mingw-w64** | 20250402-1 | MinGW-w64 toolchain based on LLVM | https://github.com/mstorsjo/llvm-mingw |
-| **llvm-mingw-w64-libcompiler-rt** | 20250402 | Compiler runtime libraries for LLVM-MinGW | https://www.llvm.org/ |
+| **llvm-mingw-w64** | 20251007 | MinGW-w64 toolchain based on LLVM | https://github.com/mstorsjo/llvm-mingw |
+| **llvm-mingw-w64-libcompiler-rt** | 20251007 | Compiler runtime libraries for LLVM-MinGW | https://github.com/mstorsjo/llvm-mingw |
 | **llvm-mingw-w64-tools** | 12.0.0-1 | MinGW-w64 tools for LLVM-MinGW | https://github.com/mstorsjo/llvm-mingw |
-| **llvm-mingw-w64-ucrt** | 20250402 | MinGW-w64 runtime for LLVM-MinGW | https://www.mingw-w64.org/ |
+| **llvm-mingw-w64-ucrt** | 20251007 | MinGW-w64 runtime for LLVM-MinGW | https://github.com/mstorsjo/llvm-mingw |
 | **llvm-tools** | 21.1.3-1 | LLVM Development Tools | https://clang.llvm.org/ |
 | **llvmgold** | 21.1.3-1 | LLVM gold plugin | https://clang.llvm.org/ |
 | **lnav** | 0.13.2 | An advanced log file viewer for the small-scale | https://lnav.org/ |

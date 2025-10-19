@@ -9403,15 +9403,15 @@
   },
   {
     "Package": "llvm-mingw-w64",
-    "Version": "20250402-1",
+    "Version": "20251007",
     "Description": "MinGW-w64 toolchain based on LLVM",
     "Homepage": "https://github.com/mstorsjo/llvm-mingw"
   },
   {
     "Package": "llvm-mingw-w64-libcompiler-rt",
-    "Version": "20250402",
+    "Version": "20251007",
     "Description": "Compiler runtime libraries for LLVM-MinGW",
-    "Homepage": "https://www.llvm.org/"
+    "Homepage": "https://github.com/mstorsjo/llvm-mingw"
   },
   {
     "Package": "llvm-mingw-w64-tools",
@@ -9421,9 +9421,9 @@
   },
   {
     "Package": "llvm-mingw-w64-ucrt",
-    "Version": "20250402",
+    "Version": "20251007",
     "Description": "MinGW-w64 runtime for LLVM-MinGW",
-    "Homepage": "https://www.mingw-w64.org/"
+    "Homepage": "https://github.com/mstorsjo/llvm-mingw"
   },
   {
     "Package": "llvm-tools",
