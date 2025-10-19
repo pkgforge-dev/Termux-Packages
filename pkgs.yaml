@@ -4075,11 +4075,11 @@
   Description: Static libraries for libfyaml
   Homepage: https://pantoniou.github.io/libfyaml/
 - Package: libgc
-  Version: 8.2.8-1
+  Version: 8.2.10
   Description: Library providing the Boehm-Demers-Weiser conservative garbage collector
   Homepage: https://www.hboehm.info/gc/
 - Package: libgc-static
-  Version: 8.2.8-1
+  Version: 8.2.10
   Description: Static libraries for libgc
   Homepage: https://www.hboehm.info/gc/
 - Package: libgcrypt
@@ -9327,11 +9327,11 @@
   Description: Records and splits streaming mp3 into tracks
   Homepage: https://streamripper.sourceforge.net/
 - Package: stunnel
-  Version: 5.75-1
+  Version: "5.76"
   Description: Socket wrapper which can provide TLS support to ordinary applications
   Homepage: https://www.stunnel.org/
 - Package: stunnel-static
-  Version: 5.75-1
+  Version: "5.76"
   Description: Static libraries for stunnel
   Homepage: https://www.stunnel.org/
 - Package: stuntman
@@ -10123,7 +10123,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.9.3
+  Version: 0.9.4
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
@@ -10279,7 +10279,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2025.10.17
+  Version: 2025.10.18
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vttest
