@@ -3067,7 +3067,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.24.153
+  Version: 0.24.156
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -3275,7 +3275,7 @@
   Description: Kubernetes.io client binary
   Homepage: https://kubernetes.io/
 - Package: kubelogin
-  Version: 1.34.1
+  Version: 1.34.2
   Description: A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication
   Homepage: https://github.com/int128/kubelogin
 - Package: kubo
@@ -3383,11 +3383,11 @@
   Description: Static libraries for liba52
   Homepage: http://liba52.sourceforge.net/
 - Package: libacl
-  Version: 2.3.1-1
+  Version: 2.3.2
   Description: Access control list shared library
   Homepage: http://savannah.nongnu.org/projects/acl
 - Package: libacl-static
-  Version: 2.3.1-1
+  Version: 2.3.2
   Description: Static libraries for libacl
   Homepage: http://savannah.nongnu.org/projects/acl
 - Package: libaml
@@ -8083,7 +8083,7 @@
   Description: Pure-FTPd is a free (BSD), secure, production-quality and standard-conformant FTP server
   Homepage: https://www.pureftpd.org/project/pure-ftpd
 - Package: pv
-  Version: 1.9.42
+  Version: 1.9.44
   Description: Terminal-based tool for monitoring the progress of data through a pipeline
   Homepage: https://www.ivarch.com/programs/pv.shtml
 - Package: pwgen
