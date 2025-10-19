@@ -2295,7 +2295,7 @@
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
-  Version: 1.12.0
+  Version: 1.13.0
   Description: A friendly language for building type-safe, scalable systems!
   Homepage: https://gleam.run
 - Package: glib
@@ -3207,7 +3207,7 @@
   Description: A tool that optimizes PDF files for viewing on mobile readers
   Homepage: https://www.willus.com/k2pdfopt/
 - Package: k9s
-  Version: 0.50.15
+  Version: 0.50.16
   Description: Kubernetes CLI To Manage Your Clusters In Style!
   Homepage: https://k9scli.io
 - Package: kainjow-mustache
@@ -5091,7 +5091,7 @@
   Description: Posix-compatible runtime libraries for libpcre
   Homepage: https://www.pcre.org
 - Package: libpcsclite
-  Version: 2.3.3-2
+  Version: 2.4.0
   Description: Middleware to access a smart card using SCard API (PC/SC).
   Homepage: https://pcsclite.apdu.fr/
 - Package: libpcsclite-static
@@ -7707,7 +7707,7 @@
   Description: A grep with Perl-compatible regular expressions
   Homepage: https://www.pcre.org
 - Package: pcscd
-  Version: 2.3.3-2
+  Version: 2.4.0
   Description: Middleware to access a smart card using SCard API (PC/SC). (daemon side)
   Homepage: https://pcsclite.apdu.fr/
 - Package: pdf2svg
@@ -10483,7 +10483,7 @@
   Description: Modern HTTP benchmarking tool
   Homepage: https://github.com/wg/wrk
 - Package: wtfutil
-  Version: 0.46.1
+  Version: 0.47.0
   Description: The personal information dashboard for your terminal
   Homepage: https://wtfutil.com/
 - Package: wuzz
