@@ -73,7 +73,7 @@
 | **asciidoc** | 10.2.1-1 | Text document format for short documents, articles, books and UNIX man pages. | https://asciidoc.org |
 | **asciidoctor** | 2.0.23-1 | An implementation of AsciiDoc in Ruby | https://asciidoctor.org/ |
 | **asciinema** | 1:3.0.0 | Record and share your terminal sessions, the right way | https://asciinema.org/ |
-| **asm-lsp** | 0.10.0-1 | language server for NASM/GAS/GO assembly | https://github.com/bergercookie/asm-lsp |
+| **asm-lsp** | 0.10.1 | language server for NASM/GAS/GO assembly | https://github.com/bergercookie/asm-lsp |
 | **aspell** | 0.60.8.1-1 | A free and open source spell checker designed to replace Ispell | http://aspell.net |
 | **aspell-de** | 1:20161207.7.0 | German dictionary for aspell | http://aspell.net/ |
 | **aspell-en** | 1:2020.12.07 | English dictionary for aspell | http://aspell.net/ |
@@ -119,7 +119,7 @@
 | **bash** | 5.3.3-1 | A sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh) | https://www.gnu.org/software/bash/ |
 | **bash-completion** | 2.16.0 | Programmable completion for the bash shell | https://github.com/scop/bash-completion |
 | **bastet** | 0.43.2-12 | Tetris clone with 'bastard' block-choosing AI | http://fph.altervista.org/prog/bastet.html |
-| **bat** | 0.25.0-3 | A cat(1) clone with wings | https://github.com/sharkdp/bat |
+| **bat** | 0.26.0 | A cat(1) clone with wings | https://github.com/sharkdp/bat |
 | **bc** | 1.08.2-1 | Arbitrary precision numeric processing language | https://www.gnu.org/software/bc/ |
 | **bc-gh** | 7.0.3-1 | Unix dc and POSIX bc with GNU and BSD extensions | https://git.gavinhoward.com/gavin/bc |
 | **bchunk** | 1.2.2 | Tool to convert .bin + .cue files to .iso files | http://he.fi/bchunk/ |
@@ -222,7 +222,7 @@
 | **chafa-static** | 1.16.2-1 | Static libraries for chafa | https://hpjansson.org/chafa/ |
 | **check** | 0.15.2-3 | A unit testing framework for C | https://libcheck.github.io/check |
 | **check-static** | 0.15.2-3 | Static libraries for check | https://libcheck.github.io/check |
-| **chezmoi** | 2.66.0 | Manage your dotfiles across multiple machines | https://chezmoi.io |
+| **chezmoi** | 2.66.1 | Manage your dotfiles across multiple machines | https://chezmoi.io |
 | **chicken** | 5.4.0-2 | A feature rich Scheme compiler and interpreter | https://www.call-cc.org |
 | **chicken-static** | 5.4.0-2 | Static libraries for chicken | https://www.call-cc.org |
 | **choose** | 1.3.7 | A human-friendly and fast alternative to cut and (sometimes) awk | https://github.com/theryangeary/choose |
@@ -264,7 +264,7 @@
 | **composer** | 2.8.12 | Dependency Manager for PHP | https://getcomposer.org/ |
 | **console-bridge** | 1.0.2-1 | A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages | https://github.com/ros/console_bridge |
 | **convertlit** | 1.8-2 | An extractor/converter for .LIT eBooks | http://www.convertlit.com/ |
-| **cookcli** | 0.18.1 | A suite of tools to create shopping lists and maintain food recipes | https://cooklang.org |
+| **cookcli** | 0.18.2 | A suite of tools to create shopping lists and maintain food recipes | https://cooklang.org |
 | **coreutils** | 9.8-1 | Basic file, shell and text manipulation utilities from the GNU project | https://www.gnu.org/software/coreutils/ |
 | **corgi** | 0.2.4-5 | CLI workflow manager | https://github.com/DrakeW/corgi |
 | **corkscrew** | 2.0-4 | A tool for tunneling SSH through HTTP proxies | https://wiki.linuxquestions.org/wiki/Corkscrew |
@@ -335,7 +335,7 @@
 | **dmagnetic** | 0.37-1 | Interpreter for classic text adventure games and interactive fiction | https://dettus.net/dMagnetic |
 | **dmtx-utils** | 0.7.6-1 | A command line interface for libdmtx | https://github.com/dmtx/dmtx-utils |
 | **dnglab** | 0.7.1 | Camera RAW to DNG file format converter | https://github.com/dnglab/dnglab |
-| **dnote** | 1:0.15.3 | A simple command line notebook for programmers | https://www.getdnote.com/ |
+| **dnote** | 1:0.15.4 | A simple command line notebook for programmers | https://www.getdnote.com/ |
 | **dnote-server** | 2.1.1-3 | This package contains the Dnote server. It comprises of the web interface, the web API, and the background jobs. | https://www.getdnote.com/ |
 | **dns2tcp** | 0.5.2-2 | dns2tcp is a tool for relaying TCP connections over DNS | https://github.com/alex-sector/dns2tcp |
 | **dnslookup** | 1.11.1-2 | Simple command line utility to make DNS lookups. Supports all known DNS protocols: plain DNS, DoH, DoT, DoQ, DNSCrypt. | https://github.com/ameshkov/dnslookup |
@@ -640,8 +640,8 @@
 | **graphene** | 1.10.8-3 | A thin layer of graphic data types | https://ebassi.github.io/graphene/ |
 | **graphicsmagick** | 1.3.45-4 | Collection of image processing tools | http://www.graphicsmagick.org/ |
 | **graphicsmagick-static** | 1.3.45-4 | Static libraries for graphicsmagick | http://www.graphicsmagick.org/ |
-| **graphviz** | 14.0.1 | Rich set of graph drawing tools | https://www.graphviz.org/ |
-| **graphviz-static** | 14.0.1 | Static libraries for graphviz | https://www.graphviz.org/ |
+| **graphviz** | 14.0.2 | Rich set of graph drawing tools | https://www.graphviz.org/ |
+| **graphviz-static** | 14.0.2 | Static libraries for graphviz | https://www.graphviz.org/ |
 | **greed** | 4.3-1 | Game where you try to eat as much as possible of the board before munching yourself into a corner | http://www.catb.org/~esr/greed/ |
 | **grep** | 3.12-2 | Command which searches one or more input files for lines containing a match to a specified pattern | https://www.gnu.org/software/grep/ |
 | **grex** | 1.4.5-1 | Simplifies the task of creating regular expressions | https://github.com/pemistahl/grex |
@@ -1739,7 +1739,7 @@
 | **music-file-organizer** | 1.0.4-9 | Organizer of audio files into directories based on metadata tags | https://git.zx2c4.com/music-file-organizer/about/ |
 | **mutt** | 2.2.15 | Mail client with patches from neomutt | http://www.mutt.org/ |
 | **myman** | 0.7.1-6 | Video game for color and monochrome text terminals in the genre of Namco's Pac-Man | https://sourceforge.net/projects/myman/ |
-| **mympd** | 22.1.1 | A standalone and lightweight web-based MPD client | https://jcorporation.github.io/myMPD/ |
+| **mympd** | 22.1.2 | A standalone and lightweight web-based MPD client | https://jcorporation.github.io/myMPD/ |
 | **mypaint-brushes** | 2.0.2 | MyPaint brushes | https://github.com/mypaint/mypaint-brushes |
 | **myrepos** | 1.20180726-4 | Tool to manage all your version control repos | https://myrepos.branchable.com/ |
 | **n-t-roff-sc** | 7.16-1.1.3-2 | A vi-like spreadsheet calculator | https://github.com/n-t-roff/sc |
@@ -1911,7 +1911,7 @@
 | **passage** | 1.7.4a2-1 | A fork of password-store that uses age as backend | https://github.com/FiloSottile/passage |
 | **passphrase2pgp** | 1.3.0-3 | Generate EdDSA/cv25519 private key in GnuPG/SSH format reproducibly per hash of user given passphrase | https://github.com/skeeto/passphrase2pgp |
 | **pastebinit** | 1.5.1-2 | Command-line pastebin client | https://launchpad.net/pastebinit |
-| **pastel** | 0.10.0-1 | A command-line tool to generate, analyze, convert and manipulate colors | https://github.com/sharkdp/pastel |
+| **pastel** | 0.11.0 | A command-line tool to generate, analyze, convert and manipulate colors | https://github.com/sharkdp/pastel |
 | **patch** | 2.8-1 | GNU patch which applies diff files to create patched files | https://savannah.gnu.org/projects/patch/ |
 | **patchelf** | 0.18.0-1 | Utility to modify the dynamic linker and RPATH of ELF executables | https://nixos.org/patchelf.html |
 | **pathpicker** | 0.9.5-2 | Facebook PathPicker - a terminal-based file picker | https://facebook.github.io/PathPicker/ |

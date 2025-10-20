@@ -451,7 +451,7 @@
   },
   {
     "Package": "asm-lsp",
-    "Version": "0.10.0-1",
+    "Version": "0.10.1",
     "Description": "language server for NASM/GAS/GO assembly",
     "Homepage": "https://github.com/bergercookie/asm-lsp"
   },
@@ -727,7 +727,7 @@
   },
   {
     "Package": "bat",
-    "Version": "0.25.0-3",
+    "Version": "0.26.0",
     "Description": "A cat(1) clone with wings",
     "Homepage": "https://github.com/sharkdp/bat"
   },
@@ -1345,7 +1345,7 @@
   },
   {
     "Package": "chezmoi",
-    "Version": "2.66.0",
+    "Version": "2.66.1",
     "Description": "Manage your dotfiles across multiple machines",
     "Homepage": "https://chezmoi.io"
   },
@@ -1597,7 +1597,7 @@
   },
   {
     "Package": "cookcli",
-    "Version": "0.18.1",
+    "Version": "0.18.2",
     "Description": "A suite of tools to create shopping lists and maintain food recipes",
     "Homepage": "https://cooklang.org"
   },
@@ -2023,7 +2023,7 @@
   },
   {
     "Package": "dnote",
-    "Version": "1:0.15.3",
+    "Version": "1:0.15.4",
     "Description": "A simple command line notebook for programmers",
     "Homepage": "https://www.getdnote.com/"
   },
@@ -3853,13 +3853,13 @@
   },
   {
     "Package": "graphviz",
-    "Version": "14.0.1",
+    "Version": "14.0.2",
     "Description": "Rich set of graph drawing tools",
     "Homepage": "https://www.graphviz.org/"
   },
   {
     "Package": "graphviz-static",
-    "Version": "14.0.1",
+    "Version": "14.0.2",
     "Description": "Static libraries for graphviz",
     "Homepage": "https://www.graphviz.org/"
   },
@@ -10447,7 +10447,7 @@
   },
   {
     "Package": "mympd",
-    "Version": "22.1.1",
+    "Version": "22.1.2",
     "Description": "A standalone and lightweight web-based MPD client",
     "Homepage": "https://jcorporation.github.io/myMPD/"
   },
@@ -11479,7 +11479,7 @@
   },
   {
     "Package": "pastel",
-    "Version": "0.10.0-1",
+    "Version": "0.11.0",
     "Description": "A command-line tool to generate, analyze, convert and manipulate colors",
     "Homepage": "https://github.com/sharkdp/pastel"
   },
