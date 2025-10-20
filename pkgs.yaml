@@ -691,7 +691,7 @@
   Description: Utilities for Btrfs filesystem
   Homepage: https://btrfs.readthedocs.io/en/latest/
 - Package: buf
-  Version: 1.58.0
+  Version: 1.59.0
   Description: A new way of working with Protocol Buffers
   Homepage: https://buf.build
 - Package: build-essential
@@ -1615,7 +1615,7 @@
   Description: Classic UNIX line editor
   Homepage: https://www.gnu.org/software/ed/
 - Package: edbrowse
-  Version: 3.8.12-1
+  Version: 3.8.13
   Description: Line based editor, browser, and mail client
   Homepage: https://edbrowse.org/
 - Package: editorconfig-core-c
