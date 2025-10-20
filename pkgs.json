@@ -2563,13 +2563,13 @@
   },
   {
     "Package": "erlang",
-    "Version": "28.1",
+    "Version": "28.1.1",
     "Description": "General-purpose concurrent functional programming language",
     "Homepage": "https://www.erlang.org/"
   },
   {
     "Package": "erlang-doc",
-    "Version": "28.1",
+    "Version": "28.1.1",
     "Description": "Erlang HTML documentation",
     "Homepage": "https://www.erlang.org/"
   },
@@ -6301,7 +6301,7 @@
   },
   {
     "Package": "libgrpc",
-    "Version": "1.75.1",
+    "Version": "1.76.0",
     "Description": "High performance, open source, general RPC framework that puts mobile and HTTP/2 first",
     "Homepage": "https://grpc.io/"
   },
@@ -12259,7 +12259,7 @@
   },
   {
     "Package": "python-grpcio",
-    "Version": "1.75.1",
+    "Version": "1.76.0",
     "Description": "High performance, open source, general RPC framework that puts mobile and HTTP/2 first",
     "Homepage": "https://grpc.io/"
   },
@@ -12739,7 +12739,7 @@
   },
   {
     "Package": "rclone",
-    "Version": "1.71.1",
+    "Version": "1.71.2",
     "Description": "rsync for cloud storage",
     "Homepage": "https://rclone.org/"
   },
@@ -15421,7 +15421,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "2025.10.19",
+    "Version": "2025.10.20",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://github.com/directvt/vtm"
   },
