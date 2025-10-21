@@ -2715,7 +2715,7 @@
   Description: A toolkit for creating structured configuration languages
   Homepage: https://github.com/hashicorp/hcl
 - Package: hcloud
-  Version: 1.54.0
+  Version: 1.55.0
   Description: Hetzner Cloud command line client
   Homepage: https://github.com/hetznercloud/cli
 - Package: helix
@@ -7326,6 +7326,10 @@
   Version: 1.99.16-10
   Description: The GNU Spreadsheet
   Homepage: https://www.gnu.org/software/oleo/
+- Package: oma
+  Version: 1.22.3
+  Description: oma is an attempt at reworking APTs interface
+  Homepage: https://aosc.io/oma
 - Package: onefetch
   Version: 2.25.0-1
   Description: A command-line Git information tool written in Rust
@@ -10279,7 +10283,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2025.10.20
+  Version: 2025.10.21
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vttest

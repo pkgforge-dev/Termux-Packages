@@ -677,7 +677,7 @@
 | **hash-slinger** | 3.4 | Various tools to generate special DNS records | https://github.com/letoams/hash-slinger |
 | **hashdeep** | 4.4-9 | Programs to compute hashsums of arbitrary number of files recursively | https://md5deep.sourceforge.net/ |
 | **hcl** | 2.24.0-1 | A toolkit for creating structured configuration languages | https://github.com/hashicorp/hcl |
-| **hcloud** | 1.54.0 | Hetzner Cloud command line client | https://github.com/hetznercloud/cli |
+| **hcloud** | 1.55.0 | Hetzner Cloud command line client | https://github.com/hetznercloud/cli |
 | **helix** | 25.07.1-1 | A post-modern modal text editor written in rust | https://helix-editor.com/ |
 | **helix-grammars** | 25.07.1-1 | Helix grammars | https://helix-editor.com/ |
 | **hello** | 2.12.2 | Prints a friendly greeting | https://www.gnu.org/software/hello/ |
@@ -1830,6 +1830,7 @@
 | **okc-agents** | 0.1.2-2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.6-3 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-10 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
+| **oma** | 1.22.3 | oma is an attempt at reworking APT's interface | https://aosc.io/oma |
 | **onefetch** | 2.25.0-1 | A command-line Git information tool written in Rust | https://onefetch.dev/ |
 | **onigmo** | 6.2.0-1 | A regular expressions library forked from Oniguruma | https://github.com/k-takata/Onigmo |
 | **onigmo-static** | 6.2.0-1 | Static libraries for onigmo | https://github.com/k-takata/Onigmo |
@@ -2568,7 +2569,7 @@
 | **vlc-static** | 3.0.21-11 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-4 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.3-1 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 2025.10.20 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
+| **vtm** | 2025.10.21 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
 | **vttest** | 20241208-1 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-5 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.4.328 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
