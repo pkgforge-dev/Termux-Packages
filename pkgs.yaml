@@ -391,7 +391,7 @@
   Description: Static libraries for attr
   Homepage: http://savannah.nongnu.org/projects/attr/
 - Package: atuin
-  Version: 18.8.0
+  Version: 18.9.0
   Description: Magical shell history
   Homepage: https://atuin.sh/
 - Package: aubio
@@ -1655,7 +1655,7 @@
   Description: Full-Featured Text WWW Browser
   Homepage: https://github.com/rkd77/elinks
 - Package: elixir
-  Version: 1.19.0
+  Version: 1.19.1
   Description: Elixir is a dynamic, functional language designed for building scalable and maintainable applications
   Homepage: https://elixir-lang.org/
 - Package: eltclsh
@@ -8567,7 +8567,7 @@
   Description: In-memory data structure store used as a database, cache and message broker
   Homepage: https://redis.io/
 - Package: remind
-  Version: 1:06.01.05
+  Version: 1:06.01.06
   Description: Sophisticated calendar and alarm program
   Homepage: https://dianne.skoll.ca/projects/remind/
 - Package: renameutils
@@ -8851,7 +8851,7 @@
   Description: Counts physical the lines of code, blank lines, comment lines, and physical lines of source code
   Homepage: https://github.com/boyter/scc
 - Package: sccache
-  Version: 0.11.0
+  Version: 0.12.0
   Description: sccache is ccache with cloud storage
   Homepage: https://github.com/mozilla/sccache
 - Package: scdaemon
@@ -8947,7 +8947,7 @@
   Description: Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server
   Homepage: https://sftpgo.com/
 - Package: shaderc
-  Version: "2025.4"
+  Version: 2025.4-1
   Description: Collection of tools, libraries, and tests for Vulkan shader compilation
   Homepage: https://github.com/google/shaderc
 - Package: sharutils
@@ -9427,7 +9427,7 @@
   Description: A high-performance CPU-based implementation of the Vulkan graphics API
   Homepage: https://swiftshader.googlesource.com/SwiftShader
 - Package: swig
-  Version: 4.3.1-1
+  Version: 4.4.0
   Description: Generate scripting interfaces to C/C++ code
   Homepage: https://swig.org
 - Package: swtpm

@@ -96,7 +96,7 @@
  atool  0.39.0-1  tool for managing file archives of various types  https://www.nongnu.org/atool 
  attr  2.5.2-1  Utilities for manipulating filesystem extended attributes  http://savannah.nongnu.org/projects/attr/ 
  attr-static  2.5.2-1  Static libraries for attr  http://savannah.nongnu.org/projects/attr/ 
- atuin  18.8.0  Magical shell history  https://atuin.sh/ 
+ atuin  18.9.0  Magical shell history  https://atuin.sh/ 
  aubio  0.4.9-5  A library to label music and sounds  https://aubio.org/ 
  aubio-static  0.4.9-5  Static libraries for aubio  https://aubio.org/ 
  autoconf  2.72  Creator of shell scripts to configure source code packages  https://www.gnu.org/software/autoconf/autoconf.html 
@@ -412,7 +412,7 @@
  electrum  4.5.8-2  Electrum is a lightweight Bitcoin wallet  https://electrum.org 
  elfutils  0.193-1  A collection of utilities to read, create and modify ELF binary files  https://sourceware.org/elfutils/ 
  elinks  0.18.0-1  Full-Featured Text WWW Browser  https://github.com/rkd77/elinks 
- elixir  1.19.0  Elixir is a dynamic, functional language designed for building scalable and maintainable applications  https://elixir-lang.org/ 
+ elixir  1.19.1  Elixir is a dynamic, functional language designed for building scalable and maintainable applications  https://elixir-lang.org/ 
  eltclsh  1.20-1  Interactive shell for TCL programming language  https://homepages.laas.fr/mallet/soft/shell/eltclsh 
  elvish  0.21.0-1  A friendly and expressive Unix shell  https://github.com/elves/elvish 
  emacs  30.2  Extensible, customizable text editor-and more  https://www.gnu.org/software/emacs/ 
@@ -2140,7 +2140,7 @@
  recutils-static  1.9-1  Static libraries for recutils  https://www.gnu.org/software/recutils/ 
  redir  3.3-3  TCP port redirector for UNIX  https://github.com/troglobit/redir 
  redis  1:8.2.2  In-memory data structure store used as a database, cache and message broker  https://redis.io/ 
- remind  1:06.01.05  Sophisticated calendar and alarm program  https://dianne.skoll.ca/projects/remind/ 
+ remind  1:06.01.06  Sophisticated calendar and alarm program  https://dianne.skoll.ca/projects/remind/ 
  renameutils  0.12.0-3  A set of programs designed to make renaming of files faster and less cumbersome  https://www.nongnu.org/renameutils/ 
  reptyr  0.10.0-1  Tool for reparenting a running program to a new terminal  https://github.com/nelhage/reptyr 
  resolv-conf  1.3  Resolver configuration file  https://man7.org/linux/man-pages/man5/resolv.conf.5.html 
@@ -2211,7 +2211,7 @@
  sc-im  0.8.5-2  An improved version of sc, a spreadsheet calculator  https://github.com/andmarti1424/sc-im 
  scala  3.7.3  Scala 3 compiler and standard library.  https://www.scala-lang.org 
  scc  3.5.0-1  Counts physical the lines of code, blank lines, comment lines, and physical lines of source code  https://github.com/boyter/scc 
- sccache  0.11.0  sccache is ccache with cloud storage  https://github.com/mozilla/sccache 
+ sccache  0.12.0  sccache is ccache with cloud storage  https://github.com/mozilla/sccache 
  scdaemon  2.5.11  Daemon invoked by gpg to manage smartcards  https://www.gnupg.org/ 
  scdoc  1.11.3-1  Small man page generator  https://git.sr.ht/~sircmpwn/scdoc 
  screen  5.0.1-1  Terminal multiplexer with VT100/ANSI terminal emulation  https://www.gnu.org/software/screen/ 
@@ -2235,7 +2235,7 @@
  serf-static  1.3.10-2  Static libraries for serf  https://serf.apache.org/ 
  sfeed  2.2-1  Shell-script/crontab oriented feed aggregator and parser utility (curses-based reader included)  https://codemadness.org/sfeed-simple-feed-parser.html 
  sftpgo  2.6.6-1  Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server  https://sftpgo.com/ 
- shaderc  2025.4  Collection of tools, libraries, and tests for Vulkan shader compilation  https://github.com/google/shaderc 
+ shaderc  2025.4-1  Collection of tools, libraries, and tests for Vulkan shader compilation  https://github.com/google/shaderc 
  sharutils  4.15.2-4  Utilities for packaging and unpackaging shell archives  https://www.gnu.org/software/sharutils/ 
  shc  4.0.3-4  Shell script compiler  https://neurobin.org/projects/softwares/unix/shc/ 
  sheldon  0.8.5-1  Fast, configurable, shell plugin manager  https://sheldon.cli.rs/ 
@@ -2355,7 +2355,7 @@
  swift-sdk-arm  6.1.3  Swift SDK for Android armv7  https://swift.org/ 
  swift-sdk-x86-64  6.1.3  Swift SDK for Android x86_64  https://swift.org/ 
  swiftshader  2025.06.25-2  A high-performance CPU-based implementation of the Vulkan graphics API  https://swiftshader.googlesource.com/SwiftShader 
- swig  4.3.1-1  Generate scripting interfaces to C/C++ code  https://swig.org 
+ swig  4.4.0  Generate scripting interfaces to C/C++ code  https://swig.org 
  swtpm  0.10.1-1  Software TPM Emulator  https://github.com/stefanberger/swtpm 
  swtpm-static  0.10.1-1  Static libraries for swtpm  https://github.com/stefanberger/swtpm 
  syncthing  2.0.10  Decentralized file synchronization  https://syncthing.net/ 
