@@ -387,7 +387,7 @@
 | **dotnet8.0** | 8.0.21 | .NET 8.0 | https://dotnet.microsoft.com/en-us/ |
 | **dotnet9.0** | 9.0.9 | .NET 9.0 | https://dotnet.microsoft.com/en-us/ |
 | **double-conversion** | 3.3.1-1 | Binary-decimal and decimal-binary routines for IEEE doubles | https://github.com/google/double-conversion |
-| **doxygen** | 1.14.0-1 | A documentation system for C++, C, Java, IDL and PHP | http://www.doxygen.org |
+| **doxygen** | 1.15.0 | A documentation system for C++, C, Java, IDL and PHP | http://www.doxygen.org |
 | **dpkg** | 1.22.6-4 | Debian package management system | https://packages.debian.org/dpkg |
 | **dpkg-perl** | 1.22.6-4 | Perl modules for dpkg | https://packages.debian.org/dpkg |
 | **dpkg-scanpackages** | 1.22.6-4 | Creates Packages index files | https://packages.debian.org/dpkg |
