@@ -7159,7 +7159,7 @@
   Description: RSS/Atom feed reader for the text console
   Homepage: https://newsboat.org/
 - Package: nginx
-  Version: 1.29.2
+  Version: 1.29.2-1
   Description: Lightweight HTTP server
   Homepage: https://www.nginx.org
 - Package: ngircd
@@ -7431,7 +7431,7 @@
   Description: Portion of openjdk-21 requiring X11 functionality
   Homepage: https://openjdk.java.net
 - Package: openjdk-25-source
-  Version: "25"
+  Version: 25.0.1
   Description: Source files for openjdk-25
   Homepage: https://openjdk.java.net
 - Package: openjpeg
@@ -8615,7 +8615,7 @@
   Description: A safe and ergonomic alternative to rm
   Homepage: https://github.com/MilesCranmer/rip2
 - Package: ripgrep
-  Version: 15.0.0
+  Version: 15.1.0
   Description: Search tool like grep and The Silver Searcher
   Homepage: https://github.com/BurntSushi/ripgrep
 - Package: ripgrep-all

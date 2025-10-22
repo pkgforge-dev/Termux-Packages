@@ -1800,7 +1800,7 @@
 | **netstandard-targeting-pack-2.1-9.0** | 9.0.9 | NETStandard.Library 2.1 Targeting Pack (.NET 9.0) | https://dotnet.microsoft.com/en-us/ |
 | **nettle** | 3.10.2-1 | Low level cryptographic tools | https://www.lysator.liu.se/~nisse/nettle/ |
 | **newsboat** | 2.41 | RSS/Atom feed reader for the text console | https://newsboat.org/ |
-| **nginx** | 1.29.2 | Lightweight HTTP server | https://www.nginx.org |
+| **nginx** | 1.29.2-1 | Lightweight HTTP server | https://www.nginx.org |
 | **ngircd** | 27-1 | Free, portable and lightweight Internet Relay Chat server | https://ngircd.barton.de/ |
 | **ngspice** | 45.2 | A mixed-level/mixed-signal circuit simulator | https://ngspice.sourceforge.net/ |
 | **nim** | 2.2.4-1 | Nim programming language compiler | https://nim-lang.org/ |
@@ -1868,7 +1868,7 @@
 | **openjdk-21** | 21.0.9 | Java development kit and runtime | https://openjdk.java.net |
 | **openjdk-21-source** | 21.0.9 | Source files for openjdk-21 | https://openjdk.java.net |
 | **openjdk-21-x** | 21.0.9 | Portion of openjdk-21 requiring X11 functionality | https://openjdk.java.net |
-| **openjdk-25-source** | 25 | Source files for openjdk-25 | https://openjdk.java.net |
+| **openjdk-25-source** | 25.0.1 | Source files for openjdk-25 | https://openjdk.java.net |
 | **openjpeg** | 2.5.4 | JPEG 2000 image compression library | https://www.openjpeg.org/ |
 | **openjpeg-tools** | 2.5.4 | Command-line tools using the JPEG 2000 library | https://www.openjpeg.org/ |
 | **openldap** | 2.6.10-1 | OpenLDAP server | https://openldap.org |
@@ -2164,7 +2164,7 @@
 | **rig** | 1.11-2 | A program that generates fake identities | https://rig.sourceforge.net/ |
 | **rinetd** | 1:0.73-2 | A user-mode TCP port redirection server | https://github.com/samhocevar/rinetd |
 | **rip2** | 0.9.5 | A safe and ergonomic alternative to rm | https://github.com/MilesCranmer/rip2 |
-| **ripgrep** | 15.0.0 | Search tool like grep and The Silver Searcher | https://github.com/BurntSushi/ripgrep |
+| **ripgrep** | 15.1.0 | Search tool like grep and The Silver Searcher | https://github.com/BurntSushi/ripgrep |
 | **ripgrep-all** | 1.0.0-alpha.5-4 | Search tool able to locate in PDFs, E-Books, zip, tar.gz, etc | https://github.com/phiresky/ripgrep-all |
 | **ripsecrets** | 0.1.11-1 | A command-line tool to prevent committing secret keys into your source code | https://github.com/sirwart/ripsecrets |
 | **rirc** | 0.1.7-2 | A terminal IRC client in C | https://github.com/rcr/rirc |
