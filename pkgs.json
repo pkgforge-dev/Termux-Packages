@@ -133,7 +133,7 @@
   },
   {
     "Package": "agg",
-    "Version": "1.6.0",
+    "Version": "1.7.0",
     "Description": "asciinema gif generator",
     "Homepage": "https://github.com/asciinema/agg"
   },
@@ -2059,7 +2059,7 @@
   },
   {
     "Package": "dnsutils",
-    "Version": "9.20.13",
+    "Version": "9.20.15",
     "Description": "Clients provided with BIND",
     "Homepage": "https://www.isc.org/bind/"
   },
@@ -8629,13 +8629,13 @@
   },
   {
     "Package": "libunbound",
-    "Version": "1.24.0",
+    "Version": "1.24.1",
     "Description": "A validating, recursive, caching DNS resolver",
     "Homepage": "https://unbound.net/"
   },
   {
     "Package": "libunbound-static",
-    "Version": "1.24.0",
+    "Version": "1.24.1",
     "Description": "Static libraries for libunbound",
     "Homepage": "https://unbound.net/"
   },
@@ -12433,7 +12433,7 @@
   },
   {
     "Package": "pyunbound",
-    "Version": "1.24.0",
+    "Version": "1.24.1",
     "Description": "Python bindings for Unbound",
     "Homepage": "https://unbound.net/"
   },
@@ -13531,7 +13531,7 @@
   },
   {
     "Package": "sing-box",
-    "Version": "1.12.10",
+    "Version": "1.12.11",
     "Description": "The universal proxy platform",
     "Homepage": "https://sing-box.sagernet.org"
   },
@@ -15007,7 +15007,7 @@
   },
   {
     "Package": "unbound",
-    "Version": "1.24.0",
+    "Version": "1.24.1",
     "Description": "Unbound command-line tools",
     "Homepage": "https://unbound.net/"
   },

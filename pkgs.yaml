@@ -87,7 +87,7 @@
   Description: A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability
   Homepage: https://github.com/FiloSottile/age
 - Package: agg
-  Version: 1.6.0
+  Version: 1.7.0
   Description: asciinema gif generator
   Homepage: https://github.com/asciinema/agg
 - Package: aha
@@ -1371,7 +1371,7 @@
   Description: A libpcap application that displays various tables of DNS traffic on your network
   Homepage: https://github.com/measurement-factory/dnstop
 - Package: dnsutils
-  Version: 9.20.13
+  Version: 9.20.15
   Description: Clients provided with BIND
   Homepage: https://www.isc.org/bind/
 - Package: docbook-xml
@@ -5751,11 +5751,11 @@
   Description: Static libraries for libudfread
   Homepage: https://code.videolan.org/videolan/libudfread/
 - Package: libunbound
-  Version: 1.24.0
+  Version: 1.24.1
   Description: A validating, recursive, caching DNS resolver
   Homepage: https://unbound.net/
 - Package: libunbound-static
-  Version: 1.24.0
+  Version: 1.24.1
   Description: Static libraries for libunbound
   Homepage: https://unbound.net/
 - Package: libunibilium
@@ -8287,7 +8287,7 @@
   Description: Static libraries for python2
   Homepage: http://python.org/
 - Package: pyunbound
-  Version: 1.24.0
+  Version: 1.24.1
   Description: Python bindings for Unbound
   Homepage: https://unbound.net/
 - Package: pzstd
@@ -9019,7 +9019,7 @@
   Description: A simple heat transfer simulator in pure Rust
   Homepage: https://github.com/file-acomplaint/simuwaerm
 - Package: sing-box
-  Version: 1.12.10
+  Version: 1.12.11
   Description: The universal proxy platform
   Homepage: https://sing-box.sagernet.org
 - Package: skate
@@ -10003,7 +10003,7 @@
   Description: Command line tools for archive and file unarchiving and extraction
   Homepage: https://theunarchiver.com/command-line
 - Package: unbound
-  Version: 1.24.0
+  Version: 1.24.1
   Description: Unbound command-line tools
   Homepage: https://unbound.net/
 - Package: unicode-data
