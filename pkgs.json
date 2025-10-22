@@ -589,7 +589,7 @@
   },
   {
     "Package": "atuin",
-    "Version": "18.9.0",
+    "Version": "18.10.0",
     "Description": "Magical shell history",
     "Homepage": "https://atuin.sh/"
   },
@@ -3451,13 +3451,13 @@
   },
   {
     "Package": "glib",
-    "Version": "2.86.0",
+    "Version": "2.86.1",
     "Description": "Library providing core building blocks for libraries and applications written in C",
     "Homepage": "https://developer.gnome.org/glib/"
   },
   {
     "Package": "glib-cross",
-    "Version": "2.86.0",
+    "Version": "2.86.1",
     "Description": "glib for host (NOT for Termux)",
     "Homepage": "https://developer.gnome.org/glib/"
   },
@@ -9979,7 +9979,7 @@
   },
   {
     "Package": "mediamtx",
-    "Version": "1.15.2",
+    "Version": "1.15.3",
     "Description": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy",
     "Homepage": "https://github.com/bluenviron/mediamtx"
   },
@@ -11125,37 +11125,37 @@
   },
   {
     "Package": "openjdk-17",
-    "Version": "17.0.16-2",
+    "Version": "17.0.17",
     "Description": "Java development kit and runtime",
     "Homepage": "https://openjdk.java.net"
   },
   {
     "Package": "openjdk-17-source",
-    "Version": "17.0.16-2",
+    "Version": "17.0.17",
     "Description": "Source files for openjdk-17",
     "Homepage": "https://openjdk.java.net"
   },
   {
     "Package": "openjdk-17-x",
-    "Version": "17.0.16-2",
+    "Version": "17.0.17",
     "Description": "Portion of openjdk-17 requiring X11 functionality",
     "Homepage": "https://openjdk.java.net"
   },
   {
     "Package": "openjdk-21",
-    "Version": "21.0.8-2",
+    "Version": "21.0.9",
     "Description": "Java development kit and runtime",
     "Homepage": "https://openjdk.java.net"
   },
   {
     "Package": "openjdk-21-source",
-    "Version": "21.0.8-2",
+    "Version": "21.0.9",
     "Description": "Source files for openjdk-21",
     "Homepage": "https://openjdk.java.net"
   },
   {
     "Package": "openjdk-21-x",
-    "Version": "21.0.8-2",
+    "Version": "21.0.9",
     "Description": "Portion of openjdk-21 requiring X11 functionality",
     "Homepage": "https://openjdk.java.net"
   },
@@ -11581,7 +11581,7 @@
   },
   {
     "Package": "pdfcpu",
-    "Version": "0.11.0-1",
+    "Version": "0.11.1",
     "Description": "A PDF processor written in Go",
     "Homepage": "https://pdfcpu.io"
   },
@@ -12685,7 +12685,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "4.10.0",
+    "Version": "4.11.0",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -13375,7 +13375,7 @@
   },
   {
     "Package": "sendme",
-    "Version": "0.29.0",
+    "Version": "0.30.0",
     "Description": "A tool to send files and directories, based on iroh",
     "Homepage": "https://github.com/n0-computer/sendme"
   },
