@@ -826,7 +826,7 @@
 | **knockd** | 0.8.2-2 | A port-knocking daemon | https://zeroflux.org/projects/knock |
 | **knot-utils** | 3.2.4-2 | Knot DNS utilities | https://www.knot-dns.cz/ |
 | **kona** | 20211225-1 | Open-source implementation of the APL-like K programming language | https://github.com/kevinlawler/kona |
-| **kotlin** | 2.2.20 | The Kotlin Programming Language | https://kotlinlang.org/ |
+| **kotlin** | 2.2.21 | The Kotlin Programming Language | https://kotlinlang.org/ |
 | **krb5** | 1.22.1-1 | The Kerberos network authentication system | https://web.mit.edu/kerberos |
 | **kubecolor** | 0.5.2 | Colorize your kubectl output | https://github.com/kubecolor/kubecolor |
 | **kubectl** | 1.34.1 | Kubernetes.io client binary | https://kubernetes.io/ |
