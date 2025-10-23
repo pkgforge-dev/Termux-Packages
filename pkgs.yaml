@@ -3071,7 +3071,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.24.170
+  Version: 0.24.175
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -3323,7 +3323,7 @@
   Description: Static libraries for ldns
   Homepage: https://www.nlnetlabs.nl/projects/ldns/
 - Package: ledger
-  Version: 3.3.2-6
+  Version: 3.4.0
   Description: Powerful, double-entry accounting system
   Homepage: https://www.ledger-cli.org
 - Package: leptonica
@@ -5067,11 +5067,11 @@
   Description: A C++ API for Pango
   Homepage: https://www.gtkmm.org/
 - Package: libpano13
-  Version: 2.9.22-2
+  Version: 2.9.23
   Description: Part of the Panorama Tools by Helmut Dersch
   Homepage: https://panotools.sourceforge.net/
 - Package: libpano13-static
-  Version: 2.9.22-2
+  Version: 2.9.23
   Description: Static libraries for libpano13
   Homepage: https://panotools.sourceforge.net/
 - Package: libpaper
@@ -6727,7 +6727,7 @@
   Description: A server software with the aim of being fully compliant with DLNA/UPnP-AV clients
   Homepage: https://sourceforge.net/projects/minidlna/
 - Package: miniflux
-  Version: 2.2.13
+  Version: 2.2.14
   Description: A minimalist and opinionated feed reader
   Homepage: https://miniflux.app/
 - Package: minimodem
@@ -7327,7 +7327,7 @@
   Description: The GNU Spreadsheet
   Homepage: https://www.gnu.org/software/oleo/
 - Package: oma
-  Version: 1.22.3
+  Version: 1.22.4
   Description: oma is an attempt at reworking APTs interface
   Homepage: https://aosc.io/oma
 - Package: onefetch

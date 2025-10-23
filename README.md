@@ -778,7 +778,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4-1 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-2 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.24.170 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.24.175 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **jadx** | 1.5.3 | Dex to Java decompiler | https://github.com/skylot/jadx |
 | **jadx-x** | 1.5.3 | Dex to Java decompiler GUI | https://github.com/skylot/jadx |
 | **janet** | 1.39.1 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
@@ -841,7 +841,7 @@
 | **ldd** | 0.3 | Fake ldd command | https://github.com/termux/termux-packages |
 | **ldns** | 1.8.4-1 | Library for simplifying DNS programming and supporting recent and experimental RFCs | https://www.nlnetlabs.nl/projects/ldns/ |
 | **ldns-static** | 1.8.4-1 | Static libraries for ldns | https://www.nlnetlabs.nl/projects/ldns/ |
-| **ledger** | 3.3.2-6 | Powerful, double-entry accounting system | https://www.ledger-cli.org |
+| **ledger** | 3.4.0 | Powerful, double-entry accounting system | https://www.ledger-cli.org |
 | **leptonica** | 1.86.0 | Library for image processing and image analysis | http://www.leptonica.com/ |
 | **leptonica-static** | 1.86.0 | Static libraries for leptonica | http://www.leptonica.com/ |
 | **less** | 685 | Terminal pager program used to view the contents of a text file one screen at a time | https://www.greenwoodsoftware.com/less/ |
@@ -1277,8 +1277,8 @@
 | **libpagmo** | 2.19.1-3 | Scientific library for massively parallel optimization | https://esa.github.io/pagmo2/index.html |
 | **libpangomm-1.4** | 2.46.4-1 | A C++ API for Pango | https://www.gtkmm.org/ |
 | **libpangomm-2.48** | 2.56.1-1 | A C++ API for Pango | https://www.gtkmm.org/ |
-| **libpano13** | 2.9.22-2 | Part of the Panorama Tools by Helmut Dersch | https://panotools.sourceforge.net/ |
-| **libpano13-static** | 2.9.22-2 | Static libraries for libpano13 | https://panotools.sourceforge.net/ |
+| **libpano13** | 2.9.23 | Part of the Panorama Tools by Helmut Dersch | https://panotools.sourceforge.net/ |
+| **libpano13-static** | 2.9.23 | Static libraries for libpano13 | https://panotools.sourceforge.net/ |
 | **libpaper** | 2.2.6-1 | Library for handling paper characteristics (by @rrthomas) | https://github.com/rrthomas/psutils |
 | **libpaper-static** | 2.2.6-1 | Static libraries for libpaper | https://github.com/rrthomas/psutils |
 | **libpcap** | 1.10.5-1 | Library for network traffic capture | https://www.tcpdump.org |
@@ -1692,7 +1692,7 @@
 | **minesweeper** | 0.3.1-4 | A simple terminal-based implementation of Minesweeper | https://github.com/benhsm/minesweeper |
 | **minicom** | 2.10-1 | Friendly menu driven serial communication program | https://salsa.debian.org/minicom-team/minicom |
 | **minidlna** | 1.3.3-3 | A server software with the aim of being fully compliant with DLNA/UPnP-AV clients | https://sourceforge.net/projects/minidlna/ |
-| **miniflux** | 2.2.13 | A minimalist and opinionated feed reader | https://miniflux.app/ |
+| **miniflux** | 2.2.14 | A minimalist and opinionated feed reader | https://miniflux.app/ |
 | **minimodem** | 0.24-1-1 | General-purpose software audio FSK modem | http://www.whence.com/minimodem/ |
 | **minio** | 2025.10.15.17.29.55 | Multi-Cloud Object Storage | https://min.io/ |
 | **miniserve** | 0.32.0 | Tool to serve files and dirs over HTTP | https://github.com/svenstaro/miniserve |
@@ -1842,7 +1842,7 @@
 | **okc-agents** | 0.1.2-2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.6-3 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-10 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
-| **oma** | 1.22.3 | oma is an attempt at reworking APT's interface | https://aosc.io/oma |
+| **oma** | 1.22.4 | oma is an attempt at reworking APT's interface | https://aosc.io/oma |
 | **onefetch** | 2.25.0-1 | A command-line Git information tool written in Rust | https://onefetch.dev/ |
 | **onigmo** | 6.2.0-1 | A regular expressions library forked from Oniguruma | https://github.com/k-takata/Onigmo |
 | **onigmo-static** | 6.2.0-1 | Static libraries for onigmo | https://github.com/k-takata/Onigmo |
