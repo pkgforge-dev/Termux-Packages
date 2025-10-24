@@ -233,7 +233,7 @@
 | **ckermit** | 9.0.302-3 | A combined network and serial communication software package | https://www.kermitproject.org/ckermit.html |
 | **clamav** | 1.4.3 | Anti-virus toolkit for Unix | https://www.clamav.net/ |
 | **clamav-static** | 1.4.3 | Static libraries for clamav | https://www.clamav.net/ |
-| **clang** | 21.1.3-1 | C language frontend for LLVM | https://clang.llvm.org/ |
+| **clang** | 21.1.4 | C language frontend for LLVM | https://clang.llvm.org/ |
 | **clblast** | 1.6.3-1 | Tuned OpenCL BLAS | https://github.com/CNugteren/CLBlast |
 | **cliaoke** | 0.2.4-5 | Command line karaoke | https://github.com/jessfraz/cliaoke |
 | **clidle** | 2022.05.25-3 | Play Wordle over SSH | https://github.com/ajeetdsouza/clidle |
@@ -417,6 +417,7 @@
 | **eltclsh** | 1.20-1 | Interactive shell for TCL programming language | https://homepages.laas.fr/mallet/soft/shell/eltclsh |
 | **elvish** | 0.21.0-1 | A friendly and expressive Unix shell | https://github.com/elves/elvish |
 | **emacs** | 30.2 | Extensible, customizable text editor-and more | https://www.gnu.org/software/emacs/ |
+| **emmylua-ls** | 0.16.0 | Emmy Lua Language Server coded in Rust | https://github.com/EmmyLuaLs/emmylua-analyzer-rust |
 | **emscripten** | 4.0.17 | Emscripten: An LLVM-to-WebAssembly Compiler | https://emscripten.org |
 | **emscripten-binaryen** | 4.0.17 | Emscripten-compatible Binaryen | https://emscripten.org |
 | **emscripten-llvm** | 4.0.17 | Emscripten-compatible LLVM | https://emscripten.org |
@@ -939,7 +940,7 @@
 | **libcoinor-utils** | 1:2.11.11-1 | An open-source collection of classes and helper functions for COIN-OR projects | https://github.com/coin-or/CoinUtils |
 | **libcoinor-utils-static** | 1:2.11.11-1 | Static libraries for libcoinor-utils | https://github.com/coin-or/CoinUtils |
 | **libcommons-lang3-java** | 3.19.0 | A host of helper utilities for the java.lang API | https://commons.apache.org/proper/commons-lang/ |
-| **libcompiler-rt** | 21.1.3-1 | Compiler runtime libraries for clang | https://clang.llvm.org/ |
+| **libcompiler-rt** | 21.1.4 | Compiler runtime libraries for clang | https://clang.llvm.org/ |
 | **libconfig** | 1.8.1-1 | C/C++ Configuration File Library | https://github.com/hyperrealm/libconfig |
 | **libconfig-static** | 1.8.1-1 | Static libraries for libconfig | https://github.com/hyperrealm/libconfig |
 | **libconfuse** | 3.3-1 | Small configuration file parser library for C | https://github.com/martinh/libconfuse |
@@ -1121,8 +1122,8 @@
 | **liblightning-static** | 2.2.3-1 | Static libraries for liblightning | https://www.gnu.org/software/lightning/ |
 | **libliquid-dsp** | 1.7.0-1 | Software-defined radio digital signal processing library | https://liquidsdr.org/ |
 | **libliquid-dsp-static** | 1.7.0-1 | Static libraries for libliquid-dsp | https://liquidsdr.org/ |
-| **libllvm** | 21.1.3-1 | Modular compiler and toolchain technologies library | https://clang.llvm.org/ |
-| **libllvm-static** | 21.1.3-1 | Static libraries for libllvm | https://clang.llvm.org/ |
+| **libllvm** | 21.1.4 | Modular compiler and toolchain technologies library | https://clang.llvm.org/ |
+| **libllvm-static** | 21.1.4 | Static libraries for libllvm | https://clang.llvm.org/ |
 | **liblmdb** | 0.9.33-1 | LMDB implements a simplified variant of the BerkeleyDB (BDB) API | https://symas.com/lmdb/ |
 | **liblmdb-static** | 0.9.33-1 | Static libraries for liblmdb | https://symas.com/lmdb/ |
 | **liblo** | 0.33 | A lightweight library that provides an easy to use implementation of the OSC protocol | https://liblo.sourceforge.net/ |
@@ -1288,7 +1289,7 @@
 | **libpngwriter** | 0.7.0-1 | C++ library for creating PNG images | https://pngwriter.sourceforge.net |
 | **libpngwriter-static** | 0.7.0-1 | Static libraries for libpngwriter | https://pngwriter.sourceforge.net |
 | **libpoco** | 1.14.2-1 | A comprehensive set of C++ libraries that cover all modern-day programming needs | https://pocoproject.org/ |
-| **libpolly** | 21.1.3-1 | High-level loop and data-locality optimizer for clang | https://clang.llvm.org/ |
+| **libpolly** | 21.1.4 | High-level loop and data-locality optimizer for clang | https://clang.llvm.org/ |
 | **libpopt** | 1.19-3 | Library for parsing cmdline parameters | https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html |
 | **libpopt-static** | 1.19-3 | Static libraries for libpopt | https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html |
 | **libprotobuf** | 2:32.0 | Protocol buffers C++ library | https://github.com/protocolbuffers/protobuf |
@@ -1561,15 +1562,15 @@
 | **littlecms-static** | 2.17-1 | Static libraries for littlecms | http://www.littlecms.com/ |
 | **littlecms-utils** | 2.17-1 | Color management utilities | http://www.littlecms.com/ |
 | **llbuild** | 6.1-1 | A low-level build system, used by the Swift Package Manager | https://github.com/swiftlang/swift-llbuild |
-| **lld** | 21.1.3-1 | LLVM-based linker | https://clang.llvm.org/ |
-| **lldb** | 21.1.3-1 | LLVM-based debugger | https://clang.llvm.org/ |
-| **llvm** | 21.1.3-1 | LLVM modular compiler and toolchain executables | https://clang.llvm.org/ |
+| **lld** | 21.1.4 | LLVM-based linker | https://clang.llvm.org/ |
+| **lldb** | 21.1.4 | LLVM-based debugger | https://clang.llvm.org/ |
+| **llvm** | 21.1.4 | LLVM modular compiler and toolchain executables | https://clang.llvm.org/ |
 | **llvm-mingw-w64** | 20251007 | MinGW-w64 toolchain based on LLVM | https://github.com/mstorsjo/llvm-mingw |
 | **llvm-mingw-w64-libcompiler-rt** | 20251007 | Compiler runtime libraries for LLVM-MinGW | https://github.com/mstorsjo/llvm-mingw |
 | **llvm-mingw-w64-tools** | 12.0.0-1 | MinGW-w64 tools for LLVM-MinGW | https://github.com/mstorsjo/llvm-mingw |
 | **llvm-mingw-w64-ucrt** | 20251007 | MinGW-w64 runtime for LLVM-MinGW | https://github.com/mstorsjo/llvm-mingw |
-| **llvm-tools** | 21.1.3-1 | LLVM Development Tools | https://clang.llvm.org/ |
-| **llvmgold** | 21.1.3-1 | LLVM gold plugin | https://clang.llvm.org/ |
+| **llvm-tools** | 21.1.4 | LLVM Development Tools | https://clang.llvm.org/ |
+| **llvmgold** | 21.1.4 | LLVM gold plugin | https://clang.llvm.org/ |
 | **lnav** | 0.13.2 | An advanced log file viewer for the small-scale | https://lnav.org/ |
 | **lnd** | 0.17.0-beta-1 | Lightning Network Daemon | https://github.com/lightningnetwork/lnd |
 | **logo-ls** | 2024.07.17-1 | Modern ls command with vscode like File Icon and Git Integrations | https://github.com/Yash-Handa/logo-ls |
@@ -1693,7 +1694,7 @@
 | **mkp224o** | 1.7.0-1 | Generate vanity ed25519 (hidden service version 3) onion addresses | https://github.com/cathugger/mkp224o |
 | **mksh** | 59c-3 | The MirBSD Korn Shell - an enhanced version of the public domain ksh | http://www.mirbsd.org/mksh.htm |
 | **mktorrent** | 1.1-p20210130-1 | command line utility to create BitTorrent metainfo files | https://github.com/Rudde/mktorrent |
-| **mlir** | 21.1.3-1 | A Multi-Level Intermediate Representation for compilers from LLVM | https://clang.llvm.org/ |
+| **mlir** | 21.1.4 | A Multi-Level Intermediate Representation for compilers from LLVM | https://clang.llvm.org/ |
 | **mlocate** | 0.26-6 | Tool to find files anywhere in the filesystem based on their name | https://pagure.io/mlocate |
 | **mold** | 2.40.4 | mold: A Modern Linker | https://github.com/rui314/mold |
 | **monero** | 0.18.4.3 | A private, secure, untraceable, decentralised digital currency | https://getmonero.org/ |
@@ -1753,7 +1754,7 @@
 | **navidrome** | 0.58.0-1 | 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic | https://www.navidrome.org/ |
 | **ncdc** | 1.25-1 | Modern and lightweight direct connect client with a friendly ncurses interface | https://dev.yorhel.nl/ncdc |
 | **ncdu** | 1.22-1 | Disk usage analyzer | https://dev.yorhel.nl/ncdu |
-| **ncdu2** | 2.9.1 | Disk usage analyzer | https://dev.yorhel.nl/ncdu |
+| **ncdu2** | 2.9.2 | Disk usage analyzer | https://dev.yorhel.nl/ncdu |
 | **ncftp** | 3.3.0-1 | A free set of programs that use the File Transfer Protocol | https://www.ncftp.com/ |
 | **ncmpcpp** | 0.10.1-6 | NCurses Music Player Client (Plus Plus) | https://rybczak.net/ncmpcpp/ |
 | **ncompress** | 5.0-1 | The classic unix compression utility which can handle the ancient .Z archive | https://github.com/vapier/ncompress |
@@ -1826,7 +1827,7 @@
 | **octomap** | 1.10.0-1 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0-1 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-5 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 27.3.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 27.3.1 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **okc-agents** | 0.1.2-2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.6-3 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-10 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
