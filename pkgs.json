@@ -3907,7 +3907,7 @@
   },
   {
     "Package": "groonga",
-    "Version": "15.1.7",
+    "Version": "15.1.7-1",
     "Description": "An embeddable fulltext search engine",
     "Homepage": "https://github.com/groonga/groonga/"
   },
@@ -5281,7 +5281,7 @@
   },
   {
     "Package": "libarrow-cpp",
-    "Version": "21.0.0-3",
+    "Version": "22.0.0",
     "Description": "C++ libraries for Apache Arrow",
     "Homepage": "https://github.com/apache/arrow"
   },
@@ -12337,7 +12337,7 @@
   },
   {
     "Package": "python-pyarrow",
-    "Version": "21.0.0-3",
+    "Version": "22.0.0",
     "Description": "Python bindings for Apache Arrow",
     "Homepage": "https://github.com/apache/arrow"
   },
@@ -13237,7 +13237,7 @@
   },
   {
     "Package": "sabnzbd",
-    "Version": "4.5.4",
+    "Version": "4.5.5",
     "Description": "Fully automated Usenet Binary Downloader",
     "Homepage": "https://sabnzbd.org/"
   },

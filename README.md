@@ -661,7 +661,7 @@
 | **grex** | 1.4.5-1 | Simplifies the task of creating regular expressions | https://github.com/pemistahl/grex |
 | **groff** | 1.23.0-2 | typesetting system that reads plain text mixed with formatting commands and produces formatted output | https://www.gnu.org/software/groff/ |
 | **gron** | 0.7.1-4 | Transforms JSON into discrete assignments | https://github.com/tomnomnom/gron |
-| **groonga** | 15.1.7 | An embeddable fulltext search engine | https://github.com/groonga/groonga/ |
+| **groonga** | 15.1.7-1 | An embeddable fulltext search engine | https://github.com/groonga/groonga/ |
 | **groovy** | 4.0.26-4 | A powerful multi-faceted programming language for the JVM platform | https://groovy-lang.org/ |
 | **gsasl** | 2.2.2-1 | GNU SASL library command line interface | https://www.gnu.org/software/gsasl |
 | **gsf-tools** | 1.14.53-2 | Command-line tools for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
@@ -890,7 +890,7 @@
 | **libapt-pkg-perl** | 0.1.40-13 | Perl interface to APT's libapt-pkg | https://packages.debian.org/libapt-pkg-perl |
 | **libarchive** | 3.8.2 | Multi-format archive and compression library | https://www.libarchive.org/ |
 | **libarchive-static** | 3.8.2 | Static libraries for libarchive | https://www.libarchive.org/ |
-| **libarrow-cpp** | 21.0.0-3 | C++ libraries for Apache Arrow | https://github.com/apache/arrow |
+| **libarrow-cpp** | 22.0.0 | C++ libraries for Apache Arrow | https://github.com/apache/arrow |
 | **libasio** | 1.24.0-3 | Cross-platform C++ library for network and low-level I/O programming | https://think-async.com/Asio |
 | **libasm** | 0.193-1 | Library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |
 | **libasm-static** | 0.193-1 | Static library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |
@@ -2066,7 +2066,7 @@
 | **python-onnxruntime** | 1.22.2-4 | Cross-platform, high performance ML inferencing and training accelerator | https://onnxruntime.ai/ |
 | **python-pillow** | 11.1.0-2 | Python Imaging Library | https://python-pillow.org/ |
 | **python-pip** | 25.2 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
-| **python-pyarrow** | 21.0.0-3 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
+| **python-pyarrow** | 22.0.0 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
 | **python-pycryptodomex** | 3.23.0-1 | A self-contained Python package of low-level cryptographic primitives | https://www.pycryptodome.org/ |
 | **python-pynvim** | 0.6.0 | Python client for Neovim | https://github.com/neovim/pynvim |
 | **python-ruff** | 0.14.2 | An extremely fast Python linter, written in Rust (Python bindings) | https://github.com/charliermarsh/ruff |
@@ -2216,7 +2216,7 @@
 | **rustscan** | 2.4.1-1 | The modern,fast,smart and effective port scanner | https://rustscan.github.io/RustScan |
 | **rw** | 1.0.1-1 | A Rust implementation of sponge(1) that never write to TMPDIR | https://github.com/jridgewell/rw |
 | **rxfetch** | 2023.01.07 | A custom system info fetching tool | https://github.com/Mangeshrex/rxfetch |
-| **sabnzbd** | 4.5.4 | Fully automated Usenet Binary Downloader | https://sabnzbd.org/ |
+| **sabnzbd** | 4.5.5 | Fully automated Usenet Binary Downloader | https://sabnzbd.org/ |
 | **salty-chat** | 0.0.22-p20251006-0 | A secure, easy, self-hosted messaging | https://salty.im/ |
 | **samba** | 4.16.11-5 | SMB/CIFS fileserver | https://www.samba.org/ |
 | **samefile** | 2.15-6 | Finds files with identical contents, independent of file name | http://www.schweikhardt.net/samefile/ |
