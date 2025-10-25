@@ -5683,7 +5683,7 @@
   Description: Generic library support script hiding the complexity of using shared libraries behind a consistent, portable interface
   Homepage: https://www.gnu.org/software/libtool/
 - Package: libtorrent
-  Version: 0.15.6
+  Version: 0.16.1
   Description: Libtorrent BitTorrent library
   Homepage: https://github.com/rakshasa/rtorrent/wiki
 - Package: libtorrent-rasterbar
@@ -5691,7 +5691,7 @@
   Description: A feature complete C++ bittorrent implementation focusing on efficiency and scalability
   Homepage: https://libtorrent.org/
 - Package: libtorrent-static
-  Version: 0.15.6
+  Version: 0.16.1
   Description: Static libraries for libtorrent
   Homepage: https://github.com/rakshasa/rtorrent/wiki
 - Package: libtpms
@@ -8703,7 +8703,7 @@
   Description: Static libraries for rtmpdump
   Homepage: https://rtmpdump.mplayerhq.hu/
 - Package: rtorrent
-  Version: 0.15.6
+  Version: 0.16.1
   Description: Ncurses BitTorrent client based on libTorrent
   Homepage: https://rakshasa.github.io/rtorrent/
 - Package: rubberband
@@ -9275,7 +9275,7 @@
   Description: Streaming bar graphs. For stats and stuff.
   Homepage: https://github.com/seenaburns/stag
 - Package: starship
-  Version: 1.23.0-1
+  Version: 1.24.0
   Description: A minimal, blazing fast, and extremely customizable prompt for any shell
   Homepage: https://starship.rs
 - Package: stdman
@@ -9679,7 +9679,7 @@
   Description: Wrapper around texlives install-tl script
   Homepage: https://www.tug.org/texlive/
 - Package: tgpt
-  Version: 2.10.0-1
+  Version: 2.10.1
   Description: AI Chatbots in terminal without needing API keys
   Homepage: https://github.com/aandrew-me/tgpt
 - Package: thrift

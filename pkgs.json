@@ -8527,7 +8527,7 @@
   },
   {
     "Package": "libtorrent",
-    "Version": "0.15.6",
+    "Version": "0.16.1",
     "Description": "Libtorrent BitTorrent library",
     "Homepage": "https://github.com/rakshasa/rtorrent/wiki"
   },
@@ -8539,7 +8539,7 @@
   },
   {
     "Package": "libtorrent-static",
-    "Version": "0.15.6",
+    "Version": "0.16.1",
     "Description": "Static libraries for libtorrent",
     "Homepage": "https://github.com/rakshasa/rtorrent/wiki"
   },
@@ -13057,7 +13057,7 @@
   },
   {
     "Package": "rtorrent",
-    "Version": "0.15.6",
+    "Version": "0.16.1",
     "Description": "Ncurses BitTorrent client based on libTorrent",
     "Homepage": "https://rakshasa.github.io/rtorrent/"
   },
@@ -13915,7 +13915,7 @@
   },
   {
     "Package": "starship",
-    "Version": "1.23.0-1",
+    "Version": "1.24.0",
     "Description": "A minimal, blazing fast, and extremely customizable prompt for any shell",
     "Homepage": "https://starship.rs"
   },
@@ -14521,7 +14521,7 @@
   },
   {
     "Package": "tgpt",
-    "Version": "2.10.0-1",
+    "Version": "2.10.1",
     "Description": "AI Chatbots in terminal without needing API keys",
     "Homepage": "https://github.com/aandrew-me/tgpt"
   },
