@@ -2279,7 +2279,7 @@
   Description: Git branches made easy
   Homepage: https://www.git-town.com
 - Package: gitea
-  Version: 1.24.6
+  Version: 1.24.7
   Description: Git with a cup of tea, painless self-hosted git service
   Homepage: https://gitea.io
 - Package: gitflow-avh
@@ -3075,7 +3075,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.24.179
+  Version: 0.24.185
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -4511,11 +4511,11 @@
   Description: Static libraries for liblmdb
   Homepage: https://symas.com/lmdb/
 - Package: liblo
-  Version: "0.33"
+  Version: "0.34"
   Description: A lightweight library that provides an easy to use implementation of the OSC protocol
   Homepage: https://liblo.sourceforge.net/
 - Package: liblo-static
-  Version: "0.33"
+  Version: "0.34"
   Description: Static libraries for liblo
   Homepage: https://liblo.sourceforge.net/
 - Package: liblog4c
@@ -8219,7 +8219,7 @@
   Description: Python Imaging Library
   Homepage: https://python-pillow.org/
 - Package: python-pip
-  Version: "25.2"
+  Version: "25.3"
   Description: The PyPA recommended tool for installing Python packages
   Homepage: https://pip.pypa.io/
 - Package: python-pyarrow

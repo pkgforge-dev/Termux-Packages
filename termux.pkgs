@@ -568,7 +568,7 @@
 | **git-sizer** | 1.5.0-5 | Compute various size metrics for a Git repository | https://github.com/github/git-sizer |
 | **git-svn** | 2.51.1 | Convert between Git and Subversion repositories | https://git-scm.com/ |
 | **git-town** | 22.1.0 | Git branches made easy | https://www.git-town.com |
-| **gitea** | 1.24.6 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
+| **gitea** | 1.24.7 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
 | **gitflow-avh** | 1.12.3-9 | Extend git with Vincent Driessen's branching model. The AVH Edition adds more functionality. | https://github.com/petervanderdoes/gitflow/ |
 | **gitoxide** | 0.46.0 | Rust implementation of Git | https://github.com/Byron/gitoxide |
 | **gitui** | 0.27.0-3 | Blazing fast terminal-ui for git written in rust | https://github.com/extrawurst/gitui |
@@ -767,7 +767,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4-1 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-2 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.24.179 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.24.185 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **jadx** | 1.5.3 | Dex to Java decompiler | https://github.com/skylot/jadx |
 | **jadx-x** | 1.5.3 | Dex to Java decompiler GUI | https://github.com/skylot/jadx |
 | **janet** | 1.39.1 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
@@ -1126,8 +1126,8 @@
 | **libllvm-static** | 21.1.4 | Static libraries for libllvm | https://clang.llvm.org/ |
 | **liblmdb** | 0.9.33-1 | LMDB implements a simplified variant of the BerkeleyDB (BDB) API | https://symas.com/lmdb/ |
 | **liblmdb-static** | 0.9.33-1 | Static libraries for liblmdb | https://symas.com/lmdb/ |
-| **liblo** | 0.33 | A lightweight library that provides an easy to use implementation of the OSC protocol | https://liblo.sourceforge.net/ |
-| **liblo-static** | 0.33 | Static libraries for liblo | https://liblo.sourceforge.net/ |
+| **liblo** | 0.34 | A lightweight library that provides an easy to use implementation of the OSC protocol | https://liblo.sourceforge.net/ |
+| **liblo-static** | 0.34 | Static libraries for liblo | https://liblo.sourceforge.net/ |
 | **liblog4c** | 1.2.4-2 | A C library for flexible logging to files, syslog and other destinations | https://log4c.sourceforge.net/ |
 | **liblog4c-static** | 1.2.4-2 | Static libraries for liblog4c | https://log4c.sourceforge.net/ |
 | **liblog4cxx** | 1.0.0-2 | A logging framework for C++ patterned after Apache log4j | https://logging.apache.org/log4cxx/latest_stable/index.html |
@@ -2053,7 +2053,7 @@
 | **python-numpy-static** | 2.2.5-1 | Static libraries for python-numpy | https://numpy.org/ |
 | **python-onnxruntime** | 1.22.2-4 | Cross-platform, high performance ML inferencing and training accelerator | https://onnxruntime.ai/ |
 | **python-pillow** | 11.1.0-2 | Python Imaging Library | https://python-pillow.org/ |
-| **python-pip** | 25.2 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
+| **python-pip** | 25.3 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
 | **python-pyarrow** | 22.0.0 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
 | **python-pycryptodomex** | 3.23.0-1 | A self-contained Python package of low-level cryptographic primitives | https://www.pycryptodome.org/ |
 | **python-pynvim** | 0.6.0 | Python client for Neovim | https://github.com/neovim/pynvim |
