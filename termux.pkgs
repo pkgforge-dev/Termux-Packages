@@ -1217,8 +1217,8 @@
 | **libnfs** | 6.0.2-1 | NFS client library | https://github.com/sahlberg/libnfs |
 | **libnftnl** | 1.3.0 | Netfilter library providing interface to the nf_tables subsystem | https://www.netfilter.org/projects/libnftnl/ |
 | **libnftnl-static** | 1.3.0 | Static libraries for libnftnl | https://www.netfilter.org/projects/libnftnl/ |
-| **libnghttp2** | 1.67.1 | nghttp HTTP 2.0 library | https://nghttp2.org/ |
-| **libnghttp2-static** | 1.67.1 | Static libraries for libnghttp2 | https://nghttp2.org/ |
+| **libnghttp2** | 1.68.0 | nghttp HTTP 2.0 library | https://nghttp2.org/ |
+| **libnghttp2-static** | 1.68.0 | Static libraries for libnghttp2 | https://nghttp2.org/ |
 | **libnghttp3** | 1.12.0 | HTTP/3 library written in C | https://nghttp2.org/nghttp3/ |
 | **libnghttp3-static** | 1.12.0 | Static libraries for libnghttp3 | https://nghttp2.org/nghttp3/ |
 | **libnl** | 3.11.0-1 | Collection of libraries providing APIs to netlink protocol based Linux kernel interfaces | https://github.com/thom311/libnl |
@@ -1703,7 +1703,7 @@
 | **mono-static** | 6.14.1-2 | Static libraries for mono | https://gitlab.winehq.org/mono/mono |
 | **monolith** | 2.10.1-1 | CLI tool for saving complete web pages as a single HTML file | https://github.com/Y2Z/monolith |
 | **moon-buggy** | 1.0.51-6 | Simple game where you drive a car across the moon's surface | https://github.com/seehuhn/moon-buggy |
-| **moor** | 2.6.1 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moor |
+| **moor** | 2.7.0 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moor |
 | **mop** | 2025.03.17-1 | Stock market tracker | https://github.com/mop-tracker/mop |
 | **moreutils** | 0.70-1 | A growing collection of the unix tools that nobody thought to write thirty years ago | https://joeyh.name/code/moreutils/ |
 | **moria** | 5.7.15-6 | Rogue-like game with an infinite dungeon | https://umoria.org |
@@ -2493,7 +2493,7 @@
 | **tvheadend-data** | 4.2.8-12 | Platform-independent data for tvheadend | https://tvheadend.org/ |
 | **tweego** | 2.1.1-4 | A free command line compiler for Twine/Twee story formats | https://bitbucket.org/tmedwards/tweego |
 | **twolame** | 0.4.0-1 | The frontend for libtwolame | https://www.twolame.org/ |
-| **typst** | 0.13.1-1 | A new markup-based typesetting system that is powerful and easy to learn | https://typst.app/ |
+| **typst** | 0.14.0 | A new markup-based typesetting system that is powerful and easy to learn | https://typst.app/ |
 | **typstfmt** | 0.2.10-1 | basic formatter for the Typst language | https://github.com/astrale-sharp/typstfmt |
 | **uchardet** | 0.0.8-2 | An encoding detector utility | https://www.freedesktop.org/wiki/Software/uchardet/ |
 | **udftools** | 2.3-1 | Linux tools for UDF filesystems and DVD/CD-R(W) drives | https://github.com/pali/udftools |

@@ -7315,13 +7315,13 @@
   },
   {
     "Package": "libnghttp2",
-    "Version": "1.67.1",
+    "Version": "1.68.0",
     "Description": "nghttp HTTP 2.0 library",
     "Homepage": "https://nghttp2.org/"
   },
   {
     "Package": "libnghttp2-static",
-    "Version": "1.67.1",
+    "Version": "1.68.0",
     "Description": "Static libraries for libnghttp2",
     "Homepage": "https://nghttp2.org/"
   },
@@ -10231,7 +10231,7 @@
   },
   {
     "Package": "moor",
-    "Version": "2.6.1",
+    "Version": "2.7.0",
     "Description": "A pager designed to just do the right thing without any configuration",
     "Homepage": "https://github.com/walles/moor"
   },
@@ -14971,7 +14971,7 @@
   },
   {
     "Package": "typst",
-    "Version": "0.13.1-1",
+    "Version": "0.14.0",
     "Description": "A new markup-based typesetting system that is powerful and easy to learn",
     "Homepage": "https://typst.app/"
   },
