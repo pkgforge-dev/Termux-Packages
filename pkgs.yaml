@@ -1351,7 +1351,7 @@
   Description: Camera RAW to DNG file format converter
   Homepage: https://github.com/dnglab/dnglab
 - Package: dnote
-  Version: 1:0.15.4
+  Version: 1:0.15.5
   Description: A simple command line notebook for programmers
   Homepage: https://www.getdnote.com/
 - Package: dnote-server
@@ -2951,11 +2951,11 @@
   Description: A command line id3v2 tag editor
   Homepage: https://id3v2.sourceforge.net/
 - Package: imagemagick
-  Version: 7.1.2.7
+  Version: 7.1.2.8
   Description: Suite to create, edit, compose, or convert images in a variety of formats
   Homepage: https://www.imagemagick.org/
 - Package: imagemagick-static
-  Version: 7.1.2.7
+  Version: 7.1.2.8
   Description: Static libraries for imagemagick
   Homepage: https://www.imagemagick.org/
 - Package: imath
@@ -7331,7 +7331,7 @@
   Description: The GNU Spreadsheet
   Homepage: https://www.gnu.org/software/oleo/
 - Package: oma
-  Version: 1.22.4
+  Version: 1.22.5
   Description: oma is an attempt at reworking APTs interface
   Homepage: https://aosc.io/oma
 - Package: onefetch

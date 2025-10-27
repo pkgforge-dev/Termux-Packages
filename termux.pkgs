@@ -336,7 +336,7 @@
 | **dmagnetic** | 0.37-1 | Interpreter for classic text adventure games and interactive fiction | https://dettus.net/dMagnetic |
 | **dmtx-utils** | 0.7.6-1 | A command line interface for libdmtx | https://github.com/dmtx/dmtx-utils |
 | **dnglab** | 0.7.1 | Camera RAW to DNG file format converter | https://github.com/dnglab/dnglab |
-| **dnote** | 1:0.15.4 | A simple command line notebook for programmers | https://www.getdnote.com/ |
+| **dnote** | 1:0.15.5 | A simple command line notebook for programmers | https://www.getdnote.com/ |
 | **dnote-server** | 2.1.1-3 | This package contains the Dnote server. It comprises of the web interface, the web API, and the background jobs. | https://www.getdnote.com/ |
 | **dns2tcp** | 0.5.2-2 | dns2tcp is a tool for relaying TCP connections over DNS | https://github.com/alex-sector/dns2tcp |
 | **dnslookup** | 1.11.1-2 | Simple command line utility to make DNS lookups. Supports all known DNS protocols: plain DNS, DoH, DoT, DoQ, DNSCrypt. | https://github.com/ameshkov/dnslookup |
@@ -736,8 +736,8 @@
 | **id3lib** | 3.8.3-4 | A software library for manipulating ID3v1/v1.1 and ID3v2 tags | https://id3lib.sourceforge.net/ |
 | **id3lib-static** | 3.8.3-4 | Static libraries for id3lib | https://id3lib.sourceforge.net/ |
 | **id3v2** | 0.1.12-2 | A command line id3v2 tag editor | https://id3v2.sourceforge.net/ |
-| **imagemagick** | 7.1.2.7 | Suite to create, edit, compose, or convert images in a variety of formats | https://www.imagemagick.org/ |
-| **imagemagick-static** | 7.1.2.7 | Static libraries for imagemagick | https://www.imagemagick.org/ |
+| **imagemagick** | 7.1.2.8 | Suite to create, edit, compose, or convert images in a variety of formats | https://www.imagemagick.org/ |
+| **imagemagick-static** | 7.1.2.8 | Static libraries for imagemagick | https://www.imagemagick.org/ |
 | **imath** | 3.1.12-1 | Library for vector/matrix and math operations, plus the half type | https://imath.readthedocs.io/ |
 | **imgflo** | 0.4.2-9 | HTTP image processing server & Flowhub.io compatible runtime | https://github.com/imgflo/imgflo |
 | **imlib2** | 1.12.5-1 | Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support | https://sourceforge.net/projects/enlightenment/ |
@@ -1831,7 +1831,7 @@
 | **okc-agents** | 0.1.2-2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.6-3 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-10 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
-| **oma** | 1.22.4 | oma is an attempt at reworking APT's interface | https://aosc.io/oma |
+| **oma** | 1.22.5 | oma is an attempt at reworking APT's interface | https://aosc.io/oma |
 | **onefetch** | 2.25.0-1 | A command-line Git information tool written in Rust | https://onefetch.dev/ |
 | **onigmo** | 6.2.0-1 | A regular expressions library forked from Oniguruma | https://github.com/k-takata/Onigmo |
 | **onigmo-static** | 6.2.0-1 | Static libraries for onigmo | https://github.com/k-takata/Onigmo |
