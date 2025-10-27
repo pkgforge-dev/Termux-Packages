@@ -1003,7 +1003,7 @@
   },
   {
     "Package": "brotli",
-    "Version": "1.1.0-3",
+    "Version": "1.2.0",
     "Description": "lossless compression algorithm and format (command line utility)",
     "Homepage": "https://github.com/google/brotli"
   },
@@ -2947,7 +2947,7 @@
   },
   {
     "Package": "forgejo",
-    "Version": "13.0.1",
+    "Version": "13.0.2",
     "Description": "Forgejo is a self-hosted lightweight software forge.",
     "Homepage": "https://forgejo.org/"
   },
@@ -3685,13 +3685,13 @@
   },
   {
     "Package": "golang",
-    "Version": "3:1.25.2",
+    "Version": "3:1.25.3",
     "Description": "Go programming language compiler",
     "Homepage": "https://go.dev/"
   },
   {
     "Package": "golang-doc",
-    "Version": "3:1.25.2",
+    "Version": "3:1.25.3",
     "Description": "Go programming language - documentation",
     "Homepage": "https://go.dev/"
   },
@@ -12235,7 +12235,7 @@
   },
   {
     "Package": "python-brotli",
-    "Version": "1.1.0-4",
+    "Version": "1.2.0",
     "Description": "lossless compression algorithm and format (Python bindings)",
     "Homepage": "https://github.com/google/brotli"
   },

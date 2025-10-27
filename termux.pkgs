@@ -165,7 +165,7 @@
 | **brogue** | 1.14.1-1 | Roguelike dungeon crawling game (community edition) | https://sites.google.com/site/broguegame/ |
 | **brook** | 20250808-1 | A cross-platform strong encryption and not detectable proxy. Zero-Configuration. | https://github.com/txthinking/brook |
 | **broot** | 1.51.0 | A better way to navigate directories | https://github.com/Canop/broot |
-| **brotli** | 1.1.0-3 | lossless compression algorithm and format (command line utility) | https://github.com/google/brotli |
+| **brotli** | 1.2.0 | lossless compression algorithm and format (command line utility) | https://github.com/google/brotli |
 | **bsd-finger** | 0.17-2 | User information lookup program | https://packages.debian.org/sid/source/bsd-finger |
 | **bsd-games** | 1:3.3-1 | Classic text mode games from UNIX folklore | https://www.polyomino.org.uk/computer/software/bsd-games/ |
 | **bsdtar** | 3.8.2 | The tar(1) and cpio(1) programs from FreeBSD, using libarchive | https://www.libarchive.org/ |
@@ -489,7 +489,7 @@
 | **fontconfig-static** | 2.17.1-1 | Static libraries for fontconfig | https://www.freedesktop.org/wiki/Software/fontconfig/ |
 | **fontconfig-utils** | 2.17.1-1 | Fontconfig binaries | https://www.freedesktop.org/wiki/Software/fontconfig/ |
 | **forestdb-dump** | 1.2-2 | ForestDB dump tool | https://github.com/couchbase/forestdb |
-| **forgejo** | 13.0.1 | Forgejo is a self-hosted lightweight software forge. | https://forgejo.org/ |
+| **forgejo** | 13.0.2 | Forgejo is a self-hosted lightweight software forge. | https://forgejo.org/ |
 | **fortune** | 1.2-2 | Revealer of fortunes | https://www.fefe.de/fortune/ |
 | **fossil** | 2.27 | DSCM with built-in wiki, http interface and server, tickets database | https://www.fossil-scm.org |
 | **freecolor** | 0.9.3-1 | Freecolor is a replacement for Linux that displays free memory graphically | http://rkeene.org/oss/freecolor/ |
@@ -612,8 +612,8 @@
 | **gobject-introspection** | 1.86.0 | Uniform machine readable API | https://gi.readthedocs.io/ |
 | **gogs** | 0.13.3-1 | A painless self-hosted Git service | https://gogs.io |
 | **gojq** | 0.12.17 | Pure Go implementation of jq | https://github.com/itchyny/gojq |
-| **golang** | 3:1.25.2 | Go programming language compiler | https://go.dev/ |
-| **golang-doc** | 3:1.25.2 | Go programming language - documentation | https://go.dev/ |
+| **golang** | 3:1.25.3 | Go programming language compiler | https://go.dev/ |
+| **golang-doc** | 3:1.25.3 | Go programming language - documentation | https://go.dev/ |
 | **gomp** | 2023.02.02-3 | MPD client inspired by ncmpcpp with builtin cover-art view and LastFM integration | https://aditya-k2.github.io/gomp/ |
 | **gomuks** | 0.3.1-1 | A terminal Matrix client written in Go | https://maunium.net/go/gomuks/ |
 | **google-drive-upload** | 4.5 | Bash scripts to upload files to google drive | https://github.com/labbots/google-drive-upload |
@@ -2037,7 +2037,7 @@
 | **python-apsw** | 3.50.4.0-1 | Another Python SQLite Wrapper | https://github.com/rogerbinns/apsw/ |
 | **python-apt** | 3.0.0-1 | Python bindings for APT | https://apt-team.pages.debian.net/python-apt/ |
 | **python-bcrypt** | 5.0.0 | Acceptable password hashing for your software and your servers | https://github.com/pyca/bcrypt |
-| **python-brotli** | 1.1.0-4 | lossless compression algorithm and format (Python bindings) | https://github.com/google/brotli |
+| **python-brotli** | 1.2.0 | lossless compression algorithm and format (Python bindings) | https://github.com/google/brotli |
 | **python-cmake** | 4.1.0-1 | Python wrapper for CMake | https://cmake-python-distributions.readthedocs.io/ |
 | **python-contourpy** | 1.3.3-1 | Python library for calculating contours in 2D quadrilateral grids | https://contourpy.readthedocs.io/ |
 | **python-cryptography** | 46.0.3 | Provides cryptographic recipes and primitives to Python developers | https://github.com/pyca/cryptography |
