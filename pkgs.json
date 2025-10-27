@@ -3991,13 +3991,13 @@
   },
   {
     "Package": "guile",
-    "Version": "3.0.10-1",
+    "Version": "3.0.10-2",
     "Description": "Portable, embeddable Scheme implementation written in C",
     "Homepage": "http://www.gnu.org/software/guile/"
   },
   {
     "Package": "guile-static",
-    "Version": "3.0.10-1",
+    "Version": "3.0.10-2",
     "Description": "Static libraries for guile",
     "Homepage": "http://www.gnu.org/software/guile/"
   },
@@ -10999,7 +10999,7 @@
   },
   {
     "Package": "oma",
-    "Version": "1.22.5",
+    "Version": "1.22.6",
     "Description": "oma is an attempt at reworking APTs interface",
     "Homepage": "https://aosc.io/oma"
   },
