@@ -810,7 +810,7 @@
  kcptun  20250730-1  A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC  https://github.com/xtaci/kcptun 
  keybase  6.5.1-1  Key directory that maps social media identities to encryption keys  https://keybase.io 
  keychain  2.9.6  keychain ssh-agent front-end  https://www.funtoo.org/Keychain 
- kibi  0.2.2-3  A tiny terminal text editor, written in Rust  https://github.com/ilai-deutel/kibi 
+ kibi  0.3.0  A tiny terminal text editor, written in Rust  https://github.com/ilai-deutel/kibi 
  kiwix-tools  3.7.0-1  A collection of Kiwix related command line tools  https://github.com/kiwix/kiwix-tools 
  knockd  0.8.2-2  A port-knocking daemon  https://zeroflux.org/projects/knock 
  knot-utils  3.2.4-2  Knot DNS utilities  https://www.knot-dns.cz/ 
@@ -2188,7 +2188,7 @@
  runit-static  2.1.2-4  Static libraries for runit  http://smarden.org/runit 
  rush  0.7.0-1  A cross-platform command-line tool for executing jobs in parallel  https://github.com/shenwei356/rush 
  rust  1.90.0+really1.90.0-1  Systems programming language focused on safety, speed and concurrency  https://www.rust-lang.org/ 
- rust-analyzer  20250825  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
+ rust-analyzer  20251027  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
  rust-bindgen  0.72.1  Automatically generates Rust FFI bindings to C (and some C++) libraries  https://github.com/rust-lang/rust-bindgen 
  rust-docs  1.90.0+really1.90.0-1  Rust documentation  https://www.rust-lang.org/ 
  rust-src  1.90.0+really1.90.0-1  Rust source code files  https://www.rust-lang.org/ 
