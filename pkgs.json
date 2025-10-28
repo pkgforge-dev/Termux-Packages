@@ -8641,13 +8641,13 @@
   },
   {
     "Package": "libunbound",
-    "Version": "1.24.1",
+    "Version": "1.24.1-1",
     "Description": "A validating, recursive, caching DNS resolver",
     "Homepage": "https://unbound.net/"
   },
   {
     "Package": "libunbound-static",
-    "Version": "1.24.1",
+    "Version": "1.24.1-1",
     "Description": "Static libraries for libunbound",
     "Homepage": "https://unbound.net/"
   },
@@ -12451,7 +12451,7 @@
   },
   {
     "Package": "pyunbound",
-    "Version": "1.24.1",
+    "Version": "1.24.1-1",
     "Description": "Python bindings for Unbound",
     "Homepage": "https://unbound.net/"
   },
@@ -15025,7 +15025,7 @@
   },
   {
     "Package": "unbound",
-    "Version": "1.24.1",
+    "Version": "1.24.1-1",
     "Description": "Unbound command-line tools",
     "Homepage": "https://unbound.net/"
   },
