@@ -1803,7 +1803,7 @@
 | **nettle** | 3.10.2-1 | Low level cryptographic tools | https://www.lysator.liu.se/~nisse/nettle/ |
 | **newsboat** | 2.41 | RSS/Atom feed reader for the text console | https://newsboat.org/ |
 | **newsraft** | 0.34 | Newsraft is a feed reader with text-based user interface | https://codeberg.org/newsraft/newsraft |
-| **nginx** | 1.29.2-1 | Lightweight HTTP server | https://www.nginx.org |
+| **nginx** | 1.29.3 | Lightweight HTTP server | https://www.nginx.org |
 | **ngircd** | 27-1 | Free, portable and lightweight Internet Relay Chat server | https://ngircd.barton.de/ |
 | **ngspice** | 45.2 | A mixed-level/mixed-signal circuit simulator | https://ngspice.sourceforge.net/ |
 | **nim** | 2.2.4-1 | Nim programming language compiler | https://nim-lang.org/ |
@@ -1818,9 +1818,9 @@
 | **no-more-secrets** | 1.0.1-3 | This project provides a command line tool called nms that recreates the famous data decryption effect | https://github.com/bartobri/no-more-secrets |
 | **nodejs** | 24.9.0 | Open Source, cross-platform JavaScript runtime environment | https://nodejs.org/ |
 | **nodejs-lts** | 22.20.0 | Open Source, cross-platform JavaScript runtime environment | https://nodejs.org/ |
-| **notcurses** | 3.0.16-2 | blingful TUIs and character graphics | https://notcurses.com/ |
-| **notcurses-data** | 3.0.16-2 | Platform-independent data for notcurses | https://notcurses.com/ |
-| **notcurses-tools** | 3.0.16-2 | Tools and demos for notcurses | https://notcurses.com/ |
+| **notcurses** | 3.0.17 | blingful TUIs and character graphics | https://notcurses.com/ |
+| **notcurses-data** | 3.0.17 | Platform-independent data for notcurses | https://notcurses.com/ |
+| **notcurses-tools** | 3.0.17 | Tools and demos for notcurses | https://notcurses.com/ |
 | **notmuch** | 0.39-1 | Thread-based email index, search and tagging system | https://notmuchmail.org |
 | **npush** | 0.7-2 | Curses-based logic game similar to Sokoban and Boulder Dash | https://npush.sourceforge.net/ |
 | **nsis** | 3.11-1 | A professional open source system to create Windows installers | https://sourceforge.net/projects/nsis/ |
