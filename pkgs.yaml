@@ -1555,7 +1555,7 @@
   Description: A small, configurable console text editor
   Homepage: https://craigbarnes.gitlab.io/dte/
 - Package: dua
-  Version: 2.32.1
+  Version: 2.32.2
   Description: View disk space usage and delete unwanted data, fast
   Homepage: https://github.com/Byron/dua-cli
 - Package: duc
@@ -1851,11 +1851,11 @@
   Description: A fast, simple, recursive content discovery tool written in Rust
   Homepage: https://github.com/epi052/feroxbuster
 - Package: fetchmail
-  Version: 6.5.7
+  Version: 6.6.0
   Description: A remote-mail retrieval utility
   Homepage: https://www.fetchmail.info/
 - Package: fetchmailconf
-  Version: 6.5.7
+  Version: 6.6.0
   Description: A GUI configurator for generating fetchmail configuration files
   Homepage: https://www.fetchmail.info/
 - Package: fff
@@ -8575,7 +8575,7 @@
   Description: In-memory data structure store used as a database, cache and message broker
   Homepage: https://redis.io/
 - Package: remind
-  Version: 1:06.01.07
+  Version: 1:06.01.08
   Description: Sophisticated calendar and alarm program
   Homepage: https://dianne.skoll.ca/projects/remind/
 - Package: renameutils
