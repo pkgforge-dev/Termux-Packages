@@ -907,7 +907,7 @@
   },
   {
     "Package": "boinc",
-    "Version": "8.2.5-1",
+    "Version": "8.2.6",
     "Description": "Open-source software for volunteer computing",
     "Homepage": "https://boinc.berkeley.edu/"
   },
@@ -2335,7 +2335,7 @@
   },
   {
     "Package": "dua",
-    "Version": "2.32.0",
+    "Version": "2.32.1",
     "Description": "View disk space usage and delete unwanted data, fast",
     "Homepage": "https://github.com/Byron/dua-cli"
   },
@@ -4615,7 +4615,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.24.191",
+    "Version": "0.24.200",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -13525,7 +13525,7 @@
   },
   {
     "Package": "simdjson",
-    "Version": "4.0.7",
+    "Version": "4.1.0",
     "Description": "A C++ library to see how fast we can parse JSON with complete validation",
     "Homepage": "https://simdjson.org/"
   },
