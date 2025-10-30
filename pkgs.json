@@ -3835,7 +3835,7 @@
   },
   {
     "Package": "gradle",
-    "Version": "1:9.0.0-1",
+    "Version": "1:9.2.0",
     "Description": "Powerful build system for the JVM",
     "Homepage": "https://gradle.org/"
   },
@@ -4675,7 +4675,7 @@
   },
   {
     "Package": "jfrog-cli",
-    "Version": "2.81.0",
+    "Version": "2.82.0",
     "Description": "A CLI for JFrog products",
     "Homepage": "https://jfrog.com/getcli"
   },
@@ -9625,7 +9625,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.18.7",
+    "Version": "0.18.8",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://nvim-neorocks.github.io/"
   },
@@ -15085,7 +15085,7 @@
   },
   {
     "Package": "unrar",
-    "Version": "7.1.10-1",
+    "Version": "7.2.1",
     "Description": "Tool for extracting files from .rar archives",
     "Homepage": "https://www.rarlab.com/"
   },
@@ -15199,7 +15199,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.9.5",
+    "Version": "0.9.6",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
@@ -15997,7 +15997,7 @@
   },
   {
     "Package": "z3",
-    "Version": "4.15.3",
+    "Version": "4.15.4",
     "Description": "Z3 is a theorem prover from Microsoft Research",
     "Homepage": "https://github.com/Z3Prover/z3"
   },
