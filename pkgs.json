@@ -6877,13 +6877,13 @@
   },
   {
     "Package": "libluajit",
-    "Version": "1:2.1.1731601260-1",
+    "Version": "1:2.1.1761727121",
     "Description": "Just-In-Time Compiler for Lua",
     "Homepage": "https://luajit.org/"
   },
   {
     "Package": "libluajit-static",
-    "Version": "1:2.1.1731601260-1",
+    "Version": "1:2.1.1761727121",
     "Description": "Static libraries for libluajit",
     "Homepage": "https://luajit.org/"
   },
@@ -9589,7 +9589,7 @@
   },
   {
     "Package": "luajit",
-    "Version": "1:2.1.1731601260-1",
+    "Version": "1:2.1.1761727121",
     "Description": "Just-In-Time compiler for Lua - command line tool",
     "Homepage": "https://luajit.org/"
   },
