@@ -5847,7 +5847,7 @@
   Description: Computer vision library
   Homepage: https://ukoethe.github.io/vigra/
 - Package: libvips
-  Version: 8.17.2-1
+  Version: 8.17.3
   Description: A fast image processing library with low memory needs
   Homepage: https://libvips.github.io/libvips/
 - Package: libvmaf
@@ -6307,7 +6307,7 @@
   Description: Simplify the administration of log files on a system which generates a lot of log files
   Homepage: https://github.com/logrotate/logrotate
 - Package: loksh
-  Version: 7.7-1
+  Version: "7.8"
   Description: A Linux port of OpenBSDs ksh
   Homepage: https://github.com/dimkr/loksh
 - Package: lowdown
@@ -7315,7 +7315,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 27.4.2
+  Version: 27.4.3
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
