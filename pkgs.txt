@@ -640,8 +640,8 @@
  gradle  1:9.2.0  Powerful build system for the JVM  https://gradle.org/ 
  grafana  1:11.6.0-1  The open-source platform for monitoring and observability  https://grafana.com/ 
  graphene  1.10.8-3  A thin layer of graphic data types  https://ebassi.github.io/graphene/ 
- graphicsmagick  1.3.45-4  Collection of image processing tools  http://www.graphicsmagick.org/ 
- graphicsmagick-static  1.3.45-4  Static libraries for graphicsmagick  http://www.graphicsmagick.org/ 
+ graphicsmagick  1.3.46  Collection of image processing tools  http://www.graphicsmagick.org/ 
+ graphicsmagick-static  1.3.46  Static libraries for graphicsmagick  http://www.graphicsmagick.org/ 
  graphviz  14.0.2  Rich set of graph drawing tools  https://www.graphviz.org/ 
  graphviz-static  14.0.2  Static libraries for graphviz  https://www.graphviz.org/ 
  greed  4.3-1  Game where you try to eat as much as possible of the board before munching yourself into a corner  http://www.catb.org/~esr/greed/ 
@@ -767,7 +767,7 @@
  jack  0.0.1  A metapackage that provides JACK Audio Connection Kit  https://github.com/termux/termux-packages 
  jack-example-tools  4-1  Official JACK example clients and tools  https://jackaudio.org/ 
  jack2  1.9.22-2  The JACK low-latency audio server  https://jackaudio.org/ 
- jackett  0.24.206  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
+ jackett  0.24.222  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
  jadx  1.5.3  Dex to Java decompiler  https://github.com/skylot/jadx 
  jadx-x  1.5.3  Dex to Java decompiler GUI  https://github.com/skylot/jadx 
  janet  1.39.1  Janet is a dialect of Lisp intended for embedding into programs and such  https://janet-lang.org 
@@ -820,7 +820,7 @@
  kubecolor  0.5.2  Colorize your kubectl output  https://github.com/kubecolor/kubecolor 
  kubectl  1.34.1  Kubernetes.io client binary  https://kubernetes.io/ 
  kubelogin  1.34.2  A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication  https://github.com/int128/kubelogin 
- kubo  0.38.1  A peer-to-peer hypermedia distribution protocol  https://ipfs.io/ 
+ kubo  0.38.2  A peer-to-peer hypermedia distribution protocol  https://ipfs.io/ 
  ladspa-sdk  1.17-2  Linux Audio Developer's Simple Plugin API  https://www.ladspa.org/ 
  lame  3.100-7  High quality MPEG Audio Layer III (MP3) encoder - frontend  https://lame.sourceforge.io/ 
  lastpass-cli  1.6.1-3  LastPass command line interface tool  https://lastpass.com/ 
@@ -2383,7 +2383,7 @@
  tectonic  0.15.0-4  A modernized, complete, self-contained TeX/LaTeX engine  https://tectonic-typesetting.github.io/ 
  telegram-bot-api  20241031-2  Telegram Bot API server  https://github.com/tdlib/telegram-bot-api 
  telegram-cli  1:1.4.1-8  Telegram messenger CLI  https://github.com/vysheng/tg 
- teleport-tsh  18.2.10  Secure Access for Developers that doesn't get in the way  https://github.com/gravitational/teleport 
+ teleport-tsh  18.3.0  Secure Access for Developers that doesn't get in the way  https://github.com/gravitational/teleport 
  tenki-php  2022.05.26  A simple PHP application for logging current weather conditions, notes, and waypoints  https://github.com/dmpop/tenki 
  tere  1.6.0-1  Terminal file explorer written in rust  https://github.com/mgunyho/tere 
  tergent  1.0.0-5  A cryptoki/PKCS#11 library for Termux that uses Android Keystore as its backend  https://github.com/aeolwyr/tergent 

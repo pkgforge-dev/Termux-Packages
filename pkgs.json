@@ -3853,13 +3853,13 @@
   },
   {
     "Package": "graphicsmagick",
-    "Version": "1.3.45-4",
+    "Version": "1.3.46",
     "Description": "Collection of image processing tools",
     "Homepage": "http://www.graphicsmagick.org/"
   },
   {
     "Package": "graphicsmagick-static",
-    "Version": "1.3.45-4",
+    "Version": "1.3.46",
     "Description": "Static libraries for graphicsmagick",
     "Homepage": "http://www.graphicsmagick.org/"
   },
@@ -4615,7 +4615,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.24.206",
+    "Version": "0.24.222",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -4933,7 +4933,7 @@
   },
   {
     "Package": "kubo",
-    "Version": "0.38.1",
+    "Version": "0.38.2",
     "Description": "A peer-to-peer hypermedia distribution protocol",
     "Homepage": "https://ipfs.io/"
   },
@@ -14311,7 +14311,7 @@
   },
   {
     "Package": "teleport-tsh",
-    "Version": "18.2.10",
+    "Version": "18.3.0",
     "Description": "Secure Access for Developers that doesnt get in the way",
     "Homepage": "https://github.com/gravitational/teleport"
   },
