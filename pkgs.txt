@@ -2057,7 +2057,7 @@
  python-pyarrow  22.0.0  Python bindings for Apache Arrow  https://github.com/apache/arrow 
  python-pycryptodomex  3.23.0-1  A self-contained Python package of low-level cryptographic primitives  https://www.pycryptodome.org/ 
  python-pynvim  0.6.0  Python client for Neovim  https://github.com/neovim/pynvim 
- python-ruff  0.14.2  An extremely fast Python linter, written in Rust (Python bindings)  https://github.com/charliermarsh/ruff 
+ python-ruff  0.14.3  An extremely fast Python linter, written in Rust (Python bindings)  https://github.com/charliermarsh/ruff 
  python-sabyenc3  8.2.6-1  C implementations of functions for use within SABnzbd  https://github.com/sabnzbd/sabctools 
  python-skia-pathops  0.8.0-2  Python bindings for the Skia library's Path Ops  https://github.com/fonttools/skia-pathops 
  python-static  3.12.12  Static libraries for python  https://python.org/ 
@@ -2183,7 +2183,7 @@
  rubiks-cube  1.2-1  A rubik's cube that runs in your terminal  https://github.com/been-jamming/rubiks_cube 
  ruby  3.4.1-2  Dynamic programming language with a focus on simplicity and productivity  https://www.ruby-lang.org/ 
  ruby-ri  3.4.1-2  Ruby documentation index  https://www.ruby-lang.org/ 
- ruff  0.14.2  An extremely fast Python linter, written in Rust  https://github.com/charliermarsh/ruff 
+ ruff  0.14.3  An extremely fast Python linter, written in Rust  https://github.com/charliermarsh/ruff 
  runit  2.1.2-4  Tools to provide service supervision and to manage services  http://smarden.org/runit 
  runit-static  2.1.2-4  Static libraries for runit  http://smarden.org/runit 
  rush  0.7.0-1  A cross-platform command-line tool for executing jobs in parallel  https://github.com/shenwei356/rush 
@@ -2212,7 +2212,7 @@
  sassc  3.6.2-1  libsass command line driver  https://github.com/sass/sassc 
  sc-im  0.8.5-2  An improved version of sc, a spreadsheet calculator  https://github.com/andmarti1424/sc-im 
  scala  3.7.3  Scala 3 compiler and standard library.  https://www.scala-lang.org 
- scc  3.5.0-1  Counts physical the lines of code, blank lines, comment lines, and physical lines of source code  https://github.com/boyter/scc 
+ scc  3.6.0  Counts physical the lines of code, blank lines, comment lines, and physical lines of source code  https://github.com/boyter/scc 
  sccache  0.12.0  sccache is ccache with cloud storage  https://github.com/mozilla/sccache 
  scdaemon  2.5.11  Daemon invoked by gpg to manage smartcards  https://www.gnupg.org/ 
  scdoc  1.11.3-1  Small man page generator  https://git.sr.ht/~sircmpwn/scdoc 
@@ -2577,10 +2577,10 @@
  vulkan-icd  0.1  A metapackage that provides Vulkan ICDs  https://github.com/termux/termux-packages 
  vulkan-loader  0.0.3  A metapackage that provides vulkan loader library  https://github.com/termux/termux-packages 
  vulkan-loader-android  28c-1  Vulkan Loader for Android  https://source.android.com/devices/graphics/arch-vulkan 
- vulkan-loader-generic  1.4.330  Vulkan Loader  https://github.com/KhronosGroup/Vulkan-Loader 
- vulkan-tools  1.4.330  Vulkan Tools and Utilities  https://github.com/KhronosGroup/Vulkan-Tools 
- vulkan-utility-libraries  1.4.330  Utility Libraries for Vulkan  https://github.com/KhronosGroup/Vulkan-Utility-Libraries 
- vulkan-validation-layers  1.4.330  Vulkan Validation Layers  https://github.com/KhronosGroup/Vulkan-ValidationLayers 
+ vulkan-loader-generic  1.4.331  Vulkan Loader  https://github.com/KhronosGroup/Vulkan-Loader 
+ vulkan-tools  1.4.331  Vulkan Tools and Utilities  https://github.com/KhronosGroup/Vulkan-Tools 
+ vulkan-utility-libraries  1.4.331  Utility Libraries for Vulkan  https://github.com/KhronosGroup/Vulkan-Utility-Libraries 
+ vulkan-validation-layers  1.4.331  Vulkan Validation Layers  https://github.com/KhronosGroup/Vulkan-ValidationLayers 
  vulkan-volk  1.4.304  Meta loader for Vulkan API  https://github.com/zeux/volk 
  w3m  0.5.5  Text based Web browser and pager  https://w3m.sourceforge.net/ 
  w3m-img  0.5.5  Inline image extension support utilities for w3m  https://w3m.sourceforge.net/ 
