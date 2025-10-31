@@ -971,7 +971,7 @@
   Description: A cli tool to download specific GitHub directories or files
   Homepage: https://github.com/alok8bb/cloneit
 - Package: cloudflared
-  Version: 2025.10.0
+  Version: 2025.10.1
   Description: A tunneling daemon that proxies traffic from the Cloudflare network to your origins
   Homepage: https://github.com/cloudflare/cloudflared
 - Package: clpeak
@@ -7615,7 +7615,7 @@
   Description: par2cmdline is a PAR 2.0 compatible file verification and repair tool
   Homepage: https://github.com/Parchive/par2cmdline
 - Package: parallel
-  Version: "20250922"
+  Version: "20251022"
   Description: GNU Parallel is a shell tool for executing jobs in parallel using one or more machines
   Homepage: https://www.gnu.org/software/parallel/
 - Package: pari
@@ -10131,7 +10131,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.9.6
+  Version: 0.9.7
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
@@ -10299,7 +10299,7 @@
   Description: Vulkan Extension Layer
   Homepage: https://github.com/KhronosGroup/Vulkan-ExtensionLayer
 - Package: vulkan-headers
-  Version: 1.4.330
+  Version: 1.4.331
   Description: Vulkan Header files and API registry
   Homepage: https://github.com/KhronosGroup/Vulkan-Headers
 - Package: vulkan-icd

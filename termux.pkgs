@@ -241,7 +241,7 @@
 | **clinfo** | 3.0.25.02.14-1 | Print all known information about all available OpenCL platforms and devices in the system | https://github.com/Oblomov/clinfo |
 | **clipp** | 1.2.3-1 | Command line interfaces for modern C++ | https://github.com/muellan/clipp |
 | **cloneit** | 20240728-1 | A cli tool to download specific GitHub directories or files | https://github.com/alok8bb/cloneit |
-| **cloudflared** | 2025.10.0 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
+| **cloudflared** | 2025.10.1 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
 | **clpeak** | 1.1.5 | A tool which profiles OpenCL devices to find their peak capacities | https://github.com/krrishnarraj/clpeak |
 | **clvk** | 0.0.20251027.085800 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
 | **cmake** | 4.1.2 | Family of tools designed to build, test and package software | https://cmake.org/ |
@@ -1902,7 +1902,7 @@
 | **pango** | 1.57.0 | Library for laying out and rendering text | https://www.gtk.org/docs/architecture/pango |
 | **paperkey** | 1.6-1 | Archive OpenPGP keys on paper | http://www.jabberwocky.com/software/paperkey/ |
 | **par2** | 1.0.0-1 | par2cmdline is a PAR 2.0 compatible file verification and repair tool | https://github.com/Parchive/par2cmdline |
-| **parallel** | 20250922 | GNU Parallel is a shell tool for executing jobs in parallel using one or more machines | https://www.gnu.org/software/parallel/ |
+| **parallel** | 20251022 | GNU Parallel is a shell tool for executing jobs in parallel using one or more machines | https://www.gnu.org/software/parallel/ |
 | **pari** | 2.17.2-1 | A computer algebra system designed for fast computations in number theory | https://pari.math.u-bordeaux.fr/ |
 | **pari-static** | 2.17.2-1 | Static libraries for pari | https://pari.math.u-bordeaux.fr/ |
 | **parted** | 3.6-1 | Versatile partition editor | https://www.gnu.org/software/parted/ |
@@ -2531,7 +2531,7 @@
 | **util-linux-static** | 2.41.2 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-2 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.41.2 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **uv** | 0.9.6 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
+| **uv** | 0.9.7 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.31 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.41.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.18-1 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
@@ -2573,7 +2573,7 @@
 | **vttest** | 20241208-1 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-5 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.4.328 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
-| **vulkan-headers** | 1.4.330 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
+| **vulkan-headers** | 1.4.331 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
 | **vulkan-icd** | 0.1 | A metapackage that provides Vulkan ICDs | https://github.com/termux/termux-packages |
 | **vulkan-loader** | 0.0.3 | A metapackage that provides vulkan loader library | https://github.com/termux/termux-packages |
 | **vulkan-loader-android** | 28c-1 | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |

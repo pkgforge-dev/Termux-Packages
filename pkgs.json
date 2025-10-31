@@ -1459,7 +1459,7 @@
   },
   {
     "Package": "cloudflared",
-    "Version": "2025.10.0",
+    "Version": "2025.10.1",
     "Description": "A tunneling daemon that proxies traffic from the Cloudflare network to your origins",
     "Homepage": "https://github.com/cloudflare/cloudflared"
   },
@@ -11425,7 +11425,7 @@
   },
   {
     "Package": "parallel",
-    "Version": "20250922",
+    "Version": "20251022",
     "Description": "GNU Parallel is a shell tool for executing jobs in parallel using one or more machines",
     "Homepage": "https://www.gnu.org/software/parallel/"
   },
@@ -15199,7 +15199,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.9.6",
+    "Version": "0.9.7",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
@@ -15451,7 +15451,7 @@
   },
   {
     "Package": "vulkan-headers",
-    "Version": "1.4.330",
+    "Version": "1.4.331",
     "Description": "Vulkan Header files and API registry",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Headers"
   },
