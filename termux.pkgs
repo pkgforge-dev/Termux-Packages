@@ -49,7 +49,7 @@
 | **aosp-utils** | 9.0.0-r76-1 | AOSP-based mksh, toybox and iputils for termux-docker | https://source.android.com/ |
 | **apache-orc** | 2.2.1 | Columnar storage for Hadoop workloads | https://orc.apache.org/ |
 | **apache2** | 1:2.4.65-1 | Apache Web Server | https://httpd.apache.org |
-| **apkeep** | 0.17.0-2 | A command-line tool for downloading APK files from various sources | https://github.com/EFForg/apkeep |
+| **apkeep** | 0.18.0 | A command-line tool for downloading APK files from various sources | https://github.com/EFForg/apkeep |
 | **apksigner** | 33.0.1-1 | APK signing tool from Android SDK | https://developer.android.com/studio/command-line/apksigner |
 | **appstream** | 1.1.1 | Provides a standard for creating app stores across distributions | https://www.freedesktop.org/wiki/Distributions/AppStream/ |
 | **apr** | 1.7.6-2 | Apache Portable Runtime Library | https://apr.apache.org/ |
@@ -767,7 +767,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4-1 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-2 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.24.222 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.24.234 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **jadx** | 1.5.3 | Dex to Java decompiler | https://github.com/skylot/jadx |
 | **jadx-x** | 1.5.3 | Dex to Java decompiler GUI | https://github.com/skylot/jadx |
 | **janet** | 1.39.1 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
@@ -893,9 +893,9 @@
 | **libblocksruntime** | 1:6.1-1 | LLVM Blocks runtime library | https://github.com/swiftlang/swift-corelibs-libdispatch |
 | **libblosc** | 1.21.6-1 | A blocking, shuffling and loss-less compression library | https://www.blosc.org |
 | **libblosc-static** | 1.21.6-1 | Static libraries for libblosc | https://www.blosc.org |
-| **libbluray** | 1.3.4-3 | An open-source library designed for Blu-Ray Discs playback for media players | https://code.videolan.org/videolan/libbluray/ |
-| **libbluray-static** | 1.3.4-3 | Static libraries for libbluray | https://code.videolan.org/videolan/libbluray/ |
-| **libbluray-utils** | 1.3.4-3 | Example utilities for libbluray | https://code.videolan.org/videolan/libbluray/ |
+| **libbluray** | 1.4.0 | An open-source library designed for Blu-Ray Discs playback for media players | https://code.videolan.org/videolan/libbluray/ |
+| **libbluray-static** | 1.4.0 | Static libraries for libbluray | https://code.videolan.org/videolan/libbluray/ |
+| **libbluray-utils** | 1.4.0 | Example utilities for libbluray | https://code.videolan.org/videolan/libbluray/ |
 | **libbs2b** | 3.1.0-2 | Bauer stereophonic-to-binaural DSP | https://bs2b.sourceforge.net/ |
 | **libbs2b-static** | 3.1.0-2 | Static libraries for libbs2b | https://bs2b.sourceforge.net/ |
 | **libbsd** | 0.11.7-2 | utility functions from BSD systems | https://libbsd.freedesktop.org |
@@ -1436,8 +1436,8 @@
 | **libuchardet-static** | 0.0.8-2 | Static libraries for libuchardet | https://www.freedesktop.org/wiki/Software/uchardet/ |
 | **libucontext** | 1.2-2 | A library which provides the ucontext.h C API | https://github.com/kaniini/libucontext |
 | **libucontext-static** | 1.2-2 | Static libraries for libucontext | https://github.com/kaniini/libucontext |
-| **libudfread** | 1.1.2-1 | A library for reading UDF | https://code.videolan.org/videolan/libudfread/ |
-| **libudfread-static** | 1.1.2-1 | Static libraries for libudfread | https://code.videolan.org/videolan/libudfread/ |
+| **libudfread** | 1.2.0 | A library for reading UDF | https://code.videolan.org/videolan/libudfread/ |
+| **libudfread-static** | 1.2.0 | Static libraries for libudfread | https://code.videolan.org/videolan/libudfread/ |
 | **libunbound** | 1.24.1-1 | A validating, recursive, caching DNS resolver | https://unbound.net/ |
 | **libunbound-static** | 1.24.1-1 | Static libraries for libunbound | https://unbound.net/ |
 | **libunibilium** | 2.1.2-1 | Terminfo parsing library | https://github.com/neovim/unibilium |

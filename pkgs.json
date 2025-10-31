@@ -307,7 +307,7 @@
   },
   {
     "Package": "apkeep",
-    "Version": "0.17.0-2",
+    "Version": "0.18.0",
     "Description": "A command-line tool for downloading APK files from various sources",
     "Homepage": "https://github.com/EFForg/apkeep"
   },
@@ -4615,7 +4615,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.24.222",
+    "Version": "0.24.234",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -5371,19 +5371,19 @@
   },
   {
     "Package": "libbluray",
-    "Version": "1.3.4-3",
+    "Version": "1.4.0",
     "Description": "An open-source library designed for Blu-Ray Discs playback for media players",
     "Homepage": "https://code.videolan.org/videolan/libbluray/"
   },
   {
     "Package": "libbluray-static",
-    "Version": "1.3.4-3",
+    "Version": "1.4.0",
     "Description": "Static libraries for libbluray",
     "Homepage": "https://code.videolan.org/videolan/libbluray/"
   },
   {
     "Package": "libbluray-utils",
-    "Version": "1.3.4-3",
+    "Version": "1.4.0",
     "Description": "Example utilities for libbluray",
     "Homepage": "https://code.videolan.org/videolan/libbluray/"
   },
@@ -8629,13 +8629,13 @@
   },
   {
     "Package": "libudfread",
-    "Version": "1.1.2-1",
+    "Version": "1.2.0",
     "Description": "A library for reading UDF",
     "Homepage": "https://code.videolan.org/videolan/libudfread/"
   },
   {
     "Package": "libudfread-static",
-    "Version": "1.1.2-1",
+    "Version": "1.2.0",
     "Description": "Static libraries for libudfread",
     "Homepage": "https://code.videolan.org/videolan/libudfread/"
   },
