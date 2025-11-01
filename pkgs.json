@@ -715,7 +715,7 @@
   },
   {
     "Package": "bash-completion",
-    "Version": "2.17.0",
+    "Version": "2.17.0-1",
     "Description": "Programmable completion for the bash shell",
     "Homepage": "https://github.com/scop/bash-completion"
   },
@@ -949,7 +949,7 @@
   },
   {
     "Package": "borgbackup",
-    "Version": "1.4.1-1",
+    "Version": "1.4.2",
     "Description": "Deduplicating and compressing backup program",
     "Homepage": "https://www.borgbackup.org/"
   },
@@ -3415,7 +3415,7 @@
   },
   {
     "Package": "git-town",
-    "Version": "22.1.0",
+    "Version": "22.2.0",
     "Description": "Git branches made easy",
     "Homepage": "https://www.git-town.com"
   },
@@ -10975,7 +10975,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "27.4.3",
+    "Version": "27.4.4",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -13777,7 +13777,7 @@
   },
   {
     "Package": "spirv-llvm-translator",
-    "Version": "21.1.1",
+    "Version": "21.1.2",
     "Description": "SPIR-V LLVM Translator",
     "Homepage": "https://github.com/KhronosGroup/SPIRV-LLVM-Translator"
   },
@@ -15427,7 +15427,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "2025.10.29",
+    "Version": "2025.10.31",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://github.com/directvt/vtm"
   },

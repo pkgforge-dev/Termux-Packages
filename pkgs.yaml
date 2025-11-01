@@ -475,7 +475,7 @@
   Description: A sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh)
   Homepage: https://www.gnu.org/software/bash/
 - Package: bash-completion
-  Version: 2.17.0
+  Version: 2.17.0-1
   Description: Programmable completion for the bash shell
   Homepage: https://github.com/scop/bash-completion
 - Package: bastet
@@ -631,7 +631,7 @@
   Description: Bore is a simple CLI tool for making tunnels to localhost
   Homepage: https://github.com/ekzhang/bore
 - Package: borgbackup
-  Version: 1.4.1-1
+  Version: 1.4.2
   Description: Deduplicating and compressing backup program
   Homepage: https://www.borgbackup.org/
 - Package: botan3
@@ -2275,7 +2275,7 @@
   Description: Convert between Git and Subversion repositories
   Homepage: https://git-scm.com/
 - Package: git-town
-  Version: 22.1.0
+  Version: 22.2.0
   Description: Git branches made easy
   Homepage: https://www.git-town.com
 - Package: gitea
@@ -7315,7 +7315,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 27.4.3
+  Version: 27.4.4
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -9183,7 +9183,7 @@
   Description: SPIR-V Headers
   Homepage: https://github.com/KhronosGroup/SPIRV-Headers
 - Package: spirv-llvm-translator
-  Version: 21.1.1
+  Version: 21.1.2
   Description: SPIR-V LLVM Translator
   Homepage: https://github.com/KhronosGroup/SPIRV-LLVM-Translator
 - Package: spirv-tools
@@ -10283,7 +10283,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2025.10.29
+  Version: 2025.10.31
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vttest

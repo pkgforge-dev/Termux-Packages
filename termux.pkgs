@@ -117,7 +117,7 @@
 | **barcode** | 0.99-5 | Tool to convert text strings to printed bars | https://www.gnu.org/software/barcode/ |
 | **base16384** | 2.3.2-1 | Encode binary to printable utf16be | https://github.com/fumiama/base16384 |
 | **bash** | 5.3.3-1 | A sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh) | https://www.gnu.org/software/bash/ |
-| **bash-completion** | 2.17.0 | Programmable completion for the bash shell | https://github.com/scop/bash-completion |
+| **bash-completion** | 2.17.0-1 | Programmable completion for the bash shell | https://github.com/scop/bash-completion |
 | **bastet** | 0.43.2-12 | Tetris clone with 'bastard' block-choosing AI | http://fph.altervista.org/prog/bastet.html |
 | **bat** | 0.26.0 | A cat(1) clone with wings | https://github.com/sharkdp/bat |
 | **bc** | 1.08.2-1 | Arbitrary precision numeric processing language | https://www.gnu.org/software/bc/ |
@@ -156,7 +156,7 @@
 | **boost-headers** | 1:1.89.0 | Boost header files | https://boost.org |
 | **boost-static** | 1:1.89.0 | Static libraries for boost | https://boost.org |
 | **bore** | 0.6.0-1 | Bore is a simple CLI tool for making tunnels to localhost | https://github.com/ekzhang/bore |
-| **borgbackup** | 1.4.1-1 | Deduplicating and compressing backup program | https://www.borgbackup.org/ |
+| **borgbackup** | 1.4.2 | Deduplicating and compressing backup program | https://www.borgbackup.org/ |
 | **botan3** | 3.7.1-3 | Crypto and TLS for Modern C++ | https://botan.randombit.net/ |
 | **botan3-static** | 3.7.1-3 | Static libraries for botan3 | https://botan.randombit.net/ |
 | **boxes** | 2.3.1-1 | A command line filter program which draws ASCII art boxes around your input text | https://boxes.thomasjensen.com/ |
@@ -567,7 +567,7 @@
 | **git-lfs** | 3.7.1 | Git extension for versioning large files | https://git-lfs.github.com/ |
 | **git-sizer** | 1.5.0-5 | Compute various size metrics for a Git repository | https://github.com/github/git-sizer |
 | **git-svn** | 2.51.2 | Convert between Git and Subversion repositories | https://git-scm.com/ |
-| **git-town** | 22.1.0 | Git branches made easy | https://www.git-town.com |
+| **git-town** | 22.2.0 | Git branches made easy | https://www.git-town.com |
 | **gitea** | 1.24.7 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
 | **gitflow-avh** | 1.12.3-9 | Extend git with Vincent Driessen's branching model. The AVH Edition adds more functionality. | https://github.com/petervanderdoes/gitflow/ |
 | **gitoxide** | 0.46.0 | Rust implementation of Git | https://github.com/Byron/gitoxide |
@@ -1827,7 +1827,7 @@
 | **octomap** | 1.10.0-1 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0-1 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-5 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 27.4.3 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 27.4.4 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **okc-agents** | 0.1.2-2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.6-3 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-10 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
@@ -2294,7 +2294,7 @@
 | **spidermonkey** | 128.10.0-1 | Mozilla's JavaScript engine | https://spidermonkey.dev |
 | **spiped** | 1.6.4-1 | a utility for creating symmetrically encrypted and authenticated pipes between socket addresses | https://www.tarsnap.com/spiped.html |
 | **spirv-headers** | 1.4.328.1 | SPIR-V Headers | https://github.com/KhronosGroup/SPIRV-Headers |
-| **spirv-llvm-translator** | 21.1.1 | SPIR-V LLVM Translator | https://github.com/KhronosGroup/SPIRV-LLVM-Translator |
+| **spirv-llvm-translator** | 21.1.2 | SPIR-V LLVM Translator | https://github.com/KhronosGroup/SPIRV-LLVM-Translator |
 | **spirv-tools** | 1.4.328.1 | SPIR-V Tools | https://github.com/KhronosGroup/SPIRV-Tools |
 | **sqlcipher** | 4.6.1-1 | SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files | https://github.com/sqlcipher/sqlcipher |
 | **sqlcipher-static** | 4.6.1-1 | Static libraries for sqlcipher | https://github.com/sqlcipher/sqlcipher |
@@ -2569,7 +2569,7 @@
 | **vlc-static** | 3.0.21-11 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-4 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.3-1 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 2025.10.29 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
+| **vtm** | 2025.10.31 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
 | **vttest** | 20241208-1 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-5 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.4.328 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
