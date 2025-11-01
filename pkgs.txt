@@ -767,7 +767,7 @@
  jack  0.0.1  A metapackage that provides JACK Audio Connection Kit  https://github.com/termux/termux-packages 
  jack-example-tools  4-1  Official JACK example clients and tools  https://jackaudio.org/ 
  jack2  1.9.22-2  The JACK low-latency audio server  https://jackaudio.org/ 
- jackett  0.24.234  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
+ jackett  0.24.241  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
  jadx  1.5.3  Dex to Java decompiler  https://github.com/skylot/jadx 
  jadx-x  1.5.3  Dex to Java decompiler GUI  https://github.com/skylot/jadx 
  janet  1.39.1  Janet is a dialect of Lisp intended for embedding into programs and such  https://janet-lang.org 
@@ -958,14 +958,14 @@
  libczmq-static  4.2.1-4  Static libraries for libczmq  https://zeromq.org/ 
  libdaemon  0.14-1  A lightweight C library that eases the writing of UNIX daemons  https://0pointer.de/lennart/projects/libdaemon/ 
  libdaemon-static  0.14-1  Static libraries for libdaemon  https://0pointer.de/lennart/projects/libdaemon/ 
- libdav1d  1.5.1-1  AV1 cross-platform decoder focused on speed and correctness  https://code.videolan.org/videolan/dav1d/ 
+ libdav1d  1.5.2  AV1 cross-platform decoder focused on speed and correctness  https://code.videolan.org/videolan/dav1d/ 
  libdb  18.1.40-5  The Berkeley DB embedded database system (library)  https://www.oracle.com/database/berkeley-db 
  libdb-static  18.1.40-5  Static libraries for libdb  https://www.oracle.com/database/berkeley-db 
  libde265  1.0.16-1  H.265/HEVC video stream decoder library  https://github.com/strukturag/libde265 
  libde265-static  1.0.16-1  Static libraries for libde265  https://github.com/strukturag/libde265 
  libdebuginfod  0.193-1  Library for debuginfod  https://sourceware.org/elfutils/ 
- libdeflate  1.24-1  C library for fast compression and decompression  https://github.com/ebiggers/libdeflate 
- libdeflate-static  1.24-1  Static libraries for libdeflate  https://github.com/ebiggers/libdeflate 
+ libdeflate  1.25  C library for fast compression and decompression  https://github.com/ebiggers/libdeflate 
+ libdeflate-static  1.25  Static libraries for libdeflate  https://github.com/ebiggers/libdeflate 
  libdevil  1.8.0-7  A cross-platform image library utilizing a simple syntax  https://openil.sourceforge.net/ 
  libdispatch  1:6.1-1  The libdispatch project, for concurrency on multicore hardware  https://github.com/swiftlang/swift-corelibs-libdispatch 
  libdisplay-info  0.3.0  EDID and DisplayID library  https://emersion.pages.freedesktop.org/libdisplay-info/ 
@@ -2149,7 +2149,7 @@
  restic  0.18.1  Fast, secure, efficient backup program  https://restic.net/ 
  restic-server  0.14.0-1  Restic's REST backend API server  https://restic.net/ 
  restish  0.21.0-1  A CLI for interacting with REST-ish HTTP APIs  https://github.com/danielgtaylor/restish 
- rgbds  0.9.4-1  Rednex Game Boy Development System - An assembly toolchain for the Nintendo Game Boy & Game Boy Color  https://rgbds.gbdev.io 
+ rgbds  1.0.0  Rednex Game Boy Development System - An assembly toolchain for the Nintendo Game Boy & Game Boy Color  https://rgbds.gbdev.io 
  rhash  1.4.6-1  Console utility for calculation and verification of magnet links and a wide range of hash sums  https://github.com/rhash/RHash 
  rhash-static  1.4.6-1  Static libraries for rhash  https://github.com/rhash/RHash 
  rig  1.11-2  A program that generates fake identities  https://rig.sourceforge.net/ 

@@ -3075,7 +3075,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.24.234
+  Version: 0.24.241
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -3839,7 +3839,7 @@
   Description: Static libraries for libdaemon
   Homepage: https://0pointer.de/lennart/projects/libdaemon/
 - Package: libdav1d
-  Version: 1.5.1-1
+  Version: 1.5.2
   Description: AV1 cross-platform decoder focused on speed and correctness
   Homepage: https://code.videolan.org/videolan/dav1d/
 - Package: libdb
@@ -3863,11 +3863,11 @@
   Description: Library for debuginfod
   Homepage: https://sourceware.org/elfutils/
 - Package: libdeflate
-  Version: 1.24-1
+  Version: "1.25"
   Description: C library for fast compression and decompression
   Homepage: https://github.com/ebiggers/libdeflate
 - Package: libdeflate-static
-  Version: 1.24-1
+  Version: "1.25"
   Description: Static libraries for libdeflate
   Homepage: https://github.com/ebiggers/libdeflate
 - Package: libdevil
@@ -8603,7 +8603,7 @@
   Description: A CLI for interacting with REST-ish HTTP APIs
   Homepage: https://github.com/danielgtaylor/restish
 - Package: rgbds
-  Version: 0.9.4-1
+  Version: 1.0.0
   Description: Rednex Game Boy Development System - An assembly toolchain for the Nintendo Game Boy & Game Boy Color
   Homepage: https://rgbds.gbdev.io
 - Package: rhash
