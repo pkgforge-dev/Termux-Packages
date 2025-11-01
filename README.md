@@ -2456,7 +2456,7 @@
 | **tokei** | 13.0.0-alpha.9-1 | A blazingly fast CLOC (Count Lines Of Code) program | https://github.com/XAMPPRocky/tokei |
 | **tome2** | 2022.12.27-6 | An open world roguelike adventure set in middle earth | https://github.com/tome2/tome2 |
 | **toml11** | 4.4.0 | toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library | https://github.com/ToruNiina/toml11 |
-| **topgrade** | 16.1.0 | Upgrade all the things | https://github.com/topgrade-rs/topgrade/ |
+| **topgrade** | 16.1.1 | Upgrade all the things | https://github.com/topgrade-rs/topgrade/ |
 | **tor** | 0.4.8.19 | The Onion Router anonymizing overlay network | https://www.torproject.org |
 | **torchaudio-ffmpeg** | 2.6.0-1 | Minimal FFmpeg libraries for python-torchaudio | https://github.com/pytorch/audio |
 | **torsocks** | 2.5.0-1 | Wrapper to safely torify applications | https://gitlab.torproject.org/tpo/core/torsocks |
