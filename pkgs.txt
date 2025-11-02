@@ -194,7 +194,7 @@
  capstone  5.0.6-1  Lightweight multi-platform, multi-architecture disassembly framework  https://www.capstone-engine.org/ 
  capstone-static  5.0.6-1  Static libraries for capstone  https://www.capstone-engine.org/ 
  carapace  1.5.3  Multi-shell multi-command argument completer  https://carapace.sh/ 
- cargo-c  0.10.17  Cargo C-ABI helpers  https://github.com/lu-zero/cargo-c 
+ cargo-c  0.10.18  Cargo C-ABI helpers  https://github.com/lu-zero/cargo-c 
  cargo-leptos  0.2.47  Build tool for the Rust framework Leptos  https://github.com/leptos-rs/cargo-leptos 
  catdoc  0.95-2  Program which reads MS-Word file and prints readable ASCII text to stdout  http://www.wagner.pp.ru/~vitus/software/catdoc/ 
  catgirl  2.2a-1  A TLS-only terminal IRC client  https://git.causal.agency/catgirl 
@@ -413,7 +413,7 @@
  electrum  4.5.8-2  Electrum is a lightweight Bitcoin wallet  https://electrum.org 
  elfutils  0.193-1  A collection of utilities to read, create and modify ELF binary files  https://sourceware.org/elfutils/ 
  elinks  0.18.0-1  Full-Featured Text WWW Browser  https://github.com/rkd77/elinks 
- elixir  1.19.1  Elixir is a dynamic, functional language designed for building scalable and maintainable applications  https://elixir-lang.org/ 
+ elixir  1.19.2  Elixir is a dynamic, functional language designed for building scalable and maintainable applications  https://elixir-lang.org/ 
  eltclsh  1.20-1  Interactive shell for TCL programming language  https://homepages.laas.fr/mallet/soft/shell/eltclsh 
  elvish  0.21.0-1  A friendly and expressive Unix shell  https://github.com/elves/elvish 
  emacs  30.2  Extensible, customizable text editor-and more  https://www.gnu.org/software/emacs/ 
@@ -971,7 +971,7 @@
  libdisplay-info  0.3.0  EDID and DisplayID library  https://emersion.pages.freedesktop.org/libdisplay-info/ 
  libdmtx  0.7.8-1  A software library that enables programs to read and write Data Matrix barcodes  https://github.com/dmtx/libdmtx 
  libdmtx-static  0.7.8-1  Static libraries for libdmtx  https://github.com/dmtx/libdmtx 
- libdrm  2.4.127  Userspace interface to kernel DRM services  https://dri.freedesktop.org/wiki/ 
+ libdrm  2.4.128  Userspace interface to kernel DRM services  https://dri.freedesktop.org/wiki/ 
  libduckdb  1.4.1  An in-process SQL OLAP database management system  https://duckdb.org/ 
  libduckdb-static  1.4.1  Static libraries for libduckdb  https://duckdb.org/ 
  libduktape  2.7.0-2  An embeddable Javascript engine with a focus on portability and compact footprint  https://www.duktape.org/ 
