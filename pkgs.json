@@ -6877,13 +6877,13 @@
   },
   {
     "Package": "libluajit",
-    "Version": "1:2.1.1761727121",
+    "Version": "1:2.1.1761727121-1",
     "Description": "Just-In-Time Compiler for Lua",
     "Homepage": "https://luajit.org/"
   },
   {
     "Package": "libluajit-static",
-    "Version": "1:2.1.1761727121",
+    "Version": "1:2.1.1761727121-1",
     "Description": "Static libraries for libluajit",
     "Homepage": "https://luajit.org/"
   },
@@ -9589,7 +9589,7 @@
   },
   {
     "Package": "luajit",
-    "Version": "1:2.1.1761727121",
+    "Version": "1:2.1.1761727121-1",
     "Description": "Just-In-Time compiler for Lua - command line tool",
     "Homepage": "https://luajit.org/"
   },
@@ -9625,7 +9625,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.18.8",
+    "Version": "0.18.9",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://nvim-neorocks.github.io/"
   },
@@ -10657,7 +10657,7 @@
   },
   {
     "Package": "neovim",
-    "Version": "0.11.4-1",
+    "Version": "0.11.5",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim)",
     "Homepage": "https://neovim.io/"
   },
@@ -12859,7 +12859,7 @@
   },
   {
     "Package": "redis",
-    "Version": "1:8.2.2",
+    "Version": "1:8.2.3",
     "Description": "In-memory data structure store used as a database, cache and message broker",
     "Homepage": "https://redis.io/"
   },

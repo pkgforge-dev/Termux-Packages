@@ -1156,8 +1156,8 @@
 | **liblua53-static** | 5.3.6-4 | Static libraries for liblua53 | https://www.lua.org/ |
 | **liblua54** | 5.4.8-3 | Shared library for the Lua interpreter | https://www.lua.org/ |
 | **liblua54-static** | 5.4.8-3 | Static libraries for liblua54 | https://www.lua.org/ |
-| **libluajit** | 1:2.1.1761727121 | Just-In-Time Compiler for Lua | https://luajit.org/ |
-| **libluajit-static** | 1:2.1.1761727121 | Static libraries for libluajit | https://luajit.org/ |
+| **libluajit** | 1:2.1.1761727121-1 | Just-In-Time Compiler for Lua | https://luajit.org/ |
+| **libluajit-static** | 1:2.1.1761727121-1 | Static libraries for libluajit | https://luajit.org/ |
 | **liblz4** | 1.10.0-1 | Fast LZ compression algorithm library | https://lz4.github.io/lz4/ |
 | **liblzma** | 5.8.1-1 | XZ-format compression library | https://tukaani.org/xz/ |
 | **liblzma-static** | 5.8.1-1 | Static libraries for liblzma | https://tukaani.org/xz/ |
@@ -1608,13 +1608,13 @@
 | **lua53** | 5.3.6-4 | Simple, extensible, embeddable programming language | https://www.lua.org/ |
 | **lua53-lpeg** | 1.1.0-3 | Pattern-matching library for Lua 5.3 | https://www.inf.puc-rio.br/~roberto/lpeg |
 | **lua54** | 5.4.8-3 | Simple, extensible, embeddable programming language | https://www.lua.org/ |
-| **luajit** | 1:2.1.1761727121 | Just-In-Time compiler for Lua - command line tool | https://luajit.org/ |
+| **luajit** | 1:2.1.1761727121-1 | Just-In-Time compiler for Lua - command line tool | https://luajit.org/ |
 | **luarocks** | 3.12.2-3 | Deployment and management system for Lua modules | https://luarocks.org/ |
 | **luv** | 1.51.0-1-1 | Bare libuv bindings for lua | https://github.com/luvit/luv |
 | **luvi** | 1:2.15.0-1 | A project in-between luv and luvit | https://luvit.io |
 | **luvit** | 2.18.1-1 | Asynchronous I/O for Lua | https://luvit.io |
 | **lux** | 0.24.1-2 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
-| **lux-cli** | 0.18.8 | A package manager for Lua, similar to luarocks | https://nvim-neorocks.github.io/ |
+| **lux-cli** | 0.18.9 | A package manager for Lua, similar to luarocks | https://nvim-neorocks.github.io/ |
 | **lv2** | 1.18.10-5 | A plugin standard for audio systems | https://lv2plug.in/ |
 | **lychee** | 0.21.0 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
 | **lynx** | 2.9.2-1 | The text web browser | http://lynx.browser.org/ |
@@ -1786,7 +1786,7 @@
 | **neocmakelsp** | 0.8.25 | a cmake lsp based on tower-lsp and treesitter | https://neocmakelsp.github.io/ |
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20250905 | A version of mutt with added features | https://neomutt.org/ |
-| **neovim** | 0.11.4-1 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
+| **neovim** | 0.11.5 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
 | **nerdfix** | 0.4.2-1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.4-1 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.4-1 | Static libraries for net-snmp | http://www.net-snmp.org/ |
@@ -2153,7 +2153,7 @@
 | **recutils** | 1.9-1 | Set of tools and libraries to access human-editable, plain text databases called recfiles | https://www.gnu.org/software/recutils/ |
 | **recutils-static** | 1.9-1 | Static libraries for recutils | https://www.gnu.org/software/recutils/ |
 | **redir** | 3.3-3 | TCP port redirector for UNIX | https://github.com/troglobit/redir |
-| **redis** | 1:8.2.2 | In-memory data structure store used as a database, cache and message broker | https://redis.io/ |
+| **redis** | 1:8.2.3 | In-memory data structure store used as a database, cache and message broker | https://redis.io/ |
 | **remind** | 1:06.01.08 | Sophisticated calendar and alarm program | https://dianne.skoll.ca/projects/remind/ |
 | **renameutils** | 0.12.0-3 | A set of programs designed to make renaming of files faster and less cumbersome | https://www.nongnu.org/renameutils/ |
 | **reptyr** | 0.10.0-1 | Tool for reparenting a running program to a new terminal | https://github.com/nelhage/reptyr |
