@@ -3075,7 +3075,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.24.241
+  Version: 0.24.243
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -3247,7 +3247,7 @@
   Description: keychain ssh-agent front-end
   Homepage: https://www.funtoo.org/Keychain
 - Package: kibi
-  Version: 0.3.0
+  Version: 0.3.1
   Description: A tiny terminal text editor, written in Rust
   Homepage: https://github.com/ilai-deutel/kibi
 - Package: kiwix-tools
@@ -4775,11 +4775,11 @@
   Description: Static libraries for libmpfr
   Homepage: https://www.mpfr.org/
 - Package: libmpg123
-  Version: 1.33.2
+  Version: 1.33.3
   Description: Fast console MPEG Audio Player and decoder library
   Homepage: https://mpg123.org/
 - Package: libmpg123-static
-  Version: 1.33.2
+  Version: 1.33.3
   Description: Static libraries for libmpg123
   Homepage: https://mpg123.org/
 - Package: libmsgpack
@@ -6891,7 +6891,7 @@
   Description: A Music Player Daemon (MPD) client which submits information about tracks being played to a scrobbler
   Homepage: https://www.musicpd.org/clients/mpdscribble/
 - Package: mpg123
-  Version: 1.33.2
+  Version: 1.33.3
   Description: Fast console MPEG Audio Player based on libmpg123
   Homepage: https://mpg123.org/
 - Package: mpv

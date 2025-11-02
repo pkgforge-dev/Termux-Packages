@@ -4615,7 +4615,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.24.241",
+    "Version": "0.24.243",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -4873,7 +4873,7 @@
   },
   {
     "Package": "kibi",
-    "Version": "0.3.0",
+    "Version": "0.3.1",
     "Description": "A tiny terminal text editor, written in Rust",
     "Homepage": "https://github.com/ilai-deutel/kibi"
   },
@@ -7165,13 +7165,13 @@
   },
   {
     "Package": "libmpg123",
-    "Version": "1.33.2",
+    "Version": "1.33.3",
     "Description": "Fast console MPEG Audio Player and decoder library",
     "Homepage": "https://mpg123.org/"
   },
   {
     "Package": "libmpg123-static",
-    "Version": "1.33.2",
+    "Version": "1.33.3",
     "Description": "Static libraries for libmpg123",
     "Homepage": "https://mpg123.org/"
   },
@@ -10339,7 +10339,7 @@
   },
   {
     "Package": "mpg123",
-    "Version": "1.33.2",
+    "Version": "1.33.3",
     "Description": "Fast console MPEG Audio Player based on libmpg123",
     "Homepage": "https://mpg123.org/"
   },
