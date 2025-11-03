@@ -2171,11 +2171,11 @@
   Description: Utility to print configuration values
   Homepage: https://github.com/termux/getconf
 - Package: geth
-  Version: 1.16.5
+  Version: 1.16.6
   Description: Go implementation of the Ethereum protocol
   Homepage: https://geth.ethereum.org/
 - Package: geth-utils
-  Version: 1.16.5
+  Version: 1.16.6
   Description: Additional utilities for Geth (like abigen, bootnode, evm, puppeth)
   Homepage: https://geth.ethereum.org/
 - Package: gettext
@@ -3275,7 +3275,7 @@
   Description: The Kerberos network authentication system
   Homepage: https://web.mit.edu/kerberos
 - Package: kubecolor
-  Version: 0.5.2
+  Version: 0.5.3
   Description: Colorize your kubectl output
   Homepage: https://github.com/kubecolor/kubecolor
 - Package: kubectl
@@ -9015,7 +9015,7 @@
   Description: Implementations of SIMD instructions for all systems
   Homepage: https://simd-everywhere.github.io/
 - Package: simdjson
-  Version: 4.2.0
+  Version: 4.2.1
   Description: A C++ library to see how fast we can parse JSON with complete validation
   Homepage: https://simdjson.org/
 - Package: simh

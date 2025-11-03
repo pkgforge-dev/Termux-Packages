@@ -3259,13 +3259,13 @@
   },
   {
     "Package": "geth",
-    "Version": "1.16.5",
+    "Version": "1.16.6",
     "Description": "Go implementation of the Ethereum protocol",
     "Homepage": "https://geth.ethereum.org/"
   },
   {
     "Package": "geth-utils",
-    "Version": "1.16.5",
+    "Version": "1.16.6",
     "Description": "Additional utilities for Geth (like abigen, bootnode, evm, puppeth)",
     "Homepage": "https://geth.ethereum.org/"
   },
@@ -4915,7 +4915,7 @@
   },
   {
     "Package": "kubecolor",
-    "Version": "0.5.2",
+    "Version": "0.5.3",
     "Description": "Colorize your kubectl output",
     "Homepage": "https://github.com/kubecolor/kubecolor"
   },
@@ -13525,7 +13525,7 @@
   },
   {
     "Package": "simdjson",
-    "Version": "4.2.0",
+    "Version": "4.2.1",
     "Description": "A C++ library to see how fast we can parse JSON with complete validation",
     "Homepage": "https://simdjson.org/"
   },

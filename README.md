@@ -553,8 +553,8 @@
 | **geoip2-database** | 20191221-2 | GeoLite2 IP geolocation databases compiled by MaxMind | https://dev.maxmind.com/geoip/geoip2/geolite2/ |
 | **germanium** | 1.2.3-3 | Generate image from source code | https://github.com/matsuyoshi30/germanium |
 | **getconf** | 0.6-1 | Utility to print configuration values | https://github.com/termux/getconf |
-| **geth** | 1.16.5 | Go implementation of the Ethereum protocol | https://geth.ethereum.org/ |
-| **geth-utils** | 1.16.5 | Additional utilities for Geth (like abigen, bootnode, evm, puppeth) | https://geth.ethereum.org/ |
+| **geth** | 1.16.6 | Go implementation of the Ethereum protocol | https://geth.ethereum.org/ |
+| **geth-utils** | 1.16.6 | Additional utilities for Geth (like abigen, bootnode, evm, puppeth) | https://geth.ethereum.org/ |
 | **gettext** | 0.26-1 | GNU Internationalization utilities | https://www.gnu.org/software/gettext/ |
 | **gettext-static** | 0.26-1 | Static libraries for gettext | https://www.gnu.org/software/gettext/ |
 | **gexiv2** | 0.14.6-1 | A GObject-based Exiv2 wrapper | https://wiki.gnome.org/Projects/gexiv2 |
@@ -829,7 +829,7 @@
 | **kona** | 20211225-1 | Open-source implementation of the APL-like K programming language | https://github.com/kevinlawler/kona |
 | **kotlin** | 2.2.21 | The Kotlin Programming Language | https://kotlinlang.org/ |
 | **krb5** | 1.22.1-1 | The Kerberos network authentication system | https://web.mit.edu/kerberos |
-| **kubecolor** | 0.5.2 | Colorize your kubectl output | https://github.com/kubecolor/kubecolor |
+| **kubecolor** | 0.5.3 | Colorize your kubectl output | https://github.com/kubecolor/kubecolor |
 | **kubectl** | 1.34.1 | Kubernetes.io client binary | https://kubernetes.io/ |
 | **kubelogin** | 1.34.2 | A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication | https://github.com/int128/kubelogin |
 | **kubo** | 0.38.2 | A peer-to-peer hypermedia distribution protocol | https://ipfs.io/ |
@@ -2264,7 +2264,7 @@
 | **silicon** | 0.5.3-1 | Silicon is an alternative to Carbon implemented in Rust | https://github.com/Aloxaf/silicon |
 | **silversearcher-ag** | 2.2.0-6 | Fast grep-like program, alternative to ack-grep | https://geoff.greer.fm/ag/ |
 | **simde** | 0.8.2 | Implementations of SIMD instructions for all systems | https://simd-everywhere.github.io/ |
-| **simdjson** | 4.2.0 | A C++ library to see how fast we can parse JSON with complete validation | https://simdjson.org/ |
+| **simdjson** | 4.2.1 | A C++ library to see how fast we can parse JSON with complete validation | https://simdjson.org/ |
 | **simh** | 1:3.12.5-1 | A collection of simulators for computer hardware and software from the past | http://simh.trailing-edge.com/ |
 | **simulavr** | 1:1.1.0-2 | Simulator for Microchip AVR (formerly Atmel) microcontrollers | https://www.nongnu.org/simulavr |
 | **simuwaerm** | 0.02-1 | A simple heat transfer simulator in pure Rust | https://github.com/file-acomplaint/simuwaerm |
