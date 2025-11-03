@@ -779,7 +779,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4-1 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-2 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.24.243 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.24.244 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **jadx** | 1.5.3 | Dex to Java decompiler | https://github.com/skylot/jadx |
 | **jadx-x** | 1.5.3 | Dex to Java decompiler GUI | https://github.com/skylot/jadx |
 | **janet** | 1.39.1 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
@@ -1715,7 +1715,7 @@
 | **mono-static** | 6.14.1-2 | Static libraries for mono | https://gitlab.winehq.org/mono/mono |
 | **monolith** | 2.10.1-1 | CLI tool for saving complete web pages as a single HTML file | https://github.com/Y2Z/monolith |
 | **moon-buggy** | 1.0.51-6 | Simple game where you drive a car across the moon's surface | https://github.com/seehuhn/moon-buggy |
-| **moor** | 2.8.0 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moor |
+| **moor** | 2.8.1 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moor |
 | **mop** | 2025.03.17-1 | Stock market tracker | https://github.com/mop-tracker/mop |
 | **moreutils** | 0.70-1 | A growing collection of the unix tools that nobody thought to write thirty years ago | https://joeyh.name/code/moreutils/ |
 | **moria** | 5.7.15-6 | Rogue-like game with an infinite dungeon | https://umoria.org |
@@ -1876,7 +1876,7 @@
 | **openjpeg-tools** | 2.5.4 | Command-line tools using the JPEG 2000 library | https://www.openjpeg.org/ |
 | **openldap** | 2.6.10-1 | OpenLDAP server | https://openldap.org |
 | **openldap-static** | 2.6.10-1 | Static libraries for openldap | https://openldap.org |
-| **openlist** | 4.1.5 | A file list program that supports multiple storage | https://oplist.org/ |
+| **openlist** | 4.1.6 | A file list program that supports multiple storage | https://oplist.org/ |
 | **openmpi** | 4.1.5-1 | Open source Message Passing Interface implementation | https://www.open-mpi.org |
 | **openmpi-static** | 4.1.5-1 | Static libraries for openmpi | https://www.open-mpi.org |
 | **openmpt123** | 0.8.3 | libopenmpt based command-line player for tracker music formats | https://lib.openmpt.org/libopenmpt/ |
