@@ -1632,7 +1632,7 @@
 | **make-guile** | 4.4.1-2 | Tool to control the generation of non-source files from source files | https://www.gnu.org/software/make/ |
 | **mandoc** | 1.14.6-6 | Man page viewer from the mandoc toolset | https://mdocml.bsd.lv/ |
 | **mangal** | 4.0.6-3 | Cli manga downloader | https://github.com/metafates/mangal |
-| **manpages** | 6.15 | Man pages for linux kernel and C library interfaces | https://www.kernel.org/doc/man-pages/ |
+| **manpages** | 6.16-1 | Man pages for linux kernel and C library interfaces | https://www.kernel.org/doc/man-pages/ |
 | **mapserver** | 8.2.2-3 | MapServer is CGI-based platform for publishing spatial data and interactive mapping applications to the web | https://mapserver.org/ |
 | **mariadb** | 2:12.0.2 | A drop-in replacement for mysql server | https://mariadb.org |
 | **mariadb-static** | 2:12.0.2 | Static libraries for mariadb | https://mariadb.org |
