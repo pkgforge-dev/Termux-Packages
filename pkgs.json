@@ -1171,7 +1171,7 @@
   },
   {
     "Package": "carapace",
-    "Version": "1.5.3",
+    "Version": "1.5.4",
     "Description": "Multi-shell multi-command argument completer",
     "Homepage": "https://carapace.sh/"
   },
@@ -1345,7 +1345,7 @@
   },
   {
     "Package": "chezmoi",
-    "Version": "2.66.1",
+    "Version": "2.67.0",
     "Description": "Manage your dotfiles across multiple machines",
     "Homepage": "https://chezmoi.io"
   },
@@ -4867,7 +4867,7 @@
   },
   {
     "Package": "keychain",
-    "Version": "2.9.7",
+    "Version": "2.9.8",
     "Description": "keychain ssh-agent front-end",
     "Homepage": "https://www.funtoo.org/Keychain"
   },
@@ -9625,7 +9625,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.18.9",
+    "Version": "0.18.10",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://nvim-neorocks.github.io/"
   },
@@ -12985,7 +12985,7 @@
   },
   {
     "Package": "robin-map",
-    "Version": "1.4.0",
+    "Version": "1.4.1",
     "Description": "C++ implementation of a fast hash map and hash set using robin hood hashing",
     "Homepage": "https://github.com/Tessil/robin-map/"
   },
@@ -13525,7 +13525,7 @@
   },
   {
     "Package": "simdjson",
-    "Version": "4.1.0",
+    "Version": "4.2.0",
     "Description": "A C++ library to see how fast we can parse JSON with complete validation",
     "Homepage": "https://simdjson.org/"
   },

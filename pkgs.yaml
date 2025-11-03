@@ -779,7 +779,7 @@
   Description: Static libraries for capstone
   Homepage: https://www.capstone-engine.org/
 - Package: carapace
-  Version: 1.5.3
+  Version: 1.5.4
   Description: Multi-shell multi-command argument completer
   Homepage: https://carapace.sh/
 - Package: cargo-c
@@ -895,7 +895,7 @@
   Description: Static libraries for check
   Homepage: https://libcheck.github.io/check
 - Package: chezmoi
-  Version: 2.66.1
+  Version: 2.67.0
   Description: Manage your dotfiles across multiple machines
   Homepage: https://chezmoi.io
 - Package: chicken
@@ -3243,7 +3243,7 @@
   Description: Key directory that maps social media identities to encryption keys
   Homepage: https://keybase.io
 - Package: keychain
-  Version: 2.9.7
+  Version: 2.9.8
   Description: keychain ssh-agent front-end
   Homepage: https://www.funtoo.org/Keychain
 - Package: kibi
@@ -6415,7 +6415,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.18.9
+  Version: 0.18.10
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://nvim-neorocks.github.io/
 - Package: lv2
@@ -8655,7 +8655,7 @@
   Description: Batch rename files and directories using regular expression (rust)
   Homepage: https://github.com/ismaelgv/rnr
 - Package: robin-map
-  Version: 1.4.0
+  Version: 1.4.1
   Description: C++ implementation of a fast hash map and hash set using robin hood hashing
   Homepage: https://github.com/Tessil/robin-map/
 - Package: robotfindskitten
@@ -9015,7 +9015,7 @@
   Description: Implementations of SIMD instructions for all systems
   Homepage: https://simd-everywhere.github.io/
 - Package: simdjson
-  Version: 4.1.0
+  Version: 4.2.0
   Description: A C++ library to see how fast we can parse JSON with complete validation
   Homepage: https://simdjson.org/
 - Package: simh
