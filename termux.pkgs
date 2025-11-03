@@ -403,7 +403,7 @@
 | **ebook-tools** | 0.2.2-3 | Tools for accessing and converting various ebook file formats | https://sourceforge.net/projects/ebook-tools/ |
 | **ecj** | 1:4.12-5 | Eclipse Compiler for Java | https://www.eclipse.org/jdt/core/ |
 | **ed** | 1.22.2-1 | Classic UNIX line editor | https://www.gnu.org/software/ed/ |
-| **edbrowse** | 3.8.13 | Line based editor, browser, and mail client | https://edbrowse.org/ |
+| **edbrowse** | 3.8.14 | Line based editor, browser, and mail client | https://edbrowse.org/ |
 | **editorconfig-core-c** | 0.12.10 | EditorConfig core code written in C (for use by plugins supporting EditorConfig parsing) | https://editorconfig.org/ |
 | **editorconfig-core-c-static** | 0.12.10 | Static libraries for editorconfig-core-c | https://editorconfig.org/ |
 | **eigen** | 3.4.0 | Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms | http://eigen.tuxfamily.org |
@@ -1771,7 +1771,7 @@
 | **ndk-sysroot** | 28c | System header and library files from the Android NDK needed for compiling C programs | https://developer.android.com/tools/sdk/ndk/index.html |
 | **ne** | 3.3.4-2 | Easy-to-use and powerful text editor | https://ne.di.unimi.it/ |
 | **nelua** | 2024.01.13-1 | Minimal, efficient, statically-typed and meta-programmable systems programming language | https://nelua.io |
-| **neocmakelsp** | 0.8.25 | a cmake lsp based on tower-lsp and treesitter | https://neocmakelsp.github.io/ |
+| **neocmakelsp** | 0.8.26 | a cmake lsp based on tower-lsp and treesitter | https://neocmakelsp.github.io/ |
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20250905 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.11.5 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
@@ -2188,7 +2188,7 @@
 | **runit-static** | 2.1.2-4 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.7.0-1 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
 | **rust** | 1.91.0 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
-| **rust-analyzer** | 20251028 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
+| **rust-analyzer** | 20251103 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
 | **rust-bindgen** | 0.72.1 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
 | **rust-docs** | 1.91.0 | Rust documentation | https://www.rust-lang.org/ |
 | **rust-src** | 1.91.0 | Rust source code files | https://www.rust-lang.org/ |
