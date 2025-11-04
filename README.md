@@ -779,7 +779,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4-1 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-2 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.24.244 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.24.247 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **jadx** | 1.5.3 | Dex to Java decompiler | https://github.com/skylot/jadx |
 | **jadx-x** | 1.5.3 | Dex to Java decompiler GUI | https://github.com/skylot/jadx |
 | **janet** | 1.39.1 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
