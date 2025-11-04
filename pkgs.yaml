@@ -5287,7 +5287,7 @@
   Description: Static libraries for librocksdb
   Homepage: https://rocksdb.org/
 - Package: librsvg
-  Version: 2.61.2-1
+  Version: 2.61.3
   Description: Library to render SVG files using cairo
   Homepage: https://wiki.gnome.org/action/show/Projects/LibRsvg
 - Package: librsync
@@ -6415,7 +6415,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.18.10
+  Version: 0.18.11
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://nvim-neorocks.github.io/
 - Package: lv2
@@ -8575,7 +8575,7 @@
   Description: In-memory data structure store used as a database, cache and message broker
   Homepage: https://redis.io/
 - Package: remind
-  Version: 1:06.01.08
+  Version: 1:06.02.00
   Description: Sophisticated calendar and alarm program
   Homepage: https://dianne.skoll.ca/projects/remind/
 - Package: renameutils
@@ -9663,7 +9663,7 @@
   Description: Documentation system for on-line information and printed output
   Homepage: https://www.gnu.org/software/texinfo/
 - Package: texlab
-  Version: 5.23.1-1
+  Version: 5.24.0
   Description: A cross-platform implementation of the Language Server Protocol providing rich cross-editing support for the LaTeX typesetting system
   Homepage: https://texlab.netlify.app/
 - Package: texlive-bin
