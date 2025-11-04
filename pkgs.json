@@ -5437,7 +5437,7 @@
   },
   {
     "Package": "libc++",
-    "Version": "28c",
+    "Version": "28c-1",
     "Description": "C++ Standard Library",
     "Homepage": "https://libcxx.llvm.org/"
   },
@@ -10603,25 +10603,25 @@
   },
   {
     "Package": "ndk-multilib",
-    "Version": "28c-2",
+    "Version": "28c-3",
     "Description": "Multilib binaries for cross-compilation",
     "Homepage": "https://developer.android.com/tools/sdk/ndk/index.html"
   },
   {
     "Package": "ndk-multilib-native-static",
-    "Version": "28c-2",
+    "Version": "28c-3",
     "Description": "Install native static libs from NDK",
     "Homepage": "https://developer.android.com/tools/sdk/ndk/index.html"
   },
   {
     "Package": "ndk-multilib-native-stubs",
-    "Version": "28c-2",
+    "Version": "28c-3",
     "Description": "Install native stubs for shared libs from NDK",
     "Homepage": "https://developer.android.com/tools/sdk/ndk/index.html"
   },
   {
     "Package": "ndk-sysroot",
-    "Version": "28c",
+    "Version": "28c-1",
     "Description": "System header and library files from the Android NDK needed for compiling C programs",
     "Homepage": "https://developer.android.com/tools/sdk/ndk/index.html"
   },
@@ -11131,43 +11131,43 @@
   },
   {
     "Package": "openjdk-17",
-    "Version": "17.0.17",
+    "Version": "17.0.17-1",
     "Description": "Java development kit and runtime",
     "Homepage": "https://openjdk.java.net"
   },
   {
     "Package": "openjdk-17-source",
-    "Version": "17.0.17",
+    "Version": "17.0.17-1",
     "Description": "Source files for openjdk-17",
     "Homepage": "https://openjdk.java.net"
   },
   {
     "Package": "openjdk-17-x",
-    "Version": "17.0.17",
+    "Version": "17.0.17-1",
     "Description": "Portion of openjdk-17 requiring X11 functionality",
     "Homepage": "https://openjdk.java.net"
   },
   {
     "Package": "openjdk-21",
-    "Version": "21.0.9",
+    "Version": "21.0.9-1",
     "Description": "Java development kit and runtime",
     "Homepage": "https://openjdk.java.net"
   },
   {
     "Package": "openjdk-21-source",
-    "Version": "21.0.9",
+    "Version": "21.0.9-1",
     "Description": "Source files for openjdk-21",
     "Homepage": "https://openjdk.java.net"
   },
   {
     "Package": "openjdk-21-x",
-    "Version": "21.0.9",
+    "Version": "21.0.9-1",
     "Description": "Portion of openjdk-21 requiring X11 functionality",
     "Homepage": "https://openjdk.java.net"
   },
   {
     "Package": "openjdk-25-source",
-    "Version": "25.0.1",
+    "Version": "25.0.1-1",
     "Description": "Source files for openjdk-25",
     "Homepage": "https://openjdk.java.net"
   },
@@ -15469,7 +15469,7 @@
   },
   {
     "Package": "vulkan-loader-android",
-    "Version": "28c-1",
+    "Version": "28c-2",
     "Description": "Vulkan Loader for Android",
     "Homepage": "https://source.android.com/devices/graphics/arch-vulkan"
   },

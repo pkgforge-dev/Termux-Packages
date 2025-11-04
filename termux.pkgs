@@ -904,7 +904,7 @@
 | **libburn** | 1.5.6-1 | Library for reading, mastering and writing optical discs | https://dev.lovelyhq.com/libburnia |
 | **libburn-static** | 1.5.6-1 | Static libraries for libburn | https://dev.lovelyhq.com/libburnia |
 | **libbz2** | 1.0.8-8 | BZ2 format compression library | http://www.bzip.org/ |
-| **libc++** | 28c | C++ Standard Library | https://libcxx.llvm.org/ |
+| **libc++** | 28c-1 | C++ Standard Library | https://libcxx.llvm.org/ |
 | **libc++utilities** | 5.31.0 | Useful C++ classes and routines such as argument parser, IO and conversion utilities | https://github.com/Martchus/cpp-utilities |
 | **libc-client** | 2007f-4 | UW IMAP c-client library | https://www.washington.edu/imap/ |
 | **libc-client-static** | 2007f-4 | Static libraries for libc-client | https://www.washington.edu/imap/ |
@@ -1765,10 +1765,10 @@
 | **ncurses-ui-libs** | 6.5.20240831-3 | Libraries for terminal user interfaces based on ncurses | https://invisible-island.net/ncurses/ |
 | **ncurses-ui-libs-static** | 6.5.20240831-3 | Static libraries for terminal user interfaces based on ncurses | https://invisible-island.net/ncurses/ |
 | **ncurses-utils** | 6.5.20240831-3 | Tools for working with terminals | https://invisible-island.net/ncurses/ |
-| **ndk-multilib** | 28c-2 | Multilib binaries for cross-compilation | https://developer.android.com/tools/sdk/ndk/index.html |
-| **ndk-multilib-native-static** | 28c-2 | Install native static libs from NDK | https://developer.android.com/tools/sdk/ndk/index.html |
-| **ndk-multilib-native-stubs** | 28c-2 | Install native stubs for shared libs from NDK | https://developer.android.com/tools/sdk/ndk/index.html |
-| **ndk-sysroot** | 28c | System header and library files from the Android NDK needed for compiling C programs | https://developer.android.com/tools/sdk/ndk/index.html |
+| **ndk-multilib** | 28c-3 | Multilib binaries for cross-compilation | https://developer.android.com/tools/sdk/ndk/index.html |
+| **ndk-multilib-native-static** | 28c-3 | Install native static libs from NDK | https://developer.android.com/tools/sdk/ndk/index.html |
+| **ndk-multilib-native-stubs** | 28c-3 | Install native stubs for shared libs from NDK | https://developer.android.com/tools/sdk/ndk/index.html |
+| **ndk-sysroot** | 28c-1 | System header and library files from the Android NDK needed for compiling C programs | https://developer.android.com/tools/sdk/ndk/index.html |
 | **ne** | 3.3.4-2 | Easy-to-use and powerful text editor | https://ne.di.unimi.it/ |
 | **nelua** | 2024.01.13-1 | Minimal, efficient, statically-typed and meta-programmable systems programming language | https://nelua.io |
 | **neocmakelsp** | 0.8.26 | a cmake lsp based on tower-lsp and treesitter | https://neocmakelsp.github.io/ |
@@ -1853,13 +1853,13 @@
 | **openfoam** | 2412-4 | OpenFOAM is a CFD software written in C++ | https://www.openfoam.com |
 | **opengl** | 4.5 | A metapackage for OpenGL implementation | https://github.com/termux/termux-packages |
 | **openh264** | 2.6.0-1 | Codec library supporting H.264 encoding and decoding | https://www.openh264.org/ |
-| **openjdk-17** | 17.0.17 | Java development kit and runtime | https://openjdk.java.net |
-| **openjdk-17-source** | 17.0.17 | Source files for openjdk-17 | https://openjdk.java.net |
-| **openjdk-17-x** | 17.0.17 | Portion of openjdk-17 requiring X11 functionality | https://openjdk.java.net |
-| **openjdk-21** | 21.0.9 | Java development kit and runtime | https://openjdk.java.net |
-| **openjdk-21-source** | 21.0.9 | Source files for openjdk-21 | https://openjdk.java.net |
-| **openjdk-21-x** | 21.0.9 | Portion of openjdk-21 requiring X11 functionality | https://openjdk.java.net |
-| **openjdk-25-source** | 25.0.1 | Source files for openjdk-25 | https://openjdk.java.net |
+| **openjdk-17** | 17.0.17-1 | Java development kit and runtime | https://openjdk.java.net |
+| **openjdk-17-source** | 17.0.17-1 | Source files for openjdk-17 | https://openjdk.java.net |
+| **openjdk-17-x** | 17.0.17-1 | Portion of openjdk-17 requiring X11 functionality | https://openjdk.java.net |
+| **openjdk-21** | 21.0.9-1 | Java development kit and runtime | https://openjdk.java.net |
+| **openjdk-21-source** | 21.0.9-1 | Source files for openjdk-21 | https://openjdk.java.net |
+| **openjdk-21-x** | 21.0.9-1 | Portion of openjdk-21 requiring X11 functionality | https://openjdk.java.net |
+| **openjdk-25-source** | 25.0.1-1 | Source files for openjdk-25 | https://openjdk.java.net |
 | **openjpeg** | 2.5.4 | JPEG 2000 image compression library | https://www.openjpeg.org/ |
 | **openjpeg-tools** | 2.5.4 | Command-line tools using the JPEG 2000 library | https://www.openjpeg.org/ |
 | **openldap** | 2.6.10-1 | OpenLDAP server | https://openldap.org |
@@ -2576,7 +2576,7 @@
 | **vulkan-headers** | 1.4.331 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
 | **vulkan-icd** | 0.1 | A metapackage that provides Vulkan ICDs | https://github.com/termux/termux-packages |
 | **vulkan-loader** | 0.0.3 | A metapackage that provides vulkan loader library | https://github.com/termux/termux-packages |
-| **vulkan-loader-android** | 28c-1 | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
+| **vulkan-loader-android** | 28c-2 | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
 | **vulkan-loader-generic** | 1.4.331 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
 | **vulkan-tools** | 1.4.331 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
 | **vulkan-utility-libraries** | 1.4.331 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
