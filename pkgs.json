@@ -3259,13 +3259,13 @@
   },
   {
     "Package": "geth",
-    "Version": "1.16.6",
+    "Version": "1.16.7",
     "Description": "Go implementation of the Ethereum protocol",
     "Homepage": "https://geth.ethereum.org/"
   },
   {
     "Package": "geth-utils",
-    "Version": "1.16.6",
+    "Version": "1.16.7",
     "Description": "Additional utilities for Geth (like abigen, bootnode, evm, puppeth)",
     "Homepage": "https://geth.ethereum.org/"
   },
@@ -3451,7 +3451,7 @@
   },
   {
     "Package": "glab-cli",
-    "Version": "1.75.0",
+    "Version": "1.76.0",
     "Description": "A GitLab CLI tool bringing GitLab to your command line",
     "Homepage": "https://gitlab.com/gitlab-org/cli"
   },
@@ -10975,7 +10975,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "27.4.4",
+    "Version": "27.5.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
