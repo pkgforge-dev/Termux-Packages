@@ -3451,7 +3451,7 @@
   },
   {
     "Package": "glab-cli",
-    "Version": "1.76.1",
+    "Version": "1.76.2",
     "Description": "A GitLab CLI tool bringing GitLab to your command line",
     "Homepage": "https://gitlab.com/gitlab-org/cli"
   },
@@ -4045,19 +4045,19 @@
   },
   {
     "Package": "harfbuzz",
-    "Version": "12.1.0",
+    "Version": "12.2.0",
     "Description": "OpenType text shaping engine",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-icu",
-    "Version": "12.1.0",
+    "Version": "12.2.0",
     "Description": "OpenType text shaping engine ICU backend",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-utils",
-    "Version": "12.1.0",
+    "Version": "12.2.0",
     "Description": "Tools using the harfbuzz library",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
