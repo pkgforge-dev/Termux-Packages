@@ -1765,7 +1765,7 @@
   },
   {
     "Package": "curl",
-    "Version": "8.16.0",
+    "Version": "8.17.0",
     "Description": "Command line tool for transferring data with URL syntax",
     "Homepage": "https://curl.se/"
   },
@@ -3907,7 +3907,7 @@
   },
   {
     "Package": "groonga",
-    "Version": "15.1.8",
+    "Version": "15.1.9",
     "Description": "An embeddable fulltext search engine",
     "Homepage": "https://github.com/groonga/groonga/"
   },
@@ -4339,7 +4339,7 @@
   },
   {
     "Package": "hwdata",
-    "Version": "0.400",
+    "Version": "0.401",
     "Description": "Database of hardware identification and configuration data",
     "Homepage": "https://github.com/vcrhonek/hwdata"
   },
@@ -5725,13 +5725,13 @@
   },
   {
     "Package": "libcurl",
-    "Version": "8.16.0",
+    "Version": "8.17.0",
     "Description": "Easy-to-use client-side URL transfer library",
     "Homepage": "https://curl.se/"
   },
   {
     "Package": "libcurl-static",
-    "Version": "8.16.0",
+    "Version": "8.17.0",
     "Description": "Static libraries for libcurl",
     "Homepage": "https://curl.se/"
   },
@@ -8677,13 +8677,13 @@
   },
   {
     "Package": "liburcu",
-    "Version": "0.15.3-1",
+    "Version": "0.15.4",
     "Description": "LGPLv2.1 userspace RCU (read-copy-update) library",
     "Homepage": "https://liburcu.org/"
   },
   {
     "Package": "liburcu-static",
-    "Version": "0.15.3-1",
+    "Version": "0.15.4",
     "Description": "Static libraries for liburcu",
     "Homepage": "https://liburcu.org/"
   },
@@ -14107,7 +14107,7 @@
   },
   {
     "Package": "swi-prolog",
-    "Version": "9.3.33",
+    "Version": "9.3.34",
     "Description": "Most popular and complete prolog implementation",
     "Homepage": "https://swi-prolog.org/"
   },
@@ -14311,7 +14311,7 @@
   },
   {
     "Package": "teleport-tsh",
-    "Version": "18.3.0",
+    "Version": "18.3.1",
     "Description": "Secure Access for Developers that doesnt get in the way",
     "Homepage": "https://github.com/gravitational/teleport"
   },
