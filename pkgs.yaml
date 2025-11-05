@@ -2203,7 +2203,7 @@
   Description: The Forth implementation of the GNU project
   Homepage: https://www.gnu.org/software/gforth/
 - Package: gh
-  Version: 2.82.1
+  Version: 2.83.0
   Description: GitHub’s official command line tool
   Homepage: https://cli.github.com/
 - Package: ghc
@@ -2299,7 +2299,7 @@
   Description: Simple, Portable, Free File Transfer Software for UNIX
   Homepage: http://www.columbia.edu/kermit/gkermit.html
 - Package: glab-cli
-  Version: 1.76.0
+  Version: 1.76.1
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
@@ -3627,7 +3627,7 @@
   Description: C++ Standard Library
   Homepage: https://libcxx.llvm.org/
 - Package: libc++utilities
-  Version: 5.31.0
+  Version: 5.31.1
   Description: Useful C++ classes and routines such as argument parser, IO and conversion utilities
   Homepage: https://github.com/Martchus/cpp-utilities
 - Package: libc-client
@@ -5683,7 +5683,7 @@
   Description: Generic library support script hiding the complexity of using shared libraries behind a consistent, portable interface
   Homepage: https://www.gnu.org/software/libtool/
 - Package: libtorrent
-  Version: 0.16.1
+  Version: 0.16.2
   Description: Libtorrent BitTorrent library
   Homepage: https://github.com/rakshasa/rtorrent/wiki
 - Package: libtorrent-rasterbar
@@ -5691,7 +5691,7 @@
   Description: A feature complete C++ bittorrent implementation focusing on efficiency and scalability
   Homepage: https://libtorrent.org/
 - Package: libtorrent-static
-  Version: 0.16.1
+  Version: 0.16.2
   Description: Static libraries for libtorrent
   Homepage: https://github.com/rakshasa/rtorrent/wiki
 - Package: libtpms
@@ -6415,7 +6415,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.18.11
+  Version: 0.19.0
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://nvim-neorocks.github.io/
 - Package: lv2
@@ -8307,7 +8307,7 @@
   Description: A Pigz-like tool for Zstandard
   Homepage: https://github.com/facebook/zstd
 - Package: q-dns-client
-  Version: 0.19.9
+  Version: 0.19.10
   Description: A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH
   Homepage: https://github.com/natesales/q
 - Package: qalc
@@ -8703,7 +8703,7 @@
   Description: Static libraries for rtmpdump
   Homepage: https://rtmpdump.mplayerhq.hu/
 - Package: rtorrent
-  Version: 0.16.1
+  Version: 0.16.2
   Description: Ncurses BitTorrent client based on libTorrent
   Homepage: https://rakshasa.github.io/rtorrent/
 - Package: rubberband

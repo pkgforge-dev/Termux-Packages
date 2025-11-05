@@ -3307,7 +3307,7 @@
   },
   {
     "Package": "gh",
-    "Version": "2.82.1",
+    "Version": "2.83.0",
     "Description": "GitHub’s official command line tool",
     "Homepage": "https://cli.github.com/"
   },
@@ -3451,7 +3451,7 @@
   },
   {
     "Package": "glab-cli",
-    "Version": "1.76.0",
+    "Version": "1.76.1",
     "Description": "A GitLab CLI tool bringing GitLab to your command line",
     "Homepage": "https://gitlab.com/gitlab-org/cli"
   },
@@ -5443,7 +5443,7 @@
   },
   {
     "Package": "libc++utilities",
-    "Version": "5.31.0",
+    "Version": "5.31.1",
     "Description": "Useful C++ classes and routines such as argument parser, IO and conversion utilities",
     "Homepage": "https://github.com/Martchus/cpp-utilities"
   },
@@ -8527,7 +8527,7 @@
   },
   {
     "Package": "libtorrent",
-    "Version": "0.16.1",
+    "Version": "0.16.2",
     "Description": "Libtorrent BitTorrent library",
     "Homepage": "https://github.com/rakshasa/rtorrent/wiki"
   },
@@ -8539,7 +8539,7 @@
   },
   {
     "Package": "libtorrent-static",
-    "Version": "0.16.1",
+    "Version": "0.16.2",
     "Description": "Static libraries for libtorrent",
     "Homepage": "https://github.com/rakshasa/rtorrent/wiki"
   },
@@ -9625,7 +9625,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.18.11",
+    "Version": "0.19.0",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://nvim-neorocks.github.io/"
   },
@@ -12463,7 +12463,7 @@
   },
   {
     "Package": "q-dns-client",
-    "Version": "0.19.9",
+    "Version": "0.19.10",
     "Description": "A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH",
     "Homepage": "https://github.com/natesales/q"
   },
@@ -13057,7 +13057,7 @@
   },
   {
     "Package": "rtorrent",
-    "Version": "0.16.1",
+    "Version": "0.16.2",
     "Description": "Ncurses BitTorrent client based on libTorrent",
     "Homepage": "https://rakshasa.github.io/rtorrent/"
   },
