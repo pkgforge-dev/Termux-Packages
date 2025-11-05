@@ -37,7 +37,7 @@
 | **aichat** | 0.30.0-1 | A powerful chatgpt cli | https://github.com/sigoden/aichat |
 | **aidl** | 13.0.0.6-22 | Android Interface Definition Language (AIDL) | https://elinux.org/Android_aapt |
 | **alass** | 2.0.0-3 | Automatic Language-Agnostic Subtitle Synchronization | https://github.com/kaegi/alass |
-| **alembic** | 1.8.9 | A framework for sharing scene data that includes a C++ lib, a file format and client plugin | https://alembic.io |
+| **alembic** | 1.8.9-1 | A framework for sharing scene data that includes a C++ lib, a file format and client plugin | https://alembic.io |
 | **algernon** | 1.17.4 | Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support | https://algernon.roboticoverlords.org/ |
 | **alpine** | 2.26-1 | Fast, easy to use email client | http://alpine.x10host.com/ |
 | **alsa-lib** | 1.2.14-1 | The Advanced Linux Sound Architecture (ALSA) - library | https://www.alsa-project.org |
@@ -599,8 +599,8 @@
 | **glslang** | 16.0.0-1 | OpenGL and OpenGL ES shader front end and validator | https://github.com/KhronosGroup/glslang |
 | **gluelang** | 0.2.0-2 | A programming language that has a strong nature to be a glue of commands | https://ryuichiueda.github.io/GlueLang/ |
 | **glulxe** | 0.6.1-1 | Interpreter for the Glulx portable VM for interactive fiction (IF) games | https://www.eblong.com/zarf/glulx/ |
-| **gmic** | 3.5.3-2 | Full-featured framework for image processing | https://gmic.eu |
-| **gmic-gm** | 3.5.3-2 | Full-featured framework for image processing (GraphicsMagick variant) | https://gmic.eu |
+| **gmic** | 3.5.3-3 | Full-featured framework for image processing | https://gmic.eu |
+| **gmic-gm** | 3.5.3-3 | Full-featured framework for image processing (GraphicsMagick variant) | https://gmic.eu |
 | **gn** | 20250605-1 | Meta-build system that generates build files for Ninja | https://gn.googlesource.com/gn |
 | **gnucap** | 20210107-4 | The Gnu Circuit Analysis Package | https://www.gnu.org/software/gnucap/gnucap.html |
 | **gnuchess** | 6.3.0 | Chess-playing program | https://www.gnu.org/software/chess/ |
@@ -748,9 +748,9 @@
 | **id3lib** | 3.8.3-4 | A software library for manipulating ID3v1/v1.1 and ID3v2 tags | https://id3lib.sourceforge.net/ |
 | **id3lib-static** | 3.8.3-4 | Static libraries for id3lib | https://id3lib.sourceforge.net/ |
 | **id3v2** | 0.1.12-2 | A command line id3v2 tag editor | https://id3v2.sourceforge.net/ |
-| **imagemagick** | 7.1.2.8 | Suite to create, edit, compose, or convert images in a variety of formats | https://www.imagemagick.org/ |
-| **imagemagick-static** | 7.1.2.8 | Static libraries for imagemagick | https://www.imagemagick.org/ |
-| **imath** | 3.1.12-1 | Library for vector/matrix and math operations, plus the half type | https://imath.readthedocs.io/ |
+| **imagemagick** | 7.1.2.8-1 | Suite to create, edit, compose, or convert images in a variety of formats | https://www.imagemagick.org/ |
+| **imagemagick-static** | 7.1.2.8-1 | Static libraries for imagemagick | https://www.imagemagick.org/ |
+| **imath** | 3.2.2 | Library for vector/matrix and math operations, plus the half type | https://imath.readthedocs.io/ |
 | **imgflo** | 0.4.2-9 | HTTP image processing server & Flowhub.io compatible runtime | https://github.com/imgflo/imgflo |
 | **imlib2** | 1.12.5-1 | Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support | https://sourceforge.net/projects/enlightenment/ |
 | **imlib2-static** | 1.12.5-1 | Static libraries for imlib2 | https://sourceforge.net/projects/enlightenment/ |
@@ -1471,7 +1471,7 @@
 | **libvbisam** | 2.0-3 | A replacement for IBM's C-ISAM | https://sourceforge.net/projects/vbisam/ |
 | **libvbisam-static** | 2.0-3 | Static libraries for libvbisam | https://sourceforge.net/projects/vbisam/ |
 | **libvidstab** | 1.1.1-3 | video stabilization library | https://github.com/georgmartius/vid.stab |
-| **libvigra** | 1.12.2-3 | Computer vision library | https://ukoethe.github.io/vigra/ |
+| **libvigra** | 1.12.2-4 | Computer vision library | https://ukoethe.github.io/vigra/ |
 | **libvips** | 8.17.3 | A fast image processing library with low memory needs | https://libvips.github.io/libvips/ |
 | **libvmaf** | 3.0.0-2 | A perceptual video quality assessment algorithm developed by Netflix | https://github.com/Netflix/vmaf |
 | **libvmaf-static** | 3.0.0-2 | Static libraries for libvmaf | https://github.com/Netflix/vmaf |
@@ -1858,10 +1858,10 @@
 | **opencl-clhpp** | 2025.07.22 | Khronos OpenCL C++ Headers | https://github.com/KhronosGroup/OpenCL-CLHPP |
 | **opencl-headers** | 2025.07.22 | Khronos OpenCL-Headers | https://github.com/KhronosGroup/OpenCL-Headers |
 | **opencl-vendor-driver** | 0.3 | OpenCL driver from system vendor | https://termux.dev |
-| **opencolorio** | 2.5.0 | A color management framework for visual effects and animation | https://opencolorio.org |
+| **opencolorio** | 2.5.0-1 | A color management framework for visual effects and animation | https://opencolorio.org |
 | **openethereum** | 3.3.5-5 | Lightweight Ethereum Client | https://openethereum.github.io |
 | **openethereum-utils** | 3.3.5-5 | Additional utilities for OpenEthereum (like evm, ethstore, ethkey) | https://openethereum.github.io |
-| **openexr** | 3.4.0 | Provides the specification and reference implementation of the EXR file format | https://www.openexr.com/ |
+| **openexr** | 3.4.0-1 | Provides the specification and reference implementation of the EXR file format | https://www.openexr.com/ |
 | **openfoam** | 2412-4 | OpenFOAM is a CFD software written in C++ | https://www.openfoam.com |
 | **opengl** | 4.5 | A metapackage for OpenGL implementation | https://github.com/termux/termux-packages |
 | **openh264** | 2.6.0-1 | Codec library supporting H.264 encoding and decoding | https://www.openh264.org/ |
@@ -1888,7 +1888,7 @@
 | **openssl** | 1:3.5.2 | Library implementing the SSL and TLS protocols as well as general purpose cryptography functions | https://www.openssl.org/ |
 | **openssl-static** | 1:3.5.2 | Static libraries for openssl | https://www.openssl.org/ |
 | **openssl-tool** | 1:3.5.2 | The openssl command line cryptographic tool | https://www.openssl.org/ |
-| **opentimelineio** | 0.17.0-1 | Open Source API and interchange format for editorial timeline information. | http://opentimeline.io/ |
+| **opentimelineio** | 0.17.0-2 | Open Source API and interchange format for editorial timeline information. | http://opentimeline.io/ |
 | **openxr** | 1.1.53 | Open standard that provides a common set of APIs for developing XR applications | https://www.khronos.org/openxr/ |
 | **optipng** | 7.9.1-1 | PNG optimizer that recompresses image files to a smaller size, without losing any information | https://optipng.sourceforge.net/ |
 | **opus-tools** | 0.2-4 | Utilities to encode and decode .opus files | https://www.opus-codec.org/ |
@@ -2006,8 +2006,8 @@
 | **potrace** | 1.16-2 | Tool for transforming a bitmap into a smooth, scalable image | https://potrace.sourceforge.net |
 | **potrace-static** | 1.16-2 | Static libraries for potrace | https://potrace.sourceforge.net |
 | **pounce** | 3.1-1 | A multi-client, TLS-only IRC bouncer | https://git.causal.agency/pounce |
-| **povray** | 3.8.0-beta.2-16 | The Persistence of Vision Raytracer | https://www.povray.org/ |
-| **povray-data** | 3.8.0-beta.2-16 | Platform-independent data for povray | https://www.povray.org/ |
+| **povray** | 3.8.0-beta.2-17 | The Persistence of Vision Raytracer | https://www.povray.org/ |
+| **povray-data** | 3.8.0-beta.2-17 | Platform-independent data for povray | https://www.povray.org/ |
 | **predict** | 2.3.1-3 | A Satellite Tracking/Orbital Prediction Program | https://www.qsl.net/kd2bd/predict.html |
 | **privoxy** | 4.0.0 | Non-caching web proxy with advanced filtering capabilities | https://www.privoxy.org |
 | **procps** | 3.3.17-6 | Utilities that give information about processes using the /proc filesystem | https://gitlab.com/procps-ng/procps |

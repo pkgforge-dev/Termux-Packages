@@ -107,7 +107,7 @@
   Description: Automatic Language-Agnostic Subtitle Synchronization
   Homepage: https://github.com/kaegi/alass
 - Package: alembic
-  Version: 1.8.9
+  Version: 1.8.9-1
   Description: A framework for sharing scene data that includes a C++ lib, a file format and client plugin
   Homepage: https://alembic.io
 - Package: algernon
@@ -2355,11 +2355,11 @@
   Description: Interpreter for the Glulx portable VM for interactive fiction (IF) games
   Homepage: https://www.eblong.com/zarf/glulx/
 - Package: gmic
-  Version: 3.5.3-2
+  Version: 3.5.3-3
   Description: Full-featured framework for image processing
   Homepage: https://gmic.eu
 - Package: gmic-gm
-  Version: 3.5.3-2
+  Version: 3.5.3-3
   Description: Full-featured framework for image processing (GraphicsMagick variant)
   Homepage: https://gmic.eu
 - Package: gn
@@ -2951,15 +2951,15 @@
   Description: A command line id3v2 tag editor
   Homepage: https://id3v2.sourceforge.net/
 - Package: imagemagick
-  Version: 7.1.2.8
+  Version: 7.1.2.8-1
   Description: Suite to create, edit, compose, or convert images in a variety of formats
   Homepage: https://www.imagemagick.org/
 - Package: imagemagick-static
-  Version: 7.1.2.8
+  Version: 7.1.2.8-1
   Description: Static libraries for imagemagick
   Homepage: https://www.imagemagick.org/
 - Package: imath
-  Version: 3.1.12-1
+  Version: 3.2.2
   Description: Library for vector/matrix and math operations, plus the half type
   Homepage: https://imath.readthedocs.io/
 - Package: imgflo
@@ -5843,7 +5843,7 @@
   Description: video stabilization library
   Homepage: https://github.com/georgmartius/vid.stab
 - Package: libvigra
-  Version: 1.12.2-3
+  Version: 1.12.2-4
   Description: Computer vision library
   Homepage: https://ukoethe.github.io/vigra/
 - Package: libvips
@@ -7391,7 +7391,7 @@
   Description: OpenCL driver from system vendor
   Homepage: https://termux.dev
 - Package: opencolorio
-  Version: 2.5.0
+  Version: 2.5.0-1
   Description: A color management framework for visual effects and animation
   Homepage: https://opencolorio.org
 - Package: openethereum
@@ -7403,7 +7403,7 @@
   Description: Additional utilities for OpenEthereum (like evm, ethstore, ethkey)
   Homepage: https://openethereum.github.io
 - Package: openexr
-  Version: 3.4.0
+  Version: 3.4.0-1
   Description: Provides the specification and reference implementation of the EXR file format
   Homepage: https://www.openexr.com/
 - Package: openfoam
@@ -7511,7 +7511,7 @@
   Description: The openssl command line cryptographic tool
   Homepage: https://www.openssl.org/
 - Package: opentimelineio
-  Version: 0.17.0-1
+  Version: 0.17.0-2
   Description: Open Source API and interchange format for editorial timeline information.
   Homepage: http://opentimeline.io/
 - Package: openxr
@@ -7983,11 +7983,11 @@
   Description: A multi-client, TLS-only IRC bouncer
   Homepage: https://git.causal.agency/pounce
 - Package: povray
-  Version: 3.8.0-beta.2-16
+  Version: 3.8.0-beta.2-17
   Description: The Persistence of Vision Raytracer
   Homepage: https://www.povray.org/
 - Package: povray-data
-  Version: 3.8.0-beta.2-16
+  Version: 3.8.0-beta.2-17
   Description: Platform-independent data for povray
   Homepage: https://www.povray.org/
 - Package: predict
