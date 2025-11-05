@@ -1321,7 +1321,7 @@
 | **librav1e-static** | 0.8.1 | Static libraries for librav1e | https://github.com/xiph/rav1e/ |
 | **libraw** | 0.21.4-1 | Library for reading RAW files from digital cameras | https://www.libraw.org/ |
 | **libraw-static** | 0.21.4-1 | Static libraries for libraw | https://www.libraw.org/ |
-| **libre2** | 2025-08-12-1 | A regular expression library | https://github.com/google/re2 |
+| **libre2** | 2025-11-05-0 | A regular expression library | https://github.com/google/re2 |
 | **libregexp-assemble-perl** | 0.38-7 | Perl module to merge several regular expressions | https://metacpan.org/pod/Regexp::Assemble |
 | **libresolv-wrapper** | 1.1.7-6 | A wrapper for DNS name resolving or DNS faking | https://cwrap.org/resolv_wrapper.html |
 | **libretls** | 3.8.1-1 | libtls for OpenSSL | https://git.causal.agency/libretls/about/ |
