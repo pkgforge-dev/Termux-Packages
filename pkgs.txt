@@ -524,7 +524,7 @@
  gbt  2.0.0-6  Highly configurable prompt builder for Bash and ZSH written in Go  https://github.com/jtyr/gbt 
  gcab  1.6-1  GObject library to create cabinet files  https://gitlab.gnome.org/GNOME/gcab 
  gcal  4.1-4  Program for calculating and printing calendars  https://www.gnu.org/software/gcal/ 
- gdal  3.11.4  A translator library for raster and vector geospatial data formats  https://gdal.org 
+ gdal  3.11.5  A translator library for raster and vector geospatial data formats  https://gdal.org 
  gdb  16.3-1  The standard GNU Debugger that runs on many Unix-like systems and works for many programming languages  https://www.gnu.org/software/gdb/ 
  gdbm  1.26-1  Library of database functions that use extensible hashing  https://www.gnu.org.ua/software/gdbm/ 
  gdbm-static  1.26-1  Static libraries for gdbm  https://www.gnu.org.ua/software/gdbm/ 
@@ -1602,7 +1602,7 @@
  luvi  1:2.15.0-1  A project in-between luv and luvit  https://luvit.io 
  luvit  2.18.1-1  Asynchronous I/O for Lua  https://luvit.io 
  lux  0.24.1-2  CLI tool to download videos from various websites  https://github.com/iawia002/lux 
- lux-cli  0.19.0  A package manager for Lua, similar to luarocks  https://nvim-neorocks.github.io/ 
+ lux-cli  0.20.0  A package manager for Lua, similar to luarocks  https://nvim-neorocks.github.io/ 
  lv2  1.18.10-5  A plugin standard for audio systems  https://lv2plug.in/ 
  lychee  0.21.0  A fast, async, resource-friendly link checker written in Rust  https://github.com/lycheeverse/lychee 
  lynx  2.9.2-1  The text web browser  http://lynx.browser.org/ 
