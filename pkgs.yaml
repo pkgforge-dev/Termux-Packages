@@ -1679,19 +1679,19 @@
   Description: Emmy Lua Language Server coded in Rust
   Homepage: https://github.com/EmmyLuaLs/emmylua-analyzer-rust
 - Package: emscripten
-  Version: 4.0.18
+  Version: 4.0.19
   Description: 'Emscripten: An LLVM-to-WebAssembly Compiler'
   Homepage: https://emscripten.org
 - Package: emscripten-binaryen
-  Version: 4.0.18
+  Version: 4.0.19
   Description: Emscripten-compatible Binaryen
   Homepage: https://emscripten.org
 - Package: emscripten-llvm
-  Version: 4.0.18
+  Version: 4.0.19
   Description: Emscripten-compatible LLVM
   Homepage: https://emscripten.org
 - Package: emscripten-tests-third-party
-  Version: 4.0.18
+  Version: 4.0.19
   Description: Emscripten third party test suite files
   Homepage: https://emscripten.org
 - Package: enblend
@@ -10343,7 +10343,7 @@
   Description: Inline image extension support utilities for w3m
   Homepage: https://w3m.sourceforge.net/
 - Package: wabt
-  Version: 1.0.38
+  Version: 1.0.39
   Description: The WebAssembly Binary Toolkit
   Homepage: https://github.com/WebAssembly/wabt
 - Package: wakatime-cli
