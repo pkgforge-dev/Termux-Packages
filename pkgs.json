@@ -2275,19 +2275,19 @@
   },
   {
     "Package": "dpkg",
-    "Version": "1.22.6-4",
+    "Version": "1.22.6-5",
     "Description": "Debian package management system",
     "Homepage": "https://packages.debian.org/dpkg"
   },
   {
     "Package": "dpkg-perl",
-    "Version": "1.22.6-4",
+    "Version": "1.22.6-5",
     "Description": "Perl modules for dpkg",
     "Homepage": "https://packages.debian.org/dpkg"
   },
   {
     "Package": "dpkg-scanpackages",
-    "Version": "1.22.6-4",
+    "Version": "1.22.6-5",
     "Description": "Creates Packages index files",
     "Homepage": "https://packages.debian.org/dpkg"
   },
@@ -4501,7 +4501,7 @@
   },
   {
     "Package": "intltool",
-    "Version": "0.51.0-3",
+    "Version": "0.51.0-4",
     "Description": "The internationalization tool collection",
     "Homepage": "https://launchpad.net/intltool"
   },
@@ -6997,13 +6997,13 @@
   },
   {
     "Package": "libmediainfo",
-    "Version": "25.09",
+    "Version": "25.10",
     "Description": "Library for reading information from media files",
     "Homepage": "https://mediaarea.net/en/MediaInfo"
   },
   {
     "Package": "libmediainfo-static",
-    "Version": "25.09",
+    "Version": "25.10",
     "Description": "Static libraries for libmediainfo",
     "Homepage": "https://mediaarea.net/en/MediaInfo"
   },
@@ -9973,7 +9973,7 @@
   },
   {
     "Package": "mediainfo",
-    "Version": "25.09",
+    "Version": "25.10",
     "Description": "Command-line utility for reading information from media files",
     "Homepage": "https://mediaarea.net/en/MediaInfo"
   },
@@ -11617,7 +11617,7 @@
   },
   {
     "Package": "perl",
-    "Version": "5.40.3-1",
+    "Version": "5.40.3-2",
     "Description": "Capable, feature-rich programming language",
     "Homepage": "https://www.perl.org/"
   },
@@ -13387,7 +13387,7 @@
   },
   {
     "Package": "sendxmpp",
-    "Version": "1.24",
+    "Version": "1.24-1",
     "Description": "A perl-script to send XMPP (jabber) messages",
     "Homepage": "https://sendxmpp.hostname.sk/"
   },
@@ -13981,7 +13981,7 @@
   },
   {
     "Package": "storj-uplink",
-    "Version": "1.141.2",
+    "Version": "1.141.4",
     "Description": "Storj DCS Uplink CLI",
     "Homepage": "https://www.storj.io/integrations/uplink-cli"
   },
