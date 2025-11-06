@@ -4923,11 +4923,11 @@
   Description: Static libraries for libnpth
   Homepage: https://www.gnupg.org/related_software/npth/
 - Package: libnspr
-  Version: 4.37-1
+  Version: "4.38"
   Description: Netscape Portable Runtime (NSPR)
   Homepage: https://hg.mozilla.org/projects/nspr
 - Package: libnspr-static
-  Version: 4.37-1
+  Version: "4.38"
   Description: Static libraries for libnspr
   Homepage: https://hg.mozilla.org/projects/nspr
 - Package: libnss
@@ -7315,7 +7315,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 27.5.0
+  Version: 27.5.1
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
