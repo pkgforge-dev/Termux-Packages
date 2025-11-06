@@ -735,11 +735,11 @@
   Description: Static libraries for c-toxcore
   Homepage: https://tox.chat
 - Package: ca-certificates
-  Version: 1:2025.09.09
+  Version: 1:2025.11.04
   Description: Common CA certificates
   Homepage: https://curl.se/docs/caextract.html
 - Package: ca-certificates-java
-  Version: 1:2025.09.09
+  Version: 1:2025.11.04
   Description: Common CA certificates (java keystore format)
   Homepage: https://curl.se/docs/caextract.html
 - Package: cabextract
@@ -1755,7 +1755,7 @@
   Description: Open source xHE-AAC encoder
   Homepage: https://gitlab.com/ecodis/exhale
 - Package: exiftool
-  Version: "13.40"
+  Version: "13.41"
   Description: Utility for reading, writing and editing meta information in a wide variety of files.
   Homepage: https://exiftool.org/
 - Package: exiv2
@@ -3075,7 +3075,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.24.247
+  Version: 0.24.252
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -8919,7 +8919,7 @@
   Description: GNU stream editor for filtering/transforming text
   Homepage: https://www.gnu.org/software/sed/
 - Package: sendme
-  Version: 0.30.0
+  Version: 0.31.0
   Description: A tool to send files and directories, based on iroh
   Homepage: https://github.com/n0-computer/sendme
 - Package: sendxmpp

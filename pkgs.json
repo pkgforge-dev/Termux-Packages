@@ -1105,13 +1105,13 @@
   },
   {
     "Package": "ca-certificates",
-    "Version": "1:2025.09.09",
+    "Version": "1:2025.11.04",
     "Description": "Common CA certificates",
     "Homepage": "https://curl.se/docs/caextract.html"
   },
   {
     "Package": "ca-certificates-java",
-    "Version": "1:2025.09.09",
+    "Version": "1:2025.11.04",
     "Description": "Common CA certificates (java keystore format)",
     "Homepage": "https://curl.se/docs/caextract.html"
   },
@@ -2635,7 +2635,7 @@
   },
   {
     "Package": "exiftool",
-    "Version": "13.40",
+    "Version": "13.41",
     "Description": "Utility for reading, writing and editing meta information in a wide variety of files.",
     "Homepage": "https://exiftool.org/"
   },
@@ -4615,7 +4615,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.24.247",
+    "Version": "0.24.252",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -13381,7 +13381,7 @@
   },
   {
     "Package": "sendme",
-    "Version": "0.30.0",
+    "Version": "0.31.0",
     "Description": "A tool to send files and directories, based on iroh",
     "Homepage": "https://github.com/n0-computer/sendme"
   },
