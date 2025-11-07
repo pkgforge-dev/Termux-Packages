@@ -1559,7 +1559,7 @@
   Description: View disk space usage and delete unwanted data, fast
   Homepage: https://github.com/Byron/dua-cli
 - Package: duc
-  Version: 1.4.5-1
+  Version: 1.4.6
   Description: High-performance disk usage analyzer
   Homepage: http://duc.zevv.nl/
 - Package: duckdb
@@ -3075,7 +3075,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.24.252
+  Version: 0.24.255
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -5731,7 +5731,7 @@
   Description: Static libraries for libtwolame
   Homepage: https://www.twolame.org/
 - Package: libuber-h3
-  Version: 4.3.0-1
+  Version: 4.4.0
   Description: A hexagonal hierarchical geospatial indexing system
   Homepage: https://h3geo.org/
 - Package: libuchardet
@@ -10307,7 +10307,7 @@
   Description: Vulkan Extension Layer
   Homepage: https://github.com/KhronosGroup/Vulkan-ExtensionLayer
 - Package: vulkan-headers
-  Version: 1.4.331
+  Version: 1.4.332
   Description: Vulkan Header files and API registry
   Homepage: https://github.com/KhronosGroup/Vulkan-Headers
 - Package: vulkan-icd
