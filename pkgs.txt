@@ -170,7 +170,7 @@
  bsd-games  1:3.3-1  Classic text mode games from UNIX folklore  https://www.polyomino.org.uk/computer/software/bsd-games/ 
  bsdtar  3.8.2  The tar(1) and cpio(1) programs from FreeBSD, using libarchive  https://www.libarchive.org/ 
  btfs2  4.1.0  Decentralized file system integrating with TRON network and Bittorrent network  https://www.bittorrent.com/btfs/ 
- btrfs-progs  6.17  Utilities for Btrfs filesystem  https://btrfs.readthedocs.io/en/latest/ 
+ btrfs-progs  6.17.1  Utilities for Btrfs filesystem  https://btrfs.readthedocs.io/en/latest/ 
  buf  1.59.0  A new way of working with Protocol Buffers  https://buf.build 
  build-essential  4.1  A metapackage that installs essential development tools  https://github.com/termux/termux-packages 
  busybox  1.37.0-2  Tiny versions of many common UNIX utilities into a single small executable  https://busybox.net/ 
@@ -241,7 +241,7 @@
  clinfo  3.0.25.02.14-1  Print all known information about all available OpenCL platforms and devices in the system  https://github.com/Oblomov/clinfo 
  clipp  1.2.3-1  Command line interfaces for modern C++  https://github.com/muellan/clipp 
  cloneit  20240728-1  A cli tool to download specific GitHub directories or files  https://github.com/alok8bb/cloneit 
- cloudflared  2025.10.1  A tunneling daemon that proxies traffic from the Cloudflare network to your origins  https://github.com/cloudflare/cloudflared 
+ cloudflared  2025.11.0  A tunneling daemon that proxies traffic from the Cloudflare network to your origins  https://github.com/cloudflare/cloudflared 
  clpeak  1.1.5  A tool which profiles OpenCL devices to find their peak capacities  https://github.com/krrishnarraj/clpeak 
  clvk  0.0.20251027.085800  Experimental implementation of OpenCL on Vulkan  https://github.com/kpet/clvk 
  cmake  4.1.2  Family of tools designed to build, test and package software  https://cmake.org/ 
@@ -1936,7 +1936,7 @@
  pdftk  3.3.3-3  A simple tool for doing everyday things with PDF documents  https://gitlab.com/pdftk-java/pdftk 
  peaclock  0.4.3-8  A responsive and customizable clock, timer, and stopwatch for the terminal.  https://github.com/octobanana/peaclock 
  peco  0.5.11-2  Simplistic interactive filtering tool  https://github.com/peco/peco 
- perl  5.40.3-2  Capable, feature-rich programming language  https://www.perl.org/ 
+ perl  5.40.3-3  Capable, feature-rich programming language  https://www.perl.org/ 
  perl-rename  1.14  renames multiple files using perl expressions.  https://search.cpan.org/~pederst/rename/ 
  pet  1.0.1-1  Simple command-line snippet manager  https://github.com/knqyf263/pet 
  pforth  1:2.0.1-1  Portable Forth in C  https://www.softsynth.com/pforth/ 

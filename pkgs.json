@@ -1033,7 +1033,7 @@
   },
   {
     "Package": "btrfs-progs",
-    "Version": "6.17",
+    "Version": "6.17.1",
     "Description": "Utilities for Btrfs filesystem",
     "Homepage": "https://btrfs.readthedocs.io/en/latest/"
   },
@@ -1459,7 +1459,7 @@
   },
   {
     "Package": "cloudflared",
-    "Version": "2025.10.1",
+    "Version": "2025.11.0",
     "Description": "A tunneling daemon that proxies traffic from the Cloudflare network to your origins",
     "Homepage": "https://github.com/cloudflare/cloudflared"
   },
@@ -11629,7 +11629,7 @@
   },
   {
     "Package": "perl",
-    "Version": "5.40.3-2",
+    "Version": "5.40.3-3",
     "Description": "Capable, feature-rich programming language",
     "Homepage": "https://www.perl.org/"
   },
