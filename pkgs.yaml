@@ -2155,7 +2155,7 @@
   Description: gengetopt is a tool to write command line option parsing code for C programs
   Homepage: https://www.gnu.org/software/gengetopt/
 - Package: geographiclib
-  Version: "2.6"
+  Version: "2.7"
   Description: Utilities and C++ library to solve some geodesic problems
   Homepage: https://geographiclib.sourceforge.io
 - Package: geoip2-database
@@ -8243,7 +8243,7 @@
   Description: Python client for Neovim
   Homepage: https://github.com/neovim/pynvim
 - Package: python-ruff
-  Version: 0.14.3
+  Version: 0.14.4
   Description: An extremely fast Python linter, written in Rust (Python bindings)
   Homepage: https://github.com/charliermarsh/ruff
 - Package: python-sabyenc3
@@ -8747,7 +8747,7 @@
   Description: Ruby documentation index
   Homepage: https://www.ruby-lang.org/
 - Package: ruff
-  Version: 0.14.3
+  Version: 0.14.4
   Description: An extremely fast Python linter, written in Rust
   Homepage: https://github.com/charliermarsh/ruff
 - Package: runit
