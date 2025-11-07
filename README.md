@@ -253,7 +253,7 @@
 | **clinfo** | 3.0.25.02.14-1 | Print all known information about all available OpenCL platforms and devices in the system | https://github.com/Oblomov/clinfo |
 | **clipp** | 1.2.3-1 | Command line interfaces for modern C++ | https://github.com/muellan/clipp |
 | **cloneit** | 20240728-1 | A cli tool to download specific GitHub directories or files | https://github.com/alok8bb/cloneit |
-| **cloudflared** | 2025.11.0 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
+| **cloudflared** | 2025.11.1 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
 | **clpeak** | 1.1.5 | A tool which profiles OpenCL devices to find their peak capacities | https://github.com/krrishnarraj/clpeak |
 | **clvk** | 0.0.20251027.085800 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
 | **cmake** | 4.1.2 | Family of tools designed to build, test and package software | https://cmake.org/ |
@@ -274,7 +274,7 @@
 | **colm-static** | 0.14.7-2 | Static libraries for colm | https://www.colm.net/open-source/colm/ |
 | **colordiff** | 1.0.21 | Tool to colorize 'diff' output | https://www.colordiff.org/ |
 | **command-not-found** | 3.2-2 | Suggest installation of packages in interactive shell sessions | https://github.com/termux/command-not-found |
-| **composer** | 2.8.12 | Dependency Manager for PHP | https://getcomposer.org/ |
+| **composer** | 2.9.0-RC1-0 | Dependency Manager for PHP | https://getcomposer.org/ |
 | **console-bridge** | 1.0.2-1 | A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages | https://github.com/ros/console_bridge |
 | **convertlit** | 1.8-2 | An extractor/converter for .LIT eBooks | http://www.convertlit.com/ |
 | **cookcli** | 0.18.2 | A suite of tools to create shopping lists and maintain food recipes | https://cooklang.org |
@@ -429,7 +429,7 @@
 | **eltclsh** | 1.20-1 | Interactive shell for TCL programming language | https://homepages.laas.fr/mallet/soft/shell/eltclsh |
 | **elvish** | 0.21.0-1 | A friendly and expressive Unix shell | https://github.com/elves/elvish |
 | **emacs** | 30.2 | Extensible, customizable text editor-and more | https://www.gnu.org/software/emacs/ |
-| **emmylua-ls** | 0.16.0 | Emmy Lua Language Server coded in Rust | https://github.com/EmmyLuaLs/emmylua-analyzer-rust |
+| **emmylua-ls** | 0.17.0 | Emmy Lua Language Server coded in Rust | https://github.com/EmmyLuaLs/emmylua-analyzer-rust |
 | **emscripten** | 4.0.19 | Emscripten: An LLVM-to-WebAssembly Compiler | https://emscripten.org |
 | **emscripten-binaryen** | 4.0.19 | Emscripten-compatible Binaryen | https://emscripten.org |
 | **emscripten-llvm** | 4.0.19 | Emscripten-compatible LLVM | https://emscripten.org |
@@ -683,7 +683,7 @@
 | **gumbo-parser** | 0.10.1-1 | An HTML5 parsing library | https://github.com/google/gumbo-parser |
 | **gumbo-parser-static** | 0.10.1-1 | Static libraries for gumbo-parser | https://github.com/google/gumbo-parser |
 | **gzip** | 1.14-1 | Standard GNU file compression utilities | https://www.gnu.org/software/gzip/ |
-| **haproxy** | 3.2.7 | The Reliable, High Performance TCP/HTTP Load Balancer | https://www.haproxy.org/ |
+| **haproxy** | 3.2.8 | The Reliable, High Performance TCP/HTTP Load Balancer | https://www.haproxy.org/ |
 | **harfbuzz** | 12.2.0 | OpenType text shaping engine | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
 | **harfbuzz-icu** | 12.2.0 | OpenType text shaping engine ICU backend | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
 | **harfbuzz-utils** | 12.2.0 | Tools using the harfbuzz library | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
@@ -1156,8 +1156,8 @@
 | **liblua53-static** | 5.3.6-4 | Static libraries for liblua53 | https://www.lua.org/ |
 | **liblua54** | 5.4.8-3 | Shared library for the Lua interpreter | https://www.lua.org/ |
 | **liblua54-static** | 5.4.8-3 | Static libraries for liblua54 | https://www.lua.org/ |
-| **libluajit** | 1:2.1.1761727121-1 | Just-In-Time Compiler for Lua | https://luajit.org/ |
-| **libluajit-static** | 1:2.1.1761727121-1 | Static libraries for libluajit | https://luajit.org/ |
+| **libluajit** | 1:2.1.1762386122 | Just-In-Time Compiler for Lua | https://luajit.org/ |
+| **libluajit-static** | 1:2.1.1762386122 | Static libraries for libluajit | https://luajit.org/ |
 | **liblz4** | 1.10.0-1 | Fast LZ compression algorithm library | https://lz4.github.io/lz4/ |
 | **liblzma** | 5.8.1-1 | XZ-format compression library | https://tukaani.org/xz/ |
 | **liblzma-static** | 5.8.1-1 | Static libraries for liblzma | https://tukaani.org/xz/ |
@@ -1608,7 +1608,7 @@
 | **lua53** | 5.3.6-4 | Simple, extensible, embeddable programming language | https://www.lua.org/ |
 | **lua53-lpeg** | 1.1.0-3 | Pattern-matching library for Lua 5.3 | https://www.inf.puc-rio.br/~roberto/lpeg |
 | **lua54** | 5.4.8-3 | Simple, extensible, embeddable programming language | https://www.lua.org/ |
-| **luajit** | 1:2.1.1761727121-1 | Just-In-Time compiler for Lua - command line tool | https://luajit.org/ |
+| **luajit** | 1:2.1.1762386122 | Just-In-Time compiler for Lua - command line tool | https://luajit.org/ |
 | **luarocks** | 3.12.2-3 | Deployment and management system for Lua modules | https://luarocks.org/ |
 | **luv** | 1.51.0-1-1 | Bare libuv bindings for lua | https://github.com/luvit/luv |
 | **luvi** | 1:2.15.0-1 | A project in-between luv and luvit | https://luvit.io |

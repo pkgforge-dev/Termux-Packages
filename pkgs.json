@@ -1459,7 +1459,7 @@
   },
   {
     "Package": "cloudflared",
-    "Version": "2025.11.0",
+    "Version": "2025.11.1",
     "Description": "A tunneling daemon that proxies traffic from the Cloudflare network to your origins",
     "Homepage": "https://github.com/cloudflare/cloudflared"
   },
@@ -1585,7 +1585,7 @@
   },
   {
     "Package": "composer",
-    "Version": "2.8.12",
+    "Version": "2.9.0-RC1-0",
     "Description": "Dependency Manager for PHP",
     "Homepage": "https://getcomposer.org/"
   },
@@ -2515,7 +2515,7 @@
   },
   {
     "Package": "emmylua-ls",
-    "Version": "0.16.0",
+    "Version": "0.17.0",
     "Description": "Emmy Lua Language Server coded in Rust",
     "Homepage": "https://github.com/EmmyLuaLs/emmylua-analyzer-rust"
   },
@@ -4039,7 +4039,7 @@
   },
   {
     "Package": "haproxy",
-    "Version": "3.2.7",
+    "Version": "3.2.8",
     "Description": "The Reliable, High Performance TCP/HTTP Load Balancer",
     "Homepage": "https://www.haproxy.org/"
   },
@@ -6877,13 +6877,13 @@
   },
   {
     "Package": "libluajit",
-    "Version": "1:2.1.1761727121-1",
+    "Version": "1:2.1.1762386122",
     "Description": "Just-In-Time Compiler for Lua",
     "Homepage": "https://luajit.org/"
   },
   {
     "Package": "libluajit-static",
-    "Version": "1:2.1.1761727121-1",
+    "Version": "1:2.1.1762386122",
     "Description": "Static libraries for libluajit",
     "Homepage": "https://luajit.org/"
   },
@@ -9589,7 +9589,7 @@
   },
   {
     "Package": "luajit",
-    "Version": "1:2.1.1761727121-1",
+    "Version": "1:2.1.1762386122",
     "Description": "Just-In-Time compiler for Lua - command line tool",
     "Homepage": "https://luajit.org/"
   },
