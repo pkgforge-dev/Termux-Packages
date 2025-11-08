@@ -1744,8 +1744,8 @@
 | **mtools** | 4.0.49-1 | Tool for manipulating FAT images | https://www.gnu.org/software/mtools/ |
 | **mu** | 1.12.13 | Maildir indexer/searcher and Emacs client (mu4e) | https://www.djcbsoftware.nl/code/mu/ |
 | **muchsync** | 7-2 | Synchronize notmuch mail across machines | http://www.muchsync.org/ |
-| **mujs** | 1.3.7 | A lightweight Javascript interpreter designed for embedding in other software | https://mujs.com/ |
-| **mujs-static** | 1.3.7 | Static libraries for mujs | https://mujs.com/ |
+| **mujs** | 1.3.7-1 | A lightweight Javascript interpreter designed for embedding in other software | https://mujs.com/ |
+| **mujs-static** | 1.3.7-1 | Static libraries for mujs | https://mujs.com/ |
 | **multitail** | 7.1.5-2 | Tool to monitor logfiles and command output in multiple windows in a terminal, colorize, filter and merge | http://www.vanheusden.com/multitail/ |
 | **mupdf** | 1.24.10-2 | Lightweight PDF and XPS viewer (library) | https://mupdf.com/ |
 | **mupdf-static** | 1.24.10-2 | Static libraries for mupdf | https://mupdf.com/ |
@@ -2397,7 +2397,7 @@
 | **tectonic** | 0.15.0-4 | A modernized, complete, self-contained TeX/LaTeX engine | https://tectonic-typesetting.github.io/ |
 | **telegram-bot-api** | 20241031-2 | Telegram Bot API server | https://github.com/tdlib/telegram-bot-api |
 | **telegram-cli** | 1:1.4.1-8 | Telegram messenger CLI | https://github.com/vysheng/tg |
-| **teleport-tsh** | 18.3.1 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
+| **teleport-tsh** | 18.3.2 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
 | **tenki-php** | 2022.05.26 | A simple PHP application for logging current weather conditions, notes, and waypoints | https://github.com/dmpop/tenki |
 | **tere** | 1.6.0-1 | Terminal file explorer written in rust | https://github.com/mgunyho/tere |
 | **tergent** | 1.0.0-5 | A cryptoki/PKCS#11 library for Termux that uses Android Keystore as its backend | https://github.com/aeolwyr/tergent |
@@ -2545,7 +2545,7 @@
 | **util-linux-static** | 2.41.2 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-2 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.41.2 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **uv** | 0.9.7 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
+| **uv** | 0.9.8 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.31 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.41.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.18-1 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
@@ -2583,7 +2583,7 @@
 | **vlc-static** | 3.0.21-11 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-4 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.3-1 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 2025.10.31 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
+| **vtm** | 2025.11.07 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
 | **vttest** | 20241208-1 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-5 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.4.328 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
@@ -2591,10 +2591,10 @@
 | **vulkan-icd** | 0.1 | A metapackage that provides Vulkan ICDs | https://github.com/termux/termux-packages |
 | **vulkan-loader** | 0.0.3 | A metapackage that provides vulkan loader library | https://github.com/termux/termux-packages |
 | **vulkan-loader-android** | 28c-2 | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
-| **vulkan-loader-generic** | 1.4.331 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
-| **vulkan-tools** | 1.4.331 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
-| **vulkan-utility-libraries** | 1.4.331 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
-| **vulkan-validation-layers** | 1.4.331 | Vulkan Validation Layers | https://github.com/KhronosGroup/Vulkan-ValidationLayers |
+| **vulkan-loader-generic** | 1.4.332 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
+| **vulkan-tools** | 1.4.332 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
+| **vulkan-utility-libraries** | 1.4.332 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
+| **vulkan-validation-layers** | 1.4.332 | Vulkan Validation Layers | https://github.com/KhronosGroup/Vulkan-ValidationLayers |
 | **vulkan-volk** | 1.4.304 | Meta loader for Vulkan API | https://github.com/zeux/volk |
 | **w3m** | 0.5.5 | Text based Web browser and pager | https://w3m.sourceforge.net/ |
 | **w3m-img** | 0.5.5 | Inline image extension support utilities for w3m | https://w3m.sourceforge.net/ |
