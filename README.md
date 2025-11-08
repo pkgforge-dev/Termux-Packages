@@ -348,7 +348,7 @@
 | **dmagnetic** | 0.37-1 | Interpreter for classic text adventure games and interactive fiction | https://dettus.net/dMagnetic |
 | **dmtx-utils** | 0.7.6-1 | A command line interface for libdmtx | https://github.com/dmtx/dmtx-utils |
 | **dnglab** | 0.7.1 | Camera RAW to DNG file format converter | https://github.com/dnglab/dnglab |
-| **dnote** | 1:0.15.5 | A simple command line notebook for programmers | https://www.getdnote.com/ |
+| **dnote** | 1:0.16.0 | A simple command line notebook for programmers | https://www.getdnote.com/ |
 | **dnote-server** | 2.1.1-3 | This package contains the Dnote server. It comprises of the web interface, the web API, and the background jobs. | https://www.getdnote.com/ |
 | **dns2tcp** | 0.5.2-2 | dns2tcp is a tool for relaying TCP connections over DNS | https://github.com/alex-sector/dns2tcp |
 | **dnslookup** | 1.11.1-2 | Simple command line utility to make DNS lookups. Supports all known DNS protocols: plain DNS, DoH, DoT, DoQ, DNSCrypt. | https://github.com/ameshkov/dnslookup |
