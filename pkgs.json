@@ -1321,13 +1321,13 @@
   },
   {
     "Package": "chafa",
-    "Version": "1.16.2-1",
+    "Version": "1.18.0",
     "Description": "Image-to-text converter supporting a wide range of symbols, etc.",
     "Homepage": "https://hpjansson.org/chafa/"
   },
   {
     "Package": "chafa-static",
-    "Version": "1.16.2-1",
+    "Version": "1.18.0",
     "Description": "Static libraries for chafa",
     "Homepage": "https://hpjansson.org/chafa/"
   },
@@ -1411,7 +1411,7 @@
   },
   {
     "Package": "clang",
-    "Version": "21.1.4",
+    "Version": "21.1.5",
     "Description": "C language frontend for LLVM",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -2431,7 +2431,7 @@
   },
   {
     "Package": "edbrowse",
-    "Version": "3.8.14",
+    "Version": "3.8.15",
     "Description": "Line based editor, browser, and mail client",
     "Homepage": "https://edbrowse.org/"
   },
@@ -4615,7 +4615,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.24.268",
+    "Version": "0.24.270",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -5653,7 +5653,7 @@
   },
   {
     "Package": "libcompiler-rt",
-    "Version": "21.1.4",
+    "Version": "21.1.5",
     "Description": "Compiler runtime libraries for clang",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -6745,13 +6745,13 @@
   },
   {
     "Package": "libllvm",
-    "Version": "21.1.4",
+    "Version": "21.1.5",
     "Description": "Modular compiler and toolchain technologies library",
     "Homepage": "https://clang.llvm.org/"
   },
   {
     "Package": "libllvm-static",
-    "Version": "21.1.4",
+    "Version": "21.1.5",
     "Description": "Static libraries for libllvm",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -7747,7 +7747,7 @@
   },
   {
     "Package": "libpolly",
-    "Version": "21.1.4",
+    "Version": "21.1.5",
     "Description": "High-level loop and data-locality optimizer for clang",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -9385,19 +9385,19 @@
   },
   {
     "Package": "lld",
-    "Version": "21.1.4",
+    "Version": "21.1.5",
     "Description": "LLVM-based linker",
     "Homepage": "https://clang.llvm.org/"
   },
   {
     "Package": "lldb",
-    "Version": "21.1.4",
+    "Version": "21.1.5",
     "Description": "LLVM-based debugger",
     "Homepage": "https://clang.llvm.org/"
   },
   {
     "Package": "llvm",
-    "Version": "21.1.4",
+    "Version": "21.1.5",
     "Description": "LLVM modular compiler and toolchain executables",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -9427,13 +9427,13 @@
   },
   {
     "Package": "llvm-tools",
-    "Version": "21.1.4",
+    "Version": "21.1.5",
     "Description": "LLVM Development Tools",
     "Homepage": "https://clang.llvm.org/"
   },
   {
     "Package": "llvmgold",
-    "Version": "21.1.4",
+    "Version": "21.1.5",
     "Description": "LLVM gold plugin",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -10177,7 +10177,7 @@
   },
   {
     "Package": "mlir",
-    "Version": "21.1.4",
+    "Version": "21.1.5",
     "Description": "A Multi-Level Intermediate Representation for compilers from LLVM",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -12649,7 +12649,7 @@
   },
   {
     "Package": "quickjs",
-    "Version": "1:20250426-1",
+    "Version": "1:20250913",
     "Description": "QuickJS is a small and embeddable Javascript engine",
     "Homepage": "https://bellard.org/quickjs/"
   },
@@ -15811,13 +15811,13 @@
   },
   {
     "Package": "xmlsec",
-    "Version": "1.3.8",
+    "Version": "1.3.9",
     "Description": "XML Security Library",
     "Homepage": "https://www.aleksey.com/xmlsec/"
   },
   {
     "Package": "xmlsec-static",
-    "Version": "1.3.8",
+    "Version": "1.3.9",
     "Description": "Static libraries for xmlsec",
     "Homepage": "https://www.aleksey.com/xmlsec/"
   },
