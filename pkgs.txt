@@ -649,7 +649,7 @@
  grex  1.4.5-1  Simplifies the task of creating regular expressions  https://github.com/pemistahl/grex 
  groff  1.23.0-2  typesetting system that reads plain text mixed with formatting commands and produces formatted output  https://www.gnu.org/software/groff/ 
  gron  0.7.1-4  Transforms JSON into discrete assignments  https://github.com/tomnomnom/gron 
- groonga  15.1.9  An embeddable fulltext search engine  https://github.com/groonga/groonga/ 
+ groonga  15.2.0  An embeddable fulltext search engine  https://github.com/groonga/groonga/ 
  groovy  4.0.26-4  A powerful multi-faceted programming language for the JVM platform  https://groovy-lang.org/ 
  gsasl  2.2.2-1  GNU SASL library command line interface  https://www.gnu.org/software/gsasl 
  gsf-tools  1.14.53-2  Command-line tools for libgsf  https://gitlab.gnome.org/GNOME/libgsf 
@@ -679,7 +679,7 @@
  hash-slinger  3.4  Various tools to generate special DNS records  https://github.com/letoams/hash-slinger 
  hashdeep  4.4-9  Programs to compute hashsums of arbitrary number of files recursively  https://md5deep.sourceforge.net/ 
  hcl  2.24.0-1  A toolkit for creating structured configuration languages  https://github.com/hashicorp/hcl 
- hcloud  1.55.0  Hetzner Cloud command line client  https://github.com/hetznercloud/cli 
+ hcloud  1.57.0  Hetzner Cloud command line client  https://github.com/hetznercloud/cli 
  helix  25.07.1-1  A post-modern modal text editor written in rust  https://helix-editor.com/ 
  helix-grammars  25.07.1-1  Helix grammars  https://helix-editor.com/ 
  hello  2.12.2  Prints a friendly greeting  https://www.gnu.org/software/hello/ 
@@ -1144,8 +1144,8 @@
  liblua53-static  5.3.6-4  Static libraries for liblua53  https://www.lua.org/ 
  liblua54  5.4.8-3  Shared library for the Lua interpreter  https://www.lua.org/ 
  liblua54-static  5.4.8-3  Static libraries for liblua54  https://www.lua.org/ 
- libluajit  1:2.1.1762386122  Just-In-Time Compiler for Lua  https://luajit.org/ 
- libluajit-static  1:2.1.1762386122  Static libraries for libluajit  https://luajit.org/ 
+ libluajit  1:2.1.1762617240  Just-In-Time Compiler for Lua  https://luajit.org/ 
+ libluajit-static  1:2.1.1762617240  Static libraries for libluajit  https://luajit.org/ 
  liblz4  1.10.0-1  Fast LZ compression algorithm library  https://lz4.github.io/lz4/ 
  liblzma  5.8.1-1  XZ-format compression library  https://tukaani.org/xz/ 
  liblzma-static  5.8.1-1  Static libraries for liblzma  https://tukaani.org/xz/ 
@@ -1596,7 +1596,7 @@
  lua53  5.3.6-4  Simple, extensible, embeddable programming language  https://www.lua.org/ 
  lua53-lpeg  1.1.0-3  Pattern-matching library for Lua 5.3  https://www.inf.puc-rio.br/~roberto/lpeg 
  lua54  5.4.8-3  Simple, extensible, embeddable programming language  https://www.lua.org/ 
- luajit  1:2.1.1762386122  Just-In-Time compiler for Lua - command line tool  https://luajit.org/ 
+ luajit  1:2.1.1762617240  Just-In-Time compiler for Lua - command line tool  https://luajit.org/ 
  luarocks  3.12.2-3  Deployment and management system for Lua modules  https://luarocks.org/ 
  luv  1.51.0-1-1  Bare libuv bindings for lua  https://github.com/luvit/luv 
  luvi  1:2.15.0-1  A project in-between luv and luvit  https://luvit.io 
@@ -2190,7 +2190,7 @@
  runit-static  2.1.2-4  Static libraries for runit  http://smarden.org/runit 
  rush  0.7.0-1  A cross-platform command-line tool for executing jobs in parallel  https://github.com/shenwei356/rush 
  rust  1.91.0  Systems programming language focused on safety, speed and concurrency  https://www.rust-lang.org/ 
- rust-analyzer  20251103  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
+ rust-analyzer  20251110  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
  rust-bindgen  0.72.1  Automatically generates Rust FFI bindings to C (and some C++) libraries  https://github.com/rust-lang/rust-bindgen 
  rust-docs  1.91.0  Rust documentation  https://www.rust-lang.org/ 
  rust-src  1.91.0  Rust source code files  https://www.rust-lang.org/ 

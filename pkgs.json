@@ -3907,7 +3907,7 @@
   },
   {
     "Package": "groonga",
-    "Version": "15.1.9",
+    "Version": "15.2.0",
     "Description": "An embeddable fulltext search engine",
     "Homepage": "https://github.com/groonga/groonga/"
   },
@@ -4087,7 +4087,7 @@
   },
   {
     "Package": "hcloud",
-    "Version": "1.55.0",
+    "Version": "1.57.0",
     "Description": "Hetzner Cloud command line client",
     "Homepage": "https://github.com/hetznercloud/cli"
   },
@@ -6877,13 +6877,13 @@
   },
   {
     "Package": "libluajit",
-    "Version": "1:2.1.1762386122",
+    "Version": "1:2.1.1762617240",
     "Description": "Just-In-Time Compiler for Lua",
     "Homepage": "https://luajit.org/"
   },
   {
     "Package": "libluajit-static",
-    "Version": "1:2.1.1762386122",
+    "Version": "1:2.1.1762617240",
     "Description": "Static libraries for libluajit",
     "Homepage": "https://luajit.org/"
   },
@@ -9589,7 +9589,7 @@
   },
   {
     "Package": "luajit",
-    "Version": "1:2.1.1762386122",
+    "Version": "1:2.1.1762617240",
     "Description": "Just-In-Time compiler for Lua - command line tool",
     "Homepage": "https://luajit.org/"
   },
@@ -13153,7 +13153,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20251103",
+    "Version": "20251110",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://rust-analyzer.github.io/"
   },
