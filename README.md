@@ -255,7 +255,7 @@
 | **cloneit** | 20240728-1 | A cli tool to download specific GitHub directories or files | https://github.com/alok8bb/cloneit |
 | **cloudflared** | 2025.11.1 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
 | **clpeak** | 1.1.5 | A tool which profiles OpenCL devices to find their peak capacities | https://github.com/krrishnarraj/clpeak |
-| **clvk** | 0.0.20251027.085800 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
+| **clvk** | 0.0.20251107.020807 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
 | **cmake** | 4.1.2 | Family of tools designed to build, test and package software | https://cmake.org/ |
 | **cmake-curses-gui** | 4.1.2 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
 | **cmark** | 0.31.1-1 | CommonMark parsing and rendering program | https://github.com/commonmark/cmark |
@@ -536,7 +536,7 @@
 | **gbt** | 2.0.0-6 | Highly configurable prompt builder for Bash and ZSH written in Go | https://github.com/jtyr/gbt |
 | **gcab** | 1.6-1 | GObject library to create cabinet files | https://gitlab.gnome.org/GNOME/gcab |
 | **gcal** | 4.1-4 | Program for calculating and printing calendars | https://www.gnu.org/software/gcal/ |
-| **gdal** | 3.11.5 | A translator library for raster and vector geospatial data formats | https://gdal.org |
+| **gdal** | 3.12.0 | A translator library for raster and vector geospatial data formats | https://gdal.org |
 | **gdb** | 16.3-1 | The standard GNU Debugger that runs on many Unix-like systems and works for many programming languages | https://www.gnu.org/software/gdb/ |
 | **gdbm** | 1.26-1 | Library of database functions that use extensible hashing | https://www.gnu.org.ua/software/gdbm/ |
 | **gdbm-static** | 1.26-1 | Static libraries for gdbm | https://www.gnu.org.ua/software/gdbm/ |
@@ -2170,7 +2170,7 @@
 | **rinetd** | 1:0.73-2 | A user-mode TCP port redirection server | https://github.com/samhocevar/rinetd |
 | **rip2** | 0.9.5 | A safe and ergonomic alternative to rm | https://github.com/MilesCranmer/rip2 |
 | **ripgrep** | 15.1.0-1 | Search tool like grep and The Silver Searcher | https://github.com/BurntSushi/ripgrep |
-| **ripgrep-all** | 1:0.10.9 | Search tool able to locate in PDFs, E-Books, zip, tar.gz, etc | https://github.com/phiresky/ripgrep-all |
+| **ripgrep-all** | 1:0.10.10 | Search tool able to locate in PDFs, E-Books, zip, tar.gz, etc | https://github.com/phiresky/ripgrep-all |
 | **ripsecrets** | 0.1.11-1 | A command-line tool to prevent committing secret keys into your source code | https://github.com/sirwart/ripsecrets |
 | **rirc** | 0.1.7-2 | A terminal IRC client in C | https://github.com/rcr/rirc |
 | **rizin** | 0.8.1-1 | UNIX-like reverse engineering framework and command-line toolset. | https://rizin.re |
