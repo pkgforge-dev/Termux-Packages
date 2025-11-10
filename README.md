@@ -1744,8 +1744,8 @@
 | **mtools** | 4.0.49-1 | Tool for manipulating FAT images | https://www.gnu.org/software/mtools/ |
 | **mu** | 1.12.13 | Maildir indexer/searcher and Emacs client (mu4e) | https://www.djcbsoftware.nl/code/mu/ |
 | **muchsync** | 7-2 | Synchronize notmuch mail across machines | http://www.muchsync.org/ |
-| **mujs** | 1.3.7-1 | A lightweight Javascript interpreter designed for embedding in other software | https://mujs.com/ |
-| **mujs-static** | 1.3.7-1 | Static libraries for mujs | https://mujs.com/ |
+| **mujs** | 1.3.8 | A lightweight Javascript interpreter designed for embedding in other software | https://mujs.com/ |
+| **mujs-static** | 1.3.8 | Static libraries for mujs | https://mujs.com/ |
 | **multitail** | 7.1.5-2 | Tool to monitor logfiles and command output in multiple windows in a terminal, colorize, filter and merge | http://www.vanheusden.com/multitail/ |
 | **mupdf** | 1.24.10-2 | Lightweight PDF and XPS viewer (library) | https://mupdf.com/ |
 | **mupdf-static** | 1.24.10-2 | Static libraries for mupdf | https://mupdf.com/ |
@@ -2458,7 +2458,7 @@
 | **tokei** | 13.0.0-alpha.9-1 | A blazingly fast CLOC (Count Lines Of Code) program | https://github.com/XAMPPRocky/tokei |
 | **tome2** | 2022.12.27-6 | An open world roguelike adventure set in middle earth | https://github.com/tome2/tome2 |
 | **toml11** | 4.4.0 | toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library | https://github.com/ToruNiina/toml11 |
-| **topgrade** | 16.1.2 | Upgrade all the things | https://github.com/topgrade-rs/topgrade/ |
+| **topgrade** | 16.2.0 | Upgrade all the things | https://github.com/topgrade-rs/topgrade/ |
 | **tor** | 0.4.8.19 | The Onion Router anonymizing overlay network | https://www.torproject.org |
 | **torchaudio-ffmpeg** | 2.6.0-1 | Minimal FFmpeg libraries for python-torchaudio | https://github.com/pytorch/audio |
 | **torsocks** | 2.5.0-1 | Wrapper to safely torify applications | https://gitlab.torproject.org/tpo/core/torsocks |

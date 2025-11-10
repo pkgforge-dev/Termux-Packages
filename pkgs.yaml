@@ -6935,11 +6935,11 @@
   Description: Synchronize notmuch mail across machines
   Homepage: http://www.muchsync.org/
 - Package: mujs
-  Version: 1.3.7-1
+  Version: 1.3.8
   Description: A lightweight Javascript interpreter designed for embedding in other software
   Homepage: https://mujs.com/
 - Package: mujs-static
-  Version: 1.3.7-1
+  Version: 1.3.8
   Description: Static libraries for mujs
   Homepage: https://mujs.com/
 - Package: multitail
@@ -9791,7 +9791,7 @@
   Description: toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library
   Homepage: https://github.com/ToruNiina/toml11
 - Package: topgrade
-  Version: 16.1.2
+  Version: 16.2.0
   Description: Upgrade all the things
   Homepage: https://github.com/topgrade-rs/topgrade/
 - Package: tor
