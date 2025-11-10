@@ -2587,7 +2587,7 @@
   },
   {
     "Package": "esbuild",
-    "Version": "0.26.0",
+    "Version": "0.27.0",
     "Description": "An extremely fast JavaScript bundler",
     "Homepage": "https://esbuild.github.io/"
   },
@@ -5899,13 +5899,13 @@
   },
   {
     "Package": "libdvdread",
-    "Version": "7.0.0",
+    "Version": "7.0.1",
     "Description": "A library that allows easy use of sophisticated DVD navigation features",
     "Homepage": "https://code.videolan.org/videolan/libdvdread"
   },
   {
     "Package": "libdvdread-static",
-    "Version": "7.0.0",
+    "Version": "7.0.1",
     "Description": "Static libraries for libdvdread",
     "Homepage": "https://code.videolan.org/videolan/libdvdread"
   },
@@ -10531,7 +10531,7 @@
   },
   {
     "Package": "navidrome",
-    "Version": "0.58.0-1",
+    "Version": "0.58.5",
     "Description": "🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic",
     "Homepage": "https://www.navidrome.org/"
   },
@@ -12475,7 +12475,7 @@
   },
   {
     "Package": "q-dns-client",
-    "Version": "0.19.10",
+    "Version": "0.19.11",
     "Description": "A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH",
     "Homepage": "https://github.com/natesales/q"
   },
