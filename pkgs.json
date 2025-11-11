@@ -2683,7 +2683,7 @@
   },
   {
     "Package": "fastfetch",
-    "Version": "2.54.0",
+    "Version": "2.55.0",
     "Description": "A maintained, feature-rich and performance oriented, neofetch like system information tool",
     "Homepage": "https://github.com/fastfetch-cli/fastfetch"
   },
@@ -8677,13 +8677,13 @@
   },
   {
     "Package": "liburcu",
-    "Version": "0.15.4",
+    "Version": "0.15.5",
     "Description": "LGPLv2.1 userspace RCU (read-copy-update) library",
     "Homepage": "https://liburcu.org/"
   },
   {
     "Package": "liburcu-static",
-    "Version": "0.15.4",
+    "Version": "0.15.5",
     "Description": "Static libraries for liburcu",
     "Homepage": "https://liburcu.org/"
   },
@@ -10579,7 +10579,7 @@
   },
   {
     "Package": "ncspot",
-    "Version": "1.3.1",
+    "Version": "1.3.2",
     "Description": "An ncurses Spotify client written in Rust",
     "Homepage": "https://github.com/hrkfdn/ncspot"
   },
