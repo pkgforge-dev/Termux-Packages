@@ -2627,31 +2627,31 @@
   Description: Static libraries for gsl
   Homepage: https://www.gnu.org/software/gsl/
 - Package: gst-libav
-  Version: 1.26.7
+  Version: 1.26.8
   Description: GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code
   Homepage: https://gstreamer.freedesktop.org/modules/gst-libav.html
 - Package: gst-plugins-bad
-  Version: 1.26.7
+  Version: 1.26.8
   Description: GStreamer Bad Plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-plugins-base
-  Version: 1.26.7
+  Version: 1.26.8
   Description: GStreamer base plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-plugins-good
-  Version: 1.26.7
+  Version: 1.26.8
   Description: GStreamer Good Plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-plugins-ugly
-  Version: 1.26.7
+  Version: 1.26.8
   Description: GStreamer Ugly Plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-python
-  Version: 1.26.7
+  Version: 1.26.8
   Description: Python bindings for GStreamer
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gstreamer
-  Version: 1.26.7
+  Version: 1.26.8
   Description: Open source multimedia framework
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gtypist
@@ -2739,7 +2739,7 @@
   Description: Prints a friendly greeting
   Homepage: https://www.gnu.org/software/hello/
 - Package: helm
-  Version: 3.19.0
+  Version: 3.19.1
   Description: Helm helps you manage Kubernetes applications
   Homepage: https://helm.sh
 - Package: helm-ls
@@ -3075,7 +3075,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.24.270
+  Version: 0.24.275
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -4923,11 +4923,11 @@
   Description: Static libraries for libnpth
   Homepage: https://www.gnupg.org/related_software/npth/
 - Package: libnspr
-  Version: "4.38"
+  Version: 4.38.1
   Description: Netscape Portable Runtime (NSPR)
   Homepage: https://hg.mozilla.org/projects/nspr
 - Package: libnspr-static
-  Version: "4.38"
+  Version: 4.38.1
   Description: Static libraries for libnspr
   Homepage: https://hg.mozilla.org/projects/nspr
 - Package: libnss
@@ -8763,7 +8763,7 @@
   Description: A cross-platform command-line tool for executing jobs in parallel
   Homepage: https://github.com/shenwei356/rush
 - Package: rust
-  Version: 1.91.0
+  Version: 1.91.1
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
@@ -8775,47 +8775,47 @@
   Description: Automatically generates Rust FFI bindings to C (and some C++) libraries
   Homepage: https://github.com/rust-lang/rust-bindgen
 - Package: rust-docs
-  Version: 1.91.0
+  Version: 1.91.1
   Description: Rust documentation
   Homepage: https://www.rust-lang.org/
 - Package: rust-src
-  Version: 1.91.0
+  Version: 1.91.1
   Description: Rust source code files
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-aarch64-linux-android
-  Version: 1.91.0
+  Version: 1.91.1
   Description: Rust std for target aarch64-linux-android
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-armv7-linux-androideabi
-  Version: 1.91.0
+  Version: 1.91.1
   Description: Rust std for target armv7-linux-androideabi
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-i686-linux-android
-  Version: 1.91.0
+  Version: 1.91.1
   Description: Rust std for target i686-linux-android
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-wasm32-unknown-unknown
-  Version: 1.91.0
+  Version: 1.91.1
   Description: Rust std for target wasm32-unknown-unknown
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-wasm32-wasip1
-  Version: 1.91.0
+  Version: 1.91.1
   Description: Rust std for target wasm32-wasip1
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-wasm32-wasip2
-  Version: 1.91.0
+  Version: 1.91.1
   Description: Rust std for target wasm32-wasip2
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-x86-64-linux-android
-  Version: 1.91.0
+  Version: 1.91.1
   Description: Rust std for target x86_64-linux-android
   Homepage: https://www.rust-lang.org/
 - Package: rustc-dev
-  Version: 1.91.0
+  Version: 1.91.1
   Description: Rust compiler development libs
   Homepage: https://www.rust-lang.org/
 - Package: rustc-src
-  Version: 1.91.0
+  Version: 1.91.1
   Description: Rust compiler source code files
   Homepage: https://www.rust-lang.org/
 - Package: rustscan

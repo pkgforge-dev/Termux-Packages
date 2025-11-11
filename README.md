@@ -667,13 +667,13 @@
 | **gsf-tools** | 1.14.53-2 | Command-line tools for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
 | **gsl** | 2.8-1 | GNU Scientific Library (GSL) providing a wide range of mathematical routines | https://www.gnu.org/software/gsl/ |
 | **gsl-static** | 2.8-1 | Static libraries for gsl | https://www.gnu.org/software/gsl/ |
-| **gst-libav** | 1.26.7 | GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code | https://gstreamer.freedesktop.org/modules/gst-libav.html |
-| **gst-plugins-bad** | 1.26.7 | GStreamer Bad Plug-ins | https://gstreamer.freedesktop.org/ |
-| **gst-plugins-base** | 1.26.7 | GStreamer base plug-ins | https://gstreamer.freedesktop.org/ |
-| **gst-plugins-good** | 1.26.7 | GStreamer Good Plug-ins | https://gstreamer.freedesktop.org/ |
-| **gst-plugins-ugly** | 1.26.7 | GStreamer Ugly Plug-ins | https://gstreamer.freedesktop.org/ |
-| **gst-python** | 1.26.7 | Python bindings for GStreamer | https://gstreamer.freedesktop.org/ |
-| **gstreamer** | 1.26.7 | Open source multimedia framework | https://gstreamer.freedesktop.org/ |
+| **gst-libav** | 1.26.8 | GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code | https://gstreamer.freedesktop.org/modules/gst-libav.html |
+| **gst-plugins-bad** | 1.26.8 | GStreamer Bad Plug-ins | https://gstreamer.freedesktop.org/ |
+| **gst-plugins-base** | 1.26.8 | GStreamer base plug-ins | https://gstreamer.freedesktop.org/ |
+| **gst-plugins-good** | 1.26.8 | GStreamer Good Plug-ins | https://gstreamer.freedesktop.org/ |
+| **gst-plugins-ugly** | 1.26.8 | GStreamer Ugly Plug-ins | https://gstreamer.freedesktop.org/ |
+| **gst-python** | 1.26.8 | Python bindings for GStreamer | https://gstreamer.freedesktop.org/ |
+| **gstreamer** | 1.26.8 | Open source multimedia framework | https://gstreamer.freedesktop.org/ |
 | **gtypist** | 2.10.1-1 | Universal typing tutor | https://www.gnu.org/software/gtypist/ |
 | **guile** | 3.0.10-2 | Portable, embeddable Scheme implementation written in C | http://www.gnu.org/software/guile/ |
 | **guile-static** | 3.0.10-2 | Static libraries for guile | http://www.gnu.org/software/guile/ |
@@ -695,7 +695,7 @@
 | **helix** | 25.07.1-1 | A post-modern modal text editor written in rust | https://helix-editor.com/ |
 | **helix-grammars** | 25.07.1-1 | Helix grammars | https://helix-editor.com/ |
 | **hello** | 2.12.2 | Prints a friendly greeting | https://www.gnu.org/software/hello/ |
-| **helm** | 3.19.0 | Helm helps you manage Kubernetes applications | https://helm.sh |
+| **helm** | 3.19.1 | Helm helps you manage Kubernetes applications | https://helm.sh |
 | **helm-ls** | 0.5.3 | Language server for Helm | https://github.com/mrjosh/helm-ls |
 | **help2man** | 1.49.3 | Conversion tool to create man files | https://www.gnu.org/software/help2man/ |
 | **hexcurse** | 1.60.0-7 | Console hexeditor | https://github.com/LonnyGomes/hexcurse |
@@ -779,7 +779,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4-1 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-2 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.24.270 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.24.275 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **jadx** | 1.5.3 | Dex to Java decompiler | https://github.com/skylot/jadx |
 | **jadx-x** | 1.5.3 | Dex to Java decompiler GUI | https://github.com/skylot/jadx |
 | **janet** | 1.39.1 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
@@ -1241,8 +1241,8 @@
 | **libnova-static** | 0.16-1 | Static libraries for libnova | https://libnova.sourceforge.net |
 | **libnpth** | 1.6-3 | New GNU Portable Threads Library | https://www.gnupg.org/related_software/npth/ |
 | **libnpth-static** | 1.6-3 | Static libraries for libnpth | https://www.gnupg.org/related_software/npth/ |
-| **libnspr** | 4.38 | Netscape Portable Runtime (NSPR) | https://hg.mozilla.org/projects/nspr |
-| **libnspr-static** | 4.38 | Static libraries for libnspr | https://hg.mozilla.org/projects/nspr |
+| **libnspr** | 4.38.1 | Netscape Portable Runtime (NSPR) | https://hg.mozilla.org/projects/nspr |
+| **libnspr-static** | 4.38.1 | Static libraries for libnspr | https://hg.mozilla.org/projects/nspr |
 | **libnss** | 3.117 | Network Security Services (NSS) | https://firefox-source-docs.mozilla.org/security/nss/ |
 | **libntl** | 11.5.1-1 | A Library for doing Number Theory | https://libntl.org |
 | **libntl-static** | 11.5.1-1 | Static libraries for libntl | https://libntl.org |
@@ -2201,20 +2201,20 @@
 | **runit** | 2.1.2-4 | Tools to provide service supervision and to manage services | http://smarden.org/runit |
 | **runit-static** | 2.1.2-4 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.7.0-1 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
-| **rust** | 1.91.0 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
+| **rust** | 1.91.1 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
 | **rust-analyzer** | 20251110 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
 | **rust-bindgen** | 0.72.1 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
-| **rust-docs** | 1.91.0 | Rust documentation | https://www.rust-lang.org/ |
-| **rust-src** | 1.91.0 | Rust source code files | https://www.rust-lang.org/ |
-| **rust-std-aarch64-linux-android** | 1.91.0 | Rust std for target aarch64-linux-android | https://www.rust-lang.org/ |
-| **rust-std-armv7-linux-androideabi** | 1.91.0 | Rust std for target armv7-linux-androideabi | https://www.rust-lang.org/ |
-| **rust-std-i686-linux-android** | 1.91.0 | Rust std for target i686-linux-android | https://www.rust-lang.org/ |
-| **rust-std-wasm32-unknown-unknown** | 1.91.0 | Rust std for target wasm32-unknown-unknown | https://www.rust-lang.org/ |
-| **rust-std-wasm32-wasip1** | 1.91.0 | Rust std for target wasm32-wasip1 | https://www.rust-lang.org/ |
-| **rust-std-wasm32-wasip2** | 1.91.0 | Rust std for target wasm32-wasip2 | https://www.rust-lang.org/ |
-| **rust-std-x86-64-linux-android** | 1.91.0 | Rust std for target x86_64-linux-android | https://www.rust-lang.org/ |
-| **rustc-dev** | 1.91.0 | Rust compiler development libs | https://www.rust-lang.org/ |
-| **rustc-src** | 1.91.0 | Rust compiler source code files | https://www.rust-lang.org/ |
+| **rust-docs** | 1.91.1 | Rust documentation | https://www.rust-lang.org/ |
+| **rust-src** | 1.91.1 | Rust source code files | https://www.rust-lang.org/ |
+| **rust-std-aarch64-linux-android** | 1.91.1 | Rust std for target aarch64-linux-android | https://www.rust-lang.org/ |
+| **rust-std-armv7-linux-androideabi** | 1.91.1 | Rust std for target armv7-linux-androideabi | https://www.rust-lang.org/ |
+| **rust-std-i686-linux-android** | 1.91.1 | Rust std for target i686-linux-android | https://www.rust-lang.org/ |
+| **rust-std-wasm32-unknown-unknown** | 1.91.1 | Rust std for target wasm32-unknown-unknown | https://www.rust-lang.org/ |
+| **rust-std-wasm32-wasip1** | 1.91.1 | Rust std for target wasm32-wasip1 | https://www.rust-lang.org/ |
+| **rust-std-wasm32-wasip2** | 1.91.1 | Rust std for target wasm32-wasip2 | https://www.rust-lang.org/ |
+| **rust-std-x86-64-linux-android** | 1.91.1 | Rust std for target x86_64-linux-android | https://www.rust-lang.org/ |
+| **rustc-dev** | 1.91.1 | Rust compiler development libs | https://www.rust-lang.org/ |
+| **rustc-src** | 1.91.1 | Rust compiler source code files | https://www.rust-lang.org/ |
 | **rustscan** | 2.4.1-1 | The modern,fast,smart and effective port scanner | https://rustscan.github.io/RustScan |
 | **rw** | 1.0.1-1 | A Rust implementation of sponge(1) that never write to TMPDIR | https://github.com/jridgewell/rw |
 | **rxfetch** | 2023.01.07 | A custom system info fetching tool | https://github.com/Mangeshrex/rxfetch |
