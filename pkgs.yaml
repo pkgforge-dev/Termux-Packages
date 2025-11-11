@@ -3351,7 +3351,7 @@
   Description: Fast key-value storage library
   Homepage: https://github.com/google/leveldb
 - Package: lexbor
-  Version: 2.5.0
+  Version: 2.6.0
   Description: Fast embeddable web browser engine written in C with no dependencies
   Homepage: https://lexbor.com
 - Package: lexter
@@ -4583,11 +4583,11 @@
   Description: Static libraries for liblua54
   Homepage: https://www.lua.org/
 - Package: libluajit
-  Version: 1:2.1.1762617240
+  Version: 1:2.1.1762795099
   Description: Just-In-Time Compiler for Lua
   Homepage: https://luajit.org/
 - Package: libluajit-static
-  Version: 1:2.1.1762617240
+  Version: 1:2.1.1762795099
   Description: Static libraries for libluajit
   Homepage: https://luajit.org/
 - Package: liblz4
@@ -4623,7 +4623,7 @@
   Description: Enables C++ applications to establish client connections to MariaDB Enterprise over TLS
   Homepage: https://mariadb.com/docs/clients/mariadb-connectors/connector-cpp/
 - Package: libmatio
-  Version: 1.5.28-1
+  Version: 1.5.29
   Description: A C library for reading and writing Matlab MAT files
   Homepage: https://github.com/tbeu/matio
 - Package: libmatroska
@@ -6391,7 +6391,7 @@
   Description: Simple, extensible, embeddable programming language
   Homepage: https://www.lua.org/
 - Package: luajit
-  Version: 1:2.1.1762617240
+  Version: 1:2.1.1762795099
   Description: Just-In-Time compiler for Lua - command line tool
   Homepage: https://luajit.org/
 - Package: luarocks
@@ -8583,7 +8583,7 @@
   Description: In-memory data structure store used as a database, cache and message broker
   Homepage: https://redis.io/
 - Package: remind
-  Version: 1:06.02.00
+  Version: 1:06.02.01
   Description: Sophisticated calendar and alarm program
   Homepage: https://dianne.skoll.ca/projects/remind/
 - Package: renameutils
@@ -9795,7 +9795,7 @@
   Description: Upgrade all the things
   Homepage: https://github.com/topgrade-rs/topgrade/
 - Package: tor
-  Version: 0.4.8.19
+  Version: 0.4.8.20
   Description: The Onion Router anonymizing overlay network
   Homepage: https://www.torproject.org
 - Package: torchaudio-ffmpeg
