@@ -779,7 +779,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4-1 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-2 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.24.275 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.24.294 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **jadx** | 1.5.3 | Dex to Java decompiler | https://github.com/skylot/jadx |
 | **jadx-x** | 1.5.3 | Dex to Java decompiler GUI | https://github.com/skylot/jadx |
 | **janet** | 1.39.1 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
@@ -2229,7 +2229,7 @@
 | **scc** | 3.6.0 | Counts physical the lines of code, blank lines, comment lines, and physical lines of source code | https://github.com/boyter/scc |
 | **sccache** | 0.12.0 | sccache is ccache with cloud storage | https://github.com/mozilla/sccache |
 | **scdaemon** | 2.5.11 | Daemon invoked by gpg to manage smartcards | https://www.gnupg.org/ |
-| **scdoc** | 1.11.3-1 | Small man page generator | https://git.sr.ht/~sircmpwn/scdoc |
+| **scdoc** | 1.11.4 | Small man page generator | https://git.sr.ht/~sircmpwn/scdoc |
 | **screen** | 5.0.1-1 | Terminal multiplexer with VT100/ANSI terminal emulation | https://www.gnu.org/software/screen/ |
 | **screenfetch** | 3.9.9 | Bash Screenshot Information Tool | https://github.com/KittyKatt/screenFetch |
 | **scrub** | 2.6.1-2 | Iteratively writes patterns on files or disk devices to make retreiving the data more difficult | https://github.com/chaos/scrub |
