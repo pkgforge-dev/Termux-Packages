@@ -585,7 +585,7 @@
 | **gitoxide** | 0.46.0 | Rust implementation of Git | https://github.com/Byron/gitoxide |
 | **gitui** | 0.27.0-3 | Blazing fast terminal-ui for git written in rust | https://github.com/extrawurst/gitui |
 | **gkermit** | 2.01-1 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
-| **glab-cli** | 1.76.2 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
+| **glab-cli** | 1.77.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
 | **gleam** | 1.13.0 | A friendly language for building type-safe, scalable systems! | https://gleam.run |
 | **glib** | 2.86.1 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
 | **glib-cross** | 2.86.1 | glib for host (NOT for Termux) | https://developer.gnome.org/glib/ |
@@ -2038,7 +2038,7 @@
 | **pv** | 1.10.0 | Terminal-based tool for monitoring the progress of data through a pipeline | https://www.ivarch.com/programs/pv.shtml |
 | **pwgen** | 2.08-2 | Password generator which by default, unless given the '-s' option, generates memorable but insecure passwords | http://pwgen.sourceforge.net/ |
 | **pybind11** | 3.0.1-1 | A lightweight header-only library that exposes C++ types in Python and vice versa | https://pybind11.readthedocs.io/ |
-| **pycairo** | 1.28.0-1 | Python bindings for the cairo graphics library | https://www.cairographics.org/pycairo/ |
+| **pycairo** | 1.29.0 | Python bindings for the cairo graphics library | https://www.cairographics.org/pycairo/ |
 | **pygobject** | 3.54.5 | Python package which provides bindings for GObject based libraries | https://pygobject.gnome.org/ |
 | **pypy** | 7.3.20 | A fast, compliant alternative implementation of Python | https://pypy.org |
 | **pypy-tests** | 7.3.20 | Test files for PyPy | https://pypy.org |
@@ -2150,8 +2150,8 @@
 | **readline-static** | 8.3.1-1 | Static libraries for readline | https://tiswww.case.edu/php/chet/readline/rltop.html |
 | **recode** | 3.7.15-1 | Charset converter tool and library | https://github.com/pinard/Recode |
 | **recode-static** | 3.7.15-1 | Static libraries for recode | https://github.com/pinard/Recode |
-| **recoll** | 1.43.6 | Full-text search for your desktop | https://www.recoll.org/ |
-| **recoll-python** | 1.43.6 | Python interface for Recoll | https://www.recoll.org/ |
+| **recoll** | 1.43.7 | Full-text search for your desktop | https://www.recoll.org/ |
+| **recoll-python** | 1.43.7 | Python interface for Recoll | https://www.recoll.org/ |
 | **recutils** | 1.9-1 | Set of tools and libraries to access human-editable, plain text databases called recfiles | https://www.gnu.org/software/recutils/ |
 | **recutils-static** | 1.9-1 | Static libraries for recutils | https://www.gnu.org/software/recutils/ |
 | **redir** | 3.3-3 | TCP port redirector for UNIX | https://github.com/troglobit/redir |
@@ -2266,7 +2266,7 @@
 | **silicon** | 0.5.3-1 | Silicon is an alternative to Carbon implemented in Rust | https://github.com/Aloxaf/silicon |
 | **silversearcher-ag** | 2.2.0-6 | Fast grep-like program, alternative to ack-grep | https://geoff.greer.fm/ag/ |
 | **simde** | 0.8.2 | Implementations of SIMD instructions for all systems | https://simd-everywhere.github.io/ |
-| **simdjson** | 4.2.1 | A C++ library to see how fast we can parse JSON with complete validation | https://simdjson.org/ |
+| **simdjson** | 4.2.2 | A C++ library to see how fast we can parse JSON with complete validation | https://simdjson.org/ |
 | **simh** | 1:3.12.5-1 | A collection of simulators for computer hardware and software from the past | http://simh.trailing-edge.com/ |
 | **simulavr** | 1:1.1.0-2 | Simulator for Microchip AVR (formerly Atmel) microcontrollers | https://www.nongnu.org/simulavr |
 | **simuwaerm** | 0.02-1 | A simple heat transfer simulator in pure Rust | https://github.com/file-acomplaint/simuwaerm |
@@ -2391,7 +2391,7 @@
 | **tdb-tools** | 1.4.14 | Tools for TDB | https://tdb.samba.org/ |
 | **tdl** | 0.19.2 | Telegram downloader/tools written in Golang | https://docs.iyear.me/tdl/ |
 | **tea** | 0.11.1 | The official CLI for Gitea | https://gitea.com/gitea/tea |
-| **tealdeer** | 1.8.0 | A very fast implementation of tldr in Rust | https://tealdeer-rs.github.io/tealdeer/ |
+| **tealdeer** | 1.8.1 | A very fast implementation of tldr in Rust | https://tealdeer-rs.github.io/tealdeer/ |
 | **teckit** | 2.5.12-1 | TECkit is a library for encoding conversion | https://scripts.sil.org/teckitdownloads |
 | **teckit-static** | 2.5.12-1 | Static libraries for teckit | https://scripts.sil.org/teckitdownloads |
 | **tectonic** | 0.15.0-4 | A modernized, complete, self-contained TeX/LaTeX engine | https://tectonic-typesetting.github.io/ |

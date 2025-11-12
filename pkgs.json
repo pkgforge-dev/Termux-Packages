@@ -3451,7 +3451,7 @@
   },
   {
     "Package": "glab-cli",
-    "Version": "1.76.2",
+    "Version": "1.77.0",
     "Description": "A GitLab CLI tool bringing GitLab to your command line",
     "Homepage": "https://gitlab.com/gitlab-org/cli"
   },
@@ -12169,7 +12169,7 @@
   },
   {
     "Package": "pycairo",
-    "Version": "1.28.0-1",
+    "Version": "1.29.0",
     "Description": "Python bindings for the cairo graphics library",
     "Homepage": "https://www.cairographics.org/pycairo/"
   },
@@ -12841,13 +12841,13 @@
   },
   {
     "Package": "recoll",
-    "Version": "1.43.6",
+    "Version": "1.43.7",
     "Description": "Full-text search for your desktop",
     "Homepage": "https://www.recoll.org/"
   },
   {
     "Package": "recoll-python",
-    "Version": "1.43.6",
+    "Version": "1.43.7",
     "Description": "Python interface for Recoll",
     "Homepage": "https://www.recoll.org/"
   },
@@ -13537,7 +13537,7 @@
   },
   {
     "Package": "simdjson",
-    "Version": "4.2.1",
+    "Version": "4.2.2",
     "Description": "A C++ library to see how fast we can parse JSON with complete validation",
     "Homepage": "https://simdjson.org/"
   },
@@ -14287,7 +14287,7 @@
   },
   {
     "Package": "tealdeer",
-    "Version": "1.8.0",
+    "Version": "1.8.1",
     "Description": "A very fast implementation of tldr in Rust",
     "Homepage": "https://tealdeer-rs.github.io/tealdeer/"
   },
