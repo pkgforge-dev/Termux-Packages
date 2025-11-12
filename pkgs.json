@@ -2347,7 +2347,7 @@
   },
   {
     "Package": "duckdb",
-    "Version": "1.4.1",
+    "Version": "1.4.2",
     "Description": "DuckDB Command Line Interface (CLI) shell",
     "Homepage": "https://duckdb.org/"
   },
@@ -4111,7 +4111,7 @@
   },
   {
     "Package": "helm",
-    "Version": "3.19.1",
+    "Version": "4.0.0",
     "Description": "Helm helps you manage Kubernetes applications",
     "Homepage": "https://helm.sh"
   },
@@ -4615,7 +4615,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.24.294",
+    "Version": "0.24.296",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -4921,7 +4921,7 @@
   },
   {
     "Package": "kubectl",
-    "Version": "1.34.1",
+    "Version": "1.34.2",
     "Description": "Kubernetes.io client binary",
     "Homepage": "https://kubernetes.io/"
   },
@@ -5845,13 +5845,13 @@
   },
   {
     "Package": "libduckdb",
-    "Version": "1.4.1",
+    "Version": "1.4.2",
     "Description": "An in-process SQL OLAP database management system",
     "Homepage": "https://duckdb.org/"
   },
   {
     "Package": "libduckdb-static",
-    "Version": "1.4.1",
+    "Version": "1.4.2",
     "Description": "Static libraries for libduckdb",
     "Homepage": "https://duckdb.org/"
   },
