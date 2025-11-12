@@ -1662,7 +1662,7 @@
 | **media-types** | 13.0.0 | List of standard media types and their usual file extension | https://pagure.io/mailcap |
 | **mediainfo** | 25.10 | Command-line utility for reading information from media files | https://mediaarea.net/en/MediaInfo |
 | **mediamtx** | 1.15.3 | Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy | https://github.com/bluenviron/mediamtx |
-| **megacmd** | 2.0.0-1 | Provides non UI access to MEGA services | https://mega.io/ |
+| **megacmd** | 2.3.0 | Provides non UI access to MEGA services | https://mega.io/ |
 | **megatools** | 1.11.5.20250706-1 | Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage | https://xff.cz/megatools/ |
 | **memcached** | 1.6.39-1 | Free & open source, high-performance, distributed memory object caching system | https://memcached.org/ |
 | **mercury** | 22.01.8-1 | A logic/functional programming language | https://www.mercurylang.org/ |
@@ -2134,8 +2134,8 @@
 | **rdircd** | 2023.02.07-1 | A daemon that allows using a personal Discord account through an IRC client | https://github.com/mk-fg/reliable-discord-client-irc-daemon |
 | **rdrview** | 1:0.1.5 | Command line tool to extract the main content from a webpage | https://github.com/eafer/rdrview |
 | **re2c** | 4.3-1 | Lexer generator for C, C++ and Go. | https://re2c.org/ |
-| **readline** | 8.3.1-1 | Library that allow users to edit command lines as they are typed in | https://tiswww.case.edu/php/chet/readline/rltop.html |
-| **readline-static** | 8.3.1-1 | Static libraries for readline | https://tiswww.case.edu/php/chet/readline/rltop.html |
+| **readline** | 8.3.1-2 | Library that allow users to edit command lines as they are typed in | https://tiswww.case.edu/php/chet/readline/rltop.html |
+| **readline-static** | 8.3.1-2 | Static libraries for readline | https://tiswww.case.edu/php/chet/readline/rltop.html |
 | **recode** | 3.7.15-1 | Charset converter tool and library | https://github.com/pinard/Recode |
 | **recode-static** | 3.7.15-1 | Static libraries for recode | https://github.com/pinard/Recode |
 | **recoll** | 1.43.7 | Full-text search for your desktop | https://www.recoll.org/ |
