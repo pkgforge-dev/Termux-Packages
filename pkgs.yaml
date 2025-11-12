@@ -2039,7 +2039,7 @@
   Description: Static libraries for fwknop
   Homepage: https://www.cipherdyne.org/fwknop/
 - Package: fx
-  Version: 39.1.0
+  Version: 39.2.0
   Description: Interactive JSON viewer on your terminal
   Homepage: https://github.com/antonmedv/fx
 - Package: fzf
@@ -6999,7 +6999,7 @@
   Description: An offline tool for querying IP geographic information and CDN provider
   Homepage: https://github.com/zu1k/nali
 - Package: nano
-  Version: 8.6-1
+  Version: "8.7"
   Description: Small, free and friendly text editor
   Homepage: https://www.nano-editor.org/
 - Package: nasm
