@@ -1247,7 +1247,7 @@
 | **libntl** | 11.5.1-1 | A Library for doing Number Theory | https://libntl.org |
 | **libntl-static** | 11.5.1-1 | Static libraries for libntl | https://libntl.org |
 | **libobjc2** | 2.1-3 | The GNUstep Objective-C runtime | https://www.gnustep.org/ |
-| **libode** | 0.16.6-1 | An open source, high performance library for simulating rigid body dynamics | https://www.ode.org |
+| **libode** | 0.16.6-2 | An open source, high performance library for simulating rigid body dynamics | https://www.ode.org |
 | **libogg** | 1.3.6-1 | Library for working with the Ogg multimedia container format | https://xiph.org/ogg/ |
 | **libogg-static** | 1.3.6-1 | Static libraries for libogg | https://xiph.org/ogg/ |
 | **liboggz** | 1.1.3-1 | Command and library to inspect, tweak, edit and validate Ogg files | https://www.xiph.org/oggz/ |
@@ -1812,7 +1812,7 @@
 | **ninja** | 1.13.1-1 | A small build system with a focus on speed | https://ninja-build.org |
 | **ninvaders** | 0.1.2-3 | Space Invaders clone based on ncurses for ASCII output | https://ninvaders.sourceforge.net |
 | **nlohmann-json** | 3.12.0 | JSON for Modern C++ | https://github.com/nlohmann/json |
-| **nlopt** | 2.10.0-1 | Library for nonlinear optimization | https://nlopt.readthedocs.io/ |
+| **nlopt** | 2.10.0-2 | Library for nonlinear optimization | https://nlopt.readthedocs.io/ |
 | **nmap** | 7.98 | Utility for network discovery and security auditing | https://nmap.org/ |
 | **nmh** | 1.8-2 | Powerful electronic mail handling system | http://www.nongnu.org/nmh/ |
 | **nmon** | 16q-2 | Curses based Performance Monitor for Linux with saving performance stats to a CSV file mode | https://nmon.sourceforge.net/ |
