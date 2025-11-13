@@ -2389,7 +2389,7 @@
   },
   {
     "Package": "dwarves",
-    "Version": "1.30-1",
+    "Version": "1.31",
     "Description": "Pahole and other DWARF utils",
     "Homepage": "https://git.kernel.org/cgit/devel/pahole/pahole.git/"
   },
@@ -2869,7 +2869,7 @@
   },
   {
     "Package": "fish",
-    "Version": "4.2.0",
+    "Version": "4.2.0-1",
     "Description": "The user-friendly command line shell",
     "Homepage": "https://fishshell.com/"
   },
@@ -12409,25 +12409,31 @@
   },
   {
     "Package": "python-torch",
-    "Version": "2.6.0-1",
+    "Version": "2.9.0",
     "Description": "Tensors and Dynamic neural networks in Python",
     "Homepage": "https://pytorch.org/"
   },
   {
     "Package": "python-torch-static",
-    "Version": "2.6.0-1",
+    "Version": "2.9.0",
     "Description": "Static libraries for python-torch",
     "Homepage": "https://pytorch.org/"
   },
   {
     "Package": "python-torchaudio",
-    "Version": "2.6.0-1",
+    "Version": "2.9.0",
     "Description": "Data manipulation and transformation for audio signal processing, powered by PyTorch",
     "Homepage": "https://github.com/pytorch/audio"
   },
   {
+    "Package": "python-torchcodec",
+    "Version": "0.8.1",
+    "Description": "PyTorch media decoding and encoding",
+    "Homepage": "https://github.com/pytorch/torchcodec"
+  },
+  {
     "Package": "python-torchvision",
-    "Version": "0.21.0-2",
+    "Version": "0.24.0",
     "Description": "Datasets, Transforms and Models specific to Computer Vision",
     "Homepage": "https://github.com/pytorch/vision"
   },
