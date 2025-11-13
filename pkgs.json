@@ -169,7 +169,7 @@
   },
   {
     "Package": "algernon",
-    "Version": "1.17.4",
+    "Version": "1.17.5",
     "Description": "Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support",
     "Homepage": "https://algernon.roboticoverlords.org/"
   },
@@ -1585,7 +1585,7 @@
   },
   {
     "Package": "composer",
-    "Version": "2.9.0-RC1-0",
+    "Version": "2.9.1",
     "Description": "Dependency Manager for PHP",
     "Homepage": "https://getcomposer.org/"
   },
@@ -2491,7 +2491,7 @@
   },
   {
     "Package": "elixir",
-    "Version": "1.19.2",
+    "Version": "1.19.3",
     "Description": "Elixir is a dynamic, functional language designed for building scalable and maintainable applications",
     "Homepage": "https://elixir-lang.org/"
   },
@@ -2869,7 +2869,7 @@
   },
   {
     "Package": "fish",
-    "Version": "4.2.0-1",
+    "Version": "4.2.1",
     "Description": "The user-friendly command line shell",
     "Homepage": "https://fishshell.com/"
   },
@@ -3307,7 +3307,7 @@
   },
   {
     "Package": "gh",
-    "Version": "2.83.0",
+    "Version": "2.83.1",
     "Description": "GitHub’s official command line tool",
     "Homepage": "https://cli.github.com/"
   },
@@ -10231,7 +10231,7 @@
   },
   {
     "Package": "moor",
-    "Version": "2.8.2",
+    "Version": "2.9.0",
     "Description": "A pager designed to just do the right thing without any configuration",
     "Homepage": "https://github.com/walles/moor"
   },
@@ -11875,7 +11875,7 @@
   },
   {
     "Package": "pocketbase",
-    "Version": "0.32.0",
+    "Version": "0.33.0",
     "Description": "An open source Go backend",
     "Homepage": "https://github.com/pocketbase/pocketbase"
   },

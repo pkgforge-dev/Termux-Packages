@@ -26,7 +26,7 @@
  aidl  13.0.0.6-22  Android Interface Definition Language (AIDL)  https://elinux.org/Android_aapt 
  alass  2.0.0-3  Automatic Language-Agnostic Subtitle Synchronization  https://github.com/kaegi/alass 
  alembic  1.8.9-1  A framework for sharing scene data that includes a C++ lib, a file format and client plugin  https://alembic.io 
- algernon  1.17.4  Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support  https://algernon.roboticoverlords.org/ 
+ algernon  1.17.5  Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support  https://algernon.roboticoverlords.org/ 
  alpine  2.26-1  Fast, easy to use email client  http://alpine.x10host.com/ 
  alsa-lib  1.2.14-1  The Advanced Linux Sound Architecture (ALSA) - library  https://www.alsa-project.org 
  alsa-plugins  1.2.12-1  The Advanced Linux Sound Architecture (ALSA) - plugins  https://www.alsa-project.org 
@@ -262,7 +262,7 @@
  colm-static  0.14.7-2  Static libraries for colm  https://www.colm.net/open-source/colm/ 
  colordiff  1.0.21  Tool to colorize 'diff' output  https://www.colordiff.org/ 
  command-not-found  3.2-3  Suggest installation of packages in interactive shell sessions  https://github.com/termux/command-not-found 
- composer  2.9.0-RC1-0  Dependency Manager for PHP  https://getcomposer.org/ 
+ composer  2.9.1  Dependency Manager for PHP  https://getcomposer.org/ 
  console-bridge  1.0.2-1  A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages  https://github.com/ros/console_bridge 
  convertlit  1.8-2  An extractor/converter for .LIT eBooks  http://www.convertlit.com/ 
  cookcli  0.18.2  A suite of tools to create shopping lists and maintain food recipes  https://cooklang.org 
@@ -413,7 +413,7 @@
  electrum  4.5.8-2  Electrum is a lightweight Bitcoin wallet  https://electrum.org 
  elfutils  0.193-1  A collection of utilities to read, create and modify ELF binary files  https://sourceware.org/elfutils/ 
  elinks  0.18.0-1  Full-Featured Text WWW Browser  https://github.com/rkd77/elinks 
- elixir  1.19.2  Elixir is a dynamic, functional language designed for building scalable and maintainable applications  https://elixir-lang.org/ 
+ elixir  1.19.3  Elixir is a dynamic, functional language designed for building scalable and maintainable applications  https://elixir-lang.org/ 
  eltclsh  1.20-1  Interactive shell for TCL programming language  https://homepages.laas.fr/mallet/soft/shell/eltclsh 
  elvish  0.21.0-1  A friendly and expressive Unix shell  https://github.com/elves/elvish 
  emacs  30.2  Extensible, customizable text editor-and more  https://www.gnu.org/software/emacs/ 
@@ -476,7 +476,7 @@
  finch-static  2.14.14-2  Static libraries for finch  https://pidgin.im/ 
  findomain  10.0.1-1  Findomain is the fastest subdomain enumerator and the only one written in Rust  https://findomain.app/ 
  findutils  4.10.0-1  Utilities to find files meeting specified criteria and perform various actions on the files which are found  https://www.gnu.org/software/findutils/ 
- fish  4.2.0-1  The user-friendly command line shell  https://fishshell.com/ 
+ fish  4.2.1  The user-friendly command line shell  https://fishshell.com/ 
  flac  1.5.0-1  FLAC (Free Lossless Audio Codec) command-line tool  https://xiph.org/flac/ 
  flatbuffers  25.9.23  Memory Efficient Serialization Library  https://github.com/google/flatbuffers 
  flatbuffers-static  25.9.23  Static libraries for flatbuffers  https://github.com/google/flatbuffers 
@@ -549,7 +549,7 @@
  gflags  2.2.2-11  A C++ library that implements commandline flags processing  https://github.com/gflags/gflags 
  gflags-static  2.2.2-11  Static libraries for gflags  https://github.com/gflags/gflags 
  gforth  0.7.3-3  The Forth implementation of the GNU project  https://www.gnu.org/software/gforth/ 
- gh  2.83.0  GitHub’s official command line tool  https://cli.github.com/ 
+ gh  2.83.1  GitHub’s official command line tool  https://cli.github.com/ 
  ghc  9.12.2-2  The Glasgow Haskell Compiler  https://www.haskell.org/ghc/ 
  ghostscript  10.05.1-2  Interpreter for the PostScript language and for PDF  https://www.ghostscript.com/ 
  giflib  5.2.2-1  A library for reading and writing gif images  https://giflib.sourceforge.net/ 
@@ -1703,7 +1703,7 @@
  mono-static  6.14.1-2  Static libraries for mono  https://gitlab.winehq.org/mono/mono 
  monolith  2.10.1-1  CLI tool for saving complete web pages as a single HTML file  https://github.com/Y2Z/monolith 
  moon-buggy  1.0.51-6  Simple game where you drive a car across the moon's surface  https://github.com/seehuhn/moon-buggy 
- moor  2.8.2  A pager designed to just do the right thing without any configuration  https://github.com/walles/moor 
+ moor  2.9.0  A pager designed to just do the right thing without any configuration  https://github.com/walles/moor 
  mop  2025.03.17-1  Stock market tracker  https://github.com/mop-tracker/mop 
  moreutils  0.70-1  A growing collection of the unix tools that nobody thought to write thirty years ago  https://joeyh.name/code/moreutils/ 
  moria  5.7.15-6  Rogue-like game with an infinite dungeon  https://umoria.org 
@@ -1977,7 +1977,7 @@
  plzip  1.12-1  A massively parallel lossless data compressor based on the lzlib compression library  https://www.nongnu.org/lzip/plzip.html 
  pngcrush  1.8.13-2  Recompresses png files  https://pmt.sourceforge.io/pngcrush/ 
  pngquant  3.0.3-2  PNG image optimising utility  https://pngquant.org 
- pocketbase  0.32.0  An open source Go backend  https://github.com/pocketbase/pocketbase 
+ pocketbase  0.33.0  An open source Go backend  https://github.com/pocketbase/pocketbase 
  poke  4.3-1  Interactive, extensible editor for binary data.  http://www.jemarch.net/poke.html 
  poke-static  4.3-1  Static libraries for poke  http://www.jemarch.net/poke.html 
  polipo  1.1.1-1  A small and fast caching web proxy  http://www.pps.jussieu.fr/~jch/software/polipo/ 
