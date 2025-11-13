@@ -603,7 +603,7 @@
   Description: Bandwidth monitor and rate estimator
   Homepage: https://github.com/tgraf/bmon
 - Package: boinc
-  Version: 8.2.6
+  Version: 8.2.7
   Description: Open-source software for volunteer computing
   Homepage: https://boinc.berkeley.edu/
 - Package: boinctui
@@ -3075,7 +3075,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.24.296
+  Version: 0.24.301
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -6215,7 +6215,7 @@
   Description: Fast webserver with minimal memory footprint
   Homepage: https://www.lighttpd.net
 - Package: lilv
-  Version: 0.24.26-2
+  Version: 0.26.0
   Description: A C library to make the use of LV2 plugins as simple as possible for applications
   Homepage: https://drobilla.net/software/lilv.html
 - Package: lilypond
@@ -6519,7 +6519,7 @@
   Description: Simple CAS and symbolic calculator
   Homepage: https://en.wikipedia.org/wiki/Mathomatic
 - Package: matplotlib
-  Version: 3.10.7
+  Version: 3.10.8
   Description: A comprehensive library for creating static, animated, and interactive visualizations in Python
   Homepage: https://matplotlib.org/
 - Package: matterbridge
@@ -8943,7 +8943,7 @@
   Description: Small utilities used by programs to sensibly select and spawn an appropriate browser, editor, or pager
   Homepage: https://packages.debian.org/sid/sensible-utils
 - Package: serd
-  Version: 0.32.4-1
+  Version: 0.32.6
   Description: A lightweight C library for RDF syntax
   Homepage: https://drobilla.net/software/serd.html
 - Package: serf
