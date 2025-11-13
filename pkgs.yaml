@@ -103,7 +103,7 @@
   Description: Android Interface Definition Language (AIDL)
   Homepage: https://elinux.org/Android_aapt
 - Package: alass
-  Version: 2.0.0-3
+  Version: 2.0.0-4
   Description: Automatic Language-Agnostic Subtitle Synchronization
   Homepage: https://github.com/kaegi/alass
 - Package: alembic
@@ -163,7 +163,7 @@
   Description: Slice and dice logs on the command line
   Homepage: https://github.com/rcoh/angle-grinder
 - Package: ani-cli
-  Version: "4.10"
+  Version: 4.10-1
   Description: A cli to browse and watch anime
   Homepage: https://github.com/pystardust/ani-cli
 - Package: ansifilter
@@ -395,11 +395,11 @@
   Description: Magical shell history
   Homepage: https://atuin.sh/
 - Package: aubio
-  Version: 0.4.9-5
+  Version: 0.4.9-6
   Description: A library to label music and sounds
   Homepage: https://aubio.org/
 - Package: aubio-static
-  Version: 0.4.9-5
+  Version: 0.4.9-6
   Description: Static libraries for aubio
   Homepage: https://aubio.org/
 - Package: autoconf
@@ -915,7 +915,7 @@
   Description: A human-friendly and fast alternative to cut and (sometimes) awk
   Homepage: https://github.com/theryangeary/choose
 - Package: chromaprint
-  Version: 1.5.1-p20250625-1
+  Version: 1.6.0
   Description: C library for generating audio fingerprints used by AcoustID (fpcalc tool)
   Homepage: https://acoustid.org/chromaprint
 - Package: chrony
@@ -1007,7 +1007,7 @@
   Description: cmocka is an unit testing framework for C
   Homepage: https://cmocka.org/
 - Package: cmus
-  Version: 2.12.0-6
+  Version: 2.12.0-7
   Description: Small, fast and powerful console music player
   Homepage: https://cmus.github.io/
 - Package: cmusfm
@@ -1863,11 +1863,11 @@
   Description: A simple file manager written in bash
   Homepage: https://github.com/dylanaraps/fff
 - Package: ffmpeg
-  Version: 7.1.2
+  Version: "8.0"
   Description: Tools and libraries to manipulate a wide range of multimedia formats and protocols
   Homepage: https://ffmpeg.org
 - Package: ffmpegthumbnailer
-  Version: 2.2.3-p20240913-2
+  Version: 2.2.3-p20251103-0
   Description: Lightweight video thumbnailer that can be used by file managers
   Homepage: https://github.com/dirkvdb/ffmpegthumbnailer
 - Package: ffsend
@@ -2147,7 +2147,7 @@
   Description: Static libraries for gecode
   Homepage: https://github.com/Gecode/gecode
 - Package: gegl
-  Version: 0.4.64-1
+  Version: 0.4.64-2
   Description: Data flow based image processing framework
   Homepage: https://gegl.org/
 - Package: gengetopt
@@ -2515,11 +2515,11 @@
   Description: Share your terminal as a web application
   Homepage: https://github.com/sorenisanerd/gotty
 - Package: gpac
-  Version: 2.4.0-4
+  Version: 2.4.0-5
   Description: An open-source multimedia framework focused on modularity and standards compliance
   Homepage: https://gpac.wp.imt.fr/
 - Package: gpac-static
-  Version: 2.4.0-4
+  Version: 2.4.0-5
   Description: Static libraries for gpac
   Homepage: https://gpac.wp.imt.fr/
 - Package: gperf
@@ -2627,7 +2627,7 @@
   Description: Static libraries for gsl
   Homepage: https://www.gnu.org/software/gsl/
 - Package: gst-libav
-  Version: 1.26.8
+  Version: 1.26.8-1
   Description: GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code
   Homepage: https://gstreamer.freedesktop.org/modules/gst-libav.html
 - Package: gst-plugins-bad
@@ -3707,7 +3707,7 @@
   Description: A fast and lightweight 2D game physics library
   Homepage: http://chipmunk2d.net
 - Package: libchromaprint
-  Version: 1.5.1-p20250625-1
+  Version: 1.6.0
   Description: C library for generating audio fingerprints used by AcoustID
   Homepage: https://acoustid.org/chromaprint
 - Package: libclc
@@ -5059,7 +5059,7 @@
   Description: Platform support library used by libCEC and binary add-ons for Kodi
   Homepage: https://github.com/Pulse-Eight/platform
 - Package: libpagmo
-  Version: 2.19.1-3
+  Version: 2.19.1-4
   Description: Scientific library for massively parallel optimization
   Homepage: https://esa.github.io/pagmo2/index.html
 - Package: libpangomm-1.4
@@ -6655,7 +6655,7 @@
   Description: Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy
   Homepage: https://github.com/bluenviron/mediamtx
 - Package: megacmd
-  Version: 2.3.0
+  Version: 2.3.0-1
   Description: Provides non UI access to MEGA services
   Homepage: https://mega.io/
 - Package: megatools
@@ -6727,7 +6727,7 @@
   Description: Friendly menu driven serial communication program
   Homepage: https://salsa.debian.org/minicom-team/minicom
 - Package: minidlna
-  Version: 1.3.3-3
+  Version: 1.3.3-4
   Description: A server software with the aim of being fully compliant with DLNA/UPnP-AV clients
   Homepage: https://sourceforge.net/projects/minidlna/
 - Package: miniflux
@@ -6883,7 +6883,7 @@
   Description: Minimalist command line interface for MPD
   Homepage: https://www.musicpd.org/clients/mpc/
 - Package: mpd
-  Version: 0.24.6
+  Version: 0.24.6-1
   Description: Music player daemon
   Homepage: https://www.musicpd.org
 - Package: mpdscribble
@@ -6895,7 +6895,7 @@
   Description: Fast console MPEG Audio Player based on libmpg123
   Homepage: https://mpg123.org/
 - Package: mpv
-  Version: 0.40.0-2
+  Version: 0.40.0-3
   Description: Command-line media player
   Homepage: https://mpv.io/
 - Package: mruby
@@ -7019,7 +7019,7 @@
   Description: An interactive cheatsheet tool for the command-line
   Homepage: https://github.com/denisidoro/navi
 - Package: navidrome
-  Version: 0.58.5
+  Version: 0.58.5-1
   Description: "\U0001F3A7☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic"
   Homepage: https://www.navidrome.org/
 - Package: ncdc
@@ -7239,15 +7239,15 @@
   Description: Open Source, cross-platform JavaScript runtime environment
   Homepage: https://nodejs.org/
 - Package: notcurses
-  Version: 3.0.17
+  Version: 3.0.17-1
   Description: blingful TUIs and character graphics
   Homepage: https://notcurses.com/
 - Package: notcurses-data
-  Version: 3.0.17
+  Version: 3.0.17-1
   Description: Platform-independent data for notcurses
   Homepage: https://notcurses.com/
 - Package: notcurses-tools
-  Version: 3.0.17
+  Version: 3.0.17-1
   Description: Tools and demos for notcurses
   Homepage: https://notcurses.com/
 - Package: notmuch
@@ -7843,7 +7843,7 @@
   Description: A PHP tool for administering MySQL and MariaDB databases
   Homepage: https://www.phpmyadmin.net
 - Package: pianobar
-  Version: 2024.12.21-1
+  Version: 2024.12.21-2
   Description: pianobar is a free/open-source, console-based client for the personalized online radio Pandora.
   Homepage: https://6xq.net/pianobar/
 - Package: pick
@@ -7875,7 +7875,7 @@
   Description: Animated pipes terminal screensaver
   Homepage: https://github.com/pipeseroni/pipes.sh
 - Package: pipewire
-  Version: 1.2.7-1
+  Version: 1.2.7-2
   Description: A server and user space API to deal with multimedia pipelines
   Homepage: https://pipewire.org/
 - Package: pkg-config
@@ -8283,11 +8283,11 @@
   Description: Data manipulation and transformation for audio signal processing, powered by PyTorch
   Homepage: https://github.com/pytorch/audio
 - Package: python-torchcodec
-  Version: 0.8.1
+  Version: 0.8.1-1
   Description: PyTorch media decoding and encoding
   Homepage: https://github.com/pytorch/torchcodec
 - Package: python-torchvision
-  Version: 0.24.1
+  Version: 0.24.1-1
   Description: Datasets, Transforms and Models specific to Computer Vision
   Homepage: https://github.com/pytorch/vision
 - Package: python-xcbgen
@@ -8695,7 +8695,7 @@
   Description: A tool for doing record analysis and transformation
   Homepage: https://github.com/dflemstr/rq
 - Package: rsgain
-  Version: 3.6-2
+  Version: 3.6-3
   Description: A simple audio normalizazion utility
   Homepage: https://github.com/complexlogic/rsgain
 - Package: rsnapshot
@@ -9243,7 +9243,7 @@
   Description: Command-line tools for libsrt
   Homepage: https://github.com/Haivision/srt
 - Package: srt2vobsub
-  Version: 1.0-4
+  Version: 1.0-5
   Description: A command-line tool that generates a pair of .idx/.sub subtitle files from a textual subtitles file
   Homepage: https://srt2vobsub.sourceforge.io/
 - Package: ssdb
@@ -9723,7 +9723,7 @@
   Description: Command-line time tracker
   Homepage: https://timewarrior.net/
 - Package: timg
-  Version: 1.6.3
+  Version: 1.6.3-1
   Description: A terminal image and video viewer
   Homepage: https://timg.sh/
 - Package: timidity++
@@ -10063,7 +10063,7 @@
   Description: Static libraries for unixodbc
   Homepage: https://www.unixodbc.org/
 - Package: unpaper
-  Version: 1:7.0.0-3
+  Version: 1:7.0.0-4
   Description: A post-processing tool for scanned sheets of paper
   Homepage: https://www.flameeyes.com/projects/unpaper
 - Package: unrar
@@ -10227,7 +10227,7 @@
   Description: A programmable tool for verification, analysis and transformation of C++ source code
   Homepage: https://bitbucket.org/verateam/vera
 - Package: vgmstream
-  Version: "2055"
+  Version: 2055-1
   Description: A library for playback of various streamed audio formats used in video games
   Homepage: https://github.com/vgmstream/vgmstream
 - Package: vgmtools
@@ -10279,11 +10279,11 @@
   Description: A themeable LS_COLORS generator with a rich filetype datebase
   Homepage: https://github.com/sharkdp/vivid
 - Package: vlc
-  Version: 3.0.21-11
+  Version: 3.0.21-12
   Description: A popular libre and open source media player and multimedia engine
   Homepage: https://www.videolan.org/
 - Package: vlc-static
-  Version: 3.0.21-11
+  Version: 3.0.21-12
   Description: Static libraries for vlc
   Homepage: https://www.videolan.org/
 - Package: vobsub2srt
