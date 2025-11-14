@@ -2391,7 +2391,7 @@
   Description: gnuit - GNU Interactive Tools
   Homepage: https://www.gnu.org/software/gnuit/
 - Package: gnunet
-  Version: 0.25.2-1
+  Version: 0.26.0
   Description: A framework for secure peer-to-peer networking
   Homepage: https://gnunet.org
 - Package: gnupg
@@ -4339,11 +4339,11 @@
   Description: Static libraries for libidn2
   Homepage: https://www.gnu.org/software/libidn/#libidn2
 - Package: libimagequant
-  Version: 4.4.0-1
+  Version: 4.4.1
   Description: Small, portable C library for high-quality conversion of RGBA images to 8-bit indexed-color (palette) images
   Homepage: https://pngquant.org/lib/
 - Package: libimagequant-static
-  Version: 4.4.0-1
+  Version: 4.4.1
   Description: Static libraries for libimagequant
   Homepage: https://pngquant.org/lib/
 - Package: libimobiledevice
