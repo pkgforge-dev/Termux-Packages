@@ -779,7 +779,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4-1 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-2 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.24.301 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.24.306 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **jadx** | 1.5.3 | Dex to Java decompiler | https://github.com/skylot/jadx |
 | **jadx-x** | 1.5.3 | Dex to Java decompiler GUI | https://github.com/skylot/jadx |
 | **janet** | 1.39.1 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
@@ -2292,7 +2292,7 @@
 | **socat** | 1.8.0.3-1 | Relay for bidirectional data transfer between two independent data channels | http://www.dest-unreach.org/socat/ |
 | **softether-vpn** | 5.02.5180-5 | An open-source cross-platform multi-protocol VPN program | https://www.softether.org/ |
 | **softether-vpn-static** | 5.02.5180-5 | Static libraries for softether-vpn | https://www.softether.org/ |
-| **soju** | 0.10.0 | A user-friendly IRC bouncer | https://codeberg.org/emersion/soju |
+| **soju** | 0.10.1 | A user-friendly IRC bouncer | https://codeberg.org/emersion/soju |
 | **solidity** | 0.8.30-1 | An Ethereum smart contract-oriented language | https://solidity.readthedocs.io |
 | **sops** | 3.11.0 | Simple and flexible tool for managing secrets | https://github.com/getsops/sops |
 | **sord** | 0.16.20 | A lightweight C library for storing RDF data in memory | https://drobilla.net/software/sord.html |
@@ -2398,7 +2398,7 @@
 | **tectonic** | 0.15.0-4 | A modernized, complete, self-contained TeX/LaTeX engine | https://tectonic-typesetting.github.io/ |
 | **telegram-bot-api** | 20241031-2 | Telegram Bot API server | https://github.com/tdlib/telegram-bot-api |
 | **telegram-cli** | 1:1.4.1-8 | Telegram messenger CLI | https://github.com/vysheng/tg |
-| **teleport-tsh** | 18.3.2 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
+| **teleport-tsh** | 18.4.0 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
 | **tenki-php** | 2022.05.26 | A simple PHP application for logging current weather conditions, notes, and waypoints | https://github.com/dmpop/tenki |
 | **tere** | 1.6.0-1 | Terminal file explorer written in rust | https://github.com/mgunyho/tere |
 | **tergent** | 1.0.0-5 | A cryptoki/PKCS#11 library for Termux that uses Android Keystore as its backend | https://github.com/aeolwyr/tergent |
@@ -2584,11 +2584,12 @@
 | **vlc-static** | 3.0.21-12 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-4 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.3-1 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 2025.11.07 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
+| **vtm** | 2025.11.13 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
+| **vtm-static** | 2025.11.13 | Static libraries for vtm | https://github.com/directvt/vtm |
 | **vttest** | 20241208-1 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-5 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.4.328 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
-| **vulkan-headers** | 1.4.332 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
+| **vulkan-headers** | 1.4.333 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
 | **vulkan-icd** | 0.1 | A metapackage that provides Vulkan ICDs | https://github.com/termux/termux-packages |
 | **vulkan-loader** | 0.0.3 | A metapackage that provides vulkan loader library | https://github.com/termux/termux-packages |
 | **vulkan-loader-android** | 28c-2 | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
@@ -2635,7 +2636,7 @@
 | **wordgrinder** | 0.8 | A Unicode-aware character cell word processor | http://cowlark.com/wordgrinder/ |
 | **wren** | 0.4.0-2 | Small, fast, class-based concurrent scripting language interpreter | https://wren.io/ |
 | **wrk** | 4.2.0-1 | Modern HTTP benchmarking tool | https://github.com/wg/wrk |
-| **wtfutil** | 0.47.0 | The personal information dashboard for your terminal | https://wtfutil.com/ |
+| **wtfutil** | 0.47.1 | The personal information dashboard for your terminal | https://wtfutil.com/ |
 | **wuzz** | 0.5.0-5 | Interactive command line tool for HTTP inspection | https://github.com/asciimoo/wuzz |
 | **wv-tools** | 1.2.9-6 | Command-line tools for libwv | https://wvware.sourceforge.net/ |
 | **x11-repo** | 8.4-1 | Package repository containing X11 programs and libraries | https://github.com/termux/x11-packages |

@@ -3075,7 +3075,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.24.301
+  Version: 0.24.306
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -9127,7 +9127,7 @@
   Description: Static libraries for softether-vpn
   Homepage: https://www.softether.org/
 - Package: soju
-  Version: 0.10.0
+  Version: 0.10.1
   Description: A user-friendly IRC bouncer
   Homepage: https://codeberg.org/emersion/soju
 - Package: solidity
@@ -9551,7 +9551,7 @@
   Description: Telegram messenger CLI
   Homepage: https://github.com/vysheng/tg
 - Package: teleport-tsh
-  Version: 18.3.2
+  Version: 18.4.0
   Description: Secure Access for Developers that doesnt get in the way
   Homepage: https://github.com/gravitational/teleport
 - Package: tenki-php
@@ -10295,8 +10295,12 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2025.11.07
+  Version: 2025.11.13
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
+  Homepage: https://github.com/directvt/vtm
+- Package: vtm-static
+  Version: 2025.11.13
+  Description: Static libraries for vtm
   Homepage: https://github.com/directvt/vtm
 - Package: vttest
   Version: 20241208-1
@@ -10311,7 +10315,7 @@
   Description: Vulkan Extension Layer
   Homepage: https://github.com/KhronosGroup/Vulkan-ExtensionLayer
 - Package: vulkan-headers
-  Version: 1.4.332
+  Version: 1.4.333
   Description: Vulkan Header files and API registry
   Homepage: https://github.com/KhronosGroup/Vulkan-Headers
 - Package: vulkan-icd
@@ -10499,7 +10503,7 @@
   Description: Modern HTTP benchmarking tool
   Homepage: https://github.com/wg/wrk
 - Package: wtfutil
-  Version: 0.47.0
+  Version: 0.47.1
   Description: The personal information dashboard for your terminal
   Homepage: https://wtfutil.com/
 - Package: wuzz
