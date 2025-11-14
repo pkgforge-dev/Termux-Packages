@@ -658,7 +658,7 @@
 | **graphviz-static** | 14.0.2 | Static libraries for graphviz | https://www.graphviz.org/ |
 | **greed** | 4.3-1 | Game where you try to eat as much as possible of the board before munching yourself into a corner | http://www.catb.org/~esr/greed/ |
 | **grep** | 3.12-2 | Command which searches one or more input files for lines containing a match to a specified pattern | https://www.gnu.org/software/grep/ |
-| **grex** | 1.4.5-1 | Simplifies the task of creating regular expressions | https://github.com/pemistahl/grex |
+| **grex** | 1.4.6 | Simplifies the task of creating regular expressions | https://github.com/pemistahl/grex |
 | **groff** | 1.23.0-2 | typesetting system that reads plain text mixed with formatting commands and produces formatted output | https://www.gnu.org/software/groff/ |
 | **gron** | 0.7.1-4 | Transforms JSON into discrete assignments | https://github.com/tomnomnom/gron |
 | **groonga** | 15.2.0 | An embeddable fulltext search engine | https://github.com/groonga/groonga/ |
@@ -2002,7 +2002,7 @@
 | **portaudio-static** | 19.07.00-3 | Static libraries for portaudio | https://www.portaudio.com/ |
 | **portmidi** | 2.0.6-1 | A cross-platform MIDI input/output library | https://github.com/PortMidi/portmidi |
 | **posixvala** | 0.2 | Aims to bring back the posix profile for Vala | https://github.com/radare/posixvala |
-| **postgis** | 3.6.0-1 | Spatial database extender for PostgreSQL object-relational database | https://postgis.net |
+| **postgis** | 3.6.1 | Spatial database extender for PostgreSQL object-relational database | https://postgis.net |
 | **postgresql** | 17.0-4 | Object-relational SQL database | https://www.postgresql.org |
 | **postgresql-static** | 17.0-4 | Static libraries for postgresql | https://www.postgresql.org |
 | **potrace** | 1.16-2 | Tool for transforming a bitmap into a smooth, scalable image | https://potrace.sourceforge.net |

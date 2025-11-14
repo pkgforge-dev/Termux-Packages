@@ -2591,7 +2591,7 @@
   Description: Command which searches one or more input files for lines containing a match to a specified pattern
   Homepage: https://www.gnu.org/software/grep/
 - Package: grex
-  Version: 1.4.5-1
+  Version: 1.4.6
   Description: Simplifies the task of creating regular expressions
   Homepage: https://github.com/pemistahl/grex
 - Package: groff
@@ -7967,7 +7967,7 @@
   Description: Aims to bring back the posix profile for Vala
   Homepage: https://github.com/radare/posixvala
 - Package: postgis
-  Version: 3.6.0-1
+  Version: 3.6.1
   Description: Spatial database extender for PostgreSQL object-relational database
   Homepage: https://postgis.net
 - Package: postgresql
