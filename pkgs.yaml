@@ -3075,7 +3075,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.24.306
+  Version: 0.24.311
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -10255,7 +10255,7 @@
   Description: A virtual 3D GPU for use inside qemu virtual machines
   Homepage: https://virgil3d.github.io/
 - Package: virglrenderer-android
-  Version: 1.0.1-4
+  Version: 1.2.0
   Description: A virtual 3D GPU for use inside qemu virtual machines over OpenGLES libraries on Android
   Homepage: https://virgil3d.github.io/
 - Package: virustotal-cli
@@ -10655,7 +10655,7 @@
   Description: Download youtube video in Golang
   Homepage: https://github.com/kkdai/youtube
 - Package: yq
-  Version: 4.48.1
+  Version: 4.48.2
   Description: A lightweight and portable command-line YAML, JSON and XML processor
   Homepage: https://mikefarah.gitbook.io/yq/
 - Package: ytfzf
