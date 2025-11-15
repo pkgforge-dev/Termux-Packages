@@ -4633,7 +4633,7 @@
   },
   {
     "Package": "janet",
-    "Version": "1.39.1",
+    "Version": "1.40.0",
     "Description": "Janet is a dialect of Lisp intended for embedding into programs and such",
     "Homepage": "https://janet-lang.org"
   },
@@ -6619,13 +6619,13 @@
   },
   {
     "Package": "libjanet",
-    "Version": "1.39.1",
+    "Version": "1.40.0",
     "Description": "Development library for Janet",
     "Homepage": "https://janet-lang.org"
   },
   {
     "Package": "libjanet-static",
-    "Version": "1.39.1",
+    "Version": "1.40.0",
     "Description": "Static libraries for libjanet",
     "Homepage": "https://janet-lang.org"
   },
@@ -10231,7 +10231,7 @@
   },
   {
     "Package": "moor",
-    "Version": "2.9.0",
+    "Version": "2.9.1",
     "Description": "A pager designed to just do the right thing without any configuration",
     "Homepage": "https://github.com/walles/moor"
   },

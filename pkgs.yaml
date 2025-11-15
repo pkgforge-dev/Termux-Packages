@@ -3087,7 +3087,7 @@
   Description: Dex to Java decompiler GUI
   Homepage: https://github.com/skylot/jadx
 - Package: janet
-  Version: 1.39.1
+  Version: 1.40.0
   Description: Janet is a dialect of Lisp intended for embedding into programs and such
   Homepage: https://janet-lang.org
 - Package: jbig2dec
@@ -4411,11 +4411,11 @@
   Description: Static libraries for libisofs
   Homepage: https://dev.lovelyhq.com/libburnia
 - Package: libjanet
-  Version: 1.39.1
+  Version: 1.40.0
   Description: Development library for Janet
   Homepage: https://janet-lang.org
 - Package: libjanet-static
-  Version: 1.39.1
+  Version: 1.40.0
   Description: Static libraries for libjanet
   Homepage: https://janet-lang.org
 - Package: libjansi
@@ -6819,7 +6819,7 @@
   Description: Simple game where you drive a car across the moons surface
   Homepage: https://github.com/seehuhn/moon-buggy
 - Package: moor
-  Version: 2.9.0
+  Version: 2.9.1
   Description: A pager designed to just do the right thing without any configuration
   Homepage: https://github.com/walles/moor
 - Package: mop
