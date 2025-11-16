@@ -521,7 +521,7 @@
 | **fwknop** | 2.6.11-1 | fwknop: Single Packet Authorization > Port Knocking | https://www.cipherdyne.org/fwknop/ |
 | **fwknop-static** | 2.6.11-1 | Static libraries for fwknop | https://www.cipherdyne.org/fwknop/ |
 | **fx** | 39.2.0 | Interactive JSON viewer on your terminal | https://github.com/antonmedv/fx |
-| **fzf** | 0.66.1 | Command-line fuzzy finder | https://junegunn.github.io/fzf/ |
+| **fzf** | 0.67.0 | Command-line fuzzy finder | https://junegunn.github.io/fzf/ |
 | **fzy** | 1.1-1 | A simple, fast fuzzy finder for the terminal | https://github.com/jhawthorn/fzy |
 | **g-ir-scanner** | 1.86.0 | A tool which generates GIR XML files | https://gi.readthedocs.io/ |
 | **game-music-emu** | 0.6.4-1 | A collection of video game music file emulators | https://bitbucket.org/mpyne/game-music-emu/wiki/Home |
@@ -608,7 +608,7 @@
 | **gnucobol-static** | 3.2-2 | Static libraries for gnucobol | https://gnucobol.sourceforge.io/ |
 | **gnugo** | 3.8-6 | Program that plays the game of Go | https://www.gnu.org/software/gnugo/ |
 | **gnuit** | 4.9.5-1 | gnuit - GNU Interactive Tools | https://www.gnu.org/software/gnuit/ |
-| **gnunet** | 0.26.0 | A framework for secure peer-to-peer networking | https://gnunet.org |
+| **gnunet** | 0.26.1 | A framework for secure peer-to-peer networking | https://gnunet.org |
 | **gnupg** | 2.5.11 | Implementation of the OpenPGP standard for encrypting and signing data and communication | https://www.gnupg.org/ |
 | **gnuplot** | 6.0.3-1 | Command-line driven graphing utility | http://gnuplot.info/ |
 | **gnurl** | 7.72.0-1 | Fork of libcurl, which is mostly for GNUnet | https://gnunet.org/en/gnurl.html |
@@ -819,7 +819,7 @@
 | **kakoune** | 2025.06.03-2 | Code editor heavily inspired by Vim | https://kakoune.org/ |
 | **kakoune-lsp** | 18.2.0-1 | Language Server Protocol Client for the Kakoune editor | https://github.com/kakoune-lsp/kakoune-lsp |
 | **kbd** | 2.9.0 | KBD's showkey utility for examining keycodes | https://kbd-project.org/ |
-| **kcptun** | 20251113 | A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC | https://github.com/xtaci/kcptun |
+| **kcptun** | 20251116 | A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC | https://github.com/xtaci/kcptun |
 | **keybase** | 6.5.1-1 | Key directory that maps social media identities to encryption keys | https://keybase.io |
 | **keychain** | 2.9.8 | keychain ssh-agent front-end | https://www.funtoo.org/Keychain |
 | **kibi** | 0.3.1 | A tiny terminal text editor, written in Rust | https://github.com/ilai-deutel/kibi |
