@@ -1071,7 +1071,7 @@
   Description: A suite of tools to create shopping lists and maintain food recipes
   Homepage: https://cooklang.org
 - Package: coreutils
-  Version: 9.8-1
+  Version: "9.9"
   Description: Basic file, shell and text manipulation utilities from the GNU project
   Homepage: https://www.gnu.org/software/coreutils/
 - Package: corgi
@@ -1295,7 +1295,7 @@
   Description: Displays a histogram of changes to a file
   Homepage: https://invisible-island.net/diffstat/diffstat.html
 - Package: difftastic
-  Version: 0.65.0
+  Version: 0.67.0
   Description: 'difft: A structural diff that understands syntax'
   Homepage: https://github.com/Wilfred/difftastic
 - Package: diffutils
@@ -4583,11 +4583,11 @@
   Description: Static libraries for liblua54
   Homepage: https://www.lua.org/
 - Package: libluajit
-  Version: 1:2.1.1762795099
+  Version: 1:2.1.1763148144
   Description: Just-In-Time Compiler for Lua
   Homepage: https://luajit.org/
 - Package: libluajit-static
-  Version: 1:2.1.1762795099
+  Version: 1:2.1.1763148144
   Description: Static libraries for libluajit
   Homepage: https://luajit.org/
 - Package: liblz4
@@ -6391,7 +6391,7 @@
   Description: Simple, extensible, embeddable programming language
   Homepage: https://www.lua.org/
 - Package: luajit
-  Version: 1:2.1.1762795099
+  Version: 1:2.1.1763148144
   Description: Just-In-Time compiler for Lua - command line tool
   Homepage: https://luajit.org/
 - Package: luarocks
@@ -6531,7 +6531,7 @@
   Description: Connect to your mattermost or slack using your IRC-client of choice
   Homepage: https://github.com/42wim/matterircd
 - Package: mautrix-whatsapp
-  Version: 0.2510.0
+  Version: 0.2511.0
   Description: A Matrix-WhatsApp puppeting bridge
   Homepage: https://maunium.net/go/mautrix-whatsapp/
 - Package: maven

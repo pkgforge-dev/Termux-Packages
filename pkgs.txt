@@ -266,7 +266,7 @@
  console-bridge  1.0.2-1  A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages  https://github.com/ros/console_bridge 
  convertlit  1.8-2  An extractor/converter for .LIT eBooks  http://www.convertlit.com/ 
  cookcli  0.18.2  A suite of tools to create shopping lists and maintain food recipes  https://cooklang.org 
- coreutils  9.8-1  Basic file, shell and text manipulation utilities from the GNU project  https://www.gnu.org/software/coreutils/ 
+ coreutils  9.9  Basic file, shell and text manipulation utilities from the GNU project  https://www.gnu.org/software/coreutils/ 
  corgi  0.2.4-5  CLI workflow manager  https://github.com/DrakeW/corgi 
  corkscrew  2.0-4  A tool for tunneling SSH through HTTP proxies  https://wiki.linuxquestions.org/wiki/Corkscrew 
  cowsay  3.8.4  Program which generates ASCII pictures of a cow with a message  https://cowsay.diamonds/ 
@@ -322,7 +322,7 @@
  dictd  1.13.3-1  Online dictionary client and server  https://sourceforge.net/projects/dict/ 
  diff-so-fancy  1.4.4  Good-lookin' diffs. Actually... nah... The best-lookin' diffs  https://github.com/so-fancy/diff-so-fancy 
  diffstat  1.68-1  Displays a histogram of changes to a file  https://invisible-island.net/diffstat/diffstat.html 
- difftastic  0.65.0  difft: A structural diff that understands syntax  https://github.com/Wilfred/difftastic 
+ difftastic  0.67.0  difft: A structural diff that understands syntax  https://github.com/Wilfred/difftastic 
  diffutils  3.12-2  Programs (cmp, diff, diff3 and sdiff) related to finding differences between files  https://www.gnu.org/software/diffutils/ 
  dirb  2.22-5  Web Directory Fuzzer  https://dirb.sourceforge.net/ 
  direnv  2.37.1-1  Environment switcher for shell  https://github.com/direnv/direnv 
@@ -1144,8 +1144,8 @@
  liblua53-static  5.3.6-4  Static libraries for liblua53  https://www.lua.org/ 
  liblua54  5.4.8-3  Shared library for the Lua interpreter  https://www.lua.org/ 
  liblua54-static  5.4.8-3  Static libraries for liblua54  https://www.lua.org/ 
- libluajit  1:2.1.1762795099  Just-In-Time Compiler for Lua  https://luajit.org/ 
- libluajit-static  1:2.1.1762795099  Static libraries for libluajit  https://luajit.org/ 
+ libluajit  1:2.1.1763148144  Just-In-Time Compiler for Lua  https://luajit.org/ 
+ libluajit-static  1:2.1.1763148144  Static libraries for libluajit  https://luajit.org/ 
  liblz4  1.10.0-1  Fast LZ compression algorithm library  https://lz4.github.io/lz4/ 
  liblzma  5.8.1-1  XZ-format compression library  https://tukaani.org/xz/ 
  liblzma-static  5.8.1-1  Static libraries for liblzma  https://tukaani.org/xz/ 
@@ -1596,7 +1596,7 @@
  lua53  5.3.6-4  Simple, extensible, embeddable programming language  https://www.lua.org/ 
  lua53-lpeg  1.1.0-3  Pattern-matching library for Lua 5.3  https://www.inf.puc-rio.br/~roberto/lpeg 
  lua54  5.4.8-3  Simple, extensible, embeddable programming language  https://www.lua.org/ 
- luajit  1:2.1.1762795099  Just-In-Time compiler for Lua - command line tool  https://luajit.org/ 
+ luajit  1:2.1.1763148144  Just-In-Time compiler for Lua - command line tool  https://luajit.org/ 
  luarocks  3.12.2-3  Deployment and management system for Lua modules  https://luarocks.org/ 
  luv  1.51.0-1-1  Bare libuv bindings for lua  https://github.com/luvit/luv 
  luvi  1:2.15.0-1  A project in-between luv and luvit  https://luvit.io 
@@ -1631,7 +1631,7 @@
  matplotlib  3.10.8  A comprehensive library for creating static, animated, and interactive visualizations in Python  https://matplotlib.org/ 
  matterbridge  1.26.0-4  A simple chat bridge  https://github.com/42wim/matterbridge 
  matterircd  0.28.0-1  Connect to your mattermost or slack using your IRC-client of choice  https://github.com/42wim/matterircd 
- mautrix-whatsapp  0.2510.0  A Matrix-WhatsApp puppeting bridge  https://maunium.net/go/mautrix-whatsapp/ 
+ mautrix-whatsapp  0.2511.0  A Matrix-WhatsApp puppeting bridge  https://maunium.net/go/mautrix-whatsapp/ 
  maven  3.9.11-1  A Java software project management and comprehension tool  https://maven.apache.org/ 
  maxcso  1.13.0-1  A fast ISO to CSO compression program for use with PSP and PS2 emulators  https://github.com/unknownbrackets/maxcso 
  mazter  2022.08.13-1  Mazes in your terminal  https://github.com/Canop/mazter 
