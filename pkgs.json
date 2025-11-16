@@ -12451,7 +12451,7 @@
   },
   {
     "Package": "python-yt-dlp",
-    "Version": "2025.11.12",
+    "Version": "2025.11.12-1",
     "Description": "A youtube-dl fork with additional features and fixes",
     "Homepage": "https://github.com/yt-dlp/yt-dlp"
   },
@@ -15988,6 +15988,12 @@
     "Version": "4.48.2",
     "Description": "A lightweight and portable command-line YAML, JSON and XML processor",
     "Homepage": "https://mikefarah.gitbook.io/yq/"
+  },
+  {
+    "Package": "yt-dlp-ejs",
+    "Version": "0.3.1",
+    "Description": "External JavaScript for yt-dlp supporting many runtimes",
+    "Homepage": "https://github.com/yt-dlp/ejs"
   },
   {
     "Package": "ytfzf",
