@@ -80,12 +80,12 @@
  aspell-es  2:1.11-2-0  Spanish dictionary for aspell  http://aspell.net/ 
  aspell-fr  2:0.50-3-1  French dictionary for aspell  http://aspell.net/ 
  aspell-static  0.60.8.1-1  Static libraries for aspell  http://aspell.net 
- aspnetcore-runtime-8.0  8.0.22  ASP.NET Core 8.0 Runtime  https://dotnet.microsoft.com/en-us/ 
- aspnetcore-runtime-9.0  9.0.9  ASP.NET Core 9.0 Runtime  https://dotnet.microsoft.com/en-us/ 
- aspnetcore-runtime-dbg-8.0  8.0.22  ASP.NET Core 8.0 Runtime Managed Debug Symbols  https://dotnet.microsoft.com/en-us/ 
- aspnetcore-runtime-dbg-9.0  9.0.9  ASP.NET Core 9.0 Runtime Managed Debug Symbols  https://dotnet.microsoft.com/en-us/ 
- aspnetcore-targeting-pack-8.0  8.0.22  ASP.NET Core 8.0 Targeting Pack  https://dotnet.microsoft.com/en-us/ 
- aspnetcore-targeting-pack-9.0  9.0.9  ASP.NET Core 9.0 Targeting Pack  https://dotnet.microsoft.com/en-us/ 
+ aspnetcore-runtime-8.0  8.0.22-1  ASP.NET Core 8.0 Runtime  https://dotnet.microsoft.com/en-us/ 
+ aspnetcore-runtime-9.0  9.0.11  ASP.NET Core 9.0 Runtime  https://dotnet.microsoft.com/en-us/ 
+ aspnetcore-runtime-dbg-8.0  8.0.22-1  ASP.NET Core 8.0 Runtime Managed Debug Symbols  https://dotnet.microsoft.com/en-us/ 
+ aspnetcore-runtime-dbg-9.0  9.0.11  ASP.NET Core 9.0 Runtime Managed Debug Symbols  https://dotnet.microsoft.com/en-us/ 
+ aspnetcore-targeting-pack-8.0  8.0.22-1  ASP.NET Core 8.0 Targeting Pack  https://dotnet.microsoft.com/en-us/ 
+ aspnetcore-targeting-pack-9.0  9.0.11  ASP.NET Core 9.0 Targeting Pack  https://dotnet.microsoft.com/en-us/ 
  assimp  6.0.2-1  Library to import various well-known 3D model formats in an uniform manner  https://assimp.sourceforge.net/index.html 
  astra-sm  2019.06.19-1  Software for digital TV broadcasting  https://gitlab.com/berdyansk/astra-sm 
  asymptote  3.05-1  A powerful descriptive vector graphics language for technical drawing  https://asymptote.sourceforge.io/ 
@@ -354,27 +354,27 @@
  dosfstools  4.2-1  DOS file system utilities  https://github.com/dosfstools/dosfstools 
  dotconf  1.4.1-1  dot.conf configuration file parser  https://github.com/williamh/dotconf 
  dotconf-static  1.4.1-1  Static libraries for dotconf  https://github.com/williamh/dotconf 
- dotnet-apphost-pack-8.0  8.0.22  .NET 8.0 Targeting Pack  https://dotnet.microsoft.com/en-us/ 
- dotnet-apphost-pack-9.0  9.0.9  .NET 9.0 Targeting Pack  https://dotnet.microsoft.com/en-us/ 
+ dotnet-apphost-pack-8.0  8.0.22-1  .NET 8.0 Targeting Pack  https://dotnet.microsoft.com/en-us/ 
+ dotnet-apphost-pack-9.0  9.0.11  .NET 9.0 Targeting Pack  https://dotnet.microsoft.com/en-us/ 
  dotnet-host  9.0-2  A metapackage for .NET Host  https://dotnet.microsoft.com/en-us/ 
- dotnet-host-8.0  8.0.22  .NET 8.0 Host  https://dotnet.microsoft.com/en-us/ 
- dotnet-host-9.0  9.0.9  .NET 9.0 Host  https://dotnet.microsoft.com/en-us/ 
- dotnet-hostfxr-8.0  8.0.22  .NET 8.0 Host Resolver  https://dotnet.microsoft.com/en-us/ 
- dotnet-hostfxr-9.0  9.0.9  .NET 9.0 Host Resolver  https://dotnet.microsoft.com/en-us/ 
- dotnet-runtime-8.0  8.0.22  .NET 8.0 Runtime  https://dotnet.microsoft.com/en-us/ 
- dotnet-runtime-9.0  9.0.9  .NET 9.0 Runtime  https://dotnet.microsoft.com/en-us/ 
- dotnet-runtime-dbg-8.0  8.0.22  .NET 8.0 Runtime Managed Debug Symbols  https://dotnet.microsoft.com/en-us/ 
- dotnet-runtime-dbg-9.0  9.0.9  .NET 9.0 Runtime Managed Debug Symbols  https://dotnet.microsoft.com/en-us/ 
- dotnet-sdk-8.0  8.0.22  .NET 8.0 SDK  https://dotnet.microsoft.com/en-us/ 
- dotnet-sdk-9.0  9.0.9  .NET 9.0 SDK  https://dotnet.microsoft.com/en-us/ 
- dotnet-sdk-dbg-8.0  8.0.22  .NET 8.0 SDK Managed Debug Symbols  https://dotnet.microsoft.com/en-us/ 
- dotnet-sdk-dbg-9.0  9.0.9  .NET 9.0 SDK Managed Debug Symbols  https://dotnet.microsoft.com/en-us/ 
- dotnet-targeting-pack-8.0  8.0.22  .NET 8.0 Targeting Pack  https://dotnet.microsoft.com/en-us/ 
- dotnet-targeting-pack-9.0  9.0.9  .NET 9.0 Targeting Pack  https://dotnet.microsoft.com/en-us/ 
- dotnet-templates-8.0  8.0.22  .NET 8.0 Templates  https://dotnet.microsoft.com/en-us/ 
- dotnet-templates-9.0  9.0.9  .NET 9.0 Templates  https://dotnet.microsoft.com/en-us/ 
- dotnet8.0  8.0.22  .NET 8.0  https://dotnet.microsoft.com/en-us/ 
- dotnet9.0  9.0.9  .NET 9.0  https://dotnet.microsoft.com/en-us/ 
+ dotnet-host-8.0  8.0.22-1  .NET 8.0 Host  https://dotnet.microsoft.com/en-us/ 
+ dotnet-host-9.0  9.0.11  .NET 9.0 Host  https://dotnet.microsoft.com/en-us/ 
+ dotnet-hostfxr-8.0  8.0.22-1  .NET 8.0 Host Resolver  https://dotnet.microsoft.com/en-us/ 
+ dotnet-hostfxr-9.0  9.0.11  .NET 9.0 Host Resolver  https://dotnet.microsoft.com/en-us/ 
+ dotnet-runtime-8.0  8.0.22-1  .NET 8.0 Runtime  https://dotnet.microsoft.com/en-us/ 
+ dotnet-runtime-9.0  9.0.11  .NET 9.0 Runtime  https://dotnet.microsoft.com/en-us/ 
+ dotnet-runtime-dbg-8.0  8.0.22-1  .NET 8.0 Runtime Managed Debug Symbols  https://dotnet.microsoft.com/en-us/ 
+ dotnet-runtime-dbg-9.0  9.0.11  .NET 9.0 Runtime Managed Debug Symbols  https://dotnet.microsoft.com/en-us/ 
+ dotnet-sdk-8.0  8.0.22-1  .NET 8.0 SDK  https://dotnet.microsoft.com/en-us/ 
+ dotnet-sdk-9.0  9.0.11  .NET 9.0 SDK  https://dotnet.microsoft.com/en-us/ 
+ dotnet-sdk-dbg-8.0  8.0.22-1  .NET 8.0 SDK Managed Debug Symbols  https://dotnet.microsoft.com/en-us/ 
+ dotnet-sdk-dbg-9.0  9.0.11  .NET 9.0 SDK Managed Debug Symbols  https://dotnet.microsoft.com/en-us/ 
+ dotnet-targeting-pack-8.0  8.0.22-1  .NET 8.0 Targeting Pack  https://dotnet.microsoft.com/en-us/ 
+ dotnet-targeting-pack-9.0  9.0.11  .NET 9.0 Targeting Pack  https://dotnet.microsoft.com/en-us/ 
+ dotnet-templates-8.0  8.0.22-1  .NET 8.0 Templates  https://dotnet.microsoft.com/en-us/ 
+ dotnet-templates-9.0  9.0.11  .NET 9.0 Templates  https://dotnet.microsoft.com/en-us/ 
+ dotnet8.0  8.0.22-1  .NET 8.0  https://dotnet.microsoft.com/en-us/ 
+ dotnet9.0  9.0.11  .NET 9.0  https://dotnet.microsoft.com/en-us/ 
  double-conversion  3.3.1-1  Binary-decimal and decimal-binary routines for IEEE doubles  https://github.com/google/double-conversion 
  doxygen  1.15.0  A documentation system for C++, C, Java, IDL and PHP  http://www.doxygen.org 
  dpkg  1.22.6-5  Debian package management system  https://packages.debian.org/dpkg 
@@ -1788,8 +1788,8 @@
  netpbm  1:10.73.43-5  Toolkit for manipulation of graphic images of different formats  https://netpbm.sourceforge.net/ 
  netsed  1.4  Alter the contents of packets forwarded through network in real time  http://silicone.homelinux.org/projects/netsed/ 
  netstandard-targeting-pack-2.1  9.0-2  A metapackage for NETStandard.Library 2.1 Targeting Pack  https://dotnet.microsoft.com/en-us/ 
- netstandard-targeting-pack-2.1-8.0  8.0.22  NETStandard.Library 2.1 Targeting Pack (.NET 8.0)  https://dotnet.microsoft.com/en-us/ 
- netstandard-targeting-pack-2.1-9.0  9.0.9  NETStandard.Library 2.1 Targeting Pack (.NET 9.0)  https://dotnet.microsoft.com/en-us/ 
+ netstandard-targeting-pack-2.1-8.0  8.0.22-1  NETStandard.Library 2.1 Targeting Pack (.NET 8.0)  https://dotnet.microsoft.com/en-us/ 
+ netstandard-targeting-pack-2.1-9.0  9.0.11  NETStandard.Library 2.1 Targeting Pack (.NET 9.0)  https://dotnet.microsoft.com/en-us/ 
  nettle  3.10.2-1  Low level cryptographic tools  https://www.lysator.liu.se/~nisse/nettle/ 
  newsboat  2.41  RSS/Atom feed reader for the text console  https://newsboat.org/ 
  newsraft  0.34  Newsraft is a feed reader with text-based user interface  https://codeberg.org/newsraft/newsraft 
