@@ -445,7 +445,7 @@
 | **fakeroot** | 1.37.1.2-1 | Tool for simulating superuser privileges (with tcp ipc) | https://packages.qa.debian.org/f/fakeroot.html |
 | **fakeroot-static** | 1.37.1.2-1 | Static libraries for fakeroot | https://packages.qa.debian.org/f/fakeroot.html |
 | **fasd** | 2.0.0 | To fastly access files and folders | https://github.com/whjvenyl/fasd |
-| **fastfetch** | 2.55.0 | A maintained, feature-rich and performance oriented, neofetch like system information tool | https://github.com/fastfetch-cli/fastfetch |
+| **fastfetch** | 2.55.1 | A maintained, feature-rich and performance oriented, neofetch like system information tool | https://github.com/fastfetch-cli/fastfetch |
 | **fastmod** | 0.4.4-1 | Regex-based code refactoring utility | https://github.com/facebookincubator/fastmod |
 | **fatsort** | 1.6.5.640-1 | A C utility that sorts FAT12, FAT16, FAT32 and exFAT partitions | https://fatsort.sourceforge.io/ |
 | **faust** | 2.81.10 | A functional programming language for signal processing and sound synthesis | https://github.com/grame-cncm/faust |
@@ -767,7 +767,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4-1 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-2 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.24.311 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.24.314 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **jadx** | 1.5.3 | Dex to Java decompiler | https://github.com/skylot/jadx |
 | **jadx-x** | 1.5.3 | Dex to Java decompiler GUI | https://github.com/skylot/jadx |
 | **janet** | 1.40.0 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
@@ -807,7 +807,7 @@
 | **kakoune** | 2025.06.03-2 | Code editor heavily inspired by Vim | https://kakoune.org/ |
 | **kakoune-lsp** | 18.2.0-1 | Language Server Protocol Client for the Kakoune editor | https://github.com/kakoune-lsp/kakoune-lsp |
 | **kbd** | 2.9.0 | KBD's showkey utility for examining keycodes | https://kbd-project.org/ |
-| **kcptun** | 20250730-1 | A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC | https://github.com/xtaci/kcptun |
+| **kcptun** | 20251113 | A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC | https://github.com/xtaci/kcptun |
 | **keybase** | 6.5.1-1 | Key directory that maps social media identities to encryption keys | https://keybase.io |
 | **keychain** | 2.9.8 | keychain ssh-agent front-end | https://www.funtoo.org/Keychain |
 | **kibi** | 0.3.1 | A tiny terminal text editor, written in Rust | https://github.com/ilai-deutel/kibi |
