@@ -1878,7 +1878,7 @@
  openssl  1:3.5.2  Library implementing the SSL and TLS protocols as well as general purpose cryptography functions  https://www.openssl.org/ 
  openssl-static  1:3.5.2  Static libraries for openssl  https://www.openssl.org/ 
  openssl-tool  1:3.5.2  The openssl command line cryptographic tool  https://www.openssl.org/ 
- opentimelineio  0.18.0  Open Source API and interchange format for editorial timeline information.  http://opentimeline.io/ 
+ opentimelineio  0.18.1  Open Source API and interchange format for editorial timeline information.  http://opentimeline.io/ 
  openxr  1.1.53  Open standard that provides a common set of APIs for developing XR applications  https://www.khronos.org/openxr/ 
  optipng  7.9.1-1  PNG optimizer that recompresses image files to a smaller size, without losing any information  https://optipng.sourceforge.net/ 
  opus-tools  0.2-4  Utilities to encode and decode .opus files  https://www.opus-codec.org/ 
@@ -2487,7 +2487,7 @@
  ttyc  0.4-4  ttyd protocol client  https://github.com/Depau/ttyc 
  ttyd  1.7.7-2  Command-line tool for sharing terminal over the web  https://tsl0922.github.io/ttyd/ 
  ttyper  1.6.0-1  Terminal-based typing test  https://github.com/max-niederman/ttyper 
- ttyplot  1.7.1-1  A realtime plotting utility for terminal with data input from stdin  https://github.com/tenox7/ttyplot 
+ ttyplot  1.7.4  A realtime plotting utility for terminal with data input from stdin  https://github.com/tenox7/ttyplot 
  ttyrec  1.0.8-8  Terminal recorder and player  http://0xcc.net/ttyrec/ 
  tudo  1.2.0  A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument as the Termux app (u<userid>_a<appid>) user in the Termux app  https://github.com/agnostic-apollo/tudo 
  tur-repo  1.0.1  A single and trusted place for all unofficial/less popular termux packages  https://github.com/termux-user-repository/tur 
