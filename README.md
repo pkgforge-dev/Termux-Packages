@@ -654,8 +654,8 @@
 | **graphene** | 1.10.8-3 | A thin layer of graphic data types | https://ebassi.github.io/graphene/ |
 | **graphicsmagick** | 1.3.46 | Collection of image processing tools | http://www.graphicsmagick.org/ |
 | **graphicsmagick-static** | 1.3.46 | Static libraries for graphicsmagick | http://www.graphicsmagick.org/ |
-| **graphviz** | 14.0.2 | Rich set of graph drawing tools | https://www.graphviz.org/ |
-| **graphviz-static** | 14.0.2 | Static libraries for graphviz | https://www.graphviz.org/ |
+| **graphviz** | 14.0.4 | Rich set of graph drawing tools | https://www.graphviz.org/ |
+| **graphviz-static** | 14.0.4 | Static libraries for graphviz | https://www.graphviz.org/ |
 | **greed** | 4.3-1 | Game where you try to eat as much as possible of the board before munching yourself into a corner | http://www.catb.org/~esr/greed/ |
 | **grep** | 3.12-2 | Command which searches one or more input files for lines containing a match to a specified pattern | https://www.gnu.org/software/grep/ |
 | **grex** | 1.4.6 | Simplifies the task of creating regular expressions | https://github.com/pemistahl/grex |
