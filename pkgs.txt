@@ -767,7 +767,7 @@
  jack  0.0.1  A metapackage that provides JACK Audio Connection Kit  https://github.com/termux/termux-packages 
  jack-example-tools  4-1  Official JACK example clients and tools  https://jackaudio.org/ 
  jack2  1.9.22-2  The JACK low-latency audio server  https://jackaudio.org/ 
- jackett  0.24.314  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
+ jackett  0.24.319  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
  jadx  1.5.3  Dex to Java decompiler  https://github.com/skylot/jadx 
  jadx-x  1.5.3  Dex to Java decompiler GUI  https://github.com/skylot/jadx 
  janet  1.40.0  Janet is a dialect of Lisp intended for embedding into programs and such  https://janet-lang.org 
@@ -1576,8 +1576,8 @@
  logo-ls  2024.07.17-1  Modern ls command with vscode like File Icon and Git Integrations  https://github.com/Yash-Handa/logo-ls 
  logrotate  3.22.0-1  Simplify the administration of log files on a system which generates a lot of log files  https://github.com/logrotate/logrotate 
  loksh  7.8  A Linux port of OpenBSD's ksh  https://github.com/dimkr/loksh 
- lowdown  2.0.2-1  Markdown utilities and library (fork of hoedown -> sundown -> libsoldout)  https://kristaps.bsd.lv/lowdown 
- lowdown-static  2.0.2-1  Static libraries for lowdown  https://kristaps.bsd.lv/lowdown 
+ lowdown  2.0.3  Markdown utilities and library (fork of hoedown -> sundown -> libsoldout)  https://kristaps.bsd.lv/lowdown 
+ lowdown-static  2.0.3  Static libraries for lowdown  https://kristaps.bsd.lv/lowdown 
  lr  2.0.1  list files, recursively, includes the best features of ls, find, stat and du  https://git.vuxu.org/lr/about/ 
  lrzip  0.651-2  A compression utility that excels at compressing large files  https://github.com/ckolivas/lrzip 
  lrzsz  0.12.21-rc1-2  Tools for zmodem/xmodem/ymodem file transfer  https://ohse.de/uwe/software/lrzsz.html 
@@ -2109,7 +2109,7 @@
  quick-lint-js  3.2.0-1  Finds bugs in JavaScript programs  https://quick-lint-js.com/ 
  quickjs  1:20250913  QuickJS is a small and embeddable Javascript engine  https://bellard.org/quickjs/ 
  quilt  0.69  Allows you to easily manage large numbers of patches  https://savannah.nongnu.org/projects/quilt 
- rabbitmq-server  4.2.0  Feature rich, multi-protocol messaging and streaming broker  https://github.com/rabbitmq/rabbitmq-server 
+ rabbitmq-server  4.2.1  Feature rich, multi-protocol messaging and streaming broker  https://github.com/rabbitmq/rabbitmq-server 
  racket  8.18  Full-spectrum programming language going beyond Lisp and Scheme  https://racket-lang.org 
  racket-static  8.18  Static libraries for racket  https://racket-lang.org 
  radare2  6.0.4  UNIX-like reverse engineering framework and command-line toolset  https://www.radare.org/ 
