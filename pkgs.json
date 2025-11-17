@@ -4633,7 +4633,7 @@
   },
   {
     "Package": "janet",
-    "Version": "1.40.0",
+    "Version": "1.40.1",
     "Description": "Janet is a dialect of Lisp intended for embedding into programs and such",
     "Homepage": "https://janet-lang.org"
   },
@@ -5353,7 +5353,7 @@
   },
   {
     "Package": "libblocksruntime",
-    "Version": "1:6.1-1",
+    "Version": "1:6.2.1",
     "Description": "LLVM Blocks runtime library",
     "Homepage": "https://github.com/swiftlang/swift-corelibs-libdispatch"
   },
@@ -5815,7 +5815,7 @@
   },
   {
     "Package": "libdispatch",
-    "Version": "1:6.1-1",
+    "Version": "1:6.2.1",
     "Description": "The libdispatch project, for concurrency on multicore hardware",
     "Homepage": "https://github.com/swiftlang/swift-corelibs-libdispatch"
   },
@@ -6619,13 +6619,13 @@
   },
   {
     "Package": "libjanet",
-    "Version": "1.40.0",
+    "Version": "1.40.1",
     "Description": "Development library for Janet",
     "Homepage": "https://janet-lang.org"
   },
   {
     "Package": "libjanet-static",
-    "Version": "1.40.0",
+    "Version": "1.40.1",
     "Description": "Static libraries for libjanet",
     "Homepage": "https://janet-lang.org"
   },
@@ -9379,7 +9379,7 @@
   },
   {
     "Package": "llbuild",
-    "Version": "6.1-1",
+    "Version": "6.2.1",
     "Description": "A low-level build system, used by the Swift Package Manager",
     "Homepage": "https://github.com/swiftlang/swift-llbuild"
   },
@@ -11359,19 +11359,19 @@
   },
   {
     "Package": "oxc-language-server",
-    "Version": "1.16.0",
+    "Version": "1.27.0",
     "Description": "Oxc JavaScript linter language server",
     "Homepage": "https://oxc.rs/"
   },
   {
     "Package": "oxfmt",
-    "Version": "1.16.0",
+    "Version": "1.27.0",
     "Description": "Oxc JavaScript formatter",
     "Homepage": "https://oxc.rs/"
   },
   {
     "Package": "oxlint",
-    "Version": "1.16.0",
+    "Version": "1.27.0",
     "Description": "Oxc JavaScript linter",
     "Homepage": "https://oxc.rs/"
   },
@@ -14131,37 +14131,37 @@
   },
   {
     "Package": "swift-runtime-aarch64",
-    "Version": "6.1.3",
+    "Version": "6.2.1",
     "Description": "Swift runtime libraries for Android AArch64",
     "Homepage": "https://swift.org/"
   },
   {
     "Package": "swift-runtime-arm",
-    "Version": "6.1.3",
+    "Version": "6.2.1",
     "Description": "Swift runtime libraries for Android armv7",
     "Homepage": "https://swift.org/"
   },
   {
     "Package": "swift-runtime-x86-64",
-    "Version": "6.1.3",
+    "Version": "6.2.1",
     "Description": "Swift runtime libraries for Android x86_64",
     "Homepage": "https://swift.org/"
   },
   {
     "Package": "swift-sdk-aarch64",
-    "Version": "6.1.3",
+    "Version": "6.2.1",
     "Description": "Swift SDK for Android AArch64",
     "Homepage": "https://swift.org/"
   },
   {
     "Package": "swift-sdk-arm",
-    "Version": "6.1.3",
+    "Version": "6.2.1",
     "Description": "Swift SDK for Android armv7",
     "Homepage": "https://swift.org/"
   },
   {
     "Package": "swift-sdk-x86-64",
-    "Version": "6.1.3",
+    "Version": "6.2.1",
     "Description": "Swift SDK for Android x86_64",
     "Homepage": "https://swift.org/"
   },

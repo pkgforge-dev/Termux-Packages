@@ -782,7 +782,7 @@
 | **jackett** | 0.24.319 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **jadx** | 1.5.3 | Dex to Java decompiler | https://github.com/skylot/jadx |
 | **jadx-x** | 1.5.3 | Dex to Java decompiler GUI | https://github.com/skylot/jadx |
-| **janet** | 1.40.0 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
+| **janet** | 1.40.1 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
 | **jbig2dec** | 0.20-1 | Decoder implementation of the JBIG2 image compression format | https://jbig2dec.com/ |
 | **jbig2dec-static** | 0.20-1 | Static libraries for jbig2dec | https://jbig2dec.com/ |
 | **jbig2enc** | 2023.01.08-3 | An encoder for JBIG2 | https://github.com/agl/jbig2enc |
@@ -902,7 +902,7 @@
 | **libatomic-ops-static** | 7.8.4 | Static libraries for libatomic-ops | https://github.com/bdwgc/libatomic_ops |
 | **libbcprov-java** | 1.82 | A lightweight cryptography API for Java | https://www.bouncycastle.org/java.html |
 | **libblkid** | 2.41.2 | Block device identification library | https://en.wikipedia.org/wiki/Util-linux |
-| **libblocksruntime** | 1:6.1-1 | LLVM Blocks runtime library | https://github.com/swiftlang/swift-corelibs-libdispatch |
+| **libblocksruntime** | 1:6.2.1 | LLVM Blocks runtime library | https://github.com/swiftlang/swift-corelibs-libdispatch |
 | **libblosc** | 1.21.6-1 | A blocking, shuffling and loss-less compression library | https://www.blosc.org |
 | **libblosc-static** | 1.21.6-1 | Static libraries for libblosc | https://www.blosc.org |
 | **libbluray** | 1.4.0 | An open-source library designed for Blu-Ray Discs playback for media players | https://code.videolan.org/videolan/libbluray/ |
@@ -979,7 +979,7 @@
 | **libdeflate** | 1.25 | C library for fast compression and decompression | https://github.com/ebiggers/libdeflate |
 | **libdeflate-static** | 1.25 | Static libraries for libdeflate | https://github.com/ebiggers/libdeflate |
 | **libdevil** | 1.8.0-7 | A cross-platform image library utilizing a simple syntax | https://openil.sourceforge.net/ |
-| **libdispatch** | 1:6.1-1 | The libdispatch project, for concurrency on multicore hardware | https://github.com/swiftlang/swift-corelibs-libdispatch |
+| **libdispatch** | 1:6.2.1 | The libdispatch project, for concurrency on multicore hardware | https://github.com/swiftlang/swift-corelibs-libdispatch |
 | **libdisplay-info** | 0.3.0 | EDID and DisplayID library | https://emersion.pages.freedesktop.org/libdisplay-info/ |
 | **libdmtx** | 0.7.8-1 | A software library that enables programs to read and write Data Matrix barcodes | https://github.com/dmtx/libdmtx |
 | **libdmtx-static** | 0.7.8-1 | Static libraries for libdmtx | https://github.com/dmtx/libdmtx |
@@ -1113,8 +1113,8 @@
 | **libisoburn-static** | 1.5.6-1 | Static libraries for libisoburn | https://dev.lovelyhq.com/libburnia |
 | **libisofs** | 1.5.6.pl01-1 | Library to pack up hard disk files and directories into a ISO 9660 disk image | https://dev.lovelyhq.com/libburnia |
 | **libisofs-static** | 1.5.6.pl01-1 | Static libraries for libisofs | https://dev.lovelyhq.com/libburnia |
-| **libjanet** | 1.40.0 | Development library for Janet | https://janet-lang.org |
-| **libjanet-static** | 1.40.0 | Static libraries for libjanet | https://janet-lang.org |
+| **libjanet** | 1.40.1 | Development library for Janet | https://janet-lang.org |
+| **libjanet-static** | 1.40.1 | Static libraries for libjanet | https://janet-lang.org |
 | **libjansi** | 2.4.2-1 | A small java library that allows you to use ANSI escape codes to format your console output | https://fusesource.github.io/jansi/ |
 | **libjansson** | 2.14.1-1 | C library for encoding, decoding and manipulating JSON data | http://www.digip.org/jansson/ |
 | **libjansson-static** | 2.14.1-1 | Static libraries for libjansson | http://www.digip.org/jansson/ |
@@ -1573,7 +1573,7 @@
 | **littlecms** | 2.17-1 | Color management library | http://www.littlecms.com/ |
 | **littlecms-static** | 2.17-1 | Static libraries for littlecms | http://www.littlecms.com/ |
 | **littlecms-utils** | 2.17-1 | Color management utilities | http://www.littlecms.com/ |
-| **llbuild** | 6.1-1 | A low-level build system, used by the Swift Package Manager | https://github.com/swiftlang/swift-llbuild |
+| **llbuild** | 6.2.1 | A low-level build system, used by the Swift Package Manager | https://github.com/swiftlang/swift-llbuild |
 | **lld** | 21.1.5 | LLVM-based linker | https://clang.llvm.org/ |
 | **lldb** | 21.1.5 | LLVM-based debugger | https://clang.llvm.org/ |
 | **llvm** | 21.1.5 | LLVM modular compiler and toolchain executables | https://clang.llvm.org/ |
@@ -1903,9 +1903,9 @@
 | **ossp-uuid** | 1.6.2-4 | ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122. | http://www.ossp.org/pkg/lib/uuid/ |
 | **ossp-uuid-static** | 1.6.2-4 | Static libraries for ossp-uuid | http://www.ossp.org/pkg/lib/uuid/ |
 | **ovmf** | 20231122-16.fc40-0 | Open Virtual Machine Firmware | https://www.tianocore.org/ |
-| **oxc-language-server** | 1.16.0 | Oxc JavaScript linter language server | https://oxc.rs/ |
-| **oxfmt** | 1.16.0 | Oxc JavaScript formatter | https://oxc.rs/ |
-| **oxlint** | 1.16.0 | Oxc JavaScript linter | https://oxc.rs/ |
+| **oxc-language-server** | 1.27.0 | Oxc JavaScript linter language server | https://oxc.rs/ |
+| **oxfmt** | 1.27.0 | Oxc JavaScript formatter | https://oxc.rs/ |
+| **oxlint** | 1.27.0 | Oxc JavaScript linter | https://oxc.rs/ |
 | **p11-kit** | 0.25.10 | Provides a way to load and enumerate PKCS#11 modules | https://p11-glue.github.io/p11-glue/p11-kit.html |
 | **p7zip** | 17.06-1 | Command-line version of the 7zip compressed file archiver | https://github.com/p7zip-project/p7zip |
 | **pacman** | 7.1.0 | A library-based package manager with dependency support | https://archlinux.org/pacman/ |
@@ -2365,12 +2365,12 @@
 | **svt-av1** | 3.1.2 | Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder) | https://gitlab.com/AOMediaCodec/SVT-AV1 |
 | **swaks** | 20240103.0 | Swiss Army Knife for SMTP | http://jetmore.org/john/code/swaks/ |
 | **swi-prolog** | 9.3.34 | Most popular and complete prolog implementation | https://swi-prolog.org/ |
-| **swift-runtime-aarch64** | 6.1.3 | Swift runtime libraries for Android AArch64 | https://swift.org/ |
-| **swift-runtime-arm** | 6.1.3 | Swift runtime libraries for Android armv7 | https://swift.org/ |
-| **swift-runtime-x86-64** | 6.1.3 | Swift runtime libraries for Android x86_64 | https://swift.org/ |
-| **swift-sdk-aarch64** | 6.1.3 | Swift SDK for Android AArch64 | https://swift.org/ |
-| **swift-sdk-arm** | 6.1.3 | Swift SDK for Android armv7 | https://swift.org/ |
-| **swift-sdk-x86-64** | 6.1.3 | Swift SDK for Android x86_64 | https://swift.org/ |
+| **swift-runtime-aarch64** | 6.2.1 | Swift runtime libraries for Android AArch64 | https://swift.org/ |
+| **swift-runtime-arm** | 6.2.1 | Swift runtime libraries for Android armv7 | https://swift.org/ |
+| **swift-runtime-x86-64** | 6.2.1 | Swift runtime libraries for Android x86_64 | https://swift.org/ |
+| **swift-sdk-aarch64** | 6.2.1 | Swift SDK for Android AArch64 | https://swift.org/ |
+| **swift-sdk-arm** | 6.2.1 | Swift SDK for Android armv7 | https://swift.org/ |
+| **swift-sdk-x86-64** | 6.2.1 | Swift SDK for Android x86_64 | https://swift.org/ |
 | **swiftshader** | 2025.06.25-2 | A high-performance CPU-based implementation of the Vulkan graphics API | https://swiftshader.googlesource.com/SwiftShader |
 | **swig** | 4.4.0 | Generate scripting interfaces to C/C++ code | https://swig.org |
 | **swtpm** | 0.10.1-1 | Software TPM Emulator | https://github.com/stefanberger/swtpm |
