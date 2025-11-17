@@ -205,7 +205,7 @@
 | **capnproto** | 1.2.0-1 | Data interchange format and capability-based RPC system | https://capnproto.org/ |
 | **capstone** | 5.0.6-1 | Lightweight multi-platform, multi-architecture disassembly framework | https://www.capstone-engine.org/ |
 | **capstone-static** | 5.0.6-1 | Static libraries for capstone | https://www.capstone-engine.org/ |
-| **carapace** | 1.5.4 | Multi-shell multi-command argument completer | https://carapace.sh/ |
+| **carapace** | 1.5.5 | Multi-shell multi-command argument completer | https://carapace.sh/ |
 | **cargo-c** | 0.10.18 | Cargo C-ABI helpers | https://github.com/lu-zero/cargo-c |
 | **cargo-leptos** | 0.2.47 | Build tool for the Rust framework Leptos | https://github.com/leptos-rs/cargo-leptos |
 | **catdoc** | 0.95-2 | Program which reads MS-Word file and prints readable ASCII text to stdout | http://www.wagner.pp.ru/~vitus/software/catdoc/ |
