@@ -286,6 +286,10 @@
   Version: 0.9.83-1
   Description: Simple, expressive & portable programming language for efficient scripting
   Homepage: https://arturo-lang.io
+- Package: ascii
+  Version: "3.30"
+  Description: List ASCII idiomatic names and octal/decimal code-point forms
+  Homepage: http://www.catb.org/~esr/ascii/
 - Package: asciidoc
   Version: 10.2.1-1
   Description: Text document format for short documents, articles, books and UNIX man pages.
