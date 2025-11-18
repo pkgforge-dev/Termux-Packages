@@ -2903,7 +2903,7 @@
   Description: A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge
   Homepage: https://github.com/emersion/hydroxide
 - Package: hyperfine
-  Version: 1.19.0-1
+  Version: 1.20.0
   Description: A command-line benchmarking tool
   Homepage: https://github.com/sharkdp/hyperfine
 - Package: hz
@@ -3167,7 +3167,7 @@
   Description: Command-line JSON processor
   Homepage: https://stedolan.github.io/jq/
 - Package: jq-lsp
-  Version: 0.1.13
+  Version: 0.1.14
   Description: jq language server
   Homepage: https://github.com/wader/jq-lsp
 - Package: jq-static
@@ -6595,7 +6595,7 @@
   Description: A backend for mdbook which will check your links for you
   Homepage: https://michael-f-bryan.github.io/mdbook-linkcheck/
 - Package: mdbook-mermaid
-  Version: 0.16.2
+  Version: 0.17.0
   Description: A preprocessor for mdbook to add mermaid support
   Homepage: https://github.com/badboy/mdbook-mermaid
 - Package: mdbook-open-on-gh
