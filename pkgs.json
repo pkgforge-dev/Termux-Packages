@@ -1897,7 +1897,7 @@
   },
   {
     "Package": "debootstrap",
-    "Version": "1.0.141",
+    "Version": "1.0.142",
     "Description": "Bootstrap a basic Debian system",
     "Homepage": "https://wiki.debian.org/Debootstrap"
   },
@@ -4861,7 +4861,7 @@
   },
   {
     "Package": "kcptun",
-    "Version": "20251116",
+    "Version": "20251118",
     "Description": "A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC",
     "Homepage": "https://github.com/xtaci/kcptun"
   },
@@ -9901,7 +9901,7 @@
   },
   {
     "Package": "mdbook-open-on-gh",
-    "Version": "2.4.3-1",
+    "Version": "3.0.0",
     "Description": "A preprocessor for mdbook to add a open-on-github link on every page",
     "Homepage": "https://github.com/badboy/mdbook-open-on-gh"
   },
@@ -9943,7 +9943,7 @@
   },
   {
     "Package": "mdbook-toc",
-    "Version": "0.14.2-1",
+    "Version": "0.15.0",
     "Description": "A preprocessor for mdbook to add inline Table of Contents support",
     "Homepage": "https://github.com/badboy/mdbook-toc"
   },
