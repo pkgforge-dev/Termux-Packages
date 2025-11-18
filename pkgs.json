@@ -163,7 +163,7 @@
   },
   {
     "Package": "alembic",
-    "Version": "1.8.9-1",
+    "Version": "1.8.10",
     "Description": "A framework for sharing scene data that includes a C++ lib, a file format and client plugin",
     "Homepage": "https://alembic.io"
   },
@@ -1021,7 +1021,7 @@
   },
   {
     "Package": "bsdtar",
-    "Version": "3.8.2",
+    "Version": "3.8.3",
     "Description": "The tar(1) and cpio(1) programs from FreeBSD, using libarchive",
     "Homepage": "https://www.libarchive.org/"
   },
@@ -2635,7 +2635,7 @@
   },
   {
     "Package": "exiftool",
-    "Version": "13.41",
+    "Version": "13.42",
     "Description": "Utility for reading, writing and editing meta information in a wide variety of files.",
     "Homepage": "https://exiftool.org/"
   },
@@ -3355,7 +3355,7 @@
   },
   {
     "Package": "git",
-    "Version": "2.51.2",
+    "Version": "2.52.0",
     "Description": "Fast, scalable, distributed revision control system",
     "Homepage": "https://git-scm.com/"
   },
@@ -3385,13 +3385,13 @@
   },
   {
     "Package": "git-gitk",
-    "Version": "2.51.2",
+    "Version": "2.52.0",
     "Description": "Git repository browser",
     "Homepage": "https://git-scm.com/"
   },
   {
     "Package": "git-gui",
-    "Version": "2.51.2",
+    "Version": "2.52.0",
     "Description": "A graphical interface to Git",
     "Homepage": "https://git-scm.com/"
   },
@@ -3409,7 +3409,7 @@
   },
   {
     "Package": "git-svn",
-    "Version": "2.51.2",
+    "Version": "2.52.0",
     "Description": "Convert between Git and Subversion repositories",
     "Homepage": "https://git-scm.com/"
   },
@@ -5269,13 +5269,13 @@
   },
   {
     "Package": "libarchive",
-    "Version": "3.8.2",
+    "Version": "3.8.3",
     "Description": "Multi-format archive and compression library",
     "Homepage": "https://www.libarchive.org/"
   },
   {
     "Package": "libarchive-static",
-    "Version": "3.8.2",
+    "Version": "3.8.3",
     "Description": "Static libraries for libarchive",
     "Homepage": "https://www.libarchive.org/"
   },
@@ -5839,7 +5839,7 @@
   },
   {
     "Package": "libdrm",
-    "Version": "2.4.128",
+    "Version": "2.4.129",
     "Description": "Userspace interface to kernel DRM services",
     "Homepage": "https://dri.freedesktop.org/wiki/"
   },
@@ -6163,7 +6163,7 @@
   },
   {
     "Package": "libgedit-gfls",
-    "Version": "0.3.0-1",
+    "Version": "0.3.1",
     "Description": "A module dedicated to file loading and saving",
     "Homepage": "https://gitlab.gnome.org/World/gedit/libgedit-gfls"
   },
@@ -9469,13 +9469,13 @@
   },
   {
     "Package": "lowdown",
-    "Version": "2.0.3",
+    "Version": "2.0.4",
     "Description": "Markdown utilities and library (fork of hoedown -> sundown -> libsoldout)",
     "Homepage": "https://kristaps.bsd.lv/lowdown"
   },
   {
     "Package": "lowdown-static",
-    "Version": "2.0.3",
+    "Version": "2.0.4",
     "Description": "Static libraries for lowdown",
     "Homepage": "https://kristaps.bsd.lv/lowdown"
   },
@@ -9847,7 +9847,7 @@
   },
   {
     "Package": "mdbook",
-    "Version": "0.4.52-1",
+    "Version": "0.5.0",
     "Description": "Creates book from markdown files",
     "Homepage": "https://rust-lang.github.io/mdBook/"
   },
@@ -13999,7 +13999,7 @@
   },
   {
     "Package": "storj-uplink",
-    "Version": "1.142.3",
+    "Version": "1.142.4",
     "Description": "Storj DCS Uplink CLI",
     "Homepage": "https://www.storj.io/integrations/uplink-cli"
   },
@@ -14701,7 +14701,7 @@
   },
   {
     "Package": "tor",
-    "Version": "0.4.8.20",
+    "Version": "0.4.8.21",
     "Description": "The Onion Router anonymizing overlay network",
     "Homepage": "https://www.torproject.org"
   },
