@@ -277,7 +277,7 @@
   },
   {
     "Package": "aom-tools",
-    "Version": "3.13.1",
+    "Version": "3.13.1-1",
     "Description": "Command-line tools using AOMedia library",
     "Homepage": "https://aomedia.org/"
   },
@@ -877,7 +877,7 @@
   },
   {
     "Package": "blas-openblas",
-    "Version": "0.3.30-1",
+    "Version": "0.3.30-2",
     "Description": "OpenBLAS symlinks for BLAS/CBLAS/LAPACK/LAPACKE",
     "Homepage": "https://www.openblas.net"
   },
@@ -1087,7 +1087,7 @@
   },
   {
     "Package": "c-ares",
-    "Version": "1.34.5-1",
+    "Version": "1.34.5-2",
     "Description": "Library for asynchronous DNS requests (including name resolves)",
     "Homepage": "https://c-ares.org/"
   },
@@ -1099,13 +1099,13 @@
   },
   {
     "Package": "c-toxcore",
-    "Version": "0.2.20-p20250105-1",
+    "Version": "0.2.20-p20250105-2",
     "Description": "Backend library for the Tox protocol",
     "Homepage": "https://tox.chat"
   },
   {
     "Package": "c-toxcore-static",
-    "Version": "0.2.20-p20250105-1",
+    "Version": "0.2.20-p20250105-2",
     "Description": "Static libraries for c-toxcore",
     "Homepage": "https://tox.chat"
   },
@@ -1381,7 +1381,7 @@
   },
   {
     "Package": "chromaprint",
-    "Version": "1.6.0",
+    "Version": "1.6.0-1",
     "Description": "C library for generating audio fingerprints used by AcoustID (fpcalc tool)",
     "Homepage": "https://acoustid.org/chromaprint"
   },
@@ -3163,7 +3163,7 @@
   },
   {
     "Package": "gdal",
-    "Version": "3.12.0",
+    "Version": "3.12.0-1",
     "Description": "A translator library for raster and vector geospatial data formats",
     "Homepage": "https://gdal.org"
   },
@@ -5257,13 +5257,13 @@
   },
   {
     "Package": "libaom",
-    "Version": "3.13.1",
+    "Version": "3.13.1-1",
     "Description": "AV1 Video Codec Library",
     "Homepage": "https://aomedia.org/"
   },
   {
     "Package": "libaom-static",
-    "Version": "3.13.1",
+    "Version": "3.13.1-1",
     "Description": "Static libraries for libaom",
     "Homepage": "https://aomedia.org/"
   },
@@ -5365,13 +5365,13 @@
   },
   {
     "Package": "libblosc",
-    "Version": "1.21.6-1",
+    "Version": "1.21.6-2",
     "Description": "A blocking, shuffling and loss-less compression library",
     "Homepage": "https://www.blosc.org"
   },
   {
     "Package": "libblosc-static",
-    "Version": "1.21.6-1",
+    "Version": "1.21.6-2",
     "Description": "Static libraries for libblosc",
     "Homepage": "https://www.blosc.org"
   },
@@ -5569,7 +5569,7 @@
   },
   {
     "Package": "libchromaprint",
-    "Version": "1.6.0",
+    "Version": "1.6.0-1",
     "Description": "C library for generating audio fingerprints used by AcoustID",
     "Homepage": "https://acoustid.org/chromaprint"
   },
@@ -6487,7 +6487,7 @@
   },
   {
     "Package": "libid3tag",
-    "Version": "0.16.3-2",
+    "Version": "0.16.3-3",
     "Description": "MAD ID3 tag manipulation library",
     "Homepage": "http://www.underbit.com/products/mad/"
   },
@@ -7201,7 +7201,7 @@
   },
   {
     "Package": "libmuparser",
-    "Version": "2.3.5-1",
+    "Version": "2.3.5-2",
     "Description": "An extensible high performance math expression parser library written in C++",
     "Homepage": "https://beltoforion.de/en/muparser"
   },
@@ -7423,7 +7423,7 @@
   },
   {
     "Package": "libobjc2",
-    "Version": "2.3",
+    "Version": "2.3-1",
     "Description": "The GNUstep Objective-C runtime",
     "Homepage": "https://www.gnustep.org/"
   },
@@ -7459,13 +7459,13 @@
   },
   {
     "Package": "libopenblas",
-    "Version": "0.3.30-1",
+    "Version": "0.3.30-2",
     "Description": "An optimized BLAS library based on GotoBLAS2 1.13 BSD",
     "Homepage": "https://www.openblas.net"
   },
   {
     "Package": "libopenblas-static",
-    "Version": "0.3.30-1",
+    "Version": "0.3.30-2",
     "Description": "Static libraries for libopenblas",
     "Homepage": "https://www.openblas.net"
   },
@@ -7615,13 +7615,13 @@
   },
   {
     "Package": "libpano13",
-    "Version": "2.9.23",
+    "Version": "2.9.23-1",
     "Description": "Part of the Panorama Tools by Helmut Dersch",
     "Homepage": "https://panotools.sourceforge.net/"
   },
   {
     "Package": "libpano13-static",
-    "Version": "2.9.23",
+    "Version": "2.9.23-1",
     "Description": "Static libraries for libpano13",
     "Homepage": "https://panotools.sourceforge.net/"
   },
@@ -8287,7 +8287,7 @@
   },
   {
     "Package": "libsrt",
-    "Version": "1.5.4-1",
+    "Version": "1.5.4-2",
     "Description": "Secure Reliable Transport (SRT) Protocol",
     "Homepage": "https://github.com/Haivision/srt"
   },
@@ -8539,7 +8539,7 @@
   },
   {
     "Package": "libtorrent-rasterbar",
-    "Version": "2.0.11-3",
+    "Version": "2.0.11-4",
     "Description": "A feature complete C++ bittorrent implementation focusing on efficiency and scalability",
     "Homepage": "https://libtorrent.org/"
   },
@@ -9181,7 +9181,7 @@
   },
   {
     "Package": "libxslt",
-    "Version": "1.1.43-2",
+    "Version": "1.1.43-3",
     "Description": "XSLT processing library",
     "Homepage": "http://xmlsoft.org/libxslt/"
   },
@@ -11293,7 +11293,7 @@
   },
   {
     "Package": "openxr",
-    "Version": "1.1.53",
+    "Version": "1.1.53-1",
     "Description": "Open standard that provides a common set of APIs for developing XR applications",
     "Homepage": "https://www.khronos.org/openxr/"
   },
@@ -12325,13 +12325,13 @@
   },
   {
     "Package": "python-numpy",
-    "Version": "2.2.5-1",
+    "Version": "2.2.5-2",
     "Description": "The fundamental package for scientific computing with Python",
     "Homepage": "https://numpy.org/"
   },
   {
     "Package": "python-numpy-static",
-    "Version": "2.2.5-1",
+    "Version": "2.2.5-2",
     "Description": "Static libraries for python-numpy",
     "Homepage": "https://numpy.org/"
   },
@@ -13459,7 +13459,7 @@
   },
   {
     "Package": "shaderc",
-    "Version": "2025.4-1",
+    "Version": "2025.4-2",
     "Description": "Collection of tools, libraries, and tests for Vulkan shader compilation",
     "Homepage": "https://github.com/google/shaderc"
   },
@@ -13807,7 +13807,7 @@
   },
   {
     "Package": "spirv-tools",
-    "Version": "1.4.328.1",
+    "Version": "1.4.328.1-1",
     "Description": "SPIR-V Tools",
     "Homepage": "https://github.com/KhronosGroup/SPIRV-Tools"
   },
@@ -13867,7 +13867,7 @@
   },
   {
     "Package": "srt-tools",
-    "Version": "1.5.4-1",
+    "Version": "1.5.4-2",
     "Description": "Command-line tools for libsrt",
     "Homepage": "https://github.com/Haivision/srt"
   },
@@ -14131,7 +14131,7 @@
   },
   {
     "Package": "swi-prolog",
-    "Version": "9.3.34",
+    "Version": "9.3.34-1",
     "Description": "Most popular and complete prolog implementation",
     "Homepage": "https://swi-prolog.org/"
   },
@@ -14221,7 +14221,7 @@
   },
   {
     "Package": "taglib",
-    "Version": "2.1.1-1",
+    "Version": "2.1.1-2",
     "Description": "A Library for reading and editing the meta-data of several popular audio formats.",
     "Homepage": "http://taglib.github.io/"
   },
@@ -14779,19 +14779,19 @@
   },
   {
     "Package": "tree-sitter-c",
-    "Version": "0.24.1-3",
+    "Version": "0.24.1-4",
     "Description": "C grammar for tree-sitter",
     "Homepage": "https://github.com/tree-sitter/tree-sitter-c"
   },
   {
     "Package": "tree-sitter-lua",
-    "Version": "0.4.0-3",
+    "Version": "0.4.0-4",
     "Description": "Lua grammar for tree-sitter",
     "Homepage": "https://github.com/tree-sitter-grammars/tree-sitter-lua"
   },
   {
     "Package": "tree-sitter-markdown",
-    "Version": "0.5.1",
+    "Version": "0.5.1-1",
     "Description": "Markdown grammar for tree-sitter",
     "Homepage": "https://github.com/tree-sitter-grammars/tree-sitter-markdown"
   },
@@ -14803,7 +14803,7 @@
   },
   {
     "Package": "tree-sitter-query",
-    "Version": "0.7.0",
+    "Version": "0.7.0-1",
     "Description": "TS query grammar for tree-sitter",
     "Homepage": "https://github.com/tree-sitter-grammars/tree-sitter-query"
   },
@@ -15877,7 +15877,7 @@
   },
   {
     "Package": "xsltproc",
-    "Version": "1.1.43-2",
+    "Version": "1.1.43-3",
     "Description": "XSLT command line processor",
     "Homepage": "http://xmlsoft.org/libxslt/"
   },

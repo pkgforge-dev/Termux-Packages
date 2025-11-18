@@ -56,7 +56,7 @@
 | **ant** | 1.10.15-1 | Java based build tool like make | https://ant.apache.org/ |
 | **antibody** | 6.1.1-3 | The fastest shell plugin manager | https://github.com/getantibody/antibody |
 | **antiword** | 0.37-4 | A free MS Word reader | https://en.m.wikipedia.org/wiki/Antiword |
-| **aom-tools** | 3.13.1 | Command-line tools using AOMedia library | https://aomedia.org/ |
+| **aom-tools** | 3.13.1-1 | Command-line tools using AOMedia library | https://aomedia.org/ |
 | **aosp-libs** | 9.0.0-r76-1 | bionic libc, libicuuc, liblzma, zlib, and boringssl for package builder and termux-docker | https://source.android.com/ |
 | **aosp-utils** | 9.0.0-r76-1 | AOSP-based mksh, toybox and iputils for termux-docker | https://source.android.com/ |
 | **apache-orc** | 2.2.1-1 | Columnar storage for Hadoop workloads | https://orc.apache.org/ |
@@ -156,7 +156,7 @@
 | **bk** | 0.6.0-1 | A terminal EPUB reader | https://github.com/aeosynth/bk |
 | **blackbox** | 1:1.20220610 | Safely store secrets in Git/Mercurial/Subversion | https://github.com/StackExchange/blackbox |
 | **blade** | 0.0.87 | A simple, fast, clean and dynamic language | https://bladelang.com/ |
-| **blas-openblas** | 0.3.30-1 | OpenBLAS symlinks for BLAS/CBLAS/LAPACK/LAPACKE | https://www.openblas.net |
+| **blas-openblas** | 0.3.30-2 | OpenBLAS symlinks for BLAS/CBLAS/LAPACK/LAPACKE | https://www.openblas.net |
 | **blink** | 1:1.1.0-1 | Tiny x86-64 Linux emulator | https://justine.lol/blinkenlights/ |
 | **blk-utils** | 2.41.2 | Utilities for handling block device attributes | https://en.wikipedia.org/wiki/Util-linux |
 | **blogc** | 0.20.1-1 | A blog compiler | https://blogc.rgm.io/ |
@@ -191,10 +191,10 @@
 | **byacc** | 20241231-2 | byacc is generally conceded to be the best yacc variant available | https://invisible-island.net/byacc/ |
 | **byobu** | 6.13 | Byobu is a GPLv3 open source text-based window manager and terminal multiplexer | https://www.byobu.org/ |
 | **bzip2** | 1.0.8-8 | Tools for working with bzip2 compression | http://www.bzip.org/ |
-| **c-ares** | 1.34.5-1 | Library for asynchronous DNS requests (including name resolves) | https://c-ares.org/ |
+| **c-ares** | 1.34.5-2 | Library for asynchronous DNS requests (including name resolves) | https://c-ares.org/ |
 | **c-script** | 0.15.1 | Compile and execute C 'scripts' in one go! | https://github.com/ryanmjacobs/c |
-| **c-toxcore** | 0.2.20-p20250105-1 | Backend library for the Tox protocol | https://tox.chat |
-| **c-toxcore-static** | 0.2.20-p20250105-1 | Static libraries for c-toxcore | https://tox.chat |
+| **c-toxcore** | 0.2.20-p20250105-2 | Backend library for the Tox protocol | https://tox.chat |
+| **c-toxcore-static** | 0.2.20-p20250105-2 | Static libraries for c-toxcore | https://tox.chat |
 | **ca-certificates** | 1:2025.11.04 | Common CA certificates | https://curl.se/docs/caextract.html |
 | **ca-certificates-java** | 1:2025.11.04 | Common CA certificates (java keystore format) | https://curl.se/docs/caextract.html |
 | **cabextract** | 1.11-1 | A program to extract Microsoft cabinet (.CAB) files | https://www.cabextract.org.uk/ |
@@ -240,7 +240,7 @@
 | **chicken-static** | 5.4.0-2 | Static libraries for chicken | https://www.call-cc.org |
 | **chntpw** | 140201 | Offline Windows NT Password & Registry Editor | https://pogostick.net/~pnh/ntpasswd/ |
 | **choose** | 1.3.7 | A human-friendly and fast alternative to cut and (sometimes) awk | https://github.com/theryangeary/choose |
-| **chromaprint** | 1.6.0 | C library for generating audio fingerprints used by AcoustID (fpcalc tool) | https://acoustid.org/chromaprint |
+| **chromaprint** | 1.6.0-1 | C library for generating audio fingerprints used by AcoustID (fpcalc tool) | https://acoustid.org/chromaprint |
 | **chrony** | 4.8 | chrony is an implementation of the Network Time Protocol (NTP) | https://chrony-project.org/ |
 | **ciso** | 1.0.2-2 | PSP ISO compression tool | https://github.com/jamie/ciso |
 | **ckermit** | 9.0.302-3 | A combined network and serial communication software package | https://www.kermitproject.org/ckermit.html |
@@ -537,7 +537,7 @@
 | **gbt** | 2.0.0-6 | Highly configurable prompt builder for Bash and ZSH written in Go | https://github.com/jtyr/gbt |
 | **gcab** | 1.6-1 | GObject library to create cabinet files | https://gitlab.gnome.org/GNOME/gcab |
 | **gcal** | 4.1-4 | Program for calculating and printing calendars | https://www.gnu.org/software/gcal/ |
-| **gdal** | 3.12.0 | A translator library for raster and vector geospatial data formats | https://gdal.org |
+| **gdal** | 3.12.0-1 | A translator library for raster and vector geospatial data formats | https://gdal.org |
 | **gdb** | 16.3-1 | The standard GNU Debugger that runs on many Unix-like systems and works for many programming languages | https://www.gnu.org/software/gdb/ |
 | **gdbm** | 1.26-1 | Library of database functions that use extensible hashing | https://www.gnu.org.ua/software/gdbm/ |
 | **gdbm-static** | 1.26-1 | Static libraries for gdbm | https://www.gnu.org.ua/software/gdbm/ |
@@ -886,8 +886,8 @@
 | **libandroid-wordexp-static** | 0.1-1 | Static libraries for libandroid-wordexp | https://man7.org/linux/man-pages/man3/wordexp.3.html |
 | **libao** | 1.2.2-8 | A cross platform audio library | https://www.xiph.org/ao/ |
 | **libao-static** | 1.2.2-8 | Static libraries for libao | https://www.xiph.org/ao/ |
-| **libaom** | 3.13.1 | AV1 Video Codec Library | https://aomedia.org/ |
-| **libaom-static** | 3.13.1 | Static libraries for libaom | https://aomedia.org/ |
+| **libaom** | 3.13.1-1 | AV1 Video Codec Library | https://aomedia.org/ |
+| **libaom-static** | 3.13.1-1 | Static libraries for libaom | https://aomedia.org/ |
 | **libapt-pkg-perl** | 0.1.40-13 | Perl interface to APT's libapt-pkg | https://packages.debian.org/libapt-pkg-perl |
 | **libarchive** | 3.8.3 | Multi-format archive and compression library | https://www.libarchive.org/ |
 | **libarchive-static** | 3.8.3 | Static libraries for libarchive | https://www.libarchive.org/ |
@@ -904,8 +904,8 @@
 | **libbcprov-java** | 1.82 | A lightweight cryptography API for Java | https://www.bouncycastle.org/java.html |
 | **libblkid** | 2.41.2 | Block device identification library | https://en.wikipedia.org/wiki/Util-linux |
 | **libblocksruntime** | 1:6.2.1 | LLVM Blocks runtime library | https://github.com/swiftlang/swift-corelibs-libdispatch |
-| **libblosc** | 1.21.6-1 | A blocking, shuffling and loss-less compression library | https://www.blosc.org |
-| **libblosc-static** | 1.21.6-1 | Static libraries for libblosc | https://www.blosc.org |
+| **libblosc** | 1.21.6-2 | A blocking, shuffling and loss-less compression library | https://www.blosc.org |
+| **libblosc-static** | 1.21.6-2 | Static libraries for libblosc | https://www.blosc.org |
 | **libbluray** | 1.4.0 | An open-source library designed for Blu-Ray Discs playback for media players | https://code.videolan.org/videolan/libbluray/ |
 | **libbluray-static** | 1.4.0 | Static libraries for libbluray | https://code.videolan.org/videolan/libbluray/ |
 | **libbluray-utils** | 1.4.0 | Example utilities for libbluray | https://code.videolan.org/videolan/libbluray/ |
@@ -938,7 +938,7 @@
 | **libcec-static** | 7.1.1-1 | Static libraries for libcec | https://libcec.pulse-eight.com/ |
 | **libceres-solver** | 2.2.0-2 | C++ library for modeling and solving large, complicated optimization problems | http://ceres-solver.org |
 | **libchipmunk** | 7.0.3-2 | A fast and lightweight 2D game physics library | http://chipmunk2d.net |
-| **libchromaprint** | 1.6.0 | C library for generating audio fingerprints used by AcoustID | https://acoustid.org/chromaprint |
+| **libchromaprint** | 1.6.0-1 | C library for generating audio fingerprints used by AcoustID | https://acoustid.org/chromaprint |
 | **libclc** | 21.1.3 | Open source implementation of the library requirements of the OpenCL C programming language | https://libclc.llvm.org/ |
 | **libcln** | 1.3.7-1 | CLN is a library for efficient computations with all kinds of numbers in arbitrary precision | https://www.ginac.de/CLN/ |
 | **libcln-static** | 1.3.7-1 | Static libraries for libcln | https://www.ginac.de/CLN/ |
@@ -1091,7 +1091,7 @@
 | **libiconv-static** | 1.18-1 | Static libraries for libiconv | https://www.gnu.org/software/libiconv/ |
 | **libicu** | 77.1-2 | International Components for Unicode library | http://site.icu-project.org/home |
 | **libicu-static** | 77.1-2 | Static libraries for libicu | http://site.icu-project.org/home |
-| **libid3tag** | 0.16.3-2 | MAD ID3 tag manipulation library | http://www.underbit.com/products/mad/ |
+| **libid3tag** | 0.16.3-3 | MAD ID3 tag manipulation library | http://www.underbit.com/products/mad/ |
 | **libidn** | 1.43-1 | GNU Libidn library, implementation of IETF IDN specifications | https://www.gnu.org/software/libidn/ |
 | **libidn-static** | 1.43-1 | Static libraries for libidn | https://www.gnu.org/software/libidn/ |
 | **libidn2** | 2.3.8-1 | Free software implementation of IDNA2008, Punycode and TR46 | https://www.gnu.org/software/libidn/#libidn2 |
@@ -1210,7 +1210,7 @@
 | **libmsgpack** | 6.1.0-1 | MessagePack implementation for C | https://github.com/msgpack/msgpack-c/ |
 | **libmsgpack-cxx** | 7.0.0-3 | msgpack for C++ | https://msgpack.org/ |
 | **libmsgpack-static** | 6.1.0-1 | Static libraries for libmsgpack | https://github.com/msgpack/msgpack-c/ |
-| **libmuparser** | 2.3.5-1 | An extensible high performance math expression parser library written in C++ | https://beltoforion.de/en/muparser |
+| **libmuparser** | 2.3.5-2 | An extensible high performance math expression parser library written in C++ | https://beltoforion.de/en/muparser |
 | **libmypaint** | 1.6.1-2 | MyPaint brush engine library | https://github.com/mypaint/libmypaint |
 | **libmypaint-static** | 1.6.1-2 | Static libraries for libmypaint | https://github.com/mypaint/libmypaint |
 | **libnats-c** | 3.11.0 | A C client for the NATS messaging system | https://nats-io.github.io/nats.c/ |
@@ -1247,14 +1247,14 @@
 | **libnss** | 3.117 | Network Security Services (NSS) | https://firefox-source-docs.mozilla.org/security/nss/ |
 | **libntl** | 11.5.1-1 | A Library for doing Number Theory | https://libntl.org |
 | **libntl-static** | 11.5.1-1 | Static libraries for libntl | https://libntl.org |
-| **libobjc2** | 2.3 | The GNUstep Objective-C runtime | https://www.gnustep.org/ |
+| **libobjc2** | 2.3-1 | The GNUstep Objective-C runtime | https://www.gnustep.org/ |
 | **libode** | 0.16.6-2 | An open source, high performance library for simulating rigid body dynamics | https://www.ode.org |
 | **libogg** | 1.3.6-1 | Library for working with the Ogg multimedia container format | https://xiph.org/ogg/ |
 | **libogg-static** | 1.3.6-1 | Static libraries for libogg | https://xiph.org/ogg/ |
 | **liboggz** | 1.1.3-1 | Command and library to inspect, tweak, edit and validate Ogg files | https://www.xiph.org/oggz/ |
 | **libolm** | 3.2.16-1 | An implementation of the Double Ratchet cryptographic ratchet | https://matrix.org/docs/projects/other/olm/ |
-| **libopenblas** | 0.3.30-1 | An optimized BLAS library based on GotoBLAS2 1.13 BSD | https://www.openblas.net |
-| **libopenblas-static** | 0.3.30-1 | Static libraries for libopenblas | https://www.openblas.net |
+| **libopenblas** | 0.3.30-2 | An optimized BLAS library based on GotoBLAS2 1.13 BSD | https://www.openblas.net |
+| **libopenblas-static** | 0.3.30-2 | Static libraries for libopenblas | https://www.openblas.net |
 | **libopencc** | 1.1.9-1 | An opensource project for conversions between Traditional Chinese, Simplified Chinese and Japanese Kanji (Shinjitai) | https://github.com/BYVoid/OpenCC |
 | **libopencore-amr** | 0.1.6-1 | Open source implementation of the Adaptive Multi Rate (AMR) speech codec | https://sourceforge.net/projects/opencore-amr/ |
 | **libopencore-amr-static** | 0.1.6-1 | Static libraries for libopencore-amr | https://sourceforge.net/projects/opencore-amr/ |
@@ -1279,8 +1279,8 @@
 | **libpagmo** | 2.19.1-4 | Scientific library for massively parallel optimization | https://esa.github.io/pagmo2/index.html |
 | **libpangomm-1.4** | 2.46.4-1 | A C++ API for Pango | https://www.gtkmm.org/ |
 | **libpangomm-2.48** | 2.56.1-1 | A C++ API for Pango | https://www.gtkmm.org/ |
-| **libpano13** | 2.9.23 | Part of the Panorama Tools by Helmut Dersch | https://panotools.sourceforge.net/ |
-| **libpano13-static** | 2.9.23 | Static libraries for libpano13 | https://panotools.sourceforge.net/ |
+| **libpano13** | 2.9.23-1 | Part of the Panorama Tools by Helmut Dersch | https://panotools.sourceforge.net/ |
+| **libpano13-static** | 2.9.23-1 | Static libraries for libpano13 | https://panotools.sourceforge.net/ |
 | **libpaper** | 2.2.6-1 | Library for handling paper characteristics (by @rrthomas) | https://github.com/rrthomas/psutils |
 | **libpaper-static** | 2.2.6-1 | Static libraries for libpaper | https://github.com/rrthomas/psutils |
 | **libpcap** | 1.10.5-1 | Library for network traffic capture | https://www.tcpdump.org |
@@ -1391,7 +1391,7 @@
 | **libsqlite** | 3.51.0 | Library implementing a self-contained and transactional SQL database engine | https://www.sqlite.org |
 | **libsqlite-static** | 3.51.0 | Static libraries for libsqlite | https://www.sqlite.org |
 | **libsqlite-tcl** | 3.51.0 | tcl bindings for SQLite | https://www.sqlite.org |
-| **libsrt** | 1.5.4-1 | Secure Reliable Transport (SRT) Protocol | https://github.com/Haivision/srt |
+| **libsrt** | 1.5.4-2 | Secure Reliable Transport (SRT) Protocol | https://github.com/Haivision/srt |
 | **libssh** | 0.11.3 | Tiny C SSH library | https://www.libssh.org/ |
 | **libssh2** | 1.11.1-1 | Client-side library implementing the SSH2 protocol | https://www.libssh2.org |
 | **libssh2-static** | 1.11.1-1 | Static libraries for libssh2 | https://www.libssh2.org |
@@ -1433,7 +1433,7 @@
 | **libtommath-static** | 1.3.0 | Static libraries for libtommath | https://www.libtom.net/LibTomMath/ |
 | **libtool** | 2.5.4-2 | Generic library support script hiding the complexity of using shared libraries behind a consistent, portable interface | https://www.gnu.org/software/libtool/ |
 | **libtorrent** | 0.16.2 | Libtorrent BitTorrent library | https://github.com/rakshasa/rtorrent/wiki |
-| **libtorrent-rasterbar** | 2.0.11-3 | A feature complete C++ bittorrent implementation focusing on efficiency and scalability | https://libtorrent.org/ |
+| **libtorrent-rasterbar** | 2.0.11-4 | A feature complete C++ bittorrent implementation focusing on efficiency and scalability | https://libtorrent.org/ |
 | **libtorrent-static** | 0.16.2 | Static libraries for libtorrent | https://github.com/rakshasa/rtorrent/wiki |
 | **libtpms** | 0.10.1-1 | Provides software emulation of a Trusted Platform Module (TPM 1.2 and TPM 2.0) | https://github.com/stefanberger/libtpms |
 | **libtpms-static** | 0.10.1-1 | Static libraries for libtpms | https://github.com/stefanberger/libtpms |
@@ -1540,7 +1540,7 @@
 | **libxrandr-static** | 1.5.4-1 | Static libraries for libxrandr | https://xorg.freedesktop.org/ |
 | **libxrender** | 0.9.12-1 | X Rendering Extension client library | https://xorg.freedesktop.org/ |
 | **libxshmfence** | 1.3.3-1 | A library that exposes a event API on top of Linux futexes | https://xorg.freedesktop.org/ |
-| **libxslt** | 1.1.43-2 | XSLT processing library | http://xmlsoft.org/libxslt/ |
+| **libxslt** | 1.1.43-3 | XSLT processing library | http://xmlsoft.org/libxslt/ |
 | **libxss** | 1.2.5 | X11 Screen Saver extension library | https://xorg.freedesktop.org/ |
 | **libxss-static** | 1.2.5 | Static libraries for libxss | https://xorg.freedesktop.org/ |
 | **libxt** | 1.3.1-1 | X11 toolkit intrinsics library | https://xorg.freedesktop.org/ |
@@ -1892,7 +1892,7 @@
 | **openssl-static** | 1:3.5.2 | Static libraries for openssl | https://www.openssl.org/ |
 | **openssl-tool** | 1:3.5.2 | The openssl command line cryptographic tool | https://www.openssl.org/ |
 | **opentimelineio** | 0.18.1 | Open Source API and interchange format for editorial timeline information. | http://opentimeline.io/ |
-| **openxr** | 1.1.53 | Open standard that provides a common set of APIs for developing XR applications | https://www.khronos.org/openxr/ |
+| **openxr** | 1.1.53-1 | Open standard that provides a common set of APIs for developing XR applications | https://www.khronos.org/openxr/ |
 | **optipng** | 7.9.1-1 | PNG optimizer that recompresses image files to a smaller size, without losing any information | https://optipng.sourceforge.net/ |
 | **opus-tools** | 0.2-4 | Utilities to encode and decode .opus files | https://www.opus-codec.org/ |
 | **opusfile** | 0.12-4 | A high-level API for decoding and seeking within .opus files | https://www.opus-codec.org/ |
@@ -2064,8 +2064,8 @@
 | **python-llvmlite** | 0.44.0 | A lightweight LLVM python binding for writing JIT compilers | https://llvmlite.pydata.org/ |
 | **python-lxml** | 6.0.2 | Python binding for the libxml2 and libxslt libraries | https://github.com/lxml/lxml |
 | **python-msgpack** | 1.1.2 | MessagePack serializer implementation for Python | https://github.com/msgpack/msgpack-python |
-| **python-numpy** | 2.2.5-1 | The fundamental package for scientific computing with Python | https://numpy.org/ |
-| **python-numpy-static** | 2.2.5-1 | Static libraries for python-numpy | https://numpy.org/ |
+| **python-numpy** | 2.2.5-2 | The fundamental package for scientific computing with Python | https://numpy.org/ |
+| **python-numpy-static** | 2.2.5-2 | Static libraries for python-numpy | https://numpy.org/ |
 | **python-onnxruntime** | 1.22.2-5 | Cross-platform, high performance ML inferencing and training accelerator | https://onnxruntime.ai/ |
 | **python-pillow** | 11.1.0-2 | Python Imaging Library | https://python-pillow.org/ |
 | **python-pip** | 25.3 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
@@ -2253,7 +2253,7 @@
 | **serf-static** | 1.3.10-2 | Static libraries for serf | https://serf.apache.org/ |
 | **sfeed** | 2.2-1 | Shell-script/crontab oriented feed aggregator and parser utility (curses-based reader included) | https://codemadness.org/sfeed-simple-feed-parser.html |
 | **sftpgo** | 2.7.0 | Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server | https://sftpgo.com/ |
-| **shaderc** | 2025.4-1 | Collection of tools, libraries, and tests for Vulkan shader compilation | https://github.com/google/shaderc |
+| **shaderc** | 2025.4-2 | Collection of tools, libraries, and tests for Vulkan shader compilation | https://github.com/google/shaderc |
 | **sharutils** | 4.15.2-4 | Utilities for packaging and unpackaging shell archives | https://www.gnu.org/software/sharutils/ |
 | **shc** | 4.0.3-4 | Shell script compiler | https://neurobin.org/projects/softwares/unix/shc/ |
 | **sheldon** | 0.8.5-1 | Fast, configurable, shell plugin manager | https://sheldon.cli.rs/ |
@@ -2311,7 +2311,7 @@
 | **spiped** | 1.6.4-1 | a utility for creating symmetrically encrypted and authenticated pipes between socket addresses | https://www.tarsnap.com/spiped.html |
 | **spirv-headers** | 1.4.328.1 | SPIR-V Headers | https://github.com/KhronosGroup/SPIRV-Headers |
 | **spirv-llvm-translator** | 21.1.2 | SPIR-V LLVM Translator | https://github.com/KhronosGroup/SPIRV-LLVM-Translator |
-| **spirv-tools** | 1.4.328.1 | SPIR-V Tools | https://github.com/KhronosGroup/SPIRV-Tools |
+| **spirv-tools** | 1.4.328.1-1 | SPIR-V Tools | https://github.com/KhronosGroup/SPIRV-Tools |
 | **sqlcipher** | 4.6.1-1 | SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files | https://github.com/sqlcipher/sqlcipher |
 | **sqlcipher-static** | 4.6.1-1 | Static libraries for sqlcipher | https://github.com/sqlcipher/sqlcipher |
 | **sqlite** | 3.51.0 | Command line shell for SQLite | https://www.sqlite.org |
@@ -2321,7 +2321,7 @@
 | **squid** | 7.3 | Full-featured Web proxy cache server | http://www.squid-cache.org |
 | **sratom** | 0.6.20 | A small library for serialising LV2 atoms to and from RDF | https://drobilla.net/software/sratom.html |
 | **srelay** | 0.4.8p3-8 | A Free SOCKS proxy server | https://sourceforge.net/projects/socks-relay/ |
-| **srt-tools** | 1.5.4-1 | Command-line tools for libsrt | https://github.com/Haivision/srt |
+| **srt-tools** | 1.5.4-2 | Command-line tools for libsrt | https://github.com/Haivision/srt |
 | **srt2vobsub** | 1.0-5 | A command-line tool that generates a pair of .idx/.sub subtitle files from a textual subtitles file | https://srt2vobsub.sourceforge.io/ |
 | **ssdb** | 1.9.9-3 | A Redis compatible NoSQL database stored on disk | https://ssdb.io/ |
 | **ssdeep** | 2.14.1-2 | A program for computing context triggered piecewise hashes (CTPH) | https://ssdeep-project.github.io/ssdeep/ |
@@ -2365,7 +2365,7 @@
 | **surfraw** | 2.3.0-10 | Shell Users' Revolutionary Front Rage Against the Web | https://gitlab.com/surfraw/Surfraw |
 | **svt-av1** | 3.1.2 | Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder) | https://gitlab.com/AOMediaCodec/SVT-AV1 |
 | **swaks** | 20240103.0 | Swiss Army Knife for SMTP | http://jetmore.org/john/code/swaks/ |
-| **swi-prolog** | 9.3.34 | Most popular and complete prolog implementation | https://swi-prolog.org/ |
+| **swi-prolog** | 9.3.34-1 | Most popular and complete prolog implementation | https://swi-prolog.org/ |
 | **swift-runtime-aarch64** | 6.2.1 | Swift runtime libraries for Android AArch64 | https://swift.org/ |
 | **swift-runtime-arm** | 6.2.1 | Swift runtime libraries for Android armv7 | https://swift.org/ |
 | **swift-runtime-x86-64** | 6.2.1 | Swift runtime libraries for Android x86_64 | https://swift.org/ |
@@ -2380,7 +2380,7 @@
 | **sysprop** | 13.0.0.15-10 | Generates cpp / java sysprop | https://android.googlesource.com/platform/system/tools/sysprop |
 | **ta-lib** | 0.5.0 | Technical analysis library with indicators like ADX | https://ta-lib.org/ |
 | **ta-lib-static** | 0.5.0 | Static libraries for ta-lib | https://ta-lib.org/ |
-| **taglib** | 2.1.1-1 | A Library for reading and editing the meta-data of several popular audio formats. | http://taglib.github.io/ |
+| **taglib** | 2.1.1-2 | A Library for reading and editing the meta-data of several popular audio formats. | http://taglib.github.io/ |
 | **taplo** | 0.10.0-1 | A TOML LSP and toolkit | https://taplo.tamasfe.dev/ |
 | **tar** | 1.35-1 | GNU tar for manipulating tar archives | https://www.gnu.org/software/tar/ |
 | **task-spooler** | 1:1.0.3-1 | Task spooler is a Unix batch system where the tasks spooled run one after the other | https://vicerveza.homeunix.net/~viric/soft/ts/ |
@@ -2473,11 +2473,11 @@
 | **transmission** | 4.0.6-5 | Easy, lean and powerful BitTorrent client | https://transmissionbt.com/ |
 | **tree** | 2.2.1-1 | Recursive directory lister producing a depth indented listing of files | http://mama.indstate.edu/users/ice/tree/ |
 | **tree-sitter** | 0.25.10-1 | An incremental parsing system for programming tools | https://tree-sitter.github.io/ |
-| **tree-sitter-c** | 0.24.1-3 | C grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-c |
-| **tree-sitter-lua** | 0.4.0-3 | Lua grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-lua |
-| **tree-sitter-markdown** | 0.5.1 | Markdown grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-markdown |
+| **tree-sitter-c** | 0.24.1-4 | C grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-c |
+| **tree-sitter-lua** | 0.4.0-4 | Lua grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-lua |
+| **tree-sitter-markdown** | 0.5.1-1 | Markdown grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-markdown |
 | **tree-sitter-parsers** | 0.0.5 | A metapackage that provides commonly used treesitter parsers | https://github.com/termux/termux-packages |
-| **tree-sitter-query** | 0.7.0 | TS query grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-query |
+| **tree-sitter-query** | 0.7.0-1 | TS query grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-query |
 | **tree-sitter-static** | 0.25.10-1 | Static libraries for tree-sitter | https://tree-sitter.github.io/ |
 | **tree-sitter-vim** | 0.7.0-1 | Vimscript grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-vim |
 | **tree-sitter-vim-static** | 0.7.0-1 | Static libraries for tree-sitter-vim | https://github.com/tree-sitter-grammars/tree-sitter-vim |
@@ -2656,7 +2656,7 @@
 | **xorg-util-macros** | 1.20.2 | X.Org Autotools macros | https://xorg.freedesktop.org/ |
 | **xorgproto** | 2024.1 | X.Org X11 Protocol headers | https://xorg.freedesktop.org/ |
 | **xorriso** | 1:1.5.7-3 | Tool for creating ISO files | https://www.gnu.org/software/xorriso |
-| **xsltproc** | 1.1.43-2 | XSLT command line processor | http://xmlsoft.org/libxslt/ |
+| **xsltproc** | 1.1.43-3 | XSLT command line processor | http://xmlsoft.org/libxslt/ |
 | **xtrans** | 1.6.0 | X transport library | https://xorg.freedesktop.org/ |
 | **xvidcore** | 1.3.7-1 | High performance and high quality MPEG-4 library | https://www.xvid.com/ |
 | **xvidcore-static** | 1.3.7-1 | Static libraries for xvidcore | https://www.xvid.com/ |
