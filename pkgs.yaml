@@ -3079,7 +3079,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.24.319
+  Version: 0.24.324
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -3767,7 +3767,7 @@
   Description: Static libraries for libcoinor-utils
   Homepage: https://github.com/coin-or/CoinUtils
 - Package: libcommons-lang3-java
-  Version: 3.19.0
+  Version: 3.20.0
   Description: A host of helper utilities for the java.lang API
   Homepage: https://commons.apache.org/proper/commons-lang/
 - Package: libcompiler-rt
@@ -6887,7 +6887,7 @@
   Description: Minimalist command line interface for MPD
   Homepage: https://www.musicpd.org/clients/mpc/
 - Package: mpd
-  Version: 0.24.6-1
+  Version: 0.24.6-2
   Description: Music player daemon
   Homepage: https://www.musicpd.org
 - Package: mpdscribble
