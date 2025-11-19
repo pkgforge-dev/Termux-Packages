@@ -3469,13 +3469,13 @@
   },
   {
     "Package": "glib",
-    "Version": "2.86.1",
+    "Version": "2.86.2",
     "Description": "Library providing core building blocks for libraries and applications written in C",
     "Homepage": "https://developer.gnome.org/glib/"
   },
   {
     "Package": "glib-cross",
-    "Version": "2.86.1",
+    "Version": "2.86.2",
     "Description": "glib for host (NOT for Termux)",
     "Homepage": "https://developer.gnome.org/glib/"
   },
@@ -7405,7 +7405,7 @@
   },
   {
     "Package": "libnss",
-    "Version": "3.117",
+    "Version": "3.118.1",
     "Description": "Network Security Services (NSS)",
     "Homepage": "https://firefox-source-docs.mozilla.org/security/nss/"
   },
@@ -9751,13 +9751,13 @@
   },
   {
     "Package": "mariadb",
-    "Version": "2:12.0.2",
+    "Version": "2:12.1.2",
     "Description": "A drop-in replacement for mysql server",
     "Homepage": "https://mariadb.org"
   },
   {
     "Package": "mariadb-static",
-    "Version": "2:12.0.2",
+    "Version": "2:12.1.2",
     "Description": "Static libraries for mariadb",
     "Homepage": "https://mariadb.org"
   },
@@ -9907,7 +9907,7 @@
   },
   {
     "Package": "mdbook-pikchr",
-    "Version": "0.1.9-1",
+    "Version": "0.2.0",
     "Description": "A mdbook preprocessor to render pikchr code blocks as images in your book",
     "Homepage": "https://github.com/podsvirov/mdbook-pikchr"
   },
@@ -10915,7 +10915,7 @@
   },
   {
     "Package": "nss-utils",
-    "Version": "3.117",
+    "Version": "3.118.1",
     "Description": "Tools for NSS",
     "Homepage": "https://firefox-source-docs.mozilla.org/security/nss/"
   },

@@ -576,8 +576,8 @@
  gkermit  2.01-1  Simple, Portable, Free File Transfer Software for UNIX  http://www.columbia.edu/kermit/gkermit.html 
  glab-cli  1.77.0  A GitLab CLI tool bringing GitLab to your command line  https://gitlab.com/gitlab-org/cli 
  gleam  1.13.0  A friendly language for building type-safe, scalable systems!  https://gleam.run 
- glib  2.86.1  Library providing core building blocks for libraries and applications written in C  https://developer.gnome.org/glib/ 
- glib-cross  2.86.1  glib for host (NOT for Termux)  https://developer.gnome.org/glib/ 
+ glib  2.86.2  Library providing core building blocks for libraries and applications written in C  https://developer.gnome.org/glib/ 
+ glib-cross  2.86.2  glib for host (NOT for Termux)  https://developer.gnome.org/glib/ 
  glib-networking  2.80.1-1  Network-related giomodules for glib  https://gitlab.gnome.org/GNOME/glib-networking 
  glibc-repo  1.0  A package repository containing glibc-based programs and libraries  https://github.com/termux/glibc-packages 
  glm  1.0.1  C++ mathematics library for graphics software based on the GLSL specifications  https://glm.g-truc.net/ 
@@ -1232,7 +1232,7 @@
  libnpth-static  1.6-3  Static libraries for libnpth  https://www.gnupg.org/related_software/npth/ 
  libnspr  4.38.2  Netscape Portable Runtime (NSPR)  https://hg.mozilla.org/projects/nspr 
  libnspr-static  4.38.2  Static libraries for libnspr  https://hg.mozilla.org/projects/nspr 
- libnss  3.117  Network Security Services (NSS)  https://firefox-source-docs.mozilla.org/security/nss/ 
+ libnss  3.118.1  Network Security Services (NSS)  https://firefox-source-docs.mozilla.org/security/nss/ 
  libntl  11.5.1-1  A Library for doing Number Theory  https://libntl.org 
  libntl-static  11.5.1-1  Static libraries for libntl  https://libntl.org 
  libobjc2  2.3-1  The GNUstep Objective-C runtime  https://www.gnustep.org/ 
@@ -1623,8 +1623,8 @@
  mangal  4.0.6-3  Cli manga downloader  https://github.com/metafates/mangal 
  manpages  6.16-1  Man pages for linux kernel and C library interfaces  https://www.kernel.org/doc/man-pages/ 
  mapserver  8.2.2-3  MapServer is CGI-based platform for publishing spatial data and interactive mapping applications to the web  https://mapserver.org/ 
- mariadb  2:12.0.2  A drop-in replacement for mysql server  https://mariadb.org 
- mariadb-static  2:12.0.2  Static libraries for mariadb  https://mariadb.org 
+ mariadb  2:12.1.2  A drop-in replacement for mysql server  https://mariadb.org 
+ mariadb-static  2:12.1.2  Static libraries for mariadb  https://mariadb.org 
  marisa  0.3.1-1  Matching Algorithm with Recursively Implemented StorAge  https://github.com/s-yata/marisa-trie 
  markdown-flashcards  2.0.1  Small CLI app to learn with flashcards and spaced repetition  https://github.com/bttger/markdown-flashcards 
  marksman  2024.12.18  LSP language server for editing Markdown files  https://github.com/artempyanykh/marksman 
@@ -1649,7 +1649,7 @@
  mdbook-linkcheck  0.7.7-2  A backend for mdbook which will check your links for you  https://michael-f-bryan.github.io/mdbook-linkcheck/ 
  mdbook-mermaid  0.17.0  A preprocessor for mdbook to add mermaid support  https://github.com/badboy/mdbook-mermaid 
  mdbook-open-on-gh  3.0.0  A preprocessor for mdbook to add a open-on-github link on every page  https://github.com/badboy/mdbook-open-on-gh 
- mdbook-pikchr  0.1.9-1  A mdbook preprocessor to render pikchr code blocks as images in your book  https://github.com/podsvirov/mdbook-pikchr 
+ mdbook-pikchr  0.2.0  A mdbook preprocessor to render pikchr code blocks as images in your book  https://github.com/podsvirov/mdbook-pikchr 
  mdbook-plantuml  0.8.0-3  mdBook preprocessor to render PlantUML code blocks as images in your book  https://github.com/sytsereitsma/mdbook-plantuml 
  mdbook-presentation-preprocessor  0.3.1-2  A preprocessor for utilizing an MDBook as slides for a presentation  https://github.com/FreeMasen/mdbook-presentation-preprocessor 
  mdbook-svgbob  0.2.2-1  SvgBob mdbook preprocessor which swaps code-blocks with neat SVG  https://github.com/boozook/mdbook-svgbob 
@@ -1817,7 +1817,7 @@
  nsis  3.11-1  A professional open source system to create Windows installers  https://sourceforge.net/projects/nsis/ 
  nsis-stubs  3.11-1  NSIS Stubs  https://sourceforge.net/projects/nsis/ 
  nsnake  3.0.1-7  The classic snake game with textual interface  https://github.com/alexdantas/nSnake 
- nss-utils  3.117  Tools for NSS  https://firefox-source-docs.mozilla.org/security/nss/ 
+ nss-utils  3.118.1  Tools for NSS  https://firefox-source-docs.mozilla.org/security/nss/ 
  nudoku  6.0.0  ncurses based sudoku game  http://jubalh.github.io/nudoku/ 
  nushell  0.108.0  A new type of shell operating on structured data  https://www.nushell.sh 
  nyancat  1.5.2-1  Nyancat in your terminal, rendered through ANSI escape sequences.  http://nyancat.dakko.us 
