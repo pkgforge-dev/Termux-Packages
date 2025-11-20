@@ -130,7 +130,7 @@
  bftpd  6.3-1  Small, easy-to-configure FTP server  https://bftpd.sourceforge.net/ 
  bgrep  1.0-4  Binary string grep tool  https://debugmo.de/2009/04/bgrep-a-binary-grep/ 
  biboumi  9.0-5  An XMPP gateway that connects to IRC servers and translates between the two protocols  https://biboumi.louiz.org/ 
- binaryen  124  Binaryen is a compiler and toolchain infrastructure library for WebAssembly  https://github.com/WebAssembly/binaryen 
+ binaryen  125  Binaryen is a compiler and toolchain infrastructure library for WebAssembly  https://github.com/WebAssembly/binaryen 
  binutils  2.44-4  GNU Binutils (metapackage)  https://www.gnu.org/software/binutils/ 
  binutils-bin  2.44-4  Collection of binary tools, the main ones being ld, the GNU linker, and as, the GNU assembler  https://www.gnu.org/software/binutils/ 
  binutils-cross  2.44-4  GNU Binutils for cross build on the host (NOT for Termux)  https://www.gnu.org/software/binutils/ 
@@ -234,7 +234,7 @@
  ckermit  9.0.302-3  A combined network and serial communication software package  https://www.kermitproject.org/ckermit.html 
  clamav  1.4.3  Anti-virus toolkit for Unix  https://www.clamav.net/ 
  clamav-static  1.4.3  Static libraries for clamav  https://www.clamav.net/ 
- clang  21.1.5  C language frontend for LLVM  https://clang.llvm.org/ 
+ clang  21.1.5-1  C language frontend for LLVM  https://clang.llvm.org/ 
  clblast  1.6.3-1  Tuned OpenCL BLAS  https://github.com/CNugteren/CLBlast 
  cliaoke  0.2.4-5  Command line karaoke  https://github.com/jessfraz/cliaoke 
  clidle  2022.05.25-3  Play Wordle over SSH  https://github.com/ajeetdsouza/clidle 
@@ -263,7 +263,7 @@
  colm-static  0.14.7-2  Static libraries for colm  https://www.colm.net/open-source/colm/ 
  colordiff  1.0.21  Tool to colorize 'diff' output  https://www.colordiff.org/ 
  command-not-found  3.2-4  Suggest installation of packages in interactive shell sessions  https://github.com/termux/command-not-found 
- composer  2.9.1  Dependency Manager for PHP  https://getcomposer.org/ 
+ composer  2.9.2  Dependency Manager for PHP  https://getcomposer.org/ 
  console-bridge  1.0.2-1  A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages  https://github.com/ros/console_bridge 
  convertlit  1.8-2  An extractor/converter for .LIT eBooks  http://www.convertlit.com/ 
  cookcli  0.18.2  A suite of tools to create shopping lists and maintain food recipes  https://cooklang.org 
@@ -277,7 +277,7 @@
  cpufetch  1.07-1  Simple yet fancy CPU architecture fetching tool  https://github.com/Dr-Noob/cpufetch 
  cpulimit  0.2-2  CPU usage limiter  https://github.com/opsengine/cpulimit 
  crawl  0.33.1-1  Roguelike adventure through dungeons filled with dangerous monsters  https://crawl.develz.org/ 
- croc  1:10.2.7  Easily and securely send things from one computer to another  https://github.com/schollz/croc 
+ croc  1:10.3.0  Easily and securely send things from one computer to another  https://github.com/schollz/croc 
  cronie  1.7.2-4  Daemon that runs specified programs at scheduled times and related tools  https://github.com/cronie-crond/cronie/ 
  crowbook  0.17.0-1  Allows you to write a book in Markdown without worrying about formatting or typography  https://github.com/crowdagger/crowbook 
  crunch  3.6-5  Highly customizable wordlist generator  https://sourceforge.net/projects/crunch-wordlist/ 
@@ -424,8 +424,8 @@
  emscripten-llvm  4.0.20  Emscripten-compatible LLVM  https://emscripten.org 
  emscripten-tests-third-party  4.0.20  Emscripten third party test suite files  https://emscripten.org 
  enblend  4.2.0p20161007-7  A tool for compositing images using a Burt&Adelson multiresolution spline  https://enblend.sourceforge.net/ 
- enchant  2.8.12-1  Wraps a number of different spelling libraries and programs with a consistent interface  https://rrthomas.github.io/enchant/ 
- enchant-static  2.8.12-1  Static libraries for enchant  https://rrthomas.github.io/enchant/ 
+ enchant  2.8.13  Wraps a number of different spelling libraries and programs with a consistent interface  https://rrthomas.github.io/enchant/ 
+ enchant-static  2.8.13  Static libraries for enchant  https://rrthomas.github.io/enchant/ 
  enscript  1.6.6-13  Enscript converts ASCII text files to PostScript, HTML, RTF, ANSI and overstrikes  https://www.gnu.org/software/enscript/ 
  entr  5.7-1  Event Notify Test Runner - run arbitrary commands when files change  https://eradman.com/entrproject/ 
  erlang  28.1.1  General-purpose concurrent functional programming language  https://www.erlang.org/ 
@@ -941,7 +941,7 @@
  libcoinor-utils  1:2.11.11-1  An open-source collection of classes and helper functions for COIN-OR projects  https://github.com/coin-or/CoinUtils 
  libcoinor-utils-static  1:2.11.11-1  Static libraries for libcoinor-utils  https://github.com/coin-or/CoinUtils 
  libcommons-lang3-java  3.20.0  A host of helper utilities for the java.lang API  https://commons.apache.org/proper/commons-lang/ 
- libcompiler-rt  21.1.5  Compiler runtime libraries for clang  https://clang.llvm.org/ 
+ libcompiler-rt  21.1.5-1  Compiler runtime libraries for clang  https://clang.llvm.org/ 
  libconfig  1.8.1-1  C/C++ Configuration File Library  https://github.com/hyperrealm/libconfig 
  libconfig-static  1.8.1-1  Static libraries for libconfig  https://github.com/hyperrealm/libconfig 
  libconfuse  3.3-1  Small configuration file parser library for C  https://github.com/martinh/libconfuse 
@@ -1123,8 +1123,8 @@
  liblightning-static  2.2.3-1  Static libraries for liblightning  https://www.gnu.org/software/lightning/ 
  libliquid-dsp  1.7.0-1  Software-defined radio digital signal processing library  https://liquidsdr.org/ 
  libliquid-dsp-static  1.7.0-1  Static libraries for libliquid-dsp  https://liquidsdr.org/ 
- libllvm  21.1.5  Modular compiler and toolchain technologies library  https://clang.llvm.org/ 
- libllvm-static  21.1.5  Static libraries for libllvm  https://clang.llvm.org/ 
+ libllvm  21.1.5-1  Modular compiler and toolchain technologies library  https://clang.llvm.org/ 
+ libllvm-static  21.1.5-1  Static libraries for libllvm  https://clang.llvm.org/ 
  liblmdb  0.9.33-1  LMDB implements a simplified variant of the BerkeleyDB (BDB) API  https://symas.com/lmdb/ 
  liblmdb-static  0.9.33-1  Static libraries for liblmdb  https://symas.com/lmdb/ 
  liblo  0.34  A lightweight library that provides an easy to use implementation of the OSC protocol  https://liblo.sourceforge.net/ 
@@ -1290,7 +1290,7 @@
  libpngwriter  0.7.0-1  C++ library for creating PNG images  https://pngwriter.sourceforge.net 
  libpngwriter-static  0.7.0-1  Static libraries for libpngwriter  https://pngwriter.sourceforge.net 
  libpoco  1.14.2-1  A comprehensive set of C++ libraries that cover all modern-day programming needs  https://pocoproject.org/ 
- libpolly  21.1.5  High-level loop and data-locality optimizer for clang  https://clang.llvm.org/ 
+ libpolly  21.1.5-1  High-level loop and data-locality optimizer for clang  https://clang.llvm.org/ 
  libpopt  1.19-3  Library for parsing cmdline parameters  https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html 
  libpopt-static  1.19-3  Static libraries for libpopt  https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html 
  libprotobuf  2:33.1  Protocol buffers C++ library  https://github.com/protocolbuffers/protobuf 
@@ -1563,15 +1563,15 @@
  littlecms-static  2.17-1  Static libraries for littlecms  http://www.littlecms.com/ 
  littlecms-utils  2.17-1  Color management utilities  http://www.littlecms.com/ 
  llbuild  6.2.1  A low-level build system, used by the Swift Package Manager  https://github.com/swiftlang/swift-llbuild 
- lld  21.1.5  LLVM-based linker  https://clang.llvm.org/ 
- lldb  21.1.5  LLVM-based debugger  https://clang.llvm.org/ 
- llvm  21.1.5  LLVM modular compiler and toolchain executables  https://clang.llvm.org/ 
+ lld  21.1.5-1  LLVM-based linker  https://clang.llvm.org/ 
+ lldb  21.1.5-1  LLVM-based debugger  https://clang.llvm.org/ 
+ llvm  21.1.5-1  LLVM modular compiler and toolchain executables  https://clang.llvm.org/ 
  llvm-mingw-w64  20251007  MinGW-w64 toolchain based on LLVM  https://github.com/mstorsjo/llvm-mingw 
  llvm-mingw-w64-libcompiler-rt  20251007  Compiler runtime libraries for LLVM-MinGW  https://github.com/mstorsjo/llvm-mingw 
  llvm-mingw-w64-tools  12.0.0-1  MinGW-w64 tools for LLVM-MinGW  https://github.com/mstorsjo/llvm-mingw 
  llvm-mingw-w64-ucrt  20251007  MinGW-w64 runtime for LLVM-MinGW  https://github.com/mstorsjo/llvm-mingw 
- llvm-tools  21.1.5  LLVM Development Tools  https://clang.llvm.org/ 
- llvmgold  21.1.5  LLVM gold plugin  https://clang.llvm.org/ 
+ llvm-tools  21.1.5-1  LLVM Development Tools  https://clang.llvm.org/ 
+ llvmgold  21.1.5-1  LLVM gold plugin  https://clang.llvm.org/ 
  lnav  0.13.2  An advanced log file viewer for the small-scale  https://lnav.org/ 
  lnd  0.17.0-beta-1  Lightning Network Daemon  https://github.com/lightningnetwork/lnd 
  logo-ls  2024.07.17-1  Modern ls command with vscode like File Icon and Git Integrations  https://github.com/Yash-Handa/logo-ls 
@@ -1587,7 +1587,7 @@
  lsof  4.99.5-2  Lists open files for running Unix processes  https://github.com/lsof-org/lsof 
  lsof-static  4.99.5-2  Static libraries for lsof  https://github.com/lsof-org/lsof 
  ltrace  1:0.8.1  Tracks runtime library calls in dynamically linked programs  http://www.ltrace.org/ 
- lua-language-server  3.15.0-1  Sumneko Lua Language Server coded in Lua  https://github.com/sumneko/lua-language-server 
+ lua-language-server  3.15.0-2  Sumneko Lua Language Server coded in Lua  https://github.com/sumneko/lua-language-server 
  lua-lgi  0.9.2-2  Dynamic Lua binding to GObject libraries using GObject-Introspection  https://github.com/lgi-devs/lgi 
  lua-lpeg  1.1.0-3  Pattern-matching library for Lua 5.4  https://www.inf.puc-rio.br/~roberto/lpeg 
  lua51  5.1.5-5  Simple, extensible, embeddable programming language  https://www.lua.org 
@@ -1695,7 +1695,7 @@
  mkp224o  1.7.0-1  Generate vanity ed25519 (hidden service version 3) onion addresses  https://github.com/cathugger/mkp224o 
  mksh  59c-3  The MirBSD Korn Shell - an enhanced version of the public domain ksh  http://www.mirbsd.org/mksh.htm 
  mktorrent  1.1-p20210130-1  command line utility to create BitTorrent metainfo files  https://github.com/Rudde/mktorrent 
- mlir  21.1.5  A Multi-Level Intermediate Representation for compilers from LLVM  https://clang.llvm.org/ 
+ mlir  21.1.5-1  A Multi-Level Intermediate Representation for compilers from LLVM  https://clang.llvm.org/ 
  mlocate  0.26-6  Tool to find files anywhere in the filesystem based on their name  https://pagure.io/mlocate 
  mold  2.40.4  mold: A Modern Linker  https://github.com/rui314/mold 
  monero  0.18.4.4-1  A private, secure, untraceable, decentralised digital currency  https://getmonero.org/ 
@@ -2049,7 +2049,7 @@
  python-grpcio  1.76.0-1  High performance, open source, general RPC framework that puts mobile and HTTP/2 first  https://grpc.io/ 
  python-lameenc  1.8.1-1  Python bindings around the LAME encoder  https://github.com/chrisstaite/lameenc 
  python-libsass  0.23.0-1  A straightforward binding of libsass for Python  https://github.com/sass/libsass-python 
- python-llvmlite  0.44.0  A lightweight LLVM python binding for writing JIT compilers  https://llvmlite.pydata.org/ 
+ python-llvmlite  0.44.0-1  A lightweight LLVM python binding for writing JIT compilers  https://llvmlite.pydata.org/ 
  python-lxml  6.0.2  Python binding for the libxml2 and libxslt libraries  https://github.com/lxml/lxml 
  python-msgpack  1.1.2  MessagePack serializer implementation for Python  https://github.com/msgpack/msgpack-python 
  python-numpy  2.2.5-2  The fundamental package for scientific computing with Python  https://numpy.org/ 

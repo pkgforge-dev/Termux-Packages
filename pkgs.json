@@ -793,7 +793,7 @@
   },
   {
     "Package": "binaryen",
-    "Version": "124",
+    "Version": "125",
     "Description": "Binaryen is a compiler and toolchain infrastructure library for WebAssembly",
     "Homepage": "https://github.com/WebAssembly/binaryen"
   },
@@ -1417,7 +1417,7 @@
   },
   {
     "Package": "clang",
-    "Version": "21.1.5",
+    "Version": "21.1.5-1",
     "Description": "C language frontend for LLVM",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -1591,7 +1591,7 @@
   },
   {
     "Package": "composer",
-    "Version": "2.9.1",
+    "Version": "2.9.2",
     "Description": "Dependency Manager for PHP",
     "Homepage": "https://getcomposer.org/"
   },
@@ -1675,7 +1675,7 @@
   },
   {
     "Package": "croc",
-    "Version": "1:10.2.7",
+    "Version": "1:10.3.0",
     "Description": "Easily and securely send things from one computer to another",
     "Homepage": "https://github.com/schollz/croc"
   },
@@ -2557,13 +2557,13 @@
   },
   {
     "Package": "enchant",
-    "Version": "2.8.12-1",
+    "Version": "2.8.13",
     "Description": "Wraps a number of different spelling libraries and programs with a consistent interface",
     "Homepage": "https://rrthomas.github.io/enchant/"
   },
   {
     "Package": "enchant-static",
-    "Version": "2.8.12-1",
+    "Version": "2.8.13",
     "Description": "Static libraries for enchant",
     "Homepage": "https://rrthomas.github.io/enchant/"
   },
@@ -5659,7 +5659,7 @@
   },
   {
     "Package": "libcompiler-rt",
-    "Version": "21.1.5",
+    "Version": "21.1.5-1",
     "Description": "Compiler runtime libraries for clang",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -6751,13 +6751,13 @@
   },
   {
     "Package": "libllvm",
-    "Version": "21.1.5",
+    "Version": "21.1.5-1",
     "Description": "Modular compiler and toolchain technologies library",
     "Homepage": "https://clang.llvm.org/"
   },
   {
     "Package": "libllvm-static",
-    "Version": "21.1.5",
+    "Version": "21.1.5-1",
     "Description": "Static libraries for libllvm",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -7753,7 +7753,7 @@
   },
   {
     "Package": "libpolly",
-    "Version": "21.1.5",
+    "Version": "21.1.5-1",
     "Description": "High-level loop and data-locality optimizer for clang",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -9391,19 +9391,19 @@
   },
   {
     "Package": "lld",
-    "Version": "21.1.5",
+    "Version": "21.1.5-1",
     "Description": "LLVM-based linker",
     "Homepage": "https://clang.llvm.org/"
   },
   {
     "Package": "lldb",
-    "Version": "21.1.5",
+    "Version": "21.1.5-1",
     "Description": "LLVM-based debugger",
     "Homepage": "https://clang.llvm.org/"
   },
   {
     "Package": "llvm",
-    "Version": "21.1.5",
+    "Version": "21.1.5-1",
     "Description": "LLVM modular compiler and toolchain executables",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -9433,13 +9433,13 @@
   },
   {
     "Package": "llvm-tools",
-    "Version": "21.1.5",
+    "Version": "21.1.5-1",
     "Description": "LLVM Development Tools",
     "Homepage": "https://clang.llvm.org/"
   },
   {
     "Package": "llvmgold",
-    "Version": "21.1.5",
+    "Version": "21.1.5-1",
     "Description": "LLVM gold plugin",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -9535,7 +9535,7 @@
   },
   {
     "Package": "lua-language-server",
-    "Version": "3.15.0-1",
+    "Version": "3.15.0-2",
     "Description": "Sumneko Lua Language Server coded in Lua",
     "Homepage": "https://github.com/sumneko/lua-language-server"
   },
@@ -10183,7 +10183,7 @@
   },
   {
     "Package": "mlir",
-    "Version": "21.1.5",
+    "Version": "21.1.5-1",
     "Description": "A Multi-Level Intermediate Representation for compilers from LLVM",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -12307,7 +12307,7 @@
   },
   {
     "Package": "python-llvmlite",
-    "Version": "0.44.0",
+    "Version": "0.44.0-1",
     "Description": "A lightweight LLVM python binding for writing JIT compilers",
     "Homepage": "https://llvmlite.pydata.org/"
   },
