@@ -8971,13 +8971,13 @@
   },
   {
     "Package": "libxapian",
-    "Version": "1.4.29-1",
+    "Version": "1.4.30",
     "Description": "Xapian search engine library",
     "Homepage": "https://xapian.org"
   },
   {
     "Package": "libxapian-static",
-    "Version": "1.4.29-1",
+    "Version": "1.4.30",
     "Description": "Static libraries for libxapian",
     "Homepage": "https://xapian.org"
   },
@@ -11803,7 +11803,7 @@
   },
   {
     "Package": "pingme",
-    "Version": "0.2.6-4",
+    "Version": "0.2.7",
     "Description": "A small utility which can be called from anywhere to send a message with particular information",
     "Homepage": "https://github.com/kha7iq/pingme"
   },
@@ -15799,7 +15799,7 @@
   },
   {
     "Package": "xapian-tools",
-    "Version": "1.4.29-1",
+    "Version": "1.4.30",
     "Description": "Basic tools for the Xapian search engine",
     "Homepage": "https://xapian.org"
   },
