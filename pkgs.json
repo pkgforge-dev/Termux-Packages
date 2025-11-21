@@ -4411,7 +4411,7 @@
   },
   {
     "Package": "icu-devtools",
-    "Version": "77.1-2",
+    "Version": "78.1",
     "Description": "Development utilities for International Components for Unicode",
     "Homepage": "http://site.icu-project.org/home"
   },
@@ -6451,7 +6451,7 @@
   },
   {
     "Package": "libical",
-    "Version": "3.0.20-2",
+    "Version": "3.0.20-3",
     "Description": "Libical is an Open Source implementation of the iCalendar protocols and protocol data units",
     "Homepage": "https://libical.github.io/libical/"
   },
@@ -6475,13 +6475,13 @@
   },
   {
     "Package": "libicu",
-    "Version": "77.1-2",
+    "Version": "78.1",
     "Description": "International Components for Unicode library",
     "Homepage": "http://site.icu-project.org/home"
   },
   {
     "Package": "libicu-static",
-    "Version": "77.1-2",
+    "Version": "78.1",
     "Description": "Static libraries for libicu",
     "Homepage": "http://site.icu-project.org/home"
   },
@@ -6697,7 +6697,7 @@
   },
   {
     "Package": "libkiwix",
-    "Version": "14.1.0",
+    "Version": "14.1.0-1",
     "Description": "A library that contains a lot of things used by other kiwix programs",
     "Homepage": "https://github.com/kiwix/libkiwix"
   },
@@ -7819,13 +7819,13 @@
   },
   {
     "Package": "libraptor2",
-    "Version": "2.0.16-9",
+    "Version": "2.0.16-10",
     "Description": "RDF Syntax Library",
     "Homepage": "https://librdf.org/raptor/"
   },
   {
     "Package": "libraptor2-static",
-    "Version": "2.0.16-9",
+    "Version": "2.0.16-10",
     "Description": "Static libraries for libraptor2",
     "Homepage": "https://librdf.org/raptor/"
   },
@@ -9121,19 +9121,19 @@
   },
   {
     "Package": "libxml2",
-    "Version": "2.15.1",
+    "Version": "2.15.1-1",
     "Description": "Library for parsing XML documents",
     "Homepage": "https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home"
   },
   {
     "Package": "libxml2-python",
-    "Version": "2.15.1",
+    "Version": "2.15.1-1",
     "Description": "Python bindings for libxml2",
     "Homepage": "https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home"
   },
   {
     "Package": "libxml2-utils",
-    "Version": "2.15.1",
+    "Version": "2.15.1-1",
     "Description": "XML utilities",
     "Homepage": "https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home"
   },
@@ -9265,7 +9265,7 @@
   },
   {
     "Package": "libzim",
-    "Version": "9.4.0",
+    "Version": "9.4.0-1",
     "Description": "The ZIM library is the reference implementation for the ZIM file format.",
     "Homepage": "https://openzim.org"
   },
@@ -10369,7 +10369,7 @@
   },
   {
     "Package": "msedit",
-    "Version": "1.2.1",
+    "Version": "1.2.1-1",
     "Description": "A simple editor for simple needs (Microsoft Edit)",
     "Homepage": "https://github.com/microsoft/edit"
   },
@@ -10447,7 +10447,7 @@
   },
   {
     "Package": "music-file-organizer",
-    "Version": "1.0.4-9",
+    "Version": "1.0.4-10",
     "Description": "Organizer of audio files into directories based on metadata tags",
     "Homepage": "https://git.zx2c4.com/music-file-organizer/about/"
   },
@@ -10567,7 +10567,7 @@
   },
   {
     "Package": "ncmpcpp",
-    "Version": "0.10.1-6",
+    "Version": "0.10.1-7",
     "Description": "NCurses Music Player Client (Plus Plus)",
     "Homepage": "https://rybczak.net/ncmpcpp/"
   },
@@ -11623,7 +11623,7 @@
   },
   {
     "Package": "peaclock",
-    "Version": "0.4.3-8",
+    "Version": "0.4.3-9",
     "Description": "A responsive and customizable clock, timer, and stopwatch for the terminal.",
     "Homepage": "https://github.com/octobanana/peaclock"
   },
@@ -11671,37 +11671,37 @@
   },
   {
     "Package": "php",
-    "Version": "8.4.2-3",
+    "Version": "8.4.2-4",
     "Description": "Server-side, HTML-embedded scripting language",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-apache",
-    "Version": "8.4.2-3",
+    "Version": "8.4.2-4",
     "Description": "Apache 2.0 Handler module for PHP",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-apache-ldap",
-    "Version": "8.4.2-3",
+    "Version": "8.4.2-4",
     "Description": "LDAP module for PHP/Apache",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-apache-opcache",
-    "Version": "8.4.2-3",
+    "Version": "8.4.2-4",
     "Description": "OPcache module for PHP/Apache",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-apache-pgsql",
-    "Version": "8.4.2-3",
+    "Version": "8.4.2-4",
     "Description": "PostgreSQL modules for PHP/Apache",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-apache-sodium",
-    "Version": "8.4.2-3",
+    "Version": "8.4.2-4",
     "Description": "Sodium module for PHP/Apache",
     "Homepage": "https://php.net"
   },
@@ -11713,13 +11713,13 @@
   },
   {
     "Package": "php-fpm",
-    "Version": "8.4.2-3",
+    "Version": "8.4.2-4",
     "Description": "FastCGI Process Manager for PHP",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-gd",
-    "Version": "8.4.2-3",
+    "Version": "8.4.2-4",
     "Description": "gd module for PHP",
     "Homepage": "https://php.net"
   },
@@ -11731,13 +11731,13 @@
   },
   {
     "Package": "php-ldap",
-    "Version": "8.4.2-3",
+    "Version": "8.4.2-4",
     "Description": "LDAP module for PHP",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-pgsql",
-    "Version": "8.4.2-3",
+    "Version": "8.4.2-4",
     "Description": "PostgreSQL modules for PHP",
     "Homepage": "https://php.net"
   },
@@ -11755,7 +11755,7 @@
   },
   {
     "Package": "php-sodium",
-    "Version": "8.4.2-3",
+    "Version": "8.4.2-4",
     "Description": "Sodium module for PHP",
     "Homepage": "https://php.net"
   },
@@ -11965,13 +11965,13 @@
   },
   {
     "Package": "postgresql",
-    "Version": "17.0-4",
+    "Version": "17.0-5",
     "Description": "Object-relational SQL database",
     "Homepage": "https://www.postgresql.org"
   },
   {
     "Package": "postgresql-static",
-    "Version": "17.0-4",
+    "Version": "17.0-5",
     "Description": "Static libraries for postgresql",
     "Homepage": "https://www.postgresql.org"
   },
@@ -13273,7 +13273,7 @@
   },
   {
     "Package": "samba",
-    "Version": "4.16.11-5",
+    "Version": "4.16.11-6",
     "Description": "SMB/CIFS fileserver",
     "Homepage": "https://www.samba.org/"
   },
@@ -13783,7 +13783,7 @@
   },
   {
     "Package": "spidermonkey",
-    "Version": "128.10.0-1",
+    "Version": "128.10.0-2",
     "Description": "Mozillas JavaScript engine",
     "Homepage": "https://spidermonkey.dev"
   },
@@ -14221,7 +14221,7 @@
   },
   {
     "Package": "taglib",
-    "Version": "2.1.1-2",
+    "Version": "2.1.1-3",
     "Description": "A Library for reading and editing the meta-data of several popular audio formats.",
     "Homepage": "http://taglib.github.io/"
   },
@@ -14317,7 +14317,7 @@
   },
   {
     "Package": "tectonic",
-    "Version": "0.15.0-4",
+    "Version": "0.15.0-5",
     "Description": "A modernized, complete, self-contained TeX/LaTeX engine",
     "Homepage": "https://tectonic-typesetting.github.io/"
   },
@@ -14335,7 +14335,7 @@
   },
   {
     "Package": "teleport-tsh",
-    "Version": "18.4.0",
+    "Version": "18.4.1",
     "Description": "Secure Access for Developers that doesnt get in the way",
     "Homepage": "https://github.com/gravitational/teleport"
   },
@@ -14497,7 +14497,7 @@
   },
   {
     "Package": "tesseract",
-    "Version": "5.5.1-1",
+    "Version": "5.5.1-2",
     "Description": "Tesseract is probably the most accurate open source OCR engine available",
     "Homepage": "https://github.com/tesseract-ocr/tesseract"
   },
@@ -14527,13 +14527,13 @@
   },
   {
     "Package": "texlive-bin",
-    "Version": "1:2025.0-1",
+    "Version": "1:2025.0-2",
     "Description": "TeX Live is a distribution of the TeX typesetting system. This package contains architecture dependent binaries.",
     "Homepage": "https://www.tug.org/texlive/"
   },
   {
     "Package": "texlive-bin-static",
-    "Version": "1:2025.0-1",
+    "Version": "1:2025.0-2",
     "Description": "Static libraries for texlive-bin",
     "Homepage": "https://www.tug.org/texlive/"
   },
@@ -14647,7 +14647,7 @@
   },
   {
     "Package": "tinysparql",
-    "Version": "3.9.2-1",
+    "Version": "3.9.2-2",
     "Description": "Desktop-neutral metadata-based search framework",
     "Homepage": "https://gnome.pages.gitlab.gnome.org/tinysparql"
   },
@@ -15043,7 +15043,7 @@
   },
   {
     "Package": "unar",
-    "Version": "1.10.8-2",
+    "Version": "1.10.8-3",
     "Description": "Command line tools for archive and file unarchiving and extraction",
     "Homepage": "https://theunarchiver.com/command-line"
   },
@@ -15223,7 +15223,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.9.10",
+    "Version": "0.9.11",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
@@ -16105,7 +16105,7 @@
   },
   {
     "Package": "znc",
-    "Version": "1.10.1-1",
+    "Version": "1.10.1-2",
     "Description": "An advanced IRC bouncer",
     "Homepage": "https://znc.in/"
   },

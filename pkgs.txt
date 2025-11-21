@@ -733,7 +733,7 @@
  ices  2.0.3-1  IceS is a source client for the Icecast streaming server.  https://icecast.org/ices/ 
  iconv  1.18-1  Utility converting between different character encodings  https://www.gnu.org/software/libiconv/ 
  icoutils  0.32.3-1  Extracts and converts images in MS Windows(R) icon and cursor files  https://www.nongnu.org/icoutils/ 
- icu-devtools  77.1-2  Development utilities for International Components for Unicode  http://site.icu-project.org/home 
+ icu-devtools  78.1  Development utilities for International Components for Unicode  http://site.icu-project.org/home 
  id3lib  3.8.3-4  A software library for manipulating ID3v1/v1.1 and ID3v2 tags  https://id3lib.sourceforge.net/ 
  id3lib-static  3.8.3-4  Static libraries for id3lib  https://id3lib.sourceforge.net/ 
  id3v2  0.1.12-2  A command line id3v2 tag editor  https://id3v2.sourceforge.net/ 
@@ -1073,12 +1073,12 @@
  libhtmlcxx-static  0.87-5  Static libraries for libhtmlcxx  https://htmlcxx.sourceforge.net/ 
  libhyphen  2.8.8-1  hyphenation library to use converted TeX hyphenation patterns  https://github.com/hunspell/hyphen 
  libhyphen-static  2.8.8-1  Static libraries for libhyphen  https://github.com/hunspell/hyphen 
- libical  3.0.20-2  Libical is an Open Source implementation of the iCalendar protocols and protocol data units  https://libical.github.io/libical/ 
+ libical  3.0.20-3  Libical is an Open Source implementation of the iCalendar protocols and protocol data units  https://libical.github.io/libical/ 
  libice  1.1.2-1  X11 Inter-Client Exchange library  https://xorg.freedesktop.org/ 
  libiconv  1.18-1  An implementation of iconv()  https://www.gnu.org/software/libiconv/ 
  libiconv-static  1.18-1  Static libraries for libiconv  https://www.gnu.org/software/libiconv/ 
- libicu  77.1-2  International Components for Unicode library  http://site.icu-project.org/home 
- libicu-static  77.1-2  Static libraries for libicu  http://site.icu-project.org/home 
+ libicu  78.1  International Components for Unicode library  http://site.icu-project.org/home 
+ libicu-static  78.1  Static libraries for libicu  http://site.icu-project.org/home 
  libid3tag  0.16.3-3  MAD ID3 tag manipulation library  http://www.underbit.com/products/mad/ 
  libidn  1.43-1  GNU Libidn library, implementation of IETF IDN specifications  https://www.gnu.org/software/libidn/ 
  libidn-static  1.43-1  Static libraries for libidn  https://www.gnu.org/software/libidn/ 
@@ -1114,7 +1114,7 @@
  libjpeg-turbo-static  3.1.2  Static libraries for libjpeg-turbo  https://libjpeg-turbo.virtualgl.org 
  libjxl  0.11.1-5  JPEG XL image format reference implementation  https://jpegxl.info/ 
  libjxl-progs  0.11.1-5  Programs for manipulating JPEG XL files  https://jpegxl.info/ 
- libkiwix  14.1.0  A library that contains a lot of things used by other kiwix programs  https://github.com/kiwix/libkiwix 
+ libkiwix  14.1.0-1  A library that contains a lot of things used by other kiwix programs  https://github.com/kiwix/libkiwix 
  libknot  3.2.4-2  Knot DNS libraries  https://www.knot-dns.cz/ 
  libknot-static  3.2.4-2  Static libraries for libknot  https://www.knot-dns.cz/ 
  libksba  1.6.7-2  Library for using X.509 certificates and CMS (Cryptographic Message Syntax) easily accessible  https://gnupg.org/related_software/libksba/ 
@@ -1301,8 +1301,8 @@
  libpsl-static  0.21.5-1  Static libraries for libpsl  https://github.com/rockdaboot/libpsl 
  libpugixml  1.15-1  Light-weight, simple and fast XML parser for C++ with XPath support  https://pugixml.org/ 
  libqrencode  4.1.1-2  Fast and compact library for encoding data in a QR Code symbol  https://fukuchi.org/works/qrencode/ 
- libraptor2  2.0.16-9  RDF Syntax Library  https://librdf.org/raptor/ 
- libraptor2-static  2.0.16-9  Static libraries for libraptor2  https://librdf.org/raptor/ 
+ libraptor2  2.0.16-10  RDF Syntax Library  https://librdf.org/raptor/ 
+ libraptor2-static  2.0.16-10  Static libraries for libraptor2  https://librdf.org/raptor/ 
  libraqm  0.10.3  Raqm is a small library that encapsulates the logic for complex text layout and provides a convenient API  https://github.com/HOST-Oman/libraqm 
  librasqal  0.9.33-4  RDF Query Library  https://librdf.org/rasqal/ 
  librasqal-static  0.9.33-4  Static libraries for librasqal  https://librdf.org/rasqal/ 
@@ -1518,9 +1518,9 @@
  libxls-static  1.6.3-2  Static libraries for libxls  https://github.com/libxls/libxls 
  libxls2csv  1.6.3-2  A command-line tool for converting XLS to CSV  https://github.com/libxls/libxls 
  libxlsxwriter  1.2.3-1  A C library for creating Excel XLSX files  https://libxlsxwriter.github.io/ 
- libxml2  2.15.1  Library for parsing XML documents  https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home 
- libxml2-python  2.15.1  Python bindings for libxml2  https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home 
- libxml2-utils  2.15.1  XML utilities  https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home 
+ libxml2  2.15.1-1  Library for parsing XML documents  https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home 
+ libxml2-python  2.15.1-1  Python bindings for libxml2  https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home 
+ libxml2-utils  2.15.1-1  XML utilities  https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home 
  libxmlb  0.3.24  Library to help create and query binary XML blobs  https://github.com/hughsie/libxmlb 
  libxmlrpc  1.60.05-1  XML-RPC for C and C++  https://xmlrpc-c.sourceforge.io/ 
  libxmlrpc-static  1.60.05-1  Static libraries for libxmlrpc  https://xmlrpc-c.sourceforge.io/ 
@@ -1542,7 +1542,7 @@
  libyaml-static  0.2.5-5  Static libraries for libyaml  https://pyyaml.org/wiki/LibYAML 
  libzen  0.4.41-1  ZenLib C++ utility library  https://mediaarea.net/en/MediaInfo 
  libzen-static  0.4.41-1  Static libraries for libzen  https://mediaarea.net/en/MediaInfo 
- libzim  9.4.0  The ZIM library is the reference implementation for the ZIM file format.  https://openzim.org 
+ libzim  9.4.0-1  The ZIM library is the reference implementation for the ZIM file format.  https://openzim.org 
  libzimg  3.0.6  Scaling, colorspace conversion, and dithering library  https://github.com/sekrit-twc/zimg 
  libzimg-static  3.0.6  Static libraries for libzimg  https://github.com/sekrit-twc/zimg 
  libzip  1.11.4-1  Library for reading, creating, and modifying zip archives  https://libzip.org/ 
@@ -1726,7 +1726,7 @@
  mpv  0.40.0-3  Command-line media player  https://mpv.io/ 
  mruby  3.4.0-1  Lightweight implementation of the Ruby language  https://mruby.org/ 
  mruby-static  3.4.0-1  Static libraries for mruby  https://mruby.org/ 
- msedit  1.2.1  A simple editor for simple needs (Microsoft Edit)  https://github.com/microsoft/edit 
+ msedit  1.2.1-1  A simple editor for simple needs (Microsoft Edit)  https://github.com/microsoft/edit 
  msitools  0.106-1  Set of programs to inspect and build Windows Installer (.MSI) files  https://gitlab.gnome.org/GNOME/msitools 
  msmtp  1.8.32  Lightweight SMTP client  https://marlam.de/msmtp/ 
  mtd-utils  2.3.0-1  Utilities for dealing with MTD devices  http://www.linux-mtd.infradead.org/ 
@@ -1739,7 +1739,7 @@
  mupdf  1.24.10-2  Lightweight PDF and XPS viewer (library)  https://mupdf.com/ 
  mupdf-static  1.24.10-2  Static libraries for mupdf  https://mupdf.com/ 
  mupdf-tools  1.24.10-2  Lightweight PDF and XPS viewer (utilities)  https://mupdf.com/ 
- music-file-organizer  1.0.4-9  Organizer of audio files into directories based on metadata tags  https://git.zx2c4.com/music-file-organizer/about/ 
+ music-file-organizer  1.0.4-10  Organizer of audio files into directories based on metadata tags  https://git.zx2c4.com/music-file-organizer/about/ 
  mutt  2.2.15  Mail client with patches from neomutt  http://www.mutt.org/ 
  myman  0.7.1-6  Video game for color and monochrome text terminals in the genre of Namco's Pac-Man  https://sourceforge.net/projects/myman/ 
  mympd  23.0.0  A standalone and lightweight web-based MPD client  https://jcorporation.github.io/myMPD/ 
@@ -1759,7 +1759,7 @@
  ncdu  1.22-1  Disk usage analyzer  https://dev.yorhel.nl/ncdu 
  ncdu2  2.9.2  Disk usage analyzer  https://dev.yorhel.nl/ncdu 
  ncftp  3.3.0-1  A free set of programs that use the File Transfer Protocol  https://www.ncftp.com/ 
- ncmpcpp  0.10.1-6  NCurses Music Player Client (Plus Plus)  https://rybczak.net/ncmpcpp/ 
+ ncmpcpp  0.10.1-7  NCurses Music Player Client (Plus Plus)  https://rybczak.net/ncmpcpp/ 
  ncompress  5.0-1  The classic unix compression utility which can handle the ancient .Z archive  https://github.com/vapier/ncompress 
  ncpamixer  1.3.10-1  An ncurses mixer for PulseAudio  https://github.com/fulhax/ncpamixer 
  ncspot  1.3.2  An ncurses Spotify client written in Rust  https://github.com/hrkfdn/ncspot 
@@ -1935,7 +1935,7 @@
  pdfcpu  0.11.1  A PDF processor written in Go  https://pdfcpu.io 
  pdfgrep  2.2.0-4  Command line utility to search text in PDF files  https://pdfgrep.org/ 
  pdftk  3.3.3-3  A simple tool for doing everyday things with PDF documents  https://gitlab.com/pdftk-java/pdftk 
- peaclock  0.4.3-8  A responsive and customizable clock, timer, and stopwatch for the terminal.  https://github.com/octobanana/peaclock 
+ peaclock  0.4.3-9  A responsive and customizable clock, timer, and stopwatch for the terminal.  https://github.com/octobanana/peaclock 
  peco  0.5.11-2  Simplistic interactive filtering tool  https://github.com/peco/peco 
  perl  5.40.3-3  Capable, feature-rich programming language  https://www.perl.org/ 
  perl-rename  1.14  renames multiple files using perl expressions.  https://search.cpan.org/~pederst/rename/ 
@@ -1943,21 +1943,21 @@
  pforth  1:2.0.1-1  Portable Forth in C  https://www.softsynth.com/pforth/ 
  pgroonga  4.0.4  A PostgreSQL extension to use Groonga as index  https://github.com/pgroonga/pgroonga 
  photon-rss  2023.02.02-3  An RSS/Atom reader with the focus on speed, usability and a bit of unix philosophy  https://git.sr.ht/~ghost08/photon 
- php  8.4.2-3  Server-side, HTML-embedded scripting language  https://php.net 
- php-apache  8.4.2-3  Apache 2.0 Handler module for PHP  https://php.net 
- php-apache-ldap  8.4.2-3  LDAP module for PHP/Apache  https://php.net 
- php-apache-opcache  8.4.2-3  OPcache module for PHP/Apache  https://php.net 
- php-apache-pgsql  8.4.2-3  PostgreSQL modules for PHP/Apache  https://php.net 
- php-apache-sodium  8.4.2-3  Sodium module for PHP/Apache  https://php.net 
+ php  8.4.2-4  Server-side, HTML-embedded scripting language  https://php.net 
+ php-apache  8.4.2-4  Apache 2.0 Handler module for PHP  https://php.net 
+ php-apache-ldap  8.4.2-4  LDAP module for PHP/Apache  https://php.net 
+ php-apache-opcache  8.4.2-4  OPcache module for PHP/Apache  https://php.net 
+ php-apache-pgsql  8.4.2-4  PostgreSQL modules for PHP/Apache  https://php.net 
+ php-apache-sodium  8.4.2-4  Sodium module for PHP/Apache  https://php.net 
  php-apcu  5.1.27  APCu - APC User Cache  http://php.net/apcu 
- php-fpm  8.4.2-3  FastCGI Process Manager for PHP  https://php.net 
- php-gd  8.4.2-3  gd module for PHP  https://php.net 
+ php-fpm  8.4.2-4  FastCGI Process Manager for PHP  https://php.net 
+ php-gd  8.4.2-4  gd module for PHP  https://php.net 
  php-imagick  3.8.0-1  The Imagick PHP extension  https://github.com/Imagick/imagick 
- php-ldap  8.4.2-3  LDAP module for PHP  https://php.net 
- php-pgsql  8.4.2-3  PostgreSQL modules for PHP  https://php.net 
+ php-ldap  8.4.2-4  LDAP module for PHP  https://php.net 
+ php-pgsql  8.4.2-4  PostgreSQL modules for PHP  https://php.net 
  php-psr  1.2.0-4  PHP extension providing the accepted PSR interfaces  https://github.com/jbboehr/php-psr 
  php-redis  6.3.0RC1  PHP extension for interfacing with Redis  https://github.com/phpredis/phpredis 
- php-sodium  8.4.2-3  Sodium module for PHP  https://php.net 
+ php-sodium  8.4.2-4  Sodium module for PHP  https://php.net 
  php-zephir-parser  1.8.0  The Zephir Parser delivered as a C extension for the PHP language  https://github.com/phalcon/php-zephir-parser 
  phpmyadmin  5.2.3-1  A PHP tool for administering MySQL and MariaDB databases  https://www.phpmyadmin.net 
  pianobar  2024.12.21-2  pianobar is a free/open-source, console-based client for the personalized online radio Pandora.  https://6xq.net/pianobar/ 
@@ -1992,8 +1992,8 @@
  portmidi  2.0.6-1  A cross-platform MIDI input/output library  https://github.com/PortMidi/portmidi 
  posixvala  0.2  Aims to bring back the posix profile for Vala  https://github.com/radare/posixvala 
  postgis  3.6.1  Spatial database extender for PostgreSQL object-relational database  https://postgis.net 
- postgresql  17.0-4  Object-relational SQL database  https://www.postgresql.org 
- postgresql-static  17.0-4  Static libraries for postgresql  https://www.postgresql.org 
+ postgresql  17.0-5  Object-relational SQL database  https://www.postgresql.org 
+ postgresql-static  17.0-5  Static libraries for postgresql  https://www.postgresql.org 
  potrace  1.16-2  Tool for transforming a bitmap into a smooth, scalable image  https://potrace.sourceforge.net 
  potrace-static  1.16-2  Static libraries for potrace  https://potrace.sourceforge.net 
  pounce  3.1-1  A multi-client, TLS-only IRC bouncer  https://git.causal.agency/pounce 
@@ -2210,7 +2210,7 @@
  rxfetch  2023.01.07  A custom system info fetching tool  https://github.com/Mangeshrex/rxfetch 
  sabnzbd  4.5.5  Fully automated Usenet Binary Downloader  https://sabnzbd.org/ 
  salty-chat  0.0.22-p20251006-0  A secure, easy, self-hosted messaging  https://salty.im/ 
- samba  4.16.11-5  SMB/CIFS fileserver  https://www.samba.org/ 
+ samba  4.16.11-6  SMB/CIFS fileserver  https://www.samba.org/ 
  samefile  2.15-6  Finds files with identical contents, independent of file name  http://www.schweikhardt.net/samefile/ 
  samurai  1.2-2  ninja-compatible build tool written in C  https://github.com/michaelforney/samurai 
  sassc  3.6.2-1  libsass command line driver  https://github.com/sass/sassc 
@@ -2295,7 +2295,7 @@
  speexdsp  1.2.1-1  Speex audio processing library  https://speex.org/ 
  speexdsp-static  1.2.1-1  Static libraries for speexdsp  https://speex.org/ 
  spglib  2.6.0-1  C library for finding and handling crystal symmetries  https://spglib.github.io/spglib/index.html 
- spidermonkey  128.10.0-1  Mozilla's JavaScript engine  https://spidermonkey.dev 
+ spidermonkey  128.10.0-2  Mozilla's JavaScript engine  https://spidermonkey.dev 
  spiped  1.6.4-1  a utility for creating symmetrically encrypted and authenticated pipes between socket addresses  https://www.tarsnap.com/spiped.html 
  spirv-headers  1.4.328.1  SPIR-V Headers  https://github.com/KhronosGroup/SPIRV-Headers 
  spirv-llvm-translator  21.1.2  SPIR-V LLVM Translator  https://github.com/KhronosGroup/SPIRV-LLVM-Translator 
@@ -2368,7 +2368,7 @@
  sysprop  13.0.0.15-10  Generates cpp / java sysprop  https://android.googlesource.com/platform/system/tools/sysprop 
  ta-lib  0.5.0  Technical analysis library with indicators like ADX  https://ta-lib.org/ 
  ta-lib-static  0.5.0  Static libraries for ta-lib  https://ta-lib.org/ 
- taglib  2.1.1-2  A Library for reading and editing the meta-data of several popular audio formats.  http://taglib.github.io/ 
+ taglib  2.1.1-3  A Library for reading and editing the meta-data of several popular audio formats.  http://taglib.github.io/ 
  taplo  0.10.0-1  A TOML LSP and toolkit  https://taplo.tamasfe.dev/ 
  tar  1.35-1  GNU tar for manipulating tar archives  https://www.gnu.org/software/tar/ 
  task-spooler  1:1.0.3-1  Task spooler is a Unix batch system where the tasks spooled run one after the other  https://vicerveza.homeunix.net/~viric/soft/ts/ 
@@ -2384,10 +2384,10 @@
  tealdeer  1.8.1  A very fast implementation of tldr in Rust  https://tealdeer-rs.github.io/tealdeer/ 
  teckit  2.5.12-1  TECkit is a library for encoding conversion  https://scripts.sil.org/teckitdownloads 
  teckit-static  2.5.12-1  Static libraries for teckit  https://scripts.sil.org/teckitdownloads 
- tectonic  0.15.0-4  A modernized, complete, self-contained TeX/LaTeX engine  https://tectonic-typesetting.github.io/ 
+ tectonic  0.15.0-5  A modernized, complete, self-contained TeX/LaTeX engine  https://tectonic-typesetting.github.io/ 
  telegram-bot-api  20241031-2  Telegram Bot API server  https://github.com/tdlib/telegram-bot-api 
  telegram-cli  1:1.4.1-8  Telegram messenger CLI  https://github.com/vysheng/tg 
- teleport-tsh  18.4.0  Secure Access for Developers that doesn't get in the way  https://github.com/gravitational/teleport 
+ teleport-tsh  18.4.1  Secure Access for Developers that doesn't get in the way  https://github.com/gravitational/teleport 
  tenki-php  2022.05.26  A simple PHP application for logging current weather conditions, notes, and waypoints  https://github.com/dmpop/tenki 
  tere  1.6.0-1  Terminal file explorer written in rust  https://github.com/mgunyho/tere 
  tergent  1.0.0-5  A cryptoki/PKCS#11 library for Termux that uses Android Keystore as its backend  https://github.com/aeolwyr/tergent 
@@ -2414,13 +2414,13 @@
  termux-services  0.13-1  Service daemon for Termux  https://github.com/termux/termux-services/ 
  termux-tools  1.46.0+really1.45.0-1  Basic system tools for Termux  https://termux.dev/ 
  teseq  1.1.1-2  Tool for analyzing control characters and terminal control sequences  https://www.gnu.org/software/teseq/ 
- tesseract  5.5.1-1  Tesseract is probably the most accurate open source OCR engine available  https://github.com/tesseract-ocr/tesseract 
+ tesseract  5.5.1-2  Tesseract is probably the most accurate open source OCR engine available  https://github.com/tesseract-ocr/tesseract 
  testssl.sh  3.2.2  Testing TLS/SSL encryption anywhere on any port.  https://testssl.sh/ 
  tex-gyre  2.501-2  The TeX Gyre (TG) Collection of Fonts  https://www.gust.org.pl/projects/e-foundry/tex-gyre/ 
  texinfo  7.2-4  Documentation system for on-line information and printed output  https://www.gnu.org/software/texinfo/ 
  texlab  5.24.0  A cross-platform implementation of the Language Server Protocol providing rich cross-editing support for the LaTeX typesetting system  https://texlab.netlify.app/ 
- texlive-bin  1:2025.0-1  TeX Live is a distribution of the TeX typesetting system. This package contains architecture dependent binaries.  https://www.tug.org/texlive/ 
- texlive-bin-static  1:2025.0-1  Static libraries for texlive-bin  https://www.tug.org/texlive/ 
+ texlive-bin  1:2025.0-2  TeX Live is a distribution of the TeX typesetting system. This package contains architecture dependent binaries.  https://www.tug.org/texlive/ 
+ texlive-bin-static  1:2025.0-2  Static libraries for texlive-bin  https://www.tug.org/texlive/ 
  texlive-installer  20250308  Wrapper around texlive's install-tl script  https://www.tug.org/texlive/ 
  tgpt  2.11.0  AI Chatbots in terminal without needing API keys  https://github.com/aandrew-me/tgpt 
  thrift  0.22.0-1  Scalable cross-language services framework for IPC/RPC  https://thrift.apache.org 
@@ -2439,7 +2439,7 @@
  tinygo-common  0.39.0  TinyGo common files  https://tinygo.org 
  tinyproxy  1.11.2-1  Light-weight HTTP proxy daemon for POSIX operating systems  https://tinyproxy.github.io/ 
  tinyscheme  1.42-2  Very small scheme implementation  https://tinyscheme.sourceforge.net/home.html 
- tinysparql  3.9.2-1  Desktop-neutral metadata-based search framework  https://gnome.pages.gitlab.gnome.org/tinysparql 
+ tinysparql  3.9.2-2  Desktop-neutral metadata-based search framework  https://gnome.pages.gitlab.gnome.org/tinysparql 
  tizonia  0.22.0-20  A command-line streaming music client/server for Linux  https://github.com/tizonia/ 
  tk  8.6.14-1  A windowing toolkit for use with tcl  https://tcl.sourceforge.net/ 
  tmate  2.4.0-3  Terminal multiplexer with instant terminal sharing  https://tmate.io 
@@ -2505,7 +2505,7 @@
  uftrace  0.18.1  Function (graph) tracer for user-space  https://uftrace.github.io/slide 
  ugit  5.9  ugit helps you undo your last git command with grace. Your damage control git buddy  https://github.com/Bhupesh-V/ugit 
  ugrep  7.5.0-1  A faster, user-friendly and compatible grep replacement  https://github.com/Genivia/ugrep 
- unar  1.10.8-2  Command line tools for archive and file unarchiving and extraction  https://theunarchiver.com/command-line 
+ unar  1.10.8-3  Command line tools for archive and file unarchiving and extraction  https://theunarchiver.com/command-line 
  unbound  1.24.1-1  Unbound command-line tools  https://unbound.net/ 
  unicode-data  17.0.0  The Unicode Character Database (UCD)  https://unicode.org/ucd/ 
  unicorn  2.1.4  Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework  https://www.unicorn-engine.org/ 
@@ -2535,7 +2535,7 @@
  util-linux-static  2.41.2  Static libraries for util-linux  https://en.wikipedia.org/wiki/Util-linux 
  uucp  1.07-2  The standard UUCP package of the Free Software Foundation  https://www.airs.com/ian/uucp.html 
  uuid-utils  2.41.2  Utilities for handling universally unique identifiers  https://en.wikipedia.org/wiki/Util-linux 
- uv  0.9.10  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
+ uv  0.9.11  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
  uwsgi  2.0.31  uWSGI application server container  https://projects.unbit.it/uwsgi 
  v2ray  5.41.0  A platform for building proxies to bypass network restrictions  https://www.v2fly.org/ 
  valac  0.56.18-1  C# like language for the GObject system  https://wiki.gnome.org/Projects/Vala 
@@ -2682,7 +2682,7 @@
  zlib  1.3.1-1  Compression library implementing the deflate compression method found in gzip and PKZIP  https://www.zlib.net/ 
  zlib-static  1.3.1-1  Static libraries for zlib  https://www.zlib.net/ 
  zls  0.15.0  Zig language server  https://github.com/zigtools/zls 
- znc  1.10.1-1  An advanced IRC bouncer  https://znc.in/ 
+ znc  1.10.1-2  An advanced IRC bouncer  https://znc.in/ 
  zola  0.21.0-1  A fast static site generator in a single binary with everything built-in.  https://github.com/getzola/zola 
  zopfli  1.0.3-5  New zlib compatible compressor tools  https://github.com/google/zopfli 
  zoxide  0.9.8-2  A faster way to navigate your filesystem  https://github.com/ajeetdsouza/zoxide 
