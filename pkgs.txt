@@ -1482,7 +1482,7 @@
  libwebp  1.6.0-rc1-0  Library to encode and decode images in WebP format  https://github.com/webmproject/libwebp 
  libwebrtc-audio-processing  1.3-4  A library containing the AudioProcessing module from the WebRTC project  https://www.freedesktop.org/software/pulseaudio/webrtc-audio-processing/ 
  libwebsockets  4.4.1-1  Lightweight C websockets library  https://libwebsockets.org 
- libwolfssl  5.8.2-1  A small, fast, portable implementation of TLS/SSL for embedded devices to the cloud  https://www.wolfssl.com/ 
+ libwolfssl  5.8.4  A small, fast, portable implementation of TLS/SSL for embedded devices to the cloud  https://www.wolfssl.com/ 
  libwren  0.4.0-4  Small, fast, class-based concurrent scripting language libraries  https://wren.io/ 
  libwslay  1.1.1-2  WebSocket library  https://github.com/tatsuhiro-t/wslay 
  libwv  1.2.9-6  A library which allows access to Microsoft Word files  https://wvware.sourceforge.net/ 
@@ -2041,7 +2041,7 @@
  python-apt  3.0.0-1  Python bindings for APT  https://apt-team.pages.debian.net/python-apt/ 
  python-bcrypt  5.0.0  Acceptable password hashing for your software and your servers  https://github.com/pyca/bcrypt 
  python-brotli  1.2.0  lossless compression algorithm and format (Python bindings)  https://github.com/google/brotli 
- python-cmake  4.1.0-1  Python wrapper for CMake  https://cmake-python-distributions.readthedocs.io/ 
+ python-cmake  4.2.0  Python wrapper for CMake  https://cmake-python-distributions.readthedocs.io/ 
  python-contourpy  1.3.3-1  Python library for calculating contours in 2D quadrilateral grids  https://contourpy.readthedocs.io/ 
  python-cryptography  46.0.3  Provides cryptographic recipes and primitives to Python developers  https://github.com/pyca/cryptography 
  python-ensurepip-wheels  3.12.12  Wheels for Python ensurepip  https://python.org/ 
@@ -2060,7 +2060,7 @@
  python-pyarrow  22.0.0-1  Python bindings for Apache Arrow  https://github.com/apache/arrow 
  python-pycryptodomex  3.23.0-1  A self-contained Python package of low-level cryptographic primitives  https://www.pycryptodome.org/ 
  python-pynvim  0.6.0  Python client for Neovim  https://github.com/neovim/pynvim 
- python-ruff  0.14.5  An extremely fast Python linter, written in Rust (Python bindings)  https://github.com/charliermarsh/ruff 
+ python-ruff  0.14.6  An extremely fast Python linter, written in Rust (Python bindings)  https://github.com/charliermarsh/ruff 
  python-sabyenc3  8.2.6-1  C implementations of functions for use within SABnzbd  https://github.com/sabnzbd/sabctools 
  python-skia-pathops  0.8.0-2  Python bindings for the Skia library's Path Ops  https://github.com/fonttools/skia-pathops 
  python-static  3.12.12  Static libraries for python  https://python.org/ 
@@ -2178,7 +2178,7 @@
  rsync  3.4.1-1  Fast incremental file transfer utility  https://rsync.samba.org/ 
  rtmpdump  2.6-1  Small dumper for media content streamed over the RTMP protocol  https://rtmpdump.mplayerhq.hu/ 
  rtmpdump-static  2.6-1  Static libraries for rtmpdump  https://rtmpdump.mplayerhq.hu/ 
- rtorrent  0.16.2  Ncurses BitTorrent client based on libTorrent  https://rakshasa.github.io/rtorrent/ 
+ rtorrent  0.16.3  Ncurses BitTorrent client based on libTorrent  https://rakshasa.github.io/rtorrent/ 
  rubberband  4.0.0-1  An audio time-stretching and pitch-shifting library and utility program  https://breakfastquay.com/rubberband/ 
  rubberband-ladspa  4.0.0-1  LADSPA plugin for Rubber Band  https://breakfastquay.com/rubberband/ 
  rubberband-lv2  4.0.0-1  LV2 plugin for Rubber Band  https://breakfastquay.com/rubberband/ 
@@ -2187,7 +2187,7 @@
  rubiks-cube  1.2-1  A rubik's cube that runs in your terminal  https://github.com/been-jamming/rubiks_cube 
  ruby  3.4.1-2  Dynamic programming language with a focus on simplicity and productivity  https://www.ruby-lang.org/ 
  ruby-ri  3.4.1-2  Ruby documentation index  https://www.ruby-lang.org/ 
- ruff  0.14.5  An extremely fast Python linter, written in Rust  https://github.com/charliermarsh/ruff 
+ ruff  0.14.6  An extremely fast Python linter, written in Rust  https://github.com/charliermarsh/ruff 
  runit  2.1.2-4  Tools to provide service supervision and to manage services  http://smarden.org/runit 
  runit-static  2.1.2-4  Static libraries for runit  http://smarden.org/runit 
  rush  0.7.0-1  A cross-platform command-line tool for executing jobs in parallel  https://github.com/shenwei356/rush 
@@ -2228,7 +2228,7 @@
  sdcv  0.5.5-2  StarDict Console Version  http://dushistov.github.io/sdcv/ 
  seafile-client  9.0.15  Seafile is a file syncing and sharing software with file encryption and group sharing  https://seafile.com 
  seafile-client-static  9.0.15  Static libraries for seafile-client  https://seafile.com 
- seanime  3.0.4  Self-hosted anime and manga server for sea rovers.  https://github.com/5rahim/seanime 
+ seanime  3.0.5  Self-hosted anime and manga server for sea rovers.  https://github.com/5rahim/seanime 
  seccure  0.5-8  SECCURE Elliptic Curve Crypto Utility for Reliable Encryption  http://point-at-infinity.org/seccure/ 
  secure-delete  3.1-6  Secure file, disk, swap, memory erasure utilities  https://www.thc.org/ 
  sed  4.9-2  GNU stream editor for filtering/transforming text  https://www.gnu.org/software/sed/ 
@@ -2582,9 +2582,9 @@
  vulkan-icd  0.1  A metapackage that provides Vulkan ICDs  https://github.com/termux/termux-packages 
  vulkan-loader  0.0.3  A metapackage that provides vulkan loader library  https://github.com/termux/termux-packages 
  vulkan-loader-android  28c-2  Vulkan Loader for Android  https://source.android.com/devices/graphics/arch-vulkan 
- vulkan-loader-generic  1.4.333  Vulkan Loader  https://github.com/KhronosGroup/Vulkan-Loader 
+ vulkan-loader-generic  1.4.334  Vulkan Loader  https://github.com/KhronosGroup/Vulkan-Loader 
  vulkan-tools  1.4.333  Vulkan Tools and Utilities  https://github.com/KhronosGroup/Vulkan-Tools 
- vulkan-utility-libraries  1.4.333  Utility Libraries for Vulkan  https://github.com/KhronosGroup/Vulkan-Utility-Libraries 
+ vulkan-utility-libraries  1.4.334  Utility Libraries for Vulkan  https://github.com/KhronosGroup/Vulkan-Utility-Libraries 
  vulkan-validation-layers  1.4.333  Vulkan Validation Layers  https://github.com/KhronosGroup/Vulkan-ValidationLayers 
  vulkan-volk  1.4.304  Meta loader for Vulkan API  https://github.com/zeux/volk 
  w3m  0.5.5  Text based Web browser and pager  https://w3m.sourceforge.net/ 

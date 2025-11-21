@@ -5935,7 +5935,7 @@
   Description: Lightweight C websockets library
   Homepage: https://libwebsockets.org
 - Package: libwolfssl
-  Version: 5.8.2-1
+  Version: 5.8.4
   Description: A small, fast, portable implementation of TLS/SSL for embedded devices to the cloud
   Homepage: https://www.wolfssl.com/
 - Package: libwren
@@ -8171,7 +8171,7 @@
   Description: lossless compression algorithm and format (Python bindings)
   Homepage: https://github.com/google/brotli
 - Package: python-cmake
-  Version: 4.1.0-1
+  Version: 4.2.0
   Description: Python wrapper for CMake
   Homepage: https://cmake-python-distributions.readthedocs.io/
 - Package: python-contourpy
@@ -8247,7 +8247,7 @@
   Description: Python client for Neovim
   Homepage: https://github.com/neovim/pynvim
 - Package: python-ruff
-  Version: 0.14.5
+  Version: 0.14.6
   Description: An extremely fast Python linter, written in Rust (Python bindings)
   Homepage: https://github.com/charliermarsh/ruff
 - Package: python-sabyenc3
@@ -8719,7 +8719,7 @@
   Description: Static libraries for rtmpdump
   Homepage: https://rtmpdump.mplayerhq.hu/
 - Package: rtorrent
-  Version: 0.16.2
+  Version: 0.16.3
   Description: Ncurses BitTorrent client based on libTorrent
   Homepage: https://rakshasa.github.io/rtorrent/
 - Package: rubberband
@@ -8755,7 +8755,7 @@
   Description: Ruby documentation index
   Homepage: https://www.ruby-lang.org/
 - Package: ruff
-  Version: 0.14.5
+  Version: 0.14.6
   Description: An extremely fast Python linter, written in Rust
   Homepage: https://github.com/charliermarsh/ruff
 - Package: runit
@@ -8919,7 +8919,7 @@
   Description: Static libraries for seafile-client
   Homepage: https://seafile.com
 - Package: seanime
-  Version: 3.0.4
+  Version: 3.0.5
   Description: Self-hosted anime and manga server for sea rovers.
   Homepage: https://github.com/5rahim/seanime
 - Package: seccure
@@ -10335,7 +10335,7 @@
   Description: Vulkan Loader for Android
   Homepage: https://source.android.com/devices/graphics/arch-vulkan
 - Package: vulkan-loader-generic
-  Version: 1.4.333
+  Version: 1.4.334
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
@@ -10343,7 +10343,7 @@
   Description: Vulkan Tools and Utilities
   Homepage: https://github.com/KhronosGroup/Vulkan-Tools
 - Package: vulkan-utility-libraries
-  Version: 1.4.333
+  Version: 1.4.334
   Description: Utility Libraries for Vulkan
   Homepage: https://github.com/KhronosGroup/Vulkan-Utility-Libraries
 - Package: vulkan-validation-layers
