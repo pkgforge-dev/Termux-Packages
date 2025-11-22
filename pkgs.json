@@ -4621,7 +4621,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.24.338",
+    "Version": "0.24.339",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -7723,13 +7723,13 @@
   },
   {
     "Package": "libpng",
-    "Version": "1.6.50-1",
+    "Version": "1.6.51",
     "Description": "Official PNG reference library",
     "Homepage": "http://www.libpng.org/pub/png/libpng.html"
   },
   {
     "Package": "libpng-static",
-    "Version": "1.6.50-1",
+    "Version": "1.6.51",
     "Description": "Static libraries for libpng",
     "Homepage": "http://www.libpng.org/pub/png/libpng.html"
   },
@@ -10657,7 +10657,7 @@
   },
   {
     "Package": "neocmakelsp",
-    "Version": "0.8.26",
+    "Version": "0.9.0",
     "Description": "a cmake lsp based on tower-lsp and treesitter",
     "Homepage": "https://neocmakelsp.github.io/"
   },
@@ -12775,7 +12775,7 @@
   },
   {
     "Package": "rclone",
-    "Version": "1.71.2",
+    "Version": "1.72.0",
     "Description": "rsync for cloud storage",
     "Homepage": "https://rclone.org/"
   },

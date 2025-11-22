@@ -3079,7 +3079,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.24.338
+  Version: 0.24.339
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -5147,11 +5147,11 @@
   Description: Static libraries for libpluto
   Homepage: https://plutolang.github.io/
 - Package: libpng
-  Version: 1.6.50-1
+  Version: 1.6.51
   Description: Official PNG reference library
   Homepage: http://www.libpng.org/pub/png/libpng.html
 - Package: libpng-static
-  Version: 1.6.50-1
+  Version: 1.6.51
   Description: Static libraries for libpng
   Homepage: http://www.libpng.org/pub/png/libpng.html
 - Package: libpngwriter
@@ -7103,7 +7103,7 @@
   Description: Minimal, efficient, statically-typed and meta-programmable systems programming language
   Homepage: https://nelua.io
 - Package: neocmakelsp
-  Version: 0.8.26
+  Version: 0.9.0
   Description: a cmake lsp based on tower-lsp and treesitter
   Homepage: https://neocmakelsp.github.io/
 - Package: neofetch
@@ -8515,7 +8515,7 @@
   Description: An alternative implementation of the plan 9 rc shell
   Homepage: https://github.com/rakitzis/rc
 - Package: rclone
-  Version: 1.71.2
+  Version: 1.72.0
   Description: rsync for cloud storage
   Homepage: https://rclone.org/
 - Package: rcm

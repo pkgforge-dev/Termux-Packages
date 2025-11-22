@@ -768,7 +768,7 @@
  jack  0.0.1  A metapackage that provides JACK Audio Connection Kit  https://github.com/termux/termux-packages 
  jack-example-tools  4-1  Official JACK example clients and tools  https://jackaudio.org/ 
  jack2  1.9.22-2  The JACK low-latency audio server  https://jackaudio.org/ 
- jackett  0.24.338  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
+ jackett  0.24.339  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
  jadx  1.5.3  Dex to Java decompiler  https://github.com/skylot/jadx 
  jadx-x  1.5.3  Dex to Java decompiler GUI  https://github.com/skylot/jadx 
  janet  1.40.1  Janet is a dialect of Lisp intended for embedding into programs and such  https://janet-lang.org 
@@ -1285,8 +1285,8 @@
  libplist-static  2.7.0-1  Static libraries for libplist  https://libimobiledevice.org 
  libpluto  0.12.1  Shared library for the Pluto interpreter  https://plutolang.github.io/ 
  libpluto-static  0.12.1  Static libraries for libpluto  https://plutolang.github.io/ 
- libpng  1.6.50-1  Official PNG reference library  http://www.libpng.org/pub/png/libpng.html 
- libpng-static  1.6.50-1  Static libraries for libpng  http://www.libpng.org/pub/png/libpng.html 
+ libpng  1.6.51  Official PNG reference library  http://www.libpng.org/pub/png/libpng.html 
+ libpng-static  1.6.51  Static libraries for libpng  http://www.libpng.org/pub/png/libpng.html 
  libpngwriter  0.7.0-1  C++ library for creating PNG images  https://pngwriter.sourceforge.net 
  libpngwriter-static  0.7.0-1  Static libraries for libpngwriter  https://pngwriter.sourceforge.net 
  libpoco  1.14.2-1  A comprehensive set of C++ libraries that cover all modern-day programming needs  https://pocoproject.org/ 
@@ -1774,7 +1774,7 @@
  ndk-sysroot  28c-1  System header and library files from the Android NDK needed for compiling C programs  https://developer.android.com/tools/sdk/ndk/index.html 
  ne  3.3.4-2  Easy-to-use and powerful text editor  https://ne.di.unimi.it/ 
  nelua  2024.01.13-1  Minimal, efficient, statically-typed and meta-programmable systems programming language  https://nelua.io 
- neocmakelsp  0.8.26  a cmake lsp based on tower-lsp and treesitter  https://neocmakelsp.github.io/ 
+ neocmakelsp  0.9.0  a cmake lsp based on tower-lsp and treesitter  https://neocmakelsp.github.io/ 
  neofetch  7.1.0-1  Simple system information script  https://github.com/dylanaraps/neofetch 
  neomutt  20250905  A version of mutt with added features  https://neomutt.org/ 
  neovim  0.11.5  Ambitious Vim-fork focused on extensibility and agility (nvim)  https://neovim.io/ 
@@ -2127,7 +2127,7 @@
  ravencoin-static  4.6.1-8  Static libraries for ravencoin  https://ravencoin.org/ 
  rbw  1.14.1  An unofficial command line client for Bitwarden  https://github.com/doy/rbw 
  rc  1.7.4-2  An alternative implementation of the plan 9 rc shell  https://github.com/rakitzis/rc 
- rclone  1.71.2  rsync for cloud storage  https://rclone.org/ 
+ rclone  1.72.0  rsync for cloud storage  https://rclone.org/ 
  rcm  1.3.6  Dotfiles management  https://github.com/thoughtbot/rcm 
  rcs  5.10.1-1  The GNU Revision Control System  https://www.gnu.org/s/rcs 
  rdfind  1.7.0-1  A tool for finding duplicate files  https://github.com/pauldreik/rdfind 
