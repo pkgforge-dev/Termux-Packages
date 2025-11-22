@@ -103,7 +103,7 @@
 | **astra-sm** | 2019.06.19-1 | Software for digital TV broadcasting | https://gitlab.com/berdyansk/astra-sm |
 | **asymptote** | 3.05-1 | A powerful descriptive vector graphics language for technical drawing | https://asymptote.sourceforge.io/ |
 | **at** | 3.2.5-2 | AT and batch delayed command scheduling utility and daemon | https://salsa.debian.org/debian/at |
-| **at-spi2-core** | 2.58.1 | Assistive Technology Service Provider Interface (AT-SPI) | https://wiki.gnome.org/Accessibility |
+| **at-spi2-core** | 2.58.2 | Assistive Technology Service Provider Interface (AT-SPI) | https://wiki.gnome.org/Accessibility |
 | **atomicparsley** | 1:20240608.083822.1ed9031-1 | Read, parse and set metadata of MPEG-4 and 3gp files | https://github.com/wez/atomicparsley |
 | **atomvm** | 1:0.6.6-1 | The minimal Erlang VM implementation | https://github.com/bettio/AtomVM |
 | **atool** | 0.39.0-1 | tool for managing file archives of various types | https://www.nongnu.org/atool |
@@ -1716,7 +1716,7 @@
 | **mono-static** | 6.14.1-2 | Static libraries for mono | https://gitlab.winehq.org/mono/mono |
 | **monolith** | 2.10.1-1 | CLI tool for saving complete web pages as a single HTML file | https://github.com/Y2Z/monolith |
 | **moon-buggy** | 1.0.51-6 | Simple game where you drive a car across the moon's surface | https://github.com/seehuhn/moon-buggy |
-| **moor** | 2.9.1 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moor |
+| **moor** | 2.9.2 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moor |
 | **mop** | 2025.03.17-1 | Stock market tracker | https://github.com/mop-tracker/mop |
 | **moreutils** | 0.70-1 | A growing collection of the unix tools that nobody thought to write thirty years ago | https://joeyh.name/code/moreutils/ |
 | **moria** | 5.7.15-6 | Rogue-like game with an infinite dungeon | https://umoria.org |

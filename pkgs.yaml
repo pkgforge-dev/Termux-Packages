@@ -371,7 +371,7 @@
   Description: AT and batch delayed command scheduling utility and daemon
   Homepage: https://salsa.debian.org/debian/at
 - Package: at-spi2-core
-  Version: 2.58.1
+  Version: 2.58.2
   Description: Assistive Technology Service Provider Interface (AT-SPI)
   Homepage: https://wiki.gnome.org/Accessibility
 - Package: atomicparsley
@@ -6823,7 +6823,7 @@
   Description: Simple game where you drive a car across the moons surface
   Homepage: https://github.com/seehuhn/moon-buggy
 - Package: moor
-  Version: 2.9.1
+  Version: 2.9.2
   Description: A pager designed to just do the right thing without any configuration
   Homepage: https://github.com/walles/moor
 - Package: mop
