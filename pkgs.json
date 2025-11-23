@@ -7333,13 +7333,13 @@
   },
   {
     "Package": "libnghttp3",
-    "Version": "1.12.0",
+    "Version": "1.13.0",
     "Description": "HTTP/3 library written in C",
     "Homepage": "https://nghttp2.org/nghttp3/"
   },
   {
     "Package": "libnghttp3-static",
-    "Version": "1.12.0",
+    "Version": "1.13.0",
     "Description": "Static libraries for libnghttp3",
     "Homepage": "https://nghttp2.org/nghttp3/"
   },
@@ -12679,19 +12679,19 @@
   },
   {
     "Package": "racket",
-    "Version": "8.18",
+    "Version": "9.0",
     "Description": "Full-spectrum programming language going beyond Lisp and Scheme",
     "Homepage": "https://racket-lang.org"
   },
   {
     "Package": "racket-static",
-    "Version": "8.18",
+    "Version": "9.0",
     "Description": "Static libraries for racket",
     "Homepage": "https://racket-lang.org"
   },
   {
     "Package": "radare2",
-    "Version": "6.0.4",
+    "Version": "6.0.6",
     "Description": "UNIX-like reverse engineering framework and command-line toolset",
     "Homepage": "https://www.radare.org/"
   },
@@ -13381,7 +13381,7 @@
   },
   {
     "Package": "seanime",
-    "Version": "3.0.6",
+    "Version": "3.0.7",
     "Description": "Self-hosted anime and manga server for sea rovers.",
     "Homepage": "https://github.com/5rahim/seanime"
   },
@@ -14287,7 +14287,7 @@
   },
   {
     "Package": "tdl",
-    "Version": "0.19.2",
+    "Version": "0.20.0",
     "Description": "Telegram downloader/tools written in Golang",
     "Homepage": "https://docs.iyear.me/tdl/"
   },

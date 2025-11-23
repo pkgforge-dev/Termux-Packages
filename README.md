@@ -1232,8 +1232,8 @@
 | **libnftnl-static** | 1.3.0 | Static libraries for libnftnl | https://www.netfilter.org/projects/libnftnl/ |
 | **libnghttp2** | 1.68.0 | nghttp HTTP 2.0 library | https://nghttp2.org/ |
 | **libnghttp2-static** | 1.68.0 | Static libraries for libnghttp2 | https://nghttp2.org/ |
-| **libnghttp3** | 1.12.0 | HTTP/3 library written in C | https://nghttp2.org/nghttp3/ |
-| **libnghttp3-static** | 1.12.0 | Static libraries for libnghttp3 | https://nghttp2.org/nghttp3/ |
+| **libnghttp3** | 1.13.0 | HTTP/3 library written in C | https://nghttp2.org/nghttp3/ |
+| **libnghttp3-static** | 1.13.0 | Static libraries for libnghttp3 | https://nghttp2.org/nghttp3/ |
 | **libnl** | 3.11.0-1 | Collection of libraries providing APIs to netlink protocol based Linux kernel interfaces | https://github.com/thom311/libnl |
 | **libnl-cli** | 3.11.0-1 | Command-line interface utilities for libnl | https://github.com/thom311/libnl |
 | **libnl-cli-static** | 3.11.0-1 | Static libraries for libnl-cli | https://github.com/thom311/libnl |
@@ -2123,9 +2123,9 @@
 | **quickjs** | 1:20250913 | QuickJS is a small and embeddable Javascript engine | https://bellard.org/quickjs/ |
 | **quilt** | 0.69 | Allows you to easily manage large numbers of patches | https://savannah.nongnu.org/projects/quilt |
 | **rabbitmq-server** | 4.2.1 | Feature rich, multi-protocol messaging and streaming broker | https://github.com/rabbitmq/rabbitmq-server |
-| **racket** | 8.18 | Full-spectrum programming language going beyond Lisp and Scheme | https://racket-lang.org |
-| **racket-static** | 8.18 | Static libraries for racket | https://racket-lang.org |
-| **radare2** | 6.0.4 | UNIX-like reverse engineering framework and command-line toolset | https://www.radare.org/ |
+| **racket** | 9.0 | Full-spectrum programming language going beyond Lisp and Scheme | https://racket-lang.org |
+| **racket-static** | 9.0 | Static libraries for racket | https://racket-lang.org |
+| **radare2** | 6.0.6 | UNIX-like reverse engineering framework and command-line toolset | https://www.radare.org/ |
 | **rage** | 0.11.1-1 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4-1 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4-1 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
@@ -2240,7 +2240,7 @@
 | **sdcv** | 0.5.5-2 | StarDict Console Version | http://dushistov.github.io/sdcv/ |
 | **seafile-client** | 9.0.15 | Seafile is a file syncing and sharing software with file encryption and group sharing | https://seafile.com |
 | **seafile-client-static** | 9.0.15 | Static libraries for seafile-client | https://seafile.com |
-| **seanime** | 3.0.6 | Self-hosted anime and manga server for sea rovers. | https://github.com/5rahim/seanime |
+| **seanime** | 3.0.7 | Self-hosted anime and manga server for sea rovers. | https://github.com/5rahim/seanime |
 | **seccure** | 0.5-8 | SECCURE Elliptic Curve Crypto Utility for Reliable Encryption | http://point-at-infinity.org/seccure/ |
 | **secure-delete** | 3.1-6 | Secure file, disk, swap, memory erasure utilities | https://www.thc.org/ |
 | **sed** | 4.9-2 | GNU stream editor for filtering/transforming text | https://www.gnu.org/software/sed/ |
@@ -2391,7 +2391,7 @@
 | **tcllib** | 2.0 | Tcl Standard Library | https://core.tcl-lang.org/tcllib/ |
 | **tcsh** | 6.24.16-1 | TENEX C Shell, an enhanced version of Berkeley csh | https://www.tcsh.org |
 | **tdb-tools** | 1.4.14 | Tools for TDB | https://tdb.samba.org/ |
-| **tdl** | 0.19.2 | Telegram downloader/tools written in Golang | https://docs.iyear.me/tdl/ |
+| **tdl** | 0.20.0 | Telegram downloader/tools written in Golang | https://docs.iyear.me/tdl/ |
 | **tea** | 0.11.1 | The official CLI for Gitea | https://gitea.com/gitea/tea |
 | **tealdeer** | 1.8.1 | A very fast implementation of tldr in Rust | https://tealdeer-rs.github.io/tealdeer/ |
 | **teckit** | 2.5.12-1 | TECkit is a library for encoding conversion | https://scripts.sil.org/teckitdownloads |
