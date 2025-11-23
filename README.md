@@ -581,9 +581,9 @@
 | **git-sizer** | 1.5.0-5 | Compute various size metrics for a Git repository | https://github.com/github/git-sizer |
 | **git-svn** | 2.52.0 | Convert between Git and Subversion repositories | https://git-scm.com/ |
 | **git-town** | 22.2.0 | Git branches made easy | https://www.git-town.com |
-| **gitea** | 1.25.1 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
+| **gitea** | 1.25.2 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
 | **gitflow-avh** | 1.12.3-9 | Extend git with Vincent Driessen's branching model. The AVH Edition adds more functionality. | https://github.com/petervanderdoes/gitflow/ |
-| **gitoxide** | 0.46.0 | Rust implementation of Git | https://github.com/Byron/gitoxide |
+| **gitoxide** | 0.47.0 | Rust implementation of Git | https://github.com/Byron/gitoxide |
 | **gitui** | 0.27.0-3 | Blazing fast terminal-ui for git written in rust | https://github.com/extrawurst/gitui |
 | **gkermit** | 2.01-1 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
 | **glab-cli** | 1.78.2 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
@@ -2036,7 +2036,7 @@
 | **pulseaudio-glib** | 17.0-1 | PulseAudio GLIB mainloop component | https://www.freedesktop.org/wiki/Software/PulseAudio |
 | **pup** | 0.4.0-7 | command line tool for processing HTML | https://github.com/ericchiang/pup |
 | **pure-ftpd** | 1.0.52-1 | Pure-FTPd is a free (BSD), secure, production-quality and standard-conformant FTP server | https://www.pureftpd.org/project/pure-ftpd |
-| **pv** | 1.10.1 | Terminal-based tool for monitoring the progress of data through a pipeline | https://www.ivarch.com/programs/pv.shtml |
+| **pv** | 1.10.2 | Terminal-based tool for monitoring the progress of data through a pipeline | https://www.ivarch.com/programs/pv.shtml |
 | **pwgen** | 2.08-2 | Password generator which by default, unless given the '-s' option, generates memorable but insecure passwords | http://pwgen.sourceforge.net/ |
 | **pybind11** | 3.0.1-1 | A lightweight header-only library that exposes C++ types in Python and vice versa | https://pybind11.readthedocs.io/ |
 | **pycairo** | 1.29.0 | Python bindings for the cairo graphics library | https://www.cairographics.org/pycairo/ |
@@ -2539,8 +2539,8 @@
 | **urdfdom-headers** | 1.1.2 | Headers for URDF parsers | https://github.com/ros/urdfdom_headers |
 | **usql** | 0.19.26 | A universal command-line interface for SQL databases | https://github.com/xo/usql |
 | **utf8cpp** | 4.0.8 | UTF8-CPP: UTF-8 with C++ in a Portable Way | https://github.com/nemtrif/utfcpp |
-| **utf8proc** | 2.11.1 | Library for processing UTF-8 Unicode data | https://github.com/JuliaLang/utf8proc |
-| **utf8proc-static** | 2.11.1 | Static libraries for utf8proc | https://github.com/JuliaLang/utf8proc |
+| **utf8proc** | 2.11.2 | Library for processing UTF-8 Unicode data | https://github.com/JuliaLang/utf8proc |
+| **utf8proc-static** | 2.11.2 | Static libraries for utf8proc | https://github.com/JuliaLang/utf8proc |
 | **utfdecode** | 0.3.4-7 | Tool for decoding, encoding and debugging unicode | https://github.com/fornwall/utfdecode |
 | **uthash** | 2.3.0 | C preprocessor implementations of a hash table and a linked list | https://troydhanson.github.io/uthash/ |
 | **util-linux** | 2.41.2 | Miscellaneous system utilities | https://en.wikipedia.org/wiki/Util-linux |

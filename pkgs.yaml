@@ -2283,7 +2283,7 @@
   Description: Git branches made easy
   Homepage: https://www.git-town.com
 - Package: gitea
-  Version: 1.25.1
+  Version: 1.25.2
   Description: Git with a cup of tea, painless self-hosted git service
   Homepage: https://gitea.io
 - Package: gitflow-avh
@@ -2291,7 +2291,7 @@
   Description: Extend git with Vincent Driessens branching model. The AVH Edition adds more functionality.
   Homepage: https://github.com/petervanderdoes/gitflow/
 - Package: gitoxide
-  Version: 0.46.0
+  Version: 0.47.0
   Description: Rust implementation of Git
   Homepage: https://github.com/Byron/gitoxide
 - Package: gitui
@@ -8103,7 +8103,7 @@
   Description: Pure-FTPd is a free (BSD), secure, production-quality and standard-conformant FTP server
   Homepage: https://www.pureftpd.org/project/pure-ftpd
 - Package: pv
-  Version: 1.10.1
+  Version: 1.10.2
   Description: Terminal-based tool for monitoring the progress of data through a pipeline
   Homepage: https://www.ivarch.com/programs/pv.shtml
 - Package: pwgen
@@ -10115,11 +10115,11 @@
   Description: 'UTF8-CPP: UTF-8 with C++ in a Portable Way'
   Homepage: https://github.com/nemtrif/utfcpp
 - Package: utf8proc
-  Version: 2.11.1
+  Version: 2.11.2
   Description: Library for processing UTF-8 Unicode data
   Homepage: https://github.com/JuliaLang/utf8proc
 - Package: utf8proc-static
-  Version: 2.11.1
+  Version: 2.11.2
   Description: Static libraries for utf8proc
   Homepage: https://github.com/JuliaLang/utf8proc
 - Package: utfdecode
