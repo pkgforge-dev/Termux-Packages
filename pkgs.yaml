@@ -1719,11 +1719,11 @@
   Description: Event Notify Test Runner - run arbitrary commands when files change
   Homepage: https://eradman.com/entrproject/
 - Package: erlang
-  Version: 28.1.1
+  Version: "28.2"
   Description: General-purpose concurrent functional programming language
   Homepage: https://www.erlang.org/
 - Package: erlang-doc
-  Version: 28.1.1
+  Version: "28.2"
   Description: Erlang HTML documentation
   Homepage: https://www.erlang.org/
 - Package: esbuild
@@ -7623,11 +7623,11 @@
   Description: GNU Parallel is a shell tool for executing jobs in parallel using one or more machines
   Homepage: https://www.gnu.org/software/parallel/
 - Package: pari
-  Version: 2.17.2-1
+  Version: 2.17.3
   Description: A computer algebra system designed for fast computations in number theory
   Homepage: https://pari.math.u-bordeaux.fr/
 - Package: pari-static
-  Version: 2.17.2-1
+  Version: 2.17.3
   Description: Static libraries for pari
   Homepage: https://pari.math.u-bordeaux.fr/
 - Package: parted
