@@ -1867,7 +1867,7 @@
   Description: A simple file manager written in bash
   Homepage: https://github.com/dylanaraps/fff
 - Package: ffmpeg
-  Version: 8.0-1
+  Version: 8.0.1
   Description: Tools and libraries to manipulate a wide range of multimedia formats and protocols
   Homepage: https://ffmpeg.org
 - Package: ffmpegthumbnailer
@@ -2470,10 +2470,6 @@
   Version: 2023.02.02-3
   Description: MPD client inspired by ncmpcpp with builtin cover-art view and LastFM integration
   Homepage: https://aditya-k2.github.io/gomp/
-- Package: gomuks
-  Version: 0.3.1-1
-  Description: A terminal Matrix client written in Go
-  Homepage: https://maunium.net/go/gomuks/
 - Package: google-drive-upload
   Version: "4.5"
   Description: Bash scripts to upload files to google drive

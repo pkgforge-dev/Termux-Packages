@@ -477,7 +477,7 @@
 | **fetchmail** | 6.6.1 | A remote-mail retrieval utility | https://www.fetchmail.info/ |
 | **fetchmailconf** | 6.6.1 | A GUI configurator for generating fetchmail configuration files | https://www.fetchmail.info/ |
 | **fff** | 2.2 | A simple file manager written in bash | https://github.com/dylanaraps/fff |
-| **ffmpeg** | 8.0-1 | Tools and libraries to manipulate a wide range of multimedia formats and protocols | https://ffmpeg.org |
+| **ffmpeg** | 8.0.1 | Tools and libraries to manipulate a wide range of multimedia formats and protocols | https://ffmpeg.org |
 | **ffmpegthumbnailer** | 2.2.3-p20251103-0 | Lightweight video thumbnailer that can be used by file managers | https://github.com/dirkvdb/ffmpegthumbnailer |
 | **ffsend** | 0.2.77-2 | A fully featured Firefox Send client | https://gitlab.com/timvisee/ffsend |
 | **fftw** | 3.3.10-4 | Library for computing the Discrete Fourier Transform (DFT) in one or more dimensions | http://www.fftw.org/ |
@@ -628,7 +628,6 @@
 | **golang** | 3:1.25.3 | Go programming language compiler | https://go.dev/ |
 | **golang-doc** | 3:1.25.3 | Go programming language - documentation | https://go.dev/ |
 | **gomp** | 2023.02.02-3 | MPD client inspired by ncmpcpp with builtin cover-art view and LastFM integration | https://aditya-k2.github.io/gomp/ |
-| **gomuks** | 0.3.1-1 | A terminal Matrix client written in Go | https://maunium.net/go/gomuks/ |
 | **google-drive-upload** | 4.5 | Bash scripts to upload files to google drive | https://github.com/labbots/google-drive-upload |
 | **google-glog** | 0.7.1-1 | Logging library for C++ | https://github.com/google/glog |
 | **googletest** | 1.17.0-1 | Google C++ testing framework | https://github.com/google/googletest |
