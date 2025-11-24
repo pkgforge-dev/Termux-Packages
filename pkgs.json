@@ -913,7 +913,7 @@
   },
   {
     "Package": "boinc",
-    "Version": "8.2.7",
+    "Version": "8.2.8",
     "Description": "Open-source software for volunteer computing",
     "Homepage": "https://boinc.berkeley.edu/"
   },
@@ -4855,7 +4855,7 @@
   },
   {
     "Package": "kcptun",
-    "Version": "20251118",
+    "Version": "20251124",
     "Description": "A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC",
     "Homepage": "https://github.com/xtaci/kcptun"
   },
@@ -7327,13 +7327,13 @@
   },
   {
     "Package": "libnghttp3",
-    "Version": "1.13.0",
+    "Version": "1.13.1",
     "Description": "HTTP/3 library written in C",
     "Homepage": "https://nghttp2.org/nghttp3/"
   },
   {
     "Package": "libnghttp3-static",
-    "Version": "1.13.0",
+    "Version": "1.13.1",
     "Description": "Static libraries for libnghttp3",
     "Homepage": "https://nghttp2.org/nghttp3/"
   },
@@ -7891,7 +7891,7 @@
   },
   {
     "Package": "librime",
-    "Version": "1.14.0-1",
+    "Version": "1.15.0",
     "Description": "A modular, extensible input method engine in cross-platform C++ code",
     "Homepage": "https://rime.im/"
   },
@@ -11353,19 +11353,19 @@
   },
   {
     "Package": "oxc-language-server",
-    "Version": "1.27.0",
+    "Version": "1.30.0",
     "Description": "Oxc JavaScript linter language server",
     "Homepage": "https://oxc.rs/"
   },
   {
     "Package": "oxfmt",
-    "Version": "1.27.0",
+    "Version": "1.30.0",
     "Description": "Oxc JavaScript formatter",
     "Homepage": "https://oxc.rs/"
   },
   {
     "Package": "oxlint",
-    "Version": "1.27.0",
+    "Version": "1.30.0",
     "Description": "Oxc JavaScript linter",
     "Homepage": "https://oxc.rs/"
   },
@@ -12055,7 +12055,7 @@
   },
   {
     "Package": "proot-distro",
-    "Version": "4.33.0",
+    "Version": "4.33.2",
     "Description": "Termux official utility for managing prooted Linux distributions",
     "Homepage": "https://github.com/termux/proot-distro"
   },

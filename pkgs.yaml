@@ -607,7 +607,7 @@
   Description: Bandwidth monitor and rate estimator
   Homepage: https://github.com/tgraf/bmon
 - Package: boinc
-  Version: 8.2.7
+  Version: 8.2.8
   Description: Open-source software for volunteer computing
   Homepage: https://boinc.berkeley.edu/
 - Package: boinctui
@@ -3235,7 +3235,7 @@
   Description: KBDs showkey utility for examining keycodes
   Homepage: https://kbd-project.org/
 - Package: kcptun
-  Version: "20251118"
+  Version: "20251124"
   Description: A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC
   Homepage: https://github.com/xtaci/kcptun
 - Package: keybase
@@ -4883,11 +4883,11 @@
   Description: Static libraries for libnghttp2
   Homepage: https://nghttp2.org/
 - Package: libnghttp3
-  Version: 1.13.0
+  Version: 1.13.1
   Description: HTTP/3 library written in C
   Homepage: https://nghttp2.org/nghttp3/
 - Package: libnghttp3-static
-  Version: 1.13.0
+  Version: 1.13.1
   Description: Static libraries for libnghttp3
   Homepage: https://nghttp2.org/nghttp3/
 - Package: libnl
@@ -5259,7 +5259,7 @@
   Description: Static libraries for libretls
   Homepage: https://git.causal.agency/libretls/about/
 - Package: librime
-  Version: 1.14.0-1
+  Version: 1.15.0
   Description: A modular, extensible input method engine in cross-platform C++ code
   Homepage: https://rime.im/
 - Package: librinutils
@@ -7567,15 +7567,15 @@
   Description: Open Virtual Machine Firmware
   Homepage: https://www.tianocore.org/
 - Package: oxc-language-server
-  Version: 1.27.0
+  Version: 1.30.0
   Description: Oxc JavaScript linter language server
   Homepage: https://oxc.rs/
 - Package: oxfmt
-  Version: 1.27.0
+  Version: 1.30.0
   Description: Oxc JavaScript formatter
   Homepage: https://oxc.rs/
 - Package: oxlint
-  Version: 1.27.0
+  Version: 1.30.0
   Description: Oxc JavaScript linter
   Homepage: https://oxc.rs/
 - Package: p11-kit
@@ -8035,7 +8035,7 @@
   Description: Emulate chroot, bind mount and binfmt_misc for non-root users
   Homepage: https://proot-me.github.io/
 - Package: proot-distro
-  Version: 4.33.0
+  Version: 4.33.2
   Description: Termux official utility for managing prooted Linux distributions
   Homepage: https://github.com/termux/proot-distro
 - Package: protobuf
