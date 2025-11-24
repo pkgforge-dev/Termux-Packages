@@ -4051,19 +4051,19 @@
   },
   {
     "Package": "harfbuzz",
-    "Version": "12.2.0-1",
+    "Version": "12.2.0-2",
     "Description": "OpenType text shaping engine",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-icu",
-    "Version": "12.2.0-1",
+    "Version": "12.2.0-2",
     "Description": "OpenType text shaping engine ICU backend",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-utils",
-    "Version": "12.2.0-1",
+    "Version": "12.2.0-2",
     "Description": "Tools using the harfbuzz library",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
@@ -4879,7 +4879,7 @@
   },
   {
     "Package": "kibi",
-    "Version": "0.3.1",
+    "Version": "0.3.2",
     "Description": "A tiny terminal text editor, written in Rust",
     "Homepage": "https://github.com/ilai-deutel/kibi"
   },
@@ -7659,12 +7659,6 @@
     "Package": "libpcsclite",
     "Version": "2.4.0",
     "Description": "Middleware to access a smart card using SCard API (PC/SC).",
-    "Homepage": "https://pcsclite.apdu.fr/"
-  },
-  {
-    "Package": "libpcsclite-static",
-    "Version": "2.3.3-2",
-    "Description": "Static libraries for libpcsclite",
     "Homepage": "https://pcsclite.apdu.fr/"
   },
   {
@@ -11443,7 +11437,7 @@
   },
   {
     "Package": "parallel",
-    "Version": "20251022",
+    "Version": "20251122",
     "Description": "GNU Parallel is a shell tool for executing jobs in parallel using one or more machines",
     "Homepage": "https://www.gnu.org/software/parallel/"
   },
@@ -12691,7 +12685,7 @@
   },
   {
     "Package": "radare2",
-    "Version": "6.0.6",
+    "Version": "6.0.7",
     "Description": "UNIX-like reverse engineering framework and command-line toolset",
     "Homepage": "https://www.radare.org/"
   },
@@ -13381,7 +13375,7 @@
   },
   {
     "Package": "seanime",
-    "Version": "3.0.7",
+    "Version": "3.0.8",
     "Description": "Self-hosted anime and manga server for sea rovers.",
     "Homepage": "https://github.com/5rahim/seanime"
   },
@@ -14712,12 +14706,6 @@
     "Homepage": "https://www.torproject.org"
   },
   {
-    "Package": "torchaudio-ffmpeg",
-    "Version": "2.6.0-1",
-    "Description": "Minimal FFmpeg libraries for python-torchaudio",
-    "Homepage": "https://github.com/pytorch/audio"
-  },
-  {
     "Package": "torsocks",
     "Version": "2.5.0-1",
     "Description": "Wrapper to safely torify applications",
@@ -15453,12 +15441,6 @@
     "Package": "vtm",
     "Version": "2025.11.13-1",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
-    "Homepage": "https://github.com/directvt/vtm"
-  },
-  {
-    "Package": "vtm-static",
-    "Version": "2025.11.13",
-    "Description": "Static libraries for vtm",
     "Homepage": "https://github.com/directvt/vtm"
   },
   {

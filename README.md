@@ -685,9 +685,9 @@
 | **gumbo-parser-static** | 0.10.1-1 | Static libraries for gumbo-parser | https://github.com/google/gumbo-parser |
 | **gzip** | 1.14-1 | Standard GNU file compression utilities | https://www.gnu.org/software/gzip/ |
 | **haproxy** | 3.2.9 | The Reliable, High Performance TCP/HTTP Load Balancer | https://www.haproxy.org/ |
-| **harfbuzz** | 12.2.0-1 | OpenType text shaping engine | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
-| **harfbuzz-icu** | 12.2.0-1 | OpenType text shaping engine ICU backend | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
-| **harfbuzz-utils** | 12.2.0-1 | Tools using the harfbuzz library | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
+| **harfbuzz** | 12.2.0-2 | OpenType text shaping engine | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
+| **harfbuzz-icu** | 12.2.0-2 | OpenType text shaping engine ICU backend | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
+| **harfbuzz-utils** | 12.2.0-2 | Tools using the harfbuzz library | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
 | **has** | 1.5.2 | has checks presence of various command line tools and their versions on the path | https://github.com/kdabir/has |
 | **hash-slinger** | 3.4 | Various tools to generate special DNS records | https://github.com/letoams/hash-slinger |
 | **hashdeep** | 4.4-9 | Programs to compute hashsums of arbitrary number of files recursively | https://md5deep.sourceforge.net/ |
@@ -823,7 +823,7 @@
 | **kcptun** | 20251118 | A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC | https://github.com/xtaci/kcptun |
 | **keybase** | 6.5.1-1 | Key directory that maps social media identities to encryption keys | https://keybase.io |
 | **keychain** | 2.9.8 | keychain ssh-agent front-end | https://www.funtoo.org/Keychain |
-| **kibi** | 0.3.1 | A tiny terminal text editor, written in Rust | https://github.com/ilai-deutel/kibi |
+| **kibi** | 0.3.2 | A tiny terminal text editor, written in Rust | https://github.com/ilai-deutel/kibi |
 | **kiwix-tools** | 3.8.0 | A collection of Kiwix related command line tools | https://github.com/kiwix/kiwix-tools |
 | **knockd** | 0.8.2-2 | A port-knocking daemon | https://zeroflux.org/projects/knock |
 | **knot-utils** | 3.2.4-2 | Knot DNS utilities | https://www.knot-dns.cz/ |
@@ -1287,7 +1287,6 @@
 | **libpcap-static** | 1.10.5-1 | Static libraries for libpcap | https://www.tcpdump.org |
 | **libpcreposix** | 8.45-2 | Posix-compatible runtime libraries for libpcre | https://www.pcre.org |
 | **libpcsclite** | 2.4.0 | Middleware to access a smart card using SCard API (PC/SC). | https://pcsclite.apdu.fr/ |
-| **libpcsclite-static** | 2.3.3-2 | Static libraries for libpcsclite | https://pcsclite.apdu.fr/ |
 | **libphysfs** | 3.2.0-2 | A portable, flexible file i/o abstraction | https://icculus.org/physfs/ |
 | **libpipeline** | 1.5.8-1 | C library for manipulating pipelines of subprocesses in a flexible and convenient way | http://libpipeline.nongnu.org/ |
 | **libpipeline-static** | 1.5.8-1 | Static libraries for libpipeline | http://libpipeline.nongnu.org/ |
@@ -1917,7 +1916,7 @@
 | **pango** | 1.57.0 | Library for laying out and rendering text | https://www.gtk.org/docs/architecture/pango |
 | **paperkey** | 1.6-1 | Archive OpenPGP keys on paper | http://www.jabberwocky.com/software/paperkey/ |
 | **par2** | 1.0.0-1 | par2cmdline is a PAR 2.0 compatible file verification and repair tool | https://github.com/Parchive/par2cmdline |
-| **parallel** | 20251022 | GNU Parallel is a shell tool for executing jobs in parallel using one or more machines | https://www.gnu.org/software/parallel/ |
+| **parallel** | 20251122 | GNU Parallel is a shell tool for executing jobs in parallel using one or more machines | https://www.gnu.org/software/parallel/ |
 | **pari** | 2.17.2-1 | A computer algebra system designed for fast computations in number theory | https://pari.math.u-bordeaux.fr/ |
 | **pari-static** | 2.17.2-1 | Static libraries for pari | https://pari.math.u-bordeaux.fr/ |
 | **parted** | 3.6-1 | Versatile partition editor | https://www.gnu.org/software/parted/ |
@@ -2125,7 +2124,7 @@
 | **rabbitmq-server** | 4.2.1 | Feature rich, multi-protocol messaging and streaming broker | https://github.com/rabbitmq/rabbitmq-server |
 | **racket** | 9.0 | Full-spectrum programming language going beyond Lisp and Scheme | https://racket-lang.org |
 | **racket-static** | 9.0 | Static libraries for racket | https://racket-lang.org |
-| **radare2** | 6.0.6 | UNIX-like reverse engineering framework and command-line toolset | https://www.radare.org/ |
+| **radare2** | 6.0.7 | UNIX-like reverse engineering framework and command-line toolset | https://www.radare.org/ |
 | **rage** | 0.11.1-1 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4-1 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4-1 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
@@ -2240,7 +2239,7 @@
 | **sdcv** | 0.5.5-2 | StarDict Console Version | http://dushistov.github.io/sdcv/ |
 | **seafile-client** | 9.0.15 | Seafile is a file syncing and sharing software with file encryption and group sharing | https://seafile.com |
 | **seafile-client-static** | 9.0.15 | Static libraries for seafile-client | https://seafile.com |
-| **seanime** | 3.0.7 | Self-hosted anime and manga server for sea rovers. | https://github.com/5rahim/seanime |
+| **seanime** | 3.0.8 | Self-hosted anime and manga server for sea rovers. | https://github.com/5rahim/seanime |
 | **seccure** | 0.5-8 | SECCURE Elliptic Curve Crypto Utility for Reliable Encryption | http://point-at-infinity.org/seccure/ |
 | **secure-delete** | 3.1-6 | Secure file, disk, swap, memory erasure utilities | https://www.thc.org/ |
 | **sed** | 4.9-2 | GNU stream editor for filtering/transforming text | https://www.gnu.org/software/sed/ |
@@ -2462,7 +2461,6 @@
 | **toml11** | 4.4.0 | toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library | https://github.com/ToruNiina/toml11 |
 | **topgrade** | 16.4.2 | Upgrade all the things | https://github.com/topgrade-rs/topgrade/ |
 | **tor** | 0.4.8.21 | The Onion Router anonymizing overlay network | https://www.torproject.org |
-| **torchaudio-ffmpeg** | 2.6.0-1 | Minimal FFmpeg libraries for python-torchaudio | https://github.com/pytorch/audio |
 | **torsocks** | 2.5.0-1 | Wrapper to safely torify applications | https://gitlab.torproject.org/tpo/core/torsocks |
 | **torsocks-static** | 2.5.0-1 | Static libraries for torsocks | https://gitlab.torproject.org/tpo/core/torsocks |
 | **totem-pl-parser** | 3.26.6-2 | Simple GObject-based library to parse and save a host of playlist formats | https://gitlab.gnome.org/GNOME/totem-pl-parser |
@@ -2586,7 +2584,6 @@
 | **vobsub2srt** | 2017.12.18-4 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.3-1 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
 | **vtm** | 2025.11.13-1 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
-| **vtm-static** | 2025.11.13 | Static libraries for vtm | https://github.com/directvt/vtm |
 | **vttest** | 20241208-1 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-5 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.4.333 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
