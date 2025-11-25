@@ -2255,7 +2255,7 @@
   Description: A syntax-highlighter for git and diff output
   Homepage: https://dandavison.github.io/delta/
 - Package: git-extras
-  Version: 7.4.0-1
+  Version: 7.4.0-2
   Description: Little git extras.
   Homepage: https://github.com/tj/git-extras
 - Package: git-gitk
@@ -2459,11 +2459,11 @@
   Description: Pure Go implementation of jq
   Homepage: https://github.com/itchyny/gojq
 - Package: golang
-  Version: 3:1.25.3
+  Version: 3:1.25.4
   Description: Go programming language compiler
   Homepage: https://go.dev/
 - Package: golang-doc
-  Version: 3:1.25.3
+  Version: 3:1.25.4
   Description: Go programming language - documentation
   Homepage: https://go.dev/
 - Package: gomp
