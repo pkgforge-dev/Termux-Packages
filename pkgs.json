@@ -3846,6 +3846,12 @@
     "Homepage": "https://grafana.com/"
   },
   {
+    "Package": "grap",
+    "Version": "1.49",
+    "Description": "Language for typesetting graphs",
+    "Homepage": "https://www.lunabase.org/~faber/Vault/software/grap/"
+  },
+  {
     "Package": "graphene",
     "Version": "1.10.8-3",
     "Description": "A thin layer of graphic data types",
@@ -5017,7 +5023,7 @@
   },
   {
     "Package": "lesspipe",
-    "Version": "2.20",
+    "Version": "2.21",
     "Description": "An input filter for the pager less",
     "Homepage": "http://www-zeuthen.desy.de/~friebel/unix/lesspipe.html"
   },
