@@ -2739,7 +2739,7 @@
   Description: Prints a friendly greeting
   Homepage: https://www.gnu.org/software/hello/
 - Package: helm
-  Version: 4.0.0
+  Version: 4.0.1
   Description: Helm helps you manage Kubernetes applications
   Homepage: https://helm.sh
 - Package: helm-ls
@@ -3115,7 +3115,7 @@
   Description: Static libraries for jcal
   Homepage: http://nongnu.org/jcal
 - Package: jfrog-cli
-  Version: 2.84.0
+  Version: 2.85.0
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -10323,7 +10323,7 @@
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
-  Version: 1.4.333
+  Version: 1.4.334
   Description: Vulkan Tools and Utilities
   Homepage: https://github.com/KhronosGroup/Vulkan-Tools
 - Package: vulkan-utility-libraries
@@ -10643,7 +10643,7 @@
   Description: Download youtube video in Golang
   Homepage: https://github.com/kkdai/youtube
 - Package: yq
-  Version: 4.49.1
+  Version: 4.49.2
   Description: A lightweight and portable command-line YAML, JSON and XML processor
   Homepage: https://mikefarah.gitbook.io/yq/
 - Package: yt-dlp-ejs
