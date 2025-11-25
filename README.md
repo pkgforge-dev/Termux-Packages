@@ -2530,7 +2530,7 @@
 | **unzip** | 6.0-10 | Tools for working with zip files | https://sourceforge.net/projects/infozip/ |
 | **up** | 0.4-4 | Helps interactively and incrementally explore textual data in Linux | https://github.com/akavel/up |
 | **update-info-dir** | 7.2-4 | Update or create index file from all installed info files in directory | https://www.gnu.org/software/texinfo/ |
-| **upower** | 1.90.10 | Power management support for DeviceKit | https://upower.freedesktop.org/ |
+| **upower** | 1.91.0 | Power management support for DeviceKit | https://upower.freedesktop.org/ |
 | **upx** | 5.0.2-1 | the Ultimate Packer for eXecutables | https://upx.github.io/ |
 | **urdfdom** | 5.0.2-1 | Unified Robot Description Format (URDF) parser library and tools | https://github.com/ros/urdfdom |
 | **urdfdom-headers** | 1.1.2 | Headers for URDF parsers | https://github.com/ros/urdfdom_headers |
