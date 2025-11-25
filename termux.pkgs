@@ -767,7 +767,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4-1 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-2 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.24.348 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.24.356 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **jadx** | 1.5.3 | Dex to Java decompiler | https://github.com/skylot/jadx |
 | **jadx-x** | 1.5.3 | Dex to Java decompiler GUI | https://github.com/skylot/jadx |
 | **janet** | 1.40.1 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
@@ -1204,8 +1204,8 @@
 | **libnats-c-static** | 3.12.0 | Static libraries for libnats-c | https://nats-io.github.io/nats.c/ |
 | **libncnn** | 20250503-3 | A high-performance neural network inference framework optimized for the mobile platform | https://github.com/Tencent/ncnn |
 | **libncnn-static** | 20250503-3 | Static libraries for libncnn | https://github.com/Tencent/ncnn |
-| **libneon** | 0.35.0-1 | An HTTP/1.1 and WebDAV client library, with a C interface | https://notroj.github.io/neon/ |
-| **libneon-static** | 0.35.0-1 | Static libraries for libneon | https://notroj.github.io/neon/ |
+| **libneon** | 0.36.0 | An HTTP/1.1 and WebDAV client library, with a C interface | https://notroj.github.io/neon/ |
+| **libneon-static** | 0.36.0 | Static libraries for libneon | https://notroj.github.io/neon/ |
 | **libnet** | 1.3-1 | A library which provides API for commonly used low-level net functions | https://github.com/libnet/libnet |
 | **libnet-static** | 1.3-1 | Static libraries for libnet | https://github.com/libnet/libnet |
 | **libnettle** | 3.10.2-1 | Cryptographic library that is designed to fit easily in more or less any context | https://www.lysator.liu.se/~nisse/nettle/ |
@@ -2631,7 +2631,7 @@
 | **xcb-proto** | 1.17.0-1 | XML-XCB protocol descriptions | https://xcb.freedesktop.org/ |
 | **xdelta3** | 3.1.0-3 | xdelta3 - VCDIFF (RFC 3284) binary diff tool | https://github.com/jmacd/xdelta |
 | **xh** | 0.25.0 | A friendly and fast tool for sending HTTP requests | https://github.com/ducaale/xh |
-| **xmake** | 3.0.4 | A cross-platform build utility based on Lua | https://xmake.io/ |
+| **xmake** | 3.0.5 | A cross-platform build utility based on Lua | https://xmake.io/ |
 | **xmlsec** | 1.3.9 | XML Security Library | https://www.aleksey.com/xmlsec/ |
 | **xmlsec-static** | 1.3.9 | Static libraries for xmlsec | https://www.aleksey.com/xmlsec/ |
 | **xmlstarlet** | 1.6.1-8 | Command line XML toolkit | https://xmlstar.sourceforge.net/ |

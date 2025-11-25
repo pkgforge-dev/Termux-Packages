@@ -4615,7 +4615,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.24.348",
+    "Version": "0.24.356",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -7237,13 +7237,13 @@
   },
   {
     "Package": "libneon",
-    "Version": "0.35.0-1",
+    "Version": "0.36.0",
     "Description": "An HTTP/1.1 and WebDAV client library, with a C interface",
     "Homepage": "https://notroj.github.io/neon/"
   },
   {
     "Package": "libneon-static",
-    "Version": "0.35.0-1",
+    "Version": "0.36.0",
     "Description": "Static libraries for libneon",
     "Homepage": "https://notroj.github.io/neon/"
   },
@@ -15799,7 +15799,7 @@
   },
   {
     "Package": "xmake",
-    "Version": "3.0.4",
+    "Version": "3.0.5",
     "Description": "A cross-platform build utility based on Lua",
     "Homepage": "https://xmake.io/"
   },
