@@ -1267,7 +1267,7 @@
   },
   {
     "Package": "ccls",
-    "Version": "0.20250815",
+    "Version": "0.20250815.1",
     "Description": "C/C++/ObjC language server",
     "Homepage": "https://github.com/MaskRay/ccls"
   },
@@ -4597,7 +4597,7 @@
   },
   {
     "Package": "iwyu",
-    "Version": "0.25",
+    "Version": "0.25-1",
     "Description": "A tool to analyze #includes in C and C++ source files",
     "Homepage": "https://include-what-you-use.org/"
   },
@@ -5575,7 +5575,7 @@
   },
   {
     "Package": "libclc",
-    "Version": "21.1.3",
+    "Version": "21.1.3-1",
     "Description": "Open source implementation of the library requirements of the OpenCL C programming language",
     "Homepage": "https://libclc.llvm.org/"
   },
@@ -10015,25 +10015,25 @@
   },
   {
     "Package": "mesa",
-    "Version": "25.3.0",
+    "Version": "25.3.0-1",
     "Description": "An open-source implementation of the OpenGL specification",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-dev",
-    "Version": "25.3.0",
+    "Version": "25.3.0-1",
     "Description": "Mesas OpenGL headers",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-opencl-icd-rusticl",
-    "Version": "25.3.0",
+    "Version": "25.3.0-1",
     "Description": "Mesas Rusticl OpenCL ICD",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-vulkan-icd-swrast",
-    "Version": "25.3.0",
+    "Version": "25.3.0-1",
     "Description": "Mesas Swrast Vulkan ICD",
     "Homepage": "https://www.mesa3d.org"
   },
@@ -13153,7 +13153,7 @@
   },
   {
     "Package": "rust",
-    "Version": "1.91.1",
+    "Version": "1.91.1-1",
     "Description": "Systems programming language focused on safety, speed and concurrency",
     "Homepage": "https://www.rust-lang.org/"
   },
@@ -13171,67 +13171,67 @@
   },
   {
     "Package": "rust-docs",
-    "Version": "1.91.1",
+    "Version": "1.91.1-1",
     "Description": "Rust documentation",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-src",
-    "Version": "1.91.1",
+    "Version": "1.91.1-1",
     "Description": "Rust source code files",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-aarch64-linux-android",
-    "Version": "1.91.1",
+    "Version": "1.91.1-1",
     "Description": "Rust std for target aarch64-linux-android",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-armv7-linux-androideabi",
-    "Version": "1.91.1",
+    "Version": "1.91.1-1",
     "Description": "Rust std for target armv7-linux-androideabi",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-i686-linux-android",
-    "Version": "1.91.1",
+    "Version": "1.91.1-1",
     "Description": "Rust std for target i686-linux-android",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-wasm32-unknown-unknown",
-    "Version": "1.91.1",
+    "Version": "1.91.1-1",
     "Description": "Rust std for target wasm32-unknown-unknown",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-wasm32-wasip1",
-    "Version": "1.91.1",
+    "Version": "1.91.1-1",
     "Description": "Rust std for target wasm32-wasip1",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-wasm32-wasip2",
-    "Version": "1.91.1",
+    "Version": "1.91.1-1",
     "Description": "Rust std for target wasm32-wasip2",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-x86-64-linux-android",
-    "Version": "1.91.1",
+    "Version": "1.91.1-1",
     "Description": "Rust std for target x86_64-linux-android",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rustc-dev",
-    "Version": "1.91.1",
+    "Version": "1.91.1-1",
     "Description": "Rust compiler development libs",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rustc-src",
-    "Version": "1.91.1",
+    "Version": "1.91.1-1",
     "Description": "Rust compiler source code files",
     "Homepage": "https://www.rust-lang.org/"
   },
@@ -13795,7 +13795,7 @@
   },
   {
     "Package": "spirv-llvm-translator",
-    "Version": "21.1.2",
+    "Version": "21.1.2-1",
     "Description": "SPIR-V LLVM Translator",
     "Homepage": "https://github.com/KhronosGroup/SPIRV-LLVM-Translator"
   },
@@ -15211,7 +15211,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.9.11",
+    "Version": "0.9.12",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
