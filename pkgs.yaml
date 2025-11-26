@@ -3007,7 +3007,7 @@
   Description: The internationalization tool collection
   Homepage: https://launchpad.net/intltool
 - Package: inxi
-  Version: 3.3.39-1-0
+  Version: 3.3.40-1-0
   Description: Full featured CLI system information tool
   Homepage: https://smxi.org/site/about.htm#inxi
 - Package: ipcalc
@@ -3079,7 +3079,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.24.356
+  Version: 0.24.360
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -6115,7 +6115,7 @@
   Description: A library that exposes a event API on top of Linux futexes
   Homepage: https://xorg.freedesktop.org/
 - Package: libxslt
-  Version: 1.1.43-3
+  Version: 1.1.44
   Description: XSLT processing library
   Homepage: http://xmlsoft.org/libxslt/
 - Package: libxss
@@ -6215,7 +6215,7 @@
   Description: Fast webserver with minimal memory footprint
   Homepage: https://www.lighttpd.net
 - Package: lilv
-  Version: 0.26.0
+  Version: 0.26.2
   Description: A C library to make the use of LV2 plugins as simple as possible for applications
   Homepage: https://drobilla.net/software/lilv.html
 - Package: lilypond
@@ -7219,7 +7219,7 @@
   Description: Powerful electronic mail handling system
   Homepage: http://www.nongnu.org/nmh/
 - Package: nmon
-  Version: 16q-2
+  Version: 16s
   Description: Curses based Performance Monitor for Linux with saving performance stats to a CSV file mode
   Homepage: https://nmon.sourceforge.net/
 - Package: nnn
@@ -10571,7 +10571,7 @@
   Description: Tool for creating ISO files
   Homepage: https://www.gnu.org/software/xorriso
 - Package: xsltproc
-  Version: 1.1.43-3
+  Version: 1.1.44
   Description: XSLT command line processor
   Homepage: http://xmlsoft.org/libxslt/
 - Package: xtrans
