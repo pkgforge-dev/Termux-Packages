@@ -8471,7 +8471,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 4.11.1
+  Version: 4.11.2
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
@@ -9743,11 +9743,11 @@
   Description: Flexible, screen-oriented MUD client, for use with any type of MUD
   Homepage: https://tinyfugue.sourceforge.net/
 - Package: tinygo
-  Version: 0.39.0
+  Version: 0.39.0-1
   Description: Go compiler for microcontrollers, WASM, CLI tools
   Homepage: https://tinygo.org
 - Package: tinygo-common
-  Version: 0.39.0
+  Version: 0.39.0-1
   Description: TinyGo common files
   Homepage: https://tinygo.org
 - Package: tinyproxy
