@@ -5759,11 +5759,11 @@
   Description: Static libraries for libudfread
   Homepage: https://code.videolan.org/videolan/libudfread/
 - Package: libunbound
-  Version: 1.24.1-1
+  Version: 1.24.2
   Description: A validating, recursive, caching DNS resolver
   Homepage: https://unbound.net/
 - Package: libunbound-static
-  Version: 1.24.1-1
+  Version: 1.24.2
   Description: Static libraries for libunbound
   Homepage: https://unbound.net/
 - Package: libunibilium
@@ -8311,7 +8311,7 @@
   Description: Static libraries for python2
   Homepage: http://python.org/
 - Package: pyunbound
-  Version: 1.24.1-1
+  Version: 1.24.2
   Description: Python bindings for Unbound
   Homepage: https://unbound.net/
 - Package: pzstd
@@ -10023,7 +10023,7 @@
   Description: Command line tools for archive and file unarchiving and extraction
   Homepage: https://theunarchiver.com/command-line
 - Package: unbound
-  Version: 1.24.1-1
+  Version: 1.24.2
   Description: Unbound command-line tools
   Homepage: https://unbound.net/
 - Package: unicode-data

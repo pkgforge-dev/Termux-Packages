@@ -1450,8 +1450,8 @@
 | **libucontext-static** | 1.2-2 | Static libraries for libucontext | https://github.com/kaniini/libucontext |
 | **libudfread** | 1.2.0 | A library for reading UDF | https://code.videolan.org/videolan/libudfread/ |
 | **libudfread-static** | 1.2.0 | Static libraries for libudfread | https://code.videolan.org/videolan/libudfread/ |
-| **libunbound** | 1.24.1-1 | A validating, recursive, caching DNS resolver | https://unbound.net/ |
-| **libunbound-static** | 1.24.1-1 | Static libraries for libunbound | https://unbound.net/ |
+| **libunbound** | 1.24.2 | A validating, recursive, caching DNS resolver | https://unbound.net/ |
+| **libunbound-static** | 1.24.2 | Static libraries for libunbound | https://unbound.net/ |
 | **libunibilium** | 2.1.2-1 | Terminfo parsing library | https://github.com/neovim/unibilium |
 | **libunistring** | 1.3-1 | Library providing functions for manipulating Unicode strings | https://www.gnu.org/software/libunistring/ |
 | **libunistring-static** | 1.3-1 | Static libraries for libunistring | https://www.gnu.org/software/libunistring/ |
@@ -2088,7 +2088,7 @@
 | **python-yt-dlp** | 2025.11.12-1 | A youtube-dl fork with additional features and fixes | https://github.com/yt-dlp/yt-dlp |
 | **python2** | 2.7.18-15 | Python 2 programming language intended to enable clear programs | http://python.org/ |
 | **python2-static** | 2.7.18-15 | Static libraries for python2 | http://python.org/ |
-| **pyunbound** | 1.24.1-1 | Python bindings for Unbound | https://unbound.net/ |
+| **pyunbound** | 1.24.2 | Python bindings for Unbound | https://unbound.net/ |
 | **pzstd** | 1.5.7-1 | A Pigz-like tool for Zstandard | https://github.com/facebook/zstd |
 | **q-dns-client** | 0.19.11 | A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH | https://github.com/natesales/q |
 | **qalc** | 5.8.2 | Powerful and easy to use command line calculator | https://qalculate.github.io/ |
@@ -2516,7 +2516,7 @@
 | **ugit** | 5.9 | ugit helps you undo your last git command with grace. Your damage control git buddy | https://github.com/Bhupesh-V/ugit |
 | **ugrep** | 7.5.0-1 | A faster, user-friendly and compatible grep replacement | https://github.com/Genivia/ugrep |
 | **unar** | 1.10.8-3 | Command line tools for archive and file unarchiving and extraction | https://theunarchiver.com/command-line |
-| **unbound** | 1.24.1-1 | Unbound command-line tools | https://unbound.net/ |
+| **unbound** | 1.24.2 | Unbound command-line tools | https://unbound.net/ |
 | **unicode-data** | 17.0.0 | The Unicode Character Database (UCD) | https://unicode.org/ucd/ |
 | **unicorn** | 2.1.4 | Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework | https://www.unicorn-engine.org/ |
 | **unicorn-static** | 2.1.4 | Static libraries for unicorn | https://www.unicorn-engine.org/ |
