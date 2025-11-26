@@ -1818,8 +1818,8 @@
 | **nmon** | 16s | Curses based Performance Monitor for Linux with saving performance stats to a CSV file mode | https://nmon.sourceforge.net/ |
 | **nnn** | 5.1-2 | Free, fast, friendly file browser | https://github.com/jarun/nnn |
 | **no-more-secrets** | 1.0.1-3 | This project provides a command line tool called nms that recreates the famous data decryption effect | https://github.com/bartobri/no-more-secrets |
-| **nodejs** | 24.9.0-1 | Open Source, cross-platform JavaScript runtime environment | https://nodejs.org/ |
-| **nodejs-lts** | 22.20.0-1 | Open Source, cross-platform JavaScript runtime environment | https://nodejs.org/ |
+| **nodejs** | 24.11.1 | Open Source, cross-platform JavaScript runtime environment | https://nodejs.org/ |
+| **nodejs-lts** | 22.21.1 | Open Source, cross-platform JavaScript runtime environment | https://nodejs.org/ |
 | **notcurses** | 3.0.17-1 | blingful TUIs and character graphics | https://notcurses.com/ |
 | **notcurses-data** | 3.0.17-1 | Platform-independent data for notcurses | https://notcurses.com/ |
 | **notcurses-tools** | 3.0.17-1 | Tools and demos for notcurses | https://notcurses.com/ |
