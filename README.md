@@ -548,7 +548,7 @@
 | **geckodriver** | 0.36.0-1 | Proxy for using W3C WebDriver-compatible clients to interact with Gecko-based browsers | https://github.com/mozilla/geckodriver |
 | **gecode** | 6.2.0-1 | Generic Constraint Development Environment | https://github.com/Gecode/gecode |
 | **gecode-static** | 6.2.0-1 | Static libraries for gecode | https://github.com/Gecode/gecode |
-| **gegl** | 0.4.64-2 | Data flow based image processing framework | https://gegl.org/ |
+| **gegl** | 0.4.64-3 | Data flow based image processing framework | https://gegl.org/ |
 | **gengetopt** | 2.23-4 | gengetopt is a tool to write command line option parsing code for C programs | https://www.gnu.org/software/gengetopt/ |
 | **geographiclib** | 2.7 | Utilities and C++ library to solve some geodesic problems | https://geographiclib.sourceforge.io |
 | **geoip2-database** | 20191221-2 | GeoLite2 IP geolocation databases compiled by MaxMind | https://dev.maxmind.com/geoip/geoip2/geolite2/ |
@@ -781,8 +781,8 @@
 | **jack-example-tools** | 4-1 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-2 | The JACK low-latency audio server | https://jackaudio.org/ |
 | **jackett** | 0.24.361 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
-| **jadx** | 1.5.3 | Dex to Java decompiler | https://github.com/skylot/jadx |
-| **jadx-x** | 1.5.3 | Dex to Java decompiler GUI | https://github.com/skylot/jadx |
+| **jadx** | 1.5.3-1 | Dex to Java decompiler | https://github.com/skylot/jadx |
+| **jadx-x** | 1.5.3-1 | Dex to Java decompiler GUI | https://github.com/skylot/jadx |
 | **janet** | 1.40.1 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
 | **jbig2dec** | 0.20-1 | Decoder implementation of the JBIG2 image compression format | https://jbig2dec.com/ |
 | **jbig2dec-static** | 0.20-1 | Static libraries for jbig2dec | https://jbig2dec.com/ |
@@ -1124,8 +1124,8 @@
 | **libjpeg-turbo** | 3.1.2 | Library for reading and writing JPEG image files | https://libjpeg-turbo.virtualgl.org |
 | **libjpeg-turbo-progs** | 3.1.2 | Programs for manipulating JPEG files | https://libjpeg-turbo.virtualgl.org |
 | **libjpeg-turbo-static** | 3.1.2 | Static libraries for libjpeg-turbo | https://libjpeg-turbo.virtualgl.org |
-| **libjxl** | 0.11.1-5 | JPEG XL image format reference implementation | https://jpegxl.info/ |
-| **libjxl-progs** | 0.11.1-5 | Programs for manipulating JPEG XL files | https://jpegxl.info/ |
+| **libjxl** | 0.11.1-6 | JPEG XL image format reference implementation | https://jpegxl.info/ |
+| **libjxl-progs** | 0.11.1-6 | Programs for manipulating JPEG XL files | https://jpegxl.info/ |
 | **libkiwix** | 14.1.0-1 | A library that contains a lot of things used by other kiwix programs | https://github.com/kiwix/libkiwix |
 | **libknot** | 3.2.4-2 | Knot DNS libraries | https://www.knot-dns.cz/ |
 | **libknot-static** | 3.2.4-2 | Static libraries for libknot | https://www.knot-dns.cz/ |
@@ -1472,7 +1472,7 @@
 | **libvbisam-static** | 2.0-3 | Static libraries for libvbisam | https://sourceforge.net/projects/vbisam/ |
 | **libvidstab** | 1.1.1-3 | video stabilization library | https://github.com/georgmartius/vid.stab |
 | **libvigra** | 1.12.2-4 | Computer vision library | https://ukoethe.github.io/vigra/ |
-| **libvips** | 8.17.3 | A fast image processing library with low memory needs | https://libvips.github.io/libvips/ |
+| **libvips** | 8.17.3-1 | A fast image processing library with low memory needs | https://libvips.github.io/libvips/ |
 | **libvmaf** | 3.0.0-2 | A perceptual video quality assessment algorithm developed by Netflix | https://github.com/Netflix/vmaf |
 | **libvmaf-static** | 3.0.0-2 | Static libraries for libvmaf | https://github.com/Netflix/vmaf |
 | **libvo-amrwbenc** | 0.1.3-2 | VisualOn AMR-WB encoder library | https://sourceforge.net/projects/opencore-amr/ |
@@ -2020,7 +2020,7 @@
 | **progress** | 0.17-1 | Linux tool to show progress for cp, mv, dd and more | https://github.com/Xfennec/progress |
 | **proj** | 9.7.0 | Generic coordinate transformation software | https://proj.org |
 | **proot** | 5.1.107-67 | Emulate chroot, bind mount and binfmt_misc for non-root users | https://proot-me.github.io/ |
-| **proot-distro** | 4.33.2 | Termux official utility for managing proot'ed Linux distributions | https://github.com/termux/proot-distro |
+| **proot-distro** | 4.34.0 | Termux official utility for managing proot'ed Linux distributions | https://github.com/termux/proot-distro |
 | **protobuf** | 2:33.1 | Compiler for protocol buffer definition files | https://github.com/protocolbuffers/protobuf |
 | **protobuf-dev** | 2:33.1 | CMake files for protobuf shared libraries | https://github.com/protocolbuffers/protobuf |
 | **protobuf-static** | 33.1 | Protocol buffers C++ library (static) | https://github.com/protocolbuffers/protobuf |

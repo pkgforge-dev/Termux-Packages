@@ -2151,7 +2151,7 @@
   Description: Static libraries for gecode
   Homepage: https://github.com/Gecode/gecode
 - Package: gegl
-  Version: 0.4.64-2
+  Version: 0.4.64-3
   Description: Data flow based image processing framework
   Homepage: https://gegl.org/
 - Package: gengetopt
@@ -3083,11 +3083,11 @@
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
-  Version: 1.5.3
+  Version: 1.5.3-1
   Description: Dex to Java decompiler
   Homepage: https://github.com/skylot/jadx
 - Package: jadx-x
-  Version: 1.5.3
+  Version: 1.5.3-1
   Description: Dex to Java decompiler GUI
   Homepage: https://github.com/skylot/jadx
 - Package: janet
@@ -4455,11 +4455,11 @@
   Description: Static libraries for libjpeg-turbo
   Homepage: https://libjpeg-turbo.virtualgl.org
 - Package: libjxl
-  Version: 0.11.1-5
+  Version: 0.11.1-6
   Description: JPEG XL image format reference implementation
   Homepage: https://jpegxl.info/
 - Package: libjxl-progs
-  Version: 0.11.1-5
+  Version: 0.11.1-6
   Description: Programs for manipulating JPEG XL files
   Homepage: https://jpegxl.info/
 - Package: libkiwix
@@ -5847,7 +5847,7 @@
   Description: Computer vision library
   Homepage: https://ukoethe.github.io/vigra/
 - Package: libvips
-  Version: 8.17.3
+  Version: 8.17.3-1
   Description: A fast image processing library with low memory needs
   Homepage: https://libvips.github.io/libvips/
 - Package: libvmaf
@@ -8039,7 +8039,7 @@
   Description: Emulate chroot, bind mount and binfmt_misc for non-root users
   Homepage: https://proot-me.github.io/
 - Package: proot-distro
-  Version: 4.33.2
+  Version: 4.34.0
   Description: Termux official utility for managing prooted Linux distributions
   Homepage: https://github.com/termux/proot-distro
 - Package: protobuf
