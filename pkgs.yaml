@@ -3079,7 +3079,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.24.360
+  Version: 0.24.361
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -3291,7 +3291,7 @@
   Description: A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication
   Homepage: https://github.com/int128/kubelogin
 - Package: kubo
-  Version: 0.38.2
+  Version: 0.39.0
   Description: A peer-to-peer hypermedia distribution protocol
   Homepage: https://ipfs.io/
 - Package: ladspa-sdk
@@ -3563,7 +3563,7 @@
   Description: Static libraries for libatomic-ops
   Homepage: https://github.com/bdwgc/libatomic_ops
 - Package: libbcprov-java
-  Version: "1.82"
+  Version: "1.83"
   Description: A lightweight cryptography API for Java
   Homepage: https://www.bouncycastle.org/java.html
 - Package: libblkid
@@ -9775,7 +9775,7 @@
   Description: Terminal multiplexer with instant terminal sharing
   Homepage: https://tmate.io
 - Package: tmux
-  Version: "3.6"
+  Version: 3.6-1
   Description: Terminal multiplexer
   Homepage: https://tmux.github.io/
 - Package: toilet
