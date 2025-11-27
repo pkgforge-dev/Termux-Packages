@@ -1167,7 +1167,7 @@
   Description: A set of utilities for working with Cue Sheet (cue) and Table of Contents (toc) files
   Homepage: https://github.com/svend/cuetools
 - Package: cups
-  Version: 2.4.14
+  Version: 2.4.15
   Description: Common UNIX Printing System
   Homepage: https://www.cups.org/
 - Package: cups-pdf
@@ -1175,7 +1175,7 @@
   Description: CUPS PDF backend
   Homepage: https://www.cups-pdf.de/
 - Package: cups-static
-  Version: 2.4.14
+  Version: 2.4.15
   Description: Static libraries for cups
   Homepage: https://www.cups.org/
 - Package: curl
@@ -1663,7 +1663,7 @@
   Description: Full-Featured Text WWW Browser
   Homepage: https://github.com/rkd77/elinks
 - Package: elixir
-  Version: 1.19.3
+  Version: 1.19.4
   Description: Elixir is a dynamic, functional language designed for building scalable and maintainable applications
   Homepage: https://elixir-lang.org/
 - Package: eltclsh
@@ -3167,7 +3167,7 @@
   Description: Command-line JSON processor
   Homepage: https://stedolan.github.io/jq/
 - Package: jq-lsp
-  Version: 0.1.14
+  Version: 0.1.15
   Description: jq language server
   Homepage: https://github.com/wader/jq-lsp
 - Package: jq-static
@@ -9859,7 +9859,7 @@
   Description: A metapackage that provides commonly used treesitter parsers
   Homepage: https://github.com/termux/termux-packages
 - Package: tree-sitter-query
-  Version: 0.7.0-1
+  Version: 0.8.0
   Description: TS query grammar for tree-sitter
   Homepage: https://github.com/tree-sitter-grammars/tree-sitter-query
 - Package: tree-sitter-static
