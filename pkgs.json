@@ -1249,7 +1249,7 @@
   },
   {
     "Package": "ccache",
-    "Version": "4.12.1",
+    "Version": "4.12.2",
     "Description": "Compiler cache for fast recompilation of C/C++ code",
     "Homepage": "https://ccache.samba.org"
   },
@@ -1351,7 +1351,7 @@
   },
   {
     "Package": "chezmoi",
-    "Version": "2.67.0",
+    "Version": "2.67.1",
     "Description": "Manage your dotfiles across multiple machines",
     "Homepage": "https://chezmoi.io"
   },
@@ -4045,7 +4045,7 @@
   },
   {
     "Package": "haproxy",
-    "Version": "3.2.9",
+    "Version": "3.3.0",
     "Description": "The Reliable, High Performance TCP/HTTP Load Balancer",
     "Homepage": "https://www.haproxy.org/"
   },
@@ -4123,7 +4123,7 @@
   },
   {
     "Package": "helm-ls",
-    "Version": "0.5.3",
+    "Version": "0.5.4",
     "Description": "Language server for Helm",
     "Homepage": "https://github.com/mrjosh/helm-ls"
   },
@@ -11719,7 +11719,7 @@
   },
   {
     "Package": "php-imagick",
-    "Version": "3.8.0-1",
+    "Version": "3.8.1",
     "Description": "The Imagick PHP extension",
     "Homepage": "https://github.com/Imagick/imagick"
   },

@@ -206,7 +206,7 @@
  cboard  0.7.5-5  PGN browser, editor and chess engine frontend  https://benkibbey.wordpress.com/cboard/ 
  cbonsai  1.4.2-1  Grow bonsai trees in your terminal  https://gitlab.com/jallbrit/cbonsai 
  cc65  2.19-1  A free compiler for 6502 based system  https://cc65.github.io/ 
- ccache  4.12.1  Compiler cache for fast recompilation of C/C++ code  https://ccache.samba.org 
+ ccache  4.12.2  Compiler cache for fast recompilation of C/C++ code  https://ccache.samba.org 
  cccc  3.2.0-1  Source code counter and metrics tool for C++, C, and Java  https://sarnold.github.io/cccc/ 
  ccextractor  0.94-6  A tool used to produce subtitles for TV recordings  https://ccextractor.org/ 
  ccls  0.20250815.1  C/C++/ObjC language server  https://github.com/MaskRay/ccls 
@@ -223,7 +223,7 @@
  chafa-static  1.18.0-1  Static libraries for chafa  https://hpjansson.org/chafa/ 
  check  0.15.2-3  A unit testing framework for C  https://libcheck.github.io/check 
  check-static  0.15.2-3  Static libraries for check  https://libcheck.github.io/check 
- chezmoi  2.67.0  Manage your dotfiles across multiple machines  https://chezmoi.io 
+ chezmoi  2.67.1  Manage your dotfiles across multiple machines  https://chezmoi.io 
  chicken  5.4.0-2  A feature rich Scheme compiler and interpreter  https://www.call-cc.org 
  chicken-static  5.4.0-2  Static libraries for chicken  https://www.call-cc.org 
  chntpw  140201  Offline Windows NT Password & Registry Editor  https://pogostick.net/~pnh/ntpasswd/ 
@@ -672,7 +672,7 @@
  gumbo-parser  0.10.1-1  An HTML5 parsing library  https://github.com/google/gumbo-parser 
  gumbo-parser-static  0.10.1-1  Static libraries for gumbo-parser  https://github.com/google/gumbo-parser 
  gzip  1.14-1  Standard GNU file compression utilities  https://www.gnu.org/software/gzip/ 
- haproxy  3.2.9  The Reliable, High Performance TCP/HTTP Load Balancer  https://www.haproxy.org/ 
+ haproxy  3.3.0  The Reliable, High Performance TCP/HTTP Load Balancer  https://www.haproxy.org/ 
  harfbuzz  12.2.0-2  OpenType text shaping engine  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
  harfbuzz-icu  12.2.0-2  OpenType text shaping engine ICU backend  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
  harfbuzz-utils  12.2.0-2  Tools using the harfbuzz library  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
@@ -685,7 +685,7 @@
  helix-grammars  25.07.1-1  Helix grammars  https://helix-editor.com/ 
  hello  2.12.2  Prints a friendly greeting  https://www.gnu.org/software/hello/ 
  helm  4.0.1  Helm helps you manage Kubernetes applications  https://helm.sh 
- helm-ls  0.5.3  Language server for Helm  https://github.com/mrjosh/helm-ls 
+ helm-ls  0.5.4  Language server for Helm  https://github.com/mrjosh/helm-ls 
  help2man  1.49.3  Conversion tool to create man files  https://www.gnu.org/software/help2man/ 
  hexcurse  1.60.0-7  Console hexeditor  https://github.com/LonnyGomes/hexcurse 
  hexedit  1.6-1  view and edit files in hexadecimal or in ASCII  http://rigaux.org/hexedit.html 
@@ -1951,7 +1951,7 @@
  php-apcu  5.1.27  APCu - APC User Cache  http://php.net/apcu 
  php-fpm  8.4.2-4  FastCGI Process Manager for PHP  https://php.net 
  php-gd  8.4.2-4  gd module for PHP  https://php.net 
- php-imagick  3.8.0-1  The Imagick PHP extension  https://github.com/Imagick/imagick 
+ php-imagick  3.8.1  The Imagick PHP extension  https://github.com/Imagick/imagick 
  php-ldap  8.4.2-4  LDAP module for PHP  https://php.net 
  php-pgsql  8.4.2-4  PostgreSQL modules for PHP  https://php.net 
  php-psr  1.2.0-4  PHP extension providing the accepted PSR interfaces  https://github.com/jbboehr/php-psr 
