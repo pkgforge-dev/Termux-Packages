@@ -6971,7 +6971,7 @@
   Description: Video game for color and monochrome text terminals in the genre of Namcos Pac-Man
   Homepage: https://sourceforge.net/projects/myman/
 - Package: mympd
-  Version: 23.0.0
+  Version: 23.0.1
   Description: A standalone and lightweight web-based MPD client
   Homepage: https://jcorporation.github.io/myMPD/
 - Package: mypaint-brushes
@@ -8967,7 +8967,7 @@
   Description: Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server
   Homepage: https://sftpgo.com/
 - Package: shaderc
-  Version: 2025.4-2
+  Version: "2025.5"
   Description: Collection of tools, libraries, and tests for Vulkan shader compilation
   Homepage: https://github.com/google/shaderc
 - Package: sharutils
@@ -10291,7 +10291,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2025.11.13-1
+  Version: 2025.11.26
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vttest
@@ -10307,7 +10307,7 @@
   Description: Vulkan Extension Layer
   Homepage: https://github.com/KhronosGroup/Vulkan-ExtensionLayer
 - Package: vulkan-headers
-  Version: 1.4.334
+  Version: 1.4.335
   Description: Vulkan Header files and API registry
   Homepage: https://github.com/KhronosGroup/Vulkan-Headers
 - Package: vulkan-icd
