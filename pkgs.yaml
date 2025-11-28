@@ -10091,11 +10091,11 @@
   Description: the Ultimate Packer for eXecutables
   Homepage: https://upx.github.io/
 - Package: urdfdom
-  Version: 5.0.2-1
+  Version: 5.0.3
   Description: Unified Robot Description Format (URDF) parser library and tools
   Homepage: https://github.com/ros/urdfdom
 - Package: urdfdom-headers
-  Version: 1.1.2
+  Version: 2.0.1
   Description: Headers for URDF parsers
   Homepage: https://github.com/ros/urdfdom_headers
 - Package: usql

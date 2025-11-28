@@ -2533,8 +2533,8 @@
 | **update-info-dir** | 7.2-4 | Update or create index file from all installed info files in directory | https://www.gnu.org/software/texinfo/ |
 | **upower** | 1.91.0 | Power management support for DeviceKit | https://upower.freedesktop.org/ |
 | **upx** | 5.0.2-1 | the Ultimate Packer for eXecutables | https://upx.github.io/ |
-| **urdfdom** | 5.0.2-1 | Unified Robot Description Format (URDF) parser library and tools | https://github.com/ros/urdfdom |
-| **urdfdom-headers** | 1.1.2 | Headers for URDF parsers | https://github.com/ros/urdfdom_headers |
+| **urdfdom** | 5.0.3 | Unified Robot Description Format (URDF) parser library and tools | https://github.com/ros/urdfdom |
+| **urdfdom-headers** | 2.0.1 | Headers for URDF parsers | https://github.com/ros/urdfdom_headers |
 | **usql** | 0.19.26 | A universal command-line interface for SQL databases | https://github.com/xo/usql |
 | **utf8cpp** | 4.0.8 | UTF8-CPP: UTF-8 with C++ in a Portable Way | https://github.com/nemtrif/utfcpp |
 | **utf8proc** | 2.11.2 | Library for processing UTF-8 Unicode data | https://github.com/JuliaLang/utf8proc |
