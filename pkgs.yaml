@@ -3555,11 +3555,11 @@
   Description: Static libraries for libassuan
   Homepage: https://www.gnupg.org/related_software/libassuan/
 - Package: libatomic-ops
-  Version: 7.8.4
+  Version: 7.10.0
   Description: Provides semi-portable access to hardware-provided atomic memory update operations
   Homepage: https://github.com/bdwgc/libatomic_ops
 - Package: libatomic-ops-static
-  Version: 7.8.4
+  Version: 7.10.0
   Description: Static libraries for libatomic-ops
   Homepage: https://github.com/bdwgc/libatomic_ops
 - Package: libbcprov-java
@@ -10323,7 +10323,7 @@
   Description: Vulkan Loader for Android
   Homepage: https://source.android.com/devices/graphics/arch-vulkan
 - Package: vulkan-loader-generic
-  Version: 1.4.334
+  Version: 1.4.335
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
@@ -10331,11 +10331,11 @@
   Description: Vulkan Tools and Utilities
   Homepage: https://github.com/KhronosGroup/Vulkan-Tools
 - Package: vulkan-utility-libraries
-  Version: 1.4.334
+  Version: 1.4.335
   Description: Utility Libraries for Vulkan
   Homepage: https://github.com/KhronosGroup/Vulkan-Utility-Libraries
 - Package: vulkan-validation-layers
-  Version: 1.4.334
+  Version: 1.4.335
   Description: Vulkan Validation Layers
   Homepage: https://github.com/KhronosGroup/Vulkan-ValidationLayers
 - Package: vulkan-volk

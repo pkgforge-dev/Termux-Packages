@@ -887,8 +887,8 @@
 | **libass-static** | 0.17.4-1 | Static libraries for libass | https://github.com/libass/libass |
 | **libassuan** | 3.0.2-1 | Library implementing the Assuan IPC protocol used between most newer GnuPG components | https://www.gnupg.org/related_software/libassuan/ |
 | **libassuan-static** | 3.0.2-1 | Static libraries for libassuan | https://www.gnupg.org/related_software/libassuan/ |
-| **libatomic-ops** | 7.8.4 | Provides semi-portable access to hardware-provided atomic memory update operations | https://github.com/bdwgc/libatomic_ops |
-| **libatomic-ops-static** | 7.8.4 | Static libraries for libatomic-ops | https://github.com/bdwgc/libatomic_ops |
+| **libatomic-ops** | 7.10.0 | Provides semi-portable access to hardware-provided atomic memory update operations | https://github.com/bdwgc/libatomic_ops |
+| **libatomic-ops-static** | 7.10.0 | Static libraries for libatomic-ops | https://github.com/bdwgc/libatomic_ops |
 | **libbcprov-java** | 1.83 | A lightweight cryptography API for Java | https://www.bouncycastle.org/java.html |
 | **libblkid** | 2.41.2 | Block device identification library | https://en.wikipedia.org/wiki/Util-linux |
 | **libblocksruntime** | 1:6.2.1 | LLVM Blocks runtime library | https://github.com/swiftlang/swift-corelibs-libdispatch |
@@ -2579,10 +2579,10 @@
 | **vulkan-icd** | 0.1 | A metapackage that provides Vulkan ICDs | https://github.com/termux/termux-packages |
 | **vulkan-loader** | 0.0.3 | A metapackage that provides vulkan loader library | https://github.com/termux/termux-packages |
 | **vulkan-loader-android** | 28c-2 | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
-| **vulkan-loader-generic** | 1.4.334 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
+| **vulkan-loader-generic** | 1.4.335 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
 | **vulkan-tools** | 1.4.334 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
-| **vulkan-utility-libraries** | 1.4.334 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
-| **vulkan-validation-layers** | 1.4.334 | Vulkan Validation Layers | https://github.com/KhronosGroup/Vulkan-ValidationLayers |
+| **vulkan-utility-libraries** | 1.4.335 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
+| **vulkan-validation-layers** | 1.4.335 | Vulkan Validation Layers | https://github.com/KhronosGroup/Vulkan-ValidationLayers |
 | **vulkan-volk** | 1.4.304 | Meta loader for Vulkan API | https://github.com/zeux/volk |
 | **w3m** | 0.5.5 | Text based Web browser and pager | https://w3m.sourceforge.net/ |
 | **w3m-img** | 0.5.5 | Inline image extension support utilities for w3m | https://w3m.sourceforge.net/ |
