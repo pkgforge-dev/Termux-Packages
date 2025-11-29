@@ -1071,7 +1071,7 @@
   Description: An extractor/converter for .LIT eBooks
   Homepage: http://www.convertlit.com/
 - Package: cookcli
-  Version: 0.18.2
+  Version: 0.19.0
   Description: A suite of tools to create shopping lists and maintain food recipes
   Homepage: https://cooklang.org
 - Package: coreutils
@@ -3459,7 +3459,7 @@
   Description: Static libraries for libandroid-spawn
   Homepage: https://man7.org/linux/man-pages/man3/posix_spawn.3.html
 - Package: libandroid-stub
-  Version: 28c
+  Version: "29"
   Description: Stub libandroid.so for non-Android certified environment
   Homepage: https://android.googlesource.com/platform/frameworks/base/+/main/native/android
 - Package: libandroid-support
@@ -3627,7 +3627,7 @@
   Description: BZ2 format compression library
   Homepage: http://www.bzip.org/
 - Package: libc++
-  Version: 28c-1
+  Version: "29"
   Description: C++ Standard Library
   Homepage: https://libcxx.llvm.org/
 - Package: libc++utilities
@@ -5507,15 +5507,15 @@
   Description: Static libraries for libspice-server
   Homepage: https://www.spice-space.org/
 - Package: libsqlite
-  Version: 3.51.0
+  Version: 3.51.1
   Description: Library implementing a self-contained and transactional SQL database engine
   Homepage: https://www.sqlite.org
 - Package: libsqlite-static
-  Version: 3.51.0
+  Version: 3.51.1
   Description: Static libraries for libsqlite
   Homepage: https://www.sqlite.org
 - Package: libsqlite-tcl
-  Version: 3.51.0
+  Version: 3.51.1
   Description: tcl bindings for SQLite
   Homepage: https://www.sqlite.org
 - Package: libsrt
@@ -7075,19 +7075,19 @@
   Description: Tools for working with terminals
   Homepage: https://invisible-island.net/ncurses/
 - Package: ndk-multilib
-  Version: 28c-3
+  Version: "29"
   Description: Multilib binaries for cross-compilation
   Homepage: https://developer.android.com/tools/sdk/ndk/index.html
 - Package: ndk-multilib-native-static
-  Version: 28c-3
+  Version: "29"
   Description: Install native static libs from NDK
   Homepage: https://developer.android.com/tools/sdk/ndk/index.html
 - Package: ndk-multilib-native-stubs
-  Version: 28c-3
+  Version: "29"
   Description: Install native stubs for shared libs from NDK
   Homepage: https://developer.android.com/tools/sdk/ndk/index.html
 - Package: ndk-sysroot
-  Version: 28c-1
+  Version: "29"
   Description: System header and library files from the Android NDK needed for compiling C programs
   Homepage: https://developer.android.com/tools/sdk/ndk/index.html
 - Package: ne
@@ -8039,7 +8039,7 @@
   Description: Emulate chroot, bind mount and binfmt_misc for non-root users
   Homepage: https://proot-me.github.io/
 - Package: proot-distro
-  Version: 4.34.0
+  Version: 4.34.1
   Description: Termux official utility for managing prooted Linux distributions
   Homepage: https://github.com/termux/proot-distro
 - Package: protobuf
@@ -8243,7 +8243,7 @@
   Description: Python client for Neovim
   Homepage: https://github.com/neovim/pynvim
 - Package: python-ruff
-  Version: 0.14.6
+  Version: 0.14.7
   Description: An extremely fast Python linter, written in Rust (Python bindings)
   Homepage: https://github.com/charliermarsh/ruff
 - Package: python-sabyenc3
@@ -8471,7 +8471,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 4.11.2
+  Version: 4.12.0
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
@@ -8751,7 +8751,7 @@
   Description: Ruby documentation index
   Homepage: https://www.ruby-lang.org/
 - Package: ruff
-  Version: 0.14.6
+  Version: 0.14.7
   Description: An extremely fast Python linter, written in Rust
   Homepage: https://github.com/charliermarsh/ruff
 - Package: runit
@@ -9211,7 +9211,7 @@
   Description: Static libraries for sqlcipher
   Homepage: https://github.com/sqlcipher/sqlcipher
 - Package: sqlite
-  Version: 3.51.0
+  Version: 3.51.1
   Description: Command line shell for SQLite
   Homepage: https://www.sqlite.org
 - Package: squashfs-tools-ng
@@ -9795,7 +9795,7 @@
   Description: toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library
   Homepage: https://github.com/ToruNiina/toml11
 - Package: topgrade
-  Version: 16.5.0
+  Version: 16.6.0
   Description: Upgrade all the things
   Homepage: https://github.com/topgrade-rs/topgrade/
 - Package: tor
@@ -10319,7 +10319,7 @@
   Description: A metapackage that provides vulkan loader library
   Homepage: https://github.com/termux/termux-packages
 - Package: vulkan-loader-android
-  Version: 28c-2
+  Version: "29"
   Description: Vulkan Loader for Android
   Homepage: https://source.android.com/devices/graphics/arch-vulkan
 - Package: vulkan-loader-generic
