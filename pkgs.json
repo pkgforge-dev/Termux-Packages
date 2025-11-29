@@ -11263,19 +11263,19 @@
   },
   {
     "Package": "openssl",
-    "Version": "1:3.5.2",
+    "Version": "1:3.6.0",
     "Description": "Library implementing the SSL and TLS protocols as well as general purpose cryptography functions",
     "Homepage": "https://www.openssl.org/"
   },
   {
     "Package": "openssl-static",
-    "Version": "1:3.5.2",
+    "Version": "1:3.6.0",
     "Description": "Static libraries for openssl",
     "Homepage": "https://www.openssl.org/"
   },
   {
     "Package": "openssl-tool",
-    "Version": "1:3.5.2",
+    "Version": "1:3.6.0",
     "Description": "The openssl command line cryptographic tool",
     "Homepage": "https://www.openssl.org/"
   },
