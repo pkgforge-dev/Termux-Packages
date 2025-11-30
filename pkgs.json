@@ -7093,7 +7093,7 @@
   },
   {
     "Package": "libmosquitto",
-    "Version": "2.0.22-2",
+    "Version": "2.0.22-3",
     "Description": "MQTT library",
     "Homepage": "https://mosquitto.org/"
   },
@@ -8893,7 +8893,7 @@
   },
   {
     "Package": "libwebsockets",
-    "Version": "4.4.1-1",
+    "Version": "4.5.0",
     "Description": "Lightweight C websockets library",
     "Homepage": "https://libwebsockets.org"
   },
@@ -10273,7 +10273,7 @@
   },
   {
     "Package": "mosquitto",
-    "Version": "2.0.22-2",
+    "Version": "2.0.22-3",
     "Description": "MQTT version 3.1/3.1.1 compatible message broker and clients",
     "Homepage": "https://mosquitto.org/"
   },
@@ -13363,13 +13363,13 @@
   },
   {
     "Package": "seafile-client",
-    "Version": "9.0.15",
+    "Version": "9.0.15-1",
     "Description": "Seafile is a file syncing and sharing software with file encryption and group sharing",
     "Homepage": "https://seafile.com"
   },
   {
     "Package": "seafile-client-static",
-    "Version": "9.0.15",
+    "Version": "9.0.15-1",
     "Description": "Static libraries for seafile-client",
     "Homepage": "https://seafile.com"
   },
@@ -14917,7 +14917,7 @@
   },
   {
     "Package": "ttyd",
-    "Version": "1.7.7-2",
+    "Version": "1.7.7-3",
     "Description": "Command-line tool for sharing terminal over the web",
     "Homepage": "https://tsl0922.github.io/ttyd/"
   },
