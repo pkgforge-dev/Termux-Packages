@@ -1189,7 +1189,7 @@
   },
   {
     "Package": "cargo-leptos",
-    "Version": "0.3.0",
+    "Version": "0.3.0-1",
     "Description": "Build tool for the Rust framework Leptos",
     "Homepage": "https://github.com/leptos-rs/cargo-leptos"
   },
@@ -2431,7 +2431,7 @@
   },
   {
     "Package": "ed",
-    "Version": "1.22.2-1",
+    "Version": "1.22.3",
     "Description": "Classic UNIX line editor",
     "Homepage": "https://www.gnu.org/software/ed/"
   },
@@ -10231,7 +10231,7 @@
   },
   {
     "Package": "moor",
-    "Version": "2.9.2",
+    "Version": "2.9.3",
     "Description": "A pager designed to just do the right thing without any configuration",
     "Homepage": "https://github.com/walles/moor"
   },
@@ -12061,7 +12061,7 @@
   },
   {
     "Package": "proot-distro",
-    "Version": "4.34.1",
+    "Version": "4.34.2",
     "Description": "Termux official utility for managing prooted Linux distributions",
     "Homepage": "https://github.com/termux/proot-distro"
   },
