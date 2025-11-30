@@ -4435,13 +4435,13 @@
   },
   {
     "Package": "imagemagick",
-    "Version": "7.1.2.8-1",
+    "Version": "7.1.2.9",
     "Description": "Suite to create, edit, compose, or convert images in a variety of formats",
     "Homepage": "https://www.imagemagick.org/"
   },
   {
     "Package": "imagemagick-static",
-    "Version": "7.1.2.8-1",
+    "Version": "7.1.2.9",
     "Description": "Static libraries for imagemagick",
     "Homepage": "https://www.imagemagick.org/"
   },
@@ -6697,7 +6697,7 @@
   },
   {
     "Package": "libkiwix",
-    "Version": "14.1.0-1",
+    "Version": "14.1.1",
     "Description": "A library that contains a lot of things used by other kiwix programs",
     "Homepage": "https://github.com/kiwix/libkiwix"
   },
@@ -9175,7 +9175,7 @@
   },
   {
     "Package": "libxslt",
-    "Version": "1.1.44",
+    "Version": "1.1.45",
     "Description": "XSLT processing library",
     "Homepage": "http://xmlsoft.org/libxslt/"
   },
@@ -12919,7 +12919,7 @@
   },
   {
     "Package": "restish",
-    "Version": "0.21.0-1",
+    "Version": "0.21.0-cifix-0",
     "Description": "A CLI for interacting with REST-ish HTTP APIs",
     "Homepage": "https://github.com/danielgtaylor/restish"
   },
@@ -13909,7 +13909,7 @@
   },
   {
     "Package": "sslscan",
-    "Version": "2.2.0-1",
+    "Version": "2.2.1",
     "Description": "Utility to discover supported cipher suites on SSL/TLS enabled servers",
     "Homepage": "https://github.com/rbsec/sslscan"
   },
@@ -15859,7 +15859,7 @@
   },
   {
     "Package": "xsltproc",
-    "Version": "1.1.44",
+    "Version": "1.1.45",
     "Description": "XSLT command line processor",
     "Homepage": "http://xmlsoft.org/libxslt/"
   },

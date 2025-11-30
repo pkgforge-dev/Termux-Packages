@@ -2955,11 +2955,11 @@
   Description: A command line id3v2 tag editor
   Homepage: https://id3v2.sourceforge.net/
 - Package: imagemagick
-  Version: 7.1.2.8-1
+  Version: 7.1.2.9
   Description: Suite to create, edit, compose, or convert images in a variety of formats
   Homepage: https://www.imagemagick.org/
 - Package: imagemagick-static
-  Version: 7.1.2.8-1
+  Version: 7.1.2.9
   Description: Static libraries for imagemagick
   Homepage: https://www.imagemagick.org/
 - Package: imath
@@ -4463,7 +4463,7 @@
   Description: Programs for manipulating JPEG XL files
   Homepage: https://jpegxl.info/
 - Package: libkiwix
-  Version: 14.1.0-1
+  Version: 14.1.1
   Description: A library that contains a lot of things used by other kiwix programs
   Homepage: https://github.com/kiwix/libkiwix
 - Package: libknot
@@ -6115,7 +6115,7 @@
   Description: A library that exposes a event API on top of Linux futexes
   Homepage: https://xorg.freedesktop.org/
 - Package: libxslt
-  Version: 1.1.44
+  Version: 1.1.45
   Description: XSLT processing library
   Homepage: http://xmlsoft.org/libxslt/
 - Package: libxss
@@ -8611,7 +8611,7 @@
   Description: Restics REST backend API server
   Homepage: https://restic.net/
 - Package: restish
-  Version: 0.21.0-1
+  Version: 0.21.0-cifix-0
   Description: A CLI for interacting with REST-ish HTTP APIs
   Homepage: https://github.com/danielgtaylor/restish
 - Package: rgbds
@@ -9271,7 +9271,7 @@
   Description: measure character-echo latency and bandwidth for an interactive ssh session
   Homepage: https://github.com/spook/sshping
 - Package: sslscan
-  Version: 2.2.0-1
+  Version: 2.2.1
   Description: Utility to discover supported cipher suites on SSL/TLS enabled servers
   Homepage: https://github.com/rbsec/sslscan
 - Package: sssnake
@@ -10571,7 +10571,7 @@
   Description: Tool for creating ISO files
   Homepage: https://www.gnu.org/software/xorriso
 - Package: xsltproc
-  Version: 1.1.44
+  Version: 1.1.45
   Description: XSLT command line processor
   Homepage: http://xmlsoft.org/libxslt/
 - Package: xtrans
