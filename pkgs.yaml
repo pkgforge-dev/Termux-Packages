@@ -7571,15 +7571,15 @@
   Description: Open Virtual Machine Firmware
   Homepage: https://www.tianocore.org/
 - Package: oxc-language-server
-  Version: 1.30.0
+  Version: 1.31.0
   Description: Oxc JavaScript linter language server
   Homepage: https://oxc.rs/
 - Package: oxfmt
-  Version: 1.30.0
+  Version: 1.31.0
   Description: Oxc JavaScript formatter
   Homepage: https://oxc.rs/
 - Package: oxlint
-  Version: 1.30.0
+  Version: 1.31.0
   Description: Oxc JavaScript linter
   Homepage: https://oxc.rs/
 - Package: p11-kit
@@ -8031,7 +8031,7 @@
   Description: Linux tool to show progress for cp, mv, dd and more
   Homepage: https://github.com/Xfennec/progress
 - Package: proj
-  Version: 9.7.0
+  Version: 9.7.1
   Description: Generic coordinate transformation software
   Homepage: https://proj.org
 - Package: proot
@@ -10139,7 +10139,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.9.13
+  Version: 0.9.14
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
@@ -10327,7 +10327,7 @@
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
-  Version: 1.4.334
+  Version: 1.4.335
   Description: Vulkan Tools and Utilities
   Homepage: https://github.com/KhronosGroup/Vulkan-Tools
 - Package: vulkan-utility-libraries
