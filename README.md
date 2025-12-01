@@ -181,7 +181,7 @@
 | **brotli** | 1.2.0 | lossless compression algorithm and format (command line utility) | https://github.com/google/brotli |
 | **bsd-finger** | 0.17-2 | User information lookup program | https://packages.debian.org/sid/source/bsd-finger |
 | **bsd-games** | 1:3.3-1 | Classic text mode games from UNIX folklore | https://www.polyomino.org.uk/computer/software/bsd-games/ |
-| **bsdtar** | 3.8.3 | The tar(1) and cpio(1) programs from FreeBSD, using libarchive | https://www.libarchive.org/ |
+| **bsdtar** | 3.8.4 | The tar(1) and cpio(1) programs from FreeBSD, using libarchive | https://www.libarchive.org/ |
 | **btfs2** | 4.1.0 | Decentralized file system integrating with TRON network and Bittorrent network | https://www.bittorrent.com/btfs/ |
 | **btrfs-progs** | 6.17.1 | Utilities for Btrfs filesystem | https://btrfs.readthedocs.io/en/latest/ |
 | **buf** | 1.61.0 | A new way of working with Protocol Buffers | https://buf.build |
@@ -851,7 +851,7 @@
 | **leveldb** | 1.23-4 | Fast key-value storage library | https://github.com/google/leveldb |
 | **lexbor** | 2.6.0 | Fast embeddable web browser engine written in C with no dependencies | https://lexbor.com |
 | **lexter** | 1.0.3-5 | A real-time word puzzle for text terminals | https://www.kyne.au/~mark/software/lexter.php |
-| **lf** | 38 | Terminal file manager | https://github.com/gokcehan/lf |
+| **lf** | 39 | Terminal file manager | https://github.com/gokcehan/lf |
 | **lftp** | 4.9.2-7 | FTP/HTTP client and file transfer program | https://lftp.tech/ |
 | **lftp-static** | 4.9.2-7 | Static libraries for lftp | https://lftp.tech/ |
 | **lgogdownloader** | 3.18 | Open source downloader to GOG.com for Linux users using the same API as the official GOGDownloader | https://sites.google.com/site/gogdownloader/ |
@@ -889,8 +889,8 @@
 | **libaom** | 3.13.1-1 | AV1 Video Codec Library | https://aomedia.org/ |
 | **libaom-static** | 3.13.1-1 | Static libraries for libaom | https://aomedia.org/ |
 | **libapt-pkg-perl** | 0.1.40-13 | Perl interface to APT's libapt-pkg | https://packages.debian.org/libapt-pkg-perl |
-| **libarchive** | 3.8.3 | Multi-format archive and compression library | https://www.libarchive.org/ |
-| **libarchive-static** | 3.8.3 | Static libraries for libarchive | https://www.libarchive.org/ |
+| **libarchive** | 3.8.4 | Multi-format archive and compression library | https://www.libarchive.org/ |
+| **libarchive-static** | 3.8.4 | Static libraries for libarchive | https://www.libarchive.org/ |
 | **libarrow-cpp** | 22.0.0-1 | C++ libraries for Apache Arrow | https://github.com/apache/arrow |
 | **libasio** | 1.24.0-3 | Cross-platform C++ library for network and low-level I/O programming | https://think-async.com/Asio |
 | **libasm** | 0.193-1 | Library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |

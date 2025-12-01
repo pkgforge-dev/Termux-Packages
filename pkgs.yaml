@@ -683,7 +683,7 @@
   Description: Classic text mode games from UNIX folklore
   Homepage: https://www.polyomino.org.uk/computer/software/bsd-games/
 - Package: bsdtar
-  Version: 3.8.3
+  Version: 3.8.4
   Description: The tar(1) and cpio(1) programs from FreeBSD, using libarchive
   Homepage: https://www.libarchive.org/
 - Package: btfs2
@@ -3363,7 +3363,7 @@
   Description: A real-time word puzzle for text terminals
   Homepage: https://www.kyne.au/~mark/software/lexter.php
 - Package: lf
-  Version: "38"
+  Version: "39"
   Description: Terminal file manager
   Homepage: https://github.com/gokcehan/lf
 - Package: lftp
@@ -3515,11 +3515,11 @@
   Description: Perl interface to APTs libapt-pkg
   Homepage: https://packages.debian.org/libapt-pkg-perl
 - Package: libarchive
-  Version: 3.8.3
+  Version: 3.8.4
   Description: Multi-format archive and compression library
   Homepage: https://www.libarchive.org/
 - Package: libarchive-static
-  Version: 3.8.3
+  Version: 3.8.4
   Description: Static libraries for libarchive
   Homepage: https://www.libarchive.org/
 - Package: libarrow-cpp
