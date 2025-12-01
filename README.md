@@ -1614,7 +1614,7 @@
 | **luvi** | 1:2.15.0-1 | A project in-between luv and luvit | https://luvit.io |
 | **luvit** | 2.18.1-1 | Asynchronous I/O for Lua | https://luvit.io |
 | **lux** | 0.24.1-2 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
-| **lux-cli** | 0.20.1 | A package manager for Lua, similar to luarocks | https://nvim-neorocks.github.io/ |
+| **lux-cli** | 0.20.3 | A package manager for Lua, similar to luarocks | https://nvim-neorocks.github.io/ |
 | **lv2** | 1.18.10-5 | A plugin standard for audio systems | https://lv2plug.in/ |
 | **lychee** | 0.21.0 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
 | **lynx** | 2.9.2-1 | The text web browser | http://lynx.browser.org/ |
@@ -1841,7 +1841,7 @@
 | **octomap** | 1.10.0-1 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0-1 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-5 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 28.0.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 28.1.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **okc-agents** | 0.1.2-2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.6-3 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-10 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
@@ -2309,7 +2309,7 @@
 | **spidermonkey** | 128.10.0-2 | Mozilla's JavaScript engine | https://spidermonkey.dev |
 | **spiped** | 1.6.4-1 | a utility for creating symmetrically encrypted and authenticated pipes between socket addresses | https://www.tarsnap.com/spiped.html |
 | **spirv-headers** | 1.4.328.1 | SPIR-V Headers | https://github.com/KhronosGroup/SPIRV-Headers |
-| **spirv-llvm-translator** | 21.1.2-1 | SPIR-V LLVM Translator | https://github.com/KhronosGroup/SPIRV-LLVM-Translator |
+| **spirv-llvm-translator** | 21.1.3 | SPIR-V LLVM Translator | https://github.com/KhronosGroup/SPIRV-LLVM-Translator |
 | **spirv-tools** | 1.4.328.1-1 | SPIR-V Tools | https://github.com/KhronosGroup/SPIRV-Tools |
 | **sqlcipher** | 4.6.1-1 | SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files | https://github.com/sqlcipher/sqlcipher |
 | **sqlcipher-static** | 4.6.1-1 | Static libraries for sqlcipher | https://github.com/sqlcipher/sqlcipher |
