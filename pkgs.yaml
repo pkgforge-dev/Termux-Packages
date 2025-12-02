@@ -307,7 +307,7 @@
   Description: language server for NASM/GAS/GO assembly
   Homepage: https://github.com/bergercookie/asm-lsp
 - Package: aspell
-  Version: 0.60.8.1-1
+  Version: 0.60.8.1-2
   Description: A free and open source spell checker designed to replace Ispell
   Homepage: http://aspell.net
 - Package: aspell-de
@@ -327,7 +327,7 @@
   Description: French dictionary for aspell
   Homepage: http://aspell.net/
 - Package: aspell-static
-  Version: 0.60.8.1-1
+  Version: 0.60.8.1-2
   Description: Static libraries for aspell
   Homepage: http://aspell.net
 - Package: aspnetcore-runtime-8.0
@@ -791,7 +791,7 @@
   Description: Cargo C-ABI helpers
   Homepage: https://github.com/lu-zero/cargo-c
 - Package: cargo-leptos
-  Version: 0.3.0-1
+  Version: 0.3.1
   Description: Build tool for the Rust framework Leptos
   Homepage: https://github.com/leptos-rs/cargo-leptos
 - Package: catdoc
@@ -2455,7 +2455,7 @@
   Description: A painless self-hosted Git service
   Homepage: https://gogs.io
 - Package: gojq
-  Version: 0.12.17
+  Version: 0.12.18
   Description: Pure Go implementation of jq
   Homepage: https://github.com/itchyny/gojq
 - Package: golang
@@ -2643,7 +2643,7 @@
   Description: GStreamer base plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-plugins-good
-  Version: 1.26.8
+  Version: 1.26.8-1
   Description: GStreamer Good Plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-plugins-ugly
@@ -3523,7 +3523,7 @@
   Description: Static libraries for libarchive
   Homepage: https://www.libarchive.org/
 - Package: libarrow-cpp
-  Version: 22.0.0-1
+  Version: 22.0.0-2
   Description: C++ libraries for Apache Arrow
   Homepage: https://github.com/apache/arrow
 - Package: libasio
@@ -4967,7 +4967,7 @@
   Description: Command and library to inspect, tweak, edit and validate Ogg files
   Homepage: https://www.xiph.org/oggz/
 - Package: libolm
-  Version: 3.2.16-1
+  Version: 3.2.16-2
   Description: An implementation of the Double Ratchet cryptographic ratchet
   Homepage: https://matrix.org/docs/projects/other/olm/
 - Package: libopenblas
@@ -5335,7 +5335,7 @@
   Description: Static libraries for libsearpc
   Homepage: https://github.com/haiwen/libsearpc
 - Package: libseat
-  Version: 0.9.1-2
+  Version: 0.9.1-3
   Description: Reference implementation of a wayland compositor
   Homepage: https://sr.ht/~kennylevinsen/seatd/
 - Package: libseccomp
@@ -6415,7 +6415,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.20.3
+  Version: 0.20.4
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://nvim-neorocks.github.io/
 - Package: lv2
@@ -7859,7 +7859,7 @@
   Description: Parallel implementation of the gzip file compressor
   Homepage: https://www.zlib.net/pigz
 - Package: pinentry
-  Version: 1.3.2-1
+  Version: 1.3.2-2
   Description: Dialog allowing secure password entry
   Homepage: https://www.gnupg.org/related_software/pinentry/index.html
 - Package: pingme
@@ -8231,7 +8231,7 @@
   Description: The PyPA recommended tool for installing Python packages
   Homepage: https://pip.pypa.io/
 - Package: python-pyarrow
-  Version: 22.0.0-1
+  Version: 22.0.0-2
   Description: Python bindings for Apache Arrow
   Homepage: https://github.com/apache/arrow
 - Package: python-pycryptodomex
@@ -8483,7 +8483,7 @@
   Description: File manager with VI key bindings
   Homepage: https://ranger.github.io/
 - Package: rapidjson
-  Version: 1.1.0-6
+  Version: 1.1.0-7
   Description: Fast JSON parser/generator for C++ with SAX/DOM style API
   Homepage: https://github.com/Tencent/rapidjson/
 - Package: ratt
@@ -8543,7 +8543,7 @@
   Description: Command line tool to extract the main content from a webpage
   Homepage: https://github.com/eafer/rdrview
 - Package: re2c
-  Version: 4.3-1
+  Version: 4.3.1
   Description: Lexer generator for C, C++ and Go.
   Homepage: https://re2c.org/
 - Package: readline
@@ -9551,7 +9551,7 @@
   Description: Telegram messenger CLI
   Homepage: https://github.com/vysheng/tg
 - Package: teleport-tsh
-  Version: 18.4.1
+  Version: 18.4.2
   Description: Secure Access for Developers that doesnt get in the way
   Homepage: https://github.com/gravitational/teleport
 - Package: tenki-php
@@ -9567,7 +9567,7 @@
   Description: A cryptoki/PKCS#11 library for Termux that uses Android Keystore as its backend
   Homepage: https://github.com/aeolwyr/tergent
 - Package: termimage
-  Version: 1.2.1
+  Version: 1.2.1-1
   Description: Terminal image viewer
   Homepage: https://github.com/nabijaczleweli/termimage
 - Package: termplay
@@ -10607,11 +10607,11 @@
   Description: Yet Another Dotfiles Manager
   Homepage: https://yadm.io/
 - Package: yajl
-  Version: 2.1.0-7
+  Version: 2.1.0-8
   Description: Yet Another JSON Library
   Homepage: https://lloyd.github.io/yajl/
 - Package: yajl-static
-  Version: 2.1.0-7
+  Version: 2.1.0-8
   Description: Static libraries for yajl
   Homepage: https://lloyd.github.io/yajl/
 - Package: yara
@@ -10659,7 +10659,7 @@
   Description: A POSIX script that helps you find Youtube videos (without API)
   Homepage: https://github.com/pystardust/ytfzf
 - Package: ytui-music
-  Version: 2.0.0-beta-2
+  Version: 2.0.0-beta-3
   Description: Youtube client in terminal for music
   Homepage: https://github.com/sudipghimire533/ytui-music
 - Package: yuma123
@@ -10755,9 +10755,9 @@
   Description: Additional completion definitions for Zsh
   Homepage: https://github.com/zsh-users/zsh-completions
 - Package: zssh
-  Version: 1.5c-1
+  Version: 1.5c-2
   Description: A program for interactively transferring files to a remote machine while using the secure shell (ssh)
-  Homepage: http://zssh.sourceforge.net/
+  Homepage: https://zssh.sourceforge.net/
 - Package: zstd
   Version: 1.5.7-1
   Description: Zstandard compression

@@ -75,12 +75,12 @@
 | **asciidoctor** | 2.0.23-1 | An implementation of AsciiDoc in Ruby | https://asciidoctor.org/ |
 | **asciinema** | 1:3.0.1 | Record and share your terminal sessions, the right way | https://asciinema.org/ |
 | **asm-lsp** | 0.10.1 | language server for NASM/GAS/GO assembly | https://github.com/bergercookie/asm-lsp |
-| **aspell** | 0.60.8.1-1 | A free and open source spell checker designed to replace Ispell | http://aspell.net |
+| **aspell** | 0.60.8.1-2 | A free and open source spell checker designed to replace Ispell | http://aspell.net |
 | **aspell-de** | 1:20161207.7.0 | German dictionary for aspell | http://aspell.net/ |
 | **aspell-en** | 1:2020.12.07 | English dictionary for aspell | http://aspell.net/ |
 | **aspell-es** | 2:1.11-2-0 | Spanish dictionary for aspell | http://aspell.net/ |
 | **aspell-fr** | 2:0.50-3-1 | French dictionary for aspell | http://aspell.net/ |
-| **aspell-static** | 0.60.8.1-1 | Static libraries for aspell | http://aspell.net |
+| **aspell-static** | 0.60.8.1-2 | Static libraries for aspell | http://aspell.net |
 | **aspnetcore-runtime-8.0** | 8.0.22-2 | ASP.NET Core 8.0 Runtime | https://dotnet.microsoft.com/en-us/ |
 | **aspnetcore-runtime-9.0** | 9.0.11-1 | ASP.NET Core 9.0 Runtime | https://dotnet.microsoft.com/en-us/ |
 | **aspnetcore-runtime-dbg-8.0** | 8.0.22-2 | ASP.NET Core 8.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
@@ -196,7 +196,7 @@
 | **capstone-static** | 5.0.6-1 | Static libraries for capstone | https://www.capstone-engine.org/ |
 | **carapace** | 1.5.5 | Multi-shell multi-command argument completer | https://carapace.sh/ |
 | **cargo-c** | 0.10.18 | Cargo C-ABI helpers | https://github.com/lu-zero/cargo-c |
-| **cargo-leptos** | 0.3.0-1 | Build tool for the Rust framework Leptos | https://github.com/leptos-rs/cargo-leptos |
+| **cargo-leptos** | 0.3.1 | Build tool for the Rust framework Leptos | https://github.com/leptos-rs/cargo-leptos |
 | **catdoc** | 0.95-2 | Program which reads MS-Word file and prints readable ASCII text to stdout | http://www.wagner.pp.ru/~vitus/software/catdoc/ |
 | **catgirl** | 2.2a-1 | A TLS-only terminal IRC client | https://git.causal.agency/catgirl |
 | **catimg** | 2.8.0 | Renders images in the terminal | https://posva.net/shell/retro/bash/2013/05/27/catimg |
@@ -612,7 +612,7 @@
 | **gobang** | 0.1.0-alpha.5-4 | A cross-platform TUI database management tool written in Rust | https://github.com/TaKO8Ki/gobang |
 | **gobject-introspection** | 1.86.0 | Uniform machine readable API | https://gi.readthedocs.io/ |
 | **gogs** | 0.13.3-1 | A painless self-hosted Git service | https://gogs.io |
-| **gojq** | 0.12.17 | Pure Go implementation of jq | https://github.com/itchyny/gojq |
+| **gojq** | 0.12.18 | Pure Go implementation of jq | https://github.com/itchyny/gojq |
 | **golang** | 3:1.25.4 | Go programming language compiler | https://go.dev/ |
 | **golang-doc** | 3:1.25.4 | Go programming language - documentation | https://go.dev/ |
 | **gomp** | 2023.02.02-3 | MPD client inspired by ncmpcpp with builtin cover-art view and LastFM integration | https://aditya-k2.github.io/gomp/ |
@@ -659,7 +659,7 @@
 | **gst-libav** | 1.26.8-1 | GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code | https://gstreamer.freedesktop.org/modules/gst-libav.html |
 | **gst-plugins-bad** | 1.26.8 | GStreamer Bad Plug-ins | https://gstreamer.freedesktop.org/ |
 | **gst-plugins-base** | 1.26.8 | GStreamer base plug-ins | https://gstreamer.freedesktop.org/ |
-| **gst-plugins-good** | 1.26.8 | GStreamer Good Plug-ins | https://gstreamer.freedesktop.org/ |
+| **gst-plugins-good** | 1.26.8-1 | GStreamer Good Plug-ins | https://gstreamer.freedesktop.org/ |
 | **gst-plugins-ugly** | 1.26.8 | GStreamer Ugly Plug-ins | https://gstreamer.freedesktop.org/ |
 | **gst-python** | 1.26.8 | Python bindings for GStreamer | https://gstreamer.freedesktop.org/ |
 | **gstreamer** | 1.26.8 | Open source multimedia framework | https://gstreamer.freedesktop.org/ |
@@ -879,7 +879,7 @@
 | **libapt-pkg-perl** | 0.1.40-13 | Perl interface to APT's libapt-pkg | https://packages.debian.org/libapt-pkg-perl |
 | **libarchive** | 3.8.4 | Multi-format archive and compression library | https://www.libarchive.org/ |
 | **libarchive-static** | 3.8.4 | Static libraries for libarchive | https://www.libarchive.org/ |
-| **libarrow-cpp** | 22.0.0-1 | C++ libraries for Apache Arrow | https://github.com/apache/arrow |
+| **libarrow-cpp** | 22.0.0-2 | C++ libraries for Apache Arrow | https://github.com/apache/arrow |
 | **libasio** | 1.24.0-3 | Cross-platform C++ library for network and low-level I/O programming | https://think-async.com/Asio |
 | **libasm** | 0.193-1 | Library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |
 | **libasm-static** | 0.193-1 | Static library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |
@@ -1240,7 +1240,7 @@
 | **libogg** | 1.3.6-1 | Library for working with the Ogg multimedia container format | https://xiph.org/ogg/ |
 | **libogg-static** | 1.3.6-1 | Static libraries for libogg | https://xiph.org/ogg/ |
 | **liboggz** | 1.1.3-1 | Command and library to inspect, tweak, edit and validate Ogg files | https://www.xiph.org/oggz/ |
-| **libolm** | 3.2.16-1 | An implementation of the Double Ratchet cryptographic ratchet | https://matrix.org/docs/projects/other/olm/ |
+| **libolm** | 3.2.16-2 | An implementation of the Double Ratchet cryptographic ratchet | https://matrix.org/docs/projects/other/olm/ |
 | **libopenblas** | 0.3.30-2 | An optimized BLAS library based on GotoBLAS2 1.13 BSD | https://www.openblas.net |
 | **libopenblas-static** | 0.3.30-2 | Static libraries for libopenblas | https://www.openblas.net |
 | **libopencc** | 1.1.9-1 | An opensource project for conversions between Traditional Chinese, Simplified Chinese and Japanese Kanji (Shinjitai) | https://github.com/BYVoid/OpenCC |
@@ -1332,7 +1332,7 @@
 | **libsass-static** | 3.6.6-1 | Static libraries for libsass | https://github.com/sass/libsass |
 | **libsearpc** | 1:3.2.0-7 | A simple C language RPC framework (mainly for seafile) | https://github.com/haiwen/libsearpc |
 | **libsearpc-static** | 1:3.2.0-7 | Static libraries for libsearpc | https://github.com/haiwen/libsearpc |
-| **libseat** | 0.9.1-2 | Reference implementation of a wayland compositor | https://sr.ht/~kennylevinsen/seatd/ |
+| **libseat** | 0.9.1-3 | Reference implementation of a wayland compositor | https://sr.ht/~kennylevinsen/seatd/ |
 | **libseccomp** | 2.5.5-5 | Enhanced seccomp library | https://github.com/seccomp/libseccomp |
 | **libseccomp-static** | 2.5.5-5 | Static libraries for libseccomp | https://github.com/seccomp/libseccomp |
 | **libsecp256k1** | 1:0.7.0-2 | Optimized c library for ECDSA signatures and seret/public key operations on curve secp256k1 | https://github.com/bitcoin-core/secp256k1 |
@@ -1602,7 +1602,7 @@
 | **luvi** | 1:2.15.0-1 | A project in-between luv and luvit | https://luvit.io |
 | **luvit** | 2.18.1-1 | Asynchronous I/O for Lua | https://luvit.io |
 | **lux** | 0.24.1-2 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
-| **lux-cli** | 0.20.3 | A package manager for Lua, similar to luarocks | https://nvim-neorocks.github.io/ |
+| **lux-cli** | 0.20.4 | A package manager for Lua, similar to luarocks | https://nvim-neorocks.github.io/ |
 | **lv2** | 1.18.10-5 | A plugin standard for audio systems | https://lv2plug.in/ |
 | **lychee** | 0.21.0 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
 | **lynx** | 2.9.2-1 | The text web browser | http://lynx.browser.org/ |
@@ -1963,7 +1963,7 @@
 | **pick** | 4.0.0-3 | Utility to choose one option from a set of choices with fuzzy search functionality | https://github.com/calleerlandsson/pick |
 | **picocom** | 2018.04.12-1 | A minimal dumb-terminal emulation program | https://github.com/npat-efault/picocom |
 | **pigz** | 2.8-1 | Parallel implementation of the gzip file compressor | https://www.zlib.net/pigz |
-| **pinentry** | 1.3.2-1 | Dialog allowing secure password entry | https://www.gnupg.org/related_software/pinentry/index.html |
+| **pinentry** | 1.3.2-2 | Dialog allowing secure password entry | https://www.gnupg.org/related_software/pinentry/index.html |
 | **pingme** | 0.2.7 | A small utility which can be called from anywhere to send a message with particular information | https://github.com/kha7iq/pingme |
 | **pipebuffer** | 0.0.git20211120-1 | Arbitrary-sized in-memory buffer between pipelined programs (non-blocking mbuffer analogue for pipeline) | https://github.com/tfenne/pipebuffer |
 | **pipes.sh** | 2018.04.22-1 | Animated pipes terminal screensaver | https://github.com/pipeseroni/pipes.sh |
@@ -2056,7 +2056,7 @@
 | **python-onnxruntime** | 1.22.2-5 | Cross-platform, high performance ML inferencing and training accelerator | https://onnxruntime.ai/ |
 | **python-pillow** | 12.0.0 | Python Imaging Library | https://python-pillow.org/ |
 | **python-pip** | 25.3 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
-| **python-pyarrow** | 22.0.0-1 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
+| **python-pyarrow** | 22.0.0-2 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
 | **python-pycryptodomex** | 3.23.0-1 | A self-contained Python package of low-level cryptographic primitives | https://www.pycryptodome.org/ |
 | **python-pynvim** | 0.6.0 | Python client for Neovim | https://github.com/neovim/pynvim |
 | **python-ruff** | 0.14.7 | An extremely fast Python linter, written in Rust (Python bindings) | https://github.com/charliermarsh/ruff |
@@ -2119,7 +2119,7 @@
 | **railway-cli** | 4.12.0 | This is the command line interface for Railway | https://railway.app |
 | **range-v3** | 0.12.0 | Range library for C++14/17/20, basis for C++20's std::ranges | https://github.com/ericniebler/range-v3 |
 | **ranger** | 1.9.4 | File manager with VI key bindings | https://ranger.github.io/ |
-| **rapidjson** | 1.1.0-6 | Fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |
+| **rapidjson** | 1.1.0-7 | Fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |
 | **ratt** | 2023.02.02-3 | A tool for converting websites to rss/atom feeds | https://git.sr.ht/~ghost08/ratt |
 | **rav1e** | 0.8.1 | An AV1 encoder program focused on speed and safety | https://github.com/xiph/rav1e/ |
 | **ravencoin** | 4.6.1-8 | A peer-to-peer blockchain, handling the efficient creation and transfer of assets from one party to another | https://ravencoin.org/ |
@@ -2134,7 +2134,7 @@
 | **rdiff-backup** | 2.2.6-3 | A utility for local/remote mirroring and incremental backups | https://rdiff-backup.net |
 | **rdircd** | 2023.02.07-1 | A daemon that allows using a personal Discord account through an IRC client | https://github.com/mk-fg/reliable-discord-client-irc-daemon |
 | **rdrview** | 1:0.1.5 | Command line tool to extract the main content from a webpage | https://github.com/eafer/rdrview |
-| **re2c** | 4.3-1 | Lexer generator for C, C++ and Go. | https://re2c.org/ |
+| **re2c** | 4.3.1 | Lexer generator for C, C++ and Go. | https://re2c.org/ |
 | **readline** | 8.3.1-2 | Library that allow users to edit command lines as they are typed in | https://tiswww.case.edu/php/chet/readline/rltop.html |
 | **readline-static** | 8.3.1-2 | Static libraries for readline | https://tiswww.case.edu/php/chet/readline/rltop.html |
 | **recode** | 3.7.15-1 | Charset converter tool and library | https://github.com/pinard/Recode |
@@ -2386,11 +2386,11 @@
 | **tectonic** | 0.15.0-5 | A modernized, complete, self-contained TeX/LaTeX engine | https://tectonic-typesetting.github.io/ |
 | **telegram-bot-api** | 20241031-2 | Telegram Bot API server | https://github.com/tdlib/telegram-bot-api |
 | **telegram-cli** | 1:1.4.1-8 | Telegram messenger CLI | https://github.com/vysheng/tg |
-| **teleport-tsh** | 18.4.1 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
+| **teleport-tsh** | 18.4.2 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
 | **tenki-php** | 2022.05.26 | A simple PHP application for logging current weather conditions, notes, and waypoints | https://github.com/dmpop/tenki |
 | **tere** | 1.6.0-1 | Terminal file explorer written in rust | https://github.com/mgunyho/tere |
 | **tergent** | 1.0.0-5 | A cryptoki/PKCS#11 library for Termux that uses Android Keystore as its backend | https://github.com/aeolwyr/tergent |
-| **termimage** | 1.2.1 | Terminal image viewer | https://github.com/nabijaczleweli/termimage |
+| **termimage** | 1.2.1-1 | Terminal image viewer | https://github.com/nabijaczleweli/termimage |
 | **termplay** | 2.0.6-1 | Plays an image/video in your terminal | https://gitlab.com/jD91mZM2/termplay |
 | **termux-am** | 0.8.0-2 | Android Oreo-compatible am command reimplementation | https://github.com/termux/TermuxAm |
 | **termux-am-socket** | 1.5.0-1 | A faster version of am with less features that only works while Termux is running | https://github.com/termux/termux-am-socket |
@@ -2650,8 +2650,8 @@
 | **xxhash-static** | 0.8.3-1 | Static libraries for xxhash | https://cyan4973.github.io/xxHash/ |
 | **xz-utils** | 5.8.1-1 | XZ-format compression tools | https://tukaani.org/xz/ |
 | **yadm** | 3.5.0 | Yet Another Dotfiles Manager | https://yadm.io/ |
-| **yajl** | 2.1.0-7 | Yet Another JSON Library | https://lloyd.github.io/yajl/ |
-| **yajl-static** | 2.1.0-7 | Static libraries for yajl | https://lloyd.github.io/yajl/ |
+| **yajl** | 2.1.0-8 | Yet Another JSON Library | https://lloyd.github.io/yajl/ |
+| **yajl-static** | 2.1.0-8 | Static libraries for yajl | https://lloyd.github.io/yajl/ |
 | **yara** | 4.5.5 | Tool aimed at helping malware researchers to identify and classify malware samples | https://github.com/VirusTotal/yara |
 | **yara-static** | 4.5.5 | Static libraries for yara | https://github.com/VirusTotal/yara |
 | **yarn** | 1.22.22 | Fast, reliable, and secure dependency management | https://classic.yarnpkg.com/lang/en/ |
@@ -2663,7 +2663,7 @@
 | **yq** | 4.49.2 | A lightweight and portable command-line YAML, JSON and XML processor | https://mikefarah.gitbook.io/yq/ |
 | **yt-dlp-ejs** | 0.3.1 | External JavaScript for yt-dlp supporting many runtimes | https://github.com/yt-dlp/ejs |
 | **ytfzf** | 2.6.2 | A POSIX script that helps you find Youtube videos (without API) | https://github.com/pystardust/ytfzf |
-| **ytui-music** | 2.0.0-beta-2 | Youtube client in terminal for music | https://github.com/sudipghimire533/ytui-music |
+| **ytui-music** | 2.0.0-beta-3 | Youtube client in terminal for music | https://github.com/sudipghimire533/ytui-music |
 | **yuma123** | 2.13-4 | Provides an opensource YANG API in C | https://yuma123.org/ |
 | **yuma123-static** | 2.13-4 | Static libraries for yuma123 | https://yuma123.org/ |
 | **z-push** | 2.7.6 | An open-source application to synchronize ActiveSync compatible devices and Outlook | https://z-push.org/ |
@@ -2687,7 +2687,7 @@
 | **zrok** | 1.1.10 | An open source sharing solution built on OpenZiti. | https://zrok.io/ |
 | **zsh** | 5.9-9 | Shell with lots of features | https://www.zsh.org |
 | **zsh-completions** | 0.35.0 | Additional completion definitions for Zsh | https://github.com/zsh-users/zsh-completions |
-| **zssh** | 1.5c-1 | A program for interactively transferring files to a remote machine while using the secure shell (ssh) | http://zssh.sourceforge.net/ |
+| **zssh** | 1.5c-2 | A program for interactively transferring files to a remote machine while using the secure shell (ssh) | https://zssh.sourceforge.net/ |
 | **zstd** | 1.5.7-1 | Zstandard compression | https://github.com/facebook/zstd |
 | **zsync** | 0.6.3-1 | A file transfer program to download files from remote web servers | https://zsync.moria.org.uk/ |
 | **zziplib** | 0.13.80-1 | Provides read access to zipped files in a zip-archive, using compression based on free algorithms | https://zziplib.sourceforge.net/ |
