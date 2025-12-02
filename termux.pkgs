@@ -498,7 +498,7 @@
 | **freeimage-static** | 3.18.0-7 | Static libraries for freeimage | https://freeimage.sourceforge.io |
 | **freetype** | 2.14.1 | Software font engine capable of producing high-quality output | https://www.freetype.org |
 | **freetype-static** | 2.14.1 | Static libraries for freetype | https://www.freetype.org |
-| **frei0r-plugins** | 2.5.0 | Minimalistic plugin API for video effects | https://www.dyne.org/software/frei0r/ |
+| **frei0r-plugins** | 2.5.1 | Minimalistic plugin API for video effects | https://www.dyne.org/software/frei0r/ |
 | **fribidi** | 1.0.16-1 | Implementation of the Unicode Bidirectional Algorithm | https://github.com/fribidi/fribidi/ |
 | **fribidi-static** | 1.0.16-1 | Static libraries for fribidi | https://github.com/fribidi/fribidi/ |
 | **frobtads** | 2.0-5 | TADS is a free authoring system for writing your own Interactive Fiction | http://www.tads.org/frobtads.htm |
@@ -585,7 +585,7 @@
 | **glow** | 2.1.1-1 | Render markdown on the CLI, with pizzazz! | https://github.com/charmbracelet/glow |
 | **glpk** | 5.0-2 | GNU Linear Programming Kit: solve LP, MIP and other problems | https://www.gnu.org/software/glpk/ |
 | **glpk-static** | 5.0-2 | Static libraries for glpk | https://www.gnu.org/software/glpk/ |
-| **glslang** | 16.0.0-1 | OpenGL and OpenGL ES shader front end and validator | https://github.com/KhronosGroup/glslang |
+| **glslang** | 16.1.0 | OpenGL and OpenGL ES shader front end and validator | https://github.com/KhronosGroup/glslang |
 | **gluelang** | 0.2.0-2 | A programming language that has a strong nature to be a glue of commands | https://ryuichiueda.github.io/GlueLang/ |
 | **glulxe** | 0.6.1-1 | Interpreter for the Glulx portable VM for interactive fiction (IF) games | https://www.eblong.com/zarf/glulx/ |
 | **gmic** | 3.5.3-3 | Full-featured framework for image processing | https://gmic.eu |
@@ -722,7 +722,7 @@
 | **hunspell-ru** | 20210731 | Russian dictionary for hunspell | https://hunspell.github.io |
 | **hunspell-static** | 1.7.2-1 | Static libraries for hunspell | https://hunspell.github.io |
 | **hut** | 0.7.0-1 | A CLI tool for sr.ht | https://git.sr.ht/~xenrox/hut |
-| **hwdata** | 0.401 | Database of hardware identification and configuration data | https://github.com/vcrhonek/hwdata |
+| **hwdata** | 0.402 | Database of hardware identification and configuration data | https://github.com/vcrhonek/hwdata |
 | **hydroxide** | 0.2.30-1 | A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge | https://github.com/emersion/hydroxide |
 | **hyperfine** | 1.20.0 | A command-line benchmarking tool | https://github.com/sharkdp/hyperfine |
 | **hz** | 0.10.1-1 | A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices | https://www.cloudwego.io |
@@ -1480,7 +1480,7 @@
 | **libwayland-protocols** | 1.45 | Wayland protocols library | https://wayland.freedesktop.org/ |
 | **libwebp** | 1.6.0-rc1-0 | Library to encode and decode images in WebP format | https://github.com/webmproject/libwebp |
 | **libwebrtc-audio-processing** | 1.3-4 | A library containing the AudioProcessing module from the WebRTC project | https://www.freedesktop.org/software/pulseaudio/webrtc-audio-processing/ |
-| **libwebsockets** | 4.5.0 | Lightweight C websockets library | https://libwebsockets.org |
+| **libwebsockets** | 4.5.1 | Lightweight C websockets library | https://libwebsockets.org |
 | **libwolfssl** | 5.8.4 | A small, fast, portable implementation of TLS/SSL for embedded devices to the cloud | https://www.wolfssl.com/ |
 | **libwren** | 0.4.0-4 | Small, fast, class-based concurrent scripting language libraries | https://wren.io/ |
 | **libwslay** | 1.1.1-2 | WebSocket library | https://github.com/tatsuhiro-t/wslay |
@@ -1988,7 +1988,7 @@
 | **poppler-data** | 0.4.12 | Consists of encoding files for use with poppler | https://poppler.freedesktop.org/ |
 | **portaudio** | 19.07.00-3 | A portable audio I/O library | https://www.portaudio.com/ |
 | **portaudio-static** | 19.07.00-3 | Static libraries for portaudio | https://www.portaudio.com/ |
-| **portmidi** | 2.0.6-1 | A cross-platform MIDI input/output library | https://github.com/PortMidi/portmidi |
+| **portmidi** | 2.0.7 | A cross-platform MIDI input/output library | https://github.com/PortMidi/portmidi |
 | **posixvala** | 0.2 | Aims to bring back the posix profile for Vala | https://github.com/radare/posixvala |
 | **postgis** | 3.6.1 | Spatial database extender for PostgreSQL object-relational database | https://postgis.net |
 | **postgresql** | 17.0-5 | Object-relational SQL database | https://www.postgresql.org |
