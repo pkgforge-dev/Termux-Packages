@@ -2631,31 +2631,31 @@
   Description: Static libraries for gsl
   Homepage: https://www.gnu.org/software/gsl/
 - Package: gst-libav
-  Version: 1.26.8-1
+  Version: 1.26.9
   Description: GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code
   Homepage: https://gstreamer.freedesktop.org/modules/gst-libav.html
 - Package: gst-plugins-bad
-  Version: 1.26.8
+  Version: 1.26.9
   Description: GStreamer Bad Plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-plugins-base
-  Version: 1.26.8
+  Version: 1.26.9
   Description: GStreamer base plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-plugins-good
-  Version: 1.26.8-1
+  Version: 1.26.9
   Description: GStreamer Good Plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-plugins-ugly
-  Version: 1.26.8
+  Version: 1.26.9
   Description: GStreamer Ugly Plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-python
-  Version: 1.26.8
+  Version: 1.26.9
   Description: Python bindings for GStreamer
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gstreamer
-  Version: 1.26.8
+  Version: 1.26.9
   Description: Open source multimedia framework
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gtypist
@@ -3027,7 +3027,7 @@
   Description: Command-line interface to IPMI-enabled devices
   Homepage: https://github.com/ipmitool/ipmitool
 - Package: iproute2
-  Version: 6.17.0
+  Version: 6.18.0
   Description: Utilities for controlling networking
   Homepage: https://wiki.linuxfoundation.org/networking/iproute2
 - Package: ipv6calc
@@ -3079,7 +3079,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.24.387
+  Version: 0.24.394
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -3255,7 +3255,7 @@
   Description: A tiny terminal text editor, written in Rust
   Homepage: https://github.com/ilai-deutel/kibi
 - Package: kiwix-tools
-  Version: 3.8.0
+  Version: 3.8.1
   Description: A collection of Kiwix related command line tools
   Homepage: https://github.com/kiwix/kiwix-tools
 - Package: knockd

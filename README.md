@@ -668,13 +668,13 @@
 | **gsf-tools** | 1.14.53-2 | Command-line tools for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
 | **gsl** | 2.8-1 | GNU Scientific Library (GSL) providing a wide range of mathematical routines | https://www.gnu.org/software/gsl/ |
 | **gsl-static** | 2.8-1 | Static libraries for gsl | https://www.gnu.org/software/gsl/ |
-| **gst-libav** | 1.26.8-1 | GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code | https://gstreamer.freedesktop.org/modules/gst-libav.html |
-| **gst-plugins-bad** | 1.26.8 | GStreamer Bad Plug-ins | https://gstreamer.freedesktop.org/ |
-| **gst-plugins-base** | 1.26.8 | GStreamer base plug-ins | https://gstreamer.freedesktop.org/ |
-| **gst-plugins-good** | 1.26.8-1 | GStreamer Good Plug-ins | https://gstreamer.freedesktop.org/ |
-| **gst-plugins-ugly** | 1.26.8 | GStreamer Ugly Plug-ins | https://gstreamer.freedesktop.org/ |
-| **gst-python** | 1.26.8 | Python bindings for GStreamer | https://gstreamer.freedesktop.org/ |
-| **gstreamer** | 1.26.8 | Open source multimedia framework | https://gstreamer.freedesktop.org/ |
+| **gst-libav** | 1.26.9 | GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code | https://gstreamer.freedesktop.org/modules/gst-libav.html |
+| **gst-plugins-bad** | 1.26.9 | GStreamer Bad Plug-ins | https://gstreamer.freedesktop.org/ |
+| **gst-plugins-base** | 1.26.9 | GStreamer base plug-ins | https://gstreamer.freedesktop.org/ |
+| **gst-plugins-good** | 1.26.9 | GStreamer Good Plug-ins | https://gstreamer.freedesktop.org/ |
+| **gst-plugins-ugly** | 1.26.9 | GStreamer Ugly Plug-ins | https://gstreamer.freedesktop.org/ |
+| **gst-python** | 1.26.9 | Python bindings for GStreamer | https://gstreamer.freedesktop.org/ |
+| **gstreamer** | 1.26.9 | Open source multimedia framework | https://gstreamer.freedesktop.org/ |
 | **gtypist** | 2.10.1-1 | Universal typing tutor | https://www.gnu.org/software/gtypist/ |
 | **guile** | 3.0.10-2 | Portable, embeddable Scheme implementation written in C | http://www.gnu.org/software/guile/ |
 | **guile-static** | 3.0.10-2 | Static libraries for guile | http://www.gnu.org/software/guile/ |
@@ -767,7 +767,7 @@
 | **iperf3** | 3.20 | TCP, UDP, and SCTP network bandwidth measurement tool | https://github.com/esnet/iperf |
 | **iperf3-static** | 3.20 | Static libraries for iperf3 | https://github.com/esnet/iperf |
 | **ipmitool** | 1.8.19-1 | Command-line interface to IPMI-enabled devices | https://github.com/ipmitool/ipmitool |
-| **iproute2** | 6.17.0 | Utilities for controlling networking | https://wiki.linuxfoundation.org/networking/iproute2 |
+| **iproute2** | 6.18.0 | Utilities for controlling networking | https://wiki.linuxfoundation.org/networking/iproute2 |
 | **ipv6calc** | 4.4.0 | Does some format changes and calculations of IPv6 addresses | https://www.deepspace6.net/projects/ipv6calc.html |
 | **ipv6toolkit** | 2022.09.30-4 | SI6 Networks IPv6 Toolkit | https://www.si6networks.com/research/tools/ipv6toolkit/ |
 | **ircd-irc2** | 2.11.2p3-3 | An Internet Relay Chat (IRC) daemon | http://www.irc.org/ |
@@ -780,7 +780,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4-1 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-2 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.24.387 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.24.394 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **jadx** | 1.5.3-1 | Dex to Java decompiler | https://github.com/skylot/jadx |
 | **jadx-x** | 1.5.3-1 | Dex to Java decompiler GUI | https://github.com/skylot/jadx |
 | **janet** | 1.40.1 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
@@ -824,7 +824,7 @@
 | **keybase** | 6.5.1-1 | Key directory that maps social media identities to encryption keys | https://keybase.io |
 | **keychain** | 2.9.8 | keychain ssh-agent front-end | https://www.funtoo.org/Keychain |
 | **kibi** | 0.3.2 | A tiny terminal text editor, written in Rust | https://github.com/ilai-deutel/kibi |
-| **kiwix-tools** | 3.8.0 | A collection of Kiwix related command line tools | https://github.com/kiwix/kiwix-tools |
+| **kiwix-tools** | 3.8.1 | A collection of Kiwix related command line tools | https://github.com/kiwix/kiwix-tools |
 | **knockd** | 0.8.2-2 | A port-knocking daemon | https://zeroflux.org/projects/knock |
 | **knot-utils** | 3.2.4-2 | Knot DNS utilities | https://www.knot-dns.cz/ |
 | **kona** | 20211225-1 | Open-source implementation of the APL-like K programming language | https://github.com/kevinlawler/kona |
