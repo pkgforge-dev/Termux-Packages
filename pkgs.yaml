@@ -4871,11 +4871,11 @@
   Description: NFS client library
   Homepage: https://github.com/sahlberg/libnfs
 - Package: libnftnl
-  Version: 1.3.0
+  Version: 1.3.1
   Description: Netfilter library providing interface to the nf_tables subsystem
   Homepage: https://www.netfilter.org/projects/libnftnl/
 - Package: libnftnl-static
-  Version: 1.3.0
+  Version: 1.3.1
   Description: Static libraries for libnftnl
   Homepage: https://www.netfilter.org/projects/libnftnl/
 - Package: libnghttp2
@@ -7523,7 +7523,7 @@
   Description: Open Source API and interchange format for editorial timeline information.
   Homepage: http://opentimeline.io/
 - Package: openxr
-  Version: 1.1.53-1
+  Version: 1.1.54
   Description: Open standard that provides a common set of APIs for developing XR applications
   Homepage: https://www.khronos.org/openxr/
 - Package: optipng
@@ -9331,7 +9331,7 @@
   Description: A TCP/IP repeater in the application layer
   Homepage: https://www.gcd.org/sengoku/stone/
 - Package: storj-uplink
-  Version: 1.142.4
+  Version: 1.143.2
   Description: Storj DCS Uplink CLI
   Homepage: https://www.storj.io/integrations/uplink-cli
 - Package: stow
@@ -10355,7 +10355,7 @@
   Description: The WebAssembly Binary Toolkit
   Homepage: https://github.com/WebAssembly/wabt
 - Package: wakatime-cli
-  Version: 1.131.0
+  Version: 1.132.0
   Description: Command line interface used by all WakaTime text editor plugins
   Homepage: https://wakatime.com/plugins/
 - Package: walk
