@@ -6267,19 +6267,19 @@
   Description: LLVM modular compiler and toolchain executables
   Homepage: https://clang.llvm.org/
 - Package: llvm-mingw-w64
-  Version: "20251007"
+  Version: 20251007-1
   Description: MinGW-w64 toolchain based on LLVM
   Homepage: https://github.com/mstorsjo/llvm-mingw
 - Package: llvm-mingw-w64-libcompiler-rt
-  Version: "20251007"
+  Version: 20251007-1
   Description: Compiler runtime libraries for LLVM-MinGW
   Homepage: https://github.com/mstorsjo/llvm-mingw
 - Package: llvm-mingw-w64-tools
-  Version: 12.0.0-1
+  Version: 12.0.0-2
   Description: MinGW-w64 tools for LLVM-MinGW
   Homepage: https://github.com/mstorsjo/llvm-mingw
 - Package: llvm-mingw-w64-ucrt
-  Version: "20251007"
+  Version: 20251007-1
   Description: MinGW-w64 runtime for LLVM-MinGW
   Homepage: https://github.com/mstorsjo/llvm-mingw
 - Package: llvm-tools
