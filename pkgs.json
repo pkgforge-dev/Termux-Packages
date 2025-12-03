@@ -5449,7 +5449,7 @@
   },
   {
     "Package": "libc++utilities",
-    "Version": "5.31.1",
+    "Version": "5.32.0",
     "Description": "Useful C++ classes and routines such as argument parser, IO and conversion utilities",
     "Homepage": "https://github.com/Martchus/cpp-utilities"
   },
@@ -8527,7 +8527,7 @@
   },
   {
     "Package": "libtorrent",
-    "Version": "0.16.4",
+    "Version": "0.16.5",
     "Description": "Libtorrent BitTorrent library",
     "Homepage": "https://github.com/rakshasa/rtorrent/wiki"
   },
@@ -8539,7 +8539,7 @@
   },
   {
     "Package": "libtorrent-static",
-    "Version": "0.16.4",
+    "Version": "0.16.5",
     "Description": "Static libraries for libtorrent",
     "Homepage": "https://github.com/rakshasa/rtorrent/wiki"
   },
@@ -10921,7 +10921,7 @@
   },
   {
     "Package": "nushell",
-    "Version": "0.109.0",
+    "Version": "0.109.1",
     "Description": "A new type of shell operating on structured data",
     "Homepage": "https://www.nushell.sh"
   },
@@ -11875,7 +11875,7 @@
   },
   {
     "Package": "pocketbase",
-    "Version": "0.34.0",
+    "Version": "0.34.1",
     "Description": "An open source Go backend",
     "Homepage": "https://github.com/pocketbase/pocketbase"
   },
