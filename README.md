@@ -875,7 +875,7 @@
 | **libandroid-shmem-static** | 0.5-1 | Static libraries for libandroid-shmem | https://github.com/termux/libandroid-shmem |
 | **libandroid-spawn** | 0.3 | Shared library for the posix_spawn system function | https://man7.org/linux/man-pages/man3/posix_spawn.3.html |
 | **libandroid-spawn-static** | 0.3 | Static libraries for libandroid-spawn | https://man7.org/linux/man-pages/man3/posix_spawn.3.html |
-| **libandroid-stub** | 29 | Stub libandroid.so for non-Android certified environment | https://android.googlesource.com/platform/frameworks/base/+/main/native/android |
+| **libandroid-stub** | 29-1 | Stub libandroid.so for non-Android certified environment | https://android.googlesource.com/platform/frameworks/base/+/main/native/android |
 | **libandroid-support** | 29-1 | Library extending the Android C library (Bionic) for additional multibyte, locale and math support | https://github.com/termux/libandroid-support |
 | **libandroid-support-static** | 29-1 | Static libraries for libandroid-support | https://github.com/termux/libandroid-support |
 | **libandroid-sysv-semaphore** | 0.1-1 | A shared library providing System V semaphores | https://android.googlesource.com/platform/bionic/+/refs/heads/master/libc/bionic/sys_sem.cpp |
@@ -1492,7 +1492,7 @@
 | **libwayland-protocols** | 1.45 | Wayland protocols library | https://wayland.freedesktop.org/ |
 | **libwebp** | 1.6.0-rc1-0 | Library to encode and decode images in WebP format | https://github.com/webmproject/libwebp |
 | **libwebrtc-audio-processing** | 1.3-4 | A library containing the AudioProcessing module from the WebRTC project | https://www.freedesktop.org/software/pulseaudio/webrtc-audio-processing/ |
-| **libwebsockets** | 4.5.1 | Lightweight C websockets library | https://libwebsockets.org |
+| **libwebsockets** | 4.5.2 | Lightweight C websockets library | https://libwebsockets.org |
 | **libwolfssl** | 5.8.4 | A small, fast, portable implementation of TLS/SSL for embedded devices to the cloud | https://www.wolfssl.com/ |
 | **libwren** | 0.4.0-4 | Small, fast, class-based concurrent scripting language libraries | https://wren.io/ |
 | **libwslay** | 1.1.1-2 | WebSocket library | https://github.com/tatsuhiro-t/wslay |
@@ -2670,7 +2670,7 @@
 | **yasm** | 1.3.0-7 | Assembler supporting the x86 and AMD64 instruction sets | https://yasm.tortall.net/ |
 | **yasm-static** | 1.3.0-7 | Static libraries for yasm | https://yasm.tortall.net/ |
 | **yazi** | 25.5.31-3 | Blazing fast terminal file manager written in Rust, based on async I/O | https://yazi-rs.github.io/ |
-| **yosys** | 0.59.1 | A framework for RTL synthesis tools | https://yosyshq.net/yosys/ |
+| **yosys** | 0.60 | A framework for RTL synthesis tools | https://yosyshq.net/yosys/ |
 | **youtubedr** | 2.10.5 | Download youtube video in Golang | https://github.com/kkdai/youtube |
 | **yq** | 4.49.2 | A lightweight and portable command-line YAML, JSON and XML processor | https://mikefarah.gitbook.io/yq/ |
 | **yt-dlp-ejs** | 0.3.1 | External JavaScript for yt-dlp supporting many runtimes | https://github.com/yt-dlp/ejs |
