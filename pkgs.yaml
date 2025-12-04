@@ -199,7 +199,7 @@
   Description: Columnar storage for Hadoop workloads
   Homepage: https://orc.apache.org/
 - Package: apache2
-  Version: 1:2.4.65-1
+  Version: 1:2.4.66
   Description: Apache Web Server
   Homepage: https://httpd.apache.org
 - Package: apkeep
@@ -1759,7 +1759,7 @@
   Description: Open source xHE-AAC encoder
   Homepage: https://gitlab.com/ecodis/exhale
 - Package: exiftool
-  Version: "13.42"
+  Version: "13.43"
   Description: Utility for reading, writing and editing meta information in a wide variety of files.
   Homepage: https://exiftool.org/
 - Package: exiv2
@@ -5083,11 +5083,11 @@
   Description: Static libraries for libpano13
   Homepage: https://panotools.sourceforge.net/
 - Package: libpaper
-  Version: 2.2.6-1
+  Version: 2.2.7
   Description: Library for handling paper characteristics (by @rrthomas)
   Homepage: https://github.com/rrthomas/psutils
 - Package: libpaper-static
-  Version: 2.2.6-1
+  Version: 2.2.7
   Description: Static libraries for libpaper
   Homepage: https://github.com/rrthomas/psutils
 - Package: libpcap
@@ -7915,7 +7915,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pocketbase
-  Version: 0.34.1
+  Version: 0.34.2
   Description: An open source Go backend
   Homepage: https://github.com/pocketbase/pocketbase
 - Package: poke
@@ -8183,7 +8183,7 @@
   Description: Wheels for Python ensurepip
   Homepage: https://python.org/
 - Package: python-greenlet
-  Version: 3.2.4
+  Version: 3.3.0
   Description: Lightweight coroutines for in-process concurrent programming
   Homepage: https://github.com/python-greenlet/greenlet
 - Package: python-grpcio
