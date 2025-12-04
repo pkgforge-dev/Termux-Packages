@@ -1007,7 +1007,7 @@
   Description: Command producing a Matrix-style animation
   Homepage: https://github.com/abishekvashok/cmatrix
 - Package: cmocka
-  Version: 1.1.8-2
+  Version: 2.0.0
   Description: cmocka is an unit testing framework for C
   Homepage: https://cmocka.org/
 - Package: cmus
@@ -1167,7 +1167,7 @@
   Description: A set of utilities for working with Cue Sheet (cue) and Table of Contents (toc) files
   Homepage: https://github.com/svend/cuetools
 - Package: cups
-  Version: 2.4.15
+  Version: 2.4.16
   Description: Common UNIX Printing System
   Homepage: https://www.cups.org/
 - Package: cups-pdf
@@ -1175,7 +1175,7 @@
   Description: CUPS PDF backend
   Homepage: https://www.cups-pdf.de/
 - Package: cups-static
-  Version: 2.4.15
+  Version: 2.4.16
   Description: Static libraries for cups
   Homepage: https://www.cups.org/
 - Package: curl
@@ -6675,19 +6675,19 @@
   Description: Static libraries for mercury
   Homepage: https://www.mercurylang.org/
 - Package: mesa
-  Version: 25.3.0-1
+  Version: 25.3.1
   Description: An open-source implementation of the OpenGL specification
   Homepage: https://www.mesa3d.org
 - Package: mesa-dev
-  Version: 25.3.0-1
+  Version: 25.3.1
   Description: Mesas OpenGL headers
   Homepage: https://www.mesa3d.org
 - Package: mesa-opencl-icd-rusticl
-  Version: 25.3.0-1
+  Version: 25.3.1
   Description: Mesas Rusticl OpenCL ICD
   Homepage: https://www.mesa3d.org
 - Package: mesa-vulkan-icd-swrast
-  Version: 25.3.0-1
+  Version: 25.3.1
   Description: Mesas Swrast Vulkan ICD
   Homepage: https://www.mesa3d.org
 - Package: mfcuk
