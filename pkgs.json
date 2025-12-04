@@ -1003,7 +1003,7 @@
   },
   {
     "Package": "broot",
-    "Version": "1.53.0",
+    "Version": "1.54.0",
     "Description": "A better way to navigate directories",
     "Homepage": "https://github.com/Canop/broot"
   },
@@ -1351,7 +1351,7 @@
   },
   {
     "Package": "chezmoi",
-    "Version": "2.67.1",
+    "Version": "2.68.0",
     "Description": "Manage your dotfiles across multiple machines",
     "Homepage": "https://chezmoi.io"
   },
@@ -9625,7 +9625,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.20.4",
+    "Version": "0.21.0",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://nvim-neorocks.github.io/"
   },
@@ -12373,7 +12373,7 @@
   },
   {
     "Package": "python-sabyenc3",
-    "Version": "8.2.6-1",
+    "Version": "9.1.0-1",
     "Description": "C implementations of functions for use within SABnzbd",
     "Homepage": "https://github.com/sabnzbd/sabctools"
   },
@@ -12499,121 +12499,121 @@
   },
   {
     "Package": "qemu-common",
-    "Version": "1:8.2.10",
+    "Version": "1:10.1.2",
     "Description": "A set common files used by the QEMU emulators",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-system-aarch64-headless",
-    "Version": "1:8.2.10",
+    "Version": "1:10.1.2",
     "Description": "A generic and open source machine emulator and virtualizer (headless)",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-system-arm-headless",
-    "Version": "1:8.2.10",
+    "Version": "1:10.1.2",
     "Description": "A generic and open source machine emulator and virtualizer (headless)",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-system-i386-headless",
-    "Version": "1:8.2.10",
+    "Version": "1:10.1.2",
     "Description": "A generic and open source machine emulator and virtualizer (headless)",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-system-m68k-headless",
-    "Version": "1:8.2.10",
+    "Version": "1:10.1.2",
     "Description": "A generic and open source machine emulator and virtualizer (headless)",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-system-ppc-headless",
-    "Version": "1:8.2.10",
+    "Version": "1:10.1.2",
     "Description": "A generic and open source machine emulator and virtualizer (headless)",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-system-ppc64-headless",
-    "Version": "1:8.2.10",
+    "Version": "1:10.1.2",
     "Description": "A generic and open source machine emulator and virtualizer (headless)",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-system-riscv32-headless",
-    "Version": "1:8.2.10",
+    "Version": "1:10.1.2",
     "Description": "A generic and open source machine emulator and virtualizer (headless)",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-system-riscv64-headless",
-    "Version": "1:8.2.10",
+    "Version": "1:10.1.2",
     "Description": "A generic and open source machine emulator and virtualizer (headless)",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-system-x86-64-headless",
-    "Version": "1:8.2.10",
+    "Version": "1:10.1.2",
     "Description": "A generic and open source machine emulator and virtualizer (headless)",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-user-aarch64",
-    "Version": "1:8.2.10",
+    "Version": "1:10.1.2",
     "Description": "QEMU Linux user mode emulator",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-user-arm",
-    "Version": "1:8.2.10",
+    "Version": "1:10.1.2",
     "Description": "QEMU Linux user mode emulator",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-user-i386",
-    "Version": "1:8.2.10",
+    "Version": "1:10.1.2",
     "Description": "QEMU Linux user mode emulator",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-user-m68k",
-    "Version": "1:8.2.10",
+    "Version": "1:10.1.2",
     "Description": "QEMU Linux user mode emulator",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-user-ppc",
-    "Version": "1:8.2.10",
+    "Version": "1:10.1.2",
     "Description": "QEMU Linux user mode emulator",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-user-ppc64",
-    "Version": "1:8.2.10",
+    "Version": "1:10.1.2",
     "Description": "QEMU Linux user mode emulator",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-user-riscv32",
-    "Version": "1:8.2.10",
+    "Version": "1:10.1.2",
     "Description": "QEMU Linux user mode emulator",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-user-riscv64",
-    "Version": "1:8.2.10",
+    "Version": "1:10.1.2",
     "Description": "QEMU Linux user mode emulator",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-user-x86-64",
-    "Version": "1:8.2.10",
+    "Version": "1:10.1.2",
     "Description": "QEMU Linux user mode emulator",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-utils",
-    "Version": "1:8.2.10",
+    "Version": "1:10.1.2",
     "Description": "A set of utilities for working with the QEMU emulators",
     "Homepage": "https://www.qemu.org"
   },
@@ -14125,7 +14125,7 @@
   },
   {
     "Package": "swi-prolog",
-    "Version": "9.3.35",
+    "Version": "9.3.36",
     "Description": "Most popular and complete prolog implementation",
     "Homepage": "https://swi-prolog.org/"
   },
@@ -15367,7 +15367,7 @@
   },
   {
     "Package": "vim",
-    "Version": "9.1.1900",
+    "Version": "9.1.1950",
     "Description": "Vi IMproved - enhanced vi editor",
     "Homepage": "https://www.vim.org"
   },
@@ -15883,7 +15883,7 @@
   },
   {
     "Package": "xxd",
-    "Version": "9.1.1900",
+    "Version": "9.1.1950",
     "Description": "Hexdump utility from vim",
     "Homepage": "https://www.vim.org"
   },
