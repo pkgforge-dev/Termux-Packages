@@ -442,7 +442,7 @@
 | **entr** | 5.7-1 | Event Notify Test Runner - run arbitrary commands when files change | https://eradman.com/entrproject/ |
 | **erlang** | 28.2 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
 | **erlang-doc** | 28.2 | Erlang HTML documentation | https://www.erlang.org/ |
-| **esbuild** | 0.27.0 | An extremely fast JavaScript bundler | https://esbuild.github.io/ |
+| **esbuild** | 0.27.1 | An extremely fast JavaScript bundler | https://esbuild.github.io/ |
 | **espeak** | 1.52.0-1 | Compact software speech synthesizer | https://github.com/espeak-ng/espeak-ng |
 | **espeak-static** | 1.52.0-1 | Static libraries for espeak | https://github.com/espeak-ng/espeak-ng |
 | **et** | 6.2.11-3 | A remote shell that automatically reconnects without interrupting the session | https://eternalterminal.dev |
@@ -1296,8 +1296,8 @@
 | **libplist-static** | 2.7.0-1 | Static libraries for libplist | https://libimobiledevice.org |
 | **libpluto** | 0.12.1 | Shared library for the Pluto interpreter | https://plutolang.github.io/ |
 | **libpluto-static** | 0.12.1 | Static libraries for libpluto | https://plutolang.github.io/ |
-| **libpng** | 1.6.51 | Official PNG reference library | http://www.libpng.org/pub/png/libpng.html |
-| **libpng-static** | 1.6.51 | Static libraries for libpng | http://www.libpng.org/pub/png/libpng.html |
+| **libpng** | 1.6.52 | Official PNG reference library | http://www.libpng.org/pub/png/libpng.html |
+| **libpng-static** | 1.6.52 | Static libraries for libpng | http://www.libpng.org/pub/png/libpng.html |
 | **libpngwriter** | 0.7.0-1 | C++ library for creating PNG images | https://pngwriter.sourceforge.net |
 | **libpngwriter-static** | 0.7.0-1 | Static libraries for libpngwriter | https://pngwriter.sourceforge.net |
 | **libpoco** | 1.14.2-1 | A comprehensive set of C++ libraries that cover all modern-day programming needs | https://pocoproject.org/ |
