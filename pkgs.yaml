@@ -3079,7 +3079,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.24.402
+  Version: 0.24.404
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -9775,7 +9775,7 @@
   Description: Terminal multiplexer with instant terminal sharing
   Homepage: https://tmate.io
 - Package: tmux
-  Version: 3.6-1
+  Version: 3.6a
   Description: Terminal multiplexer
   Homepage: https://tmux.github.io/
 - Package: toilet
