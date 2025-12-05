@@ -418,7 +418,7 @@
  eltclsh  1.20-1  Interactive shell for TCL programming language  https://homepages.laas.fr/mallet/soft/shell/eltclsh 
  elvish  0.21.0-1  A friendly and expressive Unix shell  https://github.com/elves/elvish 
  emacs  30.2  Extensible, customizable text editor-and more  https://www.gnu.org/software/emacs/ 
- emmylua-ls  0.17.0  Emmy Lua Language Server coded in Rust  https://github.com/EmmyLuaLs/emmylua-analyzer-rust 
+ emmylua-ls  0.18.0  Emmy Lua Language Server coded in Rust  https://github.com/EmmyLuaLs/emmylua-analyzer-rust 
  emscripten  4.0.20  Emscripten: An LLVM-to-WebAssembly Compiler  https://emscripten.org 
  emscripten-binaryen  4.0.20  Emscripten-compatible Binaryen  https://emscripten.org 
  emscripten-llvm  4.0.20  Emscripten-compatible LLVM  https://emscripten.org 
@@ -574,7 +574,7 @@
  gitoxide  0.47.0  Rust implementation of Git  https://github.com/Byron/gitoxide 
  gitui  0.27.0-3  Blazing fast terminal-ui for git written in rust  https://github.com/extrawurst/gitui 
  gkermit  2.01-1  Simple, Portable, Free File Transfer Software for UNIX  http://www.columbia.edu/kermit/gkermit.html 
- glab-cli  1.78.3  A GitLab CLI tool bringing GitLab to your command line  https://gitlab.com/gitlab-org/cli 
+ glab-cli  1.79.0  A GitLab CLI tool bringing GitLab to your command line  https://gitlab.com/gitlab-org/cli 
  gleam  1.13.0  A friendly language for building type-safe, scalable systems!  https://gleam.run 
  glib  2.86.2  Library providing core building blocks for libraries and applications written in C  https://developer.gnome.org/glib/ 
  glib-cross  2.86.2  glib for host (NOT for Termux)  https://developer.gnome.org/glib/ 
@@ -808,7 +808,7 @@
  kakoune  2025.06.03-2  Code editor heavily inspired by Vim  https://kakoune.org/ 
  kakoune-lsp  18.2.0-1  Language Server Protocol Client for the Kakoune editor  https://github.com/kakoune-lsp/kakoune-lsp 
  kbd  2.9.0  KBD's showkey utility for examining keycodes  https://kbd-project.org/ 
- kcptun  20251124  A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC  https://github.com/xtaci/kcptun 
+ kcptun  20251205  A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC  https://github.com/xtaci/kcptun 
  keybase  6.5.1-1  Key directory that maps social media identities to encryption keys  https://keybase.io 
  keychain  2.9.8  keychain ssh-agent front-end  https://www.funtoo.org/Keychain 
  kibi  0.3.2  A tiny terminal text editor, written in Rust  https://github.com/ilai-deutel/kibi 
@@ -1232,7 +1232,7 @@
  libnpth-static  1.6-3  Static libraries for libnpth  https://www.gnupg.org/related_software/npth/ 
  libnspr  4.38.2  Netscape Portable Runtime (NSPR)  https://hg.mozilla.org/projects/nspr 
  libnspr-static  4.38.2  Static libraries for libnspr  https://hg.mozilla.org/projects/nspr 
- libnss  3.118.1  Network Security Services (NSS)  https://firefox-source-docs.mozilla.org/security/nss/ 
+ libnss  3.119  Network Security Services (NSS)  https://firefox-source-docs.mozilla.org/security/nss/ 
  libntl  11.5.1-1  A Library for doing Number Theory  https://libntl.org 
  libntl-static  11.5.1-1  Static libraries for libntl  https://libntl.org 
  libobjc2  2.3-1  The GNUstep Objective-C runtime  https://www.gnustep.org/ 
@@ -1604,7 +1604,7 @@
  lux  0.24.1-2  CLI tool to download videos from various websites  https://github.com/iawia002/lux 
  lux-cli  0.21.0  A package manager for Lua, similar to luarocks  https://nvim-neorocks.github.io/ 
  lv2  1.18.10-5  A plugin standard for audio systems  https://lv2plug.in/ 
- lychee  0.21.0  A fast, async, resource-friendly link checker written in Rust  https://github.com/lycheeverse/lychee 
+ lychee  0.22.0  A fast, async, resource-friendly link checker written in Rust  https://github.com/lycheeverse/lychee 
  lynx  2.9.2-1  The text web browser  http://lynx.browser.org/ 
  lyrebird  0.6.1-1  A pluggable transport plugin for Tor  https://gitlab.torproject.org/tpo/anti-censorship/pluggable-transports 
  lz4  1.10.0-1  Fast LZ compression algorithm tool  https://lz4.github.io/lz4/ 
@@ -1816,7 +1816,7 @@
  nsis  3.11-1  A professional open source system to create Windows installers  https://sourceforge.net/projects/nsis/ 
  nsis-stubs  3.11-1  NSIS Stubs  https://sourceforge.net/projects/nsis/ 
  nsnake  3.0.1-7  The classic snake game with textual interface  https://github.com/alexdantas/nSnake 
- nss-utils  3.118.1  Tools for NSS  https://firefox-source-docs.mozilla.org/security/nss/ 
+ nss-utils  3.119  Tools for NSS  https://firefox-source-docs.mozilla.org/security/nss/ 
  nudoku  6.0.0  ncurses based sudoku game  http://jubalh.github.io/nudoku/ 
  nushell  0.109.1  A new type of shell operating on structured data  https://www.nushell.sh 
  nyancat  1.5.2-1  Nyancat in your terminal, rendered through ANSI escape sequences.  http://nyancat.dakko.us 
