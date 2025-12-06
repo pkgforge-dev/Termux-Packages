@@ -4963,7 +4963,7 @@
   },
   {
     "Package": "lazygit",
-    "Version": "0.56.0",
+    "Version": "0.57.0",
     "Description": "Simple terminal UI for git commands",
     "Homepage": "https://github.com/jesseduffield/lazygit"
   },
@@ -6223,7 +6223,7 @@
   },
   {
     "Package": "libgit2",
-    "Version": "1.9.1-1",
+    "Version": "1.9.2",
     "Description": "C library implementing Git core methods",
     "Homepage": "https://libgit2.github.com/"
   },
@@ -12199,19 +12199,19 @@
   },
   {
     "Package": "pypy3",
-    "Version": "7.3.19-1",
+    "Version": "7.3.20",
     "Description": "A fast, compliant alternative implementation of Python 3",
     "Homepage": "https://pypy.org"
   },
   {
     "Package": "pypy3-tests",
-    "Version": "7.3.19-1",
+    "Version": "7.3.20",
     "Description": "Test files for PyPy 3",
     "Homepage": "https://pypy.org"
   },
   {
     "Package": "pypy3-tkinter",
-    "Version": "7.3.19-1",
+    "Version": "7.3.20",
     "Description": "Tkinter support for PyPy 3",
     "Homepage": "https://pypy.org"
   },
