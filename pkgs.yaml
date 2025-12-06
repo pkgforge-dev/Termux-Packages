@@ -3079,7 +3079,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.24.408
+  Version: 0.24.408-1
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -8611,9 +8611,9 @@
   Description: Restics REST backend API server
   Homepage: https://restic.net/
 - Package: restish
-  Version: 0.21.0-cifix-0
+  Version: 0.21.1
   Description: A CLI for interacting with REST-ish HTTP APIs
-  Homepage: https://github.com/danielgtaylor/restish
+  Homepage: https://github.com/rest-sh/restish
 - Package: rgbds
   Version: 1.0.0
   Description: Rednex Game Boy Development System - An assembly toolchain for the Nintendo Game Boy & Game Boy Color

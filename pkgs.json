@@ -4621,7 +4621,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.24.408",
+    "Version": "0.24.408-1",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -12919,9 +12919,9 @@
   },
   {
     "Package": "restish",
-    "Version": "0.21.0-cifix-0",
+    "Version": "0.21.1",
     "Description": "A CLI for interacting with REST-ish HTTP APIs",
-    "Homepage": "https://github.com/danielgtaylor/restish"
+    "Homepage": "https://github.com/rest-sh/restish"
   },
   {
     "Package": "rgbds",
