@@ -3079,7 +3079,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.24.404
+  Version: 0.24.408
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -5143,11 +5143,11 @@
   Description: Static libraries for libpluto
   Homepage: https://plutolang.github.io/
 - Package: libpng
-  Version: 1.6.52
+  Version: 1.6.53
   Description: Official PNG reference library
   Homepage: http://www.libpng.org/pub/png/libpng.html
 - Package: libpng-static
-  Version: 1.6.52
+  Version: 1.6.53
   Description: Static libraries for libpng
   Homepage: http://www.libpng.org/pub/png/libpng.html
 - Package: libpngwriter
