@@ -812,7 +812,7 @@
 | **jsoncpp-static** | 1.9.6-2 | Static libraries for jsoncpp | https://github.com/open-source-parsers/jsoncpp |
 | **jump** | 0.51.0-3 | Jump helps you navigate in shell faster by learning your habits | https://github.com/gsamokovarov/jump |
 | **jupp** | 3.1jupp41-3 | User friendly full screen text editor | http://www.mirbsd.org/jupp.htm |
-| **just** | 1.43.1 | A handy way to save and run project-specific commands | https://just.systems |
+| **just** | 1.44.0 | A handy way to save and run project-specific commands | https://just.systems |
 | **jython** | 2.7.4-1 | Python for the Java Platform | https://www.jython.org/ |
 | **k2pdfopt** | 2.55-4 | A tool that optimizes PDF files for viewing on mobile readers | https://www.willus.com/k2pdfopt/ |
 | **k9s** | 0.50.16 | Kubernetes CLI To Manage Your Clusters In Style! | https://k9scli.io |
@@ -2078,10 +2078,10 @@
 | **python-tflite-runtime** | 2.20.0 | TensorFlow Lite Python bindings | https://www.tensorflow.org/lite |
 | **python-tkinter** | 3.12.12 | Tkinter support for Python 3 | https://python.org/ |
 | **python-tldp** | 0.7.5-5 | Tools for publishing from TLDP sources | https://github.com/tLDP/python-tldp |
-| **python-torch** | 2.9.0-1 | Tensors and Dynamic neural networks in Python | https://pytorch.org/ |
-| **python-torch-static** | 2.9.0-1 | Static libraries for python-torch | https://pytorch.org/ |
-| **python-torchaudio** | 2.9.0 | Data manipulation and transformation for audio signal processing, powered by PyTorch | https://github.com/pytorch/audio |
-| **python-torchcodec** | 0.8.1-1 | PyTorch media decoding and encoding | https://github.com/pytorch/torchcodec |
+| **python-torch** | 2.9.1 | Tensors and Dynamic neural networks in Python | https://pytorch.org/ |
+| **python-torch-static** | 2.9.1 | Static libraries for python-torch | https://pytorch.org/ |
+| **python-torchaudio** | 2.9.1 | Data manipulation and transformation for audio signal processing, powered by PyTorch | https://github.com/pytorch/audio |
+| **python-torchcodec** | 0.9.0 | PyTorch media decoding and encoding | https://github.com/pytorch/torchcodec |
 | **python-torchvision** | 0.24.1-1 | Datasets, Transforms and Models specific to Computer Vision | https://github.com/pytorch/vision |
 | **python-xcbgen** | 1.17.0-1 | The xcbgen Python module | https://xcb.freedesktop.org/ |
 | **python-xlib** | 0.33-1 | The Python X Library | https://github.com/python-xlib/python-xlib |
@@ -2479,8 +2479,8 @@
 | **tree-sitter-static** | 0.25.10-1 | Static libraries for tree-sitter | https://tree-sitter.github.io/ |
 | **tree-sitter-vim** | 0.7.0-1 | Vimscript grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-vim |
 | **tree-sitter-vim-static** | 0.7.0-1 | Static libraries for tree-sitter-vim | https://github.com/tree-sitter-grammars/tree-sitter-vim |
-| **tree-sitter-vimdoc** | 4.0.1 | Tree-sitter parser for Vim help files | https://github.com/neovim/tree-sitter-vimdoc |
-| **tree-sitter-vimdoc-static** | 4.0.1 | Static libraries for tree-sitter-vimdoc | https://github.com/neovim/tree-sitter-vimdoc |
+| **tree-sitter-vimdoc** | 4.0.2 | Tree-sitter parser for Vim help files | https://github.com/neovim/tree-sitter-vimdoc |
+| **tree-sitter-vimdoc-static** | 4.0.2 | Static libraries for tree-sitter-vimdoc | https://github.com/neovim/tree-sitter-vimdoc |
 | **trojan-go** | 0.10.6-4 | A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW | https://p4gefau1t.github.io/trojan-go |
 | **trunk** | 0.21.14 | Build, bundle & ship your Rust WASM application to the web | https://trunkrs.dev/ |
 | **trurl** | 0.16.1-1 | trurl is a command line tool that parses and manipulates URLs | https://curl.se/trurl/ |

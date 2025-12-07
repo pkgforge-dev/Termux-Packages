@@ -3207,7 +3207,7 @@
   Description: User friendly full screen text editor
   Homepage: http://www.mirbsd.org/jupp.htm
 - Package: just
-  Version: 1.43.1
+  Version: 1.44.0
   Description: A handy way to save and run project-specific commands
   Homepage: https://just.systems
 - Package: jython
@@ -8271,19 +8271,19 @@
   Description: Tools for publishing from TLDP sources
   Homepage: https://github.com/tLDP/python-tldp
 - Package: python-torch
-  Version: 2.9.0-1
+  Version: 2.9.1
   Description: Tensors and Dynamic neural networks in Python
   Homepage: https://pytorch.org/
 - Package: python-torch-static
-  Version: 2.9.0-1
+  Version: 2.9.1
   Description: Static libraries for python-torch
   Homepage: https://pytorch.org/
 - Package: python-torchaudio
-  Version: 2.9.0
+  Version: 2.9.1
   Description: Data manipulation and transformation for audio signal processing, powered by PyTorch
   Homepage: https://github.com/pytorch/audio
 - Package: python-torchcodec
-  Version: 0.8.1-1
+  Version: 0.9.0
   Description: PyTorch media decoding and encoding
   Homepage: https://github.com/pytorch/torchcodec
 - Package: python-torchvision
@@ -9875,11 +9875,11 @@
   Description: Static libraries for tree-sitter-vim
   Homepage: https://github.com/tree-sitter-grammars/tree-sitter-vim
 - Package: tree-sitter-vimdoc
-  Version: 4.0.1
+  Version: 4.0.2
   Description: Tree-sitter parser for Vim help files
   Homepage: https://github.com/neovim/tree-sitter-vimdoc
 - Package: tree-sitter-vimdoc-static
-  Version: 4.0.1
+  Version: 4.0.2
   Description: Static libraries for tree-sitter-vimdoc
   Homepage: https://github.com/neovim/tree-sitter-vimdoc
 - Package: trojan-go
