@@ -1683,19 +1683,19 @@
   Description: Emmy Lua Language Server coded in Rust
   Homepage: https://github.com/EmmyLuaLs/emmylua-analyzer-rust
 - Package: emscripten
-  Version: 4.0.20
+  Version: 4.0.21-1
   Description: 'Emscripten: An LLVM-to-WebAssembly Compiler'
   Homepage: https://emscripten.org
 - Package: emscripten-binaryen
-  Version: 4.0.20
+  Version: 4.0.21-1
   Description: Emscripten-compatible Binaryen
   Homepage: https://emscripten.org
 - Package: emscripten-llvm
-  Version: 4.0.20
+  Version: 4.0.21-1
   Description: Emscripten-compatible LLVM
   Homepage: https://emscripten.org
 - Package: emscripten-tests-third-party
-  Version: 4.0.20
+  Version: 4.0.21-1
   Description: Emscripten third party test suite files
   Homepage: https://emscripten.org
 - Package: enblend
