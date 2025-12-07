@@ -703,7 +703,7 @@
   Description: A metapackage that installs essential development tools
   Homepage: https://github.com/termux/termux-packages
 - Package: busybox
-  Version: 1.37.0-2
+  Version: 1.37.0-3
   Description: Tiny versions of many common UNIX utilities into a single small executable
   Homepage: https://busybox.net/
 - Package: bvi
@@ -4351,7 +4351,7 @@
   Description: Static libraries for libimagequant
   Homepage: https://pngquant.org/lib/
 - Package: libimobiledevice
-  Version: 1.3.0-p20250228-1
+  Version: 1.3.0-p20250228-2
   Description: A library to communicate with services on iOS devices using native protocols
   Homepage: https://libimobiledevice.org/
 - Package: libimobiledevice-glue
@@ -4363,7 +4363,7 @@
   Description: Static libraries for libimobiledevice-glue
   Homepage: https://libimobiledevice.org/
 - Package: libimobiledevice-static
-  Version: 1.3.0-p20250228-1
+  Version: 1.3.0-p20250228-2
   Description: Static libraries for libimobiledevice
   Homepage: https://libimobiledevice.org/
 - Package: libimtui
@@ -5175,7 +5175,7 @@
   Description: Static libraries for libpopt
   Homepage: https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html
 - Package: libprotobuf
-  Version: "2:33.1"
+  Version: 2:33.1-1
   Description: Protocol buffers C++ library
   Homepage: https://github.com/protocolbuffers/protobuf
 - Package: libprotobuf-c
@@ -6511,7 +6511,7 @@
   Description: Small CLI app to learn with flashcards and spaced repetition
   Homepage: https://github.com/bttger/markdown-flashcards
 - Package: marksman
-  Version: 2024.12.18
+  Version: 2025.11.30
   Description: LSP language server for editing Markdown files
   Homepage: https://github.com/artempyanykh/marksman
 - Package: mathomatic
@@ -7323,7 +7323,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 28.1.0
+  Version: 28.1.1
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -8043,7 +8043,7 @@
   Description: Termux official utility for managing prooted Linux distributions
   Homepage: https://github.com/termux/proot-distro
 - Package: protobuf
-  Version: "2:33.1"
+  Version: 2:33.1-1
   Description: Compiler for protocol buffer definition files
   Homepage: https://github.com/protocolbuffers/protobuf
 - Package: protobuf-dev
@@ -10719,7 +10719,7 @@
   Description: Static libraries for zlib
   Homepage: https://www.zlib.net/
 - Package: zls
-  Version: 0.15.0
+  Version: 0.15.1
   Description: Zig language server
   Homepage: https://github.com/zigtools/zls
 - Package: znc
