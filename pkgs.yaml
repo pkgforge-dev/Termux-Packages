@@ -3582,6 +3582,14 @@
   Version: 1.21.6-2
   Description: Static libraries for libblosc
   Homepage: https://www.blosc.org
+- Package: libblosc2
+  Version: 2.22.0
+  Description: A blocking, shuffling and loss-less compression library
+  Homepage: https://www.blosc.org
+- Package: libblosc2-static
+  Version: 2.22.0
+  Description: Static libraries for libblosc2
+  Homepage: https://www.blosc.org
 - Package: libbluray
   Version: 1.4.0
   Description: An open-source library designed for Blu-Ray Discs playback for media players
@@ -6415,7 +6423,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.21.0
+  Version: 0.22.0
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://nvim-neorocks.github.io/
 - Package: lv2
