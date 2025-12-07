@@ -1323,7 +1323,7 @@
   Description: A lightweight, secure, and feature-rich Discord terminal client
   Homepage: https://github.com/ayntgl/discordo
 - Package: diskus
-  Version: 0.8.0-1
+  Version: 0.9.0
   Description: A minimal, fast alternative to du -sh
   Homepage: https://github.com/sharkdp/diskus
 - Package: distant
@@ -2579,11 +2579,11 @@
   Description: Static libraries for graphicsmagick
   Homepage: http://www.graphicsmagick.org/
 - Package: graphviz
-  Version: 14.0.5
+  Version: 14.1.0
   Description: Rich set of graph drawing tools
   Homepage: https://www.graphviz.org/
 - Package: graphviz-static
-  Version: 14.0.5
+  Version: 14.1.0
   Description: Static libraries for graphviz
   Homepage: https://www.graphviz.org/
 - Package: greed
@@ -9795,7 +9795,7 @@
   Description: toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library
   Homepage: https://github.com/ToruNiina/toml11
 - Package: topgrade
-  Version: 16.6.0
+  Version: 16.6.1
   Description: Upgrade all the things
   Homepage: https://github.com/topgrade-rs/topgrade/
 - Package: tor
@@ -9875,11 +9875,11 @@
   Description: Static libraries for tree-sitter-vim
   Homepage: https://github.com/tree-sitter-grammars/tree-sitter-vim
 - Package: tree-sitter-vimdoc
-  Version: 4.0.0-3
+  Version: 4.0.1
   Description: Tree-sitter parser for Vim help files
   Homepage: https://github.com/neovim/tree-sitter-vimdoc
 - Package: tree-sitter-vimdoc-static
-  Version: 4.0.0-3
+  Version: 4.0.1
   Description: Static libraries for tree-sitter-vimdoc
   Homepage: https://github.com/neovim/tree-sitter-vimdoc
 - Package: trojan-go

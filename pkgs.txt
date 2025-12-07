@@ -329,7 +329,7 @@
  direnv  2.37.1-1  Environment switcher for shell  https://github.com/direnv/direnv 
  direvent  5.4-1  Monitor of events in file system directories  https://www.gnu.org.ua/software/direvent/ 
  discordo  2025.08.06  A lightweight, secure, and feature-rich Discord terminal client  https://github.com/ayntgl/discordo 
- diskus  0.8.0-1  A minimal, fast alternative to 'du -sh'  https://github.com/sharkdp/diskus 
+ diskus  0.9.0  A minimal, fast alternative to 'du -sh'  https://github.com/sharkdp/diskus 
  distant  1:0.20.0-3  Library and tooling that supports remote filesystem and process  https://github.com/chipsenkbeil/distant 
  distcc  3.4-4  Distributed C/C++ compiler  http://distcc.org/ 
  djvulibre  3.5.29-1  Suite to create, manipulate and view DjVu ('déjà vu') documents  https://djvu.sourceforge.net/ 
@@ -643,8 +643,8 @@
  graphene  1.10.8-3  A thin layer of graphic data types  https://ebassi.github.io/graphene/ 
  graphicsmagick  1.3.46  Collection of image processing tools  http://www.graphicsmagick.org/ 
  graphicsmagick-static  1.3.46  Static libraries for graphicsmagick  http://www.graphicsmagick.org/ 
- graphviz  14.0.5  Rich set of graph drawing tools  https://www.graphviz.org/ 
- graphviz-static  14.0.5  Static libraries for graphviz  https://www.graphviz.org/ 
+ graphviz  14.1.0  Rich set of graph drawing tools  https://www.graphviz.org/ 
+ graphviz-static  14.1.0  Static libraries for graphviz  https://www.graphviz.org/ 
  greed  4.3-1  Game where you try to eat as much as possible of the board before munching yourself into a corner  http://www.catb.org/~esr/greed/ 
  grep  3.12-2  Command which searches one or more input files for lines containing a match to a specified pattern  https://www.gnu.org/software/grep/ 
  grex  1.4.6  Simplifies the task of creating regular expressions  https://github.com/pemistahl/grex 
@@ -2447,7 +2447,7 @@
  tokei  13.0.0-alpha.9-1  A blazingly fast CLOC (Count Lines Of Code) program  https://github.com/XAMPPRocky/tokei 
  tome2  2022.12.27-6  An open world roguelike adventure set in middle earth  https://github.com/tome2/tome2 
  toml11  4.4.0  toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library  https://github.com/ToruNiina/toml11 
- topgrade  16.6.0  Upgrade all the things  https://github.com/topgrade-rs/topgrade/ 
+ topgrade  16.6.1  Upgrade all the things  https://github.com/topgrade-rs/topgrade/ 
  tor  0.4.8.21  The Onion Router anonymizing overlay network  https://www.torproject.org 
  torsocks  2.5.0-1  Wrapper to safely torify applications  https://gitlab.torproject.org/tpo/core/torsocks 
  torsocks-static  2.5.0-1  Static libraries for torsocks  https://gitlab.torproject.org/tpo/core/torsocks 
@@ -2467,8 +2467,8 @@
  tree-sitter-static  0.25.10-1  Static libraries for tree-sitter  https://tree-sitter.github.io/ 
  tree-sitter-vim  0.7.0-1  Vimscript grammar for tree-sitter  https://github.com/tree-sitter-grammars/tree-sitter-vim 
  tree-sitter-vim-static  0.7.0-1  Static libraries for tree-sitter-vim  https://github.com/tree-sitter-grammars/tree-sitter-vim 
- tree-sitter-vimdoc  4.0.0-3  Tree-sitter parser for Vim help files  https://github.com/neovim/tree-sitter-vimdoc 
- tree-sitter-vimdoc-static  4.0.0-3  Static libraries for tree-sitter-vimdoc  https://github.com/neovim/tree-sitter-vimdoc 
+ tree-sitter-vimdoc  4.0.1  Tree-sitter parser for Vim help files  https://github.com/neovim/tree-sitter-vimdoc 
+ tree-sitter-vimdoc-static  4.0.1  Static libraries for tree-sitter-vimdoc  https://github.com/neovim/tree-sitter-vimdoc 
  trojan-go  0.10.6-4  A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW  https://p4gefau1t.github.io/trojan-go 
  trunk  0.21.14  Build, bundle & ship your Rust WASM application to the web  https://trunkrs.dev/ 
  trurl  0.16.1-1  trurl is a command line tool that parses and manipulates URLs  https://curl.se/trurl/ 
