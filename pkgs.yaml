@@ -1999,7 +1999,7 @@
   Description: Static libraries for freetype
   Homepage: https://www.freetype.org
 - Package: frei0r-plugins
-  Version: 2.5.1
+  Version: 2.5.1-1
   Description: Minimalistic plugin API for video effects
   Homepage: https://www.dyne.org/software/frei0r/
 - Package: fribidi
@@ -3963,7 +3963,7 @@
   Description: Extensible Binary Meta Language library
   Homepage: https://github.com/Matroska-Org/libebml
 - Package: libebur128
-  Version: 1.2.6-3
+  Version: 1.2.6-4
   Description: Implements the EBU R 128 standard for loudness normalisation
   Homepage: https://github.com/jiixyj/libebur128
 - Package: libedit
@@ -5935,7 +5935,7 @@
   Description: A library containing the AudioProcessing module from the WebRTC project
   Homepage: https://www.freedesktop.org/software/pulseaudio/webrtc-audio-processing/
 - Package: libwebsockets
-  Version: 4.5.2
+  Version: 4.5.2-1
   Description: Lightweight C websockets library
   Homepage: https://libwebsockets.org
 - Package: libwolfssl
@@ -9127,11 +9127,11 @@
   Description: Relay for bidirectional data transfer between two independent data channels
   Homepage: http://www.dest-unreach.org/socat/
 - Package: softether-vpn
-  Version: 5.2.5188
+  Version: 5.2.5188-1
   Description: An open-source cross-platform multi-protocol VPN program
   Homepage: https://www.softether.org/
 - Package: softether-vpn-static
-  Version: 5.2.5188
+  Version: 5.2.5188-1
   Description: Static libraries for softether-vpn
   Homepage: https://www.softether.org/
 - Package: soju
