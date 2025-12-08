@@ -2269,7 +2269,7 @@
   },
   {
     "Package": "double-conversion",
-    "Version": "3.3.1-1",
+    "Version": "3.4.0",
     "Description": "Binary-decimal and decimal-binary routines for IEEE doubles",
     "Homepage": "https://github.com/google/double-conversion"
   },
@@ -4849,7 +4849,7 @@
   },
   {
     "Package": "kakoune-lsp",
-    "Version": "18.2.0-1",
+    "Version": "19.0.0",
     "Description": "Language Server Protocol Client for the Kakoune editor",
     "Homepage": "https://github.com/kakoune-lsp/kakoune-lsp"
   },
@@ -11713,7 +11713,7 @@
   },
   {
     "Package": "php-apcu",
-    "Version": "5.1.27",
+    "Version": "5.1.28",
     "Description": "APCu - APC User Cache",
     "Homepage": "http://php.net/apcu"
   },
@@ -13171,7 +13171,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20251201",
+    "Version": "20251208",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://rust-analyzer.github.io/"
   },
@@ -14023,7 +14023,7 @@
   },
   {
     "Package": "strace",
-    "Version": "6.17",
+    "Version": "6.18",
     "Description": "Debugging utility to monitor system calls and signals received",
     "Homepage": "https://strace.io/"
   },
@@ -14239,7 +14239,7 @@
   },
   {
     "Package": "tar",
-    "Version": "1.35-1",
+    "Version": "1.35-2",
     "Description": "GNU tar for manipulating tar archives",
     "Homepage": "https://www.gnu.org/software/tar/"
   },

@@ -376,7 +376,7 @@
  dotnet-templates-9.0  9.0.11-1  .NET 9.0 Templates  https://dotnet.microsoft.com/en-us/ 
  dotnet8.0  8.0.22-2  .NET 8.0  https://dotnet.microsoft.com/en-us/ 
  dotnet9.0  9.0.11-1  .NET 9.0  https://dotnet.microsoft.com/en-us/ 
- double-conversion  3.3.1-1  Binary-decimal and decimal-binary routines for IEEE doubles  https://github.com/google/double-conversion 
+ double-conversion  3.4.0  Binary-decimal and decimal-binary routines for IEEE doubles  https://github.com/google/double-conversion 
  doxygen  1.15.0  A documentation system for C++, C, Java, IDL and PHP  http://www.doxygen.org 
  dpkg  1.22.6-5  Debian package management system  https://packages.debian.org/dpkg 
  dpkg-perl  1.22.6-5  Perl modules for dpkg  https://packages.debian.org/dpkg 
@@ -806,7 +806,7 @@
  k9s  0.50.16  Kubernetes CLI To Manage Your Clusters In Style!  https://k9scli.io 
  kainjow-mustache  4.1  Mustache implementation for modern C++  https://github.com/kainjow/Mustache 
  kakoune  2025.06.03-2  Code editor heavily inspired by Vim  https://kakoune.org/ 
- kakoune-lsp  18.2.0-1  Language Server Protocol Client for the Kakoune editor  https://github.com/kakoune-lsp/kakoune-lsp 
+ kakoune-lsp  19.0.0  Language Server Protocol Client for the Kakoune editor  https://github.com/kakoune-lsp/kakoune-lsp 
  kbd  2.9.0  KBD's showkey utility for examining keycodes  https://kbd-project.org/ 
  kcptun  20251205  A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC  https://github.com/xtaci/kcptun 
  keybase  6.5.1-1  Key directory that maps social media identities to encryption keys  https://keybase.io 
@@ -1950,7 +1950,7 @@
  php-apache-opcache  8.4.2-4  OPcache module for PHP/Apache  https://php.net 
  php-apache-pgsql  8.4.2-4  PostgreSQL modules for PHP/Apache  https://php.net 
  php-apache-sodium  8.4.2-4  Sodium module for PHP/Apache  https://php.net 
- php-apcu  5.1.27  APCu - APC User Cache  http://php.net/apcu 
+ php-apcu  5.1.28  APCu - APC User Cache  http://php.net/apcu 
  php-fpm  8.4.2-4  FastCGI Process Manager for PHP  https://php.net 
  php-gd  8.4.2-4  gd module for PHP  https://php.net 
  php-imagick  3.8.1  The Imagick PHP extension  https://github.com/Imagick/imagick 
@@ -2193,7 +2193,7 @@
  runit-static  2.1.2-4  Static libraries for runit  http://smarden.org/runit 
  rush  0.7.0-1  A cross-platform command-line tool for executing jobs in parallel  https://github.com/shenwei356/rush 
  rust  1.91.1-2  Systems programming language focused on safety, speed and concurrency  https://www.rust-lang.org/ 
- rust-analyzer  20251201  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
+ rust-analyzer  20251208  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
  rust-bindgen  0.72.1  Automatically generates Rust FFI bindings to C (and some C++) libraries  https://github.com/rust-lang/rust-bindgen 
  rust-docs  1.91.1-2  Rust documentation  https://www.rust-lang.org/ 
  rust-src  1.91.1-2  Rust source code files  https://www.rust-lang.org/ 
@@ -2335,7 +2335,7 @@
  stone  2.4-3  A TCP/IP repeater in the application layer  https://www.gcd.org/sengoku/stone/ 
  storj-uplink  1.143.2  Storj DCS Uplink CLI  https://www.storj.io/integrations/uplink-cli 
  stow  2.4.1  Tool for managing the installation of multiple software packages into a single directory  https://www.gnu.org/software/stow/ 
- strace  6.17  Debugging utility to monitor system calls and signals received  https://strace.io/ 
+ strace  6.18  Debugging utility to monitor system calls and signals received  https://strace.io/ 
  streamripper  1.64.6-3  Records and splits streaming mp3 into tracks  https://streamripper.sourceforge.net/ 
  stunnel  5.76  Socket wrapper which can provide TLS support to ordinary applications  https://www.stunnel.org/ 
  stunnel-static  5.76  Static libraries for stunnel  https://www.stunnel.org/ 
@@ -2371,7 +2371,7 @@
  ta-lib-static  0.5.0  Static libraries for ta-lib  https://ta-lib.org/ 
  taglib  2.1.1-3  A Library for reading and editing the meta-data of several popular audio formats.  http://taglib.github.io/ 
  taplo  0.10.0-1  A TOML LSP and toolkit  https://taplo.tamasfe.dev/ 
- tar  1.35-1  GNU tar for manipulating tar archives  https://www.gnu.org/software/tar/ 
+ tar  1.35-2  GNU tar for manipulating tar archives  https://www.gnu.org/software/tar/ 
  task-spooler  1:1.0.3-1  Task spooler is a Unix batch system where the tasks spooled run one after the other  https://vicerveza.homeunix.net/~viric/soft/ts/ 
  tasksh  1.2.0-11  Shell command wrapping Taskwarrior commands  https://taskwarrior.org 
  taskwarrior  3.4.2-1  Utility for managing your TODO list  https://taskwarrior.org 

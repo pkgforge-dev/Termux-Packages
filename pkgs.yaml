@@ -1511,7 +1511,7 @@
   Description: .NET 9.0
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: double-conversion
-  Version: 3.3.1-1
+  Version: 3.4.0
   Description: Binary-decimal and decimal-binary routines for IEEE doubles
   Homepage: https://github.com/google/double-conversion
 - Package: doxygen
@@ -3231,7 +3231,7 @@
   Description: Code editor heavily inspired by Vim
   Homepage: https://kakoune.org/
 - Package: kakoune-lsp
-  Version: 18.2.0-1
+  Version: 19.0.0
   Description: Language Server Protocol Client for the Kakoune editor
   Homepage: https://github.com/kakoune-lsp/kakoune-lsp
 - Package: kbd
@@ -7807,7 +7807,7 @@
   Description: Sodium module for PHP/Apache
   Homepage: https://php.net
 - Package: php-apcu
-  Version: 5.1.27
+  Version: 5.1.28
   Description: APCu - APC User Cache
   Homepage: http://php.net/apcu
 - Package: php-fpm
@@ -8779,7 +8779,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: "20251201"
+  Version: "20251208"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://rust-analyzer.github.io/
 - Package: rust-bindgen
@@ -9347,7 +9347,7 @@
   Description: Tool for managing the installation of multiple software packages into a single directory
   Homepage: https://www.gnu.org/software/stow/
 - Package: strace
-  Version: "6.17"
+  Version: "6.18"
   Description: Debugging utility to monitor system calls and signals received
   Homepage: https://strace.io/
 - Package: streamripper
@@ -9491,7 +9491,7 @@
   Description: A TOML LSP and toolkit
   Homepage: https://taplo.tamasfe.dev/
 - Package: tar
-  Version: 1.35-1
+  Version: 1.35-2
   Description: GNU tar for manipulating tar archives
   Homepage: https://www.gnu.org/software/tar/
 - Package: task-spooler
