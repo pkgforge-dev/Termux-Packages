@@ -2087,7 +2087,7 @@
 | **python-torchvision** | 0.24.1-1 | Datasets, Transforms and Models specific to Computer Vision | https://github.com/pytorch/vision |
 | **python-xcbgen** | 1.17.0-1 | The xcbgen Python module | https://xcb.freedesktop.org/ |
 | **python-xlib** | 0.33-1 | The Python X Library | https://github.com/python-xlib/python-xlib |
-| **python-yt-dlp** | 2025.11.12-1 | A youtube-dl fork with additional features and fixes | https://github.com/yt-dlp/yt-dlp |
+| **python-yt-dlp** | 2025.12.08 | A youtube-dl fork with additional features and fixes | https://github.com/yt-dlp/yt-dlp |
 | **python2** | 2.7.18-15 | Python 2 programming language intended to enable clear programs | http://python.org/ |
 | **python2-static** | 2.7.18-15 | Static libraries for python2 | http://python.org/ |
 | **pyunbound** | 1.24.2 | Python bindings for Unbound | https://unbound.net/ |
@@ -2675,7 +2675,7 @@
 | **yosys** | 0.60 | A framework for RTL synthesis tools | https://yosyshq.net/yosys/ |
 | **youtubedr** | 2.10.5 | Download youtube video in Golang | https://github.com/kkdai/youtube |
 | **yq** | 4.49.2 | A lightweight and portable command-line YAML, JSON and XML processor | https://mikefarah.gitbook.io/yq/ |
-| **yt-dlp-ejs** | 0.3.1 | External JavaScript for yt-dlp supporting many runtimes | https://github.com/yt-dlp/ejs |
+| **yt-dlp-ejs** | 0.3.2 | External JavaScript for yt-dlp supporting many runtimes | https://github.com/yt-dlp/ejs |
 | **ytfzf** | 2.6.2 | A POSIX script that helps you find Youtube videos (without API) | https://github.com/pystardust/ytfzf |
 | **ytui-music** | 2.0.0-beta-3 | Youtube client in terminal for music | https://github.com/sudipghimire533/ytui-music |
 | **yuma123** | 2.13-4 | Provides an opensource YANG API in C | https://yuma123.org/ |
