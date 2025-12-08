@@ -799,19 +799,19 @@
   },
   {
     "Package": "binutils",
-    "Version": "2.44-4",
+    "Version": "2.45.1",
     "Description": "GNU Binutils (metapackage)",
     "Homepage": "https://www.gnu.org/software/binutils/"
   },
   {
     "Package": "binutils-bin",
-    "Version": "2.44-4",
+    "Version": "2.45.1",
     "Description": "Collection of binary tools, the main ones being ld, the GNU linker, and as, the GNU assembler",
     "Homepage": "https://www.gnu.org/software/binutils/"
   },
   {
     "Package": "binutils-cross",
-    "Version": "2.44-4",
+    "Version": "2.45.1",
     "Description": "GNU Binutils for cross build on the host (NOT for Termux)",
     "Homepage": "https://www.gnu.org/software/binutils/"
   },
@@ -829,7 +829,7 @@
   },
   {
     "Package": "binutils-libs",
-    "Version": "2.44-4",
+    "Version": "2.45.1",
     "Description": "GNU Binutils libraries",
     "Homepage": "https://www.gnu.org/software/binutils/"
   },
@@ -1417,7 +1417,7 @@
   },
   {
     "Package": "clang",
-    "Version": "21.1.6",
+    "Version": "21.1.7",
     "Description": "C language frontend for LLVM",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -5671,7 +5671,7 @@
   },
   {
     "Package": "libcompiler-rt",
-    "Version": "21.1.6",
+    "Version": "21.1.7",
     "Description": "Compiler runtime libraries for clang",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -6763,13 +6763,13 @@
   },
   {
     "Package": "libllvm",
-    "Version": "21.1.6",
+    "Version": "21.1.7",
     "Description": "Modular compiler and toolchain technologies library",
     "Homepage": "https://clang.llvm.org/"
   },
   {
     "Package": "libllvm-static",
-    "Version": "21.1.6",
+    "Version": "21.1.7",
     "Description": "Static libraries for libllvm",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -7759,7 +7759,7 @@
   },
   {
     "Package": "libpolly",
-    "Version": "21.1.6",
+    "Version": "21.1.7",
     "Description": "High-level loop and data-locality optimizer for clang",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -9397,19 +9397,19 @@
   },
   {
     "Package": "lld",
-    "Version": "21.1.6",
+    "Version": "21.1.7",
     "Description": "LLVM-based linker",
     "Homepage": "https://clang.llvm.org/"
   },
   {
     "Package": "lldb",
-    "Version": "21.1.6",
+    "Version": "21.1.7",
     "Description": "LLVM-based debugger",
     "Homepage": "https://clang.llvm.org/"
   },
   {
     "Package": "llvm",
-    "Version": "21.1.6",
+    "Version": "21.1.7",
     "Description": "LLVM modular compiler and toolchain executables",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -9439,7 +9439,7 @@
   },
   {
     "Package": "llvm-tools",
-    "Version": "21.1.6",
+    "Version": "21.1.7",
     "Description": "LLVM Development Tools",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -10189,7 +10189,7 @@
   },
   {
     "Package": "mlir",
-    "Version": "21.1.6",
+    "Version": "21.1.7",
     "Description": "A Multi-Level Intermediate Representation for compilers from LLVM",
     "Homepage": "https://clang.llvm.org/"
   },

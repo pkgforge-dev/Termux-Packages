@@ -531,15 +531,15 @@
   Description: Binaryen is a compiler and toolchain infrastructure library for WebAssembly
   Homepage: https://github.com/WebAssembly/binaryen
 - Package: binutils
-  Version: 2.44-4
+  Version: 2.45.1
   Description: GNU Binutils (metapackage)
   Homepage: https://www.gnu.org/software/binutils/
 - Package: binutils-bin
-  Version: 2.44-4
+  Version: 2.45.1
   Description: Collection of binary tools, the main ones being ld, the GNU linker, and as, the GNU assembler
   Homepage: https://www.gnu.org/software/binutils/
 - Package: binutils-cross
-  Version: 2.44-4
+  Version: 2.45.1
   Description: GNU Binutils for cross build on the host (NOT for Termux)
   Homepage: https://www.gnu.org/software/binutils/
 - Package: binutils-gold
@@ -551,7 +551,7 @@
   Description: Use llvm as binutils
   Homepage: https://github.com/trentbuck/binutils-is-llvm
 - Package: binutils-libs
-  Version: 2.44-4
+  Version: 2.45.1
   Description: GNU Binutils libraries
   Homepage: https://www.gnu.org/software/binutils/
 - Package: bison
@@ -943,7 +943,7 @@
   Description: Static libraries for clamav
   Homepage: https://www.clamav.net/
 - Package: clang
-  Version: 21.1.6
+  Version: 21.1.7
   Description: C language frontend for LLVM
   Homepage: https://clang.llvm.org/
 - Package: clblast
@@ -3779,7 +3779,7 @@
   Description: A host of helper utilities for the java.lang API
   Homepage: https://commons.apache.org/proper/commons-lang/
 - Package: libcompiler-rt
-  Version: 21.1.6
+  Version: 21.1.7
   Description: Compiler runtime libraries for clang
   Homepage: https://clang.llvm.org/
 - Package: libconfig
@@ -4507,11 +4507,11 @@
   Description: Static libraries for libliquid-dsp
   Homepage: https://liquidsdr.org/
 - Package: libllvm
-  Version: 21.1.6
+  Version: 21.1.7
   Description: Modular compiler and toolchain technologies library
   Homepage: https://clang.llvm.org/
 - Package: libllvm-static
-  Version: 21.1.6
+  Version: 21.1.7
   Description: Static libraries for libllvm
   Homepage: https://clang.llvm.org/
 - Package: liblmdb
@@ -5171,7 +5171,7 @@
   Description: A comprehensive set of C++ libraries that cover all modern-day programming needs
   Homepage: https://pocoproject.org/
 - Package: libpolly
-  Version: 21.1.6
+  Version: 21.1.7
   Description: High-level loop and data-locality optimizer for clang
   Homepage: https://clang.llvm.org/
 - Package: libpopt
@@ -6263,15 +6263,15 @@
   Description: A low-level build system, used by the Swift Package Manager
   Homepage: https://github.com/swiftlang/swift-llbuild
 - Package: lld
-  Version: 21.1.6
+  Version: 21.1.7
   Description: LLVM-based linker
   Homepage: https://clang.llvm.org/
 - Package: lldb
-  Version: 21.1.6
+  Version: 21.1.7
   Description: LLVM-based debugger
   Homepage: https://clang.llvm.org/
 - Package: llvm
-  Version: 21.1.6
+  Version: 21.1.7
   Description: LLVM modular compiler and toolchain executables
   Homepage: https://clang.llvm.org/
 - Package: llvm-mingw-w64
@@ -6291,7 +6291,7 @@
   Description: MinGW-w64 runtime for LLVM-MinGW
   Homepage: https://github.com/mstorsjo/llvm-mingw
 - Package: llvm-tools
-  Version: 21.1.6
+  Version: 21.1.7
   Description: LLVM Development Tools
   Homepage: https://clang.llvm.org/
 - Package: llvmgold
@@ -6791,7 +6791,7 @@
   Description: command line utility to create BitTorrent metainfo files
   Homepage: https://github.com/Rudde/mktorrent
 - Package: mlir
-  Version: 21.1.6
+  Version: 21.1.7
   Description: A Multi-Level Intermediate Representation for compilers from LLVM
   Homepage: https://clang.llvm.org/
 - Package: mlocate
