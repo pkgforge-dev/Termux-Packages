@@ -2192,20 +2192,20 @@
 | **runit** | 2.1.2-4 | Tools to provide service supervision and to manage services | http://smarden.org/runit |
 | **runit-static** | 2.1.2-4 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.7.0-1 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
-| **rust** | 1.91.1-1 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
+| **rust** | 1.91.1-2 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
 | **rust-analyzer** | 20251201 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
 | **rust-bindgen** | 0.72.1 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
-| **rust-docs** | 1.91.1-1 | Rust documentation | https://www.rust-lang.org/ |
-| **rust-src** | 1.91.1-1 | Rust source code files | https://www.rust-lang.org/ |
-| **rust-std-aarch64-linux-android** | 1.91.1-1 | Rust std for target aarch64-linux-android | https://www.rust-lang.org/ |
-| **rust-std-armv7-linux-androideabi** | 1.91.1-1 | Rust std for target armv7-linux-androideabi | https://www.rust-lang.org/ |
-| **rust-std-i686-linux-android** | 1.91.1-1 | Rust std for target i686-linux-android | https://www.rust-lang.org/ |
-| **rust-std-wasm32-unknown-unknown** | 1.91.1-1 | Rust std for target wasm32-unknown-unknown | https://www.rust-lang.org/ |
-| **rust-std-wasm32-wasip1** | 1.91.1-1 | Rust std for target wasm32-wasip1 | https://www.rust-lang.org/ |
-| **rust-std-wasm32-wasip2** | 1.91.1-1 | Rust std for target wasm32-wasip2 | https://www.rust-lang.org/ |
-| **rust-std-x86-64-linux-android** | 1.91.1-1 | Rust std for target x86_64-linux-android | https://www.rust-lang.org/ |
-| **rustc-dev** | 1.91.1-1 | Rust compiler development libs | https://www.rust-lang.org/ |
-| **rustc-src** | 1.91.1-1 | Rust compiler source code files | https://www.rust-lang.org/ |
+| **rust-docs** | 1.91.1-2 | Rust documentation | https://www.rust-lang.org/ |
+| **rust-src** | 1.91.1-2 | Rust source code files | https://www.rust-lang.org/ |
+| **rust-std-aarch64-linux-android** | 1.91.1-2 | Rust std for target aarch64-linux-android | https://www.rust-lang.org/ |
+| **rust-std-armv7-linux-androideabi** | 1.91.1-2 | Rust std for target armv7-linux-androideabi | https://www.rust-lang.org/ |
+| **rust-std-i686-linux-android** | 1.91.1-2 | Rust std for target i686-linux-android | https://www.rust-lang.org/ |
+| **rust-std-wasm32-unknown-unknown** | 1.91.1-2 | Rust std for target wasm32-unknown-unknown | https://www.rust-lang.org/ |
+| **rust-std-wasm32-wasip1** | 1.91.1-2 | Rust std for target wasm32-wasip1 | https://www.rust-lang.org/ |
+| **rust-std-wasm32-wasip2** | 1.91.1-2 | Rust std for target wasm32-wasip2 | https://www.rust-lang.org/ |
+| **rust-std-x86-64-linux-android** | 1.91.1-2 | Rust std for target x86_64-linux-android | https://www.rust-lang.org/ |
+| **rustc-dev** | 1.91.1-2 | Rust compiler development libs | https://www.rust-lang.org/ |
+| **rustc-src** | 1.91.1-2 | Rust compiler source code files | https://www.rust-lang.org/ |
 | **rustscan** | 2.4.1-1 | The modern,fast,smart and effective port scanner | https://rustscan.github.io/RustScan |
 | **rw** | 1.0.1-1 | A Rust implementation of sponge(1) that never write to TMPDIR | https://github.com/jridgewell/rw |
 | **rxfetch** | 2023.01.07 | A custom system info fetching tool | https://github.com/Mangeshrex/rxfetch |
