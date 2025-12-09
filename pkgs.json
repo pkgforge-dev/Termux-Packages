@@ -1483,13 +1483,13 @@
   },
   {
     "Package": "cmake",
-    "Version": "4.2.0",
+    "Version": "4.2.1",
     "Description": "Family of tools designed to build, test and package software",
     "Homepage": "https://cmake.org/"
   },
   {
     "Package": "cmake-curses-gui",
-    "Version": "4.2.0",
+    "Version": "4.2.1",
     "Description": "Curses based user interface for CMake (ccmake)",
     "Homepage": "https://cmake.org/"
   },
@@ -3469,13 +3469,13 @@
   },
   {
     "Package": "glib",
-    "Version": "2.86.2",
+    "Version": "2.86.3",
     "Description": "Library providing core building blocks for libraries and applications written in C",
     "Homepage": "https://developer.gnome.org/glib/"
   },
   {
     "Package": "glib-cross",
-    "Version": "2.86.2",
+    "Version": "2.86.3",
     "Description": "glib for host (NOT for Termux)",
     "Homepage": "https://developer.gnome.org/glib/"
   },
@@ -5857,7 +5857,7 @@
   },
   {
     "Package": "libdrm",
-    "Version": "2.4.129",
+    "Version": "2.4.130",
     "Description": "Userspace interface to kernel DRM services",
     "Homepage": "https://dri.freedesktop.org/wiki/"
   },
