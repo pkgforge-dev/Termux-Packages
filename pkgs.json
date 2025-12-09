@@ -2353,7 +2353,7 @@
   },
   {
     "Package": "duckdb",
-    "Version": "1.4.2",
+    "Version": "1.4.3",
     "Description": "DuckDB Command Line Interface (CLI) shell",
     "Homepage": "https://duckdb.org/"
   },
@@ -4681,7 +4681,7 @@
   },
   {
     "Package": "jfrog-cli",
-    "Version": "2.85.0",
+    "Version": "2.86.0",
     "Description": "A CLI for JFrog products",
     "Homepage": "https://jfrog.com/getcli"
   },
@@ -4813,7 +4813,7 @@
   },
   {
     "Package": "just",
-    "Version": "1.44.0",
+    "Version": "1.44.1",
     "Description": "A handy way to save and run project-specific commands",
     "Homepage": "https://just.systems"
   },
@@ -5863,13 +5863,13 @@
   },
   {
     "Package": "libduckdb",
-    "Version": "1.4.2",
+    "Version": "1.4.3",
     "Description": "An in-process SQL OLAP database management system",
     "Homepage": "https://duckdb.org/"
   },
   {
     "Package": "libduckdb-static",
-    "Version": "1.4.2",
+    "Version": "1.4.3",
     "Description": "Static libraries for libduckdb",
     "Homepage": "https://duckdb.org/"
   },
@@ -14011,7 +14011,7 @@
   },
   {
     "Package": "storj-uplink",
-    "Version": "1.143.2",
+    "Version": "1.143.3",
     "Description": "Storj DCS Uplink CLI",
     "Homepage": "https://www.storj.io/integrations/uplink-cli"
   },

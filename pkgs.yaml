@@ -1567,7 +1567,7 @@
   Description: High-performance disk usage analyzer
   Homepage: http://duc.zevv.nl/
 - Package: duckdb
-  Version: 1.4.2
+  Version: 1.4.3
   Description: DuckDB Command Line Interface (CLI) shell
   Homepage: https://duckdb.org/
 - Package: duf
@@ -3119,7 +3119,7 @@
   Description: Static libraries for jcal
   Homepage: http://nongnu.org/jcal
 - Package: jfrog-cli
-  Version: 2.85.0
+  Version: 2.86.0
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -3207,7 +3207,7 @@
   Description: User friendly full screen text editor
   Homepage: http://www.mirbsd.org/jupp.htm
 - Package: just
-  Version: 1.44.0
+  Version: 1.44.1
   Description: A handy way to save and run project-specific commands
   Homepage: https://just.systems
 - Package: jython
@@ -3907,11 +3907,11 @@
   Description: Userspace interface to kernel DRM services
   Homepage: https://dri.freedesktop.org/wiki/
 - Package: libduckdb
-  Version: 1.4.2
+  Version: 1.4.3
   Description: An in-process SQL OLAP database management system
   Homepage: https://duckdb.org/
 - Package: libduckdb-static
-  Version: 1.4.2
+  Version: 1.4.3
   Description: Static libraries for libduckdb
   Homepage: https://duckdb.org/
 - Package: libduktape
@@ -9339,7 +9339,7 @@
   Description: A TCP/IP repeater in the application layer
   Homepage: https://www.gcd.org/sengoku/stone/
 - Package: storj-uplink
-  Version: 1.143.2
+  Version: 1.143.3
   Description: Storj DCS Uplink CLI
   Homepage: https://www.storj.io/integrations/uplink-cli
 - Package: stow
