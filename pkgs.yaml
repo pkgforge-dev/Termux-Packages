@@ -3363,7 +3363,7 @@
   Description: A real-time word puzzle for text terminals
   Homepage: https://www.kyne.au/~mark/software/lexter.php
 - Package: lf
-  Version: "39"
+  Version: "40"
   Description: Terminal file manager
   Homepage: https://github.com/gokcehan/lf
 - Package: lftp
@@ -6663,7 +6663,7 @@
   Description: Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy
   Homepage: https://github.com/bluenviron/mediamtx
 - Package: megacmd
-  Version: 2.3.0-1
+  Version: 2.3.0-2
   Description: Provides non UI access to MEGA services
   Homepage: https://mega.io/
 - Package: megatools
@@ -7187,7 +7187,7 @@
   Description: Newsraft is a feed reader with text-based user interface
   Homepage: https://codeberg.org/newsraft/newsraft
 - Package: nginx
-  Version: 1.29.3
+  Version: 1.29.4
   Description: Lightweight HTTP server
   Homepage: https://www.nginx.org
 - Package: ngircd
