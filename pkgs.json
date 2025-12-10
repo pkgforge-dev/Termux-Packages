@@ -2581,13 +2581,13 @@
   },
   {
     "Package": "erlang",
-    "Version": "28.2",
+    "Version": "28.3",
     "Description": "General-purpose concurrent functional programming language",
     "Homepage": "https://www.erlang.org/"
   },
   {
     "Package": "erlang-doc",
-    "Version": "28.2",
+    "Version": "28.3",
     "Description": "Erlang HTML documentation",
     "Homepage": "https://www.erlang.org/"
   },
@@ -3313,7 +3313,7 @@
   },
   {
     "Package": "gh",
-    "Version": "2.83.1-1",
+    "Version": "2.83.2",
     "Description": "GitHub’s official command line tool",
     "Homepage": "https://cli.github.com/"
   },
@@ -4849,7 +4849,7 @@
   },
   {
     "Package": "kakoune-lsp",
-    "Version": "19.0.0",
+    "Version": "19.0.1",
     "Description": "Language Server Protocol Client for the Kakoune editor",
     "Homepage": "https://github.com/kakoune-lsp/kakoune-lsp"
   },
@@ -12781,7 +12781,7 @@
   },
   {
     "Package": "rclone",
-    "Version": "1.72.0",
+    "Version": "1.72.1",
     "Description": "rsync for cloud storage",
     "Homepage": "https://rclone.org/"
   },
@@ -14017,7 +14017,7 @@
   },
   {
     "Package": "storj-uplink",
-    "Version": "1.143.3",
+    "Version": "1.143.4",
     "Description": "Storj DCS Uplink CLI",
     "Homepage": "https://www.storj.io/integrations/uplink-cli"
   },

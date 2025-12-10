@@ -1719,11 +1719,11 @@
   Description: Event Notify Test Runner - run arbitrary commands when files change
   Homepage: https://eradman.com/entrproject/
 - Package: erlang
-  Version: "28.2"
+  Version: "28.3"
   Description: General-purpose concurrent functional programming language
   Homepage: https://www.erlang.org/
 - Package: erlang-doc
-  Version: "28.2"
+  Version: "28.3"
   Description: Erlang HTML documentation
   Homepage: https://www.erlang.org/
 - Package: esbuild
@@ -2207,7 +2207,7 @@
   Description: The Forth implementation of the GNU project
   Homepage: https://www.gnu.org/software/gforth/
 - Package: gh
-  Version: 2.83.1-1
+  Version: 2.83.2
   Description: GitHub’s official command line tool
   Homepage: https://cli.github.com/
 - Package: ghc
@@ -3231,7 +3231,7 @@
   Description: Code editor heavily inspired by Vim
   Homepage: https://kakoune.org/
 - Package: kakoune-lsp
-  Version: 19.0.0
+  Version: 19.0.1
   Description: Language Server Protocol Client for the Kakoune editor
   Homepage: https://github.com/kakoune-lsp/kakoune-lsp
 - Package: kbd
@@ -8519,7 +8519,7 @@
   Description: An alternative implementation of the plan 9 rc shell
   Homepage: https://github.com/rakitzis/rc
 - Package: rclone
-  Version: 1.72.0
+  Version: 1.72.1
   Description: rsync for cloud storage
   Homepage: https://rclone.org/
 - Package: rcm
@@ -9343,7 +9343,7 @@
   Description: A TCP/IP repeater in the application layer
   Homepage: https://www.gcd.org/sengoku/stone/
 - Package: storj-uplink
-  Version: 1.143.3
+  Version: 1.143.4
   Description: Storj DCS Uplink CLI
   Homepage: https://www.storj.io/integrations/uplink-cli
 - Package: stow
