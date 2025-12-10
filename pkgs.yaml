@@ -8075,11 +8075,11 @@
   Description: Some small useful utilities that use the proc filesystem
   Homepage: https://gitlab.com/psmisc/psmisc
 - Package: ptex
-  Version: 2.4.3-1
+  Version: 2.5.0
   Description: Per-Face Texture Mapping for Production Rendering
   Homepage: https://github.com/wdas/ptex
 - Package: ptex-static
-  Version: 2.4.3-1
+  Version: 2.5.0
   Description: Static libraries for ptex
   Homepage: https://github.com/wdas/ptex
 - Package: ptunnel-ng
@@ -8670,6 +8670,10 @@
   Version: "0.48"
   Description: Wrapper using readline to enable editing of keyboard input for commands
   Homepage: https://github.com/hanslub42/rlwrap
+- Package: rmpc
+  Version: 0.10.0
+  Description: A configurable TUI MPD client with album art support
+  Homepage: https://mierak.github.io/rmpc/
 - Package: rnr
   Version: 0.5.0-1
   Description: Batch rename files and directories using regular expression (rust)
