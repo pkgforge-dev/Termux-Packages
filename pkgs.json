@@ -3931,7 +3931,7 @@
   },
   {
     "Package": "gsf-tools",
-    "Version": "1.14.53-2",
+    "Version": "1.14.54",
     "Description": "Command-line tools for libgsf",
     "Homepage": "https://gitlab.gnome.org/GNOME/libgsf"
   },
@@ -6349,13 +6349,13 @@
   },
   {
     "Package": "libgsf",
-    "Version": "1.14.53-2",
+    "Version": "1.14.54",
     "Description": "The G Structured File Library",
     "Homepage": "https://gitlab.gnome.org/GNOME/libgsf"
   },
   {
     "Package": "libgsf-static",
-    "Version": "1.14.53-2",
+    "Version": "1.14.54",
     "Description": "Static libraries for libgsf",
     "Homepage": "https://gitlab.gnome.org/GNOME/libgsf"
   },
@@ -15151,7 +15151,7 @@
   },
   {
     "Package": "urdfdom",
-    "Version": "5.0.3",
+    "Version": "5.0.4",
     "Description": "Unified Robot Description Format (URDF) parser library and tools",
     "Homepage": "https://github.com/ros/urdfdom"
   },

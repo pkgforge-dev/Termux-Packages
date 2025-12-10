@@ -653,7 +653,7 @@
  groonga  15.2.1  An embeddable fulltext search engine  https://github.com/groonga/groonga/ 
  groovy  4.0.26-4  A powerful multi-faceted programming language for the JVM platform  https://groovy-lang.org/ 
  gsasl  2.2.2-1  GNU SASL library command line interface  https://www.gnu.org/software/gsasl 
- gsf-tools  1.14.53-2  Command-line tools for libgsf  https://gitlab.gnome.org/GNOME/libgsf 
+ gsf-tools  1.14.54  Command-line tools for libgsf  https://gitlab.gnome.org/GNOME/libgsf 
  gsl  2.8-1  GNU Scientific Library (GSL) providing a wide range of mathematical routines  https://www.gnu.org/software/gsl/ 
  gsl-static  2.8-1  Static libraries for gsl  https://www.gnu.org/software/gsl/ 
  gst-libav  1.26.9  GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code  https://gstreamer.freedesktop.org/modules/gst-libav.html 
@@ -1056,8 +1056,8 @@
  libgrpc  1.76.0-1  High performance, open source, general RPC framework that puts mobile and HTTP/2 first  https://grpc.io/ 
  libgsasl  2.2.2-1  GNU SASL library  https://www.gnu.org/software/gsasl 
  libgsasl-static  2.2.2-1  Static libraries for libgsasl  https://www.gnu.org/software/gsasl 
- libgsf  1.14.53-2  The G Structured File Library  https://gitlab.gnome.org/GNOME/libgsf 
- libgsf-static  1.14.53-2  Static libraries for libgsf  https://gitlab.gnome.org/GNOME/libgsf 
+ libgsf  1.14.54  The G Structured File Library  https://gitlab.gnome.org/GNOME/libgsf 
+ libgsf-static  1.14.54  Static libraries for libgsf  https://gitlab.gnome.org/GNOME/libgsf 
  libgtop  2.41.3-1  Library for collecting system monitoring data  https://gitlab.gnome.org/GNOME/libgtop 
  libgtop-static  2.41.3-1  Static libraries for libgtop  https://gitlab.gnome.org/GNOME/libgtop 
  libgts  0.7.6-2  Provides useful functions to deal with 3D surfaces meshed with interconnected triangles  https://gts.sourceforge.net/ 
@@ -2523,7 +2523,7 @@
  update-info-dir  7.2-4  Update or create index file from all installed info files in directory  https://www.gnu.org/software/texinfo/ 
  upower  1.91.0  Power management support for DeviceKit  https://upower.freedesktop.org/ 
  upx  5.0.2-1  the Ultimate Packer for eXecutables  https://upx.github.io/ 
- urdfdom  5.0.3  Unified Robot Description Format (URDF) parser library and tools  https://github.com/ros/urdfdom 
+ urdfdom  5.0.4  Unified Robot Description Format (URDF) parser library and tools  https://github.com/ros/urdfdom 
  urdfdom-headers  2.0.1  Headers for URDF parsers  https://github.com/ros/urdfdom_headers 
  usql  0.19.26  A universal command-line interface for SQL databases  https://github.com/xo/usql 
  utf8cpp  4.0.8  UTF8-CPP: UTF-8 with C++ in a Portable Way  https://github.com/nemtrif/utfcpp 
