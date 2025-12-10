@@ -206,7 +206,7 @@
 | **capnproto** | 1.2.0-1 | Data interchange format and capability-based RPC system | https://capnproto.org/ |
 | **capstone** | 5.0.6-1 | Lightweight multi-platform, multi-architecture disassembly framework | https://www.capstone-engine.org/ |
 | **capstone-static** | 5.0.6-1 | Static libraries for capstone | https://www.capstone-engine.org/ |
-| **carapace** | 1.5.5 | Multi-shell multi-command argument completer | https://carapace.sh/ |
+| **carapace** | 1.5.7 | Multi-shell multi-command argument completer | https://carapace.sh/ |
 | **cargo-c** | 0.10.18 | Cargo C-ABI helpers | https://github.com/lu-zero/cargo-c |
 | **cargo-leptos** | 0.3.1 | Build tool for the Rust framework Leptos | https://github.com/leptos-rs/cargo-leptos |
 | **catdoc** | 0.95-2 | Program which reads MS-Word file and prints readable ASCII text to stdout | http://www.wagner.pp.ru/~vitus/software/catdoc/ |
@@ -474,8 +474,8 @@
 | **fdupes** | 2.4.0-1 | Duplicates file detector | https://github.com/adrianlopezroche/fdupes |
 | **fennel** | 1.5.3 | A Lisp that compiles to Lua | https://fennel-lang.org |
 | **feroxbuster** | 2.13.0 | A fast, simple, recursive content discovery tool written in Rust | https://github.com/epi052/feroxbuster |
-| **fetchmail** | 6.6.1 | A remote-mail retrieval utility | https://www.fetchmail.info/ |
-| **fetchmailconf** | 6.6.1 | A GUI configurator for generating fetchmail configuration files | https://www.fetchmail.info/ |
+| **fetchmail** | 6.6.2 | A remote-mail retrieval utility | https://www.fetchmail.info/ |
+| **fetchmailconf** | 6.6.2 | A GUI configurator for generating fetchmail configuration files | https://www.fetchmail.info/ |
 | **fff** | 2.2 | A simple file manager written in bash | https://github.com/dylanaraps/fff |
 | **ffmpeg** | 8.0.1 | Tools and libraries to manipulate a wide range of multimedia formats and protocols | https://ffmpeg.org |
 | **ffmpegthumbnailer** | 2.2.3-p20251103-0 | Lightweight video thumbnailer that can be used by file managers | https://github.com/dirkvdb/ffmpegthumbnailer |
@@ -517,7 +517,7 @@
 | **frogcomposband** | 7.1.salmiak-3 | Open world Angband variant with many additions | https://github.com/sulkasormi/frogcomposband/ |
 | **frotz** | 2.55-2 | Interpreter for Infocom and other Z-machine interactive fiction (IF) games | https://gitlab.com/DavidGriffith/frotz |
 | **frp** | 0.65.0 | A fast reverse proxy to expose a local server behind a NAT or firewall to the internet | https://github.com/fatedier/frp |
-| **fselect** | 0.9.1 | Find files with SQL-like queries | https://fselect.rocks/ |
+| **fselect** | 0.9.2 | Find files with SQL-like queries | https://fselect.rocks/ |
 | **fsmon** | 1.8.8-1 | Filesystem monitor with fanotify and inotify backends | https://github.com/nowsecure/fsmon |
 | **fwknop** | 2.6.11-1 | fwknop: Single Packet Authorization > Port Knocking | https://www.cipherdyne.org/fwknop/ |
 | **fwknop-static** | 2.6.11-1 | Static libraries for fwknop | https://www.cipherdyne.org/fwknop/ |
@@ -2310,9 +2310,9 @@
 | **spglib** | 2.6.0-1 | C library for finding and handling crystal symmetries | https://spglib.github.io/spglib/index.html |
 | **spidermonkey** | 128.10.0-2 | Mozilla's JavaScript engine | https://spidermonkey.dev |
 | **spiped** | 1.6.4-1 | a utility for creating symmetrically encrypted and authenticated pipes between socket addresses | https://www.tarsnap.com/spiped.html |
-| **spirv-headers** | 1.4.328.1 | SPIR-V Headers | https://github.com/KhronosGroup/SPIRV-Headers |
+| **spirv-headers** | 1.4.335.0 | SPIR-V Headers | https://github.com/KhronosGroup/SPIRV-Headers |
 | **spirv-llvm-translator** | 21.1.3 | SPIR-V LLVM Translator | https://github.com/KhronosGroup/SPIRV-LLVM-Translator |
-| **spirv-tools** | 1.4.328.1-1 | SPIR-V Tools | https://github.com/KhronosGroup/SPIRV-Tools |
+| **spirv-tools** | 1.4.335.0 | SPIR-V Tools | https://github.com/KhronosGroup/SPIRV-Tools |
 | **sqlcipher** | 4.6.1-1 | SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files | https://github.com/sqlcipher/sqlcipher |
 | **sqlcipher-static** | 4.6.1-1 | Static libraries for sqlcipher | https://github.com/sqlcipher/sqlcipher |
 | **sqlite** | 3.51.1 | Command line shell for SQLite | https://www.sqlite.org |
@@ -2579,7 +2579,7 @@
 | **virustotal-cli** | 1.2.0 | Command line interface for VirusTotal | https://github.com/VirusTotal/vt-cli |
 | **vis** | 0.9-5 | Modern, legacy free, simple yet efficient vim-like editor | https://www.brain-dump.org/projects/vis/ |
 | **vitetris** | 0.59.1-4 | Virtual terminal *tris clone | http://victornils.net/tetris/ |
-| **viu** | 1.5.1-1 | Terminal image viewer with native support for iTerm and Kitty | https://github.com/atanunq/viu |
+| **viu** | 1.6.0 | Terminal image viewer with native support for iTerm and Kitty | https://github.com/atanunq/viu |
 | **vivid** | 0.10.1-1 | A themeable LS_COLORS generator with a rich filetype datebase | https://github.com/sharkdp/vivid |
 | **vlc** | 3.0.21-12 | A popular libre and open source media player and multimedia engine | https://www.videolan.org/ |
 | **vlc-static** | 3.0.21-12 | Static libraries for vlc | https://www.videolan.org/ |
@@ -2607,7 +2607,7 @@
 | **wasm-component-ld** | 0.5.19 | Command line linker for creating WebAssembly components | https://github.com/bytecodealliance/wasm-component-ld |
 | **watchexec** | 2.3.0-1 | Executes commands in response to file modifications | https://github.com/watchexec/watchexec |
 | **wavpack** | 5.8.1-1 | WavPack command-line programs | https://www.wavpack.com/ |
-| **waypipe** | 0.10.5 | A proxy for Wayland clients | https://gitlab.freedesktop.org/mstoeckl/waypipe |
+| **waypipe** | 0.10.6 | A proxy for Wayland clients | https://gitlab.freedesktop.org/mstoeckl/waypipe |
 | **wcalc** | 2.5-6 | Capable calculator | https://w-calc.sourceforge.net |
 | **wdiff** | 1.2.2-2 | Display word differences between text files | https://www.gnu.org/software/wdiff/ |
 | **webp-pixbuf-loader** | 0.2.7-1 | WebM GDK Pixbuf Loader library | https://github.com/aruiz/webp-pixbuf-loader |
