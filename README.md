@@ -1789,7 +1789,7 @@
 | **nelua** | 2024.01.13-1 | Minimal, efficient, statically-typed and meta-programmable systems programming language | https://nelua.io |
 | **neocmakelsp** | 0.9.0 | a cmake lsp based on tower-lsp and treesitter | https://neocmakelsp.github.io/ |
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
-| **neomutt** | 20250905 | A version of mutt with added features | https://neomutt.org/ |
+| **neomutt** | 20251211 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.11.5 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
 | **nerdfix** | 0.4.2-1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.4-1 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
