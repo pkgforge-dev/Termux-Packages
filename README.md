@@ -696,7 +696,7 @@
 | **helix** | 25.07.1-1 | A post-modern modal text editor written in rust | https://helix-editor.com/ |
 | **helix-grammars** | 25.07.1-1 | Helix grammars | https://helix-editor.com/ |
 | **hello** | 2.12.2 | Prints a friendly greeting | https://www.gnu.org/software/hello/ |
-| **helm** | 4.0.1 | Helm helps you manage Kubernetes applications | https://helm.sh |
+| **helm** | 4.0.2 | Helm helps you manage Kubernetes applications | https://helm.sh |
 | **helm-ls** | 0.5.4 | Language server for Helm | https://github.com/mrjosh/helm-ls |
 | **help2man** | 1.49.3 | Conversion tool to create man files | https://www.gnu.org/software/help2man/ |
 | **hexcurse** | 1.60.0-7 | Console hexeditor | https://github.com/LonnyGomes/hexcurse |
@@ -812,7 +812,7 @@
 | **jsoncpp-static** | 1.9.6-2 | Static libraries for jsoncpp | https://github.com/open-source-parsers/jsoncpp |
 | **jump** | 0.51.0-3 | Jump helps you navigate in shell faster by learning your habits | https://github.com/gsamokovarov/jump |
 | **jupp** | 3.1jupp41-3 | User friendly full screen text editor | http://www.mirbsd.org/jupp.htm |
-| **just** | 1.44.1 | A handy way to save and run project-specific commands | https://just.systems |
+| **just** | 1.45.0 | A handy way to save and run project-specific commands | https://just.systems |
 | **jython** | 2.7.4-1 | Python for the Java Platform | https://www.jython.org/ |
 | **k2pdfopt** | 2.55-4 | A tool that optimizes PDF files for viewing on mobile readers | https://www.willus.com/k2pdfopt/ |
 | **k9s** | 0.50.16 | Kubernetes CLI To Manage Your Clusters In Style! | https://k9scli.io |
@@ -1123,9 +1123,9 @@
 | **libjansson-static** | 2.14.1-1 | Static libraries for libjansson | http://www.digip.org/jansson/ |
 | **libjasper** | 4.2.8 | Library for manipulating JPEG-2000 files | http://www.ece.uvic.ca/~frodo/jasper/ |
 | **libjasper-utils** | 4.2.8 | JPEG-2000 utilities | http://www.ece.uvic.ca/~frodo/jasper/ |
-| **libjpeg-turbo** | 3.1.2 | Library for reading and writing JPEG image files | https://libjpeg-turbo.virtualgl.org |
-| **libjpeg-turbo-progs** | 3.1.2 | Programs for manipulating JPEG files | https://libjpeg-turbo.virtualgl.org |
-| **libjpeg-turbo-static** | 3.1.2 | Static libraries for libjpeg-turbo | https://libjpeg-turbo.virtualgl.org |
+| **libjpeg-turbo** | 3.1.3 | Library for reading and writing JPEG image files | https://libjpeg-turbo.virtualgl.org |
+| **libjpeg-turbo-progs** | 3.1.3 | Programs for manipulating JPEG files | https://libjpeg-turbo.virtualgl.org |
+| **libjpeg-turbo-static** | 3.1.3 | Static libraries for libjpeg-turbo | https://libjpeg-turbo.virtualgl.org |
 | **libjxl** | 0.11.1-6 | JPEG XL image format reference implementation | https://jpegxl.info/ |
 | **libjxl-progs** | 0.11.1-6 | Programs for manipulating JPEG XL files | https://jpegxl.info/ |
 | **libkiwix** | 14.1.1 | A library that contains a lot of things used by other kiwix programs | https://github.com/kiwix/libkiwix |

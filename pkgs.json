@@ -4117,7 +4117,7 @@
   },
   {
     "Package": "helm",
-    "Version": "4.0.1",
+    "Version": "4.0.2",
     "Description": "Helm helps you manage Kubernetes applications",
     "Homepage": "https://helm.sh"
   },
@@ -4813,7 +4813,7 @@
   },
   {
     "Package": "just",
-    "Version": "1.44.1",
+    "Version": "1.45.0",
     "Description": "A handy way to save and run project-specific commands",
     "Homepage": "https://just.systems"
   },
@@ -6679,19 +6679,19 @@
   },
   {
     "Package": "libjpeg-turbo",
-    "Version": "3.1.2",
+    "Version": "3.1.3",
     "Description": "Library for reading and writing JPEG image files",
     "Homepage": "https://libjpeg-turbo.virtualgl.org"
   },
   {
     "Package": "libjpeg-turbo-progs",
-    "Version": "3.1.2",
+    "Version": "3.1.3",
     "Description": "Programs for manipulating JPEG files",
     "Homepage": "https://libjpeg-turbo.virtualgl.org"
   },
   {
     "Package": "libjpeg-turbo-static",
-    "Version": "3.1.2",
+    "Version": "3.1.3",
     "Description": "Static libraries for libjpeg-turbo",
     "Homepage": "https://libjpeg-turbo.virtualgl.org"
   },
