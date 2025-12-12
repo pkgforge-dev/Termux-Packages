@@ -4861,7 +4861,7 @@
   },
   {
     "Package": "kcptun",
-    "Version": "20251205",
+    "Version": "20251212",
     "Description": "A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC",
     "Homepage": "https://github.com/xtaci/kcptun"
   },
@@ -5857,7 +5857,7 @@
   },
   {
     "Package": "libdrm",
-    "Version": "2.4.130",
+    "Version": "2.4.131",
     "Description": "Userspace interface to kernel DRM services",
     "Homepage": "https://dri.freedesktop.org/wiki/"
   },
@@ -12931,7 +12931,7 @@
   },
   {
     "Package": "restish",
-    "Version": "0.21.1",
+    "Version": "0.21.2",
     "Description": "A CLI for interacting with REST-ish HTTP APIs",
     "Homepage": "https://github.com/rest-sh/restish"
   },
