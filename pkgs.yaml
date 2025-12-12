@@ -6475,7 +6475,7 @@
   Description: A way of synchronizing a collection of mailboxes
   Homepage: https://mailsync.sourceforge.net/
 - Package: mailutils
-  Version: 3.20-1
+  Version: "3.21"
   Description: Mailutils is a swiss army knife of electronic mail handling.
   Homepage: https://mailutils.org/
 - Package: make
@@ -6571,7 +6571,7 @@
   Description: Replaces your default ctrl-r shell history search with an intelligent search engine
   Homepage: https://github.com/cantino/mcfly
 - Package: mdbook
-  Version: 0.5.1
+  Version: 0.5.2
   Description: Creates book from markdown files
   Homepage: https://rust-lang.github.io/mdBook/
 - Package: mdbook-auto-gen-summary
@@ -8251,7 +8251,7 @@
   Description: Python client for Neovim
   Homepage: https://github.com/neovim/pynvim
 - Package: python-ruff
-  Version: 0.14.8
+  Version: 0.14.9
   Description: An extremely fast Python linter, written in Rust (Python bindings)
   Homepage: https://github.com/charliermarsh/ruff
 - Package: python-sabyenc3
@@ -8763,7 +8763,7 @@
   Description: Ruby documentation index
   Homepage: https://www.ruby-lang.org/
 - Package: ruff
-  Version: 0.14.8
+  Version: 0.14.9
   Description: An extremely fast Python linter, written in Rust
   Homepage: https://github.com/charliermarsh/ruff
 - Package: runit

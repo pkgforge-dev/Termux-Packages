@@ -1617,7 +1617,7 @@
 | **m4** | 1.4.19-5 | Traditional Unix macro processor | https://www.gnu.org/software/m4/m4.html |
 | **magic-wormhole-rs** | 0.7.6-1 | Rust implementation of Magic Wormhole, with new features and enhancements | https://github.com/magic-wormhole/magic-wormhole.rs |
 | **mailsync** | 5.2.7-2 | A way of synchronizing a collection of mailboxes | https://mailsync.sourceforge.net/ |
-| **mailutils** | 3.20-1 | Mailutils is a swiss army knife of electronic mail handling.  | https://mailutils.org/ |
+| **mailutils** | 3.21 | Mailutils is a swiss army knife of electronic mail handling.  | https://mailutils.org/ |
 | **make** | 4.4.1-1 | Tool to control the generation of non-source files from source files | https://www.gnu.org/software/make/ |
 | **make-guile** | 4.4.1-2 | Tool to control the generation of non-source files from source files | https://www.gnu.org/software/make/ |
 | **mandoc** | 1.14.6-6 | Man page viewer from the mandoc toolset | https://mdocml.bsd.lv/ |
@@ -1641,7 +1641,7 @@
 | **mbedtls-static** | 3.6.4-1 | Static libraries for mbedtls | https://www.trustedfirmware.org/projects/mbed-tls/ |
 | **mc** | 4.8.33-2 | Midnight Commander - a powerful file manager | https://midnight-commander.org |
 | **mcfly** | 0.9.3-1 | Replaces your default ctrl-r shell history search with an intelligent search engine | https://github.com/cantino/mcfly |
-| **mdbook** | 0.5.1 | Creates book from markdown files | https://rust-lang.github.io/mdBook/ |
+| **mdbook** | 0.5.2 | Creates book from markdown files | https://rust-lang.github.io/mdBook/ |
 | **mdbook-auto-gen-summary** | 0.1.10 | A preprocessor and cli tool for mdbook to auto generate summary | https://github.com/cococolanosugar/mdbook-auto-gen-summary |
 | **mdbook-cat-prep** | 1.0.9 | A preprocessor for mdbook which provides teacher, subject, material and tag functionality | https://github.com/gjk-cat/cat-prep |
 | **mdbook-epub** | 0.4.51 | An EPUB renderer for mdbook | https://github.com/Michael-F-Bryan/mdbook-epub |
@@ -2061,7 +2061,7 @@
 | **python-pyarrow** | 22.0.0-2 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
 | **python-pycryptodomex** | 3.23.0-1 | A self-contained Python package of low-level cryptographic primitives | https://www.pycryptodome.org/ |
 | **python-pynvim** | 0.6.0 | Python client for Neovim | https://github.com/neovim/pynvim |
-| **python-ruff** | 0.14.8 | An extremely fast Python linter, written in Rust (Python bindings) | https://github.com/charliermarsh/ruff |
+| **python-ruff** | 0.14.9 | An extremely fast Python linter, written in Rust (Python bindings) | https://github.com/charliermarsh/ruff |
 | **python-sabyenc3** | 9.1.0-1 | C implementations of functions for use within SABnzbd | https://github.com/sabnzbd/sabctools |
 | **python-skia-pathops** | 0.8.0-2 | Python bindings for the Skia library's Path Ops | https://github.com/fonttools/skia-pathops |
 | **python-static** | 3.12.12 | Static libraries for python | https://python.org/ |
@@ -2189,7 +2189,7 @@
 | **rubiks-cube** | 1.2-1 | A rubik's cube that runs in your terminal | https://github.com/been-jamming/rubiks_cube |
 | **ruby** | 3.4.1-2 | Dynamic programming language with a focus on simplicity and productivity | https://www.ruby-lang.org/ |
 | **ruby-ri** | 3.4.1-2 | Ruby documentation index | https://www.ruby-lang.org/ |
-| **ruff** | 0.14.8 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
+| **ruff** | 0.14.9 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
 | **runit** | 2.1.2-4 | Tools to provide service supervision and to manage services | http://smarden.org/runit |
 | **runit-static** | 2.1.2-4 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.7.0-1 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
