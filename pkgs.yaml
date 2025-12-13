@@ -1851,7 +1851,7 @@
   Description: A Lisp that compiles to Lua
   Homepage: https://fennel-lang.org
 - Package: feroxbuster
-  Version: 2.13.0
+  Version: 2.13.1
   Description: A fast, simple, recursive content discovery tool written in Rust
   Homepage: https://github.com/epi052/feroxbuster
 - Package: fetchmail
@@ -2487,7 +2487,7 @@
   Description: A database migration tool. Supports SQL migrations and Go functions.
   Homepage: https://pressly.github.io/goose
 - Package: gopass
-  Version: 1.16.0
+  Version: 1.16.1
   Description: The slightly more awesome standard unix password manager for teams
   Homepage: https://github.com/gopasspw/gopass
 - Package: gopher
@@ -8043,7 +8043,7 @@
   Description: Generic coordinate transformation software
   Homepage: https://proj.org
 - Package: proot
-  Version: 5.1.107-67
+  Version: 5.1.107-68
   Description: Emulate chroot, bind mount and binfmt_misc for non-root users
   Homepage: https://proot-me.github.io/
 - Package: proot-distro
@@ -9055,7 +9055,7 @@
   Description: A simple heat transfer simulator in pure Rust
   Homepage: https://github.com/file-acomplaint/simuwaerm
 - Package: sing-box
-  Version: 1.12.12
+  Version: 1.12.13
   Description: The universal proxy platform
   Homepage: https://sing-box.sagernet.org
 - Package: skate
