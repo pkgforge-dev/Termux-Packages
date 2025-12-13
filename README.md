@@ -696,7 +696,7 @@
 | **helix** | 25.07.1-1 | A post-modern modal text editor written in rust | https://helix-editor.com/ |
 | **helix-grammars** | 25.07.1-1 | Helix grammars | https://helix-editor.com/ |
 | **hello** | 2.12.2 | Prints a friendly greeting | https://www.gnu.org/software/hello/ |
-| **helm** | 4.0.2 | Helm helps you manage Kubernetes applications | https://helm.sh |
+| **helm** | 4.0.4 | Helm helps you manage Kubernetes applications | https://helm.sh |
 | **helm-ls** | 0.5.4 | Language server for Helm | https://github.com/mrjosh/helm-ls |
 | **help2man** | 1.49.3 | Conversion tool to create man files | https://www.gnu.org/software/help2man/ |
 | **hexcurse** | 1.60.0-7 | Console hexeditor | https://github.com/LonnyGomes/hexcurse |
