@@ -778,7 +778,7 @@
 | **jbig2enc-static** | 2023.01.08-3 | Static libraries for jbig2enc | https://github.com/agl/jbig2enc |
 | **jcal** | 0.5.1-1 | UNIX-cal-like tool to display Jalali (Persian/Iranian) calendar | http://nongnu.org/jcal |
 | **jcal-static** | 0.5.1-1 | Static libraries for jcal | http://nongnu.org/jcal |
-| **jfrog-cli** | 2.86.0 | A CLI for JFrog products | https://jfrog.com/getcli |
+| **jfrog-cli** | 2.87.0 | A CLI for JFrog products | https://jfrog.com/getcli |
 | **jftui** | 0.7.5 | jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server. | https://github.com/Aanok/jftui |
 | **jhead** | 3.08-1 | Exif Jpeg header manipulation tool | http://www.sentex.net/~mwandel/jhead/ |
 | **jigdo** | 0.8.2-1 | Distribute large images by sending and receiving the files that make them up | http://atterer.org/jigdo/ |
@@ -1604,7 +1604,7 @@
 | **luvi** | 1:2.15.0-1 | A project in-between luv and luvit | https://luvit.io |
 | **luvit** | 2.18.1-1 | Asynchronous I/O for Lua | https://luvit.io |
 | **lux** | 0.24.1-2 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
-| **lux-cli** | 0.22.1 | A package manager for Lua, similar to luarocks | https://nvim-neorocks.github.io/ |
+| **lux-cli** | 0.22.2 | A package manager for Lua, similar to luarocks | https://nvim-neorocks.github.io/ |
 | **lv2** | 1.18.10-5 | A plugin standard for audio systems | https://lv2plug.in/ |
 | **lychee** | 0.22.0 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
 | **lynx** | 2.9.2-1 | The text web browser | http://lynx.browser.org/ |
@@ -1831,7 +1831,7 @@
 | **octomap** | 1.10.0-1 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0-1 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-5 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 28.2.1 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 28.2.2 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **okc-agents** | 0.1.2-2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.6-3 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-10 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
@@ -2017,8 +2017,8 @@
 | **prover9** | 2009-11A-2 | An automated theorem prover for first-order and equational logic | https://www.cs.unm.edu/~mccune/prover9/ |
 | **proxychains-ng** | 4.17-1 | A hook preloader that allows to redirect TCP traffic of existing dynamically linked programs through one or more SOCKS or HTTP proxies | https://github.com/rofl0r/proxychains-ng |
 | **psmisc** | 23.7-1 | Some small useful utilities that use the proc filesystem | https://gitlab.com/psmisc/psmisc |
-| **ptex** | 2.5.0 | Per-Face Texture Mapping for Production Rendering | https://github.com/wdas/ptex |
-| **ptex-static** | 2.5.0 | Static libraries for ptex | https://github.com/wdas/ptex |
+| **ptex** | 2.5.1 | Per-Face Texture Mapping for Production Rendering | https://github.com/wdas/ptex |
+| **ptex-static** | 2.5.1 | Static libraries for ptex | https://github.com/wdas/ptex |
 | **ptunnel-ng** | 1.43-1 | Tunnel TCP connections through ICMP | https://github.com/lnslbrty/ptunnel-ng |
 | **pueue** | 4.0.1-1 | A command-line task management tool for sequential and parallel execution of long-running tasks | https://github.com/Nukesor/pueue |
 | **pulseaudio** | 17.0-1 | A featureful, general-purpose sound server | https://www.freedesktop.org/wiki/Software/PulseAudio |
@@ -2118,7 +2118,7 @@
 | **rage** | 0.11.1-1 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4-1 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4-1 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
-| **railway-cli** | 4.12.0 | This is the command line interface for Railway | https://railway.app |
+| **railway-cli** | 4.15.0 | This is the command line interface for Railway | https://railway.app |
 | **range-v3** | 0.12.0 | Range library for C++14/17/20, basis for C++20's std::ranges | https://github.com/ericniebler/range-v3 |
 | **ranger** | 1.9.4 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-7 | Fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |
@@ -2258,7 +2258,7 @@
 | **silicon** | 0.5.3-1 | Silicon is an alternative to Carbon implemented in Rust | https://github.com/Aloxaf/silicon |
 | **silversearcher-ag** | 2.2.0-6 | Fast grep-like program, alternative to ack-grep | https://geoff.greer.fm/ag/ |
 | **simde** | 0.8.2 | Implementations of SIMD instructions for all systems | https://simd-everywhere.github.io/ |
-| **simdjson** | 4.2.2 | A C++ library to see how fast we can parse JSON with complete validation | https://simdjson.org/ |
+| **simdjson** | 4.2.3 | A C++ library to see how fast we can parse JSON with complete validation | https://simdjson.org/ |
 | **simh** | 1:3.12.5-1 | A collection of simulators for computer hardware and software from the past | http://simh.trailing-edge.com/ |
 | **simulavr** | 1:1.1.0-2 | Simulator for Microchip AVR (formerly Atmel) microcontrollers | https://www.nongnu.org/simulavr |
 | **simuwaerm** | 0.02-1 | A simple heat transfer simulator in pure Rust | https://github.com/file-acomplaint/simuwaerm |
@@ -2389,7 +2389,7 @@
 | **tectonic** | 0.15.0-5 | A modernized, complete, self-contained TeX/LaTeX engine | https://tectonic-typesetting.github.io/ |
 | **telegram-bot-api** | 20241031-2 | Telegram Bot API server | https://github.com/tdlib/telegram-bot-api |
 | **telegram-cli** | 1:1.4.1-8 | Telegram messenger CLI | https://github.com/vysheng/tg |
-| **teleport-tsh** | 18.5.0 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
+| **teleport-tsh** | 18.5.1 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
 | **tenki-php** | 2022.05.26 | A simple PHP application for logging current weather conditions, notes, and waypoints | https://github.com/dmpop/tenki |
 | **tere** | 1.6.0-1 | Terminal file explorer written in rust | https://github.com/mgunyho/tere |
 | **tergent** | 1.0.0-5 | A cryptoki/PKCS#11 library for Termux that uses Android Keystore as its backend | https://github.com/aeolwyr/tergent |
@@ -2574,7 +2574,7 @@
 | **vlc-static** | 3.0.21-12 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-4 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.3-1 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 2025.12.03 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
+| **vtm** | 2025.12.12 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
 | **vttest** | 20251205 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-5 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.4.333 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
@@ -2585,7 +2585,7 @@
 | **vulkan-loader-generic** | 1.4.336 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
 | **vulkan-tools** | 1.4.336 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
 | **vulkan-utility-libraries** | 1.4.336 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
-| **vulkan-validation-layers** | 1.4.335 | Vulkan Validation Layers | https://github.com/KhronosGroup/Vulkan-ValidationLayers |
+| **vulkan-validation-layers** | 1.4.336 | Vulkan Validation Layers | https://github.com/KhronosGroup/Vulkan-ValidationLayers |
 | **vulkan-volk** | 1.4.304 | Meta loader for Vulkan API | https://github.com/zeux/volk |
 | **w3m** | 0.5.5 | Text based Web browser and pager | https://w3m.sourceforge.net/ |
 | **w3m-img** | 0.5.5 | Inline image extension support utilities for w3m | https://w3m.sourceforge.net/ |
