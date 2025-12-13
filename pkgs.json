@@ -2581,13 +2581,13 @@
   },
   {
     "Package": "erlang",
-    "Version": "28.3",
+    "Version": "28.3-1",
     "Description": "General-purpose concurrent functional programming language",
     "Homepage": "https://www.erlang.org/"
   },
   {
     "Package": "erlang-doc",
-    "Version": "28.3",
+    "Version": "28.3-1",
     "Description": "Erlang HTML documentation",
     "Homepage": "https://www.erlang.org/"
   },
@@ -15060,10 +15060,22 @@
     "Homepage": "https://unbound.net/"
   },
   {
+    "Package": "unicode-cldr",
+    "Version": "48",
+    "Description": "Unicode Common Locale Data Repository",
+    "Homepage": "http://cldr.unicode.org/"
+  },
+  {
     "Package": "unicode-data",
     "Version": "17.0.0",
     "Description": "The Unicode Character Database (UCD)",
     "Homepage": "https://unicode.org/ucd/"
+  },
+  {
+    "Package": "unicode-emoji",
+    "Version": "17.0.0",
+    "Description": "Unicode Emoji Data Files",
+    "Homepage": "https://unicode.org/emoji/"
   },
   {
     "Package": "unicorn",
