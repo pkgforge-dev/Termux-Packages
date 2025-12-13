@@ -3079,7 +3079,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.24.408-1
+  Version: 0.24.445
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -8675,7 +8675,7 @@
   Description: A configurable TUI MPD client with album art support
   Homepage: https://mierak.github.io/rmpc/
 - Package: rnr
-  Version: 0.5.0-1
+  Version: 0.5.1
   Description: Batch rename files and directories using regular expression (rust)
   Homepage: https://github.com/ismaelgv/rnr
 - Package: robin-map
