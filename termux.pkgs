@@ -428,8 +428,8 @@
 | **enchant-static** | 2.8.14 | Static libraries for enchant | https://rrthomas.github.io/enchant/ |
 | **enscript** | 1.6.6-13 | Enscript converts ASCII text files to PostScript, HTML, RTF, ANSI and overstrikes | https://www.gnu.org/software/enscript/ |
 | **entr** | 5.7-1 | Event Notify Test Runner - run arbitrary commands when files change | https://eradman.com/entrproject/ |
-| **erlang** | 28.3-1 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
-| **erlang-doc** | 28.3-1 | Erlang HTML documentation | https://www.erlang.org/ |
+| **erlang** | 28.3-2 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
+| **erlang-doc** | 28.3-2 | Erlang HTML documentation | https://www.erlang.org/ |
 | **esbuild** | 0.27.1 | An extremely fast JavaScript bundler | https://esbuild.github.io/ |
 | **espeak** | 1.52.0-1 | Compact software speech synthesizer | https://github.com/espeak-ng/espeak-ng |
 | **espeak-static** | 1.52.0-1 | Static libraries for espeak | https://github.com/espeak-ng/espeak-ng |
@@ -536,7 +536,7 @@
 | **geckodriver** | 0.36.0-1 | Proxy for using W3C WebDriver-compatible clients to interact with Gecko-based browsers | https://github.com/mozilla/geckodriver |
 | **gecode** | 6.2.0-1 | Generic Constraint Development Environment | https://github.com/Gecode/gecode |
 | **gecode-static** | 6.2.0-1 | Static libraries for gecode | https://github.com/Gecode/gecode |
-| **gegl** | 0.4.64-3 | Data flow based image processing framework | https://gegl.org/ |
+| **gegl** | 0.4.66-1 | Data flow based image processing framework | https://gegl.org/ |
 | **gengetopt** | 2.23-4 | gengetopt is a tool to write command line option parsing code for C programs | https://www.gnu.org/software/gengetopt/ |
 | **geographiclib** | 2.7 | Utilities and C++ library to solve some geodesic problems | https://geographiclib.sourceforge.io |
 | **geoip2-database** | 20191221-2 | GeoLite2 IP geolocation databases compiled by MaxMind | https://dev.maxmind.com/geoip/geoip2/geolite2/ |
@@ -1234,7 +1234,7 @@
 | **libnpth-static** | 1.6-3 | Static libraries for libnpth | https://www.gnupg.org/related_software/npth/ |
 | **libnspr** | 4.38.2 | Netscape Portable Runtime (NSPR) | https://hg.mozilla.org/projects/nspr |
 | **libnspr-static** | 4.38.2 | Static libraries for libnspr | https://hg.mozilla.org/projects/nspr |
-| **libnss** | 3.119 | Network Security Services (NSS) | https://firefox-source-docs.mozilla.org/security/nss/ |
+| **libnss** | 3.119.1 | Network Security Services (NSS) | https://firefox-source-docs.mozilla.org/security/nss/ |
 | **libntl** | 11.5.1-1 | A Library for doing Number Theory | https://libntl.org |
 | **libntl-static** | 11.5.1-1 | Static libraries for libntl | https://libntl.org |
 | **libobjc2** | 2.3-1 | The GNUstep Objective-C runtime | https://www.gnustep.org/ |
@@ -1818,7 +1818,7 @@
 | **nsis** | 3.11-1 | A professional open source system to create Windows installers | https://sourceforge.net/projects/nsis/ |
 | **nsis-stubs** | 3.11-1 | NSIS Stubs | https://sourceforge.net/projects/nsis/ |
 | **nsnake** | 3.0.1-7 | The classic snake game with textual interface | https://github.com/alexdantas/nSnake |
-| **nss-utils** | 3.119 | Tools for NSS | https://firefox-source-docs.mozilla.org/security/nss/ |
+| **nss-utils** | 3.119.1 | Tools for NSS | https://firefox-source-docs.mozilla.org/security/nss/ |
 | **nudoku** | 6.0.0 | ncurses based sudoku game | http://jubalh.github.io/nudoku/ |
 | **nushell** | 0.109.1 | A new type of shell operating on structured data | https://www.nushell.sh |
 | **nyancat** | 1.5.2-1 | Nyancat in your terminal, rendered through ANSI escape sequences. | http://nyancat.dakko.us |

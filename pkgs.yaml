@@ -1719,11 +1719,11 @@
   Description: Event Notify Test Runner - run arbitrary commands when files change
   Homepage: https://eradman.com/entrproject/
 - Package: erlang
-  Version: 28.3-1
+  Version: 28.3-2
   Description: General-purpose concurrent functional programming language
   Homepage: https://www.erlang.org/
 - Package: erlang-doc
-  Version: 28.3-1
+  Version: 28.3-2
   Description: Erlang HTML documentation
   Homepage: https://www.erlang.org/
 - Package: esbuild
@@ -2151,7 +2151,7 @@
   Description: Static libraries for gecode
   Homepage: https://github.com/Gecode/gecode
 - Package: gegl
-  Version: 0.4.64-3
+  Version: 0.4.66-1
   Description: Data flow based image processing framework
   Homepage: https://gegl.org/
 - Package: gengetopt
@@ -4943,7 +4943,7 @@
   Description: Static libraries for libnspr
   Homepage: https://hg.mozilla.org/projects/nspr
 - Package: libnss
-  Version: "3.119"
+  Version: 3.119.1
   Description: Network Security Services (NSS)
   Homepage: https://firefox-source-docs.mozilla.org/security/nss/
 - Package: libntl
@@ -7279,7 +7279,7 @@
   Description: The classic snake game with textual interface
   Homepage: https://github.com/alexdantas/nSnake
 - Package: nss-utils
-  Version: "3.119"
+  Version: 3.119.1
   Description: Tools for NSS
   Homepage: https://firefox-source-docs.mozilla.org/security/nss/
 - Package: nudoku
