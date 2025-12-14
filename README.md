@@ -655,8 +655,8 @@
 | **graphene** | 1.10.8-3 | A thin layer of graphic data types | https://ebassi.github.io/graphene/ |
 | **graphicsmagick** | 1.3.46 | Collection of image processing tools | http://www.graphicsmagick.org/ |
 | **graphicsmagick-static** | 1.3.46 | Static libraries for graphicsmagick | http://www.graphicsmagick.org/ |
-| **graphviz** | 14.1.0 | Rich set of graph drawing tools | https://www.graphviz.org/ |
-| **graphviz-static** | 14.1.0 | Static libraries for graphviz | https://www.graphviz.org/ |
+| **graphviz** | 14.1.1 | Rich set of graph drawing tools | https://www.graphviz.org/ |
+| **graphviz-static** | 14.1.1 | Static libraries for graphviz | https://www.graphviz.org/ |
 | **greed** | 4.3-1 | Game where you try to eat as much as possible of the board before munching yourself into a corner | http://www.catb.org/~esr/greed/ |
 | **grep** | 3.12-2 | Command which searches one or more input files for lines containing a match to a specified pattern | https://www.gnu.org/software/grep/ |
 | **grex** | 1.4.6 | Simplifies the task of creating regular expressions | https://github.com/pemistahl/grex |
@@ -2588,7 +2588,7 @@
 | **vlc-static** | 3.0.21-12 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-4 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.3-1 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 2025.12.12 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
+| **vtm** | 2025.12.13 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
 | **vttest** | 20251205 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-5 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.4.333 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |

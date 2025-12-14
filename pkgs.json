@@ -3871,13 +3871,13 @@
   },
   {
     "Package": "graphviz",
-    "Version": "14.1.0",
+    "Version": "14.1.1",
     "Description": "Rich set of graph drawing tools",
     "Homepage": "https://www.graphviz.org/"
   },
   {
     "Package": "graphviz-static",
-    "Version": "14.1.0",
+    "Version": "14.1.1",
     "Description": "Static libraries for graphviz",
     "Homepage": "https://www.graphviz.org/"
   },
@@ -15469,7 +15469,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "2025.12.12",
+    "Version": "2025.12.13",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://github.com/directvt/vtm"
   },
