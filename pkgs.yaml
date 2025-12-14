@@ -3783,11 +3783,11 @@
   Description: Compiler runtime libraries for clang
   Homepage: https://clang.llvm.org/
 - Package: libconfig
-  Version: 1.8.1-1
+  Version: 1.8.2
   Description: C/C++ Configuration File Library
   Homepage: https://github.com/hyperrealm/libconfig
 - Package: libconfig-static
-  Version: 1.8.1-1
+  Version: 1.8.2
   Description: Static libraries for libconfig
   Homepage: https://github.com/hyperrealm/libconfig
 - Package: libconfuse
@@ -9531,7 +9531,7 @@
   Description: Tools for TDB
   Homepage: https://tdb.samba.org/
 - Package: tdl
-  Version: 0.20.0
+  Version: 0.20.1
   Description: Telegram downloader/tools written in Golang
   Homepage: https://docs.iyear.me/tdl/
 - Package: tea

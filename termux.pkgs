@@ -944,8 +944,8 @@
 | **libcoinor-utils-static** | 1:2.11.11-1 | Static libraries for libcoinor-utils | https://github.com/coin-or/CoinUtils |
 | **libcommons-lang3-java** | 3.20.0 | A host of helper utilities for the java.lang API | https://commons.apache.org/proper/commons-lang/ |
 | **libcompiler-rt** | 21.1.7 | Compiler runtime libraries for clang | https://clang.llvm.org/ |
-| **libconfig** | 1.8.1-1 | C/C++ Configuration File Library | https://github.com/hyperrealm/libconfig |
-| **libconfig-static** | 1.8.1-1 | Static libraries for libconfig | https://github.com/hyperrealm/libconfig |
+| **libconfig** | 1.8.2 | C/C++ Configuration File Library | https://github.com/hyperrealm/libconfig |
+| **libconfig-static** | 1.8.2 | Static libraries for libconfig | https://github.com/hyperrealm/libconfig |
 | **libconfuse** | 3.3-1 | Small configuration file parser library for C | https://github.com/martinh/libconfuse |
 | **libconfuse-static** | 3.3-1 | Static libraries for libconfuse | https://github.com/martinh/libconfuse |
 | **libcpufeatures** | 0.10.1-1 | A cross-platform C library to retrieve CPU features (such as available instructions) at runtime | https://github.com/google/cpu_features |
@@ -2381,7 +2381,7 @@
 | **tcllib** | 2.0 | Tcl Standard Library | https://core.tcl-lang.org/tcllib/ |
 | **tcsh** | 6.24.16-1 | TENEX C Shell, an enhanced version of Berkeley csh | https://www.tcsh.org |
 | **tdb-tools** | 1.4.14 | Tools for TDB | https://tdb.samba.org/ |
-| **tdl** | 0.20.0 | Telegram downloader/tools written in Golang | https://docs.iyear.me/tdl/ |
+| **tdl** | 0.20.1 | Telegram downloader/tools written in Golang | https://docs.iyear.me/tdl/ |
 | **tea** | 0.11.1 | The official CLI for Gitea | https://gitea.com/gitea/tea |
 | **tealdeer** | 1.8.1 | A very fast implementation of tldr in Rust | https://tealdeer-rs.github.io/tealdeer/ |
 | **teckit** | 2.5.12-1 | TECkit is a library for encoding conversion | https://scripts.sil.org/teckitdownloads |

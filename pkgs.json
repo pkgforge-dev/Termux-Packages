@@ -5677,13 +5677,13 @@
   },
   {
     "Package": "libconfig",
-    "Version": "1.8.1-1",
+    "Version": "1.8.2",
     "Description": "C/C++ Configuration File Library",
     "Homepage": "https://github.com/hyperrealm/libconfig"
   },
   {
     "Package": "libconfig-static",
-    "Version": "1.8.1-1",
+    "Version": "1.8.2",
     "Description": "Static libraries for libconfig",
     "Homepage": "https://github.com/hyperrealm/libconfig"
   },
@@ -14299,7 +14299,7 @@
   },
   {
     "Package": "tdl",
-    "Version": "0.20.0",
+    "Version": "0.20.1",
     "Description": "Telegram downloader/tools written in Golang",
     "Homepage": "https://docs.iyear.me/tdl/"
   },
