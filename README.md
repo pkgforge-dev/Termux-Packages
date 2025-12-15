@@ -207,7 +207,7 @@
 | **capstone** | 5.0.6-1 | Lightweight multi-platform, multi-architecture disassembly framework | https://www.capstone-engine.org/ |
 | **capstone-static** | 5.0.6-1 | Static libraries for capstone | https://www.capstone-engine.org/ |
 | **carapace** | 1.5.7 | Multi-shell multi-command argument completer | https://carapace.sh/ |
-| **cargo-c** | 0.10.18 | Cargo C-ABI helpers | https://github.com/lu-zero/cargo-c |
+| **cargo-c** | 0.10.19 | Cargo C-ABI helpers | https://github.com/lu-zero/cargo-c |
 | **cargo-leptos** | 0.3.1 | Build tool for the Rust framework Leptos | https://github.com/leptos-rs/cargo-leptos |
 | **catdoc** | 0.95-2 | Program which reads MS-Word file and prints readable ASCII text to stdout | http://www.wagner.pp.ru/~vitus/software/catdoc/ |
 | **catgirl** | 2.2a-1 | A TLS-only terminal IRC client | https://git.causal.agency/catgirl |
