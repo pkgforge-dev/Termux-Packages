@@ -7331,7 +7331,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 28.2.2
+  Version: 28.3.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -7579,15 +7579,15 @@
   Description: Open Virtual Machine Firmware
   Homepage: https://www.tianocore.org/
 - Package: oxc-language-server
-  Version: 1.32.0
+  Version: 1.33.0
   Description: Oxc JavaScript linter language server
   Homepage: https://oxc.rs/
 - Package: oxfmt
-  Version: 1.32.0
+  Version: 1.33.0
   Description: Oxc JavaScript formatter
   Homepage: https://oxc.rs/
 - Package: oxlint
-  Version: 1.32.0
+  Version: 1.33.0
   Description: Oxc JavaScript linter
   Homepage: https://oxc.rs/
 - Package: p11-kit
@@ -8783,7 +8783,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: "20251208"
+  Version: "20251215"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://rust-analyzer.github.io/
 - Package: rust-bindgen
@@ -9887,11 +9887,11 @@
   Description: Static libraries for tree-sitter-vim
   Homepage: https://github.com/tree-sitter-grammars/tree-sitter-vim
 - Package: tree-sitter-vimdoc
-  Version: 4.0.2
+  Version: 4.1.0
   Description: Tree-sitter parser for Vim help files
   Homepage: https://github.com/neovim/tree-sitter-vimdoc
 - Package: tree-sitter-vimdoc-static
-  Version: 4.0.2
+  Version: 4.1.0
   Description: Static libraries for tree-sitter-vimdoc
   Homepage: https://github.com/neovim/tree-sitter-vimdoc
 - Package: trojan-go
@@ -10287,7 +10287,7 @@
   Description: Virtual terminal *tris clone
   Homepage: http://victornils.net/tetris/
 - Package: viu
-  Version: 1.6.0
+  Version: 1.6.1
   Description: Terminal image viewer with native support for iTerm and Kitty
   Homepage: https://github.com/atanunq/viu
 - Package: vivid
