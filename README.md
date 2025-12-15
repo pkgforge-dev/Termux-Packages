@@ -314,7 +314,7 @@
 | **dar** | 2.8.1 | A full featured command-line backup tool, short for Disk ARchive | http://dar.linux.free.fr/ |
 | **dar-static** | 2.8.1 | Static libraries for dar | http://dar.linux.free.fr/ |
 | **darkhttpd** | 1.17-1 | A simple webserver, implemented in a single .c file. | https://unix4lyfe.org/darkhttpd |
-| **dasel** | 2.8.1-1 | Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility | https://github.com/TomWright/dasel |
+| **dasel** | 3.0.0 | Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility | https://github.com/TomWright/dasel |
 | **dash** | 0.5.12-1 | Small POSIX-compliant implementation of /bin/sh | http://gondor.apana.org.au/~herbert/dash/ |
 | **dasm** | 2.20.14.1-1 | Macro assembler with support for several 8-bit microprocessors | https://dasm-dillon.sourceforge.io/ |
 | **datamash** | 1.9-1 | Program performing numeric, textual and statistical operations | https://www.gnu.org/software/datamash/ |
@@ -847,7 +847,7 @@
 | **leptonica** | 1.86.0 | Library for image processing and image analysis | http://www.leptonica.com/ |
 | **leptonica-static** | 1.86.0 | Static libraries for leptonica | http://www.leptonica.com/ |
 | **less** | 685 | Terminal pager program used to view the contents of a text file one screen at a time | https://www.greenwoodsoftware.com/less/ |
-| **lesspipe** | 2.21 | An input filter for the pager less | http://www-zeuthen.desy.de/~friebel/unix/lesspipe.html |
+| **lesspipe** | 2.22 | An input filter for the pager less | http://www-zeuthen.desy.de/~friebel/unix/lesspipe.html |
 | **leveldb** | 1.23-4 | Fast key-value storage library | https://github.com/google/leveldb |
 | **lexbor** | 2.6.0 | Fast embeddable web browser engine written in C with no dependencies | https://lexbor.com |
 | **lexter** | 1.0.3-5 | A real-time word puzzle for text terminals | https://www.kyne.au/~mark/software/lexter.php |
@@ -2346,7 +2346,7 @@
 | **stoken** | 0.93-3 | Software Token for Linux/UNIX | https://github.com/cernekee/stoken |
 | **stoken-static** | 0.93-3 | Static libraries for stoken | https://github.com/cernekee/stoken |
 | **stone** | 2.4-3 | A TCP/IP repeater in the application layer | https://www.gcd.org/sengoku/stone/ |
-| **storj-uplink** | 1.143.5 | Storj DCS Uplink CLI | https://www.storj.io/integrations/uplink-cli |
+| **storj-uplink** | 1.144.3 | Storj DCS Uplink CLI | https://www.storj.io/integrations/uplink-cli |
 | **stow** | 2.4.1 | Tool for managing the installation of multiple software packages into a single directory | https://www.gnu.org/software/stow/ |
 | **strace** | 6.18 | Debugging utility to monitor system calls and signals received | https://strace.io/ |
 | **streamripper** | 1.64.6-3 | Records and splits streaming mp3 into tracks | https://streamripper.sourceforge.net/ |

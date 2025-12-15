@@ -1215,7 +1215,7 @@
   Description: A simple webserver, implemented in a single .c file.
   Homepage: https://unix4lyfe.org/darkhttpd
 - Package: dasel
-  Version: 2.8.1-1
+  Version: 3.0.0
   Description: Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility
   Homepage: https://github.com/TomWright/dasel
 - Package: dash
@@ -3347,7 +3347,7 @@
   Description: Terminal pager program used to view the contents of a text file one screen at a time
   Homepage: https://www.greenwoodsoftware.com/less/
 - Package: lesspipe
-  Version: "2.21"
+  Version: "2.22"
   Description: An input filter for the pager less
   Homepage: http://www-zeuthen.desy.de/~friebel/unix/lesspipe.html
 - Package: leveldb
@@ -9343,7 +9343,7 @@
   Description: A TCP/IP repeater in the application layer
   Homepage: https://www.gcd.org/sengoku/stone/
 - Package: storj-uplink
-  Version: 1.143.5
+  Version: 1.144.3
   Description: Storj DCS Uplink CLI
   Homepage: https://www.storj.io/integrations/uplink-cli
 - Package: stow
