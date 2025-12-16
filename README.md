@@ -2051,7 +2051,7 @@
 | **pystring** | 1.1.4-1 | C++ functions matching the interface and behavior of python string methods with std::string | https://github.com/imageworks/pystring |
 | **python** | 3.12.12 | Python 3 programming language intended to enable clear programs | https://python.org/ |
 | **python-apsw** | 3.51.1.0 | Another Python SQLite Wrapper | https://rogerbinns.github.io/apsw/ |
-| **python-apt** | 3.0.0-1 | Python bindings for APT | https://apt-team.pages.debian.net/python-apt/ |
+| **python-apt** | 3.1.0 | Python bindings for APT | https://apt-team.pages.debian.net/python-apt/ |
 | **python-bcrypt** | 5.0.0 | Acceptable password hashing for your software and your servers | https://github.com/pyca/bcrypt |
 | **python-brotli** | 1.2.0 | lossless compression algorithm and format (Python bindings) | https://github.com/google/brotli |
 | **python-cmake** | 4.2.0 | Python wrapper for CMake | https://cmake-python-distributions.readthedocs.io/ |
@@ -2123,7 +2123,7 @@
 | **quick-lint-js** | 3.2.0-1 | Finds bugs in JavaScript programs | https://quick-lint-js.com/ |
 | **quickjs** | 1:20250913 | QuickJS is a small and embeddable Javascript engine | https://bellard.org/quickjs/ |
 | **quilt** | 0.69 | Allows you to easily manage large numbers of patches | https://savannah.nongnu.org/projects/quilt |
-| **rabbitmq-server** | 4.2.1 | Feature rich, multi-protocol messaging and streaming broker | https://github.com/rabbitmq/rabbitmq-server |
+| **rabbitmq-server** | 4.2.2 | Feature rich, multi-protocol messaging and streaming broker | https://github.com/rabbitmq/rabbitmq-server |
 | **racket** | 9.0 | Full-spectrum programming language going beyond Lisp and Scheme | https://racket-lang.org |
 | **racket-static** | 9.0 | Static libraries for racket | https://racket-lang.org |
 | **radare2** | 6.0.7 | UNIX-like reverse engineering framework and command-line toolset | https://www.radare.org/ |
