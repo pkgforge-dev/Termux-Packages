@@ -461,9 +461,9 @@
 | **fastfetch** | 2.56.0 | A maintained, feature-rich and performance oriented, neofetch like system information tool | https://github.com/fastfetch-cli/fastfetch |
 | **fastmod** | 0.4.4-1 | Regex-based code refactoring utility | https://github.com/facebookincubator/fastmod |
 | **fatsort** | 1.6.5.640-1 | A C utility that sorts FAT12, FAT16, FAT32 and exFAT partitions | https://fatsort.sourceforge.io/ |
-| **faust** | 2.81.10 | A functional programming language for signal processing and sound synthesis | https://github.com/grame-cncm/faust |
-| **faust-static** | 2.81.10 | Static libraries for faust | https://github.com/grame-cncm/faust |
-| **faustlibraries** | 2.81.10 | Faust DSP libraries | https://github.com/grame-cncm/faust |
+| **faust** | 2.83.1 | A functional programming language for signal processing and sound synthesis | https://github.com/grame-cncm/faust |
+| **faust-static** | 2.83.1 | Static libraries for faust | https://github.com/grame-cncm/faust |
+| **faustlibraries** | 2.83.1 | Faust DSP libraries | https://github.com/grame-cncm/faust |
 | **fclones** | 0.35.0-1 | Efficient Duplicate File Finder | https://github.com/pkolaczk/fclones |
 | **fcp** | 0.2.1-3 | A significantly faster alternative to the classic Unix cp(1) command | https://github.com/Svetlitski/fcp |
 | **fd** | 10.3.0-1 | Simple, fast and user-friendly alternative to find | https://github.com/sharkdp/fd |
@@ -717,8 +717,8 @@
 | **html-xml-utils** | 8.7 | A number of simple utilities for manipulating HTML and XML files | https://www.w3.org/Tools/HTML-XML-utils/ |
 | **html2text** | 1:2.4.0 | Utility that converts HTML documents into plain text | http://www.mbayer.de/html2text/ |
 | **htop** | 3.4.1-1 | Interactive process viewer for Linux | https://htop.dev/ |
-| **htslib** | 1.22.1-1 | C library for high-throughput sequencing data formats | https://github.com/samtools/htslib |
-| **htslib-static** | 1.22.1-1 | Static libraries for htslib | https://github.com/samtools/htslib |
+| **htslib** | 1.23 | C library for high-throughput sequencing data formats | https://github.com/samtools/htslib |
+| **htslib-static** | 1.23 | Static libraries for htslib | https://github.com/samtools/htslib |
 | **httping** | 4.4.0-1 | ping-like program for http-requests | https://github.com/folkertvanheusden/HTTPing |
 | **httrack** | 3.49.6-1 | It allows you to download a World Wide Web site from the Internet | http://www.httrack.com |
 | **httrack-data** | 3.49.6-1 | Platform-independent data for httrack | http://www.httrack.com |
@@ -828,7 +828,7 @@
 | **knockd** | 0.8.2-2 | A port-knocking daemon | https://zeroflux.org/projects/knock |
 | **knot-utils** | 3.2.4-2 | Knot DNS utilities | https://www.knot-dns.cz/ |
 | **kona** | 20211225-1 | Open-source implementation of the APL-like K programming language | https://github.com/kevinlawler/kona |
-| **kotlin** | 2.2.21 | The Kotlin Programming Language | https://kotlinlang.org/ |
+| **kotlin** | 2.3.0 | The Kotlin Programming Language | https://kotlinlang.org/ |
 | **krb5** | 1.22.1-1 | The Kerberos network authentication system | https://web.mit.edu/kerberos |
 | **kubecolor** | 0.5.3 | Colorize your kubectl output | https://github.com/kubecolor/kubecolor |
 | **kubectl** | 1.34.3 | Kubernetes.io client binary | https://kubernetes.io/ |
@@ -1645,7 +1645,7 @@
 | **matplotlib** | 3.10.8 | A comprehensive library for creating static, animated, and interactive visualizations in Python | https://matplotlib.org/ |
 | **matterbridge** | 1.26.0-4 | A simple chat bridge | https://github.com/42wim/matterbridge |
 | **matterircd** | 0.28.0-1 | Connect to your mattermost or slack using your IRC-client of choice | https://github.com/42wim/matterircd |
-| **mautrix-whatsapp** | 0.2511.0 | A Matrix-WhatsApp puppeting bridge | https://maunium.net/go/mautrix-whatsapp/ |
+| **mautrix-whatsapp** | 0.2512.0 | A Matrix-WhatsApp puppeting bridge | https://maunium.net/go/mautrix-whatsapp/ |
 | **maven** | 3.9.11-1 | A Java software project management and comprehension tool | https://maven.apache.org/ |
 | **maxcso** | 1.13.0-1 | A fast ISO to CSO compression program for use with PSP and PS2 emulators | https://github.com/unknownbrackets/maxcso |
 | **mazter** | 2022.08.13-1 | Mazes in your terminal | https://github.com/Canop/mazter |
@@ -2242,7 +2242,7 @@
 | **sdcv** | 0.5.5-2 | StarDict Console Version | http://dushistov.github.io/sdcv/ |
 | **seafile-client** | 9.0.15-1 | Seafile is a file syncing and sharing software with file encryption and group sharing | https://seafile.com |
 | **seafile-client-static** | 9.0.15-1 | Static libraries for seafile-client | https://seafile.com |
-| **seanime** | 3.1.0 | Self-hosted anime and manga server for sea rovers. | https://github.com/5rahim/seanime |
+| **seanime** | 3.2.0 | Self-hosted anime and manga server for sea rovers. | https://github.com/5rahim/seanime |
 | **seccure** | 0.5-8 | SECCURE Elliptic Curve Crypto Utility for Reliable Encryption | http://point-at-infinity.org/seccure/ |
 | **secure-delete** | 3.1-6 | Secure file, disk, swap, memory erasure utilities | https://www.thc.org/ |
 | **sed** | 4.9-2 | GNU stream editor for filtering/transforming text | https://www.gnu.org/software/sed/ |
@@ -2396,8 +2396,8 @@
 | **tdl** | 0.20.1 | Telegram downloader/tools written in Golang | https://docs.iyear.me/tdl/ |
 | **tea** | 0.11.1 | The official CLI for Gitea | https://gitea.com/gitea/tea |
 | **tealdeer** | 1.8.1 | A very fast implementation of tldr in Rust | https://tealdeer-rs.github.io/tealdeer/ |
-| **teckit** | 2.5.12-1 | TECkit is a library for encoding conversion | https://scripts.sil.org/teckitdownloads |
-| **teckit-static** | 2.5.12-1 | Static libraries for teckit | https://scripts.sil.org/teckitdownloads |
+| **teckit** | 2.5.13 | TECkit is a library for encoding conversion | https://scripts.sil.org/teckitdownloads |
+| **teckit-static** | 2.5.13 | Static libraries for teckit | https://scripts.sil.org/teckitdownloads |
 | **tectonic** | 0.15.0-5 | A modernized, complete, self-contained TeX/LaTeX engine | https://tectonic-typesetting.github.io/ |
 | **telegram-bot-api** | 20241031-2 | Telegram Bot API server | https://github.com/tdlib/telegram-bot-api |
 | **telegram-cli** | 1:1.4.1-8 | Telegram messenger CLI | https://github.com/vysheng/tg |

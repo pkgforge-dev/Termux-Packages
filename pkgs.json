@@ -2707,19 +2707,19 @@
   },
   {
     "Package": "faust",
-    "Version": "2.81.10",
+    "Version": "2.83.1",
     "Description": "A functional programming language for signal processing and sound synthesis",
     "Homepage": "https://github.com/grame-cncm/faust"
   },
   {
     "Package": "faust-static",
-    "Version": "2.81.10",
+    "Version": "2.83.1",
     "Description": "Static libraries for faust",
     "Homepage": "https://github.com/grame-cncm/faust"
   },
   {
     "Package": "faustlibraries",
-    "Version": "2.81.10",
+    "Version": "2.83.1",
     "Description": "Faust DSP libraries",
     "Homepage": "https://github.com/grame-cncm/faust"
   },
@@ -4243,13 +4243,13 @@
   },
   {
     "Package": "htslib",
-    "Version": "1.22.1-1",
+    "Version": "1.23",
     "Description": "C library for high-throughput sequencing data formats",
     "Homepage": "https://github.com/samtools/htslib"
   },
   {
     "Package": "htslib-static",
-    "Version": "1.22.1-1",
+    "Version": "1.23",
     "Description": "Static libraries for htslib",
     "Homepage": "https://github.com/samtools/htslib"
   },
@@ -4909,7 +4909,7 @@
   },
   {
     "Package": "kotlin",
-    "Version": "2.2.21",
+    "Version": "2.3.0",
     "Description": "The Kotlin Programming Language",
     "Homepage": "https://kotlinlang.org/"
   },
@@ -9811,7 +9811,7 @@
   },
   {
     "Package": "mautrix-whatsapp",
-    "Version": "0.2511.0",
+    "Version": "0.2512.0",
     "Description": "A Matrix-WhatsApp puppeting bridge",
     "Homepage": "https://maunium.net/go/mautrix-whatsapp/"
   },
@@ -13393,7 +13393,7 @@
   },
   {
     "Package": "seanime",
-    "Version": "3.1.0",
+    "Version": "3.2.0",
     "Description": "Self-hosted anime and manga server for sea rovers.",
     "Homepage": "https://github.com/5rahim/seanime"
   },
@@ -14317,13 +14317,13 @@
   },
   {
     "Package": "teckit",
-    "Version": "2.5.12-1",
+    "Version": "2.5.13",
     "Description": "TECkit is a library for encoding conversion",
     "Homepage": "https://scripts.sil.org/teckitdownloads"
   },
   {
     "Package": "teckit-static",
-    "Version": "2.5.12-1",
+    "Version": "2.5.13",
     "Description": "Static libraries for teckit",
     "Homepage": "https://scripts.sil.org/teckitdownloads"
   },
