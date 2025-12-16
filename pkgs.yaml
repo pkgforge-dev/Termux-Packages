@@ -1203,11 +1203,11 @@
   Description: Run a command as a Unix daemon
   Homepage: http://software.clapper.org/daemonize/
 - Package: dar
-  Version: 2.8.1
+  Version: 2.8.2
   Description: A full featured command-line backup tool, short for Disk ARchive
   Homepage: http://dar.linux.free.fr/
 - Package: dar-static
-  Version: 2.8.1
+  Version: 2.8.2
   Description: Static libraries for dar
   Homepage: http://dar.linux.free.fr/
 - Package: darkhttpd
@@ -1759,7 +1759,7 @@
   Description: Open source xHE-AAC encoder
   Homepage: https://gitlab.com/ecodis/exhale
 - Package: exiftool
-  Version: "13.43"
+  Version: "13.44"
   Description: Utility for reading, writing and editing meta information in a wide variety of files.
   Homepage: https://exiftool.org/
 - Package: exiv2
@@ -2955,11 +2955,11 @@
   Description: A command line id3v2 tag editor
   Homepage: https://id3v2.sourceforge.net/
 - Package: imagemagick
-  Version: 7.1.2.10
+  Version: 7.1.2.11
   Description: Suite to create, edit, compose, or convert images in a variety of formats
   Homepage: https://www.imagemagick.org/
 - Package: imagemagick-static
-  Version: 7.1.2.10
+  Version: 7.1.2.11
   Description: Static libraries for imagemagick
   Homepage: https://www.imagemagick.org/
 - Package: imath
@@ -5003,11 +5003,11 @@
   Description: Application-Level Forward Erasure Correction implementation library
   Homepage: http://openfec.org
 - Package: libopenmpt
-  Version: 0.8.3
+  Version: 0.8.4
   Description: Library to render tracker music formats to a PCM audio stream
   Homepage: https://lib.openmpt.org/libopenmpt/
 - Package: libopenmpt-static
-  Version: 0.8.3
+  Version: 0.8.4
   Description: Static libraries for libopenmpt
   Homepage: https://lib.openmpt.org/libopenmpt/
 - Package: libopus
@@ -7491,7 +7491,7 @@
   Description: Static libraries for openmpi
   Homepage: https://www.open-mpi.org
 - Package: openmpt123
-  Version: 0.8.3
+  Version: 0.8.4
   Description: libopenmpt based command-line player for tracker music formats
   Homepage: https://lib.openmpt.org/libopenmpt/
 - Package: opensc
