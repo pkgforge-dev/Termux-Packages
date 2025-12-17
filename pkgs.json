@@ -2593,7 +2593,7 @@
   },
   {
     "Package": "esbuild",
-    "Version": "0.27.1",
+    "Version": "0.27.2",
     "Description": "An extremely fast JavaScript bundler",
     "Homepage": "https://esbuild.github.io/"
   },
@@ -8629,13 +8629,13 @@
   },
   {
     "Package": "libucontext",
-    "Version": "1.2-2",
+    "Version": "1.5",
     "Description": "A library which provides the ucontext.h C API",
     "Homepage": "https://github.com/kaniini/libucontext"
   },
   {
     "Package": "libucontext-static",
-    "Version": "1.2-2",
+    "Version": "1.5",
     "Description": "Static libraries for libucontext",
     "Homepage": "https://github.com/kaniini/libucontext"
   },

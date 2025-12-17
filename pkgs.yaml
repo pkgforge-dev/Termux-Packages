@@ -1727,7 +1727,7 @@
   Description: Erlang HTML documentation
   Homepage: https://www.erlang.org/
 - Package: esbuild
-  Version: 0.27.1
+  Version: 0.27.2
   Description: An extremely fast JavaScript bundler
   Homepage: https://esbuild.github.io/
 - Package: espeak
@@ -5751,11 +5751,11 @@
   Description: Static libraries for libuchardet
   Homepage: https://www.freedesktop.org/wiki/Software/uchardet/
 - Package: libucontext
-  Version: 1.2-2
+  Version: "1.5"
   Description: A library which provides the ucontext.h C API
   Homepage: https://github.com/kaniini/libucontext
 - Package: libucontext-static
-  Version: 1.2-2
+  Version: "1.5"
   Description: Static libraries for libucontext
   Homepage: https://github.com/kaniini/libucontext
 - Package: libudfread
