@@ -2495,7 +2495,7 @@
   Description: University of Minnesota gopher
   Homepage: gopher://gopher.quux.org/1/devel/gopher
 - Package: gopls
-  Version: 0.20.0
+  Version: 0.21.0
   Description: The official Go language server
   Homepage: https://github.com/golang/tools
 - Package: gost
@@ -4607,11 +4607,11 @@
   Description: Fast LZ compression algorithm library
   Homepage: https://lz4.github.io/lz4/
 - Package: liblzma
-  Version: 5.8.1-1
+  Version: 5.8.2
   Description: XZ-format compression library
   Homepage: https://tukaani.org/xz/
 - Package: liblzma-static
-  Version: 5.8.1-1
+  Version: 5.8.2
   Description: Static libraries for liblzma
   Homepage: https://tukaani.org/xz/
 - Package: liblzo
@@ -5855,7 +5855,7 @@
   Description: Computer vision library
   Homepage: https://ukoethe.github.io/vigra/
 - Package: libvips
-  Version: 8.17.3-1
+  Version: 8.18.0
   Description: A fast image processing library with low memory needs
   Homepage: https://libvips.github.io/libvips/
 - Package: libvmaf
@@ -8479,7 +8479,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 4.15.0
+  Version: 4.15.1
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
@@ -9427,7 +9427,7 @@
   Description: Swiss Army Knife for SMTP
   Homepage: http://jetmore.org/john/code/swaks/
 - Package: swi-prolog
-  Version: 9.3.36
+  Version: 10.1.0
   Description: Most popular and complete prolog implementation
   Homepage: https://swi-prolog.org/
 - Package: swift-runtime-aarch64
@@ -10619,7 +10619,7 @@
   Description: Static libraries for xxhash
   Homepage: https://cyan4973.github.io/xxHash/
 - Package: xz-utils
-  Version: 5.8.1-1
+  Version: 5.8.2
   Description: XZ-format compression tools
   Homepage: https://tukaani.org/xz/
 - Package: yadm

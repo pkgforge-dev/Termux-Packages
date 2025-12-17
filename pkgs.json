@@ -3745,7 +3745,7 @@
   },
   {
     "Package": "gopls",
-    "Version": "0.20.0",
+    "Version": "0.21.0",
     "Description": "The official Go language server",
     "Homepage": "https://github.com/golang/tools"
   },
@@ -6913,13 +6913,13 @@
   },
   {
     "Package": "liblzma",
-    "Version": "5.8.1-1",
+    "Version": "5.8.2",
     "Description": "XZ-format compression library",
     "Homepage": "https://tukaani.org/xz/"
   },
   {
     "Package": "liblzma-static",
-    "Version": "5.8.1-1",
+    "Version": "5.8.2",
     "Description": "Static libraries for liblzma",
     "Homepage": "https://tukaani.org/xz/"
   },
@@ -8785,7 +8785,7 @@
   },
   {
     "Package": "libvips",
-    "Version": "8.17.3-1",
+    "Version": "8.18.0",
     "Description": "A fast image processing library with low memory needs",
     "Homepage": "https://libvips.github.io/libvips/"
   },
@@ -12721,7 +12721,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "4.15.0",
+    "Version": "4.15.1",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -14143,7 +14143,7 @@
   },
   {
     "Package": "swi-prolog",
-    "Version": "9.3.36",
+    "Version": "10.1.0",
     "Description": "Most popular and complete prolog implementation",
     "Homepage": "https://swi-prolog.org/"
   },
@@ -15931,7 +15931,7 @@
   },
   {
     "Package": "xz-utils",
-    "Version": "5.8.1-1",
+    "Version": "5.8.2",
     "Description": "XZ-format compression tools",
     "Homepage": "https://tukaani.org/xz/"
   },
