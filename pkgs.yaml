@@ -1367,7 +1367,7 @@
   Description: dns2tcp is a tool for relaying TCP connections over DNS
   Homepage: https://github.com/alex-sector/dns2tcp
 - Package: dnslookup
-  Version: 1.11.1-2
+  Version: 1.11.2
   Description: 'Simple command line utility to make DNS lookups. Supports all known DNS protocols: plain DNS, DoH, DoT, DoQ, DNSCrypt.'
   Homepage: https://github.com/ameshkov/dnslookup
 - Package: dnsmap
@@ -1379,7 +1379,7 @@
   Description: A libpcap application that displays various tables of DNS traffic on your network
   Homepage: https://github.com/measurement-factory/dnstop
 - Package: dnsutils
-  Version: 9.20.16
+  Version: 9.20.17
   Description: Clients provided with BIND
   Homepage: https://www.isc.org/bind/
 - Package: docbook-xml
@@ -1791,7 +1791,7 @@
   Description: To fastly access files and folders
   Homepage: https://github.com/whjvenyl/fasd
 - Package: fastfetch
-  Version: 2.56.0
+  Version: 2.56.1
   Description: A maintained, feature-rich and performance oriented, neofetch like system information tool
   Homepage: https://github.com/fastfetch-cli/fastfetch
 - Package: fastmod
@@ -3283,7 +3283,7 @@
   Description: Colorize your kubectl output
   Homepage: https://github.com/kubecolor/kubecolor
 - Package: kubectl
-  Version: 1.34.3
+  Version: 1.35.0
   Description: Kubernetes.io client binary
   Homepage: https://kubernetes.io/
 - Package: kubelogin
@@ -6543,7 +6543,7 @@
   Description: A Matrix-WhatsApp puppeting bridge
   Homepage: https://maunium.net/go/mautrix-whatsapp/
 - Package: maven
-  Version: 3.9.11-1
+  Version: 3.9.12
   Description: A Java software project management and comprehension tool
   Homepage: https://maven.apache.org/
 - Package: maxcso
@@ -6671,7 +6671,7 @@
   Description: Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage
   Homepage: https://xff.cz/megatools/
 - Package: memcached
-  Version: 1.6.39-1
+  Version: 1.6.40
   Description: Free & open source, high-performance, distributed memory object caching system
   Homepage: https://memcached.org/
 - Package: mercury
@@ -8107,7 +8107,7 @@
   Description: Pure-FTPd is a free (BSD), secure, production-quality and standard-conformant FTP server
   Homepage: https://www.pureftpd.org/project/pure-ftpd
 - Package: pv
-  Version: 1.10.2
+  Version: 1.10.3
   Description: Terminal-based tool for monitoring the progress of data through a pipeline
   Homepage: https://www.ivarch.com/programs/pv.shtml
 - Package: pwgen
@@ -9143,7 +9143,7 @@
   Description: A user-friendly IRC bouncer
   Homepage: https://codeberg.org/emersion/soju
 - Package: solidity
-  Version: 0.8.31
+  Version: 0.8.32
   Description: An Ethereum smart contract-oriented language
   Homepage: https://www.soliditylang.org/
 - Package: sops
@@ -10383,7 +10383,7 @@
   Description: A terminal file manager
   Homepage: https://github.com/antonmedv/walk
 - Package: wasi-libc
-  Version: "27"
+  Version: "29"
   Description: Libc for WebAssembly programs built on top of WASI system calls
   Homepage: https://wasi.dev/
 - Package: wasm-component-ld

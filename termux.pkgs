@@ -340,10 +340,10 @@
 | **dnote** | 1:0.16.0 | A simple command line notebook for programmers | https://www.getdnote.com/ |
 | **dnote-server** | 2.1.1-3 | This package contains the Dnote server. It comprises of the web interface, the web API, and the background jobs. | https://www.getdnote.com/ |
 | **dns2tcp** | 0.5.2-2 | dns2tcp is a tool for relaying TCP connections over DNS | https://github.com/alex-sector/dns2tcp |
-| **dnslookup** | 1.11.1-2 | Simple command line utility to make DNS lookups. Supports all known DNS protocols: plain DNS, DoH, DoT, DoQ, DNSCrypt. | https://github.com/ameshkov/dnslookup |
+| **dnslookup** | 1.11.2 | Simple command line utility to make DNS lookups. Supports all known DNS protocols: plain DNS, DoH, DoT, DoQ, DNSCrypt. | https://github.com/ameshkov/dnslookup |
 | **dnsmap** | 0.36-3 | Subdomain Bruteforcing Tool | https://github.com/resurrecting-open-source-projects/dnsmap |
 | **dnstop** | 2022.10.19-1 | A libpcap application that displays various tables of DNS traffic on your network | https://github.com/measurement-factory/dnstop |
-| **dnsutils** | 9.20.16 | Clients provided with BIND | https://www.isc.org/bind/ |
+| **dnsutils** | 9.20.17 | Clients provided with BIND | https://www.isc.org/bind/ |
 | **docbook-xml** | 5.1-1 | A widely used XML scheme for writing documentation and help | https://www.oasis-open.org/docbook/ |
 | **docbook-xsl** | 1.79.2-4 | XML stylesheets for Docbook-xml transformations | https://docbook.org/ |
 | **docopt** | 0.6.3-4 | Command line arguments parser for C++11 and later | http://docopt.org |
@@ -446,7 +446,7 @@
 | **fakeroot** | 1.37.1.2-1 | Tool for simulating superuser privileges (with tcp ipc) | https://packages.qa.debian.org/f/fakeroot.html |
 | **fakeroot-static** | 1.37.1.2-1 | Static libraries for fakeroot | https://packages.qa.debian.org/f/fakeroot.html |
 | **fasd** | 2.0.0 | To fastly access files and folders | https://github.com/whjvenyl/fasd |
-| **fastfetch** | 2.56.0 | A maintained, feature-rich and performance oriented, neofetch like system information tool | https://github.com/fastfetch-cli/fastfetch |
+| **fastfetch** | 2.56.1 | A maintained, feature-rich and performance oriented, neofetch like system information tool | https://github.com/fastfetch-cli/fastfetch |
 | **fastmod** | 0.4.4-1 | Regex-based code refactoring utility | https://github.com/facebookincubator/fastmod |
 | **fatsort** | 1.6.5.640-1 | A C utility that sorts FAT12, FAT16, FAT32 and exFAT partitions | https://fatsort.sourceforge.io/ |
 | **faust** | 2.83.1 | A functional programming language for signal processing and sound synthesis | https://github.com/grame-cncm/faust |
@@ -819,7 +819,7 @@
 | **kotlin** | 2.3.0 | The Kotlin Programming Language | https://kotlinlang.org/ |
 | **krb5** | 1.22.1-1 | The Kerberos network authentication system | https://web.mit.edu/kerberos |
 | **kubecolor** | 0.5.3 | Colorize your kubectl output | https://github.com/kubecolor/kubecolor |
-| **kubectl** | 1.34.3 | Kubernetes.io client binary | https://kubernetes.io/ |
+| **kubectl** | 1.35.0 | Kubernetes.io client binary | https://kubernetes.io/ |
 | **kubelogin** | 1.35.0 | A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication | https://github.com/int128/kubelogin |
 | **kubo** | 0.39.0 | A peer-to-peer hypermedia distribution protocol | https://ipfs.io/ |
 | **ladspa-sdk** | 1.17-2 | Linux Audio Developer's Simple Plugin API | https://www.ladspa.org/ |
@@ -1634,7 +1634,7 @@
 | **matterbridge** | 1.26.0-4 | A simple chat bridge | https://github.com/42wim/matterbridge |
 | **matterircd** | 0.28.0-1 | Connect to your mattermost or slack using your IRC-client of choice | https://github.com/42wim/matterircd |
 | **mautrix-whatsapp** | 0.2512.0 | A Matrix-WhatsApp puppeting bridge | https://maunium.net/go/mautrix-whatsapp/ |
-| **maven** | 3.9.11-1 | A Java software project management and comprehension tool | https://maven.apache.org/ |
+| **maven** | 3.9.12 | A Java software project management and comprehension tool | https://maven.apache.org/ |
 | **maxcso** | 1.13.0-1 | A fast ISO to CSO compression program for use with PSP and PS2 emulators | https://github.com/unknownbrackets/maxcso |
 | **mazter** | 2022.08.13-1 | Mazes in your terminal | https://github.com/Canop/mazter |
 | **mbedtls** | 3.6.4-1 | Light-weight cryptographic and SSL/TLS library | https://www.trustedfirmware.org/projects/mbed-tls/ |
@@ -1666,7 +1666,7 @@
 | **mediamtx** | 1.15.5 | Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy | https://github.com/bluenviron/mediamtx |
 | **megacmd** | 2.3.0-2 | Provides non UI access to MEGA services | https://mega.io/ |
 | **megatools** | 1.11.5.20250706-1 | Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage | https://xff.cz/megatools/ |
-| **memcached** | 1.6.39-1 | Free & open source, high-performance, distributed memory object caching system | https://memcached.org/ |
+| **memcached** | 1.6.40 | Free & open source, high-performance, distributed memory object caching system | https://memcached.org/ |
 | **mercury** | 22.01.8-1 | A logic/functional programming language | https://www.mercurylang.org/ |
 | **mercury-static** | 22.01.8-1 | Static libraries for mercury | https://www.mercurylang.org/ |
 | **mesa** | 25.3.1 | An open-source implementation of the OpenGL specification | https://www.mesa3d.org |
@@ -2025,7 +2025,7 @@
 | **pulseaudio-glib** | 17.0-1 | PulseAudio GLIB mainloop component | https://www.freedesktop.org/wiki/Software/PulseAudio |
 | **pup** | 0.4.0-7 | command line tool for processing HTML | https://github.com/ericchiang/pup |
 | **pure-ftpd** | 1.0.52-1 | Pure-FTPd is a free (BSD), secure, production-quality and standard-conformant FTP server | https://www.pureftpd.org/project/pure-ftpd |
-| **pv** | 1.10.2 | Terminal-based tool for monitoring the progress of data through a pipeline | https://www.ivarch.com/programs/pv.shtml |
+| **pv** | 1.10.3 | Terminal-based tool for monitoring the progress of data through a pipeline | https://www.ivarch.com/programs/pv.shtml |
 | **pwgen** | 2.08-2 | Password generator which by default, unless given the '-s' option, generates memorable but insecure passwords | http://pwgen.sourceforge.net/ |
 | **pybind11** | 3.0.1-1 | A lightweight header-only library that exposes C++ types in Python and vice versa | https://pybind11.readthedocs.io/ |
 | **pycairo** | 1.29.0 | Python bindings for the cairo graphics library | https://www.cairographics.org/pycairo/ |
@@ -2284,7 +2284,7 @@
 | **softether-vpn** | 5.2.5188-1 | An open-source cross-platform multi-protocol VPN program | https://www.softether.org/ |
 | **softether-vpn-static** | 5.2.5188-1 | Static libraries for softether-vpn | https://www.softether.org/ |
 | **soju** | 0.10.1 | A user-friendly IRC bouncer | https://codeberg.org/emersion/soju |
-| **solidity** | 0.8.31 | An Ethereum smart contract-oriented language | https://www.soliditylang.org/ |
+| **solidity** | 0.8.32 | An Ethereum smart contract-oriented language | https://www.soliditylang.org/ |
 | **sops** | 3.11.0 | Simple and flexible tool for managing secrets | https://github.com/getsops/sops |
 | **sord** | 0.16.20 | A lightweight C library for storing RDF data in memory | https://drobilla.net/software/sord.html |
 | **sox** | 14.4.2-28 | Command line utility for converting between and applying effects to various audio files formats | https://sox.sourceforge.net/ |
@@ -2594,7 +2594,7 @@
 | **wabt** | 1.0.39 | The WebAssembly Binary Toolkit | https://github.com/WebAssembly/wabt |
 | **wakatime-cli** | 1.132.1 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
 | **walk** | 1.13.0 | A terminal file manager | https://github.com/antonmedv/walk |
-| **wasi-libc** | 27 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |
+| **wasi-libc** | 29 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |
 | **wasm-component-ld** | 0.5.19 | Command line linker for creating WebAssembly components | https://github.com/bytecodealliance/wasm-component-ld |
 | **watchexec** | 2.3.0-1 | Executes commands in response to file modifications | https://github.com/watchexec/watchexec |
 | **wavpack** | 5.8.1-1 | WavPack command-line programs | https://www.wavpack.com/ |
