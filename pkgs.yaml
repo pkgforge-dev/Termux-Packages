@@ -2303,7 +2303,7 @@
   Description: Simple, Portable, Free File Transfer Software for UNIX
   Homepage: http://www.columbia.edu/kermit/gkermit.html
 - Package: glab-cli
-  Version: 1.80.2
+  Version: 1.80.4
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
@@ -3894,6 +3894,10 @@
   Version: 0.3.0
   Description: EDID and DisplayID library
   Homepage: https://emersion.pages.freedesktop.org/libdisplay-info/
+- Package: libdjinterop
+  Version: 0.27.0
+  Description: C++ library for access to DJ record libraries
+  Homepage: https://github.com/xsco/libdjinterop
 - Package: libdmtx
   Version: 0.7.8-1
   Description: A software library that enables programs to read and write Data Matrix barcodes
@@ -4470,6 +4474,10 @@
   Version: 0.11.1-6
   Description: Programs for manipulating JPEG XL files
   Homepage: https://jpegxl.info/
+- Package: libkeyfinder
+  Version: 2.2.8
+  Description: Musical key detection for digital audio
+  Homepage: https://mixxxdj.github.io/libkeyfinder
 - Package: libkiwix
   Version: 14.1.1
   Description: A library that contains a lot of things used by other kiwix programs
@@ -6914,6 +6922,10 @@
   Version: 3.4.0-1
   Description: Static libraries for mruby
   Homepage: https://mruby.org/
+- Package: ms-gsl
+  Version: 4.2.1
+  Description: Guidelines Support Library
+  Homepage: https://github.com/Microsoft/GSL
 - Package: msedit
   Version: 1.2.1-1
   Description: A simple editor for simple needs (Microsoft Edit)
@@ -8251,7 +8263,7 @@
   Description: Python client for Neovim
   Homepage: https://github.com/neovim/pynvim
 - Package: python-ruff
-  Version: 0.14.9
+  Version: 0.14.10
   Description: An extremely fast Python linter, written in Rust (Python bindings)
   Homepage: https://github.com/charliermarsh/ruff
 - Package: python-sabyenc3
@@ -8763,7 +8775,7 @@
   Description: Ruby documentation index
   Homepage: https://www.ruby-lang.org/
 - Package: ruff
-  Version: 0.14.9
+  Version: 0.14.10
   Description: An extremely fast Python linter, written in Rust
   Homepage: https://github.com/charliermarsh/ruff
 - Package: runit
@@ -9143,7 +9155,7 @@
   Description: A user-friendly IRC bouncer
   Homepage: https://codeberg.org/emersion/soju
 - Package: solidity
-  Version: 0.8.32
+  Version: 0.8.33
   Description: An Ethereum smart contract-oriented language
   Homepage: https://www.soliditylang.org/
 - Package: sops
@@ -10327,7 +10339,7 @@
   Description: Vulkan Extension Layer
   Homepage: https://github.com/KhronosGroup/Vulkan-ExtensionLayer
 - Package: vulkan-headers
-  Version: 1.4.336
+  Version: 1.4.337
   Description: Vulkan Header files and API registry
   Homepage: https://github.com/KhronosGroup/Vulkan-Headers
 - Package: vulkan-icd
