@@ -537,7 +537,7 @@
 | **gbt** | 2.0.0-6 | Highly configurable prompt builder for Bash and ZSH written in Go | https://github.com/jtyr/gbt |
 | **gcab** | 1.6-1 | GObject library to create cabinet files | https://gitlab.gnome.org/GNOME/gcab |
 | **gcal** | 4.1-4 | Program for calculating and printing calendars | https://www.gnu.org/software/gcal/ |
-| **gdal** | 3.12.0-1 | A translator library for raster and vector geospatial data formats | https://gdal.org |
+| **gdal** | 3.12.1 | A translator library for raster and vector geospatial data formats | https://gdal.org |
 | **gdb** | 16.3-1 | The standard GNU Debugger that runs on many Unix-like systems and works for many programming languages | https://www.gnu.org/software/gdb/ |
 | **gdbm** | 1.26-1 | Library of database functions that use extensible hashing | https://www.gnu.org.ua/software/gdbm/ |
 | **gdbm-static** | 1.26-1 | Static libraries for gdbm | https://www.gnu.org.ua/software/gdbm/ |
@@ -1908,9 +1908,9 @@
 | **ossp-uuid** | 1.6.2-4 | ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122. | http://www.ossp.org/pkg/lib/uuid/ |
 | **ossp-uuid-static** | 1.6.2-4 | Static libraries for ossp-uuid | http://www.ossp.org/pkg/lib/uuid/ |
 | **ovmf** | 20231122-16.fc40-0 | Open Virtual Machine Firmware | https://www.tianocore.org/ |
-| **oxc-language-server** | 1.33.0 | Oxc JavaScript linter language server | https://oxc.rs/ |
-| **oxfmt** | 1.33.0 | Oxc JavaScript formatter | https://oxc.rs/ |
-| **oxlint** | 1.33.0 | Oxc JavaScript linter | https://oxc.rs/ |
+| **oxc-language-server** | 1.34.0 | Oxc JavaScript linter language server | https://oxc.rs/ |
+| **oxfmt** | 1.34.0 | Oxc JavaScript formatter | https://oxc.rs/ |
+| **oxlint** | 1.34.0 | Oxc JavaScript linter | https://oxc.rs/ |
 | **p11-kit** | 0.25.10 | Provides a way to load and enumerate PKCS#11 modules | https://p11-glue.github.io/p11-glue/p11-kit.html |
 | **p7zip** | 17.06-1 | Command-line version of the 7zip compressed file archiver | https://github.com/p7zip-project/p7zip |
 | **pacman** | 7.1.0 | A library-based package manager with dependency support | https://archlinux.org/pacman/ |
@@ -2534,7 +2534,7 @@
 | **unixodbc** | 2.3.14 | An Open Source ODBC sub-system and an ODBC SDK for Linux, Mac OSX, and UNIX | https://www.unixodbc.org/ |
 | **unixodbc-static** | 2.3.14 | Static libraries for unixodbc | https://www.unixodbc.org/ |
 | **unpaper** | 1:7.0.0-4 | A post-processing tool for scanned sheets of paper | https://www.flameeyes.com/projects/unpaper |
-| **unrar** | 7.2.2 | Tool for extracting files from .rar archives | https://www.rarlab.com/ |
+| **unrar** | 7.2.3 | Tool for extracting files from .rar archives | https://www.rarlab.com/ |
 | **unshield** | 1.6.2-1 | Tool and library to extract CAB files from InstallShield installers | https://github.com/twogood/unshield |
 | **unzip** | 6.0-10 | Tools for working with zip files | https://sourceforge.net/projects/infozip/ |
 | **up** | 0.4-4 | Helps interactively and incrementally explore textual data in Linux | https://github.com/akavel/up |

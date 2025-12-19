@@ -2107,7 +2107,7 @@
   Description: Program for calculating and printing calendars
   Homepage: https://www.gnu.org/software/gcal/
 - Package: gdal
-  Version: 3.12.0-1
+  Version: 3.12.1
   Description: A translator library for raster and vector geospatial data formats
   Homepage: https://gdal.org
 - Package: gdb
@@ -7591,15 +7591,15 @@
   Description: Open Virtual Machine Firmware
   Homepage: https://www.tianocore.org/
 - Package: oxc-language-server
-  Version: 1.33.0
+  Version: 1.34.0
   Description: Oxc JavaScript linter language server
   Homepage: https://oxc.rs/
 - Package: oxfmt
-  Version: 1.33.0
+  Version: 1.34.0
   Description: Oxc JavaScript formatter
   Homepage: https://oxc.rs/
 - Package: oxlint
-  Version: 1.33.0
+  Version: 1.34.0
   Description: Oxc JavaScript linter
   Homepage: https://oxc.rs/
 - Package: p11-kit
@@ -10095,7 +10095,7 @@
   Description: A post-processing tool for scanned sheets of paper
   Homepage: https://www.flameeyes.com/projects/unpaper
 - Package: unrar
-  Version: 7.2.2
+  Version: 7.2.3
   Description: Tool for extracting files from .rar archives
   Homepage: https://www.rarlab.com/
 - Package: unshield
