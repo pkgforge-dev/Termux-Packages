@@ -1007,7 +1007,7 @@
   Description: Command producing a Matrix-style animation
   Homepage: https://github.com/abishekvashok/cmatrix
 - Package: cmocka
-  Version: 2.0.0
+  Version: 2.0.1
   Description: cmocka is an unit testing framework for C
   Homepage: https://cmocka.org/
 - Package: cmus
@@ -1923,11 +1923,11 @@
   Description: FLAC (Free Lossless Audio Codec) command-line tool
   Homepage: https://xiph.org/flac/
 - Package: flatbuffers
-  Version: 25.9.23
+  Version: 25.12.19
   Description: Memory Efficient Serialization Library
   Homepage: https://github.com/google/flatbuffers
 - Package: flatbuffers-static
-  Version: 25.9.23
+  Version: 25.12.19
   Description: Static libraries for flatbuffers
   Homepage: https://github.com/google/flatbuffers
 - Package: flex
@@ -8491,7 +8491,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 4.15.1
+  Version: 4.16.0
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
@@ -10135,7 +10135,7 @@
   Description: Headers for URDF parsers
   Homepage: https://github.com/ros/urdfdom_headers
 - Package: usql
-  Version: 0.19.26
+  Version: 0.20.0
   Description: A universal command-line interface for SQL databases
   Homepage: https://github.com/xo/usql
 - Package: utf8cpp
@@ -10363,7 +10363,7 @@
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
-  Version: 1.4.336
+  Version: 1.4.337
   Description: Vulkan Tools and Utilities
   Homepage: https://github.com/KhronosGroup/Vulkan-Tools
 - Package: vulkan-utility-libraries
@@ -10371,7 +10371,7 @@
   Description: Utility Libraries for Vulkan
   Homepage: https://github.com/KhronosGroup/Vulkan-Utility-Libraries
 - Package: vulkan-validation-layers
-  Version: 1.4.336
+  Version: 1.4.337
   Description: Vulkan Validation Layers
   Homepage: https://github.com/KhronosGroup/Vulkan-ValidationLayers
 - Package: vulkan-volk
@@ -10531,7 +10531,7 @@
   Description: Modern HTTP benchmarking tool
   Homepage: https://github.com/wg/wrk
 - Package: wtfutil
-  Version: 0.47.1
+  Version: 0.48.0
   Description: The personal information dashboard for your terminal
   Homepage: https://wtfutil.com/
 - Package: wuzz
@@ -10743,7 +10743,7 @@
   Description: A small C++ library for reading and writing zip files
   Homepage: https://zipios.sourceforge.io/
 - Package: zk
-  Version: 0.15.1-1
+  Version: 0.15.2
   Description: A plain text note-taking assistant
   Homepage: https://zk-org.github.io/zk/
 - Package: zlib

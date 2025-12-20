@@ -1513,7 +1513,7 @@
   },
   {
     "Package": "cmocka",
-    "Version": "2.0.0",
+    "Version": "2.0.1",
     "Description": "cmocka is an unit testing framework for C",
     "Homepage": "https://cmocka.org/"
   },
@@ -2887,13 +2887,13 @@
   },
   {
     "Package": "flatbuffers",
-    "Version": "25.9.23",
+    "Version": "25.12.19",
     "Description": "Memory Efficient Serialization Library",
     "Homepage": "https://github.com/google/flatbuffers"
   },
   {
     "Package": "flatbuffers-static",
-    "Version": "25.9.23",
+    "Version": "25.12.19",
     "Description": "Static libraries for flatbuffers",
     "Homepage": "https://github.com/google/flatbuffers"
   },
@@ -12739,7 +12739,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "4.15.1",
+    "Version": "4.16.0",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -15205,7 +15205,7 @@
   },
   {
     "Package": "usql",
-    "Version": "0.19.26",
+    "Version": "0.20.0",
     "Description": "A universal command-line interface for SQL databases",
     "Homepage": "https://github.com/xo/usql"
   },
@@ -15547,7 +15547,7 @@
   },
   {
     "Package": "vulkan-tools",
-    "Version": "1.4.336",
+    "Version": "1.4.337",
     "Description": "Vulkan Tools and Utilities",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Tools"
   },
@@ -15559,7 +15559,7 @@
   },
   {
     "Package": "vulkan-validation-layers",
-    "Version": "1.4.336",
+    "Version": "1.4.337",
     "Description": "Vulkan Validation Layers",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-ValidationLayers"
   },
@@ -15799,7 +15799,7 @@
   },
   {
     "Package": "wtfutil",
-    "Version": "0.47.1",
+    "Version": "0.48.0",
     "Description": "The personal information dashboard for your terminal",
     "Homepage": "https://wtfutil.com/"
   },
@@ -16117,7 +16117,7 @@
   },
   {
     "Package": "zk",
-    "Version": "0.15.1-1",
+    "Version": "0.15.2",
     "Description": "A plain text note-taking assistant",
     "Homepage": "https://zk-org.github.io/zk/"
   },

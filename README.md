@@ -262,7 +262,7 @@
 | **cmark** | 0.31.1-1 | CommonMark parsing and rendering program | https://github.com/commonmark/cmark |
 | **cmark-static** | 0.31.1-1 | Static libraries for cmark | https://github.com/commonmark/cmark |
 | **cmatrix** | 2.0-1 | Command producing a Matrix-style animation | https://github.com/abishekvashok/cmatrix |
-| **cmocka** | 2.0.0 | cmocka is an unit testing framework for C | https://cmocka.org/ |
+| **cmocka** | 2.0.1 | cmocka is an unit testing framework for C | https://cmocka.org/ |
 | **cmus** | 2.12.0-7 | Small, fast and powerful console music player | https://cmus.github.io/ |
 | **cmusfm** | 0.5.0-1 | Last.fm standalone scrobbler for the cmus music player | https://github.com/Arkq/cmusfm |
 | **codecrypt** | 1.8-10 | The post-quantum cryptography tool | http://e-x-a.org/codecrypt/ |
@@ -491,8 +491,8 @@
 | **findutils** | 4.10.0-1 | Utilities to find files meeting specified criteria and perform various actions on the files which are found | https://www.gnu.org/software/findutils/ |
 | **fish** | 4.2.1 | The user-friendly command line shell | https://fishshell.com/ |
 | **flac** | 1.5.0-1 | FLAC (Free Lossless Audio Codec) command-line tool | https://xiph.org/flac/ |
-| **flatbuffers** | 25.9.23 | Memory Efficient Serialization Library | https://github.com/google/flatbuffers |
-| **flatbuffers-static** | 25.9.23 | Static libraries for flatbuffers | https://github.com/google/flatbuffers |
+| **flatbuffers** | 25.12.19 | Memory Efficient Serialization Library | https://github.com/google/flatbuffers |
+| **flatbuffers-static** | 25.12.19 | Static libraries for flatbuffers | https://github.com/google/flatbuffers |
 | **flex** | 2.6.4-4 | Fast lexical analyser generator | https://github.com/westes/flex |
 | **flex-static** | 2.6.4-4 | Static libraries for flex | https://github.com/westes/flex |
 | **fluidsynth** | 2.5.1 | Software synthesizer based on the SoundFont 2 specifications | https://github.com/FluidSynth/fluidsynth |
@@ -2133,7 +2133,7 @@
 | **rage** | 0.11.1-1 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4-1 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4-1 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
-| **railway-cli** | 4.15.1 | This is the command line interface for Railway | https://railway.app |
+| **railway-cli** | 4.16.0 | This is the command line interface for Railway | https://railway.app |
 | **range-v3** | 0.12.0 | Range library for C++14/17/20, basis for C++20's std::ranges | https://github.com/ericniebler/range-v3 |
 | **ranger** | 1.9.4 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-7 | Fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |
@@ -2544,7 +2544,7 @@
 | **upx** | 5.0.2-1 | the Ultimate Packer for eXecutables | https://upx.github.io/ |
 | **urdfdom** | 5.0.4 | Unified Robot Description Format (URDF) parser library and tools | https://github.com/ros/urdfdom |
 | **urdfdom-headers** | 2.0.1 | Headers for URDF parsers | https://github.com/ros/urdfdom_headers |
-| **usql** | 0.19.26 | A universal command-line interface for SQL databases | https://github.com/xo/usql |
+| **usql** | 0.20.0 | A universal command-line interface for SQL databases | https://github.com/xo/usql |
 | **utf8cpp** | 4.0.8 | UTF8-CPP: UTF-8 with C++ in a Portable Way | https://github.com/nemtrif/utfcpp |
 | **utf8proc** | 2.11.2 | Library for processing UTF-8 Unicode data | https://github.com/JuliaLang/utf8proc |
 | **utf8proc-static** | 2.11.2 | Static libraries for utf8proc | https://github.com/JuliaLang/utf8proc |
@@ -2601,9 +2601,9 @@
 | **vulkan-loader** | 0.0.3 | A metapackage that provides vulkan loader library | https://github.com/termux/termux-packages |
 | **vulkan-loader-android** | 29 | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
 | **vulkan-loader-generic** | 1.4.337 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
-| **vulkan-tools** | 1.4.336 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
+| **vulkan-tools** | 1.4.337 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
 | **vulkan-utility-libraries** | 1.4.337 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
-| **vulkan-validation-layers** | 1.4.336 | Vulkan Validation Layers | https://github.com/KhronosGroup/Vulkan-ValidationLayers |
+| **vulkan-validation-layers** | 1.4.337 | Vulkan Validation Layers | https://github.com/KhronosGroup/Vulkan-ValidationLayers |
 | **vulkan-volk** | 1.4.304 | Meta loader for Vulkan API | https://github.com/zeux/volk |
 | **w3m** | 0.5.5 | Text based Web browser and pager | https://w3m.sourceforge.net/ |
 | **w3m-img** | 0.5.5 | Inline image extension support utilities for w3m | https://w3m.sourceforge.net/ |
@@ -2643,7 +2643,7 @@
 | **wordgrinder** | 0.8 | A Unicode-aware character cell word processor | http://cowlark.com/wordgrinder/ |
 | **wren** | 0.4.0-2 | Small, fast, class-based concurrent scripting language interpreter | https://wren.io/ |
 | **wrk** | 4.2.0-1 | Modern HTTP benchmarking tool | https://github.com/wg/wrk |
-| **wtfutil** | 0.47.1 | The personal information dashboard for your terminal | https://wtfutil.com/ |
+| **wtfutil** | 0.48.0 | The personal information dashboard for your terminal | https://wtfutil.com/ |
 | **wuzz** | 0.5.0-5 | Interactive command line tool for HTTP inspection | https://github.com/asciimoo/wuzz |
 | **wv-tools** | 1.2.9-6 | Command-line tools for libwv | https://wvware.sourceforge.net/ |
 | **x11-repo** | 8.4-1 | Package repository containing X11 programs and libraries | https://github.com/termux/x11-packages |
@@ -2696,7 +2696,7 @@
 | **zile** | 2.6.4-2 | Lightweight clone of the Emacs text editor | https://www.gnu.org/software/zile/ |
 | **zip** | 3.0-6 | Tools for working with zip files | https://sourceforge.net/projects/infozip/ |
 | **zipios** | 2.3.2-1 | A small C++ library for reading and writing zip files | https://zipios.sourceforge.io/ |
-| **zk** | 0.15.1-1 | A plain text note-taking assistant | https://zk-org.github.io/zk/ |
+| **zk** | 0.15.2 | A plain text note-taking assistant | https://zk-org.github.io/zk/ |
 | **zlib** | 1.3.1-1 | Compression library implementing the deflate compression method found in gzip and PKZIP | https://www.zlib.net/ |
 | **zlib-static** | 1.3.1-1 | Static libraries for zlib | https://www.zlib.net/ |
 | **zls** | 0.15.1 | Zig language server | https://github.com/zigtools/zls |
