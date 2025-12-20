@@ -2247,7 +2247,7 @@
   Description: Cross-platform Git credential storage for multiple hosting providers
   Homepage: https://aka.ms/gcm
 - Package: git-crypt
-  Version: 0.7.0-3
+  Version: 0.8.0
   Description: Enables transparent encryption and decryption of files for a git repository
   Homepage: https://www.agwa.name/projects/git-crypt/
 - Package: git-delta
@@ -2855,7 +2855,7 @@
   Description: Command-line wrapper for git that makes you better at GitHub
   Homepage: https://hub.github.com/
 - Package: hugo
-  Version: 0.153.0
+  Version: 0.153.1
   Description: A fast and flexible static site generator
   Homepage: https://gohugo.io/
 - Package: hummin
@@ -10279,7 +10279,7 @@
   Description: VI Like Emacs - vi work-alike
   Homepage: https://invisible-island.net/vile/
 - Package: vim
-  Version: 9.1.1950
+  Version: 9.1.2000
   Description: Vi IMproved - enhanced vi editor
   Homepage: https://www.vim.org
 - Package: virglrenderer
@@ -10623,7 +10623,7 @@
   Description: Static libraries for xvidcore
   Homepage: https://www.xvid.com/
 - Package: xxd
-  Version: 9.1.1950
+  Version: 9.1.2000
   Description: Hexdump utility from vim
   Homepage: https://www.vim.org
 - Package: xxhash
