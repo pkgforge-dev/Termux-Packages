@@ -193,13 +193,13 @@
   },
   {
     "Package": "alsa-utils",
-    "Version": "1.2.13-2",
+    "Version": "1.2.15.1",
     "Description": "The Advanced Linux Sound Architecture (ALSA) - utils",
     "Homepage": "https://www.alsa-project.org"
   },
   {
     "Package": "alsa-utils-static",
-    "Version": "1.2.13-2",
+    "Version": "1.2.15.1",
     "Description": "Static libraries for alsa-utils",
     "Homepage": "https://www.alsa-project.org"
   },
@@ -10423,7 +10423,7 @@
   },
   {
     "Package": "mu",
-    "Version": "1.12.13",
+    "Version": "1.12.14",
     "Description": "Maildir indexer/searcher and Emacs client (mu4e)",
     "Homepage": "https://www.djcbsoftware.nl/code/mu/"
   },
