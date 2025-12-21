@@ -611,7 +611,7 @@
 | **gnuit** | 4.9.5-1 | gnuit - GNU Interactive Tools | https://www.gnu.org/software/gnuit/ |
 | **gnunet** | 0.26.1 | A framework for secure peer-to-peer networking | https://gnunet.org |
 | **gnupg** | 2.5.11 | Implementation of the OpenPGP standard for encrypting and signing data and communication | https://www.gnupg.org/ |
-| **gnuplot** | 6.0.3-1 | Command-line driven graphing utility | http://gnuplot.info/ |
+| **gnuplot** | 6.0.4 | Command-line driven graphing utility | http://gnuplot.info/ |
 | **gnurl** | 7.72.0-1 | Fork of libcurl, which is mostly for GNUnet | https://gnunet.org/en/gnurl.html |
 | **gnurl-static** | 7.72.0-1 | Static libraries for gnurl | https://gnunet.org/en/gnurl.html |
 | **gnushogi** | 1.4.2-p20141119-1 | Program that plays the game of Shogi, also known as Japanese Chess | https://www.gnu.org/software/gnushogi/ |
@@ -684,7 +684,7 @@
 | **gumbo-parser** | 0.10.1-1 | An HTML5 parsing library | https://github.com/google/gumbo-parser |
 | **gumbo-parser-static** | 0.10.1-1 | Static libraries for gumbo-parser | https://github.com/google/gumbo-parser |
 | **gzip** | 1.14-1 | Standard GNU file compression utilities | https://www.gnu.org/software/gzip/ |
-| **haproxy** | 3.3.0 | The Reliable, High Performance TCP/HTTP Load Balancer | https://www.haproxy.org/ |
+| **haproxy** | 3.3.1 | The Reliable, High Performance TCP/HTTP Load Balancer | https://www.haproxy.org/ |
 | **harfbuzz** | 12.2.0-2 | OpenType text shaping engine | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
 | **harfbuzz-icu** | 12.2.0-2 | OpenType text shaping engine ICU backend | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
 | **harfbuzz-utils** | 12.2.0-2 | Tools using the harfbuzz library | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
@@ -2660,7 +2660,7 @@
 | **xmlto** | 0.0.29-2 | Convert xml to many other formats | https://pagure.io/xmlto/ |
 | **xmppc** | 0.1.2-3 | Command Line Interface Tool for XMPP | https://codeberg.org/Anoxinon_e.V./xmppc |
 | **xorg-util-macros** | 1.20.2 | X.Org Autotools macros | https://xorg.freedesktop.org/ |
-| **xorgproto** | 2024.1 | X.Org X11 Protocol headers | https://xorg.freedesktop.org/ |
+| **xorgproto** | 2025.1 | X.Org X11 Protocol headers | https://xorg.freedesktop.org/ |
 | **xorriso** | 1:1.5.7-3 | Tool for creating ISO files | https://www.gnu.org/software/xorriso |
 | **xsltproc** | 1.1.45 | XSLT command line processor | http://xmlsoft.org/libxslt/ |
 | **xtrans** | 1.6.0 | X transport library | https://xorg.freedesktop.org/ |
