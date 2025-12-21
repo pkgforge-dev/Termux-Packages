@@ -4363,7 +4363,7 @@
   Description: Static libraries for libimagequant
   Homepage: https://pngquant.org/lib/
 - Package: libimobiledevice
-  Version: 1.3.0-p20250228-2
+  Version: 1.3.0-p20250228-3
   Description: A library to communicate with services on iOS devices using native protocols
   Homepage: https://libimobiledevice.org/
 - Package: libimobiledevice-glue
@@ -4375,7 +4375,7 @@
   Description: Static libraries for libimobiledevice-glue
   Homepage: https://libimobiledevice.org/
 - Package: libimobiledevice-static
-  Version: 1.3.0-p20250228-2
+  Version: 1.3.0-p20250228-3
   Description: Static libraries for libimobiledevice
   Homepage: https://libimobiledevice.org/
 - Package: libimtui
@@ -5815,11 +5815,11 @@
   Description: Static libraries for libusb
   Homepage: https://libusb.info/
 - Package: libusbmuxd
-  Version: 2.1.1-1
+  Version: 2.1.1-2
   Description: A client library for applications to handle usbmux protocol connections with iOS devices
   Homepage: https://libimobiledevice.org
 - Package: libusbmuxd-static
-  Version: 2.1.1-1
+  Version: 2.1.1-2
   Description: Static libraries for libusbmuxd
   Homepage: https://libimobiledevice.org
 - Package: libusbredir
@@ -10134,6 +10134,10 @@
   Version: 2.0.1
   Description: Headers for URDF parsers
   Homepage: https://github.com/ros/urdfdom_headers
+- Package: usbmuxd
+  Version: 1.1.1-p20250201-2
+  Description: A socket daemon to multiplex connections from and to iOS devices
+  Homepage: https://libimobiledevice.org
 - Package: usql
   Version: 0.20.0
   Description: A universal command-line interface for SQL databases

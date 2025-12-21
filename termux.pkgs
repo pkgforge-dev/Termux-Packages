@@ -1089,10 +1089,10 @@
 | **libidn2-static** | 2.3.8-1 | Static libraries for libidn2 | https://www.gnu.org/software/libidn/#libidn2 |
 | **libimagequant** | 4.4.1 | Small, portable C library for high-quality conversion of RGBA images to 8-bit indexed-color (palette) images | https://pngquant.org/lib/ |
 | **libimagequant-static** | 4.4.1 | Static libraries for libimagequant | https://pngquant.org/lib/ |
-| **libimobiledevice** | 1.3.0-p20250228-2 | A library to communicate with services on iOS devices using native protocols | https://libimobiledevice.org/ |
+| **libimobiledevice** | 1.3.0-p20250228-3 | A library to communicate with services on iOS devices using native protocols | https://libimobiledevice.org/ |
 | **libimobiledevice-glue** | 1.3.2-1 | Library with common code used by the libraries and tools around the libimobiledevice project | https://libimobiledevice.org/ |
 | **libimobiledevice-glue-static** | 1.3.2-1 | Static libraries for libimobiledevice-glue | https://libimobiledevice.org/ |
-| **libimobiledevice-static** | 1.3.0-p20250228-2 | Static libraries for libimobiledevice | https://libimobiledevice.org/ |
+| **libimobiledevice-static** | 1.3.0-p20250228-3 | Static libraries for libimobiledevice | https://libimobiledevice.org/ |
 | **libimtui** | 1.0.5-2 | An immediate mode text-based user interface library | https://github.com/ggerganov/imtui |
 | **libinih** | 62 | A simple .INI file parser written in C | https://github.com/benhoyt/inih |
 | **libiniparser** | 4.2.6-2 | Offers parsing of ini files from the C level | https://github.com/ndevilla/iniparser |
@@ -1452,8 +1452,8 @@
 | **liburcu-static** | 0.15.5 | Static libraries for liburcu | https://liburcu.org/ |
 | **libusb** | 1.0.29-1 | A C library that provides generic access to USB devices | https://libusb.info/ |
 | **libusb-static** | 1.0.29-1 | Static libraries for libusb | https://libusb.info/ |
-| **libusbmuxd** | 2.1.1-1 | A client library for applications to handle usbmux protocol connections with iOS devices | https://libimobiledevice.org |
-| **libusbmuxd-static** | 2.1.1-1 | Static libraries for libusbmuxd | https://libimobiledevice.org |
+| **libusbmuxd** | 2.1.1-2 | A client library for applications to handle usbmux protocol connections with iOS devices | https://libimobiledevice.org |
+| **libusbmuxd-static** | 2.1.1-2 | Static libraries for libusbmuxd | https://libimobiledevice.org |
 | **libusbredir** | 0.13.0-1 | network protocol for sending USB device traffic over a network connection | https://www.spice-space.org/ |
 | **libuuid** | 2.41.2 | Library for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
 | **libuv** | 1.51.0-1 | Support library with a focus on asynchronous I/O | https://libuv.org |
@@ -2532,6 +2532,7 @@
 | **upx** | 5.0.2-1 | the Ultimate Packer for eXecutables | https://upx.github.io/ |
 | **urdfdom** | 5.0.4 | Unified Robot Description Format (URDF) parser library and tools | https://github.com/ros/urdfdom |
 | **urdfdom-headers** | 2.0.1 | Headers for URDF parsers | https://github.com/ros/urdfdom_headers |
+| **usbmuxd** | 1.1.1-p20250201-2 | A socket daemon to multiplex connections from and to iOS devices | https://libimobiledevice.org |
 | **usql** | 0.20.0 | A universal command-line interface for SQL databases | https://github.com/xo/usql |
 | **utf8cpp** | 4.0.8 | UTF8-CPP: UTF-8 with C++ in a Portable Way | https://github.com/nemtrif/utfcpp |
 | **utf8proc** | 2.11.2 | Library for processing UTF-8 Unicode data | https://github.com/JuliaLang/utf8proc |
