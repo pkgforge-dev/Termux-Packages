@@ -4547,7 +4547,7 @@
   Description: Static libraries for liblog4c
   Homepage: https://log4c.sourceforge.net/
 - Package: liblog4cxx
-  Version: 1.0.0-2
+  Version: 1.6.0
   Description: A logging framework for C++ patterned after Apache log4j
   Homepage: https://logging.apache.org/log4cxx/latest_stable/index.html
 - Package: liblqr
@@ -6659,7 +6659,7 @@
   Description: Command-line based markdown presentation tool
   Homepage: https://github.com/visit1985/mdp
 - Package: media-types
-  Version: 13.0.0
+  Version: 14.0.0
   Description: List of standard media types and their usual file extension
   Homepage: https://pagure.io/mailcap
 - Package: mediainfo
