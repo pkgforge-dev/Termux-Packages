@@ -816,12 +816,6 @@
     "Homepage": "https://www.gnu.org/software/binutils/"
   },
   {
-    "Package": "binutils-gold",
-    "Version": "2.44-4",
-    "Description": "gold linker",
-    "Homepage": "https://www.gnu.org/software/binutils/"
-  },
-  {
     "Package": "binutils-is-llvm",
     "Version": "0.3-3",
     "Description": "Use llvm as binutils",
@@ -3427,7 +3421,7 @@
   },
   {
     "Package": "gitea",
-    "Version": "1.25.2",
+    "Version": "1.25.3-1",
     "Description": "Git with a cup of tea, painless self-hosted git service",
     "Homepage": "https://gitea.io"
   },
@@ -3553,7 +3547,7 @@
   },
   {
     "Package": "gn",
-    "Version": "20250605-1",
+    "Version": "20251217",
     "Description": "Meta-build system that generates build files for Ninja",
     "Homepage": "https://gn.googlesource.com/gn"
   },
@@ -5619,12 +5613,6 @@
     "Package": "libcoap",
     "Version": "4.3.5-rc3-1",
     "Description": "Implementation of CoAP, a lightweight protocol for resource constrained devices",
-    "Homepage": "https://libcoap.net/"
-  },
-  {
-    "Package": "libcoap-static",
-    "Version": "4.3.5-rc3-1",
-    "Description": "Static libraries for libcoap",
     "Homepage": "https://libcoap.net/"
   },
   {
@@ -9456,12 +9444,6 @@
     "Homepage": "https://clang.llvm.org/"
   },
   {
-    "Package": "llvmgold",
-    "Version": "21.1.6",
-    "Description": "LLVM gold plugin",
-    "Homepage": "https://clang.llvm.org/"
-  },
-  {
     "Package": "lnav",
     "Version": "0.13.2",
     "Description": "An advanced log file viewer for the small-scale",
@@ -12102,18 +12084,6 @@
     "Homepage": "https://github.com/protocolbuffers/protobuf"
   },
   {
-    "Package": "protobuf-dev",
-    "Version": "2:33.1",
-    "Description": "CMake files for protobuf shared libraries",
-    "Homepage": "https://github.com/protocolbuffers/protobuf"
-  },
-  {
-    "Package": "protobuf-static",
-    "Version": "33.1",
-    "Description": "Protocol buffers C++ library (static)",
-    "Homepage": "https://github.com/protocolbuffers/protobuf"
-  },
-  {
     "Package": "prover9",
     "Version": "2009-11A-2",
     "Description": "An automated theorem prover for first-order and equational logic",
@@ -12663,12 +12633,6 @@
     "Package": "qpdf",
     "Version": "12.2.0-2",
     "Description": "Content-Preserving PDF Transformation System",
-    "Homepage": "http://qpdf.sourceforge.net"
-  },
-  {
-    "Package": "qpdf-static",
-    "Version": "12.2.0-1",
-    "Description": "Static libraries for qpdf",
     "Homepage": "http://qpdf.sourceforge.net"
   },
   {
