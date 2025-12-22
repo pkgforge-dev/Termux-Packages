@@ -1587,7 +1587,7 @@
  lsof  4.99.5-2  Lists open files for running Unix processes  https://github.com/lsof-org/lsof 
  lsof-static  4.99.5-2  Static libraries for lsof  https://github.com/lsof-org/lsof 
  ltrace  1:0.8.1  Tracks runtime library calls in dynamically linked programs  http://www.ltrace.org/ 
- lua-language-server  3.15.0-2  Sumneko Lua Language Server coded in Lua  https://github.com/sumneko/lua-language-server 
+ lua-language-server  3.16.1  Sumneko Lua Language Server coded in Lua  https://github.com/sumneko/lua-language-server 
  lua-lgi  0.9.2-2  Dynamic Lua binding to GObject libraries using GObject-Introspection  https://github.com/lgi-devs/lgi 
  lua-lpeg  1.1.0-3  Pattern-matching library for Lua 5.4  https://www.inf.puc-rio.br/~roberto/lpeg 
  lua51  5.1.5-5  Simple, extensible, embeddable programming language  https://www.lua.org 
@@ -1944,21 +1944,21 @@
  pforth  1:2.0.1-1  Portable Forth in C  https://www.softsynth.com/pforth/ 
  pgroonga  4.0.5  A PostgreSQL extension to use Groonga as index  https://github.com/pgroonga/pgroonga 
  photon-rss  2023.02.02-3  An RSS/Atom reader with the focus on speed, usability and a bit of unix philosophy  https://git.sr.ht/~ghost08/photon 
- php  8.4.2-4  Server-side, HTML-embedded scripting language  https://php.net 
- php-apache  8.4.2-4  Apache 2.0 Handler module for PHP  https://php.net 
- php-apache-ldap  8.4.2-4  LDAP module for PHP/Apache  https://php.net 
+ php  8.5.1  Server-side, HTML-embedded scripting language  https://php.net 
+ php-apache  8.5.1  Apache 2.0 Handler module for PHP  https://php.net 
+ php-apache-ldap  8.5.1  LDAP module for PHP/Apache  https://php.net 
  php-apache-opcache  8.4.2-4  OPcache module for PHP/Apache  https://php.net 
- php-apache-pgsql  8.4.2-4  PostgreSQL modules for PHP/Apache  https://php.net 
- php-apache-sodium  8.4.2-4  Sodium module for PHP/Apache  https://php.net 
+ php-apache-pgsql  8.5.1  PostgreSQL modules for PHP/Apache  https://php.net 
+ php-apache-sodium  8.5.1  Sodium module for PHP/Apache  https://php.net 
  php-apcu  5.1.28  APCu - APC User Cache  http://php.net/apcu 
- php-fpm  8.4.2-4  FastCGI Process Manager for PHP  https://php.net 
- php-gd  8.4.2-4  gd module for PHP  https://php.net 
+ php-fpm  8.5.1  FastCGI Process Manager for PHP  https://php.net 
+ php-gd  8.5.1  gd module for PHP  https://php.net 
  php-imagick  3.8.1  The Imagick PHP extension  https://github.com/Imagick/imagick 
- php-ldap  8.4.2-4  LDAP module for PHP  https://php.net 
- php-pgsql  8.4.2-4  PostgreSQL modules for PHP  https://php.net 
+ php-ldap  8.5.1  LDAP module for PHP  https://php.net 
+ php-pgsql  8.5.1  PostgreSQL modules for PHP  https://php.net 
  php-psr  1.2.0-4  PHP extension providing the accepted PSR interfaces  https://github.com/jbboehr/php-psr 
  php-redis  6.3.0RC1  PHP extension for interfacing with Redis  https://github.com/phpredis/phpredis 
- php-sodium  8.4.2-4  Sodium module for PHP  https://php.net 
+ php-sodium  8.5.1  Sodium module for PHP  https://php.net 
  php-zephir-parser  1.8.0  The Zephir Parser delivered as a C extension for the PHP language  https://github.com/phalcon/php-zephir-parser 
  phpmyadmin  5.2.3-1  A PHP tool for administering MySQL and MariaDB databases  https://www.phpmyadmin.net 
  pianobar  2024.12.21-2  pianobar is a free/open-source, console-based client for the personalized online radio Pandora.  https://6xq.net/pianobar/ 
