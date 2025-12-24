@@ -12216,6 +12216,12 @@
     "Homepage": "https://pypy.org"
   },
   {
+    "Package": "pyrefly",
+    "Version": "0.36.0",
+    "Description": "A fast type checker and language server for Python",
+    "Homepage": "https://github.com/facebook/pyrefly.git"
+  },
+  {
     "Package": "pystring",
     "Version": "1.1.4-1",
     "Description": "C++ functions matching the interface and behavior of python string methods with std::string",
