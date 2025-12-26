@@ -3742,6 +3742,10 @@
   Version: 4.3.5-rc3-1
   Description: Implementation of CoAP, a lightweight protocol for resource constrained devices
   Homepage: https://libcoap.net/
+- Package: libcoap-static
+  Version: 4.3.5a
+  Description: Static libraries for libcoap
+  Homepage: https://libcoap.net/
 - Package: libcoinor-cgl
   Version: 0.60.8-1
   Description: An open-source cut generation library for COIN-OR projects

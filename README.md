@@ -946,6 +946,7 @@
 | **libcloog** | 0.21.1-1 | Library that generates loops for scanning polyhedra | http://www.bastoul.net/cloog/index.php |
 | **libcloog-static** | 0.21.1-1 | Static libraries for libcloog | http://www.bastoul.net/cloog/index.php |
 | **libcoap** | 4.3.5-rc3-1 | Implementation of CoAP, a lightweight protocol for resource constrained devices | https://libcoap.net/ |
+| **libcoap-static** | 4.3.5a | Static libraries for libcoap | https://libcoap.net/ |
 | **libcoinor-cgl** | 0.60.8-1 | An open-source cut generation library for COIN-OR projects | https://github.com/coin-or/Cgl |
 | **libcoinor-cgl-static** | 0.60.8-1 | Static libraries for libcoinor-cgl | https://github.com/coin-or/Cgl |
 | **libcoinor-osi** | 1:0.108.8-1 | An abstract base class to a generic linear programming (LP) solver | https://github.com/coin-or/Osi |
