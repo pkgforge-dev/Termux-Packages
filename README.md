@@ -945,7 +945,7 @@
 | **libcln-static** | 1.3.7-1 | Static libraries for libcln | https://www.ginac.de/CLN/ |
 | **libcloog** | 0.21.1-1 | Library that generates loops for scanning polyhedra | http://www.bastoul.net/cloog/index.php |
 | **libcloog-static** | 0.21.1-1 | Static libraries for libcloog | http://www.bastoul.net/cloog/index.php |
-| **libcoap** | 4.3.5-rc3-1 | Implementation of CoAP, a lightweight protocol for resource constrained devices | https://libcoap.net/ |
+| **libcoap** | 4.3.5a | Implementation of CoAP, a lightweight protocol for resource constrained devices | https://libcoap.net/ |
 | **libcoap-static** | 4.3.5a | Static libraries for libcoap | https://libcoap.net/ |
 | **libcoinor-cgl** | 0.60.8-1 | An open-source cut generation library for COIN-OR projects | https://github.com/coin-or/Cgl |
 | **libcoinor-cgl-static** | 0.60.8-1 | Static libraries for libcoinor-cgl | https://github.com/coin-or/Cgl |
@@ -2023,7 +2023,7 @@
 | **progress** | 0.17-1 | Linux tool to show progress for cp, mv, dd and more | https://github.com/Xfennec/progress |
 | **proj** | 9.7.1 | Generic coordinate transformation software | https://proj.org |
 | **proot** | 5.1.107-68 | Emulate chroot, bind mount and binfmt_misc for non-root users | https://proot-me.github.io/ |
-| **proot-distro** | 4.35.0 | Termux official utility for managing proot'ed Linux distributions | https://github.com/termux/proot-distro |
+| **proot-distro** | 4.36.0 | Termux official utility for managing proot'ed Linux distributions | https://github.com/termux/proot-distro |
 | **protobuf** | 2:33.1-1 | Compiler for protocol buffer definition files | https://github.com/protocolbuffers/protobuf |
 | **prover9** | 2009-11A-2 | An automated theorem prover for first-order and equational logic | https://www.cs.unm.edu/~mccune/prover9/ |
 | **proxychains-ng** | 4.17-1 | A hook preloader that allows to redirect TCP traffic of existing dynamically linked programs through one or more SOCKS or HTTP proxies | https://github.com/rofl0r/proxychains-ng |
