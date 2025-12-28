@@ -1051,7 +1051,7 @@
   Description: Tool to colorize diff output
   Homepage: https://www.colordiff.org/
 - Package: command-not-found
-  Version: 3.2-9
+  Version: 3.2-10
   Description: Suggest installation of packages in interactive shell sessions
   Homepage: https://github.com/termux/command-not-found
 - Package: composer
@@ -2851,7 +2851,7 @@
   Description: Command-line wrapper for git that makes you better at GitHub
   Homepage: https://hub.github.com/
 - Package: hugo
-  Version: 0.153.1
+  Version: 0.153.3
   Description: A fast and flexible static site generator
   Homepage: https://gohugo.io/
 - Package: hummin
@@ -3075,7 +3075,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.24.488
+  Version: 0.24.569
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -3331,11 +3331,11 @@
   Description: Powerful, double-entry accounting system
   Homepage: https://www.ledger-cli.org
 - Package: leptonica
-  Version: 1.86.0
+  Version: 1.87.0
   Description: Library for image processing and image analysis
   Homepage: http://www.leptonica.com/
 - Package: leptonica-static
-  Version: 1.86.0
+  Version: 1.87.0
   Description: Static libraries for leptonica
   Homepage: http://www.leptonica.com/
 - Package: less
@@ -5247,11 +5247,11 @@
   Description: Static libraries for librav1e
   Homepage: https://github.com/xiph/rav1e/
 - Package: libraw
-  Version: 0.21.4-1
+  Version: 0.21.5
   Description: Library for reading RAW files from digital cameras
   Homepage: https://www.libraw.org/
 - Package: libraw-static
-  Version: 0.21.4-1
+  Version: 0.21.5
   Description: Static libraries for libraw
   Homepage: https://www.libraw.org/
 - Package: libre2
@@ -6423,7 +6423,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.22.2
+  Version: 0.22.3
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://nvim-neorocks.github.io/
 - Package: lv2
@@ -6567,7 +6567,7 @@
   Description: Midnight Commander - a powerful file manager
   Homepage: https://midnight-commander.org
 - Package: mcfly
-  Version: 0.9.3-1
+  Version: 0.9.4
   Description: Replaces your default ctrl-r shell history search with an intelligent search engine
   Homepage: https://github.com/cantino/mcfly
 - Package: mdbook
@@ -7335,7 +7335,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 28.4.0
+  Version: 28.6.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -7351,11 +7351,11 @@
   Description: The GNU Spreadsheet
   Homepage: https://www.gnu.org/software/oleo/
 - Package: oma
-  Version: 1.23.0
+  Version: 1.23.1
   Description: oma is an attempt at reworking APTs interface
   Homepage: https://aosc.io/oma
 - Package: onefetch
-  Version: 2.25.0-1
+  Version: 2.26.1
   Description: A command-line Git information tool written in Rust
   Homepage: https://onefetch.dev/
 - Package: onigmo
@@ -7583,15 +7583,15 @@
   Description: Open Virtual Machine Firmware
   Homepage: https://www.tianocore.org/
 - Package: oxc-language-server
-  Version: 1.34.0
+  Version: 1.35.0
   Description: Oxc JavaScript linter language server
   Homepage: https://oxc.rs/
 - Package: oxfmt
-  Version: 1.34.0
+  Version: 1.35.0
   Description: Oxc JavaScript formatter
   Homepage: https://oxc.rs/
 - Package: oxlint
-  Version: 1.34.0
+  Version: 1.35.0
   Description: Oxc JavaScript linter
   Homepage: https://oxc.rs/
 - Package: p11-kit
@@ -7611,15 +7611,15 @@
   Description: A 9 level ncurses pacman game with editor
   Homepage: https://sites.google.com/site/doctormike/pacman.html
 - Package: panda3d
-  Version: 1.10.15-1
+  Version: 1.10.16
   Description: A framework for 3D rendering and game development for Python and C++ programs
   Homepage: https://www.panda3d.org/
 - Package: panda3d-samples
-  Version: 1.10.15-1
+  Version: 1.10.16
   Description: Python sample programs that use Panda3D
   Homepage: https://www.panda3d.org/
 - Package: panda3d-static
-  Version: 1.10.15-1
+  Version: 1.10.16
   Description: Static libraries for panda3d
   Homepage: https://www.panda3d.org/
 - Package: pango
@@ -7635,7 +7635,7 @@
   Description: par2cmdline is a PAR 2.0 compatible file verification and repair tool
   Homepage: https://github.com/Parchive/par2cmdline
 - Package: parallel
-  Version: "20251122"
+  Version: "20251222"
   Description: GNU Parallel is a shell tool for executing jobs in parallel using one or more machines
   Homepage: https://www.gnu.org/software/parallel/
 - Package: pari
@@ -8147,7 +8147,7 @@
   Description: Tkinter support for PyPy 3
   Homepage: https://pypy.org
 - Package: pyrefly
-  Version: 0.36.0
+  Version: 0.46.0
   Description: A fast type checker and language server for Python
   Homepage: https://github.com/facebook/pyrefly.git
 - Package: pystring
@@ -8255,7 +8255,7 @@
   Description: An extremely fast Python linter, written in Rust (Python bindings)
   Homepage: https://github.com/charliermarsh/ruff
 - Package: python-sabyenc3
-  Version: 9.1.0-1
+  Version: 9.2.0
   Description: C implementations of functions for use within SABnzbd
   Homepage: https://github.com/sabnzbd/sabctools
 - Package: python-skia-pathops
@@ -8567,11 +8567,11 @@
   Description: Static libraries for recode
   Homepage: https://github.com/pinard/Recode
 - Package: recoll
-  Version: 1.43.7
+  Version: 1.43.8
   Description: Full-text search for your desktop
   Homepage: https://www.recoll.org/
 - Package: recoll-python
-  Version: 1.43.7
+  Version: 1.43.8
   Description: Python interface for Recoll
   Homepage: https://www.recoll.org/
 - Package: recutils
@@ -8639,7 +8639,7 @@
   Description: A user-mode TCP port redirection server
   Homepage: https://github.com/samhocevar/rinetd
 - Package: rip2
-  Version: 0.9.5
+  Version: 0.9.6
   Description: A safe and ergonomic alternative to rm
   Homepage: https://github.com/MilesCranmer/rip2
 - Package: ripgrep
@@ -8779,7 +8779,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: "20251215"
+  Version: "20251222"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://rust-analyzer.github.io/
 - Package: rust-bindgen
@@ -8927,7 +8927,7 @@
   Description: Static libraries for seafile-client
   Homepage: https://seafile.com
 - Package: seanime
-  Version: 3.2.2
+  Version: 3.2.4
   Description: Self-hosted anime and manga server for sea rovers.
   Homepage: https://github.com/5rahim/seanime
 - Package: seccure
@@ -9055,7 +9055,7 @@
   Description: A simple heat transfer simulator in pure Rust
   Homepage: https://github.com/file-acomplaint/simuwaerm
 - Package: sing-box
-  Version: 1.12.13
+  Version: 1.12.14
   Description: The universal proxy platform
   Homepage: https://sing-box.sagernet.org
 - Package: skate
@@ -9271,7 +9271,7 @@
   Description: Static libraries for ssdeep
   Homepage: https://ssdeep-project.github.io/ssdeep/
 - Package: sse2neon
-  Version: 1.8.0
+  Version: 1.9.0
   Description: A C/C++ header file that converts Intel SSE intrinsics to Arm/Aarch64 NEON intrinsics
   Homepage: https://github.com/DLTcollab/sse2neon
 - Package: sshpass
@@ -9563,7 +9563,7 @@
   Description: Telegram messenger CLI
   Homepage: https://github.com/vysheng/tg
 - Package: teleport-tsh
-  Version: 18.5.1
+  Version: 18.6.1
   Description: Secure Access for Developers that doesnt get in the way
   Homepage: https://github.com/gravitational/teleport
 - Package: tenki-php
@@ -9671,7 +9671,7 @@
   Description: Tool for analyzing control characters and terminal control sequences
   Homepage: https://www.gnu.org/software/teseq/
 - Package: tesseract
-  Version: 5.5.1-2
+  Version: 5.5.2
   Description: Tesseract is probably the most accurate open source OCR engine available
   Homepage: https://github.com/tesseract-ocr/tesseract
 - Package: testssl.sh
@@ -10115,7 +10115,7 @@
   Description: Unified Robot Description Format (URDF) parser library and tools
   Homepage: https://github.com/ros/urdfdom
 - Package: urdfdom-headers
-  Version: 2.0.1
+  Version: 2.0.2
   Description: Headers for URDF parsers
   Homepage: https://github.com/ros/urdfdom_headers
 - Package: usbmuxd
@@ -10315,7 +10315,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2025.12.19
+  Version: 2025.12.26
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vttest
