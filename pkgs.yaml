@@ -691,7 +691,7 @@
   Description: Utilities for Btrfs filesystem
   Homepage: https://btrfs.readthedocs.io/en/latest/
 - Package: buf
-  Version: 1.61.0
+  Version: 1.62.0
   Description: A new way of working with Protocol Buffers
   Homepage: https://buf.build
 - Package: build-essential
@@ -4099,11 +4099,11 @@
   Description: A simple C++ library for terminal based user interface
   Homepage: https://github.com/ArthurSonzogni/FTXUI
 - Package: libfyaml
-  Version: 0.9.1
+  Version: 0.9.2
   Description: Fully feature complete YAML parser and emitter
   Homepage: https://pantoniou.github.io/libfyaml/
 - Package: libfyaml-static
-  Version: 0.9.1
+  Version: 0.9.2
   Description: Static libraries for libfyaml
   Homepage: https://pantoniou.github.io/libfyaml/
 - Package: libgc
@@ -6419,7 +6419,7 @@
   Description: Just-In-Time compiler for Lua - command line tool
   Homepage: https://luajit.org/
 - Package: luarocks
-  Version: 3.12.2-3
+  Version: 3.13.0
   Description: Deployment and management system for Lua modules
   Homepage: https://luarocks.org/
 - Package: luv

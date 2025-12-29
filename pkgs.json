@@ -1039,7 +1039,7 @@
   },
   {
     "Package": "buf",
-    "Version": "1.61.0",
+    "Version": "1.62.0",
     "Description": "A new way of working with Protocol Buffers",
     "Homepage": "https://buf.build"
   },
@@ -6151,13 +6151,13 @@
   },
   {
     "Package": "libfyaml",
-    "Version": "0.9.1",
+    "Version": "0.9.2",
     "Description": "Fully feature complete YAML parser and emitter",
     "Homepage": "https://pantoniou.github.io/libfyaml/"
   },
   {
     "Package": "libfyaml-static",
-    "Version": "0.9.1",
+    "Version": "0.9.2",
     "Description": "Static libraries for libfyaml",
     "Homepage": "https://pantoniou.github.io/libfyaml/"
   },
@@ -9631,7 +9631,7 @@
   },
   {
     "Package": "luarocks",
-    "Version": "3.12.2-3",
+    "Version": "3.13.0",
     "Description": "Deployment and management system for Lua modules",
     "Homepage": "https://luarocks.org/"
   },
