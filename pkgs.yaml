@@ -3114,6 +3114,14 @@
   Version: 0.5.1-1
   Description: Static libraries for jcal
   Homepage: http://nongnu.org/jcal
+- Package: jellyfin-ffmpeg
+  Version: 10.11.5
+  Description: FFmpeg for Jellyfin with custom extensions and enhancements
+  Homepage: https://jellyfin.org
+- Package: jellyfin-server
+  Version: 10.11.5
+  Description: A free media system for organizing and streaming media (server)
+  Homepage: https://jellyfin.org
 - Package: jfrog-cli
   Version: 2.87.0
   Description: A CLI for JFrog products
@@ -3994,6 +4002,10 @@
   Version: 1.5.10-3
   Description: Library handling OpenGL function pointer management
   Homepage: https://github.com/anholt/libepoxy
+- Package: libesqlite3
+  Version: 3.49.1.20250307
+  Description: SQLitePCLRaw is a Portable Class Library for low-level access to SQLite (native library)
+  Homepage: https://github.com/ericsink/SQLitePCL.raw
 - Package: libev
   Version: 4.33-2
   Description: Full-featured and high-performance event loop library
@@ -5406,6 +5418,10 @@
   Version: 1.10.5-1
   Description: Encoder/decoder implementation for DEC SIXEL graphics
   Homepage: https://saitoha.github.io/libsixel/
+- Package: libskiasharp
+  Version: 3.116.1.20241024
+  Description: SkiaSharp is a cross-platform 2D graphics API for .NET platforms
+  Homepage: https://github.com/mono/SkiaSharp
 - Package: libslirp
   Version: 4.8.0-2
   Description: A general purpose TCP-IP emulator
@@ -6103,11 +6119,11 @@
   Description: Library to help create and query binary XML blobs
   Homepage: https://github.com/hughsie/libxmlb
 - Package: libxmlrpc
-  Version: 1.60.05-1
+  Version: 1.64.03
   Description: XML-RPC for C and C++
   Homepage: https://xmlrpc-c.sourceforge.io/
 - Package: libxmlrpc-static
-  Version: 1.60.05-1
+  Version: 1.64.03
   Description: Static libraries for libxmlrpc
   Homepage: https://xmlrpc-c.sourceforge.io/
 - Package: libxrandr
