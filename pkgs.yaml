@@ -2851,7 +2851,7 @@
   Description: Command-line wrapper for git that makes you better at GitHub
   Homepage: https://hub.github.com/
 - Package: hugo
-  Version: 0.153.3
+  Version: 0.153.4
   Description: A fast and flexible static site generator
   Homepage: https://gohugo.io/
 - Package: hummin
@@ -4087,11 +4087,11 @@
   Description: A simple C++ library for terminal based user interface
   Homepage: https://github.com/ArthurSonzogni/FTXUI
 - Package: libfyaml
-  Version: "0.9"
+  Version: 0.9.1
   Description: Fully feature complete YAML parser and emitter
   Homepage: https://pantoniou.github.io/libfyaml/
 - Package: libfyaml-static
-  Version: "0.9"
+  Version: 0.9.1
   Description: Static libraries for libfyaml
   Homepage: https://pantoniou.github.io/libfyaml/
 - Package: libgc
@@ -9687,7 +9687,7 @@
   Description: Documentation system for on-line information and printed output
   Homepage: https://www.gnu.org/software/texinfo/
 - Package: texlab
-  Version: 5.24.0
+  Version: 5.25.0
   Description: A cross-platform implementation of the Language Server Protocol providing rich cross-editing support for the LaTeX typesetting system
   Homepage: https://texlab.netlify.app/
 - Package: texlive-bin
@@ -10127,7 +10127,7 @@
   Description: A universal command-line interface for SQL databases
   Homepage: https://github.com/xo/usql
 - Package: utf8cpp
-  Version: 4.0.8
+  Version: "4.09"
   Description: 'UTF8-CPP: UTF-8 with C++ in a Portable Way'
   Homepage: https://github.com/nemtrif/utfcpp
 - Package: utf8proc

@@ -711,7 +711,7 @@
  httrack-data  3.49.6-1  Platform-independent data for httrack  http://www.httrack.com 
  httrack-static  3.49.6-1  Static libraries for httrack  http://www.httrack.com 
  hub  2.14.2-6  Command-line wrapper for git that makes you better at GitHub  https://hub.github.com/ 
- hugo  0.153.3  A fast and flexible static site generator  https://gohugo.io/ 
+ hugo  0.153.4  A fast and flexible static site generator  https://gohugo.io/ 
  hummin  2021.05.18-4  Command line client for the imperial library of trantor  https://trantor.is/ 
  hunspell  1.7.2-1  Spell checker  https://hunspell.github.io 
  hunspell-en-us  20240129  American english dictionary for hunspell  https://hunspell.github.io 
@@ -1020,8 +1020,8 @@
  libfreexl  2.0.0-1  Library to extract valid data from within an Excel (.xls) spreadsheet  https://www.gaia-gis.it/fossil/freexl 
  libfreexl-static  2.0.0-1  Static libraries for libfreexl  https://www.gaia-gis.it/fossil/freexl 
  libftxui  6.1.9-1  A simple C++ library for terminal based user interface  https://github.com/ArthurSonzogni/FTXUI 
- libfyaml  0.9  Fully feature complete YAML parser and emitter  https://pantoniou.github.io/libfyaml/ 
- libfyaml-static  0.9  Static libraries for libfyaml  https://pantoniou.github.io/libfyaml/ 
+ libfyaml  0.9.1  Fully feature complete YAML parser and emitter  https://pantoniou.github.io/libfyaml/ 
+ libfyaml-static  0.9.1  Static libraries for libfyaml  https://pantoniou.github.io/libfyaml/ 
  libgc  8.2.10  Library providing the Boehm-Demers-Weiser conservative garbage collector  https://www.hboehm.info/gc/ 
  libgc-static  8.2.10  Static libraries for libgc  https://www.hboehm.info/gc/ 
  libgcrypt  1.11.2-1  General purpose cryptographic library based on the code from GnuPG  https://www.gnu.org/software/libgcrypt/ 
@@ -2420,7 +2420,7 @@
  testssl.sh  3.2.2  Testing TLS/SSL encryption anywhere on any port.  https://testssl.sh/ 
  tex-gyre  2.501-2  The TeX Gyre (TG) Collection of Fonts  https://www.gust.org.pl/projects/e-foundry/tex-gyre/ 
  texinfo  7.2-4  Documentation system for on-line information and printed output  https://www.gnu.org/software/texinfo/ 
- texlab  5.24.0  A cross-platform implementation of the Language Server Protocol providing rich cross-editing support for the LaTeX typesetting system  https://texlab.netlify.app/ 
+ texlab  5.25.0  A cross-platform implementation of the Language Server Protocol providing rich cross-editing support for the LaTeX typesetting system  https://texlab.netlify.app/ 
  texlive-bin  1:2025.0-2  TeX Live is a distribution of the TeX typesetting system. This package contains architecture dependent binaries.  https://www.tug.org/texlive/ 
  texlive-bin-static  1:2025.0-2  Static libraries for texlive-bin  https://www.tug.org/texlive/ 
  texlive-installer  20250308  Wrapper around texlive's install-tl script  https://www.tug.org/texlive/ 
@@ -2530,7 +2530,7 @@
  urdfdom-headers  2.0.2  Headers for URDF parsers  https://github.com/ros/urdfdom_headers 
  usbmuxd  1.1.1-p20250201-2  A socket daemon to multiplex connections from and to iOS devices  https://libimobiledevice.org 
  usql  0.20.0  A universal command-line interface for SQL databases  https://github.com/xo/usql 
- utf8cpp  4.0.8  UTF8-CPP: UTF-8 with C++ in a Portable Way  https://github.com/nemtrif/utfcpp 
+ utf8cpp  4.09  UTF8-CPP: UTF-8 with C++ in a Portable Way  https://github.com/nemtrif/utfcpp 
  utf8proc  2.11.2  Library for processing UTF-8 Unicode data  https://github.com/JuliaLang/utf8proc 
  utf8proc-static  2.11.2  Static libraries for utf8proc  https://github.com/JuliaLang/utf8proc 
  utfdecode  0.3.4-7  Tool for decoding, encoding and debugging unicode  https://github.com/fornwall/utfdecode 
