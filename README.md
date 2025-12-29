@@ -277,7 +277,7 @@
 | **composer** | 2.9.2 | Dependency Manager for PHP | https://getcomposer.org/ |
 | **console-bridge** | 1.0.2-1 | A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages | https://github.com/ros/console_bridge |
 | **convertlit** | 1.8-2 | An extractor/converter for .LIT eBooks | http://www.convertlit.com/ |
-| **cookcli** | 0.19.1 | A suite of tools to create shopping lists and maintain food recipes | https://cooklang.org |
+| **cookcli** | 0.19.2 | A suite of tools to create shopping lists and maintain food recipes | https://cooklang.org |
 | **coreutils** | 9.9 | Basic file, shell and text manipulation utilities from the GNU project | https://www.gnu.org/software/coreutils/ |
 | **corgi** | 0.2.4-5 | CLI workflow manager | https://github.com/DrakeW/corgi |
 | **corkscrew** | 2.0-4 | A tool for tunneling SSH through HTTP proxies | https://wiki.linuxquestions.org/wiki/Corkscrew |
@@ -1297,8 +1297,8 @@
 | **libplacebo** | 7.351.0 | Reusable library for GPU-accelerated video/image rendering | http://libplacebo.org/ |
 | **libplist** | 2.7.0-1 | A small portable C library to handle Apple Property List files in binary or XML format | https://libimobiledevice.org |
 | **libplist-static** | 2.7.0-1 | Static libraries for libplist | https://libimobiledevice.org |
-| **libpluto** | 0.12.1 | Shared library for the Pluto interpreter | https://plutolang.github.io/ |
-| **libpluto-static** | 0.12.1 | Static libraries for libpluto | https://plutolang.github.io/ |
+| **libpluto** | 0.12.2 | Shared library for the Pluto interpreter | https://plutolang.github.io/ |
+| **libpluto-static** | 0.12.2 | Static libraries for libpluto | https://plutolang.github.io/ |
 | **libpng** | 1.6.53 | Official PNG reference library | http://www.libpng.org/pub/png/libpng.html |
 | **libpng-static** | 1.6.53 | Static libraries for libpng | http://www.libpng.org/pub/png/libpng.html |
 | **libpngwriter** | 0.7.0-1 | C++ library for creating PNG images | https://pngwriter.sourceforge.net |
@@ -1686,7 +1686,7 @@
 | **mesa-opencl-icd-rusticl** | 25.3.2 | Mesa's Rusticl OpenCL ICD | https://www.mesa3d.org |
 | **mesa-vulkan-icd-swrast** | 25.3.2 | Mesa's Swrast Vulkan ICD | https://www.mesa3d.org |
 | **mfcuk** | 2018.07.14-1 | MiFare Classic Universal toolKit (MFCUK) | https://github.com/nfc-tools/mfcuk |
-| **mg** | 20240709-2 | microscopic GNU Emacs-style editor | https://github.com/hboetes/mg |
+| **mg** | 20250523 | microscopic GNU Emacs-style editor | https://github.com/hboetes/mg |
 | **micro** | 2.0.14-3 | Modern and intuitive terminal-based text editor | https://micro-editor.github.io/ |
 | **microsocks** | 1:1.0.5-1 | tiny, portable SOCKS5 server with very moderate resource usage | https://github.com/rofl0r/microsocks |
 | **miller** | 6.15.0 | Like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON | https://miller.readthedocs.io/ |
@@ -1848,7 +1848,7 @@
 | **okc-agents** | 0.1.2-2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.6-3 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-10 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
-| **oma** | 1.23.2 | oma is an attempt at reworking APT's interface | https://aosc.io/oma |
+| **oma** | 1.23.3 | oma is an attempt at reworking APT's interface | https://aosc.io/oma |
 | **onefetch** | 2.26.1 | A command-line Git information tool written in Rust | https://onefetch.dev/ |
 | **onigmo** | 6.2.0-1 | A regular expressions library forked from Oniguruma | https://github.com/k-takata/Onigmo |
 | **onigmo-static** | 6.2.0-1 | Static libraries for onigmo | https://github.com/k-takata/Onigmo |
@@ -1988,7 +1988,7 @@
 | **pkgtop** | 2.5.1 | Interactive package manager and resource monitor | https://github.com/orhun/pkgtop |
 | **plantuml** | 1.2025.10 | Draws UML diagrams, using a simple and human readable text description | https://plantuml.com/ |
 | **play-audio** | 0.6-2 | Simple command line audio player for Android | https://github.com/termux/play-audio |
-| **plutolang** | 0.12.1 | A superset of Lua 5.4 with a focus on general-purpose programming. | https://plutolang.github.io/ |
+| **plutolang** | 0.12.2 | A superset of Lua 5.4 with a focus on general-purpose programming. | https://plutolang.github.io/ |
 | **plzip** | 1.12-1 | A massively parallel lossless data compressor based on the lzlib compression library | https://www.nongnu.org/lzip/plzip.html |
 | **pngcrush** | 1.8.13-2 | Recompresses png files | https://pmt.sourceforge.io/pngcrush/ |
 | **pngquant** | 3.0.3-2 | PNG image optimising utility | https://pngquant.org |
@@ -2074,7 +2074,7 @@
 | **python-pycryptodomex** | 3.23.0-1 | A self-contained Python package of low-level cryptographic primitives | https://www.pycryptodome.org/ |
 | **python-pynvim** | 0.6.0 | Python client for Neovim | https://github.com/neovim/pynvim |
 | **python-ruff** | 0.14.10 | An extremely fast Python linter, written in Rust (Python bindings) | https://github.com/charliermarsh/ruff |
-| **python-sabyenc3** | 9.2.0 | C implementations of functions for use within SABnzbd | https://github.com/sabnzbd/sabctools |
+| **python-sabyenc3** | 9.2.1 | C implementations of functions for use within SABnzbd | https://github.com/sabnzbd/sabctools |
 | **python-skia-pathops** | 0.8.0-2 | Python bindings for the Skia library's Path Ops | https://github.com/fonttools/skia-pathops |
 | **python-static** | 3.12.12 | Static libraries for python | https://python.org/ |
 | **python-tflite-runtime** | 2.20.0 | TensorFlow Lite Python bindings | https://www.tensorflow.org/lite |
@@ -2205,7 +2205,7 @@
 | **runit-static** | 2.1.2-4 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.7.0-1 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
 | **rust** | 1.92.0 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
-| **rust-analyzer** | 20251222 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
+| **rust-analyzer** | 20251229 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
 | **rust-bindgen** | 0.72.1 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
 | **rust-docs** | 1.92.0 | Rust documentation | https://www.rust-lang.org/ |
 | **rust-src** | 1.92.0 | Rust source code files | https://www.rust-lang.org/ |
@@ -2308,7 +2308,7 @@
 | **speex-utils** | 1.2.1-1 | Speex command line tools | https://www.speex.org/ |
 | **speexdsp** | 1.2.1-1 | Speex audio processing library | https://speex.org/ |
 | **speexdsp-static** | 1.2.1-1 | Static libraries for speexdsp | https://speex.org/ |
-| **spglib** | 2.6.0-1 | C library for finding and handling crystal symmetries | https://spglib.github.io/spglib/index.html |
+| **spglib** | 2.7.0 | C library for finding and handling crystal symmetries | https://spglib.github.io/spglib/index.html |
 | **spidermonkey** | 128.10.0-2 | Mozilla's JavaScript engine | https://spidermonkey.dev |
 | **spiped** | 1.6.4-1 | a utility for creating symmetrically encrypted and authenticated pipes between socket addresses | https://www.tarsnap.com/spiped.html |
 | **spirv-headers** | 1.4.335.0 | SPIR-V Headers | https://github.com/KhronosGroup/SPIRV-Headers |

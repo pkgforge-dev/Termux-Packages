@@ -1067,7 +1067,7 @@
   Description: An extractor/converter for .LIT eBooks
   Homepage: http://www.convertlit.com/
 - Package: cookcli
-  Version: 0.19.1
+  Version: 0.19.2
   Description: A suite of tools to create shopping lists and maintain food recipes
   Homepage: https://cooklang.org
 - Package: coreutils
@@ -5147,11 +5147,11 @@
   Description: Static libraries for libplist
   Homepage: https://libimobiledevice.org
 - Package: libpluto
-  Version: 0.12.1
+  Version: 0.12.2
   Description: Shared library for the Pluto interpreter
   Homepage: https://plutolang.github.io/
 - Package: libpluto-static
-  Version: 0.12.1
+  Version: 0.12.2
   Description: Static libraries for libpluto
   Homepage: https://plutolang.github.io/
 - Package: libpng
@@ -6703,7 +6703,7 @@
   Description: MiFare Classic Universal toolKit (MFCUK)
   Homepage: https://github.com/nfc-tools/mfcuk
 - Package: mg
-  Version: 20240709-2
+  Version: "20250523"
   Description: microscopic GNU Emacs-style editor
   Homepage: https://github.com/hboetes/mg
 - Package: micro
@@ -7351,7 +7351,7 @@
   Description: The GNU Spreadsheet
   Homepage: https://www.gnu.org/software/oleo/
 - Package: oma
-  Version: 1.23.2
+  Version: 1.23.3
   Description: oma is an attempt at reworking APTs interface
   Homepage: https://aosc.io/oma
 - Package: onefetch
@@ -7911,7 +7911,7 @@
   Description: Simple command line audio player for Android
   Homepage: https://github.com/termux/play-audio
 - Package: plutolang
-  Version: 0.12.1
+  Version: 0.12.2
   Description: A superset of Lua 5.4 with a focus on general-purpose programming.
   Homepage: https://plutolang.github.io/
 - Package: plzip
@@ -8255,7 +8255,7 @@
   Description: An extremely fast Python linter, written in Rust (Python bindings)
   Homepage: https://github.com/charliermarsh/ruff
 - Package: python-sabyenc3
-  Version: 9.2.0
+  Version: 9.2.1
   Description: C implementations of functions for use within SABnzbd
   Homepage: https://github.com/sabnzbd/sabctools
 - Package: python-skia-pathops
@@ -8779,7 +8779,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: "20251222"
+  Version: "20251229"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://rust-analyzer.github.io/
 - Package: rust-bindgen
@@ -9191,7 +9191,7 @@
   Description: Static libraries for speexdsp
   Homepage: https://speex.org/
 - Package: spglib
-  Version: 2.6.0-1
+  Version: 2.7.0
   Description: C library for finding and handling crystal symmetries
   Homepage: https://spglib.github.io/spglib/index.html
 - Package: spidermonkey
