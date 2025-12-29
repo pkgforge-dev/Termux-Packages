@@ -1808,7 +1808,7 @@
 | **nettle** | 3.10.2-1 | Low level cryptographic tools | https://www.lysator.liu.se/~nisse/nettle/ |
 | **newsboat** | 2.41 | RSS/Atom feed reader for the text console | https://newsboat.org/ |
 | **newsraft** | 0.34 | Newsraft is a feed reader with text-based user interface | https://codeberg.org/newsraft/newsraft |
-| **nginx** | 1.29.4 | Lightweight HTTP server | https://www.nginx.org |
+| **nginx** | 1.29.4-1 | Lightweight HTTP server | https://www.nginx.org |
 | **ngircd** | 27-1 | Free, portable and lightweight Internet Relay Chat server | https://ngircd.barton.de/ |
 | **ngspice** | 45.2 | A mixed-level/mixed-signal circuit simulator | https://ngspice.sourceforge.net/ |
 | **nim** | 2.2.4-1 | Nim programming language compiler | https://nim-lang.org/ |
@@ -1848,7 +1848,7 @@
 | **okc-agents** | 0.1.2-2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.6-3 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-10 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
-| **oma** | 1.23.1 | oma is an attempt at reworking APT's interface | https://aosc.io/oma |
+| **oma** | 1.23.2 | oma is an attempt at reworking APT's interface | https://aosc.io/oma |
 | **onefetch** | 2.26.1 | A command-line Git information tool written in Rust | https://onefetch.dev/ |
 | **onigmo** | 6.2.0-1 | A regular expressions library forked from Oniguruma | https://github.com/k-takata/Onigmo |
 | **onigmo-static** | 6.2.0-1 | Static libraries for onigmo | https://github.com/k-takata/Onigmo |
@@ -2675,7 +2675,7 @@
 | **yarn** | 1.22.22 | Fast, reliable, and secure dependency management | https://classic.yarnpkg.com/lang/en/ |
 | **yasm** | 1.3.0-7 | Assembler supporting the x86 and AMD64 instruction sets | https://yasm.tortall.net/ |
 | **yasm-static** | 1.3.0-7 | Static libraries for yasm | https://yasm.tortall.net/ |
-| **yazi** | 25.5.31-3 | Blazing fast terminal file manager written in Rust, based on async I/O | https://yazi-rs.github.io/ |
+| **yazi** | 25.12.29 | Blazing fast terminal file manager written in Rust, based on async I/O | https://yazi-rs.github.io/ |
 | **yosys** | 0.60 | A framework for RTL synthesis tools | https://yosyshq.net/yosys/ |
 | **youtubedr** | 2.10.5 | Download youtube video in Golang | https://github.com/kkdai/youtube |
 | **yq** | 4.50.1 | A lightweight and portable command-line YAML, JSON and XML processor | https://mikefarah.gitbook.io/yq/ |
