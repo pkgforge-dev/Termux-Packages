@@ -2257,7 +2257,7 @@
 | **serd** | 0.32.6 | A lightweight C library for RDF syntax | https://drobilla.net/software/serd.html |
 | **serf** | 1.3.10-2 | High performance C-based HTTP client library | https://serf.apache.org/ |
 | **serf-static** | 1.3.10-2 | Static libraries for serf | https://serf.apache.org/ |
-| **sfeed** | 2.2-1 | Shell-script/crontab oriented feed aggregator and parser utility (curses-based reader included) | https://codemadness.org/sfeed-simple-feed-parser.html |
+| **sfeed** | 2.3 | Shell-script/crontab oriented feed aggregator and parser utility (curses-based reader included) | https://codemadness.org/sfeed-simple-feed-parser.html |
 | **sftpgo** | 2.7.0 | Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server | https://sftpgo.com/ |
 | **shaderc** | 2025.5 | Collection of tools, libraries, and tests for Vulkan shader compilation | https://github.com/google/shaderc |
 | **sharutils** | 4.15.2-4 | Utilities for packaging and unpackaging shell archives | https://www.gnu.org/software/sharutils/ |
