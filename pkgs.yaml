@@ -1911,7 +1911,7 @@
   Description: Utilities to find files meeting specified criteria and perform various actions on the files which are found
   Homepage: https://www.gnu.org/software/findutils/
 - Package: fish
-  Version: 4.3.0
+  Version: 4.3.1
   Description: The user-friendly command line shell
   Homepage: https://fishshell.com/
 - Package: flac
@@ -2851,7 +2851,7 @@
   Description: Command-line wrapper for git that makes you better at GitHub
   Homepage: https://hub.github.com/
 - Package: hugo
-  Version: 0.153.4
+  Version: 0.153.5
   Description: A fast and flexible static site generator
   Homepage: https://gohugo.io/
 - Package: hummin
@@ -7351,7 +7351,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 28.7.0
+  Version: 28.8.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -9703,7 +9703,7 @@
   Description: Documentation system for on-line information and printed output
   Homepage: https://www.gnu.org/software/texinfo/
 - Package: texlab
-  Version: 5.25.0
+  Version: 5.25.1
   Description: A cross-platform implementation of the Language Server Protocol providing rich cross-editing support for the LaTeX typesetting system
   Homepage: https://texlab.netlify.app/
 - Package: texlive-bin
@@ -9811,7 +9811,7 @@
   Description: FIGlet-compatible display of large colourful characters in text mode
   Homepage: http://caca.zoy.org/wiki/toilet
 - Package: tokei
-  Version: 13.0.0-alpha.9-1
+  Version: 14.0.0
   Description: A blazingly fast CLOC (Count Lines Of Code) program
   Homepage: https://github.com/XAMPPRocky/tokei
 - Package: tome2

@@ -488,7 +488,7 @@
 | **finch-static** | 2.14.14-2 | Static libraries for finch | https://pidgin.im/ |
 | **findomain** | 10.0.1-1 | Findomain is the fastest subdomain enumerator and the only one written in Rust | https://findomain.app/ |
 | **findutils** | 4.10.0-1 | Utilities to find files meeting specified criteria and perform various actions on the files which are found | https://www.gnu.org/software/findutils/ |
-| **fish** | 4.3.0 | The user-friendly command line shell | https://fishshell.com/ |
+| **fish** | 4.3.1 | The user-friendly command line shell | https://fishshell.com/ |
 | **flac** | 1.5.0-1 | FLAC (Free Lossless Audio Codec) command-line tool | https://xiph.org/flac/ |
 | **flatbuffers** | 25.12.19 | Memory Efficient Serialization Library | https://github.com/google/flatbuffers |
 | **flatbuffers-static** | 25.12.19 | Static libraries for flatbuffers | https://github.com/google/flatbuffers |
@@ -723,7 +723,7 @@
 | **httrack-data** | 3.49.6-1 | Platform-independent data for httrack | http://www.httrack.com |
 | **httrack-static** | 3.49.6-1 | Static libraries for httrack | http://www.httrack.com |
 | **hub** | 2.14.2-6 | Command-line wrapper for git that makes you better at GitHub | https://hub.github.com/ |
-| **hugo** | 0.153.4 | A fast and flexible static site generator | https://gohugo.io/ |
+| **hugo** | 0.153.5 | A fast and flexible static site generator | https://gohugo.io/ |
 | **hummin** | 2021.05.18-4 | Command line client for the imperial library of trantor | https://trantor.is/ |
 | **hunspell** | 1.7.2-1 | Spell checker | https://hunspell.github.io |
 | **hunspell-en-us** | 20240129 | American english dictionary for hunspell | https://hunspell.github.io |
@@ -1848,7 +1848,7 @@
 | **octomap** | 1.10.0-1 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0-1 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-5 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 28.7.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 28.8.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **okc-agents** | 0.1.2-2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.6-3 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-10 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
@@ -2436,7 +2436,7 @@
 | **testssl.sh** | 3.2.2 | Testing TLS/SSL encryption anywhere on any port. | https://testssl.sh/ |
 | **tex-gyre** | 2.501-2 | The TeX Gyre (TG) Collection of Fonts | https://www.gust.org.pl/projects/e-foundry/tex-gyre/ |
 | **texinfo** | 7.2-4 | Documentation system for on-line information and printed output | https://www.gnu.org/software/texinfo/ |
-| **texlab** | 5.25.0 | A cross-platform implementation of the Language Server Protocol providing rich cross-editing support for the LaTeX typesetting system | https://texlab.netlify.app/ |
+| **texlab** | 5.25.1 | A cross-platform implementation of the Language Server Protocol providing rich cross-editing support for the LaTeX typesetting system | https://texlab.netlify.app/ |
 | **texlive-bin** | 1:2025.0-2 | TeX Live is a distribution of the TeX typesetting system. This package contains architecture dependent binaries. | https://www.tug.org/texlive/ |
 | **texlive-bin-static** | 1:2025.0-2 | Static libraries for texlive-bin | https://www.tug.org/texlive/ |
 | **texlive-installer** | 20250308 | Wrapper around texlive's install-tl script | https://www.tug.org/texlive/ |
@@ -2463,7 +2463,7 @@
 | **tmate** | 2.4.0-3 | Terminal multiplexer with instant terminal sharing | https://tmate.io |
 | **tmux** | 3.6a | Terminal multiplexer | https://tmux.github.io/ |
 | **toilet** | 0.3-3 | FIGlet-compatible display of large colourful characters in text mode | http://caca.zoy.org/wiki/toilet |
-| **tokei** | 13.0.0-alpha.9-1 | A blazingly fast CLOC (Count Lines Of Code) program | https://github.com/XAMPPRocky/tokei |
+| **tokei** | 14.0.0 | A blazingly fast CLOC (Count Lines Of Code) program | https://github.com/XAMPPRocky/tokei |
 | **tome2** | 2022.12.27-6 | An open world roguelike adventure set in middle earth | https://github.com/tome2/tome2 |
 | **toml11** | 4.4.0 | toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library | https://github.com/ToruNiina/toml11 |
 | **topgrade** | 16.7.0 | Upgrade all the things | https://github.com/topgrade-rs/topgrade/ |
