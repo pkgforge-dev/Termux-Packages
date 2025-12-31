@@ -659,7 +659,7 @@
   Description: Roguelike dungeon crawling game (community edition)
   Homepage: https://sites.google.com/site/broguegame/
 - Package: brook
-  Version: 20250808-1
+  Version: "20260101"
   Description: A cross-platform strong encryption and not detectable proxy. Zero-Configuration.
   Homepage: https://github.com/txthinking/brook
 - Package: broot
@@ -6723,7 +6723,7 @@
   Description: microscopic GNU Emacs-style editor
   Homepage: https://github.com/hboetes/mg
 - Package: micro
-  Version: 2.0.14-3
+  Version: 2.0.15
   Description: Modern and intuitive terminal-based text editor
   Homepage: https://micro-editor.github.io/
 - Package: microsocks
@@ -7351,7 +7351,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 28.8.1
+  Version: 28.9.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
