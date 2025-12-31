@@ -723,7 +723,7 @@
 | **httrack-data** | 3.49.6-1 | Platform-independent data for httrack | http://www.httrack.com |
 | **httrack-static** | 3.49.6-1 | Static libraries for httrack | http://www.httrack.com |
 | **hub** | 2.14.2-6 | Command-line wrapper for git that makes you better at GitHub | https://hub.github.com/ |
-| **hugo** | 0.153.5 | A fast and flexible static site generator | https://gohugo.io/ |
+| **hugo** | 0.154.0 | A fast and flexible static site generator | https://gohugo.io/ |
 | **hummin** | 2021.05.18-4 | Command line client for the imperial library of trantor | https://trantor.is/ |
 | **hunspell** | 1.7.2-1 | Spell checker | https://hunspell.github.io |
 | **hunspell-en-us** | 20240129 | American english dictionary for hunspell | https://hunspell.github.io |
@@ -974,7 +974,7 @@
 | **libczmq-static** | 4.2.1-4 | Static libraries for libczmq | https://zeromq.org/ |
 | **libdaemon** | 0.14-1 | A lightweight C library that eases the writing of UNIX daemons | https://0pointer.de/lennart/projects/libdaemon/ |
 | **libdaemon-static** | 0.14-1 | Static libraries for libdaemon | https://0pointer.de/lennart/projects/libdaemon/ |
-| **libdav1d** | 1.5.2 | AV1 cross-platform decoder focused on speed and correctness | https://code.videolan.org/videolan/dav1d/ |
+| **libdav1d** | 1.5.3 | AV1 cross-platform decoder focused on speed and correctness | https://code.videolan.org/videolan/dav1d/ |
 | **libdb** | 18.1.40-5 | The Berkeley DB embedded database system (library) | https://www.oracle.com/database/berkeley-db |
 | **libdb-static** | 18.1.40-5 | Static libraries for libdb | https://www.oracle.com/database/berkeley-db |
 | **libde265** | 1.0.16-1 | H.265/HEVC video stream decoder library | https://github.com/strukturag/libde265 |
@@ -1721,7 +1721,7 @@
 | **mono-static** | 6.14.1-2 | Static libraries for mono | https://gitlab.winehq.org/mono/mono |
 | **monolith** | 2.10.1-1 | CLI tool for saving complete web pages as a single HTML file | https://github.com/Y2Z/monolith |
 | **moon-buggy** | 1.0.51-6 | Simple game where you drive a car across the moon's surface | https://github.com/seehuhn/moon-buggy |
-| **moor** | 2.9.6 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moor |
+| **moor** | 2.10.0 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moor |
 | **mop** | 2025.03.17-1 | Stock market tracker | https://github.com/mop-tracker/mop |
 | **moreutils** | 0.70-1 | A growing collection of the unix tools that nobody thought to write thirty years ago | https://joeyh.name/code/moreutils/ |
 | **moria** | 5.7.15-6 | Rogue-like game with an infinite dungeon | https://umoria.org |
