@@ -4279,7 +4279,7 @@
   },
   {
     "Package": "hugo",
-    "Version": "0.154.0",
+    "Version": "0.154.1",
     "Description": "A fast and flexible static site generator",
     "Homepage": "https://gohugo.io/"
   },
@@ -4759,7 +4759,7 @@
   },
   {
     "Package": "jq-lsp",
-    "Version": "0.1.15",
+    "Version": "0.1.16",
     "Description": "jq language server",
     "Homepage": "https://github.com/wader/jq-lsp"
   },
@@ -6439,13 +6439,13 @@
   },
   {
     "Package": "libheif",
-    "Version": "1.20.2",
+    "Version": "1.21.1",
     "Description": "HEIF (HEIC/AVIF) image encoding and decoding library",
     "Homepage": "https://github.com/strukturag/libheif"
   },
   {
     "Package": "libheif-progs",
-    "Version": "1.20.2",
+    "Version": "1.21.1",
     "Description": "Programs for manipulating HEIF (HEIC/AVIF) image files",
     "Homepage": "https://github.com/strukturag/libheif"
   },

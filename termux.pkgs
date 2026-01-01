@@ -711,7 +711,7 @@
 | **httrack-data** | 3.49.6-1 | Platform-independent data for httrack | http://www.httrack.com |
 | **httrack-static** | 3.49.6-1 | Static libraries for httrack | http://www.httrack.com |
 | **hub** | 2.14.2-6 | Command-line wrapper for git that makes you better at GitHub | https://hub.github.com/ |
-| **hugo** | 0.154.0 | A fast and flexible static site generator | https://gohugo.io/ |
+| **hugo** | 0.154.1 | A fast and flexible static site generator | https://gohugo.io/ |
 | **hummin** | 2021.05.18-4 | Command line client for the imperial library of trantor | https://trantor.is/ |
 | **hunspell** | 1.7.2-1 | Spell checker | https://hunspell.github.io |
 | **hunspell-en-us** | 20240129 | American english dictionary for hunspell | https://hunspell.github.io |
@@ -791,7 +791,7 @@
 | **jp2a** | 1.3.3 | A simple JPEG to ASCII converter | https://github.com/Talinx/jp2a/ |
 | **jpegoptim** | 1.5.6 | JPEG optimizer that recompresses image files to a smaller size, without losing any information | https://www.kokkonen.net/tjko/projects.html |
 | **jq** | 1.8.1-1 | Command-line JSON processor | https://stedolan.github.io/jq/ |
-| **jq-lsp** | 0.1.15 | jq language server | https://github.com/wader/jq-lsp |
+| **jq-lsp** | 0.1.16 | jq language server | https://github.com/wader/jq-lsp |
 | **jq-static** | 1.8.1-1 | Static libraries for jq | https://stedolan.github.io/jq/ |
 | **jql** | 8.0.9 | A JSON Query Language CLI tool | https://github.com/yamafaktory/jql |
 | **json-c** | 0.18-2 | A JSON implementation in C | https://github.com/json-c/json-c/wiki |
@@ -1071,8 +1071,8 @@
 | **libharu** | 2.4.5-1 | Free, cross platform, open source library for generating PDF files | http://libharu.org/ |
 | **libhdf5** | 1.14.4.3-1 | Hierarchical Data Format 5 (HDF5) | https://portal.hdfgroup.org/display/support |
 | **libhdf5-static** | 1.14.4.3-1 | Static libraries for libhdf5 | https://portal.hdfgroup.org/display/support |
-| **libheif** | 1.20.2 | HEIF (HEIC/AVIF) image encoding and decoding library | https://github.com/strukturag/libheif |
-| **libheif-progs** | 1.20.2 | Programs for manipulating HEIF (HEIC/AVIF) image files | https://github.com/strukturag/libheif |
+| **libheif** | 1.21.1 | HEIF (HEIC/AVIF) image encoding and decoding library | https://github.com/strukturag/libheif |
+| **libheif-progs** | 1.21.1 | Programs for manipulating HEIF (HEIC/AVIF) image files | https://github.com/strukturag/libheif |
 | **libhiredis** | 1.3.0-1 | Hiredis is a minimalistic C client library for the Redis database | https://redis.com/lp/hiredis |
 | **libhtmlcxx** | 0.87-5 | A simple non-validating css1 and html parser for C++ | https://htmlcxx.sourceforge.net/ |
 | **libhtmlcxx-static** | 0.87-5 | Static libraries for libhtmlcxx | https://htmlcxx.sourceforge.net/ |
