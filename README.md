@@ -821,7 +821,7 @@
 | **kakoune** | 2025.06.03-2 | Code editor heavily inspired by Vim | https://kakoune.org/ |
 | **kakoune-lsp** | 19.0.1 | Language Server Protocol Client for the Kakoune editor | https://github.com/kakoune-lsp/kakoune-lsp |
 | **kbd** | 2.9.0 | KBD's showkey utility for examining keycodes | https://kbd-project.org/ |
-| **kcptun** | 20251219 | A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC | https://github.com/xtaci/kcptun |
+| **kcptun** | 20260101 | A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC | https://github.com/xtaci/kcptun |
 | **keybase** | 6.5.1-1 | Key directory that maps social media identities to encryption keys | https://keybase.io |
 | **keychain** | 2.9.8 | keychain ssh-agent front-end | https://www.funtoo.org/Keychain |
 | **kibi** | 0.3.2 | A tiny terminal text editor, written in Rust | https://github.com/ilai-deutel/kibi |
@@ -1811,7 +1811,7 @@
 | **netstandard-targeting-pack-2.1-9.0** | 9.0.11-1 | NETStandard.Library 2.1 Targeting Pack (.NET 9.0) | https://dotnet.microsoft.com/en-us/ |
 | **nettle** | 3.10.2-1 | Low level cryptographic tools | https://www.lysator.liu.se/~nisse/nettle/ |
 | **newsboat** | 2.42 | RSS/Atom feed reader for the text console | https://newsboat.org/ |
-| **newsraft** | 0.34 | Newsraft is a feed reader with text-based user interface | https://codeberg.org/newsraft/newsraft |
+| **newsraft** | 0.35 | Newsraft is a feed reader with text-based user interface | https://codeberg.org/newsraft/newsraft |
 | **nginx** | 1.29.4-1 | Lightweight HTTP server | https://www.nginx.org |
 | **ngircd** | 27-1 | Free, portable and lightweight Internet Relay Chat server | https://ngircd.barton.de/ |
 | **ngspice** | 45.2 | A mixed-level/mixed-signal circuit simulator | https://ngspice.sourceforge.net/ |
@@ -2169,7 +2169,7 @@
 | **restic** | 0.18.1 | Fast, secure, efficient backup program | https://restic.net/ |
 | **restic-server** | 0.14.0-1 | Restic's REST backend API server | https://restic.net/ |
 | **restish** | 0.21.2 | A CLI for interacting with REST-ish HTTP APIs | https://github.com/rest-sh/restish |
-| **rgbds** | 1.0.0 | Rednex Game Boy Development System - An assembly toolchain for the Nintendo Game Boy & Game Boy Color | https://rgbds.gbdev.io |
+| **rgbds** | 1.0.1 | Rednex Game Boy Development System - An assembly toolchain for the Nintendo Game Boy & Game Boy Color | https://rgbds.gbdev.io |
 | **rhash** | 1.4.6-1 | Console utility for calculation and verification of magnet links and a wide range of hash sums | https://github.com/rhash/RHash |
 | **rhash-static** | 1.4.6-1 | Static libraries for rhash | https://github.com/rhash/RHash |
 | **rig** | 1.11-2 | A program that generates fake identities | https://rig.sourceforge.net/ |
@@ -2332,7 +2332,7 @@
 | **ssdb** | 1.9.9-3 | A Redis compatible NoSQL database stored on disk | https://ssdb.io/ |
 | **ssdeep** | 2.14.1-2 | A program for computing context triggered piecewise hashes (CTPH) | https://ssdeep-project.github.io/ssdeep/ |
 | **ssdeep-static** | 2.14.1-2 | Static libraries for ssdeep | https://ssdeep-project.github.io/ssdeep/ |
-| **sse2neon** | 1.9.0 | A C/C++ header file that converts Intel SSE intrinsics to Arm/Aarch64 NEON intrinsics | https://github.com/DLTcollab/sse2neon |
+| **sse2neon** | 1.9.1 | A C/C++ header file that converts Intel SSE intrinsics to Arm/Aarch64 NEON intrinsics | https://github.com/DLTcollab/sse2neon |
 | **sshpass** | 1.10-1 | Noninteractive ssh password provider | https://sourceforge.net/projects/sshpass/ |
 | **sshping** | 0.1.4-3 | measure character-echo latency and bandwidth for an interactive ssh session | https://github.com/spook/sshping |
 | **sslscan** | 2.2.1 | Utility to discover supported cipher suites on SSL/TLS enabled servers | https://github.com/rbsec/sslscan |
