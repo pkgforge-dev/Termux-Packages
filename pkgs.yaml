@@ -2287,7 +2287,7 @@
   Description: Extend git with Vincent Driessens branching model. The AVH Edition adds more functionality.
   Homepage: https://github.com/petervanderdoes/gitflow/
 - Package: gitoxide
-  Version: 0.48.0
+  Version: 0.49.0
   Description: Rust implementation of Git
   Homepage: https://github.com/Byron/gitoxide
 - Package: gitui
@@ -6843,7 +6843,7 @@
   Description: Simple game where you drive a car across the moons surface
   Homepage: https://github.com/seehuhn/moon-buggy
 - Package: moor
-  Version: 2.10.0
+  Version: 2.10.1
   Description: A pager designed to just do the right thing without any configuration
   Homepage: https://github.com/walles/moor
 - Package: mop
