@@ -559,7 +559,7 @@
   Description: Static libraries for bison
   Homepage: https://www.gnu.org/software/bison/
 - Package: bitcoin
-  Version: "30.0"
+  Version: "30.1"
   Description: Bitcoin Core
   Homepage: https://bitcoincore.org/
 - Package: bitlbee
@@ -2851,7 +2851,7 @@
   Description: Command-line wrapper for git that makes you better at GitHub
   Homepage: https://hub.github.com/
 - Package: hugo
-  Version: 0.154.1
+  Version: 0.154.2
   Description: A fast and flexible static site generator
   Homepage: https://gohugo.io/
 - Package: hummin
@@ -5711,7 +5711,7 @@
   Description: Generic library support script hiding the complexity of using shared libraries behind a consistent, portable interface
   Homepage: https://www.gnu.org/software/libtool/
 - Package: libtorrent
-  Version: 0.16.5
+  Version: 0.16.6
   Description: Libtorrent BitTorrent library
   Homepage: https://github.com/rakshasa/rtorrent/wiki
 - Package: libtorrent-rasterbar
@@ -5719,15 +5719,15 @@
   Description: A feature complete C++ bittorrent implementation focusing on efficiency and scalability
   Homepage: https://libtorrent.org/
 - Package: libtorrent-static
-  Version: 0.16.5
+  Version: 0.16.6
   Description: Static libraries for libtorrent
   Homepage: https://github.com/rakshasa/rtorrent/wiki
 - Package: libtpms
-  Version: 0.10.1-1
+  Version: 0.10.2
   Description: Provides software emulation of a Trusted Platform Module (TPM 1.2 and TPM 2.0)
   Homepage: https://github.com/stefanberger/libtpms
 - Package: libtpms-static
-  Version: 0.10.1-1
+  Version: 0.10.2
   Description: Static libraries for libtpms
   Homepage: https://github.com/stefanberger/libtpms
 - Package: libtranscript
