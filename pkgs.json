@@ -4819,7 +4819,7 @@
   },
   {
     "Package": "just",
-    "Version": "1.45.0",
+    "Version": "1.46.0",
     "Description": "A handy way to save and run project-specific commands",
     "Homepage": "https://just.systems"
   },
@@ -6919,13 +6919,13 @@
   },
   {
     "Package": "libluajit",
-    "Version": "1:2.1.1763148144",
+    "Version": "1:2.1.1765228720+g7152e15",
     "Description": "Just-In-Time Compiler for Lua",
     "Homepage": "https://luajit.org/"
   },
   {
     "Package": "libluajit-static",
-    "Version": "1:2.1.1763148144",
+    "Version": "1:2.1.1765228720+g7152e15",
     "Description": "Static libraries for libluajit",
     "Homepage": "https://luajit.org/"
   },
@@ -9625,7 +9625,7 @@
   },
   {
     "Package": "luajit",
-    "Version": "1:2.1.1763148144",
+    "Version": "1:2.1.1765228720+g7152e15",
     "Description": "Just-In-Time compiler for Lua - command line tool",
     "Homepage": "https://luajit.org/"
   },
@@ -9685,7 +9685,7 @@
   },
   {
     "Package": "lyrebird",
-    "Version": "0.6.1-1",
+    "Version": "0.8.0",
     "Description": "A pluggable transport plugin for Tor",
     "Homepage": "https://gitlab.torproject.org/tpo/anti-censorship/pluggable-transports"
   },
@@ -11724,12 +11724,6 @@
     "Homepage": "https://php.net"
   },
   {
-    "Package": "php-apache-opcache",
-    "Version": "8.4.2-4",
-    "Description": "OPcache module for PHP/Apache",
-    "Homepage": "https://php.net"
-  },
-  {
     "Package": "php-apache-pgsql",
     "Version": "8.5.1",
     "Description": "PostgreSQL modules for PHP/Apache",
@@ -11917,7 +11911,7 @@
   },
   {
     "Package": "pocketbase",
-    "Version": "0.34.2",
+    "Version": "0.35.0",
     "Description": "An open source Go backend",
     "Homepage": "https://github.com/pocketbase/pocketbase"
   },

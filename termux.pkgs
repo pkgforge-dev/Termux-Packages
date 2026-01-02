@@ -801,7 +801,7 @@
 | **jsoncpp-static** | 1.9.6-2 | Static libraries for jsoncpp | https://github.com/open-source-parsers/jsoncpp |
 | **jump** | 0.51.0-3 | Jump helps you navigate in shell faster by learning your habits | https://github.com/gsamokovarov/jump |
 | **jupp** | 3.1jupp41-3 | User friendly full screen text editor | http://www.mirbsd.org/jupp.htm |
-| **just** | 1.45.0 | A handy way to save and run project-specific commands | https://just.systems |
+| **just** | 1.46.0 | A handy way to save and run project-specific commands | https://just.systems |
 | **jython** | 2.7.4-1 | Python for the Java Platform | https://www.jython.org/ |
 | **k2pdfopt** | 2.55-4 | A tool that optimizes PDF files for viewing on mobile readers | https://www.willus.com/k2pdfopt/ |
 | **k9s** | 0.50.16 | Kubernetes CLI To Manage Your Clusters In Style! | https://k9scli.io |
@@ -1151,8 +1151,8 @@
 | **liblua53-static** | 5.3.6-4 | Static libraries for liblua53 | https://www.lua.org/ |
 | **liblua54** | 5.4.8-3 | Shared library for the Lua interpreter | https://www.lua.org/ |
 | **liblua54-static** | 5.4.8-3 | Static libraries for liblua54 | https://www.lua.org/ |
-| **libluajit** | 1:2.1.1763148144 | Just-In-Time Compiler for Lua | https://luajit.org/ |
-| **libluajit-static** | 1:2.1.1763148144 | Static libraries for libluajit | https://luajit.org/ |
+| **libluajit** | 1:2.1.1765228720+g7152e15 | Just-In-Time Compiler for Lua | https://luajit.org/ |
+| **libluajit-static** | 1:2.1.1765228720+g7152e15 | Static libraries for libluajit | https://luajit.org/ |
 | **liblz4** | 1.10.0-1 | Fast LZ compression algorithm library | https://lz4.github.io/lz4/ |
 | **liblzma** | 5.8.2 | XZ-format compression library | https://tukaani.org/xz/ |
 | **liblzma-static** | 5.8.2 | Static libraries for liblzma | https://tukaani.org/xz/ |
@@ -1602,7 +1602,7 @@
 | **lua53** | 5.3.6-4 | Simple, extensible, embeddable programming language | https://www.lua.org/ |
 | **lua53-lpeg** | 1.1.0-3 | Pattern-matching library for Lua 5.3 | https://www.inf.puc-rio.br/~roberto/lpeg |
 | **lua54** | 5.4.8-3 | Simple, extensible, embeddable programming language | https://www.lua.org/ |
-| **luajit** | 1:2.1.1763148144 | Just-In-Time compiler for Lua - command line tool | https://luajit.org/ |
+| **luajit** | 1:2.1.1765228720+g7152e15 | Just-In-Time compiler for Lua - command line tool | https://luajit.org/ |
 | **luarocks** | 3.13.0 | Deployment and management system for Lua modules | https://luarocks.org/ |
 | **luv** | 1.51.0-1-1 | Bare libuv bindings for lua | https://github.com/luvit/luv |
 | **luvi** | 1:2.15.0-1 | A project in-between luv and luvit | https://luvit.io |
@@ -1612,7 +1612,7 @@
 | **lv2** | 1.18.10-5 | A plugin standard for audio systems | https://lv2plug.in/ |
 | **lychee** | 0.22.0 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
 | **lynx** | 2.9.2-1 | The text web browser | http://lynx.browser.org/ |
-| **lyrebird** | 0.6.1-1 | A pluggable transport plugin for Tor | https://gitlab.torproject.org/tpo/anti-censorship/pluggable-transports |
+| **lyrebird** | 0.8.0 | A pluggable transport plugin for Tor | https://gitlab.torproject.org/tpo/anti-censorship/pluggable-transports |
 | **lz4** | 1.10.0-1 | Fast LZ compression algorithm tool | https://lz4.github.io/lz4/ |
 | **lzip** | 1.25-1 | Lossless data compressor similar to gzip and bzip2 | https://www.nongnu.org/lzip/ |
 | **lzlib** | 1.15-1 | A library providing in-memory LZMA compression and decompression functions | http://www.nongnu.org/lzip/lzlib.html |
@@ -1952,7 +1952,6 @@
 | **php** | 8.5.1 | Server-side, HTML-embedded scripting language | https://php.net |
 | **php-apache** | 8.5.1 | Apache 2.0 Handler module for PHP | https://php.net |
 | **php-apache-ldap** | 8.5.1 | LDAP module for PHP/Apache | https://php.net |
-| **php-apache-opcache** | 8.4.2-4 | OPcache module for PHP/Apache | https://php.net |
 | **php-apache-pgsql** | 8.5.1 | PostgreSQL modules for PHP/Apache | https://php.net |
 | **php-apache-sodium** | 8.5.1 | Sodium module for PHP/Apache | https://php.net |
 | **php-apcu** | 5.1.28 | APCu - APC User Cache | http://php.net/apcu |
@@ -1984,7 +1983,7 @@
 | **plzip** | 1.12-1 | A massively parallel lossless data compressor based on the lzlib compression library | https://www.nongnu.org/lzip/plzip.html |
 | **pngcrush** | 1.8.13-2 | Recompresses png files | https://pmt.sourceforge.io/pngcrush/ |
 | **pngquant** | 3.0.3-2 | PNG image optimising utility | https://pngquant.org |
-| **pocketbase** | 0.34.2 | An open source Go backend | https://github.com/pocketbase/pocketbase |
+| **pocketbase** | 0.35.0 | An open source Go backend | https://github.com/pocketbase/pocketbase |
 | **poke** | 4.3-1 | Interactive, extensible editor for binary data. | http://www.jemarch.net/poke.html |
 | **poke-static** | 4.3-1 | Static libraries for poke | http://www.jemarch.net/poke.html |
 | **polipo** | 1.1.1-1 | A small and fast caching web proxy | http://www.pps.jussieu.fr/~jch/software/polipo/ |

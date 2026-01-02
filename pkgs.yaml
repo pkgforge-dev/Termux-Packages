@@ -3211,7 +3211,7 @@
   Description: User friendly full screen text editor
   Homepage: http://www.mirbsd.org/jupp.htm
 - Package: just
-  Version: 1.45.0
+  Version: 1.46.0
   Description: A handy way to save and run project-specific commands
   Homepage: https://just.systems
 - Package: jython
@@ -4611,11 +4611,11 @@
   Description: Static libraries for liblua54
   Homepage: https://www.lua.org/
 - Package: libluajit
-  Version: 1:2.1.1763148144
+  Version: 1:2.1.1765228720+g7152e15
   Description: Just-In-Time Compiler for Lua
   Homepage: https://luajit.org/
 - Package: libluajit-static
-  Version: 1:2.1.1763148144
+  Version: 1:2.1.1765228720+g7152e15
   Description: Static libraries for libluajit
   Homepage: https://luajit.org/
 - Package: liblz4
@@ -6415,7 +6415,7 @@
   Description: Simple, extensible, embeddable programming language
   Homepage: https://www.lua.org/
 - Package: luajit
-  Version: 1:2.1.1763148144
+  Version: 1:2.1.1765228720+g7152e15
   Description: Just-In-Time compiler for Lua - command line tool
   Homepage: https://luajit.org/
 - Package: luarocks
@@ -6455,7 +6455,7 @@
   Description: The text web browser
   Homepage: http://lynx.browser.org/
 - Package: lyrebird
-  Version: 0.6.1-1
+  Version: 0.8.0
   Description: A pluggable transport plugin for Tor
   Homepage: https://gitlab.torproject.org/tpo/anti-censorship/pluggable-transports
 - Package: lz4
@@ -7814,10 +7814,6 @@
   Version: 8.5.1
   Description: LDAP module for PHP/Apache
   Homepage: https://php.net
-- Package: php-apache-opcache
-  Version: 8.4.2-4
-  Description: OPcache module for PHP/Apache
-  Homepage: https://php.net
 - Package: php-apache-pgsql
   Version: 8.5.1
   Description: PostgreSQL modules for PHP/Apache
@@ -7943,7 +7939,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pocketbase
-  Version: 0.34.2
+  Version: 0.35.0
   Description: An open source Go backend
   Homepage: https://github.com/pocketbase/pocketbase
 - Package: poke
