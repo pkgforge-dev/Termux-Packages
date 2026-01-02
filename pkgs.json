@@ -10051,25 +10051,25 @@
   },
   {
     "Package": "mesa",
-    "Version": "25.3.2",
+    "Version": "25.3.3",
     "Description": "An open-source implementation of the OpenGL specification",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-dev",
-    "Version": "25.3.2",
+    "Version": "25.3.3",
     "Description": "Mesas OpenGL headers",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-opencl-icd-rusticl",
-    "Version": "25.3.2",
+    "Version": "25.3.3",
     "Description": "Mesas Rusticl OpenCL ICD",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-vulkan-icd-swrast",
-    "Version": "25.3.2",
+    "Version": "25.3.3",
     "Description": "Mesas Swrast Vulkan ICD",
     "Homepage": "https://www.mesa3d.org"
   },
@@ -11107,7 +11107,7 @@
   },
   {
     "Package": "openal-soft",
-    "Version": "1.25.0",
+    "Version": "1.25.0-1",
     "Description": "Software implementation of the OpenAL API",
     "Homepage": "https://openal-soft.org/"
   },
