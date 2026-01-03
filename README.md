@@ -25,7 +25,7 @@
 | **abook** | 0.6.2-1 | Abook is a text-based addressbook program designed to use with mutt mail client | http://abook.sourceforge.net/ |
 | **abootimg** | 0.6-3 | Pack or unpack android boot images | https://gitlab.com/ajs124/abootimg |
 | **abseil-cpp** | 20250814.1 | Abseil C++ Common Libraries | https://abseil.io/ |
-| **ack-grep** | 3.9.0 | Tool like grep optimized for programmers | https://beyondgrep.com/ |
+| **ack-grep** | 3.9.0-1 | Tool like grep optimized for programmers | https://beyondgrep.com/ |
 | **acr** | 2.2.4 | A fully compatible autoconf replacement | https://github.com/radareorg/acr |
 | **ada** | 3.3.0 | WHATWG-compliant and fast URL parser written in modern C++ | https://github.com/ada-url/ada |
 | **adms** | 2.3.7-1 | A code generator for the Verilog-AMS language | https://github.com/qucs/adms |
@@ -46,7 +46,7 @@
 | **alsa-utils-static** | 1.2.15.1 | Static libraries for alsa-utils | https://www.alsa-project.org |
 | **amber** | 0.6.0-1 | A code search / replace tool | https://github.com/dalance/amber |
 | **amfora** | 1.11.0-1 | Aims to be the best looking Gemini client | https://github.com/makew0rld/amfora |
-| **android-tools** | 35.0.2-6 | Android platform tools | https://developer.android.com/ |
+| **android-tools** | 35.0.2-7 | Android platform tools | https://developer.android.com/ |
 | **anewer** | 0.1.6-1 | Append lines from stdin to a file if these lines do not present in that file (aHash-based uniq) | https://github.com/ysf/anewer |
 | **angband** | 4.2.6 | Dungeon exploration adventure game | https://rephial.org/ |
 | **angle-android** | 2.1.24923-f09a19ce-2 | A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android | https://chromium.googlesource.com/angle/angle |
@@ -110,8 +110,8 @@
 | **attr** | 2.5.2-1 | Utilities for manipulating filesystem extended attributes | http://savannah.nongnu.org/projects/attr/ |
 | **attr-static** | 2.5.2-1 | Static libraries for attr | http://savannah.nongnu.org/projects/attr/ |
 | **atuin** | 18.10.0 | Magical shell history | https://atuin.sh/ |
-| **aubio** | 0.4.9-6 | A library to label music and sounds | https://aubio.org/ |
-| **aubio-static** | 0.4.9-6 | Static libraries for aubio | https://aubio.org/ |
+| **aubio** | 0.4.9-7 | A library to label music and sounds | https://aubio.org/ |
+| **aubio-static** | 0.4.9-7 | Static libraries for aubio | https://aubio.org/ |
 | **autoconf** | 2.72 | Creator of shell scripts to configure source code packages | https://www.gnu.org/software/autoconf/autoconf.html |
 | **autoconf-archive** | 2024.10.16 | A collection of freely re-usable Autoconf macros | https://www.gnu.org/software/autoconf-archive/ |
 | **autojump** | 22.5.3-1 | A faster way to navigate your filesystem | https://github.com/wting/autojump |
@@ -448,7 +448,7 @@
 | **etsh** | 5.4.0-1 | An enhanced, backward-compatible port of Thompson Shell | https://etsh.nl |
 | **exercism** | 3.5.8 | A Go based command line tool for exercism.io | https://github.com/exercism/cli/ |
 | **exfatprogs** | 1.3.1 | exFAT filesystem userspace utilities | https://github.com/exfatprogs/exfatprogs |
-| **exhale** | 1.2.2RC | Open source xHE-AAC encoder | https://gitlab.com/ecodis/exhale |
+| **exhale** | 1.2.2RC+really1.2.2 | Open source xHE-AAC encoder | https://gitlab.com/ecodis/exhale |
 | **exiftool** | 13.45 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
 | **exiv2** | 2:0.28.7 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **expect** | 5.45.4-4 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
@@ -464,7 +464,7 @@
 | **faust-static** | 2.83.1 | Static libraries for faust | https://github.com/grame-cncm/faust |
 | **faustlibraries** | 2.83.1 | Faust DSP libraries | https://github.com/grame-cncm/faust |
 | **fclones** | 0.35.0-1 | Efficient Duplicate File Finder | https://github.com/pkolaczk/fclones |
-| **fcp** | 0.2.1-3 | A significantly faster alternative to the classic Unix cp(1) command | https://github.com/Svetlitski/fcp |
+| **fcp** | 0.2.1-4 | A significantly faster alternative to the classic Unix cp(1) command | https://github.com/Svetlitski/fcp |
 | **fd** | 10.3.0-1 | Simple, fast and user-friendly alternative to find | https://github.com/sharkdp/fd |
 | **fdisk** | 2.41.2 | Utilities to manipulate disk partition tables | https://en.wikipedia.org/wiki/Util-linux |
 | **fdkaac** | 1.0.6-2 | command line encoder frontend for libfdk-aac | https://github.com/nu774/fdkaac |
@@ -599,8 +599,8 @@
 | **glslang** | 16.1.0 | OpenGL and OpenGL ES shader front end and validator | https://github.com/KhronosGroup/glslang |
 | **gluelang** | 0.2.0-2 | A programming language that has a strong nature to be a glue of commands | https://ryuichiueda.github.io/GlueLang/ |
 | **glulxe** | 0.6.1-1 | Interpreter for the Glulx portable VM for interactive fiction (IF) games | https://www.eblong.com/zarf/glulx/ |
-| **gmic** | 3.5.3-3 | Full-featured framework for image processing | https://gmic.eu |
-| **gmic-gm** | 3.5.3-3 | Full-featured framework for image processing (GraphicsMagick variant) | https://gmic.eu |
+| **gmic** | 3.6.6 | Full-featured framework for image processing | https://gmic.eu |
+| **gmic-gm** | 3.6.6 | Full-featured framework for image processing (GraphicsMagick variant) | https://gmic.eu |
 | **gn** | 20251217 | Meta-build system that generates build files for Ninja | https://gn.googlesource.com/gn |
 | **gnucap** | 20210107-4 | The Gnu Circuit Analysis Package | https://www.gnu.org/software/gnucap/gnucap.html |
 | **gnuchess** | 6.3.0 | Chess-playing program | https://www.gnu.org/software/chess/ |
@@ -736,7 +736,7 @@
 | **hwdata** | 0.402 | Database of hardware identification and configuration data | https://github.com/vcrhonek/hwdata |
 | **hydroxide** | 0.2.30-1 | A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge | https://github.com/emersion/hydroxide |
 | **hyperfine** | 1.20.0 | A command-line benchmarking tool | https://github.com/sharkdp/hyperfine |
-| **hz** | 0.10.1-1 | A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices | https://www.cloudwego.io |
+| **hz** | 0.10.3 | A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices | https://www.cloudwego.io |
 | **i2pd** | 2.58.0 | A full-featured C++ implementation of the I2P router | https://i2pd.website/ |
 | **i2pd-static** | 2.58.0 | Static libraries for i2pd | https://i2pd.website/ |
 | **iat** | 0.1.7 | Iso9660 Analyzer Tool | http://iat.berlios.de/ |
@@ -1351,8 +1351,8 @@
 | **libsearpc** | 1:3.2.0-7 | A simple C language RPC framework (mainly for seafile) | https://github.com/haiwen/libsearpc |
 | **libsearpc-static** | 1:3.2.0-7 | Static libraries for libsearpc | https://github.com/haiwen/libsearpc |
 | **libseat** | 0.9.1-3 | Reference implementation of a wayland compositor | https://sr.ht/~kennylevinsen/seatd/ |
-| **libseccomp** | 2.5.5-5 | Enhanced seccomp library | https://github.com/seccomp/libseccomp |
-| **libseccomp-static** | 2.5.5-5 | Static libraries for libseccomp | https://github.com/seccomp/libseccomp |
+| **libseccomp** | 2.6.0 | Enhanced seccomp library | https://github.com/seccomp/libseccomp |
+| **libseccomp-static** | 2.6.0 | Static libraries for libseccomp | https://github.com/seccomp/libseccomp |
 | **libsecp256k1** | 1:0.7.0-2 | Optimized c library for ECDSA signatures and seret/public key operations on curve secp256k1 | https://github.com/bitcoin-core/secp256k1 |
 | **libsecp256k1-static** | 1:0.7.0-2 | Static libraries for libsecp256k1 | https://github.com/bitcoin-core/secp256k1 |
 | **libsecret** | 0.21.7-3 | A GObject-based library for accessing the Secret Service API | https://gitlab.gnome.org/GNOME/libsecret |
@@ -1447,7 +1447,7 @@
 | **libtree-ldd** | 3.1.1-2 | Like ldd(1), but prints a tree(1) like output | https://github.com/haampie/libtree |
 | **libtsduck** | 3.42.4421 | An extensible toolkit for MPEG transport streams | https://tsduck.io/ |
 | **libtsduck-static** | 3.42.4421 | Static libraries for libtsduck | https://tsduck.io/ |
-| **libtvision** | 2023.01.29-1 | A modern port of Turbo Vision 2.0 with Unicode support | https://github.com/magiblot/tvision |
+| **libtvision** | 2025.10.31 | A modern port of Turbo Vision 2.0 with Unicode support | https://github.com/magiblot/tvision |
 | **libtwolame** | 0.4.0-1 | An optimised MPEG Audio Layer 2 (MP2) encoder | https://www.twolame.org/ |
 | **libtwolame-static** | 0.4.0-1 | Static libraries for libtwolame | https://www.twolame.org/ |
 | **libuber-h3** | 4.4.1 | A hexagonal hierarchical geospatial indexing system | https://h3geo.org/ |
@@ -1596,7 +1596,7 @@
 | **loksh** | 7.8 | A Linux port of OpenBSD's ksh | https://github.com/dimkr/loksh |
 | **lowdown** | 2.0.4 | Markdown utilities and library (fork of hoedown -> sundown -> libsoldout) | https://kristaps.bsd.lv/lowdown |
 | **lowdown-static** | 2.0.4 | Static libraries for lowdown | https://kristaps.bsd.lv/lowdown |
-| **lr** | 2.0.1 | list files, recursively, includes the best features of ls, find, stat and du | https://git.vuxu.org/lr/about/ |
+| **lr** | 2.0.1-1 | list files, recursively, includes the best features of ls, find, stat and du | https://git.vuxu.org/lr/about/ |
 | **lrzip** | 0.651-2 | A compression utility that excels at compressing large files | https://github.com/ckolivas/lrzip |
 | **lrzsz** | 0.12.21-rc1-2 | Tools for zmodem/xmodem/ymodem file transfer | https://ohse.de/uwe/software/lrzsz.html |
 | **lsd** | 1.2.0 | Next gen ls command | https://github.com/lsd-rs/lsd |
@@ -1725,7 +1725,7 @@
 | **moor** | 2.10.1 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moor |
 | **mop** | 2025.03.17-1 | Stock market tracker | https://github.com/mop-tracker/mop |
 | **moreutils** | 0.70-1 | A growing collection of the unix tools that nobody thought to write thirty years ago | https://joeyh.name/code/moreutils/ |
-| **moria** | 5.7.15-6 | Rogue-like game with an infinite dungeon | https://umoria.org |
+| **moria** | 5.7.15-7 | Rogue-like game with an infinite dungeon | https://umoria.org |
 | **morse2ascii** | 0.2.1-1 | A tool to decode the morse codes from a PCM WAV file as well as from text and RAW PCM files | https://packages.debian.org/sid/morse2ascii |
 | **mosh** | 1.4.0-16 | Mobile shell that supports roaming and intelligent local echo | https://mosh.org |
 | **mosh-perl** | 1.4.0-16 | The mosh Perl script | https://mosh.org |
@@ -1798,8 +1798,8 @@
 | **neomutt** | 20251211 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.11.5 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
 | **nerdfix** | 0.4.2-1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
-| **net-snmp** | 5.9.4-1 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
-| **net-snmp-static** | 5.9.4-1 | Static libraries for net-snmp | http://www.net-snmp.org/ |
+| **net-snmp** | 5.9.5.2 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
+| **net-snmp-static** | 5.9.5.2 | Static libraries for net-snmp | http://www.net-snmp.org/ |
 | **net-tools** | 2.10.0-1 | Configuration tools for Linux networking | http://net-tools.sourceforge.net/ |
 | **netcat-openbsd** | 1.234-1-0 | TCP/IP swiss army knife. OpenBSD variant. | https://packages.debian.org/sid/netcat-openbsd |
 | **netcdf-c** | 4.9.3-1 | NetCDF is a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data | https://www.unidata.ucar.edu/software/netcdf/ |
@@ -1828,9 +1828,9 @@
 | **no-more-secrets** | 1.0.1-3 | This project provides a command line tool called nms that recreates the famous data decryption effect | https://github.com/bartobri/no-more-secrets |
 | **nodejs** | 25.2.1 | Open Source, cross-platform JavaScript runtime environment | https://nodejs.org/ |
 | **nodejs-lts** | 24.12.0 | Open Source, cross-platform JavaScript runtime environment | https://nodejs.org/ |
-| **notcurses** | 3.0.17-1 | blingful TUIs and character graphics | https://notcurses.com/ |
-| **notcurses-data** | 3.0.17-1 | Platform-independent data for notcurses | https://notcurses.com/ |
-| **notcurses-tools** | 3.0.17-1 | Tools and demos for notcurses | https://notcurses.com/ |
+| **notcurses** | 3.0.17-2 | blingful TUIs and character graphics | https://notcurses.com/ |
+| **notcurses-data** | 3.0.17-2 | Platform-independent data for notcurses | https://notcurses.com/ |
+| **notcurses-tools** | 3.0.17-2 | Tools and demos for notcurses | https://notcurses.com/ |
 | **notmuch** | 0.39-1 | Thread-based email index, search and tagging system | https://notmuchmail.org |
 | **npush** | 0.7-2 | Curses-based logic game similar to Sokoban and Boulder Dash | https://npush.sourceforge.net/ |
 | **nsis** | 3.11-1 | A professional open source system to create Windows installers | https://sourceforge.net/projects/nsis/ |
@@ -2072,7 +2072,7 @@
 | **python-numpy** | 2.2.5-2 | The fundamental package for scientific computing with Python | https://numpy.org/ |
 | **python-numpy-static** | 2.2.5-2 | Static libraries for python-numpy | https://numpy.org/ |
 | **python-onnxruntime** | 1.22.2-5 | Cross-platform, high performance ML inferencing and training accelerator | https://onnxruntime.ai/ |
-| **python-pillow** | 12.0.0 | Python Imaging Library | https://python-pillow.org/ |
+| **python-pillow** | 12.1.0 | Python Imaging Library | https://python-pillow.org/ |
 | **python-pip** | 25.3 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
 | **python-pyarrow** | 22.0.0-2 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
 | **python-pycryptodomex** | 3.23.0-1 | A self-contained Python package of low-level cryptographic primitives | https://www.pycryptodome.org/ |
@@ -2150,7 +2150,7 @@
 | **rdiff** | 2.3.4-1 | Remote incremental backup | https://github.com/librsync/librsync |
 | **rdiff-backup** | 2.2.6-3 | A utility for local/remote mirroring and incremental backups | https://rdiff-backup.net |
 | **rdircd** | 2023.02.07-1 | A daemon that allows using a personal Discord account through an IRC client | https://github.com/mk-fg/reliable-discord-client-irc-daemon |
-| **rdrview** | 1:0.1.5 | Command line tool to extract the main content from a webpage | https://github.com/eafer/rdrview |
+| **rdrview** | 1:0.1.5-1 | Command line tool to extract the main content from a webpage | https://github.com/eafer/rdrview |
 | **re2c** | 4.4 | Lexer generator for C, C++ and Go. | https://re2c.org/ |
 | **readline** | 8.3.1-2 | Library that allow users to edit command lines as they are typed in | https://tiswww.case.edu/php/chet/readline/rltop.html |
 | **readline-static** | 8.3.1-2 | Static libraries for readline | https://tiswww.case.edu/php/chet/readline/rltop.html |
@@ -2189,13 +2189,13 @@
 | **roqet** | 0.9.33-4 | Standalone command line RDF query utility program | https://librdf.org/rasqal/ |
 | **rp-pppoe** | 4.0-1 | A PPP-over-Ethernet redirector for pppd | https://dianne.skoll.ca/projects/rp-pppoe/ |
 | **rpm** | 4.18.1-1 | RPM Package Manager | https://rpm.org/ |
-| **rq** | 1.0.4-1 | A tool for doing record analysis and transformation | https://github.com/dflemstr/rq |
+| **rq** | 1.0.4-2 | A tool for doing record analysis and transformation | https://github.com/dflemstr/rq |
 | **rsgain** | 3.6-3 | A simple audio normalizazion utility | https://github.com/complexlogic/rsgain |
 | **rsnapshot** | 1.5.1 | A remote filesystem snapshot utility | https://www.rsnapshot.org/ |
 | **rsync** | 3.4.1-1 | Fast incremental file transfer utility | https://rsync.samba.org/ |
 | **rtmpdump** | 2.6-1 | Small dumper for media content streamed over the RTMP protocol | https://rtmpdump.mplayerhq.hu/ |
 | **rtmpdump-static** | 2.6-1 | Static libraries for rtmpdump | https://rtmpdump.mplayerhq.hu/ |
-| **rtorrent** | 0.16.3 | Ncurses BitTorrent client based on libTorrent | https://rakshasa.github.io/rtorrent/ |
+| **rtorrent** | 0.16.5 | Ncurses BitTorrent client based on libTorrent | https://rakshasa.github.io/rtorrent/ |
 | **rubberband** | 4.0.0-1 | An audio time-stretching and pitch-shifting library and utility program | https://breakfastquay.com/rubberband/ |
 | **rubberband-ladspa** | 4.0.0-1 | LADSPA plugin for Rubber Band | https://breakfastquay.com/rubberband/ |
 | **rubberband-lv2** | 4.0.0-1 | LV2 plugin for Rubber Band | https://breakfastquay.com/rubberband/ |
@@ -2318,8 +2318,8 @@
 | **spirv-headers** | 1.4.335.0 | SPIR-V Headers | https://github.com/KhronosGroup/SPIRV-Headers |
 | **spirv-llvm-translator** | 21.1.3 | SPIR-V LLVM Translator | https://github.com/KhronosGroup/SPIRV-LLVM-Translator |
 | **spirv-tools** | 1.4.335.0 | SPIR-V Tools | https://github.com/KhronosGroup/SPIRV-Tools |
-| **sqlcipher** | 4.6.1-1 | SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files | https://github.com/sqlcipher/sqlcipher |
-| **sqlcipher-static** | 4.6.1-1 | Static libraries for sqlcipher | https://github.com/sqlcipher/sqlcipher |
+| **sqlcipher** | 4.12.0 | SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files | https://github.com/sqlcipher/sqlcipher |
+| **sqlcipher-static** | 4.12.0 | Static libraries for sqlcipher | https://github.com/sqlcipher/sqlcipher |
 | **sqlite** | 3.51.1 | Command line shell for SQLite | https://www.sqlite.org |
 | **squashfs-tools-ng** | 1.3.2-1 | New set of tools for working with SquashFS images | https://github.com/AgentD/squashfs-tools-ng |
 | **squashfs-tools-ng-static** | 1.3.2-1 | Static libraries for squashfs-tools-ng | https://github.com/AgentD/squashfs-tools-ng |
@@ -2380,8 +2380,8 @@
 | **swift-sdk-x86-64** | 6.2.1 | Swift SDK for Android x86_64 | https://swift.org/ |
 | **swiftshader** | 2025.06.25-2 | A high-performance CPU-based implementation of the Vulkan graphics API | https://swiftshader.googlesource.com/SwiftShader |
 | **swig** | 4.4.1 | Generate scripting interfaces to C/C++ code | https://swig.org |
-| **swtpm** | 0.10.1-1 | Software TPM Emulator | https://github.com/stefanberger/swtpm |
-| **swtpm-static** | 0.10.1-1 | Static libraries for swtpm | https://github.com/stefanberger/swtpm |
+| **swtpm** | 0.10.1-2 | Software TPM Emulator | https://github.com/stefanberger/swtpm |
+| **swtpm-static** | 0.10.1-2 | Static libraries for swtpm | https://github.com/stefanberger/swtpm |
 | **syncthing** | 2.0.12 | Decentralized file synchronization | https://syncthing.net/ |
 | **sysprop** | 13.0.0.15-10 | Generates cpp / java sysprop | https://android.googlesource.com/platform/system/tools/sysprop |
 | **ta-lib** | 0.5.0 | Technical analysis library with indicators like ADX | https://ta-lib.org/ |
@@ -2391,7 +2391,7 @@
 | **tar** | 1.35-2 | GNU tar for manipulating tar archives | https://www.gnu.org/software/tar/ |
 | **task-spooler** | 1:1.0.3-1 | Task spooler is a Unix batch system where the tasks spooled run one after the other | https://vicerveza.homeunix.net/~viric/soft/ts/ |
 | **tasksh** | 1.2.0-11 | Shell command wrapping Taskwarrior commands | https://taskwarrior.org |
-| **taskwarrior** | 3.4.2-1 | Utility for managing your TODO list | https://taskwarrior.org |
+| **taskwarrior** | 3.4.2-2 | Utility for managing your TODO list | https://taskwarrior.org |
 | **tcc** | 1:0.9.27-p20230415-2 | Tiny C Compiler | https://bellard.org/tcc/ |
 | **tcl** | 8.6.14-1 | Powerful but easy to learn dynamic programming language | https://www.tcl.tk/ |
 | **tcllib** | 2.0 | Tcl Standard Library | https://core.tcl-lang.org/tcllib/ |
@@ -2464,7 +2464,7 @@
 | **tmux** | 3.6a | Terminal multiplexer | https://tmux.github.io/ |
 | **toilet** | 0.3-3 | FIGlet-compatible display of large colourful characters in text mode | http://caca.zoy.org/wiki/toilet |
 | **tokei** | 14.0.0 | A blazingly fast CLOC (Count Lines Of Code) program | https://github.com/XAMPPRocky/tokei |
-| **tome2** | 2022.12.27-6 | An open world roguelike adventure set in middle earth | https://github.com/tome2/tome2 |
+| **tome2** | 2025.12.13 | An open world roguelike adventure set in middle earth | https://github.com/tome2/tome2 |
 | **toml11** | 4.4.0 | toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library | https://github.com/ToruNiina/toml11 |
 | **topgrade** | 16.7.0 | Upgrade all the things | https://github.com/topgrade-rs/topgrade/ |
 | **tor** | 0.4.8.21 | The Onion Router anonymizing overlay network | https://www.torproject.org |
@@ -2489,7 +2489,7 @@
 | **tree-sitter-vimdoc** | 4.1.0 | Tree-sitter parser for Vim help files | https://github.com/neovim/tree-sitter-vimdoc |
 | **tree-sitter-vimdoc-static** | 4.1.0 | Static libraries for tree-sitter-vimdoc | https://github.com/neovim/tree-sitter-vimdoc |
 | **trojan-go** | 0.10.6-4 | A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW | https://p4gefau1t.github.io/trojan-go |
-| **trunk** | 0.21.14 | Build, bundle & ship your Rust WASM application to the web | https://trunkrs.dev/ |
+| **trunk** | 0.21.14-1 | Build, bundle & ship your Rust WASM application to the web | https://trunkrs.dev/ |
 | **trurl** | 0.16.1-1 | trurl is a command line tool that parses and manipulates URLs | https://curl.se/trurl/ |
 | **trzsz-go** | 1.1.8-1 | A simple file transfer tools, similar to lrzsz ( rz / sz ) | https://trzsz.github.io/ |
 | **trzsz-ssh** | 0.1.23 | An openssh client alternative | https://trzsz.github.io/ssh |
@@ -2641,7 +2641,7 @@
 | **whois** | 5.6.5 | An intelligent Whois client | https://github.com/rfc1036/whois |
 | **wireguard-tools** | 1.0.20210914-3 | Tools for the WireGuard secure network tunnel | https://www.wireguard.com |
 | **wireproxy** | 1.0.10-1 | Wireguard client that exposes itself as a socks5 proxy | https://github.com/pufferffish/wireproxy |
-| **wiz** | 2022.06.02-1 | A high-level assembly language for writing homebrew software for retro console platforms | http://wiz-lang.org/ |
+| **wiz** | 2025.04.10 | A high-level assembly language for writing homebrew software for retro console platforms | http://wiz-lang.org/ |
 | **woff2** | 1.0.2-4 | font compression reference code | https://www.w3.org/TR/WOFF2/ |
 | **wol** | 0.7.1-4 | Program implementing Wake On LAN functionality | https://sourceforge.net/projects/wake-on-lan/ |
 | **wordgrinder** | 0.8 | A Unicode-aware character cell word processor | http://cowlark.com/wordgrinder/ |

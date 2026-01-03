@@ -59,7 +59,7 @@
   Description: Abseil C++ Common Libraries
   Homepage: https://abseil.io/
 - Package: ack-grep
-  Version: 3.9.0
+  Version: 3.9.0-1
   Description: Tool like grep optimized for programmers
   Homepage: https://beyondgrep.com/
 - Package: acr
@@ -143,7 +143,7 @@
   Description: Aims to be the best looking Gemini client
   Homepage: https://github.com/makew0rld/amfora
 - Package: android-tools
-  Version: 35.0.2-6
+  Version: 35.0.2-7
   Description: Android platform tools
   Homepage: https://developer.android.com/
 - Package: anewer
@@ -399,11 +399,11 @@
   Description: Magical shell history
   Homepage: https://atuin.sh/
 - Package: aubio
-  Version: 0.4.9-6
+  Version: 0.4.9-7
   Description: A library to label music and sounds
   Homepage: https://aubio.org/
 - Package: aubio-static
-  Version: 0.4.9-6
+  Version: 0.4.9-7
   Description: Static libraries for aubio
   Homepage: https://aubio.org/
 - Package: autoconf
@@ -1751,7 +1751,7 @@
   Description: exFAT filesystem userspace utilities
   Homepage: https://github.com/exfatprogs/exfatprogs
 - Package: exhale
-  Version: 1.2.2RC
+  Version: 1.2.2RC+really1.2.2
   Description: Open source xHE-AAC encoder
   Homepage: https://gitlab.com/ecodis/exhale
 - Package: exiftool
@@ -1815,7 +1815,7 @@
   Description: Efficient Duplicate File Finder
   Homepage: https://github.com/pkolaczk/fclones
 - Package: fcp
-  Version: 0.2.1-3
+  Version: 0.2.1-4
   Description: A significantly faster alternative to the classic Unix cp(1) command
   Homepage: https://github.com/Svetlitski/fcp
 - Package: fd
@@ -2355,11 +2355,11 @@
   Description: Interpreter for the Glulx portable VM for interactive fiction (IF) games
   Homepage: https://www.eblong.com/zarf/glulx/
 - Package: gmic
-  Version: 3.5.3-3
+  Version: 3.6.6
   Description: Full-featured framework for image processing
   Homepage: https://gmic.eu
 - Package: gmic-gm
-  Version: 3.5.3-3
+  Version: 3.6.6
   Description: Full-featured framework for image processing (GraphicsMagick variant)
   Homepage: https://gmic.eu
 - Package: gn
@@ -2903,7 +2903,7 @@
   Description: A command-line benchmarking tool
   Homepage: https://github.com/sharkdp/hyperfine
 - Package: hz
-  Version: 0.10.1-1
+  Version: 0.10.3
   Description: A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices
   Homepage: https://www.cloudwego.io
 - Package: i2pd
@@ -5363,11 +5363,11 @@
   Description: Reference implementation of a wayland compositor
   Homepage: https://sr.ht/~kennylevinsen/seatd/
 - Package: libseccomp
-  Version: 2.5.5-5
+  Version: 2.6.0
   Description: Enhanced seccomp library
   Homepage: https://github.com/seccomp/libseccomp
 - Package: libseccomp-static
-  Version: 2.5.5-5
+  Version: 2.6.0
   Description: Static libraries for libseccomp
   Homepage: https://github.com/seccomp/libseccomp
 - Package: libsecp256k1
@@ -5747,7 +5747,7 @@
   Description: Static libraries for libtsduck
   Homepage: https://tsduck.io/
 - Package: libtvision
-  Version: 2023.01.29-1
+  Version: 2025.10.31
   Description: A modern port of Turbo Vision 2.0 with Unicode support
   Homepage: https://github.com/magiblot/tvision
 - Package: libtwolame
@@ -6343,7 +6343,7 @@
   Description: Static libraries for lowdown
   Homepage: https://kristaps.bsd.lv/lowdown
 - Package: lr
-  Version: 2.0.1
+  Version: 2.0.1-1
   Description: list files, recursively, includes the best features of ls, find, stat and du
   Homepage: https://git.vuxu.org/lr/about/
 - Package: lrzip
@@ -6859,7 +6859,7 @@
   Description: A growing collection of the unix tools that nobody thought to write thirty years ago
   Homepage: https://joeyh.name/code/moreutils/
 - Package: moria
-  Version: 5.7.15-6
+  Version: 5.7.15-7
   Description: Rogue-like game with an infinite dungeon
   Homepage: https://umoria.org
 - Package: morse2ascii
@@ -7151,11 +7151,11 @@
   Description: nerdfix helps you to find/fix obsolete Nerd Font icons in your project.
   Homepage: https://github.com/loichyan/nerdfix
 - Package: net-snmp
-  Version: 5.9.4-1
+  Version: 5.9.5.2
   Description: Various tools relating to the Simple Network Management Protocol
   Homepage: http://www.net-snmp.org/
 - Package: net-snmp-static
-  Version: 5.9.4-1
+  Version: 5.9.5.2
   Description: Static libraries for net-snmp
   Homepage: http://www.net-snmp.org/
 - Package: net-tools
@@ -7271,15 +7271,15 @@
   Description: Open Source, cross-platform JavaScript runtime environment
   Homepage: https://nodejs.org/
 - Package: notcurses
-  Version: 3.0.17-1
+  Version: 3.0.17-2
   Description: blingful TUIs and character graphics
   Homepage: https://notcurses.com/
 - Package: notcurses-data
-  Version: 3.0.17-1
+  Version: 3.0.17-2
   Description: Platform-independent data for notcurses
   Homepage: https://notcurses.com/
 - Package: notcurses-tools
-  Version: 3.0.17-1
+  Version: 3.0.17-2
   Description: Tools and demos for notcurses
   Homepage: https://notcurses.com/
 - Package: notmuch
@@ -8247,7 +8247,7 @@
   Description: Cross-platform, high performance ML inferencing and training accelerator
   Homepage: https://onnxruntime.ai/
 - Package: python-pillow
-  Version: 12.0.0
+  Version: 12.1.0
   Description: Python Imaging Library
   Homepage: https://python-pillow.org/
 - Package: python-pip
@@ -8559,7 +8559,7 @@
   Description: A daemon that allows using a personal Discord account through an IRC client
   Homepage: https://github.com/mk-fg/reliable-discord-client-irc-daemon
 - Package: rdrview
-  Version: 1:0.1.5
+  Version: 1:0.1.5-1
   Description: Command line tool to extract the main content from a webpage
   Homepage: https://github.com/eafer/rdrview
 - Package: re2c
@@ -8715,7 +8715,7 @@
   Description: RPM Package Manager
   Homepage: https://rpm.org/
 - Package: rq
-  Version: 1.0.4-1
+  Version: 1.0.4-2
   Description: A tool for doing record analysis and transformation
   Homepage: https://github.com/dflemstr/rq
 - Package: rsgain
@@ -8739,7 +8739,7 @@
   Description: Static libraries for rtmpdump
   Homepage: https://rtmpdump.mplayerhq.hu/
 - Package: rtorrent
-  Version: 0.16.3
+  Version: 0.16.5
   Description: Ncurses BitTorrent client based on libTorrent
   Homepage: https://rakshasa.github.io/rtorrent/
 - Package: rubberband
@@ -9231,11 +9231,11 @@
   Description: SPIR-V Tools
   Homepage: https://github.com/KhronosGroup/SPIRV-Tools
 - Package: sqlcipher
-  Version: 4.6.1-1
+  Version: 4.12.0
   Description: SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files
   Homepage: https://github.com/sqlcipher/sqlcipher
 - Package: sqlcipher-static
-  Version: 4.6.1-1
+  Version: 4.12.0
   Description: Static libraries for sqlcipher
   Homepage: https://github.com/sqlcipher/sqlcipher
 - Package: sqlite
@@ -9479,11 +9479,11 @@
   Description: Generate scripting interfaces to C/C++ code
   Homepage: https://swig.org
 - Package: swtpm
-  Version: 0.10.1-1
+  Version: 0.10.1-2
   Description: Software TPM Emulator
   Homepage: https://github.com/stefanberger/swtpm
 - Package: swtpm-static
-  Version: 0.10.1-1
+  Version: 0.10.1-2
   Description: Static libraries for swtpm
   Homepage: https://github.com/stefanberger/swtpm
 - Package: syncthing
@@ -9523,7 +9523,7 @@
   Description: Shell command wrapping Taskwarrior commands
   Homepage: https://taskwarrior.org
 - Package: taskwarrior
-  Version: 3.4.2-1
+  Version: 3.4.2-2
   Description: Utility for managing your TODO list
   Homepage: https://taskwarrior.org
 - Package: tcc
@@ -9815,7 +9815,7 @@
   Description: A blazingly fast CLOC (Count Lines Of Code) program
   Homepage: https://github.com/XAMPPRocky/tokei
 - Package: tome2
-  Version: 2022.12.27-6
+  Version: 2025.12.13
   Description: An open world roguelike adventure set in middle earth
   Homepage: https://github.com/tome2/tome2
 - Package: toml11
@@ -9915,7 +9915,7 @@
   Description: A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW
   Homepage: https://p4gefau1t.github.io/trojan-go
 - Package: trunk
-  Version: 0.21.14
+  Version: 0.21.14-1
   Description: Build, bundle & ship your Rust WASM application to the web
   Homepage: https://trunkrs.dev/
 - Package: trurl
@@ -10523,7 +10523,7 @@
   Description: Wireguard client that exposes itself as a socks5 proxy
   Homepage: https://github.com/pufferffish/wireproxy
 - Package: wiz
-  Version: 2022.06.02-1
+  Version: 2025.04.10
   Description: A high-level assembly language for writing homebrew software for retro console platforms
   Homepage: http://wiz-lang.org/
 - Package: woff2
