@@ -10717,7 +10717,13 @@
   },
   {
     "Package": "neovim",
-    "Version": "0.11.5",
+    "Version": "0.11.5-1",
+    "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim)",
+    "Homepage": "https://neovim.io/"
+  },
+  {
+    "Package": "neovim-nightly",
+    "Version": "0.12.0~dev-1950+g147190d8e7-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim)",
     "Homepage": "https://neovim.io/"
   },
