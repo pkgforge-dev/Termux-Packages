@@ -1324,8 +1324,8 @@
 | **librinutils** | 0.10.3 | A C11 / gnu11 utilities C library | https://github.com/shlomif/rinutils |
 | **librnnoise** | 0.2-1 | RNN-based noise suppression | https://jmvalin.ca/demo/rnnoise/ |
 | **librnnoise-static** | 0.2-1 | Static libraries for librnnoise | https://jmvalin.ca/demo/rnnoise/ |
-| **librocksdb** | 8.11.3-1 | A persistent key-value store for flash and RAM storage | https://rocksdb.org/ |
-| **librocksdb-static** | 8.11.3-1 | Static libraries for librocksdb | https://rocksdb.org/ |
+| **librocksdb** | 8.11.3-2 | A persistent key-value store for flash and RAM storage | https://rocksdb.org/ |
+| **librocksdb-static** | 8.11.3-2 | Static libraries for librocksdb | https://rocksdb.org/ |
 | **librsvg** | 2.61.3 | Library to render SVG files using cairo | https://wiki.gnome.org/action/show/Projects/LibRsvg |
 | **librsync** | 2.3.4-1 | Remote delta-compression library | https://github.com/librsync/librsync |
 | **librtmidi** | 5.0.0-3 | A set of C++ classes that provides a common API for realtime MIDI input/output | https://www.music.mcgill.ca/~gary/rtmidi/ |
@@ -1548,7 +1548,7 @@
 | **libyaml-static** | 0.2.5-5 | Static libraries for libyaml | https://pyyaml.org/wiki/LibYAML |
 | **libzen** | 0.4.41-1 | ZenLib C++ utility library | https://mediaarea.net/en/MediaInfo |
 | **libzen-static** | 0.4.41-1 | Static libraries for libzen | https://mediaarea.net/en/MediaInfo |
-| **libzim** | 9.4.0-1 | The ZIM library is the reference implementation for the ZIM file format. | https://openzim.org |
+| **libzim** | 9.4.1 | The ZIM library is the reference implementation for the ZIM file format. | https://openzim.org |
 | **libzimg** | 3.0.6 | Scaling, colorspace conversion, and dithering library | https://github.com/sekrit-twc/zimg |
 | **libzimg-static** | 3.0.6 | Static libraries for libzimg | https://github.com/sekrit-twc/zimg |
 | **libzip** | 1.11.4-1 | Library for reading, creating, and modifying zip archives | https://libzip.org/ |
@@ -1603,6 +1603,7 @@
 | **lua53-lpeg** | 1.1.0-3 | Pattern-matching library for Lua 5.3 | https://www.inf.puc-rio.br/~roberto/lpeg |
 | **lua54** | 5.4.8-3 | Simple, extensible, embeddable programming language | https://www.lua.org/ |
 | **luajit** | 1:2.1.1765228720+g7152e15 | Just-In-Time compiler for Lua - command line tool | https://luajit.org/ |
+| **luajit-lgi** | 0.9.2 | Dynamic Lua binding to GObject libraries using GObject-Introspection | https://github.com/lgi-devs/lgi |
 | **luarocks** | 3.13.0 | Deployment and management system for Lua modules | https://luarocks.org/ |
 | **luv** | 1.51.0-1-1 | Bare libuv bindings for lua | https://github.com/luvit/luv |
 | **luvi** | 1:2.15.0-1 | A project in-between luv and luvit | https://luvit.io |
@@ -1681,7 +1682,7 @@
 | **mg** | 20250523 | microscopic GNU Emacs-style editor | https://github.com/hboetes/mg |
 | **micro** | 2.0.15 | Modern and intuitive terminal-based text editor | https://micro-editor.github.io/ |
 | **microsocks** | 1:1.0.5-1 | tiny, portable SOCKS5 server with very moderate resource usage | https://github.com/rofl0r/microsocks |
-| **miller** | 6.15.0 | Like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON | https://miller.readthedocs.io/ |
+| **miller** | 6.16.0 | Like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON | https://miller.readthedocs.io/ |
 | **mimetic** | 0.9.8-2 | A C++ Email library (MIME) | https://www.codesink.org/mimetic_mime_library.html |
 | **mimetic-static** | 0.9.8-2 | Static libraries for mimetic | https://www.codesink.org/mimetic_mime_library.html |
 | **minesweeper** | 0.3.1-4 | A simple terminal-based implementation of Minesweeper | https://github.com/benhsm/minesweeper |
@@ -2487,6 +2488,8 @@
 | **tsocks** | 1.8beta5-5 | transparent network access through a SOCKS 4 or 5 proxy | http://tsocks.sf.net |
 | **tsu** | 8.6.0-1 | A su wrapper for Termux | https://github.com/cswl/tsu |
 | **ttf-dejavu** | 2.37-8 | Font family based on the Bitstream Vera Fonts with a wider range of characters | https://dejavu-fonts.github.io/ |
+| **ttf-jetbrains-mono** | 2.304 | A free and open-source typeface for developers | https://www.jetbrains.com/lp/mono/ |
+| **ttf-nerd-fonts-symbols** | 3.4.0 | Symbols-only font containing the Nerd Font icons | https://www.nerdfonts.com/ |
 | **tty-clock** | 2.3-2 | Simple terminal clock | https://github.com/xorg62/tty-clock |
 | **tty-solitaire** | 1.4.1-1 | Klondike solitaire game | https://github.com/mpereira/tty-solitaire |
 | **ttyc** | 0.4-4 | ttyd protocol client | https://github.com/Depau/ttyc |

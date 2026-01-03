@@ -7957,13 +7957,13 @@
   },
   {
     "Package": "librocksdb",
-    "Version": "8.11.3-1",
+    "Version": "8.11.3-2",
     "Description": "A persistent key-value store for flash and RAM storage",
     "Homepage": "https://rocksdb.org/"
   },
   {
     "Package": "librocksdb-static",
-    "Version": "8.11.3-1",
+    "Version": "8.11.3-2",
     "Description": "Static libraries for librocksdb",
     "Homepage": "https://rocksdb.org/"
   },
@@ -9301,7 +9301,7 @@
   },
   {
     "Package": "libzim",
-    "Version": "9.4.0-1",
+    "Version": "9.4.1",
     "Description": "The ZIM library is the reference implementation for the ZIM file format.",
     "Homepage": "https://openzim.org"
   },
@@ -9628,6 +9628,12 @@
     "Version": "1:2.1.1765228720+g7152e15",
     "Description": "Just-In-Time compiler for Lua - command line tool",
     "Homepage": "https://luajit.org/"
+  },
+  {
+    "Package": "luajit-lgi",
+    "Version": "0.9.2",
+    "Description": "Dynamic Lua binding to GObject libraries using GObject-Introspection",
+    "Homepage": "https://github.com/lgi-devs/lgi"
   },
   {
     "Package": "luarocks",
@@ -10099,7 +10105,7 @@
   },
   {
     "Package": "miller",
-    "Version": "6.15.0",
+    "Version": "6.16.0",
     "Description": "Like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON",
     "Homepage": "https://miller.readthedocs.io/"
   },
@@ -14932,6 +14938,18 @@
     "Version": "2.37-8",
     "Description": "Font family based on the Bitstream Vera Fonts with a wider range of characters",
     "Homepage": "https://dejavu-fonts.github.io/"
+  },
+  {
+    "Package": "ttf-jetbrains-mono",
+    "Version": "2.304",
+    "Description": "A free and open-source typeface for developers",
+    "Homepage": "https://www.jetbrains.com/lp/mono/"
+  },
+  {
+    "Package": "ttf-nerd-fonts-symbols",
+    "Version": "3.4.0",
+    "Description": "Symbols-only font containing the Nerd Font icons",
+    "Homepage": "https://www.nerdfonts.com/"
   },
   {
     "Package": "tty-clock",
