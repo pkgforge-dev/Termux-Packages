@@ -659,7 +659,7 @@
   Description: Roguelike dungeon crawling game (community edition)
   Homepage: https://sites.google.com/site/broguegame/
 - Package: brook
-  Version: "20260101"
+  Version: "20260101.0"
   Description: A cross-platform strong encryption and not detectable proxy. Zero-Configuration.
   Homepage: https://github.com/txthinking/brook
 - Package: broot
@@ -1251,7 +1251,7 @@
   Description: Raw digital camera images decoding utility
   Homepage: https://www.dechifro.org/dcraw/
 - Package: ddrescue
-  Version: 1.29.1-1
+  Version: "1.30"
   Description: GNU data recovery tool
   Homepage: https://www.gnu.org/software/ddrescue/
 - Package: debianutils
@@ -10227,8 +10227,12 @@
   Description: Static libraries for valgrind
   Homepage: https://valgrind.org/
 - Package: valkey
-  Version: 8.1.4-1
+  Version: 9.0.1
   Description: In-memory data structure store used as a database, cache and message broker
+  Homepage: https://valkey.io/
+- Package: valkey-static
+  Version: 9.0.1
+  Description: Static libraries for valkey
   Homepage: https://valkey.io/
 - Package: vamp-plugin-sdk
   Version: 2.10-3
