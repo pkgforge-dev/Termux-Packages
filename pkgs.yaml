@@ -371,7 +371,7 @@
   Description: AT and batch delayed command scheduling utility and daemon
   Homepage: https://salsa.debian.org/debian/at
 - Package: at-spi2-core
-  Version: 2.58.2
+  Version: 2.58.3
   Description: Assistive Technology Service Provider Interface (AT-SPI)
   Homepage: https://wiki.gnome.org/Accessibility
 - Package: atomicparsley
@@ -2423,7 +2423,7 @@
   Description: The GNUstep makefile package
   Homepage: https://www.gnustep.org
 - Package: gnutls
-  Version: 3.8.10
+  Version: 3.8.11
   Description: Commandline utilities for interfacing with the gnutls library
   Homepage: https://www.gnutls.org/
 - Package: go-findimagedupes
@@ -4211,11 +4211,11 @@
   Description: A library of general-purpose, non-graphical Objective C objects
   Homepage: https://www.gnustep.org
 - Package: libgnutls
-  Version: 3.8.10
+  Version: 3.8.11
   Description: Secure communications library implementing the SSL, TLS and DTLS protocols and technologies around them
   Homepage: https://www.gnutls.org/
 - Package: libgnutls-static
-  Version: 3.8.10
+  Version: 3.8.11
   Description: Static libraries for libgnutls
   Homepage: https://www.gnutls.org/
 - Package: libgpg-error
@@ -7359,7 +7359,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 28.9.0
+  Version: 28.10.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
