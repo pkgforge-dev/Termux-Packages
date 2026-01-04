@@ -2057,7 +2057,7 @@
 | **python-apt** | 3.1.0 | Python bindings for APT | https://apt-team.pages.debian.net/python-apt/ |
 | **python-bcrypt** | 5.0.0 | Acceptable password hashing for your software and your servers | https://github.com/pyca/bcrypt |
 | **python-brotli** | 1.2.0 | lossless compression algorithm and format (Python bindings) | https://github.com/google/brotli |
-| **python-cmake** | 4.2.0 | Python wrapper for CMake | https://cmake-python-distributions.readthedocs.io/ |
+| **python-cmake** | 4.2.1-1 | Python wrapper for CMake | https://cmake-python-distributions.readthedocs.io/ |
 | **python-contourpy** | 1.3.3-1 | Python library for calculating contours in 2D quadrilateral grids | https://contourpy.readthedocs.io/ |
 | **python-cryptography** | 46.0.3 | Provides cryptographic recipes and primitives to Python developers | https://github.com/pyca/cryptography |
 | **python-ensurepip-wheels** | 3.12.12 | Wheels for Python ensurepip | https://python.org/ |
