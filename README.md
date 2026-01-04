@@ -414,7 +414,7 @@
 | **e2tools** | 0.1.2-1 | mtools analogue for ext2/3 filesystems | https://github.com/e2tools/e2tools |
 | **ebook-tools** | 0.2.2-3 | Tools for accessing and converting various ebook file formats | https://sourceforge.net/projects/ebook-tools/ |
 | **ecj** | 1:4.12-5 | Eclipse Compiler for Java | https://www.eclipse.org/jdt/core/ |
-| **ed** | 1.22.3 | Classic UNIX line editor | https://www.gnu.org/software/ed/ |
+| **ed** | 1.22.4 | Classic UNIX line editor | https://www.gnu.org/software/ed/ |
 | **edbrowse** | 3.8.15 | Line based editor, browser, and mail client | https://edbrowse.org/ |
 | **editorconfig-core-c** | 0.12.10 | EditorConfig core code written in C (for use by plugins supporting EditorConfig parsing) | https://editorconfig.org/ |
 | **editorconfig-core-c-static** | 0.12.10 | Static libraries for editorconfig-core-c | https://editorconfig.org/ |
@@ -661,7 +661,7 @@
 | **grex** | 1.4.6 | Simplifies the task of creating regular expressions | https://github.com/pemistahl/grex |
 | **groff** | 1.23.0-2 | typesetting system that reads plain text mixed with formatting commands and produces formatted output | https://www.gnu.org/software/groff/ |
 | **gron** | 0.7.1-4 | Transforms JSON into discrete assignments | https://github.com/tomnomnom/gron |
-| **groonga** | 15.2.1 | An embeddable fulltext search engine | https://github.com/groonga/groonga/ |
+| **groonga** | 15.2.1-1 | An embeddable fulltext search engine | https://github.com/groonga/groonga/ |
 | **groovy** | 4.0.26-4 | A powerful multi-faceted programming language for the JVM platform | https://groovy-lang.org/ |
 | **gsasl** | 2.2.2-1 | GNU SASL library command line interface | https://www.gnu.org/software/gsasl |
 | **gsf-tools** | 1.14.54 | Command-line tools for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
@@ -752,8 +752,8 @@
 | **imagemagick-static** | 7.1.2.12 | Static libraries for imagemagick | https://www.imagemagick.org/ |
 | **imath** | 3.2.2 | Library for vector/matrix and math operations, plus the half type | https://imath.readthedocs.io/ |
 | **imgflo** | 0.4.2-9 | HTTP image processing server & Flowhub.io compatible runtime | https://github.com/imgflo/imgflo |
-| **imlib2** | 1.12.5-1 | Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support | https://sourceforge.net/projects/enlightenment/ |
-| **imlib2-static** | 1.12.5-1 | Static libraries for imlib2 | https://sourceforge.net/projects/enlightenment/ |
+| **imlib2** | 1.12.6 | Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support | https://sourceforge.net/projects/enlightenment/ |
+| **imlib2-static** | 1.12.6 | Static libraries for imlib2 | https://sourceforge.net/projects/enlightenment/ |
 | **indent** | 2.2.13-1 | C language source code formatting program | https://www.gnu.org/software/indent/ |
 | **inetutils** | 2.6-1 | Collection of common network programs | https://www.gnu.org/software/inetutils/ |
 | **influxdb** | 1.8.10-4 | An open source time series database with no external dependencies | https://www.influxdata.com/ |
@@ -838,7 +838,7 @@
 | **ladspa-sdk** | 1.17-2 | Linux Audio Developer's Simple Plugin API | https://www.ladspa.org/ |
 | **lame** | 3.100-7 | High quality MPEG Audio Layer III (MP3) encoder - frontend | https://lame.sourceforge.io/ |
 | **lastpass-cli** | 1.6.1-4 | LastPass command line interface tool | https://lastpass.com/ |
-| **lazygit** | 0.57.0 | Simple terminal UI for git commands | https://github.com/jesseduffield/lazygit |
+| **lazygit** | 0.58.0 | Simple terminal UI for git commands | https://github.com/jesseduffield/lazygit |
 | **lcal** | 2.1.0-1 | A multi-platform program which generates PostScript lunar calendars in a yearly format | https://pcal.sourceforge.net/ |
 | **ldc** | 1.30.0-2 | D programming language compiler, built with LLVM | https://github.com/ldc-developers/ldc |
 | **ldd** | 0.3 | Fake ldd command | https://github.com/termux/termux-packages |
@@ -1401,8 +1401,8 @@
 | **libssh** | 0.11.3 | Tiny C SSH library | https://www.libssh.org/ |
 | **libssh2** | 1.11.1-1 | Client-side library implementing the SSH2 protocol | https://www.libssh2.org |
 | **libssh2-static** | 1.11.1-1 | Static libraries for libssh2 | https://www.libssh2.org |
-| **libstemmer** | 2.2.0-2 | Snowball compiler and stemming algorithms | https://snowballstem.org/ |
-| **libstemmer-static** | 2.2.0-2 | Static libraries for libstemmer | https://snowballstem.org/ |
+| **libstemmer** | 3.0.1 | Snowball compiler and stemming algorithms | https://snowballstem.org/ |
+| **libstemmer-static** | 3.0.1 | Static libraries for libstemmer | https://snowballstem.org/ |
 | **libstrophe** | 0.14.0-2 | libstrophe is a minimal XMPP library written in C | https://strophe.im/libstrophe |
 | **libstrophe-static** | 0.14.0-2 | Static libraries for libstrophe | https://strophe.im/libstrophe |
 | **libt3config** | 1.0.0-2 | A library for reading and writing configuration files | https://os.ghalkes.nl/t3/libt3config.html |
@@ -1539,7 +1539,7 @@
 | **libxml2** | 2.15.1-1 | Library for parsing XML documents | https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home |
 | **libxml2-python** | 2.15.1-1 | Python bindings for libxml2 | https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home |
 | **libxml2-utils** | 2.15.1-1 | XML utilities | https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home |
-| **libxmlb** | 0.3.24 | Library to help create and query binary XML blobs | https://github.com/hughsie/libxmlb |
+| **libxmlb** | 0.3.24-1 | Library to help create and query binary XML blobs | https://github.com/hughsie/libxmlb |
 | **libxmlrpc** | 1.64.03 | XML-RPC for C and C++ | https://xmlrpc-c.sourceforge.io/ |
 | **libxmlrpc-static** | 1.64.03 | Static libraries for libxmlrpc | https://xmlrpc-c.sourceforge.io/ |
 | **libxrandr** | 1.5.4-1 | X11 RandR extension library | https://xorg.freedesktop.org/ |
@@ -2319,7 +2319,7 @@
 | **spirv-headers** | 1.4.335.0 | SPIR-V Headers | https://github.com/KhronosGroup/SPIRV-Headers |
 | **spirv-llvm-translator** | 21.1.3 | SPIR-V LLVM Translator | https://github.com/KhronosGroup/SPIRV-LLVM-Translator |
 | **spirv-tools** | 1.4.335.0 | SPIR-V Tools | https://github.com/KhronosGroup/SPIRV-Tools |
-| **sqlcipher** | 4.12.0 | SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files | https://github.com/sqlcipher/sqlcipher |
+| **sqlcipher** | 4.12.0-1 | SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files | https://github.com/sqlcipher/sqlcipher |
 | **sqlcipher-static** | 4.12.0 | Static libraries for sqlcipher | https://github.com/sqlcipher/sqlcipher |
 | **sqlite** | 3.51.1 | Command line shell for SQLite | https://www.sqlite.org |
 | **squashfs-tools-ng** | 1.3.2-1 | New set of tools for working with SquashFS images | https://github.com/AgentD/squashfs-tools-ng |
@@ -2344,7 +2344,7 @@
 | **stdman** | 2024.07.05 | Formatted C++23 stdlib man pages (cppreference) | https://github.com/jeaye/stdman |
 | **stdoutisatty** | 1.0-1 | Patch the isatty() calls for colored output in pipeline | https://github.com/lilydjwg/stdoutisatty |
 | **steghide** | 0.5.1-8 | Embeds a message in a file by replacing some of the least significant bits | https://steghide.sourceforge.net/ |
-| **stemwords** | 2.2.0-2 | A command-line tool which uses libstemmer | https://snowballstem.org/ |
+| **stemwords** | 3.0.1 | A command-line tool which uses libstemmer | https://snowballstem.org/ |
 | **step-cli** | 0.29.0 | An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows | https://smallstep.com/cli |
 | **stfl** | 0.24-7 | Structured Terminal Forms Language/Library | http://www.clifford.at/stfl |
 | **stfl-static** | 0.24-7 | Static libraries for stfl | http://www.clifford.at/stfl |
@@ -2458,7 +2458,7 @@
 | **tinygo-common** | 0.39.0-1 | TinyGo common files | https://tinygo.org |
 | **tinyproxy** | 1.11.2-1 | Light-weight HTTP proxy daemon for POSIX operating systems | https://tinyproxy.github.io/ |
 | **tinyscheme** | 1.42-2 | Very small scheme implementation | https://tinyscheme.sourceforge.net/home.html |
-| **tinysparql** | 3.9.2-2 | Desktop-neutral metadata-based search framework | https://gnome.pages.gitlab.gnome.org/tinysparql |
+| **tinysparql** | 3.10.1 | Desktop-neutral metadata-based search framework | https://gnome.pages.gitlab.gnome.org/tinysparql |
 | **tizonia** | 0.22.0-20 | A command-line streaming music client/server for Linux | https://github.com/tizonia/ |
 | **tk** | 8.6.14-1 | A windowing toolkit for use with tcl | https://tcl.sourceforge.net/ |
 | **tmate** | 2.4.0-3 | Terminal multiplexer with instant terminal sharing | https://tmate.io |
@@ -2617,7 +2617,7 @@
 | **walk** | 1.13.0 | A terminal file manager | https://github.com/antonmedv/walk |
 | **wasi-libc** | 29 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |
 | **wasm-component-ld** | 0.5.19 | Command line linker for creating WebAssembly components | https://github.com/bytecodealliance/wasm-component-ld |
-| **watchexec** | 2.3.0-1 | Executes commands in response to file modifications | https://github.com/watchexec/watchexec |
+| **watchexec** | 2.3.2 | Executes commands in response to file modifications | https://github.com/watchexec/watchexec |
 | **wavpack** | 5.8.1-1 | WavPack command-line programs | https://www.wavpack.com/ |
 | **waypipe** | 0.10.6 | A proxy for Wayland clients | https://gitlab.freedesktop.org/mstoeckl/waypipe |
 | **wcalc** | 2.5-6 | Capable calculator | https://w-calc.sourceforge.net |

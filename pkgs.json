@@ -2425,7 +2425,7 @@
   },
   {
     "Package": "ed",
-    "Version": "1.22.3",
+    "Version": "1.22.4",
     "Description": "Classic UNIX line editor",
     "Homepage": "https://www.gnu.org/software/ed/"
   },
@@ -3907,7 +3907,7 @@
   },
   {
     "Package": "groonga",
-    "Version": "15.2.1",
+    "Version": "15.2.1-1",
     "Description": "An embeddable fulltext search engine",
     "Homepage": "https://github.com/groonga/groonga/"
   },
@@ -4453,13 +4453,13 @@
   },
   {
     "Package": "imlib2",
-    "Version": "1.12.5-1",
+    "Version": "1.12.6",
     "Description": "Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support",
     "Homepage": "https://sourceforge.net/projects/enlightenment/"
   },
   {
     "Package": "imlib2-static",
-    "Version": "1.12.5-1",
+    "Version": "1.12.6",
     "Description": "Static libraries for imlib2",
     "Homepage": "https://sourceforge.net/projects/enlightenment/"
   },
@@ -4969,7 +4969,7 @@
   },
   {
     "Package": "lazygit",
-    "Version": "0.57.0",
+    "Version": "0.58.0",
     "Description": "Simple terminal UI for git commands",
     "Homepage": "https://github.com/jesseduffield/lazygit"
   },
@@ -8347,13 +8347,13 @@
   },
   {
     "Package": "libstemmer",
-    "Version": "2.2.0-2",
+    "Version": "3.0.1",
     "Description": "Snowball compiler and stemming algorithms",
     "Homepage": "https://snowballstem.org/"
   },
   {
     "Package": "libstemmer-static",
-    "Version": "2.2.0-2",
+    "Version": "3.0.1",
     "Description": "Static libraries for libstemmer",
     "Homepage": "https://snowballstem.org/"
   },
@@ -9175,7 +9175,7 @@
   },
   {
     "Package": "libxmlb",
-    "Version": "0.3.24",
+    "Version": "0.3.24-1",
     "Description": "Library to help create and query binary XML blobs",
     "Homepage": "https://github.com/hughsie/libxmlb"
   },
@@ -13855,7 +13855,7 @@
   },
   {
     "Package": "sqlcipher",
-    "Version": "4.12.0",
+    "Version": "4.12.0-1",
     "Description": "SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files",
     "Homepage": "https://github.com/sqlcipher/sqlcipher"
   },
@@ -14005,7 +14005,7 @@
   },
   {
     "Package": "stemwords",
-    "Version": "2.2.0-2",
+    "Version": "3.0.1",
     "Description": "A command-line tool which uses libstemmer",
     "Homepage": "https://snowballstem.org/"
   },
@@ -14689,7 +14689,7 @@
   },
   {
     "Package": "tinysparql",
-    "Version": "3.9.2-2",
+    "Version": "3.10.1",
     "Description": "Desktop-neutral metadata-based search framework",
     "Homepage": "https://gnome.pages.gitlab.gnome.org/tinysparql"
   },
@@ -15643,7 +15643,7 @@
   },
   {
     "Package": "watchexec",
-    "Version": "2.3.0-1",
+    "Version": "2.3.2",
     "Description": "Executes commands in response to file modifications",
     "Homepage": "https://github.com/watchexec/watchexec"
   },
