@@ -1062,7 +1062,7 @@
 | **libgmp** | 6.3.0-2 | Library for arbitrary precision arithmetic | https://gmplib.org/ |
 | **libgmp-static** | 6.3.0-2 | Static libraries for libgmp | https://gmplib.org/ |
 | **libgnt** | 2.14.4-2 | An ncurses toolkit for creating text-mode graphical user interfaces in a fast and easy way | https://keep.imfreedom.org/libgnt/libgnt |
-| **libgnustep-base** | 1.31.1-3 | A library of general-purpose, non-graphical Objective C objects | https://www.gnustep.org |
+| **libgnustep-base** | 1.31.1-4 | A library of general-purpose, non-graphical Objective C objects | https://www.gnustep.org |
 | **libgnutls** | 3.8.11 | Secure communications library implementing the SSL, TLS and DTLS protocols and technologies around them | https://www.gnutls.org/ |
 | **libgnutls-static** | 3.8.11 | Static libraries for libgnutls | https://www.gnutls.org/ |
 | **libgpg-error** | 1.55-1 | Small library that defines common error values for all GnuPG components | https://www.gnupg.org/related_software/libgpg-error/ |
