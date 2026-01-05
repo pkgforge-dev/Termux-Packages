@@ -1211,7 +1211,7 @@
   Description: A simple webserver, implemented in a single .c file.
   Homepage: https://unix4lyfe.org/darkhttpd
 - Package: dasel
-  Version: 3.2.0
+  Version: 3.2.1
   Description: Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility
   Homepage: https://github.com/TomWright/dasel
 - Package: dash
@@ -1555,7 +1555,7 @@
   Description: A small, configurable console text editor
   Homepage: https://craigbarnes.gitlab.io/dte/
 - Package: dua
-  Version: 2.32.2
+  Version: 2.33.0
   Description: View disk space usage and delete unwanted data, fast
   Homepage: https://github.com/Byron/dua-cli
 - Package: duc
@@ -2727,7 +2727,7 @@
   Description: A toolkit for creating structured configuration languages
   Homepage: https://github.com/hashicorp/hcl
 - Package: hcloud
-  Version: 1.58.0
+  Version: 1.59.0
   Description: Hetzner Cloud command line client
   Homepage: https://github.com/hetznercloud/cli
 - Package: helix
@@ -10411,7 +10411,7 @@
   Description: Libc for WebAssembly programs built on top of WASI system calls
   Homepage: https://wasi.dev/
 - Package: wasm-component-ld
-  Version: 0.5.19
+  Version: 0.5.20
   Description: Command line linker for creating WebAssembly components
   Homepage: https://github.com/bytecodealliance/wasm-component-ld
 - Package: watchexec

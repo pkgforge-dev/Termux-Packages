@@ -313,7 +313,7 @@
 | **dar** | 2.8.2 | A full featured command-line backup tool, short for Disk ARchive | http://dar.linux.free.fr/ |
 | **dar-static** | 2.8.2 | Static libraries for dar | http://dar.linux.free.fr/ |
 | **darkhttpd** | 1.17-1 | A simple webserver, implemented in a single .c file. | https://unix4lyfe.org/darkhttpd |
-| **dasel** | 3.2.0 | Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility | https://github.com/TomWright/dasel |
+| **dasel** | 3.2.1 | Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility | https://github.com/TomWright/dasel |
 | **dash** | 0.5.12-1 | Small POSIX-compliant implementation of /bin/sh | http://gondor.apana.org.au/~herbert/dash/ |
 | **dasm** | 2.20.14.1-1 | Macro assembler with support for several 8-bit microprocessors | https://dasm-dillon.sourceforge.io/ |
 | **datamash** | 1.9-1 | Program performing numeric, textual and statistical operations | https://www.gnu.org/software/datamash/ |
@@ -399,7 +399,7 @@
 | **dtc** | 1.7.2-2 | Device Tree Compiler | https://git.kernel.org/pub/scm/utils/dtc/dtc |
 | **dtc-static** | 1.7.2-2 | Static libraries for dtc | https://git.kernel.org/pub/scm/utils/dtc/dtc |
 | **dte** | 1.11.1-2 | A small, configurable console text editor | https://craigbarnes.gitlab.io/dte/ |
-| **dua** | 2.32.2 | View disk space usage and delete unwanted data, fast | https://github.com/Byron/dua-cli |
+| **dua** | 2.33.0 | View disk space usage and delete unwanted data, fast | https://github.com/Byron/dua-cli |
 | **duc** | 1.4.6 | High-performance disk usage analyzer | http://duc.zevv.nl/ |
 | **duckdb** | 1.4.3 | DuckDB Command Line Interface (CLI) shell | https://duckdb.org/ |
 | **duf** | 0.9.1 | Disk usage/free utility | https://github.com/muesli/duf |
@@ -692,7 +692,7 @@
 | **hash-slinger** | 3.4 | Various tools to generate special DNS records | https://github.com/letoams/hash-slinger |
 | **hashdeep** | 4.4-9 | Programs to compute hashsums of arbitrary number of files recursively | https://md5deep.sourceforge.net/ |
 | **hcl** | 2.24.0-1 | A toolkit for creating structured configuration languages | https://github.com/hashicorp/hcl |
-| **hcloud** | 1.58.0 | Hetzner Cloud command line client | https://github.com/hetznercloud/cli |
+| **hcloud** | 1.59.0 | Hetzner Cloud command line client | https://github.com/hetznercloud/cli |
 | **helix** | 25.07.1-1 | A post-modern modal text editor written in rust | https://helix-editor.com/ |
 | **helix-grammars** | 25.07.1-1 | Helix grammars | https://helix-editor.com/ |
 | **hello** | 2.12.2 | Prints a friendly greeting | https://www.gnu.org/software/hello/ |
@@ -2613,7 +2613,7 @@
 | **wakatime-cli** | 1.132.1 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
 | **walk** | 1.13.0 | A terminal file manager | https://github.com/antonmedv/walk |
 | **wasi-libc** | 29 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |
-| **wasm-component-ld** | 0.5.19 | Command line linker for creating WebAssembly components | https://github.com/bytecodealliance/wasm-component-ld |
+| **wasm-component-ld** | 0.5.20 | Command line linker for creating WebAssembly components | https://github.com/bytecodealliance/wasm-component-ld |
 | **watchexec** | 2.3.2 | Executes commands in response to file modifications | https://github.com/watchexec/watchexec |
 | **wavpack** | 5.8.1-1 | WavPack command-line programs | https://www.wavpack.com/ |
 | **waypipe** | 0.11.0 | A proxy for Wayland clients | https://gitlab.freedesktop.org/mstoeckl/waypipe |
