@@ -2103,7 +2103,7 @@
   Description: Program for calculating and printing calendars
   Homepage: https://www.gnu.org/software/gcal/
 - Package: gdal
-  Version: 3.12.1
+  Version: 3.12.1-1
   Description: A translator library for raster and vector geospatial data formats
   Homepage: https://gdal.org
 - Package: gdb
@@ -4147,7 +4147,7 @@
   Description: Static libraries for libgee
   Homepage: https://wiki.gnome.org/Projects/Libgee
 - Package: libgeos
-  Version: 3.13.1
+  Version: 3.14.1
   Description: Geometry Engine, C++ port of the Java Topology Suite
   Homepage: https://geos.osgeo.org/
 - Package: libgeotiff
@@ -5327,11 +5327,11 @@
   Description: A set of C++ classes that provides a common API for realtime MIDI input/output
   Homepage: https://www.music.mcgill.ca/~gary/rtmidi/
 - Package: librttopo
-  Version: 1.1.0-4
+  Version: 1.1.0-5
   Description: The RT Topology Library exposes an API to create and manage standard topologies
   Homepage: https://git.osgeo.org/gitea/rttopo/librttopo
 - Package: librttopo-static
-  Version: 1.1.0-4
+  Version: 1.1.0-5
   Description: Static libraries for librttopo
   Homepage: https://git.osgeo.org/gitea/rttopo/librttopo
 - Package: libsamplerate
@@ -5499,11 +5499,11 @@
   Description: C++ implementation of R*-tree, an MVR-tree and a TPR-tree with C API
   Homepage: https://libspatialindex.github.io
 - Package: libspatialite
-  Version: 5.1.0-2
+  Version: 5.1.0-3
   Description: SQLite extension to support spatial data types and operations
   Homepage: https://www.gaia-gis.it/fossil/libspatialite
 - Package: libspatialite-static
-  Version: 5.1.0-2
+  Version: 5.1.0-3
   Description: Static libraries for libspatialite
   Homepage: https://www.gaia-gis.it/fossil/libspatialite
 - Package: libspdlog
@@ -6523,7 +6523,7 @@
   Description: Man pages for linux kernel and C library interfaces
   Homepage: https://www.kernel.org/doc/man-pages/
 - Package: mapserver
-  Version: 8.2.2-3
+  Version: 8.2.2-4
   Description: MapServer is CGI-based platform for publishing spatial data and interactive mapping applications to the web
   Homepage: https://mapserver.org/
 - Package: mariadb
@@ -7995,7 +7995,7 @@
   Description: Aims to bring back the posix profile for Vala
   Homepage: https://github.com/radare/posixvala
 - Package: postgis
-  Version: 3.6.1
+  Version: 3.6.1-1
   Description: Spatial database extender for PostgreSQL object-relational database
   Homepage: https://postgis.net
 - Package: postgresql

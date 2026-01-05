@@ -3157,7 +3157,7 @@
   },
   {
     "Package": "gdal",
-    "Version": "3.12.1",
+    "Version": "3.12.1-1",
     "Description": "A translator library for raster and vector geospatial data formats",
     "Homepage": "https://gdal.org"
   },
@@ -6223,7 +6223,7 @@
   },
   {
     "Package": "libgeos",
-    "Version": "3.13.1",
+    "Version": "3.14.1",
     "Description": "Geometry Engine, C++ port of the Java Topology Suite",
     "Homepage": "https://geos.osgeo.org/"
   },
@@ -7993,13 +7993,13 @@
   },
   {
     "Package": "librttopo",
-    "Version": "1.1.0-4",
+    "Version": "1.1.0-5",
     "Description": "The RT Topology Library exposes an API to create and manage standard topologies",
     "Homepage": "https://git.osgeo.org/gitea/rttopo/librttopo"
   },
   {
     "Package": "librttopo-static",
-    "Version": "1.1.0-4",
+    "Version": "1.1.0-5",
     "Description": "Static libraries for librttopo",
     "Homepage": "https://git.osgeo.org/gitea/rttopo/librttopo"
   },
@@ -8251,13 +8251,13 @@
   },
   {
     "Package": "libspatialite",
-    "Version": "5.1.0-2",
+    "Version": "5.1.0-3",
     "Description": "SQLite extension to support spatial data types and operations",
     "Homepage": "https://www.gaia-gis.it/fossil/libspatialite"
   },
   {
     "Package": "libspatialite-static",
-    "Version": "5.1.0-2",
+    "Version": "5.1.0-3",
     "Description": "Static libraries for libspatialite",
     "Homepage": "https://www.gaia-gis.it/fossil/libspatialite"
   },
@@ -9787,7 +9787,7 @@
   },
   {
     "Package": "mapserver",
-    "Version": "8.2.2-3",
+    "Version": "8.2.2-4",
     "Description": "MapServer is CGI-based platform for publishing spatial data and interactive mapping applications to the web",
     "Homepage": "https://mapserver.org/"
   },
@@ -11995,7 +11995,7 @@
   },
   {
     "Package": "postgis",
-    "Version": "3.6.1",
+    "Version": "3.6.1-1",
     "Description": "Spatial database extender for PostgreSQL object-relational database",
     "Homepage": "https://postgis.net"
   },
