@@ -2494,6 +2494,10 @@
   Version: 0.21.0
   Description: The official Go language server
   Homepage: https://github.com/golang/tools
+- Package: goresym
+  Version: 3.1.2
+  Description: Go symbol recovery tool
+  Homepage: https://github.com/mandiant/GoReSym
 - Package: gost
   Version: 2.12.0
   Description: GO Simple Tunnel - a simple tunnel written in golang
@@ -7147,7 +7151,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.12.0~dev-1953+g715015d3b2-0
+  Version: 0.12.0~dev-1961+gdf62cb3e69-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: nerdfix
