@@ -2018,7 +2018,7 @@
 | **povray** | 3.8.0-beta.2-17 | The Persistence of Vision Raytracer | https://www.povray.org/ |
 | **povray-data** | 3.8.0-beta.2-17 | Platform-independent data for povray | https://www.povray.org/ |
 | **predict** | 2.3.1-3 | A Satellite Tracking/Orbital Prediction Program | https://www.qsl.net/kd2bd/predict.html |
-| **privoxy** | 4.0.0 | Non-caching web proxy with advanced filtering capabilities | https://www.privoxy.org |
+| **privoxy** | 4.0.0-1 | Non-caching web proxy with advanced filtering capabilities | https://www.privoxy.org |
 | **procps** | 3.3.17-6 | Utilities that give information about processes using the /proc filesystem | https://gitlab.com/procps-ng/procps |
 | **procps-static** | 3.3.17-6 | Static libraries for procps | https://gitlab.com/procps-ng/procps |
 | **procs** | 0.14.10-1 | A modern replacement for ps | https://github.com/dalance/procs |
@@ -2451,8 +2451,8 @@
 | **tin-summer** | 1.21.14-1 | Find build artifacts that are taking up disk space | https://github.com/vmchale/tin-summer |
 | **tintin++** | 2.02.60 | Classic text-based MUD client | https://tintin.mudhalla.net |
 | **tinyfugue** | 5.0b8-4 | Flexible, screen-oriented MUD client, for use with any type of MUD | https://tinyfugue.sourceforge.net/ |
-| **tinygo** | 0.39.0-1 | Go compiler for microcontrollers, WASM, CLI tools | https://tinygo.org |
-| **tinygo-common** | 0.39.0-1 | TinyGo common files | https://tinygo.org |
+| **tinygo** | 0.40.1 | Go compiler for microcontrollers, WASM, CLI tools | https://tinygo.org |
+| **tinygo-common** | 0.40.1 | TinyGo common files | https://tinygo.org |
 | **tinyproxy** | 1.11.2-1 | Light-weight HTTP proxy daemon for POSIX operating systems | https://tinyproxy.github.io/ |
 | **tinyscheme** | 1.42-2 | Very small scheme implementation | https://tinyscheme.sourceforge.net/home.html |
 | **tinysparql** | 3.10.1 | Desktop-neutral metadata-based search framework | https://gnome.pages.gitlab.gnome.org/tinysparql |
