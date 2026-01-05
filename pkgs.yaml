@@ -1511,7 +1511,7 @@
   Description: Binary-decimal and decimal-binary routines for IEEE doubles
   Homepage: https://github.com/google/double-conversion
 - Package: doxygen
-  Version: 1.15.0
+  Version: 1.16.0
   Description: A documentation system for C++, C, Java, IDL and PHP
   Homepage: http://www.doxygen.org
 - Package: dpkg
@@ -2191,11 +2191,11 @@
   Description: A GObject-based Exiv2 wrapper
   Homepage: https://wiki.gnome.org/Projects/gexiv2
 - Package: gflags
-  Version: 2.2.2-11
+  Version: 2.3.0
   Description: A C++ library that implements commandline flags processing
   Homepage: https://github.com/gflags/gflags
 - Package: gflags-static
-  Version: 2.2.2-11
+  Version: 2.3.0
   Description: Static libraries for gflags
   Homepage: https://github.com/gflags/gflags
 - Package: gforth
@@ -2471,7 +2471,7 @@
   Description: Bash scripts to upload files to google drive
   Homepage: https://github.com/labbots/google-drive-upload
 - Package: google-glog
-  Version: 0.7.1-1
+  Version: 0.7.1-2
   Description: Logging library for C++
   Homepage: https://github.com/google/glog
 - Package: googletest
@@ -3719,7 +3719,7 @@
   Description: Static libraries for libcec
   Homepage: https://libcec.pulse-eight.com/
 - Package: libceres-solver
-  Version: 2.2.0-2
+  Version: 2.2.0-3
   Description: C++ library for modeling and solving large, complicated optimization problems
   Homepage: http://ceres-solver.org
 - Package: libchipmunk
@@ -4235,7 +4235,7 @@
   Description: Font system for multiple languages
   Homepage: https://github.com/silnrsi/graphite
 - Package: libgrpc
-  Version: 1.76.0-1
+  Version: 1.76.0-2
   Description: High performance, open source, general RPC framework that puts mobile and HTTP/2 first
   Homepage: https://grpc.io/
 - Package: libgsasl
@@ -5291,7 +5291,7 @@
   Description: Static libraries for libretls
   Homepage: https://git.causal.agency/libretls/about/
 - Package: librime
-  Version: 1.15.0
+  Version: 1.15.0-1
   Description: A modular, extensible input method engine in cross-platform C++ code
   Homepage: https://rime.im/
 - Package: librinutils
@@ -5307,11 +5307,11 @@
   Description: Static libraries for librnnoise
   Homepage: https://jmvalin.ca/demo/rnnoise/
 - Package: librocksdb
-  Version: 8.11.3-2
+  Version: 8.11.3-3
   Description: A persistent key-value store for flash and RAM storage
   Homepage: https://rocksdb.org/
 - Package: librocksdb-static
-  Version: 8.11.3-2
+  Version: 8.11.3-3
   Description: Static libraries for librocksdb
   Homepage: https://rocksdb.org/
 - Package: librsvg
@@ -8211,7 +8211,7 @@
   Description: Lightweight coroutines for in-process concurrent programming
   Homepage: https://github.com/python-greenlet/greenlet
 - Package: python-grpcio
-  Version: 1.76.0-1
+  Version: 1.76.0-2
   Description: High performance, open source, general RPC framework that puts mobile and HTTP/2 first
   Homepage: https://grpc.io/
 - Package: python-lameenc
@@ -9231,7 +9231,7 @@
   Description: SPIR-V Tools
   Homepage: https://github.com/KhronosGroup/SPIRV-Tools
 - Package: sqlcipher
-  Version: 4.12.0-1
+  Version: 4.12.0-2
   Description: SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files
   Homepage: https://github.com/sqlcipher/sqlcipher
 - Package: sqlite
@@ -10235,7 +10235,7 @@
   Description: Static libraries for vamp-plugin-sdk
   Homepage: https://www.vamp-plugins.org/
 - Package: vapoursynth
-  Version: 72-1
+  Version: "73"
   Description: Video processing framework with simplicity in mind
   Homepage: https://www.vapoursynth.com/
 - Package: vapoursynth-static

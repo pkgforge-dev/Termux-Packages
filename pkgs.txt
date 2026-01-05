@@ -376,7 +376,7 @@
  dotnet8.0  8.0.22-2  .NET 8.0  https://dotnet.microsoft.com/en-us/ 
  dotnet9.0  9.0.11-1  .NET 9.0  https://dotnet.microsoft.com/en-us/ 
  double-conversion  3.4.0  Binary-decimal and decimal-binary routines for IEEE doubles  https://github.com/google/double-conversion 
- doxygen  1.15.0  A documentation system for C++, C, Java, IDL and PHP  http://www.doxygen.org 
+ doxygen  1.16.0  A documentation system for C++, C, Java, IDL and PHP  http://www.doxygen.org 
  dpkg  1.22.6-5  Debian package management system  https://packages.debian.org/dpkg 
  dpkg-perl  1.22.6-5  Perl modules for dpkg  https://packages.debian.org/dpkg 
  dpkg-scanpackages  1.22.6-5  Creates Packages index files  https://packages.debian.org/dpkg 
@@ -546,8 +546,8 @@
  gettext  0.26-1  GNU Internationalization utilities  https://www.gnu.org/software/gettext/ 
  gettext-static  0.26-1  Static libraries for gettext  https://www.gnu.org/software/gettext/ 
  gexiv2  0.14.6-1  A GObject-based Exiv2 wrapper  https://wiki.gnome.org/Projects/gexiv2 
- gflags  2.2.2-11  A C++ library that implements commandline flags processing  https://github.com/gflags/gflags 
- gflags-static  2.2.2-11  Static libraries for gflags  https://github.com/gflags/gflags 
+ gflags  2.3.0  A C++ library that implements commandline flags processing  https://github.com/gflags/gflags 
+ gflags-static  2.3.0  Static libraries for gflags  https://github.com/gflags/gflags 
  gforth  0.7.3-3  The Forth implementation of the GNU project  https://www.gnu.org/software/gforth/ 
  gh  2.83.2  GitHub’s official command line tool  https://cli.github.com/ 
  ghc  9.12.2-2  The Glasgow Haskell Compiler  https://www.haskell.org/ghc/ 
@@ -616,7 +616,7 @@
  golang-doc  3:1.25.4  Go programming language - documentation  https://go.dev/ 
  gomp  2023.02.02-3  MPD client inspired by ncmpcpp with builtin cover-art view and LastFM integration  https://aditya-k2.github.io/gomp/ 
  google-drive-upload  4.5  Bash scripts to upload files to google drive  https://github.com/labbots/google-drive-upload 
- google-glog  0.7.1-1  Logging library for C++  https://github.com/google/glog 
+ google-glog  0.7.1-2  Logging library for C++  https://github.com/google/glog 
  googletest  1.17.0-1  Google C++ testing framework  https://github.com/google/googletest 
  goose  3.26.0  A database migration tool. Supports SQL migrations and Go functions.  https://pressly.github.io/goose 
  gopass  1.16.1  The slightly more awesome standard unix password manager for teams  https://github.com/gopasspw/gopass 
@@ -928,7 +928,7 @@
  libcdk  5.0-20250116-1  Curses Development Kit  https://dickey.his.com/cdk/cdk.html 
  libcec  7.1.1-1  Provides support for Pulse-Eight's USB-CEC adapter and other CEC capable hardware  https://libcec.pulse-eight.com/ 
  libcec-static  7.1.1-1  Static libraries for libcec  https://libcec.pulse-eight.com/ 
- libceres-solver  2.2.0-2  C++ library for modeling and solving large, complicated optimization problems  http://ceres-solver.org 
+ libceres-solver  2.2.0-3  C++ library for modeling and solving large, complicated optimization problems  http://ceres-solver.org 
  libchipmunk  7.0.3-2  A fast and lightweight 2D game physics library  http://chipmunk2d.net 
  libchromaprint  1.6.0-1  C library for generating audio fingerprints used by AcoustID  https://acoustid.org/chromaprint 
  libclc  21.1.3-1  Open source implementation of the library requirements of the OpenCL C programming language  https://libclc.llvm.org/ 
@@ -1057,7 +1057,7 @@
  libgpg-error  1.55-1  Small library that defines common error values for all GnuPG components  https://www.gnupg.org/related_software/libgpg-error/ 
  libgpg-error-static  1.55-1  Static libraries for libgpg-error  https://www.gnupg.org/related_software/libgpg-error/ 
  libgraphite  1.3.14-3  Font system for multiple languages  https://github.com/silnrsi/graphite 
- libgrpc  1.76.0-1  High performance, open source, general RPC framework that puts mobile and HTTP/2 first  https://grpc.io/ 
+ libgrpc  1.76.0-2  High performance, open source, general RPC framework that puts mobile and HTTP/2 first  https://grpc.io/ 
  libgsasl  2.2.2-1  GNU SASL library  https://www.gnu.org/software/gsasl 
  libgsasl-static  2.2.2-1  Static libraries for libgsasl  https://www.gnu.org/software/gsasl 
  libgsf  1.14.54  The G Structured File Library  https://gitlab.gnome.org/GNOME/libgsf 
@@ -1321,12 +1321,12 @@
  libresolv-wrapper  1.1.7-6  A wrapper for DNS name resolving or DNS faking  https://cwrap.org/resolv_wrapper.html 
  libretls  3.8.1-1  libtls for OpenSSL  https://git.causal.agency/libretls/about/ 
  libretls-static  3.8.1-1  Static libraries for libretls  https://git.causal.agency/libretls/about/ 
- librime  1.15.0  A modular, extensible input method engine in cross-platform C++ code  https://rime.im/ 
+ librime  1.15.0-1  A modular, extensible input method engine in cross-platform C++ code  https://rime.im/ 
  librinutils  0.10.3  A C11 / gnu11 utilities C library  https://github.com/shlomif/rinutils 
  librnnoise  0.2-1  RNN-based noise suppression  https://jmvalin.ca/demo/rnnoise/ 
  librnnoise-static  0.2-1  Static libraries for librnnoise  https://jmvalin.ca/demo/rnnoise/ 
- librocksdb  8.11.3-2  A persistent key-value store for flash and RAM storage  https://rocksdb.org/ 
- librocksdb-static  8.11.3-2  Static libraries for librocksdb  https://rocksdb.org/ 
+ librocksdb  8.11.3-3  A persistent key-value store for flash and RAM storage  https://rocksdb.org/ 
+ librocksdb-static  8.11.3-3  Static libraries for librocksdb  https://rocksdb.org/ 
  librsvg  2.61.3  Library to render SVG files using cairo  https://wiki.gnome.org/action/show/Projects/LibRsvg 
  librsync  2.3.4-1  Remote delta-compression library  https://github.com/librsync/librsync 
  librtmidi  5.0.0-3  A set of C++ classes that provides a common API for realtime MIDI input/output  https://www.music.mcgill.ca/~gary/rtmidi/ 
@@ -2051,7 +2051,7 @@
  python-cryptography  46.0.3  Provides cryptographic recipes and primitives to Python developers  https://github.com/pyca/cryptography 
  python-ensurepip-wheels  3.12.12  Wheels for Python ensurepip  https://python.org/ 
  python-greenlet  3.3.0  Lightweight coroutines for in-process concurrent programming  https://github.com/python-greenlet/greenlet 
- python-grpcio  1.76.0-1  High performance, open source, general RPC framework that puts mobile and HTTP/2 first  https://grpc.io/ 
+ python-grpcio  1.76.0-2  High performance, open source, general RPC framework that puts mobile and HTTP/2 first  https://grpc.io/ 
  python-lameenc  1.8.1-1  Python bindings around the LAME encoder  https://github.com/chrisstaite/lameenc 
  python-libsass  0.23.0-1  A straightforward binding of libsass for Python  https://github.com/sass/libsass-python 
  python-llvmlite  0.46.0  A lightweight LLVM python binding for writing JIT compilers  https://llvmlite.pydata.org/ 
@@ -2306,7 +2306,7 @@
  spirv-headers  1.4.335.0  SPIR-V Headers  https://github.com/KhronosGroup/SPIRV-Headers 
  spirv-llvm-translator  21.1.3  SPIR-V LLVM Translator  https://github.com/KhronosGroup/SPIRV-LLVM-Translator 
  spirv-tools  1.4.335.0  SPIR-V Tools  https://github.com/KhronosGroup/SPIRV-Tools 
- sqlcipher  4.12.0-1  SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files  https://github.com/sqlcipher/sqlcipher 
+ sqlcipher  4.12.0-2  SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files  https://github.com/sqlcipher/sqlcipher 
  sqlite  3.51.1  Command line shell for SQLite  https://www.sqlite.org 
  squashfs-tools-ng  1.3.2-1  New set of tools for working with SquashFS images  https://github.com/AgentD/squashfs-tools-ng 
  squashfs-tools-ng-static  1.3.2-1  Static libraries for squashfs-tools-ng  https://github.com/AgentD/squashfs-tools-ng 
@@ -2557,7 +2557,7 @@
  valkey-static  9.0.1  Static libraries for valkey  https://valkey.io/ 
  vamp-plugin-sdk  2.10-3  An API for audio analysis and feature extraction plugins  https://www.vamp-plugins.org/ 
  vamp-plugin-sdk-static  2.10-3  Static libraries for vamp-plugin-sdk  https://www.vamp-plugins.org/ 
- vapoursynth  72-1  Video processing framework with simplicity in mind  https://www.vapoursynth.com/ 
+ vapoursynth  73  Video processing framework with simplicity in mind  https://www.vapoursynth.com/ 
  vapoursynth-static  72-1  Static libraries for vapoursynth  https://www.vapoursynth.com/ 
  vbindiff  3.0-beta5-1  Visual binary diff  https://www.cjmweb.net/vbindiff/ 
  vcsh  2.0.10  Config manager based on Git  https://github.com/RichiH/vcsh 

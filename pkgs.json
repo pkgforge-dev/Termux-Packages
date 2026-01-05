@@ -2269,7 +2269,7 @@
   },
   {
     "Package": "doxygen",
-    "Version": "1.15.0",
+    "Version": "1.16.0",
     "Description": "A documentation system for C++, C, Java, IDL and PHP",
     "Homepage": "http://www.doxygen.org"
   },
@@ -3289,13 +3289,13 @@
   },
   {
     "Package": "gflags",
-    "Version": "2.2.2-11",
+    "Version": "2.3.0",
     "Description": "A C++ library that implements commandline flags processing",
     "Homepage": "https://github.com/gflags/gflags"
   },
   {
     "Package": "gflags-static",
-    "Version": "2.2.2-11",
+    "Version": "2.3.0",
     "Description": "Static libraries for gflags",
     "Homepage": "https://github.com/gflags/gflags"
   },
@@ -3709,7 +3709,7 @@
   },
   {
     "Package": "google-glog",
-    "Version": "0.7.1-1",
+    "Version": "0.7.1-2",
     "Description": "Logging library for C++",
     "Homepage": "https://github.com/google/glog"
   },
@@ -5581,7 +5581,7 @@
   },
   {
     "Package": "libceres-solver",
-    "Version": "2.2.0-2",
+    "Version": "2.2.0-3",
     "Description": "C++ library for modeling and solving large, complicated optimization problems",
     "Homepage": "http://ceres-solver.org"
   },
@@ -6355,7 +6355,7 @@
   },
   {
     "Package": "libgrpc",
-    "Version": "1.76.0-1",
+    "Version": "1.76.0-2",
     "Description": "High performance, open source, general RPC framework that puts mobile and HTTP/2 first",
     "Homepage": "https://grpc.io/"
   },
@@ -7939,7 +7939,7 @@
   },
   {
     "Package": "librime",
-    "Version": "1.15.0",
+    "Version": "1.15.0-1",
     "Description": "A modular, extensible input method engine in cross-platform C++ code",
     "Homepage": "https://rime.im/"
   },
@@ -7963,13 +7963,13 @@
   },
   {
     "Package": "librocksdb",
-    "Version": "8.11.3-2",
+    "Version": "8.11.3-3",
     "Description": "A persistent key-value store for flash and RAM storage",
     "Homepage": "https://rocksdb.org/"
   },
   {
     "Package": "librocksdb-static",
-    "Version": "8.11.3-2",
+    "Version": "8.11.3-3",
     "Description": "Static libraries for librocksdb",
     "Homepage": "https://rocksdb.org/"
   },
@@ -12319,7 +12319,7 @@
   },
   {
     "Package": "python-grpcio",
-    "Version": "1.76.0-1",
+    "Version": "1.76.0-2",
     "Description": "High performance, open source, general RPC framework that puts mobile and HTTP/2 first",
     "Homepage": "https://grpc.io/"
   },
@@ -13849,7 +13849,7 @@
   },
   {
     "Package": "sqlcipher",
-    "Version": "4.12.0-1",
+    "Version": "4.12.0-2",
     "Description": "SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files",
     "Homepage": "https://github.com/sqlcipher/sqlcipher"
   },
@@ -15355,7 +15355,7 @@
   },
   {
     "Package": "vapoursynth",
-    "Version": "72-1",
+    "Version": "73",
     "Description": "Video processing framework with simplicity in mind",
     "Homepage": "https://www.vapoursynth.com/"
   },
