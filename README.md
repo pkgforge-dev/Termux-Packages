@@ -2051,7 +2051,7 @@
 | **pypy3** | 7.3.20 | A fast, compliant alternative implementation of Python 3 | https://pypy.org |
 | **pypy3-tests** | 7.3.20 | Test files for PyPy 3 | https://pypy.org |
 | **pypy3-tkinter** | 7.3.20 | Tkinter support for PyPy 3 | https://pypy.org |
-| **pyrefly** | 0.46.0 | A fast type checker and language server for Python | https://github.com/facebook/pyrefly.git |
+| **pyrefly** | 0.47.0 | A fast type checker and language server for Python | https://github.com/facebook/pyrefly.git |
 | **pystring** | 1.1.4-1 | C++ functions matching the interface and behavior of python string methods with std::string | https://github.com/imageworks/pystring |
 | **python** | 3.12.12 | Python 3 programming language intended to enable clear programs | https://python.org/ |
 | **python-apsw** | 3.51.1.0 | Another Python SQLite Wrapper | https://rogerbinns.github.io/apsw/ |
