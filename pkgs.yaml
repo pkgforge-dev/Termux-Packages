@@ -2855,7 +2855,7 @@
   Description: Command-line wrapper for git that makes you better at GitHub
   Homepage: https://hub.github.com/
 - Package: hugo
-  Version: 0.154.2
+  Version: 0.154.3
   Description: A fast and flexible static site generator
   Homepage: https://gohugo.io/
 - Package: hummin
@@ -5291,7 +5291,7 @@
   Description: Static libraries for libretls
   Homepage: https://git.causal.agency/libretls/about/
 - Package: librime
-  Version: 1.15.0-1
+  Version: 1.16.0
   Description: A modular, extensible input method engine in cross-platform C++ code
   Homepage: https://rime.im/
 - Package: librinutils
@@ -5451,11 +5451,11 @@
   Description: Static libraries for libsndfile
   Homepage: http://www.mega-nerd.com/libsndfile
 - Package: libsodium
-  Version: 1.0.20-1
+  Version: 1.0.21
   Description: Network communication, cryptography and signaturing library
   Homepage: https://libsodium.org/
 - Package: libsodium-static
-  Version: 1.0.20-1
+  Version: 1.0.21
   Description: Static libraries for libsodium
   Homepage: https://libsodium.org/
 - Package: libsoldout
@@ -9483,7 +9483,7 @@
   Description: Static libraries for swtpm
   Homepage: https://github.com/stefanberger/swtpm
 - Package: syncthing
-  Version: 2.0.12
+  Version: 2.0.13
   Description: Decentralized file synchronization
   Homepage: https://syncthing.net/
 - Package: sysprop
