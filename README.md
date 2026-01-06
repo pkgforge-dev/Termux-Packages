@@ -1762,7 +1762,7 @@
 | **music-file-organizer** | 1.0.4-10 | Organizer of audio files into directories based on metadata tags | https://git.zx2c4.com/music-file-organizer/about/ |
 | **mutt** | 2.2.16 | Mail client with patches from neomutt | http://www.mutt.org/ |
 | **myman** | 0.7.1-6 | Video game for color and monochrome text terminals in the genre of Namco's Pac-Man | https://sourceforge.net/projects/myman/ |
-| **mympd** | 24.0.0 | A standalone and lightweight web-based MPD client | https://jcorporation.github.io/myMPD/ |
+| **mympd** | 24.0.1 | A standalone and lightweight web-based MPD client | https://jcorporation.github.io/myMPD/ |
 | **mypaint-brushes** | 2.0.2 | MyPaint brushes | https://github.com/mypaint/mypaint-brushes |
 | **myrepos** | 1.20180726-4 | Tool to manage all your version control repos | https://myrepos.branchable.com/ |
 | **n-t-roff-sc** | 7.16-1.1.3-2 | A vi-like spreadsheet calculator | https://github.com/n-t-roff/sc |
@@ -1851,7 +1851,7 @@
 | **octomap** | 1.10.0-1 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0-1 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-5 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 28.10.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 29.0.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **okc-agents** | 0.1.2-2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.6-3 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-10 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
@@ -1912,8 +1912,8 @@
 | **ossp-uuid-static** | 1.6.2-4 | Static libraries for ossp-uuid | http://www.ossp.org/pkg/lib/uuid/ |
 | **ovmf** | 20231122-16.fc40-0 | Open Virtual Machine Firmware | https://www.tianocore.org/ |
 | **oxc-language-server** | 1.36.0 | Oxc JavaScript linter language server | https://oxc.rs/ |
-| **oxfmt** | 1.36.0 | Oxc JavaScript formatter | https://oxc.rs/ |
-| **oxlint** | 1.36.0 | Oxc JavaScript linter | https://oxc.rs/ |
+| **oxfmt** | 1.38.0 | Oxc JavaScript formatter | https://oxc.rs/ |
+| **oxlint** | 1.38.0 | Oxc JavaScript linter | https://oxc.rs/ |
 | **p11-kit** | 0.25.10 | Provides a way to load and enumerate PKCS#11 modules | https://p11-glue.github.io/p11-glue/p11-kit.html |
 | **p7zip** | 17.06-1 | Command-line version of the 7zip compressed file archiver | https://github.com/p7zip-project/p7zip |
 | **pacman** | 7.1.0-1 | A library-based package manager with dependency support | https://archlinux.org/pacman/ |
@@ -2035,7 +2035,7 @@
 | **ptex** | 2.5.1 | Per-Face Texture Mapping for Production Rendering | https://github.com/wdas/ptex |
 | **ptex-static** | 2.5.1 | Static libraries for ptex | https://github.com/wdas/ptex |
 | **ptunnel-ng** | 1.43-1 | Tunnel TCP connections through ICMP | https://github.com/lnslbrty/ptunnel-ng |
-| **pueue** | 4.0.1-1 | A command-line task management tool for sequential and parallel execution of long-running tasks | https://github.com/Nukesor/pueue |
+| **pueue** | 4.0.2 | A command-line task management tool for sequential and parallel execution of long-running tasks | https://github.com/Nukesor/pueue |
 | **pulseaudio** | 17.0-1 | A featureful, general-purpose sound server | https://www.freedesktop.org/wiki/Software/PulseAudio |
 | **pulseaudio-glib** | 17.0-1 | PulseAudio GLIB mainloop component | https://www.freedesktop.org/wiki/Software/PulseAudio |
 | **pup** | 0.4.0-7 | command line tool for processing HTML | https://github.com/ericchiang/pup |
