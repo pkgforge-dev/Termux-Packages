@@ -2546,7 +2546,7 @@
 | **urdfdom-headers** | 2.0.2 | Headers for URDF parsers | https://github.com/ros/urdfdom_headers |
 | **usbmuxd** | 1.1.1-p20250201-2 | A socket daemon to multiplex connections from and to iOS devices | https://libimobiledevice.org |
 | **usql** | 0.20.0 | A universal command-line interface for SQL databases | https://github.com/xo/usql |
-| **utf8cpp** | 4.09 | UTF8-CPP: UTF-8 with C++ in a Portable Way | https://github.com/nemtrif/utfcpp |
+| **utf8cpp** | 1:4.0.9 | UTF8-CPP: UTF-8 with C++ in a Portable Way | https://github.com/nemtrif/utfcpp |
 | **utf8proc** | 2.11.3 | Library for processing UTF-8 Unicode data | https://github.com/JuliaLang/utf8proc |
 | **utf8proc-static** | 2.11.3 | Static libraries for utf8proc | https://github.com/JuliaLang/utf8proc |
 | **utfdecode** | 0.3.4-7 | Tool for decoding, encoding and debugging unicode | https://github.com/fornwall/utfdecode |
