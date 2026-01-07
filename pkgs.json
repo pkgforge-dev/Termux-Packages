@@ -535,7 +535,7 @@
   },
   {
     "Package": "assimp",
-    "Version": "6.0.2-1",
+    "Version": "6.0.2-2",
     "Description": "Library to import various well-known 3D model formats in an uniform manner",
     "Homepage": "https://assimp.sourceforge.net/index.html"
   },
@@ -727,7 +727,7 @@
   },
   {
     "Package": "bastet",
-    "Version": "0.43.2-12",
+    "Version": "0.43.2-13",
     "Description": "Tetris clone with bastard block-choosing AI",
     "Homepage": "http://fph.altervista.org/prog/bastet.html"
   },
@@ -841,7 +841,7 @@
   },
   {
     "Package": "bitcoin",
-    "Version": "30.1",
+    "Version": "30.1-1",
     "Description": "Bitcoin Core",
     "Homepage": "https://bitcoincore.org/"
   },
@@ -925,19 +925,19 @@
   },
   {
     "Package": "boost",
-    "Version": "1:1.89.0",
+    "Version": "1:1.90.0",
     "Description": "Free peer-reviewed portable C++ source libraries",
     "Homepage": "https://boost.org"
   },
   {
     "Package": "boost-headers",
-    "Version": "1:1.89.0",
+    "Version": "1:1.90.0",
     "Description": "Boost header files",
     "Homepage": "https://boost.org"
   },
   {
     "Package": "boost-static",
-    "Version": "1:1.89.0",
+    "Version": "1:1.90.0",
     "Description": "Static libraries for boost",
     "Homepage": "https://boost.org"
   },
@@ -955,13 +955,13 @@
   },
   {
     "Package": "botan3",
-    "Version": "3.10.0",
+    "Version": "3.10.0-1",
     "Description": "Crypto and TLS for Modern C++",
     "Homepage": "https://botan.randombit.net/"
   },
   {
     "Package": "botan3-static",
-    "Version": "3.10.0",
+    "Version": "3.10.0-1",
     "Description": "Static libraries for botan3",
     "Homepage": "https://botan.randombit.net/"
   },
@@ -1765,7 +1765,7 @@
   },
   {
     "Package": "curl",
-    "Version": "8.17.0",
+    "Version": "8.18.0",
     "Description": "Command line tool for transferring data with URL syntax",
     "Homepage": "https://curl.se/"
   },
@@ -2545,7 +2545,7 @@
   },
   {
     "Package": "enblend",
-    "Version": "4.2.0p20161007-7",
+    "Version": "4.2.0p20161007-8",
     "Description": "A tool for compositing images using a Burt&Adelson multiresolution spline",
     "Homepage": "https://enblend.sourceforge.net/"
   },
@@ -4369,13 +4369,13 @@
   },
   {
     "Package": "i2pd",
-    "Version": "2.58.0",
+    "Version": "2.58.0-1",
     "Description": "A full-featured C++ implementation of the I2P router",
     "Homepage": "https://i2pd.website/"
   },
   {
     "Package": "i2pd-static",
-    "Version": "2.58.0",
+    "Version": "2.58.0-1",
     "Description": "Static libraries for i2pd",
     "Homepage": "https://i2pd.website/"
   },
@@ -4489,7 +4489,7 @@
   },
   {
     "Package": "innoextract",
-    "Version": "1.9-9",
+    "Version": "1.9-10",
     "Description": "A tool to unpack installers created by Inno Setup",
     "Homepage": "https://constexpr.org/innoextract/"
   },
@@ -5011,7 +5011,7 @@
   },
   {
     "Package": "ledger",
-    "Version": "3.4.1",
+    "Version": "3.4.1-1",
     "Description": "Powerful, double-entry accounting system",
     "Homepage": "https://www.ledger-cli.org"
   },
@@ -5077,7 +5077,7 @@
   },
   {
     "Package": "lgogdownloader",
-    "Version": "3.18",
+    "Version": "3.18-1",
     "Description": "Open source downloader to GOG.com for Linux users using the same API as the official GOGDownloader",
     "Homepage": "https://sites.google.com/site/gogdownloader/"
   },
@@ -5299,13 +5299,13 @@
   },
   {
     "Package": "libarrow-cpp",
-    "Version": "22.0.0-2",
+    "Version": "22.0.0-3",
     "Description": "C++ libraries for Apache Arrow",
     "Homepage": "https://github.com/apache/arrow"
   },
   {
     "Package": "libasio",
-    "Version": "1.24.0-3",
+    "Version": "1.24.0-4",
     "Description": "Cross-platform C++ library for network and low-level I/O programming",
     "Homepage": "https://think-async.com/Asio"
   },
@@ -5473,7 +5473,7 @@
   },
   {
     "Package": "libc++utilities",
-    "Version": "5.32.1",
+    "Version": "5.32.1-1",
     "Description": "Useful C++ classes and routines such as argument parser, IO and conversion utilities",
     "Homepage": "https://github.com/Martchus/cpp-utilities"
   },
@@ -5755,13 +5755,13 @@
   },
   {
     "Package": "libcurl",
-    "Version": "8.17.0",
+    "Version": "8.18.0",
     "Description": "Easy-to-use client-side URL transfer library",
     "Homepage": "https://curl.se/"
   },
   {
     "Package": "libcurl-static",
-    "Version": "8.17.0",
+    "Version": "8.18.0",
     "Description": "Static libraries for libcurl",
     "Homepage": "https://curl.se/"
   },
@@ -7231,7 +7231,7 @@
   },
   {
     "Package": "libmsgpack-cxx",
-    "Version": "7.0.0-3",
+    "Version": "7.0.0-4",
     "Description": "msgpack for C++",
     "Homepage": "https://msgpack.org/"
   },
@@ -7591,7 +7591,7 @@
   },
   {
     "Package": "libosmium",
-    "Version": "2.22.0-4",
+    "Version": "2.22.0-5",
     "Description": "Library for reading from and writing to OSM files in XML and PBF formats",
     "Homepage": "https://osmcode.org/libosmium/"
   },
@@ -7639,7 +7639,7 @@
   },
   {
     "Package": "libpagmo",
-    "Version": "2.19.1-4",
+    "Version": "2.19.1-5",
     "Description": "Scientific library for massively parallel optimization",
     "Homepage": "https://esa.github.io/pagmo2/index.html"
   },
@@ -7939,7 +7939,7 @@
   },
   {
     "Package": "librime",
-    "Version": "1.16.0",
+    "Version": "1.16.0-1",
     "Description": "A modular, extensible input method engine in cross-platform C++ code",
     "Homepage": "https://rime.im/"
   },
@@ -8509,7 +8509,7 @@
   },
   {
     "Package": "libtins",
-    "Version": "4.5-3",
+    "Version": "4.5-4",
     "Description": "High-level, multiplatform C++ network packet sniffing and crafting library.",
     "Homepage": "https://libtins.github.io"
   },
@@ -8581,7 +8581,7 @@
   },
   {
     "Package": "libtorrent-rasterbar",
-    "Version": "2.0.11-4",
+    "Version": "2.0.11-5",
     "Description": "A feature complete C++ bittorrent implementation focusing on efficiency and scalability",
     "Homepage": "https://libtorrent.org/"
   },
@@ -10243,7 +10243,7 @@
   },
   {
     "Package": "monero",
-    "Version": "0.18.4.5-1",
+    "Version": "0.18.4.5-2",
     "Description": "A private, secure, untraceable, decentralised digital currency",
     "Homepage": "https://getmonero.org/"
   },
@@ -10381,7 +10381,7 @@
   },
   {
     "Package": "mpdscribble",
-    "Version": "0.25-3",
+    "Version": "0.25-4",
     "Description": "A Music Player Daemon (MPD) client which submits information about tracks being played to a scrobbler",
     "Homepage": "https://www.musicpd.org/clients/mpdscribble/"
   },
@@ -10615,7 +10615,7 @@
   },
   {
     "Package": "ncmpcpp",
-    "Version": "0.10.1-7",
+    "Version": "0.10.1-8",
     "Description": "NCurses Music Player Client (Plus Plus)",
     "Homepage": "https://rybczak.net/ncmpcpp/"
   },
@@ -11047,7 +11047,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "29.0.0",
+    "Version": "29.0.1",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -11131,7 +11131,7 @@
   },
   {
     "Package": "openbabel",
-    "Version": "3.1.1-12",
+    "Version": "3.1.1-13",
     "Description": "Open Babel is a chemical toolbox designed to speak the many languages of chemical data",
     "Homepage": "http://openbabel.org/wiki/Main_Page"
   },
@@ -11173,7 +11173,7 @@
   },
   {
     "Package": "openfoam",
-    "Version": "2412-4",
+    "Version": "2412-5",
     "Description": "OpenFOAM is a CFD software written in C++",
     "Homepage": "https://www.openfoam.com"
   },
@@ -11293,7 +11293,7 @@
   },
   {
     "Package": "openscad",
-    "Version": "2021.01-5",
+    "Version": "2021.01-6",
     "Description": "The programmers solid 3D CAD modeller (headless build)",
     "Homepage": "https://openscad.org/"
   },
@@ -11377,7 +11377,7 @@
   },
   {
     "Package": "osmium-tool",
-    "Version": "1.18.0-4",
+    "Version": "1.18.0-5",
     "Description": "A multipurpose command line tool based on the Osmium Library",
     "Homepage": "https://osmcode.org/osmium-tool/"
   },
@@ -11959,7 +11959,7 @@
   },
   {
     "Package": "poppler",
-    "Version": "24.05.0-4",
+    "Version": "24.05.0-5",
     "Description": "PDF rendering library",
     "Homepage": "https://poppler.freedesktop.org/"
   },
@@ -12031,13 +12031,13 @@
   },
   {
     "Package": "povray",
-    "Version": "3.8.0-beta.2-17",
+    "Version": "3.8.0-beta.2-18",
     "Description": "The Persistence of Vision Raytracer",
     "Homepage": "https://www.povray.org/"
   },
   {
     "Package": "povray-data",
-    "Version": "3.8.0-beta.2-17",
+    "Version": "3.8.0-beta.2-18",
     "Description": "Platform-independent data for povray",
     "Homepage": "https://www.povray.org/"
   },
@@ -12193,7 +12193,7 @@
   },
   {
     "Package": "pybind11",
-    "Version": "3.0.1-1",
+    "Version": "3.0.1-2",
     "Description": "A lightweight header-only library that exposes C++ types in Python and vice versa",
     "Homepage": "https://pybind11.readthedocs.io/"
   },
@@ -12385,7 +12385,7 @@
   },
   {
     "Package": "python-pyarrow",
-    "Version": "22.0.0-2",
+    "Version": "22.0.0-3",
     "Description": "Python bindings for Apache Arrow",
     "Homepage": "https://github.com/apache/arrow"
   },
@@ -12673,7 +12673,7 @@
   },
   {
     "Package": "qrsspig",
-    "Version": "0.8.0-6",
+    "Version": "0.8.0-7",
     "Description": "Headless QRSS grabber for Raspberry Pis",
     "Homepage": "https://gitlab.com/hb9fxx/qrsspig"
   },
@@ -12739,7 +12739,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "4.16.1",
+    "Version": "4.17.0",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -12775,13 +12775,13 @@
   },
   {
     "Package": "ravencoin",
-    "Version": "4.6.1-8",
+    "Version": "4.6.1-9",
     "Description": "A peer-to-peer blockchain, handling the efficient creation and transfer of assets from one party to another",
     "Homepage": "https://ravencoin.org/"
   },
   {
     "Package": "ravencoin-static",
-    "Version": "4.6.1-8",
+    "Version": "4.6.1-9",
     "Description": "Static libraries for ravencoin",
     "Homepage": "https://ravencoin.org/"
   },
@@ -13681,13 +13681,13 @@
   },
   {
     "Package": "snapcast-client",
-    "Version": "0.34.0-1",
+    "Version": "0.34.0-2",
     "Description": "A multiroom client-server audio player (client)",
     "Homepage": "https://github.com/badaix/snapcast"
   },
   {
     "Package": "snapcast-server",
-    "Version": "0.34.0-1",
+    "Version": "0.34.0-2",
     "Description": "A multiroom client-server audio player (server)",
     "Homepage": "https://github.com/badaix/snapcast"
   },
@@ -13741,7 +13741,7 @@
   },
   {
     "Package": "solidity",
-    "Version": "0.8.33",
+    "Version": "0.8.33-1",
     "Description": "An Ethereum smart contract-oriented language",
     "Homepage": "https://www.soliditylang.org/"
   },
@@ -14035,7 +14035,7 @@
   },
   {
     "Package": "storj-uplink",
-    "Version": "1.144.3",
+    "Version": "1.144.4",
     "Description": "Storj DCS Uplink CLI",
     "Homepage": "https://www.storj.io/integrations/uplink-cli"
   },
@@ -14071,7 +14071,7 @@
   },
   {
     "Package": "stuntman",
-    "Version": "1.2.16-6",
+    "Version": "1.2.16-7",
     "Description": "An open source STUN server",
     "Homepage": "https://www.stunprotocol.org/"
   },
@@ -14137,7 +14137,7 @@
   },
   {
     "Package": "supercollider",
-    "Version": "3.14.0-1",
+    "Version": "3.14.0-2",
     "Description": "A platform for audio synthesis and algorithmic composition",
     "Homepage": "http://supercollider.github.io/"
   },
@@ -14251,7 +14251,7 @@
   },
   {
     "Package": "taglib",
-    "Version": "2.1.1-3",
+    "Version": "2.1.1-4",
     "Description": "A Library for reading and editing the meta-data of several popular audio formats.",
     "Homepage": "http://taglib.github.io/"
   },
@@ -14575,7 +14575,7 @@
   },
   {
     "Package": "thrift",
-    "Version": "0.22.0-1",
+    "Version": "0.22.0-2",
     "Description": "Scalable cross-language services framework for IPC/RPC",
     "Homepage": "https://thrift.apache.org"
   },
@@ -14677,7 +14677,7 @@
   },
   {
     "Package": "tizonia",
-    "Version": "0.22.0-20",
+    "Version": "0.22.0-21",
     "Description": "A command-line streaming music client/server for Linux",
     "Homepage": "https://github.com/tizonia/"
   },
@@ -14713,7 +14713,7 @@
   },
   {
     "Package": "tome2",
-    "Version": "2025.12.13",
+    "Version": "2025.12.13-1",
     "Description": "An open world roguelike adventure set in middle earth",
     "Homepage": "https://github.com/tome2/tome2"
   },
@@ -15397,7 +15397,7 @@
   },
   {
     "Package": "vera",
-    "Version": "1.3.0-8",
+    "Version": "1.3.0-9",
     "Description": "A programmable tool for verification, analysis and transformation of C++ source code",
     "Homepage": "https://bitbucket.org/verateam/vera"
   },
@@ -15505,7 +15505,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "2026.01.03",
+    "Version": "2026.01.07",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://github.com/directvt/vtm"
   },
