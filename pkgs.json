@@ -121,7 +121,7 @@
   },
   {
     "Package": "agate",
-    "Version": "3.3.19",
+    "Version": "3.3.20",
     "Description": "Very simple server for the Gemini hypertext protocol",
     "Homepage": "https://github.com/mbrubeck/agate"
   },
@@ -1039,7 +1039,7 @@
   },
   {
     "Package": "buf",
-    "Version": "1.62.1",
+    "Version": "1.63.0",
     "Description": "A new way of working with Protocol Buffers",
     "Homepage": "https://buf.build"
   },
@@ -5473,7 +5473,7 @@
   },
   {
     "Package": "libc++utilities",
-    "Version": "5.32.0",
+    "Version": "5.32.1",
     "Description": "Useful C++ classes and routines such as argument parser, IO and conversion utilities",
     "Homepage": "https://github.com/Martchus/cpp-utilities"
   },
@@ -6985,7 +6985,7 @@
   },
   {
     "Package": "libmatio",
-    "Version": "1.5.29",
+    "Version": "1.5.30",
     "Description": "A C library for reading and writing Matlab MAT files",
     "Homepage": "https://github.com/tbeu/matio"
   },
@@ -15481,13 +15481,13 @@
   },
   {
     "Package": "vlc",
-    "Version": "3.0.21-12",
+    "Version": "3.0.23",
     "Description": "A popular libre and open source media player and multimedia engine",
     "Homepage": "https://www.videolan.org/"
   },
   {
     "Package": "vlc-static",
-    "Version": "3.0.21-12",
+    "Version": "3.0.23",
     "Description": "Static libraries for vlc",
     "Homepage": "https://www.videolan.org/"
   },
