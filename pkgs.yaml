@@ -955,7 +955,7 @@
   Description: Play Wordle over SSH
   Homepage: https://github.com/ajeetdsouza/clidle
 - Package: clifm
-  Version: 1.26.3
+  Version: "1.27"
   Description: 'The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell'
   Homepage: https://github.com/leo-arch/clifm
 - Package: clinfo
@@ -6763,7 +6763,7 @@
   Description: A server software with the aim of being fully compliant with DLNA/UPnP-AV clients
   Homepage: https://sourceforge.net/projects/minidlna/
 - Package: miniflux
-  Version: 2.2.15
+  Version: 2.2.16
   Description: A minimalist and opinionated feed reader
   Homepage: https://miniflux.app/
 - Package: minimodem
@@ -7151,7 +7151,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.12.0~dev-1968+g8b7accd07e-0
+  Version: 0.12.0~dev-1977+gdd6ed20272-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -8935,11 +8935,11 @@
   Description: StarDict Console Version
   Homepage: http://dushistov.github.io/sdcv/
 - Package: seafile-client
-  Version: 9.0.15-1
+  Version: 9.0.16
   Description: Seafile is a file syncing and sharing software with file encryption and group sharing
   Homepage: https://seafile.com
 - Package: seafile-client-static
-  Version: 9.0.15-1
+  Version: 9.0.16
   Description: Static libraries for seafile-client
   Homepage: https://seafile.com
 - Package: seanime
