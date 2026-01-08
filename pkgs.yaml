@@ -755,7 +755,7 @@
   Description: Fast, cross-platform HTTP/2 web server
   Homepage: https://caddyserver.com/
 - Package: calc
-  Version: 2.16.1.1
+  Version: 2.16.1.2
   Description: Arbitrary precision console calculator
   Homepage: http://www.isthe.com/chongo/tech/comp/calc/
 - Package: calcurse
@@ -4559,7 +4559,7 @@
   Description: Static libraries for liblog4c
   Homepage: https://log4c.sourceforge.net/
 - Package: liblog4cxx
-  Version: 1.6.0
+  Version: 1.6.1
   Description: A logging framework for C++ patterned after Apache log4j
   Homepage: https://logging.apache.org/log4cxx/latest_stable/index.html
 - Package: liblqr
@@ -7151,7 +7151,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.12.0~dev-1977+gdd6ed20272-0
+  Version: 0.12.0~dev-1989+g3e83f7bec7-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -10139,7 +10139,7 @@
   Description: A socket daemon to multiplex connections from and to iOS devices
   Homepage: https://libimobiledevice.org
 - Package: usql
-  Version: 0.20.2
+  Version: 0.20.4
   Description: A universal command-line interface for SQL databases
   Homepage: https://github.com/xo/usql
 - Package: utf8cpp

@@ -199,7 +199,7 @@
 | **cabextract** | 1.11-1 | A program to extract Microsoft cabinet (.CAB) files | https://www.cabextract.org.uk/ |
 | **cadaver** | 0.28 | A command-line WebDAV client for Unix | https://notroj.github.io/cadaver/ |
 | **caddy** | 2.10.2 | Fast, cross-platform HTTP/2 web server | https://caddyserver.com/ |
-| **calc** | 2.16.1.1 | Arbitrary precision console calculator | http://www.isthe.com/chongo/tech/comp/calc/ |
+| **calc** | 2.16.1.2 | Arbitrary precision console calculator | http://www.isthe.com/chongo/tech/comp/calc/ |
 | **calcurse** | 4.8.2 | calcurse is a calendar and scheduling application for the command line | https://calcurse.org/ |
 | **calcurse-caldav** | 4.8.2 | Sync calcurse with remote caldav calendar | https://calcurse.org/ |
 | **capnproto** | 1.3.0 | Data interchange format and capability-based RPC system | https://capnproto.org/ |
@@ -1150,7 +1150,7 @@
 | **liblo-static** | 0.34 | Static libraries for liblo | https://liblo.sourceforge.net/ |
 | **liblog4c** | 1.2.4-2 | A C library for flexible logging to files, syslog and other destinations | https://log4c.sourceforge.net/ |
 | **liblog4c-static** | 1.2.4-2 | Static libraries for liblog4c | https://log4c.sourceforge.net/ |
-| **liblog4cxx** | 1.6.0 | A logging framework for C++ patterned after Apache log4j | https://logging.apache.org/log4cxx/latest_stable/index.html |
+| **liblog4cxx** | 1.6.1 | A logging framework for C++ patterned after Apache log4j | https://logging.apache.org/log4cxx/latest_stable/index.html |
 | **liblqr** | 0.4.3-1 | Provides a C/C++ API for performing non-uniform resizing of images by the seam-carving technique | https://github.com/carlobaldassi/liblqr |
 | **liblqr-static** | 0.4.3-1 | Static libraries for liblqr | https://github.com/carlobaldassi/liblqr |
 | **liblrdf** | 0.6.1-2 | A library to make it easy to manipulate RDF files describing LADSPA plugins | https://github.com/swh/LRDF |
@@ -1798,7 +1798,7 @@
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20260105 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.11.5-2 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
-| **neovim-nightly** | 0.12.0~dev-1977+gdd6ed20272-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
+| **neovim-nightly** | 0.12.0~dev-1989+g3e83f7bec7-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
 | **nerdfix** | 0.4.2-1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.5.2 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.5.2 | Static libraries for net-snmp | http://www.net-snmp.org/ |
@@ -2545,7 +2545,7 @@
 | **urdfdom** | 5.0.4 | Unified Robot Description Format (URDF) parser library and tools | https://github.com/ros/urdfdom |
 | **urdfdom-headers** | 2.0.2 | Headers for URDF parsers | https://github.com/ros/urdfdom_headers |
 | **usbmuxd** | 1.1.1-p20250201-2 | A socket daemon to multiplex connections from and to iOS devices | https://libimobiledevice.org |
-| **usql** | 0.20.2 | A universal command-line interface for SQL databases | https://github.com/xo/usql |
+| **usql** | 0.20.4 | A universal command-line interface for SQL databases | https://github.com/xo/usql |
 | **utf8cpp** | 1:4.0.9 | UTF8-CPP: UTF-8 with C++ in a Portable Way | https://github.com/nemtrif/utfcpp |
 | **utf8proc** | 2.11.3 | Library for processing UTF-8 Unicode data | https://github.com/JuliaLang/utf8proc |
 | **utf8proc-static** | 2.11.3 | Static libraries for utf8proc | https://github.com/JuliaLang/utf8proc |
