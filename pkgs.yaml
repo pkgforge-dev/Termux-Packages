@@ -295,7 +295,7 @@
   Description: Text document format for short documents, articles, books and UNIX man pages.
   Homepage: https://asciidoc.org
 - Package: asciidoctor
-  Version: 2.0.23-1
+  Version: 2.0.26
   Description: An implementation of AsciiDoc in Ruby
   Homepage: https://asciidoctor.org/
 - Package: asciinema
@@ -1911,7 +1911,7 @@
   Description: Utilities to find files meeting specified criteria and perform various actions on the files which are found
   Homepage: https://www.gnu.org/software/findutils/
 - Package: fish
-  Version: 4.3.2
+  Version: 4.3.3
   Description: The user-friendly command line shell
   Homepage: https://fishshell.com/
 - Package: flac
@@ -3535,7 +3535,7 @@
   Description: C++ libraries for Apache Arrow
   Homepage: https://github.com/apache/arrow
 - Package: libasio
-  Version: 1.24.0-4
+  Version: 1.36.0
   Description: Cross-platform C++ library for network and low-level I/O programming
   Homepage: https://think-async.com/Asio
 - Package: libasm
@@ -5999,11 +5999,11 @@
   Description: Static libraries for libx264
   Homepage: https://www.videolan.org/developers/x264.html
 - Package: libx265
-  Version: 4.1-1
+  Version: 4.1-2
   Description: H.265/HEVC video stream encoder library
   Homepage: http://x265.org/
 - Package: libx265-static
-  Version: 4.1-1
+  Version: 4.1-2
   Description: Static libraries for libx265
   Homepage: http://x265.org/
 - Package: libxapian
@@ -8271,7 +8271,7 @@
   Description: An extremely fast Python linter, written in Rust (Python bindings)
   Homepage: https://github.com/charliermarsh/ruff
 - Package: python-sabyenc3
-  Version: 9.2.1
+  Version: 9.3.0
   Description: C implementations of functions for use within SABnzbd
   Homepage: https://github.com/sabnzbd/sabctools
 - Package: python-skia-pathops
@@ -10139,7 +10139,7 @@
   Description: A socket daemon to multiplex connections from and to iOS devices
   Homepage: https://libimobiledevice.org
 - Package: usql
-  Version: 0.20.4
+  Version: 0.20.6
   Description: A universal command-line interface for SQL databases
   Homepage: https://github.com/xo/usql
 - Package: utf8cpp
@@ -10559,7 +10559,7 @@
   Description: Commandline video encoder for the H.264/MPEG-4 AVC format
   Homepage: https://www.videolan.org/developers/x264.html
 - Package: x265
-  Version: 4.1-1
+  Version: 4.1-2
   Description: H.265/HEVC video stream encoder tool
   Homepage: http://x265.org/
 - Package: xapian-tools

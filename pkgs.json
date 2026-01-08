@@ -445,7 +445,7 @@
   },
   {
     "Package": "asciidoctor",
-    "Version": "2.0.23-1",
+    "Version": "2.0.26",
     "Description": "An implementation of AsciiDoc in Ruby",
     "Homepage": "https://asciidoctor.org/"
   },
@@ -2869,7 +2869,7 @@
   },
   {
     "Package": "fish",
-    "Version": "4.3.2",
+    "Version": "4.3.3",
     "Description": "The user-friendly command line shell",
     "Homepage": "https://fishshell.com/"
   },
@@ -5305,7 +5305,7 @@
   },
   {
     "Package": "libasio",
-    "Version": "1.24.0-4",
+    "Version": "1.36.0",
     "Description": "Cross-platform C++ library for network and low-level I/O programming",
     "Homepage": "https://think-async.com/Asio"
   },
@@ -9001,13 +9001,13 @@
   },
   {
     "Package": "libx265",
-    "Version": "4.1-1",
+    "Version": "4.1-2",
     "Description": "H.265/HEVC video stream encoder library",
     "Homepage": "http://x265.org/"
   },
   {
     "Package": "libx265-static",
-    "Version": "4.1-1",
+    "Version": "4.1-2",
     "Description": "Static libraries for libx265",
     "Homepage": "http://x265.org/"
   },
@@ -12409,7 +12409,7 @@
   },
   {
     "Package": "python-sabyenc3",
-    "Version": "9.2.1",
+    "Version": "9.3.0",
     "Description": "C implementations of functions for use within SABnzbd",
     "Homepage": "https://github.com/sabnzbd/sabctools"
   },
@@ -15211,7 +15211,7 @@
   },
   {
     "Package": "usql",
-    "Version": "0.20.4",
+    "Version": "0.20.6",
     "Description": "A universal command-line interface for SQL databases",
     "Homepage": "https://github.com/xo/usql"
   },
@@ -15841,7 +15841,7 @@
   },
   {
     "Package": "x265",
-    "Version": "4.1-1",
+    "Version": "4.1-2",
     "Description": "H.265/HEVC video stream encoder tool",
     "Homepage": "http://x265.org/"
   },
