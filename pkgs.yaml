@@ -67,7 +67,7 @@
   Description: A fully compatible autoconf replacement
   Homepage: https://github.com/radareorg/acr
 - Package: ada
-  Version: 3.3.0
+  Version: 3.4.1
   Description: WHATWG-compliant and fast URL parser written in modern C++
   Homepage: https://github.com/ada-url/ada
 - Package: adms
@@ -119,7 +119,7 @@
   Description: Fast, easy to use email client
   Homepage: http://alpine.x10host.com/
 - Package: alsa-lib
-  Version: 1.2.15.1
+  Version: 1.2.15.2
   Description: The Advanced Linux Sound Architecture (ALSA) - library
   Homepage: https://www.alsa-project.org
 - Package: alsa-plugins
@@ -127,11 +127,11 @@
   Description: The Advanced Linux Sound Architecture (ALSA) - plugins
   Homepage: https://www.alsa-project.org
 - Package: alsa-utils
-  Version: 1.2.15.1
+  Version: 1.2.15.2
   Description: The Advanced Linux Sound Architecture (ALSA) - utils
   Homepage: https://www.alsa-project.org
 - Package: alsa-utils-static
-  Version: 1.2.15.1
+  Version: 1.2.15.2
   Description: Static libraries for alsa-utils
   Homepage: https://www.alsa-project.org
 - Package: amber
@@ -447,7 +447,7 @@
   Description: light command line download accelerator
   Homepage: https://github.com/axel-download-accelerator/axel
 - Package: b3sum
-  Version: 1.8.2-1
+  Version: 1.8.3
   Description: A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum
   Homepage: https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum
 - Package: babl
@@ -3127,7 +3127,7 @@
   Description: A free media system for organizing and streaming media (server)
   Homepage: https://jellyfin.org
 - Package: jfrog-cli
-  Version: 2.87.0
+  Version: 2.88.0
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -7135,7 +7135,7 @@
   Description: Minimal, efficient, statically-typed and meta-programmable systems programming language
   Homepage: https://nelua.io
 - Package: neocmakelsp
-  Version: 0.9.0
+  Version: 0.9.1
   Description: a cmake lsp based on tower-lsp and treesitter
   Homepage: https://neocmakelsp.github.io/
 - Package: neofetch
@@ -8491,7 +8491,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 4.17.1
+  Version: 4.18.0
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3

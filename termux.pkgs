@@ -15,7 +15,7 @@
 | **abseil-cpp** | 20250814.1 | Abseil C++ Common Libraries | https://abseil.io/ |
 | **ack-grep** | 3.9.0-1 | Tool like grep optimized for programmers | https://beyondgrep.com/ |
 | **acr** | 2.2.4 | A fully compatible autoconf replacement | https://github.com/radareorg/acr |
-| **ada** | 3.3.0 | WHATWG-compliant and fast URL parser written in modern C++ | https://github.com/ada-url/ada |
+| **ada** | 3.4.1 | WHATWG-compliant and fast URL parser written in modern C++ | https://github.com/ada-url/ada |
 | **adms** | 2.3.7-1 | A code generator for the Verilog-AMS language | https://github.com/qucs/adms |
 | **aerc** | 0.21.0 | A pretty good email client | https://aerc-mail.org/ |
 | **agate** | 3.3.20 | Very simple server for the Gemini hypertext protocol | https://github.com/mbrubeck/agate |
@@ -28,10 +28,10 @@
 | **alembic** | 1.8.10 | A framework for sharing scene data that includes a C++ lib, a file format and client plugin | https://alembic.io |
 | **algernon** | 1.17.5 | Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support | https://algernon.roboticoverlords.org/ |
 | **alpine** | 2.26-1 | Fast, easy to use email client | http://alpine.x10host.com/ |
-| **alsa-lib** | 1.2.15.1 | The Advanced Linux Sound Architecture (ALSA) - library | https://www.alsa-project.org |
+| **alsa-lib** | 1.2.15.2 | The Advanced Linux Sound Architecture (ALSA) - library | https://www.alsa-project.org |
 | **alsa-plugins** | 1.2.12-1 | The Advanced Linux Sound Architecture (ALSA) - plugins | https://www.alsa-project.org |
-| **alsa-utils** | 1.2.15.1 | The Advanced Linux Sound Architecture (ALSA) - utils | https://www.alsa-project.org |
-| **alsa-utils-static** | 1.2.15.1 | Static libraries for alsa-utils | https://www.alsa-project.org |
+| **alsa-utils** | 1.2.15.2 | The Advanced Linux Sound Architecture (ALSA) - utils | https://www.alsa-project.org |
+| **alsa-utils-static** | 1.2.15.2 | Static libraries for alsa-utils | https://www.alsa-project.org |
 | **amber** | 0.6.0-1 | A code search / replace tool | https://github.com/dalance/amber |
 | **amfora** | 1.11.0-1 | Aims to be the best looking Gemini client | https://github.com/makew0rld/amfora |
 | **android-tools** | 35.0.2-7 | Android platform tools | https://developer.android.com/ |
@@ -110,7 +110,7 @@
 | **await** | 2.4.0 | Runs list of commands in parallel and waits for their termination | https://github.com/slavaGanzin/await |
 | **awesomeshot** | 1.1.0 | A command-line screenshot tool written in bash | https://github.com/mayTermux/awesomeshot |
 | **axel** | 2.17.14-1 | light command line download accelerator | https://github.com/axel-download-accelerator/axel |
-| **b3sum** | 1.8.2-1 | A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum | https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum |
+| **b3sum** | 1.8.3 | A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum | https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum |
 | **babl** | 0.1.118 | Dynamic pixel format translation library | https://gegl.org/babl/ |
 | **bacula-fd** | 15.0.3-1 | Bacula backup software | https://www.bacula.org |
 | **bacula-fd-static** | 15.0.3-1 | Static libraries for bacula-fd | https://www.bacula.org |
@@ -780,7 +780,7 @@
 | **jcal-static** | 0.5.1-1 | Static libraries for jcal | http://nongnu.org/jcal |
 | **jellyfin-ffmpeg** | 10.11.5 | FFmpeg for Jellyfin with custom extensions and enhancements | https://jellyfin.org |
 | **jellyfin-server** | 10.11.5 | A free media system for organizing and streaming media (server) | https://jellyfin.org |
-| **jfrog-cli** | 2.87.0 | A CLI for JFrog products | https://jfrog.com/getcli |
+| **jfrog-cli** | 2.88.0 | A CLI for JFrog products | https://jfrog.com/getcli |
 | **jftui** | 0.7.5 | jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server. | https://github.com/Aanok/jftui |
 | **jhead** | 3.08-1 | Exif Jpeg header manipulation tool | http://www.sentex.net/~mwandel/jhead/ |
 | **jigdo** | 0.8.2-1 | Distribute large images by sending and receiving the files that make them up | http://atterer.org/jigdo/ |
@@ -1782,7 +1782,7 @@
 | **ndk-sysroot** | 29-2 | System header and library files from the Android NDK needed for compiling C programs | https://developer.android.com/tools/sdk/ndk/index.html |
 | **ne** | 3.3.4-2 | Easy-to-use and powerful text editor | https://ne.di.unimi.it/ |
 | **nelua** | 2024.01.13-1 | Minimal, efficient, statically-typed and meta-programmable systems programming language | https://nelua.io |
-| **neocmakelsp** | 0.9.0 | a cmake lsp based on tower-lsp and treesitter | https://neocmakelsp.github.io/ |
+| **neocmakelsp** | 0.9.1 | a cmake lsp based on tower-lsp and treesitter | https://neocmakelsp.github.io/ |
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20260105 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.11.5-2 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
@@ -2121,7 +2121,7 @@
 | **rage** | 0.11.1-1 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4-1 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4-1 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
-| **railway-cli** | 4.17.1 | This is the command line interface for Railway | https://railway.app |
+| **railway-cli** | 4.18.0 | This is the command line interface for Railway | https://railway.app |
 | **range-v3** | 0.12.0 | Range library for C++14/17/20, basis for C++20's std::ranges | https://github.com/ericniebler/range-v3 |
 | **ranger** | 1.9.4 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-7 | Fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |
