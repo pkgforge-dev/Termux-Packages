@@ -1579,7 +1579,7 @@
   Description: Simple REPL for Duktape
   Homepage: https://www.duktape.org/
 - Package: dust
-  Version: 1.2.3-1
+  Version: 1.2.4
   Description: A more intuitive version of du in rust
   Homepage: https://github.com/bootandy/dust
 - Package: dvdauthor
@@ -5611,11 +5611,11 @@
   Description: Static libraries for libtalloc
   Homepage: https://talloc.samba.org/talloc/doc/html/index.html
 - Package: libtasn1
-  Version: 4.20.0-1
+  Version: 4.21.0
   Description: This is GNU Libtasn1, a small ASN.1 library
   Homepage: https://www.gnu.org/software/libtasn1/
 - Package: libtasn1-static
-  Version: 4.20.0-1
+  Version: 4.21.0
   Description: Static libraries for libtasn1
   Homepage: https://www.gnu.org/software/libtasn1/
 - Package: libtatsu
@@ -7419,7 +7419,7 @@
   Description: Software implementation of the OpenAL API
   Homepage: https://openal-soft.org/
 - Package: openbabel
-  Version: 3.1.1-13
+  Version: 3.1.1-14
   Description: Open Babel is a chemical toolbox designed to speak the many languages of chemical data
   Homepage: http://openbabel.org/wiki/Main_Page
 - Package: opencc-tools
@@ -8491,7 +8491,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 4.18.0
+  Version: 4.23.0
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3

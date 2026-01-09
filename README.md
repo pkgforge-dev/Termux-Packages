@@ -405,7 +405,7 @@
 | **duf** | 0.9.1 | Disk usage/free utility | https://github.com/muesli/duf |
 | **dufs** | 0.45.0 | A file server that supports static serving, uploading, searching, accessing control, webdav... | https://github.com/sigoden/dufs |
 | **duktape** | 2.7.0-2 | Simple REPL for Duktape | https://www.duktape.org/ |
-| **dust** | 1.2.3-1 | A more intuitive version of du in rust | https://github.com/bootandy/dust |
+| **dust** | 1.2.4 | A more intuitive version of du in rust | https://github.com/bootandy/dust |
 | **dvdauthor** | 0.7.2-4 | Generates a DVD-Video movie from a valid MPEG-2 stream | https://dvdauthor.sourceforge.net/ |
 | **dvtm** | 0.15-4 | Terminal tiling window manager | https://github.com/martanne/dvtm |
 | **dwarves** | 1.31 | Pahole and other DWARF utils | https://git.kernel.org/cgit/devel/pahole/pahole.git/ |
@@ -1413,8 +1413,8 @@
 | **libt3window** | 0.4.2-1 | A library providing a windowing abstraction on terminals | https://os.ghalkes.nl/t3/libt3window.html |
 | **libtalloc** | 2.4.3 | Hierarchical, reference counted memory pool system with destructors | https://talloc.samba.org/talloc/doc/html/index.html |
 | **libtalloc-static** | 2.4.3 | Static libraries for libtalloc | https://talloc.samba.org/talloc/doc/html/index.html |
-| **libtasn1** | 4.20.0-1 | This is GNU Libtasn1, a small ASN.1 library | https://www.gnu.org/software/libtasn1/ |
-| **libtasn1-static** | 4.20.0-1 | Static libraries for libtasn1 | https://www.gnu.org/software/libtasn1/ |
+| **libtasn1** | 4.21.0 | This is GNU Libtasn1, a small ASN.1 library | https://www.gnu.org/software/libtasn1/ |
+| **libtasn1-static** | 4.21.0 | Static libraries for libtasn1 | https://www.gnu.org/software/libtasn1/ |
 | **libtatsu** | 1.0.5-1 | Library handling the communication with Apple's Tatsu Signing Server (TSS) | https://libimobiledevice.org/ |
 | **libtatsu-static** | 1.0.5-1 | Static libraries for libtatsu | https://libimobiledevice.org/ |
 | **libtbb** | 2022.3.0 | oneAPI Threading Building Blocks | https://uxlfoundation.github.io/oneTBB/ |
@@ -1865,7 +1865,7 @@
 | **oorexx-static** | 4.2.0-4 | Static libraries for oorexx | https://www.oorexx.org/ |
 | **open-adventure** | 1.20-1 | Forward-port of the original Colossal Cave Adventure from 1976-77 | http://www.catb.org/~esr/open-adventure/ |
 | **openal-soft** | 1.25.0-1 | Software implementation of the OpenAL API | https://openal-soft.org/ |
-| **openbabel** | 3.1.1-13 | Open Babel is a chemical toolbox designed to speak the many languages of chemical data | http://openbabel.org/wiki/Main_Page |
+| **openbabel** | 3.1.1-14 | Open Babel is a chemical toolbox designed to speak the many languages of chemical data | http://openbabel.org/wiki/Main_Page |
 | **opencc-tools** | 1.1.9-1 | Command-line tools for OpenCC | https://github.com/BYVoid/OpenCC |
 | **opencl-clhpp** | 2025.07.22 | Khronos OpenCL C++ Headers | https://github.com/KhronosGroup/OpenCL-CLHPP |
 | **opencl-headers** | 2025.07.22 | Khronos OpenCL-Headers | https://github.com/KhronosGroup/OpenCL-Headers |
@@ -2133,7 +2133,7 @@
 | **rage** | 0.11.1-1 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4-1 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4-1 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
-| **railway-cli** | 4.18.0 | This is the command line interface for Railway | https://railway.app |
+| **railway-cli** | 4.23.0 | This is the command line interface for Railway | https://railway.app |
 | **range-v3** | 0.12.0 | Range library for C++14/17/20, basis for C++20's std::ranges | https://github.com/ericniebler/range-v3 |
 | **ranger** | 1.9.4 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-7 | Fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |
