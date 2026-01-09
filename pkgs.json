@@ -1980,6 +1980,12 @@
     "Homepage": "https://github.com/ayntgl/discordo"
   },
   {
+    "Package": "discount",
+    "Version": "3.0.1.2",
+    "Description": "Markdown implementation written in C",
+    "Homepage": "https://www.pell.portland.or.us/~orc/Code/discount/"
+  },
+  {
     "Package": "diskus",
     "Version": "0.9.0",
     "Description": "A minimal, fast alternative to du -sh",
@@ -12097,7 +12103,7 @@
   },
   {
     "Package": "proot",
-    "Version": "5.1.107-68",
+    "Version": "5.1.107-69",
     "Description": "Emulate chroot, bind mount and binfmt_misc for non-root users",
     "Homepage": "https://proot-me.github.io/"
   },
