@@ -4611,19 +4611,27 @@
   Description: Static libraries for liblua53
   Homepage: https://www.lua.org/
 - Package: liblua54
-  Version: 5.4.8-3
-  Description: Shared library for the Lua interpreter
+  Version: 5.4.8-4
+  Description: Shared library for the Lua interpreter (v5.4.x)
   Homepage: https://www.lua.org/
 - Package: liblua54-static
-  Version: 5.4.8-3
+  Version: 5.4.8-4
   Description: Static libraries for liblua54
   Homepage: https://www.lua.org/
+- Package: liblua55
+  Version: 5.5.0
+  Description: Shared library for the Lua interpreter (v5.5.x)
+  Homepage: https://www.lua.org/
+- Package: liblua55-static
+  Version: 5.5.0
+  Description: Static libraries for liblua55
+  Homepage: https://www.lua.org/
 - Package: libluajit
-  Version: 1:2.1.1765228720+g7152e15
+  Version: 1:2.1.1767980792+g707c12b
   Description: Just-In-Time Compiler for Lua
   Homepage: https://luajit.org/
 - Package: libluajit-static
-  Version: 1:2.1.1765228720+g7152e15
+  Version: 1:2.1.1767980792+g707c12b
   Description: Static libraries for libluajit
   Homepage: https://luajit.org/
 - Package: liblz4
@@ -6419,11 +6427,15 @@
   Description: Pattern-matching library for Lua 5.3
   Homepage: https://www.inf.puc-rio.br/~roberto/lpeg
 - Package: lua54
-  Version: 5.4.8-3
+  Version: 5.4.8-4
+  Description: Simple, extensible, embeddable programming language
+  Homepage: https://www.lua.org/
+- Package: lua55
+  Version: 5.5.0
   Description: Simple, extensible, embeddable programming language
   Homepage: https://www.lua.org/
 - Package: luajit
-  Version: 1:2.1.1765228720+g7152e15
+  Version: 1:2.1.1767980792+g707c12b
   Description: Just-In-Time compiler for Lua - command line tool
   Homepage: https://luajit.org/
 - Package: luajit-lgi
@@ -7947,7 +7959,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pocketbase
-  Version: 0.35.0
+  Version: 0.35.1
   Description: An open source Go backend
   Homepage: https://github.com/pocketbase/pocketbase
 - Package: poke
@@ -10339,7 +10351,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2026.01.07
+  Version: 2026.01.10
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vttest
