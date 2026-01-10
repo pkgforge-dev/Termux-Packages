@@ -2859,7 +2859,7 @@
   Description: Command-line wrapper for git that makes you better at GitHub
   Homepage: https://hub.github.com/
 - Package: hugo
-  Version: 0.154.3
+  Version: 0.154.4
   Description: A fast and flexible static site generator
   Homepage: https://gohugo.io/
 - Package: hummin
@@ -8191,7 +8191,7 @@
   Description: Python 3 programming language intended to enable clear programs
   Homepage: https://python.org/
 - Package: python-apsw
-  Version: 3.51.1.0
+  Version: 3.51.2.0
   Description: Another Python SQLite Wrapper
   Homepage: https://rogerbinns.github.io/apsw/
 - Package: python-apt
