@@ -1396,9 +1396,9 @@
 | **libspice-protocol** | 0.14.5 | SPICE protocol headers | https://www.spice-space.org/ |
 | **libspice-server** | 0.16.0-1 | Implements the server side of the SPICE protocol | https://www.spice-space.org/ |
 | **libspice-server-static** | 0.16.0-1 | Static libraries for libspice-server | https://www.spice-space.org/ |
-| **libsqlite** | 3.51.1 | Library implementing a self-contained and transactional SQL database engine | https://www.sqlite.org |
-| **libsqlite-static** | 3.51.1 | Static libraries for libsqlite | https://www.sqlite.org |
-| **libsqlite-tcl** | 3.51.1 | tcl bindings for SQLite | https://www.sqlite.org |
+| **libsqlite** | 3.51.2 | Library implementing a self-contained and transactional SQL database engine | https://www.sqlite.org |
+| **libsqlite-static** | 3.51.2 | Static libraries for libsqlite | https://www.sqlite.org |
+| **libsqlite-tcl** | 3.51.2 | tcl bindings for SQLite | https://www.sqlite.org |
 | **libsrt** | 1.5.4-2 | Secure Reliable Transport (SRT) Protocol | https://github.com/Haivision/srt |
 | **libssh** | 0.11.3 | Tiny C SSH library | https://www.libssh.org/ |
 | **libssh2** | 1.11.1-1 | Client-side library implementing the SSH2 protocol | https://www.libssh2.org |
@@ -1799,7 +1799,7 @@
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20260105 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.11.5-2 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
-| **neovim-nightly** | 0.12.0~dev-1998+g272ec9627c-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
+| **neovim-nightly** | 0.12.0~dev-2009+gcb77bd1b86-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
 | **nerdfix** | 0.4.2-1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.5.2 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.5.2 | Static libraries for net-snmp | http://www.net-snmp.org/ |
@@ -2320,7 +2320,7 @@
 | **spirv-llvm-translator** | 21.1.3 | SPIR-V LLVM Translator | https://github.com/KhronosGroup/SPIRV-LLVM-Translator |
 | **spirv-tools** | 1.4.335.0 | SPIR-V Tools | https://github.com/KhronosGroup/SPIRV-Tools |
 | **sqlcipher** | 4.12.0-2 | SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files | https://github.com/sqlcipher/sqlcipher |
-| **sqlite** | 3.51.1 | Command line shell for SQLite | https://www.sqlite.org |
+| **sqlite** | 3.51.2 | Command line shell for SQLite | https://www.sqlite.org |
 | **squashfs-tools-ng** | 1.3.2-1 | New set of tools for working with SquashFS images | https://github.com/AgentD/squashfs-tools-ng |
 | **squashfs-tools-ng-static** | 1.3.2-1 | Static libraries for squashfs-tools-ng | https://github.com/AgentD/squashfs-tools-ng |
 | **squeezelite** | 2.0.0.1517-2 | A small headless Logitech Squeezebox emulator | https://ralph-irving.github.io/squeezelite.html |
