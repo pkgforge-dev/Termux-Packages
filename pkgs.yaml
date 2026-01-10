@@ -2943,7 +2943,7 @@
   Description: Extracts and converts images in MS Windows(R) icon and cursor files
   Homepage: https://www.nongnu.org/icoutils/
 - Package: icu-devtools
-  Version: "78.1"
+  Version: "78.2"
   Description: Development utilities for International Components for Unicode
   Homepage: http://site.icu-project.org/home
 - Package: id3lib
@@ -4343,11 +4343,11 @@
   Description: Static libraries for libiconv
   Homepage: https://www.gnu.org/software/libiconv/
 - Package: libicu
-  Version: "78.1"
+  Version: "78.2"
   Description: International Components for Unicode library
   Homepage: http://site.icu-project.org/home
 - Package: libicu-static
-  Version: "78.1"
+  Version: "78.2"
   Description: Static libraries for libicu
   Homepage: http://site.icu-project.org/home
 - Package: libid3tag
@@ -6275,15 +6275,15 @@
   Description: A simple tool for batch test ss/ssr/v2ray/trojan servers
   Homepage: https://github.com/xxf098/LiteSpeedTest
 - Package: littlecms
-  Version: 2.17-1
+  Version: "2.18"
   Description: Color management library
   Homepage: http://www.littlecms.com/
 - Package: littlecms-static
-  Version: 2.17-1
+  Version: "2.18"
   Description: Static libraries for littlecms
   Homepage: http://www.littlecms.com/
 - Package: littlecms-utils
-  Version: 2.17-1
+  Version: "2.18"
   Description: Color management utilities
   Homepage: http://www.littlecms.com/
 - Package: llbuild
@@ -10775,7 +10775,7 @@
   Description: An advanced IRC bouncer
   Homepage: https://znc.in/
 - Package: zola
-  Version: 0.21.0-1
+  Version: 0.22.0
   Description: A fast static site generator in a single binary with everything built-in.
   Homepage: https://github.com/getzola/zola
 - Package: zopfli

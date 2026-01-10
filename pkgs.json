@@ -4417,7 +4417,7 @@
   },
   {
     "Package": "icu-devtools",
-    "Version": "78.1",
+    "Version": "78.2",
     "Description": "Development utilities for International Components for Unicode",
     "Homepage": "http://site.icu-project.org/home"
   },
@@ -6517,13 +6517,13 @@
   },
   {
     "Package": "libicu",
-    "Version": "78.1",
+    "Version": "78.2",
     "Description": "International Components for Unicode library",
     "Homepage": "http://site.icu-project.org/home"
   },
   {
     "Package": "libicu-static",
-    "Version": "78.1",
+    "Version": "78.2",
     "Description": "Static libraries for libicu",
     "Homepage": "http://site.icu-project.org/home"
   },
@@ -9415,19 +9415,19 @@
   },
   {
     "Package": "littlecms",
-    "Version": "2.17-1",
+    "Version": "2.18",
     "Description": "Color management library",
     "Homepage": "http://www.littlecms.com/"
   },
   {
     "Package": "littlecms-static",
-    "Version": "2.17-1",
+    "Version": "2.18",
     "Description": "Static libraries for littlecms",
     "Homepage": "http://www.littlecms.com/"
   },
   {
     "Package": "littlecms-utils",
-    "Version": "2.17-1",
+    "Version": "2.18",
     "Description": "Color management utilities",
     "Homepage": "http://www.littlecms.com/"
   },
@@ -16165,7 +16165,7 @@
   },
   {
     "Package": "zola",
-    "Version": "0.21.0-1",
+    "Version": "0.22.0",
     "Description": "A fast static site generator in a single binary with everything built-in.",
     "Homepage": "https://github.com/getzola/zola"
   },
