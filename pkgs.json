@@ -1086,12 +1086,6 @@
     "Homepage": "https://c-ares.org/"
   },
   {
-    "Package": "c-script",
-    "Version": "0.15.1",
-    "Description": "Compile and execute C scripts in one go!",
-    "Homepage": "https://github.com/ryanmjacobs/c"
-  },
-  {
     "Package": "c-toxcore",
     "Version": "0.2.20-p20250105-2",
     "Description": "Backend library for the Tox protocol",
@@ -2275,7 +2269,7 @@
   },
   {
     "Package": "doxygen",
-    "Version": "1.16.0-1",
+    "Version": "1.16.1",
     "Description": "A documentation system for C++, C, Java, IDL and PHP",
     "Homepage": "http://www.doxygen.org"
   },
@@ -3708,12 +3702,6 @@
     "Homepage": "https://aditya-k2.github.io/gomp/"
   },
   {
-    "Package": "google-drive-upload",
-    "Version": "4.5",
-    "Description": "Bash scripts to upload files to google drive",
-    "Homepage": "https://github.com/labbots/google-drive-upload"
-  },
-  {
     "Package": "google-glog",
     "Version": "0.7.1-2",
     "Description": "Logging library for C++",
@@ -3813,12 +3801,6 @@
     "Package": "gpgmepp",
     "Version": "2.0.0",
     "Description": "C++ bindings for GPGME",
-    "Homepage": "https://www.gnupg.org/related_software/gpgme/"
-  },
-  {
-    "Package": "gpgmepp-static",
-    "Version": "1.24.3-1",
-    "Description": "Static libraries for gpgmepp",
     "Homepage": "https://www.gnupg.org/related_software/gpgme/"
   },
   {
@@ -4074,12 +4056,6 @@
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
-    "Package": "has",
-    "Version": "1.5.2",
-    "Description": "has checks presence of various command line tools and their versions on the path",
-    "Homepage": "https://github.com/kdabir/has"
-  },
-  {
     "Package": "hash-slinger",
     "Version": "3.4",
     "Description": "Various tools to generate special DNS records",
@@ -4216,12 +4192,6 @@
     "Version": "0.8.2-3",
     "Description": "Instant coding answers via the command line (howdoi in rust)",
     "Homepage": "https://github.com/WindSoilder/hors"
-  },
-  {
-    "Package": "hr",
-    "Version": "1.5",
-    "Description": "A horizontal ruler for your terminal",
-    "Homepage": "https://github.com/LuRsT/hr"
   },
   {
     "Package": "hstr",
@@ -4627,7 +4597,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.24.717",
+    "Version": "0.24.821",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -4951,7 +4921,7 @@
   },
   {
     "Package": "kubelogin",
-    "Version": "1.35.0",
+    "Version": "1.35.2",
     "Description": "A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication",
     "Homepage": "https://github.com/int128/kubelogin"
   },
@@ -11430,12 +11400,6 @@
     "Homepage": "https://www.tianocore.org/"
   },
   {
-    "Package": "oxc-language-server",
-    "Version": "1.36.0",
-    "Description": "Oxc JavaScript linter language server",
-    "Homepage": "https://oxc.rs/"
-  },
-  {
     "Package": "oxfmt",
     "Version": "1.38.0",
     "Description": "Oxc JavaScript formatter",
@@ -15084,12 +15048,6 @@
     "Homepage": "https://uftrace.github.io/slide"
   },
   {
-    "Package": "ugit",
-    "Version": "5.9",
-    "Description": "ugit helps you undo your last git command with grace. Your damage control git buddy",
-    "Homepage": "https://github.com/Bhupesh-V/ugit"
-  },
-  {
     "Package": "ugrep",
     "Version": "7.5.0-1",
     "Description": "A faster, user-friendly and compatible grep replacement",
@@ -15381,12 +15339,6 @@
     "Package": "vapoursynth",
     "Version": "73",
     "Description": "Video processing framework with simplicity in mind",
-    "Homepage": "https://www.vapoursynth.com/"
-  },
-  {
-    "Package": "vapoursynth-static",
-    "Version": "72-1",
-    "Description": "Static libraries for vapoursynth",
     "Homepage": "https://www.vapoursynth.com/"
   },
   {

@@ -191,7 +191,6 @@
 | **byobu** | 6.13 | Byobu is a GPLv3 open source text-based window manager and terminal multiplexer | https://www.byobu.org/ |
 | **bzip2** | 1.0.8-8 | Tools for working with bzip2 compression | http://www.bzip.org/ |
 | **c-ares** | 1.34.6 | Library for asynchronous DNS requests (including name resolves) | https://c-ares.org/ |
-| **c-script** | 0.15.1 | Compile and execute C 'scripts' in one go! | https://github.com/ryanmjacobs/c |
 | **c-toxcore** | 0.2.20-p20250105-2 | Backend library for the Tox protocol | https://tox.chat |
 | **c-toxcore-static** | 0.2.20-p20250105-2 | Static libraries for c-toxcore | https://tox.chat |
 | **ca-certificates** | 1:2025.12.02 | Common CA certificates | https://curl.se/docs/caextract.html |
@@ -389,7 +388,7 @@
 | **dotnet8.0** | 8.0.22-2 | .NET 8.0 | https://dotnet.microsoft.com/en-us/ |
 | **dotnet9.0** | 9.0.11-1 | .NET 9.0 | https://dotnet.microsoft.com/en-us/ |
 | **double-conversion** | 3.4.0 | Binary-decimal and decimal-binary routines for IEEE doubles | https://github.com/google/double-conversion |
-| **doxygen** | 1.16.0-1 | A documentation system for C++, C, Java, IDL and PHP | http://www.doxygen.org |
+| **doxygen** | 1.16.1 | A documentation system for C++, C, Java, IDL and PHP | http://www.doxygen.org |
 | **dpkg** | 1.22.6-5 | Debian package management system | https://packages.debian.org/dpkg |
 | **dpkg-perl** | 1.22.6-5 | Perl modules for dpkg | https://packages.debian.org/dpkg |
 | **dpkg-scanpackages** | 1.22.6-5 | Creates Packages index files | https://packages.debian.org/dpkg |
@@ -628,7 +627,6 @@
 | **golang** | 3:1.25.4 | Go programming language compiler | https://go.dev/ |
 | **golang-doc** | 3:1.25.4 | Go programming language - documentation | https://go.dev/ |
 | **gomp** | 2023.02.02-3 | MPD client inspired by ncmpcpp with builtin cover-art view and LastFM integration | https://aditya-k2.github.io/gomp/ |
-| **google-drive-upload** | 4.5 | Bash scripts to upload files to google drive | https://github.com/labbots/google-drive-upload |
 | **google-glog** | 0.7.1-2 | Logging library for C++ | https://github.com/google/glog |
 | **googletest** | 1.17.0-1 | Google C++ testing framework | https://github.com/google/googletest |
 | **goose** | 3.26.0 | A database migration tool. Supports SQL migrations and Go functions. | https://pressly.github.io/goose |
@@ -646,7 +644,6 @@
 | **gpgme** | 2.0.1 | Library designed to make access to GnuPG easier | https://www.gnupg.org/related_software/gpgme/ |
 | **gpgme-static** | 2.0.1 | Static libraries for gpgme | https://www.gnupg.org/related_software/gpgme/ |
 | **gpgmepp** | 2.0.0 | C++ bindings for GPGME | https://www.gnupg.org/related_software/gpgme/ |
-| **gpgmepp-static** | 1.24.3-1 | Static libraries for gpgmepp | https://www.gnupg.org/related_software/gpgme/ |
 | **gpgv** | 2.5.11 | GNU privacy guard - signature verification tool | https://www.gnupg.org/ |
 | **gping** | 1.20.1-1 | Ping, but with a graph | https://github.com/orf/gping |
 | **gpsbabel** | 1.4.4-3 | GPS file conversion plus transfer to/from GPS units | https://www.gpsbabel.org/ |
@@ -689,7 +686,6 @@
 | **harfbuzz** | 12.3.0 | OpenType text shaping engine | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
 | **harfbuzz-icu** | 12.3.0 | OpenType text shaping engine ICU backend | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
 | **harfbuzz-utils** | 12.3.0 | Tools using the harfbuzz library | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
-| **has** | 1.5.2 | has checks presence of various command line tools and their versions on the path | https://github.com/kdabir/has |
 | **hash-slinger** | 3.4 | Various tools to generate special DNS records | https://github.com/letoams/hash-slinger |
 | **hashdeep** | 4.4-9 | Programs to compute hashsums of arbitrary number of files recursively | https://md5deep.sourceforge.net/ |
 | **hcl** | 2.24.0-1 | A toolkit for creating structured configuration languages | https://github.com/hashicorp/hcl |
@@ -713,7 +709,6 @@
 | **hoedown-static** | 3.0.7-4 | Static libraries for hoedown | https://github.com/hoedown/hoedown |
 | **hollywood** | 1.22-1 | Fill your console with Hollywood melodrama technobabble | https://launchpad.net/hollywood |
 | **hors** | 0.8.2-3 | Instant coding answers via the command line (howdoi in rust) | https://github.com/WindSoilder/hors |
-| **hr** | 1.5 | A horizontal ruler for your terminal | https://github.com/LuRsT/hr |
 | **hstr** | 3.1-1 | Shell history suggest box for bash and zsh | https://github.com/dvorka/hstr |
 | **html-xml-utils** | 8.7 | A number of simple utilities for manipulating HTML and XML files | https://www.w3.org/Tools/HTML-XML-utils/ |
 | **html2text** | 1:2.4.0 | Utility that converts HTML documents into plain text | http://www.mbayer.de/html2text/ |
@@ -781,7 +776,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4-1 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-2 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.24.717 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.24.821 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **jadx** | 1.5.3-1 | Dex to Java decompiler | https://github.com/skylot/jadx |
 | **jadx-x** | 1.5.3-1 | Dex to Java decompiler GUI | https://github.com/skylot/jadx |
 | **janet** | 1.40.1 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
@@ -835,7 +830,7 @@
 | **krb5** | 1.22.1-1 | The Kerberos network authentication system | https://web.mit.edu/kerberos |
 | **kubecolor** | 0.5.3 | Colorize your kubectl output | https://github.com/kubecolor/kubecolor |
 | **kubectl** | 1.35.0 | Kubernetes.io client binary | https://kubernetes.io/ |
-| **kubelogin** | 1.35.0 | A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication | https://github.com/int128/kubelogin |
+| **kubelogin** | 1.35.2 | A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication | https://github.com/int128/kubelogin |
 | **kubo** | 0.39.0 | A peer-to-peer hypermedia distribution protocol | https://ipfs.io/ |
 | **ladspa-sdk** | 1.17-2 | Linux Audio Developer's Simple Plugin API | https://www.ladspa.org/ |
 | **lame** | 3.100-7 | High quality MPEG Audio Layer III (MP3) encoder - frontend | https://lame.sourceforge.io/ |
@@ -1915,7 +1910,6 @@
 | **ossp-uuid** | 1.6.2-4 | ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122. | http://www.ossp.org/pkg/lib/uuid/ |
 | **ossp-uuid-static** | 1.6.2-4 | Static libraries for ossp-uuid | http://www.ossp.org/pkg/lib/uuid/ |
 | **ovmf** | 20231122-16.fc40-0 | Open Virtual Machine Firmware | https://www.tianocore.org/ |
-| **oxc-language-server** | 1.36.0 | Oxc JavaScript linter language server | https://oxc.rs/ |
 | **oxfmt** | 1.38.0 | Oxc JavaScript formatter | https://oxc.rs/ |
 | **oxlint** | 1.38.0 | Oxc JavaScript linter | https://oxc.rs/ |
 | **p11-kit** | 0.25.10 | Provides a way to load and enumerate PKCS#11 modules | https://p11-glue.github.io/p11-glue/p11-kit.html |
@@ -2524,7 +2518,6 @@
 | **udftools** | 2.3-1 | Linux tools for UDF filesystems and DVD/CD-R(W) drives | https://github.com/pali/udftools |
 | **udocker** | 1.3.17 | A basic user tool to execute simple docker containers in batch or interactive systems without root privileges. | https://indigo-dc.github.io/udocker |
 | **uftrace** | 0.18.1 | Function (graph) tracer for user-space | https://uftrace.github.io/slide |
-| **ugit** | 5.9 | ugit helps you undo your last git command with grace. Your damage control git buddy | https://github.com/Bhupesh-V/ugit |
 | **ugrep** | 7.5.0-1 | A faster, user-friendly and compatible grep replacement | https://github.com/Genivia/ugrep |
 | **unar** | 1.10.8-3 | Command line tools for archive and file unarchiving and extraction | https://theunarchiver.com/command-line |
 | **unbound** | 1.24.2 | Unbound command-line tools | https://unbound.net/ |
@@ -2574,7 +2567,6 @@
 | **vamp-plugin-sdk** | 2.10-3 | An API for audio analysis and feature extraction plugins | https://www.vamp-plugins.org/ |
 | **vamp-plugin-sdk-static** | 2.10-3 | Static libraries for vamp-plugin-sdk | https://www.vamp-plugins.org/ |
 | **vapoursynth** | 73 | Video processing framework with simplicity in mind | https://www.vapoursynth.com/ |
-| **vapoursynth-static** | 72-1 | Static libraries for vapoursynth | https://www.vapoursynth.com/ |
 | **vbindiff** | 3.0-beta5-1 | Visual binary diff | https://www.cjmweb.net/vbindiff/ |
 | **vcsh** | 2.0.10 | Config manager based on Git | https://github.com/RichiH/vcsh |
 | **vde2** | 2.3.3-5 | Virtual Distributed Ethernet for emulators like qemu | https://github.com/virtualsquare/vde-2 |
