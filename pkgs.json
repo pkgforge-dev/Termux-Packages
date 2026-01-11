@@ -5503,13 +5503,13 @@
   },
   {
     "Package": "libcap-ng",
-    "Version": "2:0.8.5-1",
+    "Version": "2:0.9",
     "Description": "Library making programming with POSIX capabilities easier than traditional libcap",
     "Homepage": "https://people.redhat.com/sgrubb/libcap-ng/"
   },
   {
     "Package": "libcap-ng-static",
-    "Version": "2:0.8.5-1",
+    "Version": "2:0.9",
     "Description": "Static libraries for libcap-ng",
     "Homepage": "https://people.redhat.com/sgrubb/libcap-ng/"
   },
