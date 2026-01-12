@@ -720,7 +720,7 @@
 | **httrack-data** | 3.49.6-1 | Platform-independent data for httrack | http://www.httrack.com |
 | **httrack-static** | 3.49.6-1 | Static libraries for httrack | http://www.httrack.com |
 | **hub** | 2.14.2-6 | Command-line wrapper for git that makes you better at GitHub | https://hub.github.com/ |
-| **hugo** | 0.154.4 | A fast and flexible static site generator | https://gohugo.io/ |
+| **hugo** | 0.154.5 | A fast and flexible static site generator | https://gohugo.io/ |
 | **hummin** | 2021.05.18-4 | Command line client for the imperial library of trantor | https://trantor.is/ |
 | **hunspell** | 1.7.2-1 | Spell checker | https://hunspell.github.io |
 | **hunspell-en-us** | 20240129 | American english dictionary for hunspell | https://hunspell.github.io |
@@ -813,7 +813,7 @@
 | **just** | 1.46.0 | A handy way to save and run project-specific commands | https://just.systems |
 | **jython** | 2.7.4-1 | Python for the Java Platform | https://www.jython.org/ |
 | **k2pdfopt** | 2.55-4 | A tool that optimizes PDF files for viewing on mobile readers | https://www.willus.com/k2pdfopt/ |
-| **k9s** | 0.50.16 | Kubernetes CLI To Manage Your Clusters In Style! | https://k9scli.io |
+| **k9s** | 0.50.18 | Kubernetes CLI To Manage Your Clusters In Style! | https://k9scli.io |
 | **kainjow-mustache** | 4.1 | Mustache implementation for modern C++ | https://github.com/kainjow/Mustache |
 | **kakoune** | 2025.06.03-2 | Code editor heavily inspired by Vim | https://kakoune.org/ |
 | **kakoune-lsp** | 19.0.1 | Language Server Protocol Client for the Kakoune editor | https://github.com/kakoune-lsp/kakoune-lsp |
@@ -2590,7 +2590,7 @@
 | **vlc-static** | 3.0.23 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-4 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.3-1 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 2026.01.10 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
+| **vtm** | 2026.01.11 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
 | **vttest** | 20251205 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-5 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.4.333 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
