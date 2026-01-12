@@ -999,7 +999,7 @@
   Description: Command producing a Matrix-style animation
   Homepage: https://github.com/abishekvashok/cmatrix
 - Package: cmocka
-  Version: 2.0.1
+  Version: 2.0.2
   Description: cmocka is an unit testing framework for C
   Homepage: https://cmocka.org/
 - Package: cmus
@@ -7599,11 +7599,11 @@
   Description: Open Virtual Machine Firmware
   Homepage: https://www.tianocore.org/
 - Package: oxfmt
-  Version: 1.38.0
+  Version: 1.39.0
   Description: Oxc JavaScript formatter
   Homepage: https://oxc.rs/
 - Package: oxlint
-  Version: 1.38.0
+  Version: 1.39.0
   Description: Oxc JavaScript linter
   Homepage: https://oxc.rs/
 - Package: p11-kit
@@ -8787,7 +8787,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: "20260105"
+  Version: "20260112"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://rust-analyzer.github.io/
 - Package: rust-bindgen
