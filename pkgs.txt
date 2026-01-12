@@ -751,7 +751,7 @@
  iperf3  3.20  TCP, UDP, and SCTP network bandwidth measurement tool  https://github.com/esnet/iperf 
  iperf3-static  3.20  Static libraries for iperf3  https://github.com/esnet/iperf 
  ipmitool  1.8.19-1  Command-line interface to IPMI-enabled devices  https://github.com/ipmitool/ipmitool 
- iproute2  6.18.0  Utilities for controlling networking  https://wiki.linuxfoundation.org/networking/iproute2 
+ iproute2  6.18.0-1  Utilities for controlling networking  https://wiki.linuxfoundation.org/networking/iproute2 
  ipv6calc  4.4.0  Does some format changes and calculations of IPv6 addresses  https://www.deepspace6.net/projects/ipv6calc.html 
  ipv6toolkit  2022.09.30-4  SI6 Networks IPv6 Toolkit  https://www.si6networks.com/research/tools/ipv6toolkit/ 
  ircd-irc2  2.11.2p3-3  An Internet Relay Chat (IRC) daemon  http://www.irc.org/ 
@@ -1522,7 +1522,7 @@
  libxls  1.6.3-2  A C library for reading Excel files in the nasty old binary OLE format  https://github.com/libxls/libxls 
  libxls-static  1.6.3-2  Static libraries for libxls  https://github.com/libxls/libxls 
  libxls2csv  1.6.3-2  A command-line tool for converting XLS to CSV  https://github.com/libxls/libxls 
- libxlsxwriter  1.2.3-1  A C library for creating Excel XLSX files  https://libxlsxwriter.github.io/ 
+ libxlsxwriter  1.2.4  A C library for creating Excel XLSX files  https://libxlsxwriter.github.io/ 
  libxml2  2.15.1-1  Library for parsing XML documents  https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home 
  libxml2-python  2.15.1-1  Python bindings for libxml2  https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home 
  libxml2-utils  2.15.1-1  XML utilities  https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home 
@@ -2218,7 +2218,7 @@
  samefile  2.15-6  Finds files with identical contents, independent of file name  http://www.schweikhardt.net/samefile/ 
  samurai  1.2-2  ninja-compatible build tool written in C  https://github.com/michaelforney/samurai 
  sassc  3.6.2-1  libsass command line driver  https://github.com/sass/sassc 
- sc-im  0.8.5-2  An improved version of sc, a spreadsheet calculator  https://github.com/andmarti1424/sc-im 
+ sc-im  0.8.5-3  An improved version of sc, a spreadsheet calculator  https://github.com/andmarti1424/sc-im 
  scala  3.7.4  Scala 3 compiler and standard library.  https://www.scala-lang.org 
  scc  3.6.0  Counts physical the lines of code, blank lines, comment lines, and physical lines of source code  https://github.com/boyter/scc 
  sccache  0.12.0  sccache is ccache with cloud storage  https://github.com/mozilla/sccache 
