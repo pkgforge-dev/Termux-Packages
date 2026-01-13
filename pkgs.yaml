@@ -2171,11 +2171,11 @@
   Description: Utility to print configuration values
   Homepage: https://github.com/termux/getconf
 - Package: geth
-  Version: 1.16.7
+  Version: 1.16.8
   Description: Go implementation of the Ethereum protocol
   Homepage: https://geth.ethereum.org/
 - Package: geth-utils
-  Version: 1.16.7
+  Version: 1.16.8
   Description: Additional utilities for Geth (like abigen, bootnode, evm, puppeth)
   Homepage: https://geth.ethereum.org/
 - Package: gettext
@@ -8935,7 +8935,7 @@
   Description: Static libraries for seafile-client
   Homepage: https://seafile.com
 - Package: seanime
-  Version: 3.2.5
+  Version: 3.3.0
   Description: Self-hosted anime and manga server for sea rovers.
   Homepage: https://github.com/5rahim/seanime
 - Package: seccure
@@ -9162,6 +9162,10 @@
   Version: 0.16.20
   Description: A lightweight C library for storing RDF data in memory
   Homepage: https://drobilla.net/software/sord.html
+- Package: sound-theme-freedesktop
+  Version: "0.8"
+  Description: Freedesktop sound theme
+  Homepage: https://freedesktop.org/wiki/Specifications/sound-theme-spec
 - Package: sox
   Version: 14.4.2-28
   Description: Command line utility for converting between and applying effects to various audio files formats
@@ -10319,7 +10323,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2026.01.11
+  Version: 2026.01.13
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vttest
