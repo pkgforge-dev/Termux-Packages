@@ -195,7 +195,7 @@
   Description: AOSP-based mksh, toybox and iputils for termux-docker
   Homepage: https://source.android.com/
 - Package: apache-orc
-  Version: 2.2.1-1
+  Version: 2.2.2
   Description: Columnar storage for Hadoop workloads
   Homepage: https://orc.apache.org/
 - Package: apache2
@@ -799,7 +799,7 @@
   Description: Renders images in the terminal
   Homepage: https://posva.net/shell/retro/bash/2013/05/27/catimg
 - Package: cava
-  Version: 0.10.6
+  Version: 0.10.7
   Description: Console-based Audio Visualizer. Works with MPD and Pulseaudio
   Homepage: https://github.com/karlstav/cava
 - Package: cavez-of-phear
@@ -3299,7 +3299,7 @@
   Description: LastPass command line interface tool
   Homepage: https://lastpass.com/
 - Package: lazygit
-  Version: 0.58.0
+  Version: 0.58.1
   Description: Simple terminal UI for git commands
   Homepage: https://github.com/jesseduffield/lazygit
 - Package: lcal
@@ -3435,11 +3435,11 @@
   Description: Android fork of libselinux, an SELinux userland library
   Homepage: https://selinuxproject.org
 - Package: libandroid-shmem
-  Version: 0.5-1
+  Version: "0.7"
   Description: System V shared memory emulation on Android using ashmem
   Homepage: https://github.com/termux/libandroid-shmem
 - Package: libandroid-shmem-static
-  Version: 0.5-1
+  Version: "0.7"
   Description: Static libraries for libandroid-shmem
   Homepage: https://github.com/termux/libandroid-shmem
 - Package: libandroid-spawn
@@ -5123,7 +5123,7 @@
   Description: Posix-compatible runtime libraries for libpcre
   Homepage: https://www.pcre.org
 - Package: libpcsclite
-  Version: 2.4.0
+  Version: 2.4.1
   Description: Middleware to access a smart card using SCard API (PC/SC).
   Homepage: https://pcsclite.apdu.fr/
 - Package: libphysfs
@@ -7747,7 +7747,7 @@
   Description: A grep with Perl-compatible regular expressions
   Homepage: https://www.pcre.org
 - Package: pcscd
-  Version: 2.4.0
+  Version: 2.4.1
   Description: Middleware to access a smart card using SCard API (PC/SC). (daemon side)
   Homepage: https://pcsclite.apdu.fr/
 - Package: pdf2svg
@@ -7991,11 +7991,11 @@
   Description: Spatial database extender for PostgreSQL object-relational database
   Homepage: https://postgis.net
 - Package: postgresql
-  Version: 17.0-5
+  Version: "18.1"
   Description: Object-relational SQL database
   Homepage: https://www.postgresql.org
 - Package: postgresql-static
-  Version: 17.0-5
+  Version: "18.1"
   Description: Static libraries for postgresql
   Homepage: https://www.postgresql.org
 - Package: potrace
@@ -8483,7 +8483,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 4.23.0
+  Version: 4.23.1
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
@@ -10351,7 +10351,7 @@
   Description: Vulkan Loader for Android
   Homepage: https://source.android.com/devices/graphics/arch-vulkan
 - Package: vulkan-loader-generic
-  Version: 1.4.337
+  Version: 1.4.338
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
@@ -10359,7 +10359,7 @@
   Description: Vulkan Tools and Utilities
   Homepage: https://github.com/KhronosGroup/Vulkan-Tools
 - Package: vulkan-utility-libraries
-  Version: 1.4.337
+  Version: 1.4.338
   Description: Utility Libraries for Vulkan
   Homepage: https://github.com/KhronosGroup/Vulkan-Utility-Libraries
 - Package: vulkan-validation-layers

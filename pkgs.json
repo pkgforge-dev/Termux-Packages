@@ -295,7 +295,7 @@
   },
   {
     "Package": "apache-orc",
-    "Version": "2.2.1-1",
+    "Version": "2.2.2",
     "Description": "Columnar storage for Hadoop workloads",
     "Homepage": "https://orc.apache.org/"
   },
@@ -1201,7 +1201,7 @@
   },
   {
     "Package": "cava",
-    "Version": "0.10.6",
+    "Version": "0.10.7",
     "Description": "Console-based Audio Visualizer. Works with MPD and Pulseaudio",
     "Homepage": "https://github.com/karlstav/cava"
   },
@@ -4951,7 +4951,7 @@
   },
   {
     "Package": "lazygit",
-    "Version": "0.58.0",
+    "Version": "0.58.1",
     "Description": "Simple terminal UI for git commands",
     "Homepage": "https://github.com/jesseduffield/lazygit"
   },
@@ -5155,13 +5155,13 @@
   },
   {
     "Package": "libandroid-shmem",
-    "Version": "0.5-1",
+    "Version": "0.7",
     "Description": "System V shared memory emulation on Android using ashmem",
     "Homepage": "https://github.com/termux/libandroid-shmem"
   },
   {
     "Package": "libandroid-shmem-static",
-    "Version": "0.5-1",
+    "Version": "0.7",
     "Description": "Static libraries for libandroid-shmem",
     "Homepage": "https://github.com/termux/libandroid-shmem"
   },
@@ -7687,7 +7687,7 @@
   },
   {
     "Package": "libpcsclite",
-    "Version": "2.4.0",
+    "Version": "2.4.1",
     "Description": "Middleware to access a smart card using SCard API (PC/SC).",
     "Homepage": "https://pcsclite.apdu.fr/"
   },
@@ -11623,7 +11623,7 @@
   },
   {
     "Package": "pcscd",
-    "Version": "2.4.0",
+    "Version": "2.4.1",
     "Description": "Middleware to access a smart card using SCard API (PC/SC). (daemon side)",
     "Homepage": "https://pcsclite.apdu.fr/"
   },
@@ -11989,13 +11989,13 @@
   },
   {
     "Package": "postgresql",
-    "Version": "17.0-5",
+    "Version": "18.1",
     "Description": "Object-relational SQL database",
     "Homepage": "https://www.postgresql.org"
   },
   {
     "Package": "postgresql-static",
-    "Version": "17.0-5",
+    "Version": "18.1",
     "Description": "Static libraries for postgresql",
     "Homepage": "https://www.postgresql.org"
   },
@@ -12727,7 +12727,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "4.23.0",
+    "Version": "4.23.1",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -15529,7 +15529,7 @@
   },
   {
     "Package": "vulkan-loader-generic",
-    "Version": "1.4.337",
+    "Version": "1.4.338",
     "Description": "Vulkan Loader",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Loader"
   },
@@ -15541,7 +15541,7 @@
   },
   {
     "Package": "vulkan-utility-libraries",
-    "Version": "1.4.337",
+    "Version": "1.4.338",
     "Description": "Utility Libraries for Vulkan",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Utility-Libraries"
   },
