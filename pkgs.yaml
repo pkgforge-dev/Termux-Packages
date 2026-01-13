@@ -7147,7 +7147,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.12.0~dev-2026+g7a6e8d4430-0
+  Version: 0.12.0~dev-2029+g9afd81512b-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -7435,7 +7435,7 @@
   Description: OpenCL driver from system vendor
   Homepage: https://termux.dev
 - Package: opencolorio
-  Version: 2.5.0-1
+  Version: 2.5.1
   Description: A color management framework for visual effects and animation
   Homepage: https://opencolorio.org
 - Package: openexr
@@ -8483,7 +8483,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 4.23.1
+  Version: 4.23.2
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
@@ -10355,7 +10355,7 @@
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
-  Version: 1.4.337
+  Version: 1.4.338
   Description: Vulkan Tools and Utilities
   Homepage: https://github.com/KhronosGroup/Vulkan-Tools
 - Package: vulkan-utility-libraries
