@@ -299,7 +299,7 @@
   Description: An implementation of AsciiDoc in Ruby
   Homepage: https://asciidoctor.org/
 - Package: asciinema
-  Version: 1:3.0.1
+  Version: 1:3.1.0
   Description: Record and share your terminal sessions, the right way
   Homepage: https://asciinema.org/
 - Package: asm-lsp
@@ -1787,7 +1787,7 @@
   Description: To fastly access files and folders
   Homepage: https://github.com/whjvenyl/fasd
 - Package: fastfetch
-  Version: 2.57.0
+  Version: 2.57.1
   Description: A maintained, feature-rich and performance oriented, neofetch like system information tool
   Homepage: https://github.com/fastfetch-cli/fastfetch
 - Package: fastmod
@@ -6651,7 +6651,7 @@
   Description: Tera preprocessor for mdBook
   Homepage: https://github.com/avitex/mdbook-tera
 - Package: mdbook-toc
-  Version: 0.15.2
+  Version: 0.15.3
   Description: A preprocessor for mdbook to add inline Table of Contents support
   Homepage: https://github.com/badboy/mdbook-toc
 - Package: mdbtools
