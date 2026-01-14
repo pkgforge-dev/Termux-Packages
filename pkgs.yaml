@@ -2611,7 +2611,7 @@
   Description: GNU SASL library command line interface
   Homepage: https://www.gnu.org/software/gsasl
 - Package: gsf-tools
-  Version: 1.14.54
+  Version: 1.14.55
   Description: Command-line tools for libgsf
   Homepage: https://gitlab.gnome.org/GNOME/libgsf
 - Package: gsl
@@ -4231,11 +4231,11 @@
   Description: Static libraries for libgsasl
   Homepage: https://www.gnu.org/software/gsasl
 - Package: libgsf
-  Version: 1.14.54
+  Version: 1.14.55
   Description: The G Structured File Library
   Homepage: https://gitlab.gnome.org/GNOME/libgsf
 - Package: libgsf-static
-  Version: 1.14.54
+  Version: 1.14.55
   Description: Static libraries for libgsf
   Homepage: https://gitlab.gnome.org/GNOME/libgsf
 - Package: libgtop
@@ -7147,7 +7147,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.12.0~dev-2029+g9afd81512b-0
+  Version: 0.12.0~dev-2032+gdddc359213-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -10387,7 +10387,7 @@
   Description: The WebAssembly Binary Toolkit
   Homepage: https://github.com/WebAssembly/wabt
 - Package: wakatime-cli
-  Version: 1.132.1
+  Version: 1.137.0
   Description: Command line interface used by all WakaTime text editor plugins
   Homepage: https://wakatime.com/plugins/
 - Package: walk
