@@ -187,11 +187,11 @@
   Description: Command-line tools using AOMedia library
   Homepage: https://aomedia.org/
 - Package: aosp-libs
-  Version: 9.0.0-r76-1
+  Version: 9.0.0-r76-2
   Description: bionic libc, libicuuc, liblzma, zlib, and boringssl for package builder and termux-docker
   Homepage: https://source.android.com/
 - Package: aosp-utils
-  Version: 9.0.0-r76-1
+  Version: 9.0.0-r76-2
   Description: AOSP-based mksh, toybox and iputils for termux-docker
   Homepage: https://source.android.com/
 - Package: apache-orc
@@ -2655,11 +2655,11 @@
   Description: Universal typing tutor
   Homepage: https://www.gnu.org/software/gtypist/
 - Package: guile
-  Version: 3.0.11
+  Version: 3.0.11-1
   Description: Portable, embeddable Scheme implementation written in C
   Homepage: http://www.gnu.org/software/guile/
 - Package: guile-static
-  Version: 3.0.11
+  Version: 3.0.11-1
   Description: Static libraries for guile
   Homepage: http://www.gnu.org/software/guile/
 - Package: guile18
@@ -6331,11 +6331,11 @@
   Description: A Linux port of OpenBSDs ksh
   Homepage: https://github.com/dimkr/loksh
 - Package: lowdown
-  Version: 2.0.4
+  Version: 2.0.4-1
   Description: Markdown utilities and library (fork of hoedown -> sundown -> libsoldout)
   Homepage: https://kristaps.bsd.lv/lowdown
 - Package: lowdown-static
-  Version: 2.0.4
+  Version: 2.0.4-1
   Description: Static libraries for lowdown
   Homepage: https://kristaps.bsd.lv/lowdown
 - Package: lr
@@ -6371,7 +6371,7 @@
   Description: Tracks runtime library calls in dynamically linked programs
   Homepage: http://www.ltrace.org/
 - Package: lua-language-server
-  Version: 3.16.4
+  Version: 3.16.4-1
   Description: Sumneko Lua Language Server coded in Lua
   Homepage: https://github.com/sumneko/lua-language-server
 - Package: lua-lgi
@@ -6443,7 +6443,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.23.0
+  Version: 0.23.0-1
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://nvim-neorocks.github.io/
 - Package: lv2
@@ -9435,7 +9435,7 @@
   Description: Swiss Army Knife for SMTP
   Homepage: http://jetmore.org/john/code/swaks/
 - Package: swi-prolog
-  Version: 10.1.1
+  Version: 10.1.1-1
   Description: Most popular and complete prolog implementation
   Homepage: https://swi-prolog.org/
 - Package: swift-runtime-aarch64

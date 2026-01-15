@@ -57,8 +57,8 @@
 | **antibody** | 6.1.1-3 | The fastest shell plugin manager | https://github.com/getantibody/antibody |
 | **antiword** | 0.37-4 | A free MS Word reader | https://en.m.wikipedia.org/wiki/Antiword |
 | **aom-tools** | 3.13.1-1 | Command-line tools using AOMedia library | https://aomedia.org/ |
-| **aosp-libs** | 9.0.0-r76-1 | bionic libc, libicuuc, liblzma, zlib, and boringssl for package builder and termux-docker | https://source.android.com/ |
-| **aosp-utils** | 9.0.0-r76-1 | AOSP-based mksh, toybox and iputils for termux-docker | https://source.android.com/ |
+| **aosp-libs** | 9.0.0-r76-2 | bionic libc, libicuuc, liblzma, zlib, and boringssl for package builder and termux-docker | https://source.android.com/ |
+| **aosp-utils** | 9.0.0-r76-2 | AOSP-based mksh, toybox and iputils for termux-docker | https://source.android.com/ |
 | **apache-orc** | 2.2.2 | Columnar storage for Hadoop workloads | https://orc.apache.org/ |
 | **apache2** | 1:2.4.66 | Apache Web Server | https://httpd.apache.org |
 | **apkeep** | 0.18.0 | A command-line tool for downloading APK files from various sources | https://github.com/EFForg/apkeep |
@@ -674,8 +674,8 @@
 | **gst-python** | 1.26.10 | Python bindings for GStreamer | https://gstreamer.freedesktop.org/ |
 | **gstreamer** | 1.26.10 | Open source multimedia framework | https://gstreamer.freedesktop.org/ |
 | **gtypist** | 2.10.1-1 | Universal typing tutor | https://www.gnu.org/software/gtypist/ |
-| **guile** | 3.0.11 | Portable, embeddable Scheme implementation written in C | http://www.gnu.org/software/guile/ |
-| **guile-static** | 3.0.11 | Static libraries for guile | http://www.gnu.org/software/guile/ |
+| **guile** | 3.0.11-1 | Portable, embeddable Scheme implementation written in C | http://www.gnu.org/software/guile/ |
+| **guile-static** | 3.0.11-1 | Static libraries for guile | http://www.gnu.org/software/guile/ |
 | **guile18** | 1.8.8-16 | Portable, embeddable Scheme implementation written in C. (legacy branch) | http://www.gnu.org/software/guile/ |
 | **guile18-static** | 1.8.8-16 | Static libraries for guile18 | http://www.gnu.org/software/guile/ |
 | **gum** | 0.17.0 | A tool for creating minimal interactive TUIs for shell scripts | https://github.com/charmbracelet/gum |
@@ -1593,8 +1593,8 @@
 | **logo-ls** | 2024.07.17-1 | Modern ls command with vscode like File Icon and Git Integrations | https://github.com/Yash-Handa/logo-ls |
 | **logrotate** | 3.22.0-1 | Simplify the administration of log files on a system which generates a lot of log files | https://github.com/logrotate/logrotate |
 | **loksh** | 7.8 | A Linux port of OpenBSD's ksh | https://github.com/dimkr/loksh |
-| **lowdown** | 2.0.4 | Markdown utilities and library (fork of hoedown -> sundown -> libsoldout) | https://kristaps.bsd.lv/lowdown |
-| **lowdown-static** | 2.0.4 | Static libraries for lowdown | https://kristaps.bsd.lv/lowdown |
+| **lowdown** | 2.0.4-1 | Markdown utilities and library (fork of hoedown -> sundown -> libsoldout) | https://kristaps.bsd.lv/lowdown |
+| **lowdown-static** | 2.0.4-1 | Static libraries for lowdown | https://kristaps.bsd.lv/lowdown |
 | **lr** | 2.0.1-1 | list files, recursively, includes the best features of ls, find, stat and du | https://git.vuxu.org/lr/about/ |
 | **lrzip** | 0.651-2 | A compression utility that excels at compressing large files | https://github.com/ckolivas/lrzip |
 | **lrzsz** | 0.12.21-rc1-2 | Tools for zmodem/xmodem/ymodem file transfer | https://ohse.de/uwe/software/lrzsz.html |
@@ -1603,7 +1603,7 @@
 | **lsof** | 4.99.5-2 | Lists open files for running Unix processes | https://github.com/lsof-org/lsof |
 | **lsof-static** | 4.99.5-2 | Static libraries for lsof | https://github.com/lsof-org/lsof |
 | **ltrace** | 1:0.8.1 | Tracks runtime library calls in dynamically linked programs | http://www.ltrace.org/ |
-| **lua-language-server** | 3.16.4 | Sumneko Lua Language Server coded in Lua | https://github.com/sumneko/lua-language-server |
+| **lua-language-server** | 3.16.4-1 | Sumneko Lua Language Server coded in Lua | https://github.com/sumneko/lua-language-server |
 | **lua-lgi** | 0.9.2-2 | Dynamic Lua binding to GObject libraries using GObject-Introspection | https://github.com/lgi-devs/lgi |
 | **lua-lpeg** | 1.1.0-3 | Pattern-matching library for Lua 5.4 | https://www.inf.puc-rio.br/~roberto/lpeg |
 | **lua51** | 5.1.5-5 | Simple, extensible, embeddable programming language | https://www.lua.org |
@@ -1621,7 +1621,7 @@
 | **luvi** | 1:2.15.0-1 | A project in-between luv and luvit | https://luvit.io |
 | **luvit** | 2.18.1-1 | Asynchronous I/O for Lua | https://luvit.io |
 | **lux** | 0.24.1-2 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
-| **lux-cli** | 0.23.0 | A package manager for Lua, similar to luarocks | https://nvim-neorocks.github.io/ |
+| **lux-cli** | 0.23.0-1 | A package manager for Lua, similar to luarocks | https://nvim-neorocks.github.io/ |
 | **lv2** | 1.18.10-5 | A plugin standard for audio systems | https://lv2plug.in/ |
 | **lychee** | 0.22.0 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
 | **lynx** | 2.9.2-1 | The text web browser | http://lynx.browser.org/ |
@@ -2369,7 +2369,7 @@
 | **surfraw** | 2.3.0-10 | Shell Users' Revolutionary Front Rage Against the Web | https://gitlab.com/surfraw/Surfraw |
 | **svt-av1** | 3.1.2 | Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder) | https://gitlab.com/AOMediaCodec/SVT-AV1 |
 | **swaks** | 20240103.0 | Swiss Army Knife for SMTP | http://jetmore.org/john/code/swaks/ |
-| **swi-prolog** | 10.1.1 | Most popular and complete prolog implementation | https://swi-prolog.org/ |
+| **swi-prolog** | 10.1.1-1 | Most popular and complete prolog implementation | https://swi-prolog.org/ |
 | **swift-runtime-aarch64** | 6.2.1 | Swift runtime libraries for Android AArch64 | https://swift.org/ |
 | **swift-runtime-arm** | 6.2.1 | Swift runtime libraries for Android armv7 | https://swift.org/ |
 | **swift-runtime-x86-64** | 6.2.1 | Swift runtime libraries for Android x86_64 | https://swift.org/ |
