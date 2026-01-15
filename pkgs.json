@@ -3595,7 +3595,7 @@
   },
   {
     "Package": "gnupg",
-    "Version": "2.5.11",
+    "Version": "2.5.16",
     "Description": "Implementation of the OpenPGP standard for encrypting and signing data and communication",
     "Homepage": "https://www.gnupg.org/"
   },
@@ -3805,7 +3805,7 @@
   },
   {
     "Package": "gpgv",
-    "Version": "2.5.11",
+    "Version": "2.5.16",
     "Description": "GNU privacy guard - signature verification tool",
     "Homepage": "https://www.gnupg.org/"
   },
@@ -6313,13 +6313,13 @@
   },
   {
     "Package": "libgpg-error",
-    "Version": "1.55-1",
+    "Version": "1.58",
     "Description": "Small library that defines common error values for all GnuPG components",
     "Homepage": "https://www.gnupg.org/related_software/libgpg-error/"
   },
   {
     "Package": "libgpg-error-static",
-    "Version": "1.55-1",
+    "Version": "1.58",
     "Description": "Static libraries for libgpg-error",
     "Homepage": "https://www.gnupg.org/related_software/libgpg-error/"
   },
@@ -13345,7 +13345,7 @@
   },
   {
     "Package": "scdaemon",
-    "Version": "2.5.11",
+    "Version": "2.5.16",
     "Description": "Daemon invoked by gpg to manage smartcards",
     "Homepage": "https://www.gnupg.org/"
   },
