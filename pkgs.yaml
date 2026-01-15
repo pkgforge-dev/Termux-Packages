@@ -2203,7 +2203,7 @@
   Description: The Forth implementation of the GNU project
   Homepage: https://www.gnu.org/software/gforth/
 - Package: gh
-  Version: 2.83.2
+  Version: 2.85.0
   Description: GitHub’s official command line tool
   Homepage: https://cli.github.com/
 - Package: ghc
@@ -2731,7 +2731,7 @@
   Description: Prints a friendly greeting
   Homepage: https://www.gnu.org/software/hello/
 - Package: helm
-  Version: 4.0.4
+  Version: 4.0.5
   Description: Helm helps you manage Kubernetes applications
   Homepage: https://helm.sh
 - Package: helm-ls
@@ -8483,7 +8483,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 4.23.2
+  Version: 4.25.1
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
