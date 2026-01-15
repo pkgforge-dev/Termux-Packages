@@ -1496,8 +1496,8 @@
 | **libx11-static** | 1.8.12-1 | Static libraries for libx11 | https://xorg.freedesktop.org/ |
 | **libx264** | 1:0.164.3191-1 | Library for encoding video streams into the H.264/MPEG-4 AVC format | https://www.videolan.org/developers/x264.html |
 | **libx264-static** | 1:0.164.3191-1 | Static libraries for libx264 | https://www.videolan.org/developers/x264.html |
-| **libx265** | 4.1-2 | H.265/HEVC video stream encoder library | http://x265.org/ |
-| **libx265-static** | 4.1-2 | Static libraries for libx265 | http://x265.org/ |
+| **libx265** | 4.1-3 | H.265/HEVC video stream encoder library | http://x265.org/ |
+| **libx265-static** | 4.1-3 | Static libraries for libx265 | http://x265.org/ |
 | **libxapian** | 1.4.30 | Xapian search engine library | https://xapian.org |
 | **libxapian-static** | 1.4.30 | Static libraries for libxapian | https://xapian.org |
 | **libxau** | 1.0.12-2 | X11 authorisation library | https://xorg.freedesktop.org/ |
@@ -2635,7 +2635,7 @@
 | **wv-tools** | 1.2.9-6 | Command-line tools for libwv | https://wvware.sourceforge.net/ |
 | **x11-repo** | 8.4-1 | Package repository containing X11 programs and libraries | https://github.com/termux/x11-packages |
 | **x264** | 1:0.164.3191-1 | Commandline video encoder for the H.264/MPEG-4 AVC format | https://www.videolan.org/developers/x264.html |
-| **x265** | 4.1-2 | H.265/HEVC video stream encoder tool | http://x265.org/ |
+| **x265** | 4.1-3 | H.265/HEVC video stream encoder tool | http://x265.org/ |
 | **xapian-tools** | 1.4.30 | Basic tools for the Xapian search engine | https://xapian.org |
 | **xcb-proto** | 1.17.0-1 | XML-XCB protocol descriptions | https://xcb.freedesktop.org/ |
 | **xdelta3** | 3.1.0-3 | xdelta3 - VCDIFF (RFC 3284) binary diff tool | https://github.com/jmacd/xdelta |
