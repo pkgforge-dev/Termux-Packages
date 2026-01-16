@@ -871,7 +871,7 @@
   },
   {
     "Package": "blas-openblas",
-    "Version": "0.3.30-2",
+    "Version": "0.3.31",
     "Description": "OpenBLAS symlinks for BLAS/CBLAS/LAPACK/LAPACKE",
     "Homepage": "https://www.openblas.net"
   },
@@ -895,7 +895,7 @@
   },
   {
     "Package": "blueprint-compiler",
-    "Version": "0.18.0",
+    "Version": "0.19.0",
     "Description": "Markup language for GTK user interfaces",
     "Homepage": "https://gnome.pages.gitlab.gnome.org/blueprint-compiler/"
   },
@@ -1620,6 +1620,12 @@
     "Homepage": "https://wiki.linuxquestions.org/wiki/Corkscrew"
   },
   {
+    "Package": "corrosion",
+    "Version": "0.6.0",
+    "Description": "Tool for integrating Rust into an existing CMake project",
+    "Homepage": "https://github.com/corrosion-rs/corrosion"
+  },
+  {
     "Package": "cowsay",
     "Version": "3.8.4",
     "Description": "Program which generates ASCII pictures of a cow with a message",
@@ -1657,7 +1663,7 @@
   },
   {
     "Package": "crawl",
-    "Version": "0.33.1-1",
+    "Version": "0.33.1-2",
     "Description": "Roguelike adventure through dungeons filled with dangerous monsters",
     "Homepage": "https://crawl.develz.org/"
   },
@@ -4033,7 +4039,7 @@
   },
   {
     "Package": "haproxy",
-    "Version": "3.3.1",
+    "Version": "3.3.1-1",
     "Description": "The Reliable, High Performance TCP/HTTP Load Balancer",
     "Homepage": "https://www.haproxy.org/"
   },
@@ -7489,13 +7495,13 @@
   },
   {
     "Package": "libopenblas",
-    "Version": "0.3.30-2",
+    "Version": "0.3.31",
     "Description": "An optimized BLAS library based on GotoBLAS2 1.13 BSD",
     "Homepage": "https://www.openblas.net"
   },
   {
     "Package": "libopenblas-static",
-    "Version": "0.3.30-2",
+    "Version": "0.3.31",
     "Description": "Static libraries for libopenblas",
     "Homepage": "https://www.openblas.net"
   },
@@ -9565,91 +9571,133 @@
   },
   {
     "Package": "lua-lgi",
-    "Version": "0.9.2-2",
+    "Version": "0.9.2+p20251219",
     "Description": "Dynamic Lua binding to GObject libraries using GObject-Introspection",
     "Homepage": "https://github.com/lgi-devs/lgi"
   },
   {
     "Package": "lua-lpeg",
-    "Version": "1.1.0-3",
+    "Version": "1.1.0-4",
     "Description": "Pattern-matching library for Lua 5.4",
     "Homepage": "https://www.inf.puc-rio.br/~roberto/lpeg"
   },
   {
     "Package": "lua51",
-    "Version": "5.1.5-5",
-    "Description": "Simple, extensible, embeddable programming language",
+    "Version": "5.1.5-6",
+    "Description": "Shared library for the Lua interpreter (v5.1.x)",
     "Homepage": "https://www.lua.org"
   },
   {
     "Package": "lua51-lpeg",
-    "Version": "1.1.0-3",
+    "Version": "1.1.0-4",
     "Description": "Pattern-matching library for Lua 5.1",
     "Homepage": "https://www.inf.puc-rio.br/~roberto/lpeg"
   },
   {
+    "Package": "lua51-static",
+    "Version": "5.1.5-6",
+    "Description": "Static libraries for lua51",
+    "Homepage": "https://www.lua.org"
+  },
+  {
     "Package": "lua52",
-    "Version": "5.2.4-13",
-    "Description": "Simple, extensible, embeddable programming language",
+    "Version": "5.2.4-14",
+    "Description": "Shared library for the Lua interpreter (v5.2.x)",
     "Homepage": "https://www.lua.org"
   },
   {
     "Package": "lua52-lpeg",
-    "Version": "1.1.0-3",
+    "Version": "1.1.0-4",
     "Description": "Pattern-matching library for Lua 5.2",
     "Homepage": "https://www.inf.puc-rio.br/~roberto/lpeg"
   },
   {
+    "Package": "lua52-static",
+    "Version": "5.2.4-14",
+    "Description": "Static libraries for lua52",
+    "Homepage": "https://www.lua.org"
+  },
+  {
     "Package": "lua53",
-    "Version": "5.3.6-4",
-    "Description": "Simple, extensible, embeddable programming language",
+    "Version": "5.3.6-5",
+    "Description": "Shared library for the Lua interpreter (v5.3.x)",
     "Homepage": "https://www.lua.org/"
   },
   {
     "Package": "lua53-lpeg",
-    "Version": "1.1.0-3",
+    "Version": "1.1.0-4",
     "Description": "Pattern-matching library for Lua 5.3",
     "Homepage": "https://www.inf.puc-rio.br/~roberto/lpeg"
   },
   {
+    "Package": "lua53-static",
+    "Version": "5.3.6-5",
+    "Description": "Static libraries for lua53",
+    "Homepage": "https://www.lua.org/"
+  },
+  {
     "Package": "lua54",
-    "Version": "5.4.8-4",
-    "Description": "Simple, extensible, embeddable programming language",
+    "Version": "5.4.8-5",
+    "Description": "Shared library for the Lua interpreter (v5.4.x)",
+    "Homepage": "https://www.lua.org/"
+  },
+  {
+    "Package": "lua54-lpeg",
+    "Version": "1.1.0-4",
+    "Description": "Pattern-matching library for Lua 5.4",
+    "Homepage": "https://www.inf.puc-rio.br/~roberto/lpeg"
+  },
+  {
+    "Package": "lua54-static",
+    "Version": "5.4.8-5",
+    "Description": "Static libraries for lua54",
     "Homepage": "https://www.lua.org/"
   },
   {
     "Package": "lua55",
-    "Version": "5.5.0",
-    "Description": "Simple, extensible, embeddable programming language",
+    "Version": "5.5.0-1",
+    "Description": "Shared library for the Lua interpreter (v5.5.x)",
+    "Homepage": "https://www.lua.org/"
+  },
+  {
+    "Package": "lua55-static",
+    "Version": "5.5.0-1",
+    "Description": "Static libraries for lua55",
     "Homepage": "https://www.lua.org/"
   },
   {
     "Package": "luajit",
-    "Version": "1:2.1.1767980792+g707c12b",
-    "Description": "Just-In-Time compiler for Lua - command line tool",
+    "Version": "1:2.1.1767980792+g707c12b-1",
+    "Description": "Just-In-Time Compiler for Lua",
     "Homepage": "https://luajit.org/"
   },
   {
     "Package": "luajit-lgi",
-    "Version": "0.9.2",
+    "Version": "0.9.2+p20251219",
     "Description": "Dynamic Lua binding to GObject libraries using GObject-Introspection",
     "Homepage": "https://github.com/lgi-devs/lgi"
   },
   {
+    "Package": "luajit-static",
+    "Version": "1:2.1.1767980792+g707c12b-1",
+    "Description": "Static libraries for luajit",
+    "Homepage": "https://luajit.org/"
+  },
+  {
     "Package": "luarocks",
-    "Version": "3.13.0",
+    "Version": "3.13.0-1",
     "Description": "Deployment and management system for Lua modules",
     "Homepage": "https://luarocks.org/"
   },
   {
     "Package": "luv",
-    "Version": "1.51.0-1-1",
+    "Version": "1.51.0-1-2",
     "Description": "Bare libuv bindings for lua",
     "Homepage": "https://github.com/luvit/luv"
   },
   {
     "Package": "luvi",
-    "Version": "1:2.15.0-1",
+    "Version": "1:2.15.0-2",
     "Description": "A project in-between luv and luvit",
     "Homepage": "https://luvit.io"
   },
@@ -10387,7 +10435,7 @@
   },
   {
     "Package": "mpv",
-    "Version": "0.41.0",
+    "Version": "0.41.0-1",
     "Description": "Command-line media player",
     "Homepage": "https://mpv.io/"
   },
@@ -10507,7 +10555,7 @@
   },
   {
     "Package": "mympd",
-    "Version": "24.0.1",
+    "Version": "24.0.1-1",
     "Description": "A standalone and lightweight web-based MPD client",
     "Homepage": "https://jcorporation.github.io/myMPD/"
   },
@@ -10717,13 +10765,13 @@
   },
   {
     "Package": "neovim",
-    "Version": "0.11.5-2",
+    "Version": "0.11.5-3",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim)",
     "Homepage": "https://neovim.io/"
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.12.0~dev-2038+g86c939ba91-0",
+    "Version": "0.12.0~dev-2038+g86c939ba91-1",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -10873,7 +10921,7 @@
   },
   {
     "Package": "nmap",
-    "Version": "7.98",
+    "Version": "7.98-1",
     "Description": "Utility for network discovery and security auditing",
     "Homepage": "https://nmap.org/"
   },
@@ -11845,7 +11893,7 @@
   },
   {
     "Package": "pipewire",
-    "Version": "1.4.9",
+    "Version": "1.4.9-1",
     "Description": "A server and user space API to deal with multimedia pipelines",
     "Homepage": "https://pipewire.org/"
   },
@@ -13057,7 +13105,7 @@
   },
   {
     "Package": "rpm",
-    "Version": "4.18.1-1",
+    "Version": "4.18.1-2",
     "Description": "RPM Package Manager",
     "Homepage": "https://rpm.org/"
   },
@@ -13321,7 +13369,7 @@
   },
   {
     "Package": "sc-im",
-    "Version": "0.8.5-3",
+    "Version": "0.8.5-4",
     "Description": "An improved version of sc, a spreadsheet calculator",
     "Homepage": "https://github.com/andmarti1424/sc-im"
   },
@@ -14545,13 +14593,13 @@
   },
   {
     "Package": "texlive-bin",
-    "Version": "1:2025.0-2",
+    "Version": "1:2025.0-3",
     "Description": "TeX Live is a distribution of the TeX typesetting system. This package contains architecture dependent binaries.",
     "Homepage": "https://www.tug.org/texlive/"
   },
   {
     "Package": "texlive-bin-static",
-    "Version": "1:2025.0-2",
+    "Version": "1:2025.0-3",
     "Description": "Static libraries for texlive-bin",
     "Homepage": "https://www.tug.org/texlive/"
   },
@@ -15049,7 +15097,7 @@
   },
   {
     "Package": "uftrace",
-    "Version": "0.18.1",
+    "Version": "0.18.1-1",
     "Description": "Function (graph) tracer for user-space",
     "Homepage": "https://uftrace.github.io/slide"
   },
@@ -15271,7 +15319,7 @@
   },
   {
     "Package": "v2ray",
-    "Version": "5.43.0",
+    "Version": "5.44.1",
     "Description": "A platform for building proxies to bypass network restrictions",
     "Homepage": "https://www.v2fly.org/"
   },
@@ -15415,7 +15463,7 @@
   },
   {
     "Package": "vim",
-    "Version": "9.1.2050",
+    "Version": "9.1.2050-1",
     "Description": "Vi IMproved - enhanced vi editor",
     "Homepage": "https://www.vim.org"
   },
@@ -15439,7 +15487,7 @@
   },
   {
     "Package": "vis",
-    "Version": "0.9-5",
+    "Version": "0.9-6",
     "Description": "Modern, legacy free, simple yet efficient vim-like editor",
     "Homepage": "https://www.brain-dump.org/projects/vis/"
   },
@@ -15463,13 +15511,13 @@
   },
   {
     "Package": "vlc",
-    "Version": "3.0.23",
+    "Version": "3.0.23-1",
     "Description": "A popular libre and open source media player and multimedia engine",
     "Homepage": "https://www.videolan.org/"
   },
   {
     "Package": "vlc-static",
-    "Version": "3.0.23",
+    "Version": "3.0.23-1",
     "Description": "Static libraries for vlc",
     "Homepage": "https://www.videolan.org/"
   },
@@ -15487,7 +15535,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "2026.01.13",
+    "Version": "2026.01.13-1",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://github.com/directvt/vtm"
   },
@@ -15655,31 +15703,31 @@
   },
   {
     "Package": "weechat",
-    "Version": "4.7.1",
+    "Version": "4.7.1-1",
     "Description": "Fast, light and extensible IRC chat client",
     "Homepage": "https://weechat.org/"
   },
   {
     "Package": "weechat-lua-plugin",
-    "Version": "4.7.1",
+    "Version": "4.7.1-1",
     "Description": "WeeChat Lua Plugin",
     "Homepage": "https://weechat.org/"
   },
   {
     "Package": "weechat-perl-plugin",
-    "Version": "4.7.1",
+    "Version": "4.7.1-1",
     "Description": "WeeChat Perl Plugin",
     "Homepage": "https://weechat.org/"
   },
   {
     "Package": "weechat-python-plugin",
-    "Version": "4.7.1",
+    "Version": "4.7.1-1",
     "Description": "WeeChat Python3 Plugin",
     "Homepage": "https://weechat.org/"
   },
   {
     "Package": "weechat-ruby-plugin",
-    "Version": "4.7.1",
+    "Version": "4.7.1-1",
     "Description": "WeeChat Ruby Plugin",
     "Homepage": "https://weechat.org/"
   },
@@ -15775,7 +15823,7 @@
   },
   {
     "Package": "wordgrinder",
-    "Version": "0.8",
+    "Version": "0.8-1",
     "Description": "A Unicode-aware character cell word processor",
     "Homepage": "http://cowlark.com/wordgrinder/"
   },
@@ -15931,7 +15979,7 @@
   },
   {
     "Package": "xxd",
-    "Version": "9.1.2050",
+    "Version": "9.1.2050-1",
     "Description": "Hexdump utility from vim",
     "Homepage": "https://www.vim.org"
   },
