@@ -690,7 +690,7 @@
 | **hash-slinger** | 3.4 | Various tools to generate special DNS records | https://github.com/letoams/hash-slinger |
 | **hashdeep** | 4.4-9 | Programs to compute hashsums of arbitrary number of files recursively | https://md5deep.sourceforge.net/ |
 | **hcl** | 2.24.0-1 | A toolkit for creating structured configuration languages | https://github.com/hashicorp/hcl |
-| **hcloud** | 1.59.0 | Hetzner Cloud command line client | https://github.com/hetznercloud/cli |
+| **hcloud** | 1.60.0 | Hetzner Cloud command line client | https://github.com/hetznercloud/cli |
 | **helix** | 25.07.1-1 | A post-modern modal text editor written in rust | https://helix-editor.com/ |
 | **helix-grammars** | 25.07.1-1 | Helix grammars | https://helix-editor.com/ |
 | **hello** | 2.12.2 | Prints a friendly greeting | https://www.gnu.org/software/hello/ |
@@ -1658,7 +1658,7 @@
 | **matplotlib** | 3.10.8 | A comprehensive library for creating static, animated, and interactive visualizations in Python | https://matplotlib.org/ |
 | **matterbridge** | 1.26.0-4 | A simple chat bridge | https://github.com/42wim/matterbridge |
 | **matterircd** | 0.28.0-1 | Connect to your mattermost or slack using your IRC-client of choice | https://github.com/42wim/matterircd |
-| **mautrix-whatsapp** | 0.2512.0 | A Matrix-WhatsApp puppeting bridge | https://maunium.net/go/mautrix-whatsapp/ |
+| **mautrix-whatsapp** | 0.2601.0 | A Matrix-WhatsApp puppeting bridge | https://maunium.net/go/mautrix-whatsapp/ |
 | **maven** | 3.9.12 | A Java software project management and comprehension tool | https://maven.apache.org/ |
 | **maxcso** | 1.13.0-1 | A fast ISO to CSO compression program for use with PSP and PS2 emulators | https://github.com/unknownbrackets/maxcso |
 | **mazter** | 2022.08.13-1 | Mazes in your terminal | https://github.com/Canop/mazter |
@@ -2599,7 +2599,7 @@
 | **vlc-static** | 3.0.23-1 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-4 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.3-1 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 2026.01.13-1 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
+| **vtm** | 2026.01.16 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
 | **vttest** | 20251205 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-5 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.4.333 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
