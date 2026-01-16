@@ -1595,20 +1595,20 @@
 | **lua-language-server** | 3.16.4-1 | Sumneko Lua Language Server coded in Lua | https://github.com/sumneko/lua-language-server |
 | **lua-lgi** | 0.9.2+p20251219 | Dynamic Lua binding to GObject libraries using GObject-Introspection | https://github.com/lgi-devs/lgi |
 | **lua-lpeg** | 1.1.0-4 | Pattern-matching library for Lua 5.4 | https://www.inf.puc-rio.br/~roberto/lpeg |
-| **lua51** | 5.1.5-6 | Shared library for the Lua interpreter (v5.1.x) | https://www.lua.org |
+| **lua51** | 5.1.5-7 | Shared library for the Lua interpreter (v5.1.x) | https://www.lua.org |
 | **lua51-lpeg** | 1.1.0-4 | Pattern-matching library for Lua 5.1 | https://www.inf.puc-rio.br/~roberto/lpeg |
-| **lua51-static** | 5.1.5-6 | Static libraries for lua51 | https://www.lua.org |
-| **lua52** | 5.2.4-14 | Shared library for the Lua interpreter (v5.2.x) | https://www.lua.org |
+| **lua51-static** | 5.1.5-7 | Static libraries for lua51 | https://www.lua.org |
+| **lua52** | 5.2.4-15 | Shared library for the Lua interpreter (v5.2.x) | https://www.lua.org |
 | **lua52-lpeg** | 1.1.0-4 | Pattern-matching library for Lua 5.2 | https://www.inf.puc-rio.br/~roberto/lpeg |
-| **lua52-static** | 5.2.4-14 | Static libraries for lua52 | https://www.lua.org |
-| **lua53** | 5.3.6-5 | Shared library for the Lua interpreter (v5.3.x) | https://www.lua.org/ |
+| **lua52-static** | 5.2.4-15 | Static libraries for lua52 | https://www.lua.org |
+| **lua53** | 5.3.6-6 | Shared library for the Lua interpreter (v5.3.x) | https://www.lua.org/ |
 | **lua53-lpeg** | 1.1.0-4 | Pattern-matching library for Lua 5.3 | https://www.inf.puc-rio.br/~roberto/lpeg |
-| **lua53-static** | 5.3.6-5 | Static libraries for lua53 | https://www.lua.org/ |
-| **lua54** | 5.4.8-5 | Shared library for the Lua interpreter (v5.4.x) | https://www.lua.org/ |
+| **lua53-static** | 5.3.6-6 | Static libraries for lua53 | https://www.lua.org/ |
+| **lua54** | 5.4.8-6 | Shared library for the Lua interpreter (v5.4.x) | https://www.lua.org/ |
 | **lua54-lpeg** | 1.1.0-4 | Pattern-matching library for Lua 5.4 | https://www.inf.puc-rio.br/~roberto/lpeg |
-| **lua54-static** | 5.4.8-5 | Static libraries for lua54 | https://www.lua.org/ |
-| **lua55** | 5.5.0-1 | Shared library for the Lua interpreter (v5.5.x) | https://www.lua.org/ |
-| **lua55-static** | 5.5.0-1 | Static libraries for lua55 | https://www.lua.org/ |
+| **lua54-static** | 5.4.8-6 | Static libraries for lua54 | https://www.lua.org/ |
+| **lua55** | 5.5.0-2 | Shared library for the Lua interpreter (v5.5.x) | https://www.lua.org/ |
+| **lua55-static** | 5.5.0-2 | Static libraries for lua55 | https://www.lua.org/ |
 | **luajit** | 1:2.1.1767980792+g707c12b-1 | Just-In-Time Compiler for Lua | https://luajit.org/ |
 | **luajit-lgi** | 0.9.2+p20251219 | Dynamic Lua binding to GObject libraries using GObject-Introspection | https://github.com/lgi-devs/lgi |
 | **luajit-static** | 1:2.1.1767980792+g707c12b-1 | Static libraries for luajit | https://luajit.org/ |

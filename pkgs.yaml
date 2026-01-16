@@ -6387,7 +6387,7 @@
   Description: Pattern-matching library for Lua 5.4
   Homepage: https://www.inf.puc-rio.br/~roberto/lpeg
 - Package: lua51
-  Version: 5.1.5-6
+  Version: 5.1.5-7
   Description: Shared library for the Lua interpreter (v5.1.x)
   Homepage: https://www.lua.org
 - Package: lua51-lpeg
@@ -6395,11 +6395,11 @@
   Description: Pattern-matching library for Lua 5.1
   Homepage: https://www.inf.puc-rio.br/~roberto/lpeg
 - Package: lua51-static
-  Version: 5.1.5-6
+  Version: 5.1.5-7
   Description: Static libraries for lua51
   Homepage: https://www.lua.org
 - Package: lua52
-  Version: 5.2.4-14
+  Version: 5.2.4-15
   Description: Shared library for the Lua interpreter (v5.2.x)
   Homepage: https://www.lua.org
 - Package: lua52-lpeg
@@ -6407,11 +6407,11 @@
   Description: Pattern-matching library for Lua 5.2
   Homepage: https://www.inf.puc-rio.br/~roberto/lpeg
 - Package: lua52-static
-  Version: 5.2.4-14
+  Version: 5.2.4-15
   Description: Static libraries for lua52
   Homepage: https://www.lua.org
 - Package: lua53
-  Version: 5.3.6-5
+  Version: 5.3.6-6
   Description: Shared library for the Lua interpreter (v5.3.x)
   Homepage: https://www.lua.org/
 - Package: lua53-lpeg
@@ -6419,11 +6419,11 @@
   Description: Pattern-matching library for Lua 5.3
   Homepage: https://www.inf.puc-rio.br/~roberto/lpeg
 - Package: lua53-static
-  Version: 5.3.6-5
+  Version: 5.3.6-6
   Description: Static libraries for lua53
   Homepage: https://www.lua.org/
 - Package: lua54
-  Version: 5.4.8-5
+  Version: 5.4.8-6
   Description: Shared library for the Lua interpreter (v5.4.x)
   Homepage: https://www.lua.org/
 - Package: lua54-lpeg
@@ -6431,15 +6431,15 @@
   Description: Pattern-matching library for Lua 5.4
   Homepage: https://www.inf.puc-rio.br/~roberto/lpeg
 - Package: lua54-static
-  Version: 5.4.8-5
+  Version: 5.4.8-6
   Description: Static libraries for lua54
   Homepage: https://www.lua.org/
 - Package: lua55
-  Version: 5.5.0-1
+  Version: 5.5.0-2
   Description: Shared library for the Lua interpreter (v5.5.x)
   Homepage: https://www.lua.org/
 - Package: lua55-static
-  Version: 5.5.0-1
+  Version: 5.5.0-2
   Description: Static libraries for lua55
   Homepage: https://www.lua.org/
 - Package: luajit
