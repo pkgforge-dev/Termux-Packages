@@ -1081,8 +1081,8 @@
 | **libharu** | 2.4.5-1 | Free, cross platform, open source library for generating PDF files | http://libharu.org/ |
 | **libhdf5** | 1.14.4.3-1 | Hierarchical Data Format 5 (HDF5) | https://portal.hdfgroup.org/display/support |
 | **libhdf5-static** | 1.14.4.3-1 | Static libraries for libhdf5 | https://portal.hdfgroup.org/display/support |
-| **libheif** | 1.21.1 | HEIF (HEIC/AVIF) image encoding and decoding library | https://github.com/strukturag/libheif |
-| **libheif-progs** | 1.21.1 | Programs for manipulating HEIF (HEIC/AVIF) image files | https://github.com/strukturag/libheif |
+| **libheif** | 1.21.2 | HEIF (HEIC/AVIF) image encoding and decoding library | https://github.com/strukturag/libheif |
+| **libheif-progs** | 1.21.2 | Programs for manipulating HEIF (HEIC/AVIF) image files | https://github.com/strukturag/libheif |
 | **libhiredis** | 1.3.0-1 | Hiredis is a minimalistic C client library for the Redis database | https://redis.com/lp/hiredis |
 | **libhtmlcxx** | 0.87-5 | A simple non-validating css1 and html parser for C++ | https://htmlcxx.sourceforge.net/ |
 | **libhtmlcxx-static** | 0.87-5 | Static libraries for libhtmlcxx | https://htmlcxx.sourceforge.net/ |
@@ -1746,7 +1746,7 @@
 | **mp3splt** | 2.6.2-2 | Utility to split mp3, ogg vorbis and FLAC files without decoding | https://mp3splt.sourceforge.net |
 | **mp3wrap** | 0.5-2 | A command-line utility that wraps quickly two or more mp3 files in one single large playable mp3 | https://mp3wrap.sourceforge.net/ |
 | **mpc** | 0.35-2 | Minimalist command line interface for MPD | https://www.musicpd.org/clients/mpc/ |
-| **mpd** | 0.24.6-3 | Music player daemon | https://www.musicpd.org |
+| **mpd** | 0.24.7 | Music player daemon | https://www.musicpd.org |
 | **mpdscribble** | 0.25-4 | A Music Player Daemon (MPD) client which submits information about tracks being played to a scrobbler | https://www.musicpd.org/clients/mpdscribble/ |
 | **mpg123** | 1.33.3 | Fast console MPEG Audio Player based on libmpg123 | https://mpg123.org/ |
 | **mpv** | 0.41.0-1 | Command-line media player | https://mpv.io/ |
@@ -1920,7 +1920,7 @@
 | **ovmf** | 20231122-16.fc40-0 | Open Virtual Machine Firmware | https://www.tianocore.org/ |
 | **oxfmt** | 1.39.0 | Oxc JavaScript formatter | https://oxc.rs/ |
 | **oxlint** | 1.39.0 | Oxc JavaScript linter | https://oxc.rs/ |
-| **p11-kit** | 0.25.10 | Provides a way to load and enumerate PKCS#11 modules | https://p11-glue.github.io/p11-glue/p11-kit.html |
+| **p11-kit** | 0.26.0 | Provides a way to load and enumerate PKCS#11 modules | https://p11-glue.github.io/p11-glue/p11-kit.html |
 | **p7zip** | 17.06-1 | Command-line version of the 7zip compressed file archiver | https://github.com/p7zip-project/p7zip |
 | **pacman** | 7.1.0-1 | A library-based package manager with dependency support | https://archlinux.org/pacman/ |
 | **pacman4console** | 1.3-5 | A 9 level ncurses pacman game with editor | https://sites.google.com/site/doctormike/pacman.html |
