@@ -7179,7 +7179,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.12.0~dev-2046+g43339dee40-0
+  Version: 0.12.0~dev-2052+ge51f5e17e1-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -8607,11 +8607,11 @@
   Description: Static libraries for recode
   Homepage: https://github.com/pinard/Recode
 - Package: recoll
-  Version: 1.43.9
+  Version: 1.43.10
   Description: Full-text search for your desktop
   Homepage: https://www.recoll.org/
 - Package: recoll-python
-  Version: 1.43.9
+  Version: 1.43.10
   Description: Python interface for Recoll
   Homepage: https://www.recoll.org/
 - Package: recutils
