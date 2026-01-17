@@ -108,7 +108,7 @@
 | **aview** | 1.3.0rc1-6 | High quality ascii-art image browser and animation player | https://aa-project.sourceforge.net/aview/ |
 | **avra** | 1.4.2-1 | Assember for the Atmel AVR microcontroller family | https://github.com/Ro5bert/avra |
 | **await** | 2.4.0 | Runs list of commands in parallel and waits for their termination | https://github.com/slavaGanzin/await |
-| **awesomeshot** | 1.1.0 | A command-line screenshot tool written in bash | https://github.com/mayTermux/awesomeshot |
+| **awesomeshot** | 1.1.0-1 | A command-line screenshot tool written in bash | https://github.com/mayTermux/awesomeshot |
 | **axel** | 2.17.14-1 | light command line download accelerator | https://github.com/axel-download-accelerator/axel |
 | **b3sum** | 1.8.3 | A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum | https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum |
 | **babl** | 0.1.120 | Dynamic pixel format translation library | https://gegl.org/babl/ |
@@ -335,7 +335,7 @@
 | **djvulibre** | 3.5.29-1 | Suite to create, manipulate and view DjVu ('déjà vu') documents | https://djvu.sourceforge.net/ |
 | **djvulibre-static** | 3.5.29-1 | Static libraries for djvulibre | https://djvu.sourceforge.net/ |
 | **dmagnetic** | 0.37-1 | Interpreter for classic text adventure games and interactive fiction | https://dettus.net/dMagnetic |
-| **dmtx-utils** | 0.7.6-1 | A command line interface for libdmtx | https://github.com/dmtx/dmtx-utils |
+| **dmtx-utils** | 0.7.6-2 | A command line interface for libdmtx | https://github.com/dmtx/dmtx-utils |
 | **dnglab** | 0.7.1 | Camera RAW to DNG file format converter | https://github.com/dnglab/dnglab |
 | **dnote** | 1:0.16.0 | A simple command line notebook for programmers | https://www.getdnote.com/ |
 | **dnote-server** | 2.1.1-3 | This package contains the Dnote server. It comprises of the web interface, the web API, and the background jobs. | https://www.getdnote.com/ |
@@ -446,7 +446,7 @@
 | **fakeroot** | 1.37.1.2-1 | Tool for simulating superuser privileges (with tcp ipc) | https://packages.qa.debian.org/f/fakeroot.html |
 | **fakeroot-static** | 1.37.1.2-1 | Static libraries for fakeroot | https://packages.qa.debian.org/f/fakeroot.html |
 | **fasd** | 2.0.0 | To fastly access files and folders | https://github.com/whjvenyl/fasd |
-| **fastfetch** | 2.57.1 | A maintained, feature-rich and performance oriented, neofetch like system information tool | https://github.com/fastfetch-cli/fastfetch |
+| **fastfetch** | 2.57.1-1 | A maintained, feature-rich and performance oriented, neofetch like system information tool | https://github.com/fastfetch-cli/fastfetch |
 | **fastmod** | 0.4.4-1 | Regex-based code refactoring utility | https://github.com/facebookincubator/fastmod |
 | **fatsort** | 1.6.5.640-1 | A C utility that sorts FAT12, FAT16, FAT32 and exFAT partitions | https://fatsort.sourceforge.io/ |
 | **faust** | 2.83.1 | A functional programming language for signal processing and sound synthesis | https://github.com/grame-cncm/faust |
@@ -734,8 +734,8 @@
 | **id3lib** | 3.8.3-4 | A software library for manipulating ID3v1/v1.1 and ID3v2 tags | https://id3lib.sourceforge.net/ |
 | **id3lib-static** | 3.8.3-4 | Static libraries for id3lib | https://id3lib.sourceforge.net/ |
 | **id3v2** | 0.1.12-2 | A command line id3v2 tag editor | https://id3v2.sourceforge.net/ |
-| **imagemagick** | 7.1.2.12 | Suite to create, edit, compose, or convert images in a variety of formats | https://www.imagemagick.org/ |
-| **imagemagick-static** | 7.1.2.12 | Static libraries for imagemagick | https://www.imagemagick.org/ |
+| **imagemagick** | 7.1.2.12-1 | Suite to create, edit, compose, or convert images in a variety of formats | https://www.imagemagick.org/ |
+| **imagemagick-static** | 7.1.2.12-1 | Static libraries for imagemagick | https://www.imagemagick.org/ |
 | **imath** | 3.2.2 | Library for vector/matrix and math operations, plus the half type | https://imath.readthedocs.io/ |
 | **imgflo** | 0.4.2-9 | HTTP image processing server & Flowhub.io compatible runtime | https://github.com/imgflo/imgflo |
 | **imlib2** | 1.12.6 | Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support | https://sourceforge.net/projects/enlightenment/ |
@@ -1313,8 +1313,8 @@
 | **librasqal-static** | 0.9.33-4 | Static libraries for librasqal | https://librdf.org/rasqal/ |
 | **librav1e** | 0.8.1 | An AV1 encoder library focused on speed and safety | https://github.com/xiph/rav1e/ |
 | **librav1e-static** | 0.8.1 | Static libraries for librav1e | https://github.com/xiph/rav1e/ |
-| **libraw** | 0.21.5 | Library for reading RAW files from digital cameras | https://www.libraw.org/ |
-| **libraw-static** | 0.21.5 | Static libraries for libraw | https://www.libraw.org/ |
+| **libraw** | 0.22.0 | Library for reading RAW files from digital cameras | https://www.libraw.org/ |
+| **libraw-static** | 0.22.0 | Static libraries for libraw | https://www.libraw.org/ |
 | **libre2** | 2025-11-05-1 | A regular expression library | https://github.com/google/re2 |
 | **libregexp-assemble-perl** | 0.38-7 | Perl module to merge several regular expressions | https://metacpan.org/pod/Regexp::Assemble |
 | **libresolv-wrapper** | 1.1.7-6 | A wrapper for DNS name resolving or DNS faking | https://cwrap.org/resolv_wrapper.html |
@@ -1467,7 +1467,7 @@
 | **libvbisam-static** | 2.0-3 | Static libraries for libvbisam | https://sourceforge.net/projects/vbisam/ |
 | **libvidstab** | 1.1.1-3 | video stabilization library | https://github.com/georgmartius/vid.stab |
 | **libvigra** | 1.12.2-4 | Computer vision library | https://ukoethe.github.io/vigra/ |
-| **libvips** | 8.18.0 | A fast image processing library with low memory needs | https://libvips.github.io/libvips/ |
+| **libvips** | 8.18.0-1 | A fast image processing library with low memory needs | https://libvips.github.io/libvips/ |
 | **libvmaf** | 3.0.0-2 | A perceptual video quality assessment algorithm developed by Netflix | https://github.com/Netflix/vmaf |
 | **libvmaf-static** | 3.0.0-2 | Static libraries for libvmaf | https://github.com/Netflix/vmaf |
 | **libvo-amrwbenc** | 0.1.3-2 | VisualOn AMR-WB encoder library | https://sourceforge.net/projects/opencore-amr/ |
@@ -1588,7 +1588,7 @@
 | **lrzip** | 0.651-2 | A compression utility that excels at compressing large files | https://github.com/ckolivas/lrzip |
 | **lrzsz** | 0.12.21-rc1-2 | Tools for zmodem/xmodem/ymodem file transfer | https://ohse.de/uwe/software/lrzsz.html |
 | **lsd** | 1.2.0 | Next gen ls command | https://github.com/lsd-rs/lsd |
-| **lsix** | 1.9.1 | Shows thumbnails in terminal using sixel graphics | https://github.com/hackerb9/lsix |
+| **lsix** | 1.9.1-1 | Shows thumbnails in terminal using sixel graphics | https://github.com/hackerb9/lsix |
 | **lsof** | 4.99.5-2 | Lists open files for running Unix processes | https://github.com/lsof-org/lsof |
 | **lsof-static** | 4.99.5-2 | Static libraries for lsof | https://github.com/lsof-org/lsof |
 | **ltrace** | 1:0.8.1 | Tracks runtime library calls in dynamically linked programs | http://www.ltrace.org/ |
@@ -1964,7 +1964,7 @@
 | **php-apcu** | 5.1.28 | APCu - APC User Cache | http://php.net/apcu |
 | **php-fpm** | 8.5.1 | FastCGI Process Manager for PHP | https://php.net |
 | **php-gd** | 8.5.1 | gd module for PHP | https://php.net |
-| **php-imagick** | 3.8.1 | The Imagick PHP extension | https://github.com/Imagick/imagick |
+| **php-imagick** | 3.8.1-1 | The Imagick PHP extension | https://github.com/Imagick/imagick |
 | **php-ldap** | 8.5.1 | LDAP module for PHP | https://php.net |
 | **php-pgsql** | 8.5.1 | PostgreSQL modules for PHP | https://php.net |
 | **php-psr** | 1.2.0-4 | PHP extension providing the accepted PSR interfaces | https://github.com/jbboehr/php-psr |
@@ -2072,7 +2072,7 @@
 | **python-pycryptodomex** | 3.23.0-1 | A self-contained Python package of low-level cryptographic primitives | https://www.pycryptodome.org/ |
 | **python-pynvim** | 0.6.0 | Python client for Neovim | https://github.com/neovim/pynvim |
 | **python-ruff** | 0.14.10 | An extremely fast Python linter, written in Rust (Python bindings) | https://github.com/charliermarsh/ruff |
-| **python-sabyenc3** | 9.3.0 | C implementations of functions for use within SABnzbd | https://github.com/sabnzbd/sabctools |
+| **python-sabyenc3** | 9.3.1 | C implementations of functions for use within SABnzbd | https://github.com/sabnzbd/sabctools |
 | **python-skia-pathops** | 0.8.0-2 | Python bindings for the Skia library's Path Ops | https://github.com/fonttools/skia-pathops |
 | **python-static** | 3.12.12 | Static libraries for python | https://python.org/ |
 | **python-tflite-runtime** | 2.20.0 | TensorFlow Lite Python bindings | https://www.tensorflow.org/lite |
@@ -2322,7 +2322,7 @@
 | **sratom** | 0.6.20 | A small library for serialising LV2 atoms to and from RDF | https://drobilla.net/software/sratom.html |
 | **srelay** | 0.4.8p3-8 | A Free SOCKS proxy server | https://sourceforge.net/projects/socks-relay/ |
 | **srt-tools** | 1.5.4-2 | Command-line tools for libsrt | https://github.com/Haivision/srt |
-| **srt2vobsub** | 1.0-5 | A command-line tool that generates a pair of .idx/.sub subtitle files from a textual subtitles file | https://srt2vobsub.sourceforge.io/ |
+| **srt2vobsub** | 1.0-6 | A command-line tool that generates a pair of .idx/.sub subtitle files from a textual subtitles file | https://srt2vobsub.sourceforge.io/ |
 | **ssdb** | 1.9.9-3 | A Redis compatible NoSQL database stored on disk | https://ssdb.io/ |
 | **ssdeep** | 2.14.1-2 | A program for computing context triggered piecewise hashes (CTPH) | https://ssdeep-project.github.io/ssdeep/ |
 | **ssdeep-static** | 2.14.1-2 | Static libraries for ssdeep | https://ssdeep-project.github.io/ssdeep/ |
@@ -2595,9 +2595,9 @@
 | **vulkan-icd** | 0.1 | A metapackage that provides Vulkan ICDs | https://github.com/termux/termux-packages |
 | **vulkan-loader** | 0.0.3 | A metapackage that provides vulkan loader library | https://github.com/termux/termux-packages |
 | **vulkan-loader-android** | 29 | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
-| **vulkan-loader-generic** | 1.4.338 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
-| **vulkan-tools** | 1.4.338 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
-| **vulkan-utility-libraries** | 1.4.338 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
+| **vulkan-loader-generic** | 1.4.339 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
+| **vulkan-tools** | 1.4.339 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
+| **vulkan-utility-libraries** | 1.4.339 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
 | **vulkan-validation-layers** | 1.4.338 | Vulkan Validation Layers | https://github.com/KhronosGroup/Vulkan-ValidationLayers |
 | **vulkan-volk** | 1.4.304 | Meta loader for Vulkan API | https://github.com/zeux/volk |
 | **w3m** | 0.5.5 | Text based Web browser and pager | https://w3m.sourceforge.net/ |
@@ -2673,7 +2673,7 @@
 | **yarn** | 1.22.22 | Fast, reliable, and secure dependency management | https://classic.yarnpkg.com/lang/en/ |
 | **yasm** | 1.3.0-7 | Assembler supporting the x86 and AMD64 instruction sets | https://yasm.tortall.net/ |
 | **yasm-static** | 1.3.0-7 | Static libraries for yasm | https://yasm.tortall.net/ |
-| **yazi** | 26.1.4 | Blazing fast terminal file manager written in Rust, based on async I/O | https://yazi-rs.github.io/ |
+| **yazi** | 26.1.4-1 | Blazing fast terminal file manager written in Rust, based on async I/O | https://yazi-rs.github.io/ |
 | **yosys** | 0.61-1 | A framework for RTL synthesis tools | https://yosyshq.net/yosys/ |
 | **youtubedr** | 2.10.5 | Download youtube video in Golang | https://github.com/kkdai/youtube |
 | **yq** | 4.50.1 | A lightweight and portable command-line YAML, JSON and XML processor | https://mikefarah.gitbook.io/yq/ |
@@ -2684,8 +2684,8 @@
 | **yuma123-static** | 2.13-4 | Static libraries for yuma123 | https://yuma123.org/ |
 | **z-push** | 2.7.6 | An open-source application to synchronize ActiveSync compatible devices and Outlook | https://z-push.org/ |
 | **z3** | 4.15.4 | Z3 is a theorem prover from Microsoft Research | https://github.com/Z3Prover/z3 |
-| **zbar** | 0.23.93-1 | Software suite for reading bar codes from various sources | https://github.com/mchehab/zbar |
-| **zbar-static** | 0.23.93-1 | Static libraries for zbar | https://github.com/mchehab/zbar |
+| **zbar** | 0.23.93-2 | Software suite for reading bar codes from various sources | https://github.com/mchehab/zbar |
+| **zbar-static** | 0.23.93-2 | Static libraries for zbar | https://github.com/mchehab/zbar |
 | **zeronet** | 0.7.1-9 | Decentralized websites using Bitcoin crypto and BitTorrent network | https://zeronet.io/ |
 | **zig** | 0.15.1 | General-purpose programming language and toolchain | https://ziglang.org |
 | **zile** | 2.6.4-2 | Lightweight clone of the Emacs text editor | https://www.gnu.org/software/zile/ |

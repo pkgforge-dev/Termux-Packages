@@ -661,7 +661,7 @@
   },
   {
     "Package": "awesomeshot",
-    "Version": "1.1.0",
+    "Version": "1.1.0-1",
     "Description": "A command-line screenshot tool written in bash",
     "Homepage": "https://github.com/mayTermux/awesomeshot"
   },
@@ -2023,7 +2023,7 @@
   },
   {
     "Package": "dmtx-utils",
-    "Version": "0.7.6-1",
+    "Version": "0.7.6-2",
     "Description": "A command line interface for libdmtx",
     "Homepage": "https://github.com/dmtx/dmtx-utils"
   },
@@ -2689,7 +2689,7 @@
   },
   {
     "Package": "fastfetch",
-    "Version": "2.57.1",
+    "Version": "2.57.1-1",
     "Description": "A maintained, feature-rich and performance oriented, neofetch like system information tool",
     "Homepage": "https://github.com/fastfetch-cli/fastfetch"
   },
@@ -4417,13 +4417,13 @@
   },
   {
     "Package": "imagemagick",
-    "Version": "7.1.2.12",
+    "Version": "7.1.2.12-1",
     "Description": "Suite to create, edit, compose, or convert images in a variety of formats",
     "Homepage": "https://www.imagemagick.org/"
   },
   {
     "Package": "imagemagick-static",
-    "Version": "7.1.2.12",
+    "Version": "7.1.2.12-1",
     "Description": "Static libraries for imagemagick",
     "Homepage": "https://www.imagemagick.org/"
   },
@@ -7891,13 +7891,13 @@
   },
   {
     "Package": "libraw",
-    "Version": "0.21.5",
+    "Version": "0.22.0",
     "Description": "Library for reading RAW files from digital cameras",
     "Homepage": "https://www.libraw.org/"
   },
   {
     "Package": "libraw-static",
-    "Version": "0.21.5",
+    "Version": "0.22.0",
     "Description": "Static libraries for libraw",
     "Homepage": "https://www.libraw.org/"
   },
@@ -8815,7 +8815,7 @@
   },
   {
     "Package": "libvips",
-    "Version": "8.18.0",
+    "Version": "8.18.0-1",
     "Description": "A fast image processing library with low memory needs",
     "Homepage": "https://libvips.github.io/libvips/"
   },
@@ -9541,7 +9541,7 @@
   },
   {
     "Package": "lsix",
-    "Version": "1.9.1",
+    "Version": "1.9.1-1",
     "Description": "Shows thumbnails in terminal using sixel graphics",
     "Homepage": "https://github.com/hackerb9/lsix"
   },
@@ -11797,7 +11797,7 @@
   },
   {
     "Package": "php-imagick",
-    "Version": "3.8.1",
+    "Version": "3.8.1-1",
     "Description": "The Imagick PHP extension",
     "Homepage": "https://github.com/Imagick/imagick"
   },
@@ -12445,7 +12445,7 @@
   },
   {
     "Package": "python-sabyenc3",
-    "Version": "9.3.0",
+    "Version": "9.3.1",
     "Description": "C implementations of functions for use within SABnzbd",
     "Homepage": "https://github.com/sabnzbd/sabctools"
   },
@@ -13945,7 +13945,7 @@
   },
   {
     "Package": "srt2vobsub",
-    "Version": "1.0-5",
+    "Version": "1.0-6",
     "Description": "A command-line tool that generates a pair of .idx/.sub subtitle files from a textual subtitles file",
     "Homepage": "https://srt2vobsub.sourceforge.io/"
   },
@@ -15583,19 +15583,19 @@
   },
   {
     "Package": "vulkan-loader-generic",
-    "Version": "1.4.338",
+    "Version": "1.4.339",
     "Description": "Vulkan Loader",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Loader"
   },
   {
     "Package": "vulkan-tools",
-    "Version": "1.4.338",
+    "Version": "1.4.339",
     "Description": "Vulkan Tools and Utilities",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Tools"
   },
   {
     "Package": "vulkan-utility-libraries",
-    "Version": "1.4.338",
+    "Version": "1.4.339",
     "Description": "Utility Libraries for Vulkan",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Utility-Libraries"
   },
@@ -16051,7 +16051,7 @@
   },
   {
     "Package": "yazi",
-    "Version": "26.1.4",
+    "Version": "26.1.4-1",
     "Description": "Blazing fast terminal file manager written in Rust, based on async I/O",
     "Homepage": "https://yazi-rs.github.io/"
   },
@@ -16117,13 +16117,13 @@
   },
   {
     "Package": "zbar",
-    "Version": "0.23.93-1",
+    "Version": "0.23.93-2",
     "Description": "Software suite for reading bar codes from various sources",
     "Homepage": "https://github.com/mchehab/zbar"
   },
   {
     "Package": "zbar-static",
-    "Version": "0.23.93-1",
+    "Version": "0.23.93-2",
     "Description": "Static libraries for zbar",
     "Homepage": "https://github.com/mchehab/zbar"
   },
