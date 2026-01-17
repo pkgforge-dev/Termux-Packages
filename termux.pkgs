@@ -1617,7 +1617,7 @@
 | **luvi** | 1:2.15.0-2 | A project in-between luv and luvit | https://luvit.io |
 | **luvit** | 2.18.1-1 | Asynchronous I/O for Lua | https://luvit.io |
 | **lux** | 0.24.1-2 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
-| **lux-cli** | 0.23.0-1 | A package manager for Lua, similar to luarocks | https://nvim-neorocks.github.io/ |
+| **lux-cli** | 0.24.0 | A package manager for Lua, similar to luarocks | https://nvim-neorocks.github.io/ |
 | **lv2** | 1.18.10-5 | A plugin standard for audio systems | https://lv2plug.in/ |
 | **lychee** | 0.22.0 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
 | **lynx** | 2.9.2-1 | The text web browser | http://lynx.browser.org/ |
@@ -1746,7 +1746,7 @@
 | **msmtp** | 1.8.32 | Lightweight SMTP client | https://marlam.de/msmtp/ |
 | **mtd-utils** | 2.3.0-1 | Utilities for dealing with MTD devices | http://www.linux-mtd.infradead.org/ |
 | **mtools** | 4.0.49-1 | Tool for manipulating FAT images | https://www.gnu.org/software/mtools/ |
-| **mu** | 1.12.14 | Maildir indexer/searcher and Emacs client (mu4e) | https://www.djcbsoftware.nl/code/mu/ |
+| **mu** | 1.12.15 | Maildir indexer/searcher and Emacs client (mu4e) | https://www.djcbsoftware.nl/code/mu/ |
 | **muchsync** | 7-2 | Synchronize notmuch mail across machines | http://www.muchsync.org/ |
 | **mujs** | 1.3.8 | A lightweight Javascript interpreter designed for embedding in other software | https://mujs.com/ |
 | **mujs-static** | 1.3.8 | Static libraries for mujs | https://mujs.com/ |
@@ -2484,8 +2484,8 @@
 | **trojan-go** | 0.10.6-4 | A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW | https://p4gefau1t.github.io/trojan-go |
 | **trunk** | 0.21.14-1 | Build, bundle & ship your Rust WASM application to the web | https://trunkrs.dev/ |
 | **trurl** | 0.16.1-1 | trurl is a command line tool that parses and manipulates URLs | https://curl.se/trurl/ |
-| **trzsz-go** | 1.1.8-1 | A simple file transfer tools, similar to lrzsz ( rz / sz ) | https://trzsz.github.io/ |
-| **trzsz-ssh** | 0.1.23 | An openssh client alternative | https://trzsz.github.io/ssh |
+| **trzsz-go** | 1.2.0 | A simple file transfer tools, similar to lrzsz ( rz / sz ) | https://trzsz.github.io/ |
+| **trzsz-ssh** | 0.1.24 | An openssh client alternative | https://trzsz.github.io/ssh |
 | **tsduck-java** | 3.43.4549 | Java bindings for TSDuck | https://tsduck.io/ |
 | **tsduck-plugins** | 3.43.4549 | Plugins for TSDuck | https://tsduck.io/ |
 | **tsduck-python** | 3.43.4549 | Python bindings for TSDuck | https://tsduck.io/ |

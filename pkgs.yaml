@@ -6475,7 +6475,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.23.0-1
+  Version: 0.24.0
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://nvim-neorocks.github.io/
 - Package: lv2
@@ -6991,7 +6991,7 @@
   Description: Tool for manipulating FAT images
   Homepage: https://www.gnu.org/software/mtools/
 - Package: mu
-  Version: 1.12.14
+  Version: 1.12.15
   Description: Maildir indexer/searcher and Emacs client (mu4e)
   Homepage: https://www.djcbsoftware.nl/code/mu/
 - Package: muchsync
@@ -9943,11 +9943,11 @@
   Description: trurl is a command line tool that parses and manipulates URLs
   Homepage: https://curl.se/trurl/
 - Package: trzsz-go
-  Version: 1.1.8-1
+  Version: 1.2.0
   Description: A simple file transfer tools, similar to lrzsz ( rz / sz )
   Homepage: https://trzsz.github.io/
 - Package: trzsz-ssh
-  Version: 0.1.23
+  Version: 0.1.24
   Description: An openssh client alternative
   Homepage: https://trzsz.github.io/ssh
 - Package: tsduck-java
