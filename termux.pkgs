@@ -302,7 +302,7 @@
 | **dar-static** | 2.8.2 | Static libraries for dar | http://dar.linux.free.fr/ |
 | **darkhttpd** | 1.17-1 | A simple webserver, implemented in a single .c file. | https://unix4lyfe.org/darkhttpd |
 | **dasel** | 3.2.1 | Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility | https://github.com/TomWright/dasel |
-| **dash** | 0.5.12-1 | Small POSIX-compliant implementation of /bin/sh | http://gondor.apana.org.au/~herbert/dash/ |
+| **dash** | 0.5.12-2 | Small POSIX-compliant implementation of /bin/sh | http://gondor.apana.org.au/~herbert/dash/ |
 | **dasm** | 2.20.14.1-1 | Macro assembler with support for several 8-bit microprocessors | https://dasm-dillon.sourceforge.io/ |
 | **datamash** | 1.9-1 | Program performing numeric, textual and statistical operations | https://www.gnu.org/software/datamash/ |
 | **dateutils** | 0.4.11-1 | Command line date and time utilities | https://www.fresse.org/dateutils/ |
@@ -526,7 +526,7 @@
 | **gbt** | 2.0.0-6 | Highly configurable prompt builder for Bash and ZSH written in Go | https://github.com/jtyr/gbt |
 | **gcab** | 1.6-1 | GObject library to create cabinet files | https://gitlab.gnome.org/GNOME/gcab |
 | **gcal** | 4.1-4 | Program for calculating and printing calendars | https://www.gnu.org/software/gcal/ |
-| **gdal** | 3.12.1-1 | A translator library for raster and vector geospatial data formats | https://gdal.org |
+| **gdal** | 3.12.1-2 | A translator library for raster and vector geospatial data formats | https://gdal.org |
 | **gdb** | 16.3-1 | The standard GNU Debugger that runs on many Unix-like systems and works for many programming languages | https://www.gnu.org/software/gdb/ |
 | **gdbm** | 1.26-1 | Library of database functions that use extensible hashing | https://www.gnu.org.ua/software/gdbm/ |
 | **gdbm-static** | 1.26-1 | Static libraries for gdbm | https://www.gnu.org.ua/software/gdbm/ |
@@ -577,8 +577,8 @@
 | **gkermit** | 2.01-1 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
 | **glab-cli** | 1.80.4 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
 | **gleam** | 1.14.0 | A friendly language for building type-safe, scalable systems! | https://gleam.run |
-| **glib** | 2.86.3 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
-| **glib-cross** | 2.86.3 | glib for host (NOT for Termux) | https://developer.gnome.org/glib/ |
+| **glib** | 2.86.3-1 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
+| **glib-cross** | 2.86.3-1 | glib for host (NOT for Termux) | https://developer.gnome.org/glib/ |
 | **glib-networking** | 2.80.1-1 | Network-related giomodules for glib | https://gitlab.gnome.org/GNOME/glib-networking |
 | **glibc-repo** | 1.0 | A package repository containing glibc-based programs and libraries | https://github.com/termux/glibc-packages |
 | **glm** | 1.0.1 | C++ mathematics library for graphics software based on the GLSL specifications | https://glm.g-truc.net/ |
@@ -1063,8 +1063,8 @@
 | **libgsf-static** | 1.14.55 | Static libraries for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
 | **libgtop** | 2.41.3-1 | Library for collecting system monitoring data | https://gitlab.gnome.org/GNOME/libgtop |
 | **libgtop-static** | 2.41.3-1 | Static libraries for libgtop | https://gitlab.gnome.org/GNOME/libgtop |
-| **libgts** | 0.7.6-2 | Provides useful functions to deal with 3D surfaces meshed with interconnected triangles | https://gts.sourceforge.net/ |
-| **libgts-static** | 0.7.6-2 | Static libraries for libgts | https://gts.sourceforge.net/ |
+| **libgts** | 0.7.6-3 | Provides useful functions to deal with 3D surfaces meshed with interconnected triangles | https://gts.sourceforge.net/ |
+| **libgts-static** | 0.7.6-3 | Static libraries for libgts | https://gts.sourceforge.net/ |
 | **libgxps** | 0.3.2-3 | handling and rendering XPS documents | https://wiki.gnome.org/libgxps |
 | **libhangul** | 0.2.0-1 | A library to support hangul input method logic | https://github.com/libhangul/libhangul |
 | **libhangul-static** | 0.2.0-1 | Static libraries for libhangul | https://github.com/libhangul/libhangul |
@@ -1990,7 +1990,7 @@
 | **pkg-config** | 0.29.2-3 | Helper tool used when compiling applications and libraries | https://www.freedesktop.org/wiki/Software/pkg-config/ |
 | **pkgfile** | 25 | An alpm .files metadata explorer | https://github.com/falconindy/pkgfile |
 | **pkgtop** | 2.5.1 | Interactive package manager and resource monitor | https://github.com/orhun/pkgtop |
-| **plantuml** | 1.2026.0 | Draws UML diagrams, using a simple and human readable text description | https://plantuml.com/ |
+| **plantuml** | 1.2026.1 | Draws UML diagrams, using a simple and human readable text description | https://plantuml.com/ |
 | **play-audio** | 0.6-2 | Simple command line audio player for Android | https://github.com/termux/play-audio |
 | **plutolang** | 0.12.2 | A superset of Lua 5.4 with a focus on general-purpose programming. | https://plutolang.github.io/ |
 | **plzip** | 1.12-1 | A massively parallel lossless data compressor based on the lzlib compression library | https://www.nongnu.org/lzip/plzip.html |

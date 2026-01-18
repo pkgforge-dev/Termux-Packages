@@ -1215,7 +1215,7 @@
   Description: Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility
   Homepage: https://github.com/TomWright/dasel
 - Package: dash
-  Version: 0.5.12-1
+  Version: 0.5.12-2
   Description: Small POSIX-compliant implementation of /bin/sh
   Homepage: http://gondor.apana.org.au/~herbert/dash/
 - Package: dasm
@@ -2111,7 +2111,7 @@
   Description: Program for calculating and printing calendars
   Homepage: https://www.gnu.org/software/gcal/
 - Package: gdal
-  Version: 3.12.1-1
+  Version: 3.12.1-2
   Description: A translator library for raster and vector geospatial data formats
   Homepage: https://gdal.org
 - Package: gdb
@@ -2315,11 +2315,11 @@
   Description: A friendly language for building type-safe, scalable systems!
   Homepage: https://gleam.run
 - Package: glib
-  Version: 2.86.3
+  Version: 2.86.3-1
   Description: Library providing core building blocks for libraries and applications written in C
   Homepage: https://developer.gnome.org/glib/
 - Package: glib-cross
-  Version: 2.86.3
+  Version: 2.86.3-1
   Description: glib for host (NOT for Termux)
   Homepage: https://developer.gnome.org/glib/
 - Package: glib-networking
@@ -4259,11 +4259,11 @@
   Description: Static libraries for libgtop
   Homepage: https://gitlab.gnome.org/GNOME/libgtop
 - Package: libgts
-  Version: 0.7.6-2
+  Version: 0.7.6-3
   Description: Provides useful functions to deal with 3D surfaces meshed with interconnected triangles
   Homepage: https://gts.sourceforge.net/
 - Package: libgts-static
-  Version: 0.7.6-2
+  Version: 0.7.6-3
   Description: Static libraries for libgts
   Homepage: https://gts.sourceforge.net/
 - Package: libgxps
@@ -7967,7 +7967,7 @@
   Description: Interactive package manager and resource monitor
   Homepage: https://github.com/orhun/pkgtop
 - Package: plantuml
-  Version: 1.2026.0
+  Version: 1.2026.1
   Description: Draws UML diagrams, using a simple and human readable text description
   Homepage: https://plantuml.com/
 - Package: play-audio

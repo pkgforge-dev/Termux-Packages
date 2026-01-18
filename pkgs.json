@@ -1825,7 +1825,7 @@
   },
   {
     "Package": "dash",
-    "Version": "0.5.12-1",
+    "Version": "0.5.12-2",
     "Description": "Small POSIX-compliant implementation of /bin/sh",
     "Homepage": "http://gondor.apana.org.au/~herbert/dash/"
   },
@@ -3169,7 +3169,7 @@
   },
   {
     "Package": "gdal",
-    "Version": "3.12.1-1",
+    "Version": "3.12.1-2",
     "Description": "A translator library for raster and vector geospatial data formats",
     "Homepage": "https://gdal.org"
   },
@@ -3475,13 +3475,13 @@
   },
   {
     "Package": "glib",
-    "Version": "2.86.3",
+    "Version": "2.86.3-1",
     "Description": "Library providing core building blocks for libraries and applications written in C",
     "Homepage": "https://developer.gnome.org/glib/"
   },
   {
     "Package": "glib-cross",
-    "Version": "2.86.3",
+    "Version": "2.86.3-1",
     "Description": "glib for host (NOT for Termux)",
     "Homepage": "https://developer.gnome.org/glib/"
   },
@@ -6391,13 +6391,13 @@
   },
   {
     "Package": "libgts",
-    "Version": "0.7.6-2",
+    "Version": "0.7.6-3",
     "Description": "Provides useful functions to deal with 3D surfaces meshed with interconnected triangles",
     "Homepage": "https://gts.sourceforge.net/"
   },
   {
     "Package": "libgts-static",
-    "Version": "0.7.6-2",
+    "Version": "0.7.6-3",
     "Description": "Static libraries for libgts",
     "Homepage": "https://gts.sourceforge.net/"
   },
@@ -11953,7 +11953,7 @@
   },
   {
     "Package": "plantuml",
-    "Version": "1.2026.0",
+    "Version": "1.2026.1",
     "Description": "Draws UML diagrams, using a simple and human readable text description",
     "Homepage": "https://plantuml.com/"
   },
