@@ -949,7 +949,7 @@
   },
   {
     "Package": "borgbackup",
-    "Version": "1.4.3",
+    "Version": "1.4.3-1",
     "Description": "Deduplicating and compressing backup program",
     "Homepage": "https://www.borgbackup.org/"
   },
@@ -1135,13 +1135,13 @@
   },
   {
     "Package": "calcurse",
-    "Version": "4.8.2",
+    "Version": "4.8.2-1",
     "Description": "calcurse is a calendar and scheduling application for the command line",
     "Homepage": "https://calcurse.org/"
   },
   {
     "Package": "calcurse-caldav",
-    "Version": "4.8.2",
+    "Version": "4.8.2-1",
     "Description": "Sync calcurse with remote caldav calendar",
     "Homepage": "https://calcurse.org/"
   },
@@ -1765,7 +1765,7 @@
   },
   {
     "Package": "curl",
-    "Version": "8.18.0",
+    "Version": "8.18.0-1",
     "Description": "Command line tool for transferring data with URL syntax",
     "Homepage": "https://curl.se/"
   },
@@ -2050,6 +2050,12 @@
     "Version": "0.5.2-2",
     "Description": "dns2tcp is a tool for relaying TCP connections over DNS",
     "Homepage": "https://github.com/alex-sector/dns2tcp"
+  },
+  {
+    "Package": "dnscontrol",
+    "Version": "4.30.0",
+    "Description": "Infrastructure as code for DNS!",
+    "Homepage": "https://github.com/StackExchange/dnscontrol"
   },
   {
     "Package": "dnslookup",
@@ -2479,7 +2485,7 @@
   },
   {
     "Package": "electrum",
-    "Version": "4.5.8-2",
+    "Version": "4.5.8-3",
     "Description": "Electrum is a lightweight Bitcoin wallet",
     "Homepage": "https://electrum.org"
   },
@@ -3907,7 +3913,7 @@
   },
   {
     "Package": "groonga",
-    "Version": "15.2.1-1",
+    "Version": "15.2.3",
     "Description": "An embeddable fulltext search engine",
     "Homepage": "https://github.com/groonga/groonga/"
   },
@@ -4063,7 +4069,7 @@
   },
   {
     "Package": "hash-slinger",
-    "Version": "3.4",
+    "Version": "3.4-1",
     "Description": "Various tools to generate special DNS records",
     "Homepage": "https://github.com/letoams/hash-slinger"
   },
@@ -4998,6 +5004,12 @@
     "Homepage": "https://www.ledger-cli.org"
   },
   {
+    "Package": "lego",
+    "Version": "4.31.0",
+    "Description": "Lets Encrypt/ACME client and library written in Go",
+    "Homepage": "https://github.com/go-acme/lego"
+  },
+  {
     "Package": "leptonica",
     "Version": "1.87.0",
     "Description": "Library for image processing and image analysis",
@@ -5737,13 +5749,13 @@
   },
   {
     "Package": "libcurl",
-    "Version": "8.18.0",
+    "Version": "8.18.0-1",
     "Description": "Easy-to-use client-side URL transfer library",
     "Homepage": "https://curl.se/"
   },
   {
     "Package": "libcurl-static",
-    "Version": "8.18.0",
+    "Version": "8.18.0-1",
     "Description": "Static libraries for libcurl",
     "Homepage": "https://curl.se/"
   },
@@ -7380,6 +7392,18 @@
     "Homepage": "https://nghttp2.org/nghttp3/"
   },
   {
+    "Package": "libngtcp2",
+    "Version": "1.19.0",
+    "Description": "Implementation of IETF QUIC protocol",
+    "Homepage": "https://github.com/ngtcp2/ngtcp2"
+  },
+  {
+    "Package": "libngtcp2-static",
+    "Version": "1.19.0",
+    "Description": "Static libraries for libngtcp2",
+    "Homepage": "https://github.com/ngtcp2/ngtcp2"
+  },
+  {
     "Package": "libnl",
     "Version": "3.12.0",
     "Description": "Collection of libraries providing APIs to netlink protocol based Linux kernel interfaces",
@@ -7543,13 +7567,13 @@
   },
   {
     "Package": "libopus",
-    "Version": "1.5.2-1",
+    "Version": "1.6.1",
     "Description": "Reference implementation of the Opus codec",
     "Homepage": "https://www.opus-codec.org/"
   },
   {
     "Package": "libopus-static",
-    "Version": "1.5.2-1",
+    "Version": "1.6.1",
     "Description": "Static libraries for libopus",
     "Homepage": "https://www.opus-codec.org/"
   },
@@ -7702,6 +7726,18 @@
     "Version": "3.2.0-2",
     "Description": "A portable, flexible file i/o abstraction",
     "Homepage": "https://icculus.org/physfs/"
+  },
+  {
+    "Package": "libpinyin",
+    "Version": "2.10.3",
+    "Description": "Library to deal with pinyin.",
+    "Homepage": "https://github.com/libpinyin/libpinyin"
+  },
+  {
+    "Package": "libpinyin-static",
+    "Version": "2.10.3",
+    "Description": "Static libraries for libpinyin",
+    "Homepage": "https://github.com/libpinyin/libpinyin"
   },
   {
     "Package": "libpipeline",
@@ -8683,13 +8719,13 @@
   },
   {
     "Package": "libunbound",
-    "Version": "1.24.2",
+    "Version": "1.24.2-1",
     "Description": "A validating, recursive, caching DNS resolver",
     "Homepage": "https://unbound.net/"
   },
   {
     "Package": "libunbound-static",
-    "Version": "1.24.2",
+    "Version": "1.24.2-1",
     "Description": "Static libraries for libunbound",
     "Homepage": "https://unbound.net/"
   },
@@ -9571,7 +9607,7 @@
   },
   {
     "Package": "lua-lgi",
-    "Version": "0.9.2+p20251219",
+    "Version": "0.9.2+p20251219-1",
     "Description": "Dynamic Lua binding to GObject libraries using GObject-Introspection",
     "Homepage": "https://github.com/lgi-devs/lgi"
   },
@@ -9673,7 +9709,7 @@
   },
   {
     "Package": "luajit-lgi",
-    "Version": "0.9.2+p20251219",
+    "Version": "0.9.2+p20251219-2",
     "Description": "Dynamic Lua binding to GObject libraries using GObject-Introspection",
     "Homepage": "https://github.com/lgi-devs/lgi"
   },
@@ -9721,7 +9757,7 @@
   },
   {
     "Package": "lv2",
-    "Version": "1.18.10-5",
+    "Version": "1.18.10-6",
     "Description": "A plugin standard for audio systems",
     "Homepage": "https://lv2plug.in/"
   },
@@ -9871,7 +9907,7 @@
   },
   {
     "Package": "matplotlib",
-    "Version": "3.10.8",
+    "Version": "3.10.8-1",
     "Description": "A comprehensive library for creating static, animated, and interactive visualizations in Python",
     "Homepage": "https://matplotlib.org/"
   },
@@ -10585,7 +10621,7 @@
   },
   {
     "Package": "nala",
-    "Version": "0.16.0",
+    "Version": "0.16.0-1",
     "Description": "Commandline frontend for the apt package manager",
     "Homepage": "https://gitlab.com/volian/nala"
   },
@@ -10981,7 +11017,7 @@
   },
   {
     "Package": "notmuch",
-    "Version": "0.39-1",
+    "Version": "0.39-2",
     "Description": "Thread-based email index, search and tagging system",
     "Homepage": "https://notmuchmail.org"
   },
@@ -12295,7 +12331,7 @@
   },
   {
     "Package": "python",
-    "Version": "3.12.12",
+    "Version": "3.12.12-1",
     "Description": "Python 3 programming language intended to enable clear programs",
     "Homepage": "https://python.org/"
   },
@@ -12313,7 +12349,7 @@
   },
   {
     "Package": "python-bcrypt",
-    "Version": "5.0.0",
+    "Version": "5.0.0-1",
     "Description": "Acceptable password hashing for your software and your servers",
     "Homepage": "https://github.com/pyca/bcrypt"
   },
@@ -12331,31 +12367,31 @@
   },
   {
     "Package": "python-contourpy",
-    "Version": "1.3.3-1",
+    "Version": "1.3.3-2",
     "Description": "Python library for calculating contours in 2D quadrilateral grids",
     "Homepage": "https://contourpy.readthedocs.io/"
   },
   {
     "Package": "python-cryptography",
-    "Version": "46.0.3",
+    "Version": "46.0.3-1",
     "Description": "Provides cryptographic recipes and primitives to Python developers",
     "Homepage": "https://github.com/pyca/cryptography"
   },
   {
     "Package": "python-ensurepip-wheels",
-    "Version": "3.12.12",
+    "Version": "3.12.12-1",
     "Description": "Wheels for Python ensurepip",
     "Homepage": "https://python.org/"
   },
   {
     "Package": "python-greenlet",
-    "Version": "3.3.0",
+    "Version": "3.3.0-1",
     "Description": "Lightweight coroutines for in-process concurrent programming",
     "Homepage": "https://github.com/python-greenlet/greenlet"
   },
   {
     "Package": "python-grpcio",
-    "Version": "1.76.0-2",
+    "Version": "1.76.0-3",
     "Description": "High performance, open source, general RPC framework that puts mobile and HTTP/2 first",
     "Homepage": "https://grpc.io/"
   },
@@ -12373,7 +12409,7 @@
   },
   {
     "Package": "python-llvmlite",
-    "Version": "0.46.0",
+    "Version": "0.46.0-1",
     "Description": "A lightweight LLVM python binding for writing JIT compilers",
     "Homepage": "https://llvmlite.pydata.org/"
   },
@@ -12385,31 +12421,31 @@
   },
   {
     "Package": "python-msgpack",
-    "Version": "1.1.2",
+    "Version": "1.1.2-1",
     "Description": "MessagePack serializer implementation for Python",
     "Homepage": "https://github.com/msgpack/msgpack-python"
   },
   {
     "Package": "python-numpy",
-    "Version": "2.2.5-2",
+    "Version": "2.2.5-3",
     "Description": "The fundamental package for scientific computing with Python",
     "Homepage": "https://numpy.org/"
   },
   {
     "Package": "python-numpy-static",
-    "Version": "2.2.5-2",
+    "Version": "2.2.5-3",
     "Description": "Static libraries for python-numpy",
     "Homepage": "https://numpy.org/"
   },
   {
     "Package": "python-onnxruntime",
-    "Version": "1.22.2-5",
+    "Version": "1.23.2",
     "Description": "Cross-platform, high performance ML inferencing and training accelerator",
     "Homepage": "https://onnxruntime.ai/"
   },
   {
     "Package": "python-pillow",
-    "Version": "12.1.0",
+    "Version": "12.1.0-1",
     "Description": "Python Imaging Library",
     "Homepage": "https://python-pillow.org/"
   },
@@ -12427,13 +12463,13 @@
   },
   {
     "Package": "python-pycryptodomex",
-    "Version": "3.23.0-1",
+    "Version": "3.23.0-2",
     "Description": "A self-contained Python package of low-level cryptographic primitives",
     "Homepage": "https://www.pycryptodome.org/"
   },
   {
     "Package": "python-pynvim",
-    "Version": "0.6.0",
+    "Version": "0.6.0-1",
     "Description": "Python client for Neovim",
     "Homepage": "https://github.com/neovim/pynvim"
   },
@@ -12451,61 +12487,61 @@
   },
   {
     "Package": "python-skia-pathops",
-    "Version": "0.8.0-2",
+    "Version": "0.8.0-3",
     "Description": "Python bindings for the Skia librarys Path Ops",
     "Homepage": "https://github.com/fonttools/skia-pathops"
   },
   {
     "Package": "python-static",
-    "Version": "3.12.12",
+    "Version": "3.12.12-1",
     "Description": "Static libraries for python",
     "Homepage": "https://python.org/"
   },
   {
     "Package": "python-tflite-runtime",
-    "Version": "2.20.0",
+    "Version": "2.20.0-1",
     "Description": "TensorFlow Lite Python bindings",
     "Homepage": "https://www.tensorflow.org/lite"
   },
   {
     "Package": "python-tkinter",
-    "Version": "3.12.12",
+    "Version": "3.12.12-1",
     "Description": "Tkinter support for Python 3",
     "Homepage": "https://python.org/"
   },
   {
     "Package": "python-tldp",
-    "Version": "0.7.5-5",
+    "Version": "0.7.5-6",
     "Description": "Tools for publishing from TLDP sources",
     "Homepage": "https://github.com/tLDP/python-tldp"
   },
   {
     "Package": "python-torch",
-    "Version": "2.9.1",
+    "Version": "2.9.1-1",
     "Description": "Tensors and Dynamic neural networks in Python",
     "Homepage": "https://pytorch.org/"
   },
   {
     "Package": "python-torch-static",
-    "Version": "2.9.1",
+    "Version": "2.9.1-1",
     "Description": "Static libraries for python-torch",
     "Homepage": "https://pytorch.org/"
   },
   {
     "Package": "python-torchaudio",
-    "Version": "2.9.1",
+    "Version": "2.9.1-1",
     "Description": "Data manipulation and transformation for audio signal processing, powered by PyTorch",
     "Homepage": "https://github.com/pytorch/audio"
   },
   {
     "Package": "python-torchcodec",
-    "Version": "0.9.0",
+    "Version": "0.9.0-1",
     "Description": "PyTorch media decoding and encoding",
     "Homepage": "https://github.com/pytorch/torchcodec"
   },
   {
     "Package": "python-torchvision",
-    "Version": "0.24.1-1",
+    "Version": "0.24.1-2",
     "Description": "Datasets, Transforms and Models specific to Computer Vision",
     "Homepage": "https://github.com/pytorch/vision"
   },
@@ -12517,13 +12553,13 @@
   },
   {
     "Package": "python-xlib",
-    "Version": "0.33-1",
+    "Version": "0.33-2",
     "Description": "The Python X Library",
     "Homepage": "https://github.com/python-xlib/python-xlib"
   },
   {
     "Package": "python-yt-dlp",
-    "Version": "2025.12.08-1",
+    "Version": "2025.12.08-2",
     "Description": "A youtube-dl fork with additional features and fixes",
     "Homepage": "https://github.com/yt-dlp/yt-dlp"
   },
@@ -12541,7 +12577,7 @@
   },
   {
     "Package": "pyunbound",
-    "Version": "1.24.2",
+    "Version": "1.24.2-1",
     "Description": "Python bindings for Unbound",
     "Homepage": "https://unbound.net/"
   },
@@ -12775,7 +12811,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "4.25.1",
+    "Version": "4.25.2",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -12865,13 +12901,13 @@
   },
   {
     "Package": "rdiff-backup",
-    "Version": "2.2.6-3",
+    "Version": "2.2.6-4",
     "Description": "A utility for local/remote mirroring and incremental backups",
     "Homepage": "https://rdiff-backup.net"
   },
   {
     "Package": "rdircd",
-    "Version": "2023.02.07-1",
+    "Version": "2023.02.07-2",
     "Description": "A daemon that allows using a personal Discord account through an IRC client",
     "Homepage": "https://github.com/mk-fg/reliable-discord-client-irc-daemon"
   },
@@ -13333,7 +13369,7 @@
   },
   {
     "Package": "sabnzbd",
-    "Version": "4.5.5",
+    "Version": "4.5.5-1",
     "Description": "Fully automated Usenet Binary Downloader",
     "Homepage": "https://sabnzbd.org/"
   },
@@ -13945,7 +13981,7 @@
   },
   {
     "Package": "srt2vobsub",
-    "Version": "1.0-6",
+    "Version": "1.0-7",
     "Description": "A command-line tool that generates a pair of .idx/.sub subtitle files from a textual subtitles file",
     "Homepage": "https://srt2vobsub.sourceforge.io/"
   },
@@ -14521,13 +14557,13 @@
   },
   {
     "Package": "termux-gui-package",
-    "Version": "0.1.6-2",
+    "Version": "0.1.6-3",
     "Description": "A Termux package containing utilities for Termux:GUI",
     "Homepage": "https://github.com/tareksander/termux-gui-package"
   },
   {
     "Package": "termux-gui-pm",
-    "Version": "1.0.0-2",
+    "Version": "1.0.0-3",
     "Description": "A graphical package manager for various package formats for Termux and proot-distro distros",
     "Homepage": "https://github.com/tareksander/termux-gui-pm"
   },
@@ -15115,7 +15151,7 @@
   },
   {
     "Package": "unbound",
-    "Version": "1.24.2",
+    "Version": "1.24.2-1",
     "Description": "Unbound command-line tools",
     "Homepage": "https://unbound.net/"
   },
@@ -15157,13 +15193,13 @@
   },
   {
     "Package": "units",
-    "Version": "2.25",
+    "Version": "2.25-1",
     "Description": "Converts between different systems of units",
     "Homepage": "https://www.gnu.org/software/units/"
   },
   {
     "Package": "units-cur",
-    "Version": "2.25",
+    "Version": "2.25-1",
     "Description": "units_cur Python script",
     "Homepage": "https://www.gnu.org/software/units/"
   },
@@ -16075,7 +16111,7 @@
   },
   {
     "Package": "yt-dlp-ejs",
-    "Version": "0.3.2",
+    "Version": "0.3.2-1",
     "Description": "External JavaScript for yt-dlp supporting many runtimes",
     "Homepage": "https://github.com/yt-dlp/ejs"
   },
@@ -16087,7 +16123,7 @@
   },
   {
     "Package": "ytui-music",
-    "Version": "2.0.0-beta-3",
+    "Version": "2.0.0-beta-4",
     "Description": "Youtube client in terminal for music",
     "Homepage": "https://github.com/sudipghimire533/ytui-music"
   },
