@@ -2536,8 +2536,8 @@
 | **unicorn** | 2.1.4 | Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework | https://www.unicorn-engine.org/ |
 | **unicorn-static** | 2.1.4 | Static libraries for unicorn | https://www.unicorn-engine.org/ |
 | **unifdef** | 2.12-1 | Remove #ifdef'ed lines | http://dotat.at/prog/unifdef/ |
-| **units** | 2.24-1 | Converts between different systems of units | https://www.gnu.org/software/units/ |
-| **units-cur** | 2.24-1 | units_cur Python script | https://www.gnu.org/software/units/ |
+| **units** | 2.25 | Converts between different systems of units | https://www.gnu.org/software/units/ |
+| **units-cur** | 2.25 | units_cur Python script | https://www.gnu.org/software/units/ |
 | **unixodbc** | 2.3.14 | An Open Source ODBC sub-system and an ODBC SDK for Linux, Mac OSX, and UNIX | https://www.unixodbc.org/ |
 | **unixodbc-static** | 2.3.14 | Static libraries for unixodbc | https://www.unixodbc.org/ |
 | **unpaper** | 1:7.0.0-4 | A post-processing tool for scanned sheets of paper | https://www.flameeyes.com/projects/unpaper |
