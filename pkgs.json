@@ -8893,13 +8893,13 @@
   },
   {
     "Package": "libwavpack",
-    "Version": "5.8.1-1",
+    "Version": "5.9.0",
     "Description": "A completely open audio compression format providing lossless, high-quality lossy, and a unique hybrid compression mode",
     "Homepage": "https://www.wavpack.com/"
   },
   {
     "Package": "libwavpack-static",
-    "Version": "5.8.1-1",
+    "Version": "5.9.0",
     "Description": "Static libraries for libwavpack",
     "Homepage": "https://www.wavpack.com/"
   },
@@ -10771,7 +10771,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.12.0~dev-2052+ge51f5e17e1-0",
+    "Version": "0.12.0~dev-2058+g41068c77aa-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -11023,7 +11023,7 @@
   },
   {
     "Package": "nushell",
-    "Version": "0.109.1",
+    "Version": "0.110.0",
     "Description": "A new type of shell operating on structured data",
     "Homepage": "https://www.nushell.sh"
   },
@@ -15661,7 +15661,7 @@
   },
   {
     "Package": "wavpack",
-    "Version": "5.8.1-1",
+    "Version": "5.9.0",
     "Description": "WavPack command-line programs",
     "Homepage": "https://www.wavpack.com/"
   },
