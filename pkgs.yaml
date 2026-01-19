@@ -1079,7 +1079,7 @@
   Description: A tool for tunneling SSH through HTTP proxies
   Homepage: https://wiki.linuxquestions.org/wiki/Corkscrew
 - Package: corrosion
-  Version: 0.6.0
+  Version: 0.6.1
   Description: Tool for integrating Rust into an existing CMake project
   Homepage: https://github.com/corrosion-rs/corrosion
 - Package: cowsay
@@ -6614,6 +6614,10 @@
   Version: 0.28.0-1
   Description: Connect to your mattermost or slack using your IRC-client of choice
   Homepage: https://github.com/42wim/matterircd
+- Package: matugen
+  Version: 3.1.0
+  Description: A material you color generation tool with templates
+  Homepage: https://github.com/InioX/matugen
 - Package: mautrix-whatsapp
   Version: 0.2601.0
   Description: A Matrix-WhatsApp puppeting bridge
@@ -7203,7 +7207,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.12.0~dev-2058+g41068c77aa-0
+  Version: 0.12.0~dev-2062+g30259d6af7-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -7663,7 +7667,7 @@
   Description: Oxc JavaScript linter
   Homepage: https://oxc.rs/
 - Package: p11-kit
-  Version: 0.26.0
+  Version: 0.26.1
   Description: Provides a way to load and enumerate PKCS#11 modules
   Homepage: https://p11-glue.github.io/p11-glue/p11-kit.html
 - Package: p7zip
