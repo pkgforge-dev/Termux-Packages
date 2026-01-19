@@ -1925,8 +1925,8 @@
 | **ossp-uuid** | 1.6.2-4 | ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122. | http://www.ossp.org/pkg/lib/uuid/ |
 | **ossp-uuid-static** | 1.6.2-4 | Static libraries for ossp-uuid | http://www.ossp.org/pkg/lib/uuid/ |
 | **ovmf** | 20231122-16.fc40-0 | Open Virtual Machine Firmware | https://www.tianocore.org/ |
-| **oxfmt** | 1.39.0 | Oxc JavaScript formatter | https://oxc.rs/ |
-| **oxlint** | 1.39.0 | Oxc JavaScript linter | https://oxc.rs/ |
+| **oxfmt** | 1.40.0 | Oxc JavaScript formatter | https://oxc.rs/ |
+| **oxlint** | 1.40.0 | Oxc JavaScript linter | https://oxc.rs/ |
 | **p11-kit** | 0.26.1 | Provides a way to load and enumerate PKCS#11 modules | https://p11-glue.github.io/p11-glue/p11-kit.html |
 | **p7zip** | 17.06-1 | Command-line version of the 7zip compressed file archiver | https://github.com/p7zip-project/p7zip |
 | **pacman** | 7.1.0-1 | A library-based package manager with dependency support | https://archlinux.org/pacman/ |
@@ -2110,8 +2110,8 @@
 | **pyunbound** | 1.24.2-1 | Python bindings for Unbound | https://unbound.net/ |
 | **pzstd** | 1.5.7-1 | A Pigz-like tool for Zstandard | https://github.com/facebook/zstd |
 | **q-dns-client** | 0.19.11 | A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH | https://github.com/natesales/q |
-| **qalc** | 5.8.2 | Powerful and easy to use command line calculator | https://qalculate.github.io/ |
-| **qalc-static** | 5.8.2 | Static libraries for qalc | https://qalculate.github.io/ |
+| **qalc** | 5.9.0 | Powerful and easy to use command line calculator | https://qalculate.github.io/ |
+| **qalc-static** | 5.9.0 | Static libraries for qalc | https://qalculate.github.io/ |
 | **qemu-common** | 1:10.1.2 | A set common files used by the QEMU emulators | https://www.qemu.org |
 | **qemu-system-aarch64-headless** | 1:10.1.2 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
 | **qemu-system-arm-headless** | 1:10.1.2 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
@@ -2134,7 +2134,7 @@
 | **qemu-utils** | 1:10.1.2 | A set of utilities for working with the QEMU emulators | https://www.qemu.org |
 | **qhull** | 8.1-alpha3-2 | Calculate convex hulls and related structures | http://www.qhull.org |
 | **qhull-static** | 8.1-alpha3-2 | Static libraries for qhull | http://www.qhull.org |
-| **qpdf** | 12.3.0 | Content-Preserving PDF Transformation System | http://qpdf.sourceforge.net |
+| **qpdf** | 12.3.1 | Content-Preserving PDF Transformation System | http://qpdf.sourceforge.net |
 | **qrsspig** | 0.8.0-7 | Headless QRSS grabber for Raspberry Pi's | https://gitlab.com/hb9fxx/qrsspig |
 | **quick-lint-js** | 3.2.0-1 | Finds bugs in JavaScript programs | https://quick-lint-js.com/ |
 | **quickjs** | 1:20250913 | QuickJS is a small and embeddable Javascript engine | https://bellard.org/quickjs/ |
