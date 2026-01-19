@@ -1063,7 +1063,7 @@
   Description: An extractor/converter for .LIT eBooks
   Homepage: http://www.convertlit.com/
 - Package: cookcli
-  Version: 0.19.3
+  Version: 0.20.0
   Description: A suite of tools to create shopping lists and maintain food recipes
   Homepage: https://cooklang.org
 - Package: coreutils
@@ -2607,7 +2607,7 @@
   Description: Transforms JSON into discrete assignments
   Homepage: https://github.com/tomnomnom/gron
 - Package: groonga
-  Version: 15.2.3
+  Version: 15.2.3-1
   Description: An embeddable fulltext search engine
   Homepage: https://github.com/groonga/groonga/
 - Package: groovy
@@ -3527,7 +3527,7 @@
   Description: Static libraries for libarchive
   Homepage: https://www.libarchive.org/
 - Package: libarrow-cpp
-  Version: 22.0.0-3
+  Version: 23.0.0
   Description: C++ libraries for Apache Arrow
   Homepage: https://github.com/apache/arrow
 - Package: libasio
@@ -6483,7 +6483,7 @@
   Description: Deployment and management system for Lua modules
   Homepage: https://luarocks.org/
 - Package: luv
-  Version: 1.51.0-1-2
+  Version: 1.51.0-2-0
   Description: Bare libuv bindings for lua
   Homepage: https://github.com/luvit/luv
 - Package: luvi
@@ -8163,7 +8163,7 @@
   Description: command line tool for processing HTML
   Homepage: https://github.com/ericchiang/pup
 - Package: pure-ftpd
-  Version: 1.0.52-1
+  Version: 1.0.53
   Description: Pure-FTPd is a free (BSD), secure, production-quality and standard-conformant FTP server
   Homepage: https://www.pureftpd.org/project/pure-ftpd
 - Package: pv
@@ -8303,7 +8303,7 @@
   Description: The PyPA recommended tool for installing Python packages
   Homepage: https://pip.pypa.io/
 - Package: python-pyarrow
-  Version: 22.0.0-3
+  Version: 23.0.0
   Description: Python bindings for Apache Arrow
   Homepage: https://github.com/apache/arrow
 - Package: python-pycryptodomex
@@ -8323,7 +8323,7 @@
   Description: C implementations of functions for use within SABnzbd
   Homepage: https://github.com/sabnzbd/sabctools
 - Package: python-skia-pathops
-  Version: 0.8.0-3
+  Version: 0.9.1
   Description: Python bindings for the Skia librarys Path Ops
   Homepage: https://github.com/fonttools/skia-pathops
 - Package: python-static
@@ -8843,7 +8843,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: "20260112"
+  Version: "20260119"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://rust-analyzer.github.io/
 - Package: rust-bindgen
