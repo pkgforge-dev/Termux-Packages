@@ -540,12 +540,6 @@
     "Homepage": "https://assimp.sourceforge.net/index.html"
   },
   {
-    "Package": "astra-sm",
-    "Version": "2019.06.19-1",
-    "Description": "Software for digital TV broadcasting",
-    "Homepage": "https://gitlab.com/berdyansk/astra-sm"
-  },
-  {
     "Package": "asymptote",
     "Version": "3.05-1",
     "Description": "A powerful descriptive vector graphics language for technical drawing",
@@ -1272,12 +1266,6 @@
     "Homepage": "https://libcec.pulse-eight.com/"
   },
   {
-    "Package": "ceu-lang",
-    "Version": "2019.07.17-2",
-    "Description": "The Structured Synchronous Reactive Programming Language Céu",
-    "Homepage": "https://github.com/ceu-lang/ceu"
-  },
-  {
     "Package": "cfengine",
     "Version": "1:3.25.0-2",
     "Description": "CFEngine is a configuration management technology",
@@ -1453,7 +1441,7 @@
   },
   {
     "Package": "cloudflared",
-    "Version": "2025.11.1",
+    "Version": "2026.1.1",
     "Description": "A tunneling daemon that proxies traffic from the Cloudflare network to your origins",
     "Homepage": "https://github.com/cloudflare/cloudflared"
   },
@@ -6870,78 +6858,6 @@
     "Homepage": "https://www.gnu.org/software/libtool/"
   },
   {
-    "Package": "liblua51",
-    "Version": "5.1.5-5",
-    "Description": "Shared library for the Lua interpreter (v5.1.x)",
-    "Homepage": "https://www.lua.org"
-  },
-  {
-    "Package": "liblua51-static",
-    "Version": "5.1.5-5",
-    "Description": "Static libraries for liblua51",
-    "Homepage": "https://www.lua.org"
-  },
-  {
-    "Package": "liblua52",
-    "Version": "5.2.4-13",
-    "Description": "Shared library for the Lua interpreter (v5.2.x)",
-    "Homepage": "https://www.lua.org"
-  },
-  {
-    "Package": "liblua52-static",
-    "Version": "5.2.4-13",
-    "Description": "Static libraries for liblua52",
-    "Homepage": "https://www.lua.org"
-  },
-  {
-    "Package": "liblua53",
-    "Version": "5.3.6-4",
-    "Description": "Shared library for the Lua interpreter (v5.3.x)",
-    "Homepage": "https://www.lua.org/"
-  },
-  {
-    "Package": "liblua53-static",
-    "Version": "5.3.6-4",
-    "Description": "Static libraries for liblua53",
-    "Homepage": "https://www.lua.org/"
-  },
-  {
-    "Package": "liblua54",
-    "Version": "5.4.8-4",
-    "Description": "Shared library for the Lua interpreter (v5.4.x)",
-    "Homepage": "https://www.lua.org/"
-  },
-  {
-    "Package": "liblua54-static",
-    "Version": "5.4.8-4",
-    "Description": "Static libraries for liblua54",
-    "Homepage": "https://www.lua.org/"
-  },
-  {
-    "Package": "liblua55",
-    "Version": "5.5.0",
-    "Description": "Shared library for the Lua interpreter (v5.5.x)",
-    "Homepage": "https://www.lua.org/"
-  },
-  {
-    "Package": "liblua55-static",
-    "Version": "5.5.0",
-    "Description": "Static libraries for liblua55",
-    "Homepage": "https://www.lua.org/"
-  },
-  {
-    "Package": "libluajit",
-    "Version": "1:2.1.1767980792+g707c12b",
-    "Description": "Just-In-Time Compiler for Lua",
-    "Homepage": "https://luajit.org/"
-  },
-  {
-    "Package": "libluajit-static",
-    "Version": "1:2.1.1767980792+g707c12b",
-    "Description": "Static libraries for libluajit",
-    "Homepage": "https://luajit.org/"
-  },
-  {
     "Package": "liblz4",
     "Version": "1.10.0-1",
     "Description": "Fast LZ compression algorithm library",
@@ -7381,25 +7297,25 @@
   },
   {
     "Package": "libnghttp3",
-    "Version": "1.14.0",
+    "Version": "1.15.0",
     "Description": "HTTP/3 library written in C",
     "Homepage": "https://nghttp2.org/nghttp3/"
   },
   {
     "Package": "libnghttp3-static",
-    "Version": "1.14.0",
+    "Version": "1.15.0",
     "Description": "Static libraries for libnghttp3",
     "Homepage": "https://nghttp2.org/nghttp3/"
   },
   {
     "Package": "libngtcp2",
-    "Version": "1.19.0",
+    "Version": "1.20.0",
     "Description": "Implementation of IETF QUIC protocol",
     "Homepage": "https://github.com/ngtcp2/ngtcp2"
   },
   {
     "Package": "libngtcp2-static",
-    "Version": "1.19.0",
+    "Version": "1.20.0",
     "Description": "Static libraries for libngtcp2",
     "Homepage": "https://github.com/ngtcp2/ngtcp2"
   },
@@ -11209,7 +11125,7 @@
   },
   {
     "Package": "openal-soft",
-    "Version": "1.25.0-1",
+    "Version": "1.25.1",
     "Description": "Software implementation of the OpenAL API",
     "Homepage": "https://openal-soft.org/"
   },
