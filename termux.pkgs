@@ -241,8 +241,8 @@
 | **cloudflared** | 2026.1.1 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
 | **clpeak** | 1.1.5 | A tool which profiles OpenCL devices to find their peak capacities | https://github.com/krrishnarraj/clpeak |
 | **clvk** | 0.0.20260111.104700 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
-| **cmake** | 4.2.1 | Family of tools designed to build, test and package software | https://cmake.org/ |
-| **cmake-curses-gui** | 4.2.1 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
+| **cmake** | 4.2.2 | Family of tools designed to build, test and package software | https://cmake.org/ |
+| **cmake-curses-gui** | 4.2.2 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
 | **cmark** | 0.31.1-1 | CommonMark parsing and rendering program | https://github.com/commonmark/cmark |
 | **cmark-static** | 0.31.1-1 | Static libraries for cmark | https://github.com/commonmark/cmark |
 | **cmatrix** | 2.0-1 | Command producing a Matrix-style animation | https://github.com/abishekvashok/cmatrix |
@@ -338,7 +338,7 @@
 | **dnote** | 1:0.16.0 | A simple command line notebook for programmers | https://www.getdnote.com/ |
 | **dnote-server** | 2.1.1-3 | This package contains the Dnote server. It comprises of the web interface, the web API, and the background jobs. | https://www.getdnote.com/ |
 | **dns2tcp** | 0.5.2-2 | dns2tcp is a tool for relaying TCP connections over DNS | https://github.com/alex-sector/dns2tcp |
-| **dnscontrol** | 4.30.0 | Infrastructure as code for DNS! | https://github.com/StackExchange/dnscontrol |
+| **dnscontrol** | 4.31.0 | Infrastructure as code for DNS! | https://github.com/StackExchange/dnscontrol |
 | **dnslookup** | 1.11.2 | Simple command line utility to make DNS lookups. Supports all known DNS protocols: plain DNS, DoH, DoT, DoQ, DNSCrypt. | https://github.com/ameshkov/dnslookup |
 | **dnsmap** | 0.36-3 | Subdomain Bruteforcing Tool | https://github.com/resurrecting-open-source-projects/dnsmap |
 | **dnstop** | 2022.10.19-1 | A libpcap application that displays various tables of DNS traffic on your network | https://github.com/measurement-factory/dnstop |
@@ -671,9 +671,9 @@
 | **gumbo-parser-static** | 0.10.1-1 | Static libraries for gumbo-parser | https://github.com/google/gumbo-parser |
 | **gzip** | 1.14-1 | Standard GNU file compression utilities | https://www.gnu.org/software/gzip/ |
 | **haproxy** | 3.3.1-1 | The Reliable, High Performance TCP/HTTP Load Balancer | https://www.haproxy.org/ |
-| **harfbuzz** | 12.3.0 | OpenType text shaping engine | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
-| **harfbuzz-icu** | 12.3.0 | OpenType text shaping engine ICU backend | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
-| **harfbuzz-utils** | 12.3.0 | Tools using the harfbuzz library | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
+| **harfbuzz** | 12.3.1 | OpenType text shaping engine | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
+| **harfbuzz-icu** | 12.3.1 | OpenType text shaping engine ICU backend | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
+| **harfbuzz-utils** | 12.3.1 | Tools using the harfbuzz library | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
 | **hash-slinger** | 3.4-1 | Various tools to generate special DNS records | https://github.com/letoams/hash-slinger |
 | **hashdeep** | 4.4-9 | Programs to compute hashsums of arbitrary number of files recursively | https://md5deep.sourceforge.net/ |
 | **hcl** | 2.24.0-1 | A toolkit for creating structured configuration languages | https://github.com/hashicorp/hcl |
@@ -719,7 +719,7 @@
 | **hunspell-static** | 1.7.2-1 | Static libraries for hunspell | https://hunspell.github.io |
 | **hut** | 0.7.0-1 | A CLI tool for sr.ht | https://git.sr.ht/~xenrox/hut |
 | **hwdata** | 0.403 | Database of hardware identification and configuration data | https://github.com/vcrhonek/hwdata |
-| **hydroxide** | 0.2.30-1 | A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge | https://github.com/emersion/hydroxide |
+| **hydroxide** | 0.2.31 | A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge | https://github.com/emersion/hydroxide |
 | **hyperfine** | 1.20.0 | A command-line benchmarking tool | https://github.com/sharkdp/hyperfine |
 | **hz** | 0.10.3 | A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices | https://www.cloudwego.io |
 | **i2pd** | 2.58.0-1 | A full-featured C++ implementation of the I2P router | https://i2pd.website/ |
@@ -1399,7 +1399,7 @@
 | **libtbb** | 2022.3.0 | oneAPI Threading Building Blocks | https://uxlfoundation.github.io/oneTBB/ |
 | **libtd** | 1.8.50-1 | Library for building Telegram clients | https://core.telegram.org/tdlib/ |
 | **libtd-static** | 1.8.50-1 | Static libraries for libtd | https://core.telegram.org/tdlib/ |
-| **libtdb** | 1.4.14 | A trivial database system | https://tdb.samba.org/ |
+| **libtdb** | 1.4.15 | A trivial database system | https://tdb.samba.org/ |
 | **libtermkey** | 0.22-4 | Library for processing of keyboard entry for terminal-based programs | http://www.leonerd.org.uk/code/libtermkey/ |
 | **libtheora** | 1.2.0-1 | An open video codec developed by the Xiph.org | https://www.theora.org/ |
 | **libtheora-static** | 1.2.0-1 | Static libraries for libtheora | https://www.theora.org/ |
@@ -1827,7 +1827,7 @@
 | **nsis-stubs** | 3.11-1 | NSIS Stubs | https://sourceforge.net/projects/nsis/ |
 | **nsnake** | 3.0.1-7 | The classic snake game with textual interface | https://github.com/alexdantas/nSnake |
 | **nss-utils** | 3.120 | Tools for NSS | https://firefox-source-docs.mozilla.org/security/nss/ |
-| **nudoku** | 6.0.0 | ncurses based sudoku game | http://jubalh.github.io/nudoku/ |
+| **nudoku** | 7.0.0 | ncurses based sudoku game | http://jubalh.github.io/nudoku/ |
 | **nushell** | 0.110.0 | A new type of shell operating on structured data | https://www.nushell.sh |
 | **nyancat** | 1.5.2-1 | Nyancat in your terminal, rendered through ANSI escape sequences. | http://nyancat.dakko.us |
 | **nzbget** | 21.1-8 | The most efficient usenet downloader | https://nzbget.net/ |
@@ -1869,7 +1869,7 @@
 | **openjdk-21** | 21.0.9-1 | Java development kit and runtime | https://openjdk.java.net |
 | **openjdk-21-source** | 21.0.9-1 | Source files for openjdk-21 | https://openjdk.java.net |
 | **openjdk-21-x** | 21.0.9-1 | Portion of openjdk-21 requiring X11 functionality | https://openjdk.java.net |
-| **openjdk-25-source** | 25.0.1-1 | Source files for openjdk-25 | https://openjdk.java.net |
+| **openjdk-25-source** | 25.0.2 | Source files for openjdk-25 | https://openjdk.java.net |
 | **openjpeg** | 2.5.4 | JPEG 2000 image compression library | https://www.openjpeg.org/ |
 | **openjpeg-tools** | 2.5.4 | Command-line tools using the JPEG 2000 library | https://www.openjpeg.org/ |
 | **openldap** | 2.6.10-1 | OpenLDAP server | https://openldap.org |
@@ -1895,7 +1895,7 @@
 | **orbiton** | 2.70.5 | Small, fast and limited text editor | https://roboticoverlords.org/orbiton/ |
 | **osmctools** | 0.9-3 | Simple tools for OpenStreetMap processing | https://gitlab.com/osm-c-tools/osmctools |
 | **osmium-tool** | 1.19.0 | A multipurpose command line tool based on the Osmium Library | https://osmcode.org/osmium-tool/ |
-| **osslsigncode** | 2.10-1 | OpenSSL based Authenticode signing for PE/MSI/Java CAB files | https://github.com/mtrojnar/osslsigncode |
+| **osslsigncode** | 2.11 | OpenSSL based Authenticode signing for PE/MSI/Java CAB files | https://github.com/mtrojnar/osslsigncode |
 | **ossp-uuid** | 1.6.2-4 | ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122. | http://www.ossp.org/pkg/lib/uuid/ |
 | **ossp-uuid-static** | 1.6.2-4 | Static libraries for ossp-uuid | http://www.ossp.org/pkg/lib/uuid/ |
 | **ovmf** | 20231122-16.fc40-0 | Open Virtual Machine Firmware | https://www.tianocore.org/ |
@@ -2311,7 +2311,7 @@
 | **squashfs-tools-ng** | 1.3.2-1 | New set of tools for working with SquashFS images | https://github.com/AgentD/squashfs-tools-ng |
 | **squashfs-tools-ng-static** | 1.3.2-1 | Static libraries for squashfs-tools-ng | https://github.com/AgentD/squashfs-tools-ng |
 | **squeezelite** | 2.0.0.1517-2 | A small headless Logitech Squeezebox emulator | https://ralph-irving.github.io/squeezelite.html |
-| **squid** | 7.3 | Full-featured Web proxy cache server | http://www.squid-cache.org |
+| **squid** | 7.4 | Full-featured Web proxy cache server | http://www.squid-cache.org |
 | **sratom** | 0.6.20 | A small library for serialising LV2 atoms to and from RDF | https://drobilla.net/software/sratom.html |
 | **srelay** | 0.4.8p3-8 | A Free SOCKS proxy server | https://sourceforge.net/projects/socks-relay/ |
 | **srt-tools** | 1.5.4-2 | Command-line tools for libsrt | https://github.com/Haivision/srt |
@@ -2383,7 +2383,7 @@
 | **tcl** | 8.6.14-1 | Powerful but easy to learn dynamic programming language | https://www.tcl.tk/ |
 | **tcllib** | 2.0 | Tcl Standard Library | https://core.tcl-lang.org/tcllib/ |
 | **tcsh** | 6.24.16-1 | TENEX C Shell, an enhanced version of Berkeley csh | https://www.tcsh.org |
-| **tdb-tools** | 1.4.14 | Tools for TDB | https://tdb.samba.org/ |
+| **tdb-tools** | 1.4.15 | Tools for TDB | https://tdb.samba.org/ |
 | **tdl** | 0.20.1 | Telegram downloader/tools written in Golang | https://docs.iyear.me/tdl/ |
 | **tea** | 0.11.1 | The official CLI for Gitea | https://gitea.com/gitea/tea |
 | **tealdeer** | 1.8.1 | A very fast implementation of tldr in Rust | https://tealdeer-rs.github.io/tealdeer/ |
@@ -2568,7 +2568,7 @@
 | **viddy** | 1.3.0-2 | A modern watch command | https://github.com/sachaos/viddy |
 | **vifm** | 0.14.3-1 | File manager with vi like keybindings | https://vifm.info/ |
 | **vile** | 9.8z-1 | VI Like Emacs - vi work-alike | https://invisible-island.net/vile/ |
-| **vim** | 9.1.2050-2 | Vi IMproved - enhanced vi editor | https://www.vim.org |
+| **vim** | 9.1.2100 | Vi IMproved - enhanced vi editor | https://www.vim.org |
 | **virglrenderer** | 1.2.0-1 | A virtual 3D GPU for use inside qemu virtual machines | https://virgil3d.github.io/ |
 | **virglrenderer-android** | 1.2.0 | A virtual 3D GPU for use inside qemu virtual machines over OpenGLES libraries on Android | https://virgil3d.github.io/ |
 | **virustotal-cli** | 1.2.0 | Command line interface for VirusTotal | https://github.com/VirusTotal/vt-cli |
@@ -2654,7 +2654,7 @@
 | **xtrans** | 1.6.0 | X transport library | https://xorg.freedesktop.org/ |
 | **xvidcore** | 1.3.7-1 | High performance and high quality MPEG-4 library | https://www.xvid.com/ |
 | **xvidcore-static** | 1.3.7-1 | Static libraries for xvidcore | https://www.xvid.com/ |
-| **xxd** | 9.1.2050-2 | Hexdump utility from vim | https://www.vim.org |
+| **xxd** | 9.1.2100 | Hexdump utility from vim | https://www.vim.org |
 | **xxhash** | 0.8.3-1 | Extremely fast non-cryptographic hash algorithm | https://cyan4973.github.io/xxHash/ |
 | **xxhash-static** | 0.8.3-1 | Static libraries for xxhash | https://cyan4973.github.io/xxHash/ |
 | **xz-utils** | 5.8.2 | XZ-format compression tools | https://tukaani.org/xz/ |

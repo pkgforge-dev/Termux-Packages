@@ -971,11 +971,11 @@
   Description: Experimental implementation of OpenCL on Vulkan
   Homepage: https://github.com/kpet/clvk
 - Package: cmake
-  Version: 4.2.1
+  Version: 4.2.2
   Description: Family of tools designed to build, test and package software
   Homepage: https://cmake.org/
 - Package: cmake-curses-gui
-  Version: 4.2.1
+  Version: 4.2.2
   Description: Curses based user interface for CMake (ccmake)
   Homepage: https://cmake.org/
 - Package: cmark
@@ -1359,7 +1359,7 @@
   Description: dns2tcp is a tool for relaying TCP connections over DNS
   Homepage: https://github.com/alex-sector/dns2tcp
 - Package: dnscontrol
-  Version: 4.30.0
+  Version: 4.31.0
   Description: Infrastructure as code for DNS!
   Homepage: https://github.com/StackExchange/dnscontrol
 - Package: dnslookup
@@ -2691,15 +2691,15 @@
   Description: The Reliable, High Performance TCP/HTTP Load Balancer
   Homepage: https://www.haproxy.org/
 - Package: harfbuzz
-  Version: 12.3.0
+  Version: 12.3.1
   Description: OpenType text shaping engine
   Homepage: https://www.freedesktop.org/wiki/Software/HarfBuzz/
 - Package: harfbuzz-icu
-  Version: 12.3.0
+  Version: 12.3.1
   Description: OpenType text shaping engine ICU backend
   Homepage: https://www.freedesktop.org/wiki/Software/HarfBuzz/
 - Package: harfbuzz-utils
-  Version: 12.3.0
+  Version: 12.3.1
   Description: Tools using the harfbuzz library
   Homepage: https://www.freedesktop.org/wiki/Software/HarfBuzz/
 - Package: hash-slinger
@@ -2883,7 +2883,7 @@
   Description: Database of hardware identification and configuration data
   Homepage: https://github.com/vcrhonek/hwdata
 - Package: hydroxide
-  Version: 0.2.30-1
+  Version: 0.2.31
   Description: A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge
   Homepage: https://github.com/emersion/hydroxide
 - Package: hyperfine
@@ -5603,7 +5603,7 @@
   Description: Static libraries for libtd
   Homepage: https://core.telegram.org/tdlib/
 - Package: libtdb
-  Version: 1.4.14
+  Version: 1.4.15
   Description: A trivial database system
   Homepage: https://tdb.samba.org/
 - Package: libtermkey
@@ -7315,7 +7315,7 @@
   Description: Tools for NSS
   Homepage: https://firefox-source-docs.mozilla.org/security/nss/
 - Package: nudoku
-  Version: 6.0.0
+  Version: 7.0.0
   Description: ncurses based sudoku game
   Homepage: http://jubalh.github.io/nudoku/
 - Package: nushell
@@ -7483,7 +7483,7 @@
   Description: Portion of openjdk-21 requiring X11 functionality
   Homepage: https://openjdk.java.net
 - Package: openjdk-25-source
-  Version: 25.0.1-1
+  Version: 25.0.2
   Description: Source files for openjdk-25
   Homepage: https://openjdk.java.net
 - Package: openjpeg
@@ -7587,7 +7587,7 @@
   Description: A multipurpose command line tool based on the Osmium Library
   Homepage: https://osmcode.org/osmium-tool/
 - Package: osslsigncode
-  Version: 2.10-1
+  Version: "2.11"
   Description: OpenSSL based Authenticode signing for PE/MSI/Java CAB files
   Homepage: https://github.com/mtrojnar/osslsigncode
 - Package: ossp-uuid
@@ -9251,7 +9251,7 @@
   Description: A small headless Logitech Squeezebox emulator
   Homepage: https://ralph-irving.github.io/squeezelite.html
 - Package: squid
-  Version: "7.3"
+  Version: "7.4"
   Description: Full-featured Web proxy cache server
   Homepage: http://www.squid-cache.org
 - Package: sratom
@@ -9539,7 +9539,7 @@
   Description: TENEX C Shell, an enhanced version of Berkeley csh
   Homepage: https://www.tcsh.org
 - Package: tdb-tools
-  Version: 1.4.14
+  Version: 1.4.15
   Description: Tools for TDB
   Homepage: https://tdb.samba.org/
 - Package: tdl
@@ -10279,7 +10279,7 @@
   Description: VI Like Emacs - vi work-alike
   Homepage: https://invisible-island.net/vile/
 - Package: vim
-  Version: 9.1.2050-2
+  Version: 9.1.2100
   Description: Vi IMproved - enhanced vi editor
   Homepage: https://www.vim.org
 - Package: virglrenderer
@@ -10623,7 +10623,7 @@
   Description: Static libraries for xvidcore
   Homepage: https://www.xvid.com/
 - Package: xxd
-  Version: 9.1.2050-2
+  Version: 9.1.2100
   Description: Hexdump utility from vim
   Homepage: https://www.vim.org
 - Package: xxhash
