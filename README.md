@@ -355,7 +355,7 @@
 | **dnslookup** | 1.11.2 | Simple command line utility to make DNS lookups. Supports all known DNS protocols: plain DNS, DoH, DoT, DoQ, DNSCrypt. | https://github.com/ameshkov/dnslookup |
 | **dnsmap** | 0.36-3 | Subdomain Bruteforcing Tool | https://github.com/resurrecting-open-source-projects/dnsmap |
 | **dnstop** | 2022.10.19-1 | A libpcap application that displays various tables of DNS traffic on your network | https://github.com/measurement-factory/dnstop |
-| **dnsutils** | 9.20.17 | Clients provided with BIND | https://www.isc.org/bind/ |
+| **dnsutils** | 9.20.18 | Clients provided with BIND | https://www.isc.org/bind/ |
 | **docbook-xml** | 5.1-1 | A widely used XML scheme for writing documentation and help | https://www.oasis-open.org/docbook/ |
 | **docbook-xsl** | 1.79.2-4 | XML stylesheets for Docbook-xml transformations | https://docbook.org/ |
 | **docopt** | 0.6.3-4 | Command line arguments parser for C++11 and later | http://docopt.org |
@@ -562,7 +562,7 @@
 | **gflags** | 2.3.0 | A C++ library that implements commandline flags processing | https://github.com/gflags/gflags |
 | **gflags-static** | 2.3.0 | Static libraries for gflags | https://github.com/gflags/gflags |
 | **gforth** | 0.7.3-3 | The Forth implementation of the GNU project | https://www.gnu.org/software/gforth/ |
-| **gh** | 2.85.0 | GitHub’s official command line tool | https://cli.github.com/ |
+| **gh** | 2.86.0 | GitHub’s official command line tool | https://cli.github.com/ |
 | **ghc** | 9.12.2-2 | The Glasgow Haskell Compiler | https://www.haskell.org/ghc/ |
 | **ghostscript** | 10.05.1-2 | Interpreter for the PostScript language and for PDF | https://www.ghostscript.com/ |
 | **giflib** | 5.2.2-1 | A library for reading and writing gif images | https://giflib.sourceforge.net/ |
@@ -1622,7 +1622,7 @@
 | **luvi** | 1:2.15.0-2 | A project in-between luv and luvit | https://luvit.io |
 | **luvit** | 2.18.1-1 | Asynchronous I/O for Lua | https://luvit.io |
 | **lux** | 0.24.1-2 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
-| **lux-cli** | 0.24.0 | A package manager for Lua, similar to luarocks | https://nvim-neorocks.github.io/ |
+| **lux-cli** | 0.24.1 | A package manager for Lua, similar to luarocks | https://nvim-neorocks.github.io/ |
 | **lv2** | 1.18.10-6 | A plugin standard for audio systems | https://lv2plug.in/ |
 | **lychee** | 0.22.0 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
 | **lynx** | 2.9.2-1 | The text web browser | http://lynx.browser.org/ |
@@ -2052,7 +2052,7 @@
 | **pypy3** | 7.3.20 | A fast, compliant alternative implementation of Python 3 | https://pypy.org |
 | **pypy3-tests** | 7.3.20 | Test files for PyPy 3 | https://pypy.org |
 | **pypy3-tkinter** | 7.3.20 | Tkinter support for PyPy 3 | https://pypy.org |
-| **pyrefly** | 0.47.0 | A fast type checker and language server for Python | https://github.com/facebook/pyrefly.git |
+| **pyrefly** | 0.49.0 | A fast type checker and language server for Python | https://github.com/facebook/pyrefly.git |
 | **pystring** | 1.1.4-1 | C++ functions matching the interface and behavior of python string methods with std::string | https://github.com/imageworks/pystring |
 | **python** | 3.12.12-1 | Python 3 programming language intended to enable clear programs | https://python.org/ |
 | **python-apsw** | 3.51.2.0 | Another Python SQLite Wrapper | https://rogerbinns.github.io/apsw/ |
@@ -2089,7 +2089,7 @@
 | **python-torch-static** | 2.9.1-1 | Static libraries for python-torch | https://pytorch.org/ |
 | **python-torchaudio** | 2.9.1-1 | Data manipulation and transformation for audio signal processing, powered by PyTorch | https://github.com/pytorch/audio |
 | **python-torchcodec** | 0.9.0-1 | PyTorch media decoding and encoding | https://github.com/pytorch/torchcodec |
-| **python-torchvision** | 0.24.1-2 | Datasets, Transforms and Models specific to Computer Vision | https://github.com/pytorch/vision |
+| **python-torchvision** | 0.25.0 | Datasets, Transforms and Models specific to Computer Vision | https://github.com/pytorch/vision |
 | **python-xcbgen** | 1.17.0-1 | The xcbgen Python module | https://xcb.freedesktop.org/ |
 | **python-xlib** | 0.33-2 | The Python X Library | https://github.com/python-xlib/python-xlib |
 | **python-yt-dlp** | 2025.12.08-2 | A youtube-dl fork with additional features and fixes | https://github.com/yt-dlp/yt-dlp |
@@ -2406,7 +2406,7 @@
 | **teckit-static** | 2.5.13 | Static libraries for teckit | https://scripts.sil.org/teckitdownloads |
 | **tectonic** | 0.15.0-5 | A modernized, complete, self-contained TeX/LaTeX engine | https://tectonic-typesetting.github.io/ |
 | **telegram-bot-api** | 20241031-2 | Telegram Bot API server | https://github.com/tdlib/telegram-bot-api |
-| **teleport-tsh** | 18.6.1 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
+| **teleport-tsh** | 18.6.4 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
 | **tenki-php** | 2022.05.26 | A simple PHP application for logging current weather conditions, notes, and waypoints | https://github.com/dmpop/tenki |
 | **tere** | 1.6.0-1 | Terminal file explorer written in rust | https://github.com/mgunyho/tere |
 | **tergent** | 1.0.0-5 | A cryptoki/PKCS#11 library for Termux that uses Android Keystore as its backend | https://github.com/aeolwyr/tergent |
@@ -2611,7 +2611,7 @@
 | **w3m** | 0.5.5 | Text based Web browser and pager | https://w3m.sourceforge.net/ |
 | **w3m-img** | 0.5.5 | Inline image extension support utilities for w3m | https://w3m.sourceforge.net/ |
 | **wabt** | 1.0.39 | The WebAssembly Binary Toolkit | https://github.com/WebAssembly/wabt |
-| **wakatime-cli** | 1.137.1 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
+| **wakatime-cli** | 1.139.1 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
 | **walk** | 1.13.0 | A terminal file manager | https://github.com/antonmedv/walk |
 | **wasi-libc** | 29 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |
 | **wasm-component-ld** | 0.5.20 | Command line linker for creating WebAssembly components | https://github.com/bytecodealliance/wasm-component-ld |

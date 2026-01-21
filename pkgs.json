@@ -2071,7 +2071,7 @@
   },
   {
     "Package": "dnsutils",
-    "Version": "9.20.17",
+    "Version": "9.20.18",
     "Description": "Clients provided with BIND",
     "Homepage": "https://www.isc.org/bind/"
   },
@@ -3313,7 +3313,7 @@
   },
   {
     "Package": "gh",
-    "Version": "2.85.0",
+    "Version": "2.86.0",
     "Description": "GitHub’s official command line tool",
     "Homepage": "https://cli.github.com/"
   },
@@ -9673,7 +9673,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.24.0",
+    "Version": "0.24.1",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://nvim-neorocks.github.io/"
   },
@@ -12253,7 +12253,7 @@
   },
   {
     "Package": "pyrefly",
-    "Version": "0.47.0",
+    "Version": "0.49.0",
     "Description": "A fast type checker and language server for Python",
     "Homepage": "https://github.com/facebook/pyrefly.git"
   },
@@ -12475,7 +12475,7 @@
   },
   {
     "Package": "python-torchvision",
-    "Version": "0.24.1-2",
+    "Version": "0.25.0",
     "Description": "Datasets, Transforms and Models specific to Computer Vision",
     "Homepage": "https://github.com/pytorch/vision"
   },
@@ -14377,7 +14377,7 @@
   },
   {
     "Package": "teleport-tsh",
-    "Version": "18.6.1",
+    "Version": "18.6.4",
     "Description": "Secure Access for Developers that doesnt get in the way",
     "Homepage": "https://github.com/gravitational/teleport"
   },
@@ -15607,7 +15607,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "1.137.1",
+    "Version": "1.139.1",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },
