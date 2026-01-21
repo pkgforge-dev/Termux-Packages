@@ -108,6 +108,7 @@
 | **avra** | 1.4.2-1 | Assember for the Atmel AVR microcontroller family | https://github.com/Ro5bert/avra |
 | **await** | 2.4.0 | Runs list of commands in parallel and waits for their termination | https://github.com/slavaGanzin/await |
 | **awesomeshot** | 1.1.0-1 | A command-line screenshot tool written in bash | https://github.com/mayTermux/awesomeshot |
+| **awscli** | 2.32.28 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
 | **axel** | 2.17.14-1 | light command line download accelerator | https://github.com/axel-download-accelerator/axel |
 | **b3sum** | 1.8.3 | A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum | https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum |
 | **babl** | 0.1.120 | Dynamic pixel format translation library | https://gegl.org/babl/ |
@@ -1892,6 +1893,7 @@
 | **opus-tools** | 0.2-4 | Utilities to encode and decode .opus files | https://www.opus-codec.org/ |
 | **opusfile** | 0.12-4 | A high-level API for decoding and seeking within .opus files | https://www.opus-codec.org/ |
 | **opusfile-static** | 0.12-4 | Static libraries for opusfile | https://www.opus-codec.org/ |
+| **opustags** | 1.10.1 | Ogg Opus tags editor | https://github.com/fmang/opustags |
 | **orbiton** | 2.70.5 | Small, fast and limited text editor | https://roboticoverlords.org/orbiton/ |
 | **osmctools** | 0.9-3 | Simple tools for OpenStreetMap processing | https://gitlab.com/osm-c-tools/osmctools |
 | **osmium-tool** | 1.19.0 | A multipurpose command line tool based on the Osmium Library | https://osmcode.org/osmium-tool/ |
@@ -2334,6 +2336,7 @@
 | **step-cli** | 0.29.0 | An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows | https://smallstep.com/cli |
 | **stfl** | 0.24-7 | Structured Terminal Forms Language/Library | http://www.clifford.at/stfl |
 | **stfl-static** | 0.24-7 | Static libraries for stfl | http://www.clifford.at/stfl |
+| **stockfish** | 17.1 | Free and strong UCI chess engine | https://stockfishchess.org/ |
 | **stoken** | 0.93-3 | Software Token for Linux/UNIX | https://github.com/cernekee/stoken |
 | **stoken-static** | 0.93-3 | Static libraries for stoken | https://github.com/cernekee/stoken |
 | **stone** | 2.4-3 | A TCP/IP repeater in the application layer | https://www.gcd.org/sengoku/stone/ |

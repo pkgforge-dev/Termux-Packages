@@ -438,6 +438,10 @@
   Version: 1.1.0-1
   Description: A command-line screenshot tool written in bash
   Homepage: https://github.com/mayTermux/awesomeshot
+- Package: awscli
+  Version: 2.32.28
+  Description: Universal Command Line Interface for Amazon Web Services
+  Homepage: https://aws.amazon.com/cli
 - Package: axel
   Version: 2.17.14-1
   Description: light command line download accelerator
@@ -7574,6 +7578,10 @@
   Version: 0.12-4
   Description: Static libraries for opusfile
   Homepage: https://www.opus-codec.org/
+- Package: opustags
+  Version: 1.10.1
+  Description: Ogg Opus tags editor
+  Homepage: https://github.com/fmang/opustags
 - Package: orbiton
   Version: 2.70.5
   Description: Small, fast and limited text editor
@@ -9342,6 +9350,10 @@
   Version: 0.24-7
   Description: Static libraries for stfl
   Homepage: http://www.clifford.at/stfl
+- Package: stockfish
+  Version: "17.1"
+  Description: Free and strong UCI chess engine
+  Homepage: https://stockfishchess.org/
 - Package: stoken
   Version: 0.93-3
   Description: Software Token for Linux/UNIX
