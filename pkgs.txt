@@ -445,7 +445,7 @@
  fakeroot  1.37.2  Tool for simulating superuser privileges (with tcp ipc)  https://packages.qa.debian.org/f/fakeroot.html 
  fakeroot-static  1.37.2  Static libraries for fakeroot  https://packages.qa.debian.org/f/fakeroot.html 
  fasd  2.0.0  To fastly access files and folders  https://github.com/whjvenyl/fasd 
- fastfetch  2.57.1-1  A maintained, feature-rich and performance oriented, neofetch like system information tool  https://github.com/fastfetch-cli/fastfetch 
+ fastfetch  2.58.0  A maintained, feature-rich and performance oriented, neofetch like system information tool  https://github.com/fastfetch-cli/fastfetch 
  fastmod  0.4.4-1  Regex-based code refactoring utility  https://github.com/facebookincubator/fastmod 
  fatsort  1.6.5.640-1  A C utility that sorts FAT12, FAT16, FAT32 and exFAT partitions  https://fatsort.sourceforge.io/ 
  faust  2.83.1  A functional programming language for signal processing and sound synthesis  https://github.com/grame-cncm/faust 
@@ -573,7 +573,7 @@
  gitoxide  0.49.0  Rust implementation of Git  https://github.com/Byron/gitoxide 
  gitui  0.28.0  Blazing fast terminal-ui for git written in rust  https://github.com/gitui-org/gitui 
  gkermit  2.01-1  Simple, Portable, Free File Transfer Software for UNIX  http://www.columbia.edu/kermit/gkermit.html 
- glab-cli  1.80.4  A GitLab CLI tool bringing GitLab to your command line  https://gitlab.com/gitlab-org/cli 
+ glab-cli  1.81.0  A GitLab CLI tool bringing GitLab to your command line  https://gitlab.com/gitlab-org/cli 
  gleam  1.14.0  A friendly language for building type-safe, scalable systems!  https://gleam.run 
  glib  2.86.3-1  Library providing core building blocks for libraries and applications written in C  https://developer.gnome.org/glib/ 
  glib-cross  2.86.3-1  glib for host (NOT for Termux)  https://developer.gnome.org/glib/ 
@@ -790,7 +790,7 @@
  jq  1.8.1-1  Command-line JSON processor  https://stedolan.github.io/jq/ 
  jq-lsp  0.1.16  jq language server  https://github.com/wader/jq-lsp 
  jq-static  1.8.1-1  Static libraries for jq  https://stedolan.github.io/jq/ 
- jql  8.0.9  A JSON Query Language CLI tool  https://github.com/yamafaktory/jql 
+ jql  8.0.10  A JSON Query Language CLI tool  https://github.com/yamafaktory/jql 
  json-c  0.18-2  A JSON implementation in C  https://github.com/json-c/json-c/wiki 
  json-c-static  0.18-2  Static libraries for json-c  https://github.com/json-c/json-c/wiki 
  json-glib  1.10.8  GLib JSON manipulation library  https://wiki.gnome.org/Projects/JsonGlib 
