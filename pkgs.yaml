@@ -1059,7 +1059,7 @@
   Description: An extractor/converter for .LIT eBooks
   Homepage: http://www.convertlit.com/
 - Package: cookcli
-  Version: 0.20.0
+  Version: 0.21.0
   Description: A suite of tools to create shopping lists and maintain food recipes
   Homepage: https://cooklang.org
 - Package: coreutils
@@ -1363,7 +1363,7 @@
   Description: dns2tcp is a tool for relaying TCP connections over DNS
   Homepage: https://github.com/alex-sector/dns2tcp
 - Package: dnscontrol
-  Version: 4.31.0
+  Version: 4.31.1
   Description: Infrastructure as code for DNS!
   Homepage: https://github.com/StackExchange/dnscontrol
 - Package: dnslookup
@@ -2735,7 +2735,7 @@
   Description: Prints a friendly greeting
   Homepage: https://www.gnu.org/software/hello/
 - Package: helm
-  Version: 4.0.5
+  Version: 4.1.0
   Description: Helm helps you manage Kubernetes applications
   Homepage: https://helm.sh
 - Package: helm-ls
@@ -4683,7 +4683,7 @@
   Description: Mini zip and unzip based on zlib
   Homepage: https://www.winimage.com/zLibDll/minizip.html
 - Package: libminizip-ng
-  Version: 4.0.10-1
+  Version: 4.1.0
   Description: A zip manipulation library written in C
   Homepage: https://github.com/zlib-ng/minizip-ng
 - Package: libminizip-static
