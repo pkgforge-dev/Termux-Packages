@@ -777,7 +777,7 @@
  jcal-static  0.5.1-1  Static libraries for jcal  http://nongnu.org/jcal 
  jellyfin-ffmpeg  10.11.5  FFmpeg for Jellyfin with custom extensions and enhancements  https://jellyfin.org 
  jellyfin-server  10.11.5  A free media system for organizing and streaming media (server)  https://jellyfin.org 
- jfrog-cli  2.88.0  A CLI for JFrog products  https://jfrog.com/getcli 
+ jfrog-cli  2.89.0  A CLI for JFrog products  https://jfrog.com/getcli 
  jftui  0.7.5  jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server.  https://github.com/Aanok/jftui 
  jhead  3.08-1  Exif Jpeg header manipulation tool  http://www.sentex.net/~mwandel/jhead/ 
  jigdo  0.8.2-1  Distribute large images by sending and receiving the files that make them up  http://atterer.org/jigdo/ 
@@ -1240,7 +1240,7 @@
  libolm  3.2.16-2  An implementation of the Double Ratchet cryptographic ratchet  https://matrix.org/docs/projects/other/olm/ 
  libopenblas  0.3.31  An optimized BLAS library based on GotoBLAS2 1.13 BSD  https://www.openblas.net 
  libopenblas-static  0.3.31  Static libraries for libopenblas  https://www.openblas.net 
- libopencc  1.1.9-1  An opensource project for conversions between Traditional Chinese, Simplified Chinese and Japanese Kanji (Shinjitai)  https://github.com/BYVoid/OpenCC 
+ libopencc  1.2.0  An opensource project for conversions between Traditional Chinese, Simplified Chinese and Japanese Kanji (Shinjitai)  https://github.com/BYVoid/OpenCC 
  libopencore-amr  0.1.6-1  Open source implementation of the Adaptive Multi Rate (AMR) speech codec  https://sourceforge.net/projects/opencore-amr/ 
  libopencore-amr-static  0.1.6-1  Static libraries for libopencore-amr  https://sourceforge.net/projects/opencore-amr/ 
  libopenfec  1.4.2.12-1  Application-Level Forward Erasure Correction implementation library  http://openfec.org 
@@ -1855,7 +1855,7 @@
  open-adventure  1.20-1  Forward-port of the original Colossal Cave Adventure from 1976-77  http://www.catb.org/~esr/open-adventure/ 
  openal-soft  1.25.1  Software implementation of the OpenAL API  https://openal-soft.org/ 
  openbabel  3.1.1-14  Open Babel is a chemical toolbox designed to speak the many languages of chemical data  http://openbabel.org/wiki/Main_Page 
- opencc-tools  1.1.9-1  Command-line tools for OpenCC  https://github.com/BYVoid/OpenCC 
+ opencc-tools  1.2.0  Command-line tools for OpenCC  https://github.com/BYVoid/OpenCC 
  opencl-clhpp  2025.07.22  Khronos OpenCL C++ Headers  https://github.com/KhronosGroup/OpenCL-CLHPP 
  opencl-headers  2025.07.22  Khronos OpenCL-Headers  https://github.com/KhronosGroup/OpenCL-Headers 
  opencl-vendor-driver  0.3  OpenCL driver from system vendor  https://termux.dev 
@@ -2692,7 +2692,7 @@
  zlib-static  1.3.1-1  Static libraries for zlib  https://www.zlib.net/ 
  zls  0.15.1  Zig language server  https://github.com/zigtools/zls 
  znc  1.10.1-2  An advanced IRC bouncer  https://znc.in/ 
- zola  0.22.0  A fast static site generator in a single binary with everything built-in.  https://github.com/getzola/zola 
+ zola  0.22.1  A fast static site generator in a single binary with everything built-in.  https://github.com/getzola/zola 
  zopfli  1.0.3-5  New zlib compatible compressor tools  https://github.com/google/zopfli 
  zoxide  0.9.8-2  A faster way to navigate your filesystem  https://github.com/ajeetdsouza/zoxide 
  zpaq  7.15-1  Programmable file compressor, library and utilities. Based on the PAQ compression algorithm  http://mattmahoney.net/dc/zpaq.html 
