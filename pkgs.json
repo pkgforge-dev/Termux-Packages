@@ -661,7 +661,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.33.3",
+    "Version": "2.33.4",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -3691,13 +3691,13 @@
   },
   {
     "Package": "golang",
-    "Version": "3:1.25.4",
+    "Version": "3:1.25.4-1",
     "Description": "Go programming language compiler",
     "Homepage": "https://go.dev/"
   },
   {
     "Package": "golang-doc",
-    "Version": "3:1.25.4",
+    "Version": "3:1.25.4-1",
     "Description": "Go programming language - documentation",
     "Homepage": "https://go.dev/"
   },
@@ -9673,7 +9673,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.24.1",
+    "Version": "0.24.2",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://nvim-neorocks.github.io/"
   },
@@ -14011,7 +14011,7 @@
   },
   {
     "Package": "step-cli",
-    "Version": "0.29.0",
+    "Version": "0.29.0-1",
     "Description": "An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows",
     "Homepage": "https://smallstep.com/cli"
   },

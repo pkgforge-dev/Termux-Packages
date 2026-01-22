@@ -108,7 +108,7 @@
 | **avra** | 1.4.2-1 | Assember for the Atmel AVR microcontroller family | https://github.com/Ro5bert/avra |
 | **await** | 2.4.0 | Runs list of commands in parallel and waits for their termination | https://github.com/slavaGanzin/await |
 | **awesomeshot** | 1.1.0-1 | A command-line screenshot tool written in bash | https://github.com/mayTermux/awesomeshot |
-| **awscli** | 2.33.3 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
+| **awscli** | 2.33.4 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
 | **axel** | 2.17.14-1 | light command line download accelerator | https://github.com/axel-download-accelerator/axel |
 | **b3sum** | 1.8.3 | A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum | https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum |
 | **babl** | 0.1.120 | Dynamic pixel format translation library | https://gegl.org/babl/ |
@@ -613,8 +613,8 @@
 | **gobject-introspection** | 1.86.0 | Uniform machine readable API | https://gi.readthedocs.io/ |
 | **gogs** | 0.13.3-1 | A painless self-hosted Git service | https://gogs.io |
 | **gojq** | 0.12.18 | Pure Go implementation of jq | https://github.com/itchyny/gojq |
-| **golang** | 3:1.25.4 | Go programming language compiler | https://go.dev/ |
-| **golang-doc** | 3:1.25.4 | Go programming language - documentation | https://go.dev/ |
+| **golang** | 3:1.25.4-1 | Go programming language compiler | https://go.dev/ |
+| **golang-doc** | 3:1.25.4-1 | Go programming language - documentation | https://go.dev/ |
 | **gomp** | 2023.02.02-3 | MPD client inspired by ncmpcpp with builtin cover-art view and LastFM integration | https://aditya-k2.github.io/gomp/ |
 | **google-glog** | 0.7.1-2 | Logging library for C++ | https://github.com/google/glog |
 | **googletest** | 1.17.0-1 | Google C++ testing framework | https://github.com/google/googletest |
@@ -1610,7 +1610,7 @@
 | **luvi** | 1:2.15.0-2 | A project in-between luv and luvit | https://luvit.io |
 | **luvit** | 2.18.1-1 | Asynchronous I/O for Lua | https://luvit.io |
 | **lux** | 0.24.1-2 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
-| **lux-cli** | 0.24.1 | A package manager for Lua, similar to luarocks | https://nvim-neorocks.github.io/ |
+| **lux-cli** | 0.24.2 | A package manager for Lua, similar to luarocks | https://nvim-neorocks.github.io/ |
 | **lv2** | 1.18.10-6 | A plugin standard for audio systems | https://lv2plug.in/ |
 | **lychee** | 0.22.0 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
 | **lynx** | 2.9.2-1 | The text web browser | http://lynx.browser.org/ |
@@ -2333,7 +2333,7 @@
 | **stdoutisatty** | 1.0-1 | Patch the isatty() calls for colored output in pipeline | https://github.com/lilydjwg/stdoutisatty |
 | **steghide** | 0.5.1-8 | Embeds a message in a file by replacing some of the least significant bits | https://steghide.sourceforge.net/ |
 | **stemwords** | 3.0.1 | A command-line tool which uses libstemmer | https://snowballstem.org/ |
-| **step-cli** | 0.29.0 | An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows | https://smallstep.com/cli |
+| **step-cli** | 0.29.0-1 | An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows | https://smallstep.com/cli |
 | **stfl** | 0.24-7 | Structured Terminal Forms Language/Library | http://www.clifford.at/stfl |
 | **stfl-static** | 0.24-7 | Static libraries for stfl | http://www.clifford.at/stfl |
 | **stockfish** | 17.1 | Free and strong UCI chess engine | https://stockfishchess.org/ |
