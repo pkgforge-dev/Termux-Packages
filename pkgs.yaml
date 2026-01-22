@@ -775,7 +775,7 @@
   Description: Static libraries for capstone
   Homepage: https://www.capstone-engine.org/
 - Package: carapace
-  Version: 1.5.7
+  Version: 1.6.0
   Description: Multi-shell multi-command argument completer
   Homepage: https://carapace.sh/
 - Package: cargo-c
@@ -1047,7 +1047,7 @@
   Description: Suggest installation of packages in interactive shell sessions
   Homepage: https://github.com/termux/command-not-found
 - Package: composer
-  Version: 2.9.3
+  Version: 2.9.4
   Description: Dependency Manager for PHP
   Homepage: https://getcomposer.org/
 - Package: console-bridge
@@ -8895,7 +8895,7 @@
   Description: An improved version of sc, a spreadsheet calculator
   Homepage: https://github.com/andmarti1424/sc-im
 - Package: scala
-  Version: 3.7.4
+  Version: 3.8.1
   Description: Scala 3 compiler and standard library.
   Homepage: https://www.scala-lang.org
 - Package: scc
@@ -10683,7 +10683,7 @@
   Description: Static libraries for yasm
   Homepage: https://yasm.tortall.net/
 - Package: yazi
-  Version: 26.1.4-1
+  Version: 26.1.22
   Description: Blazing fast terminal file manager written in Rust, based on async I/O
   Homepage: https://yazi-rs.github.io/
 - Package: yosys

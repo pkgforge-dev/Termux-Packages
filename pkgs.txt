@@ -192,7 +192,7 @@
  capnproto  1.3.0  Data interchange format and capability-based RPC system  https://capnproto.org/ 
  capstone  5.0.6-1  Lightweight multi-platform, multi-architecture disassembly framework  https://www.capstone-engine.org/ 
  capstone-static  5.0.6-1  Static libraries for capstone  https://www.capstone-engine.org/ 
- carapace  1.5.7  Multi-shell multi-command argument completer  https://carapace.sh/ 
+ carapace  1.6.0  Multi-shell multi-command argument completer  https://carapace.sh/ 
  cargo-c  0.10.19  Cargo C-ABI helpers  https://github.com/lu-zero/cargo-c 
  cargo-leptos  0.3.2  Build tool for the Rust framework Leptos  https://github.com/leptos-rs/cargo-leptos 
  catdoc  0.95-2  Program which reads MS-Word file and prints readable ASCII text to stdout  http://www.wagner.pp.ru/~vitus/software/catdoc/ 
@@ -260,7 +260,7 @@
  colm-static  0.14.7-2  Static libraries for colm  https://www.colm.net/open-source/colm/ 
  colordiff  1.0.21  Tool to colorize 'diff' output  https://www.colordiff.org/ 
  command-not-found  3.2-13  Suggest installation of packages in interactive shell sessions  https://github.com/termux/command-not-found 
- composer  2.9.3  Dependency Manager for PHP  https://getcomposer.org/ 
+ composer  2.9.4  Dependency Manager for PHP  https://getcomposer.org/ 
  console-bridge  1.0.2-1  A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages  https://github.com/ros/console_bridge 
  convertlit  1.8-2  An extractor/converter for .LIT eBooks  http://www.convertlit.com/ 
  cookcli  0.21.0  A suite of tools to create shopping lists and maintain food recipes  https://cooklang.org 
@@ -2222,7 +2222,7 @@
  samurai  1.2-2  ninja-compatible build tool written in C  https://github.com/michaelforney/samurai 
  sassc  3.6.2-1  libsass command line driver  https://github.com/sass/sassc 
  sc-im  0.8.5-4  An improved version of sc, a spreadsheet calculator  https://github.com/andmarti1424/sc-im 
- scala  3.7.4  Scala 3 compiler and standard library.  https://www.scala-lang.org 
+ scala  3.8.1  Scala 3 compiler and standard library.  https://www.scala-lang.org 
  scc  3.6.0  Counts physical the lines of code, blank lines, comment lines, and physical lines of source code  https://github.com/boyter/scc 
  sccache  0.13.0  sccache is ccache with cloud storage  https://github.com/mozilla/sccache 
  scdaemon  2.5.16  Daemon invoked by gpg to manage smartcards  https://www.gnupg.org/ 
@@ -2669,7 +2669,7 @@
  yarn  1.22.22  Fast, reliable, and secure dependency management  https://classic.yarnpkg.com/lang/en/ 
  yasm  1.3.0-7  Assembler supporting the x86 and AMD64 instruction sets  https://yasm.tortall.net/ 
  yasm-static  1.3.0-7  Static libraries for yasm  https://yasm.tortall.net/ 
- yazi  26.1.4-1  Blazing fast terminal file manager written in Rust, based on async I/O  https://yazi-rs.github.io/ 
+ yazi  26.1.22  Blazing fast terminal file manager written in Rust, based on async I/O  https://yazi-rs.github.io/ 
  yosys  0.61-1  A framework for RTL synthesis tools  https://yosyshq.net/yosys/ 
  youtubedr  2.10.5  Download youtube video in Golang  https://github.com/kkdai/youtube 
  yq  4.50.1  A lightweight and portable command-line YAML, JSON and XML processor  https://mikefarah.gitbook.io/yq/ 
