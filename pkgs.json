@@ -4087,7 +4087,7 @@
   },
   {
     "Package": "hcloud",
-    "Version": "1.60.0",
+    "Version": "1.61.0",
     "Description": "Hetzner Cloud command line client",
     "Homepage": "https://github.com/hetznercloud/cli"
   },
@@ -12325,7 +12325,7 @@
   },
   {
     "Package": "python-greenlet",
-    "Version": "3.3.0-1",
+    "Version": "3.3.1",
     "Description": "Lightweight coroutines for in-process concurrent programming",
     "Homepage": "https://github.com/python-greenlet/greenlet"
   },
@@ -12415,7 +12415,7 @@
   },
   {
     "Package": "python-ruff",
-    "Version": "0.14.11",
+    "Version": "0.14.14",
     "Description": "An extremely fast Python linter, written in Rust (Python bindings)",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -13177,7 +13177,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.14.11",
+    "Version": "0.14.14",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -13507,7 +13507,7 @@
   },
   {
     "Package": "shaderc",
-    "Version": "2025.5",
+    "Version": "2026.1",
     "Description": "Collection of tools, libraries, and tests for Vulkan shader compilation",
     "Homepage": "https://github.com/google/shaderc"
   },
@@ -15541,7 +15541,7 @@
   },
   {
     "Package": "vulkan-headers",
-    "Version": "1.4.340",
+    "Version": "1.4.341",
     "Description": "Vulkan Header files and API registry",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Headers"
   },
@@ -15565,19 +15565,19 @@
   },
   {
     "Package": "vulkan-loader-generic",
-    "Version": "1.4.340",
+    "Version": "1.4.341",
     "Description": "Vulkan Loader",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Loader"
   },
   {
     "Package": "vulkan-tools",
-    "Version": "1.4.340",
+    "Version": "1.4.341",
     "Description": "Vulkan Tools and Utilities",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Tools"
   },
   {
     "Package": "vulkan-utility-libraries",
-    "Version": "1.4.340",
+    "Version": "1.4.341",
     "Description": "Utility Libraries for Vulkan",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Utility-Libraries"
   },

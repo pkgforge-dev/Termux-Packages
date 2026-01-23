@@ -2723,7 +2723,7 @@
   Description: A toolkit for creating structured configuration languages
   Homepage: https://github.com/hashicorp/hcl
 - Package: hcloud
-  Version: 1.60.0
+  Version: 1.61.0
   Description: Hetzner Cloud command line client
   Homepage: https://github.com/hetznercloud/cli
 - Package: helix
@@ -8215,7 +8215,7 @@
   Description: Wheels for Python ensurepip
   Homepage: https://python.org/
 - Package: python-greenlet
-  Version: 3.3.0-1
+  Version: 3.3.1
   Description: Lightweight coroutines for in-process concurrent programming
   Homepage: https://github.com/python-greenlet/greenlet
 - Package: python-grpcio
@@ -8275,7 +8275,7 @@
   Description: Python client for Neovim
   Homepage: https://github.com/neovim/pynvim
 - Package: python-ruff
-  Version: 0.14.11
+  Version: 0.14.14
   Description: An extremely fast Python linter, written in Rust (Python bindings)
   Homepage: https://github.com/charliermarsh/ruff
 - Package: python-sabyenc3
@@ -8783,7 +8783,7 @@
   Description: Ruby documentation index
   Homepage: https://www.ruby-lang.org/
 - Package: ruff
-  Version: 0.14.11
+  Version: 0.14.14
   Description: An extremely fast Python linter, written in Rust
   Homepage: https://github.com/charliermarsh/ruff
 - Package: runit
@@ -9003,7 +9003,7 @@
   Description: Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server
   Homepage: https://sftpgo.com/
 - Package: shaderc
-  Version: "2025.5"
+  Version: "2026.1"
   Description: Collection of tools, libraries, and tests for Vulkan shader compilation
   Homepage: https://github.com/google/shaderc
 - Package: sharutils
@@ -10359,7 +10359,7 @@
   Description: Vulkan Extension Layer
   Homepage: https://github.com/KhronosGroup/Vulkan-ExtensionLayer
 - Package: vulkan-headers
-  Version: 1.4.340
+  Version: 1.4.341
   Description: Vulkan Header files and API registry
   Homepage: https://github.com/KhronosGroup/Vulkan-Headers
 - Package: vulkan-icd
@@ -10375,15 +10375,15 @@
   Description: Vulkan Loader for Android
   Homepage: https://source.android.com/devices/graphics/arch-vulkan
 - Package: vulkan-loader-generic
-  Version: 1.4.340
+  Version: 1.4.341
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
-  Version: 1.4.340
+  Version: 1.4.341
   Description: Vulkan Tools and Utilities
   Homepage: https://github.com/KhronosGroup/Vulkan-Tools
 - Package: vulkan-utility-libraries
-  Version: 1.4.340
+  Version: 1.4.341
   Description: Utility Libraries for Vulkan
   Homepage: https://github.com/KhronosGroup/Vulkan-Utility-Libraries
 - Package: vulkan-validation-layers

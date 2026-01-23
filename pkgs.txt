@@ -679,7 +679,7 @@
  hash-slinger  3.4-1  Various tools to generate special DNS records  https://github.com/letoams/hash-slinger 
  hashdeep  4.4-9  Programs to compute hashsums of arbitrary number of files recursively  https://md5deep.sourceforge.net/ 
  hcl  2.24.0-1  A toolkit for creating structured configuration languages  https://github.com/hashicorp/hcl 
- hcloud  1.60.0  Hetzner Cloud command line client  https://github.com/hetznercloud/cli 
+ hcloud  1.61.0  Hetzner Cloud command line client  https://github.com/hetznercloud/cli 
  helix  25.07.1-1  A post-modern modal text editor written in rust  https://helix-editor.com/ 
  helix-grammars  25.07.1-1  Helix grammars  https://helix-editor.com/ 
  hello  2.12.2  Prints a friendly greeting  https://www.gnu.org/software/hello/ 
@@ -2052,7 +2052,7 @@
  python-contourpy  1.3.3-2  Python library for calculating contours in 2D quadrilateral grids  https://contourpy.readthedocs.io/ 
  python-cryptography  46.0.3-1  Provides cryptographic recipes and primitives to Python developers  https://github.com/pyca/cryptography 
  python-ensurepip-wheels  3.12.12-1  Wheels for Python ensurepip  https://python.org/ 
- python-greenlet  3.3.0-1  Lightweight coroutines for in-process concurrent programming  https://github.com/python-greenlet/greenlet 
+ python-greenlet  3.3.1  Lightweight coroutines for in-process concurrent programming  https://github.com/python-greenlet/greenlet 
  python-grpcio  1.76.0-3  High performance, open source, general RPC framework that puts mobile and HTTP/2 first  https://grpc.io/ 
  python-lameenc  1.8.1-1  Python bindings around the LAME encoder  https://github.com/chrisstaite/lameenc 
  python-libsass  0.23.0-1  A straightforward binding of libsass for Python  https://github.com/sass/libsass-python 
@@ -2067,7 +2067,7 @@
  python-pyarrow  23.0.0  Python bindings for Apache Arrow  https://github.com/apache/arrow 
  python-pycryptodomex  3.23.0-2  A self-contained Python package of low-level cryptographic primitives  https://www.pycryptodome.org/ 
  python-pynvim  0.6.0-1  Python client for Neovim  https://github.com/neovim/pynvim 
- python-ruff  0.14.11  An extremely fast Python linter, written in Rust (Python bindings)  https://github.com/charliermarsh/ruff 
+ python-ruff  0.14.14  An extremely fast Python linter, written in Rust (Python bindings)  https://github.com/charliermarsh/ruff 
  python-sabyenc3  9.3.1  C implementations of functions for use within SABnzbd  https://github.com/sabnzbd/sabctools 
  python-skia-pathops  0.9.1  Python bindings for the Skia library's Path Ops  https://github.com/fonttools/skia-pathops 
  python-static  3.12.12-1  Static libraries for python  https://python.org/ 
@@ -2194,7 +2194,7 @@
  rubiks-cube  1.2-1  A rubik's cube that runs in your terminal  https://github.com/been-jamming/rubiks_cube 
  ruby  3.4.1-2  Dynamic programming language with a focus on simplicity and productivity  https://www.ruby-lang.org/ 
  ruby-ri  3.4.1-2  Ruby documentation index  https://www.ruby-lang.org/ 
- ruff  0.14.11  An extremely fast Python linter, written in Rust  https://github.com/charliermarsh/ruff 
+ ruff  0.14.14  An extremely fast Python linter, written in Rust  https://github.com/charliermarsh/ruff 
  runit  2.1.2-4  Tools to provide service supervision and to manage services  http://smarden.org/runit 
  runit-static  2.1.2-4  Static libraries for runit  http://smarden.org/runit 
  rush  0.8.0  A cross-platform command-line tool for executing jobs in parallel  https://github.com/shenwei356/rush 
@@ -2249,7 +2249,7 @@
  serf-static  1.3.10-2  Static libraries for serf  https://serf.apache.org/ 
  sfeed  2.3  Shell-script/crontab oriented feed aggregator and parser utility (curses-based reader included)  https://codemadness.org/sfeed-simple-feed-parser.html 
  sftpgo  2.7.0  Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server  https://sftpgo.com/ 
- shaderc  2025.5  Collection of tools, libraries, and tests for Vulkan shader compilation  https://github.com/google/shaderc 
+ shaderc  2026.1  Collection of tools, libraries, and tests for Vulkan shader compilation  https://github.com/google/shaderc 
  sharutils  4.15.2-4  Utilities for packaging and unpackaging shell archives  https://www.gnu.org/software/sharutils/ 
  shc  4.0.3-4  Shell script compiler  https://neurobin.org/projects/softwares/unix/shc/ 
  sheldon  0.8.5-1  Fast, configurable, shell plugin manager  https://sheldon.cli.rs/ 
@@ -2588,13 +2588,13 @@
  vttest  20251205  Program for testing the VT100 compatibility of terminal emulators  https://invisible-island.net/vttest/ 
  vtutils  0.5-5  Utilities for testing and working with virtual terminals  https://github.com/fornwall/vtutils 
  vulkan-extension-layer  1.4.333  Vulkan Extension Layer  https://github.com/KhronosGroup/Vulkan-ExtensionLayer 
- vulkan-headers  1.4.340  Vulkan Header files and API registry  https://github.com/KhronosGroup/Vulkan-Headers 
+ vulkan-headers  1.4.341  Vulkan Header files and API registry  https://github.com/KhronosGroup/Vulkan-Headers 
  vulkan-icd  0.1  A metapackage that provides Vulkan ICDs  https://github.com/termux/termux-packages 
  vulkan-loader  0.0.3  A metapackage that provides vulkan loader library  https://github.com/termux/termux-packages 
  vulkan-loader-android  29  Vulkan Loader for Android  https://source.android.com/devices/graphics/arch-vulkan 
- vulkan-loader-generic  1.4.340  Vulkan Loader  https://github.com/KhronosGroup/Vulkan-Loader 
- vulkan-tools  1.4.340  Vulkan Tools and Utilities  https://github.com/KhronosGroup/Vulkan-Tools 
- vulkan-utility-libraries  1.4.340  Utility Libraries for Vulkan  https://github.com/KhronosGroup/Vulkan-Utility-Libraries 
+ vulkan-loader-generic  1.4.341  Vulkan Loader  https://github.com/KhronosGroup/Vulkan-Loader 
+ vulkan-tools  1.4.341  Vulkan Tools and Utilities  https://github.com/KhronosGroup/Vulkan-Tools 
+ vulkan-utility-libraries  1.4.341  Utility Libraries for Vulkan  https://github.com/KhronosGroup/Vulkan-Utility-Libraries 
  vulkan-validation-layers  1.4.339  Vulkan Validation Layers  https://github.com/KhronosGroup/Vulkan-ValidationLayers 
  vulkan-volk  1.4.304  Meta loader for Vulkan API  https://github.com/zeux/volk 
  w3m  0.5.5  Text based Web browser and pager  https://w3m.sourceforge.net/ 
