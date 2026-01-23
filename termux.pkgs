@@ -499,6 +499,7 @@
 | **freetype** | 2.14.1 | Software font engine capable of producing high-quality output | https://www.freetype.org |
 | **freetype-static** | 2.14.1 | Static libraries for freetype | https://www.freetype.org |
 | **frei0r-plugins** | 2.5.1-1 | Minimalistic plugin API for video effects | https://www.dyne.org/software/frei0r/ |
+| **fresh-editor** | 0.1.88 | Text editor for your terminal: easy, powerful and fast | https://getfresh.dev/ |
 | **fribidi** | 1.0.16-1 | Implementation of the Unicode Bidirectional Algorithm | https://github.com/fribidi/fribidi/ |
 | **fribidi-static** | 1.0.16-1 | Static libraries for fribidi | https://github.com/fribidi/fribidi/ |
 | **frobtads** | 2.0-5 | TADS is a free authoring system for writing your own Interactive Fiction | http://www.tads.org/frobtads.htm |
@@ -2066,7 +2067,7 @@
 | **python-pyarrow** | 23.0.0 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
 | **python-pycryptodomex** | 3.23.0-2 | A self-contained Python package of low-level cryptographic primitives | https://www.pycryptodome.org/ |
 | **python-pynvim** | 0.6.0-1 | Python client for Neovim | https://github.com/neovim/pynvim |
-| **python-ruff** | 0.14.10 | An extremely fast Python linter, written in Rust (Python bindings) | https://github.com/charliermarsh/ruff |
+| **python-ruff** | 0.14.11 | An extremely fast Python linter, written in Rust (Python bindings) | https://github.com/charliermarsh/ruff |
 | **python-sabyenc3** | 9.3.1 | C implementations of functions for use within SABnzbd | https://github.com/sabnzbd/sabctools |
 | **python-skia-pathops** | 0.9.1 | Python bindings for the Skia library's Path Ops | https://github.com/fonttools/skia-pathops |
 | **python-static** | 3.12.12-1 | Static libraries for python | https://python.org/ |
@@ -2193,7 +2194,7 @@
 | **rubiks-cube** | 1.2-1 | A rubik's cube that runs in your terminal | https://github.com/been-jamming/rubiks_cube |
 | **ruby** | 3.4.1-2 | Dynamic programming language with a focus on simplicity and productivity | https://www.ruby-lang.org/ |
 | **ruby-ri** | 3.4.1-2 | Ruby documentation index | https://www.ruby-lang.org/ |
-| **ruff** | 0.14.10 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
+| **ruff** | 0.14.11 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
 | **runit** | 2.1.2-4 | Tools to provide service supervision and to manage services | http://smarden.org/runit |
 | **runit-static** | 2.1.2-4 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.8.0 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |

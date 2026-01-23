@@ -2002,6 +2002,10 @@
   Version: 2.5.1-1
   Description: Minimalistic plugin API for video effects
   Homepage: https://www.dyne.org/software/frei0r/
+- Package: fresh-editor
+  Version: 0.1.88
+  Description: 'Text editor for your terminal: easy, powerful and fast'
+  Homepage: https://getfresh.dev/
 - Package: fribidi
   Version: 1.0.16-1
   Description: Implementation of the Unicode Bidirectional Algorithm
@@ -8271,7 +8275,7 @@
   Description: Python client for Neovim
   Homepage: https://github.com/neovim/pynvim
 - Package: python-ruff
-  Version: 0.14.10
+  Version: 0.14.11
   Description: An extremely fast Python linter, written in Rust (Python bindings)
   Homepage: https://github.com/charliermarsh/ruff
 - Package: python-sabyenc3
@@ -8779,7 +8783,7 @@
   Description: Ruby documentation index
   Homepage: https://www.ruby-lang.org/
 - Package: ruff
-  Version: 0.14.10
+  Version: 0.14.11
   Description: An extremely fast Python linter, written in Rust
   Homepage: https://github.com/charliermarsh/ruff
 - Package: runit
