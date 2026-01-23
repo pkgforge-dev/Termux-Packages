@@ -2459,11 +2459,11 @@
   Description: Pure Go implementation of jq
   Homepage: https://github.com/itchyny/gojq
 - Package: golang
-  Version: 3:1.25.4-1
+  Version: 3:1.25.6
   Description: Go programming language compiler
   Homepage: https://go.dev/
 - Package: golang-doc
-  Version: 3:1.25.4-1
+  Version: 3:1.25.6
   Description: Go programming language - documentation
   Homepage: https://go.dev/
 - Package: gomp
@@ -7059,8 +7059,8 @@
   Description: An interactive cheatsheet tool for the command-line
   Homepage: https://github.com/denisidoro/navi
 - Package: navidrome
-  Version: 0.59.0
-  Description: "\U0001F3A7☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic"
+  Version: 0.59.0-1
+  Description: Modern Music Server and Streamer compatible with Subsonic/Airsonic
   Homepage: https://www.navidrome.org/
 - Package: ncdc
   Version: 1.25-1

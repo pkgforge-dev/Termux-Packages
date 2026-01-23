@@ -613,8 +613,8 @@
 | **gobject-introspection** | 1.86.0 | Uniform machine readable API | https://gi.readthedocs.io/ |
 | **gogs** | 0.13.3-1 | A painless self-hosted Git service | https://gogs.io |
 | **gojq** | 0.12.18 | Pure Go implementation of jq | https://github.com/itchyny/gojq |
-| **golang** | 3:1.25.4-1 | Go programming language compiler | https://go.dev/ |
-| **golang-doc** | 3:1.25.4-1 | Go programming language - documentation | https://go.dev/ |
+| **golang** | 3:1.25.6 | Go programming language compiler | https://go.dev/ |
+| **golang-doc** | 3:1.25.6 | Go programming language - documentation | https://go.dev/ |
 | **gomp** | 2023.02.02-3 | MPD client inspired by ncmpcpp with builtin cover-art view and LastFM integration | https://aditya-k2.github.io/gomp/ |
 | **google-glog** | 0.7.1-2 | Logging library for C++ | https://github.com/google/glog |
 | **googletest** | 1.17.0-1 | Google C++ testing framework | https://github.com/google/googletest |
@@ -1763,7 +1763,7 @@
 | **natpmpc** | 20230423-2 | Portable and fully compliant implementation of NAT-PMP | https://miniupnp.tuxfamily.org/libnatpmp.html |
 | **natpmpc-static** | 20230423-2 | Static libraries for natpmpc | https://miniupnp.tuxfamily.org/libnatpmp.html |
 | **navi** | 2.24.0-1 | An interactive cheatsheet tool for the command-line | https://github.com/denisidoro/navi |
-| **navidrome** | 0.59.0 | 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic | https://www.navidrome.org/ |
+| **navidrome** | 0.59.0-1 | Modern Music Server and Streamer compatible with Subsonic/Airsonic | https://www.navidrome.org/ |
 | **ncdc** | 1.25-1 | Modern and lightweight direct connect client with a friendly ncurses interface | https://dev.yorhel.nl/ncdc |
 | **ncdu** | 1.22-1 | Disk usage analyzer | https://dev.yorhel.nl/ncdu |
 | **ncdu2** | 2.9.2 | Disk usage analyzer | https://dev.yorhel.nl/ncdu |

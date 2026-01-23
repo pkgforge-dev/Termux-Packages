@@ -3691,13 +3691,13 @@
   },
   {
     "Package": "golang",
-    "Version": "3:1.25.4-1",
+    "Version": "3:1.25.6",
     "Description": "Go programming language compiler",
     "Homepage": "https://go.dev/"
   },
   {
     "Package": "golang-doc",
-    "Version": "3:1.25.4-1",
+    "Version": "3:1.25.6",
     "Description": "Go programming language - documentation",
     "Homepage": "https://go.dev/"
   },
@@ -10591,8 +10591,8 @@
   },
   {
     "Package": "navidrome",
-    "Version": "0.59.0",
-    "Description": "🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic",
+    "Version": "0.59.0-1",
+    "Description": "Modern Music Server and Streamer compatible with Subsonic/Airsonic",
     "Homepage": "https://www.navidrome.org/"
   },
   {
