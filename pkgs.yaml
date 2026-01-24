@@ -439,7 +439,7 @@
   Description: A command-line screenshot tool written in bash
   Homepage: https://github.com/mayTermux/awesomeshot
 - Package: awscli
-  Version: 2.33.5
+  Version: 2.33.6
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -6715,19 +6715,19 @@
   Description: Static libraries for mercury
   Homepage: https://www.mercurylang.org/
 - Package: mesa
-  Version: 25.3.3
+  Version: 25.3.4
   Description: An open-source implementation of the OpenGL specification
   Homepage: https://www.mesa3d.org
 - Package: mesa-dev
-  Version: 25.3.3
+  Version: 25.3.4
   Description: Mesas OpenGL headers
   Homepage: https://www.mesa3d.org
 - Package: mesa-opencl-icd-rusticl
-  Version: 25.3.3
+  Version: 25.3.4
   Description: Mesas Rusticl OpenCL ICD
   Homepage: https://www.mesa3d.org
 - Package: mesa-vulkan-icd-swrast
-  Version: 25.3.3
+  Version: 25.3.4
   Description: Mesas Swrast Vulkan ICD
   Homepage: https://www.mesa3d.org
 - Package: mfcuk
@@ -8499,7 +8499,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 4.26.0
+  Version: 4.27.0
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
@@ -10355,7 +10355,7 @@
   Description: Utilities for testing and working with virtual terminals
   Homepage: https://github.com/fornwall/vtutils
 - Package: vulkan-extension-layer
-  Version: 1.4.333
+  Version: 1.4.341
   Description: Vulkan Extension Layer
   Homepage: https://github.com/KhronosGroup/Vulkan-ExtensionLayer
 - Package: vulkan-headers
