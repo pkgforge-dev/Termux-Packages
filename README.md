@@ -1211,8 +1211,6 @@
 | **libmypaint-static** | 1.6.1-2 | Static libraries for libmypaint | https://github.com/mypaint/libmypaint |
 | **libnats-c** | 3.12.0 | A C client for the NATS messaging system | https://nats-io.github.io/nats.c/ |
 | **libnats-c-static** | 3.12.0 | Static libraries for libnats-c | https://nats-io.github.io/nats.c/ |
-| **libncnn** | 20250503-3 | A high-performance neural network inference framework optimized for the mobile platform | https://github.com/Tencent/ncnn |
-| **libncnn-static** | 20250503-3 | Static libraries for libncnn | https://github.com/Tencent/ncnn |
 | **libneon** | 0.36.0 | An HTTP/1.1 and WebDAV client library, with a C interface | https://notroj.github.io/neon/ |
 | **libneon-static** | 0.36.0 | Static libraries for libneon | https://notroj.github.io/neon/ |
 | **libnet** | 1.3-1 | A library which provides API for commonly used low-level net functions | https://github.com/libnet/libnet |
@@ -1762,7 +1760,7 @@
 | **mupdf-static** | 1.24.10-2 | Static libraries for mupdf | https://mupdf.com/ |
 | **mupdf-tools** | 1.24.10-2 | Lightweight PDF and XPS viewer (utilities) | https://mupdf.com/ |
 | **music-file-organizer** | 1.0.4-10 | Organizer of audio files into directories based on metadata tags | https://git.zx2c4.com/music-file-organizer/about/ |
-| **mutt** | 2.2.16 | Mail client with patches from neomutt | http://www.mutt.org/ |
+| **mutt** | 2.3.0 | Mail client with patches from neomutt | http://www.mutt.org/ |
 | **myman** | 0.7.1-6 | Video game for color and monochrome text terminals in the genre of Namco's Pac-Man | https://sourceforge.net/projects/myman/ |
 | **mympd** | 24.0.2 | A standalone and lightweight web-based MPD client | https://jcorporation.github.io/myMPD/ |
 | **mypaint-brushes** | 2.0.2 | MyPaint brushes | https://github.com/mypaint/mypaint-brushes |
@@ -2158,8 +2156,8 @@
 | **readline-static** | 8.3.1-2 | Static libraries for readline | https://tiswww.case.edu/php/chet/readline/rltop.html |
 | **recode** | 3.7.15-1 | Charset converter tool and library | https://github.com/pinard/Recode |
 | **recode-static** | 3.7.15-1 | Static libraries for recode | https://github.com/pinard/Recode |
-| **recoll** | 1.43.10 | Full-text search for your desktop | https://www.recoll.org/ |
-| **recoll-python** | 1.43.10 | Python interface for Recoll | https://www.recoll.org/ |
+| **recoll** | 1.43.12 | Full-text search for your desktop | https://www.recoll.org/ |
+| **recoll-python** | 1.43.12 | Python interface for Recoll | https://www.recoll.org/ |
 | **recutils** | 1.9-1 | Set of tools and libraries to access human-editable, plain text databases called recfiles | https://www.gnu.org/software/recutils/ |
 | **recutils-static** | 1.9-1 | Static libraries for recutils | https://www.gnu.org/software/recutils/ |
 | **redir** | 3.3-3 | TCP port redirector for UNIX | https://github.com/troglobit/redir |
@@ -2607,7 +2605,7 @@
 | **vulkan-loader-generic** | 1.4.341 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
 | **vulkan-tools** | 1.4.341 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
 | **vulkan-utility-libraries** | 1.4.341 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
-| **vulkan-validation-layers** | 1.4.339 | Vulkan Validation Layers | https://github.com/KhronosGroup/Vulkan-ValidationLayers |
+| **vulkan-validation-layers** | 1.4.341 | Vulkan Validation Layers | https://github.com/KhronosGroup/Vulkan-ValidationLayers |
 | **vulkan-volk** | 1.4.304 | Meta loader for Vulkan API | https://github.com/zeux/volk |
 | **w3m** | 0.5.6 | Text based Web browser and pager | https://w3m.sourceforge.net/ |
 | **w3m-img** | 0.5.6 | Inline image extension support utilities for w3m | https://w3m.sourceforge.net/ |

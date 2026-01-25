@@ -4802,14 +4802,6 @@
   Version: 3.12.0
   Description: Static libraries for libnats-c
   Homepage: https://nats-io.github.io/nats.c/
-- Package: libncnn
-  Version: 20250503-3
-  Description: A high-performance neural network inference framework optimized for the mobile platform
-  Homepage: https://github.com/Tencent/ncnn
-- Package: libncnn-static
-  Version: 20250503-3
-  Description: Static libraries for libncnn
-  Homepage: https://github.com/Tencent/ncnn
 - Package: libneon
   Version: 0.36.0
   Description: An HTTP/1.1 and WebDAV client library, with a C interface
@@ -7007,7 +6999,7 @@
   Description: Organizer of audio files into directories based on metadata tags
   Homepage: https://git.zx2c4.com/music-file-organizer/about/
 - Package: mutt
-  Version: 2.2.16
+  Version: 2.3.0
   Description: Mail client with patches from neomutt
   Homepage: http://www.mutt.org/
 - Package: myman
@@ -8591,11 +8583,11 @@
   Description: Static libraries for recode
   Homepage: https://github.com/pinard/Recode
 - Package: recoll
-  Version: 1.43.10
+  Version: 1.43.12
   Description: Full-text search for your desktop
   Homepage: https://www.recoll.org/
 - Package: recoll-python
-  Version: 1.43.10
+  Version: 1.43.12
   Description: Python interface for Recoll
   Homepage: https://www.recoll.org/
 - Package: recutils
@@ -10387,7 +10379,7 @@
   Description: Utility Libraries for Vulkan
   Homepage: https://github.com/KhronosGroup/Vulkan-Utility-Libraries
 - Package: vulkan-validation-layers
-  Version: 1.4.339
+  Version: 1.4.341
   Description: Vulkan Validation Layers
   Homepage: https://github.com/KhronosGroup/Vulkan-ValidationLayers
 - Package: vulkan-volk
