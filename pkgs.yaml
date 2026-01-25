@@ -355,7 +355,7 @@
   Description: ASP.NET Core 9.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: assimp
-  Version: 6.0.3
+  Version: 6.0.4
   Description: Library to import various well-known 3D model formats in an uniform manner
   Homepage: https://assimp.sourceforge.net/index.html
 - Package: asymptote
@@ -779,7 +779,7 @@
   Description: Multi-shell multi-command argument completer
   Homepage: https://carapace.sh/
 - Package: cargo-c
-  Version: 0.10.19
+  Version: 0.10.20
   Description: Cargo C-ABI helpers
   Homepage: https://github.com/lu-zero/cargo-c
 - Package: cargo-leptos
@@ -4447,11 +4447,11 @@
   Description: A small java library that allows you to use ANSI escape codes to format your console output
   Homepage: https://fusesource.github.io/jansi/
 - Package: libjansson
-  Version: 2.14.1-1
+  Version: 2.15.0
   Description: C library for encoding, decoding and manipulating JSON data
   Homepage: http://www.digip.org/jansson/
 - Package: libjansson-static
-  Version: 2.14.1-1
+  Version: 2.15.0
   Description: Static libraries for libjansson
   Homepage: http://www.digip.org/jansson/
 - Package: libjasper
@@ -8451,7 +8451,7 @@
   Description: Static libraries for qhull
   Homepage: http://www.qhull.org
 - Package: qpdf
-  Version: 12.3.1
+  Version: 12.3.2
   Description: Content-Preserving PDF Transformation System
   Homepage: http://qpdf.sourceforge.net
 - Package: qrsspig
