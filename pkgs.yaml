@@ -6143,7 +6143,7 @@
   Description: Library for the X Video (Xv) extension to the X Window System
   Homepage: https://xorg.freedesktop.org/
 - Package: libxxf86vm
-  Version: 1.1.6-1
+  Version: 1.1.7
   Description: X11 XFree86 video mode extension library
   Homepage: https://xorg.freedesktop.org/
 - Package: libyaml
@@ -10747,7 +10747,7 @@
   Description: Tools for working with zip files
   Homepage: https://sourceforge.net/projects/infozip/
 - Package: zipios
-  Version: 2.3.2-1
+  Version: 2.3.4
   Description: A small C++ library for reading and writing zip files
   Homepage: https://zipios.sourceforge.io/
 - Package: zk

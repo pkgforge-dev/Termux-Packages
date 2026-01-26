@@ -1546,7 +1546,7 @@
 | **libxtst** | 1.2.5-1 | Xlib-based library for XTEST & RECORD extensions | https://xorg.freedesktop.org/ |
 | **libxtst-static** | 1.2.5-1 | Static libraries for libxtst | https://xorg.freedesktop.org/ |
 | **libxv** | 1.0.13-1 | Library for the X Video (Xv) extension to the X Window System | https://xorg.freedesktop.org/ |
-| **libxxf86vm** | 1.1.6-1 | X11 XFree86 video mode extension library | https://xorg.freedesktop.org/ |
+| **libxxf86vm** | 1.1.7 | X11 XFree86 video mode extension library | https://xorg.freedesktop.org/ |
 | **libyaml** | 0.2.5-5 | LibYAML is a YAML 1.1 parser and emitter written in C | https://pyyaml.org/wiki/LibYAML |
 | **libyaml-cpp** | 0.8.0-1 | A YAML parser and emitter in C++ matching the YAML 1.2 spec | https://github.com/jbeder/yaml-cpp |
 | **libyaml-static** | 0.2.5-5 | Static libraries for libyaml | https://pyyaml.org/wiki/LibYAML |
@@ -2697,7 +2697,7 @@
 | **zig** | 0.15.1 | General-purpose programming language and toolchain | https://ziglang.org |
 | **zile** | 2.6.4-2 | Lightweight clone of the Emacs text editor | https://www.gnu.org/software/zile/ |
 | **zip** | 3.0-6 | Tools for working with zip files | https://sourceforge.net/projects/infozip/ |
-| **zipios** | 2.3.2-1 | A small C++ library for reading and writing zip files | https://zipios.sourceforge.io/ |
+| **zipios** | 2.3.4 | A small C++ library for reading and writing zip files | https://zipios.sourceforge.io/ |
 | **zk** | 0.15.2 | A plain text note-taking assistant | https://zk-org.github.io/zk/ |
 | **zlib** | 1.3.1-1 | Compression library implementing the deflate compression method found in gzip and PKZIP | https://www.zlib.net/ |
 | **zlib-static** | 1.3.1-1 | Static libraries for zlib | https://www.zlib.net/ |
