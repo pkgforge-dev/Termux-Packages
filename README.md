@@ -402,7 +402,7 @@
 | **dte** | 1.11.1-2 | A small, configurable console text editor | https://craigbarnes.gitlab.io/dte/ |
 | **dua** | 2.33.0 | View disk space usage and delete unwanted data, fast | https://github.com/Byron/dua-cli |
 | **duc** | 1.4.6 | High-performance disk usage analyzer | http://duc.zevv.nl/ |
-| **duckdb** | 1.4.3 | DuckDB Command Line Interface (CLI) shell | https://duckdb.org/ |
+| **duckdb** | 1.4.4 | DuckDB Command Line Interface (CLI) shell | https://duckdb.org/ |
 | **duf** | 0.9.1 | Disk usage/free utility | https://github.com/muesli/duf |
 | **dufs** | 0.45.0 | A file server that supports static serving, uploading, searching, accessing control, webdav... | https://github.com/sigoden/dufs |
 | **duktape** | 2.7.0-2 | Simple REPL for Duktape | https://www.duktape.org/ |
@@ -511,7 +511,7 @@
 | **freetype** | 2.14.1 | Software font engine capable of producing high-quality output | https://www.freetype.org |
 | **freetype-static** | 2.14.1 | Static libraries for freetype | https://www.freetype.org |
 | **frei0r-plugins** | 2.5.1-1 | Minimalistic plugin API for video effects | https://www.dyne.org/software/frei0r/ |
-| **fresh-editor** | 0.1.88 | Text editor for your terminal: easy, powerful and fast | https://getfresh.dev/ |
+| **fresh-editor** | 0.1.90 | Text editor for your terminal: easy, powerful and fast | https://getfresh.dev/ |
 | **fribidi** | 1.0.16-1 | Implementation of the Unicode Bidirectional Algorithm | https://github.com/fribidi/fribidi/ |
 | **fribidi-static** | 1.0.16-1 | Static libraries for fribidi | https://github.com/fribidi/fribidi/ |
 | **frobtads** | 2.0-5 | TADS is a free authoring system for writing your own Interactive Fiction | http://www.tads.org/frobtads.htm |
@@ -572,7 +572,7 @@
 | **gifsicle** | 1.96-1 | Tool for creating, editing, and getting information about GIF images and animations | https://www.lcdf.org/gifsicle/ |
 | **gifski** | 1.34.0-1 | GIF encoder based on libimagequant | https://gif.ski/ |
 | **git** | 2.52.0 | Fast, scalable, distributed revision control system | https://git-scm.com/ |
-| **git-credential-manager** | 2.6.1-2 | Cross-platform Git credential storage for multiple hosting providers | https://aka.ms/gcm |
+| **git-credential-manager** | 2.7.0 | Cross-platform Git credential storage for multiple hosting providers | https://aka.ms/gcm |
 | **git-crypt** | 0.8.0 | Enables transparent encryption and decryption of files for a git repository | https://www.agwa.name/projects/git-crypt/ |
 | **git-delta** | 0.18.2-3 | A syntax-highlighter for git and diff output | https://dandavison.github.io/delta/ |
 | **git-extras** | 7.4.0-2 | Little git extras. | https://github.com/tj/git-extras |
@@ -688,7 +688,7 @@
 | **harfbuzz** | 12.3.2 | OpenType text shaping engine | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
 | **harfbuzz-icu** | 12.3.2 | OpenType text shaping engine ICU backend | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
 | **harfbuzz-utils** | 12.3.2 | Tools using the harfbuzz library | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
-| **hash-slinger** | 3.4-1 | Various tools to generate special DNS records | https://github.com/letoams/hash-slinger |
+| **hash-slinger** | 3.5 | Various tools to generate special DNS records | https://github.com/letoams/hash-slinger |
 | **hashdeep** | 4.4-9 | Programs to compute hashsums of arbitrary number of files recursively | https://md5deep.sourceforge.net/ |
 | **hcl** | 2.24.0-1 | A toolkit for creating structured configuration languages | https://github.com/hashicorp/hcl |
 | **hcloud** | 1.61.0 | Hetzner Cloud command line client | https://github.com/hetznercloud/cli |
@@ -989,8 +989,8 @@
 | **libdmtx** | 0.7.8-1 | A software library that enables programs to read and write Data Matrix barcodes | https://github.com/dmtx/libdmtx |
 | **libdmtx-static** | 0.7.8-1 | Static libraries for libdmtx | https://github.com/dmtx/libdmtx |
 | **libdrm** | 2.4.131 | Userspace interface to kernel DRM services | https://dri.freedesktop.org/wiki/ |
-| **libduckdb** | 1.4.3 | An in-process SQL OLAP database management system | https://duckdb.org/ |
-| **libduckdb-static** | 1.4.3 | Static libraries for libduckdb | https://duckdb.org/ |
+| **libduckdb** | 1.4.4 | An in-process SQL OLAP database management system | https://duckdb.org/ |
+| **libduckdb-static** | 1.4.4 | Static libraries for libduckdb | https://duckdb.org/ |
 | **libduktape** | 2.7.0-2 | An embeddable Javascript engine with a focus on portability and compact footprint | https://www.duktape.org/ |
 | **libdvbcsa** | 1.1.0-3 | An implementation of the DVB Common Scrambling Algorithm - DVB/CSA - with encryption and decryption capabilities | https://www.videolan.org/developers/libdvbcsa.html |
 | **libdvbcsa-static** | 1.1.0-3 | Static libraries for libdvbcsa | https://www.videolan.org/developers/libdvbcsa.html |
@@ -1455,8 +1455,8 @@
 | **libunistring** | 1.3-1 | Library providing functions for manipulating Unicode strings | https://www.gnu.org/software/libunistring/ |
 | **libunistring-static** | 1.3-1 | Static libraries for libunistring | https://www.gnu.org/software/libunistring/ |
 | **libunqlite** | 1.1.9-1 | Transactional embedded database engine | https://unqlite.org/ |
-| **liburcu** | 0.15.5 | LGPLv2.1 userspace RCU (read-copy-update) library | https://liburcu.org/ |
-| **liburcu-static** | 0.15.5 | Static libraries for liburcu | https://liburcu.org/ |
+| **liburcu** | 0.15.6 | LGPLv2.1 userspace RCU (read-copy-update) library | https://liburcu.org/ |
+| **liburcu-static** | 0.15.6 | Static libraries for liburcu | https://liburcu.org/ |
 | **libusb** | 1.0.29-1 | A C library that provides generic access to USB devices | https://libusb.info/ |
 | **libusb-static** | 1.0.29-1 | Static libraries for libusb | https://libusb.info/ |
 | **libusbmuxd** | 2.1.1-2 | A client library for applications to handle usbmux protocol connections with iOS devices | https://libimobiledevice.org |
@@ -1739,7 +1739,7 @@
 | **mp3splt** | 2.6.2-2 | Utility to split mp3, ogg vorbis and FLAC files without decoding | https://mp3splt.sourceforge.net |
 | **mp3wrap** | 0.5-2 | A command-line utility that wraps quickly two or more mp3 files in one single large playable mp3 | https://mp3wrap.sourceforge.net/ |
 | **mpc** | 0.35-2 | Minimalist command line interface for MPD | https://www.musicpd.org/clients/mpc/ |
-| **mpd** | 0.24.7 | Music player daemon | https://www.musicpd.org |
+| **mpd** | 0.24.8 | Music player daemon | https://www.musicpd.org |
 | **mpdscribble** | 0.25-4 | A Music Player Daemon (MPD) client which submits information about tracks being played to a scrobbler | https://www.musicpd.org/clients/mpdscribble/ |
 | **mpg123** | 1.33.3 | Fast console MPEG Audio Player based on libmpg123 | https://mpg123.org/ |
 | **mpv** | 0.41.0-1 | Command-line media player | https://mpv.io/ |
@@ -1912,8 +1912,8 @@
 | **ossp-uuid** | 1.6.2-4 | ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122. | http://www.ossp.org/pkg/lib/uuid/ |
 | **ossp-uuid-static** | 1.6.2-4 | Static libraries for ossp-uuid | http://www.ossp.org/pkg/lib/uuid/ |
 | **ovmf** | 20231122-16.fc40-0 | Open Virtual Machine Firmware | https://www.tianocore.org/ |
-| **oxfmt** | 1.41.0 | Oxc JavaScript formatter | https://oxc.rs/ |
-| **oxlint** | 1.41.0 | Oxc JavaScript linter | https://oxc.rs/ |
+| **oxfmt** | 1.42.0 | Oxc JavaScript formatter | https://oxc.rs/ |
+| **oxlint** | 1.42.0 | Oxc JavaScript linter | https://oxc.rs/ |
 | **p11-kit** | 0.26.1 | Provides a way to load and enumerate PKCS#11 modules | https://p11-glue.github.io/p11-glue/p11-kit.html |
 | **p7zip** | 17.06-1 | Command-line version of the 7zip compressed file archiver | https://github.com/p7zip-project/p7zip |
 | **pacman** | 7.1.0-1 | A library-based package manager with dependency support | https://archlinux.org/pacman/ |

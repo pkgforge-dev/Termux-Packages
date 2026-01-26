@@ -1567,7 +1567,7 @@
   Description: High-performance disk usage analyzer
   Homepage: http://duc.zevv.nl/
 - Package: duckdb
-  Version: 1.4.3
+  Version: 1.4.4
   Description: DuckDB Command Line Interface (CLI) shell
   Homepage: https://duckdb.org/
 - Package: duf
@@ -2003,7 +2003,7 @@
   Description: Minimalistic plugin API for video effects
   Homepage: https://www.dyne.org/software/frei0r/
 - Package: fresh-editor
-  Version: 0.1.88
+  Version: 0.1.90
   Description: 'Text editor for your terminal: easy, powerful and fast'
   Homepage: https://getfresh.dev/
 - Package: fribidi
@@ -2247,7 +2247,7 @@
   Description: Fast, scalable, distributed revision control system
   Homepage: https://git-scm.com/
 - Package: git-credential-manager
-  Version: 2.6.1-2
+  Version: 2.7.0
   Description: Cross-platform Git credential storage for multiple hosting providers
   Homepage: https://aka.ms/gcm
 - Package: git-crypt
@@ -2711,7 +2711,7 @@
   Description: Tools using the harfbuzz library
   Homepage: https://www.freedesktop.org/wiki/Software/HarfBuzz/
 - Package: hash-slinger
-  Version: 3.4-1
+  Version: "3.5"
   Description: Various tools to generate special DNS records
   Homepage: https://github.com/letoams/hash-slinger
 - Package: hashdeep
@@ -3915,11 +3915,11 @@
   Description: Userspace interface to kernel DRM services
   Homepage: https://dri.freedesktop.org/wiki/
 - Package: libduckdb
-  Version: 1.4.3
+  Version: 1.4.4
   Description: An in-process SQL OLAP database management system
   Homepage: https://duckdb.org/
 - Package: libduckdb-static
-  Version: 1.4.3
+  Version: 1.4.4
   Description: Static libraries for libduckdb
   Homepage: https://duckdb.org/
 - Package: libduktape
@@ -5779,11 +5779,11 @@
   Description: Transactional embedded database engine
   Homepage: https://unqlite.org/
 - Package: liburcu
-  Version: 0.15.5
+  Version: 0.15.6
   Description: LGPLv2.1 userspace RCU (read-copy-update) library
   Homepage: https://liburcu.org/
 - Package: liburcu-static
-  Version: 0.15.5
+  Version: 0.15.6
   Description: Static libraries for liburcu
   Homepage: https://liburcu.org/
 - Package: libusb
@@ -6915,7 +6915,7 @@
   Description: Minimalist command line interface for MPD
   Homepage: https://www.musicpd.org/clients/mpc/
 - Package: mpd
-  Version: 0.24.7
+  Version: 0.24.8
   Description: Music player daemon
   Homepage: https://www.musicpd.org
 - Package: mpdscribble
@@ -7607,11 +7607,11 @@
   Description: Open Virtual Machine Firmware
   Homepage: https://www.tianocore.org/
 - Package: oxfmt
-  Version: 1.41.0
+  Version: 1.42.0
   Description: Oxc JavaScript formatter
   Homepage: https://oxc.rs/
 - Package: oxlint
-  Version: 1.41.0
+  Version: 1.42.0
   Description: Oxc JavaScript linter
   Homepage: https://oxc.rs/
 - Package: p11-kit
