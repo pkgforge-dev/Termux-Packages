@@ -1291,7 +1291,7 @@
   },
   {
     "Package": "cgal",
-    "Version": "6.1",
+    "Version": "6.1.1",
     "Description": "Computational Geometry Algorithms Library",
     "Homepage": "https://www.cgal.org/"
   },
@@ -4351,7 +4351,7 @@
   },
   {
     "Package": "hz",
-    "Version": "0.10.3",
+    "Version": "0.10.4",
     "Description": "A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices",
     "Homepage": "https://www.cloudwego.io"
   },
@@ -9145,13 +9145,13 @@
   },
   {
     "Package": "libxrandr",
-    "Version": "1.5.4-1",
+    "Version": "1.5.5",
     "Description": "X11 RandR extension library",
     "Homepage": "https://xorg.freedesktop.org/"
   },
   {
     "Package": "libxrandr-static",
-    "Version": "1.5.4-1",
+    "Version": "1.5.5",
     "Description": "Static libraries for libxrandr",
     "Homepage": "https://xorg.freedesktop.org/"
   },
@@ -10705,7 +10705,7 @@
   },
   {
     "Package": "neocmakelsp",
-    "Version": "0.9.2",
+    "Version": "0.10.0",
     "Description": "a cmake lsp based on tower-lsp and treesitter",
     "Homepage": "https://neocmakelsp.github.io/"
   },

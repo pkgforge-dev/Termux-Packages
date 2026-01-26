@@ -859,7 +859,7 @@
   Description: A basic file manager that runs inside a terminal, designed for Linux. Its fully responsive and incredibly fast.
   Homepage: https://github.com/0l1v3rr/cli-file-manager
 - Package: cgal
-  Version: "6.1"
+  Version: 6.1.1
   Description: Computational Geometry Algorithms Library
   Homepage: https://www.cgal.org/
 - Package: cgdb
@@ -2899,7 +2899,7 @@
   Description: A command-line benchmarking tool
   Homepage: https://github.com/sharkdp/hyperfine
 - Package: hz
-  Version: 0.10.3
+  Version: 0.10.4
   Description: A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices
   Homepage: https://www.cloudwego.io
 - Package: i2pd
@@ -6095,11 +6095,11 @@
   Description: Static libraries for libxmlrpc
   Homepage: https://xmlrpc-c.sourceforge.io/
 - Package: libxrandr
-  Version: 1.5.4-1
+  Version: 1.5.5
   Description: X11 RandR extension library
   Homepage: https://xorg.freedesktop.org/
 - Package: libxrandr-static
-  Version: 1.5.4-1
+  Version: 1.5.5
   Description: Static libraries for libxrandr
   Homepage: https://xorg.freedesktop.org/
 - Package: libxrender
@@ -7135,7 +7135,7 @@
   Description: Minimal, efficient, statically-typed and meta-programmable systems programming language
   Homepage: https://nelua.io
 - Package: neocmakelsp
-  Version: 0.9.2
+  Version: 0.10.0
   Description: a cmake lsp based on tower-lsp and treesitter
   Homepage: https://neocmakelsp.github.io/
 - Package: neofetch
