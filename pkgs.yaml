@@ -439,7 +439,7 @@
   Description: A command-line screenshot tool written in bash
   Homepage: https://github.com/mayTermux/awesomeshot
 - Package: awscli
-  Version: 2.33.6
+  Version: 2.33.7
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -1195,11 +1195,11 @@
   Description: Run a command as a Unix daemon
   Homepage: http://software.clapper.org/daemonize/
 - Package: dar
-  Version: 2.8.2
+  Version: 2.8.3
   Description: A full featured command-line backup tool, short for Disk ARchive
   Homepage: http://dar.linux.free.fr/
 - Package: dar-static
-  Version: 2.8.2
+  Version: 2.8.3
   Description: Static libraries for dar
   Homepage: http://dar.linux.free.fr/
 - Package: darkhttpd
@@ -2003,7 +2003,7 @@
   Description: Minimalistic plugin API for video effects
   Homepage: https://www.dyne.org/software/frei0r/
 - Package: fresh-editor
-  Version: 0.1.90
+  Version: 0.1.90-1
   Description: 'Text editor for your terminal: easy, powerful and fast'
   Homepage: https://getfresh.dev/
 - Package: fribidi
@@ -10683,7 +10683,7 @@
   Description: Static libraries for yasm
   Homepage: https://yasm.tortall.net/
 - Package: yazi
-  Version: 26.1.22
+  Version: 26.1.22-1
   Description: Blazing fast terminal file manager written in Rust, based on async I/O
   Homepage: https://yazi-rs.github.io/
 - Package: yosys

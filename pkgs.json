@@ -661,7 +661,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.33.6",
+    "Version": "2.33.7",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -1795,13 +1795,13 @@
   },
   {
     "Package": "dar",
-    "Version": "2.8.2",
+    "Version": "2.8.3",
     "Description": "A full featured command-line backup tool, short for Disk ARchive",
     "Homepage": "http://dar.linux.free.fr/"
   },
   {
     "Package": "dar-static",
-    "Version": "2.8.2",
+    "Version": "2.8.3",
     "Description": "Static libraries for dar",
     "Homepage": "http://dar.linux.free.fr/"
   },
@@ -3007,7 +3007,7 @@
   },
   {
     "Package": "fresh-editor",
-    "Version": "0.1.90",
+    "Version": "0.1.90-1",
     "Description": "Text editor for your terminal: easy, powerful and fast",
     "Homepage": "https://getfresh.dev/"
   },
@@ -16027,7 +16027,7 @@
   },
   {
     "Package": "yazi",
-    "Version": "26.1.22",
+    "Version": "26.1.22-1",
     "Description": "Blazing fast terminal file manager written in Rust, based on async I/O",
     "Homepage": "https://yazi-rs.github.io/"
   },
