@@ -729,6 +729,7 @@
 | **iat** | 0.1.7 | Iso9660 Analyzer Tool | http://iat.berlios.de/ |
 | **icecast** | 2.4.4-8 | Icecast is a streaming media (audio/video) server | https://icecast.org |
 | **ices** | 2.0.3-1 | IceS is a source client for the Icecast streaming server. | https://icecast.org/ices/ |
+| **icon-naming-utils** | 0.8.90 | Maps the new names of icons for Tango to the legacy names used by the GNOME and KDE desktops | http://tango.freedesktop.org/ |
 | **iconv** | 1.18-1 | Utility converting between different character encodings | https://www.gnu.org/software/libiconv/ |
 | **icoutils** | 0.32.3-1 | Extracts and converts images in MS Windows(R) icon and cursor files | https://www.nongnu.org/icoutils/ |
 | **icu-devtools** | 78.2 | Development utilities for International Components for Unicode | http://site.icu-project.org/home |
@@ -1061,8 +1062,8 @@
 | **libgsasl-static** | 2.2.2-1 | Static libraries for libgsasl | https://www.gnu.org/software/gsasl |
 | **libgsf** | 1.14.55 | The G Structured File Library | https://gitlab.gnome.org/GNOME/libgsf |
 | **libgsf-static** | 1.14.55 | Static libraries for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
-| **libgtop** | 2.41.3-1 | Library for collecting system monitoring data | https://gitlab.gnome.org/GNOME/libgtop |
-| **libgtop-static** | 2.41.3-1 | Static libraries for libgtop | https://gitlab.gnome.org/GNOME/libgtop |
+| **libgtop** | 2.41.3-2 | Library for collecting system monitoring data | https://gitlab.gnome.org/GNOME/libgtop |
+| **libgtop-static** | 2.41.3-2 | Static libraries for libgtop | https://gitlab.gnome.org/GNOME/libgtop |
 | **libgts** | 0.7.6-3 | Provides useful functions to deal with 3D surfaces meshed with interconnected triangles | https://gts.sourceforge.net/ |
 | **libgts-static** | 0.7.6-3 | Static libraries for libgts | https://gts.sourceforge.net/ |
 | **libgxps** | 0.3.2-3 | handling and rendering XPS documents | https://wiki.gnome.org/libgxps |
@@ -1400,7 +1401,7 @@
 | **libtd** | 1.8.50-1 | Library for building Telegram clients | https://core.telegram.org/tdlib/ |
 | **libtd-static** | 1.8.50-1 | Static libraries for libtd | https://core.telegram.org/tdlib/ |
 | **libtdb** | 1.4.15 | A trivial database system | https://tdb.samba.org/ |
-| **libtermkey** | 0.22-4 | Library for processing of keyboard entry for terminal-based programs | http://www.leonerd.org.uk/code/libtermkey/ |
+| **libtermkey** | 0.22-5 | Library for processing of keyboard entry for terminal-based programs | http://www.leonerd.org.uk/code/libtermkey/ |
 | **libtheora** | 1.2.0-1 | An open video codec developed by the Xiph.org | https://www.theora.org/ |
 | **libtheora-static** | 1.2.0-1 | Static libraries for libtheora | https://www.theora.org/ |
 | **libthread-db** | 22-2 | Thread debugging library | https://android.googlesource.com/platform/ndk/ |
@@ -1504,8 +1505,8 @@
 | **libxdmcp** | 1.1.5-2 | X11 Display Manager Control Protocol library | https://xorg.freedesktop.org/ |
 | **libxdmcp-static** | 1.1.5-2 | Static libraries for libxdmcp | https://xorg.freedesktop.org/ |
 | **libxdrfile** | 1.1.4-2 | Library for reading and writing xtc, edr and trr files | https://userguide.mdanalysis.org/stable/formats/reference/xtc.html |
-| **libxext** | 1.3.6-1 | X11 miscellaneous extensions library | https://xorg.freedesktop.org/ |
-| **libxext-static** | 1.3.6-1 | Static libraries for libxext | https://xorg.freedesktop.org/ |
+| **libxext** | 1.3.7 | X11 miscellaneous extensions library | https://xorg.freedesktop.org/ |
+| **libxext-static** | 1.3.7 | Static libraries for libxext | https://xorg.freedesktop.org/ |
 | **libxfixes** | 6.0.2 | X11 miscellaneous 'fixes' extension library | https://xorg.freedesktop.org/ |
 | **libxfixes-static** | 6.0.2 | Static libraries for libxfixes | https://xorg.freedesktop.org/ |
 | **libxft** | 2.3.9-1 | FreeType-based font drawing library for X | https://xorg.freedesktop.org/ |
@@ -2196,21 +2197,21 @@
 | **runit** | 2.1.2-4 | Tools to provide service supervision and to manage services | http://smarden.org/runit |
 | **runit-static** | 2.1.2-4 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.8.0 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
-| **rust** | 1.92.0 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
+| **rust** | 1.93.0 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
 | **rust-analyzer** | 20260126 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
 | **rust-bindgen** | 0.72.1 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
-| **rust-docs** | 1.92.0 | Rust documentation | https://www.rust-lang.org/ |
-| **rust-src** | 1.92.0 | Rust source code files | https://www.rust-lang.org/ |
-| **rust-std-aarch64-linux-android** | 1.92.0 | Rust std for target aarch64-linux-android | https://www.rust-lang.org/ |
-| **rust-std-armv7-linux-androideabi** | 1.92.0 | Rust std for target armv7-linux-androideabi | https://www.rust-lang.org/ |
-| **rust-std-i686-linux-android** | 1.92.0 | Rust std for target i686-linux-android | https://www.rust-lang.org/ |
-| **rust-std-wasm32-unknown-unknown** | 1.92.0 | Rust std for target wasm32-unknown-unknown | https://www.rust-lang.org/ |
-| **rust-std-wasm32-wasip1** | 1.92.0 | Rust std for target wasm32-wasip1 | https://www.rust-lang.org/ |
-| **rust-std-wasm32-wasip2** | 1.92.0 | Rust std for target wasm32-wasip2 | https://www.rust-lang.org/ |
-| **rust-std-wasm32-wasip3** | 1.92.0 | Rust std for target wasm32-wasip3 | https://www.rust-lang.org/ |
-| **rust-std-x86-64-linux-android** | 1.92.0 | Rust std for target x86_64-linux-android | https://www.rust-lang.org/ |
-| **rustc-dev** | 1.92.0 | Rust compiler development libs | https://www.rust-lang.org/ |
-| **rustc-src** | 1.92.0 | Rust compiler source code files | https://www.rust-lang.org/ |
+| **rust-docs** | 1.93.0 | Rust documentation | https://www.rust-lang.org/ |
+| **rust-src** | 1.93.0 | Rust source code files | https://www.rust-lang.org/ |
+| **rust-std-aarch64-linux-android** | 1.93.0 | Rust std for target aarch64-linux-android | https://www.rust-lang.org/ |
+| **rust-std-armv7-linux-androideabi** | 1.93.0 | Rust std for target armv7-linux-androideabi | https://www.rust-lang.org/ |
+| **rust-std-i686-linux-android** | 1.93.0 | Rust std for target i686-linux-android | https://www.rust-lang.org/ |
+| **rust-std-wasm32-unknown-unknown** | 1.93.0 | Rust std for target wasm32-unknown-unknown | https://www.rust-lang.org/ |
+| **rust-std-wasm32-wasip1** | 1.93.0 | Rust std for target wasm32-wasip1 | https://www.rust-lang.org/ |
+| **rust-std-wasm32-wasip2** | 1.93.0 | Rust std for target wasm32-wasip2 | https://www.rust-lang.org/ |
+| **rust-std-wasm32-wasip3** | 1.93.0 | Rust std for target wasm32-wasip3 | https://www.rust-lang.org/ |
+| **rust-std-x86-64-linux-android** | 1.93.0 | Rust std for target x86_64-linux-android | https://www.rust-lang.org/ |
+| **rustc-dev** | 1.93.0 | Rust compiler development libs | https://www.rust-lang.org/ |
+| **rustc-src** | 1.93.0 | Rust compiler source code files | https://www.rust-lang.org/ |
 | **rustscan** | 2.4.1-1 | The modern,fast,smart and effective port scanner | https://rustscan.github.io/RustScan |
 | **rw** | 1.0.1-1 | A Rust implementation of sponge(1) that never write to TMPDIR | https://github.com/jridgewell/rw |
 | **rxfetch** | 2023.01.07 | A custom system info fetching tool | https://github.com/Mangeshrex/rxfetch |
@@ -2574,7 +2575,7 @@
 | **virglrenderer** | 1.2.0-1 | A virtual 3D GPU for use inside qemu virtual machines | https://virgil3d.github.io/ |
 | **virglrenderer-android** | 1.2.0 | A virtual 3D GPU for use inside qemu virtual machines over OpenGLES libraries on Android | https://virgil3d.github.io/ |
 | **virustotal-cli** | 1.2.0 | Command line interface for VirusTotal | https://github.com/VirusTotal/vt-cli |
-| **vis** | 0.9-6 | Modern, legacy free, simple yet efficient vim-like editor | https://www.brain-dump.org/projects/vis/ |
+| **vis** | 0.9-p20250111-0 | Modern, legacy free, simple yet efficient vim-like editor | https://www.brain-dump.org/projects/vis/ |
 | **vitetris** | 0.59.1-4 | Virtual terminal *tris clone | http://victornils.net/tetris/ |
 | **viu** | 1.6.1 | Terminal image viewer with native support for iTerm and Kitty | https://github.com/atanunq/viu |
 | **vivid** | 0.10.1-1 | A themeable LS_COLORS generator with a rich filetype datebase | https://github.com/sharkdp/vivid |

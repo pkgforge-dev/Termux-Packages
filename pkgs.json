@@ -4386,6 +4386,12 @@
     "Homepage": "https://icecast.org/ices/"
   },
   {
+    "Package": "icon-naming-utils",
+    "Version": "0.8.90",
+    "Description": "Maps the new names of icons for Tango to the legacy names used by the GNOME and KDE desktops",
+    "Homepage": "http://tango.freedesktop.org/"
+  },
+  {
     "Package": "iconv",
     "Version": "1.18-1",
     "Description": "Utility converting between different character encodings",
@@ -6379,13 +6385,13 @@
   },
   {
     "Package": "libgtop",
-    "Version": "2.41.3-1",
+    "Version": "2.41.3-2",
     "Description": "Library for collecting system monitoring data",
     "Homepage": "https://gitlab.gnome.org/GNOME/libgtop"
   },
   {
     "Package": "libgtop-static",
-    "Version": "2.41.3-1",
+    "Version": "2.41.3-2",
     "Description": "Static libraries for libgtop",
     "Homepage": "https://gitlab.gnome.org/GNOME/libgtop"
   },
@@ -8413,7 +8419,7 @@
   },
   {
     "Package": "libtermkey",
-    "Version": "0.22-4",
+    "Version": "0.22-5",
     "Description": "Library for processing of keyboard entry for terminal-based programs",
     "Homepage": "http://www.leonerd.org.uk/code/libtermkey/"
   },
@@ -9037,13 +9043,13 @@
   },
   {
     "Package": "libxext",
-    "Version": "1.3.6-1",
+    "Version": "1.3.7",
     "Description": "X11 miscellaneous extensions library",
     "Homepage": "https://xorg.freedesktop.org/"
   },
   {
     "Package": "libxext-static",
-    "Version": "1.3.6-1",
+    "Version": "1.3.7",
     "Description": "Static libraries for libxext",
     "Homepage": "https://xorg.freedesktop.org/"
   },
@@ -13189,7 +13195,7 @@
   },
   {
     "Package": "rust",
-    "Version": "1.92.0",
+    "Version": "1.93.0",
     "Description": "Systems programming language focused on safety, speed and concurrency",
     "Homepage": "https://www.rust-lang.org/"
   },
@@ -13207,73 +13213,73 @@
   },
   {
     "Package": "rust-docs",
-    "Version": "1.92.0",
+    "Version": "1.93.0",
     "Description": "Rust documentation",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-src",
-    "Version": "1.92.0",
+    "Version": "1.93.0",
     "Description": "Rust source code files",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-aarch64-linux-android",
-    "Version": "1.92.0",
+    "Version": "1.93.0",
     "Description": "Rust std for target aarch64-linux-android",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-armv7-linux-androideabi",
-    "Version": "1.92.0",
+    "Version": "1.93.0",
     "Description": "Rust std for target armv7-linux-androideabi",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-i686-linux-android",
-    "Version": "1.92.0",
+    "Version": "1.93.0",
     "Description": "Rust std for target i686-linux-android",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-wasm32-unknown-unknown",
-    "Version": "1.92.0",
+    "Version": "1.93.0",
     "Description": "Rust std for target wasm32-unknown-unknown",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-wasm32-wasip1",
-    "Version": "1.92.0",
+    "Version": "1.93.0",
     "Description": "Rust std for target wasm32-wasip1",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-wasm32-wasip2",
-    "Version": "1.92.0",
+    "Version": "1.93.0",
     "Description": "Rust std for target wasm32-wasip2",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-wasm32-wasip3",
-    "Version": "1.92.0",
+    "Version": "1.93.0",
     "Description": "Rust std for target wasm32-wasip3",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-x86-64-linux-android",
-    "Version": "1.92.0",
+    "Version": "1.93.0",
     "Description": "Rust std for target x86_64-linux-android",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rustc-dev",
-    "Version": "1.92.0",
+    "Version": "1.93.0",
     "Description": "Rust compiler development libs",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rustc-src",
-    "Version": "1.92.0",
+    "Version": "1.93.0",
     "Description": "Rust compiler source code files",
     "Homepage": "https://www.rust-lang.org/"
   },
@@ -15457,7 +15463,7 @@
   },
   {
     "Package": "vis",
-    "Version": "0.9-6",
+    "Version": "0.9-p20250111-0",
     "Description": "Modern, legacy free, simple yet efficient vim-like editor",
     "Homepage": "https://www.brain-dump.org/projects/vis/"
   },
