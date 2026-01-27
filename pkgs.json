@@ -6805,13 +6805,13 @@
   },
   {
     "Package": "liblmdb",
-    "Version": "0.9.33-1",
+    "Version": "0.9.34",
     "Description": "LMDB implements a simplified variant of the BerkeleyDB (BDB) API",
     "Homepage": "https://symas.com/lmdb/"
   },
   {
     "Package": "liblmdb-static",
-    "Version": "0.9.33-1",
+    "Version": "0.9.34",
     "Description": "Static libraries for liblmdb",
     "Homepage": "https://symas.com/lmdb/"
   },
@@ -8017,13 +8017,13 @@
   },
   {
     "Package": "libsecp256k1",
-    "Version": "1:0.7.0-2",
+    "Version": "1:0.7.1",
     "Description": "Optimized c library for ECDSA signatures and seret/public key operations on curve secp256k1",
     "Homepage": "https://github.com/bitcoin-core/secp256k1"
   },
   {
     "Package": "libsecp256k1-static",
-    "Version": "1:0.7.0-2",
+    "Version": "1:0.7.1",
     "Description": "Static libraries for libsecp256k1",
     "Homepage": "https://github.com/bitcoin-core/secp256k1"
   },
@@ -8767,7 +8767,7 @@
   },
   {
     "Package": "libvigra",
-    "Version": "1.12.2-4",
+    "Version": "1.12.3",
     "Description": "Computer vision library",
     "Homepage": "https://ukoethe.github.io/vigra/"
   },
@@ -10285,7 +10285,7 @@
   },
   {
     "Package": "moor",
-    "Version": "2.10.2",
+    "Version": "2.10.3",
     "Description": "A pager designed to just do the right thing without any configuration",
     "Homepage": "https://github.com/walles/moor"
   },
@@ -11485,7 +11485,7 @@
   },
   {
     "Package": "par2",
-    "Version": "1.0.0-1",
+    "Version": "1.1.0",
     "Description": "par2cmdline is a PAR 2.0 compatible file verification and repair tool",
     "Homepage": "https://github.com/Parchive/par2cmdline"
   },
@@ -12745,7 +12745,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "4.27.2",
+    "Version": "4.27.3",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -14179,7 +14179,7 @@
   },
   {
     "Package": "swi-prolog",
-    "Version": "10.1.1-1",
+    "Version": "10.1.2",
     "Description": "Most popular and complete prolog implementation",
     "Homepage": "https://swi-prolog.org/"
   },

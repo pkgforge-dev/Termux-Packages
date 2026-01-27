@@ -1144,8 +1144,8 @@
 | **libliquid-dsp-static** | 1.7.0-1 | Static libraries for libliquid-dsp | https://liquidsdr.org/ |
 | **libllvm** | 21.1.8 | Modular compiler and toolchain technologies library | https://clang.llvm.org/ |
 | **libllvm-static** | 21.1.8 | Static libraries for libllvm | https://clang.llvm.org/ |
-| **liblmdb** | 0.9.33-1 | LMDB implements a simplified variant of the BerkeleyDB (BDB) API | https://symas.com/lmdb/ |
-| **liblmdb-static** | 0.9.33-1 | Static libraries for liblmdb | https://symas.com/lmdb/ |
+| **liblmdb** | 0.9.34 | LMDB implements a simplified variant of the BerkeleyDB (BDB) API | https://symas.com/lmdb/ |
+| **liblmdb-static** | 0.9.34 | Static libraries for liblmdb | https://symas.com/lmdb/ |
 | **liblo** | 0.34 | A lightweight library that provides an easy to use implementation of the OSC protocol | https://liblo.sourceforge.net/ |
 | **liblo-static** | 0.34 | Static libraries for liblo | https://liblo.sourceforge.net/ |
 | **liblog4c** | 1.2.4-2 | A C library for flexible logging to files, syslog and other destinations | https://log4c.sourceforge.net/ |
@@ -1346,8 +1346,8 @@
 | **libseat** | 0.9.2 | Reference implementation of a wayland compositor | https://sr.ht/~kennylevinsen/seatd/ |
 | **libseccomp** | 2.6.0 | Enhanced seccomp library | https://github.com/seccomp/libseccomp |
 | **libseccomp-static** | 2.6.0 | Static libraries for libseccomp | https://github.com/seccomp/libseccomp |
-| **libsecp256k1** | 1:0.7.0-2 | Optimized c library for ECDSA signatures and seret/public key operations on curve secp256k1 | https://github.com/bitcoin-core/secp256k1 |
-| **libsecp256k1-static** | 1:0.7.0-2 | Static libraries for libsecp256k1 | https://github.com/bitcoin-core/secp256k1 |
+| **libsecp256k1** | 1:0.7.1 | Optimized c library for ECDSA signatures and seret/public key operations on curve secp256k1 | https://github.com/bitcoin-core/secp256k1 |
+| **libsecp256k1-static** | 1:0.7.1 | Static libraries for libsecp256k1 | https://github.com/bitcoin-core/secp256k1 |
 | **libsecret** | 0.21.7-3 | A GObject-based library for accessing the Secret Service API | https://gitlab.gnome.org/GNOME/libsecret |
 | **libsfdo** | 0.1.4-1 | A collection of libraries which implement some of the freedesktop.org specifications. | https://gitlab.freedesktop.org/vyivel/libsfdo |
 | **libshout** | 2.4.6-2 | Library which can be used to write a source client like ices. | https://icecast.org/ |
@@ -1471,7 +1471,7 @@
 | **libvbisam** | 2.0-3 | A replacement for IBM's C-ISAM | https://sourceforge.net/projects/vbisam/ |
 | **libvbisam-static** | 2.0-3 | Static libraries for libvbisam | https://sourceforge.net/projects/vbisam/ |
 | **libvidstab** | 1.1.1-3 | video stabilization library | https://github.com/georgmartius/vid.stab |
-| **libvigra** | 1.12.2-4 | Computer vision library | https://ukoethe.github.io/vigra/ |
+| **libvigra** | 1.12.3 | Computer vision library | https://ukoethe.github.io/vigra/ |
 | **libvips** | 8.18.0-1 | A fast image processing library with low memory needs | https://libvips.github.io/libvips/ |
 | **libvmaf** | 3.0.0-2 | A perceptual video quality assessment algorithm developed by Netflix | https://github.com/Netflix/vmaf |
 | **libvmaf-static** | 3.0.0-2 | Static libraries for libvmaf | https://github.com/Netflix/vmaf |
@@ -1724,7 +1724,7 @@
 | **mono-static** | 6.14.1-2 | Static libraries for mono | https://gitlab.winehq.org/mono/mono |
 | **monolith** | 2.10.1-1 | CLI tool for saving complete web pages as a single HTML file | https://github.com/Y2Z/monolith |
 | **moon-buggy** | 1.0.51-6 | Simple game where you drive a car across the moon's surface | https://github.com/seehuhn/moon-buggy |
-| **moor** | 2.10.2 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moor |
+| **moor** | 2.10.3 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moor |
 | **mop** | 2025.03.17-1 | Stock market tracker | https://github.com/mop-tracker/mop |
 | **moreutils** | 0.70-1 | A growing collection of the unix tools that nobody thought to write thirty years ago | https://joeyh.name/code/moreutils/ |
 | **moria** | 5.7.15-7 | Rogue-like game with an infinite dungeon | https://umoria.org |
@@ -1924,7 +1924,7 @@
 | **panda3d-static** | 1.10.16 | Static libraries for panda3d | https://www.panda3d.org/ |
 | **pango** | 1.57.0 | Library for laying out and rendering text | https://www.gtk.org/docs/architecture/pango |
 | **paperkey** | 1.6-1 | Archive OpenPGP keys on paper | http://www.jabberwocky.com/software/paperkey/ |
-| **par2** | 1.0.0-1 | par2cmdline is a PAR 2.0 compatible file verification and repair tool | https://github.com/Parchive/par2cmdline |
+| **par2** | 1.1.0 | par2cmdline is a PAR 2.0 compatible file verification and repair tool | https://github.com/Parchive/par2cmdline |
 | **parallel** | 20251222 | GNU Parallel is a shell tool for executing jobs in parallel using one or more machines | https://www.gnu.org/software/parallel/ |
 | **pari** | 2.17.3 | A computer algebra system designed for fast computations in number theory | https://pari.math.u-bordeaux.fr/ |
 | **pari-static** | 2.17.3 | Static libraries for pari | https://pari.math.u-bordeaux.fr/ |
@@ -2134,7 +2134,7 @@
 | **rage** | 0.11.1-1 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4-1 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4-1 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
-| **railway-cli** | 4.27.2 | This is the command line interface for Railway | https://railway.app |
+| **railway-cli** | 4.27.3 | This is the command line interface for Railway | https://railway.app |
 | **range-v3** | 0.12.0 | Range library for C++14/17/20, basis for C++20's std::ranges | https://github.com/ericniebler/range-v3 |
 | **ranger** | 1.9.4 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-7 | Fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |
@@ -2373,7 +2373,7 @@
 | **surfraw** | 2.3.0-10 | Shell Users' Revolutionary Front Rage Against the Web | https://gitlab.com/surfraw/Surfraw |
 | **svt-av1** | 4.0.0 | Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder) | https://gitlab.com/AOMediaCodec/SVT-AV1 |
 | **swaks** | 20240103.0 | Swiss Army Knife for SMTP | http://jetmore.org/john/code/swaks/ |
-| **swi-prolog** | 10.1.1-1 | Most popular and complete prolog implementation | https://swi-prolog.org/ |
+| **swi-prolog** | 10.1.2 | Most popular and complete prolog implementation | https://swi-prolog.org/ |
 | **swift-runtime-aarch64** | 6.2.1 | Swift runtime libraries for Android AArch64 | https://swift.org/ |
 | **swift-runtime-arm** | 6.2.1 | Swift runtime libraries for Android armv7 | https://swift.org/ |
 | **swift-runtime-x86-64** | 6.2.1 | Swift runtime libraries for Android x86_64 | https://swift.org/ |

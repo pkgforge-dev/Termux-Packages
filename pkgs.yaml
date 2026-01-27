@@ -4535,11 +4535,11 @@
   Description: Static libraries for libllvm
   Homepage: https://clang.llvm.org/
 - Package: liblmdb
-  Version: 0.9.33-1
+  Version: 0.9.34
   Description: LMDB implements a simplified variant of the BerkeleyDB (BDB) API
   Homepage: https://symas.com/lmdb/
 - Package: liblmdb-static
-  Version: 0.9.33-1
+  Version: 0.9.34
   Description: Static libraries for liblmdb
   Homepage: https://symas.com/lmdb/
 - Package: liblo
@@ -5343,11 +5343,11 @@
   Description: Static libraries for libseccomp
   Homepage: https://github.com/seccomp/libseccomp
 - Package: libsecp256k1
-  Version: 1:0.7.0-2
+  Version: 1:0.7.1
   Description: Optimized c library for ECDSA signatures and seret/public key operations on curve secp256k1
   Homepage: https://github.com/bitcoin-core/secp256k1
 - Package: libsecp256k1-static
-  Version: 1:0.7.0-2
+  Version: 1:0.7.1
   Description: Static libraries for libsecp256k1
   Homepage: https://github.com/bitcoin-core/secp256k1
 - Package: libsecret
@@ -5843,7 +5843,7 @@
   Description: video stabilization library
   Homepage: https://github.com/georgmartius/vid.stab
 - Package: libvigra
-  Version: 1.12.2-4
+  Version: 1.12.3
   Description: Computer vision library
   Homepage: https://ukoethe.github.io/vigra/
 - Package: libvips
@@ -6855,7 +6855,7 @@
   Description: Simple game where you drive a car across the moons surface
   Homepage: https://github.com/seehuhn/moon-buggy
 - Package: moor
-  Version: 2.10.2
+  Version: 2.10.3
   Description: A pager designed to just do the right thing without any configuration
   Homepage: https://github.com/walles/moor
 - Package: mop
@@ -7655,7 +7655,7 @@
   Description: Archive OpenPGP keys on paper
   Homepage: http://www.jabberwocky.com/software/paperkey/
 - Package: par2
-  Version: 1.0.0-1
+  Version: 1.1.0
   Description: par2cmdline is a PAR 2.0 compatible file verification and repair tool
   Homepage: https://github.com/Parchive/par2cmdline
 - Package: parallel
@@ -8495,7 +8495,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 4.27.2
+  Version: 4.27.3
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
@@ -9451,7 +9451,7 @@
   Description: Swiss Army Knife for SMTP
   Homepage: http://jetmore.org/john/code/swaks/
 - Package: swi-prolog
-  Version: 10.1.1-1
+  Version: 10.1.2
   Description: Most popular and complete prolog implementation
   Homepage: https://swi-prolog.org/
 - Package: swift-runtime-aarch64
