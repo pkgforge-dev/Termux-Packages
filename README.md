@@ -450,7 +450,7 @@
 | **exercism** | 3.5.8 | A Go based command line tool for exercism.io | https://github.com/exercism/cli/ |
 | **exfatprogs** | 1.3.1 | exFAT filesystem userspace utilities | https://github.com/exfatprogs/exfatprogs |
 | **exhale** | 1.2.2RC+really1.2.2 | Open source xHE-AAC encoder | https://gitlab.com/ecodis/exhale |
-| **exiftool** | 13.46 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
+| **exiftool** | 13.47 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
 | **exiv2** | 2:0.28.7 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **expect** | 5.45.4-4 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
 | **eza** | 0.23.4 | A modern replacement for ls | https://github.com/eza-community/eza |
@@ -1896,9 +1896,9 @@
 | **openscad** | 2021.01-6 | The programmers solid 3D CAD modeller (headless build) | https://openscad.org/ |
 | **openssh** | 10.2p1 | Secure shell for logging into a remote machine | https://www.openssh.com/ |
 | **openssh-sftp-server** | 10.2p1 | OpenSSH SFTP server subsystem | https://www.openssh.com/ |
-| **openssl** | 1:3.6.0 | Library implementing the SSL and TLS protocols as well as general purpose cryptography functions | https://www.openssl.org/ |
-| **openssl-static** | 1:3.6.0 | Static libraries for openssl | https://www.openssl.org/ |
-| **openssl-tool** | 1:3.6.0 | The openssl command line cryptographic tool | https://www.openssl.org/ |
+| **openssl** | 1:3.6.1 | Library implementing the SSL and TLS protocols as well as general purpose cryptography functions | https://www.openssl.org/ |
+| **openssl-static** | 1:3.6.1 | Static libraries for openssl | https://www.openssl.org/ |
+| **openssl-tool** | 1:3.6.1 | The openssl command line cryptographic tool | https://www.openssl.org/ |
 | **opentimelineio** | 0.18.1 | Open Source API and interchange format for editorial timeline information. | http://opentimeline.io/ |
 | **openxr** | 1.1.54 | Open standard that provides a common set of APIs for developing XR applications | https://www.khronos.org/openxr/ |
 | **optipng** | 7.9.1-1 | PNG optimizer that recompresses image files to a smaller size, without losing any information | https://optipng.sourceforge.net/ |
@@ -2061,7 +2061,7 @@
 | **python-brotli** | 1.2.0 | lossless compression algorithm and format (Python bindings) | https://github.com/google/brotli |
 | **python-cmake** | 4.2.1-1 | Python wrapper for CMake | https://cmake-python-distributions.readthedocs.io/ |
 | **python-contourpy** | 1.3.3-2 | Python library for calculating contours in 2D quadrilateral grids | https://contourpy.readthedocs.io/ |
-| **python-cryptography** | 46.0.3-1 | Provides cryptographic recipes and primitives to Python developers | https://github.com/pyca/cryptography |
+| **python-cryptography** | 46.0.4 | Provides cryptographic recipes and primitives to Python developers | https://github.com/pyca/cryptography |
 | **python-ensurepip-wheels** | 3.12.12-1 | Wheels for Python ensurepip | https://python.org/ |
 | **python-greenlet** | 3.3.1 | Lightweight coroutines for in-process concurrent programming | https://github.com/python-greenlet/greenlet |
 | **python-grpcio** | 1.76.0-3 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
@@ -2134,7 +2134,7 @@
 | **rage** | 0.11.1-1 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4-1 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4-1 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
-| **railway-cli** | 4.27.3 | This is the command line interface for Railway | https://railway.app |
+| **railway-cli** | 4.27.4 | This is the command line interface for Railway | https://railway.app |
 | **range-v3** | 0.12.0 | Range library for C++14/17/20, basis for C++20's std::ranges | https://github.com/ericniebler/range-v3 |
 | **ranger** | 1.9.4 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-7 | Fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |
