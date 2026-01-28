@@ -254,8 +254,8 @@
 | **cloudflared** | 2026.1.2 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
 | **clpeak** | 1.1.5 | A tool which profiles OpenCL devices to find their peak capacities | https://github.com/krrishnarraj/clpeak |
 | **clvk** | 0.0.20260111.144039 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
-| **cmake** | 4.2.2 | Family of tools designed to build, test and package software | https://cmake.org/ |
-| **cmake-curses-gui** | 4.2.2 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
+| **cmake** | 4.2.3 | Family of tools designed to build, test and package software | https://cmake.org/ |
+| **cmake-curses-gui** | 4.2.3 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
 | **cmark** | 0.31.1-1 | CommonMark parsing and rendering program | https://github.com/commonmark/cmark |
 | **cmark-static** | 0.31.1-1 | Static libraries for cmark | https://github.com/commonmark/cmark |
 | **cmatrix** | 2.0-1 | Command producing a Matrix-style animation | https://github.com/abishekvashok/cmatrix |
@@ -674,7 +674,7 @@
 | **gst-plugins-good** | 1.26.10 | GStreamer Good Plug-ins | https://gstreamer.freedesktop.org/ |
 | **gst-plugins-ugly** | 1.26.10 | GStreamer Ugly Plug-ins | https://gstreamer.freedesktop.org/ |
 | **gst-python** | 1.26.10 | Python bindings for GStreamer | https://gstreamer.freedesktop.org/ |
-| **gstreamer** | 1.26.10 | Open source multimedia framework | https://gstreamer.freedesktop.org/ |
+| **gstreamer** | 1.28.0 | Open source multimedia framework | https://gstreamer.freedesktop.org/ |
 | **gtypist** | 2.10.1-1 | Universal typing tutor | https://www.gnu.org/software/gtypist/ |
 | **guile** | 3.0.11-1 | Portable, embeddable Scheme implementation written in C | http://www.gnu.org/software/guile/ |
 | **guile-static** | 3.0.11-1 | Static libraries for guile | http://www.gnu.org/software/guile/ |
