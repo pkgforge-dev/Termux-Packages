@@ -499,7 +499,7 @@
  freetype  2.14.1  Software font engine capable of producing high-quality output  https://www.freetype.org 
  freetype-static  2.14.1  Static libraries for freetype  https://www.freetype.org 
  frei0r-plugins  2.5.1-1  Minimalistic plugin API for video effects  https://www.dyne.org/software/frei0r/ 
- fresh-editor  0.1.93  Text editor for your terminal: easy, powerful and fast  https://getfresh.dev/ 
+ fresh-editor  0.1.94  Text editor for your terminal: easy, powerful and fast  https://getfresh.dev/ 
  fribidi  1.0.16-1  Implementation of the Unicode Bidirectional Algorithm  https://github.com/fribidi/fribidi/ 
  fribidi-static  1.0.16-1  Static libraries for fribidi  https://github.com/fribidi/fribidi/ 
  frobtads  2.0-5  TADS is a free authoring system for writing your own Interactive Fiction  http://www.tads.org/frobtads.htm 
@@ -710,7 +710,7 @@
  httrack-data  3.49.6-1  Platform-independent data for httrack  http://www.httrack.com 
  httrack-static  3.49.6-1  Static libraries for httrack  http://www.httrack.com 
  hub  2.14.2-6  Command-line wrapper for git that makes you better at GitHub  https://hub.github.com/ 
- hugo  0.154.5  A fast and flexible static site generator  https://gohugo.io/ 
+ hugo  0.155.0  A fast and flexible static site generator  https://gohugo.io/ 
  hummin  2021.05.18-4  Command line client for the imperial library of trantor  https://trantor.is/ 
  hunspell  1.7.2-1  Spell checker  https://hunspell.github.io 
  hunspell-en-us  20240129  American english dictionary for hunspell  https://hunspell.github.io 
@@ -1844,7 +1844,7 @@
  okc-agents  0.1.2-2  OpenKeychain agents for GnuPG and OpenSSH  https://github.com/DDoSolitary/okc-agents 
  ol  2.6-3  Purely functional dialect of Lisp  https://yuriy-chumak.github.io/ol/ 
  oleo  1.99.16-10  The GNU Spreadsheet  https://www.gnu.org/software/oleo/ 
- oma  1.23.3  oma is an attempt at reworking APT's interface  https://aosc.io/oma 
+ oma  1.23.4  oma is an attempt at reworking APT's interface  https://aosc.io/oma 
  onefetch  2.26.1  A command-line Git information tool written in Rust  https://onefetch.dev/ 
  onigmo  6.2.0-1  A regular expressions library forked from Oniguruma  https://github.com/k-takata/Onigmo 
  onigmo-static  6.2.0-1  Static libraries for onigmo  https://github.com/k-takata/Onigmo 
@@ -2040,7 +2040,7 @@
  pypy3  7.3.20  A fast, compliant alternative implementation of Python 3  https://pypy.org 
  pypy3-tests  7.3.20  Test files for PyPy 3  https://pypy.org 
  pypy3-tkinter  7.3.20  Tkinter support for PyPy 3  https://pypy.org 
- pyrefly  0.49.0  A fast type checker and language server for Python  https://github.com/facebook/pyrefly.git 
+ pyrefly  0.50.0  A fast type checker and language server for Python  https://github.com/facebook/pyrefly.git 
  pystring  1.1.4-1  C++ functions matching the interface and behavior of python string methods with std::string  https://github.com/imageworks/pystring 
  python  3.12.12-1  Python 3 programming language intended to enable clear programs  https://python.org/ 
  python-apsw  3.51.2.0  Another Python SQLite Wrapper  https://rogerbinns.github.io/apsw/ 
@@ -2235,7 +2235,7 @@
  sdcv  0.5.5-2  StarDict Console Version  http://dushistov.github.io/sdcv/ 
  seafile-client  9.0.16-1  Seafile is a file syncing and sharing software with file encryption and group sharing  https://seafile.com 
  seafile-client-static  9.0.16-1  Static libraries for seafile-client  https://seafile.com 
- seanime  3.4.1  Self-hosted anime and manga server for sea rovers.  https://github.com/5rahim/seanime 
+ seanime  3.4.2  Self-hosted anime and manga server for sea rovers.  https://github.com/5rahim/seanime 
  seccure  0.5-8  SECCURE Elliptic Curve Crypto Utility for Reliable Encryption  http://point-at-infinity.org/seccure/ 
  secure-delete  3.1-6  Secure file, disk, swap, memory erasure utilities  https://www.thc.org/ 
  sed  4.9-2  GNU stream editor for filtering/transforming text  https://www.gnu.org/software/sed/ 
@@ -2464,7 +2464,7 @@
  tracepath  20250605-1  Tool to trace the network path to a remote host  https://github.com/iputils/iputils 
  traceroute  2.1.6-1  A new modern implementation of traceroute(8) utility for Linux systems  https://traceroute.sourceforge.net/ 
  translate-shell  0.9.7.1  Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.  https://www.soimort.org/translate-shell 
- transmission  4.0.6-5  Easy, lean and powerful BitTorrent client  https://transmissionbt.com/ 
+ transmission  4.1.0  Easy, lean and powerful BitTorrent client  https://transmissionbt.com/ 
  tree  2.2.1-1  Recursive directory lister producing a depth indented listing of files  http://mama.indstate.edu/users/ice/tree/ 
  tree-sitter  0.25.10-1  An incremental parsing system for programming tools  https://tree-sitter.github.io/ 
  tree-sitter-c  0.24.1-4  C grammar for tree-sitter  https://github.com/tree-sitter/tree-sitter-c 
