@@ -2187,11 +2187,11 @@
   Description: Additional utilities for Geth (like abigen, bootnode, evm, puppeth)
   Homepage: https://geth.ethereum.org/
 - Package: gettext
-  Version: 0.26-1
+  Version: "1.0"
   Description: GNU Internationalization utilities
   Homepage: https://www.gnu.org/software/gettext/
 - Package: gettext-static
-  Version: 0.26-1
+  Version: "1.0"
   Description: Static libraries for gettext
   Homepage: https://www.gnu.org/software/gettext/
 - Package: gexiv2
@@ -2555,7 +2555,7 @@
   Description: GPS file conversion plus transfer to/from GPS units
   Homepage: https://www.gpsbabel.org/
 - Package: gradle
-  Version: 1:9.3.0
+  Version: 1:9.3.1
   Description: Powerful build system for the JVM
   Homepage: https://gradle.org/
 - Package: grafana
@@ -8327,7 +8327,7 @@
   Description: The Python X Library
   Homepage: https://github.com/python-xlib/python-xlib
 - Package: python-yt-dlp
-  Version: 2025.12.08-2
+  Version: 2026.01.29
   Description: A youtube-dl fork with additional features and fixes
   Homepage: https://github.com/yt-dlp/yt-dlp
 - Package: python2
@@ -9767,7 +9767,7 @@
   Description: Find build artifacts that are taking up disk space
   Homepage: https://github.com/vmchale/tin-summer
 - Package: tintin++
-  Version: 2.02.60
+  Version: 2.02.61
   Description: Classic text-based MUD client
   Homepage: https://tintin.mudhalla.net
 - Package: tinyfugue

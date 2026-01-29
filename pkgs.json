@@ -3283,13 +3283,13 @@
   },
   {
     "Package": "gettext",
-    "Version": "0.26-1",
+    "Version": "1.0",
     "Description": "GNU Internationalization utilities",
     "Homepage": "https://www.gnu.org/software/gettext/"
   },
   {
     "Package": "gettext-static",
-    "Version": "0.26-1",
+    "Version": "1.0",
     "Description": "Static libraries for gettext",
     "Homepage": "https://www.gnu.org/software/gettext/"
   },
@@ -3835,7 +3835,7 @@
   },
   {
     "Package": "gradle",
-    "Version": "1:9.3.0",
+    "Version": "1:9.3.1",
     "Description": "Powerful build system for the JVM",
     "Homepage": "https://gradle.org/"
   },
@@ -12493,7 +12493,7 @@
   },
   {
     "Package": "python-yt-dlp",
-    "Version": "2025.12.08-2",
+    "Version": "2026.01.29",
     "Description": "A youtube-dl fork with additional features and fixes",
     "Homepage": "https://github.com/yt-dlp/yt-dlp"
   },
@@ -14653,7 +14653,7 @@
   },
   {
     "Package": "tintin++",
-    "Version": "2.02.60",
+    "Version": "2.02.61",
     "Description": "Classic text-based MUD client",
     "Homepage": "https://tintin.mudhalla.net"
   },
