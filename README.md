@@ -120,7 +120,7 @@
 | **avra** | 1.4.2-1 | Assember for the Atmel AVR microcontroller family | https://github.com/Ro5bert/avra |
 | **await** | 2.4.0 | Runs list of commands in parallel and waits for their termination | https://github.com/slavaGanzin/await |
 | **awesomeshot** | 1.1.0-1 | A command-line screenshot tool written in bash | https://github.com/mayTermux/awesomeshot |
-| **awscli** | 2.33.9 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
+| **awscli** | 2.33.10 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
 | **axel** | 2.17.14-1 | light command line download accelerator | https://github.com/axel-download-accelerator/axel |
 | **b3sum** | 1.8.3 | A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum | https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum |
 | **babl** | 0.1.122 | Dynamic pixel format translation library | https://gegl.org/babl/ |
@@ -511,7 +511,7 @@
 | **freetype** | 2.14.1 | Software font engine capable of producing high-quality output | https://www.freetype.org |
 | **freetype-static** | 2.14.1 | Static libraries for freetype | https://www.freetype.org |
 | **frei0r-plugins** | 2.5.1-1 | Minimalistic plugin API for video effects | https://www.dyne.org/software/frei0r/ |
-| **fresh-editor** | 0.1.95 | Text editor for your terminal: easy, powerful and fast | https://getfresh.dev/ |
+| **fresh-editor** | 0.1.97 | Text editor for your terminal: easy, powerful and fast | https://getfresh.dev/ |
 | **fribidi** | 1.0.16-1 | Implementation of the Unicode Bidirectional Algorithm | https://github.com/fribidi/fribidi/ |
 | **fribidi-static** | 1.0.16-1 | Static libraries for fribidi | https://github.com/fribidi/fribidi/ |
 | **frobtads** | 2.0-5 | TADS is a free authoring system for writing your own Interactive Fiction | http://www.tads.org/frobtads.htm |
