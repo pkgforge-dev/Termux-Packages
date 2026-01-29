@@ -63,7 +63,7 @@
 | **apache2** | 1:2.4.66 | Apache Web Server | https://httpd.apache.org |
 | **apkeep** | 0.18.0 | A command-line tool for downloading APK files from various sources | https://github.com/EFForg/apkeep |
 | **apksigner** | 33.0.1-1 | APK signing tool from Android SDK | https://developer.android.com/studio/command-line/apksigner |
-| **appstream** | 1.1.1 | Provides a standard for creating app stores across distributions | https://www.freedesktop.org/wiki/Distributions/AppStream/ |
+| **appstream** | 1.1.2 | Provides a standard for creating app stores across distributions | https://www.freedesktop.org/wiki/Distributions/AppStream/ |
 | **apr** | 1.7.6-2 | Apache Portable Runtime Library | https://apr.apache.org/ |
 | **apr-static** | 1.7.6-2 | Static libraries for apr | https://apr.apache.org/ |
 | **apr-util** | 1.6.3-3 | Apache Portable Runtime Utility Library | https://apr.apache.org/ |
