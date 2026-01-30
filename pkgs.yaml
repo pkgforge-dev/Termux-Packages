@@ -2855,7 +2855,7 @@
   Description: Command-line wrapper for git that makes you better at GitHub
   Homepage: https://hub.github.com/
 - Package: hugo
-  Version: 0.155.0
+  Version: 0.155.1
   Description: A fast and flexible static site generator
   Homepage: https://gohugo.io/
 - Package: hummin
@@ -3287,7 +3287,7 @@
   Description: The Kotlin Programming Language
   Homepage: https://kotlinlang.org/
 - Package: krb5
-  Version: 1.22.1-1
+  Version: 1.22.2
   Description: The Kerberos network authentication system
   Homepage: https://web.mit.edu/kerberos
 - Package: kubecolor
@@ -6455,7 +6455,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.25.0
+  Version: 0.25.1
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://nvim-neorocks.github.io/
 - Package: lv2
@@ -7511,11 +7511,11 @@
   Description: Command-line tools using the JPEG 2000 library
   Homepage: https://www.openjpeg.org/
 - Package: openldap
-  Version: 2.6.10-1
+  Version: 2.6.12
   Description: OpenLDAP server
   Homepage: https://openldap.org
 - Package: openldap-static
-  Version: 2.6.10-1
+  Version: 2.6.12
   Description: Static libraries for openldap
   Homepage: https://openldap.org
 - Package: openlist
@@ -9087,7 +9087,7 @@
   Description: A simple heat transfer simulator in pure Rust
   Homepage: https://github.com/file-acomplaint/simuwaerm
 - Package: sing-box
-  Version: 1.12.17
+  Version: 1.12.18
   Description: The universal proxy platform
   Homepage: https://sing-box.sagernet.org
 - Package: skate
@@ -9379,7 +9379,7 @@
   Description: A TCP/IP repeater in the application layer
   Homepage: https://www.gcd.org/sengoku/stone/
 - Package: storj-uplink
-  Version: 1.146.5
+  Version: 1.146.6
   Description: Storj DCS Uplink CLI
   Homepage: https://www.storj.io/integrations/uplink-cli
 - Package: stow
