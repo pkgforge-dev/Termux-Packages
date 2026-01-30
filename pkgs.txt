@@ -420,7 +420,7 @@
  eltclsh  1.20-1  Interactive shell for TCL programming language  https://homepages.laas.fr/mallet/soft/shell/eltclsh 
  elvish  0.21.0-1  A friendly and expressive Unix shell  https://github.com/elves/elvish 
  emacs  30.2  Extensible, customizable text editor-and more  https://www.gnu.org/software/emacs/ 
- emmylua-ls  0.19.0  Emmy Lua Language Server coded in Rust  https://github.com/EmmyLuaLs/emmylua-analyzer-rust 
+ emmylua-ls  0.20.0  Emmy Lua Language Server coded in Rust  https://github.com/EmmyLuaLs/emmylua-analyzer-rust 
  emscripten  5.0.0  Emscripten: An LLVM-to-WebAssembly Compiler  https://emscripten.org 
  emscripten-binaryen  5.0.0  Emscripten-compatible Binaryen  https://emscripten.org 
  emscripten-llvm  5.0.0  Emscripten-compatible LLVM  https://emscripten.org 
@@ -652,7 +652,7 @@
  grex  1.4.6  Simplifies the task of creating regular expressions  https://github.com/pemistahl/grex 
  groff  1.23.0-2  typesetting system that reads plain text mixed with formatting commands and produces formatted output  https://www.gnu.org/software/groff/ 
  gron  0.7.1-4  Transforms JSON into discrete assignments  https://github.com/tomnomnom/gron 
- groonga  15.2.4  An embeddable fulltext search engine  https://github.com/groonga/groonga/ 
+ groonga  15.2.5  An embeddable fulltext search engine  https://github.com/groonga/groonga/ 
  groovy  4.0.26-4  A powerful multi-faceted programming language for the JVM platform  https://groovy-lang.org/ 
  gsasl  2.2.2-1  GNU SASL library command line interface  https://www.gnu.org/software/gsasl 
  gsf-tools  1.14.55  Command-line tools for libgsf  https://gitlab.gnome.org/GNOME/libgsf 
@@ -2343,7 +2343,7 @@
  stoken  0.93-3  Software Token for Linux/UNIX  https://github.com/cernekee/stoken 
  stoken-static  0.93-3  Static libraries for stoken  https://github.com/cernekee/stoken 
  stone  2.4-3  A TCP/IP repeater in the application layer  https://www.gcd.org/sengoku/stone/ 
- storj-uplink  1.146.6  Storj DCS Uplink CLI  https://www.storj.io/integrations/uplink-cli 
+ storj-uplink  1.146.7  Storj DCS Uplink CLI  https://www.storj.io/integrations/uplink-cli 
  stow  2.4.1  Tool for managing the installation of multiple software packages into a single directory  https://www.gnu.org/software/stow/ 
  strace  6.18  Debugging utility to monitor system calls and signals received  https://strace.io/ 
  streamripper  1.64.6-3  Records and splits streaming mp3 into tracks  https://streamripper.sourceforge.net/ 
@@ -2594,7 +2594,7 @@
  vulkan-icd  0.1  A metapackage that provides Vulkan ICDs  https://github.com/termux/termux-packages 
  vulkan-loader  0.0.3  A metapackage that provides vulkan loader library  https://github.com/termux/termux-packages 
  vulkan-loader-android  29  Vulkan Loader for Android  https://source.android.com/devices/graphics/arch-vulkan 
- vulkan-loader-generic  1.4.341  Vulkan Loader  https://github.com/KhronosGroup/Vulkan-Loader 
+ vulkan-loader-generic  1.4.342  Vulkan Loader  https://github.com/KhronosGroup/Vulkan-Loader 
  vulkan-tools  1.4.341  Vulkan Tools and Utilities  https://github.com/KhronosGroup/Vulkan-Tools 
  vulkan-utility-libraries  1.4.341  Utility Libraries for Vulkan  https://github.com/KhronosGroup/Vulkan-Utility-Libraries 
  vulkan-validation-layers  1.4.341  Vulkan Validation Layers  https://github.com/KhronosGroup/Vulkan-ValidationLayers 
