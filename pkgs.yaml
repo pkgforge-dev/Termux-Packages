@@ -2695,7 +2695,7 @@
   Description: Standard GNU file compression utilities
   Homepage: https://www.gnu.org/software/gzip/
 - Package: haproxy
-  Version: 3.3.1-1
+  Version: 3.3.2
   Description: The Reliable, High Performance TCP/HTTP Load Balancer
   Homepage: https://www.haproxy.org/
 - Package: harfbuzz
@@ -6447,7 +6447,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.24.2
+  Version: 0.25.0
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://nvim-neorocks.github.io/
 - Package: lv2
