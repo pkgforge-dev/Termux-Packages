@@ -606,6 +606,18 @@
     "Homepage": "https://aubio.org/"
   },
   {
+    "Package": "audiofile",
+    "Version": "0.3.6",
+    "Description": "Silicon Graphics Audio File Library",
+    "Homepage": "https://audiofile.68k.org/"
+  },
+  {
+    "Package": "audiofile-static",
+    "Version": "0.3.6",
+    "Description": "Static libraries for audiofile",
+    "Homepage": "https://audiofile.68k.org/"
+  },
+  {
     "Package": "autoconf",
     "Version": "2.72",
     "Description": "Creator of shell scripts to configure source code packages",
@@ -10950,6 +10962,12 @@
     "Homepage": "https://notmuchmail.org"
   },
   {
+    "Package": "npm",
+    "Version": "11.8.0",
+    "Description": "The package manager for JavaScript",
+    "Homepage": "https://docs.npmjs.com/cli/"
+  },
+  {
     "Package": "npush",
     "Version": "0.7-2",
     "Description": "Curses-based logic game similar to Sokoban and Boulder Dash",
@@ -12745,7 +12763,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "4.27.4",
+    "Version": "4.27.5",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -15535,7 +15553,7 @@
   },
   {
     "Package": "vulkan-headers",
-    "Version": "1.4.341",
+    "Version": "1.4.342",
     "Description": "Vulkan Header files and API registry",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Headers"
   },
