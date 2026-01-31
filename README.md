@@ -242,6 +242,7 @@
 | **chromaprint** | 1.6.0-1 | C library for generating audio fingerprints used by AcoustID (fpcalc tool) | https://acoustid.org/chromaprint |
 | **chrony** | 4.8 | chrony is an implementation of the Network Time Protocol (NTP) | https://chrony-project.org/ |
 | **ciso** | 1.0.2-2 | PSP ISO compression tool | https://github.com/jamie/ciso |
+| **cjson** | 1.7.19 | Ultralightweight JSON parser in ANSI C | https://github.com/DaveGamble/cJSON |
 | **ckermit** | 9.0.302-3 | A combined network and serial communication software package | https://www.kermitproject.org/ckermit.html |
 | **clamav** | 1.5.1 | Anti-virus toolkit for Unix | https://www.clamav.net/ |
 | **clamav-static** | 1.5.1 | Static libraries for clamav | https://www.clamav.net/ |
@@ -1191,7 +1192,7 @@
 | **libmnl-static** | 1.0.5-1 | Static libraries for libmnl | https://www.netfilter.org/projects/libmnl/ |
 | **libmodplug** | 0.8.9.1.r461-1 | The ModPlug mod file playing library | https://modplug-xmms.sourceforge.net/ |
 | **libmodplug-static** | 0.8.9.1.r461-1 | Static libraries for libmodplug | https://modplug-xmms.sourceforge.net/ |
-| **libmosquitto** | 2.0.22-3 | MQTT library | https://mosquitto.org/ |
+| **libmosquitto** | 2.1.0 | MQTT library | https://mosquitto.org/ |
 | **libmount** | 2.41.2-1 | Library for (un)mounting filesystems | https://en.wikipedia.org/wiki/Util-linux |
 | **libmp3lame** | 3.100-7 | High quality MPEG Audio Layer III (MP3) encoder | https://lame.sourceforge.io/ |
 | **libmp3lame-static** | 3.100-7 | Static libraries for libmp3lame | https://lame.sourceforge.io/ |
@@ -1733,7 +1734,7 @@
 | **morse2ascii** | 0.2.1-1 | A tool to decode the morse codes from a PCM WAV file as well as from text and RAW PCM files | https://packages.debian.org/sid/morse2ascii |
 | **mosh** | 1.4.0-16 | Mobile shell that supports roaming and intelligent local echo | https://mosh.org |
 | **mosh-perl** | 1.4.0-16 | The mosh Perl script | https://mosh.org |
-| **mosquitto** | 2.0.22-3 | MQTT version 3.1/3.1.1 compatible message broker and clients | https://mosquitto.org/ |
+| **mosquitto** | 2.1.0 | MQTT version 3.1/3.1.1 compatible message broker and clients | https://mosquitto.org/ |
 | **most** | 5.2.0-3 | A terminal pager similar to 'more' and 'less' | http://www.jedsoft.org/most/index.html |
 | **mount-utils** | 2.41.2-1 | Utilities for (un)mounting filesystems | https://en.wikipedia.org/wiki/Util-linux |
 | **mp3cat** | 0.5-2 | Copies a byte stream, skipping everything except mp3 frames with valid headers | https://tomclegg.ca/mp3cat |
@@ -2077,7 +2078,7 @@
 | **python-numpy-static** | 2.2.5-3 | Static libraries for python-numpy | https://numpy.org/ |
 | **python-onnxruntime** | 1.23.2 | Cross-platform, high performance ML inferencing and training accelerator | https://onnxruntime.ai/ |
 | **python-pillow** | 12.1.0-1 | Python Imaging Library | https://python-pillow.org/ |
-| **python-pip** | 25.3 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
+| **python-pip** | 26.0 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
 | **python-pyarrow** | 23.0.0 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
 | **python-pycryptodomex** | 3.23.0-2 | A self-contained Python package of low-level cryptographic primitives | https://www.pycryptodome.org/ |
 | **python-pynvim** | 0.6.0-1 | Python client for Neovim | https://github.com/neovim/pynvim |
@@ -2480,7 +2481,7 @@
 | **traceroute** | 2.1.6-1 | A new modern implementation of traceroute(8) utility for Linux systems | https://traceroute.sourceforge.net/ |
 | **translate-shell** | 0.9.7.1 | Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc. | https://www.soimort.org/translate-shell |
 | **transmission** | 4.1.0 | Easy, lean and powerful BitTorrent client | https://transmissionbt.com/ |
-| **tree** | 2.2.1-1 | Recursive directory lister producing a depth indented listing of files | http://mama.indstate.edu/users/ice/tree/ |
+| **tree** | 2.3.0 | Recursive directory lister producing a depth indented listing of files | http://mama.indstate.edu/users/ice/tree/ |
 | **tree-sitter** | 0.25.10-1 | An incremental parsing system for programming tools | https://tree-sitter.github.io/ |
 | **tree-sitter-c** | 0.24.1-4 | C grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-c |
 | **tree-sitter-lua** | 0.4.0-4 | Lua grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-lua |
@@ -2687,7 +2688,7 @@
 | **yazi** | 26.1.22-1 | Blazing fast terminal file manager written in Rust, based on async I/O | https://yazi-rs.github.io/ |
 | **yosys** | 0.61-1 | A framework for RTL synthesis tools | https://yosyshq.net/yosys/ |
 | **youtubedr** | 2.10.5 | Download youtube video in Golang | https://github.com/kkdai/youtube |
-| **yq** | 4.50.1 | A lightweight and portable command-line YAML, JSON and XML processor | https://mikefarah.gitbook.io/yq/ |
+| **yq** | 4.52.1 | A lightweight and portable command-line YAML, JSON and XML processor | https://mikefarah.gitbook.io/yq/ |
 | **yt-dlp-ejs** | 0.3.2-1 | External JavaScript for yt-dlp supporting many runtimes | https://github.com/yt-dlp/ejs |
 | **ytfzf** | 2.6.2 | A POSIX script that helps you find Youtube videos (without API) | https://github.com/pystardust/ytfzf |
 | **ytui-music** | 2.0.0-beta-4 | Youtube client in terminal for music | https://github.com/sudipghimire533/ytui-music |
