@@ -4043,11 +4043,11 @@
   Description: Static libraries for libexif
   Homepage: https://libexif.github.io/
 - Package: libexpat
-  Version: 2.7.3
+  Version: 2.7.4
   Description: XML parsing C library
   Homepage: https://libexpat.github.io/
 - Package: libexpat-static
-  Version: 2.7.3
+  Version: 2.7.4
   Description: Static libraries for libexpat
   Homepage: https://libexpat.github.io/
 - Package: libfann
@@ -7523,7 +7523,7 @@
   Description: Static libraries for openldap
   Homepage: https://openldap.org
 - Package: openlist
-  Version: 4.1.9
+  Version: 4.1.10
   Description: A file list program that supports multiple storage
   Homepage: https://oplist.org/
 - Package: openmpi
@@ -10799,7 +10799,7 @@
   Description: New zlib compatible compressor tools
   Homepage: https://github.com/google/zopfli
 - Package: zoxide
-  Version: 0.9.8-2
+  Version: 0.9.9
   Description: A faster way to navigate your filesystem
   Homepage: https://github.com/ajeetdsouza/zoxide
 - Package: zpaq

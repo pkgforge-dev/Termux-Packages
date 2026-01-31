@@ -1021,8 +1021,8 @@
 | **libevent** | 2.1.12-3 | Library that provides asynchronous event notification | https://libevent.org/ |
 | **libexif** | 0.6.25-1 | Library for reading and writing EXIF image metadata | https://libexif.github.io/ |
 | **libexif-static** | 0.6.25-1 | Static libraries for libexif | https://libexif.github.io/ |
-| **libexpat** | 2.7.3 | XML parsing C library | https://libexpat.github.io/ |
-| **libexpat-static** | 2.7.3 | Static libraries for libexpat | https://libexpat.github.io/ |
+| **libexpat** | 2.7.4 | XML parsing C library | https://libexpat.github.io/ |
+| **libexpat-static** | 2.7.4 | Static libraries for libexpat | https://libexpat.github.io/ |
 | **libfann** | 2.2.0-2 | Fast artificial neural network library | http://leenissen.dk/fann/wp |
 | **libfcl** | 0.7.0-3 | Flexible collision library | https://github.com/flexible-collision-library/fcl |
 | **libfdisk** | 2.41.2-1 | Library for manipulating disk partition tables | https://en.wikipedia.org/wiki/Util-linux |
@@ -1891,7 +1891,7 @@
 | **openjpeg-tools** | 2.5.4 | Command-line tools using the JPEG 2000 library | https://www.openjpeg.org/ |
 | **openldap** | 2.6.12 | OpenLDAP server | https://openldap.org |
 | **openldap-static** | 2.6.12 | Static libraries for openldap | https://openldap.org |
-| **openlist** | 4.1.9 | A file list program that supports multiple storage | https://oplist.org/ |
+| **openlist** | 4.1.10 | A file list program that supports multiple storage | https://oplist.org/ |
 | **openmpi** | 4.1.5-1 | Open source Message Passing Interface implementation | https://www.open-mpi.org |
 | **openmpi-static** | 4.1.5-1 | Static libraries for openmpi | https://www.open-mpi.org |
 | **openmpt123** | 0.8.4 | libopenmpt based command-line player for tracker music formats | https://lib.openmpt.org/libopenmpt/ |
@@ -2710,7 +2710,7 @@
 | **znc** | 1.10.1-2 | An advanced IRC bouncer | https://znc.in/ |
 | **zola** | 0.22.1 | A fast static site generator in a single binary with everything built-in. | https://github.com/getzola/zola |
 | **zopfli** | 1.0.3-5 | New zlib compatible compressor tools | https://github.com/google/zopfli |
-| **zoxide** | 0.9.8-2 | A faster way to navigate your filesystem | https://github.com/ajeetdsouza/zoxide |
+| **zoxide** | 0.9.9 | A faster way to navigate your filesystem | https://github.com/ajeetdsouza/zoxide |
 | **zpaq** | 7.15-1 | Programmable file compressor, library and utilities. Based on the PAQ compression algorithm | http://mattmahoney.net/dc/zpaq.html |
 | **zrok** | 1.1.10 | An open source sharing solution built on OpenZiti. | https://zrok.io/ |
 | **zsh** | 5.9-9 | Shell with lots of features | https://www.zsh.org |
