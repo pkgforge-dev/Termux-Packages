@@ -27,7 +27,7 @@
 | **abseil-cpp** | 20250814.1 | Abseil C++ Common Libraries | https://abseil.io/ |
 | **ack-grep** | 3.9.0-1 | Tool like grep optimized for programmers | https://beyondgrep.com/ |
 | **acr** | 2.2.4 | A fully compatible autoconf replacement | https://github.com/radareorg/acr |
-| **ada** | 3.4.1 | WHATWG-compliant and fast URL parser written in modern C++ | https://github.com/ada-url/ada |
+| **ada** | 3.4.2 | WHATWG-compliant and fast URL parser written in modern C++ | https://github.com/ada-url/ada |
 | **adms** | 2.3.7-1 | A code generator for the Verilog-AMS language | https://github.com/qucs/adms |
 | **aerc** | 0.21.0 | A pretty good email client | https://aerc-mail.org/ |
 | **agate** | 3.3.20 | Very simple server for the Gemini hypertext protocol | https://github.com/mbrubeck/agate |
@@ -206,7 +206,7 @@
 | **capnproto** | 1.3.0 | Data interchange format and capability-based RPC system | https://capnproto.org/ |
 | **capstone** | 5.0.6-1 | Lightweight multi-platform, multi-architecture disassembly framework | https://www.capstone-engine.org/ |
 | **capstone-static** | 5.0.6-1 | Static libraries for capstone | https://www.capstone-engine.org/ |
-| **carapace** | 1.6.0 | Multi-shell multi-command argument completer | https://carapace.sh/ |
+| **carapace** | 1.6.1 | Multi-shell multi-command argument completer | https://carapace.sh/ |
 | **cargo-c** | 0.10.20 | Cargo C-ABI helpers | https://github.com/lu-zero/cargo-c |
 | **cargo-leptos** | 0.3.4 | Build tool for the Rust framework Leptos | https://github.com/leptos-rs/cargo-leptos |
 | **catdoc** | 0.95-2 | Program which reads MS-Word file and prints readable ASCII text to stdout | http://www.wagner.pp.ru/~vitus/software/catdoc/ |
@@ -793,7 +793,7 @@
 | **jcal-static** | 0.5.1-1 | Static libraries for jcal | http://nongnu.org/jcal |
 | **jellyfin-ffmpeg** | 10.11.5 | FFmpeg for Jellyfin with custom extensions and enhancements | https://jellyfin.org |
 | **jellyfin-server** | 10.11.5 | A free media system for organizing and streaming media (server) | https://jellyfin.org |
-| **jfrog-cli** | 2.89.0 | A CLI for JFrog products | https://jfrog.com/getcli |
+| **jfrog-cli** | 2.90.0 | A CLI for JFrog products | https://jfrog.com/getcli |
 | **jftui** | 0.7.5 | jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server. | https://github.com/Aanok/jftui |
 | **jhead** | 3.08-1 | Exif Jpeg header manipulation tool | http://www.sentex.net/~mwandel/jhead/ |
 | **jigdo** | 0.8.2-1 | Distribute large images by sending and receiving the files that make them up | http://atterer.org/jigdo/ |
@@ -2147,7 +2147,7 @@
 | **ravencoin-static** | 4.6.1-9 | Static libraries for ravencoin | https://ravencoin.org/ |
 | **rbw** | 1.15.0 | An unofficial command line client for Bitwarden | https://github.com/doy/rbw |
 | **rc** | 1.7.4-2 | An alternative implementation of the plan 9 rc shell | https://github.com/rakitzis/rc |
-| **rclone** | 1.72.1 | rsync for cloud storage | https://rclone.org/ |
+| **rclone** | 1.73.0 | rsync for cloud storage | https://rclone.org/ |
 | **rcm** | 1.3.6 | Dotfiles management | https://github.com/thoughtbot/rcm |
 | **rcs** | 5.10.1-1 | The GNU Revision Control System | https://www.gnu.org/s/rcs |
 | **rdfind** | 1.7.0-1 | A tool for finding duplicate files | https://github.com/pauldreik/rdfind |
@@ -2607,7 +2607,7 @@
 | **vulkan-loader** | 0.0.3 | A metapackage that provides vulkan loader library | https://github.com/termux/termux-packages |
 | **vulkan-loader-android** | 29 | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
 | **vulkan-loader-generic** | 1.4.342 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
-| **vulkan-tools** | 1.4.341 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
+| **vulkan-tools** | 1.4.342 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
 | **vulkan-utility-libraries** | 1.4.341 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
 | **vulkan-validation-layers** | 1.4.341 | Vulkan Validation Layers | https://github.com/KhronosGroup/Vulkan-ValidationLayers |
 | **vulkan-volk** | 1.4.304 | Meta loader for Vulkan API | https://github.com/zeux/volk |

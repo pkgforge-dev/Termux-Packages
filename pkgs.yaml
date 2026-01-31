@@ -67,7 +67,7 @@
   Description: A fully compatible autoconf replacement
   Homepage: https://github.com/radareorg/acr
 - Package: ada
-  Version: 3.4.1
+  Version: 3.4.2
   Description: WHATWG-compliant and fast URL parser written in modern C++
   Homepage: https://github.com/ada-url/ada
 - Package: adms
@@ -783,7 +783,7 @@
   Description: Static libraries for capstone
   Homepage: https://www.capstone-engine.org/
 - Package: carapace
-  Version: 1.6.0
+  Version: 1.6.1
   Description: Multi-shell multi-command argument completer
   Homepage: https://carapace.sh/
 - Package: cargo-c
@@ -3131,7 +3131,7 @@
   Description: A free media system for organizing and streaming media (server)
   Homepage: https://jellyfin.org
 - Package: jfrog-cli
-  Version: 2.89.0
+  Version: 2.90.0
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -8547,7 +8547,7 @@
   Description: An alternative implementation of the plan 9 rc shell
   Homepage: https://github.com/rakitzis/rc
 - Package: rclone
-  Version: 1.72.1
+  Version: 1.73.0
   Description: rsync for cloud storage
   Homepage: https://rclone.org/
 - Package: rcm
@@ -10387,7 +10387,7 @@
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
-  Version: 1.4.341
+  Version: 1.4.342
   Description: Vulkan Tools and Utilities
   Homepage: https://github.com/KhronosGroup/Vulkan-Tools
 - Package: vulkan-utility-libraries
