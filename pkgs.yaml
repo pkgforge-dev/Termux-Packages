@@ -7307,7 +7307,7 @@
   Description: Tools and demos for notcurses
   Homepage: https://notcurses.com/
 - Package: notmuch
-  Version: 0.39-2
+  Version: "0.40"
   Description: Thread-based email index, search and tagging system
   Homepage: https://notmuchmail.org
 - Package: npm
@@ -7963,7 +7963,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pocketbase
-  Version: 0.36.1
+  Version: 0.36.2
   Description: An open source Go backend
   Homepage: https://github.com/pocketbase/pocketbase
 - Package: poke
@@ -9739,7 +9739,7 @@
   Description: Wrapper around texlives install-tl script
   Homepage: https://www.tug.org/texlive/
 - Package: tgpt
-  Version: 2.11.0
+  Version: 2.11.1
   Description: AI Chatbots in terminal without needing API keys
   Homepage: https://github.com/aandrew-me/tgpt
 - Package: thrift

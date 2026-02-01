@@ -1837,7 +1837,7 @@
 | **notcurses** | 3.0.17-2 | blingful TUIs and character graphics | https://notcurses.com/ |
 | **notcurses-data** | 3.0.17-2 | Platform-independent data for notcurses | https://notcurses.com/ |
 | **notcurses-tools** | 3.0.17-2 | Tools and demos for notcurses | https://notcurses.com/ |
-| **notmuch** | 0.39-2 | Thread-based email index, search and tagging system | https://notmuchmail.org |
+| **notmuch** | 0.40 | Thread-based email index, search and tagging system | https://notmuchmail.org |
 | **npm** | 11.8.0 | The package manager for JavaScript | https://docs.npmjs.com/cli/ |
 | **npush** | 0.7-2 | Curses-based logic game similar to Sokoban and Boulder Dash | https://npush.sourceforge.net/ |
 | **nsis** | 3.11-1 | A professional open source system to create Windows installers | https://sourceforge.net/projects/nsis/ |
@@ -2001,7 +2001,7 @@
 | **plzip** | 1.12-1 | A massively parallel lossless data compressor based on the lzlib compression library | https://www.nongnu.org/lzip/plzip.html |
 | **pngcrush** | 1.8.13-2 | Recompresses png files | https://pmt.sourceforge.io/pngcrush/ |
 | **pngquant** | 3.0.3-2 | PNG image optimising utility | https://pngquant.org |
-| **pocketbase** | 0.36.1 | An open source Go backend | https://github.com/pocketbase/pocketbase |
+| **pocketbase** | 0.36.2 | An open source Go backend | https://github.com/pocketbase/pocketbase |
 | **poke** | 4.3-1 | Interactive, extensible editor for binary data. | http://www.jemarch.net/poke.html |
 | **poke-static** | 4.3-1 | Static libraries for poke | http://www.jemarch.net/poke.html |
 | **polipo** | 1.1.1-1 | A small and fast caching web proxy | http://www.pps.jussieu.fr/~jch/software/polipo/ |
@@ -2445,7 +2445,7 @@
 | **texlive-bin** | 1:2025.0-3 | TeX Live is a distribution of the TeX typesetting system. This package contains architecture dependent binaries. | https://www.tug.org/texlive/ |
 | **texlive-bin-static** | 1:2025.0-3 | Static libraries for texlive-bin | https://www.tug.org/texlive/ |
 | **texlive-installer** | 20250308 | Wrapper around texlive's install-tl script | https://www.tug.org/texlive/ |
-| **tgpt** | 2.11.0 | AI Chatbots in terminal without needing API keys | https://github.com/aandrew-me/tgpt |
+| **tgpt** | 2.11.1 | AI Chatbots in terminal without needing API keys | https://github.com/aandrew-me/tgpt |
 | **thrift** | 0.22.0-2 | Scalable cross-language services framework for IPC/RPC | https://thrift.apache.org |
 | **tidy** | 5.9.14-next-3 | A tool to tidy down your HTML code to a clean style | http://www.html-tidy.org/ |
 | **tidy-static** | 5.9.14-next-3 | Static libraries for tidy | http://www.html-tidy.org/ |
