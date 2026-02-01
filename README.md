@@ -627,7 +627,7 @@
 | **goaccess** | 1.9.4-1 | An open source real-time web log analyzer and interactive viewer | https://goaccess.io |
 | **gobang** | 0.1.0-alpha.5-4 | A cross-platform TUI database management tool written in Rust | https://github.com/TaKO8Ki/gobang |
 | **gobject-introspection** | 1.86.0 | Uniform machine readable API | https://gi.readthedocs.io/ |
-| **gogs** | 0.13.4 | A painless self-hosted Git service | https://gogs.io |
+| **gogs** | 0.14.1 | A painless self-hosted Git service | https://gogs.io |
 | **gojq** | 0.12.18 | Pure Go implementation of jq | https://github.com/itchyny/gojq |
 | **golang** | 3:1.25.6 | Go programming language compiler | https://go.dev/ |
 | **golang-doc** | 3:1.25.6 | Go programming language - documentation | https://go.dev/ |
@@ -2283,7 +2283,7 @@
 | **simh** | 1:3.12.5-1 | A collection of simulators for computer hardware and software from the past | http://simh.trailing-edge.com/ |
 | **simulavr** | 1:1.1.0-2 | Simulator for Microchip AVR (formerly Atmel) microcontrollers | https://www.nongnu.org/simulavr |
 | **simuwaerm** | 0.02-1 | A simple heat transfer simulator in pure Rust | https://github.com/file-acomplaint/simuwaerm |
-| **sing-box** | 1.12.18 | The universal proxy platform | https://sing-box.sagernet.org |
+| **sing-box** | 1.12.19 | The universal proxy platform | https://sing-box.sagernet.org |
 | **skate** | 1.0.1-1 | A personal key-value store | https://github.com/charmbracelet/skate |
 | **sl** | 5.05-1 | Tool curing your bad habit of mistyping | https://github.com/mtoyoda/sl |
 | **slang** | 2.3.3-2 | S-Lang is a powerful interpreted language | https://www.jedsoft.org/slang/ |
@@ -2322,7 +2322,7 @@
 | **spidermonkey** | 128.10.0-2 | Mozilla's JavaScript engine | https://spidermonkey.dev |
 | **spiped** | 1.6.4-1 | a utility for creating symmetrically encrypted and authenticated pipes between socket addresses | https://www.tarsnap.com/spiped.html |
 | **spirv-headers** | 1.4.335.0 | SPIR-V Headers | https://github.com/KhronosGroup/SPIRV-Headers |
-| **spirv-llvm-translator** | 21.1.3 | SPIR-V LLVM Translator | https://github.com/KhronosGroup/SPIRV-LLVM-Translator |
+| **spirv-llvm-translator** | 21.1.4 | SPIR-V LLVM Translator | https://github.com/KhronosGroup/SPIRV-LLVM-Translator |
 | **spirv-tools** | 1.4.335.0 | SPIR-V Tools | https://github.com/KhronosGroup/SPIRV-Tools |
 | **sqlcipher** | 4.13.0 | SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files | https://github.com/sqlcipher/sqlcipher |
 | **sqlite** | 3.51.2 | Command line shell for SQLite | https://www.sqlite.org |

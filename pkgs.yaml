@@ -2467,7 +2467,7 @@
   Description: Uniform machine readable API
   Homepage: https://gi.readthedocs.io/
 - Package: gogs
-  Version: 0.13.4
+  Version: 0.14.1
   Description: A painless self-hosted Git service
   Homepage: https://gogs.io
 - Package: gojq
@@ -9091,7 +9091,7 @@
   Description: A simple heat transfer simulator in pure Rust
   Homepage: https://github.com/file-acomplaint/simuwaerm
 - Package: sing-box
-  Version: 1.12.18
+  Version: 1.12.19
   Description: The universal proxy platform
   Homepage: https://sing-box.sagernet.org
 - Package: skate
@@ -9247,7 +9247,7 @@
   Description: SPIR-V Headers
   Homepage: https://github.com/KhronosGroup/SPIRV-Headers
 - Package: spirv-llvm-translator
-  Version: 21.1.3
+  Version: 21.1.4
   Description: SPIR-V LLVM Translator
   Homepage: https://github.com/KhronosGroup/SPIRV-LLVM-Translator
 - Package: spirv-tools
