@@ -1375,7 +1375,7 @@
   Description: dns2tcp is a tool for relaying TCP connections over DNS
   Homepage: https://github.com/alex-sector/dns2tcp
 - Package: dnscontrol
-  Version: 4.32.0
+  Version: 4.33.0
   Description: Infrastructure as code for DNS!
   Homepage: https://github.com/StackExchange/dnscontrol
 - Package: dnslookup
@@ -7611,7 +7611,7 @@
   Description: A multipurpose command line tool based on the Osmium Library
   Homepage: https://osmcode.org/osmium-tool/
 - Package: osslsigncode
-  Version: "2.11"
+  Version: "2.12"
   Description: OpenSSL based Authenticode signing for PE/MSI/Java CAB files
   Homepage: https://github.com/mtrojnar/osslsigncode
 - Package: ossp-uuid
@@ -9243,7 +9243,7 @@
   Description: a utility for creating symmetrically encrypted and authenticated pipes between socket addresses
   Homepage: https://www.tarsnap.com/spiped.html
 - Package: spirv-headers
-  Version: 1.4.335.0
+  Version: 1.4.341.0
   Description: SPIR-V Headers
   Homepage: https://github.com/KhronosGroup/SPIRV-Headers
 - Package: spirv-llvm-translator
