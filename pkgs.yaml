@@ -3087,7 +3087,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.24.932
+  Version: 0.24.1008
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -3267,7 +3267,7 @@
   Description: keychain ssh-agent front-end
   Homepage: https://www.funtoo.org/Keychain
 - Package: kibi
-  Version: 0.3.2
+  Version: 0.3.3
   Description: A tiny terminal text editor, written in Rust
   Homepage: https://github.com/ilai-deutel/kibi
 - Package: kiwix-tools
@@ -5055,7 +5055,7 @@
   Description: GPL reimplementation of libdjb
   Homepage: http://www.fefe.de/libowfat/
 - Package: libp11
-  Version: 0.4.16-1
+  Version: 0.4.17
   Description: PKCS#11 wrapper library
   Homepage: https://github.com/OpenSC/libp11
 - Package: libp8-platform
@@ -8695,7 +8695,7 @@
   Description: A terminal IRC client in C
   Homepage: https://github.com/rcr/rirc
 - Package: rizin
-  Version: 0.8.1-1
+  Version: 0.8.2
   Description: UNIX-like reverse engineering framework and command-line toolset.
   Homepage: https://rizin.re
 - Package: rlwrap
@@ -8815,7 +8815,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: "20260126"
+  Version: "20260202"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://rust-analyzer.github.io/
 - Package: rust-bindgen

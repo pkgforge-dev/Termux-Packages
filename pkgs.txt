@@ -770,7 +770,7 @@
  jack  0.0.1  A metapackage that provides JACK Audio Connection Kit  https://github.com/termux/termux-packages 
  jack-example-tools  4-1  Official JACK example clients and tools  https://jackaudio.org/ 
  jack2  1.9.22-2  The JACK low-latency audio server  https://jackaudio.org/ 
- jackett  0.24.932  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
+ jackett  0.24.1008  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
  jadx  1.5.3-1  Dex to Java decompiler  https://github.com/skylot/jadx 
  jadx-x  1.5.3-1  Dex to Java decompiler GUI  https://github.com/skylot/jadx 
  janet  1.40.1  Janet is a dialect of Lisp intended for embedding into programs and such  https://janet-lang.org 
@@ -815,7 +815,7 @@
  kcptun  20260101  A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC  https://github.com/xtaci/kcptun 
  keybase  6.5.1-1  Key directory that maps social media identities to encryption keys  https://keybase.io 
  keychain  2.9.8  keychain ssh-agent front-end  https://www.funtoo.org/Keychain 
- kibi  0.3.2  A tiny terminal text editor, written in Rust  https://github.com/ilai-deutel/kibi 
+ kibi  0.3.3  A tiny terminal text editor, written in Rust  https://github.com/ilai-deutel/kibi 
  kiwix-tools  3.8.1  A collection of Kiwix related command line tools  https://github.com/kiwix/kiwix-tools 
  knockd  0.8.2-2  A port-knocking daemon  https://zeroflux.org/projects/knock 
  knot-utils  3.2.4-2  Knot DNS utilities  https://www.knot-dns.cz/ 
@@ -1262,7 +1262,7 @@
  libotr  4.1.1-3  Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing: Encryption, Authentication, Deniability, Perfect forward secrecy  https://otr.cypherpunks.ca 
  libotr-static  4.1.1-3  Static libraries for libotr  https://otr.cypherpunks.ca 
  libowfat  0.33-1  GPL reimplementation of libdjb  http://www.fefe.de/libowfat/ 
- libp11  0.4.16-1  PKCS#11 wrapper library  https://github.com/OpenSC/libp11 
+ libp11  0.4.17  PKCS#11 wrapper library  https://github.com/OpenSC/libp11 
  libp8-platform  2.1.0.1-4  Platform support library used by libCEC and binary add-ons for Kodi  https://github.com/Pulse-Eight/platform 
  libpagmo  2.19.1-5  Scientific library for massively parallel optimization  https://esa.github.io/pagmo2/index.html 
  libpangomm-1.4  2.46.4-1  A C++ API for Pango  https://www.gtkmm.org/ 
@@ -2172,7 +2172,7 @@
  ripgrep-all  1:0.10.10  Search tool able to locate in PDFs, E-Books, zip, tar.gz, etc  https://github.com/phiresky/ripgrep-all 
  ripsecrets  0.1.11-1  A command-line tool to prevent committing secret keys into your source code  https://github.com/sirwart/ripsecrets 
  rirc  0.1.7-2  A terminal IRC client in C  https://github.com/rcr/rirc 
- rizin  0.8.1-1  UNIX-like reverse engineering framework and command-line toolset.  https://rizin.re 
+ rizin  0.8.2  UNIX-like reverse engineering framework and command-line toolset.  https://rizin.re 
  rlwrap  0.48  Wrapper using readline to enable editing of keyboard input for commands  https://github.com/hanslub42/rlwrap 
  rmpc  0.11.0  A configurable TUI MPD client with album art support  https://mierak.github.io/rmpc/ 
  rnr  0.5.1  Batch rename files and directories using regular expression (rust)  https://github.com/ismaelgv/rnr 
@@ -2202,7 +2202,7 @@
  runit-static  2.1.2-4  Static libraries for runit  http://smarden.org/runit 
  rush  0.8.0  A cross-platform command-line tool for executing jobs in parallel  https://github.com/shenwei356/rush 
  rust  1.93.0  Systems programming language focused on safety, speed and concurrency  https://www.rust-lang.org/ 
- rust-analyzer  20260126  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
+ rust-analyzer  20260202  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
  rust-bindgen  0.72.1  Automatically generates Rust FFI bindings to C (and some C++) libraries  https://github.com/rust-lang/rust-bindgen 
  rust-docs  1.93.0  Rust documentation  https://www.rust-lang.org/ 
  rust-src  1.93.0  Rust source code files  https://www.rust-lang.org/ 
