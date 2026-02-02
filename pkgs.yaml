@@ -2859,7 +2859,7 @@
   Description: Command-line wrapper for git that makes you better at GitHub
   Homepage: https://hub.github.com/
 - Package: hugo
-  Version: 0.155.1
+  Version: 0.155.2
   Description: A fast and flexible static site generator
   Homepage: https://gohugo.io/
 - Package: hummin
@@ -6359,7 +6359,7 @@
   Description: Tracks runtime library calls in dynamically linked programs
   Homepage: http://www.ltrace.org/
 - Package: lua-language-server
-  Version: 3.16.4-1
+  Version: 3.17.1
   Description: Sumneko Lua Language Server coded in Lua
   Homepage: https://github.com/sumneko/lua-language-server
 - Package: lua-lgi
@@ -7627,11 +7627,11 @@
   Description: Open Virtual Machine Firmware
   Homepage: https://www.tianocore.org/
 - Package: oxfmt
-  Version: 1.42.0
+  Version: 1.43.0
   Description: Oxc JavaScript formatter
   Homepage: https://oxc.rs/
 - Package: oxlint
-  Version: 1.42.0
+  Version: 1.43.0
   Description: Oxc JavaScript linter
   Homepage: https://oxc.rs/
 - Package: p11-kit
@@ -10426,6 +10426,10 @@
   Version: 1.13.0
   Description: A terminal file manager
   Homepage: https://github.com/antonmedv/walk
+- Package: wallust
+  Version: 3.5.2
+  Description: Generate colors from an image
+  Homepage: https://explosion-mental.codeberg.page/wallust
 - Package: wasi-libc
   Version: "29"
   Description: Libc for WebAssembly programs built on top of WASI system calls
