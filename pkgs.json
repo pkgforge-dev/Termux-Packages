@@ -3625,7 +3625,7 @@
   },
   {
     "Package": "gnupg",
-    "Version": "2.5.16",
+    "Version": "2.5.17",
     "Description": "Implementation of the OpenPGP standard for encrypting and signing data and communication",
     "Homepage": "https://www.gnupg.org/"
   },
@@ -3835,7 +3835,7 @@
   },
   {
     "Package": "gpgv",
-    "Version": "2.5.16",
+    "Version": "2.5.17",
     "Description": "GNU privacy guard - signature verification tool",
     "Homepage": "https://www.gnupg.org/"
   },
@@ -13387,7 +13387,7 @@
   },
   {
     "Package": "scdaemon",
-    "Version": "2.5.16",
+    "Version": "2.5.17",
     "Description": "Daemon invoked by gpg to manage smartcards",
     "Homepage": "https://www.gnupg.org/"
   },
@@ -14053,7 +14053,7 @@
   },
   {
     "Package": "stockfish",
-    "Version": "17.1",
+    "Version": "18",
     "Description": "Free and strong UCI chess engine",
     "Homepage": "https://stockfishchess.org/"
   },

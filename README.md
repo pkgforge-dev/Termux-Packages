@@ -614,7 +614,7 @@
 | **gnugo** | 3.8-6 | Program that plays the game of Go | https://www.gnu.org/software/gnugo/ |
 | **gnuit** | 4.9.5-1 | gnuit - GNU Interactive Tools | https://www.gnu.org/software/gnuit/ |
 | **gnunet** | 0.26.2 | A framework for secure peer-to-peer networking | https://gnunet.org |
-| **gnupg** | 2.5.16 | Implementation of the OpenPGP standard for encrypting and signing data and communication | https://www.gnupg.org/ |
+| **gnupg** | 2.5.17 | Implementation of the OpenPGP standard for encrypting and signing data and communication | https://www.gnupg.org/ |
 | **gnuplot** | 6.0.4 | Command-line driven graphing utility | http://gnuplot.info/ |
 | **gnurl** | 7.72.0-1 | Fork of libcurl, which is mostly for GNUnet | https://gnunet.org/en/gnurl.html |
 | **gnurl-static** | 7.72.0-1 | Static libraries for gnurl | https://gnunet.org/en/gnurl.html |
@@ -649,7 +649,7 @@
 | **gpgme** | 2.0.1 | Library designed to make access to GnuPG easier | https://www.gnupg.org/related_software/gpgme/ |
 | **gpgme-static** | 2.0.1 | Static libraries for gpgme | https://www.gnupg.org/related_software/gpgme/ |
 | **gpgmepp** | 2.0.0 | C++ bindings for GPGME | https://www.gnupg.org/related_software/gpgme/ |
-| **gpgv** | 2.5.16 | GNU privacy guard - signature verification tool | https://www.gnupg.org/ |
+| **gpgv** | 2.5.17 | GNU privacy guard - signature verification tool | https://www.gnupg.org/ |
 | **gping** | 1.20.1-1 | Ping, but with a graph | https://github.com/orf/gping |
 | **gpsbabel** | 1.4.4-3 | GPS file conversion plus transfer to/from GPS units | https://www.gpsbabel.org/ |
 | **gradle** | 1:9.3.1 | Powerful build system for the JVM | https://gradle.org/ |
@@ -2241,7 +2241,7 @@
 | **scala** | 3.8.1 | Scala 3 compiler and standard library. | https://www.scala-lang.org |
 | **scc** | 3.6.0 | Counts physical the lines of code, blank lines, comment lines, and physical lines of source code | https://github.com/boyter/scc |
 | **sccache** | 0.13.0 | sccache is ccache with cloud storage | https://github.com/mozilla/sccache |
-| **scdaemon** | 2.5.16 | Daemon invoked by gpg to manage smartcards | https://www.gnupg.org/ |
+| **scdaemon** | 2.5.17 | Daemon invoked by gpg to manage smartcards | https://www.gnupg.org/ |
 | **scdoc** | 1.11.4 | Small man page generator | https://git.sr.ht/~sircmpwn/scdoc |
 | **screen** | 5.0.1-1 | Terminal multiplexer with VT100/ANSI terminal emulation | https://www.gnu.org/software/screen/ |
 | **screenfetch** | 3.9.9 | Bash Screenshot Information Tool | https://github.com/KittyKatt/screenFetch |
@@ -2352,7 +2352,7 @@
 | **step-cli** | 0.29.0-1 | An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows | https://smallstep.com/cli |
 | **stfl** | 0.24-7 | Structured Terminal Forms Language/Library | http://www.clifford.at/stfl |
 | **stfl-static** | 0.24-7 | Static libraries for stfl | http://www.clifford.at/stfl |
-| **stockfish** | 17.1 | Free and strong UCI chess engine | https://stockfishchess.org/ |
+| **stockfish** | 18 | Free and strong UCI chess engine | https://stockfishchess.org/ |
 | **stoken** | 0.93-3 | Software Token for Linux/UNIX | https://github.com/cernekee/stoken |
 | **stoken-static** | 0.93-3 | Static libraries for stoken | https://github.com/cernekee/stoken |
 | **stone** | 2.4-3 | A TCP/IP repeater in the application layer | https://www.gcd.org/sengoku/stone/ |

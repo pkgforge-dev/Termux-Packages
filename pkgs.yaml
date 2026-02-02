@@ -2415,7 +2415,7 @@
   Description: A framework for secure peer-to-peer networking
   Homepage: https://gnunet.org
 - Package: gnupg
-  Version: 2.5.16
+  Version: 2.5.17
   Description: Implementation of the OpenPGP standard for encrypting and signing data and communication
   Homepage: https://www.gnupg.org/
 - Package: gnuplot
@@ -2555,7 +2555,7 @@
   Description: C++ bindings for GPGME
   Homepage: https://www.gnupg.org/related_software/gpgme/
 - Package: gpgv
-  Version: 2.5.16
+  Version: 2.5.17
   Description: GNU privacy guard - signature verification tool
   Homepage: https://www.gnupg.org/
 - Package: gping
@@ -8923,7 +8923,7 @@
   Description: sccache is ccache with cloud storage
   Homepage: https://github.com/mozilla/sccache
 - Package: scdaemon
-  Version: 2.5.16
+  Version: 2.5.17
   Description: Daemon invoked by gpg to manage smartcards
   Homepage: https://www.gnupg.org/
 - Package: scdoc
@@ -9367,7 +9367,7 @@
   Description: Static libraries for stfl
   Homepage: http://www.clifford.at/stfl
 - Package: stockfish
-  Version: "17.1"
+  Version: "18"
   Description: Free and strong UCI chess engine
   Homepage: https://stockfishchess.org/
 - Package: stoken
