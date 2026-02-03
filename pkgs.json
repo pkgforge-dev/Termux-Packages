@@ -14941,49 +14941,127 @@
   },
   {
     "Package": "tree-sitter",
-    "Version": "0.25.10-1",
+    "Version": "0.25.10-2",
     "Description": "An incremental parsing system for programming tools",
     "Homepage": "https://tree-sitter.github.io/"
   },
   {
+    "Package": "tree-sitter-bash",
+    "Version": "0.25.1",
+    "Description": "Bash grammar for tree-sitter",
+    "Homepage": "https://github.com/tree-sitter/tree-sitter-bash"
+  },
+  {
     "Package": "tree-sitter-c",
-    "Version": "0.24.1-4",
+    "Version": "0.24.1-5",
     "Description": "C grammar for tree-sitter",
     "Homepage": "https://github.com/tree-sitter/tree-sitter-c"
   },
   {
+    "Package": "tree-sitter-css",
+    "Version": "0.25.0",
+    "Description": "CSS grammar for tree-sitter",
+    "Homepage": "https://github.com/tree-sitter/tree-sitter-css"
+  },
+  {
+    "Package": "tree-sitter-go",
+    "Version": "0.25.0",
+    "Description": "Golang grammar for tree-sitter",
+    "Homepage": "https://github.com/tree-sitter/tree-sitter-go"
+  },
+  {
+    "Package": "tree-sitter-html",
+    "Version": "0.23.2",
+    "Description": "HTML grammar for tree-sitter",
+    "Homepage": "https://github.com/tree-sitter/tree-sitter-html"
+  },
+  {
+    "Package": "tree-sitter-java",
+    "Version": "0.23.5",
+    "Description": "Java grammar for tree-sitter",
+    "Homepage": "https://github.com/tree-sitter/tree-sitter-java"
+  },
+  {
+    "Package": "tree-sitter-javascript",
+    "Version": "0.25.0",
+    "Description": "JavaScript grammar for tree-sitter",
+    "Homepage": "https://github.com/tree-sitter/tree-sitter-javascript"
+  },
+  {
+    "Package": "tree-sitter-json",
+    "Version": "0.24.8",
+    "Description": "JSON grammar for tree-sitter",
+    "Homepage": "https://github.com/tree-sitter/tree-sitter-json"
+  },
+  {
+    "Package": "tree-sitter-latex",
+    "Version": "0.6.0",
+    "Description": "LaTeX grammar for tree-sitter",
+    "Homepage": "https://github.com/latex-lsp/tree-sitter-latex"
+  },
+  {
     "Package": "tree-sitter-lua",
-    "Version": "0.4.0-4",
+    "Version": "0.4.1",
     "Description": "Lua grammar for tree-sitter",
     "Homepage": "https://github.com/tree-sitter-grammars/tree-sitter-lua"
   },
   {
     "Package": "tree-sitter-markdown",
-    "Version": "0.5.2",
+    "Version": "0.5.2-1",
     "Description": "Markdown grammar for tree-sitter",
     "Homepage": "https://github.com/tree-sitter-grammars/tree-sitter-markdown"
   },
   {
     "Package": "tree-sitter-parsers",
-    "Version": "0.0.5",
+    "Version": "0.1.0",
     "Description": "A metapackage that provides commonly used treesitter parsers",
     "Homepage": "https://github.com/termux/termux-packages"
   },
   {
+    "Package": "tree-sitter-python",
+    "Version": "0.25.0",
+    "Description": "Python grammar for tree-sitter",
+    "Homepage": "https://github.com/tree-sitter/tree-sitter-python"
+  },
+  {
     "Package": "tree-sitter-query",
-    "Version": "0.8.0",
+    "Version": "0.8.0-1",
     "Description": "TS query grammar for tree-sitter",
     "Homepage": "https://github.com/tree-sitter-grammars/tree-sitter-query"
   },
   {
+    "Package": "tree-sitter-regex",
+    "Version": "0.25.0",
+    "Description": "RegEx grammar for tree-sitter",
+    "Homepage": "https://github.com/tree-sitter/tree-sitter-regex"
+  },
+  {
+    "Package": "tree-sitter-rust",
+    "Version": "0.24.0",
+    "Description": "Rust grammar for tree-sitter",
+    "Homepage": "https://github.com/tree-sitter/tree-sitter-rust"
+  },
+  {
+    "Package": "tree-sitter-sql",
+    "Version": "0.3.11",
+    "Description": "SQL grammar for tree-sitter",
+    "Homepage": "https://github.com/derekstride/tree-sitter-sql"
+  },
+  {
     "Package": "tree-sitter-static",
-    "Version": "0.25.10-1",
+    "Version": "0.25.10-2",
     "Description": "Static libraries for tree-sitter",
     "Homepage": "https://tree-sitter.github.io/"
   },
   {
+    "Package": "tree-sitter-toml",
+    "Version": "0.7.0",
+    "Description": "TOML grammar for tree-sitter",
+    "Homepage": "https://github.com/tree-sitter-grammars/tree-sitter-toml"
+  },
+  {
     "Package": "tree-sitter-vim",
-    "Version": "0.7.0-1",
+    "Version": "0.8.0",
     "Description": "Vimscript grammar for tree-sitter",
     "Homepage": "https://github.com/tree-sitter-grammars/tree-sitter-vim"
   },
@@ -14995,7 +15073,7 @@
   },
   {
     "Package": "tree-sitter-vimdoc",
-    "Version": "4.1.0",
+    "Version": "4.1.0-1",
     "Description": "Tree-sitter parser for Vim help files",
     "Homepage": "https://github.com/neovim/tree-sitter-vimdoc"
   },
@@ -15004,6 +15082,18 @@
     "Version": "4.1.0",
     "Description": "Static libraries for tree-sitter-vimdoc",
     "Homepage": "https://github.com/neovim/tree-sitter-vimdoc"
+  },
+  {
+    "Package": "tree-sitter-xml",
+    "Version": "0.7.0",
+    "Description": "XML grammar for tree-sitter",
+    "Homepage": "https://github.com/tree-sitter-grammars/tree-sitter-xml"
+  },
+  {
+    "Package": "tree-sitter-yaml",
+    "Version": "0.7.2",
+    "Description": "YAML grammar for tree-sitter",
+    "Homepage": "https://github.com/tree-sitter-grammars/tree-sitter-yaml"
   },
   {
     "Package": "trojan-go",
