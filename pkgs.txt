@@ -96,7 +96,7 @@
  atool  0.39.0-1  tool for managing file archives of various types  https://www.nongnu.org/atool 
  attr  2.5.2-1  Utilities for manipulating filesystem extended attributes  http://savannah.nongnu.org/projects/attr/ 
  attr-static  2.5.2-1  Static libraries for attr  http://savannah.nongnu.org/projects/attr/ 
- atuin  18.10.0  Magical shell history  https://atuin.sh/ 
+ atuin  18.11.0  Magical shell history  https://atuin.sh/ 
  aubio  0.4.9-7  A library to label music and sounds  https://aubio.org/ 
  aubio-static  0.4.9-7  Static libraries for aubio  https://aubio.org/ 
  audiofile  0.3.6  Silicon Graphics Audio File Library  https://audiofile.68k.org/ 
@@ -275,6 +275,8 @@
  cpio  2.15-1  CPIO implementation from the GNU project  https://www.gnu.org/software/cpio/ 
  cppcheck  2.19.1  tool for static C/C++ code analysis  https://github.com/danmar/cppcheck 
  cppi  1.18-2  Indents C preprocessor directives to reflect their nesting, among other regularizations  https://www.gnu.org/software/cppi/ 
+ cppunit  1.15.1-2  A C++ unit testing framework  https://www.freedesktop.org/wiki/Software/cppunit 
+ cppunit-static  1.15.1-2  Static libraries for cppunit  https://www.freedesktop.org/wiki/Software/cppunit 
  cpufetch  1.07-1  Simple yet fancy CPU architecture fetching tool  https://github.com/Dr-Noob/cpufetch 
  cpulimit  0.2-2  CPU usage limiter  https://github.com/opsengine/cpulimit 
  crawl  0.33.1-2  Roguelike adventure through dungeons filled with dangerous monsters  https://crawl.develz.org/ 
@@ -493,7 +495,7 @@
  fontconfig-static  2.17.1-1  Static libraries for fontconfig  https://www.freedesktop.org/wiki/Software/fontconfig/ 
  fontconfig-utils  2.17.1-1  Fontconfig binaries  https://www.freedesktop.org/wiki/Software/fontconfig/ 
  forestdb-dump  1.2-2  ForestDB dump tool  https://github.com/couchbase/forestdb 
- forgejo  13.0.3  Forgejo is a self-hosted lightweight software forge.  https://forgejo.org/ 
+ forgejo  14.0.2  Forgejo is a self-hosted lightweight software forge.  https://forgejo.org/ 
  fortune  1.2-2  Revealer of fortunes  https://www.fefe.de/fortune/ 
  fossil  2.27  DSCM with built-in wiki, http interface and server, tickets database  https://www.fossil-scm.org 
  freecolor  0.9.3-1  Freecolor is a replacement for Linux that displays free memory graphically  http://rkeene.org/oss/freecolor/ 
@@ -575,7 +577,7 @@
  git-town  22.2.0  Git branches made easy  https://www.git-town.com 
  gitea  1.25.4  Git with a cup of tea, painless self-hosted git service  https://gitea.io 
  gitflow-avh  1.12.3-9  Extend git with Vincent Driessen's branching model. The AVH Edition adds more functionality.  https://github.com/petervanderdoes/gitflow/ 
- gitoxide  0.49.0  Rust implementation of Git  https://github.com/Byron/gitoxide 
+ gitoxide  0.50.0  Rust implementation of Git  https://github.com/Byron/gitoxide 
  gitui  0.28.0  Blazing fast terminal-ui for git written in rust  https://github.com/gitui-org/gitui 
  gkermit  2.01-1  Simple, Portable, Free File Transfer Software for UNIX  http://www.columbia.edu/kermit/gkermit.html 
  glab-cli  1.82.0  A GitLab CLI tool bringing GitLab to your command line  https://gitlab.com/gitlab-org/cli 
@@ -1004,6 +1006,8 @@
  libenet-static  1.3.18-1  Static libraries for libenet  http://enet.bespin.org 
  libepoxy  1.5.10-3  Library handling OpenGL function pointer management  https://github.com/anholt/libepoxy 
  libesqlite3  3.49.1.20250307  SQLitePCLRaw is a Portable Class Library for low-level access to SQLite (native library)  https://github.com/ericsink/SQLitePCL.raw 
+ libetonyek  0.1.13  CorelDraw file format importer library for LibreOffice  https://wiki.documentfoundation.org/DLP/Libraries/libetonyek 
+ libetonyek-static  0.1.13  Static libraries for libetonyek  https://wiki.documentfoundation.org/DLP/Libraries/libetonyek 
  libev  4.33-2  Full-featured and high-performance event loop library  http://software.schmorp.de/pkg/libev.html 
  libev-static  4.33-2  Static libraries for libev  http://software.schmorp.de/pkg/libev.html 
  libevent  2.1.12-3  Library that provides asynchronous event notification  https://libevent.org/ 
@@ -1129,6 +1133,8 @@
  libknot-static  3.2.4-2  Static libraries for libknot  https://www.knot-dns.cz/ 
  libksba  1.6.7-2  Library for using X.509 certificates and CMS (Cryptographic Message Syntax) easily accessible  https://gnupg.org/related_software/libksba/ 
  libksba-static  1.6.7-2  Static libraries for libksba  https://gnupg.org/related_software/libksba/ 
+ liblangtag  0.6.7-2  interface library to access/deal with tags for identifying languages  https://bitbucket.org/tagoh/liblangtag/wiki/Home 
+ liblangtag-static  0.6.7-2  Static libraries for liblangtag  https://bitbucket.org/tagoh/liblangtag/wiki/Home 
  liblightning  2.2.3-1  A library to aid in making portable programs that compile assembly code at run time  https://www.gnu.org/software/lightning/ 
  liblightning-static  2.2.3-1  Static libraries for liblightning  https://www.gnu.org/software/lightning/ 
  libliquid-dsp  1.7.0-1  Software-defined radio digital signal processing library  https://liquidsdr.org/ 
@@ -1237,6 +1243,8 @@
  libntl-static  11.5.1-1  Static libraries for libntl  https://libntl.org 
  libobjc2  2.3-1  The GNUstep Objective-C runtime  https://www.gnustep.org/ 
  libode  0.16.6-2  An open source, high performance library for simulating rigid body dynamics  https://www.ode.org 
+ libodfgen  0.1.8-4  Library for generating documents in Open Document Format  https://sourceforge.net/p/libwpd/wiki/libodfgen/ 
+ libodfgen-static  0.1.8-4  Static libraries for libodfgen  https://sourceforge.net/p/libwpd/wiki/libodfgen/ 
  libogg  1.3.6-1  Library for working with the Ogg multimedia container format  https://xiph.org/ogg/ 
  libogg-static  1.3.6-1  Static libraries for libogg  https://xiph.org/ogg/ 
  liboggz  1.1.3-1  Command and library to inspect, tweak, edit and validate Ogg files  https://www.xiph.org/oggz/ 
@@ -1316,6 +1324,8 @@
  libresolv-wrapper  1.1.7-6  A wrapper for DNS name resolving or DNS faking  https://cwrap.org/resolv_wrapper.html 
  libretls  3.8.1-1  libtls for OpenSSL  https://git.causal.agency/libretls/about/ 
  libretls-static  3.8.1-1  Static libraries for libretls  https://git.causal.agency/libretls/about/ 
+ librevenge  0.0.5-3  library for REVerses ENGineered formats filters  https://sf.net/p/libwpd/librevenge/ 
+ librevenge-static  0.0.5-3  Static libraries for librevenge  https://sf.net/p/libwpd/librevenge/ 
  librime  1.16.1  A modular, extensible input method engine in cross-platform C++ code  https://rime.im/ 
  librinutils  0.10.3  A C11 / gnu11 utilities C library  https://github.com/shlomif/rinutils 
  librnnoise  0.2-1  RNN-based noise suppression  https://jmvalin.ca/demo/rnnoise/ 
@@ -1464,6 +1474,8 @@
  libvidstab  1.1.1-3  video stabilization library  https://github.com/georgmartius/vid.stab 
  libvigra  1.12.3  Computer vision library  https://ukoethe.github.io/vigra/ 
  libvips  8.18.0-1  A fast image processing library with low memory needs  https://libvips.github.io/libvips/ 
+ libvisio  0.1.10  Library providing ability to interpret and import visio diagrams  https://wiki.documentfoundation.org/DLP/Libraries/libvisio 
+ libvisio-static  0.1.10  Static libraries for libvisio  https://wiki.documentfoundation.org/DLP/Libraries/libvisio 
  libvmaf  3.0.0-2  A perceptual video quality assessment algorithm developed by Netflix  https://github.com/Netflix/vmaf 
  libvmaf-static  3.0.0-2  Static libraries for libvmaf  https://github.com/Netflix/vmaf 
  libvo-amrwbenc  0.1.3-2  VisualOn AMR-WB encoder library  https://sourceforge.net/projects/opencore-amr/ 
@@ -1485,6 +1497,10 @@
  libwebrtc-audio-processing  1.3-4  A library containing the AudioProcessing module from the WebRTC project  https://www.freedesktop.org/software/pulseaudio/webrtc-audio-processing/ 
  libwebsockets  4.5.2-1  Lightweight C websockets library  https://libwebsockets.org 
  libwolfssl  5.8.4  A small, fast, portable implementation of TLS/SSL for embedded devices to the cloud  https://www.wolfssl.com/ 
+ libwpd  0.10.3-3  Library for importing WordPerfect (tm) documents  https://libwpd.sourceforge.net/ 
+ libwpg  0.3.4-3  Library for importing and converting Corel WordPerfect(tm) Graphics images.  https://libwpg.sourceforge.net/ 
+ libwpg-static  0.3.4-3  Static libraries for libwpg  https://libwpg.sourceforge.net/ 
+ libwps  0.4.14-2  a Microsoft Works file word processor format import filter library  https://sourceforge.net/projects/libwps/ 
  libwren  0.4.0-4  Small, fast, class-based concurrent scripting language libraries  https://wren.io/ 
  libwslay  1.1.1-2  WebSocket library  https://github.com/tatsuhiro-t/wslay 
  libwv  1.2.9-6  A library which allows access to Microsoft Word files  https://wvware.sourceforge.net/ 
@@ -1637,7 +1653,7 @@
  mariadb-static  2:12.1.2  Static libraries for mariadb  https://mariadb.org 
  marisa  0.3.1-1  Matching Algorithm with Recursively Implemented StorAge  https://github.com/s-yata/marisa-trie 
  markdown-flashcards  2.0.1  Small CLI app to learn with flashcards and spaced repetition  https://github.com/bttger/markdown-flashcards 
- marksman  2025.11.30  LSP language server for editing Markdown files  https://github.com/artempyanykh/marksman 
+ marksman  2026.01.28  LSP language server for editing Markdown files  https://github.com/artempyanykh/marksman 
  mathomatic  16.0.5-7  Simple CAS and symbolic calculator  https://en.wikipedia.org/wiki/Mathomatic 
  matplotlib  3.10.8-1  A comprehensive library for creating static, animated, and interactive visualizations in Python  https://matplotlib.org/ 
  matterbridge  1.26.0-4  A simple chat bridge  https://github.com/42wim/matterbridge 
@@ -1669,12 +1685,13 @@
  mdbook-toc  0.15.3  A preprocessor for mdbook to add inline Table of Contents support  https://github.com/badboy/mdbook-toc 
  mdbtools  1.0.1-1  A set of programs to help you extract data from Microsoft Access files in various settings  https://github.com/mdbtools/mdbtools 
  mdbtools-static  1.0.1-1  Static libraries for mdbtools  https://github.com/mdbtools/mdbtools 
+ mdds  3.2.0-1  A collection of multi-dimensional data structures and indexing algorithms  https://gitlab.com/mdds/mdds 
  mdns-scan  0.5-3  A tool for scanning for mDNS/DNS-SD services published on the local network  https://github.com/alteholz/mdns-scan 
  mdp  1.0.18-1  Command-line based markdown presentation tool  https://github.com/visit1985/mdp 
  media-types  14.0.0  List of standard media types and their usual file extension  https://pagure.io/mailcap 
  mediainfo  25.10  Command-line utility for reading information from media files  https://mediaarea.net/en/MediaInfo 
  mediamtx  1.16.0  Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy  https://github.com/bluenviron/mediamtx 
- megacmd  2.3.0-2  Provides non UI access to MEGA services  https://mega.io/ 
+ megacmd  2.4.0  Provides non UI access to MEGA services  https://mega.io/ 
  megatools  1.11.5.20250706-1  Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage  https://xff.cz/megatools/ 
  memcached  1.6.40  Free & open source, high-performance, distributed memory object caching system  https://memcached.org/ 
  mercury  22.01.8-1  A logic/functional programming language  https://www.mercurylang.org/ 
@@ -1789,8 +1806,8 @@
  neocmakelsp  0.10.0  a cmake lsp based on tower-lsp and treesitter  https://neocmakelsp.github.io/ 
  neofetch  7.1.0-1  Simple system information script  https://github.com/dylanaraps/neofetch 
  neomutt  20260105  A version of mutt with added features  https://neomutt.org/ 
- neovim  0.11.5-3  Ambitious Vim-fork focused on extensibility and agility (nvim)  https://neovim.io/ 
- neovim-nightly  0.12.0~dev-2062+g30259d6af7-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
+ neovim  0.11.6  Ambitious Vim-fork focused on extensibility and agility (nvim)  https://neovim.io/ 
+ neovim-nightly  0.12.0~dev-2112+gb6befc7b03-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
  nerdfix  0.4.2-1  nerdfix helps you to find/fix obsolete Nerd Font icons in your project.  https://github.com/loichyan/nerdfix 
  net-snmp  5.9.5.2  Various tools relating to the Simple Network Management Protocol  http://www.net-snmp.org/ 
  net-snmp-static  5.9.5.2  Static libraries for net-snmp  http://www.net-snmp.org/ 
@@ -1854,6 +1871,7 @@
  onigmo-static  6.2.0-1  Static libraries for onigmo  https://github.com/k-takata/Onigmo 
  oniguruma  6.9.10-1  Regular expressions library  https://github.com/kkos/oniguruma 
  oniguruma-static  6.9.10-1  Static libraries for oniguruma  https://github.com/kkos/oniguruma 
+ onnxruntime  1.23.2-1  Cross-platform, high performance ML inferencing and training accelerator  https://onnxruntime.ai/ 
  oorexx  4.2.0-4  Open Object Rexx  https://www.oorexx.org/ 
  oorexx-static  4.2.0-4  Static libraries for oorexx  https://www.oorexx.org/ 
  open-adventure  1.20-1  Forward-port of the original Colossal Cave Adventure from 1976-77  http://www.catb.org/~esr/open-adventure/ 
@@ -2064,7 +2082,7 @@
  python-msgpack  1.1.2-1  MessagePack serializer implementation for Python  https://github.com/msgpack/msgpack-python 
  python-numpy  2.2.5-3  The fundamental package for scientific computing with Python  https://numpy.org/ 
  python-numpy-static  2.2.5-3  Static libraries for python-numpy  https://numpy.org/ 
- python-onnxruntime  1.23.2  Cross-platform, high performance ML inferencing and training accelerator  https://onnxruntime.ai/ 
+ python-onnxruntime  1.23.2-1  Cross-platform, high performance ML inferencing and training accelerator (Python bindings)  https://onnxruntime.ai/ 
  python-pillow  12.1.0-1  Python Imaging Library  https://python-pillow.org/ 
  python-pip  26.0-1  The PyPA recommended tool for installing Python packages  https://pip.pypa.io/ 
  python-pyarrow  23.0.0  Python bindings for Apache Arrow  https://github.com/apache/arrow 
@@ -2678,7 +2696,7 @@
  yosys  0.61-1  A framework for RTL synthesis tools  https://yosyshq.net/yosys/ 
  youtubedr  2.10.5  Download youtube video in Golang  https://github.com/kkdai/youtube 
  yq  4.52.2  A lightweight and portable command-line YAML, JSON and XML processor  https://mikefarah.gitbook.io/yq/ 
- yt-dlp-ejs  0.3.2-1  External JavaScript for yt-dlp supporting many runtimes  https://github.com/yt-dlp/ejs 
+ yt-dlp-ejs  0.4.0  External JavaScript for yt-dlp supporting many runtimes  https://github.com/yt-dlp/ejs 
  ytfzf  2.6.2  A POSIX script that helps you find Youtube videos (without API)  https://github.com/pystardust/ytfzf 
  ytui-music  2.0.0-beta-4  Youtube client in terminal for music  https://github.com/sudipghimire533/ytui-music 
  yuma123  2.13-4  Provides an opensource YANG API in C  https://yuma123.org/ 

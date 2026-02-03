@@ -391,7 +391,7 @@
   Description: Static libraries for attr
   Homepage: http://savannah.nongnu.org/projects/attr/
 - Package: atuin
-  Version: 18.10.0
+  Version: 18.11.0
   Description: Magical shell history
   Homepage: https://atuin.sh/
 - Package: aubio
@@ -1106,6 +1106,14 @@
   Version: 1.18-2
   Description: Indents C preprocessor directives to reflect their nesting, among other regularizations
   Homepage: https://www.gnu.org/software/cppi/
+- Package: cppunit
+  Version: 1.15.1-2
+  Description: A C++ unit testing framework
+  Homepage: https://www.freedesktop.org/wiki/Software/cppunit
+- Package: cppunit-static
+  Version: 1.15.1-2
+  Description: Static libraries for cppunit
+  Homepage: https://www.freedesktop.org/wiki/Software/cppunit
 - Package: cpufetch
   Version: 1.07-1
   Description: Simple yet fancy CPU architecture fetching tool
@@ -1979,7 +1987,7 @@
   Description: ForestDB dump tool
   Homepage: https://github.com/couchbase/forestdb
 - Package: forgejo
-  Version: 13.0.3
+  Version: 14.0.2
   Description: Forgejo is a self-hosted lightweight software forge.
   Homepage: https://forgejo.org/
 - Package: fortune
@@ -2307,7 +2315,7 @@
   Description: Extend git with Vincent Driessens branching model. The AVH Edition adds more functionality.
   Homepage: https://github.com/petervanderdoes/gitflow/
 - Package: gitoxide
-  Version: 0.49.0
+  Version: 0.50.0
   Description: Rust implementation of Git
   Homepage: https://github.com/Byron/gitoxide
 - Package: gitui
@@ -4022,6 +4030,14 @@
   Version: 3.49.1.20250307
   Description: SQLitePCLRaw is a Portable Class Library for low-level access to SQLite (native library)
   Homepage: https://github.com/ericsink/SQLitePCL.raw
+- Package: libetonyek
+  Version: 0.1.13
+  Description: CorelDraw file format importer library for LibreOffice
+  Homepage: https://wiki.documentfoundation.org/DLP/Libraries/libetonyek
+- Package: libetonyek-static
+  Version: 0.1.13
+  Description: Static libraries for libetonyek
+  Homepage: https://wiki.documentfoundation.org/DLP/Libraries/libetonyek
 - Package: libev
   Version: 4.33-2
   Description: Full-featured and high-performance event loop library
@@ -4522,6 +4538,14 @@
   Version: 1.6.7-2
   Description: Static libraries for libksba
   Homepage: https://gnupg.org/related_software/libksba/
+- Package: liblangtag
+  Version: 0.6.7-2
+  Description: interface library to access/deal with tags for identifying languages
+  Homepage: https://bitbucket.org/tagoh/liblangtag/wiki/Home
+- Package: liblangtag-static
+  Version: 0.6.7-2
+  Description: Static libraries for liblangtag
+  Homepage: https://bitbucket.org/tagoh/liblangtag/wiki/Home
 - Package: liblightning
   Version: 2.2.3-1
   Description: A library to aid in making portable programs that compile assembly code at run time
@@ -4954,6 +4978,14 @@
   Version: 0.16.6-2
   Description: An open source, high performance library for simulating rigid body dynamics
   Homepage: https://www.ode.org
+- Package: libodfgen
+  Version: 0.1.8-4
+  Description: Library for generating documents in Open Document Format
+  Homepage: https://sourceforge.net/p/libwpd/wiki/libodfgen/
+- Package: libodfgen-static
+  Version: 0.1.8-4
+  Description: Static libraries for libodfgen
+  Homepage: https://sourceforge.net/p/libwpd/wiki/libodfgen/
 - Package: libogg
   Version: 1.3.6-1
   Description: Library for working with the Ogg multimedia container format
@@ -5270,6 +5302,14 @@
   Version: 3.8.1-1
   Description: Static libraries for libretls
   Homepage: https://git.causal.agency/libretls/about/
+- Package: librevenge
+  Version: 0.0.5-3
+  Description: library for REVerses ENGineered formats filters
+  Homepage: https://sf.net/p/libwpd/librevenge/
+- Package: librevenge-static
+  Version: 0.0.5-3
+  Description: Static libraries for librevenge
+  Homepage: https://sf.net/p/libwpd/librevenge/
 - Package: librime
   Version: 1.16.1
   Description: A modular, extensible input method engine in cross-platform C++ code
@@ -5862,6 +5902,14 @@
   Version: 8.18.0-1
   Description: A fast image processing library with low memory needs
   Homepage: https://libvips.github.io/libvips/
+- Package: libvisio
+  Version: 0.1.10
+  Description: Library providing ability to interpret and import visio diagrams
+  Homepage: https://wiki.documentfoundation.org/DLP/Libraries/libvisio
+- Package: libvisio-static
+  Version: 0.1.10
+  Description: Static libraries for libvisio
+  Homepage: https://wiki.documentfoundation.org/DLP/Libraries/libvisio
 - Package: libvmaf
   Version: 3.0.0-2
   Description: A perceptual video quality assessment algorithm developed by Netflix
@@ -5946,6 +5994,22 @@
   Version: 5.8.4
   Description: A small, fast, portable implementation of TLS/SSL for embedded devices to the cloud
   Homepage: https://www.wolfssl.com/
+- Package: libwpd
+  Version: 0.10.3-3
+  Description: Library for importing WordPerfect (tm) documents
+  Homepage: https://libwpd.sourceforge.net/
+- Package: libwpg
+  Version: 0.3.4-3
+  Description: Library for importing and converting Corel WordPerfect(tm) Graphics images.
+  Homepage: https://libwpg.sourceforge.net/
+- Package: libwpg-static
+  Version: 0.3.4-3
+  Description: Static libraries for libwpg
+  Homepage: https://libwpg.sourceforge.net/
+- Package: libwps
+  Version: 0.4.14-2
+  Description: a Microsoft Works file word processor format import filter library
+  Homepage: https://sourceforge.net/projects/libwps/
 - Package: libwren
   Version: 0.4.0-4
   Description: Small, fast, class-based concurrent scripting language libraries
@@ -6555,7 +6619,7 @@
   Description: Small CLI app to learn with flashcards and spaced repetition
   Homepage: https://github.com/bttger/markdown-flashcards
 - Package: marksman
-  Version: 2025.11.30
+  Version: 2026.01.28
   Description: LSP language server for editing Markdown files
   Homepage: https://github.com/artempyanykh/marksman
 - Package: mathomatic
@@ -6682,6 +6746,10 @@
   Version: 1.0.1-1
   Description: Static libraries for mdbtools
   Homepage: https://github.com/mdbtools/mdbtools
+- Package: mdds
+  Version: 3.2.0-1
+  Description: A collection of multi-dimensional data structures and indexing algorithms
+  Homepage: https://gitlab.com/mdds/mdds
 - Package: mdns-scan
   Version: 0.5-3
   Description: A tool for scanning for mDNS/DNS-SD services published on the local network
@@ -6703,7 +6771,7 @@
   Description: Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy
   Homepage: https://github.com/bluenviron/mediamtx
 - Package: megacmd
-  Version: 2.3.0-2
+  Version: 2.4.0
   Description: Provides non UI access to MEGA services
   Homepage: https://mega.io/
 - Package: megatools
@@ -7163,11 +7231,11 @@
   Description: A version of mutt with added features
   Homepage: https://neomutt.org/
 - Package: neovim
-  Version: 0.11.5-3
+  Version: 0.11.6
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.12.0~dev-2062+g30259d6af7-0
+  Version: 0.12.0~dev-2112+gb6befc7b03-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -7422,6 +7490,10 @@
   Version: 6.9.10-1
   Description: Static libraries for oniguruma
   Homepage: https://github.com/kkos/oniguruma
+- Package: onnxruntime
+  Version: 1.23.2-1
+  Description: Cross-platform, high performance ML inferencing and training accelerator
+  Homepage: https://onnxruntime.ai/
 - Package: oorexx
   Version: 4.2.0-4
   Description: Open Object Rexx
@@ -8263,8 +8335,8 @@
   Description: Static libraries for python-numpy
   Homepage: https://numpy.org/
 - Package: python-onnxruntime
-  Version: 1.23.2
-  Description: Cross-platform, high performance ML inferencing and training accelerator
+  Version: 1.23.2-1
+  Description: Cross-platform, high performance ML inferencing and training accelerator (Python bindings)
   Homepage: https://onnxruntime.ai/
 - Package: python-pillow
   Version: 12.1.0-1
@@ -10719,7 +10791,7 @@
   Description: A lightweight and portable command-line YAML, JSON and XML processor
   Homepage: https://mikefarah.gitbook.io/yq/
 - Package: yt-dlp-ejs
-  Version: 0.3.2-1
+  Version: 0.4.0
   Description: External JavaScript for yt-dlp supporting many runtimes
   Homepage: https://github.com/yt-dlp/ejs
 - Package: ytfzf
