@@ -335,7 +335,7 @@
   Description: ASP.NET Core 8.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-runtime-9.0
-  Version: 9.0.11-1
+  Version: 9.0.12
   Description: ASP.NET Core 9.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-runtime-dbg-8.0
@@ -343,7 +343,7 @@
   Description: ASP.NET Core 8.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-runtime-dbg-9.0
-  Version: 9.0.11-1
+  Version: 9.0.12
   Description: ASP.NET Core 9.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-targeting-pack-8.0
@@ -351,7 +351,7 @@
   Description: ASP.NET Core 8.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-targeting-pack-9.0
-  Version: 9.0.11-1
+  Version: 9.0.12
   Description: ASP.NET Core 9.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: assimp
@@ -1451,7 +1451,7 @@
   Description: .NET 8.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-apphost-pack-9.0
-  Version: 9.0.11-1
+  Version: 9.0.12
   Description: .NET 9.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-host
@@ -1463,7 +1463,7 @@
   Description: .NET 8.0 Host
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-host-9.0
-  Version: 9.0.11-1
+  Version: 9.0.12
   Description: .NET 9.0 Host
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-hostfxr-8.0
@@ -1471,7 +1471,7 @@
   Description: .NET 8.0 Host Resolver
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-hostfxr-9.0
-  Version: 9.0.11-1
+  Version: 9.0.12
   Description: .NET 9.0 Host Resolver
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-8.0
@@ -1479,7 +1479,7 @@
   Description: .NET 8.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-9.0
-  Version: 9.0.11-1
+  Version: 9.0.12
   Description: .NET 9.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-dbg-8.0
@@ -1487,7 +1487,7 @@
   Description: .NET 8.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-dbg-9.0
-  Version: 9.0.11-1
+  Version: 9.0.12
   Description: .NET 9.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-8.0
@@ -1495,7 +1495,7 @@
   Description: .NET 8.0 SDK
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-9.0
-  Version: 9.0.11-1
+  Version: 9.0.12
   Description: .NET 9.0 SDK
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-dbg-8.0
@@ -1503,7 +1503,7 @@
   Description: .NET 8.0 SDK Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-dbg-9.0
-  Version: 9.0.11-1
+  Version: 9.0.12
   Description: .NET 9.0 SDK Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-targeting-pack-8.0
@@ -1511,7 +1511,7 @@
   Description: .NET 8.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-targeting-pack-9.0
-  Version: 9.0.11-1
+  Version: 9.0.12
   Description: .NET 9.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-templates-8.0
@@ -1519,7 +1519,7 @@
   Description: .NET 8.0 Templates
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-templates-9.0
-  Version: 9.0.11-1
+  Version: 9.0.12
   Description: .NET 9.0 Templates
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet8.0
@@ -1527,7 +1527,7 @@
   Description: .NET 8.0
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet9.0
-  Version: 9.0.11-1
+  Version: 9.0.12
   Description: .NET 9.0
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: double-conversion
@@ -3095,7 +3095,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.24.1008
+  Version: 0.24.1008-1
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -3267,7 +3267,7 @@
   Description: A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC
   Homepage: https://github.com/xtaci/kcptun
 - Package: keybase
-  Version: 6.5.1-1
+  Version: 6.5.2
   Description: Key directory that maps social media identities to encryption keys
   Homepage: https://keybase.io
 - Package: keychain
@@ -6619,7 +6619,7 @@
   Description: Small CLI app to learn with flashcards and spaced repetition
   Homepage: https://github.com/bttger/markdown-flashcards
 - Package: marksman
-  Version: 2026.01.28
+  Version: 2026.01.28-1
   Description: LSP language server for editing Markdown files
   Homepage: https://github.com/artempyanykh/marksman
 - Package: mathomatic
@@ -7287,7 +7287,7 @@
   Description: NETStandard.Library 2.1 Targeting Pack (.NET 8.0)
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: netstandard-targeting-pack-2.1-9.0
-  Version: 9.0.11-1
+  Version: 9.0.12
   Description: NETStandard.Library 2.1 Targeting Pack (.NET 9.0)
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: nettle
@@ -8415,7 +8415,7 @@
   Description: The Python X Library
   Homepage: https://github.com/python-xlib/python-xlib
 - Package: python-yt-dlp
-  Version: 2026.01.31
+  Version: 2026.02.04
   Description: A youtube-dl fork with additional features and fixes
   Homepage: https://github.com/yt-dlp/yt-dlp
 - Package: python2
@@ -8583,7 +8583,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 4.28.0
+  Version: 4.29.0
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
