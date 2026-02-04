@@ -173,7 +173,7 @@
 | **bsdtar** | 3.8.5 | The tar(1) and cpio(1) programs from FreeBSD, using libarchive | https://www.libarchive.org/ |
 | **btfs2** | 4.1.0 | Decentralized file system integrating with TRON network and Bittorrent network | https://www.bittorrent.com/btfs/ |
 | **btrfs-progs** | 6.17.1 | Utilities for Btrfs filesystem | https://btrfs.readthedocs.io/en/latest/ |
-| **buf** | 1.64.0 | A new way of working with Protocol Buffers | https://buf.build |
+| **buf** | 1.65.0 | A new way of working with Protocol Buffers | https://buf.build |
 | **build-essential** | 4.1 | A metapackage that installs essential development tools | https://github.com/termux/termux-packages |
 | **busybox** | 1.37.0-3 | Tiny versions of many common UNIX utilities into a single small executable | https://busybox.net/ |
 | **bvi** | 1.5.0-1 | Binary file editor based on vi | https://bvi.sourceforge.net/ |
@@ -1031,8 +1031,8 @@
 | **libfreexl** | 2.0.0-1 | Library to extract valid data from within an Excel (.xls) spreadsheet | https://www.gaia-gis.it/fossil/freexl |
 | **libfreexl-static** | 2.0.0-1 | Static libraries for libfreexl | https://www.gaia-gis.it/fossil/freexl |
 | **libftxui** | 6.1.9-1 | A simple C++ library for terminal based user interface | https://github.com/ArthurSonzogni/FTXUI |
-| **libfyaml** | 0.9.3 | Fully feature complete YAML parser and emitter | https://pantoniou.github.io/libfyaml/ |
-| **libfyaml-static** | 0.9.3 | Static libraries for libfyaml | https://pantoniou.github.io/libfyaml/ |
+| **libfyaml** | 0.9.4 | Fully feature complete YAML parser and emitter | https://pantoniou.github.io/libfyaml/ |
+| **libfyaml-static** | 0.9.4 | Static libraries for libfyaml | https://pantoniou.github.io/libfyaml/ |
 | **libgc** | 8.2.10 | Library providing the Boehm-Demers-Weiser conservative garbage collector | https://www.hboehm.info/gc/ |
 | **libgc-static** | 8.2.10 | Static libraries for libgc | https://www.hboehm.info/gc/ |
 | **libgcrypt** | 1.11.2-1 | General purpose cryptographic library based on the code from GnuPG | https://www.gnu.org/software/libgcrypt/ |
@@ -1783,7 +1783,7 @@
 | **natpmpc** | 20230423-2 | Portable and fully compliant implementation of NAT-PMP | https://miniupnp.tuxfamily.org/libnatpmp.html |
 | **natpmpc-static** | 20230423-2 | Static libraries for natpmpc | https://miniupnp.tuxfamily.org/libnatpmp.html |
 | **navi** | 2.24.0-1 | An interactive cheatsheet tool for the command-line | https://github.com/denisidoro/navi |
-| **navidrome** | 0.59.0-1 | Modern Music Server and Streamer compatible with Subsonic/Airsonic | https://www.navidrome.org/ |
+| **navidrome** | 0.60.0 | Modern Music Server and Streamer compatible with Subsonic/Airsonic | https://www.navidrome.org/ |
 | **ncdc** | 1.25-1 | Modern and lightweight direct connect client with a friendly ncurses interface | https://dev.yorhel.nl/ncdc |
 | **ncdu** | 1.22-1 | Disk usage analyzer | https://dev.yorhel.nl/ncdu |
 | **ncdu2** | 2.9.2 | Disk usage analyzer | https://dev.yorhel.nl/ncdu |
@@ -1792,11 +1792,11 @@
 | **ncompress** | 5.0-1 | The classic unix compression utility which can handle the ancient .Z archive | https://github.com/vapier/ncompress |
 | **ncpamixer** | 1.3.10-1 | An ncurses mixer for PulseAudio | https://github.com/fulhax/ncpamixer |
 | **ncspot** | 1.3.2 | An ncurses Spotify client written in Rust | https://github.com/hrkfdn/ncspot |
-| **ncurses** | 6.5.20240831-3 | Library for text-based user interfaces in a terminal-independent manner | https://invisible-island.net/ncurses/ |
-| **ncurses-static** | 6.5.20240831-3 | Static libraries for ncurses | https://invisible-island.net/ncurses/ |
-| **ncurses-ui-libs** | 6.5.20240831-3 | Libraries for terminal user interfaces based on ncurses | https://invisible-island.net/ncurses/ |
-| **ncurses-ui-libs-static** | 6.5.20240831-3 | Static libraries for terminal user interfaces based on ncurses | https://invisible-island.net/ncurses/ |
-| **ncurses-utils** | 6.5.20240831-3 | Tools for working with terminals | https://invisible-island.net/ncurses/ |
+| **ncurses** | 6.6.20260124 | Library for text-based user interfaces in a terminal-independent manner | https://invisible-island.net/ncurses/ |
+| **ncurses-static** | 6.6.20260124 | Static libraries for ncurses | https://invisible-island.net/ncurses/ |
+| **ncurses-ui-libs** | 6.6.20260124 | Libraries for terminal user interfaces based on ncurses | https://invisible-island.net/ncurses/ |
+| **ncurses-ui-libs-static** | 6.6.20260124 | Static libraries for terminal user interfaces based on ncurses | https://invisible-island.net/ncurses/ |
+| **ncurses-utils** | 6.6.20260124 | Tools for working with terminals | https://invisible-island.net/ncurses/ |
 | **ndk-multilib** | 29-1 | Multilib binaries for cross-compilation | https://developer.android.com/tools/sdk/ndk/index.html |
 | **ndk-multilib-native-static** | 29-1 | Install native static libs from NDK | https://developer.android.com/tools/sdk/ndk/index.html |
 | **ndk-multilib-native-stubs** | 29-1 | Install native stubs for shared libs from NDK | https://developer.android.com/tools/sdk/ndk/index.html |
@@ -2089,7 +2089,7 @@
 | **python-pycryptodomex** | 3.23.0-2 | A self-contained Python package of low-level cryptographic primitives | https://www.pycryptodome.org/ |
 | **python-pynvim** | 0.6.0-1 | Python client for Neovim | https://github.com/neovim/pynvim |
 | **python-ruff** | 0.15.0 | An extremely fast Python linter, written in Rust (Python bindings) | https://github.com/charliermarsh/ruff |
-| **python-sabyenc3** | 9.3.1 | C implementations of functions for use within SABnzbd | https://github.com/sabnzbd/sabctools |
+| **python-sabyenc3** | 9.3.2 | C implementations of functions for use within SABnzbd | https://github.com/sabnzbd/sabctools |
 | **python-skia-pathops** | 0.9.1 | Python bindings for the Skia library's Path Ops | https://github.com/fonttools/skia-pathops |
 | **python-static** | 3.12.12-1 | Static libraries for python | https://python.org/ |
 | **python-tflite-runtime** | 2.20.0-1 | TensorFlow Lite Python bindings | https://www.tensorflow.org/lite |
@@ -2144,7 +2144,7 @@
 | **rage** | 0.11.1-1 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4-1 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4-1 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
-| **railway-cli** | 4.27.6 | This is the command line interface for Railway | https://railway.app |
+| **railway-cli** | 4.28.0 | This is the command line interface for Railway | https://railway.app |
 | **range-v3** | 0.12.0 | Range library for C++14/17/20, basis for C++20's std::ranges | https://github.com/ericniebler/range-v3 |
 | **ranger** | 1.9.4 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-7 | Fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |
@@ -2734,7 +2734,7 @@
 | **zopfli** | 1.0.3-5 | New zlib compatible compressor tools | https://github.com/google/zopfli |
 | **zoxide** | 0.9.9 | A faster way to navigate your filesystem | https://github.com/ajeetdsouza/zoxide |
 | **zpaq** | 7.15-1 | Programmable file compressor, library and utilities. Based on the PAQ compression algorithm | http://mattmahoney.net/dc/zpaq.html |
-| **zrok** | 1.1.10 | An open source sharing solution built on OpenZiti. | https://zrok.io/ |
+| **zrok** | 1.1.11 | An open source sharing solution built on OpenZiti. | https://zrok.io/ |
 | **zsh** | 5.9-9 | Shell with lots of features | https://www.zsh.org |
 | **zsh-completions** | 0.35.0 | Additional completion definitions for Zsh | https://github.com/zsh-users/zsh-completions |
 | **zssh** | 1.5c-2 | A program for interactively transferring files to a remote machine while using the secure shell (ssh) | https://zssh.sourceforge.net/ |

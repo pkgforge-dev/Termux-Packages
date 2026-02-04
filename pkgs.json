@@ -1051,7 +1051,7 @@
   },
   {
     "Package": "buf",
-    "Version": "1.64.0",
+    "Version": "1.65.0",
     "Description": "A new way of working with Protocol Buffers",
     "Homepage": "https://buf.build"
   },
@@ -6199,13 +6199,13 @@
   },
   {
     "Package": "libfyaml",
-    "Version": "0.9.3",
+    "Version": "0.9.4",
     "Description": "Fully feature complete YAML parser and emitter",
     "Homepage": "https://pantoniou.github.io/libfyaml/"
   },
   {
     "Package": "libfyaml-static",
-    "Version": "0.9.3",
+    "Version": "0.9.4",
     "Description": "Static libraries for libfyaml",
     "Homepage": "https://pantoniou.github.io/libfyaml/"
   },
@@ -10711,7 +10711,7 @@
   },
   {
     "Package": "navidrome",
-    "Version": "0.59.0-1",
+    "Version": "0.60.0",
     "Description": "Modern Music Server and Streamer compatible with Subsonic/Airsonic",
     "Homepage": "https://www.navidrome.org/"
   },
@@ -10765,31 +10765,31 @@
   },
   {
     "Package": "ncurses",
-    "Version": "6.5.20240831-3",
+    "Version": "6.6.20260124",
     "Description": "Library for text-based user interfaces in a terminal-independent manner",
     "Homepage": "https://invisible-island.net/ncurses/"
   },
   {
     "Package": "ncurses-static",
-    "Version": "6.5.20240831-3",
+    "Version": "6.6.20260124",
     "Description": "Static libraries for ncurses",
     "Homepage": "https://invisible-island.net/ncurses/"
   },
   {
     "Package": "ncurses-ui-libs",
-    "Version": "6.5.20240831-3",
+    "Version": "6.6.20260124",
     "Description": "Libraries for terminal user interfaces based on ncurses",
     "Homepage": "https://invisible-island.net/ncurses/"
   },
   {
     "Package": "ncurses-ui-libs-static",
-    "Version": "6.5.20240831-3",
+    "Version": "6.6.20260124",
     "Description": "Static libraries for terminal user interfaces based on ncurses",
     "Homepage": "https://invisible-island.net/ncurses/"
   },
   {
     "Package": "ncurses-utils",
-    "Version": "6.5.20240831-3",
+    "Version": "6.6.20260124",
     "Description": "Tools for working with terminals",
     "Homepage": "https://invisible-island.net/ncurses/"
   },
@@ -12547,7 +12547,7 @@
   },
   {
     "Package": "python-sabyenc3",
-    "Version": "9.3.1",
+    "Version": "9.3.2",
     "Description": "C implementations of functions for use within SABnzbd",
     "Homepage": "https://github.com/sabnzbd/sabctools"
   },
@@ -12877,7 +12877,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "4.27.6",
+    "Version": "4.28.0",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -16417,7 +16417,7 @@
   },
   {
     "Package": "zrok",
-    "Version": "1.1.10",
+    "Version": "1.1.11",
     "Description": "An open source sharing solution built on OpenZiti.",
     "Homepage": "https://zrok.io/"
   },
