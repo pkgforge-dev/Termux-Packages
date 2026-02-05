@@ -2315,7 +2315,7 @@
   Description: Extend git with Vincent Driessens branching model. The AVH Edition adds more functionality.
   Homepage: https://github.com/petervanderdoes/gitflow/
 - Package: gitoxide
-  Version: 0.50.0
+  Version: 0.50.0-1
   Description: Rust implementation of Git
   Homepage: https://github.com/Byron/gitoxide
 - Package: gitui
@@ -4751,7 +4751,7 @@
   Description: Static libraries for libmodplug
   Homepage: https://modplug-xmms.sourceforge.net/
 - Package: libmosquitto
-  Version: 2.1.0
+  Version: 2.1.1
   Description: MQTT library
   Homepage: https://mosquitto.org/
 - Package: libmount
@@ -6963,7 +6963,7 @@
   Description: The mosh Perl script
   Homepage: https://mosh.org
 - Package: mosquitto
-  Version: 2.1.0
+  Version: 2.1.1
   Description: MQTT version 3.1/3.1.1 compatible message broker and clients
   Homepage: https://mosquitto.org/
 - Package: most
@@ -7231,11 +7231,11 @@
   Description: A version of mutt with added features
   Homepage: https://neomutt.org/
 - Package: neovim
-  Version: 0.11.6
+  Version: 0.11.6-1
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.12.0~dev-2112+gb6befc7b03-0
+  Version: 0.12.0~dev-2112+gb6befc7b03-1
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
