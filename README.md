@@ -193,8 +193,8 @@
 | **byobu** | 6.13 | Byobu is a GPLv3 open source text-based window manager and terminal multiplexer | https://www.byobu.org/ |
 | **bzip2** | 1.0.8-8 | Tools for working with bzip2 compression | http://www.bzip.org/ |
 | **c-ares** | 1.34.6 | Library for asynchronous DNS requests (including name resolves) | https://c-ares.org/ |
-| **c-toxcore** | 0.2.20-p20250105-2 | Backend library for the Tox protocol | https://tox.chat |
-| **c-toxcore-static** | 0.2.20-p20250105-2 | Static libraries for c-toxcore | https://tox.chat |
+| **c-toxcore** | 0.2.20-p20250105-3 | Backend library for the Tox protocol | https://tox.chat |
+| **c-toxcore-static** | 0.2.20-p20250105-3 | Static libraries for c-toxcore | https://tox.chat |
 | **ca-certificates** | 1:2025.12.02 | Common CA certificates | https://curl.se/docs/caextract.html |
 | **ca-certificates-java** | 1:2025.12.02 | Common CA certificates (java keystore format) | https://curl.se/docs/caextract.html |
 | **cabextract** | 1.11-1 | A program to extract Microsoft cabinet (.CAB) files | https://www.cabextract.org.uk/ |
@@ -482,7 +482,7 @@
 | **fetchmail** | 6.6.2 | A remote-mail retrieval utility | https://www.fetchmail.info/ |
 | **fetchmailconf** | 6.6.2 | A GUI configurator for generating fetchmail configuration files | https://www.fetchmail.info/ |
 | **fff** | 2.2 | A simple file manager written in bash | https://github.com/dylanaraps/fff |
-| **ffmpeg** | 8.0.1 | Tools and libraries to manipulate a wide range of multimedia formats and protocols | https://ffmpeg.org |
+| **ffmpeg** | 8.0.1-1 | Tools and libraries to manipulate a wide range of multimedia formats and protocols | https://ffmpeg.org |
 | **ffmpegthumbnailer** | 2.2.3-p20251103-0 | Lightweight video thumbnailer that can be used by file managers | https://github.com/dirkvdb/ffmpegthumbnailer |
 | **ffsend** | 0.2.77-2 | A fully featured Firefox Send client | https://gitlab.com/timvisee/ffsend |
 | **fftw** | 3.3.10-4 | Library for computing the Discrete Fourier Transform (DFT) in one or more dimensions | http://www.fftw.org/ |
@@ -675,8 +675,8 @@
 | **gsl-static** | 2.8-1 | Static libraries for gsl | https://www.gnu.org/software/gsl/ |
 | **gst-libav** | 1.28.0 | GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code | https://gstreamer.freedesktop.org/modules/gst-libav.html |
 | **gst-plugins-bad** | 1.28.0 | GStreamer Bad Plug-ins | https://gstreamer.freedesktop.org/ |
-| **gst-plugins-base** | 1.28.0 | GStreamer base plug-ins | https://gstreamer.freedesktop.org/ |
-| **gst-plugins-good** | 1.28.0 | GStreamer Good Plug-ins | https://gstreamer.freedesktop.org/ |
+| **gst-plugins-base** | 1.28.0-1 | GStreamer base plug-ins | https://gstreamer.freedesktop.org/ |
+| **gst-plugins-good** | 1.28.0-1 | GStreamer Good Plug-ins | https://gstreamer.freedesktop.org/ |
 | **gst-plugins-ugly** | 1.28.0 | GStreamer Ugly Plug-ins | https://gstreamer.freedesktop.org/ |
 | **gst-python** | 1.28.0 | Python bindings for GStreamer | https://gstreamer.freedesktop.org/ |
 | **gstreamer** | 1.28.0 | Open source multimedia framework | https://gstreamer.freedesktop.org/ |
@@ -794,9 +794,9 @@
 | **jbig2enc-static** | 2023.01.08-3 | Static libraries for jbig2enc | https://github.com/agl/jbig2enc |
 | **jcal** | 0.5.1-1 | UNIX-cal-like tool to display Jalali (Persian/Iranian) calendar | http://nongnu.org/jcal |
 | **jcal-static** | 0.5.1-1 | Static libraries for jcal | http://nongnu.org/jcal |
-| **jellyfin-ffmpeg** | 10.11.5 | FFmpeg for Jellyfin with custom extensions and enhancements | https://jellyfin.org |
-| **jellyfin-server** | 10.11.5 | A free media system for organizing and streaming media (server) | https://jellyfin.org |
-| **jfrog-cli** | 2.90.0 | A CLI for JFrog products | https://jfrog.com/getcli |
+| **jellyfin-ffmpeg** | 10.11.5-1 | FFmpeg for Jellyfin with custom extensions and enhancements | https://jellyfin.org |
+| **jellyfin-server** | 10.11.5-1 | A free media system for organizing and streaming media (server) | https://jellyfin.org |
+| **jfrog-cli** | 2.91.0 | A CLI for JFrog products | https://jfrog.com/getcli |
 | **jftui** | 0.7.5 | jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server. | https://github.com/Aanok/jftui |
 | **jhead** | 3.08-1 | Exif Jpeg header manipulation tool | http://www.sentex.net/~mwandel/jhead/ |
 | **jigdo** | 0.8.2-1 | Distribute large images by sending and receiving the files that make them up | http://atterer.org/jigdo/ |
@@ -834,7 +834,7 @@
 | **knockd** | 0.8.2-2 | A port-knocking daemon | https://zeroflux.org/projects/knock |
 | **knot-utils** | 3.2.4-2 | Knot DNS utilities | https://www.knot-dns.cz/ |
 | **kona** | 20211225-1 | Open-source implementation of the APL-like K programming language | https://github.com/kevinlawler/kona |
-| **kotlin** | 2.3.0 | The Kotlin Programming Language | https://kotlinlang.org/ |
+| **kotlin** | 2.3.10 | The Kotlin Programming Language | https://kotlinlang.org/ |
 | **krb5** | 1.22.2 | The Kerberos network authentication system | https://web.mit.edu/kerberos |
 | **kubecolor** | 0.5.3 | Colorize your kubectl output | https://github.com/kubecolor/kubecolor |
 | **kubectl** | 1.35.0 | Kubernetes.io client binary | https://kubernetes.io/ |
@@ -1496,8 +1496,8 @@
 | **libvoikko-static** | 4.3.3-2 | Static libraries for libvoikko | http://voikko.sourceforge.net |
 | **libvorbis** | 1.3.7-4 | Library for using the Ogg Vorbis compressed audio format | https://xiph.org/vorbis/ |
 | **libvorbis-static** | 1.3.7-4 | Static libraries for libvorbis | https://xiph.org/vorbis/ |
-| **libvpx** | 1:1.15.2-1 | VP8 & VP9 Codec SDK | https://www.webmproject.org |
-| **libvpx-static** | 1:1.15.2-1 | Static libraries for libvpx | https://www.webmproject.org |
+| **libvpx** | 1:1.16.0 | VP8 & VP9 Codec SDK | https://www.webmproject.org |
+| **libvpx-static** | 1:1.16.0 | Static libraries for libvpx | https://www.webmproject.org |
 | **libvterm** | 1:0.3.3-2 | Terminal emulator library | https://www.leonerd.org.uk/code/libvterm/ |
 | **libvxl** | 3.5.0-4 | A multi-platform collection of C++ software libraries for Computer Vision and Image Understanding | https://vxl.github.io |
 | **libwavpack** | 5.9.0 | A completely open audio compression format providing lossless, high-quality lossy, and a unique hybrid compression mode | https://www.wavpack.com/ |
@@ -2481,7 +2481,7 @@
 | **tinyproxy** | 1.11.2-1 | Light-weight HTTP proxy daemon for POSIX operating systems | https://tinyproxy.github.io/ |
 | **tinyscheme** | 1.42-2 | Very small scheme implementation | https://tinyscheme.sourceforge.net/home.html |
 | **tinysparql** | 3.10.1 | Desktop-neutral metadata-based search framework | https://gnome.pages.gitlab.gnome.org/tinysparql |
-| **tizonia** | 0.22.0-21 | A command-line streaming music client/server for Linux | https://github.com/tizonia/ |
+| **tizonia** | 0.22.0-22 | A command-line streaming music client/server for Linux | https://github.com/tizonia/ |
 | **tk** | 8.6.14-1 | A windowing toolkit for use with tcl | https://tcl.sourceforge.net/ |
 | **tmate** | 2.4.0-3 | Terminal multiplexer with instant terminal sharing | https://tmate.io |
 | **tmux** | 3.6a | Terminal multiplexer | https://tmux.github.io/ |
@@ -2628,8 +2628,8 @@
 | **vitetris** | 0.59.1-4 | Virtual terminal *tris clone | http://victornils.net/tetris/ |
 | **viu** | 1.6.1 | Terminal image viewer with native support for iTerm and Kitty | https://github.com/atanunq/viu |
 | **vivid** | 0.10.1-1 | A themeable LS_COLORS generator with a rich filetype datebase | https://github.com/sharkdp/vivid |
-| **vlc** | 3.0.23-1 | A popular libre and open source media player and multimedia engine | https://www.videolan.org/ |
-| **vlc-static** | 3.0.23-1 | Static libraries for vlc | https://www.videolan.org/ |
+| **vlc** | 3.0.23-2 | A popular libre and open source media player and multimedia engine | https://www.videolan.org/ |
+| **vlc-static** | 3.0.23-2 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-4 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.3-1 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
 | **vtm** | 2026.02.03 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |

@@ -1099,13 +1099,13 @@
   },
   {
     "Package": "c-toxcore",
-    "Version": "0.2.20-p20250105-2",
+    "Version": "0.2.20-p20250105-3",
     "Description": "Backend library for the Tox protocol",
     "Homepage": "https://tox.chat"
   },
   {
     "Package": "c-toxcore-static",
-    "Version": "0.2.20-p20250105-2",
+    "Version": "0.2.20-p20250105-3",
     "Description": "Static libraries for c-toxcore",
     "Homepage": "https://tox.chat"
   },
@@ -2833,7 +2833,7 @@
   },
   {
     "Package": "ffmpeg",
-    "Version": "8.0.1",
+    "Version": "8.0.1-1",
     "Description": "Tools and libraries to manipulate a wide range of multimedia formats and protocols",
     "Homepage": "https://ffmpeg.org"
   },
@@ -3991,13 +3991,13 @@
   },
   {
     "Package": "gst-plugins-base",
-    "Version": "1.28.0",
+    "Version": "1.28.0-1",
     "Description": "GStreamer base plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
   {
     "Package": "gst-plugins-good",
-    "Version": "1.28.0",
+    "Version": "1.28.0-1",
     "Description": "GStreamer Good Plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
@@ -4705,19 +4705,19 @@
   },
   {
     "Package": "jellyfin-ffmpeg",
-    "Version": "10.11.5",
+    "Version": "10.11.5-1",
     "Description": "FFmpeg for Jellyfin with custom extensions and enhancements",
     "Homepage": "https://jellyfin.org"
   },
   {
     "Package": "jellyfin-server",
-    "Version": "10.11.5",
+    "Version": "10.11.5-1",
     "Description": "A free media system for organizing and streaming media (server)",
     "Homepage": "https://jellyfin.org"
   },
   {
     "Package": "jfrog-cli",
-    "Version": "2.90.0",
+    "Version": "2.91.0",
     "Description": "A CLI for JFrog products",
     "Homepage": "https://jfrog.com/getcli"
   },
@@ -4945,7 +4945,7 @@
   },
   {
     "Package": "kotlin",
-    "Version": "2.3.0",
+    "Version": "2.3.10",
     "Description": "The Kotlin Programming Language",
     "Homepage": "https://kotlinlang.org/"
   },
@@ -8917,13 +8917,13 @@
   },
   {
     "Package": "libvpx",
-    "Version": "1:1.15.2-1",
+    "Version": "1:1.16.0",
     "Description": "VP8 & VP9 Codec SDK",
     "Homepage": "https://www.webmproject.org"
   },
   {
     "Package": "libvpx-static",
-    "Version": "1:1.15.2-1",
+    "Version": "1:1.16.0",
     "Description": "Static libraries for libvpx",
     "Homepage": "https://www.webmproject.org"
   },
@@ -14827,7 +14827,7 @@
   },
   {
     "Package": "tizonia",
-    "Version": "0.22.0-21",
+    "Version": "0.22.0-22",
     "Description": "A command-line streaming music client/server for Linux",
     "Homepage": "https://github.com/tizonia/"
   },
@@ -15709,13 +15709,13 @@
   },
   {
     "Package": "vlc",
-    "Version": "3.0.23-1",
+    "Version": "3.0.23-2",
     "Description": "A popular libre and open source media player and multimedia engine",
     "Homepage": "https://www.videolan.org/"
   },
   {
     "Package": "vlc-static",
-    "Version": "3.0.23-1",
+    "Version": "3.0.23-2",
     "Description": "Static libraries for vlc",
     "Homepage": "https://www.videolan.org/"
   },
