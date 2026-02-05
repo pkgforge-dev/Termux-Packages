@@ -1312,7 +1312,7 @@
 | **libqrencode** | 4.1.1-2 | Fast and compact library for encoding data in a QR Code symbol | https://fukuchi.org/works/qrencode/ |
 | **libraptor2** | 2.0.16-10 | RDF Syntax Library | https://librdf.org/raptor/ |
 | **libraptor2-static** | 2.0.16-10 | Static libraries for libraptor2 | https://librdf.org/raptor/ |
-| **libraqm** | 0.10.3 | Raqm is a small library that encapsulates the logic for complex text layout and provides a convenient API | https://github.com/HOST-Oman/libraqm |
+| **libraqm** | 0.10.4 | Raqm is a small library that encapsulates the logic for complex text layout and provides a convenient API | https://github.com/HOST-Oman/libraqm |
 | **librasqal** | 0.9.33-4 | RDF Query Library | https://librdf.org/rasqal/ |
 | **librasqal-static** | 0.9.33-4 | Static libraries for librasqal | https://librdf.org/rasqal/ |
 | **librav1e** | 0.8.1 | An AV1 encoder library focused on speed and safety | https://github.com/xiph/rav1e/ |
@@ -1824,7 +1824,7 @@
 | **nettle** | 3.10.2-1 | Low level cryptographic tools | https://www.lysator.liu.se/~nisse/nettle/ |
 | **newsboat** | 2.42 | RSS/Atom feed reader for the text console | https://newsboat.org/ |
 | **newsraft** | 0.35 | Newsraft is a feed reader with text-based user interface | https://codeberg.org/newsraft/newsraft |
-| **nginx** | 1.29.4-1 | Lightweight HTTP server | https://www.nginx.org |
+| **nginx** | 1.29.5 | Lightweight HTTP server | https://www.nginx.org |
 | **ngircd** | 27-1 | Free, portable and lightweight Internet Relay Chat server | https://ngircd.barton.de/ |
 | **ngspice** | 45.2 | A mixed-level/mixed-signal circuit simulator | https://ngspice.sourceforge.net/ |
 | **nim** | 2.2.6 | Nim programming language compiler | https://nim-lang.org/ |
@@ -2084,7 +2084,7 @@
 | **python-numpy-static** | 2.2.5-3 | Static libraries for python-numpy | https://numpy.org/ |
 | **python-onnxruntime** | 1.23.2-1 | Cross-platform, high performance ML inferencing and training accelerator (Python bindings) | https://onnxruntime.ai/ |
 | **python-pillow** | 12.1.0-1 | Python Imaging Library | https://python-pillow.org/ |
-| **python-pip** | 26.0-1 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
+| **python-pip** | 26.0.1 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
 | **python-pyarrow** | 23.0.0 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
 | **python-pycryptodomex** | 3.23.0-2 | A self-contained Python package of low-level cryptographic primitives | https://www.pycryptodome.org/ |
 | **python-pynvim** | 0.6.0-1 | Python client for Neovim | https://github.com/neovim/pynvim |

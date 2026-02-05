@@ -5255,7 +5255,7 @@
   Description: Static libraries for libraptor2
   Homepage: https://librdf.org/raptor/
 - Package: libraqm
-  Version: 0.10.3
+  Version: 0.10.4
   Description: Raqm is a small library that encapsulates the logic for complex text layout and provides a convenient API
   Homepage: https://github.com/HOST-Oman/libraqm
 - Package: librasqal
@@ -7303,7 +7303,7 @@
   Description: Newsraft is a feed reader with text-based user interface
   Homepage: https://codeberg.org/newsraft/newsraft
 - Package: nginx
-  Version: 1.29.4-1
+  Version: 1.29.5
   Description: Lightweight HTTP server
   Homepage: https://www.nginx.org
 - Package: ngircd
@@ -8343,7 +8343,7 @@
   Description: Python Imaging Library
   Homepage: https://python-pillow.org/
 - Package: python-pip
-  Version: 26.0-1
+  Version: 26.0.1
   Description: The PyPA recommended tool for installing Python packages
   Homepage: https://pip.pypa.io/
 - Package: python-pyarrow
