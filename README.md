@@ -1568,7 +1568,7 @@
 | **libxv** | 1.0.13-1 | Library for the X Video (Xv) extension to the X Window System | https://xorg.freedesktop.org/ |
 | **libxxf86vm** | 1.1.7 | X11 XFree86 video mode extension library | https://xorg.freedesktop.org/ |
 | **libyaml** | 0.2.5-5 | LibYAML is a YAML 1.1 parser and emitter written in C | https://pyyaml.org/wiki/LibYAML |
-| **libyaml-cpp** | 0.8.0-1 | A YAML parser and emitter in C++ matching the YAML 1.2 spec | https://github.com/jbeder/yaml-cpp |
+| **libyaml-cpp** | 0.9.0 | A YAML parser and emitter in C++ matching the YAML 1.2 spec | https://github.com/jbeder/yaml-cpp |
 | **libyaml-static** | 0.2.5-5 | Static libraries for libyaml | https://pyyaml.org/wiki/LibYAML |
 | **libzen** | 0.4.41-1 | ZenLib C++ utility library | https://mediaarea.net/en/MediaInfo |
 | **libzen-static** | 0.4.41-1 | Static libraries for libzen | https://mediaarea.net/en/MediaInfo |
