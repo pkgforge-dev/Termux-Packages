@@ -2907,7 +2907,7 @@
   Description: A CLI tool for sr.ht
   Homepage: https://git.sr.ht/~xenrox/hut
 - Package: hwdata
-  Version: "0.403"
+  Version: "0.404"
   Description: Database of hardware identification and configuration data
   Homepage: https://github.com/vcrhonek/hwdata
 - Package: hydroxide
@@ -4859,11 +4859,11 @@
   Description: Static libraries for libnet
   Homepage: https://github.com/libnet/libnet
 - Package: libnettle
-  Version: 3.10.2-1
+  Version: "4.0"
   Description: Cryptographic library that is designed to fit easily in more or less any context
   Homepage: https://www.lysator.liu.se/~nisse/nettle/
 - Package: libnettle-static
-  Version: 3.10.2-1
+  Version: "4.0"
   Description: Static libraries for libnettle
   Homepage: https://www.lysator.liu.se/~nisse/nettle/
 - Package: libnewt
@@ -6247,7 +6247,7 @@
   Description: Static libraries for libzen
   Homepage: https://mediaarea.net/en/MediaInfo
 - Package: libzim
-  Version: 9.4.1
+  Version: 9.5.0
   Description: The ZIM library is the reference implementation for the ZIM file format.
   Homepage: https://openzim.org
 - Package: libzimg
@@ -7291,7 +7291,7 @@
   Description: NETStandard.Library 2.1 Targeting Pack (.NET 9.0)
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: nettle
-  Version: 3.10.2-1
+  Version: "4.0"
   Description: Low level cryptographic tools
   Homepage: https://www.lysator.liu.se/~nisse/nettle/
 - Package: newsboat
@@ -7451,7 +7451,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 29.1.0
+  Version: 29.2.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -7743,7 +7743,7 @@
   Description: Archive OpenPGP keys on paper
   Homepage: http://www.jabberwocky.com/software/paperkey/
 - Package: par2
-  Version: 1.1.0
+  Version: 1.1.1
   Description: par2cmdline is a PAR 2.0 compatible file verification and repair tool
   Homepage: https://github.com/Parchive/par2cmdline
 - Package: parallel
