@@ -975,7 +975,7 @@
   Description: A cli tool to download specific GitHub directories or files
   Homepage: https://github.com/alok8bb/cloneit
 - Package: cloudflared
-  Version: 2026.1.2
+  Version: 2026.2.0
   Description: A tunneling daemon that proxies traffic from the Cloudflare network to your origins
   Homepage: https://github.com/cloudflare/cloudflared
 - Package: clpeak
@@ -7175,7 +7175,7 @@
   Description: An ncurses mixer for PulseAudio
   Homepage: https://github.com/fulhax/ncpamixer
 - Package: ncspot
-  Version: 1.3.2
+  Version: 1.3.3
   Description: An ncurses Spotify client written in Rust
   Homepage: https://github.com/hrkfdn/ncspot
 - Package: ncurses
@@ -7711,7 +7711,7 @@
   Description: Oxc JavaScript linter
   Homepage: https://oxc.rs/
 - Package: p11-kit
-  Version: 0.26.1
+  Version: 0.26.2
   Description: Provides a way to load and enumerate PKCS#11 modules
   Homepage: https://p11-glue.github.io/p11-glue/p11-kit.html
 - Package: p7zip
@@ -10367,7 +10367,7 @@
   Description: Static libraries for valadoc
   Homepage: https://wiki.gnome.org/Projects/Vala
 - Package: vale
-  Version: 3.13.0
+  Version: 3.13.1
   Description: A syntax-aware linter for prose built with speed and extensibility in mind
   Homepage: https://vale.sh
 - Package: valgrind
