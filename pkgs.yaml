@@ -1747,7 +1747,7 @@
   Description: Erlang HTML documentation
   Homepage: https://www.erlang.org/
 - Package: esbuild
-  Version: 0.27.2
+  Version: 0.27.3
   Description: An extremely fast JavaScript bundler
   Homepage: https://esbuild.github.io/
 - Package: espeak
@@ -4139,11 +4139,11 @@
   Description: Static libraries for libfyaml
   Homepage: https://pantoniou.github.io/libfyaml/
 - Package: libgc
-  Version: 8.2.10
+  Version: 8.2.12
   Description: Library providing the Boehm-Demers-Weiser conservative garbage collector
   Homepage: https://www.hboehm.info/gc/
 - Package: libgc-static
-  Version: 8.2.10
+  Version: 8.2.12
   Description: Static libraries for libgc
   Homepage: https://www.hboehm.info/gc/
 - Package: libgcrypt
@@ -9163,7 +9163,7 @@
   Description: A simple heat transfer simulator in pure Rust
   Homepage: https://github.com/file-acomplaint/simuwaerm
 - Package: sing-box
-  Version: 1.12.19
+  Version: 1.12.20
   Description: The universal proxy platform
   Homepage: https://sing-box.sagernet.org
 - Package: skate

@@ -2623,7 +2623,7 @@
   },
   {
     "Package": "esbuild",
-    "Version": "0.27.2",
+    "Version": "0.27.3",
     "Description": "An extremely fast JavaScript bundler",
     "Homepage": "https://esbuild.github.io/"
   },
@@ -6211,13 +6211,13 @@
   },
   {
     "Package": "libgc",
-    "Version": "8.2.10",
+    "Version": "8.2.12",
     "Description": "Library providing the Boehm-Demers-Weiser conservative garbage collector",
     "Homepage": "https://www.hboehm.info/gc/"
   },
   {
     "Package": "libgc-static",
-    "Version": "8.2.10",
+    "Version": "8.2.12",
     "Description": "Static libraries for libgc",
     "Homepage": "https://www.hboehm.info/gc/"
   },
@@ -13747,7 +13747,7 @@
   },
   {
     "Package": "sing-box",
-    "Version": "1.12.19",
+    "Version": "1.12.20",
     "Description": "The universal proxy platform",
     "Homepage": "https://sing-box.sagernet.org"
   },

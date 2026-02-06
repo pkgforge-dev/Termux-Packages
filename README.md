@@ -447,7 +447,7 @@
 | **entr** | 5.7-1 | Event Notify Test Runner - run arbitrary commands when files change | https://eradman.com/entrproject/ |
 | **erlang** | 28.3.1 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
 | **erlang-doc** | 28.3.1 | Erlang HTML documentation | https://www.erlang.org/ |
-| **esbuild** | 0.27.2 | An extremely fast JavaScript bundler | https://esbuild.github.io/ |
+| **esbuild** | 0.27.3 | An extremely fast JavaScript bundler | https://esbuild.github.io/ |
 | **espeak** | 1.52.0-1 | Compact software speech synthesizer | https://github.com/espeak-ng/espeak-ng |
 | **espeak-static** | 1.52.0-1 | Static libraries for espeak | https://github.com/espeak-ng/espeak-ng |
 | **et** | 6.2.11-3 | A remote shell that automatically reconnects without interrupting the session | https://eternalterminal.dev |
@@ -1045,8 +1045,8 @@
 | **libftxui** | 6.1.9-1 | A simple C++ library for terminal based user interface | https://github.com/ArthurSonzogni/FTXUI |
 | **libfyaml** | 0.9.4 | Fully feature complete YAML parser and emitter | https://pantoniou.github.io/libfyaml/ |
 | **libfyaml-static** | 0.9.4 | Static libraries for libfyaml | https://pantoniou.github.io/libfyaml/ |
-| **libgc** | 8.2.10 | Library providing the Boehm-Demers-Weiser conservative garbage collector | https://www.hboehm.info/gc/ |
-| **libgc-static** | 8.2.10 | Static libraries for libgc | https://www.hboehm.info/gc/ |
+| **libgc** | 8.2.12 | Library providing the Boehm-Demers-Weiser conservative garbage collector | https://www.hboehm.info/gc/ |
+| **libgc-static** | 8.2.12 | Static libraries for libgc | https://www.hboehm.info/gc/ |
 | **libgcrypt** | 1.11.2-1 | General purpose cryptographic library based on the code from GnuPG | https://www.gnu.org/software/libgcrypt/ |
 | **libgcrypt-static** | 1.11.2-1 | Static libraries for libgcrypt | https://www.gnu.org/software/libgcrypt/ |
 | **libgd** | 1:2.3.3-5 | GD is an open source code library for the dynamic creation of images by programmers | https://libgd.github.io/ |
@@ -2301,7 +2301,7 @@
 | **simh** | 1:3.12.5-1 | A collection of simulators for computer hardware and software from the past | http://simh.trailing-edge.com/ |
 | **simulavr** | 1:1.1.0-2 | Simulator for Microchip AVR (formerly Atmel) microcontrollers | https://www.nongnu.org/simulavr |
 | **simuwaerm** | 0.02-1 | A simple heat transfer simulator in pure Rust | https://github.com/file-acomplaint/simuwaerm |
-| **sing-box** | 1.12.19 | The universal proxy platform | https://sing-box.sagernet.org |
+| **sing-box** | 1.12.20 | The universal proxy platform | https://sing-box.sagernet.org |
 | **skate** | 1.0.1-1 | A personal key-value store | https://github.com/charmbracelet/skate |
 | **sl** | 5.05-1 | Tool curing your bad habit of mistyping | https://github.com/mtoyoda/sl |
 | **slang** | 2.3.3-2 | S-Lang is a powerful interpreted language | https://www.jedsoft.org/slang/ |
