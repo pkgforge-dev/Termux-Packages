@@ -831,7 +831,7 @@
   Description: A free compiler for 6502 based system
   Homepage: https://cc65.github.io/
 - Package: ccache
-  Version: 4.12.2
+  Version: 4.12.3
   Description: Compiler cache for fast recompilation of C/C++ code
   Homepage: https://ccache.samba.org
 - Package: cccc
@@ -1887,7 +1887,7 @@
   Description: A simple file manager written in bash
   Homepage: https://github.com/dylanaraps/fff
 - Package: ffmpeg
-  Version: 8.0.1-1
+  Version: 8.0.1-2
   Description: Tools and libraries to manipulate a wide range of multimedia formats and protocols
   Homepage: https://ffmpeg.org
 - Package: ffmpegthumbnailer
@@ -3139,11 +3139,11 @@
   Description: Static libraries for jcal
   Homepage: http://nongnu.org/jcal
 - Package: jellyfin-ffmpeg
-  Version: 10.11.5-1
+  Version: 10.11.5-2
   Description: FFmpeg for Jellyfin with custom extensions and enhancements
   Homepage: https://jellyfin.org
 - Package: jellyfin-server
-  Version: 10.11.5-1
+  Version: 10.11.5-2
   Description: A free media system for organizing and streaming media (server)
   Homepage: https://jellyfin.org
 - Package: jfrog-cli
@@ -9535,7 +9535,7 @@
   Description: Shell Users Revolutionary Front Rage Against the Web
   Homepage: https://gitlab.com/surfraw/Surfraw
 - Package: svt-av1
-  Version: 4.0.0
+  Version: 4.0.1
   Description: Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder)
   Homepage: https://gitlab.com/AOMediaCodec/SVT-AV1
 - Package: swaks
@@ -10178,6 +10178,10 @@
   Version: 0.4.0-1
   Description: The frontend for libtwolame
   Homepage: https://www.twolame.org/
+- Package: txikijs
+  Version: 1:26.2.0
+  Description: A small and powerful JavaScript runtime
+  Homepage: https://github.com/saghul/txiki.js
 - Package: typst
   Version: 0.14.2
   Description: A new markup-based typesetting system that is powerful and easy to learn
@@ -10491,7 +10495,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2026.02.05
+  Version: 2026.02.06
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vttest
