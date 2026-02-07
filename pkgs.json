@@ -2917,13 +2917,13 @@
   },
   {
     "Package": "flatbuffers",
-    "Version": "25.12.19",
+    "Version": "25.12.19-2026-02-06-03fffb2-0",
     "Description": "Memory Efficient Serialization Library",
     "Homepage": "https://github.com/google/flatbuffers"
   },
   {
     "Package": "flatbuffers-static",
-    "Version": "25.12.19",
+    "Version": "25.12.19-2026-02-06-03fffb2-0",
     "Description": "Static libraries for flatbuffers",
     "Homepage": "https://github.com/google/flatbuffers"
   },
@@ -15433,7 +15433,7 @@
   },
   {
     "Package": "urdfdom",
-    "Version": "5.0.4",
+    "Version": "5.1.0",
     "Description": "Unified Robot Description Format (URDF) parser library and tools",
     "Homepage": "https://github.com/ros/urdfdom"
   },
@@ -15787,7 +15787,7 @@
   },
   {
     "Package": "vulkan-loader-generic",
-    "Version": "1.4.342",
+    "Version": "1.4.343",
     "Description": "Vulkan Loader",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Loader"
   },
@@ -15799,7 +15799,7 @@
   },
   {
     "Package": "vulkan-utility-libraries",
-    "Version": "1.4.342",
+    "Version": "1.4.343",
     "Description": "Utility Libraries for Vulkan",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Utility-Libraries"
   },

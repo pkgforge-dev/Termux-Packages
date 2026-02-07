@@ -484,8 +484,8 @@
  findutils  4.10.0-1  Utilities to find files meeting specified criteria and perform various actions on the files which are found  https://www.gnu.org/software/findutils/ 
  fish  4.4.0  The user-friendly command line shell  https://fishshell.com/ 
  flac  1.5.0-1  FLAC (Free Lossless Audio Codec) command-line tool  https://xiph.org/flac/ 
- flatbuffers  25.12.19  Memory Efficient Serialization Library  https://github.com/google/flatbuffers 
- flatbuffers-static  25.12.19  Static libraries for flatbuffers  https://github.com/google/flatbuffers 
+ flatbuffers  25.12.19-2026-02-06-03fffb2-0  Memory Efficient Serialization Library  https://github.com/google/flatbuffers 
+ flatbuffers-static  25.12.19-2026-02-06-03fffb2-0  Static libraries for flatbuffers  https://github.com/google/flatbuffers 
  flex  2.6.4-4  Fast lexical analyser generator  https://github.com/westes/flex 
  flex-static  2.6.4-4  Static libraries for flex  https://github.com/westes/flex 
  fluidsynth  2.5.2  Software synthesizer based on the SoundFont 2 specifications  https://github.com/FluidSynth/fluidsynth 
@@ -2570,7 +2570,7 @@
  update-info-dir  7.2-4  Update or create index file from all installed info files in directory  https://www.gnu.org/software/texinfo/ 
  upower  1.91.0  Power management support for DeviceKit  https://upower.freedesktop.org/ 
  upx  5.1.0  the Ultimate Packer for eXecutables  https://upx.github.io/ 
- urdfdom  5.0.4  Unified Robot Description Format (URDF) parser library and tools  https://github.com/ros/urdfdom 
+ urdfdom  5.1.0  Unified Robot Description Format (URDF) parser library and tools  https://github.com/ros/urdfdom 
  urdfdom-headers  2.1.0  Headers for URDF parsers  https://github.com/ros/urdfdom_headers 
  usbmuxd  1.1.1-p20250201-2  A socket daemon to multiplex connections from and to iOS devices  https://libimobiledevice.org 
  usql  0.20.8  A universal command-line interface for SQL databases  https://github.com/xo/usql 
@@ -2629,9 +2629,9 @@
  vulkan-icd  0.1  A metapackage that provides Vulkan ICDs  https://github.com/termux/termux-packages 
  vulkan-loader  0.0.3  A metapackage that provides vulkan loader library  https://github.com/termux/termux-packages 
  vulkan-loader-android  29  Vulkan Loader for Android  https://source.android.com/devices/graphics/arch-vulkan 
- vulkan-loader-generic  1.4.342  Vulkan Loader  https://github.com/KhronosGroup/Vulkan-Loader 
+ vulkan-loader-generic  1.4.343  Vulkan Loader  https://github.com/KhronosGroup/Vulkan-Loader 
  vulkan-tools  1.4.342  Vulkan Tools and Utilities  https://github.com/KhronosGroup/Vulkan-Tools 
- vulkan-utility-libraries  1.4.342  Utility Libraries for Vulkan  https://github.com/KhronosGroup/Vulkan-Utility-Libraries 
+ vulkan-utility-libraries  1.4.343  Utility Libraries for Vulkan  https://github.com/KhronosGroup/Vulkan-Utility-Libraries 
  vulkan-validation-layers  1.4.342  Vulkan Validation Layers  https://github.com/KhronosGroup/Vulkan-ValidationLayers 
  vulkan-volk  1.4.304  Meta loader for Vulkan API  https://github.com/zeux/volk 
  w3m  0.5.6  Text based Web browser and pager  https://w3m.sourceforge.net/ 
