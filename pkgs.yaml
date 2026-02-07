@@ -7471,7 +7471,7 @@
   Description: The GNU Spreadsheet
   Homepage: https://www.gnu.org/software/oleo/
 - Package: oma
-  Version: 1.23.4
+  Version: 1.23.5
   Description: oma is an attempt at reworking APTs interface
   Homepage: https://aosc.io/oma
 - Package: onefetch
@@ -7495,7 +7495,7 @@
   Description: Static libraries for oniguruma
   Homepage: https://github.com/kkos/oniguruma
 - Package: onnxruntime
-  Version: 1.23.2-1
+  Version: 1.24.1
   Description: Cross-platform, high performance ML inferencing and training accelerator
   Homepage: https://onnxruntime.ai/
 - Package: oorexx
@@ -8339,7 +8339,7 @@
   Description: Static libraries for python-numpy
   Homepage: https://numpy.org/
 - Package: python-onnxruntime
-  Version: 1.23.2-1
+  Version: 1.24.1
   Description: Cross-platform, high performance ML inferencing and training accelerator (Python bindings)
   Homepage: https://onnxruntime.ai/
 - Package: python-pillow
@@ -10491,7 +10491,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2026.02.03
+  Version: 2026.02.05
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vttest
