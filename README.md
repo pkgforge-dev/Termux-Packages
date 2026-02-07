@@ -430,7 +430,7 @@
 | **electric-fence-static** | 2.2.7-1 | Static libraries for electric-fence | https://elinux.org/Electric_Fence |
 | **electrum** | 4.5.8-3 | Electrum is a lightweight Bitcoin wallet | https://electrum.org |
 | **elfutils** | 0.193-1 | A collection of utilities to read, create and modify ELF binary files | https://sourceware.org/elfutils/ |
-| **elinks** | 0.19.0-1 | Full-Featured Text WWW Browser | https://github.com/rkd77/elinks |
+| **elinks** | 0.19.1 | Full-Featured Text WWW Browser | https://github.com/rkd77/elinks |
 | **elixir** | 1.19.5 | Elixir is a dynamic, functional language designed for building scalable and maintainable applications | https://elixir-lang.org/ |
 | **eltclsh** | 1.20-1 | Interactive shell for TCL programming language | https://homepages.laas.fr/mallet/soft/shell/eltclsh |
 | **elvish** | 0.21.0-1 | A friendly and expressive Unix shell | https://github.com/elves/elvish |
@@ -844,7 +844,7 @@
 | **ladspa-sdk** | 1.17-2 | Linux Audio Developer's Simple Plugin API | https://www.ladspa.org/ |
 | **lame** | 3.100-7 | High quality MPEG Audio Layer III (MP3) encoder - frontend | https://lame.sourceforge.io/ |
 | **lastpass-cli** | 1.6.1-4 | LastPass command line interface tool | https://lastpass.com/ |
-| **lazygit** | 0.58.1 | Simple terminal UI for git commands | https://github.com/jesseduffield/lazygit |
+| **lazygit** | 0.59.0 | Simple terminal UI for git commands | https://github.com/jesseduffield/lazygit |
 | **lcal** | 2.1.0-1 | A multi-platform program which generates PostScript lunar calendars in a yearly format | https://pcal.sourceforge.net/ |
 | **ldc** | 1.30.0-2 | D programming language compiler, built with LLVM | https://github.com/ldc-developers/ldc |
 | **ldd** | 0.3 | Fake ldd command | https://github.com/termux/termux-packages |
