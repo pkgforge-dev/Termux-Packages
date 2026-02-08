@@ -879,11 +879,11 @@
   Description: A fast and lightweight GIF encoding library
   Homepage: https://github.com/dloebl/cgif
 - Package: chafa
-  Version: 1.18.0-1
+  Version: 1.18.1
   Description: Image-to-text converter supporting a wide range of symbols, etc.
   Homepage: https://hpjansson.org/chafa/
 - Package: chafa-static
-  Version: 1.18.0-1
+  Version: 1.18.1
   Description: Static libraries for chafa
   Homepage: https://hpjansson.org/chafa/
 - Package: check
@@ -2714,6 +2714,10 @@
   Version: 0.10.1-1
   Description: Static libraries for gumbo-parser
   Homepage: https://github.com/google/gumbo-parser
+- Package: gweather-locations
+  Version: "2025.1"
+  Description: The GWeather locations database
+  Homepage: https://gitlab.gnome.org/GNOME/gweather-locations
 - Package: gzip
   Version: 1.14-1
   Description: Standard GNU file compression utilities
@@ -8699,7 +8703,7 @@
   Description: TCP port redirector for UNIX
   Homepage: https://github.com/troglobit/redir
 - Package: redis
-  Version: 1:8.4.0
+  Version: 1:8.4.1
   Description: In-memory data structure store used as a database, cache and message broker
   Homepage: https://redis.io/
 - Package: remind
