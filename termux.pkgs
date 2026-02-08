@@ -652,8 +652,8 @@
 | **graphviz** | 14.1.2 | Rich set of graph drawing tools | https://www.graphviz.org/ |
 | **graphviz-static** | 14.1.2 | Static libraries for graphviz | https://www.graphviz.org/ |
 | **greed** | 4.3-1 | Game where you try to eat as much as possible of the board before munching yourself into a corner | http://www.catb.org/~esr/greed/ |
-| **grep** | 3.12-2 | Command which searches one or more input files for lines containing a match to a specified pattern | https://www.gnu.org/software/grep/ |
-| **grex** | 1.4.6 | Simplifies the task of creating regular expressions | https://github.com/pemistahl/grex |
+| **grep** | 3.12-3 | Command which searches one or more input files for lines containing a match to a specified pattern | https://www.gnu.org/software/grep/ |
+| **grex** | 1.4.6-1 | Simplifies the task of creating regular expressions | https://github.com/pemistahl/grex |
 | **groff** | 1.23.0-2 | typesetting system that reads plain text mixed with formatting commands and produces formatted output | https://www.gnu.org/software/groff/ |
 | **gron** | 0.7.1-4 | Transforms JSON into discrete assignments | https://github.com/tomnomnom/gron |
 | **groonga** | 15.2.5 | An embeddable fulltext search engine | https://github.com/groonga/groonga/ |
@@ -1142,8 +1142,8 @@
 | **libliquid-dsp-static** | 1.7.0-1 | Static libraries for libliquid-dsp | https://liquidsdr.org/ |
 | **libllvm** | 21.1.8 | Modular compiler and toolchain technologies library | https://clang.llvm.org/ |
 | **libllvm-static** | 21.1.8 | Static libraries for libllvm | https://clang.llvm.org/ |
-| **liblmdb** | 0.9.34 | LMDB implements a simplified variant of the BerkeleyDB (BDB) API | https://symas.com/lmdb/ |
-| **liblmdb-static** | 0.9.34 | Static libraries for liblmdb | https://symas.com/lmdb/ |
+| **liblmdb** | 0.9.35 | LMDB implements a simplified variant of the BerkeleyDB (BDB) API | https://symas.com/lmdb/ |
+| **liblmdb-static** | 0.9.35 | Static libraries for liblmdb | https://symas.com/lmdb/ |
 | **liblo** | 0.34 | A lightweight library that provides an easy to use implementation of the OSC protocol | https://liblo.sourceforge.net/ |
 | **liblo-static** | 0.34 | Static libraries for liblo | https://liblo.sourceforge.net/ |
 | **liblog4c** | 1.2.4-2 | A C library for flexible logging to files, syslog and other destinations | https://log4c.sourceforge.net/ |
@@ -1433,9 +1433,9 @@
 | **libtommath** | 1.3.0 | A free open source portable number theoretic multiple-precision integer library | https://www.libtom.net/LibTomMath/ |
 | **libtommath-static** | 1.3.0 | Static libraries for libtommath | https://www.libtom.net/LibTomMath/ |
 | **libtool** | 2.5.4-2 | Generic library support script hiding the complexity of using shared libraries behind a consistent, portable interface | https://www.gnu.org/software/libtool/ |
-| **libtorrent** | 0.16.6 | Libtorrent BitTorrent library | https://github.com/rakshasa/rtorrent/wiki |
+| **libtorrent** | 0.16.6-1 | Libtorrent BitTorrent library | https://github.com/rakshasa/rtorrent/wiki |
 | **libtorrent-rasterbar** | 2.0.11-5 | A feature complete C++ bittorrent implementation focusing on efficiency and scalability | https://libtorrent.org/ |
-| **libtorrent-static** | 0.16.6 | Static libraries for libtorrent | https://github.com/rakshasa/rtorrent/wiki |
+| **libtorrent-static** | 0.16.6-1 | Static libraries for libtorrent | https://github.com/rakshasa/rtorrent/wiki |
 | **libtpms** | 0.10.2 | Provides software emulation of a Trusted Platform Module (TPM 1.2 and TPM 2.0) | https://github.com/stefanberger/libtpms |
 | **libtpms-static** | 0.10.2 | Static libraries for libtpms | https://github.com/stefanberger/libtpms |
 | **libtranscript** | 0.3.4-1 | A character-set conversion library | https://os.ghalkes.nl/libtranscript.html |
@@ -1506,8 +1506,8 @@
 | **libwslay** | 1.1.1-2 | WebSocket library | https://github.com/tatsuhiro-t/wslay |
 | **libwv** | 1.2.9-6 | A library which allows access to Microsoft Word files | https://wvware.sourceforge.net/ |
 | **libwv-static** | 1.2.9-6 | Static libraries for libwv | https://wvware.sourceforge.net/ |
-| **libx11** | 1.8.12-1 | X11 client-side library | https://xorg.freedesktop.org/ |
-| **libx11-static** | 1.8.12-1 | Static libraries for libx11 | https://xorg.freedesktop.org/ |
+| **libx11** | 1.8.13 | X11 client-side library | https://xorg.freedesktop.org/ |
+| **libx11-static** | 1.8.13 | Static libraries for libx11 | https://xorg.freedesktop.org/ |
 | **libx264** | 1:0.164.3191-1 | Library for encoding video streams into the H.264/MPEG-4 AVC format | https://www.videolan.org/developers/x264.html |
 | **libx264-static** | 1:0.164.3191-1 | Static libraries for libx264 | https://www.videolan.org/developers/x264.html |
 | **libx265** | 4.1-3 | H.265/HEVC video stream encoder library | http://x265.org/ |
@@ -2725,7 +2725,7 @@
 | **zeronet** | 0.7.1-9 | Decentralized websites using Bitcoin crypto and BitTorrent network | https://zeronet.io/ |
 | **zig** | 0.15.2 | General-purpose programming language and toolchain | https://ziglang.org |
 | **zile** | 2.6.4-2 | Lightweight clone of the Emacs text editor | https://www.gnu.org/software/zile/ |
-| **zip** | 3.0-6 | Tools for working with zip files | https://sourceforge.net/projects/infozip/ |
+| **zip** | 3.0-7 | Tools for working with zip files | https://sourceforge.net/projects/infozip/ |
 | **zipios** | 2.3.4 | A small C++ library for reading and writing zip files | https://zipios.sourceforge.io/ |
 | **zk** | 0.15.2 | A plain text note-taking assistant | https://zk-org.github.io/zk/ |
 | **zlib** | 1.3.1-1 | Compression library implementing the deflate compression method found in gzip and PKZIP | https://www.zlib.net/ |

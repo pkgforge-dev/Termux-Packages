@@ -3925,13 +3925,13 @@
   },
   {
     "Package": "grep",
-    "Version": "3.12-2",
+    "Version": "3.12-3",
     "Description": "Command which searches one or more input files for lines containing a match to a specified pattern",
     "Homepage": "https://www.gnu.org/software/grep/"
   },
   {
     "Package": "grex",
-    "Version": "1.4.6",
+    "Version": "1.4.6-1",
     "Description": "Simplifies the task of creating regular expressions",
     "Homepage": "https://github.com/pemistahl/grex"
   },
@@ -6865,13 +6865,13 @@
   },
   {
     "Package": "liblmdb",
-    "Version": "0.9.34",
+    "Version": "0.9.35",
     "Description": "LMDB implements a simplified variant of the BerkeleyDB (BDB) API",
     "Homepage": "https://symas.com/lmdb/"
   },
   {
     "Package": "liblmdb-static",
-    "Version": "0.9.34",
+    "Version": "0.9.35",
     "Description": "Static libraries for liblmdb",
     "Homepage": "https://symas.com/lmdb/"
   },
@@ -8611,7 +8611,7 @@
   },
   {
     "Package": "libtorrent",
-    "Version": "0.16.6",
+    "Version": "0.16.6-1",
     "Description": "Libtorrent BitTorrent library",
     "Homepage": "https://github.com/rakshasa/rtorrent/wiki"
   },
@@ -8623,7 +8623,7 @@
   },
   {
     "Package": "libtorrent-static",
-    "Version": "0.16.6",
+    "Version": "0.16.6-1",
     "Description": "Static libraries for libtorrent",
     "Homepage": "https://github.com/rakshasa/rtorrent/wiki"
   },
@@ -9049,13 +9049,13 @@
   },
   {
     "Package": "libx11",
-    "Version": "1.8.12-1",
+    "Version": "1.8.13",
     "Description": "X11 client-side library",
     "Homepage": "https://xorg.freedesktop.org/"
   },
   {
     "Package": "libx11-static",
-    "Version": "1.8.12-1",
+    "Version": "1.8.13",
     "Description": "Static libraries for libx11",
     "Homepage": "https://xorg.freedesktop.org/"
   },
@@ -16363,7 +16363,7 @@
   },
   {
     "Package": "zip",
-    "Version": "3.0-6",
+    "Version": "3.0-7",
     "Description": "Tools for working with zip files",
     "Homepage": "https://sourceforge.net/projects/infozip/"
   },
