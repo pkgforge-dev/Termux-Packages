@@ -166,7 +166,7 @@
 | **brainfuck-static** | 1:2.7.3-1 | Static libraries for brainfuck | https://github.com/fabianishere/brainfuck |
 | **brogue** | 1.14.1-1 | Roguelike dungeon crawling game (community edition) | https://sites.google.com/site/broguegame/ |
 | **brook** | 20260101.0 | A cross-platform strong encryption and not detectable proxy. Zero-Configuration. | https://github.com/txthinking/brook |
-| **broot** | 1.54.0 | A better way to navigate directories | https://github.com/Canop/broot |
+| **broot** | 1.55.0 | A better way to navigate directories | https://github.com/Canop/broot |
 | **brotli** | 1.2.0 | lossless compression algorithm and format (command line utility) | https://github.com/google/brotli |
 | **bsd-finger** | 0.17-3 | User information lookup program | https://packages.debian.org/sid/source/bsd-finger |
 | **bsd-games** | 1:3.3-1 | Classic text mode games from UNIX folklore | https://www.polyomino.org.uk/computer/software/bsd-games/ |
@@ -731,8 +731,8 @@
 | **hydroxide** | 0.2.31 | A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge | https://github.com/emersion/hydroxide |
 | **hyperfine** | 1.20.0 | A command-line benchmarking tool | https://github.com/sharkdp/hyperfine |
 | **hz** | 0.10.4 | A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices | https://www.cloudwego.io |
-| **i2pd** | 2.58.0-1 | A full-featured C++ implementation of the I2P router | https://i2pd.website/ |
-| **i2pd-static** | 2.58.0-1 | Static libraries for i2pd | https://i2pd.website/ |
+| **i2pd** | 2.59.0 | A full-featured C++ implementation of the I2P router | https://i2pd.website/ |
+| **i2pd-static** | 2.59.0 | Static libraries for i2pd | https://i2pd.website/ |
 | **iat** | 0.1.7 | Iso9660 Analyzer Tool | http://iat.berlios.de/ |
 | **icecast** | 2.4.4-8 | Icecast is a streaming media (audio/video) server | https://icecast.org |
 | **ices** | 2.0.3-1 | IceS is a source client for the Icecast streaming server. | https://icecast.org/ices/ |
@@ -2595,7 +2595,8 @@
 | **vale** | 3.13.1 | A syntax-aware linter for prose built with speed and extensibility in mind | https://vale.sh |
 | **valgrind** | 3.22.0-1 | Instrumentation framework for building dynamic analysis tools | https://valgrind.org/ |
 | **valgrind-static** | 3.22.0-1 | Static libraries for valgrind | https://valgrind.org/ |
-| **valkey-static** | 9.0.1 | Static libraries for valkey | https://valkey.io/ |
+| **valkey** | 9.0.2 | In-memory data structure store used as a database, cache and message broker | https://valkey.io/ |
+| **valkey-static** | 9.0.2 | Static libraries for valkey | https://valkey.io/ |
 | **vamp-plugin-sdk** | 2.10-3 | An API for audio analysis and feature extraction plugins | https://www.vamp-plugins.org/ |
 | **vamp-plugin-sdk-static** | 2.10-3 | Static libraries for vamp-plugin-sdk | https://www.vamp-plugins.org/ |
 | **vapoursynth** | 73 | Video processing framework with simplicity in mind | https://www.vapoursynth.com/ |

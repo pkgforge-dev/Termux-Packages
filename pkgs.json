@@ -1009,7 +1009,7 @@
   },
   {
     "Package": "broot",
-    "Version": "1.54.0",
+    "Version": "1.55.0",
     "Description": "A better way to navigate directories",
     "Homepage": "https://github.com/Canop/broot"
   },
@@ -4399,13 +4399,13 @@
   },
   {
     "Package": "i2pd",
-    "Version": "2.58.0-1",
+    "Version": "2.59.0",
     "Description": "A full-featured C++ implementation of the I2P router",
     "Homepage": "https://i2pd.website/"
   },
   {
     "Package": "i2pd-static",
-    "Version": "2.58.0-1",
+    "Version": "2.59.0",
     "Description": "Static libraries for i2pd",
     "Homepage": "https://i2pd.website/"
   },
@@ -15582,8 +15582,14 @@
     "Homepage": "https://valgrind.org/"
   },
   {
+    "Package": "valkey",
+    "Version": "9.0.2",
+    "Description": "In-memory data structure store used as a database, cache and message broker",
+    "Homepage": "https://valkey.io/"
+  },
+  {
     "Package": "valkey-static",
-    "Version": "9.0.1",
+    "Version": "9.0.2",
     "Description": "Static libraries for valkey",
     "Homepage": "https://valkey.io/"
   },
