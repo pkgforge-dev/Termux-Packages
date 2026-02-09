@@ -4759,7 +4759,7 @@
   Description: Static libraries for libmodplug
   Homepage: https://modplug-xmms.sourceforge.net/
 - Package: libmosquitto
-  Version: 2.1.1
+  Version: 2.1.2
   Description: MQTT library
   Homepage: https://mosquitto.org/
 - Package: libmount
@@ -6531,9 +6531,9 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.25.2
+  Version: 0.25.2-1
   Description: A package manager for Lua, similar to luarocks
-  Homepage: https://nvim-neorocks.github.io/
+  Homepage: https://lux.lumen-labs.org
 - Package: lv2
   Version: 1.18.10-6
   Description: A plugin standard for audio systems
@@ -6971,7 +6971,7 @@
   Description: The mosh Perl script
   Homepage: https://mosh.org
 - Package: mosquitto
-  Version: 2.1.1
+  Version: 2.1.2
   Description: MQTT version 3.1/3.1.1 compatible message broker and clients
   Homepage: https://mosquitto.org/
 - Package: most
@@ -7243,7 +7243,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.12.0~dev-2200+g396edf1e46-0
+  Version: 0.12.0~dev-2238+g6ad73421cb-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -8999,7 +8999,7 @@
   Description: Counts physical the lines of code, blank lines, comment lines, and physical lines of source code
   Homepage: https://github.com/boyter/scc
 - Package: sccache
-  Version: 0.13.0
+  Version: 0.14.0
   Description: sccache is ccache with cloud storage
   Homepage: https://github.com/mozilla/sccache
 - Package: scdaemon
