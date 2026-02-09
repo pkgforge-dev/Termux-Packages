@@ -1643,7 +1643,7 @@
 | **luvi** | 1:2.15.0-2 | A project in-between luv and luvit | https://luvit.io |
 | **luvit** | 2.18.1-1 | Asynchronous I/O for Lua | https://luvit.io |
 | **lux** | 0.24.1-2 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
-| **lux-cli** | 0.25.1 | A package manager for Lua, similar to luarocks | https://nvim-neorocks.github.io/ |
+| **lux-cli** | 0.25.2 | A package manager for Lua, similar to luarocks | https://nvim-neorocks.github.io/ |
 | **lv2** | 1.18.10-6 | A plugin standard for audio systems | https://lv2plug.in/ |
 | **lychee** | 0.22.0 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
 | **lynx** | 2.9.2-1 | The text web browser | http://lynx.browser.org/ |
@@ -2731,7 +2731,7 @@
 | **yuma123** | 2.13-4 | Provides an opensource YANG API in C | https://yuma123.org/ |
 | **yuma123-static** | 2.13-4 | Static libraries for yuma123 | https://yuma123.org/ |
 | **z-push** | 2.7.6 | An open-source application to synchronize ActiveSync compatible devices and Outlook | https://z-push.org/ |
-| **z3** | 4.15.6 | Z3 is a theorem prover from Microsoft Research | https://github.com/Z3Prover/z3 |
+| **z3** | 4.15.7 | Z3 is a theorem prover from Microsoft Research | https://github.com/Z3Prover/z3 |
 | **zbar** | 0.23.93-2 | Software suite for reading bar codes from various sources | https://github.com/mchehab/zbar |
 | **zbar-static** | 0.23.93-2 | Static libraries for zbar | https://github.com/mchehab/zbar |
 | **zeronet** | 0.7.1-9 | Decentralized websites using Bitcoin crypto and BitTorrent network | https://zeronet.io/ |
