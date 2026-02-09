@@ -2875,7 +2875,7 @@
   Description: Command-line wrapper for git that makes you better at GitHub
   Homepage: https://hub.github.com/
 - Package: hugo
-  Version: 0.155.2
+  Version: 0.155.3
   Description: A fast and flexible static site generator
   Homepage: https://gohugo.io/
 - Package: hummin
@@ -3379,7 +3379,7 @@
   Description: Static libraries for leptonica
   Homepage: http://www.leptonica.com/
 - Package: less
-  Version: "691"
+  Version: "692"
   Description: Terminal pager program used to view the contents of a text file one screen at a time
   Homepage: https://www.greenwoodsoftware.com/less/
 - Package: lesspipe
@@ -6627,7 +6627,7 @@
   Description: Small CLI app to learn with flashcards and spaced repetition
   Homepage: https://github.com/bttger/markdown-flashcards
 - Package: marksman
-  Version: 2026.01.28-1
+  Version: 2026.02.08
   Description: LSP language server for editing Markdown files
   Homepage: https://github.com/artempyanykh/marksman
 - Package: mathomatic
@@ -6943,7 +6943,7 @@
   Description: Simple game where you drive a car across the moons surface
   Homepage: https://github.com/seehuhn/moon-buggy
 - Package: moor
-  Version: 2.10.3
+  Version: 2.10.4
   Description: A pager designed to just do the right thing without any configuration
   Homepage: https://github.com/walles/moor
 - Package: mop
@@ -7183,23 +7183,23 @@
   Description: An ncurses Spotify client written in Rust
   Homepage: https://github.com/hrkfdn/ncspot
 - Package: ncurses
-  Version: 6.6.20260124
+  Version: 6.6.20260124+really6.5.20250830
   Description: Library for text-based user interfaces in a terminal-independent manner
   Homepage: https://invisible-island.net/ncurses/
 - Package: ncurses-static
-  Version: 6.6.20260124
+  Version: 6.6.20260124+really6.5.20250830
   Description: Static libraries for ncurses
   Homepage: https://invisible-island.net/ncurses/
 - Package: ncurses-ui-libs
-  Version: 6.6.20260124
+  Version: 6.6.20260124+really6.5.20250830
   Description: Libraries for terminal user interfaces based on ncurses
   Homepage: https://invisible-island.net/ncurses/
 - Package: ncurses-ui-libs-static
-  Version: 6.6.20260124
+  Version: 6.6.20260124+really6.5.20250830
   Description: Static libraries for terminal user interfaces based on ncurses
   Homepage: https://invisible-island.net/ncurses/
 - Package: ncurses-utils
-  Version: 6.6.20260124
+  Version: 6.6.20260124+really6.5.20250830
   Description: Tools for working with terminals
   Homepage: https://invisible-island.net/ncurses/
 - Package: ndk-multilib
@@ -10386,10 +10386,6 @@
   Version: 3.22.0-1
   Description: Static libraries for valgrind
   Homepage: https://valgrind.org/
-- Package: valkey
-  Version: 9.0.1
-  Description: In-memory data structure store used as a database, cache and message broker
-  Homepage: https://valkey.io/
 - Package: valkey-static
   Version: 9.0.1
   Description: Static libraries for valkey
@@ -10887,7 +10883,7 @@
   Description: An open-source application to synchronize ActiveSync compatible devices and Outlook
   Homepage: https://z-push.org/
 - Package: z3
-  Version: 4.15.5
+  Version: 4.15.6
   Description: Z3 is a theorem prover from Microsoft Research
   Homepage: https://github.com/Z3Prover/z3
 - Package: zbar
