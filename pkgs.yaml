@@ -663,7 +663,7 @@
   Description: Static libraries for brainfuck
   Homepage: https://github.com/fabianishere/brainfuck
 - Package: brogue
-  Version: 1.14.1-1
+  Version: "1.15"
   Description: Roguelike dungeon crawling game (community edition)
   Homepage: https://sites.google.com/site/broguegame/
 - Package: brook
@@ -783,7 +783,7 @@
   Description: Static libraries for capstone
   Homepage: https://www.capstone-engine.org/
 - Package: carapace
-  Version: 1.6.1
+  Version: 1.6.2
   Description: Multi-shell multi-command argument completer
   Homepage: https://carapace.sh/
 - Package: cargo-c
