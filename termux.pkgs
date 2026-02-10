@@ -110,7 +110,7 @@
 | **avra** | 1.4.2-1 | Assember for the Atmel AVR microcontroller family | https://github.com/Ro5bert/avra |
 | **await** | 2.4.0 | Runs list of commands in parallel and waits for their termination | https://github.com/slavaGanzin/await |
 | **awesomeshot** | 1.1.0-1 | A command-line screenshot tool written in bash | https://github.com/mayTermux/awesomeshot |
-| **awscli** | 2.33.17 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
+| **awscli** | 2.33.18 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
 | **axel** | 2.17.14-1 | light command line download accelerator | https://github.com/axel-download-accelerator/axel |
 | **b3sum** | 1.8.3 | A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum | https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum |
 | **babl** | 0.1.122 | Dynamic pixel format translation library | https://gegl.org/babl/ |
@@ -244,7 +244,7 @@
 | **cloneit** | 20240728-1 | A cli tool to download specific GitHub directories or files | https://github.com/alok8bb/cloneit |
 | **cloudflared** | 2026.2.0 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
 | **clpeak** | 1.1.5 | A tool which profiles OpenCL devices to find their peak capacities | https://github.com/krrishnarraj/clpeak |
-| **clvk** | 0.0.20260111.144039 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
+| **clvk** | 0.0.20260209.171723 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
 | **cmake** | 4.2.3 | Family of tools designed to build, test and package software | https://cmake.org/ |
 | **cmake-curses-gui** | 4.2.3 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
 | **cmark** | 0.31.1-1 | CommonMark parsing and rendering program | https://github.com/commonmark/cmark |
@@ -504,7 +504,7 @@
 | **freetype** | 2.14.1 | Software font engine capable of producing high-quality output | https://www.freetype.org |
 | **freetype-static** | 2.14.1 | Static libraries for freetype | https://www.freetype.org |
 | **frei0r-plugins** | 2.5.1-1 | Minimalistic plugin API for video effects | https://www.dyne.org/software/frei0r/ |
-| **fresh-editor** | 0.1.99 | Text editor for your terminal: easy, powerful and fast | https://getfresh.dev/ |
+| **fresh-editor** | 0.2.1 | Text editor for your terminal: easy, powerful and fast | https://getfresh.dev/ |
 | **fribidi** | 1.0.16-1 | Implementation of the Unicode Bidirectional Algorithm | https://github.com/fribidi/fribidi/ |
 | **fribidi-static** | 1.0.16-1 | Static libraries for fribidi | https://github.com/fribidi/fribidi/ |
 | **frobtads** | 2.0-5 | TADS is a free authoring system for writing your own Interactive Fiction | http://www.tads.org/frobtads.htm |
@@ -531,7 +531,7 @@
 | **gbt** | 2.0.0-6 | Highly configurable prompt builder for Bash and ZSH written in Go | https://github.com/jtyr/gbt |
 | **gcab** | 1.6-1 | GObject library to create cabinet files | https://gitlab.gnome.org/GNOME/gcab |
 | **gcal** | 4.1-4 | Program for calculating and printing calendars | https://www.gnu.org/software/gcal/ |
-| **gdal** | 3.12.1-2 | A translator library for raster and vector geospatial data formats | https://gdal.org |
+| **gdal** | 3.12.2 | A translator library for raster and vector geospatial data formats | https://gdal.org |
 | **gdb** | 16.3-1 | The standard GNU Debugger that runs on many Unix-like systems and works for many programming languages | https://www.gnu.org/software/gdb/ |
 | **gdbm** | 1.26-1 | Library of database functions that use extensible hashing | https://www.gnu.org.ua/software/gdbm/ |
 | **gdbm-static** | 1.26-1 | Static libraries for gdbm | https://www.gnu.org.ua/software/gdbm/ |
@@ -690,7 +690,7 @@
 | **helix** | 25.07.1-1 | A post-modern modal text editor written in rust | https://helix-editor.com/ |
 | **helix-grammars** | 25.07.1-1 | Helix grammars | https://helix-editor.com/ |
 | **hello** | 2.12.2 | Prints a friendly greeting | https://www.gnu.org/software/hello/ |
-| **helm** | 4.1.0 | Helm helps you manage Kubernetes applications | https://helm.sh |
+| **helm** | 4.1.1 | Helm helps you manage Kubernetes applications | https://helm.sh |
 | **helm-ls** | 0.5.4 | Language server for Helm | https://github.com/mrjosh/helm-ls |
 | **help2man** | 1.49.3 | Conversion tool to create man files | https://www.gnu.org/software/help2man/ |
 | **hexcurse** | 1.60.0-7 | Console hexeditor | https://github.com/LonnyGomes/hexcurse |
@@ -1833,7 +1833,7 @@
 | **ninja** | 1.13.2 | A small build system with a focus on speed | https://ninja-build.org |
 | **ninvaders** | 0.1.2-3 | Space Invaders clone based on ncurses for ASCII output | https://ninvaders.sourceforge.net |
 | **nlohmann-json** | 3.12.0 | JSON for Modern C++ | https://github.com/nlohmann/json |
-| **nlopt** | 2.10.0-2 | Library for nonlinear optimization | https://nlopt.readthedocs.io/ |
+| **nlopt** | 2.10.1 | Library for nonlinear optimization | https://nlopt.readthedocs.io/ |
 | **nmap** | 7.98-1 | Utility for network discovery and security auditing | https://nmap.org/ |
 | **nmh** | 1.8-2 | Powerful electronic mail handling system | http://www.nongnu.org/nmh/ |
 | **nmon** | 16s | Curses based Performance Monitor for Linux with saving performance stats to a CSV file mode | https://nmon.sourceforge.net/ |
@@ -2418,7 +2418,7 @@
 | **teckit-static** | 2.5.13 | Static libraries for teckit | https://scripts.sil.org/teckitdownloads |
 | **tectonic** | 0.15.0-5 | A modernized, complete, self-contained TeX/LaTeX engine | https://tectonic-typesetting.github.io/ |
 | **telegram-bot-api** | 20241031-2 | Telegram Bot API server | https://github.com/tdlib/telegram-bot-api |
-| **teleport-tsh** | 18.6.6 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
+| **teleport-tsh** | 18.6.7 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
 | **tenki-php** | 2022.05.26 | A simple PHP application for logging current weather conditions, notes, and waypoints | https://github.com/dmpop/tenki |
 | **tere** | 1.6.0-1 | Terminal file explorer written in rust | https://github.com/mgunyho/tere |
 | **tergent** | 1.0.0-5 | A cryptoki/PKCS#11 library for Termux that uses Android Keystore as its backend | https://github.com/aeolwyr/tergent |
@@ -2634,7 +2634,7 @@
 | **vulkan-loader-generic** | 1.4.343 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
 | **vulkan-tools** | 1.4.342 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
 | **vulkan-utility-libraries** | 1.4.343 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
-| **vulkan-validation-layers** | 1.4.342 | Vulkan Validation Layers | https://github.com/KhronosGroup/Vulkan-ValidationLayers |
+| **vulkan-validation-layers** | 1.4.343 | Vulkan Validation Layers | https://github.com/KhronosGroup/Vulkan-ValidationLayers |
 | **vulkan-volk** | 1.4.304 | Meta loader for Vulkan API | https://github.com/zeux/volk |
 | **w3m** | 0.5.6 | Text based Web browser and pager | https://w3m.sourceforge.net/ |
 | **w3m-img** | 0.5.6 | Inline image extension support utilities for w3m | https://w3m.sourceforge.net/ |
