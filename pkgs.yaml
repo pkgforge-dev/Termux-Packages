@@ -1639,7 +1639,7 @@
   Description: Eclipse Compiler for Java
   Homepage: https://www.eclipse.org/jdt/core/
 - Package: ed
-  Version: 1.22.4
+  Version: 1.22.5
   Description: Classic UNIX line editor
   Homepage: https://www.gnu.org/software/ed/
 - Package: edbrowse
@@ -1887,7 +1887,7 @@
   Description: A simple file manager written in bash
   Homepage: https://github.com/dylanaraps/fff
 - Package: ffmpeg
-  Version: 8.0.1-3
+  Version: 8.0.1-4
   Description: Tools and libraries to manipulate a wide range of multimedia formats and protocols
   Homepage: https://ffmpeg.org
 - Package: ffmpegthumbnailer
@@ -2679,7 +2679,7 @@
   Description: Python bindings for GStreamer
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gstreamer
-  Version: 1.28.0
+  Version: 1.28.0-1
   Description: Open source multimedia framework
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gtypist
@@ -7243,7 +7243,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.12.0~dev-2238+g6ad73421cb-0
+  Version: 0.12.0~dev-2246+g57fc77ed29-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -7631,11 +7631,11 @@
   Description: The programmers solid 3D CAD modeller (headless build)
   Homepage: https://openscad.org/
 - Package: openssh
-  Version: 10.2p1
+  Version: 10.2p1-1
   Description: Secure shell for logging into a remote machine
   Homepage: https://www.openssh.com/
 - Package: openssh-sftp-server
-  Version: 10.2p1
+  Version: 10.2p1-1
   Description: OpenSSH SFTP server subsystem
   Homepage: https://www.openssh.com/
 - Package: openssl
@@ -10183,7 +10183,7 @@
   Description: The frontend for libtwolame
   Homepage: https://www.twolame.org/
 - Package: txikijs
-  Version: 1:26.2.0
+  Version: 1:26.2.1
   Description: A small and powerful JavaScript runtime
   Homepage: https://github.com/saghul/txiki.js
 - Package: typst
@@ -10287,7 +10287,7 @@
   Description: Update or create index file from all installed info files in directory
   Homepage: https://www.gnu.org/software/texinfo/
 - Package: upower
-  Version: 1.91.0
+  Version: 1.91.1
   Description: Power management support for DeviceKit
   Homepage: https://upower.freedesktop.org/
 - Package: upx
