@@ -2027,7 +2027,7 @@
   Description: Minimalistic plugin API for video effects
   Homepage: https://www.dyne.org/software/frei0r/
 - Package: fresh-editor
-  Version: 0.2.2
+  Version: 0.2.3
   Description: 'Text editor for your terminal: easy, powerful and fast'
   Homepage: https://getfresh.dev/
 - Package: fribidi
@@ -4519,11 +4519,11 @@
   Description: Static libraries for libjpeg-turbo
   Homepage: https://libjpeg-turbo.virtualgl.org
 - Package: libjxl
-  Version: 0.11.1-6
+  Version: 0.11.2-1
   Description: JPEG XL image format reference implementation
   Homepage: https://jpegxl.info/
 - Package: libjxl-progs
-  Version: 0.11.1-6
+  Version: 0.11.2-1
   Description: Programs for manipulating JPEG XL files
   Homepage: https://jpegxl.info/
 - Package: libkeyfinder
@@ -9363,7 +9363,7 @@
   Description: Full-featured Web proxy cache server
   Homepage: http://www.squid-cache.org
 - Package: sratom
-  Version: 0.6.20
+  Version: 0.6.22
   Description: A small library for serialising LV2 atoms to and from RDF
   Homepage: https://drobilla.net/software/sratom.html
 - Package: srelay
@@ -9467,7 +9467,7 @@
   Description: A TCP/IP repeater in the application layer
   Homepage: https://www.gcd.org/sengoku/stone/
 - Package: storj-uplink
-  Version: 1.146.9
+  Version: 1.147.4
   Description: Storj DCS Uplink CLI
   Homepage: https://www.storj.io/integrations/uplink-cli
 - Package: stow
