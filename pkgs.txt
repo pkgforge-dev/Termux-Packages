@@ -202,6 +202,7 @@
  catimg  2.8.0  Renders images in the terminal  https://posva.net/shell/retro/bash/2013/05/27/catimg 
  cava  0.10.7  Console-based Audio Visualizer. Works with MPD and Pulseaudio  https://github.com/karlstav/cava 
  cavez-of-phear  0.6.2  A Boulder Dash like game for consoles/terminals  https://github.com/AMDmi3/cavezofphear 
+ cavif  1.5.6-1  AVIF image creator in pure Rust  https://lib.rs/cavif 
  cavif-rs  1.5.6  AVIF image creator in pure Rust  https://lib.rs/cavif 
  cboard  0.7.5-5  PGN browser, editor and chess engine frontend  https://benkibbey.wordpress.com/cboard/ 
  cbonsai  1.4.2-1  Grow bonsai trees in your terminal  https://gitlab.com/jallbrit/cbonsai 
@@ -827,7 +828,7 @@
  kotlin  2.3.10  The Kotlin Programming Language  https://kotlinlang.org/ 
  krb5  1.22.2  The Kerberos network authentication system  https://web.mit.edu/kerberos 
  kubecolor  0.5.3  Colorize your kubectl output  https://github.com/kubecolor/kubecolor 
- kubectl  1.35.0  Kubernetes.io client binary  https://kubernetes.io/ 
+ kubectl  1.35.1  Kubernetes.io client binary  https://kubernetes.io/ 
  kubelogin  1.35.2  A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication  https://github.com/int128/kubelogin 
  kubo  0.39.0  A peer-to-peer hypermedia distribution protocol  https://ipfs.io/ 
  ladspa-sdk  1.17-2  Linux Audio Developer's Simple Plugin API  https://www.ladspa.org/ 
@@ -1300,7 +1301,7 @@
  libpng-static  1.6.55  Static libraries for libpng  http://www.libpng.org/pub/png/libpng.html 
  libpngwriter  0.7.0-1  C++ library for creating PNG images  https://pngwriter.sourceforge.net 
  libpngwriter-static  0.7.0-1  Static libraries for libpngwriter  https://pngwriter.sourceforge.net 
- libpoco  1.14.2-1  A comprehensive set of C++ libraries that cover all modern-day programming needs  https://pocoproject.org/ 
+ libpoco  1.15.0  A comprehensive set of C++ libraries that cover all modern-day programming needs  https://pocoproject.org/ 
  libpolly  21.1.8  High-level loop and data-locality optimizer for clang  https://clang.llvm.org/ 
  libpopt  1.19-3  Library for parsing cmdline parameters  https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html 
  libpopt-static  1.19-3  Static libraries for libpopt  https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html 
@@ -1809,7 +1810,7 @@
  neofetch  7.1.0-1  Simple system information script  https://github.com/dylanaraps/neofetch 
  neomutt  20260105  A version of mutt with added features  https://neomutt.org/ 
  neovim  0.11.6-2  Ambitious Vim-fork focused on extensibility and agility (nvim)  https://neovim.io/ 
- neovim-nightly  0.12.0~dev-2246+g57fc77ed29-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
+ neovim-nightly  0.12.0~dev-2258+g886efcb853-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
  nerdfix  0.4.2-1  nerdfix helps you to find/fix obsolete Nerd Font icons in your project.  https://github.com/loichyan/nerdfix 
  net-snmp  5.9.5.2  Various tools relating to the Simple Network Management Protocol  http://www.net-snmp.org/ 
  net-snmp-static  5.9.5.2  Static libraries for net-snmp  http://www.net-snmp.org/ 
@@ -2085,7 +2086,7 @@
  python-numpy  2.2.5-3  The fundamental package for scientific computing with Python  https://numpy.org/ 
  python-numpy-static  2.2.5-3  Static libraries for python-numpy  https://numpy.org/ 
  python-onnxruntime  1.24.1  Cross-platform, high performance ML inferencing and training accelerator (Python bindings)  https://onnxruntime.ai/ 
- python-pillow  12.1.0-1  Python Imaging Library  https://python-pillow.org/ 
+ python-pillow  12.1.1  Python Imaging Library  https://python-pillow.org/ 
  python-pip  26.0.1  The PyPA recommended tool for installing Python packages  https://pip.pypa.io/ 
  python-pyarrow  23.0.0  Python bindings for Apache Arrow  https://github.com/apache/arrow 
  python-pycryptodomex  3.23.0-2  A self-contained Python package of low-level cryptographic primitives  https://www.pycryptodome.org/ 
@@ -2378,7 +2379,7 @@
  subversion-perl-static  1.14.5-1  Static libraries for subversion-perl  https://subversion.apache.org 
  subversion-static  1.14.5-1  Static libraries for subversion  https://subversion.apache.org 
  sudo  1.2.0  A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument as the root (superuser) user in the Termux app  https://github.com/agnostic-apollo/sudo 
- suil  0.10.24  A library for loading and wrapping LV2 plugin UIs  https://drobilla.net/software/suil.html 
+ suil  0.10.26  A library for loading and wrapping LV2 plugin UIs  https://drobilla.net/software/suil.html 
  suite3270  4.1ga11-2  A family of IBM 3270 terminal emulators and related tools  https://x3270.bgp.nu/ 
  sun  1.0.0-3  A very simple note taking cli app  https://stand-up-notes.org 
  supercollider  3.14.0-2  A platform for audio synthesis and algorithmic composition  http://supercollider.github.io/ 
@@ -2595,7 +2596,6 @@
  vale  3.13.1  A syntax-aware linter for prose built with speed and extensibility in mind  https://vale.sh 
  valgrind  3.22.0-1  Instrumentation framework for building dynamic analysis tools  https://valgrind.org/ 
  valgrind-static  3.22.0-1  Static libraries for valgrind  https://valgrind.org/ 
- valkey  9.0.2  In-memory data structure store used as a database, cache and message broker  https://valkey.io/ 
  valkey-static  9.0.2  Static libraries for valkey  https://valkey.io/ 
  vamp-plugin-sdk  2.10-3  An API for audio analysis and feature extraction plugins  https://www.vamp-plugins.org/ 
  vamp-plugin-sdk-static  2.10-3  Static libraries for vamp-plugin-sdk  https://www.vamp-plugins.org/ 

@@ -814,6 +814,10 @@
   Version: 0.6.2
   Description: A Boulder Dash like game for consoles/terminals
   Homepage: https://github.com/AMDmi3/cavezofphear
+- Package: cavif
+  Version: 1.5.6-1
+  Description: AVIF image creator in pure Rust
+  Homepage: https://lib.rs/cavif
 - Package: cavif-rs
   Version: 1.5.6
   Description: AVIF image creator in pure Rust
@@ -3315,7 +3319,7 @@
   Description: Colorize your kubectl output
   Homepage: https://github.com/kubecolor/kubecolor
 - Package: kubectl
-  Version: 1.35.0
+  Version: 1.35.1
   Description: Kubernetes.io client binary
   Homepage: https://kubernetes.io/
 - Package: kubelogin
@@ -5207,7 +5211,7 @@
   Description: Static libraries for libpngwriter
   Homepage: https://pngwriter.sourceforge.net
 - Package: libpoco
-  Version: 1.14.2-1
+  Version: 1.15.0
   Description: A comprehensive set of C++ libraries that cover all modern-day programming needs
   Homepage: https://pocoproject.org/
 - Package: libpolly
@@ -7243,7 +7247,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.12.0~dev-2246+g57fc77ed29-0
+  Version: 0.12.0~dev-2258+g886efcb853-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -8347,7 +8351,7 @@
   Description: Cross-platform, high performance ML inferencing and training accelerator (Python bindings)
   Homepage: https://onnxruntime.ai/
 - Package: python-pillow
-  Version: 12.1.0-1
+  Version: 12.1.1
   Description: Python Imaging Library
   Homepage: https://python-pillow.org/
 - Package: python-pip
@@ -9519,7 +9523,7 @@
   Description: A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument as the root (superuser) user in the Termux app
   Homepage: https://github.com/agnostic-apollo/sudo
 - Package: suil
-  Version: 0.10.24
+  Version: 0.10.26
   Description: A library for loading and wrapping LV2 plugin UIs
   Homepage: https://drobilla.net/software/suil.html
 - Package: suite3270
@@ -10386,10 +10390,6 @@
   Version: 3.22.0-1
   Description: Static libraries for valgrind
   Homepage: https://valgrind.org/
-- Package: valkey
-  Version: 9.0.2
-  Description: In-memory data structure store used as a database, cache and message broker
-  Homepage: https://valkey.io/
 - Package: valkey-static
   Version: 9.0.2
   Description: Static libraries for valkey
