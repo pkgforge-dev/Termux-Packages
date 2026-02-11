@@ -391,7 +391,7 @@
   Description: Static libraries for attr
   Homepage: http://savannah.nongnu.org/projects/attr/
 - Package: atuin
-  Version: 18.11.0
+  Version: 18.12.0
   Description: Magical shell history
   Homepage: https://atuin.sh/
 - Package: aubio
@@ -1935,7 +1935,7 @@
   Description: Utilities to find files meeting specified criteria and perform various actions on the files which are found
   Homepage: https://www.gnu.org/software/findutils/
 - Package: fish
-  Version: 4.4.0
+  Version: 4.4.0-1
   Description: The user-friendly command line shell
   Homepage: https://fishshell.com/
 - Package: flac
@@ -2023,7 +2023,7 @@
   Description: Minimalistic plugin API for video effects
   Homepage: https://www.dyne.org/software/frei0r/
 - Package: fresh-editor
-  Version: 0.2.1
+  Version: 0.2.2
   Description: 'Text editor for your terminal: easy, powerful and fast'
   Homepage: https://getfresh.dev/
 - Package: fribidi
@@ -7147,7 +7147,7 @@
   Description: An interactive cheatsheet tool for the command-line
   Homepage: https://github.com/denisidoro/navi
 - Package: navidrome
-  Version: 0.60.2
+  Version: 0.60.3
   Description: Modern Music Server and Streamer compatible with Subsonic/Airsonic
   Homepage: https://www.navidrome.org/
 - Package: ncdc
@@ -7691,7 +7691,7 @@
   Description: A multipurpose command line tool based on the Osmium Library
   Homepage: https://osmcode.org/osmium-tool/
 - Package: osslsigncode
-  Version: "2.12"
+  Version: "2.13"
   Description: OpenSSL based Authenticode signing for PE/MSI/Java CAB files
   Homepage: https://github.com/mtrojnar/osslsigncode
 - Package: ossp-uuid
@@ -8095,7 +8095,7 @@
   Description: Aims to bring back the posix profile for Vala
   Homepage: https://github.com/radare/posixvala
 - Package: postgis
-  Version: 3.6.1-1
+  Version: 3.6.2
   Description: Spatial database extender for PostgreSQL object-relational database
   Homepage: https://postgis.net
 - Package: postgresql
@@ -8299,7 +8299,7 @@
   Description: Python library for calculating contours in 2D quadrilateral grids
   Homepage: https://contourpy.readthedocs.io/
 - Package: python-cryptography
-  Version: 46.0.4
+  Version: 46.0.5
   Description: Provides cryptographic recipes and primitives to Python developers
   Homepage: https://github.com/pyca/cryptography
 - Package: python-ensurepip-wheels
@@ -8703,7 +8703,7 @@
   Description: TCP port redirector for UNIX
   Homepage: https://github.com/troglobit/redir
 - Package: redis
-  Version: 1:8.4.1
+  Version: 1:8.6.0
   Description: In-memory data structure store used as a database, cache and message broker
   Homepage: https://redis.io/
 - Package: remind
@@ -9471,7 +9471,7 @@
   Description: Tool for managing the installation of multiple software packages into a single directory
   Homepage: https://www.gnu.org/software/stow/
 - Package: strace
-  Version: "6.18"
+  Version: "6.19"
   Description: Debugging utility to monitor system calls and signals received
   Homepage: https://strace.io/
 - Package: streamripper
@@ -10535,7 +10535,7 @@
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
-  Version: 1.4.342
+  Version: 1.4.343
   Description: Vulkan Tools and Utilities
   Homepage: https://github.com/KhronosGroup/Vulkan-Tools
 - Package: vulkan-utility-libraries

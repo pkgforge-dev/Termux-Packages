@@ -96,7 +96,7 @@
  atool  0.39.0-1  tool for managing file archives of various types  https://www.nongnu.org/atool 
  attr  2.5.2-1  Utilities for manipulating filesystem extended attributes  http://savannah.nongnu.org/projects/attr/ 
  attr-static  2.5.2-1  Static libraries for attr  http://savannah.nongnu.org/projects/attr/ 
- atuin  18.11.0  Magical shell history  https://atuin.sh/ 
+ atuin  18.12.0  Magical shell history  https://atuin.sh/ 
  aubio  0.4.9-7  A library to label music and sounds  https://aubio.org/ 
  aubio-static  0.4.9-7  Static libraries for aubio  https://aubio.org/ 
  audiofile  0.3.6  Silicon Graphics Audio File Library  https://audiofile.68k.org/ 
@@ -482,7 +482,7 @@
  finch-static  2.14.14-2  Static libraries for finch  https://pidgin.im/ 
  findomain  10.0.1-1  Findomain is the fastest subdomain enumerator and the only one written in Rust  https://findomain.app/ 
  findutils  4.10.0-1  Utilities to find files meeting specified criteria and perform various actions on the files which are found  https://www.gnu.org/software/findutils/ 
- fish  4.4.0  The user-friendly command line shell  https://fishshell.com/ 
+ fish  4.4.0-1  The user-friendly command line shell  https://fishshell.com/ 
  flac  1.5.0-1  FLAC (Free Lossless Audio Codec) command-line tool  https://xiph.org/flac/ 
  flatbuffers  25.12.19-2026-02-06-03fffb2-0  Memory Efficient Serialization Library  https://github.com/google/flatbuffers 
  flatbuffers-static  25.12.19-2026-02-06-03fffb2-0  Static libraries for flatbuffers  https://github.com/google/flatbuffers 
@@ -504,7 +504,7 @@
  freetype  2.14.1  Software font engine capable of producing high-quality output  https://www.freetype.org 
  freetype-static  2.14.1  Static libraries for freetype  https://www.freetype.org 
  frei0r-plugins  2.5.1-1  Minimalistic plugin API for video effects  https://www.dyne.org/software/frei0r/ 
- fresh-editor  0.2.1  Text editor for your terminal: easy, powerful and fast  https://getfresh.dev/ 
+ fresh-editor  0.2.2  Text editor for your terminal: easy, powerful and fast  https://getfresh.dev/ 
  fribidi  1.0.16-1  Implementation of the Unicode Bidirectional Algorithm  https://github.com/fribidi/fribidi/ 
  fribidi-static  1.0.16-1  Static libraries for fribidi  https://github.com/fribidi/fribidi/ 
  frobtads  2.0-5  TADS is a free authoring system for writing your own Interactive Fiction  http://www.tads.org/frobtads.htm 
@@ -1785,7 +1785,7 @@
  natpmpc  20230423-2  Portable and fully compliant implementation of NAT-PMP  https://miniupnp.tuxfamily.org/libnatpmp.html 
  natpmpc-static  20230423-2  Static libraries for natpmpc  https://miniupnp.tuxfamily.org/libnatpmp.html 
  navi  2.24.0-1  An interactive cheatsheet tool for the command-line  https://github.com/denisidoro/navi 
- navidrome  0.60.2  Modern Music Server and Streamer compatible with Subsonic/Airsonic  https://www.navidrome.org/ 
+ navidrome  0.60.3  Modern Music Server and Streamer compatible with Subsonic/Airsonic  https://www.navidrome.org/ 
  ncdc  1.25-1  Modern and lightweight direct connect client with a friendly ncurses interface  https://dev.yorhel.nl/ncdc 
  ncdu  1.22-1  Disk usage analyzer  https://dev.yorhel.nl/ncdu 
  ncdu2  2.9.2  Disk usage analyzer  https://dev.yorhel.nl/ncdu 
@@ -1921,7 +1921,7 @@
  orbiton  2.70.5  Small, fast and limited text editor  https://roboticoverlords.org/orbiton/ 
  osmctools  0.9-3  Simple tools for OpenStreetMap processing  https://gitlab.com/osm-c-tools/osmctools 
  osmium-tool  1.19.0  A multipurpose command line tool based on the Osmium Library  https://osmcode.org/osmium-tool/ 
- osslsigncode  2.12  OpenSSL based Authenticode signing for PE/MSI/Java CAB files  https://github.com/mtrojnar/osslsigncode 
+ osslsigncode  2.13  OpenSSL based Authenticode signing for PE/MSI/Java CAB files  https://github.com/mtrojnar/osslsigncode 
  ossp-uuid  1.6.2-4  ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122.  http://www.ossp.org/pkg/lib/uuid/ 
  ossp-uuid-static  1.6.2-4  Static libraries for ossp-uuid  http://www.ossp.org/pkg/lib/uuid/ 
  ovmf  20231122-16.fc40-0  Open Virtual Machine Firmware  https://www.tianocore.org/ 
@@ -2022,7 +2022,7 @@
  portaudio-static  19.07.00-3  Static libraries for portaudio  https://www.portaudio.com/ 
  portmidi  2.0.7  A cross-platform MIDI input/output library  https://github.com/PortMidi/portmidi 
  posixvala  0.2  Aims to bring back the posix profile for Vala  https://github.com/radare/posixvala 
- postgis  3.6.1-1  Spatial database extender for PostgreSQL object-relational database  https://postgis.net 
+ postgis  3.6.2  Spatial database extender for PostgreSQL object-relational database  https://postgis.net 
  postgresql  18.1  Object-relational SQL database  https://www.postgresql.org 
  postgresql-static  18.1  Static libraries for postgresql  https://www.postgresql.org 
  potrace  1.16-2  Tool for transforming a bitmap into a smooth, scalable image  https://potrace.sourceforge.net 
@@ -2073,7 +2073,7 @@
  python-brotli  1.2.0  lossless compression algorithm and format (Python bindings)  https://github.com/google/brotli 
  python-cmake  4.2.1-1  Python wrapper for CMake  https://cmake-python-distributions.readthedocs.io/ 
  python-contourpy  1.3.3-2  Python library for calculating contours in 2D quadrilateral grids  https://contourpy.readthedocs.io/ 
- python-cryptography  46.0.4  Provides cryptographic recipes and primitives to Python developers  https://github.com/pyca/cryptography 
+ python-cryptography  46.0.5  Provides cryptographic recipes and primitives to Python developers  https://github.com/pyca/cryptography 
  python-ensurepip-wheels  3.12.12-1  Wheels for Python ensurepip  https://python.org/ 
  python-greenlet  3.3.1  Lightweight coroutines for in-process concurrent programming  https://github.com/python-greenlet/greenlet 
  python-grpcio  1.78.0  High performance, open source, general RPC framework that puts mobile and HTTP/2 first  https://grpc.io/ 
@@ -2174,7 +2174,7 @@
  recutils  1.9-1  Set of tools and libraries to access human-editable, plain text databases called recfiles  https://www.gnu.org/software/recutils/ 
  recutils-static  1.9-1  Static libraries for recutils  https://www.gnu.org/software/recutils/ 
  redir  3.3-3  TCP port redirector for UNIX  https://github.com/troglobit/redir 
- redis  1:8.4.1  In-memory data structure store used as a database, cache and message broker  https://redis.io/ 
+ redis  1:8.6.0  In-memory data structure store used as a database, cache and message broker  https://redis.io/ 
  remind  1:06.02.03  Sophisticated calendar and alarm program  https://dianne.skoll.ca/projects/remind/ 
  renameutils  0.12.0-3  A set of programs designed to make renaming of files faster and less cumbersome  https://www.nongnu.org/renameutils/ 
  reptyr  0.10.0-1  Tool for reparenting a running program to a new terminal  https://github.com/nelhage/reptyr 
@@ -2366,7 +2366,7 @@
  stone  2.4-3  A TCP/IP repeater in the application layer  https://www.gcd.org/sengoku/stone/ 
  storj-uplink  1.146.9  Storj DCS Uplink CLI  https://www.storj.io/integrations/uplink-cli 
  stow  2.4.1  Tool for managing the installation of multiple software packages into a single directory  https://www.gnu.org/software/stow/ 
- strace  6.18  Debugging utility to monitor system calls and signals received  https://strace.io/ 
+ strace  6.19  Debugging utility to monitor system calls and signals received  https://strace.io/ 
  streamripper  1.64.6-3  Records and splits streaming mp3 into tracks  https://streamripper.sourceforge.net/ 
  stunnel  5.76  Socket wrapper which can provide TLS support to ordinary applications  https://www.stunnel.org/ 
  stunnel-static  5.76  Static libraries for stunnel  https://www.stunnel.org/ 
@@ -2632,7 +2632,7 @@
  vulkan-loader  0.0.3  A metapackage that provides vulkan loader library  https://github.com/termux/termux-packages 
  vulkan-loader-android  29  Vulkan Loader for Android  https://source.android.com/devices/graphics/arch-vulkan 
  vulkan-loader-generic  1.4.343  Vulkan Loader  https://github.com/KhronosGroup/Vulkan-Loader 
- vulkan-tools  1.4.342  Vulkan Tools and Utilities  https://github.com/KhronosGroup/Vulkan-Tools 
+ vulkan-tools  1.4.343  Vulkan Tools and Utilities  https://github.com/KhronosGroup/Vulkan-Tools 
  vulkan-utility-libraries  1.4.343  Utility Libraries for Vulkan  https://github.com/KhronosGroup/Vulkan-Utility-Libraries 
  vulkan-validation-layers  1.4.343  Vulkan Validation Layers  https://github.com/KhronosGroup/Vulkan-ValidationLayers 
  vulkan-volk  1.4.304  Meta loader for Vulkan API  https://github.com/zeux/volk 
