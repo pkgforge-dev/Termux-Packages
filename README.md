@@ -235,7 +235,7 @@
 | **chafa-static** | 1.18.1 | Static libraries for chafa | https://hpjansson.org/chafa/ |
 | **check** | 0.15.2-3 | A unit testing framework for C | https://libcheck.github.io/check |
 | **check-static** | 0.15.2-3 | Static libraries for check | https://libcheck.github.io/check |
-| **chezmoi** | 2.69.3 | Manage your dotfiles across multiple machines | https://chezmoi.io |
+| **chezmoi** | 2.69.4 | Manage your dotfiles across multiple machines | https://chezmoi.io |
 | **chicken** | 5.4.0-2 | A feature rich Scheme compiler and interpreter | https://www.call-cc.org |
 | **chicken-static** | 5.4.0-2 | Static libraries for chicken | https://www.call-cc.org |
 | **chntpw** | 140201 | Offline Windows NT Password & Registry Editor | https://pogostick.net/~pnh/ntpasswd/ |
@@ -1480,8 +1480,8 @@
 | **libusbmuxd-static** | 2.1.1-2 | Static libraries for libusbmuxd | https://libimobiledevice.org |
 | **libusbredir** | 0.13.0-1 | network protocol for sending USB device traffic over a network connection | https://www.spice-space.org/ |
 | **libuuid** | 2.41.2-1 | Library for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **libuv** | 1.51.0-1 | Support library with a focus on asynchronous I/O | https://libuv.org |
-| **libuv-static** | 1.51.0-1 | Static libraries for libuv | https://libuv.org |
+| **libuv** | 1.52.0 | Support library with a focus on asynchronous I/O | https://libuv.org |
+| **libuv-static** | 1.52.0 | Static libraries for libuv | https://libuv.org |
 | **libv4l** | 1.24.1-2 | Linux libraries to handle media devices | https://git.linuxtv.org/v4l-utils.git |
 | **libv4l-static** | 1.24.1-2 | Static libraries for libv4l | https://git.linuxtv.org/v4l-utils.git |
 | **libvbisam** | 2.0-3 | A replacement for IBM's C-ISAM | https://sourceforge.net/projects/vbisam/ |
@@ -1586,7 +1586,7 @@
 | **libzopfli** | 1.0.3-5 | New zlib compatible compressor library | https://github.com/google/zopfli |
 | **libzxing-cpp** | 2.3.0-3 | An open-source, multi-format 1D/2D barcode image processing library implemented in C++ | https://github.com/zxing-cpp/zxing-cpp |
 | **lighttpd** | 1.4.82 | Fast webserver with minimal memory footprint | https://www.lighttpd.net |
-| **lilv** | 0.26.2 | A C library to make the use of LV2 plugins as simple as possible for applications | https://drobilla.net/software/lilv.html |
+| **lilv** | 0.26.4 | A C library to make the use of LV2 plugins as simple as possible for applications | https://drobilla.net/software/lilv.html |
 | **lilypond** | 2.24.4-3 | A music engraving program | https://lilypond.org/ |
 | **links** | 2.29-2 | Links is a text and graphics mode WWW browser | http://links.twibright.com |
 | **lipl** | 0.1.3-1 | A command line tool that is similar to watch but has extended functions for commands outputing a number | https://github.com/yxdunc/lipl |
@@ -2280,7 +2280,7 @@
 | **sendxmpp** | 1.24-1 | A perl-script to send XMPP (jabber) messages | https://sendxmpp.hostname.sk/ |
 | **senpai** | 1:0.4.1-1 | An IRC client that works best with bouncers | https://git.sr.ht/~delthas/senpai |
 | **sensible-utils** | 0.0.26 | Small utilities used by programs to sensibly select and spawn an appropriate browser, editor, or pager | https://packages.debian.org/sid/sensible-utils |
-| **serd** | 0.32.6 | A lightweight C library for RDF syntax | https://drobilla.net/software/serd.html |
+| **serd** | 0.32.8 | A lightweight C library for RDF syntax | https://drobilla.net/software/serd.html |
 | **serf** | 1.3.10-2 | High performance C-based HTTP client library | https://serf.apache.org/ |
 | **serf-static** | 1.3.10-2 | Static libraries for serf | https://serf.apache.org/ |
 | **sfeed** | 2.3 | Shell-script/crontab oriented feed aggregator and parser utility (curses-based reader included) | https://codemadness.org/sfeed-simple-feed-parser.html |
@@ -2328,7 +2328,7 @@
 | **soju** | 0.10.1 | A user-friendly IRC bouncer | https://codeberg.org/emersion/soju |
 | **solidity** | 0.8.33-1 | An Ethereum smart contract-oriented language | https://www.soliditylang.org/ |
 | **sops** | 3.11.0 | Simple and flexible tool for managing secrets | https://github.com/getsops/sops |
-| **sord** | 0.16.20 | A lightweight C library for storing RDF data in memory | https://drobilla.net/software/sord.html |
+| **sord** | 0.16.22 | A lightweight C library for storing RDF data in memory | https://drobilla.net/software/sord.html |
 | **sound-theme-freedesktop** | 0.8 | Freedesktop sound theme | https://freedesktop.org/wiki/Specifications/sound-theme-spec |
 | **sox** | 14.4.2-28 | Command line utility for converting between and applying effects to various audio files formats | https://sox.sourceforge.net/ |
 | **sox-static** | 14.4.2-28 | Static libraries for sox | https://sox.sourceforge.net/ |
