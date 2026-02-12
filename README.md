@@ -811,7 +811,7 @@
 | **jp2a** | 1.3.3 | A simple JPEG to ASCII converter | https://github.com/Talinx/jp2a/ |
 | **jpegoptim** | 1.5.6 | JPEG optimizer that recompresses image files to a smaller size, without losing any information | https://www.kokkonen.net/tjko/projects.html |
 | **jq** | 1.8.1-1 | Command-line JSON processor | https://stedolan.github.io/jq/ |
-| **jq-lsp** | 0.1.16 | jq language server | https://github.com/wader/jq-lsp |
+| **jq-lsp** | 0.1.17 | jq language server | https://github.com/wader/jq-lsp |
 | **jq-static** | 1.8.1-1 | Static libraries for jq | https://stedolan.github.io/jq/ |
 | **jql** | 8.0.10 | A JSON Query Language CLI tool | https://github.com/yamafaktory/jql |
 | **json-c** | 0.18-2 | A JSON implementation in C | https://github.com/json-c/json-c/wiki |
@@ -2159,7 +2159,7 @@
 | **rage** | 0.11.1-1 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4-1 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4-1 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
-| **railway-cli** | 4.29.0 | This is the command line interface for Railway | https://railway.app |
+| **railway-cli** | 4.30.0 | This is the command line interface for Railway | https://railway.app |
 | **range-v3** | 0.12.0 | Range library for C++14/17/20, basis for C++20's std::ranges | https://github.com/ericniebler/range-v3 |
 | **ranger** | 1.9.4 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-7 | Fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |
