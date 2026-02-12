@@ -391,7 +391,7 @@
   Description: Static libraries for attr
   Homepage: http://savannah.nongnu.org/projects/attr/
 - Package: atuin
-  Version: 18.12.0
+  Version: 18.12.1
   Description: Magical shell history
   Homepage: https://atuin.sh/
 - Package: aubio
@@ -6607,7 +6607,7 @@
   Description: Cli manga downloader
   Homepage: https://github.com/metafates/mangal
 - Package: manpages
-  Version: 6.16-1
+  Version: "6.17"
   Description: Man pages for linux kernel and C library interfaces
   Homepage: https://www.kernel.org/doc/man-pages/
 - Package: mapserver
@@ -7391,7 +7391,7 @@
   Description: Thread-based email index, search and tagging system
   Homepage: https://notmuchmail.org
 - Package: npm
-  Version: 11.9.0
+  Version: 11.10.0
   Description: The package manager for JavaScript
   Homepage: https://docs.npmjs.com/cli/
 - Package: npush
@@ -7463,7 +7463,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 29.2.2
+  Version: 29.3.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
