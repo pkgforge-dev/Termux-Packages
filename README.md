@@ -318,7 +318,7 @@
 | **dar** | 2.8.3 | A full featured command-line backup tool, short for Disk ARchive | http://dar.linux.free.fr/ |
 | **dar-static** | 2.8.3 | Static libraries for dar | http://dar.linux.free.fr/ |
 | **darkhttpd** | 1.17-1 | A simple webserver, implemented in a single .c file. | https://unix4lyfe.org/darkhttpd |
-| **dasel** | 3.2.1 | Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility | https://github.com/TomWright/dasel |
+| **dasel** | 3.2.2 | Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility | https://github.com/TomWright/dasel |
 | **dash** | 0.5.12-2 | Small POSIX-compliant implementation of /bin/sh | http://gondor.apana.org.au/~herbert/dash/ |
 | **dasm** | 2.20.14.1-1 | Macro assembler with support for several 8-bit microprocessors | https://dasm-dillon.sourceforge.io/ |
 | **datamash** | 1.9-1 | Program performing numeric, textual and statistical operations | https://www.gnu.org/software/datamash/ |
@@ -464,7 +464,7 @@
 | **fakeroot** | 1.37.2 | Tool for simulating superuser privileges (with tcp ipc) | https://packages.qa.debian.org/f/fakeroot.html |
 | **fakeroot-static** | 1.37.2 | Static libraries for fakeroot | https://packages.qa.debian.org/f/fakeroot.html |
 | **fasd** | 2.0.0 | To fastly access files and folders | https://github.com/whjvenyl/fasd |
-| **fastfetch** | 2.58.0 | A maintained, feature-rich and performance oriented, neofetch like system information tool | https://github.com/fastfetch-cli/fastfetch |
+| **fastfetch** | 2.59.0 | A maintained, feature-rich and performance oriented, neofetch like system information tool | https://github.com/fastfetch-cli/fastfetch |
 | **fastmod** | 0.4.4-1 | Regex-based code refactoring utility | https://github.com/facebookincubator/fastmod |
 | **fatsort** | 1.6.5.640-1 | A C utility that sorts FAT12, FAT16, FAT32 and exFAT partitions | https://fatsort.sourceforge.io/ |
 | **faust** | 2.83.1 | A functional programming language for signal processing and sound synthesis | https://github.com/grame-cncm/faust |
@@ -593,7 +593,7 @@
 | **gitoxide** | 0.50.0-1 | Rust implementation of Git | https://github.com/Byron/gitoxide |
 | **gitui** | 0.28.0 | Blazing fast terminal-ui for git written in rust | https://github.com/gitui-org/gitui |
 | **gkermit** | 2.01-1 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
-| **glab-cli** | 1.84.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
+| **glab-cli** | 1.85.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
 | **gleam** | 1.14.0 | A friendly language for building type-safe, scalable systems! | https://gleam.run |
 | **glib** | 2.86.3-1 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
 | **glib-cross** | 2.86.3-1 | glib for host (NOT for Termux) | https://developer.gnome.org/glib/ |
@@ -607,8 +607,8 @@
 | **glslang** | 16.2.0 | OpenGL and OpenGL ES shader front end and validator | https://github.com/KhronosGroup/glslang |
 | **gluelang** | 0.2.0-2 | A programming language that has a strong nature to be a glue of commands | https://ryuichiueda.github.io/GlueLang/ |
 | **glulxe** | 0.6.1-1 | Interpreter for the Glulx portable VM for interactive fiction (IF) games | https://www.eblong.com/zarf/glulx/ |
-| **gmic** | 3.6.6 | Full-featured framework for image processing | https://gmic.eu |
-| **gmic-gm** | 3.6.6 | Full-featured framework for image processing (GraphicsMagick variant) | https://gmic.eu |
+| **gmic** | 3.7.0 | Full-featured framework for image processing | https://gmic.eu |
+| **gmic-gm** | 3.7.0 | Full-featured framework for image processing (GraphicsMagick variant) | https://gmic.eu |
 | **gn** | 20251217 | Meta-build system that generates build files for Ninja | https://gn.googlesource.com/gn |
 | **gnucap** | 20210107-4 | The Gnu Circuit Analysis Package | https://www.gnu.org/software/gnucap/gnucap.html |
 | **gnuchess** | 6.3.0 | Chess-playing program | https://www.gnu.org/software/chess/ |
@@ -626,7 +626,7 @@
 | **gnustep-make** | 2.9.3-1 | The GNUstep makefile package | https://www.gnustep.org |
 | **gnutls** | 3.8.11 | Commandline utilities for interfacing with the gnutls library | https://www.gnutls.org/ |
 | **go-findimagedupes** | 2023.01.29-4 | Find visually similar or duplicate images | https://gitlab.com/opennota/findimagedupes |
-| **go-musicfox** | 4.7.2 | A netease music player in terminal. | https://github.com/go-musicfox/go-musicfox |
+| **go-musicfox** | 4.8.0 | A netease music player in terminal. | https://github.com/go-musicfox/go-musicfox |
 | **goaccess** | 1.10 | An open source real-time web log analyzer and interactive viewer | https://goaccess.io |
 | **gobang** | 0.1.0-alpha.5-4 | A cross-platform TUI database management tool written in Rust | https://github.com/TaKO8Ki/gobang |
 | **gobject-introspection** | 1.86.0 | Uniform machine readable API | https://gi.readthedocs.io/ |
@@ -643,7 +643,7 @@
 | **gopls** | 0.21.1 | The official Go language server | https://github.com/golang/tools |
 | **goresym** | 3.1.2 | Go symbol recovery tool | https://github.com/mandiant/GoReSym |
 | **gost** | 2.12.0 | GO Simple Tunnel - a simple tunnel written in golang | https://github.com/ginuerzh/gost |
-| **gotify** | 2.8.0 | A simple server for sending and receiving messages in real-time per WebSocket. | https://github.com/gotify/server |
+| **gotify** | 2.9.0 | A simple server for sending and receiving messages in real-time per WebSocket. | https://github.com/gotify/server |
 | **gotop** | 4.2.0-4 | A terminal based graphical activity monitor inspired by gtop and vtop | https://github.com/xxxserxxx/gotop |
 | **gotorrent** | 0.1.2 | TUI for searching torrents | https://github.com/ismaelpadilla/gotorrent |
 | **gotty** | 1.6.0-1 | Share your terminal as a web application | https://github.com/sorenisanerd/gotty |
@@ -1646,7 +1646,7 @@
 | **lux** | 0.24.1-2 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
 | **lux-cli** | 0.25.2-1 | A package manager for Lua, similar to luarocks | https://lux.lumen-labs.org |
 | **lv2** | 1.18.10-6 | A plugin standard for audio systems | https://lv2plug.in/ |
-| **lychee** | 0.22.0 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
+| **lychee** | 0.23.0 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
 | **lynx** | 2.9.2-1 | The text web browser | http://lynx.browser.org/ |
 | **lyrebird** | 0.8.1 | A pluggable transport plugin for Tor | https://gitlab.torproject.org/tpo/anti-censorship/pluggable-transports |
 | **lz4** | 1.10.0-1 | Fast LZ compression algorithm tool | https://lz4.github.io/lz4/ |
@@ -1925,7 +1925,7 @@
 | **openssl-static** | 1:3.6.1 | Static libraries for openssl | https://www.openssl.org/ |
 | **openssl-tool** | 1:3.6.1 | The openssl command line cryptographic tool | https://www.openssl.org/ |
 | **opentimelineio** | 0.18.1 | Open Source API and interchange format for editorial timeline information. | http://opentimeline.io/ |
-| **openxr** | 1.1.54 | Open standard that provides a common set of APIs for developing XR applications | https://www.khronos.org/openxr/ |
+| **openxr** | 1.1.57 | Open standard that provides a common set of APIs for developing XR applications | https://www.khronos.org/openxr/ |
 | **optipng** | 7.9.1-1 | PNG optimizer that recompresses image files to a smaller size, without losing any information | https://optipng.sourceforge.net/ |
 | **opus-tools** | 0.2-4 | Utilities to encode and decode .opus files | https://www.opus-codec.org/ |
 | **opusfile** | 0.12-4 | A high-level API for decoding and seeking within .opus files | https://www.opus-codec.org/ |

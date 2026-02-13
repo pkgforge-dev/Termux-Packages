@@ -1231,7 +1231,7 @@
   Description: A simple webserver, implemented in a single .c file.
   Homepage: https://unix4lyfe.org/darkhttpd
 - Package: dasel
-  Version: 3.2.1
+  Version: 3.2.2
   Description: Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility
   Homepage: https://github.com/TomWright/dasel
 - Package: dash
@@ -1815,7 +1815,7 @@
   Description: To fastly access files and folders
   Homepage: https://github.com/whjvenyl/fasd
 - Package: fastfetch
-  Version: 2.58.0
+  Version: 2.59.0
   Description: A maintained, feature-rich and performance oriented, neofetch like system information tool
   Homepage: https://github.com/fastfetch-cli/fastfetch
 - Package: fastmod
@@ -2331,7 +2331,7 @@
   Description: Simple, Portable, Free File Transfer Software for UNIX
   Homepage: http://www.columbia.edu/kermit/gkermit.html
 - Package: glab-cli
-  Version: 1.84.0
+  Version: 1.85.0
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
@@ -2387,11 +2387,11 @@
   Description: Interpreter for the Glulx portable VM for interactive fiction (IF) games
   Homepage: https://www.eblong.com/zarf/glulx/
 - Package: gmic
-  Version: 3.6.6
+  Version: 3.7.0
   Description: Full-featured framework for image processing
   Homepage: https://gmic.eu
 - Package: gmic-gm
-  Version: 3.6.6
+  Version: 3.7.0
   Description: Full-featured framework for image processing (GraphicsMagick variant)
   Homepage: https://gmic.eu
 - Package: gn
@@ -2463,7 +2463,7 @@
   Description: Find visually similar or duplicate images
   Homepage: https://gitlab.com/opennota/findimagedupes
 - Package: go-musicfox
-  Version: 4.7.2
+  Version: 4.8.0
   Description: A netease music player in terminal.
   Homepage: https://github.com/go-musicfox/go-musicfox
 - Package: goaccess
@@ -2531,7 +2531,7 @@
   Description: GO Simple Tunnel - a simple tunnel written in golang
   Homepage: https://github.com/ginuerzh/gost
 - Package: gotify
-  Version: 2.8.0
+  Version: 2.9.0
   Description: A simple server for sending and receiving messages in real-time per WebSocket.
   Homepage: https://github.com/gotify/server
 - Package: gotop
@@ -6543,7 +6543,7 @@
   Description: A plugin standard for audio systems
   Homepage: https://lv2plug.in/
 - Package: lychee
-  Version: 0.22.0
+  Version: 0.23.0
   Description: A fast, async, resource-friendly link checker written in Rust
   Homepage: https://github.com/lycheeverse/lychee
 - Package: lynx
@@ -7659,7 +7659,7 @@
   Description: Open Source API and interchange format for editorial timeline information.
   Homepage: http://opentimeline.io/
 - Package: openxr
-  Version: 1.1.54
+  Version: 1.1.57
   Description: Open standard that provides a common set of APIs for developing XR applications
   Homepage: https://www.khronos.org/openxr/
 - Package: optipng
