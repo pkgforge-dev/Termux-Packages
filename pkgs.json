@@ -997,7 +997,7 @@
   },
   {
     "Package": "brogue",
-    "Version": "1.15",
+    "Version": "1.15.1",
     "Description": "Roguelike dungeon crawling game (community edition)",
     "Homepage": "https://sites.google.com/site/broguegame/"
   },
@@ -3499,7 +3499,7 @@
   },
   {
     "Package": "glab-cli",
-    "Version": "1.83.0",
+    "Version": "1.84.0",
     "Description": "A GitLab CLI tool bringing GitLab to your command line",
     "Homepage": "https://gitlab.com/gitlab-org/cli"
   },
@@ -3703,7 +3703,7 @@
   },
   {
     "Package": "goaccess",
-    "Version": "1.9.4-1",
+    "Version": "1.10",
     "Description": "An open source real-time web log analyzer and interactive viewer",
     "Homepage": "https://goaccess.io"
   },
@@ -3781,7 +3781,7 @@
   },
   {
     "Package": "gopls",
-    "Version": "0.21.0",
+    "Version": "0.21.1",
     "Description": "The official Go language server",
     "Homepage": "https://github.com/golang/tools"
   },
@@ -9925,13 +9925,13 @@
   },
   {
     "Package": "mariadb",
-    "Version": "2:12.1.2",
+    "Version": "2:12.2.2",
     "Description": "A drop-in replacement for mysql server",
     "Homepage": "https://mariadb.org"
   },
   {
     "Package": "mariadb-static",
-    "Version": "2:12.1.2",
+    "Version": "2:12.2.2",
     "Description": "Static libraries for mariadb",
     "Homepage": "https://mariadb.org"
   },
@@ -9979,7 +9979,7 @@
   },
   {
     "Package": "matugen",
-    "Version": "3.1.0",
+    "Version": "4.0.0",
     "Description": "A material you color generation tool with templates",
     "Homepage": "https://github.com/InioX/matugen"
   },
@@ -10207,25 +10207,25 @@
   },
   {
     "Package": "mesa",
-    "Version": "25.3.5",
+    "Version": "26.0.0",
     "Description": "An open-source implementation of the OpenGL specification",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-dev",
-    "Version": "25.3.5",
+    "Version": "26.0.0",
     "Description": "Mesas OpenGL headers",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-opencl-icd-rusticl",
-    "Version": "25.3.5",
+    "Version": "26.0.0",
     "Description": "Mesas Rusticl OpenCL ICD",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-vulkan-icd-swrast",
-    "Version": "25.3.5",
+    "Version": "26.0.0",
     "Description": "Mesas Swrast Vulkan ICD",
     "Homepage": "https://www.mesa3d.org"
   },
@@ -12895,7 +12895,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "4.30.0",
+    "Version": "4.30.1",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -13873,7 +13873,7 @@
   },
   {
     "Package": "socat",
-    "Version": "1.8.1.0",
+    "Version": "1.8.1.1",
     "Description": "Relay for bidirectional data transfer between two independent data channels",
     "Homepage": "http://www.dest-unreach.org/socat/"
   },
@@ -14695,7 +14695,7 @@
   },
   {
     "Package": "testssl.sh",
-    "Version": "3.2.2",
+    "Version": "3.2.3",
     "Description": "Testing TLS/SSL encryption anywhere on any port.",
     "Homepage": "https://testssl.sh/"
   },
@@ -14899,7 +14899,7 @@
   },
   {
     "Package": "tor",
-    "Version": "0.4.8.22",
+    "Version": "0.4.9.5",
     "Description": "The Onion Router anonymizing overlay network",
     "Homepage": "https://www.torproject.org"
   },

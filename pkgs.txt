@@ -164,7 +164,7 @@
  boxes  2.3.1-1  A command line filter program which draws ASCII art boxes around your input text  https://boxes.thomasjensen.com/ 
  brainfuck  1:2.7.3-1  Brainfuck Interpreter written in C  https://github.com/fabianishere/brainfuck 
  brainfuck-static  1:2.7.3-1  Static libraries for brainfuck  https://github.com/fabianishere/brainfuck 
- brogue  1.15  Roguelike dungeon crawling game (community edition)  https://sites.google.com/site/broguegame/ 
+ brogue  1.15.1  Roguelike dungeon crawling game (community edition)  https://sites.google.com/site/broguegame/ 
  brook  20260101.0  A cross-platform strong encryption and not detectable proxy. Zero-Configuration.  https://github.com/txthinking/brook 
  broot  1.55.0  A better way to navigate directories  https://github.com/Canop/broot 
  brotli  1.2.0  lossless compression algorithm and format (command line utility)  https://github.com/google/brotli 
@@ -581,7 +581,7 @@
  gitoxide  0.50.0-1  Rust implementation of Git  https://github.com/Byron/gitoxide 
  gitui  0.28.0  Blazing fast terminal-ui for git written in rust  https://github.com/gitui-org/gitui 
  gkermit  2.01-1  Simple, Portable, Free File Transfer Software for UNIX  http://www.columbia.edu/kermit/gkermit.html 
- glab-cli  1.83.0  A GitLab CLI tool bringing GitLab to your command line  https://gitlab.com/gitlab-org/cli 
+ glab-cli  1.84.0  A GitLab CLI tool bringing GitLab to your command line  https://gitlab.com/gitlab-org/cli 
  gleam  1.14.0  A friendly language for building type-safe, scalable systems!  https://gleam.run 
  glib  2.86.3-1  Library providing core building blocks for libraries and applications written in C  https://developer.gnome.org/glib/ 
  glib-cross  2.86.3-1  glib for host (NOT for Termux)  https://developer.gnome.org/glib/ 
@@ -615,7 +615,7 @@
  gnutls  3.8.11  Commandline utilities for interfacing with the gnutls library  https://www.gnutls.org/ 
  go-findimagedupes  2023.01.29-4  Find visually similar or duplicate images  https://gitlab.com/opennota/findimagedupes 
  go-musicfox  4.7.2  A netease music player in terminal.  https://github.com/go-musicfox/go-musicfox 
- goaccess  1.9.4-1  An open source real-time web log analyzer and interactive viewer  https://goaccess.io 
+ goaccess  1.10  An open source real-time web log analyzer and interactive viewer  https://goaccess.io 
  gobang  0.1.0-alpha.5-4  A cross-platform TUI database management tool written in Rust  https://github.com/TaKO8Ki/gobang 
  gobject-introspection  1.86.0  Uniform machine readable API  https://gi.readthedocs.io/ 
  gogs  0.14.1  A painless self-hosted Git service  https://gogs.io 
@@ -628,7 +628,7 @@
  goose  3.26.0  A database migration tool. Supports SQL migrations and Go functions.  https://pressly.github.io/goose 
  gopass  1.16.1  The slightly more awesome standard unix password manager for teams  https://github.com/gopasspw/gopass 
  gopher  3.0.17.3-2  University of Minnesota gopher  gopher://gopher.quux.org/1/devel/gopher 
- gopls  0.21.0  The official Go language server  https://github.com/golang/tools 
+ gopls  0.21.1  The official Go language server  https://github.com/golang/tools 
  goresym  3.1.2  Go symbol recovery tool  https://github.com/mandiant/GoReSym 
  gost  2.12.0  GO Simple Tunnel - a simple tunnel written in golang  https://github.com/ginuerzh/gost 
  gotify  2.8.0  A simple server for sending and receiving messages in real-time per WebSocket.  https://github.com/gotify/server 
@@ -1652,8 +1652,8 @@
  mangal  4.0.6-3  Cli manga downloader  https://github.com/metafates/mangal 
  manpages  6.17  Man pages for linux kernel and C library interfaces  https://www.kernel.org/doc/man-pages/ 
  mapserver  8.2.2-4  MapServer is CGI-based platform for publishing spatial data and interactive mapping applications to the web  https://mapserver.org/ 
- mariadb  2:12.1.2  A drop-in replacement for mysql server  https://mariadb.org 
- mariadb-static  2:12.1.2  Static libraries for mariadb  https://mariadb.org 
+ mariadb  2:12.2.2  A drop-in replacement for mysql server  https://mariadb.org 
+ mariadb-static  2:12.2.2  Static libraries for mariadb  https://mariadb.org 
  marisa  0.3.1-1  Matching Algorithm with Recursively Implemented StorAge  https://github.com/s-yata/marisa-trie 
  markdown-flashcards  2.0.1  Small CLI app to learn with flashcards and spaced repetition  https://github.com/bttger/markdown-flashcards 
  marksman  2026.02.08  LSP language server for editing Markdown files  https://github.com/artempyanykh/marksman 
@@ -1661,7 +1661,7 @@
  matplotlib  3.10.8-1  A comprehensive library for creating static, animated, and interactive visualizations in Python  https://matplotlib.org/ 
  matterbridge  1.26.0-4  A simple chat bridge  https://github.com/42wim/matterbridge 
  matterircd  0.28.0-1  Connect to your mattermost or slack using your IRC-client of choice  https://github.com/42wim/matterircd 
- matugen  3.1.0  A material you color generation tool with templates  https://github.com/InioX/matugen 
+ matugen  4.0.0  A material you color generation tool with templates  https://github.com/InioX/matugen 
  mautrix-whatsapp  0.2601.0  A Matrix-WhatsApp puppeting bridge  https://maunium.net/go/mautrix-whatsapp/ 
  maven  3.9.12  A Java software project management and comprehension tool  https://maven.apache.org/ 
  maxcso  1.13.0-1  A fast ISO to CSO compression program for use with PSP and PS2 emulators  https://github.com/unknownbrackets/maxcso 
@@ -1699,10 +1699,10 @@
  memcached  1.6.40  Free & open source, high-performance, distributed memory object caching system  https://memcached.org/ 
  mercury  22.01.8-1  A logic/functional programming language  https://www.mercurylang.org/ 
  mercury-static  22.01.8-1  Static libraries for mercury  https://www.mercurylang.org/ 
- mesa  25.3.5  An open-source implementation of the OpenGL specification  https://www.mesa3d.org 
- mesa-dev  25.3.5  Mesa's OpenGL headers  https://www.mesa3d.org 
- mesa-opencl-icd-rusticl  25.3.5  Mesa's Rusticl OpenCL ICD  https://www.mesa3d.org 
- mesa-vulkan-icd-swrast  25.3.5  Mesa's Swrast Vulkan ICD  https://www.mesa3d.org 
+ mesa  26.0.0  An open-source implementation of the OpenGL specification  https://www.mesa3d.org 
+ mesa-dev  26.0.0  Mesa's OpenGL headers  https://www.mesa3d.org 
+ mesa-opencl-icd-rusticl  26.0.0  Mesa's Rusticl OpenCL ICD  https://www.mesa3d.org 
+ mesa-vulkan-icd-swrast  26.0.0  Mesa's Swrast Vulkan ICD  https://www.mesa3d.org 
  mfcuk  2018.07.14-1  MiFare Classic Universal toolKit (MFCUK)  https://github.com/nfc-tools/mfcuk 
  mg  20250523  microscopic GNU Emacs-style editor  https://github.com/hboetes/mg 
  micro  2.0.15  Modern and intuitive terminal-based text editor  https://micro-editor.github.io/ 
@@ -2147,7 +2147,7 @@
  rage  0.11.1-1  A simple, secure and modern encryption tool  https://age-encryption.org/v1 
  ragel  7.0.4-1  Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code  https://www.colm.net/open-source/ragel/ 
  ragel-static  7.0.4-1  Static libraries for ragel  https://www.colm.net/open-source/ragel/ 
- railway-cli  4.30.0  This is the command line interface for Railway  https://railway.app 
+ railway-cli  4.30.1  This is the command line interface for Railway  https://railway.app 
  range-v3  0.12.0  Range library for C++14/17/20, basis for C++20's std::ranges  https://github.com/ericniebler/range-v3 
  ranger  1.9.4  File manager with VI key bindings  https://ranger.github.io/ 
  rapidjson  1.1.0-7  Fast JSON parser/generator for C++ with SAX/DOM style API  https://github.com/Tencent/rapidjson/ 
@@ -2310,7 +2310,7 @@
  snowflake  2.11.0-1  Pluggable Transport using WebRTC, inspired by Flashproxy  https://snowflake.torproject.org/ 
  snowflake-client  2.11.0-1  Pluggable Transport using WebRTC, inspired by Flashproxy (Client)  https://snowflake.torproject.org/ 
  snowflake-proxy  2.11.0-1  Pluggable Transport using WebRTC, inspired by Flashproxy (Proxy)  https://snowflake.torproject.org/ 
- socat  1.8.1.0  Relay for bidirectional data transfer between two independent data channels  http://www.dest-unreach.org/socat/ 
+ socat  1.8.1.1  Relay for bidirectional data transfer between two independent data channels  http://www.dest-unreach.org/socat/ 
  softether-vpn  5.2.5188-1  An open-source cross-platform multi-protocol VPN program  https://www.softether.org/ 
  softether-vpn-static  5.2.5188-1  Static libraries for softether-vpn  https://www.softether.org/ 
  soju  0.10.1  A user-friendly IRC bouncer  https://codeberg.org/emersion/soju 
@@ -2447,7 +2447,7 @@
  termux-tools  1.46.0+really1.45.0-1  Basic system tools for Termux  https://termux.dev/ 
  teseq  1.1.1-2  Tool for analyzing control characters and terminal control sequences  https://www.gnu.org/software/teseq/ 
  tesseract  5.5.2  Tesseract is probably the most accurate open source OCR engine available  https://github.com/tesseract-ocr/tesseract 
- testssl.sh  3.2.2  Testing TLS/SSL encryption anywhere on any port.  https://testssl.sh/ 
+ testssl.sh  3.2.3  Testing TLS/SSL encryption anywhere on any port.  https://testssl.sh/ 
  tex-gyre  2.501-2  The TeX Gyre (TG) Collection of Fonts  https://www.gust.org.pl/projects/e-foundry/tex-gyre/ 
  texinfo  7.2-4  Documentation system for on-line information and printed output  https://www.gnu.org/software/texinfo/ 
  texlab  5.25.1  A cross-platform implementation of the Language Server Protocol providing rich cross-editing support for the LaTeX typesetting system  https://texlab.netlify.app/ 
@@ -2481,7 +2481,7 @@
  tome2  2025.12.13-1  An open world roguelike adventure set in middle earth  https://github.com/tome2/tome2 
  toml11  4.4.0  toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library  https://github.com/ToruNiina/toml11 
  topgrade  16.9.0  Upgrade all the things  https://github.com/topgrade-rs/topgrade/ 
- tor  0.4.8.22  The Onion Router anonymizing overlay network  https://www.torproject.org 
+ tor  0.4.9.5  The Onion Router anonymizing overlay network  https://www.torproject.org 
  torsocks  2.5.0-1  Wrapper to safely torify applications  https://gitlab.torproject.org/tpo/core/torsocks 
  torsocks-static  2.5.0-1  Static libraries for torsocks  https://gitlab.torproject.org/tpo/core/torsocks 
  totem-pl-parser  3.26.6-2  Simple GObject-based library to parse and save a host of playlist formats  https://gitlab.gnome.org/GNOME/totem-pl-parser 

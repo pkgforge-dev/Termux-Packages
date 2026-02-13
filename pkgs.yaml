@@ -663,7 +663,7 @@
   Description: Static libraries for brainfuck
   Homepage: https://github.com/fabianishere/brainfuck
 - Package: brogue
-  Version: "1.15"
+  Version: 1.15.1
   Description: Roguelike dungeon crawling game (community edition)
   Homepage: https://sites.google.com/site/broguegame/
 - Package: brook
@@ -2331,7 +2331,7 @@
   Description: Simple, Portable, Free File Transfer Software for UNIX
   Homepage: http://www.columbia.edu/kermit/gkermit.html
 - Package: glab-cli
-  Version: 1.83.0
+  Version: 1.84.0
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
@@ -2467,7 +2467,7 @@
   Description: A netease music player in terminal.
   Homepage: https://github.com/go-musicfox/go-musicfox
 - Package: goaccess
-  Version: 1.9.4-1
+  Version: "1.10"
   Description: An open source real-time web log analyzer and interactive viewer
   Homepage: https://goaccess.io
 - Package: gobang
@@ -2519,7 +2519,7 @@
   Description: University of Minnesota gopher
   Homepage: gopher://gopher.quux.org/1/devel/gopher
 - Package: gopls
-  Version: 0.21.0
+  Version: 0.21.1
   Description: The official Go language server
   Homepage: https://github.com/golang/tools
 - Package: goresym
@@ -6615,11 +6615,11 @@
   Description: MapServer is CGI-based platform for publishing spatial data and interactive mapping applications to the web
   Homepage: https://mapserver.org/
 - Package: mariadb
-  Version: 2:12.1.2
+  Version: 2:12.2.2
   Description: A drop-in replacement for mysql server
   Homepage: https://mariadb.org
 - Package: mariadb-static
-  Version: 2:12.1.2
+  Version: 2:12.2.2
   Description: Static libraries for mariadb
   Homepage: https://mariadb.org
 - Package: marisa
@@ -6651,7 +6651,7 @@
   Description: Connect to your mattermost or slack using your IRC-client of choice
   Homepage: https://github.com/42wim/matterircd
 - Package: matugen
-  Version: 3.1.0
+  Version: 4.0.0
   Description: A material you color generation tool with templates
   Homepage: https://github.com/InioX/matugen
 - Package: mautrix-whatsapp
@@ -6803,19 +6803,19 @@
   Description: Static libraries for mercury
   Homepage: https://www.mercurylang.org/
 - Package: mesa
-  Version: 25.3.5
+  Version: 26.0.0
   Description: An open-source implementation of the OpenGL specification
   Homepage: https://www.mesa3d.org
 - Package: mesa-dev
-  Version: 25.3.5
+  Version: 26.0.0
   Description: Mesas OpenGL headers
   Homepage: https://www.mesa3d.org
 - Package: mesa-opencl-icd-rusticl
-  Version: 25.3.5
+  Version: 26.0.0
   Description: Mesas Rusticl OpenCL ICD
   Homepage: https://www.mesa3d.org
 - Package: mesa-vulkan-icd-swrast
-  Version: 25.3.5
+  Version: 26.0.0
   Description: Mesas Swrast Vulkan ICD
   Homepage: https://www.mesa3d.org
 - Package: mfcuk
@@ -8595,7 +8595,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 4.30.0
+  Version: 4.30.1
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
@@ -9247,7 +9247,7 @@
   Description: Pluggable Transport using WebRTC, inspired by Flashproxy (Proxy)
   Homepage: https://snowflake.torproject.org/
 - Package: socat
-  Version: 1.8.1.0
+  Version: 1.8.1.1
   Description: Relay for bidirectional data transfer between two independent data channels
   Homepage: http://www.dest-unreach.org/socat/
 - Package: softether-vpn
@@ -9795,7 +9795,7 @@
   Description: Tesseract is probably the most accurate open source OCR engine available
   Homepage: https://github.com/tesseract-ocr/tesseract
 - Package: testssl.sh
-  Version: 3.2.2
+  Version: 3.2.3
   Description: Testing TLS/SSL encryption anywhere on any port.
   Homepage: https://testssl.sh/
 - Package: tex-gyre
@@ -9931,7 +9931,7 @@
   Description: Upgrade all the things
   Homepage: https://github.com/topgrade-rs/topgrade/
 - Package: tor
-  Version: 0.4.8.22
+  Version: 0.4.9.5
   Description: The Onion Router anonymizing overlay network
   Homepage: https://www.torproject.org
 - Package: torsocks
