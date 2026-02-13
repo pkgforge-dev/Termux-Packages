@@ -447,7 +447,7 @@
   Description: A command-line screenshot tool written in bash
   Homepage: https://github.com/mayTermux/awesomeshot
 - Package: awscli
-  Version: 2.33.20
+  Version: 2.33.21
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -9551,7 +9551,7 @@
   Description: Swiss Army Knife for SMTP
   Homepage: http://jetmore.org/john/code/swaks/
 - Package: swi-prolog
-  Version: 10.1.2
+  Version: 10.1.3
   Description: Most popular and complete prolog implementation
   Homepage: https://swi-prolog.org/
 - Package: swift-runtime-aarch64
@@ -10887,7 +10887,7 @@
   Description: An open-source application to synchronize ActiveSync compatible devices and Outlook
   Homepage: https://z-push.org/
 - Package: z3
-  Version: 4.15.7
+  Version: 4.15.8
   Description: Z3 is a theorem prover from Microsoft Research
   Homepage: https://github.com/Z3Prover/z3
 - Package: zbar
