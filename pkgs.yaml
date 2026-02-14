@@ -447,7 +447,7 @@
   Description: A command-line screenshot tool written in bash
   Homepage: https://github.com/mayTermux/awesomeshot
 - Package: awscli
-  Version: 2.33.21
+  Version: 2.33.22
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -1707,19 +1707,19 @@
   Description: Emmy Lua Language Server coded in Rust
   Homepage: https://github.com/EmmyLuaLs/emmylua-analyzer-rust
 - Package: emscripten
-  Version: 5.0.0
+  Version: 5.0.1
   Description: 'Emscripten: An LLVM-to-WebAssembly Compiler'
   Homepage: https://emscripten.org
 - Package: emscripten-binaryen
-  Version: 5.0.0
+  Version: 5.0.1
   Description: Emscripten-compatible Binaryen
   Homepage: https://emscripten.org
 - Package: emscripten-llvm
-  Version: 5.0.0
+  Version: 5.0.1
   Description: Emscripten-compatible LLVM
   Homepage: https://emscripten.org
 - Package: emscripten-tests-third-party
-  Version: 5.0.0
+  Version: 5.0.1
   Description: Emscripten third party test suite files
   Homepage: https://emscripten.org
 - Package: enblend
@@ -1727,11 +1727,11 @@
   Description: A tool for compositing images using a Burt&Adelson multiresolution spline
   Homepage: https://enblend.sourceforge.net/
 - Package: enchant
-  Version: 2.8.14
+  Version: 2.8.15
   Description: Wraps a number of different spelling libraries and programs with a consistent interface
   Homepage: https://rrthomas.github.io/enchant/
 - Package: enchant-static
-  Version: 2.8.14
+  Version: 2.8.15
   Description: Static libraries for enchant
   Homepage: https://rrthomas.github.io/enchant/
 - Package: enscript
@@ -2163,7 +2163,7 @@
   Description: Download a gdrive folder or file easily, shell ftw
   Homepage: https://github.com/Akianonymus/gdrive-downloader
 - Package: gdu
-  Version: 5.32.0
+  Version: 5.33.0
   Description: Fast disk usage analyzer with console interface written in Go
   Homepage: https://github.com/dundee/gdu
 - Package: geckodriver
@@ -2331,7 +2331,7 @@
   Description: Simple, Portable, Free File Transfer Software for UNIX
   Homepage: http://www.columbia.edu/kermit/gkermit.html
 - Package: glab-cli
-  Version: 1.85.0
+  Version: 1.85.1
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
@@ -3111,11 +3111,11 @@
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
-  Version: 1.5.3-1
+  Version: 1.5.4
   Description: Dex to Java decompiler
   Homepage: https://github.com/skylot/jadx
 - Package: jadx-x
-  Version: 1.5.3-1
+  Version: 1.5.4
   Description: Dex to Java decompiler GUI
   Homepage: https://github.com/skylot/jadx
 - Package: janet
@@ -6859,7 +6859,7 @@
   Description: A server software with the aim of being fully compliant with DLNA/UPnP-AV clients
   Homepage: https://sourceforge.net/projects/minidlna/
 - Package: miniflux
-  Version: 2.2.16
+  Version: 2.2.17
   Description: A minimalist and opinionated feed reader
   Homepage: https://miniflux.app/
 - Package: minimodem
@@ -8047,7 +8047,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pocketbase
-  Version: 0.36.2
+  Version: 0.36.3
   Description: An open source Go backend
   Homepage: https://github.com/pocketbase/pocketbase
 - Package: poke
@@ -8371,7 +8371,7 @@
   Description: Python client for Neovim
   Homepage: https://github.com/neovim/pynvim
 - Package: python-ruff
-  Version: 0.15.0
+  Version: 0.15.1
   Description: An extremely fast Python linter, written in Rust (Python bindings)
   Homepage: https://github.com/charliermarsh/ruff
 - Package: python-sabyenc3
@@ -8879,7 +8879,7 @@
   Description: Ruby documentation index
   Homepage: https://www.ruby-lang.org/
 - Package: ruff
-  Version: 0.15.0
+  Version: 0.15.1
   Description: An extremely fast Python linter, written in Rust
   Homepage: https://github.com/charliermarsh/ruff
 - Package: runit
