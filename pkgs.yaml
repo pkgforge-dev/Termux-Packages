@@ -999,11 +999,11 @@
   Description: Curses based user interface for CMake (ccmake)
   Homepage: https://cmake.org/
 - Package: cmark
-  Version: 0.31.1-1
+  Version: 0.31.2
   Description: CommonMark parsing and rendering program
   Homepage: https://github.com/commonmark/cmark
 - Package: cmark-static
-  Version: 0.31.1-1
+  Version: 0.31.2
   Description: Static libraries for cmark
   Homepage: https://github.com/commonmark/cmark
 - Package: cmatrix
@@ -2795,7 +2795,7 @@
   Description: A multi-buffer editor for binary files for Unix-like systems that displays its buffer(s) as a hex dump
   Homepage: https://devel.ringlet.net/editors/hexer/
 - Package: hexyl
-  Version: 0.16.0-2
+  Version: 0.17.0
   Description: A command-line hex viewer
   Homepage: https://github.com/sharkdp/hexyl
 - Package: heyu
@@ -7803,7 +7803,7 @@
   Description: Command-line pastebin client
   Homepage: https://launchpad.net/pastebinit
 - Package: pastel
-  Version: 0.11.0
+  Version: 0.12.0
   Description: A command-line tool to generate, analyze, convert and manipulate colors
   Homepage: https://github.com/sharkdp/pastel
 - Package: patch
@@ -8103,11 +8103,11 @@
   Description: Spatial database extender for PostgreSQL object-relational database
   Homepage: https://postgis.net
 - Package: postgresql
-  Version: "18.1"
+  Version: "18.2"
   Description: Object-relational SQL database
   Homepage: https://www.postgresql.org
 - Package: postgresql-static
-  Version: "18.1"
+  Version: "18.2"
   Description: Static libraries for postgresql
   Homepage: https://www.postgresql.org
 - Package: potrace

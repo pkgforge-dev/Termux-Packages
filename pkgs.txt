@@ -248,8 +248,8 @@
  clvk  0.0.20260209.171723  Experimental implementation of OpenCL on Vulkan  https://github.com/kpet/clvk 
  cmake  4.2.3  Family of tools designed to build, test and package software  https://cmake.org/ 
  cmake-curses-gui  4.2.3  Curses based user interface for CMake (ccmake)  https://cmake.org/ 
- cmark  0.31.1-1  CommonMark parsing and rendering program  https://github.com/commonmark/cmark 
- cmark-static  0.31.1-1  Static libraries for cmark  https://github.com/commonmark/cmark 
+ cmark  0.31.2  CommonMark parsing and rendering program  https://github.com/commonmark/cmark 
+ cmark-static  0.31.2  Static libraries for cmark  https://github.com/commonmark/cmark 
  cmatrix  2.0-1  Command producing a Matrix-style animation  https://github.com/abishekvashok/cmatrix 
  cmocka  2.0.2  cmocka is an unit testing framework for C  https://cmocka.org/ 
  cmus  2.12.0-7  Small, fast and powerful console music player  https://cmus.github.io/ 
@@ -697,7 +697,7 @@
  hexcurse  1.60.0-7  Console hexeditor  https://github.com/LonnyGomes/hexcurse 
  hexedit  1.6-1  view and edit files in hexadecimal or in ASCII  http://rigaux.org/hexedit.html 
  hexer  1.0.7  A multi-buffer editor for binary files for Unix-like systems that displays its buffer(s) as a hex dump  https://devel.ringlet.net/editors/hexer/ 
- hexyl  0.16.0-2  A command-line hex viewer  https://github.com/sharkdp/hexyl 
+ hexyl  0.17.0  A command-line hex viewer  https://github.com/sharkdp/hexyl 
  heyu  1:2.10.3-2  Program for remotely controlling lights and appliances  https://www.heyu.org/ 
  hfsutils  3.2.6-2  Tool for manipulating HFS images  https://www.mars.org/home/rob/proj/hfs/ 
  hidapi  0.14.0-1  Simple cross-platform library for communicating with HID devices  https://libusb.info/hidapi 
@@ -1949,7 +1949,7 @@
  passage  1.7.4a2-1  A fork of password-store that uses age as backend  https://github.com/FiloSottile/passage 
  passphrase2pgp  1.3.0-3  Generate EdDSA/cv25519 private key in GnuPG/SSH format reproducibly per hash of user given passphrase  https://github.com/skeeto/passphrase2pgp 
  pastebinit  1.5.1-2  Command-line pastebin client  https://launchpad.net/pastebinit 
- pastel  0.11.0  A command-line tool to generate, analyze, convert and manipulate colors  https://github.com/sharkdp/pastel 
+ pastel  0.12.0  A command-line tool to generate, analyze, convert and manipulate colors  https://github.com/sharkdp/pastel 
  patch  2.8-1  GNU patch which applies diff files to create patched files  https://savannah.gnu.org/projects/patch/ 
  patchelf  0.18.0-1  Utility to modify the dynamic linker and RPATH of ELF executables  https://nixos.org/patchelf.html 
  pathpicker  0.9.5-2  Facebook PathPicker - a terminal-based file picker  https://facebook.github.io/PathPicker/ 
@@ -2024,8 +2024,8 @@
  portmidi  2.0.7  A cross-platform MIDI input/output library  https://github.com/PortMidi/portmidi 
  posixvala  0.2  Aims to bring back the posix profile for Vala  https://github.com/radare/posixvala 
  postgis  3.6.2  Spatial database extender for PostgreSQL object-relational database  https://postgis.net 
- postgresql  18.1  Object-relational SQL database  https://www.postgresql.org 
- postgresql-static  18.1  Static libraries for postgresql  https://www.postgresql.org 
+ postgresql  18.2  Object-relational SQL database  https://www.postgresql.org 
+ postgresql-static  18.2  Static libraries for postgresql  https://www.postgresql.org 
  potrace  1.16-2  Tool for transforming a bitmap into a smooth, scalable image  https://potrace.sourceforge.net 
  potrace-static  1.16-2  Static libraries for potrace  https://potrace.sourceforge.net 
  pounce  3.1-1  A multi-client, TLS-only IRC bouncer  https://git.causal.agency/pounce 
