@@ -2,7 +2,7 @@
  2048-c  1:1.0.3-1  Console version of the game '2048' for GNU/Linux  https://github.com/mevdschee/2048.c 
  2ping  4.5.1-4  A bi-directional ping utility  https://www.finnie.org/software/2ping/ 
  6tunnel  0.14  Allows you to use services provided by IPv6 hosts with IPv4-only applications and vice-versa  https://github.com/wojtekka/6tunnel 
- 7zip  25.01-1  7-Zip file archiver with a high compression ratio  https://www.7-zip.org 
+ 7zip  26.00  7-Zip file archiver with a high compression ratio  https://www.7-zip.org 
  8086tiny  1.25-5  A PC XT-compatible emulator/virtual machine  https://github.com/adriancable/8086tiny 
  a52dec  0.8.0-3  A test program for liba52  http://liba52.sourceforge.net/ 
  aalib  1.4rc5-13  A portable ASCII art graphic library  https://sourceforge.net/projects/aa-project/ 
@@ -471,7 +471,7 @@
  fetchmail  6.6.2  A remote-mail retrieval utility  https://www.fetchmail.info/ 
  fetchmailconf  6.6.2  A GUI configurator for generating fetchmail configuration files  https://www.fetchmail.info/ 
  fff  2.2  A simple file manager written in bash  https://github.com/dylanaraps/fff 
- ffmpeg  8.0.1-4  Tools and libraries to manipulate a wide range of multimedia formats and protocols  https://ffmpeg.org 
+ ffmpeg  8.0.1-5  Tools and libraries to manipulate a wide range of multimedia formats and protocols  https://ffmpeg.org 
  ffmpegthumbnailer  2.2.3-p20251103-0  Lightweight video thumbnailer that can be used by file managers  https://github.com/dirkvdb/ffmpegthumbnailer 
  ffsend  0.2.77-2  A fully featured Firefox Send client  https://gitlab.com/timvisee/ffsend 
  fftw  3.3.10-4  Library for computing the Discrete Fourier Transform (DFT) in one or more dimensions  http://www.fftw.org/ 
@@ -1292,7 +1292,7 @@
  libpipeline  1.5.8-1  C library for manipulating pipelines of subprocesses in a flexible and convenient way  http://libpipeline.nongnu.org/ 
  libpipeline-static  1.5.8-1  Static libraries for libpipeline  http://libpipeline.nongnu.org/ 
  libpixman  0.46.4-1  Low-level library for pixel manipulation  https://www.pixman.org/ 
- libplacebo  7.351.0  Reusable library for GPU-accelerated video/image rendering  http://libplacebo.org/ 
+ libplacebo  7.360.0  Reusable library for GPU-accelerated video/image rendering  http://libplacebo.org/ 
  libplist  2.7.0-1  A small portable C library to handle Apple Property List files in binary or XML format  https://libimobiledevice.org 
  libplist-static  2.7.0-1  Static libraries for libplist  https://libimobiledevice.org 
  libpluto  0.12.2  Shared library for the Pluto interpreter  https://plutolang.github.io/ 
@@ -1754,7 +1754,7 @@
  mpd  0.24.8  Music player daemon  https://www.musicpd.org 
  mpdscribble  0.25-4  A Music Player Daemon (MPD) client which submits information about tracks being played to a scrobbler  https://www.musicpd.org/clients/mpdscribble/ 
  mpg123  1.33.3  Fast console MPEG Audio Player based on libmpg123  https://mpg123.org/ 
- mpv  0.41.0-1  Command-line media player  https://mpv.io/ 
+ mpv  0.41.0-2  Command-line media player  https://mpv.io/ 
  mruby  3.4.0-1  Lightweight implementation of the Ruby language  https://mruby.org/ 
  mruby-static  3.4.0-1  Static libraries for mruby  https://mruby.org/ 
  ms-gsl  4.2.1  Guidelines Support Library  https://github.com/Microsoft/GSL 
@@ -2485,7 +2485,7 @@
  torsocks  2.5.0-1  Wrapper to safely torify applications  https://gitlab.torproject.org/tpo/core/torsocks 
  torsocks-static  2.5.0-1  Static libraries for torsocks  https://gitlab.torproject.org/tpo/core/torsocks 
  totem-pl-parser  3.26.6-2  Simple GObject-based library to parse and save a host of playlist formats  https://gitlab.gnome.org/GNOME/totem-pl-parser 
- toxic  0.16.1-3  A command line client for Tox  https://github.com/JFreegman/toxic 
+ toxic  0.16.2  A command line client for Tox  https://github.com/JFreegman/toxic 
  tracepath  20250605-1  Tool to trace the network path to a remote host  https://github.com/iputils/iputils 
  traceroute  2.1.6-1  A new modern implementation of traceroute(8) utility for Linux systems  https://traceroute.sourceforge.net/ 
  translate-shell  0.9.7.1  Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.  https://www.soimort.org/translate-shell 
@@ -2713,7 +2713,7 @@
  yazi  26.1.22-1  Blazing fast terminal file manager written in Rust, based on async I/O  https://yazi-rs.github.io/ 
  yosys  0.62  A framework for RTL synthesis tools  https://yosyshq.net/yosys/ 
  youtubedr  2.10.5  Download youtube video in Golang  https://github.com/kkdai/youtube 
- yq  4.52.2  A lightweight and portable command-line YAML, JSON and XML processor  https://mikefarah.gitbook.io/yq/ 
+ yq  4.52.4  A lightweight and portable command-line YAML, JSON and XML processor  https://mikefarah.gitbook.io/yq/ 
  yt-dlp-ejs  0.4.0  External JavaScript for yt-dlp supporting many runtimes  https://github.com/yt-dlp/ejs 
  ytfzf  2.6.2  A POSIX script that helps you find Youtube videos (without API)  https://github.com/pystardust/ytfzf 
  ytui-music  2.0.0-beta-4  Youtube client in terminal for music  https://github.com/sudipghimire533/ytui-music 
