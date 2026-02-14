@@ -3511,13 +3511,13 @@
   },
   {
     "Package": "glib",
-    "Version": "2.86.3-1",
+    "Version": "2.86.4",
     "Description": "Library providing core building blocks for libraries and applications written in C",
     "Homepage": "https://developer.gnome.org/glib/"
   },
   {
     "Package": "glib-cross",
-    "Version": "2.86.3-1",
+    "Version": "2.86.4",
     "Description": "glib for host (NOT for Termux)",
     "Homepage": "https://developer.gnome.org/glib/"
   },
@@ -8023,7 +8023,7 @@
   },
   {
     "Package": "librsvg",
-    "Version": "2.61.3",
+    "Version": "2.61.4",
     "Description": "Library to render SVG files using cairo",
     "Homepage": "https://wiki.gnome.org/action/show/Projects/LibRsvg"
   },
@@ -10873,7 +10873,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.12.0~dev-2260+g6b4ec2264e-0",
+    "Version": "0.12.0~dev-2295+g29c81ba27e-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -12895,7 +12895,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "4.30.1",
+    "Version": "4.30.2",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
