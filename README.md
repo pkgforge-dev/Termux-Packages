@@ -1584,7 +1584,7 @@
 | **libzmq** | 4.3.5-2 | Fast messaging system built on sockets. C and C++ bindings. aka 0MQ, ZMQ. | https://zeromq.org/ |
 | **libzmq-static** | 4.3.5-2 | Static libraries for libzmq | https://zeromq.org/ |
 | **libzopfli** | 1.0.3-5 | New zlib compatible compressor library | https://github.com/google/zopfli |
-| **libzxing-cpp** | 2.3.0-3 | An open-source, multi-format 1D/2D barcode image processing library implemented in C++ | https://github.com/zxing-cpp/zxing-cpp |
+| **libzxing-cpp** | 3.0.1 | An open-source, multi-format 1D/2D barcode image processing library implemented in C++ | https://github.com/zxing-cpp/zxing-cpp |
 | **lighttpd** | 1.4.82 | Fast webserver with minimal memory footprint | https://www.lighttpd.net |
 | **lilv** | 0.26.4 | A C library to make the use of LV2 plugins as simple as possible for applications | https://drobilla.net/software/lilv.html |
 | **lilypond** | 2.24.4-3 | A music engraving program | https://lilypond.org/ |
