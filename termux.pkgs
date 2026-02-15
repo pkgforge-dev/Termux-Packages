@@ -615,7 +615,7 @@
 | **gnutls** | 3.8.11 | Commandline utilities for interfacing with the gnutls library | https://www.gnutls.org/ |
 | **go-findimagedupes** | 2023.01.29-4 | Find visually similar or duplicate images | https://gitlab.com/opennota/findimagedupes |
 | **go-musicfox** | 4.8.0 | A netease music player in terminal. | https://github.com/go-musicfox/go-musicfox |
-| **goaccess** | 1.10 | An open source real-time web log analyzer and interactive viewer | https://goaccess.io |
+| **goaccess** | 1.10.1 | An open source real-time web log analyzer and interactive viewer | https://goaccess.io |
 | **gobang** | 0.1.0-alpha.5-4 | A cross-platform TUI database management tool written in Rust | https://github.com/TaKO8Ki/gobang |
 | **gobject-introspection** | 1.86.0 | Uniform machine readable API | https://gi.readthedocs.io/ |
 | **gogs** | 0.14.1 | A painless self-hosted Git service | https://gogs.io |
@@ -2596,6 +2596,7 @@
 | **vale** | 3.13.1 | A syntax-aware linter for prose built with speed and extensibility in mind | https://vale.sh |
 | **valgrind** | 3.22.0-1 | Instrumentation framework for building dynamic analysis tools | https://valgrind.org/ |
 | **valgrind-static** | 3.22.0-1 | Static libraries for valgrind | https://valgrind.org/ |
+| **valkey** | 9.0.2 | In-memory data structure store used as a database, cache and message broker | https://valkey.io/ |
 | **valkey-static** | 9.0.2 | Static libraries for valkey | https://valkey.io/ |
 | **vamp-plugin-sdk** | 2.10-3 | An API for audio analysis and feature extraction plugins | https://www.vamp-plugins.org/ |
 | **vamp-plugin-sdk-static** | 2.10-3 | Static libraries for vamp-plugin-sdk | https://www.vamp-plugins.org/ |

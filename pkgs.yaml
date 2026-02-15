@@ -2467,7 +2467,7 @@
   Description: A netease music player in terminal.
   Homepage: https://github.com/go-musicfox/go-musicfox
 - Package: goaccess
-  Version: "1.10"
+  Version: 1.10.1
   Description: An open source real-time web log analyzer and interactive viewer
   Homepage: https://goaccess.io
 - Package: gobang
@@ -10390,6 +10390,10 @@
   Version: 3.22.0-1
   Description: Static libraries for valgrind
   Homepage: https://valgrind.org/
+- Package: valkey
+  Version: 9.0.2
+  Description: In-memory data structure store used as a database, cache and message broker
+  Homepage: https://valkey.io/
 - Package: valkey-static
   Version: 9.0.2
   Description: Static libraries for valkey
