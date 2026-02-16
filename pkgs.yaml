@@ -1543,7 +1543,7 @@
   Description: Static libraries for draco
   Homepage: https://google.github.io/draco/
 - Package: dropbear
-  Version: "2025.88"
+  Version: "2025.89"
   Description: Small SSH server and client
   Homepage: https://matt.ucc.asn.au/dropbear/dropbear.html
 - Package: dtach
@@ -7295,7 +7295,7 @@
   Description: Curses based Performance Monitor for Linux with saving performance stats to a CSV file mode
   Homepage: https://nmon.sourceforge.net/
 - Package: nnn
-  Version: 5.1-2
+  Version: "5.2"
   Description: Free, fast, friendly file browser
   Homepage: https://github.com/jarun/nnn
 - Package: no-more-secrets
