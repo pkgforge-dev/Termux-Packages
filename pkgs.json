@@ -5287,7 +5287,7 @@
   },
   {
     "Package": "libarrow-cpp",
-    "Version": "23.0.0",
+    "Version": "23.0.1",
     "Description": "C++ libraries for Apache Arrow",
     "Homepage": "https://github.com/apache/arrow"
   },
@@ -10213,7 +10213,7 @@
   },
   {
     "Package": "miniserve",
-    "Version": "0.32.0",
+    "Version": "0.33.0",
     "Description": "Tool to serve files and dirs over HTTP",
     "Homepage": "https://github.com/svenstaro/miniserve"
   },
@@ -12445,7 +12445,7 @@
   },
   {
     "Package": "python-pyarrow",
-    "Version": "23.0.0",
+    "Version": "23.0.1",
     "Description": "Python bindings for Apache Arrow",
     "Homepage": "https://github.com/apache/arrow"
   },
@@ -12475,7 +12475,7 @@
   },
   {
     "Package": "python-skia-pathops",
-    "Version": "0.9.1",
+    "Version": "0.9.2",
     "Description": "Python bindings for the Skia librarys Path Ops",
     "Homepage": "https://github.com/fonttools/skia-pathops"
   },
@@ -12973,7 +12973,7 @@
   },
   {
     "Package": "remind",
-    "Version": "1:06.02.03",
+    "Version": "1:06.02.04",
     "Description": "Sophisticated calendar and alarm program",
     "Homepage": "https://dianne.skoll.ca/projects/remind/"
   },
@@ -13255,7 +13255,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20260209",
+    "Version": "20260216",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://rust-analyzer.github.io/"
   },
