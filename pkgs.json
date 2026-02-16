@@ -666,12 +666,6 @@
     "Homepage": "https://github.com/slavaGanzin/await"
   },
   {
-    "Package": "awesomeshot",
-    "Version": "1.1.0-1",
-    "Description": "A command-line screenshot tool written in bash",
-    "Homepage": "https://github.com/mayTermux/awesomeshot"
-  },
-  {
     "Package": "awscli",
     "Version": "2.33.22",
     "Description": "Universal Command Line Interface for Amazon Web Services",
@@ -706,12 +700,6 @@
     "Version": "15.0.3-1",
     "Description": "Static libraries for bacula-fd",
     "Homepage": "https://www.bacula.org"
-  },
-  {
-    "Package": "badvpn-udpgw",
-    "Version": "1.999.130-1",
-    "Description": "UDP gateway for BadVPN",
-    "Homepage": "https://github.com/ambrop72/badvpn"
   },
   {
     "Package": "barcode",
@@ -874,12 +862,6 @@
     "Version": "1:1.20220610",
     "Description": "Safely store secrets in Git/Mercurial/Subversion",
     "Homepage": "https://github.com/StackExchange/blackbox"
-  },
-  {
-    "Package": "blade",
-    "Version": "0.0.87",
-    "Description": "A simple, fast, clean and dynamic language",
-    "Homepage": "https://bladelang.com/"
   },
   {
     "Package": "blas-openblas",
@@ -1230,12 +1212,6 @@
     "Homepage": "https://lib.rs/cavif"
   },
   {
-    "Package": "cavif-rs",
-    "Version": "1.5.6",
-    "Description": "AVIF image creator in pure Rust",
-    "Homepage": "https://lib.rs/cavif"
-  },
-  {
     "Package": "cboard",
     "Version": "0.7.5-5",
     "Description": "PGN browser, editor and chess engine frontend",
@@ -1432,12 +1408,6 @@
     "Version": "1.6.3-1",
     "Description": "Tuned OpenCL BLAS",
     "Homepage": "https://github.com/CNugteren/CLBlast"
-  },
-  {
-    "Package": "cliaoke",
-    "Version": "0.2.4-5",
-    "Description": "Command line karaoke",
-    "Homepage": "https://github.com/jessfraz/cliaoke"
   },
   {
     "Package": "clidle",
@@ -3066,12 +3036,6 @@
     "Homepage": "http://www.tads.org/frobtads.htm"
   },
   {
-    "Package": "frogcomposband",
-    "Version": "7.1.salmiak-3",
-    "Description": "Open world Angband variant with many additions",
-    "Homepage": "https://github.com/sulkasormi/frogcomposband/"
-  },
-  {
     "Package": "frotz",
     "Version": "2.55-2",
     "Description": "Interpreter for Infocom and other Z-machine interactive fiction (IF) games",
@@ -4050,18 +4014,6 @@
     "Homepage": "http://www.gnu.org/software/guile/"
   },
   {
-    "Package": "guile18",
-    "Version": "1.8.8-16",
-    "Description": "Portable, embeddable Scheme implementation written in C. (legacy branch)",
-    "Homepage": "http://www.gnu.org/software/guile/"
-  },
-  {
-    "Package": "guile18-static",
-    "Version": "1.8.8-16",
-    "Description": "Static libraries for guile18",
-    "Homepage": "http://www.gnu.org/software/guile/"
-  },
-  {
     "Package": "gum",
     "Version": "0.17.0",
     "Description": "A tool for creating minimal interactive TUIs for shell scripts",
@@ -4494,12 +4446,6 @@
     "Homepage": "https://imath.readthedocs.io/"
   },
   {
-    "Package": "imgflo",
-    "Version": "0.4.2-9",
-    "Description": "HTTP image processing server & Flowhub.io compatible runtime",
-    "Homepage": "https://github.com/imgflo/imgflo"
-  },
-  {
     "Package": "imlib2",
     "Version": "1.12.6",
     "Description": "Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support",
@@ -4912,12 +4858,6 @@
     "Version": "2.9.0",
     "Description": "KBDs showkey utility for examining keycodes",
     "Homepage": "https://kbd-project.org/"
-  },
-  {
-    "Package": "kcptun",
-    "Version": "20260101",
-    "Description": "A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC",
-    "Homepage": "https://github.com/xtaci/kcptun"
   },
   {
     "Package": "keybase",
@@ -5662,18 +5602,6 @@
     "Version": "1.3.7-1",
     "Description": "Static libraries for libcln",
     "Homepage": "https://www.ginac.de/CLN/"
-  },
-  {
-    "Package": "libcloog",
-    "Version": "0.21.1-1",
-    "Description": "Library that generates loops for scanning polyhedra",
-    "Homepage": "http://www.bastoul.net/cloog/index.php"
-  },
-  {
-    "Package": "libcloog-static",
-    "Version": "0.21.1-1",
-    "Description": "Static libraries for libcloog",
-    "Homepage": "http://www.bastoul.net/cloog/index.php"
   },
   {
     "Package": "libcoap",
@@ -6684,18 +6612,6 @@
     "Homepage": "https://www.iodbc.org/"
   },
   {
-    "Package": "libisl",
-    "Version": "0.26-1",
-    "Description": "Library for manipulating sets and relations of integer points bounded by linear constraints",
-    "Homepage": "https://libisl.sourceforge.io/"
-  },
-  {
-    "Package": "libisl-static",
-    "Version": "0.26-1",
-    "Description": "Static libraries for libisl",
-    "Homepage": "https://libisl.sourceforge.io/"
-  },
-  {
     "Package": "libisoburn",
     "Version": "1.5.6-1",
     "Description": "Frontend for libraries libburn and libisofs",
@@ -7600,18 +7516,6 @@
     "Version": "0.4.42",
     "Description": "Library of Optimized Inner Loops Runtime Compiler",
     "Homepage": "https://gstreamer.freedesktop.org/projects/orc.html"
-  },
-  {
-    "Package": "libosl",
-    "Version": "0.9.7-1",
-    "Description": "A Specification and a Library for Data Exchange in Polyhedral Compilation Tools",
-    "Homepage": "http://icps.u-strasbg.fr/~bastoul/development/openscop"
-  },
-  {
-    "Package": "libosl-static",
-    "Version": "0.9.7-1",
-    "Description": "Static libraries for libosl",
-    "Homepage": "http://icps.u-strasbg.fr/~bastoul/development/openscop"
   },
   {
     "Package": "libosmium",
@@ -13440,12 +13344,6 @@
     "Homepage": "https://rustscan.github.io/RustScan"
   },
   {
-    "Package": "rw",
-    "Version": "1.0.1-1",
-    "Description": "A Rust implementation of sponge(1) that never write to TMPDIR",
-    "Homepage": "https://github.com/jridgewell/rw"
-  },
-  {
     "Package": "rxfetch",
     "Version": "2023.01.07",
     "Description": "A custom system info fetching tool",
@@ -13456,12 +13354,6 @@
     "Version": "4.5.5-1",
     "Description": "Fully automated Usenet Binary Downloader",
     "Homepage": "https://sabnzbd.org/"
-  },
-  {
-    "Package": "salty-chat",
-    "Version": "0.0.22-p20251006-0",
-    "Description": "A secure, easy, self-hosted messaging",
-    "Homepage": "https://salty.im/"
   },
   {
     "Package": "samba",
@@ -13756,12 +13648,6 @@
     "Version": "1:1.1.0-2",
     "Description": "Simulator for Microchip AVR (formerly Atmel) microcontrollers",
     "Homepage": "https://www.nongnu.org/simulavr"
-  },
-  {
-    "Package": "simuwaerm",
-    "Version": "0.02-1",
-    "Description": "A simple heat transfer simulator in pure Rust",
-    "Homepage": "https://github.com/file-acomplaint/simuwaerm"
   },
   {
     "Package": "sing-box",
@@ -14532,12 +14418,6 @@
     "Homepage": "https://github.com/gravitational/teleport"
   },
   {
-    "Package": "tenki-php",
-    "Version": "2022.05.26",
-    "Description": "A simple PHP application for logging current weather conditions, notes, and waypoints",
-    "Homepage": "https://github.com/dmpop/tenki"
-  },
-  {
     "Package": "tere",
     "Version": "1.6.0-1",
     "Description": "Terminal file explorer written in rust",
@@ -15084,21 +14964,9 @@
     "Homepage": "https://github.com/tree-sitter-grammars/tree-sitter-vim"
   },
   {
-    "Package": "tree-sitter-vim-static",
-    "Version": "0.7.0-1",
-    "Description": "Static libraries for tree-sitter-vim",
-    "Homepage": "https://github.com/tree-sitter-grammars/tree-sitter-vim"
-  },
-  {
     "Package": "tree-sitter-vimdoc",
     "Version": "4.1.0-1",
     "Description": "Tree-sitter parser for Vim help files",
-    "Homepage": "https://github.com/neovim/tree-sitter-vimdoc"
-  },
-  {
-    "Package": "tree-sitter-vimdoc-static",
-    "Version": "4.1.0",
-    "Description": "Static libraries for tree-sitter-vimdoc",
     "Homepage": "https://github.com/neovim/tree-sitter-vimdoc"
   },
   {
@@ -15492,12 +15360,6 @@
     "Homepage": "https://github.com/JuliaLang/utf8proc"
   },
   {
-    "Package": "utfdecode",
-    "Version": "0.3.4-7",
-    "Description": "Tool for decoding, encoding and debugging unicode",
-    "Homepage": "https://github.com/fornwall/utfdecode"
-  },
-  {
     "Package": "uthash",
     "Version": "2.3.0",
     "Description": "C preprocessor implementations of a hash table and a linked list",
@@ -15757,7 +15619,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "2026.02.06",
+    "Version": "2026.02.15",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://github.com/directvt/vtm"
   },
@@ -15766,12 +15628,6 @@
     "Version": "20251205",
     "Description": "Program for testing the VT100 compatibility of terminal emulators",
     "Homepage": "https://invisible-island.net/vttest/"
-  },
-  {
-    "Package": "vtutils",
-    "Version": "0.5-5",
-    "Description": "Utilities for testing and working with virtual terminals",
-    "Homepage": "https://github.com/fornwall/vtutils"
   },
   {
     "Package": "vulkan-extension-layer",
