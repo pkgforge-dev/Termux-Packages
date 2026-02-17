@@ -1257,7 +1257,7 @@
  libotr  4.1.1-3  Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing: Encryption, Authentication, Deniability, Perfect forward secrecy  https://otr.cypherpunks.ca 
  libotr-static  4.1.1-3  Static libraries for libotr  https://otr.cypherpunks.ca 
  libowfat  0.33-1  GPL reimplementation of libdjb  http://www.fefe.de/libowfat/ 
- libp11  0.4.17  PKCS#11 wrapper library  https://github.com/OpenSC/libp11 
+ libp11  0.4.18  PKCS#11 wrapper library  https://github.com/OpenSC/libp11 
  libp8-platform  2.1.0.1-4  Platform support library used by libCEC and binary add-ons for Kodi  https://github.com/Pulse-Eight/platform 
  libpagmo  2.19.1-5  Scientific library for massively parallel optimization  https://esa.github.io/pagmo2/index.html 
  libpangomm-1.4  2.46.4-1  A C++ API for Pango  https://www.gtkmm.org/ 
@@ -1994,7 +1994,7 @@
  plzip  1.12-1  A massively parallel lossless data compressor based on the lzlib compression library  https://www.nongnu.org/lzip/plzip.html 
  pngcrush  1.8.13-2  Recompresses png files  https://pmt.sourceforge.io/pngcrush/ 
  pngquant  3.0.3-2  PNG image optimising utility  https://pngquant.org 
- pocketbase  0.36.3  An open source Go backend  https://github.com/pocketbase/pocketbase 
+ pocketbase  0.36.4  An open source Go backend  https://github.com/pocketbase/pocketbase 
  poke  4.3-1  Interactive, extensible editor for binary data.  http://www.jemarch.net/poke.html 
  poke-static  4.3-1  Static libraries for poke  http://www.jemarch.net/poke.html 
  polipo  1.1.1-1  A small and fast caching web proxy  http://www.pps.jussieu.fr/~jch/software/polipo/ 
@@ -2592,7 +2592,7 @@
  vim  9.2.0-1  Vi IMproved - enhanced vi editor  https://www.vim.org 
  virglrenderer  1.3.0  A virtual 3D GPU for use inside qemu virtual machines  https://virgil3d.github.io/ 
  virglrenderer-android  1.2.0  A virtual 3D GPU for use inside qemu virtual machines over OpenGLES libraries on Android  https://virgil3d.github.io/ 
- virustotal-cli  1.2.0  Command line interface for VirusTotal  https://github.com/VirusTotal/vt-cli 
+ virustotal-cli  1.3.0  Command line interface for VirusTotal  https://github.com/VirusTotal/vt-cli 
  vis  0.9-p20250111-0  Modern, legacy free, simple yet efficient vim-like editor  https://www.brain-dump.org/projects/vis/ 
  vitetris  0.59.1-4  Virtual terminal tris clone  http://victornils.net/tetris/ 
  viu  1.6.1  Terminal image viewer with native support for iTerm and Kitty  https://github.com/atanunq/viu 
