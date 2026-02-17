@@ -1107,7 +1107,7 @@
   Description: CPU usage limiter
   Homepage: https://github.com/opsengine/cpulimit
 - Package: crawl
-  Version: 0.33.1-2
+  Version: 0.34.0
   Description: Roguelike adventure through dungeons filled with dangerous monsters
   Homepage: https://crawl.develz.org/
 - Package: croc
@@ -1919,7 +1919,7 @@
   Description: Utilities to find files meeting specified criteria and perform various actions on the files which are found
   Homepage: https://www.gnu.org/software/findutils/
 - Package: fish
-  Version: 4.4.0-1
+  Version: 4.5.0
   Description: The user-friendly command line shell
   Homepage: https://fishshell.com/
 - Package: flac
