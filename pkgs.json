@@ -7375,7 +7375,7 @@
   },
   {
     "Package": "libnss",
-    "Version": "3.120",
+    "Version": "3.120.1",
     "Description": "Network Security Services (NSS)",
     "Homepage": "https://firefox-source-docs.mozilla.org/security/nss/"
   },
@@ -10777,7 +10777,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.12.0~dev-2316+g1eb2ca9fcf-0",
+    "Version": "0.12.0~dev-2333+g17d126049a-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -11023,7 +11023,7 @@
   },
   {
     "Package": "nss-utils",
-    "Version": "3.120",
+    "Version": "3.120.1",
     "Description": "Tools for NSS",
     "Homepage": "https://firefox-source-docs.mozilla.org/security/nss/"
   },
@@ -12163,7 +12163,7 @@
   },
   {
     "Package": "proot-distro",
-    "Version": "4.37.0",
+    "Version": "4.38.0",
     "Description": "Termux official utility for managing prooted Linux distributions",
     "Homepage": "https://github.com/termux/proot-distro"
   },
@@ -12253,7 +12253,7 @@
   },
   {
     "Package": "pybind11",
-    "Version": "3.0.1-2",
+    "Version": "3.0.2",
     "Description": "A lightweight header-only library that exposes C++ types in Python and vice versa",
     "Homepage": "https://pybind11.readthedocs.io/"
   },
@@ -12757,7 +12757,7 @@
   },
   {
     "Package": "rabbitmq-server",
-    "Version": "4.2.3",
+    "Version": "4.2.4",
     "Description": "Feature rich, multi-protocol messaging and streaming broker",
     "Homepage": "https://github.com/rabbitmq/rabbitmq-server"
   },
@@ -12799,7 +12799,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "4.30.2",
+    "Version": "4.30.3",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },

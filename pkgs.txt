@@ -1227,7 +1227,7 @@
  libnpth-static  1.6-3  Static libraries for libnpth  https://www.gnupg.org/related_software/npth/ 
  libnspr  4.38.2  Netscape Portable Runtime (NSPR)  https://hg.mozilla.org/projects/nspr 
  libnspr-static  4.38.2  Static libraries for libnspr  https://hg.mozilla.org/projects/nspr 
- libnss  3.120  Network Security Services (NSS)  https://firefox-source-docs.mozilla.org/security/nss/ 
+ libnss  3.120.1  Network Security Services (NSS)  https://firefox-source-docs.mozilla.org/security/nss/ 
  libntl  11.5.1-1  A Library for doing Number Theory  https://libntl.org 
  libntl-static  11.5.1-1  Static libraries for libntl  https://libntl.org 
  libobjc2  2.3-1  The GNUstep Objective-C runtime  https://www.gnustep.org/ 
@@ -1794,7 +1794,7 @@
  neofetch  7.1.0-1  Simple system information script  https://github.com/dylanaraps/neofetch 
  neomutt  20260105  A version of mutt with added features  https://neomutt.org/ 
  neovim  0.11.6-2  Ambitious Vim-fork focused on extensibility and agility (nvim)  https://neovim.io/ 
- neovim-nightly  0.12.0~dev-2316+g1eb2ca9fcf-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
+ neovim-nightly  0.12.0~dev-2333+g17d126049a-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
  nerdfix  0.4.2-1  nerdfix helps you to find/fix obsolete Nerd Font icons in your project.  https://github.com/loichyan/nerdfix 
  net-snmp  5.9.5.2  Various tools relating to the Simple Network Management Protocol  http://www.net-snmp.org/ 
  net-snmp-static  5.9.5.2  Static libraries for net-snmp  http://www.net-snmp.org/ 
@@ -1835,7 +1835,7 @@
  nsis  3.11-1  A professional open source system to create Windows installers  https://sourceforge.net/projects/nsis/ 
  nsis-stubs  3.11-1  NSIS Stubs  https://sourceforge.net/projects/nsis/ 
  nsnake  3.0.1-7  The classic snake game with textual interface  https://github.com/alexdantas/nSnake 
- nss-utils  3.120  Tools for NSS  https://firefox-source-docs.mozilla.org/security/nss/ 
+ nss-utils  3.120.1  Tools for NSS  https://firefox-source-docs.mozilla.org/security/nss/ 
  nudoku  7.0.0  ncurses based sudoku game  http://jubalh.github.io/nudoku/ 
  nushell  0.110.0  A new type of shell operating on structured data  https://www.nushell.sh 
  nyancat  1.5.2-1  Nyancat in your terminal, rendered through ANSI escape sequences.  http://nyancat.dakko.us 
@@ -2025,7 +2025,7 @@
  progress  0.17-1  Linux tool to show progress for cp, mv, dd and more  https://github.com/Xfennec/progress 
  proj  9.7.1  Generic coordinate transformation software  https://proj.org 
  proot  5.1.107-70  Emulate chroot, bind mount and binfmt_misc for non-root users  https://proot-me.github.io/ 
- proot-distro  4.37.0  Termux official utility for managing proot'ed Linux distributions  https://github.com/termux/proot-distro 
+ proot-distro  4.38.0  Termux official utility for managing proot'ed Linux distributions  https://github.com/termux/proot-distro 
  protobuf  2:33.1-1  Compiler for protocol buffer definition files  https://github.com/protocolbuffers/protobuf 
  prover9  2009-11A-2  An automated theorem prover for first-order and equational logic  https://www.cs.unm.edu/~mccune/prover9/ 
  proxychains-ng  4.17-1  A hook preloader that allows to redirect TCP traffic of existing dynamically linked programs through one or more SOCKS or HTTP proxies  https://github.com/rofl0r/proxychains-ng 
@@ -2040,7 +2040,7 @@
  pure-ftpd  1.0.53  Pure-FTPd is a free (BSD), secure, production-quality and standard-conformant FTP server  https://www.pureftpd.org/project/pure-ftpd 
  pv  1.10.3  Terminal-based tool for monitoring the progress of data through a pipeline  https://www.ivarch.com/programs/pv.shtml 
  pwgen  2.08-2  Password generator which by default, unless given the '-s' option, generates memorable but insecure passwords  http://pwgen.sourceforge.net/ 
- pybind11  3.0.1-2  A lightweight header-only library that exposes C++ types in Python and vice versa  https://pybind11.readthedocs.io/ 
+ pybind11  3.0.2  A lightweight header-only library that exposes C++ types in Python and vice versa  https://pybind11.readthedocs.io/ 
  pycairo  1.29.0  Python bindings for the cairo graphics library  https://www.cairographics.org/pycairo/ 
  pygobject  3.54.5  Python package which provides bindings for GObject based libraries  https://pygobject.gnome.org/ 
  pypy  7.3.20  A fast, compliant alternative implementation of Python  https://pypy.org 
@@ -2124,14 +2124,14 @@
  quick-lint-js  3.2.0-1  Finds bugs in JavaScript programs  https://quick-lint-js.com/ 
  quickjs  1:20250913  QuickJS is a small and embeddable Javascript engine  https://bellard.org/quickjs/ 
  quilt  0.69  Allows you to easily manage large numbers of patches  https://savannah.nongnu.org/projects/quilt 
- rabbitmq-server  4.2.3  Feature rich, multi-protocol messaging and streaming broker  https://github.com/rabbitmq/rabbitmq-server 
+ rabbitmq-server  4.2.4  Feature rich, multi-protocol messaging and streaming broker  https://github.com/rabbitmq/rabbitmq-server 
  racket  9.0  Full-spectrum programming language going beyond Lisp and Scheme  https://racket-lang.org 
  racket-static  9.0  Static libraries for racket  https://racket-lang.org 
  radare2  6.0.8  UNIX-like reverse engineering framework and command-line toolset  https://www.radare.org/ 
  rage  0.11.1-1  A simple, secure and modern encryption tool  https://age-encryption.org/v1 
  ragel  7.0.4-1  Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code  https://www.colm.net/open-source/ragel/ 
  ragel-static  7.0.4-1  Static libraries for ragel  https://www.colm.net/open-source/ragel/ 
- railway-cli  4.30.2  This is the command line interface for Railway  https://railway.app 
+ railway-cli  4.30.3  This is the command line interface for Railway  https://railway.app 
  range-v3  0.12.0  Range library for C++14/17/20, basis for C++20's std::ranges  https://github.com/ericniebler/range-v3 
  ranger  1.9.4  File manager with VI key bindings  https://ranger.github.io/ 
  rapidjson  1.1.0-7  Fast JSON parser/generator for C++ with SAX/DOM style API  https://github.com/Tencent/rapidjson/ 
