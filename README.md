@@ -555,8 +555,8 @@
 | **geoip2-database** | 20191221-2 | GeoLite2 IP geolocation databases compiled by MaxMind | https://dev.maxmind.com/geoip/geoip2/geolite2/ |
 | **germanium** | 1.2.3-3 | Generate image from source code | https://github.com/matsuyoshi30/germanium |
 | **getconf** | 0.6-1 | Utility to print configuration values | https://github.com/termux/getconf |
-| **geth** | 1.16.8 | Go implementation of the Ethereum protocol | https://geth.ethereum.org/ |
-| **geth-utils** | 1.16.8 | Additional utilities for Geth (like abigen, bootnode, evm, puppeth) | https://geth.ethereum.org/ |
+| **geth** | 1.17.0 | Go implementation of the Ethereum protocol | https://geth.ethereum.org/ |
+| **geth-utils** | 1.17.0 | Additional utilities for Geth (like abigen, bootnode, evm, puppeth) | https://geth.ethereum.org/ |
 | **gettext** | 1.0 | GNU Internationalization utilities | https://www.gnu.org/software/gettext/ |
 | **gettext-static** | 1.0 | Static libraries for gettext | https://www.gnu.org/software/gettext/ |
 | **gexiv2** | 0.14.6-1 | A GObject-based Exiv2 wrapper | https://wiki.gnome.org/Projects/gexiv2 |
@@ -635,7 +635,7 @@
 | **gopass** | 1.16.1 | The slightly more awesome standard unix password manager for teams | https://github.com/gopasspw/gopass |
 | **gopher** | 3.0.17.3-2 | University of Minnesota gopher | gopher://gopher.quux.org/1/devel/gopher |
 | **gopls** | 0.21.1 | The official Go language server | https://github.com/golang/tools |
-| **goresym** | 3.1.2 | Go symbol recovery tool | https://github.com/mandiant/GoReSym |
+| **goresym** | 3.2 | Go symbol recovery tool | https://github.com/mandiant/GoReSym |
 | **gost** | 2.12.0 | GO Simple Tunnel - a simple tunnel written in golang | https://github.com/ginuerzh/gost |
 | **gotify** | 2.9.0 | A simple server for sending and receiving messages in real-time per WebSocket. | https://github.com/gotify/server |
 | **gotop** | 4.2.0-4 | A terminal based graphical activity monitor inspired by gtop and vtop | https://github.com/xxxserxxx/gotop |
@@ -1180,9 +1180,9 @@
 | **libmhash-static** | 0.9.9.9-4 | Static libraries for libmhash | https://mhash.sourceforge.net/ |
 | **libmicrohttpd** | 1.0.2-1 | A small C library that is supposed to make it easy to run an HTTP server as part of another application | http://www.gnu.org/software/libmicrohttpd/ |
 | **libmicrohttpd-static** | 1.0.2-1 | Static libraries for libmicrohttpd | http://www.gnu.org/software/libmicrohttpd/ |
-| **libminizip** | 1.3.1-1 | Mini zip and unzip based on zlib | https://www.winimage.com/zLibDll/minizip.html |
+| **libminizip** | 1.3.2 | Mini zip and unzip based on zlib | https://www.winimage.com/zLibDll/minizip.html |
 | **libminizip-ng** | 4.1.0 | A zip manipulation library written in C | https://github.com/zlib-ng/minizip-ng |
-| **libminizip-static** | 1.3.1-1 | Static libraries for libminizip | https://www.winimage.com/zLibDll/minizip.html |
+| **libminizip-static** | 1.3.2 | Static libraries for libminizip | https://www.winimage.com/zLibDll/minizip.html |
 | **libmnl** | 1.0.5-1 | a minimalistic user-space library oriented to Netlink developers | https://www.netfilter.org/projects/libmnl/ |
 | **libmnl-static** | 1.0.5-1 | Static libraries for libmnl | https://www.netfilter.org/projects/libmnl/ |
 | **libmodplug** | 0.8.9.1.r461-1 | The ModPlug mod file playing library | https://modplug-xmms.sourceforge.net/ |
@@ -1915,7 +1915,7 @@
 | **opusfile** | 0.12-4 | A high-level API for decoding and seeking within .opus files | https://www.opus-codec.org/ |
 | **opusfile-static** | 0.12-4 | Static libraries for opusfile | https://www.opus-codec.org/ |
 | **opustags** | 1.10.1 | Ogg Opus tags editor | https://github.com/fmang/opustags |
-| **orbiton** | 2.71.0 | Small, fast and limited text editor | https://roboticoverlords.org/orbiton/ |
+| **orbiton** | 2.72.0 | Small, fast and limited text editor | https://roboticoverlords.org/orbiton/ |
 | **osmctools** | 0.9-3 | Simple tools for OpenStreetMap processing | https://gitlab.com/osm-c-tools/osmctools |
 | **osmium-tool** | 1.19.0 | A multipurpose command line tool based on the Osmium Library | https://osmcode.org/osmium-tool/ |
 | **osslsigncode** | 2.13 | OpenSSL based Authenticode signing for PE/MSI/Java CAB files | https://github.com/mtrojnar/osslsigncode |
@@ -2655,7 +2655,7 @@
 | **which** | 2.23-1 | Shows the full path of (shell) commands | https://savannah.gnu.org/projects/which/ |
 | **whiptail** | 0.52.25-1 | Display dialog boxes from shell scripts | https://pagure.io/newt |
 | **whitebox-tools** | 2.4.0-1 | An advanced geospatial data analysis platform | https://github.com/jblindsay/whitebox-tools |
-| **whois** | 5.6.5 | An intelligent Whois client | https://github.com/rfc1036/whois |
+| **whois** | 5.6.6 | An intelligent Whois client | https://github.com/rfc1036/whois |
 | **wireguard-tools** | 1.0.20210914-3 | Tools for the WireGuard secure network tunnel | https://www.wireguard.com |
 | **wireproxy** | 1.0.10-1 | Wireguard client that exposes itself as a socks5 proxy | https://github.com/pufferffish/wireproxy |
 | **wiz** | 2025.04.10 | A high-level assembly language for writing homebrew software for retro console platforms | http://wiz-lang.org/ |
@@ -2718,8 +2718,8 @@
 | **zip** | 3.0-7 | Tools for working with zip files | https://sourceforge.net/projects/infozip/ |
 | **zipios** | 2.3.4 | A small C++ library for reading and writing zip files | https://zipios.sourceforge.io/ |
 | **zk** | 0.15.2 | A plain text note-taking assistant | https://zk-org.github.io/zk/ |
-| **zlib** | 1.3.1-1 | Compression library implementing the deflate compression method found in gzip and PKZIP | https://www.zlib.net/ |
-| **zlib-static** | 1.3.1-1 | Static libraries for zlib | https://www.zlib.net/ |
+| **zlib** | 1.3.2 | Compression library implementing the deflate compression method found in gzip and PKZIP | https://www.zlib.net/ |
+| **zlib-static** | 1.3.2 | Static libraries for zlib | https://www.zlib.net/ |
 | **zls** | 0.15.1 | Zig language server | https://github.com/zigtools/zls |
 | **znc** | 1.10.1-2 | An advanced IRC bouncer | https://znc.in/ |
 | **zola** | 0.22.1 | A fast static site generator in a single binary with everything built-in. | https://github.com/getzola/zola |
