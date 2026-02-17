@@ -2139,7 +2139,7 @@
 | **rabbitmq-server** | 4.2.4 | Feature rich, multi-protocol messaging and streaming broker | https://github.com/rabbitmq/rabbitmq-server |
 | **racket** | 9.0 | Full-spectrum programming language going beyond Lisp and Scheme | https://racket-lang.org |
 | **racket-static** | 9.0 | Static libraries for racket | https://racket-lang.org |
-| **radare2** | 6.0.8 | UNIX-like reverse engineering framework and command-line toolset | https://www.radare.org/ |
+| **radare2** | 6.1.0 | UNIX-like reverse engineering framework and command-line toolset | https://www.radare.org/ |
 | **rage** | 0.11.1-1 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4-1 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4-1 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
