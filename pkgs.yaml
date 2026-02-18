@@ -1383,7 +1383,7 @@
   Description: A libpcap application that displays various tables of DNS traffic on your network
   Homepage: https://github.com/measurement-factory/dnstop
 - Package: dnsutils
-  Version: 9.20.18
+  Version: 9.20.19
   Description: Clients provided with BIND
   Homepage: https://www.isc.org/bind/
 - Package: docbook-xml
@@ -2211,7 +2211,7 @@
   Description: The Forth implementation of the GNU project
   Homepage: https://www.gnu.org/software/gforth/
 - Package: gh
-  Version: 2.86.0
+  Version: 2.87.0
   Description: GitHub’s official command line tool
   Homepage: https://cli.github.com/
 - Package: ghc
@@ -2851,7 +2851,7 @@
   Description: Command-line wrapper for git that makes you better at GitHub
   Homepage: https://hub.github.com/
 - Package: hugo
-  Version: 0.155.3
+  Version: 0.156.0
   Description: A fast and flexible static site generator
   Homepage: https://gohugo.io/
 - Package: hummin
@@ -3087,7 +3087,7 @@
   Description: Dex to Java decompiler GUI
   Homepage: https://github.com/skylot/jadx
 - Package: janet
-  Version: 1.41.1
+  Version: 1.41.2
   Description: Janet is a dialect of Lisp intended for embedding into programs and such
   Homepage: https://janet-lang.org
 - Package: jbig2dec
@@ -3123,7 +3123,7 @@
   Description: A free media system for organizing and streaming media (server)
   Homepage: https://jellyfin.org
 - Package: jfrog-cli
-  Version: 2.91.0
+  Version: 2.92.0
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -4427,11 +4427,11 @@
   Description: Static libraries for libisofs
   Homepage: https://dev.lovelyhq.com/libburnia
 - Package: libjanet
-  Version: 1.41.1
+  Version: 1.41.2
   Description: Development library for Janet
   Homepage: https://janet-lang.org
 - Package: libjanet-static
-  Version: 1.41.1
+  Version: 1.41.2
   Description: Static libraries for libjanet
   Homepage: https://janet-lang.org
 - Package: libjansi
@@ -7623,7 +7623,7 @@
   Description: Ogg Opus tags editor
   Homepage: https://github.com/fmang/opustags
 - Package: orbiton
-  Version: 2.72.0
+  Version: 2.72.1
   Description: Small, fast and limited text editor
   Homepage: https://roboticoverlords.org/orbiton/
 - Package: osmctools
@@ -10367,7 +10367,7 @@
   Description: VI Like Emacs - vi work-alike
   Homepage: https://invisible-island.net/vile/
 - Package: vim
-  Version: 9.2.0-1
+  Version: 9.2.0018
   Description: Vi IMproved - enhanced vi editor
   Homepage: https://www.vim.org
 - Package: virglrenderer
@@ -10711,7 +10711,7 @@
   Description: Static libraries for xvidcore
   Homepage: https://www.xvid.com/
 - Package: xxd
-  Version: 9.2.0-1
+  Version: 9.2.0018
   Description: Hexdump utility from vim
   Homepage: https://www.vim.org
 - Package: xxhash
