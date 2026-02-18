@@ -443,7 +443,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.33.23
+  Version: 2.33.24
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -703,7 +703,7 @@
   Description: Binary file editor based on vi
   Homepage: https://bvi.sourceforge.net/
 - Package: byacc
-  Version: 20241231-2
+  Version: "20260126"
   Description: byacc is generally conceded to be the best yacc variant available
   Homepage: https://invisible-island.net/byacc/
 - Package: byobu
@@ -1167,7 +1167,7 @@
   Description: Common UNIX Printing System
   Homepage: https://www.cups.org/
 - Package: cups-pdf
-  Version: 3.0.1-1
+  Version: 3.0.1-2
   Description: CUPS PDF backend
   Homepage: https://www.cups-pdf.de/
 - Package: cups-static
@@ -1243,7 +1243,7 @@
   Description: Python bindings for D-Bus
   Homepage: https://dbus.freedesktop.org/doc/dbus-python/
 - Package: dcmtk
-  Version: 3.6.9-1
+  Version: 3.7.0
   Description: A collection of libraries and applications implementing large parts the DICOM standard
   Homepage: https://dicom.offis.de/dcmtk
 - Package: dcraw
@@ -2219,7 +2219,7 @@
   Description: The Glasgow Haskell Compiler
   Homepage: https://www.haskell.org/ghc/
 - Package: ghostscript
-  Version: 10.05.1-2
+  Version: 10.06.0
   Description: Interpreter for the PostScript language and for PDF
   Homepage: https://www.ghostscript.com/
 - Package: giflib
@@ -2618,6 +2618,10 @@
   Version: 4.0.26-4
   Description: A powerful multi-faceted programming language for the JVM platform
   Homepage: https://groovy-lang.org/
+- Package: grpcurl
+  Version: 1.9.3
+  Description: 'Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers'
+  Homepage: https://github.com/fullstorydev/grpcurl
 - Package: gsasl
   Version: 2.2.2-1
   Description: GNU SASL library command line interface
@@ -2951,11 +2955,11 @@
   Description: A command line id3v2 tag editor
   Homepage: https://id3v2.sourceforge.net/
 - Package: imagemagick
-  Version: 7.1.2.13
+  Version: 7.1.2.13-1
   Description: Suite to create, edit, compose, or convert images in a variety of formats
   Homepage: https://www.imagemagick.org/
 - Package: imagemagick-static
-  Version: 7.1.2.13
+  Version: 7.1.2.13-1
   Description: Static libraries for imagemagick
   Homepage: https://www.imagemagick.org/
 - Package: imath
@@ -5479,11 +5483,11 @@
   Description: Very fast, header-only/compiled, C++ logging library
   Homepage: https://github.com/gabime/spdlog
 - Package: libspectre
-  Version: 0.2.12-1
+  Version: 0.2.12-2
   Description: A small library for rendering Postscript documents
   Homepage: https://www.freedesktop.org/wiki/Software/libspectre/
 - Package: libspectre-static
-  Version: 0.2.12-1
+  Version: 0.2.12-2
   Description: Static libraries for libspectre
   Homepage: https://www.freedesktop.org/wiki/Software/libspectre/
 - Package: libspeex
@@ -5903,7 +5907,7 @@
   Description: Terminal emulator library
   Homepage: https://www.leonerd.org.uk/code/libvterm/
 - Package: libvxl
-  Version: 3.5.0-4
+  Version: 3.5.0-5
   Description: A multi-platform collection of C++ software libraries for Computer Vision and Image Understanding
   Homepage: https://vxl.github.io
 - Package: libwavpack
@@ -6243,7 +6247,7 @@
   Description: A C library to make the use of LV2 plugins as simple as possible for applications
   Homepage: https://drobilla.net/software/lilv.html
 - Package: lilypond
-  Version: 2.24.4-3
+  Version: 2.24.4-4
   Description: A music engraving program
   Homepage: https://lilypond.org/
 - Package: links
