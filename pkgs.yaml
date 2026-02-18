@@ -2307,7 +2307,7 @@
   Description: Simple, Portable, Free File Transfer Software for UNIX
   Homepage: http://www.columbia.edu/kermit/gkermit.html
 - Package: glab-cli
-  Version: 1.85.2
+  Version: 1.85.3
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
@@ -3675,11 +3675,11 @@
   Description: POSIX 1003.1e capabilities
   Homepage: https://sites.google.com/site/fullycapable/
 - Package: libcap-ng
-  Version: "2:0.9"
+  Version: 2:0.9.1
   Description: Library making programming with POSIX capabilities easier than traditional libcap
   Homepage: https://people.redhat.com/sgrubb/libcap-ng/
 - Package: libcap-ng-static
-  Version: "2:0.9"
+  Version: 2:0.9.1
   Description: Static libraries for libcap-ng
   Homepage: https://people.redhat.com/sgrubb/libcap-ng/
 - Package: libcap-static
@@ -6231,7 +6231,7 @@
   Description: New zlib compatible compressor library
   Homepage: https://github.com/google/zopfli
 - Package: libzxing-cpp
-  Version: 3.0.1
+  Version: 3.0.2
   Description: An open-source, multi-format 1D/2D barcode image processing library implemented in C++
   Homepage: https://github.com/zxing-cpp/zxing-cpp
 - Package: lighttpd
@@ -8571,7 +8571,7 @@
   Description: An alternative implementation of the plan 9 rc shell
   Homepage: https://github.com/rakitzis/rc
 - Package: rclone
-  Version: 1.73.0
+  Version: 1.73.1
   Description: rsync for cloud storage
   Homepage: https://rclone.org/
 - Package: rcm
@@ -9407,11 +9407,11 @@
   Description: Records and splits streaming mp3 into tracks
   Homepage: https://streamripper.sourceforge.net/
 - Package: stunnel
-  Version: "5.76"
+  Version: "5.77"
   Description: Socket wrapper which can provide TLS support to ordinary applications
   Homepage: https://www.stunnel.org/
 - Package: stunnel-static
-  Version: "5.76"
+  Version: "5.77"
   Description: Static libraries for stunnel
   Homepage: https://www.stunnel.org/
 - Package: stuntman
@@ -9607,7 +9607,7 @@
   Description: Telegram Bot API server
   Homepage: https://github.com/tdlib/telegram-bot-api
 - Package: teleport-tsh
-  Version: 18.6.8
+  Version: 18.7.0
   Description: Secure Access for Developers that doesnt get in the way
   Homepage: https://github.com/gravitational/teleport
 - Package: tere
