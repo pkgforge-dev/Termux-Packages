@@ -799,19 +799,19 @@
   },
   {
     "Package": "binutils",
-    "Version": "2.46.0",
+    "Version": "2.46.0-1",
     "Description": "A GNU collection of binary utilities",
     "Homepage": "https://www.gnu.org/software/binutils/"
   },
   {
     "Package": "binutils-bin",
-    "Version": "2.46.0",
+    "Version": "2.46.0-1",
     "Description": "Collection of binary tools, the main ones being ld, the GNU linker, and as, the GNU assembler",
     "Homepage": "https://www.gnu.org/software/binutils/"
   },
   {
     "Package": "binutils-cross",
-    "Version": "2.46.0",
+    "Version": "2.46.0-1",
     "Description": "GNU Binutils for cross build on the host (NOT for Termux)",
     "Homepage": "https://www.gnu.org/software/binutils/"
   },
