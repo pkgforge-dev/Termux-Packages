@@ -531,19 +531,19 @@
   Description: Binaryen is a compiler and toolchain infrastructure library for WebAssembly
   Homepage: https://github.com/WebAssembly/binaryen
 - Package: binutils
-  Version: 2.45.1
-  Description: GNU Binutils (metapackage)
+  Version: 2.46.0
+  Description: A GNU collection of binary utilities
   Homepage: https://www.gnu.org/software/binutils/
 - Package: binutils-bin
-  Version: 2.45.1
+  Version: 2.46.0
   Description: Collection of binary tools, the main ones being ld, the GNU linker, and as, the GNU assembler
   Homepage: https://www.gnu.org/software/binutils/
 - Package: binutils-cross
-  Version: 2.45.1
+  Version: 2.46.0
   Description: GNU Binutils for cross build on the host (NOT for Termux)
   Homepage: https://www.gnu.org/software/binutils/
 - Package: binutils-is-llvm
-  Version: 0.3-3
+  Version: 0.3-4
   Description: Use llvm as binutils
   Homepage: https://github.com/trentbuck/binutils-is-llvm
 - Package: binutils-libs
@@ -1059,7 +1059,7 @@
   Description: A suite of tools to create shopping lists and maintain food recipes
   Homepage: https://cooklang.org
 - Package: coreutils
-  Version: "9.10"
+  Version: 9.10-1
   Description: Basic file, shell and text manipulation utilities from the GNU project
   Homepage: https://www.gnu.org/software/coreutils/
 - Package: corgi
@@ -6375,7 +6375,7 @@
   Description: Tracks runtime library calls in dynamically linked programs
   Homepage: http://www.ltrace.org/
 - Package: lua-language-server
-  Version: 3.17.1
+  Version: 3.17.1-1
   Description: Sumneko Lua Language Server coded in Lua
   Homepage: https://github.com/sumneko/lua-language-server
 - Package: lua-lgi
