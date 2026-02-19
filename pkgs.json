@@ -3685,7 +3685,7 @@
   },
   {
     "Package": "gogs",
-    "Version": "0.14.1",
+    "Version": "0.14.2",
     "Description": "A painless self-hosted Git service",
     "Homepage": "https://gogs.io"
   },
@@ -10783,7 +10783,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.12.0~dev-2340+g29a46a11aa-0",
+    "Version": "0.12.0~dev-2363+gea3942f222-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -13639,7 +13639,7 @@
   },
   {
     "Package": "simdjson",
-    "Version": "4.2.4",
+    "Version": "4.3.0",
     "Description": "A C++ library to see how fast we can parse JSON with complete validation",
     "Homepage": "https://simdjson.org/"
   },
