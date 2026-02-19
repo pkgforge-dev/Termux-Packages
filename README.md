@@ -350,7 +350,7 @@
 | **dmtx-utils** | 0.7.6-2 | A command line interface for libdmtx | https://github.com/dmtx/dmtx-utils |
 | **dnglab** | 0.7.1 | Camera RAW to DNG file format converter | https://github.com/dnglab/dnglab |
 | **dnote** | 1:0.16.0 | A simple command line notebook for programmers | https://www.getdnote.com/ |
-| **dnote-server** | 2.1.1-3 | This package contains the Dnote server. It comprises of the web interface, the web API, and the background jobs. | https://www.getdnote.com/ |
+| **dnote-server** | 3.0.0 | This package contains the Dnote server. It comprises of the web interface, the web API, and the background jobs. | https://www.getdnote.com/ |
 | **dns2tcp** | 0.5.2-2 | dns2tcp is a tool for relaying TCP connections over DNS | https://github.com/alex-sector/dns2tcp |
 | **dnscontrol** | 4.34.0 | Infrastructure as code for DNS! | https://github.com/StackExchange/dnscontrol |
 | **dnslookup** | 1.11.2 | Simple command line utility to make DNS lookups. Supports all known DNS protocols: plain DNS, DoH, DoT, DoQ, DNSCrypt. | https://github.com/ameshkov/dnslookup |
@@ -587,7 +587,7 @@
 | **gitoxide** | 0.50.0-1 | Rust implementation of Git | https://github.com/Byron/gitoxide |
 | **gitui** | 0.28.0 | Blazing fast terminal-ui for git written in rust | https://github.com/gitui-org/gitui |
 | **gkermit** | 2.01-1 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
-| **glab-cli** | 1.85.3 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
+| **glab-cli** | 1.86.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
 | **gleam** | 1.14.0 | A friendly language for building type-safe, scalable systems! | https://gleam.run |
 | **glib** | 2.86.4 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
 | **glib-cross** | 2.86.4 | glib for host (NOT for Termux) | https://developer.gnome.org/glib/ |
@@ -626,8 +626,8 @@
 | **gobject-introspection** | 1.86.0 | Uniform machine readable API | https://gi.readthedocs.io/ |
 | **gogs** | 0.14.1 | A painless self-hosted Git service | https://gogs.io |
 | **gojq** | 0.12.18 | Pure Go implementation of jq | https://github.com/itchyny/gojq |
-| **golang** | 3:1.25.6 | Go programming language compiler | https://go.dev/ |
-| **golang-doc** | 3:1.25.6 | Go programming language - documentation | https://go.dev/ |
+| **golang** | 3:1.26.0 | Go programming language compiler | https://go.dev/ |
+| **golang-doc** | 3:1.26.0 | Go programming language - documentation | https://go.dev/ |
 | **gomp** | 2023.02.02-3 | MPD client inspired by ncmpcpp with builtin cover-art view and LastFM integration | https://aditya-k2.github.io/gomp/ |
 | **google-glog** | 0.7.1-2 | Logging library for C++ | https://github.com/google/glog |
 | **googletest** | 1.17.0-1 | Google C++ testing framework | https://github.com/google/googletest |
@@ -651,7 +651,7 @@
 | **gping** | 1.20.1-1 | Ping, but with a graph | https://github.com/orf/gping |
 | **gpsbabel** | 1.4.4-3 | GPS file conversion plus transfer to/from GPS units | https://www.gpsbabel.org/ |
 | **gradle** | 1:9.3.1 | Powerful build system for the JVM | https://gradle.org/ |
-| **grafana** | 1:11.6.0-1 | The open-source platform for monitoring and observability | https://grafana.com/ |
+| **grafana** | 1:12.3.3 | The open-source platform for monitoring and observability | https://grafana.com/ |
 | **grap** | 1.49 | Language for typesetting graphs | https://www.lunabase.org/~faber/Vault/software/grap/ |
 | **graphene** | 1.10.8-3 | A thin layer of graphic data types | https://ebassi.github.io/graphene/ |
 | **graphicsmagick** | 1.3.46 | Collection of image processing tools | http://www.graphicsmagick.org/ |
@@ -755,7 +755,7 @@
 | **imlib2** | 1.12.6 | Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support | https://sourceforge.net/projects/enlightenment/ |
 | **imlib2-static** | 1.12.6 | Static libraries for imlib2 | https://sourceforge.net/projects/enlightenment/ |
 | **indent** | 2.2.13-1 | C language source code formatting program | https://www.gnu.org/software/indent/ |
-| **inetutils** | 2.6-1 | Collection of common network programs | https://www.gnu.org/software/inetutils/ |
+| **inetutils** | 2.7 | Collection of common network programs | https://www.gnu.org/software/inetutils/ |
 | **influxdb** | 1.8.10-4 | An open source time series database with no external dependencies | https://www.influxdata.com/ |
 | **innoextract** | 1.9-10 | A tool to unpack installers created by Inno Setup | https://constexpr.org/innoextract/ |
 | **inotify-tools** | 4.25.9.0 | Programs providing a simple interface to inotify | https://github.com/rvoicilas/inotify-tools/wiki |
@@ -766,7 +766,7 @@
 | **iperf3** | 3.20 | TCP, UDP, and SCTP network bandwidth measurement tool | https://github.com/esnet/iperf |
 | **iperf3-static** | 3.20 | Static libraries for iperf3 | https://github.com/esnet/iperf |
 | **ipmitool** | 1.8.19-1 | Command-line interface to IPMI-enabled devices | https://github.com/ipmitool/ipmitool |
-| **iproute2** | 6.18.0-1 | Utilities for controlling networking | https://wiki.linuxfoundation.org/networking/iproute2 |
+| **iproute2** | 6.19.0 | Utilities for controlling networking | https://wiki.linuxfoundation.org/networking/iproute2 |
 | **ipv6calc** | 4.4.0 | Does some format changes and calculations of IPv6 addresses | https://www.deepspace6.net/projects/ipv6calc.html |
 | **ipv6toolkit** | 2022.09.30-4 | SI6 Networks IPv6 Toolkit | https://www.si6networks.com/research/tools/ipv6toolkit/ |
 | **ircd-irc2** | 2.11.2p3-3 | An Internet Relay Chat (IRC) daemon | http://www.irc.org/ |
@@ -833,7 +833,7 @@
 | **kubecolor** | 0.5.3 | Colorize your kubectl output | https://github.com/kubecolor/kubecolor |
 | **kubectl** | 1.35.1 | Kubernetes.io client binary | https://kubernetes.io/ |
 | **kubelogin** | 1.35.2 | A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication | https://github.com/int128/kubelogin |
-| **kubo** | 0.39.0 | A peer-to-peer hypermedia distribution protocol | https://ipfs.io/ |
+| **kubo** | 0.39.0-1 | A peer-to-peer hypermedia distribution protocol | https://ipfs.io/ |
 | **ladspa-sdk** | 1.17-2 | Linux Audio Developer's Simple Plugin API | https://www.ladspa.org/ |
 | **lame** | 3.100-7 | High quality MPEG Audio Layer III (MP3) encoder - frontend | https://lame.sourceforge.io/ |
 | **lastpass-cli** | 1.6.1-4 | LastPass command line interface tool | https://lastpass.com/ |
@@ -1597,7 +1597,7 @@
 | **lowdown** | 2.0.4-1 | Markdown utilities and library (fork of hoedown -> sundown -> libsoldout) | https://kristaps.bsd.lv/lowdown |
 | **lowdown-static** | 2.0.4-1 | Static libraries for lowdown | https://kristaps.bsd.lv/lowdown |
 | **lr** | 2.0.1-1 | list files, recursively, includes the best features of ls, find, stat and du | https://git.vuxu.org/lr/about/ |
-| **lrzip** | 0.651-2 | A compression utility that excels at compressing large files | https://github.com/ckolivas/lrzip |
+| **lrzip** | 0.660 | A compression utility that excels at compressing large files | https://github.com/ckolivas/lrzip |
 | **lrzsz** | 0.12.21-rc1-2 | Tools for zmodem/xmodem/ymodem file transfer | https://ohse.de/uwe/software/lrzsz.html |
 | **lsd** | 1.2.0 | Next gen ls command | https://github.com/lsd-rs/lsd |
 | **lsix** | 1.9.1-1 | Shows thumbnails in terminal using sixel graphics | https://github.com/hackerb9/lsix |
@@ -1852,7 +1852,7 @@
 | **nudoku** | 7.0.0 | ncurses based sudoku game | http://jubalh.github.io/nudoku/ |
 | **nushell** | 0.110.0 | A new type of shell operating on structured data | https://www.nushell.sh |
 | **nyancat** | 1.5.2-1 | Nyancat in your terminal, rendered through ANSI escape sequences. | http://nyancat.dakko.us |
-| **nzbget** | 21.1-8 | The most efficient usenet downloader | https://nzbget.net/ |
+| **nzbget** | 26.0 | The most efficient usenet downloader | https://nzbget.com/ |
 | **oathtool** | 2.6.12-2 | One-time password components | http://www.nongnu.org/oath-toolkit/ |
 | **oathtool-static** | 2.6.12-2 | Static libraries for oathtool | http://www.nongnu.org/oath-toolkit/ |
 | **ocl-icd** | 2.3.4 | OpenCL ICD Loader | https://github.com/OCL-dev/ocl-icd |
@@ -2062,7 +2062,7 @@
 | **pypy3** | 7.3.20 | A fast, compliant alternative implementation of Python 3 | https://pypy.org |
 | **pypy3-tests** | 7.3.20 | Test files for PyPy 3 | https://pypy.org |
 | **pypy3-tkinter** | 7.3.20 | Tkinter support for PyPy 3 | https://pypy.org |
-| **pyrefly** | 0.52.0 | A fast type checker and language server for Python | https://github.com/facebook/pyrefly.git |
+| **pyrefly** | 0.53.0 | A fast type checker and language server for Python | https://github.com/facebook/pyrefly.git |
 | **pystring** | 1.1.4-1 | C++ functions matching the interface and behavior of python string methods with std::string | https://github.com/imageworks/pystring |
 | **python** | 3.12.12-1 | Python 3 programming language intended to enable clear programs | https://python.org/ |
 | **python-apsw** | 3.51.2.0 | Another Python SQLite Wrapper | https://rogerbinns.github.io/apsw/ |
@@ -2567,7 +2567,7 @@
 | **urdfdom** | 5.1.0 | Unified Robot Description Format (URDF) parser library and tools | https://github.com/ros/urdfdom |
 | **urdfdom-headers** | 2.1.0 | Headers for URDF parsers | https://github.com/ros/urdfdom_headers |
 | **usbmuxd** | 1.1.1-p20250201-2 | A socket daemon to multiplex connections from and to iOS devices | https://libimobiledevice.org |
-| **usql** | 0.20.8 | A universal command-line interface for SQL databases | https://github.com/xo/usql |
+| **usql** | 0.20.8-1 | A universal command-line interface for SQL databases | https://github.com/xo/usql |
 | **utf8cpp** | 1:4.0.9 | UTF8-CPP: UTF-8 with C++ in a Portable Way | https://github.com/nemtrif/utfcpp |
 | **utf8proc** | 2.11.3 | Library for processing UTF-8 Unicode data | https://github.com/JuliaLang/utf8proc |
 | **utf8proc-static** | 2.11.3 | Static libraries for utf8proc | https://github.com/JuliaLang/utf8proc |

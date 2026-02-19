@@ -2041,7 +2041,7 @@
   },
   {
     "Package": "dnote-server",
-    "Version": "2.1.1-3",
+    "Version": "3.0.0",
     "Description": "This package contains the Dnote server. It comprises of the web interface, the web API, and the background jobs.",
     "Homepage": "https://www.getdnote.com/"
   },
@@ -3463,7 +3463,7 @@
   },
   {
     "Package": "glab-cli",
-    "Version": "1.85.3",
+    "Version": "1.86.0",
     "Description": "A GitLab CLI tool bringing GitLab to your command line",
     "Homepage": "https://gitlab.com/gitlab-org/cli"
   },
@@ -3697,13 +3697,13 @@
   },
   {
     "Package": "golang",
-    "Version": "3:1.25.6",
+    "Version": "3:1.26.0",
     "Description": "Go programming language compiler",
     "Homepage": "https://go.dev/"
   },
   {
     "Package": "golang-doc",
-    "Version": "3:1.25.6",
+    "Version": "3:1.26.0",
     "Description": "Go programming language - documentation",
     "Homepage": "https://go.dev/"
   },
@@ -3847,7 +3847,7 @@
   },
   {
     "Package": "grafana",
-    "Version": "1:11.6.0-1",
+    "Version": "1:12.3.3",
     "Description": "The open-source platform for monitoring and observability",
     "Homepage": "https://grafana.com/"
   },
@@ -4471,7 +4471,7 @@
   },
   {
     "Package": "inetutils",
-    "Version": "2.6-1",
+    "Version": "2.7",
     "Description": "Collection of common network programs",
     "Homepage": "https://www.gnu.org/software/inetutils/"
   },
@@ -4537,7 +4537,7 @@
   },
   {
     "Package": "iproute2",
-    "Version": "6.18.0-1",
+    "Version": "6.19.0",
     "Description": "Utilities for controlling networking",
     "Homepage": "https://wiki.linuxfoundation.org/networking/iproute2"
   },
@@ -4939,7 +4939,7 @@
   },
   {
     "Package": "kubo",
-    "Version": "0.39.0",
+    "Version": "0.39.0-1",
     "Description": "A peer-to-peer hypermedia distribution protocol",
     "Homepage": "https://ipfs.io/"
   },
@@ -9523,7 +9523,7 @@
   },
   {
     "Package": "lrzip",
-    "Version": "0.651-2",
+    "Version": "0.660",
     "Description": "A compression utility that excels at compressing large files",
     "Homepage": "https://github.com/ckolivas/lrzip"
   },
@@ -11053,9 +11053,9 @@
   },
   {
     "Package": "nzbget",
-    "Version": "21.1-8",
+    "Version": "26.0",
     "Description": "The most efficient usenet downloader",
-    "Homepage": "https://nzbget.net/"
+    "Homepage": "https://nzbget.com/"
   },
   {
     "Package": "oathtool",
@@ -12313,7 +12313,7 @@
   },
   {
     "Package": "pyrefly",
-    "Version": "0.52.0",
+    "Version": "0.53.0",
     "Description": "A fast type checker and language server for Python",
     "Homepage": "https://github.com/facebook/pyrefly.git"
   },
@@ -15343,7 +15343,7 @@
   },
   {
     "Package": "usql",
-    "Version": "0.20.8",
+    "Version": "0.20.8-1",
     "Description": "A universal command-line interface for SQL databases",
     "Homepage": "https://github.com/xo/usql"
   },
