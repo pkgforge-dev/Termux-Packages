@@ -439,7 +439,7 @@
 | **exercism** | 3.5.8 | A Go based command line tool for exercism.io | https://github.com/exercism/cli/ |
 | **exfatprogs** | 1.3.1 | exFAT filesystem userspace utilities | https://github.com/exfatprogs/exfatprogs |
 | **exhale** | 1.2.2RC+really1.2.2 | Open source xHE-AAC encoder | https://gitlab.com/ecodis/exhale |
-| **exiftool** | 13.50 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
+| **exiftool** | 13.51 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
 | **exiv2** | 2:0.28.7 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **expect** | 5.45.4-4 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
 | **eza** | 0.23.4 | A modern replacement for ls | https://github.com/eza-community/eza |
@@ -1056,7 +1056,7 @@
 | **libgpg-error** | 1.58 | Small library that defines common error values for all GnuPG components | https://www.gnupg.org/related_software/libgpg-error/ |
 | **libgpg-error-static** | 1.58 | Static libraries for libgpg-error | https://www.gnupg.org/related_software/libgpg-error/ |
 | **libgraphite** | 1.3.14-3 | Font system for multiple languages | https://github.com/silnrsi/graphite |
-| **libgrpc** | 1.78.0 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
+| **libgrpc** | 1.78.1 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
 | **libgsasl** | 2.2.2-1 | GNU SASL library | https://www.gnu.org/software/gsasl |
 | **libgsasl-static** | 2.2.2-1 | Static libraries for libgsasl | https://www.gnu.org/software/gsasl |
 | **libgsf** | 1.14.55 | The G Structured File Library | https://gitlab.gnome.org/GNOME/libgsf |
@@ -1831,7 +1831,7 @@
 | **notcurses-data** | 3.0.17-2 | Platform-independent data for notcurses | https://notcurses.com/ |
 | **notcurses-tools** | 3.0.17-2 | Tools and demos for notcurses | https://notcurses.com/ |
 | **notmuch** | 0.40 | Thread-based email index, search and tagging system | https://notmuchmail.org |
-| **npm** | 11.10.0 | The package manager for JavaScript | https://docs.npmjs.com/cli/ |
+| **npm** | 11.10.1 | The package manager for JavaScript | https://docs.npmjs.com/cli/ |
 | **npush** | 0.7-2 | Curses-based logic game similar to Sokoban and Boulder Dash | https://npush.sourceforge.net/ |
 | **nsis** | 3.11-1 | A professional open source system to create Windows installers | https://sourceforge.net/projects/nsis/ |
 | **nsis-stubs** | 3.11-1 | NSIS Stubs | https://sourceforge.net/projects/nsis/ |
@@ -1859,7 +1859,7 @@
 | **onigmo-static** | 6.2.0-1 | Static libraries for onigmo | https://github.com/k-takata/Onigmo |
 | **oniguruma** | 6.9.10-1 | Regular expressions library | https://github.com/kkos/oniguruma |
 | **oniguruma-static** | 6.9.10-1 | Static libraries for oniguruma | https://github.com/kkos/oniguruma |
-| **onnxruntime** | 1.24.1 | Cross-platform, high performance ML inferencing and training accelerator | https://onnxruntime.ai/ |
+| **onnxruntime** | 1.24.2 | Cross-platform, high performance ML inferencing and training accelerator | https://onnxruntime.ai/ |
 | **oorexx** | 4.2.0-4 | Open Object Rexx | https://www.oorexx.org/ |
 | **oorexx-static** | 4.2.0-4 | Static libraries for oorexx | https://www.oorexx.org/ |
 | **open-adventure** | 1.20-1 | Forward-port of the original Colossal Cave Adventure from 1976-77 | http://www.catb.org/~esr/open-adventure/ |
@@ -1911,8 +1911,8 @@
 | **ossp-uuid** | 1.6.2-4 | ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122. | http://www.ossp.org/pkg/lib/uuid/ |
 | **ossp-uuid-static** | 1.6.2-4 | Static libraries for ossp-uuid | http://www.ossp.org/pkg/lib/uuid/ |
 | **ovmf** | 20231122-16.fc40-0 | Open Virtual Machine Firmware | https://www.tianocore.org/ |
-| **oxfmt** | 1.48.0 | Oxc JavaScript formatter | https://oxc.rs/ |
-| **oxlint** | 1.48.0 | Oxc JavaScript linter | https://oxc.rs/ |
+| **oxfmt** | 1.49.0 | Oxc JavaScript formatter | https://oxc.rs/ |
+| **oxlint** | 1.49.0 | Oxc JavaScript linter | https://oxc.rs/ |
 | **p11-kit** | 0.26.2 | Provides a way to load and enumerate PKCS#11 modules | https://p11-glue.github.io/p11-glue/p11-kit.html |
 | **p7zip** | 17.06-1 | Command-line version of the 7zip compressed file archiver | https://github.com/p7zip-project/p7zip |
 | **pacman** | 7.1.0-1 | A library-based package manager with dependency support | https://archlinux.org/pacman/ |
@@ -2070,7 +2070,7 @@
 | **python-msgpack** | 1.1.2-1 | MessagePack serializer implementation for Python | https://github.com/msgpack/msgpack-python |
 | **python-numpy** | 2.2.5-3 | The fundamental package for scientific computing with Python | https://numpy.org/ |
 | **python-numpy-static** | 2.2.5-3 | Static libraries for python-numpy | https://numpy.org/ |
-| **python-onnxruntime** | 1.24.1 | Cross-platform, high performance ML inferencing and training accelerator (Python bindings) | https://onnxruntime.ai/ |
+| **python-onnxruntime** | 1.24.2 | Cross-platform, high performance ML inferencing and training accelerator (Python bindings) | https://onnxruntime.ai/ |
 | **python-pillow** | 12.1.1 | Python Imaging Library | https://python-pillow.org/ |
 | **python-pip** | 26.0.1 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
 | **python-pyarrow** | 23.0.1 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
@@ -2605,7 +2605,7 @@
 | **vtm** | 2026.02.16 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
 | **vttest** | 20251205 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vulkan-extension-layer** | 1.4.341 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
-| **vulkan-headers** | 1.4.343 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
+| **vulkan-headers** | 1.4.344 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
 | **vulkan-icd** | 0.1 | A metapackage that provides Vulkan ICDs | https://github.com/termux/termux-packages |
 | **vulkan-loader** | 0.0.3 | A metapackage that provides vulkan loader library | https://github.com/termux/termux-packages |
 | **vulkan-loader-android** | 29 | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
