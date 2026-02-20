@@ -549,7 +549,7 @@
 | **geckodriver** | 0.36.0-1 | Proxy for using W3C WebDriver-compatible clients to interact with Gecko-based browsers | https://github.com/mozilla/geckodriver |
 | **gecode** | 6.2.0-1 | Generic Constraint Development Environment | https://github.com/Gecode/gecode |
 | **gecode-static** | 6.2.0-1 | Static libraries for gecode | https://github.com/Gecode/gecode |
-| **gegl** | 0.4.66-1 | Data flow based image processing framework | https://gegl.org/ |
+| **gegl** | 0.4.66-2 | Data flow based image processing framework | https://gegl.org/ |
 | **gengetopt** | 2.23-4 | gengetopt is a tool to write command line option parsing code for C programs | https://www.gnu.org/software/gengetopt/ |
 | **geographiclib** | 2.7 | Utilities and C++ library to solve some geodesic problems | https://geographiclib.sourceforge.io |
 | **geoip2-database** | 20191221-2 | GeoLite2 IP geolocation databases compiled by MaxMind | https://dev.maxmind.com/geoip/geoip2/geolite2/ |
@@ -785,8 +785,8 @@
 | **janet** | 1.41.2 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
 | **jbig2dec** | 0.20-1 | Decoder implementation of the JBIG2 image compression format | https://jbig2dec.com/ |
 | **jbig2dec-static** | 0.20-1 | Static libraries for jbig2dec | https://jbig2dec.com/ |
-| **jbig2enc** | 2023.01.08-3 | An encoder for JBIG2 | https://github.com/agl/jbig2enc |
-| **jbig2enc-static** | 2023.01.08-3 | Static libraries for jbig2enc | https://github.com/agl/jbig2enc |
+| **jbig2enc** | 1:0.30 | An encoder for JBIG2 | https://github.com/agl/jbig2enc |
+| **jbig2enc-static** | 1:0.30 | Static libraries for jbig2enc | https://github.com/agl/jbig2enc |
 | **jcal** | 0.5.1-1 | UNIX-cal-like tool to display Jalali (Persian/Iranian) calendar | http://nongnu.org/jcal |
 | **jcal-static** | 0.5.1-1 | Static libraries for jcal | http://nongnu.org/jcal |
 | **jellyfin-ffmpeg** | 10.11.5-2 | FFmpeg for Jellyfin with custom extensions and enhancements | https://jellyfin.org |
@@ -1473,7 +1473,7 @@
 | **libvbisam-static** | 2.0-3 | Static libraries for libvbisam | https://sourceforge.net/projects/vbisam/ |
 | **libvidstab** | 1.1.1-3 | video stabilization library | https://github.com/georgmartius/vid.stab |
 | **libvigra** | 1.12.3 | Computer vision library | https://ukoethe.github.io/vigra/ |
-| **libvips** | 8.18.0-1 | A fast image processing library with low memory needs | https://libvips.github.io/libvips/ |
+| **libvips** | 8.18.0-2 | A fast image processing library with low memory needs | https://libvips.github.io/libvips/ |
 | **libvisio** | 0.1.10 | Library providing ability to interpret and import visio diagrams | https://wiki.documentfoundation.org/DLP/Libraries/libvisio |
 | **libvisio-static** | 0.1.10 | Static libraries for libvisio | https://wiki.documentfoundation.org/DLP/Libraries/libvisio |
 | **libvmaf** | 3.0.0-2 | A perceptual video quality assessment algorithm developed by Netflix | https://github.com/Netflix/vmaf |
@@ -1882,7 +1882,7 @@
 | **opencl-headers** | 2025.07.22 | Khronos OpenCL-Headers | https://github.com/KhronosGroup/OpenCL-Headers |
 | **opencl-vendor-driver** | 0.3 | OpenCL driver from system vendor | https://termux.dev |
 | **opencolorio** | 2.5.1 | A color management framework for visual effects and animation | https://opencolorio.org |
-| **openexr** | 3.4.0-1 | Provides the specification and reference implementation of the EXR file format | https://www.openexr.com/ |
+| **openexr** | 3.4.4 | Provides the specification and reference implementation of the EXR file format | https://www.openexr.com/ |
 | **openfoam** | 2412-5 | OpenFOAM is a CFD software written in C++ | https://www.openfoam.com |
 | **opengl** | 4.5 | A metapackage for OpenGL implementation | https://github.com/termux/termux-packages |
 | **openh264** | 2.6.0-1 | Codec library supporting H.264 encoding and decoding | https://www.openh264.org/ |
@@ -1961,9 +1961,9 @@
 | **pcre2grep** | 10.47 | A grep with Perl-compatible regular expressions | https://pcre2project.github.io/pcre2/ |
 | **pcregrep** | 8.45-2 | A grep with Perl-compatible regular expressions | https://www.pcre.org |
 | **pcscd** | 2.4.1 | Middleware to access a smart card using SCard API (PC/SC). (daemon side) | https://pcsclite.apdu.fr/ |
-| **pdf2svg** | 0.2.4-1 | A PDF to SVG converter | http://www.cityinthesky.co.uk/opensource/pdf2svg/ |
+| **pdf2svg** | 0.2.4-2 | A PDF to SVG converter | http://www.cityinthesky.co.uk/opensource/pdf2svg/ |
 | **pdfcpu** | 0.11.1 | A PDF processor written in Go | https://pdfcpu.io |
-| **pdfgrep** | 2.2.0-4 | Command line utility to search text in PDF files | https://pdfgrep.org/ |
+| **pdfgrep** | 2.2.0-5 | Command line utility to search text in PDF files | https://pdfgrep.org/ |
 | **pdftk** | 3.3.3-3 | A simple tool for doing everyday things with PDF documents | https://gitlab.com/pdftk-java/pdftk |
 | **peaclock** | 0.4.3-9 | A responsive and customizable clock, timer, and stopwatch for the terminal. | https://github.com/octobanana/peaclock |
 | **peco** | 0.5.11-2 | Simplistic interactive filtering tool | https://github.com/peco/peco |
@@ -2014,7 +2014,7 @@
 | **polyml** | 5.9.2 | A Standard ML implementation | https://www.polyml.org/ |
 | **polyml-static** | 5.9.2 | Static libraries for polyml | https://www.polyml.org/ |
 | **pomodoro-curses** | 2.5-1 | A simple pomodoro timer written with the Ncurses library | https://github.com/chunga2020/pomodoro_curses |
-| **poppler** | 24.05.0-5 | PDF rendering library | https://poppler.freedesktop.org/ |
+| **poppler** | 26.02.0 | PDF rendering library | https://poppler.freedesktop.org/ |
 | **poppler-data** | 0.4.12 | Consists of encoding files for use with poppler | https://poppler.freedesktop.org/ |
 | **portaudio** | 19.07.00-3 | A portable audio I/O library | https://www.portaudio.com/ |
 | **portaudio-static** | 19.07.00-3 | Static libraries for portaudio | https://www.portaudio.com/ |
@@ -2455,7 +2455,7 @@
 | **tilde** | 1.1.3-2 | A text editor for the console/terminal | https://os.ghalkes.nl/tilde/ |
 | **time** | 1.9-1 | GNU time program for measuring CPU resource usage | https://www.gnu.org/software/time/ |
 | **timewarrior** | 1.9.1 | Command-line time tracker | https://timewarrior.net/ |
-| **timg** | 1.6.3-1 | A terminal image and video viewer | https://timg.sh/ |
+| **timg** | 1.6.3-2 | A terminal image and video viewer | https://timg.sh/ |
 | **timidity++** | 2.15.0-2 | MIDI-to-WAVE converter and player | https://timidity.sourceforge.net/ |
 | **tin-summer** | 1.21.14-1 | Find build artifacts that are taking up disk space | https://github.com/vmchale/tin-summer |
 | **tintin++** | 2.02.61 | Classic text-based MUD client | https://tintin.mudhalla.net |
@@ -2482,7 +2482,7 @@
 | **tracepath** | 20250605-1 | Tool to trace the network path to a remote host | https://github.com/iputils/iputils |
 | **traceroute** | 2.1.6-1 | A new modern implementation of traceroute(8) utility for Linux systems | https://traceroute.sourceforge.net/ |
 | **translate-shell** | 0.9.7.1 | Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc. | https://www.soimort.org/translate-shell |
-| **transmission** | 4.1.0 | Easy, lean and powerful BitTorrent client | https://transmissionbt.com/ |
+| **transmission** | 4.1.1 | Easy, lean and powerful BitTorrent client | https://transmissionbt.com/ |
 | **tree** | 2.3.1 | Recursive directory lister producing a depth indented listing of files | http://mama.indstate.edu/users/ice/tree/ |
 | **tree-sitter** | 0.25.10-2 | An incremental parsing system for programming tools | https://tree-sitter.github.io/ |
 | **tree-sitter-bash** | 0.25.1 | Bash grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-bash |

@@ -2155,7 +2155,7 @@
   Description: Static libraries for gecode
   Homepage: https://github.com/Gecode/gecode
 - Package: gegl
-  Version: 0.4.66-1
+  Version: 0.4.66-2
   Description: Data flow based image processing framework
   Homepage: https://gegl.org/
 - Package: gengetopt
@@ -3099,11 +3099,11 @@
   Description: Static libraries for jbig2dec
   Homepage: https://jbig2dec.com/
 - Package: jbig2enc
-  Version: 2023.01.08-3
+  Version: "1:0.30"
   Description: An encoder for JBIG2
   Homepage: https://github.com/agl/jbig2enc
 - Package: jbig2enc-static
-  Version: 2023.01.08-3
+  Version: "1:0.30"
   Description: Static libraries for jbig2enc
   Homepage: https://github.com/agl/jbig2enc
 - Package: jcal
@@ -5851,7 +5851,7 @@
   Description: Computer vision library
   Homepage: https://ukoethe.github.io/vigra/
 - Package: libvips
-  Version: 8.18.0-1
+  Version: 8.18.0-2
   Description: A fast image processing library with low memory needs
   Homepage: https://libvips.github.io/libvips/
 - Package: libvisio
@@ -7487,7 +7487,7 @@
   Description: A color management framework for visual effects and animation
   Homepage: https://opencolorio.org
 - Package: openexr
-  Version: 3.4.0-1
+  Version: 3.4.4
   Description: Provides the specification and reference implementation of the EXR file format
   Homepage: https://www.openexr.com/
 - Package: openfoam
@@ -7803,7 +7803,7 @@
   Description: Middleware to access a smart card using SCard API (PC/SC). (daemon side)
   Homepage: https://pcsclite.apdu.fr/
 - Package: pdf2svg
-  Version: 0.2.4-1
+  Version: 0.2.4-2
   Description: A PDF to SVG converter
   Homepage: http://www.cityinthesky.co.uk/opensource/pdf2svg/
 - Package: pdfcpu
@@ -7811,7 +7811,7 @@
   Description: A PDF processor written in Go
   Homepage: https://pdfcpu.io
 - Package: pdfgrep
-  Version: 2.2.0-4
+  Version: 2.2.0-5
   Description: Command line utility to search text in PDF files
   Homepage: https://pdfgrep.org/
 - Package: pdftk
@@ -8015,7 +8015,7 @@
   Description: A simple pomodoro timer written with the Ncurses library
   Homepage: https://github.com/chunga2020/pomodoro_curses
 - Package: poppler
-  Version: 24.05.0-5
+  Version: 26.02.0
   Description: PDF rendering library
   Homepage: https://poppler.freedesktop.org/
 - Package: poppler-data
@@ -9779,7 +9779,7 @@
   Description: Command-line time tracker
   Homepage: https://timewarrior.net/
 - Package: timg
-  Version: 1.6.3-1
+  Version: 1.6.3-2
   Description: A terminal image and video viewer
   Homepage: https://timg.sh/
 - Package: timidity++
@@ -9887,7 +9887,7 @@
   Description: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
   Homepage: https://www.soimort.org/translate-shell
 - Package: transmission
-  Version: 4.1.0
+  Version: 4.1.1
   Description: Easy, lean and powerful BitTorrent client
   Homepage: https://transmissionbt.com/
 - Package: tree

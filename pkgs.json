@@ -3235,7 +3235,7 @@
   },
   {
     "Package": "gegl",
-    "Version": "0.4.66-1",
+    "Version": "0.4.66-2",
     "Description": "Data flow based image processing framework",
     "Homepage": "https://gegl.org/"
   },
@@ -4651,13 +4651,13 @@
   },
   {
     "Package": "jbig2enc",
-    "Version": "2023.01.08-3",
+    "Version": "1:0.30",
     "Description": "An encoder for JBIG2",
     "Homepage": "https://github.com/agl/jbig2enc"
   },
   {
     "Package": "jbig2enc-static",
-    "Version": "2023.01.08-3",
+    "Version": "1:0.30",
     "Description": "Static libraries for jbig2enc",
     "Homepage": "https://github.com/agl/jbig2enc"
   },
@@ -8779,7 +8779,7 @@
   },
   {
     "Package": "libvips",
-    "Version": "8.18.0-1",
+    "Version": "8.18.0-2",
     "Description": "A fast image processing library with low memory needs",
     "Homepage": "https://libvips.github.io/libvips/"
   },
@@ -11233,7 +11233,7 @@
   },
   {
     "Package": "openexr",
-    "Version": "3.4.0-1",
+    "Version": "3.4.4",
     "Description": "Provides the specification and reference implementation of the EXR file format",
     "Homepage": "https://www.openexr.com/"
   },
@@ -11707,7 +11707,7 @@
   },
   {
     "Package": "pdf2svg",
-    "Version": "0.2.4-1",
+    "Version": "0.2.4-2",
     "Description": "A PDF to SVG converter",
     "Homepage": "http://www.cityinthesky.co.uk/opensource/pdf2svg/"
   },
@@ -11719,7 +11719,7 @@
   },
   {
     "Package": "pdfgrep",
-    "Version": "2.2.0-4",
+    "Version": "2.2.0-5",
     "Description": "Command line utility to search text in PDF files",
     "Homepage": "https://pdfgrep.org/"
   },
@@ -12025,7 +12025,7 @@
   },
   {
     "Package": "poppler",
-    "Version": "24.05.0-5",
+    "Version": "26.02.0",
     "Description": "PDF rendering library",
     "Homepage": "https://poppler.freedesktop.org/"
   },
@@ -14671,7 +14671,7 @@
   },
   {
     "Package": "timg",
-    "Version": "1.6.3-1",
+    "Version": "1.6.3-2",
     "Description": "A terminal image and video viewer",
     "Homepage": "https://timg.sh/"
   },
@@ -14833,7 +14833,7 @@
   },
   {
     "Package": "transmission",
-    "Version": "4.1.0",
+    "Version": "4.1.1",
     "Description": "Easy, lean and powerful BitTorrent client",
     "Homepage": "https://transmissionbt.com/"
   },
