@@ -3319,7 +3319,7 @@
   },
   {
     "Package": "gh",
-    "Version": "2.87.0",
+    "Version": "2.87.2",
     "Description": "GitHub’s official command line tool",
     "Homepage": "https://cli.github.com/"
   },
@@ -7381,7 +7381,7 @@
   },
   {
     "Package": "libnss",
-    "Version": "3.120.1",
+    "Version": "3.121",
     "Description": "Network Security Services (NSS)",
     "Homepage": "https://firefox-source-docs.mozilla.org/security/nss/"
   },
@@ -11029,7 +11029,7 @@
   },
   {
     "Package": "nss-utils",
-    "Version": "3.120.1",
+    "Version": "3.121",
     "Description": "Tools for NSS",
     "Homepage": "https://firefox-source-docs.mozilla.org/security/nss/"
   },
@@ -12379,7 +12379,7 @@
   },
   {
     "Package": "python-greenlet",
-    "Version": "3.3.1",
+    "Version": "3.3.2",
     "Description": "Lightweight coroutines for in-process concurrent programming",
     "Homepage": "https://github.com/python-greenlet/greenlet"
   },
@@ -13639,7 +13639,7 @@
   },
   {
     "Package": "simdjson",
-    "Version": "4.3.0",
+    "Version": "4.3.1",
     "Description": "A C++ library to see how fast we can parse JSON with complete validation",
     "Homepage": "https://simdjson.org/"
   },
@@ -14383,7 +14383,7 @@
   },
   {
     "Package": "tea",
-    "Version": "0.11.1",
+    "Version": "0.12.0",
     "Description": "The official CLI for Gitea",
     "Homepage": "https://gitea.com/gitea/tea"
   },
@@ -15673,7 +15673,7 @@
   },
   {
     "Package": "vulkan-tools",
-    "Version": "1.4.343",
+    "Version": "1.4.344",
     "Description": "Vulkan Tools and Utilities",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Tools"
   },
@@ -15739,7 +15739,7 @@
   },
   {
     "Package": "wasm-component-ld",
-    "Version": "0.5.20",
+    "Version": "0.5.21",
     "Description": "Command line linker for creating WebAssembly components",
     "Homepage": "https://github.com/bytecodealliance/wasm-component-ld"
   },
