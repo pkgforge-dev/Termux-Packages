@@ -433,7 +433,7 @@
   },
   {
     "Package": "ascii",
-    "Version": "3.30",
+    "Version": "3.31",
     "Description": "List ASCII idiomatic names and octal/decimal code-point forms",
     "Homepage": "http://www.catb.org/~esr/ascii/"
   },
@@ -877,7 +877,7 @@
   },
   {
     "Package": "blk-utils",
-    "Version": "2.41.2-1",
+    "Version": "2.41.3",
     "Description": "Utilities for handling block device attributes",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -1561,7 +1561,7 @@
   },
   {
     "Package": "command-not-found",
-    "Version": "3.2-17",
+    "Version": "3.2-18",
     "Description": "Suggest installation of packages in interactive shell sessions",
     "Homepage": "https://github.com/termux/command-not-found"
   },
@@ -2125,7 +2125,7 @@
   },
   {
     "Package": "dos2unix",
-    "Version": "7.5.2-1",
+    "Version": "7.5.4",
     "Description": "Converts between DOS and Unix text files",
     "Homepage": "https://waterlan.home.xs4all.nl/dos2unix.html"
   },
@@ -2647,7 +2647,7 @@
   },
   {
     "Package": "exiftool",
-    "Version": "13.51",
+    "Version": "13.51-1",
     "Description": "Utility for reading, writing and editing meta information in a wide variety of files.",
     "Homepage": "https://exiftool.org/"
   },
@@ -2749,7 +2749,7 @@
   },
   {
     "Package": "fdisk",
-    "Version": "2.41.2-1",
+    "Version": "2.41.3",
     "Description": "Utilities to manipulate disk partition tables",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -2893,13 +2893,13 @@
   },
   {
     "Package": "flatbuffers",
-    "Version": "25.12.19-2026-02-06-03fffb2-0",
+    "Version": "25.12.19-2026-02-06-03fffb2-1",
     "Description": "Memory Efficient Serialization Library",
     "Homepage": "https://github.com/google/flatbuffers"
   },
   {
     "Package": "flatbuffers-static",
-    "Version": "25.12.19-2026-02-06-03fffb2-0",
+    "Version": "25.12.19-2026-02-06-03fffb2-1",
     "Description": "Static libraries for flatbuffers",
     "Homepage": "https://github.com/google/flatbuffers"
   },
@@ -4567,7 +4567,7 @@
   },
   {
     "Package": "irssi",
-    "Version": "1.4.5-3",
+    "Version": "1.4.5-4",
     "Description": "Terminal based IRC client",
     "Homepage": "https://irssi.org/"
   },
@@ -5275,7 +5275,7 @@
   },
   {
     "Package": "libapt-pkg-perl",
-    "Version": "0.1.40-13",
+    "Version": "0.1.40-14",
     "Description": "Perl interface to APTs libapt-pkg",
     "Homepage": "https://packages.debian.org/libapt-pkg-perl"
   },
@@ -5359,7 +5359,7 @@
   },
   {
     "Package": "libblkid",
-    "Version": "2.41.2-1",
+    "Version": "2.41.3",
     "Description": "Block device identification library",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -6067,7 +6067,7 @@
   },
   {
     "Package": "libfdisk",
-    "Version": "2.41.2-1",
+    "Version": "2.41.3",
     "Description": "Library for manipulating disk partition tables",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -7075,7 +7075,7 @@
   },
   {
     "Package": "libmount",
-    "Version": "2.41.2-1",
+    "Version": "2.41.3",
     "Description": "Library for (un)mounting filesystems",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -7861,7 +7861,7 @@
   },
   {
     "Package": "libregexp-assemble-perl",
-    "Version": "0.38-7",
+    "Version": "0.38-8",
     "Description": "Perl module to merge several regular expressions",
     "Homepage": "https://metacpan.org/pod/Regexp::Assemble"
   },
@@ -8113,7 +8113,7 @@
   },
   {
     "Package": "libsmartcols",
-    "Version": "2.41.2-1",
+    "Version": "2.41.3",
     "Description": "Library for smart adaptive formatting of tabular data",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -8725,7 +8725,7 @@
   },
   {
     "Package": "libuuid",
-    "Version": "2.41.2-1",
+    "Version": "2.41.3",
     "Description": "Library for handling universally unique identifiers",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -10207,7 +10207,7 @@
   },
   {
     "Package": "minimodem",
-    "Version": "0.24-1-1",
+    "Version": "0.24-1-2",
     "Description": "General-purpose software audio FSK modem",
     "Homepage": "http://www.whence.com/minimodem/"
   },
@@ -10387,7 +10387,7 @@
   },
   {
     "Package": "mount-utils",
-    "Version": "2.41.2-1",
+    "Version": "2.41.3",
     "Description": "Utilities for (un)mounting filesystems",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -11743,7 +11743,7 @@
   },
   {
     "Package": "perl",
-    "Version": "5.40.3-3",
+    "Version": "5.42.0",
     "Description": "Capable, feature-rich programming language",
     "Homepage": "https://www.perl.org/"
   },
@@ -12601,121 +12601,121 @@
   },
   {
     "Package": "qemu-common",
-    "Version": "1:10.1.2",
+    "Version": "1:10.2.1",
     "Description": "A set common files used by the QEMU emulators",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-system-aarch64-headless",
-    "Version": "1:10.1.2",
+    "Version": "1:10.2.1",
     "Description": "A generic and open source machine emulator and virtualizer (headless)",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-system-arm-headless",
-    "Version": "1:10.1.2",
+    "Version": "1:10.2.1",
     "Description": "A generic and open source machine emulator and virtualizer (headless)",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-system-i386-headless",
-    "Version": "1:10.1.2",
+    "Version": "1:10.2.1",
     "Description": "A generic and open source machine emulator and virtualizer (headless)",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-system-m68k-headless",
-    "Version": "1:10.1.2",
+    "Version": "1:10.2.1",
     "Description": "A generic and open source machine emulator and virtualizer (headless)",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-system-ppc-headless",
-    "Version": "1:10.1.2",
+    "Version": "1:10.2.1",
     "Description": "A generic and open source machine emulator and virtualizer (headless)",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-system-ppc64-headless",
-    "Version": "1:10.1.2",
+    "Version": "1:10.2.1",
     "Description": "A generic and open source machine emulator and virtualizer (headless)",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-system-riscv32-headless",
-    "Version": "1:10.1.2",
+    "Version": "1:10.2.1",
     "Description": "A generic and open source machine emulator and virtualizer (headless)",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-system-riscv64-headless",
-    "Version": "1:10.1.2",
+    "Version": "1:10.2.1",
     "Description": "A generic and open source machine emulator and virtualizer (headless)",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-system-x86-64-headless",
-    "Version": "1:10.1.2",
+    "Version": "1:10.2.1",
     "Description": "A generic and open source machine emulator and virtualizer (headless)",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-user-aarch64",
-    "Version": "1:10.1.2",
+    "Version": "1:10.2.1",
     "Description": "QEMU Linux user mode emulator",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-user-arm",
-    "Version": "1:10.1.2",
+    "Version": "1:10.2.1",
     "Description": "QEMU Linux user mode emulator",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-user-i386",
-    "Version": "1:10.1.2",
+    "Version": "1:10.2.1",
     "Description": "QEMU Linux user mode emulator",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-user-m68k",
-    "Version": "1:10.1.2",
+    "Version": "1:10.2.1",
     "Description": "QEMU Linux user mode emulator",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-user-ppc",
-    "Version": "1:10.1.2",
+    "Version": "1:10.2.1",
     "Description": "QEMU Linux user mode emulator",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-user-ppc64",
-    "Version": "1:10.1.2",
+    "Version": "1:10.2.1",
     "Description": "QEMU Linux user mode emulator",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-user-riscv32",
-    "Version": "1:10.1.2",
+    "Version": "1:10.2.1",
     "Description": "QEMU Linux user mode emulator",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-user-riscv64",
-    "Version": "1:10.1.2",
+    "Version": "1:10.2.1",
     "Description": "QEMU Linux user mode emulator",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-user-x86-64",
-    "Version": "1:10.1.2",
+    "Version": "1:10.2.1",
     "Description": "QEMU Linux user mode emulator",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-utils",
-    "Version": "1:10.1.2",
+    "Version": "1:10.2.1",
     "Description": "A set of utilities for working with the QEMU emulators",
     "Homepage": "https://www.qemu.org"
   },
@@ -12751,7 +12751,7 @@
   },
   {
     "Package": "quickjs",
-    "Version": "1:20250913",
+    "Version": "2:2025.09.13.2",
     "Description": "QuickJS is a small and embeddable Javascript engine",
     "Homepage": "https://bellard.org/quickjs/"
   },
@@ -13261,7 +13261,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20260216",
+    "Version": "20260216-1",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://rust-analyzer.github.io/"
   },
@@ -14197,7 +14197,7 @@
   },
   {
     "Package": "supercollider",
-    "Version": "3.14.0-2",
+    "Version": "3.14.1",
     "Description": "A platform for audio synthesis and algorithmic composition",
     "Homepage": "http://supercollider.github.io/"
   },
@@ -15217,7 +15217,7 @@
   },
   {
     "Package": "unicode-cldr",
-    "Version": "48",
+    "Version": "48.1",
     "Description": "Unicode Common Locale Data Repository",
     "Homepage": "http://cldr.unicode.org/"
   },
@@ -15373,13 +15373,13 @@
   },
   {
     "Package": "util-linux",
-    "Version": "2.41.2-1",
+    "Version": "2.41.3",
     "Description": "Miscellaneous system utilities",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
   {
     "Package": "util-linux-static",
-    "Version": "2.41.2-1",
+    "Version": "2.41.3",
     "Description": "Static libraries for util-linux",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -15391,7 +15391,7 @@
   },
   {
     "Package": "uuid-utils",
-    "Version": "2.41.2-1",
+    "Version": "2.41.3",
     "Description": "Utilities for handling universally unique identifiers",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -15523,7 +15523,7 @@
   },
   {
     "Package": "vgmstream",
-    "Version": "2083",
+    "Version": "2083-1",
     "Description": "A library for playback of various streamed audio formats used in video games",
     "Homepage": "https://github.com/vgmstream/vgmstream"
   },
@@ -15553,7 +15553,7 @@
   },
   {
     "Package": "vim",
-    "Version": "9.2.0018",
+    "Version": "9.2.0018-1",
     "Description": "Vi IMproved - enhanced vi editor",
     "Homepage": "https://www.vim.org"
   },
@@ -15841,13 +15841,13 @@
   },
   {
     "Package": "wget2",
-    "Version": "2.2.0-2",
+    "Version": "2.2.1",
     "Description": "The successor of GNU Wget, a file and recursive website downloader",
     "Homepage": "https://gitlab.com/gnuwget/wget2"
   },
   {
     "Package": "wget2-static",
-    "Version": "2.2.0-2",
+    "Version": "2.2.1",
     "Description": "Static libraries for wget2",
     "Homepage": "https://gitlab.com/gnuwget/wget2"
   },
@@ -16069,7 +16069,7 @@
   },
   {
     "Package": "xxd",
-    "Version": "9.2.0018",
+    "Version": "9.2.0018-1",
     "Description": "Hexdump utility from vim",
     "Homepage": "https://www.vim.org"
   },
