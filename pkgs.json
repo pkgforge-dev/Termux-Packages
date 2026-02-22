@@ -799,19 +799,19 @@
   },
   {
     "Package": "binutils",
-    "Version": "2.46.0-1",
+    "Version": "2.46.0-2",
     "Description": "A GNU collection of binary utilities",
     "Homepage": "https://www.gnu.org/software/binutils/"
   },
   {
     "Package": "binutils-bin",
-    "Version": "2.46.0-1",
+    "Version": "2.46.0-2",
     "Description": "Collection of binary tools, the main ones being ld, the GNU linker, and as, the GNU assembler",
     "Homepage": "https://www.gnu.org/software/binutils/"
   },
   {
     "Package": "binutils-cross",
-    "Version": "2.46.0-1",
+    "Version": "2.46.0-2",
     "Description": "GNU Binutils for cross build on the host (NOT for Termux)",
     "Homepage": "https://www.gnu.org/software/binutils/"
   },
@@ -9565,7 +9565,7 @@
   },
   {
     "Package": "lua-language-server",
-    "Version": "3.17.1-1",
+    "Version": "3.17.1-2",
     "Description": "Sumneko Lua Language Server coded in Lua",
     "Homepage": "https://github.com/sumneko/lua-language-server"
   },
@@ -12469,7 +12469,7 @@
   },
   {
     "Package": "python-ruff",
-    "Version": "0.15.1",
+    "Version": "0.15.2",
     "Description": "An extremely fast Python linter, written in Rust (Python bindings)",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -12553,7 +12553,7 @@
   },
   {
     "Package": "python-yt-dlp",
-    "Version": "2026.02.04",
+    "Version": "2026.02.21",
     "Description": "A youtube-dl fork with additional features and fixes",
     "Homepage": "https://github.com/yt-dlp/yt-dlp"
   },
@@ -13231,7 +13231,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.15.1",
+    "Version": "0.15.2",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -16165,7 +16165,7 @@
   },
   {
     "Package": "yt-dlp-ejs",
-    "Version": "0.4.0",
+    "Version": "0.5.0",
     "Description": "External JavaScript for yt-dlp supporting many runtimes",
     "Homepage": "https://github.com/yt-dlp/ejs"
   },
