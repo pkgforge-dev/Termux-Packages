@@ -147,7 +147,6 @@
 | **binutils-bin** | 2.46.0-2 | Collection of binary tools, the main ones being ld, the GNU linker, and as, the GNU assembler | https://www.gnu.org/software/binutils/ |
 | **binutils-cross** | 2.46.0-2 | GNU Binutils for cross build on the host (NOT for Termux) | https://www.gnu.org/software/binutils/ |
 | **binutils-is-llvm** | 0.3-4 | Use llvm as binutils | https://github.com/trentbuck/binutils-is-llvm |
-| **binutils-libs** | 2.45.1 | GNU Binutils libraries | https://www.gnu.org/software/binutils/ |
 | **bison** | 3.8.2-4 | General-purpose parser generator | https://www.gnu.org/software/bison/ |
 | **bison-static** | 3.8.2-4 | Static libraries for bison | https://www.gnu.org/software/bison/ |
 | **bitcoin** | 30.2 | Bitcoin Core | https://bitcoincore.org/ |
@@ -533,8 +532,8 @@
 | **gatling** | 0.16-1 | A high performance http, ftp and smb server | https://www.fefe.de/gatling/ |
 | **gauche** | 0.9.15-2 | An R7RS Scheme implementation developed to be a handy script interpreter | https://practical-scheme.net/gauche/ |
 | **gauche-static** | 0.9.15-2 | Static libraries for gauche | https://practical-scheme.net/gauche/ |
-| **gawk** | 5.3.1-2 | Programming language designed for text processing | https://www.gnu.org/software/gawk/ |
-| **gawk-static** | 5.3.1-2 | Static libraries for gawk | https://www.gnu.org/software/gawk/ |
+| **gawk** | 5.3.2 | Programming language designed for text processing | https://www.gnu.org/software/gawk/ |
+| **gawk-static** | 5.3.2 | Static libraries for gawk | https://www.gnu.org/software/gawk/ |
 | **gbt** | 2.0.0-6 | Highly configurable prompt builder for Bash and ZSH written in Go | https://github.com/jtyr/gbt |
 | **gcab** | 1.6-1 | GObject library to create cabinet files | https://gitlab.gnome.org/GNOME/gcab |
 | **gcal** | 4.1-4 | Program for calculating and printing calendars | https://www.gnu.org/software/gcal/ |
@@ -1774,7 +1773,7 @@
 | **mympd** | 24.0.3 | A standalone and lightweight web-based MPD client | https://jcorporation.github.io/myMPD/ |
 | **mypaint-brushes** | 2.0.2 | MyPaint brushes | https://github.com/mypaint/mypaint-brushes |
 | **myrepos** | 1.20180726-4 | Tool to manage all your version control repos | https://myrepos.branchable.com/ |
-| **n-t-roff-sc** | 7.16-1.1.3-2 | A vi-like spreadsheet calculator | https://github.com/n-t-roff/sc |
+| **n-t-roff-sc** | 7.16-1.1.4-0 | A vi-like spreadsheet calculator | https://github.com/n-t-roff/sc |
 | **n2n** | 3.1.1-1 | A light VPN software | https://github.com/ntop/n2n |
 | **nala** | 0.16.0-1 | Commandline frontend for the apt package manager | https://gitlab.com/volian/nala |
 | **nali** | 0.8.1-1 | An offline tool for querying IP geographic information and CDN provider | https://github.com/zu1k/nali |
@@ -1807,7 +1806,7 @@
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20260105 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.11.6-2 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
-| **neovim-nightly** | 0.12.0~dev-2377+gd79a9dcd42-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
+| **neovim-nightly** | 0.12.0~dev-2384+g3f4ef487da-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
 | **nerdfix** | 0.4.2-1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.5.2 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.5.2 | Static libraries for net-snmp | http://www.net-snmp.org/ |
@@ -2095,10 +2094,10 @@
 | **python-tflite-runtime** | 2.20.0-1 | TensorFlow Lite Python bindings | https://www.tensorflow.org/lite |
 | **python-tkinter** | 3.12.12-1 | Tkinter support for Python 3 | https://python.org/ |
 | **python-tldp** | 0.7.5-6 | Tools for publishing from TLDP sources | https://github.com/tLDP/python-tldp |
-| **python-torch** | 2.9.1-1 | Tensors and Dynamic neural networks in Python | https://pytorch.org/ |
-| **python-torch-static** | 2.9.1-1 | Static libraries for python-torch | https://pytorch.org/ |
-| **python-torchaudio** | 2.9.1-1 | Data manipulation and transformation for audio signal processing, powered by PyTorch | https://github.com/pytorch/audio |
-| **python-torchcodec** | 0.9.0-1 | PyTorch media decoding and encoding | https://github.com/pytorch/torchcodec |
+| **python-torch** | 2.10.0 | Tensors and Dynamic neural networks in Python | https://pytorch.org/ |
+| **python-torch-static** | 2.10.0 | Static libraries for python-torch | https://pytorch.org/ |
+| **python-torchaudio** | 2.10.0 | Data manipulation and transformation for audio signal processing, powered by PyTorch | https://github.com/pytorch/audio |
+| **python-torchcodec** | 0.10.0 | PyTorch media decoding and encoding | https://github.com/pytorch/torchcodec |
 | **python-torchvision** | 0.25.0 | Datasets, Transforms and Models specific to Computer Vision | https://github.com/pytorch/vision |
 | **python-xcbgen** | 1.17.0-1 | The xcbgen Python module | https://xcb.freedesktop.org/ |
 | **python-xlib** | 0.33-2 | The Python X Library | https://github.com/python-xlib/python-xlib |
