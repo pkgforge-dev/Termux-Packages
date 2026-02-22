@@ -88,7 +88,7 @@
  aspnetcore-targeting-pack-8.0  8.0.24  ASP.NET Core 8.0 Targeting Pack  https://dotnet.microsoft.com/en-us/ 
  aspnetcore-targeting-pack-9.0  9.0.12  ASP.NET Core 9.0 Targeting Pack  https://dotnet.microsoft.com/en-us/ 
  assimp  6.0.4  Library to import various well-known 3D model formats in an uniform manner  https://assimp.sourceforge.net/index.html 
- asymptote  3.06  A powerful descriptive vector graphics language for technical drawing  https://asymptote.sourceforge.io/ 
+ asymptote  3.07  A powerful descriptive vector graphics language for technical drawing  https://asymptote.sourceforge.io/ 
  at  3.2.5-2  AT and batch delayed command scheduling utility and daemon  https://salsa.debian.org/debian/at 
  at-spi2-core  2.58.3  Assistive Technology Service Provider Interface (AT-SPI)  https://wiki.gnome.org/Accessibility 
  atomicparsley  1:20240608.083822.1ed9031-1  Read, parse and set metadata of MPEG-4 and 3gp files  https://github.com/wez/atomicparsley 
@@ -613,12 +613,12 @@
  gobject-introspection  1.86.0  Uniform machine readable API  https://gi.readthedocs.io/ 
  gogs  0.14.2  A painless self-hosted Git service  https://gogs.io 
  gojq  0.12.18  Pure Go implementation of jq  https://github.com/itchyny/gojq 
- golang  3:1.26.0  Go programming language compiler  https://go.dev/ 
- golang-doc  3:1.26.0  Go programming language - documentation  https://go.dev/ 
+ golang  3:1.26.0-1  Go programming language compiler  https://go.dev/ 
+ golang-doc  3:1.26.0-1  Go programming language - documentation  https://go.dev/ 
  gomp  2023.02.02-3  MPD client inspired by ncmpcpp with builtin cover-art view and LastFM integration  https://aditya-k2.github.io/gomp/ 
  google-glog  0.7.1-2  Logging library for C++  https://github.com/google/glog 
  googletest  1.17.0-1  Google C++ testing framework  https://github.com/google/googletest 
- goose  3.26.0  A database migration tool. Supports SQL migrations and Go functions.  https://pressly.github.io/goose 
+ goose  3.27.0  A database migration tool. Supports SQL migrations and Go functions.  https://pressly.github.io/goose 
  gopass  1.16.1  The slightly more awesome standard unix password manager for teams  https://github.com/gopasspw/gopass 
  gopher  3.0.17.3-2  University of Minnesota gopher  gopher://gopher.quux.org/1/devel/gopher 
  gopls  0.21.1  The official Go language server  https://github.com/golang/tools 
@@ -1677,7 +1677,7 @@
  mdp  1.0.18-1  Command-line based markdown presentation tool  https://github.com/visit1985/mdp 
  media-types  14.0.0  List of standard media types and their usual file extension  https://pagure.io/mailcap 
  mediainfo  26.01  Command-line utility for reading information from media files  https://mediaarea.net/en/MediaInfo 
- mediamtx  1.16.1  Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy  https://github.com/bluenviron/mediamtx 
+ mediamtx  1.16.2  Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy  https://github.com/bluenviron/mediamtx 
  megacmd  2.4.0  Provides non UI access to MEGA services  https://mega.io/ 
  megatools  1.11.5.20250706-1  Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage  https://xff.cz/megatools/ 
  memcached  1.6.40  Free & open source, high-performance, distributed memory object caching system  https://memcached.org/ 
@@ -1848,7 +1848,7 @@
  octomap  1.10.0-1  An efficient probabilistic 3D mapping framework based on octrees  https://github.com/OctoMap/octomap 
  octomap-static  1.10.0-1  Static libraries for octomap  https://github.com/OctoMap/octomap 
  odt2txt  0.5-5  Simple converter from OpenDocument Text to plain text  https://github.com/dstosberg/odt2txt 
- oh-my-posh  29.5.0  A prompt theme engine for any shell.  https://ohmyposh.dev 
+ oh-my-posh  29.6.1  A prompt theme engine for any shell.  https://ohmyposh.dev 
  okc-agents  0.1.2-2  OpenKeychain agents for GnuPG and OpenSSH  https://github.com/DDoSolitary/okc-agents 
  ol  2.6-3  Purely functional dialect of Lisp  https://yuriy-chumak.github.io/ol/ 
  oleo  1.99.16-10  The GNU Spreadsheet  https://www.gnu.org/software/oleo/ 
@@ -2144,7 +2144,7 @@
  rclone  1.73.1  rsync for cloud storage  https://rclone.org/ 
  rcm  1.3.6  Dotfiles management  https://github.com/thoughtbot/rcm 
  rcs  5.10.1-1  The GNU Revision Control System  https://www.gnu.org/s/rcs 
- rdfind  1.7.0-1  A tool for finding duplicate files  https://github.com/pauldreik/rdfind 
+ rdfind  1.8.0  A tool for finding duplicate files  https://github.com/pauldreik/rdfind 
  rdiff  2.3.4-1  Remote incremental backup  https://github.com/librsync/librsync 
  rdiff-backup  2.2.6-4  A utility for local/remote mirroring and incremental backups  https://rdiff-backup.net 
  rdircd  2023.02.07-2  A daemon that allows using a personal Discord account through an IRC client  https://github.com/mk-fg/reliable-discord-client-irc-daemon 
@@ -2621,7 +2621,7 @@
  wallust  3.5.2  Generate colors from an image  https://explosion-mental.codeberg.page/wallust 
  wasi-libc  30  Libc for WebAssembly programs built on top of WASI system calls  https://wasi.dev/ 
  wasm-component-ld  0.5.21  Command line linker for creating WebAssembly components  https://github.com/bytecodealliance/wasm-component-ld 
- watchexec  2.3.3  Executes commands in response to file modifications  https://github.com/watchexec/watchexec 
+ watchexec  2.4.0  Executes commands in response to file modifications  https://github.com/watchexec/watchexec 
  wavpack  5.9.0  WavPack command-line programs  https://www.wavpack.com/ 
  waypipe  0.11.0  A proxy for Wayland clients  https://gitlab.freedesktop.org/mstoeckl/waypipe 
  wcalc  2.5-6  Capable calculator  https://w-calc.sourceforge.net 

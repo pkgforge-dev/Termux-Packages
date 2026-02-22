@@ -541,7 +541,7 @@
   },
   {
     "Package": "asymptote",
-    "Version": "3.06",
+    "Version": "3.07",
     "Description": "A powerful descriptive vector graphics language for technical drawing",
     "Homepage": "https://asymptote.sourceforge.io/"
   },
@@ -3691,13 +3691,13 @@
   },
   {
     "Package": "golang",
-    "Version": "3:1.26.0",
+    "Version": "3:1.26.0-1",
     "Description": "Go programming language compiler",
     "Homepage": "https://go.dev/"
   },
   {
     "Package": "golang-doc",
-    "Version": "3:1.26.0",
+    "Version": "3:1.26.0-1",
     "Description": "Go programming language - documentation",
     "Homepage": "https://go.dev/"
   },
@@ -3721,7 +3721,7 @@
   },
   {
     "Package": "goose",
-    "Version": "3.26.0",
+    "Version": "3.27.0",
     "Description": "A database migration tool. Supports SQL migrations and Go functions.",
     "Homepage": "https://pressly.github.io/goose"
   },
@@ -10075,7 +10075,7 @@
   },
   {
     "Package": "mediamtx",
-    "Version": "1.16.1",
+    "Version": "1.16.2",
     "Description": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy",
     "Homepage": "https://github.com/bluenviron/mediamtx"
   },
@@ -11101,7 +11101,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "29.5.0",
+    "Version": "29.6.1",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -12877,7 +12877,7 @@
   },
   {
     "Package": "rdfind",
-    "Version": "1.7.0-1",
+    "Version": "1.8.0",
     "Description": "A tool for finding duplicate files",
     "Homepage": "https://github.com/pauldreik/rdfind"
   },
@@ -15739,7 +15739,7 @@
   },
   {
     "Package": "watchexec",
-    "Version": "2.3.3",
+    "Version": "2.4.0",
     "Description": "Executes commands in response to file modifications",
     "Homepage": "https://github.com/watchexec/watchexec"
   },
