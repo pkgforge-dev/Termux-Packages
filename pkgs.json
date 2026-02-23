@@ -3439,7 +3439,7 @@
   },
   {
     "Package": "gitoxide",
-    "Version": "0.50.0-1",
+    "Version": "0.51.0",
     "Description": "Rust implementation of Git",
     "Homepage": "https://github.com/Byron/gitoxide"
   },
@@ -10141,7 +10141,7 @@
   },
   {
     "Package": "mg",
-    "Version": "20250523",
+    "Version": "20260222",
     "Description": "microscopic GNU Emacs-style editor",
     "Homepage": "https://github.com/hboetes/mg"
   },
@@ -10183,7 +10183,7 @@
   },
   {
     "Package": "minicom",
-    "Version": "2.10-1",
+    "Version": "2.11",
     "Description": "Friendly menu driven serial communication program",
     "Homepage": "https://salsa.debian.org/minicom-team/minicom"
   },
@@ -11545,7 +11545,7 @@
   },
   {
     "Package": "parallel",
-    "Version": "20260122",
+    "Version": "20260222",
     "Description": "GNU Parallel is a shell tool for executing jobs in parallel using one or more machines",
     "Homepage": "https://www.gnu.org/software/parallel/"
   },
@@ -15739,7 +15739,7 @@
   },
   {
     "Package": "watchexec",
-    "Version": "2.4.0",
+    "Version": "2.4.1",
     "Description": "Executes commands in response to file modifications",
     "Homepage": "https://github.com/watchexec/watchexec"
   },
