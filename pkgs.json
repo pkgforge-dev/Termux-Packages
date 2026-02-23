@@ -1111,7 +1111,7 @@
   },
   {
     "Package": "caddy",
-    "Version": "2.10.2",
+    "Version": "2.11.1",
     "Description": "Fast, cross-platform HTTP/2 web server",
     "Homepage": "https://caddyserver.com/"
   },
@@ -4429,13 +4429,13 @@
   },
   {
     "Package": "imagemagick",
-    "Version": "7.1.2.13-1",
+    "Version": "7.1.2.15",
     "Description": "Suite to create, edit, compose, or convert images in a variety of formats",
     "Homepage": "https://www.imagemagick.org/"
   },
   {
     "Package": "imagemagick-static",
-    "Version": "7.1.2.13-1",
+    "Version": "7.1.2.15",
     "Description": "Static libraries for imagemagick",
     "Homepage": "https://www.imagemagick.org/"
   },
@@ -13255,7 +13255,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20260216-1",
+    "Version": "20260223",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://rust-analyzer.github.io/"
   },

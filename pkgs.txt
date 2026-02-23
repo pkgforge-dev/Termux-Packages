@@ -183,7 +183,7 @@
  ca-certificates-java  1:2025.12.02  Common CA certificates (java keystore format)  https://curl.se/docs/caextract.html 
  cabextract  1.11-1  A program to extract Microsoft cabinet (.CAB) files  https://www.cabextract.org.uk/ 
  cadaver  0.28  A command-line WebDAV client for Unix  https://notroj.github.io/cadaver/ 
- caddy  2.10.2  Fast, cross-platform HTTP/2 web server  https://caddyserver.com/ 
+ caddy  2.11.1  Fast, cross-platform HTTP/2 web server  https://caddyserver.com/ 
  calc  2.16.1.2  Arbitrary precision console calculator  http://www.isthe.com/chongo/tech/comp/calc/ 
  calcurse  4.8.2-1  calcurse is a calendar and scheduling application for the command line  https://calcurse.org/ 
  calcurse-caldav  4.8.2-1  Sync calcurse with remote caldav calendar  https://calcurse.org/ 
@@ -736,8 +736,8 @@
  id3lib  3.8.3-4  A software library for manipulating ID3v1/v1.1 and ID3v2 tags  https://id3lib.sourceforge.net/ 
  id3lib-static  3.8.3-4  Static libraries for id3lib  https://id3lib.sourceforge.net/ 
  id3v2  0.1.12-2  A command line id3v2 tag editor  https://id3v2.sourceforge.net/ 
- imagemagick  7.1.2.13-1  Suite to create, edit, compose, or convert images in a variety of formats  https://www.imagemagick.org/ 
- imagemagick-static  7.1.2.13-1  Static libraries for imagemagick  https://www.imagemagick.org/ 
+ imagemagick  7.1.2.15  Suite to create, edit, compose, or convert images in a variety of formats  https://www.imagemagick.org/ 
+ imagemagick-static  7.1.2.15  Static libraries for imagemagick  https://www.imagemagick.org/ 
  imath  3.2.2  Library for vector/matrix and math operations, plus the half type  https://imath.readthedocs.io/ 
  imlib2  1.12.6  Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support  https://sourceforge.net/projects/enlightenment/ 
  imlib2-static  1.12.6  Static libraries for imlib2  https://sourceforge.net/projects/enlightenment/ 
@@ -2207,7 +2207,7 @@
  runit-static  2.1.2-4  Static libraries for runit  http://smarden.org/runit 
  rush  0.8.0  A cross-platform command-line tool for executing jobs in parallel  https://github.com/shenwei356/rush 
  rust  1.93.1  Systems programming language focused on safety, speed and concurrency  https://www.rust-lang.org/ 
- rust-analyzer  20260216-1  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
+ rust-analyzer  20260223  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
  rust-bindgen  0.72.1  Automatically generates Rust FFI bindings to C (and some C++) libraries  https://github.com/rust-lang/rust-bindgen 
  rust-docs  1.93.1  Rust documentation  https://www.rust-lang.org/ 
  rust-src  1.93.1  Rust source code files  https://www.rust-lang.org/ 
