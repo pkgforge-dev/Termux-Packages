@@ -1057,7 +1057,7 @@
   },
   {
     "Package": "byobu",
-    "Version": "6.13",
+    "Version": "6.14",
     "Description": "Byobu is a GPLv3 open source text-based window manager and terminal multiplexer",
     "Homepage": "https://www.byobu.org/"
   },
@@ -1075,13 +1075,13 @@
   },
   {
     "Package": "c-toxcore",
-    "Version": "0.2.20-p20250105-3",
+    "Version": "0.2.22",
     "Description": "Backend library for the Tox protocol",
     "Homepage": "https://tox.chat"
   },
   {
     "Package": "c-toxcore-static",
-    "Version": "0.2.20-p20250105-3",
+    "Version": "0.2.22",
     "Description": "Static libraries for c-toxcore",
     "Homepage": "https://tox.chat"
   },
@@ -6511,7 +6511,7 @@
   },
   {
     "Package": "libid3tag",
-    "Version": "0.16.3-3",
+    "Version": "0.16.4",
     "Description": "MAD ID3 tag manipulation library",
     "Homepage": "http://www.underbit.com/products/mad/"
   },
@@ -10777,7 +10777,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.12.0~dev-2384+g3f4ef487da-0",
+    "Version": "0.12.0~dev-2390+g97509aa2be-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -14803,7 +14803,7 @@
   },
   {
     "Package": "toxic",
-    "Version": "0.16.2",
+    "Version": "0.16.2-1",
     "Description": "A command line client for Tox",
     "Homepage": "https://github.com/JFreegman/toxic"
   },
@@ -15448,12 +15448,6 @@
     "Version": "3.22.0-1",
     "Description": "Static libraries for valgrind",
     "Homepage": "https://valgrind.org/"
-  },
-  {
-    "Package": "valkey",
-    "Version": "9.0.2",
-    "Description": "In-memory data structure store used as a database, cache and message broker",
-    "Homepage": "https://valkey.io/"
   },
   {
     "Package": "valkey-static",

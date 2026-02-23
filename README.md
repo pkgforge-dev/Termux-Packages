@@ -186,11 +186,11 @@
 | **busybox** | 1.37.0-3 | Tiny versions of many common UNIX utilities into a single small executable | https://busybox.net/ |
 | **bvi** | 1.5.0-1 | Binary file editor based on vi | https://bvi.sourceforge.net/ |
 | **byacc** | 20260126 | byacc is generally conceded to be the best yacc variant available | https://invisible-island.net/byacc/ |
-| **byobu** | 6.13 | Byobu is a GPLv3 open source text-based window manager and terminal multiplexer | https://www.byobu.org/ |
+| **byobu** | 6.14 | Byobu is a GPLv3 open source text-based window manager and terminal multiplexer | https://www.byobu.org/ |
 | **bzip2** | 1.0.8-8 | Tools for working with bzip2 compression | http://www.bzip.org/ |
 | **c-ares** | 1.34.6 | Library for asynchronous DNS requests (including name resolves) | https://c-ares.org/ |
-| **c-toxcore** | 0.2.20-p20250105-3 | Backend library for the Tox protocol | https://tox.chat |
-| **c-toxcore-static** | 0.2.20-p20250105-3 | Static libraries for c-toxcore | https://tox.chat |
+| **c-toxcore** | 0.2.22 | Backend library for the Tox protocol | https://tox.chat |
+| **c-toxcore-static** | 0.2.22 | Static libraries for c-toxcore | https://tox.chat |
 | **ca-certificates** | 1:2025.12.02 | Common CA certificates | https://curl.se/docs/caextract.html |
 | **ca-certificates-java** | 1:2025.12.02 | Common CA certificates (java keystore format) | https://curl.se/docs/caextract.html |
 | **cabextract** | 1.11-1 | A program to extract Microsoft cabinet (.CAB) files | https://www.cabextract.org.uk/ |
@@ -1095,7 +1095,7 @@
 | **libiconv-static** | 1.18-1 | Static libraries for libiconv | https://www.gnu.org/software/libiconv/ |
 | **libicu** | 78.2 | International Components for Unicode library | http://site.icu-project.org/home |
 | **libicu-static** | 78.2 | Static libraries for libicu | http://site.icu-project.org/home |
-| **libid3tag** | 0.16.3-3 | MAD ID3 tag manipulation library | http://www.underbit.com/products/mad/ |
+| **libid3tag** | 0.16.4 | MAD ID3 tag manipulation library | http://www.underbit.com/products/mad/ |
 | **libidn** | 1.43-1 | GNU Libidn library, implementation of IETF IDN specifications | https://www.gnu.org/software/libidn/ |
 | **libidn-static** | 1.43-1 | Static libraries for libidn | https://www.gnu.org/software/libidn/ |
 | **libidn2** | 2.3.8-1 | Free software implementation of IDNA2008, Punycode and TR46 | https://www.gnu.org/software/libidn/#libidn2 |
@@ -1806,7 +1806,7 @@
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20260105 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.11.6-2 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
-| **neovim-nightly** | 0.12.0~dev-2384+g3f4ef487da-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
+| **neovim-nightly** | 0.12.0~dev-2390+g97509aa2be-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
 | **nerdfix** | 0.4.2-1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.5.2 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.5.2 | Static libraries for net-snmp | http://www.net-snmp.org/ |
@@ -2477,7 +2477,7 @@
 | **torsocks** | 2.5.0-1 | Wrapper to safely torify applications | https://gitlab.torproject.org/tpo/core/torsocks |
 | **torsocks-static** | 2.5.0-1 | Static libraries for torsocks | https://gitlab.torproject.org/tpo/core/torsocks |
 | **totem-pl-parser** | 3.26.6-2 | Simple GObject-based library to parse and save a host of playlist formats | https://gitlab.gnome.org/GNOME/totem-pl-parser |
-| **toxic** | 0.16.2 | A command line client for Tox | https://github.com/JFreegman/toxic |
+| **toxic** | 0.16.2-1 | A command line client for Tox | https://github.com/JFreegman/toxic |
 | **tracepath** | 20250605-1 | Tool to trace the network path to a remote host | https://github.com/iputils/iputils |
 | **traceroute** | 2.1.6-1 | A new modern implementation of traceroute(8) utility for Linux systems | https://traceroute.sourceforge.net/ |
 | **translate-shell** | 0.9.7.1 | Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc. | https://www.soimort.org/translate-shell |
@@ -2585,7 +2585,6 @@
 | **vale** | 3.13.1 | A syntax-aware linter for prose built with speed and extensibility in mind | https://vale.sh |
 | **valgrind** | 3.22.0-1 | Instrumentation framework for building dynamic analysis tools | https://valgrind.org/ |
 | **valgrind-static** | 3.22.0-1 | Static libraries for valgrind | https://valgrind.org/ |
-| **valkey** | 9.0.2 | In-memory data structure store used as a database, cache and message broker | https://valkey.io/ |
 | **valkey-static** | 9.0.2 | Static libraries for valkey | https://valkey.io/ |
 | **vamp-plugin-sdk** | 2.10-3 | An API for audio analysis and feature extraction plugins | https://www.vamp-plugins.org/ |
 | **vamp-plugin-sdk-static** | 2.10-3 | Static libraries for vamp-plugin-sdk | https://www.vamp-plugins.org/ |
