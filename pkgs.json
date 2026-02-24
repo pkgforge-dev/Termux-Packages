@@ -103,7 +103,7 @@
   },
   {
     "Package": "ada",
-    "Version": "3.4.2",
+    "Version": "3.4.3",
     "Description": "WHATWG-compliant and fast URL parser written in modern C++",
     "Homepage": "https://github.com/ada-url/ada"
   },
@@ -205,7 +205,7 @@
   },
   {
     "Package": "amber",
-    "Version": "0.6.0-1",
+    "Version": "0.6.1",
     "Description": "A code search / replace tool",
     "Homepage": "https://github.com/dalance/amber"
   },
@@ -766,6 +766,12 @@
     "Version": "2.1.1-1",
     "Description": "Small, free, embeddable, source level Java interpreter with object based scripting language features written in Java",
     "Homepage": "https://github.com/beanshell/beanshell"
+  },
+  {
+    "Package": "bear",
+    "Version": "4.0.3",
+    "Description": "Bear is a tool that generates a compilation database for clang tooling.",
+    "Homepage": "https://github.com/rizsotto/Bear"
   },
   {
     "Package": "bed",
@@ -10777,7 +10783,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.12.0~dev-2390+g97509aa2be-0",
+    "Version": "0.12.0~dev-2404+gd9d8c660fd-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -11731,7 +11737,7 @@
   },
   {
     "Package": "peco",
-    "Version": "0.5.11-2",
+    "Version": "0.6.0",
     "Description": "Simplistic interactive filtering tool",
     "Homepage": "https://github.com/peco/peco"
   },
@@ -15450,8 +15456,14 @@
     "Homepage": "https://valgrind.org/"
   },
   {
+    "Package": "valkey",
+    "Version": "9.0.3",
+    "Description": "In-memory data structure store used as a database, cache and message broker",
+    "Homepage": "https://valkey.io/"
+  },
+  {
     "Package": "valkey-static",
-    "Version": "9.0.2",
+    "Version": "9.0.3",
     "Description": "Static libraries for valkey",
     "Homepage": "https://valkey.io/"
   },
@@ -15553,7 +15565,7 @@
   },
   {
     "Package": "virglrenderer-android",
-    "Version": "1.2.0",
+    "Version": "1.3.0",
     "Description": "A virtual 3D GPU for use inside qemu virtual machines over OpenGLES libraries on Android",
     "Homepage": "https://virgil3d.github.io/"
   },

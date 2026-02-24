@@ -27,7 +27,7 @@
 | **abseil-cpp** | 20250814.1 | Abseil C++ Common Libraries | https://abseil.io/ |
 | **ack-grep** | 3.9.0-1 | Tool like grep optimized for programmers | https://beyondgrep.com/ |
 | **acr** | 2.2.4 | A fully compatible autoconf replacement | https://github.com/radareorg/acr |
-| **ada** | 3.4.2 | WHATWG-compliant and fast URL parser written in modern C++ | https://github.com/ada-url/ada |
+| **ada** | 3.4.3 | WHATWG-compliant and fast URL parser written in modern C++ | https://github.com/ada-url/ada |
 | **adms** | 2.3.7-1 | A code generator for the Verilog-AMS language | https://github.com/qucs/adms |
 | **aerc** | 0.21.0 | A pretty good email client | https://aerc-mail.org/ |
 | **agate** | 3.3.20 | Very simple server for the Gemini hypertext protocol | https://github.com/mbrubeck/agate |
@@ -44,7 +44,7 @@
 | **alsa-plugins** | 1.2.12-1 | The Advanced Linux Sound Architecture (ALSA) - plugins | https://www.alsa-project.org |
 | **alsa-utils** | 1.2.15.2 | The Advanced Linux Sound Architecture (ALSA) - utils | https://www.alsa-project.org |
 | **alsa-utils-static** | 1.2.15.2 | Static libraries for alsa-utils | https://www.alsa-project.org |
-| **amber** | 0.6.0-1 | A code search / replace tool | https://github.com/dalance/amber |
+| **amber** | 0.6.1 | A code search / replace tool | https://github.com/dalance/amber |
 | **amfora** | 1.11.0-1 | Aims to be the best looking Gemini client | https://github.com/makew0rld/amfora |
 | **android-tools** | 35.0.2-7 | Android platform tools | https://developer.android.com/ |
 | **anewer** | 0.1.6-1 | Append lines from stdin to a file if these lines do not present in that file (aHash-based uniq) | https://github.com/ysf/anewer |
@@ -138,6 +138,7 @@
 | **bchunk** | 1.2.2 | Tool to convert .bin + .cue files to .iso files | http://he.fi/bchunk/ |
 | **bdsup2sub** | 4.0.1-1 | A subtitle conversion tool for image based stream formats | https://github.com/mjuhasz/BDSup2Sub |
 | **beanshell** | 2.1.1-1 | Small, free, embeddable, source level Java interpreter with object based scripting language features written in Java | https://github.com/beanshell/beanshell |
+| **bear** | 4.0.3 | Bear is a tool that generates a compilation database for clang tooling. | https://github.com/rizsotto/Bear |
 | **bed** | 0.2.8 | Binary editor written in GO | https://github.com/itchyny/bed |
 | **bftpd** | 6.3-1 | Small, easy-to-configure FTP server | https://bftpd.sourceforge.net/ |
 | **bgrep** | 1.0-4 | Binary string grep tool | https://debugmo.de/2009/04/bgrep-a-binary-grep/ |
@@ -1806,7 +1807,7 @@
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20260105 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.11.6-2 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
-| **neovim-nightly** | 0.12.0~dev-2390+g97509aa2be-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
+| **neovim-nightly** | 0.12.0~dev-2404+gd9d8c660fd-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
 | **nerdfix** | 0.4.2-1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.5.2 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.5.2 | Static libraries for net-snmp | http://www.net-snmp.org/ |
@@ -1965,7 +1966,7 @@
 | **pdfgrep** | 2.2.0-5 | Command line utility to search text in PDF files | https://pdfgrep.org/ |
 | **pdftk** | 3.3.3-3 | A simple tool for doing everyday things with PDF documents | https://gitlab.com/pdftk-java/pdftk |
 | **peaclock** | 0.4.3-9 | A responsive and customizable clock, timer, and stopwatch for the terminal. | https://github.com/octobanana/peaclock |
-| **peco** | 0.5.11-2 | Simplistic interactive filtering tool | https://github.com/peco/peco |
+| **peco** | 0.6.0 | Simplistic interactive filtering tool | https://github.com/peco/peco |
 | **perl** | 5.42.0 | Capable, feature-rich programming language | https://www.perl.org/ |
 | **perl-rename** | 1.14 | renames multiple files using perl expressions. | https://search.cpan.org/~pederst/rename/ |
 | **pet** | 1.0.1-1 | Simple command-line snippet manager | https://github.com/knqyf263/pet |
@@ -2585,7 +2586,8 @@
 | **vale** | 3.13.1 | A syntax-aware linter for prose built with speed and extensibility in mind | https://vale.sh |
 | **valgrind** | 3.22.0-1 | Instrumentation framework for building dynamic analysis tools | https://valgrind.org/ |
 | **valgrind-static** | 3.22.0-1 | Static libraries for valgrind | https://valgrind.org/ |
-| **valkey-static** | 9.0.2 | Static libraries for valkey | https://valkey.io/ |
+| **valkey** | 9.0.3 | In-memory data structure store used as a database, cache and message broker | https://valkey.io/ |
+| **valkey-static** | 9.0.3 | Static libraries for valkey | https://valkey.io/ |
 | **vamp-plugin-sdk** | 2.10-3 | An API for audio analysis and feature extraction plugins | https://www.vamp-plugins.org/ |
 | **vamp-plugin-sdk-static** | 2.10-3 | Static libraries for vamp-plugin-sdk | https://www.vamp-plugins.org/ |
 | **vapoursynth** | 73 | Video processing framework with simplicity in mind | https://www.vapoursynth.com/ |
@@ -2602,7 +2604,7 @@
 | **vile** | 9.8z-1 | VI Like Emacs - vi work-alike | https://invisible-island.net/vile/ |
 | **vim** | 9.2.0018-1 | Vi IMproved - enhanced vi editor | https://www.vim.org |
 | **virglrenderer** | 1.3.0 | A virtual 3D GPU for use inside qemu virtual machines | https://virgil3d.github.io/ |
-| **virglrenderer-android** | 1.2.0 | A virtual 3D GPU for use inside qemu virtual machines over OpenGLES libraries on Android | https://virgil3d.github.io/ |
+| **virglrenderer-android** | 1.3.0 | A virtual 3D GPU for use inside qemu virtual machines over OpenGLES libraries on Android | https://virgil3d.github.io/ |
 | **virustotal-cli** | 1.3.0 | Command line interface for VirusTotal | https://github.com/VirusTotal/vt-cli |
 | **vis** | 0.9-p20250111-0 | Modern, legacy free, simple yet efficient vim-like editor | https://www.brain-dump.org/projects/vis/ |
 | **vitetris** | 0.59.1-4 | Virtual terminal *tris clone | http://victornils.net/tetris/ |
