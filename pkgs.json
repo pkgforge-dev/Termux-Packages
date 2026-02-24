@@ -1141,13 +1141,13 @@
   },
   {
     "Package": "capstone",
-    "Version": "5.0.6-1",
+    "Version": "5.0.7",
     "Description": "Lightweight multi-platform, multi-architecture disassembly framework",
     "Homepage": "https://www.capstone-engine.org/"
   },
   {
     "Package": "capstone-static",
-    "Version": "5.0.6-1",
+    "Version": "5.0.7",
     "Description": "Static libraries for capstone",
     "Homepage": "https://www.capstone-engine.org/"
   },
@@ -1813,7 +1813,7 @@
   },
   {
     "Package": "dasel",
-    "Version": "3.2.2",
+    "Version": "3.2.3",
     "Description": "Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility",
     "Homepage": "https://github.com/TomWright/dasel"
   },
@@ -3313,7 +3313,7 @@
   },
   {
     "Package": "gh",
-    "Version": "2.87.2",
+    "Version": "2.87.3",
     "Description": "GitHub’s official command line tool",
     "Homepage": "https://cli.github.com/"
   },
@@ -4609,7 +4609,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.24.1127",
+    "Version": "0.24.1184",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -6733,13 +6733,13 @@
   },
   {
     "Package": "libksba",
-    "Version": "1.6.7-2",
+    "Version": "1.6.8",
     "Description": "Library for using X.509 certificates and CMS (Cryptographic Message Syntax) easily accessible",
     "Homepage": "https://gnupg.org/related_software/libksba/"
   },
   {
     "Package": "libksba-static",
-    "Version": "1.6.7-2",
+    "Version": "1.6.8",
     "Description": "Static libraries for libksba",
     "Homepage": "https://gnupg.org/related_software/libksba/"
   },
@@ -9001,13 +9001,13 @@
   },
   {
     "Package": "libxapian",
-    "Version": "1.4.30",
+    "Version": "1.4.31",
     "Description": "Xapian search engine library",
     "Homepage": "https://xapian.org"
   },
   {
     "Package": "libxapian-static",
-    "Version": "1.4.30",
+    "Version": "1.4.31",
     "Description": "Static libraries for libxapian",
     "Homepage": "https://xapian.org"
   },
@@ -15961,7 +15961,7 @@
   },
   {
     "Package": "xapian-tools",
-    "Version": "1.4.30",
+    "Version": "1.4.31",
     "Description": "Basic tools for the Xapian search engine",
     "Homepage": "https://xapian.org"
   },
