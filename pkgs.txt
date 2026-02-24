@@ -499,7 +499,7 @@
  freeimage-static  3.18.0-7  Static libraries for freeimage  https://freeimage.sourceforge.io 
  freetype  2.14.1  Software font engine capable of producing high-quality output  https://www.freetype.org 
  freetype-static  2.14.1  Static libraries for freetype  https://www.freetype.org 
- frei0r-plugins  2.5.1-1  Minimalistic plugin API for video effects  https://www.dyne.org/software/frei0r/ 
+ frei0r-plugins  2.5.4  Minimalistic plugin API for video effects  https://www.dyne.org/software/frei0r/ 
  fresh-editor  0.2.5  Text editor for your terminal: easy, powerful and fast  https://getfresh.dev/ 
  fribidi  1.0.16-1  Implementation of the Unicode Bidirectional Algorithm  https://github.com/fribidi/fribidi/ 
  fribidi-static  1.0.16-1  Static libraries for fribidi  https://github.com/fribidi/fribidi/ 
@@ -2126,8 +2126,8 @@
  quickjs  2:2025.09.13.2  QuickJS is a small and embeddable Javascript engine  https://bellard.org/quickjs/ 
  quilt  0.69  Allows you to easily manage large numbers of patches  https://savannah.nongnu.org/projects/quilt 
  rabbitmq-server  4.2.4  Feature rich, multi-protocol messaging and streaming broker  https://github.com/rabbitmq/rabbitmq-server 
- racket  9.0  Full-spectrum programming language going beyond Lisp and Scheme  https://racket-lang.org 
- racket-static  9.0  Static libraries for racket  https://racket-lang.org 
+ racket  9.1  Full-spectrum programming language going beyond Lisp and Scheme  https://racket-lang.org 
+ racket-static  9.1  Static libraries for racket  https://racket-lang.org 
  radare2  6.1.0  UNIX-like reverse engineering framework and command-line toolset  https://www.radare.org/ 
  rage  0.11.1-1  A simple, secure and modern encryption tool  https://age-encryption.org/v1 
  ragel  7.0.4-1  Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code  https://www.colm.net/open-source/ragel/ 
@@ -2622,7 +2622,7 @@
  wallust  3.5.2  Generate colors from an image  https://explosion-mental.codeberg.page/wallust 
  wasi-libc  30  Libc for WebAssembly programs built on top of WASI system calls  https://wasi.dev/ 
  wasm-component-ld  0.5.21  Command line linker for creating WebAssembly components  https://github.com/bytecodealliance/wasm-component-ld 
- watchexec  2.4.1  Executes commands in response to file modifications  https://github.com/watchexec/watchexec 
+ watchexec  2.4.3  Executes commands in response to file modifications  https://github.com/watchexec/watchexec 
  wavpack  5.9.0  WavPack command-line programs  https://www.wavpack.com/ 
  waypipe  0.11.0  A proxy for Wayland clients  https://gitlab.freedesktop.org/mstoeckl/waypipe 
  wcalc  2.5-6  Capable calculator  https://w-calc.sourceforge.net 

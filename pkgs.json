@@ -3007,7 +3007,7 @@
   },
   {
     "Package": "frei0r-plugins",
-    "Version": "2.5.1-1",
+    "Version": "2.5.4",
     "Description": "Minimalistic plugin API for video effects",
     "Homepage": "https://www.dyne.org/software/frei0r/"
   },
@@ -12769,13 +12769,13 @@
   },
   {
     "Package": "racket",
-    "Version": "9.0",
+    "Version": "9.1",
     "Description": "Full-spectrum programming language going beyond Lisp and Scheme",
     "Homepage": "https://racket-lang.org"
   },
   {
     "Package": "racket-static",
-    "Version": "9.0",
+    "Version": "9.1",
     "Description": "Static libraries for racket",
     "Homepage": "https://racket-lang.org"
   },
@@ -15745,7 +15745,7 @@
   },
   {
     "Package": "watchexec",
-    "Version": "2.4.1",
+    "Version": "2.4.3",
     "Description": "Executes commands in response to file modifications",
     "Homepage": "https://github.com/watchexec/watchexec"
   },
