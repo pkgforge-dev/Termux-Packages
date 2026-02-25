@@ -1159,7 +1159,7 @@
   },
   {
     "Package": "carapace",
-    "Version": "1.6.2",
+    "Version": "1.6.3",
     "Description": "Multi-shell multi-command argument completer",
     "Homepage": "https://carapace.sh/"
   },
@@ -1171,7 +1171,7 @@
   },
   {
     "Package": "cargo-leptos",
-    "Version": "0.3.4",
+    "Version": "0.3.5",
     "Description": "Build tool for the Rust framework Leptos",
     "Homepage": "https://github.com/leptos-rs/cargo-leptos"
   },
@@ -2053,7 +2053,7 @@
   },
   {
     "Package": "dnscontrol",
-    "Version": "4.34.0",
+    "Version": "4.35.0",
     "Description": "Infrastructure as code for DNS!",
     "Homepage": "https://github.com/StackExchange/dnscontrol"
   },
@@ -6931,19 +6931,19 @@
   },
   {
     "Package": "libmaxminddb",
-    "Version": "1.12.2-1",
+    "Version": "1.13.1",
     "Description": "MaxMind GeoIP2 database - library and utilities",
     "Homepage": "https://dev.maxmind.com/geoip/geoip2/"
   },
   {
     "Package": "libmaxminddb-static",
-    "Version": "1.12.2-1",
+    "Version": "1.13.1",
     "Description": "Static libraries for libmaxminddb",
     "Homepage": "https://dev.maxmind.com/geoip/geoip2/"
   },
   {
     "Package": "libmaxminddb-tools",
-    "Version": "1.12.2-1",
+    "Version": "1.13.1",
     "Description": "A geoip lookup utility for MaxMind DB",
     "Homepage": "https://dev.maxmind.com/geoip/geoip2/"
   },
@@ -9007,13 +9007,13 @@
   },
   {
     "Package": "libxapian",
-    "Version": "1.4.31",
+    "Version": "1.5.0",
     "Description": "Xapian search engine library",
     "Homepage": "https://xapian.org"
   },
   {
     "Package": "libxapian-static",
-    "Version": "1.4.31",
+    "Version": "1.5.0",
     "Description": "Static libraries for libxapian",
     "Homepage": "https://xapian.org"
   },
@@ -12805,7 +12805,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "4.30.4",
+    "Version": "4.30.5",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -15553,7 +15553,7 @@
   },
   {
     "Package": "vim",
-    "Version": "9.2.0018-1",
+    "Version": "9.2.0050",
     "Description": "Vi IMproved - enhanced vi editor",
     "Homepage": "https://www.vim.org"
   },
@@ -15973,7 +15973,7 @@
   },
   {
     "Package": "xapian-tools",
-    "Version": "1.4.31",
+    "Version": "1.5.0",
     "Description": "Basic tools for the Xapian search engine",
     "Homepage": "https://xapian.org"
   },
@@ -16075,7 +16075,7 @@
   },
   {
     "Package": "xxd",
-    "Version": "9.2.0018-1",
+    "Version": "9.2.0050",
     "Description": "Hexdump utility from vim",
     "Homepage": "https://www.vim.org"
   },
