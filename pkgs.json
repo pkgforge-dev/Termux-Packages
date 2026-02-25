@@ -4279,7 +4279,7 @@
   },
   {
     "Package": "hugo",
-    "Version": "0.156.0",
+    "Version": "0.157.0",
     "Description": "A fast and flexible static site generator",
     "Homepage": "https://gohugo.io/"
   },
@@ -4621,13 +4621,13 @@
   },
   {
     "Package": "jadx",
-    "Version": "1.5.4",
+    "Version": "1.5.5",
     "Description": "Dex to Java decompiler",
     "Homepage": "https://github.com/skylot/jadx"
   },
   {
     "Package": "jadx-x",
-    "Version": "1.5.4",
+    "Version": "1.5.5",
     "Description": "Dex to Java decompiler GUI",
     "Homepage": "https://github.com/skylot/jadx"
   },
@@ -6931,19 +6931,19 @@
   },
   {
     "Package": "libmaxminddb",
-    "Version": "1.13.1",
+    "Version": "1.13.2",
     "Description": "MaxMind GeoIP2 database - library and utilities",
     "Homepage": "https://dev.maxmind.com/geoip/geoip2/"
   },
   {
     "Package": "libmaxminddb-static",
-    "Version": "1.13.1",
+    "Version": "1.13.2",
     "Description": "Static libraries for libmaxminddb",
     "Homepage": "https://dev.maxmind.com/geoip/geoip2/"
   },
   {
     "Package": "libmaxminddb-tools",
-    "Version": "1.13.1",
+    "Version": "1.13.2",
     "Description": "A geoip lookup utility for MaxMind DB",
     "Homepage": "https://dev.maxmind.com/geoip/geoip2/"
   },
@@ -13471,7 +13471,7 @@
   },
   {
     "Package": "seanime",
-    "Version": "3.5.0",
+    "Version": "3.5.1",
     "Description": "Self-hosted anime and manga server for sea rovers.",
     "Homepage": "https://github.com/5rahim/seanime"
   },
@@ -14095,7 +14095,7 @@
   },
   {
     "Package": "storj-uplink",
-    "Version": "1.147.5",
+    "Version": "1.148.3",
     "Description": "Storj DCS Uplink CLI",
     "Homepage": "https://www.storj.io/integrations/uplink-cli"
   },
@@ -14419,7 +14419,7 @@
   },
   {
     "Package": "teleport-tsh",
-    "Version": "18.7.0",
+    "Version": "18.7.1",
     "Description": "Secure Access for Developers that doesnt get in the way",
     "Homepage": "https://github.com/gravitational/teleport"
   },
