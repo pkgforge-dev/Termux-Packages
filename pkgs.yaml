@@ -443,7 +443,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.33.29
+  Version: 2.33.30
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -1687,19 +1687,19 @@
   Description: Emmy Lua Language Server coded in Rust
   Homepage: https://github.com/EmmyLuaLs/emmylua-analyzer-rust
 - Package: emscripten
-  Version: 5.0.1
+  Version: 5.0.2
   Description: 'Emscripten: An LLVM-to-WebAssembly Compiler'
   Homepage: https://emscripten.org
 - Package: emscripten-binaryen
-  Version: 5.0.1
+  Version: 5.0.2
   Description: Emscripten-compatible Binaryen
   Homepage: https://emscripten.org
 - Package: emscripten-llvm
-  Version: 5.0.1
+  Version: 5.0.2
   Description: Emscripten-compatible LLVM
   Homepage: https://emscripten.org
 - Package: emscripten-tests-third-party
-  Version: 5.0.1
+  Version: 5.0.2
   Description: Emscripten third party test suite files
   Homepage: https://emscripten.org
 - Package: enblend
@@ -6743,19 +6743,19 @@
   Description: Static libraries for mercury
   Homepage: https://www.mercurylang.org/
 - Package: mesa
-  Version: 26.0.0
+  Version: 26.0.1
   Description: An open-source implementation of the OpenGL specification
   Homepage: https://www.mesa3d.org
 - Package: mesa-dev
-  Version: 26.0.0
+  Version: 26.0.1
   Description: Mesas OpenGL headers
   Homepage: https://www.mesa3d.org
 - Package: mesa-opencl-icd-rusticl
-  Version: 26.0.0
+  Version: 26.0.1
   Description: Mesas Rusticl OpenCL ICD
   Homepage: https://www.mesa3d.org
 - Package: mesa-vulkan-icd-swrast
-  Version: 26.0.0
+  Version: 26.0.1
   Description: Mesas Swrast Vulkan ICD
   Homepage: https://www.mesa3d.org
 - Package: mfcuk
@@ -7331,7 +7331,7 @@
   Description: Thread-based email index, search and tagging system
   Homepage: https://notmuchmail.org
 - Package: npm
-  Version: 11.10.1
+  Version: 11.11.0
   Description: The package manager for JavaScript
   Homepage: https://docs.npmjs.com/cli/
 - Package: npush
@@ -8963,7 +8963,7 @@
   Description: scrypt KDF library and file encryption tool
   Homepage: https://www.tarsnap.com/scrypt.html
 - Package: sd
-  Version: 1.0.0-2
+  Version: 1.1.0
   Description: An intuitive find & replace CLI
   Homepage: https://github.com/chmln/sd
 - Package: sdcv

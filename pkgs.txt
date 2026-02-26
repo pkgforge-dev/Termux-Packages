@@ -109,7 +109,7 @@
  aview  1.3.0rc1-6  High quality ascii-art image browser and animation player  https://aa-project.sourceforge.net/aview/ 
  avra  1.4.2-1  Assember for the Atmel AVR microcontroller family  https://github.com/Ro5bert/avra 
  await  2.4.0  Runs list of commands in parallel and waits for their termination  https://github.com/slavaGanzin/await 
- awscli  2.33.29  Universal Command Line Interface for Amazon Web Services  https://aws.amazon.com/cli 
+ awscli  2.33.30  Universal Command Line Interface for Amazon Web Services  https://aws.amazon.com/cli 
  axel  2.17.14-1  light command line download accelerator  https://github.com/axel-download-accelerator/axel 
  b3sum  1.8.3  A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum  https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum 
  babl  0.1.122  Dynamic pixel format translation library  https://gegl.org/babl/ 
@@ -420,10 +420,10 @@
  elvish  0.21.0-1  A friendly and expressive Unix shell  https://github.com/elves/elvish 
  emacs  30.2  Extensible, customizable text editor-and more  https://www.gnu.org/software/emacs/ 
  emmylua-ls  0.20.0  Emmy Lua Language Server coded in Rust  https://github.com/EmmyLuaLs/emmylua-analyzer-rust 
- emscripten  5.0.1  Emscripten: An LLVM-to-WebAssembly Compiler  https://emscripten.org 
- emscripten-binaryen  5.0.1  Emscripten-compatible Binaryen  https://emscripten.org 
- emscripten-llvm  5.0.1  Emscripten-compatible LLVM  https://emscripten.org 
- emscripten-tests-third-party  5.0.1  Emscripten third party test suite files  https://emscripten.org 
+ emscripten  5.0.2  Emscripten: An LLVM-to-WebAssembly Compiler  https://emscripten.org 
+ emscripten-binaryen  5.0.2  Emscripten-compatible Binaryen  https://emscripten.org 
+ emscripten-llvm  5.0.2  Emscripten-compatible LLVM  https://emscripten.org 
+ emscripten-tests-third-party  5.0.2  Emscripten third party test suite files  https://emscripten.org 
  enblend  4.2.0p20161007-8  A tool for compositing images using a Burt&Adelson multiresolution spline  https://enblend.sourceforge.net/ 
  enchant  2.8.15  Wraps a number of different spelling libraries and programs with a consistent interface  https://rrthomas.github.io/enchant/ 
  enchant-static  2.8.15  Static libraries for enchant  https://rrthomas.github.io/enchant/ 
@@ -1684,10 +1684,10 @@
  memcached  1.6.40  Free & open source, high-performance, distributed memory object caching system  https://memcached.org/ 
  mercury  22.01.8-1  A logic/functional programming language  https://www.mercurylang.org/ 
  mercury-static  22.01.8-1  Static libraries for mercury  https://www.mercurylang.org/ 
- mesa  26.0.0  An open-source implementation of the OpenGL specification  https://www.mesa3d.org 
- mesa-dev  26.0.0  Mesa's OpenGL headers  https://www.mesa3d.org 
- mesa-opencl-icd-rusticl  26.0.0  Mesa's Rusticl OpenCL ICD  https://www.mesa3d.org 
- mesa-vulkan-icd-swrast  26.0.0  Mesa's Swrast Vulkan ICD  https://www.mesa3d.org 
+ mesa  26.0.1  An open-source implementation of the OpenGL specification  https://www.mesa3d.org 
+ mesa-dev  26.0.1  Mesa's OpenGL headers  https://www.mesa3d.org 
+ mesa-opencl-icd-rusticl  26.0.1  Mesa's Rusticl OpenCL ICD  https://www.mesa3d.org 
+ mesa-vulkan-icd-swrast  26.0.1  Mesa's Swrast Vulkan ICD  https://www.mesa3d.org 
  mfcuk  2018.07.14-1  MiFare Classic Universal toolKit (MFCUK)  https://github.com/nfc-tools/mfcuk 
  mg  20260222  microscopic GNU Emacs-style editor  https://github.com/hboetes/mg 
  micro  2.0.15  Modern and intuitive terminal-based text editor  https://micro-editor.github.io/ 
@@ -1831,7 +1831,7 @@
  notcurses-data  3.0.17-2  Platform-independent data for notcurses  https://notcurses.com/ 
  notcurses-tools  3.0.17-2  Tools and demos for notcurses  https://notcurses.com/ 
  notmuch  0.40  Thread-based email index, search and tagging system  https://notmuchmail.org 
- npm  11.10.1  The package manager for JavaScript  https://docs.npmjs.com/cli/ 
+ npm  11.11.0  The package manager for JavaScript  https://docs.npmjs.com/cli/ 
  npush  0.7-2  Curses-based logic game similar to Sokoban and Boulder Dash  https://npush.sourceforge.net/ 
  nsis  3.11-1  A professional open source system to create Windows installers  https://sourceforge.net/projects/nsis/ 
  nsis-stubs  3.11-1  NSIS Stubs  https://sourceforge.net/projects/nsis/ 
@@ -2239,7 +2239,7 @@
  screenfetch  3.9.9  Bash Screenshot Information Tool  https://github.com/KittyKatt/screenFetch 
  scrub  2.6.1-2  Iteratively writes patterns on files or disk devices to make retreiving the data more difficult  https://github.com/chaos/scrub 
  scrypt  1.3.3-1  scrypt KDF library and file encryption tool  https://www.tarsnap.com/scrypt.html 
- sd  1.0.0-2  An intuitive find & replace CLI  https://github.com/chmln/sd 
+ sd  1.1.0  An intuitive find & replace CLI  https://github.com/chmln/sd 
  sdcv  0.5.5-2  StarDict Console Version  http://dushistov.github.io/sdcv/ 
  seafile-client  9.0.16-1  Seafile is a file syncing and sharing software with file encryption and group sharing  https://seafile.com 
  seafile-client-static  9.0.16-1  Static libraries for seafile-client  https://seafile.com 
