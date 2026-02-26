@@ -3123,7 +3123,7 @@
   Description: A free media system for organizing and streaming media (server)
   Homepage: https://jellyfin.org
 - Package: jfrog-cli
-  Version: 2.92.0
+  Version: 2.93.0
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -4099,11 +4099,11 @@
   Description: A simple C++ library for terminal based user interface
   Homepage: https://github.com/ArthurSonzogni/FTXUI
 - Package: libfyaml
-  Version: 0.9.4
+  Version: 0.9.5
   Description: Fully feature complete YAML parser and emitter
   Homepage: https://pantoniou.github.io/libfyaml/
 - Package: libfyaml-static
-  Version: 0.9.4
+  Version: 0.9.5
   Description: Static libraries for libfyaml
   Homepage: https://pantoniou.github.io/libfyaml/
 - Package: libgc
