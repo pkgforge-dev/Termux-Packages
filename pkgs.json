@@ -1819,7 +1819,7 @@
   },
   {
     "Package": "dasel",
-    "Version": "3.2.3",
+    "Version": "3.3.1",
     "Description": "Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility",
     "Homepage": "https://github.com/TomWright/dasel"
   },
@@ -2029,7 +2029,7 @@
   },
   {
     "Package": "dnglab",
-    "Version": "0.7.1",
+    "Version": "0.7.2",
     "Description": "Camera RAW to DNG file format converter",
     "Homepage": "https://github.com/dnglab/dnglab"
   },
@@ -3973,7 +3973,7 @@
   },
   {
     "Package": "gst-plugins-base",
-    "Version": "1.28.0-1",
+    "Version": "1.28.1",
     "Description": "GStreamer base plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
@@ -3997,7 +3997,7 @@
   },
   {
     "Package": "gstreamer",
-    "Version": "1.28.0-1",
+    "Version": "1.28.1",
     "Description": "Open source multimedia framework",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
@@ -7309,13 +7309,13 @@
   },
   {
     "Package": "libngtcp2",
-    "Version": "1.20.0",
+    "Version": "1.21.0",
     "Description": "Implementation of IETF QUIC protocol",
     "Homepage": "https://github.com/ngtcp2/ngtcp2"
   },
   {
     "Package": "libngtcp2-static",
-    "Version": "1.20.0",
+    "Version": "1.21.0",
     "Description": "Static libraries for libngtcp2",
     "Homepage": "https://github.com/ngtcp2/ngtcp2"
   },
@@ -12469,7 +12469,7 @@
   },
   {
     "Package": "python-ruff",
-    "Version": "0.15.2",
+    "Version": "0.15.3",
     "Description": "An extremely fast Python linter, written in Rust (Python bindings)",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -13231,7 +13231,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.15.2",
+    "Version": "0.15.3",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -14905,13 +14905,13 @@
   },
   {
     "Package": "tree-sitter-lua",
-    "Version": "0.4.1",
+    "Version": "0.5.0",
     "Description": "Lua grammar for tree-sitter",
     "Homepage": "https://github.com/tree-sitter-grammars/tree-sitter-lua"
   },
   {
     "Package": "tree-sitter-markdown",
-    "Version": "0.5.2-1",
+    "Version": "0.5.3",
     "Description": "Markdown grammar for tree-sitter",
     "Homepage": "https://github.com/tree-sitter-grammars/tree-sitter-markdown"
   },
@@ -14965,7 +14965,7 @@
   },
   {
     "Package": "tree-sitter-vim",
-    "Version": "0.8.0",
+    "Version": "0.8.1",
     "Description": "Vimscript grammar for tree-sitter",
     "Homepage": "https://github.com/tree-sitter-grammars/tree-sitter-vim"
   },
