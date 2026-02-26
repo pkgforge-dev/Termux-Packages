@@ -252,7 +252,7 @@
 | **cloneit** | 20240728-1 | A cli tool to download specific GitHub directories or files | https://github.com/alok8bb/cloneit |
 | **cloudflared** | 2026.2.0 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
 | **clpeak** | 1.1.5 | A tool which profiles OpenCL devices to find their peak capacities | https://github.com/krrishnarraj/clpeak |
-| **clvk** | 0.0.20260209.171723 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
+| **clvk** | 0.0.20260223.234457 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
 | **cmake** | 4.2.3 | Family of tools designed to build, test and package software | https://cmake.org/ |
 | **cmake-curses-gui** | 4.2.3 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
 | **cmark** | 0.31.2 | CommonMark parsing and rendering program | https://github.com/commonmark/cmark |
