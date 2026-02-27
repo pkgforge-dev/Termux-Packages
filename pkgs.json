@@ -3547,13 +3547,13 @@
   },
   {
     "Package": "gmic",
-    "Version": "3.7.1",
+    "Version": "3.7.2",
     "Description": "Full-featured framework for image processing",
     "Homepage": "https://gmic.eu"
   },
   {
     "Package": "gmic-gm",
-    "Version": "3.7.1",
+    "Version": "3.7.2",
     "Description": "Full-featured framework for image processing (GraphicsMagick variant)",
     "Homepage": "https://gmic.eu"
   },
@@ -3991,7 +3991,7 @@
   },
   {
     "Package": "gst-python",
-    "Version": "1.28.0",
+    "Version": "1.28.1",
     "Description": "Python bindings for GStreamer",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
@@ -4927,7 +4927,7 @@
   },
   {
     "Package": "kubectl",
-    "Version": "1.35.1",
+    "Version": "1.35.2",
     "Description": "Kubernetes.io client binary",
     "Homepage": "https://kubernetes.io/"
   },
@@ -10783,7 +10783,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.12.0~dev-2425+gbe8969f4cc-0",
+    "Version": "0.12.0~dev-2435+g18c5f06c9f-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -11131,7 +11131,7 @@
   },
   {
     "Package": "oma",
-    "Version": "1.24.1",
+    "Version": "1.24.3",
     "Description": "oma is an attempt at reworking APTs interface",
     "Homepage": "https://aosc.io/oma"
   },
@@ -12133,7 +12133,7 @@
   },
   {
     "Package": "procs",
-    "Version": "0.14.10-1",
+    "Version": "0.14.11",
     "Description": "A modern replacement for ps",
     "Homepage": "https://github.com/dalance/procs"
   },
@@ -12583,7 +12583,7 @@
   },
   {
     "Package": "q-dns-client",
-    "Version": "0.19.11",
+    "Version": "0.19.12",
     "Description": "A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH",
     "Homepage": "https://github.com/natesales/q"
   },

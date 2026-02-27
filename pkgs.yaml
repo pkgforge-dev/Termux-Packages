@@ -2363,11 +2363,11 @@
   Description: Interpreter for the Glulx portable VM for interactive fiction (IF) games
   Homepage: https://www.eblong.com/zarf/glulx/
 - Package: gmic
-  Version: 3.7.1
+  Version: 3.7.2
   Description: Full-featured framework for image processing
   Homepage: https://gmic.eu
 - Package: gmic-gm
-  Version: 3.7.1
+  Version: 3.7.2
   Description: Full-featured framework for image processing (GraphicsMagick variant)
   Homepage: https://gmic.eu
 - Package: gn
@@ -2659,7 +2659,7 @@
   Description: GStreamer Ugly Plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-python
-  Version: 1.28.0
+  Version: 1.28.1
   Description: Python bindings for GStreamer
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gstreamer
@@ -3283,7 +3283,7 @@
   Description: Colorize your kubectl output
   Homepage: https://github.com/kubecolor/kubecolor
 - Package: kubectl
-  Version: 1.35.1
+  Version: 1.35.2
   Description: Kubernetes.io client binary
   Homepage: https://kubernetes.io/
 - Package: kubelogin
@@ -7187,7 +7187,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.12.0~dev-2425+gbe8969f4cc-0
+  Version: 0.12.0~dev-2435+g18c5f06c9f-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -7419,7 +7419,7 @@
   Description: The GNU Spreadsheet
   Homepage: https://www.gnu.org/software/oleo/
 - Package: oma
-  Version: 1.24.1
+  Version: 1.24.3
   Description: oma is an attempt at reworking APTs interface
   Homepage: https://aosc.io/oma
 - Package: onefetch
@@ -8087,7 +8087,7 @@
   Description: Static libraries for procps
   Homepage: https://gitlab.com/procps-ng/procps
 - Package: procs
-  Version: 0.14.10-1
+  Version: 0.14.11
   Description: A modern replacement for ps
   Homepage: https://github.com/dalance/procs
 - Package: procyon-decompiler
@@ -8387,7 +8387,7 @@
   Description: A Pigz-like tool for Zstandard
   Homepage: https://github.com/facebook/zstd
 - Package: q-dns-client
-  Version: 0.19.11
+  Version: 0.19.12
   Description: A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH
   Homepage: https://github.com/natesales/q
 - Package: qalc

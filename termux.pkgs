@@ -589,8 +589,8 @@
 | **glslang** | 16.2.0 | OpenGL and OpenGL ES shader front end and validator | https://github.com/KhronosGroup/glslang |
 | **gluelang** | 0.2.0-2 | A programming language that has a strong nature to be a glue of commands | https://ryuichiueda.github.io/GlueLang/ |
 | **glulxe** | 0.6.1-1 | Interpreter for the Glulx portable VM for interactive fiction (IF) games | https://www.eblong.com/zarf/glulx/ |
-| **gmic** | 3.7.1 | Full-featured framework for image processing | https://gmic.eu |
-| **gmic-gm** | 3.7.1 | Full-featured framework for image processing (GraphicsMagick variant) | https://gmic.eu |
+| **gmic** | 3.7.2 | Full-featured framework for image processing | https://gmic.eu |
+| **gmic-gm** | 3.7.2 | Full-featured framework for image processing (GraphicsMagick variant) | https://gmic.eu |
 | **gn** | 20251217 | Meta-build system that generates build files for Ninja | https://gn.googlesource.com/gn |
 | **gnucap** | 20210107-4 | The Gnu Circuit Analysis Package | https://www.gnu.org/software/gnucap/gnucap.html |
 | **gnuchess** | 6.3.0 | Chess-playing program | https://www.gnu.org/software/chess/ |
@@ -663,7 +663,7 @@
 | **gst-plugins-base** | 1.28.1 | GStreamer base plug-ins | https://gstreamer.freedesktop.org/ |
 | **gst-plugins-good** | 1.28.1 | GStreamer Good Plug-ins | https://gstreamer.freedesktop.org/ |
 | **gst-plugins-ugly** | 1.28.1 | GStreamer Ugly Plug-ins | https://gstreamer.freedesktop.org/ |
-| **gst-python** | 1.28.0 | Python bindings for GStreamer | https://gstreamer.freedesktop.org/ |
+| **gst-python** | 1.28.1 | Python bindings for GStreamer | https://gstreamer.freedesktop.org/ |
 | **gstreamer** | 1.28.1 | Open source multimedia framework | https://gstreamer.freedesktop.org/ |
 | **gtypist** | 2.10.1-1 | Universal typing tutor | https://www.gnu.org/software/gtypist/ |
 | **guile** | 3.0.11-1 | Portable, embeddable Scheme implementation written in C | http://www.gnu.org/software/guile/ |
@@ -819,7 +819,7 @@
 | **kotlin** | 2.3.10 | The Kotlin Programming Language | https://kotlinlang.org/ |
 | **krb5** | 1.22.2 | The Kerberos network authentication system | https://web.mit.edu/kerberos |
 | **kubecolor** | 0.5.3 | Colorize your kubectl output | https://github.com/kubecolor/kubecolor |
-| **kubectl** | 1.35.1 | Kubernetes.io client binary | https://kubernetes.io/ |
+| **kubectl** | 1.35.2 | Kubernetes.io client binary | https://kubernetes.io/ |
 | **kubelogin** | 1.35.2 | A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication | https://github.com/int128/kubelogin |
 | **kubo** | 0.40.0 | A peer-to-peer hypermedia distribution protocol | https://ipfs.io/ |
 | **ladspa-sdk** | 1.17-2 | Linux Audio Developer's Simple Plugin API | https://www.ladspa.org/ |
@@ -1795,7 +1795,7 @@
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20260105 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.11.6-2 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
-| **neovim-nightly** | 0.12.0~dev-2425+gbe8969f4cc-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
+| **neovim-nightly** | 0.12.0~dev-2435+g18c5f06c9f-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
 | **nerdfix** | 0.4.2-1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.5.2 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.5.2 | Static libraries for net-snmp | http://www.net-snmp.org/ |
@@ -1853,7 +1853,7 @@
 | **okc-agents** | 0.1.2-2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.6-3 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-10 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
-| **oma** | 1.24.1 | oma is an attempt at reworking APT's interface | https://aosc.io/oma |
+| **oma** | 1.24.3 | oma is an attempt at reworking APT's interface | https://aosc.io/oma |
 | **onefetch** | 2.26.1 | A command-line Git information tool written in Rust | https://onefetch.dev/ |
 | **onigmo** | 6.2.0-1 | A regular expressions library forked from Oniguruma | https://github.com/k-takata/Onigmo |
 | **onigmo-static** | 6.2.0-1 | Static libraries for onigmo | https://github.com/k-takata/Onigmo |
@@ -2020,7 +2020,7 @@
 | **privoxy** | 4.0.0-1 | Non-caching web proxy with advanced filtering capabilities | https://www.privoxy.org |
 | **procps** | 3.3.17-6 | Utilities that give information about processes using the /proc filesystem | https://gitlab.com/procps-ng/procps |
 | **procps-static** | 3.3.17-6 | Static libraries for procps | https://gitlab.com/procps-ng/procps |
-| **procs** | 0.14.10-1 | A modern replacement for ps | https://github.com/dalance/procs |
+| **procs** | 0.14.11 | A modern replacement for ps | https://github.com/dalance/procs |
 | **procyon-decompiler** | 0.6.0-2 | A standalone front-end for the Java decompiler in Procyon Compiler Toolset | https://github.com/mstrobel/procyon |
 | **profanity** | 0.16.0 | Profanity is a console based XMPP client written in C using ncurses and libstrophe, inspired by Irssi | https://profanity-im.github.io |
 | **progress** | 0.17-1 | Linux tool to show progress for cp, mv, dd and more | https://github.com/Xfennec/progress |
@@ -2095,7 +2095,7 @@
 | **python2-static** | 2.7.18-15 | Static libraries for python2 | http://python.org/ |
 | **pyunbound** | 1.24.2-1 | Python bindings for Unbound | https://unbound.net/ |
 | **pzstd** | 1.5.7-1 | A Pigz-like tool for Zstandard | https://github.com/facebook/zstd |
-| **q-dns-client** | 0.19.11 | A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH | https://github.com/natesales/q |
+| **q-dns-client** | 0.19.12 | A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH | https://github.com/natesales/q |
 | **qalc** | 5.9.0 | Powerful and easy to use command line calculator | https://qalculate.github.io/ |
 | **qalc-static** | 5.9.0 | Static libraries for qalc | https://qalculate.github.io/ |
 | **qemu-common** | 1:10.2.1 | A set common files used by the QEMU emulators | https://www.qemu.org |
