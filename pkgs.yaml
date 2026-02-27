@@ -1723,11 +1723,11 @@
   Description: Event Notify Test Runner - run arbitrary commands when files change
   Homepage: https://eradman.com/entrproject/
 - Package: erlang
-  Version: 28.3.2
+  Version: 28.3.3
   Description: General-purpose concurrent functional programming language
   Homepage: https://www.erlang.org/
 - Package: erlang-doc
-  Version: 28.3.2
+  Version: 28.3.3
   Description: Erlang HTML documentation
   Homepage: https://www.erlang.org/
 - Package: esbuild
@@ -6763,7 +6763,7 @@
   Description: MiFare Classic Universal toolKit (MFCUK)
   Homepage: https://github.com/nfc-tools/mfcuk
 - Package: mg
-  Version: "20260222"
+  Version: "20260227"
   Description: microscopic GNU Emacs-style editor
   Homepage: https://github.com/hboetes/mg
 - Package: micro
@@ -7171,7 +7171,7 @@
   Description: Minimal, efficient, statically-typed and meta-programmable systems programming language
   Homepage: https://nelua.io
 - Package: neocmakelsp
-  Version: 0.10.0
+  Version: 0.10.1
   Description: a cmake lsp based on tower-lsp and treesitter
   Homepage: https://neocmakelsp.github.io/
 - Package: neofetch
@@ -10167,11 +10167,11 @@
   Description: 'Remove #ifdefed lines'
   Homepage: http://dotat.at/prog/unifdef/
 - Package: units
-  Version: 2.25-1
+  Version: "2.26"
   Description: Converts between different systems of units
   Homepage: https://www.gnu.org/software/units/
 - Package: units-cur
-  Version: 2.25-1
+  Version: "2.26"
   Description: units_cur Python script
   Homepage: https://www.gnu.org/software/units/
 - Package: unixodbc
