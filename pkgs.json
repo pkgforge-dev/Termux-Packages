@@ -2077,7 +2077,7 @@
   },
   {
     "Package": "dnsutils",
-    "Version": "9.20.19",
+    "Version": "9.20.20",
     "Description": "Clients provided with BIND",
     "Homepage": "https://www.isc.org/bind/"
   },
@@ -2647,7 +2647,7 @@
   },
   {
     "Package": "exiftool",
-    "Version": "13.51-1",
+    "Version": "13.52",
     "Description": "Utility for reading, writing and editing meta information in a wide variety of files.",
     "Homepage": "https://exiftool.org/"
   },
@@ -4939,7 +4939,7 @@
   },
   {
     "Package": "kubo",
-    "Version": "0.40.0",
+    "Version": "0.40.1",
     "Description": "A peer-to-peer hypermedia distribution protocol",
     "Homepage": "https://ipfs.io/"
   },
@@ -12271,7 +12271,7 @@
   },
   {
     "Package": "pygobject",
-    "Version": "3.54.5",
+    "Version": "3.56.0",
     "Description": "Python package which provides bindings for GObject based libraries",
     "Homepage": "https://pygobject.gnome.org/"
   },
