@@ -443,7 +443,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.33.31
+  Version: 2.34.0
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -591,7 +591,7 @@
   Description: A blog compiler
   Homepage: https://blogc.rgm.io/
 - Package: blueprint-compiler
-  Version: 0.19.0
+  Version: 0.20.0
   Description: Markup language for GTK user interfaces
   Homepage: https://gnome.pages.gitlab.gnome.org/blueprint-compiler/
 - Package: bmon
