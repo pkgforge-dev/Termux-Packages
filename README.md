@@ -1332,7 +1332,7 @@
 | **librnnoise-static** | 0.2-1 | Static libraries for librnnoise | https://jmvalin.ca/demo/rnnoise/ |
 | **librocksdb** | 8.11.3-3 | A persistent key-value store for flash and RAM storage | https://rocksdb.org/ |
 | **librocksdb-static** | 8.11.3-3 | Static libraries for librocksdb | https://rocksdb.org/ |
-| **librsvg** | 2.61.4 | Library to render SVG files using cairo | https://wiki.gnome.org/action/show/Projects/LibRsvg |
+| **librsvg** | 2.62.0 | Library to render SVG files using cairo | https://wiki.gnome.org/action/show/Projects/LibRsvg |
 | **librsync** | 2.3.4-1 | Remote delta-compression library | https://github.com/librsync/librsync |
 | **librtmidi** | 5.0.0-3 | A set of C++ classes that provides a common API for realtime MIDI input/output | https://www.music.mcgill.ca/~gary/rtmidi/ |
 | **librttopo** | 1.1.0-5 | The RT Topology Library exposes an API to create and manage standard topologies | https://git.osgeo.org/gitea/rttopo/librttopo |
@@ -1708,7 +1708,7 @@
 | **mimetic** | 0.9.8-2 | A C++ Email library (MIME) | https://www.codesink.org/mimetic_mime_library.html |
 | **mimetic-static** | 0.9.8-2 | Static libraries for mimetic | https://www.codesink.org/mimetic_mime_library.html |
 | **minesweeper** | 0.3.1-4 | A simple terminal-based implementation of Minesweeper | https://github.com/benhsm/minesweeper |
-| **minicom** | 2.11 | Friendly menu driven serial communication program | https://salsa.debian.org/minicom-team/minicom |
+| **minicom** | 2.11.1 | Friendly menu driven serial communication program | https://salsa.debian.org/minicom-team/minicom |
 | **minidlna** | 1.3.3-4 | A server software with the aim of being fully compliant with DLNA/UPnP-AV clients | https://sourceforge.net/projects/minidlna/ |
 | **miniflux** | 2.2.17 | A minimalist and opinionated feed reader | https://miniflux.app/ |
 | **minimodem** | 0.24-1-2 | General-purpose software audio FSK modem | http://www.whence.com/minimodem/ |
@@ -2286,7 +2286,7 @@
 | **simdjson** | 4.3.1 | A C++ library to see how fast we can parse JSON with complete validation | https://simdjson.org/ |
 | **simh** | 1:3.12.5-1 | A collection of simulators for computer hardware and software from the past | http://simh.trailing-edge.com/ |
 | **simulavr** | 1:1.1.0-2 | Simulator for Microchip AVR (formerly Atmel) microcontrollers | https://www.nongnu.org/simulavr |
-| **sing-box** | 1.12.23 | The universal proxy platform | https://sing-box.sagernet.org |
+| **sing-box** | 1.13.0 | The universal proxy platform | https://sing-box.sagernet.org |
 | **skate** | 1.0.1-1 | A personal key-value store | https://github.com/charmbracelet/skate |
 | **sl** | 5.05-1 | Tool curing your bad habit of mistyping | https://github.com/mtoyoda/sl |
 | **slang** | 2.3.3-2 | S-Lang is a powerful interpreted language | https://www.jedsoft.org/slang/ |
