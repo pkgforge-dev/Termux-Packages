@@ -5388,12 +5388,6 @@
     "Homepage": "https://www.blosc.org"
   },
   {
-    "Package": "libblosc2-static",
-    "Version": "2.23.0",
-    "Description": "Static libraries for libblosc2",
-    "Homepage": "https://www.blosc.org"
-  },
-  {
     "Package": "libbluray",
     "Version": "1.4.1",
     "Description": "An open-source library designed for Blu-Ray Discs playback for media players",
@@ -11041,7 +11035,7 @@
   },
   {
     "Package": "nushell",
-    "Version": "0.110.0",
+    "Version": "0.111.0",
     "Description": "A new type of shell operating on structured data",
     "Homepage": "https://www.nushell.sh"
   },
@@ -13720,12 +13714,6 @@
     "Version": "3.2.91-15",
     "Description": "Static libraries for smalltalk",
     "Homepage": "http://smalltalk.gnu.org/"
-  },
-  {
-    "Package": "snake",
-    "Version": "2022.11.07-1",
-    "Description": "Eat as much as you want while avoiding walls",
-    "Homepage": "https://github.com/gogakoreli/snake"
   },
   {
     "Package": "snapcast-client",
