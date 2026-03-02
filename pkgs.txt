@@ -405,7 +405,7 @@
  ebook-tools  0.2.2-3  Tools for accessing and converting various ebook file formats  https://sourceforge.net/projects/ebook-tools/ 
  ecj  1:4.12-5  Eclipse Compiler for Java  https://www.eclipse.org/jdt/core/ 
  ed  1.22.5  Classic UNIX line editor  https://www.gnu.org/software/ed/ 
- edbrowse  3.8.15  Line based editor, browser, and mail client  https://edbrowse.org/ 
+ edbrowse  3.8.16  Line based editor, browser, and mail client  https://edbrowse.org/ 
  editorconfig-core-c  0.12.10  EditorConfig core code written in C (for use by plugins supporting EditorConfig parsing)  https://editorconfig.org/ 
  editorconfig-core-c-static  0.12.10  Static libraries for editorconfig-core-c  https://editorconfig.org/ 
  eigen  3.4.0  Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms  http://eigen.tuxfamily.org 
@@ -2123,6 +2123,7 @@
  qrsspig  0.8.0-7  Headless QRSS grabber for Raspberry Pi's  https://gitlab.com/hb9fxx/qrsspig 
  quick-lint-js  3.2.0-1  Finds bugs in JavaScript programs  https://quick-lint-js.com/ 
  quickjs  2:2025.09.13.2  QuickJS is a small and embeddable Javascript engine  https://bellard.org/quickjs/ 
+ quickjs-ng  0.12.1  Embeddable JavaScript engine in C (NG fork)  https://quickjs-ng.github.io/quickjs/ 
  quilt  0.69  Allows you to easily manage large numbers of patches  https://savannah.nongnu.org/projects/quilt 
  rabbitmq-server  4.2.4  Feature rich, multi-protocol messaging and streaming broker  https://github.com/rabbitmq/rabbitmq-server 
  racket  9.1  Full-spectrum programming language going beyond Lisp and Scheme  https://racket-lang.org 

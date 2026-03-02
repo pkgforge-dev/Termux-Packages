@@ -1627,7 +1627,7 @@
   Description: Classic UNIX line editor
   Homepage: https://www.gnu.org/software/ed/
 - Package: edbrowse
-  Version: 3.8.15
+  Version: 3.8.16
   Description: Line based editor, browser, and mail client
   Homepage: https://edbrowse.org/
 - Package: editorconfig-core-c
@@ -8498,6 +8498,10 @@
   Version: 2:2025.09.13.2
   Description: QuickJS is a small and embeddable Javascript engine
   Homepage: https://bellard.org/quickjs/
+- Package: quickjs-ng
+  Version: 0.12.1
+  Description: Embeddable JavaScript engine in C (NG fork)
+  Homepage: https://quickjs-ng.github.io/quickjs/
 - Package: quilt
   Version: "0.69"
   Description: Allows you to easily manage large numbers of patches
