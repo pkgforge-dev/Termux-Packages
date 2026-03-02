@@ -1995,11 +1995,11 @@
   Description: Static libraries for freeimage
   Homepage: https://freeimage.sourceforge.io
 - Package: freetype
-  Version: 2.14.1
+  Version: 2.14.2
   Description: Software font engine capable of producing high-quality output
   Homepage: https://www.freetype.org
 - Package: freetype-static
-  Version: 2.14.1
+  Version: 2.14.2
   Description: Static libraries for freetype
   Homepage: https://www.freetype.org
 - Package: frei0r-plugins
@@ -4799,11 +4799,11 @@
   Description: Static libraries for libnats-c
   Homepage: https://nats-io.github.io/nats.c/
 - Package: libneon
-  Version: 0.36.0
+  Version: 0.37.0
   Description: An HTTP/1.1 and WebDAV client library, with a C interface
   Homepage: https://notroj.github.io/neon/
 - Package: libneon-static
-  Version: 0.36.0
+  Version: 0.37.0
   Description: Static libraries for libneon
   Homepage: https://notroj.github.io/neon/
 - Package: libnet
