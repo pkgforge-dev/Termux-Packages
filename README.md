@@ -2219,7 +2219,7 @@
 | **runit-static** | 2.1.2-4 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.8.0 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
 | **rust** | 1.93.1 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
-| **rust-analyzer** | 20260223 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
+| **rust-analyzer** | 20260302 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
 | **rust-bindgen** | 0.72.1 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
 | **rust-docs** | 1.93.1 | Rust documentation | https://www.rust-lang.org/ |
 | **rust-src** | 1.93.1 | Rust source code files | https://www.rust-lang.org/ |
@@ -2540,7 +2540,7 @@
 | **uchardet** | 0.0.8-2 | An encoding detector utility | https://www.freedesktop.org/wiki/Software/uchardet/ |
 | **udftools** | 2.3-1 | Linux tools for UDF filesystems and DVD/CD-R(W) drives | https://github.com/pali/udftools |
 | **udocker** | 1.3.17 | A basic user tool to execute simple docker containers in batch or interactive systems without root privileges. | https://indigo-dc.github.io/udocker |
-| **uftrace** | 0.18.1-1 | Function (graph) tracer for user-space | https://uftrace.github.io/slide |
+| **uftrace** | 0.19 | Function (graph) tracer for user-space | https://uftrace.github.io/slide |
 | **ugrep** | 7.5.0-1 | A faster, user-friendly and compatible grep replacement | https://github.com/Genivia/ugrep |
 | **unar** | 1.10.8-3 | Command line tools for archive and file unarchiving and extraction | https://theunarchiver.com/command-line |
 | **unbound** | 1.24.2-1 | Unbound command-line tools | https://unbound.net/ |
