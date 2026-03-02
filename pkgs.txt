@@ -472,8 +472,8 @@
  fftw  3.3.10-4  Library for computing the Discrete Fourier Transform (DFT) in one or more dimensions  http://www.fftw.org/ 
  fftw-static  3.3.10-4  Static libraries for fftw  http://www.fftw.org/ 
  figlet  2.2.5-3  Program for making large letters out of ordinary text  http://www.figlet.org/ 
- file  5.46-2  Command-line tool that tells you in words what kind of data a file contains  https://darwinsys.com/file/ 
- file-static  5.46-2  Static libraries for file  https://darwinsys.com/file/ 
+ file  5.47  Command-line tool that tells you in words what kind of data a file contains  https://darwinsys.com/file/ 
+ file-static  5.47  Static libraries for file  https://darwinsys.com/file/ 
  finch  2.14.14-2  Text-based multi-protocol instant messaging client  https://pidgin.im/ 
  finch-static  2.14.14-2  Static libraries for finch  https://pidgin.im/ 
  findomain  10.0.1-1  Findomain is the fastest subdomain enumerator and the only one written in Rust  https://findomain.app/ 
@@ -511,7 +511,7 @@
  fwknop  2.6.11-2  fwknop: Single Packet Authorization > Port Knocking  https://www.cipherdyne.org/fwknop/ 
  fwknop-static  2.6.11-2  Static libraries for fwknop  https://www.cipherdyne.org/fwknop/ 
  fx  39.2.0  Interactive JSON viewer on your terminal  https://github.com/antonmedv/fx 
- fzf  0.68.0  Command-line fuzzy finder  https://junegunn.github.io/fzf/ 
+ fzf  0.70.0  Command-line fuzzy finder  https://junegunn.github.io/fzf/ 
  fzy  1.1-1  A simple, fast fuzzy finder for the terminal  https://github.com/jhawthorn/fzy 
  g-ir-scanner  1.86.0  A tool which generates GIR XML files  https://gi.readthedocs.io/ 
  game-music-emu  0.6.4-1  A collection of video game music file emulators  https://bitbucket.org/mpyne/game-music-emu/wiki/Home 
@@ -812,7 +812,7 @@
  keybase  6.5.2  Key directory that maps social media identities to encryption keys  https://keybase.io 
  keychain  2.9.8  keychain ssh-agent front-end  https://www.funtoo.org/Keychain 
  kibi  0.3.3  A tiny terminal text editor, written in Rust  https://github.com/ilai-deutel/kibi 
- kiwix-tools  3.8.1  A collection of Kiwix related command line tools  https://github.com/kiwix/kiwix-tools 
+ kiwix-tools  3.8.2  A collection of Kiwix related command line tools  https://github.com/kiwix/kiwix-tools 
  knockd  0.8.2-2  A port-knocking daemon  https://zeroflux.org/projects/knock 
  knot-utils  3.2.4-2  Knot DNS utilities  https://www.knot-dns.cz/ 
  kona  20211225-1  Open-source implementation of the APL-like K programming language  https://github.com/kevinlawler/kona 
@@ -1117,7 +1117,7 @@
  libjxl  0.11.2-1  JPEG XL image format reference implementation  https://jpegxl.info/ 
  libjxl-progs  0.11.2-1  Programs for manipulating JPEG XL files  https://jpegxl.info/ 
  libkeyfinder  2.2.8  Musical key detection for digital audio  https://mixxxdj.github.io/libkeyfinder 
- libkiwix  14.1.1-1  A library that contains a lot of things used by other kiwix programs  https://github.com/kiwix/libkiwix 
+ libkiwix  14.2.0  A library that contains a lot of things used by other kiwix programs  https://github.com/kiwix/libkiwix 
  libknot  3.2.4-2  Knot DNS libraries  https://www.knot-dns.cz/ 
  libknot-static  3.2.4-2  Static libraries for libknot  https://www.knot-dns.cz/ 
  libksba  1.6.8  Library for using X.509 certificates and CMS (Cryptographic Message Syntax) easily accessible  https://gnupg.org/related_software/libksba/ 
@@ -1672,7 +1672,7 @@
  mdbook-toc  0.15.3  A preprocessor for mdbook to add inline Table of Contents support  https://github.com/badboy/mdbook-toc 
  mdbtools  1.0.1-1  A set of programs to help you extract data from Microsoft Access files in various settings  https://github.com/mdbtools/mdbtools 
  mdbtools-static  1.0.1-1  Static libraries for mdbtools  https://github.com/mdbtools/mdbtools 
- mdds  3.2.0-1  A collection of multi-dimensional data structures and indexing algorithms  https://gitlab.com/mdds/mdds 
+ mdds  3.2.1  A collection of multi-dimensional data structures and indexing algorithms  https://gitlab.com/mdds/mdds 
  mdns-scan  0.5-3  A tool for scanning for mDNS/DNS-SD services published on the local network  https://github.com/alteholz/mdns-scan 
  mdp  1.0.18-1  Command-line based markdown presentation tool  https://github.com/visit1985/mdp 
  media-types  14.0.0  List of standard media types and their usual file extension  https://pagure.io/mailcap 
@@ -1910,8 +1910,8 @@
  ossp-uuid  1.6.2-4  ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122.  http://www.ossp.org/pkg/lib/uuid/ 
  ossp-uuid-static  1.6.2-4  Static libraries for ossp-uuid  http://www.ossp.org/pkg/lib/uuid/ 
  ovmf  20231122-16.fc40-0  Open Virtual Machine Firmware  https://www.tianocore.org/ 
- oxfmt  1.50.0  Oxc JavaScript formatter  https://oxc.rs/ 
- oxlint  1.50.0  Oxc JavaScript linter  https://oxc.rs/ 
+ oxfmt  1.51.0  Oxc JavaScript formatter  https://oxc.rs/ 
+ oxlint  1.51.0  Oxc JavaScript linter  https://oxc.rs/ 
  p11-kit  0.26.2  Provides a way to load and enumerate PKCS#11 modules  https://p11-glue.github.io/p11-glue/p11-kit.html 
  p7zip  17.06-1  Command-line version of the 7zip compressed file archiver  https://github.com/p7zip-project/p7zip 
  pacman  7.1.0-1  A library-based package manager with dependency support  https://archlinux.org/pacman/ 
@@ -2346,7 +2346,7 @@
  stoken  0.93-3  Software Token for Linux/UNIX  https://github.com/cernekee/stoken 
  stoken-static  0.93-3  Static libraries for stoken  https://github.com/cernekee/stoken 
  stone  2.4-3  A TCP/IP repeater in the application layer  https://www.gcd.org/sengoku/stone/ 
- storj-uplink  1.148.3  Storj DCS Uplink CLI  https://www.storj.io/integrations/uplink-cli 
+ storj-uplink  1.148.4  Storj DCS Uplink CLI  https://www.storj.io/integrations/uplink-cli 
  stow  2.4.1  Tool for managing the installation of multiple software packages into a single directory  https://www.gnu.org/software/stow/ 
  strace  6.19  Debugging utility to monitor system calls and signals received  https://strace.io/ 
  streamripper  1.64.6-3  Records and splits streaming mp3 into tracks  https://streamripper.sourceforge.net/ 

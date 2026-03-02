@@ -2845,13 +2845,13 @@
   },
   {
     "Package": "file",
-    "Version": "5.46-2",
+    "Version": "5.47",
     "Description": "Command-line tool that tells you in words what kind of data a file contains",
     "Homepage": "https://darwinsys.com/file/"
   },
   {
     "Package": "file-static",
-    "Version": "5.46-2",
+    "Version": "5.47",
     "Description": "Static libraries for file",
     "Homepage": "https://darwinsys.com/file/"
   },
@@ -3079,7 +3079,7 @@
   },
   {
     "Package": "fzf",
-    "Version": "0.68.0",
+    "Version": "0.70.0",
     "Description": "Command-line fuzzy finder",
     "Homepage": "https://junegunn.github.io/fzf/"
   },
@@ -4885,7 +4885,7 @@
   },
   {
     "Package": "kiwix-tools",
-    "Version": "3.8.1",
+    "Version": "3.8.2",
     "Description": "A collection of Kiwix related command line tools",
     "Homepage": "https://github.com/kiwix/kiwix-tools"
   },
@@ -6715,7 +6715,7 @@
   },
   {
     "Package": "libkiwix",
-    "Version": "14.1.1-1",
+    "Version": "14.2.0",
     "Description": "A library that contains a lot of things used by other kiwix programs",
     "Homepage": "https://github.com/kiwix/libkiwix"
   },
@@ -10045,7 +10045,7 @@
   },
   {
     "Package": "mdds",
-    "Version": "3.2.0-1",
+    "Version": "3.2.1",
     "Description": "A collection of multi-dimensional data structures and indexing algorithms",
     "Homepage": "https://gitlab.com/mdds/mdds"
   },
@@ -11473,13 +11473,13 @@
   },
   {
     "Package": "oxfmt",
-    "Version": "1.50.0",
+    "Version": "1.51.0",
     "Description": "Oxc JavaScript formatter",
     "Homepage": "https://oxc.rs/"
   },
   {
     "Package": "oxlint",
-    "Version": "1.50.0",
+    "Version": "1.51.0",
     "Description": "Oxc JavaScript linter",
     "Homepage": "https://oxc.rs/"
   },
@@ -14089,7 +14089,7 @@
   },
   {
     "Package": "storj-uplink",
-    "Version": "1.148.3",
+    "Version": "1.148.4",
     "Description": "Storj DCS Uplink CLI",
     "Homepage": "https://www.storj.io/integrations/uplink-cli"
   },
