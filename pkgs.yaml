@@ -1275,11 +1275,11 @@
   Description: Tools to work with android .dex and java .class files
   Homepage: https://github.com/pxb1988/dex2jar
 - Package: dialog
-  Version: 1.3-20240307-1
+  Version: 1.3-20260107-0
   Description: Application used in shell scripts which displays text user interface widgets
   Homepage: https://invisible-island.net/dialog/
 - Package: dialog-static
-  Version: 1.3-20240307-1
+  Version: 1.3-20260107-0
   Description: Static libraries for dialog
   Homepage: https://invisible-island.net/dialog/
 - Package: dictd
@@ -2007,7 +2007,7 @@
   Description: Minimalistic plugin API for video effects
   Homepage: https://www.dyne.org/software/frei0r/
 - Package: fresh-editor
-  Version: 0.2.11
+  Version: 0.2.12
   Description: 'Text editor for your terminal: easy, powerful and fast'
   Homepage: https://getfresh.dev/
 - Package: fribidi
@@ -2307,7 +2307,7 @@
   Description: Simple, Portable, Free File Transfer Software for UNIX
   Homepage: http://www.columbia.edu/kermit/gkermit.html
 - Package: glab-cli
-  Version: 1.86.0
+  Version: 1.87.0
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
@@ -8099,7 +8099,7 @@
   Description: Linux tool to show progress for cp, mv, dd and more
   Homepage: https://github.com/Xfennec/progress
 - Package: proj
-  Version: 9.7.1
+  Version: 9.8.0
   Description: Generic coordinate transformation software
   Homepage: https://proj.org
 - Package: proot
@@ -8139,7 +8139,7 @@
   Description: Tunnel TCP connections through ICMP
   Homepage: https://github.com/lnslbrty/ptunnel-ng
 - Package: pueue
-  Version: 4.0.3
+  Version: 4.0.4
   Description: A command-line task management tool for sequential and parallel execution of long-running tasks
   Homepage: https://github.com/Nukesor/pueue
 - Package: pulseaudio

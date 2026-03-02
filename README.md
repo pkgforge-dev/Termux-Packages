@@ -329,8 +329,8 @@
 | **desed** | 1.2.2-1 | Demystifies and debugs your sed scripts | https://github.com/SoptikHa2/desed |
 | **deutex** | 5.2.3-1 | WAD composer for Doom, Heretic, Hexen, and Strife | https://github.com/Doom-Utils/deutex/ |
 | **dex2jar** | 2.4-1 | Tools to work with android .dex and java .class files | https://github.com/pxb1988/dex2jar |
-| **dialog** | 1.3-20240307-1 | Application used in shell scripts which displays text user interface widgets | https://invisible-island.net/dialog/ |
-| **dialog-static** | 1.3-20240307-1 | Static libraries for dialog | https://invisible-island.net/dialog/ |
+| **dialog** | 1.3-20260107-0 | Application used in shell scripts which displays text user interface widgets | https://invisible-island.net/dialog/ |
+| **dialog-static** | 1.3-20260107-0 | Static libraries for dialog | https://invisible-island.net/dialog/ |
 | **dictd** | 1.13.3-1 | Online dictionary client and server | https://sourceforge.net/projects/dict/ |
 | **diff-so-fancy** | 1.4.4 | Good-lookin' diffs. Actually... nah... The best-lookin' diffs | https://github.com/so-fancy/diff-so-fancy |
 | **diffstat** | 1.68-1 | Displays a histogram of changes to a file | https://invisible-island.net/diffstat/diffstat.html |
@@ -512,7 +512,7 @@
 | **freetype** | 2.14.2 | Software font engine capable of producing high-quality output | https://www.freetype.org |
 | **freetype-static** | 2.14.2 | Static libraries for freetype | https://www.freetype.org |
 | **frei0r-plugins** | 2.5.4 | Minimalistic plugin API for video effects | https://www.dyne.org/software/frei0r/ |
-| **fresh-editor** | 0.2.11 | Text editor for your terminal: easy, powerful and fast | https://getfresh.dev/ |
+| **fresh-editor** | 0.2.12 | Text editor for your terminal: easy, powerful and fast | https://getfresh.dev/ |
 | **fribidi** | 1.0.16-1 | Implementation of the Unicode Bidirectional Algorithm | https://github.com/fribidi/fribidi/ |
 | **fribidi-static** | 1.0.16-1 | Static libraries for fribidi | https://github.com/fribidi/fribidi/ |
 | **frobtads** | 2.0-5 | TADS is a free authoring system for writing your own Interactive Fiction | http://www.tads.org/frobtads.htm |
@@ -587,7 +587,7 @@
 | **gitoxide** | 0.51.0 | Rust implementation of Git | https://github.com/Byron/gitoxide |
 | **gitui** | 0.28.0 | Blazing fast terminal-ui for git written in rust | https://github.com/gitui-org/gitui |
 | **gkermit** | 2.01-1 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
-| **glab-cli** | 1.86.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
+| **glab-cli** | 1.87.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
 | **gleam** | 1.14.0 | A friendly language for building type-safe, scalable systems! | https://gleam.run |
 | **glib** | 2.86.4 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
 | **glib-cross** | 2.86.4 | glib for host (NOT for Termux) | https://developer.gnome.org/glib/ |
@@ -2035,7 +2035,7 @@
 | **procyon-decompiler** | 0.6.0-2 | A standalone front-end for the Java decompiler in Procyon Compiler Toolset | https://github.com/mstrobel/procyon |
 | **profanity** | 0.16.0 | Profanity is a console based XMPP client written in C using ncurses and libstrophe, inspired by Irssi | https://profanity-im.github.io |
 | **progress** | 0.17-1 | Linux tool to show progress for cp, mv, dd and more | https://github.com/Xfennec/progress |
-| **proj** | 9.7.1 | Generic coordinate transformation software | https://proj.org |
+| **proj** | 9.8.0 | Generic coordinate transformation software | https://proj.org |
 | **proot** | 5.1.107-70 | Emulate chroot, bind mount and binfmt_misc for non-root users | https://proot-me.github.io/ |
 | **proot-distro** | 4.38.0 | Termux official utility for managing proot'ed Linux distributions | https://github.com/termux/proot-distro |
 | **protobuf** | 2:33.1-1 | Compiler for protocol buffer definition files | https://github.com/protocolbuffers/protobuf |
@@ -2045,7 +2045,7 @@
 | **ptex** | 2.5.1 | Per-Face Texture Mapping for Production Rendering | https://github.com/wdas/ptex |
 | **ptex-static** | 2.5.1 | Static libraries for ptex | https://github.com/wdas/ptex |
 | **ptunnel-ng** | 1.43-1 | Tunnel TCP connections through ICMP | https://github.com/lnslbrty/ptunnel-ng |
-| **pueue** | 4.0.3 | A command-line task management tool for sequential and parallel execution of long-running tasks | https://github.com/Nukesor/pueue |
+| **pueue** | 4.0.4 | A command-line task management tool for sequential and parallel execution of long-running tasks | https://github.com/Nukesor/pueue |
 | **pulseaudio** | 17.0-1 | A featureful, general-purpose sound server | https://www.freedesktop.org/wiki/Software/PulseAudio |
 | **pulseaudio-glib** | 17.0-1 | PulseAudio GLIB mainloop component | https://www.freedesktop.org/wiki/Software/PulseAudio |
 | **pup** | 0.4.0-7 | command line tool for processing HTML | https://github.com/ericchiang/pup |
