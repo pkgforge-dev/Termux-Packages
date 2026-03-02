@@ -4679,7 +4679,7 @@
   Description: Static libraries for libmicrohttpd
   Homepage: http://www.gnu.org/software/libmicrohttpd/
 - Package: libminizip
-  Version: 1.3.2
+  Version: 1.3.2-1
   Description: Mini zip and unzip based on zlib
   Homepage: https://www.winimage.com/zLibDll/minizip.html
 - Package: libminizip-ng
@@ -4687,7 +4687,7 @@
   Description: A zip manipulation library written in C
   Homepage: https://github.com/zlib-ng/minizip-ng
 - Package: libminizip-static
-  Version: 1.3.2
+  Version: 1.3.2-1
   Description: Static libraries for libminizip
   Homepage: https://www.winimage.com/zLibDll/minizip.html
 - Package: libmnl
