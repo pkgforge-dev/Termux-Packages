@@ -7,7 +7,7 @@
   Description: Console version of the game 2048 for GNU/Linux
   Homepage: https://github.com/mevdschee/2048.c
 - Package: 2ping
-  Version: 4.5.1-4
+  Version: 4.5.1-5
   Description: A bi-directional ping utility
   Homepage: https://www.finnie.org/software/2ping/
 - Package: 6tunnel
@@ -291,7 +291,7 @@
   Description: List ASCII idiomatic names and octal/decimal code-point forms
   Homepage: http://www.catb.org/~esr/ascii/
 - Package: asciidoc
-  Version: 10.2.1-1
+  Version: 10.2.1-2
   Description: Text document format for short documents, articles, books and UNIX man pages.
   Homepage: https://asciidoc.org
 - Package: asciidoctor
@@ -611,15 +611,15 @@
   Description: A non-web client for the terminal, supporting Gopher, Gemini and much more
   Homepage: https://bombadillo.colorfield.space/
 - Package: boost
-  Version: 1:1.90.0
+  Version: 1:1.90.0-1
   Description: Free peer-reviewed portable C++ source libraries
   Homepage: https://boost.org
 - Package: boost-headers
-  Version: 1:1.90.0
+  Version: 1:1.90.0-1
   Description: Boost header files
   Homepage: https://boost.org
 - Package: boost-static
-  Version: 1:1.90.0
+  Version: 1:1.90.0-1
   Description: Static libraries for boost
   Homepage: https://boost.org
 - Package: bore
@@ -5111,7 +5111,7 @@
   Description: Low-level library for pixel manipulation
   Homepage: https://www.pixman.org/
 - Package: libplacebo
-  Version: 7.360.0
+  Version: 7.360.0-2
   Description: Reusable library for GPU-accelerated video/image rendering
   Homepage: http://libplacebo.org/
 - Package: libplist
@@ -5759,11 +5759,11 @@
   Description: Static libraries for libudfread
   Homepage: https://code.videolan.org/videolan/libudfread/
 - Package: libunbound
-  Version: 1.24.2-1
+  Version: 1.24.2-2
   Description: A validating, recursive, caching DNS resolver
   Homepage: https://unbound.net/
 - Package: libunbound-static
-  Version: 1.24.2-1
+  Version: 1.24.2-2
   Description: Static libraries for libunbound
   Homepage: https://unbound.net/
 - Package: libunibilium
@@ -7439,7 +7439,7 @@
   Description: Static libraries for oniguruma
   Homepage: https://github.com/kkos/oniguruma
 - Package: onnxruntime
-  Version: 1.24.2
+  Version: 1.24.2-1
   Description: Cross-platform, high performance ML inferencing and training accelerator
   Homepage: https://onnxruntime.ai/
 - Package: oorexx
@@ -8211,7 +8211,7 @@
   Description: C++ functions matching the interface and behavior of python string methods with std::string
   Homepage: https://github.com/imageworks/pystring
 - Package: python
-  Version: 3.12.12-1
+  Version: 3.13.12
   Description: Python 3 programming language intended to enable clear programs
   Homepage: https://python.org/
 - Package: python-apsw
@@ -8227,7 +8227,7 @@
   Description: Acceptable password hashing for your software and your servers
   Homepage: https://github.com/pyca/bcrypt
 - Package: python-brotli
-  Version: 1.2.0
+  Version: 1.2.0-1
   Description: lossless compression algorithm and format (Python bindings)
   Homepage: https://github.com/google/brotli
 - Package: python-cmake
@@ -8243,11 +8243,11 @@
   Description: Provides cryptographic recipes and primitives to Python developers
   Homepage: https://github.com/pyca/cryptography
 - Package: python-ensurepip-wheels
-  Version: 3.12.12-1
+  Version: 3.13.12
   Description: Wheels for Python ensurepip
   Homepage: https://python.org/
 - Package: python-greenlet
-  Version: 3.3.2
+  Version: 3.3.2-1
   Description: Lightweight coroutines for in-process concurrent programming
   Homepage: https://github.com/python-greenlet/greenlet
 - Package: python-grpcio
@@ -8271,7 +8271,7 @@
   Description: Python binding for the libxml2 and libxslt libraries
   Homepage: https://github.com/lxml/lxml
 - Package: python-msgpack
-  Version: 1.1.2-1
+  Version: 1.1.2-2
   Description: MessagePack serializer implementation for Python
   Homepage: https://github.com/msgpack/msgpack-python
 - Package: python-numpy
@@ -8283,7 +8283,7 @@
   Description: Static libraries for python-numpy
   Homepage: https://numpy.org/
 - Package: python-onnxruntime
-  Version: 1.24.2
+  Version: 1.24.2-1
   Description: Cross-platform, high performance ML inferencing and training accelerator (Python bindings)
   Homepage: https://onnxruntime.ai/
 - Package: python-pillow
@@ -8291,7 +8291,7 @@
   Description: Python Imaging Library
   Homepage: https://python-pillow.org/
 - Package: python-pip
-  Version: 26.0.1
+  Version: 26.0.1-1
   Description: The PyPA recommended tool for installing Python packages
   Homepage: https://pip.pypa.io/
 - Package: python-pyarrow
@@ -8299,15 +8299,15 @@
   Description: Python bindings for Apache Arrow
   Homepage: https://github.com/apache/arrow
 - Package: python-pycryptodomex
-  Version: 3.23.0-2
+  Version: 3.23.0-3
   Description: A self-contained Python package of low-level cryptographic primitives
   Homepage: https://www.pycryptodome.org/
 - Package: python-pynvim
-  Version: 0.6.0-1
+  Version: 0.6.0-2
   Description: Python client for Neovim
   Homepage: https://github.com/neovim/pynvim
 - Package: python-ruff
-  Version: 0.15.4
+  Version: 0.15.4-1
   Description: An extremely fast Python linter, written in Rust (Python bindings)
   Homepage: https://github.com/charliermarsh/ruff
 - Package: python-sabyenc3
@@ -8319,15 +8319,15 @@
   Description: Python bindings for the Skia librarys Path Ops
   Homepage: https://github.com/fonttools/skia-pathops
 - Package: python-static
-  Version: 3.12.12-1
+  Version: 3.13.12
   Description: Static libraries for python
   Homepage: https://python.org/
 - Package: python-tflite-runtime
-  Version: 2.20.0-1
+  Version: 2.20.0-2
   Description: TensorFlow Lite Python bindings
   Homepage: https://www.tensorflow.org/lite
 - Package: python-tkinter
-  Version: 3.12.12-1
+  Version: 3.13.12
   Description: Tkinter support for Python 3
   Homepage: https://python.org/
 - Package: python-tldp
@@ -8363,7 +8363,7 @@
   Description: The Python X Library
   Homepage: https://github.com/python-xlib/python-xlib
 - Package: python-yt-dlp
-  Version: 2026.02.21
+  Version: 2026.02.21-1
   Description: A youtube-dl fork with additional features and fixes
   Homepage: https://github.com/yt-dlp/yt-dlp
 - Package: python2
@@ -8375,7 +8375,7 @@
   Description: Static libraries for python2
   Homepage: http://python.org/
 - Package: pyunbound
-  Version: 1.24.2-1
+  Version: 1.24.2-2
   Description: Python bindings for Unbound
   Homepage: https://unbound.net/
 - Package: pzstd
@@ -8819,7 +8819,7 @@
   Description: Ruby documentation index
   Homepage: https://www.ruby-lang.org/
 - Package: ruff
-  Version: 0.15.4
+  Version: 0.15.4-1
   Description: An extremely fast Python linter, written in Rust
   Homepage: https://github.com/charliermarsh/ruff
 - Package: runit
@@ -10135,7 +10135,7 @@
   Description: Command line tools for archive and file unarchiving and extraction
   Homepage: https://theunarchiver.com/command-line
 - Package: unbound
-  Version: 1.24.2-1
+  Version: 1.24.2-2
   Description: Unbound command-line tools
   Homepage: https://unbound.net/
 - Package: unicode-cldr

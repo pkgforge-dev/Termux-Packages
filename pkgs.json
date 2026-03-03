@@ -13,7 +13,7 @@
   },
   {
     "Package": "2ping",
-    "Version": "4.5.1-4",
+    "Version": "4.5.1-5",
     "Description": "A bi-directional ping utility",
     "Homepage": "https://www.finnie.org/software/2ping/"
   },
@@ -439,7 +439,7 @@
   },
   {
     "Package": "asciidoc",
-    "Version": "10.2.1-1",
+    "Version": "10.2.1-2",
     "Description": "Text document format for short documents, articles, books and UNIX man pages.",
     "Homepage": "https://asciidoc.org"
   },
@@ -919,19 +919,19 @@
   },
   {
     "Package": "boost",
-    "Version": "1:1.90.0",
+    "Version": "1:1.90.0-1",
     "Description": "Free peer-reviewed portable C++ source libraries",
     "Homepage": "https://boost.org"
   },
   {
     "Package": "boost-headers",
-    "Version": "1:1.90.0",
+    "Version": "1:1.90.0-1",
     "Description": "Boost header files",
     "Homepage": "https://boost.org"
   },
   {
     "Package": "boost-static",
-    "Version": "1:1.90.0",
+    "Version": "1:1.90.0-1",
     "Description": "Static libraries for boost",
     "Homepage": "https://boost.org"
   },
@@ -7669,7 +7669,7 @@
   },
   {
     "Package": "libplacebo",
-    "Version": "7.360.0",
+    "Version": "7.360.0-2",
     "Description": "Reusable library for GPU-accelerated video/image rendering",
     "Homepage": "http://libplacebo.org/"
   },
@@ -8641,13 +8641,13 @@
   },
   {
     "Package": "libunbound",
-    "Version": "1.24.2-1",
+    "Version": "1.24.2-2",
     "Description": "A validating, recursive, caching DNS resolver",
     "Homepage": "https://unbound.net/"
   },
   {
     "Package": "libunbound-static",
-    "Version": "1.24.2-1",
+    "Version": "1.24.2-2",
     "Description": "Static libraries for libunbound",
     "Homepage": "https://unbound.net/"
   },
@@ -11161,7 +11161,7 @@
   },
   {
     "Package": "onnxruntime",
-    "Version": "1.24.2",
+    "Version": "1.24.2-1",
     "Description": "Cross-platform, high performance ML inferencing and training accelerator",
     "Homepage": "https://onnxruntime.ai/"
   },
@@ -12319,7 +12319,7 @@
   },
   {
     "Package": "python",
-    "Version": "3.12.12-1",
+    "Version": "3.13.12",
     "Description": "Python 3 programming language intended to enable clear programs",
     "Homepage": "https://python.org/"
   },
@@ -12343,7 +12343,7 @@
   },
   {
     "Package": "python-brotli",
-    "Version": "1.2.0",
+    "Version": "1.2.0-1",
     "Description": "lossless compression algorithm and format (Python bindings)",
     "Homepage": "https://github.com/google/brotli"
   },
@@ -12367,13 +12367,13 @@
   },
   {
     "Package": "python-ensurepip-wheels",
-    "Version": "3.12.12-1",
+    "Version": "3.13.12",
     "Description": "Wheels for Python ensurepip",
     "Homepage": "https://python.org/"
   },
   {
     "Package": "python-greenlet",
-    "Version": "3.3.2",
+    "Version": "3.3.2-1",
     "Description": "Lightweight coroutines for in-process concurrent programming",
     "Homepage": "https://github.com/python-greenlet/greenlet"
   },
@@ -12409,7 +12409,7 @@
   },
   {
     "Package": "python-msgpack",
-    "Version": "1.1.2-1",
+    "Version": "1.1.2-2",
     "Description": "MessagePack serializer implementation for Python",
     "Homepage": "https://github.com/msgpack/msgpack-python"
   },
@@ -12427,7 +12427,7 @@
   },
   {
     "Package": "python-onnxruntime",
-    "Version": "1.24.2",
+    "Version": "1.24.2-1",
     "Description": "Cross-platform, high performance ML inferencing and training accelerator (Python bindings)",
     "Homepage": "https://onnxruntime.ai/"
   },
@@ -12439,7 +12439,7 @@
   },
   {
     "Package": "python-pip",
-    "Version": "26.0.1",
+    "Version": "26.0.1-1",
     "Description": "The PyPA recommended tool for installing Python packages",
     "Homepage": "https://pip.pypa.io/"
   },
@@ -12451,19 +12451,19 @@
   },
   {
     "Package": "python-pycryptodomex",
-    "Version": "3.23.0-2",
+    "Version": "3.23.0-3",
     "Description": "A self-contained Python package of low-level cryptographic primitives",
     "Homepage": "https://www.pycryptodome.org/"
   },
   {
     "Package": "python-pynvim",
-    "Version": "0.6.0-1",
+    "Version": "0.6.0-2",
     "Description": "Python client for Neovim",
     "Homepage": "https://github.com/neovim/pynvim"
   },
   {
     "Package": "python-ruff",
-    "Version": "0.15.4",
+    "Version": "0.15.4-1",
     "Description": "An extremely fast Python linter, written in Rust (Python bindings)",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -12481,19 +12481,19 @@
   },
   {
     "Package": "python-static",
-    "Version": "3.12.12-1",
+    "Version": "3.13.12",
     "Description": "Static libraries for python",
     "Homepage": "https://python.org/"
   },
   {
     "Package": "python-tflite-runtime",
-    "Version": "2.20.0-1",
+    "Version": "2.20.0-2",
     "Description": "TensorFlow Lite Python bindings",
     "Homepage": "https://www.tensorflow.org/lite"
   },
   {
     "Package": "python-tkinter",
-    "Version": "3.12.12-1",
+    "Version": "3.13.12",
     "Description": "Tkinter support for Python 3",
     "Homepage": "https://python.org/"
   },
@@ -12547,7 +12547,7 @@
   },
   {
     "Package": "python-yt-dlp",
-    "Version": "2026.02.21",
+    "Version": "2026.02.21-1",
     "Description": "A youtube-dl fork with additional features and fixes",
     "Homepage": "https://github.com/yt-dlp/yt-dlp"
   },
@@ -12565,7 +12565,7 @@
   },
   {
     "Package": "pyunbound",
-    "Version": "1.24.2-1",
+    "Version": "1.24.2-2",
     "Description": "Python bindings for Unbound",
     "Homepage": "https://unbound.net/"
   },
@@ -13231,7 +13231,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.15.4",
+    "Version": "0.15.4-1",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -15205,7 +15205,7 @@
   },
   {
     "Package": "unbound",
-    "Version": "1.24.2-1",
+    "Version": "1.24.2-2",
     "Description": "Unbound command-line tools",
     "Homepage": "https://unbound.net/"
   },
