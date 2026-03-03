@@ -367,7 +367,7 @@
   Description: AT and batch delayed command scheduling utility and daemon
   Homepage: https://salsa.debian.org/debian/at
 - Package: at-spi2-core
-  Version: 2.58.3
+  Version: 2.58.3-1
   Description: Assistive Technology Service Provider Interface (AT-SPI)
   Homepage: https://wiki.gnome.org/Accessibility
 - Package: atomicparsley
@@ -1239,7 +1239,7 @@
   Description: Freedesktop.org message bus system
   Homepage: https://dbus.freedesktop.org
 - Package: dbus-python
-  Version: 1.4.0-1
+  Version: 1.4.0-2
   Description: Python bindings for D-Bus
   Homepage: https://dbus.freedesktop.org/doc/dbus-python/
 - Package: dcmtk
@@ -1655,7 +1655,7 @@
   Description: Static libraries for electric-fence
   Homepage: https://elinux.org/Electric_Fence
 - Package: electrum
-  Version: 4.5.8-3
+  Version: 4.5.8-4
   Description: Electrum is a lightweight Bitcoin wallet
   Homepage: https://electrum.org
 - Package: elfutils
@@ -1859,11 +1859,11 @@
   Description: A fast, simple, recursive content discovery tool written in Rust
   Homepage: https://github.com/epi052/feroxbuster
 - Package: fetchmail
-  Version: 6.6.2
+  Version: 6.6.2-1
   Description: A remote-mail retrieval utility
   Homepage: https://www.fetchmail.info/
 - Package: fetchmailconf
-  Version: 6.6.2
+  Version: 6.6.2-1
   Description: A GUI configurator for generating fetchmail configuration files
   Homepage: https://www.fetchmail.info/
 - Package: fff
@@ -2059,7 +2059,7 @@
   Description: A simple, fast fuzzy finder for the terminal
   Homepage: https://github.com/jhawthorn/fzy
 - Package: g-ir-scanner
-  Version: 1.86.0
+  Version: 1.86.0-1
   Description: A tool which generates GIR XML files
   Homepage: https://gi.readthedocs.io/
 - Package: game-music-emu
@@ -2451,7 +2451,7 @@
   Description: A cross-platform TUI database management tool written in Rust
   Homepage: https://github.com/TaKO8Ki/gobang
 - Package: gobject-introspection
-  Version: 1.86.0
+  Version: 1.86.0-1
   Description: Uniform machine readable API
   Homepage: https://gi.readthedocs.io/
 - Package: gogs
@@ -2659,7 +2659,7 @@
   Description: GStreamer Ugly Plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-python
-  Version: 1.28.1
+  Version: 1.28.1-1
   Description: Python bindings for GStreamer
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gstreamer
@@ -7059,7 +7059,7 @@
   Description: A light VPN software
   Homepage: https://github.com/ntop/n2n
 - Package: nala
-  Version: 0.16.0-1
+  Version: 0.16.0-2
   Description: Commandline frontend for the apt package manager
   Homepage: https://gitlab.com/volian/nala
 - Package: nali
@@ -8171,11 +8171,11 @@
   Description: A lightweight header-only library that exposes C++ types in Python and vice versa
   Homepage: https://pybind11.readthedocs.io/
 - Package: pycairo
-  Version: 1.29.0
+  Version: 1.29.0-1
   Description: Python bindings for the cairo graphics library
   Homepage: https://www.cairographics.org/pycairo/
 - Package: pygobject
-  Version: 3.56.0
+  Version: 3.56.0-1
   Description: Python package which provides bindings for GObject based libraries
   Homepage: https://pygobject.gnome.org/
 - Package: pypy
@@ -8219,7 +8219,7 @@
   Description: Another Python SQLite Wrapper
   Homepage: https://rogerbinns.github.io/apsw/
 - Package: python-apt
-  Version: 3.1.0
+  Version: 3.1.0-1
   Description: Python bindings for APT
   Homepage: https://apt-team.pages.debian.net/python-apt/
 - Package: python-bcrypt
@@ -8231,7 +8231,7 @@
   Description: lossless compression algorithm and format (Python bindings)
   Homepage: https://github.com/google/brotli
 - Package: python-cmake
-  Version: 4.2.3
+  Version: 4.2.3-1
   Description: Python wrapper for CMake
   Homepage: https://cmake-python-distributions.readthedocs.io/
 - Package: python-contourpy
@@ -8239,7 +8239,7 @@
   Description: Python library for calculating contours in 2D quadrilateral grids
   Homepage: https://contourpy.readthedocs.io/
 - Package: python-cryptography
-  Version: 46.0.5
+  Version: 46.0.5-1
   Description: Provides cryptographic recipes and primitives to Python developers
   Homepage: https://github.com/pyca/cryptography
 - Package: python-ensurepip-wheels
@@ -8627,11 +8627,11 @@
   Description: Static libraries for recode
   Homepage: https://github.com/pinard/Recode
 - Package: recoll
-  Version: 1.43.13
+  Version: 1.43.13-1
   Description: Full-text search for your desktop
   Homepage: https://www.recoll.org/
 - Package: recoll-python
-  Version: 1.43.13
+  Version: 1.43.13-1
   Description: Python interface for Recoll
   Homepage: https://www.recoll.org/
 - Package: recutils
@@ -9215,11 +9215,11 @@
   Description: Collection of tools supporting SpatiaLite
   Homepage: https://www.gaia-gis.it/fossil/spatialite-tools
 - Package: speechd
-  Version: 0.12.1
+  Version: 0.12.1-1
   Description: Common interface to speech synthesis
   Homepage: https://github.com/brailcom/speechd
 - Package: speechd-data
-  Version: 0.12.1
+  Version: 0.12.1-1
   Description: Platform-independent data for speechd
   Homepage: https://github.com/brailcom/speechd
 - Package: speedtest-go
@@ -9815,7 +9815,7 @@
   Description: Desktop-neutral metadata-based search framework
   Homepage: https://gnome.pages.gitlab.gnome.org/tinysparql
 - Package: tizonia
-  Version: 0.22.0-22
+  Version: 0.22.0-23
   Description: A command-line streaming music client/server for Linux
   Homepage: https://github.com/tizonia/
 - Package: tk
@@ -10119,7 +10119,7 @@
   Description: Linux tools for UDF filesystems and DVD/CD-R(W) drives
   Homepage: https://github.com/pali/udftools
 - Package: udocker
-  Version: 1.3.17
+  Version: 1.3.17-1
   Description: A basic user tool to execute simple docker containers in batch or interactive systems without root privileges.
   Homepage: https://indigo-dc.github.io/udocker
 - Package: uftrace
@@ -10315,7 +10315,7 @@
   Description: Static libraries for vamp-plugin-sdk
   Homepage: https://www.vamp-plugins.org/
 - Package: vapoursynth
-  Version: "73"
+  Version: 73-1
   Description: Video processing framework with simplicity in mind
   Homepage: https://www.vapoursynth.com/
 - Package: vbindiff

@@ -102,7 +102,7 @@
 | **assimp** | 6.0.4 | Library to import various well-known 3D model formats in an uniform manner | https://assimp.sourceforge.net/index.html |
 | **asymptote** | 3.09 | A powerful descriptive vector graphics language for technical drawing | https://asymptote.sourceforge.io/ |
 | **at** | 3.2.5-2 | AT and batch delayed command scheduling utility and daemon | https://salsa.debian.org/debian/at |
-| **at-spi2-core** | 2.58.3 | Assistive Technology Service Provider Interface (AT-SPI) | https://wiki.gnome.org/Accessibility |
+| **at-spi2-core** | 2.58.3-1 | Assistive Technology Service Provider Interface (AT-SPI) | https://wiki.gnome.org/Accessibility |
 | **atomicparsley** | 1:20240608.083822.1ed9031-1 | Read, parse and set metadata of MPEG-4 and 3gp files | https://github.com/wez/atomicparsley |
 | **atomvm** | 1:0.6.6-1 | The minimal Erlang VM implementation | https://github.com/bettio/AtomVM |
 | **atool** | 0.39.0-1 | tool for managing file archives of various types | https://www.nongnu.org/atool |
@@ -320,7 +320,7 @@
 | **dateutils** | 0.4.11-1 | Command line date and time utilities | https://www.fresse.org/dateutils/ |
 | **db** | 18.1.40-5 | The Berkeley DB embedded database system | https://www.oracle.com/database/berkeley-db |
 | **dbus** | 1.16.2-2 | Freedesktop.org message bus system | https://dbus.freedesktop.org |
-| **dbus-python** | 1.4.0-1 | Python bindings for D-Bus | https://dbus.freedesktop.org/doc/dbus-python/ |
+| **dbus-python** | 1.4.0-2 | Python bindings for D-Bus | https://dbus.freedesktop.org/doc/dbus-python/ |
 | **dcmtk** | 3.7.0 | A collection of libraries and applications implementing large parts the DICOM standard | https://dicom.offis.de/dcmtk |
 | **dcraw** | 9.28.0-7 | Raw digital camera images decoding utility | https://www.dechifro.org/dcraw/ |
 | **ddrescue** | 1.30 | GNU data recovery tool | https://www.gnu.org/software/ddrescue/ |
@@ -424,7 +424,7 @@
 | **eja** | 18.4.19-1 | eja micro web server | https://github.com/eja/eja |
 | **electric-fence** | 2.2.7-1 | Electric Fence (eFence) malloc memory debugger | https://elinux.org/Electric_Fence |
 | **electric-fence-static** | 2.2.7-1 | Static libraries for electric-fence | https://elinux.org/Electric_Fence |
-| **electrum** | 4.5.8-3 | Electrum is a lightweight Bitcoin wallet | https://electrum.org |
+| **electrum** | 4.5.8-4 | Electrum is a lightweight Bitcoin wallet | https://electrum.org |
 | **elfutils** | 0.193-1 | A collection of utilities to read, create and modify ELF binary files | https://sourceware.org/elfutils/ |
 | **elinks** | 0.19.1 | Full-Featured Text WWW Browser | https://github.com/rkd77/elinks |
 | **elixir** | 1.19.5 | Elixir is a dynamic, functional language designed for building scalable and maintainable applications | https://elixir-lang.org/ |
@@ -475,8 +475,8 @@
 | **fdupes** | 2.4.0-1 | Duplicates file detector | https://github.com/adrianlopezroche/fdupes |
 | **fennel** | 1.6.1 | A Lisp that compiles to Lua | https://fennel-lang.org |
 | **feroxbuster** | 2.13.1 | A fast, simple, recursive content discovery tool written in Rust | https://github.com/epi052/feroxbuster |
-| **fetchmail** | 6.6.2 | A remote-mail retrieval utility | https://www.fetchmail.info/ |
-| **fetchmailconf** | 6.6.2 | A GUI configurator for generating fetchmail configuration files | https://www.fetchmail.info/ |
+| **fetchmail** | 6.6.2-1 | A remote-mail retrieval utility | https://www.fetchmail.info/ |
+| **fetchmailconf** | 6.6.2-1 | A GUI configurator for generating fetchmail configuration files | https://www.fetchmail.info/ |
 | **fff** | 2.2 | A simple file manager written in bash | https://github.com/dylanaraps/fff |
 | **ffmpeg** | 8.0.1-5 | Tools and libraries to manipulate a wide range of multimedia formats and protocols | https://ffmpeg.org |
 | **ffmpegthumbnailer** | 2.2.3-p20251103-0 | Lightweight video thumbnailer that can be used by file managers | https://github.com/dirkvdb/ffmpegthumbnailer |
@@ -525,7 +525,7 @@
 | **fx** | 39.2.0 | Interactive JSON viewer on your terminal | https://github.com/antonmedv/fx |
 | **fzf** | 0.70.0 | Command-line fuzzy finder | https://junegunn.github.io/fzf/ |
 | **fzy** | 1.1-1 | A simple, fast fuzzy finder for the terminal | https://github.com/jhawthorn/fzy |
-| **g-ir-scanner** | 1.86.0 | A tool which generates GIR XML files | https://gi.readthedocs.io/ |
+| **g-ir-scanner** | 1.86.0-1 | A tool which generates GIR XML files | https://gi.readthedocs.io/ |
 | **game-music-emu** | 0.6.4-1 | A collection of video game music file emulators | https://bitbucket.org/mpyne/game-music-emu/wiki/Home |
 | **game-music-emu-static** | 0.6.4-1 | Static libraries for game-music-emu | https://bitbucket.org/mpyne/game-music-emu/wiki/Home |
 | **gap** | 4.15.1 | GAP is a system for computational discrete algebra, with particular emphasis on Computational Group Theory | https://www.gap-system.org/ |
@@ -623,7 +623,7 @@
 | **go-musicfox** | 4.8.0 | A netease music player in terminal. | https://github.com/go-musicfox/go-musicfox |
 | **goaccess** | 1.10.1 | An open source real-time web log analyzer and interactive viewer | https://goaccess.io |
 | **gobang** | 0.1.0-alpha.5-4 | A cross-platform TUI database management tool written in Rust | https://github.com/TaKO8Ki/gobang |
-| **gobject-introspection** | 1.86.0 | Uniform machine readable API | https://gi.readthedocs.io/ |
+| **gobject-introspection** | 1.86.0-1 | Uniform machine readable API | https://gi.readthedocs.io/ |
 | **gogs** | 0.14.2 | A painless self-hosted Git service | https://gogs.io |
 | **gojq** | 0.12.18 | Pure Go implementation of jq | https://github.com/itchyny/gojq |
 | **golang** | 3:1.26.0-1 | Go programming language compiler | https://go.dev/ |
@@ -675,7 +675,7 @@
 | **gst-plugins-base** | 1.28.1 | GStreamer base plug-ins | https://gstreamer.freedesktop.org/ |
 | **gst-plugins-good** | 1.28.1 | GStreamer Good Plug-ins | https://gstreamer.freedesktop.org/ |
 | **gst-plugins-ugly** | 1.28.1 | GStreamer Ugly Plug-ins | https://gstreamer.freedesktop.org/ |
-| **gst-python** | 1.28.1 | Python bindings for GStreamer | https://gstreamer.freedesktop.org/ |
+| **gst-python** | 1.28.1-1 | Python bindings for GStreamer | https://gstreamer.freedesktop.org/ |
 | **gstreamer** | 1.28.1 | Open source multimedia framework | https://gstreamer.freedesktop.org/ |
 | **gtypist** | 2.10.1-1 | Universal typing tutor | https://www.gnu.org/software/gtypist/ |
 | **guile** | 3.0.11-1 | Portable, embeddable Scheme implementation written in C | http://www.gnu.org/software/guile/ |
@@ -1775,7 +1775,7 @@
 | **myrepos** | 1.20180726-4 | Tool to manage all your version control repos | https://myrepos.branchable.com/ |
 | **n-t-roff-sc** | 7.16-1.1.4-0 | A vi-like spreadsheet calculator | https://github.com/n-t-roff/sc |
 | **n2n** | 3.1.1-1 | A light VPN software | https://github.com/ntop/n2n |
-| **nala** | 0.16.0-1 | Commandline frontend for the apt package manager | https://gitlab.com/volian/nala |
+| **nala** | 0.16.0-2 | Commandline frontend for the apt package manager | https://gitlab.com/volian/nala |
 | **nali** | 0.8.1-1 | An offline tool for querying IP geographic information and CDN provider | https://github.com/zu1k/nali |
 | **nano** | 8.7.1 | Small, free and friendly text editor | https://www.nano-editor.org/ |
 | **nasm** | 2.16.03-1 | A cross-platform x86 assembler with an Intel-like syntax | https://nasm.us |
@@ -2053,8 +2053,8 @@
 | **pv** | 1.10.3 | Terminal-based tool for monitoring the progress of data through a pipeline | https://www.ivarch.com/programs/pv.shtml |
 | **pwgen** | 2.08-2 | Password generator which by default, unless given the '-s' option, generates memorable but insecure passwords | http://pwgen.sourceforge.net/ |
 | **pybind11** | 3.0.2 | A lightweight header-only library that exposes C++ types in Python and vice versa | https://pybind11.readthedocs.io/ |
-| **pycairo** | 1.29.0 | Python bindings for the cairo graphics library | https://www.cairographics.org/pycairo/ |
-| **pygobject** | 3.56.0 | Python package which provides bindings for GObject based libraries | https://pygobject.gnome.org/ |
+| **pycairo** | 1.29.0-1 | Python bindings for the cairo graphics library | https://www.cairographics.org/pycairo/ |
+| **pygobject** | 3.56.0-1 | Python package which provides bindings for GObject based libraries | https://pygobject.gnome.org/ |
 | **pypy** | 7.3.20 | A fast, compliant alternative implementation of Python | https://pypy.org |
 | **pypy-tests** | 7.3.20 | Test files for PyPy | https://pypy.org |
 | **pypy-tkinter** | 7.3.20 | Tkinter support for PyPy | https://pypy.org |
@@ -2065,12 +2065,12 @@
 | **pystring** | 1.1.4-1 | C++ functions matching the interface and behavior of python string methods with std::string | https://github.com/imageworks/pystring |
 | **python** | 3.13.12 | Python 3 programming language intended to enable clear programs | https://python.org/ |
 | **python-apsw** | 3.51.2.0 | Another Python SQLite Wrapper | https://rogerbinns.github.io/apsw/ |
-| **python-apt** | 3.1.0 | Python bindings for APT | https://apt-team.pages.debian.net/python-apt/ |
+| **python-apt** | 3.1.0-1 | Python bindings for APT | https://apt-team.pages.debian.net/python-apt/ |
 | **python-bcrypt** | 5.0.0-1 | Acceptable password hashing for your software and your servers | https://github.com/pyca/bcrypt |
 | **python-brotli** | 1.2.0-1 | lossless compression algorithm and format (Python bindings) | https://github.com/google/brotli |
-| **python-cmake** | 4.2.3 | Python wrapper for CMake | https://cmake-python-distributions.readthedocs.io/ |
+| **python-cmake** | 4.2.3-1 | Python wrapper for CMake | https://cmake-python-distributions.readthedocs.io/ |
 | **python-contourpy** | 1.3.3-2 | Python library for calculating contours in 2D quadrilateral grids | https://contourpy.readthedocs.io/ |
-| **python-cryptography** | 46.0.5 | Provides cryptographic recipes and primitives to Python developers | https://github.com/pyca/cryptography |
+| **python-cryptography** | 46.0.5-1 | Provides cryptographic recipes and primitives to Python developers | https://github.com/pyca/cryptography |
 | **python-ensurepip-wheels** | 3.13.12 | Wheels for Python ensurepip | https://python.org/ |
 | **python-greenlet** | 3.3.2-1 | Lightweight coroutines for in-process concurrent programming | https://github.com/python-greenlet/greenlet |
 | **python-grpcio** | 1.78.1 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
@@ -2167,8 +2167,8 @@
 | **readline-static** | 8.3.1-2 | Static libraries for readline | https://tiswww.case.edu/php/chet/readline/rltop.html |
 | **recode** | 3.7.15-1 | Charset converter tool and library | https://github.com/pinard/Recode |
 | **recode-static** | 3.7.15-1 | Static libraries for recode | https://github.com/pinard/Recode |
-| **recoll** | 1.43.13 | Full-text search for your desktop | https://www.recoll.org/ |
-| **recoll-python** | 1.43.13 | Python interface for Recoll | https://www.recoll.org/ |
+| **recoll** | 1.43.13-1 | Full-text search for your desktop | https://www.recoll.org/ |
+| **recoll-python** | 1.43.13-1 | Python interface for Recoll | https://www.recoll.org/ |
 | **recutils** | 1.9-1 | Set of tools and libraries to access human-editable, plain text databases called recfiles | https://www.gnu.org/software/recutils/ |
 | **recutils-static** | 1.9-1 | Static libraries for recutils | https://www.gnu.org/software/recutils/ |
 | **redir** | 3.3-3 | TCP port redirector for UNIX | https://github.com/troglobit/redir |
@@ -2314,8 +2314,8 @@
 | **sox** | 14.4.2-28 | Command line utility for converting between and applying effects to various audio files formats | https://sox.sourceforge.net/ |
 | **sox-static** | 14.4.2-28 | Static libraries for sox | https://sox.sourceforge.net/ |
 | **spatialite-tools** | 5.0.1-5 | Collection of tools supporting SpatiaLite | https://www.gaia-gis.it/fossil/spatialite-tools |
-| **speechd** | 0.12.1 | Common interface to speech synthesis | https://github.com/brailcom/speechd |
-| **speechd-data** | 0.12.1 | Platform-independent data for speechd | https://github.com/brailcom/speechd |
+| **speechd** | 0.12.1-1 | Common interface to speech synthesis | https://github.com/brailcom/speechd |
+| **speechd-data** | 0.12.1-1 | Platform-independent data for speechd | https://github.com/brailcom/speechd |
 | **speedtest-go** | 1.7.10-1 | Command line interface to test internet speed using speedtest.net | https://github.com/showwin/speedtest-go/ |
 | **speex-utils** | 1.2.1-1 | Speex command line tools | https://www.speex.org/ |
 | **speexdsp** | 1.2.1-1 | Speex audio processing library | https://speex.org/ |
@@ -2464,7 +2464,7 @@
 | **tinyproxy** | 1.11.2-1 | Light-weight HTTP proxy daemon for POSIX operating systems | https://tinyproxy.github.io/ |
 | **tinyscheme** | 1.42-2 | Very small scheme implementation | https://tinyscheme.sourceforge.net/home.html |
 | **tinysparql** | 3.10.1 | Desktop-neutral metadata-based search framework | https://gnome.pages.gitlab.gnome.org/tinysparql |
-| **tizonia** | 0.22.0-22 | A command-line streaming music client/server for Linux | https://github.com/tizonia/ |
+| **tizonia** | 0.22.0-23 | A command-line streaming music client/server for Linux | https://github.com/tizonia/ |
 | **tk** | 8.6.14-1 | A windowing toolkit for use with tcl | https://tcl.sourceforge.net/ |
 | **tmate** | 2.4.0-3 | Terminal multiplexer with instant terminal sharing | https://tmate.io |
 | **tmux** | 3.6a | Terminal multiplexer | https://tmux.github.io/ |
@@ -2540,7 +2540,7 @@
 | **typstfmt** | 0.2.10-1 | basic formatter for the Typst language | https://github.com/astrale-sharp/typstfmt |
 | **uchardet** | 0.0.8-2 | An encoding detector utility | https://www.freedesktop.org/wiki/Software/uchardet/ |
 | **udftools** | 2.3-1 | Linux tools for UDF filesystems and DVD/CD-R(W) drives | https://github.com/pali/udftools |
-| **udocker** | 1.3.17 | A basic user tool to execute simple docker containers in batch or interactive systems without root privileges. | https://indigo-dc.github.io/udocker |
+| **udocker** | 1.3.17-1 | A basic user tool to execute simple docker containers in batch or interactive systems without root privileges. | https://indigo-dc.github.io/udocker |
 | **uftrace** | 0.19 | Function (graph) tracer for user-space | https://uftrace.github.io/slide |
 | **ugrep** | 7.5.0-1 | A faster, user-friendly and compatible grep replacement | https://github.com/Genivia/ugrep |
 | **unar** | 1.10.8-3 | Command line tools for archive and file unarchiving and extraction | https://theunarchiver.com/command-line |
@@ -2589,7 +2589,7 @@
 | **valkey-static** | 9.0.3 | Static libraries for valkey | https://valkey.io/ |
 | **vamp-plugin-sdk** | 2.10-3 | An API for audio analysis and feature extraction plugins | https://www.vamp-plugins.org/ |
 | **vamp-plugin-sdk-static** | 2.10-3 | Static libraries for vamp-plugin-sdk | https://www.vamp-plugins.org/ |
-| **vapoursynth** | 73 | Video processing framework with simplicity in mind | https://www.vapoursynth.com/ |
+| **vapoursynth** | 73-1 | Video processing framework with simplicity in mind | https://www.vapoursynth.com/ |
 | **vbindiff** | 3.0-beta5-1 | Visual binary diff | https://www.cjmweb.net/vbindiff/ |
 | **vcsh** | 2.0.10 | Config manager based on Git | https://github.com/RichiH/vcsh |
 | **vde2** | 2.3.3-5 | Virtual Distributed Ethernet for emulators like qemu | https://github.com/virtualsquare/vde-2 |
