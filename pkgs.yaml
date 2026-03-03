@@ -1083,7 +1083,7 @@
   Description: CPIO implementation from the GNU project
   Homepage: https://www.gnu.org/software/cpio/
 - Package: cppcheck
-  Version: 2.19.1
+  Version: 2.20.0
   Description: tool for static C/C++ code analysis
   Homepage: https://github.com/danmar/cppcheck
 - Package: cppi
@@ -8651,7 +8651,7 @@
   Description: In-memory data structure store used as a database, cache and message broker
   Homepage: https://redis.io/
 - Package: remind
-  Version: 1:06.02.04
+  Version: 1:06.02.05
   Description: Sophisticated calendar and alarm program
   Homepage: https://dianne.skoll.ca/projects/remind/
 - Package: renameutils
