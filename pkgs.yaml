@@ -591,7 +591,7 @@
   Description: A blog compiler
   Homepage: https://blogc.rgm.io/
 - Package: blueprint-compiler
-  Version: 0.20.0
+  Version: 0.20.0-1
   Description: Markup language for GTK user interfaces
   Homepage: https://gnome.pages.gitlab.gnome.org/blueprint-compiler/
 - Package: bmon
@@ -627,7 +627,7 @@
   Description: Bore is a simple CLI tool for making tunnels to localhost
   Homepage: https://github.com/ekzhang/bore
 - Package: borgbackup
-  Version: 1.4.3-1
+  Version: 1.4.3-2
   Description: Deduplicating and compressing backup program
   Homepage: https://www.borgbackup.org/
 - Package: botan3
@@ -931,7 +931,7 @@
   Description: Static libraries for clamav
   Homepage: https://www.clamav.net/
 - Package: clang
-  Version: 21.1.8
+  Version: 21.1.8-1
   Description: C language frontend for LLVM
   Homepage: https://clang.llvm.org/
 - Package: clblast
@@ -3771,7 +3771,7 @@
   Description: A host of helper utilities for the java.lang API
   Homepage: https://commons.apache.org/proper/commons-lang/
 - Package: libcompiler-rt
-  Version: 21.1.8
+  Version: 21.1.8-1
   Description: Compiler runtime libraries for clang
   Homepage: https://clang.llvm.org/
 - Package: libconfig
@@ -4519,11 +4519,11 @@
   Description: Static libraries for libliquid-dsp
   Homepage: https://liquidsdr.org/
 - Package: libllvm
-  Version: 21.1.8
+  Version: 21.1.8-1
   Description: Modular compiler and toolchain technologies library
   Homepage: https://clang.llvm.org/
 - Package: libllvm-static
-  Version: 21.1.8
+  Version: 21.1.8-1
   Description: Static libraries for libllvm
   Homepage: https://clang.llvm.org/
 - Package: liblmdb
@@ -5151,7 +5151,7 @@
   Description: A comprehensive set of C++ libraries that cover all modern-day programming needs
   Homepage: https://pocoproject.org/
 - Package: libpolly
-  Version: 21.1.8
+  Version: 21.1.8-1
   Description: High-level loop and data-locality optimizer for clang
   Homepage: https://clang.llvm.org/
 - Package: libpopt
@@ -6099,15 +6099,15 @@
   Description: A C library for creating Excel XLSX files
   Homepage: https://libxlsxwriter.github.io/
 - Package: libxml2
-  Version: 2.15.1-1
+  Version: 2.15.1-2
   Description: Library for parsing XML documents
   Homepage: https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home
 - Package: libxml2-python
-  Version: 2.15.1-1
+  Version: 2.15.1-2
   Description: Python bindings for libxml2
   Homepage: https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home
 - Package: libxml2-utils
-  Version: 2.15.1-1
+  Version: 2.15.1-2
   Description: XML utilities
   Homepage: https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home
 - Package: libxmlb
@@ -6279,15 +6279,15 @@
   Description: A low-level build system, used by the Swift Package Manager
   Homepage: https://github.com/swiftlang/swift-llbuild
 - Package: lld
-  Version: 21.1.8
+  Version: 21.1.8-1
   Description: LLVM-based linker
   Homepage: https://clang.llvm.org/
 - Package: lldb
-  Version: 21.1.8
+  Version: 21.1.8-1
   Description: LLVM-based debugger
   Homepage: https://clang.llvm.org/
 - Package: llvm
-  Version: 21.1.8
+  Version: 21.1.8-1
   Description: LLVM modular compiler and toolchain executables
   Homepage: https://clang.llvm.org/
 - Package: llvm-mingw-w64
@@ -6307,7 +6307,7 @@
   Description: MinGW-w64 runtime for LLVM-MinGW
   Homepage: https://github.com/mstorsjo/llvm-mingw
 - Package: llvm-tools
-  Version: 21.1.8
+  Version: 21.1.8-1
   Description: LLVM Development Tools
   Homepage: https://clang.llvm.org/
 - Package: lnav
@@ -6847,7 +6847,7 @@
   Description: command line utility to create BitTorrent metainfo files
   Homepage: https://github.com/Rudde/mktorrent
 - Package: mlir
-  Version: 21.1.8
+  Version: 21.1.8-1
   Description: A Multi-Level Intermediate Representation for compilers from LLVM
   Homepage: https://clang.llvm.org/
 - Package: mlocate
@@ -8167,7 +8167,7 @@
   Description: Password generator which by default, unless given the -s option, generates memorable but insecure passwords
   Homepage: http://pwgen.sourceforge.net/
 - Package: pybind11
-  Version: 3.0.2
+  Version: 3.0.2-1
   Description: A lightweight header-only library that exposes C++ types in Python and vice versa
   Homepage: https://pybind11.readthedocs.io/
 - Package: pycairo
@@ -8263,11 +8263,11 @@
   Description: A straightforward binding of libsass for Python
   Homepage: https://github.com/sass/libsass-python
 - Package: python-llvmlite
-  Version: 0.46.0-1
+  Version: 0.46.0-2
   Description: A lightweight LLVM python binding for writing JIT compilers
   Homepage: https://llvmlite.pydata.org/
 - Package: python-lxml
-  Version: 6.0.2
+  Version: 6.0.2-1
   Description: Python binding for the libxml2 and libxslt libraries
   Homepage: https://github.com/lxml/lxml
 - Package: python-msgpack
@@ -8311,7 +8311,7 @@
   Description: An extremely fast Python linter, written in Rust (Python bindings)
   Homepage: https://github.com/charliermarsh/ruff
 - Package: python-sabyenc3
-  Version: 9.3.2
+  Version: 9.3.2-1
   Description: C implementations of functions for use within SABnzbd
   Homepage: https://github.com/sabnzbd/sabctools
 - Package: python-skia-pathops
@@ -8331,7 +8331,7 @@
   Description: Tkinter support for Python 3
   Homepage: https://python.org/
 - Package: python-tldp
-  Version: 0.7.5-6
+  Version: 0.7.5-7
   Description: Tools for publishing from TLDP sources
   Homepage: https://github.com/tLDP/python-tldp
 - Package: python-torch
@@ -8355,7 +8355,7 @@
   Description: Datasets, Transforms and Models specific to Computer Vision
   Homepage: https://github.com/pytorch/vision
 - Package: python-xcbgen
-  Version: 1.17.0-1
+  Version: 1.17.0-2
   Description: The xcbgen Python module
   Homepage: https://xcb.freedesktop.org/
 - Package: python-xlib
@@ -8595,7 +8595,7 @@
   Description: Remote incremental backup
   Homepage: https://github.com/librsync/librsync
 - Package: rdiff-backup
-  Version: 2.2.6-4
+  Version: 2.2.6-5
   Description: A utility for local/remote mirroring and incremental backups
   Homepage: https://rdiff-backup.net
 - Package: rdircd
@@ -9643,7 +9643,7 @@
   Description: Static libraries for termux-api
   Homepage: https://wiki.termux.com/wiki/Termux:API
 - Package: termux-apt-repo
-  Version: 0.5-1
+  Version: 0.5-2
   Description: Script to create Termux apt repositories
   Homepage: https://github.com/termux/termux-apt-repo
 - Package: termux-auth
@@ -10647,7 +10647,7 @@
   Description: Basic tools for the Xapian search engine
   Homepage: https://xapian.org
 - Package: xcb-proto
-  Version: 1.17.0-1
+  Version: 1.17.0-2
   Description: XML-XCB protocol descriptions
   Homepage: https://xcb.freedesktop.org/
 - Package: xdelta3

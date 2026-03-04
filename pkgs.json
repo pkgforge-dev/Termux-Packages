@@ -889,7 +889,7 @@
   },
   {
     "Package": "blueprint-compiler",
-    "Version": "0.20.0",
+    "Version": "0.20.0-1",
     "Description": "Markup language for GTK user interfaces",
     "Homepage": "https://gnome.pages.gitlab.gnome.org/blueprint-compiler/"
   },
@@ -943,7 +943,7 @@
   },
   {
     "Package": "borgbackup",
-    "Version": "1.4.3-1",
+    "Version": "1.4.3-2",
     "Description": "Deduplicating and compressing backup program",
     "Homepage": "https://www.borgbackup.org/"
   },
@@ -1399,7 +1399,7 @@
   },
   {
     "Package": "clang",
-    "Version": "21.1.8",
+    "Version": "21.1.8-1",
     "Description": "C language frontend for LLVM",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -5659,7 +5659,7 @@
   },
   {
     "Package": "libcompiler-rt",
-    "Version": "21.1.8",
+    "Version": "21.1.8-1",
     "Description": "Compiler runtime libraries for clang",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -6781,13 +6781,13 @@
   },
   {
     "Package": "libllvm",
-    "Version": "21.1.8",
+    "Version": "21.1.8-1",
     "Description": "Modular compiler and toolchain technologies library",
     "Homepage": "https://clang.llvm.org/"
   },
   {
     "Package": "libllvm-static",
-    "Version": "21.1.8",
+    "Version": "21.1.8-1",
     "Description": "Static libraries for libllvm",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -7729,7 +7729,7 @@
   },
   {
     "Package": "libpolly",
-    "Version": "21.1.8",
+    "Version": "21.1.8-1",
     "Description": "High-level loop and data-locality optimizer for clang",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -9151,19 +9151,19 @@
   },
   {
     "Package": "libxml2",
-    "Version": "2.15.1-1",
+    "Version": "2.15.1-2",
     "Description": "Library for parsing XML documents",
     "Homepage": "https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home"
   },
   {
     "Package": "libxml2-python",
-    "Version": "2.15.1-1",
+    "Version": "2.15.1-2",
     "Description": "Python bindings for libxml2",
     "Homepage": "https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home"
   },
   {
     "Package": "libxml2-utils",
-    "Version": "2.15.1-1",
+    "Version": "2.15.1-2",
     "Description": "XML utilities",
     "Homepage": "https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home"
   },
@@ -9421,19 +9421,19 @@
   },
   {
     "Package": "lld",
-    "Version": "21.1.8",
+    "Version": "21.1.8-1",
     "Description": "LLVM-based linker",
     "Homepage": "https://clang.llvm.org/"
   },
   {
     "Package": "lldb",
-    "Version": "21.1.8",
+    "Version": "21.1.8-1",
     "Description": "LLVM-based debugger",
     "Homepage": "https://clang.llvm.org/"
   },
   {
     "Package": "llvm",
-    "Version": "21.1.8",
+    "Version": "21.1.8-1",
     "Description": "LLVM modular compiler and toolchain executables",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -9463,7 +9463,7 @@
   },
   {
     "Package": "llvm-tools",
-    "Version": "21.1.8",
+    "Version": "21.1.8-1",
     "Description": "LLVM Development Tools",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -10273,7 +10273,7 @@
   },
   {
     "Package": "mlir",
-    "Version": "21.1.8",
+    "Version": "21.1.8-1",
     "Description": "A Multi-Level Intermediate Representation for compilers from LLVM",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -12253,7 +12253,7 @@
   },
   {
     "Package": "pybind11",
-    "Version": "3.0.2",
+    "Version": "3.0.2-1",
     "Description": "A lightweight header-only library that exposes C++ types in Python and vice versa",
     "Homepage": "https://pybind11.readthedocs.io/"
   },
@@ -12397,13 +12397,13 @@
   },
   {
     "Package": "python-llvmlite",
-    "Version": "0.46.0-1",
+    "Version": "0.46.0-2",
     "Description": "A lightweight LLVM python binding for writing JIT compilers",
     "Homepage": "https://llvmlite.pydata.org/"
   },
   {
     "Package": "python-lxml",
-    "Version": "6.0.2",
+    "Version": "6.0.2-1",
     "Description": "Python binding for the libxml2 and libxslt libraries",
     "Homepage": "https://github.com/lxml/lxml"
   },
@@ -12469,7 +12469,7 @@
   },
   {
     "Package": "python-sabyenc3",
-    "Version": "9.3.2",
+    "Version": "9.3.2-1",
     "Description": "C implementations of functions for use within SABnzbd",
     "Homepage": "https://github.com/sabnzbd/sabctools"
   },
@@ -12499,7 +12499,7 @@
   },
   {
     "Package": "python-tldp",
-    "Version": "0.7.5-6",
+    "Version": "0.7.5-7",
     "Description": "Tools for publishing from TLDP sources",
     "Homepage": "https://github.com/tLDP/python-tldp"
   },
@@ -12535,7 +12535,7 @@
   },
   {
     "Package": "python-xcbgen",
-    "Version": "1.17.0-1",
+    "Version": "1.17.0-2",
     "Description": "The xcbgen Python module",
     "Homepage": "https://xcb.freedesktop.org/"
   },
@@ -12895,7 +12895,7 @@
   },
   {
     "Package": "rdiff-backup",
-    "Version": "2.2.6-4",
+    "Version": "2.2.6-5",
     "Description": "A utility for local/remote mirroring and incremental backups",
     "Homepage": "https://rdiff-backup.net"
   },
@@ -14467,7 +14467,7 @@
   },
   {
     "Package": "termux-apt-repo",
-    "Version": "0.5-1",
+    "Version": "0.5-2",
     "Description": "Script to create Termux apt repositories",
     "Homepage": "https://github.com/termux/termux-apt-repo"
   },
@@ -15973,7 +15973,7 @@
   },
   {
     "Package": "xcb-proto",
-    "Version": "1.17.0-1",
+    "Version": "1.17.0-2",
     "Description": "XML-XCB protocol descriptions",
     "Homepage": "https://xcb.freedesktop.org/"
   },
