@@ -367,7 +367,7 @@
   Description: AT and batch delayed command scheduling utility and daemon
   Homepage: https://salsa.debian.org/debian/at
 - Package: at-spi2-core
-  Version: 2.58.3-1
+  Version: 2.58.3-3
   Description: Assistive Technology Service Provider Interface (AT-SPI)
   Homepage: https://wiki.gnome.org/Accessibility
 - Package: atomicparsley
@@ -591,7 +591,7 @@
   Description: A blog compiler
   Homepage: https://blogc.rgm.io/
 - Package: blueprint-compiler
-  Version: 0.20.0-1
+  Version: 0.20.0-2
   Description: Markup language for GTK user interfaces
   Homepage: https://gnome.pages.gitlab.gnome.org/blueprint-compiler/
 - Package: bmon
@@ -8251,7 +8251,7 @@
   Description: Lightweight coroutines for in-process concurrent programming
   Homepage: https://github.com/python-greenlet/greenlet
 - Package: python-grpcio
-  Version: 1.78.1
+  Version: 1.78.1-1
   Description: High performance, open source, general RPC framework that puts mobile and HTTP/2 first
   Homepage: https://grpc.io/
 - Package: python-lameenc
@@ -8315,7 +8315,7 @@
   Description: C implementations of functions for use within SABnzbd
   Homepage: https://github.com/sabnzbd/sabctools
 - Package: python-skia-pathops
-  Version: 0.9.2
+  Version: 0.9.2-1
   Description: Python bindings for the Skia librarys Path Ops
   Homepage: https://github.com/fonttools/skia-pathops
 - Package: python-static
@@ -8335,23 +8335,23 @@
   Description: Tools for publishing from TLDP sources
   Homepage: https://github.com/tLDP/python-tldp
 - Package: python-torch
-  Version: 2.10.0
+  Version: 2.10.0-1
   Description: Tensors and Dynamic neural networks in Python
   Homepage: https://pytorch.org/
 - Package: python-torch-static
-  Version: 2.10.0
+  Version: 2.10.0-1
   Description: Static libraries for python-torch
   Homepage: https://pytorch.org/
 - Package: python-torchaudio
-  Version: 2.10.0
+  Version: 2.10.0-1
   Description: Data manipulation and transformation for audio signal processing, powered by PyTorch
   Homepage: https://github.com/pytorch/audio
 - Package: python-torchcodec
-  Version: 0.10.0
+  Version: 0.10.0-1
   Description: PyTorch media decoding and encoding
   Homepage: https://github.com/pytorch/torchcodec
 - Package: python-torchvision
-  Version: 0.25.0
+  Version: 0.25.0-1
   Description: Datasets, Transforms and Models specific to Computer Vision
   Homepage: https://github.com/pytorch/vision
 - Package: python-xcbgen
@@ -9643,7 +9643,7 @@
   Description: Static libraries for termux-api
   Homepage: https://wiki.termux.com/wiki/Termux:API
 - Package: termux-apt-repo
-  Version: 0.5-2
+  Version: 0.5-3
   Description: Script to create Termux apt repositories
   Homepage: https://github.com/termux/termux-apt-repo
 - Package: termux-auth
@@ -10775,7 +10775,7 @@
   Description: A lightweight and portable command-line YAML, JSON and XML processor
   Homepage: https://mikefarah.gitbook.io/yq/
 - Package: yt-dlp-ejs
-  Version: 0.5.0
+  Version: 0.5.0-2
   Description: External JavaScript for yt-dlp supporting many runtimes
   Homepage: https://github.com/yt-dlp/ejs
 - Package: ytfzf

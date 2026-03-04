@@ -90,7 +90,7 @@
  assimp  6.0.4  Library to import various well-known 3D model formats in an uniform manner  https://assimp.sourceforge.net/index.html 
  asymptote  3.09  A powerful descriptive vector graphics language for technical drawing  https://asymptote.sourceforge.io/ 
  at  3.2.5-2  AT and batch delayed command scheduling utility and daemon  https://salsa.debian.org/debian/at 
- at-spi2-core  2.58.3-1  Assistive Technology Service Provider Interface (AT-SPI)  https://wiki.gnome.org/Accessibility 
+ at-spi2-core  2.58.3-3  Assistive Technology Service Provider Interface (AT-SPI)  https://wiki.gnome.org/Accessibility 
  atomicparsley  1:20240608.083822.1ed9031-1  Read, parse and set metadata of MPEG-4 and 3gp files  https://github.com/wez/atomicparsley 
  atomvm  1:0.6.6-1  The minimal Erlang VM implementation  https://github.com/bettio/AtomVM 
  atool  0.39.0-1  tool for managing file archives of various types  https://www.nongnu.org/atool 
@@ -146,7 +146,7 @@
  blink  1:1.1.0-1  Tiny x86-64 Linux emulator  https://justine.lol/blinkenlights/ 
  blk-utils  2.41.3  Utilities for handling block device attributes  https://en.wikipedia.org/wiki/Util-linux 
  blogc  0.20.1-1  A blog compiler  https://blogc.rgm.io/ 
- blueprint-compiler  0.20.0-1  Markup language for GTK user interfaces  https://gnome.pages.gitlab.gnome.org/blueprint-compiler/ 
+ blueprint-compiler  0.20.0-2  Markup language for GTK user interfaces  https://gnome.pages.gitlab.gnome.org/blueprint-compiler/ 
  bmon  4.0-4  Bandwidth monitor and rate estimator  https://github.com/tgraf/bmon 
  boinc  8.2.8  Open-source software for volunteer computing  https://boinc.berkeley.edu/ 
  boinctui  2.7.2  curses based manager for Boinc client  https://sourceforge.net/projects/boinctui/ 
@@ -2061,7 +2061,7 @@
  python-cryptography  46.0.5-1  Provides cryptographic recipes and primitives to Python developers  https://github.com/pyca/cryptography 
  python-ensurepip-wheels  3.13.12  Wheels for Python ensurepip  https://python.org/ 
  python-greenlet  3.3.2-1  Lightweight coroutines for in-process concurrent programming  https://github.com/python-greenlet/greenlet 
- python-grpcio  1.78.1  High performance, open source, general RPC framework that puts mobile and HTTP/2 first  https://grpc.io/ 
+ python-grpcio  1.78.1-1  High performance, open source, general RPC framework that puts mobile and HTTP/2 first  https://grpc.io/ 
  python-lameenc  1.8.1-2  Python bindings around the LAME encoder  https://github.com/chrisstaite/lameenc 
  python-libsass  0.23.0-2  A straightforward binding of libsass for Python  https://github.com/sass/libsass-python 
  python-llvmlite  0.46.0-2  A lightweight LLVM python binding for writing JIT compilers  https://llvmlite.pydata.org/ 
@@ -2077,16 +2077,16 @@
  python-pynvim  0.6.0-2  Python client for Neovim  https://github.com/neovim/pynvim 
  python-ruff  0.15.4-1  An extremely fast Python linter, written in Rust (Python bindings)  https://github.com/charliermarsh/ruff 
  python-sabyenc3  9.3.2-1  C implementations of functions for use within SABnzbd  https://github.com/sabnzbd/sabctools 
- python-skia-pathops  0.9.2  Python bindings for the Skia library's Path Ops  https://github.com/fonttools/skia-pathops 
+ python-skia-pathops  0.9.2-1  Python bindings for the Skia library's Path Ops  https://github.com/fonttools/skia-pathops 
  python-static  3.13.12  Static libraries for python  https://python.org/ 
  python-tflite-runtime  2.20.0-2  TensorFlow Lite Python bindings  https://www.tensorflow.org/lite 
  python-tkinter  3.13.12  Tkinter support for Python 3  https://python.org/ 
  python-tldp  0.7.5-7  Tools for publishing from TLDP sources  https://github.com/tLDP/python-tldp 
- python-torch  2.10.0  Tensors and Dynamic neural networks in Python  https://pytorch.org/ 
- python-torch-static  2.10.0  Static libraries for python-torch  https://pytorch.org/ 
- python-torchaudio  2.10.0  Data manipulation and transformation for audio signal processing, powered by PyTorch  https://github.com/pytorch/audio 
- python-torchcodec  0.10.0  PyTorch media decoding and encoding  https://github.com/pytorch/torchcodec 
- python-torchvision  0.25.0  Datasets, Transforms and Models specific to Computer Vision  https://github.com/pytorch/vision 
+ python-torch  2.10.0-1  Tensors and Dynamic neural networks in Python  https://pytorch.org/ 
+ python-torch-static  2.10.0-1  Static libraries for python-torch  https://pytorch.org/ 
+ python-torchaudio  2.10.0-1  Data manipulation and transformation for audio signal processing, powered by PyTorch  https://github.com/pytorch/audio 
+ python-torchcodec  0.10.0-1  PyTorch media decoding and encoding  https://github.com/pytorch/torchcodec 
+ python-torchvision  0.25.0-1  Datasets, Transforms and Models specific to Computer Vision  https://github.com/pytorch/vision 
  python-xcbgen  1.17.0-2  The xcbgen Python module  https://xcb.freedesktop.org/ 
  python-xlib  0.33-3  The Python X Library  https://github.com/python-xlib/python-xlib 
  python-yt-dlp  2026.02.21-1  A youtube-dl fork with additional features and fixes  https://github.com/yt-dlp/yt-dlp 
@@ -2409,7 +2409,7 @@
  termux-am-socket  1.5.0-1  A faster version of am with less features that only works while Termux is running  https://github.com/termux/termux-am-socket 
  termux-api  0.59.1-1  Termux API commands (install also the Termux:API app)  https://wiki.termux.com/wiki/Termux:API 
  termux-api-static  0.59.1-1  Static libraries for termux-api  https://wiki.termux.com/wiki/Termux:API 
- termux-apt-repo  0.5-2  Script to create Termux apt repositories  https://github.com/termux/termux-apt-repo 
+ termux-apt-repo  0.5-3  Script to create Termux apt repositories  https://github.com/termux/termux-apt-repo 
  termux-auth  1.5.0-1  Password authentication library and utility for Termux  https://github.com/termux/termux-auth 
  termux-core  0.4.0-1  Utils and libraries for Termux core  https://github.com/termux/termux-core-package 
  termux-core-static  0.4.0-1  Static libraries for termux-core  https://github.com/termux/termux-core-package 
@@ -2692,7 +2692,7 @@
  yosys  0.62  A framework for RTL synthesis tools  https://yosyshq.net/yosys/ 
  youtubedr  2.10.5  Download youtube video in Golang  https://github.com/kkdai/youtube 
  yq  4.52.4  A lightweight and portable command-line YAML, JSON and XML processor  https://mikefarah.gitbook.io/yq/ 
- yt-dlp-ejs  0.5.0  External JavaScript for yt-dlp supporting many runtimes  https://github.com/yt-dlp/ejs 
+ yt-dlp-ejs  0.5.0-2  External JavaScript for yt-dlp supporting many runtimes  https://github.com/yt-dlp/ejs 
  ytfzf  2.6.2  A POSIX script that helps you find Youtube videos (without API)  https://github.com/pystardust/ytfzf 
  ytui-music  2.0.0-beta-4  Youtube client in terminal for music  https://github.com/sudipghimire533/ytui-music 
  yuma123  2.13-4  Provides an opensource YANG API in C  https://yuma123.org/ 
