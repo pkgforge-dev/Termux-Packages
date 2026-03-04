@@ -843,7 +843,7 @@
 | **ldd** | 0.3 | Fake ldd command | https://github.com/termux/termux-packages |
 | **ldns** | 1.8.4-1 | Library for simplifying DNS programming and supporting recent and experimental RFCs | https://www.nlnetlabs.nl/projects/ldns/ |
 | **ldns-static** | 1.8.4-1 | Static libraries for ldns | https://www.nlnetlabs.nl/projects/ldns/ |
-| **ledger** | 3.4.1-1 | Powerful, double-entry accounting system | https://www.ledger-cli.org |
+| **ledger** | 3.4.1-2 | Powerful, double-entry accounting system | https://www.ledger-cli.org |
 | **lego** | 4.32.0 | Let's Encrypt/ACME client and library written in Go | https://github.com/go-acme/lego |
 | **leptonica** | 1.87.0 | Library for image processing and image analysis | http://www.leptonica.com/ |
 | **leptonica-static** | 1.87.0 | Static libraries for leptonica | http://www.leptonica.com/ |
@@ -892,7 +892,7 @@
 | **libapt-pkg-perl** | 0.1.40-14 | Perl interface to APT's libapt-pkg | https://packages.debian.org/libapt-pkg-perl |
 | **libarchive** | 3.8.5 | Multi-format archive and compression library | https://www.libarchive.org/ |
 | **libarchive-static** | 3.8.5 | Static libraries for libarchive | https://www.libarchive.org/ |
-| **libarrow-cpp** | 23.0.1 | C++ libraries for Apache Arrow | https://github.com/apache/arrow |
+| **libarrow-cpp** | 23.0.1-1 | C++ libraries for Apache Arrow | https://github.com/apache/arrow |
 | **libasio** | 1.36.0 | Cross-platform C++ library for network and low-level I/O programming | https://think-async.com/Asio |
 | **libasm** | 0.193-1 | Library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |
 | **libasm-static** | 0.193-1 | Static library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |
@@ -1341,8 +1341,8 @@
 | **libsasl-static** | 2.1.28-2 | Static libraries for libsasl | https://www.cyrusimap.org/sasl/ |
 | **libsass** | 3.6.6-1 | Sass compiler written in C++ | https://github.com/sass/libsass |
 | **libsass-static** | 3.6.6-1 | Static libraries for libsass | https://github.com/sass/libsass |
-| **libsearpc** | 1:3.2.0-7 | A simple C language RPC framework (mainly for seafile) | https://github.com/haiwen/libsearpc |
-| **libsearpc-static** | 1:3.2.0-7 | Static libraries for libsearpc | https://github.com/haiwen/libsearpc |
+| **libsearpc** | 1:3.2.0-8 | A simple C language RPC framework (mainly for seafile) | https://github.com/haiwen/libsearpc |
+| **libsearpc-static** | 1:3.2.0-8 | Static libraries for libsearpc | https://github.com/haiwen/libsearpc |
 | **libseat** | 0.9.3 | Reference implementation of a wayland compositor | https://sr.ht/~kennylevinsen/seatd/ |
 | **libseccomp** | 2.6.0 | Enhanced seccomp library | https://github.com/seccomp/libseccomp |
 | **libseccomp-static** | 2.6.0 | Static libraries for libseccomp | https://github.com/seccomp/libseccomp |
@@ -1432,7 +1432,7 @@
 | **libtommath-static** | 1.3.0 | Static libraries for libtommath | https://www.libtom.net/LibTomMath/ |
 | **libtool** | 2.5.4-2 | Generic library support script hiding the complexity of using shared libraries behind a consistent, portable interface | https://www.gnu.org/software/libtool/ |
 | **libtorrent** | 0.16.6-1 | Libtorrent BitTorrent library | https://github.com/rakshasa/rtorrent/wiki |
-| **libtorrent-rasterbar** | 2.0.11-5 | A feature complete C++ bittorrent implementation focusing on efficiency and scalability | https://libtorrent.org/ |
+| **libtorrent-rasterbar** | 2.0.11-6 | A feature complete C++ bittorrent implementation focusing on efficiency and scalability | https://libtorrent.org/ |
 | **libtorrent-static** | 0.16.6-1 | Static libraries for libtorrent | https://github.com/rakshasa/rtorrent/wiki |
 | **libtpms** | 0.10.2 | Provides software emulation of a Trusted Platform Module (TPM 1.2 and TPM 2.0) | https://github.com/stefanberger/libtpms |
 | **libtpms-static** | 0.10.2 | Static libraries for libtpms | https://github.com/stefanberger/libtpms |
@@ -1654,7 +1654,7 @@
 | **markdown-flashcards** | 2.0.1 | Small CLI app to learn with flashcards and spaced repetition | https://github.com/bttger/markdown-flashcards |
 | **marksman** | 2026.02.08 | LSP language server for editing Markdown files | https://github.com/artempyanykh/marksman |
 | **mathomatic** | 16.0.5-7 | Simple CAS and symbolic calculator | https://en.wikipedia.org/wiki/Mathomatic |
-| **matplotlib** | 3.10.8-1 | A comprehensive library for creating static, animated, and interactive visualizations in Python | https://matplotlib.org/ |
+| **matplotlib** | 3.10.8-2 | A comprehensive library for creating static, animated, and interactive visualizations in Python | https://matplotlib.org/ |
 | **matterbridge** | 1.26.0-4 | A simple chat bridge | https://github.com/42wim/matterbridge |
 | **matterircd** | 0.28.0-1 | Connect to your mattermost or slack using your IRC-client of choice | https://github.com/42wim/matterircd |
 | **matugen** | 4.0.0 | A material you color generation tool with templates | https://github.com/InioX/matugen |
@@ -1928,9 +1928,9 @@
 | **p7zip** | 17.06-1 | Command-line version of the 7zip compressed file archiver | https://github.com/p7zip-project/p7zip |
 | **pacman** | 7.1.0-1 | A library-based package manager with dependency support | https://archlinux.org/pacman/ |
 | **pacman4console** | 1.3-5 | A 9 level ncurses pacman game with editor | https://sites.google.com/site/doctormike/pacman.html |
-| **panda3d** | 1.10.16 | A framework for 3D rendering and game development for Python and C++ programs | https://www.panda3d.org/ |
-| **panda3d-samples** | 1.10.16 | Python sample programs that use Panda3D | https://www.panda3d.org/ |
-| **panda3d-static** | 1.10.16 | Static libraries for panda3d | https://www.panda3d.org/ |
+| **panda3d** | 1.10.16-1 | A framework for 3D rendering and game development for Python and C++ programs | https://www.panda3d.org/ |
+| **panda3d-samples** | 1.10.16-1 | Python sample programs that use Panda3D | https://www.panda3d.org/ |
+| **panda3d-static** | 1.10.16-1 | Static libraries for panda3d | https://www.panda3d.org/ |
 | **pango** | 1.57.0 | Library for laying out and rendering text | https://www.gtk.org/docs/architecture/pango |
 | **paperkey** | 1.6-1 | Archive OpenPGP keys on paper | http://www.jabberwocky.com/software/paperkey/ |
 | **par2** | 1.1.1 | par2cmdline is a PAR 2.0 compatible file verification and repair tool | https://github.com/Parchive/par2cmdline |
@@ -2064,27 +2064,27 @@
 | **pyrefly** | 0.54.0 | A fast type checker and language server for Python | https://github.com/facebook/pyrefly.git |
 | **pystring** | 1.1.4-1 | C++ functions matching the interface and behavior of python string methods with std::string | https://github.com/imageworks/pystring |
 | **python** | 3.13.12 | Python 3 programming language intended to enable clear programs | https://python.org/ |
-| **python-apsw** | 3.51.2.0 | Another Python SQLite Wrapper | https://rogerbinns.github.io/apsw/ |
+| **python-apsw** | 3.51.2.0-1 | Another Python SQLite Wrapper | https://rogerbinns.github.io/apsw/ |
 | **python-apt** | 3.1.0-1 | Python bindings for APT | https://apt-team.pages.debian.net/python-apt/ |
-| **python-bcrypt** | 5.0.0-1 | Acceptable password hashing for your software and your servers | https://github.com/pyca/bcrypt |
+| **python-bcrypt** | 5.0.0-2 | Acceptable password hashing for your software and your servers | https://github.com/pyca/bcrypt |
 | **python-brotli** | 1.2.0-1 | lossless compression algorithm and format (Python bindings) | https://github.com/google/brotli |
 | **python-cmake** | 4.2.3-1 | Python wrapper for CMake | https://cmake-python-distributions.readthedocs.io/ |
-| **python-contourpy** | 1.3.3-2 | Python library for calculating contours in 2D quadrilateral grids | https://contourpy.readthedocs.io/ |
+| **python-contourpy** | 1.3.3-3 | Python library for calculating contours in 2D quadrilateral grids | https://contourpy.readthedocs.io/ |
 | **python-cryptography** | 46.0.5-1 | Provides cryptographic recipes and primitives to Python developers | https://github.com/pyca/cryptography |
 | **python-ensurepip-wheels** | 3.13.12 | Wheels for Python ensurepip | https://python.org/ |
 | **python-greenlet** | 3.3.2-1 | Lightweight coroutines for in-process concurrent programming | https://github.com/python-greenlet/greenlet |
 | **python-grpcio** | 1.78.1 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
-| **python-lameenc** | 1.8.1-1 | Python bindings around the LAME encoder | https://github.com/chrisstaite/lameenc |
-| **python-libsass** | 0.23.0-1 | A straightforward binding of libsass for Python | https://github.com/sass/libsass-python |
+| **python-lameenc** | 1.8.1-2 | Python bindings around the LAME encoder | https://github.com/chrisstaite/lameenc |
+| **python-libsass** | 0.23.0-2 | A straightforward binding of libsass for Python | https://github.com/sass/libsass-python |
 | **python-llvmlite** | 0.46.0-2 | A lightweight LLVM python binding for writing JIT compilers | https://llvmlite.pydata.org/ |
 | **python-lxml** | 6.0.2-1 | Python binding for the libxml2 and libxslt libraries | https://github.com/lxml/lxml |
 | **python-msgpack** | 1.1.2-2 | MessagePack serializer implementation for Python | https://github.com/msgpack/msgpack-python |
-| **python-numpy** | 2.2.5-3 | The fundamental package for scientific computing with Python | https://numpy.org/ |
-| **python-numpy-static** | 2.2.5-3 | Static libraries for python-numpy | https://numpy.org/ |
+| **python-numpy** | 2.2.5-4 | The fundamental package for scientific computing with Python | https://numpy.org/ |
+| **python-numpy-static** | 2.2.5-4 | Static libraries for python-numpy | https://numpy.org/ |
 | **python-onnxruntime** | 1.24.2-1 | Cross-platform, high performance ML inferencing and training accelerator (Python bindings) | https://onnxruntime.ai/ |
-| **python-pillow** | 12.1.1 | Python Imaging Library | https://python-pillow.org/ |
+| **python-pillow** | 12.1.1-1 | Python Imaging Library | https://python-pillow.org/ |
 | **python-pip** | 26.0.1-1 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
-| **python-pyarrow** | 23.0.1 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
+| **python-pyarrow** | 23.0.1-1 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
 | **python-pycryptodomex** | 3.23.0-3 | A self-contained Python package of low-level cryptographic primitives | https://www.pycryptodome.org/ |
 | **python-pynvim** | 0.6.0-2 | Python client for Neovim | https://github.com/neovim/pynvim |
 | **python-ruff** | 0.15.4-1 | An extremely fast Python linter, written in Rust (Python bindings) | https://github.com/charliermarsh/ruff |
@@ -2100,7 +2100,7 @@
 | **python-torchcodec** | 0.10.0 | PyTorch media decoding and encoding | https://github.com/pytorch/torchcodec |
 | **python-torchvision** | 0.25.0 | Datasets, Transforms and Models specific to Computer Vision | https://github.com/pytorch/vision |
 | **python-xcbgen** | 1.17.0-2 | The xcbgen Python module | https://xcb.freedesktop.org/ |
-| **python-xlib** | 0.33-2 | The Python X Library | https://github.com/python-xlib/python-xlib |
+| **python-xlib** | 0.33-3 | The Python X Library | https://github.com/python-xlib/python-xlib |
 | **python-yt-dlp** | 2026.02.21-1 | A youtube-dl fork with additional features and fixes | https://github.com/yt-dlp/yt-dlp |
 | **python2** | 2.7.18-15 | Python 2 programming language intended to enable clear programs | http://python.org/ |
 | **python2-static** | 2.7.18-15 | Static libraries for python2 | http://python.org/ |
@@ -2146,7 +2146,7 @@
 | **ragel-static** | 7.0.4-1 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
 | **railway-cli** | 4.30.5 | This is the command line interface for Railway | https://railway.app |
 | **range-v3** | 0.12.0 | Range library for C++14/17/20, basis for C++20's std::ranges | https://github.com/ericniebler/range-v3 |
-| **ranger** | 1.9.4 | File manager with VI key bindings | https://ranger.github.io/ |
+| **ranger** | 1.9.4-1 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-7 | Fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |
 | **ratt** | 2023.02.02-3 | A tool for converting websites to rss/atom feeds | https://git.sr.ht/~ghost08/ratt |
 | **rav1e** | 0.8.1 | An AV1 encoder program focused on speed and safety | https://github.com/xiph/rav1e/ |
@@ -2253,8 +2253,8 @@
 | **scrypt** | 1.3.3-1 | scrypt KDF library and file encryption tool | https://www.tarsnap.com/scrypt.html |
 | **sd** | 1.1.0 | An intuitive find & replace CLI | https://github.com/chmln/sd |
 | **sdcv** | 0.5.5-2 | StarDict Console Version | http://dushistov.github.io/sdcv/ |
-| **seafile-client** | 9.0.16-1 | Seafile is a file syncing and sharing software with file encryption and group sharing | https://seafile.com |
-| **seafile-client-static** | 9.0.16-1 | Static libraries for seafile-client | https://seafile.com |
+| **seafile-client** | 9.0.16-2 | Seafile is a file syncing and sharing software with file encryption and group sharing | https://seafile.com |
+| **seafile-client-static** | 9.0.16-2 | Static libraries for seafile-client | https://seafile.com |
 | **seanime** | 3.5.1 | Self-hosted anime and manga server for sea rovers. | https://github.com/5rahim/seanime |
 | **seccure** | 0.5-8 | SECCURE Elliptic Curve Crypto Utility for Reliable Encryption | http://point-at-infinity.org/seccure/ |
 | **secure-delete** | 3.1-6 | Secure file, disk, swap, memory erasure utilities | https://www.thc.org/ |
