@@ -262,7 +262,7 @@
  composer  2.9.5  Dependency Manager for PHP  https://getcomposer.org/ 
  console-bridge  1.0.2-1  A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages  https://github.com/ros/console_bridge 
  convertlit  1.8-2  An extractor/converter for .LIT eBooks  http://www.convertlit.com/ 
- cookcli  0.23.0  A suite of tools to create shopping lists and maintain food recipes  https://cooklang.org 
+ cookcli  0.24.0  A suite of tools to create shopping lists and maintain food recipes  https://cooklang.org 
  coreutils  9.10-1  Basic file, shell and text manipulation utilities from the GNU project  https://www.gnu.org/software/coreutils/ 
  corgi  0.2.4-5  CLI workflow manager  https://github.com/DrakeW/corgi 
  corkscrew  2.0-4  A tool for tunneling SSH through HTTP proxies  https://wiki.linuxquestions.org/wiki/Corkscrew 
@@ -506,7 +506,7 @@
  frobtads  2.0-5  TADS is a free authoring system for writing your own Interactive Fiction  http://www.tads.org/frobtads.htm 
  frotz  2.55-2  Interpreter for Infocom and other Z-machine interactive fiction (IF) games  https://gitlab.com/DavidGriffith/frotz 
  frp  0.67.0  A fast reverse proxy to expose a local server behind a NAT or firewall to the internet  https://github.com/fatedier/frp 
- fselect  0.9.2  Find files with SQL-like queries  https://fselect.rocks/ 
+ fselect  0.9.3  Find files with SQL-like queries  https://fselect.rocks/ 
  fsmon  1.8.8-1  Filesystem monitor with fanotify and inotify backends  https://github.com/nowsecure/fsmon 
  fwknop  2.6.11-2  fwknop: Single Packet Authorization > Port Knocking  https://www.cipherdyne.org/fwknop/ 
  fwknop-static  2.6.11-2  Static libraries for fwknop  https://www.cipherdyne.org/fwknop/ 
@@ -543,8 +543,8 @@
  geoip2-database  20191221-2  GeoLite2 IP geolocation databases compiled by MaxMind  https://dev.maxmind.com/geoip/geoip2/geolite2/ 
  germanium  1.2.3-3  Generate image from source code  https://github.com/matsuyoshi30/germanium 
  getconf  0.6-1  Utility to print configuration values  https://github.com/termux/getconf 
- geth  1.17.0  Go implementation of the Ethereum protocol  https://geth.ethereum.org/ 
- geth-utils  1.17.0  Additional utilities for Geth (like abigen, bootnode, evm, puppeth)  https://geth.ethereum.org/ 
+ geth  1.17.1  Go implementation of the Ethereum protocol  https://geth.ethereum.org/ 
+ geth-utils  1.17.1  Additional utilities for Geth (like abigen, bootnode, evm, puppeth)  https://geth.ethereum.org/ 
  gettext  1.0  GNU Internationalization utilities  https://www.gnu.org/software/gettext/ 
  gettext-static  1.0  Static libraries for gettext  https://www.gnu.org/software/gettext/ 
  gexiv2  0.14.6-1  A GObject-based Exiv2 wrapper  https://wiki.gnome.org/Projects/gexiv2 
@@ -575,7 +575,7 @@
  gitoxide  0.51.0  Rust implementation of Git  https://github.com/Byron/gitoxide 
  gitui  0.28.0  Blazing fast terminal-ui for git written in rust  https://github.com/gitui-org/gitui 
  gkermit  2.01-1  Simple, Portable, Free File Transfer Software for UNIX  http://www.columbia.edu/kermit/gkermit.html 
- glab-cli  1.87.0  A GitLab CLI tool bringing GitLab to your command line  https://gitlab.com/gitlab-org/cli 
+ glab-cli  1.88.0  A GitLab CLI tool bringing GitLab to your command line  https://gitlab.com/gitlab-org/cli 
  gleam  1.14.0  A friendly language for building type-safe, scalable systems!  https://gleam.run 
  glib  2.86.4  Library providing core building blocks for libraries and applications written in C  https://developer.gnome.org/glib/ 
  glib-cross  2.86.4  glib for host (NOT for Termux)  https://developer.gnome.org/glib/ 
@@ -638,7 +638,7 @@
  gpgv  2.5.17  GNU privacy guard - signature verification tool  https://www.gnupg.org/ 
  gping  1.20.1-1  Ping, but with a graph  https://github.com/orf/gping 
  gpsbabel  1.4.4-3  GPS file conversion plus transfer to/from GPS units  https://www.gpsbabel.org/ 
- gradle  1:9.3.1  Powerful build system for the JVM  https://gradle.org/ 
+ gradle  1:9.4.0  Powerful build system for the JVM  https://gradle.org/ 
  grafana  1:12.3.3  The open-source platform for monitoring and observability  https://grafana.com/ 
  grap  1.49  Language for typesetting graphs  https://www.lunabase.org/~faber/Vault/software/grap/ 
  graphene  1.10.8-3  A thin layer of graphic data types  https://ebassi.github.io/graphene/ 
@@ -721,7 +721,7 @@
  hunspell-ru  20210731  Russian dictionary for hunspell  https://hunspell.github.io 
  hunspell-static  1.7.2-1  Static libraries for hunspell  https://hunspell.github.io 
  hut  0.7.0-1  A CLI tool for sr.ht  https://git.sr.ht/~xenrox/hut 
- hwdata  0.404  Database of hardware identification and configuration data  https://github.com/vcrhonek/hwdata 
+ hwdata  0.405  Database of hardware identification and configuration data  https://github.com/vcrhonek/hwdata 
  hydroxide  0.2.31  A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge  https://github.com/emersion/hydroxide 
  hyperfine  1.20.0  A command-line benchmarking tool  https://github.com/sharkdp/hyperfine 
  hz  0.10.4  A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices  https://www.cloudwego.io 
@@ -767,7 +767,7 @@
  jack  0.0.1  A metapackage that provides JACK Audio Connection Kit  https://github.com/termux/termux-packages 
  jack-example-tools  4-1  Official JACK example clients and tools  https://jackaudio.org/ 
  jack2  1.9.22-2  The JACK low-latency audio server  https://jackaudio.org/ 
- jackett  0.24.1184  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
+ jackett  0.24.1278  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
  jadx  1.5.5  Dex to Java decompiler  https://github.com/skylot/jadx 
  jadx-x  1.5.5  Dex to Java decompiler GUI  https://github.com/skylot/jadx 
  janet  1.41.2  Janet is a dialect of Lisp intended for embedding into programs and such  https://janet-lang.org 
@@ -779,7 +779,7 @@
  jcal-static  0.5.1-1  Static libraries for jcal  http://nongnu.org/jcal 
  jellyfin-ffmpeg  10.11.5-2  FFmpeg for Jellyfin with custom extensions and enhancements  https://jellyfin.org 
  jellyfin-server  10.11.5-2  A free media system for organizing and streaming media (server)  https://jellyfin.org 
- jfrog-cli  2.93.0  A CLI for JFrog products  https://jfrog.com/getcli 
+ jfrog-cli  2.94.0  A CLI for JFrog products  https://jfrog.com/getcli 
  jftui  0.7.5  jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server.  https://github.com/Aanok/jftui 
  jhead  3.08-1  Exif Jpeg header manipulation tool  http://www.sentex.net/~mwandel/jhead/ 
  jigdo  0.8.2-1  Distribute large images by sending and receiving the files that make them up  http://atterer.org/jigdo/ 
@@ -895,7 +895,7 @@
  libblocksruntime  1:6.2.1  LLVM Blocks runtime library  https://github.com/swiftlang/swift-corelibs-libdispatch 
  libblosc  1.21.6-2  A blocking, shuffling and loss-less compression library  https://www.blosc.org 
  libblosc-static  1.21.6-2  Static libraries for libblosc  https://www.blosc.org 
- libblosc2  2.23.0-1  A blocking, shuffling and loss-less compression library  https://www.blosc.org 
+ libblosc2  2.23.1  A blocking, shuffling and loss-less compression library  https://www.blosc.org 
  libbluray  1.4.1  An open-source library designed for Blu-Ray Discs playback for media players  https://code.videolan.org/videolan/libbluray/ 
  libbluray-static  1.4.1  Static libraries for libbluray  https://code.videolan.org/videolan/libbluray/ 
  libbluray-utils  1.4.1  Example utilities for libbluray  https://code.videolan.org/videolan/libbluray/ 
@@ -1419,9 +1419,9 @@
  libtommath  1.3.0  A free open source portable number theoretic multiple-precision integer library  https://www.libtom.net/LibTomMath/ 
  libtommath-static  1.3.0  Static libraries for libtommath  https://www.libtom.net/LibTomMath/ 
  libtool  2.5.4-2  Generic library support script hiding the complexity of using shared libraries behind a consistent, portable interface  https://www.gnu.org/software/libtool/ 
- libtorrent  0.16.6-1  Libtorrent BitTorrent library  https://github.com/rakshasa/rtorrent/wiki 
+ libtorrent  0.16.7  Libtorrent BitTorrent library  https://github.com/rakshasa/rtorrent/wiki 
  libtorrent-rasterbar  2.0.11-6  A feature complete C++ bittorrent implementation focusing on efficiency and scalability  https://libtorrent.org/ 
- libtorrent-static  0.16.6-1  Static libraries for libtorrent  https://github.com/rakshasa/rtorrent/wiki 
+ libtorrent-static  0.16.7  Static libraries for libtorrent  https://github.com/rakshasa/rtorrent/wiki 
  libtpms  0.10.2  Provides software emulation of a Trusted Platform Module (TPM 1.2 and TPM 2.0)  https://github.com/stefanberger/libtpms 
  libtpms-static  0.10.2  Static libraries for libtpms  https://github.com/stefanberger/libtpms 
  libtranscript  0.3.4-1  A character-set conversion library  https://os.ghalkes.nl/libtranscript.html 
@@ -1482,7 +1482,7 @@
  libwayland-protocols  1.45  Wayland protocols library  https://wayland.freedesktop.org/ 
  libwebp  1.6.0-rc1-0  Library to encode and decode images in WebP format  https://github.com/webmproject/libwebp 
  libwebrtc-audio-processing  1.3-4  A library containing the AudioProcessing module from the WebRTC project  https://www.freedesktop.org/software/pulseaudio/webrtc-audio-processing/ 
- libwebsockets  4.5.2-1  Lightweight C websockets library  https://libwebsockets.org 
+ libwebsockets  4.5.3  Lightweight C websockets library  https://libwebsockets.org 
  libwolfssl  5.8.4  A small, fast, portable implementation of TLS/SSL for embedded devices to the cloud  https://www.wolfssl.com/ 
  libwpd  0.10.3-3  Library for importing WordPerfect (tm) documents  https://libwpd.sourceforge.net/ 
  libwpg  0.3.4-3  Library for importing and converting Corel WordPerfect(tm) Graphics images.  https://libwpg.sourceforge.net/ 
@@ -1588,8 +1588,8 @@
  lrzsz  0.12.21-rc1-2  Tools for zmodem/xmodem/ymodem file transfer  https://ohse.de/uwe/software/lrzsz.html 
  lsd  1.2.0  Next gen ls command  https://github.com/lsd-rs/lsd 
  lsix  1.9.1-1  Shows thumbnails in terminal using sixel graphics  https://github.com/hackerb9/lsix 
- lsof  4.99.5-2  Lists open files for running Unix processes  https://github.com/lsof-org/lsof 
- lsof-static  4.99.5-2  Static libraries for lsof  https://github.com/lsof-org/lsof 
+ lsof  4.99.6  Lists open files for running Unix processes  https://github.com/lsof-org/lsof 
+ lsof-static  4.99.6  Static libraries for lsof  https://github.com/lsof-org/lsof 
  ltrace  1:0.8.1  Tracks runtime library calls in dynamically linked programs  http://www.ltrace.org/ 
  lua-language-server  3.17.1-2  Sumneko Lua Language Server coded in Lua  https://github.com/sumneko/lua-language-server 
  lua-lgi  0.9.2+p20251219-1  Dynamic Lua binding to GObject libraries using GObject-Introspection  https://github.com/lgi-devs/lgi 
@@ -1777,7 +1777,7 @@
  ncftp  3.3.0-1  A free set of programs that use the File Transfer Protocol  https://www.ncftp.com/ 
  ncmpcpp  0.10.1-8  NCurses Music Player Client (Plus Plus)  https://rybczak.net/ncmpcpp/ 
  ncompress  5.0-1  The classic unix compression utility which can handle the ancient .Z archive  https://github.com/vapier/ncompress 
- ncpamixer  1.3.10-1  An ncurses mixer for PulseAudio  https://github.com/fulhax/ncpamixer 
+ ncpamixer  1.3.11  An ncurses mixer for PulseAudio  https://github.com/fulhax/ncpamixer 
  ncspot  1.3.3  An ncurses Spotify client written in Rust  https://github.com/hrkfdn/ncspot 
  ncurses  6.6.20260124+really6.5.20250830  Library for text-based user interfaces in a terminal-independent manner  https://invisible-island.net/ncurses/ 
  ncurses-static  6.6.20260124+really6.5.20250830  Static libraries for ncurses  https://invisible-island.net/ncurses/ 
@@ -1799,7 +1799,7 @@
  net-snmp  5.9.5.2  Various tools relating to the Simple Network Management Protocol  http://www.net-snmp.org/ 
  net-snmp-static  5.9.5.2  Static libraries for net-snmp  http://www.net-snmp.org/ 
  net-tools  2.10.0-1  Configuration tools for Linux networking  http://net-tools.sourceforge.net/ 
- netcat-openbsd  1.234-1-0  TCP/IP swiss army knife. OpenBSD variant.  https://packages.debian.org/sid/netcat-openbsd 
+ netcat-openbsd  1.234-2-0  TCP/IP swiss army knife. OpenBSD variant.  https://packages.debian.org/sid/netcat-openbsd 
  netcdf-c  4.10.0  NetCDF is a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data  https://www.unidata.ucar.edu/software/netcdf/ 
  netcdf-c-static  4.10.0  Static libraries for netcdf-c  https://www.unidata.ucar.edu/software/netcdf/ 
  nethack  3.6.7-2  Dungeon crawl game  http://www.nethack.org/ 
@@ -1852,7 +1852,7 @@
  okc-agents  0.1.2-2  OpenKeychain agents for GnuPG and OpenSSH  https://github.com/DDoSolitary/okc-agents 
  ol  2.6-3  Purely functional dialect of Lisp  https://yuriy-chumak.github.io/ol/ 
  oleo  1.99.16-10  The GNU Spreadsheet  https://www.gnu.org/software/oleo/ 
- oma  1.24.3  oma is an attempt at reworking APT's interface  https://aosc.io/oma 
+ oma  1.24.4  oma is an attempt at reworking APT's interface  https://aosc.io/oma 
  onefetch  2.26.1  A command-line Git information tool written in Rust  https://onefetch.dev/ 
  onigmo  6.2.0-1  A regular expressions library forked from Oniguruma  https://github.com/k-takata/Onigmo 
  onigmo-static  6.2.0-1  Static libraries for onigmo  https://github.com/k-takata/Onigmo 
@@ -1903,7 +1903,7 @@
  opusfile  0.12-4  A high-level API for decoding and seeking within .opus files  https://www.opus-codec.org/ 
  opusfile-static  0.12-4  Static libraries for opusfile  https://www.opus-codec.org/ 
  opustags  1.10.1  Ogg Opus tags editor  https://github.com/fmang/opustags 
- orbiton  2.72.1  Small, fast and limited text editor  https://roboticoverlords.org/orbiton/ 
+ orbiton  2.73.0  Small, fast and limited text editor  https://roboticoverlords.org/orbiton/ 
  osmctools  0.9-3  Simple tools for OpenStreetMap processing  https://gitlab.com/osm-c-tools/osmctools 
  osmium-tool  1.19.0  A multipurpose command line tool based on the Osmium Library  https://osmcode.org/osmium-tool/ 
  osslsigncode  2.13  OpenSSL based Authenticode signing for PE/MSI/Java CAB files  https://github.com/mtrojnar/osslsigncode 
@@ -2049,7 +2049,7 @@
  pypy3  7.3.20  A fast, compliant alternative implementation of Python 3  https://pypy.org 
  pypy3-tests  7.3.20  Test files for PyPy 3  https://pypy.org 
  pypy3-tkinter  7.3.20  Tkinter support for PyPy 3  https://pypy.org 
- pyrefly  0.54.0  A fast type checker and language server for Python  https://github.com/facebook/pyrefly.git 
+ pyrefly  0.55.0  A fast type checker and language server for Python  https://github.com/facebook/pyrefly.git 
  pystring  1.1.4-1  C++ functions matching the interface and behavior of python string methods with std::string  https://github.com/imageworks/pystring 
  python  3.13.12-1  Python 3 programming language intended to enable clear programs  https://python.org/ 
  python-apsw  3.51.2.0-1  Another Python SQLite Wrapper  https://rogerbinns.github.io/apsw/ 
@@ -2089,7 +2089,7 @@
  python-torchvision  0.25.0-1  Datasets, Transforms and Models specific to Computer Vision  https://github.com/pytorch/vision 
  python-xcbgen  1.17.0-2  The xcbgen Python module  https://xcb.freedesktop.org/ 
  python-xlib  0.33-3  The Python X Library  https://github.com/python-xlib/python-xlib 
- python-yt-dlp  2026.02.21-1  A youtube-dl fork with additional features and fixes  https://github.com/yt-dlp/yt-dlp 
+ python-yt-dlp  2026.03.03  A youtube-dl fork with additional features and fixes  https://github.com/yt-dlp/yt-dlp 
  python2  2.7.18-15  Python 2 programming language intended to enable clear programs  http://python.org/ 
  python2-static  2.7.18-15  Static libraries for python2  http://python.org/ 
  pyunbound  1.24.2-2  Python bindings for Unbound  https://unbound.net/ 
@@ -2194,7 +2194,7 @@
  rsync  3.4.1-1  Fast incremental file transfer utility  https://rsync.samba.org/ 
  rtmpdump  2.6-1  Small dumper for media content streamed over the RTMP protocol  https://rtmpdump.mplayerhq.hu/ 
  rtmpdump-static  2.6-1  Static libraries for rtmpdump  https://rtmpdump.mplayerhq.hu/ 
- rtorrent  0.16.6  Ncurses BitTorrent client based on libTorrent  https://rakshasa.github.io/rtorrent/ 
+ rtorrent  0.16.7  Ncurses BitTorrent client based on libTorrent  https://rakshasa.github.io/rtorrent/ 
  rubberband  4.0.0-1  An audio time-stretching and pitch-shifting library and utility program  https://breakfastquay.com/rubberband/ 
  rubberband-ladspa  4.0.0-1  LADSPA plugin for Rubber Band  https://breakfastquay.com/rubberband/ 
  rubberband-lv2  4.0.0-1  LV2 plugin for Rubber Band  https://breakfastquay.com/rubberband/ 
@@ -2231,7 +2231,7 @@
  sassc  3.6.2-1  libsass command line driver  https://github.com/sass/sassc 
  sc-im  0.8.5-4  An improved version of sc, a spreadsheet calculator  https://github.com/andmarti1424/sc-im 
  scala  3.8.2  Scala 3 compiler and standard library.  https://www.scala-lang.org 
- scc  3.6.0  Counts physical the lines of code, blank lines, comment lines, and physical lines of source code  https://github.com/boyter/scc 
+ scc  3.7.0  Counts physical the lines of code, blank lines, comment lines, and physical lines of source code  https://github.com/boyter/scc 
  sccache  0.14.0  sccache is ccache with cloud storage  https://github.com/mozilla/sccache 
  scdaemon  2.5.17  Daemon invoked by gpg to manage smartcards  https://www.gnupg.org/ 
  scdoc  1.11.4  Small man page generator  https://git.sr.ht/~sircmpwn/scdoc 
@@ -2243,7 +2243,7 @@
  sdcv  0.5.5-2  StarDict Console Version  http://dushistov.github.io/sdcv/ 
  seafile-client  9.0.16-2  Seafile is a file syncing and sharing software with file encryption and group sharing  https://seafile.com 
  seafile-client-static  9.0.16-2  Static libraries for seafile-client  https://seafile.com 
- seanime  3.5.1  Self-hosted anime and manga server for sea rovers.  https://github.com/5rahim/seanime 
+ seanime  3.5.2  Self-hosted anime and manga server for sea rovers.  https://github.com/5rahim/seanime 
  seccure  0.5-8  SECCURE Elliptic Curve Crypto Utility for Reliable Encryption  http://point-at-infinity.org/seccure/ 
  secure-delete  3.1-6  Secure file, disk, swap, memory erasure utilities  https://www.thc.org/ 
  sed  4.9-2  GNU stream editor for filtering/transforming text  https://www.gnu.org/software/sed/ 
@@ -2378,7 +2378,7 @@
  swig  4.4.1  Generate scripting interfaces to C/C++ code  https://swig.org 
  swtpm  0.10.1-2  Software TPM Emulator  https://github.com/stefanberger/swtpm 
  swtpm-static  0.10.1-2  Static libraries for swtpm  https://github.com/stefanberger/swtpm 
- syncthing  2.0.14  Decentralized file synchronization  https://syncthing.net/ 
+ syncthing  2.0.15  Decentralized file synchronization  https://syncthing.net/ 
  sysprop  13.0.0.15-10  Generates cpp / java sysprop  https://android.googlesource.com/platform/system/tools/sysprop 
  ta-lib  0.5.0  Technical analysis library with indicators like ADX  https://ta-lib.org/ 
  ta-lib-static  0.5.0  Static libraries for ta-lib  https://ta-lib.org/ 
@@ -2554,7 +2554,7 @@
  urdfdom  5.1.0  Unified Robot Description Format (URDF) parser library and tools  https://github.com/ros/urdfdom 
  urdfdom-headers  2.1.0  Headers for URDF parsers  https://github.com/ros/urdfdom_headers 
  usbmuxd  1.1.1-p20250201-2  A socket daemon to multiplex connections from and to iOS devices  https://libimobiledevice.org 
- usql  0.20.8-1  A universal command-line interface for SQL databases  https://github.com/xo/usql 
+ usql  0.21.1  A universal command-line interface for SQL databases  https://github.com/xo/usql 
  utf8cpp  1:4.0.9  UTF8-CPP: UTF-8 with C++ in a Portable Way  https://github.com/nemtrif/utfcpp 
  utf8proc  2.11.3  Library for processing UTF-8 Unicode data  https://github.com/JuliaLang/utf8proc 
  utf8proc-static  2.11.3  Static libraries for utf8proc  https://github.com/JuliaLang/utf8proc 
@@ -2589,7 +2589,7 @@
  viddy  1.3.0-2  A modern watch command  https://github.com/sachaos/viddy 
  vifm  0.14.3-1  File manager with vi like keybindings  https://vifm.info/ 
  vile  9.8z-1  VI Like Emacs - vi work-alike  https://invisible-island.net/vile/ 
- vim  9.2.0050  Vi IMproved - enhanced vi editor  https://www.vim.org 
+ vim  9.2.0100  Vi IMproved - enhanced vi editor  https://www.vim.org 
  virglrenderer  1.3.0  A virtual 3D GPU for use inside qemu virtual machines  https://virgil3d.github.io/ 
  virglrenderer-android  1.3.0  A virtual 3D GPU for use inside qemu virtual machines over OpenGLES libraries on Android  https://virgil3d.github.io/ 
  virustotal-cli  1.3.0  Command line interface for VirusTotal  https://github.com/VirusTotal/vt-cli 
@@ -2676,7 +2676,7 @@
  xtrans  1.6.0  X transport library  https://xorg.freedesktop.org/ 
  xvidcore  1.3.7-1  High performance and high quality MPEG-4 library  https://www.xvid.com/ 
  xvidcore-static  1.3.7-1  Static libraries for xvidcore  https://www.xvid.com/ 
- xxd  9.2.0050  Hexdump utility from vim  https://www.vim.org 
+ xxd  9.2.0100  Hexdump utility from vim  https://www.vim.org 
  xxhash  0.8.3-1  Extremely fast non-cryptographic hash algorithm  https://cyan4973.github.io/xxHash/ 
  xxhash-static  0.8.3-1  Static libraries for xxhash  https://cyan4973.github.io/xxHash/ 
  xz-utils  5.8.2  XZ-format compression tools  https://tukaani.org/xz/ 
@@ -2689,7 +2689,7 @@
  yasm  1.3.0-7  Assembler supporting the x86 and AMD64 instruction sets  https://yasm.tortall.net/ 
  yasm-static  1.3.0-7  Static libraries for yasm  https://yasm.tortall.net/ 
  yazi  26.1.22-1  Blazing fast terminal file manager written in Rust, based on async I/O  https://yazi-rs.github.io/ 
- yosys  0.62  A framework for RTL synthesis tools  https://yosyshq.net/yosys/ 
+ yosys  0.63  A framework for RTL synthesis tools  https://yosyshq.net/yosys/ 
  youtubedr  2.10.5  Download youtube video in Golang  https://github.com/kkdai/youtube 
  yq  4.52.4  A lightweight and portable command-line YAML, JSON and XML processor  https://mikefarah.gitbook.io/yq/ 
  yt-dlp-ejs  0.5.0-2  External JavaScript for yt-dlp supporting many runtimes  https://github.com/yt-dlp/ejs 

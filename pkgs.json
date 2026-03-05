@@ -1585,7 +1585,7 @@
   },
   {
     "Package": "cookcli",
-    "Version": "0.23.0",
+    "Version": "0.24.0",
     "Description": "A suite of tools to create shopping lists and maintain food recipes",
     "Homepage": "https://cooklang.org"
   },
@@ -3049,7 +3049,7 @@
   },
   {
     "Package": "fselect",
-    "Version": "0.9.2",
+    "Version": "0.9.3",
     "Description": "Find files with SQL-like queries",
     "Homepage": "https://fselect.rocks/"
   },
@@ -3271,13 +3271,13 @@
   },
   {
     "Package": "geth",
-    "Version": "1.17.0",
+    "Version": "1.17.1",
     "Description": "Go implementation of the Ethereum protocol",
     "Homepage": "https://geth.ethereum.org/"
   },
   {
     "Package": "geth-utils",
-    "Version": "1.17.0",
+    "Version": "1.17.1",
     "Description": "Additional utilities for Geth (like abigen, bootnode, evm, puppeth)",
     "Homepage": "https://geth.ethereum.org/"
   },
@@ -3463,7 +3463,7 @@
   },
   {
     "Package": "glab-cli",
-    "Version": "1.87.0",
+    "Version": "1.88.0",
     "Description": "A GitLab CLI tool bringing GitLab to your command line",
     "Homepage": "https://gitlab.com/gitlab-org/cli"
   },
@@ -3841,7 +3841,7 @@
   },
   {
     "Package": "gradle",
-    "Version": "1:9.3.1",
+    "Version": "1:9.4.0",
     "Description": "Powerful build system for the JVM",
     "Homepage": "https://gradle.org/"
   },
@@ -4339,7 +4339,7 @@
   },
   {
     "Package": "hwdata",
-    "Version": "0.404",
+    "Version": "0.405",
     "Description": "Database of hardware identification and configuration data",
     "Homepage": "https://github.com/vcrhonek/hwdata"
   },
@@ -4615,7 +4615,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.24.1184",
+    "Version": "0.24.1278",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -4687,7 +4687,7 @@
   },
   {
     "Package": "jfrog-cli",
-    "Version": "2.93.0",
+    "Version": "2.94.0",
     "Description": "A CLI for JFrog products",
     "Homepage": "https://jfrog.com/getcli"
   },
@@ -5383,7 +5383,7 @@
   },
   {
     "Package": "libblosc2",
-    "Version": "2.23.0-1",
+    "Version": "2.23.1",
     "Description": "A blocking, shuffling and loss-less compression library",
     "Homepage": "https://www.blosc.org"
   },
@@ -8527,7 +8527,7 @@
   },
   {
     "Package": "libtorrent",
-    "Version": "0.16.6-1",
+    "Version": "0.16.7",
     "Description": "Libtorrent BitTorrent library",
     "Homepage": "https://github.com/rakshasa/rtorrent/wiki"
   },
@@ -8539,7 +8539,7 @@
   },
   {
     "Package": "libtorrent-static",
-    "Version": "0.16.6-1",
+    "Version": "0.16.7",
     "Description": "Static libraries for libtorrent",
     "Homepage": "https://github.com/rakshasa/rtorrent/wiki"
   },
@@ -8905,7 +8905,7 @@
   },
   {
     "Package": "libwebsockets",
-    "Version": "4.5.2-1",
+    "Version": "4.5.3",
     "Description": "Lightweight C websockets library",
     "Homepage": "https://libwebsockets.org"
   },
@@ -9541,13 +9541,13 @@
   },
   {
     "Package": "lsof",
-    "Version": "4.99.5-2",
+    "Version": "4.99.6",
     "Description": "Lists open files for running Unix processes",
     "Homepage": "https://github.com/lsof-org/lsof"
   },
   {
     "Package": "lsof-static",
-    "Version": "4.99.5-2",
+    "Version": "4.99.6",
     "Description": "Static libraries for lsof",
     "Homepage": "https://github.com/lsof-org/lsof"
   },
@@ -10675,7 +10675,7 @@
   },
   {
     "Package": "ncpamixer",
-    "Version": "1.3.10-1",
+    "Version": "1.3.11",
     "Description": "An ncurses mixer for PulseAudio",
     "Homepage": "https://github.com/fulhax/ncpamixer"
   },
@@ -10807,7 +10807,7 @@
   },
   {
     "Package": "netcat-openbsd",
-    "Version": "1.234-1-0",
+    "Version": "1.234-2-0",
     "Description": "TCP/IP swiss army knife. OpenBSD variant.",
     "Homepage": "https://packages.debian.org/sid/netcat-openbsd"
   },
@@ -11125,7 +11125,7 @@
   },
   {
     "Package": "oma",
-    "Version": "1.24.3",
+    "Version": "1.24.4",
     "Description": "oma is an attempt at reworking APTs interface",
     "Homepage": "https://aosc.io/oma"
   },
@@ -11431,7 +11431,7 @@
   },
   {
     "Package": "orbiton",
-    "Version": "2.72.1",
+    "Version": "2.73.0",
     "Description": "Small, fast and limited text editor",
     "Homepage": "https://roboticoverlords.org/orbiton/"
   },
@@ -12307,7 +12307,7 @@
   },
   {
     "Package": "pyrefly",
-    "Version": "0.54.0",
+    "Version": "0.55.0",
     "Description": "A fast type checker and language server for Python",
     "Homepage": "https://github.com/facebook/pyrefly.git"
   },
@@ -12547,7 +12547,7 @@
   },
   {
     "Package": "python-yt-dlp",
-    "Version": "2026.02.21-1",
+    "Version": "2026.03.03",
     "Description": "A youtube-dl fork with additional features and fixes",
     "Homepage": "https://github.com/yt-dlp/yt-dlp"
   },
@@ -13177,7 +13177,7 @@
   },
   {
     "Package": "rtorrent",
-    "Version": "0.16.6",
+    "Version": "0.16.7",
     "Description": "Ncurses BitTorrent client based on libTorrent",
     "Homepage": "https://rakshasa.github.io/rtorrent/"
   },
@@ -13399,7 +13399,7 @@
   },
   {
     "Package": "scc",
-    "Version": "3.6.0",
+    "Version": "3.7.0",
     "Description": "Counts physical the lines of code, blank lines, comment lines, and physical lines of source code",
     "Homepage": "https://github.com/boyter/scc"
   },
@@ -13471,7 +13471,7 @@
   },
   {
     "Package": "seanime",
-    "Version": "3.5.1",
+    "Version": "3.5.2",
     "Description": "Self-hosted anime and manga server for sea rovers.",
     "Homepage": "https://github.com/5rahim/seanime"
   },
@@ -14281,7 +14281,7 @@
   },
   {
     "Package": "syncthing",
-    "Version": "2.0.14",
+    "Version": "2.0.15",
     "Description": "Decentralized file synchronization",
     "Homepage": "https://syncthing.net/"
   },
@@ -15337,7 +15337,7 @@
   },
   {
     "Package": "usql",
-    "Version": "0.20.8-1",
+    "Version": "0.21.1",
     "Description": "A universal command-line interface for SQL databases",
     "Homepage": "https://github.com/xo/usql"
   },
@@ -15547,7 +15547,7 @@
   },
   {
     "Package": "vim",
-    "Version": "9.2.0050",
+    "Version": "9.2.0100",
     "Description": "Vi IMproved - enhanced vi editor",
     "Homepage": "https://www.vim.org"
   },
@@ -16069,7 +16069,7 @@
   },
   {
     "Package": "xxd",
-    "Version": "9.2.0050",
+    "Version": "9.2.0100",
     "Description": "Hexdump utility from vim",
     "Homepage": "https://www.vim.org"
   },
@@ -16147,7 +16147,7 @@
   },
   {
     "Package": "yosys",
-    "Version": "0.62",
+    "Version": "0.63",
     "Description": "A framework for RTL synthesis tools",
     "Homepage": "https://yosyshq.net/yosys/"
   },
