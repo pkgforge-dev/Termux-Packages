@@ -819,7 +819,7 @@
   Description: A free compiler for 6502 based system
   Homepage: https://cc65.github.io/
 - Package: ccache
-  Version: 4.12.3
+  Version: "4.13"
   Description: Compiler cache for fast recompilation of C/C++ code
   Homepage: https://ccache.samba.org
 - Package: cccc
@@ -1719,7 +1719,7 @@
   Description: Enscript converts ASCII text files to PostScript, HTML, RTF, ANSI and overstrikes
   Homepage: https://www.gnu.org/software/enscript/
 - Package: entr
-  Version: 5.7-1
+  Version: "5.8"
   Description: Event Notify Test Runner - run arbitrary commands when files change
   Homepage: https://eradman.com/entrproject/
 - Package: erlang
@@ -4443,11 +4443,11 @@
   Description: Static libraries for libjansson
   Homepage: http://www.digip.org/jansson/
 - Package: libjasper
-  Version: 4.2.8
+  Version: 4.2.9
   Description: Library for manipulating JPEG-2000 files
   Homepage: http://www.ece.uvic.ca/~frodo/jasper/
 - Package: libjasper-utils
-  Version: 4.2.8
+  Version: 4.2.9
   Description: JPEG-2000 utilities
   Homepage: http://www.ece.uvic.ca/~frodo/jasper/
 - Package: libjpeg-turbo
@@ -4615,15 +4615,15 @@
   Description: Matroska library
   Homepage: https://dl.matroska.org/downloads/libmatroska/
 - Package: libmaxminddb
-  Version: 1.13.2
+  Version: 1.13.3
   Description: MaxMind GeoIP2 database - library and utilities
   Homepage: https://dev.maxmind.com/geoip/geoip2/
 - Package: libmaxminddb-static
-  Version: 1.13.2
+  Version: 1.13.3
   Description: Static libraries for libmaxminddb
   Homepage: https://dev.maxmind.com/geoip/geoip2/
 - Package: libmaxminddb-tools
-  Version: 1.13.2
+  Version: 1.13.3
   Description: A geoip lookup utility for MaxMind DB
   Homepage: https://dev.maxmind.com/geoip/geoip2/
 - Package: libmcrypt
@@ -5935,7 +5935,7 @@
   Description: A library containing the AudioProcessing module from the WebRTC project
   Homepage: https://www.freedesktop.org/software/pulseaudio/webrtc-audio-processing/
 - Package: libwebsockets
-  Version: 4.5.3
+  Version: 4.5.4
   Description: Lightweight C websockets library
   Homepage: https://libwebsockets.org
 - Package: libwolfssl
@@ -9107,7 +9107,7 @@
   Description: Simulator for Microchip AVR (formerly Atmel) microcontrollers
   Homepage: https://www.nongnu.org/simulavr
 - Package: sing-box
-  Version: 1.13.0
+  Version: 1.13.1
   Description: The universal proxy platform
   Homepage: https://sing-box.sagernet.org
 - Package: skate
@@ -9727,7 +9727,7 @@
   Description: The TeX Gyre (TG) Collection of Fonts
   Homepage: https://www.gust.org.pl/projects/e-foundry/tex-gyre/
 - Package: texinfo
-  Version: 7.2-4
+  Version: "7.3"
   Description: Documentation system for on-line information and printed output
   Homepage: https://www.gnu.org/software/texinfo/
 - Package: texlab
@@ -10203,7 +10203,7 @@
   Description: Helps interactively and incrementally explore textual data in Linux
   Homepage: https://github.com/akavel/up
 - Package: update-info-dir
-  Version: 7.2-4
+  Version: "7.3"
   Description: Update or create index file from all installed info files in directory
   Homepage: https://www.gnu.org/software/texinfo/
 - Package: upower
@@ -10211,7 +10211,7 @@
   Description: Power management support for DeviceKit
   Homepage: https://upower.freedesktop.org/
 - Package: upx
-  Version: 5.1.0
+  Version: 5.1.1
   Description: the Ultimate Packer for eXecutables
   Homepage: https://upx.github.io/
 - Package: urdfdom
@@ -10415,7 +10415,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2026.02.28
+  Version: 2026.03.04
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vttest
@@ -10595,7 +10595,7 @@
   Description: Tools for the WireGuard secure network tunnel
   Homepage: https://www.wireguard.com
 - Package: wireproxy
-  Version: 1.1.1
+  Version: 1.1.2
   Description: Wireguard client that exposes itself as a socks5 proxy
   Homepage: https://github.com/pufferffish/wireproxy
 - Package: wiz
