@@ -971,11 +971,11 @@
   Description: Experimental implementation of OpenCL on Vulkan
   Homepage: https://github.com/kpet/clvk
 - Package: cmake
-  Version: 4.2.3
+  Version: 4.2.3-1
   Description: Family of tools designed to build, test and package software
   Homepage: https://cmake.org/
 - Package: cmake-curses-gui
-  Version: 4.2.3
+  Version: 4.2.3-1
   Description: Curses based user interface for CMake (ccmake)
   Homepage: https://cmake.org/
 - Package: cmark
@@ -10267,7 +10267,7 @@
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
-  Version: 2.0.31
+  Version: 2.0.31-1
   Description: uWSGI application server container
   Homepage: https://projects.unbit.it/uwsgi
 - Package: v2ray

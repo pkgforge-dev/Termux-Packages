@@ -241,8 +241,8 @@
 | **cloudflared** | 2026.2.0 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
 | **clpeak** | 1.1.5 | A tool which profiles OpenCL devices to find their peak capacities | https://github.com/krrishnarraj/clpeak |
 | **clvk** | 0.0.20260223.234457 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
-| **cmake** | 4.2.3 | Family of tools designed to build, test and package software | https://cmake.org/ |
-| **cmake-curses-gui** | 4.2.3 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
+| **cmake** | 4.2.3-1 | Family of tools designed to build, test and package software | https://cmake.org/ |
+| **cmake-curses-gui** | 4.2.3-1 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
 | **cmark** | 0.31.2 | CommonMark parsing and rendering program | https://github.com/commonmark/cmark |
 | **cmark-static** | 0.31.2 | Static libraries for cmark | https://github.com/commonmark/cmark |
 | **cmatrix** | 2.0-1 | Command producing a Matrix-style animation | https://github.com/abishekvashok/cmatrix |
@@ -2565,7 +2565,7 @@
 | **uucp** | 1.07-2 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.41.3 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
 | **uv** | 0.9.15-1 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
-| **uwsgi** | 2.0.31 | uWSGI application server container | https://projects.unbit.it/uwsgi |
+| **uwsgi** | 2.0.31-1 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.44.1 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.18-1 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
 | **valac-static** | 0.56.18-1 | Static libraries for valac | https://wiki.gnome.org/Projects/Vala |
