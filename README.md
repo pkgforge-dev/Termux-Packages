@@ -241,8 +241,8 @@
 | **ciso** | 1.0.2-2 | PSP ISO compression tool | https://github.com/jamie/ciso |
 | **cjson** | 1.7.19 | Ultralightweight JSON parser in ANSI C | https://github.com/DaveGamble/cJSON |
 | **ckermit** | 9.0.302-3 | A combined network and serial communication software package | https://www.kermitproject.org/ckermit.html |
-| **clamav** | 1.5.1 | Anti-virus toolkit for Unix | https://www.clamav.net/ |
-| **clamav-static** | 1.5.1 | Static libraries for clamav | https://www.clamav.net/ |
+| **clamav** | 1.5.2 | Anti-virus toolkit for Unix | https://www.clamav.net/ |
+| **clamav-static** | 1.5.2 | Static libraries for clamav | https://www.clamav.net/ |
 | **clang** | 21.1.8-1 | C language frontend for LLVM | https://clang.llvm.org/ |
 | **clblast** | 1.6.3-1 | Tuned OpenCL BLAS | https://github.com/CNugteren/CLBlast |
 | **clidle** | 2022.05.25-3 | Play Wordle over SSH | https://github.com/ajeetdsouza/clidle |
@@ -1535,9 +1535,9 @@
 | **libxls-static** | 1.6.3-2 | Static libraries for libxls | https://github.com/libxls/libxls |
 | **libxls2csv** | 1.6.3-2 | A command-line tool for converting XLS to CSV | https://github.com/libxls/libxls |
 | **libxlsxwriter** | 1.2.4 | A C library for creating Excel XLSX files | https://libxlsxwriter.github.io/ |
-| **libxml2** | 2.15.1-2 | Library for parsing XML documents | https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home |
-| **libxml2-python** | 2.15.1-2 | Python bindings for libxml2 | https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home |
-| **libxml2-utils** | 2.15.1-2 | XML utilities | https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home |
+| **libxml2** | 2.15.2 | Library for parsing XML documents | https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home |
+| **libxml2-python** | 2.15.2 | Python bindings for libxml2 | https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home |
+| **libxml2-utils** | 2.15.2 | XML utilities | https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home |
 | **libxmlb** | 0.3.25 | Library to help create and query binary XML blobs | https://github.com/hughsie/libxmlb |
 | **libxmlrpc** | 1.64.03 | XML-RPC for C and C++ | https://xmlrpc-c.sourceforge.io/ |
 | **libxmlrpc-static** | 1.64.03 | Static libraries for libxmlrpc | https://xmlrpc-c.sourceforge.io/ |
