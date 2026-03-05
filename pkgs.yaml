@@ -1723,11 +1723,11 @@
   Description: Event Notify Test Runner - run arbitrary commands when files change
   Homepage: https://eradman.com/entrproject/
 - Package: erlang
-  Version: 28.3.3
+  Version: "28.4"
   Description: General-purpose concurrent functional programming language
   Homepage: https://www.erlang.org/
 - Package: erlang-doc
-  Version: 28.3.3
+  Version: "28.4"
   Description: Erlang HTML documentation
   Homepage: https://www.erlang.org/
 - Package: esbuild
@@ -2703,15 +2703,15 @@
   Description: The Reliable, High Performance TCP/HTTP Load Balancer
   Homepage: https://www.haproxy.org/
 - Package: harfbuzz
-  Version: 12.3.2
+  Version: 13.0.0
   Description: OpenType text shaping engine
   Homepage: https://www.freedesktop.org/wiki/Software/HarfBuzz/
 - Package: harfbuzz-icu
-  Version: 12.3.2
+  Version: 13.0.0
   Description: OpenType text shaping engine ICU backend
   Homepage: https://www.freedesktop.org/wiki/Software/HarfBuzz/
 - Package: harfbuzz-utils
-  Version: 12.3.2
+  Version: 13.0.0
   Description: Tools using the harfbuzz library
   Homepage: https://www.freedesktop.org/wiki/Software/HarfBuzz/
 - Package: hash-slinger

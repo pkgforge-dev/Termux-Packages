@@ -429,8 +429,8 @@
 | **enchant-static** | 2.8.15 | Static libraries for enchant | https://rrthomas.github.io/enchant/ |
 | **enscript** | 1.6.6-13 | Enscript converts ASCII text files to PostScript, HTML, RTF, ANSI and overstrikes | https://www.gnu.org/software/enscript/ |
 | **entr** | 5.7-1 | Event Notify Test Runner - run arbitrary commands when files change | https://eradman.com/entrproject/ |
-| **erlang** | 28.3.3 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
-| **erlang-doc** | 28.3.3 | Erlang HTML documentation | https://www.erlang.org/ |
+| **erlang** | 28.4 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
+| **erlang-doc** | 28.4 | Erlang HTML documentation | https://www.erlang.org/ |
 | **esbuild** | 0.27.3 | An extremely fast JavaScript bundler | https://esbuild.github.io/ |
 | **espeak** | 1.52.0-1 | Compact software speech synthesizer | https://github.com/espeak-ng/espeak-ng |
 | **espeak-static** | 1.52.0-1 | Static libraries for espeak | https://github.com/espeak-ng/espeak-ng |
@@ -674,9 +674,9 @@
 | **gweather-locations** | 2025.1 | The GWeather locations database | https://gitlab.gnome.org/GNOME/gweather-locations |
 | **gzip** | 1.14-1 | Standard GNU file compression utilities | https://www.gnu.org/software/gzip/ |
 | **haproxy** | 3.3.4 | The Reliable, High Performance TCP/HTTP Load Balancer | https://www.haproxy.org/ |
-| **harfbuzz** | 12.3.2 | OpenType text shaping engine | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
-| **harfbuzz-icu** | 12.3.2 | OpenType text shaping engine ICU backend | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
-| **harfbuzz-utils** | 12.3.2 | Tools using the harfbuzz library | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
+| **harfbuzz** | 13.0.0 | OpenType text shaping engine | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
+| **harfbuzz-icu** | 13.0.0 | OpenType text shaping engine ICU backend | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
+| **harfbuzz-utils** | 13.0.0 | Tools using the harfbuzz library | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
 | **hash-slinger** | 3.5 | Various tools to generate special DNS records | https://github.com/letoams/hash-slinger |
 | **hashdeep** | 4.4-9 | Programs to compute hashsums of arbitrary number of files recursively | https://md5deep.sourceforge.net/ |
 | **hcl** | 2.24.0-1 | A toolkit for creating structured configuration languages | https://github.com/hashicorp/hcl |
