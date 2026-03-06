@@ -1367,7 +1367,7 @@
   Description: dns2tcp is a tool for relaying TCP connections over DNS
   Homepage: https://github.com/alex-sector/dns2tcp
 - Package: dnscontrol
-  Version: 4.35.0
+  Version: 4.36.0
   Description: Infrastructure as code for DNS!
   Homepage: https://github.com/StackExchange/dnscontrol
 - Package: dnslookup
@@ -1683,7 +1683,7 @@
   Description: Extensible, customizable text editor-and more
   Homepage: https://www.gnu.org/software/emacs/
 - Package: emmylua-ls
-  Version: 0.20.0
+  Version: 0.21.0
   Description: Emmy Lua Language Server coded in Rust
   Homepage: https://github.com/EmmyLuaLs/emmylua-analyzer-rust
 - Package: emscripten
@@ -2007,7 +2007,7 @@
   Description: Minimalistic plugin API for video effects
   Homepage: https://www.dyne.org/software/frei0r/
 - Package: fresh-editor
-  Version: 0.2.13
+  Version: 0.2.14
   Description: 'Text editor for your terminal: easy, powerful and fast'
   Homepage: https://getfresh.dev/
 - Package: fribidi
@@ -3243,7 +3243,7 @@
   Description: KBDs showkey utility for examining keycodes
   Homepage: https://kbd-project.org/
 - Package: keybase
-  Version: 6.5.2
+  Version: 6.6.0
   Description: Key directory that maps social media identities to encryption keys
   Homepage: https://keybase.io
 - Package: keychain
@@ -6599,7 +6599,7 @@
   Description: A Matrix-WhatsApp puppeting bridge
   Homepage: https://maunium.net/go/mautrix-whatsapp/
 - Package: maven
-  Version: 3.9.12
+  Version: 3.9.13
   Description: A Java software project management and comprehension tool
   Homepage: https://maven.apache.org/
 - Package: maxcso
@@ -10419,7 +10419,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2026.03.05
+  Version: 2026.03.06
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vttest
