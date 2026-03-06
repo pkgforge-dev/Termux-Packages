@@ -3013,7 +3013,7 @@
   },
   {
     "Package": "fresh-editor",
-    "Version": "0.2.12",
+    "Version": "0.2.13",
     "Description": "Text editor for your terminal: easy, powerful and fast",
     "Homepage": "https://getfresh.dev/"
   },
@@ -3463,7 +3463,7 @@
   },
   {
     "Package": "glab-cli",
-    "Version": "1.88.0",
+    "Version": "1.89.0",
     "Description": "A GitLab CLI tool bringing GitLab to your command line",
     "Homepage": "https://gitlab.com/gitlab-org/cli"
   },
@@ -11161,7 +11161,7 @@
   },
   {
     "Package": "onnxruntime",
-    "Version": "1.24.2-1",
+    "Version": "1.24.3-1",
     "Description": "Cross-platform, high performance ML inferencing and training accelerator",
     "Homepage": "https://onnxruntime.ai/"
   },
@@ -12427,7 +12427,7 @@
   },
   {
     "Package": "python-onnxruntime",
-    "Version": "1.24.2-1",
+    "Version": "1.24.3-1",
     "Description": "Cross-platform, high performance ML inferencing and training accelerator (Python bindings)",
     "Homepage": "https://onnxruntime.ai/"
   },
@@ -12469,7 +12469,7 @@
   },
   {
     "Package": "python-ruff",
-    "Version": "0.15.4-1",
+    "Version": "0.15.5",
     "Description": "An extremely fast Python linter, written in Rust (Python bindings)",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -13237,7 +13237,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.15.4-1",
+    "Version": "0.15.5",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -15643,7 +15643,7 @@
   },
   {
     "Package": "vulkan-headers",
-    "Version": "1.4.344",
+    "Version": "1.4.345",
     "Description": "Vulkan Header files and API registry",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Headers"
   },

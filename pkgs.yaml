@@ -2007,7 +2007,7 @@
   Description: Minimalistic plugin API for video effects
   Homepage: https://www.dyne.org/software/frei0r/
 - Package: fresh-editor
-  Version: 0.2.12
+  Version: 0.2.13
   Description: 'Text editor for your terminal: easy, powerful and fast'
   Homepage: https://getfresh.dev/
 - Package: fribidi
@@ -2307,7 +2307,7 @@
   Description: Simple, Portable, Free File Transfer Software for UNIX
   Homepage: http://www.columbia.edu/kermit/gkermit.html
 - Package: glab-cli
-  Version: 1.88.0
+  Version: 1.89.0
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
@@ -7439,7 +7439,7 @@
   Description: Static libraries for oniguruma
   Homepage: https://github.com/kkos/oniguruma
 - Package: onnxruntime
-  Version: 1.24.2-1
+  Version: 1.24.3-1
   Description: Cross-platform, high performance ML inferencing and training accelerator
   Homepage: https://onnxruntime.ai/
 - Package: oorexx
@@ -8283,7 +8283,7 @@
   Description: Static libraries for python-numpy
   Homepage: https://numpy.org/
 - Package: python-onnxruntime
-  Version: 1.24.2-1
+  Version: 1.24.3-1
   Description: Cross-platform, high performance ML inferencing and training accelerator (Python bindings)
   Homepage: https://onnxruntime.ai/
 - Package: python-pillow
@@ -8311,7 +8311,7 @@
   Description: Python client for Neovim
   Homepage: https://github.com/neovim/pynvim
 - Package: python-ruff
-  Version: 0.15.4-1
+  Version: 0.15.5
   Description: An extremely fast Python linter, written in Rust (Python bindings)
   Homepage: https://github.com/charliermarsh/ruff
 - Package: python-sabyenc3
@@ -8823,7 +8823,7 @@
   Description: Ruby documentation index
   Homepage: https://www.ruby-lang.org/
 - Package: ruff
-  Version: 0.15.4-1
+  Version: 0.15.5
   Description: An extremely fast Python linter, written in Rust
   Homepage: https://github.com/charliermarsh/ruff
 - Package: runit
@@ -10427,7 +10427,7 @@
   Description: Vulkan Extension Layer
   Homepage: https://github.com/KhronosGroup/Vulkan-ExtensionLayer
 - Package: vulkan-headers
-  Version: 1.4.344
+  Version: 1.4.345
   Description: Vulkan Header files and API registry
   Homepage: https://github.com/KhronosGroup/Vulkan-Headers
 - Package: vulkan-icd
