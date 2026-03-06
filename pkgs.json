@@ -3175,7 +3175,7 @@
   },
   {
     "Package": "gdb",
-    "Version": "16.3-2",
+    "Version": "16.3-3",
     "Description": "The standard GNU Debugger that runs on many Unix-like systems and works for many programming languages",
     "Homepage": "https://www.gnu.org/software/gdb/"
   },
@@ -3193,7 +3193,7 @@
   },
   {
     "Package": "gdbserver",
-    "Version": "16.3-2",
+    "Version": "16.3-3",
     "Description": "The gdbserver program",
     "Homepage": "https://www.gnu.org/software/gdb/"
   },
@@ -12325,7 +12325,7 @@
   },
   {
     "Package": "python",
-    "Version": "3.13.12-2",
+    "Version": "3.13.12-3",
     "Description": "Python 3 programming language intended to enable clear programs",
     "Homepage": "https://python.org/"
   },
@@ -12373,7 +12373,7 @@
   },
   {
     "Package": "python-ensurepip-wheels",
-    "Version": "3.13.12-2",
+    "Version": "3.13.12-3",
     "Description": "Wheels for Python ensurepip",
     "Homepage": "https://python.org/"
   },
@@ -12493,7 +12493,7 @@
   },
   {
     "Package": "python-static",
-    "Version": "3.13.12-2",
+    "Version": "3.13.12-3",
     "Description": "Static libraries for python",
     "Homepage": "https://python.org/"
   },
@@ -12505,7 +12505,7 @@
   },
   {
     "Package": "python-tkinter",
-    "Version": "3.13.12-2",
+    "Version": "3.13.12-3",
     "Description": "Tkinter support for Python 3",
     "Homepage": "https://python.org/"
   },
@@ -15559,7 +15559,7 @@
   },
   {
     "Package": "vim",
-    "Version": "9.2.0100",
+    "Version": "9.2.0100-1",
     "Description": "Vi IMproved - enhanced vi editor",
     "Homepage": "https://www.vim.org"
   },
@@ -16081,7 +16081,7 @@
   },
   {
     "Package": "xxd",
-    "Version": "9.2.0100",
+    "Version": "9.2.0100-1",
     "Description": "Hexdump utility from vim",
     "Homepage": "https://www.vim.org"
   },
