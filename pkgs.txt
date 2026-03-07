@@ -192,7 +192,7 @@
  capstone  5.0.7  Lightweight multi-platform, multi-architecture disassembly framework  https://www.capstone-engine.org/ 
  capstone-static  5.0.7  Static libraries for capstone  https://www.capstone-engine.org/ 
  carapace  1.6.3  Multi-shell multi-command argument completer  https://carapace.sh/ 
- cargo-c  0.10.20  Cargo C-ABI helpers  https://github.com/lu-zero/cargo-c 
+ cargo-c  0.10.21  Cargo C-ABI helpers  https://github.com/lu-zero/cargo-c 
  cargo-leptos  0.3.5  Build tool for the Rust framework Leptos  https://github.com/leptos-rs/cargo-leptos 
  catdoc  0.95-2  Program which reads MS-Word file and prints readable ASCII text to stdout  http://www.wagner.pp.ru/~vitus/software/catdoc/ 
  catgirl  2.2a-1  A TLS-only terminal IRC client  https://git.causal.agency/catgirl 
@@ -447,7 +447,7 @@
  fakeroot  1.37.2  Tool for simulating superuser privileges (with tcp ipc)  https://packages.qa.debian.org/f/fakeroot.html 
  fakeroot-static  1.37.2  Static libraries for fakeroot  https://packages.qa.debian.org/f/fakeroot.html 
  fasd  2.0.0  To fastly access files and folders  https://github.com/whjvenyl/fasd 
- fastfetch  2.59.0  A maintained, feature-rich and performance oriented, neofetch like system information tool  https://github.com/fastfetch-cli/fastfetch 
+ fastfetch  2.60.0  A maintained, feature-rich and performance oriented, neofetch like system information tool  https://github.com/fastfetch-cli/fastfetch 
  fastmod  0.4.4-1  Regex-based code refactoring utility  https://github.com/facebookincubator/fastmod 
  fatsort  1.6.5.640-1  A C utility that sorts FAT12, FAT16, FAT32 and exFAT partitions  https://fatsort.sourceforge.io/ 
  faust  2.83.1  A functional programming language for signal processing and sound synthesis  https://github.com/grame-cncm/faust 
@@ -2384,7 +2384,7 @@
  sysprop  13.0.0.15-10  Generates cpp / java sysprop  https://android.googlesource.com/platform/system/tools/sysprop 
  ta-lib  0.5.0  Technical analysis library with indicators like ADX  https://ta-lib.org/ 
  ta-lib-static  0.5.0  Static libraries for ta-lib  https://ta-lib.org/ 
- taglib  2.2  A Library for reading and editing the meta-data of several popular audio formats.  http://taglib.github.io/ 
+ taglib  2.2.1  A Library for reading and editing the meta-data of several popular audio formats.  http://taglib.github.io/ 
  taplo  0.10.0-1  A TOML LSP and toolkit  https://taplo.tamasfe.dev/ 
  tar  1.35-2  GNU tar for manipulating tar archives  https://www.gnu.org/software/tar/ 
  task-spooler  1:1.0.3-1  Task spooler is a Unix batch system where the tasks spooled run one after the other  https://vicerveza.homeunix.net/~viric/soft/ts/ 
