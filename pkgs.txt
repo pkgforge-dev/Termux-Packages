@@ -215,8 +215,8 @@
  cgal  6.1.1  Computational Geometry Algorithms Library  https://www.cgal.org/ 
  cgdb  0.8.0-1  A lightweight curses (terminal-based) interface to the GNU Debugger (GDB)  https://cgdb.github.io/ 
  cgif  0.5.2  A fast and lightweight GIF encoding library  https://github.com/dloebl/cgif 
- chafa  1.18.1-1  Image-to-text converter supporting a wide range of symbols, etc.  https://hpjansson.org/chafa/ 
- chafa-static  1.18.1-1  Static libraries for chafa  https://hpjansson.org/chafa/ 
+ chafa  1.18.1-2  Image-to-text converter supporting a wide range of symbols, etc.  https://hpjansson.org/chafa/ 
+ chafa-static  1.18.1-2  Static libraries for chafa  https://hpjansson.org/chafa/ 
  check  0.15.2-3  A unit testing framework for C  https://libcheck.github.io/check 
  check-static  0.15.2-3  Static libraries for check  https://libcheck.github.io/check 
  chezmoi  2.69.4  Manage your dotfiles across multiple machines  https://chezmoi.io 
@@ -276,7 +276,7 @@
  cpufetch  1.07-1  Simple yet fancy CPU architecture fetching tool  https://github.com/Dr-Noob/cpufetch 
  cpulimit  0.2-2  CPU usage limiter  https://github.com/opsengine/cpulimit 
  crawl  0.34.0  Roguelike adventure through dungeons filled with dangerous monsters  https://crawl.develz.org/ 
- croc  1:10.4.0  Easily and securely send things from one computer to another  https://github.com/schollz/croc 
+ croc  1:10.4.1  Easily and securely send things from one computer to another  https://github.com/schollz/croc 
  cronie  1.7.2-4  Daemon that runs specified programs at scheduled times and related tools  https://github.com/cronie-crond/cronie/ 
  crowbook  0.17.0-1  Allows you to write a book in Markdown without worrying about formatting or typography  https://github.com/crowdagger/crowbook 
  crunch  3.6-5  Highly customizable wordlist generator  https://sourceforge.net/projects/crunch-wordlist/ 
@@ -623,7 +623,7 @@
  gopass  1.16.1  The slightly more awesome standard unix password manager for teams  https://github.com/gopasspw/gopass 
  gopher  3.0.17.3-2  University of Minnesota gopher  gopher://gopher.quux.org/1/devel/gopher 
  gopls  0.21.1  The official Go language server  https://github.com/golang/tools 
- goresym  3.2  Go symbol recovery tool  https://github.com/mandiant/GoReSym 
+ goresym  3.3  Go symbol recovery tool  https://github.com/mandiant/GoReSym 
  gost  2.12.0  GO Simple Tunnel - a simple tunnel written in golang  https://github.com/ginuerzh/gost 
  gotify  2.9.1  A simple server for sending and receiving messages in real-time per WebSocket.  https://github.com/gotify/server 
  gotop  4.2.0-4  A terminal based graphical activity monitor inspired by gtop and vtop  https://github.com/xxxserxxx/gotop 
@@ -890,7 +890,7 @@
  libassuan-static  3.0.2-1  Static libraries for libassuan  https://www.gnupg.org/related_software/libassuan/ 
  libatomic-ops  7.10.0  Provides semi-portable access to hardware-provided atomic memory update operations  https://github.com/bdwgc/libatomic_ops 
  libatomic-ops-static  7.10.0  Static libraries for libatomic-ops  https://github.com/bdwgc/libatomic_ops 
- libavif  1.3.0  Library for encoding and decoding .avif files  https://github.com/AOMediaCodec/libavif 
+ libavif  1.4.0  Library for encoding and decoding .avif files  https://github.com/AOMediaCodec/libavif 
  libbcprov-java  1.83  A lightweight cryptography API for Java  https://www.bouncycastle.org/java.html 
  libblkid  2.41.3  Block device identification library  https://en.wikipedia.org/wiki/Util-linux 
  libblocksruntime  1:6.2.1  LLVM Blocks runtime library  https://github.com/swiftlang/swift-corelibs-libdispatch 
@@ -1029,8 +1029,8 @@
  libgc-static  8.2.12  Static libraries for libgc  https://www.hboehm.info/gc/ 
  libgcrypt  1.11.2-1  General purpose cryptographic library based on the code from GnuPG  https://www.gnu.org/software/libgcrypt/ 
  libgcrypt-static  1.11.2-1  Static libraries for libgcrypt  https://www.gnu.org/software/libgcrypt/ 
- libgd  1:2.3.3-6  GD is an open source code library for the dynamic creation of images by programmers  https://libgd.github.io/ 
- libgd-static  1:2.3.3-6  Static libraries for libgd  https://libgd.github.io/ 
+ libgd  1:2.3.3-7  GD is an open source code library for the dynamic creation of images by programmers  https://libgd.github.io/ 
+ libgd-static  1:2.3.3-7  Static libraries for libgd  https://libgd.github.io/ 
  libgedit-gfls  0.3.1  A module dedicated to file loading and saving  https://gitlab.gnome.org/World/gedit/libgedit-gfls 
  libgee  0.20.8-1  A collection library providing GObject-based interfaces and classes for commonly used data structures  https://wiki.gnome.org/Projects/Libgee 
  libgee-static  0.20.8-1  Static libraries for libgee  https://wiki.gnome.org/Projects/Libgee 
@@ -1376,9 +1376,9 @@
  libspice-protocol  0.14.5  SPICE protocol headers  https://www.spice-space.org/ 
  libspice-server  0.16.0-1  Implements the server side of the SPICE protocol  https://www.spice-space.org/ 
  libspice-server-static  0.16.0-1  Static libraries for libspice-server  https://www.spice-space.org/ 
- libsqlite  3.51.2  Library implementing a self-contained and transactional SQL database engine  https://www.sqlite.org 
- libsqlite-static  3.51.2  Static libraries for libsqlite  https://www.sqlite.org 
- libsqlite-tcl  3.51.2  tcl bindings for SQLite  https://www.sqlite.org 
+ libsqlite  3.52.0  Library implementing a self-contained and transactional SQL database engine  https://www.sqlite.org 
+ libsqlite-static  3.52.0  Static libraries for libsqlite  https://www.sqlite.org 
+ libsqlite-tcl  3.52.0  tcl bindings for SQLite  https://www.sqlite.org 
  libsrt  1.5.4-2  Secure Reliable Transport (SRT) Protocol  https://github.com/Haivision/srt 
  libssh  0.12.0  Tiny C SSH library  https://www.libssh.org/ 
  libssh2  1.11.1-1  Client-side library implementing the SSH2 protocol  https://www.libssh2.org 
@@ -1453,8 +1453,8 @@
  libusbmuxd-static  2.1.1-2  Static libraries for libusbmuxd  https://libimobiledevice.org 
  libusbredir  0.13.0-1  network protocol for sending USB device traffic over a network connection  https://www.spice-space.org/ 
  libuuid  2.41.3  Library for handling universally unique identifiers  https://en.wikipedia.org/wiki/Util-linux 
- libuv  1.52.0  Support library with a focus on asynchronous I/O  https://libuv.org 
- libuv-static  1.52.0  Static libraries for libuv  https://libuv.org 
+ libuv  1.52.1  Support library with a focus on asynchronous I/O  https://libuv.org 
+ libuv-static  1.52.1  Static libraries for libuv  https://libuv.org 
  libv4l  1.24.1-2  Linux libraries to handle media devices  https://git.linuxtv.org/v4l-utils.git 
  libv4l-static  1.24.1-2  Static libraries for libv4l  https://git.linuxtv.org/v4l-utils.git 
  libvbisam  2.0-3  A replacement for IBM's C-ISAM  https://sourceforge.net/projects/vbisam/ 
@@ -2071,7 +2071,7 @@
  python-numpy  2.2.5-4  The fundamental package for scientific computing with Python  https://numpy.org/ 
  python-numpy-static  2.2.5-4  Static libraries for python-numpy  https://numpy.org/ 
  python-onnxruntime  1.24.3-1  Cross-platform, high performance ML inferencing and training accelerator (Python bindings)  https://onnxruntime.ai/ 
- python-pillow  12.1.1-2  Python Imaging Library  https://python-pillow.org/ 
+ python-pillow  12.1.1-3  Python Imaging Library  https://python-pillow.org/ 
  python-pip  26.0.1-1  The PyPA recommended tool for installing Python packages  https://pip.pypa.io/ 
  python-psutil  7.2.2  Cross-platform process and system utilities module for Python  https://github.com/giampaolo/psutil 
  python-pyarrow  23.0.1-1  Python bindings for Apache Arrow  https://github.com/apache/arrow 
@@ -2134,7 +2134,7 @@
  rage  0.11.1-1  A simple, secure and modern encryption tool  https://age-encryption.org/v1 
  ragel  7.0.4-1  Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code  https://www.colm.net/open-source/ragel/ 
  ragel-static  7.0.4-1  Static libraries for ragel  https://www.colm.net/open-source/ragel/ 
- railway-cli  4.30.5  This is the command line interface for Railway  https://railway.app 
+ railway-cli  4.31.0  This is the command line interface for Railway  https://railway.app 
  range-v3  0.12.0  Range library for C++14/17/20, basis for C++20's std::ranges  https://github.com/ericniebler/range-v3 
  ranger  1.9.4-1  File manager with VI key bindings  https://ranger.github.io/ 
  rapidjson  1.1.0-7  Fast JSON parser/generator for C++ with SAX/DOM style API  https://github.com/Tencent/rapidjson/ 
@@ -2144,7 +2144,7 @@
  ravencoin-static  4.6.1-9  Static libraries for ravencoin  https://ravencoin.org/ 
  rbw  1.15.0  An unofficial command line client for Bitwarden  https://github.com/doy/rbw 
  rc  1.7.4-2  An alternative implementation of the plan 9 rc shell  https://github.com/rakitzis/rc 
- rclone  1.73.1  rsync for cloud storage  https://rclone.org/ 
+ rclone  1.73.2  rsync for cloud storage  https://rclone.org/ 
  rcm  1.3.6  Dotfiles management  https://github.com/thoughtbot/rcm 
  rcs  5.10.1-1  The GNU Revision Control System  https://www.gnu.org/s/rcs 
  rdfind  1.8.0  A tool for finding duplicate files  https://github.com/pauldreik/rdfind 
@@ -2317,7 +2317,7 @@
  spirv-llvm-translator  21.1.5  SPIR-V LLVM Translator  https://github.com/KhronosGroup/SPIRV-LLVM-Translator 
  spirv-tools  1.4.341.0  SPIR-V Tools  https://github.com/KhronosGroup/SPIRV-Tools 
  sqlcipher  4.13.0  SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files  https://github.com/sqlcipher/sqlcipher 
- sqlite  3.51.2  Command line shell for SQLite  https://www.sqlite.org 
+ sqlite  3.52.0  Command line shell for SQLite  https://www.sqlite.org 
  squashfs-tools-ng  1.3.2-1  New set of tools for working with SquashFS images  https://github.com/AgentD/squashfs-tools-ng 
  squashfs-tools-ng-static  1.3.2-1  Static libraries for squashfs-tools-ng  https://github.com/AgentD/squashfs-tools-ng 
  squeezelite  2.0.0.1517-2  A small headless Logitech Squeezebox emulator  https://ralph-irving.github.io/squeezelite.html 
@@ -2402,7 +2402,7 @@
  teckit-static  2.5.13  Static libraries for teckit  https://scripts.sil.org/teckitdownloads 
  tectonic  0.15.0-5  A modernized, complete, self-contained TeX/LaTeX engine  https://tectonic-typesetting.github.io/ 
  telegram-bot-api  20241031-2  Telegram Bot API server  https://github.com/tdlib/telegram-bot-api 
- teleport-tsh  18.7.1  Secure Access for Developers that doesn't get in the way  https://github.com/gravitational/teleport 
+ teleport-tsh  18.7.2  Secure Access for Developers that doesn't get in the way  https://github.com/gravitational/teleport 
  tere  1.6.0-1  Terminal file explorer written in rust  https://github.com/mgunyho/tere 
  tergent  1.0.0-5  A cryptoki/PKCS#11 library for Termux that uses Android Keystore as its backend  https://github.com/aeolwyr/tergent 
  termimage  1.2.1-1  Terminal image viewer  https://github.com/nabijaczleweli/termimage 
@@ -2610,9 +2610,9 @@
  vulkan-icd  0.1  A metapackage that provides Vulkan ICDs  https://github.com/termux/termux-packages 
  vulkan-loader  0.0.3  A metapackage that provides vulkan loader library  https://github.com/termux/termux-packages 
  vulkan-loader-android  29  Vulkan Loader for Android  https://source.android.com/devices/graphics/arch-vulkan 
- vulkan-loader-generic  1.4.344  Vulkan Loader  https://github.com/KhronosGroup/Vulkan-Loader 
- vulkan-tools  1.4.344  Vulkan Tools and Utilities  https://github.com/KhronosGroup/Vulkan-Tools 
- vulkan-utility-libraries  1.4.344  Utility Libraries for Vulkan  https://github.com/KhronosGroup/Vulkan-Utility-Libraries 
+ vulkan-loader-generic  1.4.345  Vulkan Loader  https://github.com/KhronosGroup/Vulkan-Loader 
+ vulkan-tools  1.4.345  Vulkan Tools and Utilities  https://github.com/KhronosGroup/Vulkan-Tools 
+ vulkan-utility-libraries  1.4.345  Utility Libraries for Vulkan  https://github.com/KhronosGroup/Vulkan-Utility-Libraries 
  vulkan-validation-layers  1.4.343  Vulkan Validation Layers  https://github.com/KhronosGroup/Vulkan-ValidationLayers 
  vulkan-volk  1.4.304  Meta loader for Vulkan API  https://github.com/zeux/volk 
  w3m  0.5.6  Text based Web browser and pager  https://w3m.sourceforge.net/ 

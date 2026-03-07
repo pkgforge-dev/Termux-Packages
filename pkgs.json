@@ -1303,13 +1303,13 @@
   },
   {
     "Package": "chafa",
-    "Version": "1.18.1-1",
+    "Version": "1.18.1-2",
     "Description": "Image-to-text converter supporting a wide range of symbols, etc.",
     "Homepage": "https://hpjansson.org/chafa/"
   },
   {
     "Package": "chafa-static",
-    "Version": "1.18.1-1",
+    "Version": "1.18.1-2",
     "Description": "Static libraries for chafa",
     "Homepage": "https://hpjansson.org/chafa/"
   },
@@ -1669,7 +1669,7 @@
   },
   {
     "Package": "croc",
-    "Version": "1:10.4.0",
+    "Version": "1:10.4.1",
     "Description": "Easily and securely send things from one computer to another",
     "Homepage": "https://github.com/schollz/croc"
   },
@@ -3751,7 +3751,7 @@
   },
   {
     "Package": "goresym",
-    "Version": "3.2",
+    "Version": "3.3",
     "Description": "Go symbol recovery tool",
     "Homepage": "https://github.com/mandiant/GoReSym"
   },
@@ -5353,7 +5353,7 @@
   },
   {
     "Package": "libavif",
-    "Version": "1.3.0",
+    "Version": "1.4.0",
     "Description": "Library for encoding and decoding .avif files",
     "Homepage": "https://github.com/AOMediaCodec/libavif"
   },
@@ -6187,13 +6187,13 @@
   },
   {
     "Package": "libgd",
-    "Version": "1:2.3.3-6",
+    "Version": "1:2.3.3-7",
     "Description": "GD is an open source code library for the dynamic creation of images by programmers",
     "Homepage": "https://libgd.github.io/"
   },
   {
     "Package": "libgd-static",
-    "Version": "1:2.3.3-6",
+    "Version": "1:2.3.3-7",
     "Description": "Static libraries for libgd",
     "Homepage": "https://libgd.github.io/"
   },
@@ -8269,19 +8269,19 @@
   },
   {
     "Package": "libsqlite",
-    "Version": "3.51.2",
+    "Version": "3.52.0",
     "Description": "Library implementing a self-contained and transactional SQL database engine",
     "Homepage": "https://www.sqlite.org"
   },
   {
     "Package": "libsqlite-static",
-    "Version": "3.51.2",
+    "Version": "3.52.0",
     "Description": "Static libraries for libsqlite",
     "Homepage": "https://www.sqlite.org"
   },
   {
     "Package": "libsqlite-tcl",
-    "Version": "3.51.2",
+    "Version": "3.52.0",
     "Description": "tcl bindings for SQLite",
     "Homepage": "https://www.sqlite.org"
   },
@@ -8731,13 +8731,13 @@
   },
   {
     "Package": "libuv",
-    "Version": "1.52.0",
+    "Version": "1.52.1",
     "Description": "Support library with a focus on asynchronous I/O",
     "Homepage": "https://libuv.org"
   },
   {
     "Package": "libuv-static",
-    "Version": "1.52.0",
+    "Version": "1.52.1",
     "Description": "Static libraries for libuv",
     "Homepage": "https://libuv.org"
   },
@@ -12439,7 +12439,7 @@
   },
   {
     "Package": "python-pillow",
-    "Version": "12.1.1-2",
+    "Version": "12.1.1-3",
     "Description": "Python Imaging Library",
     "Homepage": "https://python-pillow.org/"
   },
@@ -12817,7 +12817,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "4.30.5",
+    "Version": "4.31.0",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -12877,7 +12877,7 @@
   },
   {
     "Package": "rclone",
-    "Version": "1.73.1",
+    "Version": "1.73.2",
     "Description": "rsync for cloud storage",
     "Homepage": "https://rclone.org/"
   },
@@ -13915,7 +13915,7 @@
   },
   {
     "Package": "sqlite",
-    "Version": "3.51.2",
+    "Version": "3.52.0",
     "Description": "Command line shell for SQLite",
     "Homepage": "https://www.sqlite.org"
   },
@@ -14425,7 +14425,7 @@
   },
   {
     "Package": "teleport-tsh",
-    "Version": "18.7.1",
+    "Version": "18.7.2",
     "Description": "Secure Access for Developers that doesnt get in the way",
     "Homepage": "https://github.com/gravitational/teleport"
   },
@@ -15673,19 +15673,19 @@
   },
   {
     "Package": "vulkan-loader-generic",
-    "Version": "1.4.344",
+    "Version": "1.4.345",
     "Description": "Vulkan Loader",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Loader"
   },
   {
     "Package": "vulkan-tools",
-    "Version": "1.4.344",
+    "Version": "1.4.345",
     "Description": "Vulkan Tools and Utilities",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Tools"
   },
   {
     "Package": "vulkan-utility-libraries",
-    "Version": "1.4.344",
+    "Version": "1.4.345",
     "Description": "Utility Libraries for Vulkan",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Utility-Libraries"
   },
