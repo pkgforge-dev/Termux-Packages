@@ -419,7 +419,7 @@
   Description: A collection of freely re-usable Autoconf macros
   Homepage: https://www.gnu.org/software/autoconf-archive/
 - Package: autojump
-  Version: 22.5.3-1
+  Version: 22.5.3-2
   Description: A faster way to navigate your filesystem
   Homepage: https://github.com/wting/autojump
 - Package: automake
@@ -751,11 +751,11 @@
   Description: Arbitrary precision console calculator
   Homepage: http://www.isthe.com/chongo/tech/comp/calc/
 - Package: calcurse
-  Version: 4.8.2-1
+  Version: 4.8.2-2
   Description: calcurse is a calendar and scheduling application for the command line
   Homepage: https://calcurse.org/
 - Package: calcurse-caldav
-  Version: 4.8.2-1
+  Version: 4.8.2-2
   Description: Sync calcurse with remote caldav calendar
   Homepage: https://calcurse.org/
 - Package: capnproto
@@ -1607,7 +1607,7 @@
   Description: Command which takes in Java class files and converts them to format executable by Dalvik VM
   Homepage: http://developer.android.com/tools/help/index.html
 - Package: e2fsprogs
-  Version: 1.47.3-1
+  Version: 1.47.4
   Description: EXT 2/3/4 filesystem utilities
   Homepage: https://e2fsprogs.sourceforge.net
 - Package: e2tools
@@ -1827,7 +1827,7 @@
   Description: A significantly faster alternative to the classic Unix cp(1) command
   Homepage: https://github.com/Svetlitski/fcp
 - Package: fd
-  Version: 10.3.0-1
+  Version: 10.4.0
   Description: Simple, fast and user-friendly alternative to find
   Homepage: https://github.com/sharkdp/fd
 - Package: fdisk
@@ -2315,11 +2315,11 @@
   Description: A friendly language for building type-safe, scalable systems!
   Homepage: https://gleam.run
 - Package: glib
-  Version: 2.86.4
+  Version: 2.86.4-1
   Description: Library providing core building blocks for libraries and applications written in C
   Homepage: https://developer.gnome.org/glib/
 - Package: glib-cross
-  Version: 2.86.4
+  Version: 2.86.4-1
   Description: glib for host (NOT for Termux)
   Homepage: https://developer.gnome.org/glib/
 - Package: glib-networking
@@ -2583,11 +2583,11 @@
   Description: Static libraries for graphicsmagick
   Homepage: http://www.graphicsmagick.org/
 - Package: graphviz
-  Version: 14.1.2
+  Version: 14.1.3
   Description: Rich set of graph drawing tools
   Homepage: https://www.graphviz.org/
 - Package: graphviz-static
-  Version: 14.1.2
+  Version: 14.1.3
   Description: Static libraries for graphviz
   Homepage: https://www.graphviz.org/
 - Package: greed
@@ -2715,7 +2715,7 @@
   Description: Tools using the harfbuzz library
   Homepage: https://www.freedesktop.org/wiki/Software/HarfBuzz/
 - Package: hash-slinger
-  Version: "3.5"
+  Version: 3.5-1
   Description: Various tools to generate special DNS records
   Homepage: https://github.com/letoams/hash-slinger
 - Package: hashdeep
@@ -3059,7 +3059,7 @@
   Description: Static libraries for iverilog
   Homepage: http://iverilog.icarus.com/
 - Package: iwyu
-  Version: 0.25-1
+  Version: 0.25-2
   Description: 'A tool to analyze #includes in C and C++ source files'
   Homepage: https://include-what-you-use.org/
 - Package: jack
@@ -3099,11 +3099,11 @@
   Description: Static libraries for jbig2dec
   Homepage: https://jbig2dec.com/
 - Package: jbig2enc
-  Version: "1:0.30"
+  Version: 1:0.30-1
   Description: An encoder for JBIG2
   Homepage: https://github.com/agl/jbig2enc
 - Package: jbig2enc-static
-  Version: "1:0.30"
+  Version: 1:0.30-1
   Description: Static libraries for jbig2enc
   Homepage: https://github.com/agl/jbig2enc
 - Package: jcal
@@ -3643,7 +3643,7 @@
   Description: C++ Standard Library
   Homepage: https://libcxx.llvm.org/
 - Package: libc++utilities
-  Version: 5.32.1-1
+  Version: 5.33.0
   Description: Useful C++ classes and routines such as argument parser, IO and conversion utilities
   Homepage: https://github.com/Martchus/cpp-utilities
 - Package: libc-client
@@ -5715,11 +5715,11 @@
   Description: Like ldd(1), but prints a tree(1) like output
   Homepage: https://github.com/haampie/libtree
 - Package: libtsduck
-  Version: 3.43.4549
+  Version: 3.43.4549-1
   Description: An extensible toolkit for MPEG transport streams
   Homepage: https://tsduck.io/
 - Package: libtsduck-static
-  Version: 3.43.4549
+  Version: 3.43.4549-1
   Description: Static libraries for libtsduck
   Homepage: https://tsduck.io/
 - Package: libtvision
@@ -6103,15 +6103,15 @@
   Description: A C library for creating Excel XLSX files
   Homepage: https://libxlsxwriter.github.io/
 - Package: libxml2
-  Version: 2.15.2
+  Version: 2.15.2-1
   Description: Library for parsing XML documents
   Homepage: https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home
 - Package: libxml2-python
-  Version: 2.15.2
+  Version: 2.15.2-1
   Description: Python bindings for libxml2
   Homepage: https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home
 - Package: libxml2-utils
-  Version: 2.15.2
+  Version: 2.15.2-1
   Description: XML utilities
   Homepage: https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home
 - Package: libxmlb
@@ -6247,7 +6247,7 @@
   Description: A C library to make the use of LV2 plugins as simple as possible for applications
   Homepage: https://drobilla.net/software/lilv.html
 - Package: lilypond
-  Version: 2.24.4-4
+  Version: 2.24.4-5
   Description: A music engraving program
   Homepage: https://lilypond.org/
 - Package: links
@@ -6479,7 +6479,7 @@
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://lux.lumen-labs.org
 - Package: lv2
-  Version: 1.18.10-6
+  Version: 1.18.10-7
   Description: A plugin standard for audio systems
   Homepage: https://lv2plug.in/
 - Package: lychee
@@ -6731,7 +6731,7 @@
   Description: Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage
   Homepage: https://xff.cz/megatools/
 - Package: memcached
-  Version: 1.6.40
+  Version: 1.6.41
   Description: Free & open source, high-performance, distributed memory object caching system
   Homepage: https://memcached.org/
 - Package: mercury
@@ -6887,7 +6887,7 @@
   Description: Simple game where you drive a car across the moons surface
   Homepage: https://github.com/seehuhn/moon-buggy
 - Package: moor
-  Version: 2.11.0
+  Version: 2.11.1
   Description: A pager designed to just do the right thing without any configuration
   Homepage: https://github.com/walles/moor
 - Package: mop
@@ -7187,7 +7187,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.12.0~dev-2435+g18c5f06c9f-0
+  Version: 0.12.0~dev-2496+gf1c82be1a1-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -7739,7 +7739,7 @@
   Description: Generate EdDSA/cv25519 private key in GnuPG/SSH format reproducibly per hash of user given passphrase
   Homepage: https://github.com/skeeto/passphrase2pgp
 - Package: pastebinit
-  Version: 1.5.1-2
+  Version: 1.5.1-3
   Description: Command-line pastebin client
   Homepage: https://launchpad.net/pastebinit
 - Package: pastel
@@ -7755,7 +7755,7 @@
   Description: Utility to modify the dynamic linker and RPATH of ELF executables
   Homepage: https://nixos.org/patchelf.html
 - Package: pathpicker
-  Version: 0.9.5-2
+  Version: 0.9.5-3
   Description: Facebook PathPicker - a terminal-based file picker
   Homepage: https://facebook.github.io/PathPicker/
 - Package: pb
@@ -8095,7 +8095,7 @@
   Description: A standalone front-end for the Java decompiler in Procyon Compiler Toolset
   Homepage: https://github.com/mstrobel/procyon
 - Package: profanity
-  Version: 0.16.0
+  Version: 0.16.0-1
   Description: Profanity is a console based XMPP client written in C using ncurses and libstrophe, inspired by Irssi
   Homepage: https://profanity-im.github.io
 - Package: progress
@@ -8607,7 +8607,7 @@
   Description: A utility for local/remote mirroring and incremental backups
   Homepage: https://rdiff-backup.net
 - Package: rdircd
-  Version: 2023.02.07-2
+  Version: 2023.02.07-3
   Description: A daemon that allows using a personal Discord account through an IRC client
   Homepage: https://github.com/mk-fg/reliable-discord-client-irc-daemon
 - Package: rdrview
@@ -8911,7 +8911,7 @@
   Description: A custom system info fetching tool
   Homepage: https://github.com/Mangeshrex/rxfetch
 - Package: sabnzbd
-  Version: 4.5.5-1
+  Version: 4.5.5-2
   Description: Fully automated Usenet Binary Downloader
   Homepage: https://sabnzbd.org/
 - Package: samba
@@ -9111,7 +9111,7 @@
   Description: Simulator for Microchip AVR (formerly Atmel) microcontrollers
   Homepage: https://www.nongnu.org/simulavr
 - Package: sing-box
-  Version: 1.13.1
+  Version: 1.13.2
   Description: The universal proxy platform
   Homepage: https://sing-box.sagernet.org
 - Package: skate
@@ -9307,7 +9307,7 @@
   Description: Command-line tools for libsrt
   Homepage: https://github.com/Haivision/srt
 - Package: srt2vobsub
-  Version: 1.0-7
+  Version: 1.0-8
   Description: A command-line tool that generates a pair of .idx/.sub subtitle files from a textual subtitles file
   Homepage: https://srt2vobsub.sourceforge.io/
 - Package: ssdb
@@ -9483,7 +9483,7 @@
   Description: Swiss Army Knife for SMTP
   Homepage: http://jetmore.org/john/code/swaks/
 - Package: swi-prolog
-  Version: 10.1.4
+  Version: 10.1.4-1
   Description: Most popular and complete prolog implementation
   Homepage: https://swi-prolog.org/
 - Package: swift-runtime-aarch64
@@ -9691,11 +9691,11 @@
   Description: A C library for the Termux:GUI plugin
   Homepage: https://github.com/tareksander/termux-gui-c-bindings
 - Package: termux-gui-package
-  Version: 0.1.6-3
+  Version: 0.1.6-4
   Description: A Termux package containing utilities for Termux:GUI
   Homepage: https://github.com/tareksander/termux-gui-package
 - Package: termux-gui-pm
-  Version: 1.0.0-3
+  Version: 1.0.0-4
   Description: A graphical package manager for various package formats for Termux and proot-distro distros
   Homepage: https://github.com/tareksander/termux-gui-pm
 - Package: termux-keyring
@@ -9819,7 +9819,7 @@
   Description: Very small scheme implementation
   Homepage: https://tinyscheme.sourceforge.net/home.html
 - Package: tinysparql
-  Version: 3.10.1
+  Version: 3.10.1-1
   Description: Desktop-neutral metadata-based search framework
   Homepage: https://gnome.pages.gitlab.gnome.org/tinysparql
 - Package: tizonia
@@ -9855,7 +9855,7 @@
   Description: toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library
   Homepage: https://github.com/ToruNiina/toml11
 - Package: topgrade
-  Version: 16.9.0
+  Version: 17.0.0
   Description: Upgrade all the things
   Homepage: https://github.com/topgrade-rs/topgrade/
 - Package: tor
@@ -10015,19 +10015,19 @@
   Description: An openssh client alternative
   Homepage: https://trzsz.github.io/ssh
 - Package: tsduck-java
-  Version: 3.43.4549
+  Version: 3.43.4549-1
   Description: Java bindings for TSDuck
   Homepage: https://tsduck.io/
 - Package: tsduck-plugins
-  Version: 3.43.4549
+  Version: 3.43.4549-1
   Description: Plugins for TSDuck
   Homepage: https://tsduck.io/
 - Package: tsduck-python
-  Version: 3.43.4549
+  Version: 3.43.4549-1
   Description: Python bindings for TSDuck
   Homepage: https://tsduck.io/
 - Package: tsduck-tools
-  Version: 3.43.4549
+  Version: 3.43.4549-1
   Description: Command line tools for TSDuck
   Homepage: https://tsduck.io/
 - Package: tsocks
@@ -10131,7 +10131,7 @@
   Description: A basic user tool to execute simple docker containers in batch or interactive systems without root privileges.
   Homepage: https://indigo-dc.github.io/udocker
 - Package: uftrace
-  Version: "0.19"
+  Version: 0.19-1
   Description: Function (graph) tracer for user-space
   Homepage: https://uftrace.github.io/slide
 - Package: ugrep
@@ -10171,11 +10171,11 @@
   Description: 'Remove #ifdefed lines'
   Homepage: http://dotat.at/prog/unifdef/
 - Package: units
-  Version: "2.26"
+  Version: 2.26-1
   Description: Converts between different systems of units
   Homepage: https://www.gnu.org/software/units/
 - Package: units-cur
-  Version: "2.26"
+  Version: 2.26-1
   Description: units_cur Python script
   Homepage: https://www.gnu.org/software/units/
 - Package: unixodbc
@@ -10535,23 +10535,23 @@
   Description: Pluggable Transport based on HTTP Upgrade(HTTPT)
   Homepage: https://torproject.org/
 - Package: weechat
-  Version: 4.7.1-1
+  Version: 4.7.1-2
   Description: Fast, light and extensible IRC chat client
   Homepage: https://weechat.org/
 - Package: weechat-lua-plugin
-  Version: 4.7.1-1
+  Version: 4.7.1-2
   Description: WeeChat Lua Plugin
   Homepage: https://weechat.org/
 - Package: weechat-perl-plugin
-  Version: 4.7.1-1
+  Version: 4.7.1-2
   Description: WeeChat Perl Plugin
   Homepage: https://weechat.org/
 - Package: weechat-python-plugin
-  Version: 4.7.1-1
+  Version: 4.7.1-2
   Description: WeeChat Python3 Plugin
   Homepage: https://weechat.org/
 - Package: weechat-ruby-plugin
-  Version: 4.7.1-1
+  Version: 4.7.1-2
   Description: WeeChat Ruby Plugin
   Homepage: https://weechat.org/
 - Package: weggli
@@ -10771,7 +10771,7 @@
   Description: Blazing fast terminal file manager written in Rust, based on async I/O
   Homepage: https://yazi-rs.github.io/
 - Package: yosys
-  Version: "0.63"
+  Version: 0.63-1
   Description: A framework for RTL synthesis tools
   Homepage: https://yosyshq.net/yosys/
 - Package: youtubedr
@@ -10791,7 +10791,7 @@
   Description: A POSIX script that helps you find Youtube videos (without API)
   Homepage: https://github.com/pystardust/ytfzf
 - Package: ytui-music
-  Version: 2.0.0-beta-4
+  Version: 2.0.0-beta-5
   Description: Youtube client in terminal for music
   Homepage: https://github.com/sudipghimire533/ytui-music
 - Package: yuma123
