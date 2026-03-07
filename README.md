@@ -105,7 +105,7 @@
 | **at-spi2-core** | 2.58.3-3 | Assistive Technology Service Provider Interface (AT-SPI) | https://wiki.gnome.org/Accessibility |
 | **atomicparsley** | 1:20240608.083822.1ed9031-1 | Read, parse and set metadata of MPEG-4 and 3gp files | https://github.com/wez/atomicparsley |
 | **atomvm** | 1:0.6.6-1 | The minimal Erlang VM implementation | https://github.com/bettio/AtomVM |
-| **atool** | 0.39.0-1 | tool for managing file archives of various types | https://www.nongnu.org/atool |
+| **atool** | 0.39.0-2 | tool for managing file archives of various types | https://www.nongnu.org/atool |
 | **attr** | 2.5.2-1 | Utilities for manipulating filesystem extended attributes | http://savannah.nongnu.org/projects/attr/ |
 | **attr-static** | 2.5.2-1 | Static libraries for attr | http://savannah.nongnu.org/projects/attr/ |
 | **atuin** | 18.12.1 | Magical shell history | https://atuin.sh/ |
@@ -144,9 +144,9 @@
 | **bgrep** | 1.0-4 | Binary string grep tool | https://debugmo.de/2009/04/bgrep-a-binary-grep/ |
 | **biboumi** | 9.0-5 | An XMPP gateway that connects to IRC servers and translates between the two protocols | https://biboumi.louiz.org/ |
 | **binaryen** | 126 | Binaryen is a compiler and toolchain infrastructure library for WebAssembly | https://github.com/WebAssembly/binaryen |
-| **binutils** | 2.46.0-2 | A GNU collection of binary utilities | https://www.gnu.org/software/binutils/ |
+| **binutils** | 2.46.0-3 | A GNU collection of binary utilities | https://www.gnu.org/software/binutils/ |
 | **binutils-bin** | 2.46.0-2 | Collection of binary tools, the main ones being ld, the GNU linker, and as, the GNU assembler | https://www.gnu.org/software/binutils/ |
-| **binutils-cross** | 2.46.0-2 | GNU Binutils for cross build on the host (NOT for Termux) | https://www.gnu.org/software/binutils/ |
+| **binutils-cross** | 2.46.0-3 | GNU Binutils for cross build on the host (NOT for Termux) | https://www.gnu.org/software/binutils/ |
 | **binutils-is-llvm** | 0.3-4 | Use llvm as binutils | https://github.com/trentbuck/binutils-is-llvm |
 | **bison** | 3.8.2-4 | General-purpose parser generator | https://www.gnu.org/software/bison/ |
 | **bison-static** | 3.8.2-4 | Static libraries for bison | https://www.gnu.org/software/bison/ |
@@ -243,7 +243,7 @@
 | **ckermit** | 9.0.302-3 | A combined network and serial communication software package | https://www.kermitproject.org/ckermit.html |
 | **clamav** | 1.5.2 | Anti-virus toolkit for Unix | https://www.clamav.net/ |
 | **clamav-static** | 1.5.2 | Static libraries for clamav | https://www.clamav.net/ |
-| **clang** | 21.1.8-1 | C language frontend for LLVM | https://clang.llvm.org/ |
+| **clang** | 21.1.8-2 | C language frontend for LLVM | https://clang.llvm.org/ |
 | **clblast** | 1.6.3-1 | Tuned OpenCL BLAS | https://github.com/CNugteren/CLBlast |
 | **clidle** | 2022.05.25-3 | Play Wordle over SSH | https://github.com/ajeetdsouza/clidle |
 | **clifm** | 1.27.1 | The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell | https://github.com/leo-arch/clifm |
@@ -325,7 +325,7 @@
 | **dcraw** | 9.28.0-7 | Raw digital camera images decoding utility | https://www.dechifro.org/dcraw/ |
 | **ddrescue** | 1.30 | GNU data recovery tool | https://www.gnu.org/software/ddrescue/ |
 | **debianutils** | 5.23.2-1 | Small utilities which are used primarily by the installation scripts of Debian packages | https://packages.debian.org/debianutils |
-| **debootstrap** | 1.0.142 | Bootstrap a basic Debian system | https://wiki.debian.org/Debootstrap |
+| **debootstrap** | 1.0.142-1 | Bootstrap a basic Debian system | https://wiki.debian.org/Debootstrap |
 | **desed** | 1.2.2-1 | Demystifies and debugs your sed scripts | https://github.com/SoptikHa2/desed |
 | **deutex** | 5.2.3-1 | WAD composer for Doom, Heretic, Hexen, and Strife | https://github.com/Doom-Utils/deutex/ |
 | **dex2jar** | 2.4-1 | Tools to work with android .dex and java .class files | https://github.com/pxb1988/dex2jar |
@@ -531,8 +531,8 @@
 | **gap** | 4.15.1 | GAP is a system for computational discrete algebra, with particular emphasis on Computational Group Theory | https://www.gap-system.org/ |
 | **gap-packages** | 4.15.1 | Packages for gap | https://www.gap-system.org/ |
 | **gatling** | 0.16-1 | A high performance http, ftp and smb server | https://www.fefe.de/gatling/ |
-| **gauche** | 0.9.15-2 | An R7RS Scheme implementation developed to be a handy script interpreter | https://practical-scheme.net/gauche/ |
-| **gauche-static** | 0.9.15-2 | Static libraries for gauche | https://practical-scheme.net/gauche/ |
+| **gauche** | 0.9.15-3 | An R7RS Scheme implementation developed to be a handy script interpreter | https://practical-scheme.net/gauche/ |
+| **gauche-static** | 0.9.15-3 | Static libraries for gauche | https://practical-scheme.net/gauche/ |
 | **gawk** | 5.3.2 | Programming language designed for text processing | https://www.gnu.org/software/gawk/ |
 | **gawk-static** | 5.3.2 | Static libraries for gawk | https://www.gnu.org/software/gawk/ |
 | **gbt** | 2.0.0-6 | Highly configurable prompt builder for Bash and ZSH written in Go | https://github.com/jtyr/gbt |
@@ -839,8 +839,8 @@
 | **lastpass-cli** | 1.6.1-4 | LastPass command line interface tool | https://lastpass.com/ |
 | **lazygit** | 0.59.0 | Simple terminal UI for git commands | https://github.com/jesseduffield/lazygit |
 | **lcal** | 2.1.0-1 | A multi-platform program which generates PostScript lunar calendars in a yearly format | https://pcal.sourceforge.net/ |
-| **ldc** | 1.30.0-2 | D programming language compiler, built with LLVM | https://github.com/ldc-developers/ldc |
-| **ldd** | 0.3 | Fake ldd command | https://github.com/termux/termux-packages |
+| **ldc** | 1.30.0-3 | D programming language compiler, built with LLVM | https://github.com/ldc-developers/ldc |
+| **ldd** | 0.3-1 | Fake ldd command | https://github.com/termux/termux-packages |
 | **ldns** | 1.8.4-1 | Library for simplifying DNS programming and supporting recent and experimental RFCs | https://www.nlnetlabs.nl/projects/ldns/ |
 | **ldns-static** | 1.8.4-1 | Static libraries for ldns | https://www.nlnetlabs.nl/projects/ldns/ |
 | **ledger** | 3.4.1-2 | Powerful, double-entry accounting system | https://www.ledger-cli.org |
@@ -954,7 +954,7 @@
 | **libcoinor-utils** | 1:2.11.11-1 | An open-source collection of classes and helper functions for COIN-OR projects | https://github.com/coin-or/CoinUtils |
 | **libcoinor-utils-static** | 1:2.11.11-1 | Static libraries for libcoinor-utils | https://github.com/coin-or/CoinUtils |
 | **libcommons-lang3-java** | 3.20.0 | A host of helper utilities for the java.lang API | https://commons.apache.org/proper/commons-lang/ |
-| **libcompiler-rt** | 21.1.8-1 | Compiler runtime libraries for clang | https://clang.llvm.org/ |
+| **libcompiler-rt** | 21.1.8-2 | Compiler runtime libraries for clang | https://clang.llvm.org/ |
 | **libconfig** | 1.8.2 | C/C++ Configuration File Library | https://github.com/hyperrealm/libconfig |
 | **libconfig-static** | 1.8.2 | Static libraries for libconfig | https://github.com/hyperrealm/libconfig |
 | **libconfuse** | 3.3-1 | Small configuration file parser library for C | https://github.com/martinh/libconfuse |
@@ -1141,8 +1141,8 @@
 | **liblightning-static** | 2.2.3-1 | Static libraries for liblightning | https://www.gnu.org/software/lightning/ |
 | **libliquid-dsp** | 1.7.0-1 | Software-defined radio digital signal processing library | https://liquidsdr.org/ |
 | **libliquid-dsp-static** | 1.7.0-1 | Static libraries for libliquid-dsp | https://liquidsdr.org/ |
-| **libllvm** | 21.1.8-1 | Modular compiler and toolchain technologies library | https://clang.llvm.org/ |
-| **libllvm-static** | 21.1.8-1 | Static libraries for libllvm | https://clang.llvm.org/ |
+| **libllvm** | 21.1.8-2 | Modular compiler and toolchain technologies library | https://clang.llvm.org/ |
+| **libllvm-static** | 21.1.8-2 | Static libraries for libllvm | https://clang.llvm.org/ |
 | **liblmdb** | 0.9.35 | LMDB implements a simplified variant of the BerkeleyDB (BDB) API | https://symas.com/lmdb/ |
 | **liblmdb-static** | 0.9.35 | Static libraries for liblmdb | https://symas.com/lmdb/ |
 | **liblo** | 0.34 | A lightweight library that provides an easy to use implementation of the OSC protocol | https://liblo.sourceforge.net/ |
@@ -1299,7 +1299,7 @@
 | **libpngwriter** | 0.7.0-1 | C++ library for creating PNG images | https://pngwriter.sourceforge.net |
 | **libpngwriter-static** | 0.7.0-1 | Static libraries for libpngwriter | https://pngwriter.sourceforge.net |
 | **libpoco** | 1.15.0 | A comprehensive set of C++ libraries that cover all modern-day programming needs | https://pocoproject.org/ |
-| **libpolly** | 21.1.8-1 | High-level loop and data-locality optimizer for clang | https://clang.llvm.org/ |
+| **libpolly** | 21.1.8-2 | High-level loop and data-locality optimizer for clang | https://clang.llvm.org/ |
 | **libpopt** | 1.19-3 | Library for parsing cmdline parameters | https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html |
 | **libpopt-static** | 1.19-3 | Static libraries for libpopt | https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html |
 | **libprotobuf** | 2:33.1-1 | Protocol buffers C++ library | https://github.com/protocolbuffers/protobuf |
@@ -1581,14 +1581,14 @@
 | **littlecms-static** | 2.18 | Static libraries for littlecms | http://www.littlecms.com/ |
 | **littlecms-utils** | 2.18 | Color management utilities | http://www.littlecms.com/ |
 | **llbuild** | 6.2.1 | A low-level build system, used by the Swift Package Manager | https://github.com/swiftlang/swift-llbuild |
-| **lld** | 21.1.8-1 | LLVM-based linker | https://clang.llvm.org/ |
-| **lldb** | 21.1.8-1 | LLVM-based debugger | https://clang.llvm.org/ |
-| **llvm** | 21.1.8-1 | LLVM modular compiler and toolchain executables | https://clang.llvm.org/ |
+| **lld** | 21.1.8-2 | LLVM-based linker | https://clang.llvm.org/ |
+| **lldb** | 21.1.8-2 | LLVM-based debugger | https://clang.llvm.org/ |
+| **llvm** | 21.1.8-2 | LLVM modular compiler and toolchain executables | https://clang.llvm.org/ |
 | **llvm-mingw-w64** | 20251007-1 | MinGW-w64 toolchain based on LLVM | https://github.com/mstorsjo/llvm-mingw |
 | **llvm-mingw-w64-libcompiler-rt** | 20251007-1 | Compiler runtime libraries for LLVM-MinGW | https://github.com/mstorsjo/llvm-mingw |
 | **llvm-mingw-w64-tools** | 12.0.0-2 | MinGW-w64 tools for LLVM-MinGW | https://github.com/mstorsjo/llvm-mingw |
 | **llvm-mingw-w64-ucrt** | 20251007-1 | MinGW-w64 runtime for LLVM-MinGW | https://github.com/mstorsjo/llvm-mingw |
-| **llvm-tools** | 21.1.8-1 | LLVM Development Tools | https://clang.llvm.org/ |
+| **llvm-tools** | 21.1.8-2 | LLVM Development Tools | https://clang.llvm.org/ |
 | **lnav** | 0.13.2 | An advanced log file viewer for the small-scale | https://lnav.org/ |
 | **lnd** | 0.17.0-beta-1 | Lightning Network Daemon | https://github.com/lightningnetwork/lnd |
 | **logo-ls** | 2024.07.17-1 | Modern ls command with vscode like File Icon and Git Integrations | https://github.com/Yash-Handa/logo-ls |
@@ -1723,7 +1723,7 @@
 | **mkp224o** | 1.7.0-1 | Generate vanity ed25519 (hidden service version 3) onion addresses | https://github.com/cathugger/mkp224o |
 | **mksh** | 59c-3 | The MirBSD Korn Shell - an enhanced version of the public domain ksh | http://www.mirbsd.org/mksh.htm |
 | **mktorrent** | 1.1-p20210130-1 | command line utility to create BitTorrent metainfo files | https://github.com/Rudde/mktorrent |
-| **mlir** | 21.1.8-1 | A Multi-Level Intermediate Representation for compilers from LLVM | https://clang.llvm.org/ |
+| **mlir** | 21.1.8-2 | A Multi-Level Intermediate Representation for compilers from LLVM | https://clang.llvm.org/ |
 | **mlocate** | 0.26-6 | Tool to find files anywhere in the filesystem based on their name | https://pagure.io/mlocate |
 | **mold** | 2.40.4 | mold: A Modern Linker | https://github.com/rui314/mold |
 | **monero** | 0.18.4.6 | A private, secure, untraceable, decentralised digital currency | https://getmonero.org/ |
@@ -1880,7 +1880,7 @@
 | **opencc-tools** | 1.2.0 | Command-line tools for OpenCC | https://github.com/BYVoid/OpenCC |
 | **opencl-clhpp** | 2025.07.22 | Khronos OpenCL C++ Headers | https://github.com/KhronosGroup/OpenCL-CLHPP |
 | **opencl-headers** | 2025.07.22 | Khronos OpenCL-Headers | https://github.com/KhronosGroup/OpenCL-Headers |
-| **opencl-vendor-driver** | 0.3 | OpenCL driver from system vendor | https://termux.dev |
+| **opencl-vendor-driver** | 0.3-1 | OpenCL driver from system vendor | https://termux.dev |
 | **opencolorio** | 2.5.1 | A color management framework for visual effects and animation | https://opencolorio.org |
 | **openexr** | 3.4.4 | Provides the specification and reference implementation of the EXR file format | https://www.openexr.com/ |
 | **openfoam** | 2412-5 | OpenFOAM is a CFD software written in C++ | https://www.openfoam.com |
@@ -2423,11 +2423,11 @@
 | **termux-am-socket** | 1.5.0-1 | A faster version of am with less features that only works while Termux is running | https://github.com/termux/termux-am-socket |
 | **termux-api** | 0.59.1-1 | Termux API commands (install also the Termux:API app) | https://wiki.termux.com/wiki/Termux:API |
 | **termux-api-static** | 0.59.1-1 | Static libraries for termux-api | https://wiki.termux.com/wiki/Termux:API |
-| **termux-apt-repo** | 0.5-3 | Script to create Termux apt repositories | https://github.com/termux/termux-apt-repo |
+| **termux-apt-repo** | 0.5-4 | Script to create Termux apt repositories | https://github.com/termux/termux-apt-repo |
 | **termux-auth** | 1.5.0-1 | Password authentication library and utility for Termux | https://github.com/termux/termux-auth |
 | **termux-core** | 0.4.0-1 | Utils and libraries for Termux core | https://github.com/termux/termux-core-package |
 | **termux-core-static** | 0.4.0-1 | Static libraries for termux-core | https://github.com/termux/termux-core-package |
-| **termux-create-package** | 0.12.0-2 | Utility to create Termux packages | https://github.com/termux/termux-create-package |
+| **termux-create-package** | 0.12.0-3 | Utility to create Termux packages | https://github.com/termux/termux-create-package |
 | **termux-elf-cleaner** | 3.0.1-1 | Cleaner of ELF files for Android | https://github.com/termux/termux-elf-cleaner |
 | **termux-exec** | 1:2.4.0-1 | Utils and libraries for Termux exec including a LD_PRELOAD shared library for proper functioning of the Termux execution environment | https://github.com/termux/termux-exec-package |
 | **termux-exec-static** | 1:2.4.0-1 | Static libraries for termux-exec | https://github.com/termux/termux-exec-package |

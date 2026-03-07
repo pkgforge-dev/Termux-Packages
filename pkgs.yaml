@@ -379,7 +379,7 @@
   Description: The minimal Erlang VM implementation
   Homepage: https://github.com/bettio/AtomVM
 - Package: atool
-  Version: 0.39.0-1
+  Version: 0.39.0-2
   Description: tool for managing file archives of various types
   Homepage: https://www.nongnu.org/atool
 - Package: attr
@@ -535,7 +535,7 @@
   Description: Binaryen is a compiler and toolchain infrastructure library for WebAssembly
   Homepage: https://github.com/WebAssembly/binaryen
 - Package: binutils
-  Version: 2.46.0-2
+  Version: 2.46.0-3
   Description: A GNU collection of binary utilities
   Homepage: https://www.gnu.org/software/binutils/
 - Package: binutils-bin
@@ -543,7 +543,7 @@
   Description: Collection of binary tools, the main ones being ld, the GNU linker, and as, the GNU assembler
   Homepage: https://www.gnu.org/software/binutils/
 - Package: binutils-cross
-  Version: 2.46.0-2
+  Version: 2.46.0-3
   Description: GNU Binutils for cross build on the host (NOT for Termux)
   Homepage: https://www.gnu.org/software/binutils/
 - Package: binutils-is-llvm
@@ -931,7 +931,7 @@
   Description: Static libraries for clamav
   Homepage: https://www.clamav.net/
 - Package: clang
-  Version: 21.1.8-1
+  Version: 21.1.8-2
   Description: C language frontend for LLVM
   Homepage: https://clang.llvm.org/
 - Package: clblast
@@ -1259,7 +1259,7 @@
   Description: Small utilities which are used primarily by the installation scripts of Debian packages
   Homepage: https://packages.debian.org/debianutils
 - Package: debootstrap
-  Version: 1.0.142
+  Version: 1.0.142-1
   Description: Bootstrap a basic Debian system
   Homepage: https://wiki.debian.org/Debootstrap
 - Package: desed
@@ -2083,11 +2083,11 @@
   Description: A high performance http, ftp and smb server
   Homepage: https://www.fefe.de/gatling/
 - Package: gauche
-  Version: 0.9.15-2
+  Version: 0.9.15-3
   Description: An R7RS Scheme implementation developed to be a handy script interpreter
   Homepage: https://practical-scheme.net/gauche/
 - Package: gauche-static
-  Version: 0.9.15-2
+  Version: 0.9.15-3
   Description: Static libraries for gauche
   Homepage: https://practical-scheme.net/gauche/
 - Package: gawk
@@ -3315,11 +3315,11 @@
   Description: A multi-platform program which generates PostScript lunar calendars in a yearly format
   Homepage: https://pcal.sourceforge.net/
 - Package: ldc
-  Version: 1.30.0-2
+  Version: 1.30.0-3
   Description: D programming language compiler, built with LLVM
   Homepage: https://github.com/ldc-developers/ldc
 - Package: ldd
-  Version: "0.3"
+  Version: 0.3-1
   Description: Fake ldd command
   Homepage: https://github.com/termux/termux-packages
 - Package: ldns
@@ -3775,7 +3775,7 @@
   Description: A host of helper utilities for the java.lang API
   Homepage: https://commons.apache.org/proper/commons-lang/
 - Package: libcompiler-rt
-  Version: 21.1.8-1
+  Version: 21.1.8-2
   Description: Compiler runtime libraries for clang
   Homepage: https://clang.llvm.org/
 - Package: libconfig
@@ -4523,11 +4523,11 @@
   Description: Static libraries for libliquid-dsp
   Homepage: https://liquidsdr.org/
 - Package: libllvm
-  Version: 21.1.8-1
+  Version: 21.1.8-2
   Description: Modular compiler and toolchain technologies library
   Homepage: https://clang.llvm.org/
 - Package: libllvm-static
-  Version: 21.1.8-1
+  Version: 21.1.8-2
   Description: Static libraries for libllvm
   Homepage: https://clang.llvm.org/
 - Package: liblmdb
@@ -5155,7 +5155,7 @@
   Description: A comprehensive set of C++ libraries that cover all modern-day programming needs
   Homepage: https://pocoproject.org/
 - Package: libpolly
-  Version: 21.1.8-1
+  Version: 21.1.8-2
   Description: High-level loop and data-locality optimizer for clang
   Homepage: https://clang.llvm.org/
 - Package: libpopt
@@ -6283,15 +6283,15 @@
   Description: A low-level build system, used by the Swift Package Manager
   Homepage: https://github.com/swiftlang/swift-llbuild
 - Package: lld
-  Version: 21.1.8-1
+  Version: 21.1.8-2
   Description: LLVM-based linker
   Homepage: https://clang.llvm.org/
 - Package: lldb
-  Version: 21.1.8-1
+  Version: 21.1.8-2
   Description: LLVM-based debugger
   Homepage: https://clang.llvm.org/
 - Package: llvm
-  Version: 21.1.8-1
+  Version: 21.1.8-2
   Description: LLVM modular compiler and toolchain executables
   Homepage: https://clang.llvm.org/
 - Package: llvm-mingw-w64
@@ -6311,7 +6311,7 @@
   Description: MinGW-w64 runtime for LLVM-MinGW
   Homepage: https://github.com/mstorsjo/llvm-mingw
 - Package: llvm-tools
-  Version: 21.1.8-1
+  Version: 21.1.8-2
   Description: LLVM Development Tools
   Homepage: https://clang.llvm.org/
 - Package: lnav
@@ -6851,7 +6851,7 @@
   Description: command line utility to create BitTorrent metainfo files
   Homepage: https://github.com/Rudde/mktorrent
 - Package: mlir
-  Version: 21.1.8-1
+  Version: 21.1.8-2
   Description: A Multi-Level Intermediate Representation for compilers from LLVM
   Homepage: https://clang.llvm.org/
 - Package: mlocate
@@ -7479,7 +7479,7 @@
   Description: Khronos OpenCL-Headers
   Homepage: https://github.com/KhronosGroup/OpenCL-Headers
 - Package: opencl-vendor-driver
-  Version: "0.3"
+  Version: 0.3-1
   Description: OpenCL driver from system vendor
   Homepage: https://termux.dev
 - Package: opencolorio
@@ -9651,7 +9651,7 @@
   Description: Static libraries for termux-api
   Homepage: https://wiki.termux.com/wiki/Termux:API
 - Package: termux-apt-repo
-  Version: 0.5-3
+  Version: 0.5-4
   Description: Script to create Termux apt repositories
   Homepage: https://github.com/termux/termux-apt-repo
 - Package: termux-auth
@@ -9667,7 +9667,7 @@
   Description: Static libraries for termux-core
   Homepage: https://github.com/termux/termux-core-package
 - Package: termux-create-package
-  Version: 0.12.0-2
+  Version: 0.12.0-3
   Description: Utility to create Termux packages
   Homepage: https://github.com/termux/termux-create-package
 - Package: termux-elf-cleaner
