@@ -1579,7 +1579,7 @@
   },
   {
     "Package": "command-not-found",
-    "Version": "3.2-20",
+    "Version": "3.4.1",
     "Description": "Suggest installation of packages in interactive shell sessions",
     "Homepage": "https://github.com/termux/command-not-found"
   },
@@ -1603,7 +1603,7 @@
   },
   {
     "Package": "cookcli",
-    "Version": "0.24.0",
+    "Version": "0.25.0",
     "Description": "A suite of tools to create shopping lists and maintain food recipes",
     "Homepage": "https://cooklang.org"
   },
@@ -2821,7 +2821,7 @@
   },
   {
     "Package": "fd",
-    "Version": "10.4.0",
+    "Version": "10.4.1",
     "Description": "Simple, fast and user-friendly alternative to find",
     "Homepage": "https://github.com/sharkdp/fd"
   },
@@ -12403,7 +12403,7 @@
   },
   {
     "Package": "python",
-    "Version": "3.13.12-3",
+    "Version": "3.13.12-5",
     "Description": "Python 3 programming language intended to enable clear programs",
     "Homepage": "https://python.org/"
   },
@@ -12451,7 +12451,7 @@
   },
   {
     "Package": "python-ensurepip-wheels",
-    "Version": "3.13.12-3",
+    "Version": "3.13.12-5",
     "Description": "Wheels for Python ensurepip",
     "Homepage": "https://python.org/"
   },
@@ -12571,7 +12571,7 @@
   },
   {
     "Package": "python-static",
-    "Version": "3.13.12-3",
+    "Version": "3.13.12-5",
     "Description": "Static libraries for python",
     "Homepage": "https://python.org/"
   },
@@ -12583,7 +12583,7 @@
   },
   {
     "Package": "python-tkinter",
-    "Version": "3.13.12-3",
+    "Version": "3.13.12-5",
     "Description": "Tkinter support for Python 3",
     "Homepage": "https://python.org/"
   },
