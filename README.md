@@ -93,12 +93,15 @@
 | **aspell-es** | 2:1.11-2-0 | Spanish dictionary for aspell | http://aspell.net/ |
 | **aspell-fr** | 2:0.50-3-1 | French dictionary for aspell | http://aspell.net/ |
 | **aspell-static** | 0.60.8.2 | Static libraries for aspell | http://aspell.net |
+| **aspnetcore-runtime-10.0** | 10.0.3 | ASP.NET Core 10.0 Runtime | https://dotnet.microsoft.com/en-us/ |
 | **aspnetcore-runtime-8.0** | 8.0.24 | ASP.NET Core 8.0 Runtime | https://dotnet.microsoft.com/en-us/ |
-| **aspnetcore-runtime-9.0** | 9.0.12 | ASP.NET Core 9.0 Runtime | https://dotnet.microsoft.com/en-us/ |
+| **aspnetcore-runtime-9.0** | 9.0.12-1 | ASP.NET Core 9.0 Runtime | https://dotnet.microsoft.com/en-us/ |
+| **aspnetcore-runtime-dbg-10.0** | 10.0.3 | ASP.NET Core 10.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
 | **aspnetcore-runtime-dbg-8.0** | 8.0.24 | ASP.NET Core 8.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
-| **aspnetcore-runtime-dbg-9.0** | 9.0.12 | ASP.NET Core 9.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
+| **aspnetcore-runtime-dbg-9.0** | 9.0.12-1 | ASP.NET Core 9.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
+| **aspnetcore-targeting-pack-10.0** | 10.0.3 | ASP.NET Core 10.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **aspnetcore-targeting-pack-8.0** | 8.0.24 | ASP.NET Core 8.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
-| **aspnetcore-targeting-pack-9.0** | 9.0.12 | ASP.NET Core 9.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
+| **aspnetcore-targeting-pack-9.0** | 9.0.12-1 | ASP.NET Core 9.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **assimp** | 6.0.4 | Library to import various well-known 3D model formats in an uniform manner | https://assimp.sourceforge.net/index.html |
 | **asymptote** | 3.09 | A powerful descriptive vector graphics language for technical drawing | https://asymptote.sourceforge.io/ |
 | **at** | 3.2.5-2 | AT and batch delayed command scheduling utility and daemon | https://salsa.debian.org/debian/at |
@@ -270,7 +273,7 @@
 | **colm** | 0.14.7-2 | COmputer Language Machinery | https://www.colm.net/open-source/colm/ |
 | **colm-static** | 0.14.7-2 | Static libraries for colm | https://www.colm.net/open-source/colm/ |
 | **colordiff** | 1.0.21 | Tool to colorize 'diff' output | https://www.colordiff.org/ |
-| **command-not-found** | 3.2-19 | Suggest installation of packages in interactive shell sessions | https://github.com/termux/command-not-found |
+| **command-not-found** | 3.2-20 | Suggest installation of packages in interactive shell sessions | https://github.com/termux/command-not-found |
 | **composer** | 2.9.5 | Dependency Manager for PHP | https://getcomposer.org/ |
 | **console-bridge** | 1.0.2-1 | A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages | https://github.com/ros/console_bridge |
 | **convertlit** | 1.8-2 | An extractor/converter for .LIT eBooks | http://www.convertlit.com/ |
@@ -368,27 +371,37 @@
 | **dosfstools** | 4.2-1 | DOS file system utilities | https://github.com/dosfstools/dosfstools |
 | **dotconf** | 1.4.1-1 | dot.conf configuration file parser | https://github.com/williamh/dotconf |
 | **dotconf-static** | 1.4.1-1 | Static libraries for dotconf | https://github.com/williamh/dotconf |
+| **dotnet-apphost-pack-10.0** | 10.0.3 | .NET 10.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-apphost-pack-8.0** | 8.0.24 | .NET 8.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-apphost-pack-9.0** | 9.0.12 | .NET 9.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-host** | 9.0-2 | A metapackage for .NET Host | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-apphost-pack-9.0** | 9.0.12-1 | .NET 9.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-host** | 10.0 | A metapackage for .NET Host | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-host-10.0** | 10.0.3 | .NET 10.0 Host | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-host-8.0** | 8.0.24 | .NET 8.0 Host | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-host-9.0** | 9.0.12 | .NET 9.0 Host | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-host-9.0** | 9.0.12-1 | .NET 9.0 Host | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-hostfxr-10.0** | 10.0.3 | .NET 10.0 Host Resolver | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-hostfxr-8.0** | 8.0.24 | .NET 8.0 Host Resolver | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-hostfxr-9.0** | 9.0.12 | .NET 9.0 Host Resolver | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-hostfxr-9.0** | 9.0.12-1 | .NET 9.0 Host Resolver | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-runtime-10.0** | 10.0.3 | .NET 10.0 Runtime | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-runtime-8.0** | 8.0.24 | .NET 8.0 Runtime | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-runtime-9.0** | 9.0.12 | .NET 9.0 Runtime | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-runtime-9.0** | 9.0.12-1 | .NET 9.0 Runtime | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-runtime-dbg-10.0** | 10.0.3 | .NET 10.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-runtime-dbg-8.0** | 8.0.24 | .NET 8.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-runtime-dbg-9.0** | 9.0.12 | .NET 9.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-runtime-dbg-9.0** | 9.0.12-1 | .NET 9.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-sdk-10.0** | 10.0.3 | .NET 10.0 SDK | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-sdk-8.0** | 8.0.24 | .NET 8.0 SDK | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-sdk-9.0** | 9.0.12 | .NET 9.0 SDK | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-sdk-9.0** | 9.0.12-1 | .NET 9.0 SDK | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-sdk-dbg-10.0** | 10.0.3 | .NET 10.0 SDK Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-sdk-dbg-8.0** | 8.0.24 | .NET 8.0 SDK Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-sdk-dbg-9.0** | 9.0.12 | .NET 9.0 SDK Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-sdk-dbg-9.0** | 9.0.12-1 | .NET 9.0 SDK Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-targeting-pack-10.0** | 10.0.3 | .NET 10.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-targeting-pack-8.0** | 8.0.24 | .NET 8.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-targeting-pack-9.0** | 9.0.12 | .NET 9.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-targeting-pack-9.0** | 9.0.12-1 | .NET 9.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-templates-10.0** | 10.0.3 | .NET 10.0 Templates | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-templates-8.0** | 8.0.24 | .NET 8.0 Templates | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-templates-9.0** | 9.0.12 | .NET 9.0 Templates | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-templates-9.0** | 9.0.12-1 | .NET 9.0 Templates | https://dotnet.microsoft.com/en-us/ |
+| **dotnet10.0** | 10.0.3 | .NET 10.0 | https://dotnet.microsoft.com/en-us/ |
 | **dotnet8.0** | 8.0.24 | .NET 8.0 | https://dotnet.microsoft.com/en-us/ |
-| **dotnet9.0** | 9.0.12 | .NET 9.0 | https://dotnet.microsoft.com/en-us/ |
+| **dotnet9.0** | 9.0.12-1 | .NET 9.0 | https://dotnet.microsoft.com/en-us/ |
 | **double-conversion** | 3.4.0 | Binary-decimal and decimal-binary routines for IEEE doubles | https://github.com/google/double-conversion |
 | **doxygen** | 1.16.1 | A documentation system for C++, C, Java, IDL and PHP | http://www.doxygen.org |
 | **dpkg** | 1.22.6-5 | Debian package management system | https://packages.debian.org/dpkg |
@@ -1820,7 +1833,7 @@
 | **netsed** | 1.4 | Alter the contents of packets forwarded through network in real time | http://silicone.homelinux.org/projects/netsed/ |
 | **netstandard-targeting-pack-2.1** | 9.0-2 | A metapackage for NETStandard.Library 2.1 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **netstandard-targeting-pack-2.1-8.0** | 8.0.24 | NETStandard.Library 2.1 Targeting Pack (.NET 8.0) | https://dotnet.microsoft.com/en-us/ |
-| **netstandard-targeting-pack-2.1-9.0** | 9.0.12 | NETStandard.Library 2.1 Targeting Pack (.NET 9.0) | https://dotnet.microsoft.com/en-us/ |
+| **netstandard-targeting-pack-2.1-9.0** | 9.0.12-1 | NETStandard.Library 2.1 Targeting Pack (.NET 9.0) | https://dotnet.microsoft.com/en-us/ |
 | **nettle** | 4.0+really3.10.2 | Low level cryptographic tools | https://www.lysator.liu.se/~nisse/nettle/ |
 | **newsboat** | 2.42 | RSS/Atom feed reader for the text console | https://newsboat.org/ |
 | **newsraft** | 0.35 | Newsraft is a feed reader with text-based user interface | https://codeberg.org/newsraft/newsraft |
