@@ -2075,7 +2075,7 @@
 | **python-ensurepip-wheels** | 3.13.12-3 | Wheels for Python ensurepip | https://python.org/ |
 | **python-greenlet** | 3.3.2-1 | Lightweight coroutines for in-process concurrent programming | https://github.com/python-greenlet/greenlet |
 | **python-grpcio** | 1.78.1-1 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
-| **python-lameenc** | 1.8.1-2 | Python bindings around the LAME encoder | https://github.com/chrisstaite/lameenc |
+| **python-lameenc** | 1.8.2 | Python bindings around the LAME encoder | https://github.com/chrisstaite/lameenc |
 | **python-libsass** | 0.23.0-2 | A straightforward binding of libsass for Python | https://github.com/sass/libsass-python |
 | **python-llvmlite** | 0.46.0-2 | A lightweight LLVM python binding for writing JIT compilers | https://llvmlite.pydata.org/ |
 | **python-lxml** | 6.0.2-1 | Python binding for the libxml2 and libxslt libraries | https://github.com/lxml/lxml |
