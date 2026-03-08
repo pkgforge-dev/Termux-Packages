@@ -1247,7 +1247,7 @@
   Description: The Berkeley DB embedded database system
   Homepage: https://www.oracle.com/database/berkeley-db
 - Package: dbus
-  Version: 1.16.2-2
+  Version: 1.16.2-3
   Description: Freedesktop.org message bus system
   Homepage: https://dbus.freedesktop.org
 - Package: dbus-python
@@ -10263,7 +10263,7 @@
   Description: Update or create index file from all installed info files in directory
   Homepage: https://www.gnu.org/software/texinfo/
 - Package: upower
-  Version: 1.91.1
+  Version: 1.91.1-1
   Description: Power management support for DeviceKit
   Homepage: https://upower.freedesktop.org/
 - Package: upx

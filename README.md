@@ -322,7 +322,7 @@
 | **datamash** | 1.9-1 | Program performing numeric, textual and statistical operations | https://www.gnu.org/software/datamash/ |
 | **dateutils** | 0.4.11-1 | Command line date and time utilities | https://www.fresse.org/dateutils/ |
 | **db** | 18.1.40-5 | The Berkeley DB embedded database system | https://www.oracle.com/database/berkeley-db |
-| **dbus** | 1.16.2-2 | Freedesktop.org message bus system | https://dbus.freedesktop.org |
+| **dbus** | 1.16.2-3 | Freedesktop.org message bus system | https://dbus.freedesktop.org |
 | **dbus-python** | 1.4.0-2 | Python bindings for D-Bus | https://dbus.freedesktop.org/doc/dbus-python/ |
 | **dcmtk** | 3.7.0 | A collection of libraries and applications implementing large parts the DICOM standard | https://dicom.offis.de/dcmtk |
 | **dcraw** | 9.28.0-7 | Raw digital camera images decoding utility | https://www.dechifro.org/dcraw/ |
@@ -2576,7 +2576,7 @@
 | **unzip** | 6.0-10 | Tools for working with zip files | https://sourceforge.net/projects/infozip/ |
 | **up** | 0.4-4 | Helps interactively and incrementally explore textual data in Linux | https://github.com/akavel/up |
 | **update-info-dir** | 7.3 | Update or create index file from all installed info files in directory | https://www.gnu.org/software/texinfo/ |
-| **upower** | 1.91.1 | Power management support for DeviceKit | https://upower.freedesktop.org/ |
+| **upower** | 1.91.1-1 | Power management support for DeviceKit | https://upower.freedesktop.org/ |
 | **upx** | 5.1.1 | the Ultimate Packer for eXecutables | https://upx.github.io/ |
 | **urdfdom** | 5.1.0 | Unified Robot Description Format (URDF) parser library and tools | https://github.com/ros/urdfdom |
 | **urdfdom-headers** | 2.1.0 | Headers for URDF parsers | https://github.com/ros/urdfdom_headers |
