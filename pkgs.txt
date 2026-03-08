@@ -687,9 +687,9 @@
  gweather-locations  2026.1  The GWeather locations database  https://gitlab.gnome.org/GNOME/gweather-locations 
  gzip  1.14-1  Standard GNU file compression utilities  https://www.gnu.org/software/gzip/ 
  haproxy  3.3.4  The Reliable, High Performance TCP/HTTP Load Balancer  https://www.haproxy.org/ 
- harfbuzz  13.0.0  OpenType text shaping engine  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
- harfbuzz-icu  13.0.0  OpenType text shaping engine ICU backend  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
- harfbuzz-utils  13.0.0  Tools using the harfbuzz library  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
+ harfbuzz  13.0.1  OpenType text shaping engine  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
+ harfbuzz-icu  13.0.1  OpenType text shaping engine ICU backend  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
+ harfbuzz-utils  13.0.1  Tools using the harfbuzz library  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
  hash-slinger  3.5-1  Various tools to generate special DNS records  https://github.com/letoams/hash-slinger 
  hashdeep  4.4-9  Programs to compute hashsums of arbitrary number of files recursively  https://md5deep.sourceforge.net/ 
  hcl  2.24.0-1  A toolkit for creating structured configuration languages  https://github.com/hashicorp/hcl 
@@ -1808,7 +1808,7 @@
  neofetch  7.1.0-1  Simple system information script  https://github.com/dylanaraps/neofetch 
  neomutt  20260105  A version of mutt with added features  https://neomutt.org/ 
  neovim  0.11.6-2  Ambitious Vim-fork focused on extensibility and agility (nvim)  https://neovim.io/ 
- neovim-nightly  0.12.0~dev-2496+gf1c82be1a1-1  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
+ neovim-nightly  0.12.0~dev-2500+ge8e694d837-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
  nerdfix  0.4.2-1  nerdfix helps you to find/fix obsolete Nerd Font icons in your project.  https://github.com/loichyan/nerdfix 
  net-snmp  5.9.5.2  Various tools relating to the Simple Network Management Protocol  http://www.net-snmp.org/ 
  net-snmp-static  5.9.5.2  Static libraries for net-snmp  http://www.net-snmp.org/ 
