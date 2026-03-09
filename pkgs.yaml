@@ -1623,7 +1623,7 @@
   Description: High-performance disk usage analyzer
   Homepage: http://duc.zevv.nl/
 - Package: duckdb
-  Version: 1.4.4
+  Version: 1.5.0
   Description: DuckDB Command Line Interface (CLI) shell
   Homepage: https://duckdb.org/
 - Package: duf
@@ -3959,11 +3959,11 @@
   Description: Userspace interface to kernel DRM services
   Homepage: https://dri.freedesktop.org/wiki/
 - Package: libduckdb
-  Version: 1.4.4
+  Version: 1.5.0
   Description: An in-process SQL OLAP database management system
   Homepage: https://duckdb.org/
 - Package: libduckdb-static
-  Version: 1.4.4
+  Version: 1.5.0
   Description: Static libraries for libduckdb
   Homepage: https://duckdb.org/
 - Package: libduktape
@@ -8271,7 +8271,7 @@
   Description: Python 3 programming language intended to enable clear programs
   Homepage: https://python.org/
 - Package: python-apsw
-  Version: 3.51.2.0-1
+  Version: 3.52.0.0
   Description: Another Python SQLite Wrapper
   Homepage: https://rogerbinns.github.io/apsw/
 - Package: python-apt
