@@ -1595,8 +1595,8 @@
 | **logo-ls** | 2024.07.17-1 | Modern ls command with vscode like File Icon and Git Integrations | https://github.com/Yash-Handa/logo-ls |
 | **logrotate** | 3.22.0-1 | Simplify the administration of log files on a system which generates a lot of log files | https://github.com/logrotate/logrotate |
 | **loksh** | 7.8 | A Linux port of OpenBSD's ksh | https://github.com/dimkr/loksh |
-| **lowdown** | 2.0.4-1 | Markdown utilities and library (fork of hoedown -> sundown -> libsoldout) | https://kristaps.bsd.lv/lowdown |
-| **lowdown-static** | 2.0.4-1 | Static libraries for lowdown | https://kristaps.bsd.lv/lowdown |
+| **lowdown** | 3.0.0 | Markdown utilities and library (fork of hoedown -> sundown -> libsoldout) | https://kristaps.bsd.lv/lowdown |
+| **lowdown-static** | 3.0.0 | Static libraries for lowdown | https://kristaps.bsd.lv/lowdown |
 | **lr** | 2.0.1-1 | list files, recursively, includes the best features of ls, find, stat and du | https://git.vuxu.org/lr/about/ |
 | **lrzip** | 0.660 | A compression utility that excels at compressing large files | https://github.com/ckolivas/lrzip |
 | **lrzsz** | 0.12.21-rc1-2 | Tools for zmodem/xmodem/ymodem file transfer | https://ohse.de/uwe/software/lrzsz.html |
@@ -2278,7 +2278,7 @@
 | **shell2http** | 1.17.0-1 | Executing shell commands via HTTP server | https://github.com/msoap/shell2http |
 | **shellharden** | 4.3.1-1 | The corrective bash syntax highlighter | https://github.com/anordal/shellharden |
 | **shellinabox** | 2.21-1 | Implementation of a web server that can export arbitrary command line tools to a web based terminal emulator | https://github.com/shellinabox/shellinabox |
-| **shfmt** | 3.12.0-1 | A shell parser and formatter | https://github.com/mvdan/sh |
+| **shfmt** | 3.13.0 | A shell parser and formatter | https://github.com/mvdan/sh |
 | **shiori** | 1.8.0 | Simple bookmark manager built with Go | https://github.com/go-shiori/shiori |
 | **shntool** | 3.0.10-1 | A multi-purpose WAVE data processing and reporting utility | http://shnutils.freeshell.org/shntool/ |
 | **shtool** | 2.0.8-9 | compilation of small but very stable and portable shell scripts into a single shell tool | http://www.gnu.org/software/shtool/ |
@@ -2581,7 +2581,7 @@
 | **uuid-utils** | 2.41.3 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
 | **uv** | 0.10.9 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.31-1 | uWSGI application server container | https://projects.unbit.it/uwsgi |
-| **v2ray** | 5.44.1 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
+| **v2ray** | 5.46.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.18-1 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
 | **valac-static** | 0.56.18-1 | Static libraries for valac | https://wiki.gnome.org/Projects/Vala |
 | **valadoc** | 0.56.18-1 | API documentation generator for vala | https://wiki.gnome.org/Projects/Vala |

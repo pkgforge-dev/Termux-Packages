@@ -6387,11 +6387,11 @@
   Description: A Linux port of OpenBSDs ksh
   Homepage: https://github.com/dimkr/loksh
 - Package: lowdown
-  Version: 2.0.4-1
+  Version: 3.0.0
   Description: Markdown utilities and library (fork of hoedown -> sundown -> libsoldout)
   Homepage: https://kristaps.bsd.lv/lowdown
 - Package: lowdown-static
-  Version: 2.0.4-1
+  Version: 3.0.0
   Description: Static libraries for lowdown
   Homepage: https://kristaps.bsd.lv/lowdown
 - Package: lr
@@ -9119,7 +9119,7 @@
   Description: Implementation of a web server that can export arbitrary command line tools to a web based terminal emulator
   Homepage: https://github.com/shellinabox/shellinabox
 - Package: shfmt
-  Version: 3.12.0-1
+  Version: 3.13.0
   Description: A shell parser and formatter
   Homepage: https://github.com/mvdan/sh
 - Package: shiori
@@ -10331,7 +10331,7 @@
   Description: uWSGI application server container
   Homepage: https://projects.unbit.it/uwsgi
 - Package: v2ray
-  Version: 5.44.1
+  Version: 5.46.0
   Description: A platform for building proxies to bypass network restrictions
   Homepage: https://www.v2fly.org/
 - Package: valac
