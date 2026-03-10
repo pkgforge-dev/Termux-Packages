@@ -195,7 +195,7 @@
   Description: AOSP-based mksh, toybox and iputils for termux-docker
   Homepage: https://source.android.com/
 - Package: apache-orc
-  Version: 2.2.2
+  Version: 2.3.0-1
   Description: Columnar storage for Hadoop workloads
   Homepage: https://orc.apache.org/
 - Package: apache2
@@ -535,7 +535,7 @@
   Description: Small, easy-to-configure FTP server
   Homepage: https://bftpd.sourceforge.net/
 - Package: bgrep
-  Version: 1.0-4
+  Version: 1.0-5
   Description: Binary string grep tool
   Homepage: https://debugmo.de/2009/04/bgrep-a-binary-grep/
 - Package: biboumi
@@ -687,7 +687,7 @@
   Description: Classic text mode games from UNIX folklore
   Homepage: https://www.polyomino.org.uk/computer/software/bsd-games/
 - Package: bsdtar
-  Version: 3.8.5
+  Version: 3.8.6
   Description: The tar(1) and cpio(1) programs from FreeBSD, using libarchive
   Homepage: https://www.libarchive.org/
 - Package: btfs2
@@ -2131,7 +2131,7 @@
   Description: Packages for gap
   Homepage: https://www.gap-system.org/
 - Package: gatling
-  Version: 0.16-1
+  Version: 0.16-2
   Description: A high performance http, ftp and smb server
   Homepage: https://www.fefe.de/gatling/
 - Package: gauche
@@ -3347,7 +3347,7 @@
   Description: A peer-to-peer hypermedia distribution protocol
   Homepage: https://ipfs.io/
 - Package: ladspa-sdk
-  Version: 1.17-2
+  Version: 1.17-3
   Description: Linux Audio Developers Simple Plugin API
   Homepage: https://www.ladspa.org/
 - Package: lame
@@ -3571,11 +3571,11 @@
   Description: Perl interface to APTs libapt-pkg
   Homepage: https://packages.debian.org/libapt-pkg-perl
 - Package: libarchive
-  Version: 3.8.5
+  Version: 3.8.6
   Description: Multi-format archive and compression library
   Homepage: https://www.libarchive.org/
 - Package: libarchive-static
-  Version: 3.8.5
+  Version: 3.8.6
   Description: Static libraries for libarchive
   Homepage: https://www.libarchive.org/
 - Package: libarrow-cpp
@@ -6079,11 +6079,11 @@
   Description: A library of exchange-correlation functionals with arbitrary-order derivatives
   Homepage: https://github.com/dftlibs/xcfun
 - Package: libxcursor
-  Version: 1.2.3
+  Version: 1.2.3-1
   Description: X cursor management library
   Homepage: https://xorg.freedesktop.org/
 - Package: libxcursor-static
-  Version: 1.2.3
+  Version: 1.2.3-1
   Description: Static libraries for libxcursor
   Homepage: https://xorg.freedesktop.org/
 - Package: libxdg-basedir
@@ -7359,7 +7359,7 @@
   Description: This project provides a command line tool called nms that recreates the famous data decryption effect
   Homepage: https://github.com/bartobri/no-more-secrets
 - Package: nodejs
-  Version: 25.3.0-1
+  Version: 25.8.0
   Description: Open Source, cross-platform JavaScript runtime environment
   Homepage: https://nodejs.org/
 - Package: nodejs-lts
@@ -9159,7 +9159,7 @@
   Description: A collection of simulators for computer hardware and software from the past
   Homepage: http://simh.trailing-edge.com/
 - Package: simulavr
-  Version: 1:1.1.0-2
+  Version: 1:1.1.0-3
   Description: Simulator for Microchip AVR (formerly Atmel) microcontrollers
   Homepage: https://www.nongnu.org/simulavr
 - Package: sing-box

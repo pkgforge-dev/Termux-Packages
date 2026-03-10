@@ -59,7 +59,7 @@
 | **aom-tools** | 3.13.1-1 | Command-line tools using AOMedia library | https://aomedia.org/ |
 | **aosp-libs** | 9.0.0-r76-2 | bionic libc, libicuuc, liblzma, zlib, and boringssl for package builder and termux-docker | https://source.android.com/ |
 | **aosp-utils** | 9.0.0-r76-2 | AOSP-based mksh, toybox and iputils for termux-docker | https://source.android.com/ |
-| **apache-orc** | 2.2.2 | Columnar storage for Hadoop workloads | https://orc.apache.org/ |
+| **apache-orc** | 2.3.0-1 | Columnar storage for Hadoop workloads | https://orc.apache.org/ |
 | **apache2** | 1:2.4.66 | Apache Web Server | https://httpd.apache.org |
 | **apkeep** | 0.18.0 | A command-line tool for downloading APK files from various sources | https://github.com/EFForg/apkeep |
 | **apksigner** | 33.0.1-1 | APK signing tool from Android SDK | https://developer.android.com/studio/command-line/apksigner |
@@ -144,7 +144,7 @@
 | **bear** | 4.0.3 | Bear is a tool that generates a compilation database for clang tooling. | https://github.com/rizsotto/Bear |
 | **bed** | 0.2.8 | Binary editor written in GO | https://github.com/itchyny/bed |
 | **bftpd** | 6.3-1 | Small, easy-to-configure FTP server | https://bftpd.sourceforge.net/ |
-| **bgrep** | 1.0-4 | Binary string grep tool | https://debugmo.de/2009/04/bgrep-a-binary-grep/ |
+| **bgrep** | 1.0-5 | Binary string grep tool | https://debugmo.de/2009/04/bgrep-a-binary-grep/ |
 | **biboumi** | 9.0-5 | An XMPP gateway that connects to IRC servers and translates between the two protocols | https://biboumi.louiz.org/ |
 | **binaryen** | 126 | Binaryen is a compiler and toolchain infrastructure library for WebAssembly | https://github.com/WebAssembly/binaryen |
 | **binutils** | 2.46.0-3 | A GNU collection of binary utilities | https://www.gnu.org/software/binutils/ |
@@ -182,7 +182,7 @@
 | **brotli** | 1.2.0 | lossless compression algorithm and format (command line utility) | https://github.com/google/brotli |
 | **bsd-finger** | 0.17-3 | User information lookup program | https://packages.debian.org/sid/source/bsd-finger |
 | **bsd-games** | 1:3.3-1 | Classic text mode games from UNIX folklore | https://www.polyomino.org.uk/computer/software/bsd-games/ |
-| **bsdtar** | 3.8.5 | The tar(1) and cpio(1) programs from FreeBSD, using libarchive | https://www.libarchive.org/ |
+| **bsdtar** | 3.8.6 | The tar(1) and cpio(1) programs from FreeBSD, using libarchive | https://www.libarchive.org/ |
 | **btfs2** | 4.1.0 | Decentralized file system integrating with TRON network and Bittorrent network | https://www.bittorrent.com/btfs/ |
 | **btrfs-progs** | 6.19 | Utilities for Btrfs filesystem | https://btrfs.readthedocs.io/en/latest/ |
 | **buf** | 1.66.1 | A new way of working with Protocol Buffers | https://buf.build |
@@ -543,7 +543,7 @@
 | **game-music-emu-static** | 0.6.4-1 | Static libraries for game-music-emu | https://bitbucket.org/mpyne/game-music-emu/wiki/Home |
 | **gap** | 4.15.1 | GAP is a system for computational discrete algebra, with particular emphasis on Computational Group Theory | https://www.gap-system.org/ |
 | **gap-packages** | 4.15.1 | Packages for gap | https://www.gap-system.org/ |
-| **gatling** | 0.16-1 | A high performance http, ftp and smb server | https://www.fefe.de/gatling/ |
+| **gatling** | 0.16-2 | A high performance http, ftp and smb server | https://www.fefe.de/gatling/ |
 | **gauche** | 0.9.15-3 | An R7RS Scheme implementation developed to be a handy script interpreter | https://practical-scheme.net/gauche/ |
 | **gauche-static** | 0.9.15-3 | Static libraries for gauche | https://practical-scheme.net/gauche/ |
 | **gawk** | 5.3.2 | Programming language designed for text processing | https://www.gnu.org/software/gawk/ |
@@ -847,7 +847,7 @@
 | **kubectl** | 1.35.2 | Kubernetes.io client binary | https://kubernetes.io/ |
 | **kubelogin** | 1.36.0 | A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication | https://github.com/int128/kubelogin |
 | **kubo** | 0.40.1 | A peer-to-peer hypermedia distribution protocol | https://ipfs.io/ |
-| **ladspa-sdk** | 1.17-2 | Linux Audio Developer's Simple Plugin API | https://www.ladspa.org/ |
+| **ladspa-sdk** | 1.17-3 | Linux Audio Developer's Simple Plugin API | https://www.ladspa.org/ |
 | **lame** | 3.100-7 | High quality MPEG Audio Layer III (MP3) encoder - frontend | https://lame.sourceforge.io/ |
 | **lastpass-cli** | 1.6.1-4 | LastPass command line interface tool | https://lastpass.com/ |
 | **lazygit** | 0.60.0 | Simple terminal UI for git commands | https://github.com/jesseduffield/lazygit |
@@ -903,8 +903,8 @@
 | **libaom** | 3.13.1-1 | AV1 Video Codec Library | https://aomedia.org/ |
 | **libaom-static** | 3.13.1-1 | Static libraries for libaom | https://aomedia.org/ |
 | **libapt-pkg-perl** | 0.1.40-14 | Perl interface to APT's libapt-pkg | https://packages.debian.org/libapt-pkg-perl |
-| **libarchive** | 3.8.5 | Multi-format archive and compression library | https://www.libarchive.org/ |
-| **libarchive-static** | 3.8.5 | Static libraries for libarchive | https://www.libarchive.org/ |
+| **libarchive** | 3.8.6 | Multi-format archive and compression library | https://www.libarchive.org/ |
+| **libarchive-static** | 3.8.6 | Static libraries for libarchive | https://www.libarchive.org/ |
 | **libarrow-cpp** | 23.0.1-1 | C++ libraries for Apache Arrow | https://github.com/apache/arrow |
 | **libasio** | 1.36.0 | Cross-platform C++ library for network and low-level I/O programming | https://think-async.com/Asio |
 | **libasm** | 0.193-1 | Library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |
@@ -1530,8 +1530,8 @@
 | **libxcb** | 1.17.0-1 | X11 client-side library | https://xcb.freedesktop.org/ |
 | **libxcb-static** | 1.17.0-1 | Static libraries for libxcb | https://xcb.freedesktop.org/ |
 | **libxcfun** | 2.1.1-2 | A library of exchange-correlation functionals with arbitrary-order derivatives | https://github.com/dftlibs/xcfun |
-| **libxcursor** | 1.2.3 | X cursor management library | https://xorg.freedesktop.org/ |
-| **libxcursor-static** | 1.2.3 | Static libraries for libxcursor | https://xorg.freedesktop.org/ |
+| **libxcursor** | 1.2.3-1 | X cursor management library | https://xorg.freedesktop.org/ |
+| **libxcursor-static** | 1.2.3-1 | Static libraries for libxcursor | https://xorg.freedesktop.org/ |
 | **libxdg-basedir** | 1.2.3-2 | An implementation of the XDG Base Directory specifications | https://github.com/devnev/libxdg-basedir |
 | **libxdg-basedir-static** | 1.2.3-2 | Static libraries for libxdg-basedir | https://github.com/devnev/libxdg-basedir |
 | **libxdmcp** | 1.1.5-2 | X11 Display Manager Control Protocol library | https://xorg.freedesktop.org/ |
@@ -1850,7 +1850,7 @@
 | **nmon** | 16s | Curses based Performance Monitor for Linux with saving performance stats to a CSV file mode | https://nmon.sourceforge.net/ |
 | **nnn** | 5.2 | Free, fast, friendly file browser | https://github.com/jarun/nnn |
 | **no-more-secrets** | 1.0.1-3 | This project provides a command line tool called nms that recreates the famous data decryption effect | https://github.com/bartobri/no-more-secrets |
-| **nodejs** | 25.3.0-1 | Open Source, cross-platform JavaScript runtime environment | https://nodejs.org/ |
+| **nodejs** | 25.8.0 | Open Source, cross-platform JavaScript runtime environment | https://nodejs.org/ |
 | **nodejs-lts** | 24.13.0-1 | Open Source, cross-platform JavaScript runtime environment | https://nodejs.org/ |
 | **notcurses** | 3.0.17-2 | blingful TUIs and character graphics | https://notcurses.com/ |
 | **notcurses-data** | 3.0.17-2 | Platform-independent data for notcurses | https://notcurses.com/ |
@@ -2300,7 +2300,7 @@
 | **simde** | 0.8.2 | Implementations of SIMD instructions for all systems | https://simd-everywhere.github.io/ |
 | **simdjson** | 4.3.1 | A C++ library to see how fast we can parse JSON with complete validation | https://simdjson.org/ |
 | **simh** | 1:3.12.5-1 | A collection of simulators for computer hardware and software from the past | http://simh.trailing-edge.com/ |
-| **simulavr** | 1:1.1.0-2 | Simulator for Microchip AVR (formerly Atmel) microcontrollers | https://www.nongnu.org/simulavr |
+| **simulavr** | 1:1.1.0-3 | Simulator for Microchip AVR (formerly Atmel) microcontrollers | https://www.nongnu.org/simulavr |
 | **sing-box** | 1.13.2 | The universal proxy platform | https://sing-box.sagernet.org |
 | **skate** | 1.0.1-1 | A personal key-value store | https://github.com/charmbracelet/skate |
 | **sl** | 5.05-1 | Tool curing your bad habit of mistyping | https://github.com/mtoyoda/sl |

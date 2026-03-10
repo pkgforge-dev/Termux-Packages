@@ -295,7 +295,7 @@
   },
   {
     "Package": "apache-orc",
-    "Version": "2.2.2",
+    "Version": "2.3.0-1",
     "Description": "Columnar storage for Hadoop workloads",
     "Homepage": "https://orc.apache.org/"
   },
@@ -805,7 +805,7 @@
   },
   {
     "Package": "bgrep",
-    "Version": "1.0-4",
+    "Version": "1.0-5",
     "Description": "Binary string grep tool",
     "Homepage": "https://debugmo.de/2009/04/bgrep-a-binary-grep/"
   },
@@ -1033,7 +1033,7 @@
   },
   {
     "Package": "bsdtar",
-    "Version": "3.8.5",
+    "Version": "3.8.6",
     "Description": "The tar(1) and cpio(1) programs from FreeBSD, using libarchive",
     "Homepage": "https://www.libarchive.org/"
   },
@@ -3199,7 +3199,7 @@
   },
   {
     "Package": "gatling",
-    "Version": "0.16-1",
+    "Version": "0.16-2",
     "Description": "A high performance http, ftp and smb server",
     "Homepage": "https://www.fefe.de/gatling/"
   },
@@ -5023,7 +5023,7 @@
   },
   {
     "Package": "ladspa-sdk",
-    "Version": "1.17-2",
+    "Version": "1.17-3",
     "Description": "Linux Audio Developers Simple Plugin API",
     "Homepage": "https://www.ladspa.org/"
   },
@@ -5359,13 +5359,13 @@
   },
   {
     "Package": "libarchive",
-    "Version": "3.8.5",
+    "Version": "3.8.6",
     "Description": "Multi-format archive and compression library",
     "Homepage": "https://www.libarchive.org/"
   },
   {
     "Package": "libarchive-static",
-    "Version": "3.8.5",
+    "Version": "3.8.6",
     "Description": "Static libraries for libarchive",
     "Homepage": "https://www.libarchive.org/"
   },
@@ -9121,13 +9121,13 @@
   },
   {
     "Package": "libxcursor",
-    "Version": "1.2.3",
+    "Version": "1.2.3-1",
     "Description": "X cursor management library",
     "Homepage": "https://xorg.freedesktop.org/"
   },
   {
     "Package": "libxcursor-static",
-    "Version": "1.2.3",
+    "Version": "1.2.3-1",
     "Description": "Static libraries for libxcursor",
     "Homepage": "https://xorg.freedesktop.org/"
   },
@@ -11041,7 +11041,7 @@
   },
   {
     "Package": "nodejs",
-    "Version": "25.3.0-1",
+    "Version": "25.8.0",
     "Description": "Open Source, cross-platform JavaScript runtime environment",
     "Homepage": "https://nodejs.org/"
   },
@@ -13741,7 +13741,7 @@
   },
   {
     "Package": "simulavr",
-    "Version": "1:1.1.0-2",
+    "Version": "1:1.1.0-3",
     "Description": "Simulator for Microchip AVR (formerly Atmel) microcontrollers",
     "Homepage": "https://www.nongnu.org/simulavr"
   },
