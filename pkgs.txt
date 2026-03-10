@@ -173,7 +173,7 @@
  bsdtar  3.8.5  The tar(1) and cpio(1) programs from FreeBSD, using libarchive  https://www.libarchive.org/ 
  btfs2  4.1.0  Decentralized file system integrating with TRON network and Bittorrent network  https://www.bittorrent.com/btfs/ 
  btrfs-progs  6.19  Utilities for Btrfs filesystem  https://btrfs.readthedocs.io/en/latest/ 
- buf  1.66.0  A new way of working with Protocol Buffers  https://buf.build 
+ buf  1.66.1  A new way of working with Protocol Buffers  https://buf.build 
  build-essential  4.1  A metapackage that installs essential development tools  https://github.com/termux/termux-packages 
  busybox  1.37.0-3  Tiny versions of many common UNIX utilities into a single small executable  https://busybox.net/ 
  bvi  1.5.0-1  Binary file editor based on vi  https://bvi.sourceforge.net/ 
@@ -206,7 +206,7 @@
  cboard  0.7.5-5  PGN browser, editor and chess engine frontend  https://benkibbey.wordpress.com/cboard/ 
  cbonsai  1.4.2-1  Grow bonsai trees in your terminal  https://gitlab.com/jallbrit/cbonsai 
  cc65  2.19-1  A free compiler for 6502 based system  https://cc65.github.io/ 
- ccache  4.13  Compiler cache for fast recompilation of C/C++ code  https://ccache.samba.org 
+ ccache  4.13.1  Compiler cache for fast recompilation of C/C++ code  https://ccache.samba.org 
  cccc  3.2.0-1  Source code counter and metrics tool for C++, C, and Java  https://sarnold.github.io/cccc/ 
  ccextractor  0.94-6  A tool used to produce subtitles for TV recordings  https://ccextractor.org/ 
  ccls  0.20250815.1  C/C++/ObjC language server  https://github.com/MaskRay/ccls 
@@ -222,7 +222,7 @@
  chafa-static  1.18.1-2  Static libraries for chafa  https://hpjansson.org/chafa/ 
  check  0.15.2-3  A unit testing framework for C  https://libcheck.github.io/check 
  check-static  0.15.2-3  Static libraries for check  https://libcheck.github.io/check 
- chezmoi  2.69.4  Manage your dotfiles across multiple machines  https://chezmoi.io 
+ chezmoi  2.70.0  Manage your dotfiles across multiple machines  https://chezmoi.io 
  chicken  5.4.0-2  A feature rich Scheme compiler and interpreter  https://www.call-cc.org 
  chicken-static  5.4.0-2  Static libraries for chicken  https://www.call-cc.org 
  chntpw  140201  Offline Windows NT Password & Registry Editor  https://pogostick.net/~pnh/ntpasswd/ 
@@ -546,7 +546,7 @@
  gdbserver  16.3-3  The gdbserver program  https://www.gnu.org/software/gdb/ 
  gdk-pixbuf  2.44.5  Library for image loading and manipulation  https://wiki.gnome.org/Projects/GdkPixbuf 
  gdrive-downloader  1:1.1  Download a gdrive folder or file easily, shell ftw  https://github.com/Akianonymus/gdrive-downloader 
- gdu  5.33.0  Fast disk usage analyzer with console interface written in Go  https://github.com/dundee/gdu 
+ gdu  5.34.0  Fast disk usage analyzer with console interface written in Go  https://github.com/dundee/gdu 
  geckodriver  0.36.0-1  Proxy for using W3C WebDriver-compatible clients to interact with Gecko-based browsers  https://github.com/mozilla/geckodriver 
  gecode  6.2.0-1  Generic Constraint Development Environment  https://github.com/Gecode/gecode 
  gecode-static  6.2.0-1  Static libraries for gecode  https://github.com/Gecode/gecode 
@@ -838,7 +838,7 @@
  ladspa-sdk  1.17-2  Linux Audio Developer's Simple Plugin API  https://www.ladspa.org/ 
  lame  3.100-7  High quality MPEG Audio Layer III (MP3) encoder - frontend  https://lame.sourceforge.io/ 
  lastpass-cli  1.6.1-4  LastPass command line interface tool  https://lastpass.com/ 
- lazygit  0.59.0  Simple terminal UI for git commands  https://github.com/jesseduffield/lazygit 
+ lazygit  0.60.0  Simple terminal UI for git commands  https://github.com/jesseduffield/lazygit 
  lcal  2.1.0-1  A multi-platform program which generates PostScript lunar calendars in a yearly format  https://pcal.sourceforge.net/ 
  ldc  1.30.0-3  D programming language compiler, built with LLVM  https://github.com/ldc-developers/ldc 
  ldd  0.3-1  Fake ldd command  https://github.com/termux/termux-packages 
@@ -2533,7 +2533,7 @@
  ttyrec  1.0.8-8  Terminal recorder and player  http://0xcc.net/ttyrec/ 
  tudo  1.2.0  A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument as the Termux app (u<userid>_a<appid>) user in the Termux app  https://github.com/agnostic-apollo/tudo 
  tur-repo  1.0.1  A single and trusted place for all unofficial/less popular termux packages  https://github.com/termux-user-repository/tur 
- turbo  2.8.13  High-performance build system for JS/TS  https://turbo.build/ 
+ turbo  2.8.15  High-performance build system for JS/TS  https://turbo.build/ 
  tut  2.0.1-3  A TUI for Mastodon with vim inspired keys  https://github.com/RasmusLindroth/tut 
  tvheadend  4.2.8-12  TV streaming server for Linux and Android supporting DVB-S, DVB-S2 and other formats.  https://tvheadend.org/ 
  tvheadend-data  4.2.8-12  Platform-independent data for tvheadend  https://tvheadend.org/ 

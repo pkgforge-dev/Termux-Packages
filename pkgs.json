@@ -1051,7 +1051,7 @@
   },
   {
     "Package": "buf",
-    "Version": "1.66.0",
+    "Version": "1.66.1",
     "Description": "A new way of working with Protocol Buffers",
     "Homepage": "https://buf.build"
   },
@@ -1249,7 +1249,7 @@
   },
   {
     "Package": "ccache",
-    "Version": "4.13",
+    "Version": "4.13.1",
     "Description": "Compiler cache for fast recompilation of C/C++ code",
     "Homepage": "https://ccache.samba.org"
   },
@@ -1345,7 +1345,7 @@
   },
   {
     "Package": "chezmoi",
-    "Version": "2.69.4",
+    "Version": "2.70.0",
     "Description": "Manage your dotfiles across multiple machines",
     "Homepage": "https://chezmoi.io"
   },
@@ -3289,7 +3289,7 @@
   },
   {
     "Package": "gdu",
-    "Version": "5.33.0",
+    "Version": "5.34.0",
     "Description": "Fast disk usage analyzer with console interface written in Go",
     "Homepage": "https://github.com/dundee/gdu"
   },
@@ -5041,7 +5041,7 @@
   },
   {
     "Package": "lazygit",
-    "Version": "0.59.0",
+    "Version": "0.60.0",
     "Description": "Simple terminal UI for git commands",
     "Homepage": "https://github.com/jesseduffield/lazygit"
   },
@@ -15211,7 +15211,7 @@
   },
   {
     "Package": "turbo",
-    "Version": "2.8.13",
+    "Version": "2.8.15",
     "Description": "High-performance build system for JS/TS",
     "Homepage": "https://turbo.build/"
   },
