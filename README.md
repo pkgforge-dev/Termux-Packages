@@ -277,7 +277,7 @@
 | **composer** | 2.9.5 | Dependency Manager for PHP | https://getcomposer.org/ |
 | **console-bridge** | 1.0.2-1 | A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages | https://github.com/ros/console_bridge |
 | **convertlit** | 1.8-2 | An extractor/converter for .LIT eBooks | http://www.convertlit.com/ |
-| **cookcli** | 0.25.1 | A suite of tools to create shopping lists and maintain food recipes | https://cooklang.org |
+| **cookcli** | 0.26.0 | A suite of tools to create shopping lists and maintain food recipes | https://cooklang.org |
 | **coreutils** | 9.10-1 | Basic file, shell and text manipulation utilities from the GNU project | https://www.gnu.org/software/coreutils/ |
 | **corgi** | 0.2.4-5 | CLI workflow manager | https://github.com/DrakeW/corgi |
 | **corkscrew** | 2.0-4 | A tool for tunneling SSH through HTTP proxies | https://wiki.linuxquestions.org/wiki/Corkscrew |
@@ -480,7 +480,7 @@
 | **faustlibraries** | 2.83.1 | Faust DSP libraries | https://github.com/grame-cncm/faust |
 | **fclones** | 0.35.0-1 | Efficient Duplicate File Finder | https://github.com/pkolaczk/fclones |
 | **fcp** | 0.2.1-4 | A significantly faster alternative to the classic Unix cp(1) command | https://github.com/Svetlitski/fcp |
-| **fd** | 10.4.1 | Simple, fast and user-friendly alternative to find | https://github.com/sharkdp/fd |
+| **fd** | 10.4.2 | Simple, fast and user-friendly alternative to find | https://github.com/sharkdp/fd |
 | **fdisk** | 2.41.3 | Utilities to manipulate disk partition tables | https://en.wikipedia.org/wiki/Util-linux |
 | **fdkaac** | 1.0.6-2 | command line encoder frontend for libfdk-aac | https://github.com/nu774/fdkaac |
 | **fdm** | 2.2-2 | A program designed to fetch mail from POP3 or IMAP servers, or receive local mail from stdin, and deliver it in various ways | https://github.com/nicm/fdm |
