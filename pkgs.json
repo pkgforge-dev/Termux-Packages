@@ -1687,7 +1687,7 @@
   },
   {
     "Package": "croc",
-    "Version": "1:10.4.1",
+    "Version": "1:10.4.2",
     "Description": "Easily and securely send things from one computer to another",
     "Homepage": "https://github.com/schollz/croc"
   },
@@ -4135,19 +4135,19 @@
   },
   {
     "Package": "harfbuzz",
-    "Version": "13.0.1",
+    "Version": "13.1.0",
     "Description": "OpenType text shaping engine",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-icu",
-    "Version": "13.0.1",
+    "Version": "13.1.0",
     "Description": "OpenType text shaping engine ICU backend",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-utils",
-    "Version": "13.0.1",
+    "Version": "13.1.0",
     "Description": "Tools using the harfbuzz library",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
