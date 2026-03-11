@@ -505,7 +505,7 @@
   },
   {
     "Package": "aspnetcore-runtime-8.0",
-    "Version": "8.0.24",
+    "Version": "8.0.25",
     "Description": "ASP.NET Core 8.0 Runtime",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -523,7 +523,7 @@
   },
   {
     "Package": "aspnetcore-runtime-dbg-8.0",
-    "Version": "8.0.24",
+    "Version": "8.0.25",
     "Description": "ASP.NET Core 8.0 Runtime Managed Debug Symbols",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -541,7 +541,7 @@
   },
   {
     "Package": "aspnetcore-targeting-pack-8.0",
-    "Version": "8.0.24",
+    "Version": "8.0.25",
     "Description": "ASP.NET Core 8.0 Targeting Pack",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2173,7 +2173,7 @@
   },
   {
     "Package": "dotnet-apphost-pack-8.0",
-    "Version": "8.0.24",
+    "Version": "8.0.25",
     "Description": ".NET 8.0 Targeting Pack",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2197,7 +2197,7 @@
   },
   {
     "Package": "dotnet-host-8.0",
-    "Version": "8.0.24",
+    "Version": "8.0.25",
     "Description": ".NET 8.0 Host",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2215,7 +2215,7 @@
   },
   {
     "Package": "dotnet-hostfxr-8.0",
-    "Version": "8.0.24",
+    "Version": "8.0.25",
     "Description": ".NET 8.0 Host Resolver",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2233,7 +2233,7 @@
   },
   {
     "Package": "dotnet-runtime-8.0",
-    "Version": "8.0.24",
+    "Version": "8.0.25",
     "Description": ".NET 8.0 Runtime",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2251,7 +2251,7 @@
   },
   {
     "Package": "dotnet-runtime-dbg-8.0",
-    "Version": "8.0.24",
+    "Version": "8.0.25",
     "Description": ".NET 8.0 Runtime Managed Debug Symbols",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2269,7 +2269,7 @@
   },
   {
     "Package": "dotnet-sdk-8.0",
-    "Version": "8.0.24",
+    "Version": "8.0.25",
     "Description": ".NET 8.0 SDK",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2287,7 +2287,7 @@
   },
   {
     "Package": "dotnet-sdk-dbg-8.0",
-    "Version": "8.0.24",
+    "Version": "8.0.25",
     "Description": ".NET 8.0 SDK Managed Debug Symbols",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2305,7 +2305,7 @@
   },
   {
     "Package": "dotnet-targeting-pack-8.0",
-    "Version": "8.0.24",
+    "Version": "8.0.25",
     "Description": ".NET 8.0 Targeting Pack",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2323,7 +2323,7 @@
   },
   {
     "Package": "dotnet-templates-8.0",
-    "Version": "8.0.24",
+    "Version": "8.0.25",
     "Description": ".NET 8.0 Templates",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2341,7 +2341,7 @@
   },
   {
     "Package": "dotnet8.0",
-    "Version": "8.0.24",
+    "Version": "8.0.25",
     "Description": ".NET 8.0",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -3451,7 +3451,7 @@
   },
   {
     "Package": "git-credential-manager",
-    "Version": "2.7.0",
+    "Version": "2.7.3",
     "Description": "Cross-platform Git credential storage for multiple hosting providers",
     "Homepage": "https://aka.ms/gcm"
   },
@@ -10933,7 +10933,7 @@
   },
   {
     "Package": "netstandard-targeting-pack-2.1-8.0",
-    "Version": "8.0.24",
+    "Version": "8.0.25",
     "Description": "NETStandard.Library 2.1 Targeting Pack (.NET 8.0)",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -11557,13 +11557,13 @@
   },
   {
     "Package": "oxfmt",
-    "Version": "1.51.0",
+    "Version": "1.52.0",
     "Description": "Oxc JavaScript formatter",
     "Homepage": "https://oxc.rs/"
   },
   {
     "Package": "oxlint",
-    "Version": "1.51.0",
+    "Version": "1.52.0",
     "Description": "Oxc JavaScript linter",
     "Homepage": "https://oxc.rs/"
   },
@@ -15313,7 +15313,7 @@
   },
   {
     "Package": "unicode-data",
-    "Version": "17.0.0",
+    "Version": "18.0.0",
     "Description": "The Unicode Character Database (UCD)",
     "Homepage": "https://unicode.org/ucd/"
   },
