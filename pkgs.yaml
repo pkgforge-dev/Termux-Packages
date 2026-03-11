@@ -467,7 +467,7 @@
   Description: A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum
   Homepage: https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum
 - Package: babl
-  Version: 0.1.122
+  Version: 0.1.124
   Description: Dynamic pixel format translation library
   Homepage: https://gegl.org/babl/
 - Package: bacula-fd
@@ -543,7 +543,7 @@
   Description: An XMPP gateway that connects to IRC servers and translates between the two protocols
   Homepage: https://biboumi.louiz.org/
 - Package: binaryen
-  Version: "126"
+  Version: "127"
   Description: Binaryen is a compiler and toolchain infrastructure library for WebAssembly
   Homepage: https://github.com/WebAssembly/binaryen
 - Package: binutils
@@ -2263,7 +2263,7 @@
   Description: The Forth implementation of the GNU project
   Homepage: https://www.gnu.org/software/gforth/
 - Package: gh
-  Version: 2.87.3
+  Version: 2.88.0
   Description: GitHub’s official command line tool
   Homepage: https://cli.github.com/
 - Package: ghc

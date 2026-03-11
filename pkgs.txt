@@ -115,7 +115,7 @@
  awscli  2.34.0  Universal Command Line Interface for Amazon Web Services  https://aws.amazon.com/cli 
  axel  2.17.14-1  light command line download accelerator  https://github.com/axel-download-accelerator/axel 
  b3sum  1.8.3  A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum  https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum 
- babl  0.1.122  Dynamic pixel format translation library  https://gegl.org/babl/ 
+ babl  0.1.124  Dynamic pixel format translation library  https://gegl.org/babl/ 
  bacula-fd  15.0.3-1  Bacula backup software  https://www.bacula.org 
  bacula-fd-static  15.0.3-1  Static libraries for bacula-fd  https://www.bacula.org 
  barcode  0.99-5  Tool to convert text strings to printed bars  https://www.gnu.org/software/barcode/ 
@@ -134,7 +134,7 @@
  bftpd  6.3-1  Small, easy-to-configure FTP server  https://bftpd.sourceforge.net/ 
  bgrep  1.0-5  Binary string grep tool  https://debugmo.de/2009/04/bgrep-a-binary-grep/ 
  biboumi  9.0-5  An XMPP gateway that connects to IRC servers and translates between the two protocols  https://biboumi.louiz.org/ 
- binaryen  126  Binaryen is a compiler and toolchain infrastructure library for WebAssembly  https://github.com/WebAssembly/binaryen 
+ binaryen  127  Binaryen is a compiler and toolchain infrastructure library for WebAssembly  https://github.com/WebAssembly/binaryen 
  binutils  2.46.0-3  A GNU collection of binary utilities  https://www.gnu.org/software/binutils/ 
  binutils-bin  2.46.0-2  Collection of binary tools, the main ones being ld, the GNU linker, and as, the GNU assembler  https://www.gnu.org/software/binutils/ 
  binutils-cross  2.46.0-3  GNU Binutils for cross build on the host (NOT for Termux)  https://www.gnu.org/software/binutils/ 
@@ -564,7 +564,7 @@
  gflags  2.3.0  A C++ library that implements commandline flags processing  https://github.com/gflags/gflags 
  gflags-static  2.3.0  Static libraries for gflags  https://github.com/gflags/gflags 
  gforth  0.7.3-3  The Forth implementation of the GNU project  https://www.gnu.org/software/gforth/ 
- gh  2.87.3  GitHub’s official command line tool  https://cli.github.com/ 
+ gh  2.88.0  GitHub’s official command line tool  https://cli.github.com/ 
  ghc  9.12.2-2  The Glasgow Haskell Compiler  https://www.haskell.org/ghc/ 
  ghostscript  10.06.0  Interpreter for the PostScript language and for PDF  https://www.ghostscript.com/ 
  giflib  5.2.2-1  A library for reading and writing gif images  https://giflib.sourceforge.net/ 
