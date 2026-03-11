@@ -1771,7 +1771,7 @@
   },
   {
     "Package": "curl",
-    "Version": "8.18.0-1",
+    "Version": "8.19.0",
     "Description": "Command line tool for transferring data with URL syntax",
     "Homepage": "https://curl.se/"
   },
@@ -5803,13 +5803,13 @@
   },
   {
     "Package": "libcurl",
-    "Version": "8.18.0-1",
+    "Version": "8.19.0",
     "Description": "Easy-to-use client-side URL transfer library",
     "Homepage": "https://curl.se/"
   },
   {
     "Package": "libcurl-static",
-    "Version": "8.18.0-1",
+    "Version": "8.19.0",
     "Description": "Static libraries for libcurl",
     "Homepage": "https://curl.se/"
   },
@@ -11545,13 +11545,13 @@
   },
   {
     "Package": "oxfmt",
-    "Version": "1.52.0",
+    "Version": "1.53.0",
     "Description": "Oxc JavaScript formatter",
     "Homepage": "https://oxc.rs/"
   },
   {
     "Package": "oxlint",
-    "Version": "1.52.0",
+    "Version": "1.53.0",
     "Description": "Oxc JavaScript linter",
     "Homepage": "https://oxc.rs/"
   },

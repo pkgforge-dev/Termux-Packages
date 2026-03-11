@@ -1179,7 +1179,7 @@
   Description: Static libraries for cups
   Homepage: https://www.cups.org/
 - Package: curl
-  Version: 8.18.0-1
+  Version: 8.19.0
   Description: Command line tool for transferring data with URL syntax
   Homepage: https://curl.se/
 - Package: curlie
@@ -3867,11 +3867,11 @@
   Description: Static libraries for libcunit
   Homepage: https://sourceforge.net/projects/cunit/
 - Package: libcurl
-  Version: 8.18.0-1
+  Version: 8.19.0
   Description: Easy-to-use client-side URL transfer library
   Homepage: https://curl.se/
 - Package: libcurl-static
-  Version: 8.18.0-1
+  Version: 8.19.0
   Description: Static libraries for libcurl
   Homepage: https://curl.se/
 - Package: libczmq
@@ -7695,11 +7695,11 @@
   Description: Open Virtual Machine Firmware
   Homepage: https://www.tianocore.org/
 - Package: oxfmt
-  Version: 1.52.0
+  Version: 1.53.0
   Description: Oxc JavaScript formatter
   Homepage: https://oxc.rs/
 - Package: oxlint
-  Version: 1.52.0
+  Version: 1.53.0
   Description: Oxc JavaScript linter
   Homepage: https://oxc.rs/
 - Package: p11-kit
