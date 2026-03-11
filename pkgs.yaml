@@ -2023,7 +2023,7 @@
   Description: Revealer of fortunes
   Homepage: https://www.fefe.de/fortune/
 - Package: fossil
-  Version: "2.27"
+  Version: "2.28"
   Description: DSCM with built-in wiki, http interface and server, tickets database
   Homepage: https://www.fossil-scm.org
 - Package: freecolor
@@ -7375,7 +7375,7 @@
   Description: Thread-based email index, search and tagging system
   Homepage: https://notmuchmail.org
 - Package: npm
-  Version: 11.11.0
+  Version: 11.11.1
   Description: The package manager for JavaScript
   Homepage: https://docs.npmjs.com/cli/
 - Package: npush
@@ -8223,7 +8223,7 @@
   Description: Python bindings for the cairo graphics library
   Homepage: https://www.cairographics.org/pycairo/
 - Package: pygobject
-  Version: 3.56.0-1
+  Version: 3.56.1
   Description: Python package which provides bindings for GObject based libraries
   Homepage: https://pygobject.gnome.org/
 - Package: pypy
@@ -8251,7 +8251,7 @@
   Description: Tkinter support for PyPy 3
   Homepage: https://pypy.org
 - Package: pyrefly
-  Version: 0.55.0
+  Version: 0.56.0
   Description: A fast type checker and language server for Python
   Homepage: https://github.com/facebook/pyrefly.git
 - Package: pystring
@@ -9895,7 +9895,7 @@
   Description: toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library
   Homepage: https://github.com/ToruNiina/toml11
 - Package: topgrade
-  Version: 17.0.0
+  Version: 17.1.0
   Description: Upgrade all the things
   Homepage: https://github.com/topgrade-rs/topgrade/
 - Package: tor
@@ -10519,7 +10519,7 @@
   Description: Inline image extension support utilities for w3m
   Homepage: https://w3m.sourceforge.net/
 - Package: wabt
-  Version: 1.0.39
+  Version: 1.0.40
   Description: The WebAssembly Binary Toolkit
   Homepage: https://github.com/WebAssembly/wabt
 - Package: wakatime-cli

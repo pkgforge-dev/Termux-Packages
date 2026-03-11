@@ -504,7 +504,7 @@
 | **forestdb-dump** | 1.2-2 | ForestDB dump tool | https://github.com/couchbase/forestdb |
 | **forgejo** | 14.0.3 | Forgejo is a self-hosted lightweight software forge. | https://forgejo.org/ |
 | **fortune** | 1.2-2 | Revealer of fortunes | https://www.fefe.de/fortune/ |
-| **fossil** | 2.27 | DSCM with built-in wiki, http interface and server, tickets database | https://www.fossil-scm.org |
+| **fossil** | 2.28 | DSCM with built-in wiki, http interface and server, tickets database | https://www.fossil-scm.org |
 | **freecolor** | 0.9.3-1 | Freecolor is a replacement for Linux that displays free memory graphically | http://rkeene.org/oss/freecolor/ |
 | **freeimage** | 3.18.0-7 | The library project for developers who would like to support popular graphics image formats | https://freeimage.sourceforge.io |
 | **freeimage-static** | 3.18.0-7 | Static libraries for freeimage | https://freeimage.sourceforge.io |
@@ -1842,7 +1842,7 @@
 | **notcurses-data** | 3.0.17-2 | Platform-independent data for notcurses | https://notcurses.com/ |
 | **notcurses-tools** | 3.0.17-2 | Tools and demos for notcurses | https://notcurses.com/ |
 | **notmuch** | 0.40-1 | Thread-based email index, search and tagging system | https://notmuchmail.org |
-| **npm** | 11.11.0 | The package manager for JavaScript | https://docs.npmjs.com/cli/ |
+| **npm** | 11.11.1 | The package manager for JavaScript | https://docs.npmjs.com/cli/ |
 | **npush** | 0.7-2 | Curses-based logic game similar to Sokoban and Boulder Dash | https://npush.sourceforge.net/ |
 | **nsis** | 3.11-1 | A professional open source system to create Windows installers | https://sourceforge.net/projects/nsis/ |
 | **nsis-stubs** | 3.11-1 | NSIS Stubs | https://sourceforge.net/projects/nsis/ |
@@ -2054,14 +2054,14 @@
 | **pwgen** | 2.08-2 | Password generator which by default, unless given the '-s' option, generates memorable but insecure passwords | http://pwgen.sourceforge.net/ |
 | **pybind11** | 3.0.2-1 | A lightweight header-only library that exposes C++ types in Python and vice versa | https://pybind11.readthedocs.io/ |
 | **pycairo** | 1.29.0-1 | Python bindings for the cairo graphics library | https://www.cairographics.org/pycairo/ |
-| **pygobject** | 3.56.0-1 | Python package which provides bindings for GObject based libraries | https://pygobject.gnome.org/ |
+| **pygobject** | 3.56.1 | Python package which provides bindings for GObject based libraries | https://pygobject.gnome.org/ |
 | **pypy** | 7.3.20 | A fast, compliant alternative implementation of Python | https://pypy.org |
 | **pypy-tests** | 7.3.20 | Test files for PyPy | https://pypy.org |
 | **pypy-tkinter** | 7.3.20 | Tkinter support for PyPy | https://pypy.org |
 | **pypy3** | 7.3.20 | A fast, compliant alternative implementation of Python 3 | https://pypy.org |
 | **pypy3-tests** | 7.3.20 | Test files for PyPy 3 | https://pypy.org |
 | **pypy3-tkinter** | 7.3.20 | Tkinter support for PyPy 3 | https://pypy.org |
-| **pyrefly** | 0.55.0 | A fast type checker and language server for Python | https://github.com/facebook/pyrefly.git |
+| **pyrefly** | 0.56.0 | A fast type checker and language server for Python | https://github.com/facebook/pyrefly.git |
 | **pystring** | 1.1.4-1 | C++ functions matching the interface and behavior of python string methods with std::string | https://github.com/imageworks/pystring |
 | **python** | 3.13.12-5 | Python 3 programming language intended to enable clear programs | https://python.org/ |
 | **python-apsw** | 3.52.0.0 | Another Python SQLite Wrapper | https://rogerbinns.github.io/apsw/ |
@@ -2472,7 +2472,7 @@
 | **tokei** | 14.0.0 | A blazingly fast CLOC (Count Lines Of Code) program | https://github.com/XAMPPRocky/tokei |
 | **tome2** | 2025.12.13-1 | An open world roguelike adventure set in middle earth | https://github.com/tome2/tome2 |
 | **toml11** | 4.4.0 | toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library | https://github.com/ToruNiina/toml11 |
-| **topgrade** | 17.0.0 | Upgrade all the things | https://github.com/topgrade-rs/topgrade/ |
+| **topgrade** | 17.1.0 | Upgrade all the things | https://github.com/topgrade-rs/topgrade/ |
 | **tor** | 0.4.9.5-1 | The Onion Router anonymizing overlay network | https://www.torproject.org |
 | **torsocks** | 2.5.0-1 | Wrapper to safely torify applications | https://gitlab.torproject.org/tpo/core/torsocks |
 | **torsocks-static** | 2.5.0-1 | Static libraries for torsocks | https://gitlab.torproject.org/tpo/core/torsocks |
@@ -2628,7 +2628,7 @@
 | **vulkan-volk** | 1.4.304 | Meta loader for Vulkan API | https://github.com/zeux/volk |
 | **w3m** | 0.5.6 | Text based Web browser and pager | https://w3m.sourceforge.net/ |
 | **w3m-img** | 0.5.6 | Inline image extension support utilities for w3m | https://w3m.sourceforge.net/ |
-| **wabt** | 1.0.39 | The WebAssembly Binary Toolkit | https://github.com/WebAssembly/wabt |
+| **wabt** | 1.0.40 | The WebAssembly Binary Toolkit | https://github.com/WebAssembly/wabt |
 | **wakatime-cli** | 1.139.1 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
 | **walk** | 1.13.0 | A terminal file manager | https://github.com/antonmedv/walk |
 | **wallust** | 3.5.2 | Generate colors from an image | https://explosion-mental.codeberg.page/wallust |
