@@ -550,18 +550,10 @@
   Version: 2.46.0-3
   Description: A GNU collection of binary utilities
   Homepage: https://www.gnu.org/software/binutils/
-- Package: binutils-bin
-  Version: 2.46.0-2
-  Description: Collection of binary tools, the main ones being ld, the GNU linker, and as, the GNU assembler
-  Homepage: https://www.gnu.org/software/binutils/
 - Package: binutils-cross
   Version: 2.46.0-3
   Description: GNU Binutils for cross build on the host (NOT for Termux)
   Homepage: https://www.gnu.org/software/binutils/
-- Package: binutils-is-llvm
-  Version: 0.3-4
-  Description: Use llvm as binutils
-  Homepage: https://github.com/trentbuck/binutils-is-llvm
 - Package: bison
   Version: 3.8.2-4
   Description: General-purpose parser generator
@@ -7363,7 +7355,7 @@
   Description: Open Source, cross-platform JavaScript runtime environment
   Homepage: https://nodejs.org/
 - Package: nodejs-lts
-  Version: 24.13.0-1
+  Version: 24.14.0
   Description: Open Source, cross-platform JavaScript runtime environment
   Homepage: https://nodejs.org/
 - Package: notcurses
@@ -8554,10 +8546,6 @@
   Version: 3.2.0-1
   Description: Finds bugs in JavaScript programs
   Homepage: https://quick-lint-js.com/
-- Package: quickjs
-  Version: 2:2025.09.13.2
-  Description: QuickJS is a small and embeddable Javascript engine
-  Homepage: https://bellard.org/quickjs/
 - Package: quickjs-ng
   Version: 0.12.1-1
   Description: Embeddable JavaScript engine in C (NG fork)
