@@ -1767,11 +1767,11 @@
   Description: Event Notify Test Runner - run arbitrary commands when files change
   Homepage: https://eradman.com/entrproject/
 - Package: erlang
-  Version: "28.4"
+  Version: 28.4.1
   Description: General-purpose concurrent functional programming language
   Homepage: https://www.erlang.org/
 - Package: erlang-doc
-  Version: "28.4"
+  Version: 28.4.1
   Description: Erlang HTML documentation
   Homepage: https://www.erlang.org/
 - Package: esbuild
@@ -2255,7 +2255,7 @@
   Description: The Forth implementation of the GNU project
   Homepage: https://www.gnu.org/software/gforth/
 - Package: gh
-  Version: 2.88.0
+  Version: 2.88.1
   Description: GitHub’s official command line tool
   Homepage: https://cli.github.com/
 - Package: ghc
@@ -6643,7 +6643,7 @@
   Description: A Matrix-WhatsApp puppeting bridge
   Homepage: https://maunium.net/go/mautrix-whatsapp/
 - Package: maven
-  Version: 3.9.13
+  Version: 3.9.14
   Description: A Java software project management and comprehension tool
   Homepage: https://maven.apache.org/
 - Package: maxcso
@@ -6787,19 +6787,19 @@
   Description: Static libraries for mercury
   Homepage: https://www.mercurylang.org/
 - Package: mesa
-  Version: 26.0.1
+  Version: 26.0.2
   Description: An open-source implementation of the OpenGL specification
   Homepage: https://www.mesa3d.org
 - Package: mesa-dev
-  Version: 26.0.1
+  Version: 26.0.2
   Description: Mesas OpenGL headers
   Homepage: https://www.mesa3d.org
 - Package: mesa-opencl-icd-rusticl
-  Version: 26.0.1
+  Version: 26.0.2
   Description: Mesas Rusticl OpenCL ICD
   Homepage: https://www.mesa3d.org
 - Package: mesa-vulkan-icd-swrast
-  Version: 26.0.1
+  Version: 26.0.2
   Description: Mesas Swrast Vulkan ICD
   Homepage: https://www.mesa3d.org
 - Package: mfcuk
@@ -7695,11 +7695,11 @@
   Description: Open Virtual Machine Firmware
   Homepage: https://www.tianocore.org/
 - Package: oxfmt
-  Version: 1.54.0
+  Version: 1.55.0
   Description: Oxc JavaScript formatter
   Homepage: https://oxc.rs/
 - Package: oxlint
-  Version: 1.54.0
+  Version: 1.55.0
   Description: Oxc JavaScript linter
   Homepage: https://oxc.rs/
 - Package: p11-kit

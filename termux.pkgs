@@ -440,8 +440,8 @@
 | **enchant-static** | 2.8.15 | Static libraries for enchant | https://rrthomas.github.io/enchant/ |
 | **enscript** | 1.6.6-13 | Enscript converts ASCII text files to PostScript, HTML, RTF, ANSI and overstrikes | https://www.gnu.org/software/enscript/ |
 | **entr** | 5.8 | Event Notify Test Runner - run arbitrary commands when files change | https://eradman.com/entrproject/ |
-| **erlang** | 28.4 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
-| **erlang-doc** | 28.4 | Erlang HTML documentation | https://www.erlang.org/ |
+| **erlang** | 28.4.1 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
+| **erlang-doc** | 28.4.1 | Erlang HTML documentation | https://www.erlang.org/ |
 | **esbuild** | 0.27.4 | An extremely fast JavaScript bundler | https://esbuild.github.io/ |
 | **espeak** | 1.52.0-1 | Compact software speech synthesizer | https://github.com/espeak-ng/espeak-ng |
 | **espeak-static** | 1.52.0-1 | Static libraries for espeak | https://github.com/espeak-ng/espeak-ng |
@@ -562,7 +562,7 @@
 | **gflags** | 2.3.0 | A C++ library that implements commandline flags processing | https://github.com/gflags/gflags |
 | **gflags-static** | 2.3.0 | Static libraries for gflags | https://github.com/gflags/gflags |
 | **gforth** | 0.7.3-3 | The Forth implementation of the GNU project | https://www.gnu.org/software/gforth/ |
-| **gh** | 2.88.0 | GitHub’s official command line tool | https://cli.github.com/ |
+| **gh** | 2.88.1 | GitHub’s official command line tool | https://cli.github.com/ |
 | **ghc** | 9.12.2-2 | The Glasgow Haskell Compiler | https://www.haskell.org/ghc/ |
 | **ghostscript** | 10.06.0 | Interpreter for the PostScript language and for PDF | https://www.ghostscript.com/ |
 | **giflib** | 5.2.2-1 | A library for reading and writing gif images | https://giflib.sourceforge.net/ |
@@ -1659,7 +1659,7 @@
 | **matterircd** | 0.28.0-1 | Connect to your mattermost or slack using your IRC-client of choice | https://github.com/42wim/matterircd |
 | **matugen** | 4.0.0 | A material you color generation tool with templates | https://github.com/InioX/matugen |
 | **mautrix-whatsapp** | 0.2602.0 | A Matrix-WhatsApp puppeting bridge | https://maunium.net/go/mautrix-whatsapp/ |
-| **maven** | 3.9.13 | A Java software project management and comprehension tool | https://maven.apache.org/ |
+| **maven** | 3.9.14 | A Java software project management and comprehension tool | https://maven.apache.org/ |
 | **maxcso** | 1.13.0-1 | A fast ISO to CSO compression program for use with PSP and PS2 emulators | https://github.com/unknownbrackets/maxcso |
 | **mazter** | 2022.08.13-1 | Mazes in your terminal | https://github.com/Canop/mazter |
 | **mbedtls** | 3.6.4-1 | Light-weight cryptographic and SSL/TLS library | https://www.trustedfirmware.org/projects/mbed-tls/ |
@@ -1695,10 +1695,10 @@
 | **memcached** | 1.6.41 | Free & open source, high-performance, distributed memory object caching system | https://memcached.org/ |
 | **mercury** | 22.01.8-1 | A logic/functional programming language | https://www.mercurylang.org/ |
 | **mercury-static** | 22.01.8-1 | Static libraries for mercury | https://www.mercurylang.org/ |
-| **mesa** | 26.0.1 | An open-source implementation of the OpenGL specification | https://www.mesa3d.org |
-| **mesa-dev** | 26.0.1 | Mesa's OpenGL headers | https://www.mesa3d.org |
-| **mesa-opencl-icd-rusticl** | 26.0.1 | Mesa's Rusticl OpenCL ICD | https://www.mesa3d.org |
-| **mesa-vulkan-icd-swrast** | 26.0.1 | Mesa's Swrast Vulkan ICD | https://www.mesa3d.org |
+| **mesa** | 26.0.2 | An open-source implementation of the OpenGL specification | https://www.mesa3d.org |
+| **mesa-dev** | 26.0.2 | Mesa's OpenGL headers | https://www.mesa3d.org |
+| **mesa-opencl-icd-rusticl** | 26.0.2 | Mesa's Rusticl OpenCL ICD | https://www.mesa3d.org |
+| **mesa-vulkan-icd-swrast** | 26.0.2 | Mesa's Swrast Vulkan ICD | https://www.mesa3d.org |
 | **mfcuk** | 2018.07.14-1 | MiFare Classic Universal toolKit (MFCUK) | https://github.com/nfc-tools/mfcuk |
 | **mg** | 20260227 | microscopic GNU Emacs-style editor | https://github.com/hboetes/mg |
 | **micro** | 2.0.15 | Modern and intuitive terminal-based text editor | https://micro-editor.github.io/ |
@@ -1922,8 +1922,8 @@
 | **ossp-uuid** | 1.6.2-4 | ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122. | http://www.ossp.org/pkg/lib/uuid/ |
 | **ossp-uuid-static** | 1.6.2-4 | Static libraries for ossp-uuid | http://www.ossp.org/pkg/lib/uuid/ |
 | **ovmf** | 20231122-16.fc40-0 | Open Virtual Machine Firmware | https://www.tianocore.org/ |
-| **oxfmt** | 1.54.0 | Oxc JavaScript formatter | https://oxc.rs/ |
-| **oxlint** | 1.54.0 | Oxc JavaScript linter | https://oxc.rs/ |
+| **oxfmt** | 1.55.0 | Oxc JavaScript formatter | https://oxc.rs/ |
+| **oxlint** | 1.55.0 | Oxc JavaScript linter | https://oxc.rs/ |
 | **p11-kit** | 0.26.2 | Provides a way to load and enumerate PKCS#11 modules | https://p11-glue.github.io/p11-glue/p11-kit.html |
 | **p7zip** | 17.06-1 | Command-line version of the 7zip compressed file archiver | https://github.com/p7zip-project/p7zip |
 | **pacman** | 7.1.0-1 | A library-based package manager with dependency support | https://archlinux.org/pacman/ |
