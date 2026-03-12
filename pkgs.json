@@ -1519,13 +1519,13 @@
   },
   {
     "Package": "coinor-cbc",
-    "Version": "2.10.12-1",
+    "Version": "2.10.13",
     "Description": "An open-source mixed integer linear programming solver",
     "Homepage": "https://github.com/coin-or/Cbc"
   },
   {
     "Package": "coinor-cbc-static",
-    "Version": "2.10.12-1",
+    "Version": "2.10.13",
     "Description": "Static libraries for coinor-cbc",
     "Homepage": "https://github.com/coin-or/Cbc"
   },
@@ -4753,7 +4753,7 @@
   },
   {
     "Package": "jfrog-cli",
-    "Version": "2.95.0",
+    "Version": "2.96.0",
     "Description": "A CLI for JFrog products",
     "Homepage": "https://jfrog.com/getcli"
   },
