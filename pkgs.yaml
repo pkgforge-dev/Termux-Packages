@@ -543,7 +543,7 @@
   Description: An XMPP gateway that connects to IRC servers and translates between the two protocols
   Homepage: https://biboumi.louiz.org/
 - Package: binaryen
-  Version: "127"
+  Version: "128"
   Description: Binaryen is a compiler and toolchain infrastructure library for WebAssembly
   Homepage: https://github.com/WebAssembly/binaryen
 - Package: binutils
@@ -3571,7 +3571,7 @@
   Description: Static libraries for libarchive
   Homepage: https://www.libarchive.org/
 - Package: libarrow-cpp
-  Version: 23.0.1-1
+  Version: 23.0.1-2
   Description: C++ libraries for Apache Arrow
   Homepage: https://github.com/apache/arrow
 - Package: libasio
@@ -6623,7 +6623,7 @@
   Description: Simple CAS and symbolic calculator
   Homepage: https://en.wikipedia.org/wiki/Mathomatic
 - Package: matplotlib
-  Version: 3.10.8-2
+  Version: 3.10.8-3
   Description: A comprehensive library for creating static, animated, and interactive visualizations in Python
   Homepage: https://matplotlib.org/
 - Package: matterbridge
@@ -7351,7 +7351,7 @@
   Description: This project provides a command line tool called nms that recreates the famous data decryption effect
   Homepage: https://github.com/bartobri/no-more-secrets
 - Package: nodejs
-  Version: 25.8.0
+  Version: 25.8.1
   Description: Open Source, cross-platform JavaScript runtime environment
   Homepage: https://nodejs.org/
 - Package: nodejs-lts
@@ -7487,7 +7487,7 @@
   Description: Static libraries for oniguruma
   Homepage: https://github.com/kkos/oniguruma
 - Package: onnxruntime
-  Version: 1.24.3-1
+  Version: 1.24.3-2
   Description: Cross-platform, high performance ML inferencing and training accelerator
   Homepage: https://onnxruntime.ai/
 - Package: oorexx
@@ -8283,7 +8283,7 @@
   Description: Python wrapper for CMake
   Homepage: https://cmake-python-distributions.readthedocs.io/
 - Package: python-contourpy
-  Version: 1.3.3-3
+  Version: 1.3.3-4
   Description: Python library for calculating contours in 2D quadrilateral grids
   Homepage: https://contourpy.readthedocs.io/
 - Package: python-cryptography
@@ -8323,15 +8323,15 @@
   Description: MessagePack serializer implementation for Python
   Homepage: https://github.com/msgpack/msgpack-python
 - Package: python-numpy
-  Version: 2.2.5-4
+  Version: 2.4.3
   Description: The fundamental package for scientific computing with Python
   Homepage: https://numpy.org/
 - Package: python-numpy-static
-  Version: 2.2.5-4
+  Version: 2.4.3
   Description: Static libraries for python-numpy
   Homepage: https://numpy.org/
 - Package: python-onnxruntime
-  Version: 1.24.3-1
+  Version: 1.24.3-2
   Description: Cross-platform, high performance ML inferencing and training accelerator (Python bindings)
   Homepage: https://onnxruntime.ai/
 - Package: python-pillow
@@ -8347,7 +8347,7 @@
   Description: Cross-platform process and system utilities module for Python
   Homepage: https://github.com/giampaolo/psutil
 - Package: python-pyarrow
-  Version: 23.0.1-1
+  Version: 23.0.1-2
   Description: Python bindings for Apache Arrow
   Homepage: https://github.com/apache/arrow
 - Package: python-pycryptodomex
@@ -8375,7 +8375,7 @@
   Description: Static libraries for python
   Homepage: https://python.org/
 - Package: python-tflite-runtime
-  Version: 2.20.0-2
+  Version: 2.20.0-3
   Description: TensorFlow Lite Python bindings
   Homepage: https://www.tensorflow.org/lite
 - Package: python-tkinter
@@ -8387,11 +8387,11 @@
   Description: Tools for publishing from TLDP sources
   Homepage: https://github.com/tLDP/python-tldp
 - Package: python-torch
-  Version: 2.10.0-1
+  Version: 2.10.0-2
   Description: Tensors and Dynamic neural networks in Python
   Homepage: https://pytorch.org/
 - Package: python-torch-static
-  Version: 2.10.0-1
+  Version: 2.10.0-2
   Description: Static libraries for python-torch
   Homepage: https://pytorch.org/
 - Package: python-torchaudio
@@ -8403,7 +8403,7 @@
   Description: PyTorch media decoding and encoding
   Homepage: https://github.com/pytorch/torchcodec
 - Package: python-torchvision
-  Version: 0.25.0-1
+  Version: 0.25.0-2
   Description: Datasets, Transforms and Models specific to Computer Vision
   Homepage: https://github.com/pytorch/vision
 - Package: python-xcbgen
@@ -10415,7 +10415,7 @@
   Description: VI Like Emacs - vi work-alike
   Homepage: https://invisible-island.net/vile/
 - Package: vim
-  Version: 9.2.0100-2
+  Version: 9.2.0150
   Description: Vi IMproved - enhanced vi editor
   Homepage: https://www.vim.org
 - Package: virglrenderer
@@ -10491,7 +10491,7 @@
   Description: Vulkan Loader for Android
   Homepage: https://source.android.com/devices/graphics/arch-vulkan
 - Package: vulkan-loader-generic
-  Version: 1.4.345
+  Version: 1.4.346
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
@@ -10499,7 +10499,7 @@
   Description: Vulkan Tools and Utilities
   Homepage: https://github.com/KhronosGroup/Vulkan-Tools
 - Package: vulkan-utility-libraries
-  Version: 1.4.345
+  Version: 1.4.346
   Description: Utility Libraries for Vulkan
   Homepage: https://github.com/KhronosGroup/Vulkan-Utility-Libraries
 - Package: vulkan-validation-layers
@@ -10763,7 +10763,7 @@
   Description: Static libraries for xvidcore
   Homepage: https://www.xvid.com/
 - Package: xxd
-  Version: 9.2.0100-2
+  Version: 9.2.0150
   Description: Hexdump utility from vim
   Homepage: https://www.vim.org
 - Package: xxhash
