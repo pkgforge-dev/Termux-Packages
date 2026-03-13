@@ -5047,7 +5047,7 @@
   },
   {
     "Package": "ldd",
-    "Version": "0.3-1",
+    "Version": "0.3-2",
     "Description": "Fake ldd command",
     "Homepage": "https://github.com/termux/termux-packages"
   },
@@ -13795,15 +13795,15 @@
   },
   {
     "Package": "snapcast-client",
-    "Version": "0.34.0-2",
+    "Version": "0.35.0",
     "Description": "A multiroom client-server audio player (client)",
-    "Homepage": "https://github.com/badaix/snapcast"
+    "Homepage": "https://github.com/snapcast/snapcast"
   },
   {
     "Package": "snapcast-server",
-    "Version": "0.34.0-2",
+    "Version": "0.35.0",
     "Description": "A multiroom client-server audio player (server)",
-    "Homepage": "https://github.com/badaix/snapcast"
+    "Homepage": "https://github.com/snapcast/snapcast"
   },
   {
     "Package": "snmptt",
