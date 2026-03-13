@@ -97,7 +97,7 @@
   },
   {
     "Package": "acr",
-    "Version": "2.2.4",
+    "Version": "2.2.6",
     "Description": "A fully compatible autoconf replacement",
     "Homepage": "https://github.com/radareorg/acr"
   },
@@ -9733,7 +9733,7 @@
   },
   {
     "Package": "luajit",
-    "Version": "1:2.1.1767980792+g707c12b-1",
+    "Version": "1:2.1.1772619647+g659a616",
     "Description": "Just-In-Time Compiler for Lua",
     "Homepage": "https://luajit.org/"
   },
@@ -9745,7 +9745,7 @@
   },
   {
     "Package": "luajit-static",
-    "Version": "1:2.1.1767980792+g707c12b-1",
+    "Version": "1:2.1.1772619647+g659a616",
     "Description": "Static libraries for luajit",
     "Homepage": "https://luajit.org/"
   },
@@ -12625,7 +12625,7 @@
   },
   {
     "Package": "python-yt-dlp",
-    "Version": "2026.03.03",
+    "Version": "2026.03.13",
     "Description": "A youtube-dl fork with additional features and fixes",
     "Homepage": "https://github.com/yt-dlp/yt-dlp"
   },
@@ -13999,7 +13999,7 @@
   },
   {
     "Package": "squid",
-    "Version": "7.4",
+    "Version": "7.5",
     "Description": "Full-featured Web proxy cache server",
     "Homepage": "http://www.squid-cache.org"
   },
@@ -16243,7 +16243,7 @@
   },
   {
     "Package": "yt-dlp-ejs",
-    "Version": "0.6.0",
+    "Version": "0.7.0",
     "Description": "External JavaScript for yt-dlp supporting many runtimes",
     "Homepage": "https://github.com/yt-dlp/ejs"
   },
