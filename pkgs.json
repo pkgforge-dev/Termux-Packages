@@ -499,7 +499,7 @@
   },
   {
     "Package": "aspnetcore-runtime-10.0",
-    "Version": "10.0.4",
+    "Version": "10.0.5",
     "Description": "ASP.NET Core 10.0 Runtime",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -517,7 +517,7 @@
   },
   {
     "Package": "aspnetcore-runtime-dbg-10.0",
-    "Version": "10.0.4",
+    "Version": "10.0.5",
     "Description": "ASP.NET Core 10.0 Runtime Managed Debug Symbols",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -535,7 +535,7 @@
   },
   {
     "Package": "aspnetcore-targeting-pack-10.0",
-    "Version": "10.0.4",
+    "Version": "10.0.5",
     "Description": "ASP.NET Core 10.0 Targeting Pack",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2155,7 +2155,7 @@
   },
   {
     "Package": "dotnet-apphost-pack-10.0",
-    "Version": "10.0.4",
+    "Version": "10.0.5",
     "Description": ".NET 10.0 Targeting Pack",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2179,7 +2179,7 @@
   },
   {
     "Package": "dotnet-host-10.0",
-    "Version": "10.0.4",
+    "Version": "10.0.5",
     "Description": ".NET 10.0 Host",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2197,7 +2197,7 @@
   },
   {
     "Package": "dotnet-hostfxr-10.0",
-    "Version": "10.0.4",
+    "Version": "10.0.5",
     "Description": ".NET 10.0 Host Resolver",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2215,7 +2215,7 @@
   },
   {
     "Package": "dotnet-runtime-10.0",
-    "Version": "10.0.4",
+    "Version": "10.0.5",
     "Description": ".NET 10.0 Runtime",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2233,7 +2233,7 @@
   },
   {
     "Package": "dotnet-runtime-dbg-10.0",
-    "Version": "10.0.4",
+    "Version": "10.0.5",
     "Description": ".NET 10.0 Runtime Managed Debug Symbols",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2251,7 +2251,7 @@
   },
   {
     "Package": "dotnet-sdk-10.0",
-    "Version": "10.0.4",
+    "Version": "10.0.5",
     "Description": ".NET 10.0 SDK",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2269,7 +2269,7 @@
   },
   {
     "Package": "dotnet-sdk-dbg-10.0",
-    "Version": "10.0.4",
+    "Version": "10.0.5",
     "Description": ".NET 10.0 SDK Managed Debug Symbols",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2287,7 +2287,7 @@
   },
   {
     "Package": "dotnet-targeting-pack-10.0",
-    "Version": "10.0.4",
+    "Version": "10.0.5",
     "Description": ".NET 10.0 Targeting Pack",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2305,7 +2305,7 @@
   },
   {
     "Package": "dotnet-templates-10.0",
-    "Version": "10.0.4",
+    "Version": "10.0.5",
     "Description": ".NET 10.0 Templates",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2323,7 +2323,7 @@
   },
   {
     "Package": "dotnet10.0",
-    "Version": "10.0.4",
+    "Version": "10.0.5",
     "Description": ".NET 10.0",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -5107,7 +5107,7 @@
   },
   {
     "Package": "lexbor",
-    "Version": "2.6.0",
+    "Version": "2.7.0",
     "Description": "Fast embeddable web browser engine written in C with no dependencies",
     "Homepage": "https://lexbor.com"
   },
@@ -12541,7 +12541,7 @@
   },
   {
     "Package": "python-ruff",
-    "Version": "0.15.5",
+    "Version": "0.15.6",
     "Description": "An extremely fast Python linter, written in Rust (Python bindings)",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -13303,7 +13303,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.15.5",
+    "Version": "0.15.6",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -15511,7 +15511,7 @@
   },
   {
     "Package": "vale",
-    "Version": "3.13.1",
+    "Version": "3.14.0",
     "Description": "A syntax-aware linter for prose built with speed and extensibility in mind",
     "Homepage": "https://vale.sh"
   },
@@ -16243,7 +16243,7 @@
   },
   {
     "Package": "yt-dlp-ejs",
-    "Version": "0.5.0-2",
+    "Version": "0.6.0",
     "Description": "External JavaScript for yt-dlp supporting many runtimes",
     "Homepage": "https://github.com/yt-dlp/ejs"
   },
