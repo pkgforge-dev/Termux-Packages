@@ -3499,7 +3499,7 @@
   },
   {
     "Package": "gitea",
-    "Version": "1.25.4",
+    "Version": "1.25.5",
     "Description": "Git with a cup of tea, painless self-hosted git service",
     "Homepage": "https://gitea.io"
   },
@@ -4123,19 +4123,19 @@
   },
   {
     "Package": "harfbuzz",
-    "Version": "13.1.0",
+    "Version": "13.1.1",
     "Description": "OpenType text shaping engine",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-icu",
-    "Version": "13.1.0",
+    "Version": "13.1.1",
     "Description": "OpenType text shaping engine ICU backend",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-utils",
-    "Version": "13.1.0",
+    "Version": "13.1.1",
     "Description": "Tools using the harfbuzz library",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
@@ -9823,13 +9823,13 @@
   },
   {
     "Package": "lzlib",
-    "Version": "1.15-1",
+    "Version": "1.16",
     "Description": "A library providing in-memory LZMA compression and decompression functions",
     "Homepage": "http://www.nongnu.org/lzip/lzlib.html"
   },
   {
     "Package": "lzlib-static",
-    "Version": "1.15-1",
+    "Version": "1.16",
     "Description": "Static libraries for lzlib",
     "Homepage": "http://www.nongnu.org/lzip/lzlib.html"
   },
@@ -10849,7 +10849,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.12.0~dev-2550+gf847aa6208-0",
+    "Version": "0.12.0~dev-2560+gb027de3a87-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -13711,7 +13711,7 @@
   },
   {
     "Package": "simdjson",
-    "Version": "4.3.1",
+    "Version": "4.4.0",
     "Description": "A C++ library to see how fast we can parse JSON with complete validation",
     "Homepage": "https://simdjson.org/"
   },
@@ -15715,7 +15715,7 @@
   },
   {
     "Package": "vulkan-headers",
-    "Version": "1.4.345",
+    "Version": "1.4.346",
     "Description": "Vulkan Header files and API registry",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Headers"
   },
