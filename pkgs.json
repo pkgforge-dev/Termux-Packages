@@ -1531,13 +1531,13 @@
   },
   {
     "Package": "coinor-clp",
-    "Version": "1:1.17.10-1",
+    "Version": "1:1.17.11",
     "Description": "An open-source linear programming solver",
     "Homepage": "https://github.com/coin-or/Clp"
   },
   {
     "Package": "coinor-clp-static",
-    "Version": "1:1.17.10-1",
+    "Version": "1:1.17.11",
     "Description": "Static libraries for coinor-clp",
     "Homepage": "https://github.com/coin-or/Clp"
   },
@@ -13615,7 +13615,7 @@
   },
   {
     "Package": "sftpgo",
-    "Version": "2.7.0",
+    "Version": "2.7.1",
     "Description": "Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server",
     "Homepage": "https://sftpgo.com/"
   },
@@ -15193,7 +15193,7 @@
   },
   {
     "Package": "turbo",
-    "Version": "2.8.15",
+    "Version": "2.8.17",
     "Description": "High-performance build system for JS/TS",
     "Homepage": "https://turbo.build/"
   },
@@ -15469,7 +15469,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.10.9",
+    "Version": "0.10.10",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
@@ -15745,7 +15745,7 @@
   },
   {
     "Package": "vulkan-tools",
-    "Version": "1.4.345",
+    "Version": "1.4.346",
     "Description": "Vulkan Tools and Utilities",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Tools"
   },

@@ -265,8 +265,8 @@
 | **codecrypt** | 1.8-10 | The post-quantum cryptography tool | http://e-x-a.org/codecrypt/ |
 | **coinor-cbc** | 2.10.13 | An open-source mixed integer linear programming solver | https://github.com/coin-or/Cbc |
 | **coinor-cbc-static** | 2.10.13 | Static libraries for coinor-cbc | https://github.com/coin-or/Cbc |
-| **coinor-clp** | 1:1.17.10-1 | An open-source linear programming solver | https://github.com/coin-or/Clp |
-| **coinor-clp-static** | 1:1.17.10-1 | Static libraries for coinor-clp | https://github.com/coin-or/Clp |
+| **coinor-clp** | 1:1.17.11 | An open-source linear programming solver | https://github.com/coin-or/Clp |
+| **coinor-clp-static** | 1:1.17.11 | Static libraries for coinor-clp | https://github.com/coin-or/Clp |
 | **cointop** | 1.6.10-3 | A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies | https://cointop.sh/ |
 | **colm** | 0.14.7-2 | COmputer Language Machinery | https://www.colm.net/open-source/colm/ |
 | **colm-static** | 0.14.7-2 | Static libraries for colm | https://www.colm.net/open-source/colm/ |
@@ -2279,7 +2279,7 @@
 | **serf** | 1.3.10-2 | High performance C-based HTTP client library | https://serf.apache.org/ |
 | **serf-static** | 1.3.10-2 | Static libraries for serf | https://serf.apache.org/ |
 | **sfeed** | 2.3 | Shell-script/crontab oriented feed aggregator and parser utility (curses-based reader included) | https://codemadness.org/sfeed-simple-feed-parser.html |
-| **sftpgo** | 2.7.0 | Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server | https://sftpgo.com/ |
+| **sftpgo** | 2.7.1 | Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server | https://sftpgo.com/ |
 | **shaderc** | 2026.1 | Collection of tools, libraries, and tests for Vulkan shader compilation | https://github.com/google/shaderc |
 | **sharutils** | 4.15.2-4 | Utilities for packaging and unpackaging shell archives | https://www.gnu.org/software/sharutils/ |
 | **shc** | 4.0.3-4 | Shell script compiler | https://neurobin.org/projects/softwares/unix/shc/ |
@@ -2542,7 +2542,7 @@
 | **ttyrec** | 1.0.8-8 | Terminal recorder and player | http://0xcc.net/ttyrec/ |
 | **tudo** | 1.2.0 | A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument as the Termux app (u<userid>_a<appid>) user in the Termux app | https://github.com/agnostic-apollo/tudo |
 | **tur-repo** | 1.0.1 | A single and trusted place for all unofficial/less popular termux packages | https://github.com/termux-user-repository/tur |
-| **turbo** | 2.8.15 | High-performance build system for JS/TS | https://turbo.build/ |
+| **turbo** | 2.8.17 | High-performance build system for JS/TS | https://turbo.build/ |
 | **tut** | 2.0.1-3 | A TUI for Mastodon with vim inspired keys | https://github.com/RasmusLindroth/tut |
 | **tvheadend** | 4.2.8-12 | TV streaming server for Linux and Android supporting DVB-S, DVB-S2 and other formats. | https://tvheadend.org/ |
 | **tvheadend-data** | 4.2.8-12 | Platform-independent data for tvheadend | https://tvheadend.org/ |
@@ -2588,7 +2588,7 @@
 | **util-linux-static** | 2.41.3 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-2 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.41.3 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **uv** | 0.10.9 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
+| **uv** | 0.10.10 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.31-1 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.46.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.18-1 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
@@ -2634,7 +2634,7 @@
 | **vulkan-loader** | 0.0.3 | A metapackage that provides vulkan loader library | https://github.com/termux/termux-packages |
 | **vulkan-loader-android** | 29 | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
 | **vulkan-loader-generic** | 1.4.346 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
-| **vulkan-tools** | 1.4.345 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
+| **vulkan-tools** | 1.4.346 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
 | **vulkan-utility-libraries** | 1.4.346 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
 | **vulkan-validation-layers** | 1.4.343 | Vulkan Validation Layers | https://github.com/KhronosGroup/Vulkan-ValidationLayers |
 | **vulkan-volk** | 1.4.304 | Meta loader for Vulkan API | https://github.com/zeux/volk |
