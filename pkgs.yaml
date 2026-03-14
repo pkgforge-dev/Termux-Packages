@@ -5983,7 +5983,7 @@
   Description: A library containing the AudioProcessing module from the WebRTC project
   Homepage: https://www.freedesktop.org/software/pulseaudio/webrtc-audio-processing/
 - Package: libwebsockets
-  Version: 4.5.4
+  Version: 4.5.5
   Description: Lightweight C websockets library
   Homepage: https://libwebsockets.org
 - Package: libwolfssl
@@ -10319,7 +10319,7 @@
   Description: uWSGI application server container
   Homepage: https://projects.unbit.it/uwsgi
 - Package: v2ray
-  Version: 5.46.0
+  Version: 5.47.0
   Description: A platform for building proxies to bypass network restrictions
   Homepage: https://www.v2fly.org/
 - Package: valac
@@ -10523,7 +10523,7 @@
   Description: The WebAssembly Binary Toolkit
   Homepage: https://github.com/WebAssembly/wabt
 - Package: wakatime-cli
-  Version: 1.139.1
+  Version: 1.139.2
   Description: Command line interface used by all WakaTime text editor plugins
   Homepage: https://wakatime.com/plugins/
 - Package: walk
