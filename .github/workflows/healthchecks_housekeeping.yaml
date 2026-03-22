@@ -1,0 +1,149 @@
+name: 🐧🧹 HealthChecks 🖳🗑️
+#MAX_RUNTIME: 02 Minutes */10 * * * * 
+
+on:
+  #push:
+  workflow_dispatch:
+  schedule:
+    - cron: "45 02 * * *"  # 02:45 AM UTC --> 08:30 AM Morning NPT
+#------------------------------------------------------------------------------------#
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          path: main
+          filter: "blob:none" #https://github.blog/2020-12-21-get-up-to-speed-with-partial-clone-and-shallow-clone/
+
+      - name: Setup ENV
+        run: |
+          #presets
+          set +x ; set +e
+          #-------------#
+          #tmp
+          SYSTMP="$(dirname $(mktemp -u))" && export SYSTMP="${SYSTMP}"
+          echo "SYSTMP=${SYSTMP}" >> "${GITHUB_ENV}"
+          ##User-Agent
+          USER_AGENT="$(curl -qfsSL 'https://raw.githubusercontent.com/pkgforge/devscripts/refs/heads/main/Misc/User-Agents/ua_chrome_macos_latest.txt')" && export USER_AGENT="${USER_AGENT}"
+          echo "USER_AGENT=${USER_AGENT}" >> "${GITHUB_ENV}"
+        continue-on-error: true
+        
+      - name: Install Addons
+        run: |
+          #Presets
+          set +x ; set +e
+          #--------------#
+          #action-lint
+          sudo curl -qfsSL "https://bin.pkgforge.dev/$(uname -m)-$(uname -s)/actionlint" -o "/usr/local/bin/actionlint" && sudo chmod +xwr "/usr/local/bin/actionlint"
+          #delta
+          sudo curl -qfsSL "https://bin.pkgforge.dev/$(uname -m)-$(uname -s)/delta" -o "/usr/local/bin/delta" && sudo chmod +xwr "/usr/local/bin/delta"
+          #dust
+          sudo curl -qfsSL "https://bin.pkgforge.dev/$(uname -m)-$(uname -s)/dust" -o "/usr/local/bin/dust" && sudo chmod +xwr "/usr/local/bin/dust"
+          #eget
+          sudo curl -qfsSL "https://bin.pkgforge.dev/$(uname -m)-$(uname -s)/eget" -o "/usr/local/bin/eget" && sudo chmod +xwr "/usr/local/bin/eget"
+          #git-sizer
+          sudo curl -qfsSL "https://bin.pkgforge.dev/$(uname -m)-$(uname -s)/git-sizer" -o "/usr/local/bin/git-sizer" && sudo chmod +xwr "/usr/local/bin/git-sizer"
+          #rclone
+          sudo curl -qfsSL "https://bin.pkgforge.dev/$(uname -m)-$(uname -s)/rclone" -o "/usr/local/bin/rclone" && sudo chmod +xwr "/usr/local/bin/rclone"
+          #validtoml
+          sudo curl -qfsSL "https://bin.pkgforge.dev/$(uname -m)-$(uname -s)/validtoml" -o "/usr/local/bin/validtoml" && sudo chmod +xwr "/usr/local/bin/validtoml"
+          #Yq
+          sudo curl -qfsSL "https://bin.pkgforge.dev/$(uname -m)-$(uname -s)/yq" -o "/usr/local/bin/yq" && sudo chmod +xwr "/usr/local/bin/yq"
+          #Yj
+          sudo curl -qfsSL "https://bin.pkgforge.dev/$(uname -m)-$(uname -s)/yj" -o "/usr/local/bin/yj" && sudo chmod +xwr "/usr/local/bin/yj"
+        continue-on-error: true
+
+      - name: Install Addons
+        run: |
+          #presets
+          set +x ; set +e
+          #-------------#
+          bash <(curl -qfsSL "https://raw.githubusercontent.com/pkgforge/devscripts/refs/heads/main/Linux/install_bins_curl.sh")
+        continue-on-error: true
+
+      - name: Dos2Unix Everything
+        run: |
+          #Presets
+          set +x ; set +e
+          #--------------#
+          cd "${GITHUB_WORKSPACE}/main"
+          find . -type f ! -path "./.git/*" -exec dos2unix {} \; 2>/dev/null
+        continue-on-error: true
+
+      - name: ActionLint
+        run: |
+          #Presets
+          set +x ; set +e
+          #--------------#
+          cd "${GITHUB_WORKSPACE}/main"
+          find ".github/workflows" -type f -name "*ml" -exec actionlint {} \;
+        continue-on-error: true
+
+      - name: Generate Repo Metadata (git-sizer)
+        run: |
+          #Presets
+          set +x ; set +e
+          #--------------#
+          cd "${GITHUB_WORKSPACE}/main"
+          #Dust sizes
+          echo '```mathematica' > "${GITHUB_WORKSPACE}/main/.github/SIZE.md"
+          dust -b -c -i -r -n 99999999 "${GITHUB_WORKSPACE}/main" | tee -a "${GITHUB_WORKSPACE}/main/.github/SIZE.md"
+          dust -b -c -i -r -n 99999999 "${GITHUB_WORKSPACE}/main" | tee "${GITHUB_WORKSPACE}/main/.github/SIZE.txt"
+          echo '```' >> "${GITHUB_WORKSPACE}/main/.github/SIZE.md"
+        continue-on-error: true
+
+      - name: Ensure Healthy Commit Nums (RESET ON >= 1000)
+        run: |
+          #Presets
+          set +x ; set +e
+          #--------------#
+          pushd "$(mktemp -d)" > /dev/null 2>&1 && git clone --filter="blob:none" "$GITHUB_SERVER_URL/$GITHUB_REPOSITORY"
+          cd "$(find . -maxdepth 1 -type d -exec basename {} \; | grep -Ev '^\.$' | xargs -I {} realpath {})"
+          CLONED_DIR="$(realpath .)" && export CLONED_DIR="$CLONED_DIR"
+          COMMIT_NUMS="$(git rev-list --count HEAD)" && export COMMIT_NUMS="${COMMIT_NUMS}"
+          popd > /dev/null 2>&1 ; rm -rf "$CLONED_DIR" 2>/dev/null
+          cd "${GITHUB_WORKSPACE}/main"
+          if [ "${COMMIT_NUMS}" -gt 1000 ]; then
+              echo -e "\n[+] Total number of commits exceeds 1000. (${COMMIT_NUMS})\n"
+              cd "${GITHUB_WORKSPACE}/main"
+              git config "user.name" "Azathothas"
+              git config "user.email" "AjamX101@gmail.com"
+              git checkout --orphan temp
+              git add --all --verbose && git commit -m "Purge (Re:Init)"
+              git branch -D "main"
+              git branch -m "main"
+              git push --set-upstream origin main --force
+              echo "RESET_HISTORY=YES" >> "${GITHUB_ENV}"
+          else
+              echo -e "\n[+] Total number of commits looks healthy. (${COMMIT_NUMS})\n"
+              echo "RESET_HISTORY=NO" >> "${GITHUB_ENV}"
+          fi
+          pushd "${GITHUB_WORKSPACE}/main" >/dev/null 2>&1 && git pull origin main && popd >/dev/null 2>&1
+        continue-on-error: true
+
+      - name: Get DateTime
+        run: |
+          #Date Time
+          NEPALI_TIME="$(TZ='Asia/Kathmandu' date +'%Y-%m-%d (%I:%M:%S %p)')"
+          echo "NEPALI_TIME=${NEPALI_TIME}" >> "${GITHUB_ENV}"
+        continue-on-error: true
+
+      - name: Git Pull
+        run: |
+          cd "${GITHUB_WORKSPACE}/main" && git pull origin main
+        continue-on-error: true
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          repository: ./main        
+          commit_user_name: Azathothas # defaults to "github-actions[bot]"
+          commit_user_email: AjamX101@gmail.com # defaults to "41898282+github-actions[bot]@users.noreply.github.com"
+          commit_message: "✅ 🐧🧹 🖳🗑️"
+          #push_options: '--force'
+        continue-on-error: true

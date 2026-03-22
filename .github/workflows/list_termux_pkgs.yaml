@@ -1,0 +1,167 @@
+name: 💾 Fetch || ⏫ Update Termux Package Registry 📦
+#MAX_RUNTIME: ~ 03 mins
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */2 * * *"  # Every 2 Hrs
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+  
+    steps:        
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          path: "main"
+          filter: "blob:none" #https://github.blog/2020-12-21-get-up-to-speed-with-partial-clone-and-shallow-clone/
+
+      - name: Setup ENV
+        run: |
+          #presets
+          set +x ; set +e
+          #-------------#
+          ##Install coreutils
+          sudo apt-get update -y -qq && sudo apt-get install curl coreutils dos2unix file findutils gawk git jq moreutils rsync tar xz-utils util-linux wget zip -y -qq
+          #tmp
+          SYSTMP="$(dirname $(mktemp -u))" && export SYSTMP="${SYSTMP}"
+          echo "SYSTMP=${SYSTMP}" >> "${GITHUB_ENV}"
+          ##User-Agent
+          USER_AGENT="$(curl -qfsSL 'https://raw.githubusercontent.com/pkgforge/devscripts/refs/heads/main/Misc/User-Agents/ua_chrome_macos_latest.txt')" && export USER_AGENT="${USER_AGENT}"
+          echo "USER_AGENT=${USER_AGENT}" >> "${GITHUB_ENV}"
+        continue-on-error: true
+
+      - name: Install Addons
+        run: |
+          #presets
+          set +x ; set +e
+          #-------------#
+          bash <(curl -qfsSL "https://raw.githubusercontent.com/pkgforge/devscripts/refs/heads/main/Linux/install_bins_curl.sh")
+          #yj
+          sudo curl -qfsSL "https://bin.pkgforge.dev/$(uname -m)-$(uname -s)/yj" -o "/usr/local/bin/yj" && sudo chmod +x "/usr/local/bin/yj"
+        continue-on-error: true
+
+      - name: Fetch || Update Termux Package Registry (Docker --> termux/termux-docker)
+        run: |
+          #Presets
+          set +x ; set +e
+          #--------------#        
+          docker run --privileged --name termux \
+            termux/termux-docker:latest \
+            bash -c 'apt-get clean && apt-get update; for pkg in $(apt-cache pkgnames | sort -u); do version=$(apt-cache show $pkg | grep -m 1 "Version:" | cut -c 10-); description=$(apt-cache show $pkg | grep -m 1 "Description:" | cut -c 14-); homepage=$(apt-cache show $pkg | grep -m 1 "Homepage:" | cut -c 11-); echo "| **$pkg** | $version | $description | $homepage |"; done > termux.pkgs'
+          #Copy 
+          docker cp "termux:/data/data/com.termux/files/home/termux.pkgs" "${GITHUB_WORKSPACE}/main/termux.pkgs"
+          sed 's/[\*\|]//g' "${GITHUB_WORKSPACE}/main/termux.pkgs" > "${GITHUB_WORKSPACE}/main/pkgs.txt"
+        continue-on-error: false  
+
+      - name: Update README.md
+        run: |
+          #Presets
+          set +x ; set +e
+          #--------------#
+          cd "${GITHUB_WORKSPACE}/main"
+          cat "${GITHUB_WORKSPACE}/main/INFO.md" > "${GITHUB_WORKSPACE}/main/README.md"
+          echo -e "" >> "${GITHUB_WORKSPACE}/main/README.md"
+          echo '---' >> "${GITHUB_WORKSPACE}/main/README.md"
+          echo "|Package | Version | Description | Homepage |" >> "${GITHUB_WORKSPACE}/main/README.md"
+          echo "|--------|---------|-------------|----------|" >> "${GITHUB_WORKSPACE}/main/README.md"
+          cat "${GITHUB_WORKSPACE}/main/termux.pkgs" >> "${GITHUB_WORKSPACE}/main/README.md"
+          echo -e "" >> "${GITHUB_WORKSPACE}/main/README.md"
+          echo '---' >> "${GITHUB_WORKSPACE}/main/README.md"
+        continue-on-error: false
+
+      - name: Generate index.html --> ("https://termux-packages.ajam.dev")
+        run: |
+          #Presets
+          set +x ; set +e
+          #--------------#
+          #https://github.com/oscarmorrison/md-page
+          cat "${GITHUB_WORKSPACE}/main/.github/style.header" > "${GITHUB_WORKSPACE}/main/index.html"
+          echo "" >> "${GITHUB_WORKSPACE}/main/index.html"
+          #cat "${GITHUB_WORKSPACE}/main/README.md" >> "${GITHUB_WORKSPACE}/main/index.html"
+          sed -n "$(($(grep -n '|Package' "${GITHUB_WORKSPACE}/main/README.md" | cut -d ':' -f 1) - 1)),\$p" "${GITHUB_WORKSPACE}/main/README.md" >> "${GITHUB_WORKSPACE}/main/index.html"
+          echo "" >> "${GITHUB_WORKSPACE}/main/index.html"
+          cat "${GITHUB_WORKSPACE}/main/.github/style.footer" >> "${GITHUB_WORKSPACE}/main/index.html"
+        continue-on-error: true
+
+      - name: Generate JSON
+        run: |
+          #Presets
+          set +x ; set +e
+          #--------------#
+          awk '
+          BEGIN {
+            FS="|";
+          }
+          
+          /^-+$/ { next }
+          
+          NR > 3 && NF > 1 {
+            #Trim leading and trailing spaces
+            for (i=1; i<=NF; i++) gsub(/^ *| *$/, "", $i)
+          
+            #Ignore lines with only separators or empty fields
+            if ($2 == "" && $3 == "" && $4 == "" && $5 == "") next
+          
+            #Remove '**' from the Package field
+            gsub(/\*\*/, "", $2)
+          
+            #Remove backticks from values
+            gsub("\140", "", $2)
+            gsub("\140", "", $3)
+            gsub("\140", "", $4)
+            gsub("\140", "", $5)
+          
+            #Remove single quotes from values
+            gsub("\047", "", $2)
+            gsub("\047", "", $3)
+            gsub("\047", "", $4)
+            gsub("\047", "", $5)
+          
+            #Remove double quotes from values
+            gsub("\042", "", $2)
+            gsub("\042", "", $3)
+            gsub("\042", "", $4)
+            gsub("\042", "", $5)
+          
+            #Construct JSON object
+            printf "{\n"
+            printf "  \"Package\": \"%s\",\n", $2
+            printf "  \"Version\": \"%s\",\n", $3
+            printf "  \"Description\": \"%s\",\n", $4
+            printf "  \"Homepage\": \"%s\"\n", $5
+            printf "}\n"
+          }' "${GITHUB_WORKSPACE}/main/README.md" > "${SYSTMP}/temp.json"
+          #Validate
+          jq -c 'select(has("Package") and (.Package | test("[[:alnum:]]")) and .Package != "")' "${SYSTMP}/temp.json" | jq -s '.' > "${SYSTMP}/tempd.json"
+          jq '[.[] | select(.Package != "Package" and .Version != "Version")] | sort_by(.Package)' "${SYSTMP}/tempd.json" > "${GITHUB_WORKSPACE}/main/pkgs.json"
+          #Convert to YAML
+          cat "${GITHUB_WORKSPACE}/main/pkgs.json" | yj -jy | tee "${GITHUB_WORKSPACE}/main/pkgs.yaml"
+        continue-on-error: false
+
+      - name: Get DateTime
+        run: |
+          #Presets
+          set +x ; set +e
+          #--------------#
+          NEPALI_TIME="$(TZ='Asia/Kathmandu' date +'%Y-%m-%d (%I:%M:%S %p)')"
+          echo "NEPALI_TIME=${NEPALI_TIME}" >> "${GITHUB_ENV}"
+        continue-on-error: true
+          
+      - name: Git Pull
+        run: |
+           cd "${GITHUB_WORKSPACE}/main" && git pull origin main
+        continue-on-error: true
+        
+   #Commit & Push
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          repository: ./main
+          commit_user_name: Azathothas # defaults to "github-actions[bot]"
+          commit_user_email: AjamX101@gmail.com # defaults to "41898282+github-actions[bot]@users.noreply.github.com"
+          commit_message: "✅ Update Termux pkg Registry 📦 <-- ${{ env.NEPALI_TIME }} ⌚"
+          #push_options: '--force'

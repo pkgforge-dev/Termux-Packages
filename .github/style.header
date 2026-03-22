@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://rawcdn.githack.com/oscarmorrison/md-page/master/md-page.js"></script>
+    <title>📦📱 Termux Packages 📱📦</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #121212;
+            color: #e0e0e0;
+            margin: 0;
+            padding: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        th, td {
+            padding: 12px;
+            text-align: left;
+            border: 1px solid #424242;
+        }
+        th {
+            background-color: #333333;
+        }
+        tr:nth-child(even) {
+            background-color: #1e1e1e;
+        }
+        tr:nth-child(odd) {
+            background-color: #1e1e1e;
+        }
+        a {
+            color: #80cbc4;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        caption {
+            font-size: 1.5em;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+<noscript>
