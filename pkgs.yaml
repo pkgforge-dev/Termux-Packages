@@ -831,7 +831,7 @@
   Description: A free compiler for 6502 based system
   Homepage: https://cc65.github.io/
 - Package: ccache
-  Version: 4.13.1
+  Version: 4.13.2
   Description: Compiler cache for fast recompilation of C/C++ code
   Homepage: https://ccache.samba.org
 - Package: cccc
@@ -6639,7 +6639,7 @@
   Description: Connect to your mattermost or slack using your IRC-client of choice
   Homepage: https://github.com/42wim/matterircd
 - Package: matugen
-  Version: 4.0.0
+  Version: 4.1.0
   Description: A material you color generation tool with templates
   Homepage: https://github.com/InioX/matugen
 - Package: mautrix-whatsapp
@@ -10467,7 +10467,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2026.03.20
+  Version: 2026.03.21
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vttest
