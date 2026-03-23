@@ -510,8 +510,8 @@
 | **freecolor** | 0.9.3-1 | Freecolor is a replacement for Linux that displays free memory graphically | http://rkeene.org/oss/freecolor/ |
 | **freeimage** | 3.18.0-7 | The library project for developers who would like to support popular graphics image formats | https://freeimage.sourceforge.io |
 | **freeimage-static** | 3.18.0-7 | Static libraries for freeimage | https://freeimage.sourceforge.io |
-| **freetype** | 2.14.2 | Software font engine capable of producing high-quality output | https://www.freetype.org |
-| **freetype-static** | 2.14.2 | Static libraries for freetype | https://www.freetype.org |
+| **freetype** | 2.14.3 | Software font engine capable of producing high-quality output | https://www.freetype.org |
+| **freetype-static** | 2.14.3 | Static libraries for freetype | https://www.freetype.org |
 | **frei0r-plugins** | 2.5.4 | Minimalistic plugin API for video effects | https://www.dyne.org/software/frei0r/ |
 | **fresh-editor** | 0.2.17 | Text editor for your terminal: easy, powerful and fast | https://getfresh.dev/ |
 | **fribidi** | 1.0.16-1 | Implementation of the Unicode Bidirectional Algorithm | https://github.com/fribidi/fribidi/ |
@@ -1258,8 +1258,8 @@
 | **libopencore-amr** | 0.1.6-1 | Open source implementation of the Adaptive Multi Rate (AMR) speech codec | https://sourceforge.net/projects/opencore-amr/ |
 | **libopencore-amr-static** | 0.1.6-1 | Static libraries for libopencore-amr | https://sourceforge.net/projects/opencore-amr/ |
 | **libopenfec** | 1.4.2.12-1 | Application-Level Forward Erasure Correction implementation library | http://openfec.org |
-| **libopenmpt** | 0.8.4 | Library to render tracker music formats to a PCM audio stream | https://lib.openmpt.org/libopenmpt/ |
-| **libopenmpt-static** | 0.8.4 | Static libraries for libopenmpt | https://lib.openmpt.org/libopenmpt/ |
+| **libopenmpt** | 0.8.5 | Library to render tracker music formats to a PCM audio stream | https://lib.openmpt.org/libopenmpt/ |
+| **libopenmpt-static** | 0.8.5 | Static libraries for libopenmpt | https://lib.openmpt.org/libopenmpt/ |
 | **libopus** | 1.6.1 | Reference implementation of the Opus codec | https://www.opus-codec.org/ |
 | **libopus-static** | 1.6.1 | Static libraries for libopus | https://www.opus-codec.org/ |
 | **libopusenc** | 0.2.1-4 | High-level API for encoding .opus files | https://github.com/xiph/libopusenc |
@@ -1822,7 +1822,7 @@
 | **netstandard-targeting-pack-2.1-8.0** | 8.0.25 | NETStandard.Library 2.1 Targeting Pack (.NET 8.0) | https://dotnet.microsoft.com/en-us/ |
 | **netstandard-targeting-pack-2.1-9.0** | 9.0.14 | NETStandard.Library 2.1 Targeting Pack (.NET 9.0) | https://dotnet.microsoft.com/en-us/ |
 | **nettle** | 4.0+really3.10.2 | Low level cryptographic tools | https://www.lysator.liu.se/~nisse/nettle/ |
-| **newsboat** | 2.42 | RSS/Atom feed reader for the text console | https://newsboat.org/ |
+| **newsboat** | 2.43 | RSS/Atom feed reader for the text console | https://newsboat.org/ |
 | **newsraft** | 0.35 | Newsraft is a feed reader with text-based user interface | https://codeberg.org/newsraft/newsraft |
 | **nginx** | 1.29.6 | Lightweight HTTP server | https://www.nginx.org |
 | **ngircd** | 27-1 | Free, portable and lightweight Internet Relay Chat server | https://ngircd.barton.de/ |
@@ -1900,7 +1900,7 @@
 | **openlist** | 4.1.10 | A file list program that supports multiple storage | https://oplist.org/ |
 | **openmpi** | 4.1.5-1 | Open source Message Passing Interface implementation | https://www.open-mpi.org |
 | **openmpi-static** | 4.1.5-1 | Static libraries for openmpi | https://www.open-mpi.org |
-| **openmpt123** | 0.8.4 | libopenmpt based command-line player for tracker music formats | https://lib.openmpt.org/libopenmpt/ |
+| **openmpt123** | 0.8.5 | libopenmpt based command-line player for tracker music formats | https://lib.openmpt.org/libopenmpt/ |
 | **opensc** | 0.26.1-1 | Open source smart card tools and middleware | https://github.com/OpenSC/OpenSC |
 | **opensc-static** | 0.26.1-1 | Static libraries for opensc | https://github.com/OpenSC/OpenSC |
 | **openscad** | 2021.01-6 | The programmers solid 3D CAD modeller (headless build) | https://openscad.org/ |
@@ -2051,14 +2051,14 @@
 | **pulseaudio-glib** | 17.0-1 | PulseAudio GLIB mainloop component | https://www.freedesktop.org/wiki/Software/PulseAudio |
 | **pup** | 0.4.0-7 | command line tool for processing HTML | https://github.com/ericchiang/pup |
 | **pure-ftpd** | 1.0.53 | Pure-FTPd is a free (BSD), secure, production-quality and standard-conformant FTP server | https://www.pureftpd.org/project/pure-ftpd |
-| **pv** | 1.10.4 | Terminal-based tool for monitoring the progress of data through a pipeline | https://www.ivarch.com/programs/pv.shtml |
+| **pv** | 1.10.5 | Terminal-based tool for monitoring the progress of data through a pipeline | https://www.ivarch.com/programs/pv.shtml |
 | **pwgen** | 2.08-2 | Password generator which by default, unless given the '-s' option, generates memorable but insecure passwords | http://pwgen.sourceforge.net/ |
 | **pybind11** | 3.0.2-1 | A lightweight header-only library that exposes C++ types in Python and vice versa | https://pybind11.readthedocs.io/ |
 | **pycairo** | 1.29.0-1 | Python bindings for the cairo graphics library | https://www.cairographics.org/pycairo/ |
 | **pygobject** | 3.56.1 | Python package which provides bindings for GObject based libraries | https://pygobject.gnome.org/ |
-| **pypy** | 7.3.20 | A fast, compliant alternative implementation of Python | https://pypy.org |
-| **pypy-tests** | 7.3.20 | Test files for PyPy | https://pypy.org |
-| **pypy-tkinter** | 7.3.20 | Tkinter support for PyPy | https://pypy.org |
+| **pypy** | 7.3.21 | A fast, compliant alternative implementation of Python | https://pypy.org |
+| **pypy-tests** | 7.3.21 | Test files for PyPy | https://pypy.org |
+| **pypy-tkinter** | 7.3.21 | Tkinter support for PyPy | https://pypy.org |
 | **pypy3** | 7.3.20 | A fast, compliant alternative implementation of Python 3 | https://pypy.org |
 | **pypy3-tests** | 7.3.20 | Test files for PyPy 3 | https://pypy.org |
 | **pypy3-tkinter** | 7.3.20 | Tkinter support for PyPy 3 | https://pypy.org |
@@ -2352,7 +2352,7 @@
 | **stdoutisatty** | 1.0-1 | Patch the isatty() calls for colored output in pipeline | https://github.com/lilydjwg/stdoutisatty |
 | **steghide** | 0.5.1-8 | Embeds a message in a file by replacing some of the least significant bits | https://steghide.sourceforge.net/ |
 | **stemwords** | 3.0.1 | A command-line tool which uses libstemmer | https://snowballstem.org/ |
-| **step-cli** | 0.30.1 | An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows | https://smallstep.com/cli |
+| **step-cli** | 0.30.2 | An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows | https://smallstep.com/cli |
 | **stfl** | 0.24-7 | Structured Terminal Forms Language/Library | http://www.clifford.at/stfl |
 | **stfl-static** | 0.24-7 | Static libraries for stfl | http://www.clifford.at/stfl |
 | **stockfish** | 18 | Free and strong UCI chess engine | https://stockfishchess.org/ |

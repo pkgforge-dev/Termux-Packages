@@ -2047,11 +2047,11 @@
   Description: Static libraries for freeimage
   Homepage: https://freeimage.sourceforge.io
 - Package: freetype
-  Version: 2.14.2
+  Version: 2.14.3
   Description: Software font engine capable of producing high-quality output
   Homepage: https://www.freetype.org
 - Package: freetype-static
-  Version: 2.14.2
+  Version: 2.14.3
   Description: Static libraries for freetype
   Homepage: https://www.freetype.org
 - Package: frei0r-plugins
@@ -5039,11 +5039,11 @@
   Description: Application-Level Forward Erasure Correction implementation library
   Homepage: http://openfec.org
 - Package: libopenmpt
-  Version: 0.8.4
+  Version: 0.8.5
   Description: Library to render tracker music formats to a PCM audio stream
   Homepage: https://lib.openmpt.org/libopenmpt/
 - Package: libopenmpt-static
-  Version: 0.8.4
+  Version: 0.8.5
   Description: Static libraries for libopenmpt
   Homepage: https://lib.openmpt.org/libopenmpt/
 - Package: libopus
@@ -7295,7 +7295,7 @@
   Description: Low level cryptographic tools
   Homepage: https://www.lysator.liu.se/~nisse/nettle/
 - Package: newsboat
-  Version: "2.42"
+  Version: "2.43"
   Description: RSS/Atom feed reader for the text console
   Homepage: https://newsboat.org/
 - Package: newsraft
@@ -7607,7 +7607,7 @@
   Description: Static libraries for openmpi
   Homepage: https://www.open-mpi.org
 - Package: openmpt123
-  Version: 0.8.4
+  Version: 0.8.5
   Description: libopenmpt based command-line player for tracker music formats
   Homepage: https://lib.openmpt.org/libopenmpt/
 - Package: opensc
@@ -8211,7 +8211,7 @@
   Description: Pure-FTPd is a free (BSD), secure, production-quality and standard-conformant FTP server
   Homepage: https://www.pureftpd.org/project/pure-ftpd
 - Package: pv
-  Version: 1.10.4
+  Version: 1.10.5
   Description: Terminal-based tool for monitoring the progress of data through a pipeline
   Homepage: https://www.ivarch.com/programs/pv.shtml
 - Package: pwgen
@@ -8231,15 +8231,15 @@
   Description: Python package which provides bindings for GObject based libraries
   Homepage: https://pygobject.gnome.org/
 - Package: pypy
-  Version: 7.3.20
+  Version: 7.3.21
   Description: A fast, compliant alternative implementation of Python
   Homepage: https://pypy.org
 - Package: pypy-tests
-  Version: 7.3.20
+  Version: 7.3.21
   Description: Test files for PyPy
   Homepage: https://pypy.org
 - Package: pypy-tkinter
-  Version: 7.3.20
+  Version: 7.3.21
   Description: Tkinter support for PyPy
   Homepage: https://pypy.org
 - Package: pypy3
@@ -9415,7 +9415,7 @@
   Description: A command-line tool which uses libstemmer
   Homepage: https://snowballstem.org/
 - Package: step-cli
-  Version: 0.30.1
+  Version: 0.30.2
   Description: An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows
   Homepage: https://smallstep.com/cli
 - Package: stfl
