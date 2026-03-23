@@ -4513,13 +4513,13 @@
   },
   {
     "Package": "imagemagick",
-    "Version": "7.1.2.17",
+    "Version": "7.1.2.18",
     "Description": "Suite to create, edit, compose, or convert images in a variety of formats",
     "Homepage": "https://www.imagemagick.org/"
   },
   {
     "Package": "imagemagick-static",
-    "Version": "7.1.2.17",
+    "Version": "7.1.2.18",
     "Description": "Static libraries for imagemagick",
     "Homepage": "https://www.imagemagick.org/"
   },
@@ -9649,7 +9649,7 @@
   },
   {
     "Package": "lua-lgi",
-    "Version": "0.9.2+p20251219-1",
+    "Version": "0.9.2+p20251219-2",
     "Description": "Dynamic Lua binding to GObject libraries using GObject-Introspection",
     "Homepage": "https://github.com/lgi-devs/lgi"
   },
@@ -9751,7 +9751,7 @@
   },
   {
     "Package": "luajit-lgi",
-    "Version": "0.9.2+p20251219-2",
+    "Version": "0.9.2+p20251219-3",
     "Description": "Dynamic Lua binding to GObject libraries using GObject-Introspection",
     "Homepage": "https://github.com/lgi-devs/lgi"
   },
@@ -10855,7 +10855,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.12.0~dev-2664+g256811a617-0",
+    "Version": "0.12.0~dev-2671+g0a60f32af3-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -13339,7 +13339,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20260316",
+    "Version": "20260323",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://rust-analyzer.github.io/"
   },

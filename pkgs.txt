@@ -750,8 +750,8 @@
  id3lib  3.8.3-4  A software library for manipulating ID3v1/v1.1 and ID3v2 tags  https://id3lib.sourceforge.net/ 
  id3lib-static  3.8.3-4  Static libraries for id3lib  https://id3lib.sourceforge.net/ 
  id3v2  0.1.12-2  A command line id3v2 tag editor  https://id3v2.sourceforge.net/ 
- imagemagick  7.1.2.17  Suite to create, edit, compose, or convert images in a variety of formats  https://www.imagemagick.org/ 
- imagemagick-static  7.1.2.17  Static libraries for imagemagick  https://www.imagemagick.org/ 
+ imagemagick  7.1.2.18  Suite to create, edit, compose, or convert images in a variety of formats  https://www.imagemagick.org/ 
+ imagemagick-static  7.1.2.18  Static libraries for imagemagick  https://www.imagemagick.org/ 
  imath  3.2.2  Library for vector/matrix and math operations, plus the half type  https://imath.readthedocs.io/ 
  imlib2  1.12.6  Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support  https://sourceforge.net/projects/enlightenment/ 
  imlib2-static  1.12.6  Static libraries for imlib2  https://sourceforge.net/projects/enlightenment/ 
@@ -1606,7 +1606,7 @@
  lsof-static  4.99.6  Static libraries for lsof  https://github.com/lsof-org/lsof 
  ltrace  1:0.8.1  Tracks runtime library calls in dynamically linked programs  http://www.ltrace.org/ 
  lua-language-server  3.17.1-2  Sumneko Lua Language Server coded in Lua  https://github.com/sumneko/lua-language-server 
- lua-lgi  0.9.2+p20251219-1  Dynamic Lua binding to GObject libraries using GObject-Introspection  https://github.com/lgi-devs/lgi 
+ lua-lgi  0.9.2+p20251219-2  Dynamic Lua binding to GObject libraries using GObject-Introspection  https://github.com/lgi-devs/lgi 
  lua-lpeg  1.1.0-4  Pattern-matching library for Lua 5.4  https://www.inf.puc-rio.br/~roberto/lpeg 
  lua51  5.1.5-7  Shared library for the Lua interpreter (v5.1.x)  https://www.lua.org 
  lua51-lpeg  1.1.0-4  Pattern-matching library for Lua 5.1  https://www.inf.puc-rio.br/~roberto/lpeg 
@@ -1623,7 +1623,7 @@
  lua55  5.5.0-2  Shared library for the Lua interpreter (v5.5.x)  https://www.lua.org/ 
  lua55-static  5.5.0-2  Static libraries for lua55  https://www.lua.org/ 
  luajit  1:2.1.1772619647+g659a616  Just-In-Time Compiler for Lua  https://luajit.org/ 
- luajit-lgi  0.9.2+p20251219-2  Dynamic Lua binding to GObject libraries using GObject-Introspection  https://github.com/lgi-devs/lgi 
+ luajit-lgi  0.9.2+p20251219-3  Dynamic Lua binding to GObject libraries using GObject-Introspection  https://github.com/lgi-devs/lgi 
  luajit-static  1:2.1.1772619647+g659a616  Static libraries for luajit  https://luajit.org/ 
  luarocks  3.13.0-1  Deployment and management system for Lua modules  https://luarocks.org/ 
  luv  1.52.1-0-0  Bare libuv bindings for lua  https://github.com/luvit/luv 
@@ -1807,7 +1807,7 @@
  neofetch  7.1.0-1  Simple system information script  https://github.com/dylanaraps/neofetch 
  neomutt  20260105  A version of mutt with added features  https://neomutt.org/ 
  neovim  0.11.6-3  Ambitious Vim-fork focused on extensibility and agility (nvim)  https://neovim.io/ 
- neovim-nightly  0.12.0~dev-2664+g256811a617-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
+ neovim-nightly  0.12.0~dev-2671+g0a60f32af3-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
  nerdfix  0.4.2-1  nerdfix helps you to find/fix obsolete Nerd Font icons in your project.  https://github.com/loichyan/nerdfix 
  net-snmp  5.9.5.2  Various tools relating to the Simple Network Management Protocol  http://www.net-snmp.org/ 
  net-snmp-static  5.9.5.2  Static libraries for net-snmp  http://www.net-snmp.org/ 
@@ -2221,7 +2221,7 @@
  runit-static  2.1.2-4  Static libraries for runit  http://smarden.org/runit 
  rush  0.8.0  A cross-platform command-line tool for executing jobs in parallel  https://github.com/shenwei356/rush 
  rust  1.94.0  Systems programming language focused on safety, speed and concurrency  https://www.rust-lang.org/ 
- rust-analyzer  20260316  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
+ rust-analyzer  20260323  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
  rust-bindgen  0.72.1  Automatically generates Rust FFI bindings to C (and some C++) libraries  https://github.com/rust-lang/rust-bindgen 
  rust-docs  1.94.0  Rust documentation  https://www.rust-lang.org/ 
  rust-src  1.94.0  Rust source code files  https://www.rust-lang.org/ 
