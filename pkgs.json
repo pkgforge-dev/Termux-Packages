@@ -3091,7 +3091,7 @@
   },
   {
     "Package": "fresh-editor",
-    "Version": "0.2.17",
+    "Version": "0.2.18",
     "Description": "Text editor for your terminal: easy, powerful and fast",
     "Homepage": "https://getfresh.dev/"
   },
@@ -3523,9 +3523,9 @@
   },
   {
     "Package": "gitoxide",
-    "Version": "0.51.0",
+    "Version": "0.52.0",
     "Description": "Rust implementation of Git",
-    "Homepage": "https://github.com/Byron/gitoxide"
+    "Homepage": "https://github.com/GitoxideLabs/gitoxide"
   },
   {
     "Package": "gitui",
@@ -12367,19 +12367,19 @@
   },
   {
     "Package": "pypy3",
-    "Version": "7.3.20",
+    "Version": "7.3.21",
     "Description": "A fast, compliant alternative implementation of Python 3",
     "Homepage": "https://pypy.org"
   },
   {
     "Package": "pypy3-tests",
-    "Version": "7.3.20",
+    "Version": "7.3.21",
     "Description": "Test files for PyPy 3",
     "Homepage": "https://pypy.org"
   },
   {
     "Package": "pypy3-tkinter",
-    "Version": "7.3.20",
+    "Version": "7.3.21",
     "Description": "Tkinter support for PyPy 3",
     "Homepage": "https://pypy.org"
   },
@@ -15265,7 +15265,7 @@
   },
   {
     "Package": "udocker",
-    "Version": "1.3.17-3",
+    "Version": "1.3.17-4",
     "Description": "A basic user tool to execute simple docker containers in batch or interactive systems without root privileges.",
     "Homepage": "https://indigo-dc.github.io/udocker"
   },
