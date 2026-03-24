@@ -15,7 +15,7 @@
  abseil-cpp  20250814.1  Abseil C++ Common Libraries  https://abseil.io/ 
  ack-grep  3.9.0-1  Tool like grep optimized for programmers  https://beyondgrep.com/ 
  acr  2.2.6  A fully compatible autoconf replacement  https://github.com/radareorg/acr 
- ada  3.4.3  WHATWG-compliant and fast URL parser written in modern C++  https://github.com/ada-url/ada 
+ ada  3.4.4  WHATWG-compliant and fast URL parser written in modern C++  https://github.com/ada-url/ada 
  adms  2.3.7-1  A code generator for the Verilog-AMS language  https://github.com/qucs/adms 
  aerc  0.21.0  A pretty good email client  https://aerc-mail.org/ 
  agate  3.3.20  Very simple server for the Gemini hypertext protocol  https://github.com/mbrubeck/agate 
@@ -99,7 +99,7 @@
  atool  0.39.0-2  tool for managing file archives of various types  https://www.nongnu.org/atool 
  attr  2.5.2-1  Utilities for manipulating filesystem extended attributes  http://savannah.nongnu.org/projects/attr/ 
  attr-static  2.5.2-1  Static libraries for attr  http://savannah.nongnu.org/projects/attr/ 
- atuin  18.13.3  Magical shell history  https://atuin.sh/ 
+ atuin  18.13.4  Magical shell history  https://atuin.sh/ 
  aubio  0.4.9-7  A library to label music and sounds  https://aubio.org/ 
  aubio-static  0.4.9-7  Static libraries for aubio  https://aubio.org/ 
  audiofile  0.3.6  Silicon Graphics Audio File Library  https://audiofile.68k.org/ 
@@ -265,7 +265,7 @@
  composer  2.9.5  Dependency Manager for PHP  https://getcomposer.org/ 
  console-bridge  1.0.2-1  A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages  https://github.com/ros/console_bridge 
  convertlit  1.8-2  An extractor/converter for .LIT eBooks  http://www.convertlit.com/ 
- cookcli  0.26.0  A suite of tools to create shopping lists and maintain food recipes  https://cooklang.org 
+ cookcli  0.27.0  A suite of tools to create shopping lists and maintain food recipes  https://cooklang.org 
  coreutils  9.10-1  Basic file, shell and text manipulation utilities from the GNU project  https://www.gnu.org/software/coreutils/ 
  corgi  0.2.4-5  CLI workflow manager  https://github.com/DrakeW/corgi 
  corkscrew  2.0-4  A tool for tunneling SSH through HTTP proxies  https://wiki.linuxquestions.org/wiki/Corkscrew 
@@ -2378,7 +2378,7 @@
  sun  1.0.0-3  A very simple note taking cli app  https://stand-up-notes.org 
  supercollider  3.14.1  A platform for audio synthesis and algorithmic composition  http://supercollider.github.io/ 
  surfraw  2.3.0-10  Shell Users' Revolutionary Front Rage Against the Web  https://gitlab.com/surfraw/Surfraw 
- svt-av1  4.0.1  Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder)  https://gitlab.com/AOMediaCodec/SVT-AV1 
+ svt-av1  4.1.0  Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder)  https://gitlab.com/AOMediaCodec/SVT-AV1 
  swaks  20240103.0  Swiss Army Knife for SMTP  http://jetmore.org/john/code/swaks/ 
  swi-prolog  10.1.5  Most popular and complete prolog implementation  https://swi-prolog.org/ 
  swift-runtime-aarch64  6.2.1  Swift runtime libraries for Android AArch64  https://swift.org/ 
