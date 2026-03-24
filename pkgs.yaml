@@ -579,7 +579,7 @@
   Description: Safely store secrets in Git/Mercurial/Subversion
   Homepage: https://github.com/StackExchange/blackbox
 - Package: blas-openblas
-  Version: 0.3.31
+  Version: 0.3.32
   Description: OpenBLAS symlinks for BLAS/CBLAS/LAPACK/LAPACKE
   Homepage: https://www.openblas.net
 - Package: blink
@@ -979,7 +979,7 @@
   Description: A tool which profiles OpenCL devices to find their peak capacities
   Homepage: https://github.com/krrishnarraj/clpeak
 - Package: clvk
-  Version: 0.0.20260223.234457
+  Version: 0.0.20260323.184643
   Description: Experimental implementation of OpenCL on Vulkan
   Homepage: https://github.com/kpet/clvk
 - Package: cmake
@@ -1739,19 +1739,19 @@
   Description: Emmy Lua Language Server coded in Rust
   Homepage: https://github.com/EmmyLuaLs/emmylua-analyzer-rust
 - Package: emscripten
-  Version: 5.0.3
+  Version: 5.0.4
   Description: 'Emscripten: An LLVM-to-WebAssembly Compiler'
   Homepage: https://emscripten.org
 - Package: emscripten-binaryen
-  Version: 5.0.3
+  Version: 5.0.4
   Description: Emscripten-compatible Binaryen
   Homepage: https://emscripten.org
 - Package: emscripten-llvm
-  Version: 5.0.3
+  Version: 5.0.4
   Description: Emscripten-compatible LLVM
   Homepage: https://emscripten.org
 - Package: emscripten-tests-third-party
-  Version: 5.0.3
+  Version: 5.0.4
   Description: Emscripten third party test suite files
   Homepage: https://emscripten.org
 - Package: enblend
@@ -2903,7 +2903,7 @@
   Description: Command-line wrapper for git that makes you better at GitHub
   Homepage: https://hub.github.com/
 - Package: hugo
-  Version: 0.158.0
+  Version: 0.159.0
   Description: A fast and flexible static site generator
   Homepage: https://gohugo.io/
 - Package: hummin
@@ -5015,11 +5015,11 @@
   Description: An implementation of the Double Ratchet cryptographic ratchet
   Homepage: https://matrix.org/docs/projects/other/olm/
 - Package: libopenblas
-  Version: 0.3.31
+  Version: 0.3.32
   Description: An optimized BLAS library based on GotoBLAS2 1.13 BSD
   Homepage: https://www.openblas.net
 - Package: libopenblas-static
-  Version: 0.3.31
+  Version: 0.3.32
   Description: Static libraries for libopenblas
   Homepage: https://www.openblas.net
 - Package: libopencc
@@ -8627,7 +8627,7 @@
   Description: An alternative implementation of the plan 9 rc shell
   Homepage: https://github.com/rakitzis/rc
 - Package: rclone
-  Version: 1.73.2
+  Version: 1.73.3
   Description: rsync for cloud storage
   Homepage: https://rclone.org/
 - Package: rcm
@@ -8659,7 +8659,7 @@
   Description: Command line tool to extract the main content from a webpage
   Homepage: https://github.com/eafer/rdrview
 - Package: re2c
-  Version: "4.4"
+  Version: "4.5"
   Description: Lexer generator for C, C++ and Go.
   Homepage: https://re2c.org/
 - Package: readline
@@ -10315,7 +10315,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.10.12
+  Version: 0.11.0
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
@@ -10715,7 +10715,7 @@
   Description: A friendly and fast tool for sending HTTP requests
   Homepage: https://github.com/ducaale/xh
 - Package: xmake
-  Version: 3.0.7
+  Version: 3.0.8
   Description: A cross-platform build utility based on Lua
   Homepage: https://xmake.io/
 - Package: xmlsec

@@ -143,7 +143,7 @@
  bitlbee  3.6-1-2  An IRC to other chat networks gateway  https://www.bitlbee.org/ 
  bk  0.6.0-1  A terminal EPUB reader  https://github.com/aeosynth/bk 
  blackbox  1:1.20220610  Safely store secrets in Git/Mercurial/Subversion  https://github.com/StackExchange/blackbox 
- blas-openblas  0.3.31  OpenBLAS symlinks for BLAS/CBLAS/LAPACK/LAPACKE  https://www.openblas.net 
+ blas-openblas  0.3.32  OpenBLAS symlinks for BLAS/CBLAS/LAPACK/LAPACKE  https://www.openblas.net 
  blink  1:1.1.0-1  Tiny x86-64 Linux emulator  https://justine.lol/blinkenlights/ 
  blk-utils  2.41.3  Utilities for handling block device attributes  https://en.wikipedia.org/wiki/Util-linux 
  blogc  0.20.1-1  A blog compiler  https://blogc.rgm.io/ 
@@ -243,7 +243,7 @@
  cloneit  20240728-1  A cli tool to download specific GitHub directories or files  https://github.com/alok8bb/cloneit 
  cloudflared  2026.3.0  A tunneling daemon that proxies traffic from the Cloudflare network to your origins  https://github.com/cloudflare/cloudflared 
  clpeak  1.1.5  A tool which profiles OpenCL devices to find their peak capacities  https://github.com/krrishnarraj/clpeak 
- clvk  0.0.20260223.234457  Experimental implementation of OpenCL on Vulkan  https://github.com/kpet/clvk 
+ clvk  0.0.20260323.184643  Experimental implementation of OpenCL on Vulkan  https://github.com/kpet/clvk 
  cmake  4.3.0  Family of tools designed to build, test and package software  https://cmake.org/ 
  cmake-curses-gui  4.3.0  Curses based user interface for CMake (ccmake)  https://cmake.org/ 
  cmark  0.31.2  CommonMark parsing and rendering program  https://github.com/commonmark/cmark 
@@ -433,10 +433,10 @@
  elvish  0.21.0-1  A friendly and expressive Unix shell  https://github.com/elves/elvish 
  emacs  30.2  Extensible, customizable text editor-and more  https://www.gnu.org/software/emacs/ 
  emmylua-ls  0.21.0  Emmy Lua Language Server coded in Rust  https://github.com/EmmyLuaLs/emmylua-analyzer-rust 
- emscripten  5.0.3  Emscripten: An LLVM-to-WebAssembly Compiler  https://emscripten.org 
- emscripten-binaryen  5.0.3  Emscripten-compatible Binaryen  https://emscripten.org 
- emscripten-llvm  5.0.3  Emscripten-compatible LLVM  https://emscripten.org 
- emscripten-tests-third-party  5.0.3  Emscripten third party test suite files  https://emscripten.org 
+ emscripten  5.0.4  Emscripten: An LLVM-to-WebAssembly Compiler  https://emscripten.org 
+ emscripten-binaryen  5.0.4  Emscripten-compatible Binaryen  https://emscripten.org 
+ emscripten-llvm  5.0.4  Emscripten-compatible LLVM  https://emscripten.org 
+ emscripten-tests-third-party  5.0.4  Emscripten third party test suite files  https://emscripten.org 
  enblend  4.2.0p20161007-8  A tool for compositing images using a Burt&Adelson multiresolution spline  https://enblend.sourceforge.net/ 
  enchant  2.8.15  Wraps a number of different spelling libraries and programs with a consistent interface  https://rrthomas.github.io/enchant/ 
  enchant-static  2.8.15  Static libraries for enchant  https://rrthomas.github.io/enchant/ 
@@ -724,7 +724,7 @@
  httrack-data  3.49.6-1  Platform-independent data for httrack  http://www.httrack.com 
  httrack-static  3.49.6-1  Static libraries for httrack  http://www.httrack.com 
  hub  2.14.2-6  Command-line wrapper for git that makes you better at GitHub  https://hub.github.com/ 
- hugo  0.158.0  A fast and flexible static site generator  https://gohugo.io/ 
+ hugo  0.159.0  A fast and flexible static site generator  https://gohugo.io/ 
  hummin  2021.05.18-4  Command line client for the imperial library of trantor  https://trantor.is/ 
  hunspell  1.7.2-1  Spell checker  https://hunspell.github.io 
  hunspell-en-us  20240129  American english dictionary for hunspell  https://hunspell.github.io 
@@ -1252,8 +1252,8 @@
  libogg-static  1.3.6-1  Static libraries for libogg  https://xiph.org/ogg/ 
  liboggz  1.1.3-1  Command and library to inspect, tweak, edit and validate Ogg files  https://www.xiph.org/oggz/ 
  libolm  3.2.16-2  An implementation of the Double Ratchet cryptographic ratchet  https://matrix.org/docs/projects/other/olm/ 
- libopenblas  0.3.31  An optimized BLAS library based on GotoBLAS2 1.13 BSD  https://www.openblas.net 
- libopenblas-static  0.3.31  Static libraries for libopenblas  https://www.openblas.net 
+ libopenblas  0.3.32  An optimized BLAS library based on GotoBLAS2 1.13 BSD  https://www.openblas.net 
+ libopenblas-static  0.3.32  Static libraries for libopenblas  https://www.openblas.net 
  libopencc  1.2.0  An opensource project for conversions between Traditional Chinese, Simplified Chinese and Japanese Kanji (Shinjitai)  https://github.com/BYVoid/OpenCC 
  libopencore-amr  0.1.6-1  Open source implementation of the Adaptive Multi Rate (AMR) speech codec  https://sourceforge.net/projects/opencore-amr/ 
  libopencore-amr-static  0.1.6-1  Static libraries for libopencore-amr  https://sourceforge.net/projects/opencore-amr/ 
@@ -2155,7 +2155,7 @@
  ravencoin-static  4.6.1-9  Static libraries for ravencoin  https://ravencoin.org/ 
  rbw  1.15.0  An unofficial command line client for Bitwarden  https://github.com/doy/rbw 
  rc  1.7.4-2  An alternative implementation of the plan 9 rc shell  https://github.com/rakitzis/rc 
- rclone  1.73.2  rsync for cloud storage  https://rclone.org/ 
+ rclone  1.73.3  rsync for cloud storage  https://rclone.org/ 
  rcm  1.3.6  Dotfiles management  https://github.com/thoughtbot/rcm 
  rcs  5.10.1-1  The GNU Revision Control System  https://www.gnu.org/s/rcs 
  rdfind  1.8.0  A tool for finding duplicate files  https://github.com/pauldreik/rdfind 
@@ -2163,7 +2163,7 @@
  rdiff-backup  2.2.6-5  A utility for local/remote mirroring and incremental backups  https://rdiff-backup.net 
  rdircd  2023.02.07-3  A daemon that allows using a personal Discord account through an IRC client  https://github.com/mk-fg/reliable-discord-client-irc-daemon 
  rdrview  1:0.1.5-1  Command line tool to extract the main content from a webpage  https://github.com/eafer/rdrview 
- re2c  4.4  Lexer generator for C, C++ and Go.  https://re2c.org/ 
+ re2c  4.5  Lexer generator for C, C++ and Go.  https://re2c.org/ 
  readline  8.3.1-2  Library that allow users to edit command lines as they are typed in  https://tiswww.case.edu/php/chet/readline/rltop.html 
  readline-static  8.3.1-2  Static libraries for readline  https://tiswww.case.edu/php/chet/readline/rltop.html 
  recode  3.7.15-1  Charset converter tool and library  https://github.com/pinard/Recode 
@@ -2577,7 +2577,7 @@
  util-linux-static  2.41.3  Static libraries for util-linux  https://en.wikipedia.org/wiki/Util-linux 
  uucp  1.07-2  The standard UUCP package of the Free Software Foundation  https://www.airs.com/ian/uucp.html 
  uuid-utils  2.41.3  Utilities for handling universally unique identifiers  https://en.wikipedia.org/wiki/Util-linux 
- uv  0.10.12  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
+ uv  0.11.0  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
  uwsgi  2.0.31-1  uWSGI application server container  https://projects.unbit.it/uwsgi 
  v2ray  5.47.0  A platform for building proxies to bypass network restrictions  https://www.v2fly.org/ 
  valac  0.56.18-1  C# like language for the GObject system  https://wiki.gnome.org/Projects/Vala 
@@ -2677,7 +2677,7 @@
  xcb-proto  1.17.0-2  XML-XCB protocol descriptions  https://xcb.freedesktop.org/ 
  xdelta3  3.1.0-3  xdelta3 - VCDIFF (RFC 3284) binary diff tool  https://github.com/jmacd/xdelta 
  xh  0.25.3  A friendly and fast tool for sending HTTP requests  https://github.com/ducaale/xh 
- xmake  3.0.7  A cross-platform build utility based on Lua  https://xmake.io/ 
+ xmake  3.0.8  A cross-platform build utility based on Lua  https://xmake.io/ 
  xmlsec  1.3.9  XML Security Library  https://www.aleksey.com/xmlsec/ 
  xmlsec-static  1.3.9  Static libraries for xmlsec  https://www.aleksey.com/xmlsec/ 
  xmlstarlet  1.6.1-8  Command line XML toolkit  https://xmlstar.sourceforge.net/ 
