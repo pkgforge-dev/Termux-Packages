@@ -7561,13 +7561,13 @@
   },
   {
     "Package": "libopenmpt",
-    "Version": "0.8.5",
+    "Version": "0.8.6",
     "Description": "Library to render tracker music formats to a PCM audio stream",
     "Homepage": "https://lib.openmpt.org/libopenmpt/"
   },
   {
     "Package": "libopenmpt-static",
-    "Version": "0.8.5",
+    "Version": "0.8.6",
     "Description": "Static libraries for libopenmpt",
     "Homepage": "https://lib.openmpt.org/libopenmpt/"
   },
@@ -10855,7 +10855,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.12.0~dev-2689+g929f03fa8c-0",
+    "Version": "0.12.0~dev-2702+g40a42affa5-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -11413,7 +11413,7 @@
   },
   {
     "Package": "openmpt123",
-    "Version": "0.8.5",
+    "Version": "0.8.6",
     "Description": "libopenmpt based command-line player for tracker music formats",
     "Homepage": "https://lib.openmpt.org/libopenmpt/"
   },

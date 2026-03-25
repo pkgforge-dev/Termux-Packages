@@ -1270,8 +1270,8 @@
 | **libopencore-amr** | 0.1.6-1 | Open source implementation of the Adaptive Multi Rate (AMR) speech codec | https://sourceforge.net/projects/opencore-amr/ |
 | **libopencore-amr-static** | 0.1.6-1 | Static libraries for libopencore-amr | https://sourceforge.net/projects/opencore-amr/ |
 | **libopenfec** | 1.4.2.12-1 | Application-Level Forward Erasure Correction implementation library | http://openfec.org |
-| **libopenmpt** | 0.8.5 | Library to render tracker music formats to a PCM audio stream | https://lib.openmpt.org/libopenmpt/ |
-| **libopenmpt-static** | 0.8.5 | Static libraries for libopenmpt | https://lib.openmpt.org/libopenmpt/ |
+| **libopenmpt** | 0.8.6 | Library to render tracker music formats to a PCM audio stream | https://lib.openmpt.org/libopenmpt/ |
+| **libopenmpt-static** | 0.8.6 | Static libraries for libopenmpt | https://lib.openmpt.org/libopenmpt/ |
 | **libopus** | 1.6.1 | Reference implementation of the Opus codec | https://www.opus-codec.org/ |
 | **libopus-static** | 1.6.1 | Static libraries for libopus | https://www.opus-codec.org/ |
 | **libopusenc** | 0.2.1-4 | High-level API for encoding .opus files | https://github.com/xiph/libopusenc |
@@ -1819,7 +1819,7 @@
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20260105 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.11.6-3 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
-| **neovim-nightly** | 0.12.0~dev-2689+g929f03fa8c-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
+| **neovim-nightly** | 0.12.0~dev-2702+g40a42affa5-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
 | **nerdfix** | 0.4.2-1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.5.2 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.5.2 | Static libraries for net-snmp | http://www.net-snmp.org/ |
@@ -1912,7 +1912,7 @@
 | **openlist** | 4.1.10 | A file list program that supports multiple storage | https://oplist.org/ |
 | **openmpi** | 4.1.5-1 | Open source Message Passing Interface implementation | https://www.open-mpi.org |
 | **openmpi-static** | 4.1.5-1 | Static libraries for openmpi | https://www.open-mpi.org |
-| **openmpt123** | 0.8.5 | libopenmpt based command-line player for tracker music formats | https://lib.openmpt.org/libopenmpt/ |
+| **openmpt123** | 0.8.6 | libopenmpt based command-line player for tracker music formats | https://lib.openmpt.org/libopenmpt/ |
 | **opensc** | 0.26.1-1 | Open source smart card tools and middleware | https://github.com/OpenSC/OpenSC |
 | **opensc-static** | 0.26.1-1 | Static libraries for opensc | https://github.com/OpenSC/OpenSC |
 | **openscad** | 2021.01-6 | The programmers solid 3D CAD modeller (headless build) | https://openscad.org/ |
