@@ -260,7 +260,7 @@
 | **cointop** | 1.6.10-3 | A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies | https://cointop.sh/ |
 | **colm** | 0.14.7-2 | COmputer Language Machinery | https://www.colm.net/open-source/colm/ |
 | **colm-static** | 0.14.7-2 | Static libraries for colm | https://www.colm.net/open-source/colm/ |
-| **colordiff** | 1.0.21 | Tool to colorize 'diff' output | https://www.colordiff.org/ |
+| **colordiff** | 1.0.22 | Tool to colorize 'diff' output | https://www.colordiff.org/ |
 | **command-not-found** | 3.4.1-2 | Suggest installation of packages in interactive shell sessions | https://github.com/termux/command-not-found |
 | **composer** | 2.9.5 | Dependency Manager for PHP | https://getcomposer.org/ |
 | **console-bridge** | 1.0.2-1 | A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages | https://github.com/ros/console_bridge |
@@ -293,7 +293,7 @@
 | **ctypes-sh** | 1.2-2 | A foreign function interface for bash | https://github.com/taviso/ctypes.sh |
 | **cuetools** | 1.4.1-1 | A set of utilities for working with Cue Sheet (cue) and Table of Contents (toc) files | https://github.com/svend/cuetools |
 | **cups** | 2.4.16 | Common UNIX Printing System | https://www.cups.org/ |
-| **cups-pdf** | 3.0.1-2 | CUPS PDF backend | https://www.cups-pdf.de/ |
+| **cups-pdf** | 3.0.1-3 | CUPS PDF backend | https://www.cups-pdf.de/ |
 | **cups-static** | 2.4.16 | Static libraries for cups | https://www.cups.org/ |
 | **curl** | 8.19.0 | Command line tool for transferring data with URL syntax | https://curl.se/ |
 | **curlie** | 1.8.2 | The power of curl, the ease of use of httpie | https://curlie.io/ |
@@ -425,7 +425,7 @@
 | **eja** | 18.4.19-1 | eja micro web server | https://github.com/eja/eja |
 | **electric-fence** | 2.2.7-1 | Electric Fence (eFence) malloc memory debugger | https://elinux.org/Electric_Fence |
 | **electric-fence-static** | 2.2.7-1 | Static libraries for electric-fence | https://elinux.org/Electric_Fence |
-| **electrum** | 4.5.8-4 | Electrum is a lightweight Bitcoin wallet | https://electrum.org |
+| **electrum** | 4.7.1 | Electrum is a lightweight Bitcoin wallet | https://electrum.org |
 | **elfutils** | 0.193-1 | A collection of utilities to read, create and modify ELF binary files | https://sourceware.org/elfutils/ |
 | **elinks** | 0.19.1 | Full-Featured Text WWW Browser | https://github.com/rkd77/elinks |
 | **elixir** | 1.19.5 | Elixir is a dynamic, functional language designed for building scalable and maintainable applications | https://elixir-lang.org/ |
@@ -462,7 +462,7 @@
 | **fasd** | 2.0.0 | To fastly access files and folders | https://github.com/whjvenyl/fasd |
 | **fastfetch** | 2.60.0 | A maintained, feature-rich and performance oriented, neofetch like system information tool | https://github.com/fastfetch-cli/fastfetch |
 | **fastmod** | 0.4.4-1 | Regex-based code refactoring utility | https://github.com/facebookincubator/fastmod |
-| **fatsort** | 1.6.5.640-1 | A C utility that sorts FAT12, FAT16, FAT32 and exFAT partitions | https://fatsort.sourceforge.io/ |
+| **fatsort** | 1.7.679 | A C utility that sorts FAT12, FAT16, FAT32 and exFAT partitions | https://fatsort.sourceforge.io/ |
 | **faust** | 2.85.5 | A functional programming language for signal processing and sound synthesis | https://github.com/grame-cncm/faust |
 | **faust-static** | 2.85.5 | Static libraries for faust | https://github.com/grame-cncm/faust |
 | **faustlibraries** | 2.85.5 | Faust DSP libraries | https://github.com/grame-cncm/faust |
@@ -480,7 +480,7 @@
 | **fetchmailconf** | 6.6.2-1 | A GUI configurator for generating fetchmail configuration files | https://www.fetchmail.info/ |
 | **fff** | 2.2 | A simple file manager written in bash | https://github.com/dylanaraps/fff |
 | **ffmpeg** | 8.1 | Tools and libraries to manipulate a wide range of multimedia formats and protocols | https://ffmpeg.org |
-| **ffmpegthumbnailer** | 2.2.3-p20251103-0 | Lightweight video thumbnailer that can be used by file managers | https://github.com/dirkvdb/ffmpegthumbnailer |
+| **ffmpegthumbnailer** | 2.3.0 | Lightweight video thumbnailer that can be used by file managers | https://github.com/dirkvdb/ffmpegthumbnailer |
 | **ffsend** | 0.2.77-2 | A fully featured Firefox Send client | https://gitlab.com/timvisee/ffsend |
 | **fftw** | 3.3.10-4 | Library for computing the Discrete Fourier Transform (DFT) in one or more dimensions | http://www.fftw.org/ |
 | **fftw-static** | 3.3.10-4 | Static libraries for fftw | http://www.fftw.org/ |
@@ -539,14 +539,14 @@
 | **gbt** | 2.0.0-6 | Highly configurable prompt builder for Bash and ZSH written in Go | https://github.com/jtyr/gbt |
 | **gcab** | 1.6-1 | GObject library to create cabinet files | https://gitlab.gnome.org/GNOME/gcab |
 | **gcal** | 4.1-4 | Program for calculating and printing calendars | https://www.gnu.org/software/gcal/ |
-| **gdal** | 3.12.3 | A translator library for raster and vector geospatial data formats | https://gdal.org |
+| **gdal** | 3.12.3-1 | A translator library for raster and vector geospatial data formats | https://gdal.org |
 | **gdb** | 16.3-3 | The standard GNU Debugger that runs on many Unix-like systems and works for many programming languages | https://www.gnu.org/software/gdb/ |
 | **gdbm** | 1.26-1 | Library of database functions that use extensible hashing | https://www.gnu.org.ua/software/gdbm/ |
 | **gdbm-static** | 1.26-1 | Static libraries for gdbm | https://www.gnu.org.ua/software/gdbm/ |
 | **gdbserver** | 16.3-3 | The gdbserver program | https://www.gnu.org/software/gdb/ |
 | **gdk-pixbuf** | 2.44.5 | Library for image loading and manipulation | https://wiki.gnome.org/Projects/GdkPixbuf |
 | **gdrive-downloader** | 1:1.1 | Download a gdrive folder or file easily, shell ftw | https://github.com/Akianonymus/gdrive-downloader |
-| **gdu** | 5.34.2 | Fast disk usage analyzer with console interface written in Go | https://github.com/dundee/gdu |
+| **gdu** | 5.34.4 | Fast disk usage analyzer with console interface written in Go | https://github.com/dundee/gdu |
 | **geckodriver** | 0.36.0-1 | Proxy for using W3C WebDriver-compatible clients to interact with Gecko-based browsers | https://github.com/mozilla/geckodriver |
 | **gecode** | 6.2.0-1 | Generic Constraint Development Environment | https://github.com/Gecode/gecode |
 | **gecode-static** | 6.2.0-1 | Static libraries for gecode | https://github.com/Gecode/gecode |
@@ -566,7 +566,7 @@
 | **gforth** | 0.7.3-3 | The Forth implementation of the GNU project | https://www.gnu.org/software/gforth/ |
 | **gh** | 2.88.1 | GitHub’s official command line tool | https://cli.github.com/ |
 | **ghc** | 9.12.2-2 | The Glasgow Haskell Compiler | https://www.haskell.org/ghc/ |
-| **ghostscript** | 10.06.0 | Interpreter for the PostScript language and for PDF | https://www.ghostscript.com/ |
+| **ghostscript** | 10.07.0 | Interpreter for the PostScript language and for PDF | https://www.ghostscript.com/ |
 | **giflib** | 5.2.2-1 | A library for reading and writing gif images | https://giflib.sourceforge.net/ |
 | **giflib-static** | 5.2.2-1 | Static libraries for giflib | https://giflib.sourceforge.net/ |
 | **giflib-utils** | 5.2.2-1 | A set of utilities that comes with giflib package | https://giflib.sourceforge.net/ |
@@ -750,8 +750,8 @@
 | **id3lib** | 3.8.3-4 | A software library for manipulating ID3v1/v1.1 and ID3v2 tags | https://id3lib.sourceforge.net/ |
 | **id3lib-static** | 3.8.3-4 | Static libraries for id3lib | https://id3lib.sourceforge.net/ |
 | **id3v2** | 0.1.12-2 | A command line id3v2 tag editor | https://id3v2.sourceforge.net/ |
-| **imagemagick** | 7.1.2.18 | Suite to create, edit, compose, or convert images in a variety of formats | https://www.imagemagick.org/ |
-| **imagemagick-static** | 7.1.2.18 | Static libraries for imagemagick | https://www.imagemagick.org/ |
+| **imagemagick** | 7.1.2.18-1 | Suite to create, edit, compose, or convert images in a variety of formats | https://www.imagemagick.org/ |
+| **imagemagick-static** | 7.1.2.18-1 | Static libraries for imagemagick | https://www.imagemagick.org/ |
 | **imath** | 3.2.2 | Library for vector/matrix and math operations, plus the half type | https://imath.readthedocs.io/ |
 | **imlib2** | 1.12.6 | Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support | https://sourceforge.net/projects/enlightenment/ |
 | **imlib2-static** | 1.12.6 | Static libraries for imlib2 | https://sourceforge.net/projects/enlightenment/ |
@@ -1382,8 +1382,8 @@
 | **libspatialite** | 5.1.0-3 | SQLite extension to support spatial data types and operations | https://www.gaia-gis.it/fossil/libspatialite |
 | **libspatialite-static** | 5.1.0-3 | Static libraries for libspatialite | https://www.gaia-gis.it/fossil/libspatialite |
 | **libspdlog** | 1.17.0 | Very fast, header-only/compiled, C++ logging library | https://github.com/gabime/spdlog |
-| **libspectre** | 0.2.12-2 | A small library for rendering Postscript documents | https://www.freedesktop.org/wiki/Software/libspectre/ |
-| **libspectre-static** | 0.2.12-2 | Static libraries for libspectre | https://www.freedesktop.org/wiki/Software/libspectre/ |
+| **libspectre** | 0.2.12-3 | A small library for rendering Postscript documents | https://www.freedesktop.org/wiki/Software/libspectre/ |
+| **libspectre-static** | 0.2.12-3 | Static libraries for libspectre | https://www.freedesktop.org/wiki/Software/libspectre/ |
 | **libspeex** | 1.2.1-1 | A patent-free, Open Source/Free Software voice codec | https://www.speex.org/ |
 | **libspeex-static** | 1.2.1-1 | Static libraries for libspeex | https://www.speex.org/ |
 | **libspice-protocol** | 0.14.5 | SPICE protocol headers | https://www.spice-space.org/ |
@@ -1573,7 +1573,7 @@
 | **libzxing-cpp** | 3.0.2 | An open-source, multi-format 1D/2D barcode image processing library implemented in C++ | https://github.com/zxing-cpp/zxing-cpp |
 | **lighttpd** | 1.4.82 | Fast webserver with minimal memory footprint | https://www.lighttpd.net |
 | **lilv** | 0.26.4 | A C library to make the use of LV2 plugins as simple as possible for applications | https://drobilla.net/software/lilv.html |
-| **lilypond** | 2.24.4-5 | A music engraving program | https://lilypond.org/ |
+| **lilypond** | 2.24.4-6 | A music engraving program | https://lilypond.org/ |
 | **links** | 2.29-2 | Links is a text and graphics mode WWW browser | http://links.twibright.com |
 | **lipl** | 0.1.3-1 | A command line tool that is similar to watch but has extended functions for commands outputing a number | https://github.com/yxdunc/lipl |
 | **lit** | 3.8.5-3 | Toolkit for developing, sharing, and running luvit/lua programs and libraries. | https://luvit.io |
@@ -2676,6 +2676,8 @@
 | **xapian-tools** | 2.0.0 | Basic tools for the Xapian search engine | https://xapian.org |
 | **xcb-proto** | 1.17.0-2 | XML-XCB protocol descriptions | https://xcb.freedesktop.org/ |
 | **xdelta3** | 3.1.0-3 | xdelta3 - VCDIFF (RFC 3284) binary diff tool | https://github.com/jmacd/xdelta |
+| **xerces-c** | 3.3.0 | Validating XML parser library for C++. | https://xerces.apache.org/ |
+| **xerces-c-static** | 3.3.0 | Static libraries for xerces-c | https://xerces.apache.org/ |
 | **xh** | 0.25.3 | A friendly and fast tool for sending HTTP requests | https://github.com/ducaale/xh |
 | **xmake** | 3.0.8 | A cross-platform build utility based on Lua | https://xmake.io/ |
 | **xmlsec** | 1.3.9 | XML Security Library | https://www.aleksey.com/xmlsec/ |

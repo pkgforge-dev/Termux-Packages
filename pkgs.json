@@ -1573,7 +1573,7 @@
   },
   {
     "Package": "colordiff",
-    "Version": "1.0.21",
+    "Version": "1.0.22",
     "Description": "Tool to colorize diff output",
     "Homepage": "https://www.colordiff.org/"
   },
@@ -1771,7 +1771,7 @@
   },
   {
     "Package": "cups-pdf",
-    "Version": "3.0.1-2",
+    "Version": "3.0.1-3",
     "Description": "CUPS PDF backend",
     "Homepage": "https://www.cups-pdf.de/"
   },
@@ -2563,7 +2563,7 @@
   },
   {
     "Package": "electrum",
-    "Version": "4.5.8-4",
+    "Version": "4.7.1",
     "Description": "Electrum is a lightweight Bitcoin wallet",
     "Homepage": "https://electrum.org"
   },
@@ -2785,7 +2785,7 @@
   },
   {
     "Package": "fatsort",
-    "Version": "1.6.5.640-1",
+    "Version": "1.7.679",
     "Description": "A C utility that sorts FAT12, FAT16, FAT32 and exFAT partitions",
     "Homepage": "https://fatsort.sourceforge.io/"
   },
@@ -2893,7 +2893,7 @@
   },
   {
     "Package": "ffmpegthumbnailer",
-    "Version": "2.2.3-p20251103-0",
+    "Version": "2.3.0",
     "Description": "Lightweight video thumbnailer that can be used by file managers",
     "Homepage": "https://github.com/dirkvdb/ffmpegthumbnailer"
   },
@@ -3247,7 +3247,7 @@
   },
   {
     "Package": "gdal",
-    "Version": "3.12.3",
+    "Version": "3.12.3-1",
     "Description": "A translator library for raster and vector geospatial data formats",
     "Homepage": "https://gdal.org"
   },
@@ -3289,7 +3289,7 @@
   },
   {
     "Package": "gdu",
-    "Version": "5.34.2",
+    "Version": "5.34.4",
     "Description": "Fast disk usage analyzer with console interface written in Go",
     "Homepage": "https://github.com/dundee/gdu"
   },
@@ -3409,7 +3409,7 @@
   },
   {
     "Package": "ghostscript",
-    "Version": "10.06.0",
+    "Version": "10.07.0",
     "Description": "Interpreter for the PostScript language and for PDF",
     "Homepage": "https://www.ghostscript.com/"
   },
@@ -4513,13 +4513,13 @@
   },
   {
     "Package": "imagemagick",
-    "Version": "7.1.2.18",
+    "Version": "7.1.2.18-1",
     "Description": "Suite to create, edit, compose, or convert images in a variety of formats",
     "Homepage": "https://www.imagemagick.org/"
   },
   {
     "Package": "imagemagick-static",
-    "Version": "7.1.2.18",
+    "Version": "7.1.2.18-1",
     "Description": "Static libraries for imagemagick",
     "Homepage": "https://www.imagemagick.org/"
   },
@@ -8305,13 +8305,13 @@
   },
   {
     "Package": "libspectre",
-    "Version": "0.2.12-2",
+    "Version": "0.2.12-3",
     "Description": "A small library for rendering Postscript documents",
     "Homepage": "https://www.freedesktop.org/wiki/Software/libspectre/"
   },
   {
     "Package": "libspectre-static",
-    "Version": "0.2.12-2",
+    "Version": "0.2.12-3",
     "Description": "Static libraries for libspectre",
     "Homepage": "https://www.freedesktop.org/wiki/Software/libspectre/"
   },
@@ -9451,7 +9451,7 @@
   },
   {
     "Package": "lilypond",
-    "Version": "2.24.4-5",
+    "Version": "2.24.4-6",
     "Description": "A music engraving program",
     "Homepage": "https://lilypond.org/"
   },
@@ -16066,6 +16066,18 @@
     "Version": "3.1.0-3",
     "Description": "xdelta3 - VCDIFF (RFC 3284) binary diff tool",
     "Homepage": "https://github.com/jmacd/xdelta"
+  },
+  {
+    "Package": "xerces-c",
+    "Version": "3.3.0",
+    "Description": "Validating XML parser library for C++.",
+    "Homepage": "https://xerces.apache.org/"
+  },
+  {
+    "Package": "xerces-c-static",
+    "Version": "3.3.0",
+    "Description": "Static libraries for xerces-c",
+    "Homepage": "https://xerces.apache.org/"
   },
   {
     "Package": "xh",
