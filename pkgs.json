@@ -607,7 +607,7 @@
   },
   {
     "Package": "atuin",
-    "Version": "18.13.4",
+    "Version": "18.13.5",
     "Description": "Magical shell history",
     "Homepage": "https://atuin.sh/"
   },
@@ -3529,7 +3529,7 @@
   },
   {
     "Package": "gitui",
-    "Version": "0.28.0",
+    "Version": "0.28.1",
     "Description": "Blazing fast terminal-ui for git written in rust",
     "Homepage": "https://github.com/gitui-org/gitui"
   },
@@ -5599,13 +5599,13 @@
   },
   {
     "Package": "libcap-ng",
-    "Version": "2:0.9.1",
+    "Version": "2:0.9.2",
     "Description": "Library making programming with POSIX capabilities easier than traditional libcap",
     "Homepage": "https://people.redhat.com/sgrubb/libcap-ng/"
   },
   {
     "Package": "libcap-ng-static",
-    "Version": "2:0.9.1",
+    "Version": "2:0.9.2",
     "Description": "Static libraries for libcap-ng",
     "Homepage": "https://people.redhat.com/sgrubb/libcap-ng/"
   },
@@ -10957,7 +10957,7 @@
   },
   {
     "Package": "nginx",
-    "Version": "1.29.6",
+    "Version": "1.29.7",
     "Description": "Lightweight HTTP server",
     "Homepage": "https://www.nginx.org"
   },
@@ -11179,7 +11179,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "29.9.1",
+    "Version": "29.9.2",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -15475,7 +15475,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.11.0",
+    "Version": "0.11.1",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
