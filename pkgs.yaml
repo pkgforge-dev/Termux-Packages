@@ -2903,7 +2903,7 @@
   Description: Command-line wrapper for git that makes you better at GitHub
   Homepage: https://hub.github.com/
 - Package: hugo
-  Version: 0.159.0
+  Version: 0.159.1
   Description: A fast and flexible static site generator
   Homepage: https://gohugo.io/
 - Package: hummin
@@ -5187,11 +5187,11 @@
   Description: Static libraries for libpluto
   Homepage: https://plutolang.github.io/
 - Package: libpng
-  Version: 1.6.55
+  Version: 1.6.56
   Description: Official PNG reference library
   Homepage: http://www.libpng.org/pub/png/libpng.html
 - Package: libpng-static
-  Version: 1.6.55
+  Version: 1.6.56
   Description: Static libraries for libpng
   Homepage: http://www.libpng.org/pub/png/libpng.html
 - Package: libpngwriter
@@ -8143,7 +8143,7 @@
   Description: A standalone front-end for the Java decompiler in Procyon Compiler Toolset
   Homepage: https://github.com/mstrobel/procyon
 - Package: profanity
-  Version: 0.16.0-1
+  Version: 0.17.0
   Description: Profanity is a console based XMPP client written in C using ncurses and libstrophe, inspired by Irssi
   Homepage: https://profanity-im.github.io
 - Package: progress
@@ -9443,7 +9443,7 @@
   Description: A TCP/IP repeater in the application layer
   Homepage: https://www.gcd.org/sengoku/stone/
 - Package: storj-uplink
-  Version: 1.150.1
+  Version: 1.150.2
   Description: Storj DCS Uplink CLI
   Homepage: https://www.storj.io/integrations/uplink-cli
 - Package: stow
@@ -10279,7 +10279,7 @@
   Description: A socket daemon to multiplex connections from and to iOS devices
   Homepage: https://libimobiledevice.org
 - Package: usql
-  Version: 0.21.3
+  Version: 0.21.4
   Description: A universal command-line interface for SQL databases
   Homepage: https://github.com/xo/usql
 - Package: utf8cpp
