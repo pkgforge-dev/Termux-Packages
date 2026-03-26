@@ -11035,13 +11035,13 @@
   },
   {
     "Package": "nodejs",
-    "Version": "25.8.1",
+    "Version": "25.8.2",
     "Description": "Open Source, cross-platform JavaScript runtime environment",
     "Homepage": "https://nodejs.org/"
   },
   {
     "Package": "nodejs-lts",
-    "Version": "24.14.0",
+    "Version": "24.14.1",
     "Description": "Open Source, cross-platform JavaScript runtime environment",
     "Homepage": "https://nodejs.org/"
   },
@@ -12439,7 +12439,7 @@
   },
   {
     "Package": "python-cryptography",
-    "Version": "46.0.5-1",
+    "Version": "46.0.6",
     "Description": "Provides cryptographic recipes and primitives to Python developers",
     "Homepage": "https://github.com/pyca/cryptography"
   },
@@ -12883,7 +12883,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "4.33.0",
+    "Version": "4.35.0",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -13717,7 +13717,7 @@
   },
   {
     "Package": "simdjson",
-    "Version": "4.4.2",
+    "Version": "4.5.0",
     "Description": "A C++ library to see how fast we can parse JSON with complete validation",
     "Homepage": "https://simdjson.org/"
   },
@@ -15421,7 +15421,7 @@
   },
   {
     "Package": "usql",
-    "Version": "0.21.1",
+    "Version": "0.21.3",
     "Description": "A universal command-line interface for SQL databases",
     "Homepage": "https://github.com/xo/usql"
   },
@@ -15631,7 +15631,7 @@
   },
   {
     "Package": "vim",
-    "Version": "9.2.0200",
+    "Version": "9.2.0250",
     "Description": "Vi IMproved - enhanced vi editor",
     "Homepage": "https://www.vim.org"
   },
@@ -16165,7 +16165,7 @@
   },
   {
     "Package": "xxd",
-    "Version": "9.2.0200",
+    "Version": "9.2.0250",
     "Description": "Hexdump utility from vim",
     "Homepage": "https://www.vim.org"
   },
@@ -16261,7 +16261,7 @@
   },
   {
     "Package": "yq",
-    "Version": "4.52.4",
+    "Version": "4.52.5",
     "Description": "A lightweight and portable command-line YAML, JSON and XML processor",
     "Homepage": "https://mikefarah.gitbook.io/yq/"
   },
