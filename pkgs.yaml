@@ -6510,6 +6510,10 @@
   Version: 3.13.0-1
   Description: Deployment and management system for Lua modules
   Homepage: https://luarocks.org/
+- Package: lunasvg
+  Version: 3.5.0
+  Description: SVG rendering and manipulation library in C++
+  Homepage: https://github.com/sammycage/lunasvg
 - Package: luv
   Version: 1.52.1-0-0
   Description: Bare libuv bindings for lua
@@ -8022,6 +8026,10 @@
   Version: 0.12.2
   Description: A superset of Lua 5.4 with a focus on general-purpose programming.
   Homepage: https://plutolang.github.io/
+- Package: plutovg
+  Version: 1.3.2
+  Description: Tiny 2D vector graphics library in C
+  Homepage: https://github.com/sammycage/plutovg
 - Package: plzip
   Version: "1.13"
   Description: A massively parallel lossless data compressor based on the lzlib compression library
@@ -10467,7 +10475,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2026.03.21
+  Version: 2026.03.26
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vttest
