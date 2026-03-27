@@ -1415,7 +1415,7 @@
   Description: Static libraries for docopt
   Homepage: http://docopt.org
 - Package: doctest
-  Version: 2.4.12
+  Version: 2.5.0
   Description: The fastest feature-rich C++11/14/17/20 single-header testing framework
   Homepage: https://github.com/doctest/doctest
 - Package: doge
@@ -7339,7 +7339,7 @@
   Description: Library for nonlinear optimization
   Homepage: https://nlopt.readthedocs.io/
 - Package: nmap
-  Version: 7.98-1
+  Version: "7.99"
   Description: Utility for network discovery and security auditing
   Homepage: https://nmap.org/
 - Package: nmh

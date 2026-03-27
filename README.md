@@ -364,7 +364,7 @@
 | **docbook-xsl** | 1.79.2-4 | XML stylesheets for Docbook-xml transformations | https://docbook.org/ |
 | **docopt** | 0.6.3-4 | Command line arguments parser for C++11 and later | http://docopt.org |
 | **docopt-static** | 0.6.3-4 | Static libraries for docopt | http://docopt.org |
-| **doctest** | 2.4.12 | The fastest feature-rich C++11/14/17/20 single-header testing framework | https://github.com/doctest/doctest |
+| **doctest** | 2.5.0 | The fastest feature-rich C++11/14/17/20 single-header testing framework | https://github.com/doctest/doctest |
 | **doge** | 0.2.8-2 | A command-line DNS client | https://github.com/Dj-Codeman/dog_community |
 | **dopewars** | 1.6.2-1 | Drug-dealing game set in streets of New York City | https://dopewars.sourceforge.io |
 | **dos2unix** | 7.5.4 | Converts between DOS and Unix text files | https://waterlan.home.xs4all.nl/dos2unix.html |
@@ -1845,7 +1845,7 @@
 | **ninvaders** | 0.1.2-3 | Space Invaders clone based on ncurses for ASCII output | https://ninvaders.sourceforge.net |
 | **nlohmann-json** | 3.12.0 | JSON for Modern C++ | https://github.com/nlohmann/json |
 | **nlopt** | 2.10.1 | Library for nonlinear optimization | https://nlopt.readthedocs.io/ |
-| **nmap** | 7.98-1 | Utility for network discovery and security auditing | https://nmap.org/ |
+| **nmap** | 7.99 | Utility for network discovery and security auditing | https://nmap.org/ |
 | **nmh** | 1.8-2 | Powerful electronic mail handling system | http://www.nongnu.org/nmh/ |
 | **nmon** | 16s | Curses based Performance Monitor for Linux with saving performance stats to a CSV file mode | https://nmon.sourceforge.net/ |
 | **nnn** | 5.2 | Free, fast, friendly file browser | https://github.com/jarun/nnn |
