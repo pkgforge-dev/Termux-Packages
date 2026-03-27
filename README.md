@@ -1137,9 +1137,9 @@
 | **libjansson-static** | 2.15.0 | Static libraries for libjansson | http://www.digip.org/jansson/ |
 | **libjasper** | 4.2.9 | Library for manipulating JPEG-2000 files | http://www.ece.uvic.ca/~frodo/jasper/ |
 | **libjasper-utils** | 4.2.9 | JPEG-2000 utilities | http://www.ece.uvic.ca/~frodo/jasper/ |
-| **libjpeg-turbo** | 3.1.3 | Library for reading and writing JPEG image files | https://libjpeg-turbo.virtualgl.org |
-| **libjpeg-turbo-progs** | 3.1.3 | Programs for manipulating JPEG files | https://libjpeg-turbo.virtualgl.org |
-| **libjpeg-turbo-static** | 3.1.3 | Static libraries for libjpeg-turbo | https://libjpeg-turbo.virtualgl.org |
+| **libjpeg-turbo** | 3.1.4 | Library for reading and writing JPEG image files | https://libjpeg-turbo.virtualgl.org |
+| **libjpeg-turbo-progs** | 3.1.4 | Programs for manipulating JPEG files | https://libjpeg-turbo.virtualgl.org |
+| **libjpeg-turbo-static** | 3.1.4 | Static libraries for libjpeg-turbo | https://libjpeg-turbo.virtualgl.org |
 | **libjxl** | 0.11.2-1 | JPEG XL image format reference implementation | https://jpegxl.info/ |
 | **libjxl-progs** | 0.11.2-1 | Programs for manipulating JPEG XL files | https://jpegxl.info/ |
 | **libkeyfinder** | 2.2.8 | Musical key detection for digital audio | https://mixxxdj.github.io/libkeyfinder |
@@ -2103,7 +2103,7 @@
 | **python-pyarrow** | 23.0.1-2 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
 | **python-pycryptodomex** | 3.23.0-3 | A self-contained Python package of low-level cryptographic primitives | https://www.pycryptodome.org/ |
 | **python-pynvim** | 0.6.0-2 | Python client for Neovim | https://github.com/neovim/pynvim |
-| **python-ruff** | 0.15.7 | An extremely fast Python linter, written in Rust (Python bindings) | https://github.com/charliermarsh/ruff |
+| **python-ruff** | 0.15.8 | An extremely fast Python linter, written in Rust (Python bindings) | https://github.com/charliermarsh/ruff |
 | **python-sabyenc3** | 9.4.0 | C implementations of functions for use within SABnzbd | https://github.com/sabnzbd/sabctools |
 | **python-skia-pathops** | 0.9.2-1 | Python bindings for the Skia library's Path Ops | https://github.com/fonttools/skia-pathops |
 | **python-static** | 3.13.12-5 | Static libraries for python | https://python.org/ |
@@ -2230,25 +2230,25 @@
 | **rubiks-cube** | 1.2-1 | A rubik's cube that runs in your terminal | https://github.com/been-jamming/rubiks_cube |
 | **ruby** | 3.4.1-2 | Dynamic programming language with a focus on simplicity and productivity | https://www.ruby-lang.org/ |
 | **ruby-ri** | 3.4.1-2 | Ruby documentation index | https://www.ruby-lang.org/ |
-| **ruff** | 0.15.7 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
+| **ruff** | 0.15.8 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
 | **runit** | 2.1.2-4 | Tools to provide service supervision and to manage services | http://smarden.org/runit |
 | **runit-static** | 2.1.2-4 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.8.0 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
-| **rust** | 1.94.0 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
+| **rust** | 1.94.1 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
 | **rust-analyzer** | 20260323 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
 | **rust-bindgen** | 0.72.1 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
-| **rust-docs** | 1.94.0 | Rust documentation | https://www.rust-lang.org/ |
-| **rust-src** | 1.94.0 | Rust source code files | https://www.rust-lang.org/ |
-| **rust-std-aarch64-linux-android** | 1.94.0 | Rust std for target aarch64-linux-android | https://www.rust-lang.org/ |
-| **rust-std-armv7-linux-androideabi** | 1.94.0 | Rust std for target armv7-linux-androideabi | https://www.rust-lang.org/ |
-| **rust-std-i686-linux-android** | 1.94.0 | Rust std for target i686-linux-android | https://www.rust-lang.org/ |
-| **rust-std-wasm32-unknown-unknown** | 1.94.0 | Rust std for target wasm32-unknown-unknown | https://www.rust-lang.org/ |
-| **rust-std-wasm32-wasip1** | 1.94.0 | Rust std for target wasm32-wasip1 | https://www.rust-lang.org/ |
-| **rust-std-wasm32-wasip2** | 1.94.0 | Rust std for target wasm32-wasip2 | https://www.rust-lang.org/ |
-| **rust-std-wasm32-wasip3** | 1.94.0 | Rust std for target wasm32-wasip3 | https://www.rust-lang.org/ |
-| **rust-std-x86-64-linux-android** | 1.94.0 | Rust std for target x86_64-linux-android | https://www.rust-lang.org/ |
-| **rustc-dev** | 1.94.0 | Rust compiler development libs | https://www.rust-lang.org/ |
-| **rustc-src** | 1.94.0 | Rust compiler source code files | https://www.rust-lang.org/ |
+| **rust-docs** | 1.94.1 | Rust documentation | https://www.rust-lang.org/ |
+| **rust-src** | 1.94.1 | Rust source code files | https://www.rust-lang.org/ |
+| **rust-std-aarch64-linux-android** | 1.94.1 | Rust std for target aarch64-linux-android | https://www.rust-lang.org/ |
+| **rust-std-armv7-linux-androideabi** | 1.94.1 | Rust std for target armv7-linux-androideabi | https://www.rust-lang.org/ |
+| **rust-std-i686-linux-android** | 1.94.1 | Rust std for target i686-linux-android | https://www.rust-lang.org/ |
+| **rust-std-wasm32-unknown-unknown** | 1.94.1 | Rust std for target wasm32-unknown-unknown | https://www.rust-lang.org/ |
+| **rust-std-wasm32-wasip1** | 1.94.1 | Rust std for target wasm32-wasip1 | https://www.rust-lang.org/ |
+| **rust-std-wasm32-wasip2** | 1.94.1 | Rust std for target wasm32-wasip2 | https://www.rust-lang.org/ |
+| **rust-std-wasm32-wasip3** | 1.94.1 | Rust std for target wasm32-wasip3 | https://www.rust-lang.org/ |
+| **rust-std-x86-64-linux-android** | 1.94.1 | Rust std for target x86_64-linux-android | https://www.rust-lang.org/ |
+| **rustc-dev** | 1.94.1 | Rust compiler development libs | https://www.rust-lang.org/ |
+| **rustc-src** | 1.94.1 | Rust compiler source code files | https://www.rust-lang.org/ |
 | **rustscan** | 2.4.1-1 | The modern,fast,smart and effective port scanner | https://rustscan.github.io/RustScan |
 | **rxfetch** | 2023.01.07 | A custom system info fetching tool | https://github.com/Mangeshrex/rxfetch |
 | **sabnzbd** | 4.5.5-2 | Fully automated Usenet Binary Downloader | https://sabnzbd.org/ |
@@ -2591,7 +2591,7 @@
 | **util-linux-static** | 2.41.3 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-2 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.41.3 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **uv** | 0.11.1 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
+| **uv** | 0.11.2 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.31-1 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.47.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.18-1 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |

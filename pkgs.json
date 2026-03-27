@@ -6763,19 +6763,19 @@
   },
   {
     "Package": "libjpeg-turbo",
-    "Version": "3.1.3",
+    "Version": "3.1.4",
     "Description": "Library for reading and writing JPEG image files",
     "Homepage": "https://libjpeg-turbo.virtualgl.org"
   },
   {
     "Package": "libjpeg-turbo-progs",
-    "Version": "3.1.3",
+    "Version": "3.1.4",
     "Description": "Programs for manipulating JPEG files",
     "Homepage": "https://libjpeg-turbo.virtualgl.org"
   },
   {
     "Package": "libjpeg-turbo-static",
-    "Version": "3.1.3",
+    "Version": "3.1.4",
     "Description": "Static libraries for libjpeg-turbo",
     "Homepage": "https://libjpeg-turbo.virtualgl.org"
   },
@@ -12559,7 +12559,7 @@
   },
   {
     "Package": "python-ruff",
-    "Version": "0.15.7",
+    "Version": "0.15.8",
     "Description": "An extremely fast Python linter, written in Rust (Python bindings)",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -13321,7 +13321,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.15.7",
+    "Version": "0.15.8",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -13345,7 +13345,7 @@
   },
   {
     "Package": "rust",
-    "Version": "1.94.0",
+    "Version": "1.94.1",
     "Description": "Systems programming language focused on safety, speed and concurrency",
     "Homepage": "https://www.rust-lang.org/"
   },
@@ -13363,73 +13363,73 @@
   },
   {
     "Package": "rust-docs",
-    "Version": "1.94.0",
+    "Version": "1.94.1",
     "Description": "Rust documentation",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-src",
-    "Version": "1.94.0",
+    "Version": "1.94.1",
     "Description": "Rust source code files",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-aarch64-linux-android",
-    "Version": "1.94.0",
+    "Version": "1.94.1",
     "Description": "Rust std for target aarch64-linux-android",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-armv7-linux-androideabi",
-    "Version": "1.94.0",
+    "Version": "1.94.1",
     "Description": "Rust std for target armv7-linux-androideabi",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-i686-linux-android",
-    "Version": "1.94.0",
+    "Version": "1.94.1",
     "Description": "Rust std for target i686-linux-android",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-wasm32-unknown-unknown",
-    "Version": "1.94.0",
+    "Version": "1.94.1",
     "Description": "Rust std for target wasm32-unknown-unknown",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-wasm32-wasip1",
-    "Version": "1.94.0",
+    "Version": "1.94.1",
     "Description": "Rust std for target wasm32-wasip1",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-wasm32-wasip2",
-    "Version": "1.94.0",
+    "Version": "1.94.1",
     "Description": "Rust std for target wasm32-wasip2",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-wasm32-wasip3",
-    "Version": "1.94.0",
+    "Version": "1.94.1",
     "Description": "Rust std for target wasm32-wasip3",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-x86-64-linux-android",
-    "Version": "1.94.0",
+    "Version": "1.94.1",
     "Description": "Rust std for target x86_64-linux-android",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rustc-dev",
-    "Version": "1.94.0",
+    "Version": "1.94.1",
     "Description": "Rust compiler development libs",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rustc-src",
-    "Version": "1.94.0",
+    "Version": "1.94.1",
     "Description": "Rust compiler source code files",
     "Homepage": "https://www.rust-lang.org/"
   },
@@ -15487,7 +15487,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.11.1",
+    "Version": "0.11.2",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
