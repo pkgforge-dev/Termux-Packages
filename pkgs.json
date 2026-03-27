@@ -1645,7 +1645,7 @@
   },
   {
     "Package": "cppcheck",
-    "Version": "2.20.0",
+    "Version": "2.20.1",
     "Description": "tool for static C/C++ code analysis",
     "Homepage": "https://github.com/danmar/cppcheck"
   },
@@ -1909,7 +1909,7 @@
   },
   {
     "Package": "debootstrap",
-    "Version": "1.0.142-1",
+    "Version": "1.0.143",
     "Description": "Bootstrap a basic Debian system",
     "Homepage": "https://wiki.debian.org/Debootstrap"
   },
@@ -4411,7 +4411,7 @@
   },
   {
     "Package": "hut",
-    "Version": "0.7.0-1",
+    "Version": "0.8.0",
     "Description": "A CLI tool for sr.ht",
     "Homepage": "https://git.sr.ht/~xenrox/hut"
   },
@@ -6733,7 +6733,7 @@
   },
   {
     "Package": "libjansi",
-    "Version": "2.4.2-1",
+    "Version": "2.4.3",
     "Description": "A small java library that allows you to use ANSI escape codes to format your console output",
     "Homepage": "https://fusesource.github.io/jansi/"
   },
