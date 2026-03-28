@@ -2773,7 +2773,7 @@
   },
   {
     "Package": "fastfetch",
-    "Version": "2.60.0",
+    "Version": "2.61.0",
     "Description": "A maintained, feature-rich and performance oriented, neofetch like system information tool",
     "Homepage": "https://github.com/fastfetch-cli/fastfetch"
   },
@@ -9745,7 +9745,7 @@
   },
   {
     "Package": "luajit",
-    "Version": "1:2.1.1772619647+g659a616",
+    "Version": "1:2.1.1774638290+gfbb36bb",
     "Description": "Just-In-Time Compiler for Lua",
     "Homepage": "https://luajit.org/"
   },
@@ -9757,7 +9757,7 @@
   },
   {
     "Package": "luajit-static",
-    "Version": "1:2.1.1772619647+g659a616",
+    "Version": "1:2.1.1774638290+gfbb36bb",
     "Description": "Static libraries for luajit",
     "Homepage": "https://luajit.org/"
   },
@@ -12067,7 +12067,7 @@
   },
   {
     "Package": "pocketbase",
-    "Version": "0.36.7",
+    "Version": "0.36.8",
     "Description": "An open source Go backend",
     "Homepage": "https://github.com/pocketbase/pocketbase"
   },
@@ -14461,7 +14461,7 @@
   },
   {
     "Package": "tdl",
-    "Version": "0.20.1",
+    "Version": "0.20.2",
     "Description": "Telegram downloader/tools written in Golang",
     "Homepage": "https://docs.iyear.me/tdl/"
   },
@@ -15715,7 +15715,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "2026.03.26",
+    "Version": "2026.03.27",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://github.com/directvt/vtm"
   },

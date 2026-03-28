@@ -1847,7 +1847,7 @@
   Description: To fastly access files and folders
   Homepage: https://github.com/whjvenyl/fasd
 - Package: fastfetch
-  Version: 2.60.0
+  Version: 2.61.0
   Description: A maintained, feature-rich and performance oriented, neofetch like system information tool
   Homepage: https://github.com/fastfetch-cli/fastfetch
 - Package: fastmod
@@ -6495,7 +6495,7 @@
   Description: Static libraries for lua55
   Homepage: https://www.lua.org/
 - Package: luajit
-  Version: 1:2.1.1772619647+g659a616
+  Version: 1:2.1.1774638290+gfbb36bb
   Description: Just-In-Time Compiler for Lua
   Homepage: https://luajit.org/
 - Package: luajit-lgi
@@ -6503,7 +6503,7 @@
   Description: Dynamic Lua binding to GObject libraries using GObject-Introspection
   Homepage: https://github.com/lgi-devs/lgi
 - Package: luajit-static
-  Version: 1:2.1.1772619647+g659a616
+  Version: 1:2.1.1774638290+gfbb36bb
   Description: Static libraries for luajit
   Homepage: https://luajit.org/
 - Package: luarocks
@@ -8043,7 +8043,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pocketbase
-  Version: 0.36.7
+  Version: 0.36.8
   Description: An open source Go backend
   Homepage: https://github.com/pocketbase/pocketbase
 - Package: poke
@@ -9639,7 +9639,7 @@
   Description: Tools for TDB
   Homepage: https://tdb.samba.org/
 - Package: tdl
-  Version: 0.20.1
+  Version: 0.20.2
   Description: Telegram downloader/tools written in Golang
   Homepage: https://docs.iyear.me/tdl/
 - Package: tea
@@ -10475,7 +10475,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2026.03.26
+  Version: 2026.03.27
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vttest

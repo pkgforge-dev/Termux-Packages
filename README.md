@@ -472,7 +472,7 @@
 | **fakeroot** | 1.37.2 | Tool for simulating superuser privileges (with tcp ipc) | https://packages.qa.debian.org/f/fakeroot.html |
 | **fakeroot-static** | 1.37.2 | Static libraries for fakeroot | https://packages.qa.debian.org/f/fakeroot.html |
 | **fasd** | 2.0.0 | To fastly access files and folders | https://github.com/whjvenyl/fasd |
-| **fastfetch** | 2.60.0 | A maintained, feature-rich and performance oriented, neofetch like system information tool | https://github.com/fastfetch-cli/fastfetch |
+| **fastfetch** | 2.61.0 | A maintained, feature-rich and performance oriented, neofetch like system information tool | https://github.com/fastfetch-cli/fastfetch |
 | **fastmod** | 0.4.4-1 | Regex-based code refactoring utility | https://github.com/facebookincubator/fastmod |
 | **fatsort** | 1.7.679 | A C utility that sorts FAT12, FAT16, FAT32 and exFAT partitions | https://fatsort.sourceforge.io/ |
 | **faust** | 2.85.5 | A functional programming language for signal processing and sound synthesis | https://github.com/grame-cncm/faust |
@@ -1634,9 +1634,9 @@
 | **lua54-static** | 5.4.8-6 | Static libraries for lua54 | https://www.lua.org/ |
 | **lua55** | 5.5.0-2 | Shared library for the Lua interpreter (v5.5.x) | https://www.lua.org/ |
 | **lua55-static** | 5.5.0-2 | Static libraries for lua55 | https://www.lua.org/ |
-| **luajit** | 1:2.1.1772619647+g659a616 | Just-In-Time Compiler for Lua | https://luajit.org/ |
+| **luajit** | 1:2.1.1774638290+gfbb36bb | Just-In-Time Compiler for Lua | https://luajit.org/ |
 | **luajit-lgi** | 0.9.2+p20251219-3 | Dynamic Lua binding to GObject libraries using GObject-Introspection | https://github.com/lgi-devs/lgi |
-| **luajit-static** | 1:2.1.1772619647+g659a616 | Static libraries for luajit | https://luajit.org/ |
+| **luajit-static** | 1:2.1.1774638290+gfbb36bb | Static libraries for luajit | https://luajit.org/ |
 | **luarocks** | 3.13.0-1 | Deployment and management system for Lua modules | https://luarocks.org/ |
 | **lunasvg** | 3.5.0 | SVG rendering and manipulation library in C++ | https://github.com/sammycage/lunasvg |
 | **luv** | 1.52.1-0-0 | Bare libuv bindings for lua | https://github.com/luvit/luv |
@@ -2021,7 +2021,7 @@
 | **plzip** | 1.13 | A massively parallel lossless data compressor based on the lzlib compression library | https://www.nongnu.org/lzip/plzip.html |
 | **pngcrush** | 1.8.13-2 | Recompresses png files | https://pmt.sourceforge.io/pngcrush/ |
 | **pngquant** | 3.0.3-2 | PNG image optimising utility | https://pngquant.org |
-| **pocketbase** | 0.36.7 | An open source Go backend | https://github.com/pocketbase/pocketbase |
+| **pocketbase** | 0.36.8 | An open source Go backend | https://github.com/pocketbase/pocketbase |
 | **poke** | 4.3-1 | Interactive, extensible editor for binary data. | http://www.jemarch.net/poke.html |
 | **poke-static** | 4.3-1 | Static libraries for poke | http://www.jemarch.net/poke.html |
 | **polipo** | 1.1.1-1 | A small and fast caching web proxy | http://www.pps.jussieu.fr/~jch/software/polipo/ |
@@ -2420,7 +2420,7 @@
 | **tcllib** | 2.0 | Tcl Standard Library | https://core.tcl-lang.org/tcllib/ |
 | **tcsh** | 6.24.16-1 | TENEX C Shell, an enhanced version of Berkeley csh | https://www.tcsh.org |
 | **tdb-tools** | 1.4.15 | Tools for TDB | https://tdb.samba.org/ |
-| **tdl** | 0.20.1 | Telegram downloader/tools written in Golang | https://docs.iyear.me/tdl/ |
+| **tdl** | 0.20.2 | Telegram downloader/tools written in Golang | https://docs.iyear.me/tdl/ |
 | **tea** | 0.12.0 | The official CLI for Gitea | https://gitea.com/gitea/tea |
 | **tealdeer** | 1.8.1 | A very fast implementation of tldr in Rust | https://tealdeer-rs.github.io/tealdeer/ |
 | **teckit** | 2.5.13 | TECkit is a library for encoding conversion | https://scripts.sil.org/teckitdownloads |
@@ -2629,7 +2629,7 @@
 | **vlc-static** | 3.0.23-2 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-4 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.3-1 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 2026.03.26 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
+| **vtm** | 2026.03.27 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
 | **vttest** | 20251205 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vulkan-extension-layer** | 1.4.341 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
 | **vulkan-headers** | 1.4.347 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
