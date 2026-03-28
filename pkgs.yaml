@@ -403,7 +403,7 @@
   Description: Static libraries for attr
   Homepage: http://savannah.nongnu.org/projects/attr/
 - Package: atuin
-  Version: 18.13.5
+  Version: 18.13.6
   Description: Magical shell history
   Homepage: https://atuin.sh/
 - Package: aubio
@@ -983,11 +983,11 @@
   Description: Experimental implementation of OpenCL on Vulkan
   Homepage: https://github.com/kpet/clvk
 - Package: cmake
-  Version: 4.3.0
+  Version: 4.3.1
   Description: Family of tools designed to build, test and package software
   Homepage: https://cmake.org/
 - Package: cmake-curses-gui
-  Version: 4.3.0
+  Version: 4.3.1
   Description: Curses based user interface for CMake (ccmake)
   Homepage: https://cmake.org/
 - Package: cmark
@@ -1299,7 +1299,7 @@
   Description: Online dictionary client and server
   Homepage: https://sourceforge.net/projects/dict/
 - Package: diff-so-fancy
-  Version: 1.4.6
+  Version: 1.4.8
   Description: Good-lookin diffs. Actually... nah... The best-lookin diffs
   Homepage: https://github.com/so-fancy/diff-so-fancy
 - Package: diffstat
@@ -4183,7 +4183,7 @@
   Description: Static libraries for libgd
   Homepage: https://libgd.github.io/
 - Package: libgedit-gfls
-  Version: 0.3.1
+  Version: 0.4.0
   Description: A module dedicated to file loading and saving
   Homepage: https://gitlab.gnome.org/World/gedit/libgedit-gfls
 - Package: libgee
@@ -4507,15 +4507,15 @@
   Description: JPEG-2000 utilities
   Homepage: http://www.ece.uvic.ca/~frodo/jasper/
 - Package: libjpeg-turbo
-  Version: 3.1.4
+  Version: 3.1.4.1
   Description: Library for reading and writing JPEG image files
   Homepage: https://libjpeg-turbo.virtualgl.org
 - Package: libjpeg-turbo-progs
-  Version: 3.1.4
+  Version: 3.1.4.1
   Description: Programs for manipulating JPEG files
   Homepage: https://libjpeg-turbo.virtualgl.org
 - Package: libjpeg-turbo-static
-  Version: 3.1.4
+  Version: 3.1.4.1
   Description: Static libraries for libjpeg-turbo
   Homepage: https://libjpeg-turbo.virtualgl.org
 - Package: libjxl
@@ -8667,7 +8667,7 @@
   Description: Command line tool to extract the main content from a webpage
   Homepage: https://github.com/eafer/rdrview
 - Package: re2c
-  Version: "4.5"
+  Version: 4.5.1
   Description: Lexer generator for C, C++ and Go.
   Homepage: https://re2c.org/
 - Package: readline
@@ -10015,7 +10015,7 @@
   Description: RegEx grammar for tree-sitter
   Homepage: https://github.com/tree-sitter/tree-sitter-regex
 - Package: tree-sitter-rust
-  Version: 0.24.1
+  Version: 0.24.2
   Description: Rust grammar for tree-sitter
   Homepage: https://github.com/tree-sitter/tree-sitter-rust
 - Package: tree-sitter-sql

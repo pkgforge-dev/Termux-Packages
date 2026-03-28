@@ -607,7 +607,7 @@
   },
   {
     "Package": "atuin",
-    "Version": "18.13.5",
+    "Version": "18.13.6",
     "Description": "Magical shell history",
     "Homepage": "https://atuin.sh/"
   },
@@ -1477,13 +1477,13 @@
   },
   {
     "Package": "cmake",
-    "Version": "4.3.0",
+    "Version": "4.3.1",
     "Description": "Family of tools designed to build, test and package software",
     "Homepage": "https://cmake.org/"
   },
   {
     "Package": "cmake-curses-gui",
-    "Version": "4.3.0",
+    "Version": "4.3.1",
     "Description": "Curses based user interface for CMake (ccmake)",
     "Homepage": "https://cmake.org/"
   },
@@ -1951,7 +1951,7 @@
   },
   {
     "Package": "diff-so-fancy",
-    "Version": "1.4.6",
+    "Version": "1.4.8",
     "Description": "Good-lookin diffs. Actually... nah... The best-lookin diffs",
     "Homepage": "https://github.com/so-fancy/diff-so-fancy"
   },
@@ -6277,7 +6277,7 @@
   },
   {
     "Package": "libgedit-gfls",
-    "Version": "0.3.1",
+    "Version": "0.4.0",
     "Description": "A module dedicated to file loading and saving",
     "Homepage": "https://gitlab.gnome.org/World/gedit/libgedit-gfls"
   },
@@ -6763,19 +6763,19 @@
   },
   {
     "Package": "libjpeg-turbo",
-    "Version": "3.1.4",
+    "Version": "3.1.4.1",
     "Description": "Library for reading and writing JPEG image files",
     "Homepage": "https://libjpeg-turbo.virtualgl.org"
   },
   {
     "Package": "libjpeg-turbo-progs",
-    "Version": "3.1.4",
+    "Version": "3.1.4.1",
     "Description": "Programs for manipulating JPEG files",
     "Homepage": "https://libjpeg-turbo.virtualgl.org"
   },
   {
     "Package": "libjpeg-turbo-static",
-    "Version": "3.1.4",
+    "Version": "3.1.4.1",
     "Description": "Static libraries for libjpeg-turbo",
     "Homepage": "https://libjpeg-turbo.virtualgl.org"
   },
@@ -13003,7 +13003,7 @@
   },
   {
     "Package": "re2c",
-    "Version": "4.5",
+    "Version": "4.5.1",
     "Description": "Lexer generator for C, C++ and Go.",
     "Homepage": "https://re2c.org/"
   },
@@ -15025,7 +15025,7 @@
   },
   {
     "Package": "tree-sitter-rust",
-    "Version": "0.24.1",
+    "Version": "0.24.2",
     "Description": "Rust grammar for tree-sitter",
     "Homepage": "https://github.com/tree-sitter/tree-sitter-rust"
   },
