@@ -1971,7 +1971,7 @@
   Description: Utilities to find files meeting specified criteria and perform various actions on the files which are found
   Homepage: https://www.gnu.org/software/findutils/
 - Package: fish
-  Version: 4.5.0
+  Version: 4.6.0
   Description: The user-friendly command line shell
   Homepage: https://fishshell.com/
 - Package: flac
@@ -3263,7 +3263,7 @@
   Description: User friendly full screen text editor
   Homepage: http://www.mirbsd.org/jupp.htm
 - Package: just
-  Version: 1.48.0
+  Version: 1.48.1
   Description: A handy way to save and run project-specific commands
   Homepage: https://just.systems
 - Package: jython
@@ -7239,7 +7239,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.12.0~dev-2713+g925e9e8722-0
+  Version: 0.12.0~dev-2720+gf027f41e2c-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -10139,7 +10139,7 @@
   Description: A single and trusted place for all unofficial/less popular termux packages
   Homepage: https://github.com/termux-user-repository/tur
 - Package: turbo
-  Version: 2.8.20
+  Version: 2.8.21
   Description: High-performance build system for JS/TS
   Homepage: https://turbo.build/
 - Package: tut
