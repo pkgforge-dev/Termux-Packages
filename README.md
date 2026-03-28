@@ -193,8 +193,8 @@
 | **c-ares** | 1.34.6 | Library for asynchronous DNS requests (including name resolves) | https://c-ares.org/ |
 | **c-toxcore** | 0.2.22 | Backend library for the Tox protocol | https://tox.chat |
 | **c-toxcore-static** | 0.2.22 | Static libraries for c-toxcore | https://tox.chat |
-| **ca-certificates** | 1:2025.12.02 | Common CA certificates | https://curl.se/docs/caextract.html |
-| **ca-certificates-java** | 1:2025.12.02 | Common CA certificates (java keystore format) | https://curl.se/docs/caextract.html |
+| **ca-certificates** | 1:2026.03.19 | Common CA certificates | https://curl.se/docs/caextract.html |
+| **ca-certificates-java** | 1:2026.03.19 | Common CA certificates (java keystore format) | https://curl.se/docs/caextract.html |
 | **cabextract** | 1.11-1 | A program to extract Microsoft cabinet (.CAB) files | https://www.cabextract.org.uk/ |
 | **cadaver** | 0.28 | A command-line WebDAV client for Unix | https://notroj.github.io/cadaver/ |
 | **caddy** | 2.11.2 | Fast, cross-platform HTTP/2 web server | https://caddyserver.com/ |
