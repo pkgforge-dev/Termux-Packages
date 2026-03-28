@@ -1175,7 +1175,7 @@
   Description: A set of utilities for working with Cue Sheet (cue) and Table of Contents (toc) files
   Homepage: https://github.com/svend/cuetools
 - Package: cups
-  Version: 2.4.16
+  Version: 2.4.16-1
   Description: Common UNIX Printing System
   Homepage: https://www.cups.org/
 - Package: cups-pdf
@@ -1183,7 +1183,7 @@
   Description: CUPS PDF backend
   Homepage: https://www.cups-pdf.de/
 - Package: cups-static
-  Version: 2.4.16
+  Version: 2.4.16-1
   Description: Static libraries for cups
   Homepage: https://www.cups.org/
 - Package: curl
@@ -7235,7 +7235,7 @@
   Description: A version of mutt with added features
   Homepage: https://neomutt.org/
 - Package: neovim
-  Version: 0.11.6-3
+  Version: 0.11.7
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
@@ -10535,7 +10535,7 @@
   Description: The WebAssembly Binary Toolkit
   Homepage: https://github.com/WebAssembly/wabt
 - Package: wakatime-cli
-  Version: 1.139.4
+  Version: 2.0.0
   Description: Command line interface used by all WakaTime text editor plugins
   Homepage: https://wakatime.com/plugins/
 - Package: walk
