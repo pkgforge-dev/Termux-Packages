@@ -4923,11 +4923,11 @@
   Description: Static libraries for libnghttp3
   Homepage: https://nghttp2.org/nghttp3/
 - Package: libngtcp2
-  Version: 1.21.0
+  Version: 1.22.0
   Description: Implementation of IETF QUIC protocol
   Homepage: https://github.com/ngtcp2/ngtcp2
 - Package: libngtcp2-static
-  Version: 1.21.0
+  Version: 1.22.0
   Description: Static libraries for libngtcp2
   Homepage: https://github.com/ngtcp2/ngtcp2
 - Package: libnl
@@ -7095,7 +7095,7 @@
   Description: Video game for color and monochrome text terminals in the genre of Namcos Pac-Man
   Homepage: https://sourceforge.net/projects/myman/
 - Package: mympd
-  Version: 25.0.0
+  Version: 25.0.1
   Description: A standalone and lightweight web-based MPD client
   Homepage: https://jcorporation.github.io/myMPD/
 - Package: mypaint-brushes
