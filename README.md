@@ -205,7 +205,7 @@
 | **capstone** | 5.0.7 | Lightweight multi-platform, multi-architecture disassembly framework | https://www.capstone-engine.org/ |
 | **capstone-static** | 5.0.7 | Static libraries for capstone | https://www.capstone-engine.org/ |
 | **carapace** | 1.6.3 | Multi-shell multi-command argument completer | https://carapace.sh/ |
-| **cargo-binstall** | 1.17.8 | Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem | https://github.com/cargo-bins/cargo-binstall |
+| **cargo-binstall** | 1.17.9 | Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem | https://github.com/cargo-bins/cargo-binstall |
 | **cargo-c** | 0.10.21 | Cargo C-ABI helpers | https://github.com/lu-zero/cargo-c |
 | **cargo-cache** | 0.8.3 | Tool to manage cargo cache | https://github.com/matthiaskrgr/cargo-cache |
 | **cargo-leptos** | 0.3.5 | Build tool for the Rust framework Leptos | https://github.com/leptos-rs/cargo-leptos |
