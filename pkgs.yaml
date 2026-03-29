@@ -523,7 +523,7 @@
   Description: Small, free, embeddable, source level Java interpreter with object based scripting language features written in Java
   Homepage: https://github.com/beanshell/beanshell
 - Package: bear
-  Version: 4.0.3
+  Version: 4.1.0
   Description: Bear is a tool that generates a compilation database for clang tooling.
   Homepage: https://github.com/rizsotto/Bear
 - Package: bed
@@ -1051,7 +1051,7 @@
   Description: Tool to colorize diff output
   Homepage: https://www.colordiff.org/
 - Package: command-not-found
-  Version: 3.4.1-2
+  Version: 3.4.1-3
   Description: Suggest installation of packages in interactive shell sessions
   Homepage: https://github.com/termux/command-not-found
 - Package: composer
