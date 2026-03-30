@@ -2820,6 +2820,12 @@
     "Homepage": "https://fastcgi-archives.github.io/"
   },
   {
+    "Package": "fcgiwrap",
+    "Version": "1.1.0+g99c942c",
+    "Description": "A simple server for running CGI applications over FastCGI",
+    "Homepage": "https://github.com/gnosek/fcgiwrap"
+  },
+  {
     "Package": "fclones",
     "Version": "0.35.0-1",
     "Description": "Efficient Duplicate File Finder",

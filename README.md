@@ -480,6 +480,7 @@
 | **faustlibraries** | 2.85.5 | Faust DSP libraries | https://github.com/grame-cncm/faust |
 | **fcgi** | 2.4.7 | A language independent, high performant extension to CGI | https://fastcgi-archives.github.io/ |
 | **fcgi-static** | 2.4.7 | Static libraries for fcgi | https://fastcgi-archives.github.io/ |
+| **fcgiwrap** | 1.1.0+g99c942c | A simple server for running CGI applications over FastCGI | https://github.com/gnosek/fcgiwrap |
 | **fclones** | 0.35.0-1 | Efficient Duplicate File Finder | https://github.com/pkolaczk/fclones |
 | **fcp** | 0.2.1-4 | A significantly faster alternative to the classic Unix cp(1) command | https://github.com/Svetlitski/fcp |
 | **fd** | 10.4.2 | Simple, fast and user-friendly alternative to find | https://github.com/sharkdp/fd |
