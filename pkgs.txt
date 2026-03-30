@@ -466,6 +466,8 @@
  faust  2.85.5  A functional programming language for signal processing and sound synthesis  https://github.com/grame-cncm/faust 
  faust-static  2.85.5  Static libraries for faust  https://github.com/grame-cncm/faust 
  faustlibraries  2.85.5  Faust DSP libraries  https://github.com/grame-cncm/faust 
+ fcgi  2.4.7  A language independent, high performant extension to CGI  https://fastcgi-archives.github.io/ 
+ fcgi-static  2.4.7  Static libraries for fcgi  https://fastcgi-archives.github.io/ 
  fclones  0.35.0-1  Efficient Duplicate File Finder  https://github.com/pkolaczk/fclones 
  fcp  0.2.1-4  A significantly faster alternative to the classic Unix cp(1) command  https://github.com/Svetlitski/fcp 
  fd  10.4.2  Simple, fast and user-friendly alternative to find  https://github.com/sharkdp/fd 
@@ -513,7 +515,7 @@
  freetype  2.14.3  Software font engine capable of producing high-quality output  https://www.freetype.org 
  freetype-static  2.14.3  Static libraries for freetype  https://www.freetype.org 
  frei0r-plugins  2.5.6  Minimalistic plugin API for video effects  https://www.dyne.org/software/frei0r/ 
- fresh-editor  0.2.18  Text editor for your terminal: easy, powerful and fast  https://getfresh.dev/ 
+ fresh-editor  0.2.20  Text editor for your terminal: easy, powerful and fast  https://getfresh.dev/ 
  fribidi  1.0.16-1  Implementation of the Unicode Bidirectional Algorithm  https://github.com/fribidi/fribidi/ 
  fribidi-static  1.0.16-1  Static libraries for fribidi  https://github.com/fribidi/fribidi/ 
  frobtads  2.0-5  TADS is a free authoring system for writing your own Interactive Fiction  http://www.tads.org/frobtads.htm 
@@ -664,7 +666,7 @@
  grex  1.4.6-1  Simplifies the task of creating regular expressions  https://github.com/pemistahl/grex 
  groff  1.23.0-2  typesetting system that reads plain text mixed with formatting commands and produces formatted output  https://www.gnu.org/software/groff/ 
  gron  0.7.1-4  Transforms JSON into discrete assignments  https://github.com/tomnomnom/gron 
- groonga  16.0.0  An embeddable fulltext search engine  https://github.com/groonga/groonga/ 
+ groonga  16.0.1  An embeddable fulltext search engine  https://github.com/groonga/groonga/ 
  groovy  4.0.26-4  A powerful multi-faceted programming language for the JVM platform  https://groovy-lang.org/ 
  grpcurl  1.9.3  Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers  https://github.com/fullstorydev/grpcurl 
  gsasl  2.2.2-1  GNU SASL library command line interface  https://www.gnu.org/software/gsasl 
@@ -1733,7 +1735,7 @@
  mono-static  6.14.1-2  Static libraries for mono  https://gitlab.winehq.org/mono/mono 
  monolith  2.10.1-1  CLI tool for saving complete web pages as a single HTML file  https://github.com/Y2Z/monolith 
  moon-buggy  1.0.51-6  Simple game where you drive a car across the moon's surface  https://github.com/seehuhn/moon-buggy 
- moor  2.11.1  A pager designed to just do the right thing without any configuration  https://github.com/walles/moor 
+ moor  2.12.0  A pager designed to just do the right thing without any configuration  https://github.com/walles/moor 
  mop  2025.03.17-1  Stock market tracker  https://github.com/mop-tracker/mop 
  moreutils  0.70-1  A growing collection of the unix tools that nobody thought to write thirty years ago  https://joeyh.name/code/moreutils/ 
  moria  5.7.15-7  Rogue-like game with an infinite dungeon  https://umoria.org 
@@ -1808,7 +1810,7 @@
  neofetch  7.1.0-1  Simple system information script  https://github.com/dylanaraps/neofetch 
  neomutt  20260105  A version of mutt with added features  https://neomutt.org/ 
  neovim  0.12.0-1  Ambitious Vim-fork focused on extensibility and agility (nvim)  https://neovim.io/ 
- neovim-nightly  0.12.0~dev-2727+gad4bc2d90c-2  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
+ neovim-nightly  0.13.0~dev-13+g92a667c07f-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
  nerdfix  0.4.2-1  nerdfix helps you to find/fix obsolete Nerd Font icons in your project.  https://github.com/loichyan/nerdfix 
  net-snmp  5.9.5.2  Various tools relating to the Simple Network Management Protocol  http://www.net-snmp.org/ 
  net-snmp-static  5.9.5.2  Static libraries for net-snmp  http://www.net-snmp.org/ 
@@ -2223,7 +2225,7 @@
  runit-static  2.1.2-4  Static libraries for runit  http://smarden.org/runit 
  rush  0.8.0  A cross-platform command-line tool for executing jobs in parallel  https://github.com/shenwei356/rush 
  rust  1.94.1  Systems programming language focused on safety, speed and concurrency  https://www.rust-lang.org/ 
- rust-analyzer  20260323  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
+ rust-analyzer  20260330  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
  rust-bindgen  0.72.1  Automatically generates Rust FFI bindings to C (and some C++) libraries  https://github.com/rust-lang/rust-bindgen 
  rust-docs  1.94.1  Rust documentation  https://www.rust-lang.org/ 
  rust-src  1.94.1  Rust source code files  https://www.rust-lang.org/ 
@@ -2486,7 +2488,7 @@
  translate-shell  0.9.7.1  Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.  https://www.soimort.org/translate-shell 
  transmission  4.1.1  Easy, lean and powerful BitTorrent client  https://transmissionbt.com/ 
  tree  2.3.2  Recursive directory lister producing a depth indented listing of files  http://mama.indstate.edu/users/ice/tree/ 
- tree-sitter  0.26.3  An incremental parsing system for programming tools  https://tree-sitter.github.io/ 
+ tree-sitter  0.26.7  An incremental parsing system for programming tools  https://tree-sitter.github.io/ 
  tree-sitter-bash  0.25.1-1  Bash grammar for tree-sitter  https://github.com/tree-sitter/tree-sitter-bash 
  tree-sitter-c  0.24.1-6  C grammar for tree-sitter  https://github.com/tree-sitter/tree-sitter-c 
  tree-sitter-css  0.25.0-1  CSS grammar for tree-sitter  https://github.com/tree-sitter/tree-sitter-css 
@@ -2637,7 +2639,7 @@
  wallust  3.5.2  Generate colors from an image  https://explosion-mental.codeberg.page/wallust 
  wasi-libc  30  Libc for WebAssembly programs built on top of WASI system calls  https://wasi.dev/ 
  wasm-component-ld  0.5.21  Command line linker for creating WebAssembly components  https://github.com/bytecodealliance/wasm-component-ld 
- watchexec  2.5.0  Executes commands in response to file modifications  https://github.com/watchexec/watchexec 
+ watchexec  2.5.1  Executes commands in response to file modifications  https://github.com/watchexec/watchexec 
  wavpack  5.9.0  WavPack command-line programs  https://www.wavpack.com/ 
  waypipe  0.11.0  A proxy for Wayland clients  https://gitlab.freedesktop.org/mstoeckl/waypipe 
  wcalc  2.5-6  Capable calculator  https://w-calc.sourceforge.net 

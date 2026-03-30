@@ -2808,6 +2808,18 @@
     "Homepage": "https://github.com/grame-cncm/faust"
   },
   {
+    "Package": "fcgi",
+    "Version": "2.4.7",
+    "Description": "A language independent, high performant extension to CGI",
+    "Homepage": "https://fastcgi-archives.github.io/"
+  },
+  {
+    "Package": "fcgi-static",
+    "Version": "2.4.7",
+    "Description": "Static libraries for fcgi",
+    "Homepage": "https://fastcgi-archives.github.io/"
+  },
+  {
     "Package": "fclones",
     "Version": "0.35.0-1",
     "Description": "Efficient Duplicate File Finder",
@@ -3091,7 +3103,7 @@
   },
   {
     "Package": "fresh-editor",
-    "Version": "0.2.18",
+    "Version": "0.2.20",
     "Description": "Text editor for your terminal: easy, powerful and fast",
     "Homepage": "https://getfresh.dev/"
   },
@@ -3997,7 +4009,7 @@
   },
   {
     "Package": "groonga",
-    "Version": "16.0.0",
+    "Version": "16.0.1",
     "Description": "An embeddable fulltext search engine",
     "Homepage": "https://github.com/groonga/groonga/"
   },
@@ -10411,7 +10423,7 @@
   },
   {
     "Package": "moor",
-    "Version": "2.11.1",
+    "Version": "2.12.0",
     "Description": "A pager designed to just do the right thing without any configuration",
     "Homepage": "https://github.com/walles/moor"
   },
@@ -10861,7 +10873,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.12.0~dev-2727+gad4bc2d90c-2",
+    "Version": "0.13.0~dev-13+g92a667c07f-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -13351,7 +13363,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20260323",
+    "Version": "20260330",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://rust-analyzer.github.io/"
   },
@@ -14929,7 +14941,7 @@
   },
   {
     "Package": "tree-sitter",
-    "Version": "0.26.3",
+    "Version": "0.26.7",
     "Description": "An incremental parsing system for programming tools",
     "Homepage": "https://tree-sitter.github.io/"
   },
@@ -15835,7 +15847,7 @@
   },
   {
     "Package": "watchexec",
-    "Version": "2.5.0",
+    "Version": "2.5.1",
     "Description": "Executes commands in response to file modifications",
     "Homepage": "https://github.com/watchexec/watchexec"
   },
