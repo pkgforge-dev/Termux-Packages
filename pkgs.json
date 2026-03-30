@@ -697,7 +697,7 @@
   },
   {
     "Package": "b3sum",
-    "Version": "1.8.3",
+    "Version": "1.8.4",
     "Description": "A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum",
     "Homepage": "https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum"
   },
@@ -1423,7 +1423,7 @@
   },
   {
     "Package": "clblast",
-    "Version": "1.6.3-1",
+    "Version": "1.7.0",
     "Description": "Tuned OpenCL BLAS",
     "Homepage": "https://github.com/CNugteren/CLBlast"
   },
@@ -12691,13 +12691,13 @@
   },
   {
     "Package": "qalc",
-    "Version": "5.9.0",
+    "Version": "5.10.0",
     "Description": "Powerful and easy to use command line calculator",
     "Homepage": "https://qalculate.github.io/"
   },
   {
     "Package": "qalc-static",
-    "Version": "5.9.0",
+    "Version": "5.10.0",
     "Description": "Static libraries for qalc",
     "Homepage": "https://qalculate.github.io/"
   },
@@ -13759,7 +13759,7 @@
   },
   {
     "Package": "sing-box",
-    "Version": "1.13.4",
+    "Version": "1.13.5",
     "Description": "The universal proxy platform",
     "Homepage": "https://sing-box.sagernet.org"
   },
@@ -15223,7 +15223,7 @@
   },
   {
     "Package": "turbo",
-    "Version": "2.8.21",
+    "Version": "2.9.0",
     "Description": "High-performance build system for JS/TS",
     "Homepage": "https://turbo.build/"
   },
@@ -15517,25 +15517,25 @@
   },
   {
     "Package": "valac",
-    "Version": "0.56.18-1",
+    "Version": "0.56.19",
     "Description": "C# like language for the GObject system",
     "Homepage": "https://wiki.gnome.org/Projects/Vala"
   },
   {
     "Package": "valac-static",
-    "Version": "0.56.18-1",
+    "Version": "0.56.19",
     "Description": "Static libraries for valac",
     "Homepage": "https://wiki.gnome.org/Projects/Vala"
   },
   {
     "Package": "valadoc",
-    "Version": "0.56.18-1",
+    "Version": "0.56.19",
     "Description": "API documentation generator for vala",
     "Homepage": "https://wiki.gnome.org/Projects/Vala"
   },
   {
     "Package": "valadoc-static",
-    "Version": "0.56.18-1",
+    "Version": "0.56.19",
     "Description": "Static libraries for valadoc",
     "Homepage": "https://wiki.gnome.org/Projects/Vala"
   },
@@ -15817,7 +15817,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "2.0.6",
+    "Version": "2.0.7",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },
