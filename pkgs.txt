@@ -217,7 +217,7 @@
  cfm  1.2.0-3  A basic file manager that runs inside a terminal, designed for Linux. It's fully responsive and incredibly fast.  https://github.com/0l1v3rr/cli-file-manager 
  cgal  6.1.1  Computational Geometry Algorithms Library  https://www.cgal.org/ 
  cgdb  0.8.0-1  A lightweight curses (terminal-based) interface to the GNU Debugger (GDB)  https://cgdb.github.io/ 
- cgif  0.5.2  A fast and lightweight GIF encoding library  https://github.com/dloebl/cgif 
+ cgif  0.5.3  A fast and lightweight GIF encoding library  https://github.com/dloebl/cgif 
  chafa  1.18.1-2  Image-to-text converter supporting a wide range of symbols, etc.  https://hpjansson.org/chafa/ 
  chafa-static  1.18.1-2  Static libraries for chafa  https://hpjansson.org/chafa/ 
  check  0.15.2-3  A unit testing framework for C  https://libcheck.github.io/check 
@@ -1905,8 +1905,8 @@
  openmpi  4.1.5-1  Open source Message Passing Interface implementation  https://www.open-mpi.org 
  openmpi-static  4.1.5-1  Static libraries for openmpi  https://www.open-mpi.org 
  openmpt123  0.8.6  libopenmpt based command-line player for tracker music formats  https://lib.openmpt.org/libopenmpt/ 
- opensc  0.26.1-1  Open source smart card tools and middleware  https://github.com/OpenSC/OpenSC 
- opensc-static  0.26.1-1  Static libraries for opensc  https://github.com/OpenSC/OpenSC 
+ opensc  0.27.1  Open source smart card tools and middleware  https://github.com/OpenSC/OpenSC 
+ opensc-static  0.27.1  Static libraries for opensc  https://github.com/OpenSC/OpenSC 
  openscad  2021.01-6  The programmers solid 3D CAD modeller (headless build)  https://openscad.org/ 
  openssh  10.2p1-1  Secure shell for logging into a remote machine  https://www.openssh.com/ 
  openssh-sftp-server  10.2p1-1  OpenSSH SFTP server subsystem  https://www.openssh.com/ 
@@ -1927,8 +1927,8 @@
  ossp-uuid  1.6.2-4  ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122.  http://www.ossp.org/pkg/lib/uuid/ 
  ossp-uuid-static  1.6.2-4  Static libraries for ossp-uuid  http://www.ossp.org/pkg/lib/uuid/ 
  ovmf  20231122-16.fc40-0  Open Virtual Machine Firmware  https://www.tianocore.org/ 
- oxfmt  1.57.0  Oxc JavaScript formatter  https://oxc.rs/ 
- oxlint  1.57.0  Oxc JavaScript linter  https://oxc.rs/ 
+ oxfmt  1.58.0  Oxc JavaScript formatter  https://oxc.rs/ 
+ oxlint  1.58.0  Oxc JavaScript linter  https://oxc.rs/ 
  p11-kit  0.26.2  Provides a way to load and enumerate PKCS#11 modules  https://p11-glue.github.io/p11-glue/p11-kit.html 
  p7zip  17.06-1  Command-line version of the 7zip compressed file archiver  https://github.com/p7zip-project/p7zip 
  pacman  7.1.0-1  A library-based package manager with dependency support  https://archlinux.org/pacman/ 
