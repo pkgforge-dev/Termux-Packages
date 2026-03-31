@@ -134,7 +134,7 @@
  bftpd  6.3-1  Small, easy-to-configure FTP server  https://bftpd.sourceforge.net/ 
  bgrep  1.0-5  Binary string grep tool  https://debugmo.de/2009/04/bgrep-a-binary-grep/ 
  biboumi  9.0-5  An XMPP gateway that connects to IRC servers and translates between the two protocols  https://biboumi.louiz.org/ 
- binaryen  128  Binaryen is a compiler and toolchain infrastructure library for WebAssembly  https://github.com/WebAssembly/binaryen 
+ binaryen  129  Binaryen is a compiler and toolchain infrastructure library for WebAssembly  https://github.com/WebAssembly/binaryen 
  binutils  2.46.0-3  A GNU collection of binary utilities  https://www.gnu.org/software/binutils/ 
  binutils-cross  2.46.0-3  GNU Binutils for cross build on the host (NOT for Termux)  https://www.gnu.org/software/binutils/ 
  bison  3.8.2-4  General-purpose parser generator  https://www.gnu.org/software/bison/ 
@@ -1160,8 +1160,8 @@
  liblrdf-static  0.6.1-2  Static libraries for liblrdf  https://github.com/swh/LRDF 
  libltdl  2.5.4-2  Library for dlopening libraries  https://www.gnu.org/software/libtool/ 
  liblz4  1.10.0-1  Fast LZ compression algorithm library  https://lz4.github.io/lz4/ 
- liblzma  5.8.2  XZ-format compression library  https://tukaani.org/xz/ 
- liblzma-static  5.8.2  Static libraries for liblzma  https://tukaani.org/xz/ 
+ liblzma  5.8.3  XZ-format compression library  https://tukaani.org/xz/ 
+ liblzma-static  5.8.3  Static libraries for liblzma  https://tukaani.org/xz/ 
  liblzo  2.10-4  Portable lossless data compression library  http://www.oberhumer.com/opensource/lzo 
  liblzo-static  2.10-4  Static libraries for liblzo  http://www.oberhumer.com/opensource/lzo 
  libmaa  1.4.7-1  Provides many low-level data structures which are helpful for writing compilers  https://sourceforge.net/projects/dict/ 
@@ -2700,7 +2700,7 @@
  xxd  9.2.0272  Hexdump utility from vim  https://www.vim.org 
  xxhash  0.8.3-1  Extremely fast non-cryptographic hash algorithm  https://cyan4973.github.io/xxHash/ 
  xxhash-static  0.8.3-1  Static libraries for xxhash  https://cyan4973.github.io/xxHash/ 
- xz-utils  5.8.2  XZ-format compression tools  https://tukaani.org/xz/ 
+ xz-utils  5.8.3  XZ-format compression tools  https://tukaani.org/xz/ 
  yadm  3.5.0  Yet Another Dotfiles Manager  https://yadm.io/ 
  yajl  2.1.0-8  Yet Another JSON Library  https://lloyd.github.io/yajl/ 
  yajl-static  2.1.0-8  Static libraries for yajl  https://lloyd.github.io/yajl/ 

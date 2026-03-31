@@ -817,7 +817,7 @@
   },
   {
     "Package": "binaryen",
-    "Version": "128",
+    "Version": "129",
     "Description": "Binaryen is a compiler and toolchain infrastructure library for WebAssembly",
     "Homepage": "https://github.com/WebAssembly/binaryen"
   },
@@ -6973,13 +6973,13 @@
   },
   {
     "Package": "liblzma",
-    "Version": "5.8.2",
+    "Version": "5.8.3",
     "Description": "XZ-format compression library",
     "Homepage": "https://tukaani.org/xz/"
   },
   {
     "Package": "liblzma-static",
-    "Version": "5.8.2",
+    "Version": "5.8.3",
     "Description": "Static libraries for liblzma",
     "Homepage": "https://tukaani.org/xz/"
   },
@@ -16213,7 +16213,7 @@
   },
   {
     "Package": "xz-utils",
-    "Version": "5.8.2",
+    "Version": "5.8.3",
     "Description": "XZ-format compression tools",
     "Homepage": "https://tukaani.org/xz/"
   },

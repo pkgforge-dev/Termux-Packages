@@ -543,7 +543,7 @@
   Description: An XMPP gateway that connects to IRC servers and translates between the two protocols
   Homepage: https://biboumi.louiz.org/
 - Package: binaryen
-  Version: "128"
+  Version: "129"
   Description: Binaryen is a compiler and toolchain infrastructure library for WebAssembly
   Homepage: https://github.com/WebAssembly/binaryen
 - Package: binutils
@@ -4647,11 +4647,11 @@
   Description: Fast LZ compression algorithm library
   Homepage: https://lz4.github.io/lz4/
 - Package: liblzma
-  Version: 5.8.2
+  Version: 5.8.3
   Description: XZ-format compression library
   Homepage: https://tukaani.org/xz/
 - Package: liblzma-static
-  Version: 5.8.2
+  Version: 5.8.3
   Description: Static libraries for liblzma
   Homepage: https://tukaani.org/xz/
 - Package: liblzo
@@ -10807,7 +10807,7 @@
   Description: Static libraries for xxhash
   Homepage: https://cyan4973.github.io/xxHash/
 - Package: xz-utils
-  Version: 5.8.2
+  Version: 5.8.3
   Description: XZ-format compression tools
   Homepage: https://tukaani.org/xz/
 - Package: yadm
