@@ -6507,7 +6507,7 @@
   Description: Static libraries for lua55
   Homepage: https://www.lua.org/
 - Package: luajit
-  Version: 1:2.1.1774638290+gfbb36bb
+  Version: 1:2.1.1774896198+g18b087c
   Description: Just-In-Time Compiler for Lua
   Homepage: https://luajit.org/
 - Package: luajit-lgi
@@ -6515,7 +6515,7 @@
   Description: Dynamic Lua binding to GObject libraries using GObject-Introspection
   Homepage: https://github.com/lgi-devs/lgi
 - Package: luajit-static
-  Version: 1:2.1.1774638290+gfbb36bb
+  Version: 1:2.1.1774896198+g18b087c
   Description: Static libraries for luajit
   Homepage: https://luajit.org/
 - Package: luarocks
@@ -9163,7 +9163,7 @@
   Description: Implementations of SIMD instructions for all systems
   Homepage: https://simd-everywhere.github.io/
 - Package: simdjson
-  Version: 4.5.0
+  Version: 4.6.0
   Description: A C++ library to see how fast we can parse JSON with complete validation
   Homepage: https://simdjson.org/
 - Package: simh
@@ -9399,7 +9399,7 @@
   Description: measure character-echo latency and bandwidth for an interactive ssh session
   Homepage: https://github.com/spook/sshping
 - Package: sslscan
-  Version: 2.2.1
+  Version: 2.2.2
   Description: Utility to discover supported cipher suites on SSL/TLS enabled servers
   Homepage: https://github.com/rbsec/sslscan
 - Package: sssnake
@@ -10151,7 +10151,7 @@
   Description: A single and trusted place for all unofficial/less popular termux packages
   Homepage: https://github.com/termux-user-repository/tur
 - Package: turbo
-  Version: 2.9.0
+  Version: 2.9.1
   Description: High-performance build system for JS/TS
   Homepage: https://turbo.build/
 - Package: tut
