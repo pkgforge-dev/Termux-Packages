@@ -547,7 +547,7 @@
  gdbm  1.26-1  Library of database functions that use extensible hashing  https://www.gnu.org.ua/software/gdbm/ 
  gdbm-static  1.26-1  Static libraries for gdbm  https://www.gnu.org.ua/software/gdbm/ 
  gdbserver  16.3-3  The gdbserver program  https://www.gnu.org/software/gdb/ 
- gdk-pixbuf  2.44.5  Library for image loading and manipulation  https://wiki.gnome.org/Projects/GdkPixbuf 
+ gdk-pixbuf  2.44.6  Library for image loading and manipulation  https://wiki.gnome.org/Projects/GdkPixbuf 
  gdrive-downloader  1:1.1  Download a gdrive folder or file easily, shell ftw  https://github.com/Akianonymus/gdrive-downloader 
  gdu  5.34.4  Fast disk usage analyzer with console interface written in Go  https://github.com/dundee/gdu 
  geckodriver  0.36.0-1  Proxy for using W3C WebDriver-compatible clients to interact with Gecko-based browsers  https://github.com/mozilla/geckodriver 
@@ -1813,7 +1813,7 @@
  neofetch  7.1.0-1  Simple system information script  https://github.com/dylanaraps/neofetch 
  neomutt  20260105  A version of mutt with added features  https://neomutt.org/ 
  neovim  0.12.0-1  Ambitious Vim-fork focused on extensibility and agility (nvim)  https://neovim.io/ 
- neovim-nightly  0.13.0~dev-29+g1bcf2d7f90-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
+ neovim-nightly  0.13.0~dev-44+g8367340b05-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
  nerdfix  0.4.2-1  nerdfix helps you to find/fix obsolete Nerd Font icons in your project.  https://github.com/loichyan/nerdfix 
  net-snmp  5.9.5.2  Various tools relating to the Simple Network Management Protocol  http://www.net-snmp.org/ 
  net-snmp-static  5.9.5.2  Static libraries for net-snmp  http://www.net-snmp.org/ 
@@ -2637,7 +2637,7 @@
  w3m  0.5.6  Text based Web browser and pager  https://w3m.sourceforge.net/ 
  w3m-img  0.5.6  Inline image extension support utilities for w3m  https://w3m.sourceforge.net/ 
  wabt  1.0.40  The WebAssembly Binary Toolkit  https://github.com/WebAssembly/wabt 
- wakatime-cli  2.0.7  Command line interface used by all WakaTime text editor plugins  https://wakatime.com/plugins/ 
+ wakatime-cli  2.0.12  Command line interface used by all WakaTime text editor plugins  https://wakatime.com/plugins/ 
  walk  1.13.0  A terminal file manager  https://github.com/antonmedv/walk 
  wallust  3.5.2  Generate colors from an image  https://explosion-mental.codeberg.page/wallust 
  wasi-libc  30  Libc for WebAssembly programs built on top of WASI system calls  https://wasi.dev/ 

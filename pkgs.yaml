@@ -2195,7 +2195,7 @@
   Description: The gdbserver program
   Homepage: https://www.gnu.org/software/gdb/
 - Package: gdk-pixbuf
-  Version: 2.44.5
+  Version: 2.44.6
   Description: Library for image loading and manipulation
   Homepage: https://wiki.gnome.org/Projects/GdkPixbuf
 - Package: gdrive-downloader
@@ -7259,7 +7259,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-29+g1bcf2d7f90-0
+  Version: 0.13.0~dev-44+g8367340b05-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -10555,7 +10555,7 @@
   Description: The WebAssembly Binary Toolkit
   Homepage: https://github.com/WebAssembly/wabt
 - Package: wakatime-cli
-  Version: 2.0.7
+  Version: 2.0.12
   Description: Command line interface used by all WakaTime text editor plugins
   Homepage: https://wakatime.com/plugins/
 - Package: walk
