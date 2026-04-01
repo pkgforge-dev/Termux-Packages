@@ -516,7 +516,7 @@
  freetype  2.14.3  Software font engine capable of producing high-quality output  https://www.freetype.org 
  freetype-static  2.14.3  Static libraries for freetype  https://www.freetype.org 
  frei0r-plugins  2.5.6  Minimalistic plugin API for video effects  https://www.dyne.org/software/frei0r/ 
- fresh-editor  0.2.20  Text editor for your terminal: easy, powerful and fast  https://getfresh.dev/ 
+ fresh-editor  0.2.21  Text editor for your terminal: easy, powerful and fast  https://getfresh.dev/ 
  fribidi  1.0.16-1  Implementation of the Unicode Bidirectional Algorithm  https://github.com/fribidi/fribidi/ 
  fribidi-static  1.0.16-1  Static libraries for fribidi  https://github.com/fribidi/fribidi/ 
  frobtads  2.0-5  TADS is a free authoring system for writing your own Interactive Fiction  http://www.tads.org/frobtads.htm 
@@ -662,7 +662,7 @@
  graphicsmagick-static  1.3.46  Static libraries for graphicsmagick  http://www.graphicsmagick.org/ 
  graphviz  14.1.4  Rich set of graph drawing tools  https://www.graphviz.org/ 
  graphviz-static  14.1.4  Static libraries for graphviz  https://www.graphviz.org/ 
- greed  4.4  Game where you try to eat as much as possible of the board before munching yourself into a corner  http://www.catb.org/~esr/greed/ 
+ greed  4.5  Game where you try to eat as much as possible of the board before munching yourself into a corner  http://www.catb.org/~esr/greed/ 
  grep  3.12-3  Command which searches one or more input files for lines containing a match to a specified pattern  https://www.gnu.org/software/grep/ 
  grex  1.4.6-1  Simplifies the task of creating regular expressions  https://github.com/pemistahl/grex 
  groff  1.23.0-2  typesetting system that reads plain text mixed with formatting commands and produces formatted output  https://www.gnu.org/software/groff/ 
@@ -854,7 +854,7 @@
  less  692  Terminal pager program used to view the contents of a text file one screen at a time  https://www.greenwoodsoftware.com/less/ 
  lesspipe  2.23  An input filter for the pager less  https://lesspipe.org/ 
  leveldb  1.23-4  Fast key-value storage library  https://github.com/google/leveldb 
- lexbor  2.7.0  Fast embeddable web browser engine written in C with no dependencies  https://lexbor.com 
+ lexbor  3.0.0  Fast embeddable web browser engine written in C with no dependencies  https://lexbor.com 
  lexter  1.0.3-5  A real-time word puzzle for text terminals  https://www.kyne.au/~mark/software/lexter.php 
  lf  41  Terminal file manager  https://github.com/gokcehan/lf 
  lftp  4.9.2-7  FTP/HTTP client and file transfer program  https://lftp.tech/ 
@@ -1477,7 +1477,7 @@
  libvbisam-static  2.0-3  Static libraries for libvbisam  https://sourceforge.net/projects/vbisam/ 
  libvidstab  1.1.1-3  video stabilization library  https://github.com/georgmartius/vid.stab 
  libvigra  1.12.3  Computer vision library  https://ukoethe.github.io/vigra/ 
- libvips  8.18.1  A fast image processing library with low memory needs  https://libvips.github.io/libvips/ 
+ libvips  8.18.2  A fast image processing library with low memory needs  https://libvips.github.io/libvips/ 
  libvisio  0.1.10  Library providing ability to interpret and import visio diagrams  https://wiki.documentfoundation.org/DLP/Libraries/libvisio 
  libvisio-static  0.1.10  Static libraries for libvisio  https://wiki.documentfoundation.org/DLP/Libraries/libvisio 
  libvmaf  3.0.0-2  A perceptual video quality assessment algorithm developed by Netflix  https://github.com/Netflix/vmaf 
@@ -1694,7 +1694,7 @@
  mdp  1.0.18-1  Command-line based markdown presentation tool  https://github.com/visit1985/mdp 
  media-types  14.0.0  List of standard media types and their usual file extension  https://pagure.io/mailcap 
  mediainfo  26.01  Command-line utility for reading information from media files  https://mediaarea.net/en/MediaInfo 
- mediamtx  1.17.0  Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy  https://github.com/bluenviron/mediamtx 
+ mediamtx  1.17.1  Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy  https://github.com/bluenviron/mediamtx 
  megacmd  2.5.1  Provides non UI access to MEGA services  https://mega.io/ 
  megatools  1.11.5.20250706-1  Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage  https://xff.cz/megatools/ 
  memcached  1.6.41  Free & open source, high-performance, distributed memory object caching system  https://memcached.org/ 
@@ -1796,11 +1796,11 @@
  ncompress  5.0-1  The classic unix compression utility which can handle the ancient .Z archive  https://github.com/vapier/ncompress 
  ncpamixer  1.3.11  An ncurses mixer for PulseAudio  https://github.com/fulhax/ncpamixer 
  ncspot  1.3.3  An ncurses Spotify client written in Rust  https://github.com/hrkfdn/ncspot 
- ncurses  6.6.20260307  Library for text-based user interfaces in a terminal-independent manner  https://invisible-island.net/ncurses/ 
- ncurses-static  6.6.20260307  Static libraries for ncurses  https://invisible-island.net/ncurses/ 
- ncurses-ui-libs  6.6.20260307  Libraries for terminal user interfaces based on ncurses  https://invisible-island.net/ncurses/ 
- ncurses-ui-libs-static  6.6.20260307  Static libraries for terminal user interfaces based on ncurses  https://invisible-island.net/ncurses/ 
- ncurses-utils  6.6.20260307  Tools for working with terminals  https://invisible-island.net/ncurses/ 
+ ncurses  6.6.20260307+really6.5.20250830  Library for text-based user interfaces in a terminal-independent manner  https://invisible-island.net/ncurses/ 
+ ncurses-static  6.6.20260307+really6.5.20250830  Static libraries for ncurses  https://invisible-island.net/ncurses/ 
+ ncurses-ui-libs  6.6.20260307+really6.5.20250830  Libraries for terminal user interfaces based on ncurses  https://invisible-island.net/ncurses/ 
+ ncurses-ui-libs-static  6.6.20260307+really6.5.20250830  Static libraries for terminal user interfaces based on ncurses  https://invisible-island.net/ncurses/ 
+ ncurses-utils  6.6.20260307+really6.5.20250830  Tools for working with terminals  https://invisible-island.net/ncurses/ 
  ndk-multilib  29-1  Multilib binaries for cross-compilation  https://developer.android.com/tools/sdk/ndk/index.html 
  ndk-multilib-native-static  29-1  Install native static libs from NDK  https://developer.android.com/tools/sdk/ndk/index.html 
  ndk-multilib-native-stubs  29-1  Install native stubs for shared libs from NDK  https://developer.android.com/tools/sdk/ndk/index.html 
@@ -1914,7 +1914,7 @@
  openssl-static  1:3.6.1  Static libraries for openssl  https://www.openssl.org/ 
  openssl-tool  1:3.6.1  The openssl command line cryptographic tool  https://www.openssl.org/ 
  opentimelineio  0.18.1  Open Source API and interchange format for editorial timeline information.  http://opentimeline.io/ 
- openxr  1.1.57  Open standard that provides a common set of APIs for developing XR applications  https://www.khronos.org/openxr/ 
+ openxr  1.1.58  Open standard that provides a common set of APIs for developing XR applications  https://www.khronos.org/openxr/ 
  optipng  7.9.1-1  PNG optimizer that recompresses image files to a smaller size, without losing any information  https://optipng.sourceforge.net/ 
  opus-tools  0.2-4  Utilities to encode and decode .opus files  https://www.opus-codec.org/ 
  opusfile  0.12-4  A high-level API for decoding and seeking within .opus files  https://www.opus-codec.org/ 
@@ -2058,7 +2058,7 @@
  pure-ftpd  1.0.53  Pure-FTPd is a free (BSD), secure, production-quality and standard-conformant FTP server  https://www.pureftpd.org/project/pure-ftpd 
  pv  1.10.5  Terminal-based tool for monitoring the progress of data through a pipeline  https://www.ivarch.com/programs/pv.shtml 
  pwgen  2.08-2  Password generator which by default, unless given the '-s' option, generates memorable but insecure passwords  http://pwgen.sourceforge.net/ 
- pybind11  3.0.2-1  A lightweight header-only library that exposes C++ types in Python and vice versa  https://pybind11.readthedocs.io/ 
+ pybind11  3.0.3  A lightweight header-only library that exposes C++ types in Python and vice versa  https://pybind11.readthedocs.io/ 
  pycairo  1.29.0-1  Python bindings for the cairo graphics library  https://www.cairographics.org/pycairo/ 
  pygobject  3.56.2  Python package which provides bindings for GObject based libraries  https://pygobject.gnome.org/ 
  pypy  7.3.21  A fast, compliant alternative implementation of Python  https://pypy.org 
@@ -2067,7 +2067,7 @@
  pypy3  7.3.21  A fast, compliant alternative implementation of Python 3  https://pypy.org 
  pypy3-tests  7.3.21  Test files for PyPy 3  https://pypy.org 
  pypy3-tkinter  7.3.21  Tkinter support for PyPy 3  https://pypy.org 
- pyrefly  0.57.1  A fast type checker and language server for Python  https://github.com/facebook/pyrefly.git 
+ pyrefly  0.59.0  A fast type checker and language server for Python  https://github.com/facebook/pyrefly.git 
  pystring  1.1.4-1  C++ functions matching the interface and behavior of python string methods with std::string  https://github.com/imageworks/pystring 
  python  3.13.12-5  Python 3 programming language intended to enable clear programs  https://python.org/ 
  python-apsw  3.52.0.0  Another Python SQLite Wrapper  https://rogerbinns.github.io/apsw/ 
@@ -2150,7 +2150,7 @@
  rage  0.11.1-1  A simple, secure and modern encryption tool  https://age-encryption.org/v1 
  ragel  7.0.4-1  Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code  https://www.colm.net/open-source/ragel/ 
  ragel-static  7.0.4-1  Static libraries for ragel  https://www.colm.net/open-source/ragel/ 
- railway-cli  4.35.2  This is the command line interface for Railway  https://railway.app 
+ railway-cli  4.36.0  This is the command line interface for Railway  https://railway.app 
  range-v3  0.12.0  Range library for C++14/17/20, basis for C++20's std::ranges  https://github.com/ericniebler/range-v3 
  ranger  1.9.4-1  File manager with VI key bindings  https://ranger.github.io/ 
  rapidjson  1.1.0-7  Fast JSON parser/generator for C++ with SAX/DOM style API  https://github.com/Tencent/rapidjson/ 
@@ -2330,7 +2330,7 @@
  spidermonkey  128.10.0-2  Mozilla's JavaScript engine  https://spidermonkey.dev 
  spiped  1.6.4-1  a utility for creating symmetrically encrypted and authenticated pipes between socket addresses  https://www.tarsnap.com/spiped.html 
  spirv-headers  1.4.341.0  SPIR-V Headers  https://github.com/KhronosGroup/SPIRV-Headers 
- spirv-llvm-translator  21.1.5  SPIR-V LLVM Translator  https://github.com/KhronosGroup/SPIRV-LLVM-Translator 
+ spirv-llvm-translator  21.1.6  SPIR-V LLVM Translator  https://github.com/KhronosGroup/SPIRV-LLVM-Translator 
  spirv-tools  1.4.341.0  SPIR-V Tools  https://github.com/KhronosGroup/SPIRV-Tools 
  sqlcipher  4.14.0  SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files  https://github.com/sqlcipher/sqlcipher 
  sqlite  3.52.0-1  Command line shell for SQLite  https://www.sqlite.org 
@@ -2536,7 +2536,7 @@
  ttyrec  1.0.8-8  Terminal recorder and player  http://0xcc.net/ttyrec/ 
  tudo  1.2.0  A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument as the Termux app (u<userid>_a<appid>) user in the Termux app  https://github.com/agnostic-apollo/tudo 
  tur-repo  1.0.1  A single and trusted place for all unofficial/less popular termux packages  https://github.com/termux-user-repository/tur 
- turbo  2.9.1  High-performance build system for JS/TS  https://turbo.build/ 
+ turbo  2.9.3  High-performance build system for JS/TS  https://turbo.build/ 
  tut  2.0.1-3  A TUI for Mastodon with vim inspired keys  https://github.com/RasmusLindroth/tut 
  tvheadend  4.2.8-12  TV streaming server for Linux and Android supporting DVB-S, DVB-S2 and other formats.  https://tvheadend.org/ 
  tvheadend-data  4.2.8-12  Platform-independent data for tvheadend  https://tvheadend.org/ 

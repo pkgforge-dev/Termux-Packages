@@ -2071,7 +2071,7 @@
   Description: Minimalistic plugin API for video effects
   Homepage: https://www.dyne.org/software/frei0r/
 - Package: fresh-editor
-  Version: 0.2.20
+  Version: 0.2.21
   Description: 'Text editor for your terminal: easy, powerful and fast'
   Homepage: https://getfresh.dev/
 - Package: fribidi
@@ -2655,7 +2655,7 @@
   Description: Static libraries for graphviz
   Homepage: https://www.graphviz.org/
 - Package: greed
-  Version: "4.4"
+  Version: "4.5"
   Description: Game where you try to eat as much as possible of the board before munching yourself into a corner
   Homepage: http://www.catb.org/~esr/greed/
 - Package: grep
@@ -3423,7 +3423,7 @@
   Description: Fast key-value storage library
   Homepage: https://github.com/google/leveldb
 - Package: lexbor
-  Version: 2.7.0
+  Version: 3.0.0
   Description: Fast embeddable web browser engine written in C with no dependencies
   Homepage: https://lexbor.com
 - Package: lexter
@@ -5915,7 +5915,7 @@
   Description: Computer vision library
   Homepage: https://ukoethe.github.io/vigra/
 - Package: libvips
-  Version: 8.18.1
+  Version: 8.18.2
   Description: A fast image processing library with low memory needs
   Homepage: https://libvips.github.io/libvips/
 - Package: libvisio
@@ -6783,7 +6783,7 @@
   Description: Command-line utility for reading information from media files
   Homepage: https://mediaarea.net/en/MediaInfo
 - Package: mediamtx
-  Version: 1.17.0
+  Version: 1.17.1
   Description: Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy
   Homepage: https://github.com/bluenviron/mediamtx
 - Package: megacmd
@@ -7191,23 +7191,23 @@
   Description: An ncurses Spotify client written in Rust
   Homepage: https://github.com/hrkfdn/ncspot
 - Package: ncurses
-  Version: 6.6.20260307
+  Version: 6.6.20260307+really6.5.20250830
   Description: Library for text-based user interfaces in a terminal-independent manner
   Homepage: https://invisible-island.net/ncurses/
 - Package: ncurses-static
-  Version: 6.6.20260307
+  Version: 6.6.20260307+really6.5.20250830
   Description: Static libraries for ncurses
   Homepage: https://invisible-island.net/ncurses/
 - Package: ncurses-ui-libs
-  Version: 6.6.20260307
+  Version: 6.6.20260307+really6.5.20250830
   Description: Libraries for terminal user interfaces based on ncurses
   Homepage: https://invisible-island.net/ncurses/
 - Package: ncurses-ui-libs-static
-  Version: 6.6.20260307
+  Version: 6.6.20260307+really6.5.20250830
   Description: Static libraries for terminal user interfaces based on ncurses
   Homepage: https://invisible-island.net/ncurses/
 - Package: ncurses-utils
-  Version: 6.6.20260307
+  Version: 6.6.20260307+really6.5.20250830
   Description: Tools for working with terminals
   Homepage: https://invisible-island.net/ncurses/
 - Package: ndk-multilib
@@ -7663,7 +7663,7 @@
   Description: Open Source API and interchange format for editorial timeline information.
   Homepage: http://opentimeline.io/
 - Package: openxr
-  Version: 1.1.57
+  Version: 1.1.58
   Description: Open standard that provides a common set of APIs for developing XR applications
   Homepage: https://www.khronos.org/openxr/
 - Package: optipng
@@ -8239,7 +8239,7 @@
   Description: Password generator which by default, unless given the -s option, generates memorable but insecure passwords
   Homepage: http://pwgen.sourceforge.net/
 - Package: pybind11
-  Version: 3.0.2-1
+  Version: 3.0.3
   Description: A lightweight header-only library that exposes C++ types in Python and vice versa
   Homepage: https://pybind11.readthedocs.io/
 - Package: pycairo
@@ -8275,7 +8275,7 @@
   Description: Tkinter support for PyPy 3
   Homepage: https://pypy.org
 - Package: pyrefly
-  Version: 0.57.1
+  Version: 0.59.0
   Description: A fast type checker and language server for Python
   Homepage: https://github.com/facebook/pyrefly.git
 - Package: pystring
@@ -8607,7 +8607,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 4.35.2
+  Version: 4.36.0
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
@@ -9327,7 +9327,7 @@
   Description: SPIR-V Headers
   Homepage: https://github.com/KhronosGroup/SPIRV-Headers
 - Package: spirv-llvm-translator
-  Version: 21.1.5
+  Version: 21.1.6
   Description: SPIR-V LLVM Translator
   Homepage: https://github.com/KhronosGroup/SPIRV-LLVM-Translator
 - Package: spirv-tools
@@ -10151,7 +10151,7 @@
   Description: A single and trusted place for all unofficial/less popular termux packages
   Homepage: https://github.com/termux-user-repository/tur
 - Package: turbo
-  Version: 2.9.1
+  Version: 2.9.3
   Description: High-performance build system for JS/TS
   Homepage: https://turbo.build/
 - Package: tut
