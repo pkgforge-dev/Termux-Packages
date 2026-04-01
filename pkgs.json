@@ -4477,7 +4477,7 @@
   },
   {
     "Package": "icecast",
-    "Version": "2.4.4-8",
+    "Version": "2.5.0",
     "Description": "Icecast is a streaming media (audio/video) server",
     "Homepage": "https://icecast.org"
   },
@@ -6640,6 +6640,18 @@
     "Version": "2.3.8-1",
     "Description": "Static libraries for libidn2",
     "Homepage": "https://www.gnu.org/software/libidn/#libidn2"
+  },
+  {
+    "Package": "libigloo",
+    "Version": "0.9.5",
+    "Description": "Generic C framework used and developed by the Icecast project",
+    "Homepage": "https://icecast.org"
+  },
+  {
+    "Package": "libigloo-static",
+    "Version": "0.9.5",
+    "Description": "Static libraries for libigloo",
+    "Homepage": "https://icecast.org"
   },
   {
     "Package": "libimagequant",
@@ -10735,7 +10747,7 @@
   },
   {
     "Package": "navidrome",
-    "Version": "0.60.3",
+    "Version": "0.61.0",
     "Description": "Modern Music Server and Streamer compatible with Subsonic/Airsonic",
     "Homepage": "https://www.navidrome.org/"
   },

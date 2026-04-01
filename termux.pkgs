@@ -744,7 +744,7 @@
 | **i2pd** | 2.59.0 | A full-featured C++ implementation of the I2P router | https://i2pd.website/ |
 | **i2pd-static** | 2.59.0 | Static libraries for i2pd | https://i2pd.website/ |
 | **iat** | 0.1.7 | Iso9660 Analyzer Tool | http://iat.berlios.de/ |
-| **icecast** | 2.4.4-8 | Icecast is a streaming media (audio/video) server | https://icecast.org |
+| **icecast** | 2.5.0 | Icecast is a streaming media (audio/video) server | https://icecast.org |
 | **ices** | 2.0.3-1 | IceS is a source client for the Icecast streaming server. | https://icecast.org/ices/ |
 | **icon-naming-utils** | 0.8.90 | Maps the new names of icons for Tango to the legacy names used by the GNOME and KDE desktops | http://tango.freedesktop.org/ |
 | **iconv** | 1.18-1 | Utility converting between different character encodings | https://www.gnu.org/software/libiconv/ |
@@ -1105,6 +1105,8 @@
 | **libidn-static** | 1.43-1 | Static libraries for libidn | https://www.gnu.org/software/libidn/ |
 | **libidn2** | 2.3.8-1 | Free software implementation of IDNA2008, Punycode and TR46 | https://www.gnu.org/software/libidn/#libidn2 |
 | **libidn2-static** | 2.3.8-1 | Static libraries for libidn2 | https://www.gnu.org/software/libidn/#libidn2 |
+| **libigloo** | 0.9.5 | Generic C framework used and developed by the Icecast project | https://icecast.org |
+| **libigloo-static** | 0.9.5 | Static libraries for libigloo | https://icecast.org |
 | **libimagequant** | 4.4.1 | Small, portable C library for high-quality conversion of RGBA images to 8-bit indexed-color (palette) images | https://pngquant.org/lib/ |
 | **libimagequant-static** | 4.4.1 | Static libraries for libimagequant | https://pngquant.org/lib/ |
 | **libimobiledevice** | 1.3.0-p20250228-3 | A library to communicate with services on iOS devices using native protocols | https://libimobiledevice.org/ |
@@ -1787,7 +1789,7 @@
 | **natpmpc** | 20230423-2 | Portable and fully compliant implementation of NAT-PMP | https://miniupnp.tuxfamily.org/libnatpmp.html |
 | **natpmpc-static** | 20230423-2 | Static libraries for natpmpc | https://miniupnp.tuxfamily.org/libnatpmp.html |
 | **navi** | 2.24.0-1 | An interactive cheatsheet tool for the command-line | https://github.com/denisidoro/navi |
-| **navidrome** | 0.60.3 | Modern Music Server and Streamer compatible with Subsonic/Airsonic | https://www.navidrome.org/ |
+| **navidrome** | 0.61.0 | Modern Music Server and Streamer compatible with Subsonic/Airsonic | https://www.navidrome.org/ |
 | **ncdc** | 1.25-1 | Modern and lightweight direct connect client with a friendly ncurses interface | https://dev.yorhel.nl/ncdc |
 | **ncdu** | 1.22-1 | Disk usage analyzer | https://dev.yorhel.nl/ncdu |
 | **ncdu2** | 2.9.2 | Disk usage analyzer | https://dev.yorhel.nl/ncdu |
