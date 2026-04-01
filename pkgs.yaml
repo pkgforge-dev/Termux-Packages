@@ -1735,7 +1735,7 @@
   Description: Extensible, customizable text editor-and more
   Homepage: https://www.gnu.org/software/emacs/
 - Package: emmylua-ls
-  Version: 0.21.0
+  Version: 0.22.0
   Description: Emmy Lua Language Server coded in Rust
   Homepage: https://github.com/EmmyLuaLs/emmylua-analyzer-rust
 - Package: emscripten
@@ -2371,7 +2371,7 @@
   Description: Simple, Portable, Free File Transfer Software for UNIX
   Homepage: http://www.columbia.edu/kermit/gkermit.html
 - Package: glab-cli
-  Version: 1.90.0
+  Version: 1.91.0
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
@@ -2523,7 +2523,7 @@
   Description: A painless self-hosted Git service
   Homepage: https://gogs.io
 - Package: gojq
-  Version: 0.12.18
+  Version: 0.12.19
   Description: Pure Go implementation of jq
   Homepage: https://github.com/itchyny/gojq
 - Package: golang
@@ -2915,7 +2915,7 @@
   Description: Command-line wrapper for git that makes you better at GitHub
   Homepage: https://hub.github.com/
 - Package: hugo
-  Version: 0.159.1
+  Version: 0.159.2
   Description: A fast and flexible static site generator
   Homepage: https://gohugo.io/
 - Package: hummin
@@ -3187,7 +3187,7 @@
   Description: A free media system for organizing and streaming media (server)
   Homepage: https://jellyfin.org
 - Package: jfrog-cli
-  Version: 2.97.0
+  Version: 2.98.0
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -5087,7 +5087,7 @@
   Description: Library of Optimized Inner Loops Runtime Compiler
   Homepage: https://gstreamer.freedesktop.org/projects/orc.html
 - Package: libosmium
-  Version: 2.23.0
+  Version: 2.23.1
   Description: Library for reading from and writing to OSM files in XML and PBF formats
   Homepage: https://osmcode.org/libosmium/
 - Package: libosmpbf
