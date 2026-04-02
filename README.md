@@ -749,7 +749,7 @@
 | **hunspell-ru** | 20210731 | Russian dictionary for hunspell | https://hunspell.github.io |
 | **hunspell-static** | 1.7.2-1 | Static libraries for hunspell | https://hunspell.github.io |
 | **hut** | 0.8.0 | A CLI tool for sr.ht | https://git.sr.ht/~xenrox/hut |
-| **hwdata** | 0.405 | Database of hardware identification and configuration data | https://github.com/vcrhonek/hwdata |
+| **hwdata** | 0.406 | Database of hardware identification and configuration data | https://github.com/vcrhonek/hwdata |
 | **hydroxide** | 0.2.31 | A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge | https://github.com/emersion/hydroxide |
 | **hyperfine** | 1.20.0 | A command-line benchmarking tool | https://github.com/sharkdp/hyperfine |
 | **hz** | 0.10.4 | A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices | https://www.cloudwego.io |
@@ -1197,8 +1197,8 @@
 | **libmesode-static** | 0.10.1-5 | Static libraries for libmesode | https://github.com/boothj5/libmesode |
 | **libmhash** | 0.9.9.9-4 | A thread-safe hash library which provides a uniform interface to hash algorithms | https://mhash.sourceforge.net/ |
 | **libmhash-static** | 0.9.9.9-4 | Static libraries for libmhash | https://mhash.sourceforge.net/ |
-| **libmicrohttpd** | 1.0.2-1 | A small C library that is supposed to make it easy to run an HTTP server as part of another application | http://www.gnu.org/software/libmicrohttpd/ |
-| **libmicrohttpd-static** | 1.0.2-1 | Static libraries for libmicrohttpd | http://www.gnu.org/software/libmicrohttpd/ |
+| **libmicrohttpd** | 1.0.3 | A small C library that is supposed to make it easy to run an HTTP server as part of another application | http://www.gnu.org/software/libmicrohttpd/ |
+| **libmicrohttpd-static** | 1.0.3 | Static libraries for libmicrohttpd | http://www.gnu.org/software/libmicrohttpd/ |
 | **libminizip** | 1.3.2-1 | Mini zip and unzip based on zlib | https://www.winimage.com/zLibDll/minizip.html |
 | **libminizip-ng** | 4.1.0 | A zip manipulation library written in C | https://github.com/zlib-ng/minizip-ng |
 | **libminizip-static** | 1.3.2-1 | Static libraries for libminizip | https://www.winimage.com/zLibDll/minizip.html |
@@ -2492,7 +2492,7 @@
 | **tokei** | 14.0.0 | A blazingly fast CLOC (Count Lines Of Code) program | https://github.com/XAMPPRocky/tokei |
 | **tome2** | 2025.12.13-1 | An open world roguelike adventure set in middle earth | https://github.com/tome2/tome2 |
 | **toml11** | 4.4.0 | toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library | https://github.com/ToruNiina/toml11 |
-| **topgrade** | 17.1.0 | Upgrade all the things | https://github.com/topgrade-rs/topgrade/ |
+| **topgrade** | 17.2.0 | Upgrade all the things | https://github.com/topgrade-rs/topgrade/ |
 | **tor** | 0.4.9.6 | The Onion Router anonymizing overlay network | https://www.torproject.org |
 | **torsocks** | 2.5.0-1 | Wrapper to safely torify applications | https://gitlab.torproject.org/tpo/core/torsocks |
 | **torsocks-static** | 2.5.0-1 | Static libraries for torsocks | https://gitlab.torproject.org/tpo/core/torsocks |
@@ -2572,8 +2572,8 @@
 | **unicorn** | 2.1.4 | Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework | https://www.unicorn-engine.org/ |
 | **unicorn-static** | 2.1.4 | Static libraries for unicorn | https://www.unicorn-engine.org/ |
 | **unifdef** | 2.12-1 | Remove #ifdef'ed lines | http://dotat.at/prog/unifdef/ |
-| **units** | 2.26-1 | Converts between different systems of units | https://www.gnu.org/software/units/ |
-| **units-cur** | 2.26-1 | units_cur Python script | https://www.gnu.org/software/units/ |
+| **units** | 2.27 | Converts between different systems of units | https://www.gnu.org/software/units/ |
+| **units-cur** | 2.27 | units_cur Python script | https://www.gnu.org/software/units/ |
 | **unixodbc** | 2.3.14 | An Open Source ODBC sub-system and an ODBC SDK for Linux, Mac OSX, and UNIX | https://www.unixodbc.org/ |
 | **unixodbc-static** | 2.3.14 | Static libraries for unixodbc | https://www.unixodbc.org/ |
 | **unpaper** | 1:7.0.0-4 | A post-processing tool for scanned sheets of paper | https://www.flameeyes.com/projects/unpaper |

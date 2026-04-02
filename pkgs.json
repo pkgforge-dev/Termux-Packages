@@ -4435,7 +4435,7 @@
   },
   {
     "Package": "hwdata",
-    "Version": "0.405",
+    "Version": "0.406",
     "Description": "Database of hardware identification and configuration data",
     "Homepage": "https://github.com/vcrhonek/hwdata"
   },
@@ -7123,13 +7123,13 @@
   },
   {
     "Package": "libmicrohttpd",
-    "Version": "1.0.2-1",
+    "Version": "1.0.3",
     "Description": "A small C library that is supposed to make it easy to run an HTTP server as part of another application",
     "Homepage": "http://www.gnu.org/software/libmicrohttpd/"
   },
   {
     "Package": "libmicrohttpd-static",
-    "Version": "1.0.2-1",
+    "Version": "1.0.3",
     "Description": "Static libraries for libmicrohttpd",
     "Homepage": "http://www.gnu.org/software/libmicrohttpd/"
   },
@@ -14893,7 +14893,7 @@
   },
   {
     "Package": "topgrade",
-    "Version": "17.1.0",
+    "Version": "17.2.0",
     "Description": "Upgrade all the things",
     "Homepage": "https://github.com/topgrade-rs/topgrade/"
   },
@@ -15373,13 +15373,13 @@
   },
   {
     "Package": "units",
-    "Version": "2.26-1",
+    "Version": "2.27",
     "Description": "Converts between different systems of units",
     "Homepage": "https://www.gnu.org/software/units/"
   },
   {
     "Package": "units-cur",
-    "Version": "2.26-1",
+    "Version": "2.27",
     "Description": "units_cur Python script",
     "Homepage": "https://www.gnu.org/software/units/"
   },
