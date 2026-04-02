@@ -259,7 +259,7 @@
   },
   {
     "Package": "ant",
-    "Version": "1.10.15-1",
+    "Version": "1.10.16",
     "Description": "Java based build tool like make",
     "Homepage": "https://ant.apache.org/"
   },
@@ -2677,7 +2677,7 @@
   },
   {
     "Package": "esbuild",
-    "Version": "0.27.4",
+    "Version": "0.27.5",
     "Description": "An extremely fast JavaScript bundler",
     "Homepage": "https://esbuild.github.io/"
   },
@@ -2725,7 +2725,7 @@
   },
   {
     "Package": "exiftool",
-    "Version": "13.53",
+    "Version": "13.54",
     "Description": "Utility for reading, writing and editing meta information in a wide variety of files.",
     "Homepage": "https://exiftool.org/"
   },
@@ -2887,13 +2887,13 @@
   },
   {
     "Package": "fetchmail",
-    "Version": "6.6.2-1",
+    "Version": "6.6.3",
     "Description": "A remote-mail retrieval utility",
     "Homepage": "https://www.fetchmail.info/"
   },
   {
     "Package": "fetchmailconf",
-    "Version": "6.6.2-1",
+    "Version": "6.6.3",
     "Description": "A GUI configurator for generating fetchmail configuration files",
     "Homepage": "https://www.fetchmail.info/"
   },
@@ -10225,25 +10225,25 @@
   },
   {
     "Package": "mesa",
-    "Version": "26.0.3",
+    "Version": "26.0.4",
     "Description": "An open-source implementation of the OpenGL specification",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-dev",
-    "Version": "26.0.3",
+    "Version": "26.0.4",
     "Description": "Mesas OpenGL headers",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-opencl-icd-rusticl",
-    "Version": "26.0.3",
+    "Version": "26.0.4",
     "Description": "Mesas Rusticl OpenCL ICD",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-vulkan-icd-swrast",
-    "Version": "26.0.3",
+    "Version": "26.0.4",
     "Description": "Mesas Swrast Vulkan ICD",
     "Homepage": "https://www.mesa3d.org"
   },
@@ -10987,7 +10987,7 @@
   },
   {
     "Package": "newsraft",
-    "Version": "0.35",
+    "Version": "0.36",
     "Description": "Newsraft is a feed reader with text-based user interface",
     "Homepage": "https://codeberg.org/newsraft/newsraft"
   },
@@ -12427,7 +12427,7 @@
   },
   {
     "Package": "pyrefly",
-    "Version": "0.59.0",
+    "Version": "0.59.1",
     "Description": "A fast type checker and language server for Python",
     "Homepage": "https://github.com/facebook/pyrefly.git"
   },
@@ -15517,7 +15517,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.11.2",
+    "Version": "0.11.3",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
@@ -15835,7 +15835,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "2.0.12",
+    "Version": "2.0.14",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },
