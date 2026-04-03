@@ -1783,7 +1783,7 @@
   Description: Erlang HTML documentation
   Homepage: https://www.erlang.org/
 - Package: esbuild
-  Version: 0.27.7
+  Version: 0.28.0
   Description: An extremely fast JavaScript bundler
   Homepage: https://esbuild.github.io/
 - Package: espeak
@@ -8343,7 +8343,7 @@
   Description: A straightforward binding of libsass for Python
   Homepage: https://github.com/sass/libsass-python
 - Package: python-llvmlite
-  Version: 0.46.0-2
+  Version: 0.47.0-2
   Description: A lightweight LLVM python binding for writing JIT compilers
   Homepage: https://llvmlite.pydata.org/
 - Package: python-lxml
@@ -10555,7 +10555,7 @@
   Description: The WebAssembly Binary Toolkit
   Homepage: https://github.com/WebAssembly/wabt
 - Package: wakatime-cli
-  Version: 2.0.14
+  Version: 2.1.2
   Description: Command line interface used by all WakaTime text editor plugins
   Homepage: https://wakatime.com/plugins/
 - Package: walk
