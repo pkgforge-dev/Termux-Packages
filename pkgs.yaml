@@ -523,7 +523,7 @@
   Description: Small, free, embeddable, source level Java interpreter with object based scripting language features written in Java
   Homepage: https://github.com/beanshell/beanshell
 - Package: bear
-  Version: 4.1.0
+  Version: 4.1.1
   Description: Bear is a tool that generates a compilation database for clang tooling.
   Homepage: https://github.com/rizsotto/Bear
 - Package: bed
@@ -2115,7 +2115,7 @@
   Description: Interactive JSON viewer on your terminal
   Homepage: https://github.com/antonmedv/fx
 - Package: fzf
-  Version: 0.70.0
+  Version: 0.71.0
   Description: Command-line fuzzy finder
   Homepage: https://junegunn.github.io/fzf/
 - Package: fzy
@@ -4627,7 +4627,7 @@
   Description: Static libraries for liblog4c
   Homepage: https://log4c.sourceforge.net/
 - Package: liblog4cxx
-  Version: 1.6.1
+  Version: 1.7.0
   Description: A logging framework for C++ patterned after Apache log4j
   Homepage: https://logging.apache.org/log4cxx/latest_stable/index.html
 - Package: liblqr
@@ -7259,7 +7259,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-60+g3cb79189f3-0
+  Version: 0.13.0~dev-67+g164dfa1d5f-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -10783,7 +10783,7 @@
   Description: X.Org X11 Protocol headers
   Homepage: https://xorg.freedesktop.org/
 - Package: xorriso
-  Version: 1:1.5.7-3
+  Version: 1:1.5.8
   Description: Tool for creating ISO files
   Homepage: https://www.gnu.org/software/xorriso
 - Package: xsltproc
