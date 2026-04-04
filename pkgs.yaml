@@ -1415,7 +1415,7 @@
   Description: Static libraries for docopt
   Homepage: http://docopt.org
 - Package: doctest
-  Version: 2.5.0
+  Version: 2.5.1
   Description: The fastest feature-rich C++11/14/17/20 single-header testing framework
   Homepage: https://github.com/doctest/doctest
 - Package: doge
@@ -9171,7 +9171,7 @@
   Description: Implementations of SIMD instructions for all systems
   Homepage: https://simd-everywhere.github.io/
 - Package: simdjson
-  Version: 4.6.0
+  Version: 4.6.1
   Description: A C++ library to see how fast we can parse JSON with complete validation
   Homepage: https://simdjson.org/
 - Package: simh
@@ -10571,7 +10571,7 @@
   Description: Libc for WebAssembly programs built on top of WASI system calls
   Homepage: https://wasi.dev/
 - Package: wasm-component-ld
-  Version: 0.5.21
+  Version: 0.5.22
   Description: Command line linker for creating WebAssembly components
   Homepage: https://github.com/bytecodealliance/wasm-component-ld
 - Package: watchexec

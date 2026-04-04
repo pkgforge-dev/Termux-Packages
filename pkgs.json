@@ -2125,7 +2125,7 @@
   },
   {
     "Package": "doctest",
-    "Version": "2.5.0",
+    "Version": "2.5.1",
     "Description": "The fastest feature-rich C++11/14/17/20 single-header testing framework",
     "Homepage": "https://github.com/doctest/doctest"
   },
@@ -13759,7 +13759,7 @@
   },
   {
     "Package": "simdjson",
-    "Version": "4.6.0",
+    "Version": "4.6.1",
     "Description": "A C++ library to see how fast we can parse JSON with complete validation",
     "Homepage": "https://simdjson.org/"
   },
@@ -15859,7 +15859,7 @@
   },
   {
     "Package": "wasm-component-ld",
-    "Version": "0.5.21",
+    "Version": "0.5.22",
     "Description": "Command line linker for creating WebAssembly components",
     "Homepage": "https://github.com/bytecodealliance/wasm-component-ld"
   },

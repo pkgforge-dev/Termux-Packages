@@ -364,7 +364,7 @@
 | **docbook-xsl** | 1.79.2-4 | XML stylesheets for Docbook-xml transformations | https://docbook.org/ |
 | **docopt** | 0.6.3-4 | Command line arguments parser for C++11 and later | http://docopt.org |
 | **docopt-static** | 0.6.3-4 | Static libraries for docopt | http://docopt.org |
-| **doctest** | 2.5.0 | The fastest feature-rich C++11/14/17/20 single-header testing framework | https://github.com/doctest/doctest |
+| **doctest** | 2.5.1 | The fastest feature-rich C++11/14/17/20 single-header testing framework | https://github.com/doctest/doctest |
 | **doge** | 0.2.8-2 | A command-line DNS client | https://github.com/Dj-Codeman/dog_community |
 | **dopewars** | 1.6.2-1 | Drug-dealing game set in streets of New York City | https://dopewars.sourceforge.io |
 | **dos2unix** | 7.5.4 | Converts between DOS and Unix text files | https://waterlan.home.xs4all.nl/dos2unix.html |
@@ -2303,7 +2303,7 @@
 | **silicon** | 0.5.3-1 | Silicon is an alternative to Carbon implemented in Rust | https://github.com/Aloxaf/silicon |
 | **silversearcher-ag** | 2.2.0-6 | Fast grep-like program, alternative to ack-grep | https://geoff.greer.fm/ag/ |
 | **simde** | 0.8.2 | Implementations of SIMD instructions for all systems | https://simd-everywhere.github.io/ |
-| **simdjson** | 4.6.0 | A C++ library to see how fast we can parse JSON with complete validation | https://simdjson.org/ |
+| **simdjson** | 4.6.1 | A C++ library to see how fast we can parse JSON with complete validation | https://simdjson.org/ |
 | **simh** | 1:3.12.5-1 | A collection of simulators for computer hardware and software from the past | http://simh.trailing-edge.com/ |
 | **simulavr** | 1:1.1.0-3 | Simulator for Microchip AVR (formerly Atmel) microcontrollers | https://www.nongnu.org/simulavr |
 | **sing-box** | 1.13.5 | The universal proxy platform | https://sing-box.sagernet.org |
@@ -2653,7 +2653,7 @@
 | **walk** | 1.13.0 | A terminal file manager | https://github.com/antonmedv/walk |
 | **wallust** | 3.5.2 | Generate colors from an image | https://explosion-mental.codeberg.page/wallust |
 | **wasi-libc** | 30 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |
-| **wasm-component-ld** | 0.5.21 | Command line linker for creating WebAssembly components | https://github.com/bytecodealliance/wasm-component-ld |
+| **wasm-component-ld** | 0.5.22 | Command line linker for creating WebAssembly components | https://github.com/bytecodealliance/wasm-component-ld |
 | **watchexec** | 2.5.1 | Executes commands in response to file modifications | https://github.com/watchexec/watchexec |
 | **wavpack** | 5.9.0 | WavPack command-line programs | https://www.wavpack.com/ |
 | **waypipe** | 0.11.0 | A proxy for Wayland clients | https://gitlab.freedesktop.org/mstoeckl/waypipe |
