@@ -864,7 +864,7 @@
 | **leptonica** | 1.87.0 | Library for image processing and image analysis | http://www.leptonica.com/ |
 | **leptonica-static** | 1.87.0 | Static libraries for leptonica | http://www.leptonica.com/ |
 | **less** | 692 | Terminal pager program used to view the contents of a text file one screen at a time | https://www.greenwoodsoftware.com/less/ |
-| **lesspipe** | 2.23 | An input filter for the pager less | https://lesspipe.org/ |
+| **lesspipe** | 2.24 | An input filter for the pager less | https://lesspipe.org/ |
 | **leveldb** | 1.23-4 | Fast key-value storage library | https://github.com/google/leveldb |
 | **lexbor** | 3.0.0 | Fast embeddable web browser engine written in C with no dependencies | https://lexbor.com |
 | **lexter** | 1.0.3-5 | A real-time word puzzle for text terminals | https://www.kyne.au/~mark/software/lexter.php |
