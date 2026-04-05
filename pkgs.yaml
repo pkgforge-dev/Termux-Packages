@@ -5935,11 +5935,11 @@
   Description: Static libraries for libvisio
   Homepage: https://wiki.documentfoundation.org/DLP/Libraries/libvisio
 - Package: libvmaf
-  Version: 3.0.0-2
+  Version: 3.1.0-1
   Description: A perceptual video quality assessment algorithm developed by Netflix
   Homepage: https://github.com/Netflix/vmaf
 - Package: libvmaf-static
-  Version: 3.0.0-2
+  Version: 3.1.0-1
   Description: Static libraries for libvmaf
   Homepage: https://github.com/Netflix/vmaf
 - Package: libvo-amrwbenc
@@ -8419,19 +8419,19 @@
   Description: Tools for publishing from TLDP sources
   Homepage: https://github.com/tLDP/python-tldp
 - Package: python-torch
-  Version: 2.10.0-4
+  Version: 2.11.0
   Description: Tensors and Dynamic neural networks in Python
   Homepage: https://pytorch.org/
 - Package: python-torch-static
-  Version: 2.10.0-4
+  Version: 2.11.0
   Description: Static libraries for python-torch
   Homepage: https://pytorch.org/
 - Package: python-torchaudio
-  Version: 2.10.0-1
+  Version: 2.11.0
   Description: Data manipulation and transformation for audio signal processing, powered by PyTorch
   Homepage: https://github.com/pytorch/audio
 - Package: python-torchcodec
-  Version: 0.10.0-1
+  Version: 0.11.0
   Description: PyTorch media decoding and encoding
   Homepage: https://github.com/pytorch/torchcodec
 - Package: python-torchvision
