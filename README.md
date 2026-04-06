@@ -1335,8 +1335,8 @@
 | **librasqal-static** | 0.9.33-4 | Static libraries for librasqal | https://librdf.org/rasqal/ |
 | **librav1e** | 0.8.1 | An AV1 encoder library focused on speed and safety | https://github.com/xiph/rav1e/ |
 | **librav1e-static** | 0.8.1 | Static libraries for librav1e | https://github.com/xiph/rav1e/ |
-| **libraw** | 0.22.0 | Library for reading RAW files from digital cameras | https://www.libraw.org/ |
-| **libraw-static** | 0.22.0 | Static libraries for libraw | https://www.libraw.org/ |
+| **libraw** | 0.22.1 | Library for reading RAW files from digital cameras | https://www.libraw.org/ |
+| **libraw-static** | 0.22.1 | Static libraries for libraw | https://www.libraw.org/ |
 | **libre2** | 2025-11-05-1 | A regular expression library | https://github.com/google/re2 |
 | **libregexp-assemble-perl** | 0.38-8 | Perl module to merge several regular expressions | https://metacpan.org/pod/Regexp::Assemble |
 | **libresolv-wrapper** | 1.1.7-6 | A wrapper for DNS name resolving or DNS faking | https://cwrap.org/resolv_wrapper.html |
@@ -1578,7 +1578,7 @@
 | **libyaml-static** | 0.2.5-5 | Static libraries for libyaml | https://pyyaml.org/wiki/LibYAML |
 | **libzen** | 0.4.41-1 | ZenLib C++ utility library | https://mediaarea.net/en/MediaInfo |
 | **libzen-static** | 0.4.41-1 | Static libraries for libzen | https://mediaarea.net/en/MediaInfo |
-| **libzim** | 9.5.1 | The ZIM library is the reference implementation for the ZIM file format. | https://openzim.org |
+| **libzim** | 9.6.0 | The ZIM library is the reference implementation for the ZIM file format. | https://openzim.org |
 | **libzimg** | 3.0.6 | Scaling, colorspace conversion, and dithering library | https://github.com/sekrit-twc/zimg |
 | **libzimg-static** | 3.0.6 | Static libraries for libzimg | https://github.com/sekrit-twc/zimg |
 | **libzip** | 1.11.4-1 | Library for reading, creating, and modifying zip archives | https://libzip.org/ |
