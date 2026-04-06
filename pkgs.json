@@ -247,7 +247,7 @@
   },
   {
     "Package": "ani-cli",
-    "Version": "4.10-1",
+    "Version": "4.11",
     "Description": "A cli to browse and watch anime",
     "Homepage": "https://github.com/pystardust/ani-cli"
   },
@@ -799,7 +799,7 @@
   },
   {
     "Package": "bftpd",
-    "Version": "6.3-1",
+    "Version": "6.6",
     "Description": "Small, easy-to-configure FTP server",
     "Homepage": "https://bftpd.sourceforge.net/"
   },
@@ -5059,7 +5059,7 @@
   },
   {
     "Package": "lazygit",
-    "Version": "0.60.0",
+    "Version": "0.61.0",
     "Description": "Simple terminal UI for git commands",
     "Homepage": "https://github.com/jesseduffield/lazygit"
   },
@@ -8641,7 +8641,7 @@
   },
   {
     "Package": "libtorrent",
-    "Version": "0.16.8",
+    "Version": "0.16.9",
     "Description": "Libtorrent BitTorrent library",
     "Homepage": "https://github.com/rakshasa/rtorrent/wiki"
   },
@@ -8653,7 +8653,7 @@
   },
   {
     "Package": "libtorrent-static",
-    "Version": "0.16.8",
+    "Version": "0.16.9",
     "Description": "Static libraries for libtorrent",
     "Homepage": "https://github.com/rakshasa/rtorrent/wiki"
   },
@@ -10879,13 +10879,13 @@
   },
   {
     "Package": "neomutt",
-    "Version": "20260105",
+    "Version": "20260406",
     "Description": "A version of mutt with added features",
     "Homepage": "https://neomutt.org/"
   },
   {
     "Package": "neovim",
-    "Version": "0.12.0-1",
+    "Version": "0.12.1",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim)",
     "Homepage": "https://neovim.io/"
   },
@@ -13297,7 +13297,7 @@
   },
   {
     "Package": "rtorrent",
-    "Version": "0.16.8",
+    "Version": "0.16.9",
     "Description": "Ncurses BitTorrent client based on libTorrent",
     "Homepage": "https://rakshasa.github.io/rtorrent/"
   },
@@ -13777,7 +13777,7 @@
   },
   {
     "Package": "sing-box",
-    "Version": "1.13.5",
+    "Version": "1.13.6",
     "Description": "The universal proxy platform",
     "Homepage": "https://sing-box.sagernet.org"
   },
@@ -14251,7 +14251,7 @@
   },
   {
     "Package": "stylua",
-    "Version": "2.4.0",
+    "Version": "2.4.1",
     "Description": "An opinionated Lua code formatter",
     "Homepage": "https://github.com/JohnnyMorganz/StyLua"
   },

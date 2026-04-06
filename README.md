@@ -51,7 +51,7 @@
 | **angband** | 4.2.6 | Dungeon exploration adventure game | https://rephial.org/ |
 | **angle-android** | 2.1.24923-f09a19ce-2 | A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android | https://chromium.googlesource.com/angle/angle |
 | **angle-grinder** | 0.19.6-1 | Slice and dice logs on the command line | https://github.com/rcoh/angle-grinder |
-| **ani-cli** | 4.10-1 | A cli to browse and watch anime | https://github.com/pystardust/ani-cli |
+| **ani-cli** | 4.11 | A cli to browse and watch anime | https://github.com/pystardust/ani-cli |
 | **ansifilter** | 2.22 | Strip or convert ANSI codes into HTML, (La)Tex, RTF, or BBCode | http://www.andre-simon.de/doku/ansifilter/en/ansifilter.php |
 | **ant** | 1.10.16 | Java based build tool like make | https://ant.apache.org/ |
 | **antibody** | 6.1.1-3 | The fastest shell plugin manager | https://github.com/getantibody/antibody |
@@ -143,7 +143,7 @@
 | **beanshell** | 2.1.1-1 | Small, free, embeddable, source level Java interpreter with object based scripting language features written in Java | https://github.com/beanshell/beanshell |
 | **bear** | 4.1.1 | Bear is a tool that generates a compilation database for clang tooling. | https://github.com/rizsotto/Bear |
 | **bed** | 0.2.8 | Binary editor written in GO | https://github.com/itchyny/bed |
-| **bftpd** | 6.3-1 | Small, easy-to-configure FTP server | https://bftpd.sourceforge.net/ |
+| **bftpd** | 6.6 | Small, easy-to-configure FTP server | https://bftpd.sourceforge.net/ |
 | **bgrep** | 1.0-5 | Binary string grep tool | https://debugmo.de/2009/04/bgrep-a-binary-grep/ |
 | **biboumi** | 9.0-5 | An XMPP gateway that connects to IRC servers and translates between the two protocols | https://biboumi.louiz.org/ |
 | **binaryen** | 129 | Binaryen is a compiler and toolchain infrastructure library for WebAssembly | https://github.com/WebAssembly/binaryen |
@@ -853,7 +853,7 @@
 | **ladspa-sdk** | 1.17-3 | Linux Audio Developer's Simple Plugin API | https://www.ladspa.org/ |
 | **lame** | 3.100-7 | High quality MPEG Audio Layer III (MP3) encoder - frontend | https://lame.sourceforge.io/ |
 | **lastpass-cli** | 1.6.1-4 | LastPass command line interface tool | https://lastpass.com/ |
-| **lazygit** | 0.60.0 | Simple terminal UI for git commands | https://github.com/jesseduffield/lazygit |
+| **lazygit** | 0.61.0 | Simple terminal UI for git commands | https://github.com/jesseduffield/lazygit |
 | **lcal** | 2.1.0-1 | A multi-platform program which generates PostScript lunar calendars in a yearly format | https://pcal.sourceforge.net/ |
 | **ldc** | 1.30.0-3 | D programming language compiler, built with LLVM | https://github.com/ldc-developers/ldc |
 | **ldd** | 0.3-2 | Fake ldd command | https://github.com/termux/termux-packages |
@@ -1450,9 +1450,9 @@
 | **libtommath** | 1.3.0 | A free open source portable number theoretic multiple-precision integer library | https://www.libtom.net/LibTomMath/ |
 | **libtommath-static** | 1.3.0 | Static libraries for libtommath | https://www.libtom.net/LibTomMath/ |
 | **libtool** | 2.5.4-2 | Generic library support script hiding the complexity of using shared libraries behind a consistent, portable interface | https://www.gnu.org/software/libtool/ |
-| **libtorrent** | 0.16.8 | Libtorrent BitTorrent library | https://github.com/rakshasa/rtorrent/wiki |
+| **libtorrent** | 0.16.9 | Libtorrent BitTorrent library | https://github.com/rakshasa/rtorrent/wiki |
 | **libtorrent-rasterbar** | 2.0.12 | A feature complete C++ bittorrent implementation focusing on efficiency and scalability | https://libtorrent.org/ |
-| **libtorrent-static** | 0.16.8 | Static libraries for libtorrent | https://github.com/rakshasa/rtorrent/wiki |
+| **libtorrent-static** | 0.16.9 | Static libraries for libtorrent | https://github.com/rakshasa/rtorrent/wiki |
 | **libtpms** | 0.10.2 | Provides software emulation of a Trusted Platform Module (TPM 1.2 and TPM 2.0) | https://github.com/stefanberger/libtpms |
 | **libtpms-static** | 0.10.2 | Static libraries for libtpms | https://github.com/stefanberger/libtpms |
 | **libtranscript** | 0.3.4-1 | A character-set conversion library | https://os.ghalkes.nl/libtranscript.html |
@@ -1823,8 +1823,8 @@
 | **nelua** | 2024.01.13-1 | Minimal, efficient, statically-typed and meta-programmable systems programming language | https://nelua.io |
 | **neocmakelsp** | 0.10.1 | a cmake lsp based on tower-lsp and treesitter | https://neocmakelsp.github.io/ |
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
-| **neomutt** | 20260105 | A version of mutt with added features | https://neomutt.org/ |
-| **neovim** | 0.12.0-1 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
+| **neomutt** | 20260406 | A version of mutt with added features | https://neomutt.org/ |
+| **neovim** | 0.12.1 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
 | **neovim-nightly** | 0.13.0~dev-91+geb9be11da8-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
 | **nerdfix** | 0.4.2-1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.5.2 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
@@ -2226,7 +2226,7 @@
 | **rsync** | 3.4.1-1 | Fast incremental file transfer utility | https://rsync.samba.org/ |
 | **rtmpdump** | 2.6-1 | Small dumper for media content streamed over the RTMP protocol | https://rtmpdump.mplayerhq.hu/ |
 | **rtmpdump-static** | 2.6-1 | Static libraries for rtmpdump | https://rtmpdump.mplayerhq.hu/ |
-| **rtorrent** | 0.16.8 | Ncurses BitTorrent client based on libTorrent | https://rakshasa.github.io/rtorrent/ |
+| **rtorrent** | 0.16.9 | Ncurses BitTorrent client based on libTorrent | https://rakshasa.github.io/rtorrent/ |
 | **rubberband** | 4.0.0-1 | An audio time-stretching and pitch-shifting library and utility program | https://breakfastquay.com/rubberband/ |
 | **rubberband-ladspa** | 4.0.0-1 | LADSPA plugin for Rubber Band | https://breakfastquay.com/rubberband/ |
 | **rubberband-lv2** | 4.0.0-1 | LV2 plugin for Rubber Band | https://breakfastquay.com/rubberband/ |
@@ -2306,7 +2306,7 @@
 | **simdjson** | 4.6.1 | A C++ library to see how fast we can parse JSON with complete validation | https://simdjson.org/ |
 | **simh** | 1:3.12.5-1 | A collection of simulators for computer hardware and software from the past | http://simh.trailing-edge.com/ |
 | **simulavr** | 1:1.1.0-3 | Simulator for Microchip AVR (formerly Atmel) microcontrollers | https://www.nongnu.org/simulavr |
-| **sing-box** | 1.13.5 | The universal proxy platform | https://sing-box.sagernet.org |
+| **sing-box** | 1.13.6 | The universal proxy platform | https://sing-box.sagernet.org |
 | **skate** | 1.0.1-1 | A personal key-value store | https://github.com/charmbracelet/skate |
 | **sl** | 5.05-1 | Tool curing your bad habit of mistyping | https://github.com/mtoyoda/sl |
 | **slang** | 2.3.3-2 | S-Lang is a powerful interpreted language | https://www.jedsoft.org/slang/ |
@@ -2385,7 +2385,7 @@
 | **stunnel** | 5.77 | Socket wrapper which can provide TLS support to ordinary applications | https://www.stunnel.org/ |
 | **stunnel-static** | 5.77 | Static libraries for stunnel | https://www.stunnel.org/ |
 | **stuntman** | 1.2.16-7 | An open source STUN server | https://www.stunprotocol.org/ |
-| **stylua** | 2.4.0 | An opinionated Lua code formatter | https://github.com/JohnnyMorganz/StyLua |
+| **stylua** | 2.4.1 | An opinionated Lua code formatter | https://github.com/JohnnyMorganz/StyLua |
 | **subtitleripper** | 0.3.4-1 | DVD subtitle ripper for Linux | https://subtitleripper.sourceforge.net/ |
 | **subversion** | 1.14.5-1 | Centralized version control system characterized by its simplicity | https://subversion.apache.org |
 | **subversion-perl** | 1.14.5-1 | Perl interface to Subversion | https://subversion.apache.org |
