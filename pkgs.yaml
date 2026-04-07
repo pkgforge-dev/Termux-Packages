@@ -2071,7 +2071,7 @@
   Description: Minimalistic plugin API for video effects
   Homepage: https://www.dyne.org/software/frei0r/
 - Package: fresh-editor
-  Version: 0.2.21
+  Version: 0.2.22
   Description: 'Text editor for your terminal: easy, powerful and fast'
   Homepage: https://getfresh.dev/
 - Package: fribidi
@@ -2791,7 +2791,7 @@
   Description: A toolkit for creating structured configuration languages
   Homepage: https://github.com/hashicorp/hcl
 - Package: hcloud
-  Version: 1.62.0
+  Version: 1.62.2
   Description: Hetzner Cloud command line client
   Homepage: https://github.com/hetznercloud/cli
 - Package: helix
@@ -3707,7 +3707,7 @@
   Description: C++ Standard Library
   Homepage: https://libcxx.llvm.org/
 - Package: libc++utilities
-  Version: 5.33.0
+  Version: 5.34.0
   Description: Useful C++ classes and routines such as argument parser, IO and conversion utilities
   Homepage: https://github.com/Martchus/cpp-utilities
 - Package: libc-client
@@ -7491,7 +7491,7 @@
   Description: The GNU Spreadsheet
   Homepage: https://www.gnu.org/software/oleo/
 - Package: oma
-  Version: 1.25.1-1
+  Version: 1.25.2
   Description: oma is an attempt at reworking APTs interface
   Homepage: https://aosc.io/oma
 - Package: onefetch
@@ -9599,7 +9599,7 @@
   Description: Static libraries for swtpm
   Homepage: https://github.com/stefanberger/swtpm
 - Package: syncthing
-  Version: 2.0.15
+  Version: 2.0.16
   Description: Decentralized file synchronization
   Homepage: https://syncthing.net/
 - Package: sysprop
@@ -10159,7 +10159,7 @@
   Description: A single and trusted place for all unofficial/less popular termux packages
   Homepage: https://github.com/termux-user-repository/tur
 - Package: turbo
-  Version: 2.9.4
+  Version: 2.9.5
   Description: High-performance build system for JS/TS
   Homepage: https://turbo.build/
 - Package: tut
