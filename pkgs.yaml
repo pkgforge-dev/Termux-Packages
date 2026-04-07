@@ -1775,11 +1775,11 @@
   Description: Event Notify Test Runner - run arbitrary commands when files change
   Homepage: https://eradman.com/entrproject/
 - Package: erlang
-  Version: 28.4.1
+  Version: 28.4.2
   Description: General-purpose concurrent functional programming language
   Homepage: https://www.erlang.org/
 - Package: erlang-doc
-  Version: 28.4.1
+  Version: 28.4.2
   Description: Erlang HTML documentation
   Homepage: https://www.erlang.org/
 - Package: esbuild
@@ -9663,7 +9663,7 @@
   Description: Telegram downloader/tools written in Golang
   Homepage: https://docs.iyear.me/tdl/
 - Package: tea
-  Version: 0.12.0
+  Version: 0.13.0
   Description: The official CLI for Gitea
   Homepage: https://gitea.com/gitea/tea
 - Package: tealdeer
