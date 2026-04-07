@@ -8283,7 +8283,7 @@
   Description: Tkinter support for PyPy 3
   Homepage: https://pypy.org
 - Package: pyrefly
-  Version: 0.59.1
+  Version: 0.60.0
   Description: A fast type checker and language server for Python
   Homepage: https://github.com/facebook/pyrefly.git
 - Package: pystring
@@ -9139,7 +9139,7 @@
   Description: Implementation of a web server that can export arbitrary command line tools to a web based terminal emulator
   Homepage: https://github.com/shellinabox/shellinabox
 - Package: shfmt
-  Version: 3.13.0
+  Version: 3.13.1
   Description: A shell parser and formatter
   Homepage: https://github.com/mvdan/sh
 - Package: shiori
@@ -10527,7 +10527,7 @@
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
-  Version: 1.4.347
+  Version: 1.4.348
   Description: Vulkan Tools and Utilities
   Homepage: https://github.com/KhronosGroup/Vulkan-Tools
 - Package: vulkan-utility-libraries
