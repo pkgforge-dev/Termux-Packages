@@ -1815,7 +1815,7 @@
   Description: Open source xHE-AAC encoder
   Homepage: https://gitlab.com/ecodis/exhale
 - Package: exiftool
-  Version: "13.54"
+  Version: "13.55"
   Description: Utility for reading, writing and editing meta information in a wide variety of files.
   Homepage: https://exiftool.org/
 - Package: exiv2
@@ -6883,7 +6883,7 @@
   Description: Multi-Cloud Object Storage
   Homepage: https://min.io/
 - Package: miniserve
-  Version: 0.33.0
+  Version: 0.34.0
   Description: Tool to serve files and dirs over HTTP
   Homepage: https://github.com/svenstaro/miniserve
 - Package: minisign
@@ -7327,7 +7327,7 @@
   Description: Newsraft is a feed reader with text-based user interface
   Homepage: https://codeberg.org/newsraft/newsraft
 - Package: nginx
-  Version: 1.29.7
+  Version: 1.29.8
   Description: Lightweight HTTP server
   Homepage: https://www.nginx.org
 - Package: ngircd
