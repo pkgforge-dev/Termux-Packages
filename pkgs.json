@@ -12493,7 +12493,7 @@
   },
   {
     "Package": "python-greenlet",
-    "Version": "3.3.2-1",
+    "Version": "3.4.0",
     "Description": "Lightweight coroutines for in-process concurrent programming",
     "Homepage": "https://github.com/python-greenlet/greenlet"
   },
@@ -12985,7 +12985,7 @@
   },
   {
     "Package": "rclone",
-    "Version": "1.73.3",
+    "Version": "1.73.4",
     "Description": "rsync for cloud storage",
     "Homepage": "https://rclone.org/"
   },
@@ -13861,19 +13861,19 @@
   },
   {
     "Package": "snowflake",
-    "Version": "2.12.1",
+    "Version": "2.13.1",
     "Description": "Pluggable Transport using WebRTC, inspired by Flashproxy",
     "Homepage": "https://snowflake.torproject.org/"
   },
   {
     "Package": "snowflake-client",
-    "Version": "2.12.1",
+    "Version": "2.13.1",
     "Description": "Pluggable Transport using WebRTC, inspired by Flashproxy (Client)",
     "Homepage": "https://snowflake.torproject.org/"
   },
   {
     "Package": "snowflake-proxy",
-    "Version": "2.12.1",
+    "Version": "2.13.1",
     "Description": "Pluggable Transport using WebRTC, inspired by Flashproxy (Proxy)",
     "Homepage": "https://snowflake.torproject.org/"
   },
@@ -14209,7 +14209,7 @@
   },
   {
     "Package": "storj-uplink",
-    "Version": "1.150.3",
+    "Version": "1.151.3",
     "Description": "Storj DCS Uplink CLI",
     "Homepage": "https://www.storj.io/integrations/uplink-cli"
   },
@@ -16291,7 +16291,7 @@
   },
   {
     "Package": "yosys",
-    "Version": "0.63-1",
+    "Version": "0.64",
     "Description": "A framework for RTL synthesis tools",
     "Homepage": "https://yosyshq.net/yosys/"
   },

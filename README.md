@@ -2092,7 +2092,7 @@
 | **python-contourpy** | 1.3.3-4 | Python library for calculating contours in 2D quadrilateral grids | https://contourpy.readthedocs.io/ |
 | **python-cryptography** | 46.0.7 | Provides cryptographic recipes and primitives to Python developers | https://github.com/pyca/cryptography |
 | **python-ensurepip-wheels** | 3.13.12-5 | Wheels for Python ensurepip | https://python.org/ |
-| **python-greenlet** | 3.3.2-1 | Lightweight coroutines for in-process concurrent programming | https://github.com/python-greenlet/greenlet |
+| **python-greenlet** | 3.4.0 | Lightweight coroutines for in-process concurrent programming | https://github.com/python-greenlet/greenlet |
 | **python-grpcio** | 1.80.0 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
 | **python-lameenc** | 1.8.2 | Python bindings around the LAME encoder | https://github.com/chrisstaite/lameenc |
 | **python-libsass** | 0.23.0-2 | A straightforward binding of libsass for Python | https://github.com/sass/libsass-python |
@@ -2174,7 +2174,7 @@
 | **ravencoin-static** | 4.6.1-9 | Static libraries for ravencoin | https://ravencoin.org/ |
 | **rbw** | 1.15.0 | An unofficial command line client for Bitwarden | https://github.com/doy/rbw |
 | **rc** | 1.7.4-2 | An alternative implementation of the plan 9 rc shell | https://github.com/rakitzis/rc |
-| **rclone** | 1.73.3 | rsync for cloud storage | https://rclone.org/ |
+| **rclone** | 1.73.4 | rsync for cloud storage | https://rclone.org/ |
 | **rcm** | 1.3.6 | Dotfiles management | https://github.com/thoughtbot/rcm |
 | **rcs** | 5.10.1-1 | The GNU Revision Control System | https://www.gnu.org/s/rcs |
 | **rdfind** | 1.8.0 | A tool for finding duplicate files | https://github.com/pauldreik/rdfind |
@@ -2320,9 +2320,9 @@
 | **snapcast-client** | 0.35.0 | A multiroom client-server audio player (client) | https://github.com/snapcast/snapcast |
 | **snapcast-server** | 0.35.0 | A multiroom client-server audio player (server) | https://github.com/snapcast/snapcast |
 | **snmptt** | 1.5 | SNMP trap translator | http://www.snmptt.org/ |
-| **snowflake** | 2.12.1 | Pluggable Transport using WebRTC, inspired by Flashproxy | https://snowflake.torproject.org/ |
-| **snowflake-client** | 2.12.1 | Pluggable Transport using WebRTC, inspired by Flashproxy (Client) | https://snowflake.torproject.org/ |
-| **snowflake-proxy** | 2.12.1 | Pluggable Transport using WebRTC, inspired by Flashproxy (Proxy) | https://snowflake.torproject.org/ |
+| **snowflake** | 2.13.1 | Pluggable Transport using WebRTC, inspired by Flashproxy | https://snowflake.torproject.org/ |
+| **snowflake-client** | 2.13.1 | Pluggable Transport using WebRTC, inspired by Flashproxy (Client) | https://snowflake.torproject.org/ |
+| **snowflake-proxy** | 2.13.1 | Pluggable Transport using WebRTC, inspired by Flashproxy (Proxy) | https://snowflake.torproject.org/ |
 | **socat** | 1.8.1.1 | Relay for bidirectional data transfer between two independent data channels | http://www.dest-unreach.org/socat/ |
 | **softether-vpn** | 5.2.5188-1 | An open-source cross-platform multi-protocol VPN program | https://www.softether.org/ |
 | **softether-vpn-static** | 5.2.5188-1 | Static libraries for softether-vpn | https://www.softether.org/ |
@@ -2378,7 +2378,7 @@
 | **stoken** | 0.93-3 | Software Token for Linux/UNIX | https://github.com/cernekee/stoken |
 | **stoken-static** | 0.93-3 | Static libraries for stoken | https://github.com/cernekee/stoken |
 | **stone** | 2.4-3 | A TCP/IP repeater in the application layer | https://www.gcd.org/sengoku/stone/ |
-| **storj-uplink** | 1.150.3 | Storj DCS Uplink CLI | https://www.storj.io/integrations/uplink-cli |
+| **storj-uplink** | 1.151.3 | Storj DCS Uplink CLI | https://www.storj.io/integrations/uplink-cli |
 | **stow** | 2.4.1 | Tool for managing the installation of multiple software packages into a single directory | https://www.gnu.org/software/stow/ |
 | **strace** | 6.19 | Debugging utility to monitor system calls and signals received | https://strace.io/ |
 | **streamripper** | 1.64.6-3 | Records and splits streaming mp3 into tracks | https://streamripper.sourceforge.net/ |
@@ -2725,7 +2725,7 @@
 | **yasm-static** | 1.3.0-7 | Static libraries for yasm | https://yasm.tortall.net/ |
 | **yazi** | 26.1.22-1 | Blazing fast terminal file manager written in Rust, based on async I/O | https://yazi-rs.github.io/ |
 | **yoga** | 3.2.1 | Embeddable layout engine targeting web standards | https://www.yogalayout.dev/ |
-| **yosys** | 0.63-1 | A framework for RTL synthesis tools | https://yosyshq.net/yosys/ |
+| **yosys** | 0.64 | A framework for RTL synthesis tools | https://yosyshq.net/yosys/ |
 | **youtubedr** | 2.10.6 | Download youtube video in Golang | https://github.com/kkdai/youtube |
 | **yq** | 4.52.5 | A lightweight and portable command-line YAML, JSON and XML processor | https://mikefarah.gitbook.io/yq/ |
 | **yt-dlp-ejs** | 0.8.0 | External JavaScript for yt-dlp supporting many runtimes | https://github.com/yt-dlp/ejs |
