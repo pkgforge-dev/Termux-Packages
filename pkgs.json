@@ -4093,7 +4093,7 @@
   },
   {
     "Package": "gstreamer",
-    "Version": "1.28.1",
+    "Version": "1.28.2",
     "Description": "Open source multimedia framework",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
@@ -10891,7 +10891,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-104+g6b0367481c-0",
+    "Version": "0.13.0~dev-110+g8603fc9180-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -12481,7 +12481,7 @@
   },
   {
     "Package": "python-cryptography",
-    "Version": "46.0.6",
+    "Version": "46.0.7",
     "Description": "Provides cryptographic recipes and primitives to Python developers",
     "Homepage": "https://github.com/pyca/cryptography"
   },
@@ -13579,13 +13579,13 @@
   },
   {
     "Package": "seafile-client",
-    "Version": "9.0.17",
+    "Version": "9.0.18",
     "Description": "Seafile is a file syncing and sharing software with file encryption and group sharing",
     "Homepage": "https://seafile.com"
   },
   {
     "Package": "seafile-client-static",
-    "Version": "9.0.17",
+    "Version": "9.0.18",
     "Description": "Static libraries for seafile-client",
     "Homepage": "https://seafile.com"
   },
@@ -15517,7 +15517,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.11.3",
+    "Version": "0.11.4",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
@@ -15715,7 +15715,7 @@
   },
   {
     "Package": "vivid",
-    "Version": "0.10.1-1",
+    "Version": "0.11.0",
     "Description": "A themeable LS_COLORS generator with a rich filetype datebase",
     "Homepage": "https://github.com/sharkdp/vivid"
   },
