@@ -2703,27 +2703,27 @@
   Description: Static libraries for gsl
   Homepage: https://www.gnu.org/software/gsl/
 - Package: gst-libav
-  Version: 1.28.1
+  Version: 1.28.2
   Description: GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code
   Homepage: https://gstreamer.freedesktop.org/modules/gst-libav.html
 - Package: gst-plugins-bad
-  Version: 1.28.1
+  Version: 1.28.2
   Description: GStreamer Bad Plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-plugins-base
-  Version: 1.28.1
+  Version: 1.28.2
   Description: GStreamer base plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-plugins-good
-  Version: 1.28.1
+  Version: 1.28.2
   Description: GStreamer Good Plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-plugins-ugly
-  Version: 1.28.1
+  Version: 1.28.2
   Description: GStreamer Ugly Plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-python
-  Version: 1.28.1-1
+  Version: 1.28.2
   Description: Python bindings for GStreamer
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gstreamer
@@ -6447,7 +6447,7 @@
   Description: Tracks runtime library calls in dynamically linked programs
   Homepage: http://www.ltrace.org/
 - Package: lua-language-server
-  Version: 3.18.0
+  Version: 3.18.1
   Description: Sumneko Lua Language Server coded in Lua
   Homepage: https://github.com/sumneko/lua-language-server
 - Package: lua-lgi
@@ -6883,7 +6883,7 @@
   Description: Multi-Cloud Object Storage
   Homepage: https://min.io/
 - Package: miniserve
-  Version: 0.34.0
+  Version: 0.35.0
   Description: Tool to serve files and dirs over HTTP
   Homepage: https://github.com/svenstaro/miniserve
 - Package: minisign
@@ -8911,7 +8911,7 @@
   Description: Static libraries for runit
   Homepage: http://smarden.org/runit
 - Package: rush
-  Version: 0.8.0
+  Version: 0.9.0
   Description: A cross-platform command-line tool for executing jobs in parallel
   Homepage: https://github.com/shenwei356/rush
 - Package: rust
