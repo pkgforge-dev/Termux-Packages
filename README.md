@@ -208,7 +208,7 @@
 | **cargo-binstall** | 1.17.9 | Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem | https://github.com/cargo-bins/cargo-binstall |
 | **cargo-c** | 0.10.21 | Cargo C-ABI helpers | https://github.com/lu-zero/cargo-c |
 | **cargo-cache** | 0.8.3 | Tool to manage cargo cache | https://github.com/matthiaskrgr/cargo-cache |
-| **cargo-leptos** | 0.3.5 | Build tool for the Rust framework Leptos | https://github.com/leptos-rs/cargo-leptos |
+| **cargo-leptos** | 0.3.6 | Build tool for the Rust framework Leptos | https://github.com/leptos-rs/cargo-leptos |
 | **catdoc** | 0.95-2 | Program which reads MS-Word file and prints readable ASCII text to stdout | http://www.wagner.pp.ru/~vitus/software/catdoc/ |
 | **catgirl** | 2.2a-1 | A TLS-only terminal IRC client | https://git.causal.agency/catgirl |
 | **catimg** | 2.8.0 | Renders images in the terminal | https://posva.net/shell/retro/bash/2013/05/27/catimg |
@@ -234,7 +234,7 @@
 | **chafa-static** | 1.18.1-2 | Static libraries for chafa | https://hpjansson.org/chafa/ |
 | **check** | 0.15.2-3 | A unit testing framework for C | https://libcheck.github.io/check |
 | **check-static** | 0.15.2-3 | Static libraries for check | https://libcheck.github.io/check |
-| **chezmoi** | 2.70.0 | Manage your dotfiles across multiple machines | https://chezmoi.io |
+| **chezmoi** | 2.70.1 | Manage your dotfiles across multiple machines | https://chezmoi.io |
 | **chicken** | 5.4.0-2 | A feature rich Scheme compiler and interpreter | https://www.call-cc.org |
 | **chicken-static** | 5.4.0-2 | Static libraries for chicken | https://www.call-cc.org |
 | **chntpw** | 140201 | Offline Windows NT Password & Registry Editor | https://pogostick.net/~pnh/ntpasswd/ |
@@ -1514,7 +1514,7 @@
 | **libwebp** | 1.6.0-rc1-0 | Library to encode and decode images in WebP format | https://github.com/webmproject/libwebp |
 | **libwebrtc-audio-processing** | 1.3-4 | A library containing the AudioProcessing module from the WebRTC project | https://www.freedesktop.org/software/pulseaudio/webrtc-audio-processing/ |
 | **libwebsockets** | 4.5.8 | Lightweight C websockets library | https://libwebsockets.org |
-| **libwolfssl** | 5.9.0 | A small, fast, portable implementation of TLS/SSL for embedded devices to the cloud | https://www.wolfssl.com/ |
+| **libwolfssl** | 5.9.1 | A small, fast, portable implementation of TLS/SSL for embedded devices to the cloud | https://www.wolfssl.com/ |
 | **libwpd** | 0.10.3-3 | Library for importing WordPerfect (tm) documents | https://libwpd.sourceforge.net/ |
 | **libwpg** | 0.3.4-3 | Library for importing and converting Corel WordPerfect(tm) Graphics images. | https://libwpg.sourceforge.net/ |
 | **libwpg-static** | 0.3.4-3 | Static libraries for libwpg | https://libwpg.sourceforge.net/ |
@@ -1796,7 +1796,7 @@
 | **n2n** | 3.1.1-1 | A light VPN software | https://github.com/ntop/n2n |
 | **nala** | 0.16.0-2 | Commandline frontend for the apt package manager | https://gitlab.com/volian/nala |
 | **nali** | 0.8.1-1 | An offline tool for querying IP geographic information and CDN provider | https://github.com/zu1k/nali |
-| **nano** | 8.7.1 | Small, free and friendly text editor | https://www.nano-editor.org/ |
+| **nano** | 9.0 | Small, free and friendly text editor | https://www.nano-editor.org/ |
 | **nasm** | 2.16.03-1 | A cross-platform x86 assembler with an Intel-like syntax | https://nasm.us |
 | **natpmpc** | 20230423-2 | Portable and fully compliant implementation of NAT-PMP | https://miniupnp.tuxfamily.org/libnatpmp.html |
 | **natpmpc-static** | 20230423-2 | Static libraries for natpmpc | https://miniupnp.tuxfamily.org/libnatpmp.html |
@@ -2596,7 +2596,7 @@
 | **util-linux-static** | 2.41.3 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-2 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.41.3 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **uv** | 0.11.4 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
+| **uv** | 0.11.5 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.31-1 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.47.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.19 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |

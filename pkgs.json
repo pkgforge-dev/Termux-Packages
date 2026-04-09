@@ -1189,7 +1189,7 @@
   },
   {
     "Package": "cargo-leptos",
-    "Version": "0.3.5",
+    "Version": "0.3.6",
     "Description": "Build tool for the Rust framework Leptos",
     "Homepage": "https://github.com/leptos-rs/cargo-leptos"
   },
@@ -1345,7 +1345,7 @@
   },
   {
     "Package": "chezmoi",
-    "Version": "2.70.0",
+    "Version": "2.70.1",
     "Description": "Manage your dotfiles across multiple machines",
     "Homepage": "https://chezmoi.io"
   },
@@ -9025,7 +9025,7 @@
   },
   {
     "Package": "libwolfssl",
-    "Version": "5.9.0",
+    "Version": "5.9.1",
     "Description": "A small, fast, portable implementation of TLS/SSL for embedded devices to the cloud",
     "Homepage": "https://www.wolfssl.com/"
   },
@@ -10717,7 +10717,7 @@
   },
   {
     "Package": "nano",
-    "Version": "8.7.1",
+    "Version": "9.0",
     "Description": "Small, free and friendly text editor",
     "Homepage": "https://www.nano-editor.org/"
   },
@@ -15517,7 +15517,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.11.4",
+    "Version": "0.11.5",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
