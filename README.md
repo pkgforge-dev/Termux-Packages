@@ -712,7 +712,7 @@
 | **helix** | 25.07.1-1 | A post-modern modal text editor written in rust | https://helix-editor.com/ |
 | **helix-grammars** | 25.07.1-1 | Helix grammars | https://helix-editor.com/ |
 | **hello** | 2.12.3 | Prints a friendly greeting | https://www.gnu.org/software/hello/ |
-| **helm** | 4.1.3 | Helm helps you manage Kubernetes applications | https://helm.sh |
+| **helm** | 4.1.4 | Helm helps you manage Kubernetes applications | https://helm.sh |
 | **helm-ls** | 0.5.4 | Language server for Helm | https://github.com/mrjosh/helm-ls |
 | **help2man** | 1.49.3 | Conversion tool to create man files | https://www.gnu.org/software/help2man/ |
 | **hexcurse** | 1.60.0-7 | Console hexeditor | https://github.com/LonnyGomes/hexcurse |
@@ -1312,8 +1312,8 @@
 | **libplist-static** | 2.7.0-1 | Static libraries for libplist | https://libimobiledevice.org |
 | **libpluto** | 0.12.2 | Shared library for the Pluto interpreter | https://plutolang.github.io/ |
 | **libpluto-static** | 0.12.2 | Static libraries for libpluto | https://plutolang.github.io/ |
-| **libpng** | 1.6.56 | Official PNG reference library | http://www.libpng.org/pub/png/libpng.html |
-| **libpng-static** | 1.6.56 | Static libraries for libpng | http://www.libpng.org/pub/png/libpng.html |
+| **libpng** | 1.6.57 | Official PNG reference library | http://www.libpng.org/pub/png/libpng.html |
+| **libpng-static** | 1.6.57 | Static libraries for libpng | http://www.libpng.org/pub/png/libpng.html |
 | **libpngwriter** | 0.7.0-1 | C++ library for creating PNG images | https://pngwriter.sourceforge.net |
 | **libpngwriter-static** | 0.7.0-1 | Static libraries for libpngwriter | https://pngwriter.sourceforge.net |
 | **libpoco** | 1.15.1 | A comprehensive set of C++ libraries that cover all modern-day programming needs | https://pocoproject.org/ |
@@ -1825,7 +1825,7 @@
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20260406 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.12.1 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
-| **neovim-nightly** | 0.13.0~dev-110+g8603fc9180-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
+| **neovim-nightly** | 0.13.0~dev-125+g9c5fba5df0-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
 | **nerdfix** | 0.4.2-1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.5.2 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.5.2 | Static libraries for net-snmp | http://www.net-snmp.org/ |
@@ -2083,7 +2083,7 @@
 | **pypy3-tkinter** | 7.3.21 | Tkinter support for PyPy 3 | https://pypy.org |
 | **pyrefly** | 0.60.0 | A fast type checker and language server for Python | https://github.com/facebook/pyrefly.git |
 | **pystring** | 1.1.4-1 | C++ functions matching the interface and behavior of python string methods with std::string | https://github.com/imageworks/pystring |
-| **python** | 3.13.12-5 | Python 3 programming language intended to enable clear programs | https://python.org/ |
+| **python** | 3.13.13 | Python 3 programming language intended to enable clear programs | https://python.org/ |
 | **python-apsw** | 3.52.0.0 | Another Python SQLite Wrapper | https://rogerbinns.github.io/apsw/ |
 | **python-apt** | 3.1.0-1 | Python bindings for APT | https://apt-team.pages.debian.net/python-apt/ |
 | **python-bcrypt** | 5.0.0-2 | Acceptable password hashing for your software and your servers | https://github.com/pyca/bcrypt |
@@ -2091,7 +2091,7 @@
 | **python-cmake** | 4.3.0 | Python wrapper for CMake | https://cmake-python-distributions.readthedocs.io/ |
 | **python-contourpy** | 1.3.3-4 | Python library for calculating contours in 2D quadrilateral grids | https://contourpy.readthedocs.io/ |
 | **python-cryptography** | 46.0.7 | Provides cryptographic recipes and primitives to Python developers | https://github.com/pyca/cryptography |
-| **python-ensurepip-wheels** | 3.13.12-5 | Wheels for Python ensurepip | https://python.org/ |
+| **python-ensurepip-wheels** | 3.13.13 | Wheels for Python ensurepip | https://python.org/ |
 | **python-greenlet** | 3.4.0 | Lightweight coroutines for in-process concurrent programming | https://github.com/python-greenlet/greenlet |
 | **python-grpcio** | 1.80.0 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
 | **python-lameenc** | 1.8.2 | Python bindings around the LAME encoder | https://github.com/chrisstaite/lameenc |
@@ -2111,13 +2111,13 @@
 | **python-ruff** | 0.15.9 | An extremely fast Python linter, written in Rust (Python bindings) | https://github.com/charliermarsh/ruff |
 | **python-sabyenc3** | 9.4.0 | C implementations of functions for use within SABnzbd | https://github.com/sabnzbd/sabctools |
 | **python-skia-pathops** | 0.9.2-1 | Python bindings for the Skia library's Path Ops | https://github.com/fonttools/skia-pathops |
-| **python-static** | 3.13.12-5 | Static libraries for python | https://python.org/ |
+| **python-static** | 3.13.13 | Static libraries for python | https://python.org/ |
 | **python-tflite-runtime** | 2.20.0-3 | TensorFlow Lite Python bindings | https://www.tensorflow.org/lite |
-| **python-tkinter** | 3.13.12-5 | Tkinter support for Python 3 | https://python.org/ |
+| **python-tkinter** | 3.13.13 | Tkinter support for Python 3 | https://python.org/ |
 | **python-tldp** | 0.7.5-7 | Tools for publishing from TLDP sources | https://github.com/tLDP/python-tldp |
 | **python-torch** | 2.11.0 | Tensors and Dynamic neural networks in Python | https://pytorch.org/ |
 | **python-torch-static** | 2.11.0 | Static libraries for python-torch | https://pytorch.org/ |
-| **python-torchaudio** | 2.11.0 | Data manipulation and transformation for audio signal processing, powered by PyTorch | https://github.com/pytorch/audio |
+| **python-torchaudio** | 2.11.0-1 | Data manipulation and transformation for audio signal processing, powered by PyTorch | https://github.com/pytorch/audio |
 | **python-torchcodec** | 0.11.0-1 | PyTorch media decoding and encoding | https://github.com/pytorch/torchcodec |
 | **python-torchvision** | 0.26.0 | Datasets, Transforms and Models specific to Computer Vision | https://github.com/pytorch/vision |
 | **python-xcbgen** | 1.17.0-2 | The xcbgen Python module | https://xcb.freedesktop.org/ |
@@ -2286,7 +2286,7 @@
 | **serd** | 0.32.8 | A lightweight C library for RDF syntax | https://drobilla.net/software/serd.html |
 | **serf** | 1.3.10-2 | High performance C-based HTTP client library | https://serf.apache.org/ |
 | **serf-static** | 1.3.10-2 | Static libraries for serf | https://serf.apache.org/ |
-| **sfeed** | 2.3 | Shell-script/crontab oriented feed aggregator and parser utility (curses-based reader included) | https://codemadness.org/sfeed-simple-feed-parser.html |
+| **sfeed** | 2.4 | Shell-script/crontab oriented feed aggregator and parser utility (curses-based reader included) | https://codemadness.org/sfeed-simple-feed-parser.html |
 | **sftpgo** | 2.7.1 | Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server | https://sftpgo.com/ |
 | **shaderc** | 2026.1 | Collection of tools, libraries, and tests for Vulkan shader compilation | https://github.com/google/shaderc |
 | **sharutils** | 4.15.2-4 | Utilities for packaging and unpackaging shell archives | https://www.gnu.org/software/sharutils/ |
