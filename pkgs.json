@@ -420,6 +420,12 @@
     "Homepage": "https://arj.sourceforge.net/"
   },
   {
+    "Package": "arpack-ng",
+    "Version": "2:3.9.1",
+    "Description": "Collection of Fortran77 subroutines designed to solve large scale eigenvalue problems.",
+    "Homepage": "https://github.com/opencollab/arpack-ng"
+  },
+  {
     "Package": "artalk",
     "Version": "2.9.1-1",
     "Description": "A self-hosted comment system",
@@ -768,6 +774,12 @@
     "Homepage": "https://git.gavinhoward.com/gavin/bc"
   },
   {
+    "Package": "bcal",
+    "Version": "2.5",
+    "Description": "Command-line utility for storage conversions and calculations",
+    "Homepage": "https://github.com/jarun/bcal"
+  },
+  {
     "Package": "bchunk",
     "Version": "1.2.2",
     "Description": "Tool to convert .bin + .cue files to .iso files",
@@ -832,6 +844,12 @@
     "Version": "2.46.0-3",
     "Description": "GNU Binutils for cross build on the host (NOT for Termux)",
     "Homepage": "https://www.gnu.org/software/binutils/"
+  },
+  {
+    "Package": "binwalk",
+    "Version": "3.1.0",
+    "Description": "An Binwalk firmware analysis tool.",
+    "Homepage": "https://github.com/ReFirmLabs/binwalk"
   },
   {
     "Package": "bison",
@@ -1110,10 +1128,22 @@
     "Homepage": "https://curl.se/docs/caextract.html"
   },
   {
+    "Package": "cabal-install",
+    "Version": "3.14.1.1-1",
+    "Description": "The command-line interface for Haskell-Cabal and Hackage",
+    "Homepage": "https://www.haskell.org/cabal/"
+  },
+  {
     "Package": "cabextract",
     "Version": "1.11-1",
     "Description": "A program to extract Microsoft cabinet (.CAB) files",
     "Homepage": "https://www.cabextract.org.uk/"
+  },
+  {
+    "Package": "cabin",
+    "Version": "0.13.0-1",
+    "Description": "A package manager and build system for C++",
+    "Homepage": "https://github.com/cabinpkg/cabin"
   },
   {
     "Package": "cadaver",
@@ -1386,6 +1416,12 @@
     "Homepage": "https://chrony-project.org/"
   },
   {
+    "Package": "cicada",
+    "Version": "1.2.2",
+    "Description": "A bash like Unix shell",
+    "Homepage": "https://github.com/mitnk/cicada"
+  },
+  {
     "Package": "ciso",
     "Version": "1.0.2-2",
     "Description": "PSP ISO compression tool",
@@ -1528,6 +1564,12 @@
     "Version": "1.8-10",
     "Description": "The post-quantum cryptography tool",
     "Homepage": "http://e-x-a.org/codecrypt/"
+  },
+  {
+    "Package": "codon",
+    "Version": "0.19.5",
+    "Description": "A high-performance, zero-overhead, extensible Python compiler using LLVM",
+    "Homepage": "https://github.com/exaloop/codon"
   },
   {
     "Package": "coinor-cbc",
@@ -1836,6 +1878,12 @@
     "Homepage": "https://unix4lyfe.org/darkhttpd"
   },
   {
+    "Package": "dart",
+    "Version": "3.11.4",
+    "Description": "Dart is a general-purpose programming language",
+    "Homepage": "https://dart.dev/"
+  },
+  {
     "Package": "dasel",
     "Version": "3.4.1",
     "Description": "Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility",
@@ -1912,6 +1960,18 @@
     "Version": "1.0.143",
     "Description": "Bootstrap a basic Debian system",
     "Homepage": "https://wiki.debian.org/Debootstrap"
+  },
+  {
+    "Package": "delve",
+    "Version": "1.26.1",
+    "Description": "A debugger for the Go programming language",
+    "Homepage": "https://github.com/go-delve/delve"
+  },
+  {
+    "Package": "deno",
+    "Version": "1:2.7.12",
+    "Description": "A modern runtime for JavaScript and TypeScript",
+    "Homepage": "https://deno.land/"
   },
   {
     "Package": "desed",
@@ -2086,6 +2146,12 @@
     "Version": "0.36-3",
     "Description": "Subdomain Bruteforcing Tool",
     "Homepage": "https://github.com/resurrecting-open-source-projects/dnsmap"
+  },
+  {
+    "Package": "dnsmasq",
+    "Version": "2.92",
+    "Description": "Dnsmasq provides network infrastructure for small networks",
+    "Homepage": "http://www.thekelleys.org.uk/dnsmasq/doc.html"
   },
   {
     "Package": "dnstop",
@@ -2988,6 +3054,12 @@
     "Homepage": "https://xiph.org/flac/"
   },
   {
+    "Package": "flang",
+    "Version": "21.1.8-2",
+    "Description": "LLVMs Fortran frontend",
+    "Homepage": "https://flang.llvm.org/"
+  },
+  {
     "Package": "flatbuffers",
     "Version": "25.12.19-2026-02-06-03fffb2-1",
     "Description": "Memory Efficient Serialization Library",
@@ -3012,10 +3084,22 @@
     "Homepage": "https://github.com/westes/flex"
   },
   {
+    "Package": "flint",
+    "Version": "3.4.0",
+    "Description": "C library for doing number theory",
+    "Homepage": "http://www.flintlib.org"
+  },
+  {
     "Package": "fluidsynth",
     "Version": "2.5.3",
     "Description": "Software synthesizer based on the SoundFont 2 specifications",
     "Homepage": "https://github.com/FluidSynth/fluidsynth"
+  },
+  {
+    "Package": "flyctl",
+    "Version": "0.4.33",
+    "Description": "Command line tools for fly.io services",
+    "Homepage": "https://fly.io"
   },
   {
     "Package": "fm",
@@ -3810,6 +3894,12 @@
     "Homepage": "https://aditya-k2.github.io/gomp/"
   },
   {
+    "Package": "gomuks",
+    "Version": "26.03",
+    "Description": "A terminal Matrix client written in Go",
+    "Homepage": "https://go.mau.fi/gomuks"
+  },
+  {
     "Package": "google-glog",
     "Version": "0.7.1-2",
     "Description": "Logging library for C++",
@@ -4276,6 +4366,18 @@
     "Version": "1:2.3.4-1",
     "Description": "The Moon-powered shell! A comfy and extensible shell for Lua fans!",
     "Homepage": "https://rosettea.github.io/Hilbish/"
+  },
+  {
+    "Package": "hledger",
+    "Version": "1.43.2-1",
+    "Description": "Robust, friendly, fast plain text accounting software. (CLI only)",
+    "Homepage": "https://hledger.org/"
+  },
+  {
+    "Package": "hledger-ui",
+    "Version": "1.43.2",
+    "Description": "hledger-ui - terminal interface (TUI) for hledger, a robust, friendly plain text accounting app.",
+    "Homepage": "https://hledger.org/"
   },
   {
     "Package": "hnterm",
@@ -5154,6 +5256,18 @@
     "Homepage": "https://github.com/gokcehan/lf"
   },
   {
+    "Package": "lfortran",
+    "Version": "0.61.0",
+    "Description": "A modern open-source interactive Fortran compiler",
+    "Homepage": "https://lfortran.org/"
+  },
+  {
+    "Package": "lfortran-static",
+    "Version": "0.61.0",
+    "Description": "Static libraries for lfortran",
+    "Homepage": "https://lfortran.org/"
+  },
+  {
     "Package": "lftp",
     "Version": "4.9.2-7",
     "Description": "FTP/HTTP client and file transfer program",
@@ -5866,6 +5980,12 @@
     "Version": "0.14-1",
     "Description": "Static libraries for libdaemon",
     "Homepage": "https://0pointer.de/lennart/projects/libdaemon/"
+  },
+  {
+    "Package": "libdart",
+    "Version": "6.16.7",
+    "Description": "Dynamic Animation and Robotics Toolkit",
+    "Homepage": "https://dartsim.github.io/"
   },
   {
     "Package": "libdav1d",
@@ -6844,6 +6964,18 @@
     "Version": "3.2.4-2",
     "Description": "Static libraries for libknot",
     "Homepage": "https://www.knot-dns.cz/"
+  },
+  {
+    "Package": "libkokkos",
+    "Version": "5.1.0",
+    "Description": "Implements a programming model in C++ for writing performance portable applications",
+    "Homepage": "https://github.com/kokkos"
+  },
+  {
+    "Package": "libkokkos-static",
+    "Version": "5.1.0",
+    "Description": "Static libraries for libkokkos",
+    "Homepage": "https://github.com/kokkos"
   },
   {
     "Package": "libksba",
@@ -8070,6 +8202,12 @@
     "Homepage": "https://git.osgeo.org/gitea/rttopo/librttopo"
   },
   {
+    "Package": "librusty-v8",
+    "Version": "1:2.7.12",
+    "Description": "High quality Rust bindings to V8s C++ API",
+    "Homepage": "https://deno.land/"
+  },
+  {
     "Package": "libsamplerate",
     "Version": "0.2.2-4",
     "Description": "A library for performing sample rate conversion of audio data",
@@ -8572,6 +8710,12 @@
     "Version": "4.7.1",
     "Description": "Tools for working with tiff files",
     "Homepage": "http://www.simplesystems.org/libtiff/"
+  },
+  {
+    "Package": "libtiledb",
+    "Version": "2.30.1",
+    "Description": "A powerful engine for storing and accessing dense and sparse multi-dimensional arrays",
+    "Homepage": "https://tiledb.com/"
   },
   {
     "Package": "libtins",
@@ -9528,6 +9672,24 @@
     "Homepage": "http://www.littlecms.com/"
   },
   {
+    "Package": "llama-cpp",
+    "Version": "0.0.0-b8580-0",
+    "Description": "LLM inference in C/C++",
+    "Homepage": "https://github.com/ggml-org/llama.cpp"
+  },
+  {
+    "Package": "llama-cpp-backend-opencl",
+    "Version": "0.0.0-b8580-0",
+    "Description": "OpenCL Backend for LLaMA.cpp",
+    "Homepage": "https://github.com/ggml-org/llama.cpp"
+  },
+  {
+    "Package": "llama-cpp-backend-vulkan",
+    "Version": "0.0.0-b8580-0",
+    "Description": "Vulkan Backend for LLaMA.cpp",
+    "Homepage": "https://github.com/ggml-org/llama.cpp"
+  },
+  {
     "Package": "llbuild",
     "Version": "6.2.1",
     "Description": "A low-level build system, used by the Swift Package Manager",
@@ -9592,6 +9754,12 @@
     "Version": "0.17.0-beta-1",
     "Description": "Lightning Network Daemon",
     "Homepage": "https://github.com/lightningnetwork/lnd"
+  },
+  {
+    "Package": "locustdb",
+    "Version": "0.4.6-2",
+    "Description": "An experimental analytics database",
+    "Homepage": "https://github.com/cswinter/LocustDB"
   },
   {
     "Package": "logo-ls",
@@ -9828,6 +9996,12 @@
     "Homepage": "https://github.com/iawia002/lux"
   },
   {
+    "Package": "lux-cli",
+    "Version": "0.28.0",
+    "Description": "A package manager for Lua, similar to luarocks",
+    "Homepage": "https://lux.lumen-labs.org"
+  },
+  {
     "Package": "lv2",
     "Version": "1.18.10-7",
     "Description": "A plugin standard for audio systems",
@@ -9888,6 +10062,12 @@
     "Homepage": "https://www.gnu.org/software/m4/m4.html"
   },
   {
+    "Package": "macchina",
+    "Version": "6.4.0-1",
+    "Description": "A system information fetcher, with an emphasis on performance and minimalism.",
+    "Homepage": "https://github.com/Macchina-CLI/macchina"
+  },
+  {
     "Package": "magic-wormhole-rs",
     "Version": "0.7.6-1",
     "Description": "Rust implementation of Magic Wormhole, with new features and enhancements",
@@ -9928,6 +10108,12 @@
     "Version": "4.0.6-3",
     "Description": "Cli manga downloader",
     "Homepage": "https://github.com/metafates/mangal"
+  },
+  {
+    "Package": "manim",
+    "Version": "0.20.1-2",
+    "Description": "A community-maintained Python framework for creating mathematical animations",
+    "Homepage": "https://manim.community"
   },
   {
     "Package": "manpages",
@@ -10410,6 +10596,12 @@
     "Homepage": "https://getmonero.org/"
   },
   {
+    "Package": "monetdb",
+    "Version": "11.55.5",
+    "Description": "A high-performance database kernel for query-intensive applications",
+    "Homepage": "https://www.monetdb.org/"
+  },
+  {
     "Package": "mono",
     "Version": "6.14.1-2",
     "Description": "Framework Mono",
@@ -10552,6 +10744,12 @@
     "Version": "1.33.3",
     "Description": "Fast console MPEG Audio Player based on libmpg123",
     "Homepage": "https://mpg123.org/"
+  },
+  {
+    "Package": "mplayer",
+    "Version": "1.5-14",
+    "Description": "The Movie Player",
+    "Homepage": "https://mplayerhq.hu/"
   },
   {
     "Package": "mpv",
@@ -11196,6 +11394,18 @@
     "Homepage": "https://www.gnu.org/software/ocrad/ocrad.html"
   },
   {
+    "Package": "octave",
+    "Version": "2:10.3.0-2",
+    "Description": "GNU Octave is a high-level language, primarily intended for numerical computations. (only CLI)",
+    "Homepage": "https://octave.org"
+  },
+  {
+    "Package": "octave-static",
+    "Version": "2:10.3.0-2",
+    "Description": "Static libraries for octave",
+    "Homepage": "https://octave.org"
+  },
+  {
     "Package": "octomap",
     "Version": "1.10.0-1",
     "Description": "An efficient probabilistic 3D mapping framework based on octrees",
@@ -11220,6 +11430,12 @@
     "Homepage": "https://ohmyposh.dev"
   },
   {
+    "Package": "oidn",
+    "Version": "2.4.1",
+    "Description": "Intel® Open Image Denoise library",
+    "Homepage": "https://www.openimagedenoise.org"
+  },
+  {
     "Package": "okc-agents",
     "Version": "0.1.2-2",
     "Description": "OpenKeychain agents for GnuPG and OpenSSH",
@@ -11236,6 +11452,18 @@
     "Version": "1.99.16-10",
     "Description": "The GNU Spreadsheet",
     "Homepage": "https://www.gnu.org/software/oleo/"
+  },
+  {
+    "Package": "ollama",
+    "Version": "0.20.5",
+    "Description": "Get up and running with large language models",
+    "Homepage": "https://ollama.com/"
+  },
+  {
+    "Package": "ollama-backend-vulkan",
+    "Version": "0.20.5",
+    "Description": "Vulkan Backend for Ollama",
+    "Homepage": "https://ollama.com/"
   },
   {
     "Package": "oma",
@@ -11400,9 +11628,21 @@
     "Homepage": "https://openjdk.java.net"
   },
   {
+    "Package": "openjdk-25",
+    "Version": "25.0.2",
+    "Description": "Java development kit and runtime",
+    "Homepage": "https://openjdk.java.net"
+  },
+  {
     "Package": "openjdk-25-source",
     "Version": "25.0.2",
     "Description": "Source files for openjdk-25",
+    "Homepage": "https://openjdk.java.net"
+  },
+  {
+    "Package": "openjdk-25-x",
+    "Version": "25.0.2",
+    "Description": "Portion of openjdk-25 requiring X11 functionality",
     "Homepage": "https://openjdk.java.net"
   },
   {
@@ -11452,6 +11692,12 @@
     "Version": "0.8.6",
     "Description": "libopenmpt based command-line player for tracker music formats",
     "Homepage": "https://lib.openmpt.org/libopenmpt/"
+  },
+  {
+    "Package": "openpgl",
+    "Version": "0.7.1-1",
+    "Description": "Intel(R) Open Path Guiding Library",
+    "Homepage": "http://www.openpgl.org/"
   },
   {
     "Package": "opensc",
@@ -11550,6 +11796,12 @@
     "Homepage": "https://roboticoverlords.org/orbiton/"
   },
   {
+    "Package": "osm2pgsql",
+    "Version": "2.2.0-2",
+    "Description": "osm2pgsql imports OpenStreetMap (OSM) data into a PostgreSQL/PostGIS database",
+    "Homepage": "https://osm2pgsql.org/"
+  },
+  {
     "Package": "osmctools",
     "Version": "0.9-3",
     "Description": "Simple tools for OpenStreetMap processing",
@@ -11638,6 +11890,12 @@
     "Version": "1.10.16-1",
     "Description": "Static libraries for panda3d",
     "Homepage": "https://www.panda3d.org/"
+  },
+  {
+    "Package": "pandoc",
+    "Version": "3.9",
+    "Description": "Universal markup converter",
+    "Homepage": "https://pandoc.org/"
   },
   {
     "Package": "pango",
@@ -12000,10 +12258,28 @@
     "Homepage": "https://github.com/npat-efault/picocom"
   },
   {
+    "Package": "picolisp",
+    "Version": "26.3",
+    "Description": "Lisp interpreter and application server framework",
+    "Homepage": "https://picolisp.com/wiki/?home"
+  },
+  {
     "Package": "pigz",
     "Version": "2.8-1",
     "Description": "Parallel implementation of the gzip file compressor",
     "Homepage": "https://www.zlib.net/pigz"
+  },
+  {
+    "Package": "pikiwidb",
+    "Version": "3.5.6-1",
+    "Description": "Redis-Compatible database developed by Qihoos infrastructure team",
+    "Homepage": "https://github.com/OpenAtomFoundation/pikiwidb"
+  },
+  {
+    "Package": "pikiwidb-static",
+    "Version": "3.5.6-1",
+    "Description": "Static libraries for pikiwidb",
+    "Homepage": "https://github.com/OpenAtomFoundation/pikiwidb"
   },
   {
     "Package": "pinentry",
@@ -12292,6 +12568,12 @@
     "Version": "2:33.1-1",
     "Description": "Compiler for protocol buffer definition files",
     "Homepage": "https://github.com/protocolbuffers/protobuf"
+  },
+  {
+    "Package": "proton-bridge",
+    "Version": "3.23.1",
+    "Description": "ProtonMail Bridge application",
+    "Homepage": "https://github.com/ProtonMail/proton-bridge"
   },
   {
     "Package": "prover9",
@@ -12600,6 +12882,12 @@
     "Homepage": "https://github.com/sabnzbd/sabctools"
   },
   {
+    "Package": "python-scipy",
+    "Version": "1.17.1-2",
+    "Description": "Fundamental algorithms for scientific computing in Python",
+    "Homepage": "https://scipy.org/"
+  },
+  {
     "Package": "python-skia-pathops",
     "Version": "0.9.2-1",
     "Description": "Python bindings for the Skia librarys Path Ops",
@@ -12862,6 +13150,12 @@
     "Version": "0.8.0-7",
     "Description": "Headless QRSS grabber for Raspberry Pis",
     "Homepage": "https://gitlab.com/hb9fxx/qrsspig"
+  },
+  {
+    "Package": "qrupdate-ng",
+    "Version": "2:1.1.5",
+    "Description": "A Library for Fast Updating of QR and Cholesky Decompositions.",
+    "Homepage": "https://github.com/mpimd-csc/qrupdate-ng"
   },
   {
     "Package": "quick-lint-js",
@@ -13506,6 +13800,12 @@
     "Homepage": "https://github.com/sass/sassc"
   },
   {
+    "Package": "sbcl",
+    "Version": "2.6.3",
+    "Description": "A high performance Common Lisp compiler",
+    "Homepage": "http://www.sbcl.org/"
+  },
+  {
     "Package": "sc-im",
     "Version": "0.8.5-4",
     "Description": "An improved version of sc, a spreadsheet calculator",
@@ -13696,6 +13996,12 @@
     "Version": "1.17.0-1",
     "Description": "Executing shell commands via HTTP server",
     "Homepage": "https://github.com/msoap/shell2http"
+  },
+  {
+    "Package": "shellcheck",
+    "Version": "0.11.0",
+    "Description": "Shell script analysis tool",
+    "Homepage": "https://www.shellcheck.net/"
   },
   {
     "Package": "shellharden",
@@ -13924,6 +14230,12 @@
     "Version": "0.8",
     "Description": "Freedesktop sound theme",
     "Homepage": "https://freedesktop.org/wiki/Specifications/sound-theme-spec"
+  },
+  {
+    "Package": "sourcekit-lsp",
+    "Version": "6.2.1",
+    "Description": "Language Server Protocol implementation for Swift and C-based languages",
+    "Homepage": "https://swift.org/"
   },
   {
     "Package": "sox",
@@ -14304,10 +14616,34 @@
     "Homepage": "https://x3270.bgp.nu/"
   },
   {
+    "Package": "suitesparse",
+    "Version": "2:7.12.2",
+    "Description": "A Suite of Sparse matrix packages.",
+    "Homepage": "https://github.com/DrTimothyAldenDavis/SuiteSparse"
+  },
+  {
+    "Package": "suitesparse-static",
+    "Version": "2:7.12.2",
+    "Description": "Static libraries for suitesparse",
+    "Homepage": "https://github.com/DrTimothyAldenDavis/SuiteSparse"
+  },
+  {
     "Package": "sun",
     "Version": "1.0.0-3",
     "Description": "A very simple note taking cli app",
     "Homepage": "https://stand-up-notes.org"
+  },
+  {
+    "Package": "sundials",
+    "Version": "2:7.7.0",
+    "Description": "SUite of Nonlinear and DIfferential/ALgebraic equation Solvers.",
+    "Homepage": "https://computing.llnl.gov/projects/sundials"
+  },
+  {
+    "Package": "sundials-static",
+    "Version": "2:7.7.0",
+    "Description": "Static libraries for sundials",
+    "Homepage": "https://computing.llnl.gov/projects/sundials"
   },
   {
     "Package": "supercollider",
@@ -14338,6 +14674,12 @@
     "Version": "10.1.5",
     "Description": "Most popular and complete prolog implementation",
     "Homepage": "https://swi-prolog.org/"
+  },
+  {
+    "Package": "swift",
+    "Version": "6.2.1",
+    "Description": "Swift is a high-performance system programming language",
+    "Homepage": "https://swift.org/"
   },
   {
     "Package": "swift-runtime-aarch64",
@@ -14826,6 +15168,12 @@
     "Homepage": "https://tinygo.org"
   },
   {
+    "Package": "tinymist",
+    "Version": "0.14.10",
+    "Description": "An integrated language service for Typst",
+    "Homepage": "https://myriad-dreamin.github.io/tinymist"
+  },
+  {
     "Package": "tinyproxy",
     "Version": "1.11.3",
     "Description": "Light-weight HTTP proxy daemon for POSIX operating systems",
@@ -15241,9 +15589,15 @@
   },
   {
     "Package": "turbo",
-    "Version": "2.9.5",
+    "Version": "2.9.6",
     "Description": "High-performance build system for JS/TS",
     "Homepage": "https://turbo.build/"
+  },
+  {
+    "Package": "turbopack",
+    "Version": "16.2.3",
+    "Description": "Rust-based incremental compilation engine and bundler for Next.js",
+    "Homepage": "https://nextjs.org/"
   },
   {
     "Package": "tut",
@@ -15745,7 +16099,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "2026.04.09",
+    "Version": "2026.04.10",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://github.com/directvt/vtm"
   },
@@ -15864,6 +16218,24 @@
     "Homepage": "https://github.com/bytecodealliance/wasm-component-ld"
   },
   {
+    "Package": "wasmedge",
+    "Version": "0.16.1",
+    "Description": "A lightweight, high-performance, and extensible WebAssembly runtime",
+    "Homepage": "https://wasmedge.org/"
+  },
+  {
+    "Package": "wasmer",
+    "Version": "7.0.1",
+    "Description": "A fast and secure WebAssembly runtime",
+    "Homepage": "https://wasmer.io/"
+  },
+  {
+    "Package": "wasmtime",
+    "Version": "43.0.1",
+    "Description": "A standalone runtime for WebAssembly",
+    "Homepage": "https://wasmtime.dev/"
+  },
+  {
     "Package": "watchexec",
     "Version": "2.5.1",
     "Description": "Executes commands in response to file modifications",
@@ -15928,6 +16300,12 @@
     "Version": "4.7.1-2",
     "Description": "WeeChat Lua Plugin",
     "Homepage": "https://weechat.org/"
+  },
+  {
+    "Package": "weechat-matrix-rs",
+    "Version": "2022.10.04-2",
+    "Description": "Rust rewrite of the python weechat-matrix script",
+    "Homepage": "https://github.com/poljar/weechat-matrix-rs"
   },
   {
     "Package": "weechat-perl-plugin",
@@ -16360,6 +16738,12 @@
     "Version": "0.23.93-2",
     "Description": "Static libraries for zbar",
     "Homepage": "https://github.com/mchehab/zbar"
+  },
+  {
+    "Package": "zellij",
+    "Version": "0.44.1",
+    "Description": "A terminal workspace with batteries included",
+    "Homepage": "https://zellij.dev/"
   },
   {
     "Package": "zeronet",
