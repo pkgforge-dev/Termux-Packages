@@ -115,7 +115,7 @@
 | **awscli** | 2.34.0 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
 | **axel** | 2.17.14-1 | light command line download accelerator | https://github.com/axel-download-accelerator/axel |
 | **b3sum** | 1.8.4 | A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum | https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum |
-| **babl** | 0.1.124 | Dynamic pixel format translation library | https://gegl.org/babl/ |
+| **babl** | 0.1.126 | Dynamic pixel format translation library | https://gegl.org/babl/ |
 | **bacula-fd** | 15.0.3-1 | Bacula backup software | https://www.bacula.org |
 | **bacula-fd-static** | 15.0.3-1 | Static libraries for bacula-fd | https://www.bacula.org |
 | **barcode** | 0.99-5 | Tool to convert text strings to printed bars | https://www.gnu.org/software/barcode/ |
@@ -591,7 +591,7 @@
 | **gitoxide** | 0.52.0 | Rust implementation of Git | https://github.com/GitoxideLabs/gitoxide |
 | **gitui** | 0.28.1 | Blazing fast terminal-ui for git written in rust | https://github.com/gitui-org/gitui |
 | **gkermit** | 2.01-1 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
-| **glab-cli** | 1.91.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
+| **glab-cli** | 1.92.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
 | **gleam** | 1.15.2 | A friendly language for building type-safe, scalable systems! | https://gleam.run |
 | **glib** | 2.88.0 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
 | **glib-cross** | 2.88.0 | glib for host (NOT for Termux) | https://developer.gnome.org/glib/ |
@@ -599,7 +599,7 @@
 | **glibc-repo** | 1.0 | A package repository containing glibc-based programs and libraries | https://github.com/termux/glibc-packages |
 | **glm** | 1.0.1 | C++ mathematics library for graphics software based on the GLSL specifications | https://glm.g-truc.net/ |
 | **global** | 6.6.14-1 | Source code search and browse tools | https://www.gnu.org/software/global/ |
-| **glow** | 2.1.1-1 | Render markdown on the CLI, with pizzazz! | https://github.com/charmbracelet/glow |
+| **glow** | 2.1.2 | Render markdown on the CLI, with pizzazz! | https://github.com/charmbracelet/glow |
 | **glpk** | 5.0-2 | GNU Linear Programming Kit: solve LP, MIP and other problems | https://www.gnu.org/software/glpk/ |
 | **glpk-static** | 5.0-2 | Static libraries for glpk | https://www.gnu.org/software/glpk/ |
 | **glslang** | 16.2.0 | OpenGL and OpenGL ES shader front end and validator | https://github.com/KhronosGroup/glslang |
@@ -1372,8 +1372,8 @@
 | **libsnappy** | 1.2.2-1 | A compression/decompression library | https://github.com/google/snappy |
 | **libsndfile** | 1.2.2-2 | Library for reading/writing audio files | http://www.mega-nerd.com/libsndfile |
 | **libsndfile-static** | 1.2.2-2 | Static libraries for libsndfile | http://www.mega-nerd.com/libsndfile |
-| **libsodium** | 1.0.21 | Network communication, cryptography and signaturing library | https://libsodium.org/ |
-| **libsodium-static** | 1.0.21 | Static libraries for libsodium | https://libsodium.org/ |
+| **libsodium** | 1.0.22 | Network communication, cryptography and signaturing library | https://libsodium.org/ |
+| **libsodium-static** | 1.0.22 | Static libraries for libsodium | https://libsodium.org/ |
 | **libsoldout** | 1.4-2 | Flexible C library and tools for markdown | https://fossil.instinctive.eu/libsoldout/index |
 | **libsoldout-static** | 1.4-2 | Static libraries for libsoldout | https://fossil.instinctive.eu/libsoldout/index |
 | **libsophia** | 2.2-1 | Advanced transactional MVCC key-value/row storage library | http://sophia.systems/ |
@@ -1394,9 +1394,9 @@
 | **libspice-protocol** | 0.14.5 | SPICE protocol headers | https://www.spice-space.org/ |
 | **libspice-server** | 0.16.0-1 | Implements the server side of the SPICE protocol | https://www.spice-space.org/ |
 | **libspice-server-static** | 0.16.0-1 | Static libraries for libspice-server | https://www.spice-space.org/ |
-| **libsqlite** | 3.52.0-1 | Library implementing a self-contained and transactional SQL database engine | https://www.sqlite.org |
-| **libsqlite-static** | 3.52.0-1 | Static libraries for libsqlite | https://www.sqlite.org |
-| **libsqlite-tcl** | 3.52.0-1 | tcl bindings for SQLite | https://www.sqlite.org |
+| **libsqlite** | 3.53.0 | Library implementing a self-contained and transactional SQL database engine | https://www.sqlite.org |
+| **libsqlite-static** | 3.53.0 | Static libraries for libsqlite | https://www.sqlite.org |
+| **libsqlite-tcl** | 3.53.0 | tcl bindings for SQLite | https://www.sqlite.org |
 | **libsrt** | 1.5.4-2 | Secure Reliable Transport (SRT) Protocol | https://github.com/Haivision/srt |
 | **libssh** | 0.12.0-1 | Tiny C SSH library | https://www.libssh.org/ |
 | **libssh2** | 1.11.1-1 | Client-side library implementing the SSH2 protocol | https://www.libssh2.org |
@@ -2069,7 +2069,7 @@
 | **pypy3** | 7.3.21 | A fast, compliant alternative implementation of Python 3 | https://pypy.org |
 | **pypy3-tests** | 7.3.21 | Test files for PyPy 3 | https://pypy.org |
 | **pypy3-tkinter** | 7.3.21 | Tkinter support for PyPy 3 | https://pypy.org |
-| **pyrefly** | 0.60.0 | A fast type checker and language server for Python | https://github.com/facebook/pyrefly.git |
+| **pyrefly** | 0.60.1 | A fast type checker and language server for Python | https://github.com/facebook/pyrefly.git |
 | **pystring** | 1.1.4-1 | C++ functions matching the interface and behavior of python string methods with std::string | https://github.com/imageworks/pystring |
 | **python** | 3.13.13 | Python 3 programming language intended to enable clear programs | https://python.org/ |
 | **python-apsw** | 3.52.0.0 | Another Python SQLite Wrapper | https://rogerbinns.github.io/apsw/ |
@@ -2335,7 +2335,7 @@
 | **spirv-llvm-translator** | 21.1.6 | SPIR-V LLVM Translator | https://github.com/KhronosGroup/SPIRV-LLVM-Translator |
 | **spirv-tools** | 1.4.341.0 | SPIR-V Tools | https://github.com/KhronosGroup/SPIRV-Tools |
 | **sqlcipher** | 4.14.0 | SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files | https://github.com/sqlcipher/sqlcipher |
-| **sqlite** | 3.52.0-1 | Command line shell for SQLite | https://www.sqlite.org |
+| **sqlite** | 3.53.0 | Command line shell for SQLite | https://www.sqlite.org |
 | **squashfs-tools-ng** | 1.3.2-1 | New set of tools for working with SquashFS images | https://github.com/AgentD/squashfs-tools-ng |
 | **squashfs-tools-ng-static** | 1.3.2-1 | Static libraries for squashfs-tools-ng | https://github.com/AgentD/squashfs-tools-ng |
 | **squeezelite** | 2.0.0.1517-2 | A small headless Logitech Squeezebox emulator | https://ralph-irving.github.io/squeezelite.html |
@@ -2370,8 +2370,8 @@
 | **stow** | 2.4.1 | Tool for managing the installation of multiple software packages into a single directory | https://www.gnu.org/software/stow/ |
 | **strace** | 6.19 | Debugging utility to monitor system calls and signals received | https://strace.io/ |
 | **streamripper** | 1.64.6-3 | Records and splits streaming mp3 into tracks | https://streamripper.sourceforge.net/ |
-| **stunnel** | 5.77 | Socket wrapper which can provide TLS support to ordinary applications | https://www.stunnel.org/ |
-| **stunnel-static** | 5.77 | Static libraries for stunnel | https://www.stunnel.org/ |
+| **stunnel** | 5.78 | Socket wrapper which can provide TLS support to ordinary applications | https://www.stunnel.org/ |
+| **stunnel-static** | 5.78 | Static libraries for stunnel | https://www.stunnel.org/ |
 | **stuntman** | 1.2.16-7 | An open source STUN server | https://www.stunprotocol.org/ |
 | **stylua** | 2.4.1 | An opinionated Lua code formatter | https://github.com/JohnnyMorganz/StyLua |
 | **subtitleripper** | 0.3.4-1 | DVD subtitle ripper for Linux | https://subtitleripper.sourceforge.net/ |
@@ -2617,12 +2617,12 @@
 | **vis** | 0.9-p20250111-0 | Modern, legacy free, simple yet efficient vim-like editor | https://www.brain-dump.org/projects/vis/ |
 | **vitetris** | 0.59.1-4 | Virtual terminal *tris clone | http://victornils.net/tetris/ |
 | **viu** | 1.6.1 | Terminal image viewer with native support for iTerm and Kitty | https://github.com/atanunq/viu |
-| **vivid** | 0.11.0 | A themeable LS_COLORS generator with a rich filetype datebase | https://github.com/sharkdp/vivid |
+| **vivid** | 0.11.1 | A themeable LS_COLORS generator with a rich filetype datebase | https://github.com/sharkdp/vivid |
 | **vlc** | 3.0.23-2 | A popular libre and open source media player and multimedia engine | https://www.videolan.org/ |
 | **vlc-static** | 3.0.23-2 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-4 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.3-1 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 2026.03.27 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
+| **vtm** | 2026.04.09 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
 | **vttest** | 20251205 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vulkan-extension-layer** | 1.4.341 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
 | **vulkan-headers** | 1.4.348 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |

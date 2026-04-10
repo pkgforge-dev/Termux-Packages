@@ -467,7 +467,7 @@
   Description: A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum
   Homepage: https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum
 - Package: babl
-  Version: 0.1.124
+  Version: 0.1.126
   Description: Dynamic pixel format translation library
   Homepage: https://gegl.org/babl/
 - Package: bacula-fd
@@ -2371,7 +2371,7 @@
   Description: Simple, Portable, Free File Transfer Software for UNIX
   Homepage: http://www.columbia.edu/kermit/gkermit.html
 - Package: glab-cli
-  Version: 1.91.0
+  Version: 1.92.0
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
@@ -2403,7 +2403,7 @@
   Description: Source code search and browse tools
   Homepage: https://www.gnu.org/software/global/
 - Package: glow
-  Version: 2.1.1-1
+  Version: 2.1.2
   Description: Render markdown on the CLI, with pizzazz!
   Homepage: https://github.com/charmbracelet/glow
 - Package: glpk
@@ -5495,11 +5495,11 @@
   Description: Static libraries for libsndfile
   Homepage: http://www.mega-nerd.com/libsndfile
 - Package: libsodium
-  Version: 1.0.21
+  Version: 1.0.22
   Description: Network communication, cryptography and signaturing library
   Homepage: https://libsodium.org/
 - Package: libsodium-static
-  Version: 1.0.21
+  Version: 1.0.22
   Description: Static libraries for libsodium
   Homepage: https://libsodium.org/
 - Package: libsoldout
@@ -5583,15 +5583,15 @@
   Description: Static libraries for libspice-server
   Homepage: https://www.spice-space.org/
 - Package: libsqlite
-  Version: 3.52.0-1
+  Version: 3.53.0
   Description: Library implementing a self-contained and transactional SQL database engine
   Homepage: https://www.sqlite.org
 - Package: libsqlite-static
-  Version: 3.52.0-1
+  Version: 3.53.0
   Description: Static libraries for libsqlite
   Homepage: https://www.sqlite.org
 - Package: libsqlite-tcl
-  Version: 3.52.0-1
+  Version: 3.53.0
   Description: tcl bindings for SQLite
   Homepage: https://www.sqlite.org
 - Package: libsrt
@@ -8283,7 +8283,7 @@
   Description: Tkinter support for PyPy 3
   Homepage: https://pypy.org
 - Package: pyrefly
-  Version: 0.60.0
+  Version: 0.60.1
   Description: A fast type checker and language server for Python
   Homepage: https://github.com/facebook/pyrefly.git
 - Package: pystring
@@ -9347,7 +9347,7 @@
   Description: SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files
   Homepage: https://github.com/sqlcipher/sqlcipher
 - Package: sqlite
-  Version: 3.52.0-1
+  Version: 3.53.0
   Description: Command line shell for SQLite
   Homepage: https://www.sqlite.org
 - Package: squashfs-tools-ng
@@ -9487,11 +9487,11 @@
   Description: Records and splits streaming mp3 into tracks
   Homepage: https://streamripper.sourceforge.net/
 - Package: stunnel
-  Version: "5.77"
+  Version: "5.78"
   Description: Socket wrapper which can provide TLS support to ordinary applications
   Homepage: https://www.stunnel.org/
 - Package: stunnel-static
-  Version: "5.77"
+  Version: "5.78"
   Description: Static libraries for stunnel
   Homepage: https://www.stunnel.org/
 - Package: stuntman
@@ -10475,7 +10475,7 @@
   Description: Terminal image viewer with native support for iTerm and Kitty
   Homepage: https://github.com/atanunq/viu
 - Package: vivid
-  Version: 0.11.0
+  Version: 0.11.1
   Description: A themeable LS_COLORS generator with a rich filetype datebase
   Homepage: https://github.com/sharkdp/vivid
 - Package: vlc
@@ -10495,7 +10495,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2026.03.27
+  Version: 2026.04.09
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vttest
