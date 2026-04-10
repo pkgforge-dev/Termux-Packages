@@ -8291,7 +8291,7 @@
   Description: C++ functions matching the interface and behavior of python string methods with std::string
   Homepage: https://github.com/imageworks/pystring
 - Package: python
-  Version: 3.13.13
+  Version: 3.13.13-1
   Description: Python 3 programming language intended to enable clear programs
   Homepage: https://python.org/
 - Package: python-apsw
@@ -8323,7 +8323,7 @@
   Description: Provides cryptographic recipes and primitives to Python developers
   Homepage: https://github.com/pyca/cryptography
 - Package: python-ensurepip-wheels
-  Version: 3.13.13
+  Version: 3.13.13-1
   Description: Wheels for Python ensurepip
   Homepage: https://python.org/
 - Package: python-greenlet
@@ -8403,7 +8403,7 @@
   Description: Python bindings for the Skia librarys Path Ops
   Homepage: https://github.com/fonttools/skia-pathops
 - Package: python-static
-  Version: 3.13.13
+  Version: 3.13.13-1
   Description: Static libraries for python
   Homepage: https://python.org/
 - Package: python-tflite-runtime
@@ -8411,7 +8411,7 @@
   Description: TensorFlow Lite Python bindings
   Homepage: https://www.tensorflow.org/lite
 - Package: python-tkinter
-  Version: 3.13.13
+  Version: 3.13.13-1
   Description: Tkinter support for Python 3
   Homepage: https://python.org/
 - Package: python-tldp

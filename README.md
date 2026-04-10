@@ -2083,7 +2083,7 @@
 | **pypy3-tkinter** | 7.3.21 | Tkinter support for PyPy 3 | https://pypy.org |
 | **pyrefly** | 0.60.1 | A fast type checker and language server for Python | https://github.com/facebook/pyrefly.git |
 | **pystring** | 1.1.4-1 | C++ functions matching the interface and behavior of python string methods with std::string | https://github.com/imageworks/pystring |
-| **python** | 3.13.13 | Python 3 programming language intended to enable clear programs | https://python.org/ |
+| **python** | 3.13.13-1 | Python 3 programming language intended to enable clear programs | https://python.org/ |
 | **python-apsw** | 3.52.0.0 | Another Python SQLite Wrapper | https://rogerbinns.github.io/apsw/ |
 | **python-apt** | 3.1.0-1 | Python bindings for APT | https://apt-team.pages.debian.net/python-apt/ |
 | **python-bcrypt** | 5.0.0-2 | Acceptable password hashing for your software and your servers | https://github.com/pyca/bcrypt |
@@ -2091,7 +2091,7 @@
 | **python-cmake** | 4.3.0 | Python wrapper for CMake | https://cmake-python-distributions.readthedocs.io/ |
 | **python-contourpy** | 1.3.3-4 | Python library for calculating contours in 2D quadrilateral grids | https://contourpy.readthedocs.io/ |
 | **python-cryptography** | 46.0.7 | Provides cryptographic recipes and primitives to Python developers | https://github.com/pyca/cryptography |
-| **python-ensurepip-wheels** | 3.13.13 | Wheels for Python ensurepip | https://python.org/ |
+| **python-ensurepip-wheels** | 3.13.13-1 | Wheels for Python ensurepip | https://python.org/ |
 | **python-greenlet** | 3.4.0 | Lightweight coroutines for in-process concurrent programming | https://github.com/python-greenlet/greenlet |
 | **python-grpcio** | 1.80.0 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
 | **python-lameenc** | 1.8.2 | Python bindings around the LAME encoder | https://github.com/chrisstaite/lameenc |
@@ -2111,9 +2111,9 @@
 | **python-ruff** | 0.15.10 | An extremely fast Python linter, written in Rust (Python bindings) | https://github.com/charliermarsh/ruff |
 | **python-sabyenc3** | 9.4.0 | C implementations of functions for use within SABnzbd | https://github.com/sabnzbd/sabctools |
 | **python-skia-pathops** | 0.9.2-1 | Python bindings for the Skia library's Path Ops | https://github.com/fonttools/skia-pathops |
-| **python-static** | 3.13.13 | Static libraries for python | https://python.org/ |
+| **python-static** | 3.13.13-1 | Static libraries for python | https://python.org/ |
 | **python-tflite-runtime** | 2.20.0-3 | TensorFlow Lite Python bindings | https://www.tensorflow.org/lite |
-| **python-tkinter** | 3.13.13 | Tkinter support for Python 3 | https://python.org/ |
+| **python-tkinter** | 3.13.13-1 | Tkinter support for Python 3 | https://python.org/ |
 | **python-tldp** | 0.7.5-7 | Tools for publishing from TLDP sources | https://github.com/tLDP/python-tldp |
 | **python-torch** | 2.11.0 | Tensors and Dynamic neural networks in Python | https://pytorch.org/ |
 | **python-torch-static** | 2.11.0 | Static libraries for python-torch | https://pytorch.org/ |
