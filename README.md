@@ -527,14 +527,14 @@
 | **freeimage-static** | 3.18.0-7 | Static libraries for freeimage | https://freeimage.sourceforge.io |
 | **freetype** | 2.14.3 | Software font engine capable of producing high-quality output | https://www.freetype.org |
 | **freetype-static** | 2.14.3 | Static libraries for freetype | https://www.freetype.org |
-| **frei0r-plugins** | 3.0.0 | Minimalistic plugin API for video effects | https://www.dyne.org/software/frei0r/ |
+| **frei0r-plugins** | 3.0.1 | Minimalistic plugin API for video effects | https://www.dyne.org/software/frei0r/ |
 | **fresh-editor** | 0.2.22 | Text editor for your terminal: easy, powerful and fast | https://getfresh.dev/ |
 | **fribidi** | 1.0.16-1 | Implementation of the Unicode Bidirectional Algorithm | https://github.com/fribidi/fribidi/ |
 | **fribidi-static** | 1.0.16-1 | Static libraries for fribidi | https://github.com/fribidi/fribidi/ |
 | **frobtads** | 2.0-5 | TADS is a free authoring system for writing your own Interactive Fiction | http://www.tads.org/frobtads.htm |
 | **frotz** | 2.55-2 | Interpreter for Infocom and other Z-machine interactive fiction (IF) games | https://gitlab.com/DavidGriffith/frotz |
 | **frp** | 0.68.0 | A fast reverse proxy to expose a local server behind a NAT or firewall to the internet | https://github.com/fatedier/frp |
-| **fselect** | 0.9.3 | Find files with SQL-like queries | https://fselect.rocks/ |
+| **fselect** | 0.10.0 | Find files with SQL-like queries | https://fselect.rocks/ |
 | **fsmon** | 1.8.8-1 | Filesystem monitor with fanotify and inotify backends | https://github.com/nowsecure/fsmon |
 | **fwknop** | 2.6.11-2 | fwknop: Single Packet Authorization > Port Knocking | https://www.cipherdyne.org/fwknop/ |
 | **fwknop-static** | 2.6.11-2 | Static libraries for fwknop | https://www.cipherdyne.org/fwknop/ |
@@ -1879,7 +1879,7 @@
 | **octomap** | 1.10.0-1 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0-1 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-5 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 29.9.4 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 29.10.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **okc-agents** | 0.1.2-2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.6-3 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-10 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
@@ -2164,7 +2164,7 @@
 | **rage** | 0.11.1-1 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4-1 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4-1 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
-| **railway-cli** | 4.36.1 | This is the command line interface for Railway | https://railway.app |
+| **railway-cli** | 4.37.1 | This is the command line interface for Railway | https://railway.app |
 | **range-v3** | 0.12.0 | Range library for C++14/17/20, basis for C++20's std::ranges | https://github.com/ericniebler/range-v3 |
 | **ranger** | 1.9.4-1 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-7 | Fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |
@@ -2306,7 +2306,7 @@
 | **simdjson** | 4.6.1 | A C++ library to see how fast we can parse JSON with complete validation | https://simdjson.org/ |
 | **simh** | 1:3.12.5-1 | A collection of simulators for computer hardware and software from the past | http://simh.trailing-edge.com/ |
 | **simulavr** | 1:1.1.0-3 | Simulator for Microchip AVR (formerly Atmel) microcontrollers | https://www.nongnu.org/simulavr |
-| **sing-box** | 1.13.6 | The universal proxy platform | https://sing-box.sagernet.org |
+| **sing-box** | 1.13.7 | The universal proxy platform | https://sing-box.sagernet.org |
 | **skate** | 1.0.1-1 | A personal key-value store | https://github.com/charmbracelet/skate |
 | **sl** | 5.05-1 | Tool curing your bad habit of mistyping | https://github.com/mtoyoda/sl |
 | **slang** | 2.3.3-2 | S-Lang is a powerful interpreted language | https://www.jedsoft.org/slang/ |
