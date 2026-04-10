@@ -2371,7 +2371,7 @@
   Description: Simple, Portable, Free File Transfer Software for UNIX
   Homepage: http://www.columbia.edu/kermit/gkermit.html
 - Package: glab-cli
-  Version: 1.92.0
+  Version: 1.92.1
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
@@ -8171,7 +8171,7 @@
   Description: A standalone front-end for the Java decompiler in Procyon Compiler Toolset
   Homepage: https://github.com/mstrobel/procyon
 - Package: profanity
-  Version: 0.17.0-1
+  Version: 0.18.0
   Description: Profanity is a console based XMPP client written in C using ncurses and libstrophe, inspired by Irssi
   Homepage: https://profanity-im.github.io
 - Package: progress
@@ -8179,7 +8179,7 @@
   Description: Linux tool to show progress for cp, mv, dd and more
   Homepage: https://github.com/Xfennec/progress
 - Package: proj
-  Version: 9.8.0
+  Version: 9.8.1
   Description: Generic coordinate transformation software
   Homepage: https://proj.org
 - Package: proot
@@ -8283,7 +8283,7 @@
   Description: Tkinter support for PyPy 3
   Homepage: https://pypy.org
 - Package: pyrefly
-  Version: 0.60.1
+  Version: 0.60.2
   Description: A fast type checker and language server for Python
   Homepage: https://github.com/facebook/pyrefly.git
 - Package: pystring
@@ -8295,7 +8295,7 @@
   Description: Python 3 programming language intended to enable clear programs
   Homepage: https://python.org/
 - Package: python-apsw
-  Version: 3.52.0.0
+  Version: 3.53.0.0
   Description: Another Python SQLite Wrapper
   Homepage: https://rogerbinns.github.io/apsw/
 - Package: python-apt
@@ -8615,7 +8615,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 4.37.1
+  Version: 4.37.2
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
