@@ -618,7 +618,7 @@
 | **gitui** | 0.28.1 | Blazing fast terminal-ui for git written in rust | https://github.com/gitui-org/gitui |
 | **gkermit** | 2.01-1 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
 | **glab-cli** | 1.92.1 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
-| **gleam** | 1.15.2 | A friendly language for building type-safe, scalable systems! | https://gleam.run |
+| **gleam** | 1.15.3 | A friendly language for building type-safe, scalable systems! | https://gleam.run |
 | **glib** | 2.88.0 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
 | **glib-cross** | 2.88.0 | glib for host (NOT for Termux) | https://developer.gnome.org/glib/ |
 | **glib-networking** | 2.80.1-2 | Network-related giomodules for glib | https://gitlab.gnome.org/GNOME/glib-networking |
