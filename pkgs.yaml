@@ -171,7 +171,7 @@
   Description: Strip or convert ANSI codes into HTML, (La)Tex, RTF, or BBCode
   Homepage: http://www.andre-simon.de/doku/ansifilter/en/ansifilter.php
 - Package: ant
-  Version: 1.10.16
+  Version: 1.10.17
   Description: Java based build tool like make
   Homepage: https://ant.apache.org/
 - Package: antibody
@@ -4275,7 +4275,7 @@
   Description: Static libraries for libgd
   Homepage: https://libgd.github.io/
 - Package: libgedit-gfls
-  Version: 0.4.0
+  Version: 0.4.1
   Description: A module dedicated to file loading and saving
   Homepage: https://gitlab.gnome.org/World/gedit/libgedit-gfls
 - Package: libgee
