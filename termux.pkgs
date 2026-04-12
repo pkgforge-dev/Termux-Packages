@@ -530,7 +530,7 @@
 | **freetype** | 2.14.3 | Software font engine capable of producing high-quality output | https://www.freetype.org |
 | **freetype-static** | 2.14.3 | Static libraries for freetype | https://www.freetype.org |
 | **frei0r-plugins** | 3.0.1 | Minimalistic plugin API for video effects | https://www.dyne.org/software/frei0r/ |
-| **fresh-editor** | 0.2.22 | Text editor for your terminal: easy, powerful and fast | https://getfresh.dev/ |
+| **fresh-editor** | 0.2.23 | Text editor for your terminal: easy, powerful and fast | https://getfresh.dev/ |
 | **fribidi** | 1.0.16-1 | Implementation of the Unicode Bidirectional Algorithm | https://github.com/fribidi/fribidi/ |
 | **fribidi-static** | 1.0.16-1 | Static libraries for fribidi | https://github.com/fribidi/fribidi/ |
 | **frobtads** | 2.0-5 | TADS is a free authoring system for writing your own Interactive Fiction | http://www.tads.org/frobtads.htm |
@@ -874,8 +874,8 @@
 | **lexbor** | 3.0.0 | Fast embeddable web browser engine written in C with no dependencies | https://lexbor.com |
 | **lexter** | 1.0.3-5 | A real-time word puzzle for text terminals | https://www.kyne.au/~mark/software/lexter.php |
 | **lf** | 41 | Terminal file manager | https://github.com/gokcehan/lf |
-| **lfortran** | 0.61.0 | A modern open-source interactive Fortran compiler | https://lfortran.org/ |
-| **lfortran-static** | 0.61.0 | Static libraries for lfortran | https://lfortran.org/ |
+| **lfortran** | 0.62.0 | A modern open-source interactive Fortran compiler | https://lfortran.org/ |
+| **lfortran-static** | 0.62.0 | Static libraries for lfortran | https://lfortran.org/ |
 | **lftp** | 4.9.2-7 | FTP/HTTP client and file transfer program | https://lftp.tech/ |
 | **lftp-static** | 4.9.2-7 | Static libraries for lftp | https://lftp.tech/ |
 | **lgogdownloader** | 3.18-1 | Open source downloader to GOG.com for Linux users using the same API as the official GOGDownloader | https://sites.google.com/site/gogdownloader/ |
@@ -2681,7 +2681,7 @@
 | **vlc-static** | 3.0.23-2 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-4 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.3-1 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 2026.04.10 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
+| **vtm** | 2026.04.11 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
 | **vttest** | 20251205 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vulkan-extension-layer** | 1.4.341 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
 | **vulkan-headers** | 1.4.349 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
@@ -2696,7 +2696,7 @@
 | **w3m** | 0.5.6 | Text based Web browser and pager | https://w3m.sourceforge.net/ |
 | **w3m-img** | 0.5.6 | Inline image extension support utilities for w3m | https://w3m.sourceforge.net/ |
 | **wabt** | 1.0.40 | The WebAssembly Binary Toolkit | https://github.com/WebAssembly/wabt |
-| **wakatime-cli** | 2.2.0 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
+| **wakatime-cli** | 2.2.3 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
 | **walk** | 1.13.0 | A terminal file manager | https://github.com/antonmedv/walk |
 | **wallust** | 3.5.2 | Generate colors from an image | https://explosion-mental.codeberg.page/wallust |
 | **wasi-libc** | 30 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |
@@ -2720,7 +2720,7 @@
 | **weechat-python-plugin** | 4.7.1-2 | WeeChat Python3 Plugin | https://weechat.org/ |
 | **weechat-ruby-plugin** | 4.7.1-2 | WeeChat Ruby Plugin | https://weechat.org/ |
 | **weggli** | 0.2.4-3 | A fast and robust semantic search tool for C and C++ codebases | https://github.com/googleprojectzero/weggli |
-| **wego** | 2.3-1 | weather app for the terminal | https://github.com/schachmat/wego |
+| **wego** | 2.4 | weather app for the terminal | https://github.com/schachmat/wego |
 | **wget** | 1.25.0-1 | Commandline tool for retrieving files using HTTP, HTTPS and FTP | https://www.gnu.org/software/wget/ |
 | **wget2** | 2.2.1-1 | The successor of GNU Wget, a file and recursive website downloader | https://gitlab.com/gnuwget/wget2 |
 | **wget2-static** | 2.2.1-1 | Static libraries for wget2 | https://gitlab.com/gnuwget/wget2 |
