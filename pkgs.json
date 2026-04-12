@@ -1195,7 +1195,7 @@
   },
   {
     "Package": "carapace",
-    "Version": "1.6.3",
+    "Version": "1.6.4",
     "Description": "Multi-shell multi-command argument completer",
     "Homepage": "https://carapace.sh/"
   },
@@ -2161,7 +2161,7 @@
   },
   {
     "Package": "dnsutils",
-    "Version": "9.20.21",
+    "Version": "9.20.22",
     "Description": "Clients provided with BIND",
     "Homepage": "https://www.isc.org/bind/"
   },
@@ -4063,13 +4063,13 @@
   },
   {
     "Package": "graphviz",
-    "Version": "14.1.4",
+    "Version": "14.1.5",
     "Description": "Rich set of graph drawing tools",
     "Homepage": "https://www.graphviz.org/"
   },
   {
     "Package": "graphviz-static",
-    "Version": "14.1.4",
+    "Version": "14.1.5",
     "Description": "Static libraries for graphviz",
     "Homepage": "https://www.graphviz.org/"
   },
@@ -11191,7 +11191,7 @@
   },
   {
     "Package": "nginx",
-    "Version": "1.29.8",
+    "Version": "1.29.8-1",
     "Description": "Lightweight HTTP server",
     "Homepage": "https://www.nginx.org"
   },
@@ -11347,7 +11347,7 @@
   },
   {
     "Package": "nushell",
-    "Version": "0.111.0",
+    "Version": "0.112.1",
     "Description": "A new type of shell operating on structured data",
     "Homepage": "https://www.nushell.sh"
   },
@@ -16555,7 +16555,7 @@
   },
   {
     "Package": "xorriso",
-    "Version": "1:1.5.8",
+    "Version": "1:1.5.8.pl01",
     "Description": "Tool for creating ISO files",
     "Homepage": "https://www.gnu.org/software/xorriso"
   },

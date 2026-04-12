@@ -197,7 +197,7 @@
 | **capnproto** | 1.4.0 | Data interchange format and capability-based RPC system | https://capnproto.org/ |
 | **capstone** | 5.0.7 | Lightweight multi-platform, multi-architecture disassembly framework | https://www.capstone-engine.org/ |
 | **capstone-static** | 5.0.7 | Static libraries for capstone | https://www.capstone-engine.org/ |
-| **carapace** | 1.6.3 | Multi-shell multi-command argument completer | https://carapace.sh/ |
+| **carapace** | 1.6.4 | Multi-shell multi-command argument completer | https://carapace.sh/ |
 | **cargo-binstall** | 1.17.9 | Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem | https://github.com/cargo-bins/cargo-binstall |
 | **cargo-c** | 0.10.21 | Cargo C-ABI helpers | https://github.com/lu-zero/cargo-c |
 | **cargo-cache** | 0.8.3 | Tool to manage cargo cache | https://github.com/matthiaskrgr/cargo-cache |
@@ -358,7 +358,7 @@
 | **dnsmap** | 0.36-3 | Subdomain Bruteforcing Tool | https://github.com/resurrecting-open-source-projects/dnsmap |
 | **dnsmasq** | 2.92 | Dnsmasq provides network infrastructure for small networks | http://www.thekelleys.org.uk/dnsmasq/doc.html |
 | **dnstop** | 2022.10.19-1 | A libpcap application that displays various tables of DNS traffic on your network | https://github.com/measurement-factory/dnstop |
-| **dnsutils** | 9.20.21 | Clients provided with BIND | https://www.isc.org/bind/ |
+| **dnsutils** | 9.20.22 | Clients provided with BIND | https://www.isc.org/bind/ |
 | **docbook-xml** | 5.1-1 | A widely used XML scheme for writing documentation and help | https://www.oasis-open.org/docbook/ |
 | **docbook-xsl** | 1.79.2-4 | XML stylesheets for Docbook-xml transformations | https://docbook.org/ |
 | **docopt** | 0.6.3-4 | Command line arguments parser for C++11 and later | http://docopt.org |
@@ -675,8 +675,8 @@
 | **graphene** | 1.10.8-3 | A thin layer of graphic data types | https://ebassi.github.io/graphene/ |
 | **graphicsmagick** | 1.3.46 | Collection of image processing tools | http://www.graphicsmagick.org/ |
 | **graphicsmagick-static** | 1.3.46 | Static libraries for graphicsmagick | http://www.graphicsmagick.org/ |
-| **graphviz** | 14.1.4 | Rich set of graph drawing tools | https://www.graphviz.org/ |
-| **graphviz-static** | 14.1.4 | Static libraries for graphviz | https://www.graphviz.org/ |
+| **graphviz** | 14.1.5 | Rich set of graph drawing tools | https://www.graphviz.org/ |
+| **graphviz-static** | 14.1.5 | Static libraries for graphviz | https://www.graphviz.org/ |
 | **greed** | 4.5 | Game where you try to eat as much as possible of the board before munching yourself into a corner | http://www.catb.org/~esr/greed/ |
 | **grep** | 3.12-3 | Command which searches one or more input files for lines containing a match to a specified pattern | https://www.gnu.org/software/grep/ |
 | **grex** | 1.4.6-1 | Simplifies the task of creating regular expressions | https://github.com/pemistahl/grex |
@@ -1863,7 +1863,7 @@
 | **nettle** | 4.0+really3.10.2 | Low level cryptographic tools | https://www.lysator.liu.se/~nisse/nettle/ |
 | **newsboat** | 2.43 | RSS/Atom feed reader for the text console | https://newsboat.org/ |
 | **newsraft** | 0.36 | Newsraft is a feed reader with text-based user interface | https://codeberg.org/newsraft/newsraft |
-| **nginx** | 1.29.8 | Lightweight HTTP server | https://www.nginx.org |
+| **nginx** | 1.29.8-1 | Lightweight HTTP server | https://www.nginx.org |
 | **ngircd** | 27-1 | Free, portable and lightweight Internet Relay Chat server | https://ngircd.barton.de/ |
 | **ngspice** | 45.2 | A mixed-level/mixed-signal circuit simulator | https://ngspice.sourceforge.net/ |
 | **nim** | 2.2.6 | Nim programming language compiler | https://nim-lang.org/ |
@@ -1889,7 +1889,7 @@
 | **nsnake** | 3.0.1-7 | The classic snake game with textual interface | https://github.com/alexdantas/nSnake |
 | **nss-utils** | 3.122 | Tools for NSS | https://firefox-source-docs.mozilla.org/security/nss/ |
 | **nudoku** | 7.0.0 | ncurses based sudoku game | http://jubalh.github.io/nudoku/ |
-| **nushell** | 0.111.0 | A new type of shell operating on structured data | https://www.nushell.sh |
+| **nushell** | 0.112.1 | A new type of shell operating on structured data | https://www.nushell.sh |
 | **nyancat** | 1.5.2-1 | Nyancat in your terminal, rendered through ANSI escape sequences. | http://nyancat.dakko.us |
 | **nzbget** | 26.0 | The most efficient usenet downloader | https://nzbget.com/ |
 | **oathtool** | 2.6.12-2 | One-time password components | http://www.nongnu.org/oath-toolkit/ |
@@ -2757,7 +2757,7 @@
 | **xmppc** | 0.1.2-4 | Command Line Interface Tool for XMPP | https://codeberg.org/Anoxinon_e.V./xmppc |
 | **xorg-util-macros** | 1.20.2 | X.Org Autotools macros | https://xorg.freedesktop.org/ |
 | **xorgproto** | 2025.1 | X.Org X11 Protocol headers | https://xorg.freedesktop.org/ |
-| **xorriso** | 1:1.5.8 | Tool for creating ISO files | https://www.gnu.org/software/xorriso |
+| **xorriso** | 1:1.5.8.pl01 | Tool for creating ISO files | https://www.gnu.org/software/xorriso |
 | **xsltproc** | 1.1.45-1 | XSLT command line processor | http://xmlsoft.org/libxslt/ |
 | **xtrans** | 1.6.0 | X transport library | https://xorg.freedesktop.org/ |
 | **xvidcore** | 1.3.7-1 | High performance and high quality MPEG-4 library | https://www.xvid.com/ |

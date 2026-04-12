@@ -795,7 +795,7 @@
   Description: Static libraries for capstone
   Homepage: https://www.capstone-engine.org/
 - Package: carapace
-  Version: 1.6.3
+  Version: 1.6.4
   Description: Multi-shell multi-command argument completer
   Homepage: https://carapace.sh/
 - Package: cargo-binstall
@@ -1439,7 +1439,7 @@
   Description: A libpcap application that displays various tables of DNS traffic on your network
   Homepage: https://github.com/measurement-factory/dnstop
 - Package: dnsutils
-  Version: 9.20.21
+  Version: 9.20.22
   Description: Clients provided with BIND
   Homepage: https://www.isc.org/bind/
 - Package: docbook-xml
@@ -2707,11 +2707,11 @@
   Description: Static libraries for graphicsmagick
   Homepage: http://www.graphicsmagick.org/
 - Package: graphviz
-  Version: 14.1.4
+  Version: 14.1.5
   Description: Rich set of graph drawing tools
   Homepage: https://www.graphviz.org/
 - Package: graphviz-static
-  Version: 14.1.4
+  Version: 14.1.5
   Description: Static libraries for graphviz
   Homepage: https://www.graphviz.org/
 - Package: greed
@@ -7459,7 +7459,7 @@
   Description: Newsraft is a feed reader with text-based user interface
   Homepage: https://codeberg.org/newsraft/newsraft
 - Package: nginx
-  Version: 1.29.8
+  Version: 1.29.8-1
   Description: Lightweight HTTP server
   Homepage: https://www.nginx.org
 - Package: ngircd
@@ -7563,7 +7563,7 @@
   Description: ncurses based sudoku game
   Homepage: http://jubalh.github.io/nudoku/
 - Package: nushell
-  Version: 0.111.0
+  Version: 0.112.1
   Description: A new type of shell operating on structured data
   Homepage: https://www.nushell.sh
 - Package: nyancat
@@ -11035,7 +11035,7 @@
   Description: X.Org X11 Protocol headers
   Homepage: https://xorg.freedesktop.org/
 - Package: xorriso
-  Version: 1:1.5.8
+  Version: 1:1.5.8.pl01
   Description: Tool for creating ISO files
   Homepage: https://www.gnu.org/software/xorriso
 - Package: xsltproc
