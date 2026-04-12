@@ -851,7 +851,7 @@
   Description: A free compiler for 6502 based system
   Homepage: https://cc65.github.io/
 - Package: ccache
-  Version: 4.13.2
+  Version: 4.13.3
   Description: Compiler cache for fast recompilation of C/C++ code
   Homepage: https://ccache.samba.org
 - Package: cccc
@@ -6447,15 +6447,15 @@
   Description: Color management utilities
   Homepage: http://www.littlecms.com/
 - Package: llama-cpp
-  Version: 0.0.0-b8580-0
+  Version: 0.0.0-b8763-0
   Description: LLM inference in C/C++
   Homepage: https://github.com/ggml-org/llama.cpp
 - Package: llama-cpp-backend-opencl
-  Version: 0.0.0-b8580-0
+  Version: 0.0.0-b8763-0
   Description: OpenCL Backend for LLaMA.cpp
   Homepage: https://github.com/ggml-org/llama.cpp
 - Package: llama-cpp-backend-vulkan
-  Version: 0.0.0-b8580-0
+  Version: 0.0.0-b8763-0
   Description: Vulkan Backend for LLaMA.cpp
   Homepage: https://github.com/ggml-org/llama.cpp
 - Package: llbuild
