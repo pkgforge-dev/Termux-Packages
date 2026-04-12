@@ -1103,7 +1103,7 @@
   Description: Basic file, shell and text manipulation utilities from the GNU project
   Homepage: https://www.gnu.org/software/coreutils/
 - Package: corgi
-  Version: 0.2.4-5
+  Version: 0.2.4-6
   Description: CLI workflow manager
   Homepage: https://github.com/DrakeW/corgi
 - Package: corkscrew
@@ -7295,7 +7295,7 @@
   Description: An interactive cheatsheet tool for the command-line
   Homepage: https://github.com/denisidoro/navi
 - Package: navidrome
-  Version: 0.61.0
+  Version: 0.61.1-1
   Description: Modern Music Server and Streamer compatible with Subsonic/Airsonic
   Homepage: https://www.navidrome.org/
 - Package: ncdc
