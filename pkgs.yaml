@@ -2431,7 +2431,7 @@
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
-  Version: 1.15.3
+  Version: 1.15.4
   Description: A friendly language for building type-safe, scalable systems!
   Homepage: https://gleam.run
 - Package: glib
@@ -3087,11 +3087,11 @@
   Description: A command line id3v2 tag editor
   Homepage: https://id3v2.sourceforge.net/
 - Package: imagemagick
-  Version: 7.1.2.18-1
+  Version: 7.1.2.19
   Description: Suite to create, edit, compose, or convert images in a variety of formats
   Homepage: https://www.imagemagick.org/
 - Package: imagemagick-static
-  Version: 7.1.2.18-1
+  Version: 7.1.2.19
   Description: Static libraries for imagemagick
   Homepage: https://www.imagemagick.org/
 - Package: imath
@@ -6447,15 +6447,15 @@
   Description: Color management utilities
   Homepage: http://www.littlecms.com/
 - Package: llama-cpp
-  Version: 0.0.0-b8763-0
+  Version: 0.0.0-b8770-0
   Description: LLM inference in C/C++
   Homepage: https://github.com/ggml-org/llama.cpp
 - Package: llama-cpp-backend-opencl
-  Version: 0.0.0-b8763-0
+  Version: 0.0.0-b8770-0
   Description: OpenCL Backend for LLaMA.cpp
   Homepage: https://github.com/ggml-org/llama.cpp
 - Package: llama-cpp-backend-vulkan
-  Version: 0.0.0-b8763-0
+  Version: 0.0.0-b8770-0
   Description: Vulkan Backend for LLaMA.cpp
   Homepage: https://github.com/ggml-org/llama.cpp
 - Package: llbuild
@@ -6495,7 +6495,7 @@
   Description: LLVM Development Tools
   Homepage: https://clang.llvm.org/
 - Package: lnav
-  Version: 0.13.2
+  Version: 0.14.0
   Description: An advanced log file viewer for the small-scale
   Homepage: https://lnav.org/
 - Package: lnd
@@ -8795,7 +8795,7 @@
   Description: Static libraries for racket
   Homepage: https://racket-lang.org
 - Package: radare2
-  Version: 6.1.2
+  Version: 6.1.4
   Description: UNIX-like reverse engineering framework and command-line toolset
   Homepage: https://www.radare.org/
 - Package: rage
@@ -10587,7 +10587,7 @@
   Description: uWSGI application server container
   Homepage: https://projects.unbit.it/uwsgi
 - Package: v2ray
-  Version: 5.47.0
+  Version: 5.48.0
   Description: A platform for building proxies to bypass network restrictions
   Homepage: https://www.v2fly.org/
 - Package: valac
