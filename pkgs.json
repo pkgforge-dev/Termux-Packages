@@ -1039,7 +1039,7 @@
   },
   {
     "Package": "bsdtar",
-    "Version": "3.8.6",
+    "Version": "3.8.7",
     "Description": "The tar(1) and cpio(1) programs from FreeBSD, using libarchive",
     "Homepage": "https://www.libarchive.org/"
   },
@@ -1201,7 +1201,7 @@
   },
   {
     "Package": "cargo-binstall",
-    "Version": "1.18.0",
+    "Version": "1.18.1",
     "Description": "Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem",
     "Homepage": "https://github.com/cargo-bins/cargo-binstall"
   },
@@ -3187,7 +3187,7 @@
   },
   {
     "Package": "frei0r-plugins",
-    "Version": "3.0.1",
+    "Version": "3.1.1",
     "Description": "Minimalistic plugin API for video effects",
     "Homepage": "https://www.dyne.org/software/frei0r/"
   },
@@ -5491,13 +5491,13 @@
   },
   {
     "Package": "libarchive",
-    "Version": "3.8.6",
+    "Version": "3.8.7",
     "Description": "Multi-format archive and compression library",
     "Homepage": "https://www.libarchive.org/"
   },
   {
     "Package": "libarchive-static",
-    "Version": "3.8.6",
+    "Version": "3.8.7",
     "Description": "Static libraries for libarchive",
     "Homepage": "https://www.libarchive.org/"
   },
@@ -7255,13 +7255,13 @@
   },
   {
     "Package": "libmicrohttpd",
-    "Version": "1.0.3",
+    "Version": "1.0.4",
     "Description": "A small C library that is supposed to make it easy to run an HTTP server as part of another application",
     "Homepage": "http://www.gnu.org/software/libmicrohttpd/"
   },
   {
     "Package": "libmicrohttpd-static",
-    "Version": "1.0.3",
+    "Version": "1.0.4",
     "Description": "Static libraries for libmicrohttpd",
     "Homepage": "http://www.gnu.org/software/libmicrohttpd/"
   },
@@ -10585,7 +10585,7 @@
   },
   {
     "Package": "mold",
-    "Version": "2.40.4",
+    "Version": "2.41.0",
     "Description": "mold: A Modern Linker",
     "Homepage": "https://github.com/rui314/mold"
   },
@@ -14521,7 +14521,7 @@
   },
   {
     "Package": "storj-uplink",
-    "Version": "1.151.4",
+    "Version": "1.151.5",
     "Description": "Storj DCS Uplink CLI",
     "Homepage": "https://www.storj.io/integrations/uplink-cli"
   },
@@ -15265,7 +15265,7 @@
   },
   {
     "Package": "totem-pl-parser",
-    "Version": "3.26.6-2",
+    "Version": "3.26.7",
     "Description": "Simple GObject-based library to parse and save a host of playlist formats",
     "Homepage": "https://gitlab.gnome.org/GNOME/totem-pl-parser"
   },
@@ -16189,7 +16189,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "2.2.3",
+    "Version": "2.2.4",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },

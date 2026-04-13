@@ -183,7 +183,7 @@
 | **brotli** | 1.2.0 | lossless compression algorithm and format (command line utility) | https://github.com/google/brotli |
 | **bsd-finger** | 0.17-3 | User information lookup program | https://packages.debian.org/sid/source/bsd-finger |
 | **bsd-games** | 1:3.3-1 | Classic text mode games from UNIX folklore | https://www.polyomino.org.uk/computer/software/bsd-games/ |
-| **bsdtar** | 3.8.6 | The tar(1) and cpio(1) programs from FreeBSD, using libarchive | https://www.libarchive.org/ |
+| **bsdtar** | 3.8.7 | The tar(1) and cpio(1) programs from FreeBSD, using libarchive | https://www.libarchive.org/ |
 | **btfs2** | 4.1.0 | Decentralized file system integrating with TRON network and Bittorrent network | https://www.bittorrent.com/btfs/ |
 | **btrfs-progs** | 6.19.1 | Utilities for Btrfs filesystem | https://btrfs.readthedocs.io/en/latest/ |
 | **buf** | 1.67.0 | A new way of working with Protocol Buffers | https://buf.build |
@@ -210,7 +210,7 @@
 | **capstone** | 5.0.7 | Lightweight multi-platform, multi-architecture disassembly framework | https://www.capstone-engine.org/ |
 | **capstone-static** | 5.0.7 | Static libraries for capstone | https://www.capstone-engine.org/ |
 | **carapace** | 1.6.4 | Multi-shell multi-command argument completer | https://carapace.sh/ |
-| **cargo-binstall** | 1.18.0 | Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem | https://github.com/cargo-bins/cargo-binstall |
+| **cargo-binstall** | 1.18.1 | Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem | https://github.com/cargo-bins/cargo-binstall |
 | **cargo-c** | 0.10.21 | Cargo C-ABI helpers | https://github.com/lu-zero/cargo-c |
 | **cargo-cache** | 0.8.3 | Tool to manage cargo cache | https://github.com/matthiaskrgr/cargo-cache |
 | **cargo-leptos** | 0.3.6 | Build tool for the Rust framework Leptos | https://github.com/leptos-rs/cargo-leptos |
@@ -541,7 +541,7 @@
 | **freeimage-static** | 3.18.0-7 | Static libraries for freeimage | https://freeimage.sourceforge.io |
 | **freetype** | 2.14.3 | Software font engine capable of producing high-quality output | https://www.freetype.org |
 | **freetype-static** | 2.14.3 | Static libraries for freetype | https://www.freetype.org |
-| **frei0r-plugins** | 3.0.1 | Minimalistic plugin API for video effects | https://www.dyne.org/software/frei0r/ |
+| **frei0r-plugins** | 3.1.1 | Minimalistic plugin API for video effects | https://www.dyne.org/software/frei0r/ |
 | **fresh-editor** | 0.2.23 | Text editor for your terminal: easy, powerful and fast | https://getfresh.dev/ |
 | **fribidi** | 1.0.16-1 | Implementation of the Unicode Bidirectional Algorithm | https://github.com/fribidi/fribidi/ |
 | **fribidi-static** | 1.0.16-1 | Static libraries for fribidi | https://github.com/fribidi/fribidi/ |
@@ -925,8 +925,8 @@
 | **libaom** | 3.13.3 | AV1 Video Codec Library | https://aomedia.org/ |
 | **libaom-static** | 3.13.3 | Static libraries for libaom | https://aomedia.org/ |
 | **libapt-pkg-perl** | 0.1.40-14 | Perl interface to APT's libapt-pkg | https://packages.debian.org/libapt-pkg-perl |
-| **libarchive** | 3.8.6 | Multi-format archive and compression library | https://www.libarchive.org/ |
-| **libarchive-static** | 3.8.6 | Static libraries for libarchive | https://www.libarchive.org/ |
+| **libarchive** | 3.8.7 | Multi-format archive and compression library | https://www.libarchive.org/ |
+| **libarchive-static** | 3.8.7 | Static libraries for libarchive | https://www.libarchive.org/ |
 | **libarrow-cpp** | 23.0.1-2 | C++ libraries for Apache Arrow | https://github.com/apache/arrow |
 | **libasio** | 1.36.0 | Cross-platform C++ library for network and low-level I/O programming | https://think-async.com/Asio |
 | **libasm** | 0.193-1 | Library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |
@@ -1219,8 +1219,8 @@
 | **libmesode-static** | 0.10.1-5 | Static libraries for libmesode | https://github.com/boothj5/libmesode |
 | **libmhash** | 0.9.9.9-4 | A thread-safe hash library which provides a uniform interface to hash algorithms | https://mhash.sourceforge.net/ |
 | **libmhash-static** | 0.9.9.9-4 | Static libraries for libmhash | https://mhash.sourceforge.net/ |
-| **libmicrohttpd** | 1.0.3 | A small C library that is supposed to make it easy to run an HTTP server as part of another application | http://www.gnu.org/software/libmicrohttpd/ |
-| **libmicrohttpd-static** | 1.0.3 | Static libraries for libmicrohttpd | http://www.gnu.org/software/libmicrohttpd/ |
+| **libmicrohttpd** | 1.0.4 | A small C library that is supposed to make it easy to run an HTTP server as part of another application | http://www.gnu.org/software/libmicrohttpd/ |
+| **libmicrohttpd-static** | 1.0.4 | Static libraries for libmicrohttpd | http://www.gnu.org/software/libmicrohttpd/ |
 | **libminizip** | 1.3.2-1 | Mini zip and unzip based on zlib | https://www.winimage.com/zLibDll/minizip.html |
 | **libminizip-ng** | 4.1.0 | A zip manipulation library written in C | https://github.com/zlib-ng/minizip-ng |
 | **libminizip-static** | 1.3.2-1 | Static libraries for libminizip | https://www.winimage.com/zLibDll/minizip.html |
@@ -1774,7 +1774,7 @@
 | **mktorrent** | 1.1-p20210130-1 | command line utility to create BitTorrent metainfo files | https://github.com/Rudde/mktorrent |
 | **mlir** | 21.1.8-2 | A Multi-Level Intermediate Representation for compilers from LLVM | https://clang.llvm.org/ |
 | **mlocate** | 0.26-6 | Tool to find files anywhere in the filesystem based on their name | https://pagure.io/mlocate |
-| **mold** | 2.40.4 | mold: A Modern Linker | https://github.com/rui314/mold |
+| **mold** | 2.41.0 | mold: A Modern Linker | https://github.com/rui314/mold |
 | **monero** | 0.18.4.6 | A private, secure, untraceable, decentralised digital currency | https://getmonero.org/ |
 | **monetdb** | 11.55.5 | A high-performance database kernel for query-intensive applications | https://www.monetdb.org/ |
 | **mono** | 6.14.1-2 | Framework Mono | https://gitlab.winehq.org/mono/mono |
@@ -2430,7 +2430,7 @@
 | **stoken** | 0.93-3 | Software Token for Linux/UNIX | https://github.com/cernekee/stoken |
 | **stoken-static** | 0.93-3 | Static libraries for stoken | https://github.com/cernekee/stoken |
 | **stone** | 2.4-3 | A TCP/IP repeater in the application layer | https://www.gcd.org/sengoku/stone/ |
-| **storj-uplink** | 1.151.4 | Storj DCS Uplink CLI | https://www.storj.io/integrations/uplink-cli |
+| **storj-uplink** | 1.151.5 | Storj DCS Uplink CLI | https://www.storj.io/integrations/uplink-cli |
 | **stow** | 2.4.1 | Tool for managing the installation of multiple software packages into a single directory | https://www.gnu.org/software/stow/ |
 | **strace** | 6.19 | Debugging utility to monitor system calls and signals received | https://strace.io/ |
 | **streamripper** | 1.64.6-3 | Records and splits streaming mp3 into tracks | https://streamripper.sourceforge.net/ |
@@ -2554,7 +2554,7 @@
 | **tor** | 0.4.9.6 | The Onion Router anonymizing overlay network | https://www.torproject.org |
 | **torsocks** | 2.5.0-1 | Wrapper to safely torify applications | https://gitlab.torproject.org/tpo/core/torsocks |
 | **torsocks-static** | 2.5.0-1 | Static libraries for torsocks | https://gitlab.torproject.org/tpo/core/torsocks |
-| **totem-pl-parser** | 3.26.6-2 | Simple GObject-based library to parse and save a host of playlist formats | https://gitlab.gnome.org/GNOME/totem-pl-parser |
+| **totem-pl-parser** | 3.26.7 | Simple GObject-based library to parse and save a host of playlist formats | https://gitlab.gnome.org/GNOME/totem-pl-parser |
 | **toxic** | 0.16.2-1 | A command line client for Tox | https://github.com/JFreegman/toxic |
 | **tracepath** | 20250605-1 | Tool to trace the network path to a remote host | https://github.com/iputils/iputils |
 | **traceroute** | 2.1.6-1 | A new modern implementation of traceroute(8) utility for Linux systems | https://traceroute.sourceforge.net/ |
@@ -2708,7 +2708,7 @@
 | **w3m** | 0.5.6 | Text based Web browser and pager | https://w3m.sourceforge.net/ |
 | **w3m-img** | 0.5.6 | Inline image extension support utilities for w3m | https://w3m.sourceforge.net/ |
 | **wabt** | 1.0.40 | The WebAssembly Binary Toolkit | https://github.com/WebAssembly/wabt |
-| **wakatime-cli** | 2.2.3 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
+| **wakatime-cli** | 2.2.4 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
 | **walk** | 1.13.0 | A terminal file manager | https://github.com/antonmedv/walk |
 | **wallust** | 3.5.2 | Generate colors from an image | https://explosion-mental.codeberg.page/wallust |
 | **wasi-libc** | 30 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |
