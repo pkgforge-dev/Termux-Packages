@@ -11455,13 +11455,13 @@
   },
   {
     "Package": "ollama",
-    "Version": "0.20.5",
+    "Version": "0.20.6",
     "Description": "Get up and running with large language models",
     "Homepage": "https://ollama.com/"
   },
   {
     "Package": "ollama-backend-vulkan",
-    "Version": "0.20.5",
+    "Version": "0.20.6",
     "Description": "Vulkan Backend for Ollama",
     "Homepage": "https://ollama.com/"
   },
@@ -13675,7 +13675,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20260406",
+    "Version": "20260413",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://rust-analyzer.github.io/"
   },
