@@ -2503,7 +2503,7 @@
   },
   {
     "Package": "duckdb",
-    "Version": "1.5.1",
+    "Version": "1.5.2",
     "Description": "DuckDB Command Line Interface (CLI) shell",
     "Homepage": "https://duckdb.org/"
   },
@@ -6079,13 +6079,13 @@
   },
   {
     "Package": "libduckdb",
-    "Version": "1.5.1",
+    "Version": "1.5.2",
     "Description": "An in-process SQL OLAP database management system",
     "Homepage": "https://duckdb.org/"
   },
   {
     "Package": "libduckdb-static",
-    "Version": "1.5.1",
+    "Version": "1.5.2",
     "Description": "Static libraries for libduckdb",
     "Homepage": "https://duckdb.org/"
   },
@@ -11839,13 +11839,13 @@
   },
   {
     "Package": "oxfmt",
-    "Version": "1.59.0",
+    "Version": "1.60.0",
     "Description": "Oxc JavaScript formatter",
     "Homepage": "https://oxc.rs/"
   },
   {
     "Package": "oxlint",
-    "Version": "1.59.0",
+    "Version": "1.60.0",
     "Description": "Oxc JavaScript linter",
     "Homepage": "https://oxc.rs/"
   },
