@@ -270,10 +270,10 @@
  colm-static  0.14.7-2  Static libraries for colm  https://www.colm.net/open-source/colm/ 
  colordiff  1.0.22  Tool to colorize 'diff' output  https://www.colordiff.org/ 
  command-not-found  3.4.1-5  Suggest installation of packages in interactive shell sessions  https://github.com/termux/command-not-found 
- composer  2.9.5  Dependency Manager for PHP  https://getcomposer.org/ 
+ composer  2.9.7  Dependency Manager for PHP  https://getcomposer.org/ 
  console-bridge  1.0.2-1  A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages  https://github.com/ros/console_bridge 
  convertlit  1.8-2  An extractor/converter for .LIT eBooks  http://www.convertlit.com/ 
- cookcli  0.28.1  A suite of tools to create shopping lists and maintain food recipes  https://cooklang.org 
+ cookcli  0.29.0  A suite of tools to create shopping lists and maintain food recipes  https://cooklang.org 
  coreutils  9.10-1  Basic file, shell and text manipulation utilities from the GNU project  https://www.gnu.org/software/coreutils/ 
  corgi  0.2.4-6  CLI workflow manager  https://github.com/DrakeW/corgi 
  corkscrew  2.0-4  A tool for tunneling SSH through HTTP proxies  https://wiki.linuxquestions.org/wiki/Corkscrew 
@@ -364,7 +364,7 @@
  docbook-xsl  1.79.2-4  XML stylesheets for Docbook-xml transformations  https://docbook.org/ 
  docopt  0.6.3-4  Command line arguments parser for C++11 and later  http://docopt.org 
  docopt-static  0.6.3-4  Static libraries for docopt  http://docopt.org 
- doctest  2.5.1  The fastest feature-rich C++11/14/17/20 single-header testing framework  https://github.com/doctest/doctest 
+ doctest  2.5.2  The fastest feature-rich C++11/14/17/20 single-header testing framework  https://github.com/doctest/doctest 
  doge  0.2.8-2  A command-line DNS client  https://github.com/Dj-Codeman/dog_community 
  dopewars  1.6.2-1  Drug-dealing game set in streets of New York City  https://dopewars.sourceforge.io 
  dos2unix  7.5.4  Converts between DOS and Unix text files  https://waterlan.home.xs4all.nl/dos2unix.html 
@@ -970,8 +970,8 @@
  libclc  21.1.3-1  Open source implementation of the library requirements of the OpenCL C programming language  https://libclc.llvm.org/ 
  libcln  1.3.7-1  CLN is a library for efficient computations with all kinds of numbers in arbitrary precision  https://www.ginac.de/CLN/ 
  libcln-static  1.3.7-1  Static libraries for libcln  https://www.ginac.de/CLN/ 
- libcoap  4.3.5a  Implementation of CoAP, a lightweight protocol for resource constrained devices  https://libcoap.net/ 
- libcoap-static  4.3.5a  Static libraries for libcoap  https://libcoap.net/ 
+ libcoap  4.3.5b  Implementation of CoAP, a lightweight protocol for resource constrained devices  https://libcoap.net/ 
+ libcoap-static  4.3.5b  Static libraries for libcoap  https://libcoap.net/ 
  libcoinor-cgl  0.60.8-1  An open-source cut generation library for COIN-OR projects  https://github.com/coin-or/Cgl 
  libcoinor-cgl-static  0.60.8-1  Static libraries for libcoinor-cgl  https://github.com/coin-or/Cgl 
  libcoinor-osi  1:0.108.8-1  An abstract base class to a generic linear programming (LP) solver  https://github.com/coin-or/Osi 
@@ -1041,8 +1041,8 @@
  libev  4.33-2  Full-featured and high-performance event loop library  http://software.schmorp.de/pkg/libev.html 
  libev-static  4.33-2  Static libraries for libev  http://software.schmorp.de/pkg/libev.html 
  libevent  2.1.12-3  Library that provides asynchronous event notification  https://libevent.org/ 
- libexif  0.6.25-1  Library for reading and writing EXIF image metadata  https://libexif.github.io/ 
- libexif-static  0.6.25-1  Static libraries for libexif  https://libexif.github.io/ 
+ libexif  0.6.26  Library for reading and writing EXIF image metadata  https://libexif.github.io/ 
+ libexif-static  0.6.26  Static libraries for libexif  https://libexif.github.io/ 
  libexpat  2.7.5  XML parsing C library  https://libexpat.github.io/ 
  libexpat-static  2.7.5  Static libraries for libexpat  https://libexpat.github.io/ 
  libfann  2.2.0-2  Fast artificial neural network library  http://leenissen.dk/fann/wp 
@@ -1571,7 +1571,7 @@
  libxml2  2.15.2-2  Library for parsing XML documents  https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home 
  libxml2-python  2.15.2-2  Python bindings for libxml2  https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home 
  libxml2-utils  2.15.2-2  XML utilities  https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home 
- libxmlb  0.3.25  Library to help create and query binary XML blobs  https://github.com/hughsie/libxmlb 
+ libxmlb  0.3.26  Library to help create and query binary XML blobs  https://github.com/hughsie/libxmlb 
  libxmlrpc  1.64.03  XML-RPC for C and C++  https://xmlrpc-c.sourceforge.io/ 
  libxmlrpc-static  1.64.03  Static libraries for libxmlrpc  https://xmlrpc-c.sourceforge.io/ 
  libxmp  4.7.0  Extended Module Player C Library that renders tracker and module music (MOD, S3M, IT, XM etc.)  https://github.com/libxmp/libxmp 
@@ -1911,8 +1911,8 @@
  okc-agents  0.1.2-2  OpenKeychain agents for GnuPG and OpenSSH  https://github.com/DDoSolitary/okc-agents 
  ol  2.6-3  Purely functional dialect of Lisp  https://yuriy-chumak.github.io/ol/ 
  oleo  1.99.16-10  The GNU Spreadsheet  https://www.gnu.org/software/oleo/ 
- ollama  0.20.6  Get up and running with large language models  https://ollama.com/ 
- ollama-backend-vulkan  0.20.6  Vulkan Backend for Ollama  https://ollama.com/ 
+ ollama  0.20.7  Get up and running with large language models  https://ollama.com/ 
+ ollama-backend-vulkan  0.20.7  Vulkan Backend for Ollama  https://ollama.com/ 
  oma  1.25.2  oma is an attempt at reworking APT's interface  https://aosc.io/oma 
  onefetch  2.27.1  A command-line Git information tool written in Rust  https://onefetch.dev/ 
  onigmo  6.2.0-1  A regular expressions library forked from Oniguruma  https://github.com/k-takata/Onigmo 
@@ -2120,7 +2120,7 @@
  pypy3  7.3.21  A fast, compliant alternative implementation of Python 3  https://pypy.org 
  pypy3-tests  7.3.21  Test files for PyPy 3  https://pypy.org 
  pypy3-tkinter  7.3.21  Tkinter support for PyPy 3  https://pypy.org 
- pyrefly  0.60.2  A fast type checker and language server for Python  https://github.com/facebook/pyrefly.git 
+ pyrefly  0.61.0  A fast type checker and language server for Python  https://github.com/facebook/pyrefly.git 
  pystring  1.1.4-1  C++ functions matching the interface and behavior of python string methods with std::string  https://github.com/imageworks/pystring 
  python  3.13.13-1  Python 3 programming language intended to enable clear programs  https://python.org/ 
  python-apsw  3.53.0.0  Another Python SQLite Wrapper  https://rogerbinns.github.io/apsw/ 
@@ -2349,7 +2349,7 @@
  simdjson  4.6.1  A C++ library to see how fast we can parse JSON with complete validation  https://simdjson.org/ 
  simh  1:3.12.5-1  A collection of simulators for computer hardware and software from the past  http://simh.trailing-edge.com/ 
  simulavr  1:1.1.0-3  Simulator for Microchip AVR (formerly Atmel) microcontrollers  https://www.nongnu.org/simulavr 
- sing-box  1.13.7  The universal proxy platform  https://sing-box.sagernet.org 
+ sing-box  1.13.8  The universal proxy platform  https://sing-box.sagernet.org 
  skate  1.0.1-1  A personal key-value store  https://github.com/charmbracelet/skate 
  sl  5.05-1  Tool curing your bad habit of mistyping  https://github.com/mtoyoda/sl 
  slang  2.3.3-2  S-Lang is a powerful interpreted language  https://www.jedsoft.org/slang/ 
@@ -2700,7 +2700,7 @@
  w3m  0.5.6  Text based Web browser and pager  https://w3m.sourceforge.net/ 
  w3m-img  0.5.6  Inline image extension support utilities for w3m  https://w3m.sourceforge.net/ 
  wabt  1.0.40  The WebAssembly Binary Toolkit  https://github.com/WebAssembly/wabt 
- wakatime-cli  2.2.4  Command line interface used by all WakaTime text editor plugins  https://wakatime.com/plugins/ 
+ wakatime-cli  2.2.5  Command line interface used by all WakaTime text editor plugins  https://wakatime.com/plugins/ 
  walk  1.13.0  A terminal file manager  https://github.com/antonmedv/walk 
  wallust  3.5.2  Generate colors from an image  https://explosion-mental.codeberg.page/wallust 
  wasi-libc  30  Libc for WebAssembly programs built on top of WASI system calls  https://wasi.dev/ 

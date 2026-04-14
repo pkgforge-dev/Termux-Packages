@@ -1633,7 +1633,7 @@
   },
   {
     "Package": "composer",
-    "Version": "2.9.5",
+    "Version": "2.9.7",
     "Description": "Dependency Manager for PHP",
     "Homepage": "https://getcomposer.org/"
   },
@@ -1651,7 +1651,7 @@
   },
   {
     "Package": "cookcli",
-    "Version": "0.28.1",
+    "Version": "0.29.0",
     "Description": "A suite of tools to create shopping lists and maintain food recipes",
     "Homepage": "https://cooklang.org"
   },
@@ -2197,7 +2197,7 @@
   },
   {
     "Package": "doctest",
-    "Version": "2.5.1",
+    "Version": "2.5.2",
     "Description": "The fastest feature-rich C++11/14/17/20 single-header testing framework",
     "Homepage": "https://github.com/doctest/doctest"
   },
@@ -5833,13 +5833,13 @@
   },
   {
     "Package": "libcoap",
-    "Version": "4.3.5a",
+    "Version": "4.3.5b",
     "Description": "Implementation of CoAP, a lightweight protocol for resource constrained devices",
     "Homepage": "https://libcoap.net/"
   },
   {
     "Package": "libcoap-static",
-    "Version": "4.3.5a",
+    "Version": "4.3.5b",
     "Description": "Static libraries for libcoap",
     "Homepage": "https://libcoap.net/"
   },
@@ -6259,13 +6259,13 @@
   },
   {
     "Package": "libexif",
-    "Version": "0.6.25-1",
+    "Version": "0.6.26",
     "Description": "Library for reading and writing EXIF image metadata",
     "Homepage": "https://libexif.github.io/"
   },
   {
     "Package": "libexif-static",
-    "Version": "0.6.25-1",
+    "Version": "0.6.26",
     "Description": "Static libraries for libexif",
     "Homepage": "https://libexif.github.io/"
   },
@@ -9439,7 +9439,7 @@
   },
   {
     "Package": "libxmlb",
-    "Version": "0.3.25",
+    "Version": "0.3.26",
     "Description": "Library to help create and query binary XML blobs",
     "Homepage": "https://github.com/hughsie/libxmlb"
   },
@@ -11479,13 +11479,13 @@
   },
   {
     "Package": "ollama",
-    "Version": "0.20.6",
+    "Version": "0.20.7",
     "Description": "Get up and running with large language models",
     "Homepage": "https://ollama.com/"
   },
   {
     "Package": "ollama-backend-vulkan",
-    "Version": "0.20.6",
+    "Version": "0.20.7",
     "Description": "Vulkan Backend for Ollama",
     "Homepage": "https://ollama.com/"
   },
@@ -12733,7 +12733,7 @@
   },
   {
     "Package": "pyrefly",
-    "Version": "0.60.2",
+    "Version": "0.61.0",
     "Description": "A fast type checker and language server for Python",
     "Homepage": "https://github.com/facebook/pyrefly.git"
   },
@@ -14107,7 +14107,7 @@
   },
   {
     "Package": "sing-box",
-    "Version": "1.13.7",
+    "Version": "1.13.8",
     "Description": "The universal proxy platform",
     "Homepage": "https://sing-box.sagernet.org"
   },
@@ -16213,7 +16213,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "2.2.4",
+    "Version": "2.2.5",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },
