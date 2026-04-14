@@ -852,6 +852,12 @@
     "Homepage": "https://github.com/ReFirmLabs/binwalk"
   },
   {
+    "Package": "biome2",
+    "Version": "2.4.11",
+    "Description": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP",
+    "Homepage": "https://biomejs.dev/"
+  },
+  {
     "Package": "bison",
     "Version": "3.8.2-4",
     "Description": "General-purpose parser generator",
@@ -1507,7 +1513,7 @@
   },
   {
     "Package": "clvk",
-    "Version": "0.0.20260331.162111",
+    "Version": "0.0.20260406.200447",
     "Description": "Experimental implementation of OpenCL on Vulkan",
     "Homepage": "https://github.com/kpet/clvk"
   },
