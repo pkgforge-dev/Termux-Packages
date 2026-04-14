@@ -407,7 +407,7 @@
   Description: Static libraries for attr
   Homepage: http://savannah.nongnu.org/projects/attr/
 - Package: atuin
-  Version: 18.13.6
+  Version: 18.14.1
   Description: Magical shell history
   Homepage: https://atuin.sh/
 - Package: aubio
@@ -2063,7 +2063,7 @@
   Description: Software synthesizer based on the SoundFont 2 specifications
   Homepage: https://github.com/FluidSynth/fluidsynth
 - Package: flyctl
-  Version: 0.4.33
+  Version: 0.4.34
   Description: Command line tools for fly.io services
   Homepage: https://fly.io
 - Package: fm
@@ -3439,7 +3439,7 @@
   Description: LastPass command line interface tool
   Homepage: https://lastpass.com/
 - Package: lazygit
-  Version: 0.61.0
+  Version: 0.61.1
   Description: Simple terminal UI for git commands
   Homepage: https://github.com/jesseduffield/lazygit
 - Package: lcal
@@ -5587,11 +5587,11 @@
   Description: Static libraries for libsndfile
   Homepage: http://www.mega-nerd.com/libsndfile
 - Package: libsodium
-  Version: 1.0.22
+  Version: 1.0.22-1
   Description: Network communication, cryptography and signaturing library
   Homepage: https://libsodium.org/
 - Package: libsodium-static
-  Version: 1.0.22
+  Version: 1.0.22-1
   Description: Static libraries for libsodium
   Homepage: https://libsodium.org/
 - Package: libsoldout
@@ -7195,7 +7195,7 @@
   Description: Lightweight SMTP client
   Homepage: https://marlam.de/msmtp/
 - Package: mtd-utils
-  Version: 2.3.0-1
+  Version: 2.3.1
   Description: Utilities for dealing with MTD devices
   Homepage: http://www.linux-mtd.infradead.org/
 - Package: mtools

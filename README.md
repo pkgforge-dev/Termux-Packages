@@ -112,7 +112,7 @@
 | **atool** | 0.39.0-2 | tool for managing file archives of various types | https://www.nongnu.org/atool |
 | **attr** | 2.5.2-1 | Utilities for manipulating filesystem extended attributes | http://savannah.nongnu.org/projects/attr/ |
 | **attr-static** | 2.5.2-1 | Static libraries for attr | http://savannah.nongnu.org/projects/attr/ |
-| **atuin** | 18.13.6 | Magical shell history | https://atuin.sh/ |
+| **atuin** | 18.14.1 | Magical shell history | https://atuin.sh/ |
 | **aubio** | 0.4.9-7 | A library to label music and sounds | https://aubio.org/ |
 | **aubio-static** | 0.4.9-7 | Static libraries for aubio | https://aubio.org/ |
 | **audiofile** | 0.3.6 | Silicon Graphics Audio File Library | https://audiofile.68k.org/ |
@@ -526,7 +526,7 @@
 | **flex-static** | 2.6.4-4 | Static libraries for flex | https://github.com/westes/flex |
 | **flint** | 3.4.0 | C library for doing number theory | http://www.flintlib.org |
 | **fluidsynth** | 2.5.3 | Software synthesizer based on the SoundFont 2 specifications | https://github.com/FluidSynth/fluidsynth |
-| **flyctl** | 0.4.33 | Command line tools for fly.io services | https://fly.io |
+| **flyctl** | 0.4.34 | Command line tools for fly.io services | https://fly.io |
 | **fm** | 1.2.0 | A terminal based file manager | https://github.com/knipferrc/fm |
 | **fmt** | 1:11.2.0 | Open-source formatting library for C++ | https://fmt.dev/latest/index.html |
 | **fontconfig** | 2.17.1-1 | Library for configuring and customizing font access | https://www.freedesktop.org/wiki/Software/fontconfig/ |
@@ -870,7 +870,7 @@
 | **ladspa-sdk** | 1.17-3 | Linux Audio Developer's Simple Plugin API | https://www.ladspa.org/ |
 | **lame** | 3.100-7 | High quality MPEG Audio Layer III (MP3) encoder - frontend | https://lame.sourceforge.io/ |
 | **lastpass-cli** | 1.6.1-4 | LastPass command line interface tool | https://lastpass.com/ |
-| **lazygit** | 0.61.0 | Simple terminal UI for git commands | https://github.com/jesseduffield/lazygit |
+| **lazygit** | 0.61.1 | Simple terminal UI for git commands | https://github.com/jesseduffield/lazygit |
 | **lcal** | 2.1.0-1 | A multi-platform program which generates PostScript lunar calendars in a yearly format | https://pcal.sourceforge.net/ |
 | **ldc** | 1.30.0-3 | D programming language compiler, built with LLVM | https://github.com/ldc-developers/ldc |
 | **ldd** | 0.3-2 | Fake ldd command | https://github.com/termux/termux-packages |
@@ -1407,8 +1407,8 @@
 | **libsnappy** | 1.2.2-1 | A compression/decompression library | https://github.com/google/snappy |
 | **libsndfile** | 1.2.2-2 | Library for reading/writing audio files | http://www.mega-nerd.com/libsndfile |
 | **libsndfile-static** | 1.2.2-2 | Static libraries for libsndfile | http://www.mega-nerd.com/libsndfile |
-| **libsodium** | 1.0.22 | Network communication, cryptography and signaturing library | https://libsodium.org/ |
-| **libsodium-static** | 1.0.22 | Static libraries for libsodium | https://libsodium.org/ |
+| **libsodium** | 1.0.22-1 | Network communication, cryptography and signaturing library | https://libsodium.org/ |
+| **libsodium-static** | 1.0.22-1 | Static libraries for libsodium | https://libsodium.org/ |
 | **libsoldout** | 1.4-2 | Flexible C library and tools for markdown | https://fossil.instinctive.eu/libsoldout/index |
 | **libsoldout-static** | 1.4-2 | Static libraries for libsoldout | https://fossil.instinctive.eu/libsoldout/index |
 | **libsophia** | 2.2-1 | Advanced transactional MVCC key-value/row storage library | http://sophia.systems/ |
@@ -1809,7 +1809,7 @@
 | **msedit** | 1.2.1-1 | A simple editor for simple needs (Microsoft Edit) | https://github.com/microsoft/edit |
 | **msitools** | 0.106-1 | Set of programs to inspect and build Windows Installer (.MSI) files | https://gitlab.gnome.org/GNOME/msitools |
 | **msmtp** | 1.8.32 | Lightweight SMTP client | https://marlam.de/msmtp/ |
-| **mtd-utils** | 2.3.0-1 | Utilities for dealing with MTD devices | http://www.linux-mtd.infradead.org/ |
+| **mtd-utils** | 2.3.1 | Utilities for dealing with MTD devices | http://www.linux-mtd.infradead.org/ |
 | **mtools** | 4.0.49-1 | Tool for manipulating FAT images | https://www.gnu.org/software/mtools/ |
 | **mu** | 1.14.0 | Maildir indexer/searcher and Emacs client (mu4e) | https://www.djcbsoftware.nl/code/mu/ |
 | **muchsync** | 7-3 | Synchronize notmuch mail across machines | http://www.muchsync.org/ |
