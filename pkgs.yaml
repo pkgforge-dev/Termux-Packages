@@ -567,7 +567,7 @@
   Description: An Binwalk firmware analysis tool.
   Homepage: https://github.com/ReFirmLabs/binwalk
 - Package: biome2
-  Version: 2.4.11
+  Version: 2.4.12
   Description: A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP
   Homepage: https://biomejs.dev/
 - Package: bison
@@ -707,7 +707,7 @@
   Description: Utilities for Btrfs filesystem
   Homepage: https://btrfs.readthedocs.io/en/latest/
 - Package: buf
-  Version: 1.67.0
+  Version: 1.68.0
   Description: A new way of working with Protocol Buffers
   Homepage: https://buf.build
 - Package: build-essential
@@ -2527,7 +2527,7 @@
   Description: gnuit - GNU Interactive Tools
   Homepage: https://www.gnu.org/software/gnuit/
 - Package: gnunet
-  Version: 0.26.2
+  Version: 0.27.0
   Description: A framework for secure peer-to-peer networking
   Homepage: https://gnunet.org
 - Package: gnupg
@@ -6575,7 +6575,7 @@
   Description: Tracks runtime library calls in dynamically linked programs
   Homepage: http://www.ltrace.org/
 - Package: lua-language-server
-  Version: 3.18.1
+  Version: 3.18.2
   Description: Sumneko Lua Language Server coded in Lua
   Homepage: https://github.com/sumneko/lua-language-server
 - Package: lua-lgi
@@ -10699,7 +10699,7 @@
   Description: VI Like Emacs - vi work-alike
   Homepage: https://invisible-island.net/vile/
 - Package: vim
-  Version: 9.2.0300
+  Version: 9.2.0350
   Description: Vi IMproved - enhanced vi editor
   Homepage: https://www.vim.org
 - Package: virglrenderer
@@ -11071,7 +11071,7 @@
   Description: Static libraries for xvidcore
   Homepage: https://www.xvid.com/
 - Package: xxd
-  Version: 9.2.0300
+  Version: 9.2.0350
   Description: Hexdump utility from vim
   Homepage: https://www.vim.org
 - Package: xxhash
