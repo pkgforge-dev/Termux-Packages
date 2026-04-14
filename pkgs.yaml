@@ -2202,6 +2202,10 @@
   Version: 4.15.1
   Description: Packages for gap
   Homepage: https://www.gap-system.org/
+- Package: garage
+  Version: 2.2.0
+  Description: S3-compatible object store for small self-hosted geo-distributed deployments
+  Homepage: https://garagehq.deuxfleurs.fr/
 - Package: gatling
   Version: 0.16-2
   Description: A high performance http, ftp and smb server
@@ -5083,7 +5087,7 @@
   Description: Static libraries for libnspr
   Homepage: https://hg.mozilla.org/projects/nspr
 - Package: libnss
-  Version: "3.122"
+  Version: 3.122.1
   Description: Network Security Services (NSS)
   Homepage: https://firefox-source-docs.mozilla.org/security/nss/
 - Package: libntl
@@ -6298,6 +6302,14 @@
   Version: 1.64.03
   Description: Static libraries for libxmlrpc
   Homepage: https://xmlrpc-c.sourceforge.io/
+- Package: libxmp
+  Version: 4.7.0
+  Description: Extended Module Player C Library that renders tracker and module music (MOD, S3M, IT, XM etc.)
+  Homepage: https://github.com/libxmp/libxmp
+- Package: libxmp-static
+  Version: 4.7.0
+  Description: Static libraries for libxmp
+  Homepage: https://github.com/libxmp/libxmp
 - Package: libxrandr
   Version: 1.5.5
   Description: X11 RandR extension library
@@ -7559,7 +7571,7 @@
   Description: The classic snake game with textual interface
   Homepage: https://github.com/alexdantas/nSnake
 - Package: nss-utils
-  Version: "3.122"
+  Version: 3.122.1
   Description: Tools for NSS
   Homepage: https://firefox-source-docs.mozilla.org/security/nss/
 - Package: nudoku

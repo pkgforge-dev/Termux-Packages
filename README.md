@@ -561,6 +561,7 @@
 | **game-music-emu-static** | 0.6.4-1 | Static libraries for game-music-emu | https://bitbucket.org/mpyne/game-music-emu/wiki/Home |
 | **gap** | 4.15.1 | GAP is a system for computational discrete algebra, with particular emphasis on Computational Group Theory | https://www.gap-system.org/ |
 | **gap-packages** | 4.15.1 | Packages for gap | https://www.gap-system.org/ |
+| **garage** | 2.2.0 | S3-compatible object store for small self-hosted geo-distributed deployments | https://garagehq.deuxfleurs.fr/ |
 | **gatling** | 0.16-2 | A high performance http, ftp and smb server | https://www.fefe.de/gatling/ |
 | **gauche** | 0.9.15-3 | An R7RS Scheme implementation developed to be a handy script interpreter | https://practical-scheme.net/gauche/ |
 | **gauche-static** | 0.9.15-3 | Static libraries for gauche | https://practical-scheme.net/gauche/ |
@@ -1281,7 +1282,7 @@
 | **libnpth-static** | 1.6-3 | Static libraries for libnpth | https://www.gnupg.org/related_software/npth/ |
 | **libnspr** | 4.38.2 | Netscape Portable Runtime (NSPR) | https://hg.mozilla.org/projects/nspr |
 | **libnspr-static** | 4.38.2 | Static libraries for libnspr | https://hg.mozilla.org/projects/nspr |
-| **libnss** | 3.122 | Network Security Services (NSS) | https://firefox-source-docs.mozilla.org/security/nss/ |
+| **libnss** | 3.122.1 | Network Security Services (NSS) | https://firefox-source-docs.mozilla.org/security/nss/ |
 | **libntl** | 11.5.1-1 | A Library for doing Number Theory | https://libntl.org |
 | **libntl-static** | 11.5.1-1 | Static libraries for libntl | https://libntl.org |
 | **libobjc2** | 2.3-1 | The GNUstep Objective-C runtime | https://www.gnustep.org/ |
@@ -1585,6 +1586,8 @@
 | **libxmlb** | 0.3.25 | Library to help create and query binary XML blobs | https://github.com/hughsie/libxmlb |
 | **libxmlrpc** | 1.64.03 | XML-RPC for C and C++ | https://xmlrpc-c.sourceforge.io/ |
 | **libxmlrpc-static** | 1.64.03 | Static libraries for libxmlrpc | https://xmlrpc-c.sourceforge.io/ |
+| **libxmp** | 4.7.0 | Extended Module Player C Library that renders tracker and module music (MOD, S3M, IT, XM etc.) | https://github.com/libxmp/libxmp |
+| **libxmp-static** | 4.7.0 | Static libraries for libxmp | https://github.com/libxmp/libxmp |
 | **libxrandr** | 1.5.5 | X11 RandR extension library | https://xorg.freedesktop.org/ |
 | **libxrandr-static** | 1.5.5 | Static libraries for libxrandr | https://xorg.freedesktop.org/ |
 | **libxrender** | 0.9.12-1 | X Rendering Extension client library | https://xorg.freedesktop.org/ |
@@ -1900,7 +1903,7 @@
 | **nsis** | 3.11-1 | A professional open source system to create Windows installers | https://sourceforge.net/projects/nsis/ |
 | **nsis-stubs** | 3.11-1 | NSIS Stubs | https://sourceforge.net/projects/nsis/ |
 | **nsnake** | 3.0.1-7 | The classic snake game with textual interface | https://github.com/alexdantas/nSnake |
-| **nss-utils** | 3.122 | Tools for NSS | https://firefox-source-docs.mozilla.org/security/nss/ |
+| **nss-utils** | 3.122.1 | Tools for NSS | https://firefox-source-docs.mozilla.org/security/nss/ |
 | **nudoku** | 7.0.0 | ncurses based sudoku game | http://jubalh.github.io/nudoku/ |
 | **nushell** | 0.112.1 | A new type of shell operating on structured data | https://www.nushell.sh |
 | **nyancat** | 1.5.2-1 | Nyancat in your terminal, rendered through ANSI escape sequences. | http://nyancat.dakko.us |
