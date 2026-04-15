@@ -2599,13 +2599,13 @@
   },
   {
     "Package": "editorconfig-core-c",
-    "Version": "0.12.10",
+    "Version": "0.12.11",
     "Description": "EditorConfig core code written in C (for use by plugins supporting EditorConfig parsing)",
     "Homepage": "https://editorconfig.org/"
   },
   {
     "Package": "editorconfig-core-c-static",
-    "Version": "0.12.10",
+    "Version": "0.12.11",
     "Description": "Static libraries for editorconfig-core-c",
     "Homepage": "https://editorconfig.org/"
   },
@@ -4747,7 +4747,7 @@
   },
   {
     "Package": "iproute2",
-    "Version": "6.19.0",
+    "Version": "7.0.0",
     "Description": "Utilities for controlling networking",
     "Homepage": "https://wiki.linuxfoundation.org/networking/iproute2"
   },
@@ -5581,7 +5581,7 @@
   },
   {
     "Package": "libbcprov-java",
-    "Version": "1.83",
+    "Version": "1.84",
     "Description": "A lightweight cryptography API for Java",
     "Homepage": "https://www.bouncycastle.org/java.html"
   },
@@ -9877,7 +9877,7 @@
   },
   {
     "Package": "lua-lpeg",
-    "Version": "1.1.0-4",
+    "Version": "1.1.0-2-0",
     "Description": "Pattern-matching library for Lua 5.4",
     "Homepage": "https://www.inf.puc-rio.br/~roberto/lpeg"
   },
@@ -9889,7 +9889,7 @@
   },
   {
     "Package": "lua51-lpeg",
-    "Version": "1.1.0-4",
+    "Version": "1.1.0-2-0",
     "Description": "Pattern-matching library for Lua 5.1",
     "Homepage": "https://www.inf.puc-rio.br/~roberto/lpeg"
   },
@@ -9907,7 +9907,7 @@
   },
   {
     "Package": "lua52-lpeg",
-    "Version": "1.1.0-4",
+    "Version": "1.1.0-2-0",
     "Description": "Pattern-matching library for Lua 5.2",
     "Homepage": "https://www.inf.puc-rio.br/~roberto/lpeg"
   },
@@ -9925,7 +9925,7 @@
   },
   {
     "Package": "lua53-lpeg",
-    "Version": "1.1.0-4",
+    "Version": "1.1.0-2-0",
     "Description": "Pattern-matching library for Lua 5.3",
     "Homepage": "https://www.inf.puc-rio.br/~roberto/lpeg"
   },
@@ -9943,7 +9943,7 @@
   },
   {
     "Package": "lua54-lpeg",
-    "Version": "1.1.0-4",
+    "Version": "1.1.0-2-0",
     "Description": "Pattern-matching library for Lua 5.4",
     "Homepage": "https://www.inf.puc-rio.br/~roberto/lpeg"
   },
@@ -12475,7 +12475,7 @@
   },
   {
     "Package": "postgis",
-    "Version": "3.6.2",
+    "Version": "3.6.3",
     "Description": "Spatial database extender for PostgreSQL object-relational database",
     "Homepage": "https://postgis.net"
   },
@@ -15823,13 +15823,13 @@
   },
   {
     "Package": "urdfdom",
-    "Version": "5.1.0",
+    "Version": "5.1.1",
     "Description": "Unified Robot Description Format (URDF) parser library and tools",
     "Homepage": "https://github.com/ros/urdfdom"
   },
   {
     "Package": "urdfdom-headers",
-    "Version": "2.1.0",
+    "Version": "2.1.1",
     "Description": "Headers for URDF parsers",
     "Homepage": "https://github.com/ros/urdfdom_headers"
   },
@@ -16213,7 +16213,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "2.2.7",
+    "Version": "2.3.0",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },

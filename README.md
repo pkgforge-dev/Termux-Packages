@@ -443,8 +443,8 @@
 | **ecj** | 1:4.12-5 | Eclipse Compiler for Java | https://www.eclipse.org/jdt/core/ |
 | **ed** | 1.22.5 | Classic UNIX line editor | https://www.gnu.org/software/ed/ |
 | **edbrowse** | 3.8.16 | Line based editor, browser, and mail client | https://edbrowse.org/ |
-| **editorconfig-core-c** | 0.12.10 | EditorConfig core code written in C (for use by plugins supporting EditorConfig parsing) | https://editorconfig.org/ |
-| **editorconfig-core-c-static** | 0.12.10 | Static libraries for editorconfig-core-c | https://editorconfig.org/ |
+| **editorconfig-core-c** | 0.12.11 | EditorConfig core code written in C (for use by plugins supporting EditorConfig parsing) | https://editorconfig.org/ |
+| **editorconfig-core-c-static** | 0.12.11 | Static libraries for editorconfig-core-c | https://editorconfig.org/ |
 | **eigen** | 3.4.0 | Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms | http://eigen.tuxfamily.org |
 | **eja** | 18.4.19-1 | eja micro web server | https://github.com/eja/eja |
 | **electric-fence** | 2.2.7-1 | Electric Fence (eFence) malloc memory debugger | https://elinux.org/Electric_Fence |
@@ -801,7 +801,7 @@
 | **iperf3** | 3.20 | TCP, UDP, and SCTP network bandwidth measurement tool | https://github.com/esnet/iperf |
 | **iperf3-static** | 3.20 | Static libraries for iperf3 | https://github.com/esnet/iperf |
 | **ipmitool** | 1.8.19-1 | Command-line interface to IPMI-enabled devices | https://github.com/ipmitool/ipmitool |
-| **iproute2** | 6.19.0 | Utilities for controlling networking | https://wiki.linuxfoundation.org/networking/iproute2 |
+| **iproute2** | 7.0.0 | Utilities for controlling networking | https://wiki.linuxfoundation.org/networking/iproute2 |
 | **ipv6calc** | 4.4.0 | Does some format changes and calculations of IPv6 addresses | https://www.deepspace6.net/projects/ipv6calc.html |
 | **ipv6toolkit** | 2022.09.30-4 | SI6 Networks IPv6 Toolkit | https://www.si6networks.com/research/tools/ipv6toolkit/ |
 | **ircd-irc2** | 2.11.2p3-3 | An Internet Relay Chat (IRC) daemon | http://www.irc.org/ |
@@ -940,7 +940,7 @@
 | **libatomic-ops** | 7.10.0 | Provides semi-portable access to hardware-provided atomic memory update operations | https://github.com/bdwgc/libatomic_ops |
 | **libatomic-ops-static** | 7.10.0 | Static libraries for libatomic-ops | https://github.com/bdwgc/libatomic_ops |
 | **libavif** | 1.4.1 | Library for encoding and decoding .avif files | https://github.com/AOMediaCodec/libavif |
-| **libbcprov-java** | 1.83 | A lightweight cryptography API for Java | https://www.bouncycastle.org/java.html |
+| **libbcprov-java** | 1.84 | A lightweight cryptography API for Java | https://www.bouncycastle.org/java.html |
 | **libblkid** | 2.41.3 | Block device identification library | https://en.wikipedia.org/wiki/Util-linux |
 | **libblocksruntime** | 1:6.2.1 | LLVM Blocks runtime library | https://github.com/swiftlang/swift-corelibs-libdispatch |
 | **libblosc** | 1.21.6-2 | A blocking, shuffling and loss-less compression library | https://www.blosc.org |
@@ -1656,18 +1656,18 @@
 | **ltrace** | 1:0.8.1 | Tracks runtime library calls in dynamically linked programs | http://www.ltrace.org/ |
 | **lua-language-server** | 3.18.2 | Sumneko Lua Language Server coded in Lua | https://github.com/sumneko/lua-language-server |
 | **lua-lgi** | 0.9.2+p20251219-2 | Dynamic Lua binding to GObject libraries using GObject-Introspection | https://github.com/lgi-devs/lgi |
-| **lua-lpeg** | 1.1.0-4 | Pattern-matching library for Lua 5.4 | https://www.inf.puc-rio.br/~roberto/lpeg |
+| **lua-lpeg** | 1.1.0-2-0 | Pattern-matching library for Lua 5.4 | https://www.inf.puc-rio.br/~roberto/lpeg |
 | **lua51** | 5.1.5-7 | Shared library for the Lua interpreter (v5.1.x) | https://www.lua.org |
-| **lua51-lpeg** | 1.1.0-4 | Pattern-matching library for Lua 5.1 | https://www.inf.puc-rio.br/~roberto/lpeg |
+| **lua51-lpeg** | 1.1.0-2-0 | Pattern-matching library for Lua 5.1 | https://www.inf.puc-rio.br/~roberto/lpeg |
 | **lua51-static** | 5.1.5-7 | Static libraries for lua51 | https://www.lua.org |
 | **lua52** | 5.2.4-15 | Shared library for the Lua interpreter (v5.2.x) | https://www.lua.org |
-| **lua52-lpeg** | 1.1.0-4 | Pattern-matching library for Lua 5.2 | https://www.inf.puc-rio.br/~roberto/lpeg |
+| **lua52-lpeg** | 1.1.0-2-0 | Pattern-matching library for Lua 5.2 | https://www.inf.puc-rio.br/~roberto/lpeg |
 | **lua52-static** | 5.2.4-15 | Static libraries for lua52 | https://www.lua.org |
 | **lua53** | 5.3.6-6 | Shared library for the Lua interpreter (v5.3.x) | https://www.lua.org/ |
-| **lua53-lpeg** | 1.1.0-4 | Pattern-matching library for Lua 5.3 | https://www.inf.puc-rio.br/~roberto/lpeg |
+| **lua53-lpeg** | 1.1.0-2-0 | Pattern-matching library for Lua 5.3 | https://www.inf.puc-rio.br/~roberto/lpeg |
 | **lua53-static** | 5.3.6-6 | Static libraries for lua53 | https://www.lua.org/ |
 | **lua54** | 5.4.8-6 | Shared library for the Lua interpreter (v5.4.x) | https://www.lua.org/ |
-| **lua54-lpeg** | 1.1.0-4 | Pattern-matching library for Lua 5.4 | https://www.inf.puc-rio.br/~roberto/lpeg |
+| **lua54-lpeg** | 1.1.0-2-0 | Pattern-matching library for Lua 5.4 | https://www.inf.puc-rio.br/~roberto/lpeg |
 | **lua54-static** | 5.4.8-6 | Static libraries for lua54 | https://www.lua.org/ |
 | **lua55** | 5.5.0-2 | Shared library for the Lua interpreter (v5.5.x) | https://www.lua.org/ |
 | **lua55-static** | 5.5.0-2 | Static libraries for lua55 | https://www.lua.org/ |
@@ -2089,7 +2089,7 @@
 | **portaudio-static** | 19.07.00-3 | Static libraries for portaudio | https://www.portaudio.com/ |
 | **portmidi** | 2.0.7 | A cross-platform MIDI input/output library | https://github.com/PortMidi/portmidi |
 | **posixvala** | 0.2 | Aims to bring back the posix profile for Vala | https://github.com/radare/posixvala |
-| **postgis** | 3.6.2 | Spatial database extender for PostgreSQL object-relational database | https://postgis.net |
+| **postgis** | 3.6.3 | Spatial database extender for PostgreSQL object-relational database | https://postgis.net |
 | **postgresql** | 18.2 | Object-relational SQL database | https://www.postgresql.org |
 | **postgresql-static** | 18.2 | Static libraries for postgresql | https://www.postgresql.org |
 | **potrace** | 1.16-2 | Tool for transforming a bitmap into a smooth, scalable image | https://potrace.sourceforge.net |
@@ -2647,8 +2647,8 @@
 | **update-info-dir** | 7.3 | Update or create index file from all installed info files in directory | https://www.gnu.org/software/texinfo/ |
 | **upower** | 1.91.2 | Power management support for DeviceKit | https://upower.freedesktop.org/ |
 | **upx** | 5.1.1 | the Ultimate Packer for eXecutables | https://upx.github.io/ |
-| **urdfdom** | 5.1.0 | Unified Robot Description Format (URDF) parser library and tools | https://github.com/ros/urdfdom |
-| **urdfdom-headers** | 2.1.0 | Headers for URDF parsers | https://github.com/ros/urdfdom_headers |
+| **urdfdom** | 5.1.1 | Unified Robot Description Format (URDF) parser library and tools | https://github.com/ros/urdfdom |
+| **urdfdom-headers** | 2.1.1 | Headers for URDF parsers | https://github.com/ros/urdfdom_headers |
 | **usbmuxd** | 1.1.1-p20250201-2 | A socket daemon to multiplex connections from and to iOS devices | https://libimobiledevice.org |
 | **usql** | 0.21.4 | A universal command-line interface for SQL databases | https://github.com/xo/usql |
 | **utf8cpp** | 1:4.0.9 | UTF8-CPP: UTF-8 with C++ in a Portable Way | https://github.com/nemtrif/utfcpp |
@@ -2712,7 +2712,7 @@
 | **w3m** | 0.5.6 | Text based Web browser and pager | https://w3m.sourceforge.net/ |
 | **w3m-img** | 0.5.6 | Inline image extension support utilities for w3m | https://w3m.sourceforge.net/ |
 | **wabt** | 1.0.40 | The WebAssembly Binary Toolkit | https://github.com/WebAssembly/wabt |
-| **wakatime-cli** | 2.2.7 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
+| **wakatime-cli** | 2.3.0 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
 | **walk** | 1.13.0 | A terminal file manager | https://github.com/antonmedv/walk |
 | **wallust** | 3.5.2 | Generate colors from an image | https://explosion-mental.codeberg.page/wallust |
 | **wasi-libc** | 30 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |
