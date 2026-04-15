@@ -1347,7 +1347,7 @@
   Description: Good-lookin diffs. Actually... nah... The best-lookin diffs
   Homepage: https://github.com/so-fancy/diff-so-fancy
 - Package: diffstat
-  Version: 1.68-1
+  Version: "1.69"
   Description: Displays a histogram of changes to a file
   Homepage: https://invisible-island.net/diffstat/diffstat.html
 - Package: difftastic
@@ -6583,7 +6583,7 @@
   Description: Dynamic Lua binding to GObject libraries using GObject-Introspection
   Homepage: https://github.com/lgi-devs/lgi
 - Package: lua-lpeg
-  Version: 1.1.0-2-0
+  Version: 1.1.0-4
   Description: Pattern-matching library for Lua 5.4
   Homepage: https://www.inf.puc-rio.br/~roberto/lpeg
 - Package: lua51
@@ -6591,7 +6591,7 @@
   Description: Shared library for the Lua interpreter (v5.1.x)
   Homepage: https://www.lua.org
 - Package: lua51-lpeg
-  Version: 1.1.0-2-0
+  Version: 1.1.0-4
   Description: Pattern-matching library for Lua 5.1
   Homepage: https://www.inf.puc-rio.br/~roberto/lpeg
 - Package: lua51-static
@@ -6603,7 +6603,7 @@
   Description: Shared library for the Lua interpreter (v5.2.x)
   Homepage: https://www.lua.org
 - Package: lua52-lpeg
-  Version: 1.1.0-2-0
+  Version: 1.1.0-4
   Description: Pattern-matching library for Lua 5.2
   Homepage: https://www.inf.puc-rio.br/~roberto/lpeg
 - Package: lua52-static
@@ -6615,7 +6615,7 @@
   Description: Shared library for the Lua interpreter (v5.3.x)
   Homepage: https://www.lua.org/
 - Package: lua53-lpeg
-  Version: 1.1.0-2-0
+  Version: 1.1.0-4
   Description: Pattern-matching library for Lua 5.3
   Homepage: https://www.inf.puc-rio.br/~roberto/lpeg
 - Package: lua53-static
@@ -6627,7 +6627,7 @@
   Description: Shared library for the Lua interpreter (v5.4.x)
   Homepage: https://www.lua.org/
 - Package: lua54-lpeg
-  Version: 1.1.0-2-0
+  Version: 1.1.0-4
   Description: Pattern-matching library for Lua 5.4
   Homepage: https://www.inf.puc-rio.br/~roberto/lpeg
 - Package: lua54-static
@@ -8594,6 +8594,10 @@
   Version: 0.6.0-2
   Description: Python client for Neovim
   Homepage: https://github.com/neovim/pynvim
+- Package: python-pyppmd
+  Version: 1.2.0
+  Description: PPM compression/decompression library
+  Homepage: https://github.com/miurahr/pyppmd
 - Package: python-ruff
   Version: 0.15.10
   Description: An extremely fast Python linter, written in Rust (Python bindings)
