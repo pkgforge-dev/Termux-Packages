@@ -2095,7 +2095,7 @@
   Description: ForestDB dump tool
   Homepage: https://github.com/couchbase/forestdb
 - Package: forgejo
-  Version: 14.0.3
+  Version: 14.0.4
   Description: Forgejo is a self-hosted lightweight software forge.
   Homepage: https://forgejo.org/
 - Package: fortune
@@ -9427,11 +9427,11 @@
   Description: A small program which displays the time in various places
   Homepage: https://github.com/istathar/slashtime
 - Package: sleuthkit
-  Version: 4.14.0-1
+  Version: 4.15.0
   Description: The Sleuth Kit® (TSK) is a library for digital forensics tools.
   Homepage: https://sleuthkit.org/
 - Package: sleuthkit-static
-  Version: 4.14.0-1
+  Version: 4.15.0
   Description: Static libraries for sleuthkit
   Homepage: https://sleuthkit.org/
 - Package: slides
