@@ -83,14 +83,14 @@
 | **aspell-fr** | 2:0.50-3-1 | French dictionary for aspell | http://aspell.net/ |
 | **aspell-static** | 0.60.8.2 | Static libraries for aspell | http://aspell.net |
 | **aspnetcore-runtime-10.0** | 10.0.6 | ASP.NET Core 10.0 Runtime | https://dotnet.microsoft.com/en-us/ |
-| **aspnetcore-runtime-8.0** | 8.0.25 | ASP.NET Core 8.0 Runtime | https://dotnet.microsoft.com/en-us/ |
-| **aspnetcore-runtime-9.0** | 9.0.14 | ASP.NET Core 9.0 Runtime | https://dotnet.microsoft.com/en-us/ |
+| **aspnetcore-runtime-8.0** | 8.0.26 | ASP.NET Core 8.0 Runtime | https://dotnet.microsoft.com/en-us/ |
+| **aspnetcore-runtime-9.0** | 9.0.15 | ASP.NET Core 9.0 Runtime | https://dotnet.microsoft.com/en-us/ |
 | **aspnetcore-runtime-dbg-10.0** | 10.0.6 | ASP.NET Core 10.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
-| **aspnetcore-runtime-dbg-8.0** | 8.0.25 | ASP.NET Core 8.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
-| **aspnetcore-runtime-dbg-9.0** | 9.0.14 | ASP.NET Core 9.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
+| **aspnetcore-runtime-dbg-8.0** | 8.0.26 | ASP.NET Core 8.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
+| **aspnetcore-runtime-dbg-9.0** | 9.0.15 | ASP.NET Core 9.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
 | **aspnetcore-targeting-pack-10.0** | 10.0.6 | ASP.NET Core 10.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
-| **aspnetcore-targeting-pack-8.0** | 8.0.25 | ASP.NET Core 8.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
-| **aspnetcore-targeting-pack-9.0** | 9.0.14 | ASP.NET Core 9.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
+| **aspnetcore-targeting-pack-8.0** | 8.0.26 | ASP.NET Core 8.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
+| **aspnetcore-targeting-pack-9.0** | 9.0.15 | ASP.NET Core 9.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **assimp** | 6.0.4 | Library to import various well-known 3D model formats in an uniform manner | https://assimp.sourceforge.net/index.html |
 | **asymptote** | 3.10 | A powerful descriptive vector graphics language for technical drawing | https://asymptote.sourceforge.io/ |
 | **at** | 3.2.5-2 | AT and batch delayed command scheduling utility and daemon | https://salsa.debian.org/debian/at |
@@ -372,36 +372,36 @@
 | **dotconf** | 1.4.1-1 | dot.conf configuration file parser | https://github.com/williamh/dotconf |
 | **dotconf-static** | 1.4.1-1 | Static libraries for dotconf | https://github.com/williamh/dotconf |
 | **dotnet-apphost-pack-10.0** | 10.0.6 | .NET 10.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-apphost-pack-8.0** | 8.0.25 | .NET 8.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-apphost-pack-9.0** | 9.0.14 | .NET 9.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-apphost-pack-8.0** | 8.0.26 | .NET 8.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-apphost-pack-9.0** | 9.0.15 | .NET 9.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-host** | 10.0 | A metapackage for .NET Host | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-host-10.0** | 10.0.6 | .NET 10.0 Host | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-host-8.0** | 8.0.25 | .NET 8.0 Host | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-host-9.0** | 9.0.14 | .NET 9.0 Host | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-host-8.0** | 8.0.26 | .NET 8.0 Host | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-host-9.0** | 9.0.15 | .NET 9.0 Host | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-hostfxr-10.0** | 10.0.6 | .NET 10.0 Host Resolver | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-hostfxr-8.0** | 8.0.25 | .NET 8.0 Host Resolver | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-hostfxr-9.0** | 9.0.14 | .NET 9.0 Host Resolver | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-hostfxr-8.0** | 8.0.26 | .NET 8.0 Host Resolver | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-hostfxr-9.0** | 9.0.15 | .NET 9.0 Host Resolver | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-runtime-10.0** | 10.0.6 | .NET 10.0 Runtime | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-runtime-8.0** | 8.0.25 | .NET 8.0 Runtime | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-runtime-9.0** | 9.0.14 | .NET 9.0 Runtime | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-runtime-8.0** | 8.0.26 | .NET 8.0 Runtime | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-runtime-9.0** | 9.0.15 | .NET 9.0 Runtime | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-runtime-dbg-10.0** | 10.0.6 | .NET 10.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-runtime-dbg-8.0** | 8.0.25 | .NET 8.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-runtime-dbg-9.0** | 9.0.14 | .NET 9.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-runtime-dbg-8.0** | 8.0.26 | .NET 8.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-runtime-dbg-9.0** | 9.0.15 | .NET 9.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-sdk-10.0** | 10.0.6 | .NET 10.0 SDK | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-sdk-8.0** | 8.0.25 | .NET 8.0 SDK | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-sdk-9.0** | 9.0.14 | .NET 9.0 SDK | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-sdk-8.0** | 8.0.26 | .NET 8.0 SDK | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-sdk-9.0** | 9.0.15 | .NET 9.0 SDK | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-sdk-dbg-10.0** | 10.0.6 | .NET 10.0 SDK Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-sdk-dbg-8.0** | 8.0.25 | .NET 8.0 SDK Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-sdk-dbg-9.0** | 9.0.14 | .NET 9.0 SDK Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-sdk-dbg-8.0** | 8.0.26 | .NET 8.0 SDK Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-sdk-dbg-9.0** | 9.0.15 | .NET 9.0 SDK Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-targeting-pack-10.0** | 10.0.6 | .NET 10.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-targeting-pack-8.0** | 8.0.25 | .NET 8.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-targeting-pack-9.0** | 9.0.14 | .NET 9.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-targeting-pack-8.0** | 8.0.26 | .NET 8.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-targeting-pack-9.0** | 9.0.15 | .NET 9.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-templates-10.0** | 10.0.6 | .NET 10.0 Templates | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-templates-8.0** | 8.0.25 | .NET 8.0 Templates | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-templates-9.0** | 9.0.14 | .NET 9.0 Templates | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-templates-8.0** | 8.0.26 | .NET 8.0 Templates | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-templates-9.0** | 9.0.15 | .NET 9.0 Templates | https://dotnet.microsoft.com/en-us/ |
 | **dotnet10.0** | 10.0.6 | .NET 10.0 | https://dotnet.microsoft.com/en-us/ |
-| **dotnet8.0** | 8.0.25 | .NET 8.0 | https://dotnet.microsoft.com/en-us/ |
-| **dotnet9.0** | 9.0.14 | .NET 9.0 | https://dotnet.microsoft.com/en-us/ |
+| **dotnet8.0** | 8.0.26 | .NET 8.0 | https://dotnet.microsoft.com/en-us/ |
+| **dotnet9.0** | 9.0.15 | .NET 9.0 | https://dotnet.microsoft.com/en-us/ |
 | **double-conversion** | 3.4.0 | Binary-decimal and decimal-binary routines for IEEE doubles | https://github.com/google/double-conversion |
 | **doxygen** | 1.16.1 | A documentation system for C++, C, Java, IDL and PHP | http://www.doxygen.org |
 | **dpkg** | 1.22.6-5 | Debian package management system | https://packages.debian.org/dpkg |
@@ -445,10 +445,10 @@
 | **elvish** | 0.21.0-1 | A friendly and expressive Unix shell | https://github.com/elves/elvish |
 | **emacs** | 30.2-1 | Extensible, customizable text editor-and more | https://www.gnu.org/software/emacs/ |
 | **emmylua-ls** | 0.22.0 | Emmy Lua Language Server coded in Rust | https://github.com/EmmyLuaLs/emmylua-analyzer-rust |
-| **emscripten** | 5.0.5 | Emscripten: An LLVM-to-WebAssembly Compiler | https://emscripten.org |
-| **emscripten-binaryen** | 5.0.5 | Emscripten-compatible Binaryen | https://emscripten.org |
-| **emscripten-llvm** | 5.0.5 | Emscripten-compatible LLVM | https://emscripten.org |
-| **emscripten-tests-third-party** | 5.0.5 | Emscripten third party test suite files | https://emscripten.org |
+| **emscripten** | 5.0.6 | Emscripten: An LLVM-to-WebAssembly Compiler | https://emscripten.org |
+| **emscripten-binaryen** | 5.0.6 | Emscripten-compatible Binaryen | https://emscripten.org |
+| **emscripten-llvm** | 5.0.6 | Emscripten-compatible LLVM | https://emscripten.org |
+| **emscripten-tests-third-party** | 5.0.6 | Emscripten third party test suite files | https://emscripten.org |
 | **enblend** | 4.2.0p20161007-8 | A tool for compositing images using a Burt&Adelson multiresolution spline | https://enblend.sourceforge.net/ |
 | **enchant** | 2.8.15 | Wraps a number of different spelling libraries and programs with a consistent interface | https://rrthomas.github.io/enchant/ |
 | **enchant-static** | 2.8.15 | Static libraries for enchant | https://rrthomas.github.io/enchant/ |
@@ -515,7 +515,7 @@
 | **flex-static** | 2.6.4-4 | Static libraries for flex | https://github.com/westes/flex |
 | **flint** | 3.4.0 | C library for doing number theory | http://www.flintlib.org |
 | **fluidsynth** | 2.5.3 | Software synthesizer based on the SoundFont 2 specifications | https://github.com/FluidSynth/fluidsynth |
-| **flyctl** | 0.4.34 | Command line tools for fly.io services | https://fly.io |
+| **flyctl** | 0.4.35 | Command line tools for fly.io services | https://fly.io |
 | **fm** | 1.2.0 | A terminal based file manager | https://github.com/knipferrc/fm |
 | **fmt** | 1:11.2.0 | Open-source formatting library for C++ | https://fmt.dev/latest/index.html |
 | **fontconfig** | 2.17.1-1 | Library for configuring and customizing font access | https://www.freedesktop.org/wiki/Software/fontconfig/ |
@@ -1668,7 +1668,7 @@
 | **luvi** | 1:2.15.0-2 | A project in-between luv and luvit | https://luvit.io |
 | **luvit** | 2.18.1-1 | Asynchronous I/O for Lua | https://luvit.io |
 | **lux** | 0.24.1-2 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
-| **lux-cli** | 0.28.0 | A package manager for Lua, similar to luarocks | https://lux.lumen-labs.org |
+| **lux-cli** | 0.28.1 | A package manager for Lua, similar to luarocks | https://lux.lumen-labs.org |
 | **lv2** | 1.18.10-7 | A plugin standard for audio systems | https://lv2plug.in/ |
 | **lychee** | 0.23.0 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
 | **lynx** | 2.9.2-1 | The text web browser | http://lynx.browser.org/ |
@@ -1862,12 +1862,12 @@
 | **netpbm** | 1:10.73.43-5 | Toolkit for manipulation of graphic images of different formats | https://netpbm.sourceforge.net/ |
 | **netsed** | 1.4 | Alter the contents of packets forwarded through network in real time | http://silicone.homelinux.org/projects/netsed/ |
 | **netstandard-targeting-pack-2.1** | 9.0-2 | A metapackage for NETStandard.Library 2.1 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
-| **netstandard-targeting-pack-2.1-8.0** | 8.0.25 | NETStandard.Library 2.1 Targeting Pack (.NET 8.0) | https://dotnet.microsoft.com/en-us/ |
-| **netstandard-targeting-pack-2.1-9.0** | 9.0.14 | NETStandard.Library 2.1 Targeting Pack (.NET 9.0) | https://dotnet.microsoft.com/en-us/ |
+| **netstandard-targeting-pack-2.1-8.0** | 8.0.26 | NETStandard.Library 2.1 Targeting Pack (.NET 8.0) | https://dotnet.microsoft.com/en-us/ |
+| **netstandard-targeting-pack-2.1-9.0** | 9.0.15 | NETStandard.Library 2.1 Targeting Pack (.NET 9.0) | https://dotnet.microsoft.com/en-us/ |
 | **nettle** | 4.0+really3.10.2 | Low level cryptographic tools | https://www.lysator.liu.se/~nisse/nettle/ |
 | **newsboat** | 2.43 | RSS/Atom feed reader for the text console | https://newsboat.org/ |
 | **newsraft** | 0.36 | Newsraft is a feed reader with text-based user interface | https://codeberg.org/newsraft/newsraft |
-| **nginx** | 1.29.8-1 | Lightweight HTTP server | https://www.nginx.org |
+| **nginx** | 1.30.0 | Lightweight HTTP server | https://www.nginx.org |
 | **ngircd** | 27-1 | Free, portable and lightweight Internet Relay Chat server | https://ngircd.barton.de/ |
 | **ngspice** | 45.2 | A mixed-level/mixed-signal circuit simulator | https://ngspice.sourceforge.net/ |
 | **nim** | 2.2.6 | Nim programming language compiler | https://nim-lang.org/ |
@@ -2205,7 +2205,7 @@
 | **rage** | 0.11.1-1 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4-1 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4-1 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
-| **railway-cli** | 4.37.2 | This is the command line interface for Railway | https://railway.app |
+| **railway-cli** | 4.37.3 | This is the command line interface for Railway | https://railway.app |
 | **range-v3** | 0.12.0 | Range library for C++14/17/20, basis for C++20's std::ranges | https://github.com/ericniebler/range-v3 |
 | **ranger** | 1.9.4-1 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-7 | Fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |
@@ -2700,7 +2700,7 @@
 | **w3m** | 0.5.6 | Text based Web browser and pager | https://w3m.sourceforge.net/ |
 | **w3m-img** | 0.5.6 | Inline image extension support utilities for w3m | https://w3m.sourceforge.net/ |
 | **wabt** | 1.0.40 | The WebAssembly Binary Toolkit | https://github.com/WebAssembly/wabt |
-| **wakatime-cli** | 2.2.5 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
+| **wakatime-cli** | 2.2.7 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
 | **walk** | 1.13.0 | A terminal file manager | https://github.com/antonmedv/walk |
 | **wallust** | 3.5.2 | Generate colors from an image | https://explosion-mental.codeberg.page/wallust |
 | **wasi-libc** | 30 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |
