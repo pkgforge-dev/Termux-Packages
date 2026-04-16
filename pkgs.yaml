@@ -1863,7 +1863,7 @@
   Description: Open source xHE-AAC encoder
   Homepage: https://gitlab.com/ecodis/exhale
 - Package: exiftool
-  Version: "13.55"
+  Version: "13.56"
   Description: Utility for reading, writing and editing meta information in a wide variety of files.
   Homepage: https://exiftool.org/
 - Package: exiv2
@@ -3263,7 +3263,7 @@
   Description: A free media system for organizing and streaming media (server)
   Homepage: https://jellyfin.org
 - Package: jfrog-cli
-  Version: 2.99.0
+  Version: 2.100.0
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -3475,7 +3475,7 @@
   Description: Powerful, double-entry accounting system
   Homepage: https://www.ledger-cli.org
 - Package: lego
-  Version: 4.33.0
+  Version: 4.34.0
   Description: Lets Encrypt/ACME client and library written in Go
   Homepage: https://github.com/go-acme/lego
 - Package: leptonica
@@ -6679,7 +6679,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.28.1
+  Version: 0.28.2
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://lux.lumen-labs.org
 - Package: lv2
@@ -7579,7 +7579,7 @@
   Description: ncurses based sudoku game
   Homepage: http://jubalh.github.io/nudoku/
 - Package: nushell
-  Version: 0.112.1
+  Version: 0.112.2
   Description: A new type of shell operating on structured data
   Homepage: https://www.nushell.sh
 - Package: nyancat
@@ -8595,7 +8595,7 @@
   Description: Python client for Neovim
   Homepage: https://github.com/neovim/pynvim
 - Package: python-pyppmd
-  Version: 1.2.0
+  Version: 1.3.1
   Description: PPM compression/decompression library
   Homepage: https://github.com/miurahr/pyppmd
 - Package: python-ruff
@@ -10415,7 +10415,7 @@
   Description: High-performance build system for JS/TS
   Homepage: https://turbo.build/
 - Package: turbopack
-  Version: 16.2.3
+  Version: 16.2.4
   Description: Rust-based incremental compilation engine and bundler for Next.js
   Homepage: https://nextjs.org/
 - Package: tut
@@ -10599,7 +10599,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.11.6
+  Version: 0.11.7
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi

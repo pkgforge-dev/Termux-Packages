@@ -464,7 +464,7 @@
 | **exercism** | 3.5.8 | A Go based command line tool for exercism.io | https://github.com/exercism/cli/ |
 | **exfatprogs** | 1.3.2 | exFAT filesystem userspace utilities | https://github.com/exfatprogs/exfatprogs |
 | **exhale** | 1.2.2RC+really1.2.2 | Open source xHE-AAC encoder | https://gitlab.com/ecodis/exhale |
-| **exiftool** | 13.55 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
+| **exiftool** | 13.56 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
 | **exiv2** | 2:0.28.7 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **expect** | 5.45.4-4 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
 | **eza** | 0.23.4 | A modern replacement for ls | https://github.com/eza-community/eza |
@@ -814,7 +814,7 @@
 | **jcal-static** | 0.5.1-1 | Static libraries for jcal | http://nongnu.org/jcal |
 | **jellyfin-ffmpeg** | 10.11.5-2 | FFmpeg for Jellyfin with custom extensions and enhancements | https://jellyfin.org |
 | **jellyfin-server** | 10.11.5-2 | A free media system for organizing and streaming media (server) | https://jellyfin.org |
-| **jfrog-cli** | 2.99.0 | A CLI for JFrog products | https://jfrog.com/getcli |
+| **jfrog-cli** | 2.100.0 | A CLI for JFrog products | https://jfrog.com/getcli |
 | **jftui** | 0.7.5 | jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server. | https://github.com/Aanok/jftui |
 | **jhead** | 3.08-1 | Exif Jpeg header manipulation tool | http://www.sentex.net/~mwandel/jhead/ |
 | **jigdo** | 0.8.2-1 | Distribute large images by sending and receiving the files that make them up | http://atterer.org/jigdo/ |
@@ -867,7 +867,7 @@
 | **ldns** | 1.8.4-1 | Library for simplifying DNS programming and supporting recent and experimental RFCs | https://www.nlnetlabs.nl/projects/ldns/ |
 | **ldns-static** | 1.8.4-1 | Static libraries for ldns | https://www.nlnetlabs.nl/projects/ldns/ |
 | **ledger** | 3.4.1-2 | Powerful, double-entry accounting system | https://www.ledger-cli.org |
-| **lego** | 4.33.0 | Let's Encrypt/ACME client and library written in Go | https://github.com/go-acme/lego |
+| **lego** | 4.34.0 | Let's Encrypt/ACME client and library written in Go | https://github.com/go-acme/lego |
 | **leptonica** | 1.87.0 | Library for image processing and image analysis | http://www.leptonica.com/ |
 | **leptonica-static** | 1.87.0 | Static libraries for leptonica | http://www.leptonica.com/ |
 | **less** | 692 | Terminal pager program used to view the contents of a text file one screen at a time | https://www.greenwoodsoftware.com/less/ |
@@ -1668,7 +1668,7 @@
 | **luvi** | 1:2.15.0-2 | A project in-between luv and luvit | https://luvit.io |
 | **luvit** | 2.18.1-1 | Asynchronous I/O for Lua | https://luvit.io |
 | **lux** | 0.24.1-2 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
-| **lux-cli** | 0.28.1 | A package manager for Lua, similar to luarocks | https://lux.lumen-labs.org |
+| **lux-cli** | 0.28.2 | A package manager for Lua, similar to luarocks | https://lux.lumen-labs.org |
 | **lv2** | 1.18.10-7 | A plugin standard for audio systems | https://lv2plug.in/ |
 | **lychee** | 0.23.0 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
 | **lynx** | 2.9.2-1 | The text web browser | http://lynx.browser.org/ |
@@ -1893,7 +1893,7 @@
 | **nsnake** | 3.0.1-7 | The classic snake game with textual interface | https://github.com/alexdantas/nSnake |
 | **nss-utils** | 3.122.1 | Tools for NSS | https://firefox-source-docs.mozilla.org/security/nss/ |
 | **nudoku** | 7.0.0 | ncurses based sudoku game | http://jubalh.github.io/nudoku/ |
-| **nushell** | 0.112.1 | A new type of shell operating on structured data | https://www.nushell.sh |
+| **nushell** | 0.112.2 | A new type of shell operating on structured data | https://www.nushell.sh |
 | **nyancat** | 1.5.2-1 | Nyancat in your terminal, rendered through ANSI escape sequences. | http://nyancat.dakko.us |
 | **nzbget** | 26.0 | The most efficient usenet downloader | https://nzbget.com/ |
 | **oathtool** | 2.6.12-2 | One-time password components | http://www.nongnu.org/oath-toolkit/ |
@@ -2147,7 +2147,7 @@
 | **python-pyarrow** | 23.0.1-2 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
 | **python-pycryptodomex** | 3.23.0-3 | A self-contained Python package of low-level cryptographic primitives | https://www.pycryptodome.org/ |
 | **python-pynvim** | 0.6.0-2 | Python client for Neovim | https://github.com/neovim/pynvim |
-| **python-pyppmd** | 1.2.0 | PPM compression/decompression library | https://github.com/miurahr/pyppmd |
+| **python-pyppmd** | 1.3.1 | PPM compression/decompression library | https://github.com/miurahr/pyppmd |
 | **python-ruff** | 0.15.10 | An extremely fast Python linter, written in Rust (Python bindings) | https://github.com/charliermarsh/ruff |
 | **python-sabyenc3** | 9.4.0 | C implementations of functions for use within SABnzbd | https://github.com/sabnzbd/sabctools |
 | **python-scipy** | 1.17.1-2 | Fundamental algorithms for scientific computing in Python | https://scipy.org/ |
@@ -2602,7 +2602,7 @@
 | **tudo** | 1.2.0 | A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument as the Termux app (u<userid>_a<appid>) user in the Termux app | https://github.com/agnostic-apollo/tudo |
 | **tur-repo** | 1.0.1 | A single and trusted place for all unofficial/less popular termux packages | https://github.com/termux-user-repository/tur |
 | **turbo** | 2.9.6 | High-performance build system for JS/TS | https://turbo.build/ |
-| **turbopack** | 16.2.3 | Rust-based incremental compilation engine and bundler for Next.js | https://nextjs.org/ |
+| **turbopack** | 16.2.4 | Rust-based incremental compilation engine and bundler for Next.js | https://nextjs.org/ |
 | **tut** | 2.0.1-3 | A TUI for Mastodon with vim inspired keys | https://github.com/RasmusLindroth/tut |
 | **tvheadend** | 4.2.8-12 | TV streaming server for Linux and Android supporting DVB-S, DVB-S2 and other formats. | https://tvheadend.org/ |
 | **tvheadend-data** | 4.2.8-12 | Platform-independent data for tvheadend | https://tvheadend.org/ |
@@ -2648,7 +2648,7 @@
 | **util-linux-static** | 2.41.3 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-2 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.41.3 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **uv** | 0.11.6 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
+| **uv** | 0.11.7 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.31-1 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.48.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.19 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |

@@ -2797,7 +2797,7 @@
   },
   {
     "Package": "exiftool",
-    "Version": "13.55",
+    "Version": "13.56",
     "Description": "Utility for reading, writing and editing meta information in a wide variety of files.",
     "Homepage": "https://exiftool.org/"
   },
@@ -4897,7 +4897,7 @@
   },
   {
     "Package": "jfrog-cli",
-    "Version": "2.99.0",
+    "Version": "2.100.0",
     "Description": "A CLI for JFrog products",
     "Homepage": "https://jfrog.com/getcli"
   },
@@ -5215,7 +5215,7 @@
   },
   {
     "Package": "lego",
-    "Version": "4.33.0",
+    "Version": "4.34.0",
     "Description": "Lets Encrypt/ACME client and library written in Go",
     "Homepage": "https://github.com/go-acme/lego"
   },
@@ -10021,7 +10021,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.28.1",
+    "Version": "0.28.2",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://lux.lumen-labs.org"
   },
@@ -11371,7 +11371,7 @@
   },
   {
     "Package": "nushell",
-    "Version": "0.112.1",
+    "Version": "0.112.2",
     "Description": "A new type of shell operating on structured data",
     "Homepage": "https://www.nushell.sh"
   },
@@ -12895,7 +12895,7 @@
   },
   {
     "Package": "python-pyppmd",
-    "Version": "1.2.0",
+    "Version": "1.3.1",
     "Description": "PPM compression/decompression library",
     "Homepage": "https://github.com/miurahr/pyppmd"
   },
@@ -15625,7 +15625,7 @@
   },
   {
     "Package": "turbopack",
-    "Version": "16.2.3",
+    "Version": "16.2.4",
     "Description": "Rust-based incremental compilation engine and bundler for Next.js",
     "Homepage": "https://nextjs.org/"
   },
@@ -15901,7 +15901,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.11.6",
+    "Version": "0.11.7",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
