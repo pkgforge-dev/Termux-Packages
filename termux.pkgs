@@ -842,7 +842,7 @@
 | **k9s** | 0.50.18 | Kubernetes CLI To Manage Your Clusters In Style! | https://k9scli.io |
 | **kainjow-mustache** | 4.1 | Mustache implementation for modern C++ | https://github.com/kainjow/Mustache |
 | **kakoune** | 2026.04.12 | Code editor heavily inspired by Vim | https://kakoune.org/ |
-| **kakoune-lsp** | 19.0.1 | Language Server Protocol Client for the Kakoune editor | https://github.com/kakoune-lsp/kakoune-lsp |
+| **kakoune-lsp** | 20.0.0 | Language Server Protocol Client for the Kakoune editor | https://github.com/kakoune-lsp/kakoune-lsp |
 | **kbd** | 2.9.0 | KBD's showkey utility for examining keycodes | https://kbd-project.org/ |
 | **keybase** | 6.6.2 | Key directory that maps social media identities to encryption keys | https://keybase.io |
 | **keychain** | 2.9.8 | keychain ssh-agent front-end | https://www.funtoo.org/Keychain |
@@ -1258,8 +1258,8 @@
 | **libnghttp2-static** | 1.68.1 | Static libraries for libnghttp2 | https://nghttp2.org/ |
 | **libnghttp3** | 1.15.0 | HTTP/3 library written in C | https://nghttp2.org/nghttp3/ |
 | **libnghttp3-static** | 1.15.0 | Static libraries for libnghttp3 | https://nghttp2.org/nghttp3/ |
-| **libngtcp2** | 1.22.0 | Implementation of IETF QUIC protocol | https://github.com/ngtcp2/ngtcp2 |
-| **libngtcp2-static** | 1.22.0 | Static libraries for libngtcp2 | https://github.com/ngtcp2/ngtcp2 |
+| **libngtcp2** | 1.22.1 | Implementation of IETF QUIC protocol | https://github.com/ngtcp2/ngtcp2 |
+| **libngtcp2-static** | 1.22.1 | Static libraries for libngtcp2 | https://github.com/ngtcp2/ngtcp2 |
 | **libnl** | 3.12.0 | Collection of libraries providing APIs to netlink protocol based Linux kernel interfaces | https://github.com/thom311/libnl |
 | **libnl-cli** | 3.12.0 | Command-line interface utilities for libnl | https://github.com/thom311/libnl |
 | **libnl-cli-static** | 3.12.0 | Static libraries for libnl-cli | https://github.com/thom311/libnl |
@@ -1324,8 +1324,8 @@
 | **libplist-static** | 2.7.0-1 | Static libraries for libplist | https://libimobiledevice.org |
 | **libpluto** | 0.12.2 | Shared library for the Pluto interpreter | https://plutolang.github.io/ |
 | **libpluto-static** | 0.12.2 | Static libraries for libpluto | https://plutolang.github.io/ |
-| **libpng** | 1.6.57 | Official PNG reference library | http://www.libpng.org/pub/png/libpng.html |
-| **libpng-static** | 1.6.57 | Static libraries for libpng | http://www.libpng.org/pub/png/libpng.html |
+| **libpng** | 1.6.58 | Official PNG reference library | http://www.libpng.org/pub/png/libpng.html |
+| **libpng-static** | 1.6.58 | Static libraries for libpng | http://www.libpng.org/pub/png/libpng.html |
 | **libpngwriter** | 0.7.0-1 | C++ library for creating PNG images | https://pngwriter.sourceforge.net |
 | **libpngwriter-static** | 0.7.0-1 | Static libraries for libpngwriter | https://pngwriter.sourceforge.net |
 | **libpoco** | 1.15.1 | A comprehensive set of C++ libraries that cover all modern-day programming needs | https://pocoproject.org/ |
@@ -2318,7 +2318,7 @@
 | **sdcv** | 0.5.5-2 | StarDict Console Version | http://dushistov.github.io/sdcv/ |
 | **seafile-client** | 9.0.18 | Seafile is a file syncing and sharing software with file encryption and group sharing | https://seafile.com |
 | **seafile-client-static** | 9.0.18 | Static libraries for seafile-client | https://seafile.com |
-| **seanime** | 3.6.0 | Self-hosted anime and manga server for sea rovers. | https://github.com/5rahim/seanime |
+| **seanime** | 3.6.1 | Self-hosted anime and manga server for sea rovers. | https://github.com/5rahim/seanime |
 | **seccure** | 0.5-8 | SECCURE Elliptic Curve Crypto Utility for Reliable Encryption | http://point-at-infinity.org/seccure/ |
 | **secure-delete** | 3.1-6 | Secure file, disk, swap, memory erasure utilities | https://www.thc.org/ |
 | **sed** | 4.9-2 | GNU stream editor for filtering/transforming text | https://www.gnu.org/software/sed/ |
