@@ -2339,7 +2339,7 @@
   Description: The Forth implementation of the GNU project
   Homepage: https://www.gnu.org/software/gforth/
 - Package: gh
-  Version: 2.89.0
+  Version: 2.90.0
   Description: GitHub’s official command line tool
   Homepage: https://cli.github.com/
 - Package: ghc
@@ -3215,7 +3215,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.24.1554
+  Version: 0.24.1608
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -4843,11 +4843,11 @@
   Description: Static libraries for libmhash
   Homepage: https://mhash.sourceforge.net/
 - Package: libmicrohttpd
-  Version: 1.0.4
+  Version: 1.0.5
   Description: A small C library that is supposed to make it easy to run an HTTP server as part of another application
   Homepage: http://www.gnu.org/software/libmicrohttpd/
 - Package: libmicrohttpd-static
-  Version: 1.0.4
+  Version: 1.0.5
   Description: Static libraries for libmicrohttpd
   Homepage: http://www.gnu.org/software/libmicrohttpd/
 - Package: libminizip
@@ -5319,7 +5319,7 @@
   Description: Static libraries for libpngwriter
   Homepage: https://pngwriter.sourceforge.net
 - Package: libpoco
-  Version: 1.15.1
+  Version: 1.15.2
   Description: A comprehensive set of C++ libraries that cover all modern-day programming needs
   Homepage: https://pocoproject.org/
 - Package: libpolly
@@ -6279,15 +6279,15 @@
   Description: A C library for creating Excel XLSX files
   Homepage: https://libxlsxwriter.github.io/
 - Package: libxml2
-  Version: 2.15.2-2
+  Version: 2.15.3
   Description: Library for parsing XML documents
   Homepage: https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home
 - Package: libxml2-python
-  Version: 2.15.2-2
+  Version: 2.15.3
   Description: Python bindings for libxml2
   Homepage: https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home
 - Package: libxml2-utils
-  Version: 2.15.2-2
+  Version: 2.15.3
   Description: XML utilities
   Homepage: https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home
 - Package: libxmlb
@@ -6807,7 +6807,7 @@
   Description: A material you color generation tool with templates
   Homepage: https://github.com/InioX/matugen
 - Package: mautrix-whatsapp
-  Version: 0.2603.0
+  Version: 0.2604.0
   Description: A Matrix-WhatsApp puppeting bridge
   Homepage: https://maunium.net/go/mautrix-whatsapp/
 - Package: maven
@@ -7103,7 +7103,7 @@
   Description: Simple game where you drive a car across the moons surface
   Homepage: https://github.com/seehuhn/moon-buggy
 - Package: moor
-  Version: 2.12.0
+  Version: 2.12.1
   Description: A pager designed to just do the right thing without any configuration
   Homepage: https://github.com/walles/moor
 - Package: mop
@@ -8831,7 +8831,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 4.37.4
+  Version: 4.38.0
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
@@ -10751,7 +10751,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2026.04.11
+  Version: 2026.04.16
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vttest
