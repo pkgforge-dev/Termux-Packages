@@ -407,7 +407,7 @@
   Description: Static libraries for attr
   Homepage: http://savannah.nongnu.org/projects/attr/
 - Package: atuin
-  Version: 18.14.1
+  Version: 18.15.1
   Description: Magical shell history
   Homepage: https://atuin.sh/
 - Package: aubio
@@ -3423,7 +3423,7 @@
   Description: Colorize your kubectl output
   Homepage: https://github.com/kubecolor/kubecolor
 - Package: kubectl
-  Version: 1.35.3
+  Version: 1.35.4
   Description: Kubernetes.io client binary
   Homepage: https://kubernetes.io/
 - Package: kubelogin
@@ -8831,7 +8831,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 4.37.3
+  Version: 4.37.4
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
