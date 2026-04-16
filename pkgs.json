@@ -3907,7 +3907,7 @@
   },
   {
     "Package": "gomuks",
-    "Version": "26.03",
+    "Version": "26.04",
     "Description": "A terminal Matrix client written in Go",
     "Homepage": "https://go.mau.fi/gomuks"
   },
@@ -10237,13 +10237,13 @@
   },
   {
     "Package": "mbedtls",
-    "Version": "3.6.4-1",
+    "Version": "3.6.4-2",
     "Description": "Light-weight cryptographic and SSL/TLS library",
     "Homepage": "https://www.trustedfirmware.org/projects/mbed-tls/"
   },
   {
     "Package": "mbedtls-static",
-    "Version": "3.6.4-1",
+    "Version": "3.6.4-2",
     "Description": "Static libraries for mbedtls",
     "Homepage": "https://www.trustedfirmware.org/projects/mbed-tls/"
   },
