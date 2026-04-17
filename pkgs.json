@@ -613,7 +613,7 @@
   },
   {
     "Package": "atuin",
-    "Version": "18.15.1",
+    "Version": "18.15.2",
     "Description": "Magical shell history",
     "Homepage": "https://atuin.sh/"
   },
@@ -1381,7 +1381,7 @@
   },
   {
     "Package": "chezmoi",
-    "Version": "2.70.1",
+    "Version": "2.70.2",
     "Description": "Manage your dotfiles across multiple machines",
     "Homepage": "https://chezmoi.io"
   },
@@ -3103,7 +3103,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.4.35",
+    "Version": "0.4.36",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -3199,7 +3199,7 @@
   },
   {
     "Package": "fresh-editor",
-    "Version": "0.2.23",
+    "Version": "0.2.24",
     "Description": "Text editor for your terminal: easy, powerful and fast",
     "Homepage": "https://getfresh.dev/"
   },
@@ -11365,7 +11365,7 @@
   },
   {
     "Package": "nudoku",
-    "Version": "7.0.0",
+    "Version": "8.0.0",
     "Description": "ncurses based sudoku game",
     "Homepage": "http://jubalh.github.io/nudoku/"
   },
@@ -12901,7 +12901,7 @@
   },
   {
     "Package": "python-ruff",
-    "Version": "0.15.10",
+    "Version": "0.15.11",
     "Description": "An extremely fast Python linter, written in Rust (Python bindings)",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -13675,7 +13675,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.15.10",
+    "Version": "0.15.11",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -16219,7 +16219,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "2.3.0",
+    "Version": "2.3.1",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },

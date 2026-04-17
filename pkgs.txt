@@ -100,7 +100,7 @@
  atool  0.39.0-2  tool for managing file archives of various types  https://www.nongnu.org/atool 
  attr  2.5.2-1  Utilities for manipulating filesystem extended attributes  http://savannah.nongnu.org/projects/attr/ 
  attr-static  2.5.2-1  Static libraries for attr  http://savannah.nongnu.org/projects/attr/ 
- atuin  18.15.1  Magical shell history  https://atuin.sh/ 
+ atuin  18.15.2  Magical shell history  https://atuin.sh/ 
  aubio  0.4.9-7  A library to label music and sounds  https://aubio.org/ 
  aubio-static  0.4.9-7  Static libraries for aubio  https://aubio.org/ 
  audiofile  0.3.6  Silicon Graphics Audio File Library  https://audiofile.68k.org/ 
@@ -228,7 +228,7 @@
  chafa-static  1.18.1-2  Static libraries for chafa  https://hpjansson.org/chafa/ 
  check  0.15.2-3  A unit testing framework for C  https://libcheck.github.io/check 
  check-static  0.15.2-3  Static libraries for check  https://libcheck.github.io/check 
- chezmoi  2.70.1  Manage your dotfiles across multiple machines  https://chezmoi.io 
+ chezmoi  2.70.2  Manage your dotfiles across multiple machines  https://chezmoi.io 
  chicken  5.4.0-2  A feature rich Scheme compiler and interpreter  https://www.call-cc.org 
  chicken-static  5.4.0-2  Static libraries for chicken  https://www.call-cc.org 
  chntpw  140201  Offline Windows NT Password & Registry Editor  https://pogostick.net/~pnh/ntpasswd/ 
@@ -515,7 +515,7 @@
  flex-static  2.6.4-4  Static libraries for flex  https://github.com/westes/flex 
  flint  3.4.0  C library for doing number theory  http://www.flintlib.org 
  fluidsynth  2.5.3  Software synthesizer based on the SoundFont 2 specifications  https://github.com/FluidSynth/fluidsynth 
- flyctl  0.4.35  Command line tools for fly.io services  https://fly.io 
+ flyctl  0.4.36  Command line tools for fly.io services  https://fly.io 
  fm  1.2.0  A terminal based file manager  https://github.com/knipferrc/fm 
  fmt  1:11.2.0  Open-source formatting library for C++  https://fmt.dev/latest/index.html 
  fontconfig  2.17.1-1  Library for configuring and customizing font access  https://www.freedesktop.org/wiki/Software/fontconfig/ 
@@ -531,7 +531,7 @@
  freetype  2.14.3  Software font engine capable of producing high-quality output  https://www.freetype.org 
  freetype-static  2.14.3  Static libraries for freetype  https://www.freetype.org 
  frei0r-plugins  3.1.1  Minimalistic plugin API for video effects  https://www.dyne.org/software/frei0r/ 
- fresh-editor  0.2.23  Text editor for your terminal: easy, powerful and fast  https://getfresh.dev/ 
+ fresh-editor  0.2.24  Text editor for your terminal: easy, powerful and fast  https://getfresh.dev/ 
  fribidi  1.0.16-1  Implementation of the Unicode Bidirectional Algorithm  https://github.com/fribidi/fribidi/ 
  fribidi-static  1.0.16-1  Static libraries for fribidi  https://github.com/fribidi/fribidi/ 
  frobtads  2.0-5  TADS is a free authoring system for writing your own Interactive Fiction  http://www.tads.org/frobtads.htm 
@@ -1892,7 +1892,7 @@
  nsis-stubs  3.11-1  NSIS Stubs  https://sourceforge.net/projects/nsis/ 
  nsnake  3.0.1-7  The classic snake game with textual interface  https://github.com/alexdantas/nSnake 
  nss-utils  3.122.1  Tools for NSS  https://firefox-source-docs.mozilla.org/security/nss/ 
- nudoku  7.0.0  ncurses based sudoku game  http://jubalh.github.io/nudoku/ 
+ nudoku  8.0.0  ncurses based sudoku game  http://jubalh.github.io/nudoku/ 
  nushell  0.112.2  A new type of shell operating on structured data  https://www.nushell.sh 
  nyancat  1.5.2-1  Nyancat in your terminal, rendered through ANSI escape sequences.  http://nyancat.dakko.us 
  nzbget  26.0  The most efficient usenet downloader  https://nzbget.com/ 
@@ -2148,7 +2148,7 @@
  python-pycryptodomex  3.23.0-3  A self-contained Python package of low-level cryptographic primitives  https://www.pycryptodome.org/ 
  python-pynvim  0.6.0-2  Python client for Neovim  https://github.com/neovim/pynvim 
  python-pyppmd  1.3.1  PPM compression/decompression library  https://github.com/miurahr/pyppmd 
- python-ruff  0.15.10  An extremely fast Python linter, written in Rust (Python bindings)  https://github.com/charliermarsh/ruff 
+ python-ruff  0.15.11  An extremely fast Python linter, written in Rust (Python bindings)  https://github.com/charliermarsh/ruff 
  python-sabyenc3  9.4.0  C implementations of functions for use within SABnzbd  https://github.com/sabnzbd/sabctools 
  python-scipy  1.17.1-2  Fundamental algorithms for scientific computing in Python  https://scipy.org/ 
  python-skia-pathops  0.9.2-1  Python bindings for the Skia library's Path Ops  https://github.com/fonttools/skia-pathops 
@@ -2277,7 +2277,7 @@
  rubiks-cube  1.2-1  A rubik's cube that runs in your terminal  https://github.com/been-jamming/rubiks_cube 
  ruby  3.4.1-2  Dynamic programming language with a focus on simplicity and productivity  https://www.ruby-lang.org/ 
  ruby-ri  3.4.1-2  Ruby documentation index  https://www.ruby-lang.org/ 
- ruff  0.15.10  An extremely fast Python linter, written in Rust  https://github.com/charliermarsh/ruff 
+ ruff  0.15.11  An extremely fast Python linter, written in Rust  https://github.com/charliermarsh/ruff 
  runit  2.1.2-4  Tools to provide service supervision and to manage services  http://smarden.org/runit 
  runit-static  2.1.2-4  Static libraries for runit  http://smarden.org/runit 
  rush  0.9.0  A cross-platform command-line tool for executing jobs in parallel  https://github.com/shenwei356/rush 
@@ -2701,7 +2701,7 @@
  w3m  0.5.6  Text based Web browser and pager  https://w3m.sourceforge.net/ 
  w3m-img  0.5.6  Inline image extension support utilities for w3m  https://w3m.sourceforge.net/ 
  wabt  1.0.40  The WebAssembly Binary Toolkit  https://github.com/WebAssembly/wabt 
- wakatime-cli  2.3.0  Command line interface used by all WakaTime text editor plugins  https://wakatime.com/plugins/ 
+ wakatime-cli  2.3.1  Command line interface used by all WakaTime text editor plugins  https://wakatime.com/plugins/ 
  walk  1.13.0  A terminal file manager  https://github.com/antonmedv/walk 
  wallust  3.5.2  Generate colors from an image  https://explosion-mental.codeberg.page/wallust 
  wasi-libc  30  Libc for WebAssembly programs built on top of WASI system calls  https://wasi.dev/ 
