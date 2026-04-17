@@ -300,9 +300,9 @@
 | **ctags** | 2:6.2.1 | Universal ctags: Source code index builder | https://ctags.io/ |
 | **ctypes-sh** | 1.2-2 | A foreign function interface for bash | https://github.com/taviso/ctypes.sh |
 | **cuetools** | 1.4.1-1 | A set of utilities for working with Cue Sheet (cue) and Table of Contents (toc) files | https://github.com/svend/cuetools |
-| **cups** | 2.4.16-1 | Common UNIX Printing System | https://www.cups.org/ |
+| **cups** | 2.4.17 | Common UNIX Printing System | https://www.cups.org/ |
 | **cups-pdf** | 3.0.1-3 | CUPS PDF backend | https://www.cups-pdf.de/ |
-| **cups-static** | 2.4.16-1 | Static libraries for cups | https://www.cups.org/ |
+| **cups-static** | 2.4.17 | Static libraries for cups | https://www.cups.org/ |
 | **curl** | 8.19.0 | Command line tool for transferring data with URL syntax | https://curl.se/ |
 | **curlie** | 1.8.2 | The power of curl, the ease of use of httpie | https://curlie.io/ |
 | **curseofwar** | 1.3.0-5 | Fast-paced action strategy game focusing on high-level strategic planning | http://a-nikolaev.github.io/curseofwar/ |
@@ -464,7 +464,7 @@
 | **exercism** | 3.5.8 | A Go based command line tool for exercism.io | https://github.com/exercism/cli/ |
 | **exfatprogs** | 1.3.2 | exFAT filesystem userspace utilities | https://github.com/exfatprogs/exfatprogs |
 | **exhale** | 1.2.2RC+really1.2.2 | Open source xHE-AAC encoder | https://gitlab.com/ecodis/exhale |
-| **exiftool** | 13.56 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
+| **exiftool** | 13.57 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
 | **exiv2** | 2:0.28.7 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **expect** | 5.45.4-4 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
 | **eza** | 0.23.4 | A modern replacement for ls | https://github.com/eza-community/eza |
@@ -549,7 +549,7 @@
 | **game-music-emu-static** | 0.6.4-1 | Static libraries for game-music-emu | https://bitbucket.org/mpyne/game-music-emu/wiki/Home |
 | **gap** | 4.15.1 | GAP is a system for computational discrete algebra, with particular emphasis on Computational Group Theory | https://www.gap-system.org/ |
 | **gap-packages** | 4.15.1 | Packages for gap | https://www.gap-system.org/ |
-| **garage** | 2.2.0 | S3-compatible object store for small self-hosted geo-distributed deployments | https://garagehq.deuxfleurs.fr/ |
+| **garage** | 2.3.0 | S3-compatible object store for small self-hosted geo-distributed deployments | https://garagehq.deuxfleurs.fr/ |
 | **gatling** | 0.16-2 | A high performance http, ftp and smb server | https://www.fefe.de/gatling/ |
 | **gauche** | 0.9.15-3 | An R7RS Scheme implementation developed to be a handy script interpreter | https://practical-scheme.net/gauche/ |
 | **gauche-static** | 0.9.15-3 | Static libraries for gauche | https://practical-scheme.net/gauche/ |
@@ -1701,7 +1701,7 @@
 | **matterircd** | 0.28.0-1 | Connect to your mattermost or slack using your IRC-client of choice | https://github.com/42wim/matterircd |
 | **matugen** | 4.1.0 | A material you color generation tool with templates | https://github.com/InioX/matugen |
 | **mautrix-whatsapp** | 0.2604.0 | A Matrix-WhatsApp puppeting bridge | https://maunium.net/go/mautrix-whatsapp/ |
-| **maven** | 3.9.14 | A Java software project management and comprehension tool | https://maven.apache.org/ |
+| **maven** | 3.9.15 | A Java software project management and comprehension tool | https://maven.apache.org/ |
 | **maxcso** | 1.13.0-1 | A fast ISO to CSO compression program for use with PSP and PS2 emulators | https://github.com/unknownbrackets/maxcso |
 | **mazter** | 2022.08.13-1 | Mazes in your terminal | https://github.com/Canop/mazter |
 | **mbedtls** | 3.6.4-2 | Light-weight cryptographic and SSL/TLS library | https://www.trustedfirmware.org/projects/mbed-tls/ |
@@ -2206,7 +2206,7 @@
 | **rage** | 0.11.1-1 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4-1 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4-1 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
-| **railway-cli** | 4.39.0 | This is the command line interface for Railway | https://railway.app |
+| **railway-cli** | 4.40.0 | This is the command line interface for Railway | https://railway.app |
 | **range-v3** | 0.12.0 | Range library for C++14/17/20, basis for C++20's std::ranges | https://github.com/ericniebler/range-v3 |
 | **ranger** | 1.9.4-1 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-7 | Fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |
@@ -2742,7 +2742,7 @@
 | **wordgrinder** | 0.8-1 | A Unicode-aware character cell word processor | http://cowlark.com/wordgrinder/ |
 | **wren** | 0.4.0-2 | Small, fast, class-based concurrent scripting language interpreter | https://wren.io/ |
 | **wrk** | 4.2.0-1 | Modern HTTP benchmarking tool | https://github.com/wg/wrk |
-| **wtfutil** | 0.49.0 | The personal information dashboard for your terminal | https://wtfutil.com/ |
+| **wtfutil** | 0.49.1 | The personal information dashboard for your terminal | https://wtfutil.com/ |
 | **wuzz** | 0.5.0-5 | Interactive command line tool for HTTP inspection | https://github.com/asciimoo/wuzz |
 | **wv-tools** | 1.2.9-6 | Command-line tools for libwv | https://wvware.sourceforge.net/ |
 | **x11-repo** | 8.4-1 | Package repository containing X11 programs and libraries | https://github.com/termux/x11-packages |

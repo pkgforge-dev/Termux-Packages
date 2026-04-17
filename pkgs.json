@@ -1813,7 +1813,7 @@
   },
   {
     "Package": "cups",
-    "Version": "2.4.16-1",
+    "Version": "2.4.17",
     "Description": "Common UNIX Printing System",
     "Homepage": "https://www.cups.org/"
   },
@@ -1825,7 +1825,7 @@
   },
   {
     "Package": "cups-static",
-    "Version": "2.4.16-1",
+    "Version": "2.4.17",
     "Description": "Static libraries for cups",
     "Homepage": "https://www.cups.org/"
   },
@@ -2797,7 +2797,7 @@
   },
   {
     "Package": "exiftool",
-    "Version": "13.56",
+    "Version": "13.57",
     "Description": "Utility for reading, writing and editing meta information in a wide variety of files.",
     "Homepage": "https://exiftool.org/"
   },
@@ -3307,7 +3307,7 @@
   },
   {
     "Package": "garage",
-    "Version": "2.2.0",
+    "Version": "2.3.0",
     "Description": "S3-compatible object store for small self-hosted geo-distributed deployments",
     "Homepage": "https://garagehq.deuxfleurs.fr/"
   },
@@ -10219,7 +10219,7 @@
   },
   {
     "Package": "maven",
-    "Version": "3.9.14",
+    "Version": "3.9.15",
     "Description": "A Java software project management and comprehension tool",
     "Homepage": "https://maven.apache.org/"
   },
@@ -13249,7 +13249,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "4.39.0",
+    "Version": "4.40.0",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -16465,7 +16465,7 @@
   },
   {
     "Package": "wtfutil",
-    "Version": "0.49.0",
+    "Version": "0.49.1",
     "Description": "The personal information dashboard for your terminal",
     "Homepage": "https://wtfutil.com/"
   },
