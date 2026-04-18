@@ -3263,7 +3263,7 @@
   Description: A free media system for organizing and streaming media (server)
   Homepage: https://jellyfin.org
 - Package: jfrog-cli
-  Version: 2.100.0
+  Version: 2.101.0
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -3427,7 +3427,7 @@
   Description: Kubernetes.io client binary
   Homepage: https://kubernetes.io/
 - Package: kubelogin
-  Version: 1.36.0
+  Version: 1.36.1
   Description: A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication
   Homepage: https://github.com/int128/kubelogin
 - Package: kubo
