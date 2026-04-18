@@ -1063,7 +1063,7 @@
   },
   {
     "Package": "buf",
-    "Version": "1.68.1",
+    "Version": "1.68.2",
     "Description": "A new way of working with Protocol Buffers",
     "Homepage": "https://buf.build"
   },
@@ -12733,7 +12733,7 @@
   },
   {
     "Package": "pyrefly",
-    "Version": "0.61.0",
+    "Version": "0.61.1",
     "Description": "A fast type checker and language server for Python",
     "Homepage": "https://github.com/facebook/pyrefly.git"
   },
@@ -12829,7 +12829,7 @@
   },
   {
     "Package": "python-lxml",
-    "Version": "6.0.4",
+    "Version": "6.1.0",
     "Description": "Python binding for the libxml2 and libxslt libraries",
     "Homepage": "https://github.com/lxml/lxml"
   },
@@ -14095,7 +14095,7 @@
   },
   {
     "Package": "simdjson",
-    "Version": "4.6.1",
+    "Version": "4.6.2",
     "Description": "A C++ library to see how fast we can parse JSON with complete validation",
     "Homepage": "https://simdjson.org/"
   },
