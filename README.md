@@ -526,7 +526,7 @@
 | **flex** | 2.6.4-4 | Fast lexical analyser generator | https://github.com/westes/flex |
 | **flex-static** | 2.6.4-4 | Static libraries for flex | https://github.com/westes/flex |
 | **flint** | 3.4.0 | C library for doing number theory | http://www.flintlib.org |
-| **fluidsynth** | 2.5.3 | Software synthesizer based on the SoundFont 2 specifications | https://github.com/FluidSynth/fluidsynth |
+| **fluidsynth** | 2.5.4 | Software synthesizer based on the SoundFont 2 specifications | https://github.com/FluidSynth/fluidsynth |
 | **flyctl** | 0.4.36 | Command line tools for fly.io services | https://fly.io |
 | **fm** | 1.2.0 | A terminal based file manager | https://github.com/knipferrc/fm |
 | **fmt** | 1:11.2.0 | Open-source formatting library for C++ | https://fmt.dev/latest/index.html |
@@ -1264,8 +1264,8 @@
 | **libnfs** | 6.0.2-2 | NFS client library | https://github.com/sahlberg/libnfs |
 | **libnftnl** | 1.3.1 | Netfilter library providing interface to the nf_tables subsystem | https://www.netfilter.org/projects/libnftnl/ |
 | **libnftnl-static** | 1.3.1 | Static libraries for libnftnl | https://www.netfilter.org/projects/libnftnl/ |
-| **libnghttp2** | 1.68.1 | nghttp HTTP 2.0 library | https://nghttp2.org/ |
-| **libnghttp2-static** | 1.68.1 | Static libraries for libnghttp2 | https://nghttp2.org/ |
+| **libnghttp2** | 1.69.0 | nghttp HTTP 2.0 library | https://nghttp2.org/ |
+| **libnghttp2-static** | 1.69.0 | Static libraries for libnghttp2 | https://nghttp2.org/ |
 | **libnghttp3** | 1.15.0 | HTTP/3 library written in C | https://nghttp2.org/nghttp3/ |
 | **libnghttp3-static** | 1.15.0 | Static libraries for libnghttp3 | https://nghttp2.org/nghttp3/ |
 | **libngtcp2** | 1.22.1 | Implementation of IETF QUIC protocol | https://github.com/ngtcp2/ngtcp2 |
@@ -2221,7 +2221,7 @@
 | **ravencoin-static** | 4.6.1-9 | Static libraries for ravencoin | https://ravencoin.org/ |
 | **rbw** | 1.15.0 | An unofficial command line client for Bitwarden | https://github.com/doy/rbw |
 | **rc** | 1.7.4-2 | An alternative implementation of the plan 9 rc shell | https://github.com/rakitzis/rc |
-| **rclone** | 1.73.4 | rsync for cloud storage | https://rclone.org/ |
+| **rclone** | 1.73.5 | rsync for cloud storage | https://rclone.org/ |
 | **rcm** | 1.3.6 | Dotfiles management | https://github.com/thoughtbot/rcm |
 | **rcs** | 5.10.1-1 | The GNU Revision Control System | https://www.gnu.org/s/rcs |
 | **rdfind** | 1.8.0 | A tool for finding duplicate files | https://github.com/pauldreik/rdfind |

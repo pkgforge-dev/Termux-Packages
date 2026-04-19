@@ -3097,7 +3097,7 @@
   },
   {
     "Package": "fluidsynth",
-    "Version": "2.5.3",
+    "Version": "2.5.4",
     "Description": "Software synthesizer based on the SoundFont 2 specifications",
     "Homepage": "https://github.com/FluidSynth/fluidsynth"
   },
@@ -7525,13 +7525,13 @@
   },
   {
     "Package": "libnghttp2",
-    "Version": "1.68.1",
+    "Version": "1.69.0",
     "Description": "nghttp HTTP 2.0 library",
     "Homepage": "https://nghttp2.org/"
   },
   {
     "Package": "libnghttp2-static",
-    "Version": "1.68.1",
+    "Version": "1.69.0",
     "Description": "Static libraries for libnghttp2",
     "Homepage": "https://nghttp2.org/"
   },
@@ -13267,7 +13267,7 @@
   },
   {
     "Package": "rclone",
-    "Version": "1.73.4",
+    "Version": "1.73.5",
     "Description": "rsync for cloud storage",
     "Homepage": "https://rclone.org/"
   },
