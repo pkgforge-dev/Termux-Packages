@@ -731,8 +731,6 @@
 | **hledger** | 1.43.2-1 | Robust, friendly, fast plain text accounting software. (CLI only) | https://hledger.org/ |
 | **hledger-ui** | 1.43.2 | hledger-ui - terminal interface (TUI) for hledger, a robust, friendly plain text accounting app. | https://hledger.org/ |
 | **hnterm** | 1.0.5-2 | A simple tool to browse Hacker News in the terminal | https://github.com/ggerganov/imtui |
-| **hoedown** | 3.0.7-4 | Hoedown is a revived fork of Sundown, the Markdown parser based on the original code of the Upskirt library | https://github.com/hoedown/hoedown |
-| **hoedown-static** | 3.0.7-4 | Static libraries for hoedown | https://github.com/hoedown/hoedown |
 | **hollywood** | 1.22-1 | Fill your console with Hollywood melodrama technobabble | https://launchpad.net/hollywood |
 | **hors** | 0.8.2-3 | Instant coding answers via the command line (howdoi in rust) | https://github.com/WindSoilder/hors |
 | **hstr** | 3.1-1 | Shell history suggest box for bash and zsh | https://github.com/dvorka/hstr |
@@ -1399,13 +1397,10 @@
 | **libsndfile-static** | 1.2.2-2 | Static libraries for libsndfile | http://www.mega-nerd.com/libsndfile |
 | **libsodium** | 1.0.22-1 | Network communication, cryptography and signaturing library | https://libsodium.org/ |
 | **libsodium-static** | 1.0.22-1 | Static libraries for libsodium | https://libsodium.org/ |
-| **libsoldout** | 1.4-2 | Flexible C library and tools for markdown | https://fossil.instinctive.eu/libsoldout/index |
-| **libsoldout-static** | 1.4-2 | Static libraries for libsoldout | https://fossil.instinctive.eu/libsoldout/index |
 | **libsophia** | 2.2-1 | Advanced transactional MVCC key-value/row storage library | http://sophia.systems/ |
 | **libsophia-static** | 2.2-1 | Static libraries for libsophia | http://sophia.systems/ |
 | **libsoundtouch** | 2.3.3-1 | An open-source audio processing library for changing the Tempo, Pitch and Playback Rates of audio streams or files | https://www.surina.net/soundtouch/ |
 | **libsoundtouch-static** | 2.3.3-1 | Static libraries for libsoundtouch | https://www.surina.net/soundtouch/ |
-| **libsoup** | 2.74.3-6 | HTTP client and server library | https://wiki.gnome.org/action/show/Projects/libsoup |
 | **libsoup3** | 3.6.6 | HTTP client and server library | https://libsoup.gnome.org/libsoup-3.0/ |
 | **libsoxr** | 0.1.3-8 | High quality, one-dimensional sample-rate conversion library | https://sourceforge.net/projects/soxr/ |
 | **libspatialindex** | 2.1.0-1 | C++ implementation of R*-tree, an MVR-tree and a TPR-tree with C API | https://libspatialindex.github.io |
@@ -1753,7 +1748,6 @@
 | **minidlna** | 1.3.3-4 | A server software with the aim of being fully compliant with DLNA/UPnP-AV clients | https://sourceforge.net/projects/minidlna/ |
 | **miniflux** | 2.2.19 | A minimalist and opinionated feed reader | https://miniflux.app/ |
 | **minimodem** | 0.24-1-2 | General-purpose software audio FSK modem | http://www.whence.com/minimodem/ |
-| **minio** | 2025.10.15.17.29.55 | Multi-Cloud Object Storage | https://min.io/ |
 | **miniserve** | 0.35.0 | Tool to serve files and dirs over HTTP | https://github.com/svenstaro/miniserve |
 | **minisign** | 0.12-1 | A dead simple tool to sign files and verify signatures | https://jedisct1.github.io/minisign/ |
 | **miniupnpc** | 2.3.3-1 | Small UPnP client library and tool to access Internet Gateway Devices | https://miniupnp.tuxfamily.org/ |
@@ -1993,7 +1987,6 @@
 | **pari-static** | 2.17.3 | Static libraries for pari | https://pari.math.u-bordeaux.fr/ |
 | **parted** | 3.6-1 | Versatile partition editor | https://www.gnu.org/software/parted/ |
 | **parted-static** | 3.6-1 | Static libraries for parted | https://www.gnu.org/software/parted/ |
-| **paruz** | 1.1.2 | A fzf terminal UI for paru or pacman | https://github.com/joehillen/paruz |
 | **pass** | 1.7.4-5 | Lightweight directory-based password manager | https://www.passwordstore.org |
 | **pass-otp** | 1.2.0-p20250809-0 | A pass/passage extension for managing one-time-password (OTP) tokens | https://github.com/tadfisher/pass-otp |
 | **passage** | 1.7.4a2-1 | A fork of password-store that uses age as backend | https://github.com/FiloSottile/passage |
@@ -2064,7 +2057,7 @@
 | **plzip** | 1.13 | A massively parallel lossless data compressor based on the lzlib compression library | https://www.nongnu.org/lzip/plzip.html |
 | **pngcrush** | 1.8.13-2 | Recompresses png files | https://pmt.sourceforge.io/pngcrush/ |
 | **pngquant** | 3.0.3-2 | PNG image optimising utility | https://pngquant.org |
-| **pocketbase** | 0.36.9 | An open source Go backend | https://github.com/pocketbase/pocketbase |
+| **pocketbase** | 0.37.0 | An open source Go backend | https://github.com/pocketbase/pocketbase |
 | **poke** | 4.3-1 | Interactive, extensible editor for binary data. | http://www.jemarch.net/poke.html |
 | **poke-static** | 4.3-1 | Static libraries for poke | http://www.jemarch.net/poke.html |
 | **polipo** | 1.1.1-1 | A small and fast caching web proxy | http://www.pps.jussieu.fr/~jch/software/polipo/ |
@@ -2111,7 +2104,7 @@
 | **pure-ftpd** | 1.0.53 | Pure-FTPd is a free (BSD), secure, production-quality and standard-conformant FTP server | https://www.pureftpd.org/project/pure-ftpd |
 | **pv** | 1.10.5 | Terminal-based tool for monitoring the progress of data through a pipeline | https://www.ivarch.com/programs/pv.shtml |
 | **pwgen** | 2.08-2 | Password generator which by default, unless given the '-s' option, generates memorable but insecure passwords | http://pwgen.sourceforge.net/ |
-| **pybind11** | 3.0.3 | A lightweight header-only library that exposes C++ types in Python and vice versa | https://pybind11.readthedocs.io/ |
+| **pybind11** | 3.0.4 | A lightweight header-only library that exposes C++ types in Python and vice versa | https://pybind11.readthedocs.io/ |
 | **pycairo** | 1.29.0-1 | Python bindings for the cairo graphics library | https://www.cairographics.org/pycairo/ |
 | **pygobject** | 3.56.2 | Python package which provides bindings for GObject based libraries | https://pygobject.gnome.org/ |
 | **pypy** | 7.3.21 | A fast, compliant alternative implementation of Python | https://pypy.org |
@@ -2572,7 +2565,6 @@
 | **tree-sitter-regex** | 0.25.0-1 | RegEx grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-regex |
 | **tree-sitter-rust** | 0.24.2-1 | Rust grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-rust |
 | **tree-sitter-sql** | 0.3.11-1 | SQL grammar for tree-sitter | https://github.com/derekstride/tree-sitter-sql |
-| **tree-sitter-static** | 0.25.10-2 | Static libraries for tree-sitter | https://tree-sitter.github.io/ |
 | **tree-sitter-toml** | 0.7.0-1 | TOML grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-toml |
 | **tree-sitter-vim** | 0.8.1-1 | Vimscript grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-vim |
 | **tree-sitter-vimdoc** | 4.1.0-2 | Tree-sitter parser for Vim help files | https://github.com/neovim/tree-sitter-vimdoc |

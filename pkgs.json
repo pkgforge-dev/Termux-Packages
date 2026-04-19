@@ -4398,18 +4398,6 @@
     "Homepage": "https://github.com/ggerganov/imtui"
   },
   {
-    "Package": "hoedown",
-    "Version": "3.0.7-4",
-    "Description": "Hoedown is a revived fork of Sundown, the Markdown parser based on the original code of the Upskirt library",
-    "Homepage": "https://github.com/hoedown/hoedown"
-  },
-  {
-    "Package": "hoedown-static",
-    "Version": "3.0.7-4",
-    "Description": "Static libraries for hoedown",
-    "Homepage": "https://github.com/hoedown/hoedown"
-  },
-  {
     "Package": "hollywood",
     "Version": "1.22-1",
     "Description": "Fill your console with Hollywood melodrama technobabble",
@@ -8406,18 +8394,6 @@
     "Homepage": "https://libsodium.org/"
   },
   {
-    "Package": "libsoldout",
-    "Version": "1.4-2",
-    "Description": "Flexible C library and tools for markdown",
-    "Homepage": "https://fossil.instinctive.eu/libsoldout/index"
-  },
-  {
-    "Package": "libsoldout-static",
-    "Version": "1.4-2",
-    "Description": "Static libraries for libsoldout",
-    "Homepage": "https://fossil.instinctive.eu/libsoldout/index"
-  },
-  {
     "Package": "libsophia",
     "Version": "2.2-1",
     "Description": "Advanced transactional MVCC key-value/row storage library",
@@ -8440,12 +8416,6 @@
     "Version": "2.3.3-1",
     "Description": "Static libraries for libsoundtouch",
     "Homepage": "https://www.surina.net/soundtouch/"
-  },
-  {
-    "Package": "libsoup",
-    "Version": "2.74.3-6",
-    "Description": "HTTP client and server library",
-    "Homepage": "https://wiki.gnome.org/action/show/Projects/libsoup"
   },
   {
     "Package": "libsoup3",
@@ -10530,12 +10500,6 @@
     "Homepage": "http://www.whence.com/minimodem/"
   },
   {
-    "Package": "minio",
-    "Version": "2025.10.15.17.29.55",
-    "Description": "Multi-Cloud Object Storage",
-    "Homepage": "https://min.io/"
-  },
-  {
     "Package": "miniserve",
     "Version": "0.35.0",
     "Description": "Tool to serve files and dirs over HTTP",
@@ -11970,12 +11934,6 @@
     "Homepage": "https://www.gnu.org/software/parted/"
   },
   {
-    "Package": "paruz",
-    "Version": "1.1.2",
-    "Description": "A fzf terminal UI for paru or pacman",
-    "Homepage": "https://github.com/joehillen/paruz"
-  },
-  {
     "Package": "pass",
     "Version": "1.7.4-5",
     "Description": "Lightweight directory-based password manager",
@@ -12397,7 +12355,7 @@
   },
   {
     "Package": "pocketbase",
-    "Version": "0.36.9",
+    "Version": "0.37.0",
     "Description": "An open source Go backend",
     "Homepage": "https://github.com/pocketbase/pocketbase"
   },
@@ -12679,7 +12637,7 @@
   },
   {
     "Package": "pybind11",
-    "Version": "3.0.3",
+    "Version": "3.0.4",
     "Description": "A lightweight header-only library that exposes C++ types in Python and vice versa",
     "Homepage": "https://pybind11.readthedocs.io/"
   },
@@ -15442,12 +15400,6 @@
     "Version": "0.3.11-1",
     "Description": "SQL grammar for tree-sitter",
     "Homepage": "https://github.com/derekstride/tree-sitter-sql"
-  },
-  {
-    "Package": "tree-sitter-static",
-    "Version": "0.25.10-2",
-    "Description": "Static libraries for tree-sitter",
-    "Homepage": "https://tree-sitter.github.io/"
   },
   {
     "Package": "tree-sitter-toml",
