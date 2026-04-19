@@ -2131,7 +2131,7 @@
   Description: Minimalistic plugin API for video effects
   Homepage: https://www.dyne.org/software/frei0r/
 - Package: fresh-editor
-  Version: 0.2.24
+  Version: 0.2.25
   Description: 'Text editor for your terminal: easy, powerful and fast'
   Homepage: https://getfresh.dev/
 - Package: fribidi
@@ -10551,11 +10551,11 @@
   Description: the Ultimate Packer for eXecutables
   Homepage: https://upx.github.io/
 - Package: urdfdom
-  Version: 5.1.1
+  Version: 5.1.2
   Description: Unified Robot Description Format (URDF) parser library and tools
   Homepage: https://github.com/ros/urdfdom
 - Package: urdfdom-headers
-  Version: 2.1.1
+  Version: 2.1.2
   Description: Headers for URDF parsers
   Homepage: https://github.com/ros/urdfdom_headers
 - Package: usbmuxd
