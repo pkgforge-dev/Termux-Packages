@@ -79,7 +79,7 @@
   Description: A pretty good email client
   Homepage: https://aerc-mail.org/
 - Package: agate
-  Version: 3.3.21
+  Version: 3.3.22
   Description: Very simple server for the Gemini hypertext protocol
   Homepage: https://github.com/mbrubeck/agate
 - Package: age
@@ -855,7 +855,7 @@
   Description: A free compiler for 6502 based system
   Homepage: https://cc65.github.io/
 - Package: ccache
-  Version: 4.13.3
+  Version: 4.13.4
   Description: Compiler cache for fast recompilation of C/C++ code
   Homepage: https://ccache.samba.org
 - Package: cccc
@@ -6967,7 +6967,7 @@
   Description: tiny, portable SOCKS5 server with very moderate resource usage
   Homepage: https://github.com/rofl0r/microsocks
 - Package: miller
-  Version: 6.17.0
+  Version: 6.18.1
   Description: Like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
   Homepage: https://miller.readthedocs.io/
 - Package: mimetic
@@ -8235,7 +8235,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pocketbase
-  Version: 0.37.0
+  Version: 0.37.1
   Description: An open source Go backend
   Homepage: https://github.com/pocketbase/pocketbase
 - Package: poke
@@ -10779,7 +10779,7 @@
   Description: The WebAssembly Binary Toolkit
   Homepage: https://github.com/WebAssembly/wabt
 - Package: wakatime-cli
-  Version: 2.3.1
+  Version: 2.4.0
   Description: Command line interface used by all WakaTime text editor plugins
   Homepage: https://wakatime.com/plugins/
 - Package: walk
