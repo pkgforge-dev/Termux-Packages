@@ -51,7 +51,7 @@
 | **angband** | 4.2.6 | Dungeon exploration adventure game | https://rephial.org/ |
 | **angle-android** | 2.1.24923-f09a19ce-2 | A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android | https://chromium.googlesource.com/angle/angle |
 | **angle-grinder** | 0.19.6-1 | Slice and dice logs on the command line | https://github.com/rcoh/angle-grinder |
-| **ani-cli** | 4.11 | A cli to browse and watch anime | https://github.com/pystardust/ani-cli |
+| **ani-cli** | 4.12 | A cli to browse and watch anime | https://github.com/pystardust/ani-cli |
 | **ansifilter** | 2.22 | Strip or convert ANSI codes into HTML, (La)Tex, RTF, or BBCode | http://www.andre-simon.de/doku/ansifilter/en/ansifilter.php |
 | **ant** | 1.10.17 | Java based build tool like make | https://ant.apache.org/ |
 | **antibody** | 6.1.1-3 | The fastest shell plugin manager | https://github.com/getantibody/antibody |
@@ -338,7 +338,7 @@
 | **ddrescue** | 1.30 | GNU data recovery tool | https://www.gnu.org/software/ddrescue/ |
 | **debianutils** | 5.23.2-1 | Small utilities which are used primarily by the installation scripts of Debian packages | https://packages.debian.org/debianutils |
 | **debootstrap** | 1.0.143 | Bootstrap a basic Debian system | https://wiki.debian.org/Debootstrap |
-| **delve** | 1.26.1 | A debugger for the Go programming language | https://github.com/go-delve/delve |
+| **delve** | 1.26.2 | A debugger for the Go programming language | https://github.com/go-delve/delve |
 | **deno** | 1:2.7.12 | A modern runtime for JavaScript and TypeScript | https://deno.land/ |
 | **desed** | 1.2.2-1 | Demystifies and debugs your sed scripts | https://github.com/SoptikHa2/desed |
 | **deutex** | 5.2.3-1 | WAD composer for Doom, Heretic, Hexen, and Strife | https://github.com/Doom-Utils/deutex/ |

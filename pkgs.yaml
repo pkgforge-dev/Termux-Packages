@@ -163,7 +163,7 @@
   Description: Slice and dice logs on the command line
   Homepage: https://github.com/rcoh/angle-grinder
 - Package: ani-cli
-  Version: "4.11"
+  Version: "4.12"
   Description: A cli to browse and watch anime
   Homepage: https://github.com/pystardust/ani-cli
 - Package: ansifilter
@@ -1311,7 +1311,7 @@
   Description: Bootstrap a basic Debian system
   Homepage: https://wiki.debian.org/Debootstrap
 - Package: delve
-  Version: 1.26.1
+  Version: 1.26.2
   Description: A debugger for the Go programming language
   Homepage: https://github.com/go-delve/delve
 - Package: deno
