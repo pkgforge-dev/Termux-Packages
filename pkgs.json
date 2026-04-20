@@ -871,7 +871,7 @@
   },
   {
     "Package": "bitcoin",
-    "Version": "30.2",
+    "Version": "31.0",
     "Description": "Bitcoin Core",
     "Homepage": "https://bitcoincore.org/"
   },
@@ -12355,7 +12355,7 @@
   },
   {
     "Package": "pocketbase",
-    "Version": "0.37.1",
+    "Version": "0.37.2",
     "Description": "An open source Go backend",
     "Homepage": "https://github.com/pocketbase/pocketbase"
   },
@@ -13903,7 +13903,7 @@
   },
   {
     "Package": "sendme",
-    "Version": "0.32.0",
+    "Version": "0.33.0",
     "Description": "A tool to send files and directories, based on iroh",
     "Homepage": "https://github.com/n0-computer/sendme"
   },
@@ -14509,7 +14509,7 @@
   },
   {
     "Package": "storj-uplink",
-    "Version": "1.151.5",
+    "Version": "1.152.3",
     "Description": "Storj DCS Uplink CLI",
     "Homepage": "https://www.storj.io/integrations/uplink-cli"
   },
@@ -16171,7 +16171,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "2.5.0",
+    "Version": "2.6.0",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },
@@ -16213,7 +16213,7 @@
   },
   {
     "Package": "wasmtime",
-    "Version": "43.0.1",
+    "Version": "44.0.0",
     "Description": "A standalone runtime for WebAssembly",
     "Homepage": "https://wasmtime.dev/"
   },

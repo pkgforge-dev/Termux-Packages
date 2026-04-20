@@ -579,7 +579,7 @@
   Description: Static libraries for bison
   Homepage: https://www.gnu.org/software/bison/
 - Package: bitcoin
-  Version: "30.2"
+  Version: "31.0"
   Description: Bitcoin Core
   Homepage: https://bitcoincore.org/
 - Package: bitlbee
@@ -8235,7 +8235,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pocketbase
-  Version: 0.37.1
+  Version: 0.37.2
   Description: An open source Go backend
   Homepage: https://github.com/pocketbase/pocketbase
 - Package: poke
@@ -9267,7 +9267,7 @@
   Description: GNU stream editor for filtering/transforming text
   Homepage: https://www.gnu.org/software/sed/
 - Package: sendme
-  Version: 0.32.0
+  Version: 0.33.0
   Description: A tool to send files and directories, based on iroh
   Homepage: https://github.com/n0-computer/sendme
 - Package: sendxmpp
@@ -9671,7 +9671,7 @@
   Description: A TCP/IP repeater in the application layer
   Homepage: https://www.gcd.org/sengoku/stone/
 - Package: storj-uplink
-  Version: 1.151.5
+  Version: 1.152.3
   Description: Storj DCS Uplink CLI
   Homepage: https://www.storj.io/integrations/uplink-cli
 - Package: stow
@@ -10779,7 +10779,7 @@
   Description: The WebAssembly Binary Toolkit
   Homepage: https://github.com/WebAssembly/wabt
 - Package: wakatime-cli
-  Version: 2.5.0
+  Version: 2.6.0
   Description: Command line interface used by all WakaTime text editor plugins
   Homepage: https://wakatime.com/plugins/
 - Package: walk
@@ -10807,7 +10807,7 @@
   Description: A fast and secure WebAssembly runtime
   Homepage: https://wasmer.io/
 - Package: wasmtime
-  Version: 43.0.1
+  Version: 44.0.0
   Description: A standalone runtime for WebAssembly
   Homepage: https://wasmtime.dev/
 - Package: watchexec
