@@ -11491,7 +11491,7 @@
   },
   {
     "Package": "onnxruntime",
-    "Version": "1.24.4",
+    "Version": "1.25.0",
     "Description": "Cross-platform, high performance ML inferencing and training accelerator",
     "Homepage": "https://onnxruntime.ai/"
   },
@@ -12691,7 +12691,7 @@
   },
   {
     "Package": "pyrefly",
-    "Version": "0.61.1",
+    "Version": "0.62.0",
     "Description": "A fast type checker and language server for Python",
     "Homepage": "https://github.com/facebook/pyrefly.git"
   },
@@ -12811,7 +12811,7 @@
   },
   {
     "Package": "python-onnxruntime",
-    "Version": "1.24.4",
+    "Version": "1.25.0",
     "Description": "Cross-platform, high performance ML inferencing and training accelerator (Python bindings)",
     "Homepage": "https://onnxruntime.ai/"
   },
@@ -16093,7 +16093,7 @@
   },
   {
     "Package": "vulkan-extension-layer",
-    "Version": "1.4.341",
+    "Version": "1.4.349",
     "Description": "Vulkan Extension Layer",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-ExtensionLayer"
   },
@@ -16171,7 +16171,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "2.6.0",
+    "Version": "2.6.2",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },
