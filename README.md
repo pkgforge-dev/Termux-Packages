@@ -2355,7 +2355,7 @@
 | **simdjson** | 4.6.2 | A C++ library to see how fast we can parse JSON with complete validation | https://simdjson.org/ |
 | **simh** | 1:3.12.5-1 | A collection of simulators for computer hardware and software from the past | http://simh.trailing-edge.com/ |
 | **simulavr** | 1:1.1.0-3 | Simulator for Microchip AVR (formerly Atmel) microcontrollers | https://www.nongnu.org/simulavr |
-| **sing-box** | 1.13.8 | The universal proxy platform | https://sing-box.sagernet.org |
+| **sing-box** | 1.13.9 | The universal proxy platform | https://sing-box.sagernet.org |
 | **skate** | 1.0.1-1 | A personal key-value store | https://github.com/charmbracelet/skate |
 | **sl** | 5.05-1 | Tool curing your bad habit of mistyping | https://github.com/mtoyoda/sl |
 | **slang** | 2.3.3-2 | S-Lang is a powerful interpreted language | https://www.jedsoft.org/slang/ |
@@ -2416,7 +2416,7 @@
 | **sssnake** | 0.3.2-2 | cli snake game that plays itself | https://github.com/AngelJumbo/sssnake |
 | **ssss** | 0.5.7-1 | Simple command-line implementation of Shamir's Secret Sharing Scheme | https://github.com/MrJoy/ssss |
 | **stag** | 1.0.0-2 | Streaming bar graphs. For stats and stuff. | https://github.com/seenaburns/stag |
-| **starship** | 1.24.2 | A minimal, blazing fast, and extremely customizable prompt for any shell | https://starship.rs |
+| **starship** | 1.25.0 | A minimal, blazing fast, and extremely customizable prompt for any shell | https://starship.rs |
 | **stdman** | 2024.07.05 | Formatted C++23 stdlib man pages (cppreference) | https://github.com/jeaye/stdman |
 | **stdoutisatty** | 1.0-1 | Patch the isatty() calls for colored output in pipeline | https://github.com/lilydjwg/stdoutisatty |
 | **steghide** | 0.5.1-8 | Embeds a message in a file by replacing some of the least significant bits | https://steghide.sourceforge.net/ |
