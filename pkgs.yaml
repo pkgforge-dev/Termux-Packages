@@ -2371,7 +2371,7 @@
   Description: GIF encoder based on libimagequant
   Homepage: https://gif.ski/
 - Package: git
-  Version: 2.53.0
+  Version: 2.54.0
   Description: Fast, scalable, distributed revision control system
   Homepage: https://git-scm.com/
 - Package: git-credential-manager
@@ -2391,11 +2391,11 @@
   Description: Little git extras.
   Homepage: https://github.com/tj/git-extras
 - Package: git-gitk
-  Version: 2.53.0
+  Version: 2.54.0
   Description: Git repository browser
   Homepage: https://git-scm.com/
 - Package: git-gui
-  Version: 2.53.0
+  Version: 2.54.0
   Description: A graphical interface to Git
   Homepage: https://git-scm.com/
 - Package: git-lfs
@@ -2407,7 +2407,7 @@
   Description: Compute various size metrics for a Git repository
   Homepage: https://github.com/github/git-sizer
 - Package: git-svn
-  Version: 2.53.0
+  Version: 2.54.0
   Description: Convert between Git and Subversion repositories
   Homepage: https://git-scm.com/
 - Package: git-town
@@ -10183,7 +10183,7 @@
   Description: A new modern implementation of traceroute(8) utility for Linux systems
   Homepage: https://traceroute.sourceforge.net/
 - Package: translate-shell
-  Version: 0.9.7.1
+  Version: 0.9.7.1-1
   Description: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
   Homepage: https://www.soimort.org/translate-shell
 - Package: transmission
