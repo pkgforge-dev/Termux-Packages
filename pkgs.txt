@@ -707,9 +707,9 @@
  gweather-locations  2026.2  The GWeather locations database  https://gitlab.gnome.org/GNOME/gweather-locations 
  gzip  1.14-1  Standard GNU file compression utilities  https://www.gnu.org/software/gzip/ 
  haproxy  3.3.6  The Reliable, High Performance TCP/HTTP Load Balancer  https://www.haproxy.org/ 
- harfbuzz  14.1.0  OpenType text shaping engine  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
- harfbuzz-icu  14.1.0  OpenType text shaping engine ICU backend  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
- harfbuzz-utils  14.1.0  Tools using the harfbuzz library  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
+ harfbuzz  14.2.0  OpenType text shaping engine  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
+ harfbuzz-icu  14.2.0  OpenType text shaping engine ICU backend  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
+ harfbuzz-utils  14.2.0  Tools using the harfbuzz library  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
  hash-slinger  3.5-1  Various tools to generate special DNS records  https://github.com/letoams/hash-slinger 
  hashdeep  4.4-9  Programs to compute hashsums of arbitrary number of files recursively  https://md5deep.sourceforge.net/ 
  hcl  2.24.0-1  A toolkit for creating structured configuration languages  https://github.com/hashicorp/hcl 
@@ -1882,8 +1882,8 @@
  notmuch  0.40-1  Thread-based email index, search and tagging system  https://notmuchmail.org 
  npm  11.12.1  The package manager for JavaScript  https://docs.npmjs.com/cli/ 
  npush  0.7-2  Curses-based logic game similar to Sokoban and Boulder Dash  https://npush.sourceforge.net/ 
- nsis  3.11-1  A professional open source system to create Windows installers  https://sourceforge.net/projects/nsis/ 
- nsis-stubs  3.11-1  NSIS Stubs  https://sourceforge.net/projects/nsis/ 
+ nsis  3.12  A professional open source system to create Windows installers  https://sourceforge.net/projects/nsis/ 
+ nsis-stubs  3.12  NSIS Stubs  https://sourceforge.net/projects/nsis/ 
  nsnake  3.0.1-7  The classic snake game with textual interface  https://github.com/alexdantas/nSnake 
  nss-utils  3.123  Tools for NSS  https://firefox-source-docs.mozilla.org/security/nss/ 
  nudoku  8.0.0  ncurses based sudoku game  http://jubalh.github.io/nudoku/ 
@@ -2275,7 +2275,7 @@
  runit-static  2.1.2-4  Static libraries for runit  http://smarden.org/runit 
  rush  0.9.0  A cross-platform command-line tool for executing jobs in parallel  https://github.com/shenwei356/rush 
  rust  1.95.0  Systems programming language focused on safety, speed and concurrency  https://www.rust-lang.org/ 
- rust-analyzer  20260413  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
+ rust-analyzer  20260420  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
  rust-bindgen  0.72.1  Automatically generates Rust FFI bindings to C (and some C++) libraries  https://github.com/rust-lang/rust-bindgen 
  rust-docs  1.95.0  Rust documentation  https://www.rust-lang.org/ 
  rust-src  1.95.0  Rust source code files  https://www.rust-lang.org/ 
@@ -2693,7 +2693,7 @@
  w3m  0.5.6  Text based Web browser and pager  https://w3m.sourceforge.net/ 
  w3m-img  0.5.6  Inline image extension support utilities for w3m  https://w3m.sourceforge.net/ 
  wabt  1.0.40  The WebAssembly Binary Toolkit  https://github.com/WebAssembly/wabt 
- wakatime-cli  2.4.0  Command line interface used by all WakaTime text editor plugins  https://wakatime.com/plugins/ 
+ wakatime-cli  2.5.0  Command line interface used by all WakaTime text editor plugins  https://wakatime.com/plugins/ 
  walk  1.13.0  A terminal file manager  https://github.com/antonmedv/walk 
  wallust  3.5.2  Generate colors from an image  https://explosion-mental.codeberg.page/wallust 
  wasi-libc  30  Libc for WebAssembly programs built on top of WASI system calls  https://wasi.dev/ 

@@ -4255,19 +4255,19 @@
   },
   {
     "Package": "harfbuzz",
-    "Version": "14.1.0",
+    "Version": "14.2.0",
     "Description": "OpenType text shaping engine",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-icu",
-    "Version": "14.1.0",
+    "Version": "14.2.0",
     "Description": "OpenType text shaping engine ICU backend",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-utils",
-    "Version": "14.1.0",
+    "Version": "14.2.0",
     "Description": "Tools using the harfbuzz library",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
@@ -11305,13 +11305,13 @@
   },
   {
     "Package": "nsis",
-    "Version": "3.11-1",
+    "Version": "3.12",
     "Description": "A professional open source system to create Windows installers",
     "Homepage": "https://sourceforge.net/projects/nsis/"
   },
   {
     "Package": "nsis-stubs",
-    "Version": "3.11-1",
+    "Version": "3.12",
     "Description": "NSIS Stubs",
     "Homepage": "https://sourceforge.net/projects/nsis/"
   },
@@ -13663,7 +13663,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20260413",
+    "Version": "20260420",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://rust-analyzer.github.io/"
   },
@@ -16171,7 +16171,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "2.4.0",
+    "Version": "2.5.0",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },
