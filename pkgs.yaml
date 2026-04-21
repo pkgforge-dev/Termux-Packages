@@ -1823,11 +1823,11 @@
   Description: Event Notify Test Runner - run arbitrary commands when files change
   Homepage: https://eradman.com/entrproject/
 - Package: erlang
-  Version: 28.4.2
+  Version: 28.4.3
   Description: General-purpose concurrent functional programming language
   Homepage: https://www.erlang.org/
 - Package: erlang-doc
-  Version: 28.4.2
+  Version: 28.4.3
   Description: Erlang HTML documentation
   Homepage: https://www.erlang.org/
 - Package: esbuild
@@ -2095,7 +2095,7 @@
   Description: ForestDB dump tool
   Homepage: https://github.com/couchbase/forestdb
 - Package: forgejo
-  Version: 14.0.4
+  Version: 15.0.0-1
   Description: Forgejo is a self-hosted lightweight software forge.
   Homepage: https://forgejo.org/
 - Package: fortune
@@ -3231,11 +3231,11 @@
   Description: Static libraries for jbig2dec
   Homepage: https://jbig2dec.com/
 - Package: jbig2enc
-  Version: 1:0.30-1
+  Version: "1:0.31"
   Description: An encoder for JBIG2
   Homepage: https://github.com/agl/jbig2enc
 - Package: jbig2enc-static
-  Version: 1:0.30-1
+  Version: "1:0.31"
   Description: Static libraries for jbig2enc
   Homepage: https://github.com/agl/jbig2enc
 - Package: jcal
@@ -6563,7 +6563,7 @@
   Description: Dynamic Lua binding to GObject libraries using GObject-Introspection
   Homepage: https://github.com/lgi-devs/lgi
 - Package: lua-lpeg
-  Version: 1.1.0-4
+  Version: 1.1.0-5
   Description: Pattern-matching library for Lua 5.4
   Homepage: https://www.inf.puc-rio.br/~roberto/lpeg
 - Package: lua51
@@ -6571,7 +6571,7 @@
   Description: Shared library for the Lua interpreter (v5.1.x)
   Homepage: https://www.lua.org
 - Package: lua51-lpeg
-  Version: 1.1.0-4
+  Version: 1.1.0-5
   Description: Pattern-matching library for Lua 5.1
   Homepage: https://www.inf.puc-rio.br/~roberto/lpeg
 - Package: lua51-static
@@ -6583,7 +6583,7 @@
   Description: Shared library for the Lua interpreter (v5.2.x)
   Homepage: https://www.lua.org
 - Package: lua52-lpeg
-  Version: 1.1.0-4
+  Version: 1.1.0-5
   Description: Pattern-matching library for Lua 5.2
   Homepage: https://www.inf.puc-rio.br/~roberto/lpeg
 - Package: lua52-static
@@ -6595,7 +6595,7 @@
   Description: Shared library for the Lua interpreter (v5.3.x)
   Homepage: https://www.lua.org/
 - Package: lua53-lpeg
-  Version: 1.1.0-4
+  Version: 1.1.0-5
   Description: Pattern-matching library for Lua 5.3
   Homepage: https://www.inf.puc-rio.br/~roberto/lpeg
 - Package: lua53-static
@@ -6607,7 +6607,7 @@
   Description: Shared library for the Lua interpreter (v5.4.x)
   Homepage: https://www.lua.org/
 - Package: lua54-lpeg
-  Version: 1.1.0-4
+  Version: 1.1.0-5
   Description: Pattern-matching library for Lua 5.4
   Homepage: https://www.inf.puc-rio.br/~roberto/lpeg
 - Package: lua54-static
@@ -7427,7 +7427,7 @@
   Description: Alter the contents of packets forwarded through network in real time
   Homepage: http://silicone.homelinux.org/projects/netsed/
 - Package: netstandard-targeting-pack-2.1
-  Version: 9.0-2
+  Version: 9.0-3
   Description: A metapackage for NETStandard.Library 2.1 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: netstandard-targeting-pack-2.1-8.0
@@ -8803,7 +8803,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 4.40.0
+  Version: 4.40.1
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3

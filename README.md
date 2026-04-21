@@ -466,8 +466,8 @@
 | **enchant-static** | 2.8.15 | Static libraries for enchant | https://rrthomas.github.io/enchant/ |
 | **enscript** | 1.6.6-13 | Enscript converts ASCII text files to PostScript, HTML, RTF, ANSI and overstrikes | https://www.gnu.org/software/enscript/ |
 | **entr** | 5.8 | Event Notify Test Runner - run arbitrary commands when files change | https://eradman.com/entrproject/ |
-| **erlang** | 28.4.2 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
-| **erlang-doc** | 28.4.2 | Erlang HTML documentation | https://www.erlang.org/ |
+| **erlang** | 28.4.3 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
+| **erlang-doc** | 28.4.3 | Erlang HTML documentation | https://www.erlang.org/ |
 | **esbuild** | 0.28.0 | An extremely fast JavaScript bundler | https://esbuild.github.io/ |
 | **espeak** | 1.52.0-1 | Compact software speech synthesizer | https://github.com/espeak-ng/espeak-ng |
 | **espeak-static** | 1.52.0-1 | Static libraries for espeak | https://github.com/espeak-ng/espeak-ng |
@@ -534,7 +534,7 @@
 | **fontconfig-static** | 2.17.1-1 | Static libraries for fontconfig | https://www.freedesktop.org/wiki/Software/fontconfig/ |
 | **fontconfig-utils** | 2.17.1-1 | Fontconfig binaries | https://www.freedesktop.org/wiki/Software/fontconfig/ |
 | **forestdb-dump** | 1.2-2 | ForestDB dump tool | https://github.com/couchbase/forestdb |
-| **forgejo** | 14.0.4 | Forgejo is a self-hosted lightweight software forge. | https://forgejo.org/ |
+| **forgejo** | 15.0.0-1 | Forgejo is a self-hosted lightweight software forge. | https://forgejo.org/ |
 | **fortune** | 1.2-2 | Revealer of fortunes | https://www.fefe.de/fortune/ |
 | **fossil** | 2.28 | DSCM with built-in wiki, http interface and server, tickets database | https://www.fossil-scm.org |
 | **freecolor** | 0.9.3-1 | Freecolor is a replacement for Linux that displays free memory graphically | http://rkeene.org/oss/freecolor/ |
@@ -818,8 +818,8 @@
 | **janet** | 1.41.2 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
 | **jbig2dec** | 0.20-1 | Decoder implementation of the JBIG2 image compression format | https://jbig2dec.com/ |
 | **jbig2dec-static** | 0.20-1 | Static libraries for jbig2dec | https://jbig2dec.com/ |
-| **jbig2enc** | 1:0.30-1 | An encoder for JBIG2 | https://github.com/agl/jbig2enc |
-| **jbig2enc-static** | 1:0.30-1 | Static libraries for jbig2enc | https://github.com/agl/jbig2enc |
+| **jbig2enc** | 1:0.31 | An encoder for JBIG2 | https://github.com/agl/jbig2enc |
+| **jbig2enc-static** | 1:0.31 | Static libraries for jbig2enc | https://github.com/agl/jbig2enc |
 | **jcal** | 0.5.1-1 | UNIX-cal-like tool to display Jalali (Persian/Iranian) calendar | http://nongnu.org/jcal |
 | **jcal-static** | 0.5.1-1 | Static libraries for jcal | http://nongnu.org/jcal |
 | **jellyfin-ffmpeg** | 10.11.5-2 | FFmpeg for Jellyfin with custom extensions and enhancements | https://jellyfin.org |
@@ -1651,18 +1651,18 @@
 | **ltrace** | 1:0.8.1 | Tracks runtime library calls in dynamically linked programs | http://www.ltrace.org/ |
 | **lua-language-server** | 3.18.2 | Sumneko Lua Language Server coded in Lua | https://github.com/sumneko/lua-language-server |
 | **lua-lgi** | 0.9.2+p20251219-2 | Dynamic Lua binding to GObject libraries using GObject-Introspection | https://github.com/lgi-devs/lgi |
-| **lua-lpeg** | 1.1.0-4 | Pattern-matching library for Lua 5.4 | https://www.inf.puc-rio.br/~roberto/lpeg |
+| **lua-lpeg** | 1.1.0-5 | Pattern-matching library for Lua 5.4 | https://www.inf.puc-rio.br/~roberto/lpeg |
 | **lua51** | 5.1.5-7 | Shared library for the Lua interpreter (v5.1.x) | https://www.lua.org |
-| **lua51-lpeg** | 1.1.0-4 | Pattern-matching library for Lua 5.1 | https://www.inf.puc-rio.br/~roberto/lpeg |
+| **lua51-lpeg** | 1.1.0-5 | Pattern-matching library for Lua 5.1 | https://www.inf.puc-rio.br/~roberto/lpeg |
 | **lua51-static** | 5.1.5-7 | Static libraries for lua51 | https://www.lua.org |
 | **lua52** | 5.2.4-15 | Shared library for the Lua interpreter (v5.2.x) | https://www.lua.org |
-| **lua52-lpeg** | 1.1.0-4 | Pattern-matching library for Lua 5.2 | https://www.inf.puc-rio.br/~roberto/lpeg |
+| **lua52-lpeg** | 1.1.0-5 | Pattern-matching library for Lua 5.2 | https://www.inf.puc-rio.br/~roberto/lpeg |
 | **lua52-static** | 5.2.4-15 | Static libraries for lua52 | https://www.lua.org |
 | **lua53** | 5.3.6-6 | Shared library for the Lua interpreter (v5.3.x) | https://www.lua.org/ |
-| **lua53-lpeg** | 1.1.0-4 | Pattern-matching library for Lua 5.3 | https://www.inf.puc-rio.br/~roberto/lpeg |
+| **lua53-lpeg** | 1.1.0-5 | Pattern-matching library for Lua 5.3 | https://www.inf.puc-rio.br/~roberto/lpeg |
 | **lua53-static** | 5.3.6-6 | Static libraries for lua53 | https://www.lua.org/ |
 | **lua54** | 5.4.8-6 | Shared library for the Lua interpreter (v5.4.x) | https://www.lua.org/ |
-| **lua54-lpeg** | 1.1.0-4 | Pattern-matching library for Lua 5.4 | https://www.inf.puc-rio.br/~roberto/lpeg |
+| **lua54-lpeg** | 1.1.0-5 | Pattern-matching library for Lua 5.4 | https://www.inf.puc-rio.br/~roberto/lpeg |
 | **lua54-static** | 5.4.8-6 | Static libraries for lua54 | https://www.lua.org/ |
 | **lua55** | 5.5.0-2 | Shared library for the Lua interpreter (v5.5.x) | https://www.lua.org/ |
 | **lua55-static** | 5.5.0-2 | Static libraries for lua55 | https://www.lua.org/ |
@@ -1867,7 +1867,7 @@
 | **nethack** | 3.6.7-2 | Dungeon crawl game | http://www.nethack.org/ |
 | **netpbm** | 1:10.73.43-5 | Toolkit for manipulation of graphic images of different formats | https://netpbm.sourceforge.net/ |
 | **netsed** | 1.4 | Alter the contents of packets forwarded through network in real time | http://silicone.homelinux.org/projects/netsed/ |
-| **netstandard-targeting-pack-2.1** | 9.0-2 | A metapackage for NETStandard.Library 2.1 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
+| **netstandard-targeting-pack-2.1** | 9.0-3 | A metapackage for NETStandard.Library 2.1 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **netstandard-targeting-pack-2.1-8.0** | 8.0.26 | NETStandard.Library 2.1 Targeting Pack (.NET 8.0) | https://dotnet.microsoft.com/en-us/ |
 | **netstandard-targeting-pack-2.1-9.0** | 9.0.15 | NETStandard.Library 2.1 Targeting Pack (.NET 9.0) | https://dotnet.microsoft.com/en-us/ |
 | **nettle** | 4.0+really3.10.2 | Low level cryptographic tools | https://www.lysator.liu.se/~nisse/nettle/ |
@@ -2211,7 +2211,7 @@
 | **rage** | 0.11.1-1 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4-1 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4-1 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
-| **railway-cli** | 4.40.0 | This is the command line interface for Railway | https://railway.app |
+| **railway-cli** | 4.40.1 | This is the command line interface for Railway | https://railway.app |
 | **range-v3** | 0.12.0 | Range library for C++14/17/20, basis for C++20's std::ranges | https://github.com/ericniebler/range-v3 |
 | **ranger** | 1.9.4-1 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-7 | Fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |

@@ -2737,13 +2737,13 @@
   },
   {
     "Package": "erlang",
-    "Version": "28.4.2",
+    "Version": "28.4.3",
     "Description": "General-purpose concurrent functional programming language",
     "Homepage": "https://www.erlang.org/"
   },
   {
     "Package": "erlang-doc",
-    "Version": "28.4.2",
+    "Version": "28.4.3",
     "Description": "Erlang HTML documentation",
     "Homepage": "https://www.erlang.org/"
   },
@@ -3145,7 +3145,7 @@
   },
   {
     "Package": "forgejo",
-    "Version": "14.0.4",
+    "Version": "15.0.0-1",
     "Description": "Forgejo is a self-hosted lightweight software forge.",
     "Homepage": "https://forgejo.org/"
   },
@@ -4849,13 +4849,13 @@
   },
   {
     "Package": "jbig2enc",
-    "Version": "1:0.30-1",
+    "Version": "1:0.31",
     "Description": "An encoder for JBIG2",
     "Homepage": "https://github.com/agl/jbig2enc"
   },
   {
     "Package": "jbig2enc-static",
-    "Version": "1:0.30-1",
+    "Version": "1:0.31",
     "Description": "Static libraries for jbig2enc",
     "Homepage": "https://github.com/agl/jbig2enc"
   },
@@ -9847,7 +9847,7 @@
   },
   {
     "Package": "lua-lpeg",
-    "Version": "1.1.0-4",
+    "Version": "1.1.0-5",
     "Description": "Pattern-matching library for Lua 5.4",
     "Homepage": "https://www.inf.puc-rio.br/~roberto/lpeg"
   },
@@ -9859,7 +9859,7 @@
   },
   {
     "Package": "lua51-lpeg",
-    "Version": "1.1.0-4",
+    "Version": "1.1.0-5",
     "Description": "Pattern-matching library for Lua 5.1",
     "Homepage": "https://www.inf.puc-rio.br/~roberto/lpeg"
   },
@@ -9877,7 +9877,7 @@
   },
   {
     "Package": "lua52-lpeg",
-    "Version": "1.1.0-4",
+    "Version": "1.1.0-5",
     "Description": "Pattern-matching library for Lua 5.2",
     "Homepage": "https://www.inf.puc-rio.br/~roberto/lpeg"
   },
@@ -9895,7 +9895,7 @@
   },
   {
     "Package": "lua53-lpeg",
-    "Version": "1.1.0-4",
+    "Version": "1.1.0-5",
     "Description": "Pattern-matching library for Lua 5.3",
     "Homepage": "https://www.inf.puc-rio.br/~roberto/lpeg"
   },
@@ -9913,7 +9913,7 @@
   },
   {
     "Package": "lua54-lpeg",
-    "Version": "1.1.0-4",
+    "Version": "1.1.0-5",
     "Description": "Pattern-matching library for Lua 5.4",
     "Homepage": "https://www.inf.puc-rio.br/~roberto/lpeg"
   },
@@ -11143,7 +11143,7 @@
   },
   {
     "Package": "netstandard-targeting-pack-2.1",
-    "Version": "9.0-2",
+    "Version": "9.0-3",
     "Description": "A metapackage for NETStandard.Library 2.1 Targeting Pack",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -13207,7 +13207,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "4.40.0",
+    "Version": "4.40.1",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
