@@ -1063,7 +1063,7 @@
   },
   {
     "Package": "buf",
-    "Version": "1.68.2",
+    "Version": "1.68.3",
     "Description": "A new way of working with Protocol Buffers",
     "Homepage": "https://buf.build"
   },
@@ -3103,7 +3103,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.4.36",
+    "Version": "0.4.37",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -11827,13 +11827,13 @@
   },
   {
     "Package": "oxfmt",
-    "Version": "1.60.0",
+    "Version": "1.61.0",
     "Description": "Oxc JavaScript formatter",
     "Homepage": "https://oxc.rs/"
   },
   {
     "Package": "oxlint",
-    "Version": "1.60.0",
+    "Version": "1.61.0",
     "Description": "Oxc JavaScript linter",
     "Homepage": "https://oxc.rs/"
   },
@@ -14053,7 +14053,7 @@
   },
   {
     "Package": "simdjson",
-    "Version": "4.6.2",
+    "Version": "4.6.3",
     "Description": "A C++ library to see how fast we can parse JSON with complete validation",
     "Homepage": "https://simdjson.org/"
   },
@@ -15781,13 +15781,13 @@
   },
   {
     "Package": "urdfdom",
-    "Version": "5.1.2",
+    "Version": "6.0.0",
     "Description": "Unified Robot Description Format (URDF) parser library and tools",
     "Homepage": "https://github.com/ros/urdfdom"
   },
   {
     "Package": "urdfdom-headers",
-    "Version": "2.1.2",
+    "Version": "3.0.0",
     "Description": "Headers for URDF parsers",
     "Homepage": "https://github.com/ros/urdfdom_headers"
   },
