@@ -1835,7 +1835,7 @@
 | **navidrome** | 0.61.2 | Modern Music Server and Streamer compatible with Subsonic/Airsonic | https://www.navidrome.org/ |
 | **ncdc** | 1.25-1 | Modern and lightweight direct connect client with a friendly ncurses interface | https://dev.yorhel.nl/ncdc |
 | **ncdu** | 1.22-1 | Disk usage analyzer | https://dev.yorhel.nl/ncdu |
-| **ncdu2** | 2.9.2 | Disk usage analyzer | https://dev.yorhel.nl/ncdu |
+| **ncdu2** | 2.9.2-1 | Disk usage analyzer | https://dev.yorhel.nl/ncdu |
 | **ncftp** | 3.3.0-1 | A free set of programs that use the File Transfer Protocol | https://www.ncftp.com/ |
 | **ncmpcpp** | 0.10.1-8 | NCurses Music Player Client (Plus Plus) | https://rybczak.net/ncmpcpp/ |
 | **ncompress** | 5.0-1 | The classic unix compression utility which can handle the ancient .Z archive | https://github.com/vapier/ncompress |
@@ -2799,14 +2799,14 @@
 | **zbar-static** | 0.23.93-2 | Static libraries for zbar | https://github.com/mchehab/zbar |
 | **zellij** | 0.44.1 | A terminal workspace with batteries included | https://zellij.dev/ |
 | **zeronet** | 0.7.1-9 | Decentralized websites using Bitcoin crypto and BitTorrent network | https://zeronet.io/ |
-| **zig** | 0.15.2 | General-purpose programming language and toolchain | https://ziglang.org |
+| **zig** | 0.16.0 | General-purpose programming language and toolchain | https://ziglang.org |
 | **zile** | 2.6.4-2 | Lightweight clone of the Emacs text editor | https://www.gnu.org/software/zile/ |
 | **zip** | 3.0-7 | Tools for working with zip files | https://sourceforge.net/projects/infozip/ |
 | **zipios** | 2.3.4 | A small C++ library for reading and writing zip files | https://zipios.sourceforge.io/ |
 | **zk** | 0.15.2 | A plain text note-taking assistant | https://zk-org.github.io/zk/ |
 | **zlib** | 1.3.2 | Compression library implementing the deflate compression method found in gzip and PKZIP | https://www.zlib.net/ |
 | **zlib-static** | 1.3.2 | Static libraries for zlib | https://www.zlib.net/ |
-| **zls** | 0.15.1 | Zig language server | https://github.com/zigtools/zls |
+| **zls** | 0.16.0 | Zig language server | https://github.com/zigtools/zls |
 | **znc** | 1.10.1-2 | An advanced IRC bouncer | https://znc.in/ |
 | **zola** | 0.22.1 | A fast static site generator in a single binary with everything built-in. | https://github.com/getzola/zola |
 | **zopfli** | 1.0.3-5 | New zlib compatible compressor tools | https://github.com/google/zopfli |
