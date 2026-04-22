@@ -1207,7 +1207,7 @@
   Description: A set of utilities for working with Cue Sheet (cue) and Table of Contents (toc) files
   Homepage: https://github.com/svend/cuetools
 - Package: cups
-  Version: 2.4.17
+  Version: 2.4.18
   Description: Common UNIX Printing System
   Homepage: https://www.cups.org/
 - Package: cups-pdf
@@ -1215,7 +1215,7 @@
   Description: CUPS PDF backend
   Homepage: https://www.cups-pdf.de/
 - Package: cups-static
-  Version: 2.4.17
+  Version: 2.4.18
   Description: Static libraries for cups
   Homepage: https://www.cups.org/
 - Package: curl
@@ -2339,7 +2339,7 @@
   Description: The Forth implementation of the GNU project
   Homepage: https://www.gnu.org/software/gforth/
 - Package: gh
-  Version: 2.90.0
+  Version: 2.91.0
   Description: GitHub’s official command line tool
   Homepage: https://cli.github.com/
 - Package: ghc
@@ -7163,11 +7163,11 @@
   Description: Command-line media player
   Homepage: https://mpv.io/
 - Package: mruby
-  Version: 3.4.0-1
+  Version: 4.0.0
   Description: Lightweight implementation of the Ruby language
   Homepage: https://mruby.org/
 - Package: mruby-static
-  Version: 3.4.0-1
+  Version: 4.0.0
   Description: Static libraries for mruby
   Homepage: https://mruby.org/
 - Package: ms-gsl
@@ -7251,7 +7251,7 @@
   Description: Tool to manage all your version control repos
   Homepage: https://myrepos.branchable.com/
 - Package: n-t-roff-sc
-  Version: 7.16-1.1.4-0
+  Version: 7.16-1.2.0-0
   Description: A vi-like spreadsheet calculator
   Homepage: https://github.com/n-t-roff/sc
 - Package: n2n
@@ -9379,7 +9379,7 @@
   Description: Simulator for Microchip AVR (formerly Atmel) microcontrollers
   Homepage: https://www.nongnu.org/simulavr
 - Package: sing-box
-  Version: 1.13.9
+  Version: 1.13.10
   Description: The universal proxy platform
   Homepage: https://sing-box.sagernet.org
 - Package: skate
@@ -9671,7 +9671,7 @@
   Description: A TCP/IP repeater in the application layer
   Homepage: https://www.gcd.org/sengoku/stone/
 - Package: storj-uplink
-  Version: 1.152.3
+  Version: 1.152.4
   Description: Storj DCS Uplink CLI
   Homepage: https://www.storj.io/integrations/uplink-cli
 - Package: stow
@@ -10203,7 +10203,7 @@
   Description: Bash grammar for tree-sitter
   Homepage: https://github.com/tree-sitter/tree-sitter-bash
 - Package: tree-sitter-c
-  Version: 0.24.1-6
+  Version: 0.24.2
   Description: C grammar for tree-sitter
   Homepage: https://github.com/tree-sitter/tree-sitter-c
 - Package: tree-sitter-css

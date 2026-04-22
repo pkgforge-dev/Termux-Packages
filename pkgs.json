@@ -1813,7 +1813,7 @@
   },
   {
     "Package": "cups",
-    "Version": "2.4.17",
+    "Version": "2.4.18",
     "Description": "Common UNIX Printing System",
     "Homepage": "https://www.cups.org/"
   },
@@ -1825,7 +1825,7 @@
   },
   {
     "Package": "cups-static",
-    "Version": "2.4.17",
+    "Version": "2.4.18",
     "Description": "Static libraries for cups",
     "Homepage": "https://www.cups.org/"
   },
@@ -3511,7 +3511,7 @@
   },
   {
     "Package": "gh",
-    "Version": "2.90.0",
+    "Version": "2.91.0",
     "Description": "GitHub’s official command line tool",
     "Homepage": "https://cli.github.com/"
   },
@@ -10747,13 +10747,13 @@
   },
   {
     "Package": "mruby",
-    "Version": "3.4.0-1",
+    "Version": "4.0.0",
     "Description": "Lightweight implementation of the Ruby language",
     "Homepage": "https://mruby.org/"
   },
   {
     "Package": "mruby-static",
-    "Version": "3.4.0-1",
+    "Version": "4.0.0",
     "Description": "Static libraries for mruby",
     "Homepage": "https://mruby.org/"
   },
@@ -10879,7 +10879,7 @@
   },
   {
     "Package": "n-t-roff-sc",
-    "Version": "7.16-1.1.4-0",
+    "Version": "7.16-1.2.0-0",
     "Description": "A vi-like spreadsheet calculator",
     "Homepage": "https://github.com/n-t-roff/sc"
   },
@@ -14071,7 +14071,7 @@
   },
   {
     "Package": "sing-box",
-    "Version": "1.13.9",
+    "Version": "1.13.10",
     "Description": "The universal proxy platform",
     "Homepage": "https://sing-box.sagernet.org"
   },
@@ -14509,7 +14509,7 @@
   },
   {
     "Package": "storj-uplink",
-    "Version": "1.152.3",
+    "Version": "1.152.4",
     "Description": "Storj DCS Uplink CLI",
     "Homepage": "https://www.storj.io/integrations/uplink-cli"
   },
@@ -15307,7 +15307,7 @@
   },
   {
     "Package": "tree-sitter-c",
-    "Version": "0.24.1-6",
+    "Version": "0.24.2",
     "Description": "C grammar for tree-sitter",
     "Homepage": "https://github.com/tree-sitter/tree-sitter-c"
   },

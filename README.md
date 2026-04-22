@@ -312,9 +312,9 @@
 | **ctags** | 2:6.2.1 | Universal ctags: Source code index builder | https://ctags.io/ |
 | **ctypes-sh** | 1.2-2 | A foreign function interface for bash | https://github.com/taviso/ctypes.sh |
 | **cuetools** | 1.4.1-1 | A set of utilities for working with Cue Sheet (cue) and Table of Contents (toc) files | https://github.com/svend/cuetools |
-| **cups** | 2.4.17 | Common UNIX Printing System | https://www.cups.org/ |
+| **cups** | 2.4.18 | Common UNIX Printing System | https://www.cups.org/ |
 | **cups-pdf** | 3.0.1-3 | CUPS PDF backend | https://www.cups-pdf.de/ |
-| **cups-static** | 2.4.17 | Static libraries for cups | https://www.cups.org/ |
+| **cups-static** | 2.4.18 | Static libraries for cups | https://www.cups.org/ |
 | **curl** | 8.19.0 | Command line tool for transferring data with URL syntax | https://curl.se/ |
 | **curlie** | 1.8.2 | The power of curl, the ease of use of httpie | https://curlie.io/ |
 | **curseofwar** | 1.3.0-5 | Fast-paced action strategy game focusing on high-level strategic planning | http://a-nikolaev.github.io/curseofwar/ |
@@ -595,7 +595,7 @@
 | **gflags** | 2.3.0 | A C++ library that implements commandline flags processing | https://github.com/gflags/gflags |
 | **gflags-static** | 2.3.0 | Static libraries for gflags | https://github.com/gflags/gflags |
 | **gforth** | 0.7.3-3 | The Forth implementation of the GNU project | https://www.gnu.org/software/gforth/ |
-| **gh** | 2.90.0 | GitHub’s official command line tool | https://cli.github.com/ |
+| **gh** | 2.91.0 | GitHub’s official command line tool | https://cli.github.com/ |
 | **ghc** | 9.12.2-2 | The Glasgow Haskell Compiler | https://www.haskell.org/ghc/ |
 | **ghostscript** | 10.07.0 | Interpreter for the PostScript language and for PDF | https://www.ghostscript.com/ |
 | **giflib** | 5.2.2-2 | A library for reading and writing gif images | https://giflib.sourceforge.net/ |
@@ -1801,8 +1801,8 @@
 | **mpg123** | 1.33.3 | Fast console MPEG Audio Player based on libmpg123 | https://mpg123.org/ |
 | **mplayer** | 1.5-14 | The Movie Player | https://mplayerhq.hu/ |
 | **mpv** | 0.41.0-2 | Command-line media player | https://mpv.io/ |
-| **mruby** | 3.4.0-1 | Lightweight implementation of the Ruby language | https://mruby.org/ |
-| **mruby-static** | 3.4.0-1 | Static libraries for mruby | https://mruby.org/ |
+| **mruby** | 4.0.0 | Lightweight implementation of the Ruby language | https://mruby.org/ |
+| **mruby-static** | 4.0.0 | Static libraries for mruby | https://mruby.org/ |
 | **ms-gsl** | 4.2.1 | Guidelines Support Library | https://github.com/Microsoft/GSL |
 | **msedit** | 1.2.1-1 | A simple editor for simple needs (Microsoft Edit) | https://github.com/microsoft/edit |
 | **msitools** | 0.106-1 | Set of programs to inspect and build Windows Installer (.MSI) files | https://gitlab.gnome.org/GNOME/msitools |
@@ -1823,7 +1823,7 @@
 | **mympd** | 25.0.1 | A standalone and lightweight web-based MPD client | https://jcorporation.github.io/myMPD/ |
 | **mypaint-brushes** | 2.0.2 | MyPaint brushes | https://github.com/mypaint/mypaint-brushes |
 | **myrepos** | 1.20180726-4 | Tool to manage all your version control repos | https://myrepos.branchable.com/ |
-| **n-t-roff-sc** | 7.16-1.1.4-0 | A vi-like spreadsheet calculator | https://github.com/n-t-roff/sc |
+| **n-t-roff-sc** | 7.16-1.2.0-0 | A vi-like spreadsheet calculator | https://github.com/n-t-roff/sc |
 | **n2n** | 3.1.1-1 | A light VPN software | https://github.com/ntop/n2n |
 | **nala** | 0.16.0-2 | Commandline frontend for the apt package manager | https://gitlab.com/volian/nala |
 | **nali** | 0.8.1-1 | An offline tool for querying IP geographic information and CDN provider | https://github.com/zu1k/nali |
@@ -2355,7 +2355,7 @@
 | **simdjson** | 4.6.3 | A C++ library to see how fast we can parse JSON with complete validation | https://simdjson.org/ |
 | **simh** | 1:3.12.5-1 | A collection of simulators for computer hardware and software from the past | http://simh.trailing-edge.com/ |
 | **simulavr** | 1:1.1.0-3 | Simulator for Microchip AVR (formerly Atmel) microcontrollers | https://www.nongnu.org/simulavr |
-| **sing-box** | 1.13.9 | The universal proxy platform | https://sing-box.sagernet.org |
+| **sing-box** | 1.13.10 | The universal proxy platform | https://sing-box.sagernet.org |
 | **skate** | 1.0.1-1 | A personal key-value store | https://github.com/charmbracelet/skate |
 | **sl** | 5.05-1 | Tool curing your bad habit of mistyping | https://github.com/mtoyoda/sl |
 | **slang** | 2.3.3-2 | S-Lang is a powerful interpreted language | https://www.jedsoft.org/slang/ |
@@ -2428,7 +2428,7 @@
 | **stoken** | 0.93-3 | Software Token for Linux/UNIX | https://github.com/cernekee/stoken |
 | **stoken-static** | 0.93-3 | Static libraries for stoken | https://github.com/cernekee/stoken |
 | **stone** | 2.4-3 | A TCP/IP repeater in the application layer | https://www.gcd.org/sengoku/stone/ |
-| **storj-uplink** | 1.152.3 | Storj DCS Uplink CLI | https://www.storj.io/integrations/uplink-cli |
+| **storj-uplink** | 1.152.4 | Storj DCS Uplink CLI | https://www.storj.io/integrations/uplink-cli |
 | **stow** | 2.4.1 | Tool for managing the installation of multiple software packages into a single directory | https://www.gnu.org/software/stow/ |
 | **strace** | 6.19 | Debugging utility to monitor system calls and signals received | https://strace.io/ |
 | **streamripper** | 1.64.6-3 | Records and splits streaming mp3 into tracks | https://streamripper.sourceforge.net/ |
@@ -2561,7 +2561,7 @@
 | **tree** | 2.3.2 | Recursive directory lister producing a depth indented listing of files | http://mama.indstate.edu/users/ice/tree/ |
 | **tree-sitter** | 0.26.8 | An incremental parsing system for programming tools | https://tree-sitter.github.io/ |
 | **tree-sitter-bash** | 0.25.1-1 | Bash grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-bash |
-| **tree-sitter-c** | 0.24.1-6 | C grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-c |
+| **tree-sitter-c** | 0.24.2 | C grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-c |
 | **tree-sitter-css** | 0.25.0-1 | CSS grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-css |
 | **tree-sitter-go** | 0.25.0-1 | Golang grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-go |
 | **tree-sitter-html** | 0.23.2-1 | HTML grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-html |
