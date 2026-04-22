@@ -1895,7 +1895,7 @@
   Description: To fastly access files and folders
   Homepage: https://github.com/whjvenyl/fasd
 - Package: fastfetch
-  Version: 2.61.0
+  Version: 2.62.0
   Description: A maintained, feature-rich and performance oriented, neofetch like system information tool
   Homepage: https://github.com/fastfetch-cli/fastfetch
 - Package: fastmod
@@ -2743,7 +2743,7 @@
   Description: Transforms JSON into discrete assignments
   Homepage: https://github.com/tomnomnom/gron
 - Package: groonga
-  Version: 16.0.1
+  Version: 16.0.1-1
   Description: An embeddable fulltext search engine
   Homepage: https://github.com/groonga/groonga/
 - Package: groovy
@@ -3667,7 +3667,7 @@
   Description: Static libraries for libarchive
   Homepage: https://www.libarchive.org/
 - Package: libarrow-cpp
-  Version: 23.0.1-2
+  Version: 24.0.0
   Description: C++ libraries for Apache Arrow
   Homepage: https://github.com/apache/arrow
 - Package: libasio
@@ -8555,7 +8555,7 @@
   Description: Cross-platform process and system utilities module for Python
   Homepage: https://github.com/giampaolo/psutil
 - Package: python-pyarrow
-  Version: 23.0.1-2
+  Version: 24.0.0
   Description: Python bindings for Apache Arrow
   Homepage: https://github.com/apache/arrow
 - Package: python-pycryptodomex
@@ -8791,7 +8791,7 @@
   Description: UNIX-like reverse engineering framework and command-line toolset
   Homepage: https://www.radare.org/
 - Package: rage
-  Version: 0.11.1-1
+  Version: 0.11.2
   Description: A simple, secure and modern encryption tool
   Homepage: https://age-encryption.org/v1
 - Package: ragel
@@ -10779,7 +10779,7 @@
   Description: The WebAssembly Binary Toolkit
   Homepage: https://github.com/WebAssembly/wabt
 - Package: wakatime-cli
-  Version: 2.6.2
+  Version: 2.7.0
   Description: Command line interface used by all WakaTime text editor plugins
   Homepage: https://wakatime.com/plugins/
 - Package: walk
@@ -10995,11 +10995,11 @@
   Description: A cross-platform build utility based on Lua
   Homepage: https://xmake.io/
 - Package: xmlsec
-  Version: 1.3.10
+  Version: 1.3.11
   Description: XML Security Library
   Homepage: https://www.aleksey.com/xmlsec/
 - Package: xmlsec-static
-  Version: 1.3.10
+  Version: 1.3.11
   Description: Static libraries for xmlsec
   Homepage: https://www.aleksey.com/xmlsec/
 - Package: xmlstarlet
