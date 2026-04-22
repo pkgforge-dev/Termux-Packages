@@ -339,7 +339,7 @@
 | **debianutils** | 5.23.2-1 | Small utilities which are used primarily by the installation scripts of Debian packages | https://packages.debian.org/debianutils |
 | **debootstrap** | 1.0.143 | Bootstrap a basic Debian system | https://wiki.debian.org/Debootstrap |
 | **delve** | 1.26.2 | A debugger for the Go programming language | https://github.com/go-delve/delve |
-| **deno** | 1:2.7.12 | A modern runtime for JavaScript and TypeScript | https://deno.land/ |
+| **deno** | 1:2.7.13 | A modern runtime for JavaScript and TypeScript | https://deno.land/ |
 | **desed** | 1.2.2-1 | Demystifies and debugs your sed scripts | https://github.com/SoptikHa2/desed |
 | **deutex** | 5.2.3-1 | WAD composer for Doom, Heretic, Hexen, and Strife | https://github.com/Doom-Utils/deutex/ |
 | **dex2jar** | 2.4-1 | Tools to work with android .dex and java .class files | https://github.com/pxb1988/dex2jar |
@@ -1377,7 +1377,7 @@
 | **librtmidi** | 5.0.0-3 | A set of C++ classes that provides a common API for realtime MIDI input/output | https://www.music.mcgill.ca/~gary/rtmidi/ |
 | **librttopo** | 1.1.0-5 | The RT Topology Library exposes an API to create and manage standard topologies | https://git.osgeo.org/gitea/rttopo/librttopo |
 | **librttopo-static** | 1.1.0-5 | Static libraries for librttopo | https://git.osgeo.org/gitea/rttopo/librttopo |
-| **librusty-v8** | 1:2.7.12 | High quality Rust bindings to V8's C++ API | https://deno.land/ |
+| **librusty-v8** | 1:2.7.13 | High quality Rust bindings to V8's C++ API | https://deno.land/ |
 | **libsamplerate** | 0.2.2-4 | A library for performing sample rate conversion of audio data | https://libsndfile.github.io/libsamplerate/ |
 | **libsasl** | 2.1.28-2 | Cyrus SASL - authentication abstraction library | https://www.cyrusimap.org/sasl/ |
 | **libsasl-static** | 2.1.28-2 | Static libraries for libsasl | https://www.cyrusimap.org/sasl/ |
