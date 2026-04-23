@@ -707,7 +707,7 @@
   Description: Utilities for Btrfs filesystem
   Homepage: https://btrfs.readthedocs.io/en/latest/
 - Package: buf
-  Version: 1.68.3
+  Version: 1.68.4
   Description: A new way of working with Protocol Buffers
   Homepage: https://buf.build
 - Package: build-essential
@@ -3415,7 +3415,7 @@
   Description: Colorize your kubectl output
   Homepage: https://github.com/kubecolor/kubecolor
 - Package: kubectl
-  Version: 1.35.4
+  Version: 1.36.0
   Description: Kubernetes.io client binary
   Homepage: https://kubernetes.io/
 - Package: kubelogin
@@ -3503,11 +3503,11 @@
   Description: Terminal file manager
   Homepage: https://github.com/gokcehan/lf
 - Package: lfortran
-  Version: 0.62.0
+  Version: 0.63.0
   Description: A modern open-source interactive Fortran compiler
   Homepage: https://lfortran.org/
 - Package: lfortran-static
-  Version: 0.62.0
+  Version: 0.63.0
   Description: Static libraries for lfortran
   Homepage: https://lfortran.org/
 - Package: lftp
@@ -6739,7 +6739,7 @@
   Description: A community-maintained Python framework for creating mathematical animations
   Homepage: https://manim.community
 - Package: manpages
-  Version: "6.17"
+  Version: "6.18"
   Description: Man pages for linux kernel and C library interfaces
   Homepage: https://www.kernel.org/doc/man-pages/
 - Package: mapserver
@@ -7527,7 +7527,7 @@
   Description: Thread-based email index, search and tagging system
   Homepage: https://notmuchmail.org
 - Package: npm
-  Version: 11.12.1
+  Version: 11.13.0
   Description: The package manager for JavaScript
   Homepage: https://docs.npmjs.com/cli/
 - Package: npush
@@ -7935,7 +7935,7 @@
   Description: par2cmdline is a PAR 2.0 compatible file verification and repair tool
   Homepage: https://github.com/Parchive/par2cmdline
 - Package: parallel
-  Version: "20260322"
+  Version: "20260422"
   Description: GNU Parallel is a shell tool for executing jobs in parallel using one or more machines
   Homepage: https://www.gnu.org/software/parallel/
 - Package: pari
@@ -8039,7 +8039,7 @@
   Description: A PDF to SVG converter
   Homepage: http://www.cityinthesky.co.uk/opensource/pdf2svg/
 - Package: pdfcpu
-  Version: 0.11.1
+  Version: 0.12.0
   Description: A PDF processor written in Go
   Homepage: https://pdfcpu.io
 - Package: pdfgrep

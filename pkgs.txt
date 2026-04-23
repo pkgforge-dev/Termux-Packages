@@ -175,7 +175,7 @@
  bsdtar  3.8.7  The tar(1) and cpio(1) programs from FreeBSD, using libarchive  https://www.libarchive.org/ 
  btfs2  4.1.0  Decentralized file system integrating with TRON network and Bittorrent network  https://www.bittorrent.com/btfs/ 
  btrfs-progs  6.19.1  Utilities for Btrfs filesystem  https://btrfs.readthedocs.io/en/latest/ 
- buf  1.68.3  A new way of working with Protocol Buffers  https://buf.build 
+ buf  1.68.4  A new way of working with Protocol Buffers  https://buf.build 
  build-essential  4.1  A metapackage that installs essential development tools  https://github.com/termux/termux-packages 
  busybox  1.37.0-3  Tiny versions of many common UNIX utilities into a single small executable  https://busybox.net/ 
  bvi  1.5.0-1  Binary file editor based on vi  https://bvi.sourceforge.net/ 
@@ -852,7 +852,7 @@
  kotlin  2.3.20  The Kotlin Programming Language  https://kotlinlang.org/ 
  krb5  1.22.2  The Kerberos network authentication system  https://web.mit.edu/kerberos 
  kubecolor  0.6.0  Colorize your kubectl output  https://github.com/kubecolor/kubecolor 
- kubectl  1.35.4  Kubernetes.io client binary  https://kubernetes.io/ 
+ kubectl  1.36.0  Kubernetes.io client binary  https://kubernetes.io/ 
  kubelogin  1.36.1  A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication  https://github.com/int128/kubelogin 
  kubo  0.40.1  A peer-to-peer hypermedia distribution protocol  https://ipfs.io/ 
  ladspa-sdk  1.17-3  Linux Audio Developer's Simple Plugin API  https://www.ladspa.org/ 
@@ -874,8 +874,8 @@
  lexbor  3.0.0  Fast embeddable web browser engine written in C with no dependencies  https://lexbor.com 
  lexter  1.0.3-5  A real-time word puzzle for text terminals  https://www.kyne.au/~mark/software/lexter.php 
  lf  41  Terminal file manager  https://github.com/gokcehan/lf 
- lfortran  0.62.0  A modern open-source interactive Fortran compiler  https://lfortran.org/ 
- lfortran-static  0.62.0  Static libraries for lfortran  https://lfortran.org/ 
+ lfortran  0.63.0  A modern open-source interactive Fortran compiler  https://lfortran.org/ 
+ lfortran-static  0.63.0  Static libraries for lfortran  https://lfortran.org/ 
  lftp  4.9.2-7  FTP/HTTP client and file transfer program  https://lftp.tech/ 
  lftp-static  4.9.2-7  Static libraries for lftp  https://lftp.tech/ 
  lgogdownloader  3.18-1  Open source downloader to GOG.com for Linux users using the same API as the official GOGDownloader  https://sites.google.com/site/gogdownloader/ 
@@ -1683,7 +1683,7 @@
  mandoc  1.14.6-6  Man page viewer from the mandoc toolset  https://mdocml.bsd.lv/ 
  mangal  4.0.6-3  Cli manga downloader  https://github.com/metafates/mangal 
  manim  0.20.1-2  A community-maintained Python framework for creating mathematical animations  https://manim.community 
- manpages  6.17  Man pages for linux kernel and C library interfaces  https://www.kernel.org/doc/man-pages/ 
+ manpages  6.18  Man pages for linux kernel and C library interfaces  https://www.kernel.org/doc/man-pages/ 
  mapserver  8.2.2-4  MapServer is CGI-based platform for publishing spatial data and interactive mapping applications to the web  https://mapserver.org/ 
  mariadb  2:12.2.2  A drop-in replacement for mysql server  https://mariadb.org 
  mariadb-static  2:12.2.2  Static libraries for mariadb  https://mariadb.org 
@@ -1880,7 +1880,7 @@
  notcurses-data  3.0.17-2  Platform-independent data for notcurses  https://notcurses.com/ 
  notcurses-tools  3.0.17-2  Tools and demos for notcurses  https://notcurses.com/ 
  notmuch  0.40-1  Thread-based email index, search and tagging system  https://notmuchmail.org 
- npm  11.12.1  The package manager for JavaScript  https://docs.npmjs.com/cli/ 
+ npm  11.13.0  The package manager for JavaScript  https://docs.npmjs.com/cli/ 
  npush  0.7-2  Curses-based logic game similar to Sokoban and Boulder Dash  https://npush.sourceforge.net/ 
  nsis  3.12  A professional open source system to create Windows installers  https://sourceforge.net/projects/nsis/ 
  nsis-stubs  3.12  NSIS Stubs  https://sourceforge.net/projects/nsis/ 
@@ -1982,7 +1982,7 @@
  pango  1.57.1  Library for laying out and rendering text  https://www.gtk.org/docs/architecture/pango 
  paperkey  1.6-1  Archive OpenPGP keys on paper  http://www.jabberwocky.com/software/paperkey/ 
  par2  1.1.1  par2cmdline is a PAR 2.0 compatible file verification and repair tool  https://github.com/Parchive/par2cmdline 
- parallel  20260322  GNU Parallel is a shell tool for executing jobs in parallel using one or more machines  https://www.gnu.org/software/parallel/ 
+ parallel  20260422  GNU Parallel is a shell tool for executing jobs in parallel using one or more machines  https://www.gnu.org/software/parallel/ 
  pari  2.17.3  A computer algebra system designed for fast computations in number theory  https://pari.math.u-bordeaux.fr/ 
  pari-static  2.17.3  Static libraries for pari  https://pari.math.u-bordeaux.fr/ 
  parted  3.6-1  Versatile partition editor  https://www.gnu.org/software/parted/ 
@@ -2008,7 +2008,7 @@
  pcregrep  8.45-2  A grep with Perl-compatible regular expressions  https://www.pcre.org 
  pcscd  2.4.1  Middleware to access a smart card using SCard API (PC/SC). (daemon side)  https://pcsclite.apdu.fr/ 
  pdf2svg  0.2.4-2  A PDF to SVG converter  http://www.cityinthesky.co.uk/opensource/pdf2svg/ 
- pdfcpu  0.11.1  A PDF processor written in Go  https://pdfcpu.io 
+ pdfcpu  0.12.0  A PDF processor written in Go  https://pdfcpu.io 
  pdfgrep  2.2.0-5  Command line utility to search text in PDF files  https://pdfgrep.org/ 
  pdftk  3.3.3-3  A simple tool for doing everyday things with PDF documents  https://gitlab.com/pdftk-java/pdftk 
  peaclock  0.4.3-9  A responsive and customizable clock, timer, and stopwatch for the terminal.  https://github.com/octobanana/peaclock 

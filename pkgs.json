@@ -1063,7 +1063,7 @@
   },
   {
     "Package": "buf",
-    "Version": "1.68.3",
+    "Version": "1.68.4",
     "Description": "A new way of working with Protocol Buffers",
     "Homepage": "https://buf.build"
   },
@@ -5125,7 +5125,7 @@
   },
   {
     "Package": "kubectl",
-    "Version": "1.35.4",
+    "Version": "1.36.0",
     "Description": "Kubernetes.io client binary",
     "Homepage": "https://kubernetes.io/"
   },
@@ -5257,13 +5257,13 @@
   },
   {
     "Package": "lfortran",
-    "Version": "0.62.0",
+    "Version": "0.63.0",
     "Description": "A modern open-source interactive Fortran compiler",
     "Homepage": "https://lfortran.org/"
   },
   {
     "Package": "lfortran-static",
-    "Version": "0.62.0",
+    "Version": "0.63.0",
     "Description": "Static libraries for lfortran",
     "Homepage": "https://lfortran.org/"
   },
@@ -10111,7 +10111,7 @@
   },
   {
     "Package": "manpages",
-    "Version": "6.17",
+    "Version": "6.18",
     "Description": "Man pages for linux kernel and C library interfaces",
     "Homepage": "https://www.kernel.org/doc/man-pages/"
   },
@@ -11293,7 +11293,7 @@
   },
   {
     "Package": "npm",
-    "Version": "11.12.1",
+    "Version": "11.13.0",
     "Description": "The package manager for JavaScript",
     "Homepage": "https://docs.npmjs.com/cli/"
   },
@@ -11905,7 +11905,7 @@
   },
   {
     "Package": "parallel",
-    "Version": "20260322",
+    "Version": "20260422",
     "Description": "GNU Parallel is a shell tool for executing jobs in parallel using one or more machines",
     "Homepage": "https://www.gnu.org/software/parallel/"
   },
@@ -12061,7 +12061,7 @@
   },
   {
     "Package": "pdfcpu",
-    "Version": "0.11.1",
+    "Version": "0.12.0",
     "Description": "A PDF processor written in Go",
     "Homepage": "https://pdfcpu.io"
   },
