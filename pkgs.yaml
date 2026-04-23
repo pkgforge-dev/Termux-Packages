@@ -7619,7 +7619,7 @@
   Description: OpenKeychain agents for GnuPG and OpenSSH
   Homepage: https://github.com/DDoSolitary/okc-agents
 - Package: ol
-  Version: 2.6-3
+  Version: "2.7"
   Description: Purely functional dialect of Lisp
   Homepage: https://yuriy-chumak.github.io/ol/
 - Package: oleo
@@ -10095,11 +10095,11 @@
   Description: Flexible, screen-oriented MUD client, for use with any type of MUD
   Homepage: https://tinyfugue.sourceforge.net/
 - Package: tinygo
-  Version: 0.41.0
+  Version: 0.41.1
   Description: Go compiler for microcontrollers, WASM, CLI tools
   Homepage: https://tinygo.org
 - Package: tinygo-common
-  Version: 0.41.0
+  Version: 0.41.1
   Description: TinyGo common files
   Homepage: https://tinygo.org
 - Package: tinymist
