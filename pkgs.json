@@ -7273,8 +7273,14 @@
   },
   {
     "Package": "libminizip-ng",
-    "Version": "4.1.0",
+    "Version": "4.1.1",
     "Description": "A zip manipulation library written in C",
+    "Homepage": "https://github.com/zlib-ng/minizip-ng"
+  },
+  {
+    "Package": "libminizip-ng-static",
+    "Version": "4.1.1",
+    "Description": "Static libraries for libminizip-ng",
     "Homepage": "https://github.com/zlib-ng/minizip-ng"
   },
   {
@@ -13165,7 +13171,7 @@
   },
   {
     "Package": "rabbitmq-server",
-    "Version": "4.2.5",
+    "Version": "4.3.0",
     "Description": "Feature rich, multi-protocol messaging and streaming broker",
     "Homepage": "https://github.com/rabbitmq/rabbitmq-server"
   },
@@ -14071,7 +14077,7 @@
   },
   {
     "Package": "sing-box",
-    "Version": "1.13.10",
+    "Version": "1.13.11",
     "Description": "The universal proxy platform",
     "Homepage": "https://sing-box.sagernet.org"
   },

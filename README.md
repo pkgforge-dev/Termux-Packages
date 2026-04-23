@@ -1222,7 +1222,8 @@
 | **libmicrohttpd** | 1.0.5 | A small C library that is supposed to make it easy to run an HTTP server as part of another application | http://www.gnu.org/software/libmicrohttpd/ |
 | **libmicrohttpd-static** | 1.0.5 | Static libraries for libmicrohttpd | http://www.gnu.org/software/libmicrohttpd/ |
 | **libminizip** | 1.3.2-1 | Mini zip and unzip based on zlib | https://www.winimage.com/zLibDll/minizip.html |
-| **libminizip-ng** | 4.1.0 | A zip manipulation library written in C | https://github.com/zlib-ng/minizip-ng |
+| **libminizip-ng** | 4.1.1 | A zip manipulation library written in C | https://github.com/zlib-ng/minizip-ng |
+| **libminizip-ng-static** | 4.1.1 | Static libraries for libminizip-ng | https://github.com/zlib-ng/minizip-ng |
 | **libminizip-static** | 1.3.2-1 | Static libraries for libminizip | https://www.winimage.com/zLibDll/minizip.html |
 | **libmnl** | 1.0.5-1 | a minimalistic user-space library oriented to Netlink developers | https://www.netfilter.org/projects/libmnl/ |
 | **libmnl-static** | 1.0.5-1 | Static libraries for libmnl | https://www.netfilter.org/projects/libmnl/ |
@@ -2204,7 +2205,7 @@
 | **quick-lint-js** | 3.2.0-1 | Finds bugs in JavaScript programs | https://quick-lint-js.com/ |
 | **quickjs-ng** | 0.14.0 | Embeddable JavaScript engine in C (NG fork) | https://quickjs-ng.github.io/quickjs/ |
 | **quilt** | 0.69 | Allows you to easily manage large numbers of patches | https://savannah.nongnu.org/projects/quilt |
-| **rabbitmq-server** | 4.2.5 | Feature rich, multi-protocol messaging and streaming broker | https://github.com/rabbitmq/rabbitmq-server |
+| **rabbitmq-server** | 4.3.0 | Feature rich, multi-protocol messaging and streaming broker | https://github.com/rabbitmq/rabbitmq-server |
 | **racket** | 9.1 | Full-spectrum programming language going beyond Lisp and Scheme | https://racket-lang.org |
 | **racket-static** | 9.1 | Static libraries for racket | https://racket-lang.org |
 | **radare2** | 6.1.4 | UNIX-like reverse engineering framework and command-line toolset | https://www.radare.org/ |
@@ -2355,7 +2356,7 @@
 | **simdjson** | 4.6.3 | A C++ library to see how fast we can parse JSON with complete validation | https://simdjson.org/ |
 | **simh** | 1:3.12.5-1 | A collection of simulators for computer hardware and software from the past | http://simh.trailing-edge.com/ |
 | **simulavr** | 1:1.1.0-3 | Simulator for Microchip AVR (formerly Atmel) microcontrollers | https://www.nongnu.org/simulavr |
-| **sing-box** | 1.13.10 | The universal proxy platform | https://sing-box.sagernet.org |
+| **sing-box** | 1.13.11 | The universal proxy platform | https://sing-box.sagernet.org |
 | **skate** | 1.0.1-1 | A personal key-value store | https://github.com/charmbracelet/skate |
 | **sl** | 5.05-1 | Tool curing your bad habit of mistyping | https://github.com/mtoyoda/sl |
 | **slang** | 2.3.3-2 | S-Lang is a powerful interpreted language | https://www.jedsoft.org/slang/ |
