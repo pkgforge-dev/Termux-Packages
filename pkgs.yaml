@@ -4171,11 +4171,11 @@
   Description: Static libraries for libexif
   Homepage: https://libexif.github.io/
 - Package: libexpat
-  Version: 2.7.5
+  Version: 2.8.0
   Description: XML parsing C library
   Homepage: https://libexpat.github.io/
 - Package: libexpat-static
-  Version: 2.7.5
+  Version: 2.8.0
   Description: Static libraries for libexpat
   Homepage: https://libexpat.github.io/
 - Package: libfann
@@ -6671,7 +6671,7 @@
   Description: A plugin standard for audio systems
   Homepage: https://lv2plug.in/
 - Package: lychee
-  Version: 0.23.0
+  Version: 0.24.0
   Description: A fast, async, resource-friendly link checker written in Rust
   Homepage: https://github.com/lycheeverse/lychee
 - Package: lynx
@@ -7019,11 +7019,11 @@
   Description: Static libraries for miniupnpc
   Homepage: https://miniupnp.tuxfamily.org/
 - Package: minizinc
-  Version: 2.9.5
+  Version: 2.9.6
   Description: A medium-level constraint modelling language
   Homepage: https://github.com/MiniZinc/libminizinc
 - Package: minizinc-static
-  Version: 2.9.5
+  Version: 2.9.6
   Description: Static libraries for minizinc
   Homepage: https://github.com/MiniZinc/libminizinc
 - Package: mkbootimg
@@ -9675,7 +9675,7 @@
   Description: A TCP/IP repeater in the application layer
   Homepage: https://www.gcd.org/sengoku/stone/
 - Package: storj-uplink
-  Version: 1.152.5
+  Version: 1.152.6
   Description: Storj DCS Uplink CLI
   Homepage: https://www.storj.io/integrations/uplink-cli
 - Package: stow
@@ -10155,7 +10155,7 @@
   Description: toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library
   Homepage: https://github.com/ToruNiina/toml11
 - Package: topgrade
-  Version: 17.3.0
+  Version: 17.4.0
   Description: Upgrade all the things
   Homepage: https://github.com/topgrade-rs/topgrade/
 - Package: tor
