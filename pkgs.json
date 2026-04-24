@@ -3637,7 +3637,7 @@
   },
   {
     "Package": "gitoxide",
-    "Version": "0.52.0",
+    "Version": "0.52.1",
     "Description": "Rust implementation of Git",
     "Homepage": "https://github.com/GitoxideLabs/gitoxide"
   },
@@ -3661,7 +3661,7 @@
   },
   {
     "Package": "gleam",
-    "Version": "1.15.4",
+    "Version": "1.16.0",
     "Description": "A friendly language for building type-safe, scalable systems!",
     "Homepage": "https://gleam.run"
   },
@@ -4291,7 +4291,7 @@
   },
   {
     "Package": "hcloud",
-    "Version": "1.62.2",
+    "Version": "1.63.0",
     "Description": "Hetzner Cloud command line client",
     "Homepage": "https://github.com/hetznercloud/cli"
   },
@@ -5203,7 +5203,7 @@
   },
   {
     "Package": "lego",
-    "Version": "4.35.1",
+    "Version": "4.35.2",
     "Description": "Lets Encrypt/ACME client and library written in Go",
     "Homepage": "https://github.com/go-acme/lego"
   },
@@ -9655,19 +9655,19 @@
   },
   {
     "Package": "littlecms",
-    "Version": "2.18",
+    "Version": "2.19",
     "Description": "Color management library",
     "Homepage": "http://www.littlecms.com/"
   },
   {
     "Package": "littlecms-static",
-    "Version": "2.18",
+    "Version": "2.19",
     "Description": "Static libraries for littlecms",
     "Homepage": "http://www.littlecms.com/"
   },
   {
     "Package": "littlecms-utils",
-    "Version": "2.18",
+    "Version": "2.19",
     "Description": "Color management utilities",
     "Homepage": "http://www.littlecms.com/"
   },
@@ -10009,7 +10009,7 @@
   },
   {
     "Package": "lychee",
-    "Version": "0.24.0",
+    "Version": "0.24.1",
     "Description": "A fast, async, resource-friendly link checker written in Rust",
     "Homepage": "https://github.com/lycheeverse/lychee"
   },
