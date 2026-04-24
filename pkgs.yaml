@@ -595,7 +595,7 @@
   Description: Safely store secrets in Git/Mercurial/Subversion
   Homepage: https://github.com/StackExchange/blackbox
 - Package: blas-openblas
-  Version: 0.3.32
+  Version: 0.3.33
   Description: OpenBLAS symlinks for BLAS/CBLAS/LAPACK/LAPACKE
   Homepage: https://www.openblas.net
 - Package: blink
@@ -2067,7 +2067,7 @@
   Description: Software synthesizer based on the SoundFont 2 specifications
   Homepage: https://github.com/FluidSynth/fluidsynth
 - Package: flyctl
-  Version: 0.4.39
+  Version: 0.4.40
   Description: Command line tools for fly.io services
   Homepage: https://fly.io
 - Package: fm
@@ -2131,7 +2131,7 @@
   Description: Minimalistic plugin API for video effects
   Homepage: https://www.dyne.org/software/frei0r/
 - Package: fresh-editor
-  Version: 0.2.25
+  Version: 0.3.0
   Description: 'Text editor for your terminal: easy, powerful and fast'
   Homepage: https://getfresh.dev/
 - Package: fribidi
@@ -2831,7 +2831,7 @@
   Description: Standard GNU file compression utilities
   Homepage: https://www.gnu.org/software/gzip/
 - Package: haproxy
-  Version: 3.3.6
+  Version: 3.3.7
   Description: The Reliable, High Performance TCP/HTTP Load Balancer
   Homepage: https://www.haproxy.org/
 - Package: harfbuzz
@@ -3423,7 +3423,7 @@
   Description: A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication
   Homepage: https://github.com/int128/kubelogin
 - Package: kubo
-  Version: 0.40.1
+  Version: 0.41.0
   Description: A peer-to-peer hypermedia distribution protocol
   Homepage: https://ipfs.io/
 - Package: ladspa-sdk
@@ -5127,11 +5127,11 @@
   Description: An implementation of the Double Ratchet cryptographic ratchet
   Homepage: https://matrix.org/docs/projects/other/olm/
 - Package: libopenblas
-  Version: 0.3.32
+  Version: 0.3.33
   Description: An optimized BLAS library based on GotoBLAS2 1.13 BSD
   Homepage: https://www.openblas.net
 - Package: libopenblas-static
-  Version: 0.3.32
+  Version: 0.3.33
   Description: Static libraries for libopenblas
   Homepage: https://www.openblas.net
 - Package: libopencc
@@ -6775,7 +6775,7 @@
   Description: Simple CAS and symbolic calculator
   Homepage: https://en.wikipedia.org/wiki/Mathomatic
 - Package: matplotlib
-  Version: 3.10.8-3
+  Version: 3.10.9
   Description: A comprehensive library for creating static, animated, and interactive visualizations in Python
   Homepage: https://matplotlib.org/
 - Package: matterbridge
@@ -8491,7 +8491,7 @@
   Description: lossless compression algorithm and format (Python bindings)
   Homepage: https://github.com/google/brotli
 - Package: python-cmake
-  Version: 4.3.0
+  Version: 4.3.2
   Description: Python wrapper for CMake
   Homepage: https://cmake-python-distributions.readthedocs.io/
 - Package: python-contourpy

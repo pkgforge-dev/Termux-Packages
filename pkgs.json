@@ -895,7 +895,7 @@
   },
   {
     "Package": "blas-openblas",
-    "Version": "0.3.32",
+    "Version": "0.3.33",
     "Description": "OpenBLAS symlinks for BLAS/CBLAS/LAPACK/LAPACKE",
     "Homepage": "https://www.openblas.net"
   },
@@ -3103,7 +3103,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.4.39",
+    "Version": "0.4.40",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -3199,7 +3199,7 @@
   },
   {
     "Package": "fresh-editor",
-    "Version": "0.2.25",
+    "Version": "0.3.0",
     "Description": "Text editor for your terminal: easy, powerful and fast",
     "Homepage": "https://getfresh.dev/"
   },
@@ -4249,7 +4249,7 @@
   },
   {
     "Package": "haproxy",
-    "Version": "3.3.6",
+    "Version": "3.3.7",
     "Description": "The Reliable, High Performance TCP/HTTP Load Balancer",
     "Homepage": "https://www.haproxy.org/"
   },
@@ -5137,7 +5137,7 @@
   },
   {
     "Package": "kubo",
-    "Version": "0.40.1",
+    "Version": "0.41.0",
     "Description": "A peer-to-peer hypermedia distribution protocol",
     "Homepage": "https://ipfs.io/"
   },
@@ -7693,13 +7693,13 @@
   },
   {
     "Package": "libopenblas",
-    "Version": "0.3.32",
+    "Version": "0.3.33",
     "Description": "An optimized BLAS library based on GotoBLAS2 1.13 BSD",
     "Homepage": "https://www.openblas.net"
   },
   {
     "Package": "libopenblas-static",
-    "Version": "0.3.32",
+    "Version": "0.3.33",
     "Description": "Static libraries for libopenblas",
     "Homepage": "https://www.openblas.net"
   },
@@ -10165,7 +10165,7 @@
   },
   {
     "Package": "matplotlib",
-    "Version": "3.10.8-3",
+    "Version": "3.10.9",
     "Description": "A comprehensive library for creating static, animated, and interactive visualizations in Python",
     "Homepage": "https://matplotlib.org/"
   },
@@ -12739,7 +12739,7 @@
   },
   {
     "Package": "python-cmake",
-    "Version": "4.3.0",
+    "Version": "4.3.2",
     "Description": "Python wrapper for CMake",
     "Homepage": "https://cmake-python-distributions.readthedocs.io/"
   },
