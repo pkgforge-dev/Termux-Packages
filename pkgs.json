@@ -703,7 +703,7 @@
   },
   {
     "Package": "b3sum",
-    "Version": "1.8.4",
+    "Version": "1.8.5",
     "Description": "A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum",
     "Homepage": "https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum"
   },
@@ -799,7 +799,7 @@
   },
   {
     "Package": "bear",
-    "Version": "4.1.1",
+    "Version": "4.1.2",
     "Description": "Bear is a tool that generates a compilation database for clang tooling.",
     "Homepage": "https://github.com/rizsotto/Bear"
   },
@@ -7273,13 +7273,13 @@
   },
   {
     "Package": "libminizip-ng",
-    "Version": "4.1.1",
+    "Version": "4.1.2",
     "Description": "A zip manipulation library written in C",
     "Homepage": "https://github.com/zlib-ng/minizip-ng"
   },
   {
     "Package": "libminizip-ng-static",
-    "Version": "4.1.1",
+    "Version": "4.1.2",
     "Description": "Static libraries for libminizip-ng",
     "Homepage": "https://github.com/zlib-ng/minizip-ng"
   },
@@ -11713,13 +11713,13 @@
   },
   {
     "Package": "openssh",
-    "Version": "10.3p1",
+    "Version": "10.3p1-1",
     "Description": "Secure shell for logging into a remote machine",
     "Homepage": "https://www.openssh.com/"
   },
   {
     "Package": "openssh-sftp-server",
-    "Version": "10.3p1",
+    "Version": "10.3p1-1",
     "Description": "OpenSSH SFTP server subsystem",
     "Homepage": "https://www.openssh.com/"
   },
