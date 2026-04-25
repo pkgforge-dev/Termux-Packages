@@ -3039,11 +3039,11 @@
   Description: A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices
   Homepage: https://www.cloudwego.io
 - Package: i2pd
-  Version: 2.59.0
+  Version: 2.60.0
   Description: A full-featured C++ implementation of the I2P router
   Homepage: https://i2pd.website/
 - Package: i2pd-static
-  Version: 2.59.0
+  Version: 2.60.0
   Description: Static libraries for i2pd
   Homepage: https://i2pd.website/
 - Package: iat
@@ -7735,15 +7735,15 @@
   Description: Portion of openjdk-17 requiring X11 functionality
   Homepage: https://openjdk.java.net
 - Package: openjdk-21
-  Version: 21.0.10
+  Version: 21.0.11
   Description: Java development kit and runtime
   Homepage: https://openjdk.java.net
 - Package: openjdk-21-source
-  Version: 21.0.10
+  Version: 21.0.11
   Description: Source files for openjdk-21
   Homepage: https://openjdk.java.net
 - Package: openjdk-21-x
-  Version: 21.0.10
+  Version: 21.0.11
   Description: Portion of openjdk-21 requiring X11 functionality
   Homepage: https://openjdk.java.net
 - Package: openjdk-25
