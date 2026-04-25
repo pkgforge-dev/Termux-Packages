@@ -1099,7 +1099,7 @@
   Description: An extractor/converter for .LIT eBooks
   Homepage: http://www.convertlit.com/
 - Package: cookcli
-  Version: 0.29.0
+  Version: 0.29.1
   Description: A suite of tools to create shopping lists and maintain food recipes
   Homepage: https://cooklang.org
 - Package: coreutils
@@ -2239,7 +2239,7 @@
   Description: Program for calculating and printing calendars
   Homepage: https://www.gnu.org/software/gcal/
 - Package: gdal
-  Version: 3.12.3-1
+  Version: 3.12.4
   Description: A translator library for raster and vector geospatial data formats
   Homepage: https://gdal.org
 - Package: gdb
@@ -2615,7 +2615,7 @@
   Description: Google C++ testing framework
   Homepage: https://github.com/google/googletest
 - Package: goose
-  Version: 3.27.0
+  Version: 3.27.1
   Description: A database migration tool. Supports SQL migrations and Go functions.
   Homepage: https://pressly.github.io/goose
 - Package: gopass
@@ -6663,7 +6663,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.28.3
+  Version: 0.28.4
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://lux.lumen-labs.org
 - Package: lv2
@@ -8499,7 +8499,7 @@
   Description: Python library for calculating contours in 2D quadrilateral grids
   Homepage: https://contourpy.readthedocs.io/
 - Package: python-cryptography
-  Version: 46.0.7
+  Version: 47.0.0
   Description: Provides cryptographic recipes and primitives to Python developers
   Homepage: https://github.com/pyca/cryptography
 - Package: python-ensurepip-wheels
@@ -8807,7 +8807,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 4.42.0
+  Version: 4.42.1
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
@@ -10723,7 +10723,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2026.04.16
+  Version: 2026.04.24
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vttest
