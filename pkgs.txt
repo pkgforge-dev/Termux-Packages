@@ -251,8 +251,8 @@
  cloudflared  2026.3.0  A tunneling daemon that proxies traffic from the Cloudflare network to your origins  https://github.com/cloudflare/cloudflared 
  clpeak  1.1.5  A tool which profiles OpenCL devices to find their peak capacities  https://github.com/krrishnarraj/clpeak 
  clvk  0.0.20260417.111654  Experimental implementation of OpenCL on Vulkan  https://github.com/kpet/clvk 
- cmake  4.3.2  Family of tools designed to build, test and package software  https://cmake.org/ 
- cmake-curses-gui  4.3.2  Curses based user interface for CMake (ccmake)  https://cmake.org/ 
+ cmake  4.3.2-1  Family of tools designed to build, test and package software  https://cmake.org/ 
+ cmake-curses-gui  4.3.2-1  Curses based user interface for CMake (ccmake)  https://cmake.org/ 
  cmark  0.31.2  CommonMark parsing and rendering program  https://github.com/commonmark/cmark 
  cmark-static  0.31.2  Static libraries for cmark  https://github.com/commonmark/cmark 
  cmatrix  2.0-1  Command producing a Matrix-style animation  https://github.com/abishekvashok/cmatrix 
@@ -830,8 +830,8 @@
  json-c  0.18-2  A JSON implementation in C  https://github.com/json-c/json-c/wiki 
  json-c-static  0.18-2  Static libraries for json-c  https://github.com/json-c/json-c/wiki 
  json-glib  1.10.8  GLib JSON manipulation library  https://wiki.gnome.org/Projects/JsonGlib 
- jsoncpp  1.9.6-2  C++ library for interacting with JSON  https://github.com/open-source-parsers/jsoncpp 
- jsoncpp-static  1.9.6-2  Static libraries for jsoncpp  https://github.com/open-source-parsers/jsoncpp 
+ jsoncpp  1.9.7  C++ library for interacting with JSON  https://github.com/open-source-parsers/jsoncpp 
+ jsoncpp-static  1.9.7  Static libraries for jsoncpp  https://github.com/open-source-parsers/jsoncpp 
  jump  0.51.0-3  Jump helps you navigate in shell faster by learning your habits  https://github.com/gsamokovarov/jump 
  jupp  3.1jupp41-3  User friendly full screen text editor  http://www.mirbsd.org/jupp.htm 
  just  1.50.0  A handy way to save and run project-specific commands  https://just.systems 
@@ -878,7 +878,7 @@
  lfortran-static  0.63.0  Static libraries for lfortran  https://lfortran.org/ 
  lftp  4.9.2-7  FTP/HTTP client and file transfer program  https://lftp.tech/ 
  lftp-static  4.9.2-7  Static libraries for lftp  https://lftp.tech/ 
- lgogdownloader  3.18-1  Open source downloader to GOG.com for Linux users using the same API as the official GOGDownloader  https://sites.google.com/site/gogdownloader/ 
+ lgogdownloader  3.18-2  Open source downloader to GOG.com for Linux users using the same API as the official GOGDownloader  https://sites.google.com/site/gogdownloader/ 
  lhasa  0.5.0-1  LHA compressor/decompressor  https://lhasa.soulsphere.org/ 
  lhasa-static  0.5.0-1  Static libraries for lhasa  https://lhasa.soulsphere.org/ 
  liba52  0.8.0-3  A free library for decoding ATSC A/52 streams  http://liba52.sourceforge.net/ 
@@ -1956,7 +1956,7 @@
  openssl-static  1:3.6.2  Static libraries for openssl  https://www.openssl.org/ 
  openssl-tool  1:3.6.2  The openssl command line cryptographic tool  https://www.openssl.org/ 
  opentimelineio  0.18.1  Open Source API and interchange format for editorial timeline information.  http://opentimeline.io/ 
- openxr  1.1.58  Open standard that provides a common set of APIs for developing XR applications  https://www.khronos.org/openxr/ 
+ openxr  1.1.58-1  Open standard that provides a common set of APIs for developing XR applications  https://www.khronos.org/openxr/ 
  optipng  7.9.1-1  PNG optimizer that recompresses image files to a smaller size, without losing any information  https://optipng.sourceforge.net/ 
  opus-tools  0.2-4  Utilities to encode and decode .opus files  https://www.opus-codec.org/ 
  opusfile  0.12-4  A high-level API for decoding and seeking within .opus files  https://www.opus-codec.org/ 
@@ -2223,8 +2223,8 @@
  readline-static  8.3.1-2  Static libraries for readline  https://tiswww.case.edu/php/chet/readline/rltop.html 
  recode  3.7.15-1  Charset converter tool and library  https://github.com/pinard/Recode 
  recode-static  3.7.15-1  Static libraries for recode  https://github.com/pinard/Recode 
- recoll  1.43.14  Full-text search for your desktop  https://www.recoll.org/ 
- recoll-python  1.43.14  Python interface for Recoll  https://www.recoll.org/ 
+ recoll  1.43.14-1  Full-text search for your desktop  https://www.recoll.org/ 
+ recoll-python  1.43.14-1  Python interface for Recoll  https://www.recoll.org/ 
  recutils  1.9-1  Set of tools and libraries to access human-editable, plain text databases called recfiles  https://www.gnu.org/software/recutils/ 
  recutils-static  1.9-1  Static libraries for recutils  https://www.gnu.org/software/recutils/ 
  redir  3.3-3  TCP port redirector for UNIX  https://github.com/troglobit/redir 

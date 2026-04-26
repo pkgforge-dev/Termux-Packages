@@ -1519,13 +1519,13 @@
   },
   {
     "Package": "cmake",
-    "Version": "4.3.2",
+    "Version": "4.3.2-1",
     "Description": "Family of tools designed to build, test and package software",
     "Homepage": "https://cmake.org/"
   },
   {
     "Package": "cmake-curses-gui",
-    "Version": "4.3.2",
+    "Version": "4.3.2-1",
     "Description": "Curses based user interface for CMake (ccmake)",
     "Homepage": "https://cmake.org/"
   },
@@ -4993,13 +4993,13 @@
   },
   {
     "Package": "jsoncpp",
-    "Version": "1.9.6-2",
+    "Version": "1.9.7",
     "Description": "C++ library for interacting with JSON",
     "Homepage": "https://github.com/open-source-parsers/jsoncpp"
   },
   {
     "Package": "jsoncpp-static",
-    "Version": "1.9.6-2",
+    "Version": "1.9.7",
     "Description": "Static libraries for jsoncpp",
     "Homepage": "https://github.com/open-source-parsers/jsoncpp"
   },
@@ -5281,7 +5281,7 @@
   },
   {
     "Package": "lgogdownloader",
-    "Version": "3.18-1",
+    "Version": "3.18-2",
     "Description": "Open source downloader to GOG.com for Linux users using the same API as the official GOGDownloader",
     "Homepage": "https://sites.google.com/site/gogdownloader/"
   },
@@ -11749,7 +11749,7 @@
   },
   {
     "Package": "openxr",
-    "Version": "1.1.58",
+    "Version": "1.1.58-1",
     "Description": "Open standard that provides a common set of APIs for developing XR applications",
     "Homepage": "https://www.khronos.org/openxr/"
   },
@@ -13351,13 +13351,13 @@
   },
   {
     "Package": "recoll",
-    "Version": "1.43.14",
+    "Version": "1.43.14-1",
     "Description": "Full-text search for your desktop",
     "Homepage": "https://www.recoll.org/"
   },
   {
     "Package": "recoll-python",
-    "Version": "1.43.14",
+    "Version": "1.43.14-1",
     "Description": "Python interface for Recoll",
     "Homepage": "https://www.recoll.org/"
   },
