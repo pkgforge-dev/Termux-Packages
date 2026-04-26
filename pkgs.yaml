@@ -111,7 +111,7 @@
   Description: A framework for sharing scene data that includes a C++ lib, a file format and client plugin
   Homepage: https://alembic.io
 - Package: algernon
-  Version: 1.17.5
+  Version: 1.17.6
   Description: Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support
   Homepage: https://algernon.roboticoverlords.org/
 - Package: alpine
@@ -459,7 +459,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.34.0
+  Version: 2.34.37
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -1259,7 +1259,7 @@
   Description: Dart is a general-purpose programming language
   Homepage: https://dart.dev/
 - Package: dasel
-  Version: 3.4.1
+  Version: 3.8.0
   Description: Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility
   Homepage: https://github.com/TomWright/dasel
 - Package: dash
@@ -6007,7 +6007,7 @@
   Description: video stabilization library
   Homepage: https://github.com/georgmartius/vid.stab
 - Package: libvigra
-  Version: 1.12.3
+  Version: 1.12.4
   Description: Computer vision library
   Homepage: https://ukoethe.github.io/vigra/
 - Package: libvips
@@ -6663,7 +6663,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.28.4
+  Version: 0.28.5
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://lux.lumen-labs.org
 - Package: lv2

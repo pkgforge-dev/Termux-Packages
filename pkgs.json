@@ -169,7 +169,7 @@
   },
   {
     "Package": "algernon",
-    "Version": "1.17.5",
+    "Version": "1.17.6",
     "Description": "Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support",
     "Homepage": "https://algernon.roboticoverlords.org/"
   },
@@ -691,7 +691,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.34.0",
+    "Version": "2.34.37",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -1891,7 +1891,7 @@
   },
   {
     "Package": "dasel",
-    "Version": "3.4.1",
+    "Version": "3.8.0",
     "Description": "Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility",
     "Homepage": "https://github.com/TomWright/dasel"
   },
@@ -9013,7 +9013,7 @@
   },
   {
     "Package": "libvigra",
-    "Version": "1.12.3",
+    "Version": "1.12.4",
     "Description": "Computer vision library",
     "Homepage": "https://ukoethe.github.io/vigra/"
   },
@@ -9997,7 +9997,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.28.4",
+    "Version": "0.28.5",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://lux.lumen-labs.org"
   },
