@@ -51,7 +51,7 @@
 | **angband** | 4.2.6 | Dungeon exploration adventure game | https://rephial.org/ |
 | **angle-android** | 2.1.24923-f09a19ce-2 | A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android | https://chromium.googlesource.com/angle/angle |
 | **angle-grinder** | 0.19.6-1 | Slice and dice logs on the command line | https://github.com/rcoh/angle-grinder |
-| **ani-cli** | 4.12 | A cli to browse and watch anime | https://github.com/pystardust/ani-cli |
+| **ani-cli** | 4.13 | A cli to browse and watch anime | https://github.com/pystardust/ani-cli |
 | **ansifilter** | 2.22 | Strip or convert ANSI codes into HTML, (La)Tex, RTF, or BBCode | http://www.andre-simon.de/doku/ansifilter/en/ansifilter.php |
 | **ant** | 1.10.17 | Java based build tool like make | https://ant.apache.org/ |
 | **antibody** | 6.1.1-3 | The fastest shell plugin manager | https://github.com/getantibody/antibody |
@@ -1781,7 +1781,7 @@
 | **mono-static** | 6.14.1-2 | Static libraries for mono | https://gitlab.winehq.org/mono/mono |
 | **monolith** | 2.10.1-1 | CLI tool for saving complete web pages as a single HTML file | https://github.com/Y2Z/monolith |
 | **moon-buggy** | 1.0.51-6 | Simple game where you drive a car across the moon's surface | https://github.com/seehuhn/moon-buggy |
-| **moor** | 2.12.1 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moor |
+| **moor** | 2.12.2 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moor |
 | **mop** | 2025.03.17-1 | Stock market tracker | https://github.com/mop-tracker/mop |
 | **moreutils** | 0.70-1 | A growing collection of the unix tools that nobody thought to write thirty years ago | https://joeyh.name/code/moreutils/ |
 | **moria** | 5.7.15-7 | Rogue-like game with an infinite dungeon | https://umoria.org |
