@@ -281,7 +281,7 @@
 | **colm** | 0.14.7-2 | COmputer Language Machinery | https://www.colm.net/open-source/colm/ |
 | **colm-static** | 0.14.7-2 | Static libraries for colm | https://www.colm.net/open-source/colm/ |
 | **colordiff** | 1.0.22 | Tool to colorize 'diff' output | https://www.colordiff.org/ |
-| **command-not-found** | 3.4.1-6 | Suggest installation of packages in interactive shell sessions | https://github.com/termux/command-not-found |
+| **command-not-found** | 3.4.1-7 | Suggest installation of packages in interactive shell sessions | https://github.com/termux/command-not-found |
 | **composer** | 2.9.7 | Dependency Manager for PHP | https://getcomposer.org/ |
 | **console-bridge** | 1.0.2-1 | A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages | https://github.com/ros/console_bridge |
 | **convertlit** | 1.8-2 | An extractor/converter for .LIT eBooks | http://www.convertlit.com/ |
@@ -525,7 +525,7 @@
 | **flatbuffers-static** | 25.12.19-2026-02-06-03fffb2-1 | Static libraries for flatbuffers | https://github.com/google/flatbuffers |
 | **flex** | 2.6.4-4 | Fast lexical analyser generator | https://github.com/westes/flex |
 | **flex-static** | 2.6.4-4 | Static libraries for flex | https://github.com/westes/flex |
-| **flint** | 3.4.0 | C library for doing number theory | http://www.flintlib.org |
+| **flint** | 3.5.0 | C library for doing number theory | http://www.flintlib.org |
 | **fluidsynth** | 2.5.4 | Software synthesizer based on the SoundFont 2 specifications | https://github.com/FluidSynth/fluidsynth |
 | **flyctl** | 0.4.40 | Command line tools for fly.io services | https://fly.io |
 | **fm** | 1.2.0 | A terminal based file manager | https://github.com/knipferrc/fm |

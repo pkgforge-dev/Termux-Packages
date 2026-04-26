@@ -1627,7 +1627,7 @@
   },
   {
     "Package": "command-not-found",
-    "Version": "3.4.1-6",
+    "Version": "3.4.1-7",
     "Description": "Suggest installation of packages in interactive shell sessions",
     "Homepage": "https://github.com/termux/command-not-found"
   },
@@ -3091,7 +3091,7 @@
   },
   {
     "Package": "flint",
-    "Version": "3.4.0",
+    "Version": "3.5.0",
     "Description": "C library for doing number theory",
     "Homepage": "http://www.flintlib.org"
   },
