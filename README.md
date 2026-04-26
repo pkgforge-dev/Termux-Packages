@@ -1,412 +1,413 @@
-- #### Automated every 2-3 Hrs from [Termux/Termux-Packages](https://github.com/termux/termux-packages)
-> The [Markdown README](https://github.com/Azathothas/Termux-Packages/blob/main/README.md) **may not render because of huge file size.** Please Visit: https://termux-packages.ajam.dev
-> - View [RAW](https://pub.ajam.dev/repos/Azathothas/Termux-Packages/pkgs.txt): https://pub.ajam.dev/repos/Azathothas/Termux-Packages/pkgs.txt
-> - View [JSON](https://github.com/Azathothas/Termux-Packages/blob/main/pkgs.json): https://github.com/Azathothas/Termux-Packages/blob/main/pkgs.json
-> - View [YAML](https://github.com/Azathothas/Termux-Packages/blob/main/pkgs.yaml): https://github.com/Azathothas/Termux-Packages/blob/main/pkgs.yaml
+- #### Automated every 2-3 Hrs from [Termux/Termux-Packages](https://github.com/aripitek/termux/termux-packages)
+> The [Markdown README](https://github.com/aripitek/Azathothas/Termux-Packages/blob/main/README.md) **may not render because of huge file size.** Please Visit: https://termux-packages.ajam.dev
+> - View [RAW](https://github.com/aripitek/pub.ajam.dev/repos/Azathothas/Termux-Packages/pkgs.txt): https://pub.ajam.dev/repos/Azathothas/Termux-Packages/pkgs.txt
+> - View [JSON](https://github.com/aripitek/Azathothas/Termux-Packages/blob/main/pkgs.json): https://github.com/Azathothas/Termux-Packages/blob/main/pkgs.json
+> - View [YAML](https://github.com/aripitek/Azathothas/Termux-Packages/blob/main/pkgs.yaml): https://github.com/aripitek/Azathothas/Termux-Packages/blob/main/pkgs.yaml
 > #### Why?
-> - I wanted an `easy to parse`, `automatable` metadata for termux packages I could [`compile/cross-compile statically`](https://bin.ajam.dev/) for [Azathothas/Toolpacks](https://github.com/Azathothas/Toolpacks).
-> - [More Details](https://github.com/Azathothas/Toolpacks/tree/main/Docs#why-not-many-android-binaries): https://github.com/Azathothas/Toolpacks/tree/main/Docs#why-not-many-android-binaries
+> - I wanted an `easy to parse`, `automatable` metadata for termux packages I could [`compile/cross-compile statically`](https://github.com/aripitek/bin.ajam.dev/) for [Azathothas/Toolpacks](https://github.com/aripitek/Azathothas/Toolpacks).
+> - [More Details](https://github.com/aripitek/Azathothas/Toolpacks/tree/main/Docs#why-not-many-android-binaries): https://github.com/aripitek/Azathothas/Toolpacks/tree/main/Docs#why-not-many-android-binaries
 
 ---
 |Package | Version | Description | Homepage |
 |--------|---------|-------------|----------|
-| **0verkill** | 1:0.16-1 | Bloody 2D action deathmatch-like game in ASCII-ART | https://github.com/hackndev/0verkill |
-| **2048-c** | 1:1.0.3-1 | Console version of the game '2048' for GNU/Linux | https://github.com/mevdschee/2048.c |
-| **2ping** | 4.5.1-5 | A bi-directional ping utility | https://www.finnie.org/software/2ping/ |
-| **6tunnel** | 0.14 | Allows you to use services provided by IPv6 hosts with IPv4-only applications and vice-versa | https://github.com/wojtekka/6tunnel |
+| **0verkill** | 1:0.16-1 | Bloody 2D action deathmatch-like game in ASCII-ART | https://github.com/aripitek/hackndev/0verkill |
+| **2048-c** | 1:1.0.3-1 | Console version of the gnome '2048' for GNU/Linux | https://github.com/aripitek/mevdschee/2048.c |
+| **2ping** | 4.5.1-5 | A bi-directional ping utility | https://github.com/aripitek/www.finnie.org/software/2ping/ |
+| **6tunnel** | 0.14 | Allows you to use services provided by IPv6 hosts with IPv4-only applications and vice-versa | https://github.com/aripitek/wojtekka/6tunnel |
 | **7zip** | 26.00 | 7-Zip file archiver with a high compression ratio | https://www.7-zip.org |
-| **8086tiny** | 1.25-5 | A PC XT-compatible emulator/virtual machine | https://github.com/adriancable/8086tiny |
-| **a52dec** | 0.8.0-3 | A test program for liba52 | http://liba52.sourceforge.net/ |
-| **aalib** | 1.4rc5-13 | A portable ASCII art graphic library | https://sourceforge.net/projects/aa-project/ |
-| **aalib-static** | 1.4rc5-13 | Static libraries for aalib | https://sourceforge.net/projects/aa-project/ |
-| **aapt** | 13.0.0.6-23 | Android Asset Packaging Tool | https://elinux.org/Android_aapt |
-| **aapt2** | 13.0.0.6-23 | AAPT2 (Android Asset Packaging Tool) | https://elinux.org/Android_aapt |
-| **abduco** | 0.6-4 | Clean and simple terminal session manager | https://www.brain-dump.org/projects/abduco/ |
-| **abook** | 0.6.2-1 | Abook is a text-based addressbook program designed to use with mutt mail client | http://abook.sourceforge.net/ |
-| **abootimg** | 0.6-3 | Pack or unpack android boot images | https://gitlab.com/ajs124/abootimg |
-| **abseil-cpp** | 20250814.1 | Abseil C++ Common Libraries | https://abseil.io/ |
-| **ack-grep** | 3.9.0-1 | Tool like grep optimized for programmers | https://beyondgrep.com/ |
-| **acr** | 2.2.6 | A fully compatible autoconf replacement | https://github.com/radareorg/acr |
-| **ada** | 3.4.4 | WHATWG-compliant and fast URL parser written in modern C++ | https://github.com/ada-url/ada |
-| **adms** | 2.3.7-1 | A code generator for the Verilog-AMS language | https://github.com/qucs/adms |
-| **aerc** | 0.21.0 | A pretty good email client | https://aerc-mail.org/ |
-| **agate** | 3.3.22 | Very simple server for the Gemini hypertext protocol | https://github.com/mbrubeck/agate |
-| **age** | 1:1.3.1 | A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability | https://github.com/FiloSottile/age |
-| **agg** | 1.7.0 | asciinema gif generator | https://github.com/asciinema/agg |
-| **aha** | 0.5.1-2 | Converts ANSI escape sequences of a unix terminal to HTML code | https://github.com/theZiz/aha |
-| **aichat** | 0.30.0-1 | A powerful chatgpt cli | https://github.com/sigoden/aichat |
-| **aidl** | 13.0.0.6-23 | Android Interface Definition Language (AIDL) | https://elinux.org/Android_aapt |
-| **alass** | 2.0.0-4 | Automatic Language-Agnostic Subtitle Synchronization | https://github.com/kaegi/alass |
-| **alembic** | 1.8.11 | A framework for sharing scene data that includes a C++ lib, a file format and client plugin | https://alembic.io |
-| **algernon** | 1.17.6 | Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support | https://algernon.roboticoverlords.org/ |
-| **alpine** | 2.26-1 | Fast, easy to use email client | http://alpine.x10host.com/ |
-| **alsa-lib** | 1.2.15.3 | The Advanced Linux Sound Architecture (ALSA) - library | https://www.alsa-project.org |
-| **alsa-plugins** | 1.2.12-1 | The Advanced Linux Sound Architecture (ALSA) - plugins | https://www.alsa-project.org |
-| **alsa-utils** | 1.2.15.2 | The Advanced Linux Sound Architecture (ALSA) - utils | https://www.alsa-project.org |
-| **alsa-utils-static** | 1.2.15.2 | Static libraries for alsa-utils | https://www.alsa-project.org |
+| **8086tiny** | 1.25-5 | A PC XT-compatible emulator/virtual machine | https://github.com/aripitek/adriancable/8086tiny |
+| **a52dec** | 0.8.0-3 | A test program for liba52 | http://github.com/aripitek/liba52.sourceforge.net/ |
+| **aalib** | 1.4rc5-13 | A portable ASCII art graphic library | https://github.com/aripitek/sourceforge.net/projects/aa-project/ |
+| **aalib-static** | 1.4rc5-13 | Static libraries for aalib | https://github.com/aripitek/sourceforge.net/projects/aa-project/ |
+| **aapt** | 13.0.0.6-23 | Android Asset Packaging Tool | https://github.com/aripiteklinux.org/Android_aapt |
+| **aapt2** | 13.0.0.6-23 | AAPT2 (Android Asset Packaging Tool) | https://github.com/aripitek/linux.org/Android_aapt |
+| **abduco** | 0.6-4 | Clean and simple terminal session manager | https://github.com/aripitek/www.termux.org/projects/abduco/ |
+| **abook** | 0.6.2-1 | Abook is a text-based addressbook program designed to use with mutt mail client | http://github.com/aripitek/abook.sourceforge.net/ |
+| **abootimg** | 0.6-3 | Pack or unpack android boot images | https://github.com/aripitek/gitlab.com/ajs124/abootimg |
+| **abseil-cpp** | 20250814.1 | Abseil C++ Common Libraries | https://github.com/aripitek/abseil.io/ |
+| **ack-grep** | 3.9.0-1 | Tool like grep optimized for programmers | https://github.com/aripitek/beyondgrep.com/ |
+| **acr** | 2.2.6 | A fully compatible autoconf replacement | https://github.com/aripitek/radareorg/acr |
+| **ada** | 3.4.4 | WHATWG-compliant and fast URL parser written in modern C++ | https://github.com/aripitek/ada-url/ada |
+| **adms** | 2.3.7-1 | A code generator for the Verilog-AMS language | https://github.com/aripitek/qucs/adms |
+| **aerc** | 0.21.0 | A pretty good email client | https://github.com/aripitek/aerc-mail.org/ |
+| **agate** | 3.3.22 | Very simple server for the Gemini hypertext protocol | https://github.com/aripitek/mbrubeck/agate |
+| **age** | 1:1.3.1 | A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability | https://github.com/aripitek/FiloSottile/age |
+| **agg** | 1.7.0 | asciinema gif generator | https://github.com/aripitek/asciinema/agg |
+| **aha** | 0.5.1-2 | Converts ANSI escape sequences of a unix terminal to HTML code | https://github.com/aripitek/theZiz/aha |
+| **aichat** | 0.30.0-1 | A powerful chatgpt cli | https://github.com/aripitek/sigoden/aichat |
+| **aidl** | 13.0.0.6-23 | Android Interface Definition Language (AIDL) | https://github.com/aripitek/linux.org/Android_aapt |
+| **alass** | 2.0.0-4 | Automatic Language-Agnostic Subtitle Synchronization | https://github.com/aripitek/kaegi/alass |
+| **alembic** | 1.8.11 | A framework for sharing scene data that includes a C++ lib, a file format and client plugin | https://github.com/aripitek/alembic.io |
+| **algernon** | 1.17.6 | Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support | https://github.com/aripitek/algernon.icoverlords.org/ |
+| **alpine** | 2.26-1 | Fast, easy to use email client | http://guthub.com/aripitek/alpine.x10host.com/ |
+| **alsa-lib** | 1.2.15.3 | The Advanced Linux Sound Architecture (ALSA) - library | https://github.com/aripitek/www.alsa-project.org |
+| **alsa-plugins** | 1.2.12-1 | The Advanced Linux Sound Architecture (ALSA) - plugins | https://github.com/aripitek/www.alsa-project.org |
+| **alsa-utils** | 1.2.15.2 | The Advanced Linux Sound Architecture (ALSA) - utils | https://github.com/aripitek/www.alsa-project.org |
+| **alsa-utils-static** | 1.2.15.2 | Static libraries for alsa-utils | https://github.com/aripitek/www.alsa-project.org |
 | **amber** | 0.6.1 | A code search / replace tool | https://github.com/dalance/amber |
-| **amfora** | 1.11.0-1 | Aims to be the best looking Gemini client | https://github.com/makew0rld/amfora |
-| **android-tools** | 35.0.2-7 | Android platform tools | https://developer.android.com/ |
-| **anewer** | 0.1.6-1 | Append lines from stdin to a file if these lines do not present in that file (aHash-based uniq) | https://github.com/ysf/anewer |
-| **angband** | 4.2.6 | Dungeon exploration adventure game | https://rephial.org/ |
-| **angle-android** | 2.1.24923-f09a19ce-2 | A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android | https://chromium.googlesource.com/angle/angle |
-| **angle-grinder** | 0.19.6-1 | Slice and dice logs on the command line | https://github.com/rcoh/angle-grinder |
-| **ani-cli** | 4.13 | A cli to browse and watch anime | https://github.com/pystardust/ani-cli |
-| **ansifilter** | 2.22 | Strip or convert ANSI codes into HTML, (La)Tex, RTF, or BBCode | http://www.andre-simon.de/doku/ansifilter/en/ansifilter.php |
-| **ant** | 1.10.17 | Java based build tool like make | https://ant.apache.org/ |
-| **antibody** | 6.1.1-3 | The fastest shell plugin manager | https://github.com/getantibody/antibody |
-| **antiword** | 0.37-4 | A free MS Word reader | https://en.m.wikipedia.org/wiki/Antiword |
-| **aom-tools** | 3.13.3 | Command-line tools using AOMedia library | https://aomedia.org/ |
-| **aosp-libs** | 9.0.0-r76-2 | bionic libc, libicuuc, liblzma, zlib, and boringssl for package builder and termux-docker | https://source.android.com/ |
-| **aosp-utils** | 9.0.0-r76-2 | AOSP-based mksh, toybox and iputils for termux-docker | https://source.android.com/ |
-| **apache-orc** | 2.3.0-1 | Columnar storage for Hadoop workloads | https://orc.apache.org/ |
-| **apache2** | 1:2.4.66 | Apache Web Server | https://httpd.apache.org |
-| **apkeep** | 0.18.0 | A command-line tool for downloading APK files from various sources | https://github.com/EFForg/apkeep |
-| **apksigner** | 33.0.1-1 | APK signing tool from Android SDK | https://developer.android.com/studio/command-line/apksigner |
-| **appstream** | 1.1.2 | Provides a standard for creating app stores across distributions | https://www.freedesktop.org/wiki/Distributions/AppStream/ |
-| **apr** | 1.7.6-2 | Apache Portable Runtime Library | https://apr.apache.org/ |
-| **apr-static** | 1.7.6-2 | Static libraries for apr | https://apr.apache.org/ |
-| **apr-util** | 1.6.3-3 | Apache Portable Runtime Utility Library | https://apr.apache.org/ |
-| **apr-util-static** | 1.6.3-3 | Static libraries for apr-util | https://apr.apache.org/ |
-| **apt** | 2.8.1-2 | Front-end for the dpkg package manager | https://packages.debian.org/apt |
-| **apt-file** | 3.3 | search for files within packages | https://wiki.debian.org/apt-file |
-| **apt-ftparchive** | 2.8.1-2 | apt-ftparchive is the command line tool that generates the index files that APT uses to access a distribution source | https://packages.debian.org/apt |
-| **apt-show-versions** | 0.22.16 | Lists available package versions with distribution | https://salsa.debian.org/debian/apt-show-versions |
-| **apt-transport-tor** | 2.8.1-2 | APT transport for anonymous package downloads via Tor | https://packages.debian.org/apt |
-| **aptly** | 1.6.2-1 | A Swiss Army knife for Debian repository management | https://www.aptly.info |
-| **argon2** | 20190702-2 | A password-hashing function (reference C implementation) | https://github.com/P-H-C/phc-winner-argon2 |
-| **argon2-static** | 20190702-2 | Static libraries for argon2 | https://github.com/P-H-C/phc-winner-argon2 |
-| **argp** | 1.5.0-1 | Standalone version of arguments parsing functions from GLIBC | https://github.com/argp-standalone/argp-standalone |
-| **argp-static** | 1.5.0-1 | Static libraries for argp | https://github.com/argp-standalone/argp-standalone |
-| **aria2** | 1.37.0-3 | Download utility supporting HTTP/HTTPS, FTP, BitTorrent and Metalink | https://aria2.github.io |
-| **arj** | 3.10.22-6 | Open-source version of arj archiver | https://arj.sourceforge.net/ |
-| **arpack-ng** | 2:3.9.1 | Collection of Fortran77 subroutines designed to solve large scale eigenvalue problems. | https://github.com/opencollab/arpack-ng |
-| **artalk** | 2.9.1-1 | A self-hosted comment system | https://artalk.js.org/ |
-| **arturo** | 0.9.83-1 | Simple, expressive & portable programming language for efficient scripting | https://arturo-lang.io |
-| **ascii** | 3.31 | List ASCII idiomatic names and octal/decimal code-point forms | http://www.catb.org/~esr/ascii/ |
-| **asciidoc** | 10.2.1-2 | Text document format for short documents, articles, books and UNIX man pages. | https://asciidoc.org |
-| **asciidoctor** | 2.0.26 | An implementation of AsciiDoc in Ruby | https://asciidoctor.org/ |
-| **asciinema** | 1:3.2.0 | Record and share your terminal sessions, the right way | https://asciinema.org/ |
-| **asm-lsp** | 0.10.1 | language server for NASM/GAS/GO assembly | https://github.com/bergercookie/asm-lsp |
-| **aspell** | 0.60.8.2 | A free and open source spell checker designed to replace Ispell | http://aspell.net |
-| **aspell-de** | 1:20161207.7.0 | German dictionary for aspell | http://aspell.net/ |
-| **aspell-en** | 1:2020.12.07 | English dictionary for aspell | http://aspell.net/ |
-| **aspell-es** | 2:1.11-2-0 | Spanish dictionary for aspell | http://aspell.net/ |
-| **aspell-fr** | 2:0.50-3-1 | French dictionary for aspell | http://aspell.net/ |
-| **aspell-static** | 0.60.8.2 | Static libraries for aspell | http://aspell.net |
-| **aspnetcore-runtime-10.0** | 10.0.7 | ASP.NET Core 10.0 Runtime | https://dotnet.microsoft.com/en-us/ |
-| **aspnetcore-runtime-8.0** | 8.0.26 | ASP.NET Core 8.0 Runtime | https://dotnet.microsoft.com/en-us/ |
-| **aspnetcore-runtime-9.0** | 9.0.15 | ASP.NET Core 9.0 Runtime | https://dotnet.microsoft.com/en-us/ |
-| **aspnetcore-runtime-dbg-10.0** | 10.0.7 | ASP.NET Core 10.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
-| **aspnetcore-runtime-dbg-8.0** | 8.0.26 | ASP.NET Core 8.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
-| **aspnetcore-runtime-dbg-9.0** | 9.0.15 | ASP.NET Core 9.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
-| **aspnetcore-targeting-pack-10.0** | 10.0.7 | ASP.NET Core 10.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
-| **aspnetcore-targeting-pack-8.0** | 8.0.26 | ASP.NET Core 8.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
-| **aspnetcore-targeting-pack-9.0** | 9.0.15 | ASP.NET Core 9.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
-| **assimp** | 6.0.4 | Library to import various well-known 3D model formats in an uniform manner | https://assimp.sourceforge.net/index.html |
-| **asymptote** | 3.10 | A powerful descriptive vector graphics language for technical drawing | https://asymptote.sourceforge.io/ |
-| **at** | 3.2.5-2 | AT and batch delayed command scheduling utility and daemon | https://salsa.debian.org/debian/at |
-| **at-spi2-core** | 2.60.2 | Assistive Technology Service Provider Interface (AT-SPI) | https://wiki.gnome.org/Accessibility |
-| **atomicparsley** | 1:20240608.083822.1ed9031-1 | Read, parse and set metadata of MPEG-4 and 3gp files | https://github.com/wez/atomicparsley |
-| **atomvm** | 1:0.6.6-1 | The minimal Erlang VM implementation | https://github.com/bettio/AtomVM |
-| **atool** | 0.39.0-2 | tool for managing file archives of various types | https://www.nongnu.org/atool |
-| **attr** | 2.5.2-1 | Utilities for manipulating filesystem extended attributes | http://savannah.nongnu.org/projects/attr/ |
-| **attr-static** | 2.5.2-1 | Static libraries for attr | http://savannah.nongnu.org/projects/attr/ |
-| **atuin** | 18.15.2 | Magical shell history | https://atuin.sh/ |
-| **aubio** | 0.4.9-7 | A library to label music and sounds | https://aubio.org/ |
-| **aubio-static** | 0.4.9-7 | Static libraries for aubio | https://aubio.org/ |
-| **audiofile** | 0.3.6 | Silicon Graphics Audio File Library | https://audiofile.68k.org/ |
-| **audiofile-static** | 0.3.6 | Static libraries for audiofile | https://audiofile.68k.org/ |
-| **autoconf** | 2.73 | Creator of shell scripts to configure source code packages | https://www.gnu.org/software/autoconf/autoconf.html |
-| **autoconf-archive** | 2024.10.16 | A collection of freely re-usable Autoconf macros | https://www.gnu.org/software/autoconf-archive/ |
-| **autojump** | 22.5.3-2 | A faster way to navigate your filesystem | https://github.com/wting/autojump |
-| **automake** | 1.18.1 | Tool for automatically generating Makefile.in files | https://www.gnu.org/software/automake/ |
-| **autossh** | 1.4g-4 | Automatically restart SSH sessions and tunnels | https://www.harding.motd.ca/autossh/ |
-| **aview** | 1.3.0rc1-6 | High quality ascii-art image browser and animation player | https://aa-project.sourceforge.net/aview/ |
-| **avra** | 1.4.2-1 | Assember for the Atmel AVR microcontroller family | https://github.com/Ro5bert/avra |
-| **await** | 2.4.0 | Runs list of commands in parallel and waits for their termination | https://github.com/slavaGanzin/await |
-| **awscli** | 2.34.37 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
-| **axel** | 2.17.14-1 | light command line download accelerator | https://github.com/axel-download-accelerator/axel |
-| **b3sum** | 1.8.5 | A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum | https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum |
-| **babl** | 0.1.126 | Dynamic pixel format translation library | https://gegl.org/babl/ |
-| **bacula-fd** | 15.0.3-1 | Bacula backup software | https://www.bacula.org |
-| **bacula-fd-static** | 15.0.3-1 | Static libraries for bacula-fd | https://www.bacula.org |
-| **barcode** | 0.99-5 | Tool to convert text strings to printed bars | https://www.gnu.org/software/barcode/ |
-| **base16384** | 2.3.2-1 | Encode binary to printable utf16be | https://github.com/fumiama/base16384 |
-| **bash** | 5.3.9 | A sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh) | https://www.gnu.org/software/bash/ |
-| **bash-completion** | 2.17.0-1 | Programmable completion for the bash shell | https://github.com/scop/bash-completion |
-| **bastet** | 0.43.2-13 | Tetris clone with 'bastard' block-choosing AI | http://fph.altervista.org/prog/bastet.html |
-| **bat** | 0.26.1 | A cat(1) clone with wings | https://github.com/sharkdp/bat |
-| **bc** | 1.08.2-1 | Arbitrary precision numeric processing language | https://www.gnu.org/software/bc/ |
-| **bc-gh** | 7.0.3-1 | Unix dc and POSIX bc with GNU and BSD extensions | https://git.gavinhoward.com/gavin/bc |
-| **bcal** | 2.5 | Command-line utility for storage conversions and calculations | https://github.com/jarun/bcal |
-| **bchunk** | 1.2.2 | Tool to convert .bin + .cue files to .iso files | http://he.fi/bchunk/ |
-| **bdsup2sub** | 4.0.1-1 | A subtitle conversion tool for image based stream formats | https://github.com/mjuhasz/BDSup2Sub |
-| **beanshell** | 2.1.1-1 | Small, free, embeddable, source level Java interpreter with object based scripting language features written in Java | https://github.com/beanshell/beanshell |
-| **bear** | 4.1.2 | Bear is a tool that generates a compilation database for clang tooling. | https://github.com/rizsotto/Bear |
-| **bed** | 0.2.8 | Binary editor written in GO | https://github.com/itchyny/bed |
-| **bftpd** | 6.6 | Small, easy-to-configure FTP server | https://bftpd.sourceforge.net/ |
-| **bgrep** | 1.0-5 | Binary string grep tool | https://debugmo.de/2009/04/bgrep-a-binary-grep/ |
-| **biboumi** | 9.0-5 | An XMPP gateway that connects to IRC servers and translates between the two protocols | https://biboumi.louiz.org/ |
-| **binaryen** | 129 | Binaryen is a compiler and toolchain infrastructure library for WebAssembly | https://github.com/WebAssembly/binaryen |
-| **binutils** | 2.46.0-3 | A GNU collection of binary utilities | https://www.gnu.org/software/binutils/ |
-| **binutils-cross** | 2.46.0-3 | GNU Binutils for cross build on the host (NOT for Termux) | https://www.gnu.org/software/binutils/ |
-| **binwalk** | 3.1.0 | An Binwalk firmware analysis tool. | https://github.com/ReFirmLabs/binwalk |
-| **biome2** | 2.4.13 | A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP | https://biomejs.dev/ |
-| **bison** | 3.8.2-4 | General-purpose parser generator | https://www.gnu.org/software/bison/ |
-| **bison-static** | 3.8.2-4 | Static libraries for bison | https://www.gnu.org/software/bison/ |
-| **bitcoin** | 31.0 | Bitcoin Core | https://bitcoincore.org/ |
-| **bitlbee** | 3.6-1-2 | An IRC to other chat networks gateway | https://www.bitlbee.org/ |
-| **bk** | 0.6.0-1 | A terminal EPUB reader | https://github.com/aeosynth/bk |
-| **blackbox** | 1:1.20220610 | Safely store secrets in Git/Mercurial/Subversion | https://github.com/StackExchange/blackbox |
-| **blas-openblas** | 0.3.33 | OpenBLAS symlinks for BLAS/CBLAS/LAPACK/LAPACKE | https://www.openblas.net |
-| **blink** | 1:1.1.0-1 | Tiny x86-64 Linux emulator | https://justine.lol/blinkenlights/ |
-| **blk-utils** | 2.41.3 | Utilities for handling block device attributes | https://en.wikipedia.org/wiki/Util-linux |
-| **blogc** | 0.20.1-1 | A blog compiler | https://blogc.rgm.io/ |
-| **blueprint-compiler** | 0.20.4 | Markup language for GTK user interfaces | https://gnome.pages.gitlab.gnome.org/blueprint-compiler/ |
-| **bmon** | 4.0-4 | Bandwidth monitor and rate estimator | https://github.com/tgraf/bmon |
-| **boinc** | 8.2.9 | Open-source software for volunteer computing | https://boinc.berkeley.edu/ |
-| **boinctui** | 2.7.2 | curses based manager for Boinc client | https://sourceforge.net/projects/boinctui/ |
-| **bombadillo** | 2.4.0-3 | A non-web client for the terminal, supporting Gopher, Gemini and much more | https://bombadillo.colorfield.space/ |
-| **boost** | 1:1.90.0-1 | Free peer-reviewed portable C++ source libraries | https://boost.org |
-| **boost-headers** | 1:1.90.0-1 | Boost header files | https://boost.org |
-| **boost-static** | 1:1.90.0-1 | Static libraries for boost | https://boost.org |
-| **bore** | 0.6.0-1 | Bore is a simple CLI tool for making tunnels to localhost | https://github.com/ekzhang/bore |
-| **borgbackup** | 1.4.4 | Deduplicating and compressing backup program | https://www.borgbackup.org/ |
-| **botan3** | 3.10.0-1 | Crypto and TLS for Modern C++ | https://botan.randombit.net/ |
-| **botan3-static** | 3.10.0-1 | Static libraries for botan3 | https://botan.randombit.net/ |
-| **boxes** | 2.3.1-1 | A command line filter program which draws ASCII art boxes around your input text | https://boxes.thomasjensen.com/ |
-| **brainfuck** | 1:2.7.3-1 | Brainfuck Interpreter written in C | https://github.com/fabianishere/brainfuck |
-| **brainfuck-static** | 1:2.7.3-1 | Static libraries for brainfuck | https://github.com/fabianishere/brainfuck |
-| **brogue** | 1.15.1 | Roguelike dungeon crawling game (community edition) | https://sites.google.com/site/broguegame/ |
-| **brook** | 20260101.0 | A cross-platform strong encryption and not detectable proxy. Zero-Configuration. | https://github.com/txthinking/brook |
-| **broot** | 1.56.2 | A better way to navigate directories | https://github.com/Canop/broot |
-| **brotli** | 1.2.0 | lossless compression algorithm and format (command line utility) | https://github.com/google/brotli |
-| **bsd-finger** | 0.17-3 | User information lookup program | https://packages.debian.org/sid/source/bsd-finger |
-| **bsd-games** | 1:3.3-1 | Classic text mode games from UNIX folklore | https://www.polyomino.org.uk/computer/software/bsd-games/ |
-| **bsdtar** | 3.8.7 | The tar(1) and cpio(1) programs from FreeBSD, using libarchive | https://www.libarchive.org/ |
-| **btfs2** | 4.1.0 | Decentralized file system integrating with TRON network and Bittorrent network | https://www.bittorrent.com/btfs/ |
-| **btrfs-progs** | 6.19.1 | Utilities for Btrfs filesystem | https://btrfs.readthedocs.io/en/latest/ |
-| **buf** | 1.68.4 | A new way of working with Protocol Buffers | https://buf.build |
-| **build-essential** | 4.1 | A metapackage that installs essential development tools | https://github.com/termux/termux-packages |
-| **busybox** | 1.37.0-3 | Tiny versions of many common UNIX utilities into a single small executable | https://busybox.net/ |
-| **bvi** | 1.5.0-1 | Binary file editor based on vi | https://bvi.sourceforge.net/ |
-| **byacc** | 20260126 | byacc is generally conceded to be the best yacc variant available | https://invisible-island.net/byacc/ |
-| **byobu** | 6.15 | Byobu is a GPLv3 open source text-based window manager and terminal multiplexer | https://www.byobu.org/ |
-| **bzip2** | 1.0.8-8 | Tools for working with bzip2 compression | http://www.bzip.org/ |
-| **c-ares** | 1.34.6 | Library for asynchronous DNS requests (including name resolves) | https://c-ares.org/ |
-| **c-toxcore** | 0.2.22 | Backend library for the Tox protocol | https://tox.chat |
-| **c-toxcore-static** | 0.2.22 | Static libraries for c-toxcore | https://tox.chat |
-| **ca-certificates** | 1:2026.03.19 | Common CA certificates | https://curl.se/docs/caextract.html |
-| **ca-certificates-java** | 1:2026.03.19 | Common CA certificates (java keystore format) | https://curl.se/docs/caextract.html |
-| **cabal-install** | 3.14.1.1-1 | The command-line interface for Haskell-Cabal and Hackage | https://www.haskell.org/cabal/ |
-| **cabextract** | 1.11-1 | A program to extract Microsoft cabinet (.CAB) files | https://www.cabextract.org.uk/ |
-| **cabin** | 0.13.0-1 | A package manager and build system for C++ | https://github.com/cabinpkg/cabin |
-| **cadaver** | 0.28 | A command-line WebDAV client for Unix | https://notroj.github.io/cadaver/ |
-| **caddy** | 2.11.2 | Fast, cross-platform HTTP/2 web server | https://caddyserver.com/ |
-| **calc** | 2.16.1.2 | Arbitrary precision console calculator | http://www.isthe.com/chongo/tech/comp/calc/ |
-| **calcurse** | 4.8.2-2 | calcurse is a calendar and scheduling application for the command line | https://calcurse.org/ |
-| **calcurse-caldav** | 4.8.2-2 | Sync calcurse with remote caldav calendar | https://calcurse.org/ |
-| **capnproto** | 1.4.0 | Data interchange format and capability-based RPC system | https://capnproto.org/ |
-| **capstone** | 5.0.7 | Lightweight multi-platform, multi-architecture disassembly framework | https://www.capstone-engine.org/ |
-| **capstone-static** | 5.0.7 | Static libraries for capstone | https://www.capstone-engine.org/ |
-| **carapace** | 1.6.4 | Multi-shell multi-command argument completer | https://carapace.sh/ |
-| **cargo-binstall** | 1.18.1 | Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem | https://github.com/cargo-bins/cargo-binstall |
-| **cargo-c** | 0.10.21 | Cargo C-ABI helpers | https://github.com/lu-zero/cargo-c |
-| **cargo-cache** | 0.8.3 | Tool to manage cargo cache | https://github.com/matthiaskrgr/cargo-cache |
-| **cargo-leptos** | 0.3.6 | Build tool for the Rust framework Leptos | https://github.com/leptos-rs/cargo-leptos |
-| **catdoc** | 0.95-2 | Program which reads MS-Word file and prints readable ASCII text to stdout | http://www.wagner.pp.ru/~vitus/software/catdoc/ |
-| **catgirl** | 2.2a-1 | A TLS-only terminal IRC client | https://git.causal.agency/catgirl |
-| **catimg** | 2.8.0 | Renders images in the terminal | https://posva.net/shell/retro/bash/2013/05/27/catimg |
-| **cava** | 0.10.7 | Console-based Audio Visualizer. Works with MPD and Pulseaudio | https://github.com/karlstav/cava |
-| **cavez-of-phear** | 0.6.2 | A Boulder Dash like game for consoles/terminals | https://github.com/AMDmi3/cavezofphear |
-| **cavif** | 1.5.6-1 | AVIF image creator in pure Rust | https://lib.rs/cavif |
-| **cboard** | 0.7.5-5 | PGN browser, editor and chess engine frontend | https://benkibbey.wordpress.com/cboard/ |
-| **cbonsai** | 1.4.2-1 | Grow bonsai trees in your terminal | https://gitlab.com/jallbrit/cbonsai |
-| **cc65** | 2.19-1 | A free compiler for 6502 based system | https://cc65.github.io/ |
-| **ccache** | 4.13.4 | Compiler cache for fast recompilation of C/C++ code | https://ccache.samba.org |
-| **cccc** | 3.2.0-1 | Source code counter and metrics tool for C++, C, and Java | https://sarnold.github.io/cccc/ |
-| **ccextractor** | 0.94-6 | A tool used to produce subtitles for TV recordings | https://ccextractor.org/ |
-| **ccls** | 0.20250815.1 | C/C++/ObjC language server | https://github.com/MaskRay/ccls |
-| **ccrypt** | 1.11-1 | Secure encryption and decryption of files and streams utility | https://ccrypt.sourceforge.net/ |
-| **cec-client** | 7.1.1-1 | Client applications for libCEC | https://libcec.pulse-eight.com/ |
-| **cfengine** | 1:3.25.0-2 | CFEngine is a configuration management technology | https://cfengine.com/ |
-| **cfengine-static** | 1:3.25.0-2 | Static libraries for cfengine | https://cfengine.com/ |
-| **cfm** | 1.2.0-3 | A basic file manager that runs inside a terminal, designed for Linux. It's fully responsive and incredibly fast. | https://github.com/0l1v3rr/cli-file-manager |
-| **cgal** | 6.1.1 | Computational Geometry Algorithms Library | https://www.cgal.org/ |
-| **cgdb** | 0.8.0-1 | A lightweight curses (terminal-based) interface to the GNU Debugger (GDB) | https://cgdb.github.io/ |
-| **cgif** | 0.5.3 | A fast and lightweight GIF encoding library | https://github.com/dloebl/cgif |
-| **chafa** | 1.18.1-2 | Image-to-text converter supporting a wide range of symbols, etc. | https://hpjansson.org/chafa/ |
-| **chafa-static** | 1.18.1-2 | Static libraries for chafa | https://hpjansson.org/chafa/ |
-| **check** | 0.15.2-3 | A unit testing framework for C | https://libcheck.github.io/check |
-| **check-static** | 0.15.2-3 | Static libraries for check | https://libcheck.github.io/check |
-| **chezmoi** | 2.70.2 | Manage your dotfiles across multiple machines | https://chezmoi.io |
-| **chicken** | 5.4.0-2 | A feature rich Scheme compiler and interpreter | https://www.call-cc.org |
-| **chicken-static** | 5.4.0-2 | Static libraries for chicken | https://www.call-cc.org |
-| **chntpw** | 140201 | Offline Windows NT Password & Registry Editor | https://pogostick.net/~pnh/ntpasswd/ |
-| **choose** | 1.3.7 | A human-friendly and fast alternative to cut and (sometimes) awk | https://github.com/theryangeary/choose |
-| **chromaprint** | 1.6.0-1 | C library for generating audio fingerprints used by AcoustID (fpcalc tool) | https://acoustid.org/chromaprint |
-| **chrony** | 4.8 | chrony is an implementation of the Network Time Protocol (NTP) | https://chrony-project.org/ |
-| **cicada** | 1.2.2 | A bash like Unix shell | https://github.com/mitnk/cicada |
-| **ciso** | 1.0.2-2 | PSP ISO compression tool | https://github.com/jamie/ciso |
-| **cjson** | 1.7.19 | Ultralightweight JSON parser in ANSI C | https://github.com/DaveGamble/cJSON |
-| **ckermit** | 9.0.302-3 | A combined network and serial communication software package | https://www.kermitproject.org/ckermit.html |
-| **clamav** | 1.5.2 | Anti-virus toolkit for Unix | https://www.clamav.net/ |
-| **clamav-static** | 1.5.2 | Static libraries for clamav | https://www.clamav.net/ |
-| **clang** | 21.1.8-2 | C language frontend for LLVM | https://clang.llvm.org/ |
-| **clblast** | 1.7.0 | Tuned OpenCL BLAS | https://github.com/CNugteren/CLBlast |
-| **clidle** | 2022.05.25-3 | Play Wordle over SSH | https://github.com/ajeetdsouza/clidle |
-| **clifm** | 1.27.1 | The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell | https://github.com/leo-arch/clifm |
-| **clinfo** | 3.0.25.02.14-1 | Print all known information about all available OpenCL platforms and devices in the system | https://github.com/Oblomov/clinfo |
-| **clipp** | 1.2.3-1 | Command line interfaces for modern C++ | https://github.com/muellan/clipp |
-| **cloneit** | 20240728-1 | A cli tool to download specific GitHub directories or files | https://github.com/alok8bb/cloneit |
-| **cloudflared** | 2026.3.0 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
-| **clpeak** | 1.1.5 | A tool which profiles OpenCL devices to find their peak capacities | https://github.com/krrishnarraj/clpeak |
-| **clvk** | 0.0.20260417.111654 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
-| **cmake** | 4.3.2-1 | Family of tools designed to build, test and package software | https://cmake.org/ |
-| **cmake-curses-gui** | 4.3.2-1 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
-| **cmark** | 0.31.2 | CommonMark parsing and rendering program | https://github.com/commonmark/cmark |
-| **cmark-static** | 0.31.2 | Static libraries for cmark | https://github.com/commonmark/cmark |
-| **cmatrix** | 2.0-1 | Command producing a Matrix-style animation | https://github.com/abishekvashok/cmatrix |
-| **cmocka** | 2.0.2 | cmocka is an unit testing framework for C | https://cmocka.org/ |
-| **cmus** | 2.12.0-7 | Small, fast and powerful console music player | https://cmus.github.io/ |
-| **cmusfm** | 0.5.0-1 | Last.fm standalone scrobbler for the cmus music player | https://github.com/Arkq/cmusfm |
-| **codecrypt** | 1.8-10 | The post-quantum cryptography tool | http://e-x-a.org/codecrypt/ |
-| **codon** | 0.19.6 | A high-performance, zero-overhead, extensible Python compiler using LLVM | https://github.com/exaloop/codon |
-| **coinor-cbc** | 2.10.13 | An open-source mixed integer linear programming solver | https://github.com/coin-or/Cbc |
-| **coinor-cbc-static** | 2.10.13 | Static libraries for coinor-cbc | https://github.com/coin-or/Cbc |
-| **coinor-clp** | 1:1.17.11 | An open-source linear programming solver | https://github.com/coin-or/Clp |
-| **coinor-clp-static** | 1:1.17.11 | Static libraries for coinor-clp | https://github.com/coin-or/Clp |
-| **cointop** | 1.6.10-3 | A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies | https://cointop.sh/ |
-| **colm** | 0.14.7-2 | COmputer Language Machinery | https://www.colm.net/open-source/colm/ |
-| **colm-static** | 0.14.7-2 | Static libraries for colm | https://www.colm.net/open-source/colm/ |
-| **colordiff** | 1.0.22 | Tool to colorize 'diff' output | https://www.colordiff.org/ |
-| **command-not-found** | 3.4.1-7 | Suggest installation of packages in interactive shell sessions | https://github.com/termux/command-not-found |
-| **composer** | 2.9.7 | Dependency Manager for PHP | https://getcomposer.org/ |
-| **console-bridge** | 1.0.2-1 | A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages | https://github.com/ros/console_bridge |
-| **convertlit** | 1.8-2 | An extractor/converter for .LIT eBooks | http://www.convertlit.com/ |
-| **cookcli** | 0.29.1 | A suite of tools to create shopping lists and maintain food recipes | https://cooklang.org |
-| **coreutils** | 9.10-1 | Basic file, shell and text manipulation utilities from the GNU project | https://www.gnu.org/software/coreutils/ |
-| **corgi** | 0.2.4-6 | CLI workflow manager | https://github.com/DrakeW/corgi |
-| **corkscrew** | 2.0-4 | A tool for tunneling SSH through HTTP proxies | https://wiki.linuxquestions.org/wiki/Corkscrew |
-| **corrosion** | 0.6.1 | Tool for integrating Rust into an existing CMake project | https://github.com/corrosion-rs/corrosion |
-| **cowsay** | 3.8.4 | Program which generates ASCII pictures of a cow with a message | https://cowsay.diamonds/ |
-| **cpio** | 2.15-1 | CPIO implementation from the GNU project | https://www.gnu.org/software/cpio/ |
-| **cppcheck** | 2.20.1 | tool for static C/C++ code analysis | https://github.com/danmar/cppcheck |
-| **cppi** | 1.18-2 | Indents C preprocessor directives to reflect their nesting, among other regularizations | https://www.gnu.org/software/cppi/ |
-| **cppunit** | 1.15.1-2 | A C++ unit testing framework | https://www.freedesktop.org/wiki/Software/cppunit |
-| **cppunit-static** | 1.15.1-2 | Static libraries for cppunit | https://www.freedesktop.org/wiki/Software/cppunit |
-| **cpufetch** | 1.07-1 | Simple yet fancy CPU architecture fetching tool | https://github.com/Dr-Noob/cpufetch |
-| **cpulimit** | 0.2-2 | CPU usage limiter | https://github.com/opsengine/cpulimit |
-| **crawl** | 0.34.1 | Roguelike adventure through dungeons filled with dangerous monsters | https://crawl.develz.org/ |
-| **croc** | 1:10.4.2 | Easily and securely send things from one computer to another | https://github.com/schollz/croc |
-| **cronie** | 1.7.2-4 | Daemon that runs specified programs at scheduled times and related tools | https://github.com/cronie-crond/cronie/ |
-| **crowbook** | 0.17.0-1 | Allows you to write a book in Markdown without worrying about formatting or typography | https://github.com/crowdagger/crowbook |
-| **crunch** | 3.6-5 | Highly customizable wordlist generator | https://sourceforge.net/projects/crunch-wordlist/ |
-| **cryptopp** | 8.9.0-1 | A free C++ class library of cryptographic schemes | https://www.cryptopp.com/ |
-| **cryptopp-static** | 8.9.0-1 | Static libraries for cryptopp | https://www.cryptopp.com/ |
-| **cscope** | 15.9-2 | A developers tool for browsing program code | https://cscope.sourceforge.net/ |
-| **csh** | 20110502-1 | C Shell with process control from 3BSD | https://packages.debian.org/sid/csh |
-| **csol** | 1.6.0-1 | A small collection of solitaire games implemented in C using ncurses | https://github.com/nielssp/csol |
-| **csview** | 1.3.4-1 | Pretty-printing CSV/TSV/xSV on terminal | https://github.com/wfxr/csview |
-| **ctags** | 2:6.2.1 | Universal ctags: Source code index builder | https://ctags.io/ |
-| **ctypes-sh** | 1.2-2 | A foreign function interface for bash | https://github.com/taviso/ctypes.sh |
-| **cuetools** | 1.4.1-1 | A set of utilities for working with Cue Sheet (cue) and Table of Contents (toc) files | https://github.com/svend/cuetools |
-| **cups** | 2.4.18 | Common UNIX Printing System | https://www.cups.org/ |
-| **cups-pdf** | 3.0.1-3 | CUPS PDF backend | https://www.cups-pdf.de/ |
-| **cups-static** | 2.4.18 | Static libraries for cups | https://www.cups.org/ |
-| **curl** | 8.19.0 | Command line tool for transferring data with URL syntax | https://curl.se/ |
-| **curlie** | 1.8.2 | The power of curl, the ease of use of httpie | https://curlie.io/ |
-| **curseofwar** | 1.3.0-5 | Fast-paced action strategy game focusing on high-level strategic planning | http://a-nikolaev.github.io/curseofwar/ |
-| **cvs** | 1:1.12.13-5 | Concurrent Versions System | https://www.nongnu.org/cvs/ |
-| **d8** | 33.0.1-1 | DEX bytecode compiler from Android SDK | https://developer.android.com/studio/command-line/d8 |
-| **daemonize** | 1.7.8-3 | Run a command as a Unix daemon | http://software.clapper.org/daemonize/ |
-| **dar** | 2.8.4 | A full featured command-line backup tool, short for Disk ARchive | http://dar.linux.free.fr/ |
-| **dar-static** | 2.8.4 | Static libraries for dar | http://dar.linux.free.fr/ |
-| **darkhttpd** | 1.17-1 | A simple webserver, implemented in a single .c file. | https://unix4lyfe.org/darkhttpd |
-| **dart** | 3.11.5 | Dart is a general-purpose programming language | https://dart.dev/ |
-| **dasel** | 3.8.0 | Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility | https://github.com/TomWright/dasel |
-| **dash** | 0.5.12-2 | Small POSIX-compliant implementation of /bin/sh | http://gondor.apana.org.au/~herbert/dash/ |
+| **amfora** | 1.11.0-1 | Aims to be the best looking Gemini client | https://github.com/aripitek/makew0rld/amfora |
+| **android-tools** | 35.0.2-7 | Android platform tools | https://github.com/aripitek/developer.android.com/ |
+| **anewer** | 0.1.6-1 | Append lines from stdin to a file if these lines do not present in that file (aHash-based uniq) | https://github.com/aripitek/ysf/anewer |
+| **angband** | 4.2.6 | exploration adventure | https://github.com/aripitek/rephial.org/ |
+| **angle-android** | 2.1.24923-f09a19ce-2 | A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android | https://github.com/aripitek/chromium.googlesource.com/angle/angle |
+| **angle-grinder** | 0.19.6-1 | Slice and dice logs on the command line | https://github.com/aripitek/rcoh/angle-grinder |
+| **ani-cli** | 4.13 | A cli to browse and watch anime | https://github.com/aripitek/pystardust/ani-cli |
+| **ansifilter** | 2.22 | Strip or convert ANSI codes into HTML, (La)Tex, RTF, or BBCode | http://github.com/aripitek/www.andre-simon.de/doku/ansifilter/en/ansifilter.php |
+| **ant** | 1.10.17 | Java based build tool like make | https://github.com/aripitek/ant.apache.org/ |
+| **antibody** | 6.1.1-3 | The fastest shell plugin manager | https://github.com/aripitek/getantibody/antibody |
+| **antiword** | 0.37-4 | A free MS Word reader | https://github.com/aripitek/en.m.wikipedia.org/wiki/Antiword |
+| **aom-tools** | 3.13.3 | Command-line tools using AOMedia library | https://github.com/aripitek/aomedia.org/ |
+| **aosp-libs** | 9.0.0-r76-2 | bionic libc, libicuuc, liblzma, zlib, and boringssl for package builder and termux-docker | https://github.com/aripitek/source.android.com/ |
+| **aosp-utils** | 9.0.0-r76-2 | AOSP-based mksh, box and iputils for termux-docker | https://github.com/aripitek/source.android.com/ |
+| **apache-orc** | 2.3.0-1 | Columnar storage for Hadoop workloads | https://github.com/aripitek/orc.apache.org/ |
+| **apache2** | 1:2.4.66 | Apache Web Server | https://github.com/aripitek/httpd.apache.org |
+| **apkeep** | 0.18.0 | A command-line tool for downloading APK files from various sources | https://github.com/aripitek/EFForg/apkeep |
+| **apksigner** | 33.0.1-1 | APK signing tool from Android SDK | https://github.com/aripitek/developer.android.com/studio/command-line/apksigner |
+| **appstream** | 1.1.2 | Provides a standard for creating app stores across distributions | https://github.com/aripitek/www.freedesktop.org/wiki/Distributions/AppStream/ |
+| **apr** | 1.7.6-2 | Apache Portable Runtime Library | https://github.com/aripitek/apr.apache.org/ |
+| **apr-static** | 1.7.6-2 | Static libraries for apr | https://github.com/aripitek/apr.apache.org/ |
+| **apr-util** | 1.6.3-3 | Apache Portable Runtime Utility Library | https://github.com/aripitek/apr.apache.org/ |
+| **apr-util-static** | 1.6.3-3 | Static libraries for apr-util | https://github.com/aripitek/apr.apache.org/ |
+| **apt** | 2.8.1-2 | Front-end for the dpkg package manager | https://github.com/aripitek/packages.debian.org/apt |
+| **apt-file** | 3.3 | search for files within packages | https://github.com/aripitek/wiki.debian.org/apt-file |
+| **apt-ftparchive** | 2.8.1-2 | apt-ftparchive is the command line tool that generates the index files that APT uses to access a distribution source | https://github.com/aripitek/packages.debian.org/apt |
+| **apt-show-versions** | 0.22.16 | Lists available package versions with distribution | https://github.com/aripitek/salsa.debian.org/debian/apt-show-versions |
+| **apt-transport-tor** | 2.8.1-2 | APT transport for anonymous package downloads via Tor | https://github.com/aripitek/packages.debian.org/apt |
+| **aptly** | 1.6.2-1 | A Swiss Army knife for Debian repository management | https://github.com/aripitek/www.aptly.info |
+| **argon2** | 20190702-2 | A password-hashing function (reference C implementation) | https://github.com/aripitek/P-H-C/phc-winner-argon2 |
+| **argon2-static** | 20190702-2 | Static libraries for argon2 | https://github.com/aripitek/P-H-C/phc-winner-argon2 |
+| **argp** | 1.5.0-1 | Standalone version of arguments parsing functions from GLIBC | https://github.com/aripitek/argp-standalone/argp-standalone |
+| **argp-static** | 1.5.0-1 | Static libraries for argp | https://github.com/aripitek/argp-standalone/argp-standalone |
+| **aria2** | 1.37.0-3 | Download utility supporting HTTP/HTTPS, FTP, BitTorrent and Metalink | https://github.com/aripitek/aria2.github.io |
+| **arj** | 3.10.22-6 | Open-source version of arj archiver | https://github.com/aripitek/arj.sourceforge.net/ |
+| **arpack-ng** | 2:3.9.1 | Collection of Fortran77 subroutines designed to solve large scale eigenvalue problems. | https://github.com/aripitek/opencollab/arpack-ng |
+| **artalk** | 2.9.1-1 | A self-hosted comment system | https://github.com/aripitek/artalk.js.org/ |
+| **arturo** | 0.9.83-1 | Simple, expressive & portable programming language for efficient scripting | https://github.com/aripitek/arturo-lang.io |
+| **ascii** | 3.31 | List ASCII idiomatic names and octal/decimal code-point forms | http://github.com/aripitek/www.catb.org/~esr/ascii/ |
+| **asciidoc** | 10.2.1-2 | Text document format for short documents, articles, books and UNIX man pages. | https://github.com/aripitek/asciidoc.org |
+| **asciidoctor** | 2.0.26 | An implementation of AsciiDoc in Ruby | https://github.com/aripitek/asciidoctor.org/ |
+| **asciinema** | 1:3.2.0 | Record and share your terminal sessions, the right way | https://github.com/aripitek/asciinema.org/ |
+| **asm-lsp** | 0.10.1 | language server for NASM/GAS/GO assembly | https://github.com/aripitek/bergercookie/asm-lsp |
+| **aspell** | 0.60.8.2 | A free and open source spell checker designed to replace Ispell | http://github.com/aripitek/aspell.net |
+| **aspell-de** | 1:20161207.7.0 | German dictionary for aspell | http://github.com/aripitek/aspell.net/ |
+| **aspell-en** | 1:2020.12.07 | English dictionary for aspell | http://github.com/aripitek/aspell.net/ |
+| **aspell-es** | 2:1.11-2-0 | Spanish dictionary for aspell | http://github.com/aripitek/aspell.net/ |
+| **aspell-fr** | 2:0.50-3-1 | French dictionary for aspell | http://github.com/aripitek/aspell.net/ |
+| **aspell-static** | 0.60.8.2 | Static libraries for aspell | http://github.com/aripitek/aspell.net |
+| **aspnetcore-runtime-10.0** | 10.0.7 | ASP.NET Core 10.0 Runtime | https://github.com/aripitek/dotnet.microsoft.com/en-us/ |
+| **aspnetcore-runtime-8.0** | 8.0.26 | ASP.NET Core 8.0 Runtime | https://github.com/aripitek/dotnet.microsoft.com/en-us/ |
+| **aspnetcore-runtime-9.0** | 9.0.15 | ASP.NET Core 9.0 Runtime | https://github.com/aripitek/dotnet.microsoft.com/en-us/ |
+| **aspnetcore-runtime-dbg-10.0** | 10.0.7 | ASP.NET Core 10.0 Runtime Managed Debug Symbols | https://github.com/aripitek/dotnet.microsoft.com/en-us/ |
+| **aspnetcore-runtime-dbg-8.0** | 8.0.26 | ASP.NET Core 8.0 Runtime Managed Debug Symbols | https://github.com/aripitek/dotnet.microsoft.com/en-us/ |
+| **aspnetcore-runtime-dbg-9.0** | 9.0.15 | ASP.NET Core 9.0 Runtime Managed Debug Symbols | https://github.com/aripitek/dotnet.microsoft.com/en-us/ |
+| **aspnetcore-targeting-pack-10.0** | 10.0.7 | ASP.NET Core 10.0 Targeting Pack | https://github.com/aripitek/dotnet.microsoft.com/en-us/ |
+| **aspnetcore-targeting-pack-8.0** | 8.0.26 | ASP.NET Core 8.0 Targeting Pack | https://github.com/aripitek/dotnet.microsoft.com/en-us/ |
+| **aspnetcore-targeting-pack-9.0** | 9.0.15 | ASP.NET Core 9.0 Targeting Pack | https://github.com/aripitek/dotnet.microsoft.com/en-us/ |
+| **assimp** | 6.0.4 | Library to import various well-known 3D model formats in an uniform manner | https://github.com/aripitek/assimp.sourceforge.net/index.html |
+| **asymptote** | 3.10 | A powerful descriptive vector graphics language for technical drawing | https://github.com/aripitek/asymptote.sourceforge.io/ |
+| **at** | 3.2.5-2 | AT and batch delayed command scheduling utility and daemon | https://github.com/aripitek/salsa.debian.org/debian/at |
+| **at-spi2-core** | 2.60.2 | Assistive Technology Service Provider Interface (AT-SPI) | https://github.com/aripitek/wiki.gnome.org/Accessibility |
+| **atomicparsley** | 1:20240608.083822.1ed9031-1 | Read, parse and set metadata of MPEG-4 and 3gp files | https://github.com/aripitek/wez/atomicparsley |
+| **atomvm** | 1:0.6.6-1 | The minimal Erlang VM implementation | https://github.com/aripitek/bettio/AtomVM |
+| **atool** | 0.39.0-2 | tool for managing file archives of various types | https://github.com/aripitek/www.gnu.org/atool |
+| **attr** | 2.5.2-1 | Utilities for manipulating filesystem extended attributes | http://github.com/aripitek/savannah.nongnu.org/projects/attr/ |
+| **attr-static** | 2.5.2-1 | Static libraries for attr | http://github.com/aripitek/savannah.nongnu.org/projects/attr/ |
+| **atuin** | 18.15.2 | Magical shell history | https://github.com/aripitek/atuin.sh/ |
+| **aubio** | 0.4.9-7 | A library to label music and sounds | https://github.com/aripitek/aubio.org/ |
+| **aubio-static** | 0.4.9-7 | Static libraries for aubio | https://github.com/aripitek/aubio.org/ |
+| **audiofile** | 0.3.6 | Silicon Graphics Audio File Library | https://github.com/aripitek/audiofile.68k.org/ |
+| **audiofile-static** | 0.3.6 | Static libraries for audiofile | https://github.com/aripitek/audiofile.68k.org/ |
+| **autoconf** | 2.73 | Creator of shell scripts to configure source code packages | https://github.com/aripitek/www.gnu.org/software/autoconf/autoconf.html |
+| **autoconf-archive** | 2024.10.16 | A collection of freely re-usable Autoconf macros | https://github.com/aripitek/www.gnu.org/software/autoconf-archive/ |
+| **autojump** | 22.5.3-2 | A faster way to navigate your filesystem | https://github.com/aripitek/wting/autojump |
+| **automake** | 1.18.1 | Tool for automatically generating Makefile.in files | https://github.com/aripitek/www.gnu.org/software/automake/ |
+| **autossh** | 1.4g-4 | Automatically restart SSH sessions and tunnels | https://github.com/aripitek/www.harding.motd.ca/autossh/ |
+| **aview** | 1.3.0rc1-6 | High quality ascii-art image browser and animation player | https://github.com/aripitek/aa-project.sourceforge.net/aview/ |
+| **avra** | 1.4.2-1 | Assember for the Atmel AVR microcontroller family | https://github.com/aripitek/Ro5bert/avra |
+| **await** | 2.4.0 | Runs list of commands in parallel and waits for their termination | https://github.com/aripitek/slavaGanzin/await |
+| **awscli** | 2.34.37 | Universal Command Line Interface for Amazon Web Services | https://github.com/aripitek/aws.amazon.com/cli |
+| **axel** | 2.17.14-1 | light command line download accelerator | https://github.com/aripitek/axel-download-accelerator/axel |
+| **b3sum** | 1.8.5 | A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum | https://github.com/aripitek/BLAKE3-team/BLAKE3/tree/master/b3sum |
+| **babl** | 0.1.126 | Dynamic pixel format translation library | https://github.com/aripitek/gegl.org/babl/ |
+| **bacula-fd** | 15.0.3-1 | Bacula backup software | https://github.com/aripitek/www.bacula.org |
+| **bacula-fd-static** | 15.0.3-1 | Static libraries for bacula-fd | https://github.com/aripitek/www.bacula.org |
+| **barcode** | 0.99-5 | Tool to convert text strings to printed bars | https://github.com/aripitek/www.gnu.org/software/barcode/ |
+| **base16384** | 2.3.2-1 | Encode binary to printable utf16be | https://github.com/aripitek/fumiama/base16384 |
+| **bash** | 5.3.9 | A sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh) | https://github.com/aripitek/www.gnu.org/software/bash/ |
+| **bash-completion** | 2.17.0-1 | Programmable completion for the bash shell | https://github.com/aripitek/scop/bash-completion |
+| **bastet** | 0.43.2-13 | Tetris clone with 'bastard' block-choosing AI | http://github.com/aripitek/fph.altervista.org/prog/bastet.html |
+| **bat** | 0.26.1 | A cat(1) clone with wings | https://github.com/aripitek/sharkdp/bat |
+| **bc** | 1.08.2-1 | Arbitrary precision numeric processing language | https://github.com/aripitek/www.gnu.org/software/bc/ |
+| **bc-gh** | 7.0.3-1 | Unix dc and POSIX bc with GNU and BSD extensions | https://github.com/aripitek/git.gavinhoward.com/gavin/bc |
+| **bcal** | 2.5 | Command-line utility for storage conversions and calculations | https://github.com/aripitek/jarun/bcal |
+| **bchunk** | 1.2.2 | Tool to convert .bin + .cue files to .iso files | http://github.com/aripitek/he.fi/bchunk/ |
+| **bdsup2sub** | 4.0.1-1 | A subtitle conversion tool for image based stream formats | https://github.com/aripitek/mjuhasz/BDSup2Sub |
+| **beanshell** | 2.1.1-1 | Small, free, embeddable, source level Java interpreter with object based scripting language features written in Java | https://github.com/aripitek/beanshell/beanshell |
+| **bear** | 4.1.2 | Bear is a tool that generates a compilation database for clang tooling. | https://github.com/aripitek/rizsotto/Bear |
+| **bed** | 0.2.8 | Binary editor written in GO | https://github.com/aripitek/itchyny/bed |
+| **bftpd** | 6.6 | Small, easy-to-configure FTP server | https://github.com/aripitek/bftpd.sourceforge.net/ |
+| **bgrep** | 1.0-5 | Binary string grep tool | https://github
+clm/aripitek/debugmo.de/2009/04/bgrep-a-binary-grep/ |
+| **biboumi** | 9.0-5 | An XMPP gateway that connects to IRC servers and translates between the two protocols | https://github.com/aripitek/biboumi.louiz.org/ |
+| **binaryen** | 129 | Binaryen is a compiler and toolchain infrastructure library for WebAssembly | https://github.com/aripitek/WebAssembly/binaryen |
+| **binutils** | 2.46.0-3 | A GNU collection of binary utilities | https://github.com/aripitek/www.gnu.org/software/binutils/ |
+| **binutils-cross** | 2.46.0-3 | GNU Binutils for cross build on the host (NOT for Termux) | https://github.com/aripitek/www.gnu.org/software/binutils/ |
+| **binwalk** | 3.1.0 | An Binwalk firmware analysis tool. | https://github.com/aripitek/ReFirmLabs/binwalk |
+| **biome2** | 2.4.13 | A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP | https://github.com/aripitek/biomejs.dev/ |
+| **bison** | 3.8.2-4 | General-purpose parser generator | https://github.com/aripitek/www.gnu.org/software/bison/ |
+| **bison-static** | 3.8.2-4 | Static libraries for bison | https://github.com/aripitek/www.gnu.org/software/bison/ |
+| **bitcoin** | 31.0 | Bitcoin Core | https://github.com/aripitek/bitcoincore.org/ |
+| **bitlbee** | 3.6-1-2 | An IRC to other chat networks gateway | https://github.com/aripitek/www.bitlbee.org/ |
+| **bk** | 0.6.0-1 | A terminal EPUB reader | https://github.com/aripitek/aeosynth/bk |
+| **blackbox** | 1:1.20220610 | Safely store secrets in Git/Mercurial/Subversion | https://github.com/aripitek/StackExchange/blackbox |
+| **blas-openblas** | 0.3.33 | OpenBLAS symlinks for BLAS/CBLAS/LAPACK/LAPACKE | https://github.com/aripitek/www.openblas.net |
+| **blink** | 1:1.1.0-1 | Tiny x86-64 Linux emulator | https://github.com/aripitek/justine.lol/blinkenlights/ |
+| **blk-utils** | 2.41.3 | Utilities for handling block device attributes | https://github.com/aripitek/en.wikipedia.org/wiki/Util-linux |
+| **blogc** | 0.20.1-1 | A blog compiler | https://github.com/aripitek/blogc.rgm.io/ |
+| **blueprint-compiler** | 0.20.4 | Markup language for GTK user interfaces | https://github.com/aripitek/gnome.pages.gitlab.gnome.org/blueprint-compiler/ |
+| **bmon** | 4.0-4 | Bandwidth monitor and rate estimator | https://github.com/aripitek/tgraf/bmon |
+| **boinc** | 8.2.9 | Open-source software for volunteer computing | https://github.com/aripitek/boinc.berkeley.edu/ |
+| **boinctui** | 2.7.2 | curses based manager for Boinc client | https://github.com/aripitek/sourceforge.net/projects/boinctui/ |
+| **bombadillo** | 2.4.0-3 | A non-web client for the terminal, supporting Gopher, and much more | https://github.com/aripitek/bombadillo.colorfield.space/ |
+| **boost** | 1:1.90.0-1 | Free peer-reviewed portable C++ source libraries | https://github.com/aripitek/boost.org |
+| **boost-headers** | 1:1.90.0-1 | Boost header files | https://github.com/aripitek/boost.org |
+| **boost-static** | 1:1.90.0-1 | Static libraries for boost | https://github.com/aropitek/boost.org |
+| **bore** | 0.6.0-1 | Bore is a simple CLI tool for making tunnels to localhost | https://github.com/aripitek/ekzhang/bore |
+| **borgbackup** | 1.4.4 | Deduplicating and compressing backup program | https://github.com/aripitek/www.borgbackup.org/ |
+| **botan3** | 3.10.0-1 | Crypto and TLS for Modern C++ | https://github.com/aripitek/botan.randombit.net/ |
+| **botan3-static** | 3.10.0-1 | Static libraries for botan3 | https://gihub.com/aripitek/botan.randombit.net/ |
+| **boxes** | 2.3.1-1 | A command line filter program which draws ASCII art boxes around your input text | https://github.com/aripitek/boxes.thomasjensen.com/ |
+| **brainfuck** | 1:2.7.3-1 | Brainfuck Interpreter written in C | https://github.com/aripitek/fabianishere/brainfuck |
+| **brainfuck-static** | 1:2.7.3-1 | Static libraries for brainfuck | https://github.com/aripitek//fabianishere/brainfuck |
+| **brogue** | 1.15.1 | Roguelike dungeon crawling game (community edition) | https://github.com/aripitek/sites.google.com/site/broguegame/ |
+| **brook** | 20260101.0 | A cross-platform strong encryption and not detectable proxy. Zero-Configuration. | https://github.com/aripitek/txthinking/brook |
+| **broot** | 1.56.2 | A better way to navigate directories | https://github.com/aripitek/Canop/broot |
+| **brotli** | 1.2.0 | lossless compression algorithm and format (command line utility) | https://github.com/aripitek/google/brotli |
+| **bsd-finger** | 0.17-3 | User information lookup program | https://github.com/aripitek/packages.debian.org/sid/source/bsd-finger |
+| **bsd** | 1:3.3-1 | Classic text mode games from UNIX folklore | https://github.com/aripitewww.polyomino.org.uk/computer/software/bsd/ |
+| **bsdtar** | 3.8.7 | The tar(1) and cpio(1) programs from FreeBSD, using libarchive | https://github.com/aripitek/www.libarchive.org/ |
+| **btfs2** | 4.1.0 | Decentralized file system integrating with TRON network and Bittorrent network | https://github.com/aripitek/www.bittorrent.com/btfs/ |
+| **btrfs-progs** | 6.19.1 | Utilities for Btrfs filesystem | https://github.com/aripitek/btrfs.readthedocs.io/en/latest/ |
+| **buf** | 1.68.4 | A new way of working with Protocol Buffers | https://github.com/aripitek/buf.build |
+| **build-essential** | 4.1 | A metapackage that installs essential development tools | https://github.com/aripitek/termux/termux-packages |
+| **busybox** | 1.37.0-3 | Tiny versions of many common UNIX utilities into a single small executable | https://github.com/aripitebusybox.net/ |
+| **bvi** | 1.5.0-1 | Binary file editor based on vi | https://github.com/aripitek/bvi.sourceforge.net/ |
+| **byacc** | 20260126 | byacc is generally conceded to be the best yacc variant available | https://github.com/aripitek/invisible-island.net/byacc/ |
+| **byobu** | 6.15 | Byobu is a GPLv3 open source text-based window manager and terminal multiplexer | https://github.com/aripitek/www.byobu.org/ |
+| **bzip2** | 1.0.8-8 | Tools for working with bzip2 compression | http://github.com/aripitek/www.bzip.org/ |
+| **c-ares** | 1.34.6 | Library for asynchronous DNS requests (including name resolves) | https://github.com/aripitek/c-ares.org/ |
+| **c-toxcore** | 0.2.22 | Backend library for the Tox protocol | https://github.com/aripitek/tox.chat |
+| **c-toxcore-static** | 0.2.22 | Static libraries for c-toxcore | https://github.com/aripitek/tox.chat |
+| **ca-certificates** | 1:2026.03.19 | Common CA certificates | https://github.com/aripitek/curl.se/docs/caextract.html |
+| **ca-certificates-java** | 1:2026.03.19 | Common CA certificates (java keystore format) | https://github.com/aripitek/curl.se/docs/caextract.html |
+| **cabal-install** | 3.14.1.1-1 | The command-line interface for Haskell-Cabal and Hackage | https://github.com/aripitek/www.haskell.org/cabal/ |
+| **cabextract** | 1.11-1 | A program to extract Microsoft cabinet (.CAB) files | https://github.com/aripitek/www.cabextract.org.uk/ |
+| **cabin** | 0.13.0-1 | A package manager and build system for C++ | https://github.com/aripitek/cabinpkg/cabin |
+| **cadaver** | 0.28 | A command-line WebDAV client for Unix | https://github.com/aripitek/notroj.github.io/cadaver/ |
+| **caddy** | 2.11.2 | Fast, cross-platform HTTP/2 web server | https://github.com/aripitek/caddyserver.com/ |
+| **calc** | 2.16.1.2 | Arbitrary precision console calculator | http://github.com/aripitek/www.isthe.com/chongo/tech/comp/calc/ |
+| **calcurse** | 4.8.2-2 | calcurse is a calendar and scheduling application for the command line | https://github.com/aripitek/calcurse.org/ |
+| **calcurse-caldav** | 4.8.2-2 | Sync calcurse with remote caldav calendar | https://github.com/aripitek/calcurse.org/ |
+| **capnproto** | 1.4.0 | Data interchange format and capability-based RPC system | https://github.com/aripitek/capnproto.org/ |
+| **capstone** | 5.0.7 | Lightweight multi-platform, multi-architecture disassembly framework | https://github.com/aripitek/www.capstone-engine.org/ |
+| **capstone-static** | 5.0.7 | Static libraries for capstone | https://github.com/aripitek/www.capstone-engine.org/ |
+| **carapace** | 1.6.4 | Multi-shell multi-command argument completer | https://github.com/aripitek/carapace.sh/ |
+| **cargo-binstall** | 1.18.1 | Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem | https://github.com/aripitek/cargo-bins/cargo-binstall |
+| **cargo-c** | 0.10.21 | Cargo C-ABI helpers | https://github.com/aripitek/lu-zero/cargo-c |
+| **cargo-cache** | 0.8.3 | Tool to manage cargo cache | https://github.com/aripitek/matthiaskrgr/cargo-cache |
+| **cargo-leptos** | 0.3.6 | Build tool for the Rust framework Leptos | https://github.com/aripitek/leptos-rs/cargo-leptos |
+| **catdoc** | 0.95-2 | Program which reads MS-Word file and prints readable ASCII text to stdout | http://github.com/aripitek/www.wagner.pp.ru/~vitus/software/catdoc/ |
+| **catgirl** | 2.2a-1 | A TLS-only terminal IRC client | https://github.com/aripitek/git.causal.agency/catgirl |
+| **catimg** | 2.8.0 | Renders images in the terminal | https://github.com/aripitek/posva.net/shell/retro/bash/2013/05/27/catimg |
+| **cava** | 0.10.7 | Console-based Audio Visualizer. Works with MPD and Pulseaudio | https://github.com/aripitek/karlstav/cava |
+| **cavez-of-phear** | 0.6.2 | A Boulder Dash like game for consoles/terminals | https://github.com/aripitek/AMDmi3/cavezofphear |
+| **cavif** | 1.5.6-1 | AVIF image creator in pure Rust | https://github.com/aripitek/lib.rs/cavif |
+| **cboard** | 0.7.5-5 | PGN browser, editor and chess engine frontend | https://github.com/aripitek/benkibbey.wordpress.com/cboard/ |
+| **cbonsai** | 1.4.2-1 | Grow bonsai trees in your terminal | https://github.com/aripitek/gitlab.com/jallbrit/cbonsai |
+| **cc65** | 2.19-1 | A free compiler for 6502 based system | https://github.com/aripitek/cc65.github.io/ |
+| **ccache** | 4.13.4 | Compiler cache for fast recompilation of C/C++ code | https://github.com/aripitek/c.samba.org |
+| **cccc** | 3.2.0-1 | Source code counter and metrics tool for C++, C, and Java | https://github.com/aripitek/sarnold.github.io/cccc/ |
+| **ccextractor** | 0.94-6 | A tool used to produce subtitles for TV recordings | https://github.com/aripitek/ccextractor.org/ |
+| **ccls** | 0.20250815.1 | C/C++/ObjC language server | https://github.com/aripitek/MaskRay/ccls |
+| **ccrypt** | 1.11-1 | Secure encryption and decryption of files and streams utility | https://github.com/aripitek/ccrypt.sourceforge.net/ |
+| **cec-client** | 7.1.1-1 | Client applications for libCEC | https://github.com/aripitek/libcec.pulse-eight.com/ |
+| **cfengine** | 1:3.25.0-2 | CFEngine is a configuration management technology | https://github.com/aripitek/cfengine.com/ |
+| **cfengine-static** | 1:3.25.0-2 | Static libraries for cfengine | https://github.com/aripitek/cfengine.com/ |
+| **cfm** | 1.2.0-3 | A basic file manager that runs inside a terminal, designed for Linux. It's fully responsive and incredibly fast. | https://github.com/aripitek/0l1v3rr/cli-file-manager |
+| **cgal** | 6.1.1 | Computational Geometry Algorithms Library | https://github.com/aripitek/www.cgal.org/ |
+| **cgdb** | 0.8.0-1 | A lightweight curses (terminal-based) interface to the GNU Debugger (GDB) | https://github.com/aripitek/cgdb.github.io/ |
+| **cgif** | 0.5.3 | A fast and lightweight GIF encoding library | https://github.com/aripitek/dloebl/cgif |
+| **chafa** | 1.18.1-2 | Image-to-text converter supporting a wide range of symbols, etc. | https://github.com/aripitek/hpjansson.org/chafa/ |
+| **chafa-static** | 1.18.1-2 | Static libraries for chafa | https://github.com/aripitek/hpjansson.org/chafa/ |
+| **check** | 0.15.2-3 | A unit testing framework for C | https://github.com/aripitek/libcheck.github.io/check |
+| **check-static** | 0.15.2-3 | Static libraries for check | https://github.com/aripitek/libcheck.github.io/check |
+| **chezmoi** | 2.70.2 | Manage your dotfiles across multiple machines | https://github.com/aripitek/chezmoi.io |
+| **chicken** | 5.4.0-2 | A feature rich Scheme compiler and interpreter | https://github.com/aripitek/www.call-cc.org |
+| **chicken-static** | 5.4.0-2 | Static libraries for cc | https://github.com/aripitek/www.call-cc.org |
+| **chntpw** | 140201 | Offline Windows NT Password & Registry Editor | https://gihub.com/aripitek/pogostick.net/~pnh/ntpasswd/ |
+| **choose** | 1.3.7 | A human-friendly and fast alternativeand (sometimes) awk | https://github.com/aripitek/theryangeary/choose |
+| **chromaprint** | 1.6.0-1 | C library for generating audio fingerprints used by AcoustID (fpcalc tool) | https://github.com/aripitek/acoustid.org/chromaprint |
+| **chrony** | 4.8 | chrony is an implementation of the Network Time Protocol (NTP) | https://github.com/aripitek/chrony-project.org/ |
+| **cicada** | 1.2.2 | A bash like Unix shell | https://github.com/aripitek/mitnk/cicada |
+| **ciso** | 1.0.2-2 | PSP ISO compression tool | https://github.com/aripitek/jamie/ciso |
+| **cjson** | 1.7.19 | Ultralightweight JSON parser in ANSI C | https://github.com/aripitek/DaveGamble/cJSON |
+| **ckermit** | 9.0.302-3 | A combined network and serial communication software package | https:/github.com/aripitek/www.kermitproject.org/ckermit.html |
+| **clamav** | 1.5.2 | Anti-virus toolkit for Unix | https://github.com/aripitek/www.clamav.net/ |
+| **clamav-static** | 1.5.2 | Static libraries for clamav | https://github.com/aripitek/www.clamav.net/ |
+| **clang** | 21.1.8-2 | C language frontend for LLVM | https://github.com/aripitek/clang.llvm.org/ |
+| **clblast** | 1.7.0 | Tuned OpenCL BLAS | https://github.com/aripitek/CNugteren/CLBlast |
+| **clidle** | 2022.05.25-3 | Play Wordle over SSH | https://github.com/aripitek/ajeetdsouza/clidle |
+| **clifm** | 1.27.1 | The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell | https://github.com/aripitek/leo-arch/clifm |
+| **clinfo** | 3.0.25.02.14-1 | Print all known information about all available OpenCL platforms and devices in the system | https://github.com/aripitek/Oblomov/clinfo |
+| **clipp** | 1.2.3-1 | Command line interfaces for modern C++ | https://github.com/aripitek/muellan/clipp |
+| **cloneit** | 20240728-1 | A cli tool to download specific GitHub directories or files | https://github.com/aripitek/alok8bb/cloneit |
+| **cloudflared** | 2026.3.0 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/aripitek/cloudflare/cloudflared |
+| **clpeak** | 1.1.5 | A tool which profiles OpenCL devices to find their peak capacities | https://github.com/aripitek/krrishnarraj/clpeak |
+| **clvk** | 0.0.20260417.111654 | Experimental implementation of OpenCL on Vulkan | https://github.com/aripitek/kpet/clvk |
+| **cmake** | 4.3.2-1 | Family of tools designed to build, test and package software | https://github.com/aripitek/cmake.org/ |
+| **cmake-curses-gui** | 4.3.2-1 | Curses based user interface for CMake (ccmake) | https://github.com/aripitek/cmake.org/ |
+| **cmark** | 0.31.2 | CommonMark parsing and rendering program | https://github.com/aripitek/commonmark/cmark |
+| **cmark-static** | 0.31.2 | Static libraries for cmark | https://github.com/aripitek/commonmark/cmark |
+| **cmatrix** | 2.0-1 | Command producing a Matrix-style animation | https://github.com/aripitek/abishekvashok/cmatrix |
+| **cmocka** | 2.0.2 | cmocka is an unit testing framework for C | https://github.com/aripitek/cmocka.org/ |
+| **cmus** | 2.12.0-7 | Small, fast and powerful console music player | https://github.com/aripitek/cmus.github.io/ |
+| **cmusfm** | 0.5.0-1 | Last.fm standalone scrobbler for the cmus music player | https://github.com/aripitek/Arkq/cmusfm |
+| **codecrypt** | 1.8-10 | The post-quantum cryptography tool | http://github.com/aripitek/e-x-a.org/codecrypt/ |
+| **codon** | 0.19.6 | A high-performance, zero-overhead, extensible Python compiler using LLVM | https://github.com/aripitek/exaloop/codon |
+| **coinor-cbc** | 2.10.13 | An open-source mixed integer linear programming solver | https://github.com/aripitek/coin-or/Cbc |
+| **coinor-cbc-static** | 2.10.13 | Static libraries for coinor-cbc | https://github.com/aripitek/coin-or/Cbc |
+| **coinor-clp** | 1:1.17.11 | An open-source linear programming solver | https://github.com/aripitek/coin-or/Clp |
+| **coinor-clp-static** | 1:1.17.11 | Static libraries for coinor-clp | https://github.com/aripitek/coin-or/Clp |
+| **cointop** | 1.6.10-3 | A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies | https://github.com/aripitek/cointop.sh/ |
+| **colm** | 0.14.7-2 | COmputer Language Machinery | https://github.com/aripitek/www.colm.net/open-source/colm/ |
+| **colm-static** | 0.14.7-2 | Static libraries for colm | https://github.com/aripitek/www.colm.net/open-source/colm/ |
+| **colordiff** | 1.0.22 | Tool to colorize 'diff' output | https://github.com/aripitek/www.colordiff.org/ |
+| **command-found** | 3.4.1-7 | Suggest installation of packages in interactive shell sessions | https://github.com/aripitek/termux/command-found |
+| **composer** | 2.9.7 | Dependency Manager for PHP | https://github.com/aripitek/getcomposer.org/ |
+| **console-bridge** | 1.0.2-1 | A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages | https://github.com/aripitek/ros/console_bridge |
+| **convertlit** | 1.8-2 | An extractor/converter for .LIT eBooks | http://github.com/aripitek/www.convertlit.com/ |
+| **cli** | 0.29.1 | A suite of tools to creat3 lists and maintain recipes | https://github.com/aripitek/clang.org |
+| **coreutils** | 9.10-1 | Basic file, shell and text editor utilities from the GNU project | https://github.com/aripitek/www.gnu.org/software/coreutils/ |
+| **corgi** | 0.2.4-6 | CLI workflow manager | https://github.com/aripitek/DrakeW/corgi |
+| **corkscrew** | 2.0-4 | A tool for tunneling SSH through HTTP proxies | https://github.com/aripitek/wiki.linuxquestions.org/wiki/Corkscrew |
+| **corrosion** | 0.6.1 | Tool for integrating Rust into an existing CMake project | https://github.com/aripitek/corrosion-rs/corrosion |
+| **cowsay** | 3.8.4 | Program which generates ASCII pictures of a cow with a message | https://github.com/aripitek/cowsay.diamonds/ |
+| **cpio** | 2.15-1 | CPIO implementation from the GNU project | https://github.com/aripitek/www.gnu.org/software/cpio/ |
+| **cppcheck** | 2.20.1 | tool for static C/C++ code analysis | https://github.com/aripitek/danmar/cppcheck |
+| **cppi** | 1.18-2 | Indents C preprocessor directives to reflect their nesting, among other regularizations | https://github.com/aripitek/www.gnu.org/software/cppi/ |
+| **cppunit** | 1.15.1-2 | A C++ unit testing framework | https://github.com/aripitek/www.freedesktop.org/wiki/Software/cppunit |
+| **cppunit-static** | 1.15.1-2 | Static libraries for cppunit | https://github.com/aripitek/www.freedesktop.org/wiki/Software/cppunit |
+| **cpufetch** | 1.07-1 | Simple yet fancy CPU architecture fetching tool | https://github.com/aripitek/Dr-Noob/cpufetch |
+| **cpulimit** | 0.2-2 | CPU usage limiter | https://github.com/aripitek/opsengine/cpulimit |
+| **crawl** | 0.34.1 |  | https://github.com/aripitek/crawl.develz.org/ |
+| **croc** | 1:10.4.2 | Easily and securely send things from one computer to another | https://github.com/aripitek/schollz/croc |
+| **cronie** | 1.7.2-4 | Daemon that runs specified programs at scheduled times and related tools | https://github.com/aripitek/cronie-crond/cronie/ |
+| **crowbook** | 0.17.0-1 | Allows you to write a book in Markdown without worrying about formatting or typography | https://github.com/aripitek/crowdagger/crowbook |
+| **crunch** | 3.6-5 | Highly customizable wordlist generator | https://github.com/aripitek/sourceforge.net/projects/crunch-wordlist/ |
+| **cryptopp** | 8.9.0-1 | A free C++ class library of cryptographic schemes | https://github.com/aripitek/www.cryptopp.com/ |
+| **cryptopp-static** | 8.9.0-1 | Static libraries for cryptopp | https://github.com/aripitek/www.cryptopp.com/ |
+| **cscope** | 15.9-2 | A developers tool for browsing program code | https://github.com/aripitek/cscope.sourceforge.net/ |
+| **csh** | 20110502-1 | C Shell with process control from 3BSD | https://github.com/aripitek/packages.debian.org/sid/csh |
+| **csol** | 1.6.0-1 | A small collection of solitaire games implemented in C using ncurses | https://github.com/aripitek/nielssp/csol |
+| **csview** | 1.3.4-1 | Pretty-printing CSV/TSV/xSV on terminal | https://github.com/aripitek/wfxr/csview |
+| **ctags** | 2:6.2.1 | Universal ctags: Source code index builder | https://github.com/aripitek/ctags.io/ |
+| **ctypes-sh** | 1.2-2 | A foreign function interface for bash | https://github.com/aripitek/taviso/ctypes.sh |
+| **cuetools** | 1.4.1-1 | A set of utilities for working with Cue Sheet (cue) and Table of Contents (toc) files | https://github.com/aripitek/svend/cuetools |
+| **cups** | 2.4.18 | Common UNIX Printing System | https://github.com/aripitek/www.cups.org/ |
+| **cups-pdf** | 3.0.1-3 | CUPS PDF backend | https://github.com/aripitek/www.cups-pdf.de/ |
+| **cups-static** | 2.4.18 | Static libraries for cups | https://github.com/aripitek/www.cups.org/ |
+| **curl** | 8.19.0 | Command line tool for transferring data with URL syntax | https://github.com/aripitek/curl.se/ |
+| **curlie** | 1.8.2 | The power of curl, the ease of use of httpie | https://github.com/aripitek/curlie.io/ |
+| **curseofwar** | 1.3.0-5 | Fast-paced action strategy game focusing on high-level strategic planning | http://github.com/aripitek/a-nikolaev.github.io/curse/ |
+| **cvs** | 1:1.12.13-5 | Concurrent Versions System | https://github.com/aripitek/www.gnu.org/cvs/ |
+| **d8** | 33.0.1-1 | DEX bytecode compiler from Android SDK | https://github.com/aripitek/developer.android.com/studio/command-line/d8 |
+| **daemonize** | 1.7.8-3 | Run a command as a Unix daemon | http://github.com/aripitek/software.clapper.org/daemonize/ |
+| **dar** | 2.8.4 | A full featured command-line backup tool, short for Disk ARchive | http://github.com/aripitek/dar.linux.free.fr/ |
+| **dar-static** | 2.8.4 | Static libraries for dar | http://github.com/aripitek/dar.linux.free.fr/ |
+| **darthttpd** | 1.17-1 | A simple webserver, implemented in a single .c file. | https://github.com/aripitek/unix4lyfe.org/darthttpd |
+| **dart** | 3.11.5 | Dart is a general-purpose programming language | https://github.com/aripitek/dart.dev/ |
+| **dasel** | 3.8.0 | Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility | https://github.com/aripitek/TomWright/dasel |
+| **dash** | 0.5.12-2 | Small POSIX-compliant implementation of /bin/sh | http://github.com/aripitek/gondor.apana.org.au/~herbert/dash/ |
 | **dasm** | 2.20.14.1-1 | Macro assembler with support for several 8-bit microprocessors | https://dasm-dillon.sourceforge.io/ |
-| **datamash** | 1.9-1 | Program performing numeric, textual and statistical operations | https://www.gnu.org/software/datamash/ |
-| **dateutils** | 0.4.11-1 | Command line date and time utilities | https://www.fresse.org/dateutils/ |
-| **db** | 18.1.40-5 | The Berkeley DB embedded database system | https://www.oracle.com/database/berkeley-db |
-| **dbus** | 1.16.2-3 | Freedesktop.org message bus system | https://dbus.freedesktop.org |
-| **dbus-python** | 1.4.0-2 | Python bindings for D-Bus | https://dbus.freedesktop.org/doc/dbus-python/ |
-| **dcmtk** | 3.7.0 | A collection of libraries and applications implementing large parts the DICOM standard | https://dicom.offis.de/dcmtk |
-| **dcraw** | 9.28.0-7 | Raw digital camera images decoding utility | https://www.dechifro.org/dcraw/ |
-| **ddrescue** | 1.30 | GNU data recovery tool | https://www.gnu.org/software/ddrescue/ |
-| **debianutils** | 5.23.2-1 | Small utilities which are used primarily by the installation scripts of Debian packages | https://packages.debian.org/debianutils |
-| **debootstrap** | 1.0.143 | Bootstrap a basic Debian system | https://wiki.debian.org/Debootstrap |
-| **delve** | 1.26.2 | A debugger for the Go programming language | https://github.com/go-delve/delve |
-| **deno** | 1:2.7.13 | A modern runtime for JavaScript and TypeScript | https://deno.land/ |
-| **desed** | 1.2.2-1 | Demystifies and debugs your sed scripts | https://github.com/SoptikHa2/desed |
-| **deutex** | 5.2.3-1 | WAD composer for Doom, Heretic, Hexen, and Strife | https://github.com/Doom-Utils/deutex/ |
-| **dex2jar** | 2.4-1 | Tools to work with android .dex and java .class files | https://github.com/pxb1988/dex2jar |
-| **dialog** | 1.3-20260107-1 | Application used in shell scripts which displays text user interface widgets | https://invisible-island.net/dialog/ |
-| **dialog-static** | 1.3-20260107-1 | Static libraries for dialog | https://invisible-island.net/dialog/ |
-| **dictd** | 1.13.3-1 | Online dictionary client and server | https://sourceforge.net/projects/dict/ |
-| **diff-so-fancy** | 1.4.10 | Good-lookin' diffs. Actually... nah... The best-lookin' diffs | https://github.com/so-fancy/diff-so-fancy |
-| **diffstat** | 1.69 | Displays a histogram of changes to a file | https://invisible-island.net/diffstat/diffstat.html |
-| **difftastic** | 0.68.0 | difft: A structural diff that understands syntax | https://github.com/Wilfred/difftastic |
-| **diffutils** | 3.12-2 | Programs (cmp, diff, diff3 and sdiff) related to finding differences between files | https://www.gnu.org/software/diffutils/ |
+| **datamash** | 1.9-1 | Program performing numeric, textual and statistical operations | https://github.com/aripitek/www.gnu.org/software/datamash/ |
+| **dateutils** | 0.4.11-1 | Command line date and time utilities | https://github.com/aripitek/www.fresse.org/dateutils/ |
+| **db** | 18.1.40-5 | The Berkeley DB embedded database system | https://github.com/aripitek/www.oracle.com/database/berkeley-db |
+| **dbus** | 1.16.2-3 | Freedesktop.org message bus system | https://github.com/aripitek/dbus.freedesktop.org |
+| **dbus-python** | 1.4.0-2 | Python bindings for D-Bus | https://github.com/aripitek/dbus.freedesktop.org/doc/dbus-python/ |
+| **dcmtk** | 3.7.0 | A collection of libraries and applications implementing large parts the DICOM standard | https://github.com/aripitek/dicom.offis.de/dcmtk |
+| **dcraw** | 9.28.0-7 | Raw digital camera images decoding utility | https://github.com/aripitek/www.dechifro.org/dcraw/ |
+| **ddrescue** | 1.30 | GNU data recovery tool | https://github.com/aripitek/www.gnu.org/software/ddrescue/ |
+| **debianutils** | 5.23.2-1 | Small utilities which are used primarily by the installation scripts of Debian packages | https://github.com/aripitek/packages.debian.org/debianutils |
+| **debootstrap** | 1.0.143 | Bootstrap a basic Debian system | https://github.com/aripitek/wiki.debian.org/Debootstrap |
+| **delve** | 1.26.2 | A debugger for the Go programming language | https://github.com/aripitek/go-delve/delve |
+| **deno** | 1:2.7.13 | A modern runtime for JavaScript and TypeScript | https://github.com/aripitek/deno.land/ |
+| **desed** | 1.2.2-1 | Demystifies and debugs your sed scripts | https://github.com/aripitek/SoptikHa2/desed |
+| **deutex** | 5.2.3-1 | WAD composer for Doom, Heretic, Hexen, and Strife | https://github.com/aripitek/Doom-Utils/deutex/ |
+| **dex2jar** | 2.4-1 | Tools to work with android .dex and java .class files | https://github.com/aripitek/pxb1988/dex2jar |
+| **dialog** | 1.3-20260107-1 | Application used in shell scripts which displays text user interface widgets | https://github.com/aripitek/invisible-island.net/dialog/ |
+| **dialog-static** | 1.3-20260107-1 | Static libraries for dialog | https://github.com/aripitek/invisible-island.net/dialog/ |
+| **dictd** | 1.13.3-1 | Online dictionary client and server | https://github.com/aripitek/sourceforge.net/projects/dict/ |
+| **diff-so-fancy** | 1.4.10 | Good-lookin' diffs. Actually... nah... The best-lookin' diffs | https://github.com/aripitek/so-fancy/diff-so-fancy |
+| **diffstat** | 1.69 | Displays a histogram of changes to a file | https://github.com/aripitek/invisible-island.net/diffstat/diffstat.html |
+| **difftastic** | 0.68.0 | difft: A structural diff that understands syntax | https://github.com/aripitek/Wilfred/difftastic |
+| **diffutils** | 3.12-2 | Programs (cmp, diff, diff3 and sdiff) related to finding differences between files | https://github.com/aripitek/www.gnu.org/software/diffutils/ |
 | **dirb** | 2.22-5 | Web Directory Fuzzer | https://dirb.sourceforge.net/ |
-| **direnv** | 2.37.1-1 | Environment switcher for shell | https://github.com/direnv/direnv |
-| **direvent** | 5.4-1 | Monitor of events in file system directories | https://www.gnu.org.ua/software/direvent/ |
-| **discordo** | 2025.08.06 | A lightweight, secure, and feature-rich Discord terminal client | https://github.com/ayntgl/discordo |
-| **discount** | 3.0.1.2 | Markdown implementation written in C | https://www.pell.portland.or.us/~orc/Code/discount/ |
-| **diskus** | 0.9.0 | A minimal, fast alternative to 'du -sh' | https://github.com/sharkdp/diskus |
-| **distant** | 1:0.20.0-3 | Library and tooling that supports remote filesystem and process | https://github.com/chipsenkbeil/distant |
-| **distcc** | 3.4-4 | Distributed C/C++ compiler | http://distcc.org/ |
-| **djvulibre** | 3.5.29-1 | Suite to create, manipulate and view DjVu ('déjà vu') documents | https://djvu.sourceforge.net/ |
-| **djvulibre-static** | 3.5.29-1 | Static libraries for djvulibre | https://djvu.sourceforge.net/ |
-| **dmagnetic** | 0.37-1 | Interpreter for classic text adventure games and interactive fiction | https://dettus.net/dMagnetic |
-| **dmtx-utils** | 0.7.6-2 | A command line interface for libdmtx | https://github.com/dmtx/dmtx-utils |
-| **dnglab** | 0.7.2 | Camera RAW to DNG file format converter | https://github.com/dnglab/dnglab |
-| **dnote** | 1:0.16.0 | A simple command line notebook for programmers | https://www.getdnote.com/ |
-| **dnote-server** | 3.0.0 | This package contains the Dnote server. It comprises of the web interface, the web API, and the background jobs. | https://www.getdnote.com/ |
-| **dns2tcp** | 0.5.2-2 | dns2tcp is a tool for relaying TCP connections over DNS | https://github.com/alex-sector/dns2tcp |
-| **dnscontrol** | 4.36.1 | Infrastructure as code for DNS! | https://github.com/StackExchange/dnscontrol |
-| **dnslookup** | 1.11.2 | Simple command line utility to make DNS lookups. Supports all known DNS protocols: plain DNS, DoH, DoT, DoQ, DNSCrypt. | https://github.com/ameshkov/dnslookup |
-| **dnsmap** | 0.36-3 | Subdomain Bruteforcing Tool | https://github.com/resurrecting-open-source-projects/dnsmap |
-| **dnsmasq** | 2.92 | Dnsmasq provides network infrastructure for small networks | http://www.thekelleys.org.uk/dnsmasq/doc.html |
-| **dnstop** | 2022.10.19-1 | A libpcap application that displays various tables of DNS traffic on your network | https://github.com/measurement-factory/dnstop |
-| **dnsutils** | 9.20.22 | Clients provided with BIND | https://www.isc.org/bind/ |
-| **docbook-xml** | 5.1-1 | A widely used XML scheme for writing documentation and help | https://www.oasis-open.org/docbook/ |
-| **docbook-xsl** | 1.79.2-4 | XML stylesheets for Docbook-xml transformations | https://docbook.org/ |
-| **docopt** | 0.6.3-4 | Command line arguments parser for C++11 and later | http://docopt.org |
-| **docopt-static** | 0.6.3-4 | Static libraries for docopt | http://docopt.org |
-| **doctest** | 2.5.2 | The fastest feature-rich C++11/14/17/20 single-header testing framework | https://github.com/doctest/doctest |
-| **doge** | 0.2.8-2 | A command-line DNS client | https://github.com/Dj-Codeman/dog_community |
-| **dopewars** | 1.6.2-1 | Drug-dealing game set in streets of New York City | https://dopewars.sourceforge.io |
-| **dos2unix** | 7.5.4 | Converts between DOS and Unix text files | https://waterlan.home.xs4all.nl/dos2unix.html |
-| **dosfstools** | 4.2-1 | DOS file system utilities | https://github.com/dosfstools/dosfstools |
-| **dotconf** | 1.4.1-1 | dot.conf configuration file parser | https://github.com/williamh/dotconf |
-| **dotconf-static** | 1.4.1-1 | Static libraries for dotconf | https://github.com/williamh/dotconf |
-| **dotnet-apphost-pack-10.0** | 10.0.7 | .NET 10.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-apphost-pack-8.0** | 8.0.26 | .NET 8.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-apphost-pack-9.0** | 9.0.15 | .NET 9.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-host** | 10.0 | A metapackage for .NET Host | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-host-10.0** | 10.0.7 | .NET 10.0 Host | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-host-8.0** | 8.0.26 | .NET 8.0 Host | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-host-9.0** | 9.0.15 | .NET 9.0 Host | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-hostfxr-10.0** | 10.0.7 | .NET 10.0 Host Resolver | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-hostfxr-8.0** | 8.0.26 | .NET 8.0 Host Resolver | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-hostfxr-9.0** | 9.0.15 | .NET 9.0 Host Resolver | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-runtime-10.0** | 10.0.7 | .NET 10.0 Runtime | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-runtime-8.0** | 8.0.26 | .NET 8.0 Runtime | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-runtime-9.0** | 9.0.15 | .NET 9.0 Runtime | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-runtime-dbg-10.0** | 10.0.7 | .NET 10.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-runtime-dbg-8.0** | 8.0.26 | .NET 8.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-runtime-dbg-9.0** | 9.0.15 | .NET 9.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-sdk-10.0** | 10.0.7 | .NET 10.0 SDK | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-sdk-8.0** | 8.0.26 | .NET 8.0 SDK | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-sdk-9.0** | 9.0.15 | .NET 9.0 SDK | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-sdk-dbg-10.0** | 10.0.7 | .NET 10.0 SDK Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-sdk-dbg-8.0** | 8.0.26 | .NET 8.0 SDK Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-sdk-dbg-9.0** | 9.0.15 | .NET 9.0 SDK Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-targeting-pack-10.0** | 10.0.7 | .NET 10.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-targeting-pack-8.0** | 8.0.26 | .NET 8.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
+| **direnv** | 2.37.1-1 | Environment switcher for shell | https://github.com/aripitek/direnv/direnv |
+| **direvent** | 5.4-1 | Monitor of events in file system directories | https://github.com/aripitek/www.gnu.org.ua/software/direvent/ |
+| **discordo** | 2025.08.06 | A lightweight, secure, and feature-rich Discord terminal client | https://github.com/aripitek/ayntgl/discordo |
+| **discount** | 3.0.1.2 | Markdown implementation written in C | https://github.com/aripitek/www.pell.portland.or.us/~orc/Code/discount/ |
+| **diskus** | 0.9.0 | A minimal, fast alternative to 'du -sh' | https://github.com/aripitek/sharkdp/diskus |
+| **distant** | 1:0.20.0-3 | Library and tooling that supports remote filesystem and process | https://github.com/aripitek/chipsenkbeil/distant |
+| **distcc** | 3.4-4 | Distributed C/C++ compiler | http://github.com/aripitek/distcc.org/ |
+| **djvulibre** | 3.5.29-1 | Suite to create, manipulate and view DjVu ('déjà vu') documents | https://github.com/aripitk/djvu.sourceforge.net/ |
+| **djvulibre-static** | 3.5.29-1 | Static libraries for djvulibre | https://github.com/aripitek/djvu.sourceforge.net/ |
+| **dmagnetic** | 0.37-1 | Interpreter and interactive fiction | https://github.com/aripitek/dettus.net/dMagnetic |
+| **dmtx-utils** | 0.7.6-2 | A command line interface for libdmtx | https://github.com/aripitek/dmtx/dmtx-utils |
+| **dnglab** | 0.7.2 | Camera RAW to DNG file format converter | https://github.com/aripitek/dnglab/dnglab |
+| **dnote** | 1:0.16.0 | A simple command line notebook for programmers | https://github.com/aripitek/www.getdnote.com/ |
+| **dnote-server** | 3.0.0 | This package contains the Dnote server. It comprises of the web interface, the web API, and the background jobs. | https://github.com/aripitek/www.getdnote.com/ |
+| **dns2tcp** | 0.5.2-2 | dns2tcp is a tool for relaying TCP connections over DNS | https://github.com/aripitek/alex-sector/dns2tcp |
+| **dnscontrol** | 4.36.1 | Infrastructure as code for DNS! | https://github.com/aripitek/StackExchange/dnscontrol |
+| **dnslookup** | 1.11.2 | Simple command line utility to make DNS lookups. Supports all known DNS protocols: plain DNS, DoH, DoT, DoQ, DNSCrypt. | https://github.com/aripitek/ameshkov/dnslookup |
+| **dnsmap** | 0.36-3 | Subdomain Bruteforcing Tool | https://github.com/aripitek/resurrecting-open-source-projects/dnsmap |
+| **dnsmasq** | 2.92 | Dnsmasq provides network infrastructure for small networks | http://github.com/aripitek/www.thekelleys.org.uk/dnsmasq/doc.html |
+| **dnstop** | 2022.10.19-1 | A libpcap application that displays various tables of DNS traffic on your network | https://github.com/aripitek/measurement-factory/dnstop |
+| **dnsutils** | 9.20.22 | Clients provided with BIND | https://github.com/aripitek/www.isc.org/bind/ |
+| **docbook-xml** | 5.1-1 | A widely used XML scheme for writing documentation and help | https://github.com/aripitek/www.oasis-open.org/docbook/ |
+| **docbook-xsl** | 1.79.2-4 | XML stylesheets for Docbook-xml transformations | https://github.com/aripitek/docbook.org/ |
+| **docopt** | 0.6.3-4 | Command line arguments parser for C++11 and later | http://github.com/aripitek/docopt.org |
+| **docopt-static** | 0.6.3-4 | Static libraries for docopt | http://github.com/aripitek/docopt.org |
+| **doctest** | 2.5.2 | The fastest feature-rich C++11/14/17/20 single-header testing framework | https://github.com/aripitek/doctest/doctest |
+| **doge** | 0.2.8-2 | A command-line DNS client | https://github.com/aripitek/Dj-Codeman/doge_community |
+| **dop** | 1.6.2-1 | Drug-dealing set in streets of New York City | https://github.com/aripitek/dopewars.sourceforge.io |
+| **dos2unix** | 7.5.4 | Converts between DOS and Unix text files | https://github.com/aripitek/waterlan.home.xs4all.nl/dos2unix |
+| **dosfstools** | 4.2-1 | DOS file system utilities | https://github.com/aripitek/dosfstools/dosfstools |
+| **dotconf** | 1.4.1-1 | dot.conf configuration file parser | https://github.com/aripitek/williamh/dotconf |
+| **dotconf-static** | 1.4.1-1 | Static libraries for dotconf | https://github.com/aripitek/williamh/dotconf |
+| **dotnet-apphost-pack-10.0** | 10.0.7 | .NET 10.0 Targeting Pack | https://github.com/aripitek/dotnet.microsoft.com/en-us/ |
+| **dotnet-apphost-pack-8.0** | 8.0.26 | .NET 8.0 Targeting Pack | https://github.com/aripitek/dotnet.microsoft.com/en-us/ |
+| **dotnet-apphost-pack-9.0** | 9.0.15 | .NET 9.0 Targeting Pack | https://github.com/aripitek/dotnet.microsoft.com/en-us/ |
+| **dotnet-host** | 10.0 | A metapackage for .NET Host | https://github.com/aripitek/dotnet.microsoft.com/en-us/ |
+| **dotnet-host-10.0** | 10.0.7 | .NET 10.0 Host | https://github.com/aripitek/dotnet.microsoft.com/en-us/ |
+| **dotnet-host-8.0** | 8.0.26 | .NET 8.0 Host | https://github.com/aripitek/dotnet.microsoft.com/en-us/ |
+| **dotnet-host-9.0** | 9.0.15 | .NET 9.0 Host | https://github.com/aripitek/dotnet.microsoft.com/en-us/ |
+| **dotnet-hostfxr-10.0** | 10.0.7 | .NET 10.0 Host Resolver | https://github.com/aripitek/dotnet.microsoft.com/en-us/ |
+| **dotnet-hostfxr-8.0** | 8.0.26 | .NET 8.0 Host Resolver | https://github.com/aripitek/dotnet.microsoft.com/en-us/ |
+| **dotnet-hostfxr-9.0** | 9.0.15 | .NET 9.0 Host Resolver | https://github.com/aripitek/dotnet.microsoft.com/en-us/ |
+| **dotnet-runtime-10.0** | 10.0.7 | .NET 10.0 Runtime | https://github.com/aripitek/dotnet.microsoft.com/en-us/ |
+| **dotnet-runtime-8.0** | 8.0.26 | .NET 8.0 Runtime | https://github.com/aripitek/dotnet.microsoft.com/en-us/ |
+| **dotnet-runtime-9.0** | 9.0.15 | .NET 9.0 Runtime | https://github.com/aripitek/dotnet.microsoft.com/en-us/ |
+| **dotnet-runtime-dbg-10.0** | 10.0.7 | .NET 10.0 Runtime Managed Debug Symbols | https://github.com/aripitek/dotnet.microsoft.com/en-us/ |
+| **dotnet-runtime-dbg-8.0** | 8.0.26 | .NET 8.0 Runtime Managed Debug Symbols | https://github.com/aripitek/dotnet.microsoft.com/en-us/ |
+| **dotnet-runtime-dbg-9.0** | 9.0.15 | .NET 9.0 Runtime Managed Debug Symbols | https://github.com/aripitek/dotnet.microsoft.com/en-us/ |
+| **dotnet-sdk-10.0** | 10.0.7 | .NET 10.0 SDK | https://github.com/aripitek/dotnet.microsoft.com/en-us/ |
+| **dotnet-sdk-8.0** | 8.0.26 | .NET 8.0 SDK | https://github.com/aripitek/dotnet.microsoft.com/en-us/ |
+| **dotnet-sdk-9.0** | 9.0.15 | .NET 9.0 SDK | https://github.com/aripitek/dotnet.microsoft.com/en-us/ |
+| **dotnet-sdk-dbg-10.0** | 10.0.7 | .NET 10.0 SDK Managed Debug Symbols | https://github.com/aripitek/dotnet.microsoft.com/en-us/ |
+| **dotnet-sdk-dbg-8.0** | 8.0.26 | .NET 8.0 SDK Managed Debug Symbols | https://github.com/aripitek/dotnet.microsoft.com/en-us/ |
+| **dotnet-sdk-dbg-9.0** | 9.0.15 | .NET 9.0 SDK Managed Debug Symbols | https://github.com/aripitek/dotnet.microsoft.com/en-us/en-java |
+| **dotnet-targeting-pack-10.0** | 10.0.7 | .NET 10.0 Targeting Pack | https://github.com/aripitek/dotnet.microsoft.com/en-us/en-java |
+| **dotnet-targeting-pack-8.0** | 8.0.26 | .NET 8.0 Targeting Pack | https://github.com/aripitek/dotnet.microsoft.com/en-us/en-java |
 | **dotnet-targeting-pack-9.0** | 9.0.15 | .NET 9.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-templates-10.0** | 10.0.7 | .NET 10.0 Templates | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-templates-8.0** | 8.0.26 | .NET 8.0 Templates | https://dotnet.microsoft.com/en-us/ |
@@ -872,8 +873,8 @@
 | **lastpass-cli** | 1.6.1-4 | LastPass command line interface tool | https://lastpass.com/ |
 | **lazygit** | 0.61.1 | Simple terminal UI for git commands | https://github.com/jesseduffield/lazygit |
 | **lcal** | 2.1.0-1 | A multi-platform program which generates PostScript lunar calendars in a yearly format | https://pcal.sourceforge.net/ |
-| **ldc** | 1.30.0-3 | D programming language compiler, built with LLVM | https://github.com/ldc-developers/ldc |
-| **ldd** | 0.3-2 | Fake ldd command | https://github.com/termux/termux-packages |
+| **ldc** | 1.30.0-3 | D programming language compiler, built with LLVM | https://github.com/aripitek/ldc-developers/ldc |
+| **ldd** | 0.3-2 | Fake ldd command | https://github.com/aripitek/termux/termux-packages |
 | **ldns** | 1.8.4-1 | Library for simplifying DNS programming and supporting recent and experimental RFCs | https://www.nlnetlabs.nl/projects/ldns/ |
 | **ldns-static** | 1.8.4-1 | Static libraries for ldns | https://www.nlnetlabs.nl/projects/ldns/ |
 | **ledger** | 3.4.1-2 | Powerful, double-entry accounting system | https://www.ledger-cli.org |
@@ -882,15 +883,15 @@
 | **leptonica-static** | 1.87.0 | Static libraries for leptonica | http://www.leptonica.com/ |
 | **less** | 692 | Terminal pager program used to view the contents of a text file one screen at a time | https://www.greenwoodsoftware.com/less/ |
 | **lesspipe** | 2.25 | An input filter for the pager less | https://lesspipe.org/ |
-| **leveldb** | 1.23-4 | Fast key-value storage library | https://github.com/google/leveldb |
+| **leveldb** | 1.23-4 | Fast key-value storage library | https://github.com/aripitek/google/leveldb |
 | **lexbor** | 3.0.0 | Fast embeddable web browser engine written in C with no dependencies | https://lexbor.com |
 | **lexter** | 1.0.3-5 | A real-time word puzzle for text terminals | https://www.kyne.au/~mark/software/lexter.php |
-| **lf** | 41 | Terminal file manager | https://github.com/gokcehan/lf |
+| **lf** | 41 | Terminal file manager | https://github.com/aripitek/gokcehan/lf |
 | **lfortran** | 0.63.0 | A modern open-source interactive Fortran compiler | https://lfortran.org/ |
 | **lfortran-static** | 0.63.0 | Static libraries for lfortran | https://lfortran.org/ |
 | **lftp** | 4.9.2-7 | FTP/HTTP client and file transfer program | https://lftp.tech/ |
 | **lftp-static** | 4.9.2-7 | Static libraries for lftp | https://lftp.tech/ |
-| **lgogdownloader** | 3.18-2 | Open source downloader to GOG.com for Linux users using the same API as the official GOGDownloader | https://sites.google.com/site/gogdownloader/ |
+| **lgogdownloader** | 3.18-2 | Open source downloader to GOG.com for Linux users using the same API as the official GOGDownloader | https://github.com/aripitek/sites.google.com/site/gogdownloader/ |
 | **lhasa** | 0.5.0-1 | LHA compressor/decompressor | https://lhasa.soulsphere.org/ |
 | **lhasa-static** | 0.5.0-1 | Static libraries for lhasa | https://lhasa.soulsphere.org/ |
 | **liba52** | 0.8.0-3 | A free library for decoding ATSC A/52 streams | http://liba52.sourceforge.net/ |
@@ -912,12 +913,12 @@
 | **libandroid-spawn** | 0.3 | Shared library for the posix_spawn system function | https://man7.org/linux/man-pages/man3/posix_spawn.3.html |
 | **libandroid-spawn-static** | 0.3 | Static libraries for libandroid-spawn | https://man7.org/linux/man-pages/man3/posix_spawn.3.html |
 | **libandroid-stub** | 29-1 | Stub libandroid.so for non-Android certified environment | https://android.googlesource.com/platform/frameworks/base/+/main/native/android |
-| **libandroid-support** | 29-1 | Library extending the Android C library (Bionic) for additional multibyte, locale and math support | https://github.com/termux/libandroid-support |
-| **libandroid-support-static** | 29-1 | Static libraries for libandroid-support | https://github.com/termux/libandroid-support |
+| **libandroid-support** | 29-1 | Library extending the Android C library (Bionic) for additional multibyte, locale and math support | https://github.com/aripitek/termux/libandroid-support |
+| **libandroid-support-static** | 29-1 | Static libraries for libandroid-support | https://github.com/aripitek/termux/libandroid-support |
 | **libandroid-sysv-semaphore** | 0.1-1 | A shared library providing System V semaphores | https://android.googlesource.com/platform/bionic/+/refs/heads/master/libc/bionic/sys_sem.cpp |
 | **libandroid-sysv-semaphore-static** | 0.1-1 | Static libraries for libandroid-sysv-semaphore | https://android.googlesource.com/platform/bionic/+/refs/heads/master/libc/bionic/sys_sem.cpp |
-| **libandroid-utimes** | 0.4 | futimes, futimesat and lutimes from bionic | https://github.com/termux/libandroid-utimes |
-| **libandroid-utimes-static** | 0.4 | Static libraries for libandroid-utimes | https://github.com/termux/libandroid-utimes |
+| **libandroid-utimes** | 0.4 | futimes, futimesat and lutimes from bionic | https://github.com/aripitek/termux/libandroid-utimes |
+| **libandroid-utimes-static** | 0.4 | Static libraries for libandroid-utimes | https://github.com/aripitek/termux/libandroid-utimes |
 | **libandroid-wordexp** | 0.1-1 | Shared library for the wordexp(3) system function | https://man7.org/linux/man-pages/man3/wordexp.3.html |
 | **libandroid-wordexp-static** | 0.1-1 | Static libraries for libandroid-wordexp | https://man7.org/linux/man-pages/man3/wordexp.3.html |
 | **libao** | 1.2.2-8 | A cross platform audio library | https://www.xiph.org/ao/ |
@@ -927,20 +928,20 @@
 | **libapt-pkg-perl** | 0.1.40-14 | Perl interface to APT's libapt-pkg | https://packages.debian.org/libapt-pkg-perl |
 | **libarchive** | 3.8.7 | Multi-format archive and compression library | https://www.libarchive.org/ |
 | **libarchive-static** | 3.8.7 | Static libraries for libarchive | https://www.libarchive.org/ |
-| **libarrow-cpp** | 24.0.0 | C++ libraries for Apache Arrow | https://github.com/apache/arrow |
+| **libarrow-cpp** | 24.0.0 | C++ libraries for Apache Arrow | https://github.com/aripitek/apache/arrow |
 | **libasio** | 1.36.0 | Cross-platform C++ library for network and low-level I/O programming | https://think-async.com/Asio |
 | **libasm** | 0.193-1 | Library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |
 | **libasm-static** | 0.193-1 | Static library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |
-| **libass** | 0.17.4-1 | A portable library for SSA/ASS subtitles rendering | https://github.com/libass/libass |
-| **libass-static** | 0.17.4-1 | Static libraries for libass | https://github.com/libass/libass |
+| **libass** | 0.17.4-1 | A portable library for SSA/ASS subtitles rendering | https://github.com/aripitek/libass/libass |
+| **libass-static** | 0.17.4-1 | Static libraries for libass | https://github.com/aripitek/libass/libass |
 | **libassuan** | 3.0.2-1 | Library implementing the Assuan IPC protocol used between most newer GnuPG components | https://www.gnupg.org/related_software/libassuan/ |
 | **libassuan-static** | 3.0.2-1 | Static libraries for libassuan | https://www.gnupg.org/related_software/libassuan/ |
-| **libatomic-ops** | 7.10.0 | Provides semi-portable access to hardware-provided atomic memory update operations | https://github.com/bdwgc/libatomic_ops |
+| **libatomic-ops** | 7.10.0 | Provides semi-portable access to hardware-provided atomic memory update operations | https://github.com/aripitek/bdwgc/libatomic_ops |
 | **libatomic-ops-static** | 7.10.0 | Static libraries for libatomic-ops | https://github.com/bdwgc/libatomic_ops |
 | **libavif** | 1.4.1 | Library for encoding and decoding .avif files | https://github.com/AOMediaCodec/libavif |
 | **libbcprov-java** | 1.84 | A lightweight cryptography API for Java | https://www.bouncycastle.org/java.html |
 | **libblkid** | 2.41.3 | Block device identification library | https://en.wikipedia.org/wiki/Util-linux |
-| **libblocksruntime** | 1:6.2.1 | LLVM Blocks runtime library | https://github.com/swiftlang/swift-corelibs-libdispatch |
+| **libblocksruntime** | 1:6.2.1 | LLVM Blocks runtime library | https://github.com/aripitek/swiftlang/swift-corelibs-libdispatch |
 | **libblosc** | 1.21.6-2 | A blocking, shuffling and loss-less compression library | https://www.blosc.org |
 | **libblosc-static** | 1.21.6-2 | Static libraries for libblosc | https://www.blosc.org |
 | **libblosc2** | 2.23.1 | A blocking, shuffling and loss-less compression library | https://www.blosc.org |
@@ -951,12 +952,12 @@
 | **libbs2b-static** | 3.1.0-2 | Static libraries for libbs2b | https://bs2b.sourceforge.net/ |
 | **libbsd** | 0.11.7-2 | utility functions from BSD systems | https://libbsd.freedesktop.org |
 | **libbsd-static** | 0.11.7-2 | Static libraries for libbsd | https://libbsd.freedesktop.org |
-| **libbullet** | 3.25-2 | SDK for real-time collision detection and multi-physics simulation for robotics, VR, etc | https://github.com/bulletphysics/bullet3 |
+| **libbullet** | 3.25-2 | SDK for real-time collision detection and multi-physics simulation for robotics, VR, etc | https://github.com/aripitek/bulletphysics/bullet3 |
 | **libburn** | 1.5.8 | Library for reading, mastering and writing optical discs | https://dev.lovelyhq.com/libburnia |
 | **libburn-static** | 1.5.8 | Static libraries for libburn | https://dev.lovelyhq.com/libburnia |
 | **libbz2** | 1.0.8-8 | BZ2 format compression library | http://www.bzip.org/ |
 | **libc++** | 29 | C++ Standard Library | https://libcxx.llvm.org/ |
-| **libc++utilities** | 5.34.0 | Useful C++ classes and routines such as argument parser, IO and conversion utilities | https://github.com/Martchus/cpp-utilities |
+| **libc++utilities** | 5.34.0 | Useful C++ classes and routines such as argument parser, IO and conversion utilities | https://github.com/aripitek/Martchus/cpp-utilities |
 | **libc-client** | 2007f-4 | UW IMAP c-client library | https://www.washington.edu/imap/ |
 | **libc-client-static** | 2007f-4 | Static libraries for libc-client | https://www.washington.edu/imap/ |
 | **libcaca** | 0.99.beta20-3 | Graphics library that outputs text instead of pixels | http://caca.zoy.org/wiki/libcaca |
@@ -1676,7 +1677,7 @@
 | **luvi** | 1:2.15.0-2 | A project in-between luv and luvit | https://luvit.io |
 | **luvit** | 2.18.1-1 | Asynchronous I/O for Lua | https://luvit.io |
 | **lux** | 0.24.1-2 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
-| **lux-cli** | 0.28.6 | A package manager for Lua, similar to luarocks | https://lux.lumen-labs.org |
+| **lux-cli** | 0.28.5 | A package manager for Lua, similar to luarocks | https://lux.lumen-labs.org |
 | **lv2** | 1.18.10-7 | A plugin standard for audio systems | https://lv2plug.in/ |
 | **lychee** | 0.24.1 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
 | **lynx** | 2.9.2-1 | The text web browser | http://lynx.browser.org/ |
@@ -2431,7 +2432,7 @@
 | **stone** | 2.4-3 | A TCP/IP repeater in the application layer | https://www.gcd.org/sengoku/stone/ |
 | **storj-uplink** | 1.152.6 | Storj DCS Uplink CLI | https://www.storj.io/integrations/uplink-cli |
 | **stow** | 2.4.1 | Tool for managing the installation of multiple software packages into a single directory | https://www.gnu.org/software/stow/ |
-| **strace** | 7.0 | Debugging utility to monitor system calls and signals received | https://strace.io/ |
+| **strace** | 6.19 | Debugging utility to monitor system calls and signals received | https://strace.io/ |
 | **streamripper** | 1.64.6-3 | Records and splits streaming mp3 into tracks | https://streamripper.sourceforge.net/ |
 | **stunnel** | 5.78 | Socket wrapper which can provide TLS support to ordinary applications | https://www.stunnel.org/ |
 | **stunnel-static** | 5.78 | Static libraries for stunnel | https://www.stunnel.org/ |
@@ -2691,7 +2692,7 @@
 | **vlc-static** | 3.0.23-2 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-4 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.3-1 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 2026.04.27 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
+| **vtm** | 2026.04.26 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
 | **vttest** | 20251205 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vulkan-extension-layer** | 1.4.349 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
 | **vulkan-headers** | 1.4.349 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
@@ -2706,7 +2707,7 @@
 | **w3m** | 0.5.6 | Text based Web browser and pager | https://w3m.sourceforge.net/ |
 | **w3m-img** | 0.5.6 | Inline image extension support utilities for w3m | https://w3m.sourceforge.net/ |
 | **wabt** | 1.0.40 | The WebAssembly Binary Toolkit | https://github.com/WebAssembly/wabt |
-| **wakatime-cli** | 2.7.5 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
+| **wakatime-cli** | 2.7.0 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
 | **walk** | 1.13.0 | A terminal file manager | https://github.com/antonmedv/walk |
 | **wallust** | 3.5.2 | Generate colors from an image | https://explosion-mental.codeberg.page/wallust |
 | **wasi-libc** | 30 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |
