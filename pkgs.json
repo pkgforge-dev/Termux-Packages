@@ -1813,7 +1813,7 @@
   },
   {
     "Package": "cups",
-    "Version": "2.4.18",
+    "Version": "2.4.19",
     "Description": "Common UNIX Printing System",
     "Homepage": "https://www.cups.org/"
   },
@@ -1825,7 +1825,7 @@
   },
   {
     "Package": "cups-static",
-    "Version": "2.4.18",
+    "Version": "2.4.19",
     "Description": "Static libraries for cups",
     "Homepage": "https://www.cups.org/"
   },
@@ -13213,7 +13213,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "4.42.1",
+    "Version": "4.43.0",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -13963,7 +13963,7 @@
   },
   {
     "Package": "shaderc",
-    "Version": "2026.1",
+    "Version": "2026.2",
     "Description": "Collection of tools, libraries, and tests for Vulkan shader compilation",
     "Homepage": "https://github.com/google/shaderc"
   },
@@ -15859,7 +15859,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.11.7",
+    "Version": "0.11.8",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
@@ -16015,7 +16015,7 @@
   },
   {
     "Package": "vim",
-    "Version": "9.2.0350",
+    "Version": "9.2.0400",
     "Description": "Vi IMproved - enhanced vi editor",
     "Homepage": "https://www.vim.org"
   },
@@ -16573,7 +16573,7 @@
   },
   {
     "Package": "xxd",
-    "Version": "9.2.0350",
+    "Version": "9.2.0400",
     "Description": "Hexdump utility from vim",
     "Homepage": "https://www.vim.org"
   },
@@ -16765,7 +16765,7 @@
   },
   {
     "Package": "zk",
-    "Version": "0.15.2",
+    "Version": "0.15.3",
     "Description": "A plain text note-taking assistant",
     "Homepage": "https://zk-org.github.io/zk/"
   },

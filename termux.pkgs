@@ -300,9 +300,9 @@
 | **ctags** | 2:6.2.1 | Universal ctags: Source code index builder | https://ctags.io/ |
 | **ctypes-sh** | 1.2-2 | A foreign function interface for bash | https://github.com/taviso/ctypes.sh |
 | **cuetools** | 1.4.1-1 | A set of utilities for working with Cue Sheet (cue) and Table of Contents (toc) files | https://github.com/svend/cuetools |
-| **cups** | 2.4.18 | Common UNIX Printing System | https://www.cups.org/ |
+| **cups** | 2.4.19 | Common UNIX Printing System | https://www.cups.org/ |
 | **cups-pdf** | 3.0.1-3 | CUPS PDF backend | https://www.cups-pdf.de/ |
-| **cups-static** | 2.4.18 | Static libraries for cups | https://www.cups.org/ |
+| **cups-static** | 2.4.19 | Static libraries for cups | https://www.cups.org/ |
 | **curl** | 8.19.0 | Command line tool for transferring data with URL syntax | https://curl.se/ |
 | **curlie** | 1.8.2 | The power of curl, the ease of use of httpie | https://curlie.io/ |
 | **curseofwar** | 1.3.0-5 | Fast-paced action strategy game focusing on high-level strategic planning | http://a-nikolaev.github.io/curseofwar/ |
@@ -2200,7 +2200,7 @@
 | **rage** | 0.11.2 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4-1 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4-1 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
-| **railway-cli** | 4.42.1 | This is the command line interface for Railway | https://railway.app |
+| **railway-cli** | 4.43.0 | This is the command line interface for Railway | https://railway.app |
 | **range-v3** | 0.12.0 | Range library for C++14/17/20, basis for C++20's std::ranges | https://github.com/ericniebler/range-v3 |
 | **ranger** | 1.9.4-1 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-7 | Fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |
@@ -2325,7 +2325,7 @@
 | **serf-static** | 1.3.10-2 | Static libraries for serf | https://serf.apache.org/ |
 | **sfeed** | 2.4 | Shell-script/crontab oriented feed aggregator and parser utility (curses-based reader included) | https://codemadness.org/sfeed-simple-feed-parser.html |
 | **sftpgo** | 2.7.1 | Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server | https://sftpgo.com/ |
-| **shaderc** | 2026.1 | Collection of tools, libraries, and tests for Vulkan shader compilation | https://github.com/google/shaderc |
+| **shaderc** | 2026.2 | Collection of tools, libraries, and tests for Vulkan shader compilation | https://github.com/google/shaderc |
 | **sharutils** | 4.15.2-4 | Utilities for packaging and unpackaging shell archives | https://www.gnu.org/software/sharutils/ |
 | **shc** | 4.0.3-4 | Shell script compiler | https://neurobin.org/projects/softwares/unix/shc/ |
 | **sheldon** | 0.8.5-1 | Fast, configurable, shell plugin manager | https://sheldon.cli.rs/ |
@@ -2641,7 +2641,7 @@
 | **util-linux-static** | 2.41.3 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-2 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.41.3 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **uv** | 0.11.7 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
+| **uv** | 0.11.8 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.31-1 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.48.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.19 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
@@ -2667,7 +2667,7 @@
 | **viddy** | 1.3.0-2 | A modern watch command | https://github.com/sachaos/viddy |
 | **vifm** | 0.14.3-1 | File manager with vi like keybindings | https://vifm.info/ |
 | **vile** | 9.8z-1 | VI Like Emacs - vi work-alike | https://invisible-island.net/vile/ |
-| **vim** | 9.2.0350 | Vi IMproved - enhanced vi editor | https://www.vim.org |
+| **vim** | 9.2.0400 | Vi IMproved - enhanced vi editor | https://www.vim.org |
 | **virglrenderer** | 1.3.0 | A virtual 3D GPU for use inside qemu virtual machines | https://virgil3d.github.io/ |
 | **virglrenderer-android** | 1.3.0 | A virtual 3D GPU for use inside qemu virtual machines over OpenGLES libraries on Android | https://virgil3d.github.io/ |
 | **virustotal-cli** | 1.3.0 | Command line interface for VirusTotal | https://github.com/VirusTotal/vt-cli |
@@ -2760,7 +2760,7 @@
 | **xtrans** | 1.6.0 | X transport library | https://xorg.freedesktop.org/ |
 | **xvidcore** | 1.3.7-1 | High performance and high quality MPEG-4 library | https://www.xvid.com/ |
 | **xvidcore-static** | 1.3.7-1 | Static libraries for xvidcore | https://www.xvid.com/ |
-| **xxd** | 9.2.0350 | Hexdump utility from vim | https://www.vim.org |
+| **xxd** | 9.2.0400 | Hexdump utility from vim | https://www.vim.org |
 | **xxhash** | 0.8.3-1 | Extremely fast non-cryptographic hash algorithm | https://cyan4973.github.io/xxHash/ |
 | **xxhash-static** | 0.8.3-1 | Static libraries for xxhash | https://cyan4973.github.io/xxHash/ |
 | **xz-utils** | 5.8.3 | XZ-format compression tools | https://tukaani.org/xz/ |
@@ -2792,7 +2792,7 @@
 | **zile** | 2.6.4-2 | Lightweight clone of the Emacs text editor | https://www.gnu.org/software/zile/ |
 | **zip** | 3.0-7 | Tools for working with zip files | https://sourceforge.net/projects/infozip/ |
 | **zipios** | 2.3.4 | A small C++ library for reading and writing zip files | https://zipios.sourceforge.io/ |
-| **zk** | 0.15.2 | A plain text note-taking assistant | https://zk-org.github.io/zk/ |
+| **zk** | 0.15.3 | A plain text note-taking assistant | https://zk-org.github.io/zk/ |
 | **zlib** | 1.3.2 | Compression library implementing the deflate compression method found in gzip and PKZIP | https://www.zlib.net/ |
 | **zlib-static** | 1.3.2 | Static libraries for zlib | https://www.zlib.net/ |
 | **zls** | 0.16.0 | Zig language server | https://github.com/zigtools/zls |
