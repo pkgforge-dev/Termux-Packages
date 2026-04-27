@@ -7273,13 +7273,13 @@
   },
   {
     "Package": "libminizip-ng",
-    "Version": "4.1.2",
+    "Version": "4.2.0",
     "Description": "A zip manipulation library written in C",
     "Homepage": "https://github.com/zlib-ng/minizip-ng"
   },
   {
     "Package": "libminizip-ng-static",
-    "Version": "4.1.2",
+    "Version": "4.2.0",
     "Description": "Static libraries for libminizip-ng",
     "Homepage": "https://github.com/zlib-ng/minizip-ng"
   },
@@ -12361,7 +12361,7 @@
   },
   {
     "Package": "pocketbase",
-    "Version": "0.37.3",
+    "Version": "0.37.4",
     "Description": "An open source Go backend",
     "Homepage": "https://github.com/pocketbase/pocketbase"
   },
@@ -13669,7 +13669,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20260420",
+    "Version": "20260427",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://rust-analyzer.github.io/"
   },

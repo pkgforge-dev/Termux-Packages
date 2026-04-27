@@ -1210,8 +1210,8 @@
  libmicrohttpd  1.0.5  A small C library that is supposed to make it easy to run an HTTP server as part of another application  http://www.gnu.org/software/libmicrohttpd/ 
  libmicrohttpd-static  1.0.5  Static libraries for libmicrohttpd  http://www.gnu.org/software/libmicrohttpd/ 
  libminizip  1.3.2-1  Mini zip and unzip based on zlib  https://www.winimage.com/zLibDll/minizip.html 
- libminizip-ng  4.1.2  A zip manipulation library written in C  https://github.com/zlib-ng/minizip-ng 
- libminizip-ng-static  4.1.2  Static libraries for libminizip-ng  https://github.com/zlib-ng/minizip-ng 
+ libminizip-ng  4.2.0  A zip manipulation library written in C  https://github.com/zlib-ng/minizip-ng 
+ libminizip-ng-static  4.2.0  Static libraries for libminizip-ng  https://github.com/zlib-ng/minizip-ng 
  libminizip-static  1.3.2-1  Static libraries for libminizip  https://www.winimage.com/zLibDll/minizip.html 
  libmnl  1.0.5-1  a minimalistic user-space library oriented to Netlink developers  https://www.netfilter.org/projects/libmnl/ 
  libmnl-static  1.0.5-1  Static libraries for libmnl  https://www.netfilter.org/projects/libmnl/ 
@@ -2058,7 +2058,7 @@
  plzip  1.13  A massively parallel lossless data compressor based on the lzlib compression library  https://www.nongnu.org/lzip/plzip.html 
  pngcrush  1.8.13-2  Recompresses png files  https://pmt.sourceforge.io/pngcrush/ 
  pngquant  3.0.3-2  PNG image optimising utility  https://pngquant.org 
- pocketbase  0.37.3  An open source Go backend  https://github.com/pocketbase/pocketbase 
+ pocketbase  0.37.4  An open source Go backend  https://github.com/pocketbase/pocketbase 
  poke  4.3-1  Interactive, extensible editor for binary data.  http://www.jemarch.net/poke.html 
  poke-static  4.3-1  Static libraries for poke  http://www.jemarch.net/poke.html 
  polipo  1.1.1-1  A small and fast caching web proxy  http://www.pps.jussieu.fr/~jch/software/polipo/ 
@@ -2276,7 +2276,7 @@
  runit-static  2.1.2-4  Static libraries for runit  http://smarden.org/runit 
  rush  0.9.0  A cross-platform command-line tool for executing jobs in parallel  https://github.com/shenwei356/rush 
  rust  1.95.0  Systems programming language focused on safety, speed and concurrency  https://www.rust-lang.org/ 
- rust-analyzer  20260420  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
+ rust-analyzer  20260427  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
  rust-bindgen  0.72.1  Automatically generates Rust FFI bindings to C (and some C++) libraries  https://github.com/rust-lang/rust-bindgen 
  rust-docs  1.95.0  Rust documentation  https://www.rust-lang.org/ 
  rust-src  1.95.0  Rust source code files  https://www.rust-lang.org/ 
