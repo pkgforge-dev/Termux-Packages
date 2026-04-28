@@ -616,7 +616,7 @@
 | **git-town** | 22.2.0 | Git branches made easy | https://www.git-town.com |
 | **gitea** | 1.25.5 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
 | **gitflow-avh** | 1.12.3-9 | Extend git with Vincent Driessen's branching model. The AVH Edition adds more functionality. | https://github.com/petervanderdoes/gitflow/ |
-| **gitoxide** | 0.52.1 | Rust implementation of Git | https://github.com/GitoxideLabs/gitoxide |
+| **gitoxide** | 0.53.0 | Rust implementation of Git | https://github.com/GitoxideLabs/gitoxide |
 | **gitui** | 0.28.1 | Blazing fast terminal-ui for git written in rust | https://github.com/gitui-org/gitui |
 | **gkermit** | 2.01-1 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
 | **glab-cli** | 1.93.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
@@ -1913,7 +1913,7 @@
 | **octomap** | 1.10.0-1 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0-1 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-5 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 29.10.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 29.11.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **oidn** | 2.4.1 | Intel® Open Image Denoise library | https://www.openimagedenoise.org |
 | **okc-agents** | 0.1.2-2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.7 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
