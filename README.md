@@ -255,6 +255,7 @@
 | **clamav-static** | 1.5.2 | Static libraries for clamav | https://www.clamav.net/ |
 | **clang** | 21.1.8-2 | C language frontend for LLVM | https://clang.llvm.org/ |
 | **clblast** | 1.7.0 | Tuned OpenCL BLAS | https://github.com/CNugteren/CLBlast |
+| **cli11** | 2.6.2 | Command line parser for C++11 | https://github.com/CLIUtils/CLI11 |
 | **clidle** | 2022.05.25-3 | Play Wordle over SSH | https://github.com/ajeetdsouza/clidle |
 | **clifm** | 1.27.1 | The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell | https://github.com/leo-arch/clifm |
 | **clinfo** | 3.0.25.02.14-1 | Print all known information about all available OpenCL platforms and devices in the system | https://github.com/Oblomov/clinfo |
@@ -506,7 +507,7 @@
 | **fetchmail** | 6.6.3 | A remote-mail retrieval utility | https://www.fetchmail.info/ |
 | **fetchmailconf** | 6.6.3 | A GUI configurator for generating fetchmail configuration files | https://www.fetchmail.info/ |
 | **fff** | 2.2 | A simple file manager written in bash | https://github.com/dylanaraps/fff |
-| **ffmpeg** | 8.1 | Tools and libraries to manipulate a wide range of multimedia formats and protocols | https://ffmpeg.org |
+| **ffmpeg** | 8.1-1 | Tools and libraries to manipulate a wide range of multimedia formats and protocols | https://ffmpeg.org |
 | **ffmpegthumbnailer** | 2.3.0 | Lightweight video thumbnailer that can be used by file managers | https://github.com/dirkvdb/ffmpegthumbnailer |
 | **ffsend** | 0.2.77-2 | A fully featured Firefox Send client | https://gitlab.com/timvisee/ffsend |
 | **fftw** | 3.3.10-4 | Library for computing the Discrete Fourier Transform (DFT) in one or more dimensions | http://www.fftw.org/ |
@@ -595,7 +596,7 @@
 | **gflags** | 2.3.0 | A C++ library that implements commandline flags processing | https://github.com/gflags/gflags |
 | **gflags-static** | 2.3.0 | Static libraries for gflags | https://github.com/gflags/gflags |
 | **gforth** | 0.7.3-3 | The Forth implementation of the GNU project | https://www.gnu.org/software/gforth/ |
-| **gh** | 2.91.0 | GitHub’s official command line tool | https://cli.github.com/ |
+| **gh** | 2.92.0 | GitHub’s official command line tool | https://cli.github.com/ |
 | **ghc** | 9.12.2-2 | The Glasgow Haskell Compiler | https://www.haskell.org/ghc/ |
 | **ghostscript** | 10.07.0 | Interpreter for the PostScript language and for PDF | https://www.ghostscript.com/ |
 | **giflib** | 5.2.2-2 | A library for reading and writing gif images | https://giflib.sourceforge.net/ |
@@ -822,8 +823,8 @@
 | **jbig2enc-static** | 1:0.31 | Static libraries for jbig2enc | https://github.com/agl/jbig2enc |
 | **jcal** | 0.5.1-1 | UNIX-cal-like tool to display Jalali (Persian/Iranian) calendar | http://nongnu.org/jcal |
 | **jcal-static** | 0.5.1-1 | Static libraries for jcal | http://nongnu.org/jcal |
-| **jellyfin-ffmpeg** | 10.11.5-2 | FFmpeg for Jellyfin with custom extensions and enhancements | https://jellyfin.org |
-| **jellyfin-server** | 10.11.5-2 | A free media system for organizing and streaming media (server) | https://jellyfin.org |
+| **jellyfin-ffmpeg** | 10.11.5-3 | FFmpeg for Jellyfin with custom extensions and enhancements | https://jellyfin.org |
+| **jellyfin-server** | 10.11.5-3 | A free media system for organizing and streaming media (server) | https://jellyfin.org |
 | **jfrog-cli** | 2.102.0 | A CLI for JFrog products | https://jfrog.com/getcli |
 | **jftui** | 0.7.5 | jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server. | https://github.com/Aanok/jftui |
 | **jhead** | 3.08-1 | Exif Jpeg header manipulation tool | http://www.sentex.net/~mwandel/jhead/ |
@@ -943,7 +944,8 @@
 | **libblocksruntime** | 1:6.2.1 | LLVM Blocks runtime library | https://github.com/swiftlang/swift-corelibs-libdispatch |
 | **libblosc** | 1.21.6-2 | A blocking, shuffling and loss-less compression library | https://www.blosc.org |
 | **libblosc-static** | 1.21.6-2 | Static libraries for libblosc | https://www.blosc.org |
-| **libblosc2** | 2.23.1 | A blocking, shuffling and loss-less compression library | https://www.blosc.org |
+| **libblosc2** | 3.0.0 | A blocking, shuffling and loss-less compression library | https://www.blosc.org |
+| **libblosc2-static** | 3.0.0 | Static libraries for libblosc2 | https://www.blosc.org |
 | **libbluray** | 1.4.1 | An open-source library designed for Blu-Ray Discs playback for media players | https://code.videolan.org/videolan/libbluray/ |
 | **libbluray-static** | 1.4.1 | Static libraries for libbluray | https://code.videolan.org/videolan/libbluray/ |
 | **libbluray-utils** | 1.4.1 | Example utilities for libbluray | https://code.videolan.org/videolan/libbluray/ |
@@ -1119,8 +1121,8 @@
 | **libharu** | 2.4.6 | Free, cross platform, open source library for generating PDF files | http://libharu.org/ |
 | **libhdf5** | 1.14.4.3-1 | Hierarchical Data Format 5 (HDF5) | https://portal.hdfgroup.org/display/support |
 | **libhdf5-static** | 1.14.4.3-1 | Static libraries for libhdf5 | https://portal.hdfgroup.org/display/support |
-| **libheif** | 1.21.2 | HEIF (HEIC/AVIF) image encoding and decoding library | https://github.com/strukturag/libheif |
-| **libheif-progs** | 1.21.2 | Programs for manipulating HEIF (HEIC/AVIF) image files | https://github.com/strukturag/libheif |
+| **libheif** | 1.21.2-1 | HEIF (HEIC/AVIF) image encoding and decoding library | https://github.com/strukturag/libheif |
+| **libheif-progs** | 1.21.2-1 | Programs for manipulating HEIF (HEIC/AVIF) image files | https://github.com/strukturag/libheif |
 | **libhiredis** | 1.3.0-1 | Hiredis is a minimalistic C client library for the Redis database | https://redis.com/lp/hiredis |
 | **libhtmlcxx** | 0.87-5 | A simple non-validating css1 and html parser for C++ | https://htmlcxx.sourceforge.net/ |
 | **libhtmlcxx-static** | 0.87-5 | Static libraries for libhtmlcxx | https://htmlcxx.sourceforge.net/ |
@@ -1430,7 +1432,7 @@
 | **libsqlite** | 3.53.0 | Library implementing a self-contained and transactional SQL database engine | https://www.sqlite.org |
 | **libsqlite-static** | 3.53.0 | Static libraries for libsqlite | https://www.sqlite.org |
 | **libsqlite-tcl** | 3.53.0 | tcl bindings for SQLite | https://www.sqlite.org |
-| **libsrt** | 1.5.4-2 | Secure Reliable Transport (SRT) Protocol | https://github.com/Haivision/srt |
+| **libsrt** | 1.5.5 | Secure Reliable Transport (SRT) Protocol | https://github.com/Haivision/srt |
 | **libssh** | 0.12.0-1 | Tiny C SSH library | https://www.libssh.org/ |
 | **libssh2** | 1.11.1-1 | Client-side library implementing the SSH2 protocol | https://www.libssh2.org |
 | **libssh2-static** | 1.11.1-1 | Static libraries for libssh2 | https://www.libssh2.org |
@@ -1549,8 +1551,8 @@
 | **libx11-static** | 1.8.13 | Static libraries for libx11 | https://xorg.freedesktop.org/ |
 | **libx264** | 1:0.164.3191-1 | Library for encoding video streams into the H.264/MPEG-4 AVC format | https://www.videolan.org/developers/x264.html |
 | **libx264-static** | 1:0.164.3191-1 | Static libraries for libx264 | https://www.videolan.org/developers/x264.html |
-| **libx265** | 4.1-3 | H.265/HEVC video stream encoder library | http://x265.org/ |
-| **libx265-static** | 4.1-3 | Static libraries for libx265 | http://x265.org/ |
+| **libx265** | 4.2 | H.265/HEVC video stream encoder library | http://x265.org/ |
+| **libx265-static** | 4.2 | Static libraries for libx265 | http://x265.org/ |
 | **libxapian** | 2.0.0 | Xapian search engine library | https://xapian.org |
 | **libxapian-static** | 2.0.0 | Static libraries for libxapian | https://xapian.org |
 | **libxau** | 1.0.12-2 | X11 authorisation library | https://xorg.freedesktop.org/ |
@@ -2114,7 +2116,7 @@
 | **pulseaudio** | 17.0-1 | A featureful, general-purpose sound server | https://www.freedesktop.org/wiki/Software/PulseAudio |
 | **pulseaudio-glib** | 17.0-1 | PulseAudio GLIB mainloop component | https://www.freedesktop.org/wiki/Software/PulseAudio |
 | **pup** | 0.4.0-7 | command line tool for processing HTML | https://github.com/ericchiang/pup |
-| **pure-ftpd** | 1.0.53 | Pure-FTPd is a free (BSD), secure, production-quality and standard-conformant FTP server | https://www.pureftpd.org/project/pure-ftpd |
+| **pure-ftpd** | 1.0.54 | Pure-FTPd is a free (BSD), secure, production-quality and standard-conformant FTP server | https://www.pureftpd.org/project/pure-ftpd |
 | **pv** | 1.10.5 | Terminal-based tool for monitoring the progress of data through a pipeline | https://www.ivarch.com/programs/pv.shtml |
 | **pwgen** | 2.08-2 | Password generator which by default, unless given the '-s' option, generates memorable but insecure passwords | http://pwgen.sourceforge.net/ |
 | **pybind11** | 3.0.4 | A lightweight header-only library that exposes C++ types in Python and vice versa | https://pybind11.readthedocs.io/ |
@@ -2271,7 +2273,7 @@
 | **rq** | 1.0.4-2 | A tool for doing record analysis and transformation | https://github.com/dflemstr/rq |
 | **rsgain** | 3.7 | A simple audio normalizazion utility | https://github.com/complexlogic/rsgain |
 | **rsnapshot** | 1.5.1 | A remote filesystem snapshot utility | https://www.rsnapshot.org/ |
-| **rsync** | 3.4.1-1 | Fast incremental file transfer utility | https://rsync.samba.org/ |
+| **rsync** | 3.4.2 | Fast incremental file transfer utility | https://rsync.samba.org/ |
 | **rtmpdump** | 2.6-1 | Small dumper for media content streamed over the RTMP protocol | https://rtmpdump.mplayerhq.hu/ |
 | **rtmpdump-static** | 2.6-1 | Static libraries for rtmpdump | https://rtmpdump.mplayerhq.hu/ |
 | **rtorrent** | 0.16.10 | Ncurses BitTorrent client based on libTorrent | https://rakshasa.github.io/rtorrent/ |
@@ -2405,7 +2407,7 @@
 | **squid** | 7.5 | Full-featured Web proxy cache server | http://www.squid-cache.org |
 | **sratom** | 0.6.22 | A small library for serialising LV2 atoms to and from RDF | https://drobilla.net/software/sratom.html |
 | **srelay** | 0.4.8p3-8 | A Free SOCKS proxy server | https://sourceforge.net/projects/socks-relay/ |
-| **srt-tools** | 1.5.4-2 | Command-line tools for libsrt | https://github.com/Haivision/srt |
+| **srt-tools** | 1.5.5 | Command-line tools for libsrt | https://github.com/Haivision/srt |
 | **srt2vobsub** | 1.0-8 | A command-line tool that generates a pair of .idx/.sub subtitle files from a textual subtitles file | https://srt2vobsub.sourceforge.io/ |
 | **ssdb** | 1.9.9-3 | A Redis compatible NoSQL database stored on disk | https://ssdb.io/ |
 | **ssdeep** | 2.14.1-2 | A program for computing context triggered piecewise hashes (CTPH) | https://ssdeep-project.github.io/ssdeep/ |
@@ -2687,11 +2689,11 @@
 | **vitetris** | 0.59.1-4 | Virtual terminal *tris clone | http://victornils.net/tetris/ |
 | **viu** | 1.6.1 | Terminal image viewer with native support for iTerm and Kitty | https://github.com/atanunq/viu |
 | **vivid** | 0.11.1 | A themeable LS_COLORS generator with a rich filetype datebase | https://github.com/sharkdp/vivid |
-| **vlc** | 3.0.23-2 | A popular libre and open source media player and multimedia engine | https://www.videolan.org/ |
-| **vlc-static** | 3.0.23-2 | Static libraries for vlc | https://www.videolan.org/ |
+| **vlc** | 3.0.23-3 | A popular libre and open source media player and multimedia engine | https://www.videolan.org/ |
+| **vlc-static** | 3.0.23-3 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-4 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.3-1 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 2026.04.27 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
+| **vtm** | 2026.04.28 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
 | **vttest** | 20251205 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vulkan-extension-layer** | 1.4.349 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
 | **vulkan-headers** | 1.4.349 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
@@ -2752,7 +2754,7 @@
 | **wv-tools** | 1.2.9-6 | Command-line tools for libwv | https://wvware.sourceforge.net/ |
 | **x11-repo** | 8.4-1 | Package repository containing X11 programs and libraries | https://github.com/termux/x11-packages |
 | **x264** | 1:0.164.3191-1 | Commandline video encoder for the H.264/MPEG-4 AVC format | https://www.videolan.org/developers/x264.html |
-| **x265** | 4.1-3 | H.265/HEVC video stream encoder tool | http://x265.org/ |
+| **x265** | 4.2 | H.265/HEVC video stream encoder tool | http://x265.org/ |
 | **xapian-tools** | 2.0.0 | Basic tools for the Xapian search engine | https://xapian.org |
 | **xcb-proto** | 1.17.0-2 | XML-XCB protocol descriptions | https://xcb.freedesktop.org/ |
 | **xdelta3** | 3.1.0-3 | xdelta3 - VCDIFF (RFC 3284) binary diff tool | https://github.com/jmacd/xdelta |

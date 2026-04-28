@@ -978,6 +978,10 @@
   Version: 1.7.0
   Description: Tuned OpenCL BLAS
   Homepage: https://github.com/CNugteren/CLBlast
+- Package: cli11
+  Version: 2.6.2
+  Description: Command line parser for C++11
+  Homepage: https://github.com/CLIUtils/CLI11
 - Package: clidle
   Version: 2022.05.25-3
   Description: Play Wordle over SSH
@@ -1983,7 +1987,7 @@
   Description: A simple file manager written in bash
   Homepage: https://github.com/dylanaraps/fff
 - Package: ffmpeg
-  Version: "8.1"
+  Version: 8.1-1
   Description: Tools and libraries to manipulate a wide range of multimedia formats and protocols
   Homepage: https://ffmpeg.org
 - Package: ffmpegthumbnailer
@@ -2339,7 +2343,7 @@
   Description: The Forth implementation of the GNU project
   Homepage: https://www.gnu.org/software/gforth/
 - Package: gh
-  Version: 2.91.0
+  Version: 2.92.0
   Description: GitHub’s official command line tool
   Homepage: https://cli.github.com/
 - Package: ghc
@@ -3247,11 +3251,11 @@
   Description: Static libraries for jcal
   Homepage: http://nongnu.org/jcal
 - Package: jellyfin-ffmpeg
-  Version: 10.11.5-2
+  Version: 10.11.5-3
   Description: FFmpeg for Jellyfin with custom extensions and enhancements
   Homepage: https://jellyfin.org
 - Package: jellyfin-server
-  Version: 10.11.5-2
+  Version: 10.11.5-3
   Description: A free media system for organizing and streaming media (server)
   Homepage: https://jellyfin.org
 - Package: jfrog-cli
@@ -3731,8 +3735,12 @@
   Description: Static libraries for libblosc
   Homepage: https://www.blosc.org
 - Package: libblosc2
-  Version: 2.23.1
+  Version: 3.0.0
   Description: A blocking, shuffling and loss-less compression library
+  Homepage: https://www.blosc.org
+- Package: libblosc2-static
+  Version: 3.0.0
+  Description: Static libraries for libblosc2
   Homepage: https://www.blosc.org
 - Package: libbluray
   Version: 1.4.1
@@ -4435,11 +4443,11 @@
   Description: Static libraries for libhdf5
   Homepage: https://portal.hdfgroup.org/display/support
 - Package: libheif
-  Version: 1.21.2
+  Version: 1.21.2-1
   Description: HEIF (HEIC/AVIF) image encoding and decoding library
   Homepage: https://github.com/strukturag/libheif
 - Package: libheif-progs
-  Version: 1.21.2
+  Version: 1.21.2-1
   Description: Programs for manipulating HEIF (HEIC/AVIF) image files
   Homepage: https://github.com/strukturag/libheif
 - Package: libhiredis
@@ -5679,7 +5687,7 @@
   Description: tcl bindings for SQLite
   Homepage: https://www.sqlite.org
 - Package: libsrt
-  Version: 1.5.4-2
+  Version: 1.5.5
   Description: Secure Reliable Transport (SRT) Protocol
   Homepage: https://github.com/Haivision/srt
 - Package: libssh
@@ -6155,11 +6163,11 @@
   Description: Static libraries for libx264
   Homepage: https://www.videolan.org/developers/x264.html
 - Package: libx265
-  Version: 4.1-3
+  Version: "4.2"
   Description: H.265/HEVC video stream encoder library
   Homepage: http://x265.org/
 - Package: libx265-static
-  Version: 4.1-3
+  Version: "4.2"
   Description: Static libraries for libx265
   Homepage: http://x265.org/
 - Package: libxapian
@@ -8415,7 +8423,7 @@
   Description: command line tool for processing HTML
   Homepage: https://github.com/ericchiang/pup
 - Package: pure-ftpd
-  Version: 1.0.53
+  Version: 1.0.54
   Description: Pure-FTPd is a free (BSD), secure, production-quality and standard-conformant FTP server
   Homepage: https://www.pureftpd.org/project/pure-ftpd
 - Package: pv
@@ -9043,7 +9051,7 @@
   Description: A remote filesystem snapshot utility
   Homepage: https://www.rsnapshot.org/
 - Package: rsync
-  Version: 3.4.1-1
+  Version: 3.4.2
   Description: Fast incremental file transfer utility
   Homepage: https://rsync.samba.org/
 - Package: rtmpdump
@@ -9579,7 +9587,7 @@
   Description: A Free SOCKS proxy server
   Homepage: https://sourceforge.net/projects/socks-relay/
 - Package: srt-tools
-  Version: 1.5.4-2
+  Version: 1.5.5
   Description: Command-line tools for libsrt
   Homepage: https://github.com/Haivision/srt
 - Package: srt2vobsub
@@ -10707,11 +10715,11 @@
   Description: A themeable LS_COLORS generator with a rich filetype datebase
   Homepage: https://github.com/sharkdp/vivid
 - Package: vlc
-  Version: 3.0.23-2
+  Version: 3.0.23-3
   Description: A popular libre and open source media player and multimedia engine
   Homepage: https://www.videolan.org/
 - Package: vlc-static
-  Version: 3.0.23-2
+  Version: 3.0.23-3
   Description: Static libraries for vlc
   Homepage: https://www.videolan.org/
 - Package: vobsub2srt
@@ -10723,7 +10731,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2026.04.27
+  Version: 2026.04.28
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vttest
@@ -10967,7 +10975,7 @@
   Description: Commandline video encoder for the H.264/MPEG-4 AVC format
   Homepage: https://www.videolan.org/developers/x264.html
 - Package: x265
-  Version: 4.1-3
+  Version: "4.2"
   Description: H.265/HEVC video stream encoder tool
   Homepage: http://x265.org/
 - Package: xapian-tools
