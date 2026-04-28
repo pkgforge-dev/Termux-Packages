@@ -14,7 +14,7 @@
 | **2048-c** | 1:1.0.3-1 | Console version of the game '2048' for GNU/Linux | https://github.com/mevdschee/2048.c |
 | **2ping** | 4.5.1-5 | A bi-directional ping utility | https://www.finnie.org/software/2ping/ |
 | **6tunnel** | 0.14 | Allows you to use services provided by IPv6 hosts with IPv4-only applications and vice-versa | https://github.com/wojtekka/6tunnel |
-| **7zip** | 26.00 | 7-Zip file archiver with a high compression ratio | https://www.7-zip.org |
+| **7zip** | 26.01 | 7-Zip file archiver with a high compression ratio | https://www.7-zip.org |
 | **8086tiny** | 1.25-5 | A PC XT-compatible emulator/virtual machine | https://github.com/adriancable/8086tiny |
 | **a52dec** | 0.8.0-3 | A test program for liba52 | http://liba52.sourceforge.net/ |
 | **aalib** | 1.4rc5-13 | A portable ASCII art graphic library | https://sourceforge.net/projects/aa-project/ |
@@ -125,7 +125,7 @@
 | **aview** | 1.3.0rc1-6 | High quality ascii-art image browser and animation player | https://aa-project.sourceforge.net/aview/ |
 | **avra** | 1.4.2-1 | Assember for the Atmel AVR microcontroller family | https://github.com/Ro5bert/avra |
 | **await** | 2.4.0 | Runs list of commands in parallel and waits for their termination | https://github.com/slavaGanzin/await |
-| **awscli** | 2.34.37 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
+| **awscli** | 2.34.38 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
 | **axel** | 2.17.14-1 | light command line download accelerator | https://github.com/axel-download-accelerator/axel |
 | **b3sum** | 1.8.5 | A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum | https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum |
 | **babl** | 0.1.126 | Dynamic pixel format translation library | https://gegl.org/babl/ |
@@ -2126,7 +2126,7 @@
 | **pypy3** | 7.3.21 | A fast, compliant alternative implementation of Python 3 | https://pypy.org |
 | **pypy3-tests** | 7.3.21 | Test files for PyPy 3 | https://pypy.org |
 | **pypy3-tkinter** | 7.3.21 | Tkinter support for PyPy 3 | https://pypy.org |
-| **pyrefly** | 0.62.0 | A fast type checker and language server for Python | https://github.com/facebook/pyrefly.git |
+| **pyrefly** | 0.63.0 | A fast type checker and language server for Python | https://github.com/facebook/pyrefly.git |
 | **pystring** | 1.1.4-1 | C++ functions matching the interface and behavior of python string methods with std::string | https://github.com/imageworks/pystring |
 | **python** | 3.13.13-1 | Python 3 programming language intended to enable clear programs | https://python.org/ |
 | **python-apsw** | 3.53.0.0 | Another Python SQLite Wrapper | https://rogerbinns.github.io/apsw/ |
