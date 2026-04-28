@@ -1969,7 +1969,7 @@
   },
   {
     "Package": "delve",
-    "Version": "1.26.2",
+    "Version": "1.26.3",
     "Description": "A debugger for the Go programming language",
     "Homepage": "https://github.com/go-delve/delve"
   },
@@ -3103,7 +3103,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.4.40",
+    "Version": "0.4.41",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -3199,7 +3199,7 @@
   },
   {
     "Package": "fresh-editor",
-    "Version": "0.3.0",
+    "Version": "0.3.1",
     "Description": "Text editor for your terminal: easy, powerful and fast",
     "Homepage": "https://getfresh.dev/"
   },
@@ -7273,13 +7273,13 @@
   },
   {
     "Package": "libminizip-ng",
-    "Version": "4.2.0",
+    "Version": "4.2.1",
     "Description": "A zip manipulation library written in C",
     "Homepage": "https://github.com/zlib-ng/minizip-ng"
   },
   {
     "Package": "libminizip-ng-static",
-    "Version": "4.2.0",
+    "Version": "4.2.1",
     "Description": "Static libraries for libminizip-ng",
     "Homepage": "https://github.com/zlib-ng/minizip-ng"
   },
@@ -10801,7 +10801,7 @@
   },
   {
     "Package": "mu",
-    "Version": "1.14.0",
+    "Version": "1.14.1",
     "Description": "Maildir indexer/searcher and Emacs client (mu4e)",
     "Homepage": "https://www.djcbsoftware.nl/code/mu/"
   },
@@ -11497,7 +11497,7 @@
   },
   {
     "Package": "onnxruntime",
-    "Version": "1.25.0",
+    "Version": "1.25.1",
     "Description": "Cross-platform, high performance ML inferencing and training accelerator",
     "Homepage": "https://onnxruntime.ai/"
   },
@@ -12817,7 +12817,7 @@
   },
   {
     "Package": "python-onnxruntime",
-    "Version": "1.25.0",
+    "Version": "1.25.1",
     "Description": "Cross-platform, high performance ML inferencing and training accelerator (Python bindings)",
     "Homepage": "https://onnxruntime.ai/"
   },
@@ -16177,7 +16177,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "2.7.5",
+    "Version": "2.9.0",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },
