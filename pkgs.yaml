@@ -2071,7 +2071,7 @@
   Description: Software synthesizer based on the SoundFont 2 specifications
   Homepage: https://github.com/FluidSynth/fluidsynth
 - Package: flyctl
-  Version: 0.4.41
+  Version: 0.4.42
   Description: Command line tools for fly.io services
   Homepage: https://fly.io
 - Package: fm
@@ -2955,7 +2955,7 @@
   Description: Utility that converts HTML documents into plain text
   Homepage: http://www.mbayer.de/html2text/
 - Package: htop
-  Version: 3.5.0
+  Version: 3.5.1
   Description: Interactive process viewer for Linux
   Homepage: https://htop.dev/
 - Package: htslib
@@ -2987,7 +2987,7 @@
   Description: Command-line wrapper for git that makes you better at GitHub
   Homepage: https://hub.github.com/
 - Package: hugo
-  Version: 0.160.1
+  Version: 0.161.0
   Description: A fast and flexible static site generator
   Homepage: https://gohugo.io/
 - Package: hummin
@@ -4651,11 +4651,11 @@
   Description: Static libraries for libknot
   Homepage: https://www.knot-dns.cz/
 - Package: libkokkos
-  Version: 5.1.0
+  Version: 5.1.1
   Description: Implements a programming model in C++ for writing performance portable applications
   Homepage: https://github.com/kokkos
 - Package: libkokkos-static
-  Version: 5.1.0
+  Version: 5.1.1
   Description: Static libraries for libkokkos
   Homepage: https://github.com/kokkos
 - Package: libksba
@@ -7639,11 +7639,11 @@
   Description: The GNU Spreadsheet
   Homepage: https://www.gnu.org/software/oleo/
 - Package: ollama
-  Version: 0.21.2
+  Version: 0.22.0
   Description: Get up and running with large language models
   Homepage: https://ollama.com/
 - Package: ollama-backend-vulkan
-  Version: 0.21.2
+  Version: 0.22.0
   Description: Vulkan Backend for Ollama
   Homepage: https://ollama.com/
 - Package: oma
@@ -9555,7 +9555,7 @@
   Description: SPIR-V Tools
   Homepage: https://github.com/KhronosGroup/SPIRV-Tools
 - Package: sqlcipher
-  Version: 4.14.0
+  Version: 4.15.0
   Description: SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files
   Homepage: https://github.com/sqlcipher/sqlcipher
 - Package: sqlite

@@ -516,7 +516,7 @@
  flex-static  2.6.4-4  Static libraries for flex  https://github.com/westes/flex 
  flint  3.5.0  C library for doing number theory  http://www.flintlib.org 
  fluidsynth  2.5.4  Software synthesizer based on the SoundFont 2 specifications  https://github.com/FluidSynth/fluidsynth 
- flyctl  0.4.41  Command line tools for fly.io services  https://fly.io 
+ flyctl  0.4.42  Command line tools for fly.io services  https://fly.io 
  fm  1.2.0  A terminal based file manager  https://github.com/knipferrc/fm 
  fmt  1:11.2.0  Open-source formatting library for C++  https://fmt.dev/latest/index.html 
  fontconfig  2.17.1-1  Library for configuring and customizing font access  https://www.freedesktop.org/wiki/Software/fontconfig/ 
@@ -737,7 +737,7 @@
  hstr  3.1-1  Shell history suggest box for bash and zsh  https://github.com/dvorka/hstr 
  html-xml-utils  8.7  A number of simple utilities for manipulating HTML and XML files  https://www.w3.org/Tools/HTML-XML-utils/ 
  html2text  1:2.4.0  Utility that converts HTML documents into plain text  http://www.mbayer.de/html2text/ 
- htop  3.5.0  Interactive process viewer for Linux  https://htop.dev/ 
+ htop  3.5.1  Interactive process viewer for Linux  https://htop.dev/ 
  htslib  1.23.1  C library for high-throughput sequencing data formats  https://github.com/samtools/htslib 
  htslib-static  1.23.1  Static libraries for htslib  https://github.com/samtools/htslib 
  httping  4.4.0-1  ping-like program for http-requests  https://github.com/folkertvanheusden/HTTPing 
@@ -745,7 +745,7 @@
  httrack-data  3.49.6-1  Platform-independent data for httrack  http://www.httrack.com 
  httrack-static  3.49.6-1  Static libraries for httrack  http://www.httrack.com 
  hub  2.14.2-6  Command-line wrapper for git that makes you better at GitHub  https://hub.github.com/ 
- hugo  0.160.1  A fast and flexible static site generator  https://gohugo.io/ 
+ hugo  0.161.0  A fast and flexible static site generator  https://gohugo.io/ 
  hummin  2021.05.18-4  Command line client for the imperial library of trantor  https://trantor.is/ 
  hunspell  1.7.2-1  Spell checker  https://hunspell.github.io 
  hunspell-en-us  20240129  American english dictionary for hunspell  https://hunspell.github.io 
@@ -1161,8 +1161,8 @@
  libkiwix  14.2.0  A library that contains a lot of things used by other kiwix programs  https://github.com/kiwix/libkiwix 
  libknot  3.2.4-2  Knot DNS libraries  https://www.knot-dns.cz/ 
  libknot-static  3.2.4-2  Static libraries for libknot  https://www.knot-dns.cz/ 
- libkokkos  5.1.0  Implements a programming model in C++ for writing performance portable applications  https://github.com/kokkos 
- libkokkos-static  5.1.0  Static libraries for libkokkos  https://github.com/kokkos 
+ libkokkos  5.1.1  Implements a programming model in C++ for writing performance portable applications  https://github.com/kokkos 
+ libkokkos-static  5.1.1  Static libraries for libkokkos  https://github.com/kokkos 
  libksba  1.6.8  Library for using X.509 certificates and CMS (Cryptographic Message Syntax) easily accessible  https://gnupg.org/related_software/libksba/ 
  libksba-static  1.6.8  Static libraries for libksba  https://gnupg.org/related_software/libksba/ 
  liblangtag  0.6.7-2  interface library to access/deal with tags for identifying languages  https://bitbucket.org/tagoh/liblangtag/wiki/Home 
@@ -1908,8 +1908,8 @@
  okc-agents  0.1.2-2  OpenKeychain agents for GnuPG and OpenSSH  https://github.com/DDoSolitary/okc-agents 
  ol  2.7  Purely functional dialect of Lisp  https://yuriy-chumak.github.io/ol/ 
  oleo  1.99.16-10  The GNU Spreadsheet  https://www.gnu.org/software/oleo/ 
- ollama  0.21.2  Get up and running with large language models  https://ollama.com/ 
- ollama-backend-vulkan  0.21.2  Vulkan Backend for Ollama  https://ollama.com/ 
+ ollama  0.22.0  Get up and running with large language models  https://ollama.com/ 
+ ollama-backend-vulkan  0.22.0  Vulkan Backend for Ollama  https://ollama.com/ 
  oma  1.25.2  oma is an attempt at reworking APT's interface  https://aosc.io/oma 
  onefetch  2.27.1  A command-line Git information tool written in Rust  https://onefetch.dev/ 
  onigmo  6.2.0-1  A regular expressions library forked from Oniguruma  https://github.com/k-takata/Onigmo 
@@ -2387,7 +2387,7 @@
  spirv-headers  1.4.341.0  SPIR-V Headers  https://github.com/KhronosGroup/SPIRV-Headers 
  spirv-llvm-translator  21.1.6  SPIR-V LLVM Translator  https://github.com/KhronosGroup/SPIRV-LLVM-Translator 
  spirv-tools  1.4.341.0  SPIR-V Tools  https://github.com/KhronosGroup/SPIRV-Tools 
- sqlcipher  4.14.0  SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files  https://github.com/sqlcipher/sqlcipher 
+ sqlcipher  4.15.0  SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files  https://github.com/sqlcipher/sqlcipher 
  sqlite  3.53.0  Command line shell for SQLite  https://www.sqlite.org 
  squashfs-tools-ng  1.3.2-1  New set of tools for working with SquashFS images  https://github.com/AgentD/squashfs-tools-ng 
  squashfs-tools-ng-static  1.3.2-1  Static libraries for squashfs-tools-ng  https://github.com/AgentD/squashfs-tools-ng 
