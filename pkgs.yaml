@@ -407,7 +407,7 @@
   Description: Static libraries for attr
   Homepage: http://savannah.nongnu.org/projects/attr/
 - Package: atuin
-  Version: 18.15.2
+  Version: 18.16.0
   Description: Magical shell history
   Homepage: https://atuin.sh/
 - Package: aubio
@@ -4055,7 +4055,7 @@
   Description: Static libraries for libdmtx
   Homepage: https://github.com/dmtx/libdmtx
 - Package: libdrm
-  Version: 2.4.131
+  Version: 2.4.133
   Description: Userspace interface to kernel DRM services
   Homepage: https://dri.freedesktop.org/wiki/
 - Package: libduckdb
@@ -8815,7 +8815,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 4.43.0
+  Version: 4.44.0
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3

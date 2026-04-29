@@ -112,7 +112,7 @@
 | **atool** | 0.39.0-2 | tool for managing file archives of various types | https://www.nongnu.org/atool |
 | **attr** | 2.5.2-1 | Utilities for manipulating filesystem extended attributes | http://savannah.nongnu.org/projects/attr/ |
 | **attr-static** | 2.5.2-1 | Static libraries for attr | http://savannah.nongnu.org/projects/attr/ |
-| **atuin** | 18.15.2 | Magical shell history | https://atuin.sh/ |
+| **atuin** | 18.16.0 | Magical shell history | https://atuin.sh/ |
 | **aubio** | 0.4.9-7 | A library to label music and sounds | https://aubio.org/ |
 | **aubio-static** | 0.4.9-7 | Static libraries for aubio | https://aubio.org/ |
 | **audiofile** | 0.3.6 | Silicon Graphics Audio File Library | https://audiofile.68k.org/ |
@@ -1024,7 +1024,7 @@
 | **libdjinterop** | 0.27.0 | C++ library for access to DJ record libraries | https://github.com/xsco/libdjinterop |
 | **libdmtx** | 0.7.8-1 | A software library that enables programs to read and write Data Matrix barcodes | https://github.com/dmtx/libdmtx |
 | **libdmtx-static** | 0.7.8-1 | Static libraries for libdmtx | https://github.com/dmtx/libdmtx |
-| **libdrm** | 2.4.131 | Userspace interface to kernel DRM services | https://dri.freedesktop.org/wiki/ |
+| **libdrm** | 2.4.133 | Userspace interface to kernel DRM services | https://dri.freedesktop.org/wiki/ |
 | **libduckdb** | 1.5.2 | An in-process SQL OLAP database management system | https://duckdb.org/ |
 | **libduckdb-static** | 1.5.2 | Static libraries for libduckdb | https://duckdb.org/ |
 | **libduktape** | 2.7.0-2 | An embeddable Javascript engine with a focus on portability and compact footprint | https://www.duktape.org/ |
@@ -2214,7 +2214,7 @@
 | **rage** | 0.11.2 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4-1 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4-1 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
-| **railway-cli** | 4.43.0 | This is the command line interface for Railway | https://railway.app |
+| **railway-cli** | 4.44.0 | This is the command line interface for Railway | https://railway.app |
 | **range-v3** | 0.12.0 | Range library for C++14/17/20, basis for C++20's std::ranges | https://github.com/ericniebler/range-v3 |
 | **ranger** | 1.9.4-1 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-7 | Fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |
