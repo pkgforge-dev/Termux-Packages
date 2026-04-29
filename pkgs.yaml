@@ -799,7 +799,7 @@
   Description: Static libraries for capstone
   Homepage: https://www.capstone-engine.org/
 - Package: carapace
-  Version: 1.6.4
+  Version: 1.6.5
   Description: Multi-shell multi-command argument completer
   Homepage: https://carapace.sh/
 - Package: cargo-binstall
@@ -2107,7 +2107,7 @@
   Description: ForestDB dump tool
   Homepage: https://github.com/couchbase/forestdb
 - Package: forgejo
-  Version: 15.0.0-1
+  Version: 15.0.1
   Description: Forgejo is a self-hosted lightweight software forge.
   Homepage: https://forgejo.org/
 - Package: fortune
@@ -2143,7 +2143,7 @@
   Description: Minimalistic plugin API for video effects
   Homepage: https://www.dyne.org/software/frei0r/
 - Package: fresh-editor
-  Version: 0.3.1
+  Version: 0.3.2
   Description: 'Text editor for your terminal: easy, powerful and fast'
   Homepage: https://getfresh.dev/
 - Package: fribidi
@@ -2995,7 +2995,7 @@
   Description: Command-line wrapper for git that makes you better at GitHub
   Homepage: https://hub.github.com/
 - Package: hugo
-  Version: 0.161.0
+  Version: 0.161.1
   Description: A fast and flexible static site generator
   Homepage: https://gohugo.io/
 - Package: hummin
@@ -3267,7 +3267,7 @@
   Description: A free media system for organizing and streaming media (server)
   Homepage: https://jellyfin.org
 - Package: jfrog-cli
-  Version: 2.102.0
+  Version: 2.103.0
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -3387,7 +3387,7 @@
   Description: KBDs showkey utility for examining keycodes
   Homepage: https://kbd-project.org/
 - Package: kew
-  Version: 4.0.0
+  Version: 4.0.0-1
   Description: Music for the Shell
   Homepage: https://codeberg.org/ravachol/kew
 - Package: keybase
@@ -9231,7 +9231,7 @@
   Description: Counts physical the lines of code, blank lines, comment lines, and physical lines of source code
   Homepage: https://github.com/boyter/scc
 - Package: sccache
-  Version: 0.14.0
+  Version: 0.15.0
   Description: sccache is ccache with cloud storage
   Homepage: https://github.com/mozilla/sccache
 - Package: scdaemon
@@ -10459,7 +10459,7 @@
   Description: Function (graph) tracer for user-space
   Homepage: https://uftrace.github.io/slide
 - Package: ugrep
-  Version: 7.7.0
+  Version: 7.8.0
   Description: A faster, user-friendly and compatible grep replacement
   Homepage: https://github.com/Genivia/ugrep
 - Package: unar

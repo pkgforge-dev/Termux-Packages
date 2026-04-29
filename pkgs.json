@@ -1201,7 +1201,7 @@
   },
   {
     "Package": "carapace",
-    "Version": "1.6.4",
+    "Version": "1.6.5",
     "Description": "Multi-shell multi-command argument completer",
     "Homepage": "https://carapace.sh/"
   },
@@ -3163,7 +3163,7 @@
   },
   {
     "Package": "forgejo",
-    "Version": "15.0.0-1",
+    "Version": "15.0.1",
     "Description": "Forgejo is a self-hosted lightweight software forge.",
     "Homepage": "https://forgejo.org/"
   },
@@ -3217,7 +3217,7 @@
   },
   {
     "Package": "fresh-editor",
-    "Version": "0.3.1",
+    "Version": "0.3.2",
     "Description": "Text editor for your terminal: easy, powerful and fast",
     "Homepage": "https://getfresh.dev/"
   },
@@ -4495,7 +4495,7 @@
   },
   {
     "Package": "hugo",
-    "Version": "0.161.0",
+    "Version": "0.161.1",
     "Description": "A fast and flexible static site generator",
     "Homepage": "https://gohugo.io/"
   },
@@ -4903,7 +4903,7 @@
   },
   {
     "Package": "jfrog-cli",
-    "Version": "2.102.0",
+    "Version": "2.103.0",
     "Description": "A CLI for JFrog products",
     "Homepage": "https://jfrog.com/getcli"
   },
@@ -5083,7 +5083,7 @@
   },
   {
     "Package": "kew",
-    "Version": "4.0.0",
+    "Version": "4.0.0-1",
     "Description": "Music for the Shell",
     "Homepage": "https://codeberg.org/ravachol/kew"
   },
@@ -13849,7 +13849,7 @@
   },
   {
     "Package": "sccache",
-    "Version": "0.14.0",
+    "Version": "0.15.0",
     "Description": "sccache is ccache with cloud storage",
     "Homepage": "https://github.com/mozilla/sccache"
   },
@@ -15691,7 +15691,7 @@
   },
   {
     "Package": "ugrep",
-    "Version": "7.7.0",
+    "Version": "7.8.0",
     "Description": "A faster, user-friendly and compatible grep replacement",
     "Homepage": "https://github.com/Genivia/ugrep"
   },

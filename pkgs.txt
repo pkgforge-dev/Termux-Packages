@@ -198,7 +198,7 @@
  capnproto  1.4.0  Data interchange format and capability-based RPC system  https://capnproto.org/ 
  capstone  5.0.7  Lightweight multi-platform, multi-architecture disassembly framework  https://www.capstone-engine.org/ 
  capstone-static  5.0.7  Static libraries for capstone  https://www.capstone-engine.org/ 
- carapace  1.6.4  Multi-shell multi-command argument completer  https://carapace.sh/ 
+ carapace  1.6.5  Multi-shell multi-command argument completer  https://carapace.sh/ 
  cargo-binstall  1.18.1  Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem  https://github.com/cargo-bins/cargo-binstall 
  cargo-c  0.10.21  Cargo C-ABI helpers  https://github.com/lu-zero/cargo-c 
  cargo-cache  0.8.3  Tool to manage cargo cache  https://github.com/matthiaskrgr/cargo-cache 
@@ -525,7 +525,7 @@
  fontconfig-static  2.17.1-1  Static libraries for fontconfig  https://www.freedesktop.org/wiki/Software/fontconfig/ 
  fontconfig-utils  2.17.1-1  Fontconfig binaries  https://www.freedesktop.org/wiki/Software/fontconfig/ 
  forestdb-dump  1.2-2  ForestDB dump tool  https://github.com/couchbase/forestdb 
- forgejo  15.0.0-1  Forgejo is a self-hosted lightweight software forge.  https://forgejo.org/ 
+ forgejo  15.0.1  Forgejo is a self-hosted lightweight software forge.  https://forgejo.org/ 
  fortune  1.2-2  Revealer of fortunes  https://www.fefe.de/fortune/ 
  fossil  2.28  DSCM with built-in wiki, http interface and server, tickets database  https://www.fossil-scm.org 
  freecolor  0.9.3-1  Freecolor is a replacement for Linux that displays free memory graphically  http://rkeene.org/oss/freecolor/ 
@@ -534,7 +534,7 @@
  freetype  2.14.3  Software font engine capable of producing high-quality output  https://www.freetype.org 
  freetype-static  2.14.3  Static libraries for freetype  https://www.freetype.org 
  frei0r-plugins  3.1.1  Minimalistic plugin API for video effects  https://www.dyne.org/software/frei0r/ 
- fresh-editor  0.3.1  Text editor for your terminal: easy, powerful and fast  https://getfresh.dev/ 
+ fresh-editor  0.3.2  Text editor for your terminal: easy, powerful and fast  https://getfresh.dev/ 
  fribidi  1.0.16-1  Implementation of the Unicode Bidirectional Algorithm  https://github.com/fribidi/fribidi/ 
  fribidi-static  1.0.16-1  Static libraries for fribidi  https://github.com/fribidi/fribidi/ 
  frobtads  2.0-5  TADS is a free authoring system for writing your own Interactive Fiction  http://www.tads.org/frobtads.htm 
@@ -747,7 +747,7 @@
  httrack-data  3.49.6-1  Platform-independent data for httrack  http://www.httrack.com 
  httrack-static  3.49.6-1  Static libraries for httrack  http://www.httrack.com 
  hub  2.14.2-6  Command-line wrapper for git that makes you better at GitHub  https://hub.github.com/ 
- hugo  0.161.0  A fast and flexible static site generator  https://gohugo.io/ 
+ hugo  0.161.1  A fast and flexible static site generator  https://gohugo.io/ 
  hummin  2021.05.18-4  Command line client for the imperial library of trantor  https://trantor.is/ 
  hunspell  1.7.2-1  Spell checker  https://hunspell.github.io 
  hunspell-en-us  20240129  American english dictionary for hunspell  https://hunspell.github.io 
@@ -815,7 +815,7 @@
  jcal-static  0.5.1-1  Static libraries for jcal  http://nongnu.org/jcal 
  jellyfin-ffmpeg  10.11.5-3  FFmpeg for Jellyfin with custom extensions and enhancements  https://jellyfin.org 
  jellyfin-server  10.11.5-3  A free media system for organizing and streaming media (server)  https://jellyfin.org 
- jfrog-cli  2.102.0  A CLI for JFrog products  https://jfrog.com/getcli 
+ jfrog-cli  2.103.0  A CLI for JFrog products  https://jfrog.com/getcli 
  jftui  0.7.5  jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server.  https://github.com/Aanok/jftui 
  jhead  3.08-1  Exif Jpeg header manipulation tool  http://www.sentex.net/~mwandel/jhead/ 
  jigdo  0.8.2-1  Distribute large images by sending and receiving the files that make them up  http://atterer.org/jigdo/ 
@@ -845,7 +845,7 @@
  kakoune  2026.04.12  Code editor heavily inspired by Vim  https://kakoune.org/ 
  kakoune-lsp  20.0.0  Language Server Protocol Client for the Kakoune editor  https://github.com/kakoune-lsp/kakoune-lsp 
  kbd  2.9.0  KBD's showkey utility for examining keycodes  https://kbd-project.org/ 
- kew  4.0.0  Music for the Shell  https://codeberg.org/ravachol/kew 
+ kew  4.0.0-1  Music for the Shell  https://codeberg.org/ravachol/kew 
  keybase  6.6.2  Key directory that maps social media identities to encryption keys  https://keybase.io 
  keychain  2.9.8  keychain ssh-agent front-end  https://www.funtoo.org/Keychain 
  kibi  0.3.3  A tiny terminal text editor, written in Rust  https://github.com/ilai-deutel/kibi 
@@ -2306,7 +2306,7 @@
  sc-im  0.8.5-4  An improved version of sc, a spreadsheet calculator  https://github.com/andmarti1424/sc-im 
  scala  3.8.3  Scala 3 compiler and standard library.  https://www.scala-lang.org 
  scc  3.7.0  Counts physical the lines of code, blank lines, comment lines, and physical lines of source code  https://github.com/boyter/scc 
- sccache  0.14.0  sccache is ccache with cloud storage  https://github.com/mozilla/sccache 
+ sccache  0.15.0  sccache is ccache with cloud storage  https://github.com/mozilla/sccache 
  scdaemon  2.5.17  Daemon invoked by gpg to manage smartcards  https://www.gnupg.org/ 
  scdoc  1.11.4  Small man page generator  https://git.sr.ht/~sircmpwn/scdoc 
  screen  5.0.1-1  Terminal multiplexer with VT100/ANSI terminal emulation  https://www.gnu.org/software/screen/ 
@@ -2613,7 +2613,7 @@
  udftools  2.3-1  Linux tools for UDF filesystems and DVD/CD-R(W) drives  https://github.com/pali/udftools 
  udocker  1.3.17-4  A basic user tool to execute simple docker containers in batch or interactive systems without root privileges.  https://indigo-dc.github.io/udocker 
  uftrace  0.19-1  Function (graph) tracer for user-space  https://uftrace.github.io/slide 
- ugrep  7.7.0  A faster, user-friendly and compatible grep replacement  https://github.com/Genivia/ugrep 
+ ugrep  7.8.0  A faster, user-friendly and compatible grep replacement  https://github.com/Genivia/ugrep 
  unar  1.10.8-3  Command line tools for archive and file unarchiving and extraction  https://theunarchiver.com/command-line 
  unbound  1.24.2-2  Unbound command-line tools  https://unbound.net/ 
  unicode-cldr  48.1  Unicode Common Locale Data Repository  http://cldr.unicode.org/ 
