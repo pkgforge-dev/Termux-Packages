@@ -1484,8 +1484,8 @@
 | **libucontext-static** | 1.5 | Static libraries for libucontext | https://github.com/kaniini/libucontext |
 | **libudfread** | 1.2.0 | A library for reading UDF | https://code.videolan.org/videolan/libudfread/ |
 | **libudfread-static** | 1.2.0 | Static libraries for libudfread | https://code.videolan.org/videolan/libudfread/ |
-| **libunbound** | 1.24.2-2 | A validating, recursive, caching DNS resolver | https://unbound.net/ |
-| **libunbound-static** | 1.24.2-2 | Static libraries for libunbound | https://unbound.net/ |
+| **libunbound** | 1.25.0 | A validating, recursive, caching DNS resolver | https://unbound.net/ |
+| **libunbound-static** | 1.25.0 | Static libraries for libunbound | https://unbound.net/ |
 | **libunibilium** | 2.1.2-2 | Terminfo parsing library | https://github.com/neovim/unibilium |
 | **libunistring** | 1.3-1 | Library providing functions for manipulating Unicode strings | https://www.gnu.org/software/libunistring/ |
 | **libunistring-static** | 1.3-1 | Static libraries for libunistring | https://www.gnu.org/software/libunistring/ |
@@ -2165,7 +2165,7 @@
 | **python-yt-dlp** | 2026.03.17 | A youtube-dl fork with additional features and fixes | https://github.com/yt-dlp/yt-dlp |
 | **python2** | 2.7.18-15 | Python 2 programming language intended to enable clear programs | http://python.org/ |
 | **python2-static** | 2.7.18-15 | Static libraries for python2 | http://python.org/ |
-| **pyunbound** | 1.24.2-2 | Python bindings for Unbound | https://unbound.net/ |
+| **pyunbound** | 1.25.0 | Python bindings for Unbound | https://unbound.net/ |
 | **pzstd** | 1.5.7-1 | A Pigz-like tool for Zstandard | https://github.com/facebook/zstd |
 | **q-dns-client** | 0.19.12 | A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH | https://github.com/natesales/q |
 | **qalc** | 5.10.0 | Powerful and easy to use command line calculator | https://qalculate.github.io/ |
@@ -2615,7 +2615,7 @@
 | **uftrace** | 0.19-1 | Function (graph) tracer for user-space | https://uftrace.github.io/slide |
 | **ugrep** | 7.8.0 | A faster, user-friendly and compatible grep replacement | https://github.com/Genivia/ugrep |
 | **unar** | 1.10.8-3 | Command line tools for archive and file unarchiving and extraction | https://theunarchiver.com/command-line |
-| **unbound** | 1.24.2-2 | Unbound command-line tools | https://unbound.net/ |
+| **unbound** | 1.25.0 | Unbound command-line tools | https://unbound.net/ |
 | **unicode-cldr** | 48.1 | Unicode Common Locale Data Repository | http://cldr.unicode.org/ |
 | **unicode-data** | 18.0.0 | The Unicode Character Database (UCD) | https://unicode.org/ucd/ |
 | **unicode-emoji** | 17.0.0 | Unicode Emoji Data Files | https://unicode.org/emoji/ |
@@ -2627,7 +2627,7 @@
 | **unixodbc** | 2.3.14 | An Open Source ODBC sub-system and an ODBC SDK for Linux, Mac OSX, and UNIX | https://www.unixodbc.org/ |
 | **unixodbc-static** | 2.3.14 | Static libraries for unixodbc | https://www.unixodbc.org/ |
 | **unpaper** | 1:7.0.0-4 | A post-processing tool for scanned sheets of paper | https://www.flameeyes.com/projects/unpaper |
-| **unrar** | 7.2.5 | Tool for extracting files from .rar archives | https://www.rarlab.com/ |
+| **unrar** | 7.2.6 | Tool for extracting files from .rar archives | https://www.rarlab.com/ |
 | **unshield** | 1.6.2-1 | Tool and library to extract CAB files from InstallShield installers | https://github.com/twogood/unshield |
 | **unzip** | 6.0-10 | Tools for working with zip files | https://sourceforge.net/projects/infozip/ |
 | **up** | 0.4-4 | Helps interactively and incrementally explore textual data in Linux | https://github.com/akavel/up |

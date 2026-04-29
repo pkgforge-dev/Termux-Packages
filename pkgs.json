@@ -8917,13 +8917,13 @@
   },
   {
     "Package": "libunbound",
-    "Version": "1.24.2-2",
+    "Version": "1.25.0",
     "Description": "A validating, recursive, caching DNS resolver",
     "Homepage": "https://unbound.net/"
   },
   {
     "Package": "libunbound-static",
-    "Version": "1.24.2-2",
+    "Version": "1.25.0",
     "Description": "Static libraries for libunbound",
     "Homepage": "https://unbound.net/"
   },
@@ -13003,7 +13003,7 @@
   },
   {
     "Package": "pyunbound",
-    "Version": "1.24.2-2",
+    "Version": "1.25.0",
     "Description": "Python bindings for Unbound",
     "Homepage": "https://unbound.net/"
   },
@@ -15703,7 +15703,7 @@
   },
   {
     "Package": "unbound",
-    "Version": "1.24.2-2",
+    "Version": "1.25.0",
     "Description": "Unbound command-line tools",
     "Homepage": "https://unbound.net/"
   },
@@ -15775,7 +15775,7 @@
   },
   {
     "Package": "unrar",
-    "Version": "7.2.5",
+    "Version": "7.2.6",
     "Description": "Tool for extracting files from .rar archives",
     "Homepage": "https://www.rarlab.com/"
   },

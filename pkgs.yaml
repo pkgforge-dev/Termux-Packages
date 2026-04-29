@@ -5943,11 +5943,11 @@
   Description: Static libraries for libudfread
   Homepage: https://code.videolan.org/videolan/libudfread/
 - Package: libunbound
-  Version: 1.24.2-2
+  Version: 1.25.0
   Description: A validating, recursive, caching DNS resolver
   Homepage: https://unbound.net/
 - Package: libunbound-static
-  Version: 1.24.2-2
+  Version: 1.25.0
   Description: Static libraries for libunbound
   Homepage: https://unbound.net/
 - Package: libunibilium
@@ -8667,7 +8667,7 @@
   Description: Static libraries for python2
   Homepage: http://python.org/
 - Package: pyunbound
-  Version: 1.24.2-2
+  Version: 1.25.0
   Description: Python bindings for Unbound
   Homepage: https://unbound.net/
 - Package: pzstd
@@ -10467,7 +10467,7 @@
   Description: Command line tools for archive and file unarchiving and extraction
   Homepage: https://theunarchiver.com/command-line
 - Package: unbound
-  Version: 1.24.2-2
+  Version: 1.25.0
   Description: Unbound command-line tools
   Homepage: https://unbound.net/
 - Package: unicode-cldr
@@ -10515,7 +10515,7 @@
   Description: A post-processing tool for scanned sheets of paper
   Homepage: https://www.flameeyes.com/projects/unpaper
 - Package: unrar
-  Version: 7.2.5
+  Version: 7.2.6
   Description: Tool for extracting files from .rar archives
   Homepage: https://www.rarlab.com/
 - Package: unshield
