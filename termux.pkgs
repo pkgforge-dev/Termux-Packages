@@ -304,7 +304,7 @@
 | **cups** | 2.4.19 | Common UNIX Printing System | https://www.cups.org/ |
 | **cups-pdf** | 3.0.1-3 | CUPS PDF backend | https://www.cups-pdf.de/ |
 | **cups-static** | 2.4.19 | Static libraries for cups | https://www.cups.org/ |
-| **curl** | 8.19.0 | Command line tool for transferring data with URL syntax | https://curl.se/ |
+| **curl** | 8.20.0 | Command line tool for transferring data with URL syntax | https://curl.se/ |
 | **curlie** | 1.8.2 | The power of curl, the ease of use of httpie | https://curlie.io/ |
 | **curseofwar** | 1.3.0-5 | Fast-paced action strategy game focusing on high-level strategic planning | http://a-nikolaev.github.io/curseofwar/ |
 | **cvs** | 1:1.12.13-5 | Concurrent Versions System | https://www.nongnu.org/cvs/ |
@@ -991,8 +991,8 @@
 | **libcue** | 2.3.0-1 | CUE Sheet Parser Library | https://github.com/lipnitsk/libcue/ |
 | **libcunit** | 2.1.3-1 | C Unit Testing Framework | https://sourceforge.net/projects/cunit/ |
 | **libcunit-static** | 2.1.3-1 | Static libraries for libcunit | https://sourceforge.net/projects/cunit/ |
-| **libcurl** | 8.19.0 | Easy-to-use client-side URL transfer library | https://curl.se/ |
-| **libcurl-static** | 8.19.0 | Static libraries for libcurl | https://curl.se/ |
+| **libcurl** | 8.20.0 | Easy-to-use client-side URL transfer library | https://curl.se/ |
+| **libcurl-static** | 8.20.0 | Static libraries for libcurl | https://curl.se/ |
 | **libczmq** | 4.2.1-4 | High-level C binding for ZeroMQ | https://zeromq.org/ |
 | **libczmq-static** | 4.2.1-4 | Static libraries for libczmq | https://zeromq.org/ |
 | **libdaemon** | 0.14-1 | A lightweight C library that eases the writing of UNIX daemons | https://0pointer.de/lennart/projects/libdaemon/ |
@@ -1612,9 +1612,9 @@
 | **littlecms** | 2.19 | Color management library | http://www.littlecms.com/ |
 | **littlecms-static** | 2.19 | Static libraries for littlecms | http://www.littlecms.com/ |
 | **littlecms-utils** | 2.19 | Color management utilities | http://www.littlecms.com/ |
-| **llama-cpp** | 0.0.0-b8770-0 | LLM inference in C/C++ | https://github.com/ggml-org/llama.cpp |
-| **llama-cpp-backend-opencl** | 0.0.0-b8770-0 | OpenCL Backend for LLaMA.cpp | https://github.com/ggml-org/llama.cpp |
-| **llama-cpp-backend-vulkan** | 0.0.0-b8770-0 | Vulkan Backend for LLaMA.cpp | https://github.com/ggml-org/llama.cpp |
+| **llama-cpp** | 0.0.0-b8966-0 | LLM inference in C/C++ | https://github.com/ggml-org/llama.cpp |
+| **llama-cpp-backend-opencl** | 0.0.0-b8966-0 | OpenCL Backend for LLaMA.cpp | https://github.com/ggml-org/llama.cpp |
+| **llama-cpp-backend-vulkan** | 0.0.0-b8966-0 | Vulkan Backend for LLaMA.cpp | https://github.com/ggml-org/llama.cpp |
 | **llbuild** | 6.2.1 | A low-level build system, used by the Swift Package Manager | https://github.com/swiftlang/swift-llbuild |
 | **lld** | 21.1.8-2 | LLVM-based linker | https://clang.llvm.org/ |
 | **lldb** | 21.1.8-2 | LLVM-based debugger | https://clang.llvm.org/ |
@@ -2110,13 +2110,13 @@
 | **pybind11** | 3.0.4 | A lightweight header-only library that exposes C++ types in Python and vice versa | https://pybind11.readthedocs.io/ |
 | **pycairo** | 1.29.0-1 | Python bindings for the cairo graphics library | https://www.cairographics.org/pycairo/ |
 | **pygobject** | 3.56.2 | Python package which provides bindings for GObject based libraries | https://pygobject.gnome.org/ |
-| **pypy** | 7.3.21 | A fast, compliant alternative implementation of Python | https://pypy.org |
-| **pypy-tests** | 7.3.21 | Test files for PyPy | https://pypy.org |
-| **pypy-tkinter** | 7.3.21 | Tkinter support for PyPy | https://pypy.org |
+| **pypy** | 7.3.22 | A fast, compliant alternative implementation of Python | https://pypy.org |
+| **pypy-tests** | 7.3.22 | Test files for PyPy | https://pypy.org |
+| **pypy-tkinter** | 7.3.22 | Tkinter support for PyPy | https://pypy.org |
 | **pypy3** | 7.3.21 | A fast, compliant alternative implementation of Python 3 | https://pypy.org |
 | **pypy3-tests** | 7.3.21 | Test files for PyPy 3 | https://pypy.org |
 | **pypy3-tkinter** | 7.3.21 | Tkinter support for PyPy 3 | https://pypy.org |
-| **pyrefly** | 0.63.0 | A fast type checker and language server for Python | https://github.com/facebook/pyrefly.git |
+| **pyrefly** | 0.63.1 | A fast type checker and language server for Python | https://github.com/facebook/pyrefly.git |
 | **pystring** | 1.1.4-1 | C++ functions matching the interface and behavior of python string methods with std::string | https://github.com/imageworks/pystring |
 | **python** | 3.13.13-1 | Python 3 programming language intended to enable clear programs | https://python.org/ |
 | **python-apsw** | 3.53.0.0 | Another Python SQLite Wrapper | https://rogerbinns.github.io/apsw/ |
@@ -2221,8 +2221,8 @@
 | **rdircd** | 2023.02.07-3 | A daemon that allows using a personal Discord account through an IRC client | https://github.com/mk-fg/reliable-discord-client-irc-daemon |
 | **rdrview** | 1:0.1.5-1 | Command line tool to extract the main content from a webpage | https://github.com/eafer/rdrview |
 | **re2c** | 4.5.1 | Lexer generator for C, C++ and Go. | https://re2c.org/ |
-| **readline** | 8.3.1-2 | Library that allow users to edit command lines as they are typed in | https://tiswww.case.edu/php/chet/readline/rltop.html |
-| **readline-static** | 8.3.1-2 | Static libraries for readline | https://tiswww.case.edu/php/chet/readline/rltop.html |
+| **readline** | 8.3.3 | Library that allow users to edit command lines as they are typed in | https://tiswww.case.edu/php/chet/readline/rltop.html |
+| **readline-static** | 8.3.3 | Static libraries for readline | https://tiswww.case.edu/php/chet/readline/rltop.html |
 | **recode** | 3.7.15-1 | Charset converter tool and library | https://github.com/pinard/Recode |
 | **recode-static** | 3.7.15-1 | Static libraries for recode | https://github.com/pinard/Recode |
 | **recoll** | 1.43.14-1 | Full-text search for your desktop | https://www.recoll.org/ |
@@ -2297,7 +2297,7 @@
 | **sabnzbd** | 4.5.5-2 | Fully automated Usenet Binary Downloader | https://sabnzbd.org/ |
 | **samba** | 4.16.11-6 | SMB/CIFS fileserver | https://www.samba.org/ |
 | **samefile** | 2.15-6 | Finds files with identical contents, independent of file name | http://www.schweikhardt.net/samefile/ |
-| **samurai** | 1.2-2 | ninja-compatible build tool written in C | https://github.com/michaelforney/samurai |
+| **samurai** | 1.3 | ninja-compatible build tool written in C | https://github.com/michaelforney/samurai |
 | **sassc** | 3.6.2-1 | libsass command line driver | https://github.com/sass/sassc |
 | **sbcl** | 2.6.3 | A high performance Common Lisp compiler | http://www.sbcl.org/ |
 | **sc-im** | 0.8.5-4 | An improved version of sc, a spreadsheet calculator | https://github.com/andmarti1424/sc-im |

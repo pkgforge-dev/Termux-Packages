@@ -1837,7 +1837,7 @@
   },
   {
     "Package": "curl",
-    "Version": "8.19.0",
+    "Version": "8.20.0",
     "Description": "Command line tool for transferring data with URL syntax",
     "Homepage": "https://curl.se/"
   },
@@ -5959,13 +5959,13 @@
   },
   {
     "Package": "libcurl",
-    "Version": "8.19.0",
+    "Version": "8.20.0",
     "Description": "Easy-to-use client-side URL transfer library",
     "Homepage": "https://curl.se/"
   },
   {
     "Package": "libcurl-static",
-    "Version": "8.19.0",
+    "Version": "8.20.0",
     "Description": "Static libraries for libcurl",
     "Homepage": "https://curl.se/"
   },
@@ -9685,19 +9685,19 @@
   },
   {
     "Package": "llama-cpp",
-    "Version": "0.0.0-b8770-0",
+    "Version": "0.0.0-b8966-0",
     "Description": "LLM inference in C/C++",
     "Homepage": "https://github.com/ggml-org/llama.cpp"
   },
   {
     "Package": "llama-cpp-backend-opencl",
-    "Version": "0.0.0-b8770-0",
+    "Version": "0.0.0-b8966-0",
     "Description": "OpenCL Backend for LLaMA.cpp",
     "Homepage": "https://github.com/ggml-org/llama.cpp"
   },
   {
     "Package": "llama-cpp-backend-vulkan",
-    "Version": "0.0.0-b8770-0",
+    "Version": "0.0.0-b8966-0",
     "Description": "Vulkan Backend for LLaMA.cpp",
     "Homepage": "https://github.com/ggml-org/llama.cpp"
   },
@@ -12673,19 +12673,19 @@
   },
   {
     "Package": "pypy",
-    "Version": "7.3.21",
+    "Version": "7.3.22",
     "Description": "A fast, compliant alternative implementation of Python",
     "Homepage": "https://pypy.org"
   },
   {
     "Package": "pypy-tests",
-    "Version": "7.3.21",
+    "Version": "7.3.22",
     "Description": "Test files for PyPy",
     "Homepage": "https://pypy.org"
   },
   {
     "Package": "pypy-tkinter",
-    "Version": "7.3.21",
+    "Version": "7.3.22",
     "Description": "Tkinter support for PyPy",
     "Homepage": "https://pypy.org"
   },
@@ -12709,7 +12709,7 @@
   },
   {
     "Package": "pyrefly",
-    "Version": "0.63.0",
+    "Version": "0.63.1",
     "Description": "A fast type checker and language server for Python",
     "Homepage": "https://github.com/facebook/pyrefly.git"
   },
@@ -13339,13 +13339,13 @@
   },
   {
     "Package": "readline",
-    "Version": "8.3.1-2",
+    "Version": "8.3.3",
     "Description": "Library that allow users to edit command lines as they are typed in",
     "Homepage": "https://tiswww.case.edu/php/chet/readline/rltop.html"
   },
   {
     "Package": "readline-static",
-    "Version": "8.3.1-2",
+    "Version": "8.3.3",
     "Description": "Static libraries for readline",
     "Homepage": "https://tiswww.case.edu/php/chet/readline/rltop.html"
   },
@@ -13795,7 +13795,7 @@
   },
   {
     "Package": "samurai",
-    "Version": "1.2-2",
+    "Version": "1.3",
     "Description": "ninja-compatible build tool written in C",
     "Homepage": "https://github.com/michaelforney/samurai"
   },
