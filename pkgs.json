@@ -1410,6 +1410,12 @@
     "Homepage": "https://github.com/theryangeary/choose"
   },
   {
+    "Package": "chroma-visualizer",
+    "Version": "0.0.0+g3c32e7d",
+    "Description": "Shader-based audio visualizer for the terminal",
+    "Homepage": "https://github.com/yuri-xyz/chroma.git"
+  },
+  {
     "Package": "chromaprint",
     "Version": "1.6.0-1",
     "Description": "C library for generating audio fingerprints used by AcoustID (fpcalc tool)",
@@ -2824,6 +2830,12 @@
     "Version": "0.23.4",
     "Description": "A modern replacement for ls",
     "Homepage": "https://github.com/eza-community/eza"
+  },
+  {
+    "Package": "faad2",
+    "Version": "2.11.2",
+    "Description": "Freeware Advanced Audio (AAC) Decoder",
+    "Homepage": "https://github.com/knik0/faad2"
   },
   {
     "Package": "fact++",
@@ -5068,6 +5080,12 @@
     "Version": "2.9.0",
     "Description": "KBDs showkey utility for examining keycodes",
     "Homepage": "https://kbd-project.org/"
+  },
+  {
+    "Package": "kew",
+    "Version": "4.0.0",
+    "Description": "Music for the Shell",
+    "Homepage": "https://codeberg.org/ravachol/kew"
   },
   {
     "Package": "keybase",
@@ -12691,19 +12709,19 @@
   },
   {
     "Package": "pypy3",
-    "Version": "7.3.21",
+    "Version": "7.3.22",
     "Description": "A fast, compliant alternative implementation of Python 3",
     "Homepage": "https://pypy.org"
   },
   {
     "Package": "pypy3-tests",
-    "Version": "7.3.21",
+    "Version": "7.3.22",
     "Description": "Test files for PyPy 3",
     "Homepage": "https://pypy.org"
   },
   {
     "Package": "pypy3-tkinter",
-    "Version": "7.3.21",
+    "Version": "7.3.22",
     "Description": "Tkinter support for PyPy 3",
     "Homepage": "https://pypy.org"
   },
