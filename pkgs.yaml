@@ -383,7 +383,7 @@
   Description: AT and batch delayed command scheduling utility and daemon
   Homepage: https://salsa.debian.org/debian/at
 - Package: at-spi2-core
-  Version: 2.60.2
+  Version: 2.60.3
   Description: Assistive Technology Service Provider Interface (AT-SPI)
   Homepage: https://wiki.gnome.org/Accessibility
 - Package: atomicparsley
@@ -707,7 +707,7 @@
   Description: Utilities for Btrfs filesystem
   Homepage: https://btrfs.readthedocs.io/en/latest/
 - Package: buf
-  Version: 1.68.4
+  Version: 1.69.0
   Description: A new way of working with Protocol Buffers
   Homepage: https://buf.build
 - Package: build-essential
@@ -903,11 +903,11 @@
   Description: A fast and lightweight GIF encoding library
   Homepage: https://github.com/dloebl/cgif
 - Package: chafa
-  Version: 1.18.1-2
+  Version: 1.18.2
   Description: Image-to-text converter supporting a wide range of symbols, etc.
   Homepage: https://hpjansson.org/chafa/
 - Package: chafa-static
-  Version: 1.18.1-2
+  Version: 1.18.2
   Description: Static libraries for chafa
   Homepage: https://hpjansson.org/chafa/
 - Package: check
@@ -1627,7 +1627,7 @@
   Description: Binary-decimal and decimal-binary routines for IEEE doubles
   Homepage: https://github.com/google/double-conversion
 - Package: doxygen
-  Version: 1.16.1
+  Version: 1.17.0
   Description: A documentation system for C++, C, Java, IDL and PHP
   Homepage: http://www.doxygen.org
 - Package: dpkg
@@ -2079,7 +2079,7 @@
   Description: Software synthesizer based on the SoundFont 2 specifications
   Homepage: https://github.com/FluidSynth/fluidsynth
 - Package: flyctl
-  Version: 0.4.42
+  Version: 0.4.43
   Description: Command line tools for fly.io services
   Homepage: https://fly.io
 - Package: fm
@@ -6959,19 +6959,19 @@
   Description: Static libraries for mercury
   Homepage: https://www.mercurylang.org/
 - Package: mesa
-  Version: 26.0.5
+  Version: 26.0.6
   Description: An open-source implementation of the OpenGL specification
   Homepage: https://www.mesa3d.org
 - Package: mesa-dev
-  Version: 26.0.5
+  Version: 26.0.6
   Description: Mesas OpenGL headers
   Homepage: https://www.mesa3d.org
 - Package: mesa-opencl-icd-rusticl
-  Version: 26.0.5
+  Version: 26.0.6
   Description: Mesas Rusticl OpenCL ICD
   Homepage: https://www.mesa3d.org
 - Package: mesa-vulkan-icd-swrast
-  Version: 26.0.5
+  Version: 26.0.6
   Description: Mesas Swrast Vulkan ICD
   Homepage: https://www.mesa3d.org
 - Package: mfcuk

@@ -577,7 +577,7 @@
   },
   {
     "Package": "at-spi2-core",
-    "Version": "2.60.2",
+    "Version": "2.60.3",
     "Description": "Assistive Technology Service Provider Interface (AT-SPI)",
     "Homepage": "https://wiki.gnome.org/Accessibility"
   },
@@ -1063,7 +1063,7 @@
   },
   {
     "Package": "buf",
-    "Version": "1.68.4",
+    "Version": "1.69.0",
     "Description": "A new way of working with Protocol Buffers",
     "Homepage": "https://buf.build"
   },
@@ -1357,13 +1357,13 @@
   },
   {
     "Package": "chafa",
-    "Version": "1.18.1-2",
+    "Version": "1.18.2",
     "Description": "Image-to-text converter supporting a wide range of symbols, etc.",
     "Homepage": "https://hpjansson.org/chafa/"
   },
   {
     "Package": "chafa-static",
-    "Version": "1.18.1-2",
+    "Version": "1.18.2",
     "Description": "Static libraries for chafa",
     "Homepage": "https://hpjansson.org/chafa/"
   },
@@ -2443,7 +2443,7 @@
   },
   {
     "Package": "doxygen",
-    "Version": "1.16.1",
+    "Version": "1.17.0",
     "Description": "A documentation system for C++, C, Java, IDL and PHP",
     "Homepage": "http://www.doxygen.org"
   },
@@ -3121,7 +3121,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.4.42",
+    "Version": "0.4.43",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -10441,25 +10441,25 @@
   },
   {
     "Package": "mesa",
-    "Version": "26.0.5",
+    "Version": "26.0.6",
     "Description": "An open-source implementation of the OpenGL specification",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-dev",
-    "Version": "26.0.5",
+    "Version": "26.0.6",
     "Description": "Mesas OpenGL headers",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-opencl-icd-rusticl",
-    "Version": "26.0.5",
+    "Version": "26.0.6",
     "Description": "Mesas Rusticl OpenCL ICD",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-vulkan-icd-swrast",
-    "Version": "26.0.5",
+    "Version": "26.0.6",
     "Description": "Mesas Swrast Vulkan ICD",
     "Homepage": "https://www.mesa3d.org"
   },

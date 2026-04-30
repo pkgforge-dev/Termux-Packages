@@ -106,7 +106,7 @@
 | **assimp** | 6.0.4 | Library to import various well-known 3D model formats in an uniform manner | https://assimp.sourceforge.net/index.html |
 | **asymptote** | 3.10 | A powerful descriptive vector graphics language for technical drawing | https://asymptote.sourceforge.io/ |
 | **at** | 3.2.5-2 | AT and batch delayed command scheduling utility and daemon | https://salsa.debian.org/debian/at |
-| **at-spi2-core** | 2.60.2 | Assistive Technology Service Provider Interface (AT-SPI) | https://wiki.gnome.org/Accessibility |
+| **at-spi2-core** | 2.60.3 | Assistive Technology Service Provider Interface (AT-SPI) | https://wiki.gnome.org/Accessibility |
 | **atomicparsley** | 1:20240608.083822.1ed9031-1 | Read, parse and set metadata of MPEG-4 and 3gp files | https://github.com/wez/atomicparsley |
 | **atomvm** | 1:0.6.6-1 | The minimal Erlang VM implementation | https://github.com/bettio/AtomVM |
 | **atool** | 0.39.0-2 | tool for managing file archives of various types | https://www.nongnu.org/atool |
@@ -187,7 +187,7 @@
 | **bsdtar** | 3.8.7 | The tar(1) and cpio(1) programs from FreeBSD, using libarchive | https://www.libarchive.org/ |
 | **btfs2** | 4.1.0 | Decentralized file system integrating with TRON network and Bittorrent network | https://www.bittorrent.com/btfs/ |
 | **btrfs-progs** | 6.19.1 | Utilities for Btrfs filesystem | https://btrfs.readthedocs.io/en/latest/ |
-| **buf** | 1.68.4 | A new way of working with Protocol Buffers | https://buf.build |
+| **buf** | 1.69.0 | A new way of working with Protocol Buffers | https://buf.build |
 | **build-essential** | 4.1 | A metapackage that installs essential development tools | https://github.com/termux/termux-packages |
 | **busybox** | 1.37.0-3 | Tiny versions of many common UNIX utilities into a single small executable | https://busybox.net/ |
 | **bvi** | 1.5.0-1 | Binary file editor based on vi | https://bvi.sourceforge.net/ |
@@ -236,8 +236,8 @@
 | **cgal** | 6.1.1 | Computational Geometry Algorithms Library | https://www.cgal.org/ |
 | **cgdb** | 0.8.0-1 | A lightweight curses (terminal-based) interface to the GNU Debugger (GDB) | https://cgdb.github.io/ |
 | **cgif** | 0.5.3 | A fast and lightweight GIF encoding library | https://github.com/dloebl/cgif |
-| **chafa** | 1.18.1-2 | Image-to-text converter supporting a wide range of symbols, etc. | https://hpjansson.org/chafa/ |
-| **chafa-static** | 1.18.1-2 | Static libraries for chafa | https://hpjansson.org/chafa/ |
+| **chafa** | 1.18.2 | Image-to-text converter supporting a wide range of symbols, etc. | https://hpjansson.org/chafa/ |
+| **chafa-static** | 1.18.2 | Static libraries for chafa | https://hpjansson.org/chafa/ |
 | **check** | 0.15.2-3 | A unit testing framework for C | https://libcheck.github.io/check |
 | **check-static** | 0.15.2-3 | Static libraries for check | https://libcheck.github.io/check |
 | **chezmoi** | 2.70.2 | Manage your dotfiles across multiple machines | https://chezmoi.io |
@@ -417,7 +417,7 @@
 | **dotnet8.0** | 8.0.26 | .NET 8.0 | https://dotnet.microsoft.com/en-us/ |
 | **dotnet9.0** | 9.0.15 | .NET 9.0 | https://dotnet.microsoft.com/en-us/ |
 | **double-conversion** | 3.4.0 | Binary-decimal and decimal-binary routines for IEEE doubles | https://github.com/google/double-conversion |
-| **doxygen** | 1.16.1 | A documentation system for C++, C, Java, IDL and PHP | http://www.doxygen.org |
+| **doxygen** | 1.17.0 | A documentation system for C++, C, Java, IDL and PHP | http://www.doxygen.org |
 | **dpkg** | 1.22.6-5 | Debian package management system | https://packages.debian.org/dpkg |
 | **dpkg-perl** | 1.22.6-5 | Perl modules for dpkg | https://packages.debian.org/dpkg |
 | **dpkg-scanpackages** | 1.22.6-5 | Creates Packages index files | https://packages.debian.org/dpkg |
@@ -530,7 +530,7 @@
 | **flex-static** | 2.6.4-4 | Static libraries for flex | https://github.com/westes/flex |
 | **flint** | 3.5.0 | C library for doing number theory | http://www.flintlib.org |
 | **fluidsynth** | 2.5.4 | Software synthesizer based on the SoundFont 2 specifications | https://github.com/FluidSynth/fluidsynth |
-| **flyctl** | 0.4.42 | Command line tools for fly.io services | https://fly.io |
+| **flyctl** | 0.4.43 | Command line tools for fly.io services | https://fly.io |
 | **fm** | 1.2.0 | A terminal based file manager | https://github.com/knipferrc/fm |
 | **fmt** | 1:11.2.0 | Open-source formatting library for C++ | https://fmt.dev/latest/index.html |
 | **fontconfig** | 2.17.1-1 | Library for configuring and customizing font access | https://www.freedesktop.org/wiki/Software/fontconfig/ |
@@ -1750,10 +1750,10 @@
 | **memcached** | 1.6.41 | Free & open source, high-performance, distributed memory object caching system | https://memcached.org/ |
 | **mercury** | 22.01.8-1 | A logic/functional programming language | https://www.mercurylang.org/ |
 | **mercury-static** | 22.01.8-1 | Static libraries for mercury | https://www.mercurylang.org/ |
-| **mesa** | 26.0.5 | An open-source implementation of the OpenGL specification | https://www.mesa3d.org |
-| **mesa-dev** | 26.0.5 | Mesa's OpenGL headers | https://www.mesa3d.org |
-| **mesa-opencl-icd-rusticl** | 26.0.5 | Mesa's Rusticl OpenCL ICD | https://www.mesa3d.org |
-| **mesa-vulkan-icd-swrast** | 26.0.5 | Mesa's Swrast Vulkan ICD | https://www.mesa3d.org |
+| **mesa** | 26.0.6 | An open-source implementation of the OpenGL specification | https://www.mesa3d.org |
+| **mesa-dev** | 26.0.6 | Mesa's OpenGL headers | https://www.mesa3d.org |
+| **mesa-opencl-icd-rusticl** | 26.0.6 | Mesa's Rusticl OpenCL ICD | https://www.mesa3d.org |
+| **mesa-vulkan-icd-swrast** | 26.0.6 | Mesa's Swrast Vulkan ICD | https://www.mesa3d.org |
 | **mfcuk** | 2018.07.14-1 | MiFare Classic Universal toolKit (MFCUK) | https://github.com/nfc-tools/mfcuk |
 | **mg** | 20260227 | microscopic GNU Emacs-style editor | https://github.com/hboetes/mg |
 | **micro** | 2.0.15 | Modern and intuitive terminal-based text editor | https://micro-editor.github.io/ |
