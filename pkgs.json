@@ -1903,7 +1903,7 @@
   },
   {
     "Package": "dasel",
-    "Version": "3.8.0",
+    "Version": "3.8.1",
     "Description": "Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility",
     "Homepage": "https://github.com/TomWright/dasel"
   },
@@ -4159,7 +4159,7 @@
   },
   {
     "Package": "gsf-tools",
-    "Version": "1.14.56",
+    "Version": "1.14.57",
     "Description": "Command-line tools for libgsf",
     "Homepage": "https://gitlab.gnome.org/GNOME/libgsf"
   },
@@ -4267,7 +4267,7 @@
   },
   {
     "Package": "haproxy",
-    "Version": "3.3.7",
+    "Version": "3.3.8",
     "Description": "The Reliable, High Performance TCP/HTTP Load Balancer",
     "Homepage": "https://www.haproxy.org/"
   },
@@ -6613,13 +6613,13 @@
   },
   {
     "Package": "libgsf",
-    "Version": "1.14.56",
+    "Version": "1.14.57",
     "Description": "The G Structured File Library",
     "Homepage": "https://gitlab.gnome.org/GNOME/libgsf"
   },
   {
     "Package": "libgsf-static",
-    "Version": "1.14.56",
+    "Version": "1.14.57",
     "Description": "Static libraries for libgsf",
     "Homepage": "https://gitlab.gnome.org/GNOME/libgsf"
   },
@@ -8665,7 +8665,7 @@
   },
   {
     "Package": "libtbb",
-    "Version": "2022.3.0",
+    "Version": "2023.0.0",
     "Description": "oneAPI Threading Building Blocks",
     "Homepage": "https://uxlfoundation.github.io/oneTBB/"
   },
@@ -10405,7 +10405,7 @@
   },
   {
     "Package": "mediamtx",
-    "Version": "1.18.0",
+    "Version": "1.18.1",
     "Description": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy",
     "Homepage": "https://github.com/bluenviron/mediamtx"
   },
@@ -16207,7 +16207,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "2.9.1",
+    "Version": "2.9.3",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },
@@ -16249,7 +16249,7 @@
   },
   {
     "Package": "wasmtime",
-    "Version": "44.0.0",
+    "Version": "44.0.1",
     "Description": "A standalone runtime for WebAssembly",
     "Homepage": "https://wasmtime.dev/"
   },

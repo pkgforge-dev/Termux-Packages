@@ -315,7 +315,7 @@
 | **dar-static** | 2.8.4 | Static libraries for dar | http://dar.linux.free.fr/ |
 | **darkhttpd** | 1.17-1 | A simple webserver, implemented in a single .c file. | https://unix4lyfe.org/darkhttpd |
 | **dart** | 3.11.5 | Dart is a general-purpose programming language | https://dart.dev/ |
-| **dasel** | 3.8.0 | Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility | https://github.com/TomWright/dasel |
+| **dasel** | 3.8.1 | Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility | https://github.com/TomWright/dasel |
 | **dash** | 0.5.12-2 | Small POSIX-compliant implementation of /bin/sh | http://gondor.apana.org.au/~herbert/dash/ |
 | **dasm** | 2.20.14.1-1 | Macro assembler with support for several 8-bit microprocessors | https://dasm-dillon.sourceforge.io/ |
 | **datamash** | 1.9-1 | Program performing numeric, textual and statistical operations | https://www.gnu.org/software/datamash/ |
@@ -691,7 +691,7 @@
 | **groovy** | 4.0.26-4 | A powerful multi-faceted programming language for the JVM platform | https://groovy-lang.org/ |
 | **grpcurl** | 1.9.3 | Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers | https://github.com/fullstorydev/grpcurl |
 | **gsasl** | 2.2.2-1 | GNU SASL library command line interface | https://www.gnu.org/software/gsasl |
-| **gsf-tools** | 1.14.56 | Command-line tools for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
+| **gsf-tools** | 1.14.57 | Command-line tools for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
 | **gsl** | 2.8-1 | GNU Scientific Library (GSL) providing a wide range of mathematical routines | https://www.gnu.org/software/gsl/ |
 | **gsl-static** | 2.8-1 | Static libraries for gsl | https://www.gnu.org/software/gsl/ |
 | **gst-libav** | 1.28.2 | GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code | https://gstreamer.freedesktop.org/modules/gst-libav.html |
@@ -709,7 +709,7 @@
 | **gumbo-parser-static** | 0.10.1-1 | Static libraries for gumbo-parser | https://github.com/google/gumbo-parser |
 | **gweather-locations** | 2026.2 | The GWeather locations database | https://gitlab.gnome.org/GNOME/gweather-locations |
 | **gzip** | 1.14-1 | Standard GNU file compression utilities | https://www.gnu.org/software/gzip/ |
-| **haproxy** | 3.3.7 | The Reliable, High Performance TCP/HTTP Load Balancer | https://www.haproxy.org/ |
+| **haproxy** | 3.3.8 | The Reliable, High Performance TCP/HTTP Load Balancer | https://www.haproxy.org/ |
 | **harfbuzz** | 14.2.0 | OpenType text shaping engine | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
 | **harfbuzz-icu** | 14.2.0 | OpenType text shaping engine ICU backend | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
 | **harfbuzz-utils** | 14.2.0 | Tools using the harfbuzz library | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
@@ -1100,8 +1100,8 @@
 | **libgrpc** | 1.80.0 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
 | **libgsasl** | 2.2.2-1 | GNU SASL library | https://www.gnu.org/software/gsasl |
 | **libgsasl-static** | 2.2.2-1 | Static libraries for libgsasl | https://www.gnu.org/software/gsasl |
-| **libgsf** | 1.14.56 | The G Structured File Library | https://gitlab.gnome.org/GNOME/libgsf |
-| **libgsf-static** | 1.14.56 | Static libraries for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
+| **libgsf** | 1.14.57 | The G Structured File Library | https://gitlab.gnome.org/GNOME/libgsf |
+| **libgsf-static** | 1.14.57 | Static libraries for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
 | **libgtop** | 2.41.3-2 | Library for collecting system monitoring data | https://gitlab.gnome.org/GNOME/libgtop |
 | **libgtop-static** | 2.41.3-2 | Static libraries for libgtop | https://gitlab.gnome.org/GNOME/libgtop |
 | **libgts** | 0.7.6-3 | Provides useful functions to deal with 3D surfaces meshed with interconnected triangles | https://gts.sourceforge.net/ |
@@ -1442,7 +1442,7 @@
 | **libtasn1-static** | 4.21.0 | Static libraries for libtasn1 | https://www.gnu.org/software/libtasn1/ |
 | **libtatsu** | 1.0.5-1 | Library handling the communication with Apple's Tatsu Signing Server (TSS) | https://libimobiledevice.org/ |
 | **libtatsu-static** | 1.0.5-1 | Static libraries for libtatsu | https://libimobiledevice.org/ |
-| **libtbb** | 2022.3.0 | oneAPI Threading Building Blocks | https://uxlfoundation.github.io/oneTBB/ |
+| **libtbb** | 2023.0.0 | oneAPI Threading Building Blocks | https://uxlfoundation.github.io/oneTBB/ |
 | **libtd** | 1.8.50-1 | Library for building Telegram clients | https://core.telegram.org/tdlib/ |
 | **libtd-static** | 1.8.50-1 | Static libraries for libtd | https://core.telegram.org/tdlib/ |
 | **libtdb** | 1.4.15 | A trivial database system | https://tdb.samba.org/ |
@@ -1732,7 +1732,7 @@
 | **mdp** | 1.0.18-1 | Command-line based markdown presentation tool | https://github.com/visit1985/mdp |
 | **media-types** | 14.0.0 | List of standard media types and their usual file extension | https://pagure.io/mailcap |
 | **mediainfo** | 26.01 | Command-line utility for reading information from media files | https://mediaarea.net/en/MediaInfo |
-| **mediamtx** | 1.18.0 | Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy | https://github.com/bluenviron/mediamtx |
+| **mediamtx** | 1.18.1 | Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy | https://github.com/bluenviron/mediamtx |
 | **megacmd** | 2.5.2 | Provides non UI access to MEGA services | https://mega.io/ |
 | **megatools** | 1.11.5.20250706-1 | Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage | https://xff.cz/megatools/ |
 | **memcached** | 1.6.41 | Free & open source, high-performance, distributed memory object caching system | https://memcached.org/ |
@@ -2699,14 +2699,14 @@
 | **w3m** | 0.5.6 | Text based Web browser and pager | https://w3m.sourceforge.net/ |
 | **w3m-img** | 0.5.6 | Inline image extension support utilities for w3m | https://w3m.sourceforge.net/ |
 | **wabt** | 1.0.40 | The WebAssembly Binary Toolkit | https://github.com/WebAssembly/wabt |
-| **wakatime-cli** | 2.9.1 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
+| **wakatime-cli** | 2.9.3 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
 | **walk** | 1.13.0 | A terminal file manager | https://github.com/antonmedv/walk |
 | **wallust** | 3.5.2 | Generate colors from an image | https://explosion-mental.codeberg.page/wallust |
 | **wasi-libc** | 30 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |
 | **wasm-component-ld** | 0.5.22 | Command line linker for creating WebAssembly components | https://github.com/bytecodealliance/wasm-component-ld |
 | **wasmedge** | 0.16.2 | A lightweight, high-performance, and extensible WebAssembly runtime | https://wasmedge.org/ |
 | **wasmer** | 7.0.1 | A fast and secure WebAssembly runtime | https://wasmer.io/ |
-| **wasmtime** | 44.0.0 | A standalone runtime for WebAssembly | https://wasmtime.dev/ |
+| **wasmtime** | 44.0.1 | A standalone runtime for WebAssembly | https://wasmtime.dev/ |
 | **watchexec** | 2.5.1 | Executes commands in response to file modifications | https://github.com/watchexec/watchexec |
 | **wavpack** | 5.9.0 | WavPack command-line programs | https://www.wavpack.com/ |
 | **waypipe** | 0.11.0 | A proxy for Wayland clients | https://gitlab.freedesktop.org/mstoeckl/waypipe |
