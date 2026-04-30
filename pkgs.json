@@ -307,7 +307,7 @@
   },
   {
     "Package": "apkeep",
-    "Version": "0.18.0",
+    "Version": "1.0.0",
     "Description": "A command-line tool for downloading APK files from various sources",
     "Homepage": "https://github.com/EFForg/apkeep"
   },
@@ -2695,25 +2695,25 @@
   },
   {
     "Package": "emscripten",
-    "Version": "5.0.6",
+    "Version": "5.0.7",
     "Description": "Emscripten: An LLVM-to-WebAssembly Compiler",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-binaryen",
-    "Version": "5.0.6",
+    "Version": "5.0.7",
     "Description": "Emscripten-compatible Binaryen",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-llvm",
-    "Version": "5.0.6",
+    "Version": "5.0.7",
     "Description": "Emscripten-compatible LLVM",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-tests-third-party",
-    "Version": "5.0.6",
+    "Version": "5.0.7",
     "Description": "Emscripten third party test suite files",
     "Homepage": "https://emscripten.org"
   },
@@ -10561,13 +10561,13 @@
   },
   {
     "Package": "minizinc",
-    "Version": "2.9.6",
+    "Version": "2.9.7",
     "Description": "A medium-level constraint modelling language",
     "Homepage": "https://github.com/MiniZinc/libminizinc"
   },
   {
     "Package": "minizinc-static",
-    "Version": "2.9.6",
+    "Version": "2.9.7",
     "Description": "Static libraries for minizinc",
     "Homepage": "https://github.com/MiniZinc/libminizinc"
   },
