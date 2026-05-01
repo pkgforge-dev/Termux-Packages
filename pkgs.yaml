@@ -2771,7 +2771,7 @@
   Description: GNU SASL library command line interface
   Homepage: https://www.gnu.org/software/gsasl
 - Package: gsf-tools
-  Version: 1.14.57
+  Version: 1.14.58
   Description: Command-line tools for libgsf
   Homepage: https://gitlab.gnome.org/GNOME/libgsf
 - Package: gsl
@@ -4407,11 +4407,11 @@
   Description: Static libraries for libgsasl
   Homepage: https://www.gnu.org/software/gsasl
 - Package: libgsf
-  Version: 1.14.57
+  Version: 1.14.58
   Description: The G Structured File Library
   Homepage: https://gitlab.gnome.org/GNOME/libgsf
 - Package: libgsf-static
-  Version: 1.14.57
+  Version: 1.14.58
   Description: Static libraries for libgsf
   Homepage: https://gitlab.gnome.org/GNOME/libgsf
 - Package: libgtop
@@ -6803,7 +6803,7 @@
   Description: A simple chat bridge
   Homepage: https://github.com/42wim/matterbridge
 - Package: matterircd
-  Version: 0.28.0-1
+  Version: 0.29.0
   Description: Connect to your mattermost or slack using your IRC-client of choice
   Homepage: https://github.com/42wim/matterircd
 - Package: matugen
@@ -10403,7 +10403,7 @@
   Description: A single and trusted place for all unofficial/less popular termux packages
   Homepage: https://github.com/termux-user-repository/tur
 - Package: turbo
-  Version: 2.9.6
+  Version: 2.9.7
   Description: High-performance build system for JS/TS
   Homepage: https://turbo.build/
 - Package: turbopack
@@ -10755,7 +10755,7 @@
   Description: Vulkan Extension Layer
   Homepage: https://github.com/KhronosGroup/Vulkan-ExtensionLayer
 - Package: vulkan-headers
-  Version: 1.4.349
+  Version: 1.4.350
   Description: Vulkan Header files and API registry
   Homepage: https://github.com/KhronosGroup/Vulkan-Headers
 - Package: vulkan-icd
@@ -10771,7 +10771,7 @@
   Description: Vulkan Loader for Android
   Homepage: https://source.android.com/devices/graphics/arch-vulkan
 - Package: vulkan-loader-generic
-  Version: 1.4.349
+  Version: 1.4.350
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
@@ -10779,7 +10779,7 @@
   Description: Vulkan Tools and Utilities
   Homepage: https://github.com/KhronosGroup/Vulkan-Tools
 - Package: vulkan-utility-libraries
-  Version: 1.4.349
+  Version: 1.4.350
   Description: Utility Libraries for Vulkan
   Homepage: https://github.com/KhronosGroup/Vulkan-Utility-Libraries
 - Package: vulkan-validation-layers

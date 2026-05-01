@@ -4159,7 +4159,7 @@
   },
   {
     "Package": "gsf-tools",
-    "Version": "1.14.57",
+    "Version": "1.14.58",
     "Description": "Command-line tools for libgsf",
     "Homepage": "https://gitlab.gnome.org/GNOME/libgsf"
   },
@@ -6613,13 +6613,13 @@
   },
   {
     "Package": "libgsf",
-    "Version": "1.14.57",
+    "Version": "1.14.58",
     "Description": "The G Structured File Library",
     "Homepage": "https://gitlab.gnome.org/GNOME/libgsf"
   },
   {
     "Package": "libgsf-static",
-    "Version": "1.14.57",
+    "Version": "1.14.58",
     "Description": "Static libraries for libgsf",
     "Homepage": "https://gitlab.gnome.org/GNOME/libgsf"
   },
@@ -10207,7 +10207,7 @@
   },
   {
     "Package": "matterircd",
-    "Version": "0.28.0-1",
+    "Version": "0.29.0",
     "Description": "Connect to your mattermost or slack using your IRC-client of choice",
     "Homepage": "https://github.com/42wim/matterircd"
   },
@@ -15607,7 +15607,7 @@
   },
   {
     "Package": "turbo",
-    "Version": "2.9.6",
+    "Version": "2.9.7",
     "Description": "High-performance build system for JS/TS",
     "Homepage": "https://turbo.build/"
   },
@@ -16135,7 +16135,7 @@
   },
   {
     "Package": "vulkan-headers",
-    "Version": "1.4.349",
+    "Version": "1.4.350",
     "Description": "Vulkan Header files and API registry",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Headers"
   },
@@ -16159,7 +16159,7 @@
   },
   {
     "Package": "vulkan-loader-generic",
-    "Version": "1.4.349",
+    "Version": "1.4.350",
     "Description": "Vulkan Loader",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Loader"
   },
@@ -16171,7 +16171,7 @@
   },
   {
     "Package": "vulkan-utility-libraries",
-    "Version": "1.4.349",
+    "Version": "1.4.350",
     "Description": "Utility Libraries for Vulkan",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Utility-Libraries"
   },
