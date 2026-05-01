@@ -691,7 +691,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.34.39",
+    "Version": "2.34.40",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -1525,7 +1525,7 @@
   },
   {
     "Package": "clvk",
-    "Version": "0.0.20260417.111654",
+    "Version": "0.0.20260429.095507",
     "Description": "Experimental implementation of OpenCL on Vulkan",
     "Homepage": "https://github.com/kpet/clvk"
   },
@@ -2041,7 +2041,7 @@
   },
   {
     "Package": "difftastic",
-    "Version": "0.68.0",
+    "Version": "0.69.0",
     "Description": "difft: A structural diff that understands syntax",
     "Homepage": "https://github.com/Wilfred/difftastic"
   },
@@ -3121,7 +3121,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.4.43",
+    "Version": "0.4.45",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -4831,7 +4831,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.24.1731",
+    "Version": "0.24.1806",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -11479,13 +11479,13 @@
   },
   {
     "Package": "ollama",
-    "Version": "0.22.0",
+    "Version": "0.22.1",
     "Description": "Get up and running with large language models",
     "Homepage": "https://ollama.com/"
   },
   {
     "Package": "ollama-backend-vulkan",
-    "Version": "0.22.0",
+    "Version": "0.22.1",
     "Description": "Vulkan Backend for Ollama",
     "Homepage": "https://ollama.com/"
   },
@@ -11779,7 +11779,7 @@
   },
   {
     "Package": "openxr",
-    "Version": "1.1.58-1",
+    "Version": "1.1.59",
     "Description": "Open standard that provides a common set of APIs for developing XR applications",
     "Homepage": "https://www.khronos.org/openxr/"
   },
@@ -14341,7 +14341,7 @@
   },
   {
     "Package": "spirv-llvm-translator",
-    "Version": "21.1.6",
+    "Version": "21.1.7",
     "Description": "SPIR-V LLVM Translator",
     "Homepage": "https://github.com/KhronosGroup/SPIRV-LLVM-Translator"
   },
@@ -14473,7 +14473,7 @@
   },
   {
     "Package": "starship",
-    "Version": "1.25.0",
+    "Version": "1.25.1",
     "Description": "A minimal, blazing fast, and extremely customizable prompt for any shell",
     "Homepage": "https://starship.rs"
   },
@@ -14899,7 +14899,7 @@
   },
   {
     "Package": "teleport-tsh",
-    "Version": "18.7.2",
+    "Version": "18.7.6",
     "Description": "Secure Access for Developers that doesnt get in the way",
     "Homepage": "https://github.com/gravitational/teleport"
   },
@@ -16303,7 +16303,7 @@
   },
   {
     "Package": "webtunnel",
-    "Version": "0.0.3",
+    "Version": "0.0.4",
     "Description": "Pluggable Transport based on HTTP Upgrade(HTTPT)",
     "Homepage": "https://torproject.org/"
   },

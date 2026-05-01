@@ -113,7 +113,7 @@
 | **aview** | 1.3.0rc1-6 | High quality ascii-art image browser and animation player | https://aa-project.sourceforge.net/aview/ |
 | **avra** | 1.4.2-1 | Assember for the Atmel AVR microcontroller family | https://github.com/Ro5bert/avra |
 | **await** | 2.4.0 | Runs list of commands in parallel and waits for their termination | https://github.com/slavaGanzin/await |
-| **awscli** | 2.34.39 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
+| **awscli** | 2.34.40 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
 | **axel** | 2.17.14-1 | light command line download accelerator | https://github.com/axel-download-accelerator/axel |
 | **b3sum** | 1.8.5 | A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum | https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum |
 | **babl** | 0.1.126 | Dynamic pixel format translation library | https://gegl.org/babl/ |
@@ -252,7 +252,7 @@
 | **cloneit** | 20240728-1 | A cli tool to download specific GitHub directories or files | https://github.com/alok8bb/cloneit |
 | **cloudflared** | 2026.3.0 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
 | **clpeak** | 1.1.5 | A tool which profiles OpenCL devices to find their peak capacities | https://github.com/krrishnarraj/clpeak |
-| **clvk** | 0.0.20260417.111654 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
+| **clvk** | 0.0.20260429.095507 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
 | **cmake** | 4.3.2-1 | Family of tools designed to build, test and package software | https://cmake.org/ |
 | **cmake-curses-gui** | 4.3.2-1 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
 | **cmark** | 0.31.2 | CommonMark parsing and rendering program | https://github.com/commonmark/cmark |
@@ -338,7 +338,7 @@
 | **dictd** | 1.13.3-1 | Online dictionary client and server | https://sourceforge.net/projects/dict/ |
 | **diff-so-fancy** | 1.4.10 | Good-lookin' diffs. Actually... nah... The best-lookin' diffs | https://github.com/so-fancy/diff-so-fancy |
 | **diffstat** | 1.69 | Displays a histogram of changes to a file | https://invisible-island.net/diffstat/diffstat.html |
-| **difftastic** | 0.68.0 | difft: A structural diff that understands syntax | https://github.com/Wilfred/difftastic |
+| **difftastic** | 0.69.0 | difft: A structural diff that understands syntax | https://github.com/Wilfred/difftastic |
 | **diffutils** | 3.12-2 | Programs (cmp, diff, diff3 and sdiff) related to finding differences between files | https://www.gnu.org/software/diffutils/ |
 | **dirb** | 2.22-5 | Web Directory Fuzzer | https://dirb.sourceforge.net/ |
 | **direnv** | 2.37.1-1 | Environment switcher for shell | https://github.com/direnv/direnv |
@@ -518,7 +518,7 @@
 | **flex-static** | 2.6.4-4 | Static libraries for flex | https://github.com/westes/flex |
 | **flint** | 3.5.0 | C library for doing number theory | http://www.flintlib.org |
 | **fluidsynth** | 2.5.4 | Software synthesizer based on the SoundFont 2 specifications | https://github.com/FluidSynth/fluidsynth |
-| **flyctl** | 0.4.43 | Command line tools for fly.io services | https://fly.io |
+| **flyctl** | 0.4.45 | Command line tools for fly.io services | https://fly.io |
 | **fm** | 1.2.0 | A terminal based file manager | https://github.com/knipferrc/fm |
 | **fmt** | 1:11.2.0 | Open-source formatting library for C++ | https://fmt.dev/latest/index.html |
 | **fontconfig** | 2.17.1-1 | Library for configuring and customizing font access | https://www.freedesktop.org/wiki/Software/fontconfig/ |
@@ -803,7 +803,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4-1 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-2 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.24.1731 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.24.1806 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **jadx** | 1.5.5 | Dex to Java decompiler | https://github.com/skylot/jadx |
 | **jadx-x** | 1.5.5 | Dex to Java decompiler GUI | https://github.com/skylot/jadx |
 | **janet** | 1.41.2 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
@@ -1911,8 +1911,8 @@
 | **okc-agents** | 0.1.2-2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.7 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-10 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
-| **ollama** | 0.22.0 | Get up and running with large language models | https://ollama.com/ |
-| **ollama-backend-vulkan** | 0.22.0 | Vulkan Backend for Ollama | https://ollama.com/ |
+| **ollama** | 0.22.1 | Get up and running with large language models | https://ollama.com/ |
+| **ollama-backend-vulkan** | 0.22.1 | Vulkan Backend for Ollama | https://ollama.com/ |
 | **oma** | 1.25.2 | oma is an attempt at reworking APT's interface | https://aosc.io/oma |
 | **onefetch** | 2.27.1 | A command-line Git information tool written in Rust | https://onefetch.dev/ |
 | **onigmo** | 6.2.0-1 | A regular expressions library forked from Oniguruma | https://github.com/k-takata/Onigmo |
@@ -1961,7 +1961,7 @@
 | **openssl-static** | 1:3.6.2 | Static libraries for openssl | https://www.openssl.org/ |
 | **openssl-tool** | 1:3.6.2 | The openssl command line cryptographic tool | https://www.openssl.org/ |
 | **opentimelineio** | 0.18.1 | Open Source API and interchange format for editorial timeline information. | http://opentimeline.io/ |
-| **openxr** | 1.1.58-1 | Open standard that provides a common set of APIs for developing XR applications | https://www.khronos.org/openxr/ |
+| **openxr** | 1.1.59 | Open standard that provides a common set of APIs for developing XR applications | https://www.khronos.org/openxr/ |
 | **optipng** | 7.9.1-1 | PNG optimizer that recompresses image files to a smaller size, without losing any information | https://optipng.sourceforge.net/ |
 | **opus-tools** | 0.2-4 | Utilities to encode and decode .opus files | https://www.opus-codec.org/ |
 | **opusfile** | 0.12-4 | A high-level API for decoding and seeking within .opus files | https://www.opus-codec.org/ |
@@ -2388,7 +2388,7 @@
 | **spidermonkey** | 128.10.0-2 | Mozilla's JavaScript engine | https://spidermonkey.dev |
 | **spiped** | 1.6.4-1 | a utility for creating symmetrically encrypted and authenticated pipes between socket addresses | https://www.tarsnap.com/spiped.html |
 | **spirv-headers** | 1.4.341.0 | SPIR-V Headers | https://github.com/KhronosGroup/SPIRV-Headers |
-| **spirv-llvm-translator** | 21.1.6 | SPIR-V LLVM Translator | https://github.com/KhronosGroup/SPIRV-LLVM-Translator |
+| **spirv-llvm-translator** | 21.1.7 | SPIR-V LLVM Translator | https://github.com/KhronosGroup/SPIRV-LLVM-Translator |
 | **spirv-tools** | 1.4.341.0 | SPIR-V Tools | https://github.com/KhronosGroup/SPIRV-Tools |
 | **sqlcipher** | 4.15.0 | SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files | https://github.com/sqlcipher/sqlcipher |
 | **sqlite** | 3.53.0 | Command line shell for SQLite | https://www.sqlite.org |
@@ -2410,7 +2410,7 @@
 | **sssnake** | 0.3.2-2 | cli snake game that plays itself | https://github.com/AngelJumbo/sssnake |
 | **ssss** | 0.5.7-1 | Simple command-line implementation of Shamir's Secret Sharing Scheme | https://github.com/MrJoy/ssss |
 | **stag** | 1.0.0-2 | Streaming bar graphs. For stats and stuff. | https://github.com/seenaburns/stag |
-| **starship** | 1.25.0 | A minimal, blazing fast, and extremely customizable prompt for any shell | https://starship.rs |
+| **starship** | 1.25.1 | A minimal, blazing fast, and extremely customizable prompt for any shell | https://starship.rs |
 | **stdman** | 2024.07.05 | Formatted C++23 stdlib man pages (cppreference) | https://github.com/jeaye/stdman |
 | **stdoutisatty** | 1.0-1 | Patch the isatty() calls for colored output in pipeline | https://github.com/lilydjwg/stdoutisatty |
 | **steghide** | 0.5.1-8 | Embeds a message in a file by replacing some of the least significant bits | https://steghide.sourceforge.net/ |
@@ -2481,7 +2481,7 @@
 | **teckit-static** | 2.5.13 | Static libraries for teckit | https://scripts.sil.org/teckitdownloads |
 | **tectonic** | 0.16.9 | A modernized, complete, self-contained TeX/LaTeX engine | https://tectonic-typesetting.github.io/ |
 | **telegram-bot-api** | 20241031-2 | Telegram Bot API server | https://github.com/tdlib/telegram-bot-api |
-| **teleport-tsh** | 18.7.2 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
+| **teleport-tsh** | 18.7.6 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
 | **tere** | 1.6.0-1 | Terminal file explorer written in rust | https://github.com/mgunyho/tere |
 | **tergent** | 1.0.0-5 | A cryptoki/PKCS#11 library for Termux that uses Android Keystore as its backend | https://github.com/aeolwyr/tergent |
 | **termimage** | 1.2.1-1 | Terminal image viewer | https://github.com/nabijaczleweli/termimage |
@@ -2715,7 +2715,7 @@
 | **webp-pixbuf-loader** | 0.2.7-1 | WebM GDK Pixbuf Loader library | https://github.com/aruiz/webp-pixbuf-loader |
 | **websocat** | 1.14.1 | Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions | https://github.com/vi/websocat |
 | **websocketd** | 0.4.1-4 | Turn any program that uses STDIN/STDOUT into a WebSocket server | http://websocketd.com/ |
-| **webtunnel** | 0.0.3 | Pluggable Transport based on HTTP Upgrade(HTTPT) | https://torproject.org/ |
+| **webtunnel** | 0.0.4 | Pluggable Transport based on HTTP Upgrade(HTTPT) | https://torproject.org/ |
 | **weechat** | 4.7.1-2 | Fast, light and extensible IRC chat client | https://weechat.org/ |
 | **weechat-lua-plugin** | 4.7.1-2 | WeeChat Lua Plugin | https://weechat.org/ |
 | **weechat-matrix-rs** | 2022.10.04-2 | Rust rewrite of the python weechat-matrix script | https://github.com/poljar/weechat-matrix-rs |
