@@ -103,7 +103,7 @@
 | **aspnetcore-targeting-pack-10.0** | 10.0.7 | ASP.NET Core 10.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **aspnetcore-targeting-pack-8.0** | 8.0.26 | ASP.NET Core 8.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **aspnetcore-targeting-pack-9.0** | 9.0.15 | ASP.NET Core 9.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
-| **assimp** | 6.0.4 | Library to import various well-known 3D model formats in an uniform manner | https://assimp.sourceforge.net/index.html |
+| **assimp** | 6.0.5 | Library to import various well-known 3D model formats in an uniform manner | https://assimp.sourceforge.net/index.html |
 | **asymptote** | 3.10 | A powerful descriptive vector graphics language for technical drawing | https://asymptote.sourceforge.io/ |
 | **at** | 3.2.5-2 | AT and batch delayed command scheduling utility and daemon | https://salsa.debian.org/debian/at |
 | **at-spi2-core** | 2.60.3 | Assistive Technology Service Provider Interface (AT-SPI) | https://wiki.gnome.org/Accessibility |
