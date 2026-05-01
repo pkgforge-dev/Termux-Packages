@@ -247,7 +247,7 @@
   },
   {
     "Package": "ani-cli",
-    "Version": "4.13",
+    "Version": "4.14",
     "Description": "A cli to browse and watch anime",
     "Homepage": "https://github.com/pystardust/ani-cli"
   },
@@ -1213,7 +1213,7 @@
   },
   {
     "Package": "cargo-c",
-    "Version": "0.10.21",
+    "Version": "0.10.22",
     "Description": "Cargo C-ABI helpers",
     "Homepage": "https://github.com/lu-zero/cargo-c"
   },
@@ -1879,13 +1879,13 @@
   },
   {
     "Package": "dar",
-    "Version": "2.8.4",
+    "Version": "2.8.5",
     "Description": "A full featured command-line backup tool, short for Disk ARchive",
     "Homepage": "http://dar.linux.free.fr/"
   },
   {
     "Package": "dar-static",
-    "Version": "2.8.4",
+    "Version": "2.8.5",
     "Description": "Static libraries for dar",
     "Homepage": "http://dar.linux.free.fr/"
   },
@@ -10039,7 +10039,7 @@
   },
   {
     "Package": "lychee",
-    "Version": "0.24.1",
+    "Version": "0.24.2",
     "Description": "A fast, async, resource-friendly link checker written in Rust",
     "Homepage": "https://github.com/lycheeverse/lychee"
   },
@@ -10657,7 +10657,7 @@
   },
   {
     "Package": "moor",
-    "Version": "2.12.2",
+    "Version": "2.12.3",
     "Description": "A pager designed to just do the right thing without any configuration",
     "Homepage": "https://github.com/walles/moor"
   },
@@ -13303,7 +13303,7 @@
   },
   {
     "Package": "rclone",
-    "Version": "1.73.5",
+    "Version": "1.74.0",
     "Description": "rsync for cloud storage",
     "Homepage": "https://rclone.org/"
   },

@@ -51,7 +51,7 @@
 | **angband** | 4.2.6 | Dungeon exploration adventure game | https://rephial.org/ |
 | **angle-android** | 2.1.24923-f09a19ce-2 | A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android | https://chromium.googlesource.com/angle/angle |
 | **angle-grinder** | 0.19.6-1 | Slice and dice logs on the command line | https://github.com/rcoh/angle-grinder |
-| **ani-cli** | 4.13 | A cli to browse and watch anime | https://github.com/pystardust/ani-cli |
+| **ani-cli** | 4.14 | A cli to browse and watch anime | https://github.com/pystardust/ani-cli |
 | **ansifilter** | 2.22 | Strip or convert ANSI codes into HTML, (La)Tex, RTF, or BBCode | http://www.andre-simon.de/doku/ansifilter/en/ansifilter.php |
 | **ant** | 1.10.17 | Java based build tool like make | https://ant.apache.org/ |
 | **antibody** | 6.1.1-3 | The fastest shell plugin manager | https://github.com/getantibody/antibody |
@@ -212,7 +212,7 @@
 | **capstone-static** | 5.0.7 | Static libraries for capstone | https://www.capstone-engine.org/ |
 | **carapace** | 1.6.5 | Multi-shell multi-command argument completer | https://carapace.sh/ |
 | **cargo-binstall** | 1.18.1 | Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem | https://github.com/cargo-bins/cargo-binstall |
-| **cargo-c** | 0.10.21 | Cargo C-ABI helpers | https://github.com/lu-zero/cargo-c |
+| **cargo-c** | 0.10.22 | Cargo C-ABI helpers | https://github.com/lu-zero/cargo-c |
 | **cargo-cache** | 0.8.3 | Tool to manage cargo cache | https://github.com/matthiaskrgr/cargo-cache |
 | **cargo-leptos** | 0.3.6 | Build tool for the Rust framework Leptos | https://github.com/leptos-rs/cargo-leptos |
 | **catdoc** | 0.95-2 | Program which reads MS-Word file and prints readable ASCII text to stdout | http://www.wagner.pp.ru/~vitus/software/catdoc/ |
@@ -323,8 +323,8 @@
 | **cvs** | 1:1.12.13-5 | Concurrent Versions System | https://www.nongnu.org/cvs/ |
 | **d8** | 33.0.1-1 | DEX bytecode compiler from Android SDK | https://developer.android.com/studio/command-line/d8 |
 | **daemonize** | 1.7.8-3 | Run a command as a Unix daemon | http://software.clapper.org/daemonize/ |
-| **dar** | 2.8.4 | A full featured command-line backup tool, short for Disk ARchive | http://dar.linux.free.fr/ |
-| **dar-static** | 2.8.4 | Static libraries for dar | http://dar.linux.free.fr/ |
+| **dar** | 2.8.5 | A full featured command-line backup tool, short for Disk ARchive | http://dar.linux.free.fr/ |
+| **dar-static** | 2.8.5 | Static libraries for dar | http://dar.linux.free.fr/ |
 | **darkhttpd** | 1.17-1 | A simple webserver, implemented in a single .c file. | https://unix4lyfe.org/darkhttpd |
 | **dart** | 3.11.5 | Dart is a general-purpose programming language | https://dart.dev/ |
 | **dasel** | 3.8.1 | Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility | https://github.com/TomWright/dasel |
@@ -1683,7 +1683,7 @@
 | **lux** | 0.24.1-2 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
 | **lux-cli** | 0.28.6 | A package manager for Lua, similar to luarocks | https://lux.lumen-labs.org |
 | **lv2** | 1.18.10-7 | A plugin standard for audio systems | https://lv2plug.in/ |
-| **lychee** | 0.24.1 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
+| **lychee** | 0.24.2 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
 | **lynx** | 2.9.2-1 | The text web browser | http://lynx.browser.org/ |
 | **lyrebird** | 0.8.1 | A pluggable transport plugin for Tor | https://gitlab.torproject.org/tpo/anti-censorship/pluggable-transports |
 | **lz4** | 1.10.0-1 | Fast LZ compression algorithm tool | https://lz4.github.io/lz4/ |
@@ -1786,7 +1786,7 @@
 | **mono-static** | 6.14.1-2 | Static libraries for mono | https://gitlab.winehq.org/mono/mono |
 | **monolith** | 2.10.1-1 | CLI tool for saving complete web pages as a single HTML file | https://github.com/Y2Z/monolith |
 | **moon-buggy** | 1.0.51-6 | Simple game where you drive a car across the moon's surface | https://github.com/seehuhn/moon-buggy |
-| **moor** | 2.12.2 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moor |
+| **moor** | 2.12.3 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moor |
 | **mop** | 2025.03.17-1 | Stock market tracker | https://github.com/mop-tracker/mop |
 | **moreutils** | 0.70-1 | A growing collection of the unix tools that nobody thought to write thirty years ago | https://joeyh.name/code/moreutils/ |
 | **moria** | 5.7.15-7 | Rogue-like game with an infinite dungeon | https://umoria.org |
@@ -2227,7 +2227,7 @@
 | **ravencoin-static** | 4.6.1-9 | Static libraries for ravencoin | https://ravencoin.org/ |
 | **rbw** | 1.15.0 | An unofficial command line client for Bitwarden | https://github.com/doy/rbw |
 | **rc** | 1.7.4-2 | An alternative implementation of the plan 9 rc shell | https://github.com/rakitzis/rc |
-| **rclone** | 1.73.5 | rsync for cloud storage | https://rclone.org/ |
+| **rclone** | 1.74.0 | rsync for cloud storage | https://rclone.org/ |
 | **rcm** | 1.3.6 | Dotfiles management | https://github.com/thoughtbot/rcm |
 | **rcs** | 5.10.1-1 | The GNU Revision Control System | https://www.gnu.org/s/rcs |
 | **rdfind** | 1.8.0 | A tool for finding duplicate files | https://github.com/pauldreik/rdfind |
