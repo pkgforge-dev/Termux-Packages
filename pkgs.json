@@ -3685,13 +3685,13 @@
   },
   {
     "Package": "glib",
-    "Version": "2.88.0",
+    "Version": "2.88.1",
     "Description": "Library providing core building blocks for libraries and applications written in C",
     "Homepage": "https://developer.gnome.org/glib/"
   },
   {
     "Package": "glib-cross",
-    "Version": "2.88.0",
+    "Version": "2.88.1",
     "Description": "glib for host (NOT for Termux)",
     "Homepage": "https://developer.gnome.org/glib/"
   },
@@ -14478,6 +14478,12 @@
     "Homepage": "https://starship.rs"
   },
   {
+    "Package": "stb",
+    "Version": "0.0.0+g31c1ad37",
+    "Description": "Single-file public domain (or MIT licensed) libraries for C/C++",
+    "Homepage": "https://github.com/nothings/stb"
+  },
+  {
     "Package": "stdman",
     "Version": "2024.07.05",
     "Description": "Formatted C++23 stdlib man pages (cppreference)",
@@ -16117,7 +16123,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "2026.04.28",
+    "Version": "2026.05.01",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://github.com/directvt/vtm"
   },
