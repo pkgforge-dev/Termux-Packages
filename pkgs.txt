@@ -199,7 +199,7 @@
  capstone  5.0.7  Lightweight multi-platform, multi-architecture disassembly framework  https://www.capstone-engine.org/ 
  capstone-static  5.0.7  Static libraries for capstone  https://www.capstone-engine.org/ 
  carapace  1.6.5  Multi-shell multi-command argument completer  https://carapace.sh/ 
- cargo-binstall  1.18.1  Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem  https://github.com/cargo-bins/cargo-binstall 
+ cargo-binstall  1.19.0  Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem  https://github.com/cargo-bins/cargo-binstall 
  cargo-c  0.10.22  Cargo C-ABI helpers  https://github.com/lu-zero/cargo-c 
  cargo-cache  0.8.3  Tool to manage cargo cache  https://github.com/matthiaskrgr/cargo-cache 
  cargo-leptos  0.3.6  Build tool for the Rust framework Leptos  https://github.com/leptos-rs/cargo-leptos 
@@ -548,8 +548,8 @@
  fzf  0.72.0  Command-line fuzzy finder  https://junegunn.github.io/fzf/ 
  fzy  1.1-1  A simple, fast fuzzy finder for the terminal  https://github.com/jhawthorn/fzy 
  g-ir-scanner  1.86.0-1  A tool which generates GIR XML files  https://gi.readthedocs.io/ 
- game-music-emu  0.6.4-1  A collection of video game music file emulators  https://bitbucket.org/mpyne/game-music-emu/wiki/Home 
- game-music-emu-static  0.6.4-1  Static libraries for game-music-emu  https://bitbucket.org/mpyne/game-music-emu/wiki/Home 
+ game-music-emu  0.6.5  A collection of video game music file emulators  https://bitbucket.org/mpyne/game-music-emu/wiki/Home 
+ game-music-emu-static  0.6.5  Static libraries for game-music-emu  https://bitbucket.org/mpyne/game-music-emu/wiki/Home 
  gap  4.15.1  GAP is a system for computational discrete algebra, with particular emphasis on Computational Group Theory  https://www.gap-system.org/ 
  gap-packages  4.15.1  Packages for gap  https://www.gap-system.org/ 
  garage  2.3.0  S3-compatible object store for small self-hosted geo-distributed deployments  https://garagehq.deuxfleurs.fr/ 
@@ -674,7 +674,7 @@
  gpgv  2.5.17  GNU privacy guard - signature verification tool  https://www.gnupg.org/ 
  gping  1.20.1-1  Ping, but with a graph  https://github.com/orf/gping 
  gpsbabel  1.4.4-3  GPS file conversion plus transfer to/from GPS units  https://www.gpsbabel.org/ 
- gradle  1:9.4.1  Powerful build system for the JVM  https://gradle.org/ 
+ gradle  1:9.5.0  Powerful build system for the JVM  https://gradle.org/ 
  grafana  1:12.3.3  The open-source platform for monitoring and observability  https://grafana.com/ 
  grap  1.49  Language for typesetting graphs  https://www.lunabase.org/~faber/Vault/software/grap/ 
  graphene  1.10.8-3  A thin layer of graphic data types  https://ebassi.github.io/graphene/ 
@@ -716,7 +716,7 @@
  hash-slinger  3.5-1  Various tools to generate special DNS records  https://github.com/letoams/hash-slinger 
  hashdeep  4.4-9  Programs to compute hashsums of arbitrary number of files recursively  https://md5deep.sourceforge.net/ 
  hcl  2.24.0-1  A toolkit for creating structured configuration languages  https://github.com/hashicorp/hcl 
- hcloud  1.63.0  Hetzner Cloud command line client  https://github.com/hetznercloud/cli 
+ hcloud  1.64.1  Hetzner Cloud command line client  https://github.com/hetznercloud/cli 
  helix  25.07.1-1  A post-modern modal text editor written in rust  https://helix-editor.com/ 
  helix-grammars  25.07.1-1  Helix grammars  https://helix-editor.com/ 
  hello  2.12.3  Prints a friendly greeting  https://www.gnu.org/software/hello/ 
@@ -1178,8 +1178,8 @@
  libllvm-static  21.1.8-2  Static libraries for libllvm  https://clang.llvm.org/ 
  liblmdb  0.9.35  LMDB implements a simplified variant of the BerkeleyDB (BDB) API  https://symas.com/lmdb/ 
  liblmdb-static  0.9.35  Static libraries for liblmdb  https://symas.com/lmdb/ 
- liblo  0.34  A lightweight library that provides an easy to use implementation of the OSC protocol  https://liblo.sourceforge.net/ 
- liblo-static  0.34  Static libraries for liblo  https://liblo.sourceforge.net/ 
+ liblo  0.35  A lightweight library that provides an easy to use implementation of the OSC protocol  https://liblo.sourceforge.net/ 
+ liblo-static  0.35  Static libraries for liblo  https://liblo.sourceforge.net/ 
  liblog4c  1.2.4-2  A C library for flexible logging to files, syslog and other destinations  https://log4c.sourceforge.net/ 
  liblog4c-static  1.2.4-2  Static libraries for liblog4c  https://log4c.sourceforge.net/ 
  liblog4cxx  1.7.0  A logging framework for C++ patterned after Apache log4j  https://logging.apache.org/log4cxx/latest_stable/index.html 
@@ -2581,7 +2581,7 @@
  trunk  0.21.14-1  Build, bundle & ship your Rust WASM application to the web  https://trunkrs.dev/ 
  trurl  0.16.1-1  trurl is a command line tool that parses and manipulates URLs  https://curl.se/trurl/ 
  trzsz-go  1.2.0  A simple file transfer tools, similar to lrzsz ( rz / sz )  https://trzsz.github.io/ 
- trzsz-ssh  0.1.24  An openssh client alternative  https://trzsz.github.io/ssh 
+ trzsz-ssh  0.1.25  An openssh client alternative  https://trzsz.github.io/ssh 
  tsduck-java  3.43.4549-1  Java bindings for TSDuck  https://tsduck.io/ 
  tsduck-plugins  3.43.4549-1  Plugins for TSDuck  https://tsduck.io/ 
  tsduck-python  3.43.4549-1  Python bindings for TSDuck  https://tsduck.io/ 
@@ -2600,7 +2600,7 @@
  ttyrec  1.0.8-8  Terminal recorder and player  http://0xcc.net/ttyrec/ 
  tudo  1.2.0  A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument as the Termux app (u<userid>_a<appid>) user in the Termux app  https://github.com/agnostic-apollo/tudo 
  tur-repo  1.0.1  A single and trusted place for all unofficial/less popular termux packages  https://github.com/termux-user-repository/tur 
- turbo  2.9.7  High-performance build system for JS/TS  https://turbo.build/ 
+ turbo  2.9.8  High-performance build system for JS/TS  https://turbo.build/ 
  turbopack  16.2.4  Rust-based incremental compilation engine and bundler for Next.js  https://nextjs.org/ 
  tut  2.0.1-3  A TUI for Mastodon with vim inspired keys  https://github.com/RasmusLindroth/tut 
  tvheadend  4.2.8-12  TV streaming server for Linux and Android supporting DVB-S, DVB-S2 and other formats.  https://tvheadend.org/ 

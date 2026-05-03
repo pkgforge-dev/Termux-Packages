@@ -803,7 +803,7 @@
   Description: Multi-shell multi-command argument completer
   Homepage: https://carapace.sh/
 - Package: cargo-binstall
-  Version: 1.18.1
+  Version: 1.19.0
   Description: Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem
   Homepage: https://github.com/cargo-bins/cargo-binstall
 - Package: cargo-c
@@ -2199,11 +2199,11 @@
   Description: A tool which generates GIR XML files
   Homepage: https://gi.readthedocs.io/
 - Package: game-music-emu
-  Version: 0.6.4-1
+  Version: 0.6.5
   Description: A collection of video game music file emulators
   Homepage: https://bitbucket.org/mpyne/game-music-emu/wiki/Home
 - Package: game-music-emu-static
-  Version: 0.6.4-1
+  Version: 0.6.5
   Description: Static libraries for game-music-emu
   Homepage: https://bitbucket.org/mpyne/game-music-emu/wiki/Home
 - Package: gap
@@ -2703,7 +2703,7 @@
   Description: GPS file conversion plus transfer to/from GPS units
   Homepage: https://www.gpsbabel.org/
 - Package: gradle
-  Version: 1:9.4.1
+  Version: 1:9.5.0
   Description: Powerful build system for the JVM
   Homepage: https://gradle.org/
 - Package: grafana
@@ -2871,7 +2871,7 @@
   Description: A toolkit for creating structured configuration languages
   Homepage: https://github.com/hashicorp/hcl
 - Package: hcloud
-  Version: 1.63.0
+  Version: 1.64.1
   Description: Hetzner Cloud command line client
   Homepage: https://github.com/hetznercloud/cli
 - Package: helix
@@ -4719,11 +4719,11 @@
   Description: Static libraries for liblmdb
   Homepage: https://symas.com/lmdb/
 - Package: liblo
-  Version: "0.34"
+  Version: "0.35"
   Description: A lightweight library that provides an easy to use implementation of the OSC protocol
   Homepage: https://liblo.sourceforge.net/
 - Package: liblo-static
-  Version: "0.34"
+  Version: "0.35"
   Description: Static libraries for liblo
   Homepage: https://liblo.sourceforge.net/
 - Package: liblog4c
@@ -10331,7 +10331,7 @@
   Description: A simple file transfer tools, similar to lrzsz ( rz / sz )
   Homepage: https://trzsz.github.io/
 - Package: trzsz-ssh
-  Version: 0.1.24
+  Version: 0.1.25
   Description: An openssh client alternative
   Homepage: https://trzsz.github.io/ssh
 - Package: tsduck-java
@@ -10407,7 +10407,7 @@
   Description: A single and trusted place for all unofficial/less popular termux packages
   Homepage: https://github.com/termux-user-repository/tur
 - Package: turbo
-  Version: 2.9.7
+  Version: 2.9.8
   Description: High-performance build system for JS/TS
   Homepage: https://turbo.build/
 - Package: turbopack
