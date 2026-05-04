@@ -60,7 +60,7 @@
 | **aosp-libs** | 9.0.0-r76-2 | bionic libc, libicuuc, liblzma, zlib, and boringssl for package builder and termux-docker | https://source.android.com/ |
 | **aosp-utils** | 9.0.0-r76-2 | AOSP-based mksh, toybox and iputils for termux-docker | https://source.android.com/ |
 | **apache-orc** | 2.3.0-1 | Columnar storage for Hadoop workloads | https://orc.apache.org/ |
-| **apache2** | 1:2.4.66 | Apache Web Server | https://httpd.apache.org |
+| **apache2** | 1:2.4.67 | Apache Web Server | https://httpd.apache.org |
 | **apkeep** | 1.0.0 | A command-line tool for downloading APK files from various sources | https://github.com/EFForg/apkeep |
 | **apksigner** | 33.0.1-1 | APK signing tool from Android SDK | https://developer.android.com/studio/command-line/apksigner |
 | **appstream** | 1.1.2 | Provides a standard for creating app stores across distributions | https://www.freedesktop.org/wiki/Distributions/AppStream/ |
@@ -224,7 +224,7 @@
 | **cboard** | 0.7.5-5 | PGN browser, editor and chess engine frontend | https://benkibbey.wordpress.com/cboard/ |
 | **cbonsai** | 1.4.2-1 | Grow bonsai trees in your terminal | https://gitlab.com/jallbrit/cbonsai |
 | **cc65** | 2.19-1 | A free compiler for 6502 based system | https://cc65.github.io/ |
-| **ccache** | 4.13.4 | Compiler cache for fast recompilation of C/C++ code | https://ccache.samba.org |
+| **ccache** | 4.13.6 | Compiler cache for fast recompilation of C/C++ code | https://ccache.samba.org |
 | **cccc** | 3.2.0-1 | Source code counter and metrics tool for C++, C, and Java | https://sarnold.github.io/cccc/ |
 | **ccextractor** | 0.94-6 | A tool used to produce subtitles for TV recordings | https://ccextractor.org/ |
 | **ccls** | 0.20250815.1 | C/C++/ObjC language server | https://github.com/MaskRay/ccls |
@@ -2217,7 +2217,7 @@
 | **rage** | 0.11.2 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4-1 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4-1 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
-| **railway-cli** | 4.44.0 | This is the command line interface for Railway | https://railway.app |
+| **railway-cli** | 4.45.0 | This is the command line interface for Railway | https://railway.app |
 | **range-v3** | 0.12.0 | Range library for C++14/17/20, basis for C++20's std::ranges | https://github.com/ericniebler/range-v3 |
 | **ranger** | 1.9.4-1 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-7 | Fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |
@@ -2700,7 +2700,7 @@
 | **vorbis-tools** | 1.4.3-1 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
 | **vtm** | 2026.05.01 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
 | **vttest** | 20251205 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
-| **vulkan-extension-layer** | 1.4.349 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
+| **vulkan-extension-layer** | 1.4.350 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
 | **vulkan-headers** | 1.4.350 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
 | **vulkan-icd** | 0.1 | A metapackage that provides Vulkan ICDs | https://github.com/termux/termux-packages |
 | **vulkan-loader** | 0.0.3 | A metapackage that provides vulkan loader library | https://github.com/termux/termux-packages |
@@ -2709,7 +2709,7 @@
 | **vulkan-tools** | 1.4.350 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
 | **vulkan-utility-libraries** | 1.4.350 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
 | **vulkan-validation-layers** | 1.4.343 | Vulkan Validation Layers | https://github.com/KhronosGroup/Vulkan-ValidationLayers |
-| **vulkan-volk** | 1.4.304 | Meta loader for Vulkan API | https://github.com/zeux/volk |
+| **vulkan-volk** | 1.4.350 | Meta loader for Vulkan API | https://github.com/zeux/volk |
 | **w3m** | 0.5.6 | Text based Web browser and pager | https://w3m.sourceforge.net/ |
 | **w3m-img** | 0.5.6 | Inline image extension support utilities for w3m | https://w3m.sourceforge.net/ |
 | **wabt** | 1.0.40 | The WebAssembly Binary Toolkit | https://github.com/WebAssembly/wabt |
