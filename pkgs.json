@@ -1507,7 +1507,7 @@
   },
   {
     "Package": "cloneit",
-    "Version": "20240728-1",
+    "Version": "20250722",
     "Description": "A cli tool to download specific GitHub directories or files",
     "Homepage": "https://github.com/alok8bb/cloneit"
   },
@@ -13699,7 +13699,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20260427",
+    "Version": "20260504",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://rust-analyzer.github.io/"
   },
@@ -14062,6 +14062,12 @@
     "Version": "2.0.8-9",
     "Description": "compilation of small but very stable and portable shell scripts into a single shell tool",
     "Homepage": "http://www.gnu.org/software/shtool/"
+  },
+  {
+    "Package": "sideloader",
+    "Version": "1.0~pre4.2025.8.25",
+    "Description": "Open-source cross-platform iOS app sideloader. Alternative to Sideloadly, AltServer, SideServer, Cydia Impactor, iOS App Signer…",
+    "Homepage": "https://github.com/Dadoum/Sideloader"
   },
   {
     "Package": "signify",
