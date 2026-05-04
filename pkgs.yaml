@@ -455,7 +455,7 @@
   Description: Assember for the Atmel AVR microcontroller family
   Homepage: https://github.com/Ro5bert/avra
 - Package: await
-  Version: 2.5.0
+  Version: 2.6.0
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
@@ -3747,7 +3747,7 @@
   Description: Static libraries for libblosc
   Homepage: https://www.blosc.org
 - Package: libblosc2
-  Version: 3.0.1
+  Version: 3.0.2
   Description: A blocking, shuffling and loss-less compression library
   Homepage: https://www.blosc.org
 - Package: libblosc2-static
@@ -7399,7 +7399,7 @@
   Description: Simple system information script
   Homepage: https://github.com/dylanaraps/neofetch
 - Package: neomutt
-  Version: "20260406"
+  Version: "20260504"
   Description: A version of mutt with added features
   Homepage: https://neomutt.org/
 - Package: neovim
@@ -11203,7 +11203,7 @@
   Description: A small C++ library for reading and writing zip files
   Homepage: https://zipios.sourceforge.io/
 - Package: zk
-  Version: 0.15.3
+  Version: 0.15.4
   Description: A plain text note-taking assistant
   Homepage: https://zk-org.github.io/zk/
 - Package: zlib
