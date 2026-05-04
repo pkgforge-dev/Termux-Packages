@@ -531,7 +531,7 @@
   Description: Small, free, embeddable, source level Java interpreter with object based scripting language features written in Java
   Homepage: https://github.com/beanshell/beanshell
 - Package: bear
-  Version: 4.1.2
+  Version: 4.1.3
   Description: Bear is a tool that generates a compilation database for clang tooling.
   Homepage: https://github.com/rizsotto/Bear
 - Package: bed
@@ -1111,7 +1111,7 @@
   Description: A suite of tools to create shopping lists and maintain food recipes
   Homepage: https://cooklang.org
 - Package: coreutils
-  Version: 9.10-1
+  Version: "9.11"
   Description: Basic file, shell and text manipulation utilities from the GNU project
   Homepage: https://www.gnu.org/software/coreutils/
 - Package: corgi
