@@ -134,7 +134,7 @@
 | **barcode** | 0.99-5 | Tool to convert text strings to printed bars | https://www.gnu.org/software/barcode/ |
 | **base16384** | 2.3.2-1 | Encode binary to printable utf16be | https://github.com/fumiama/base16384 |
 | **bash** | 5.3.9 | A sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh) | https://www.gnu.org/software/bash/ |
-| **bash-completion** | 2.17.0-1 | Programmable completion for the bash shell | https://github.com/scop/bash-completion |
+| **bash-completion** | 2.17.0-2 | Programmable completion for the bash shell | https://github.com/scop/bash-completion |
 | **bastet** | 0.43.2-13 | Tetris clone with 'bastard' block-choosing AI | http://fph.altervista.org/prog/bastet.html |
 | **bat** | 0.26.1 | A cat(1) clone with wings | https://github.com/sharkdp/bat |
 | **bc** | 1.08.2-1 | Arbitrary precision numeric processing language | https://www.gnu.org/software/bc/ |
@@ -545,7 +545,7 @@
 | **freeimage-static** | 3.18.0-7 | Static libraries for freeimage | https://freeimage.sourceforge.io |
 | **freetype** | 2.14.3 | Software font engine capable of producing high-quality output | https://www.freetype.org |
 | **freetype-static** | 2.14.3 | Static libraries for freetype | https://www.freetype.org |
-| **frei0r-plugins** | 3.1.1 | Minimalistic plugin API for video effects | https://www.dyne.org/software/frei0r/ |
+| **frei0r-plugins** | 3.1.3 | Minimalistic plugin API for video effects | https://www.dyne.org/software/frei0r/ |
 | **fresh-editor** | 0.3.2 | Text editor for your terminal: easy, powerful and fast | https://getfresh.dev/ |
 | **fribidi** | 1.0.16-1 | Implementation of the Unicode Bidirectional Algorithm | https://github.com/fribidi/fribidi/ |
 | **fribidi-static** | 1.0.16-1 | Static libraries for fribidi | https://github.com/fribidi/fribidi/ |
@@ -761,15 +761,15 @@
 | **hub** | 2.14.2-6 | Command-line wrapper for git that makes you better at GitHub | https://hub.github.com/ |
 | **hugo** | 0.161.1 | A fast and flexible static site generator | https://gohugo.io/ |
 | **hummin** | 2021.05.18-4 | Command line client for the imperial library of trantor | https://trantor.is/ |
-| **hunspell** | 1.7.2-1 | Spell checker | https://hunspell.github.io |
+| **hunspell** | 1.7.3 | Spell checker | https://hunspell.github.io |
 | **hunspell-en-us** | 20240129 | American english dictionary for hunspell | https://hunspell.github.io |
 | **hunspell-fr** | 20221031 | French dictionary for hunspell | https://hunspell.github.io |
 | **hunspell-hu** | 2024.03.28 | Hungarian dictionary for hunspell | https://magyarispell.sourceforge.net/ |
 | **hunspell-nl** | 2013.07.22 | Dutch dictionary for hunspell | https://www.opentaal.org/ |
 | **hunspell-ru** | 20210731 | Russian dictionary for hunspell | https://hunspell.github.io |
-| **hunspell-static** | 1.7.2-1 | Static libraries for hunspell | https://hunspell.github.io |
+| **hunspell-static** | 1.7.3 | Static libraries for hunspell | https://hunspell.github.io |
 | **hut** | 0.8.0 | A CLI tool for sr.ht | https://git.sr.ht/~xenrox/hut |
-| **hwdata** | 0.406 | Database of hardware identification and configuration data | https://github.com/vcrhonek/hwdata |
+| **hwdata** | 0.407 | Database of hardware identification and configuration data | https://github.com/vcrhonek/hwdata |
 | **hydroxide** | 0.2.31 | A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge | https://github.com/emersion/hydroxide |
 | **hyperfine** | 1.20.0 | A command-line benchmarking tool | https://github.com/sharkdp/hyperfine |
 | **hz** | 0.10.4 | A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices | https://www.cloudwego.io |
@@ -2661,7 +2661,7 @@
 | **util-linux-static** | 2.41.3 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-2 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.41.3 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **uv** | 0.11.8 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
+| **uv** | 0.11.9 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.31-1 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.48.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.19 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
@@ -2787,8 +2787,8 @@
 | **yadm** | 3.5.0 | Yet Another Dotfiles Manager | https://yadm.io/ |
 | **yajl** | 2.1.0-8 | Yet Another JSON Library | https://lloyd.github.io/yajl/ |
 | **yajl-static** | 2.1.0-8 | Static libraries for yajl | https://lloyd.github.io/yajl/ |
-| **yara** | 4.5.5 | Tool aimed at helping malware researchers to identify and classify malware samples | https://github.com/VirusTotal/yara |
-| **yara-static** | 4.5.5 | Static libraries for yara | https://github.com/VirusTotal/yara |
+| **yara** | 4.5.6 | Tool aimed at helping malware researchers to identify and classify malware samples | https://github.com/VirusTotal/yara |
+| **yara-static** | 4.5.6 | Static libraries for yara | https://github.com/VirusTotal/yara |
 | **yarn** | 1.22.22 | Fast, reliable, and secure dependency management | https://classic.yarnpkg.com/lang/en/ |
 | **yasm** | 1.3.0-7 | Assembler supporting the x86 and AMD64 instruction sets | https://yasm.tortall.net/ |
 | **yasm-static** | 1.3.0-7 | Static libraries for yasm | https://yasm.tortall.net/ |

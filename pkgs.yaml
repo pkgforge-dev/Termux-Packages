@@ -495,7 +495,7 @@
   Description: A sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh)
   Homepage: https://www.gnu.org/software/bash/
 - Package: bash-completion
-  Version: 2.17.0-1
+  Version: 2.17.0-2
   Description: Programmable completion for the bash shell
   Homepage: https://github.com/scop/bash-completion
 - Package: bastet
@@ -2139,7 +2139,7 @@
   Description: Static libraries for freetype
   Homepage: https://www.freetype.org
 - Package: frei0r-plugins
-  Version: 3.1.1
+  Version: 3.1.3
   Description: Minimalistic plugin API for video effects
   Homepage: https://www.dyne.org/software/frei0r/
 - Package: fresh-editor
@@ -3003,7 +3003,7 @@
   Description: Command line client for the imperial library of trantor
   Homepage: https://trantor.is/
 - Package: hunspell
-  Version: 1.7.2-1
+  Version: 1.7.3
   Description: Spell checker
   Homepage: https://hunspell.github.io
 - Package: hunspell-en-us
@@ -3027,7 +3027,7 @@
   Description: Russian dictionary for hunspell
   Homepage: https://hunspell.github.io
 - Package: hunspell-static
-  Version: 1.7.2-1
+  Version: 1.7.3
   Description: Static libraries for hunspell
   Homepage: https://hunspell.github.io
 - Package: hut
@@ -3035,7 +3035,7 @@
   Description: A CLI tool for sr.ht
   Homepage: https://git.sr.ht/~xenrox/hut
 - Package: hwdata
-  Version: "0.406"
+  Version: "0.407"
   Description: Database of hardware identification and configuration data
   Homepage: https://github.com/vcrhonek/hwdata
 - Package: hydroxide
@@ -10603,7 +10603,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.11.8
+  Version: 0.11.9
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
@@ -11107,11 +11107,11 @@
   Description: Static libraries for yajl
   Homepage: https://lloyd.github.io/yajl/
 - Package: yara
-  Version: 4.5.5
+  Version: 4.5.6
   Description: Tool aimed at helping malware researchers to identify and classify malware samples
   Homepage: https://github.com/VirusTotal/yara
 - Package: yara-static
-  Version: 4.5.5
+  Version: 4.5.6
   Description: Static libraries for yara
   Homepage: https://github.com/VirusTotal/yara
 - Package: yarn
