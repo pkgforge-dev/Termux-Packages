@@ -2809,7 +2809,7 @@
   },
   {
     "Package": "exiftool",
-    "Version": "13.57",
+    "Version": "13.58",
     "Description": "Utility for reading, writing and editing meta information in a wide variety of files.",
     "Homepage": "https://exiftool.org/"
   },
@@ -8533,19 +8533,19 @@
   },
   {
     "Package": "libsqlite",
-    "Version": "3.53.0",
+    "Version": "3.53.1",
     "Description": "Library implementing a self-contained and transactional SQL database engine",
     "Homepage": "https://www.sqlite.org"
   },
   {
     "Package": "libsqlite-static",
-    "Version": "3.53.0",
+    "Version": "3.53.1",
     "Description": "Static libraries for libsqlite",
     "Homepage": "https://www.sqlite.org"
   },
   {
     "Package": "libsqlite-tcl",
-    "Version": "3.53.0",
+    "Version": "3.53.1",
     "Description": "tcl bindings for SQLite",
     "Homepage": "https://www.sqlite.org"
   },
@@ -14371,7 +14371,7 @@
   },
   {
     "Package": "sqlite",
-    "Version": "3.53.0",
+    "Version": "3.53.1",
     "Description": "Command line shell for SQLite",
     "Homepage": "https://www.sqlite.org"
   },
