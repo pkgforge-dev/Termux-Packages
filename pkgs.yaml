@@ -7075,7 +7075,7 @@
   Description: 'mold: A Modern Linker'
   Homepage: https://github.com/rui314/mold
 - Package: monero
-  Version: 0.18.4.6
+  Version: 0.18.5.0
   Description: A private, secure, untraceable, decentralised digital currency
   Homepage: https://getmonero.org/
 - Package: monetdb
@@ -10415,9 +10415,9 @@
   Description: A single and trusted place for all unofficial/less popular termux packages
   Homepage: https://github.com/termux-user-repository/tur
 - Package: turbo
-  Version: 2.9.8
+  Version: 2.9.9
   Description: High-performance build system for JS/TS
-  Homepage: https://turbo.build/
+  Homepage: https://turborepo.dev/
 - Package: turbopack
   Version: 16.2.4
   Description: Rust-based incremental compilation engine and bundler for Next.js
@@ -11183,7 +11183,7 @@
   Description: Static libraries for zbar
   Homepage: https://github.com/mchehab/zbar
 - Package: zellij
-  Version: 0.44.1
+  Version: 0.44.2
   Description: A terminal workspace with batteries included
   Homepage: https://zellij.dev/
 - Package: zeronet

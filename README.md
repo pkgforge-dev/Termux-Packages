@@ -1779,7 +1779,7 @@
 | **mlir** | 21.1.8-2 | A Multi-Level Intermediate Representation for compilers from LLVM | https://clang.llvm.org/ |
 | **mlocate** | 0.26-6 | Tool to find files anywhere in the filesystem based on their name | https://pagure.io/mlocate |
 | **mold** | 2.41.0 | mold: A Modern Linker | https://github.com/rui314/mold |
-| **monero** | 0.18.4.6 | A private, secure, untraceable, decentralised digital currency | https://getmonero.org/ |
+| **monero** | 0.18.5.0 | A private, secure, untraceable, decentralised digital currency | https://getmonero.org/ |
 | **monetdb** | 11.55.5 | A high-performance database kernel for query-intensive applications | https://www.monetdb.org/ |
 | **mono** | 6.14.1-2 | Framework Mono | https://gitlab.winehq.org/mono/mono |
 | **mono-libs** | 6.14.1-2 | Platform-independent libraries for mono | https://gitlab.winehq.org/mono/mono |
@@ -2614,7 +2614,7 @@
 | **ttyrec** | 1.0.8-8 | Terminal recorder and player | http://0xcc.net/ttyrec/ |
 | **tudo** | 1.2.0 | A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument as the Termux app (u<userid>_a<appid>) user in the Termux app | https://github.com/agnostic-apollo/tudo |
 | **tur-repo** | 1.0.1 | A single and trusted place for all unofficial/less popular termux packages | https://github.com/termux-user-repository/tur |
-| **turbo** | 2.9.8 | High-performance build system for JS/TS | https://turbo.build/ |
+| **turbo** | 2.9.9 | High-performance build system for JS/TS | https://turborepo.dev/ |
 | **turbopack** | 16.2.4 | Rust-based incremental compilation engine and bundler for Next.js | https://nextjs.org/ |
 | **tut** | 2.0.1-3 | A TUI for Mastodon with vim inspired keys | https://github.com/RasmusLindroth/tut |
 | **tvheadend** | 4.2.8-12 | TV streaming server for Linux and Android supporting DVB-S, DVB-S2 and other formats. | https://tvheadend.org/ |
@@ -2806,7 +2806,7 @@
 | **z3** | 4.16.0 | Z3 is a theorem prover from Microsoft Research | https://github.com/Z3Prover/z3 |
 | **zbar** | 0.23.93-2 | Software suite for reading bar codes from various sources | https://github.com/mchehab/zbar |
 | **zbar-static** | 0.23.93-2 | Static libraries for zbar | https://github.com/mchehab/zbar |
-| **zellij** | 0.44.1 | A terminal workspace with batteries included | https://zellij.dev/ |
+| **zellij** | 0.44.2 | A terminal workspace with batteries included | https://zellij.dev/ |
 | **zeronet** | 0.7.1-9 | Decentralized websites using Bitcoin crypto and BitTorrent network | https://zeronet.io/ |
 | **zig** | 0.16.0 | General-purpose programming language and toolchain | https://ziglang.org |
 | **zile** | 2.6.4-2 | Lightweight clone of the Emacs text editor | https://www.gnu.org/software/zile/ |
