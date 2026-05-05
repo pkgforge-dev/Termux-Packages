@@ -10027,7 +10027,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.28.6",
+    "Version": "0.28.8",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://lux.lumen-labs.org"
   },
@@ -11863,13 +11863,13 @@
   },
   {
     "Package": "oxfmt",
-    "Version": "1.62.0",
+    "Version": "1.63.0",
     "Description": "Oxc JavaScript formatter",
     "Homepage": "https://oxc.rs/"
   },
   {
     "Package": "oxlint",
-    "Version": "1.62.0",
+    "Version": "1.63.0",
     "Description": "Oxc JavaScript linter",
     "Homepage": "https://oxc.rs/"
   },
@@ -12751,7 +12751,7 @@
   },
   {
     "Package": "python-apsw",
-    "Version": "3.53.0.0",
+    "Version": "3.53.1.0",
     "Description": "Another Python SQLite Wrapper",
     "Homepage": "https://rogerbinns.github.io/apsw/"
   },
@@ -13249,7 +13249,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "4.45.0",
+    "Version": "4.47.0",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -14563,7 +14563,7 @@
   },
   {
     "Package": "storj-uplink",
-    "Version": "1.152.7",
+    "Version": "1.153.2",
     "Description": "Storj DCS Uplink CLI",
     "Homepage": "https://www.storj.io/integrations/uplink-cli"
   },
@@ -15672,6 +15672,12 @@
     "Homepage": "https://github.com/saghul/txiki.js"
   },
   {
+    "Package": "ty",
+    "Version": "0.0.34",
+    "Description": "An extremely fast Python type checker and language server, written in Rust",
+    "Homepage": "https://github.com/astral-sh/ty"
+  },
+  {
     "Package": "typst",
     "Version": "0.14.2",
     "Description": "A new markup-based typesetting system that is powerful and easy to learn",
@@ -16225,7 +16231,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "2.12.1",
+    "Version": "2.13.0",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },
