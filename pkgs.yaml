@@ -2079,7 +2079,7 @@
   Description: Software synthesizer based on the SoundFont 2 specifications
   Homepage: https://github.com/FluidSynth/fluidsynth
 - Package: flyctl
-  Version: 0.4.45
+  Version: 0.4.46
   Description: Command line tools for fly.io services
   Homepage: https://fly.io
 - Package: fm
@@ -4331,7 +4331,7 @@
   Description: Static libraries for libgfshare
   Homepage: https://www.digital-scurf.org/software/libgfshare
 - Package: libgit2
-  Version: 1.9.2
+  Version: 1.9.3
   Description: C library implementing Git core methods
   Homepage: https://libgit2.github.com/
 - Package: libglibmm-2.4
@@ -8010,6 +8010,10 @@
   Version: 0.18.0-1
   Description: Utility to modify the dynamic linker and RPATH of ELF executables
   Homepage: https://nixos.org/patchelf.html
+- Package: patchutils
+  Version: 0.4.5
+  Description: A collection of programs for manipulating patch files
+  Homepage: https://github.com/twaugh/patchutils
 - Package: pathpicker
   Version: 0.9.5-3
   Description: Facebook PathPicker - a terminal-based file picker
@@ -8519,7 +8523,7 @@
   Description: Python library for calculating contours in 2D quadrilateral grids
   Homepage: https://contourpy.readthedocs.io/
 - Package: python-cryptography
-  Version: 47.0.0
+  Version: 48.0.0
   Description: Provides cryptographic recipes and primitives to Python developers
   Homepage: https://github.com/pyca/cryptography
 - Package: python-ensurepip-wheels
@@ -8571,7 +8575,7 @@
   Description: Python Imaging Library
   Homepage: https://python-pillow.org/
 - Package: python-pip
-  Version: "26.1"
+  Version: 26.1.1
   Description: The PyPA recommended tool for installing Python packages
   Homepage: https://pip.pypa.io/
 - Package: python-psutil
@@ -10811,7 +10815,7 @@
   Description: The WebAssembly Binary Toolkit
   Homepage: https://github.com/WebAssembly/wabt
 - Package: wakatime-cli
-  Version: 2.11.3
+  Version: 2.12.1
   Description: Command line interface used by all WakaTime text editor plugins
   Homepage: https://wakatime.com/plugins/
 - Package: walk

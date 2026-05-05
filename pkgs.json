@@ -3121,7 +3121,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.4.45",
+    "Version": "0.4.46",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -6499,7 +6499,7 @@
   },
   {
     "Package": "libgit2",
-    "Version": "1.9.2",
+    "Version": "1.9.3",
     "Description": "C library implementing Git core methods",
     "Homepage": "https://libgit2.github.com/"
   },
@@ -12018,6 +12018,12 @@
     "Homepage": "https://nixos.org/patchelf.html"
   },
   {
+    "Package": "patchutils",
+    "Version": "0.4.5",
+    "Description": "A collection of programs for manipulating patch files",
+    "Homepage": "https://github.com/twaugh/patchutils"
+  },
+  {
     "Package": "pathpicker",
     "Version": "0.9.5-3",
     "Description": "Facebook PathPicker - a terminal-based file picker",
@@ -12781,7 +12787,7 @@
   },
   {
     "Package": "python-cryptography",
-    "Version": "47.0.0",
+    "Version": "48.0.0",
     "Description": "Provides cryptographic recipes and primitives to Python developers",
     "Homepage": "https://github.com/pyca/cryptography"
   },
@@ -12859,7 +12865,7 @@
   },
   {
     "Package": "python-pip",
-    "Version": "26.1",
+    "Version": "26.1.1",
     "Description": "The PyPA recommended tool for installing Python packages",
     "Homepage": "https://pip.pypa.io/"
   },
@@ -16219,7 +16225,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "2.11.3",
+    "Version": "2.12.1",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },
