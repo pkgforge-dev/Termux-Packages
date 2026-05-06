@@ -360,8 +360,8 @@
 | **diskus** | 0.9.0 | A minimal, fast alternative to 'du -sh' | https://github.com/sharkdp/diskus |
 | **distant** | 1:0.20.0-3 | Library and tooling that supports remote filesystem and process | https://github.com/chipsenkbeil/distant |
 | **distcc** | 3.4-4 | Distributed C/C++ compiler | http://distcc.org/ |
-| **djvulibre** | 3.5.29-1 | Suite to create, manipulate and view DjVu ('déjà vu') documents | https://djvu.sourceforge.net/ |
-| **djvulibre-static** | 3.5.29-1 | Static libraries for djvulibre | https://djvu.sourceforge.net/ |
+| **djvulibre** | 3.5.30 | Suite to create, manipulate and view DjVu ('déjà vu') documents | https://djvu.sourceforge.net/ |
+| **djvulibre-static** | 3.5.30 | Static libraries for djvulibre | https://djvu.sourceforge.net/ |
 | **dmagnetic** | 0.37-1 | Interpreter for classic text adventure games and interactive fiction | https://dettus.net/dMagnetic |
 | **dmtx-utils** | 0.7.6-2 | A command line interface for libdmtx | https://github.com/dmtx/dmtx-utils |
 | **dnglab** | 0.7.2 | Camera RAW to DNG file format converter | https://github.com/dnglab/dnglab |
@@ -521,7 +521,7 @@
 | **finch-static** | 2.14.14-2 | Static libraries for finch | https://pidgin.im/ |
 | **findomain** | 10.0.1-1 | Findomain is the fastest subdomain enumerator and the only one written in Rust | https://findomain.app/ |
 | **findutils** | 4.10.0-1 | Utilities to find files meeting specified criteria and perform various actions on the files which are found | https://www.gnu.org/software/findutils/ |
-| **fish** | 4.6.0 | The user-friendly command line shell | https://fishshell.com/ |
+| **fish** | 4.7.0 | The user-friendly command line shell | https://fishshell.com/ |
 | **flac** | 1.5.0-1 | FLAC (Free Lossless Audio Codec) command-line tool | https://xiph.org/flac/ |
 | **flang** | 21.1.8-2 | LLVM's Fortran frontend | https://flang.llvm.org/ |
 | **flatbuffers** | 25.12.19-2026-02-06-03fffb2-1 | Memory Efficient Serialization Library | https://github.com/google/flatbuffers |
@@ -1881,7 +1881,7 @@
 | **newsraft** | 0.36 | Newsraft is a feed reader with text-based user interface | https://codeberg.org/newsraft/newsraft |
 | **nginx** | 1.30.0 | Lightweight HTTP server | https://www.nginx.org |
 | **ngircd** | 27-1 | Free, portable and lightweight Internet Relay Chat server | https://ngircd.barton.de/ |
-| **ngspice** | 45.2 | A mixed-level/mixed-signal circuit simulator | https://ngspice.sourceforge.net/ |
+| **ngspice** | 46 | A mixed-level/mixed-signal circuit simulator | https://ngspice.sourceforge.net/ |
 | **nim** | 2.2.6 | Nim programming language compiler | https://nim-lang.org/ |
 | **ninja** | 1.13.2 | A small build system with a focus on speed | https://ninja-build.org |
 | **ninvaders** | 0.1.2-3 | Space Invaders clone based on ncurses for ASCII output | https://ninvaders.sourceforge.net |
@@ -2672,8 +2672,8 @@
 | **vale** | 3.14.1 | A syntax-aware linter for prose built with speed and extensibility in mind | https://vale.sh |
 | **valgrind** | 3.22.0-1 | Instrumentation framework for building dynamic analysis tools | https://valgrind.org/ |
 | **valgrind-static** | 3.22.0-1 | Static libraries for valgrind | https://valgrind.org/ |
-| **valkey** | 9.0.3 | In-memory data structure store used as a database, cache and message broker | https://valkey.io/ |
-| **valkey-static** | 9.0.3 | Static libraries for valkey | https://valkey.io/ |
+| **valkey** | 9.0.4 | In-memory data structure store used as a database, cache and message broker | https://valkey.io/ |
+| **valkey-static** | 9.0.4 | Static libraries for valkey | https://valkey.io/ |
 | **vamp-plugin-sdk** | 2.10-3 | An API for audio analysis and feature extraction plugins | https://www.vamp-plugins.org/ |
 | **vamp-plugin-sdk-static** | 2.10-3 | Static libraries for vamp-plugin-sdk | https://www.vamp-plugins.org/ |
 | **vapoursynth** | 73-1 | Video processing framework with simplicity in mind | https://www.vapoursynth.com/ |
