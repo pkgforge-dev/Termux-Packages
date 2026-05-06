@@ -87,7 +87,7 @@
   Description: A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability
   Homepage: https://github.com/FiloSottile/age
 - Package: agg
-  Version: 1.7.0
+  Version: 1.8.0
   Description: asciinema gif generator
   Homepage: https://github.com/asciinema/agg
 - Package: aha
@@ -2143,7 +2143,7 @@
   Description: Minimalistic plugin API for video effects
   Homepage: https://www.dyne.org/software/frei0r/
 - Package: fresh-editor
-  Version: 0.3.2
+  Version: 0.3.5
   Description: 'Text editor for your terminal: easy, powerful and fast'
   Homepage: https://getfresh.dev/
 - Package: fribidi
@@ -6455,15 +6455,15 @@
   Description: A simple tool for batch test ss/ssr/v2ray/trojan servers
   Homepage: https://github.com/xxf098/LiteSpeedTest
 - Package: littlecms
-  Version: "2.19"
+  Version: 2.19.1
   Description: Color management library
   Homepage: http://www.littlecms.com/
 - Package: littlecms-static
-  Version: "2.19"
+  Version: 2.19.1
   Description: Static libraries for littlecms
   Homepage: http://www.littlecms.com/
 - Package: littlecms-utils
-  Version: "2.19"
+  Version: 2.19.1
   Description: Color management utilities
   Homepage: http://www.littlecms.com/
 - Package: llama-cpp
@@ -7631,7 +7631,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 29.12.0
+  Version: 29.13.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: oidn
