@@ -530,7 +530,7 @@
 | **flex-static** | 2.6.4-4 | Static libraries for flex | https://github.com/westes/flex |
 | **flint** | 3.5.0 | C library for doing number theory | http://www.flintlib.org |
 | **fluidsynth** | 2.5.4 | Software synthesizer based on the SoundFont 2 specifications | https://github.com/FluidSynth/fluidsynth |
-| **flyctl** | 0.4.46 | Command line tools for fly.io services | https://fly.io |
+| **flyctl** | 0.4.47 | Command line tools for fly.io services | https://fly.io |
 | **fm** | 1.2.0 | A terminal based file manager | https://github.com/knipferrc/fm |
 | **fmt** | 1:11.2.0 | Open-source formatting library for C++ | https://fmt.dev/latest/index.html |
 | **fontconfig** | 2.17.1-1 | Library for configuring and customizing font access | https://www.freedesktop.org/wiki/Software/fontconfig/ |
@@ -1284,8 +1284,8 @@
 | **libnova-static** | 0.16-1 | Static libraries for libnova | https://libnova.sourceforge.net |
 | **libnpth** | 1.6-3 | New GNU Portable Threads Library | https://www.gnupg.org/related_software/npth/ |
 | **libnpth-static** | 1.6-3 | Static libraries for libnpth | https://www.gnupg.org/related_software/npth/ |
-| **libnspr** | 4.38.2 | Netscape Portable Runtime (NSPR) | https://hg.mozilla.org/projects/nspr |
-| **libnspr-static** | 4.38.2 | Static libraries for libnspr | https://hg.mozilla.org/projects/nspr |
+| **libnspr** | 4.39 | Netscape Portable Runtime (NSPR) | https://hg.mozilla.org/projects/nspr |
+| **libnspr-static** | 4.39 | Static libraries for libnspr | https://hg.mozilla.org/projects/nspr |
 | **libnss** | 3.123.1 | Network Security Services (NSS) | https://firefox-source-docs.mozilla.org/security/nss/ |
 | **libntl** | 11.5.1-1 | A Library for doing Number Theory | https://libntl.org |
 | **libntl-static** | 11.5.1-1 | Static libraries for libntl | https://libntl.org |
@@ -1923,8 +1923,8 @@
 | **okc-agents** | 0.1.2-2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.7 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-10 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
-| **ollama** | 0.23.0 | Get up and running with large language models | https://ollama.com/ |
-| **ollama-backend-vulkan** | 0.23.0 | Vulkan Backend for Ollama | https://ollama.com/ |
+| **ollama** | 0.23.1 | Get up and running with large language models | https://ollama.com/ |
+| **ollama-backend-vulkan** | 0.23.1 | Vulkan Backend for Ollama | https://ollama.com/ |
 | **oma** | 1.25.2 | oma is an attempt at reworking APT's interface | https://aosc.io/oma |
 | **onefetch** | 2.27.1 | A command-line Git information tool written in Rust | https://onefetch.dev/ |
 | **onigmo** | 6.2.0-1 | A regular expressions library forked from Oniguruma | https://github.com/k-takata/Onigmo |
@@ -2662,7 +2662,7 @@
 | **util-linux-static** | 2.41.3 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-2 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.41.3 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **uv** | 0.11.9 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
+| **uv** | 0.11.10 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.31-1 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.48.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.19 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |

@@ -3121,7 +3121,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.4.46",
+    "Version": "0.4.47",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -7645,13 +7645,13 @@
   },
   {
     "Package": "libnspr",
-    "Version": "4.38.2",
+    "Version": "4.39",
     "Description": "Netscape Portable Runtime (NSPR)",
     "Homepage": "https://hg.mozilla.org/projects/nspr"
   },
   {
     "Package": "libnspr-static",
-    "Version": "4.38.2",
+    "Version": "4.39",
     "Description": "Static libraries for libnspr",
     "Homepage": "https://hg.mozilla.org/projects/nspr"
   },
@@ -11479,13 +11479,13 @@
   },
   {
     "Package": "ollama",
-    "Version": "0.23.0",
+    "Version": "0.23.1",
     "Description": "Get up and running with large language models",
     "Homepage": "https://ollama.com/"
   },
   {
     "Package": "ollama-backend-vulkan",
-    "Version": "0.23.0",
+    "Version": "0.23.1",
     "Description": "Vulkan Backend for Ollama",
     "Homepage": "https://ollama.com/"
   },
@@ -15913,7 +15913,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.11.9",
+    "Version": "0.11.10",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
