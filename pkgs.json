@@ -2533,7 +2533,7 @@
   },
   {
     "Package": "dufs",
-    "Version": "0.45.0",
+    "Version": "0.46.0",
     "Description": "A file server that supports static serving, uploading, searching, accessing control, webdav...",
     "Homepage": "https://github.com/sigoden/dufs"
   },
@@ -3121,7 +3121,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.4.47",
+    "Version": "0.4.48",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -4267,7 +4267,7 @@
   },
   {
     "Package": "haproxy",
-    "Version": "3.3.8",
+    "Version": "3.3.9",
     "Description": "The Reliable, High Performance TCP/HTTP Load Balancer",
     "Homepage": "https://www.haproxy.org/"
   },
@@ -10753,7 +10753,7 @@
   },
   {
     "Package": "mpd",
-    "Version": "0.24.9",
+    "Version": "0.24.10",
     "Description": "Music player daemon",
     "Homepage": "https://www.musicpd.org"
   },
@@ -11329,7 +11329,7 @@
   },
   {
     "Package": "npm",
-    "Version": "11.13.0",
+    "Version": "11.14.0",
     "Description": "The package manager for JavaScript",
     "Homepage": "https://docs.npmjs.com/cli/"
   },
@@ -14101,7 +14101,7 @@
   },
   {
     "Package": "simdjson",
-    "Version": "4.6.3",
+    "Version": "4.6.4",
     "Description": "A C++ library to see how fast we can parse JSON with complete validation",
     "Homepage": "https://simdjson.org/"
   },
@@ -15289,7 +15289,7 @@
   },
   {
     "Package": "tor",
-    "Version": "0.4.9.6",
+    "Version": "0.4.9.7",
     "Description": "The Onion Router anonymizing overlay network",
     "Homepage": "https://www.torproject.org"
   },
@@ -15631,7 +15631,7 @@
   },
   {
     "Package": "turbopack",
-    "Version": "16.2.4",
+    "Version": "16.2.5",
     "Description": "Rust-based incremental compilation engine and bundler for Next.js",
     "Homepage": "https://nextjs.org/"
   },
@@ -15913,7 +15913,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.11.10",
+    "Version": "0.11.11",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },

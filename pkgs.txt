@@ -420,7 +420,7 @@
  duc  1.4.6  High-performance disk usage analyzer  http://duc.zevv.nl/ 
  duckdb  1.5.2  DuckDB Command Line Interface (CLI) shell  https://duckdb.org/ 
  duf  0.9.1  Disk usage/free utility  https://github.com/muesli/duf 
- dufs  0.45.0  A file server that supports static serving, uploading, searching, accessing control, webdav...  https://github.com/sigoden/dufs 
+ dufs  0.46.0  A file server that supports static serving, uploading, searching, accessing control, webdav...  https://github.com/sigoden/dufs 
  duktape  2.7.0-2  Simple REPL for Duktape  https://www.duktape.org/ 
  dust  1.2.4  A more intuitive version of du in rust  https://github.com/bootandy/dust 
  dvdauthor  0.7.2-4  Generates a DVD-Video movie from a valid MPEG-2 stream  https://dvdauthor.sourceforge.net/ 
@@ -518,7 +518,7 @@
  flex-static  2.6.4-4  Static libraries for flex  https://github.com/westes/flex 
  flint  3.5.0  C library for doing number theory  http://www.flintlib.org 
  fluidsynth  2.5.4  Software synthesizer based on the SoundFont 2 specifications  https://github.com/FluidSynth/fluidsynth 
- flyctl  0.4.47  Command line tools for fly.io services  https://fly.io 
+ flyctl  0.4.48  Command line tools for fly.io services  https://fly.io 
  fm  1.2.0  A terminal based file manager  https://github.com/knipferrc/fm 
  fmt  1:11.2.0  Open-source formatting library for C++  https://fmt.dev/latest/index.html 
  fontconfig  2.17.1-1  Library for configuring and customizing font access  https://www.freedesktop.org/wiki/Software/fontconfig/ 
@@ -709,7 +709,7 @@
  gumbo-parser-static  0.10.1-1  Static libraries for gumbo-parser  https://github.com/google/gumbo-parser 
  gweather-locations  2026.2  The GWeather locations database  https://gitlab.gnome.org/GNOME/gweather-locations 
  gzip  1.14-1  Standard GNU file compression utilities  https://www.gnu.org/software/gzip/ 
- haproxy  3.3.8  The Reliable, High Performance TCP/HTTP Load Balancer  https://www.haproxy.org/ 
+ haproxy  3.3.9  The Reliable, High Performance TCP/HTTP Load Balancer  https://www.haproxy.org/ 
  harfbuzz  14.2.0  OpenType text shaping engine  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
  harfbuzz-icu  14.2.0  OpenType text shaping engine ICU backend  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
  harfbuzz-utils  14.2.0  Tools using the harfbuzz library  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
@@ -1790,7 +1790,7 @@
  mp3splt  2.6.2-2  Utility to split mp3, ogg vorbis and FLAC files without decoding  https://mp3splt.sourceforge.net 
  mp3wrap  0.5-2  A command-line utility that wraps quickly two or more mp3 files in one single large playable mp3  https://mp3wrap.sourceforge.net/ 
  mpc  0.35-2  Minimalist command line interface for MPD  https://www.musicpd.org/clients/mpc/ 
- mpd  0.24.9  Music player daemon  https://www.musicpd.org 
+ mpd  0.24.10  Music player daemon  https://www.musicpd.org 
  mpdscribble  0.25-4  A Music Player Daemon (MPD) client which submits information about tracks being played to a scrobbler  https://www.musicpd.org/clients/mpdscribble/ 
  mpg123  1.33.3  Fast console MPEG Audio Player based on libmpg123  https://mpg123.org/ 
  mplayer  1.5-14  The Movie Player  https://mplayerhq.hu/ 
@@ -1886,7 +1886,7 @@
  notcurses-data  3.0.17-2  Platform-independent data for notcurses  https://notcurses.com/ 
  notcurses-tools  3.0.17-2  Tools and demos for notcurses  https://notcurses.com/ 
  notmuch  0.40-1  Thread-based email index, search and tagging system  https://notmuchmail.org 
- npm  11.13.0  The package manager for JavaScript  https://docs.npmjs.com/cli/ 
+ npm  11.14.0  The package manager for JavaScript  https://docs.npmjs.com/cli/ 
  npush  0.7-2  Curses-based logic game similar to Sokoban and Boulder Dash  https://npush.sourceforge.net/ 
  nsis  3.12  A professional open source system to create Windows installers  https://sourceforge.net/projects/nsis/ 
  nsis-stubs  3.12  NSIS Stubs  https://sourceforge.net/projects/nsis/ 
@@ -2348,7 +2348,7 @@
  silicon  0.5.3-1  Silicon is an alternative to Carbon implemented in Rust  https://github.com/Aloxaf/silicon 
  silversearcher-ag  2.2.0-6  Fast grep-like program, alternative to ack-grep  https://geoff.greer.fm/ag/ 
  simde  0.8.2  Implementations of SIMD instructions for all systems  https://simd-everywhere.github.io/ 
- simdjson  4.6.3  A C++ library to see how fast we can parse JSON with complete validation  https://simdjson.org/ 
+ simdjson  4.6.4  A C++ library to see how fast we can parse JSON with complete validation  https://simdjson.org/ 
  simh  1:3.12.5-1  A collection of simulators for computer hardware and software from the past  http://simh.trailing-edge.com/ 
  simulavr  1:1.1.0-3  Simulator for Microchip AVR (formerly Atmel) microcontrollers  https://www.nongnu.org/simulavr 
  sing-box  1.13.11  The universal proxy platform  https://sing-box.sagernet.org 
@@ -2546,7 +2546,7 @@
  tome2  2025.12.13-1  An open world roguelike adventure set in middle earth  https://github.com/tome2/tome2 
  toml11  4.4.0  toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library  https://github.com/ToruNiina/toml11 
  topgrade  17.4.0  Upgrade all the things  https://github.com/topgrade-rs/topgrade/ 
- tor  0.4.9.6  The Onion Router anonymizing overlay network  https://www.torproject.org 
+ tor  0.4.9.7  The Onion Router anonymizing overlay network  https://www.torproject.org 
  torsocks  2.5.0-1  Wrapper to safely torify applications  https://gitlab.torproject.org/tpo/core/torsocks 
  torsocks-static  2.5.0-1  Static libraries for torsocks  https://gitlab.torproject.org/tpo/core/torsocks 
  totem-pl-parser  3.26.7  Simple GObject-based library to parse and save a host of playlist formats  https://gitlab.gnome.org/GNOME/totem-pl-parser 
@@ -2603,7 +2603,7 @@
  tudo  1.2.0  A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument as the Termux app (u<userid>_a<appid>) user in the Termux app  https://github.com/agnostic-apollo/tudo 
  tur-repo  1.0.1  A single and trusted place for all unofficial/less popular termux packages  https://github.com/termux-user-repository/tur 
  turbo  2.9.9  High-performance build system for JS/TS  https://turborepo.dev/ 
- turbopack  16.2.4  Rust-based incremental compilation engine and bundler for Next.js  https://nextjs.org/ 
+ turbopack  16.2.5  Rust-based incremental compilation engine and bundler for Next.js  https://nextjs.org/ 
  tut  2.0.1-3  A TUI for Mastodon with vim inspired keys  https://github.com/RasmusLindroth/tut 
  tvheadend  4.2.8-12  TV streaming server for Linux and Android supporting DVB-S, DVB-S2 and other formats.  https://tvheadend.org/ 
  tvheadend-data  4.2.8-12  Platform-independent data for tvheadend  https://tvheadend.org/ 
@@ -2650,7 +2650,7 @@
  util-linux-static  2.41.3  Static libraries for util-linux  https://en.wikipedia.org/wiki/Util-linux 
  uucp  1.07-2  The standard UUCP package of the Free Software Foundation  https://www.airs.com/ian/uucp.html 
  uuid-utils  2.41.3  Utilities for handling universally unique identifiers  https://en.wikipedia.org/wiki/Util-linux 
- uv  0.11.10  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
+ uv  0.11.11  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
  uwsgi  2.0.31-1  uWSGI application server container  https://projects.unbit.it/uwsgi 
  v2ray  5.48.0  A platform for building proxies to bypass network restrictions  https://www.v2fly.org/ 
  valac  0.56.19  C# like language for the GObject system  https://wiki.gnome.org/Projects/Vala 

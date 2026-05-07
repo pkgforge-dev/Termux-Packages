@@ -1687,7 +1687,7 @@
   Description: Disk usage/free utility
   Homepage: https://github.com/muesli/duf
 - Package: dufs
-  Version: 0.45.0
+  Version: 0.46.0
   Description: A file server that supports static serving, uploading, searching, accessing control, webdav...
   Homepage: https://github.com/sigoden/dufs
 - Package: duktape
@@ -2079,7 +2079,7 @@
   Description: Software synthesizer based on the SoundFont 2 specifications
   Homepage: https://github.com/FluidSynth/fluidsynth
 - Package: flyctl
-  Version: 0.4.47
+  Version: 0.4.48
   Description: Command line tools for fly.io services
   Homepage: https://fly.io
 - Package: fm
@@ -2843,7 +2843,7 @@
   Description: Standard GNU file compression utilities
   Homepage: https://www.gnu.org/software/gzip/
 - Package: haproxy
-  Version: 3.3.8
+  Version: 3.3.9
   Description: The Reliable, High Performance TCP/HTTP Load Balancer
   Homepage: https://www.haproxy.org/
 - Package: harfbuzz
@@ -7167,7 +7167,7 @@
   Description: Minimalist command line interface for MPD
   Homepage: https://www.musicpd.org/clients/mpc/
 - Package: mpd
-  Version: 0.24.9
+  Version: 0.24.10
   Description: Music player daemon
   Homepage: https://www.musicpd.org
 - Package: mpdscribble
@@ -7551,7 +7551,7 @@
   Description: Thread-based email index, search and tagging system
   Homepage: https://notmuchmail.org
 - Package: npm
-  Version: 11.13.0
+  Version: 11.14.0
   Description: The package manager for JavaScript
   Homepage: https://docs.npmjs.com/cli/
 - Package: npush
@@ -9399,7 +9399,7 @@
   Description: Implementations of SIMD instructions for all systems
   Homepage: https://simd-everywhere.github.io/
 - Package: simdjson
-  Version: 4.6.3
+  Version: 4.6.4
   Description: A C++ library to see how fast we can parse JSON with complete validation
   Homepage: https://simdjson.org/
 - Package: simh
@@ -10191,7 +10191,7 @@
   Description: Upgrade all the things
   Homepage: https://github.com/topgrade-rs/topgrade/
 - Package: tor
-  Version: 0.4.9.6
+  Version: 0.4.9.7
   Description: The Onion Router anonymizing overlay network
   Homepage: https://www.torproject.org
 - Package: torsocks
@@ -10419,7 +10419,7 @@
   Description: High-performance build system for JS/TS
   Homepage: https://turborepo.dev/
 - Package: turbopack
-  Version: 16.2.4
+  Version: 16.2.5
   Description: Rust-based incremental compilation engine and bundler for Next.js
   Homepage: https://nextjs.org/
 - Package: tut
@@ -10607,7 +10607,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.11.10
+  Version: 0.11.11
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
