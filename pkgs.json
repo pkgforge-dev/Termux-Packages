@@ -2149,7 +2149,7 @@
   },
   {
     "Package": "dnscontrol",
-    "Version": "4.36.1",
+    "Version": "4.37.0",
     "Description": "Infrastructure as code for DNS!",
     "Homepage": "https://github.com/StackExchange/dnscontrol"
   },
@@ -3067,7 +3067,7 @@
   },
   {
     "Package": "fish",
-    "Version": "4.7.0",
+    "Version": "4.7.1",
     "Description": "The user-friendly command line shell",
     "Homepage": "https://fishshell.com/"
   },
@@ -7009,13 +7009,13 @@
   },
   {
     "Package": "libksba",
-    "Version": "1.6.8",
+    "Version": "1.7.0",
     "Description": "Library for using X.509 certificates and CMS (Cryptographic Message Syntax) easily accessible",
     "Homepage": "https://gnupg.org/related_software/libksba/"
   },
   {
     "Package": "libksba-static",
-    "Version": "1.6.8",
+    "Version": "1.7.0",
     "Description": "Static libraries for libksba",
     "Homepage": "https://gnupg.org/related_software/libksba/"
   },
@@ -12397,7 +12397,7 @@
   },
   {
     "Package": "pocketbase",
-    "Version": "0.37.5",
+    "Version": "0.38.0",
     "Description": "An open source Go backend",
     "Homepage": "https://github.com/pocketbase/pocketbase"
   },
@@ -13249,7 +13249,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "4.51.0",
+    "Version": "4.51.1",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -15625,7 +15625,7 @@
   },
   {
     "Package": "turbo",
-    "Version": "2.9.9",
+    "Version": "2.9.10",
     "Description": "High-performance build system for JS/TS",
     "Homepage": "https://turborepo.dev/"
   },
@@ -16225,7 +16225,7 @@
   },
   {
     "Package": "wabt",
-    "Version": "1.0.40",
+    "Version": "1.0.41",
     "Description": "The WebAssembly Binary Toolkit",
     "Homepage": "https://github.com/WebAssembly/wabt"
   },
