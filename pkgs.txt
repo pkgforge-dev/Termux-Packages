@@ -356,7 +356,7 @@
  dnote  1:0.16.0  A simple command line notebook for programmers  https://www.getdnote.com/ 
  dnote-server  3.0.0  This package contains the Dnote server. It comprises of the web interface, the web API, and the background jobs.  https://www.getdnote.com/ 
  dns2tcp  0.5.2-2  dns2tcp is a tool for relaying TCP connections over DNS  https://github.com/alex-sector/dns2tcp 
- dnscontrol  4.37.0  Infrastructure as code for DNS!  https://github.com/StackExchange/dnscontrol 
+ dnscontrol  4.37.1  Infrastructure as code for DNS!  https://github.com/StackExchange/dnscontrol 
  dnslookup  1.11.2  Simple command line utility to make DNS lookups. Supports all known DNS protocols: plain DNS, DoH, DoT, DoQ, DNSCrypt.  https://github.com/ameshkov/dnslookup 
  dnsmap  0.36-3  Subdomain Bruteforcing Tool  https://github.com/resurrecting-open-source-projects/dnsmap 
  dnsmasq  2.92  Dnsmasq provides network infrastructure for small networks  http://www.thekelleys.org.uk/dnsmasq/doc.html 
@@ -803,7 +803,7 @@
  jack  0.0.1  A metapackage that provides JACK Audio Connection Kit  https://github.com/termux/termux-packages 
  jack-example-tools  4-1  Official JACK example clients and tools  https://jackaudio.org/ 
  jack2  1.9.22-2  The JACK low-latency audio server  https://jackaudio.org/ 
- jackett  0.24.1806  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
+ jackett  0.24.1822  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
  jadx  1.5.5  Dex to Java decompiler  https://github.com/skylot/jadx 
  jadx-x  1.5.5  Dex to Java decompiler GUI  https://github.com/skylot/jadx 
  janet  1.41.2  Janet is a dialect of Lisp intended for embedding into programs and such  https://janet-lang.org 
@@ -1911,8 +1911,8 @@
  okc-agents  0.1.2-2  OpenKeychain agents for GnuPG and OpenSSH  https://github.com/DDoSolitary/okc-agents 
  ol  2.7  Purely functional dialect of Lisp  https://yuriy-chumak.github.io/ol/ 
  oleo  1.99.16-10  The GNU Spreadsheet  https://www.gnu.org/software/oleo/ 
- ollama  0.23.1  Get up and running with large language models  https://ollama.com/ 
- ollama-backend-vulkan  0.23.1  Vulkan Backend for Ollama  https://ollama.com/ 
+ ollama  0.23.2  Get up and running with large language models  https://ollama.com/ 
+ ollama-backend-vulkan  0.23.2  Vulkan Backend for Ollama  https://ollama.com/ 
  oma  1.25.2  oma is an attempt at reworking APT's interface  https://aosc.io/oma 
  onefetch  2.27.1  A command-line Git information tool written in Rust  https://onefetch.dev/ 
  onigmo  6.2.0-1  A regular expressions library forked from Oniguruma  https://github.com/k-takata/Onigmo 
@@ -2120,7 +2120,7 @@
  pypy3  7.3.22  A fast, compliant alternative implementation of Python 3  https://pypy.org 
  pypy3-tests  7.3.22  Test files for PyPy 3  https://pypy.org 
  pypy3-tkinter  7.3.22  Tkinter support for PyPy 3  https://pypy.org 
- pyrefly  0.64.0  A fast type checker and language server for Python  https://github.com/facebook/pyrefly.git 
+ pyrefly  0.64.1  A fast type checker and language server for Python  https://github.com/facebook/pyrefly.git 
  pystring  1.1.4-1  C++ functions matching the interface and behavior of python string methods with std::string  https://github.com/imageworks/pystring 
  python  3.13.13-1  Python 3 programming language intended to enable clear programs  https://python.org/ 
  python-apsw  3.53.1.0  Another Python SQLite Wrapper  https://rogerbinns.github.io/apsw/ 
@@ -2691,13 +2691,13 @@
  vtm  2026.05.01  Terminal multiplexer with TUI window manager and multi-party session sharing  https://github.com/directvt/vtm 
  vttest  20251205  Program for testing the VT100 compatibility of terminal emulators  https://invisible-island.net/vttest/ 
  vulkan-extension-layer  1.4.350  Vulkan Extension Layer  https://github.com/KhronosGroup/Vulkan-ExtensionLayer 
- vulkan-headers  1.4.350  Vulkan Header files and API registry  https://github.com/KhronosGroup/Vulkan-Headers 
+ vulkan-headers  1.4.351  Vulkan Header files and API registry  https://github.com/KhronosGroup/Vulkan-Headers 
  vulkan-icd  0.1  A metapackage that provides Vulkan ICDs  https://github.com/termux/termux-packages 
  vulkan-loader  0.0.3  A metapackage that provides vulkan loader library  https://github.com/termux/termux-packages 
  vulkan-loader-android  29  Vulkan Loader for Android  https://source.android.com/devices/graphics/arch-vulkan 
- vulkan-loader-generic  1.4.350  Vulkan Loader  https://github.com/KhronosGroup/Vulkan-Loader 
- vulkan-tools  1.4.350  Vulkan Tools and Utilities  https://github.com/KhronosGroup/Vulkan-Tools 
- vulkan-utility-libraries  1.4.350  Utility Libraries for Vulkan  https://github.com/KhronosGroup/Vulkan-Utility-Libraries 
+ vulkan-loader-generic  1.4.351  Vulkan Loader  https://github.com/KhronosGroup/Vulkan-Loader 
+ vulkan-tools  1.4.351  Vulkan Tools and Utilities  https://github.com/KhronosGroup/Vulkan-Tools 
+ vulkan-utility-libraries  1.4.351  Utility Libraries for Vulkan  https://github.com/KhronosGroup/Vulkan-Utility-Libraries 
  vulkan-validation-layers  1.4.343  Vulkan Validation Layers  https://github.com/KhronosGroup/Vulkan-ValidationLayers 
  vulkan-volk  1.4.350  Meta loader for Vulkan API  https://github.com/zeux/volk 
  w3m  0.5.6  Text based Web browser and pager  https://w3m.sourceforge.net/ 

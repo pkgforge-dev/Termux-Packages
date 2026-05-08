@@ -2149,7 +2149,7 @@
   },
   {
     "Package": "dnscontrol",
-    "Version": "4.37.0",
+    "Version": "4.37.1",
     "Description": "Infrastructure as code for DNS!",
     "Homepage": "https://github.com/StackExchange/dnscontrol"
   },
@@ -4831,7 +4831,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.24.1806",
+    "Version": "0.24.1822",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -11479,13 +11479,13 @@
   },
   {
     "Package": "ollama",
-    "Version": "0.23.1",
+    "Version": "0.23.2",
     "Description": "Get up and running with large language models",
     "Homepage": "https://ollama.com/"
   },
   {
     "Package": "ollama-backend-vulkan",
-    "Version": "0.23.1",
+    "Version": "0.23.2",
     "Description": "Vulkan Backend for Ollama",
     "Homepage": "https://ollama.com/"
   },
@@ -12733,7 +12733,7 @@
   },
   {
     "Package": "pyrefly",
-    "Version": "0.64.0",
+    "Version": "0.64.1",
     "Description": "A fast type checker and language server for Python",
     "Homepage": "https://github.com/facebook/pyrefly.git"
   },
@@ -16159,7 +16159,7 @@
   },
   {
     "Package": "vulkan-headers",
-    "Version": "1.4.350",
+    "Version": "1.4.351",
     "Description": "Vulkan Header files and API registry",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Headers"
   },
@@ -16183,19 +16183,19 @@
   },
   {
     "Package": "vulkan-loader-generic",
-    "Version": "1.4.350",
+    "Version": "1.4.351",
     "Description": "Vulkan Loader",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Loader"
   },
   {
     "Package": "vulkan-tools",
-    "Version": "1.4.350",
+    "Version": "1.4.351",
     "Description": "Vulkan Tools and Utilities",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Tools"
   },
   {
     "Package": "vulkan-utility-libraries",
-    "Version": "1.4.350",
+    "Version": "1.4.351",
     "Description": "Utility Libraries for Vulkan",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Utility-Libraries"
   },
