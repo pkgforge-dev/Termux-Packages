@@ -1381,7 +1381,7 @@
   },
   {
     "Package": "chezmoi",
-    "Version": "2.70.2",
+    "Version": "2.70.3",
     "Description": "Manage your dotfiles across multiple machines",
     "Homepage": "https://chezmoi.io"
   },
@@ -3121,7 +3121,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.4.48",
+    "Version": "0.4.49",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -13249,7 +13249,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "4.51.1",
+    "Version": "4.54.0",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -15289,7 +15289,7 @@
   },
   {
     "Package": "tor",
-    "Version": "0.4.9.7",
+    "Version": "0.4.9.8",
     "Description": "The Onion Router anonymizing overlay network",
     "Homepage": "https://www.torproject.org"
   },
@@ -16069,7 +16069,7 @@
   },
   {
     "Package": "vim",
-    "Version": "9.2.0400",
+    "Version": "9.2.0450",
     "Description": "Vi IMproved - enhanced vi editor",
     "Homepage": "https://www.vim.org"
   },
@@ -16627,7 +16627,7 @@
   },
   {
     "Package": "xxd",
-    "Version": "9.2.0400",
+    "Version": "9.2.0450",
     "Description": "Hexdump utility from vim",
     "Homepage": "https://www.vim.org"
   },
@@ -16843,7 +16843,7 @@
   },
   {
     "Package": "znc",
-    "Version": "1.10.1-2",
+    "Version": "1.10.2",
     "Description": "An advanced IRC bouncer",
     "Homepage": "https://znc.in/"
   },

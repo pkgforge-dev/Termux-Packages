@@ -228,7 +228,7 @@
  chafa-static  1.18.2  Static libraries for chafa  https://hpjansson.org/chafa/ 
  check  0.15.2-3  A unit testing framework for C  https://libcheck.github.io/check 
  check-static  0.15.2-3  Static libraries for check  https://libcheck.github.io/check 
- chezmoi  2.70.2  Manage your dotfiles across multiple machines  https://chezmoi.io 
+ chezmoi  2.70.3  Manage your dotfiles across multiple machines  https://chezmoi.io 
  chicken  5.4.0-2  A feature rich Scheme compiler and interpreter  https://www.call-cc.org 
  chicken-static  5.4.0-2  Static libraries for chicken  https://www.call-cc.org 
  chntpw  140201  Offline Windows NT Password & Registry Editor  https://pogostick.net/~pnh/ntpasswd/ 
@@ -518,7 +518,7 @@
  flex-static  2.6.4-4  Static libraries for flex  https://github.com/westes/flex 
  flint  3.5.0  C library for doing number theory  http://www.flintlib.org 
  fluidsynth  2.5.4  Software synthesizer based on the SoundFont 2 specifications  https://github.com/FluidSynth/fluidsynth 
- flyctl  0.4.48  Command line tools for fly.io services  https://fly.io 
+ flyctl  0.4.49  Command line tools for fly.io services  https://fly.io 
  fm  1.2.0  A terminal based file manager  https://github.com/knipferrc/fm 
  fmt  1:11.2.0  Open-source formatting library for C++  https://fmt.dev/latest/index.html 
  fontconfig  2.17.1-1  Library for configuring and customizing font access  https://www.freedesktop.org/wiki/Software/fontconfig/ 
@@ -2206,7 +2206,7 @@
  rage  0.11.2  A simple, secure and modern encryption tool  https://age-encryption.org/v1 
  ragel  7.0.4-1  Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code  https://www.colm.net/open-source/ragel/ 
  ragel-static  7.0.4-1  Static libraries for ragel  https://www.colm.net/open-source/ragel/ 
- railway-cli  4.51.1  This is the command line interface for Railway  https://railway.app 
+ railway-cli  4.54.0  This is the command line interface for Railway  https://railway.app 
  range-v3  0.12.0  Range library for C++14/17/20, basis for C++20's std::ranges  https://github.com/ericniebler/range-v3 
  ranger  1.9.4-1  File manager with VI key bindings  https://ranger.github.io/ 
  rapidjson  1.1.0-7  Fast JSON parser/generator for C++ with SAX/DOM style API  https://github.com/Tencent/rapidjson/ 
@@ -2546,7 +2546,7 @@
  tome2  2025.12.13-1  An open world roguelike adventure set in middle earth  https://github.com/tome2/tome2 
  toml11  4.4.0  toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library  https://github.com/ToruNiina/toml11 
  topgrade  17.4.0  Upgrade all the things  https://github.com/topgrade-rs/topgrade/ 
- tor  0.4.9.7  The Onion Router anonymizing overlay network  https://www.torproject.org 
+ tor  0.4.9.8  The Onion Router anonymizing overlay network  https://www.torproject.org 
  torsocks  2.5.0-1  Wrapper to safely torify applications  https://gitlab.torproject.org/tpo/core/torsocks 
  torsocks-static  2.5.0-1  Static libraries for torsocks  https://gitlab.torproject.org/tpo/core/torsocks 
  totem-pl-parser  3.26.7  Simple GObject-based library to parse and save a host of playlist formats  https://gitlab.gnome.org/GNOME/totem-pl-parser 
@@ -2676,7 +2676,7 @@
  viddy  1.3.0-2  A modern watch command  https://github.com/sachaos/viddy 
  vifm  0.14.3-1  File manager with vi like keybindings  https://vifm.info/ 
  vile  9.8z-1  VI Like Emacs - vi work-alike  https://invisible-island.net/vile/ 
- vim  9.2.0400  Vi IMproved - enhanced vi editor  https://www.vim.org 
+ vim  9.2.0450  Vi IMproved - enhanced vi editor  https://www.vim.org 
  virglrenderer  1.3.0  A virtual 3D GPU for use inside qemu virtual machines  https://virgil3d.github.io/ 
  virglrenderer-android  1.3.0  A virtual 3D GPU for use inside qemu virtual machines over OpenGLES libraries on Android  https://virgil3d.github.io/ 
  virustotal-cli  1.3.0  Command line interface for VirusTotal  https://github.com/VirusTotal/vt-cli 
@@ -2769,7 +2769,7 @@
  xtrans  1.6.0  X transport library  https://xorg.freedesktop.org/ 
  xvidcore  1.3.7-1  High performance and high quality MPEG-4 library  https://www.xvid.com/ 
  xvidcore-static  1.3.7-1  Static libraries for xvidcore  https://www.xvid.com/ 
- xxd  9.2.0400  Hexdump utility from vim  https://www.vim.org 
+ xxd  9.2.0450  Hexdump utility from vim  https://www.vim.org 
  xxhash  0.8.3-1  Extremely fast non-cryptographic hash algorithm  https://cyan4973.github.io/xxHash/ 
  xxhash-static  0.8.3-1  Static libraries for xxhash  https://cyan4973.github.io/xxHash/ 
  xz-utils  5.8.3  XZ-format compression tools  https://tukaani.org/xz/ 
@@ -2805,7 +2805,7 @@
  zlib  1.3.2  Compression library implementing the deflate compression method found in gzip and PKZIP  https://www.zlib.net/ 
  zlib-static  1.3.2  Static libraries for zlib  https://www.zlib.net/ 
  zls  0.16.0  Zig language server  https://github.com/zigtools/zls 
- znc  1.10.1-2  An advanced IRC bouncer  https://znc.in/ 
+ znc  1.10.2  An advanced IRC bouncer  https://znc.in/ 
  zola  0.22.1  A fast static site generator in a single binary with everything built-in.  https://github.com/getzola/zola 
  zopfli  1.0.3-5  New zlib compatible compressor tools  https://github.com/google/zopfli 
  zoxide  0.9.9  A faster way to navigate your filesystem  https://github.com/ajeetdsouza/zoxide 
