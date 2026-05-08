@@ -494,8 +494,8 @@
 | **fdupes** | 2.4.0-1 | Duplicates file detector | https://github.com/adrianlopezroche/fdupes |
 | **fennel** | 1.6.1 | A Lisp that compiles to Lua | https://fennel-lang.org |
 | **feroxbuster** | 2.13.1 | A fast, simple, recursive content discovery tool written in Rust | https://github.com/epi052/feroxbuster |
-| **fetchmail** | 6.6.3 | A remote-mail retrieval utility | https://www.fetchmail.info/ |
-| **fetchmailconf** | 6.6.3 | A GUI configurator for generating fetchmail configuration files | https://www.fetchmail.info/ |
+| **fetchmail** | 6.6.4 | A remote-mail retrieval utility | https://www.fetchmail.info/ |
+| **fetchmailconf** | 6.6.4 | A GUI configurator for generating fetchmail configuration files | https://www.fetchmail.info/ |
 | **fff** | 2.2 | A simple file manager written in bash | https://github.com/dylanaraps/fff |
 | **ffmpeg** | 8.1.1 | Tools and libraries to manipulate a wide range of multimedia formats and protocols | https://ffmpeg.org |
 | **ffmpegthumbnailer** | 2.3.0 | Lightweight video thumbnailer that can be used by file managers | https://github.com/dirkvdb/ffmpegthumbnailer |
@@ -610,7 +610,7 @@
 | **gitoxide** | 0.53.0 | Rust implementation of Git | https://github.com/GitoxideLabs/gitoxide |
 | **gitui** | 0.28.1 | Blazing fast terminal-ui for git written in rust | https://github.com/gitui-org/gitui |
 | **gkermit** | 2.01-1 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
-| **glab-cli** | 1.94.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
+| **glab-cli** | 1.95.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
 | **gleam** | 1.16.0 | A friendly language for building type-safe, scalable systems! | https://gleam.run |
 | **glib** | 2.88.1 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
 | **glib-cross** | 2.88.1 | glib for host (NOT for Termux) | https://developer.gnome.org/glib/ |
@@ -1886,7 +1886,7 @@
 | **notcurses-data** | 3.0.17-2 | Platform-independent data for notcurses | https://notcurses.com/ |
 | **notcurses-tools** | 3.0.17-2 | Tools and demos for notcurses | https://notcurses.com/ |
 | **notmuch** | 0.40-1 | Thread-based email index, search and tagging system | https://notmuchmail.org |
-| **npm** | 11.14.0 | The package manager for JavaScript | https://docs.npmjs.com/cli/ |
+| **npm** | 11.14.1 | The package manager for JavaScript | https://docs.npmjs.com/cli/ |
 | **npush** | 0.7-2 | Curses-based logic game similar to Sokoban and Boulder Dash | https://npush.sourceforge.net/ |
 | **nsis** | 3.12 | A professional open source system to create Windows installers | https://sourceforge.net/projects/nsis/ |
 | **nsis-stubs** | 3.12 | NSIS Stubs | https://sourceforge.net/projects/nsis/ |
@@ -2206,7 +2206,7 @@
 | **rage** | 0.11.2 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4-1 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4-1 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
-| **railway-cli** | 4.56.0 | This is the command line interface for Railway | https://railway.app |
+| **railway-cli** | 4.56.1 | This is the command line interface for Railway | https://railway.app |
 | **range-v3** | 0.12.0 | Range library for C++14/17/20, basis for C++20's std::ranges | https://github.com/ericniebler/range-v3 |
 | **ranger** | 1.9.4-1 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-7 | Fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |
@@ -2216,7 +2216,7 @@
 | **ravencoin-static** | 4.6.1-9 | Static libraries for ravencoin | https://ravencoin.org/ |
 | **rbw** | 1.15.0 | An unofficial command line client for Bitwarden | https://github.com/doy/rbw |
 | **rc** | 1.7.4-2 | An alternative implementation of the plan 9 rc shell | https://github.com/rakitzis/rc |
-| **rclone** | 1.74.0 | rsync for cloud storage | https://rclone.org/ |
+| **rclone** | 1.74.1 | rsync for cloud storage | https://rclone.org/ |
 | **rcm** | 1.3.6 | Dotfiles management | https://github.com/thoughtbot/rcm |
 | **rcs** | 5.10.1-1 | The GNU Revision Control System | https://www.gnu.org/s/rcs |
 | **rdfind** | 1.8.0 | A tool for finding duplicate files | https://github.com/pauldreik/rdfind |
@@ -2322,7 +2322,7 @@
 | **seccure** | 0.5-8 | SECCURE Elliptic Curve Crypto Utility for Reliable Encryption | http://point-at-infinity.org/seccure/ |
 | **secure-delete** | 3.1-6 | Secure file, disk, swap, memory erasure utilities | https://www.thc.org/ |
 | **sed** | 4.9-2 | GNU stream editor for filtering/transforming text | https://www.gnu.org/software/sed/ |
-| **sendme** | 0.33.0 | A tool to send files and directories, based on iroh | https://github.com/n0-computer/sendme |
+| **sendme** | 0.34.0 | A tool to send files and directories, based on iroh | https://github.com/n0-computer/sendme |
 | **sendxmpp** | 1.24-1 | A perl-script to send XMPP (jabber) messages | https://sendxmpp.hostname.sk/ |
 | **senpai** | 1:0.4.1-1 | An IRC client that works best with bouncers | https://git.sr.ht/~delthas/senpai |
 | **sensible-utils** | 0.0.26 | Small utilities used by programs to sensibly select and spawn an appropriate browser, editor, or pager | https://packages.debian.org/sid/sensible-utils |
@@ -2373,7 +2373,7 @@
 | **softether-vpn-static** | 5.2.5188-1 | Static libraries for softether-vpn | https://www.softether.org/ |
 | **soju** | 0.10.1 | A user-friendly IRC bouncer | https://codeberg.org/emersion/soju |
 | **solidity** | 0.8.35 | An Ethereum smart contract-oriented language | https://www.soliditylang.org/ |
-| **sops** | 3.12.2 | Simple and flexible tool for managing secrets | https://github.com/getsops/sops |
+| **sops** | 3.13.0 | Simple and flexible tool for managing secrets | https://github.com/getsops/sops |
 | **sord** | 0.16.22 | A lightweight C library for storing RDF data in memory | https://drobilla.net/software/sord.html |
 | **sound-theme-freedesktop** | 0.8 | Freedesktop sound theme | https://freedesktop.org/wiki/Specifications/sound-theme-spec |
 | **sourcekit-lsp** | 6.2.1 | Language Server Protocol implementation for Swift and C-based languages | https://swift.org/ |
@@ -2688,7 +2688,7 @@
 | **vlc-static** | 3.0.23-3 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-4 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.3-1 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 2026.05.01 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
+| **vtm** | 2026.05.08 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
 | **vttest** | 20251205 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vulkan-extension-layer** | 1.4.350 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
 | **vulkan-headers** | 1.4.351 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
@@ -2708,7 +2708,7 @@
 | **wallust** | 3.5.2 | Generate colors from an image | https://explosion-mental.codeberg.page/wallust |
 | **wasi-libc** | 30 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |
 | **wasm-component-ld** | 0.5.22 | Command line linker for creating WebAssembly components | https://github.com/bytecodealliance/wasm-component-ld |
-| **wasmedge** | 0.16.2 | A lightweight, high-performance, and extensible WebAssembly runtime | https://wasmedge.org/ |
+| **wasmedge** | 0.16.3 | A lightweight, high-performance, and extensible WebAssembly runtime | https://wasmedge.org/ |
 | **wasmer** | 7.0.1 | A fast and secure WebAssembly runtime | https://wasmer.io/ |
 | **wasmtime** | 44.0.1 | A standalone runtime for WebAssembly | https://wasmtime.dev/ |
 | **watchexec** | 2.5.1 | Executes commands in response to file modifications | https://github.com/watchexec/watchexec |

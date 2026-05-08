@@ -1983,11 +1983,11 @@
   Description: A fast, simple, recursive content discovery tool written in Rust
   Homepage: https://github.com/epi052/feroxbuster
 - Package: fetchmail
-  Version: 6.6.3
+  Version: 6.6.4
   Description: A remote-mail retrieval utility
   Homepage: https://www.fetchmail.info/
 - Package: fetchmailconf
-  Version: 6.6.3
+  Version: 6.6.4
   Description: A GUI configurator for generating fetchmail configuration files
   Homepage: https://www.fetchmail.info/
 - Package: fff
@@ -2447,7 +2447,7 @@
   Description: Simple, Portable, Free File Transfer Software for UNIX
   Homepage: http://www.columbia.edu/kermit/gkermit.html
 - Package: glab-cli
-  Version: 1.94.0
+  Version: 1.95.0
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
@@ -7551,7 +7551,7 @@
   Description: Thread-based email index, search and tagging system
   Homepage: https://notmuchmail.org
 - Package: npm
-  Version: 11.14.0
+  Version: 11.14.1
   Description: The package manager for JavaScript
   Homepage: https://docs.npmjs.com/cli/
 - Package: npush
@@ -8831,7 +8831,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 4.56.0
+  Version: 4.56.1
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
@@ -8871,7 +8871,7 @@
   Description: An alternative implementation of the plan 9 rc shell
   Homepage: https://github.com/rakitzis/rc
 - Package: rclone
-  Version: 1.74.0
+  Version: 1.74.1
   Description: rsync for cloud storage
   Homepage: https://rclone.org/
 - Package: rcm
@@ -9295,7 +9295,7 @@
   Description: GNU stream editor for filtering/transforming text
   Homepage: https://www.gnu.org/software/sed/
 - Package: sendme
-  Version: 0.33.0
+  Version: 0.34.0
   Description: A tool to send files and directories, based on iroh
   Homepage: https://github.com/n0-computer/sendme
 - Package: sendxmpp
@@ -9499,7 +9499,7 @@
   Description: An Ethereum smart contract-oriented language
   Homepage: https://www.soliditylang.org/
 - Package: sops
-  Version: 3.12.2
+  Version: 3.13.0
   Description: Simple and flexible tool for managing secrets
   Homepage: https://github.com/getsops/sops
 - Package: sord
@@ -10759,7 +10759,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2026.05.01
+  Version: 2026.05.08
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vttest
@@ -10839,7 +10839,7 @@
   Description: Command line linker for creating WebAssembly components
   Homepage: https://github.com/bytecodealliance/wasm-component-ld
 - Package: wasmedge
-  Version: 0.16.2
+  Version: 0.16.3
   Description: A lightweight, high-performance, and extensible WebAssembly runtime
   Homepage: https://wasmedge.org/
 - Package: wasmer
