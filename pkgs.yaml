@@ -6099,15 +6099,15 @@
   Description: Static libraries for libwavpack
   Homepage: https://www.wavpack.com/
 - Package: libwayland
-  Version: 1.24.0
+  Version: 1.25.0
   Description: Wayland protocol library
   Homepage: https://wayland.freedesktop.org/
 - Package: libwayland-cross-scanner
-  Version: 1.24.0
+  Version: 1.25.0
   Description: wayland-scanner for host (NOT for Termux)
   Homepage: https://wayland.freedesktop.org/
 - Package: libwayland-protocols
-  Version: "1.45"
+  Version: "1.48"
   Description: Wayland protocols library
   Homepage: https://wayland.freedesktop.org/
 - Package: libwebp
@@ -10415,7 +10415,7 @@
   Description: A single and trusted place for all unofficial/less popular termux packages
   Homepage: https://github.com/termux-user-repository/tur
 - Package: turbo
-  Version: 2.9.11
+  Version: 2.9.12
   Description: High-performance build system for JS/TS
   Homepage: https://turborepo.dev/
 - Package: turbopack

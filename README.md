@@ -1535,9 +1535,9 @@
 | **libvxl** | 3.5.0-5 | A multi-platform collection of C++ software libraries for Computer Vision and Image Understanding | https://vxl.github.io |
 | **libwavpack** | 5.9.0 | A completely open audio compression format providing lossless, high-quality lossy, and a unique hybrid compression mode | https://www.wavpack.com/ |
 | **libwavpack-static** | 5.9.0 | Static libraries for libwavpack | https://www.wavpack.com/ |
-| **libwayland** | 1.24.0 | Wayland protocol library | https://wayland.freedesktop.org/ |
-| **libwayland-cross-scanner** | 1.24.0 | wayland-scanner for host (NOT for Termux) | https://wayland.freedesktop.org/ |
-| **libwayland-protocols** | 1.45 | Wayland protocols library | https://wayland.freedesktop.org/ |
+| **libwayland** | 1.25.0 | Wayland protocol library | https://wayland.freedesktop.org/ |
+| **libwayland-cross-scanner** | 1.25.0 | wayland-scanner for host (NOT for Termux) | https://wayland.freedesktop.org/ |
+| **libwayland-protocols** | 1.48 | Wayland protocols library | https://wayland.freedesktop.org/ |
 | **libwebp** | 1.6.0-rc1-0 | Library to encode and decode images in WebP format | https://github.com/webmproject/libwebp |
 | **libwebrtc-audio-processing** | 1.3-4 | A library containing the AudioProcessing module from the WebRTC project | https://www.freedesktop.org/software/pulseaudio/webrtc-audio-processing/ |
 | **libwebsockets** | 4.5.8 | Lightweight C websockets library | https://libwebsockets.org |
@@ -2614,7 +2614,7 @@
 | **ttyrec** | 1.0.8-8 | Terminal recorder and player | http://0xcc.net/ttyrec/ |
 | **tudo** | 1.2.0 | A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument as the Termux app (u<userid>_a<appid>) user in the Termux app | https://github.com/agnostic-apollo/tudo |
 | **tur-repo** | 1.0.1 | A single and trusted place for all unofficial/less popular termux packages | https://github.com/termux-user-repository/tur |
-| **turbo** | 2.9.11 | High-performance build system for JS/TS | https://turborepo.dev/ |
+| **turbo** | 2.9.12 | High-performance build system for JS/TS | https://turborepo.dev/ |
 | **turbopack** | 16.2.5 | Rust-based incremental compilation engine and bundler for Next.js | https://nextjs.org/ |
 | **tut** | 2.0.1-3 | A TUI for Mastodon with vim inspired keys | https://github.com/RasmusLindroth/tut |
 | **tvheadend** | 4.2.8-12 | TV streaming server for Linux and Android supporting DVB-S, DVB-S2 and other formats. | https://tvheadend.org/ |
