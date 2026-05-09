@@ -458,7 +458,7 @@
 | **eltclsh** | 1.20-1 | Interactive shell for TCL programming language | https://homepages.laas.fr/mallet/soft/shell/eltclsh |
 | **elvish** | 0.21.0-1 | A friendly and expressive Unix shell | https://github.com/elves/elvish |
 | **emacs** | 30.2-1 | Extensible, customizable text editor-and more | https://www.gnu.org/software/emacs/ |
-| **emmylua-ls** | 0.22.0 | Emmy Lua Language Server coded in Rust | https://github.com/EmmyLuaLs/emmylua-analyzer-rust |
+| **emmylua-ls** | 0.23.0 | Emmy Lua Language Server coded in Rust | https://github.com/EmmyLuaLs/emmylua-analyzer-rust |
 | **emscripten** | 5.0.7 | Emscripten: An LLVM-to-WebAssembly Compiler | https://emscripten.org |
 | **emscripten-binaryen** | 5.0.7 | Emscripten-compatible Binaryen | https://emscripten.org |
 | **emscripten-llvm** | 5.0.7 | Emscripten-compatible LLVM | https://emscripten.org |
@@ -1607,7 +1607,7 @@
 | **libyaml-static** | 0.2.5-5 | Static libraries for libyaml | https://pyyaml.org/wiki/LibYAML |
 | **libzen** | 0.4.41-1 | ZenLib C++ utility library | https://mediaarea.net/en/MediaInfo |
 | **libzen-static** | 0.4.41-1 | Static libraries for libzen | https://mediaarea.net/en/MediaInfo |
-| **libzim** | 9.6.0 | The ZIM library is the reference implementation for the ZIM file format. | https://openzim.org |
+| **libzim** | 9.7.0 | The ZIM library is the reference implementation for the ZIM file format. | https://openzim.org |
 | **libzimg** | 3.0.6 | Scaling, colorspace conversion, and dithering library | https://github.com/sekrit-twc/zimg |
 | **libzimg-static** | 3.0.6 | Static libraries for libzimg | https://github.com/sekrit-twc/zimg |
 | **libzip** | 1.11.4-1 | Library for reading, creating, and modifying zip archives | https://libzip.org/ |
