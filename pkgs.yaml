@@ -7103,7 +7103,7 @@
   Description: Simple game where you drive a car across the moons surface
   Homepage: https://github.com/seehuhn/moon-buggy
 - Package: moor
-  Version: 2.12.3
+  Version: 2.13.0
   Description: A pager designed to just do the right thing without any configuration
   Homepage: https://github.com/walles/moor
 - Package: mop
@@ -7683,7 +7683,7 @@
   Description: Static libraries for oniguruma
   Homepage: https://github.com/kkos/oniguruma
 - Package: onnxruntime
-  Version: 1.25.1
+  Version: 1.26.0
   Description: Cross-platform, high performance ML inferencing and training accelerator
   Homepage: https://onnxruntime.ai/
 - Package: oorexx
@@ -8459,7 +8459,7 @@
   Description: Python bindings for the cairo graphics library
   Homepage: https://www.cairographics.org/pycairo/
 - Package: pygobject
-  Version: 3.56.2
+  Version: 3.56.3
   Description: Python package which provides bindings for GObject based libraries
   Homepage: https://pygobject.gnome.org/
 - Package: pypy
@@ -8567,7 +8567,7 @@
   Description: Static libraries for python-numpy
   Homepage: https://numpy.org/
 - Package: python-onnxruntime
-  Version: 1.25.1
+  Version: 1.26.0
   Description: Cross-platform, high performance ML inferencing and training accelerator (Python bindings)
   Homepage: https://onnxruntime.ai/
 - Package: python-pillow
@@ -8831,7 +8831,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 4.56.1
+  Version: 4.57.1
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
@@ -10415,7 +10415,7 @@
   Description: A single and trusted place for all unofficial/less popular termux packages
   Homepage: https://github.com/termux-user-repository/tur
 - Package: turbo
-  Version: 2.9.10
+  Version: 2.9.11
   Description: High-performance build system for JS/TS
   Homepage: https://turborepo.dev/
 - Package: turbopack
@@ -10607,7 +10607,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.11.11
+  Version: 0.11.12
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
