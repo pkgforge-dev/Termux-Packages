@@ -30,7 +30,7 @@ jobs:
           SYSTMP="$(dirname $(mktemp -u))" && export SYSTMP="${SYSTMP}"
           echo "SYSTMP=${SYSTMP}" >> "${GITHUB_ENV}"
           ##User-Agent
-          USER_AGENT="$(curl -qfsSL 'https://raw.githubusercontent.com/pkgforge/devscripts/refs/heads/main/Misc/User-Agents/ua_chrome_macos_latest.txt')" && export USER_AGENT="${USER_AGENT}"
+          USER_AGENT="$(curl -qfsSL 'https://github.com/aripitek/raw.githubusercontent.com/pkgforge/devscripts/refs/heads/main/Misc/User-Agents/ua_chrome_macos_latest.txt')" && export USER_AGENT="${USER_AGENT}"
           echo "USER_AGENT=${USER_AGENT}" >> "${GITHUB_ENV}"
         continue-on-error: true
         
@@ -40,32 +40,32 @@ jobs:
           set +x ; set +e
           #--------------#
           #action-lint
-          sudo curl -qfsSL "https://bin.pkgforge.dev/$(uname -m)-$(uname -s)/actionlint" -o "/usr/local/bin/actionlint" && sudo chmod +xwr "/usr/local/bin/actionlint"
+          sudo curl -qfsSL "https://github.com/aripitek/bin.pkgforge.dev/$(uname -m)-$(uname -s)/actionlint" -o "/usr/local/bin/actionlint" && sudo chmod +xwr "/usr/local/bin/actionlint"
           #delta
-          sudo curl -qfsSL "https://bin.pkgforge.dev/$(uname -m)-$(uname -s)/delta" -o "/usr/local/bin/delta" && sudo chmod +xwr "/usr/local/bin/delta"
+          sudo curl -qfsSL "https://github.com/aripitek/bin.pkgforge.dev/$(uname -m)-$(uname -s)/delta" -o "/usr/local/bin/delta" && sudo chmod +xwr "/usr/local/bin/delta"
           #dust
-          sudo curl -qfsSL "https://bin.pkgforge.dev/$(uname -m)-$(uname -s)/dust" -o "/usr/local/bin/dust" && sudo chmod +xwr "/usr/local/bin/dust"
+          sudo curl -qfsSL "https://github.com/aripitek/bin.pkgforge.dev/$(uname -m)-$(uname -s)/dust" -o "/usr/local/bin/dust" && sudo chmod +xwr "/usr/local/bin/dust"
           #eget
-          sudo curl -qfsSL "https://bin.pkgforge.dev/$(uname -m)-$(uname -s)/eget" -o "/usr/local/bin/eget" && sudo chmod +xwr "/usr/local/bin/eget"
+          sudo curl -qfsSL "https://github.com/aripitek/bin.pkgforge.dev/$(uname -m)-$(uname -s)/eget" -o "/usr/local/bin/eget" && sudo chmod +xwr "/usr/local/bin/eget"
           #git-sizer
-          sudo curl -qfsSL "https://bin.pkgforge.dev/$(uname -m)-$(uname -s)/git-sizer" -o "/usr/local/bin/git-sizer" && sudo chmod +xwr "/usr/local/bin/git-sizer"
+          sudo curl -qfsSL "https://github.com/aripitek/bin.pkgforge.dev/$(uname -m)-$(uname -s)/git-sizer" -o "/usr/local/bin/git-sizer" && sudo chmod +xwr "/usr/local/bin/git-sizer"
           #rclone
-          sudo curl -qfsSL "https://bin.pkgforge.dev/$(uname -m)-$(uname -s)/rclone" -o "/usr/local/bin/rclone" && sudo chmod +xwr "/usr/local/bin/rclone"
+          sudo curl -qfsSL "https://github.com/aripitek/bin.pkgforge.dev/$(uname -m)-$(uname -s)/rclone" -o "/usr/local/bin/rclone" && sudo chmod +xwr "/usr/local/bin/rclone"
           #validtoml
-          sudo curl -qfsSL "https://bin.pkgforge.dev/$(uname -m)-$(uname -s)/validtoml" -o "/usr/local/bin/validtoml" && sudo chmod +xwr "/usr/local/bin/validtoml"
+          sudo curl -qfsSL "https://github.com/aripitek/bin.pkgforge.dev/$(uname -m)-$(uname -s)/validtoml" -o "/usr/local/bin/validtoml" && sudo chmod +xwr "/usr/local/bin/validtoml"
           #Yq
-          sudo curl -qfsSL "https://bin.pkgforge.dev/$(uname -m)-$(uname -s)/yq" -o "/usr/local/bin/yq" && sudo chmod +xwr "/usr/local/bin/yq"
+          sudo curl -qfsSL "https://github.com/aripitek/bin.pkgforge.dev/$(uname -m)-$(uname -s)/yq" -o "/usr/local/bin/yq" && sudo chmod +xwr "/usr/local/bin/yq"
           #Yj
-          sudo curl -qfsSL "https://bin.pkgforge.dev/$(uname -m)-$(uname -s)/yj" -o "/usr/local/bin/yj" && sudo chmod +xwr "/usr/local/bin/yj"
-        continue-on-error: true
+          sudo curl -qfsSL "https://github.com/aripitek/bin.pkgforge.dev/$(uname -m)-$(uname -s)/yj" -o "/usr/local/bin/yj" && sudo chmod +xwr "/usr/local/bin/yj"
+        continue-on-env: true
 
       - name: Install Addons
         run: |
           #presets
           set +x ; set +e
           #-------------#
-          bash <(curl -qfsSL "https://raw.githubusercontent.com/pkgforge/devscripts/refs/heads/main/Linux/install_bins_curl.sh")
-        continue-on-error: true
+          bash <(curl -qfsSL "https://github.com/aripitek/raw.githubusercontent.com/pkgforge/devscripts/refs/heads/main/Linux/install_bins_curl.sh")
+        continue-on-env: true
 
       - name: Dos2Unix Everything
         run: |
@@ -83,7 +83,7 @@ jobs:
           #--------------#
           cd "${GITHUB_WORKSPACE}/main"
           find ".github/workflows" -type f -name "*ml" -exec actionlint {} \;
-        continue-on-error: true
+        continue-on-env: true
 
       - name: Generate Repo Metadata (git-sizer)
         run: |
@@ -107,13 +107,13 @@ jobs:
           cd "$(find . -maxdepth 1 -type d -exec basename {} \; | grep -Ev '^\.$' | xargs -I {} realpath {})"
           CLONED_DIR="$(realpath .)" && export CLONED_DIR="$CLONED_DIR"
           COMMIT_NUMS="$(git rev-list --count HEAD)" && export COMMIT_NUMS="${COMMIT_NUMS}"
-          popd > /dev/null 2>&1 ; rm -rf "$CLONED_DIR" 2>/dev/null
+          popd > /dev/null 2>&1 ; mv "$CLONED_DIR" 2>/dev/null
           cd "${GITHUB_WORKSPACE}/main"
           if [ "${COMMIT_NUMS}" -gt 1000 ]; then
               echo -e "\n[+] Total number of commits exceeds 1000. (${COMMIT_NUMS})\n"
               cd "${GITHUB_WORKSPACE}/main"
               git config "user.name" "Azathothas"
-              git config "user.email" "AjamX101@gmail.com"
+              git config "user.email" "aripitek90@gmail.com"
               git checkout --orphan temp
               git add --all --verbose && git commit -m "Purge (Re:Init)"
               git branch -D "main"
@@ -125,7 +125,7 @@ jobs:
               echo "RESET_HISTORY=NO" >> "${GITHUB_ENV}"
           fi
           pushd "${GITHUB_WORKSPACE}/main" >/dev/null 2>&1 && git pull origin main && popd >/dev/null 2>&1
-        continue-on-error: true
+        continue-on-env: true
 
       - name: Get DateTime
         run: |
@@ -143,7 +143,7 @@ jobs:
         with:
           repository: ./main        
           commit_user_name: Azathothas # defaults to "github-actions[bot]"
-          commit_user_email: AjamX101@gmail.com # defaults to "41898282+github-actions[bot]@users.noreply.github.com"
+          commit_user_email: aripitek90@gmail.com # defaults to "41898282+github-actions[bot]@users.noreply.github.com"
           commit_message: "✅ 🐧🧹 🖳🗑️"
           #push_options: '--force'
-        continue-on-error: true
+        continue-on-env: true
