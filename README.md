@@ -610,7 +610,7 @@
 | **git-credential-manager** | 2.7.3 | Cross-platform Git credential storage for multiple hosting providers | https://aka.ms/gcm |
 | **git-crypt** | 0.8.0 | Enables transparent encryption and decryption of files for a git repository | https://www.agwa.name/projects/git-crypt/ |
 | **git-delta** | 0.19.2 | A syntax-highlighter for git and diff output | https://dandavison.github.io/delta/ |
-| **git-extras** | 7.4.0-2 | Little git extras. | https://github.com/tj/git-extras |
+| **git-extras** | 7.5.0 | Little git extras. | https://github.com/tj/git-extras |
 | **git-gitk** | 2.54.0 | Git repository browser | https://git-scm.com/ |
 | **git-gui** | 2.54.0 | A graphical interface to Git | https://git-scm.com/ |
 | **git-lfs** | 3.7.1 | Git extension for versioning large files | https://git-lfs.github.com/ |
@@ -849,7 +849,7 @@
 | **jsoncpp-static** | 1.9.7 | Static libraries for jsoncpp | https://github.com/open-source-parsers/jsoncpp |
 | **jump** | 0.51.0-3 | Jump helps you navigate in shell faster by learning your habits | https://github.com/gsamokovarov/jump |
 | **jupp** | 3.1jupp41-3 | User friendly full screen text editor | http://www.mirbsd.org/jupp.htm |
-| **just** | 1.50.0 | A handy way to save and run project-specific commands | https://just.systems |
+| **just** | 1.51.0 | A handy way to save and run project-specific commands | https://just.systems |
 | **jython** | 2.7.4-1 | Python for the Java Platform | https://www.jython.org/ |
 | **k2pdfopt** | 2.55-4 | A tool that optimizes PDF files for viewing on mobile readers | https://www.willus.com/k2pdfopt/ |
 | **k9s** | 0.50.18 | Kubernetes CLI To Manage Your Clusters In Style! | https://k9scli.io |
