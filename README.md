@@ -948,7 +948,6 @@
 | **libblosc** | 1.21.6-2 | A blocking, shuffling and loss-less compression library | https://www.blosc.org |
 | **libblosc-static** | 1.21.6-2 | Static libraries for libblosc | https://www.blosc.org |
 | **libblosc2** | 3.0.2 | A blocking, shuffling and loss-less compression library | https://www.blosc.org |
-| **libblosc2-static** | 3.0.0 | Static libraries for libblosc2 | https://www.blosc.org |
 | **libbluray** | 1.4.1 | An open-source library designed for Blu-Ray Discs playback for media players | https://code.videolan.org/videolan/libbluray/ |
 | **libbluray-static** | 1.4.1 | Static libraries for libbluray | https://code.videolan.org/videolan/libbluray/ |
 | **libbluray-utils** | 1.4.1 | Example utilities for libbluray | https://code.videolan.org/videolan/libbluray/ |
@@ -1016,7 +1015,7 @@
 | **libdav1d** | 1.5.3 | AV1 cross-platform decoder focused on speed and correctness | https://code.videolan.org/videolan/dav1d/ |
 | **libdb** | 18.1.40-5 | The Berkeley DB embedded database system (library) | https://www.oracle.com/database/berkeley-db |
 | **libdb-static** | 18.1.40-5 | Static libraries for libdb | https://www.oracle.com/database/berkeley-db |
-| **libde265** | 1.0.16-1 | H.265/HEVC video stream decoder library | https://github.com/strukturag/libde265 |
+| **libde265** | 1.0.18 | H.265/HEVC video stream decoder library | https://github.com/strukturag/libde265 |
 | **libde265-static** | 1.0.16-1 | Static libraries for libde265 | https://github.com/strukturag/libde265 |
 | **libdebuginfod** | 0.193-1 | Library for debuginfod | https://sourceware.org/elfutils/ |
 | **libdeflate** | 1.25 | C library for fast compression and decompression | https://github.com/ebiggers/libdeflate |
@@ -2081,7 +2080,6 @@
 | **poke-static** | 4.3-1 | Static libraries for poke | http://www.jemarch.net/poke.html |
 | **polipo** | 1.1.1-1 | A small and fast caching web proxy | http://www.pps.jussieu.fr/~jch/software/polipo/ |
 | **polyml** | 5.9.2-1 | A Standard ML implementation | https://www.polyml.org/ |
-| **polyml-static** | 5.9.2 | Static libraries for polyml | https://www.polyml.org/ |
 | **pomodoro-curses** | 2.5-1 | A simple pomodoro timer written with the Ncurses library | https://github.com/chunga2020/pomodoro_curses |
 | **poppler** | 26.02.0 | PDF rendering library | https://poppler.freedesktop.org/ |
 | **poppler-data** | 0.4.12 | Consists of encoding files for use with poppler | https://poppler.freedesktop.org/ |
@@ -2106,7 +2104,7 @@
 | **profanity** | 0.18.0 | Profanity is a console based XMPP client written in C using ncurses and libstrophe, inspired by Irssi | https://profanity-im.github.io |
 | **progress** | 0.17-1 | Linux tool to show progress for cp, mv, dd and more | https://github.com/Xfennec/progress |
 | **proj** | 9.8.1 | Generic coordinate transformation software | https://proj.org |
-| **proot** | 5.1.107-70 | Emulate chroot, bind mount and binfmt_misc for non-root users | https://proot-me.github.io/ |
+| **proot** | 5.1.107-71 | Emulate chroot, bind mount and binfmt_misc for non-root users | https://proot-me.github.io/ |
 | **proot-distro** | 4.38.0 | Termux official utility for managing proot'ed Linux distributions | https://github.com/termux/proot-distro |
 | **protobuf** | 2:33.1-1 | Compiler for protocol buffer definition files | https://github.com/protocolbuffers/protobuf |
 | **proton-bridge** | 3.24.2 | ProtonMail Bridge application | https://github.com/ProtonMail/proton-bridge |

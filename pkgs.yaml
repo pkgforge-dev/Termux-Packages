@@ -3750,10 +3750,6 @@
   Version: 3.0.2
   Description: A blocking, shuffling and loss-less compression library
   Homepage: https://www.blosc.org
-- Package: libblosc2-static
-  Version: 3.0.0
-  Description: Static libraries for libblosc2
-  Homepage: https://www.blosc.org
 - Package: libbluray
   Version: 1.4.1
   Description: An open-source library designed for Blu-Ray Discs playback for media players
@@ -4023,7 +4019,7 @@
   Description: Static libraries for libdb
   Homepage: https://www.oracle.com/database/berkeley-db
 - Package: libde265
-  Version: 1.0.16-1
+  Version: 1.0.18
   Description: H.265/HEVC video stream decoder library
   Homepage: https://github.com/strukturag/libde265
 - Package: libde265-static
@@ -8282,10 +8278,6 @@
   Version: 5.9.2-1
   Description: A Standard ML implementation
   Homepage: https://www.polyml.org/
-- Package: polyml-static
-  Version: 5.9.2
-  Description: Static libraries for polyml
-  Homepage: https://www.polyml.org/
 - Package: pomodoro-curses
   Version: 2.5-1
   Description: A simple pomodoro timer written with the Ncurses library
@@ -8383,7 +8375,7 @@
   Description: Generic coordinate transformation software
   Homepage: https://proj.org
 - Package: proot
-  Version: 5.1.107-70
+  Version: 5.1.107-71
   Description: Emulate chroot, bind mount and binfmt_misc for non-root users
   Homepage: https://proot-me.github.io/
 - Package: proot-distro
