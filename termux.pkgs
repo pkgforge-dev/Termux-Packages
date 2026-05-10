@@ -271,7 +271,7 @@
 | **colm** | 0.14.7-2 | COmputer Language Machinery | https://www.colm.net/open-source/colm/ |
 | **colm-static** | 0.14.7-2 | Static libraries for colm | https://www.colm.net/open-source/colm/ |
 | **colordiff** | 1.0.22 | Tool to colorize 'diff' output | https://www.colordiff.org/ |
-| **command-not-found** | 3.4.1-8 | Suggest installation of packages in interactive shell sessions | https://github.com/termux/command-not-found |
+| **command-not-found** | 3.4.1-9 | Suggest installation of packages in interactive shell sessions | https://github.com/termux/command-not-found |
 | **composer** | 2.9.7 | Dependency Manager for PHP | https://getcomposer.org/ |
 | **console-bridge** | 1.0.2-1 | A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages | https://github.com/ros/console_bridge |
 | **convertlit** | 1.8-2 | An extractor/converter for .LIT eBooks | http://www.convertlit.com/ |
@@ -485,7 +485,7 @@
 | **fcgi-static** | 2.4.7 | Static libraries for fcgi | https://fastcgi-archives.github.io/ |
 | **fcgiwrap** | 1.1.0+g99c942c | A simple server for running CGI applications over FastCGI | https://github.com/gnosek/fcgiwrap |
 | **fclones** | 0.35.0-1 | Efficient Duplicate File Finder | https://github.com/pkolaczk/fclones |
-| **fcp** | 0.2.1-4 | A significantly faster alternative to the classic Unix cp(1) command | https://github.com/Svetlitski/fcp |
+| **fcp** | 0.2.2 | A significantly faster alternative to the classic Unix cp(1) command | https://github.com/Svetlitski/fcp |
 | **fd** | 10.4.2 | Simple, fast and user-friendly alternative to find | https://github.com/sharkdp/fd |
 | **fdisk** | 2.41.3 | Utilities to manipulate disk partition tables | https://en.wikipedia.org/wiki/Util-linux |
 | **fdkaac** | 1.0.7 | command line encoder frontend for libfdk-aac | https://github.com/nu774/fdkaac |
@@ -1144,10 +1144,10 @@
 | **libiniparser-static** | 4.2.6-2 | Static libraries for libiniparser | https://github.com/ndevilla/iniparser |
 | **libiodbc** | 3.52.16-1 | Independent Open DataBase Connectivity for Linux, MacOS X and Unix systems | https://www.iodbc.org/ |
 | **libiodbc-static** | 3.52.16-1 | Static libraries for libiodbc | https://www.iodbc.org/ |
-| **libisoburn** | 1.5.6-1 | Frontend for libraries libburn and libisofs | https://dev.lovelyhq.com/libburnia |
-| **libisoburn-static** | 1.5.6-1 | Static libraries for libisoburn | https://dev.lovelyhq.com/libburnia |
-| **libisofs** | 1.5.6.pl01-1 | Library to pack up hard disk files and directories into a ISO 9660 disk image | https://dev.lovelyhq.com/libburnia |
-| **libisofs-static** | 1.5.6.pl01-1 | Static libraries for libisofs | https://dev.lovelyhq.com/libburnia |
+| **libisoburn** | 1.5.8 | Frontend for libraries libburn and libisofs | https://dev.lovelyhq.com/libburnia |
+| **libisoburn-static** | 1.5.8 | Static libraries for libisoburn | https://dev.lovelyhq.com/libburnia |
+| **libisofs** | 1.5.8.pl01 | Library to pack up hard disk files and directories into a ISO 9660 disk image | https://dev.lovelyhq.com/libburnia |
+| **libisofs-static** | 1.5.8.pl01 | Static libraries for libisofs | https://dev.lovelyhq.com/libburnia |
 | **libjanet** | 1.41.2 | Development library for Janet | https://janet-lang.org |
 | **libjanet-static** | 1.41.2 | Static libraries for libjanet | https://janet-lang.org |
 | **libjansi** | 2.4.3 | A small java library that allows you to use ANSI escape codes to format your console output | https://fusesource.github.io/jansi/ |

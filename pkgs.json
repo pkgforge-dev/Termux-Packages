@@ -1639,7 +1639,7 @@
   },
   {
     "Package": "command-not-found",
-    "Version": "3.4.1-8",
+    "Version": "3.4.1-9",
     "Description": "Suggest installation of packages in interactive shell sessions",
     "Homepage": "https://github.com/termux/command-not-found"
   },
@@ -2923,7 +2923,7 @@
   },
   {
     "Package": "fcp",
-    "Version": "0.2.1-4",
+    "Version": "0.2.2",
     "Description": "A significantly faster alternative to the classic Unix cp(1) command",
     "Homepage": "https://github.com/Svetlitski/fcp"
   },
@@ -6877,25 +6877,25 @@
   },
   {
     "Package": "libisoburn",
-    "Version": "1.5.6-1",
+    "Version": "1.5.8",
     "Description": "Frontend for libraries libburn and libisofs",
     "Homepage": "https://dev.lovelyhq.com/libburnia"
   },
   {
     "Package": "libisoburn-static",
-    "Version": "1.5.6-1",
+    "Version": "1.5.8",
     "Description": "Static libraries for libisoburn",
     "Homepage": "https://dev.lovelyhq.com/libburnia"
   },
   {
     "Package": "libisofs",
-    "Version": "1.5.6.pl01-1",
+    "Version": "1.5.8.pl01",
     "Description": "Library to pack up hard disk files and directories into a ISO 9660 disk image",
     "Homepage": "https://dev.lovelyhq.com/libburnia"
   },
   {
     "Package": "libisofs-static",
-    "Version": "1.5.6.pl01-1",
+    "Version": "1.5.8.pl01",
     "Description": "Static libraries for libisofs",
     "Homepage": "https://dev.lovelyhq.com/libburnia"
   },
