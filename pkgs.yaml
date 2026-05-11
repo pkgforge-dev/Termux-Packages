@@ -4191,11 +4191,11 @@
   Description: Static libraries for libexif
   Homepage: https://libexif.github.io/
 - Package: libexpat
-  Version: 2.8.0
+  Version: 2.8.1
   Description: XML parsing C library
   Homepage: https://libexpat.github.io/
 - Package: libexpat-static
-  Version: 2.8.0
+  Version: 2.8.1
   Description: Static libraries for libexpat
   Homepage: https://libexpat.github.io/
 - Package: libfann
@@ -8827,7 +8827,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 4.57.1
+  Version: 4.57.2
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
