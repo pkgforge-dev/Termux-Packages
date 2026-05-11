@@ -2323,11 +2323,11 @@
   Description: Utility to print configuration values
   Homepage: https://github.com/termux/getconf
 - Package: geth
-  Version: 1.17.2
+  Version: 1.17.3
   Description: Go implementation of the Ethereum protocol
   Homepage: https://geth.ethereum.org/
 - Package: geth-utils
-  Version: 1.17.2
+  Version: 1.17.3
   Description: Additional utilities for Geth (like abigen, bootnode, evm, puppeth)
   Homepage: https://geth.ethereum.org/
 - Package: gettext
@@ -7907,11 +7907,11 @@
   Description: Open Virtual Machine Firmware
   Homepage: https://www.tianocore.org/
 - Package: oxfmt
-  Version: 1.63.0
+  Version: 1.64.0
   Description: Oxc JavaScript formatter
   Homepage: https://oxc.rs/
 - Package: oxlint
-  Version: 1.63.0
+  Version: 1.64.0
   Description: Oxc JavaScript linter
   Homepage: https://oxc.rs/
 - Package: p11-kit
@@ -8067,7 +8067,7 @@
   Description: A PDF to SVG converter
   Homepage: http://www.cityinthesky.co.uk/opensource/pdf2svg/
 - Package: pdfcpu
-  Version: 0.12.0
+  Version: 0.12.1
   Description: A PDF processor written in Go
   Homepage: https://pdfcpu.io
 - Package: pdfgrep

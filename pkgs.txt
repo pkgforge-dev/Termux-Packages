@@ -579,8 +579,8 @@
  geoip2-database  20191221-2  GeoLite2 IP geolocation databases compiled by MaxMind  https://dev.maxmind.com/geoip/geoip2/geolite2/ 
  germanium  1.2.3-3  Generate image from source code  https://github.com/matsuyoshi30/germanium 
  getconf  0.6-1  Utility to print configuration values  https://github.com/termux/getconf 
- geth  1.17.2  Go implementation of the Ethereum protocol  https://geth.ethereum.org/ 
- geth-utils  1.17.2  Additional utilities for Geth (like abigen, bootnode, evm, puppeth)  https://geth.ethereum.org/ 
+ geth  1.17.3  Go implementation of the Ethereum protocol  https://geth.ethereum.org/ 
+ geth-utils  1.17.3  Additional utilities for Geth (like abigen, bootnode, evm, puppeth)  https://geth.ethereum.org/ 
  gettext  1.0  GNU Internationalization utilities  https://www.gnu.org/software/gettext/ 
  gettext-static  1.0  Static libraries for gettext  https://www.gnu.org/software/gettext/ 
  gexiv2  0.14.6-1  A GObject-based Exiv2 wrapper  https://wiki.gnome.org/Projects/gexiv2 
@@ -1975,8 +1975,8 @@
  ossp-uuid  1.6.2-4  ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122.  http://www.ossp.org/pkg/lib/uuid/ 
  ossp-uuid-static  1.6.2-4  Static libraries for ossp-uuid  http://www.ossp.org/pkg/lib/uuid/ 
  ovmf  20231122-16.fc40-0  Open Virtual Machine Firmware  https://www.tianocore.org/ 
- oxfmt  1.63.0  Oxc JavaScript formatter  https://oxc.rs/ 
- oxlint  1.63.0  Oxc JavaScript linter  https://oxc.rs/ 
+ oxfmt  1.64.0  Oxc JavaScript formatter  https://oxc.rs/ 
+ oxlint  1.64.0  Oxc JavaScript linter  https://oxc.rs/ 
  p11-kit  0.26.2  Provides a way to load and enumerate PKCS#11 modules  https://p11-glue.github.io/p11-glue/p11-kit.html 
  p7zip  17.06-1  Command-line version of the 7zip compressed file archiver  https://github.com/p7zip-project/p7zip 
  pacman  7.1.0-3  A library-based package manager with dependency support  https://archlinux.org/pacman/ 
@@ -2015,7 +2015,7 @@
  pcregrep  8.45-2  A grep with Perl-compatible regular expressions  https://www.pcre.org 
  pcscd  2.4.1  Middleware to access a smart card using SCard API (PC/SC). (daemon side)  https://pcsclite.apdu.fr/ 
  pdf2svg  0.2.4-2  A PDF to SVG converter  http://www.cityinthesky.co.uk/opensource/pdf2svg/ 
- pdfcpu  0.12.0  A PDF processor written in Go  https://pdfcpu.io 
+ pdfcpu  0.12.1  A PDF processor written in Go  https://pdfcpu.io 
  pdfgrep  2.2.0-5  Command line utility to search text in PDF files  https://pdfgrep.org/ 
  pdftk  3.3.3-3  A simple tool for doing everyday things with PDF documents  https://gitlab.com/pdftk-java/pdftk 
  peaclock  0.4.3-9  A responsive and customizable clock, timer, and stopwatch for the terminal.  https://github.com/octobanana/peaclock 

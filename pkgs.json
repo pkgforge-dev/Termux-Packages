@@ -3487,13 +3487,13 @@
   },
   {
     "Package": "geth",
-    "Version": "1.17.2",
+    "Version": "1.17.3",
     "Description": "Go implementation of the Ethereum protocol",
     "Homepage": "https://geth.ethereum.org/"
   },
   {
     "Package": "geth-utils",
-    "Version": "1.17.2",
+    "Version": "1.17.3",
     "Description": "Additional utilities for Geth (like abigen, bootnode, evm, puppeth)",
     "Homepage": "https://geth.ethereum.org/"
   },
@@ -11863,13 +11863,13 @@
   },
   {
     "Package": "oxfmt",
-    "Version": "1.63.0",
+    "Version": "1.64.0",
     "Description": "Oxc JavaScript formatter",
     "Homepage": "https://oxc.rs/"
   },
   {
     "Package": "oxlint",
-    "Version": "1.63.0",
+    "Version": "1.64.0",
     "Description": "Oxc JavaScript linter",
     "Homepage": "https://oxc.rs/"
   },
@@ -12103,7 +12103,7 @@
   },
   {
     "Package": "pdfcpu",
-    "Version": "0.12.0",
+    "Version": "0.12.1",
     "Description": "A PDF processor written in Go",
     "Homepage": "https://pdfcpu.io"
   },
