@@ -2391,7 +2391,7 @@
   Description: Fast, scalable, distributed revision control system
   Homepage: https://git-scm.com/
 - Package: git-credential-manager
-  Version: 2.7.3
+  Version: 2.8.0
   Description: Cross-platform Git credential storage for multiple hosting providers
   Homepage: https://aka.ms/gcm
 - Package: git-crypt
@@ -9803,7 +9803,7 @@
   Description: Swiss Army Knife for SMTP
   Homepage: http://jetmore.org/john/code/swaks/
 - Package: swi-prolog
-  Version: 10.1.6
+  Version: 10.1.7
   Description: Most popular and complete prolog implementation
   Homepage: https://swi-prolog.org/
 - Package: swift
@@ -9867,7 +9867,7 @@
   Description: Static libraries for ta-lib
   Homepage: https://ta-lib.org/
 - Package: taglib
-  Version: 2.2.1
+  Version: "2.3"
   Description: A Library for reading and editing the meta-data of several popular audio formats.
   Homepage: http://taglib.github.io/
 - Package: taplo
