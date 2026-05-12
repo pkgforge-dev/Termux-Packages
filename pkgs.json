@@ -169,7 +169,7 @@
   },
   {
     "Package": "algernon",
-    "Version": "1.17.6",
+    "Version": "1.17.7",
     "Description": "Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support",
     "Homepage": "https://algernon.roboticoverlords.org/"
   },
@@ -505,7 +505,7 @@
   },
   {
     "Package": "aspnetcore-runtime-10.0",
-    "Version": "10.0.7",
+    "Version": "10.0.8",
     "Description": "ASP.NET Core 10.0 Runtime",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -523,7 +523,7 @@
   },
   {
     "Package": "aspnetcore-runtime-dbg-10.0",
-    "Version": "10.0.7",
+    "Version": "10.0.8",
     "Description": "ASP.NET Core 10.0 Runtime Managed Debug Symbols",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -541,7 +541,7 @@
   },
   {
     "Package": "aspnetcore-targeting-pack-10.0",
-    "Version": "10.0.7",
+    "Version": "10.0.8",
     "Description": "ASP.NET Core 10.0 Targeting Pack",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -1159,7 +1159,7 @@
   },
   {
     "Package": "caddy",
-    "Version": "2.11.2",
+    "Version": "2.11.3",
     "Description": "Fast, cross-platform HTTP/2 web server",
     "Homepage": "https://caddyserver.com/"
   },
@@ -2257,7 +2257,7 @@
   },
   {
     "Package": "dotnet-apphost-pack-10.0",
-    "Version": "10.0.7",
+    "Version": "10.0.8",
     "Description": ".NET 10.0 Targeting Pack",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2281,7 +2281,7 @@
   },
   {
     "Package": "dotnet-host-10.0",
-    "Version": "10.0.7",
+    "Version": "10.0.8",
     "Description": ".NET 10.0 Host",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2299,7 +2299,7 @@
   },
   {
     "Package": "dotnet-hostfxr-10.0",
-    "Version": "10.0.7",
+    "Version": "10.0.8",
     "Description": ".NET 10.0 Host Resolver",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2317,7 +2317,7 @@
   },
   {
     "Package": "dotnet-runtime-10.0",
-    "Version": "10.0.7",
+    "Version": "10.0.8",
     "Description": ".NET 10.0 Runtime",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2335,7 +2335,7 @@
   },
   {
     "Package": "dotnet-runtime-dbg-10.0",
-    "Version": "10.0.7",
+    "Version": "10.0.8",
     "Description": ".NET 10.0 Runtime Managed Debug Symbols",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2353,7 +2353,7 @@
   },
   {
     "Package": "dotnet-sdk-10.0",
-    "Version": "10.0.7",
+    "Version": "10.0.8",
     "Description": ".NET 10.0 SDK",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2371,7 +2371,7 @@
   },
   {
     "Package": "dotnet-sdk-dbg-10.0",
-    "Version": "10.0.7",
+    "Version": "10.0.8",
     "Description": ".NET 10.0 SDK Managed Debug Symbols",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2389,7 +2389,7 @@
   },
   {
     "Package": "dotnet-targeting-pack-10.0",
-    "Version": "10.0.7",
+    "Version": "10.0.8",
     "Description": ".NET 10.0 Targeting Pack",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2407,7 +2407,7 @@
   },
   {
     "Package": "dotnet-templates-10.0",
-    "Version": "10.0.7",
+    "Version": "10.0.8",
     "Description": ".NET 10.0 Templates",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2425,7 +2425,7 @@
   },
   {
     "Package": "dotnet10.0",
-    "Version": "10.0.7",
+    "Version": "10.0.8",
     "Description": ".NET 10.0",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -3127,7 +3127,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.4.50",
+    "Version": "0.4.51",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -4069,7 +4069,7 @@
   },
   {
     "Package": "gradle",
-    "Version": "1:9.5.0",
+    "Version": "1:9.5.1",
     "Description": "Powerful build system for the JVM",
     "Homepage": "https://gradle.org/"
   },
@@ -13249,7 +13249,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "4.57.5",
+    "Version": "4.58.0",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -14347,7 +14347,7 @@
   },
   {
     "Package": "spirv-headers",
-    "Version": "1.4.341.0",
+    "Version": "1.4.350.0",
     "Description": "SPIR-V Headers",
     "Homepage": "https://github.com/KhronosGroup/SPIRV-Headers"
   },
@@ -14359,13 +14359,13 @@
   },
   {
     "Package": "spirv-tools",
-    "Version": "1.4.341.0",
+    "Version": "1.4.350.0",
     "Description": "SPIR-V Tools",
     "Homepage": "https://github.com/KhronosGroup/SPIRV-Tools"
   },
   {
     "Package": "sqlcipher",
-    "Version": "4.15.0-1",
+    "Version": "4.16.0",
     "Description": "SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files",
     "Homepage": "https://github.com/sqlcipher/sqlcipher"
   },
@@ -14917,7 +14917,7 @@
   },
   {
     "Package": "teleport-tsh",
-    "Version": "18.7.6",
+    "Version": "18.8.0",
     "Description": "Secure Access for Developers that doesnt get in the way",
     "Homepage": "https://github.com/gravitational/teleport"
   },
@@ -15913,7 +15913,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.11.13",
+    "Version": "0.11.14",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },

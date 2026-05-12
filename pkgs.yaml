@@ -111,7 +111,7 @@
   Description: A framework for sharing scene data that includes a C++ lib, a file format and client plugin
   Homepage: https://alembic.io
 - Package: algernon
-  Version: 1.17.6
+  Version: 1.17.7
   Description: Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support
   Homepage: https://algernon.roboticoverlords.org/
 - Package: alpine
@@ -335,7 +335,7 @@
   Description: Static libraries for aspell
   Homepage: http://aspell.net
 - Package: aspnetcore-runtime-10.0
-  Version: 10.0.7
+  Version: 10.0.8
   Description: ASP.NET Core 10.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-runtime-8.0
@@ -347,7 +347,7 @@
   Description: ASP.NET Core 9.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-runtime-dbg-10.0
-  Version: 10.0.7
+  Version: 10.0.8
   Description: ASP.NET Core 10.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-runtime-dbg-8.0
@@ -359,7 +359,7 @@
   Description: ASP.NET Core 9.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-targeting-pack-10.0
-  Version: 10.0.7
+  Version: 10.0.8
   Description: ASP.NET Core 10.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-targeting-pack-8.0
@@ -771,7 +771,7 @@
   Description: A command-line WebDAV client for Unix
   Homepage: https://notroj.github.io/cadaver/
 - Package: caddy
-  Version: 2.11.2
+  Version: 2.11.3
   Description: Fast, cross-platform HTTP/2 web server
   Homepage: https://caddyserver.com/
 - Package: calc
@@ -1503,7 +1503,7 @@
   Description: Static libraries for dotconf
   Homepage: https://github.com/williamh/dotconf
 - Package: dotnet-apphost-pack-10.0
-  Version: 10.0.7
+  Version: 10.0.8
   Description: .NET 10.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-apphost-pack-8.0
@@ -1519,7 +1519,7 @@
   Description: A metapackage for .NET Host
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-host-10.0
-  Version: 10.0.7
+  Version: 10.0.8
   Description: .NET 10.0 Host
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-host-8.0
@@ -1531,7 +1531,7 @@
   Description: .NET 9.0 Host
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-hostfxr-10.0
-  Version: 10.0.7
+  Version: 10.0.8
   Description: .NET 10.0 Host Resolver
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-hostfxr-8.0
@@ -1543,7 +1543,7 @@
   Description: .NET 9.0 Host Resolver
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-10.0
-  Version: 10.0.7
+  Version: 10.0.8
   Description: .NET 10.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-8.0
@@ -1555,7 +1555,7 @@
   Description: .NET 9.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-dbg-10.0
-  Version: 10.0.7
+  Version: 10.0.8
   Description: .NET 10.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-dbg-8.0
@@ -1567,7 +1567,7 @@
   Description: .NET 9.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-10.0
-  Version: 10.0.7
+  Version: 10.0.8
   Description: .NET 10.0 SDK
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-8.0
@@ -1579,7 +1579,7 @@
   Description: .NET 9.0 SDK
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-dbg-10.0
-  Version: 10.0.7
+  Version: 10.0.8
   Description: .NET 10.0 SDK Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-dbg-8.0
@@ -1591,7 +1591,7 @@
   Description: .NET 9.0 SDK Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-targeting-pack-10.0
-  Version: 10.0.7
+  Version: 10.0.8
   Description: .NET 10.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-targeting-pack-8.0
@@ -1603,7 +1603,7 @@
   Description: .NET 9.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-templates-10.0
-  Version: 10.0.7
+  Version: 10.0.8
   Description: .NET 10.0 Templates
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-templates-8.0
@@ -1615,7 +1615,7 @@
   Description: .NET 9.0 Templates
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet10.0
-  Version: 10.0.7
+  Version: 10.0.8
   Description: .NET 10.0
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet8.0
@@ -2083,7 +2083,7 @@
   Description: Software synthesizer based on the SoundFont 2 specifications
   Homepage: https://github.com/FluidSynth/fluidsynth
 - Package: flyctl
-  Version: 0.4.50
+  Version: 0.4.51
   Description: Command line tools for fly.io services
   Homepage: https://fly.io
 - Package: fm
@@ -2711,7 +2711,7 @@
   Description: GPS file conversion plus transfer to/from GPS units
   Homepage: https://www.gpsbabel.org/
 - Package: gradle
-  Version: 1:9.5.0
+  Version: 1:9.5.1
   Description: Powerful build system for the JVM
   Homepage: https://gradle.org/
 - Package: grafana
@@ -8831,7 +8831,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 4.57.5
+  Version: 4.58.0
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
@@ -9563,7 +9563,7 @@
   Description: a utility for creating symmetrically encrypted and authenticated pipes between socket addresses
   Homepage: https://www.tarsnap.com/spiped.html
 - Package: spirv-headers
-  Version: 1.4.341.0
+  Version: 1.4.350.0
   Description: SPIR-V Headers
   Homepage: https://github.com/KhronosGroup/SPIRV-Headers
 - Package: spirv-llvm-translator
@@ -9571,11 +9571,11 @@
   Description: SPIR-V LLVM Translator
   Homepage: https://github.com/KhronosGroup/SPIRV-LLVM-Translator
 - Package: spirv-tools
-  Version: 1.4.341.0
+  Version: 1.4.350.0
   Description: SPIR-V Tools
   Homepage: https://github.com/KhronosGroup/SPIRV-Tools
 - Package: sqlcipher
-  Version: 4.15.0-1
+  Version: 4.16.0
   Description: SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files
   Homepage: https://github.com/sqlcipher/sqlcipher
 - Package: sqlite
@@ -9943,7 +9943,7 @@
   Description: Telegram Bot API server
   Homepage: https://github.com/tdlib/telegram-bot-api
 - Package: teleport-tsh
-  Version: 18.7.6
+  Version: 18.8.0
   Description: Secure Access for Developers that doesnt get in the way
   Homepage: https://github.com/gravitational/teleport
 - Package: tere
@@ -10607,7 +10607,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.11.13
+  Version: 0.11.14
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi

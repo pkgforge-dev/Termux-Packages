@@ -38,7 +38,7 @@
 | **aidl** | 13.0.0.6-23 | Android Interface Definition Language (AIDL) | https://elinux.org/Android_aapt |
 | **alass** | 2.0.0-4 | Automatic Language-Agnostic Subtitle Synchronization | https://github.com/kaegi/alass |
 | **alembic** | 1.8.11 | A framework for sharing scene data that includes a C++ lib, a file format and client plugin | https://alembic.io |
-| **algernon** | 1.17.6 | Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support | https://algernon.roboticoverlords.org/ |
+| **algernon** | 1.17.7 | Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support | https://algernon.roboticoverlords.org/ |
 | **alpine** | 2.26-1 | Fast, easy to use email client | http://alpine.x10host.com/ |
 | **alsa-lib** | 1.2.15.3 | The Advanced Linux Sound Architecture (ALSA) - library | https://www.alsa-project.org |
 | **alsa-plugins** | 1.2.12-1 | The Advanced Linux Sound Architecture (ALSA) - plugins | https://www.alsa-project.org |
@@ -94,13 +94,13 @@
 | **aspell-es** | 2:1.11-2-0 | Spanish dictionary for aspell | http://aspell.net/ |
 | **aspell-fr** | 2:0.50-3-1 | French dictionary for aspell | http://aspell.net/ |
 | **aspell-static** | 0.60.8.2 | Static libraries for aspell | http://aspell.net |
-| **aspnetcore-runtime-10.0** | 10.0.7 | ASP.NET Core 10.0 Runtime | https://dotnet.microsoft.com/en-us/ |
+| **aspnetcore-runtime-10.0** | 10.0.8 | ASP.NET Core 10.0 Runtime | https://dotnet.microsoft.com/en-us/ |
 | **aspnetcore-runtime-8.0** | 8.0.26 | ASP.NET Core 8.0 Runtime | https://dotnet.microsoft.com/en-us/ |
 | **aspnetcore-runtime-9.0** | 9.0.15 | ASP.NET Core 9.0 Runtime | https://dotnet.microsoft.com/en-us/ |
-| **aspnetcore-runtime-dbg-10.0** | 10.0.7 | ASP.NET Core 10.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
+| **aspnetcore-runtime-dbg-10.0** | 10.0.8 | ASP.NET Core 10.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
 | **aspnetcore-runtime-dbg-8.0** | 8.0.26 | ASP.NET Core 8.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
 | **aspnetcore-runtime-dbg-9.0** | 9.0.15 | ASP.NET Core 9.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
-| **aspnetcore-targeting-pack-10.0** | 10.0.7 | ASP.NET Core 10.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
+| **aspnetcore-targeting-pack-10.0** | 10.0.8 | ASP.NET Core 10.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **aspnetcore-targeting-pack-8.0** | 8.0.26 | ASP.NET Core 8.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **aspnetcore-targeting-pack-9.0** | 9.0.15 | ASP.NET Core 9.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **assimp** | 6.0.5 | Library to import various well-known 3D model formats in an uniform manner | https://assimp.sourceforge.net/index.html |
@@ -203,7 +203,7 @@
 | **cabextract** | 1.11-1 | A program to extract Microsoft cabinet (.CAB) files | https://www.cabextract.org.uk/ |
 | **cabin** | 0.13.0-1 | A package manager and build system for C++ | https://github.com/cabinpkg/cabin |
 | **cadaver** | 0.28 | A command-line WebDAV client for Unix | https://notroj.github.io/cadaver/ |
-| **caddy** | 2.11.2 | Fast, cross-platform HTTP/2 web server | https://caddyserver.com/ |
+| **caddy** | 2.11.3 | Fast, cross-platform HTTP/2 web server | https://caddyserver.com/ |
 | **calc** | 2.16.1.3 | Arbitrary precision console calculator | http://www.isthe.com/chongo/tech/comp/calc/ |
 | **calcurse** | 4.8.2-2 | calcurse is a calendar and scheduling application for the command line | https://calcurse.org/ |
 | **calcurse-caldav** | 4.8.2-2 | Sync calcurse with remote caldav calendar | https://calcurse.org/ |
@@ -386,35 +386,35 @@
 | **dosfstools** | 4.2-1 | DOS file system utilities | https://github.com/dosfstools/dosfstools |
 | **dotconf** | 1.4.1-1 | dot.conf configuration file parser | https://github.com/williamh/dotconf |
 | **dotconf-static** | 1.4.1-1 | Static libraries for dotconf | https://github.com/williamh/dotconf |
-| **dotnet-apphost-pack-10.0** | 10.0.7 | .NET 10.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-apphost-pack-10.0** | 10.0.8 | .NET 10.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-apphost-pack-8.0** | 8.0.26 | .NET 8.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-apphost-pack-9.0** | 9.0.15 | .NET 9.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-host** | 10.0 | A metapackage for .NET Host | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-host-10.0** | 10.0.7 | .NET 10.0 Host | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-host-10.0** | 10.0.8 | .NET 10.0 Host | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-host-8.0** | 8.0.26 | .NET 8.0 Host | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-host-9.0** | 9.0.15 | .NET 9.0 Host | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-hostfxr-10.0** | 10.0.7 | .NET 10.0 Host Resolver | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-hostfxr-10.0** | 10.0.8 | .NET 10.0 Host Resolver | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-hostfxr-8.0** | 8.0.26 | .NET 8.0 Host Resolver | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-hostfxr-9.0** | 9.0.15 | .NET 9.0 Host Resolver | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-runtime-10.0** | 10.0.7 | .NET 10.0 Runtime | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-runtime-10.0** | 10.0.8 | .NET 10.0 Runtime | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-runtime-8.0** | 8.0.26 | .NET 8.0 Runtime | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-runtime-9.0** | 9.0.15 | .NET 9.0 Runtime | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-runtime-dbg-10.0** | 10.0.7 | .NET 10.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-runtime-dbg-10.0** | 10.0.8 | .NET 10.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-runtime-dbg-8.0** | 8.0.26 | .NET 8.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-runtime-dbg-9.0** | 9.0.15 | .NET 9.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-sdk-10.0** | 10.0.7 | .NET 10.0 SDK | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-sdk-10.0** | 10.0.8 | .NET 10.0 SDK | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-sdk-8.0** | 8.0.26 | .NET 8.0 SDK | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-sdk-9.0** | 9.0.15 | .NET 9.0 SDK | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-sdk-dbg-10.0** | 10.0.7 | .NET 10.0 SDK Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-sdk-dbg-10.0** | 10.0.8 | .NET 10.0 SDK Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-sdk-dbg-8.0** | 8.0.26 | .NET 8.0 SDK Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-sdk-dbg-9.0** | 9.0.15 | .NET 9.0 SDK Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-targeting-pack-10.0** | 10.0.7 | .NET 10.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-targeting-pack-10.0** | 10.0.8 | .NET 10.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-targeting-pack-8.0** | 8.0.26 | .NET 8.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-targeting-pack-9.0** | 9.0.15 | .NET 9.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-templates-10.0** | 10.0.7 | .NET 10.0 Templates | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-templates-10.0** | 10.0.8 | .NET 10.0 Templates | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-templates-8.0** | 8.0.26 | .NET 8.0 Templates | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-templates-9.0** | 9.0.15 | .NET 9.0 Templates | https://dotnet.microsoft.com/en-us/ |
-| **dotnet10.0** | 10.0.7 | .NET 10.0 | https://dotnet.microsoft.com/en-us/ |
+| **dotnet10.0** | 10.0.8 | .NET 10.0 | https://dotnet.microsoft.com/en-us/ |
 | **dotnet8.0** | 8.0.26 | .NET 8.0 | https://dotnet.microsoft.com/en-us/ |
 | **dotnet9.0** | 9.0.15 | .NET 9.0 | https://dotnet.microsoft.com/en-us/ |
 | **double-conversion** | 3.4.0 | Binary-decimal and decimal-binary routines for IEEE doubles | https://github.com/google/double-conversion |
@@ -531,7 +531,7 @@
 | **flex-static** | 2.6.4-4 | Static libraries for flex | https://github.com/westes/flex |
 | **flint** | 3.5.0 | C library for doing number theory | http://www.flintlib.org |
 | **fluidsynth** | 2.5.4 | Software synthesizer based on the SoundFont 2 specifications | https://github.com/FluidSynth/fluidsynth |
-| **flyctl** | 0.4.50 | Command line tools for fly.io services | https://fly.io |
+| **flyctl** | 0.4.51 | Command line tools for fly.io services | https://fly.io |
 | **fm** | 1.2.0 | A terminal based file manager | https://github.com/knipferrc/fm |
 | **fmt** | 1:11.2.0 | Open-source formatting library for C++ | https://fmt.dev/latest/index.html |
 | **fontconfig** | 2.17.1-1 | Library for configuring and customizing font access | https://www.freedesktop.org/wiki/Software/fontconfig/ |
@@ -688,7 +688,7 @@
 | **gpgv** | 2.5.17 | GNU privacy guard - signature verification tool | https://www.gnupg.org/ |
 | **gping** | 1.20.1-1 | Ping, but with a graph | https://github.com/orf/gping |
 | **gpsbabel** | 1.4.4-3 | GPS file conversion plus transfer to/from GPS units | https://www.gpsbabel.org/ |
-| **gradle** | 1:9.5.0 | Powerful build system for the JVM | https://gradle.org/ |
+| **gradle** | 1:9.5.1 | Powerful build system for the JVM | https://gradle.org/ |
 | **grafana** | 1:12.3.3 | The open-source platform for monitoring and observability | https://grafana.com/ |
 | **grap** | 1.49 | Language for typesetting graphs | https://www.lunabase.org/~faber/Vault/software/grap/ |
 | **graphene** | 1.10.8-3 | A thin layer of graphic data types | https://ebassi.github.io/graphene/ |
@@ -2218,7 +2218,7 @@
 | **rage** | 0.11.2 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4-1 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4-1 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
-| **railway-cli** | 4.57.5 | This is the command line interface for Railway | https://railway.app |
+| **railway-cli** | 4.58.0 | This is the command line interface for Railway | https://railway.app |
 | **range-v3** | 0.12.0 | Range library for C++14/17/20, basis for C++20's std::ranges | https://github.com/ericniebler/range-v3 |
 | **ranger** | 1.9.4-1 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-7 | Fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |
@@ -2401,10 +2401,10 @@
 | **spglib** | 2.7.0 | C library for finding and handling crystal symmetries | https://spglib.github.io/spglib/index.html |
 | **spidermonkey** | 128.10.0-2 | Mozilla's JavaScript engine | https://spidermonkey.dev |
 | **spiped** | 1.6.4-1 | a utility for creating symmetrically encrypted and authenticated pipes between socket addresses | https://www.tarsnap.com/spiped.html |
-| **spirv-headers** | 1.4.341.0 | SPIR-V Headers | https://github.com/KhronosGroup/SPIRV-Headers |
+| **spirv-headers** | 1.4.350.0 | SPIR-V Headers | https://github.com/KhronosGroup/SPIRV-Headers |
 | **spirv-llvm-translator** | 21.1.7 | SPIR-V LLVM Translator | https://github.com/KhronosGroup/SPIRV-LLVM-Translator |
-| **spirv-tools** | 1.4.341.0 | SPIR-V Tools | https://github.com/KhronosGroup/SPIRV-Tools |
-| **sqlcipher** | 4.15.0-1 | SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files | https://github.com/sqlcipher/sqlcipher |
+| **spirv-tools** | 1.4.350.0 | SPIR-V Tools | https://github.com/KhronosGroup/SPIRV-Tools |
+| **sqlcipher** | 4.16.0 | SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files | https://github.com/sqlcipher/sqlcipher |
 | **sqlite** | 3.53.1 | Command line shell for SQLite | https://www.sqlite.org |
 | **squashfs-tools-ng** | 1.3.2-1 | New set of tools for working with SquashFS images | https://github.com/AgentD/squashfs-tools-ng |
 | **squashfs-tools-ng-static** | 1.3.2-1 | Static libraries for squashfs-tools-ng | https://github.com/AgentD/squashfs-tools-ng |
@@ -2496,7 +2496,7 @@
 | **teckit-static** | 2.5.13 | Static libraries for teckit | https://scripts.sil.org/teckitdownloads |
 | **tectonic** | 0.16.9 | A modernized, complete, self-contained TeX/LaTeX engine | https://tectonic-typesetting.github.io/ |
 | **telegram-bot-api** | 20241031-2 | Telegram Bot API server | https://github.com/tdlib/telegram-bot-api |
-| **teleport-tsh** | 18.7.6 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
+| **teleport-tsh** | 18.8.0 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
 | **tere** | 1.6.0-1 | Terminal file explorer written in rust | https://github.com/mgunyho/tere |
 | **tergent** | 1.0.0-5 | A cryptoki/PKCS#11 library for Termux that uses Android Keystore as its backend | https://github.com/aeolwyr/tergent |
 | **termimage** | 1.2.1-1 | Terminal image viewer | https://github.com/nabijaczleweli/termimage |
@@ -2662,7 +2662,7 @@
 | **util-linux-static** | 2.41.3 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-2 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.41.3 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **uv** | 0.11.13 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
+| **uv** | 0.11.14 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.31-1 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.48.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.19 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
