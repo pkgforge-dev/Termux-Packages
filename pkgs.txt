@@ -518,7 +518,7 @@
  flex-static  2.6.4-4  Static libraries for flex  https://github.com/westes/flex 
  flint  3.5.0  C library for doing number theory  http://www.flintlib.org 
  fluidsynth  2.5.4  Software synthesizer based on the SoundFont 2 specifications  https://github.com/FluidSynth/fluidsynth 
- flyctl  0.4.49  Command line tools for fly.io services  https://fly.io 
+ flyctl  0.4.50  Command line tools for fly.io services  https://fly.io 
  fm  1.2.0  A terminal based file manager  https://github.com/knipferrc/fm 
  fmt  1:11.2.0  Open-source formatting library for C++  https://fmt.dev/latest/index.html 
  fontconfig  2.17.1-1  Library for configuring and customizing font access  https://www.freedesktop.org/wiki/Software/fontconfig/ 
@@ -710,7 +710,7 @@
  gumbo-parser-static  0.10.1-1  Static libraries for gumbo-parser  https://github.com/google/gumbo-parser 
  gweather-locations  2026.2  The GWeather locations database  https://gitlab.gnome.org/GNOME/gweather-locations 
  gzip  1.14-1  Standard GNU file compression utilities  https://www.gnu.org/software/gzip/ 
- haproxy  3.3.9  The Reliable, High Performance TCP/HTTP Load Balancer  https://www.haproxy.org/ 
+ haproxy  3.3.10  The Reliable, High Performance TCP/HTTP Load Balancer  https://www.haproxy.org/ 
  harfbuzz  14.2.0  OpenType text shaping engine  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
  harfbuzz-icu  14.2.0  OpenType text shaping engine ICU backend  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
  harfbuzz-utils  14.2.0  Tools using the harfbuzz library  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
@@ -2205,7 +2205,7 @@
  rage  0.11.2  A simple, secure and modern encryption tool  https://age-encryption.org/v1 
  ragel  7.0.4-1  Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code  https://www.colm.net/open-source/ragel/ 
  ragel-static  7.0.4-1  Static libraries for ragel  https://www.colm.net/open-source/ragel/ 
- railway-cli  4.57.3  This is the command line interface for Railway  https://railway.app 
+ railway-cli  4.57.4  This is the command line interface for Railway  https://railway.app 
  range-v3  0.12.0  Range library for C++14/17/20, basis for C++20's std::ranges  https://github.com/ericniebler/range-v3 
  ranger  1.9.4-1  File manager with VI key bindings  https://ranger.github.io/ 
  rapidjson  1.1.0-7  Fast JSON parser/generator for C++ with SAX/DOM style API  https://github.com/Tencent/rapidjson/ 
@@ -2702,7 +2702,7 @@
  w3m  0.5.6  Text based Web browser and pager  https://w3m.sourceforge.net/ 
  w3m-img  0.5.6  Inline image extension support utilities for w3m  https://w3m.sourceforge.net/ 
  wabt  1.0.41  The WebAssembly Binary Toolkit  https://github.com/WebAssembly/wabt 
- wakatime-cli  2.13.0  Command line interface used by all WakaTime text editor plugins  https://wakatime.com/plugins/ 
+ wakatime-cli  2.13.1  Command line interface used by all WakaTime text editor plugins  https://wakatime.com/plugins/ 
  walk  1.13.0  A terminal file manager  https://github.com/antonmedv/walk 
  wallust  3.5.2  Generate colors from an image  https://explosion-mental.codeberg.page/wallust 
  wasi-libc  30  Libc for WebAssembly programs built on top of WASI system calls  https://wasi.dev/ 
