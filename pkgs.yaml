@@ -7,7 +7,7 @@
   Description: Console version of the game 2048 for GNU/Linux
   Homepage: https://github.com/mevdschee/2048.c
 - Package: 2ping
-  Version: 4.5.1-5
+  Version: 4.6.1
   Description: A bi-directional ping utility
   Homepage: https://www.finnie.org/software/2ping/
 - Package: 6tunnel
@@ -874,16 +874,20 @@
   Version: 1.11-1
   Description: Secure encryption and decryption of files and streams utility
   Homepage: https://ccrypt.sourceforge.net/
+- Package: cdk
+  Version: 5.0-20260119-0
+  Description: Curses Development Kit
+  Homepage: https://dickey.his.com/cdk/cdk.html
 - Package: cec-client
   Version: 7.1.1-1
   Description: Client applications for libCEC
   Homepage: https://libcec.pulse-eight.com/
 - Package: cfengine
-  Version: 1:3.25.0-2
+  Version: 1:3.27.0
   Description: CFEngine is a configuration management technology
   Homepage: https://cfengine.com/
 - Package: cfengine-static
-  Version: 1:3.25.0-2
+  Version: 1:3.27.0
   Description: Static libraries for cfengine
   Homepage: https://cfengine.com/
 - Package: cfm
@@ -1011,7 +1015,7 @@
   Description: A tunneling daemon that proxies traffic from the Cloudflare network to your origins
   Homepage: https://github.com/cloudflare/cloudflared
 - Package: clpeak
-  Version: 1.1.5
+  Version: 1.1.7
   Description: A tool which profiles OpenCL devices to find their peak capacities
   Homepage: https://github.com/krrishnarraj/clpeak
 - Package: clvk
@@ -1483,7 +1487,7 @@
   Description: Drug-dealing game set in streets of New York City
   Homepage: https://dopewars.sourceforge.io
 - Package: dos2unix
-  Version: 7.5.4
+  Version: 7.5.5
   Description: Converts between DOS and Unix text files
   Homepage: https://waterlan.home.xs4all.nl/dos2unix.html
 - Package: dosfstools
@@ -2283,7 +2287,7 @@
   Description: Download a gdrive folder or file easily, shell ftw
   Homepage: https://github.com/Akianonymus/gdrive-downloader
 - Package: gdu
-  Version: 5.34.4
+  Version: 5.36.1
   Description: Fast disk usage analyzer with console interface written in Go
   Homepage: https://github.com/dundee/gdu
 - Package: geckodriver
@@ -2427,7 +2431,7 @@
   Description: Convert between Git and Subversion repositories
   Homepage: https://git-scm.com/
 - Package: git-town
-  Version: 22.2.0
+  Version: 22.7.1
   Description: Git branches made easy
   Homepage: https://www.git-town.com
 - Package: gitea
@@ -2475,8 +2479,8 @@
   Description: A package repository containing glibc-based programs and libraries
   Homepage: https://github.com/termux/glibc-packages
 - Package: glm
-  Version: 1.0.1
-  Description: C++ mathematics library for graphics software based on the GLSL specifications
+  Version: 1.0.3
+  Description: C++ mathematics library for graphics programming
   Homepage: https://glm.g-truc.net/
 - Package: global
   Version: 6.6.14-1
@@ -4919,11 +4923,11 @@
   Description: Static libraries for libmp3splt
   Homepage: https://mp3splt.sourceforge.net
 - Package: libmpc
-  Version: 1.3.1-1
+  Version: 1.4.1
   Description: Library for the arithmetic of complex numbers with arbitrarily high precision
   Homepage: https://www.multiprecision.org/
 - Package: libmpc-static
-  Version: 1.3.1-1
+  Version: 1.4.1
   Description: Static libraries for libmpc
   Homepage: https://www.multiprecision.org/
 - Package: libmpdclient
@@ -9571,7 +9575,7 @@
   Description: SPIR-V Tools
   Homepage: https://github.com/KhronosGroup/SPIRV-Tools
 - Package: sqlcipher
-  Version: 4.15.0
+  Version: 4.15.0-1
   Description: SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files
   Homepage: https://github.com/sqlcipher/sqlcipher
 - Package: sqlite
