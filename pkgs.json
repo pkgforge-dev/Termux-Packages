@@ -4183,31 +4183,31 @@
   },
   {
     "Package": "gst-libav",
-    "Version": "1.28.2",
+    "Version": "1.28.3",
     "Description": "GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code",
     "Homepage": "https://gstreamer.freedesktop.org/modules/gst-libav.html"
   },
   {
     "Package": "gst-plugins-bad",
-    "Version": "1.28.2",
+    "Version": "1.28.3",
     "Description": "GStreamer Bad Plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
   {
     "Package": "gst-plugins-base",
-    "Version": "1.28.2",
+    "Version": "1.28.3",
     "Description": "GStreamer base plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
   {
     "Package": "gst-plugins-good",
-    "Version": "1.28.2",
+    "Version": "1.28.3",
     "Description": "GStreamer Good Plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
   {
     "Package": "gst-plugins-ugly",
-    "Version": "1.28.2",
+    "Version": "1.28.3",
     "Description": "GStreamer Ugly Plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
@@ -4219,7 +4219,7 @@
   },
   {
     "Package": "gstreamer",
-    "Version": "1.28.2",
+    "Version": "1.28.3",
     "Description": "Open source multimedia framework",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
@@ -5233,7 +5233,7 @@
   },
   {
     "Package": "lego",
-    "Version": "5.0.0",
+    "Version": "5.0.1",
     "Description": "Lets Encrypt/ACME client and library written in Go",
     "Homepage": "https://github.com/go-acme/lego"
   },
@@ -7249,13 +7249,13 @@
   },
   {
     "Package": "libmediainfo",
-    "Version": "26.01",
+    "Version": "26.05",
     "Description": "Library for reading information from media files",
     "Homepage": "https://mediaarea.net/en/MediaInfo"
   },
   {
     "Package": "libmediainfo-static",
-    "Version": "26.01",
+    "Version": "26.05",
     "Description": "Static libraries for libmediainfo",
     "Homepage": "https://mediaarea.net/en/MediaInfo"
   },
@@ -10399,7 +10399,7 @@
   },
   {
     "Package": "mediainfo",
-    "Version": "26.01",
+    "Version": "26.05",
     "Description": "Command-line utility for reading information from media files",
     "Homepage": "https://mediaarea.net/en/MediaInfo"
   },
@@ -13243,7 +13243,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "4.57.4",
+    "Version": "4.57.5",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -16705,7 +16705,7 @@
   },
   {
     "Package": "yosys",
-    "Version": "0.64",
+    "Version": "0.65",
     "Description": "A framework for RTL synthesis tools",
     "Homepage": "https://yosyshq.net/yosys/"
   },
