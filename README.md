@@ -180,7 +180,7 @@
 | **brainfuck-static** | 1:2.7.3-1 | Static libraries for brainfuck | https://github.com/fabianishere/brainfuck |
 | **brogue** | 1.15.1 | Roguelike dungeon crawling game (community edition) | https://sites.google.com/site/broguegame/ |
 | **brook** | 20260101.0 | A cross-platform strong encryption and not detectable proxy. Zero-Configuration. | https://github.com/txthinking/brook |
-| **broot** | 1.56.2 | A better way to navigate directories | https://github.com/Canop/broot |
+| **broot** | 1.56.3 | A better way to navigate directories | https://github.com/Canop/broot |
 | **brotli** | 1.2.0 | lossless compression algorithm and format (command line utility) | https://github.com/google/brotli |
 | **bsd-finger** | 0.17-3 | User information lookup program | https://packages.debian.org/sid/source/bsd-finger |
 | **bsd-games** | 1:3.3-1 | Classic text mode games from UNIX folklore | https://www.polyomino.org.uk/computer/software/bsd-games/ |
@@ -263,7 +263,7 @@
 | **clinfo** | 3.0.25.02.14-1 | Print all known information about all available OpenCL platforms and devices in the system | https://github.com/Oblomov/clinfo |
 | **clipp** | 1.2.3-1 | Command line interfaces for modern C++ | https://github.com/muellan/clipp |
 | **cloneit** | 20250722 | A cli tool to download specific GitHub directories or files | https://github.com/alok8bb/cloneit |
-| **cloudflared** | 2026.3.0 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
+| **cloudflared** | 2026.5.0 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
 | **clpeak** | 1.1.7 | A tool which profiles OpenCL devices to find their peak capacities | https://github.com/krrishnarraj/clpeak |
 | **clvk** | 0.0.20260429.095507 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
 | **cmake** | 4.3.2-1 | Family of tools designed to build, test and package software | https://cmake.org/ |
@@ -285,7 +285,7 @@
 | **colm-static** | 0.14.7-2 | Static libraries for colm | https://www.colm.net/open-source/colm/ |
 | **colordiff** | 1.0.22 | Tool to colorize 'diff' output | https://www.colordiff.org/ |
 | **command-not-found** | 3.4.1-9 | Suggest installation of packages in interactive shell sessions | https://github.com/termux/command-not-found |
-| **composer** | 2.9.7 | Dependency Manager for PHP | https://getcomposer.org/ |
+| **composer** | 2.9.8 | Dependency Manager for PHP | https://getcomposer.org/ |
 | **console-bridge** | 1.0.2-1 | A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages | https://github.com/ros/console_bridge |
 | **convertlit** | 1.8-2 | An extractor/converter for .LIT eBooks | http://www.convertlit.com/ |
 | **cookcli** | 0.29.1 | A suite of tools to create shopping lists and maintain food recipes | https://cooklang.org |
@@ -488,7 +488,7 @@
 | **fakeroot** | 1.37.2 | Tool for simulating superuser privileges (with tcp ipc) | https://packages.qa.debian.org/f/fakeroot.html |
 | **fakeroot-static** | 1.37.2 | Static libraries for fakeroot | https://packages.qa.debian.org/f/fakeroot.html |
 | **fasd** | 2.0.0 | To fastly access files and folders | https://github.com/whjvenyl/fasd |
-| **fastfetch** | 2.62.1 | A maintained, feature-rich and performance oriented, neofetch like system information tool | https://github.com/fastfetch-cli/fastfetch |
+| **fastfetch** | 2.63.1 | A maintained, feature-rich and performance oriented, neofetch like system information tool | https://github.com/fastfetch-cli/fastfetch |
 | **fastmod** | 0.4.4-1 | Regex-based code refactoring utility | https://github.com/facebookincubator/fastmod |
 | **fatsort** | 1.7.679 | A C utility that sorts FAT12, FAT16, FAT32 and exFAT partitions | https://fatsort.sourceforge.io/ |
 | **faust** | 2.85.5 | A functional programming language for signal processing and sound synthesis | https://github.com/grame-cncm/faust |
@@ -701,7 +701,7 @@
 | **grex** | 1.4.6-1 | Simplifies the task of creating regular expressions | https://github.com/pemistahl/grex |
 | **groff** | 1.23.0-2 | typesetting system that reads plain text mixed with formatting commands and produces formatted output | https://www.gnu.org/software/groff/ |
 | **gron** | 0.7.1-4 | Transforms JSON into discrete assignments | https://github.com/tomnomnom/gron |
-| **groonga** | 16.0.2 | An embeddable fulltext search engine | https://github.com/groonga/groonga/ |
+| **groonga** | 16.0.4 | An embeddable fulltext search engine | https://github.com/groonga/groonga/ |
 | **groovy** | 4.0.26-4 | A powerful multi-faceted programming language for the JVM platform | https://groovy-lang.org/ |
 | **grpcurl** | 1.9.3 | Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers | https://github.com/fullstorydev/grpcurl |
 | **gsasl** | 2.2.2-1 | GNU SASL library command line interface | https://www.gnu.org/software/gsasl |
@@ -883,7 +883,7 @@
 | **ldns** | 1.8.4-1 | Library for simplifying DNS programming and supporting recent and experimental RFCs | https://www.nlnetlabs.nl/projects/ldns/ |
 | **ldns-static** | 1.8.4-1 | Static libraries for ldns | https://www.nlnetlabs.nl/projects/ldns/ |
 | **ledger** | 3.4.1-2 | Powerful, double-entry accounting system | https://www.ledger-cli.org |
-| **lego** | 5.0.2 | Let's Encrypt/ACME client and library written in Go | https://github.com/go-acme/lego |
+| **lego** | 5.0.3 | Let's Encrypt/ACME client and library written in Go | https://github.com/go-acme/lego |
 | **leptonica** | 1.87.0 | Library for image processing and image analysis | http://www.leptonica.com/ |
 | **leptonica-static** | 1.87.0 | Static libraries for leptonica | http://www.leptonica.com/ |
 | **less** | 692 | Terminal pager program used to view the contents of a text file one screen at a time | https://www.greenwoodsoftware.com/less/ |
@@ -1628,9 +1628,9 @@
 | **littlecms** | 2.19.1 | Color management library | http://www.littlecms.com/ |
 | **littlecms-static** | 2.19.1 | Static libraries for littlecms | http://www.littlecms.com/ |
 | **littlecms-utils** | 2.19.1 | Color management utilities | http://www.littlecms.com/ |
-| **llama-cpp** | 0.0.0-b8969-0 | LLM inference in C/C++ | https://github.com/ggml-org/llama.cpp |
-| **llama-cpp-backend-opencl** | 0.0.0-b8969-0 | OpenCL Backend for LLaMA.cpp | https://github.com/ggml-org/llama.cpp |
-| **llama-cpp-backend-vulkan** | 0.0.0-b8969-0 | Vulkan Backend for LLaMA.cpp | https://github.com/ggml-org/llama.cpp |
+| **llama-cpp** | 0.0.0-b9131-0 | LLM inference in C/C++ | https://github.com/ggml-org/llama.cpp |
+| **llama-cpp-backend-opencl** | 0.0.0-b9131-0 | OpenCL Backend for LLaMA.cpp | https://github.com/ggml-org/llama.cpp |
+| **llama-cpp-backend-vulkan** | 0.0.0-b9131-0 | Vulkan Backend for LLaMA.cpp | https://github.com/ggml-org/llama.cpp |
 | **llbuild** | 6.2.1 | A low-level build system, used by the Swift Package Manager | https://github.com/swiftlang/swift-llbuild |
 | **lld** | 21.1.8-2 | LLVM-based linker | https://clang.llvm.org/ |
 | **lldb** | 21.1.8-2 | LLVM-based debugger | https://clang.llvm.org/ |
@@ -1926,7 +1926,7 @@
 | **oleo** | 1.99.16-10 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
 | **ollama** | 0.23.3 | Get up and running with large language models | https://ollama.com/ |
 | **ollama-backend-vulkan** | 0.23.3 | Vulkan Backend for Ollama | https://ollama.com/ |
-| **oma** | 1.25.2 | oma is an attempt at reworking APT's interface | https://aosc.io/oma |
+| **oma** | 1.26.0 | oma is an attempt at reworking APT's interface | https://aosc.io/oma |
 | **onefetch** | 2.27.1 | A command-line Git information tool written in Rust | https://onefetch.dev/ |
 | **onigmo** | 6.2.0-1 | A regular expressions library forked from Oniguruma | https://github.com/k-takata/Onigmo |
 | **onigmo-static** | 6.2.0-1 | Static libraries for onigmo | https://github.com/k-takata/Onigmo |
@@ -2807,7 +2807,7 @@
 | **z3** | 4.16.0 | Z3 is a theorem prover from Microsoft Research | https://github.com/Z3Prover/z3 |
 | **zbar** | 0.23.93-2 | Software suite for reading bar codes from various sources | https://github.com/mchehab/zbar |
 | **zbar-static** | 0.23.93-2 | Static libraries for zbar | https://github.com/mchehab/zbar |
-| **zellij** | 0.44.2 | A terminal workspace with batteries included | https://zellij.dev/ |
+| **zellij** | 0.44.3 | A terminal workspace with batteries included | https://zellij.dev/ |
 | **zeronet** | 0.7.1-9 | Decentralized websites using Bitcoin crypto and BitTorrent network | https://zeronet.io/ |
 | **zig** | 0.16.0 | General-purpose programming language and toolchain | https://ziglang.org |
 | **zile** | 2.6.4-2 | Lightweight clone of the Emacs text editor | https://www.gnu.org/software/zile/ |

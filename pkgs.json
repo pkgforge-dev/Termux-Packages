@@ -1021,7 +1021,7 @@
   },
   {
     "Package": "broot",
-    "Version": "1.56.2",
+    "Version": "1.56.3",
     "Description": "A better way to navigate directories",
     "Homepage": "https://github.com/Canop/broot"
   },
@@ -1519,7 +1519,7 @@
   },
   {
     "Package": "cloudflared",
-    "Version": "2026.3.0",
+    "Version": "2026.5.0",
     "Description": "A tunneling daemon that proxies traffic from the Cloudflare network to your origins",
     "Homepage": "https://github.com/cloudflare/cloudflared"
   },
@@ -1651,7 +1651,7 @@
   },
   {
     "Package": "composer",
-    "Version": "2.9.7",
+    "Version": "2.9.8",
     "Description": "Dependency Manager for PHP",
     "Homepage": "https://getcomposer.org/"
   },
@@ -2869,7 +2869,7 @@
   },
   {
     "Package": "fastfetch",
-    "Version": "2.62.1",
+    "Version": "2.63.1",
     "Description": "A maintained, feature-rich and performance oriented, neofetch like system information tool",
     "Homepage": "https://github.com/fastfetch-cli/fastfetch"
   },
@@ -4147,7 +4147,7 @@
   },
   {
     "Package": "groonga",
-    "Version": "16.0.2",
+    "Version": "16.0.4",
     "Description": "An embeddable fulltext search engine",
     "Homepage": "https://github.com/groonga/groonga/"
   },
@@ -5239,7 +5239,7 @@
   },
   {
     "Package": "lego",
-    "Version": "5.0.2",
+    "Version": "5.0.3",
     "Description": "Lets Encrypt/ACME client and library written in Go",
     "Homepage": "https://github.com/go-acme/lego"
   },
@@ -9709,19 +9709,19 @@
   },
   {
     "Package": "llama-cpp",
-    "Version": "0.0.0-b8969-0",
+    "Version": "0.0.0-b9131-0",
     "Description": "LLM inference in C/C++",
     "Homepage": "https://github.com/ggml-org/llama.cpp"
   },
   {
     "Package": "llama-cpp-backend-opencl",
-    "Version": "0.0.0-b8969-0",
+    "Version": "0.0.0-b9131-0",
     "Description": "OpenCL Backend for LLaMA.cpp",
     "Homepage": "https://github.com/ggml-org/llama.cpp"
   },
   {
     "Package": "llama-cpp-backend-vulkan",
-    "Version": "0.0.0-b8969-0",
+    "Version": "0.0.0-b9131-0",
     "Description": "Vulkan Backend for LLaMA.cpp",
     "Homepage": "https://github.com/ggml-org/llama.cpp"
   },
@@ -11497,7 +11497,7 @@
   },
   {
     "Package": "oma",
-    "Version": "1.25.2",
+    "Version": "1.26.0",
     "Description": "oma is an attempt at reworking APTs interface",
     "Homepage": "https://aosc.io/oma"
   },
@@ -16783,7 +16783,7 @@
   },
   {
     "Package": "zellij",
-    "Version": "0.44.2",
+    "Version": "0.44.3",
     "Description": "A terminal workspace with batteries included",
     "Homepage": "https://zellij.dev/"
   },

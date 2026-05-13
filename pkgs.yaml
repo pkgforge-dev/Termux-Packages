@@ -679,7 +679,7 @@
   Description: A cross-platform strong encryption and not detectable proxy. Zero-Configuration.
   Homepage: https://github.com/txthinking/brook
 - Package: broot
-  Version: 1.56.2
+  Version: 1.56.3
   Description: A better way to navigate directories
   Homepage: https://github.com/Canop/broot
 - Package: brotli
@@ -1011,7 +1011,7 @@
   Description: A cli tool to download specific GitHub directories or files
   Homepage: https://github.com/alok8bb/cloneit
 - Package: cloudflared
-  Version: 2026.3.0
+  Version: 2026.5.0
   Description: A tunneling daemon that proxies traffic from the Cloudflare network to your origins
   Homepage: https://github.com/cloudflare/cloudflared
 - Package: clpeak
@@ -1099,7 +1099,7 @@
   Description: Suggest installation of packages in interactive shell sessions
   Homepage: https://github.com/termux/command-not-found
 - Package: composer
-  Version: 2.9.7
+  Version: 2.9.8
   Description: Dependency Manager for PHP
   Homepage: https://getcomposer.org/
 - Package: console-bridge
@@ -1911,7 +1911,7 @@
   Description: To fastly access files and folders
   Homepage: https://github.com/whjvenyl/fasd
 - Package: fastfetch
-  Version: 2.62.1
+  Version: 2.63.1
   Description: A maintained, feature-rich and performance oriented, neofetch like system information tool
   Homepage: https://github.com/fastfetch-cli/fastfetch
 - Package: fastmod
@@ -2763,7 +2763,7 @@
   Description: Transforms JSON into discrete assignments
   Homepage: https://github.com/tomnomnom/gron
 - Package: groonga
-  Version: 16.0.2
+  Version: 16.0.4
   Description: An embeddable fulltext search engine
   Homepage: https://github.com/groonga/groonga/
 - Package: groovy
@@ -3491,7 +3491,7 @@
   Description: Powerful, double-entry accounting system
   Homepage: https://www.ledger-cli.org
 - Package: lego
-  Version: 5.0.2
+  Version: 5.0.3
   Description: Lets Encrypt/ACME client and library written in Go
   Homepage: https://github.com/go-acme/lego
 - Package: leptonica
@@ -6471,15 +6471,15 @@
   Description: Color management utilities
   Homepage: http://www.littlecms.com/
 - Package: llama-cpp
-  Version: 0.0.0-b8969-0
+  Version: 0.0.0-b9131-0
   Description: LLM inference in C/C++
   Homepage: https://github.com/ggml-org/llama.cpp
 - Package: llama-cpp-backend-opencl
-  Version: 0.0.0-b8969-0
+  Version: 0.0.0-b9131-0
   Description: OpenCL Backend for LLaMA.cpp
   Homepage: https://github.com/ggml-org/llama.cpp
 - Package: llama-cpp-backend-vulkan
-  Version: 0.0.0-b8969-0
+  Version: 0.0.0-b9131-0
   Description: Vulkan Backend for LLaMA.cpp
   Homepage: https://github.com/ggml-org/llama.cpp
 - Package: llbuild
@@ -7663,7 +7663,7 @@
   Description: Vulkan Backend for Ollama
   Homepage: https://ollama.com/
 - Package: oma
-  Version: 1.25.2
+  Version: 1.26.0
   Description: oma is an attempt at reworking APTs interface
   Homepage: https://aosc.io/oma
 - Package: onefetch
@@ -11187,7 +11187,7 @@
   Description: Static libraries for zbar
   Homepage: https://github.com/mchehab/zbar
 - Package: zellij
-  Version: 0.44.2
+  Version: 0.44.3
   Description: A terminal workspace with batteries included
   Homepage: https://zellij.dev/
 - Package: zeronet
