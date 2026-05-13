@@ -613,7 +613,7 @@
   },
   {
     "Package": "atuin",
-    "Version": "18.16.0",
+    "Version": "18.16.1",
     "Description": "Magical shell history",
     "Homepage": "https://atuin.sh/"
   },
@@ -3685,7 +3685,7 @@
   },
   {
     "Package": "glab-cli",
-    "Version": "1.95.0",
+    "Version": "1.96.0",
     "Description": "A GitLab CLI tool bringing GitLab to your command line",
     "Homepage": "https://gitlab.com/gitlab-org/cli"
   },
@@ -4663,13 +4663,13 @@
   },
   {
     "Package": "imagemagick",
-    "Version": "7.1.2.21",
+    "Version": "7.1.2.22",
     "Description": "Suite to create, edit, compose, or convert images in a variety of formats",
     "Homepage": "https://www.imagemagick.org/"
   },
   {
     "Package": "imagemagick-static",
-    "Version": "7.1.2.21",
+    "Version": "7.1.2.22",
     "Description": "Static libraries for imagemagick",
     "Homepage": "https://www.imagemagick.org/"
   },
@@ -5161,7 +5161,7 @@
   },
   {
     "Package": "kubectl",
-    "Version": "1.36.0",
+    "Version": "1.36.1",
     "Description": "Kubernetes.io client binary",
     "Homepage": "https://kubernetes.io/"
   },
@@ -5239,7 +5239,7 @@
   },
   {
     "Package": "lego",
-    "Version": "5.0.1",
+    "Version": "5.0.2",
     "Description": "Lets Encrypt/ACME client and library written in Go",
     "Homepage": "https://github.com/go-acme/lego"
   },
@@ -11557,7 +11557,7 @@
   },
   {
     "Package": "openal-soft",
-    "Version": "1.25.1",
+    "Version": "1.25.2-1",
     "Description": "Software implementation of the OpenAL API",
     "Homepage": "https://openal-soft.org/"
   },
@@ -12733,7 +12733,7 @@
   },
   {
     "Package": "pyrefly",
-    "Version": "0.64.1",
+    "Version": "1.0.0",
     "Description": "A fast type checker and language server for Python",
     "Homepage": "https://github.com/facebook/pyrefly.git"
   },
