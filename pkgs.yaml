@@ -1271,7 +1271,7 @@
   Description: Dart is a general-purpose programming language
   Homepage: https://dart.dev/
 - Package: dasel
-  Version: 3.8.1
+  Version: 3.9.0
   Description: Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility
   Homepage: https://github.com/TomWright/dasel
 - Package: dash
@@ -2775,7 +2775,7 @@
   Description: 'Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers'
   Homepage: https://github.com/fullstorydev/grpcurl
 - Package: gsasl
-  Version: 2.2.2-1
+  Version: 2.2.3
   Description: GNU SASL library command line interface
   Homepage: https://www.gnu.org/software/gsasl
 - Package: gsf-tools
@@ -4403,11 +4403,11 @@
   Description: High performance, open source, general RPC framework that puts mobile and HTTP/2 first
   Homepage: https://grpc.io/
 - Package: libgsasl
-  Version: 2.2.2-1
+  Version: 2.2.3
   Description: GNU SASL library
   Homepage: https://www.gnu.org/software/gsasl
 - Package: libgsasl-static
-  Version: 2.2.2-1
+  Version: 2.2.3
   Description: Static libraries for libgsasl
   Homepage: https://www.gnu.org/software/gsasl
 - Package: libgsf
@@ -4675,11 +4675,11 @@
   Description: Static libraries for libkokkos
   Homepage: https://github.com/kokkos
 - Package: libksba
-  Version: 1.7.0
+  Version: 1.8.0
   Description: Library for using X.509 certificates and CMS (Cryptographic Message Syntax) easily accessible
   Homepage: https://gnupg.org/related_software/libksba/
 - Package: libksba-static
-  Version: 1.7.0
+  Version: 1.8.0
   Description: Static libraries for libksba
   Homepage: https://gnupg.org/related_software/libksba/
 - Package: liblangtag
@@ -10759,7 +10759,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2026.05.08
+  Version: 2026.05.12
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vttest

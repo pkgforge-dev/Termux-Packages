@@ -328,7 +328,7 @@
 | **dar-static** | 2.8.5 | Static libraries for dar | http://dar.linux.free.fr/ |
 | **darkhttpd** | 1.17-1 | A simple webserver, implemented in a single .c file. | https://unix4lyfe.org/darkhttpd |
 | **dart** | 3.11.6 | Dart is a general-purpose programming language | https://dart.dev/ |
-| **dasel** | 3.8.1 | Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility | https://github.com/TomWright/dasel |
+| **dasel** | 3.9.0 | Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility | https://github.com/TomWright/dasel |
 | **dash** | 0.5.12-2 | Small POSIX-compliant implementation of /bin/sh | http://gondor.apana.org.au/~herbert/dash/ |
 | **dasm** | 2.20.14.1-1 | Macro assembler with support for several 8-bit microprocessors | https://dasm-dillon.sourceforge.io/ |
 | **datamash** | 1.9-1 | Program performing numeric, textual and statistical operations | https://www.gnu.org/software/datamash/ |
@@ -704,7 +704,7 @@
 | **groonga** | 16.0.4 | An embeddable fulltext search engine | https://github.com/groonga/groonga/ |
 | **groovy** | 4.0.26-4 | A powerful multi-faceted programming language for the JVM platform | https://groovy-lang.org/ |
 | **grpcurl** | 1.9.3 | Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers | https://github.com/fullstorydev/grpcurl |
-| **gsasl** | 2.2.2-1 | GNU SASL library command line interface | https://www.gnu.org/software/gsasl |
+| **gsasl** | 2.2.3 | GNU SASL library command line interface | https://www.gnu.org/software/gsasl |
 | **gsf-tools** | 1.14.58 | Command-line tools for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
 | **gsl** | 2.8-1 | GNU Scientific Library (GSL) providing a wide range of mathematical routines | https://www.gnu.org/software/gsl/ |
 | **gsl-static** | 2.8-1 | Static libraries for gsl | https://www.gnu.org/software/gsl/ |
@@ -1111,8 +1111,8 @@
 | **libgpg-error-static** | 1.58 | Static libraries for libgpg-error | https://www.gnupg.org/related_software/libgpg-error/ |
 | **libgraphite** | 1.3.14-3 | Font system for multiple languages | https://github.com/silnrsi/graphite |
 | **libgrpc** | 1.80.0 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
-| **libgsasl** | 2.2.2-1 | GNU SASL library | https://www.gnu.org/software/gsasl |
-| **libgsasl-static** | 2.2.2-1 | Static libraries for libgsasl | https://www.gnu.org/software/gsasl |
+| **libgsasl** | 2.2.3 | GNU SASL library | https://www.gnu.org/software/gsasl |
+| **libgsasl-static** | 2.2.3 | Static libraries for libgsasl | https://www.gnu.org/software/gsasl |
 | **libgsf** | 1.14.58 | The G Structured File Library | https://gitlab.gnome.org/GNOME/libgsf |
 | **libgsf-static** | 1.14.58 | Static libraries for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
 | **libgtop** | 2.41.3-2 | Library for collecting system monitoring data | https://gitlab.gnome.org/GNOME/libgtop |
@@ -1179,8 +1179,8 @@
 | **libknot-static** | 3.2.4-2 | Static libraries for libknot | https://www.knot-dns.cz/ |
 | **libkokkos** | 5.1.1 | Implements a programming model in C++ for writing performance portable applications | https://github.com/kokkos |
 | **libkokkos-static** | 5.1.1 | Static libraries for libkokkos | https://github.com/kokkos |
-| **libksba** | 1.7.0 | Library for using X.509 certificates and CMS (Cryptographic Message Syntax) easily accessible | https://gnupg.org/related_software/libksba/ |
-| **libksba-static** | 1.7.0 | Static libraries for libksba | https://gnupg.org/related_software/libksba/ |
+| **libksba** | 1.8.0 | Library for using X.509 certificates and CMS (Cryptographic Message Syntax) easily accessible | https://gnupg.org/related_software/libksba/ |
+| **libksba-static** | 1.8.0 | Static libraries for libksba | https://gnupg.org/related_software/libksba/ |
 | **liblangtag** | 0.6.7-2 | interface library to access/deal with tags for identifying languages | https://bitbucket.org/tagoh/liblangtag/wiki/Home |
 | **liblangtag-static** | 0.6.7-2 | Static libraries for liblangtag | https://bitbucket.org/tagoh/liblangtag/wiki/Home |
 | **liblightning** | 2.2.3-1 | A library to aid in making portable programs that compile assembly code at run time | https://www.gnu.org/software/lightning/ |
@@ -2700,7 +2700,7 @@
 | **vlc-static** | 3.0.23-3 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-4 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.3-1 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 2026.05.08 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
+| **vtm** | 2026.05.12 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
 | **vttest** | 20251205 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vulkan-extension-layer** | 1.4.350 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
 | **vulkan-headers** | 1.4.351 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
