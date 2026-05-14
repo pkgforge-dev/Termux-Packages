@@ -1271,7 +1271,7 @@
   Description: Dart is a general-purpose programming language
   Homepage: https://dart.dev/
 - Package: dasel
-  Version: 3.9.0
+  Version: 3.10.1
   Description: Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility
   Homepage: https://github.com/TomWright/dasel
 - Package: dash
@@ -4699,11 +4699,11 @@
   Description: Static libraries for liblightning
   Homepage: https://www.gnu.org/software/lightning/
 - Package: libliquid-dsp
-  Version: 1.7.0-1
+  Version: 1.7.0-2
   Description: Software-defined radio digital signal processing library
   Homepage: https://liquidsdr.org/
 - Package: libliquid-dsp-static
-  Version: 1.7.0-1
+  Version: 1.7.0-2
   Description: Static libraries for libliquid-dsp
   Homepage: https://liquidsdr.org/
 - Package: libllvm
@@ -7411,7 +7411,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-141+gc4b592a6d0-0
+  Version: 0.13.0~dev-492+g89b5a1a181-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -7479,7 +7479,7 @@
   Description: Newsraft is a feed reader with text-based user interface
   Homepage: https://codeberg.org/newsraft/newsraft
 - Package: nginx
-  Version: 1.30.0
+  Version: 1.31.0
   Description: Lightweight HTTP server
   Homepage: https://www.nginx.org
 - Package: ngircd
@@ -7655,11 +7655,11 @@
   Description: The GNU Spreadsheet
   Homepage: https://www.gnu.org/software/oleo/
 - Package: ollama
-  Version: 0.23.3
+  Version: 0.23.4
   Description: Get up and running with large language models
   Homepage: https://ollama.com/
 - Package: ollama-backend-vulkan
-  Version: 0.23.3
+  Version: 0.23.4
   Description: Vulkan Backend for Ollama
   Homepage: https://ollama.com/
 - Package: oma
@@ -10819,7 +10819,7 @@
   Description: The WebAssembly Binary Toolkit
   Homepage: https://github.com/WebAssembly/wabt
 - Package: wakatime-cli
-  Version: 2.13.1
+  Version: 2.13.2
   Description: Command line interface used by all WakaTime text editor plugins
   Homepage: https://wakatime.com/plugins/
 - Package: walk

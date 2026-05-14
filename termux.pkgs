@@ -316,7 +316,7 @@
 | **dar-static** | 2.8.5 | Static libraries for dar | http://dar.linux.free.fr/ |
 | **darkhttpd** | 1.17-1 | A simple webserver, implemented in a single .c file. | https://unix4lyfe.org/darkhttpd |
 | **dart** | 3.11.6 | Dart is a general-purpose programming language | https://dart.dev/ |
-| **dasel** | 3.9.0 | Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility | https://github.com/TomWright/dasel |
+| **dasel** | 3.10.1 | Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility | https://github.com/TomWright/dasel |
 | **dash** | 0.5.12-2 | Small POSIX-compliant implementation of /bin/sh | http://gondor.apana.org.au/~herbert/dash/ |
 | **dasm** | 2.20.14.1-1 | Macro assembler with support for several 8-bit microprocessors | https://dasm-dillon.sourceforge.io/ |
 | **datamash** | 1.9-1 | Program performing numeric, textual and statistical operations | https://www.gnu.org/software/datamash/ |
@@ -1173,8 +1173,8 @@
 | **liblangtag-static** | 0.6.7-2 | Static libraries for liblangtag | https://bitbucket.org/tagoh/liblangtag/wiki/Home |
 | **liblightning** | 2.2.3-1 | A library to aid in making portable programs that compile assembly code at run time | https://www.gnu.org/software/lightning/ |
 | **liblightning-static** | 2.2.3-1 | Static libraries for liblightning | https://www.gnu.org/software/lightning/ |
-| **libliquid-dsp** | 1.7.0-1 | Software-defined radio digital signal processing library | https://liquidsdr.org/ |
-| **libliquid-dsp-static** | 1.7.0-1 | Static libraries for libliquid-dsp | https://liquidsdr.org/ |
+| **libliquid-dsp** | 1.7.0-2 | Software-defined radio digital signal processing library | https://liquidsdr.org/ |
+| **libliquid-dsp-static** | 1.7.0-2 | Static libraries for libliquid-dsp | https://liquidsdr.org/ |
 | **libllvm** | 21.1.8-2 | Modular compiler and toolchain technologies library | https://clang.llvm.org/ |
 | **libllvm-static** | 21.1.8-2 | Static libraries for libllvm | https://clang.llvm.org/ |
 | **liblmdb** | 0.9.35 | LMDB implements a simplified variant of the BerkeleyDB (BDB) API | https://symas.com/lmdb/ |
@@ -1851,7 +1851,7 @@
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20260504 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.12.2 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
-| **neovim-nightly** | 0.13.0~dev-141+gc4b592a6d0-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
+| **neovim-nightly** | 0.13.0~dev-492+g89b5a1a181-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
 | **nerdfix** | 0.4.2-1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.5.2 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.5.2 | Static libraries for net-snmp | http://www.net-snmp.org/ |
@@ -1868,7 +1868,7 @@
 | **nettle** | 4.0+really3.10.2 | Low level cryptographic tools | https://www.lysator.liu.se/~nisse/nettle/ |
 | **newsboat** | 2.43 | RSS/Atom feed reader for the text console | https://newsboat.org/ |
 | **newsraft** | 0.36 | Newsraft is a feed reader with text-based user interface | https://codeberg.org/newsraft/newsraft |
-| **nginx** | 1.30.0 | Lightweight HTTP server | https://www.nginx.org |
+| **nginx** | 1.31.0 | Lightweight HTTP server | https://www.nginx.org |
 | **ngircd** | 27-1 | Free, portable and lightweight Internet Relay Chat server | https://ngircd.barton.de/ |
 | **ngspice** | 46 | A mixed-level/mixed-signal circuit simulator | https://ngspice.sourceforge.net/ |
 | **nim** | 2.2.6 | Nim programming language compiler | https://nim-lang.org/ |
@@ -1912,8 +1912,8 @@
 | **okc-agents** | 0.1.2-2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.7 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-10 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
-| **ollama** | 0.23.3 | Get up and running with large language models | https://ollama.com/ |
-| **ollama-backend-vulkan** | 0.23.3 | Vulkan Backend for Ollama | https://ollama.com/ |
+| **ollama** | 0.23.4 | Get up and running with large language models | https://ollama.com/ |
+| **ollama-backend-vulkan** | 0.23.4 | Vulkan Backend for Ollama | https://ollama.com/ |
 | **oma** | 1.26.0 | oma is an attempt at reworking APT's interface | https://aosc.io/oma |
 | **onefetch** | 2.27.1 | A command-line Git information tool written in Rust | https://onefetch.dev/ |
 | **onigmo** | 6.2.0-1 | A regular expressions library forked from Oniguruma | https://github.com/k-takata/Onigmo |
@@ -2703,7 +2703,7 @@
 | **w3m** | 0.5.6 | Text based Web browser and pager | https://w3m.sourceforge.net/ |
 | **w3m-img** | 0.5.6 | Inline image extension support utilities for w3m | https://w3m.sourceforge.net/ |
 | **wabt** | 1.0.41 | The WebAssembly Binary Toolkit | https://github.com/WebAssembly/wabt |
-| **wakatime-cli** | 2.13.1 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
+| **wakatime-cli** | 2.13.2 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
 | **walk** | 1.13.0 | A terminal file manager | https://github.com/antonmedv/walk |
 | **wallust** | 3.5.2 | Generate colors from an image | https://explosion-mental.codeberg.page/wallust |
 | **wasi-libc** | 30 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |
