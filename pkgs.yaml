@@ -339,7 +339,7 @@
   Description: ASP.NET Core 10.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-runtime-8.0
-  Version: 8.0.26
+  Version: 8.0.27
   Description: ASP.NET Core 8.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-runtime-9.0
@@ -351,7 +351,7 @@
   Description: ASP.NET Core 10.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-runtime-dbg-8.0
-  Version: 8.0.26
+  Version: 8.0.27
   Description: ASP.NET Core 8.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-runtime-dbg-9.0
@@ -363,7 +363,7 @@
   Description: ASP.NET Core 10.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-targeting-pack-8.0
-  Version: 8.0.26
+  Version: 8.0.27
   Description: ASP.NET Core 8.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-targeting-pack-9.0
@@ -1507,7 +1507,7 @@
   Description: .NET 10.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-apphost-pack-8.0
-  Version: 8.0.26
+  Version: 8.0.27
   Description: .NET 8.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-apphost-pack-9.0
@@ -1523,7 +1523,7 @@
   Description: .NET 10.0 Host
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-host-8.0
-  Version: 8.0.26
+  Version: 8.0.27
   Description: .NET 8.0 Host
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-host-9.0
@@ -1535,7 +1535,7 @@
   Description: .NET 10.0 Host Resolver
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-hostfxr-8.0
-  Version: 8.0.26
+  Version: 8.0.27
   Description: .NET 8.0 Host Resolver
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-hostfxr-9.0
@@ -1547,7 +1547,7 @@
   Description: .NET 10.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-8.0
-  Version: 8.0.26
+  Version: 8.0.27
   Description: .NET 8.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-9.0
@@ -1559,7 +1559,7 @@
   Description: .NET 10.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-dbg-8.0
-  Version: 8.0.26
+  Version: 8.0.27
   Description: .NET 8.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-dbg-9.0
@@ -1571,7 +1571,7 @@
   Description: .NET 10.0 SDK
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-8.0
-  Version: 8.0.26
+  Version: 8.0.27
   Description: .NET 8.0 SDK
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-9.0
@@ -1583,7 +1583,7 @@
   Description: .NET 10.0 SDK Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-dbg-8.0
-  Version: 8.0.26
+  Version: 8.0.27
   Description: .NET 8.0 SDK Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-dbg-9.0
@@ -1595,7 +1595,7 @@
   Description: .NET 10.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-targeting-pack-8.0
-  Version: 8.0.26
+  Version: 8.0.27
   Description: .NET 8.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-targeting-pack-9.0
@@ -1607,7 +1607,7 @@
   Description: .NET 10.0 Templates
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-templates-8.0
-  Version: 8.0.26
+  Version: 8.0.27
   Description: .NET 8.0 Templates
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-templates-9.0
@@ -1619,7 +1619,7 @@
   Description: .NET 10.0
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet8.0
-  Version: 8.0.26
+  Version: 8.0.27
   Description: .NET 8.0
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet9.0
@@ -6939,7 +6939,7 @@
   Description: Command-line utility for reading information from media files
   Homepage: https://mediaarea.net/en/MediaInfo
 - Package: mediamtx
-  Version: 1.18.1
+  Version: 1.18.2
   Description: Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy
   Homepage: https://github.com/bluenviron/mediamtx
 - Package: megacmd
@@ -7459,7 +7459,7 @@
   Description: A metapackage for NETStandard.Library 2.1 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: netstandard-targeting-pack-2.1-8.0
-  Version: 8.0.26
+  Version: 8.0.27
   Description: NETStandard.Library 2.1 Targeting Pack (.NET 8.0)
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: netstandard-targeting-pack-2.1-9.0
@@ -7911,11 +7911,11 @@
   Description: Open Virtual Machine Firmware
   Homepage: https://www.tianocore.org/
 - Package: oxfmt
-  Version: 1.64.0
+  Version: 1.65.0
   Description: Oxc JavaScript formatter
   Homepage: https://oxc.rs/
 - Package: oxlint
-  Version: 1.64.0
+  Version: 1.65.0
   Description: Oxc JavaScript linter
   Homepage: https://oxc.rs/
 - Package: p11-kit
@@ -8371,7 +8371,7 @@
   Description: A standalone front-end for the Java decompiler in Procyon Compiler Toolset
   Homepage: https://github.com/mstrobel/procyon
 - Package: profanity
-  Version: 0.18.0
+  Version: 0.18.1
   Description: Profanity is a console based XMPP client written in C using ncurses and libstrophe, inspired by Irssi
   Homepage: https://profanity-im.github.io
 - Package: progress
@@ -9199,7 +9199,7 @@
   Description: A custom system info fetching tool
   Homepage: https://github.com/Mangeshrex/rxfetch
 - Package: sabnzbd
-  Version: 5.0.2
+  Version: 5.0.3
   Description: Fully automated Usenet Binary Downloader
   Homepage: https://sabnzbd.org/
 - Package: samba
@@ -10819,7 +10819,7 @@
   Description: The WebAssembly Binary Toolkit
   Homepage: https://github.com/WebAssembly/wabt
 - Package: wakatime-cli
-  Version: 2.13.2
+  Version: 2.14.0
   Description: Command line interface used by all WakaTime text editor plugins
   Homepage: https://wakatime.com/plugins/
 - Package: walk
