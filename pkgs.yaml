@@ -2111,7 +2111,7 @@
   Description: ForestDB dump tool
   Homepage: https://github.com/couchbase/forestdb
 - Package: forgejo
-  Version: 15.0.1
+  Version: 15.0.2
   Description: Forgejo is a self-hosted lightweight software forge.
   Homepage: https://forgejo.org/
 - Package: fortune
@@ -2611,11 +2611,11 @@
   Description: Pure Go implementation of jq
   Homepage: https://github.com/itchyny/gojq
 - Package: golang
-  Version: 3:1.26.2
+  Version: 3:1.26.3
   Description: Go programming language compiler
   Homepage: https://go.dev/
 - Package: golang-doc
-  Version: 3:1.26.2
+  Version: 3:1.26.3
   Description: Go programming language - documentation
   Homepage: https://go.dev/
 - Package: gomp
