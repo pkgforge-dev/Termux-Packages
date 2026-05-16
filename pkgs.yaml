@@ -775,7 +775,7 @@
   Description: Fast, cross-platform HTTP/2 web server
   Homepage: https://caddyserver.com/
 - Package: calc
-  Version: 2.16.1.3
+  Version: 2.17.0.0
   Description: Arbitrary precision console calculator
   Homepage: http://www.isthe.com/chongo/tech/comp/calc/
 - Package: calcurse
@@ -2623,7 +2623,7 @@
   Description: MPD client inspired by ncmpcpp with builtin cover-art view and LastFM integration
   Homepage: https://aditya-k2.github.io/gomp/
 - Package: gomuks
-  Version: 26.04-1
+  Version: "26.05"
   Description: A terminal Matrix client written in Go
   Homepage: https://go.mau.fi/gomuks
 - Package: google-glog
@@ -6815,7 +6815,7 @@
   Description: A material you color generation tool with templates
   Homepage: https://github.com/InioX/matugen
 - Package: mautrix-whatsapp
-  Version: 0.2604.0
+  Version: 0.2605.0
   Description: A Matrix-WhatsApp puppeting bridge
   Homepage: https://maunium.net/go/mautrix-whatsapp/
 - Package: maven
@@ -8947,7 +8947,7 @@
   Description: In-memory data structure store used as a database, cache and message broker
   Homepage: https://redis.io/
 - Package: remind
-  Version: 1:06.02.05
+  Version: 1:06.02.06
   Description: Sophisticated calendar and alarm program
   Homepage: https://dianne.skoll.ca/projects/remind/
 - Package: renameutils
