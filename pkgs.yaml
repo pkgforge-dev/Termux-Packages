@@ -5255,11 +5255,11 @@
   Description: Static libraries for libpano13
   Homepage: https://panotools.sourceforge.net/
 - Package: libpaper
-  Version: 2.2.7
+  Version: 2.2.8
   Description: Library for handling paper characteristics (by @rrthomas)
   Homepage: https://github.com/rrthomas/psutils
 - Package: libpaper-static
-  Version: 2.2.7
+  Version: 2.2.8
   Description: Static libraries for libpaper
   Homepage: https://github.com/rrthomas/psutils
 - Package: libpcap
@@ -9499,7 +9499,7 @@
   Description: An Ethereum smart contract-oriented language
   Homepage: https://www.soliditylang.org/
 - Package: sops
-  Version: 3.13.0
+  Version: 3.13.1
   Description: Simple and flexible tool for managing secrets
   Homepage: https://github.com/getsops/sops
 - Package: sord
@@ -9735,7 +9735,7 @@
   Description: An open source STUN server
   Homepage: https://www.stunprotocol.org/
 - Package: stylua
-  Version: 2.4.1
+  Version: 2.5.2
   Description: An opinionated Lua code formatter
   Homepage: https://github.com/JohnnyMorganz/StyLua
 - Package: subtitleripper
@@ -10575,7 +10575,7 @@
   Description: A universal command-line interface for SQL databases
   Homepage: https://github.com/xo/usql
 - Package: utf8cpp
-  Version: 1:4.0.9
+  Version: 1:4.1.0
   Description: 'UTF8-CPP: UTF-8 with C++ in a Portable Way'
   Homepage: https://github.com/nemtrif/utfcpp
 - Package: utf8proc
@@ -10759,7 +10759,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2026.05.15
+  Version: 2026.05.17
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vttest

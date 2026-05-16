@@ -1312,8 +1312,8 @@
 | **libpangomm-2.48** | 2.56.1-1 | A C++ API for Pango | https://www.gtkmm.org/ |
 | **libpano13** | 2.9.23-1 | Part of the Panorama Tools by Helmut Dersch | https://panotools.sourceforge.net/ |
 | **libpano13-static** | 2.9.23-1 | Static libraries for libpano13 | https://panotools.sourceforge.net/ |
-| **libpaper** | 2.2.7 | Library for handling paper characteristics (by @rrthomas) | https://github.com/rrthomas/psutils |
-| **libpaper-static** | 2.2.7 | Static libraries for libpaper | https://github.com/rrthomas/psutils |
+| **libpaper** | 2.2.8 | Library for handling paper characteristics (by @rrthomas) | https://github.com/rrthomas/psutils |
+| **libpaper-static** | 2.2.8 | Static libraries for libpaper | https://github.com/rrthomas/psutils |
 | **libpcap** | 1.10.5-1 | Library for network traffic capture | https://www.tcpdump.org |
 | **libpcap-static** | 1.10.5-1 | Static libraries for libpcap | https://www.tcpdump.org |
 | **libpcreposix** | 8.45-2 | Posix-compatible runtime libraries for libpcre | https://www.pcre.org |
@@ -2373,7 +2373,7 @@
 | **softether-vpn-static** | 5.2.5188-1 | Static libraries for softether-vpn | https://www.softether.org/ |
 | **soju** | 0.10.1 | A user-friendly IRC bouncer | https://codeberg.org/emersion/soju |
 | **solidity** | 0.8.35 | An Ethereum smart contract-oriented language | https://www.soliditylang.org/ |
-| **sops** | 3.13.0 | Simple and flexible tool for managing secrets | https://github.com/getsops/sops |
+| **sops** | 3.13.1 | Simple and flexible tool for managing secrets | https://github.com/getsops/sops |
 | **sord** | 0.16.22 | A lightweight C library for storing RDF data in memory | https://drobilla.net/software/sord.html |
 | **sound-theme-freedesktop** | 0.8 | Freedesktop sound theme | https://freedesktop.org/wiki/Specifications/sound-theme-spec |
 | **sourcekit-lsp** | 6.2.1 | Language Server Protocol implementation for Swift and C-based languages | https://swift.org/ |
@@ -2432,7 +2432,7 @@
 | **stunnel** | 5.78 | Socket wrapper which can provide TLS support to ordinary applications | https://www.stunnel.org/ |
 | **stunnel-static** | 5.78 | Static libraries for stunnel | https://www.stunnel.org/ |
 | **stuntman** | 1.2.16-7 | An open source STUN server | https://www.stunprotocol.org/ |
-| **stylua** | 2.4.1 | An opinionated Lua code formatter | https://github.com/JohnnyMorganz/StyLua |
+| **stylua** | 2.5.2 | An opinionated Lua code formatter | https://github.com/JohnnyMorganz/StyLua |
 | **subtitleripper** | 0.3.4-1 | DVD subtitle ripper for Linux | https://subtitleripper.sourceforge.net/ |
 | **subversion** | 1.14.5-1 | Centralized version control system characterized by its simplicity | https://subversion.apache.org |
 | **subversion-perl** | 1.14.5-1 | Perl interface to Subversion | https://subversion.apache.org |
@@ -2642,7 +2642,7 @@
 | **urdfdom-headers** | 3.0.0 | Headers for URDF parsers | https://github.com/ros/urdfdom_headers |
 | **usbmuxd** | 1.1.1-p20250201-2 | A socket daemon to multiplex connections from and to iOS devices | https://libimobiledevice.org |
 | **usql** | 0.21.4 | A universal command-line interface for SQL databases | https://github.com/xo/usql |
-| **utf8cpp** | 1:4.0.9 | UTF8-CPP: UTF-8 with C++ in a Portable Way | https://github.com/nemtrif/utfcpp |
+| **utf8cpp** | 1:4.1.0 | UTF8-CPP: UTF-8 with C++ in a Portable Way | https://github.com/nemtrif/utfcpp |
 | **utf8proc** | 2.11.3 | Library for processing UTF-8 Unicode data | https://github.com/JuliaLang/utf8proc |
 | **utf8proc-static** | 2.11.3 | Static libraries for utf8proc | https://github.com/JuliaLang/utf8proc |
 | **uthash** | 2.3.0 | C preprocessor implementations of a hash table and a linked list | https://troydhanson.github.io/uthash/ |
@@ -2688,7 +2688,7 @@
 | **vlc-static** | 3.0.23-3 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-4 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.3-1 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 2026.05.15 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
+| **vtm** | 2026.05.17 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
 | **vttest** | 20251205 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vulkan-extension-layer** | 1.4.350 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
 | **vulkan-headers** | 1.4.352 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
