@@ -7663,7 +7663,7 @@
   },
   {
     "Package": "libnss",
-    "Version": "3.123.1",
+    "Version": "3.124",
     "Description": "Network Security Services (NSS)",
     "Homepage": "https://firefox-source-docs.mozilla.org/security/nss/"
   },
@@ -11365,7 +11365,7 @@
   },
   {
     "Package": "nss-utils",
-    "Version": "3.123.1",
+    "Version": "3.124",
     "Description": "Tools for NSS",
     "Homepage": "https://firefox-source-docs.mozilla.org/security/nss/"
   },
@@ -14917,7 +14917,7 @@
   },
   {
     "Package": "teleport-tsh",
-    "Version": "18.8.0",
+    "Version": "18.8.1",
     "Description": "Secure Access for Developers that doesnt get in the way",
     "Homepage": "https://github.com/gravitational/teleport"
   },
@@ -15283,7 +15283,7 @@
   },
   {
     "Package": "topgrade",
-    "Version": "17.4.0",
+    "Version": "17.5.0",
     "Description": "Upgrade all the things",
     "Homepage": "https://github.com/topgrade-rs/topgrade/"
   },
@@ -15955,7 +15955,7 @@
   },
   {
     "Package": "vale",
-    "Version": "3.14.1",
+    "Version": "3.14.2",
     "Description": "A syntax-aware linter for prose built with speed and extensibility in mind",
     "Homepage": "https://vale.sh"
   },
@@ -16141,7 +16141,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "2026.05.13",
+    "Version": "2026.05.15",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://github.com/directvt/vtm"
   },
