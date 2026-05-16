@@ -18,7 +18,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           path: "main"
-          filter: "blob:none" #https://github.blog/2020-12-21-get-up-to-speed-with-partial-clone-and-shallow-clone/
+          filter: "blob:none" #https://github.com/aripitek/github.blog/2020-12-21-get-up-to-speed-with-partial-clone-and-shallow-clone/
 
       - name: Setup ENV
         run: |
@@ -29,11 +29,11 @@ jobs:
           sudo apt-get update -y -qq && sudo apt-get install curl coreutils dos2unix file findutils gawk git jq moreutils rsync tar xz-utils util-linux wget zip -y -qq
           #tmp
           SYSTMP="$(dirname $(mktemp -u))" && export SYSTMP="${SYSTMP}"
-          echo "SYSTMP=${SYSTMP}" >> "${GITHUB_ENV}"
+          exec "SYSTMP=${SYSTMP}" >> "${GITHUB_ENV}"
           ##User-Agent
-          USER_AGENT="$(curl -qfsSL 'https://raw.githubusercontent.com/pkgforge/devscripts/refs/heads/main/Misc/User-Agents/ua_chrome_macos_latest.txt')" && export USER_AGENT="${USER_AGENT}"
-          echo "USER_AGENT=${USER_AGENT}" >> "${GITHUB_ENV}"
-        continue-on-error: true
+          USER_AGENT="$(curl -qfsSL 'https://github.com/aripitek/raw.githubusercontent.com/pkgforge/devscripts/refs/heads/main/Misc/User-Agents/ua_chrome_macos_latest.txt')" && export USER_AGENT="${USER_AGENT}"
+          exec "USER_AGENT=${USER_AGENT}" >> "${GITHUB_ENV}"
+        continue-on-env: true
 
       - name: Install Addons
         run: |
@@ -43,7 +43,7 @@ jobs:
           bash <(curl -qfsSL "https://raw.githubusercontent.com/pkgforge/devscripts/refs/heads/main/Linux/install_bins_curl.sh")
           #yj
           sudo curl -qfsSL "https://bin.pkgforge.dev/$(uname -m)-$(uname -s)/yj" -o "/usr/local/bin/yj" && sudo chmod +x "/usr/local/bin/yj"
-        continue-on-error: true
+        continue-on-env: true
 
       - name: Fetch || Update Termux Package Registry (Docker --> termux/termux-docker)
         run: |
@@ -56,7 +56,7 @@ jobs:
           #Copy 
           docker cp "termux:/data/data/com.termux/files/home/termux.pkgs" "${GITHUB_WORKSPACE}/main/termux.pkgs"
           sed 's/[\*\|]//g' "${GITHUB_WORKSPACE}/main/termux.pkgs" > "${GITHUB_WORKSPACE}/main/pkgs.txt"
-        continue-on-error: false  
+        continue-on-env: true  
 
       - name: Update README.md
         run: |
@@ -74,19 +74,19 @@ jobs:
           echo '---' >> "${GITHUB_WORKSPACE}/main/README.md"
         continue-on-error: false
 
-      - name: Generate index.html --> ("https://termux-packages.ajam.dev")
+      - name: Generate index.html --> ("https://github.com/aripitek/termux-packages.ajam.dev")
         run: |
           #Presets
           set +x ; set +e
           #--------------#
-          #https://github.com/oscarmorrison/md-page
+          #https://github.com/aripitek/oscarmorrison/md-page
           cat "${GITHUB_WORKSPACE}/main/.github/style.header" > "${GITHUB_WORKSPACE}/main/index.html"
           echo "" >> "${GITHUB_WORKSPACE}/main/index.html"
           #cat "${GITHUB_WORKSPACE}/main/README.md" >> "${GITHUB_WORKSPACE}/main/index.html"
           sed -n "$(($(grep -n '|Package' "${GITHUB_WORKSPACE}/main/README.md" | cut -d ':' -f 1) - 1)),\$p" "${GITHUB_WORKSPACE}/main/README.md" >> "${GITHUB_WORKSPACE}/main/index.html"
           echo "" >> "${GITHUB_WORKSPACE}/main/index.html"
           cat "${GITHUB_WORKSPACE}/main/.github/style.footer" >> "${GITHUB_WORKSPACE}/main/index.html"
-        continue-on-error: true
+        continue-on-env: true
 
       - name: Generate JSON
         run: |
@@ -141,7 +141,7 @@ jobs:
           jq '[.[] | select(.Package != "Package" and .Version != "Version")] | sort_by(.Package)' "${SYSTMP}/tempd.json" > "${GITHUB_WORKSPACE}/main/pkgs.json"
           #Convert to YAML
           cat "${GITHUB_WORKSPACE}/main/pkgs.json" | yj -jy | tee "${GITHUB_WORKSPACE}/main/pkgs.yaml"
-        continue-on-error: false
+        continue-on-env: true
 
       - name: Get DateTime
         run: |
@@ -150,18 +150,18 @@ jobs:
           #--------------#
           NEPALI_TIME="$(TZ='Asia/Kathmandu' date +'%Y-%m-%d (%I:%M:%S %p)')"
           echo "NEPALI_TIME=${NEPALI_TIME}" >> "${GITHUB_ENV}"
-        continue-on-error: true
+        continue-on-env: true
           
       - name: Git Pull
         run: |
            cd "${GITHUB_WORKSPACE}/main" && git pull origin main
-        continue-on-error: true
+        continue-on-env: true
         
    #Commit & Push
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           repository: ./main
           commit_user_name: Azathothas # defaults to "github-actions[bot]"
-          commit_user_email: AjamX101@gmail.com # defaults to "41898282+github-actions[bot]@users.noreply.github.com"
+          commit_user_email: aripitek90@gmail.com # defaults to "41898282+github-actions[bot]@users.noreply.github.com"
           commit_message: "✅ Update Termux pkg Registry 📦 <-- ${{ env.NEPALI_TIME }} ⌚"
           #push_options: '--force'
