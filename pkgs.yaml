@@ -990,10 +990,6 @@
   Version: 2.6.2
   Description: Command line parser for C++11
   Homepage: https://github.com/CLIUtils/CLI11
-- Package: clidle
-  Version: 2022.05.25-3
-  Description: Play Wordle over SSH
-  Homepage: https://github.com/ajeetdsouza/clidle
 - Package: clifm
   Version: 1.27.1
   Description: 'The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell'
@@ -3866,10 +3862,6 @@
   Version: 1.3.2-1
   Description: Static libraries for libcddb
   Homepage: https://libcddb.sourceforge.net/
-- Package: libcdk
-  Version: 5.0-20250116-1
-  Description: Curses Development Kit
-  Homepage: https://dickey.his.com/cdk/cdk.html
 - Package: libcec
   Version: 7.1.1-1
   Description: Provides support for Pulse-Eights USB-CEC adapter and other CEC capable hardware
@@ -4029,10 +4021,6 @@
 - Package: libde265
   Version: 1.0.18
   Description: H.265/HEVC video stream decoder library
-  Homepage: https://github.com/strukturag/libde265
-- Package: libde265-static
-  Version: 1.0.16-1
-  Description: Static libraries for libde265
   Homepage: https://github.com/strukturag/libde265
 - Package: libdebuginfod
   Version: 0.193-1
@@ -7411,7 +7399,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-509+g1813e1c089-0
+  Version: 0.13.0~dev-519+g7d99104058-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
