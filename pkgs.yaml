@@ -1895,11 +1895,11 @@
   Description: Re-implementation of the well-known FaCT Description Logic (DL) Reasoner
   Homepage: https://bitbucket.org/dtsarkov/factplusplus
 - Package: fakeroot
-  Version: 1.37.2
+  Version: "1.38"
   Description: Tool for simulating superuser privileges (with tcp ipc)
   Homepage: https://packages.qa.debian.org/f/fakeroot.html
 - Package: fakeroot-static
-  Version: 1.37.2
+  Version: "1.38"
   Description: Static libraries for fakeroot
   Homepage: https://packages.qa.debian.org/f/fakeroot.html
 - Package: fasd
@@ -2667,7 +2667,7 @@
   Description: TUI for searching torrents
   Homepage: https://github.com/ismaelpadilla/gotorrent
 - Package: gotty
-  Version: 1.7.1
+  Version: 1.7.2
   Description: Share your terminal as a web application
   Homepage: https://github.com/sorenisanerd/gotty
 - Package: gpac
