@@ -5857,37 +5857,37 @@
   },
   {
     "Package": "libcoinor-cgl",
-    "Version": "0.60.8-1",
+    "Version": "0.60.10",
     "Description": "An open-source cut generation library for COIN-OR projects",
     "Homepage": "https://github.com/coin-or/Cgl"
   },
   {
     "Package": "libcoinor-cgl-static",
-    "Version": "0.60.8-1",
+    "Version": "0.60.10",
     "Description": "Static libraries for libcoinor-cgl",
     "Homepage": "https://github.com/coin-or/Cgl"
   },
   {
     "Package": "libcoinor-osi",
-    "Version": "1:0.108.8-1",
+    "Version": "1:0.108.12",
     "Description": "An abstract base class to a generic linear programming (LP) solver",
     "Homepage": "https://github.com/coin-or/Osi"
   },
   {
     "Package": "libcoinor-osi-static",
-    "Version": "1:0.108.8-1",
+    "Version": "1:0.108.12",
     "Description": "Static libraries for libcoinor-osi",
     "Homepage": "https://github.com/coin-or/Osi"
   },
   {
     "Package": "libcoinor-utils",
-    "Version": "1:2.11.11-1",
+    "Version": "1:2.11.13",
     "Description": "An open-source collection of classes and helper functions for COIN-OR projects",
     "Homepage": "https://github.com/coin-or/CoinUtils"
   },
   {
     "Package": "libcoinor-utils-static",
-    "Version": "1:2.11.11-1",
+    "Version": "1:2.11.13",
     "Description": "Static libraries for libcoinor-utils",
     "Homepage": "https://github.com/coin-or/CoinUtils"
   },
@@ -15907,7 +15907,7 @@
   },
   {
     "Package": "v2ray",
-    "Version": "5.48.0",
+    "Version": "5.49.0",
     "Description": "A platform for building proxies to bypass network restrictions",
     "Homepage": "https://www.v2fly.org/"
   },
