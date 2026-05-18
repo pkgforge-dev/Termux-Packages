@@ -540,7 +540,7 @@
 | **forgejo** | 15.0.2 | Forgejo is a self-hosted lightweight software forge. | https://forgejo.org/ |
 | **fortune** | 1.2-2 | Revealer of fortunes | https://www.fefe.de/fortune/ |
 | **fossil** | 2.28 | DSCM with built-in wiki, http interface and server, tickets database | https://www.fossil-scm.org |
-| **foundry** | 1.7.1 | A blazing fast, portable and modular toolkit for Ethereum application development | https://github.com/foundry-rs/foundry |
+| **foundry** | 1.7.1-1 | A blazing fast, portable and modular toolkit for Ethereum application development | https://github.com/foundry-rs/foundry |
 | **freecolor** | 0.9.3-1 | Freecolor is a replacement for Linux that displays free memory graphically | http://rkeene.org/oss/freecolor/ |
 | **freeimage** | 3.18.0-7 | The library project for developers who would like to support popular graphics image formats | https://freeimage.sourceforge.io |
 | **freeimage-static** | 3.18.0-7 | Static libraries for freeimage | https://freeimage.sourceforge.io |
@@ -2243,7 +2243,7 @@
 | **recutils** | 1.9-1 | Set of tools and libraries to access human-editable, plain text databases called recfiles | https://www.gnu.org/software/recutils/ |
 | **recutils-static** | 1.9-1 | Static libraries for recutils | https://www.gnu.org/software/recutils/ |
 | **redir** | 3.3-3 | TCP port redirector for UNIX | https://github.com/troglobit/redir |
-| **redis** | 1:8.6.1 | In-memory data structure store used as a database, cache and message broker | https://redis.io/ |
+| **redis** | 1:8.6.3 | In-memory data structure store used as a database, cache and message broker | https://redis.io/ |
 | **remind** | 1:06.02.06 | Sophisticated calendar and alarm program | https://dianne.skoll.ca/projects/remind/ |
 | **renameutils** | 0.12.0-3 | A set of programs designed to make renaming of files faster and less cumbersome | https://www.nongnu.org/renameutils/ |
 | **reptyr** | 0.10.0-1 | Tool for reparenting a running program to a new terminal | https://github.com/nelhage/reptyr |
