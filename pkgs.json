@@ -1663,7 +1663,7 @@
   },
   {
     "Package": "cookcli",
-    "Version": "0.29.1",
+    "Version": "0.30.0",
     "Description": "A suite of tools to create shopping lists and maintain food recipes",
     "Homepage": "https://cooklang.org"
   },
@@ -6319,13 +6319,13 @@
   },
   {
     "Package": "libffi",
-    "Version": "3.4.7-1",
+    "Version": "3.5.2",
     "Description": "Library providing a portable, high level programming interface to various calling conventions",
     "Homepage": "https://sourceware.org/libffi/"
   },
   {
     "Package": "libffi-static",
-    "Version": "3.4.7-1",
+    "Version": "3.5.2",
     "Description": "Static libraries for libffi",
     "Homepage": "https://sourceware.org/libffi/"
   },
@@ -7747,13 +7747,13 @@
   },
   {
     "Package": "libopenmpt",
-    "Version": "0.8.6",
+    "Version": "0.8.7",
     "Description": "Library to render tracker music formats to a PCM audio stream",
     "Homepage": "https://lib.openmpt.org/libopenmpt/"
   },
   {
     "Package": "libopenmpt-static",
-    "Version": "0.8.6",
+    "Version": "0.8.7",
     "Description": "Static libraries for libopenmpt",
     "Homepage": "https://lib.openmpt.org/libopenmpt/"
   },
@@ -9433,7 +9433,7 @@
   },
   {
     "Package": "libxmlb",
-    "Version": "0.3.26",
+    "Version": "0.3.27",
     "Description": "Library to help create and query binary XML blobs",
     "Homepage": "https://github.com/hughsie/libxmlb"
   },
@@ -11701,7 +11701,7 @@
   },
   {
     "Package": "openmpt123",
-    "Version": "0.8.6",
+    "Version": "0.8.7",
     "Description": "libopenmpt based command-line player for tracker music formats",
     "Homepage": "https://lib.openmpt.org/libopenmpt/"
   },
@@ -15958,12 +15958,6 @@
     "Version": "3.22.0-1",
     "Description": "Static libraries for valgrind",
     "Homepage": "https://valgrind.org/"
-  },
-  {
-    "Package": "valkey",
-    "Version": "9.0.4",
-    "Description": "In-memory data structure store used as a database, cache and message broker",
-    "Homepage": "https://valkey.io/"
   },
   {
     "Package": "valkey-static",
