@@ -8791,7 +8791,7 @@
   },
   {
     "Package": "libtorrent",
-    "Version": "0.16.11",
+    "Version": "0.16.12",
     "Description": "Libtorrent BitTorrent library",
     "Homepage": "https://github.com/rakshasa/rtorrent/wiki"
   },
@@ -8803,7 +8803,7 @@
   },
   {
     "Package": "libtorrent-static",
-    "Version": "0.16.11",
+    "Version": "0.16.12",
     "Description": "Static libraries for libtorrent",
     "Homepage": "https://github.com/rakshasa/rtorrent/wiki"
   },
@@ -10411,7 +10411,7 @@
   },
   {
     "Package": "memcached",
-    "Version": "1.6.41",
+    "Version": "1.6.42",
     "Description": "Free & open source, high-performance, distributed memory object caching system",
     "Homepage": "https://memcached.org/"
   },
@@ -11851,13 +11851,13 @@
   },
   {
     "Package": "oxfmt",
-    "Version": "1.65.0",
+    "Version": "1.66.0",
     "Description": "Oxc JavaScript formatter",
     "Homepage": "https://oxc.rs/"
   },
   {
     "Package": "oxlint",
-    "Version": "1.65.0",
+    "Version": "1.66.0",
     "Description": "Oxc JavaScript linter",
     "Homepage": "https://oxc.rs/"
   },
@@ -13603,7 +13603,7 @@
   },
   {
     "Package": "rtorrent",
-    "Version": "0.16.11",
+    "Version": "0.16.12",
     "Description": "Ncurses BitTorrent client based on libTorrent",
     "Homepage": "https://rakshasa.github.io/rtorrent/"
   },
@@ -15661,7 +15661,7 @@
   },
   {
     "Package": "ty",
-    "Version": "0.0.37",
+    "Version": "0.0.37-1",
     "Description": "An extremely fast Python type checker and language server, written in Rust",
     "Homepage": "https://github.com/astral-sh/ty"
   },
@@ -16123,7 +16123,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "2026.05.18",
+    "Version": "2026.05.19",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://github.com/directvt/vtm"
   },
@@ -16195,15 +16195,15 @@
   },
   {
     "Package": "w3m",
-    "Version": "0.5.6",
+    "Version": "0.5.6-1",
     "Description": "Text based Web browser and pager",
-    "Homepage": "https://w3m.sourceforge.net/"
+    "Homepage": "https://git.sr.ht/~rkta/w3m"
   },
   {
     "Package": "w3m-img",
-    "Version": "0.5.6",
+    "Version": "0.5.6-1",
     "Description": "Inline image extension support utilities for w3m",
-    "Homepage": "https://w3m.sourceforge.net/"
+    "Homepage": "https://git.sr.ht/~rkta/w3m"
   },
   {
     "Package": "wabt",
