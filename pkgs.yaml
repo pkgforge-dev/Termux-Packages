@@ -459,7 +459,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.34.48
+  Version: 2.34.49
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -1263,7 +1263,7 @@
   Description: A simple webserver, implemented in a single .c file.
   Homepage: https://unix4lyfe.org/darkhttpd
 - Package: dart
-  Version: 3.11.6
+  Version: 3.12.0
   Description: Dart is a general-purpose programming language
   Homepage: https://dart.dev/
 - Package: dasel
@@ -2079,7 +2079,7 @@
   Description: Software synthesizer based on the SoundFont 2 specifications
   Homepage: https://github.com/FluidSynth/fluidsynth
 - Package: flyctl
-  Version: 0.4.52
+  Version: 0.4.53
   Description: Command line tools for fly.io services
   Homepage: https://fly.io
 - Package: fm
@@ -2147,7 +2147,7 @@
   Description: Minimalistic plugin API for video effects
   Homepage: https://www.dyne.org/software/frei0r/
 - Package: fresh-editor
-  Version: 0.3.6
+  Version: 0.3.7
   Description: 'Text editor for your terminal: easy, powerful and fast'
   Homepage: https://getfresh.dev/
 - Package: fribidi
@@ -2643,7 +2643,7 @@
   Description: University of Minnesota gopher
   Homepage: gopher://gopher.quux.org/1/devel/gopher
 - Package: gopls
-  Version: 0.21.1
+  Version: 0.22.0
   Description: The official Go language server
   Homepage: https://github.com/golang/tools
 - Package: goresym
@@ -2683,15 +2683,15 @@
   Description: A perfect hash function generator
   Homepage: https://www.gnu.org/software/gperf
 - Package: gpgme
-  Version: 2.0.1
+  Version: 2.1.0
   Description: Library designed to make access to GnuPG easier
   Homepage: https://www.gnupg.org/related_software/gpgme/
 - Package: gpgme-static
-  Version: 2.0.1
+  Version: 2.1.0
   Description: Static libraries for gpgme
   Homepage: https://www.gnupg.org/related_software/gpgme/
 - Package: gpgmepp
-  Version: 2.0.0
+  Version: 2.1.0
   Description: C++ bindings for GPGME
   Homepage: https://www.gnupg.org/related_software/gpgme/
 - Package: gpgv
@@ -3103,11 +3103,11 @@
   Description: A command line id3v2 tag editor
   Homepage: https://id3v2.sourceforge.net/
 - Package: imagemagick
-  Version: 7.1.2.22
+  Version: 7.1.2.23
   Description: Suite to create, edit, compose, or convert images in a variety of formats
   Homepage: https://www.imagemagick.org/
 - Package: imagemagick-static
-  Version: 7.1.2.22
+  Version: 7.1.2.23
   Description: Static libraries for imagemagick
   Homepage: https://www.imagemagick.org/
 - Package: imath
@@ -3383,7 +3383,7 @@
   Description: Code editor heavily inspired by Vim
   Homepage: https://kakoune.org/
 - Package: kakoune-lsp
-  Version: 20.0.0
+  Version: 21.0.0
   Description: Language Server Protocol Client for the Kakoune editor
   Homepage: https://github.com/kakoune-lsp/kakoune-lsp
 - Package: kbd
@@ -4475,7 +4475,7 @@
   Description: Static libraries for libhyphen
   Homepage: https://github.com/hunspell/hyphen
 - Package: libical
-  Version: 3.0.20-3
+  Version: 4.0.1
   Description: Libical is an Open Source implementation of the iCalendar protocols and protocol data units
   Homepage: https://libical.github.io/libical/
 - Package: libice
@@ -5967,11 +5967,11 @@
   Description: Static libraries for liburcu
   Homepage: https://liburcu.org/
 - Package: libusb
-  Version: 1.0.29-1
+  Version: 1.0.30
   Description: A C library that provides generic access to USB devices
   Homepage: https://libusb.info/
 - Package: libusb-static
-  Version: 1.0.29-1
+  Version: 1.0.30
   Description: Static libraries for libusb
   Homepage: https://libusb.info/
 - Package: libusbmuxd
@@ -6251,11 +6251,11 @@
   Description: Static libraries for libxft
   Homepage: https://xorg.freedesktop.org/
 - Package: libxi
-  Version: 1.8.2-1
+  Version: 1.8.3
   Description: X11 Input extension library
   Homepage: https://xorg.freedesktop.org/
 - Package: libxi-static
-  Version: 1.8.2-1
+  Version: 1.8.3
   Description: Static libraries for libxi
   Homepage: https://xorg.freedesktop.org/
 - Package: libxls
@@ -6675,7 +6675,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.29.1
+  Version: 0.29.2
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://lux.lumen-labs.org
 - Package: lv2
@@ -6807,7 +6807,7 @@
   Description: A Matrix-WhatsApp puppeting bridge
   Homepage: https://maunium.net/go/mautrix-whatsapp/
 - Package: maven
-  Version: 3.9.15
+  Version: 3.9.16
   Description: A Java software project management and comprehension tool
   Homepage: https://maven.apache.org/
 - Package: maxcso
@@ -7399,7 +7399,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-519+g7d99104058-0
+  Version: 0.13.0~dev-541+gf3bb21e71d-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -7623,7 +7623,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 29.13.1
+  Version: 29.14.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: oidn
@@ -8159,7 +8159,7 @@
   Description: Sodium module for PHP
   Homepage: https://php.net
 - Package: php-zephir-parser
-  Version: 2.0.0
+  Version: 2.0.1
   Description: The Zephir Parser delivered as a C extension for the PHP language
   Homepage: https://github.com/phalcon/php-zephir-parser
 - Package: phpmyadmin
@@ -8239,7 +8239,7 @@
   Description: A superset of Lua 5.4 with a focus on general-purpose programming.
   Homepage: https://plutolang.github.io/
 - Package: plutovg
-  Version: 1.3.2
+  Version: 1.3.3
   Description: Tiny 2D vector graphics library in C
   Homepage: https://github.com/sammycage/plutovg
 - Package: plzip
@@ -8819,7 +8819,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 4.58.0
+  Version: 4.59.0
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
@@ -8911,11 +8911,11 @@
   Description: Static libraries for recode
   Homepage: https://github.com/pinard/Recode
 - Package: recoll
-  Version: 1.43.16
+  Version: 1.43.17
   Description: Full-text search for your desktop
   Homepage: https://www.recoll.org/
 - Package: recoll-python
-  Version: 1.43.16
+  Version: 1.43.17
   Description: Python interface for Recoll
   Homepage: https://www.recoll.org/
 - Package: recutils
@@ -9123,7 +9123,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: "20260511"
+  Version: "20260518"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://rust-analyzer.github.io/
 - Package: rust-bindgen
@@ -10467,7 +10467,7 @@
   Description: Function (graph) tracer for user-space
   Homepage: https://uftrace.github.io/slide
 - Package: ugrep
-  Version: 7.8.1
+  Version: 7.8.2
   Description: A faster, user-friendly and compatible grep replacement
   Homepage: https://github.com/Genivia/ugrep
 - Package: unar
@@ -10599,7 +10599,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.11.14
+  Version: 0.11.15
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
@@ -10699,7 +10699,7 @@
   Description: VI Like Emacs - vi work-alike
   Homepage: https://invisible-island.net/vile/
 - Package: vim
-  Version: 9.2.0450
+  Version: 9.2.0500
   Description: Vi IMproved - enhanced vi editor
   Homepage: https://www.vim.org
 - Package: virglrenderer
@@ -10747,7 +10747,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2026.05.17
+  Version: 2026.05.18
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vttest
@@ -10827,7 +10827,7 @@
   Description: Command line linker for creating WebAssembly components
   Homepage: https://github.com/bytecodealliance/wasm-component-ld
 - Package: wasmedge
-  Version: 0.16.3
+  Version: 0.17.0
   Description: A lightweight, high-performance, and extensible WebAssembly runtime
   Homepage: https://wasmedge.org/
 - Package: wasmer
@@ -11019,7 +11019,7 @@
   Description: A friendly and fast tool for sending HTTP requests
   Homepage: https://github.com/ducaale/xh
 - Package: xmake
-  Version: 3.0.8
+  Version: 3.0.9
   Description: A cross-platform build utility based on Lua
   Homepage: https://xmake.io/
 - Package: xmlsec
@@ -11071,7 +11071,7 @@
   Description: Static libraries for xvidcore
   Homepage: https://www.xvid.com/
 - Package: xxd
-  Version: 9.2.0450
+  Version: 9.2.0500
   Description: Hexdump utility from vim
   Homepage: https://www.vim.org
 - Package: xxhash
