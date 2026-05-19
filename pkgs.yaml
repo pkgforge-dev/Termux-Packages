@@ -6567,7 +6567,7 @@
   Description: Static libraries for lsof
   Homepage: https://github.com/lsof-org/lsof
 - Package: ltrace
-  Version: 1:0.8.1
+  Version: 1:0.8.1-1
   Description: Tracks runtime library calls in dynamically linked programs
   Homepage: http://www.ltrace.org/
 - Package: lua-language-server
@@ -8539,7 +8539,7 @@
   Description: A lightweight LLVM python binding for writing JIT compilers
   Homepage: https://llvmlite.pydata.org/
 - Package: python-lxml
-  Version: 6.1.0
+  Version: 6.1.1
   Description: Python binding for the libxml2 and libxslt libraries
   Homepage: https://github.com/lxml/lxml
 - Package: python-msgpack
