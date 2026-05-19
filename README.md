@@ -327,7 +327,7 @@
 | **dar-static** | 2.8.5 | Static libraries for dar | http://dar.linux.free.fr/ |
 | **darkhttpd** | 1.17-1 | A simple webserver, implemented in a single .c file. | https://unix4lyfe.org/darkhttpd |
 | **dart** | 3.12.0 | Dart is a general-purpose programming language | https://dart.dev/ |
-| **dasel** | 3.10.1 | Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility | https://github.com/TomWright/dasel |
+| **dasel** | 3.11.0 | Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility | https://github.com/TomWright/dasel |
 | **dash** | 0.5.12-2 | Small POSIX-compliant implementation of /bin/sh | http://gondor.apana.org.au/~herbert/dash/ |
 | **dasm** | 2.20.14.1-1 | Macro assembler with support for several 8-bit microprocessors | https://dasm-dillon.sourceforge.io/ |
 | **datamash** | 1.9-1 | Program performing numeric, textual and statistical operations | https://www.gnu.org/software/datamash/ |
@@ -1977,7 +1977,7 @@
 | **opusfile** | 0.12-4 | A high-level API for decoding and seeking within .opus files | https://www.opus-codec.org/ |
 | **opusfile-static** | 0.12-4 | Static libraries for opusfile | https://www.opus-codec.org/ |
 | **opustags** | 1.10.1 | Ogg Opus tags editor | https://github.com/fmang/opustags |
-| **orbiton** | 2.74.0 | Small, fast and limited text editor | https://roboticoverlords.org/orbiton/ |
+| **orbiton** | 2.74.1 | Small, fast and limited text editor | https://roboticoverlords.org/orbiton/ |
 | **osm2pgsql** | 2.2.0-2 | osm2pgsql imports OpenStreetMap (OSM) data into a PostgreSQL/PostGIS database | https://osm2pgsql.org/ |
 | **osmctools** | 0.9-3 | Simple tools for OpenStreetMap processing | https://gitlab.com/osm-c-tools/osmctools |
 | **osmium-tool** | 1.19.0 | A multipurpose command line tool based on the Osmium Library | https://osmcode.org/osmium-tool/ |
@@ -2435,7 +2435,7 @@
 | **stoken** | 0.93-3 | Software Token for Linux/UNIX | https://github.com/cernekee/stoken |
 | **stoken-static** | 0.93-3 | Static libraries for stoken | https://github.com/cernekee/stoken |
 | **stone** | 2.4-3 | A TCP/IP repeater in the application layer | https://www.gcd.org/sengoku/stone/ |
-| **storj-uplink** | 1.153.2 | Storj DCS Uplink CLI | https://www.storj.io/integrations/uplink-cli |
+| **storj-uplink** | 1.154.4 | Storj DCS Uplink CLI | https://www.storj.io/integrations/uplink-cli |
 | **stow** | 2.4.1 | Tool for managing the installation of multiple software packages into a single directory | https://www.gnu.org/software/stow/ |
 | **strace** | 7.0 | Debugging utility to monitor system calls and signals received | https://strace.io/ |
 | **streamripper** | 1.64.6-3 | Records and splits streaming mp3 into tracks | https://streamripper.sourceforge.net/ |
@@ -2566,7 +2566,7 @@
 | **translate-shell** | 0.9.7.1-1 | Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc. | https://www.soimort.org/translate-shell |
 | **transmission** | 4.1.1 | Easy, lean and powerful BitTorrent client | https://transmissionbt.com/ |
 | **tree** | 2.3.2 | Recursive directory lister producing a depth indented listing of files | http://mama.indstate.edu/users/ice/tree/ |
-| **tree-sitter** | 0.26.8 | An incremental parsing system for programming tools | https://tree-sitter.github.io/ |
+| **tree-sitter** | 0.26.9 | An incremental parsing system for programming tools | https://tree-sitter.github.io/ |
 | **tree-sitter-bash** | 0.25.1-1 | Bash grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-bash |
 | **tree-sitter-c** | 0.24.2 | C grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-c |
 | **tree-sitter-css** | 0.25.0-1 | CSS grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-css |
@@ -2688,7 +2688,7 @@
 | **vim** | 9.2.0500 | Vi IMproved - enhanced vi editor | https://www.vim.org |
 | **virglrenderer** | 1.3.0 | A virtual 3D GPU for use inside qemu virtual machines | https://virgil3d.github.io/ |
 | **virglrenderer-android** | 1.3.0 | A virtual 3D GPU for use inside qemu virtual machines over OpenGLES libraries on Android | https://virgil3d.github.io/ |
-| **virustotal-cli** | 1.3.0 | Command line interface for VirusTotal | https://github.com/VirusTotal/vt-cli |
+| **virustotal-cli** | 1.3.1 | Command line interface for VirusTotal | https://github.com/VirusTotal/vt-cli |
 | **vis** | 0.9-p20250111-0 | Modern, legacy free, simple yet efficient vim-like editor | https://www.brain-dump.org/projects/vis/ |
 | **vitetris** | 0.59.1-4 | Virtual terminal *tris clone | http://victornils.net/tetris/ |
 | **viu** | 1.6.1 | Terminal image viewer with native support for iTerm and Kitty | https://github.com/atanunq/viu |
