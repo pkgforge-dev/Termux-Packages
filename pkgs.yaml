@@ -459,7 +459,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.34.49
+  Version: 2.34.50
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -7399,7 +7399,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-541+gf3bb21e71d-0
+  Version: 0.13.0~dev-547+ga59c8a9c76-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -8791,7 +8791,7 @@
   Description: Allows you to easily manage large numbers of patches
   Homepage: https://savannah.nongnu.org/projects/quilt
 - Package: rabbitmq-server
-  Version: 4.3.0
+  Version: 4.3.1
   Description: Feature rich, multi-protocol messaging and streaming broker
   Homepage: https://github.com/rabbitmq/rabbitmq-server
 - Package: racket
@@ -9055,7 +9055,7 @@
   Description: A remote filesystem snapshot utility
   Homepage: https://www.rsnapshot.org/
 - Package: rsync
-  Version: 3.4.2
+  Version: 3.4.3
   Description: Fast incremental file transfer utility
   Homepage: https://rsync.samba.org/
 - Package: rtmpdump
