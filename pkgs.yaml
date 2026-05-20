@@ -1679,7 +1679,7 @@
   Description: High-performance disk usage analyzer
   Homepage: http://duc.zevv.nl/
 - Package: duckdb
-  Version: 1.5.2
+  Version: 1.5.3
   Description: DuckDB Command Line Interface (CLI) shell
   Homepage: https://duckdb.org/
 - Package: duf
@@ -1831,11 +1831,11 @@
   Description: Event Notify Test Runner - run arbitrary commands when files change
   Homepage: https://eradman.com/entrproject/
 - Package: erlang
-  Version: "28.5"
+  Version: "29.0"
   Description: General-purpose concurrent functional programming language
   Homepage: https://www.erlang.org/
 - Package: erlang-doc
-  Version: "28.5"
+  Version: "29.0"
   Description: Erlang HTML documentation
   Homepage: https://www.erlang.org/
 - Package: esbuild
@@ -2739,7 +2739,7 @@
   Description: Static libraries for graphviz
   Homepage: https://www.graphviz.org/
 - Package: greed
-  Version: "4.5"
+  Version: "5.0"
   Description: Game where you try to eat as much as possible of the board before munching yourself into a corner
   Homepage: http://www.catb.org/~esr/greed/
 - Package: grep
@@ -4063,11 +4063,11 @@
   Description: Userspace interface to kernel DRM services
   Homepage: https://dri.freedesktop.org/wiki/
 - Package: libduckdb
-  Version: 1.5.2
+  Version: 1.5.3
   Description: An in-process SQL OLAP database management system
   Homepage: https://duckdb.org/
 - Package: libduckdb-static
-  Version: 1.5.2
+  Version: 1.5.3
   Description: Static libraries for libduckdb
   Homepage: https://duckdb.org/
 - Package: libduktape
@@ -5935,11 +5935,11 @@
   Description: Static libraries for libudfread
   Homepage: https://code.videolan.org/videolan/libudfread/
 - Package: libunbound
-  Version: 1.25.0
+  Version: 1.25.1
   Description: A validating, recursive, caching DNS resolver
   Homepage: https://unbound.net/
 - Package: libunbound-static
-  Version: 1.25.0
+  Version: 1.25.1
   Description: Static libraries for libunbound
   Homepage: https://unbound.net/
 - Package: libunibilium
@@ -7687,7 +7687,7 @@
   Description: Static libraries for oorexx
   Homepage: https://www.oorexx.org/
 - Package: open-adventure
-  Version: 1.20-1
+  Version: "1.21"
   Description: Forward-port of the original Colossal Cave Adventure from 1976-77
   Homepage: http://www.catb.org/~esr/open-adventure/
 - Package: openal-soft
@@ -8519,7 +8519,7 @@
   Description: Wheels for Python ensurepip
   Homepage: https://python.org/
 - Package: python-greenlet
-  Version: 3.5.0
+  Version: 3.5.1
   Description: Lightweight coroutines for in-process concurrent programming
   Homepage: https://github.com/python-greenlet/greenlet
 - Package: python-grpcio
@@ -8659,7 +8659,7 @@
   Description: Static libraries for python2
   Homepage: http://python.org/
 - Package: pyunbound
-  Version: 1.25.0
+  Version: 1.25.1
   Description: Python bindings for Unbound
   Homepage: https://unbound.net/
 - Package: pzstd
@@ -10159,7 +10159,7 @@
   Description: Terminal multiplexer with instant terminal sharing
   Homepage: https://tmate.io
 - Package: tmux
-  Version: 3.6a
+  Version: 3.6b
   Description: Terminal multiplexer
   Homepage: https://tmux.github.io/
 - Package: toilet
@@ -10179,7 +10179,7 @@
   Description: toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library
   Homepage: https://github.com/ToruNiina/toml11
 - Package: topgrade
-  Version: 17.5.0
+  Version: 17.5.1
   Description: Upgrade all the things
   Homepage: https://github.com/topgrade-rs/topgrade/
 - Package: tor
@@ -10475,7 +10475,7 @@
   Description: Command line tools for archive and file unarchiving and extraction
   Homepage: https://theunarchiver.com/command-line
 - Package: unbound
-  Version: 1.25.0
+  Version: 1.25.1
   Description: Unbound command-line tools
   Homepage: https://unbound.net/
 - Package: unicode-cldr
@@ -10751,7 +10751,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2026.05.19
+  Version: 2026.05.20
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vttest

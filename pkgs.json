@@ -2521,7 +2521,7 @@
   },
   {
     "Package": "duckdb",
-    "Version": "1.5.2",
+    "Version": "1.5.3",
     "Description": "DuckDB Command Line Interface (CLI) shell",
     "Homepage": "https://duckdb.org/"
   },
@@ -2749,13 +2749,13 @@
   },
   {
     "Package": "erlang",
-    "Version": "28.5",
+    "Version": "29.0",
     "Description": "General-purpose concurrent functional programming language",
     "Homepage": "https://www.erlang.org/"
   },
   {
     "Package": "erlang-doc",
-    "Version": "28.5",
+    "Version": "29.0",
     "Description": "Erlang HTML documentation",
     "Homepage": "https://www.erlang.org/"
   },
@@ -4111,7 +4111,7 @@
   },
   {
     "Package": "greed",
-    "Version": "4.5",
+    "Version": "5.0",
     "Description": "Game where you try to eat as much as possible of the board before munching yourself into a corner",
     "Homepage": "http://www.catb.org/~esr/greed/"
   },
@@ -6097,13 +6097,13 @@
   },
   {
     "Package": "libduckdb",
-    "Version": "1.5.2",
+    "Version": "1.5.3",
     "Description": "An in-process SQL OLAP database management system",
     "Homepage": "https://duckdb.org/"
   },
   {
     "Package": "libduckdb-static",
-    "Version": "1.5.2",
+    "Version": "1.5.3",
     "Description": "Static libraries for libduckdb",
     "Homepage": "https://duckdb.org/"
   },
@@ -8905,13 +8905,13 @@
   },
   {
     "Package": "libunbound",
-    "Version": "1.25.0",
+    "Version": "1.25.1",
     "Description": "A validating, recursive, caching DNS resolver",
     "Homepage": "https://unbound.net/"
   },
   {
     "Package": "libunbound-static",
-    "Version": "1.25.0",
+    "Version": "1.25.1",
     "Description": "Static libraries for libunbound",
     "Homepage": "https://unbound.net/"
   },
@@ -11533,7 +11533,7 @@
   },
   {
     "Package": "open-adventure",
-    "Version": "1.20-1",
+    "Version": "1.21",
     "Description": "Forward-port of the original Colossal Cave Adventure from 1976-77",
     "Homepage": "http://www.catb.org/~esr/open-adventure/"
   },
@@ -12781,7 +12781,7 @@
   },
   {
     "Package": "python-greenlet",
-    "Version": "3.5.0",
+    "Version": "3.5.1",
     "Description": "Lightweight coroutines for in-process concurrent programming",
     "Homepage": "https://github.com/python-greenlet/greenlet"
   },
@@ -12991,7 +12991,7 @@
   },
   {
     "Package": "pyunbound",
-    "Version": "1.25.0",
+    "Version": "1.25.1",
     "Description": "Python bindings for Unbound",
     "Homepage": "https://unbound.net/"
   },
@@ -15241,7 +15241,7 @@
   },
   {
     "Package": "tmux",
-    "Version": "3.6a",
+    "Version": "3.6b",
     "Description": "Terminal multiplexer",
     "Homepage": "https://tmux.github.io/"
   },
@@ -15271,7 +15271,7 @@
   },
   {
     "Package": "topgrade",
-    "Version": "17.5.0",
+    "Version": "17.5.1",
     "Description": "Upgrade all the things",
     "Homepage": "https://github.com/topgrade-rs/topgrade/"
   },
@@ -15715,7 +15715,7 @@
   },
   {
     "Package": "unbound",
-    "Version": "1.25.0",
+    "Version": "1.25.1",
     "Description": "Unbound command-line tools",
     "Homepage": "https://unbound.net/"
   },
@@ -16129,7 +16129,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "2026.05.19",
+    "Version": "2026.05.20",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://github.com/directvt/vtm"
   },
