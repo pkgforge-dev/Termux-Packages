@@ -1387,7 +1387,7 @@
   },
   {
     "Package": "chezmoi",
-    "Version": "2.70.3",
+    "Version": "2.70.4",
     "Description": "Manage your dotfiles across multiple machines",
     "Homepage": "https://chezmoi.io"
   },
@@ -2149,7 +2149,7 @@
   },
   {
     "Package": "dnscontrol",
-    "Version": "4.38.0",
+    "Version": "4.39.0",
     "Description": "Infrastructure as code for DNS!",
     "Homepage": "https://github.com/StackExchange/dnscontrol"
   },
@@ -6673,13 +6673,13 @@
   },
   {
     "Package": "libheif",
-    "Version": "1.21.2-2",
+    "Version": "1.22.0",
     "Description": "HEIF (HEIC/AVIF) image encoding and decoding library",
     "Homepage": "https://github.com/strukturag/libheif"
   },
   {
     "Package": "libheif-progs",
-    "Version": "1.21.2-2",
+    "Version": "1.22.0",
     "Description": "Programs for manipulating HEIF (HEIC/AVIF) image files",
     "Homepage": "https://github.com/strukturag/libheif"
   },
@@ -10015,7 +10015,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.29.2",
+    "Version": "0.29.3",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://lux.lumen-labs.org"
   },
@@ -10255,7 +10255,7 @@
   },
   {
     "Package": "mdbook",
-    "Version": "0.5.2",
+    "Version": "0.5.3",
     "Description": "Creates book from markdown files",
     "Homepage": "https://rust-lang.github.io/mdBook/"
   },
@@ -11803,7 +11803,7 @@
   },
   {
     "Package": "orbiton",
-    "Version": "2.74.1",
+    "Version": "2.74.2",
     "Description": "Small, fast and limited text editor",
     "Homepage": "https://roboticoverlords.org/orbiton/"
   },
@@ -15661,7 +15661,7 @@
   },
   {
     "Package": "ty",
-    "Version": "0.0.37-1",
+    "Version": "0.0.38",
     "Description": "An extremely fast Python type checker and language server, written in Rust",
     "Homepage": "https://github.com/astral-sh/ty"
   },
@@ -15960,8 +15960,14 @@
     "Homepage": "https://valgrind.org/"
   },
   {
+    "Package": "valkey",
+    "Version": "9.1.0",
+    "Description": "In-memory data structure store used as a database, cache and message broker",
+    "Homepage": "https://valkey.io/"
+  },
+  {
     "Package": "valkey-static",
-    "Version": "9.0.4",
+    "Version": "9.1.0",
     "Description": "Static libraries for valkey",
     "Homepage": "https://valkey.io/"
   },
@@ -16021,7 +16027,7 @@
   },
   {
     "Package": "vgmstream",
-    "Version": "2083-1",
+    "Version": "2117",
     "Description": "A library for playback of various streamed audio formats used in video games",
     "Homepage": "https://github.com/vgmstream/vgmstream"
   },
@@ -16213,7 +16219,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "2.14.2",
+    "Version": "2.14.5",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },
