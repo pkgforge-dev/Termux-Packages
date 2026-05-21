@@ -472,8 +472,8 @@
  eza  0.23.4  A modern replacement for ls  https://github.com/eza-community/eza 
  faad2  2.11.2  Freeware Advanced Audio (AAC) Decoder  https://github.com/knik0/faad2 
  fact++  1.6.5-3  Re-implementation of the well-known FaCT Description Logic (DL) Reasoner  https://bitbucket.org/dtsarkov/factplusplus 
- fakeroot  1.38  Tool for simulating superuser privileges (with tcp ipc)  https://packages.qa.debian.org/f/fakeroot.html 
- fakeroot-static  1.38  Static libraries for fakeroot  https://packages.qa.debian.org/f/fakeroot.html 
+ fakeroot  1.38.1  Tool for simulating superuser privileges (with tcp ipc)  https://packages.qa.debian.org/f/fakeroot.html 
+ fakeroot-static  1.38.1  Static libraries for fakeroot  https://packages.qa.debian.org/f/fakeroot.html 
  fasd  2.0.0  To fastly access files and folders  https://github.com/whjvenyl/fasd 
  fastfetch  2.63.1  A maintained, feature-rich and performance oriented, neofetch like system information tool  https://github.com/fastfetch-cli/fastfetch 
  fastmod  0.4.4-1  Regex-based code refactoring utility  https://github.com/facebookincubator/fastmod 
@@ -843,7 +843,7 @@
  k2pdfopt  2.55-4  A tool that optimizes PDF files for viewing on mobile readers  https://www.willus.com/k2pdfopt/ 
  k9s  0.50.18  Kubernetes CLI To Manage Your Clusters In Style!  https://k9scli.io 
  kainjow-mustache  4.1  Mustache implementation for modern C++  https://github.com/kainjow/Mustache 
- kakoune  2026.04.12  Code editor heavily inspired by Vim  https://kakoune.org/ 
+ kakoune  2026.05.21  Code editor heavily inspired by Vim  https://kakoune.org/ 
  kakoune-lsp  21.0.0  Language Server Protocol Client for the Kakoune editor  https://github.com/kakoune-lsp/kakoune-lsp 
  kbd  2.9.0  KBD's showkey utility for examining keycodes  https://kbd-project.org/ 
  kew  4.0.0-1  Music for the Shell  https://codeberg.org/ravachol/kew 
@@ -1848,7 +1848,7 @@
  neofetch  7.1.0-1  Simple system information script  https://github.com/dylanaraps/neofetch 
  neomutt  20260504  A version of mutt with added features  https://neomutt.org/ 
  neovim  0.12.2  Ambitious Vim-fork focused on extensibility and agility (nvim)  https://neovim.io/ 
- neovim-nightly  0.13.0~dev-547+ga59c8a9c76-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
+ neovim-nightly  0.13.0~dev-565+ga952575c3b-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
  nerdfix  0.4.2-1  nerdfix helps you to find/fix obsolete Nerd Font icons in your project.  https://github.com/loichyan/nerdfix 
  net-snmp  5.9.5.2  Various tools relating to the Simple Network Management Protocol  http://www.net-snmp.org/ 
  net-snmp-static  5.9.5.2  Static libraries for net-snmp  http://www.net-snmp.org/ 
@@ -1911,7 +1911,7 @@
  oleo  1.99.16-10  The GNU Spreadsheet  https://www.gnu.org/software/oleo/ 
  ollama  0.24.0  Get up and running with large language models  https://ollama.com/ 
  ollama-backend-vulkan  0.24.0  Vulkan Backend for Ollama  https://ollama.com/ 
- oma  1.26.1  oma is an attempt at reworking APT's interface  https://aosc.io/oma 
+ oma  1.26.2  oma is an attempt at reworking APT's interface  https://aosc.io/oma 
  onefetch  2.27.1  A command-line Git information tool written in Rust  https://onefetch.dev/ 
  onigmo  6.2.0-1  A regular expressions library forked from Oniguruma  https://github.com/k-takata/Onigmo 
  onigmo-static  6.2.0-1  Static libraries for onigmo  https://github.com/k-takata/Onigmo 

@@ -1895,11 +1895,11 @@
   Description: Re-implementation of the well-known FaCT Description Logic (DL) Reasoner
   Homepage: https://bitbucket.org/dtsarkov/factplusplus
 - Package: fakeroot
-  Version: "1.38"
+  Version: 1.38.1
   Description: Tool for simulating superuser privileges (with tcp ipc)
   Homepage: https://packages.qa.debian.org/f/fakeroot.html
 - Package: fakeroot-static
-  Version: "1.38"
+  Version: 1.38.1
   Description: Static libraries for fakeroot
   Homepage: https://packages.qa.debian.org/f/fakeroot.html
 - Package: fasd
@@ -3379,7 +3379,7 @@
   Description: Mustache implementation for modern C++
   Homepage: https://github.com/kainjow/Mustache
 - Package: kakoune
-  Version: 2026.04.12
+  Version: 2026.05.21
   Description: Code editor heavily inspired by Vim
   Homepage: https://kakoune.org/
 - Package: kakoune-lsp
@@ -7399,7 +7399,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-547+ga59c8a9c76-0
+  Version: 0.13.0~dev-565+ga952575c3b-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -7651,7 +7651,7 @@
   Description: Vulkan Backend for Ollama
   Homepage: https://ollama.com/
 - Package: oma
-  Version: 1.26.1
+  Version: 1.26.2
   Description: oma is an attempt at reworking APTs interface
   Homepage: https://aosc.io/oma
 - Package: onefetch
