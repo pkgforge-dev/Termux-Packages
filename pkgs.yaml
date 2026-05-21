@@ -459,7 +459,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.34.50
+  Version: 2.34.51
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -2079,7 +2079,7 @@
   Description: Software synthesizer based on the SoundFont 2 specifications
   Homepage: https://github.com/FluidSynth/fluidsynth
 - Package: flyctl
-  Version: 0.4.53
+  Version: 0.4.54
   Description: Command line tools for fly.io services
   Homepage: https://fly.io
 - Package: fm
@@ -2451,7 +2451,7 @@
   Description: Simple, Portable, Free File Transfer Software for UNIX
   Homepage: http://www.columbia.edu/kermit/gkermit.html
 - Package: glab-cli
-  Version: 1.97.0
+  Version: 1.99.0
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
@@ -7187,7 +7187,7 @@
   Description: Static libraries for mruby
   Homepage: https://mruby.org/
 - Package: ms-gsl
-  Version: 4.2.1
+  Version: 4.2.2
   Description: Guidelines Support Library
   Homepage: https://github.com/Microsoft/GSL
 - Package: msedit
@@ -7543,7 +7543,7 @@
   Description: Thread-based email index, search and tagging system
   Homepage: https://notmuchmail.org
 - Package: npm
-  Version: 11.14.1
+  Version: 11.15.0
   Description: The package manager for JavaScript
   Homepage: https://docs.npmjs.com/cli/
 - Package: npush
@@ -10567,7 +10567,7 @@
   Description: A universal command-line interface for SQL databases
   Homepage: https://github.com/xo/usql
 - Package: utf8cpp
-  Version: 1:4.1.0
+  Version: 1:4.1.1
   Description: 'UTF8-CPP: UTF-8 with C++ in a Portable Way'
   Homepage: https://github.com/nemtrif/utfcpp
 - Package: utf8proc
