@@ -2479,7 +2479,7 @@
   },
   {
     "Package": "dropbear",
-    "Version": "2025.89",
+    "Version": "2026.91",
     "Description": "Small SSH server and client",
     "Homepage": "https://matt.ucc.asn.au/dropbear/dropbear.html"
   },
@@ -3253,7 +3253,7 @@
   },
   {
     "Package": "frp",
-    "Version": "0.68.1",
+    "Version": "0.69.0",
     "Description": "A fast reverse proxy to expose a local server behind a NAT or firewall to the internet",
     "Homepage": "https://github.com/fatedier/frp"
   },
@@ -12883,7 +12883,7 @@
   },
   {
     "Package": "python-ruff",
-    "Version": "0.15.13",
+    "Version": "0.15.14",
     "Description": "An extremely fast Python linter, written in Rust (Python bindings)",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -13657,7 +13657,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.15.13",
+    "Version": "0.15.14",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -16261,7 +16261,7 @@
   },
   {
     "Package": "wasmtime",
-    "Version": "44.0.1",
+    "Version": "45.0.0",
     "Description": "A standalone runtime for WebAssembly",
     "Homepage": "https://wasmtime.dev/"
   },
