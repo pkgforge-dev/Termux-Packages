@@ -71,7 +71,7 @@
 | **arpack-ng** | 2:3.9.1 | Collection of Fortran77 subroutines designed to solve large scale eigenvalue problems. | https://github.com/opencollab/arpack-ng |
 | **artalk** | 2.9.1-1 | A self-hosted comment system | https://artalk.js.org/ |
 | **arturo** | 0.9.83-1 | Simple, expressive & portable programming language for efficient scripting | https://arturo-lang.io |
-| **ascii** | 3.31 | List ASCII idiomatic names and octal/decimal code-point forms | http://www.catb.org/~esr/ascii/ |
+| **ascii** | 3.32 | List ASCII idiomatic names and octal/decimal code-point forms | http://www.catb.org/~esr/ascii/ |
 | **asciidoc** | 10.2.1-2 | Text document format for short documents, articles, books and UNIX man pages. | https://asciidoc.org |
 | **asciidoctor** | 2.0.26 | An implementation of AsciiDoc in Ruby | https://asciidoctor.org/ |
 | **asciinema** | 1:3.2.0 | Record and share your terminal sessions, the right way | https://asciinema.org/ |
@@ -253,8 +253,8 @@
 | **cloudflared** | 2026.5.0 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
 | **clpeak** | 1.1.7 | A tool which profiles OpenCL devices to find their peak capacities | https://github.com/krrishnarraj/clpeak |
 | **clvk** | 0.0.20260429.095507 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
-| **cmake** | 4.3.2-1 | Family of tools designed to build, test and package software | https://cmake.org/ |
-| **cmake-curses-gui** | 4.3.2-1 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
+| **cmake** | 4.3.3 | Family of tools designed to build, test and package software | https://cmake.org/ |
+| **cmake-curses-gui** | 4.3.3 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
 | **cmark** | 0.31.2 | CommonMark parsing and rendering program | https://github.com/commonmark/cmark |
 | **cmark-static** | 0.31.2 | Static libraries for cmark | https://github.com/commonmark/cmark |
 | **cmatrix** | 2.0-1 | Command producing a Matrix-style animation | https://github.com/abishekvashok/cmatrix |
@@ -521,9 +521,9 @@
 | **flyctl** | 0.4.54 | Command line tools for fly.io services | https://fly.io |
 | **fm** | 1.2.0 | A terminal based file manager | https://github.com/knipferrc/fm |
 | **fmt** | 1:11.2.0 | Open-source formatting library for C++ | https://fmt.dev/latest/index.html |
-| **fontconfig** | 2.17.1-1 | Library for configuring and customizing font access | https://www.freedesktop.org/wiki/Software/fontconfig/ |
-| **fontconfig-static** | 2.17.1-1 | Static libraries for fontconfig | https://www.freedesktop.org/wiki/Software/fontconfig/ |
-| **fontconfig-utils** | 2.17.1-1 | Fontconfig binaries | https://www.freedesktop.org/wiki/Software/fontconfig/ |
+| **fontconfig** | 2.18.0 | Library for configuring and customizing font access | https://www.freedesktop.org/wiki/Software/fontconfig/ |
+| **fontconfig-static** | 2.18.0 | Static libraries for fontconfig | https://www.freedesktop.org/wiki/Software/fontconfig/ |
+| **fontconfig-utils** | 2.18.0 | Fontconfig binaries | https://www.freedesktop.org/wiki/Software/fontconfig/ |
 | **forestdb-dump** | 1.2-2 | ForestDB dump tool | https://github.com/couchbase/forestdb |
 | **forgejo** | 15.0.2 | Forgejo is a self-hosted lightweight software forge. | https://forgejo.org/ |
 | **fortune** | 1.2-2 | Revealer of fortunes | https://www.fefe.de/fortune/ |
