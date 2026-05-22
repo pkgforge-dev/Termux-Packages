@@ -568,7 +568,7 @@
 | **gdbm-static** | 1.26-1 | Static libraries for gdbm | https://www.gnu.org.ua/software/gdbm/ |
 | **gdbserver** | 16.3-3 | The gdbserver program | https://www.gnu.org/software/gdb/ |
 | **gdk-pixbuf** | 2.44.6 | Library for image loading and manipulation | https://wiki.gnome.org/Projects/GdkPixbuf |
-| **gdrive-downloader** | 1:1.1 | Download a gdrive folder or file easily, shell ftw | https://github.com/Akianonymus/gdrive-downloader |
+| **gdrive-downloader** | 1:2.0 | Download a gdrive folder or file easily, shell ftw | https://github.com/Akianonymus/gdrive-downloader |
 | **gdu** | 5.36.1 | Fast disk usage analyzer with console interface written in Go | https://github.com/dundee/gdu |
 | **geckodriver** | 0.36.0-1 | Proxy for using W3C WebDriver-compatible clients to interact with Gecko-based browsers | https://github.com/mozilla/geckodriver |
 | **gecode** | 6.2.0-1 | Generic Constraint Development Environment | https://github.com/Gecode/gecode |
@@ -688,7 +688,7 @@
 | **grex** | 1.4.6-1 | Simplifies the task of creating regular expressions | https://github.com/pemistahl/grex |
 | **groff** | 1.23.0-2 | typesetting system that reads plain text mixed with formatting commands and produces formatted output | https://www.gnu.org/software/groff/ |
 | **gron** | 0.7.1-4 | Transforms JSON into discrete assignments | https://github.com/tomnomnom/gron |
-| **groonga** | 16.0.4 | An embeddable fulltext search engine | https://github.com/groonga/groonga/ |
+| **groonga** | 16.0.5 | An embeddable fulltext search engine | https://github.com/groonga/groonga/ |
 | **groovy** | 4.0.26-4 | A powerful multi-faceted programming language for the JVM platform | https://groovy-lang.org/ |
 | **grpcurl** | 1.9.3 | Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers | https://github.com/fullstorydev/grpcurl |
 | **gsasl** | 2.2.3 | GNU SASL library command line interface | https://www.gnu.org/software/gsasl |
@@ -816,7 +816,7 @@
 | **jcal-static** | 0.5.1-1 | Static libraries for jcal | http://nongnu.org/jcal |
 | **jellyfin-ffmpeg** | 10.11.5-3 | FFmpeg for Jellyfin with custom extensions and enhancements | https://jellyfin.org |
 | **jellyfin-server** | 10.11.5-3 | A free media system for organizing and streaming media (server) | https://jellyfin.org |
-| **jfrog-cli** | 2.103.0 | A CLI for JFrog products | https://jfrog.com/getcli |
+| **jfrog-cli** | 2.104.1 | A CLI for JFrog products | https://jfrog.com/getcli |
 | **jftui** | 0.7.5 | jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server. | https://github.com/Aanok/jftui |
 | **jhead** | 3.08-1 | Exif Jpeg header manipulation tool | http://www.sentex.net/~mwandel/jhead/ |
 | **jigdo** | 0.8.2-1 | Distribute large images by sending and receiving the files that make them up | http://atterer.org/jigdo/ |
@@ -1079,7 +1079,7 @@
 | **libgf2x-static** | 1.3.0-2 | Static libraries for libgf2x | https://gitlab.inria.fr/gf2x/gf2x |
 | **libgfshare** | 2.0.0-8 | Utilities for multi-way secret-sharing | https://www.digital-scurf.org/software/libgfshare |
 | **libgfshare-static** | 2.0.0-8 | Static libraries for libgfshare | https://www.digital-scurf.org/software/libgfshare |
-| **libgit2** | 1.9.3 | C library implementing Git core methods | https://libgit2.github.com/ |
+| **libgit2** | 1.9.4 | C library implementing Git core methods | https://libgit2.github.com/ |
 | **libglibmm-2.4** | 2.66.8 | A C++ API for parts of glib that are useful for C++ | https://www.gtkmm.org/ |
 | **libglibmm-2.68** | 2.88.0 | A C++ API for parts of glib that are useful for C++ | https://www.gtkmm.org/ |
 | **libglvnd** | 1.7.0-1 | The GL Vendor-Neutral Dispatch library | https://gitlab.freedesktop.org/glvnd/libglvnd |
@@ -1848,7 +1848,7 @@
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20260504 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.12.2 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
-| **neovim-nightly** | 0.13.0~dev-565+ga952575c3b-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
+| **neovim-nightly** | 0.13.0~dev-576+g71c72c3409-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
 | **nerdfix** | 0.4.2-1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.5.2 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.5.2 | Static libraries for net-snmp | http://www.net-snmp.org/ |
@@ -1911,7 +1911,7 @@
 | **oleo** | 1.99.16-10 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
 | **ollama** | 0.24.0 | Get up and running with large language models | https://ollama.com/ |
 | **ollama-backend-vulkan** | 0.24.0 | Vulkan Backend for Ollama | https://ollama.com/ |
-| **oma** | 1.26.2 | oma is an attempt at reworking APT's interface | https://aosc.io/oma |
+| **oma** | 1.26.3 | oma is an attempt at reworking APT's interface | https://aosc.io/oma |
 | **onefetch** | 2.27.1 | A command-line Git information tool written in Rust | https://onefetch.dev/ |
 | **onigmo** | 6.2.0-1 | A regular expressions library forked from Oniguruma | https://github.com/k-takata/Onigmo |
 | **onigmo-static** | 6.2.0-1 | Static libraries for onigmo | https://github.com/k-takata/Onigmo |
@@ -2062,7 +2062,7 @@
 | **plzip** | 1.13 | A massively parallel lossless data compressor based on the lzlib compression library | https://www.nongnu.org/lzip/plzip.html |
 | **pngcrush** | 1.8.13-2 | Recompresses png files | https://pmt.sourceforge.io/pngcrush/ |
 | **pngquant** | 3.0.3-2 | PNG image optimising utility | https://pngquant.org |
-| **pocketbase** | 0.38.1 | An open source Go backend | https://github.com/pocketbase/pocketbase |
+| **pocketbase** | 0.38.2 | An open source Go backend | https://github.com/pocketbase/pocketbase |
 | **poke** | 4.3-1 | Interactive, extensible editor for binary data. | http://www.jemarch.net/poke.html |
 | **poke-static** | 4.3-1 | Static libraries for poke | http://www.jemarch.net/poke.html |
 | **polipo** | 1.1.1-1 | A small and fast caching web proxy | http://www.pps.jussieu.fr/~jch/software/polipo/ |
@@ -2730,7 +2730,7 @@
 | **wget2** | 2.2.1-1 | The successor of GNU Wget, a file and recursive website downloader | https://gitlab.com/gnuwget/wget2 |
 | **wget2-static** | 2.2.1-1 | Static libraries for wget2 | https://gitlab.com/gnuwget/wget2 |
 | **wgetpaste** | 2.34 | wgetpaste is a shell script that allows its users to upload log. | https://github.com/zlin/wgetpaste |
-| **which** | 2.23-1 | Shows the full path of (shell) commands | https://savannah.gnu.org/projects/which/ |
+| **which** | 2.25 | Shows the full path of (shell) commands | https://savannah.gnu.org/projects/which/ |
 | **whiptail** | 0.52.25-1 | Display dialog boxes from shell scripts | https://pagure.io/newt |
 | **whitebox-tools** | 2.4.0-1 | An advanced geospatial data analysis platform | https://github.com/jblindsay/whitebox-tools |
 | **whois** | 5.6.6 | An intelligent Whois client | https://github.com/rfc1036/whois |
