@@ -459,7 +459,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.34.51
+  Version: 2.34.52
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -5907,7 +5907,7 @@
   Description: Static libraries for libtwolame
   Homepage: https://www.twolame.org/
 - Package: libuber-h3
-  Version: 4.4.1
+  Version: 4.5.0
   Description: A hexagonal hierarchical geospatial indexing system
   Homepage: https://h3geo.org/
 - Package: libuchardet
@@ -8783,7 +8783,7 @@
   Description: Finds bugs in JavaScript programs
   Homepage: https://quick-lint-js.com/
 - Package: quickjs-ng
-  Version: 0.14.0
+  Version: 0.15.0
   Description: Embeddable JavaScript engine in C (NG fork)
   Homepage: https://quickjs-ng.github.io/quickjs/
 - Package: quilt
@@ -10599,7 +10599,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.11.15
+  Version: 0.11.16
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi

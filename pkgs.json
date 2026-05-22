@@ -691,7 +691,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.34.51",
+    "Version": "2.34.52",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -8863,7 +8863,7 @@
   },
   {
     "Package": "libuber-h3",
-    "Version": "4.4.1",
+    "Version": "4.5.0",
     "Description": "A hexagonal hierarchical geospatial indexing system",
     "Homepage": "https://h3geo.org/"
   },
@@ -13177,7 +13177,7 @@
   },
   {
     "Package": "quickjs-ng",
-    "Version": "0.14.0",
+    "Version": "0.15.0",
     "Description": "Embeddable JavaScript engine in C (NG fork)",
     "Homepage": "https://quickjs-ng.github.io/quickjs/"
   },
@@ -15901,7 +15901,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.11.15",
+    "Version": "0.11.16",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },

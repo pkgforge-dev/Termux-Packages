@@ -113,7 +113,7 @@
 | **aview** | 1.3.0rc1-6 | High quality ascii-art image browser and animation player | https://aa-project.sourceforge.net/aview/ |
 | **avra** | 1.4.2-1 | Assember for the Atmel AVR microcontroller family | https://github.com/Ro5bert/avra |
 | **await** | 2.6.0 | Runs list of commands in parallel and waits for their termination | https://github.com/slavaGanzin/await |
-| **awscli** | 2.34.51 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
+| **awscli** | 2.34.52 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
 | **axel** | 2.17.14-1 | light command line download accelerator | https://github.com/axel-download-accelerator/axel |
 | **b3sum** | 1.8.5 | A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum | https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum |
 | **babl** | 0.1.126 | Dynamic pixel format translation library | https://gegl.org/babl/ |
@@ -1475,7 +1475,7 @@
 | **libtvision** | 2025.10.31 | A modern port of Turbo Vision 2.0 with Unicode support | https://github.com/magiblot/tvision |
 | **libtwolame** | 0.4.0-1 | An optimised MPEG Audio Layer 2 (MP2) encoder | https://www.twolame.org/ |
 | **libtwolame-static** | 0.4.0-1 | Static libraries for libtwolame | https://www.twolame.org/ |
-| **libuber-h3** | 4.4.1 | A hexagonal hierarchical geospatial indexing system | https://h3geo.org/ |
+| **libuber-h3** | 4.5.0 | A hexagonal hierarchical geospatial indexing system | https://h3geo.org/ |
 | **libuchardet** | 0.0.8-2 | An encoding detector library | https://www.freedesktop.org/wiki/Software/uchardet/ |
 | **libuchardet-static** | 0.0.8-2 | Static libraries for libuchardet | https://www.freedesktop.org/wiki/Software/uchardet/ |
 | **libucontext** | 1.5 | A library which provides the ucontext.h C API | https://github.com/kaniini/libucontext |
@@ -2194,7 +2194,7 @@
 | **qrsspig** | 0.8.0-7 | Headless QRSS grabber for Raspberry Pi's | https://gitlab.com/hb9fxx/qrsspig |
 | **qrupdate-ng** | 2:1.1.5 | A Library for Fast Updating of QR and Cholesky Decompositions. | https://github.com/mpimd-csc/qrupdate-ng |
 | **quick-lint-js** | 3.2.0-1 | Finds bugs in JavaScript programs | https://quick-lint-js.com/ |
-| **quickjs-ng** | 0.14.0 | Embeddable JavaScript engine in C (NG fork) | https://quickjs-ng.github.io/quickjs/ |
+| **quickjs-ng** | 0.15.0 | Embeddable JavaScript engine in C (NG fork) | https://quickjs-ng.github.io/quickjs/ |
 | **quilt** | 0.69 | Allows you to easily manage large numbers of patches | https://savannah.nongnu.org/projects/quilt |
 | **rabbitmq-server** | 4.3.1 | Feature rich, multi-protocol messaging and streaming broker | https://github.com/rabbitmq/rabbitmq-server |
 | **racket** | 9.1 | Full-spectrum programming language going beyond Lisp and Scheme | https://racket-lang.org |
@@ -2648,7 +2648,7 @@
 | **util-linux-static** | 2.41.3 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-2 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.41.3 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **uv** | 0.11.15 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
+| **uv** | 0.11.16 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.31-1 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.49.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.19 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
