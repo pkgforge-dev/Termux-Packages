@@ -791,11 +791,11 @@
   Description: Data interchange format and capability-based RPC system
   Homepage: https://capnproto.org/
 - Package: capstone
-  Version: 5.0.7
+  Version: 5.0.8
   Description: Lightweight multi-platform, multi-architecture disassembly framework
   Homepage: https://www.capstone-engine.org/
 - Package: capstone-static
-  Version: 5.0.7
+  Version: 5.0.8
   Description: Static libraries for capstone
   Homepage: https://www.capstone-engine.org/
 - Package: carapace
@@ -2191,7 +2191,7 @@
   Description: Interactive JSON viewer on your terminal
   Homepage: https://github.com/antonmedv/fx
 - Package: fzf
-  Version: 0.72.0
+  Version: 0.73.0
   Description: Command-line fuzzy finder
   Homepage: https://junegunn.github.io/fzf/
 - Package: fzy
@@ -9907,7 +9907,7 @@
   Description: Tools for TDB
   Homepage: https://tdb.samba.org/
 - Package: tdl
-  Version: 0.20.2
+  Version: 0.20.3
   Description: Telegram downloader/tools written in Golang
   Homepage: https://docs.iyear.me/tdl/
 - Package: tea
@@ -10751,7 +10751,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2026.05.20
+  Version: 2026.05.21
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vttest

@@ -208,8 +208,8 @@
 | **calcurse** | 4.8.2-2 | calcurse is a calendar and scheduling application for the command line | https://calcurse.org/ |
 | **calcurse-caldav** | 4.8.2-2 | Sync calcurse with remote caldav calendar | https://calcurse.org/ |
 | **capnproto** | 1.4.0 | Data interchange format and capability-based RPC system | https://capnproto.org/ |
-| **capstone** | 5.0.7 | Lightweight multi-platform, multi-architecture disassembly framework | https://www.capstone-engine.org/ |
-| **capstone-static** | 5.0.7 | Static libraries for capstone | https://www.capstone-engine.org/ |
+| **capstone** | 5.0.8 | Lightweight multi-platform, multi-architecture disassembly framework | https://www.capstone-engine.org/ |
+| **capstone-static** | 5.0.8 | Static libraries for capstone | https://www.capstone-engine.org/ |
 | **carapace** | 1.6.6 | Multi-shell multi-command argument completer | https://carapace.sh/ |
 | **cargo-binstall** | 1.19.1 | Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem | https://github.com/cargo-bins/cargo-binstall |
 | **cargo-c** | 0.10.22 | Cargo C-ABI helpers | https://github.com/lu-zero/cargo-c |
@@ -558,7 +558,7 @@
 | **fwknop** | 2.6.11-2 | fwknop: Single Packet Authorization > Port Knocking | https://www.cipherdyne.org/fwknop/ |
 | **fwknop-static** | 2.6.11-2 | Static libraries for fwknop | https://www.cipherdyne.org/fwknop/ |
 | **fx** | 39.2.0 | Interactive JSON viewer on your terminal | https://github.com/antonmedv/fx |
-| **fzf** | 0.72.0 | Command-line fuzzy finder | https://junegunn.github.io/fzf/ |
+| **fzf** | 0.73.0 | Command-line fuzzy finder | https://junegunn.github.io/fzf/ |
 | **fzy** | 1.1-1 | A simple, fast fuzzy finder for the terminal | https://github.com/jhawthorn/fzy |
 | **g-ir-scanner** | 1.86.0-1 | A tool which generates GIR XML files | https://gi.readthedocs.io/ |
 | **game-music-emu** | 0.6.5 | A collection of video game music file emulators | https://bitbucket.org/mpyne/game-music-emu/wiki/Home |
@@ -2487,7 +2487,7 @@
 | **tcllib** | 2.0 | Tcl Standard Library | https://core.tcl-lang.org/tcllib/ |
 | **tcsh** | 6.24.16-1 | TENEX C Shell, an enhanced version of Berkeley csh | https://www.tcsh.org |
 | **tdb-tools** | 1.4.15 | Tools for TDB | https://tdb.samba.org/ |
-| **tdl** | 0.20.2 | Telegram downloader/tools written in Golang | https://docs.iyear.me/tdl/ |
+| **tdl** | 0.20.3 | Telegram downloader/tools written in Golang | https://docs.iyear.me/tdl/ |
 | **tea** | 0.14.1 | The official CLI for Gitea | https://gitea.com/gitea/tea |
 | **tealdeer** | 1.8.1 | A very fast implementation of tldr in Rust | https://tealdeer-rs.github.io/tealdeer/ |
 | **teckit** | 2.5.13 | TECkit is a library for encoding conversion | https://scripts.sil.org/teckitdownloads |
@@ -2698,7 +2698,7 @@
 | **vlc-static** | 3.0.23-3 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-4 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.3-1 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 2026.05.20 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
+| **vtm** | 2026.05.21 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
 | **vttest** | 20251205 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vulkan-extension-layer** | 1.4.350 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
 | **vulkan-headers** | 1.4.352 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
