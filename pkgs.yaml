@@ -7399,7 +7399,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-576+g71c72c3409-0
+  Version: 0.13.0~dev-583+gc8dbb04da9-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -7519,7 +7519,7 @@
   Description: This project provides a command line tool called nms that recreates the famous data decryption effect
   Homepage: https://github.com/bartobri/no-more-secrets
 - Package: nodejs
-  Version: 26.1.0-1
+  Version: 26.2.0
   Description: Open Source, cross-platform JavaScript runtime environment
   Homepage: https://nodejs.org/
 - Package: nodejs-lts
@@ -8859,7 +8859,7 @@
   Description: An alternative implementation of the plan 9 rc shell
   Homepage: https://github.com/rakitzis/rc
 - Package: rclone
-  Version: 1.74.1
+  Version: 1.74.2
   Description: rsync for cloud storage
   Homepage: https://rclone.org/
 - Package: rcm
