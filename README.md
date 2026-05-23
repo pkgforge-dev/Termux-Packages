@@ -882,7 +882,7 @@
 | **ldns** | 1.8.4-1 | Library for simplifying DNS programming and supporting recent and experimental RFCs | https://www.nlnetlabs.nl/projects/ldns/ |
 | **ldns-static** | 1.8.4-1 | Static libraries for ldns | https://www.nlnetlabs.nl/projects/ldns/ |
 | **ledger** | 3.4.1-2 | Powerful, double-entry accounting system | https://www.ledger-cli.org |
-| **lego** | 5.0.4 | Let's Encrypt/ACME client and library written in Go | https://github.com/go-acme/lego |
+| **lego** | 5.1.0 | Let's Encrypt/ACME client and library written in Go | https://github.com/go-acme/lego |
 | **leptonica** | 1.87.0 | Library for image processing and image analysis | http://www.leptonica.com/ |
 | **leptonica-static** | 1.87.0 | Static libraries for leptonica | http://www.leptonica.com/ |
 | **less** | 692 | Terminal pager program used to view the contents of a text file one screen at a time | https://www.greenwoodsoftware.com/less/ |
@@ -1844,7 +1844,7 @@
 | **ncmpcpp** | 0.10.1-8 | NCurses Music Player Client (Plus Plus) | https://rybczak.net/ncmpcpp/ |
 | **ncompress** | 5.0-1 | The classic unix compression utility which can handle the ancient .Z archive | https://github.com/vapier/ncompress |
 | **ncpamixer** | 1.3.11 | An ncurses mixer for PulseAudio | https://github.com/fulhax/ncpamixer |
-| **ncspot** | 1.3.3 | An ncurses Spotify client written in Rust | https://github.com/hrkfdn/ncspot |
+| **ncspot** | 1.3.4 | An ncurses Spotify client written in Rust | https://github.com/hrkfdn/ncspot |
 | **ncurses** | 6.6.20260307+really6.5.20250830 | Library for text-based user interfaces in a terminal-independent manner | https://invisible-island.net/ncurses/ |
 | **ncurses-static** | 6.6.20260307+really6.5.20250830 | Static libraries for ncurses | https://invisible-island.net/ncurses/ |
 | **ncurses-ui-libs** | 6.6.20260307+really6.5.20250830 | Libraries for terminal user interfaces based on ncurses | https://invisible-island.net/ncurses/ |
@@ -1877,7 +1877,7 @@
 | **nettle** | 4.0+really3.10.2 | Low level cryptographic tools | https://www.lysator.liu.se/~nisse/nettle/ |
 | **newsboat** | 2.43 | RSS/Atom feed reader for the text console | https://newsboat.org/ |
 | **newsraft** | 0.36 | Newsraft is a feed reader with text-based user interface | https://codeberg.org/newsraft/newsraft |
-| **nginx** | 1.31.0 | Lightweight HTTP server | https://www.nginx.org |
+| **nginx** | 1.31.1 | Lightweight HTTP server | https://www.nginx.org |
 | **ngircd** | 27-1 | Free, portable and lightweight Internet Relay Chat server | https://ngircd.barton.de/ |
 | **ngspice** | 46 | A mixed-level/mixed-signal circuit simulator | https://ngspice.sourceforge.net/ |
 | **nim** | 2.2.6 | Nim programming language compiler | https://nim-lang.org/ |
@@ -2620,7 +2620,7 @@
 | **tweego** | 2.1.1-4 | A free command line compiler for Twine/Twee story formats | https://bitbucket.org/tmedwards/tweego |
 | **twolame** | 0.4.0-1 | The frontend for libtwolame | https://www.twolame.org/ |
 | **txikijs** | 1:26.4.0 | A small and powerful JavaScript runtime | https://github.com/saghul/txiki.js |
-| **ty** | 0.0.38 | An extremely fast Python type checker and language server, written in Rust | https://github.com/astral-sh/ty |
+| **ty** | 0.0.39 | An extremely fast Python type checker and language server, written in Rust | https://github.com/astral-sh/ty |
 | **typst** | 0.14.2 | A new markup-based typesetting system that is powerful and easy to learn | https://typst.app/ |
 | **typstfmt** | 0.2.10-1 | basic formatter for the Typst language | https://github.com/astrale-sharp/typstfmt |
 | **uchardet** | 0.0.8-2 | An encoding detector utility | https://www.freedesktop.org/wiki/Software/uchardet/ |
