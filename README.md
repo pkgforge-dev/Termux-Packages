@@ -2274,7 +2274,7 @@
 | **rq** | 1.0.4-2 | A tool for doing record analysis and transformation | https://github.com/dflemstr/rq |
 | **rsgain** | 3.7 | A simple audio normalizazion utility | https://github.com/complexlogic/rsgain |
 | **rsnapshot** | 1.5.1 | A remote filesystem snapshot utility | https://www.rsnapshot.org/ |
-| **rsync** | 3.4.3 | Fast incremental file transfer utility | https://rsync.samba.org/ |
+| **rsync** | 3.4.3-1 | Fast incremental file transfer utility | https://rsync.samba.org/ |
 | **rtmpdump** | 2.6-1 | Small dumper for media content streamed over the RTMP protocol | https://rtmpdump.mplayerhq.hu/ |
 | **rtmpdump-static** | 2.6-1 | Static libraries for rtmpdump | https://rtmpdump.mplayerhq.hu/ |
 | **rtorrent** | 0.16.12 | Ncurses BitTorrent client based on libTorrent | https://rakshasa.github.io/rtorrent/ |
