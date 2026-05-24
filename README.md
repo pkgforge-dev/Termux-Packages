@@ -341,7 +341,7 @@
 | **debianutils** | 5.23.2-1 | Small utilities which are used primarily by the installation scripts of Debian packages | https://packages.debian.org/debianutils |
 | **debootstrap** | 1.0.143 | Bootstrap a basic Debian system | https://wiki.debian.org/Debootstrap |
 | **delve** | 1.26.3 | A debugger for the Go programming language | https://github.com/go-delve/delve |
-| **deno** | 1:2.7.14 | A modern runtime for JavaScript and TypeScript | https://deno.land/ |
+| **deno** | 1:2.8.0 | A modern runtime for JavaScript and TypeScript | https://deno.land/ |
 | **desed** | 1.2.2-1 | Demystifies and debugs your sed scripts | https://github.com/SoptikHa2/desed |
 | **deutex** | 5.2.3-1 | WAD composer for Doom, Heretic, Hexen, and Strife | https://github.com/Doom-Utils/deutex/ |
 | **dex2jar** | 2.4-1 | Tools to work with android .dex and java .class files | https://github.com/pxb1988/dex2jar |
@@ -639,7 +639,7 @@
 | **glulxe** | 0.6.1-1 | Interpreter for the Glulx portable VM for interactive fiction (IF) games | https://www.eblong.com/zarf/glulx/ |
 | **gmic** | 3.7.2 | Full-featured framework for image processing | https://gmic.eu |
 | **gmic-gm** | 3.7.2 | Full-featured framework for image processing (GraphicsMagick variant) | https://gmic.eu |
-| **gn** | 20251217 | Meta-build system that generates build files for Ninja | https://gn.googlesource.com/gn |
+| **gn** | 20260521 | Meta-build system that generates build files for Ninja | https://gn.googlesource.com/gn |
 | **gnucap** | 20210107-4 | The Gnu Circuit Analysis Package | https://www.gnu.org/software/gnucap/gnucap.html |
 | **gnuchess** | 6.3.0 | Chess-playing program | https://www.gnu.org/software/chess/ |
 | **gnucobol** | 3.2-2 | A free/libre COBOL compiler | https://gnucobol.sourceforge.io/ |
@@ -677,7 +677,7 @@
 | **gotify** | 2.9.1 | A simple server for sending and receiving messages in real-time per WebSocket. | https://github.com/gotify/server |
 | **gotop** | 4.2.0-4 | A terminal based graphical activity monitor inspired by gtop and vtop | https://github.com/xxxserxxx/gotop |
 | **gotorrent** | 0.1.2 | TUI for searching torrents | https://github.com/ismaelpadilla/gotorrent |
-| **gotty** | 1.7.2 | Share your terminal as a web application | https://github.com/sorenisanerd/gotty |
+| **gotty** | 1.8.0 | Share your terminal as a web application | https://github.com/sorenisanerd/gotty |
 | **gpac** | 2.4.0-5 | An open-source multimedia framework focused on modularity and standards compliance | https://gpac.wp.imt.fr/ |
 | **gpac-static** | 2.4.0-5 | Static libraries for gpac | https://gpac.wp.imt.fr/ |
 | **gperf** | 3.3-1 | A perfect hash function generator | https://www.gnu.org/software/gperf |
@@ -1156,8 +1156,8 @@
 | **libiodbc-static** | 3.52.16-1 | Static libraries for libiodbc | https://www.iodbc.org/ |
 | **libisoburn** | 1.5.8 | Frontend for libraries libburn and libisofs | https://dev.lovelyhq.com/libburnia |
 | **libisoburn-static** | 1.5.8 | Static libraries for libisoburn | https://dev.lovelyhq.com/libburnia |
-| **libisofs** | 1.5.8.pl01 | Library to pack up hard disk files and directories into a ISO 9660 disk image | https://dev.lovelyhq.com/libburnia |
-| **libisofs-static** | 1.5.8.pl01 | Static libraries for libisofs | https://dev.lovelyhq.com/libburnia |
+| **libisofs** | 1.5.8.pl02 | Library to pack up hard disk files and directories into a ISO 9660 disk image | https://dev.lovelyhq.com/libburnia |
+| **libisofs-static** | 1.5.8.pl02 | Static libraries for libisofs | https://dev.lovelyhq.com/libburnia |
 | **libjanet** | 1.41.2 | Development library for Janet | https://janet-lang.org |
 | **libjanet-static** | 1.41.2 | Static libraries for libjanet | https://janet-lang.org |
 | **libjansi** | 2.4.3 | A small java library that allows you to use ANSI escape codes to format your console output | https://fusesource.github.io/jansi/ |
@@ -1381,7 +1381,7 @@
 | **librtmidi** | 5.0.0-3 | A set of C++ classes that provides a common API for realtime MIDI input/output | https://www.music.mcgill.ca/~gary/rtmidi/ |
 | **librttopo** | 1.1.0-5 | The RT Topology Library exposes an API to create and manage standard topologies | https://git.osgeo.org/gitea/rttopo/librttopo |
 | **librttopo-static** | 1.1.0-5 | Static libraries for librttopo | https://git.osgeo.org/gitea/rttopo/librttopo |
-| **librusty-v8** | 1:2.7.14 | High quality Rust bindings to V8's C++ API | https://deno.land/ |
+| **librusty-v8** | 1:2.8.0 | High quality Rust bindings to V8's C++ API | https://deno.land/ |
 | **libsamplerate** | 0.2.2-4 | A library for performing sample rate conversion of audio data | https://libsndfile.github.io/libsamplerate/ |
 | **libsasl** | 2.1.28-2 | Cyrus SASL - authentication abstraction library | https://www.cyrusimap.org/sasl/ |
 | **libsasl-static** | 2.1.28-2 | Static libraries for libsasl | https://www.cyrusimap.org/sasl/ |
@@ -2328,7 +2328,7 @@
 | **sdcv** | 0.5.5-2 | StarDict Console Version | http://dushistov.github.io/sdcv/ |
 | **seafile-client** | 9.0.18 | Seafile is a file syncing and sharing software with file encryption and group sharing | https://seafile.com |
 | **seafile-client-static** | 9.0.18 | Static libraries for seafile-client | https://seafile.com |
-| **seanime** | 3.8.2 | Self-hosted anime and manga server for sea rovers. | https://github.com/5rahim/seanime |
+| **seanime** | 3.8.3 | Self-hosted anime and manga server for sea rovers. | https://github.com/5rahim/seanime |
 | **seccure** | 0.5-8 | SECCURE Elliptic Curve Crypto Utility for Reliable Encryption | http://point-at-infinity.org/seccure/ |
 | **secure-delete** | 3.1-6 | Secure file, disk, swap, memory erasure utilities | https://www.thc.org/ |
 | **sed** | 4.9-2 | GNU stream editor for filtering/transforming text | https://www.gnu.org/software/sed/ |

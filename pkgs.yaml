@@ -1323,7 +1323,7 @@
   Description: A debugger for the Go programming language
   Homepage: https://github.com/go-delve/delve
 - Package: deno
-  Version: 1:2.7.14
+  Version: 1:2.8.0
   Description: A modern runtime for JavaScript and TypeScript
   Homepage: https://deno.land/
 - Package: desed
@@ -2515,7 +2515,7 @@
   Description: Full-featured framework for image processing (GraphicsMagick variant)
   Homepage: https://gmic.eu
 - Package: gn
-  Version: "20251217"
+  Version: "20260521"
   Description: Meta-build system that generates build files for Ninja
   Homepage: https://gn.googlesource.com/gn
 - Package: gnucap
@@ -2667,7 +2667,7 @@
   Description: TUI for searching torrents
   Homepage: https://github.com/ismaelpadilla/gotorrent
 - Package: gotty
-  Version: 1.7.2
+  Version: 1.8.0
   Description: Share your terminal as a web application
   Homepage: https://github.com/sorenisanerd/gotty
 - Package: gpac
@@ -4583,11 +4583,11 @@
   Description: Static libraries for libisoburn
   Homepage: https://dev.lovelyhq.com/libburnia
 - Package: libisofs
-  Version: 1.5.8.pl01
+  Version: 1.5.8.pl02
   Description: Library to pack up hard disk files and directories into a ISO 9660 disk image
   Homepage: https://dev.lovelyhq.com/libburnia
 - Package: libisofs-static
-  Version: 1.5.8.pl01
+  Version: 1.5.8.pl02
   Description: Static libraries for libisofs
   Homepage: https://dev.lovelyhq.com/libburnia
 - Package: libjanet
@@ -5483,7 +5483,7 @@
   Description: Static libraries for librttopo
   Homepage: https://git.osgeo.org/gitea/rttopo/librttopo
 - Package: librusty-v8
-  Version: 1:2.7.14
+  Version: 1:2.8.0
   Description: High quality Rust bindings to V8s C++ API
   Homepage: https://deno.land/
 - Package: libsamplerate
@@ -9271,7 +9271,7 @@
   Description: Static libraries for seafile-client
   Homepage: https://seafile.com
 - Package: seanime
-  Version: 3.8.2
+  Version: 3.8.3
   Description: Self-hosted anime and manga server for sea rovers.
   Homepage: https://github.com/5rahim/seanime
 - Package: seccure
