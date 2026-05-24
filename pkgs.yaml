@@ -2043,7 +2043,7 @@
   Description: Utilities to find files meeting specified criteria and perform various actions on the files which are found
   Homepage: https://www.gnu.org/software/findutils/
 - Package: fish
-  Version: 4.7.1
+  Version: 4.7.1-1
   Description: The user-friendly command line shell
   Homepage: https://fishshell.com/
 - Package: flac
@@ -7399,7 +7399,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-583+gc8dbb04da9-0
+  Version: 0.13.0~dev-587+g61eddb3fe7-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -7571,7 +7571,7 @@
   Description: ncurses based sudoku game
   Homepage: http://jubalh.github.io/nudoku/
 - Package: nushell
-  Version: 0.112.2
+  Version: 0.113.0
   Description: A new type of shell operating on structured data
   Homepage: https://www.nushell.sh
 - Package: nyancat

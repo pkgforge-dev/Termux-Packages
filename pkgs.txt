@@ -509,7 +509,7 @@
  finch-static  2.14.14-2  Static libraries for finch  https://pidgin.im/ 
  findomain  10.0.1-1  Findomain is the fastest subdomain enumerator and the only one written in Rust  https://findomain.app/ 
  findutils  4.10.0-1  Utilities to find files meeting specified criteria and perform various actions on the files which are found  https://www.gnu.org/software/findutils/ 
- fish  4.7.1  The user-friendly command line shell  https://fishshell.com/ 
+ fish  4.7.1-1  The user-friendly command line shell  https://fishshell.com/ 
  flac  1.5.0-1  FLAC (Free Lossless Audio Codec) command-line tool  https://xiph.org/flac/ 
  flang  21.1.8-2  LLVM's Fortran frontend  https://flang.llvm.org/ 
  flatbuffers  25.12.19-2026-02-06-03fffb2-1  Memory Efficient Serialization Library  https://github.com/google/flatbuffers 
@@ -1848,7 +1848,7 @@
  neofetch  7.1.0-1  Simple system information script  https://github.com/dylanaraps/neofetch 
  neomutt  20260504  A version of mutt with added features  https://neomutt.org/ 
  neovim  0.12.2  Ambitious Vim-fork focused on extensibility and agility (nvim)  https://neovim.io/ 
- neovim-nightly  0.13.0~dev-583+gc8dbb04da9-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
+ neovim-nightly  0.13.0~dev-587+g61eddb3fe7-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
  nerdfix  0.4.2-1  nerdfix helps you to find/fix obsolete Nerd Font icons in your project.  https://github.com/loichyan/nerdfix 
  net-snmp  5.9.5.2  Various tools relating to the Simple Network Management Protocol  http://www.net-snmp.org/ 
  net-snmp-static  5.9.5.2  Static libraries for net-snmp  http://www.net-snmp.org/ 
@@ -1891,7 +1891,7 @@
  nsnake  3.0.1-7  The classic snake game with textual interface  https://github.com/alexdantas/nSnake 
  nss-utils  3.124  Tools for NSS  https://firefox-source-docs.mozilla.org/security/nss/ 
  nudoku  8.0.0  ncurses based sudoku game  http://jubalh.github.io/nudoku/ 
- nushell  0.112.2  A new type of shell operating on structured data  https://www.nushell.sh 
+ nushell  0.113.0  A new type of shell operating on structured data  https://www.nushell.sh 
  nyancat  1.5.2-1  Nyancat in your terminal, rendered through ANSI escape sequences.  http://nyancat.dakko.us 
  nzbget  26.0  The most efficient usenet downloader  https://nzbget.com/ 
  oathtool  2.6.12-2  One-time password components  http://www.nongnu.org/oath-toolkit/ 
