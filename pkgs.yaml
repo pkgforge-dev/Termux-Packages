@@ -1007,7 +1007,7 @@
   Description: A cli tool to download specific GitHub directories or files
   Homepage: https://github.com/alok8bb/cloneit
 - Package: cloudflared
-  Version: 2026.5.0
+  Version: 2026.5.1
   Description: A tunneling daemon that proxies traffic from the Cloudflare network to your origins
   Homepage: https://github.com/cloudflare/cloudflared
 - Package: clpeak
@@ -3387,7 +3387,7 @@
   Description: Language Server Protocol Client for the Kakoune editor
   Homepage: https://github.com/kakoune-lsp/kakoune-lsp
 - Package: kbd
-  Version: 2.9.0
+  Version: 2.10.0
   Description: KBDs showkey utility for examining keycodes
   Homepage: https://kbd-project.org/
 - Package: kew
@@ -8635,7 +8635,7 @@
   Description: PyTorch media decoding and encoding
   Homepage: https://github.com/pytorch/torchcodec
 - Package: python-torchvision
-  Version: 0.26.0
+  Version: 0.27.0
   Description: Datasets, Transforms and Models specific to Computer Vision
   Homepage: https://github.com/pytorch/vision
 - Package: python-xcbgen
@@ -8819,7 +8819,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 4.61.1
+  Version: 4.62.0
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
@@ -11010,6 +11010,10 @@
   Version: 3.1.0-3
   Description: xdelta3 - VCDIFF (RFC 3284) binary diff tool
   Homepage: https://github.com/jmacd/xdelta
+- Package: xdg-user-dirs
+  Version: "0.20"
+  Description: Manage user directories like ~/Desktop and ~/Music
+  Homepage: https://www.freedesktop.org/wiki/Software/xdg-user-dirs
 - Package: xerces-c
   Version: 3.3.0
   Description: Validating XML parser library for C++.
