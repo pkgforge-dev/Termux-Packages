@@ -5629,7 +5629,7 @@
   },
   {
     "Package": "libblosc2",
-    "Version": "3.0.3",
+    "Version": "3.1.0",
     "Description": "A blocking, shuffling and loss-less compression library",
     "Homepage": "https://www.blosc.org"
   },
@@ -6673,13 +6673,13 @@
   },
   {
     "Package": "libheif",
-    "Version": "1.22.0",
+    "Version": "1.22.1",
     "Description": "HEIF (HEIC/AVIF) image encoding and decoding library",
     "Homepage": "https://github.com/strukturag/libheif"
   },
   {
     "Package": "libheif-progs",
-    "Version": "1.22.0",
+    "Version": "1.22.1",
     "Description": "Programs for manipulating HEIF (HEIC/AVIF) image files",
     "Homepage": "https://github.com/strukturag/libheif"
   },
@@ -11683,7 +11683,7 @@
   },
   {
     "Package": "openlist",
-    "Version": "4.2.1",
+    "Version": "4.2.2",
     "Description": "A file list program that supports multiple storage",
     "Homepage": "https://oplist.org/"
   },
@@ -13399,7 +13399,7 @@
   },
   {
     "Package": "redis",
-    "Version": "1:8.6.3",
+    "Version": "1:8.8.0",
     "Description": "In-memory data structure store used as a database, cache and message broker",
     "Homepage": "https://redis.io/"
   },
@@ -16129,7 +16129,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "2026.05.22",
+    "Version": "2026.05.23",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://github.com/directvt/vtm"
   },
