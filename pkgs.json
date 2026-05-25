@@ -15199,7 +15199,7 @@
   },
   {
     "Package": "tinymist",
-    "Version": "0.14.10",
+    "Version": "0.14.18",
     "Description": "An integrated language service for Typst",
     "Homepage": "https://myriad-dreamin.github.io/tinymist"
   },
@@ -15958,12 +15958,6 @@
     "Version": "3.22.0-1",
     "Description": "Static libraries for valgrind",
     "Homepage": "https://valgrind.org/"
-  },
-  {
-    "Package": "valkey",
-    "Version": "9.1.0",
-    "Description": "In-memory data structure store used as a database, cache and message broker",
-    "Homepage": "https://valkey.io/"
   },
   {
     "Package": "valkey-static",
