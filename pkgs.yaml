@@ -2191,7 +2191,7 @@
   Description: Interactive JSON viewer on your terminal
   Homepage: https://github.com/antonmedv/fx
 - Package: fzf
-  Version: 0.73.0
+  Version: 0.73.1
   Description: Command-line fuzzy finder
   Homepage: https://junegunn.github.io/fzf/
 - Package: fzy
@@ -7651,7 +7651,7 @@
   Description: Vulkan Backend for Ollama
   Homepage: https://ollama.com/
 - Package: oma
-  Version: 1.26.3
+  Version: 1.26.4
   Description: oma is an attempt at reworking APTs interface
   Homepage: https://aosc.io/oma
 - Package: onefetch
@@ -7843,7 +7843,7 @@
   Description: Open Source API and interchange format for editorial timeline information.
   Homepage: http://opentimeline.io/
 - Package: openxr
-  Version: 1.1.59
+  Version: 1.1.60
   Description: Open standard that provides a common set of APIs for developing XR applications
   Homepage: https://www.khronos.org/openxr/
 - Package: optipng
@@ -9123,7 +9123,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: "20260518"
+  Version: "20260525"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://rust-analyzer.github.io/
 - Package: rust-bindgen
