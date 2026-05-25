@@ -2104,7 +2104,7 @@
 | **progress** | 0.17-1 | Linux tool to show progress for cp, mv, dd and more | https://github.com/Xfennec/progress |
 | **proj** | 9.8.1 | Generic coordinate transformation software | https://proj.org |
 | **proot** | 5.1.107.72 | Emulate chroot, bind mount and binfmt_misc for non-root users | https://proot-me.github.io/ |
-| **proot-distro** | 5.1.0 | Termux official utility for managing proot'ed Linux distributions | https://github.com/termux/proot-distro |
+| **proot-distro** | 5.1.1 | Termux official utility for managing proot'ed Linux distributions | https://github.com/termux/proot-distro |
 | **protobuf** | 2:33.1-1 | Compiler for protocol buffer definition files | https://github.com/protocolbuffers/protobuf |
 | **proton-bridge** | 3.24.2 | ProtonMail Bridge application | https://github.com/ProtonMail/proton-bridge |
 | **prover9** | 2009-11A-2 | An automated theorem prover for first-order and equational logic | https://www.cs.unm.edu/~mccune/prover9/ |
@@ -2774,7 +2774,7 @@
 | **xmppc** | 0.1.2-4 | Command Line Interface Tool for XMPP | https://codeberg.org/Anoxinon_e.V./xmppc |
 | **xorg-util-macros** | 1.20.2 | X.Org Autotools macros | https://xorg.freedesktop.org/ |
 | **xorgproto** | 2025.1 | X.Org X11 Protocol headers | https://xorg.freedesktop.org/ |
-| **xorriso** | 1:1.5.8.pl01 | Tool for creating ISO files | https://www.gnu.org/software/xorriso |
+| **xorriso** | 1:1.5.8.pl02 | Tool for creating ISO files | https://www.gnu.org/software/xorriso |
 | **xsltproc** | 1.1.45-1 | XSLT command line processor | http://xmlsoft.org/libxslt/ |
 | **xtrans** | 1.6.0 | X transport library | https://xorg.freedesktop.org/ |
 | **xvidcore** | 1.3.7-1 | High performance and high quality MPEG-4 library | https://www.xvid.com/ |
