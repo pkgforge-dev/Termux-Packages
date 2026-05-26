@@ -1093,7 +1093,7 @@
   },
   {
     "Package": "byobu",
-    "Version": "6.15",
+    "Version": "6.16",
     "Description": "Byobu is a GPLv3 open source text-based window manager and terminal multiplexer",
     "Homepage": "https://www.byobu.org/"
   },
@@ -4501,7 +4501,7 @@
   },
   {
     "Package": "hugo",
-    "Version": "0.161.1",
+    "Version": "0.162.0",
     "Description": "A fast and flexible static site generator",
     "Homepage": "https://gohugo.io/"
   },
@@ -4657,13 +4657,13 @@
   },
   {
     "Package": "imagemagick",
-    "Version": "7.1.2.23",
+    "Version": "7.1.2.24",
     "Description": "Suite to create, edit, compose, or convert images in a variety of formats",
     "Homepage": "https://www.imagemagick.org/"
   },
   {
     "Package": "imagemagick-static",
-    "Version": "7.1.2.23",
+    "Version": "7.1.2.24",
     "Description": "Static libraries for imagemagick",
     "Homepage": "https://www.imagemagick.org/"
   },
@@ -10015,7 +10015,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.29.3",
+    "Version": "0.30.0",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://lux.lumen-labs.org"
   },
@@ -13231,7 +13231,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "4.62.0",
+    "Version": "4.64.0",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -16123,7 +16123,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "2026.05.23",
+    "Version": "2026.05.24",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://github.com/directvt/vtm"
   },
@@ -16213,7 +16213,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "2.14.7",
+    "Version": "2.14.8",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },
