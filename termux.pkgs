@@ -413,8 +413,8 @@
 | **draco-static** | 1.5.7-1 | Static libraries for draco | https://google.github.io/draco/ |
 | **dropbear** | 2026.91 | Small SSH server and client | https://matt.ucc.asn.au/dropbear/dropbear.html |
 | **dtach** | 0.9-2 | Emulates the detach feature of screen | https://dtach.sourceforge.net/ |
-| **dtc** | 1.7.2-2 | Device Tree Compiler | https://git.kernel.org/pub/scm/utils/dtc/dtc |
-| **dtc-static** | 1.7.2-2 | Static libraries for dtc | https://git.kernel.org/pub/scm/utils/dtc/dtc |
+| **dtc** | 1.8.0 | Device Tree Compiler | https://git.kernel.org/pub/scm/utils/dtc/dtc |
+| **dtc-static** | 1.8.0 | Static libraries for dtc | https://git.kernel.org/pub/scm/utils/dtc/dtc |
 | **dte** | 1.11.1-2 | A small, configurable console text editor | https://craigbarnes.gitlab.io/dte/ |
 | **dua** | 2.34.0 | View disk space usage and delete unwanted data, fast | https://github.com/Byron/dua-cli |
 | **duc** | 1.4.6 | High-performance disk usage analyzer | http://duc.zevv.nl/ |
@@ -732,8 +732,8 @@
 | **hfsutils** | 3.2.6-2 | Tool for manipulating HFS images | https://www.mars.org/home/rob/proj/hfs/ |
 | **hidapi** | 0.14.0-1 | Simple cross-platform library for communicating with HID devices | https://libusb.info/hidapi |
 | **hilbish** | 1:2.3.4-1 | The Moon-powered shell! A comfy and extensible shell for Lua fans! | https://rosettea.github.io/Hilbish/ |
-| **hledger** | 1.43.2-1 | Robust, friendly, fast plain text accounting software. (CLI only) | https://hledger.org/ |
-| **hledger-ui** | 1.43.2 | hledger-ui - terminal interface (TUI) for hledger, a robust, friendly plain text accounting app. | https://hledger.org/ |
+| **hledger** | 1.52.1 | Robust, friendly, fast plain text accounting software. (CLI only) | https://hledger.org/ |
+| **hledger-ui** | 1.52.1 | hledger-ui - terminal interface (TUI) for hledger, a robust, friendly plain text accounting app. | https://hledger.org/ |
 | **hnterm** | 1.0.5-2 | A simple tool to browse Hacker News in the terminal | https://github.com/ggerganov/imtui |
 | **hollywood** | 1.22-1 | Fill your console with Hollywood melodrama technobabble | https://launchpad.net/hollywood |
 | **hors** | 0.8.2-3 | Instant coding answers via the command line (howdoi in rust) | https://github.com/WindSoilder/hors |
@@ -873,7 +873,7 @@
 | **lego** | 5.1.0 | Let's Encrypt/ACME client and library written in Go | https://github.com/go-acme/lego |
 | **leptonica** | 1.87.0 | Library for image processing and image analysis | http://www.leptonica.com/ |
 | **leptonica-static** | 1.87.0 | Static libraries for leptonica | http://www.leptonica.com/ |
-| **less** | 692 | Terminal pager program used to view the contents of a text file one screen at a time | https://www.greenwoodsoftware.com/less/ |
+| **less** | 702 | Terminal pager program used to view the contents of a text file one screen at a time | https://www.greenwoodsoftware.com/less/ |
 | **lesspipe** | 2.25 | An input filter for the pager less | https://lesspipe.org/ |
 | **leveldb** | 1.23-4 | Fast key-value storage library | https://github.com/google/leveldb |
 | **lexbor** | 3.0.0 | Fast embeddable web browser engine written in C with no dependencies | https://lexbor.com |
@@ -1047,7 +1047,7 @@
 | **libexpat** | 2.8.1 | XML parsing C library | https://libexpat.github.io/ |
 | **libexpat-static** | 2.8.1 | Static libraries for libexpat | https://libexpat.github.io/ |
 | **libfann** | 2.2.0-2 | Fast artificial neural network library | http://leenissen.dk/fann/wp |
-| **libfcl** | 0.7.0-3 | Flexible collision library | https://github.com/flexible-collision-library/fcl |
+| **libfcl** | 0.7.0-4 | Flexible collision library | https://github.com/flexible-collision-library/fcl |
 | **libfdisk** | 2.42.1 | Library for manipulating disk partition tables | https://en.wikipedia.org/wiki/Util-linux |
 | **libfdk-aac** | 2.0.3-1 | Fraunhofer FDK AAC Codec Library | https://github.com/mstorsjo/fdk-aac |
 | **libfdk-aac-static** | 2.0.3-1 | Static libraries for libfdk-aac | https://github.com/mstorsjo/fdk-aac |
@@ -1643,18 +1643,18 @@
 | **ltrace** | 1:0.8.1-1 | Tracks runtime library calls in dynamically linked programs | http://www.ltrace.org/ |
 | **lua-language-server** | 3.18.2 | Sumneko Lua Language Server coded in Lua | https://github.com/sumneko/lua-language-server |
 | **lua-lgi** | 0.9.2+p20251219-2 | Dynamic Lua binding to GObject libraries using GObject-Introspection | https://github.com/lgi-devs/lgi |
-| **lua-lpeg** | 1.1.0-5 | Pattern-matching library for Lua 5.4 | https://www.inf.puc-rio.br/~roberto/lpeg |
+| **lua-lpeg** | 1.1.0-6 | Pattern-matching library for Lua 5.5 | https://www.inf.puc-rio.br/~roberto/lpeg |
 | **lua51** | 5.1.5-7 | Shared library for the Lua interpreter (v5.1.x) | https://www.lua.org |
-| **lua51-lpeg** | 1.1.0-5 | Pattern-matching library for Lua 5.1 | https://www.inf.puc-rio.br/~roberto/lpeg |
+| **lua51-lpeg** | 1.1.0-6 | Pattern-matching library for Lua 5.1 | https://www.inf.puc-rio.br/~roberto/lpeg |
 | **lua51-static** | 5.1.5-7 | Static libraries for lua51 | https://www.lua.org |
 | **lua52** | 5.2.4-15 | Shared library for the Lua interpreter (v5.2.x) | https://www.lua.org |
-| **lua52-lpeg** | 1.1.0-5 | Pattern-matching library for Lua 5.2 | https://www.inf.puc-rio.br/~roberto/lpeg |
+| **lua52-lpeg** | 1.1.0-6 | Pattern-matching library for Lua 5.2 | https://www.inf.puc-rio.br/~roberto/lpeg |
 | **lua52-static** | 5.2.4-15 | Static libraries for lua52 | https://www.lua.org |
 | **lua53** | 5.3.6-6 | Shared library for the Lua interpreter (v5.3.x) | https://www.lua.org/ |
-| **lua53-lpeg** | 1.1.0-5 | Pattern-matching library for Lua 5.3 | https://www.inf.puc-rio.br/~roberto/lpeg |
+| **lua53-lpeg** | 1.1.0-6 | Pattern-matching library for Lua 5.3 | https://www.inf.puc-rio.br/~roberto/lpeg |
 | **lua53-static** | 5.3.6-6 | Static libraries for lua53 | https://www.lua.org/ |
 | **lua54** | 5.4.8-6 | Shared library for the Lua interpreter (v5.4.x) | https://www.lua.org/ |
-| **lua54-lpeg** | 1.1.0-5 | Pattern-matching library for Lua 5.4 | https://www.inf.puc-rio.br/~roberto/lpeg |
+| **lua54-lpeg** | 1.1.0-6 | Pattern-matching library for Lua 5.4 | https://www.inf.puc-rio.br/~roberto/lpeg |
 | **lua54-static** | 5.4.8-6 | Static libraries for lua54 | https://www.lua.org/ |
 | **lua55** | 5.5.0-2 | Shared library for the Lua interpreter (v5.5.x) | https://www.lua.org/ |
 | **lua55-static** | 5.5.0-2 | Static libraries for lua55 | https://www.lua.org/ |
@@ -1848,7 +1848,7 @@
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20260504 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.12.2 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
-| **neovim-nightly** | 0.13.0~dev-601+gd214c24129-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
+| **neovim-nightly** | 0.13.0~dev-602+gb3dfa86e02-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
 | **nerdfix** | 0.4.2-1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.5.2 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.5.2 | Static libraries for net-snmp | http://www.net-snmp.org/ |
@@ -1986,7 +1986,7 @@
 | **pango** | 1.57.1 | Library for laying out and rendering text | https://www.gtk.org/docs/architecture/pango |
 | **paperkey** | 1.6-1 | Archive OpenPGP keys on paper | http://www.jabberwocky.com/software/paperkey/ |
 | **par2** | 1.1.1 | par2cmdline is a PAR 2.0 compatible file verification and repair tool | https://github.com/Parchive/par2cmdline |
-| **parallel** | 20260422 | GNU Parallel is a shell tool for executing jobs in parallel using one or more machines | https://www.gnu.org/software/parallel/ |
+| **parallel** | 20260522 | GNU Parallel is a shell tool for executing jobs in parallel using one or more machines | https://www.gnu.org/software/parallel/ |
 | **pari** | 2.17.3 | A computer algebra system designed for fast computations in number theory | https://pari.math.u-bordeaux.fr/ |
 | **pari-static** | 2.17.3 | Static libraries for pari | https://pari.math.u-bordeaux.fr/ |
 | **parted** | 3.6-1 | Versatile partition editor | https://www.gnu.org/software/parted/ |
@@ -2203,7 +2203,7 @@
 | **rage** | 0.11.2 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4-1 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4-1 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
-| **railway-cli** | 4.64.0 | This is the command line interface for Railway | https://railway.app |
+| **railway-cli** | 4.65.0 | This is the command line interface for Railway | https://railway.app |
 | **range-v3** | 0.12.0 | Range library for C++14/17/20, basis for C++20's std::ranges | https://github.com/ericniebler/range-v3 |
 | **ranger** | 1.9.4-1 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-7 | Fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |
@@ -2809,7 +2809,7 @@
 | **zoxide** | 0.9.9 | A faster way to navigate your filesystem | https://github.com/ajeetdsouza/zoxide |
 | **zpaq** | 7.15-1 | Programmable file compressor, library and utilities. Based on the PAQ compression algorithm | http://mattmahoney.net/dc/zpaq.html |
 | **zrok** | 1.1.11 | An open source sharing solution built on OpenZiti. | https://zrok.io/ |
-| **zsh** | 5.9-9 | Shell with lots of features | https://www.zsh.org |
+| **zsh** | 5.9-10 | Shell with lots of features | https://www.zsh.org |
 | **zsh-completions** | 0.36.0 | Additional completion definitions for Zsh | https://github.com/zsh-users/zsh-completions |
 | **zssh** | 1.5c-2 | A program for interactively transferring files to a remote machine while using the secure shell (ssh) | https://zssh.sourceforge.net/ |
 | **zstd** | 1.5.7-1 | Zstandard compression | https://github.com/facebook/zstd |
