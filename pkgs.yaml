@@ -459,7 +459,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.34.53
+  Version: 2.34.54
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -2079,7 +2079,7 @@
   Description: Software synthesizer based on the SoundFont 2 specifications
   Homepage: https://github.com/FluidSynth/fluidsynth
 - Package: flyctl
-  Version: 0.4.55
+  Version: 0.4.56
   Description: Command line tools for fly.io services
   Homepage: https://fly.io
 - Package: fm
@@ -3459,7 +3459,7 @@
   Description: LastPass command line interface tool
   Homepage: https://lastpass.com/
 - Package: lazygit
-  Version: 0.61.1
+  Version: 0.62.0
   Description: Simple terminal UI for git commands
   Homepage: https://github.com/jesseduffield/lazygit
 - Package: lcal
@@ -3727,7 +3727,7 @@
   Description: Static libraries for libatomic-ops
   Homepage: https://github.com/bdwgc/libatomic_ops
 - Package: libavif
-  Version: 1.4.1
+  Version: 1.4.2
   Description: Library for encoding and decoding .avif files
   Homepage: https://github.com/AOMediaCodec/libavif
 - Package: libbcprov-java
@@ -6675,7 +6675,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.30.0
+  Version: 0.30.1
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://lux.lumen-labs.org
 - Package: lv2
