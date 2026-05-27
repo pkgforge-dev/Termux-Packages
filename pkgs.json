@@ -1513,7 +1513,7 @@
   },
   {
     "Package": "cloudflared",
-    "Version": "2026.5.1",
+    "Version": "2026.5.2",
     "Description": "A tunneling daemon that proxies traffic from the Cloudflare network to your origins",
     "Homepage": "https://github.com/cloudflare/cloudflared"
   },
@@ -10639,9 +10639,9 @@
   },
   {
     "Package": "moon-buggy",
-    "Version": "1.0.51-6",
+    "Version": "1.1.0",
     "Description": "Simple game where you drive a car across the moons surface",
-    "Homepage": "https://github.com/seehuhn/moon-buggy"
+    "Homepage": "https://www.seehuhn.de/programs/moon-buggy"
   },
   {
     "Package": "moor",

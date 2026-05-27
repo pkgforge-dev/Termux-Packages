@@ -1007,7 +1007,7 @@
   Description: A cli tool to download specific GitHub directories or files
   Homepage: https://github.com/alok8bb/cloneit
 - Package: cloudflared
-  Version: 2026.5.1
+  Version: 2026.5.2
   Description: A tunneling daemon that proxies traffic from the Cloudflare network to your origins
   Homepage: https://github.com/cloudflare/cloudflared
 - Package: clpeak
@@ -7091,9 +7091,9 @@
   Description: CLI tool for saving complete web pages as a single HTML file
   Homepage: https://github.com/Y2Z/monolith
 - Package: moon-buggy
-  Version: 1.0.51-6
+  Version: 1.1.0
   Description: Simple game where you drive a car across the moons surface
-  Homepage: https://github.com/seehuhn/moon-buggy
+  Homepage: https://www.seehuhn.de/programs/moon-buggy
 - Package: moor
   Version: 2.13.2
   Description: A pager designed to just do the right thing without any configuration
