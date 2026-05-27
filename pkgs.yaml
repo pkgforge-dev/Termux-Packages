@@ -1831,11 +1831,11 @@
   Description: Event Notify Test Runner - run arbitrary commands when files change
   Homepage: https://eradman.com/entrproject/
 - Package: erlang
-  Version: "29.0"
+  Version: 29.0.1
   Description: General-purpose concurrent functional programming language
   Homepage: https://www.erlang.org/
 - Package: erlang-doc
-  Version: "29.0"
+  Version: 29.0.1
   Description: Erlang HTML documentation
   Homepage: https://www.erlang.org/
 - Package: esbuild
@@ -1863,7 +1863,7 @@
   Description: A Go based command line tool for exercism.io
   Homepage: https://github.com/exercism/cli/
 - Package: exfatprogs
-  Version: 1.3.2
+  Version: 1.4.0
   Description: exFAT filesystem userspace utilities
   Homepage: https://github.com/exfatprogs/exfatprogs
 - Package: exhale
@@ -5263,7 +5263,7 @@
   Description: Posix-compatible runtime libraries for libpcre
   Homepage: https://www.pcre.org
 - Package: libpcsclite
-  Version: 2.4.1
+  Version: 2.5.0
   Description: Middleware to access a smart card using SCard API (PC/SC).
   Homepage: https://pcsclite.apdu.fr/
 - Package: libphysfs
@@ -6459,15 +6459,15 @@
   Description: Color management utilities
   Homepage: http://www.littlecms.com/
 - Package: llama-cpp
-  Version: 0.0.0-b9131-0
+  Version: 0.0.0-b9360-0
   Description: LLM inference in C/C++
   Homepage: https://github.com/ggml-org/llama.cpp
 - Package: llama-cpp-backend-opencl
-  Version: 0.0.0-b9131-0
+  Version: 0.0.0-b9360-0
   Description: OpenCL Backend for LLaMA.cpp
   Homepage: https://github.com/ggml-org/llama.cpp
 - Package: llama-cpp-backend-vulkan
-  Version: 0.0.0-b9131-0
+  Version: 0.0.0-b9360-0
   Description: Vulkan Backend for LLaMA.cpp
   Homepage: https://github.com/ggml-org/llama.cpp
 - Package: llbuild
@@ -8051,7 +8051,7 @@
   Description: A grep with Perl-compatible regular expressions
   Homepage: https://www.pcre.org
 - Package: pcscd
-  Version: 2.4.1
+  Version: 2.5.0
   Description: Middleware to access a smart card using SCard API (PC/SC). (daemon side)
   Homepage: https://pcsclite.apdu.fr/
 - Package: pdf2svg
@@ -8451,15 +8451,15 @@
   Description: Python package which provides bindings for GObject based libraries
   Homepage: https://pygobject.gnome.org/
 - Package: pypy
-  Version: 7.3.22
+  Version: 7.3.23
   Description: A fast, compliant alternative implementation of Python
   Homepage: https://pypy.org
 - Package: pypy-tests
-  Version: 7.3.22
+  Version: 7.3.23
   Description: Test files for PyPy
   Homepage: https://pypy.org
 - Package: pypy-tkinter
-  Version: 7.3.22
+  Version: 7.3.23
   Description: Tkinter support for PyPy
   Homepage: https://pypy.org
 - Package: pypy3
@@ -8959,7 +8959,7 @@
   Description: Restics REST backend API server
   Homepage: https://restic.net/
 - Package: restish
-  Version: 0.21.2
+  Version: 2.0.0
   Description: A CLI for interacting with REST-ish HTTP APIs
   Homepage: https://github.com/rest-sh/restish
 - Package: rgbds
@@ -9287,7 +9287,7 @@
   Description: GNU stream editor for filtering/transforming text
   Homepage: https://www.gnu.org/software/sed/
 - Package: sendme
-  Version: 0.34.0
+  Version: 0.35.0
   Description: A tool to send files and directories, based on iroh
   Homepage: https://github.com/n0-computer/sendme
 - Package: sendxmpp
@@ -10747,7 +10747,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2026.05.24
+  Version: 2026.05.25
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vttest

@@ -468,15 +468,15 @@
 | **enchant-static** | 2.8.16 | Static libraries for enchant | https://rrthomas.github.io/enchant/ |
 | **enscript** | 1.6.6-13 | Enscript converts ASCII text files to PostScript, HTML, RTF, ANSI and overstrikes | https://www.gnu.org/software/enscript/ |
 | **entr** | 5.8 | Event Notify Test Runner - run arbitrary commands when files change | https://eradman.com/entrproject/ |
-| **erlang** | 29.0 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
-| **erlang-doc** | 29.0 | Erlang HTML documentation | https://www.erlang.org/ |
+| **erlang** | 29.0.1 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
+| **erlang-doc** | 29.0.1 | Erlang HTML documentation | https://www.erlang.org/ |
 | **esbuild** | 0.28.0 | An extremely fast JavaScript bundler | https://esbuild.github.io/ |
 | **espeak** | 1.52.0-1 | Compact software speech synthesizer | https://github.com/espeak-ng/espeak-ng |
 | **espeak-static** | 1.52.0-1 | Static libraries for espeak | https://github.com/espeak-ng/espeak-ng |
 | **et** | 6.2.11-3 | A remote shell that automatically reconnects without interrupting the session | https://eternalterminal.dev |
 | **etsh** | 5.4.0-1 | An enhanced, backward-compatible port of Thompson Shell | https://etsh.nl |
 | **exercism** | 3.5.8 | A Go based command line tool for exercism.io | https://github.com/exercism/cli/ |
-| **exfatprogs** | 1.3.2 | exFAT filesystem userspace utilities | https://github.com/exfatprogs/exfatprogs |
+| **exfatprogs** | 1.4.0 | exFAT filesystem userspace utilities | https://github.com/exfatprogs/exfatprogs |
 | **exhale** | 1.2.2RC+really1.2.2 | Open source xHE-AAC encoder | https://gitlab.com/ecodis/exhale |
 | **exiftool** | 13.58 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
 | **exiv2** | 2:0.28.7 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
@@ -1326,7 +1326,7 @@
 | **libpcap** | 1.10.5-1 | Library for network traffic capture | https://www.tcpdump.org |
 | **libpcap-static** | 1.10.5-1 | Static libraries for libpcap | https://www.tcpdump.org |
 | **libpcreposix** | 8.45-2 | Posix-compatible runtime libraries for libpcre | https://www.pcre.org |
-| **libpcsclite** | 2.4.1 | Middleware to access a smart card using SCard API (PC/SC). | https://pcsclite.apdu.fr/ |
+| **libpcsclite** | 2.5.0 | Middleware to access a smart card using SCard API (PC/SC). | https://pcsclite.apdu.fr/ |
 | **libphysfs** | 3.2.0-2 | A portable, flexible file i/o abstraction | https://icculus.org/physfs/ |
 | **libpinyin** | 2.10.3 | Library to deal with pinyin. | https://github.com/libpinyin/libpinyin |
 | **libpinyin-static** | 2.10.3 | Static libraries for libpinyin | https://github.com/libpinyin/libpinyin |
@@ -1625,9 +1625,9 @@
 | **littlecms** | 2.19.1 | Color management library | http://www.littlecms.com/ |
 | **littlecms-static** | 2.19.1 | Static libraries for littlecms | http://www.littlecms.com/ |
 | **littlecms-utils** | 2.19.1 | Color management utilities | http://www.littlecms.com/ |
-| **llama-cpp** | 0.0.0-b9131-0 | LLM inference in C/C++ | https://github.com/ggml-org/llama.cpp |
-| **llama-cpp-backend-opencl** | 0.0.0-b9131-0 | OpenCL Backend for LLaMA.cpp | https://github.com/ggml-org/llama.cpp |
-| **llama-cpp-backend-vulkan** | 0.0.0-b9131-0 | Vulkan Backend for LLaMA.cpp | https://github.com/ggml-org/llama.cpp |
+| **llama-cpp** | 0.0.0-b9360-0 | LLM inference in C/C++ | https://github.com/ggml-org/llama.cpp |
+| **llama-cpp-backend-opencl** | 0.0.0-b9360-0 | OpenCL Backend for LLaMA.cpp | https://github.com/ggml-org/llama.cpp |
+| **llama-cpp-backend-vulkan** | 0.0.0-b9360-0 | Vulkan Backend for LLaMA.cpp | https://github.com/ggml-org/llama.cpp |
 | **llbuild** | 6.2.1 | A low-level build system, used by the Swift Package Manager | https://github.com/swiftlang/swift-llbuild |
 | **lld** | 21.1.8-2 | LLVM-based linker | https://clang.llvm.org/ |
 | **lldb** | 21.1.8-2 | LLVM-based debugger | https://clang.llvm.org/ |
@@ -2023,7 +2023,7 @@
 | **pcre2-static** | 10.47 | Static libraries for pcre2 | https://pcre2project.github.io/pcre2/ |
 | **pcre2grep** | 10.47 | A grep with Perl-compatible regular expressions | https://pcre2project.github.io/pcre2/ |
 | **pcregrep** | 8.45-2 | A grep with Perl-compatible regular expressions | https://www.pcre.org |
-| **pcscd** | 2.4.1 | Middleware to access a smart card using SCard API (PC/SC). (daemon side) | https://pcsclite.apdu.fr/ |
+| **pcscd** | 2.5.0 | Middleware to access a smart card using SCard API (PC/SC). (daemon side) | https://pcsclite.apdu.fr/ |
 | **pdf2svg** | 0.2.4-2 | A PDF to SVG converter | http://www.cityinthesky.co.uk/opensource/pdf2svg/ |
 | **pdfcpu** | 0.12.1 | A PDF processor written in Go | https://pdfcpu.io |
 | **pdfgrep** | 2.2.0-5 | Command line utility to search text in PDF files | https://pdfgrep.org/ |
@@ -2123,9 +2123,9 @@
 | **pybind11** | 3.0.4 | A lightweight header-only library that exposes C++ types in Python and vice versa | https://pybind11.readthedocs.io/ |
 | **pycairo** | 1.29.0-1 | Python bindings for the cairo graphics library | https://www.cairographics.org/pycairo/ |
 | **pygobject** | 3.56.3 | Python package which provides bindings for GObject based libraries | https://pygobject.gnome.org/ |
-| **pypy** | 7.3.22 | A fast, compliant alternative implementation of Python | https://pypy.org |
-| **pypy-tests** | 7.3.22 | Test files for PyPy | https://pypy.org |
-| **pypy-tkinter** | 7.3.22 | Tkinter support for PyPy | https://pypy.org |
+| **pypy** | 7.3.23 | A fast, compliant alternative implementation of Python | https://pypy.org |
+| **pypy-tests** | 7.3.23 | Test files for PyPy | https://pypy.org |
+| **pypy-tkinter** | 7.3.23 | Tkinter support for PyPy | https://pypy.org |
 | **pypy3** | 7.3.22 | A fast, compliant alternative implementation of Python 3 | https://pypy.org |
 | **pypy3-tests** | 7.3.22 | Test files for PyPy 3 | https://pypy.org |
 | **pypy3-tkinter** | 7.3.22 | Tkinter support for PyPy 3 | https://pypy.org |
@@ -2250,7 +2250,7 @@
 | **resolv-conf** | 1.3 | Resolver configuration file | https://man7.org/linux/man-pages/man5/resolv.conf.5.html |
 | **restic** | 0.18.1 | Fast, secure, efficient backup program | https://restic.net/ |
 | **restic-server** | 0.14.0-1 | Restic's REST backend API server | https://restic.net/ |
-| **restish** | 0.21.2 | A CLI for interacting with REST-ish HTTP APIs | https://github.com/rest-sh/restish |
+| **restish** | 2.0.0 | A CLI for interacting with REST-ish HTTP APIs | https://github.com/rest-sh/restish |
 | **rgbds** | 1.0.1 | Rednex Game Boy Development System - An assembly toolchain for the Nintendo Game Boy & Game Boy Color | https://rgbds.gbdev.io |
 | **rhash** | 1.4.6-1 | Console utility for calculation and verification of magnet links and a wide range of hash sums | https://github.com/rhash/RHash |
 | **rhash-static** | 1.4.6-1 | Static libraries for rhash | https://github.com/rhash/RHash |
@@ -2332,7 +2332,7 @@
 | **seccure** | 0.5-8 | SECCURE Elliptic Curve Crypto Utility for Reliable Encryption | http://point-at-infinity.org/seccure/ |
 | **secure-delete** | 3.1-6 | Secure file, disk, swap, memory erasure utilities | https://www.thc.org/ |
 | **sed** | 4.9-2 | GNU stream editor for filtering/transforming text | https://www.gnu.org/software/sed/ |
-| **sendme** | 0.34.0 | A tool to send files and directories, based on iroh | https://github.com/n0-computer/sendme |
+| **sendme** | 0.35.0 | A tool to send files and directories, based on iroh | https://github.com/n0-computer/sendme |
 | **sendxmpp** | 1.24-1 | A perl-script to send XMPP (jabber) messages | https://sendxmpp.hostname.sk/ |
 | **senpai** | 1:0.4.1-1 | An IRC client that works best with bouncers | https://git.sr.ht/~delthas/senpai |
 | **sensible-utils** | 0.0.26 | Small utilities used by programs to sensibly select and spawn an appropriate browser, editor, or pager | https://packages.debian.org/sid/sensible-utils |
@@ -2697,7 +2697,7 @@
 | **vlc-static** | 3.0.23-3 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-4 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.3-1 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 2026.05.24 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
+| **vtm** | 2026.05.25 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
 | **vttest** | 20251205 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vulkan-extension-layer** | 1.4.350 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
 | **vulkan-headers** | 1.4.352 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
