@@ -192,7 +192,7 @@
 | **busybox** | 1.37.0-3 | Tiny versions of many common UNIX utilities into a single small executable | https://busybox.net/ |
 | **bvi** | 1.5.0-1 | Binary file editor based on vi | https://bvi.sourceforge.net/ |
 | **byacc** | 20260126 | byacc is generally conceded to be the best yacc variant available | https://invisible-island.net/byacc/ |
-| **byobu** | 6.16 | Byobu is a GPLv3 open source text-based window manager and terminal multiplexer | https://www.byobu.org/ |
+| **byobu** | 7.0 | Byobu is a GPLv3 open source text-based window manager and terminal multiplexer | https://www.byobu.org/ |
 | **bzip2** | 1.0.8-8 | Tools for working with bzip2 compression | http://www.bzip.org/ |
 | **c-ares** | 1.34.6 | Library for asynchronous DNS requests (including name resolves) | https://c-ares.org/ |
 | **c-toxcore** | 0.2.22 | Backend library for the Tox protocol | https://tox.chat |
@@ -258,7 +258,7 @@
 | **clang** | 21.1.8-2 | C language frontend for LLVM | https://clang.llvm.org/ |
 | **clblast** | 1.7.0 | Tuned OpenCL BLAS | https://github.com/CNugteren/CLBlast |
 | **cli11** | 2.6.2 | Command line parser for C++11 | https://github.com/CLIUtils/CLI11 |
-| **clifm** | 1.27.1 | The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell | https://github.com/leo-arch/clifm |
+| **clifm** | 1.28 | The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell | https://github.com/leo-arch/clifm |
 | **clinfo** | 3.0.25.02.14-1 | Print all known information about all available OpenCL platforms and devices in the system | https://github.com/Oblomov/clinfo |
 | **clipp** | 1.2.3-1 | Command line interfaces for modern C++ | https://github.com/muellan/clipp |
 | **cloneit** | 20250722 | A cli tool to download specific GitHub directories or files | https://github.com/alok8bb/cloneit |
@@ -1860,7 +1860,7 @@
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20260504 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.12.2 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
-| **neovim-nightly** | 0.13.0~dev-602+gb3dfa86e02-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
+| **neovim-nightly** | 0.13.0~dev-606+g3600d1c13c-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
 | **nerdfix** | 0.4.2-1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.5.2 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.5.2 | Static libraries for net-snmp | http://www.net-snmp.org/ |
@@ -2209,8 +2209,8 @@
 | **quickjs-ng** | 0.15.0 | Embeddable JavaScript engine in C (NG fork) | https://quickjs-ng.github.io/quickjs/ |
 | **quilt** | 0.69 | Allows you to easily manage large numbers of patches | https://savannah.nongnu.org/projects/quilt |
 | **rabbitmq-server** | 4.3.1 | Feature rich, multi-protocol messaging and streaming broker | https://github.com/rabbitmq/rabbitmq-server |
-| **racket** | 9.1 | Full-spectrum programming language going beyond Lisp and Scheme | https://racket-lang.org |
-| **racket-static** | 9.1 | Static libraries for racket | https://racket-lang.org |
+| **racket** | 9.2 | Full-spectrum programming language going beyond Lisp and Scheme | https://racket-lang.org |
+| **racket-static** | 9.2 | Static libraries for racket | https://racket-lang.org |
 | **radare2** | 6.1.4 | UNIX-like reverse engineering framework and command-line toolset | https://www.radare.org/ |
 | **rage** | 0.11.2 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4-1 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
@@ -2712,7 +2712,7 @@
 | **w3m** | 0.5.6-1 | Text based Web browser and pager | https://git.sr.ht/~rkta/w3m |
 | **w3m-img** | 0.5.6-1 | Inline image extension support utilities for w3m | https://git.sr.ht/~rkta/w3m |
 | **wabt** | 1.0.41 | The WebAssembly Binary Toolkit | https://github.com/WebAssembly/wabt |
-| **wakatime-cli** | 2.14.8 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
+| **wakatime-cli** | 2.14.10 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
 | **walk** | 1.13.0 | A terminal file manager | https://github.com/antonmedv/walk |
 | **wallust** | 3.5.2 | Generate colors from an image | https://explosion-mental.codeberg.page/wallust |
 | **wasi-libc** | 30 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |
