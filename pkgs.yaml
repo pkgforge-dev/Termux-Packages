@@ -791,11 +791,11 @@
   Description: Data interchange format and capability-based RPC system
   Homepage: https://capnproto.org/
 - Package: capstone
-  Version: 5.0.8
+  Version: 5.0.9
   Description: Lightweight multi-platform, multi-architecture disassembly framework
   Homepage: https://www.capstone-engine.org/
 - Package: capstone-static
-  Version: 5.0.8
+  Version: 5.0.9
   Description: Static libraries for capstone
   Homepage: https://www.capstone-engine.org/
 - Package: carapace
@@ -2999,7 +2999,7 @@
   Description: Command-line wrapper for git that makes you better at GitHub
   Homepage: https://hub.github.com/
 - Package: hugo
-  Version: 0.162.0
+  Version: 0.162.1
   Description: A fast and flexible static site generator
   Homepage: https://gohugo.io/
 - Package: hummin
@@ -3459,7 +3459,7 @@
   Description: LastPass command line interface tool
   Homepage: https://lastpass.com/
 - Package: lazygit
-  Version: 0.62.0
+  Version: 0.62.1
   Description: Simple terminal UI for git commands
   Homepage: https://github.com/jesseduffield/lazygit
 - Package: lcal
@@ -6675,7 +6675,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.30.2
+  Version: 0.30.3
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://lux.lumen-labs.org
 - Package: lv2
@@ -7038,6 +7038,10 @@
   Version: 2.9.7
   Description: Static libraries for minizinc
   Homepage: https://github.com/MiniZinc/libminizinc
+- Package: mise
+  Version: 2026.5.15
+  Description: dev tools, env vars, task runner
+  Homepage: https://mise.jdx.dev/
 - Package: mkbootimg
   Version: 2022.11.09-1
   Description: Maintained fork with androids mkbootimg and unpackbootimg
@@ -8255,7 +8259,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pocketbase
-  Version: 0.38.2
+  Version: 0.39.0
   Description: An open source Go backend
   Homepage: https://github.com/pocketbase/pocketbase
 - Package: poke
@@ -8587,7 +8591,7 @@
   Description: PPM compression/decompression library
   Homepage: https://github.com/miurahr/pyppmd
 - Package: python-ruff
-  Version: 0.15.14
+  Version: 0.15.15
   Description: An extremely fast Python linter, written in Rust (Python bindings)
   Homepage: https://github.com/charliermarsh/ruff
 - Package: python-sabyenc3
@@ -9103,7 +9107,7 @@
   Description: Ruby documentation index
   Homepage: https://www.ruby-lang.org/
 - Package: ruff
-  Version: 0.15.14
+  Version: 0.15.15
   Description: An extremely fast Python linter, written in Rust
   Homepage: https://github.com/charliermarsh/ruff
 - Package: runit

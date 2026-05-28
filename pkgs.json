@@ -1189,13 +1189,13 @@
   },
   {
     "Package": "capstone",
-    "Version": "5.0.8",
+    "Version": "5.0.9",
     "Description": "Lightweight multi-platform, multi-architecture disassembly framework",
     "Homepage": "https://www.capstone-engine.org/"
   },
   {
     "Package": "capstone-static",
-    "Version": "5.0.8",
+    "Version": "5.0.9",
     "Description": "Static libraries for capstone",
     "Homepage": "https://www.capstone-engine.org/"
   },
@@ -4501,7 +4501,7 @@
   },
   {
     "Package": "hugo",
-    "Version": "0.162.0",
+    "Version": "0.162.1",
     "Description": "A fast and flexible static site generator",
     "Homepage": "https://gohugo.io/"
   },
@@ -5191,7 +5191,7 @@
   },
   {
     "Package": "lazygit",
-    "Version": "0.62.0",
+    "Version": "0.62.1",
     "Description": "Simple terminal UI for git commands",
     "Homepage": "https://github.com/jesseduffield/lazygit"
   },
@@ -10015,7 +10015,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.30.2",
+    "Version": "0.30.3",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://lux.lumen-labs.org"
   },
@@ -10558,6 +10558,12 @@
     "Version": "2.9.7",
     "Description": "Static libraries for minizinc",
     "Homepage": "https://github.com/MiniZinc/libminizinc"
+  },
+  {
+    "Package": "mise",
+    "Version": "2026.5.15",
+    "Description": "dev tools, env vars, task runner",
+    "Homepage": "https://mise.jdx.dev/"
   },
   {
     "Package": "mkbootimg",
@@ -12385,7 +12391,7 @@
   },
   {
     "Package": "pocketbase",
-    "Version": "0.38.2",
+    "Version": "0.39.0",
     "Description": "An open source Go backend",
     "Homepage": "https://github.com/pocketbase/pocketbase"
   },
@@ -12883,7 +12889,7 @@
   },
   {
     "Package": "python-ruff",
-    "Version": "0.15.14",
+    "Version": "0.15.15",
     "Description": "An extremely fast Python linter, written in Rust (Python bindings)",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -13657,7 +13663,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.15.14",
+    "Version": "0.15.15",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
