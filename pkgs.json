@@ -2995,7 +2995,7 @@
   },
   {
     "Package": "ffmpeg",
-    "Version": "8.1.1",
+    "Version": "8.1.1-1",
     "Description": "Tools and libraries to manipulate a wide range of multimedia formats and protocols",
     "Homepage": "https://ffmpeg.org"
   },
@@ -7456,6 +7456,18 @@
     "Version": "1.6.1-2",
     "Description": "Static libraries for libmypaint",
     "Homepage": "https://github.com/mypaint/libmypaint"
+  },
+  {
+    "Package": "libmysofa",
+    "Version": "1.3.4-1",
+    "Description": "Reader for AES SOFA files to get better HRTFs",
+    "Homepage": "https://github.com/hoene/libmysofa"
+  },
+  {
+    "Package": "libmysofa-static",
+    "Version": "1.3.4-1",
+    "Description": "Static libraries for libmysofa",
+    "Homepage": "https://github.com/hoene/libmysofa"
   },
   {
     "Package": "libnats-c",
