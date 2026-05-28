@@ -1659,11 +1659,11 @@
   Description: Emulates the detach feature of screen
   Homepage: https://dtach.sourceforge.net/
 - Package: dtc
-  Version: 1.8.0
+  Version: 1.8.1
   Description: Device Tree Compiler
   Homepage: https://git.kernel.org/pub/scm/utils/dtc/dtc
 - Package: dtc-static
-  Version: 1.8.0
+  Version: 1.8.1
   Description: Static libraries for dtc
   Homepage: https://git.kernel.org/pub/scm/utils/dtc/dtc
 - Package: dte
@@ -3271,7 +3271,7 @@
   Description: A free media system for organizing and streaming media (server)
   Homepage: https://jellyfin.org
 - Package: jfrog-cli
-  Version: 2.104.1
+  Version: 2.105.0
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -3751,7 +3751,7 @@
   Description: Static libraries for libblosc
   Homepage: https://www.blosc.org
 - Package: libblosc2
-  Version: 3.1.0
+  Version: 3.1.2
   Description: A blocking, shuffling and loss-less compression library
   Homepage: https://www.blosc.org
 - Package: libbluray
@@ -6895,7 +6895,7 @@
   Description: Tera preprocessor for mdBook
   Homepage: https://github.com/avitex/mdbook-tera
 - Package: mdbook-toc
-  Version: 0.15.3
+  Version: 0.15.4
   Description: A preprocessor for mdbook to add inline Table of Contents support
   Homepage: https://github.com/badboy/mdbook-toc
 - Package: mdbtools
