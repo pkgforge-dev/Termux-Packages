@@ -284,7 +284,7 @@
 | **colm-static** | 0.14.7-2 | Static libraries for colm | https://www.colm.net/open-source/colm/ |
 | **colordiff** | 1.0.22 | Tool to colorize 'diff' output | https://www.colordiff.org/ |
 | **command-not-found** | 3.4.1-11 | Suggest installation of packages in interactive shell sessions | https://github.com/termux/command-not-found |
-| **composer** | 2.9.8 | Dependency Manager for PHP | https://getcomposer.org/ |
+| **composer** | 2.10.0 | Dependency Manager for PHP | https://getcomposer.org/ |
 | **console-bridge** | 1.0.2-1 | A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages | https://github.com/ros/console_bridge |
 | **convertlit** | 1.8-2 | An extractor/converter for .LIT eBooks | http://www.convertlit.com/ |
 | **cookcli** | 0.30.0 | A suite of tools to create shopping lists and maintain food recipes | https://cooklang.org |
@@ -2460,7 +2460,7 @@
 | **surfraw** | 2.3.0-10 | Shell Users' Revolutionary Front Rage Against the Web | https://gitlab.com/surfraw/Surfraw |
 | **svt-av1** | 4.1.0 | Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder) | https://gitlab.com/AOMediaCodec/SVT-AV1 |
 | **swaks** | 20240103.0 | Swiss Army Knife for SMTP | http://jetmore.org/john/code/swaks/ |
-| **swi-prolog** | 10.1.7 | Most popular and complete prolog implementation | https://swi-prolog.org/ |
+| **swi-prolog** | 10.1.8 | Most popular and complete prolog implementation | https://swi-prolog.org/ |
 | **swift** | 6.2.1 | Swift is a high-performance system programming language | https://swift.org/ |
 | **swift-runtime-aarch64** | 6.2.1 | Swift runtime libraries for Android AArch64 | https://swift.org/ |
 | **swift-runtime-arm** | 6.2.1 | Swift runtime libraries for Android armv7 | https://swift.org/ |
