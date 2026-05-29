@@ -133,7 +133,7 @@
   },
   {
     "Package": "agg",
-    "Version": "1.8.1",
+    "Version": "1.9.0",
     "Description": "asciinema gif generator",
     "Homepage": "https://github.com/asciinema/agg"
   },
@@ -1201,7 +1201,7 @@
   },
   {
     "Package": "carapace",
-    "Version": "1.6.6",
+    "Version": "1.7.0",
     "Description": "Multi-shell multi-command argument completer",
     "Homepage": "https://carapace.sh/"
   },
@@ -4837,7 +4837,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.24.1914",
+    "Version": "0.24.1970",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -6091,7 +6091,7 @@
   },
   {
     "Package": "libdrm",
-    "Version": "2.4.133",
+    "Version": "2.4.134",
     "Description": "Userspace interface to kernel DRM services",
     "Homepage": "https://dri.freedesktop.org/wiki/"
   },
@@ -6583,7 +6583,7 @@
   },
   {
     "Package": "libgrpc",
-    "Version": "1.80.0",
+    "Version": "1.81.0",
     "Description": "High performance, open source, general RPC framework that puts mobile and HTTP/2 first",
     "Homepage": "https://grpc.io/"
   },
@@ -6673,13 +6673,13 @@
   },
   {
     "Package": "libheif",
-    "Version": "1.22.2",
+    "Version": "1.23.0",
     "Description": "HEIF (HEIC/AVIF) image encoding and decoding library",
     "Homepage": "https://github.com/strukturag/libheif"
   },
   {
     "Package": "libheif-progs",
-    "Version": "1.22.2",
+    "Version": "1.23.0",
     "Description": "Programs for manipulating HEIF (HEIC/AVIF) image files",
     "Homepage": "https://github.com/strukturag/libheif"
   },
@@ -12805,7 +12805,7 @@
   },
   {
     "Package": "python-grpcio",
-    "Version": "1.80.0",
+    "Version": "1.81.0",
     "Description": "High performance, open source, general RPC framework that puts mobile and HTTP/2 first",
     "Homepage": "https://grpc.io/"
   },
