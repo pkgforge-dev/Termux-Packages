@@ -547,7 +547,7 @@
 | **freetype** | 2.14.3 | Software font engine capable of producing high-quality output | https://www.freetype.org |
 | **freetype-static** | 2.14.3 | Static libraries for freetype | https://www.freetype.org |
 | **frei0r-plugins** | 3.1.3 | Minimalistic plugin API for video effects | https://www.dyne.org/software/frei0r/ |
-| **fresh-editor** | 0.3.9 | Text editor for your terminal: easy, powerful and fast | https://getfresh.dev/ |
+| **fresh-editor** | 0.3.10 | Text editor for your terminal: easy, powerful and fast | https://getfresh.dev/ |
 | **fribidi** | 1.0.16-1 | Implementation of the Unicode Bidirectional Algorithm | https://github.com/fribidi/fribidi/ |
 | **fribidi-static** | 1.0.16-1 | Static libraries for fribidi | https://github.com/fribidi/fribidi/ |
 | **frobtads** | 2.0-5 | TADS is a free authoring system for writing your own Interactive Fiction | http://www.tads.org/frobtads.htm |
@@ -1772,7 +1772,7 @@
 | **miniupnpc-static** | 2.3.3-1 | Static libraries for miniupnpc | https://miniupnp.tuxfamily.org/ |
 | **minizinc** | 2.9.7 | A medium-level constraint modelling language | https://github.com/MiniZinc/libminizinc |
 | **minizinc-static** | 2.9.7 | Static libraries for minizinc | https://github.com/MiniZinc/libminizinc |
-| **mise** | 2026.5.15 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
+| **mise** | 2026.5.16 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
 | **mkbootimg** | 2022.11.09-1 | Maintained fork with android's mkbootimg and unpackbootimg | https://github.com/osm0sis/mkbootimg |
 | **mkp224o** | 1.7.0-1 | Generate vanity ed25519 (hidden service version 3) onion addresses | https://github.com/cathugger/mkp224o |
 | **mksh** | 59c-3 | The MirBSD Korn Shell - an enhanced version of the public domain ksh | http://www.mirbsd.org/mksh.htm |
@@ -2053,7 +2053,7 @@
 | **php-psr** | 1.2.0-4 | PHP extension providing the accepted PSR interfaces | https://github.com/jbboehr/php-psr |
 | **php-redis** | 6.3.0RC1 | PHP extension for interfacing with Redis | https://github.com/phpredis/phpredis |
 | **php-sodium** | 8.5.1 | Sodium module for PHP | https://php.net |
-| **php-zephir-parser** | 2.0.1 | The Zephir Parser delivered as a C extension for the PHP language | https://github.com/phalcon/php-zephir-parser |
+| **php-zephir-parser** | 2.0.2 | The Zephir Parser delivered as a C extension for the PHP language | https://github.com/phalcon/php-zephir-parser |
 | **phpmyadmin** | 5.2.3-1 | A PHP tool for administering MySQL and MariaDB databases | https://www.phpmyadmin.net |
 | **pianobar** | 2024.12.21-2 | pianobar is a free/open-source, console-based client for the personalized online radio Pandora. | https://6xq.net/pianobar/ |
 | **pick** | 4.0.0-3 | Utility to choose one option from a set of choices with fuzzy search functionality | https://github.com/calleerlandsson/pick |
@@ -2622,7 +2622,7 @@
 | **tvheadend-data** | 4.2.8-12 | Platform-independent data for tvheadend | https://tvheadend.org/ |
 | **tweego** | 2.1.1-4 | A free command line compiler for Twine/Twee story formats | https://bitbucket.org/tmedwards/tweego |
 | **twolame** | 0.4.0-1 | The frontend for libtwolame | https://www.twolame.org/ |
-| **txikijs** | 1:26.4.0 | A small and powerful JavaScript runtime | https://github.com/saghul/txiki.js |
+| **txikijs** | 1:26.5.0 | A small and powerful JavaScript runtime | https://github.com/saghul/txiki.js |
 | **ty** | 0.0.40 | An extremely fast Python type checker and language server, written in Rust | https://github.com/astral-sh/ty |
 | **typst** | 0.14.2 | A new markup-based typesetting system that is powerful and easy to learn | https://typst.app/ |
 | **typstfmt** | 0.2.10-1 | basic formatter for the Typst language | https://github.com/astrale-sharp/typstfmt |
@@ -2663,7 +2663,7 @@
 | **util-linux-static** | 2.42.1 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-2 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.42.1 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **uv** | 0.11.16 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
+| **uv** | 0.11.17 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.31-1 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.49.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.19 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
@@ -2688,7 +2688,7 @@
 | **viddy** | 1.3.0-2 | A modern watch command | https://github.com/sachaos/viddy |
 | **vifm** | 0.14.3-1 | File manager with vi like keybindings | https://vifm.info/ |
 | **vile** | 9.8z-1 | VI Like Emacs - vi work-alike | https://invisible-island.net/vile/ |
-| **vim** | 9.2.0500 | Vi IMproved - enhanced vi editor | https://www.vim.org |
+| **vim** | 9.2.0550 | Vi IMproved - enhanced vi editor | https://www.vim.org |
 | **virglrenderer** | 1.3.0 | A virtual 3D GPU for use inside qemu virtual machines | https://virgil3d.github.io/ |
 | **virglrenderer-android** | 1.3.0 | A virtual 3D GPU for use inside qemu virtual machines over OpenGLES libraries on Android | https://virgil3d.github.io/ |
 | **virustotal-cli** | 1.3.1 | Command line interface for VirusTotal | https://github.com/VirusTotal/vt-cli |
@@ -2700,7 +2700,7 @@
 | **vlc-static** | 3.0.23-3 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-4 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.3-1 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 2026.05.27 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
+| **vtm** | 2026.05.28 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
 | **vttest** | 20251205 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vulkan-extension-layer** | 1.4.350 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
 | **vulkan-headers** | 1.4.352 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
@@ -2715,7 +2715,7 @@
 | **w3m** | 0.5.6-1 | Text based Web browser and pager | https://git.sr.ht/~rkta/w3m |
 | **w3m-img** | 0.5.6-1 | Inline image extension support utilities for w3m | https://git.sr.ht/~rkta/w3m |
 | **wabt** | 1.0.41 | The WebAssembly Binary Toolkit | https://github.com/WebAssembly/wabt |
-| **wakatime-cli** | 2.14.10 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
+| **wakatime-cli** | 2.14.12 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
 | **walk** | 1.13.0 | A terminal file manager | https://github.com/antonmedv/walk |
 | **wallust** | 3.5.2 | Generate colors from an image | https://explosion-mental.codeberg.page/wallust |
 | **wasi-libc** | 30 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |
@@ -2782,7 +2782,7 @@
 | **xtrans** | 1.6.0 | X transport library | https://xorg.freedesktop.org/ |
 | **xvidcore** | 1.3.7-1 | High performance and high quality MPEG-4 library | https://www.xvid.com/ |
 | **xvidcore-static** | 1.3.7-1 | Static libraries for xvidcore | https://www.xvid.com/ |
-| **xxd** | 9.2.0500 | Hexdump utility from vim | https://www.vim.org |
+| **xxd** | 9.2.0550 | Hexdump utility from vim | https://www.vim.org |
 | **xxhash** | 0.8.3-1 | Extremely fast non-cryptographic hash algorithm | https://cyan4973.github.io/xxHash/ |
 | **xxhash-static** | 0.8.3-1 | Static libraries for xxhash | https://cyan4973.github.io/xxHash/ |
 | **xz-utils** | 5.8.3 | XZ-format compression tools | https://tukaani.org/xz/ |
