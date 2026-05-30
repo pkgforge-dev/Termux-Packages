@@ -169,7 +169,7 @@
   },
   {
     "Package": "algernon",
-    "Version": "1.17.8",
+    "Version": "1.17.9",
     "Description": "Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support",
     "Homepage": "https://algernon.roboticoverlords.org/"
   },
@@ -691,7 +691,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.34.56",
+    "Version": "2.34.57",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -1123,13 +1123,13 @@
   },
   {
     "Package": "ca-certificates",
-    "Version": "1:2026.03.19",
+    "Version": "1:2026.05.14",
     "Description": "Common CA certificates",
     "Homepage": "https://curl.se/docs/caextract.html"
   },
   {
     "Package": "ca-certificates-java",
-    "Version": "1:2026.03.19",
+    "Version": "1:2026.05.14",
     "Description": "Common CA certificates (java keystore format)",
     "Homepage": "https://curl.se/docs/caextract.html"
   },
