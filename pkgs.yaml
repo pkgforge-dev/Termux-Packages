@@ -2171,7 +2171,7 @@
   Description: A fast reverse proxy to expose a local server behind a NAT or firewall to the internet
   Homepage: https://github.com/fatedier/frp
 - Package: fselect
-  Version: 0.10.0
+  Version: 0.10.1
   Description: Find files with SQL-like queries
   Homepage: https://fselect.rocks/
 - Package: fsmon
@@ -3439,7 +3439,7 @@
   Description: Kubernetes.io client binary
   Homepage: https://kubernetes.io/
 - Package: kubelogin
-  Version: 1.36.1
+  Version: 1.36.2
   Description: A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication
   Homepage: https://github.com/int128/kubelogin
 - Package: kubo
@@ -4475,7 +4475,7 @@
   Description: Static libraries for libhyphen
   Homepage: https://github.com/hunspell/hyphen
 - Package: libical
-  Version: 4.0.1
+  Version: 4.0.2
   Description: Libical is an Open Source implementation of the iCalendar protocols and protocol data units
   Homepage: https://libical.github.io/libical/
 - Package: libice
@@ -4947,15 +4947,15 @@
   Description: Static libraries for libmpg123
   Homepage: https://mpg123.org/
 - Package: libmsgpack
-  Version: 6.1.0-1
+  Version: 7.0.0
   Description: MessagePack implementation for C
   Homepage: https://github.com/msgpack/msgpack-c/
 - Package: libmsgpack-cxx
-  Version: 7.0.0-4
+  Version: 8.0.0
   Description: msgpack for C++
   Homepage: https://msgpack.org/
 - Package: libmsgpack-static
-  Version: 6.1.0-1
+  Version: 7.0.0
   Description: Static libraries for libmsgpack
   Homepage: https://github.com/msgpack/msgpack-c/
 - Package: libmuparser
@@ -8831,7 +8831,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 4.65.0
+  Version: 4.66.0
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3

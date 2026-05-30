@@ -541,7 +541,7 @@
 | **frobtads** | 2.0-5 | TADS is a free authoring system for writing your own Interactive Fiction | http://www.tads.org/frobtads.htm |
 | **frotz** | 2.55-2 | Interpreter for Infocom and other Z-machine interactive fiction (IF) games | https://gitlab.com/DavidGriffith/frotz |
 | **frp** | 0.69.0 | A fast reverse proxy to expose a local server behind a NAT or firewall to the internet | https://github.com/fatedier/frp |
-| **fselect** | 0.10.0 | Find files with SQL-like queries | https://fselect.rocks/ |
+| **fselect** | 0.10.1 | Find files with SQL-like queries | https://fselect.rocks/ |
 | **fsmon** | 1.8.8-1 | Filesystem monitor with fanotify and inotify backends | https://github.com/nowsecure/fsmon |
 | **fwknop** | 2.6.11-2 | fwknop: Single Packet Authorization > Port Knocking | https://www.cipherdyne.org/fwknop/ |
 | **fwknop-static** | 2.6.11-2 | Static libraries for fwknop | https://www.cipherdyne.org/fwknop/ |
@@ -858,7 +858,7 @@
 | **krb5** | 1.22.2 | The Kerberos network authentication system | https://web.mit.edu/kerberos |
 | **kubecolor** | 0.6.0 | Colorize your kubectl output | https://github.com/kubecolor/kubecolor |
 | **kubectl** | 1.36.1 | Kubernetes.io client binary | https://kubernetes.io/ |
-| **kubelogin** | 1.36.1 | A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication | https://github.com/int128/kubelogin |
+| **kubelogin** | 1.36.2 | A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication | https://github.com/int128/kubelogin |
 | **kubo** | 0.41.0 | A peer-to-peer hypermedia distribution protocol | https://ipfs.io/ |
 | **ladspa-sdk** | 1.17-3 | Linux Audio Developer's Simple Plugin API | https://www.ladspa.org/ |
 | **lame** | 3.100-7 | High quality MPEG Audio Layer III (MP3) encoder - frontend | https://lame.sourceforge.io/ |
@@ -1117,7 +1117,7 @@
 | **libhtmlcxx-static** | 0.87-5 | Static libraries for libhtmlcxx | https://htmlcxx.sourceforge.net/ |
 | **libhyphen** | 2.8.8-1 | hyphenation library to use converted TeX hyphenation patterns | https://github.com/hunspell/hyphen |
 | **libhyphen-static** | 2.8.8-1 | Static libraries for libhyphen | https://github.com/hunspell/hyphen |
-| **libical** | 4.0.1 | Libical is an Open Source implementation of the iCalendar protocols and protocol data units | https://libical.github.io/libical/ |
+| **libical** | 4.0.2 | Libical is an Open Source implementation of the iCalendar protocols and protocol data units | https://libical.github.io/libical/ |
 | **libice** | 1.1.2-1 | X11 Inter-Client Exchange library | https://xorg.freedesktop.org/ |
 | **libiconv** | 1.18-1 | An implementation of iconv() | https://www.gnu.org/software/libiconv/ |
 | **libiconv-static** | 1.18-1 | Static libraries for libiconv | https://www.gnu.org/software/libiconv/ |
@@ -1235,9 +1235,9 @@
 | **libmpfr-static** | 4.2.1-1 | Static libraries for libmpfr | https://www.mpfr.org/ |
 | **libmpg123** | 1.33.3 | Fast console MPEG Audio Player and decoder library | https://mpg123.org/ |
 | **libmpg123-static** | 1.33.3 | Static libraries for libmpg123 | https://mpg123.org/ |
-| **libmsgpack** | 6.1.0-1 | MessagePack implementation for C | https://github.com/msgpack/msgpack-c/ |
-| **libmsgpack-cxx** | 7.0.0-4 | msgpack for C++ | https://msgpack.org/ |
-| **libmsgpack-static** | 6.1.0-1 | Static libraries for libmsgpack | https://github.com/msgpack/msgpack-c/ |
+| **libmsgpack** | 7.0.0 | MessagePack implementation for C | https://github.com/msgpack/msgpack-c/ |
+| **libmsgpack-cxx** | 8.0.0 | msgpack for C++ | https://msgpack.org/ |
+| **libmsgpack-static** | 7.0.0 | Static libraries for libmsgpack | https://github.com/msgpack/msgpack-c/ |
 | **libmuparser** | 2.3.5-2 | An extensible high performance math expression parser library written in C++ | https://beltoforion.de/en/muparser |
 | **libmypaint** | 1.6.1-2 | MyPaint brush engine library | https://github.com/mypaint/libmypaint |
 | **libmypaint-static** | 1.6.1-2 | Static libraries for libmypaint | https://github.com/mypaint/libmypaint |
@@ -2206,7 +2206,7 @@
 | **rage** | 0.11.2 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4-1 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4-1 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
-| **railway-cli** | 4.65.0 | This is the command line interface for Railway | https://railway.app |
+| **railway-cli** | 4.66.0 | This is the command line interface for Railway | https://railway.app |
 | **range-v3** | 0.12.0 | Range library for C++14/17/20, basis for C++20's std::ranges | https://github.com/ericniebler/range-v3 |
 | **ranger** | 1.9.4-1 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-7 | Fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |
