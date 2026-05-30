@@ -160,7 +160,7 @@
  boost-headers  1:1.90.0-1  Boost header files  https://boost.org 
  boost-static  1:1.90.0-1  Static libraries for boost  https://boost.org 
  bore  0.6.0-1  Bore is a simple CLI tool for making tunnels to localhost  https://github.com/ekzhang/bore 
- borgbackup  1.4.4  Deduplicating and compressing backup program  https://www.borgbackup.org/ 
+ borgbackup  1.4.4-1  Deduplicating and compressing backup program  https://www.borgbackup.org/ 
  botan3  3.10.0-1  Crypto and TLS for Modern C++  https://botan.randombit.net/ 
  botan3-static  3.10.0-1  Static libraries for botan3  https://botan.randombit.net/ 
  boxes  2.3.1-1  A command line filter program which draws ASCII art boxes around your input text  https://boxes.thomasjensen.com/ 
@@ -870,7 +870,7 @@
  ldns  1.8.4-1  Library for simplifying DNS programming and supporting recent and experimental RFCs  https://www.nlnetlabs.nl/projects/ldns/ 
  ldns-static  1.8.4-1  Static libraries for ldns  https://www.nlnetlabs.nl/projects/ldns/ 
  ledger  3.4.1-2  Powerful, double-entry accounting system  https://www.ledger-cli.org 
- lego  5.1.0  Let's Encrypt/ACME client and library written in Go  https://github.com/go-acme/lego 
+ lego  5.2.0  Let's Encrypt/ACME client and library written in Go  https://github.com/go-acme/lego 
  leptonica  1.87.0  Library for image processing and image analysis  http://www.leptonica.com/ 
  leptonica-static  1.87.0  Static libraries for leptonica  http://www.leptonica.com/ 
  less  702  Terminal pager program used to view the contents of a text file one screen at a time  https://www.greenwoodsoftware.com/less/ 
@@ -1691,8 +1691,8 @@
  manim  0.20.1-2  A community-maintained Python framework for creating mathematical animations  https://manim.community 
  manpages  6.18  Man pages for linux kernel and C library interfaces  https://www.kernel.org/doc/man-pages/ 
  mapserver  8.2.2-4  MapServer is CGI-based platform for publishing spatial data and interactive mapping applications to the web  https://mapserver.org/ 
- mariadb  2:12.3.1  A drop-in replacement for mysql server  https://mariadb.org 
- mariadb-static  2:12.3.1  Static libraries for mariadb  https://mariadb.org 
+ mariadb  2:12.3.2  A drop-in replacement for mysql server  https://mariadb.org 
+ mariadb-static  2:12.3.2  Static libraries for mariadb  https://mariadb.org 
  marisa  0.3.1-1  Matching Algorithm with Recursively Implemented StorAge  https://github.com/s-yata/marisa-trie 
  markdown-flashcards  2.0.1  Small CLI app to learn with flashcards and spaced repetition  https://github.com/bttger/markdown-flashcards 
  marksman  2026.02.08  LSP language server for editing Markdown files  https://github.com/artempyanykh/marksman 
@@ -1752,7 +1752,7 @@
  minesweeper  0.3.1-4  A simple terminal-based implementation of Minesweeper  https://github.com/benhsm/minesweeper 
  minicom  2.11.1  Friendly menu driven serial communication program  https://salsa.debian.org/minicom-team/minicom 
  minidlna  1.3.3-4  A server software with the aim of being fully compliant with DLNA/UPnP-AV clients  https://sourceforge.net/projects/minidlna/ 
- miniflux  2.3.0  A minimalist and opinionated feed reader  https://miniflux.app/ 
+ miniflux  2.3.1  A minimalist and opinionated feed reader  https://miniflux.app/ 
  minimodem  0.24-1-2  General-purpose software audio FSK modem  http://www.whence.com/minimodem/ 
  miniserve  0.35.0  Tool to serve files and dirs over HTTP  https://github.com/svenstaro/miniserve 
  minisign  0.12-1  A dead simple tool to sign files and verify signatures  https://jedisct1.github.io/minisign/ 
@@ -1894,7 +1894,7 @@
  nsnake  3.0.1-7  The classic snake game with textual interface  https://github.com/alexdantas/nSnake 
  nss-utils  3.124  Tools for NSS  https://firefox-source-docs.mozilla.org/security/nss/ 
  nudoku  8.0.0  ncurses based sudoku game  http://jubalh.github.io/nudoku/ 
- nushell  0.113.0  A new type of shell operating on structured data  https://www.nushell.sh 
+ nushell  0.113.1  A new type of shell operating on structured data  https://www.nushell.sh 
  nyancat  1.5.2-1  Nyancat in your terminal, rendered through ANSI escape sequences.  http://nyancat.dakko.us 
  nzbget  26.0  The most efficient usenet downloader  https://nzbget.com/ 
  oathtool  2.6.12-2  One-time password components  http://www.nongnu.org/oath-toolkit/ 
@@ -1927,8 +1927,8 @@
  openal-soft  1.25.2-1  Software implementation of the OpenAL API  https://openal-soft.org/ 
  openbabel  3.1.1-14  Open Babel is a chemical toolbox designed to speak the many languages of chemical data  http://openbabel.org/wiki/Main_Page 
  opencc-tools  1.3.1  Command-line tools for OpenCC  https://github.com/BYVoid/OpenCC 
- opencl-clhpp  2025.07.22  Khronos OpenCL C++ Headers  https://github.com/KhronosGroup/OpenCL-CLHPP 
- opencl-headers  2025.07.22  Khronos OpenCL-Headers  https://github.com/KhronosGroup/OpenCL-Headers 
+ opencl-clhpp  2026.05.29  Khronos OpenCL C++ Headers  https://github.com/KhronosGroup/OpenCL-CLHPP 
+ opencl-headers  2026.05.29  Khronos OpenCL-Headers  https://github.com/KhronosGroup/OpenCL-Headers 
  opencl-vendor-driver  0.3-1  OpenCL driver from system vendor  https://termux.dev 
  opencolorio  2.5.2  A color management framework for visual effects and animation  https://opencolorio.org 
  openexr  3.4.4  Provides the specification and reference implementation of the EXR file format  https://www.openexr.com/ 
@@ -2095,7 +2095,7 @@
  progress  0.17-1  Linux tool to show progress for cp, mv, dd and more  https://github.com/Xfennec/progress 
  proj  9.8.1  Generic coordinate transformation software  https://proj.org 
  proot  5.1.107.72  Emulate chroot, bind mount and binfmt_misc for non-root users  https://proot-me.github.io/ 
- proot-distro  5.1.1  Termux official utility for managing proot'ed Linux distributions  https://github.com/termux/proot-distro 
+ proot-distro  5.1.2  Termux official utility for managing proot'ed Linux distributions  https://github.com/termux/proot-distro 
  protobuf  2:33.1-1  Compiler for protocol buffer definition files  https://github.com/protocolbuffers/protobuf 
  proton-bridge  3.24.2  ProtonMail Bridge application  https://github.com/ProtonMail/proton-bridge 
  prover9  2009-11A-2  An automated theorem prover for first-order and equational logic  https://www.cs.unm.edu/~mccune/prover9/ 
@@ -2241,7 +2241,7 @@
  resolv-conf  1.3  Resolver configuration file  https://man7.org/linux/man-pages/man5/resolv.conf.5.html 
  restic  0.18.1  Fast, secure, efficient backup program  https://restic.net/ 
  restic-server  0.14.0-1  Restic's REST backend API server  https://restic.net/ 
- restish  2.1.0  A CLI for interacting with REST-ish HTTP APIs  https://github.com/rest-sh/restish 
+ restish  2.1.1  A CLI for interacting with REST-ish HTTP APIs  https://github.com/rest-sh/restish 
  rgbds  1.0.1  Rednex Game Boy Development System - An assembly toolchain for the Nintendo Game Boy & Game Boy Color  https://rgbds.gbdev.io 
  rhash  1.4.6-1  Console utility for calculation and verification of magnet links and a wide range of hash sums  https://github.com/rhash/RHash 
  rhash-static  1.4.6-1  Static libraries for rhash  https://github.com/rhash/RHash 
@@ -2304,7 +2304,7 @@
  samefile  2.15-6  Finds files with identical contents, independent of file name  http://www.schweikhardt.net/samefile/ 
  samurai  1.3  ninja-compatible build tool written in C  https://github.com/michaelforney/samurai 
  sassc  3.6.2-1  libsass command line driver  https://github.com/sass/sassc 
- sbcl  2.6.4  A high performance Common Lisp compiler  http://www.sbcl.org/ 
+ sbcl  2.6.5  A high performance Common Lisp compiler  http://www.sbcl.org/ 
  sc-im  0.8.5-4  An improved version of sc, a spreadsheet calculator  https://github.com/andmarti1424/sc-im 
  scala  3.8.3  Scala 3 compiler and standard library.  https://www.scala-lang.org 
  scc  3.7.0  Counts physical the lines of code, blank lines, comment lines, and physical lines of source code  https://github.com/boyter/scc 
@@ -2688,7 +2688,7 @@
  vlc-static  3.0.23-3  Static libraries for vlc  https://www.videolan.org/ 
  vobsub2srt  2017.12.18-4  A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR  https://github.com/ruediger/VobSub2SRT 
  vorbis-tools  1.4.3-1  Ogg Vorbis tools  https://github.com/xiph/vorbis-tools 
- vtm  2026.05.28  Terminal multiplexer with TUI window manager and multi-party session sharing  https://github.com/directvt/vtm 
+ vtm  2026.05.29  Terminal multiplexer with TUI window manager and multi-party session sharing  https://github.com/directvt/vtm 
  vttest  20251205  Program for testing the VT100 compatibility of terminal emulators  https://invisible-island.net/vttest/ 
  vulkan-extension-layer  1.4.350  Vulkan Extension Layer  https://github.com/KhronosGroup/Vulkan-ExtensionLayer 
  vulkan-headers  1.4.352  Vulkan Header files and API registry  https://github.com/KhronosGroup/Vulkan-Headers 

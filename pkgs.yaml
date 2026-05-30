@@ -647,7 +647,7 @@
   Description: Bore is a simple CLI tool for making tunnels to localhost
   Homepage: https://github.com/ekzhang/bore
 - Package: borgbackup
-  Version: 1.4.4
+  Version: 1.4.4-1
   Description: Deduplicating and compressing backup program
   Homepage: https://www.borgbackup.org/
 - Package: botan3
@@ -3487,7 +3487,7 @@
   Description: Powerful, double-entry accounting system
   Homepage: https://www.ledger-cli.org
 - Package: lego
-  Version: 5.1.0
+  Version: 5.2.0
   Description: Lets Encrypt/ACME client and library written in Go
   Homepage: https://github.com/go-acme/lego
 - Package: leptonica
@@ -6771,11 +6771,11 @@
   Description: MapServer is CGI-based platform for publishing spatial data and interactive mapping applications to the web
   Homepage: https://mapserver.org/
 - Package: mariadb
-  Version: 2:12.3.1
+  Version: 2:12.3.2
   Description: A drop-in replacement for mysql server
   Homepage: https://mariadb.org
 - Package: mariadb-static
-  Version: 2:12.3.1
+  Version: 2:12.3.2
   Description: Static libraries for mariadb
   Homepage: https://mariadb.org
 - Package: marisa
@@ -7015,7 +7015,7 @@
   Description: A server software with the aim of being fully compliant with DLNA/UPnP-AV clients
   Homepage: https://sourceforge.net/projects/minidlna/
 - Package: miniflux
-  Version: 2.3.0
+  Version: 2.3.1
   Description: A minimalist and opinionated feed reader
   Homepage: https://miniflux.app/
 - Package: minimodem
@@ -7583,7 +7583,7 @@
   Description: ncurses based sudoku game
   Homepage: http://jubalh.github.io/nudoku/
 - Package: nushell
-  Version: 0.113.0
+  Version: 0.113.1
   Description: A new type of shell operating on structured data
   Homepage: https://www.nushell.sh
 - Package: nyancat
@@ -7715,11 +7715,11 @@
   Description: Command-line tools for OpenCC
   Homepage: https://github.com/BYVoid/OpenCC
 - Package: opencl-clhpp
-  Version: 2025.07.22
+  Version: 2026.05.29
   Description: Khronos OpenCL C++ Headers
   Homepage: https://github.com/KhronosGroup/OpenCL-CLHPP
 - Package: opencl-headers
-  Version: 2025.07.22
+  Version: 2026.05.29
   Description: Khronos OpenCL-Headers
   Homepage: https://github.com/KhronosGroup/OpenCL-Headers
 - Package: opencl-vendor-driver
@@ -8387,7 +8387,7 @@
   Description: Emulate chroot, bind mount and binfmt_misc for non-root users
   Homepage: https://proot-me.github.io/
 - Package: proot-distro
-  Version: 5.1.1
+  Version: 5.1.2
   Description: Termux official utility for managing prooted Linux distributions
   Homepage: https://github.com/termux/proot-distro
 - Package: protobuf
@@ -8971,7 +8971,7 @@
   Description: Restics REST backend API server
   Homepage: https://restic.net/
 - Package: restish
-  Version: 2.1.0
+  Version: 2.1.1
   Description: A CLI for interacting with REST-ish HTTP APIs
   Homepage: https://github.com/rest-sh/restish
 - Package: rgbds
@@ -9223,7 +9223,7 @@
   Description: libsass command line driver
   Homepage: https://github.com/sass/sassc
 - Package: sbcl
-  Version: 2.6.4
+  Version: 2.6.5
   Description: A high performance Common Lisp compiler
   Homepage: http://www.sbcl.org/
 - Package: sc-im
@@ -10759,7 +10759,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2026.05.28
+  Version: 2026.05.29
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vttest
