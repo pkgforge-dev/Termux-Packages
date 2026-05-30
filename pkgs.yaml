@@ -7411,7 +7411,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-613+g1a7ab1ab47-0
+  Version: 0.13.0~dev-619+g286860fde5-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -9451,11 +9451,11 @@
   Description: Bash command that converts filenames and directories to a web friendly format.
   Homepage: https://github.com/benlinton/slugify
 - Package: smalltalk
-  Version: 3.2.91-15
+  Version: 3.2.91-16
   Description: A free implementation of the Smalltalk-80 language
   Homepage: http://smalltalk.gnu.org/
 - Package: smalltalk-static
-  Version: 3.2.91-15
+  Version: 3.2.91-16
   Description: Static libraries for smalltalk
   Homepage: http://smalltalk.gnu.org/
 - Package: snapcast-client
