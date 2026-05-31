@@ -2094,7 +2094,7 @@
 | **profanity** | 0.18.1 | Profanity is a console based XMPP client written in C using ncurses and libstrophe, inspired by Irssi | https://profanity-im.github.io |
 | **progress** | 0.17-1 | Linux tool to show progress for cp, mv, dd and more | https://github.com/Xfennec/progress |
 | **proj** | 9.8.1 | Generic coordinate transformation software | https://proj.org |
-| **proot** | 5.1.107.73 | Emulate chroot, bind mount and binfmt_misc for non-root users | https://proot-me.github.io/ |
+| **proot** | 5.1.107.74 | Emulate chroot, bind mount and binfmt_misc for non-root users | https://proot-me.github.io/ |
 | **proot-distro** | 5.1.2 | Termux official utility for managing proot'ed Linux distributions | https://github.com/termux/proot-distro |
 | **protobuf** | 2:33.1-1 | Compiler for protocol buffer definition files | https://github.com/protocolbuffers/protobuf |
 | **proton-bridge** | 3.24.2 | ProtonMail Bridge application | https://github.com/ProtonMail/proton-bridge |
@@ -2142,7 +2142,7 @@
 | **python-numpy-static** | 2.4.4 | Static libraries for python-numpy | https://numpy.org/ |
 | **python-onnxruntime** | 1.26.0 | Cross-platform, high performance ML inferencing and training accelerator (Python bindings) | https://onnxruntime.ai/ |
 | **python-pillow** | 12.2.0 | Python Imaging Library | https://python-pillow.org/ |
-| **python-pip** | 26.1.1 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
+| **python-pip** | 26.1.2 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
 | **python-psutil** | 7.2.2 | Cross-platform process and system utilities module for Python | https://github.com/giampaolo/psutil |
 | **python-pyarrow** | 24.0.0 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
 | **python-pycryptodomex** | 3.23.0-3 | A self-contained Python package of low-level cryptographic primitives | https://www.pycryptodome.org/ |
@@ -2661,6 +2661,7 @@
 | **vale** | 3.14.2 | A syntax-aware linter for prose built with speed and extensibility in mind | https://vale.sh |
 | **valgrind** | 3.22.0-1 | Instrumentation framework for building dynamic analysis tools | https://valgrind.org/ |
 | **valgrind-static** | 3.22.0-1 | Static libraries for valgrind | https://valgrind.org/ |
+| **valkey** | 9.1.0 | In-memory data structure store used as a database, cache and message broker | https://valkey.io/ |
 | **valkey-static** | 9.1.0 | Static libraries for valkey | https://valkey.io/ |
 | **vamp-plugin-sdk** | 2.10-3 | An API for audio analysis and feature extraction plugins | https://www.vamp-plugins.org/ |
 | **vamp-plugin-sdk-static** | 2.10-3 | Static libraries for vamp-plugin-sdk | https://www.vamp-plugins.org/ |

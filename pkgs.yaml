@@ -8383,7 +8383,7 @@
   Description: Generic coordinate transformation software
   Homepage: https://proj.org
 - Package: proot
-  Version: 5.1.107.73
+  Version: 5.1.107.74
   Description: Emulate chroot, bind mount and binfmt_misc for non-root users
   Homepage: https://proot-me.github.io/
 - Package: proot-distro
@@ -8575,7 +8575,7 @@
   Description: Python Imaging Library
   Homepage: https://python-pillow.org/
 - Package: python-pip
-  Version: 26.1.1
+  Version: 26.1.2
   Description: The PyPA recommended tool for installing Python packages
   Homepage: https://pip.pypa.io/
 - Package: python-psutil
@@ -10650,6 +10650,10 @@
   Version: 3.22.0-1
   Description: Static libraries for valgrind
   Homepage: https://valgrind.org/
+- Package: valkey
+  Version: 9.1.0
+  Description: In-memory data structure store used as a database, cache and message broker
+  Homepage: https://valkey.io/
 - Package: valkey-static
   Version: 9.1.0
   Description: Static libraries for valkey
