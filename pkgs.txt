@@ -271,7 +271,7 @@
  colm  0.14.7-2  COmputer Language Machinery  https://www.colm.net/open-source/colm/ 
  colm-static  0.14.7-2  Static libraries for colm  https://www.colm.net/open-source/colm/ 
  colordiff  1.0.22  Tool to colorize 'diff' output  https://www.colordiff.org/ 
- command-not-found  3.4.1-11  Suggest installation of packages in interactive shell sessions  https://github.com/termux/command-not-found 
+ command-not-found  3.4.1-12  Suggest installation of packages in interactive shell sessions  https://github.com/termux/command-not-found 
  composer  2.10.0  Dependency Manager for PHP  https://getcomposer.org/ 
  console-bridge  1.0.2-1  A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages  https://github.com/ros/console_bridge 
  convertlit  1.8-2  An extractor/converter for .LIT eBooks  http://www.convertlit.com/ 
@@ -432,7 +432,7 @@
  ebook-tools  0.2.2-3  Tools for accessing and converting various ebook file formats  https://sourceforge.net/projects/ebook-tools/ 
  ecj  1:4.12-5  Eclipse Compiler for Java  https://www.eclipse.org/jdt/core/ 
  ed  1.22.5  Classic UNIX line editor  https://www.gnu.org/software/ed/ 
- edbrowse  3.8.16  Line based editor, browser, and mail client  https://edbrowse.org/ 
+ edbrowse  3.8.17  Line based editor, browser, and mail client  https://edbrowse.org/ 
  editorconfig-core-c  0.12.11  EditorConfig core code written in C (for use by plugins supporting EditorConfig parsing)  https://editorconfig.org/ 
  editorconfig-core-c-static  0.12.11  Static libraries for editorconfig-core-c  https://editorconfig.org/ 
  eigen  3.4.0  Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms  http://eigen.tuxfamily.org 
@@ -1851,7 +1851,7 @@
  neofetch  7.1.0-1  Simple system information script  https://github.com/dylanaraps/neofetch 
  neomutt  20260504  A version of mutt with added features  https://neomutt.org/ 
  neovim  0.12.2  Ambitious Vim-fork focused on extensibility and agility (nvim)  https://neovim.io/ 
- neovim-nightly  0.13.0~dev-619+g286860fde5-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
+ neovim-nightly  0.13.0~dev-625+gf8a56a8439-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
  nerdfix  0.4.2-1  nerdfix helps you to find/fix obsolete Nerd Font icons in your project.  https://github.com/loichyan/nerdfix 
  net-snmp  5.9.5.2  Various tools relating to the Simple Network Management Protocol  http://www.net-snmp.org/ 
  net-snmp-static  5.9.5.2  Static libraries for net-snmp  http://www.net-snmp.org/ 
