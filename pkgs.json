@@ -1213,7 +1213,7 @@
   },
   {
     "Package": "cargo-c",
-    "Version": "0.10.22",
+    "Version": "0.10.23",
     "Description": "Cargo C-ABI helpers",
     "Homepage": "https://github.com/lu-zero/cargo-c"
   },
@@ -5233,7 +5233,7 @@
   },
   {
     "Package": "lego",
-    "Version": "5.2.0",
+    "Version": "5.2.1",
     "Description": "Lets Encrypt/ACME client and library written in Go",
     "Homepage": "https://github.com/go-acme/lego"
   },
@@ -6577,7 +6577,7 @@
   },
   {
     "Package": "libgraphite",
-    "Version": "1.3.14-3",
+    "Version": "1.3.15",
     "Description": "Font system for multiple languages",
     "Homepage": "https://github.com/silnrsi/graphite"
   },
@@ -10573,7 +10573,7 @@
   },
   {
     "Package": "mise",
-    "Version": "2026.5.16",
+    "Version": "2026.5.18-1",
     "Description": "dev tools, env vars, task runner",
     "Homepage": "https://mise.jdx.dev/"
   },
@@ -10903,7 +10903,7 @@
   },
   {
     "Package": "mympd",
-    "Version": "25.0.2",
+    "Version": "25.1.0",
     "Description": "A standalone and lightweight web-based MPD client",
     "Homepage": "https://jcorporation.github.io/myMPD/"
   },
@@ -11119,7 +11119,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-625+gf8a56a8439-0",
+    "Version": "0.13.0~dev-628+gedcaf1887a-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -13705,7 +13705,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20260525",
+    "Version": "20260601",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://rust-analyzer.github.io/"
   },
