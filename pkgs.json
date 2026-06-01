@@ -691,7 +691,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.34.57",
+    "Version": "2.34.58",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -11869,13 +11869,13 @@
   },
   {
     "Package": "oxfmt",
-    "Version": "1.67.0",
+    "Version": "1.68.0",
     "Description": "Oxc JavaScript formatter",
     "Homepage": "https://oxc.rs/"
   },
   {
     "Package": "oxlint",
-    "Version": "1.67.0",
+    "Version": "1.68.0",
     "Description": "Oxc JavaScript linter",
     "Homepage": "https://oxc.rs/"
   },
@@ -12577,7 +12577,7 @@
   },
   {
     "Package": "proot",
-    "Version": "5.1.107.74",
+    "Version": "5.1.107.75",
     "Description": "Emulate chroot, bind mount and binfmt_misc for non-root users",
     "Homepage": "https://proot-me.github.io/"
   },
@@ -15679,7 +15679,7 @@
   },
   {
     "Package": "ty",
-    "Version": "0.0.41",
+    "Version": "0.0.42",
     "Description": "An extremely fast Python type checker and language server, written in Rust",
     "Homepage": "https://github.com/astral-sh/ty"
   },
@@ -15919,7 +15919,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.11.17",
+    "Version": "0.11.18",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
