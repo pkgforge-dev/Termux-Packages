@@ -1021,7 +1021,7 @@
   },
   {
     "Package": "broot",
-    "Version": "1.56.4",
+    "Version": "1.57.0",
     "Description": "A better way to navigate directories",
     "Homepage": "https://github.com/Canop/broot"
   },
@@ -2155,7 +2155,7 @@
   },
   {
     "Package": "dnslookup",
-    "Version": "1.11.2",
+    "Version": "1.12.0",
     "Description": "Simple command line utility to make DNS lookups. Supports all known DNS protocols: plain DNS, DoH, DoT, DoQ, DNSCrypt.",
     "Homepage": "https://github.com/ameshkov/dnslookup"
   },
@@ -3253,7 +3253,7 @@
   },
   {
     "Package": "frp",
-    "Version": "0.69.0",
+    "Version": "0.69.1",
     "Description": "A fast reverse proxy to expose a local server behind a NAT or firewall to the internet",
     "Homepage": "https://github.com/fatedier/frp"
   },
@@ -5929,7 +5929,7 @@
   },
   {
     "Package": "libcpufeatures",
-    "Version": "0.10.1-1",
+    "Version": "0.11.0",
     "Description": "A cross-platform C library to retrieve CPU features (such as available instructions) at runtime",
     "Homepage": "https://github.com/google/cpu_features"
   },
@@ -14569,7 +14569,7 @@
   },
   {
     "Package": "storj-uplink",
-    "Version": "1.154.4",
+    "Version": "1.155.4",
     "Description": "Storj DCS Uplink CLI",
     "Homepage": "https://www.storj.io/integrations/uplink-cli"
   },
@@ -15679,7 +15679,7 @@
   },
   {
     "Package": "ty",
-    "Version": "0.0.40",
+    "Version": "0.0.41",
     "Description": "An extremely fast Python type checker and language server, written in Rust",
     "Homepage": "https://github.com/astral-sh/ty"
   },
@@ -16681,13 +16681,13 @@
   },
   {
     "Package": "yara",
-    "Version": "4.5.6",
+    "Version": "4.5.7",
     "Description": "Tool aimed at helping malware researchers to identify and classify malware samples",
     "Homepage": "https://github.com/VirusTotal/yara"
   },
   {
     "Package": "yara-static",
-    "Version": "4.5.6",
+    "Version": "4.5.7",
     "Description": "Static libraries for yara",
     "Homepage": "https://github.com/VirusTotal/yara"
   },

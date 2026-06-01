@@ -679,7 +679,7 @@
   Description: A cross-platform strong encryption and not detectable proxy. Zero-Configuration.
   Homepage: https://github.com/txthinking/brook
 - Package: broot
-  Version: 1.56.4
+  Version: 1.57.0
   Description: A better way to navigate directories
   Homepage: https://github.com/Canop/broot
 - Package: brotli
@@ -1435,7 +1435,7 @@
   Description: Infrastructure as code for DNS!
   Homepage: https://github.com/StackExchange/dnscontrol
 - Package: dnslookup
-  Version: 1.11.2
+  Version: 1.12.0
   Description: 'Simple command line utility to make DNS lookups. Supports all known DNS protocols: plain DNS, DoH, DoT, DoQ, DNSCrypt.'
   Homepage: https://github.com/ameshkov/dnslookup
 - Package: dnsmap
@@ -2167,7 +2167,7 @@
   Description: Interpreter for Infocom and other Z-machine interactive fiction (IF) games
   Homepage: https://gitlab.com/DavidGriffith/frotz
 - Package: frp
-  Version: 0.69.0
+  Version: 0.69.1
   Description: A fast reverse proxy to expose a local server behind a NAT or firewall to the internet
   Homepage: https://github.com/fatedier/frp
 - Package: fselect
@@ -3951,7 +3951,7 @@
   Description: Static libraries for libconfuse
   Homepage: https://github.com/martinh/libconfuse
 - Package: libcpufeatures
-  Version: 0.10.1-1
+  Version: 0.11.0
   Description: A cross-platform C library to retrieve CPU features (such as available instructions) at runtime
   Homepage: https://github.com/google/cpu_features
 - Package: libcroco
@@ -9711,7 +9711,7 @@
   Description: A TCP/IP repeater in the application layer
   Homepage: https://www.gcd.org/sengoku/stone/
 - Package: storj-uplink
-  Version: 1.154.4
+  Version: 1.155.4
   Description: Storj DCS Uplink CLI
   Homepage: https://www.storj.io/integrations/uplink-cli
 - Package: stow
@@ -10451,7 +10451,7 @@
   Description: A small and powerful JavaScript runtime
   Homepage: https://github.com/saghul/txiki.js
 - Package: ty
-  Version: 0.0.40
+  Version: 0.0.41
   Description: An extremely fast Python type checker and language server, written in Rust
   Homepage: https://github.com/astral-sh/ty
 - Package: typst
@@ -11119,11 +11119,11 @@
   Description: Static libraries for yajl
   Homepage: https://lloyd.github.io/yajl/
 - Package: yara
-  Version: 4.5.6
+  Version: 4.5.7
   Description: Tool aimed at helping malware researchers to identify and classify malware samples
   Homepage: https://github.com/VirusTotal/yara
 - Package: yara-static
-  Version: 4.5.6
+  Version: 4.5.7
   Description: Static libraries for yara
   Homepage: https://github.com/VirusTotal/yara
 - Package: yarn
