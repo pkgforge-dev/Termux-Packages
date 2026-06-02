@@ -40,7 +40,7 @@
 | **alembic** | 1.8.11 | A framework for sharing scene data that includes a C++ lib, a file format and client plugin | https://alembic.io |
 | **algernon** | 1.17.9 | Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support | https://algernon.roboticoverlords.org/ |
 | **alpine** | 2.26-1 | Fast, easy to use email client | http://alpine.x10host.com/ |
-| **alsa-lib** | 1.2.15.3 | The Advanced Linux Sound Architecture (ALSA) - library | https://www.alsa-project.org |
+| **alsa-lib** | 1.2.16 | The Advanced Linux Sound Architecture (ALSA) - library | https://www.alsa-project.org |
 | **alsa-plugins** | 1.2.12-1 | The Advanced Linux Sound Architecture (ALSA) - plugins | https://www.alsa-project.org |
 | **alsa-utils** | 1.2.15.2 | The Advanced Linux Sound Architecture (ALSA) - utils | https://www.alsa-project.org |
 | **alsa-utils-static** | 1.2.15.2 | Static libraries for alsa-utils | https://www.alsa-project.org |
@@ -563,8 +563,8 @@
 | **g-ir-scanner** | 1.86.0-1 | A tool which generates GIR XML files | https://gi.readthedocs.io/ |
 | **game-music-emu** | 0.6.5 | A collection of video game music file emulators | https://bitbucket.org/mpyne/game-music-emu/wiki/Home |
 | **game-music-emu-static** | 0.6.5 | Static libraries for game-music-emu | https://bitbucket.org/mpyne/game-music-emu/wiki/Home |
-| **gap** | 4.15.1 | GAP is a system for computational discrete algebra, with particular emphasis on Computational Group Theory | https://www.gap-system.org/ |
-| **gap-packages** | 4.15.1 | Packages for gap | https://www.gap-system.org/ |
+| **gap** | 4.16.0 | GAP is a system for computational discrete algebra, with particular emphasis on Computational Group Theory | https://www.gap-system.org/ |
+| **gap-packages** | 4.16.0 | Packages for gap | https://www.gap-system.org/ |
 | **garage** | 2.3.0 | S3-compatible object store for small self-hosted geo-distributed deployments | https://garagehq.deuxfleurs.fr/ |
 | **gatling** | 0.16-2 | A high performance http, ftp and smb server | https://www.fefe.de/gatling/ |
 | **gauche** | 0.9.15-3 | An R7RS Scheme implementation developed to be a handy script interpreter | https://practical-scheme.net/gauche/ |
@@ -654,7 +654,7 @@
 | **gnushogi** | 1.4.2-p20141119-1 | Program that plays the game of Shogi, also known as Japanese Chess | https://www.gnu.org/software/gnushogi/ |
 | **gnuski** | 0.3-7 | Open source clone of Skifree, the old Windows game | https://sourceforge.net/projects/gnuski/ |
 | **gnustep-make** | 2.9.3-1 | The GNUstep makefile package | https://www.gnustep.org |
-| **gnutls** | 3.8.11 | Commandline utilities for interfacing with the gnutls library | https://www.gnutls.org/ |
+| **gnutls** | 3.8.13 | Commandline utilities for interfacing with the gnutls library | https://www.gnutls.org/ |
 | **go-findimagedupes** | 2023.01.29-4 | Find visually similar or duplicate images | https://gitlab.com/opennota/findimagedupes |
 | **go-musicfox** | 4.8.5 | A netease music player in terminal. | https://github.com/go-musicfox/go-musicfox |
 | **goaccess** | 1.10.2 | An open source real-time web log analyzer and interactive viewer | https://goaccess.io |
@@ -1102,8 +1102,8 @@
 | **libgmp-static** | 6.3.0-2 | Static libraries for libgmp | https://gmplib.org/ |
 | **libgnt** | 2.14.4-2 | An ncurses toolkit for creating text-mode graphical user interfaces in a fast and easy way | https://keep.imfreedom.org/libgnt/libgnt |
 | **libgnustep-base** | 1.31.1-4 | A library of general-purpose, non-graphical Objective C objects | https://www.gnustep.org |
-| **libgnutls** | 3.8.11 | Secure communications library implementing the SSL, TLS and DTLS protocols and technologies around them | https://www.gnutls.org/ |
-| **libgnutls-static** | 3.8.11 | Static libraries for libgnutls | https://www.gnutls.org/ |
+| **libgnutls** | 3.8.13 | Secure communications library implementing the SSL, TLS and DTLS protocols and technologies around them | https://www.gnutls.org/ |
+| **libgnutls-static** | 3.8.13 | Static libraries for libgnutls | https://www.gnutls.org/ |
 | **libgpg-error** | 1.58 | Small library that defines common error values for all GnuPG components | https://www.gnupg.org/related_software/libgpg-error/ |
 | **libgpg-error-static** | 1.58 | Static libraries for libgpg-error | https://www.gnupg.org/related_software/libgpg-error/ |
 | **libgraphite** | 1.3.15 | Font system for multiple languages | https://github.com/silnrsi/graphite |
@@ -1255,8 +1255,8 @@
 | **libmypaint-static** | 1.6.1-2 | Static libraries for libmypaint | https://github.com/mypaint/libmypaint |
 | **libmysofa** | 1.3.4-1 | Reader for AES SOFA files to get better HRTFs | https://github.com/hoene/libmysofa |
 | **libmysofa-static** | 1.3.4-1 | Static libraries for libmysofa | https://github.com/hoene/libmysofa |
-| **libnats-c** | 3.12.0 | A C client for the NATS messaging system | https://nats-io.github.io/nats.c/ |
-| **libnats-c-static** | 3.12.0 | Static libraries for libnats-c | https://nats-io.github.io/nats.c/ |
+| **libnats-c** | 3.13.0 | A C client for the NATS messaging system | https://nats-io.github.io/nats.c/ |
+| **libnats-c-static** | 3.13.0 | Static libraries for libnats-c | https://nats-io.github.io/nats.c/ |
 | **libneon** | 0.37.1 | An HTTP/1.1 and WebDAV client library, with a C interface | https://notroj.github.io/neon/ |
 | **libneon-static** | 0.37.1 | Static libraries for libneon | https://notroj.github.io/neon/ |
 | **libnet** | 1.3-1 | A library which provides API for commonly used low-level net functions | https://github.com/libnet/libnet |
@@ -1378,7 +1378,7 @@
 | **librnnoise-static** | 0.2-1 | Static libraries for librnnoise | https://jmvalin.ca/demo/rnnoise/ |
 | **librocksdb** | 8.11.3-3 | A persistent key-value store for flash and RAM storage | https://rocksdb.org/ |
 | **librocksdb-static** | 8.11.3-3 | Static libraries for librocksdb | https://rocksdb.org/ |
-| **librsvg** | 2.62.2 | Library to render SVG files using cairo | https://wiki.gnome.org/action/show/Projects/LibRsvg |
+| **librsvg** | 2.62.3 | Library to render SVG files using cairo | https://wiki.gnome.org/action/show/Projects/LibRsvg |
 | **librsync** | 2.3.4-1 | Remote delta-compression library | https://github.com/librsync/librsync |
 | **librtmidi** | 5.0.0-3 | A set of C++ classes that provides a common API for realtime MIDI input/output | https://www.music.mcgill.ca/~gary/rtmidi/ |
 | **librttopo** | 1.1.0-5 | The RT Topology Library exposes an API to create and manage standard topologies | https://git.osgeo.org/gitea/rttopo/librttopo |
@@ -1863,7 +1863,7 @@
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20260504 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.12.2 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
-| **neovim-nightly** | 0.13.0~dev-628+gedcaf1887a-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
+| **neovim-nightly** | 0.13.0~dev-631+ga5d4b4e0fc-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
 | **nerdfix** | 0.4.2-1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.5.2 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.5.2 | Static libraries for net-snmp | http://www.net-snmp.org/ |
@@ -2797,7 +2797,7 @@
 | **yasm-static** | 1.3.0-7 | Static libraries for yasm | https://yasm.tortall.net/ |
 | **yazi** | 26.5.6 | Blazing fast terminal file manager written in Rust, based on async I/O | https://yazi-rs.github.io/ |
 | **yoga** | 3.2.1 | Embeddable layout engine targeting web standards | https://www.yogalayout.dev/ |
-| **yosys** | 0.65 | A framework for RTL synthesis tools | https://yosyshq.net/yosys/ |
+| **yosys** | 0.66 | A framework for RTL synthesis tools | https://yosyshq.net/yosys/ |
 | **youtubedr** | 2.10.6 | Download youtube video in Golang | https://github.com/kkdai/youtube |
 | **yq** | 4.53.2 | A lightweight and portable command-line YAML, JSON and XML processor | https://mikefarah.gitbook.io/yq/ |
 | **yt-dlp-ejs** | 0.8.0 | External JavaScript for yt-dlp supporting many runtimes | https://github.com/yt-dlp/ejs |

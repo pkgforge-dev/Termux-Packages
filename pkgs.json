@@ -181,7 +181,7 @@
   },
   {
     "Package": "alsa-lib",
-    "Version": "1.2.15.3",
+    "Version": "1.2.16",
     "Description": "The Advanced Linux Sound Architecture (ALSA) - library",
     "Homepage": "https://www.alsa-project.org"
   },
@@ -3319,13 +3319,13 @@
   },
   {
     "Package": "gap",
-    "Version": "4.15.1",
+    "Version": "4.16.0",
     "Description": "GAP is a system for computational discrete algebra, with particular emphasis on Computational Group Theory",
     "Homepage": "https://www.gap-system.org/"
   },
   {
     "Package": "gap-packages",
-    "Version": "4.15.1",
+    "Version": "4.16.0",
     "Description": "Packages for gap",
     "Homepage": "https://www.gap-system.org/"
   },
@@ -3865,7 +3865,7 @@
   },
   {
     "Package": "gnutls",
-    "Version": "3.8.11",
+    "Version": "3.8.13",
     "Description": "Commandline utilities for interfacing with the gnutls library",
     "Homepage": "https://www.gnutls.org/"
   },
@@ -6553,13 +6553,13 @@
   },
   {
     "Package": "libgnutls",
-    "Version": "3.8.11",
+    "Version": "3.8.13",
     "Description": "Secure communications library implementing the SSL, TLS and DTLS protocols and technologies around them",
     "Homepage": "https://www.gnutls.org/"
   },
   {
     "Package": "libgnutls-static",
-    "Version": "3.8.11",
+    "Version": "3.8.13",
     "Description": "Static libraries for libgnutls",
     "Homepage": "https://www.gnutls.org/"
   },
@@ -7471,13 +7471,13 @@
   },
   {
     "Package": "libnats-c",
-    "Version": "3.12.0",
+    "Version": "3.13.0",
     "Description": "A C client for the NATS messaging system",
     "Homepage": "https://nats-io.github.io/nats.c/"
   },
   {
     "Package": "libnats-c-static",
-    "Version": "3.12.0",
+    "Version": "3.13.0",
     "Description": "Static libraries for libnats-c",
     "Homepage": "https://nats-io.github.io/nats.c/"
   },
@@ -8209,7 +8209,7 @@
   },
   {
     "Package": "librsvg",
-    "Version": "2.62.2",
+    "Version": "2.62.3",
     "Description": "Library to render SVG files using cairo",
     "Homepage": "https://wiki.gnome.org/action/show/Projects/LibRsvg"
   },
@@ -11119,7 +11119,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-628+gedcaf1887a-0",
+    "Version": "0.13.0~dev-631+ga5d4b4e0fc-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -16723,7 +16723,7 @@
   },
   {
     "Package": "yosys",
-    "Version": "0.65",
+    "Version": "0.66",
     "Description": "A framework for RTL synthesis tools",
     "Homepage": "https://yosyshq.net/yosys/"
   },
