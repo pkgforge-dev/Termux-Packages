@@ -3139,19 +3139,19 @@
   },
   {
     "Package": "fontconfig",
-    "Version": "2.18.0",
+    "Version": "2.18.1",
     "Description": "Library for configuring and customizing font access",
     "Homepage": "https://www.freedesktop.org/wiki/Software/fontconfig/"
   },
   {
     "Package": "fontconfig-static",
-    "Version": "2.18.0",
+    "Version": "2.18.1",
     "Description": "Static libraries for fontconfig",
     "Homepage": "https://www.freedesktop.org/wiki/Software/fontconfig/"
   },
   {
     "Package": "fontconfig-utils",
-    "Version": "2.18.0",
+    "Version": "2.18.1",
     "Description": "Fontconfig binaries",
     "Homepage": "https://www.freedesktop.org/wiki/Software/fontconfig/"
   },
@@ -3685,7 +3685,7 @@
   },
   {
     "Package": "gleam",
-    "Version": "1.16.0",
+    "Version": "1.17.0",
     "Description": "A friendly language for building type-safe, scalable systems!",
     "Homepage": "https://gleam.run"
   },
@@ -4279,19 +4279,19 @@
   },
   {
     "Package": "harfbuzz",
-    "Version": "14.2.0",
+    "Version": "14.2.1",
     "Description": "OpenType text shaping engine",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-icu",
-    "Version": "14.2.0",
+    "Version": "14.2.1",
     "Description": "OpenType text shaping engine ICU backend",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-utils",
-    "Version": "14.2.0",
+    "Version": "14.2.1",
     "Description": "Tools using the harfbuzz library",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
@@ -4561,7 +4561,7 @@
   },
   {
     "Package": "hwdata",
-    "Version": "0.407",
+    "Version": "0.408",
     "Description": "Database of hardware identification and configuration data",
     "Homepage": "https://github.com/vcrhonek/hwdata"
   },
@@ -4909,7 +4909,7 @@
   },
   {
     "Package": "jfrog-cli",
-    "Version": "2.105.0",
+    "Version": "2.106.0",
     "Description": "A CLI for JFrog products",
     "Homepage": "https://jfrog.com/getcli"
   },
@@ -12577,7 +12577,7 @@
   },
   {
     "Package": "proot",
-    "Version": "5.1.107.75",
+    "Version": "5.1.107.76",
     "Description": "Emulate chroot, bind mount and binfmt_misc for non-root users",
     "Homepage": "https://proot-me.github.io/"
   },
@@ -14791,7 +14791,7 @@
   },
   {
     "Package": "syncthing",
-    "Version": "2.1.0",
+    "Version": "2.1.1",
     "Description": "Decentralized file synchronization",
     "Homepage": "https://syncthing.net/"
   },
