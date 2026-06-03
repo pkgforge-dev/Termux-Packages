@@ -691,7 +691,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.34.58",
+    "Version": "2.34.59",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -9973,7 +9973,7 @@
   },
   {
     "Package": "luajit",
-    "Version": "1:2.1.1774896198+g18b087c",
+    "Version": "1:2.1.1780076327+gb925b3e",
     "Description": "Just-In-Time Compiler for Lua",
     "Homepage": "https://luajit.org/"
   },
@@ -9985,7 +9985,7 @@
   },
   {
     "Package": "luajit-static",
-    "Version": "1:2.1.1774896198+g18b087c",
+    "Version": "1:2.1.1780076327+gb925b3e",
     "Description": "Static libraries for luajit",
     "Homepage": "https://luajit.org/"
   },
@@ -10027,7 +10027,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.30.5",
+    "Version": "0.30.6",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://lux.lumen-labs.org"
   },
@@ -10405,7 +10405,7 @@
   },
   {
     "Package": "mediamtx",
-    "Version": "1.18.2",
+    "Version": "1.19.0",
     "Description": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy",
     "Homepage": "https://github.com/bluenviron/mediamtx"
   },
@@ -13225,7 +13225,7 @@
   },
   {
     "Package": "radare2",
-    "Version": "6.1.4",
+    "Version": "6.1.6",
     "Description": "UNIX-like reverse engineering framework and command-line toolset",
     "Homepage": "https://www.radare.org/"
   },
@@ -13963,7 +13963,7 @@
   },
   {
     "Package": "senpai",
-    "Version": "1:0.4.1-1",
+    "Version": "1:0.5.0",
     "Description": "An IRC client that works best with bouncers",
     "Homepage": "https://git.sr.ht/~delthas/senpai"
   },
@@ -15343,7 +15343,7 @@
   },
   {
     "Package": "transmission",
-    "Version": "4.1.1",
+    "Version": "4.1.2",
     "Description": "Easy, lean and powerful BitTorrent client",
     "Homepage": "https://transmissionbt.com/"
   },
