@@ -1323,7 +1323,7 @@
   Description: A debugger for the Go programming language
   Homepage: https://github.com/go-delve/delve
 - Package: deno
-  Version: 1:2.8.0
+  Version: 1:2.8.2
   Description: A modern runtime for JavaScript and TypeScript
   Homepage: https://deno.land/
 - Package: desed
@@ -1907,7 +1907,7 @@
   Description: To fastly access files and folders
   Homepage: https://github.com/whjvenyl/fasd
 - Package: fastfetch
-  Version: 2.63.1
+  Version: 2.64.0
   Description: A maintained, feature-rich and performance oriented, neofetch like system information tool
   Homepage: https://github.com/fastfetch-cli/fastfetch
 - Package: fastmod
@@ -2287,7 +2287,7 @@
   Description: Fast disk usage analyzer with console interface written in Go
   Homepage: https://github.com/dundee/gdu
 - Package: geckodriver
-  Version: 0.36.0-1
+  Version: 0.37.0
   Description: Proxy for using W3C WebDriver-compatible clients to interact with Gecko-based browsers
   Homepage: https://github.com/mozilla/geckodriver
 - Package: gecode
@@ -3271,7 +3271,7 @@
   Description: A free media system for organizing and streaming media (server)
   Homepage: https://jellyfin.org
 - Package: jfrog-cli
-  Version: 2.106.0
+  Version: 2.107.0
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -3423,7 +3423,7 @@
   Description: Open-source implementation of the APL-like K programming language
   Homepage: https://github.com/kevinlawler/kona
 - Package: kotlin
-  Version: 2.3.21
+  Version: 2.4.0
   Description: The Kotlin Programming Language
   Homepage: https://kotlinlang.org/
 - Package: krb5
@@ -5491,7 +5491,7 @@
   Description: Static libraries for librttopo
   Homepage: https://git.osgeo.org/gitea/rttopo/librttopo
 - Package: librusty-v8
-  Version: 1:2.8.0
+  Version: 1:2.8.2
   Description: High quality Rust bindings to V8s C++ API
   Homepage: https://deno.land/
 - Package: libsamplerate
@@ -7267,7 +7267,7 @@
   Description: Video game for color and monochrome text terminals in the genre of Namcos Pac-Man
   Homepage: https://sourceforge.net/projects/myman/
 - Package: mympd
-  Version: 25.1.0
+  Version: 25.1.1
   Description: A standalone and lightweight web-based MPD client
   Homepage: https://jcorporation.github.io/myMPD/
 - Package: mypaint-brushes
@@ -7395,7 +7395,7 @@
   Description: Minimal, efficient, statically-typed and meta-programmable systems programming language
   Homepage: https://nelua.io
 - Package: neocmakelsp
-  Version: 0.10.2
+  Version: 0.10.3
   Description: a cmake lsp based on tower-lsp and treesitter
   Homepage: https://neocmakelsp.github.io/
 - Package: neofetch
@@ -8267,7 +8267,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pocketbase
-  Version: 0.39.0
+  Version: 0.39.1
   Description: An open source Go backend
   Homepage: https://github.com/pocketbase/pocketbase
 - Package: poke
