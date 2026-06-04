@@ -1387,7 +1387,7 @@
   },
   {
     "Package": "chezmoi",
-    "Version": "2.70.4",
+    "Version": "2.70.5",
     "Description": "Manage your dotfiles across multiple machines",
     "Homepage": "https://chezmoi.io"
   },
@@ -8533,19 +8533,19 @@
   },
   {
     "Package": "libsqlite",
-    "Version": "3.53.1",
+    "Version": "3.53.2",
     "Description": "Library implementing a self-contained and transactional SQL database engine",
     "Homepage": "https://www.sqlite.org"
   },
   {
     "Package": "libsqlite-static",
-    "Version": "3.53.1",
+    "Version": "3.53.2",
     "Description": "Static libraries for libsqlite",
     "Homepage": "https://www.sqlite.org"
   },
   {
     "Package": "libsqlite-tcl",
-    "Version": "3.53.1",
+    "Version": "3.53.2",
     "Description": "tcl bindings for SQLite",
     "Homepage": "https://www.sqlite.org"
   },
@@ -14377,7 +14377,7 @@
   },
   {
     "Package": "sqlite",
-    "Version": "3.53.1",
+    "Version": "3.53.2",
     "Description": "Command line shell for SQLite",
     "Homepage": "https://www.sqlite.org"
   },
@@ -15679,7 +15679,7 @@
   },
   {
     "Package": "ty",
-    "Version": "0.0.42",
+    "Version": "0.0.43",
     "Description": "An extremely fast Python type checker and language server, written in Rust",
     "Homepage": "https://github.com/astral-sh/ty"
   },
@@ -15919,7 +15919,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.11.18",
+    "Version": "0.11.19",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
@@ -16891,7 +16891,7 @@
   },
   {
     "Package": "zsh",
-    "Version": "5.9-10",
+    "Version": "5.9.1",
     "Description": "Shell with lots of features",
     "Homepage": "https://www.zsh.org"
   },

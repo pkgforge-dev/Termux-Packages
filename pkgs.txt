@@ -229,7 +229,7 @@
  chafa-static  1.18.2  Static libraries for chafa  https://hpjansson.org/chafa/ 
  check  0.15.2-3  A unit testing framework for C  https://libcheck.github.io/check 
  check-static  0.15.2-3  Static libraries for check  https://libcheck.github.io/check 
- chezmoi  2.70.4  Manage your dotfiles across multiple machines  https://chezmoi.io 
+ chezmoi  2.70.5  Manage your dotfiles across multiple machines  https://chezmoi.io 
  chicken  5.4.0-2  A feature rich Scheme compiler and interpreter  https://www.call-cc.org 
  chicken-static  5.4.0-2  Static libraries for chicken  https://www.call-cc.org 
  chntpw  140201  Offline Windows NT Password & Registry Editor  https://pogostick.net/~pnh/ntpasswd/ 
@@ -1420,9 +1420,9 @@
  libspice-protocol  0.14.5  SPICE protocol headers  https://www.spice-space.org/ 
  libspice-server  0.16.0-1  Implements the server side of the SPICE protocol  https://www.spice-space.org/ 
  libspice-server-static  0.16.0-1  Static libraries for libspice-server  https://www.spice-space.org/ 
- libsqlite  3.53.1  Library implementing a self-contained and transactional SQL database engine  https://www.sqlite.org 
- libsqlite-static  3.53.1  Static libraries for libsqlite  https://www.sqlite.org 
- libsqlite-tcl  3.53.1  tcl bindings for SQLite  https://www.sqlite.org 
+ libsqlite  3.53.2  Library implementing a self-contained and transactional SQL database engine  https://www.sqlite.org 
+ libsqlite-static  3.53.2  Static libraries for libsqlite  https://www.sqlite.org 
+ libsqlite-tcl  3.53.2  tcl bindings for SQLite  https://www.sqlite.org 
  libsrt  1.5.5  Secure Reliable Transport (SRT) Protocol  https://github.com/Haivision/srt 
  libssh  0.12.0-1  Tiny C SSH library  https://www.libssh.org/ 
  libssh2  1.11.1-1  Client-side library implementing the SSH2 protocol  https://www.libssh2.org 
@@ -2394,7 +2394,7 @@
  spirv-llvm-translator  21.1.7  SPIR-V LLVM Translator  https://github.com/KhronosGroup/SPIRV-LLVM-Translator 
  spirv-tools  1.4.350.0  SPIR-V Tools  https://github.com/KhronosGroup/SPIRV-Tools 
  sqlcipher  4.16.0  SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files  https://github.com/sqlcipher/sqlcipher 
- sqlite  3.53.1  Command line shell for SQLite  https://www.sqlite.org 
+ sqlite  3.53.2  Command line shell for SQLite  https://www.sqlite.org 
  squashfs-tools-ng  1.3.2-1  New set of tools for working with SquashFS images  https://github.com/AgentD/squashfs-tools-ng 
  squashfs-tools-ng-static  1.3.2-1  Static libraries for squashfs-tools-ng  https://github.com/AgentD/squashfs-tools-ng 
  squeezelite  2.0.0.1517-2  A small headless Logitech Squeezebox emulator  https://ralph-irving.github.io/squeezelite.html 
@@ -2611,7 +2611,7 @@
  tweego  2.1.1-4  A free command line compiler for Twine/Twee story formats  https://bitbucket.org/tmedwards/tweego 
  twolame  0.4.0-1  The frontend for libtwolame  https://www.twolame.org/ 
  txikijs  1:26.5.0  A small and powerful JavaScript runtime  https://github.com/saghul/txiki.js 
- ty  0.0.42  An extremely fast Python type checker and language server, written in Rust  https://github.com/astral-sh/ty 
+ ty  0.0.43  An extremely fast Python type checker and language server, written in Rust  https://github.com/astral-sh/ty 
  typst  0.14.2  A new markup-based typesetting system that is powerful and easy to learn  https://typst.app/ 
  typstfmt  0.2.10-1  basic formatter for the Typst language  https://github.com/astrale-sharp/typstfmt 
  uchardet  0.0.8-2  An encoding detector utility  https://www.freedesktop.org/wiki/Software/uchardet/ 
@@ -2651,7 +2651,7 @@
  util-linux-static  2.42.1  Static libraries for util-linux  https://en.wikipedia.org/wiki/Util-linux 
  uucp  1.07-2  The standard UUCP package of the Free Software Foundation  https://www.airs.com/ian/uucp.html 
  uuid-utils  2.42.1  Utilities for handling universally unique identifiers  https://en.wikipedia.org/wiki/Util-linux 
- uv  0.11.18  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
+ uv  0.11.19  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
  uwsgi  2.0.31-1  uWSGI application server container  https://projects.unbit.it/uwsgi 
  v2ray  5.49.0  A platform for building proxies to bypass network restrictions  https://www.v2fly.org/ 
  valac  0.56.19  C# like language for the GObject system  https://wiki.gnome.org/Projects/Vala 
@@ -2813,7 +2813,7 @@
  zoxide  0.9.9  A faster way to navigate your filesystem  https://github.com/ajeetdsouza/zoxide 
  zpaq  7.15-1  Programmable file compressor, library and utilities. Based on the PAQ compression algorithm  http://mattmahoney.net/dc/zpaq.html 
  zrok  1.1.11  An open source sharing solution built on OpenZiti.  https://zrok.io/ 
- zsh  5.9-10  Shell with lots of features  https://www.zsh.org 
+ zsh  5.9.1  Shell with lots of features  https://www.zsh.org 
  zsh-completions  0.36.0  Additional completion definitions for Zsh  https://github.com/zsh-users/zsh-completions 
  zssh  1.5c-2  A program for interactively transferring files to a remote machine while using the secure shell (ssh)  https://zssh.sourceforge.net/ 
  zstd  1.5.7-1  Zstandard compression  https://github.com/facebook/zstd 
