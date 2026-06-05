@@ -18,7 +18,7 @@
 | **ada** | 3.4.4 | WHATWG-compliant and fast URL parser written in modern C++ | https://github.com/ada-url/ada |
 | **adms** | 2.3.7-1 | A code generator for the Verilog-AMS language | https://github.com/qucs/adms |
 | **aerc** | 0.21.0 | A pretty good email client | https://aerc-mail.org/ |
-| **agate** | 3.3.22 | Very simple server for the Gemini hypertext protocol | https://github.com/mbrubeck/agate |
+| **agate** | 3.3.23 | Very simple server for the Gemini hypertext protocol | https://github.com/mbrubeck/agate |
 | **age** | 1:1.3.1 | A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability | https://github.com/FiloSottile/age |
 | **agg** | 1.9.0 | asciinema gif generator | https://github.com/asciinema/agg |
 | **aha** | 0.5.1-2 | Converts ANSI escape sequences of a unix terminal to HTML code | https://github.com/theZiz/aha |
@@ -113,7 +113,7 @@
 | **aview** | 1.3.0rc1-6 | High quality ascii-art image browser and animation player | https://aa-project.sourceforge.net/aview/ |
 | **avra** | 1.4.2-1 | Assember for the Atmel AVR microcontroller family | https://github.com/Ro5bert/avra |
 | **await** | 2.6.0 | Runs list of commands in parallel and waits for their termination | https://github.com/slavaGanzin/await |
-| **awscli** | 2.34.61 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
+| **awscli** | 2.34.62 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
 | **axel** | 2.17.14-1 | light command line download accelerator | https://github.com/axel-download-accelerator/axel |
 | **b3sum** | 1.8.5 | A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum | https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum |
 | **babl** | 0.1.126 | Dynamic pixel format translation library | https://gegl.org/babl/ |
@@ -518,7 +518,7 @@
 | **flex-static** | 2.6.4-4 | Static libraries for flex | https://github.com/westes/flex |
 | **flint** | 3.5.0 | C library for doing number theory | http://www.flintlib.org |
 | **fluidsynth** | 2.5.4 | Software synthesizer based on the SoundFont 2 specifications | https://github.com/FluidSynth/fluidsynth |
-| **flyctl** | 0.4.57 | Command line tools for fly.io services | https://fly.io |
+| **flyctl** | 0.4.58 | Command line tools for fly.io services | https://fly.io |
 | **fm** | 1.2.0 | A terminal based file manager | https://github.com/knipferrc/fm |
 | **fmt** | 1:11.2.0 | Open-source formatting library for C++ | https://fmt.dev/latest/index.html |
 | **fontconfig** | 2.18.1 | Library for configuring and customizing font access | https://www.freedesktop.org/wiki/Software/fontconfig/ |
@@ -535,7 +535,7 @@
 | **freetype** | 2.14.3 | Software font engine capable of producing high-quality output | https://www.freetype.org |
 | **freetype-static** | 2.14.3 | Static libraries for freetype | https://www.freetype.org |
 | **frei0r-plugins** | 3.1.3 | Minimalistic plugin API for video effects | https://www.dyne.org/software/frei0r/ |
-| **fresh-editor** | 0.3.10 | Text editor for your terminal: easy, powerful and fast | https://getfresh.dev/ |
+| **fresh-editor** | 0.3.12 | Text editor for your terminal: easy, powerful and fast | https://getfresh.dev/ |
 | **fribidi** | 1.0.16-1 | Implementation of the Unicode Bidirectional Algorithm | https://github.com/fribidi/fribidi/ |
 | **fribidi-static** | 1.0.16-1 | Static libraries for fribidi | https://github.com/fribidi/fribidi/ |
 | **frobtads** | 2.0-5 | TADS is a free authoring system for writing your own Interactive Fiction | http://www.tads.org/frobtads.htm |
@@ -2041,7 +2041,7 @@
 | **php-psr** | 1.2.0-4 | PHP extension providing the accepted PSR interfaces | https://github.com/jbboehr/php-psr |
 | **php-redis** | 6.3.0RC1 | PHP extension for interfacing with Redis | https://github.com/phpredis/phpredis |
 | **php-sodium** | 8.5.1 | Sodium module for PHP | https://php.net |
-| **php-zephir-parser** | 2.0.3 | The Zephir Parser delivered as a C extension for the PHP language | https://github.com/phalcon/php-zephir-parser |
+| **php-zephir-parser** | 2.0.4 | The Zephir Parser delivered as a C extension for the PHP language | https://github.com/phalcon/php-zephir-parser |
 | **phpmyadmin** | 5.2.3-1 | A PHP tool for administering MySQL and MariaDB databases | https://www.phpmyadmin.net |
 | **pianobar** | 2024.12.21-2 | pianobar is a free/open-source, console-based client for the personalized online radio Pandora. | https://6xq.net/pianobar/ |
 | **pick** | 4.0.0-3 | Utility to choose one option from a set of choices with fuzzy search functionality | https://github.com/calleerlandsson/pick |
@@ -2123,7 +2123,7 @@
 | **pyrefly** | 1.0.0 | A fast type checker and language server for Python | https://github.com/facebook/pyrefly.git |
 | **pystring** | 1.1.4-1 | C++ functions matching the interface and behavior of python string methods with std::string | https://github.com/imageworks/pystring |
 | **python** | 3.13.13-1 | Python 3 programming language intended to enable clear programs | https://python.org/ |
-| **python-apsw** | 3.53.1.0 | Another Python SQLite Wrapper | https://rogerbinns.github.io/apsw/ |
+| **python-apsw** | 3.53.2.0 | Another Python SQLite Wrapper | https://rogerbinns.github.io/apsw/ |
 | **python-apt** | 3.1.0-1 | Python bindings for APT | https://apt-team.pages.debian.net/python-apt/ |
 | **python-bcrypt** | 5.0.0-2 | Acceptable password hashing for your software and your servers | https://github.com/pyca/bcrypt |
 | **python-brotli** | 1.2.0-1 | lossless compression algorithm and format (Python bindings) | https://github.com/google/brotli |
@@ -2692,7 +2692,7 @@
 | **vtm** | 2026.05.30 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
 | **vttest** | 20251205 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vulkan-extension-layer** | 1.4.350 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
-| **vulkan-headers** | 1.4.352 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
+| **vulkan-headers** | 1.4.353 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
 | **vulkan-icd** | 0.1 | A metapackage that provides Vulkan ICDs | https://github.com/termux/termux-packages |
 | **vulkan-loader** | 0.0.3 | A metapackage that provides vulkan loader library | https://github.com/termux/termux-packages |
 | **vulkan-loader-android** | 29 | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |

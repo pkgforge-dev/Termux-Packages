@@ -79,7 +79,7 @@
   Description: A pretty good email client
   Homepage: https://aerc-mail.org/
 - Package: agate
-  Version: 3.3.22
+  Version: 3.3.23
   Description: Very simple server for the Gemini hypertext protocol
   Homepage: https://github.com/mbrubeck/agate
 - Package: age
@@ -459,7 +459,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.34.61
+  Version: 2.34.62
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -2079,7 +2079,7 @@
   Description: Software synthesizer based on the SoundFont 2 specifications
   Homepage: https://github.com/FluidSynth/fluidsynth
 - Package: flyctl
-  Version: 0.4.57
+  Version: 0.4.58
   Description: Command line tools for fly.io services
   Homepage: https://fly.io
 - Package: fm
@@ -2147,7 +2147,7 @@
   Description: Minimalistic plugin API for video effects
   Homepage: https://www.dyne.org/software/frei0r/
 - Package: fresh-editor
-  Version: 0.3.10
+  Version: 0.3.12
   Description: 'Text editor for your terminal: easy, powerful and fast'
   Homepage: https://getfresh.dev/
 - Package: fribidi
@@ -8171,7 +8171,7 @@
   Description: Sodium module for PHP
   Homepage: https://php.net
 - Package: php-zephir-parser
-  Version: 2.0.3
+  Version: 2.0.4
   Description: The Zephir Parser delivered as a C extension for the PHP language
   Homepage: https://github.com/phalcon/php-zephir-parser
 - Package: phpmyadmin
@@ -8499,7 +8499,7 @@
   Description: Python 3 programming language intended to enable clear programs
   Homepage: https://python.org/
 - Package: python-apsw
-  Version: 3.53.1.0
+  Version: 3.53.2.0
   Description: Another Python SQLite Wrapper
   Homepage: https://rogerbinns.github.io/apsw/
 - Package: python-apt
@@ -10775,7 +10775,7 @@
   Description: Vulkan Extension Layer
   Homepage: https://github.com/KhronosGroup/Vulkan-ExtensionLayer
 - Package: vulkan-headers
-  Version: 1.4.352
+  Version: 1.4.353
   Description: Vulkan Header files and API registry
   Homepage: https://github.com/KhronosGroup/Vulkan-Headers
 - Package: vulkan-icd
