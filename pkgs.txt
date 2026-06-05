@@ -447,10 +447,10 @@
  elvish  0.21.0-1  A friendly and expressive Unix shell  https://github.com/elves/elvish 
  emacs  30.2-1  Extensible, customizable text editor-and more  https://www.gnu.org/software/emacs/ 
  emmylua-ls  0.23.2  Emmy Lua Language Server coded in Rust  https://github.com/EmmyLuaLs/emmylua-analyzer-rust 
- emscripten  5.0.7  Emscripten: An LLVM-to-WebAssembly Compiler  https://emscripten.org 
- emscripten-binaryen  5.0.7  Emscripten-compatible Binaryen  https://emscripten.org 
- emscripten-llvm  5.0.7  Emscripten-compatible LLVM  https://emscripten.org 
- emscripten-tests-third-party  5.0.7  Emscripten third party test suite files  https://emscripten.org 
+ emscripten  6.0.0  Emscripten: An LLVM-to-WebAssembly Compiler  https://emscripten.org 
+ emscripten-binaryen  6.0.0  Emscripten-compatible Binaryen  https://emscripten.org 
+ emscripten-llvm  6.0.0  Emscripten-compatible LLVM  https://emscripten.org 
+ emscripten-tests-third-party  6.0.0  Emscripten third party test suite files  https://emscripten.org 
  enblend  4.2.0p20161007-8  A tool for compositing images using a Burt&Adelson multiresolution spline  https://enblend.sourceforge.net/ 
  enchant  2.8.16  Wraps a number of different spelling libraries and programs with a consistent interface  https://rrthomas.github.io/enchant/ 
  enchant-static  2.8.16  Static libraries for enchant  https://rrthomas.github.io/enchant/ 
@@ -710,7 +710,7 @@
  gumbo-parser-static  0.10.1-1  Static libraries for gumbo-parser  https://github.com/google/gumbo-parser 
  gweather-locations  2026.2  The GWeather locations database  https://gitlab.gnome.org/GNOME/gweather-locations 
  gzip  1.14-1  Standard GNU file compression utilities  https://www.gnu.org/software/gzip/ 
- haproxy  3.3.10  The Reliable, High Performance TCP/HTTP Load Balancer  https://www.haproxy.org/ 
+ haproxy  3.4.0  The Reliable, High Performance TCP/HTTP Load Balancer  https://www.haproxy.org/ 
  harfbuzz  14.2.1  OpenType text shaping engine  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
  harfbuzz-icu  14.2.1  OpenType text shaping engine ICU backend  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
  harfbuzz-utils  14.2.1  Tools using the harfbuzz library  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
@@ -774,8 +774,8 @@
  id3lib  3.8.3-4  A software library for manipulating ID3v1/v1.1 and ID3v2 tags  https://id3lib.sourceforge.net/ 
  id3lib-static  3.8.3-4  Static libraries for id3lib  https://id3lib.sourceforge.net/ 
  id3v2  0.1.12-2  A command line id3v2 tag editor  https://id3v2.sourceforge.net/ 
- imagemagick  7.1.2.24  Suite to create, edit, compose, or convert images in a variety of formats  https://www.imagemagick.org/ 
- imagemagick-static  7.1.2.24  Static libraries for imagemagick  https://www.imagemagick.org/ 
+ imagemagick  7.1.2.25  Suite to create, edit, compose, or convert images in a variety of formats  https://www.imagemagick.org/ 
+ imagemagick-static  7.1.2.25  Static libraries for imagemagick  https://www.imagemagick.org/ 
  imath  3.2.2  Library for vector/matrix and math operations, plus the half type  https://imath.readthedocs.io/ 
  imlib2  1.12.6  Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support  https://sourceforge.net/projects/enlightenment/ 
  imlib2-static  1.12.6  Static libraries for imlib2  https://sourceforge.net/projects/enlightenment/ 
@@ -1851,7 +1851,7 @@
  neofetch  7.1.0-1  Simple system information script  https://github.com/dylanaraps/neofetch 
  neomutt  20260504  A version of mutt with added features  https://neomutt.org/ 
  neovim  0.12.2  Ambitious Vim-fork focused on extensibility and agility (nvim)  https://neovim.io/ 
- neovim-nightly  0.13.0~dev-652+g10d0931d44-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
+ neovim-nightly  0.13.0~dev-658+ge887cfb3b5-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
  nerdfix  0.4.2-1  nerdfix helps you to find/fix obsolete Nerd Font icons in your project.  https://github.com/loichyan/nerdfix 
  net-snmp  5.9.5.2  Various tools relating to the Simple Network Management Protocol  http://www.net-snmp.org/ 
  net-snmp-static  5.9.5.2  Static libraries for net-snmp  http://www.net-snmp.org/ 
@@ -2206,7 +2206,7 @@
  rage  0.11.2  A simple, secure and modern encryption tool  https://age-encryption.org/v1 
  ragel  7.0.4-1  Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code  https://www.colm.net/open-source/ragel/ 
  ragel-static  7.0.4-1  Static libraries for ragel  https://www.colm.net/open-source/ragel/ 
- railway-cli  5.0.0  This is the command line interface for Railway  https://railway.app 
+ railway-cli  5.1.0  This is the command line interface for Railway  https://railway.app 
  range-v3  0.12.0  Range library for C++14/17/20, basis for C++20's std::ranges  https://github.com/ericniebler/range-v3 
  ranger  1.9.4-1  File manager with VI key bindings  https://ranger.github.io/ 
  rapidjson  1.1.0-7  Fast JSON parser/generator for C++ with SAX/DOM style API  https://github.com/Tencent/rapidjson/ 
@@ -2611,7 +2611,7 @@
  tweego  2.1.1-4  A free command line compiler for Twine/Twee story formats  https://bitbucket.org/tmedwards/tweego 
  twolame  0.4.0-1  The frontend for libtwolame  https://www.twolame.org/ 
  txikijs  1:26.5.0  A small and powerful JavaScript runtime  https://github.com/saghul/txiki.js 
- ty  0.0.43  An extremely fast Python type checker and language server, written in Rust  https://github.com/astral-sh/ty 
+ ty  0.0.44  An extremely fast Python type checker and language server, written in Rust  https://github.com/astral-sh/ty 
  typst  0.14.2  A new markup-based typesetting system that is powerful and easy to learn  https://typst.app/ 
  typstfmt  0.2.10-1  basic formatter for the Typst language  https://github.com/astrale-sharp/typstfmt 
  uchardet  0.0.8-2  An encoding detector utility  https://www.freedesktop.org/wiki/Software/uchardet/ 
@@ -2696,9 +2696,9 @@
  vulkan-icd  0.1  A metapackage that provides Vulkan ICDs  https://github.com/termux/termux-packages 
  vulkan-loader  0.0.3  A metapackage that provides vulkan loader library  https://github.com/termux/termux-packages 
  vulkan-loader-android  29  Vulkan Loader for Android  https://source.android.com/devices/graphics/arch-vulkan 
- vulkan-loader-generic  1.4.352  Vulkan Loader  https://github.com/KhronosGroup/Vulkan-Loader 
+ vulkan-loader-generic  1.4.353  Vulkan Loader  https://github.com/KhronosGroup/Vulkan-Loader 
  vulkan-tools  1.4.352  Vulkan Tools and Utilities  https://github.com/KhronosGroup/Vulkan-Tools 
- vulkan-utility-libraries  1.4.352  Utility Libraries for Vulkan  https://github.com/KhronosGroup/Vulkan-Utility-Libraries 
+ vulkan-utility-libraries  1.4.353  Utility Libraries for Vulkan  https://github.com/KhronosGroup/Vulkan-Utility-Libraries 
  vulkan-validation-layers  1.4.351  Vulkan Validation Layers  https://github.com/KhronosGroup/Vulkan-ValidationLayers 
  vulkan-volk  1.4.350  Meta loader for Vulkan API  https://github.com/zeux/volk 
  w3m  0.5.6-1  Text based Web browser and pager  https://git.sr.ht/~rkta/w3m 
