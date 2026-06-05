@@ -874,7 +874,7 @@
  leptonica  1.87.0  Library for image processing and image analysis  http://www.leptonica.com/ 
  leptonica-static  1.87.0  Static libraries for leptonica  http://www.leptonica.com/ 
  less  702  Terminal pager program used to view the contents of a text file one screen at a time  https://www.greenwoodsoftware.com/less/ 
- lesspipe  2.25  An input filter for the pager less  https://lesspipe.org/ 
+ lesspipe  2.26  An input filter for the pager less  https://lesspipe.org/ 
  leveldb  1.23-4  Fast key-value storage library  https://github.com/google/leveldb 
  lexbor  3.0.0  Fast embeddable web browser engine written in C with no dependencies  https://lexbor.com 
  lexter  1.0.3-5  A real-time word puzzle for text terminals  https://www.kyne.au/~mark/software/lexter.php 
@@ -1669,7 +1669,7 @@
  luvi  1:2.15.0-2  A project in-between luv and luvit  https://luvit.io 
  luvit  2.18.1-1  Asynchronous I/O for Lua  https://luvit.io 
  lux  0.24.1-2  CLI tool to download videos from various websites  https://github.com/iawia002/lux 
- lux-cli  0.30.6  A package manager for Lua, similar to luarocks  https://lux.lumen-labs.org 
+ lux-cli  0.31.0  A package manager for Lua, similar to luarocks  https://lux.lumen-labs.org 
  lv2  1.18.10-7  A plugin standard for audio systems  https://lv2plug.in/ 
  lychee  0.24.2  A fast, async, resource-friendly link checker written in Rust  https://github.com/lycheeverse/lychee 
  lynx  2.9.2-1  The text web browser  http://lynx.browser.org/ 
@@ -1875,7 +1875,7 @@
  ninja  1.13.2  A small build system with a focus on speed  https://ninja-build.org 
  ninvaders  0.1.2-3  Space Invaders clone based on ncurses for ASCII output  https://ninvaders.sourceforge.net 
  nlohmann-json  3.12.0  JSON for Modern C++  https://github.com/nlohmann/json 
- nlopt  2.10.1  Library for nonlinear optimization  https://nlopt.readthedocs.io/ 
+ nlopt  2.11.0  Library for nonlinear optimization  https://nlopt.readthedocs.io/ 
  nmap  7.99  Utility for network discovery and security auditing  https://nmap.org/ 
  nmh  1.8-2  Powerful electronic mail handling system  http://www.nongnu.org/nmh/ 
  nmon  16s  Curses based Performance Monitor for Linux with saving performance stats to a CSV file mode  https://nmon.sourceforge.net/ 
@@ -2206,7 +2206,7 @@
  rage  0.11.2  A simple, secure and modern encryption tool  https://age-encryption.org/v1 
  ragel  7.0.4-1  Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code  https://www.colm.net/open-source/ragel/ 
  ragel-static  7.0.4-1  Static libraries for ragel  https://www.colm.net/open-source/ragel/ 
- railway-cli  5.2.0  This is the command line interface for Railway  https://railway.app 
+ railway-cli  5.3.1  This is the command line interface for Railway  https://railway.app 
  range-v3  0.12.0  Range library for C++14/17/20, basis for C++20's std::ranges  https://github.com/ericniebler/range-v3 
  ranger  1.9.4-1  File manager with VI key bindings  https://ranger.github.io/ 
  rapidjson  1.1.0-7  Fast JSON parser/generator for C++ with SAX/DOM style API  https://github.com/Tencent/rapidjson/ 
@@ -2216,7 +2216,7 @@
  ravencoin-static  4.6.1-9  Static libraries for ravencoin  https://ravencoin.org/ 
  rbw  1.15.0  An unofficial command line client for Bitwarden  https://github.com/doy/rbw 
  rc  1.7.4-2  An alternative implementation of the plan 9 rc shell  https://github.com/rakitzis/rc 
- rclone  1.74.2  rsync for cloud storage  https://rclone.org/ 
+ rclone  1.74.3  rsync for cloud storage  https://rclone.org/ 
  rcm  1.3.6  Dotfiles management  https://github.com/thoughtbot/rcm 
  rcs  5.10.1-1  The GNU Revision Control System  https://www.gnu.org/s/rcs 
  rdfind  1.8.0  A tool for finding duplicate files  https://github.com/pauldreik/rdfind 
@@ -2306,7 +2306,7 @@
  sassc  3.6.2-1  libsass command line driver  https://github.com/sass/sassc 
  sbcl  2.6.5  A high performance Common Lisp compiler  http://www.sbcl.org/ 
  sc-im  0.8.5-4  An improved version of sc, a spreadsheet calculator  https://github.com/andmarti1424/sc-im 
- scala  3.8.3  Scala 3 compiler and standard library.  https://www.scala-lang.org 
+ scala  3.8.4  Scala 3 compiler and standard library.  https://www.scala-lang.org 
  scc  3.7.0  Counts physical the lines of code, blank lines, comment lines, and physical lines of source code  https://github.com/boyter/scc 
  sccache  0.15.0  sccache is ccache with cloud storage  https://github.com/mozilla/sccache 
  scdaemon  2.5.17  Daemon invoked by gpg to manage smartcards  https://www.gnupg.org/ 
@@ -2426,7 +2426,7 @@
  stoken  0.93-3  Software Token for Linux/UNIX  https://github.com/cernekee/stoken 
  stoken-static  0.93-3  Static libraries for stoken  https://github.com/cernekee/stoken 
  stone  2.4-3  A TCP/IP repeater in the application layer  https://www.gcd.org/sengoku/stone/ 
- storj-uplink  1.155.4  Storj DCS Uplink CLI  https://www.storj.io/integrations/uplink-cli 
+ storj-uplink  1.155.5  Storj DCS Uplink CLI  https://www.storj.io/integrations/uplink-cli 
  stow  2.4.1  Tool for managing the installation of multiple software packages into a single directory  https://www.gnu.org/software/stow/ 
  strace  7.0  Debugging utility to monitor system calls and signals received  https://strace.io/ 
  streamripper  1.64.6-3  Records and splits streaming mp3 into tracks  https://streamripper.sourceforge.net/ 
@@ -2485,7 +2485,7 @@
  teckit-static  2.5.13  Static libraries for teckit  https://scripts.sil.org/teckitdownloads 
  tectonic  0.16.9  A modernized, complete, self-contained TeX/LaTeX engine  https://tectonic-typesetting.github.io/ 
  telegram-bot-api  20241031-2  Telegram Bot API server  https://github.com/tdlib/telegram-bot-api 
- teleport-tsh  18.8.2  Secure Access for Developers that doesn't get in the way  https://github.com/gravitational/teleport 
+ teleport-tsh  18.8.3  Secure Access for Developers that doesn't get in the way  https://github.com/gravitational/teleport 
  tere  1.6.0-1  Terminal file explorer written in rust  https://github.com/mgunyho/tere 
  tergent  1.0.0-5  A cryptoki/PKCS#11 library for Termux that uses Android Keystore as its backend  https://github.com/aeolwyr/tergent 
  termimage  1.2.1-1  Terminal image viewer  https://github.com/nabijaczleweli/termimage 
@@ -2677,7 +2677,7 @@
  viddy  1.3.0-2  A modern watch command  https://github.com/sachaos/viddy 
  vifm  0.14.4  File manager with vi like keybindings  https://vifm.info/ 
  vile  9.8z-1  VI Like Emacs - vi work-alike  https://invisible-island.net/vile/ 
- vim  9.2.0550  Vi IMproved - enhanced vi editor  https://www.vim.org 
+ vim  9.2.0600  Vi IMproved - enhanced vi editor  https://www.vim.org 
  virglrenderer  1.3.0  A virtual 3D GPU for use inside qemu virtual machines  https://virgil3d.github.io/ 
  virglrenderer-android  1.3.0  A virtual 3D GPU for use inside qemu virtual machines over OpenGLES libraries on Android  https://virgil3d.github.io/ 
  virustotal-cli  1.3.1  Command line interface for VirusTotal  https://github.com/VirusTotal/vt-cli 
@@ -2711,7 +2711,7 @@
  wasm-component-ld  0.5.22  Command line linker for creating WebAssembly components  https://github.com/bytecodealliance/wasm-component-ld 
  wasmedge  0.17.0  A lightweight, high-performance, and extensible WebAssembly runtime  https://wasmedge.org/ 
  wasmer  7.0.1  A fast and secure WebAssembly runtime  https://wasmer.io/ 
- wasmtime  45.0.0  A standalone runtime for WebAssembly  https://wasmtime.dev/ 
+ wasmtime  45.0.1  A standalone runtime for WebAssembly  https://wasmtime.dev/ 
  watchexec  2.5.1  Executes commands in response to file modifications  https://github.com/watchexec/watchexec 
  wavpack  5.9.0  WavPack command-line programs  https://www.wavpack.com/ 
  waypipe  0.11.0  A proxy for Wayland clients  https://gitlab.freedesktop.org/mstoeckl/waypipe 
@@ -2771,7 +2771,7 @@
  xtrans  1.6.0  X transport library  https://xorg.freedesktop.org/ 
  xvidcore  1.3.7-1  High performance and high quality MPEG-4 library  https://www.xvid.com/ 
  xvidcore-static  1.3.7-1  Static libraries for xvidcore  https://www.xvid.com/ 
- xxd  9.2.0550  Hexdump utility from vim  https://www.vim.org 
+ xxd  9.2.0600  Hexdump utility from vim  https://www.vim.org 
  xxhash  0.8.3-1  Extremely fast non-cryptographic hash algorithm  https://cyan4973.github.io/xxHash/ 
  xxhash-static  0.8.3-1  Static libraries for xxhash  https://cyan4973.github.io/xxHash/ 
  xz-utils  5.8.3  XZ-format compression tools  https://tukaani.org/xz/ 
