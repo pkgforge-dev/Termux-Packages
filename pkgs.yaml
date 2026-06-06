@@ -5447,7 +5447,7 @@
   Description: Static libraries for librevenge
   Homepage: https://sf.net/p/libwpd/librevenge/
 - Package: librime
-  Version: 1.16.1
+  Version: 1.17.0
   Description: A modular, extensible input method engine in cross-platform C++ code
   Homepage: https://rime.im/
 - Package: librinutils
@@ -7411,7 +7411,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-658+ge887cfb3b5-0
+  Version: 0.13.0~dev-660+g9bdbc176eb-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix

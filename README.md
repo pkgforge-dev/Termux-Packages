@@ -1372,7 +1372,7 @@
 | **libretls-static** | 3.8.1-1 | Static libraries for libretls | https://git.causal.agency/libretls/about/ |
 | **librevenge** | 0.0.5-3 | library for REVerses ENGineered formats filters | https://sf.net/p/libwpd/librevenge/ |
 | **librevenge-static** | 0.0.5-3 | Static libraries for librevenge | https://sf.net/p/libwpd/librevenge/ |
-| **librime** | 1.16.1 | A modular, extensible input method engine in cross-platform C++ code | https://rime.im/ |
+| **librime** | 1.17.0 | A modular, extensible input method engine in cross-platform C++ code | https://rime.im/ |
 | **librinutils** | 0.10.3 | A C11 / gnu11 utilities C library | https://github.com/shlomif/rinutils |
 | **librnnoise** | 0.2-1 | RNN-based noise suppression | https://jmvalin.ca/demo/rnnoise/ |
 | **librnnoise-static** | 0.2-1 | Static libraries for librnnoise | https://jmvalin.ca/demo/rnnoise/ |
@@ -1863,7 +1863,7 @@
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20260504 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.12.2 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
-| **neovim-nightly** | 0.13.0~dev-658+ge887cfb3b5-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
+| **neovim-nightly** | 0.13.0~dev-660+g9bdbc176eb-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
 | **nerdfix** | 0.4.2-1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.5.2 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.5.2 | Static libraries for net-snmp | http://www.net-snmp.org/ |
