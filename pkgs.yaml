@@ -2451,7 +2451,7 @@
   Description: Simple, Portable, Free File Transfer Software for UNIX
   Homepage: http://www.columbia.edu/kermit/gkermit.html
 - Package: glab-cli
-  Version: 1.101.0
+  Version: 1.102.0
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
@@ -3223,7 +3223,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.24.1970
+  Version: 0.24.2021
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -6683,7 +6683,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.31.0
+  Version: 0.31.1
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://lux.lumen-labs.org
 - Package: lv2
@@ -8831,7 +8831,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 5.3.1
+  Version: 5.4.2
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
@@ -8971,7 +8971,7 @@
   Description: Restics REST backend API server
   Homepage: https://restic.net/
 - Package: restish
-  Version: 2.1.2
+  Version: 2.2.0
   Description: A CLI for interacting with REST-ish HTTP APIs
   Homepage: https://github.com/rest-sh/restish
 - Package: rgbds
@@ -10795,7 +10795,7 @@
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
-  Version: 1.4.352
+  Version: 1.4.353
   Description: Vulkan Tools and Utilities
   Homepage: https://github.com/KhronosGroup/Vulkan-Tools
 - Package: vulkan-utility-libraries
