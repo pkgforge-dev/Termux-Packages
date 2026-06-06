@@ -853,7 +853,7 @@
 | **just** | 1.51.0 | A handy way to save and run project-specific commands | https://just.systems |
 | **jython** | 2.7.4-1 | Python for the Java Platform | https://www.jython.org/ |
 | **k2pdfopt** | 2.55-4 | A tool that optimizes PDF files for viewing on mobile readers | https://www.willus.com/k2pdfopt/ |
-| **k9s** | 0.50.18 | Kubernetes CLI To Manage Your Clusters In Style! | https://k9scli.io |
+| **k9s** | 0.51.0 | Kubernetes CLI To Manage Your Clusters In Style! | https://k9scli.io |
 | **kainjow-mustache** | 4.1 | Mustache implementation for modern C++ | https://github.com/kainjow/Mustache |
 | **kakoune** | 2026.05.21 | Code editor heavily inspired by Vim | https://kakoune.org/ |
 | **kakoune-lsp** | 21.0.0 | Language Server Protocol Client for the Kakoune editor | https://github.com/kakoune-lsp/kakoune-lsp |
@@ -1787,7 +1787,7 @@
 | **mono-static** | 6.14.1-2 | Static libraries for mono | https://gitlab.winehq.org/mono/mono |
 | **monolith** | 2.10.1-1 | CLI tool for saving complete web pages as a single HTML file | https://github.com/Y2Z/monolith |
 | **moon-buggy** | 1.1.0 | Simple game where you drive a car across the moon's surface | https://www.seehuhn.de/programs/moon-buggy |
-| **moor** | 2.13.4 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moor |
+| **moor** | 2.14.0 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moor |
 | **mop** | 2025.03.17-1 | Stock market tracker | https://github.com/mop-tracker/mop |
 | **moreutils** | 0.70-1 | A growing collection of the unix tools that nobody thought to write thirty years ago | https://joeyh.name/code/moreutils/ |
 | **moria** | 5.7.15-7 | Rogue-like game with an infinite dungeon | https://umoria.org |
@@ -1924,8 +1924,8 @@
 | **okc-agents** | 0.1.2-2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.7 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-10 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
-| **ollama** | 0.24.0 | Get up and running with large language models | https://ollama.com/ |
-| **ollama-backend-vulkan** | 0.24.0 | Vulkan Backend for Ollama | https://ollama.com/ |
+| **ollama** | 0.30.6 | Get up and running with large language models | https://ollama.com/ |
+| **ollama-backend-vulkan** | 0.30.6 | Vulkan Backend for Ollama | https://ollama.com/ |
 | **oma** | 1.26.4 | oma is an attempt at reworking APT's interface | https://aosc.io/oma |
 | **onefetch** | 2.27.1 | A command-line Git information tool written in Rust | https://onefetch.dev/ |
 | **onigmo** | 6.2.0-1 | A regular expressions library forked from Oniguruma | https://github.com/k-takata/Onigmo |
