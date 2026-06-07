@@ -1443,7 +1443,7 @@
   Description: Subdomain Bruteforcing Tool
   Homepage: https://github.com/resurrecting-open-source-projects/dnsmap
 - Package: dnsmasq
-  Version: "2.92"
+  Version: "2.93"
   Description: Dnsmasq provides network infrastructure for small networks
   Homepage: http://www.thekelleys.org.uk/dnsmasq/doc.html
 - Package: dnstop
@@ -2007,11 +2007,11 @@
   Description: A fully featured Firefox Send client
   Homepage: https://gitlab.com/timvisee/ffsend
 - Package: fftw
-  Version: 3.3.10-4
+  Version: 3.3.11
   Description: Library for computing the Discrete Fourier Transform (DFT) in one or more dimensions
   Homepage: http://www.fftw.org/
 - Package: fftw-static
-  Version: 3.3.10-4
+  Version: 3.3.11
   Description: Static libraries for fftw
   Homepage: http://www.fftw.org/
 - Package: figlet
@@ -7047,7 +7047,7 @@
   Description: Static libraries for minizinc
   Homepage: https://github.com/MiniZinc/libminizinc
 - Package: mise
-  Version: 2026.6.0
+  Version: 2026.6.1
   Description: dev tools, env vars, task runner
   Homepage: https://mise.jdx.dev/
 - Package: mkbootimg
@@ -11155,7 +11155,7 @@
   Description: Download youtube video in Golang
   Homepage: https://github.com/kkdai/youtube
 - Package: yq
-  Version: 4.53.2
+  Version: 4.53.3
   Description: A lightweight and portable command-line YAML, JSON and XML processor
   Homepage: https://mikefarah.gitbook.io/yq/
 - Package: yt-dlp-ejs

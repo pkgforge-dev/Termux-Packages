@@ -371,7 +371,7 @@
 | **dnscontrol** | 4.41.0 | Infrastructure as code for DNS! | https://github.com/StackExchange/dnscontrol |
 | **dnslookup** | 1.12.0 | Simple command line utility to make DNS lookups. Supports all known DNS protocols: plain DNS, DoH, DoT, DoQ, DNSCrypt. | https://github.com/ameshkov/dnslookup |
 | **dnsmap** | 0.36-3 | Subdomain Bruteforcing Tool | https://github.com/resurrecting-open-source-projects/dnsmap |
-| **dnsmasq** | 2.92 | Dnsmasq provides network infrastructure for small networks | http://www.thekelleys.org.uk/dnsmasq/doc.html |
+| **dnsmasq** | 2.93 | Dnsmasq provides network infrastructure for small networks | http://www.thekelleys.org.uk/dnsmasq/doc.html |
 | **dnstop** | 2022.10.19-1 | A libpcap application that displays various tables of DNS traffic on your network | https://github.com/measurement-factory/dnstop |
 | **dnsutils** | 9.20.23 | Clients provided with BIND | https://www.isc.org/bind/ |
 | **docbook-xml** | 5.1-1 | A widely used XML scheme for writing documentation and help | https://www.oasis-open.org/docbook/ |
@@ -512,8 +512,8 @@
 | **ffmpeg** | 8.1.1-1 | Tools and libraries to manipulate a wide range of multimedia formats and protocols | https://ffmpeg.org |
 | **ffmpegthumbnailer** | 2.3.0 | Lightweight video thumbnailer that can be used by file managers | https://github.com/dirkvdb/ffmpegthumbnailer |
 | **ffsend** | 0.2.77-2 | A fully featured Firefox Send client | https://gitlab.com/timvisee/ffsend |
-| **fftw** | 3.3.10-4 | Library for computing the Discrete Fourier Transform (DFT) in one or more dimensions | http://www.fftw.org/ |
-| **fftw-static** | 3.3.10-4 | Static libraries for fftw | http://www.fftw.org/ |
+| **fftw** | 3.3.11 | Library for computing the Discrete Fourier Transform (DFT) in one or more dimensions | http://www.fftw.org/ |
+| **fftw-static** | 3.3.11 | Static libraries for fftw | http://www.fftw.org/ |
 | **figlet** | 2.2.5-3 | Program for making large letters out of ordinary text | http://www.figlet.org/ |
 | **file** | 5.47 | Command-line tool that tells you in words what kind of data a file contains | https://darwinsys.com/file/ |
 | **file-static** | 5.47 | Static libraries for file | https://darwinsys.com/file/ |
@@ -1772,7 +1772,7 @@
 | **miniupnpc-static** | 2.3.3-1 | Static libraries for miniupnpc | https://miniupnp.tuxfamily.org/ |
 | **minizinc** | 2.9.7 | A medium-level constraint modelling language | https://github.com/MiniZinc/libminizinc |
 | **minizinc-static** | 2.9.7 | Static libraries for minizinc | https://github.com/MiniZinc/libminizinc |
-| **mise** | 2026.6.0 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
+| **mise** | 2026.6.1 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
 | **mkbootimg** | 2022.11.09-1 | Maintained fork with android's mkbootimg and unpackbootimg | https://github.com/osm0sis/mkbootimg |
 | **mkp224o** | 1.7.0-1 | Generate vanity ed25519 (hidden service version 3) onion addresses | https://github.com/cathugger/mkp224o |
 | **mksh** | 59c-3 | The MirBSD Korn Shell - an enhanced version of the public domain ksh | http://www.mirbsd.org/mksh.htm |
@@ -2799,7 +2799,7 @@
 | **yoga** | 3.2.1 | Embeddable layout engine targeting web standards | https://www.yogalayout.dev/ |
 | **yosys** | 0.66 | A framework for RTL synthesis tools | https://yosyshq.net/yosys/ |
 | **youtubedr** | 2.10.6 | Download youtube video in Golang | https://github.com/kkdai/youtube |
-| **yq** | 4.53.2 | A lightweight and portable command-line YAML, JSON and XML processor | https://mikefarah.gitbook.io/yq/ |
+| **yq** | 4.53.3 | A lightweight and portable command-line YAML, JSON and XML processor | https://mikefarah.gitbook.io/yq/ |
 | **yt-dlp-ejs** | 0.8.0 | External JavaScript for yt-dlp supporting many runtimes | https://github.com/yt-dlp/ejs |
 | **ytfzf** | 2.6.2 | A POSIX script that helps you find Youtube videos (without API) | https://github.com/pystardust/ytfzf |
 | **ytui-music** | 2.0.0-beta-5 | Youtube client in terminal for music | https://github.com/sudipghimire533/ytui-music |

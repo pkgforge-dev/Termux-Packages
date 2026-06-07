@@ -2167,7 +2167,7 @@
   },
   {
     "Package": "dnsmasq",
-    "Version": "2.92",
+    "Version": "2.93",
     "Description": "Dnsmasq provides network infrastructure for small networks",
     "Homepage": "http://www.thekelleys.org.uk/dnsmasq/doc.html"
   },
@@ -3013,13 +3013,13 @@
   },
   {
     "Package": "fftw",
-    "Version": "3.3.10-4",
+    "Version": "3.3.11",
     "Description": "Library for computing the Discrete Fourier Transform (DFT) in one or more dimensions",
     "Homepage": "http://www.fftw.org/"
   },
   {
     "Package": "fftw-static",
-    "Version": "3.3.10-4",
+    "Version": "3.3.11",
     "Description": "Static libraries for fftw",
     "Homepage": "http://www.fftw.org/"
   },
@@ -10573,7 +10573,7 @@
   },
   {
     "Package": "mise",
-    "Version": "2026.6.0",
+    "Version": "2026.6.1",
     "Description": "dev tools, env vars, task runner",
     "Homepage": "https://mise.jdx.dev/"
   },
@@ -16735,7 +16735,7 @@
   },
   {
     "Package": "yq",
-    "Version": "4.53.2",
+    "Version": "4.53.3",
     "Description": "A lightweight and portable command-line YAML, JSON and XML processor",
     "Homepage": "https://mikefarah.gitbook.io/yq/"
   },
