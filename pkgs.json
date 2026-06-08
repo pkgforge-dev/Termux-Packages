@@ -283,14 +283,14 @@
   },
   {
     "Package": "aosp-libs",
-    "Version": "9.0.0-r76-2",
+    "Version": "9.0.0-r76-3",
     "Description": "bionic libc, libicuuc, liblzma, zlib, and boringssl for package builder and termux-docker",
     "Homepage": "https://source.android.com/"
   },
   {
     "Package": "aosp-utils",
-    "Version": "9.0.0-r76-2",
-    "Description": "AOSP-based mksh, toybox and iputils for termux-docker",
+    "Version": "9.0.0-r76-3",
+    "Description": "AOSP-based mksh, toybox, grep and iputils for termux-docker",
     "Homepage": "https://source.android.com/"
   },
   {
@@ -1093,7 +1093,7 @@
   },
   {
     "Package": "byobu",
-    "Version": "7.0",
+    "Version": "7.8",
     "Description": "Byobu is a GPLv3 open source text-based window manager and terminal multiplexer",
     "Homepage": "https://www.byobu.org/"
   },
@@ -13705,7 +13705,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20260601",
+    "Version": "20260608",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://rust-analyzer.github.io/"
   },
