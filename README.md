@@ -211,7 +211,7 @@
 | **capstone** | 5.0.9 | Lightweight multi-platform, multi-architecture disassembly framework | https://www.capstone-engine.org/ |
 | **capstone-static** | 5.0.9 | Static libraries for capstone | https://www.capstone-engine.org/ |
 | **carapace** | 1.7.0 | Multi-shell multi-command argument completer | https://carapace.sh/ |
-| **cargo-binstall** | 1.19.1 | Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem | https://github.com/cargo-bins/cargo-binstall |
+| **cargo-binstall** | 1.20.0 | Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem | https://github.com/cargo-bins/cargo-binstall |
 | **cargo-c** | 0.10.23 | Cargo C-ABI helpers | https://github.com/lu-zero/cargo-c |
 | **cargo-cache** | 0.8.3 | Tool to manage cargo cache | https://github.com/matthiaskrgr/cargo-cache |
 | **cargo-leptos** | 0.3.6 | Build tool for the Rust framework Leptos | https://github.com/leptos-rs/cargo-leptos |
@@ -515,8 +515,8 @@
 | **fftw** | 3.3.11 | Library for computing the Discrete Fourier Transform (DFT) in one or more dimensions | http://www.fftw.org/ |
 | **fftw-static** | 3.3.11 | Static libraries for fftw | http://www.fftw.org/ |
 | **figlet** | 2.2.5-3 | Program for making large letters out of ordinary text | http://www.figlet.org/ |
-| **file** | 5.47 | Command-line tool that tells you in words what kind of data a file contains | https://darwinsys.com/file/ |
-| **file-static** | 5.47 | Static libraries for file | https://darwinsys.com/file/ |
+| **file** | 5.48 | Command-line tool that tells you in words what kind of data a file contains | https://darwinsys.com/file/ |
+| **file-static** | 5.48 | Static libraries for file | https://darwinsys.com/file/ |
 | **finch** | 2.14.14-2 | Text-based multi-protocol instant messaging client | https://pidgin.im/ |
 | **finch-static** | 2.14.14-2 | Static libraries for finch | https://pidgin.im/ |
 | **findomain** | 10.0.1-1 | Findomain is the fastest subdomain enumerator and the only one written in Rust | https://findomain.app/ |
@@ -756,9 +756,9 @@
 | **htslib** | 1.23.1 | C library for high-throughput sequencing data formats | https://github.com/samtools/htslib |
 | **htslib-static** | 1.23.1 | Static libraries for htslib | https://github.com/samtools/htslib |
 | **httping** | 4.4.0-1 | ping-like program for http-requests | https://github.com/folkertvanheusden/HTTPing |
-| **httrack** | 3.49.6-1 | It allows you to download a World Wide Web site from the Internet | http://www.httrack.com |
-| **httrack-data** | 3.49.6-1 | Platform-independent data for httrack | http://www.httrack.com |
-| **httrack-static** | 3.49.6-1 | Static libraries for httrack | http://www.httrack.com |
+| **httrack** | 3.49.7 | It allows you to download a World Wide Web site from the Internet | http://www.httrack.com |
+| **httrack-data** | 3.49.7 | Platform-independent data for httrack | http://www.httrack.com |
+| **httrack-static** | 3.49.7 | Static libraries for httrack | http://www.httrack.com |
 | **hub** | 2.14.2-6 | Command-line wrapper for git that makes you better at GitHub | https://hub.github.com/ |
 | **hugo** | 0.162.1 | A fast and flexible static site generator | https://gohugo.io/ |
 | **hummin** | 2021.05.18-4 | Command line client for the imperial library of trantor | https://trantor.is/ |
@@ -871,7 +871,7 @@
 | **kubecolor** | 0.6.0 | Colorize your kubectl output | https://github.com/kubecolor/kubecolor |
 | **kubectl** | 1.36.1 | Kubernetes.io client binary | https://kubernetes.io/ |
 | **kubelogin** | 1.36.2 | A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication | https://github.com/int128/kubelogin |
-| **kubo** | 0.41.0 | A peer-to-peer hypermedia distribution protocol | https://ipfs.io/ |
+| **kubo** | 0.42.0 | A peer-to-peer hypermedia distribution protocol | https://ipfs.io/ |
 | **ladspa-sdk** | 1.17-3 | Linux Audio Developer's Simple Plugin API | https://www.ladspa.org/ |
 | **lame** | 3.100-7 | High quality MPEG Audio Layer III (MP3) encoder - frontend | https://lame.sourceforge.io/ |
 | **lastpass-cli** | 1.6.1-4 | LastPass command line interface tool | https://lastpass.com/ |
@@ -1537,7 +1537,7 @@
 | **libwavpack-static** | 5.9.0 | Static libraries for libwavpack | https://www.wavpack.com/ |
 | **libwayland** | 1.25.0 | Wayland protocol library | https://wayland.freedesktop.org/ |
 | **libwayland-cross-scanner** | 1.25.0 | wayland-scanner for host (NOT for Termux) | https://wayland.freedesktop.org/ |
-| **libwayland-protocols** | 1.48 | Wayland protocols library | https://wayland.freedesktop.org/ |
+| **libwayland-protocols** | 1.49 | Wayland protocols library | https://wayland.freedesktop.org/ |
 | **libwebp** | 1.6.0-rc1-0 | Library to encode and decode images in WebP format | https://github.com/webmproject/libwebp |
 | **libwebrtc-audio-processing** | 1.3-4 | A library containing the AudioProcessing module from the WebRTC project | https://www.freedesktop.org/software/pulseaudio/webrtc-audio-processing/ |
 | **libwebsockets** | 4.5.8 | Lightweight C websockets library | https://libwebsockets.org |
@@ -1839,7 +1839,7 @@
 | **natpmpc** | 20230423-2 | Portable and fully compliant implementation of NAT-PMP | https://miniupnp.tuxfamily.org/libnatpmp.html |
 | **natpmpc-static** | 20230423-2 | Static libraries for natpmpc | https://miniupnp.tuxfamily.org/libnatpmp.html |
 | **navi** | 2.24.0-1 | An interactive cheatsheet tool for the command-line | https://github.com/denisidoro/navi |
-| **navidrome** | 0.61.2 | Modern Music Server and Streamer compatible with Subsonic/Airsonic | https://www.navidrome.org/ |
+| **navidrome** | 0.62.0 | Modern Music Server and Streamer compatible with Subsonic/Airsonic | https://www.navidrome.org/ |
 | **ncdc** | 1.25-1 | Modern and lightweight direct connect client with a friendly ncurses interface | https://dev.yorhel.nl/ncdc |
 | **ncdu** | 1.22-1 | Disk usage analyzer | https://dev.yorhel.nl/ncdu |
 | **ncdu2** | 2.9.2-1 | Disk usage analyzer | https://dev.yorhel.nl/ncdu |
@@ -2103,7 +2103,7 @@
 | **procps-static** | 3.3.17-6 | Static libraries for procps | https://gitlab.com/procps-ng/procps |
 | **procs** | 0.14.11 | A modern replacement for ps | https://github.com/dalance/procs |
 | **procyon-decompiler** | 0.6.0-2 | A standalone front-end for the Java decompiler in Procyon Compiler Toolset | https://github.com/mstrobel/procyon |
-| **profanity** | 0.18.1 | Profanity is a console based XMPP client written in C using ncurses and libstrophe, inspired by Irssi | https://profanity-im.github.io |
+| **profanity** | 0.18.2 | Profanity is a console based XMPP client written in C using ncurses and libstrophe, inspired by Irssi | https://profanity-im.github.io |
 | **progress** | 0.17-1 | Linux tool to show progress for cp, mv, dd and more | https://github.com/Xfennec/progress |
 | **proj** | 9.8.1 | Generic coordinate transformation software | https://proj.org |
 | **proot** | 5.1.107.77 | Emulate chroot, bind mount and binfmt_misc for non-root users | https://proot-me.github.io/ |
@@ -2277,7 +2277,7 @@
 | **rq** | 1.0.4-2 | A tool for doing record analysis and transformation | https://github.com/dflemstr/rq |
 | **rsgain** | 3.7 | A simple audio normalizazion utility | https://github.com/complexlogic/rsgain |
 | **rsnapshot** | 1.5.1 | A remote filesystem snapshot utility | https://www.rsnapshot.org/ |
-| **rsync** | 3.4.3-1 | Fast incremental file transfer utility | https://rsync.samba.org/ |
+| **rsync** | 3.4.4 | Fast incremental file transfer utility | https://rsync.samba.org/ |
 | **rtmpdump** | 2.6-1 | Small dumper for media content streamed over the RTMP protocol | https://rtmpdump.mplayerhq.hu/ |
 | **rtmpdump-static** | 2.6-1 | Static libraries for rtmpdump | https://rtmpdump.mplayerhq.hu/ |
 | **rtorrent** | 0.16.13 | Ncurses BitTorrent client based on libTorrent | https://rakshasa.github.io/rtorrent/ |
@@ -2815,7 +2815,7 @@
 | **zile** | 2.6.4-2 | Lightweight clone of the Emacs text editor | https://www.gnu.org/software/zile/ |
 | **zip** | 3.0-7 | Tools for working with zip files | https://sourceforge.net/projects/infozip/ |
 | **zipios** | 2.3.4 | A small C++ library for reading and writing zip files | https://zipios.sourceforge.io/ |
-| **zk** | 0.15.4 | A plain text note-taking assistant | https://zk-org.github.io/zk/ |
+| **zk** | 0.15.5 | A plain text note-taking assistant | https://zk-org.github.io/zk/ |
 | **zlib** | 1.3.2 | Compression library implementing the deflate compression method found in gzip and PKZIP | https://www.zlib.net/ |
 | **zlib-static** | 1.3.2 | Static libraries for zlib | https://www.zlib.net/ |
 | **zls** | 0.16.0 | Zig language server | https://github.com/zigtools/zls |

@@ -803,7 +803,7 @@
   Description: Multi-shell multi-command argument completer
   Homepage: https://carapace.sh/
 - Package: cargo-binstall
-  Version: 1.19.1
+  Version: 1.20.0
   Description: Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem
   Homepage: https://github.com/cargo-bins/cargo-binstall
 - Package: cargo-c
@@ -2019,11 +2019,11 @@
   Description: Program for making large letters out of ordinary text
   Homepage: http://www.figlet.org/
 - Package: file
-  Version: "5.47"
+  Version: "5.48"
   Description: Command-line tool that tells you in words what kind of data a file contains
   Homepage: https://darwinsys.com/file/
 - Package: file-static
-  Version: "5.47"
+  Version: "5.48"
   Description: Static libraries for file
   Homepage: https://darwinsys.com/file/
 - Package: finch
@@ -2983,15 +2983,15 @@
   Description: ping-like program for http-requests
   Homepage: https://github.com/folkertvanheusden/HTTPing
 - Package: httrack
-  Version: 3.49.6-1
+  Version: 3.49.7
   Description: It allows you to download a World Wide Web site from the Internet
   Homepage: http://www.httrack.com
 - Package: httrack-data
-  Version: 3.49.6-1
+  Version: 3.49.7
   Description: Platform-independent data for httrack
   Homepage: http://www.httrack.com
 - Package: httrack-static
-  Version: 3.49.6-1
+  Version: 3.49.7
   Description: Static libraries for httrack
   Homepage: http://www.httrack.com
 - Package: hub
@@ -3443,7 +3443,7 @@
   Description: A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication
   Homepage: https://github.com/int128/kubelogin
 - Package: kubo
-  Version: 0.41.0
+  Version: 0.42.0
   Description: A peer-to-peer hypermedia distribution protocol
   Homepage: https://ipfs.io/
 - Package: ladspa-sdk
@@ -6107,7 +6107,7 @@
   Description: wayland-scanner for host (NOT for Termux)
   Homepage: https://wayland.freedesktop.org/
 - Package: libwayland-protocols
-  Version: "1.48"
+  Version: "1.49"
   Description: Wayland protocols library
   Homepage: https://wayland.freedesktop.org/
 - Package: libwebp
@@ -7315,7 +7315,7 @@
   Description: An interactive cheatsheet tool for the command-line
   Homepage: https://github.com/denisidoro/navi
 - Package: navidrome
-  Version: 0.61.2
+  Version: 0.62.0
   Description: Modern Music Server and Streamer compatible with Subsonic/Airsonic
   Homepage: https://www.navidrome.org/
 - Package: ncdc
@@ -8371,7 +8371,7 @@
   Description: A standalone front-end for the Java decompiler in Procyon Compiler Toolset
   Homepage: https://github.com/mstrobel/procyon
 - Package: profanity
-  Version: 0.18.1
+  Version: 0.18.2
   Description: Profanity is a console based XMPP client written in C using ncurses and libstrophe, inspired by Irssi
   Homepage: https://profanity-im.github.io
 - Package: progress
@@ -9067,7 +9067,7 @@
   Description: A remote filesystem snapshot utility
   Homepage: https://www.rsnapshot.org/
 - Package: rsync
-  Version: 3.4.3-1
+  Version: 3.4.4
   Description: Fast incremental file transfer utility
   Homepage: https://rsync.samba.org/
 - Package: rtmpdump
@@ -11219,7 +11219,7 @@
   Description: A small C++ library for reading and writing zip files
   Homepage: https://zipios.sourceforge.io/
 - Package: zk
-  Version: 0.15.4
+  Version: 0.15.5
   Description: A plain text note-taking assistant
   Homepage: https://zk-org.github.io/zk/
 - Package: zlib
