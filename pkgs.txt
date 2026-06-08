@@ -748,7 +748,7 @@
  httrack-data  3.49.7  Platform-independent data for httrack  http://www.httrack.com 
  httrack-static  3.49.7  Static libraries for httrack  http://www.httrack.com 
  hub  2.14.2-6  Command-line wrapper for git that makes you better at GitHub  https://hub.github.com/ 
- hugo  0.162.1  A fast and flexible static site generator  https://gohugo.io/ 
+ hugo  0.163.0  A fast and flexible static site generator  https://gohugo.io/ 
  hummin  2021.05.18-4  Command line client for the imperial library of trantor  https://trantor.is/ 
  hunspell  1.7.3  Spell checker  https://hunspell.github.io 
  hunspell-en-us  20240129  American english dictionary for hunspell  https://hunspell.github.io 
@@ -1095,7 +1095,7 @@
  libgpg-error  1.58  Small library that defines common error values for all GnuPG components  https://www.gnupg.org/related_software/libgpg-error/ 
  libgpg-error-static  1.58  Static libraries for libgpg-error  https://www.gnupg.org/related_software/libgpg-error/ 
  libgraphite  1.3.15  Font system for multiple languages  https://github.com/silnrsi/graphite 
- libgrpc  1.81.0  High performance, open source, general RPC framework that puts mobile and HTTP/2 first  https://grpc.io/ 
+ libgrpc  1.81.1  High performance, open source, general RPC framework that puts mobile and HTTP/2 first  https://grpc.io/ 
  libgsasl  2.2.3  GNU SASL library  https://www.gnu.org/software/gsasl 
  libgsasl-static  2.2.3  Static libraries for libgsasl  https://www.gnu.org/software/gsasl 
  libgsf  1.14.58  The G Structured File Library  https://gitlab.gnome.org/GNOME/libgsf 
@@ -1976,8 +1976,8 @@
  ossp-uuid  1.6.2-4  ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122.  http://www.ossp.org/pkg/lib/uuid/ 
  ossp-uuid-static  1.6.2-4  Static libraries for ossp-uuid  http://www.ossp.org/pkg/lib/uuid/ 
  ovmf  20231122-16.fc40-0  Open Virtual Machine Firmware  https://www.tianocore.org/ 
- oxfmt  1.68.0  Oxc JavaScript formatter  https://oxc.rs/ 
- oxlint  1.68.0  Oxc JavaScript linter  https://oxc.rs/ 
+ oxfmt  1.69.0  Oxc JavaScript formatter  https://oxc.rs/ 
+ oxlint  1.69.0  Oxc JavaScript linter  https://oxc.rs/ 
  p11-kit  0.26.2  Provides a way to load and enumerate PKCS#11 modules  https://p11-glue.github.io/p11-glue/p11-kit.html 
  p7zip  17.06-1  Command-line version of the 7zip compressed file archiver  https://github.com/p7zip-project/p7zip 
  pacman  7.1.0-3  A library-based package manager with dependency support  https://archlinux.org/pacman/ 
@@ -2065,7 +2065,7 @@
  plzip  1.13  A massively parallel lossless data compressor based on the lzlib compression library  https://www.nongnu.org/lzip/plzip.html 
  pngcrush  1.8.13-2  Recompresses png files  https://pmt.sourceforge.io/pngcrush/ 
  pngquant  3.0.3-2  PNG image optimising utility  https://pngquant.org 
- pocketbase  0.39.2  An open source Go backend  https://github.com/pocketbase/pocketbase 
+ pocketbase  0.39.3  An open source Go backend  https://github.com/pocketbase/pocketbase 
  poke  4.3-1  Interactive, extensible editor for binary data.  http://www.jemarch.net/poke.html 
  poke-static  4.3-1  Static libraries for poke  http://www.jemarch.net/poke.html 
  polipo  1.1.1-1  A small and fast caching web proxy  http://www.pps.jussieu.fr/~jch/software/polipo/ 
@@ -2132,7 +2132,7 @@
  python-cryptography  48.0.0  Provides cryptographic recipes and primitives to Python developers  https://github.com/pyca/cryptography 
  python-ensurepip-wheels  3.13.13-1  Wheels for Python ensurepip  https://python.org/ 
  python-greenlet  3.5.1  Lightweight coroutines for in-process concurrent programming  https://github.com/python-greenlet/greenlet 
- python-grpcio  1.81.0  High performance, open source, general RPC framework that puts mobile and HTTP/2 first  https://grpc.io/ 
+ python-grpcio  1.81.1  High performance, open source, general RPC framework that puts mobile and HTTP/2 first  https://grpc.io/ 
  python-lameenc  1.8.2  Python bindings around the LAME encoder  https://github.com/chrisstaite/lameenc 
  python-libsass  0.23.0-2  A straightforward binding of libsass for Python  https://github.com/sass/libsass-python 
  python-llvmlite  0.47.0-2  A lightweight LLVM python binding for writing JIT compilers  https://llvmlite.pydata.org/ 
@@ -2206,7 +2206,7 @@
  rage  0.11.2  A simple, secure and modern encryption tool  https://age-encryption.org/v1 
  ragel  7.0.4-1  Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code  https://www.colm.net/open-source/ragel/ 
  ragel-static  7.0.4-1  Static libraries for ragel  https://www.colm.net/open-source/ragel/ 
- railway-cli  5.5.0  This is the command line interface for Railway  https://railway.app 
+ railway-cli  5.6.1  This is the command line interface for Railway  https://railway.app 
  range-v3  0.12.0  Range library for C++14/17/20, basis for C++20's std::ranges  https://github.com/ericniebler/range-v3 
  ranger  1.9.4-1  File manager with VI key bindings  https://ranger.github.io/ 
  rapidjson  1.1.0-7  Fast JSON parser/generator for C++ with SAX/DOM style API  https://github.com/Tencent/rapidjson/ 
@@ -2638,7 +2638,7 @@
  up  0.4-4  Helps interactively and incrementally explore textual data in Linux  https://github.com/akavel/up 
  update-info-dir  7.3  Update or create index file from all installed info files in directory  https://www.gnu.org/software/texinfo/ 
  upower  1.91.2  Power management support for DeviceKit  https://upower.freedesktop.org/ 
- upx  5.1.1  the Ultimate Packer for eXecutables  https://upx.github.io/ 
+ upx  5.2.0  the Ultimate Packer for eXecutables  https://upx.github.io/ 
  urdfdom  6.0.0  Unified Robot Description Format (URDF) parser library and tools  https://github.com/ros/urdfdom 
  urdfdom-headers  3.0.0  Headers for URDF parsers  https://github.com/ros/urdfdom_headers 
  usbmuxd  1.1.1-p20250201-2  A socket daemon to multiplex connections from and to iOS devices  https://libimobiledevice.org 
