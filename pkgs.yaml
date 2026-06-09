@@ -199,7 +199,7 @@
   Description: Columnar storage for Hadoop workloads
   Homepage: https://orc.apache.org/
 - Package: apache2
-  Version: 1:2.4.67
+  Version: 1:2.4.68
   Description: Apache Web Server
   Homepage: https://httpd.apache.org
 - Package: apkeep
@@ -2019,11 +2019,11 @@
   Description: Program for making large letters out of ordinary text
   Homepage: http://www.figlet.org/
 - Package: file
-  Version: "5.48"
+  Version: 5.48-1
   Description: Command-line tool that tells you in words what kind of data a file contains
   Homepage: https://darwinsys.com/file/
 - Package: file-static
-  Version: "5.48"
+  Version: 5.48-1
   Description: Static libraries for file
   Homepage: https://darwinsys.com/file/
 - Package: finch
@@ -2143,7 +2143,7 @@
   Description: Static libraries for freetype
   Homepage: https://www.freetype.org
 - Package: frei0r-plugins
-  Version: 3.1.3
+  Version: 3.2.0
   Description: Minimalistic plugin API for video effects
   Homepage: https://www.dyne.org/software/frei0r/
 - Package: fresh-editor
@@ -7655,11 +7655,11 @@
   Description: The GNU Spreadsheet
   Homepage: https://www.gnu.org/software/oleo/
 - Package: ollama
-  Version: 0.30.6
+  Version: 0.30.7
   Description: Get up and running with large language models
   Homepage: https://ollama.com/
 - Package: ollama-backend-vulkan
-  Version: 0.30.6
+  Version: 0.30.7
   Description: Vulkan Backend for Ollama
   Homepage: https://ollama.com/
 - Package: oma
@@ -10451,7 +10451,7 @@
   Description: A small and powerful JavaScript runtime
   Homepage: https://github.com/saghul/txiki.js
 - Package: ty
-  Version: 0.0.44
+  Version: 0.0.45
   Description: An extremely fast Python type checker and language server, written in Rust
   Homepage: https://github.com/astral-sh/ty
 - Package: typst
