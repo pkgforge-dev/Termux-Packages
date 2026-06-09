@@ -339,7 +339,7 @@
   Description: ASP.NET Core 10.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-runtime-8.0
-  Version: 8.0.27
+  Version: 8.0.28
   Description: ASP.NET Core 8.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-runtime-9.0
@@ -351,7 +351,7 @@
   Description: ASP.NET Core 10.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-runtime-dbg-8.0
-  Version: 8.0.27
+  Version: 8.0.28
   Description: ASP.NET Core 8.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-runtime-dbg-9.0
@@ -363,7 +363,7 @@
   Description: ASP.NET Core 10.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-targeting-pack-8.0
-  Version: 8.0.27
+  Version: 8.0.28
   Description: ASP.NET Core 8.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-targeting-pack-9.0
@@ -459,7 +459,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.34.64
+  Version: 2.35.0
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -1503,7 +1503,7 @@
   Description: .NET 10.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-apphost-pack-8.0
-  Version: 8.0.27
+  Version: 8.0.28
   Description: .NET 8.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-apphost-pack-9.0
@@ -1519,7 +1519,7 @@
   Description: .NET 10.0 Host
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-host-8.0
-  Version: 8.0.27
+  Version: 8.0.28
   Description: .NET 8.0 Host
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-host-9.0
@@ -1531,7 +1531,7 @@
   Description: .NET 10.0 Host Resolver
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-hostfxr-8.0
-  Version: 8.0.27
+  Version: 8.0.28
   Description: .NET 8.0 Host Resolver
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-hostfxr-9.0
@@ -1543,7 +1543,7 @@
   Description: .NET 10.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-8.0
-  Version: 8.0.27
+  Version: 8.0.28
   Description: .NET 8.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-9.0
@@ -1555,7 +1555,7 @@
   Description: .NET 10.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-dbg-8.0
-  Version: 8.0.27
+  Version: 8.0.28
   Description: .NET 8.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-dbg-9.0
@@ -1567,7 +1567,7 @@
   Description: .NET 10.0 SDK
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-8.0
-  Version: 8.0.27
+  Version: 8.0.28
   Description: .NET 8.0 SDK
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-9.0
@@ -1579,7 +1579,7 @@
   Description: .NET 10.0 SDK Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-dbg-8.0
-  Version: 8.0.27
+  Version: 8.0.28
   Description: .NET 8.0 SDK Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-dbg-9.0
@@ -1591,7 +1591,7 @@
   Description: .NET 10.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-targeting-pack-8.0
-  Version: 8.0.27
+  Version: 8.0.28
   Description: .NET 8.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-targeting-pack-9.0
@@ -1603,7 +1603,7 @@
   Description: .NET 10.0 Templates
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-templates-8.0
-  Version: 8.0.27
+  Version: 8.0.28
   Description: .NET 8.0 Templates
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-templates-9.0
@@ -1615,7 +1615,7 @@
   Description: .NET 10.0
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet8.0
-  Version: 8.0.27
+  Version: 8.0.28
   Description: .NET 8.0
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet9.0
@@ -1775,7 +1775,7 @@
   Description: Full-Featured Text WWW Browser
   Homepage: https://github.com/rkd77/elinks
 - Package: elixir
-  Version: 1.20.0
+  Version: 1.20.1
   Description: Elixir is a dynamic, functional language designed for building scalable and maintainable applications
   Homepage: https://elixir-lang.org/
 - Package: eltclsh
@@ -2079,7 +2079,7 @@
   Description: Software synthesizer based on the SoundFont 2 specifications
   Homepage: https://github.com/FluidSynth/fluidsynth
 - Package: flyctl
-  Version: 0.4.58
+  Version: 0.4.59
   Description: Command line tools for fly.io services
   Homepage: https://fly.io
 - Package: fm
@@ -7459,7 +7459,7 @@
   Description: A metapackage for NETStandard.Library 2.1 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: netstandard-targeting-pack-2.1-8.0
-  Version: 8.0.27
+  Version: 8.0.28
   Description: NETStandard.Library 2.1 Targeting Pack (.NET 8.0)
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: netstandard-targeting-pack-2.1-9.0
@@ -8071,7 +8071,7 @@
   Description: A PDF to SVG converter
   Homepage: http://www.cityinthesky.co.uk/opensource/pdf2svg/
 - Package: pdfcpu
-  Version: 0.12.1
+  Version: 0.13.0
   Description: A PDF processor written in Go
   Homepage: https://pdfcpu.io
 - Package: pdfgrep
@@ -8963,7 +8963,7 @@
   Description: Resolver configuration file
   Homepage: https://man7.org/linux/man-pages/man5/resolv.conf.5.html
 - Package: restic
-  Version: 0.18.1
+  Version: 0.19.0
   Description: Fast, secure, efficient backup program
   Homepage: https://restic.net/
 - Package: restic-server

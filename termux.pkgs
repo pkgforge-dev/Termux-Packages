@@ -83,13 +83,13 @@
 | **aspell-fr** | 2:0.50-3-1 | French dictionary for aspell | http://aspell.net/ |
 | **aspell-static** | 0.60.8.2 | Static libraries for aspell | http://aspell.net |
 | **aspnetcore-runtime-10.0** | 10.0.8 | ASP.NET Core 10.0 Runtime | https://dotnet.microsoft.com/en-us/ |
-| **aspnetcore-runtime-8.0** | 8.0.27 | ASP.NET Core 8.0 Runtime | https://dotnet.microsoft.com/en-us/ |
+| **aspnetcore-runtime-8.0** | 8.0.28 | ASP.NET Core 8.0 Runtime | https://dotnet.microsoft.com/en-us/ |
 | **aspnetcore-runtime-9.0** | 9.0.16 | ASP.NET Core 9.0 Runtime | https://dotnet.microsoft.com/en-us/ |
 | **aspnetcore-runtime-dbg-10.0** | 10.0.8 | ASP.NET Core 10.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
-| **aspnetcore-runtime-dbg-8.0** | 8.0.27 | ASP.NET Core 8.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
+| **aspnetcore-runtime-dbg-8.0** | 8.0.28 | ASP.NET Core 8.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
 | **aspnetcore-runtime-dbg-9.0** | 9.0.16 | ASP.NET Core 9.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
 | **aspnetcore-targeting-pack-10.0** | 10.0.8 | ASP.NET Core 10.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
-| **aspnetcore-targeting-pack-8.0** | 8.0.27 | ASP.NET Core 8.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
+| **aspnetcore-targeting-pack-8.0** | 8.0.28 | ASP.NET Core 8.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **aspnetcore-targeting-pack-9.0** | 9.0.16 | ASP.NET Core 9.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **assimp** | 6.0.5 | Library to import various well-known 3D model formats in an uniform manner | https://assimp.sourceforge.net/index.html |
 | **asymptote** | 3.12 | A powerful descriptive vector graphics language for technical drawing | https://asymptote.sourceforge.io/ |
@@ -113,7 +113,7 @@
 | **aview** | 1.3.0rc1-6 | High quality ascii-art image browser and animation player | https://aa-project.sourceforge.net/aview/ |
 | **avra** | 1.4.2-1 | Assember for the Atmel AVR microcontroller family | https://github.com/Ro5bert/avra |
 | **await** | 2.6.0 | Runs list of commands in parallel and waits for their termination | https://github.com/slavaGanzin/await |
-| **awscli** | 2.34.64 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
+| **awscli** | 2.35.0 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
 | **axel** | 2.17.14-1 | light command line download accelerator | https://github.com/axel-download-accelerator/axel |
 | **b3sum** | 1.8.5 | A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum | https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum |
 | **babl** | 0.1.126 | Dynamic pixel format translation library | https://gegl.org/babl/ |
@@ -374,35 +374,35 @@
 | **dotconf** | 1.4.1-1 | dot.conf configuration file parser | https://github.com/williamh/dotconf |
 | **dotconf-static** | 1.4.1-1 | Static libraries for dotconf | https://github.com/williamh/dotconf |
 | **dotnet-apphost-pack-10.0** | 10.0.8 | .NET 10.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-apphost-pack-8.0** | 8.0.27 | .NET 8.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-apphost-pack-8.0** | 8.0.28 | .NET 8.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-apphost-pack-9.0** | 9.0.16 | .NET 9.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-host** | 10.0 | A metapackage for .NET Host | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-host-10.0** | 10.0.8 | .NET 10.0 Host | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-host-8.0** | 8.0.27 | .NET 8.0 Host | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-host-8.0** | 8.0.28 | .NET 8.0 Host | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-host-9.0** | 9.0.16 | .NET 9.0 Host | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-hostfxr-10.0** | 10.0.8 | .NET 10.0 Host Resolver | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-hostfxr-8.0** | 8.0.27 | .NET 8.0 Host Resolver | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-hostfxr-8.0** | 8.0.28 | .NET 8.0 Host Resolver | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-hostfxr-9.0** | 9.0.16 | .NET 9.0 Host Resolver | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-runtime-10.0** | 10.0.8 | .NET 10.0 Runtime | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-runtime-8.0** | 8.0.27 | .NET 8.0 Runtime | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-runtime-8.0** | 8.0.28 | .NET 8.0 Runtime | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-runtime-9.0** | 9.0.16 | .NET 9.0 Runtime | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-runtime-dbg-10.0** | 10.0.8 | .NET 10.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-runtime-dbg-8.0** | 8.0.27 | .NET 8.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-runtime-dbg-8.0** | 8.0.28 | .NET 8.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-runtime-dbg-9.0** | 9.0.16 | .NET 9.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-sdk-10.0** | 10.0.8 | .NET 10.0 SDK | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-sdk-8.0** | 8.0.27 | .NET 8.0 SDK | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-sdk-8.0** | 8.0.28 | .NET 8.0 SDK | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-sdk-9.0** | 9.0.16 | .NET 9.0 SDK | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-sdk-dbg-10.0** | 10.0.8 | .NET 10.0 SDK Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-sdk-dbg-8.0** | 8.0.27 | .NET 8.0 SDK Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-sdk-dbg-8.0** | 8.0.28 | .NET 8.0 SDK Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-sdk-dbg-9.0** | 9.0.16 | .NET 9.0 SDK Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-targeting-pack-10.0** | 10.0.8 | .NET 10.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-targeting-pack-8.0** | 8.0.27 | .NET 8.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-targeting-pack-8.0** | 8.0.28 | .NET 8.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-targeting-pack-9.0** | 9.0.16 | .NET 9.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-templates-10.0** | 10.0.8 | .NET 10.0 Templates | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-templates-8.0** | 8.0.27 | .NET 8.0 Templates | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-templates-8.0** | 8.0.28 | .NET 8.0 Templates | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-templates-9.0** | 9.0.16 | .NET 9.0 Templates | https://dotnet.microsoft.com/en-us/ |
 | **dotnet10.0** | 10.0.8 | .NET 10.0 | https://dotnet.microsoft.com/en-us/ |
-| **dotnet8.0** | 8.0.27 | .NET 8.0 | https://dotnet.microsoft.com/en-us/ |
+| **dotnet8.0** | 8.0.28 | .NET 8.0 | https://dotnet.microsoft.com/en-us/ |
 | **dotnet9.0** | 9.0.16 | .NET 9.0 | https://dotnet.microsoft.com/en-us/ |
 | **double-conversion** | 3.4.0 | Binary-decimal and decimal-binary routines for IEEE doubles | https://github.com/google/double-conversion |
 | **doxygen** | 1.17.0 | A documentation system for C++, C, Java, IDL and PHP | http://www.doxygen.org |
@@ -442,7 +442,7 @@
 | **electrum** | 4.7.1 | Electrum is a lightweight Bitcoin wallet | https://electrum.org |
 | **elfutils** | 0.193-1 | A collection of utilities to read, create and modify ELF binary files | https://sourceware.org/elfutils/ |
 | **elinks** | 0.19.1 | Full-Featured Text WWW Browser | https://github.com/rkd77/elinks |
-| **elixir** | 1.20.0 | Elixir is a dynamic, functional language designed for building scalable and maintainable applications | https://elixir-lang.org/ |
+| **elixir** | 1.20.1 | Elixir is a dynamic, functional language designed for building scalable and maintainable applications | https://elixir-lang.org/ |
 | **eltclsh** | 1.20-1 | Interactive shell for TCL programming language | https://homepages.laas.fr/mallet/soft/shell/eltclsh |
 | **elvish** | 0.21.0-1 | A friendly and expressive Unix shell | https://github.com/elves/elvish |
 | **emacs** | 30.2-1 | Extensible, customizable text editor-and more | https://www.gnu.org/software/emacs/ |
@@ -518,7 +518,7 @@
 | **flex-static** | 2.6.4-4 | Static libraries for flex | https://github.com/westes/flex |
 | **flint** | 3.5.0 | C library for doing number theory | http://www.flintlib.org |
 | **fluidsynth** | 2.5.4 | Software synthesizer based on the SoundFont 2 specifications | https://github.com/FluidSynth/fluidsynth |
-| **flyctl** | 0.4.58 | Command line tools for fly.io services | https://fly.io |
+| **flyctl** | 0.4.59 | Command line tools for fly.io services | https://fly.io |
 | **fm** | 1.2.0 | A terminal based file manager | https://github.com/knipferrc/fm |
 | **fmt** | 1:11.2.0 | Open-source formatting library for C++ | https://fmt.dev/latest/index.html |
 | **fontconfig** | 2.18.1 | Library for configuring and customizing font access | https://www.freedesktop.org/wiki/Software/fontconfig/ |
@@ -1863,7 +1863,7 @@
 | **netpbm** | 1:10.73.43-5 | Toolkit for manipulation of graphic images of different formats | https://netpbm.sourceforge.net/ |
 | **netsed** | 1.4 | Alter the contents of packets forwarded through network in real time | http://silicone.homelinux.org/projects/netsed/ |
 | **netstandard-targeting-pack-2.1** | 9.0-3 | A metapackage for NETStandard.Library 2.1 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
-| **netstandard-targeting-pack-2.1-8.0** | 8.0.27 | NETStandard.Library 2.1 Targeting Pack (.NET 8.0) | https://dotnet.microsoft.com/en-us/ |
+| **netstandard-targeting-pack-2.1-8.0** | 8.0.28 | NETStandard.Library 2.1 Targeting Pack (.NET 8.0) | https://dotnet.microsoft.com/en-us/ |
 | **netstandard-targeting-pack-2.1-9.0** | 9.0.16 | NETStandard.Library 2.1 Targeting Pack (.NET 9.0) | https://dotnet.microsoft.com/en-us/ |
 | **nettle** | 4.0+really3.10.2 | Low level cryptographic tools | https://www.lysator.liu.se/~nisse/nettle/ |
 | **newsboat** | 2.43 | RSS/Atom feed reader for the text console | https://newsboat.org/ |
@@ -2016,7 +2016,7 @@
 | **pcregrep** | 8.45-2 | A grep with Perl-compatible regular expressions | https://www.pcre.org |
 | **pcscd** | 2.5.0 | Middleware to access a smart card using SCard API (PC/SC). (daemon side) | https://pcsclite.apdu.fr/ |
 | **pdf2svg** | 0.2.4-2 | A PDF to SVG converter | http://www.cityinthesky.co.uk/opensource/pdf2svg/ |
-| **pdfcpu** | 0.12.1 | A PDF processor written in Go | https://pdfcpu.io |
+| **pdfcpu** | 0.13.0 | A PDF processor written in Go | https://pdfcpu.io |
 | **pdfgrep** | 2.2.0-5 | Command line utility to search text in PDF files | https://pdfgrep.org/ |
 | **pdftk** | 3.3.3-3 | A simple tool for doing everyday things with PDF documents | https://gitlab.com/pdftk-java/pdftk |
 | **peaclock** | 0.4.3-9 | A responsive and customizable clock, timer, and stopwatch for the terminal. | https://github.com/octobanana/peaclock |
@@ -2239,7 +2239,7 @@
 | **renameutils** | 0.12.0-3 | A set of programs designed to make renaming of files faster and less cumbersome | https://www.nongnu.org/renameutils/ |
 | **reptyr** | 0.10.0-1 | Tool for reparenting a running program to a new terminal | https://github.com/nelhage/reptyr |
 | **resolv-conf** | 1.3 | Resolver configuration file | https://man7.org/linux/man-pages/man5/resolv.conf.5.html |
-| **restic** | 0.18.1 | Fast, secure, efficient backup program | https://restic.net/ |
+| **restic** | 0.19.0 | Fast, secure, efficient backup program | https://restic.net/ |
 | **restic-server** | 0.14.0-1 | Restic's REST backend API server | https://restic.net/ |
 | **restish** | 2.2.0 | A CLI for interacting with REST-ish HTTP APIs | https://github.com/rest-sh/restish |
 | **rgbds** | 1.0.1 | Rednex Game Boy Development System - An assembly toolchain for the Nintendo Game Boy & Game Boy Color | https://rgbds.gbdev.io |
