@@ -1007,7 +1007,7 @@
   Description: A cli tool to download specific GitHub directories or files
   Homepage: https://github.com/alok8bb/cloneit
 - Package: cloudflared
-  Version: 2026.5.2
+  Version: 2026.6.0
   Description: A tunneling daemon that proxies traffic from the Cloudflare network to your origins
   Homepage: https://github.com/cloudflare/cloudflared
 - Package: clpeak
@@ -1107,7 +1107,7 @@
   Description: An extractor/converter for .LIT eBooks
   Homepage: http://www.convertlit.com/
 - Package: cookcli
-  Version: 0.30.0
+  Version: 0.31.0
   Description: A suite of tools to create shopping lists and maintain food recipes
   Homepage: https://cooklang.org
 - Package: coreutils
@@ -2143,7 +2143,7 @@
   Description: Static libraries for freetype
   Homepage: https://www.freetype.org
 - Package: frei0r-plugins
-  Version: 3.2.0
+  Version: 3.2.1
   Description: Minimalistic plugin API for video effects
   Homepage: https://www.dyne.org/software/frei0r/
 - Package: fresh-editor
@@ -4947,7 +4947,7 @@
   Description: Static libraries for libmpg123
   Homepage: https://mpg123.org/
 - Package: libmsgpack
-  Version: 7.0.0
+  Version: 7.0.1
   Description: MessagePack implementation for C
   Homepage: https://github.com/msgpack/msgpack-c/
 - Package: libmsgpack-cxx
@@ -4955,7 +4955,7 @@
   Description: msgpack for C++
   Homepage: https://msgpack.org/
 - Package: libmsgpack-static
-  Version: 7.0.0
+  Version: 7.0.1
   Description: Static libraries for libmsgpack
   Homepage: https://github.com/msgpack/msgpack-c/
 - Package: libmuparser
@@ -5311,11 +5311,11 @@
   Description: Static libraries for libplist
   Homepage: https://libimobiledevice.org
 - Package: libpluto
-  Version: 0.12.2
+  Version: 0.13.0
   Description: Shared library for the Pluto interpreter
   Homepage: https://plutolang.github.io/
 - Package: libpluto-static
-  Version: 0.12.2
+  Version: 0.13.0
   Description: Static libraries for libpluto
   Homepage: https://plutolang.github.io/
 - Package: libpng
@@ -5871,7 +5871,7 @@
   Description: Libtorrent BitTorrent library
   Homepage: https://github.com/rakshasa/rtorrent/wiki
 - Package: libtorrent-rasterbar
-  Version: 2.0.12
+  Version: 2.0.13
   Description: A feature complete C++ bittorrent implementation focusing on efficiency and scalability
   Homepage: https://libtorrent.org/
 - Package: libtorrent-static
@@ -6031,7 +6031,7 @@
   Description: Computer vision library
   Homepage: https://ukoethe.github.io/vigra/
 - Package: libvips
-  Version: 8.18.2
+  Version: 8.18.3
   Description: A fast image processing library with low memory needs
   Homepage: https://libvips.github.io/libvips/
 - Package: libvisio
@@ -6431,7 +6431,7 @@
   Description: Fast webserver with minimal memory footprint
   Homepage: https://www.lighttpd.net
 - Package: lilv
-  Version: 0.26.4
+  Version: 0.28.0
   Description: A C library to make the use of LV2 plugins as simple as possible for applications
   Homepage: https://drobilla.net/software/lilv.html
 - Package: lilypond
@@ -8247,7 +8247,7 @@
   Description: Simple command line audio player for Android
   Homepage: https://github.com/termux/play-audio
 - Package: plutolang
-  Version: 0.12.2
+  Version: 0.13.0
   Description: A superset of Lua 5.4 with a focus on general-purpose programming.
   Homepage: https://plutolang.github.io/
 - Package: plutovg
@@ -8387,7 +8387,7 @@
   Description: Emulate chroot, bind mount and binfmt_misc for non-root users
   Homepage: https://proot-me.github.io/
 - Package: proot-distro
-  Version: 5.1.5
+  Version: 5.1.7
   Description: Termux official utility for managing prooted Linux distributions
   Homepage: https://github.com/termux/proot-distro
 - Package: protobuf
@@ -9283,7 +9283,7 @@
   Description: Static libraries for seafile-client
   Homepage: https://seafile.com
 - Package: seanime
-  Version: 3.8.4
+  Version: 3.8.5
   Description: Self-hosted anime and manga server for sea rovers.
   Homepage: https://github.com/5rahim/seanime
 - Package: seccure
@@ -9315,7 +9315,7 @@
   Description: Small utilities used by programs to sensibly select and spawn an appropriate browser, editor, or pager
   Homepage: https://packages.debian.org/sid/sensible-utils
 - Package: serd
-  Version: 0.32.8
+  Version: 0.32.10
   Description: A lightweight C library for RDF syntax
   Homepage: https://drobilla.net/software/serd.html
 - Package: serf
