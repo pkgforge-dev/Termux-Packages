@@ -517,7 +517,7 @@
   },
   {
     "Package": "aspnetcore-runtime-9.0",
-    "Version": "9.0.16",
+    "Version": "9.0.17",
     "Description": "ASP.NET Core 9.0 Runtime",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -535,7 +535,7 @@
   },
   {
     "Package": "aspnetcore-runtime-dbg-9.0",
-    "Version": "9.0.16",
+    "Version": "9.0.17",
     "Description": "ASP.NET Core 9.0 Runtime Managed Debug Symbols",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -553,7 +553,7 @@
   },
   {
     "Package": "aspnetcore-targeting-pack-9.0",
-    "Version": "9.0.16",
+    "Version": "9.0.17",
     "Description": "ASP.NET Core 9.0 Targeting Pack",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2263,7 +2263,7 @@
   },
   {
     "Package": "dotnet-apphost-pack-9.0",
-    "Version": "9.0.16",
+    "Version": "9.0.17",
     "Description": ".NET 9.0 Targeting Pack",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2287,7 +2287,7 @@
   },
   {
     "Package": "dotnet-host-9.0",
-    "Version": "9.0.16",
+    "Version": "9.0.17",
     "Description": ".NET 9.0 Host",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2305,7 +2305,7 @@
   },
   {
     "Package": "dotnet-hostfxr-9.0",
-    "Version": "9.0.16",
+    "Version": "9.0.17",
     "Description": ".NET 9.0 Host Resolver",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2323,7 +2323,7 @@
   },
   {
     "Package": "dotnet-runtime-9.0",
-    "Version": "9.0.16",
+    "Version": "9.0.17",
     "Description": ".NET 9.0 Runtime",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2341,7 +2341,7 @@
   },
   {
     "Package": "dotnet-runtime-dbg-9.0",
-    "Version": "9.0.16",
+    "Version": "9.0.17",
     "Description": ".NET 9.0 Runtime Managed Debug Symbols",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2359,7 +2359,7 @@
   },
   {
     "Package": "dotnet-sdk-9.0",
-    "Version": "9.0.16",
+    "Version": "9.0.17",
     "Description": ".NET 9.0 SDK",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2377,7 +2377,7 @@
   },
   {
     "Package": "dotnet-sdk-dbg-9.0",
-    "Version": "9.0.16",
+    "Version": "9.0.17",
     "Description": ".NET 9.0 SDK Managed Debug Symbols",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2395,7 +2395,7 @@
   },
   {
     "Package": "dotnet-targeting-pack-9.0",
-    "Version": "9.0.16",
+    "Version": "9.0.17",
     "Description": ".NET 9.0 Targeting Pack",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2413,7 +2413,7 @@
   },
   {
     "Package": "dotnet-templates-9.0",
-    "Version": "9.0.16",
+    "Version": "9.0.17",
     "Description": ".NET 9.0 Templates",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2431,7 +2431,7 @@
   },
   {
     "Package": "dotnet9.0",
-    "Version": "9.0.16",
+    "Version": "9.0.17",
     "Description": ".NET 9.0",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -11197,7 +11197,7 @@
   },
   {
     "Package": "netstandard-targeting-pack-2.1-9.0",
-    "Version": "9.0.16",
+    "Version": "9.0.17",
     "Description": "NETStandard.Library 2.1 Targeting Pack (.NET 9.0)",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -11455,7 +11455,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "29.14.0",
+    "Version": "29.15.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -12787,7 +12787,7 @@
   },
   {
     "Package": "python-cryptography",
-    "Version": "48.0.0",
+    "Version": "48.0.1",
     "Description": "Provides cryptographic recipes and primitives to Python developers",
     "Homepage": "https://github.com/pyca/cryptography"
   },
@@ -12991,7 +12991,7 @@
   },
   {
     "Package": "python-yt-dlp",
-    "Version": "2026.03.17",
+    "Version": "2026.06.09",
     "Description": "A youtube-dl fork with additional features and fixes",
     "Homepage": "https://github.com/yt-dlp/yt-dlp"
   },
@@ -13249,7 +13249,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "5.6.2",
+    "Version": "5.8.0",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -13927,7 +13927,7 @@
   },
   {
     "Package": "seanime",
-    "Version": "3.8.5",
+    "Version": "3.8.6",
     "Description": "Self-hosted anime and manga server for sea rovers.",
     "Homepage": "https://github.com/5rahim/seanime"
   },
@@ -14209,19 +14209,19 @@
   },
   {
     "Package": "snowflake",
-    "Version": "2.13.1",
+    "Version": "2.14.0",
     "Description": "Pluggable Transport using WebRTC, inspired by Flashproxy",
     "Homepage": "https://snowflake.torproject.org/"
   },
   {
     "Package": "snowflake-client",
-    "Version": "2.13.1",
+    "Version": "2.14.0",
     "Description": "Pluggable Transport using WebRTC, inspired by Flashproxy (Client)",
     "Homepage": "https://snowflake.torproject.org/"
   },
   {
     "Package": "snowflake-proxy",
-    "Version": "2.13.1",
+    "Version": "2.14.0",
     "Description": "Pluggable Transport using WebRTC, inspired by Flashproxy (Proxy)",
     "Homepage": "https://snowflake.torproject.org/"
   },
@@ -15631,7 +15631,7 @@
   },
   {
     "Package": "turbo",
-    "Version": "2.9.16-1",
+    "Version": "2.9.17",
     "Description": "High-performance build system for JS/TS",
     "Homepage": "https://turborepo.dev/"
   },

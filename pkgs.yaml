@@ -343,7 +343,7 @@
   Description: ASP.NET Core 8.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-runtime-9.0
-  Version: 9.0.16
+  Version: 9.0.17
   Description: ASP.NET Core 9.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-runtime-dbg-10.0
@@ -355,7 +355,7 @@
   Description: ASP.NET Core 8.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-runtime-dbg-9.0
-  Version: 9.0.16
+  Version: 9.0.17
   Description: ASP.NET Core 9.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-targeting-pack-10.0
@@ -367,7 +367,7 @@
   Description: ASP.NET Core 8.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-targeting-pack-9.0
-  Version: 9.0.16
+  Version: 9.0.17
   Description: ASP.NET Core 9.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: assimp
@@ -1507,7 +1507,7 @@
   Description: .NET 8.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-apphost-pack-9.0
-  Version: 9.0.16
+  Version: 9.0.17
   Description: .NET 9.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-host
@@ -1523,7 +1523,7 @@
   Description: .NET 8.0 Host
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-host-9.0
-  Version: 9.0.16
+  Version: 9.0.17
   Description: .NET 9.0 Host
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-hostfxr-10.0
@@ -1535,7 +1535,7 @@
   Description: .NET 8.0 Host Resolver
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-hostfxr-9.0
-  Version: 9.0.16
+  Version: 9.0.17
   Description: .NET 9.0 Host Resolver
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-10.0
@@ -1547,7 +1547,7 @@
   Description: .NET 8.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-9.0
-  Version: 9.0.16
+  Version: 9.0.17
   Description: .NET 9.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-dbg-10.0
@@ -1559,7 +1559,7 @@
   Description: .NET 8.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-dbg-9.0
-  Version: 9.0.16
+  Version: 9.0.17
   Description: .NET 9.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-10.0
@@ -1571,7 +1571,7 @@
   Description: .NET 8.0 SDK
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-9.0
-  Version: 9.0.16
+  Version: 9.0.17
   Description: .NET 9.0 SDK
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-dbg-10.0
@@ -1583,7 +1583,7 @@
   Description: .NET 8.0 SDK Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-dbg-9.0
-  Version: 9.0.16
+  Version: 9.0.17
   Description: .NET 9.0 SDK Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-targeting-pack-10.0
@@ -1595,7 +1595,7 @@
   Description: .NET 8.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-targeting-pack-9.0
-  Version: 9.0.16
+  Version: 9.0.17
   Description: .NET 9.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-templates-10.0
@@ -1607,7 +1607,7 @@
   Description: .NET 8.0 Templates
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-templates-9.0
-  Version: 9.0.16
+  Version: 9.0.17
   Description: .NET 9.0 Templates
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet10.0
@@ -1619,7 +1619,7 @@
   Description: .NET 8.0
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet9.0
-  Version: 9.0.16
+  Version: 9.0.17
   Description: .NET 9.0
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: double-conversion
@@ -7463,7 +7463,7 @@
   Description: NETStandard.Library 2.1 Targeting Pack (.NET 8.0)
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: netstandard-targeting-pack-2.1-9.0
-  Version: 9.0.16
+  Version: 9.0.17
   Description: NETStandard.Library 2.1 Targeting Pack (.NET 9.0)
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: nettle
@@ -7635,7 +7635,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 29.14.0
+  Version: 29.15.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: oidn
@@ -8523,7 +8523,7 @@
   Description: Python library for calculating contours in 2D quadrilateral grids
   Homepage: https://contourpy.readthedocs.io/
 - Package: python-cryptography
-  Version: 48.0.0
+  Version: 48.0.1
   Description: Provides cryptographic recipes and primitives to Python developers
   Homepage: https://github.com/pyca/cryptography
 - Package: python-ensurepip-wheels
@@ -8659,7 +8659,7 @@
   Description: The Python X Library
   Homepage: https://github.com/python-xlib/python-xlib
 - Package: python-yt-dlp
-  Version: 2026.03.17
+  Version: 2026.06.09
   Description: A youtube-dl fork with additional features and fixes
   Homepage: https://github.com/yt-dlp/yt-dlp
 - Package: python2
@@ -8831,7 +8831,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 5.6.2
+  Version: 5.8.0
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
@@ -9283,7 +9283,7 @@
   Description: Static libraries for seafile-client
   Homepage: https://seafile.com
 - Package: seanime
-  Version: 3.8.5
+  Version: 3.8.6
   Description: Self-hosted anime and manga server for sea rovers.
   Homepage: https://github.com/5rahim/seanime
 - Package: seccure
@@ -9471,15 +9471,15 @@
   Description: SNMP trap translator
   Homepage: http://www.snmptt.org/
 - Package: snowflake
-  Version: 2.13.1
+  Version: 2.14.0
   Description: Pluggable Transport using WebRTC, inspired by Flashproxy
   Homepage: https://snowflake.torproject.org/
 - Package: snowflake-client
-  Version: 2.13.1
+  Version: 2.14.0
   Description: Pluggable Transport using WebRTC, inspired by Flashproxy (Client)
   Homepage: https://snowflake.torproject.org/
 - Package: snowflake-proxy
-  Version: 2.13.1
+  Version: 2.14.0
   Description: Pluggable Transport using WebRTC, inspired by Flashproxy (Proxy)
   Homepage: https://snowflake.torproject.org/
 - Package: socat
@@ -10419,7 +10419,7 @@
   Description: A single and trusted place for all unofficial/less popular termux packages
   Homepage: https://github.com/termux-user-repository/tur
 - Package: turbo
-  Version: 2.9.16-1
+  Version: 2.9.17
   Description: High-performance build system for JS/TS
   Homepage: https://turborepo.dev/
 - Package: turbopack
