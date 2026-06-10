@@ -888,6 +888,12 @@
     "Homepage": "https://github.com/aeosynth/bk"
   },
   {
+    "Package": "black-hole-solver",
+    "Version": "1.14.0",
+    "Description": "Black Hole Solver is a solitaire solver for Golf, Black Hole and All in a Row.",
+    "Homepage": "https://fc-solve.shlomifish.org/"
+  },
+  {
     "Package": "blackbox",
     "Version": "1:1.20220610",
     "Description": "Safely store secrets in Git/Mercurial/Subversion",
@@ -2749,13 +2755,13 @@
   },
   {
     "Package": "erlang",
-    "Version": "29.0.1",
+    "Version": "29.0.2",
     "Description": "General-purpose concurrent functional programming language",
     "Homepage": "https://www.erlang.org/"
   },
   {
     "Package": "erlang-doc",
-    "Version": "29.0.1",
+    "Version": "29.0.2",
     "Description": "Erlang HTML documentation",
     "Homepage": "https://www.erlang.org/"
   },
@@ -3184,6 +3190,12 @@
     "Version": "1.7.1-1",
     "Description": "A blazing fast, portable and modular toolkit for Ethereum application development",
     "Homepage": "https://github.com/foundry-rs/foundry"
+  },
+  {
+    "Package": "freecell-solver",
+    "Version": "6.16.0",
+    "Description": "Freecell Solver is an open source library for automatically solving several variants of Solitaire/Patience card games, including Freecell.",
+    "Homepage": "https://fc-solve.shlomifish.org/"
   },
   {
     "Package": "freecolor",
@@ -4441,7 +4453,7 @@
   },
   {
     "Package": "html-xml-utils",
-    "Version": "8.7",
+    "Version": "8.8",
     "Description": "A number of simple utilities for manipulating HTML and XML files",
     "Homepage": "https://www.w3.org/Tools/HTML-XML-utils/"
   },
@@ -5041,7 +5053,7 @@
   },
   {
     "Package": "just",
-    "Version": "1.51.0",
+    "Version": "1.52.0",
     "Description": "A handy way to save and run project-specific commands",
     "Homepage": "https://just.systems"
   },
@@ -5257,7 +5269,7 @@
   },
   {
     "Package": "lesspipe",
-    "Version": "2.26",
+    "Version": "2.27",
     "Description": "An input filter for the pager less",
     "Homepage": "https://lesspipe.org/"
   },
@@ -5629,7 +5641,7 @@
   },
   {
     "Package": "libblosc2",
-    "Version": "3.1.2",
+    "Version": "3.1.3",
     "Description": "A blocking, shuffling and loss-less compression library",
     "Homepage": "https://www.blosc.org"
   },
@@ -7909,7 +7921,7 @@
   },
   {
     "Package": "libpcsclite",
-    "Version": "2.5.0",
+    "Version": "2.5.1",
     "Description": "Middleware to access a smart card using SCard API (PC/SC).",
     "Homepage": "https://pcsclite.apdu.fr/"
   },
@@ -11455,7 +11467,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "29.15.0",
+    "Version": "29.15.1",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -12097,7 +12109,7 @@
   },
   {
     "Package": "pcscd",
-    "Version": "2.5.0",
+    "Version": "2.5.1",
     "Description": "Middleware to access a smart card using SCard API (PC/SC). (daemon side)",
     "Homepage": "https://pcsclite.apdu.fr/"
   },
@@ -12595,7 +12607,7 @@
   },
   {
     "Package": "proton-bridge",
-    "Version": "3.24.2",
+    "Version": "3.25.0",
     "Description": "ProtonMail Bridge application",
     "Homepage": "https://github.com/ProtonMail/proton-bridge"
   },
