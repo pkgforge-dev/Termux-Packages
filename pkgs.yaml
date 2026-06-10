@@ -335,7 +335,7 @@
   Description: Static libraries for aspell
   Homepage: http://aspell.net
 - Package: aspnetcore-runtime-10.0
-  Version: 10.0.8
+  Version: 10.0.9
   Description: ASP.NET Core 10.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-runtime-8.0
@@ -347,7 +347,7 @@
   Description: ASP.NET Core 9.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-runtime-dbg-10.0
-  Version: 10.0.8
+  Version: 10.0.9
   Description: ASP.NET Core 10.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-runtime-dbg-8.0
@@ -359,7 +359,7 @@
   Description: ASP.NET Core 9.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-targeting-pack-10.0
-  Version: 10.0.8
+  Version: 10.0.9
   Description: ASP.NET Core 10.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-targeting-pack-8.0
@@ -899,7 +899,7 @@
   Description: A basic file manager that runs inside a terminal, designed for Linux. Its fully responsive and incredibly fast.
   Homepage: https://github.com/0l1v3rr/cli-file-manager
 - Package: cgal
-  Version: 6.1.1
+  Version: 6.1.2
   Description: Computational Geometry Algorithms Library
   Homepage: https://www.cgal.org/
 - Package: cgdb
@@ -1267,7 +1267,7 @@
   Description: A simple webserver, implemented in a single .c file.
   Homepage: https://unix4lyfe.org/darkhttpd
 - Package: dart
-  Version: 3.12.1
+  Version: 3.12.2
   Description: Dart is a general-purpose programming language
   Homepage: https://dart.dev/
 - Package: dasel
@@ -1503,7 +1503,7 @@
   Description: Static libraries for dotconf
   Homepage: https://github.com/williamh/dotconf
 - Package: dotnet-apphost-pack-10.0
-  Version: 10.0.8
+  Version: 10.0.9
   Description: .NET 10.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-apphost-pack-8.0
@@ -1519,7 +1519,7 @@
   Description: A metapackage for .NET Host
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-host-10.0
-  Version: 10.0.8
+  Version: 10.0.9
   Description: .NET 10.0 Host
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-host-8.0
@@ -1531,7 +1531,7 @@
   Description: .NET 9.0 Host
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-hostfxr-10.0
-  Version: 10.0.8
+  Version: 10.0.9
   Description: .NET 10.0 Host Resolver
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-hostfxr-8.0
@@ -1543,7 +1543,7 @@
   Description: .NET 9.0 Host Resolver
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-10.0
-  Version: 10.0.8
+  Version: 10.0.9
   Description: .NET 10.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-8.0
@@ -1555,7 +1555,7 @@
   Description: .NET 9.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-dbg-10.0
-  Version: 10.0.8
+  Version: 10.0.9
   Description: .NET 10.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-dbg-8.0
@@ -1567,7 +1567,7 @@
   Description: .NET 9.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-10.0
-  Version: 10.0.8
+  Version: 10.0.9
   Description: .NET 10.0 SDK
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-8.0
@@ -1579,7 +1579,7 @@
   Description: .NET 9.0 SDK
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-dbg-10.0
-  Version: 10.0.8
+  Version: 10.0.9
   Description: .NET 10.0 SDK Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-dbg-8.0
@@ -1591,7 +1591,7 @@
   Description: .NET 9.0 SDK Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-targeting-pack-10.0
-  Version: 10.0.8
+  Version: 10.0.9
   Description: .NET 10.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-targeting-pack-8.0
@@ -1603,7 +1603,7 @@
   Description: .NET 9.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-templates-10.0
-  Version: 10.0.8
+  Version: 10.0.9
   Description: .NET 10.0 Templates
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-templates-8.0
@@ -1615,7 +1615,7 @@
   Description: .NET 9.0 Templates
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet10.0
-  Version: 10.0.8
+  Version: 10.0.9
   Description: .NET 10.0
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet8.0
@@ -2155,7 +2155,7 @@
   Description: Minimalistic plugin API for video effects
   Homepage: https://www.dyne.org/software/frei0r/
 - Package: fresh-editor
-  Version: 0.3.12
+  Version: 0.4.0
   Description: 'Text editor for your terminal: easy, powerful and fast'
   Homepage: https://getfresh.dev/
 - Package: fribidi
@@ -6475,15 +6475,15 @@
   Description: Color management utilities
   Homepage: http://www.littlecms.com/
 - Package: llama-cpp
-  Version: 0.0.0-b9360-0
+  Version: 0.0.0-b9590-0
   Description: LLM inference in C/C++
   Homepage: https://github.com/ggml-org/llama.cpp
 - Package: llama-cpp-backend-opencl
-  Version: 0.0.0-b9360-0
+  Version: 0.0.0-b9590-0
   Description: OpenCL Backend for LLaMA.cpp
   Homepage: https://github.com/ggml-org/llama.cpp
 - Package: llama-cpp-backend-vulkan
-  Version: 0.0.0-b9360-0
+  Version: 0.0.0-b9590-0
   Description: Vulkan Backend for LLaMA.cpp
   Homepage: https://github.com/ggml-org/llama.cpp
 - Package: llbuild
@@ -7715,8 +7715,12 @@
   Description: Software implementation of the OpenAL API
   Homepage: https://openal-soft.org/
 - Package: openbabel
-  Version: 3.1.1-14
+  Version: 3.2.0
   Description: Open Babel is a chemical toolbox designed to speak the many languages of chemical data
+  Homepage: http://openbabel.org/wiki/Main_Page
+- Package: openbabel-static
+  Version: 3.2.0
+  Description: Static libraries for openbabel
   Homepage: http://openbabel.org/wiki/Main_Page
 - Package: opencc-tools
   Version: 1.3.1
@@ -7891,7 +7895,7 @@
   Description: Small, fast and limited text editor
   Homepage: https://roboticoverlords.org/orbiton/
 - Package: osm2pgsql
-  Version: 2.2.0-2
+  Version: 2.3.0
   Description: osm2pgsql imports OpenStreetMap (OSM) data into a PostgreSQL/PostGIS database
   Homepage: https://osm2pgsql.org/
 - Package: osmctools
@@ -7967,7 +7971,7 @@
   Description: Archive OpenPGP keys on paper
   Homepage: http://www.jabberwocky.com/software/paperkey/
 - Package: par2
-  Version: 1.1.1
+  Version: 1.2.0
   Description: par2cmdline is a PAR 2.0 compatible file verification and repair tool
   Homepage: https://github.com/Parchive/par2cmdline
 - Package: parallel
@@ -8391,7 +8395,7 @@
   Description: Generic coordinate transformation software
   Homepage: https://proj.org
 - Package: proot
-  Version: 5.1.107.77
+  Version: 5.1.107.78-1
   Description: Emulate chroot, bind mount and binfmt_misc for non-root users
   Homepage: https://proot-me.github.io/
 - Package: proot-distro
@@ -9691,7 +9695,7 @@
   Description: A command-line tool which uses libstemmer
   Homepage: https://snowballstem.org/
 - Package: step-cli
-  Version: 0.30.4
+  Version: 0.30.5
   Description: An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows
   Homepage: https://smallstep.com/cli
 - Package: stfl
@@ -9719,7 +9723,7 @@
   Description: A TCP/IP repeater in the application layer
   Homepage: https://www.gcd.org/sengoku/stone/
 - Package: storj-uplink
-  Version: 1.155.5
+  Version: 1.155.7
   Description: Storj DCS Uplink CLI
   Homepage: https://www.storj.io/integrations/uplink-cli
 - Package: stow
@@ -10199,7 +10203,7 @@
   Description: toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library
   Homepage: https://github.com/ToruNiina/toml11
 - Package: topgrade
-  Version: 17.5.1
+  Version: 17.6.1
   Description: Upgrade all the things
   Homepage: https://github.com/topgrade-rs/topgrade/
 - Package: tor
@@ -10459,7 +10463,7 @@
   Description: A small and powerful JavaScript runtime
   Homepage: https://github.com/saghul/txiki.js
 - Package: ty
-  Version: 0.0.46
+  Version: 0.0.47
   Description: An extremely fast Python type checker and language server, written in Rust
   Homepage: https://github.com/astral-sh/ty
 - Package: typst
@@ -10619,7 +10623,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.11.19
+  Version: 0.11.20
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
@@ -11283,7 +11287,7 @@
   Description: Zstandard compression
   Homepage: https://github.com/facebook/zstd
 - Package: zsync
-  Version: 0.6.4
+  Version: 0.7.1
   Description: A file transfer program to download files from remote web servers
   Homepage: https://zsync.moria.org.uk/
 - Package: zziplib

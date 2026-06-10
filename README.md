@@ -94,13 +94,13 @@
 | **aspell-es** | 2:1.11-2-0 | Spanish dictionary for aspell | http://aspell.net/ |
 | **aspell-fr** | 2:0.50-3-1 | French dictionary for aspell | http://aspell.net/ |
 | **aspell-static** | 0.60.8.2 | Static libraries for aspell | http://aspell.net |
-| **aspnetcore-runtime-10.0** | 10.0.8 | ASP.NET Core 10.0 Runtime | https://dotnet.microsoft.com/en-us/ |
+| **aspnetcore-runtime-10.0** | 10.0.9 | ASP.NET Core 10.0 Runtime | https://dotnet.microsoft.com/en-us/ |
 | **aspnetcore-runtime-8.0** | 8.0.28 | ASP.NET Core 8.0 Runtime | https://dotnet.microsoft.com/en-us/ |
 | **aspnetcore-runtime-9.0** | 9.0.17 | ASP.NET Core 9.0 Runtime | https://dotnet.microsoft.com/en-us/ |
-| **aspnetcore-runtime-dbg-10.0** | 10.0.8 | ASP.NET Core 10.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
+| **aspnetcore-runtime-dbg-10.0** | 10.0.9 | ASP.NET Core 10.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
 | **aspnetcore-runtime-dbg-8.0** | 8.0.28 | ASP.NET Core 8.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
 | **aspnetcore-runtime-dbg-9.0** | 9.0.17 | ASP.NET Core 9.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
-| **aspnetcore-targeting-pack-10.0** | 10.0.8 | ASP.NET Core 10.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
+| **aspnetcore-targeting-pack-10.0** | 10.0.9 | ASP.NET Core 10.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **aspnetcore-targeting-pack-8.0** | 8.0.28 | ASP.NET Core 8.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **aspnetcore-targeting-pack-9.0** | 9.0.17 | ASP.NET Core 9.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **assimp** | 6.0.5 | Library to import various well-known 3D model formats in an uniform manner | https://assimp.sourceforge.net/index.html |
@@ -235,7 +235,7 @@
 | **cfengine** | 1:3.27.0 | CFEngine is a configuration management technology | https://cfengine.com/ |
 | **cfengine-static** | 1:3.27.0 | Static libraries for cfengine | https://cfengine.com/ |
 | **cfm** | 1.2.0-3 | A basic file manager that runs inside a terminal, designed for Linux. It's fully responsive and incredibly fast. | https://github.com/0l1v3rr/cli-file-manager |
-| **cgal** | 6.1.1 | Computational Geometry Algorithms Library | https://www.cgal.org/ |
+| **cgal** | 6.1.2 | Computational Geometry Algorithms Library | https://www.cgal.org/ |
 | **cgdb** | 0.8.0-1 | A lightweight curses (terminal-based) interface to the GNU Debugger (GDB) | https://cgdb.github.io/ |
 | **cgif** | 0.5.3 | A fast and lightweight GIF encoding library | https://github.com/dloebl/cgif |
 | **chafa** | 1.18.2 | Image-to-text converter supporting a wide range of symbols, etc. | https://hpjansson.org/chafa/ |
@@ -327,7 +327,7 @@
 | **dar** | 2.8.5 | A full featured command-line backup tool, short for Disk ARchive | http://dar.linux.free.fr/ |
 | **dar-static** | 2.8.5 | Static libraries for dar | http://dar.linux.free.fr/ |
 | **darkhttpd** | 1.17-1 | A simple webserver, implemented in a single .c file. | https://unix4lyfe.org/darkhttpd |
-| **dart** | 3.12.1 | Dart is a general-purpose programming language | https://dart.dev/ |
+| **dart** | 3.12.2 | Dart is a general-purpose programming language | https://dart.dev/ |
 | **dasel** | 3.11.0 | Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility | https://github.com/TomWright/dasel |
 | **dash** | 0.5.12-2 | Small POSIX-compliant implementation of /bin/sh | http://gondor.apana.org.au/~herbert/dash/ |
 | **dasm** | 2.20.14.1-1 | Macro assembler with support for several 8-bit microprocessors | https://dasm-dillon.sourceforge.io/ |
@@ -386,35 +386,35 @@
 | **dosfstools** | 4.2-1 | DOS file system utilities | https://github.com/dosfstools/dosfstools |
 | **dotconf** | 1.4.1-1 | dot.conf configuration file parser | https://github.com/williamh/dotconf |
 | **dotconf-static** | 1.4.1-1 | Static libraries for dotconf | https://github.com/williamh/dotconf |
-| **dotnet-apphost-pack-10.0** | 10.0.8 | .NET 10.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-apphost-pack-10.0** | 10.0.9 | .NET 10.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-apphost-pack-8.0** | 8.0.28 | .NET 8.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-apphost-pack-9.0** | 9.0.17 | .NET 9.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-host** | 10.0 | A metapackage for .NET Host | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-host-10.0** | 10.0.8 | .NET 10.0 Host | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-host-10.0** | 10.0.9 | .NET 10.0 Host | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-host-8.0** | 8.0.28 | .NET 8.0 Host | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-host-9.0** | 9.0.17 | .NET 9.0 Host | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-hostfxr-10.0** | 10.0.8 | .NET 10.0 Host Resolver | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-hostfxr-10.0** | 10.0.9 | .NET 10.0 Host Resolver | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-hostfxr-8.0** | 8.0.28 | .NET 8.0 Host Resolver | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-hostfxr-9.0** | 9.0.17 | .NET 9.0 Host Resolver | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-runtime-10.0** | 10.0.8 | .NET 10.0 Runtime | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-runtime-10.0** | 10.0.9 | .NET 10.0 Runtime | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-runtime-8.0** | 8.0.28 | .NET 8.0 Runtime | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-runtime-9.0** | 9.0.17 | .NET 9.0 Runtime | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-runtime-dbg-10.0** | 10.0.8 | .NET 10.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-runtime-dbg-10.0** | 10.0.9 | .NET 10.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-runtime-dbg-8.0** | 8.0.28 | .NET 8.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-runtime-dbg-9.0** | 9.0.17 | .NET 9.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-sdk-10.0** | 10.0.8 | .NET 10.0 SDK | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-sdk-10.0** | 10.0.9 | .NET 10.0 SDK | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-sdk-8.0** | 8.0.28 | .NET 8.0 SDK | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-sdk-9.0** | 9.0.17 | .NET 9.0 SDK | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-sdk-dbg-10.0** | 10.0.8 | .NET 10.0 SDK Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-sdk-dbg-10.0** | 10.0.9 | .NET 10.0 SDK Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-sdk-dbg-8.0** | 8.0.28 | .NET 8.0 SDK Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-sdk-dbg-9.0** | 9.0.17 | .NET 9.0 SDK Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-targeting-pack-10.0** | 10.0.8 | .NET 10.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-targeting-pack-10.0** | 10.0.9 | .NET 10.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-targeting-pack-8.0** | 8.0.28 | .NET 8.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-targeting-pack-9.0** | 9.0.17 | .NET 9.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-templates-10.0** | 10.0.8 | .NET 10.0 Templates | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-templates-10.0** | 10.0.9 | .NET 10.0 Templates | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-templates-8.0** | 8.0.28 | .NET 8.0 Templates | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-templates-9.0** | 9.0.17 | .NET 9.0 Templates | https://dotnet.microsoft.com/en-us/ |
-| **dotnet10.0** | 10.0.8 | .NET 10.0 | https://dotnet.microsoft.com/en-us/ |
+| **dotnet10.0** | 10.0.9 | .NET 10.0 | https://dotnet.microsoft.com/en-us/ |
 | **dotnet8.0** | 8.0.28 | .NET 8.0 | https://dotnet.microsoft.com/en-us/ |
 | **dotnet9.0** | 9.0.17 | .NET 9.0 | https://dotnet.microsoft.com/en-us/ |
 | **double-conversion** | 3.4.0 | Binary-decimal and decimal-binary routines for IEEE doubles | https://github.com/google/double-conversion |
@@ -549,7 +549,7 @@
 | **freetype** | 2.14.3 | Software font engine capable of producing high-quality output | https://www.freetype.org |
 | **freetype-static** | 2.14.3 | Static libraries for freetype | https://www.freetype.org |
 | **frei0r-plugins** | 3.2.1 | Minimalistic plugin API for video effects | https://www.dyne.org/software/frei0r/ |
-| **fresh-editor** | 0.3.12 | Text editor for your terminal: easy, powerful and fast | https://getfresh.dev/ |
+| **fresh-editor** | 0.4.0 | Text editor for your terminal: easy, powerful and fast | https://getfresh.dev/ |
 | **fribidi** | 1.0.16-1 | Implementation of the Unicode Bidirectional Algorithm | https://github.com/fribidi/fribidi/ |
 | **fribidi-static** | 1.0.16-1 | Static libraries for fribidi | https://github.com/fribidi/fribidi/ |
 | **frobtads** | 2.0-5 | TADS is a free authoring system for writing your own Interactive Fiction | http://www.tads.org/frobtads.htm |
@@ -1629,9 +1629,9 @@
 | **littlecms** | 2.19.1 | Color management library | http://www.littlecms.com/ |
 | **littlecms-static** | 2.19.1 | Static libraries for littlecms | http://www.littlecms.com/ |
 | **littlecms-utils** | 2.19.1 | Color management utilities | http://www.littlecms.com/ |
-| **llama-cpp** | 0.0.0-b9360-0 | LLM inference in C/C++ | https://github.com/ggml-org/llama.cpp |
-| **llama-cpp-backend-opencl** | 0.0.0-b9360-0 | OpenCL Backend for LLaMA.cpp | https://github.com/ggml-org/llama.cpp |
-| **llama-cpp-backend-vulkan** | 0.0.0-b9360-0 | Vulkan Backend for LLaMA.cpp | https://github.com/ggml-org/llama.cpp |
+| **llama-cpp** | 0.0.0-b9590-0 | LLM inference in C/C++ | https://github.com/ggml-org/llama.cpp |
+| **llama-cpp-backend-opencl** | 0.0.0-b9590-0 | OpenCL Backend for LLaMA.cpp | https://github.com/ggml-org/llama.cpp |
+| **llama-cpp-backend-vulkan** | 0.0.0-b9590-0 | Vulkan Backend for LLaMA.cpp | https://github.com/ggml-org/llama.cpp |
 | **llbuild** | 6.2.1 | A low-level build system, used by the Swift Package Manager | https://github.com/swiftlang/swift-llbuild |
 | **lld** | 21.1.8-2 | LLVM-based linker | https://clang.llvm.org/ |
 | **lldb** | 21.1.8-2 | LLVM-based debugger | https://clang.llvm.org/ |
@@ -1939,7 +1939,8 @@
 | **oorexx-static** | 4.2.0-4 | Static libraries for oorexx | https://www.oorexx.org/ |
 | **open-adventure** | 1.21 | Forward-port of the original Colossal Cave Adventure from 1976-77 | http://www.catb.org/~esr/open-adventure/ |
 | **openal-soft** | 1.25.2-1 | Software implementation of the OpenAL API | https://openal-soft.org/ |
-| **openbabel** | 3.1.1-14 | Open Babel is a chemical toolbox designed to speak the many languages of chemical data | http://openbabel.org/wiki/Main_Page |
+| **openbabel** | 3.2.0 | Open Babel is a chemical toolbox designed to speak the many languages of chemical data | http://openbabel.org/wiki/Main_Page |
+| **openbabel-static** | 3.2.0 | Static libraries for openbabel | http://openbabel.org/wiki/Main_Page |
 | **opencc-tools** | 1.3.1 | Command-line tools for OpenCC | https://github.com/BYVoid/OpenCC |
 | **opencl-clhpp** | 2026.05.29 | Khronos OpenCL C++ Headers | https://github.com/KhronosGroup/OpenCL-CLHPP |
 | **opencl-headers** | 2026.05.29 | Khronos OpenCL-Headers | https://github.com/KhronosGroup/OpenCL-Headers |
@@ -1983,7 +1984,7 @@
 | **opusfile-static** | 0.12-4 | Static libraries for opusfile | https://www.opus-codec.org/ |
 | **opustags** | 1.10.1 | Ogg Opus tags editor | https://github.com/fmang/opustags |
 | **orbiton** | 2.74.3 | Small, fast and limited text editor | https://roboticoverlords.org/orbiton/ |
-| **osm2pgsql** | 2.2.0-2 | osm2pgsql imports OpenStreetMap (OSM) data into a PostgreSQL/PostGIS database | https://osm2pgsql.org/ |
+| **osm2pgsql** | 2.3.0 | osm2pgsql imports OpenStreetMap (OSM) data into a PostgreSQL/PostGIS database | https://osm2pgsql.org/ |
 | **osmctools** | 0.9-3 | Simple tools for OpenStreetMap processing | https://gitlab.com/osm-c-tools/osmctools |
 | **osmium-tool** | 1.19.0 | A multipurpose command line tool based on the Osmium Library | https://osmcode.org/osmium-tool/ |
 | **osslsigncode** | 2.13 | OpenSSL based Authenticode signing for PE/MSI/Java CAB files | https://github.com/mtrojnar/osslsigncode |
@@ -2002,7 +2003,7 @@
 | **pandoc** | 3.9 | Universal markup converter | https://pandoc.org/ |
 | **pango** | 1.57.1 | Library for laying out and rendering text | https://www.gtk.org/docs/architecture/pango |
 | **paperkey** | 1.6-1 | Archive OpenPGP keys on paper | http://www.jabberwocky.com/software/paperkey/ |
-| **par2** | 1.1.1 | par2cmdline is a PAR 2.0 compatible file verification and repair tool | https://github.com/Parchive/par2cmdline |
+| **par2** | 1.2.0 | par2cmdline is a PAR 2.0 compatible file verification and repair tool | https://github.com/Parchive/par2cmdline |
 | **parallel** | 20260522 | GNU Parallel is a shell tool for executing jobs in parallel using one or more machines | https://www.gnu.org/software/parallel/ |
 | **pari** | 2.17.3 | A computer algebra system designed for fast computations in number theory | https://pari.math.u-bordeaux.fr/ |
 | **pari-static** | 2.17.3 | Static libraries for pari | https://pari.math.u-bordeaux.fr/ |
@@ -2108,7 +2109,7 @@
 | **profanity** | 0.18.2 | Profanity is a console based XMPP client written in C using ncurses and libstrophe, inspired by Irssi | https://profanity-im.github.io |
 | **progress** | 0.17-1 | Linux tool to show progress for cp, mv, dd and more | https://github.com/Xfennec/progress |
 | **proj** | 9.8.1 | Generic coordinate transformation software | https://proj.org |
-| **proot** | 5.1.107.77 | Emulate chroot, bind mount and binfmt_misc for non-root users | https://proot-me.github.io/ |
+| **proot** | 5.1.107.78-1 | Emulate chroot, bind mount and binfmt_misc for non-root users | https://proot-me.github.io/ |
 | **proot-distro** | 5.1.7 | Termux official utility for managing proot'ed Linux distributions | https://github.com/termux/proot-distro |
 | **protobuf** | 2:33.1-1 | Compiler for protocol buffer definition files | https://github.com/protocolbuffers/protobuf |
 | **proton-bridge** | 3.25.0 | ProtonMail Bridge application | https://github.com/ProtonMail/proton-bridge |
@@ -2433,14 +2434,14 @@
 | **stdoutisatty** | 1.0-1 | Patch the isatty() calls for colored output in pipeline | https://github.com/lilydjwg/stdoutisatty |
 | **steghide** | 0.5.1-8 | Embeds a message in a file by replacing some of the least significant bits | https://steghide.sourceforge.net/ |
 | **stemwords** | 3.0.1 | A command-line tool which uses libstemmer | https://snowballstem.org/ |
-| **step-cli** | 0.30.4 | An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows | https://smallstep.com/cli |
+| **step-cli** | 0.30.5 | An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows | https://smallstep.com/cli |
 | **stfl** | 0.24-7 | Structured Terminal Forms Language/Library | http://www.clifford.at/stfl |
 | **stfl-static** | 0.24-7 | Static libraries for stfl | http://www.clifford.at/stfl |
 | **stockfish** | 18 | Free and strong UCI chess engine | https://stockfishchess.org/ |
 | **stoken** | 0.93-3 | Software Token for Linux/UNIX | https://github.com/cernekee/stoken |
 | **stoken-static** | 0.93-3 | Static libraries for stoken | https://github.com/cernekee/stoken |
 | **stone** | 2.4-3 | A TCP/IP repeater in the application layer | https://www.gcd.org/sengoku/stone/ |
-| **storj-uplink** | 1.155.5 | Storj DCS Uplink CLI | https://www.storj.io/integrations/uplink-cli |
+| **storj-uplink** | 1.155.7 | Storj DCS Uplink CLI | https://www.storj.io/integrations/uplink-cli |
 | **stow** | 2.4.1 | Tool for managing the installation of multiple software packages into a single directory | https://www.gnu.org/software/stow/ |
 | **strace** | 7.0 | Debugging utility to monitor system calls and signals received | https://strace.io/ |
 | **streamripper** | 1.64.6-3 | Records and splits streaming mp3 into tracks | https://streamripper.sourceforge.net/ |
@@ -2560,7 +2561,7 @@
 | **tokei** | 14.0.0 | A blazingly fast CLOC (Count Lines Of Code) program | https://github.com/XAMPPRocky/tokei |
 | **tome2** | 2025.12.13-1 | An open world roguelike adventure set in middle earth | https://github.com/tome2/tome2 |
 | **toml11** | 4.4.0 | toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library | https://github.com/ToruNiina/toml11 |
-| **topgrade** | 17.5.1 | Upgrade all the things | https://github.com/topgrade-rs/topgrade/ |
+| **topgrade** | 17.6.1 | Upgrade all the things | https://github.com/topgrade-rs/topgrade/ |
 | **tor** | 0.4.9.9 | The Onion Router anonymizing overlay network | https://www.torproject.org |
 | **torsocks** | 2.5.0-1 | Wrapper to safely torify applications | https://gitlab.torproject.org/tpo/core/torsocks |
 | **torsocks-static** | 2.5.0-1 | Static libraries for torsocks | https://gitlab.torproject.org/tpo/core/torsocks |
@@ -2625,7 +2626,7 @@
 | **tweego** | 2.1.1-4 | A free command line compiler for Twine/Twee story formats | https://bitbucket.org/tmedwards/tweego |
 | **twolame** | 0.4.0-1 | The frontend for libtwolame | https://www.twolame.org/ |
 | **txikijs** | 1:26.5.0 | A small and powerful JavaScript runtime | https://github.com/saghul/txiki.js |
-| **ty** | 0.0.46 | An extremely fast Python type checker and language server, written in Rust | https://github.com/astral-sh/ty |
+| **ty** | 0.0.47 | An extremely fast Python type checker and language server, written in Rust | https://github.com/astral-sh/ty |
 | **typst** | 0.14.2 | A new markup-based typesetting system that is powerful and easy to learn | https://typst.app/ |
 | **typstfmt** | 0.2.10-1 | basic formatter for the Typst language | https://github.com/astrale-sharp/typstfmt |
 | **uchardet** | 0.0.8-2 | An encoding detector utility | https://www.freedesktop.org/wiki/Software/uchardet/ |
@@ -2665,7 +2666,7 @@
 | **util-linux-static** | 2.42.1 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-2 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.42.1 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **uv** | 0.11.19 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
+| **uv** | 0.11.20 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.31-1 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.49.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.19 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
@@ -2831,7 +2832,7 @@
 | **zsh-completions** | 0.36.0 | Additional completion definitions for Zsh | https://github.com/zsh-users/zsh-completions |
 | **zssh** | 1.5c-2 | A program for interactively transferring files to a remote machine while using the secure shell (ssh) | https://zssh.sourceforge.net/ |
 | **zstd** | 1.5.7-1 | Zstandard compression | https://github.com/facebook/zstd |
-| **zsync** | 0.6.4 | A file transfer program to download files from remote web servers | https://zsync.moria.org.uk/ |
+| **zsync** | 0.7.1 | A file transfer program to download files from remote web servers | https://zsync.moria.org.uk/ |
 | **zziplib** | 0.13.80-1 | Provides read access to zipped files in a zip-archive, using compression based on free algorithms | https://zziplib.sourceforge.net/ |
 | **zzuf** | 2022.05.29-1 | A transparent application input fuzzer | http://caca.zoy.org/wiki/zzuf |
 | **zzuf-static** | 2022.05.29-1 | Static libraries for zzuf | http://caca.zoy.org/wiki/zzuf |
