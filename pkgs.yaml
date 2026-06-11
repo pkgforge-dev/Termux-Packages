@@ -1327,7 +1327,7 @@
   Description: A debugger for the Go programming language
   Homepage: https://github.com/go-delve/delve
 - Package: deno
-  Version: 1:2.8.2
+  Version: 1:2.8.3
   Description: A modern runtime for JavaScript and TypeScript
   Homepage: https://deno.land/
 - Package: desed
@@ -5495,7 +5495,7 @@
   Description: Static libraries for librttopo
   Homepage: https://git.osgeo.org/gitea/rttopo/librttopo
 - Package: librusty-v8
-  Version: 1:2.8.2
+  Version: 1:2.8.3
   Description: High quality Rust bindings to V8s C++ API
   Homepage: https://deno.land/
 - Package: libsamplerate
@@ -8607,7 +8607,7 @@
   Description: PPM compression/decompression library
   Homepage: https://github.com/miurahr/pyppmd
 - Package: python-ruff
-  Version: 0.15.16
+  Version: 0.15.17
   Description: An extremely fast Python linter, written in Rust (Python bindings)
   Homepage: https://github.com/charliermarsh/ruff
 - Package: python-sabyenc3
@@ -9123,7 +9123,7 @@
   Description: Ruby documentation index
   Homepage: https://www.ruby-lang.org/
 - Package: ruff
-  Version: 0.15.16
+  Version: 0.15.17
   Description: An extremely fast Python linter, written in Rust
   Homepage: https://github.com/charliermarsh/ruff
 - Package: runit
@@ -10619,7 +10619,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.11.20
+  Version: 0.11.21
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi

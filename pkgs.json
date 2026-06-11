@@ -1993,7 +1993,7 @@
   },
   {
     "Package": "deno",
-    "Version": "1:2.8.2",
+    "Version": "1:2.8.3",
     "Description": "A modern runtime for JavaScript and TypeScript",
     "Homepage": "https://deno.land/"
   },
@@ -8245,7 +8245,7 @@
   },
   {
     "Package": "librusty-v8",
-    "Version": "1:2.8.2",
+    "Version": "1:2.8.3",
     "Description": "High quality Rust bindings to V8s C++ API",
     "Homepage": "https://deno.land/"
   },
@@ -12913,7 +12913,7 @@
   },
   {
     "Package": "python-ruff",
-    "Version": "0.15.16",
+    "Version": "0.15.17",
     "Description": "An extremely fast Python linter, written in Rust (Python bindings)",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -13687,7 +13687,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.15.16",
+    "Version": "0.15.17",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -15931,7 +15931,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.11.20",
+    "Version": "0.11.21",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
