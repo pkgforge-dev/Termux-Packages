@@ -3003,7 +3003,7 @@
   Description: Command-line wrapper for git that makes you better at GitHub
   Homepage: https://hub.github.com/
 - Package: hugo
-  Version: 0.163.0
+  Version: 0.163.1
   Description: A fast and flexible static site generator
   Homepage: https://gohugo.io/
 - Package: hummin
@@ -6895,7 +6895,7 @@
   Description: A preprocessor for utilizing an MDBook as slides for a presentation
   Homepage: https://github.com/FreeMasen/mdbook-presentation-preprocessor
 - Package: mdbook-svgbob
-  Version: 0.2.2-1
+  Version: 0.3.0
   Description: SvgBob mdbook preprocessor which swaps code-blocks with neat SVG
   Homepage: https://github.com/boozook/mdbook-svgbob
 - Package: mdbook-svgbob2
@@ -7559,7 +7559,7 @@
   Description: Thread-based email index, search and tagging system
   Homepage: https://notmuchmail.org
 - Package: npm
-  Version: 11.16.0
+  Version: 11.17.0
   Description: The package manager for JavaScript
   Homepage: https://docs.npmjs.com/cli/
 - Package: npush
@@ -8483,15 +8483,15 @@
   Description: Tkinter support for PyPy
   Homepage: https://pypy.org
 - Package: pypy3
-  Version: 7.3.23
+  Version: 7.3.23-1
   Description: A fast, compliant alternative implementation of Python 3
   Homepage: https://pypy.org
 - Package: pypy3-tests
-  Version: 7.3.23
+  Version: 7.3.23-1
   Description: Test files for PyPy 3
   Homepage: https://pypy.org
 - Package: pypy3-tkinter
-  Version: 7.3.23
+  Version: 7.3.23-1
   Description: Tkinter support for PyPy 3
   Homepage: https://pypy.org
 - Package: pyrefly
@@ -8563,7 +8563,7 @@
   Description: Python binding for the libxml2 and libxslt libraries
   Homepage: https://github.com/lxml/lxml
 - Package: python-msgpack
-  Version: 1.1.2-2
+  Version: 1.2.0
   Description: MessagePack serializer implementation for Python
   Homepage: https://github.com/msgpack/msgpack-python
 - Package: python-numpy
@@ -8839,7 +8839,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 5.9.1
+  Version: 5.12.0
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
