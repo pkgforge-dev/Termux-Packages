@@ -691,7 +691,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.35.1-1",
+    "Version": "2.35.2",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -3547,7 +3547,7 @@
   },
   {
     "Package": "gh",
-    "Version": "2.93.0",
+    "Version": "2.94.0",
     "Description": "GitHub’s official command line tool",
     "Homepage": "https://cli.github.com/"
   },
@@ -10417,7 +10417,7 @@
   },
   {
     "Package": "mediamtx",
-    "Version": "1.19.0",
+    "Version": "1.19.1",
     "Description": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy",
     "Homepage": "https://github.com/bluenviron/mediamtx"
   },
@@ -10585,7 +10585,7 @@
   },
   {
     "Package": "mise",
-    "Version": "2026.6.1",
+    "Version": "2026.6.2",
     "Description": "dev tools, env vars, task runner",
     "Homepage": "https://mise.jdx.dev/"
   },
@@ -11125,7 +11125,7 @@
   },
   {
     "Package": "neovim",
-    "Version": "0.12.2",
+    "Version": "0.12.3",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim)",
     "Homepage": "https://neovim.io/"
   },
@@ -14545,7 +14545,7 @@
   },
   {
     "Package": "step-cli",
-    "Version": "0.30.5",
+    "Version": "0.30.6",
     "Description": "An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows",
     "Homepage": "https://smallstep.com/cli"
   },
@@ -15649,7 +15649,7 @@
   },
   {
     "Package": "turbo",
-    "Version": "2.9.17",
+    "Version": "2.9.18",
     "Description": "High-performance build system for JS/TS",
     "Homepage": "https://turborepo.dev/"
   },
@@ -15697,7 +15697,7 @@
   },
   {
     "Package": "ty",
-    "Version": "0.0.47",
+    "Version": "0.0.48",
     "Description": "An extremely fast Python type checker and language server, written in Rust",
     "Homepage": "https://github.com/astral-sh/ty"
   },

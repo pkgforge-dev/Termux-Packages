@@ -113,7 +113,7 @@
  aview  1.3.0rc1-6  High quality ascii-art image browser and animation player  https://aa-project.sourceforge.net/aview/ 
  avra  1.4.2-1  Assember for the Atmel AVR microcontroller family  https://github.com/Ro5bert/avra 
  await  2.6.0  Runs list of commands in parallel and waits for their termination  https://github.com/slavaGanzin/await 
- awscli  2.35.1-1  Universal Command Line Interface for Amazon Web Services  https://aws.amazon.com/cli 
+ awscli  2.35.2  Universal Command Line Interface for Amazon Web Services  https://aws.amazon.com/cli 
  axel  2.17.14-1  light command line download accelerator  https://github.com/axel-download-accelerator/axel 
  b3sum  1.8.5  A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum  https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum 
  babl  0.1.126  Dynamic pixel format translation library  https://gegl.org/babl/ 
@@ -589,7 +589,7 @@
  gflags  2.3.0  A C++ library that implements commandline flags processing  https://github.com/gflags/gflags 
  gflags-static  2.3.0  Static libraries for gflags  https://github.com/gflags/gflags 
  gforth  0.7.3-3  The Forth implementation of the GNU project  https://www.gnu.org/software/gforth/ 
- gh  2.93.0  GitHub’s official command line tool  https://cli.github.com/ 
+ gh  2.94.0  GitHub’s official command line tool  https://cli.github.com/ 
  ghc  9.12.2-2  The Glasgow Haskell Compiler  https://www.haskell.org/ghc/ 
  ghostscript  10.07.1  Interpreter for the PostScript language and for PDF  https://www.ghostscript.com/ 
  giflib  5.2.2-2  A library for reading and writing gif images  https://giflib.sourceforge.net/ 
@@ -1734,7 +1734,7 @@
  mdp  1.0.18-1  Command-line based markdown presentation tool  https://github.com/visit1985/mdp 
  media-types  14.0.0  List of standard media types and their usual file extension  https://pagure.io/mailcap 
  mediainfo  26.05  Command-line utility for reading information from media files  https://mediaarea.net/en/MediaInfo 
- mediamtx  1.19.0  Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy  https://github.com/bluenviron/mediamtx 
+ mediamtx  1.19.1  Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy  https://github.com/bluenviron/mediamtx 
  megacmd  2.5.2  Provides non UI access to MEGA services  https://mega.io/ 
  megatools  1.11.5.20250706-1  Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage  https://xff.cz/megatools/ 
  memcached  1.6.42  Free & open source, high-performance, distributed memory object caching system  https://memcached.org/ 
@@ -1762,7 +1762,7 @@
  miniupnpc-static  2.3.3-1  Static libraries for miniupnpc  https://miniupnp.tuxfamily.org/ 
  minizinc  2.9.7  A medium-level constraint modelling language  https://github.com/MiniZinc/libminizinc 
  minizinc-static  2.9.7  Static libraries for minizinc  https://github.com/MiniZinc/libminizinc 
- mise  2026.6.1  dev tools, env vars, task runner  https://mise.jdx.dev/ 
+ mise  2026.6.2  dev tools, env vars, task runner  https://mise.jdx.dev/ 
  mkbootimg  2022.11.09-1  Maintained fork with android's mkbootimg and unpackbootimg  https://github.com/osm0sis/mkbootimg 
  mkp224o  1.7.0-1  Generate vanity ed25519 (hidden service version 3) onion addresses  https://github.com/cathugger/mkp224o 
  mksh  59c-3  The MirBSD Korn Shell - an enhanced version of the public domain ksh  http://www.mirbsd.org/mksh.htm 
@@ -1852,7 +1852,7 @@
  neocmakelsp  0.10.3  a cmake lsp based on tower-lsp and treesitter  https://neocmakelsp.github.io/ 
  neofetch  7.1.0-1  Simple system information script  https://github.com/dylanaraps/neofetch 
  neomutt  20260504  A version of mutt with added features  https://neomutt.org/ 
- neovim  0.12.2  Ambitious Vim-fork focused on extensibility and agility (nvim)  https://neovim.io/ 
+ neovim  0.12.3  Ambitious Vim-fork focused on extensibility and agility (nvim)  https://neovim.io/ 
  neovim-nightly  0.13.0~dev-676+gcc056d78fb-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
  nerdfix  0.4.2-1  nerdfix helps you to find/fix obsolete Nerd Font icons in your project.  https://github.com/loichyan/nerdfix 
  net-snmp  5.9.5.2  Various tools relating to the Simple Network Management Protocol  http://www.net-snmp.org/ 
@@ -2422,7 +2422,7 @@
  stdoutisatty  1.0-1  Patch the isatty() calls for colored output in pipeline  https://github.com/lilydjwg/stdoutisatty 
  steghide  0.5.1-8  Embeds a message in a file by replacing some of the least significant bits  https://steghide.sourceforge.net/ 
  stemwords  3.0.1  A command-line tool which uses libstemmer  https://snowballstem.org/ 
- step-cli  0.30.5  An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows  https://smallstep.com/cli 
+ step-cli  0.30.6  An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows  https://smallstep.com/cli 
  stfl  0.24-7  Structured Terminal Forms Language/Library  http://www.clifford.at/stfl 
  stfl-static  0.24-7  Static libraries for stfl  http://www.clifford.at/stfl 
  stockfish  18  Free and strong UCI chess engine  https://stockfishchess.org/ 
@@ -2606,7 +2606,7 @@
  ttyrec  1.0.8-8  Terminal recorder and player  http://0xcc.net/ttyrec/ 
  tudo  1.2.0  A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument as the Termux app (u<userid>_a<appid>) user in the Termux app  https://github.com/agnostic-apollo/tudo 
  tur-repo  1.0.1  A single and trusted place for all unofficial/less popular termux packages  https://github.com/termux-user-repository/tur 
- turbo  2.9.17  High-performance build system for JS/TS  https://turborepo.dev/ 
+ turbo  2.9.18  High-performance build system for JS/TS  https://turborepo.dev/ 
  turbopack  16.2.5  Rust-based incremental compilation engine and bundler for Next.js  https://nextjs.org/ 
  tut  2.0.1-3  A TUI for Mastodon with vim inspired keys  https://github.com/RasmusLindroth/tut 
  tvheadend  4.2.8-12  TV streaming server for Linux and Android supporting DVB-S, DVB-S2 and other formats.  https://tvheadend.org/ 
@@ -2614,7 +2614,7 @@
  tweego  2.1.1-4  A free command line compiler for Twine/Twee story formats  https://bitbucket.org/tmedwards/tweego 
  twolame  0.4.0-1  The frontend for libtwolame  https://www.twolame.org/ 
  txikijs  1:26.5.0  A small and powerful JavaScript runtime  https://github.com/saghul/txiki.js 
- ty  0.0.47  An extremely fast Python type checker and language server, written in Rust  https://github.com/astral-sh/ty 
+ ty  0.0.48  An extremely fast Python type checker and language server, written in Rust  https://github.com/astral-sh/ty 
  typst  0.14.2  A new markup-based typesetting system that is powerful and easy to learn  https://typst.app/ 
  typstfmt  0.2.10-1  basic formatter for the Typst language  https://github.com/astrale-sharp/typstfmt 
  uchardet  0.0.8-2  An encoding detector utility  https://www.freedesktop.org/wiki/Software/uchardet/ 
