@@ -899,7 +899,7 @@
   Description: A basic file manager that runs inside a terminal, designed for Linux. Its fully responsive and incredibly fast.
   Homepage: https://github.com/0l1v3rr/cli-file-manager
 - Package: cgal
-  Version: 6.1.2
+  Version: "6.2"
   Description: Computational Geometry Algorithms Library
   Homepage: https://www.cgal.org/
 - Package: cgdb
@@ -2431,7 +2431,7 @@
   Description: Convert between Git and Subversion repositories
   Homepage: https://git-scm.com/
 - Package: git-town
-  Version: 22.7.1
+  Version: 23.0.2
   Description: Git branches made easy
   Homepage: https://www.git-town.com
 - Package: gitea
@@ -3055,7 +3055,7 @@
   Description: A command-line benchmarking tool
   Homepage: https://github.com/sharkdp/hyperfine
 - Package: hz
-  Version: 0.10.4
+  Version: 0.10.5
   Description: A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices
   Homepage: https://www.cloudwego.io
 - Package: i2pd
@@ -3275,7 +3275,7 @@
   Description: A free media system for organizing and streaming media (server)
   Homepage: https://jellyfin.org
 - Package: jfrog-cli
-  Version: 2.107.0
+  Version: 2.108.0
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -8839,7 +8839,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 5.9.0
+  Version: 5.9.1
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
@@ -9211,7 +9211,7 @@
   Description: A custom system info fetching tool
   Homepage: https://github.com/Mangeshrex/rxfetch
 - Package: sabnzbd
-  Version: 5.0.3
+  Version: 5.0.4
   Description: Fully automated Usenet Binary Downloader
   Homepage: https://sabnzbd.org/
 - Package: samba
@@ -10899,11 +10899,11 @@
   Description: Pluggable Transport based on HTTP Upgrade(HTTPT)
   Homepage: https://torproject.org/
 - Package: weechat
-  Version: 4.7.1-2
+  Version: 4.9.2
   Description: Fast, light and extensible IRC chat client
   Homepage: https://weechat.org/
 - Package: weechat-lua-plugin
-  Version: 4.7.1-2
+  Version: 4.9.2
   Description: WeeChat Lua Plugin
   Homepage: https://weechat.org/
 - Package: weechat-matrix-rs
@@ -10911,15 +10911,15 @@
   Description: Rust rewrite of the python weechat-matrix script
   Homepage: https://github.com/poljar/weechat-matrix-rs
 - Package: weechat-perl-plugin
-  Version: 4.7.1-2
+  Version: 4.9.2
   Description: WeeChat Perl Plugin
   Homepage: https://weechat.org/
 - Package: weechat-python-plugin
-  Version: 4.7.1-2
+  Version: 4.9.2
   Description: WeeChat Python3 Plugin
   Homepage: https://weechat.org/
 - Package: weechat-ruby-plugin
-  Version: 4.7.1-2
+  Version: 4.9.2
   Description: WeeChat Ruby Plugin
   Homepage: https://weechat.org/
 - Package: weggli
