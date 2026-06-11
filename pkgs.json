@@ -1099,7 +1099,7 @@
   },
   {
     "Package": "byobu",
-    "Version": "7.8",
+    "Version": "7.11",
     "Description": "Byobu is a GPLv3 open source text-based window manager and terminal multiplexer",
     "Homepage": "https://www.byobu.org/"
   },
@@ -2172,12 +2172,6 @@
     "Homepage": "https://github.com/resurrecting-open-source-projects/dnsmap"
   },
   {
-    "Package": "dnsmasq",
-    "Version": "2.93",
-    "Description": "Dnsmasq provides network infrastructure for small networks",
-    "Homepage": "http://www.thekelleys.org.uk/dnsmasq/doc.html"
-  },
-  {
     "Package": "dnstop",
     "Version": "2022.10.19-1",
     "Description": "A libpcap application that displays various tables of DNS traffic on your network",
@@ -3235,7 +3229,7 @@
   },
   {
     "Package": "fresh-editor",
-    "Version": "0.4.0",
+    "Version": "0.4.0-1",
     "Description": "Text editor for your terminal: easy, powerful and fast",
     "Homepage": "https://getfresh.dev/"
   },
@@ -11131,7 +11125,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-676+gcc056d78fb-0",
+    "Version": "0.13.0~dev-687+gd72e91a0b6-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -13267,7 +13261,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "5.8.0",
+    "Version": "5.9.0",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
