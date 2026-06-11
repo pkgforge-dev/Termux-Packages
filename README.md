@@ -1,89 +1,89 @@
-- #### Automated every 2-3 Hrs from [Termux/Termux-Packages](https://github.com/termux/termux-packages)
-> The [Markdown README](https://github.com/Azathothas/Termux-Packages/blob/main/README.md) **may not render because of huge file size.** Please Visit: https://termux-packages.ajam.dev
-> - View [RAW](https://pub.ajam.dev/repos/Azathothas/Termux-Packages/pkgs.txt): https://pub.ajam.dev/repos/Azathothas/Termux-Packages/pkgs.txt
-> - View [JSON](https://github.com/Azathothas/Termux-Packages/blob/main/pkgs.json): https://github.com/Azathothas/Termux-Packages/blob/main/pkgs.json
-> - View [YAML](https://github.com/Azathothas/Termux-Packages/blob/main/pkgs.yaml): https://github.com/Azathothas/Termux-Packages/blob/main/pkgs.yaml
+- #### Automated every 2-3 Hrs from [Termux/Termux-Packages](https://github.com/aripitek/termux/termux-packages)
+> The [Markdown README](https://github.com/aripitek/Azathothas/Termux-Packages/blob/main/README.md) **may not render because of huge file size.** Please Visit: https://termux-packages.ajam.dev
+> - View [RAW](https://pub.ajam.dev/aripitek/repos/Azathothas/Termux-Packages/pkgs.txt): https://pub.ajam.dev/repos/Azathothas/Termux-Packages/pkgs.txt
+> - View [JSON](https://github.com/aripitek/Azathothas/Termux-Packages/blob/main/pkgs.json): https://github.com/Azathothas/Termux-Packages/blob/main/pkgs.json
+> - View [YAML](https://github.com/aripitek/Azathothas/Termux-Packages/blob/main/pkgs.yaml): https://github.com/Azathothas/Termux-Packages/blob/main/pkgs.yaml
 > #### Why?
-> - I wanted an `easy to parse`, `automatable` metadata for termux packages I could [`compile/cross-compile statically`](https://bin.ajam.dev/) for [Azathothas/Toolpacks](https://github.com/Azathothas/Toolpacks).
-> - [More Details](https://github.com/Azathothas/Toolpacks/tree/main/Docs#why-not-many-android-binaries): https://github.com/Azathothas/Toolpacks/tree/main/Docs#why-not-many-android-binaries
+> - I wanted an `easy to parse`, `automatable` metadata for termux packages I could [`compile/cross-compile statically`](https://github.com/aripitek/bin.ajam.dev/) for [Azathothas/Toolpacks](https://github.com/aripitek/Azathothas/Toolpacks).
+> - [More Details](https://github.com/aripitek/Azathothas/Toolpacks/tree/main/Docs#why-not-many-android-binaries): https://github.com/Azathothas/Toolpacks/tree/main/Docs#why-not-many-android-binaries
 
 ---
 |Package | Version | Description | Homepage |
 |--------|---------|-------------|----------|
 | **0verkill** | 1:0.16-1 | Bloody 2D action deathmatch-like game in ASCII-ART | https://github.com/hackndev/0verkill |
-| **2048-c** | 1:1.0.3-1 | Console version of the game '2048' for GNU/Linux | https://github.com/mevdschee/2048.c |
-| **2ping** | 4.6.1 | A bi-directional ping utility | https://www.finnie.org/software/2ping/ |
-| **6tunnel** | 0.14 | Allows you to use services provided by IPv6 hosts with IPv4-only applications and vice-versa | https://github.com/wojtekka/6tunnel |
-| **7zip** | 26.01 | 7-Zip file archiver with a high compression ratio | https://www.7-zip.org |
-| **8086tiny** | 1.25-5 | A PC XT-compatible emulator/virtual machine | https://github.com/adriancable/8086tiny |
-| **a52dec** | 0.8.0-3 | A test program for liba52 | http://liba52.sourceforge.net/ |
-| **aalib** | 1.4rc5-13 | A portable ASCII art graphic library | https://sourceforge.net/projects/aa-project/ |
-| **aalib-static** | 1.4rc5-13 | Static libraries for aalib | https://sourceforge.net/projects/aa-project/ |
+| **2048-c** | 1:1.0.3-1 | Console version of the game '2048' for GNU/Linux | https://github.com/aripitek/mevdschee/2048.c |
+| **2ping** | 4.6.1 | A bi-directional ping utility | https://github.com/aripitek/www.finnie.org/software/2ping/ |
+| **6tunnel** | 0.14 | Allows you to use services provided by IPv6 hosts with IPv4-only applications and vice-versa | https://github.com/aripitek/wojtekka/6tunnel |
+| **7zip** | 26.01 | 7-Zip file archiver with a high compression ratio | https://github.com/aripitek/www.7-zip.org |
+| **8086tiny** | 1.25-5 | A PC XT-compatible emulator/virtual machine | https://github.com/aripitek/adriancable/8086tiny |
+| **a52dec** | 0.8.0-3 | A test program for liba52 | http://github.com/aripitek/liba52.sourceforge.net/ |
+| **aalib** | 1.4rc5-13 | A portable ASCII art graphic library | https://github.com/aripitek/sourceforge.net/projects/aa-project/ |
+| **aalib-static** | 1.4rc5-13 | Static libraries for aalib | https://github.com/aripitek/sourceforge.net/projects/aa-project/ |
 | **aapt** | 13.0.0.6-23 | Android Asset Packaging Tool | https://elinux.org/Android_aapt |
 | **aapt2** | 13.0.0.6-23 | AAPT2 (Android Asset Packaging Tool) | https://elinux.org/Android_aapt |
 | **abduco** | 0.6-4 | Clean and simple terminal session manager | https://www.brain-dump.org/projects/abduco/ |
-| **abook** | 0.6.2-1 | Abook is a text-based addressbook program designed to use with mutt mail client | http://abook.sourceforge.net/ |
-| **abootimg** | 0.6-3 | Pack or unpack android boot images | https://gitlab.com/ajs124/abootimg |
-| **abseil-cpp** | 20250814.1 | Abseil C++ Common Libraries | https://abseil.io/ |
-| **ack-grep** | 3.9.0-1 | Tool like grep optimized for programmers | https://beyondgrep.com/ |
-| **acr** | 2.2.6 | A fully compatible autoconf replacement | https://github.com/radareorg/acr |
-| **ada** | 3.4.4 | WHATWG-compliant and fast URL parser written in modern C++ | https://github.com/ada-url/ada |
-| **adms** | 2.3.7-1 | A code generator for the Verilog-AMS language | https://github.com/qucs/adms |
-| **aerc** | 0.21.0 | A pretty good email client | https://aerc-mail.org/ |
-| **agate** | 3.3.23 | Very simple server for the Gemini hypertext protocol | https://github.com/mbrubeck/agate |
+| **abook** | 0.6.2-1 | Abook is a text-based addressbook program designed to use with mutt mail client | http://github.com/aripitek/abook.sourceforge.net/ |
+| **abootimg** | 0.6-3 | Pack or unpack android boot images | https://github.com/aripitek/gitlab.com/ajs124/abootimg |
+| **abseil-cpp** | 20250814.1 | Abseil C++ Common Libraries | https://github.com/aripitek/abseil.io/ |
+| **ack-grep** | 3.9.0-1 | Tool like grep optimized for programmers | https://github.com/aripitek/beyondgrep.com/ |
+| **acr** | 2.2.6 | A fully compatible autoconf replacement | https://github.com/aripitek/radareorg/acr |
+| **ada** | 3.4.4 | WHATWG-compliant and fast URL parser written in modern C++ | https://github.com/aripitek/ada-url/ada |
+| **adms** | 2.3.7-1 | A code generator for the Verilog-AMS language | https://github.com/aripitek/qucs/adms |
+| **aerc** | 0.21.0 | A pretty good email client | https://github.com/aripitek/aerc-mail.org/ |
+| **agate** | 3.3.23 | Very simple server for the Gemini hypertext protocol | https://github.com/aripitek/mbrubeck/agate |
 | **age** | 1:1.3.1 | A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability | https://github.com/FiloSottile/age |
 | **agg** | 1.9.0 | asciinema gif generator | https://github.com/asciinema/agg |
 | **aha** | 0.5.1-2 | Converts ANSI escape sequences of a unix terminal to HTML code | https://github.com/theZiz/aha |
-| **aichat** | 0.30.0-1 | A powerful chatgpt cli | https://github.com/sigoden/aichat |
+| **aichat** | 0.30.0-1 | A powerful chatgpt cli | https://github.com/aripitek/sigoden/aichat |
 | **aidl** | 13.0.0.6-23 | Android Interface Definition Language (AIDL) | https://elinux.org/Android_aapt |
-| **alass** | 2.0.0-4 | Automatic Language-Agnostic Subtitle Synchronization | https://github.com/kaegi/alass |
+| **alass** | 2.0.0-4 | Automatic Language-Agnostic Subtitle Synchronization | https://github.com/aripitek/kaegi/alass |
 | **alembic** | 1.8.11 | A framework for sharing scene data that includes a C++ lib, a file format and client plugin | https://alembic.io |
 | **algernon** | 1.17.9 | Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support | https://algernon.roboticoverlords.org/ |
 | **alpine** | 2.26-1 | Fast, easy to use email client | http://alpine.x10host.com/ |
-| **alsa-lib** | 1.2.16 | The Advanced Linux Sound Architecture (ALSA) - library | https://www.alsa-project.org |
-| **alsa-plugins** | 1.2.12-1 | The Advanced Linux Sound Architecture (ALSA) - plugins | https://www.alsa-project.org |
-| **alsa-utils** | 1.2.15.2 | The Advanced Linux Sound Architecture (ALSA) - utils | https://www.alsa-project.org |
+| **alsa-lib** | 1.2.16 | The Advanced Linux Sound Architecture (ALSA) - library | https://github.com/aripitek/www.alsa-project.org |
+| **alsa-plugins** | 1.2.12-1 | The Advanced Linux Sound Architecture (ALSA) - plugins | https://github.com/aripitek/www.alsa-project.org |
+| **alsa-utils** | 1.2.15.2 | The Advanced Linux Sound Architecture (ALSA) - utils | https://github.com/aripitek/www.alsa-project.org |
 | **alsa-utils-static** | 1.2.15.2 | Static libraries for alsa-utils | https://www.alsa-project.org |
 | **amber** | 0.6.1 | A code search / replace tool | https://github.com/dalance/amber |
-| **amfora** | 1.11.0-1 | Aims to be the best looking Gemini client | https://github.com/makew0rld/amfora |
+| **amfora** | 1.11.0-1 | Aims to be the best looking Gemini client | https://github.com/aripitek/makew0rld/amfora |
 | **android-tools** | 35.0.2-7 | Android platform tools | https://developer.android.com/ |
 | **anewer** | 0.1.6-1 | Append lines from stdin to a file if these lines do not present in that file (aHash-based uniq) | https://github.com/ysf/anewer |
 | **angband** | 4.2.6 | Dungeon exploration adventure game | https://rephial.org/ |
-| **angle-android** | 2.1.24923-f09a19ce-2 | A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android | https://chromium.googlesource.com/angle/angle |
-| **angle-grinder** | 0.19.6-1 | Slice and dice logs on the command line | https://github.com/rcoh/angle-grinder |
-| **ani-cli** | 4.14 | A cli to browse and watch anime | https://github.com/pystardust/ani-cli |
-| **ansifilter** | 2.22 | Strip or convert ANSI codes into HTML, (La)Tex, RTF, or BBCode | http://www.andre-simon.de/doku/ansifilter/en/ansifilter.php |
+| **angle-android** | 2.1.24923-f09a19ce-2 | A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android | https://github.com/aripitek/chromium.googlesource.com/angle/angle |
+| **angle-grinder** | 0.19.6-1 | Slice and dice logs on the command line | https://github.com/aripitek/rcoh/angle-grinder |
+| **ani-cli** | 4.14 | A cli to browse and watch anime | https://github.com/aripitek/pystardust/ani-cli |
+| **ansifilter** | 2.22 | Strip or convert ANSI codes into HTML, (La)Tex, RTF, or BBCode | http://github.com/aripitek/www.andre-simon.de/doku/ansifilter/en/ansifilter.php |
 | **ant** | 1.10.17 | Java based build tool like make | https://ant.apache.org/ |
-| **antibody** | 6.1.1-3 | The fastest shell plugin manager | https://github.com/getantibody/antibody |
+| **antibody** | 6.1.1-3 | The fastest shell plugin manager | https://github.com/aripitek/getantibody/antibody |
 | **antiword** | 0.37-4 | A free MS Word reader | https://en.m.wikipedia.org/wiki/Antiword |
-| **aom-tools** | 3.14.1 | Command-line tools using AOMedia library | https://aomedia.org/ |
+| **aom-tools** | 3.14.1 | Command-line tools using AOMedia library | https://github.com/aripitek/aomedia.org/ |
 | **aosp-libs** | 9.0.0-r76-3 | bionic libc, libicuuc, liblzma, zlib, and boringssl for package builder and termux-docker | https://source.android.com/ |
-| **aosp-utils** | 9.0.0-r76-3 | AOSP-based mksh, toybox, grep and iputils for termux-docker | https://source.android.com/ |
-| **apache-orc** | 2.3.0-1 | Columnar storage for Hadoop workloads | https://orc.apache.org/ |
-| **apache2** | 1:2.4.68 | Apache Web Server | https://httpd.apache.org |
-| **apkeep** | 1.0.0 | A command-line tool for downloading APK files from various sources | https://github.com/EFForg/apkeep |
-| **apksigner** | 33.0.1-1 | APK signing tool from Android SDK | https://developer.android.com/studio/command-line/apksigner |
-| **appstream** | 1.1.2 | Provides a standard for creating app stores across distributions | https://www.freedesktop.org/wiki/Distributions/AppStream/ |
-| **apr** | 1.7.6-2 | Apache Portable Runtime Library | https://apr.apache.org/ |
+| **aosp-utils** | 9.0.0-r76-3 | AOSP-based mksh, toybox, grep and iputils for termux-docker | https://github.com/aripitek/source.android.com/ |
+| **apache-orc** | 2.3.0-1 | Columnar storage for Hadoop workloads | https://github.com/aripitek/orc.apache.org/ |
+| **apache2** | 1:2.4.68 | Apache Web Server | https://github.com/aripitek/httpd.apache.org |
+| **apkeep** | 1.0.0 | A command-line tool for downloading APK files from various sources | https://github.com/aripitek/EFForg/apkeep |
+| **apksigner** | 33.0.1-1 | APK signing tool from Android SDK | https://github.com/aripitek/developer.android.com/studio/command-line/apksigner |
+| **appstream** | 1.1.2 | Provides a standard for creating app stores across distributions | https://github.com/aripitek/www.freedesktop.org/wiki/Distributions/AppStream/ |
+| **apr** | 1.7.6-2 | Apache Portable Runtime Library | https://github.com/aripitek/apr.apache.org/ |
 | **apr-static** | 1.7.6-2 | Static libraries for apr | https://apr.apache.org/ |
 | **apr-util** | 1.6.3-3 | Apache Portable Runtime Utility Library | https://apr.apache.org/ |
 | **apr-util-static** | 1.6.3-3 | Static libraries for apr-util | https://apr.apache.org/ |
-| **apt** | 2.8.1-2 | Front-end for the dpkg package manager | https://packages.debian.org/apt |
-| **apt-file** | 3.3 | search for files within packages | https://wiki.debian.org/apt-file |
-| **apt-ftparchive** | 2.8.1-2 | apt-ftparchive is the command line tool that generates the index files that APT uses to access a distribution source | https://packages.debian.org/apt |
-| **apt-show-versions** | 0.22.16 | Lists available package versions with distribution | https://salsa.debian.org/debian/apt-show-versions |
-| **apt-transport-tor** | 2.8.1-2 | APT transport for anonymous package downloads via Tor | https://packages.debian.org/apt |
-| **aptly** | 1.6.2-1 | A Swiss Army knife for Debian repository management | https://www.aptly.info |
-| **argon2** | 20190702-2 | A password-hashing function (reference C implementation) | https://github.com/P-H-C/phc-winner-argon2 |
-| **argon2-static** | 20190702-2 | Static libraries for argon2 | https://github.com/P-H-C/phc-winner-argon2 |
-| **argp** | 1.5.0-1 | Standalone version of arguments parsing functions from GLIBC | https://github.com/argp-standalone/argp-standalone |
+| **apt** | 2.8.1-2 | Front-end for the dpkg package manager | https://github.com/aripitek/packages.debian.org/apt |
+| **apt-file** | 3.3 | search for files within packages | https://github.com/aripitek/wiki.debian.org/apt-file |
+| **apt-ftparchive** | 2.8.1-2 | apt-ftparchive is the command line tool that generates the index files that APT uses to access a distribution source | https://github.com/aripitek/packages.debian.org/apt |
+| **apt-show-versions** | 0.22.16 | Lists available package versions with distribution | https://github.com/aripitek/salsa.debian.org/debian/apt-show-versions |
+| **apt-transport-tor** | 2.8.1-2 | APT transport for anonymous package downloads via Tor | https://github.com/aripitek/packages.debian.org/apt |
+| **aptly** | 1.6.2-1 | A Swiss Army knife for Debian repository management | https://github.com/aripitek/www.aptly.info |
+| **argon2** | 20190702-2 | A password-hashing function (reference C implementation) | https://github.com/aripitek/P-H-C/phc-winner-argon2 |
+| **argon2-static** | 20190702-2 | Static libraries for argon2 | https://github.com/aripitek/P-H-C/phc-winner-argon2 |
+| **argp** | 1.5.0-1 | Standalone version of arguments parsing functions from GLIBC | https://github.com/aripitek/argp-standalone/argp-standalone |
 | **argp-static** | 1.5.0-1 | Static libraries for argp | https://github.com/argp-standalone/argp-standalone |
-| **aria2** | 1.37.0-3 | Download utility supporting HTTP/HTTPS, FTP, BitTorrent and Metalink | https://aria2.github.io |
-| **arj** | 3.10.22-6 | Open-source version of arj archiver | https://arj.sourceforge.net/ |
-| **arpack-ng** | 2:3.9.1 | Collection of Fortran77 subroutines designed to solve large scale eigenvalue problems. | https://github.com/opencollab/arpack-ng |
-| **artalk** | 2.9.1-1 | A self-hosted comment system | https://artalk.js.org/ |
-| **arturo** | 0.9.83-1 | Simple, expressive & portable programming language for efficient scripting | https://arturo-lang.io |
-| **ascii** | 3.32 | List ASCII idiomatic names and octal/decimal code-point forms | http://www.catb.org/~esr/ascii/ |
+| **aria2** | 1.37.0-3 | Download utility supporting HTTP/HTTPS, FTP, BitTorrent and Metalink | https://github.com/aripitek/aria2.github.io |
+| **arj** | 3.10.22-6 | Open-source version of arj archiver | https://github.com/aripitek/arj.sourceforge.net/ |
+| **arpack-ng** | 2:3.9.1 | Collection of Fortran77 subroutines designed to solve large scale eigenvalue problems. | https://github.com/aripitek/opencollab/arpack-ng |
+| **artalk** | 2.9.1-1 | A self-hosted comment system | https://github.com/aripitek/artalk.js.org/ |
+| **arturo** | 0.9.83-1 | Simple, expressive & portable programming language for efficient scripting | https://github.com/aripitek/arturo-lang.io |
+| **ascii** | 3.32 | List ASCII idiomatic names and octal/decimal code-point forms | http://github.com/aripitek/www.catb.org/~esr/ascii/ |
 | **asciidoc** | 10.2.1-2 | Text document format for short documents, articles, books and UNIX man pages. | https://asciidoc.org |
 | **asciidoctor** | 2.0.26 | An implementation of AsciiDoc in Ruby | https://asciidoctor.org/ |
 | **asciinema** | 1:3.2.0 | Record and share your terminal sessions, the right way | https://asciinema.org/ |
@@ -97,7 +97,7 @@
 | **aspnetcore-runtime-10.0** | 10.0.9 | ASP.NET Core 10.0 Runtime | https://dotnet.microsoft.com/en-us/ |
 | **aspnetcore-runtime-8.0** | 8.0.28 | ASP.NET Core 8.0 Runtime | https://dotnet.microsoft.com/en-us/ |
 | **aspnetcore-runtime-9.0** | 9.0.17 | ASP.NET Core 9.0 Runtime | https://dotnet.microsoft.com/en-us/ |
-| **aspnetcore-runtime-dbg-10.0** | 10.0.9 | ASP.NET Core 10.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
+| **aspnetcore-runtime-dbg-10.0** | 10.0.9 | ASP.NET Core 10.0 Runtime Managed Debug Symbols | https://github.com/aripitek/dotnet.microsoft.com/en-us/ |
 | **aspnetcore-runtime-dbg-8.0** | 8.0.28 | ASP.NET Core 8.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
 | **aspnetcore-runtime-dbg-9.0** | 9.0.17 | ASP.NET Core 9.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
 | **aspnetcore-targeting-pack-10.0** | 10.0.9 | ASP.NET Core 10.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
