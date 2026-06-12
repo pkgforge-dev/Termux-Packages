@@ -459,7 +459,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.35.2
+  Version: 2.35.3
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -1839,7 +1839,7 @@
   Description: Erlang HTML documentation
   Homepage: https://www.erlang.org/
 - Package: esbuild
-  Version: 0.28.0
+  Version: 0.28.1
   Description: An extremely fast JavaScript bundler
   Homepage: https://esbuild.github.io/
 - Package: espeak
@@ -7051,7 +7051,7 @@
   Description: Static libraries for minizinc
   Homepage: https://github.com/MiniZinc/libminizinc
 - Package: mise
-  Version: 2026.6.2
+  Version: 2026.6.3
   Description: dev tools, env vars, task runner
   Homepage: https://mise.jdx.dev/
 - Package: mkbootimg
@@ -8395,7 +8395,7 @@
   Description: Emulate chroot, bind mount and binfmt_misc for non-root users
   Homepage: https://proot-me.github.io/
 - Package: proot-distro
-  Version: 5.1.7
+  Version: 5.2.0
   Description: Termux official utility for managing prooted Linux distributions
   Homepage: https://github.com/termux/proot-distro
 - Package: protobuf
@@ -10783,7 +10783,7 @@
   Description: Vulkan Extension Layer
   Homepage: https://github.com/KhronosGroup/Vulkan-ExtensionLayer
 - Package: vulkan-headers
-  Version: 1.4.353
+  Version: 1.4.354
   Description: Vulkan Header files and API registry
   Homepage: https://github.com/KhronosGroup/Vulkan-Headers
 - Package: vulkan-icd
@@ -10847,7 +10847,7 @@
   Description: Libc for WebAssembly programs built on top of WASI system calls
   Homepage: https://wasi.dev/
 - Package: wasm-component-ld
-  Version: 0.5.22
+  Version: 0.5.23
   Description: Command line linker for creating WebAssembly components
   Homepage: https://github.com/bytecodealliance/wasm-component-ld
 - Package: wasmedge

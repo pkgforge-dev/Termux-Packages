@@ -125,7 +125,7 @@
 | **aview** | 1.3.0rc1-6 | High quality ascii-art image browser and animation player | https://aa-project.sourceforge.net/aview/ |
 | **avra** | 1.4.2-1 | Assember for the Atmel AVR microcontroller family | https://github.com/Ro5bert/avra |
 | **await** | 2.6.0 | Runs list of commands in parallel and waits for their termination | https://github.com/slavaGanzin/await |
-| **awscli** | 2.35.2 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
+| **awscli** | 2.35.3 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
 | **axel** | 2.17.14-1 | light command line download accelerator | https://github.com/axel-download-accelerator/axel |
 | **b3sum** | 1.8.5 | A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum | https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum |
 | **babl** | 0.1.126 | Dynamic pixel format translation library | https://gegl.org/babl/ |
@@ -470,7 +470,7 @@
 | **entr** | 5.8 | Event Notify Test Runner - run arbitrary commands when files change | https://eradman.com/entrproject/ |
 | **erlang** | 29.0.2 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
 | **erlang-doc** | 29.0.2 | Erlang HTML documentation | https://www.erlang.org/ |
-| **esbuild** | 0.28.0 | An extremely fast JavaScript bundler | https://esbuild.github.io/ |
+| **esbuild** | 0.28.1 | An extremely fast JavaScript bundler | https://esbuild.github.io/ |
 | **espeak** | 1.52.0-1 | Compact software speech synthesizer | https://github.com/espeak-ng/espeak-ng |
 | **espeak-static** | 1.52.0-1 | Static libraries for espeak | https://github.com/espeak-ng/espeak-ng |
 | **et** | 6.2.11-3 | A remote shell that automatically reconnects without interrupting the session | https://eternalterminal.dev |
@@ -1773,7 +1773,7 @@
 | **miniupnpc-static** | 2.3.3-1 | Static libraries for miniupnpc | https://miniupnp.tuxfamily.org/ |
 | **minizinc** | 2.9.7 | A medium-level constraint modelling language | https://github.com/MiniZinc/libminizinc |
 | **minizinc-static** | 2.9.7 | Static libraries for minizinc | https://github.com/MiniZinc/libminizinc |
-| **mise** | 2026.6.2 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
+| **mise** | 2026.6.3 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
 | **mkbootimg** | 2022.11.09-1 | Maintained fork with android's mkbootimg and unpackbootimg | https://github.com/osm0sis/mkbootimg |
 | **mkp224o** | 1.7.0-1 | Generate vanity ed25519 (hidden service version 3) onion addresses | https://github.com/cathugger/mkp224o |
 | **mksh** | 59c-3 | The MirBSD Korn Shell - an enhanced version of the public domain ksh | http://www.mirbsd.org/mksh.htm |
@@ -2109,7 +2109,7 @@
 | **progress** | 0.17-1 | Linux tool to show progress for cp, mv, dd and more | https://github.com/Xfennec/progress |
 | **proj** | 9.8.1 | Generic coordinate transformation software | https://proj.org |
 | **proot** | 5.1.107.78-1 | Emulate chroot, bind mount and binfmt_misc for non-root users | https://proot-me.github.io/ |
-| **proot-distro** | 5.1.7 | Termux official utility for managing proot'ed Linux distributions | https://github.com/termux/proot-distro |
+| **proot-distro** | 5.2.0 | Termux official utility for managing proot'ed Linux distributions | https://github.com/termux/proot-distro |
 | **protobuf** | 2:33.1-1 | Compiler for protocol buffer definition files | https://github.com/protocolbuffers/protobuf |
 | **proton-bridge** | 3.25.0 | ProtonMail Bridge application | https://github.com/ProtonMail/proton-bridge |
 | **prover9** | 2009-11A-2 | An automated theorem prover for first-order and equational logic | https://www.cs.unm.edu/~mccune/prover9/ |
@@ -2706,7 +2706,7 @@
 | **vtm** | 2026.05.30 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
 | **vttest** | 20251205 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vulkan-extension-layer** | 1.4.350 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
-| **vulkan-headers** | 1.4.353 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
+| **vulkan-headers** | 1.4.354 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
 | **vulkan-icd** | 0.1 | A metapackage that provides Vulkan ICDs | https://github.com/termux/termux-packages |
 | **vulkan-loader** | 0.0.3 | A metapackage that provides vulkan loader library | https://github.com/termux/termux-packages |
 | **vulkan-loader-android** | 29 | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
@@ -2722,7 +2722,7 @@
 | **walk** | 1.13.0 | A terminal file manager | https://github.com/antonmedv/walk |
 | **wallust** | 3.5.2 | Generate colors from an image | https://explosion-mental.codeberg.page/wallust |
 | **wasi-libc** | 30 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |
-| **wasm-component-ld** | 0.5.22 | Command line linker for creating WebAssembly components | https://github.com/bytecodealliance/wasm-component-ld |
+| **wasm-component-ld** | 0.5.23 | Command line linker for creating WebAssembly components | https://github.com/bytecodealliance/wasm-component-ld |
 | **wasmedge** | 0.17.0 | A lightweight, high-performance, and extensible WebAssembly runtime | https://wasmedge.org/ |
 | **wasmer** | 7.0.1 | A fast and secure WebAssembly runtime | https://wasmer.io/ |
 | **wasmtime** | 45.0.1 | A standalone runtime for WebAssembly | https://wasmtime.dev/ |
