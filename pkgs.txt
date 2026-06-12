@@ -140,7 +140,7 @@
  binutils  2.46.0-3  A GNU collection of binary utilities  https://www.gnu.org/software/binutils/ 
  binutils-cross  2.46.0-3  GNU Binutils for cross build on the host (NOT for Termux)  https://www.gnu.org/software/binutils/ 
  binwalk  3.1.0  An Binwalk firmware analysis tool.  https://github.com/ReFirmLabs/binwalk 
- biome2  2.4.16  A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP  https://biomejs.dev/ 
+ biome2  2.5.0  A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP  https://biomejs.dev/ 
  bison  3.8.2-4  General-purpose parser generator  https://www.gnu.org/software/bison/ 
  bison-static  3.8.2-4  Static libraries for bison  https://www.gnu.org/software/bison/ 
  bitcoin  31.0  Bitcoin Core  https://bitcoincore.org/ 
@@ -1275,7 +1275,7 @@
  libnpth-static  1.6-3  Static libraries for libnpth  https://www.gnupg.org/related_software/npth/ 
  libnspr  4.39  Netscape Portable Runtime (NSPR)  https://hg.mozilla.org/projects/nspr 
  libnspr-static  4.39  Static libraries for libnspr  https://hg.mozilla.org/projects/nspr 
- libnss  3.124  Network Security Services (NSS)  https://firefox-source-docs.mozilla.org/security/nss/ 
+ libnss  3.125  Network Security Services (NSS)  https://firefox-source-docs.mozilla.org/security/nss/ 
  libntl  11.5.1-1  A Library for doing Number Theory  https://libntl.org 
  libntl-static  11.5.1-1  Static libraries for libntl  https://libntl.org 
  libobjc2  2.3-1  The GNUstep Objective-C runtime  https://www.gnustep.org/ 
@@ -1698,7 +1698,7 @@
  markdown-flashcards  2.0.1  Small CLI app to learn with flashcards and spaced repetition  https://github.com/bttger/markdown-flashcards 
  marksman  2026.02.08  LSP language server for editing Markdown files  https://github.com/artempyanykh/marksman 
  mathomatic  16.0.5-7  Simple CAS and symbolic calculator  https://en.wikipedia.org/wiki/Mathomatic 
- matplotlib  3.10.9  A comprehensive library for creating static, animated, and interactive visualizations in Python  https://matplotlib.org/ 
+ matplotlib  3.11.0  A comprehensive library for creating static, animated, and interactive visualizations in Python  https://matplotlib.org/ 
  matterbridge  1.26.0-4  A simple chat bridge  https://github.com/42wim/matterbridge 
  matterircd  0.29.0  Connect to your mattermost or slack using your IRC-client of choice  https://github.com/42wim/matterircd 
  matugen  4.1.0  A material you color generation tool with templates  https://github.com/InioX/matugen 
@@ -1815,7 +1815,7 @@
  mupdf-static  1.24.10-2  Static libraries for mupdf  https://mupdf.com/ 
  mupdf-tools  1.24.10-2  Lightweight PDF and XPS viewer (utilities)  https://mupdf.com/ 
  music-file-organizer  1.0.4-10  Organizer of audio files into directories based on metadata tags  https://git.zx2c4.com/music-file-organizer/about/ 
- mutt  2.3.2  Mail client with patches from neomutt  http://www.mutt.org/ 
+ mutt  2.3.3  Mail client with patches from neomutt  http://www.mutt.org/ 
  myman  0.7.1-6  Video game for color and monochrome text terminals in the genre of Namco's Pac-Man  https://sourceforge.net/projects/myman/ 
  mympd  25.1.1  A standalone and lightweight web-based MPD client  https://jcorporation.github.io/myMPD/ 
  mypaint-brushes  2.0.2  MyPaint brushes  https://github.com/mypaint/mypaint-brushes 
@@ -1894,7 +1894,7 @@
  nsis  3.12  A professional open source system to create Windows installers  https://sourceforge.net/projects/nsis/ 
  nsis-stubs  3.12  NSIS Stubs  https://sourceforge.net/projects/nsis/ 
  nsnake  3.0.1-7  The classic snake game with textual interface  https://github.com/alexdantas/nSnake 
- nss-utils  3.124  Tools for NSS  https://firefox-source-docs.mozilla.org/security/nss/ 
+ nss-utils  3.125  Tools for NSS  https://firefox-source-docs.mozilla.org/security/nss/ 
  nudoku  8.0.0  ncurses based sudoku game  http://jubalh.github.io/nudoku/ 
  nushell  0.113.1  A new type of shell operating on structured data  https://www.nushell.sh 
  nyancat  1.5.2-1  Nyancat in your terminal, rendered through ANSI escape sequences.  http://nyancat.dakko.us 
@@ -2098,7 +2098,7 @@
  progress  0.17-1  Linux tool to show progress for cp, mv, dd and more  https://github.com/Xfennec/progress 
  proj  9.8.1  Generic coordinate transformation software  https://proj.org 
  proot  5.1.107.78-1  Emulate chroot, bind mount and binfmt_misc for non-root users  https://proot-me.github.io/ 
- proot-distro  5.2.0  Termux official utility for managing proot'ed Linux distributions  https://github.com/termux/proot-distro 
+ proot-distro  5.2.0-1  Termux official utility for managing proot'ed Linux distributions  https://github.com/termux/proot-distro 
  protobuf  2:33.1-1  Compiler for protocol buffer definition files  https://github.com/protocolbuffers/protobuf 
  proton-bridge  3.25.0  ProtonMail Bridge application  https://github.com/ProtonMail/proton-bridge 
  prover9  2009-11A-2  An automated theorem prover for first-order and equational logic  https://www.cs.unm.edu/~mccune/prover9/ 
@@ -2112,7 +2112,7 @@
  pulseaudio-glib  17.0-1  PulseAudio GLIB mainloop component  https://www.freedesktop.org/wiki/Software/PulseAudio 
  pup  0.4.0-7  command line tool for processing HTML  https://github.com/ericchiang/pup 
  pure-ftpd  1.0.54  Pure-FTPd is a free (BSD), secure, production-quality and standard-conformant FTP server  https://www.pureftpd.org/project/pure-ftpd 
- pv  1.10.5  Terminal-based tool for monitoring the progress of data through a pipeline  https://www.ivarch.com/programs/pv.shtml 
+ pv  1.11.0-1  Terminal-based tool for monitoring the progress of data through a pipeline  https://www.ivarch.com/programs/pv.shtml 
  pwgen  2.08-2  Password generator which by default, unless given the '-s' option, generates memorable but insecure passwords  http://pwgen.sourceforge.net/ 
  pybind11  3.0.4  A lightweight header-only library that exposes C++ types in Python and vice versa  https://pybind11.readthedocs.io/ 
  pycairo  1.29.0-1  Python bindings for the cairo graphics library  https://www.cairographics.org/pycairo/ 
@@ -2209,7 +2209,7 @@
  rage  0.11.2  A simple, secure and modern encryption tool  https://age-encryption.org/v1 
  ragel  7.0.4-1  Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code  https://www.colm.net/open-source/ragel/ 
  ragel-static  7.0.4-1  Static libraries for ragel  https://www.colm.net/open-source/ragel/ 
- railway-cli  5.12.0  This is the command line interface for Railway  https://railway.app 
+ railway-cli  5.12.1  This is the command line interface for Railway  https://railway.app 
  range-v3  0.12.0  Range library for C++14/17/20, basis for C++20's std::ranges  https://github.com/ericniebler/range-v3 
  ranger  1.9.4-1  File manager with VI key bindings  https://ranger.github.io/ 
  rapidjson  1.1.0-7  Fast JSON parser/generator for C++ with SAX/DOM style API  https://github.com/Tencent/rapidjson/ 

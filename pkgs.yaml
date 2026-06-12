@@ -567,7 +567,7 @@
   Description: An Binwalk firmware analysis tool.
   Homepage: https://github.com/ReFirmLabs/binwalk
 - Package: biome2
-  Version: 2.4.16
+  Version: 2.5.0
   Description: A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP
   Homepage: https://biomejs.dev/
 - Package: bison
@@ -5107,7 +5107,7 @@
   Description: Static libraries for libnspr
   Homepage: https://hg.mozilla.org/projects/nspr
 - Package: libnss
-  Version: "3.124"
+  Version: "3.125"
   Description: Network Security Services (NSS)
   Homepage: https://firefox-source-docs.mozilla.org/security/nss/
 - Package: libntl
@@ -6799,7 +6799,7 @@
   Description: Simple CAS and symbolic calculator
   Homepage: https://en.wikipedia.org/wiki/Mathomatic
 - Package: matplotlib
-  Version: 3.10.9
+  Version: 3.11.0
   Description: A comprehensive library for creating static, animated, and interactive visualizations in Python
   Homepage: https://matplotlib.org/
 - Package: matterbridge
@@ -7267,7 +7267,7 @@
   Description: Organizer of audio files into directories based on metadata tags
   Homepage: https://git.zx2c4.com/music-file-organizer/about/
 - Package: mutt
-  Version: 2.3.2
+  Version: 2.3.3
   Description: Mail client with patches from neomutt
   Homepage: http://www.mutt.org/
 - Package: myman
@@ -7583,7 +7583,7 @@
   Description: The classic snake game with textual interface
   Homepage: https://github.com/alexdantas/nSnake
 - Package: nss-utils
-  Version: "3.124"
+  Version: "3.125"
   Description: Tools for NSS
   Homepage: https://firefox-source-docs.mozilla.org/security/nss/
 - Package: nudoku
@@ -8399,7 +8399,7 @@
   Description: Emulate chroot, bind mount and binfmt_misc for non-root users
   Homepage: https://proot-me.github.io/
 - Package: proot-distro
-  Version: 5.2.0
+  Version: 5.2.0-1
   Description: Termux official utility for managing prooted Linux distributions
   Homepage: https://github.com/termux/proot-distro
 - Package: protobuf
@@ -8455,7 +8455,7 @@
   Description: Pure-FTPd is a free (BSD), secure, production-quality and standard-conformant FTP server
   Homepage: https://www.pureftpd.org/project/pure-ftpd
 - Package: pv
-  Version: 1.10.5
+  Version: 1.11.0-1
   Description: Terminal-based tool for monitoring the progress of data through a pipeline
   Homepage: https://www.ivarch.com/programs/pv.shtml
 - Package: pwgen
@@ -8843,7 +8843,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 5.12.0
+  Version: 5.12.1
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
