@@ -459,7 +459,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.35.3
+  Version: 2.35.4
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -2075,7 +2075,7 @@
   Description: C library for doing number theory
   Homepage: http://www.flintlib.org
 - Package: fluidsynth
-  Version: 2.5.4
+  Version: 2.5.5
   Description: Software synthesizer based on the SoundFont 2 specifications
   Homepage: https://github.com/FluidSynth/fluidsynth
 - Package: flyctl
@@ -2791,23 +2791,23 @@
   Description: Static libraries for gsl
   Homepage: https://www.gnu.org/software/gsl/
 - Package: gst-libav
-  Version: 1.28.3
+  Version: 1.28.4
   Description: GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code
   Homepage: https://gstreamer.freedesktop.org/modules/gst-libav.html
 - Package: gst-plugins-bad
-  Version: 1.28.3
+  Version: 1.28.4
   Description: GStreamer Bad Plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-plugins-base
-  Version: 1.28.3
+  Version: 1.28.4
   Description: GStreamer base plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-plugins-good
-  Version: 1.28.3
+  Version: 1.28.4
   Description: GStreamer Good Plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-plugins-ugly
-  Version: 1.28.3
+  Version: 1.28.4
   Description: GStreamer Ugly Plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-python
@@ -3227,7 +3227,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.24.2021
+  Version: 0.24.2051
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -7055,7 +7055,7 @@
   Description: Static libraries for minizinc
   Homepage: https://github.com/MiniZinc/libminizinc
 - Package: mise
-  Version: 2026.6.4
+  Version: 2026.6.5
   Description: dev tools, env vars, task runner
   Homepage: https://mise.jdx.dev/
 - Package: mkbootimg
@@ -7663,11 +7663,11 @@
   Description: The GNU Spreadsheet
   Homepage: https://www.gnu.org/software/oleo/
 - Package: ollama
-  Version: 0.30.7
+  Version: 0.30.8
   Description: Get up and running with large language models
   Homepage: https://ollama.com/
 - Package: ollama-backend-vulkan
-  Version: 0.30.7
+  Version: 0.30.8
   Description: Vulkan Backend for Ollama
   Homepage: https://ollama.com/
 - Package: oma
@@ -10651,7 +10651,7 @@
   Description: Static libraries for valadoc
   Homepage: https://wiki.gnome.org/Projects/Vala
 - Package: vale
-  Version: 3.14.2
+  Version: 3.15.1
   Description: A syntax-aware linter for prose built with speed and extensibility in mind
   Homepage: https://vale.sh
 - Package: valgrind
@@ -10851,7 +10851,7 @@
   Description: Libc for WebAssembly programs built on top of WASI system calls
   Homepage: https://wasi.dev/
 - Package: wasm-component-ld
-  Version: 0.5.24
+  Version: 0.5.25
   Description: Command line linker for creating WebAssembly components
   Homepage: https://github.com/bytecodealliance/wasm-component-ld
 - Package: wasmedge
