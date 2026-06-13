@@ -1111,7 +1111,7 @@
   Description: An extractor/converter for .LIT eBooks
   Homepage: http://www.convertlit.com/
 - Package: cookcli
-  Version: 0.31.0
+  Version: 0.32.0
   Description: A suite of tools to create shopping lists and maintain food recipes
   Homepage: https://cooklang.org
 - Package: coreutils
@@ -2435,7 +2435,7 @@
   Description: Git branches made easy
   Homepage: https://www.git-town.com
 - Package: gitea
-  Version: 1.25.5
+  Version: 1.26.2
   Description: Git with a cup of tea, painless self-hosted git service
   Homepage: https://gitea.io
 - Package: gitflow-avh
@@ -2811,7 +2811,7 @@
   Description: GStreamer Ugly Plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-python
-  Version: 1.28.3
+  Version: 1.28.4
   Description: Python bindings for GStreamer
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gstreamer
@@ -7055,7 +7055,7 @@
   Description: Static libraries for minizinc
   Homepage: https://github.com/MiniZinc/libminizinc
 - Package: mise
-  Version: 2026.6.5
+  Version: 2026.6.6
   Description: dev tools, env vars, task runner
   Homepage: https://mise.jdx.dev/
 - Package: mkbootimg

@@ -288,7 +288,7 @@
 | **composer** | 2.10.1 | Dependency Manager for PHP | https://getcomposer.org/ |
 | **console-bridge** | 1.0.2-1 | A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages | https://github.com/ros/console_bridge |
 | **convertlit** | 1.8-2 | An extractor/converter for .LIT eBooks | http://www.convertlit.com/ |
-| **cookcli** | 0.31.0 | A suite of tools to create shopping lists and maintain food recipes | https://cooklang.org |
+| **cookcli** | 0.32.0 | A suite of tools to create shopping lists and maintain food recipes | https://cooklang.org |
 | **coreutils** | 9.11 | Basic file, shell and text manipulation utilities from the GNU project | https://www.gnu.org/software/coreutils/ |
 | **corgi** | 0.2.4-6 | CLI workflow manager | https://github.com/DrakeW/corgi |
 | **corkscrew** | 2.0-4 | A tool for tunneling SSH through HTTP proxies | https://wiki.linuxquestions.org/wiki/Corkscrew |
@@ -619,7 +619,7 @@
 | **git-sizer** | 1.5.0-5 | Compute various size metrics for a Git repository | https://github.com/github/git-sizer |
 | **git-svn** | 2.54.0 | Convert between Git and Subversion repositories | https://git-scm.com/ |
 | **git-town** | 23.0.2 | Git branches made easy | https://www.git-town.com |
-| **gitea** | 1.25.5 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
+| **gitea** | 1.26.2 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
 | **gitflow-avh** | 1.12.3-9 | Extend git with Vincent Driessen's branching model. The AVH Edition adds more functionality. | https://github.com/petervanderdoes/gitflow/ |
 | **gitoxide** | 0.54.0 | Rust implementation of Git | https://github.com/GitoxideLabs/gitoxide |
 | **gitui** | 0.28.1 | Blazing fast terminal-ui for git written in rust | https://github.com/gitui-org/gitui |
@@ -713,7 +713,7 @@
 | **gst-plugins-base** | 1.28.4 | GStreamer base plug-ins | https://gstreamer.freedesktop.org/ |
 | **gst-plugins-good** | 1.28.4 | GStreamer Good Plug-ins | https://gstreamer.freedesktop.org/ |
 | **gst-plugins-ugly** | 1.28.4 | GStreamer Ugly Plug-ins | https://gstreamer.freedesktop.org/ |
-| **gst-python** | 1.28.3 | Python bindings for GStreamer | https://gstreamer.freedesktop.org/ |
+| **gst-python** | 1.28.4 | Python bindings for GStreamer | https://gstreamer.freedesktop.org/ |
 | **gstreamer** | 1.28.4 | Open source multimedia framework | https://gstreamer.freedesktop.org/ |
 | **gtypist** | 2.10.1-1 | Universal typing tutor | https://www.gnu.org/software/gtypist/ |
 | **guile** | 3.0.11-1 | Portable, embeddable Scheme implementation written in C | http://www.gnu.org/software/guile/ |
@@ -1774,7 +1774,7 @@
 | **miniupnpc-static** | 2.3.3-1 | Static libraries for miniupnpc | https://miniupnp.tuxfamily.org/ |
 | **minizinc** | 2.9.7 | A medium-level constraint modelling language | https://github.com/MiniZinc/libminizinc |
 | **minizinc-static** | 2.9.7 | Static libraries for minizinc | https://github.com/MiniZinc/libminizinc |
-| **mise** | 2026.6.5 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
+| **mise** | 2026.6.6 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
 | **mkbootimg** | 2022.11.09-1 | Maintained fork with android's mkbootimg and unpackbootimg | https://github.com/osm0sis/mkbootimg |
 | **mkp224o** | 1.7.0-1 | Generate vanity ed25519 (hidden service version 3) onion addresses | https://github.com/cathugger/mkp224o |
 | **mksh** | 59c-3 | The MirBSD Korn Shell - an enhanced version of the public domain ksh | http://www.mirbsd.org/mksh.htm |
