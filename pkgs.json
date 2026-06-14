@@ -8809,7 +8809,7 @@
   },
   {
     "Package": "libtorrent",
-    "Version": "0.16.13",
+    "Version": "0.16.14",
     "Description": "Libtorrent BitTorrent library",
     "Homepage": "https://github.com/rakshasa/rtorrent/wiki"
   },
@@ -8821,7 +8821,7 @@
   },
   {
     "Package": "libtorrent-static",
-    "Version": "0.16.13",
+    "Version": "0.16.14",
     "Description": "Static libraries for libtorrent",
     "Homepage": "https://github.com/rakshasa/rtorrent/wiki"
   },
@@ -10585,7 +10585,7 @@
   },
   {
     "Package": "mise",
-    "Version": "2026.6.7",
+    "Version": "2026.6.9",
     "Description": "dev tools, env vars, task runner",
     "Homepage": "https://mise.jdx.dev/"
   },
@@ -13639,7 +13639,7 @@
   },
   {
     "Package": "rtorrent",
-    "Version": "0.16.13",
+    "Version": "0.16.14",
     "Description": "Ncurses BitTorrent client based on libTorrent",
     "Homepage": "https://rakshasa.github.io/rtorrent/"
   },
