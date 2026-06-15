@@ -1618,7 +1618,7 @@
 | **libzmq-static** | 4.3.5-2 | Static libraries for libzmq | https://zeromq.org/ |
 | **libzopfli** | 1.0.3-5 | New zlib compatible compressor library | https://github.com/google/zopfli |
 | **libzxing-cpp** | 3.0.2 | An open-source, multi-format 1D/2D barcode image processing library implemented in C++ | https://github.com/zxing-cpp/zxing-cpp |
-| **lighttpd** | 1.4.82 | Fast webserver with minimal memory footprint | https://www.lighttpd.net |
+| **lighttpd** | 1.4.83 | Fast webserver with minimal memory footprint | https://www.lighttpd.net |
 | **lilv** | 0.28.0 | A C library to make the use of LV2 plugins as simple as possible for applications | https://drobilla.net/software/lilv.html |
 | **lilypond** | 2.26.0 | A music engraving program | https://lilypond.org/ |
 | **links** | 2.29-2 | Links is a text and graphics mode WWW browser | http://links.twibright.com |
@@ -1774,7 +1774,7 @@
 | **miniupnpc-static** | 2.3.3-1 | Static libraries for miniupnpc | https://miniupnp.tuxfamily.org/ |
 | **minizinc** | 2.9.7 | A medium-level constraint modelling language | https://github.com/MiniZinc/libminizinc |
 | **minizinc-static** | 2.9.7 | Static libraries for minizinc | https://github.com/MiniZinc/libminizinc |
-| **mise** | 2026.6.9 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
+| **mise** | 2026.6.10 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
 | **mkbootimg** | 2022.11.09-1 | Maintained fork with android's mkbootimg and unpackbootimg | https://github.com/osm0sis/mkbootimg |
 | **mkp224o** | 1.7.0-1 | Generate vanity ed25519 (hidden service version 3) onion addresses | https://github.com/cathugger/mkp224o |
 | **mksh** | 59c-3 | The MirBSD Korn Shell - an enhanced version of the public domain ksh | http://www.mirbsd.org/mksh.htm |
