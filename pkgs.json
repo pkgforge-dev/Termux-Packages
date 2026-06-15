@@ -181,7 +181,7 @@
   },
   {
     "Package": "alsa-lib",
-    "Version": "1.2.16",
+    "Version": "1.2.16.1",
     "Description": "The Advanced Linux Sound Architecture (ALSA) - library",
     "Homepage": "https://www.alsa-project.org"
   },
@@ -4303,7 +4303,7 @@
   },
   {
     "Package": "hash-slinger",
-    "Version": "3.5-1",
+    "Version": "3.6",
     "Description": "Various tools to generate special DNS records",
     "Homepage": "https://github.com/letoams/hash-slinger"
   },
@@ -11509,7 +11509,7 @@
   },
   {
     "Package": "oma",
-    "Version": "1.26.4",
+    "Version": "1.26.5",
     "Description": "oma is an attempt at reworking APTs interface",
     "Homepage": "https://aosc.io/oma"
   },
@@ -11887,13 +11887,13 @@
   },
   {
     "Package": "oxfmt",
-    "Version": "1.69.0",
+    "Version": "1.70.0",
     "Description": "Oxc JavaScript formatter",
     "Homepage": "https://oxc.rs/"
   },
   {
     "Package": "oxlint",
-    "Version": "1.69.0",
+    "Version": "1.70.0",
     "Description": "Oxc JavaScript linter",
     "Homepage": "https://oxc.rs/"
   },
@@ -12925,7 +12925,7 @@
   },
   {
     "Package": "python-sabyenc3",
-    "Version": "9.4.0",
+    "Version": "9.4.1",
     "Description": "C implementations of functions for use within SABnzbd",
     "Homepage": "https://github.com/sabnzbd/sabctools"
   },
@@ -14737,7 +14737,7 @@
   },
   {
     "Package": "swi-prolog",
-    "Version": "10.1.8",
+    "Version": "10.1.9",
     "Description": "Most popular and complete prolog implementation",
     "Homepage": "https://swi-prolog.org/"
   },
