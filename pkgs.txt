@@ -749,7 +749,7 @@
  httrack-data  3.49.7  Platform-independent data for httrack  http://www.httrack.com 
  httrack-static  3.49.7  Static libraries for httrack  http://www.httrack.com 
  hub  2.14.2-6  Command-line wrapper for git that makes you better at GitHub  https://hub.github.com/ 
- hugo  0.163.1  A fast and flexible static site generator  https://gohugo.io/ 
+ hugo  0.163.2  A fast and flexible static site generator  https://gohugo.io/ 
  hummin  2021.05.18-4  Command line client for the imperial library of trantor  https://trantor.is/ 
  hunspell  1.7.3  Spell checker  https://hunspell.github.io 
  hunspell-en-us  20240129  American english dictionary for hunspell  https://hunspell.github.io 
@@ -2202,14 +2202,14 @@
  quick-lint-js  3.2.0-1  Finds bugs in JavaScript programs  https://quick-lint-js.com/ 
  quickjs-ng  0.15.1  Embeddable JavaScript engine in C (NG fork)  https://quickjs-ng.github.io/quickjs/ 
  quilt  0.69  Allows you to easily manage large numbers of patches  https://savannah.nongnu.org/projects/quilt 
- rabbitmq-server  4.3.1  Feature rich, multi-protocol messaging and streaming broker  https://github.com/rabbitmq/rabbitmq-server 
+ rabbitmq-server  4.3.2  Feature rich, multi-protocol messaging and streaming broker  https://github.com/rabbitmq/rabbitmq-server 
  racket  9.2  Full-spectrum programming language going beyond Lisp and Scheme  https://racket-lang.org 
  racket-static  9.2  Static libraries for racket  https://racket-lang.org 
  radare2  6.1.6  UNIX-like reverse engineering framework and command-line toolset  https://www.radare.org/ 
  rage  0.11.2  A simple, secure and modern encryption tool  https://age-encryption.org/v1 
  ragel  7.0.4-1  Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code  https://www.colm.net/open-source/ragel/ 
  ragel-static  7.0.4-1  Static libraries for ragel  https://www.colm.net/open-source/ragel/ 
- railway-cli  5.12.1  This is the command line interface for Railway  https://railway.app 
+ railway-cli  5.13.0  This is the command line interface for Railway  https://railway.app 
  range-v3  0.12.0  Range library for C++14/17/20, basis for C++20's std::ranges  https://github.com/ericniebler/range-v3 
  ranger  1.9.4-1  File manager with VI key bindings  https://ranger.github.io/ 
  rapidjson  1.1.0-7  Fast JSON parser/generator for C++ with SAX/DOM style API  https://github.com/Tencent/rapidjson/ 
@@ -2322,11 +2322,11 @@
  sdcv  0.5.5-2  StarDict Console Version  http://dushistov.github.io/sdcv/ 
  seafile-client  9.0.18  Seafile is a file syncing and sharing software with file encryption and group sharing  https://seafile.com 
  seafile-client-static  9.0.18  Static libraries for seafile-client  https://seafile.com 
- seanime  3.8.6  Self-hosted anime and manga server for sea rovers.  https://github.com/5rahim/seanime 
+ seanime  3.8.7  Self-hosted anime and manga server for sea rovers.  https://github.com/5rahim/seanime 
  seccure  0.5-8  SECCURE Elliptic Curve Crypto Utility for Reliable Encryption  http://point-at-infinity.org/seccure/ 
  secure-delete  3.1-6  Secure file, disk, swap, memory erasure utilities  https://www.thc.org/ 
  sed  4.9-2  GNU stream editor for filtering/transforming text  https://www.gnu.org/software/sed/ 
- sendme  0.35.0  A tool to send files and directories, based on iroh  https://github.com/n0-computer/sendme 
+ sendme  0.36.0  A tool to send files and directories, based on iroh  https://github.com/n0-computer/sendme 
  sendxmpp  1.24-1  A perl-script to send XMPP (jabber) messages  https://sendxmpp.hostname.sk/ 
  senpai  1:0.5.0  An IRC client that works best with bouncers  https://git.sr.ht/~delthas/senpai 
  sensible-utils  0.0.26  Small utilities used by programs to sensibly select and spawn an appropriate browser, editor, or pager  https://packages.debian.org/sid/sensible-utils 
@@ -2429,7 +2429,7 @@
  stoken  0.93-3  Software Token for Linux/UNIX  https://github.com/cernekee/stoken 
  stoken-static  0.93-3  Static libraries for stoken  https://github.com/cernekee/stoken 
  stone  2.4-3  A TCP/IP repeater in the application layer  https://www.gcd.org/sengoku/stone/ 
- storj-uplink  1.155.8  Storj DCS Uplink CLI  https://www.storj.io/integrations/uplink-cli 
+ storj-uplink  1.157.4  Storj DCS Uplink CLI  https://www.storj.io/integrations/uplink-cli 
  stow  2.4.1  Tool for managing the installation of multiple software packages into a single directory  https://www.gnu.org/software/stow/ 
  strace  7.0  Debugging utility to monitor system calls and signals received  https://strace.io/ 
  streamripper  1.64.6-3  Records and splits streaming mp3 into tracks  https://streamripper.sourceforge.net/ 
@@ -2680,7 +2680,7 @@
  viddy  1.3.1  A modern watch command  https://github.com/sachaos/viddy 
  vifm  0.14.4  File manager with vi like keybindings  https://vifm.info/ 
  vile  9.8z-1  VI Like Emacs - vi work-alike  https://invisible-island.net/vile/ 
- vim  9.2.0600  Vi IMproved - enhanced vi editor  https://www.vim.org 
+ vim  9.2.0650  Vi IMproved - enhanced vi editor  https://www.vim.org 
  virglrenderer  1.3.0  A virtual 3D GPU for use inside qemu virtual machines  https://virgil3d.github.io/ 
  virglrenderer-android  1.3.0  A virtual 3D GPU for use inside qemu virtual machines over OpenGLES libraries on Android  https://virgil3d.github.io/ 
  virustotal-cli  1.3.1  Command line interface for VirusTotal  https://github.com/VirusTotal/vt-cli 
@@ -2714,7 +2714,7 @@
  wasm-component-ld  0.5.25  Command line linker for creating WebAssembly components  https://github.com/bytecodealliance/wasm-component-ld 
  wasmedge  0.17.0  A lightweight, high-performance, and extensible WebAssembly runtime  https://wasmedge.org/ 
  wasmer  7.0.1  A fast and secure WebAssembly runtime  https://wasmer.io/ 
- wasmtime  45.0.1  A standalone runtime for WebAssembly  https://wasmtime.dev/ 
+ wasmtime  45.0.2  A standalone runtime for WebAssembly  https://wasmtime.dev/ 
  watchexec  2.5.1  Executes commands in response to file modifications  https://github.com/watchexec/watchexec 
  wavpack  5.9.0  WavPack command-line programs  https://www.wavpack.com/ 
  waypipe  0.11.0  A proxy for Wayland clients  https://gitlab.freedesktop.org/mstoeckl/waypipe 
@@ -2774,7 +2774,7 @@
  xtrans  1.6.0  X transport library  https://xorg.freedesktop.org/ 
  xvidcore  1.3.7-1  High performance and high quality MPEG-4 library  https://www.xvid.com/ 
  xvidcore-static  1.3.7-1  Static libraries for xvidcore  https://www.xvid.com/ 
- xxd  9.2.0600  Hexdump utility from vim  https://www.vim.org 
+ xxd  9.2.0650  Hexdump utility from vim  https://www.vim.org 
  xxhash  0.8.3-1  Extremely fast non-cryptographic hash algorithm  https://cyan4973.github.io/xxHash/ 
  xxhash-static  0.8.3-1  Static libraries for xxhash  https://cyan4973.github.io/xxHash/ 
  xz-utils  5.8.3  XZ-format compression tools  https://tukaani.org/xz/ 
