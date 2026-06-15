@@ -1863,7 +1863,7 @@
   Description: A Go based command line tool for exercism.io
   Homepage: https://github.com/exercism/cli/
 - Package: exfatprogs
-  Version: 1.4.1
+  Version: 1.4.2
   Description: exFAT filesystem userspace utilities
   Homepage: https://github.com/exfatprogs/exfatprogs
 - Package: exhale
@@ -7115,7 +7115,7 @@
   Description: Simple game where you drive a car across the moons surface
   Homepage: https://www.seehuhn.de/programs/moon-buggy
 - Package: moor
-  Version: 2.15.0
+  Version: 2.15.1
   Description: A pager designed to just do the right thing without any configuration
   Homepage: https://github.com/walles/moor
 - Package: mop
@@ -9147,7 +9147,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: "20260608"
+  Version: "20260615"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://rust-analyzer.github.io/
 - Package: rust-bindgen
