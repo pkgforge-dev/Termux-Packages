@@ -4759,7 +4759,7 @@
   },
   {
     "Package": "iproute2",
-    "Version": "7.0.0",
+    "Version": "7.1.0",
     "Description": "Utilities for controlling networking",
     "Homepage": "https://wiki.linuxfoundation.org/networking/iproute2"
   },
@@ -4897,13 +4897,13 @@
   },
   {
     "Package": "jellyfin-ffmpeg",
-    "Version": "10.11.5-3",
+    "Version": "10.11.11",
     "Description": "FFmpeg for Jellyfin with custom extensions and enhancements",
     "Homepage": "https://jellyfin.org"
   },
   {
     "Package": "jellyfin-server",
-    "Version": "10.11.5-3",
+    "Version": "10.11.11",
     "Description": "A free media system for organizing and streaming media (server)",
     "Homepage": "https://jellyfin.org"
   },
@@ -9853,13 +9853,13 @@
   },
   {
     "Package": "lsof",
-    "Version": "4.99.6",
+    "Version": "4.99.7",
     "Description": "Lists open files for running Unix processes",
     "Homepage": "https://github.com/lsof-org/lsof"
   },
   {
     "Package": "lsof-static",
-    "Version": "4.99.6",
+    "Version": "4.99.7",
     "Description": "Static libraries for lsof",
     "Homepage": "https://github.com/lsof-org/lsof"
   },
@@ -10219,7 +10219,7 @@
   },
   {
     "Package": "mautrix-whatsapp",
-    "Version": "0.2605.0",
+    "Version": "0.2606.0",
     "Description": "A Matrix-WhatsApp puppeting bridge",
     "Homepage": "https://maunium.net/go/mautrix-whatsapp/"
   },
@@ -11113,7 +11113,7 @@
   },
   {
     "Package": "neomutt",
-    "Version": "20260504",
+    "Version": "20260616",
     "Description": "A version of mutt with added features",
     "Homepage": "https://neomutt.org/"
   },
@@ -13261,7 +13261,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "5.13.3",
+    "Version": "5.14.0",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
