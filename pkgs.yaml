@@ -459,7 +459,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.35.4-1
+  Version: 2.35.5
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -2483,7 +2483,7 @@
   Description: C++ mathematics library for graphics programming
   Homepage: https://glm.g-truc.net/
 - Package: global
-  Version: 6.6.14-1
+  Version: 6.6.15
   Description: Source code search and browse tools
   Homepage: https://www.gnu.org/software/global/
 - Package: glow
@@ -6687,7 +6687,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.31.1
+  Version: 0.32.0
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://lux.lumen-labs.org
 - Package: lv2
@@ -7231,7 +7231,7 @@
   Description: Tool for manipulating FAT images
   Homepage: https://www.gnu.org/software/mtools/
 - Package: mu
-  Version: 1.14.1
+  Version: 1.14.2
   Description: Maildir indexer/searcher and Emacs client (mu4e)
   Homepage: https://www.djcbsoftware.nl/code/mu/
 - Package: muchsync
@@ -7543,7 +7543,7 @@
   Description: Open Source, cross-platform JavaScript runtime environment
   Homepage: https://nodejs.org/
 - Package: nodejs-lts
-  Version: 24.15.0
+  Version: 24.16.0
   Description: Open Source, cross-platform JavaScript runtime environment
   Homepage: https://nodejs.org/
 - Package: notcurses
@@ -8535,7 +8535,7 @@
   Description: Python library for calculating contours in 2D quadrilateral grids
   Homepage: https://contourpy.readthedocs.io/
 - Package: python-cryptography
-  Version: 48.0.1
+  Version: 48.0.1-1
   Description: Provides cryptographic recipes and primitives to Python developers
   Homepage: https://github.com/pyca/cryptography
 - Package: python-ensurepip-wheels
@@ -9731,7 +9731,7 @@
   Description: Tool for managing the installation of multiple software packages into a single directory
   Homepage: https://www.gnu.org/software/stow/
 - Package: strace
-  Version: "7.0"
+  Version: "7.1"
   Description: Debugging utility to monitor system calls and signals received
   Homepage: https://strace.io/
 - Package: streamripper

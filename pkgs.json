@@ -691,7 +691,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.35.4-1",
+    "Version": "2.35.5",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -3727,7 +3727,7 @@
   },
   {
     "Package": "global",
-    "Version": "6.6.14-1",
+    "Version": "6.6.15",
     "Description": "Source code search and browse tools",
     "Homepage": "https://www.gnu.org/software/global/"
   },
@@ -10033,7 +10033,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.31.1",
+    "Version": "0.32.0",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://lux.lumen-labs.org"
   },
@@ -10849,7 +10849,7 @@
   },
   {
     "Package": "mu",
-    "Version": "1.14.1",
+    "Version": "1.14.2",
     "Description": "Maildir indexer/searcher and Emacs client (mu4e)",
     "Homepage": "https://www.djcbsoftware.nl/code/mu/"
   },
@@ -11317,7 +11317,7 @@
   },
   {
     "Package": "nodejs-lts",
-    "Version": "24.15.0",
+    "Version": "24.16.0",
     "Description": "Open Source, cross-platform JavaScript runtime environment",
     "Homepage": "https://nodejs.org/"
   },
@@ -12805,7 +12805,7 @@
   },
   {
     "Package": "python-cryptography",
-    "Version": "48.0.1",
+    "Version": "48.0.1-1",
     "Description": "Provides cryptographic recipes and primitives to Python developers",
     "Homepage": "https://github.com/pyca/cryptography"
   },
@@ -14599,7 +14599,7 @@
   },
   {
     "Package": "strace",
-    "Version": "7.0",
+    "Version": "7.1",
     "Description": "Debugging utility to monitor system calls and signals received",
     "Homepage": "https://strace.io/"
   },
