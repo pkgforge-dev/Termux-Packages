@@ -457,7 +457,7 @@
   },
   {
     "Package": "asciinema",
-    "Version": "1:3.2.0",
+    "Version": "1:3.2.1",
     "Description": "Record and share your terminal sessions, the right way",
     "Homepage": "https://asciinema.org/"
   },
@@ -1069,7 +1069,7 @@
   },
   {
     "Package": "buf",
-    "Version": "1.70.0",
+    "Version": "1.71.0",
     "Description": "A new way of working with Protocol Buffers",
     "Homepage": "https://buf.build"
   },
@@ -1081,7 +1081,7 @@
   },
   {
     "Package": "busybox",
-    "Version": "1.37.0-3",
+    "Version": "1.38.0",
     "Description": "Tiny versions of many common UNIX utilities into a single small executable",
     "Homepage": "https://busybox.net/"
   },
@@ -2509,7 +2509,7 @@
   },
   {
     "Package": "dua",
-    "Version": "2.34.0",
+    "Version": "2.35.0",
     "Description": "View disk space usage and delete unwanted data, fast",
     "Homepage": "https://github.com/Byron/dua-cli"
   },
@@ -3931,7 +3931,7 @@
   },
   {
     "Package": "gomuks",
-    "Version": "26.05",
+    "Version": "26.06",
     "Description": "A terminal Matrix client written in Go",
     "Homepage": "https://go.mau.fi/gomuks"
   },
@@ -8065,7 +8065,7 @@
   },
   {
     "Package": "libpugixml",
-    "Version": "1.15-1",
+    "Version": "1.16",
     "Description": "Light-weight, simple and fast XML parser for C++ with XPath support",
     "Homepage": "https://pugixml.org/"
   },
@@ -10027,7 +10027,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.32.0",
+    "Version": "0.33.0",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://lux.lumen-labs.org"
   },
@@ -11461,7 +11461,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "29.15.1",
+    "Version": "29.16.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -12589,13 +12589,13 @@
   },
   {
     "Package": "proot",
-    "Version": "5.1.107.78-1",
+    "Version": "5.1.107.79",
     "Description": "Emulate chroot, bind mount and binfmt_misc for non-root users",
     "Homepage": "https://proot-me.github.io/"
   },
   {
     "Package": "proot-distro",
-    "Version": "5.2.0-1",
+    "Version": "5.3.0",
     "Description": "Termux official utility for managing prooted Linux distributions",
     "Homepage": "https://github.com/termux/proot-distro"
   },
@@ -13261,7 +13261,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "5.14.0",
+    "Version": "5.15.0",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -15697,7 +15697,7 @@
   },
   {
     "Package": "typst",
-    "Version": "0.14.2",
+    "Version": "0.15.0",
     "Description": "A new markup-based typesetting system that is powerful and easy to learn",
     "Homepage": "https://typst.app/"
   },
@@ -16249,7 +16249,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "2.16.1",
+    "Version": "2.18.0",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },

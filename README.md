@@ -86,7 +86,7 @@
 | **ascii** | 3.32 | List ASCII idiomatic names and octal/decimal code-point forms | http://www.catb.org/~esr/ascii/ |
 | **asciidoc** | 10.2.1-2 | Text document format for short documents, articles, books and UNIX man pages. | https://asciidoc.org |
 | **asciidoctor** | 2.0.26 | An implementation of AsciiDoc in Ruby | https://asciidoctor.org/ |
-| **asciinema** | 1:3.2.0 | Record and share your terminal sessions, the right way | https://asciinema.org/ |
+| **asciinema** | 1:3.2.1 | Record and share your terminal sessions, the right way | https://asciinema.org/ |
 | **asm-lsp** | 0.10.1 | language server for NASM/GAS/GO assembly | https://github.com/bergercookie/asm-lsp |
 | **aspell** | 0.60.8.2 | A free and open source spell checker designed to replace Ispell | http://aspell.net |
 | **aspell-de** | 1:20161207.7.0 | German dictionary for aspell | http://aspell.net/ |
@@ -188,9 +188,9 @@
 | **bsdtar** | 3.8.7 | The tar(1) and cpio(1) programs from FreeBSD, using libarchive | https://www.libarchive.org/ |
 | **btfs2** | 4.1.0 | Decentralized file system integrating with TRON network and Bittorrent network | https://www.bittorrent.com/btfs/ |
 | **btrfs-progs** | 7.0 | Utilities for Btrfs filesystem | https://btrfs.readthedocs.io/en/latest/ |
-| **buf** | 1.70.0 | A new way of working with Protocol Buffers | https://buf.build |
+| **buf** | 1.71.0 | A new way of working with Protocol Buffers | https://buf.build |
 | **build-essential** | 4.1 | A metapackage that installs essential development tools | https://github.com/termux/termux-packages |
-| **busybox** | 1.37.0-3 | Tiny versions of many common UNIX utilities into a single small executable | https://busybox.net/ |
+| **busybox** | 1.38.0 | Tiny versions of many common UNIX utilities into a single small executable | https://busybox.net/ |
 | **bvi** | 1.5.0-1 | Binary file editor based on vi | https://bvi.sourceforge.net/ |
 | **byacc** | 20260126 | byacc is generally conceded to be the best yacc variant available | https://invisible-island.net/byacc/ |
 | **byobu** | 7.12 | Byobu is a GPLv3 open source text-based window manager and terminal multiplexer | https://www.byobu.org/ |
@@ -428,7 +428,7 @@
 | **dtc** | 1.8.1 | Device Tree Compiler | https://git.kernel.org/pub/scm/utils/dtc/dtc |
 | **dtc-static** | 1.8.1 | Static libraries for dtc | https://git.kernel.org/pub/scm/utils/dtc/dtc |
 | **dte** | 1.11.1-2 | A small, configurable console text editor | https://craigbarnes.gitlab.io/dte/ |
-| **dua** | 2.34.0 | View disk space usage and delete unwanted data, fast | https://github.com/Byron/dua-cli |
+| **dua** | 2.35.0 | View disk space usage and delete unwanted data, fast | https://github.com/Byron/dua-cli |
 | **duc** | 1.4.6 | High-performance disk usage analyzer | http://duc.zevv.nl/ |
 | **duckdb** | 1.5.3 | DuckDB Command Line Interface (CLI) shell | https://duckdb.org/ |
 | **duf** | 0.9.1 | Disk usage/free utility | https://github.com/muesli/duf |
@@ -665,7 +665,7 @@
 | **golang** | 3:1.26.3 | Go programming language compiler | https://go.dev/ |
 | **golang-doc** | 3:1.26.3 | Go programming language - documentation | https://go.dev/ |
 | **gomp** | 2023.02.02-3 | MPD client inspired by ncmpcpp with builtin cover-art view and LastFM integration | https://aditya-k2.github.io/gomp/ |
-| **gomuks** | 26.05 | A terminal Matrix client written in Go | https://go.mau.fi/gomuks |
+| **gomuks** | 26.06 | A terminal Matrix client written in Go | https://go.mau.fi/gomuks |
 | **google-glog** | 0.7.1-2 | Logging library for C++ | https://github.com/google/glog |
 | **googletest** | 1.17.0-1 | Google C++ testing framework | https://github.com/google/googletest |
 | **goose** | 3.27.1 | A database migration tool. Supports SQL migrations and Go functions. | https://pressly.github.io/goose |
@@ -1354,7 +1354,7 @@
 | **libprotozero** | 1.8.0 | Minimalistic protocol buffer decoder and encoder in C++ | https://github.com/mapbox/protozero |
 | **libpsl** | 0.21.5-1 | Public Suffix List library | https://github.com/rockdaboot/libpsl |
 | **libpsl-static** | 0.21.5-1 | Static libraries for libpsl | https://github.com/rockdaboot/libpsl |
-| **libpugixml** | 1.15-1 | Light-weight, simple and fast XML parser for C++ with XPath support | https://pugixml.org/ |
+| **libpugixml** | 1.16 | Light-weight, simple and fast XML parser for C++ with XPath support | https://pugixml.org/ |
 | **libqrencode** | 4.1.1-2 | Fast and compact library for encoding data in a QR Code symbol | https://fukuchi.org/works/qrencode/ |
 | **libraptor2** | 2.0.16-10 | RDF Syntax Library | https://librdf.org/raptor/ |
 | **libraptor2-static** | 2.0.16-10 | Static libraries for libraptor2 | https://librdf.org/raptor/ |
@@ -1681,7 +1681,7 @@
 | **luvi** | 1:2.15.0-2 | A project in-between luv and luvit | https://luvit.io |
 | **luvit** | 2.18.1-1 | Asynchronous I/O for Lua | https://luvit.io |
 | **lux** | 0.24.1-2 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
-| **lux-cli** | 0.32.0 | A package manager for Lua, similar to luarocks | https://lux.lumen-labs.org |
+| **lux-cli** | 0.33.0 | A package manager for Lua, similar to luarocks | https://lux.lumen-labs.org |
 | **lv2** | 1.18.10-7 | A plugin standard for audio systems | https://lv2plug.in/ |
 | **lychee** | 0.24.2 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
 | **lynx** | 2.9.2-1 | The text web browser | http://lynx.browser.org/ |
@@ -1920,7 +1920,7 @@
 | **octomap** | 1.10.0-1 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0-1 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-5 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 29.15.1 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 29.16.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **oidn** | 2.4.1 | Intel® Open Image Denoise library | https://www.openimagedenoise.org |
 | **okc-agents** | 0.1.2-2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.7 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
@@ -2108,8 +2108,8 @@
 | **profanity** | 0.18.2 | Profanity is a console based XMPP client written in C using ncurses and libstrophe, inspired by Irssi | https://profanity-im.github.io |
 | **progress** | 0.17-1 | Linux tool to show progress for cp, mv, dd and more | https://github.com/Xfennec/progress |
 | **proj** | 9.8.1 | Generic coordinate transformation software | https://proj.org |
-| **proot** | 5.1.107.78-1 | Emulate chroot, bind mount and binfmt_misc for non-root users | https://proot-me.github.io/ |
-| **proot-distro** | 5.2.0-1 | Termux official utility for managing proot'ed Linux distributions | https://github.com/termux/proot-distro |
+| **proot** | 5.1.107.79 | Emulate chroot, bind mount and binfmt_misc for non-root users | https://proot-me.github.io/ |
+| **proot-distro** | 5.3.0 | Termux official utility for managing proot'ed Linux distributions | https://github.com/termux/proot-distro |
 | **protobuf** | 2:33.1-1 | Compiler for protocol buffer definition files | https://github.com/protocolbuffers/protobuf |
 | **proton-bridge** | 3.25.0 | ProtonMail Bridge application | https://github.com/ProtonMail/proton-bridge |
 | **prover9** | 2009-11A-2 | An automated theorem prover for first-order and equational logic | https://www.cs.unm.edu/~mccune/prover9/ |
@@ -2220,7 +2220,7 @@
 | **rage** | 0.11.2 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4-1 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4-1 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
-| **railway-cli** | 5.14.0 | This is the command line interface for Railway | https://railway.app |
+| **railway-cli** | 5.15.0 | This is the command line interface for Railway | https://railway.app |
 | **range-v3** | 0.12.0 | Range library for C++14/17/20, basis for C++20's std::ranges | https://github.com/ericniebler/range-v3 |
 | **ranger** | 1.9.4-1 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-7 | Fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |
@@ -2626,7 +2626,7 @@
 | **twolame** | 0.4.0-1 | The frontend for libtwolame | https://www.twolame.org/ |
 | **txikijs** | 1:26.5.0 | A small and powerful JavaScript runtime | https://github.com/saghul/txiki.js |
 | **ty** | 0.0.49 | An extremely fast Python type checker and language server, written in Rust | https://github.com/astral-sh/ty |
-| **typst** | 0.14.2 | A new markup-based typesetting system that is powerful and easy to learn | https://typst.app/ |
+| **typst** | 0.15.0 | A new markup-based typesetting system that is powerful and easy to learn | https://typst.app/ |
 | **typstfmt** | 0.2.10-1 | basic formatter for the Typst language | https://github.com/astrale-sharp/typstfmt |
 | **uchardet** | 0.0.8-2 | An encoding detector utility | https://www.freedesktop.org/wiki/Software/uchardet/ |
 | **udftools** | 2.3-1 | Linux tools for UDF filesystems and DVD/CD-R(W) drives | https://github.com/pali/udftools |
@@ -2718,7 +2718,7 @@
 | **w3m** | 0.5.6-1 | Text based Web browser and pager | https://git.sr.ht/~rkta/w3m |
 | **w3m-img** | 0.5.6-1 | Inline image extension support utilities for w3m | https://git.sr.ht/~rkta/w3m |
 | **wabt** | 1.0.41 | The WebAssembly Binary Toolkit | https://github.com/WebAssembly/wabt |
-| **wakatime-cli** | 2.16.1 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
+| **wakatime-cli** | 2.18.0 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
 | **walk** | 1.13.0 | A terminal file manager | https://github.com/antonmedv/walk |
 | **wallust** | 3.5.2 | Generate colors from an image | https://explosion-mental.codeberg.page/wallust |
 | **wasi-libc** | 30 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |
