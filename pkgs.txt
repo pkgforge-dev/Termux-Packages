@@ -254,8 +254,8 @@
  cloudflared  2026.6.0  A tunneling daemon that proxies traffic from the Cloudflare network to your origins  https://github.com/cloudflare/cloudflared 
  clpeak  1.1.7  A tool which profiles OpenCL devices to find their peak capacities  https://github.com/krrishnarraj/clpeak 
  clvk  0.0.20260506.193050  Experimental implementation of OpenCL on Vulkan  https://github.com/kpet/clvk 
- cmake  4.3.3  Family of tools designed to build, test and package software  https://cmake.org/ 
- cmake-curses-gui  4.3.3  Curses based user interface for CMake (ccmake)  https://cmake.org/ 
+ cmake  4.3.3-1  Family of tools designed to build, test and package software  https://cmake.org/ 
+ cmake-curses-gui  4.3.3-1  Curses based user interface for CMake (ccmake)  https://cmake.org/ 
  cmark  0.31.2  CommonMark parsing and rendering program  https://github.com/commonmark/cmark 
  cmark-static  0.31.2  Static libraries for cmark  https://github.com/commonmark/cmark 
  cmatrix  2.0-1  Command producing a Matrix-style animation  https://github.com/abishekvashok/cmatrix 
@@ -838,7 +838,7 @@
  jsoncpp-static  1.9.8  Static libraries for jsoncpp  https://github.com/open-source-parsers/jsoncpp 
  jump  0.51.0-3  Jump helps you navigate in shell faster by learning your habits  https://github.com/gsamokovarov/jump 
  jupp  3.1jupp41-3  User friendly full screen text editor  http://www.mirbsd.org/jupp.htm 
- just  1.52.0  A handy way to save and run project-specific commands  https://just.systems 
+ just  1.53.0  A handy way to save and run project-specific commands  https://just.systems 
  jython  2.7.4-1  Python for the Java Platform  https://www.jython.org/ 
  k2pdfopt  2.55-4  A tool that optimizes PDF files for viewing on mobile readers  https://www.willus.com/k2pdfopt/ 
  k9s  0.51.0  Kubernetes CLI To Manage Your Clusters In Style!  https://k9scli.io 
@@ -883,7 +883,7 @@
  lfortran-static  0.63.0  Static libraries for lfortran  https://lfortran.org/ 
  lftp  4.9.2-7  FTP/HTTP client and file transfer program  https://lftp.tech/ 
  lftp-static  4.9.2-7  Static libraries for lftp  https://lftp.tech/ 
- lgogdownloader  3.18-2  Open source downloader to GOG.com for Linux users using the same API as the official GOGDownloader  https://sites.google.com/site/gogdownloader/ 
+ lgogdownloader  3.18-3  Open source downloader to GOG.com for Linux users using the same API as the official GOGDownloader  https://sites.google.com/site/gogdownloader/ 
  lhasa  0.5.0-1  LHA compressor/decompressor  https://lhasa.soulsphere.org/ 
  lhasa-static  0.5.0-1  Static libraries for lhasa  https://lhasa.soulsphere.org/ 
  liba52  0.8.0-3  A free library for decoding ATSC A/52 streams  http://liba52.sourceforge.net/ 
@@ -1124,8 +1124,8 @@
  libicu  78.3  International Components for Unicode library  http://site.icu-project.org/home 
  libicu-static  78.3  Static libraries for libicu  http://site.icu-project.org/home 
  libid3tag  0.16.4  MAD ID3 tag manipulation library  http://www.underbit.com/products/mad/ 
- libidn  1.43-1  GNU Libidn library, implementation of IETF IDN specifications  https://www.gnu.org/software/libidn/ 
- libidn-static  1.43-1  Static libraries for libidn  https://www.gnu.org/software/libidn/ 
+ libidn  1.44  GNU Libidn library, implementation of IETF IDN specifications  https://www.gnu.org/software/libidn/ 
+ libidn-static  1.44  Static libraries for libidn  https://www.gnu.org/software/libidn/ 
  libidn2  2.3.8-1  Free software implementation of IDNA2008, Punycode and TR46  https://www.gnu.org/software/libidn/#libidn2 
  libidn2-static  2.3.8-1  Static libraries for libidn2  https://www.gnu.org/software/libidn/#libidn2 
  libigloo  0.9.5  Generic C framework used and developed by the Icecast project  https://icecast.org 
@@ -1761,7 +1761,7 @@
  miniupnpc-static  2.3.3-1  Static libraries for miniupnpc  https://miniupnp.tuxfamily.org/ 
  minizinc  2.9.7  A medium-level constraint modelling language  https://github.com/MiniZinc/libminizinc 
  minizinc-static  2.9.7  Static libraries for minizinc  https://github.com/MiniZinc/libminizinc 
- mise  2026.6.10  dev tools, env vars, task runner  https://mise.jdx.dev/ 
+ mise  2026.6.11  dev tools, env vars, task runner  https://mise.jdx.dev/ 
  mkbootimg  2022.11.09-1  Maintained fork with android's mkbootimg and unpackbootimg  https://github.com/osm0sis/mkbootimg 
  mkp224o  1.7.0-1  Generate vanity ed25519 (hidden service version 3) onion addresses  https://github.com/cathugger/mkp224o 
  mksh  59c-3  The MirBSD Korn Shell - an enhanced version of the public domain ksh  http://www.mirbsd.org/mksh.htm 
@@ -1913,8 +1913,8 @@
  okc-agents  0.1.2-2  OpenKeychain agents for GnuPG and OpenSSH  https://github.com/DDoSolitary/okc-agents 
  ol  2.7  Purely functional dialect of Lisp  https://yuriy-chumak.github.io/ol/ 
  oleo  1.99.16-10  The GNU Spreadsheet  https://www.gnu.org/software/oleo/ 
- ollama  0.30.8  Get up and running with large language models  https://ollama.com/ 
- ollama-backend-vulkan  0.30.8  Vulkan Backend for Ollama  https://ollama.com/ 
+ ollama  0.30.9  Get up and running with large language models  https://ollama.com/ 
+ ollama-backend-vulkan  0.30.9  Vulkan Backend for Ollama  https://ollama.com/ 
  oma  1.26.5  oma is an attempt at reworking APT's interface  https://aosc.io/oma 
  onefetch  2.27.1  A command-line Git information tool written in Rust  https://onefetch.dev/ 
  onigmo  6.2.0-1  A regular expressions library forked from Oniguruma  https://github.com/k-takata/Onigmo 
@@ -1964,7 +1964,7 @@
  openssl-static  1:3.6.3  Static libraries for openssl  https://www.openssl.org/ 
  openssl-tool  1:3.6.3  The openssl command line cryptographic tool  https://www.openssl.org/ 
  opentimelineio  0.18.1  Open Source API and interchange format for editorial timeline information.  http://opentimeline.io/ 
- openxr  1.1.60  Open standard that provides a common set of APIs for developing XR applications  https://www.khronos.org/openxr/ 
+ openxr  1.1.60-1  Open standard that provides a common set of APIs for developing XR applications  https://www.khronos.org/openxr/ 
  optipng  7.9.1-1  PNG optimizer that recompresses image files to a smaller size, without losing any information  https://optipng.sourceforge.net/ 
  opus-tools  0.2-4  Utilities to encode and decode .opus files  https://www.opus-codec.org/ 
  opusfile  0.12-4  A high-level API for decoding and seeking within .opus files  https://www.opus-codec.org/ 
@@ -2231,8 +2231,8 @@
  readline-static  8.3.3  Static libraries for readline  https://tiswww.case.edu/php/chet/readline/rltop.html 
  recode  3.7.15-1  Charset converter tool and library  https://github.com/pinard/Recode 
  recode-static  3.7.15-1  Static libraries for recode  https://github.com/pinard/Recode 
- recoll  1.43.17  Full-text search for your desktop  https://www.recoll.org/ 
- recoll-python  1.43.17  Python interface for Recoll  https://www.recoll.org/ 
+ recoll  1.43.17-1  Full-text search for your desktop  https://www.recoll.org/ 
+ recoll-python  1.43.17-1  Python interface for Recoll  https://www.recoll.org/ 
  recutils  1.9-1  Set of tools and libraries to access human-editable, plain text databases called recfiles  https://www.gnu.org/software/recutils/ 
  recutils-static  1.9-1  Static libraries for recutils  https://www.gnu.org/software/recutils/ 
  redir  3.3-3  TCP port redirector for UNIX  https://github.com/troglobit/redir 
