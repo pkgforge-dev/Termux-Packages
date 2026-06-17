@@ -2179,7 +2179,7 @@
   },
   {
     "Package": "dnsutils",
-    "Version": "9.20.23",
+    "Version": "9.20.24",
     "Description": "Clients provided with BIND",
     "Homepage": "https://www.isc.org/bind/"
   },
@@ -10027,7 +10027,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.33.0",
+    "Version": "0.33.1",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://lux.lumen-labs.org"
   },
@@ -12745,7 +12745,7 @@
   },
   {
     "Package": "pyrefly",
-    "Version": "1.0.0",
+    "Version": "1.1.0",
     "Description": "A fast type checker and language server for Python",
     "Homepage": "https://github.com/facebook/pyrefly.git"
   },
@@ -12811,7 +12811,7 @@
   },
   {
     "Package": "python-greenlet",
-    "Version": "3.5.1",
+    "Version": "3.5.2",
     "Description": "Lightweight coroutines for in-process concurrent programming",
     "Homepage": "https://github.com/python-greenlet/greenlet"
   },
@@ -16267,7 +16267,7 @@
   },
   {
     "Package": "wasi-libc",
-    "Version": "30",
+    "Version": "33",
     "Description": "Libc for WebAssembly programs built on top of WASI system calls",
     "Homepage": "https://wasi.dev/"
   },
