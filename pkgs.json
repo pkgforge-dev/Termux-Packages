@@ -1537,13 +1537,13 @@
   },
   {
     "Package": "cmake",
-    "Version": "4.3.3-1",
+    "Version": "4.3.4",
     "Description": "Family of tools designed to build, test and package software",
     "Homepage": "https://cmake.org/"
   },
   {
     "Package": "cmake-curses-gui",
-    "Version": "4.3.3-1",
+    "Version": "4.3.4",
     "Description": "Curses based user interface for CMake (ccmake)",
     "Homepage": "https://cmake.org/"
   },
@@ -3535,7 +3535,7 @@
   },
   {
     "Package": "gh",
-    "Version": "2.94.0",
+    "Version": "2.95.0",
     "Description": "GitHub’s official command line tool",
     "Homepage": "https://cli.github.com/"
   },
@@ -4339,7 +4339,7 @@
   },
   {
     "Package": "helm",
-    "Version": "4.2.1",
+    "Version": "4.2.2",
     "Description": "Helm helps you manage Kubernetes applications",
     "Homepage": "https://helm.sh"
   },
@@ -5317,13 +5317,13 @@
   },
   {
     "Package": "lhasa",
-    "Version": "0.5.0-1",
+    "Version": "0.6.0",
     "Description": "LHA compressor/decompressor",
     "Homepage": "https://lhasa.soulsphere.org/"
   },
   {
     "Package": "lhasa-static",
-    "Version": "0.5.0-1",
+    "Version": "0.6.0",
     "Description": "Static libraries for lhasa",
     "Homepage": "https://lhasa.soulsphere.org/"
   },
@@ -11227,7 +11227,7 @@
   },
   {
     "Package": "nginx",
-    "Version": "1.31.1",
+    "Version": "1.31.2",
     "Description": "Lightweight HTTP server",
     "Homepage": "https://www.nginx.org"
   },
@@ -12589,7 +12589,7 @@
   },
   {
     "Package": "proot",
-    "Version": "5.1.107.79",
+    "Version": "5.1.107.80",
     "Description": "Emulate chroot, bind mount and binfmt_misc for non-root users",
     "Homepage": "https://proot-me.github.io/"
   },
@@ -13711,7 +13711,7 @@
   },
   {
     "Package": "rust",
-    "Version": "1.95.0-1",
+    "Version": "1.96.0",
     "Description": "Systems programming language focused on safety, speed and concurrency",
     "Homepage": "https://www.rust-lang.org/"
   },
@@ -13729,79 +13729,79 @@
   },
   {
     "Package": "rust-docs",
-    "Version": "1.95.0-1",
+    "Version": "1.96.0",
     "Description": "Rust documentation",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-src",
-    "Version": "1.95.0-1",
+    "Version": "1.96.0",
     "Description": "Rust source code files",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-aarch64-linux-android",
-    "Version": "1.95.0-1",
-    "Description": "Rust std for target aarch64-linux-android",
+    "Version": "1.96.0",
+    "Description": "Component files for target aarch64-linux-android",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-armv7-linux-androideabi",
-    "Version": "1.95.0-1",
-    "Description": "Rust std for target armv7-linux-androideabi",
+    "Version": "1.96.0",
+    "Description": "Component files for target armv7-linux-androideabi",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-i686-linux-android",
-    "Version": "1.95.0-1",
-    "Description": "Rust std for target i686-linux-android",
+    "Version": "1.96.0",
+    "Description": "Component files for target i686-linux-android",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-wasm32-unknown-unknown",
-    "Version": "1.95.0-1",
-    "Description": "Rust std for target wasm32-unknown-unknown",
+    "Version": "1.96.0",
+    "Description": "Component files for target wasm32-unknown-unknown",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-wasm32-wasip1",
-    "Version": "1.95.0-1",
-    "Description": "Rust std for target wasm32-wasip1",
+    "Version": "1.96.0",
+    "Description": "Component files for target wasm32-wasip1",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-wasm32-wasip2",
-    "Version": "1.95.0-1",
-    "Description": "Rust std for target wasm32-wasip2",
+    "Version": "1.96.0",
+    "Description": "Component files for target wasm32-wasip2",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-wasm32-wasip3",
-    "Version": "1.95.0-1",
-    "Description": "Rust std for target wasm32-wasip3",
+    "Version": "1.96.0",
+    "Description": "Component files for target wasm32-wasip3",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-wasm32v1-none",
-    "Version": "1.95.0-1",
-    "Description": "Rust std for target wasm32v1-none",
+    "Version": "1.96.0",
+    "Description": "Component files for target wasm32v1-none",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-x86-64-linux-android",
-    "Version": "1.95.0-1",
-    "Description": "Rust std for target x86_64-linux-android",
+    "Version": "1.96.0",
+    "Description": "Component files for target x86_64-linux-android",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rustc-dev",
-    "Version": "1.95.0-1",
+    "Version": "1.96.0",
     "Description": "Rust compiler development libs",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rustc-src",
-    "Version": "1.95.0-1",
+    "Version": "1.96.0",
     "Description": "Rust compiler source code files",
     "Homepage": "https://www.rust-lang.org/"
   },
@@ -14935,7 +14935,7 @@
   },
   {
     "Package": "teleport-tsh",
-    "Version": "18.8.3",
+    "Version": "18.9.0",
     "Description": "Secure Access for Developers that doesnt get in the way",
     "Homepage": "https://github.com/gravitational/teleport"
   },
@@ -15691,7 +15691,7 @@
   },
   {
     "Package": "ty",
-    "Version": "0.0.49",
+    "Version": "0.0.50",
     "Description": "An extremely fast Python type checker and language server, written in Rust",
     "Homepage": "https://github.com/astral-sh/ty"
   },
@@ -16249,7 +16249,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "2.18.0",
+    "Version": "2.19.0",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },
