@@ -506,8 +506,8 @@
 | **fdupes** | 2.4.0-1 | Duplicates file detector | https://github.com/adrianlopezroche/fdupes |
 | **fennel** | 1.6.1 | A Lisp that compiles to Lua | https://fennel-lang.org |
 | **feroxbuster** | 2.13.1 | A fast, simple, recursive content discovery tool written in Rust | https://github.com/epi052/feroxbuster |
-| **fetchmail** | 6.6.4 | A remote-mail retrieval utility | https://www.fetchmail.info/ |
-| **fetchmailconf** | 6.6.4 | A GUI configurator for generating fetchmail configuration files | https://www.fetchmail.info/ |
+| **fetchmail** | 6.6.5 | A remote-mail retrieval utility | https://www.fetchmail.info/ |
+| **fetchmailconf** | 6.6.5 | A GUI configurator for generating fetchmail configuration files | https://www.fetchmail.info/ |
 | **fff** | 2.2 | A simple file manager written in bash | https://github.com/dylanaraps/fff |
 | **ffmpeg** | 8.1.1-1 | Tools and libraries to manipulate a wide range of multimedia formats and protocols | https://ffmpeg.org |
 | **ffmpegthumbnailer** | 2.3.0 | Lightweight video thumbnailer that can be used by file managers | https://github.com/dirkvdb/ffmpegthumbnailer |
@@ -1894,8 +1894,8 @@
 | **nmon** | 16s | Curses based Performance Monitor for Linux with saving performance stats to a CSV file mode | https://nmon.sourceforge.net/ |
 | **nnn** | 5.2 | Free, fast, friendly file browser | https://github.com/jarun/nnn |
 | **no-more-secrets** | 1.0.1-3 | This project provides a command line tool called nms that recreates the famous data decryption effect | https://github.com/bartobri/no-more-secrets |
-| **nodejs** | 26.3.0 | Open Source, cross-platform JavaScript runtime environment | https://nodejs.org/ |
-| **nodejs-lts** | 24.16.0 | Open Source, cross-platform JavaScript runtime environment | https://nodejs.org/ |
+| **nodejs** | 26.3.1 | Open Source, cross-platform JavaScript runtime environment | https://nodejs.org/ |
+| **nodejs-lts** | 24.17.0 | Open Source, cross-platform JavaScript runtime environment | https://nodejs.org/ |
 | **notcurses** | 3.0.17-2 | blingful TUIs and character graphics | https://notcurses.com/ |
 | **notcurses-data** | 3.0.17-2 | Platform-independent data for notcurses | https://notcurses.com/ |
 | **notcurses-tools** | 3.0.17-2 | Tools and demos for notcurses | https://notcurses.com/ |
@@ -2724,7 +2724,7 @@
 | **wasi-libc** | 33 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |
 | **wasm-component-ld** | 0.5.25 | Command line linker for creating WebAssembly components | https://github.com/bytecodealliance/wasm-component-ld |
 | **wasmedge** | 0.17.0 | A lightweight, high-performance, and extensible WebAssembly runtime | https://wasmedge.org/ |
-| **wasmer** | 7.0.1 | A fast and secure WebAssembly runtime | https://wasmer.io/ |
+| **wasmer** | 7.1.0 | A fast and secure WebAssembly runtime | https://wasmer.io/ |
 | **wasmtime** | 45.0.2 | A standalone runtime for WebAssembly | https://wasmtime.dev/ |
 | **watchexec** | 2.5.1 | Executes commands in response to file modifications | https://github.com/watchexec/watchexec |
 | **wavpack** | 5.9.0 | WavPack command-line programs | https://www.wavpack.com/ |

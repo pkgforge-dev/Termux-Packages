@@ -2977,13 +2977,13 @@
   },
   {
     "Package": "fetchmail",
-    "Version": "6.6.4",
+    "Version": "6.6.5",
     "Description": "A remote-mail retrieval utility",
     "Homepage": "https://www.fetchmail.info/"
   },
   {
     "Package": "fetchmailconf",
-    "Version": "6.6.4",
+    "Version": "6.6.5",
     "Description": "A GUI configurator for generating fetchmail configuration files",
     "Homepage": "https://www.fetchmail.info/"
   },
@@ -11305,13 +11305,13 @@
   },
   {
     "Package": "nodejs",
-    "Version": "26.3.0",
+    "Version": "26.3.1",
     "Description": "Open Source, cross-platform JavaScript runtime environment",
     "Homepage": "https://nodejs.org/"
   },
   {
     "Package": "nodejs-lts",
-    "Version": "24.16.0",
+    "Version": "24.17.0",
     "Description": "Open Source, cross-platform JavaScript runtime environment",
     "Homepage": "https://nodejs.org/"
   },
@@ -16285,7 +16285,7 @@
   },
   {
     "Package": "wasmer",
-    "Version": "7.0.1",
+    "Version": "7.1.0",
     "Description": "A fast and secure WebAssembly runtime",
     "Homepage": "https://wasmer.io/"
   },
