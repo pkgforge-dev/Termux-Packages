@@ -1519,7 +1519,7 @@
   },
   {
     "Package": "cloudflared",
-    "Version": "2026.6.0",
+    "Version": "2026.6.1",
     "Description": "A tunneling daemon that proxies traffic from the Cloudflare network to your origins",
     "Homepage": "https://github.com/cloudflare/cloudflared"
   },
@@ -2995,7 +2995,7 @@
   },
   {
     "Package": "ffmpeg",
-    "Version": "8.1.1-1",
+    "Version": "8.1.2",
     "Description": "Tools and libraries to manipulate a wide range of multimedia formats and protocols",
     "Homepage": "https://ffmpeg.org"
   },
@@ -3229,7 +3229,7 @@
   },
   {
     "Package": "fresh-editor",
-    "Version": "0.4.0-1",
+    "Version": "0.4.1",
     "Description": "Text editor for your terminal: easy, powerful and fast",
     "Homepage": "https://getfresh.dev/"
   },
@@ -4501,7 +4501,7 @@
   },
   {
     "Package": "hugo",
-    "Version": "0.163.2",
+    "Version": "0.163.3",
     "Description": "A fast and flexible static site generator",
     "Homepage": "https://gohugo.io/"
   },
@@ -11833,7 +11833,7 @@
   },
   {
     "Package": "orbiton",
-    "Version": "2.74.3",
+    "Version": "2.74.4",
     "Description": "Small, fast and limited text editor",
     "Homepage": "https://roboticoverlords.org/orbiton/"
   },
@@ -12913,7 +12913,7 @@
   },
   {
     "Package": "python-ruff",
-    "Version": "0.15.17",
+    "Version": "0.15.18",
     "Description": "An extremely fast Python linter, written in Rust (Python bindings)",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -13687,7 +13687,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.15.17",
+    "Version": "0.15.18",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -14365,7 +14365,7 @@
   },
   {
     "Package": "spirv-headers",
-    "Version": "1.4.350.0",
+    "Version": "1.4.350.1",
     "Description": "SPIR-V Headers",
     "Homepage": "https://github.com/KhronosGroup/SPIRV-Headers"
   },
@@ -14377,7 +14377,7 @@
   },
   {
     "Package": "spirv-tools",
-    "Version": "1.4.350.0",
+    "Version": "1.4.350.1",
     "Description": "SPIR-V Tools",
     "Homepage": "https://github.com/KhronosGroup/SPIRV-Tools"
   },
