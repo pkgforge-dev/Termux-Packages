@@ -1617,7 +1617,7 @@
 | **libzmq-static** | 4.3.5-2 | Static libraries for libzmq | https://zeromq.org/ |
 | **libzopfli** | 1.0.3-5 | New zlib compatible compressor library | https://github.com/google/zopfli |
 | **libzxing-cpp** | 3.0.2 | An open-source, multi-format 1D/2D barcode image processing library implemented in C++ | https://github.com/zxing-cpp/zxing-cpp |
-| **lighttpd** | 1.4.83 | Fast webserver with minimal memory footprint | https://www.lighttpd.net |
+| **lighttpd** | 1.4.84 | Fast webserver with minimal memory footprint | https://www.lighttpd.net |
 | **lilv** | 0.28.0 | A C library to make the use of LV2 plugins as simple as possible for applications | https://drobilla.net/software/lilv.html |
 | **lilypond** | 2.26.0 | A music engraving program | https://lilypond.org/ |
 | **links** | 2.29-2 | Links is a text and graphics mode WWW browser | http://links.twibright.com |
@@ -1864,7 +1864,7 @@
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20260616 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.12.3 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
-| **neovim-nightly** | 0.13.0~dev-748+gf50ec42da2-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
+| **neovim-nightly** | 0.13.0~dev-752+gb8e3f3f4e0-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
 | **nerdfix** | 0.4.2-1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.5.2 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.5.2 | Static libraries for net-snmp | http://www.net-snmp.org/ |
@@ -1925,8 +1925,8 @@
 | **okc-agents** | 0.1.2-2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.7 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-10 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
-| **ollama** | 0.30.9 | Get up and running with large language models | https://ollama.com/ |
-| **ollama-backend-vulkan** | 0.30.9 | Vulkan Backend for Ollama | https://ollama.com/ |
+| **ollama** | 0.30.10 | Get up and running with large language models | https://ollama.com/ |
+| **ollama-backend-vulkan** | 0.30.10 | Vulkan Backend for Ollama | https://ollama.com/ |
 | **oma** | 1.26.5 | oma is an attempt at reworking APT's interface | https://aosc.io/oma |
 | **onefetch** | 2.27.1 | A command-line Git information tool written in Rust | https://onefetch.dev/ |
 | **onigmo** | 6.2.0-1 | A regular expressions library forked from Oniguruma | https://github.com/k-takata/Onigmo |

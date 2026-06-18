@@ -6427,7 +6427,7 @@
   Description: An open-source, multi-format 1D/2D barcode image processing library implemented in C++
   Homepage: https://github.com/zxing-cpp/zxing-cpp
 - Package: lighttpd
-  Version: 1.4.83
+  Version: 1.4.84
   Description: Fast webserver with minimal memory footprint
   Homepage: https://www.lighttpd.net
 - Package: lilv
@@ -7415,7 +7415,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-748+gf50ec42da2-0
+  Version: 0.13.0~dev-752+gb8e3f3f4e0-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -7659,11 +7659,11 @@
   Description: The GNU Spreadsheet
   Homepage: https://www.gnu.org/software/oleo/
 - Package: ollama
-  Version: 0.30.9
+  Version: 0.30.10
   Description: Get up and running with large language models
   Homepage: https://ollama.com/
 - Package: ollama-backend-vulkan
-  Version: 0.30.9
+  Version: 0.30.10
   Description: Vulkan Backend for Ollama
   Homepage: https://ollama.com/
 - Package: oma
