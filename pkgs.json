@@ -1213,7 +1213,7 @@
   },
   {
     "Package": "cargo-binstall",
-    "Version": "1.20.0",
+    "Version": "1.20.0-1",
     "Description": "Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem",
     "Homepage": "https://github.com/cargo-bins/cargo-binstall"
   },
@@ -4873,13 +4873,13 @@
   },
   {
     "Package": "jbig2enc",
-    "Version": "1:0.31",
+    "Version": "1:0.32",
     "Description": "An encoder for JBIG2",
     "Homepage": "https://github.com/agl/jbig2enc"
   },
   {
     "Package": "jbig2enc-static",
-    "Version": "1:0.31",
+    "Version": "1:0.32",
     "Description": "Static libraries for jbig2enc",
     "Homepage": "https://github.com/agl/jbig2enc"
   },
@@ -13261,7 +13261,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "5.17.0",
+    "Version": "5.18.0",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -15931,7 +15931,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.11.22",
+    "Version": "0.11.23",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
@@ -16249,7 +16249,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "2.19.0",
+    "Version": "2.19.1",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },

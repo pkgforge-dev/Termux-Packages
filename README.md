@@ -212,7 +212,7 @@
 | **capstone** | 5.0.9 | Lightweight multi-platform, multi-architecture disassembly framework | https://www.capstone-engine.org/ |
 | **capstone-static** | 5.0.9 | Static libraries for capstone | https://www.capstone-engine.org/ |
 | **carapace** | 1.7.0 | Multi-shell multi-command argument completer | https://carapace.sh/ |
-| **cargo-binstall** | 1.20.0 | Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem | https://github.com/cargo-bins/cargo-binstall |
+| **cargo-binstall** | 1.20.0-1 | Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem | https://github.com/cargo-bins/cargo-binstall |
 | **cargo-c** | 0.10.23 | Cargo C-ABI helpers | https://github.com/lu-zero/cargo-c |
 | **cargo-cache** | 0.8.3 | Tool to manage cargo cache | https://github.com/matthiaskrgr/cargo-cache |
 | **cargo-leptos** | 0.3.6 | Build tool for the Rust framework Leptos | https://github.com/leptos-rs/cargo-leptos |
@@ -822,8 +822,8 @@
 | **janet** | 1.41.2 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
 | **jbig2dec** | 0.20-1 | Decoder implementation of the JBIG2 image compression format | https://jbig2dec.com/ |
 | **jbig2dec-static** | 0.20-1 | Static libraries for jbig2dec | https://jbig2dec.com/ |
-| **jbig2enc** | 1:0.31 | An encoder for JBIG2 | https://github.com/agl/jbig2enc |
-| **jbig2enc-static** | 1:0.31 | Static libraries for jbig2enc | https://github.com/agl/jbig2enc |
+| **jbig2enc** | 1:0.32 | An encoder for JBIG2 | https://github.com/agl/jbig2enc |
+| **jbig2enc-static** | 1:0.32 | Static libraries for jbig2enc | https://github.com/agl/jbig2enc |
 | **jcal** | 0.5.1-1 | UNIX-cal-like tool to display Jalali (Persian/Iranian) calendar | http://nongnu.org/jcal |
 | **jcal-static** | 0.5.1-1 | Static libraries for jcal | http://nongnu.org/jcal |
 | **jellyfin-ffmpeg** | 10.11.11 | FFmpeg for Jellyfin with custom extensions and enhancements | https://jellyfin.org |
@@ -2220,7 +2220,7 @@
 | **rage** | 0.11.2 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4-1 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4-1 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
-| **railway-cli** | 5.17.0 | This is the command line interface for Railway | https://railway.app |
+| **railway-cli** | 5.18.0 | This is the command line interface for Railway | https://railway.app |
 | **range-v3** | 0.12.0 | Range library for C++14/17/20, basis for C++20's std::ranges | https://github.com/ericniebler/range-v3 |
 | **ranger** | 1.9.4-1 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-7 | Fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |
@@ -2665,7 +2665,7 @@
 | **util-linux-static** | 2.42.1 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-2 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.42.1 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **uv** | 0.11.22 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
+| **uv** | 0.11.23 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.31-1 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.49.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.19 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
@@ -2718,7 +2718,7 @@
 | **w3m** | 0.5.6-1 | Text based Web browser and pager | https://git.sr.ht/~rkta/w3m |
 | **w3m-img** | 0.5.6-1 | Inline image extension support utilities for w3m | https://git.sr.ht/~rkta/w3m |
 | **wabt** | 1.0.41 | The WebAssembly Binary Toolkit | https://github.com/WebAssembly/wabt |
-| **wakatime-cli** | 2.19.0 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
+| **wakatime-cli** | 2.19.1 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
 | **walk** | 1.13.0 | A terminal file manager | https://github.com/antonmedv/walk |
 | **wallust** | 3.5.2 | Generate colors from an image | https://explosion-mental.codeberg.page/wallust |
 | **wasi-libc** | 33 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |
