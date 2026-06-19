@@ -675,7 +675,7 @@
  gpgv  2.5.17  GNU privacy guard - signature verification tool  https://www.gnupg.org/ 
  gping  1.20.2  Ping, but with a graph  https://github.com/orf/gping 
  gpsbabel  1.4.4-3  GPS file conversion plus transfer to/from GPS units  https://www.gpsbabel.org/ 
- gradle  1:9.5.1  Powerful build system for the JVM  https://gradle.org/ 
+ gradle  1:9.6.0  Powerful build system for the JVM  https://gradle.org/ 
  grafana  1:12.3.3  The open-source platform for monitoring and observability  https://grafana.com/ 
  grap  1.49  Language for typesetting graphs  https://www.lunabase.org/~faber/Vault/software/grap/ 
  graphene  1.10.8-3  A thin layer of graphic data types  https://ebassi.github.io/graphene/ 
@@ -955,8 +955,8 @@
  libcaca  0.99.beta20-3  Graphics library that outputs text instead of pixels  http://caca.zoy.org/wiki/libcaca 
  libcaca-static  0.99.beta20-3  Static libraries for libcaca  http://caca.zoy.org/wiki/libcaca 
  libcairo  1.18.4-2  Cairo 2D vector graphics library  https://cairographics.org 
- libcairomm-1.0  1.14.5-1  Provides a C++ interface to cairo  https://www.cairographics.org/cairomm/ 
- libcairomm-1.16  1.18.0-1  Provides a C++ interface to cairo  https://www.cairographics.org/cairomm/ 
+ libcairomm-1.0  1.14.6  Provides a C++ interface to cairo  https://www.cairographics.org/cairomm/ 
+ libcairomm-1.16  1.18.1  Provides a C++ interface to cairo  https://www.cairographics.org/cairomm/ 
  libcap  2.69-1  POSIX 1003.1e capabilities  https://sites.google.com/site/fullycapable/ 
  libcap-ng  2:0.9.3  Library making programming with POSIX capabilities easier than traditional libcap  https://people.redhat.com/sgrubb/libcap-ng/ 
  libcap-ng-static  2:0.9.3  Static libraries for libcap-ng  https://people.redhat.com/sgrubb/libcap-ng/ 
@@ -1852,7 +1852,7 @@
  neofetch  7.1.0-1  Simple system information script  https://github.com/dylanaraps/neofetch 
  neomutt  20260616  A version of mutt with added features  https://neomutt.org/ 
  neovim  0.12.3  Ambitious Vim-fork focused on extensibility and agility (nvim)  https://neovim.io/ 
- neovim-nightly  0.13.0~dev-752+gb8e3f3f4e0-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
+ neovim-nightly  0.13.0~dev-761+g0639f6e41a-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
  nerdfix  0.4.2-1  nerdfix helps you to find/fix obsolete Nerd Font icons in your project.  https://github.com/loichyan/nerdfix 
  net-snmp  5.9.5.2  Various tools relating to the Simple Network Management Protocol  http://www.net-snmp.org/ 
  net-snmp-static  5.9.5.2  Static libraries for net-snmp  http://www.net-snmp.org/ 
@@ -2536,7 +2536,7 @@
  tinyfugue  5.0b8-4  Flexible, screen-oriented MUD client, for use with any type of MUD  https://tinyfugue.sourceforge.net/ 
  tinygo  0.41.1  Go compiler for microcontrollers, WASM, CLI tools  https://tinygo.org 
  tinygo-common  0.41.1  TinyGo common files  https://tinygo.org 
- tinymist  0.14.18  An integrated language service for Typst  https://myriad-dreamin.github.io/tinymist 
+ tinymist  0.15.0  An integrated language service for Typst  https://myriad-dreamin.github.io/tinymist 
  tinyproxy  1.11.3  Light-weight HTTP proxy daemon for POSIX operating systems  https://tinyproxy.github.io/ 
  tinyscheme  1.42-2  Very small scheme implementation  https://tinyscheme.sourceforge.net/home.html 
  tinysparql  3.10.1-1  Desktop-neutral metadata-based search framework  https://gnome.pages.gitlab.gnome.org/tinysparql 
@@ -2613,7 +2613,7 @@
  tweego  2.1.1-4  A free command line compiler for Twine/Twee story formats  https://bitbucket.org/tmedwards/tweego 
  twolame  0.4.0-1  The frontend for libtwolame  https://www.twolame.org/ 
  txikijs  1:26.5.0  A small and powerful JavaScript runtime  https://github.com/saghul/txiki.js 
- ty  0.0.50  An extremely fast Python type checker and language server, written in Rust  https://github.com/astral-sh/ty 
+ ty  0.0.51  An extremely fast Python type checker and language server, written in Rust  https://github.com/astral-sh/ty 
  typst  0.15.0  A new markup-based typesetting system that is powerful and easy to learn  https://typst.app/ 
  typstfmt  0.2.10-1  basic formatter for the Typst language  https://github.com/astrale-sharp/typstfmt 
  uchardet  0.0.8-2  An encoding detector utility  https://www.freedesktop.org/wiki/Software/uchardet/ 

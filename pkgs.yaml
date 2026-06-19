@@ -2707,7 +2707,7 @@
   Description: GPS file conversion plus transfer to/from GPS units
   Homepage: https://www.gpsbabel.org/
 - Package: gradle
-  Version: 1:9.5.1
+  Version: 1:9.6.0
   Description: Powerful build system for the JVM
   Homepage: https://gradle.org/
 - Package: grafana
@@ -3827,11 +3827,11 @@
   Description: Cairo 2D vector graphics library
   Homepage: https://cairographics.org
 - Package: libcairomm-1.0
-  Version: 1.14.5-1
+  Version: 1.14.6
   Description: Provides a C++ interface to cairo
   Homepage: https://www.cairographics.org/cairomm/
 - Package: libcairomm-1.16
-  Version: 1.18.0-1
+  Version: 1.18.1
   Description: Provides a C++ interface to cairo
   Homepage: https://www.cairographics.org/cairomm/
 - Package: libcap
@@ -7415,7 +7415,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-752+gb8e3f3f4e0-0
+  Version: 0.13.0~dev-761+g0639f6e41a-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -10151,7 +10151,7 @@
   Description: TinyGo common files
   Homepage: https://tinygo.org
 - Package: tinymist
-  Version: 0.14.18
+  Version: 0.15.0
   Description: An integrated language service for Typst
   Homepage: https://myriad-dreamin.github.io/tinymist
 - Package: tinyproxy
@@ -10459,7 +10459,7 @@
   Description: A small and powerful JavaScript runtime
   Homepage: https://github.com/saghul/txiki.js
 - Package: ty
-  Version: 0.0.50
+  Version: 0.0.51
   Description: An extremely fast Python type checker and language server, written in Rust
   Homepage: https://github.com/astral-sh/ty
 - Package: typst
