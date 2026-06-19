@@ -459,7 +459,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.35.5
+  Version: 2.35.8
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -7263,7 +7263,7 @@
   Description: Organizer of audio files into directories based on metadata tags
   Homepage: https://git.zx2c4.com/music-file-organizer/about/
 - Package: mutt
-  Version: 2.3.3
+  Version: 2.4.0
   Description: Mail client with patches from neomutt
   Homepage: http://www.mutt.org/
 - Package: myman
@@ -8839,7 +8839,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 5.15.0
+  Version: 5.17.0
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
@@ -9247,7 +9247,7 @@
   Description: Counts physical the lines of code, blank lines, comment lines, and physical lines of source code
   Homepage: https://github.com/boyter/scc
 - Package: sccache
-  Version: 0.15.0
+  Version: 0.16.0
   Description: sccache is ccache with cloud storage
   Homepage: https://github.com/mozilla/sccache
 - Package: scdaemon
@@ -10431,7 +10431,7 @@
   Description: High-performance build system for JS/TS
   Homepage: https://turborepo.dev/
 - Package: turbopack
-  Version: 16.2.5
+  Version: 16.2.9
   Description: Rust-based incremental compilation engine and bundler for Next.js
   Homepage: https://nextjs.org/
 - Package: tut
