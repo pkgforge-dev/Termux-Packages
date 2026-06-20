@@ -691,7 +691,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.35.8",
+    "Version": "2.35.9",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -4837,7 +4837,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.24.2051",
+    "Version": "0.24.2092",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -9067,13 +9067,13 @@
   },
   {
     "Package": "libvmaf",
-    "Version": "3.1.0-1",
+    "Version": "3.2.0",
     "Description": "A perceptual video quality assessment algorithm developed by Netflix",
     "Homepage": "https://github.com/Netflix/vmaf"
   },
   {
     "Package": "libvmaf-static",
-    "Version": "3.1.0-1",
+    "Version": "3.2.0",
     "Description": "Static libraries for libvmaf",
     "Homepage": "https://github.com/Netflix/vmaf"
   },
@@ -11125,7 +11125,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-761+g0639f6e41a-0",
+    "Version": "0.13.0~dev-767+gf876fd906e-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -13261,7 +13261,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "5.18.0",
+    "Version": "5.19.0",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -16249,7 +16249,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "2.20.1",
+    "Version": "2.20.3",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },
