@@ -7069,13 +7069,13 @@
   },
   {
     "Package": "liblo",
-    "Version": "0.35",
+    "Version": "0.36",
     "Description": "A lightweight library that provides an easy to use implementation of the OSC protocol",
     "Homepage": "https://liblo.sourceforge.net/"
   },
   {
     "Package": "liblo-static",
-    "Version": "0.35",
+    "Version": "0.36",
     "Description": "Static libraries for liblo",
     "Homepage": "https://liblo.sourceforge.net/"
   },
@@ -10495,7 +10495,7 @@
   },
   {
     "Package": "miller",
-    "Version": "6.18.1",
+    "Version": "6.19.0",
     "Description": "Like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON",
     "Homepage": "https://miller.readthedocs.io/"
   },
@@ -11539,7 +11539,7 @@
   },
   {
     "Package": "onnxruntime",
-    "Version": "1.26.0",
+    "Version": "1.27.0",
     "Description": "Cross-platform, high performance ML inferencing and training accelerator",
     "Homepage": "https://onnxruntime.ai/"
   },
@@ -11905,7 +11905,7 @@
   },
   {
     "Package": "pacman",
-    "Version": "7.1.0-3",
+    "Version": "7.1.0-4",
     "Description": "A library-based package manager with dependency support",
     "Homepage": "https://archlinux.org/pacman/"
   },
@@ -12865,7 +12865,7 @@
   },
   {
     "Package": "python-onnxruntime",
-    "Version": "1.26.0",
+    "Version": "1.27.0",
     "Description": "Cross-platform, high performance ML inferencing and training accelerator (Python bindings)",
     "Homepage": "https://onnxruntime.ai/"
   },
@@ -16249,7 +16249,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "2.19.1",
+    "Version": "2.20.1",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },
@@ -16567,7 +16567,7 @@
   },
   {
     "Package": "xh",
-    "Version": "0.25.3",
+    "Version": "0.26.1",
     "Description": "A friendly and fast tool for sending HTTP requests",
     "Homepage": "https://github.com/ducaale/xh"
   },

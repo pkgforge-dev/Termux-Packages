@@ -1176,8 +1176,8 @@
 | **libllvm-static** | 21.1.8-2 | Static libraries for libllvm | https://clang.llvm.org/ |
 | **liblmdb** | 0.9.35 | LMDB implements a simplified variant of the BerkeleyDB (BDB) API | https://symas.com/lmdb/ |
 | **liblmdb-static** | 0.9.35 | Static libraries for liblmdb | https://symas.com/lmdb/ |
-| **liblo** | 0.35 | A lightweight library that provides an easy to use implementation of the OSC protocol | https://liblo.sourceforge.net/ |
-| **liblo-static** | 0.35 | Static libraries for liblo | https://liblo.sourceforge.net/ |
+| **liblo** | 0.36 | A lightweight library that provides an easy to use implementation of the OSC protocol | https://liblo.sourceforge.net/ |
+| **liblo-static** | 0.36 | Static libraries for liblo | https://liblo.sourceforge.net/ |
 | **liblog4c** | 1.2.4-2 | A C library for flexible logging to files, syslog and other destinations | https://log4c.sourceforge.net/ |
 | **liblog4c-static** | 1.2.4-2 | Static libraries for liblog4c | https://log4c.sourceforge.net/ |
 | **liblog4cxx** | 1.7.0 | A logging framework for C++ patterned after Apache log4j | https://logging.apache.org/log4cxx/latest_stable/index.html |
@@ -1747,7 +1747,7 @@
 | **mg** | 20260227 | microscopic GNU Emacs-style editor | https://github.com/hboetes/mg |
 | **micro** | 2.0.15 | Modern and intuitive terminal-based text editor | https://micro-editor.github.io/ |
 | **microsocks** | 1:1.0.5-1 | tiny, portable SOCKS5 server with very moderate resource usage | https://github.com/rofl0r/microsocks |
-| **miller** | 6.18.1 | Like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON | https://miller.readthedocs.io/ |
+| **miller** | 6.19.0 | Like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON | https://miller.readthedocs.io/ |
 | **mimetic** | 0.9.8-2 | A C++ Email library (MIME) | https://www.codesink.org/mimetic_mime_library.html |
 | **mimetic-static** | 0.9.8-2 | Static libraries for mimetic | https://www.codesink.org/mimetic_mime_library.html |
 | **minesweeper** | 0.3.1-4 | A simple terminal-based implementation of Minesweeper | https://github.com/benhsm/minesweeper |
@@ -1921,7 +1921,7 @@
 | **onigmo-static** | 6.2.0-1 | Static libraries for onigmo | https://github.com/k-takata/Onigmo |
 | **oniguruma** | 6.9.10-1 | Regular expressions library | https://github.com/kkos/oniguruma |
 | **oniguruma-static** | 6.9.10-1 | Static libraries for oniguruma | https://github.com/kkos/oniguruma |
-| **onnxruntime** | 1.26.0 | Cross-platform, high performance ML inferencing and training accelerator | https://onnxruntime.ai/ |
+| **onnxruntime** | 1.27.0 | Cross-platform, high performance ML inferencing and training accelerator | https://onnxruntime.ai/ |
 | **oorexx** | 4.2.0-4 | Open Object Rexx | https://www.oorexx.org/ |
 | **oorexx-static** | 4.2.0-4 | Static libraries for oorexx | https://www.oorexx.org/ |
 | **open-adventure** | 1.21 | Forward-port of the original Colossal Cave Adventure from 1976-77 | http://www.catb.org/~esr/open-adventure/ |
@@ -1982,7 +1982,7 @@
 | **oxlint** | 1.70.0 | Oxc JavaScript linter | https://oxc.rs/ |
 | **p11-kit** | 0.26.2 | Provides a way to load and enumerate PKCS#11 modules | https://p11-glue.github.io/p11-glue/p11-kit.html |
 | **p7zip** | 17.06-1 | Command-line version of the 7zip compressed file archiver | https://github.com/p7zip-project/p7zip |
-| **pacman** | 7.1.0-3 | A library-based package manager with dependency support | https://archlinux.org/pacman/ |
+| **pacman** | 7.1.0-4 | A library-based package manager with dependency support | https://archlinux.org/pacman/ |
 | **pacman4console** | 1.3-5 | A 9 level ncurses pacman game with editor | https://sites.google.com/site/doctormike/pacman.html |
 | **panda3d** | 1.10.16-1 | A framework for 3D rendering and game development for Python and C++ programs | https://www.panda3d.org/ |
 | **panda3d-samples** | 1.10.16-1 | Python sample programs that use Panda3D | https://www.panda3d.org/ |
@@ -2142,7 +2142,7 @@
 | **python-msgpack** | 1.2.1 | MessagePack serializer implementation for Python | https://github.com/msgpack/msgpack-python |
 | **python-numpy** | 2.4.4 | The fundamental package for scientific computing with Python | https://numpy.org/ |
 | **python-numpy-static** | 2.4.4 | Static libraries for python-numpy | https://numpy.org/ |
-| **python-onnxruntime** | 1.26.0 | Cross-platform, high performance ML inferencing and training accelerator (Python bindings) | https://onnxruntime.ai/ |
+| **python-onnxruntime** | 1.27.0 | Cross-platform, high performance ML inferencing and training accelerator (Python bindings) | https://onnxruntime.ai/ |
 | **python-pillow** | 12.2.0 | Python Imaging Library | https://python-pillow.org/ |
 | **python-pip** | 26.1.2 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
 | **python-psutil** | 7.2.2 | Cross-platform process and system utilities module for Python | https://github.com/giampaolo/psutil |
@@ -2706,7 +2706,7 @@
 | **w3m** | 0.5.6-1 | Text based Web browser and pager | https://git.sr.ht/~rkta/w3m |
 | **w3m-img** | 0.5.6-1 | Inline image extension support utilities for w3m | https://git.sr.ht/~rkta/w3m |
 | **wabt** | 1.0.41 | The WebAssembly Binary Toolkit | https://github.com/WebAssembly/wabt |
-| **wakatime-cli** | 2.19.1 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
+| **wakatime-cli** | 2.20.1 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
 | **walk** | 1.13.0 | A terminal file manager | https://github.com/antonmedv/walk |
 | **wallust** | 3.5.2 | Generate colors from an image | https://explosion-mental.codeberg.page/wallust |
 | **wasi-libc** | 33 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |
@@ -2759,7 +2759,7 @@
 | **xdg-user-dirs** | 0.20 | Manage user directories like ~/Desktop and ~/Music | https://www.freedesktop.org/wiki/Software/xdg-user-dirs |
 | **xerces-c** | 3.3.0 | Validating XML parser library for C++. | https://xerces.apache.org/ |
 | **xerces-c-static** | 3.3.0 | Static libraries for xerces-c | https://xerces.apache.org/ |
-| **xh** | 0.25.3 | A friendly and fast tool for sending HTTP requests | https://github.com/ducaale/xh |
+| **xh** | 0.26.1 | A friendly and fast tool for sending HTTP requests | https://github.com/ducaale/xh |
 | **xmake** | 3.0.9 | A cross-platform build utility based on Lua | https://xmake.io/ |
 | **xmlsec** | 1.3.11 | XML Security Library | https://www.aleksey.com/xmlsec/ |
 | **xmlsec-static** | 1.3.11 | Static libraries for xmlsec | https://www.aleksey.com/xmlsec/ |
