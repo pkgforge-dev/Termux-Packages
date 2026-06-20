@@ -803,7 +803,7 @@
   Description: Static libraries for capstone
   Homepage: https://www.capstone-engine.org/
 - Package: carapace
-  Version: 1.7.0
+  Version: 1.7.1
   Description: Multi-shell multi-command argument completer
   Homepage: https://carapace.sh/
 - Package: cargo-binstall
@@ -1271,7 +1271,7 @@
   Description: Dart is a general-purpose programming language
   Homepage: https://dart.dev/
 - Package: dasel
-  Version: 3.11.0
+  Version: 3.11.1
   Description: Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility
   Homepage: https://github.com/TomWright/dasel
 - Package: dash
@@ -3315,17 +3315,17 @@
   Description: JPEG optimizer that recompresses image files to a smaller size, without losing any information
   Homepage: https://www.kokkonen.net/tjko/projects.html
 - Package: jq
-  Version: 1.8.1-1
+  Version: 1.8.2
   Description: Command-line JSON processor
-  Homepage: https://stedolan.github.io/jq/
+  Homepage: https://jqlang.org/
 - Package: jq-lsp
   Version: 0.1.17
   Description: jq language server
   Homepage: https://github.com/wader/jq-lsp
 - Package: jq-static
-  Version: 1.8.1-1
+  Version: 1.8.2
   Description: Static libraries for jq
-  Homepage: https://stedolan.github.io/jq/
+  Homepage: https://jqlang.org/
 - Package: jql
   Version: 8.1.2
   Description: A JSON Query Language CLI tool
@@ -10831,7 +10831,7 @@
   Description: The WebAssembly Binary Toolkit
   Homepage: https://github.com/WebAssembly/wabt
 - Package: wakatime-cli
-  Version: 2.20.4
+  Version: 2.20.5
   Description: Command line interface used by all WakaTime text editor plugins
   Homepage: https://wakatime.com/plugins/
 - Package: walk
