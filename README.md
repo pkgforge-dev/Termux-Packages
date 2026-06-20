@@ -1478,7 +1478,7 @@
 | **libtommath-static** | 1.3.0 | Static libraries for libtommath | https://www.libtom.net/LibTomMath/ |
 | **libtool** | 2.5.4-2 | Generic library support script hiding the complexity of using shared libraries behind a consistent, portable interface | https://www.gnu.org/software/libtool/ |
 | **libtorrent** | 0.16.14 | Libtorrent BitTorrent library | https://github.com/rakshasa/rtorrent/wiki |
-| **libtorrent-rasterbar** | 2.0.13 | A feature complete C++ bittorrent implementation focusing on efficiency and scalability | https://libtorrent.org/ |
+| **libtorrent-rasterbar** | 2.0.13-1 | A feature complete C++ bittorrent implementation focusing on efficiency and scalability | https://libtorrent.org/ |
 | **libtorrent-static** | 0.16.14 | Static libraries for libtorrent | https://github.com/rakshasa/rtorrent/wiki |
 | **libtpms** | 0.10.2 | Provides software emulation of a Trusted Platform Module (TPM 1.2 and TPM 2.0) | https://github.com/stefanberger/libtpms |
 | **libtpms-static** | 0.10.2 | Static libraries for libtpms | https://github.com/stefanberger/libtpms |
