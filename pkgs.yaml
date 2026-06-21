@@ -1671,7 +1671,7 @@
   Description: A small, configurable console text editor
   Homepage: https://craigbarnes.gitlab.io/dte/
 - Package: dua
-  Version: 2.36.0
+  Version: 2.37.0
   Description: View disk space usage and delete unwanted data, fast
   Homepage: https://github.com/Byron/dua-cli
 - Package: duc
@@ -8615,7 +8615,7 @@
   Description: C implementations of functions for use within SABnzbd
   Homepage: https://github.com/sabnzbd/sabctools
 - Package: python-scipy
-  Version: 1.17.1-2
+  Version: 1.18.0
   Description: Fundamental algorithms for scientific computing in Python
   Homepage: https://scipy.org/
 - Package: python-skia-pathops
@@ -9023,7 +9023,7 @@
   Description: A terminal IRC client in C
   Homepage: https://github.com/rcr/rirc
 - Package: rizin
-  Version: 0.8.2-1
+  Version: 0.9.0
   Description: UNIX-like reverse engineering framework and command-line toolset.
   Homepage: https://rizin.re
 - Package: rlwrap
