@@ -283,7 +283,7 @@
  corrosion  0.6.1  Tool for integrating Rust into an existing CMake project  https://github.com/corrosion-rs/corrosion 
  cowsay  3.8.4  Program which generates ASCII pictures of a cow with a message  https://cowsay.diamonds/ 
  cpio  2.15-1  CPIO implementation from the GNU project  https://www.gnu.org/software/cpio/ 
- cppcheck  2.21.0  tool for static C/C++ code analysis  https://github.com/danmar/cppcheck 
+ cppcheck  2.21.1  tool for static C/C++ code analysis  https://github.com/danmar/cppcheck 
  cppi  1.18-2  Indents C preprocessor directives to reflect their nesting, among other regularizations  https://www.gnu.org/software/cppi/ 
  cppunit  1.15.1-2  A C++ unit testing framework  https://www.freedesktop.org/wiki/Software/cppunit 
  cppunit-static  1.15.1-2  Static libraries for cppunit  https://www.freedesktop.org/wiki/Software/cppunit 
@@ -605,8 +605,8 @@
  git-lfs  3.7.1  Git extension for versioning large files  https://git-lfs.github.com/ 
  git-sizer  1.5.0-5  Compute various size metrics for a Git repository  https://github.com/github/git-sizer 
  git-svn  2.54.0  Convert between Git and Subversion repositories  https://git-scm.com/ 
- git-town  23.0.2  Git branches made easy  https://www.git-town.com 
- gitea  1.26.3  Git with a cup of tea, painless self-hosted git service  https://gitea.io 
+ git-town  23.0.3  Git branches made easy  https://www.git-town.com 
+ gitea  1.26.4  Git with a cup of tea, painless self-hosted git service  https://gitea.io 
  gitflow-avh  1.12.3-9  Extend git with Vincent Driessen's branching model. The AVH Edition adds more functionality.  https://github.com/petervanderdoes/gitflow/ 
  gitoxide  0.54.0  Rust implementation of Git  https://github.com/GitoxideLabs/gitoxide 
  gitui  0.28.1  Blazing fast terminal-ui for git written in rust  https://github.com/gitui-org/gitui 
@@ -1816,7 +1816,7 @@
  music-file-organizer  1.0.4-10  Organizer of audio files into directories based on metadata tags  https://git.zx2c4.com/music-file-organizer/about/ 
  mutt  2.4.0  Mail client with patches from neomutt  http://www.mutt.org/ 
  myman  0.7.1-6  Video game for color and monochrome text terminals in the genre of Namco's Pac-Man  https://sourceforge.net/projects/myman/ 
- mympd  25.1.1  A standalone and lightweight web-based MPD client  https://jcorporation.github.io/myMPD/ 
+ mympd  25.2.1  A standalone and lightweight web-based MPD client  https://jcorporation.github.io/myMPD/ 
  mypaint-brushes  2.0.2  MyPaint brushes  https://github.com/mypaint/mypaint-brushes 
  myrepos  1.20180726-4  Tool to manage all your version control repos  https://myrepos.branchable.com/ 
  n-t-roff-sc  7.16-1.2.0-0  A vi-like spreadsheet calculator  https://github.com/n-t-roff/sc 
@@ -1867,7 +1867,7 @@
  netstandard-targeting-pack-2.1-8.0  8.0.28  NETStandard.Library 2.1 Targeting Pack (.NET 8.0)  https://dotnet.microsoft.com/en-us/ 
  netstandard-targeting-pack-2.1-9.0  9.0.17  NETStandard.Library 2.1 Targeting Pack (.NET 9.0)  https://dotnet.microsoft.com/en-us/ 
  nettle  4.0+really3.10.2  Low level cryptographic tools  https://www.lysator.liu.se/~nisse/nettle/ 
- newsboat  2.43  RSS/Atom feed reader for the text console  https://newsboat.org/ 
+ newsboat  2.44  RSS/Atom feed reader for the text console  https://newsboat.org/ 
  newsraft  0.36  Newsraft is a feed reader with text-based user interface  https://codeberg.org/newsraft/newsraft 
  nginx  1.31.2  Lightweight HTTP server  https://www.nginx.org 
  ngircd  27-1  Free, portable and lightweight Internet Relay Chat server  https://ngircd.barton.de/ 
@@ -2706,7 +2706,7 @@
  w3m  0.5.6-1  Text based Web browser and pager  https://git.sr.ht/~rkta/w3m 
  w3m-img  0.5.6-1  Inline image extension support utilities for w3m  https://git.sr.ht/~rkta/w3m 
  wabt  1.0.41  The WebAssembly Binary Toolkit  https://github.com/WebAssembly/wabt 
- wakatime-cli  2.20.5  Command line interface used by all WakaTime text editor plugins  https://wakatime.com/plugins/ 
+ wakatime-cli  2.21.0  Command line interface used by all WakaTime text editor plugins  https://wakatime.com/plugins/ 
  walk  1.13.0  A terminal file manager  https://github.com/antonmedv/walk 
  wallust  3.5.2  Generate colors from an image  https://explosion-mental.codeberg.page/wallust 
  wasi-libc  33  Libc for WebAssembly programs built on top of WASI system calls  https://wasi.dev/ 
