@@ -1213,7 +1213,7 @@
   },
   {
     "Package": "cargo-binstall",
-    "Version": "1.20.0-1",
+    "Version": "1.20.1",
     "Description": "Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem",
     "Homepage": "https://github.com/cargo-bins/cargo-binstall"
   },
@@ -1645,7 +1645,7 @@
   },
   {
     "Package": "command-not-found",
-    "Version": "3.4.1-14",
+    "Version": "3.4.1-15",
     "Description": "Suggest installation of packages in interactive shell sessions",
     "Homepage": "https://github.com/termux/command-not-found"
   },
@@ -4477,19 +4477,19 @@
   },
   {
     "Package": "httrack",
-    "Version": "3.49.7",
+    "Version": "3.49.8",
     "Description": "It allows you to download a World Wide Web site from the Internet",
     "Homepage": "http://www.httrack.com"
   },
   {
     "Package": "httrack-data",
-    "Version": "3.49.7",
+    "Version": "3.49.8",
     "Description": "Platform-independent data for httrack",
     "Homepage": "http://www.httrack.com"
   },
   {
     "Package": "httrack-static",
-    "Version": "3.49.7",
+    "Version": "3.49.8",
     "Description": "Static libraries for httrack",
     "Homepage": "http://www.httrack.com"
   },
@@ -11125,7 +11125,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-767+gf876fd906e-0",
+    "Version": "0.13.0~dev-778+gd40c07511a-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
