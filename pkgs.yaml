@@ -7051,7 +7051,7 @@
   Description: Static libraries for minizinc
   Homepage: https://github.com/MiniZinc/libminizinc
 - Package: mise
-  Version: 2026.6.11
+  Version: 2026.6.12
   Description: dev tools, env vars, task runner
   Homepage: https://mise.jdx.dev/
 - Package: mkbootimg
@@ -7415,7 +7415,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-778+gd40c07511a-0
+  Version: 0.13.0~dev-789+g259f1173e4-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -9143,7 +9143,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: "20260615"
+  Version: "20260622"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://rust-analyzer.github.io/
 - Package: rust-bindgen
@@ -10411,7 +10411,7 @@
   Description: Terminal-based typing test
   Homepage: https://github.com/max-niederman/ttyper
 - Package: ttyplot
-  Version: 1.7.4
+  Version: 1.7.5
   Description: A realtime plotting utility for terminal with data input from stdin
   Homepage: https://github.com/tenox7/ttyplot
 - Package: ttyrec
