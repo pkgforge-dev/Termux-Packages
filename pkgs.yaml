@@ -63,7 +63,7 @@
   Description: Tool like grep optimized for programmers
   Homepage: https://beyondgrep.com/
 - Package: acr
-  Version: 2.2.6
+  Version: 2.2.8
   Description: A fully compatible autoconf replacement
   Homepage: https://github.com/radareorg/acr
 - Package: ada
@@ -503,7 +503,7 @@
   Description: Tetris clone with bastard block-choosing AI
   Homepage: http://fph.altervista.org/prog/bastet.html
 - Package: bat
-  Version: 0.26.1
+  Version: 0.26.1-1
   Description: A cat(1) clone with wings
   Homepage: https://github.com/sharkdp/bat
 - Package: bc
@@ -607,7 +607,7 @@
   Description: Tiny x86-64 Linux emulator
   Homepage: https://justine.lol/blinkenlights/
 - Package: blk-utils
-  Version: 2.42.1
+  Version: 2.42.1-1
   Description: Utilities for handling block device attributes
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: blogc
@@ -719,7 +719,7 @@
   Description: A metapackage that installs essential development tools
   Homepage: https://github.com/termux/termux-packages
 - Package: busybox
-  Version: 1.38.0
+  Version: 1.38.0-1
   Description: Tiny versions of many common UNIX utilities into a single small executable
   Homepage: https://busybox.net/
 - Package: bvi
@@ -1019,7 +1019,7 @@
   Description: A tool which profiles OpenCL devices to find their peak capacities
   Homepage: https://github.com/krrishnarraj/clpeak
 - Package: clvk
-  Version: 0.0.20260506.193050
+  Version: 0.0.20260622.120150
   Description: Experimental implementation of OpenCL on Vulkan
   Homepage: https://github.com/kpet/clvk
 - Package: cmake
@@ -1115,7 +1115,7 @@
   Description: A suite of tools to create shopping lists and maintain food recipes
   Homepage: https://cooklang.org
 - Package: coreutils
-  Version: "9.11"
+  Version: 9.11-1
   Description: Basic file, shell and text manipulation utilities from the GNU project
   Homepage: https://www.gnu.org/software/coreutils/
 - Package: corgi
@@ -1787,7 +1787,7 @@
   Description: A friendly and expressive Unix shell
   Homepage: https://github.com/elves/elvish
 - Package: emacs
-  Version: 30.2-1
+  Version: 30.2-2
   Description: Extensible, customizable text editor-and more
   Homepage: https://www.gnu.org/software/emacs/
 - Package: emmylua-ls
@@ -1955,7 +1955,7 @@
   Description: Simple, fast and user-friendly alternative to find
   Homepage: https://github.com/sharkdp/fd
 - Package: fdisk
-  Version: 2.42.1
+  Version: 2.42.1-1
   Description: Utilities to manipulate disk partition tables
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: fdkaac
@@ -2151,7 +2151,7 @@
   Description: Minimalistic plugin API for video effects
   Homepage: https://www.dyne.org/software/frei0r/
 - Package: fresh-editor
-  Version: 0.4.1
+  Version: 0.4.1-1
   Description: 'Text editor for your terminal: easy, powerful and fast'
   Homepage: https://getfresh.dev/
 - Package: fribidi
@@ -2879,11 +2879,11 @@
   Description: Hetzner Cloud command line client
   Homepage: https://github.com/hetznercloud/cli
 - Package: helix
-  Version: 25.07.1-1
+  Version: 25.07.1-2
   Description: A post-modern modal text editor written in rust
   Homepage: https://helix-editor.com/
 - Package: helix-grammars
-  Version: 25.07.1-1
+  Version: 25.07.1-2
   Description: Helix grammars
   Homepage: https://helix-editor.com/
 - Package: hello
@@ -2983,15 +2983,15 @@
   Description: ping-like program for http-requests
   Homepage: https://github.com/folkertvanheusden/HTTPing
 - Package: httrack
-  Version: 3.49.8
+  Version: 3.49.9
   Description: It allows you to download a World Wide Web site from the Internet
   Homepage: http://www.httrack.com
 - Package: httrack-data
-  Version: 3.49.8
+  Version: 3.49.9
   Description: Platform-independent data for httrack
   Homepage: http://www.httrack.com
 - Package: httrack-static
-  Version: 3.49.8
+  Version: 3.49.9
   Description: Static libraries for httrack
   Homepage: http://www.httrack.com
 - Package: hub
@@ -3299,7 +3299,7 @@
   Description: JSON output from a shell
   Homepage: https://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/
 - Package: joe
-  Version: 4.6-4
+  Version: 4.6-5
   Description: Wordstar like text editor
   Homepage: http://joe-editor.sourceforge.net
 - Package: jove
@@ -3355,7 +3355,7 @@
   Description: Jump helps you navigate in shell faster by learning your habits
   Homepage: https://github.com/gsamokovarov/jump
 - Package: jupp
-  Version: 3.1jupp41-3
+  Version: 3.1jupp41-4
   Description: User friendly full screen text editor
   Homepage: http://www.mirbsd.org/jupp.htm
 - Package: just
@@ -3379,7 +3379,7 @@
   Description: Mustache implementation for modern C++
   Homepage: https://github.com/kainjow/Mustache
 - Package: kakoune
-  Version: 2026.05.21
+  Version: 2026.05.21-1
   Description: Code editor heavily inspired by Vim
   Homepage: https://kakoune.org/
 - Package: kakoune-lsp
@@ -3403,7 +3403,7 @@
   Description: keychain ssh-agent front-end
   Homepage: https://www.funtoo.org/Keychain
 - Package: kibi
-  Version: 0.3.3
+  Version: 0.3.3-1
   Description: A tiny terminal text editor, written in Rust
   Homepage: https://github.com/ilai-deutel/kibi
 - Package: kiwix-tools
@@ -3499,7 +3499,7 @@
   Description: Static libraries for leptonica
   Homepage: http://www.leptonica.com/
 - Package: less
-  Version: "702"
+  Version: 702-1
   Description: Terminal pager program used to view the contents of a text file one screen at a time
   Homepage: https://www.greenwoodsoftware.com/less/
 - Package: lesspipe
@@ -3735,7 +3735,7 @@
   Description: A lightweight cryptography API for Java
   Homepage: https://www.bouncycastle.org/java.html
 - Package: libblkid
-  Version: 2.42.1
+  Version: 2.42.1-1
   Description: Block device identification library
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: libblocksruntime
@@ -4199,7 +4199,7 @@
   Description: Flexible collision library
   Homepage: https://github.com/flexible-collision-library/fcl
 - Package: libfdisk
-  Version: 2.42.1
+  Version: 2.42.1-1
   Description: Library for manipulating disk partition tables
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: libfdk-aac
@@ -4891,7 +4891,7 @@
   Description: MQTT library
   Homepage: https://mosquitto.org/
 - Package: libmount
-  Version: 2.42.1
+  Version: 2.42.1-1
   Description: Library for (un)mounting filesystems
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: libmp3lame
@@ -5595,7 +5595,7 @@
   Description: X11 Session Management library
   Homepage: https://xorg.freedesktop.org/
 - Package: libsmartcols
-  Version: 2.42.1
+  Version: 2.42.1-1
   Description: Library for smart adaptive formatting of tabular data
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: libsnappy
@@ -5867,7 +5867,7 @@
   Description: Generic library support script hiding the complexity of using shared libraries behind a consistent, portable interface
   Homepage: https://www.gnu.org/software/libtool/
 - Package: libtorrent
-  Version: 0.16.14
+  Version: 0.16.15
   Description: Libtorrent BitTorrent library
   Homepage: https://github.com/rakshasa/rtorrent/wiki
 - Package: libtorrent-rasterbar
@@ -5875,7 +5875,7 @@
   Description: A feature complete C++ bittorrent implementation focusing on efficiency and scalability
   Homepage: https://libtorrent.org/
 - Package: libtorrent-static
-  Version: 0.16.14
+  Version: 0.16.15
   Description: Static libraries for libtorrent
   Homepage: https://github.com/rakshasa/rtorrent/wiki
 - Package: libtpms
@@ -5995,7 +5995,7 @@
   Description: network protocol for sending USB device traffic over a network connection
   Homepage: https://www.spice-space.org/
 - Package: libuuid
-  Version: 2.42.1
+  Version: 2.42.1-1
   Description: Library for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: libuv
@@ -6591,7 +6591,7 @@
   Description: Pattern-matching library for Lua 5.5
   Homepage: https://www.inf.puc-rio.br/~roberto/lpeg
 - Package: lua51
-  Version: 5.1.5-7
+  Version: 5.1.5-8
   Description: Shared library for the Lua interpreter (v5.1.x)
   Homepage: https://www.lua.org
 - Package: lua51-lpeg
@@ -6599,11 +6599,11 @@
   Description: Pattern-matching library for Lua 5.1
   Homepage: https://www.inf.puc-rio.br/~roberto/lpeg
 - Package: lua51-static
-  Version: 5.1.5-7
+  Version: 5.1.5-8
   Description: Static libraries for lua51
   Homepage: https://www.lua.org
 - Package: lua52
-  Version: 5.2.4-15
+  Version: 5.2.4-16
   Description: Shared library for the Lua interpreter (v5.2.x)
   Homepage: https://www.lua.org
 - Package: lua52-lpeg
@@ -6611,11 +6611,11 @@
   Description: Pattern-matching library for Lua 5.2
   Homepage: https://www.inf.puc-rio.br/~roberto/lpeg
 - Package: lua52-static
-  Version: 5.2.4-15
+  Version: 5.2.4-16
   Description: Static libraries for lua52
   Homepage: https://www.lua.org
 - Package: lua53
-  Version: 5.3.6-6
+  Version: 5.3.6-7
   Description: Shared library for the Lua interpreter (v5.3.x)
   Homepage: https://www.lua.org/
 - Package: lua53-lpeg
@@ -6623,11 +6623,11 @@
   Description: Pattern-matching library for Lua 5.3
   Homepage: https://www.inf.puc-rio.br/~roberto/lpeg
 - Package: lua53-static
-  Version: 5.3.6-6
+  Version: 5.3.6-7
   Description: Static libraries for lua53
   Homepage: https://www.lua.org/
 - Package: lua54
-  Version: 5.4.8-6
+  Version: 5.4.8-7
   Description: Shared library for the Lua interpreter (v5.4.x)
   Homepage: https://www.lua.org/
 - Package: lua54-lpeg
@@ -6635,15 +6635,15 @@
   Description: Pattern-matching library for Lua 5.4
   Homepage: https://www.inf.puc-rio.br/~roberto/lpeg
 - Package: lua54-static
-  Version: 5.4.8-6
+  Version: 5.4.8-7
   Description: Static libraries for lua54
   Homepage: https://www.lua.org/
 - Package: lua55
-  Version: 5.5.0-2
+  Version: 5.5.0-3
   Description: Shared library for the Lua interpreter (v5.5.x)
   Homepage: https://www.lua.org/
 - Package: lua55-static
-  Version: 5.5.0-2
+  Version: 5.5.0-3
   Description: Static libraries for lua55
   Homepage: https://www.lua.org/
 - Package: luajit
@@ -6983,11 +6983,11 @@
   Description: MiFare Classic Universal toolKit (MFCUK)
   Homepage: https://github.com/nfc-tools/mfcuk
 - Package: mg
-  Version: "20260227"
+  Version: 20260227-1
   Description: microscopic GNU Emacs-style editor
   Homepage: https://github.com/hboetes/mg
 - Package: micro
-  Version: 2.0.15
+  Version: 2.0.15-1
   Description: Modern and intuitive terminal-based text editor
   Homepage: https://micro-editor.github.io/
 - Package: microsocks
@@ -7111,7 +7111,7 @@
   Description: Simple game where you drive a car across the moons surface
   Homepage: https://www.seehuhn.de/programs/moon-buggy
 - Package: moor
-  Version: 2.15.1
+  Version: 2.15.1-1
   Description: A pager designed to just do the right thing without any configuration
   Homepage: https://github.com/walles/moor
 - Package: mop
@@ -7143,11 +7143,11 @@
   Description: MQTT version 3.1/3.1.1 compatible message broker and clients
   Homepage: https://mosquitto.org/
 - Package: most
-  Version: 5.2.0-3
+  Version: 5.2.0-4
   Description: A terminal pager similar to more and less
   Homepage: http://www.jedsoft.org/most/index.html
 - Package: mount-utils
-  Version: 2.42.1
+  Version: 2.42.1-1
   Description: Utilities for (un)mounting filesystems
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: mp3cat
@@ -7207,7 +7207,7 @@
   Description: Guidelines Support Library
   Homepage: https://github.com/Microsoft/GSL
 - Package: msedit
-  Version: 2.0.0
+  Version: 2.0.0-1
   Description: A simple editor for simple needs (Microsoft Edit)
   Homepage: https://github.com/microsoft/edit
 - Package: msitools
@@ -7299,7 +7299,7 @@
   Description: An offline tool for querying IP geographic information and CDN provider
   Homepage: https://github.com/zu1k/nali
 - Package: nano
-  Version: "9.0"
+  Version: 9.0-1
   Description: Small, free and friendly text editor
   Homepage: https://www.nano-editor.org/
 - Package: nasm
@@ -7391,7 +7391,7 @@
   Description: System header and library files from the Android NDK needed for compiling C programs
   Homepage: https://developer.android.com/tools/sdk/ndk/index.html
 - Package: ne
-  Version: 3.3.4-2
+  Version: 3.3.4-3
   Description: Easy-to-use and powerful text editor
   Homepage: https://ne.di.unimi.it/
 - Package: nelua
@@ -7411,11 +7411,11 @@
   Description: A version of mutt with added features
   Homepage: https://neomutt.org/
 - Package: neovim
-  Version: 0.12.3
+  Version: 0.12.3-1
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-789+g259f1173e4-0
+  Version: 0.13.0~dev-789+g259f1173e4-1
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -7435,7 +7435,7 @@
   Description: Configuration tools for Linux networking
   Homepage: http://net-tools.sourceforge.net/
 - Package: netcat-openbsd
-  Version: 1.238-1-0
+  Version: 1.238-1-1
   Description: TCP/IP swiss army knife. OpenBSD variant.
   Homepage: https://packages.debian.org/sid/netcat-openbsd
 - Package: netcdf-c
@@ -7515,7 +7515,7 @@
   Description: Library for nonlinear optimization
   Homepage: https://nlopt.readthedocs.io/
 - Package: nmap
-  Version: "7.99"
+  Version: 7.99-1
   Description: Utility for network discovery and security auditing
   Homepage: https://nmap.org/
 - Package: nmh
@@ -7887,7 +7887,7 @@
   Description: Ogg Opus tags editor
   Homepage: https://github.com/fmang/opustags
 - Package: orbiton
-  Version: 2.74.4
+  Version: 2.74.4-1
   Description: Small, fast and limited text editor
   Homepage: https://roboticoverlords.org/orbiton/
 - Package: osm2pgsql
@@ -7919,11 +7919,11 @@
   Description: Open Virtual Machine Firmware
   Homepage: https://www.tianocore.org/
 - Package: oxfmt
-  Version: 1.70.0
+  Version: 1.71.0
   Description: Oxc JavaScript formatter
   Homepage: https://oxc.rs/
 - Package: oxlint
-  Version: 1.70.0
+  Version: 1.71.0
   Description: Oxc JavaScript linter
   Homepage: https://oxc.rs/
 - Package: p11-kit
@@ -9691,7 +9691,7 @@
   Description: A command-line tool which uses libstemmer
   Homepage: https://snowballstem.org/
 - Package: step-cli
-  Version: 0.30.6
+  Version: 0.30.6-1
   Description: An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows
   Homepage: https://smallstep.com/cli
 - Package: stfl
@@ -10151,7 +10151,7 @@
   Description: TinyGo common files
   Homepage: https://tinygo.org
 - Package: tinymist
-  Version: 0.15.0
+  Version: 0.15.2
   Description: An integrated language service for Typst
   Homepage: https://myriad-dreamin.github.io/tinymist
 - Package: tinyproxy
@@ -10603,11 +10603,11 @@
   Description: C preprocessor implementations of a hash table and a linked list
   Homepage: https://troydhanson.github.io/uthash/
 - Package: util-linux
-  Version: 2.42.1
+  Version: 2.42.1-1
   Description: Miscellaneous system utilities
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: util-linux-static
-  Version: 2.42.1
+  Version: 2.42.1-1
   Description: Static libraries for util-linux
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uucp
@@ -10615,7 +10615,7 @@
   Description: The standard UUCP package of the Free Software Foundation
   Homepage: https://www.airs.com/ian/uucp.html
 - Package: uuid-utils
-  Version: 2.42.1
+  Version: 2.42.1-1
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
@@ -10723,7 +10723,7 @@
   Description: VI Like Emacs - vi work-alike
   Homepage: https://invisible-island.net/vile/
 - Package: vim
-  Version: 9.2.0650
+  Version: 9.2.0650-1
   Description: Vi IMproved - enhanced vi editor
   Homepage: https://www.vim.org
 - Package: virglrenderer
@@ -10739,7 +10739,7 @@
   Description: Command line interface for VirusTotal
   Homepage: https://github.com/VirusTotal/vt-cli
 - Package: vis
-  Version: 0.9-p20250111-0
+  Version: 0.9-p20250111-1
   Description: Modern, legacy free, simple yet efficient vim-like editor
   Homepage: https://www.brain-dump.org/projects/vis/
 - Package: vitetris
@@ -10819,11 +10819,11 @@
   Description: Meta loader for Vulkan API
   Homepage: https://github.com/zeux/volk
 - Package: w3m
-  Version: 0.5.6-1
+  Version: 0.5.6-2
   Description: Text based Web browser and pager
   Homepage: https://git.sr.ht/~rkta/w3m
 - Package: w3m-img
-  Version: 0.5.6-1
+  Version: 0.5.6-2
   Description: Inline image extension support utilities for w3m
   Homepage: https://git.sr.ht/~rkta/w3m
 - Package: wabt
@@ -11099,7 +11099,7 @@
   Description: Static libraries for xvidcore
   Homepage: https://www.xvid.com/
 - Package: xxd
-  Version: 9.2.0650
+  Version: 9.2.0650-1
   Description: Hexdump utility from vim
   Homepage: https://www.vim.org
 - Package: xxhash
@@ -11215,7 +11215,7 @@
   Description: General-purpose programming language and toolchain
   Homepage: https://ziglang.org
 - Package: zile
-  Version: 2.6.4-2
+  Version: 2.6.4-3
   Description: Lightweight clone of the Emacs text editor
   Homepage: https://www.gnu.org/software/zile/
 - Package: zip
