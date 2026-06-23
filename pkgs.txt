@@ -140,7 +140,7 @@
  binutils  2.46.0-3  A GNU collection of binary utilities  https://www.gnu.org/software/binutils/ 
  binutils-cross  2.46.0-3  GNU Binutils for cross build on the host (NOT for Termux)  https://www.gnu.org/software/binutils/ 
  binwalk  3.1.0  An Binwalk firmware analysis tool.  https://github.com/ReFirmLabs/binwalk 
- biome2  2.5.0  A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP  https://biomejs.dev/ 
+ biome2  2.5.1  A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP  https://biomejs.dev/ 
  bison  3.8.2-4  General-purpose parser generator  https://www.gnu.org/software/bison/ 
  bison-static  3.8.2-4  Static libraries for bison  https://www.gnu.org/software/bison/ 
  bitcoin  31.0  Bitcoin Core  https://bitcoincore.org/ 
@@ -442,7 +442,7 @@
  electrum  4.7.1  Electrum is a lightweight Bitcoin wallet  https://electrum.org 
  elfutils  0.193-1  A collection of utilities to read, create and modify ELF binary files  https://sourceware.org/elfutils/ 
  elinks  0.19.1  Full-Featured Text WWW Browser  https://github.com/rkd77/elinks 
- elixir  1.20.1  Elixir is a dynamic, functional language designed for building scalable and maintainable applications  https://elixir-lang.org/ 
+ elixir  1.20.2  Elixir is a dynamic, functional language designed for building scalable and maintainable applications  https://elixir-lang.org/ 
  eltclsh  1.20-1  Interactive shell for TCL programming language  https://homepages.laas.fr/mallet/soft/shell/eltclsh 
  elvish  0.21.0-1  A friendly and expressive Unix shell  https://github.com/elves/elvish 
  emacs  30.2-2  Extensible, customizable text editor-and more  https://www.gnu.org/software/emacs/ 
@@ -1823,7 +1823,7 @@
  n2n  3.1.1-1  A light VPN software  https://github.com/ntop/n2n 
  nala  0.16.0-2  Commandline frontend for the apt package manager  https://gitlab.com/volian/nala 
  nali  0.8.1-1  An offline tool for querying IP geographic information and CDN provider  https://github.com/zu1k/nali 
- nano  9.0-1  Small, free and friendly text editor  https://www.nano-editor.org/ 
+ nano  9.1  Small, free and friendly text editor  https://www.nano-editor.org/ 
  nasm  2.16.03-1  A cross-platform x86 assembler with an Intel-like syntax  https://nasm.us 
  natpmpc  20230423-2  Portable and fully compliant implementation of NAT-PMP  https://miniupnp.tuxfamily.org/libnatpmp.html 
  natpmpc-static  20230423-2  Static libraries for natpmpc  https://miniupnp.tuxfamily.org/libnatpmp.html 
@@ -2204,7 +2204,7 @@
  rabbitmq-server  4.3.2  Feature rich, multi-protocol messaging and streaming broker  https://github.com/rabbitmq/rabbitmq-server 
  racket  9.2  Full-spectrum programming language going beyond Lisp and Scheme  https://racket-lang.org 
  racket-static  9.2  Static libraries for racket  https://racket-lang.org 
- radare2  6.1.6  UNIX-like reverse engineering framework and command-line toolset  https://www.radare.org/ 
+ radare2  6.1.8  UNIX-like reverse engineering framework and command-line toolset  https://www.radare.org/ 
  rage  0.11.2  A simple, secure and modern encryption tool  https://age-encryption.org/v1 
  ragel  7.0.4-1  Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code  https://www.colm.net/open-source/ragel/ 
  ragel-static  7.0.4-1  Static libraries for ragel  https://www.colm.net/open-source/ragel/ 
@@ -2428,7 +2428,7 @@
  stoken  0.93-3  Software Token for Linux/UNIX  https://github.com/cernekee/stoken 
  stoken-static  0.93-3  Static libraries for stoken  https://github.com/cernekee/stoken 
  stone  2.4-3  A TCP/IP repeater in the application layer  https://www.gcd.org/sengoku/stone/ 
- storj-uplink  1.157.5  Storj DCS Uplink CLI  https://www.storj.io/integrations/uplink-cli 
+ storj-uplink  1.157.6  Storj DCS Uplink CLI  https://www.storj.io/integrations/uplink-cli 
  stow  2.4.1  Tool for managing the installation of multiple software packages into a single directory  https://www.gnu.org/software/stow/ 
  strace  7.1  Debugging utility to monitor system calls and signals received  https://strace.io/ 
  streamripper  1.64.6-3  Records and splits streaming mp3 into tracks  https://streamripper.sourceforge.net/ 
