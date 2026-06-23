@@ -691,7 +691,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.35.10",
+    "Version": "2.35.11",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -5041,7 +5041,7 @@
   },
   {
     "Package": "just",
-    "Version": "1.53.0",
+    "Version": "1.54.0",
     "Description": "A handy way to save and run project-specific commands",
     "Homepage": "https://just.systems"
   },
@@ -11125,7 +11125,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-789+g259f1173e4-1",
+    "Version": "0.13.0~dev-797+ge750f7c357-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -15691,7 +15691,7 @@
   },
   {
     "Package": "ty",
-    "Version": "0.0.51",
+    "Version": "0.0.52",
     "Description": "An extremely fast Python type checker and language server, written in Rust",
     "Homepage": "https://github.com/astral-sh/ty"
   },
