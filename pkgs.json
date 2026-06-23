@@ -691,7 +691,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.35.9",
+    "Version": "2.35.10",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -2695,25 +2695,25 @@
   },
   {
     "Package": "emscripten",
-    "Version": "6.0.0",
+    "Version": "6.0.1",
     "Description": "Emscripten: An LLVM-to-WebAssembly Compiler",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-binaryen",
-    "Version": "6.0.0",
+    "Version": "6.0.1",
     "Description": "Emscripten-compatible Binaryen",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-llvm",
-    "Version": "6.0.0",
+    "Version": "6.0.1",
     "Description": "Emscripten-compatible LLVM",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-tests-third-party",
-    "Version": "6.0.0",
+    "Version": "6.0.1",
     "Description": "Emscripten third party test suite files",
     "Homepage": "https://emscripten.org"
   },
@@ -3661,7 +3661,7 @@
   },
   {
     "Package": "gitoxide",
-    "Version": "0.54.0",
+    "Version": "0.55.0",
     "Description": "Rust implementation of Git",
     "Homepage": "https://github.com/GitoxideLabs/gitoxide"
   },
@@ -14935,7 +14935,7 @@
   },
   {
     "Package": "teleport-tsh",
-    "Version": "18.9.0",
+    "Version": "18.9.1",
     "Description": "Secure Access for Developers that doesnt get in the way",
     "Homepage": "https://github.com/gravitational/teleport"
   },
@@ -15685,7 +15685,7 @@
   },
   {
     "Package": "txikijs",
-    "Version": "1:26.5.0",
+    "Version": "1:26.6.0",
     "Description": "A small and powerful JavaScript runtime",
     "Homepage": "https://github.com/saghul/txiki.js"
   },

@@ -113,7 +113,7 @@
 | **aview** | 1.3.0rc1-6 | High quality ascii-art image browser and animation player | https://aa-project.sourceforge.net/aview/ |
 | **avra** | 1.4.2-1 | Assember for the Atmel AVR microcontroller family | https://github.com/Ro5bert/avra |
 | **await** | 2.6.0 | Runs list of commands in parallel and waits for their termination | https://github.com/slavaGanzin/await |
-| **awscli** | 2.35.9 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
+| **awscli** | 2.35.10 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
 | **axel** | 2.17.14-1 | light command line download accelerator | https://github.com/axel-download-accelerator/axel |
 | **b3sum** | 1.8.5 | A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum | https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum |
 | **babl** | 0.1.126 | Dynamic pixel format translation library | https://gegl.org/babl/ |
@@ -447,10 +447,10 @@
 | **elvish** | 0.21.0-1 | A friendly and expressive Unix shell | https://github.com/elves/elvish |
 | **emacs** | 30.2-2 | Extensible, customizable text editor-and more | https://www.gnu.org/software/emacs/ |
 | **emmylua-ls** | 0.23.2 | Emmy Lua Language Server coded in Rust | https://github.com/EmmyLuaLs/emmylua-analyzer-rust |
-| **emscripten** | 6.0.0 | Emscripten: An LLVM-to-WebAssembly Compiler | https://emscripten.org |
-| **emscripten-binaryen** | 6.0.0 | Emscripten-compatible Binaryen | https://emscripten.org |
-| **emscripten-llvm** | 6.0.0 | Emscripten-compatible LLVM | https://emscripten.org |
-| **emscripten-tests-third-party** | 6.0.0 | Emscripten third party test suite files | https://emscripten.org |
+| **emscripten** | 6.0.1 | Emscripten: An LLVM-to-WebAssembly Compiler | https://emscripten.org |
+| **emscripten-binaryen** | 6.0.1 | Emscripten-compatible Binaryen | https://emscripten.org |
+| **emscripten-llvm** | 6.0.1 | Emscripten-compatible LLVM | https://emscripten.org |
+| **emscripten-tests-third-party** | 6.0.1 | Emscripten third party test suite files | https://emscripten.org |
 | **enblend** | 4.2.0p20161007-8 | A tool for compositing images using a Burt&Adelson multiresolution spline | https://enblend.sourceforge.net/ |
 | **enchant** | 2.8.16 | Wraps a number of different spelling libraries and programs with a consistent interface | https://rrthomas.github.io/enchant/ |
 | **enchant-static** | 2.8.16 | Static libraries for enchant | https://rrthomas.github.io/enchant/ |
@@ -608,7 +608,7 @@
 | **git-town** | 23.0.3 | Git branches made easy | https://www.git-town.com |
 | **gitea** | 1.26.4 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
 | **gitflow-avh** | 1.12.3-9 | Extend git with Vincent Driessen's branching model. The AVH Edition adds more functionality. | https://github.com/petervanderdoes/gitflow/ |
-| **gitoxide** | 0.54.0 | Rust implementation of Git | https://github.com/GitoxideLabs/gitoxide |
+| **gitoxide** | 0.55.0 | Rust implementation of Git | https://github.com/GitoxideLabs/gitoxide |
 | **gitui** | 0.28.1 | Blazing fast terminal-ui for git written in rust | https://github.com/gitui-org/gitui |
 | **gkermit** | 2.01-1 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
 | **glab-cli** | 1.103.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
@@ -2487,7 +2487,7 @@
 | **teckit-static** | 2.5.13 | Static libraries for teckit | https://scripts.sil.org/teckitdownloads |
 | **tectonic** | 0.16.9 | A modernized, complete, self-contained TeX/LaTeX engine | https://tectonic-typesetting.github.io/ |
 | **telegram-bot-api** | 20241031-2 | Telegram Bot API server | https://github.com/tdlib/telegram-bot-api |
-| **teleport-tsh** | 18.9.0 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
+| **teleport-tsh** | 18.9.1 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
 | **tere** | 1.6.0-1 | Terminal file explorer written in rust | https://github.com/mgunyho/tere |
 | **tergent** | 1.0.0-5 | A cryptoki/PKCS#11 library for Termux that uses Android Keystore as its backend | https://github.com/aeolwyr/tergent |
 | **termimage** | 1.2.1-1 | Terminal image viewer | https://github.com/nabijaczleweli/termimage |
@@ -2612,7 +2612,7 @@
 | **tvheadend-data** | 4.2.8-12 | Platform-independent data for tvheadend | https://tvheadend.org/ |
 | **tweego** | 2.1.1-4 | A free command line compiler for Twine/Twee story formats | https://bitbucket.org/tmedwards/tweego |
 | **twolame** | 0.4.0-1 | The frontend for libtwolame | https://www.twolame.org/ |
-| **txikijs** | 1:26.5.0 | A small and powerful JavaScript runtime | https://github.com/saghul/txiki.js |
+| **txikijs** | 1:26.6.0 | A small and powerful JavaScript runtime | https://github.com/saghul/txiki.js |
 | **ty** | 0.0.51 | An extremely fast Python type checker and language server, written in Rust | https://github.com/astral-sh/ty |
 | **typst** | 0.15.0 | A new markup-based typesetting system that is powerful and easy to learn | https://typst.app/ |
 | **typstfmt** | 0.2.10-1 | basic formatter for the Typst language | https://github.com/astrale-sharp/typstfmt |
