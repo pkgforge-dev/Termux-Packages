@@ -1051,7 +1051,7 @@
   },
   {
     "Package": "bsdtar",
-    "Version": "3.8.7",
+    "Version": "3.8.8",
     "Description": "The tar(1) and cpio(1) programs from FreeBSD, using libarchive",
     "Homepage": "https://www.libarchive.org/"
   },
@@ -3679,7 +3679,7 @@
   },
   {
     "Package": "glab-cli",
-    "Version": "1.103.0",
+    "Version": "1.105.0",
     "Description": "A GitLab CLI tool bringing GitLab to your command line",
     "Homepage": "https://gitlab.com/gitlab-org/cli"
   },
@@ -5521,13 +5521,13 @@
   },
   {
     "Package": "libarchive",
-    "Version": "3.8.7",
+    "Version": "3.8.8",
     "Description": "Multi-format archive and compression library",
     "Homepage": "https://www.libarchive.org/"
   },
   {
     "Package": "libarchive-static",
-    "Version": "3.8.7",
+    "Version": "3.8.8",
     "Description": "Static libraries for libarchive",
     "Homepage": "https://www.libarchive.org/"
   },
@@ -10027,7 +10027,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.33.2",
+    "Version": "0.33.3",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://lux.lumen-labs.org"
   },
@@ -15307,7 +15307,7 @@
   },
   {
     "Package": "tor",
-    "Version": "0.4.9.9",
+    "Version": "0.4.9.10",
     "Description": "The Onion Router anonymizing overlay network",
     "Homepage": "https://www.torproject.org"
   },
