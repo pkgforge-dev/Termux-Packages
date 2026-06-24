@@ -2162,7 +2162,7 @@
 | **python-pycryptodomex** | 3.23.0-3 | A self-contained Python package of low-level cryptographic primitives | https://www.pycryptodome.org/ |
 | **python-pynvim** | 0.6.0-2 | Python client for Neovim | https://github.com/neovim/pynvim |
 | **python-pyppmd** | 1.3.1 | PPM compression/decompression library | https://github.com/miurahr/pyppmd |
-| **python-ruff** | 0.15.18 | An extremely fast Python linter, written in Rust (Python bindings) | https://github.com/charliermarsh/ruff |
+| **python-ruff** | 0.15.19 | An extremely fast Python linter, written in Rust (Python bindings) | https://github.com/charliermarsh/ruff |
 | **python-sabyenc3** | 9.4.1 | C implementations of functions for use within SABnzbd | https://github.com/sabnzbd/sabctools |
 | **python-scipy** | 1.18.0 | Fundamental algorithms for scientific computing in Python | https://scipy.org/ |
 | **python-skia-pathops** | 0.9.2-1 | Python bindings for the Skia library's Path Ops | https://github.com/fonttools/skia-pathops |
@@ -2220,7 +2220,7 @@
 | **rage** | 0.11.2 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4-1 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4-1 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
-| **railway-cli** | 5.20.0 | This is the command line interface for Railway | https://railway.app |
+| **railway-cli** | 5.23.0 | This is the command line interface for Railway | https://railway.app |
 | **range-v3** | 0.12.0 | Range library for C++14/17/20, basis for C++20's std::ranges | https://github.com/ericniebler/range-v3 |
 | **ranger** | 1.9.4-1 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-7 | Fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |
@@ -2291,7 +2291,7 @@
 | **rubiks-cube** | 1.2-1 | A rubik's cube that runs in your terminal | https://github.com/been-jamming/rubiks_cube |
 | **ruby** | 3.4.1-2 | Dynamic programming language with a focus on simplicity and productivity | https://www.ruby-lang.org/ |
 | **ruby-ri** | 3.4.1-2 | Ruby documentation index | https://www.ruby-lang.org/ |
-| **ruff** | 0.15.18 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
+| **ruff** | 0.15.19 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
 | **runit** | 2.1.2-4 | Tools to provide service supervision and to manage services | http://smarden.org/runit |
 | **runit-static** | 2.1.2-4 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.9.0 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
