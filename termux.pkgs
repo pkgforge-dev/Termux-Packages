@@ -306,7 +306,7 @@
 | **cups** | 2.4.19 | Common UNIX Printing System | https://www.cups.org/ |
 | **cups-pdf** | 3.0.1-3 | CUPS PDF backend | https://www.cups-pdf.de/ |
 | **cups-static** | 2.4.19 | Static libraries for cups | https://www.cups.org/ |
-| **curl** | 8.20.0 | Command line tool for transferring data with URL syntax | https://curl.se/ |
+| **curl** | 8.21.0 | Command line tool for transferring data with URL syntax | https://curl.se/ |
 | **curlie** | 1.8.2 | The power of curl, the ease of use of httpie | https://curlie.io/ |
 | **curseofwar** | 1.3.0-5 | Fast-paced action strategy game focusing on high-level strategic planning | http://a-nikolaev.github.io/curseofwar/ |
 | **cvs** | 1:1.12.13-5 | Concurrent Versions System | https://www.nongnu.org/cvs/ |
@@ -343,7 +343,7 @@
 | **diffutils** | 3.12-2 | Programs (cmp, diff, diff3 and sdiff) related to finding differences between files | https://www.gnu.org/software/diffutils/ |
 | **dirb** | 2.22-5 | Web Directory Fuzzer | https://dirb.sourceforge.net/ |
 | **direnv** | 2.37.1-1 | Environment switcher for shell | https://github.com/direnv/direnv |
-| **direvent** | 5.4-1 | Monitor of events in file system directories | https://www.gnu.org.ua/software/direvent/ |
+| **direvent** | 5.5 | Monitor of events in file system directories | https://www.gnu.org.ua/software/direvent/ |
 | **discordo** | 2025.08.06 | A lightweight, secure, and feature-rich Discord terminal client | https://github.com/ayntgl/discordo |
 | **discount** | 3.0.1.3 | Markdown implementation written in C | https://www.pell.portland.or.us/~orc/Code/discount/ |
 | **diskus** | 0.9.0 | A minimal, fast alternative to 'du -sh' | https://github.com/sharkdp/diskus |
@@ -475,7 +475,7 @@
 | **fakeroot** | 1.38.1 | Tool for simulating superuser privileges (with tcp ipc) | https://packages.qa.debian.org/f/fakeroot.html |
 | **fakeroot-static** | 1.38.1 | Static libraries for fakeroot | https://packages.qa.debian.org/f/fakeroot.html |
 | **fasd** | 2.0.0 | To fastly access files and folders | https://github.com/whjvenyl/fasd |
-| **fastfetch** | 2.64.2 | A maintained, feature-rich and performance oriented, neofetch like system information tool | https://github.com/fastfetch-cli/fastfetch |
+| **fastfetch** | 2.65.1 | A maintained, feature-rich and performance oriented, neofetch like system information tool | https://github.com/fastfetch-cli/fastfetch |
 | **fastmod** | 0.4.4-1 | Regex-based code refactoring utility | https://github.com/facebookincubator/fastmod |
 | **fatsort** | 1.7.679 | A C utility that sorts FAT12, FAT16, FAT32 and exFAT partitions | https://fatsort.sourceforge.io/ |
 | **faust** | 2.85.5 | A functional programming language for signal processing and sound synthesis | https://github.com/grame-cncm/faust |
@@ -579,8 +579,8 @@
 | **geoip2-database** | 20191221-2 | GeoLite2 IP geolocation databases compiled by MaxMind | https://dev.maxmind.com/geoip/geoip2/geolite2/ |
 | **germanium** | 1.2.3-3 | Generate image from source code | https://github.com/matsuyoshi30/germanium |
 | **getconf** | 0.6-1 | Utility to print configuration values | https://github.com/termux/getconf |
-| **geth** | 1.17.3 | Go implementation of the Ethereum protocol | https://geth.ethereum.org/ |
-| **geth-utils** | 1.17.3 | Additional utilities for Geth (like abigen, bootnode, evm, puppeth) | https://geth.ethereum.org/ |
+| **geth** | 1.17.4 | Go implementation of the Ethereum protocol | https://geth.ethereum.org/ |
+| **geth-utils** | 1.17.4 | Additional utilities for Geth (like abigen, bootnode, evm, puppeth) | https://geth.ethereum.org/ |
 | **gettext** | 1.0 | GNU Internationalization utilities | https://www.gnu.org/software/gettext/ |
 | **gettext-static** | 1.0 | Static libraries for gettext | https://www.gnu.org/software/gettext/ |
 | **gexiv2** | 0.14.6-1 | A GObject-based Exiv2 wrapper | https://wiki.gnome.org/Projects/gexiv2 |
@@ -924,8 +924,8 @@
 | **libasio** | 1.36.0 | Cross-platform C++ library for network and low-level I/O programming | https://think-async.com/Asio |
 | **libasm** | 0.193-1 | Library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |
 | **libasm-static** | 0.193-1 | Static library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |
-| **libass** | 0.17.4-1 | A portable library for SSA/ASS subtitles rendering | https://github.com/libass/libass |
-| **libass-static** | 0.17.4-1 | Static libraries for libass | https://github.com/libass/libass |
+| **libass** | 0.17.5 | A portable library for SSA/ASS subtitles rendering | https://github.com/libass/libass |
+| **libass-static** | 0.17.5 | Static libraries for libass | https://github.com/libass/libass |
 | **libassuan** | 3.0.2-1 | Library implementing the Assuan IPC protocol used between most newer GnuPG components | https://www.gnupg.org/related_software/libassuan/ |
 | **libassuan-static** | 3.0.2-1 | Static libraries for libassuan | https://www.gnupg.org/related_software/libassuan/ |
 | **libatomic-ops** | 7.10.0 | Provides semi-portable access to hardware-provided atomic memory update operations | https://github.com/bdwgc/libatomic_ops |
@@ -993,8 +993,8 @@
 | **libcue** | 2.3.0-1 | CUE Sheet Parser Library | https://github.com/lipnitsk/libcue/ |
 | **libcunit** | 2.1.3-1 | C Unit Testing Framework | https://sourceforge.net/projects/cunit/ |
 | **libcunit-static** | 2.1.3-1 | Static libraries for libcunit | https://sourceforge.net/projects/cunit/ |
-| **libcurl** | 8.20.0 | Easy-to-use client-side URL transfer library | https://curl.se/ |
-| **libcurl-static** | 8.20.0 | Static libraries for libcurl | https://curl.se/ |
+| **libcurl** | 8.21.0 | Easy-to-use client-side URL transfer library | https://curl.se/ |
+| **libcurl-static** | 8.21.0 | Static libraries for libcurl | https://curl.se/ |
 | **libczmq** | 4.2.1-4 | High-level C binding for ZeroMQ | https://zeromq.org/ |
 | **libczmq-static** | 4.2.1-4 | Static libraries for libczmq | https://zeromq.org/ |
 | **libdaemon** | 0.14-1 | A lightweight C library that eases the writing of UNIX daemons | https://0pointer.de/lennart/projects/libdaemon/ |
@@ -1852,7 +1852,7 @@
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20260616 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.12.3-1 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
-| **neovim-nightly** | 0.13.0~dev-797+ge750f7c357-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
+| **neovim-nightly** | 0.13.0~dev-806+g19f64a2680-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
 | **nerdfix** | 0.4.2-1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.5.2 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.5.2 | Static libraries for net-snmp | http://www.net-snmp.org/ |

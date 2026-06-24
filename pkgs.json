@@ -1849,7 +1849,7 @@
   },
   {
     "Package": "curl",
-    "Version": "8.20.0",
+    "Version": "8.21.0",
     "Description": "Command line tool for transferring data with URL syntax",
     "Homepage": "https://curl.se/"
   },
@@ -2071,7 +2071,7 @@
   },
   {
     "Package": "direvent",
-    "Version": "5.4-1",
+    "Version": "5.5",
     "Description": "Monitor of events in file system directories",
     "Homepage": "https://www.gnu.org.ua/software/direvent/"
   },
@@ -2863,7 +2863,7 @@
   },
   {
     "Package": "fastfetch",
-    "Version": "2.64.2",
+    "Version": "2.65.1",
     "Description": "A maintained, feature-rich and performance oriented, neofetch like system information tool",
     "Homepage": "https://github.com/fastfetch-cli/fastfetch"
   },
@@ -3487,13 +3487,13 @@
   },
   {
     "Package": "geth",
-    "Version": "1.17.3",
+    "Version": "1.17.4",
     "Description": "Go implementation of the Ethereum protocol",
     "Homepage": "https://geth.ethereum.org/"
   },
   {
     "Package": "geth-utils",
-    "Version": "1.17.3",
+    "Version": "1.17.4",
     "Description": "Additional utilities for Geth (like abigen, bootnode, evm, puppeth)",
     "Homepage": "https://geth.ethereum.org/"
   },
@@ -5557,13 +5557,13 @@
   },
   {
     "Package": "libass",
-    "Version": "0.17.4-1",
+    "Version": "0.17.5",
     "Description": "A portable library for SSA/ASS subtitles rendering",
     "Homepage": "https://github.com/libass/libass"
   },
   {
     "Package": "libass-static",
-    "Version": "0.17.4-1",
+    "Version": "0.17.5",
     "Description": "Static libraries for libass",
     "Homepage": "https://github.com/libass/libass"
   },
@@ -5971,13 +5971,13 @@
   },
   {
     "Package": "libcurl",
-    "Version": "8.20.0",
+    "Version": "8.21.0",
     "Description": "Easy-to-use client-side URL transfer library",
     "Homepage": "https://curl.se/"
   },
   {
     "Package": "libcurl-static",
-    "Version": "8.20.0",
+    "Version": "8.21.0",
     "Description": "Static libraries for libcurl",
     "Homepage": "https://curl.se/"
   },
@@ -11125,7 +11125,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-797+ge750f7c357-0",
+    "Version": "0.13.0~dev-806+g19f64a2680-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
