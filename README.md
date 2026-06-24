@@ -1977,6 +1977,7 @@
 | **openssl-tool** | 1:3.6.3 | The openssl command line cryptographic tool | https://www.openssl.org/ |
 | **opentimelineio** | 0.18.1 | Open Source API and interchange format for editorial timeline information. | http://opentimeline.io/ |
 | **openxr** | 1.1.60-1 | Open standard that provides a common set of APIs for developing XR applications | https://www.khronos.org/openxr/ |
+| **opkssh** | 0.15.0 | Enables SSH to be used with OpenID Connect | https://github.com/openpubkey/opkssh |
 | **optipng** | 7.9.1-1 | PNG optimizer that recompresses image files to a smaller size, without losing any information | https://optipng.sourceforge.net/ |
 | **opus-tools** | 0.2-4 | Utilities to encode and decode .opus files | https://www.opus-codec.org/ |
 | **opusfile** | 0.12-4 | A high-level API for decoding and seeking within .opus files | https://www.opus-codec.org/ |

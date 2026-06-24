@@ -11802,6 +11802,12 @@
     "Homepage": "https://www.khronos.org/openxr/"
   },
   {
+    "Package": "opkssh",
+    "Version": "0.15.0",
+    "Description": "Enables SSH to be used with OpenID Connect",
+    "Homepage": "https://github.com/openpubkey/opkssh"
+  },
+  {
     "Package": "optipng",
     "Version": "7.9.1-1",
     "Description": "PNG optimizer that recompresses image files to a smaller size, without losing any information",
