@@ -2875,7 +2875,7 @@
   Description: A toolkit for creating structured configuration languages
   Homepage: https://github.com/hashicorp/hcl
 - Package: hcloud
-  Version: 1.65.0
+  Version: 1.66.0
   Description: Hetzner Cloud command line client
   Homepage: https://github.com/hetznercloud/cli
 - Package: helix
@@ -5367,11 +5367,11 @@
   Description: Minimalistic protocol buffer decoder and encoder in C++
   Homepage: https://github.com/mapbox/protozero
 - Package: libpsl
-  Version: 0.21.5-1
+  Version: 0.22.0
   Description: Public Suffix List library
   Homepage: https://github.com/rockdaboot/libpsl
 - Package: libpsl-static
-  Version: 0.21.5-1
+  Version: 0.22.0
   Description: Static libraries for libpsl
   Homepage: https://github.com/rockdaboot/libpsl
 - Package: libpugixml
@@ -6683,7 +6683,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.33.3
+  Version: 0.33.4
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://lux.lumen-labs.org
 - Package: lv2
@@ -8611,7 +8611,7 @@
   Description: An extremely fast Python linter, written in Rust (Python bindings)
   Homepage: https://github.com/charliermarsh/ruff
 - Package: python-sabyenc3
-  Version: 9.4.1
+  Version: 9.5.0
   Description: C implementations of functions for use within SABnzbd
   Homepage: https://github.com/sabnzbd/sabctools
 - Package: python-scipy
@@ -10427,7 +10427,7 @@
   Description: A single and trusted place for all unofficial/less popular termux packages
   Homepage: https://github.com/termux-user-repository/tur
 - Package: turbo
-  Version: 2.9.18
+  Version: 2.10.0
   Description: High-performance build system for JS/TS
   Homepage: https://turborepo.dev/
 - Package: turbopack
@@ -10459,7 +10459,7 @@
   Description: A small and powerful JavaScript runtime
   Homepage: https://github.com/saghul/txiki.js
 - Package: ty
-  Version: 0.0.52
+  Version: 0.0.53
   Description: An extremely fast Python type checker and language server, written in Rust
   Homepage: https://github.com/astral-sh/ty
 - Package: typst
@@ -10831,7 +10831,7 @@
   Description: The WebAssembly Binary Toolkit
   Homepage: https://github.com/WebAssembly/wabt
 - Package: wakatime-cli
-  Version: 2.21.0
+  Version: 2.21.2
   Description: Command line interface used by all WakaTime text editor plugins
   Homepage: https://wakatime.com/plugins/
 - Package: walk
@@ -11043,7 +11043,7 @@
   Description: Static libraries for xerces-c
   Homepage: https://xerces.apache.org/
 - Package: xh
-  Version: 0.26.1
+  Version: 0.26.1-1
   Description: A friendly and fast tool for sending HTTP requests
   Homepage: https://github.com/ducaale/xh
 - Package: xmake
