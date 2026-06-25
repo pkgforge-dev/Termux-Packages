@@ -329,7 +329,7 @@
 | **ddrescue** | 1.30 | GNU data recovery tool | https://www.gnu.org/software/ddrescue/ |
 | **debianutils** | 5.23.2-1 | Small utilities which are used primarily by the installation scripts of Debian packages | https://packages.debian.org/debianutils |
 | **debootstrap** | 1.0.144 | Bootstrap a basic Debian system | https://wiki.debian.org/Debootstrap |
-| **delve** | 1.26.3 | A debugger for the Go programming language | https://github.com/go-delve/delve |
+| **delve** | 1.27.0 | A debugger for the Go programming language | https://github.com/go-delve/delve |
 | **deno** | 1:2.8.3 | A modern runtime for JavaScript and TypeScript | https://deno.land/ |
 | **desed** | 1.2.2-1 | Demystifies and debugs your sed scripts | https://github.com/SoptikHa2/desed |
 | **deutex** | 5.2.3-1 | WAD composer for Doom, Heretic, Hexen, and Strife | https://github.com/Doom-Utils/deutex/ |
@@ -673,7 +673,7 @@
 | **gpgme-static** | 2.1.0 | Static libraries for gpgme | https://www.gnupg.org/related_software/gpgme/ |
 | **gpgmepp** | 2.1.0 | C++ bindings for GPGME | https://www.gnupg.org/related_software/gpgme/ |
 | **gpgv** | 2.5.17 | GNU privacy guard - signature verification tool | https://www.gnupg.org/ |
-| **gping** | 1.20.2 | Ping, but with a graph | https://github.com/orf/gping |
+| **gping** | 1.20.4 | Ping, but with a graph | https://github.com/orf/gping |
 | **gpsbabel** | 1.4.4-3 | GPS file conversion plus transfer to/from GPS units | https://www.gpsbabel.org/ |
 | **gradle** | 1:9.6.0 | Powerful build system for the JVM | https://gradle.org/ |
 | **grafana** | 1:12.3.3 | The open-source platform for monitoring and observability | https://grafana.com/ |
@@ -1615,9 +1615,9 @@
 | **littlecms** | 2.19.1 | Color management library | http://www.littlecms.com/ |
 | **littlecms-static** | 2.19.1 | Static libraries for littlecms | http://www.littlecms.com/ |
 | **littlecms-utils** | 2.19.1 | Color management utilities | http://www.littlecms.com/ |
-| **llama-cpp** | 0.0.0-b9590-0 | LLM inference in C/C++ | https://github.com/ggml-org/llama.cpp |
-| **llama-cpp-backend-opencl** | 0.0.0-b9590-0 | OpenCL Backend for LLaMA.cpp | https://github.com/ggml-org/llama.cpp |
-| **llama-cpp-backend-vulkan** | 0.0.0-b9590-0 | Vulkan Backend for LLaMA.cpp | https://github.com/ggml-org/llama.cpp |
+| **llama-cpp** | 0.0.0-b9784-0 | LLM inference in C/C++ | https://github.com/ggml-org/llama.cpp |
+| **llama-cpp-backend-opencl** | 0.0.0-b9784-0 | OpenCL Backend for LLaMA.cpp | https://github.com/ggml-org/llama.cpp |
+| **llama-cpp-backend-vulkan** | 0.0.0-b9784-0 | Vulkan Backend for LLaMA.cpp | https://github.com/ggml-org/llama.cpp |
 | **llbuild** | 6.2.1 | A low-level build system, used by the Swift Package Manager | https://github.com/swiftlang/swift-llbuild |
 | **lld** | 21.1.8-2 | LLVM-based linker | https://clang.llvm.org/ |
 | **lldb** | 21.1.8-2 | LLVM-based debugger | https://clang.llvm.org/ |
@@ -1816,7 +1816,7 @@
 | **music-file-organizer** | 1.0.4-10 | Organizer of audio files into directories based on metadata tags | https://git.zx2c4.com/music-file-organizer/about/ |
 | **mutt** | 2.4.0 | Mail client with patches from neomutt | http://www.mutt.org/ |
 | **myman** | 0.7.1-6 | Video game for color and monochrome text terminals in the genre of Namco's Pac-Man | https://sourceforge.net/projects/myman/ |
-| **mympd** | 25.2.1 | A standalone and lightweight web-based MPD client | https://jcorporation.github.io/myMPD/ |
+| **mympd** | 25.2.2 | A standalone and lightweight web-based MPD client | https://jcorporation.github.io/myMPD/ |
 | **mypaint-brushes** | 2.0.2 | MyPaint brushes | https://github.com/mypaint/mypaint-brushes |
 | **myrepos** | 1.20180726-4 | Tool to manage all your version control repos | https://myrepos.branchable.com/ |
 | **n-t-roff-sc** | 7.16-1.2.0-0 | A vi-like spreadsheet calculator | https://github.com/n-t-roff/sc |
@@ -1908,7 +1908,7 @@
 | **octomap** | 1.10.0-1 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0-1 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-5 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 29.17.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 29.18.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **oidn** | 2.4.1 | Intel® Open Image Denoise library | https://www.openimagedenoise.org |
 | **okc-agents** | 0.1.2-2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.7 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
@@ -2097,8 +2097,8 @@
 | **profanity** | 0.18.2 | Profanity is a console based XMPP client written in C using ncurses and libstrophe, inspired by Irssi | https://profanity-im.github.io |
 | **progress** | 0.17-1 | Linux tool to show progress for cp, mv, dd and more | https://github.com/Xfennec/progress |
 | **proj** | 9.8.1 | Generic coordinate transformation software | https://proj.org |
-| **proot** | 5.1.107.80 | Emulate chroot, bind mount and binfmt_misc for non-root users | https://proot-me.github.io/ |
-| **proot-distro** | 5.3.0 | Termux official utility for managing proot'ed Linux distributions | https://github.com/termux/proot-distro |
+| **proot** | 5.1.107.81 | Emulate chroot, bind mount and binfmt_misc for non-root users | https://proot-me.github.io/ |
+| **proot-distro** | 5.4.0 | Termux official utility for managing proot'ed Linux distributions | https://github.com/termux/proot-distro |
 | **protobuf** | 2:33.1-1 | Compiler for protocol buffer definition files | https://github.com/protocolbuffers/protobuf |
 | **proton-bridge** | 3.25.0 | ProtonMail Bridge application | https://github.com/ProtonMail/proton-bridge |
 | **prover9** | 2009-11A-2 | An automated theorem prover for first-order and equational logic | https://www.cs.unm.edu/~mccune/prover9/ |
@@ -2714,7 +2714,7 @@
 | **wasm-component-ld** | 0.5.25 | Command line linker for creating WebAssembly components | https://github.com/bytecodealliance/wasm-component-ld |
 | **wasmedge** | 0.17.0 | A lightweight, high-performance, and extensible WebAssembly runtime | https://wasmedge.org/ |
 | **wasmer** | 7.1.0 | A fast and secure WebAssembly runtime | https://wasmer.io/ |
-| **wasmtime** | 46.0.0 | A standalone runtime for WebAssembly | https://wasmtime.dev/ |
+| **wasmtime** | 46.0.1 | A standalone runtime for WebAssembly | https://wasmtime.dev/ |
 | **watchexec** | 2.5.1 | Executes commands in response to file modifications | https://github.com/watchexec/watchexec |
 | **wavpack** | 5.9.0 | WavPack command-line programs | https://www.wavpack.com/ |
 | **waypipe** | 0.11.0 | A proxy for Wayland clients | https://gitlab.freedesktop.org/mstoeckl/waypipe |

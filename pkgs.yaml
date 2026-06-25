@@ -1323,7 +1323,7 @@
   Description: Bootstrap a basic Debian system
   Homepage: https://wiki.debian.org/Debootstrap
 - Package: delve
-  Version: 1.26.3
+  Version: 1.27.0
   Description: A debugger for the Go programming language
   Homepage: https://github.com/go-delve/delve
 - Package: deno
@@ -2699,7 +2699,7 @@
   Description: GNU privacy guard - signature verification tool
   Homepage: https://www.gnupg.org/
 - Package: gping
-  Version: 1.20.2
+  Version: 1.20.4
   Description: Ping, but with a graph
   Homepage: https://github.com/orf/gping
 - Package: gpsbabel
@@ -6467,15 +6467,15 @@
   Description: Color management utilities
   Homepage: http://www.littlecms.com/
 - Package: llama-cpp
-  Version: 0.0.0-b9590-0
+  Version: 0.0.0-b9784-0
   Description: LLM inference in C/C++
   Homepage: https://github.com/ggml-org/llama.cpp
 - Package: llama-cpp-backend-opencl
-  Version: 0.0.0-b9590-0
+  Version: 0.0.0-b9784-0
   Description: OpenCL Backend for LLaMA.cpp
   Homepage: https://github.com/ggml-org/llama.cpp
 - Package: llama-cpp-backend-vulkan
-  Version: 0.0.0-b9590-0
+  Version: 0.0.0-b9784-0
   Description: Vulkan Backend for LLaMA.cpp
   Homepage: https://github.com/ggml-org/llama.cpp
 - Package: llbuild
@@ -7271,7 +7271,7 @@
   Description: Video game for color and monochrome text terminals in the genre of Namcos Pac-Man
   Homepage: https://sourceforge.net/projects/myman/
 - Package: mympd
-  Version: 25.2.1
+  Version: 25.2.2
   Description: A standalone and lightweight web-based MPD client
   Homepage: https://jcorporation.github.io/myMPD/
 - Package: mypaint-brushes
@@ -7639,7 +7639,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 29.17.0
+  Version: 29.18.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: oidn
@@ -8395,11 +8395,11 @@
   Description: Generic coordinate transformation software
   Homepage: https://proj.org
 - Package: proot
-  Version: 5.1.107.80
+  Version: 5.1.107.81
   Description: Emulate chroot, bind mount and binfmt_misc for non-root users
   Homepage: https://proot-me.github.io/
 - Package: proot-distro
-  Version: 5.3.0
+  Version: 5.4.0
   Description: Termux official utility for managing prooted Linux distributions
   Homepage: https://github.com/termux/proot-distro
 - Package: protobuf
@@ -10863,7 +10863,7 @@
   Description: A fast and secure WebAssembly runtime
   Homepage: https://wasmer.io/
 - Package: wasmtime
-  Version: 46.0.0
+  Version: 46.0.1
   Description: A standalone runtime for WebAssembly
   Homepage: https://wasmtime.dev/
 - Package: watchexec
