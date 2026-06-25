@@ -2977,13 +2977,13 @@
   },
   {
     "Package": "fetchmail",
-    "Version": "6.6.5",
+    "Version": "6.6.6",
     "Description": "A remote-mail retrieval utility",
     "Homepage": "https://www.fetchmail.info/"
   },
   {
     "Package": "fetchmailconf",
-    "Version": "6.6.5",
+    "Version": "6.6.6",
     "Description": "A GUI configurator for generating fetchmail configuration files",
     "Homepage": "https://www.fetchmail.info/"
   },
@@ -10207,7 +10207,7 @@
   },
   {
     "Package": "matterircd",
-    "Version": "0.29.0",
+    "Version": "0.30.0",
     "Description": "Connect to your mattermost or slack using your IRC-client of choice",
     "Homepage": "https://github.com/42wim/matterircd"
   },
