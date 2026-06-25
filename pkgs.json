@@ -379,7 +379,7 @@
   },
   {
     "Package": "aptly",
-    "Version": "1.6.2-1",
+    "Version": "1.6.3",
     "Description": "A Swiss Army knife for Debian repository management",
     "Homepage": "https://www.aptly.info"
   },
@@ -12565,7 +12565,7 @@
   },
   {
     "Package": "procs",
-    "Version": "0.14.11",
+    "Version": "0.14.12",
     "Description": "A modern replacement for ps",
     "Homepage": "https://github.com/dalance/procs"
   },
@@ -14143,7 +14143,7 @@
   },
   {
     "Package": "sing-box",
-    "Version": "1.13.13",
+    "Version": "1.13.14",
     "Description": "The universal proxy platform",
     "Homepage": "https://sing-box.sagernet.org"
   },
@@ -15907,7 +15907,7 @@
   },
   {
     "Package": "uthash",
-    "Version": "2.3.0",
+    "Version": "2.4.0",
     "Description": "C preprocessor implementations of a hash table and a linked list",
     "Homepage": "https://troydhanson.github.io/uthash/"
   },
