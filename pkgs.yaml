@@ -1279,7 +1279,7 @@
   Description: Small POSIX-compliant implementation of /bin/sh
   Homepage: http://gondor.apana.org.au/~herbert/dash/
 - Package: dasm
-  Version: 2.20.14.1-1
+  Version: 2.20.17
   Description: Macro assembler with support for several 8-bit microprocessors
   Homepage: https://dasm-dillon.sourceforge.io/
 - Package: datamash
@@ -1327,7 +1327,7 @@
   Description: A debugger for the Go programming language
   Homepage: https://github.com/go-delve/delve
 - Package: deno
-  Version: 1:2.8.3
+  Version: 1:2.9.0
   Description: A modern runtime for JavaScript and TypeScript
   Homepage: https://deno.land/
 - Package: desed
@@ -2079,7 +2079,7 @@
   Description: Software synthesizer based on the SoundFont 2 specifications
   Homepage: https://github.com/FluidSynth/fluidsynth
 - Package: flyctl
-  Version: 0.4.60
+  Version: 0.4.61
   Description: Command line tools for fly.io services
   Homepage: https://fly.io
 - Package: fm
@@ -4183,11 +4183,11 @@
   Description: Static libraries for libexif
   Homepage: https://libexif.github.io/
 - Package: libexpat
-  Version: 2.8.1
+  Version: 2.8.2
   Description: XML parsing C library
   Homepage: https://libexpat.github.io/
 - Package: libexpat-static
-  Version: 2.8.1
+  Version: 2.8.2
   Description: Static libraries for libexpat
   Homepage: https://libexpat.github.io/
 - Package: libfann
@@ -5491,7 +5491,7 @@
   Description: Static libraries for librttopo
   Homepage: https://git.osgeo.org/gitea/rttopo/librttopo
 - Package: librusty-v8
-  Version: 1:2.8.3
+  Version: 1:2.9.0
   Description: High quality Rust bindings to V8s C++ API
   Homepage: https://deno.land/
 - Package: libsamplerate
@@ -8611,7 +8611,7 @@
   Description: PPM compression/decompression library
   Homepage: https://github.com/miurahr/pyppmd
 - Package: python-ruff
-  Version: 0.15.19
+  Version: 0.15.20
   Description: An extremely fast Python linter, written in Rust (Python bindings)
   Homepage: https://github.com/charliermarsh/ruff
 - Package: python-sabyenc3
@@ -8843,7 +8843,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 5.23.0
+  Version: 5.23.1
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
@@ -9127,7 +9127,7 @@
   Description: Ruby documentation index
   Homepage: https://www.ruby-lang.org/
 - Package: ruff
-  Version: 0.15.19
+  Version: 0.15.20
   Description: An extremely fast Python linter, written in Rust
   Homepage: https://github.com/charliermarsh/ruff
 - Package: runit
@@ -9247,7 +9247,7 @@
   Description: Scala 3 compiler and standard library.
   Homepage: https://www.scala-lang.org
 - Package: scc
-  Version: 3.7.0
+  Version: 3.7.0-1
   Description: Counts physical the lines of code, blank lines, comment lines, and physical lines of source code
   Homepage: https://github.com/boyter/scc
 - Package: sccache
@@ -9483,19 +9483,19 @@
   Description: SNMP trap translator
   Homepage: http://www.snmptt.org/
 - Package: snowflake
-  Version: 2.14.0
+  Version: 2.14.1
   Description: Pluggable Transport using WebRTC, inspired by Flashproxy
   Homepage: https://snowflake.torproject.org/
 - Package: snowflake-client
-  Version: 2.14.0
+  Version: 2.14.1
   Description: Pluggable Transport using WebRTC, inspired by Flashproxy (Client)
   Homepage: https://snowflake.torproject.org/
 - Package: snowflake-proxy
-  Version: 2.14.0
+  Version: 2.14.1
   Description: Pluggable Transport using WebRTC, inspired by Flashproxy (Proxy)
   Homepage: https://snowflake.torproject.org/
 - Package: socat
-  Version: 1.8.1.1
+  Version: 1.8.1.2
   Description: Relay for bidirectional data transfer between two independent data channels
   Homepage: http://www.dest-unreach.org/socat/
 - Package: softether-vpn
@@ -10463,7 +10463,7 @@
   Description: A small and powerful JavaScript runtime
   Homepage: https://github.com/saghul/txiki.js
 - Package: ty
-  Version: 0.0.53
+  Version: 0.0.54
   Description: An extremely fast Python type checker and language server, written in Rust
   Homepage: https://github.com/astral-sh/ty
 - Package: typst
