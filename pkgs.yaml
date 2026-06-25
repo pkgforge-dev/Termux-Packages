@@ -187,11 +187,11 @@
   Description: Command-line tools using AOMedia library
   Homepage: https://aomedia.org/
 - Package: aosp-libs
-  Version: 9.0.0-r76-3
+  Version: 9.0.0-r76-4
   Description: bionic libc, libicuuc, liblzma, zlib, and boringssl for package builder and termux-docker
   Homepage: https://source.android.com/
 - Package: aosp-utils
-  Version: 9.0.0-r76-3
+  Version: 9.0.0-r76-4
   Description: AOSP-based mksh, toybox, grep and iputils for termux-docker
   Homepage: https://source.android.com/
 - Package: apache-orc
@@ -491,7 +491,7 @@
   Description: Encode binary to printable utf16be
   Homepage: https://github.com/fumiama/base16384
 - Package: bash
-  Version: 5.3.9
+  Version: 5.3.9-1
   Description: A sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh)
   Homepage: https://www.gnu.org/software/bash/
 - Package: bash-completion
@@ -555,11 +555,11 @@
   Description: Binaryen is a compiler and toolchain infrastructure library for WebAssembly
   Homepage: https://github.com/WebAssembly/binaryen
 - Package: binutils
-  Version: 2.46.0-3
+  Version: 2.46.0-4
   Description: A GNU collection of binary utilities
   Homepage: https://www.gnu.org/software/binutils/
 - Package: binutils-cross
-  Version: 2.46.0-3
+  Version: 2.46.0-4
   Description: GNU Binutils for cross build on the host (NOT for Termux)
   Homepage: https://www.gnu.org/software/binutils/
 - Package: binwalk
@@ -607,7 +607,7 @@
   Description: Tiny x86-64 Linux emulator
   Homepage: https://justine.lol/blinkenlights/
 - Package: blk-utils
-  Version: 2.42.1-2
+  Version: 2.42.1-3
   Description: Utilities for handling block device attributes
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: blogc
@@ -1955,7 +1955,7 @@
   Description: Simple, fast and user-friendly alternative to find
   Homepage: https://github.com/sharkdp/fd
 - Package: fdisk
-  Version: 2.42.1-2
+  Version: 2.42.1-3
   Description: Utilities to manipulate disk partition tables
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: fdkaac
@@ -2123,7 +2123,7 @@
   Description: A blazing fast, portable and modular toolkit for Ethereum application development
   Homepage: https://github.com/foundry-rs/foundry
 - Package: freecell-solver
-  Version: 6.16.0
+  Version: 6.16.0-1
   Description: Freecell Solver is an open source library for automatically solving several variants of Solitaire/Patience card games, including Freecell.
   Homepage: https://fc-solve.shlomifish.org/
 - Package: freecolor
@@ -2459,11 +2459,11 @@
   Description: A friendly language for building type-safe, scalable systems!
   Homepage: https://gleam.run
 - Package: glib
-  Version: 2.88.1
+  Version: 2.88.1-1
   Description: Library providing core building blocks for libraries and applications written in C
   Homepage: https://developer.gnome.org/glib/
 - Package: glib-cross
-  Version: 2.88.1
+  Version: 2.88.1-1
   Description: glib for host (NOT for Termux)
   Homepage: https://developer.gnome.org/glib/
 - Package: glib-networking
@@ -3735,7 +3735,7 @@
   Description: A lightweight cryptography API for Java
   Homepage: https://www.bouncycastle.org/java.html
 - Package: libblkid
-  Version: 2.42.1-2
+  Version: 2.42.1-3
   Description: Block device identification library
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: libblocksruntime
@@ -4199,7 +4199,7 @@
   Description: Flexible collision library
   Homepage: https://github.com/flexible-collision-library/fcl
 - Package: libfdisk
-  Version: 2.42.1-2
+  Version: 2.42.1-3
   Description: Library for manipulating disk partition tables
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: libfdk-aac
@@ -4891,7 +4891,7 @@
   Description: MQTT library
   Homepage: https://mosquitto.org/
 - Package: libmount
-  Version: 2.42.1-2
+  Version: 2.42.1-3
   Description: Library for (un)mounting filesystems
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: libmp3lame
@@ -5595,7 +5595,7 @@
   Description: X11 Session Management library
   Homepage: https://xorg.freedesktop.org/
 - Package: libsmartcols
-  Version: 2.42.1-2
+  Version: 2.42.1-3
   Description: Library for smart adaptive formatting of tabular data
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: libsnappy
@@ -5995,7 +5995,7 @@
   Description: network protocol for sending USB device traffic over a network connection
   Homepage: https://www.spice-space.org/
 - Package: libuuid
-  Version: 2.42.1-2
+  Version: 2.42.1-3
   Description: Library for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: libuv
@@ -6099,11 +6099,11 @@
   Description: Static libraries for libwavpack
   Homepage: https://www.wavpack.com/
 - Package: libwayland
-  Version: 1.25.0
+  Version: 1.25.0-1
   Description: Wayland protocol library
   Homepage: https://wayland.freedesktop.org/
 - Package: libwayland-cross-scanner
-  Version: 1.25.0
+  Version: 1.25.0-1
   Description: wayland-scanner for host (NOT for Termux)
   Homepage: https://wayland.freedesktop.org/
 - Package: libwayland-protocols
@@ -6283,15 +6283,15 @@
   Description: A C library for creating Excel XLSX files
   Homepage: https://libxlsxwriter.github.io/
 - Package: libxml2
-  Version: 2.15.3
+  Version: 2.15.3-1
   Description: Library for parsing XML documents
   Homepage: https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home
 - Package: libxml2-python
-  Version: 2.15.3
+  Version: 2.15.3-1
   Description: Python bindings for libxml2
   Homepage: https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home
 - Package: libxml2-utils
-  Version: 2.15.3
+  Version: 2.15.3-1
   Description: XML utilities
   Homepage: https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home
 - Package: libxmlb
@@ -6579,7 +6579,7 @@
   Description: Tracks runtime library calls in dynamically linked programs
   Homepage: http://www.ltrace.org/
 - Package: lua-language-server
-  Version: 3.18.2
+  Version: 3.18.2-1
   Description: Sumneko Lua Language Server coded in Lua
   Homepage: https://github.com/sumneko/lua-language-server
 - Package: lua-lgi
@@ -6683,7 +6683,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.33.4
+  Version: 0.33.4-1
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://lux.lumen-labs.org
 - Package: lv2
@@ -7147,7 +7147,7 @@
   Description: A terminal pager similar to more and less
   Homepage: http://www.jedsoft.org/most/index.html
 - Package: mount-utils
-  Version: 2.42.1-2
+  Version: 2.42.1-3
   Description: Utilities for (un)mounting filesystems
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: mp3cat
@@ -10607,11 +10607,11 @@
   Description: C preprocessor implementations of a hash table and a linked list
   Homepage: https://troydhanson.github.io/uthash/
 - Package: util-linux
-  Version: 2.42.1-2
+  Version: 2.42.1-3
   Description: Miscellaneous system utilities
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: util-linux-static
-  Version: 2.42.1-2
+  Version: 2.42.1-3
   Description: Static libraries for util-linux
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uucp
@@ -10619,7 +10619,7 @@
   Description: The standard UUCP package of the Free Software Foundation
   Homepage: https://www.airs.com/ian/uucp.html
 - Package: uuid-utils
-  Version: 2.42.1-2
+  Version: 2.42.1-3
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
