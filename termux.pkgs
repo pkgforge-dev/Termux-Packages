@@ -936,7 +936,7 @@
 | **libblocksruntime** | 1:6.2.1 | LLVM Blocks runtime library | https://github.com/swiftlang/swift-corelibs-libdispatch |
 | **libblosc** | 1.21.6-2 | A blocking, shuffling and loss-less compression library | https://www.blosc.org |
 | **libblosc-static** | 1.21.6-2 | Static libraries for libblosc | https://www.blosc.org |
-| **libblosc2** | 3.1.4 | A blocking, shuffling and loss-less compression library | https://www.blosc.org |
+| **libblosc2** | 3.1.5 | A blocking, shuffling and loss-less compression library | https://www.blosc.org |
 | **libbluray** | 1.4.1 | An open-source library designed for Blu-Ray Discs playback for media players | https://code.videolan.org/videolan/libbluray/ |
 | **libbluray-static** | 1.4.1 | Static libraries for libbluray | https://code.videolan.org/videolan/libbluray/ |
 | **libbluray-utils** | 1.4.1 | Example utilities for libbluray | https://code.videolan.org/videolan/libbluray/ |
@@ -1110,8 +1110,8 @@
 | **libharu** | 2.4.6 | Free, cross platform, open source library for generating PDF files | http://libharu.org/ |
 | **libhdf5** | 1.14.4.3-1 | Hierarchical Data Format 5 (HDF5) | https://portal.hdfgroup.org/display/support |
 | **libhdf5-static** | 1.14.4.3-1 | Static libraries for libhdf5 | https://portal.hdfgroup.org/display/support |
-| **libheif** | 1.23.0 | HEIF (HEIC/AVIF) image encoding and decoding library | https://github.com/strukturag/libheif |
-| **libheif-progs** | 1.23.0 | Programs for manipulating HEIF (HEIC/AVIF) image files | https://github.com/strukturag/libheif |
+| **libheif** | 1.23.1 | HEIF (HEIC/AVIF) image encoding and decoding library | https://github.com/strukturag/libheif |
+| **libheif-progs** | 1.23.1 | Programs for manipulating HEIF (HEIC/AVIF) image files | https://github.com/strukturag/libheif |
 | **libhiredis** | 1.4.0 | Hiredis is a minimalistic C client library for the Redis database | https://redis.com/lp/hiredis |
 | **libhtmlcxx** | 0.87-5 | A simple non-validating css1 and html parser for C++ | https://htmlcxx.sourceforge.net/ |
 | **libhtmlcxx-static** | 0.87-5 | Static libraries for libhtmlcxx | https://htmlcxx.sourceforge.net/ |
@@ -2372,7 +2372,7 @@
 | **snowflake** | 2.14.1 | Pluggable Transport using WebRTC, inspired by Flashproxy | https://snowflake.torproject.org/ |
 | **snowflake-client** | 2.14.1 | Pluggable Transport using WebRTC, inspired by Flashproxy (Client) | https://snowflake.torproject.org/ |
 | **snowflake-proxy** | 2.14.1 | Pluggable Transport using WebRTC, inspired by Flashproxy (Proxy) | https://snowflake.torproject.org/ |
-| **socat** | 1.8.1.2 | Relay for bidirectional data transfer between two independent data channels | http://www.dest-unreach.org/socat/ |
+| **socat** | 1.8.1.3 | Relay for bidirectional data transfer between two independent data channels | http://www.dest-unreach.org/socat/ |
 | **softether-vpn** | 5.2.5188-1 | An open-source cross-platform multi-protocol VPN program | https://www.softether.org/ |
 | **softether-vpn-static** | 5.2.5188-1 | Static libraries for softether-vpn | https://www.softether.org/ |
 | **soju** | 0.10.1 | A user-friendly IRC bouncer | https://codeberg.org/emersion/soju |
