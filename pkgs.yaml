@@ -2707,7 +2707,7 @@
   Description: GPS file conversion plus transfer to/from GPS units
   Homepage: https://www.gpsbabel.org/
 - Package: gradle
-  Version: 1:9.6.0
+  Version: 1:9.6.1
   Description: Powerful build system for the JVM
   Homepage: https://gradle.org/
 - Package: grafana
@@ -6663,7 +6663,7 @@
   Description: Deployment and management system for Lua modules
   Homepage: https://luarocks.org/
 - Package: lunasvg
-  Version: 3.5.0
+  Version: 3.5.0-1
   Description: SVG rendering and manipulation library in C++
   Homepage: https://github.com/sammycage/lunasvg
 - Package: luv
@@ -8023,7 +8023,7 @@
   Description: GNU patch which applies diff files to create patched files
   Homepage: https://savannah.gnu.org/projects/patch/
 - Package: patchelf
-  Version: 0.18.0-1
+  Version: 0.19.0
   Description: Utility to modify the dynamic linker and RPATH of ELF executables
   Homepage: https://nixos.org/patchelf.html
 - Package: patchutils
@@ -8543,7 +8543,7 @@
   Description: Wheels for Python ensurepip
   Homepage: https://python.org/
 - Package: python-greenlet
-  Version: 3.5.2
+  Version: 3.5.3
   Description: Lightweight coroutines for in-process concurrent programming
   Homepage: https://github.com/python-greenlet/greenlet
 - Package: python-grpcio
@@ -10183,7 +10183,7 @@
   Description: Terminal multiplexer with instant terminal sharing
   Homepage: https://tmate.io
 - Package: tmux
-  Version: 3.6b
+  Version: "3.7"
   Description: Terminal multiplexer
   Homepage: https://tmux.github.io/
 - Package: toilet
@@ -10207,7 +10207,7 @@
   Description: Upgrade all the things
   Homepage: https://github.com/topgrade-rs/topgrade/
 - Package: tor
-  Version: 0.4.9.10
+  Version: 0.4.9.11
   Description: The Onion Router anonymizing overlay network
   Homepage: https://www.torproject.org
 - Package: torsocks
