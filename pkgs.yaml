@@ -6123,7 +6123,7 @@
   Description: Lightweight C websockets library
   Homepage: https://libwebsockets.org
 - Package: libwolfssl
-  Version: 5.9.1
+  Version: 5.9.2
   Description: A small, fast, portable implementation of TLS/SSL for embedded devices to the cloud
   Homepage: https://www.wolfssl.com/
 - Package: libwpd
@@ -7415,7 +7415,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-813+ge715122e4e-0
+  Version: 0.13.0~dev-823+gb9b1992d9d-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -7639,7 +7639,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 29.18.0
+  Version: 29.19.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: oidn
@@ -10691,11 +10691,11 @@
   Description: Config manager based on Git
   Homepage: https://github.com/RichiH/vcsh
 - Package: vde2
-  Version: 2.3.3-5
+  Version: 2.3.3-6
   Description: Virtual Distributed Ethernet for emulators like qemu
   Homepage: https://github.com/virtualsquare/vde-2
 - Package: vde2-static
-  Version: 2.3.3-5
+  Version: 2.3.3-6
   Description: Static libraries for vde2
   Homepage: https://github.com/virtualsquare/vde-2
 - Package: vegeta
@@ -10787,7 +10787,7 @@
   Description: Vulkan Extension Layer
   Homepage: https://github.com/KhronosGroup/Vulkan-ExtensionLayer
 - Package: vulkan-headers
-  Version: 1.4.354
+  Version: 1.4.355
   Description: Vulkan Header files and API registry
   Homepage: https://github.com/KhronosGroup/Vulkan-Headers
 - Package: vulkan-icd
@@ -10803,7 +10803,7 @@
   Description: Vulkan Loader for Android
   Homepage: https://source.android.com/devices/graphics/arch-vulkan
 - Package: vulkan-loader-generic
-  Version: 1.4.354
+  Version: 1.4.355
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
@@ -10811,7 +10811,7 @@
   Description: Vulkan Tools and Utilities
   Homepage: https://github.com/KhronosGroup/Vulkan-Tools
 - Package: vulkan-utility-libraries
-  Version: 1.4.354
+  Version: 1.4.355
   Description: Utility Libraries for Vulkan
   Homepage: https://github.com/KhronosGroup/Vulkan-Utility-Libraries
 - Package: vulkan-validation-layers
