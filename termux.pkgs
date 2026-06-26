@@ -613,8 +613,8 @@
 | **gkermit** | 2.01-1 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
 | **glab-cli** | 1.105.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
 | **gleam** | 1.17.0 | A friendly language for building type-safe, scalable systems! | https://gleam.run |
-| **glib** | 2.88.1-1 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
-| **glib-cross** | 2.88.1-1 | glib for host (NOT for Termux) | https://developer.gnome.org/glib/ |
+| **glib** | 2.88.2 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
+| **glib-cross** | 2.88.2 | glib for host (NOT for Termux) | https://developer.gnome.org/glib/ |
 | **glib-networking** | 2.80.1-2 | Network-related giomodules for glib | https://gitlab.gnome.org/GNOME/glib-networking |
 | **glibc-repo** | 1.0 | A package repository containing glibc-based programs and libraries | https://github.com/termux/glibc-packages |
 | **glm** | 1.0.3 | C++ mathematics library for graphics programming | https://glm.g-truc.net/ |
@@ -669,8 +669,8 @@
 | **gpac** | 2.4.0-5 | An open-source multimedia framework focused on modularity and standards compliance | https://gpac.wp.imt.fr/ |
 | **gpac-static** | 2.4.0-5 | Static libraries for gpac | https://gpac.wp.imt.fr/ |
 | **gperf** | 3.3-1 | A perfect hash function generator | https://www.gnu.org/software/gperf |
-| **gpgme** | 2.1.0 | Library designed to make access to GnuPG easier | https://www.gnupg.org/related_software/gpgme/ |
-| **gpgme-static** | 2.1.0 | Static libraries for gpgme | https://www.gnupg.org/related_software/gpgme/ |
+| **gpgme** | 2.1.1 | Library designed to make access to GnuPG easier | https://www.gnupg.org/related_software/gpgme/ |
+| **gpgme-static** | 2.1.1 | Static libraries for gpgme | https://www.gnupg.org/related_software/gpgme/ |
 | **gpgmepp** | 2.1.0 | C++ bindings for GPGME | https://www.gnupg.org/related_software/gpgme/ |
 | **gpgv** | 2.5.17 | GNU privacy guard - signature verification tool | https://www.gnupg.org/ |
 | **gping** | 1.20.4 | Ping, but with a graph | https://github.com/orf/gping |
@@ -710,7 +710,7 @@
 | **gumbo-parser-static** | 0.10.1-1 | Static libraries for gumbo-parser | https://github.com/google/gumbo-parser |
 | **gweather-locations** | 2026.2 | The GWeather locations database | https://gitlab.gnome.org/GNOME/gweather-locations |
 | **gzip** | 1.14-1 | Standard GNU file compression utilities | https://www.gnu.org/software/gzip/ |
-| **haproxy** | 3.4.0 | The Reliable, High Performance TCP/HTTP Load Balancer | https://www.haproxy.org/ |
+| **haproxy** | 3.4.1 | The Reliable, High Performance TCP/HTTP Load Balancer | https://www.haproxy.org/ |
 | **harfbuzz** | 14.2.1 | OpenType text shaping engine | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
 | **harfbuzz-icu** | 14.2.1 | OpenType text shaping engine ICU backend | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
 | **harfbuzz-utils** | 14.2.1 | Tools using the harfbuzz library | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
@@ -2448,8 +2448,8 @@
 | **suitesparse** | 2:7.12.2 | A Suite of Sparse matrix packages. | https://github.com/DrTimothyAldenDavis/SuiteSparse |
 | **suitesparse-static** | 2:7.12.2 | Static libraries for suitesparse | https://github.com/DrTimothyAldenDavis/SuiteSparse |
 | **sun** | 1.0.0-3 | A very simple note taking cli app | https://stand-up-notes.org |
-| **sundials** | 2:7.7.0 | SUite of Nonlinear and DIfferential/ALgebraic equation Solvers. | https://computing.llnl.gov/projects/sundials |
-| **sundials-static** | 2:7.7.0 | Static libraries for sundials | https://computing.llnl.gov/projects/sundials |
+| **sundials** | 2:7.8.0 | SUite of Nonlinear and DIfferential/ALgebraic equation Solvers. | https://computing.llnl.gov/projects/sundials |
+| **sundials-static** | 2:7.8.0 | Static libraries for sundials | https://computing.llnl.gov/projects/sundials |
 | **supercollider** | 3.14.1 | A platform for audio synthesis and algorithmic composition | http://supercollider.github.io/ |
 | **surfraw** | 2.3.0-10 | Shell Users' Revolutionary Front Rage Against the Web | https://gitlab.com/surfraw/Surfraw |
 | **svt-av1** | 4.1.0 | Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder) | https://gitlab.com/AOMediaCodec/SVT-AV1 |
@@ -2518,7 +2518,7 @@
 | **testssl.sh** | 3.2.3 | Testing TLS/SSL encryption anywhere on any port. | https://testssl.sh/ |
 | **tex-gyre** | 2.501-2 | The TeX Gyre (TG) Collection of Fonts | https://www.gust.org.pl/projects/e-foundry/tex-gyre/ |
 | **texinfo** | 7.3 | Documentation system for on-line information and printed output | https://www.gnu.org/software/texinfo/ |
-| **texlab** | 5.25.1 | A cross-platform implementation of the Language Server Protocol providing rich cross-editing support for the LaTeX typesetting system | https://texlab.netlify.app/ |
+| **texlab** | 5.26.0 | A cross-platform implementation of the Language Server Protocol providing rich cross-editing support for the LaTeX typesetting system | https://texlab.netlify.app/ |
 | **texlive-bin** | 1:2026.0 | TeX Live is a distribution of the TeX typesetting system. This package contains architecture dependent binaries. | https://www.tug.org/texlive/ |
 | **texlive-bin-static** | 1:2026.0 | Static libraries for texlive-bin | https://www.tug.org/texlive/ |
 | **texlive-installer** | 20260301 | Wrapper around texlive's install-tl script | https://www.tug.org/texlive/ |

@@ -2459,11 +2459,11 @@
   Description: A friendly language for building type-safe, scalable systems!
   Homepage: https://gleam.run
 - Package: glib
-  Version: 2.88.1-1
+  Version: 2.88.2
   Description: Library providing core building blocks for libraries and applications written in C
   Homepage: https://developer.gnome.org/glib/
 - Package: glib-cross
-  Version: 2.88.1-1
+  Version: 2.88.2
   Description: glib for host (NOT for Termux)
   Homepage: https://developer.gnome.org/glib/
 - Package: glib-networking
@@ -2683,11 +2683,11 @@
   Description: A perfect hash function generator
   Homepage: https://www.gnu.org/software/gperf
 - Package: gpgme
-  Version: 2.1.0
+  Version: 2.1.1
   Description: Library designed to make access to GnuPG easier
   Homepage: https://www.gnupg.org/related_software/gpgme/
 - Package: gpgme-static
-  Version: 2.1.0
+  Version: 2.1.1
   Description: Static libraries for gpgme
   Homepage: https://www.gnupg.org/related_software/gpgme/
 - Package: gpgmepp
@@ -2847,7 +2847,7 @@
   Description: Standard GNU file compression utilities
   Homepage: https://www.gnu.org/software/gzip/
 - Package: haproxy
-  Version: 3.4.0
+  Version: 3.4.1
   Description: The Reliable, High Performance TCP/HTTP Load Balancer
   Homepage: https://www.haproxy.org/
 - Package: harfbuzz
@@ -9799,11 +9799,11 @@
   Description: A very simple note taking cli app
   Homepage: https://stand-up-notes.org
 - Package: sundials
-  Version: 2:7.7.0
+  Version: 2:7.8.0
   Description: SUite of Nonlinear and DIfferential/ALgebraic equation Solvers.
   Homepage: https://computing.llnl.gov/projects/sundials
 - Package: sundials-static
-  Version: 2:7.7.0
+  Version: 2:7.8.0
   Description: Static libraries for sundials
   Homepage: https://computing.llnl.gov/projects/sundials
 - Package: supercollider
@@ -10079,7 +10079,7 @@
   Description: Documentation system for on-line information and printed output
   Homepage: https://www.gnu.org/software/texinfo/
 - Package: texlab
-  Version: 5.25.1
+  Version: 5.26.0
   Description: A cross-platform implementation of the Language Server Protocol providing rich cross-editing support for the LaTeX typesetting system
   Homepage: https://texlab.netlify.app/
 - Package: texlive-bin
