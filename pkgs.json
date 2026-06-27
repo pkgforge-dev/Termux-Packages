@@ -6433,7 +6433,7 @@
   },
   {
     "Package": "libgedit-gfls",
-    "Version": "0.4.1",
+    "Version": "0.4.2",
     "Description": "A module dedicated to file loading and saving",
     "Homepage": "https://gitlab.gnome.org/World/gedit/libgedit-gfls"
   },
@@ -7573,13 +7573,13 @@
   },
   {
     "Package": "libnghttp3",
-    "Version": "1.16.0",
+    "Version": "1.17.0",
     "Description": "HTTP/3 library written in C",
     "Homepage": "https://nghttp2.org/nghttp3/"
   },
   {
     "Package": "libnghttp3-static",
-    "Version": "1.16.0",
+    "Version": "1.17.0",
     "Description": "Static libraries for libnghttp3",
     "Homepage": "https://nghttp2.org/nghttp3/"
   },
@@ -11125,7 +11125,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-823+gb9b1992d9d-0",
+    "Version": "0.13.0~dev-834+gd844a276bb-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
