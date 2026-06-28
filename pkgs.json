@@ -577,7 +577,7 @@
   },
   {
     "Package": "at-spi2-core",
-    "Version": "2.60.4",
+    "Version": "2.60.5",
     "Description": "Assistive Technology Service Provider Interface (AT-SPI)",
     "Homepage": "https://wiki.gnome.org/Accessibility"
   },
@@ -3229,7 +3229,7 @@
   },
   {
     "Package": "fresh-editor",
-    "Version": "0.4.1-1",
+    "Version": "0.4.2",
     "Description": "Text editor for your terminal: easy, powerful and fast",
     "Homepage": "https://getfresh.dev/"
   },
@@ -3421,7 +3421,7 @@
   },
   {
     "Package": "gdk-pixbuf",
-    "Version": "2.44.6",
+    "Version": "2.44.7",
     "Description": "Library for image loading and manipulation",
     "Homepage": "https://wiki.gnome.org/Projects/GdkPixbuf"
   },
@@ -4333,7 +4333,7 @@
   },
   {
     "Package": "hello",
-    "Version": "2.12.3",
+    "Version": "2.12.3-1",
     "Description": "Prints a friendly greeting",
     "Homepage": "https://www.gnu.org/software/hello/"
   },
@@ -4999,13 +4999,13 @@
   },
   {
     "Package": "json-c",
-    "Version": "0.18-2",
+    "Version": "0.19",
     "Description": "A JSON implementation in C",
     "Homepage": "https://github.com/json-c/json-c/wiki"
   },
   {
     "Package": "json-c-static",
-    "Version": "0.18-2",
+    "Version": "0.19",
     "Description": "Static libraries for json-c",
     "Homepage": "https://github.com/json-c/json-c/wiki"
   },
@@ -14059,7 +14059,7 @@
   },
   {
     "Package": "shellharden",
-    "Version": "4.3.1-1",
+    "Version": "4.3.2",
     "Description": "The corrective bash syntax highlighter",
     "Homepage": "https://github.com/anordal/shellharden"
   },

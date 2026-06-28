@@ -106,7 +106,7 @@
 | **assimp** | 6.0.5 | Library to import various well-known 3D model formats in an uniform manner | https://assimp.sourceforge.net/index.html |
 | **asymptote** | 3.12 | A powerful descriptive vector graphics language for technical drawing | https://asymptote.sourceforge.io/ |
 | **at** | 3.2.5-2 | AT and batch delayed command scheduling utility and daemon | https://salsa.debian.org/debian/at |
-| **at-spi2-core** | 2.60.4 | Assistive Technology Service Provider Interface (AT-SPI) | https://wiki.gnome.org/Accessibility |
+| **at-spi2-core** | 2.60.5 | Assistive Technology Service Provider Interface (AT-SPI) | https://wiki.gnome.org/Accessibility |
 | **atomicparsley** | 1:20240608.083822.1ed9031-1 | Read, parse and set metadata of MPEG-4 and 3gp files | https://github.com/wez/atomicparsley |
 | **atomvm** | 1:0.6.6-1 | The minimal Erlang VM implementation | https://github.com/bettio/AtomVM |
 | **atool** | 0.39.0-2 | tool for managing file archives of various types | https://www.nongnu.org/atool |
@@ -548,7 +548,7 @@
 | **freetype** | 2.14.3 | Software font engine capable of producing high-quality output | https://www.freetype.org |
 | **freetype-static** | 2.14.3 | Static libraries for freetype | https://www.freetype.org |
 | **frei0r-plugins** | 3.2.1 | Minimalistic plugin API for video effects | https://www.dyne.org/software/frei0r/ |
-| **fresh-editor** | 0.4.1-1 | Text editor for your terminal: easy, powerful and fast | https://getfresh.dev/ |
+| **fresh-editor** | 0.4.2 | Text editor for your terminal: easy, powerful and fast | https://getfresh.dev/ |
 | **fribidi** | 1.0.16-1 | Implementation of the Unicode Bidirectional Algorithm | https://github.com/fribidi/fribidi/ |
 | **fribidi-static** | 1.0.16-1 | Static libraries for fribidi | https://github.com/fribidi/fribidi/ |
 | **frobtads** | 2.0-5 | TADS is a free authoring system for writing your own Interactive Fiction | http://www.tads.org/frobtads.htm |
@@ -580,7 +580,7 @@
 | **gdbm** | 1.26-1 | Library of database functions that use extensible hashing | https://www.gnu.org.ua/software/gdbm/ |
 | **gdbm-static** | 1.26-1 | Static libraries for gdbm | https://www.gnu.org.ua/software/gdbm/ |
 | **gdbserver** | 16.3-3 | The gdbserver program | https://www.gnu.org/software/gdb/ |
-| **gdk-pixbuf** | 2.44.6 | Library for image loading and manipulation | https://wiki.gnome.org/Projects/GdkPixbuf |
+| **gdk-pixbuf** | 2.44.7 | Library for image loading and manipulation | https://wiki.gnome.org/Projects/GdkPixbuf |
 | **gdu** | 5.36.1 | Fast disk usage analyzer with console interface written in Go | https://github.com/dundee/gdu |
 | **geckodriver** | 0.37.0 | Proxy for using W3C WebDriver-compatible clients to interact with Gecko-based browsers | https://github.com/mozilla/geckodriver |
 | **gecode** | 6.2.0-1 | Generic Constraint Development Environment | https://github.com/Gecode/gecode |
@@ -732,7 +732,7 @@
 | **hcloud** | 1.66.0 | Hetzner Cloud command line client | https://github.com/hetznercloud/cli |
 | **helix** | 25.07.1-2 | A post-modern modal text editor written in rust | https://helix-editor.com/ |
 | **helix-grammars** | 25.07.1-2 | Helix grammars | https://helix-editor.com/ |
-| **hello** | 2.12.3 | Prints a friendly greeting | https://www.gnu.org/software/hello/ |
+| **hello** | 2.12.3-1 | Prints a friendly greeting | https://www.gnu.org/software/hello/ |
 | **helm** | 4.2.2 | Helm helps you manage Kubernetes applications | https://helm.sh |
 | **helm-ls** | 0.5.4 | Language server for Helm | https://github.com/mrjosh/helm-ls |
 | **help2man** | 1.49.3 | Conversion tool to create man files | https://www.gnu.org/software/help2man/ |
@@ -843,8 +843,8 @@
 | **jq-lsp** | 0.1.17 | jq language server | https://github.com/wader/jq-lsp |
 | **jq-static** | 1.8.2 | Static libraries for jq | https://jqlang.org/ |
 | **jql** | 8.1.2 | A JSON Query Language CLI tool | https://github.com/yamafaktory/jql |
-| **json-c** | 0.18-2 | A JSON implementation in C | https://github.com/json-c/json-c/wiki |
-| **json-c-static** | 0.18-2 | Static libraries for json-c | https://github.com/json-c/json-c/wiki |
+| **json-c** | 0.19 | A JSON implementation in C | https://github.com/json-c/json-c/wiki |
+| **json-c-static** | 0.19 | Static libraries for json-c | https://github.com/json-c/json-c/wiki |
 | **json-glib** | 1.10.8 | GLib JSON manipulation library | https://wiki.gnome.org/Projects/JsonGlib |
 | **jsoncpp** | 1.9.8 | C++ library for interacting with JSON | https://github.com/open-source-parsers/jsoncpp |
 | **jsoncpp-static** | 1.9.8 | Static libraries for jsoncpp | https://github.com/open-source-parsers/jsoncpp |
@@ -2353,7 +2353,7 @@
 | **sheldon** | 0.8.5-1 | Fast, configurable, shell plugin manager | https://sheldon.cli.rs/ |
 | **shell2http** | 1.17.0-1 | Executing shell commands via HTTP server | https://github.com/msoap/shell2http |
 | **shellcheck** | 0.11.0 | Shell script analysis tool | https://www.shellcheck.net/ |
-| **shellharden** | 4.3.1-1 | The corrective bash syntax highlighter | https://github.com/anordal/shellharden |
+| **shellharden** | 4.3.2 | The corrective bash syntax highlighter | https://github.com/anordal/shellharden |
 | **shellinabox** | 2.21-1 | Implementation of a web server that can export arbitrary command line tools to a web based terminal emulator | https://github.com/shellinabox/shellinabox |
 | **shfmt** | 3.13.1 | A shell parser and formatter | https://github.com/mvdan/sh |
 | **shiori** | 1.8.0 | Simple bookmark manager built with Go | https://github.com/go-shiori/shiori |
