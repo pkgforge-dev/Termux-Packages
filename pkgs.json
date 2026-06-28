@@ -1645,7 +1645,7 @@
   },
   {
     "Package": "command-not-found",
-    "Version": "3.4.1-15",
+    "Version": "3.4.1-16",
     "Description": "Suggest installation of packages in interactive shell sessions",
     "Homepage": "https://github.com/termux/command-not-found"
   },
@@ -2863,7 +2863,7 @@
   },
   {
     "Package": "fastfetch",
-    "Version": "2.65.1",
+    "Version": "2.65.2",
     "Description": "A maintained, feature-rich and performance oriented, neofetch like system information tool",
     "Homepage": "https://github.com/fastfetch-cli/fastfetch"
   },
@@ -3265,7 +3265,7 @@
   },
   {
     "Package": "fselect",
-    "Version": "0.10.1",
+    "Version": "0.10.2",
     "Description": "Find files with SQL-like queries",
     "Homepage": "https://fselect.rocks/"
   },
@@ -4657,13 +4657,13 @@
   },
   {
     "Package": "imagemagick",
-    "Version": "7.1.2.25",
+    "Version": "7.1.2.26",
     "Description": "Suite to create, edit, compose, or convert images in a variety of formats",
     "Homepage": "https://www.imagemagick.org/"
   },
   {
     "Package": "imagemagick-static",
-    "Version": "7.1.2.25",
+    "Version": "7.1.2.26",
     "Description": "Static libraries for imagemagick",
     "Homepage": "https://www.imagemagick.org/"
   },
@@ -7585,13 +7585,13 @@
   },
   {
     "Package": "libngtcp2",
-    "Version": "1.23.0",
+    "Version": "1.24.0",
     "Description": "Implementation of IETF QUIC protocol",
     "Homepage": "https://github.com/ngtcp2/ngtcp2"
   },
   {
     "Package": "libngtcp2-static",
-    "Version": "1.23.0",
+    "Version": "1.24.0",
     "Description": "Static libraries for libngtcp2",
     "Homepage": "https://github.com/ngtcp2/ngtcp2"
   },
@@ -10411,7 +10411,7 @@
   },
   {
     "Package": "mediamtx",
-    "Version": "1.19.1",
+    "Version": "1.19.2",
     "Description": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy",
     "Homepage": "https://github.com/bluenviron/mediamtx"
   },
@@ -11125,7 +11125,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-834+gd844a276bb-0",
+    "Version": "0.13.0~dev-844+ga5aa62e37b-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -12421,7 +12421,7 @@
   },
   {
     "Package": "pocketbase",
-    "Version": "0.39.4",
+    "Version": "0.39.5",
     "Description": "An open source Go backend",
     "Homepage": "https://github.com/pocketbase/pocketbase"
   },
@@ -13855,7 +13855,7 @@
   },
   {
     "Package": "sbcl",
-    "Version": "2.6.5",
+    "Version": "2.6.6",
     "Description": "A high performance Common Lisp compiler",
     "Homepage": "http://www.sbcl.org/"
   },
@@ -16165,7 +16165,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "2026.05.30",
+    "Version": "2026.06.28",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://github.com/directvt/vtm"
   },
