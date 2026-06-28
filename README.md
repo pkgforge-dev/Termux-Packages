@@ -2428,7 +2428,7 @@
 | **sssnake** | 0.3.2-2 | cli snake game that plays itself | https://github.com/AngelJumbo/sssnake |
 | **ssss** | 0.5.7-1 | Simple command-line implementation of Shamir's Secret Sharing Scheme | https://github.com/MrJoy/ssss |
 | **stag** | 1.0.0-2 | Streaming bar graphs. For stats and stuff. | https://github.com/seenaburns/stag |
-| **starship** | 1.25.1 | A minimal, blazing fast, and extremely customizable prompt for any shell | https://starship.rs |
+| **starship** | 1.26.0 | A minimal, blazing fast, and extremely customizable prompt for any shell | https://starship.rs |
 | **stb** | 0.0.0+g31c1ad37 | Single-file public domain (or MIT licensed) libraries for C/C++ | https://github.com/nothings/stb |
 | **stdman** | 2024.07.05 | Formatted C++23 stdlib man pages (cppreference) | https://github.com/jeaye/stdman |
 | **stdoutisatty** | 1.0-1 | Patch the isatty() calls for colored output in pipeline | https://github.com/lilydjwg/stdoutisatty |
@@ -2572,7 +2572,7 @@
 | **translate-shell** | 0.9.7.1-1 | Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc. | https://www.soimort.org/translate-shell |
 | **transmission** | 4.1.2 | Easy, lean and powerful BitTorrent client | https://transmissionbt.com/ |
 | **tree** | 2.3.2 | Recursive directory lister producing a depth indented listing of files | http://mama.indstate.edu/users/ice/tree/ |
-| **tree-sitter** | 0.26.9 | An incremental parsing system for programming tools | https://tree-sitter.github.io/ |
+| **tree-sitter** | 0.26.10 | An incremental parsing system for programming tools | https://tree-sitter.github.io/ |
 | **tree-sitter-bash** | 0.25.1-1 | Bash grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-bash |
 | **tree-sitter-c** | 0.24.2 | C grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-c |
 | **tree-sitter-css** | 0.25.0-1 | CSS grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-css |
