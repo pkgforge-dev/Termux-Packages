@@ -2509,7 +2509,7 @@
   },
   {
     "Package": "dua",
-    "Version": "2.37.0",
+    "Version": "2.37.1",
     "Description": "View disk space usage and delete unwanted data, fast",
     "Homepage": "https://github.com/Byron/dua-cli"
   },
@@ -3109,7 +3109,7 @@
   },
   {
     "Package": "flint",
-    "Version": "3.5.0",
+    "Version": "3.6.0",
     "Description": "C library for doing number theory",
     "Homepage": "http://www.flintlib.org"
   },
@@ -4477,19 +4477,19 @@
   },
   {
     "Package": "httrack",
-    "Version": "3.49.9",
+    "Version": "3.49.10",
     "Description": "It allows you to download a World Wide Web site from the Internet",
     "Homepage": "http://www.httrack.com"
   },
   {
     "Package": "httrack-data",
-    "Version": "3.49.9",
+    "Version": "3.49.10",
     "Description": "Platform-independent data for httrack",
     "Homepage": "http://www.httrack.com"
   },
   {
     "Package": "httrack-static",
-    "Version": "3.49.9",
+    "Version": "3.49.10",
     "Description": "Static libraries for httrack",
     "Homepage": "http://www.httrack.com"
   },
@@ -7735,7 +7735,7 @@
   },
   {
     "Package": "libopencc",
-    "Version": "1.3.1",
+    "Version": "1.3.2",
     "Description": "An opensource project for conversions between Traditional Chinese, Simplified Chinese and Japanese Kanji (Shinjitai)",
     "Homepage": "https://github.com/BYVoid/OpenCC"
   },
@@ -10027,7 +10027,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.33.8",
+    "Version": "0.34.0",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://lux.lumen-labs.org"
   },
@@ -11581,7 +11581,7 @@
   },
   {
     "Package": "opencc-tools",
-    "Version": "1.3.1",
+    "Version": "1.3.2",
     "Description": "Command-line tools for OpenCC",
     "Homepage": "https://github.com/BYVoid/OpenCC"
   },
@@ -12925,7 +12925,7 @@
   },
   {
     "Package": "python-sabyenc3",
-    "Version": "9.5.0",
+    "Version": "9.5.1",
     "Description": "C implementations of functions for use within SABnzbd",
     "Homepage": "https://github.com/sabnzbd/sabctools"
   },
@@ -13933,13 +13933,13 @@
   },
   {
     "Package": "seafile-client",
-    "Version": "9.0.19",
+    "Version": "9.0.20",
     "Description": "Seafile is a file syncing and sharing software with file encryption and group sharing",
     "Homepage": "https://seafile.com"
   },
   {
     "Package": "seafile-client-static",
-    "Version": "9.0.19",
+    "Version": "9.0.20",
     "Description": "Static libraries for seafile-client",
     "Homepage": "https://seafile.com"
   },
