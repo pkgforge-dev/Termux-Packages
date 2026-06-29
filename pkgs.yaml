@@ -7559,7 +7559,7 @@
   Description: Thread-based email index, search and tagging system
   Homepage: https://notmuchmail.org
 - Package: npm
-  Version: 11.17.0
+  Version: 11.18.0
   Description: The package manager for JavaScript
   Homepage: https://docs.npmjs.com/cli/
 - Package: npush
@@ -7979,11 +7979,11 @@
   Description: GNU Parallel is a shell tool for executing jobs in parallel using one or more machines
   Homepage: https://www.gnu.org/software/parallel/
 - Package: pari
-  Version: 2.17.3
+  Version: 2.17.4
   Description: A computer algebra system designed for fast computations in number theory
   Homepage: https://pari.math.u-bordeaux.fr/
 - Package: pari-static
-  Version: 2.17.3
+  Version: 2.17.4
   Description: Static libraries for pari
   Homepage: https://pari.math.u-bordeaux.fr/
 - Package: parted
@@ -9027,7 +9027,7 @@
   Description: A terminal IRC client in C
   Homepage: https://github.com/rcr/rirc
 - Package: rizin
-  Version: 0.9.0
+  Version: 0.9.1
   Description: UNIX-like reverse engineering framework and command-line toolset.
   Homepage: https://rizin.re
 - Package: rlwrap
@@ -9739,11 +9739,11 @@
   Description: Records and splits streaming mp3 into tracks
   Homepage: https://streamripper.sourceforge.net/
 - Package: stunnel
-  Version: "5.78"
+  Version: "5.79"
   Description: Socket wrapper which can provide TLS support to ordinary applications
   Homepage: https://www.stunnel.org/
 - Package: stunnel-static
-  Version: "5.78"
+  Version: "5.79"
   Description: Static libraries for stunnel
   Homepage: https://www.stunnel.org/
 - Package: stuntman
@@ -9959,7 +9959,7 @@
   Description: Telegram Bot API server
   Homepage: https://github.com/tdlib/telegram-bot-api
 - Package: teleport-tsh
-  Version: 18.9.1
+  Version: 18.9.2
   Description: Secure Access for Developers that doesnt get in the way
   Homepage: https://github.com/gravitational/teleport
 - Package: tere
