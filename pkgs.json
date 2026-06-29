@@ -9241,13 +9241,13 @@
   },
   {
     "Package": "libx11",
-    "Version": "1.8.13",
+    "Version": "1.8.13-1",
     "Description": "X11 client-side library",
     "Homepage": "https://xorg.freedesktop.org/"
   },
   {
     "Package": "libx11-static",
-    "Version": "1.8.13",
+    "Version": "1.8.13-1",
     "Description": "Static libraries for libx11",
     "Homepage": "https://xorg.freedesktop.org/"
   },
@@ -12889,7 +12889,7 @@
   },
   {
     "Package": "python-psutil",
-    "Version": "7.2.2",
+    "Version": "7.2.2-1",
     "Description": "Cross-platform process and system utilities module for Python",
     "Homepage": "https://github.com/giampaolo/psutil"
   },
@@ -12994,6 +12994,12 @@
     "Version": "0.27.0",
     "Description": "Datasets, Transforms and Models specific to Computer Vision",
     "Homepage": "https://github.com/pytorch/vision"
+  },
+  {
+    "Package": "python-trash-cli",
+    "Version": "0.24.5.26",
+    "Description": "Command line trashcan (recycle bin) interface",
+    "Homepage": "https://github.com/andreafrancia/trash-cli"
   },
   {
     "Package": "python-xcbgen",
@@ -16255,7 +16261,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "2.21.2",
+    "Version": "2.21.3",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },
