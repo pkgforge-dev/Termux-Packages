@@ -1753,7 +1753,7 @@
   },
   {
     "Package": "croc",
-    "Version": "1:10.4.4",
+    "Version": "1:10.4.5",
     "Description": "Easily and securely send things from one computer to another",
     "Homepage": "https://github.com/schollz/croc"
   },
@@ -3121,7 +3121,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.4.61",
+    "Version": "0.4.62",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -5041,7 +5041,7 @@
   },
   {
     "Package": "just",
-    "Version": "1.54.0",
+    "Version": "1.55.0",
     "Description": "A handy way to save and run project-specific commands",
     "Homepage": "https://just.systems"
   },
@@ -11887,13 +11887,13 @@
   },
   {
     "Package": "oxfmt",
-    "Version": "1.71.0",
+    "Version": "1.72.0",
     "Description": "Oxc JavaScript formatter",
     "Homepage": "https://oxc.rs/"
   },
   {
     "Package": "oxlint",
-    "Version": "1.71.0",
+    "Version": "1.72.0",
     "Description": "Oxc JavaScript linter",
     "Homepage": "https://oxc.rs/"
   },
@@ -16099,7 +16099,7 @@
   },
   {
     "Package": "vim",
-    "Version": "9.2.0700",
+    "Version": "9.2.0750",
     "Description": "Vi IMproved - enhanced vi editor",
     "Homepage": "https://www.vim.org"
   },
@@ -16663,7 +16663,7 @@
   },
   {
     "Package": "xxd",
-    "Version": "9.2.0700",
+    "Version": "9.2.0750",
     "Description": "Hexdump utility from vim",
     "Homepage": "https://www.vim.org"
   },
