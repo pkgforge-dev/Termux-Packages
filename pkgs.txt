@@ -613,8 +613,8 @@
  gkermit  2.01-1  Simple, Portable, Free File Transfer Software for UNIX  http://www.columbia.edu/kermit/gkermit.html 
  glab-cli  1.105.0  A GitLab CLI tool bringing GitLab to your command line  https://gitlab.com/gitlab-org/cli 
  gleam  1.17.0  A friendly language for building type-safe, scalable systems!  https://gleam.run 
- glib  2.88.2  Library providing core building blocks for libraries and applications written in C  https://developer.gnome.org/glib/ 
- glib-cross  2.88.2  glib for host (NOT for Termux)  https://developer.gnome.org/glib/ 
+ glib  2.88.2-1  Library providing core building blocks for libraries and applications written in C  https://developer.gnome.org/glib/ 
+ glib-cross  2.88.2-1  glib for host (NOT for Termux)  https://developer.gnome.org/glib/ 
  glib-networking  2.80.1-2  Network-related giomodules for glib  https://gitlab.gnome.org/GNOME/glib-networking 
  glibc-repo  1.0  A package repository containing glibc-based programs and libraries  https://github.com/termux/glibc-packages 
  glm  1.0.3  C++ mathematics library for graphics programming  https://glm.g-truc.net/ 
@@ -1425,8 +1425,8 @@
  libsqlite-tcl  3.53.3  tcl bindings for SQLite  https://www.sqlite.org 
  libsrt  1.5.5  Secure Reliable Transport (SRT) Protocol  https://github.com/Haivision/srt 
  libssh  0.12.0-1  Tiny C SSH library  https://www.libssh.org/ 
- libssh2  1.11.1-1  Client-side library implementing the SSH2 protocol  https://www.libssh2.org 
- libssh2-static  1.11.1-1  Static libraries for libssh2  https://www.libssh2.org 
+ libssh2  1.11.1-2  Client-side library implementing the SSH2 protocol  https://www.libssh2.org 
+ libssh2-static  1.11.1-2  Static libraries for libssh2  https://www.libssh2.org 
  libstemmer  3.0.1  Snowball compiler and stemming algorithms  https://snowballstem.org/ 
  libstemmer-static  3.0.1  Static libraries for libstemmer  https://snowballstem.org/ 
  libstrophe  0.14.0-2  libstrophe is a minimal XMPP library written in C  https://strophe.im/libstrophe 
@@ -2430,7 +2430,7 @@
  stoken  0.93-3  Software Token for Linux/UNIX  https://github.com/cernekee/stoken 
  stoken-static  0.93-3  Static libraries for stoken  https://github.com/cernekee/stoken 
  stone  2.4-3  A TCP/IP repeater in the application layer  https://www.gcd.org/sengoku/stone/ 
- storj-uplink  1.157.6  Storj DCS Uplink CLI  https://www.storj.io/integrations/uplink-cli 
+ storj-uplink  1.158.2  Storj DCS Uplink CLI  https://www.storj.io/integrations/uplink-cli 
  stow  2.4.1  Tool for managing the installation of multiple software packages into a single directory  https://www.gnu.org/software/stow/ 
  strace  7.1  Debugging utility to monitor system calls and signals received  https://strace.io/ 
  streamripper  1.64.6-3  Records and splits streaming mp3 into tracks  https://streamripper.sourceforge.net/ 
@@ -2559,7 +2559,7 @@
  tracepath  20250605-1  Tool to trace the network path to a remote host  https://github.com/iputils/iputils 
  traceroute  2.1.6-1  A new modern implementation of traceroute(8) utility for Linux systems  https://traceroute.sourceforge.net/ 
  translate-shell  0.9.7.1-1  Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.  https://www.soimort.org/translate-shell 
- transmission  4.1.2  Easy, lean and powerful BitTorrent client  https://transmissionbt.com/ 
+ transmission  4.1.3  Easy, lean and powerful BitTorrent client  https://transmissionbt.com/ 
  tree  2.3.2  Recursive directory lister producing a depth indented listing of files  http://mama.indstate.edu/users/ice/tree/ 
  tree-sitter  0.26.10  An incremental parsing system for programming tools  https://tree-sitter.github.io/ 
  tree-sitter-bash  0.25.1-1  Bash grammar for tree-sitter  https://github.com/tree-sitter/tree-sitter-bash 
@@ -2749,7 +2749,7 @@
  wordgrinder  0.8-1  A Unicode-aware character cell word processor  http://cowlark.com/wordgrinder/ 
  wren  0.4.0-2  Small, fast, class-based concurrent scripting language interpreter  https://wren.io/ 
  wrk  4.2.0-1  Modern HTTP benchmarking tool  https://github.com/wg/wrk 
- wtfutil  0.49.1  The personal information dashboard for your terminal  https://wtfutil.com/ 
+ wtfutil  0.50.0  The personal information dashboard for your terminal  https://wtfutil.com/ 
  wuzz  0.5.0-5  Interactive command line tool for HTTP inspection  https://github.com/asciimoo/wuzz 
  wv-tools  1.2.9-6  Command-line tools for libwv  https://wvware.sourceforge.net/ 
  x11-repo  8.4-1  Package repository containing X11 programs and libraries  https://github.com/termux/x11-packages 
