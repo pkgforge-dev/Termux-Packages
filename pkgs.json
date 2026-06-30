@@ -691,7 +691,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.35.11",
+    "Version": "2.35.12",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -5041,7 +5041,7 @@
   },
   {
     "Package": "just",
-    "Version": "1.55.0",
+    "Version": "1.55.1",
     "Description": "A handy way to save and run project-specific commands",
     "Homepage": "https://just.systems"
   },
@@ -11125,7 +11125,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-853+g7945732ed7-0",
+    "Version": "0.13.0~dev-868+gaa3823cca3-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -11503,7 +11503,7 @@
   },
   {
     "Package": "oma",
-    "Version": "1.26.5",
+    "Version": "1.26.6",
     "Description": "oma is an attempt at reworking APTs interface",
     "Homepage": "https://aosc.io/oma"
   },
@@ -13273,7 +13273,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "5.23.1",
+    "Version": "5.23.2",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -13411,13 +13411,13 @@
   },
   {
     "Package": "recoll",
-    "Version": "1.43.17-1",
+    "Version": "1.44.0",
     "Description": "Full-text search for your desktop",
     "Homepage": "https://www.recoll.org/"
   },
   {
     "Package": "recoll-python",
-    "Version": "1.43.17-1",
+    "Version": "1.44.0",
     "Description": "Python interface for Recoll",
     "Homepage": "https://www.recoll.org/"
   },
@@ -13483,7 +13483,7 @@
   },
   {
     "Package": "restish",
-    "Version": "2.2.0",
+    "Version": "2.3.0",
     "Description": "A CLI for interacting with REST-ish HTTP APIs",
     "Homepage": "https://github.com/rest-sh/restish"
   },
