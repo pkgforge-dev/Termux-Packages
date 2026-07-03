@@ -6043,11 +6043,11 @@
   Description: Static libraries for libvisio
   Homepage: https://wiki.documentfoundation.org/DLP/Libraries/libvisio
 - Package: libvmaf
-  Version: 3.2.0
+  Version: 3.2.0-1
   Description: A perceptual video quality assessment algorithm developed by Netflix
   Homepage: https://github.com/Netflix/vmaf
 - Package: libvmaf-static
-  Version: 3.2.0
+  Version: 3.2.0-1
   Description: Static libraries for libvmaf
   Homepage: https://github.com/Netflix/vmaf
 - Package: libvo-amrwbenc
@@ -6951,7 +6951,7 @@
   Description: Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage
   Homepage: https://xff.cz/megatools/
 - Package: memcached
-  Version: 1.6.42
+  Version: 1.6.43
   Description: Free & open source, high-performance, distributed memory object caching system
   Homepage: https://memcached.org/
 - Package: mercury
@@ -8615,7 +8615,7 @@
   Description: An extremely fast Python linter, written in Rust (Python bindings)
   Homepage: https://github.com/charliermarsh/ruff
 - Package: python-sabyenc3
-  Version: 9.5.1-1
+  Version: 9.6.0
   Description: C implementations of functions for use within SABnzbd
   Homepage: https://github.com/sabnzbd/sabctools
 - Package: python-scipy
