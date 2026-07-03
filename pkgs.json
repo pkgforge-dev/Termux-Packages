@@ -4273,7 +4273,7 @@
   },
   {
     "Package": "haproxy",
-    "Version": "3.4.1",
+    "Version": "3.4.2",
     "Description": "The Reliable, High Performance TCP/HTTP Load Balancer",
     "Homepage": "https://www.haproxy.org/"
   },
@@ -8713,19 +8713,19 @@
   },
   {
     "Package": "libtiff",
-    "Version": "4.7.1",
+    "Version": "4.7.2",
     "Description": "Support for the Tag Image File Format (TIFF) for storing image data",
     "Homepage": "http://www.simplesystems.org/libtiff/"
   },
   {
     "Package": "libtiff-static",
-    "Version": "4.7.1",
+    "Version": "4.7.2",
     "Description": "Static libraries for libtiff",
     "Homepage": "http://www.simplesystems.org/libtiff/"
   },
   {
     "Package": "libtiff-utils",
-    "Version": "4.7.1",
+    "Version": "4.7.2",
     "Description": "Tools for working with tiff files",
     "Homepage": "http://www.simplesystems.org/libtiff/"
   },
@@ -8803,7 +8803,7 @@
   },
   {
     "Package": "libtorrent",
-    "Version": "0.16.15",
+    "Version": "0.16.16",
     "Description": "Libtorrent BitTorrent library",
     "Homepage": "https://github.com/rakshasa/rtorrent/wiki"
   },
@@ -8815,7 +8815,7 @@
   },
   {
     "Package": "libtorrent-static",
-    "Version": "0.16.15",
+    "Version": "0.16.16",
     "Description": "Static libraries for libtorrent",
     "Homepage": "https://github.com/rakshasa/rtorrent/wiki"
   },
@@ -13645,7 +13645,7 @@
   },
   {
     "Package": "rtorrent",
-    "Version": "0.16.15",
+    "Version": "0.16.16",
     "Description": "Ncurses BitTorrent client based on libTorrent",
     "Homepage": "https://rakshasa.github.io/rtorrent/"
   },
@@ -16213,7 +16213,7 @@
   },
   {
     "Package": "vulkan-loader-generic",
-    "Version": "1.4.355",
+    "Version": "1.4.356",
     "Description": "Vulkan Loader",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Loader"
   },
@@ -16225,7 +16225,7 @@
   },
   {
     "Package": "vulkan-utility-libraries",
-    "Version": "1.4.355",
+    "Version": "1.4.356",
     "Description": "Utility Libraries for Vulkan",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Utility-Libraries"
   },
