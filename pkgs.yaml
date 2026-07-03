@@ -7,7 +7,7 @@
   Description: Console version of the game 2048 for GNU/Linux
   Homepage: https://github.com/mevdschee/2048.c
 - Package: 2ping
-  Version: 4.6.1
+  Version: 4.6.1-1
   Description: A bi-directional ping utility
   Homepage: https://www.finnie.org/software/2ping/
 - Package: 6tunnel
@@ -35,13 +35,13 @@
   Description: Static libraries for aalib
   Homepage: https://sourceforge.net/projects/aa-project/
 - Package: aapt
-  Version: 13.0.0.6-23
+  Version: 16.0.0.4
   Description: Android Asset Packaging Tool
-  Homepage: https://elinux.org/Android_aapt
+  Homepage: https://github.com/termux/android-build-tools
 - Package: aapt2
-  Version: 13.0.0.6-23
+  Version: 16.0.0.4
   Description: AAPT2 (Android Asset Packaging Tool)
-  Homepage: https://elinux.org/Android_aapt
+  Homepage: https://github.com/termux/android-build-tools
 - Package: abduco
   Version: 0.6-4
   Description: Clean and simple terminal session manager
@@ -99,15 +99,15 @@
   Description: A powerful chatgpt cli
   Homepage: https://github.com/sigoden/aichat
 - Package: aidl
-  Version: 13.0.0.6-23
+  Version: 16.0.0.4
   Description: Android Interface Definition Language (AIDL)
-  Homepage: https://elinux.org/Android_aapt
+  Homepage: https://github.com/termux/android-build-tools
 - Package: alass
   Version: 2.0.0-4
   Description: Automatic Language-Agnostic Subtitle Synchronization
   Homepage: https://github.com/kaegi/alass
 - Package: alembic
-  Version: 1.8.11
+  Version: 1.8.12
   Description: A framework for sharing scene data that includes a C++ lib, a file format and client plugin
   Homepage: https://alembic.io
 - Package: algernon
@@ -295,7 +295,7 @@
   Description: List ASCII idiomatic names and octal/decimal code-point forms
   Homepage: http://www.catb.org/~esr/ascii/
 - Package: asciidoc
-  Version: 10.2.1-2
+  Version: 10.2.1-3
   Description: Text document format for short documents, articles, books and UNIX man pages.
   Homepage: https://asciidoc.org
 - Package: asciidoctor
@@ -383,7 +383,7 @@
   Description: AT and batch delayed command scheduling utility and daemon
   Homepage: https://salsa.debian.org/debian/at
 - Package: at-spi2-core
-  Version: 2.60.5
+  Version: 2.60.5-1
   Description: Assistive Technology Service Provider Interface (AT-SPI)
   Homepage: https://wiki.gnome.org/Accessibility
 - Package: atomicparsley
@@ -455,11 +455,11 @@
   Description: Assember for the Atmel AVR microcontroller family
   Homepage: https://github.com/Ro5bert/avra
 - Package: await
-  Version: 2.6.0
+  Version: 2.7.0
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.35.12
+  Version: 2.35.15
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -567,7 +567,7 @@
   Description: An Binwalk firmware analysis tool.
   Homepage: https://github.com/ReFirmLabs/binwalk
 - Package: biome2
-  Version: 2.5.1
+  Version: 2.5.2
   Description: A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP
   Homepage: https://biomejs.dev/
 - Package: bison
@@ -615,7 +615,7 @@
   Description: A blog compiler
   Homepage: https://blogc.rgm.io/
 - Package: blueprint-compiler
-  Version: 0.20.4
+  Version: 0.20.4-1
   Description: Markup language for GTK user interfaces
   Homepage: https://gnome.pages.gitlab.gnome.org/blueprint-compiler/
 - Package: bmon
@@ -635,15 +635,15 @@
   Description: A non-web client for the terminal, supporting Gopher, Gemini and much more
   Homepage: https://bombadillo.colorfield.space/
 - Package: boost
-  Version: 1:1.90.0-1
+  Version: 1:1.90.0-2
   Description: Free peer-reviewed portable C++ source libraries
   Homepage: https://boost.org
 - Package: boost-headers
-  Version: 1:1.90.0-1
+  Version: 1:1.90.0-2
   Description: Boost header files
   Homepage: https://boost.org
 - Package: boost-static
-  Version: 1:1.90.0-1
+  Version: 1:1.90.0-2
   Description: Static libraries for boost
   Homepage: https://boost.org
 - Package: bore
@@ -651,7 +651,7 @@
   Description: Bore is a simple CLI tool for making tunnels to localhost
   Homepage: https://github.com/ekzhang/bore
 - Package: borgbackup
-  Version: 1.4.4-1
+  Version: 1.4.4-2
   Description: Deduplicating and compressing backup program
   Homepage: https://www.borgbackup.org/
 - Package: botan3
@@ -803,7 +803,7 @@
   Description: Static libraries for capstone
   Homepage: https://www.capstone-engine.org/
 - Package: carapace
-  Version: 1.7.1
+  Version: 1.7.3
   Description: Multi-shell multi-command argument completer
   Homepage: https://carapace.sh/
 - Package: cargo-binstall
@@ -975,15 +975,15 @@
   Description: A combined network and serial communication software package
   Homepage: https://www.kermitproject.org/ckermit.html
 - Package: clamav
-  Version: 1.5.2
+  Version: 1.5.3
   Description: Anti-virus toolkit for Unix
   Homepage: https://www.clamav.net/
 - Package: clamav-static
-  Version: 1.5.2
+  Version: 1.5.3
   Description: Static libraries for clamav
   Homepage: https://www.clamav.net/
 - Package: clang
-  Version: 21.1.8-2
+  Version: 21.1.8-3
   Description: C language frontend for LLVM
   Homepage: https://clang.llvm.org/
 - Package: clblast
@@ -1095,11 +1095,11 @@
   Description: Tool to colorize diff output
   Homepage: https://www.colordiff.org/
 - Package: command-not-found
-  Version: 3.4.1-16
+  Version: 3.4.1-17
   Description: Suggest installation of packages in interactive shell sessions
   Homepage: https://github.com/termux/command-not-found
 - Package: composer
-  Version: 2.10.1
+  Version: 2.10.2
   Description: Dependency Manager for PHP
   Homepage: https://getcomposer.org/
 - Package: console-bridge
@@ -1167,7 +1167,7 @@
   Description: Roguelike adventure through dungeons filled with dangerous monsters
   Homepage: https://crawl.develz.org/
 - Package: croc
-  Version: 1:10.4.5
+  Version: 1:10.4.6
   Description: Easily and securely send things from one computer to another
   Homepage: https://github.com/schollz/croc
 - Package: cronie
@@ -1299,7 +1299,7 @@
   Description: Freedesktop.org message bus system
   Homepage: https://dbus.freedesktop.org
 - Package: dbus-python
-  Version: 1.4.0-2
+  Version: 1.4.0-3
   Description: Python bindings for D-Bus
   Homepage: https://dbus.freedesktop.org/doc/dbus-python/
 - Package: dcmtk
@@ -1327,7 +1327,7 @@
   Description: A debugger for the Go programming language
   Homepage: https://github.com/go-delve/delve
 - Package: deno
-  Version: 1:2.9.0
+  Version: 1:2.9.1
   Description: A modern runtime for JavaScript and TypeScript
   Homepage: https://deno.land/
 - Package: desed
@@ -1763,7 +1763,7 @@
   Description: Static libraries for electric-fence
   Homepage: https://elinux.org/Electric_Fence
 - Package: electrum
-  Version: 4.7.1
+  Version: 4.7.1-1
   Description: Electrum is a lightweight Bitcoin wallet
   Homepage: https://electrum.org
 - Package: elfutils
@@ -1815,11 +1815,11 @@
   Description: A tool for compositing images using a Burt&Adelson multiresolution spline
   Homepage: https://enblend.sourceforge.net/
 - Package: enchant
-  Version: 2.8.16
+  Version: 2.8.17
   Description: Wraps a number of different spelling libraries and programs with a consistent interface
   Homepage: https://rrthomas.github.io/enchant/
 - Package: enchant-static
-  Version: 2.8.16
+  Version: 2.8.17
   Description: Static libraries for enchant
   Homepage: https://rrthomas.github.io/enchant/
 - Package: enscript
@@ -1831,11 +1831,11 @@
   Description: Event Notify Test Runner - run arbitrary commands when files change
   Homepage: https://eradman.com/entrproject/
 - Package: erlang
-  Version: 29.0.2
+  Version: 29.0.3
   Description: General-purpose concurrent functional programming language
   Homepage: https://www.erlang.org/
 - Package: erlang-doc
-  Version: 29.0.2
+  Version: 29.0.3
   Description: Erlang HTML documentation
   Homepage: https://www.erlang.org/
 - Package: esbuild
@@ -1919,15 +1919,15 @@
   Description: A C utility that sorts FAT12, FAT16, FAT32 and exFAT partitions
   Homepage: https://fatsort.sourceforge.io/
 - Package: faust
-  Version: 2.85.5
+  Version: 2.85.9
   Description: A functional programming language for signal processing and sound synthesis
   Homepage: https://github.com/grame-cncm/faust
 - Package: faust-static
-  Version: 2.85.5
+  Version: 2.85.9
   Description: Static libraries for faust
   Homepage: https://github.com/grame-cncm/faust
 - Package: faustlibraries
-  Version: 2.85.5
+  Version: 2.85.9
   Description: Faust DSP libraries
   Homepage: https://github.com/grame-cncm/faust
 - Package: fcgi
@@ -1983,11 +1983,11 @@
   Description: A fast, simple, recursive content discovery tool written in Rust
   Homepage: https://github.com/epi052/feroxbuster
 - Package: fetchmail
-  Version: 6.6.6
+  Version: 6.6.6-1
   Description: A remote-mail retrieval utility
   Homepage: https://www.fetchmail.info/
 - Package: fetchmailconf
-  Version: 6.6.6
+  Version: 6.6.6-1
   Description: A GUI configurator for generating fetchmail configuration files
   Homepage: https://www.fetchmail.info/
 - Package: fff
@@ -2051,7 +2051,7 @@
   Description: FLAC (Free Lossless Audio Codec) command-line tool
   Homepage: https://xiph.org/flac/
 - Package: flang
-  Version: 21.1.8-2
+  Version: 21.1.8-3
   Description: LLVMs Fortran frontend
   Homepage: https://flang.llvm.org/
 - Package: flatbuffers
@@ -2079,7 +2079,7 @@
   Description: Software synthesizer based on the SoundFont 2 specifications
   Homepage: https://github.com/FluidSynth/fluidsynth
 - Package: flyctl
-  Version: 0.4.62
+  Version: 0.4.66
   Description: Command line tools for fly.io services
   Homepage: https://fly.io
 - Package: fm
@@ -2203,7 +2203,7 @@
   Description: A simple, fast fuzzy finder for the terminal
   Homepage: https://github.com/jhawthorn/fzy
 - Package: g-ir-scanner
-  Version: 1.86.0-1
+  Version: 1.86.0-2
   Description: A tool which generates GIR XML files
   Homepage: https://gi.readthedocs.io/
 - Package: game-music-emu
@@ -2263,7 +2263,7 @@
   Description: A translator library for raster and vector geospatial data formats
   Homepage: https://gdal.org
 - Package: gdb
-  Version: 16.3-3
+  Version: 16.3-4
   Description: The standard GNU Debugger that runs on many Unix-like systems and works for many programming languages
   Homepage: https://www.gnu.org/software/gdb/
 - Package: gdbm
@@ -2275,7 +2275,7 @@
   Description: Static libraries for gdbm
   Homepage: https://www.gnu.org.ua/software/gdbm/
 - Package: gdbserver
-  Version: 16.3-3
+  Version: 16.3-4
   Description: The gdbserver program
   Homepage: https://www.gnu.org/software/gdb/
 - Package: gdk-pixbuf
@@ -2355,7 +2355,7 @@
   Description: The Forth implementation of the GNU project
   Homepage: https://www.gnu.org/software/gforth/
 - Package: gh
-  Version: 2.95.0
+  Version: 2.96.0
   Description: GitHub’s official command line tool
   Homepage: https://cli.github.com/
 - Package: ghc
@@ -2451,7 +2451,7 @@
   Description: Simple, Portable, Free File Transfer Software for UNIX
   Homepage: http://www.columbia.edu/kermit/gkermit.html
 - Package: glab-cli
-  Version: 1.105.0
+  Version: 1.106.0
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
@@ -2595,7 +2595,7 @@
   Description: A cross-platform TUI database management tool written in Rust
   Homepage: https://github.com/TaKO8Ki/gobang
 - Package: gobject-introspection
-  Version: 1.86.0-1
+  Version: 1.86.0-2
   Description: Uniform machine readable API
   Homepage: https://gi.readthedocs.io/
 - Package: gogs
@@ -2631,7 +2631,7 @@
   Description: Google C++ testing framework
   Homepage: https://github.com/google/googletest
 - Package: goose
-  Version: 3.27.1
+  Version: 3.27.2
   Description: A database migration tool. Supports SQL migrations and Go functions.
   Homepage: https://pressly.github.io/goose
 - Package: gopass
@@ -2647,7 +2647,7 @@
   Description: The official Go language server
   Homepage: https://github.com/golang/tools
 - Package: goresym
-  Version: "3.3"
+  Version: "3.4"
   Description: Go symbol recovery tool
   Homepage: https://github.com/mandiant/GoReSym
 - Package: gost
@@ -2683,11 +2683,11 @@
   Description: A perfect hash function generator
   Homepage: https://www.gnu.org/software/gperf
 - Package: gpgme
-  Version: 2.1.1
+  Version: 2.1.2
   Description: Library designed to make access to GnuPG easier
   Homepage: https://www.gnupg.org/related_software/gpgme/
 - Package: gpgme-static
-  Version: 2.1.1
+  Version: 2.1.2
   Description: Static libraries for gpgme
   Homepage: https://www.gnupg.org/related_software/gpgme/
 - Package: gpgmepp
@@ -2807,7 +2807,7 @@
   Description: GStreamer Ugly Plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-python
-  Version: 1.28.4
+  Version: 1.28.4-1
   Description: Python bindings for GStreamer
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gstreamer
@@ -3039,7 +3039,7 @@
   Description: A CLI tool for sr.ht
   Homepage: https://git.sr.ht/~xenrox/hut
 - Package: hwdata
-  Version: "0.408"
+  Version: "0.409"
   Description: Database of hardware identification and configuration data
   Homepage: https://github.com/vcrhonek/hwdata
 - Package: hydroxide
@@ -3151,7 +3151,7 @@
   Description: The internationalization tool collection
   Homepage: https://launchpad.net/intltool
 - Package: inxi
-  Version: 3.3.40-1-0
+  Version: 3.3.41-1-0
   Description: Full featured CLI system information tool
   Homepage: https://smxi.org/site/about.htm#inxi
 - Package: ipcalc
@@ -3483,7 +3483,7 @@
   Description: Static libraries for ldns
   Homepage: https://www.nlnetlabs.nl/projects/ldns/
 - Package: ledger
-  Version: 3.4.1-2
+  Version: 3.4.1-3
   Description: Powerful, double-entry accounting system
   Homepage: https://www.ledger-cli.org
 - Package: lego
@@ -3687,7 +3687,7 @@
   Description: Static libraries for libarchive
   Homepage: https://www.libarchive.org/
 - Package: libarrow-cpp
-  Version: 24.0.0
+  Version: 24.0.0-1
   Description: C++ libraries for Apache Arrow
   Homepage: https://github.com/apache/arrow
 - Package: libasio
@@ -3931,7 +3931,7 @@
   Description: A host of helper utilities for the java.lang API
   Homepage: https://commons.apache.org/proper/commons-lang/
 - Package: libcompiler-rt
-  Version: 21.1.8-2
+  Version: 21.1.8-3
   Description: Compiler runtime libraries for clang
   Homepage: https://clang.llvm.org/
 - Package: libconfig
@@ -4171,7 +4171,7 @@
   Description: Static libraries for libev
   Homepage: http://software.schmorp.de/pkg/libev.html
 - Package: libevent
-  Version: 2.1.12-3
+  Version: 2.1.13
   Description: Library that provides asynchronous event notification
   Homepage: https://libevent.org/
 - Package: libexif
@@ -4387,7 +4387,7 @@
   Description: Font system for multiple languages
   Homepage: https://github.com/silnrsi/graphite
 - Package: libgrpc
-  Version: 1.81.1
+  Version: 1.82.0
   Description: High performance, open source, general RPC framework that puts mobile and HTTP/2 first
   Homepage: https://grpc.io/
 - Package: libgsasl
@@ -4603,11 +4603,11 @@
   Description: A small java library that allows you to use ANSI escape codes to format your console output
   Homepage: https://fusesource.github.io/jansi/
 - Package: libjansson
-  Version: 2.15.0
+  Version: 2.15.1
   Description: C library for encoding, decoding and manipulating JSON data
   Homepage: http://www.digip.org/jansson/
 - Package: libjansson-static
-  Version: 2.15.0
+  Version: 2.15.1
   Description: Static libraries for libjansson
   Homepage: http://www.digip.org/jansson/
 - Package: libjasper
@@ -4619,15 +4619,15 @@
   Description: JPEG-2000 utilities
   Homepage: http://www.ece.uvic.ca/~frodo/jasper/
 - Package: libjpeg-turbo
-  Version: 3.1.4.1
+  Version: 3.2.0
   Description: Library for reading and writing JPEG image files
   Homepage: https://libjpeg-turbo.virtualgl.org
 - Package: libjpeg-turbo-progs
-  Version: 3.1.4.1
+  Version: 3.2.0
   Description: Programs for manipulating JPEG files
   Homepage: https://libjpeg-turbo.virtualgl.org
 - Package: libjpeg-turbo-static
-  Version: 3.1.4.1
+  Version: 3.2.0
   Description: Static libraries for libjpeg-turbo
   Homepage: https://libjpeg-turbo.virtualgl.org
 - Package: libjxl
@@ -4695,11 +4695,11 @@
   Description: Static libraries for libliquid-dsp
   Homepage: https://liquidsdr.org/
 - Package: libllvm
-  Version: 21.1.8-2
+  Version: 21.1.8-3
   Description: Modular compiler and toolchain technologies library
   Homepage: https://clang.llvm.org/
 - Package: libllvm-static
-  Version: 21.1.8-2
+  Version: 21.1.8-3
   Description: Static libraries for libllvm
   Homepage: https://clang.llvm.org/
 - Package: liblmdb
@@ -4859,11 +4859,11 @@
   Description: Mini zip and unzip based on zlib
   Homepage: https://www.winimage.com/zLibDll/minizip.html
 - Package: libminizip-ng
-  Version: 4.2.1
+  Version: 4.2.2
   Description: A zip manipulation library written in C
   Homepage: https://github.com/zlib-ng/minizip-ng
 - Package: libminizip-ng-static
-  Version: 4.2.1
+  Version: 4.2.2
   Description: Static libraries for libminizip-ng
   Homepage: https://github.com/zlib-ng/minizip-ng
 - Package: libminizip-static
@@ -4919,7 +4919,7 @@
   Description: Static libraries for libmpc
   Homepage: https://www.multiprecision.org/
 - Package: libmpdclient
-  Version: "2.25"
+  Version: "2.26"
   Description: Asynchronous API library for interfacing MPD in the C, C++ & Objective C languages
   Homepage: https://www.musicpd.org/libs/libmpdclient/
 - Package: libmpeg2
@@ -5155,7 +5155,7 @@
   Description: Static libraries for libopenblas
   Homepage: https://www.openblas.net
 - Package: libopencc
-  Version: 1.3.2
+  Version: 1.4.0
   Description: An opensource project for conversions between Traditional Chinese, Simplified Chinese and Japanese Kanji (Shinjitai)
   Homepage: https://github.com/BYVoid/OpenCC
 - Package: libopencore-amr
@@ -5339,7 +5339,7 @@
   Description: A comprehensive set of C++ libraries that cover all modern-day programming needs
   Homepage: https://pocoproject.org/
 - Package: libpolly
-  Version: 21.1.8-2
+  Version: 21.1.8-3
   Description: High-level loop and data-locality optimizer for clang
   Homepage: https://clang.llvm.org/
 - Package: libpopt
@@ -5491,7 +5491,7 @@
   Description: Static libraries for librttopo
   Homepage: https://git.osgeo.org/gitea/rttopo/librttopo
 - Package: librusty-v8
-  Version: 1:2.9.0
+  Version: 1:2.9.1
   Description: High quality Rust bindings to V8s C++ API
   Homepage: https://deno.land/
 - Package: libsamplerate
@@ -5515,11 +5515,11 @@
   Description: Static libraries for libsass
   Homepage: https://github.com/sass/libsass
 - Package: libsearpc
-  Version: 1:3.2.0-8
+  Version: 1:3.2.0-9
   Description: A simple C language RPC framework (mainly for seafile)
   Homepage: https://github.com/haiwen/libsearpc
 - Package: libsearpc-static
-  Version: 1:3.2.0-8
+  Version: 1:3.2.0-9
   Description: Static libraries for libsearpc
   Homepage: https://github.com/haiwen/libsearpc
 - Package: libseat
@@ -5871,7 +5871,7 @@
   Description: Libtorrent BitTorrent library
   Homepage: https://github.com/rakshasa/rtorrent/wiki
 - Package: libtorrent-rasterbar
-  Version: 2.0.13-1
+  Version: 2.0.13-2
   Description: A feature complete C++ bittorrent implementation focusing on efficiency and scalability
   Homepage: https://libtorrent.org/
 - Package: libtorrent-static
@@ -6283,19 +6283,19 @@
   Description: A C library for creating Excel XLSX files
   Homepage: https://libxlsxwriter.github.io/
 - Package: libxml2
-  Version: 2.15.3-1
+  Version: 2.15.3-2
   Description: Library for parsing XML documents
   Homepage: https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home
 - Package: libxml2-python
-  Version: 2.15.3-1
+  Version: 2.15.3-2
   Description: Python bindings for libxml2
   Homepage: https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home
 - Package: libxml2-utils
-  Version: 2.15.3-1
+  Version: 2.15.3-2
   Description: XML utilities
   Homepage: https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home
 - Package: libxmlb
-  Version: 0.3.27
+  Version: 0.3.28
   Description: Library to help create and query binary XML blobs
   Homepage: https://github.com/hughsie/libxmlb
 - Package: libxmlrpc
@@ -6483,15 +6483,15 @@
   Description: A low-level build system, used by the Swift Package Manager
   Homepage: https://github.com/swiftlang/swift-llbuild
 - Package: lld
-  Version: 21.1.8-2
+  Version: 21.1.8-3
   Description: LLVM-based linker
   Homepage: https://clang.llvm.org/
 - Package: lldb
-  Version: 21.1.8-2
+  Version: 21.1.8-3
   Description: LLVM-based debugger
   Homepage: https://clang.llvm.org/
 - Package: llvm
-  Version: 21.1.8-2
+  Version: 21.1.8-3
   Description: LLVM modular compiler and toolchain executables
   Homepage: https://clang.llvm.org/
 - Package: llvm-mingw-w64
@@ -6511,7 +6511,7 @@
   Description: MinGW-w64 runtime for LLVM-MinGW
   Homepage: https://github.com/mstorsjo/llvm-mingw
 - Package: llvm-tools
-  Version: 21.1.8-2
+  Version: 21.1.8-3
   Description: LLVM Development Tools
   Homepage: https://clang.llvm.org/
 - Package: lnav
@@ -6683,7 +6683,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.34.0
+  Version: 0.35.0
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://lux.lumen-labs.org
 - Package: lv2
@@ -6759,7 +6759,7 @@
   Description: Cli manga downloader
   Homepage: https://github.com/metafates/mangal
 - Package: manim
-  Version: 0.20.1-2
+  Version: 0.20.1-3
   Description: A community-maintained Python framework for creating mathematical animations
   Homepage: https://manim.community
 - Package: manpages
@@ -6795,7 +6795,7 @@
   Description: Simple CAS and symbolic calculator
   Homepage: https://en.wikipedia.org/wiki/Mathomatic
 - Package: matplotlib
-  Version: 3.11.0
+  Version: 3.11.0-1
   Description: A comprehensive library for creating static, animated, and interactive visualizations in Python
   Homepage: https://matplotlib.org/
 - Package: matterbridge
@@ -7051,7 +7051,7 @@
   Description: Static libraries for minizinc
   Homepage: https://github.com/MiniZinc/libminizinc
 - Package: mise
-  Version: 2026.6.14
+  Version: 2026.7.0
   Description: dev tools, env vars, task runner
   Homepage: https://mise.jdx.dev/
 - Package: mkbootimg
@@ -7071,7 +7071,7 @@
   Description: command line utility to create BitTorrent metainfo files
   Homepage: https://github.com/Rudde/mktorrent
 - Package: mlir
-  Version: 21.1.8-2
+  Version: 21.1.8-3
   Description: A Multi-Level Intermediate Representation for compilers from LLVM
   Homepage: https://clang.llvm.org/
 - Package: mlocate
@@ -7083,7 +7083,7 @@
   Description: 'mold: A Modern Linker'
   Homepage: https://github.com/rui314/mold
 - Package: monero
-  Version: 0.18.5.0
+  Version: 0.18.5.1
   Description: A private, secure, untraceable, decentralised digital currency
   Homepage: https://getmonero.org/
 - Package: monetdb
@@ -7291,7 +7291,7 @@
   Description: A light VPN software
   Homepage: https://github.com/ntop/n2n
 - Package: nala
-  Version: 0.16.0-2
+  Version: 0.16.0-3
   Description: Commandline frontend for the apt package manager
   Homepage: https://gitlab.com/volian/nala
 - Package: nali
@@ -7415,7 +7415,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-868+gaa3823cca3-0
+  Version: 0.13.0~dev-895+ge4e9eebbae-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -7639,7 +7639,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 29.19.0
+  Version: 29.20.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: oidn
@@ -7659,11 +7659,11 @@
   Description: The GNU Spreadsheet
   Homepage: https://www.gnu.org/software/oleo/
 - Package: ollama
-  Version: 0.30.11
+  Version: 0.31.1
   Description: Get up and running with large language models
   Homepage: https://ollama.com/
 - Package: ollama-backend-vulkan
-  Version: 0.30.11
+  Version: 0.31.1
   Description: Vulkan Backend for Ollama
   Homepage: https://ollama.com/
 - Package: oma
@@ -7691,7 +7691,7 @@
   Description: Static libraries for oniguruma
   Homepage: https://github.com/kkos/oniguruma
 - Package: onnxruntime
-  Version: 1.27.0
+  Version: 1.27.0-1
   Description: Cross-platform, high performance ML inferencing and training accelerator
   Homepage: https://onnxruntime.ai/
 - Package: oorexx
@@ -7719,7 +7719,7 @@
   Description: Static libraries for openbabel
   Homepage: http://openbabel.org/wiki/Main_Page
 - Package: opencc-tools
-  Version: 1.3.2
+  Version: 1.4.0
   Description: Command-line tools for OpenCC
   Homepage: https://github.com/BYVoid/OpenCC
 - Package: opencl-clhpp
@@ -7807,7 +7807,7 @@
   Description: Static libraries for openldap
   Homepage: https://openldap.org
 - Package: openlist
-  Version: 4.2.2
+  Version: 4.2.3
   Description: A file list program that supports multiple storage
   Homepage: https://oplist.org/
 - Package: openmpi
@@ -8219,7 +8219,7 @@
   Description: Static libraries for pikiwidb
   Homepage: https://github.com/OpenAtomFoundation/pikiwidb
 - Package: pinentry
-  Version: 1.3.2-2
+  Version: 1.3.3
   Description: Dialog allowing secure password entry
   Homepage: https://www.gnupg.org/related_software/pinentry/index.html
 - Package: pingme
@@ -8383,7 +8383,7 @@
   Description: A standalone front-end for the Java decompiler in Procyon Compiler Toolset
   Homepage: https://github.com/mstrobel/procyon
 - Package: profanity
-  Version: 0.18.2
+  Version: 0.18.2-1
   Description: Profanity is a console based XMPP client written in C using ncurses and libstrophe, inspired by Irssi
   Homepage: https://profanity-im.github.io
 - Package: progress
@@ -8399,7 +8399,7 @@
   Description: Emulate chroot, bind mount and binfmt_misc for non-root users
   Homepage: https://proot-me.github.io/
 - Package: proot-distro
-  Version: 5.4.0
+  Version: 5.4.0-1
   Description: Termux official utility for managing prooted Linux distributions
   Homepage: https://github.com/termux/proot-distro
 - Package: protobuf
@@ -8467,11 +8467,11 @@
   Description: A lightweight header-only library that exposes C++ types in Python and vice versa
   Homepage: https://pybind11.readthedocs.io/
 - Package: pycairo
-  Version: 1.29.0-1
+  Version: 1.29.0-2
   Description: Python bindings for the cairo graphics library
   Homepage: https://www.cairographics.org/pycairo/
 - Package: pygobject
-  Version: 3.56.3
+  Version: 3.56.3-1
   Description: Python package which provides bindings for GObject based libraries
   Homepage: https://pygobject.gnome.org/
 - Package: pypy
@@ -8507,159 +8507,159 @@
   Description: C++ functions matching the interface and behavior of python string methods with std::string
   Homepage: https://github.com/imageworks/pystring
 - Package: python
-  Version: 3.13.13-1
+  Version: 3.14.6
   Description: Python 3 programming language intended to enable clear programs
   Homepage: https://python.org/
 - Package: python-apsw
-  Version: 3.53.2.0
+  Version: 3.53.3.0
   Description: Another Python SQLite Wrapper
   Homepage: https://rogerbinns.github.io/apsw/
 - Package: python-apt
-  Version: 3.1.0-1
+  Version: 3.1.0-2
   Description: Python bindings for APT
   Homepage: https://apt-team.pages.debian.net/python-apt/
 - Package: python-bcrypt
-  Version: 5.0.0-2
+  Version: 5.0.0-3
   Description: Acceptable password hashing for your software and your servers
   Homepage: https://github.com/pyca/bcrypt
 - Package: python-brotli
-  Version: 1.2.0-1
+  Version: 1.2.0-2
   Description: lossless compression algorithm and format (Python bindings)
   Homepage: https://github.com/google/brotli
 - Package: python-cmake
-  Version: 4.3.4
+  Version: 4.3.4-1
   Description: Python wrapper for CMake
   Homepage: https://cmake-python-distributions.readthedocs.io/
 - Package: python-contourpy
-  Version: 1.3.3-4
+  Version: 1.3.3-5
   Description: Python library for calculating contours in 2D quadrilateral grids
   Homepage: https://contourpy.readthedocs.io/
 - Package: python-cryptography
-  Version: 48.0.1-1
+  Version: 48.0.1-2
   Description: Provides cryptographic recipes and primitives to Python developers
   Homepage: https://github.com/pyca/cryptography
 - Package: python-ensurepip-wheels
-  Version: 3.13.13-1
+  Version: 3.14.6
   Description: Wheels for Python ensurepip
   Homepage: https://python.org/
 - Package: python-greenlet
-  Version: 3.5.3
+  Version: 3.5.3-1
   Description: Lightweight coroutines for in-process concurrent programming
   Homepage: https://github.com/python-greenlet/greenlet
 - Package: python-grpcio
-  Version: 1.81.1
+  Version: 1.82.0
   Description: High performance, open source, general RPC framework that puts mobile and HTTP/2 first
   Homepage: https://grpc.io/
 - Package: python-lameenc
-  Version: 1.8.4
+  Version: 1.8.4-1
   Description: Python bindings around the LAME encoder
   Homepage: https://github.com/chrisstaite/lameenc
 - Package: python-libsass
-  Version: 0.23.0-2
+  Version: 0.23.0-3
   Description: A straightforward binding of libsass for Python
   Homepage: https://github.com/sass/libsass-python
 - Package: python-llvmlite
-  Version: 0.47.0-2
+  Version: 0.47.0-3
   Description: A lightweight LLVM python binding for writing JIT compilers
   Homepage: https://llvmlite.pydata.org/
 - Package: python-lxml
-  Version: 6.1.1
+  Version: 6.1.1-1
   Description: Python binding for the libxml2 and libxslt libraries
   Homepage: https://github.com/lxml/lxml
 - Package: python-msgpack
-  Version: 1.2.1
+  Version: 1.2.1-1
   Description: MessagePack serializer implementation for Python
   Homepage: https://github.com/msgpack/msgpack-python
 - Package: python-numpy
-  Version: 2.4.4
+  Version: 2.4.4-1
   Description: The fundamental package for scientific computing with Python
   Homepage: https://numpy.org/
 - Package: python-numpy-static
-  Version: 2.4.4
+  Version: 2.4.4-1
   Description: Static libraries for python-numpy
   Homepage: https://numpy.org/
 - Package: python-onnxruntime
-  Version: 1.27.0
+  Version: 1.27.0-1
   Description: Cross-platform, high performance ML inferencing and training accelerator (Python bindings)
   Homepage: https://onnxruntime.ai/
 - Package: python-pillow
-  Version: 12.2.0
+  Version: 12.3.0
   Description: Python Imaging Library
   Homepage: https://python-pillow.org/
 - Package: python-pip
-  Version: 26.1.2
+  Version: 26.1.2-1
   Description: The PyPA recommended tool for installing Python packages
   Homepage: https://pip.pypa.io/
 - Package: python-psutil
-  Version: 7.2.2-1
+  Version: 7.2.2-2
   Description: Cross-platform process and system utilities module for Python
   Homepage: https://github.com/giampaolo/psutil
 - Package: python-pyarrow
-  Version: 24.0.0
+  Version: 24.0.0-1
   Description: Python bindings for Apache Arrow
   Homepage: https://github.com/apache/arrow
 - Package: python-pycryptodomex
-  Version: 3.23.0-3
+  Version: 3.23.0-4
   Description: A self-contained Python package of low-level cryptographic primitives
   Homepage: https://www.pycryptodome.org/
 - Package: python-pynvim
-  Version: 0.6.0-2
+  Version: 0.6.0-3
   Description: Python client for Neovim
   Homepage: https://github.com/neovim/pynvim
 - Package: python-pyppmd
-  Version: 1.3.1
+  Version: 1.3.1-1
   Description: PPM compression/decompression library
   Homepage: https://github.com/miurahr/pyppmd
 - Package: python-ruff
-  Version: 0.15.20
+  Version: 0.15.20-1
   Description: An extremely fast Python linter, written in Rust (Python bindings)
   Homepage: https://github.com/charliermarsh/ruff
 - Package: python-sabyenc3
-  Version: 9.5.1
+  Version: 9.5.1-1
   Description: C implementations of functions for use within SABnzbd
   Homepage: https://github.com/sabnzbd/sabctools
 - Package: python-scipy
-  Version: 1.18.0
+  Version: 1.18.0-1
   Description: Fundamental algorithms for scientific computing in Python
   Homepage: https://scipy.org/
 - Package: python-skia-pathops
-  Version: 0.9.2-1
+  Version: 0.9.2-2
   Description: Python bindings for the Skia librarys Path Ops
   Homepage: https://github.com/fonttools/skia-pathops
 - Package: python-static
-  Version: 3.13.13-1
+  Version: 3.14.6
   Description: Static libraries for python
   Homepage: https://python.org/
 - Package: python-tflite-runtime
-  Version: 2.20.0-3
+  Version: 2.20.0-4
   Description: TensorFlow Lite Python bindings
   Homepage: https://www.tensorflow.org/lite
 - Package: python-tkinter
-  Version: 3.13.13-1
+  Version: 3.14.6
   Description: Tkinter support for Python 3
   Homepage: https://python.org/
 - Package: python-tldp
-  Version: 0.7.5-7
+  Version: 0.7.5-8
   Description: Tools for publishing from TLDP sources
   Homepage: https://github.com/tLDP/python-tldp
 - Package: python-torch
-  Version: 2.11.0
+  Version: 2.11.0-1
   Description: Tensors and Dynamic neural networks in Python
   Homepage: https://pytorch.org/
 - Package: python-torch-static
-  Version: 2.11.0
+  Version: 2.11.0-1
   Description: Static libraries for python-torch
   Homepage: https://pytorch.org/
 - Package: python-torchaudio
-  Version: 2.11.0-1
+  Version: 2.11.0-2
   Description: Data manipulation and transformation for audio signal processing, powered by PyTorch
   Homepage: https://github.com/pytorch/audio
 - Package: python-torchcodec
-  Version: 0.11.0-1
+  Version: 0.11.0-2
   Description: PyTorch media decoding and encoding
   Homepage: https://github.com/pytorch/torchcodec
 - Package: python-torchvision
-  Version: 0.27.0
+  Version: 0.27.0-1
   Description: Datasets, Transforms and Models specific to Computer Vision
   Homepage: https://github.com/pytorch/vision
 - Package: python-trash-cli
@@ -8667,15 +8667,15 @@
   Description: Command line trashcan (recycle bin) interface
   Homepage: https://github.com/andreafrancia/trash-cli
 - Package: python-xcbgen
-  Version: 1.17.0-2
+  Version: 1.17.0-3
   Description: The xcbgen Python module
   Homepage: https://xcb.freedesktop.org/
 - Package: python-xlib
-  Version: 0.33-3
+  Version: 0.33-4
   Description: The Python X Library
   Homepage: https://github.com/python-xlib/python-xlib
 - Package: python-yt-dlp
-  Version: 2026.06.09
+  Version: 2026.06.09-1
   Description: A youtube-dl fork with additional features and fixes
   Homepage: https://github.com/yt-dlp/yt-dlp
 - Package: python2
@@ -8847,7 +8847,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 5.23.2
+  Version: 5.23.3
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
@@ -8855,7 +8855,7 @@
   Description: Range library for C++14/17/20, basis for C++20s std::ranges
   Homepage: https://github.com/ericniebler/range-v3
 - Package: ranger
-  Version: 1.9.4-1
+  Version: 1.9.4-2
   Description: File manager with VI key bindings
   Homepage: https://ranger.github.io/
 - Package: rapidjson
@@ -8907,7 +8907,7 @@
   Description: Remote incremental backup
   Homepage: https://github.com/librsync/librsync
 - Package: rdiff-backup
-  Version: 2.2.6-5
+  Version: 2.2.6-6
   Description: A utility for local/remote mirroring and incremental backups
   Homepage: https://rdiff-backup.net
 - Package: rdircd
@@ -8939,11 +8939,11 @@
   Description: Static libraries for recode
   Homepage: https://github.com/pinard/Recode
 - Package: recoll
-  Version: 1.44.0
+  Version: 1.44.0-1
   Description: Full-text search for your desktop
   Homepage: https://www.recoll.org/
 - Package: recoll-python
-  Version: 1.44.0
+  Version: 1.44.0-1
   Description: Python interface for Recoll
   Homepage: https://www.recoll.org/
 - Package: recutils
@@ -9131,7 +9131,7 @@
   Description: Ruby documentation index
   Homepage: https://www.ruby-lang.org/
 - Package: ruff
-  Version: 0.15.20
+  Version: 0.15.20-1
   Description: An extremely fast Python linter, written in Rust
   Homepage: https://github.com/charliermarsh/ruff
 - Package: runit
@@ -9147,7 +9147,7 @@
   Description: A cross-platform command-line tool for executing jobs in parallel
   Homepage: https://github.com/shenwei356/rush
 - Package: rust
-  Version: 1.96.0
+  Version: 1.96.1
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
@@ -9159,55 +9159,55 @@
   Description: Automatically generates Rust FFI bindings to C (and some C++) libraries
   Homepage: https://github.com/rust-lang/rust-bindgen
 - Package: rust-docs
-  Version: 1.96.0
+  Version: 1.96.1
   Description: Rust documentation
   Homepage: https://www.rust-lang.org/
 - Package: rust-src
-  Version: 1.96.0
+  Version: 1.96.1
   Description: Rust source code files
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-aarch64-linux-android
-  Version: 1.96.0
+  Version: 1.96.1
   Description: Component files for target aarch64-linux-android
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-armv7-linux-androideabi
-  Version: 1.96.0
+  Version: 1.96.1
   Description: Component files for target armv7-linux-androideabi
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-i686-linux-android
-  Version: 1.96.0
+  Version: 1.96.1
   Description: Component files for target i686-linux-android
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-wasm32-unknown-unknown
-  Version: 1.96.0
+  Version: 1.96.1
   Description: Component files for target wasm32-unknown-unknown
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-wasm32-wasip1
-  Version: 1.96.0
+  Version: 1.96.1
   Description: Component files for target wasm32-wasip1
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-wasm32-wasip2
-  Version: 1.96.0
+  Version: 1.96.1
   Description: Component files for target wasm32-wasip2
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-wasm32-wasip3
-  Version: 1.96.0
+  Version: 1.96.1
   Description: Component files for target wasm32-wasip3
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-wasm32v1-none
-  Version: 1.96.0
+  Version: 1.96.1
   Description: Component files for target wasm32v1-none
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-x86-64-linux-android
-  Version: 1.96.0
+  Version: 1.96.1
   Description: Component files for target x86_64-linux-android
   Homepage: https://www.rust-lang.org/
 - Package: rustc-dev
-  Version: 1.96.0
+  Version: 1.96.1
   Description: Rust compiler development libs
   Homepage: https://www.rust-lang.org/
 - Package: rustc-src
-  Version: 1.96.0
+  Version: 1.96.1
   Description: Rust compiler source code files
   Homepage: https://www.rust-lang.org/
 - Package: rustscan
@@ -9291,11 +9291,11 @@
   Description: StarDict Console Version
   Homepage: http://dushistov.github.io/sdcv/
 - Package: seafile-client
-  Version: 9.0.20
+  Version: 9.0.20-1
   Description: Seafile is a file syncing and sharing software with file encryption and group sharing
   Homepage: https://seafile.com
 - Package: seafile-client-static
-  Version: 9.0.20
+  Version: 9.0.20-1
   Description: Static libraries for seafile-client
   Homepage: https://seafile.com
 - Package: seanime
@@ -9547,11 +9547,11 @@
   Description: Collection of tools supporting SpatiaLite
   Homepage: https://www.gaia-gis.it/fossil/spatialite-tools
 - Package: speechd
-  Version: 0.12.1-1
+  Version: 0.12.1-2
   Description: Common interface to speech synthesis
   Homepage: https://github.com/brailcom/speechd
 - Package: speechd-data
-  Version: 0.12.1-1
+  Version: 0.12.1-2
   Description: Platform-independent data for speechd
   Homepage: https://github.com/brailcom/speechd
 - Package: speedtest-go
@@ -9879,9 +9879,9 @@
   Description: Decentralized file synchronization
   Homepage: https://syncthing.net/
 - Package: sysprop
-  Version: 13.0.0.15-10
-  Description: Generates cpp / java sysprop
-  Homepage: https://android.googlesource.com/platform/system/tools/sysprop
+  Version: 16.0.0.4
+  Description: Android sysprop generators
+  Homepage: https://github.com/termux/android-build-tools
 - Package: ta-lib
   Version: 0.5.0
   Description: Technical analysis library with indicators like ADX
@@ -9999,7 +9999,7 @@
   Description: Static libraries for termux-api
   Homepage: https://wiki.termux.com/wiki/Termux:API
 - Package: termux-apt-repo
-  Version: 0.5-4
+  Version: 0.5-5
   Description: Script to create Termux apt repositories
   Homepage: https://github.com/termux/termux-apt-repo
 - Package: termux-auth
@@ -10023,11 +10023,11 @@
   Description: Cleaner of ELF files for Android
   Homepage: https://github.com/termux/termux-elf-cleaner
 - Package: termux-exec
-  Version: 1:2.4.0-1
+  Version: 1:2.5.0-1
   Description: Utils and libraries for Termux exec including a LD_PRELOAD shared library for proper functioning of the Termux execution environment
   Homepage: https://github.com/termux/termux-exec-package
 - Package: termux-exec-static
-  Version: 1:2.4.0-1
+  Version: 1:2.5.0-1
   Description: Static libraries for termux-exec
   Homepage: https://github.com/termux/termux-exec-package
 - Package: termux-gui-bash
@@ -10175,7 +10175,7 @@
   Description: Desktop-neutral metadata-based search framework
   Homepage: https://gnome.pages.gitlab.gnome.org/tinysparql
 - Package: tizonia
-  Version: 0.22.0-24
+  Version: 0.22.0-25
   Description: A command-line streaming music client/server for Linux
   Homepage: https://github.com/tizonia/
 - Package: tk
@@ -10187,7 +10187,7 @@
   Description: Terminal multiplexer with instant terminal sharing
   Homepage: https://tmate.io
 - Package: tmux
-  Version: "3.7"
+  Version: 3.7b
   Description: Terminal multiplexer
   Homepage: https://tmux.github.io/
 - Package: toilet
@@ -10439,7 +10439,7 @@
   Description: High-performance build system for JS/TS
   Homepage: https://turborepo.dev/
 - Package: turbopack
-  Version: 16.2.9
+  Version: 16.2.10
   Description: Rust-based incremental compilation engine and bundler for Next.js
   Homepage: https://nextjs.org/
 - Package: tut
@@ -10487,11 +10487,11 @@
   Description: Linux tools for UDF filesystems and DVD/CD-R(W) drives
   Homepage: https://github.com/pali/udftools
 - Package: udocker
-  Version: 1.3.17-4
+  Version: 1.3.17-5
   Description: A basic user tool to execute simple docker containers in batch or interactive systems without root privileges.
   Homepage: https://indigo-dc.github.io/udocker
 - Package: uftrace
-  Version: 0.19-1
+  Version: 0.19-2
   Description: Function (graph) tracer for user-space
   Homepage: https://uftrace.github.io/slide
 - Package: ugrep
@@ -10551,7 +10551,7 @@
   Description: A post-processing tool for scanned sheets of paper
   Homepage: https://www.flameeyes.com/projects/unpaper
 - Package: unrar
-  Version: 7.2.6
+  Version: 7.2.7
   Description: Tool for extracting files from .rar archives
   Homepage: https://www.rarlab.com/
 - Package: unshield
@@ -10571,7 +10571,7 @@
   Description: Update or create index file from all installed info files in directory
   Homepage: https://www.gnu.org/software/texinfo/
 - Package: upower
-  Version: 1.91.2
+  Version: 1.91.3
   Description: Power management support for DeviceKit
   Homepage: https://upower.freedesktop.org/
 - Package: upx
@@ -10627,11 +10627,11 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.11.25
+  Version: 0.11.26
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
-  Version: 2.0.31-1
+  Version: 2.0.31-2
   Description: uWSGI application server container
   Homepage: https://projects.unbit.it/uwsgi
 - Package: v2ray
@@ -10683,7 +10683,7 @@
   Description: Static libraries for vamp-plugin-sdk
   Homepage: https://www.vamp-plugins.org/
 - Package: vapoursynth
-  Version: 73-1
+  Version: 73-2
   Description: Video processing framework with simplicity in mind
   Homepage: https://www.vapoursynth.com/
 - Package: vbindiff
@@ -10791,7 +10791,7 @@
   Description: Vulkan Extension Layer
   Homepage: https://github.com/KhronosGroup/Vulkan-ExtensionLayer
 - Package: vulkan-headers
-  Version: 1.4.355
+  Version: 1.4.356
   Description: Vulkan Header files and API registry
   Homepage: https://github.com/KhronosGroup/Vulkan-Headers
 - Package: vulkan-icd
@@ -10839,7 +10839,7 @@
   Description: The WebAssembly Binary Toolkit
   Homepage: https://github.com/WebAssembly/wabt
 - Package: wakatime-cli
-  Version: 2.21.3
+  Version: 2.21.4
   Description: Command line interface used by all WakaTime text editor plugins
   Homepage: https://wakatime.com/plugins/
 - Package: walk
@@ -10903,7 +10903,7 @@
   Description: Turn any program that uses STDIN/STDOUT into a WebSocket server
   Homepage: http://websocketd.com/
 - Package: webtunnel
-  Version: 0.0.4
+  Version: 0.0.5
   Description: Pluggable Transport based on HTTP Upgrade(HTTPT)
   Homepage: https://torproject.org/
 - Package: weechat
@@ -11031,7 +11031,7 @@
   Description: Basic tools for the Xapian search engine
   Homepage: https://xapian.org
 - Package: xcb-proto
-  Version: 1.17.0-2
+  Version: 1.17.0-3
   Description: XML-XCB protocol descriptions
   Homepage: https://xcb.freedesktop.org/
 - Package: xdelta3
@@ -11175,7 +11175,7 @@
   Description: A lightweight and portable command-line YAML, JSON and XML processor
   Homepage: https://mikefarah.gitbook.io/yq/
 - Package: yt-dlp-ejs
-  Version: 0.8.0
+  Version: 0.8.0-1
   Description: External JavaScript for yt-dlp supporting many runtimes
   Homepage: https://github.com/yt-dlp/ejs
 - Package: ytfzf
@@ -11291,7 +11291,7 @@
   Description: Zstandard compression
   Homepage: https://github.com/facebook/zstd
 - Package: zsync
-  Version: 0.7.1
+  Version: 0.7.2
   Description: A file transfer program to download files from remote web servers
   Homepage: https://zsync.moria.org.uk/
 - Package: zziplib
