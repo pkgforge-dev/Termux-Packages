@@ -1,26 +1,26 @@
-- #### Automated every 2-3 Hrs from [Termux/Termux-Packages](https://github.com/termux/termux-packages)
-> The [Markdown README](https://github.com/Azathothas/Termux-Packages/blob/main/README.md) **may not render because of huge file size.** Please Visit: https://termux-packages.ajam.dev
-> - View [RAW](https://pub.ajam.dev/repos/Azathothas/Termux-Packages/pkgs.txt): https://pub.ajam.dev/repos/Azathothas/Termux-Packages/pkgs.txt
-> - View [JSON](https://github.com/Azathothas/Termux-Packages/blob/main/pkgs.json): https://github.com/Azathothas/Termux-Packages/blob/main/pkgs.json
-> - View [YAML](https://github.com/Azathothas/Termux-Packages/blob/main/pkgs.yaml): https://github.com/Azathothas/Termux-Packages/blob/main/pkgs.yaml
+- #### Automated every 2-3 Hrs from [Termux/Termux-Packages](https://github.com/aripitek/termux/termux-packages)
+> The [Markdown README](https://github.com/aripitek/Azathothas/Termux-Packages/blob/main/README.md) **may not render because of huge file size.** Please Visit: https://termux-packages.ajam.dev
+> - View [RAW](https://github.com/aripitek/pub.ajam.dev/repos/Azathothas/Termux-Packages/pkgs.txt): https://pub.ajam.dev/repos/Azathothas/Termux-Packages/pkgs.txt
+> - View [JSON](https://github.com/aripitek/Azathothas/Termux-Packages/blob/main/pkgs.json): https://github.com/Azathothas/Termux-Packages/blob/main/pkgs.json
+> - View [YAML](https://github.com/aripitek/Azathothas/Termux-Packages/blob/main/pkgs.yaml): https://github.com/Azathothas/Termux-Packages/blob/main/pkgs.yaml
 > #### Why?
-> - I wanted an `easy to parse`, `automatable` metadata for termux packages I could [`compile/cross-compile statically`](https://bin.ajam.dev/) for [Azathothas/Toolpacks](https://github.com/Azathothas/Toolpacks).
-> - [More Details](https://github.com/Azathothas/Toolpacks/tree/main/Docs#why-not-many-android-binaries): https://github.com/Azathothas/Toolpacks/tree/main/Docs#why-not-many-android-binaries
+> - I wanted an `easy to parse`, `automatable` metadata for termux packages I could [`compile/cross-compile statically`](https://github.com/aripitek/bin.ajam.dev/) for [Azathothas/Toolpacks](https://github.com/aripitek/Azathothas/Toolpacks).
+> - [More Details](https://github.com/aripitek/Azathothas/Toolpacks/tree/main/Docs#why-not-many-android-binaries): https://github.com/aripitek/Azathothas/Toolpacks/tree/main/Docs#why-not-many-android-binaries
 
 ---
 |Package | Version | Description | Homepage |
 |--------|---------|-------------|----------|
 | **0verkill** | 1:0.16-1 | Bloody 2D action deathmatch-like game in ASCII-ART | https://github.com/hackndev/0verkill |
-| **2048-c** | 1:1.0.3-1 | Console version of the game '2048' for GNU/Linux | https://github.com/mevdschee/2048.c |
+| **2048-c** | 1:1.0.3-1 | Console version of the game '2048' for GNU/Linux | https://github.com/aripitek/mevdschee/2048.c |
 | **2ping** | 4.6.1-1 | A bi-directional ping utility | https://www.finnie.org/software/2ping/ |
-| **6tunnel** | 0.14 | Allows you to use services provided by IPv6 hosts with IPv4-only applications and vice-versa | https://github.com/wojtekka/6tunnel |
+| **6tunnel** | 0.14 | Allows you to use services provided by IPv6 hosts with IPv4-only applications and vice-versa | https://github.com/aripitek/wojtekka/6tunnel |
 | **7zip** | 26.02 | 7-Zip file archiver with a high compression ratio | https://www.7-zip.org |
-| **8086tiny** | 1.25-5 | A PC XT-compatible emulator/virtual machine | https://github.com/adriancable/8086tiny |
+| **8086tiny** | 1.25-5 | A PC XT-compatible emulator/virtual machine | https://github.com/aripitek/adriancable/8086tiny |
 | **a52dec** | 0.8.0-3 | A test program for liba52 | http://liba52.sourceforge.net/ |
 | **aalib** | 1.4rc5-13 | A portable ASCII art graphic library | https://sourceforge.net/projects/aa-project/ |
 | **aalib-static** | 1.4rc5-13 | Static libraries for aalib | https://sourceforge.net/projects/aa-project/ |
 | **aapt** | 16.0.0.4 | Android Asset Packaging Tool | https://github.com/termux/android-build-tools |
-| **aapt2** | 16.0.0.4 | AAPT2 (Android Asset Packaging Tool) | https://github.com/termux/android-build-tools |
+| **aapt2** | 16.0.0.4 | AAPT2 (Android Asset Packaging Tool) | https://github.com/aripitek/termux/android-build-tools |
 | **abduco** | 0.6-4 | Clean and simple terminal session manager | https://www.brain-dump.org/projects/abduco/ |
 | **abook** | 0.6.2-1 | Abook is a text-based addressbook program designed to use with mutt mail client | http://abook.sourceforge.net/ |
 | **abootimg** | 0.6-3 | Pack or unpack android boot images | https://gitlab.com/ajs124/abootimg |
@@ -35,8 +35,8 @@
 | **agg** | 1.9.0 | asciinema gif generator | https://github.com/asciinema/agg |
 | **aha** | 0.5.1-2 | Converts ANSI escape sequences of a unix terminal to HTML code | https://github.com/theZiz/aha |
 | **aichat** | 0.30.0-1 | A powerful chatgpt cli | https://github.com/sigoden/aichat |
-| **aidl** | 16.0.0.4 | Android Interface Definition Language (AIDL) | https://github.com/termux/android-build-tools |
-| **alass** | 2.0.0-4 | Automatic Language-Agnostic Subtitle Synchronization | https://github.com/kaegi/alass |
+| **aidl** | 16.0.0.4 | Android Interface Definition Language (AIDL) | https://github.com/aripitek/termux/android-build-tools |
+| **alass** | 2.0.0-4 | Automatic Language-Agnostic Subtitle Synchronization | https://github.com/aripitek/kaegi/alass |
 | **alembic** | 1.8.12 | A framework for sharing scene data that includes a C++ lib, a file format and client plugin | https://alembic.io |
 | **algernon** | 1.17.9 | Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support | https://algernon.roboticoverlords.org/ |
 | **alpine** | 2.26-1 | Fast, easy to use email client | http://alpine.x10host.com/ |
@@ -49,12 +49,12 @@
 | **android-tools** | 35.0.2-7 | Android platform tools | https://developer.android.com/ |
 | **anewer** | 0.1.6-1 | Append lines from stdin to a file if these lines do not present in that file (aHash-based uniq) | https://github.com/ysf/anewer |
 | **angband** | 4.2.6 | Dungeon exploration adventure game | https://rephial.org/ |
-| **angle-android** | 2.1.24923-f09a19ce-2 | A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android | https://chromium.googlesource.com/angle/angle |
+| **angle-android** | 2.1.24923-f09a19ce-2 | A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android | https://github.com/aripitek/chromium.googlesource.com/angle/angle |
 | **angle-grinder** | 0.19.6-1 | Slice and dice logs on the command line | https://github.com/rcoh/angle-grinder |
 | **ani-cli** | 4.14 | A cli to browse and watch anime | https://github.com/pystardust/ani-cli |
 | **ansifilter** | 2.22 | Strip or convert ANSI codes into HTML, (La)Tex, RTF, or BBCode | http://www.andre-simon.de/doku/ansifilter/en/ansifilter.php |
 | **ant** | 1.10.17 | Java based build tool like make | https://ant.apache.org/ |
-| **antibody** | 6.1.1-3 | The fastest shell plugin manager | https://github.com/getantibody/antibody |
+| **antibody** | 6.1.1-3 | The fastest shell plugin manager | https://github.com/aripitek/getantibody/antibody |
 | **antiword** | 0.37-4 | A free MS Word reader | https://en.m.wikipedia.org/wiki/Antiword |
 | **aom-tools** | 3.14.1 | Command-line tools using AOMedia library | https://aomedia.org/ |
 | **aosp-libs** | 9.0.0-r76-4 | bionic libc, libicuuc, liblzma, zlib, and boringssl for package builder and termux-docker | https://source.android.com/ |
@@ -74,7 +74,7 @@
 | **apt-ftparchive** | 2.8.1-2 | apt-ftparchive is the command line tool that generates the index files that APT uses to access a distribution source | https://packages.debian.org/apt |
 | **apt-show-versions** | 0.22.16 | Lists available package versions with distribution | https://salsa.debian.org/debian/apt-show-versions |
 | **apt-transport-tor** | 2.8.1-2 | APT transport for anonymous package downloads via Tor | https://packages.debian.org/apt |
-| **aptly** | 1.6.3 | A Swiss Army knife for Debian repository management | https://www.aptly.info |
+| **aptly** | 1.6.3 | A Swiss Army knife for Debian repository management | https://github.com/aripitek/www.aptly.info |
 | **argon2** | 20190702-2 | A password-hashing function (reference C implementation) | https://github.com/P-H-C/phc-winner-argon2 |
 | **argon2-static** | 20190702-2 | Static libraries for argon2 | https://github.com/P-H-C/phc-winner-argon2 |
 | **argp** | 1.5.0-1 | Standalone version of arguments parsing functions from GLIBC | https://github.com/argp-standalone/argp-standalone |
