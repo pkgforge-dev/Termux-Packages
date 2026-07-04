@@ -2731,13 +2731,13 @@
   },
   {
     "Package": "enchant",
-    "Version": "2.8.17",
+    "Version": "2.8.18",
     "Description": "Wraps a number of different spelling libraries and programs with a consistent interface",
     "Homepage": "https://rrthomas.github.io/enchant/"
   },
   {
     "Package": "enchant-static",
-    "Version": "2.8.17",
+    "Version": "2.8.18",
     "Description": "Static libraries for enchant",
     "Homepage": "https://rrthomas.github.io/enchant/"
   },
@@ -4843,7 +4843,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.24.2126",
+    "Version": "0.24.2173",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -5197,7 +5197,7 @@
   },
   {
     "Package": "lazygit",
-    "Version": "0.62.2",
+    "Version": "0.63.0",
     "Description": "Simple terminal UI for git commands",
     "Homepage": "https://github.com/jesseduffield/lazygit"
   },
@@ -11107,7 +11107,7 @@
   },
   {
     "Package": "neocmakelsp",
-    "Version": "0.10.3",
+    "Version": "0.10.4",
     "Description": "a cmake lsp based on tower-lsp and treesitter",
     "Homepage": "https://neocmakelsp.github.io/"
   },
@@ -13969,7 +13969,7 @@
   },
   {
     "Package": "seanime",
-    "Version": "3.8.7",
+    "Version": "3.9.0",
     "Description": "Self-hosted anime and manga server for sea rovers.",
     "Homepage": "https://github.com/5rahim/seanime"
   },
@@ -16927,7 +16927,7 @@
   },
   {
     "Package": "zoxide",
-    "Version": "0.9.9",
+    "Version": "0.10.0",
     "Description": "A faster way to navigate your filesystem",
     "Homepage": "https://github.com/ajeetdsouza/zoxide"
   },
