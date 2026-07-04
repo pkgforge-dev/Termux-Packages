@@ -210,6 +210,10 @@
   Version: 33.0.1-1
   Description: APK signing tool from Android SDK
   Homepage: https://developer.android.com/studio/command-line/apksigner
+- Package: apktool
+  Version: 3.0.2
+  Description: A tool for reverse engineering Android apps (decoding, rebuilding, and smali debugging).
+  Homepage: https://apktool.org/
 - Package: appstream
   Version: 1.1.3
   Description: Provides a standard for creating app stores across distributions
@@ -819,7 +823,7 @@
   Description: Tool to manage cargo cache
   Homepage: https://github.com/matthiaskrgr/cargo-cache
 - Package: cargo-leptos
-  Version: 0.3.6
+  Version: 0.3.7
   Description: Build tool for the Rust framework Leptos
   Homepage: https://github.com/leptos-rs/cargo-leptos
 - Package: catdoc
@@ -6647,7 +6651,7 @@
   Description: Static libraries for lua55
   Homepage: https://www.lua.org/
 - Package: luajit
-  Version: 1:2.1.1780076327+gb925b3e
+  Version: 1:2.1.1782726002+ga2bde60
   Description: Just-In-Time Compiler for Lua
   Homepage: https://luajit.org/
 - Package: luajit-lgi
@@ -6655,7 +6659,7 @@
   Description: Dynamic Lua binding to GObject libraries using GObject-Introspection
   Homepage: https://github.com/lgi-devs/lgi
 - Package: luajit-static
-  Version: 1:2.1.1780076327+gb925b3e
+  Version: 1:2.1.1782726002+ga2bde60
   Description: Static libraries for luajit
   Homepage: https://luajit.org/
 - Package: luarocks
@@ -6995,7 +6999,7 @@
   Description: tiny, portable SOCKS5 server with very moderate resource usage
   Homepage: https://github.com/rofl0r/microsocks
 - Package: miller
-  Version: 6.19.0
+  Version: 6.20.0
   Description: Like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
   Homepage: https://miller.readthedocs.io/
 - Package: mimetic

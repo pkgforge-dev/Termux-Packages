@@ -51,6 +51,7 @@
  apache2  1:2.4.68  Apache Web Server  https://httpd.apache.org 
  apkeep  1.0.0  A command-line tool for downloading APK files from various sources  https://github.com/EFForg/apkeep 
  apksigner  33.0.1-1  APK signing tool from Android SDK  https://developer.android.com/studio/command-line/apksigner 
+ apktool  3.0.2  A tool for reverse engineering Android apps (decoding, rebuilding, and smali debugging).  https://apktool.org/ 
  appstream  1.1.3  Provides a standard for creating app stores across distributions  https://www.freedesktop.org/wiki/Distributions/AppStream/ 
  apr  1.7.6-2  Apache Portable Runtime Library  https://apr.apache.org/ 
  apr-static  1.7.6-2  Static libraries for apr  https://apr.apache.org/ 
@@ -203,7 +204,7 @@
  cargo-binstall  1.20.1  Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem  https://github.com/cargo-bins/cargo-binstall 
  cargo-c  0.10.23  Cargo C-ABI helpers  https://github.com/lu-zero/cargo-c 
  cargo-cache  0.8.3  Tool to manage cargo cache  https://github.com/matthiaskrgr/cargo-cache 
- cargo-leptos  0.3.6  Build tool for the Rust framework Leptos  https://github.com/leptos-rs/cargo-leptos 
+ cargo-leptos  0.3.7  Build tool for the Rust framework Leptos  https://github.com/leptos-rs/cargo-leptos 
  catdoc  0.95-2  Program which reads MS-Word file and prints readable ASCII text to stdout  http://www.wagner.pp.ru/~vitus/software/catdoc/ 
  catgirl  2.2a-1  A TLS-only terminal IRC client  https://git.causal.agency/catgirl 
  catimg  2.8.0  Renders images in the terminal  https://posva.net/shell/retro/bash/2013/05/27/catimg 
@@ -1660,9 +1661,9 @@
  lua54-static  5.4.8-7  Static libraries for lua54  https://www.lua.org/ 
  lua55  5.5.0-3  Shared library for the Lua interpreter (v5.5.x)  https://www.lua.org/ 
  lua55-static  5.5.0-3  Static libraries for lua55  https://www.lua.org/ 
- luajit  1:2.1.1780076327+gb925b3e  Just-In-Time Compiler for Lua  https://luajit.org/ 
+ luajit  1:2.1.1782726002+ga2bde60  Just-In-Time Compiler for Lua  https://luajit.org/ 
  luajit-lgi  0.9.2+p20251219-3  Dynamic Lua binding to GObject libraries using GObject-Introspection  https://github.com/lgi-devs/lgi 
- luajit-static  1:2.1.1780076327+gb925b3e  Static libraries for luajit  https://luajit.org/ 
+ luajit-static  1:2.1.1782726002+ga2bde60  Static libraries for luajit  https://luajit.org/ 
  luarocks  3.13.0-1  Deployment and management system for Lua modules  https://luarocks.org/ 
  lunasvg  3.5.0-1  SVG rendering and manipulation library in C++  https://github.com/sammycage/lunasvg 
  luv  1.52.1-0-0  Bare libuv bindings for lua  https://github.com/luvit/luv 
@@ -1747,7 +1748,7 @@
  mg  20260227-1  microscopic GNU Emacs-style editor  https://github.com/hboetes/mg 
  micro  2.0.15-1  Modern and intuitive terminal-based text editor  https://micro-editor.github.io/ 
  microsocks  1:1.0.5-1  tiny, portable SOCKS5 server with very moderate resource usage  https://github.com/rofl0r/microsocks 
- miller  6.19.0  Like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON  https://miller.readthedocs.io/ 
+ miller  6.20.0  Like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON  https://miller.readthedocs.io/ 
  mimetic  0.9.8-2  A C++ Email library (MIME)  https://www.codesink.org/mimetic_mime_library.html 
  mimetic-static  0.9.8-2  Static libraries for mimetic  https://www.codesink.org/mimetic_mime_library.html 
  minesweeper  0.3.1-4  A simple terminal-based implementation of Minesweeper  https://github.com/benhsm/minesweeper 
