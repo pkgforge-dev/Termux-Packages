@@ -55,13 +55,13 @@
   },
   {
     "Package": "aapt",
-    "Version": "16.0.0.4",
+    "Version": "16.0.0.4-1",
     "Description": "Android Asset Packaging Tool",
     "Homepage": "https://github.com/termux/android-build-tools"
   },
   {
     "Package": "aapt2",
-    "Version": "16.0.0.4",
+    "Version": "16.0.0.4-1",
     "Description": "AAPT2 (Android Asset Packaging Tool)",
     "Homepage": "https://github.com/termux/android-build-tools"
   },
@@ -85,7 +85,7 @@
   },
   {
     "Package": "abseil-cpp",
-    "Version": "20250814.1",
+    "Version": "20260526.0",
     "Description": "Abseil C++ Common Libraries",
     "Homepage": "https://abseil.io/"
   },
@@ -151,7 +151,7 @@
   },
   {
     "Package": "aidl",
-    "Version": "16.0.0.4",
+    "Version": "16.0.0.4-1",
     "Description": "Android Interface Definition Language (AIDL)",
     "Homepage": "https://github.com/termux/android-build-tools"
   },
@@ -217,7 +217,7 @@
   },
   {
     "Package": "android-tools",
-    "Version": "35.0.2-7",
+    "Version": "35.0.2-8",
     "Description": "Android platform tools",
     "Homepage": "https://developer.android.com/"
   },
@@ -295,7 +295,7 @@
   },
   {
     "Package": "apache-orc",
-    "Version": "2.3.0-1",
+    "Version": "2.3.0-2",
     "Description": "Columnar storage for Hadoop workloads",
     "Homepage": "https://orc.apache.org/"
   },
@@ -2785,7 +2785,7 @@
   },
   {
     "Package": "et",
-    "Version": "6.2.11-3",
+    "Version": "6.2.11-4",
     "Description": "A remote shell that automatically reconnects without interrupting the session",
     "Homepage": "https://eternalterminal.dev"
   },
@@ -5539,7 +5539,7 @@
   },
   {
     "Package": "libarrow-cpp",
-    "Version": "24.0.0-1",
+    "Version": "24.0.0-2",
     "Description": "C++ libraries for Apache Arrow",
     "Homepage": "https://github.com/apache/arrow"
   },
@@ -6589,7 +6589,7 @@
   },
   {
     "Package": "libgrpc",
-    "Version": "1.82.0",
+    "Version": "1.82.0-1",
     "Description": "High performance, open source, general RPC framework that puts mobile and HTTP/2 first",
     "Homepage": "https://grpc.io/"
   },
@@ -7813,13 +7813,13 @@
   },
   {
     "Package": "libosmpbf",
-    "Version": "1.5.1-3",
+    "Version": "1.5.1-4",
     "Description": "osmpbf is a Java/C library to read and write OpenStreetMap PBF files",
     "Homepage": "https://github.com/openstreetmap/OSM-binary/"
   },
   {
     "Package": "libosmpbf-static",
-    "Version": "1.5.1-3",
+    "Version": "1.5.1-4",
     "Description": "Static libraries for libosmpbf",
     "Homepage": "https://github.com/openstreetmap/OSM-binary/"
   },
@@ -8035,19 +8035,19 @@
   },
   {
     "Package": "libprotobuf",
-    "Version": "2:33.1-1",
+    "Version": "2:35.1",
     "Description": "Protocol buffers C++ library",
     "Homepage": "https://github.com/protocolbuffers/protobuf"
   },
   {
     "Package": "libprotobuf-c",
-    "Version": "1.5.2-3",
+    "Version": "1.5.2-4",
     "Description": "Protocol buffers C library",
     "Homepage": "https://github.com/protobuf-c/protobuf-c"
   },
   {
     "Package": "libprotobuf-c-static",
-    "Version": "1.5.2-3",
+    "Version": "1.5.2-4",
     "Description": "Static libraries for libprotobuf-c",
     "Homepage": "https://github.com/protobuf-c/protobuf-c"
   },
@@ -8137,7 +8137,7 @@
   },
   {
     "Package": "libre2",
-    "Version": "2025-11-05-1",
+    "Version": "2025-11-05-2",
     "Description": "A regular expression library",
     "Homepage": "https://github.com/google/re2"
   },
@@ -9181,7 +9181,7 @@
   },
   {
     "Package": "libwebrtc-audio-processing",
-    "Version": "1.3-4",
+    "Version": "1.3-5",
     "Description": "A library containing the AudioProcessing module from the WebRTC project",
     "Homepage": "https://www.freedesktop.org/software/pulseaudio/webrtc-audio-processing/"
   },
@@ -10633,7 +10633,7 @@
   },
   {
     "Package": "monero",
-    "Version": "0.18.5.1",
+    "Version": "0.18.5.1-1",
     "Description": "A private, secure, untraceable, decentralised digital currency",
     "Homepage": "https://getmonero.org/"
   },
@@ -10705,13 +10705,13 @@
   },
   {
     "Package": "mosh",
-    "Version": "1.4.0-16",
+    "Version": "1.4.0-17",
     "Description": "Mobile shell that supports roaming and intelligent local echo",
     "Homepage": "https://mosh.org"
   },
   {
     "Package": "mosh-perl",
-    "Version": "1.4.0-16",
+    "Version": "1.4.0-17",
     "Description": "The mosh Perl script",
     "Homepage": "https://mosh.org"
   },
@@ -11545,7 +11545,7 @@
   },
   {
     "Package": "onnxruntime",
-    "Version": "1.27.0-1",
+    "Version": "1.27.0-2",
     "Description": "Cross-platform, high performance ML inferencing and training accelerator",
     "Homepage": "https://onnxruntime.ai/"
   },
@@ -12325,13 +12325,13 @@
   },
   {
     "Package": "pikiwidb",
-    "Version": "3.5.6-1",
+    "Version": "3.5.6-2",
     "Description": "Redis-Compatible database developed by Qihoos infrastructure team",
     "Homepage": "https://github.com/OpenAtomFoundation/pikiwidb"
   },
   {
     "Package": "pikiwidb-static",
-    "Version": "3.5.6-1",
+    "Version": "3.5.6-2",
     "Description": "Static libraries for pikiwidb",
     "Homepage": "https://github.com/OpenAtomFoundation/pikiwidb"
   },
@@ -12613,7 +12613,7 @@
   },
   {
     "Package": "protobuf",
-    "Version": "2:33.1-1",
+    "Version": "2:35.1",
     "Description": "Compiler for protocol buffer definition files",
     "Homepage": "https://github.com/protocolbuffers/protobuf"
   },
@@ -12628,6 +12628,12 @@
     "Version": "2009-11A-2",
     "Description": "An automated theorem prover for first-order and equational logic",
     "Homepage": "https://www.cs.unm.edu/~mccune/prover9/"
+  },
+  {
+    "Package": "prowlarr",
+    "Version": "2.4.0.5397",
+    "Description": "An indexer manager/proxy built on the popular arr stack (server)",
+    "Homepage": "https://prowlarr.com"
   },
   {
     "Package": "proxychains-ng",
@@ -12829,7 +12835,7 @@
   },
   {
     "Package": "python-grpcio",
-    "Version": "1.82.0",
+    "Version": "1.82.0-1",
     "Description": "High performance, open source, general RPC framework that puts mobile and HTTP/2 first",
     "Homepage": "https://grpc.io/"
   },
@@ -12877,7 +12883,7 @@
   },
   {
     "Package": "python-onnxruntime",
-    "Version": "1.27.0-1",
+    "Version": "1.27.0-2",
     "Description": "Cross-platform, high performance ML inferencing and training accelerator (Python bindings)",
     "Homepage": "https://onnxruntime.ai/"
   },
@@ -12901,7 +12907,7 @@
   },
   {
     "Package": "python-pyarrow",
-    "Version": "24.0.0-1",
+    "Version": "24.0.0-2",
     "Description": "Python bindings for Apache Arrow",
     "Homepage": "https://github.com/apache/arrow"
   },
@@ -12973,13 +12979,13 @@
   },
   {
     "Package": "python-torch",
-    "Version": "2.11.0-1",
+    "Version": "2.11.0-2",
     "Description": "Tensors and Dynamic neural networks in Python",
     "Homepage": "https://pytorch.org/"
   },
   {
     "Package": "python-torch-static",
-    "Version": "2.11.0-1",
+    "Version": "2.11.0-2",
     "Description": "Static libraries for python-torch",
     "Homepage": "https://pytorch.org/"
   },
@@ -13258,6 +13264,12 @@
     "Version": "6.1.8",
     "Description": "UNIX-like reverse engineering framework and command-line toolset",
     "Homepage": "https://www.radare.org/"
+  },
+  {
+    "Package": "radarr",
+    "Version": "6.2.1.10461",
+    "Description": "A PVR for Usenet and BitTorrent users (server)",
+    "Homepage": "https://radarr.video"
   },
   {
     "Package": "rage",
@@ -13980,6 +13992,12 @@
     "Homepage": "https://www.gnu.org/software/sed/"
   },
   {
+    "Package": "seerr",
+    "Version": "3.3.0",
+    "Description": "A fork of Overseerr with focus on adding support for Jellyfin/Emby",
+    "Homepage": "https://github.com/seerr-team/seerr"
+  },
+  {
     "Package": "sendme",
     "Version": "0.36.0",
     "Description": "A tool to send files and directories, based on iroh",
@@ -14284,6 +14302,12 @@
     "Version": "0.8.35",
     "Description": "An Ethereum smart contract-oriented language",
     "Homepage": "https://www.soliditylang.org/"
+  },
+  {
+    "Package": "sonarr",
+    "Version": "4.0.17.2952",
+    "Description": "A PVR for Usenet and BitTorrent users (server)",
+    "Homepage": "https://sonarr.tv"
   },
   {
     "Package": "sops",
@@ -14827,7 +14851,7 @@
   },
   {
     "Package": "sysprop",
-    "Version": "16.0.0.4",
+    "Version": "16.0.0.4-1",
     "Description": "Android sysprop generators",
     "Homepage": "https://github.com/termux/android-build-tools"
   },
@@ -15061,7 +15085,7 @@
   },
   {
     "Package": "termux-gui-c",
-    "Version": "0.1.3-6",
+    "Version": "0.1.3-7",
     "Description": "A C library for the Termux:GUI plugin",
     "Homepage": "https://github.com/tareksander/termux-gui-c-bindings"
   },
