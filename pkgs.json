@@ -4483,19 +4483,19 @@
   },
   {
     "Package": "httrack",
-    "Version": "3.49.10",
+    "Version": "3.49.11",
     "Description": "It allows you to download a World Wide Web site from the Internet",
     "Homepage": "http://www.httrack.com"
   },
   {
     "Package": "httrack-data",
-    "Version": "3.49.10",
+    "Version": "3.49.11",
     "Description": "Platform-independent data for httrack",
     "Homepage": "http://www.httrack.com"
   },
   {
     "Package": "httrack-static",
-    "Version": "3.49.10",
+    "Version": "3.49.11",
     "Description": "Static libraries for httrack",
     "Homepage": "http://www.httrack.com"
   },
@@ -9055,7 +9055,7 @@
   },
   {
     "Package": "libvips",
-    "Version": "8.18.3",
+    "Version": "8.18.4",
     "Description": "A fast image processing library with low memory needs",
     "Homepage": "https://libvips.github.io/libvips/"
   },
@@ -10489,7 +10489,7 @@
   },
   {
     "Package": "micro",
-    "Version": "2.0.15-1",
+    "Version": "2.0.15-2",
     "Description": "Modern and intuitive terminal-based text editor",
     "Homepage": "https://micro-editor.github.io/"
   },
@@ -11851,7 +11851,7 @@
   },
   {
     "Package": "osm2pgsql",
-    "Version": "2.3.0",
+    "Version": "2.3.1",
     "Description": "osm2pgsql imports OpenStreetMap (OSM) data into a PostgreSQL/PostGIS database",
     "Homepage": "https://osm2pgsql.org/"
   },
@@ -12775,7 +12775,7 @@
   },
   {
     "Package": "python",
-    "Version": "3.14.6",
+    "Version": "3.14.6-1",
     "Description": "Python 3 programming language intended to enable clear programs",
     "Homepage": "https://python.org/"
   },
@@ -12823,7 +12823,7 @@
   },
   {
     "Package": "python-ensurepip-wheels",
-    "Version": "3.14.6",
+    "Version": "3.14.6-1",
     "Description": "Wheels for Python ensurepip",
     "Homepage": "https://python.org/"
   },
@@ -12955,7 +12955,7 @@
   },
   {
     "Package": "python-static",
-    "Version": "3.14.6",
+    "Version": "3.14.6-1",
     "Description": "Static libraries for python",
     "Homepage": "https://python.org/"
   },
@@ -12967,7 +12967,7 @@
   },
   {
     "Package": "python-tkinter",
-    "Version": "3.14.6",
+    "Version": "3.14.6-1",
     "Description": "Tkinter support for Python 3",
     "Homepage": "https://python.org/"
   },
@@ -13489,7 +13489,7 @@
   },
   {
     "Package": "restic",
-    "Version": "0.19.0",
+    "Version": "0.19.1",
     "Description": "Fast, secure, efficient backup program",
     "Homepage": "https://restic.net/"
   },
@@ -14773,7 +14773,7 @@
   },
   {
     "Package": "swi-prolog",
-    "Version": "10.1.10-2",
+    "Version": "10.1.11-1",
     "Description": "Most popular and complete prolog implementation",
     "Homepage": "https://swi-prolog.org/"
   },
