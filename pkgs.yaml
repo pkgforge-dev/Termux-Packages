@@ -1099,7 +1099,7 @@
   Description: Tool to colorize diff output
   Homepage: https://www.colordiff.org/
 - Package: command-not-found
-  Version: 3.5.0
+  Version: 3.5.0-1
   Description: Suggest installation of packages in interactive shell sessions
   Homepage: https://github.com/termux/command-not-found
 - Package: composer
@@ -7419,7 +7419,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-906+g44baf03f2a-0
+  Version: 0.13.0~dev-915+g3b8c19ea46-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -8567,7 +8567,7 @@
   Description: A straightforward binding of libsass for Python
   Homepage: https://github.com/sass/libsass-python
 - Package: python-llvmlite
-  Version: 0.47.0-3
+  Version: 0.48.0-3
   Description: A lightweight LLVM python binding for writing JIT compilers
   Homepage: https://llvmlite.pydata.org/
 - Package: python-lxml
