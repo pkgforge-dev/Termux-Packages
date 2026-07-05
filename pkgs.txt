@@ -26,7 +26,7 @@
  aidl  16.0.0.4-1  Android Interface Definition Language (AIDL)  https://github.com/termux/android-build-tools 
  alass  2.0.0-4  Automatic Language-Agnostic Subtitle Synchronization  https://github.com/kaegi/alass 
  alembic  1.8.12  A framework for sharing scene data that includes a C++ lib, a file format and client plugin  https://alembic.io 
- algernon  1.17.9  Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support  https://algernon.roboticoverlords.org/ 
+ algernon  1.17.10  Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support  https://algernon.roboticoverlords.org/ 
  alpine  2.26-1  Fast, easy to use email client  http://alpine.x10host.com/ 
  alsa-lib  1.2.16.1  The Advanced Linux Sound Architecture (ALSA) - library  https://www.alsa-project.org 
  alsa-plugins  1.2.12-1  The Advanced Linux Sound Architecture (ALSA) - plugins  https://www.alsa-project.org 
@@ -1576,8 +1576,8 @@
  libxmlb  0.3.28  Library to help create and query binary XML blobs  https://github.com/hughsie/libxmlb 
  libxmlrpc  1.64.03  XML-RPC for C and C++  https://xmlrpc-c.sourceforge.io/ 
  libxmlrpc-static  1.64.03  Static libraries for libxmlrpc  https://xmlrpc-c.sourceforge.io/ 
- libxmp  4.7.0  Extended Module Player C Library that renders tracker and module music (MOD, S3M, IT, XM etc.)  https://github.com/libxmp/libxmp 
- libxmp-static  4.7.0  Static libraries for libxmp  https://github.com/libxmp/libxmp 
+ libxmp  4.7.1  Extended Module Player C Library that renders tracker and module music (MOD, S3M, IT, XM etc.)  https://github.com/libxmp/libxmp 
+ libxmp-static  4.7.1  Static libraries for libxmp  https://github.com/libxmp/libxmp 
  libxrandr  1.5.5  X11 RandR extension library  https://xorg.freedesktop.org/ 
  libxrandr-static  1.5.5  Static libraries for libxrandr  https://xorg.freedesktop.org/ 
  libxrender  0.9.12-1  X Rendering Extension client library  https://xorg.freedesktop.org/ 
@@ -1748,7 +1748,7 @@
  mg  20260227-1  microscopic GNU Emacs-style editor  https://github.com/hboetes/mg 
  micro  2.0.15-1  Modern and intuitive terminal-based text editor  https://micro-editor.github.io/ 
  microsocks  1:1.0.5-1  tiny, portable SOCKS5 server with very moderate resource usage  https://github.com/rofl0r/microsocks 
- miller  6.20.0  Like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON  https://miller.readthedocs.io/ 
+ miller  6.20.2  Like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON  https://miller.readthedocs.io/ 
  mimetic  0.9.8-2  A C++ Email library (MIME)  https://www.codesink.org/mimetic_mime_library.html 
  mimetic-static  0.9.8-2  Static libraries for mimetic  https://www.codesink.org/mimetic_mime_library.html 
  minesweeper  0.3.1-4  A simple terminal-based implementation of Minesweeper  https://github.com/benhsm/minesweeper 
@@ -2098,7 +2098,7 @@
  profanity  0.18.2-1  Profanity is a console based XMPP client written in C using ncurses and libstrophe, inspired by Irssi  https://profanity-im.github.io 
  progress  0.17-1  Linux tool to show progress for cp, mv, dd and more  https://github.com/Xfennec/progress 
  proj  9.8.1  Generic coordinate transformation software  https://proj.org 
- proot  5.1.107.81  Emulate chroot, bind mount and binfmt_misc for non-root users  https://proot-me.github.io/ 
+ proot  5.1.107.82  Emulate chroot, bind mount and binfmt_misc for non-root users  https://proot-me.github.io/ 
  proot-distro  5.4.0-1  Termux official utility for managing proot'ed Linux distributions  https://github.com/termux/proot-distro 
  protobuf  2:35.1  Compiler for protocol buffer definition files  https://github.com/protocolbuffers/protobuf 
  proton-bridge  3.25.0  ProtonMail Bridge application  https://github.com/ProtonMail/proton-bridge 
@@ -2169,7 +2169,7 @@
  python-trash-cli  0.24.5.26-1  Command line trashcan (recycle bin) interface  https://github.com/andreafrancia/trash-cli 
  python-xcbgen  1.17.0-3  The xcbgen Python module  https://xcb.freedesktop.org/ 
  python-xlib  0.33-4  The Python X Library  https://github.com/python-xlib/python-xlib 
- python-yt-dlp  2026.06.09-1  A youtube-dl fork with additional features and fixes  https://github.com/yt-dlp/yt-dlp 
+ python-yt-dlp  2026.07.04  A youtube-dl fork with additional features and fixes  https://github.com/yt-dlp/yt-dlp 
  python2  2.7.18-15  Python 2 programming language intended to enable clear programs  http://python.org/ 
  python2-static  2.7.18-15  Static libraries for python2  http://python.org/ 
  pyunbound  1.25.1  Python bindings for Unbound  https://unbound.net/ 

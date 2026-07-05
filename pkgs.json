@@ -169,7 +169,7 @@
   },
   {
     "Package": "algernon",
-    "Version": "1.17.9",
+    "Version": "1.17.10",
     "Description": "Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support",
     "Homepage": "https://algernon.roboticoverlords.org/"
   },
@@ -9469,13 +9469,13 @@
   },
   {
     "Package": "libxmp",
-    "Version": "4.7.0",
+    "Version": "4.7.1",
     "Description": "Extended Module Player C Library that renders tracker and module music (MOD, S3M, IT, XM etc.)",
     "Homepage": "https://github.com/libxmp/libxmp"
   },
   {
     "Package": "libxmp-static",
-    "Version": "4.7.0",
+    "Version": "4.7.1",
     "Description": "Static libraries for libxmp",
     "Homepage": "https://github.com/libxmp/libxmp"
   },
@@ -10501,7 +10501,7 @@
   },
   {
     "Package": "miller",
-    "Version": "6.20.0",
+    "Version": "6.20.2",
     "Description": "Like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON",
     "Homepage": "https://miller.readthedocs.io/"
   },
@@ -12601,7 +12601,7 @@
   },
   {
     "Package": "proot",
-    "Version": "5.1.107.81",
+    "Version": "5.1.107.82",
     "Description": "Emulate chroot, bind mount and binfmt_misc for non-root users",
     "Homepage": "https://proot-me.github.io/"
   },
@@ -13027,7 +13027,7 @@
   },
   {
     "Package": "python-yt-dlp",
-    "Version": "2026.06.09-1",
+    "Version": "2026.07.04",
     "Description": "A youtube-dl fork with additional features and fixes",
     "Homepage": "https://github.com/yt-dlp/yt-dlp"
   },
