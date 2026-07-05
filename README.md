@@ -829,7 +829,7 @@
 | **jcal-static** | 0.5.1-1 | Static libraries for jcal | http://nongnu.org/jcal |
 | **jellyfin-ffmpeg** | 10.11.11 | FFmpeg for Jellyfin with custom extensions and enhancements | https://jellyfin.org |
 | **jellyfin-server** | 10.11.11 | A free media system for organizing and streaming media (server) | https://jellyfin.org |
-| **jfrog-cli** | 2.109.0 | A CLI for JFrog products | https://jfrog.com/getcli |
+| **jfrog-cli** | 2.112.0 | A CLI for JFrog products | https://jfrog.com/getcli |
 | **jftui** | 0.7.5 | jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server. | https://github.com/Aanok/jftui |
 | **jhead** | 3.08-1 | Exif Jpeg header manipulation tool | http://www.sentex.net/~mwandel/jhead/ |
 | **jigdo** | 0.8.2-1 | Distribute large images by sending and receiving the files that make them up | http://atterer.org/jigdo/ |
