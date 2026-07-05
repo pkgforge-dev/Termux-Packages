@@ -859,7 +859,7 @@
 | **kakoune** | 2026.05.21-1 | Code editor heavily inspired by Vim | https://kakoune.org/ |
 | **kakoune-lsp** | 21.0.1 | Language Server Protocol Client for the Kakoune editor | https://github.com/kakoune-lsp/kakoune-lsp |
 | **kbd** | 2.10.0 | KBD's showkey utility for examining keycodes | https://kbd-project.org/ |
-| **kew** | 4.0.0-1 | Music for the Shell | https://codeberg.org/ravachol/kew |
+| **kew** | 4.1.7 | Music for the Shell | https://codeberg.org/ravachol/kew |
 | **keybase** | 6.6.3 | Key directory that maps social media identities to encryption keys | https://keybase.io |
 | **keychain** | 2.9.8 | keychain ssh-agent front-end | https://www.funtoo.org/Keychain |
 | **kibi** | 0.3.3-1 | A tiny terminal text editor, written in Rust | https://github.com/ilai-deutel/kibi |
@@ -1916,8 +1916,8 @@
 | **ocl-icd** | 2.3.5 | OpenCL ICD Loader | https://github.com/OCL-dev/ocl-icd |
 | **ocrad** | 0.29-1 | Optical Character Recognition program based on a feature extraction method | https://www.gnu.org/software/ocrad/ocrad.html |
 | **ocrad-static** | 0.29-1 | Static libraries for ocrad | https://www.gnu.org/software/ocrad/ocrad.html |
-| **octave** | 2:10.3.0-2 | GNU Octave is a high-level language, primarily intended for numerical computations. (only CLI) | https://octave.org |
-| **octave-static** | 2:10.3.0-2 | Static libraries for octave | https://octave.org |
+| **octave** | 2:11.3.0 | GNU Octave is a high-level language, primarily intended for numerical computations. (only CLI) | https://octave.org |
+| **octave-static** | 2:11.3.0 | Static libraries for octave | https://octave.org |
 | **octomap** | 1.10.0-1 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0-1 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-5 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
@@ -2395,7 +2395,7 @@
 | **soju** | 0.10.1 | A user-friendly IRC bouncer | https://codeberg.org/emersion/soju |
 | **solidity** | 0.8.35 | An Ethereum smart contract-oriented language | https://www.soliditylang.org/ |
 | **sonarr** | 4.0.17.2952 | A PVR for Usenet and BitTorrent users (server) | https://sonarr.tv |
-| **sops** | 3.13.1 | Simple and flexible tool for managing secrets | https://github.com/getsops/sops |
+| **sops** | 3.13.2 | Simple and flexible tool for managing secrets | https://github.com/getsops/sops |
 | **sord** | 0.16.22 | A lightweight C library for storing RDF data in memory | https://drobilla.net/software/sord.html |
 | **sound-theme-freedesktop** | 0.8 | Freedesktop sound theme | https://freedesktop.org/wiki/Specifications/sound-theme-spec |
 | **sourcekit-lsp** | 6.2.1 | Language Server Protocol implementation for Swift and C-based languages | https://swift.org/ |

@@ -3395,7 +3395,7 @@
   Description: KBDs showkey utility for examining keycodes
   Homepage: https://kbd-project.org/
 - Package: kew
-  Version: 4.0.0-1
+  Version: 4.1.7
   Description: Music for the Shell
   Homepage: https://codeberg.org/ravachol/kew
 - Package: keybase
@@ -7623,11 +7623,11 @@
   Description: Static libraries for ocrad
   Homepage: https://www.gnu.org/software/ocrad/ocrad.html
 - Package: octave
-  Version: 2:10.3.0-2
+  Version: 2:11.3.0
   Description: GNU Octave is a high-level language, primarily intended for numerical computations. (only CLI)
   Homepage: https://octave.org
 - Package: octave-static
-  Version: 2:10.3.0-2
+  Version: 2:11.3.0
   Description: Static libraries for octave
   Homepage: https://octave.org
 - Package: octomap
@@ -9539,7 +9539,7 @@
   Description: A PVR for Usenet and BitTorrent users (server)
   Homepage: https://sonarr.tv
 - Package: sops
-  Version: 3.13.1
+  Version: 3.13.2
   Description: Simple and flexible tool for managing secrets
   Homepage: https://github.com/getsops/sops
 - Package: sord
