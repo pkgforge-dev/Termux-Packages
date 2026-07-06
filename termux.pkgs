@@ -123,7 +123,7 @@
 | **barcode** | 0.99-5 | Tool to convert text strings to printed bars | https://www.gnu.org/software/barcode/ |
 | **base16384** | 2.3.2-1 | Encode binary to printable utf16be | https://github.com/fumiama/base16384 |
 | **bash** | 5.3.9-1 | A sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh) | https://www.gnu.org/software/bash/ |
-| **bash-completion** | 2.17.0-2 | Programmable completion for the bash shell | https://github.com/scop/bash-completion |
+| **bash-completion** | 2.18.0 | Programmable completion for the bash shell | https://github.com/scop/bash-completion |
 | **bastet** | 0.43.2-13 | Tetris clone with 'bastard' block-choosing AI | http://fph.altervista.org/prog/bastet.html |
 | **bat** | 0.26.1-1 | A cat(1) clone with wings | https://github.com/sharkdp/bat |
 | **bc** | 1.08.2-1 | Arbitrary precision numeric processing language | https://www.gnu.org/software/bc/ |
@@ -184,7 +184,7 @@
 | **byacc** | 20260126 | byacc is generally conceded to be the best yacc variant available | https://invisible-island.net/byacc/ |
 | **byobu** | 7.14 | Byobu is a GPLv3 open source text-based window manager and terminal multiplexer | https://www.byobu.org/ |
 | **bzip2** | 1.0.8-8 | Tools for working with bzip2 compression | http://www.bzip.org/ |
-| **c-ares** | 1.34.6 | Library for asynchronous DNS requests (including name resolves) | https://c-ares.org/ |
+| **c-ares** | 1.34.7 | Library for asynchronous DNS requests (including name resolves) | https://c-ares.org/ |
 | **c-toxcore** | 0.2.22 | Backend library for the Tox protocol | https://tox.chat |
 | **c-toxcore-static** | 0.2.22 | Static libraries for c-toxcore | https://tox.chat |
 | **ca-certificates** | 1:2026.05.14 | Common CA certificates | https://curl.se/docs/caextract.html |
@@ -548,7 +548,7 @@
 | **fwknop** | 2.6.11-2 | fwknop: Single Packet Authorization > Port Knocking | https://www.cipherdyne.org/fwknop/ |
 | **fwknop-static** | 2.6.11-2 | Static libraries for fwknop | https://www.cipherdyne.org/fwknop/ |
 | **fx** | 39.2.0 | Interactive JSON viewer on your terminal | https://github.com/antonmedv/fx |
-| **fzf** | 0.73.1 | Command-line fuzzy finder | https://junegunn.github.io/fzf/ |
+| **fzf** | 0.74.0 | Command-line fuzzy finder | https://junegunn.github.io/fzf/ |
 | **fzy** | 1.1-1 | A simple, fast fuzzy finder for the terminal | https://github.com/jhawthorn/fzy |
 | **g-ir-scanner** | 1.86.0-2 | A tool which generates GIR XML files | https://gi.readthedocs.io/ |
 | **game-music-emu** | 0.6.5 | A collection of video game music file emulators | https://bitbucket.org/mpyne/game-music-emu/wiki/Home |
@@ -749,7 +749,7 @@
 | **httrack-data** | 3.49.11 | Platform-independent data for httrack | http://www.httrack.com |
 | **httrack-static** | 3.49.11 | Static libraries for httrack | http://www.httrack.com |
 | **hub** | 2.14.2-6 | Command-line wrapper for git that makes you better at GitHub | https://hub.github.com/ |
-| **hugo** | 0.163.3 | A fast and flexible static site generator | https://gohugo.io/ |
+| **hugo** | 0.164.0 | A fast and flexible static site generator | https://gohugo.io/ |
 | **hummin** | 2021.05.18-4 | Command line client for the imperial library of trantor | https://trantor.is/ |
 | **hunspell** | 1.7.3 | Spell checker | https://hunspell.github.io |
 | **hunspell-en-us** | 20240129 | American english dictionary for hunspell | https://hunspell.github.io |
@@ -1670,7 +1670,7 @@
 | **luvi** | 1:2.15.0-2 | A project in-between luv and luvit | https://luvit.io |
 | **luvit** | 2.18.1-1 | Asynchronous I/O for Lua | https://luvit.io |
 | **lux** | 0.24.1-2 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
-| **lux-cli** | 0.35.1 | A package manager for Lua, similar to luarocks | https://lux.lumen-labs.org |
+| **lux-cli** | 0.35.2 | A package manager for Lua, similar to luarocks | https://lux.lumen-labs.org |
 | **lv2** | 1.18.10-7 | A plugin standard for audio systems | https://lv2plug.in/ |
 | **lychee** | 0.24.2 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
 | **lynx** | 2.9.2-1 | The text web browser | http://lynx.browser.org/ |
@@ -1711,7 +1711,7 @@
 | **mc** | 4.8.33-2 | Midnight Commander - a powerful file manager | https://midnight-commander.org |
 | **mcfly** | 0.9.4 | Replaces your default ctrl-r shell history search with an intelligent search engine | https://github.com/cantino/mcfly |
 | **md4c** | 0.5.3 | C Markdown parser | https://github.com/mity/md4c |
-| **mdbook** | 0.5.3 | Creates book from markdown files | https://rust-lang.github.io/mdBook/ |
+| **mdbook** | 0.5.4 | Creates book from markdown files | https://rust-lang.github.io/mdBook/ |
 | **mdbook-auto-gen-summary** | 0.1.10 | A preprocessor and cli tool for mdbook to auto generate summary | https://github.com/cococolanosugar/mdbook-auto-gen-summary |
 | **mdbook-cat-prep** | 1.0.9 | A preprocessor for mdbook which provides teacher, subject, material and tag functionality | https://github.com/gjk-cat/cat-prep |
 | **mdbook-epub** | 0.5.2 | An EPUB renderer for mdbook | https://github.com/Michael-F-Bryan/mdbook-epub |
@@ -1959,13 +1959,13 @@
 | **opensc** | 0.27.1 | Open source smart card tools and middleware | https://github.com/OpenSC/OpenSC |
 | **opensc-static** | 0.27.1 | Static libraries for opensc | https://github.com/OpenSC/OpenSC |
 | **openscad** | 2021.01-6 | The programmers solid 3D CAD modeller (headless build) | https://openscad.org/ |
-| **openssh** | 10.3p1-1 | Secure shell for logging into a remote machine | https://www.openssh.com/ |
-| **openssh-sftp-server** | 10.3p1-1 | OpenSSH SFTP server subsystem | https://www.openssh.com/ |
+| **openssh** | 10.4p1 | Secure shell for logging into a remote machine | https://www.openssh.com/ |
+| **openssh-sftp-server** | 10.4p1 | OpenSSH SFTP server subsystem | https://www.openssh.com/ |
 | **openssl** | 1:3.6.3 | Library implementing the SSL and TLS protocols as well as general purpose cryptography functions | https://www.openssl.org/ |
 | **openssl-static** | 1:3.6.3 | Static libraries for openssl | https://www.openssl.org/ |
 | **openssl-tool** | 1:3.6.3 | The openssl command line cryptographic tool | https://www.openssl.org/ |
 | **opentimelineio** | 0.18.1 | Open Source API and interchange format for editorial timeline information. | http://opentimeline.io/ |
-| **openxr** | 1.1.60-1 | Open standard that provides a common set of APIs for developing XR applications | https://www.khronos.org/openxr/ |
+| **openxr** | 1.1.61 | Open standard that provides a common set of APIs for developing XR applications | https://www.khronos.org/openxr/ |
 | **opkssh** | 0.15.0 | Enables SSH to be used with OpenID Connect | https://github.com/openpubkey/opkssh |
 | **optipng** | 7.9.1-1 | PNG optimizer that recompresses image files to a smaller size, without losing any information | https://optipng.sourceforge.net/ |
 | **opus-tools** | 0.2-4 | Utilities to encode and decode .opus files | https://www.opus-codec.org/ |

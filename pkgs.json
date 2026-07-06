@@ -751,7 +751,7 @@
   },
   {
     "Package": "bash-completion",
-    "Version": "2.17.0-2",
+    "Version": "2.18.0",
     "Description": "Programmable completion for the bash shell",
     "Homepage": "https://github.com/scop/bash-completion"
   },
@@ -1117,7 +1117,7 @@
   },
   {
     "Package": "c-ares",
-    "Version": "1.34.6",
+    "Version": "1.34.7",
     "Description": "Library for asynchronous DNS requests (including name resolves)",
     "Homepage": "https://c-ares.org/"
   },
@@ -3301,7 +3301,7 @@
   },
   {
     "Package": "fzf",
-    "Version": "0.73.1",
+    "Version": "0.74.0",
     "Description": "Command-line fuzzy finder",
     "Homepage": "https://junegunn.github.io/fzf/"
   },
@@ -4507,7 +4507,7 @@
   },
   {
     "Package": "hugo",
-    "Version": "0.163.3",
+    "Version": "0.164.0",
     "Description": "A fast and flexible static site generator",
     "Homepage": "https://gohugo.io/"
   },
@@ -10033,7 +10033,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.35.1",
+    "Version": "0.35.2",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://lux.lumen-labs.org"
   },
@@ -10279,7 +10279,7 @@
   },
   {
     "Package": "mdbook",
-    "Version": "0.5.3",
+    "Version": "0.5.4",
     "Description": "Creates book from markdown files",
     "Homepage": "https://rust-lang.github.io/mdBook/"
   },
@@ -11767,13 +11767,13 @@
   },
   {
     "Package": "openssh",
-    "Version": "10.3p1-1",
+    "Version": "10.4p1",
     "Description": "Secure shell for logging into a remote machine",
     "Homepage": "https://www.openssh.com/"
   },
   {
     "Package": "openssh-sftp-server",
-    "Version": "10.3p1-1",
+    "Version": "10.4p1",
     "Description": "OpenSSH SFTP server subsystem",
     "Homepage": "https://www.openssh.com/"
   },
@@ -11803,7 +11803,7 @@
   },
   {
     "Package": "openxr",
-    "Version": "1.1.60-1",
+    "Version": "1.1.61",
     "Description": "Open standard that provides a common set of APIs for developing XR applications",
     "Homepage": "https://www.khronos.org/openxr/"
   },
