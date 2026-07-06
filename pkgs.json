@@ -8383,7 +8383,7 @@
   },
   {
     "Package": "libskiasharp",
-    "Version": "3.116.1.20241024",
+    "Version": "3.116.1.20241024-1",
     "Description": "SkiaSharp is a cross-platform 2D graphics API for .NET platforms",
     "Homepage": "https://github.com/mono/SkiaSharp"
   },
@@ -8809,7 +8809,7 @@
   },
   {
     "Package": "libtorrent",
-    "Version": "0.16.16",
+    "Version": "0.16.17",
     "Description": "Libtorrent BitTorrent library",
     "Homepage": "https://github.com/rakshasa/rtorrent/wiki"
   },
@@ -8821,7 +8821,7 @@
   },
   {
     "Package": "libtorrent-static",
-    "Version": "0.16.16",
+    "Version": "0.16.17",
     "Description": "Static libraries for libtorrent",
     "Homepage": "https://github.com/rakshasa/rtorrent/wiki"
   },
@@ -12601,7 +12601,7 @@
   },
   {
     "Package": "proot",
-    "Version": "5.1.107.82",
+    "Version": "5.1.107.83",
     "Description": "Emulate chroot, bind mount and binfmt_misc for non-root users",
     "Homepage": "https://proot-me.github.io/"
   },
@@ -13663,7 +13663,7 @@
   },
   {
     "Package": "rtorrent",
-    "Version": "0.16.16",
+    "Version": "0.16.17",
     "Description": "Ncurses BitTorrent client based on libTorrent",
     "Homepage": "https://rakshasa.github.io/rtorrent/"
   },
@@ -13747,7 +13747,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20260629",
+    "Version": "20260706",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://rust-analyzer.github.io/"
   },
@@ -16321,7 +16321,7 @@
   },
   {
     "Package": "wasmedge",
-    "Version": "0.17.0",
+    "Version": "0.17.1",
     "Description": "A lightweight, high-performance, and extensible WebAssembly runtime",
     "Homepage": "https://wasmedge.org/"
   },

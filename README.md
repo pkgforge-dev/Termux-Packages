@@ -1407,7 +1407,7 @@
 | **libsigsegv** | 2.14-1 | GNU libsigsegv is a library for handling page faults in user mode | https://www.gnu.org/software/libsigsegv/ |
 | **libsigsegv-static** | 2.14-1 | Static libraries for libsigsegv | https://www.gnu.org/software/libsigsegv/ |
 | **libsixel** | 1.10.5-1 | Encoder/decoder implementation for DEC SIXEL graphics | https://saitoha.github.io/libsixel/ |
-| **libskiasharp** | 3.116.1.20241024 | SkiaSharp is a cross-platform 2D graphics API for .NET platforms | https://github.com/mono/SkiaSharp |
+| **libskiasharp** | 3.116.1.20241024-1 | SkiaSharp is a cross-platform 2D graphics API for .NET platforms | https://github.com/mono/SkiaSharp |
 | **libslirp** | 4.8.0-2 | A general purpose TCP-IP emulator | https://gitlab.freedesktop.org/slirp/libslirp |
 | **libsm** | 1.2.6-1 | X11 Session Management library | https://xorg.freedesktop.org/ |
 | **libsmartcols** | 2.42.1-3 | Library for smart adaptive formatting of tabular data | https://en.wikipedia.org/wiki/Util-linux |
@@ -1478,9 +1478,9 @@
 | **libtommath** | 1.3.0 | A free open source portable number theoretic multiple-precision integer library | https://www.libtom.net/LibTomMath/ |
 | **libtommath-static** | 1.3.0 | Static libraries for libtommath | https://www.libtom.net/LibTomMath/ |
 | **libtool** | 2.5.4-2 | Generic library support script hiding the complexity of using shared libraries behind a consistent, portable interface | https://www.gnu.org/software/libtool/ |
-| **libtorrent** | 0.16.16 | Libtorrent BitTorrent library | https://github.com/rakshasa/rtorrent/wiki |
+| **libtorrent** | 0.16.17 | Libtorrent BitTorrent library | https://github.com/rakshasa/rtorrent/wiki |
 | **libtorrent-rasterbar** | 2.0.13-2 | A feature complete C++ bittorrent implementation focusing on efficiency and scalability | https://libtorrent.org/ |
-| **libtorrent-static** | 0.16.16 | Static libraries for libtorrent | https://github.com/rakshasa/rtorrent/wiki |
+| **libtorrent-static** | 0.16.17 | Static libraries for libtorrent | https://github.com/rakshasa/rtorrent/wiki |
 | **libtpms** | 0.10.2 | Provides software emulation of a Trusted Platform Module (TPM 1.2 and TPM 2.0) | https://github.com/stefanberger/libtpms |
 | **libtpms-static** | 0.10.2 | Static libraries for libtpms | https://github.com/stefanberger/libtpms |
 | **libtranscript** | 0.3.4-1 | A character-set conversion library | https://os.ghalkes.nl/libtranscript.html |
@@ -2110,7 +2110,7 @@
 | **profanity** | 0.18.2-1 | Profanity is a console based XMPP client written in C using ncurses and libstrophe, inspired by Irssi | https://profanity-im.github.io |
 | **progress** | 0.17-1 | Linux tool to show progress for cp, mv, dd and more | https://github.com/Xfennec/progress |
 | **proj** | 9.8.1 | Generic coordinate transformation software | https://proj.org |
-| **proot** | 5.1.107.82 | Emulate chroot, bind mount and binfmt_misc for non-root users | https://proot-me.github.io/ |
+| **proot** | 5.1.107.83 | Emulate chroot, bind mount and binfmt_misc for non-root users | https://proot-me.github.io/ |
 | **proot-distro** | 5.4.0-1 | Termux official utility for managing proot'ed Linux distributions | https://github.com/termux/proot-distro |
 | **protobuf** | 2:35.1 | Compiler for protocol buffer definition files | https://github.com/protocolbuffers/protobuf |
 | **proton-bridge** | 3.25.0 | ProtonMail Bridge application | https://github.com/ProtonMail/proton-bridge |
@@ -2287,7 +2287,7 @@
 | **rsync** | 3.4.4 | Fast incremental file transfer utility | https://rsync.samba.org/ |
 | **rtmpdump** | 2.6-1 | Small dumper for media content streamed over the RTMP protocol | https://rtmpdump.mplayerhq.hu/ |
 | **rtmpdump-static** | 2.6-1 | Static libraries for rtmpdump | https://rtmpdump.mplayerhq.hu/ |
-| **rtorrent** | 0.16.16 | Ncurses BitTorrent client based on libTorrent | https://rakshasa.github.io/rtorrent/ |
+| **rtorrent** | 0.16.17 | Ncurses BitTorrent client based on libTorrent | https://rakshasa.github.io/rtorrent/ |
 | **rubberband** | 4.0.0-1 | An audio time-stretching and pitch-shifting library and utility program | https://breakfastquay.com/rubberband/ |
 | **rubberband-ladspa** | 4.0.0-1 | LADSPA plugin for Rubber Band | https://breakfastquay.com/rubberband/ |
 | **rubberband-lv2** | 4.0.0-1 | LV2 plugin for Rubber Band | https://breakfastquay.com/rubberband/ |
@@ -2301,7 +2301,7 @@
 | **runit-static** | 2.1.2-4 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.9.0 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
 | **rust** | 1.96.1 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
-| **rust-analyzer** | 20260629 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
+| **rust-analyzer** | 20260706 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
 | **rust-bindgen** | 0.72.1 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
 | **rust-docs** | 1.96.1 | Rust documentation | https://www.rust-lang.org/ |
 | **rust-src** | 1.96.1 | Rust source code files | https://www.rust-lang.org/ |
@@ -2730,7 +2730,7 @@
 | **wallust** | 3.5.2 | Generate colors from an image | https://explosion-mental.codeberg.page/wallust |
 | **wasi-libc** | 33 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |
 | **wasm-component-ld** | 0.5.25 | Command line linker for creating WebAssembly components | https://github.com/bytecodealliance/wasm-component-ld |
-| **wasmedge** | 0.17.0 | A lightweight, high-performance, and extensible WebAssembly runtime | https://wasmedge.org/ |
+| **wasmedge** | 0.17.1 | A lightweight, high-performance, and extensible WebAssembly runtime | https://wasmedge.org/ |
 | **wasmer** | 7.1.0 | A fast and secure WebAssembly runtime | https://wasmer.io/ |
 | **wasmtime** | 46.0.1 | A standalone runtime for WebAssembly | https://wasmtime.dev/ |
 | **watchexec** | 2.5.1 | Executes commands in response to file modifications | https://github.com/watchexec/watchexec |
