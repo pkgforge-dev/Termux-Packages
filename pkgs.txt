@@ -182,7 +182,7 @@
  busybox  1.38.0-1  Tiny versions of many common UNIX utilities into a single small executable  https://busybox.net/ 
  bvi  1.5.0-1  Binary file editor based on vi  https://bvi.sourceforge.net/ 
  byacc  20260126  byacc is generally conceded to be the best yacc variant available  https://invisible-island.net/byacc/ 
- byobu  7.12  Byobu is a GPLv3 open source text-based window manager and terminal multiplexer  https://www.byobu.org/ 
+ byobu  7.14  Byobu is a GPLv3 open source text-based window manager and terminal multiplexer  https://www.byobu.org/ 
  bzip2  1.0.8-8  Tools for working with bzip2 compression  http://www.bzip.org/ 
  c-ares  1.34.6  Library for asynchronous DNS requests (including name resolves)  https://c-ares.org/ 
  c-toxcore  0.2.22  Backend library for the Tox protocol  https://tox.chat 
@@ -254,7 +254,7 @@
  cloneit  20250722  A cli tool to download specific GitHub directories or files  https://github.com/alok8bb/cloneit 
  cloudflared  2026.6.1  A tunneling daemon that proxies traffic from the Cloudflare network to your origins  https://github.com/cloudflare/cloudflared 
  clpeak  1.1.7  A tool which profiles OpenCL devices to find their peak capacities  https://github.com/krrishnarraj/clpeak 
- clvk  0.0.20260622.120150  Experimental implementation of OpenCL on Vulkan  https://github.com/kpet/clvk 
+ clvk  0.0.20260628.094435  Experimental implementation of OpenCL on Vulkan  https://github.com/kpet/clvk 
  cmake  4.3.4  Family of tools designed to build, test and package software  https://cmake.org/ 
  cmake-curses-gui  4.3.4  Curses based user interface for CMake (ccmake)  https://cmake.org/ 
  cmark  0.31.2  CommonMark parsing and rendering program  https://github.com/commonmark/cmark 
@@ -1909,7 +1909,7 @@
  octomap  1.10.0-1  An efficient probabilistic 3D mapping framework based on octrees  https://github.com/OctoMap/octomap 
  octomap-static  1.10.0-1  Static libraries for octomap  https://github.com/OctoMap/octomap 
  odt2txt  0.5-5  Simple converter from OpenDocument Text to plain text  https://github.com/dstosberg/odt2txt 
- oh-my-posh  29.20.0  A prompt theme engine for any shell.  https://ohmyposh.dev 
+ oh-my-posh  29.20.1  A prompt theme engine for any shell.  https://ohmyposh.dev 
  oidn  2.4.1  Intel® Open Image Denoise library  https://www.openimagedenoise.org 
  okc-agents  0.1.2-2  OpenKeychain agents for GnuPG and OpenSSH  https://github.com/DDoSolitary/okc-agents 
  ol  2.7  Purely functional dialect of Lisp  https://yuriy-chumak.github.io/ol/ 
