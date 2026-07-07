@@ -207,7 +207,7 @@
   Description: A command-line tool for downloading APK files from various sources
   Homepage: https://github.com/EFForg/apkeep
 - Package: apksigner
-  Version: 33.0.1-1
+  Version: 37.0.0
   Description: APK signing tool from Android SDK
   Homepage: https://developer.android.com/studio/command-line/apksigner
 - Package: apktool
@@ -1255,7 +1255,7 @@
   Description: Concurrent Versions System
   Homepage: https://www.nongnu.org/cvs/
 - Package: d8
-  Version: 33.0.1-1
+  Version: 37.0.0
   Description: DEX bytecode compiler from Android SDK
   Homepage: https://developer.android.com/studio/command-line/d8
 - Package: daemonize
@@ -1823,11 +1823,11 @@
   Description: A tool for compositing images using a Burt&Adelson multiresolution spline
   Homepage: https://enblend.sourceforge.net/
 - Package: enchant
-  Version: 2.8.18
+  Version: 2.8.19
   Description: Wraps a number of different spelling libraries and programs with a consistent interface
   Homepage: https://rrthomas.github.io/enchant/
 - Package: enchant-static
-  Version: 2.8.18
+  Version: 2.8.19
   Description: Static libraries for enchant
   Homepage: https://rrthomas.github.io/enchant/
 - Package: enscript
@@ -2459,7 +2459,7 @@
   Description: Simple, Portable, Free File Transfer Software for UNIX
   Homepage: http://www.columbia.edu/kermit/gkermit.html
 - Package: glab-cli
-  Version: 1.106.0
+  Version: 1.107.0
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
@@ -4343,11 +4343,11 @@
   Description: C library implementing Git core methods
   Homepage: https://libgit2.github.com/
 - Package: libglibmm-2.4
-  Version: 2.66.8
+  Version: 2.66.9
   Description: A C++ API for parts of glib that are useful for C++
   Homepage: https://www.gtkmm.org/
 - Package: libglibmm-2.68
-  Version: 2.88.0
+  Version: 2.88.1
   Description: A C++ API for parts of glib that are useful for C++
   Homepage: https://www.gtkmm.org/
 - Package: libglvnd
@@ -6663,7 +6663,7 @@
   Description: Static libraries for lua55
   Homepage: https://www.lua.org/
 - Package: luajit
-  Version: 1:2.1.1782726002+ga2bde60
+  Version: 1:2.1.1783415239+gacb2234
   Description: Just-In-Time Compiler for Lua
   Homepage: https://luajit.org/
 - Package: luajit-lgi
@@ -6671,7 +6671,7 @@
   Description: Dynamic Lua binding to GObject libraries using GObject-Introspection
   Homepage: https://github.com/lgi-devs/lgi
 - Package: luajit-static
-  Version: 1:2.1.1782726002+ga2bde60
+  Version: 1:2.1.1783415239+gacb2234
   Description: Static libraries for luajit
   Homepage: https://luajit.org/
 - Package: luarocks
@@ -6911,7 +6911,7 @@
   Description: A preprocessor for utilizing an MDBook as slides for a presentation
   Homepage: https://github.com/FreeMasen/mdbook-presentation-preprocessor
 - Package: mdbook-svgbob
-  Version: 0.3.0
+  Version: 0.3.1
   Description: SvgBob mdbook preprocessor which swaps code-blocks with neat SVG
   Homepage: https://github.com/boozook/mdbook-svgbob
 - Package: mdbook-svgbob2
@@ -6967,7 +6967,7 @@
   Description: Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage
   Homepage: https://xff.cz/megatools/
 - Package: memcached
-  Version: 1.6.43
+  Version: 1.6.44
   Description: Free & open source, high-performance, distributed memory object caching system
   Homepage: https://memcached.org/
 - Package: mercury
@@ -7071,7 +7071,7 @@
   Description: Static libraries for minizinc
   Homepage: https://github.com/MiniZinc/libminizinc
 - Package: mise
-  Version: 2026.7.0
+  Version: 2026.7.1
   Description: dev tools, env vars, task runner
   Homepage: https://mise.jdx.dev/
 - Package: mkbootimg
@@ -9767,7 +9767,7 @@
   Description: A TCP/IP repeater in the application layer
   Homepage: https://www.gcd.org/sengoku/stone/
 - Package: storj-uplink
-  Version: 1.158.2
+  Version: 1.158.3
   Description: Storj DCS Uplink CLI
   Homepage: https://www.storj.io/integrations/uplink-cli
 - Package: stow
@@ -10819,7 +10819,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2026.07.05
+  Version: 2026.07.06
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vttest

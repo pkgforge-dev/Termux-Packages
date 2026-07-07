@@ -62,7 +62,7 @@
 | **apache-orc** | 2.3.0-2 | Columnar storage for Hadoop workloads | https://orc.apache.org/ |
 | **apache2** | 1:2.4.68 | Apache Web Server | https://httpd.apache.org |
 | **apkeep** | 1.0.0 | A command-line tool for downloading APK files from various sources | https://github.com/EFForg/apkeep |
-| **apksigner** | 33.0.1-1 | APK signing tool from Android SDK | https://developer.android.com/studio/command-line/apksigner |
+| **apksigner** | 37.0.0 | APK signing tool from Android SDK | https://developer.android.com/studio/command-line/apksigner |
 | **apktool** | 3.0.2 | A tool for reverse engineering Android apps (decoding, rebuilding, and smali debugging). | https://apktool.org/ |
 | **appstream** | 1.1.3 | Provides a standard for creating app stores across distributions | https://www.freedesktop.org/wiki/Distributions/AppStream/ |
 | **apr** | 1.7.6-2 | Apache Portable Runtime Library | https://apr.apache.org/ |
@@ -324,7 +324,7 @@
 | **curlie** | 1.8.2 | The power of curl, the ease of use of httpie | https://curlie.io/ |
 | **curseofwar** | 1.3.0-5 | Fast-paced action strategy game focusing on high-level strategic planning | http://a-nikolaev.github.io/curseofwar/ |
 | **cvs** | 1:1.12.13-5 | Concurrent Versions System | https://www.nongnu.org/cvs/ |
-| **d8** | 33.0.1-1 | DEX bytecode compiler from Android SDK | https://developer.android.com/studio/command-line/d8 |
+| **d8** | 37.0.0 | DEX bytecode compiler from Android SDK | https://developer.android.com/studio/command-line/d8 |
 | **daemonize** | 1.7.8-3 | Run a command as a Unix daemon | http://software.clapper.org/daemonize/ |
 | **dar** | 2.8.5 | A full featured command-line backup tool, short for Disk ARchive | http://dar.linux.free.fr/ |
 | **dar-static** | 2.8.5 | Static libraries for dar | http://dar.linux.free.fr/ |
@@ -466,8 +466,8 @@
 | **emscripten-llvm** | 6.0.1 | Emscripten-compatible LLVM | https://emscripten.org |
 | **emscripten-tests-third-party** | 6.0.1 | Emscripten third party test suite files | https://emscripten.org |
 | **enblend** | 4.2.0p20161007-8 | A tool for compositing images using a Burt&Adelson multiresolution spline | https://enblend.sourceforge.net/ |
-| **enchant** | 2.8.18 | Wraps a number of different spelling libraries and programs with a consistent interface | https://rrthomas.github.io/enchant/ |
-| **enchant-static** | 2.8.18 | Static libraries for enchant | https://rrthomas.github.io/enchant/ |
+| **enchant** | 2.8.19 | Wraps a number of different spelling libraries and programs with a consistent interface | https://rrthomas.github.io/enchant/ |
+| **enchant-static** | 2.8.19 | Static libraries for enchant | https://rrthomas.github.io/enchant/ |
 | **enscript** | 1.6.6-13 | Enscript converts ASCII text files to PostScript, HTML, RTF, ANSI and overstrikes | https://www.gnu.org/software/enscript/ |
 | **entr** | 5.8 | Event Notify Test Runner - run arbitrary commands when files change | https://eradman.com/entrproject/ |
 | **erlang** | 29.0.3 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
@@ -625,7 +625,7 @@
 | **gitoxide** | 0.55.0 | Rust implementation of Git | https://github.com/GitoxideLabs/gitoxide |
 | **gitui** | 0.28.1 | Blazing fast terminal-ui for git written in rust | https://github.com/gitui-org/gitui |
 | **gkermit** | 2.01-1 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
-| **glab-cli** | 1.106.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
+| **glab-cli** | 1.107.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
 | **gleam** | 1.17.0 | A friendly language for building type-safe, scalable systems! | https://gleam.run |
 | **glib** | 2.88.2-1 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
 | **glib-cross** | 2.88.2-1 | glib for host (NOT for Termux) | https://developer.gnome.org/glib/ |
@@ -1096,8 +1096,8 @@
 | **libgfshare** | 2.0.0-8 | Utilities for multi-way secret-sharing | https://www.digital-scurf.org/software/libgfshare |
 | **libgfshare-static** | 2.0.0-8 | Static libraries for libgfshare | https://www.digital-scurf.org/software/libgfshare |
 | **libgit2** | 1.9.4 | C library implementing Git core methods | https://libgit2.github.com/ |
-| **libglibmm-2.4** | 2.66.8 | A C++ API for parts of glib that are useful for C++ | https://www.gtkmm.org/ |
-| **libglibmm-2.68** | 2.88.0 | A C++ API for parts of glib that are useful for C++ | https://www.gtkmm.org/ |
+| **libglibmm-2.4** | 2.66.9 | A C++ API for parts of glib that are useful for C++ | https://www.gtkmm.org/ |
+| **libglibmm-2.68** | 2.88.1 | A C++ API for parts of glib that are useful for C++ | https://www.gtkmm.org/ |
 | **libglvnd** | 1.7.0-1 | The GL Vendor-Neutral Dispatch library | https://gitlab.freedesktop.org/glvnd/libglvnd |
 | **libglvnd-dev** | 1.7.0-1 | GLVND's OpenGL headers | https://gitlab.freedesktop.org/glvnd/libglvnd |
 | **libgmime** | 3.2.15-2 | MIME message parser and creator | https://github.com/jstedfast/gmime |
@@ -1676,9 +1676,9 @@
 | **lua54-static** | 5.4.8-7 | Static libraries for lua54 | https://www.lua.org/ |
 | **lua55** | 5.5.0-3 | Shared library for the Lua interpreter (v5.5.x) | https://www.lua.org/ |
 | **lua55-static** | 5.5.0-3 | Static libraries for lua55 | https://www.lua.org/ |
-| **luajit** | 1:2.1.1782726002+ga2bde60 | Just-In-Time Compiler for Lua | https://luajit.org/ |
+| **luajit** | 1:2.1.1783415239+gacb2234 | Just-In-Time Compiler for Lua | https://luajit.org/ |
 | **luajit-lgi** | 0.9.2+p20251219-3 | Dynamic Lua binding to GObject libraries using GObject-Introspection | https://github.com/lgi-devs/lgi |
-| **luajit-static** | 1:2.1.1782726002+ga2bde60 | Static libraries for luajit | https://luajit.org/ |
+| **luajit-static** | 1:2.1.1783415239+gacb2234 | Static libraries for luajit | https://luajit.org/ |
 | **luarocks** | 3.13.0-1 | Deployment and management system for Lua modules | https://luarocks.org/ |
 | **lunasvg** | 3.5.0-1 | SVG rendering and manipulation library in C++ | https://github.com/sammycage/lunasvg |
 | **luv** | 1.52.1-0-0 | Bare libuv bindings for lua | https://github.com/luvit/luv |
@@ -1738,7 +1738,7 @@
 | **mdbook-pikchr** | 0.2.0 | A mdbook preprocessor to render pikchr code blocks as images in your book | https://github.com/podsvirov/mdbook-pikchr |
 | **mdbook-plantuml** | 0.8.0-3 | mdBook preprocessor to render PlantUML code blocks as images in your book | https://github.com/sytsereitsma/mdbook-plantuml |
 | **mdbook-presentation-preprocessor** | 0.3.1-2 | A preprocessor for utilizing an MDBook as slides for a presentation | https://github.com/FreeMasen/mdbook-presentation-preprocessor |
-| **mdbook-svgbob** | 0.3.0 | SvgBob mdbook preprocessor which swaps code-blocks with neat SVG | https://github.com/boozook/mdbook-svgbob |
+| **mdbook-svgbob** | 0.3.1 | SvgBob mdbook preprocessor which swaps code-blocks with neat SVG | https://github.com/boozook/mdbook-svgbob |
 | **mdbook-svgbob2** | 0.3.0-1 | Alternative mdbook preprocessor for svgbob | https://github.com/matthiasbeyer/mdbook-svgbob2 |
 | **mdbook-tera** | 0.5.1-1 | Tera preprocessor for mdBook | https://github.com/avitex/mdbook-tera |
 | **mdbook-toc** | 0.15.4 | A preprocessor for mdbook to add inline Table of Contents support | https://github.com/badboy/mdbook-toc |
@@ -1752,7 +1752,7 @@
 | **mediamtx** | 1.19.2 | Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy | https://github.com/bluenviron/mediamtx |
 | **megacmd** | 2.5.2 | Provides non UI access to MEGA services | https://mega.io/ |
 | **megatools** | 1.11.5.20250706-1 | Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage | https://xff.cz/megatools/ |
-| **memcached** | 1.6.43 | Free & open source, high-performance, distributed memory object caching system | https://memcached.org/ |
+| **memcached** | 1.6.44 | Free & open source, high-performance, distributed memory object caching system | https://memcached.org/ |
 | **mercury** | 22.01.8-1 | A logic/functional programming language | https://www.mercurylang.org/ |
 | **mercury-static** | 22.01.8-1 | Static libraries for mercury | https://www.mercurylang.org/ |
 | **mesa** | 26.0.6-1 | An open-source implementation of the OpenGL specification | https://www.mesa3d.org |
@@ -1778,7 +1778,7 @@
 | **miniz** | 3.1.2 | Single C source file zlib-replacement library | https://github.com/richgel999/miniz |
 | **minizinc** | 2.9.7 | A medium-level constraint modelling language | https://github.com/MiniZinc/libminizinc |
 | **minizinc-static** | 2.9.7 | Static libraries for minizinc | https://github.com/MiniZinc/libminizinc |
-| **mise** | 2026.7.0 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
+| **mise** | 2026.7.1 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
 | **mkbootimg** | 2022.11.09-1 | Maintained fork with android's mkbootimg and unpackbootimg | https://github.com/osm0sis/mkbootimg |
 | **mkp224o** | 1.7.0-1 | Generate vanity ed25519 (hidden service version 3) onion addresses | https://github.com/cathugger/mkp224o |
 | **mksh** | 59c-3 | The MirBSD Korn Shell - an enhanced version of the public domain ksh | http://www.mirbsd.org/mksh.htm |
@@ -2452,7 +2452,7 @@
 | **stoken** | 0.93-3 | Software Token for Linux/UNIX | https://github.com/cernekee/stoken |
 | **stoken-static** | 0.93-3 | Static libraries for stoken | https://github.com/cernekee/stoken |
 | **stone** | 2.4-3 | A TCP/IP repeater in the application layer | https://www.gcd.org/sengoku/stone/ |
-| **storj-uplink** | 1.158.2 | Storj DCS Uplink CLI | https://www.storj.io/integrations/uplink-cli |
+| **storj-uplink** | 1.158.3 | Storj DCS Uplink CLI | https://www.storj.io/integrations/uplink-cli |
 | **stow** | 2.4.1 | Tool for managing the installation of multiple software packages into a single directory | https://www.gnu.org/software/stow/ |
 | **strace** | 7.1 | Debugging utility to monitor system calls and signals received | https://strace.io/ |
 | **streamripper** | 1.64.6-3 | Records and splits streaming mp3 into tracks | https://streamripper.sourceforge.net/ |
@@ -2715,7 +2715,7 @@
 | **vlc-static** | 3.0.23-3 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-4 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.3-1 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 2026.07.05 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
+| **vtm** | 2026.07.06 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
 | **vttest** | 20251205 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vulkan-extension-layer** | 1.4.350 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
 | **vulkan-headers** | 1.4.356 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
