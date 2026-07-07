@@ -196,7 +196,7 @@
 | **byacc** | 20260126 | byacc is generally conceded to be the best yacc variant available | https://invisible-island.net/byacc/ |
 | **byobu** | 7.14 | Byobu is a GPLv3 open source text-based window manager and terminal multiplexer | https://www.byobu.org/ |
 | **bzip2** | 1.0.8-8 | Tools for working with bzip2 compression | http://www.bzip.org/ |
-| **c-ares** | 1.34.7 | Library for asynchronous DNS requests (including name resolves) | https://c-ares.org/ |
+| **c-ares** | 1.34.8 | Library for asynchronous DNS requests (including name resolves) | https://c-ares.org/ |
 | **c-toxcore** | 0.2.22 | Backend library for the Tox protocol | https://tox.chat |
 | **c-toxcore-static** | 0.2.22 | Static libraries for c-toxcore | https://tox.chat |
 | **ca-certificates** | 1:2026.05.14 | Common CA certificates | https://curl.se/docs/caextract.html |
@@ -304,7 +304,7 @@
 | **cpufetch** | 1.07-1 | Simple yet fancy CPU architecture fetching tool | https://github.com/Dr-Noob/cpufetch |
 | **cpulimit** | 0.2-2 | CPU usage limiter | https://github.com/opsengine/cpulimit |
 | **crawl** | 0.34.1 | Roguelike adventure through dungeons filled with dangerous monsters | https://crawl.develz.org/ |
-| **croc** | 1:10.4.7 | Easily and securely send things from one computer to another | https://github.com/schollz/croc |
+| **croc** | 1:10.4.8 | Easily and securely send things from one computer to another | https://github.com/schollz/croc |
 | **cronie** | 1.7.2-4 | Daemon that runs specified programs at scheduled times and related tools | https://github.com/cronie-crond/cronie/ |
 | **crowbook** | 0.17.0-1 | Allows you to write a book in Markdown without worrying about formatting or typography | https://github.com/crowdagger/crowbook |
 | **crunch** | 3.6-5 | Highly customizable wordlist generator | https://sourceforge.net/projects/crunch-wordlist/ |
@@ -1620,7 +1620,7 @@
 | **libzmq** | 4.3.5-2 | Fast messaging system built on sockets. C and C++ bindings. aka 0MQ, ZMQ. | https://zeromq.org/ |
 | **libzmq-static** | 4.3.5-2 | Static libraries for libzmq | https://zeromq.org/ |
 | **libzopfli** | 1.0.3-5 | New zlib compatible compressor library | https://github.com/google/zopfli |
-| **libzxing-cpp** | 3.0.2 | An open-source, multi-format 1D/2D barcode image processing library implemented in C++ | https://github.com/zxing-cpp/zxing-cpp |
+| **libzxing-cpp** | 3.1.0 | An open-source, multi-format 1D/2D barcode image processing library implemented in C++ | https://github.com/zxing-cpp/zxing-cpp |
 | **lighttpd** | 1.4.84 | Fast webserver with minimal memory footprint | https://www.lighttpd.net |
 | **lilv** | 0.28.0 | A C library to make the use of LV2 plugins as simple as possible for applications | https://drobilla.net/software/lilv.html |
 | **lilypond** | 2.26.0 | A music engraving program | https://lilypond.org/ |
@@ -1778,7 +1778,7 @@
 | **miniz** | 3.1.2 | Single C source file zlib-replacement library | https://github.com/richgel999/miniz |
 | **minizinc** | 2.9.7 | A medium-level constraint modelling language | https://github.com/MiniZinc/libminizinc |
 | **minizinc-static** | 2.9.7 | Static libraries for minizinc | https://github.com/MiniZinc/libminizinc |
-| **mise** | 2026.7.1 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
+| **mise** | 2026.7.2 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
 | **mkbootimg** | 2022.11.09-1 | Maintained fork with android's mkbootimg and unpackbootimg | https://github.com/osm0sis/mkbootimg |
 | **mkp224o** | 1.7.0-1 | Generate vanity ed25519 (hidden service version 3) onion addresses | https://github.com/cathugger/mkp224o |
 | **mksh** | 59c-3 | The MirBSD Korn Shell - an enhanced version of the public domain ksh | http://www.mirbsd.org/mksh.htm |
@@ -1925,7 +1925,7 @@
 | **octomap** | 1.10.0-1 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0-1 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-5 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 29.21.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 29.22.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **oidn** | 2.4.1 | Intel® Open Image Denoise library | https://www.openimagedenoise.org |
 | **okc-agents** | 0.1.2-2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.7 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
@@ -2229,7 +2229,7 @@
 | **rage** | 0.11.2 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4-1 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4-1 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
-| **railway-cli** | 5.23.3 | This is the command line interface for Railway | https://railway.app |
+| **railway-cli** | 5.24.0 | This is the command line interface for Railway | https://railway.app |
 | **range-v3** | 0.12.0 | Range library for C++14/17/20, basis for C++20's std::ranges | https://github.com/ericniebler/range-v3 |
 | **ranger** | 1.9.4-2 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-7 | Fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |
@@ -2333,7 +2333,7 @@
 | **scc** | 3.7.0-1 | Counts physical the lines of code, blank lines, comment lines, and physical lines of source code | https://github.com/boyter/scc |
 | **sccache** | 0.16.0 | sccache is ccache with cloud storage | https://github.com/mozilla/sccache |
 | **scdaemon** | 2.5.17 | Daemon invoked by gpg to manage smartcards | https://www.gnupg.org/ |
-| **scdoc** | 1.11.4 | Small man page generator | https://git.sr.ht/~sircmpwn/scdoc |
+| **scdoc** | 1.11.5 | Small man page generator | https://git.sr.ht/~sircmpwn/scdoc |
 | **screen** | 5.0.1-1 | Terminal multiplexer with VT100/ANSI terminal emulation | https://www.gnu.org/software/screen/ |
 | **screenfetch** | 3.9.9 | Bash Screenshot Information Tool | https://github.com/KittyKatt/screenFetch |
 | **scrub** | 2.6.1-2 | Iteratively writes patterns on files or disk devices to make retreiving the data more difficult | https://github.com/chaos/scrub |
@@ -2734,7 +2734,7 @@
 | **walk** | 1.13.0 | A terminal file manager | https://github.com/antonmedv/walk |
 | **wallust** | 3.5.2 | Generate colors from an image | https://explosion-mental.codeberg.page/wallust |
 | **wasi-libc** | 33 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |
-| **wasm-component-ld** | 0.5.25 | Command line linker for creating WebAssembly components | https://github.com/bytecodealliance/wasm-component-ld |
+| **wasm-component-ld** | 0.5.26 | Command line linker for creating WebAssembly components | https://github.com/bytecodealliance/wasm-component-ld |
 | **wasmedge** | 0.17.1 | A lightweight, high-performance, and extensible WebAssembly runtime | https://wasmedge.org/ |
 | **wasmer** | 7.1.0 | A fast and secure WebAssembly runtime | https://wasmer.io/ |
 | **wasmtime** | 46.0.1 | A standalone runtime for WebAssembly | https://wasmtime.dev/ |

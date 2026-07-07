@@ -1117,7 +1117,7 @@
   },
   {
     "Package": "c-ares",
-    "Version": "1.34.7",
+    "Version": "1.34.8",
     "Description": "Library for asynchronous DNS requests (including name resolves)",
     "Homepage": "https://c-ares.org/"
   },
@@ -1765,7 +1765,7 @@
   },
   {
     "Package": "croc",
-    "Version": "1:10.4.7",
+    "Version": "1:10.4.8",
     "Description": "Easily and securely send things from one computer to another",
     "Homepage": "https://github.com/schollz/croc"
   },
@@ -9661,7 +9661,7 @@
   },
   {
     "Package": "libzxing-cpp",
-    "Version": "3.0.2",
+    "Version": "3.1.0",
     "Description": "An open-source, multi-format 1D/2D barcode image processing library implemented in C++",
     "Homepage": "https://github.com/zxing-cpp/zxing-cpp"
   },
@@ -10609,7 +10609,7 @@
   },
   {
     "Package": "mise",
-    "Version": "2026.7.1",
+    "Version": "2026.7.2",
     "Description": "dev tools, env vars, task runner",
     "Homepage": "https://mise.jdx.dev/"
   },
@@ -11491,7 +11491,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "29.21.0",
+    "Version": "29.22.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -13315,7 +13315,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "5.23.3",
+    "Version": "5.24.0",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -13939,7 +13939,7 @@
   },
   {
     "Package": "scdoc",
-    "Version": "1.11.4",
+    "Version": "1.11.5",
     "Description": "Small man page generator",
     "Homepage": "https://git.sr.ht/~sircmpwn/scdoc"
   },
@@ -16345,7 +16345,7 @@
   },
   {
     "Package": "wasm-component-ld",
-    "Version": "0.5.25",
+    "Version": "0.5.26",
     "Description": "Command line linker for creating WebAssembly components",
     "Homepage": "https://github.com/bytecodealliance/wasm-component-ld"
   },
