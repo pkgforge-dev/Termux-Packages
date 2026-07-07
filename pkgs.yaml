@@ -5251,11 +5251,11 @@
   Description: Scientific library for massively parallel optimization
   Homepage: https://esa.github.io/pagmo2/index.html
 - Package: libpangomm-1.4
-  Version: 2.46.4-1
+  Version: 2.46.5
   Description: A C++ API for Pango
   Homepage: https://www.gtkmm.org/
 - Package: libpangomm-2.48
-  Version: 2.56.1-1
+  Version: 2.56.2
   Description: A C++ API for Pango
   Homepage: https://www.gtkmm.org/
 - Package: libpano13
@@ -9727,7 +9727,7 @@
   Description: Patch the isatty() calls for colored output in pipeline
   Homepage: https://github.com/lilydjwg/stdoutisatty
 - Package: stduuid
-  Version: 1.2.3
+  Version: 1.2.3-1
   Description: C++17 cross-platform single-header library implementation for universally unique identifiers
   Homepage: https://github.com/mariusbancila/stduuid
 - Package: steghide
