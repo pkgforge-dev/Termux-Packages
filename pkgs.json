@@ -1728,6 +1728,12 @@
     "Homepage": "https://www.gnu.org/software/cppi/"
   },
   {
+    "Package": "cpptrace",
+    "Version": "1.0.4",
+    "Description": "Self-contained stacktrace library for C++11 and newer",
+    "Homepage": "https://github.com/jeremy-rifkin/cpptrace"
+  },
+  {
     "Package": "cppunit",
     "Version": "1.15.1-2",
     "Description": "A C++ unit testing framework",
@@ -2215,7 +2221,7 @@
   },
   {
     "Package": "doctest",
-    "Version": "2.5.2",
+    "Version": "2.5.3",
     "Description": "The fastest feature-rich C++11/14/17/20 single-header testing framework",
     "Homepage": "https://github.com/doctest/doctest"
   },
@@ -3127,7 +3133,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.4.66",
+    "Version": "0.4.67",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -6178,6 +6184,18 @@
     "Version": "0.193-1",
     "Description": "Static library to read DWARF information",
     "Homepage": "https://sourceware.org/elfutils/"
+  },
+  {
+    "Package": "libdwarf",
+    "Version": "2.3.1",
+    "Description": "Library for handling DWARF Debugging Information Format",
+    "Homepage": "https://www.prevanders.net/dwarf.html"
+  },
+  {
+    "Package": "libdwarf-static",
+    "Version": "2.3.1",
+    "Description": "Static libraries for libdwarf",
+    "Homepage": "https://www.prevanders.net/dwarf.html"
   },
   {
     "Package": "libebml",
@@ -10572,6 +10590,12 @@
     "Homepage": "https://miniupnp.tuxfamily.org/"
   },
   {
+    "Package": "miniz",
+    "Version": "3.1.2",
+    "Description": "Single C source file zlib-replacement library",
+    "Homepage": "https://github.com/richgel999/miniz"
+  },
+  {
     "Package": "minizinc",
     "Version": "2.9.7",
     "Description": "A medium-level constraint modelling language",
@@ -11893,13 +11917,13 @@
   },
   {
     "Package": "oxfmt",
-    "Version": "1.72.0",
+    "Version": "1.73.0",
     "Description": "Oxc JavaScript formatter",
     "Homepage": "https://oxc.rs/"
   },
   {
     "Package": "oxlint",
-    "Version": "1.72.0",
+    "Version": "1.73.0",
     "Description": "Oxc JavaScript linter",
     "Homepage": "https://oxc.rs/"
   },
@@ -12043,7 +12067,7 @@
   },
   {
     "Package": "patchelf",
-    "Version": "0.19.0",
+    "Version": "0.19.1",
     "Description": "Utility to modify the dynamic linker and RPATH of ELF executables",
     "Homepage": "https://nixos.org/patchelf.html"
   },
@@ -13465,7 +13489,7 @@
   },
   {
     "Package": "remind",
-    "Version": "1:06.02.07",
+    "Version": "1:06.02.08",
     "Description": "Sophisticated calendar and alarm program",
     "Homepage": "https://dianne.skoll.ca/projects/remind/"
   },
@@ -14566,6 +14590,12 @@
     "Version": "1.0-1",
     "Description": "Patch the isatty() calls for colored output in pipeline",
     "Homepage": "https://github.com/lilydjwg/stdoutisatty"
+  },
+  {
+    "Package": "stduuid",
+    "Version": "1.2.3",
+    "Description": "C++17 cross-platform single-header library implementation for universally unique identifiers",
+    "Homepage": "https://github.com/mariusbancila/stduuid"
   },
   {
     "Package": "steghide",
@@ -15973,7 +16003,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.11.26",
+    "Version": "0.11.27",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
@@ -15985,7 +16015,7 @@
   },
   {
     "Package": "v2ray",
-    "Version": "5.49.0",
+    "Version": "5.51.2",
     "Description": "A platform for building proxies to bypass network restrictions",
     "Homepage": "https://www.v2fly.org/"
   },
@@ -16201,7 +16231,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "2026.06.29",
+    "Version": "2026.07.05",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://github.com/directvt/vtm"
   },

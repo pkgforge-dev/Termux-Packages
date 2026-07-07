@@ -286,6 +286,7 @@
  cpio  2.15-1  CPIO implementation from the GNU project  https://www.gnu.org/software/cpio/ 
  cppcheck  2.21.1  tool for static C/C++ code analysis  https://github.com/danmar/cppcheck 
  cppi  1.18-2  Indents C preprocessor directives to reflect their nesting, among other regularizations  https://www.gnu.org/software/cppi/ 
+ cpptrace  1.0.4  Self-contained stacktrace library for C++11 and newer  https://github.com/jeremy-rifkin/cpptrace 
  cppunit  1.15.1-2  A C++ unit testing framework  https://www.freedesktop.org/wiki/Software/cppunit 
  cppunit-static  1.15.1-2  Static libraries for cppunit  https://www.freedesktop.org/wiki/Software/cppunit 
  cpufetch  1.07-1  Simple yet fancy CPU architecture fetching tool  https://github.com/Dr-Noob/cpufetch 
@@ -367,7 +368,7 @@
  docbook-xsl  1.79.2-4  XML stylesheets for Docbook-xml transformations  https://docbook.org/ 
  docopt  0.6.3-4  Command line arguments parser for C++11 and later  http://docopt.org 
  docopt-static  0.6.3-4  Static libraries for docopt  http://docopt.org 
- doctest  2.5.2  The fastest feature-rich C++11/14/17/20 single-header testing framework  https://github.com/doctest/doctest 
+ doctest  2.5.3  The fastest feature-rich C++11/14/17/20 single-header testing framework  https://github.com/doctest/doctest 
  doge  0.2.8-2  A command-line DNS client  https://github.com/Dj-Codeman/dog_community 
  dopewars  1.6.2-1  Drug-dealing game set in streets of New York City  https://dopewars.sourceforge.io 
  dos2unix  7.5.6  Converts between DOS and Unix text files  https://waterlander.net/dos2unix/ 
@@ -519,7 +520,7 @@
  flex-static  2.6.4-4  Static libraries for flex  https://github.com/westes/flex 
  flint  3.6.0  C library for doing number theory  http://www.flintlib.org 
  fluidsynth  2.5.6  Software synthesizer based on the SoundFont 2 specifications  https://github.com/FluidSynth/fluidsynth 
- flyctl  0.4.66  Command line tools for fly.io services  https://fly.io 
+ flyctl  0.4.67  Command line tools for fly.io services  https://fly.io 
  fm  1.2.0  A terminal based file manager  https://github.com/knipferrc/fm 
  fmt  1:11.2.0  Open-source formatting library for C++  https://fmt.dev/latest/index.html 
  fontconfig  2.18.1  Library for configuring and customizing font access  https://www.freedesktop.org/wiki/Software/fontconfig/ 
@@ -1028,6 +1029,8 @@
  libdvdread-static  7.0.1  Static libraries for libdvdread  https://code.videolan.org/videolan/libdvdread 
  libdw  0.193-1  Library to read DWARF information  https://sourceware.org/elfutils/ 
  libdw-static  0.193-1  Static library to read DWARF information  https://sourceware.org/elfutils/ 
+ libdwarf  2.3.1  Library for handling DWARF Debugging Information Format  https://www.prevanders.net/dwarf.html 
+ libdwarf-static  2.3.1  Static libraries for libdwarf  https://www.prevanders.net/dwarf.html 
  libebml  1.4.5-2  Extensible Binary Meta Language library  https://github.com/Matroska-Org/libebml 
  libebur128  1.2.6-4  Implements the EBU R 128 standard for loudness normalisation  https://github.com/jiixyj/libebur128 
  libedit  20240517-3.1-1  Library providing line editing, history, and tokenization functions  https://thrysoee.dk/editline/ 
@@ -1760,6 +1763,7 @@
  minisign  0.12-1  A dead simple tool to sign files and verify signatures  https://jedisct1.github.io/minisign/ 
  miniupnpc  2.3.3-1  Small UPnP client library and tool to access Internet Gateway Devices  https://miniupnp.tuxfamily.org/ 
  miniupnpc-static  2.3.3-1  Static libraries for miniupnpc  https://miniupnp.tuxfamily.org/ 
+ miniz  3.1.2  Single C source file zlib-replacement library  https://github.com/richgel999/miniz 
  minizinc  2.9.7  A medium-level constraint modelling language  https://github.com/MiniZinc/libminizinc 
  minizinc-static  2.9.7  Static libraries for minizinc  https://github.com/MiniZinc/libminizinc 
  mise  2026.7.0  dev tools, env vars, task runner  https://mise.jdx.dev/ 
@@ -1980,8 +1984,8 @@
  ossp-uuid  1.6.2-4  ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122.  http://www.ossp.org/pkg/lib/uuid/ 
  ossp-uuid-static  1.6.2-4  Static libraries for ossp-uuid  http://www.ossp.org/pkg/lib/uuid/ 
  ovmf  20231122-16.fc40-0  Open Virtual Machine Firmware  https://www.tianocore.org/ 
- oxfmt  1.72.0  Oxc JavaScript formatter  https://oxc.rs/ 
- oxlint  1.72.0  Oxc JavaScript linter  https://oxc.rs/ 
+ oxfmt  1.73.0  Oxc JavaScript formatter  https://oxc.rs/ 
+ oxlint  1.73.0  Oxc JavaScript linter  https://oxc.rs/ 
  p11-kit  0.26.2  Provides a way to load and enumerate PKCS#11 modules  https://p11-glue.github.io/p11-glue/p11-kit.html 
  p7zip  17.06-1  Command-line version of the 7zip compressed file archiver  https://github.com/p7zip-project/p7zip 
  pacman  7.1.0-4  A library-based package manager with dependency support  https://archlinux.org/pacman/ 
@@ -2005,7 +2009,7 @@
  pastebinit  1.5.1-3  Command-line pastebin client  https://launchpad.net/pastebinit 
  pastel  0.12.0  A command-line tool to generate, analyze, convert and manipulate colors  https://github.com/sharkdp/pastel 
  patch  2.8-1  GNU patch which applies diff files to create patched files  https://savannah.gnu.org/projects/patch/ 
- patchelf  0.19.0  Utility to modify the dynamic linker and RPATH of ELF executables  https://nixos.org/patchelf.html 
+ patchelf  0.19.1  Utility to modify the dynamic linker and RPATH of ELF executables  https://nixos.org/patchelf.html 
  patchutils  0.4.5  A collection of programs for manipulating patch files  https://github.com/twaugh/patchutils 
  pathpicker  0.9.5-3  Facebook PathPicker - a terminal-based file picker  https://facebook.github.io/PathPicker/ 
  pb  2022.11.03-1  A helper utility for using 0x0 pastebin services  https://tildegit.org/tomasino/pb 
@@ -2242,7 +2246,7 @@
  recutils-static  1.9-1  Static libraries for recutils  https://www.gnu.org/software/recutils/ 
  redir  3.3-3  TCP port redirector for UNIX  https://github.com/troglobit/redir 
  redis  1:8.8.0  In-memory data structure store used as a database, cache and message broker  https://redis.io/ 
- remind  1:06.02.07  Sophisticated calendar and alarm program  https://dianne.skoll.ca/projects/remind/ 
+ remind  1:06.02.08  Sophisticated calendar and alarm program  https://dianne.skoll.ca/projects/remind/ 
  renameutils  0.12.0-3  A set of programs designed to make renaming of files faster and less cumbersome  https://www.nongnu.org/renameutils/ 
  reptyr  0.10.0-1  Tool for reparenting a running program to a new terminal  https://github.com/nelhage/reptyr 
  resolv-conf  1.3  Resolver configuration file  https://man7.org/linux/man-pages/man5/resolv.conf.5.html 
@@ -2426,6 +2430,7 @@
  stb  0.0.0+g31c1ad37  Single-file public domain (or MIT licensed) libraries for C/C++  https://github.com/nothings/stb 
  stdman  2024.07.05  Formatted C++23 stdlib man pages (cppreference)  https://github.com/jeaye/stdman 
  stdoutisatty  1.0-1  Patch the isatty() calls for colored output in pipeline  https://github.com/lilydjwg/stdoutisatty 
+ stduuid  1.2.3  C++17 cross-platform single-header library implementation for universally unique identifiers  https://github.com/mariusbancila/stduuid 
  steghide  0.5.1-8  Embeds a message in a file by replacing some of the least significant bits  https://steghide.sourceforge.net/ 
  stemwords  3.0.1  A command-line tool which uses libstemmer  https://snowballstem.org/ 
  step-cli  0.30.6-1  An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows  https://smallstep.com/cli 
@@ -2660,9 +2665,9 @@
  util-linux-static  2.42.1-3  Static libraries for util-linux  https://en.wikipedia.org/wiki/Util-linux 
  uucp  1.07-2  The standard UUCP package of the Free Software Foundation  https://www.airs.com/ian/uucp.html 
  uuid-utils  2.42.1-3  Utilities for handling universally unique identifiers  https://en.wikipedia.org/wiki/Util-linux 
- uv  0.11.26  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
+ uv  0.11.27  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
  uwsgi  2.0.31-2  uWSGI application server container  https://projects.unbit.it/uwsgi 
- v2ray  5.49.0  A platform for building proxies to bypass network restrictions  https://www.v2fly.org/ 
+ v2ray  5.51.2  A platform for building proxies to bypass network restrictions  https://www.v2fly.org/ 
  valac  0.56.19  C# like language for the GObject system  https://wiki.gnome.org/Projects/Vala 
  valac-static  0.56.19  Static libraries for valac  https://wiki.gnome.org/Projects/Vala 
  valadoc  0.56.19  API documentation generator for vala  https://wiki.gnome.org/Projects/Vala 
@@ -2698,7 +2703,7 @@
  vlc-static  3.0.23-3  Static libraries for vlc  https://www.videolan.org/ 
  vobsub2srt  2017.12.18-4  A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR  https://github.com/ruediger/VobSub2SRT 
  vorbis-tools  1.4.3-1  Ogg Vorbis tools  https://github.com/xiph/vorbis-tools 
- vtm  2026.06.29  Terminal multiplexer with TUI window manager and multi-party session sharing  https://github.com/directvt/vtm 
+ vtm  2026.07.05  Terminal multiplexer with TUI window manager and multi-party session sharing  https://github.com/directvt/vtm 
  vttest  20251205  Program for testing the VT100 compatibility of terminal emulators  https://invisible-island.net/vttest/ 
  vulkan-extension-layer  1.4.350  Vulkan Extension Layer  https://github.com/KhronosGroup/Vulkan-ExtensionLayer 
  vulkan-headers  1.4.356  Vulkan Header files and API registry  https://github.com/KhronosGroup/Vulkan-Headers 
