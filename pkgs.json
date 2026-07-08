@@ -697,7 +697,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.35.16",
+    "Version": "2.35.17",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -2695,7 +2695,7 @@
   },
   {
     "Package": "emacs",
-    "Version": "30.2-2",
+    "Version": "30.2-3",
     "Description": "Extensible, customizable text editor-and more",
     "Homepage": "https://www.gnu.org/software/emacs/"
   },
@@ -16003,7 +16003,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.11.27",
+    "Version": "0.11.28",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
@@ -16231,7 +16231,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "2026.07.06",
+    "Version": "2026.07.07",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://github.com/directvt/vtm"
   },
