@@ -1399,7 +1399,7 @@
   },
   {
     "Package": "chezmoi",
-    "Version": "2.70.5",
+    "Version": "2.71.0",
     "Description": "Manage your dotfiles across multiple machines",
     "Homepage": "https://chezmoi.io"
   },
@@ -1765,7 +1765,7 @@
   },
   {
     "Package": "croc",
-    "Version": "1:10.4.8",
+    "Version": "1:10.4.11",
     "Description": "Easily and securely send things from one computer to another",
     "Homepage": "https://github.com/schollz/croc"
   },
@@ -2791,7 +2791,7 @@
   },
   {
     "Package": "et",
-    "Version": "6.2.11-4",
+    "Version": "7.0.0",
     "Description": "A remote shell that automatically reconnects without interrupting the session",
     "Homepage": "https://eternalterminal.dev"
   },
@@ -6187,13 +6187,13 @@
   },
   {
     "Package": "libdwarf",
-    "Version": "2.3.1",
+    "Version": "2.3.2",
     "Description": "Library for handling DWARF Debugging Information Format",
     "Homepage": "https://www.prevanders.net/dwarf.html"
   },
   {
     "Package": "libdwarf-static",
-    "Version": "2.3.1",
+    "Version": "2.3.2",
     "Description": "Static libraries for libdwarf",
     "Homepage": "https://www.prevanders.net/dwarf.html"
   },
