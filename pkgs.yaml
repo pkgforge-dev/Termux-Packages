@@ -2087,7 +2087,7 @@
   Description: Software synthesizer based on the SoundFont 2 specifications
   Homepage: https://github.com/FluidSynth/fluidsynth
 - Package: flyctl
-  Version: 0.4.67
+  Version: 0.4.68
   Description: Command line tools for fly.io services
   Homepage: https://fly.io
 - Package: fm
@@ -6699,7 +6699,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.35.2
+  Version: 0.35.3
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://lux.lumen-labs.org
 - Package: lv2
@@ -7071,7 +7071,7 @@
   Description: Static libraries for minizinc
   Homepage: https://github.com/MiniZinc/libminizinc
 - Package: mise
-  Version: 2026.7.2
+  Version: 2026.7.3
   Description: dev tools, env vars, task runner
   Homepage: https://mise.jdx.dev/
 - Package: mkbootimg
@@ -7339,7 +7339,7 @@
   Description: An interactive cheatsheet tool for the command-line
   Homepage: https://github.com/denisidoro/navi
 - Package: navidrome
-  Version: 0.62.0
+  Version: 0.63.0
   Description: Modern Music Server and Streamer compatible with Subsonic/Airsonic
   Homepage: https://www.navidrome.org/
 - Package: ncdc
@@ -7603,7 +7603,7 @@
   Description: Tools for NSS
   Homepage: https://firefox-source-docs.mozilla.org/security/nss/
 - Package: nudoku
-  Version: 8.0.0
+  Version: 8.0.1
   Description: ncurses based sudoku game
   Homepage: http://jubalh.github.io/nudoku/
 - Package: nushell
@@ -9327,7 +9327,7 @@
   Description: Static libraries for seafile-client
   Homepage: https://seafile.com
 - Package: seanime
-  Version: 3.9.0
+  Version: 3.9.1
   Description: Self-hosted anime and manga server for sea rovers.
   Homepage: https://github.com/5rahim/seanime
 - Package: seccure
@@ -9915,7 +9915,7 @@
   Description: Static libraries for swtpm
   Homepage: https://github.com/stefanberger/swtpm
 - Package: syncthing
-  Version: 2.1.1
+  Version: 2.1.2
   Description: Decentralized file synchronization
   Homepage: https://syncthing.net/
 - Package: sysprop
