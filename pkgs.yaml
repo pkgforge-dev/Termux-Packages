@@ -1175,7 +1175,7 @@
   Description: Roguelike adventure through dungeons filled with dangerous monsters
   Homepage: https://crawl.develz.org/
 - Package: croc
-  Version: 1:10.4.12
+  Version: 1:10.4.13
   Description: Easily and securely send things from one computer to another
   Homepage: https://github.com/schollz/croc
 - Package: cronie
@@ -2659,7 +2659,7 @@
   Description: University of Minnesota gopher
   Homepage: gopher://gopher.quux.org/1/devel/gopher
 - Package: gopls
-  Version: 0.22.0
+  Version: 0.23.0
   Description: The official Go language server
   Homepage: https://github.com/golang/tools
 - Package: goresym
@@ -2807,7 +2807,7 @@
   Description: GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code
   Homepage: https://gstreamer.freedesktop.org/modules/gst-libav.html
 - Package: gst-plugins-bad
-  Version: 1.28.4
+  Version: 1.28.5
   Description: GStreamer Bad Plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-plugins-base
@@ -2815,15 +2815,15 @@
   Description: GStreamer base plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-plugins-good
-  Version: 1.28.4
+  Version: 1.28.5
   Description: GStreamer Good Plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-plugins-ugly
-  Version: 1.28.4
+  Version: 1.28.5
   Description: GStreamer Ugly Plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-python
-  Version: 1.28.4-1
+  Version: 1.28.5
   Description: Python bindings for GStreamer
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gstreamer
@@ -2987,11 +2987,11 @@
   Description: Interactive process viewer for Linux
   Homepage: https://htop.dev/
 - Package: htslib
-  Version: 1.23.1
+  Version: "1.24"
   Description: C library for high-throughput sequencing data formats
   Homepage: https://github.com/samtools/htslib
 - Package: htslib-static
-  Version: 1.23.1
+  Version: "1.24"
   Description: Static libraries for htslib
   Homepage: https://github.com/samtools/htslib
 - Package: httping
@@ -3767,7 +3767,7 @@
   Description: Static libraries for libblosc
   Homepage: https://www.blosc.org
 - Package: libblosc2
-  Version: 3.1.5
+  Version: 3.2.1
   Description: A blocking, shuffling and loss-less compression library
   Homepage: https://www.blosc.org
 - Package: libbluray
@@ -6451,7 +6451,7 @@
   Description: An open-source, multi-format 1D/2D barcode image processing library implemented in C++
   Homepage: https://github.com/zxing-cpp/zxing-cpp
 - Package: lighttpd
-  Version: 1.4.84
+  Version: 1.4.85
   Description: Fast webserver with minimal memory footprint
   Homepage: https://www.lighttpd.net
 - Package: lilv
@@ -7083,7 +7083,7 @@
   Description: Static libraries for minizinc
   Homepage: https://github.com/MiniZinc/libminizinc
 - Package: mise
-  Version: 2026.7.3
+  Version: 2026.7.4
   Description: dev tools, env vars, task runner
   Homepage: https://mise.jdx.dev/
 - Package: mkbootimg
@@ -7351,7 +7351,7 @@
   Description: An interactive cheatsheet tool for the command-line
   Homepage: https://github.com/denisidoro/navi
 - Package: navidrome
-  Version: 0.63.0
+  Version: 0.63.1
   Description: Modern Music Server and Streamer compatible with Subsonic/Airsonic
   Homepage: https://www.navidrome.org/
 - Package: ncdc
@@ -7447,7 +7447,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-934+g6a6431cb99-0
+  Version: 0.13.0~dev-941+g7c9222f45e-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -7671,7 +7671,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 29.22.1
+  Version: 29.23.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: oidn
@@ -7735,7 +7735,7 @@
   Description: Static libraries for oorexx
   Homepage: https://www.oorexx.org/
 - Package: open-adventure
-  Version: "1.21"
+  Version: "1.22"
   Description: Forward-port of the original Colossal Cave Adventure from 1976-77
   Homepage: http://www.catb.org/~esr/open-adventure/
 - Package: openal-soft
@@ -9559,7 +9559,7 @@
   Description: A user-friendly IRC bouncer
   Homepage: https://codeberg.org/emersion/soju
 - Package: solidity
-  Version: 0.8.35
+  Version: 0.8.36
   Description: An Ethereum smart contract-oriented language
   Homepage: https://www.soliditylang.org/
 - Package: sonarr
@@ -9779,7 +9779,7 @@
   Description: A TCP/IP repeater in the application layer
   Homepage: https://www.gcd.org/sengoku/stone/
 - Package: storj-uplink
-  Version: 1.158.3
+  Version: 1.158.4
   Description: Storj DCS Uplink CLI
   Homepage: https://www.storj.io/integrations/uplink-cli
 - Package: stow
