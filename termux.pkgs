@@ -366,6 +366,8 @@
 | **dnsutils** | 9.20.24 | Clients provided with BIND | https://www.isc.org/bind/ |
 | **docbook-xml** | 5.1-1 | A widely used XML scheme for writing documentation and help | https://www.oasis-open.org/docbook/ |
 | **docbook-xsl** | 1.79.2-4 | XML stylesheets for Docbook-xml transformations | https://docbook.org/ |
+| **docker-cli** | 24.0.6 | Set of products that use OS-level virtualization to deliver software in packages called containers. | https://docker.com |
+| **docker-compose** | 5.3.1-1 | Compose is a tool for defining and running multi-container Docker applications. | https://github.com/docker/compose |
 | **docopt** | 0.6.3-4 | Command line arguments parser for C++11 and later | http://docopt.org |
 | **docopt-static** | 0.6.3-4 | Static libraries for docopt | http://docopt.org |
 | **doctest** | 2.5.3 | The fastest feature-rich C++11/14/17/20 single-header testing framework | https://github.com/doctest/doctest |
@@ -1733,6 +1735,7 @@
 | **mdbtools** | 1.0.1-1 | A set of programs to help you extract data from Microsoft Access files in various settings | https://github.com/mdbtools/mdbtools |
 | **mdbtools-static** | 1.0.1-1 | Static libraries for mdbtools | https://github.com/mdbtools/mdbtools |
 | **mdds** | 3.2.1 | A collection of multi-dimensional data structures and indexing algorithms | https://gitlab.com/mdds/mdds |
+| **mdf2iso** | 0.3.1 | Small utility that converts MDF images to ISO format | https://salsa.debian.org/debian/mdf2iso |
 | **mdns-scan** | 0.5-3 | A tool for scanning for mDNS/DNS-SD services published on the local network | https://github.com/alteholz/mdns-scan |
 | **mdp** | 1.0.18-1 | Command-line based markdown presentation tool | https://github.com/visit1985/mdp |
 | **media-types** | 14.0.0 | List of standard media types and their usual file extension | https://pagure.io/mailcap |
@@ -2827,7 +2830,7 @@
 | **zoxide** | 0.10.0 | A faster way to navigate your filesystem | https://github.com/ajeetdsouza/zoxide |
 | **zpaq** | 7.15-1 | Programmable file compressor, library and utilities. Based on the PAQ compression algorithm | http://mattmahoney.net/dc/zpaq.html |
 | **zrok** | 1.1.11 | An open source sharing solution built on OpenZiti. | https://zrok.io/ |
-| **zsh** | 5.9.1-1 | Shell with lots of features | https://www.zsh.org |
+| **zsh** | 5.9.1-2 | Shell with lots of features | https://www.zsh.org |
 | **zsh-completions** | 0.36.0 | Additional completion definitions for Zsh | https://github.com/zsh-users/zsh-completions |
 | **zssh** | 1.5c-2 | A program for interactively transferring files to a remote machine while using the secure shell (ssh) | https://zssh.sourceforge.net/ |
 | **zstd** | 1.5.7-1 | Zstandard compression | https://github.com/facebook/zstd |

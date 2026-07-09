@@ -1470,6 +1470,14 @@
   Version: 1.79.2-4
   Description: XML stylesheets for Docbook-xml transformations
   Homepage: https://docbook.org/
+- Package: docker-cli
+  Version: 24.0.6
+  Description: Set of products that use OS-level virtualization to deliver software in packages called containers.
+  Homepage: https://docker.com
+- Package: docker-compose
+  Version: 5.3.1-1
+  Description: Compose is a tool for defining and running multi-container Docker applications.
+  Homepage: https://github.com/docker/compose
 - Package: docopt
   Version: 0.6.3-4
   Description: Command line arguments parser for C++11 and later
@@ -6938,6 +6946,10 @@
   Version: 3.2.1
   Description: A collection of multi-dimensional data structures and indexing algorithms
   Homepage: https://gitlab.com/mdds/mdds
+- Package: mdf2iso
+  Version: 0.3.1
+  Description: Small utility that converts MDF images to ISO format
+  Homepage: https://salsa.debian.org/debian/mdf2iso
 - Package: mdns-scan
   Version: 0.5-3
   Description: A tool for scanning for mDNS/DNS-SD services published on the local network
@@ -11315,7 +11327,7 @@
   Description: An open source sharing solution built on OpenZiti.
   Homepage: https://zrok.io/
 - Package: zsh
-  Version: 5.9.1-1
+  Version: 5.9.1-2
   Description: Shell with lots of features
   Homepage: https://www.zsh.org
 - Package: zsh-completions
