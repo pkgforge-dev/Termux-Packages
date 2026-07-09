@@ -473,7 +473,7 @@
  exiftool  13.59  Utility for reading, writing and editing meta information in a wide variety of files.  https://exiftool.org/ 
  exiv2  2:0.28.8  Exif, Iptc and XMP metadata manipulation library and tools  https://exiv2.org/ 
  expect  5.45.4-4  Tool for automating interactive terminal applications  https://core.tcl.tk/expect/index 
- eza  0.23.4  A modern replacement for ls  https://github.com/eza-community/eza 
+ eza  0.23.5  A modern replacement for ls  https://github.com/eza-community/eza 
  faad2  2.11.2  Freeware Advanced Audio (AAC) Decoder  https://github.com/knik0/faad2 
  fact++  1.6.5-3  Re-implementation of the well-known FaCT Description Logic (DL) Reasoner  https://bitbucket.org/dtsarkov/factplusplus 
  fakeroot  1.38.1  Tool for simulating superuser privileges (with tcp ipc)  https://packages.qa.debian.org/f/fakeroot.html 
@@ -525,9 +525,9 @@
  flyctl  0.4.68  Command line tools for fly.io services  https://fly.io 
  fm  1.2.0  A terminal based file manager  https://github.com/knipferrc/fm 
  fmt  1:11.2.0  Open-source formatting library for C++  https://fmt.dev/latest/index.html 
- fontconfig  2.18.1  Library for configuring and customizing font access  https://www.freedesktop.org/wiki/Software/fontconfig/ 
- fontconfig-static  2.18.1  Static libraries for fontconfig  https://www.freedesktop.org/wiki/Software/fontconfig/ 
- fontconfig-utils  2.18.1  Fontconfig binaries  https://www.freedesktop.org/wiki/Software/fontconfig/ 
+ fontconfig  2.18.2  Library for configuring and customizing font access  https://www.freedesktop.org/wiki/Software/fontconfig/ 
+ fontconfig-static  2.18.2  Static libraries for fontconfig  https://www.freedesktop.org/wiki/Software/fontconfig/ 
+ fontconfig-utils  2.18.2  Fontconfig binaries  https://www.freedesktop.org/wiki/Software/fontconfig/ 
  forestdb-dump  1.2-2  ForestDB dump tool  https://github.com/couchbase/forestdb 
  forgejo  15.0.2  Forgejo is a self-hosted lightweight software forge.  https://forgejo.org/ 
  fortune  1.2-2  Revealer of fortunes  https://www.fefe.de/fortune/ 
@@ -699,13 +699,13 @@
  gsf-tools  1.14.58  Command-line tools for libgsf  https://gitlab.gnome.org/GNOME/libgsf 
  gsl  2.8-1  GNU Scientific Library (GSL) providing a wide range of mathematical routines  https://www.gnu.org/software/gsl/ 
  gsl-static  2.8-1  Static libraries for gsl  https://www.gnu.org/software/gsl/ 
- gst-libav  1.28.4  GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code  https://gstreamer.freedesktop.org/modules/gst-libav.html 
+ gst-libav  1.28.5  GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code  https://gstreamer.freedesktop.org/modules/gst-libav.html 
  gst-plugins-bad  1.28.4  GStreamer Bad Plug-ins  https://gstreamer.freedesktop.org/ 
- gst-plugins-base  1.28.4  GStreamer base plug-ins  https://gstreamer.freedesktop.org/ 
+ gst-plugins-base  1.28.5  GStreamer base plug-ins  https://gstreamer.freedesktop.org/ 
  gst-plugins-good  1.28.4  GStreamer Good Plug-ins  https://gstreamer.freedesktop.org/ 
  gst-plugins-ugly  1.28.4  GStreamer Ugly Plug-ins  https://gstreamer.freedesktop.org/ 
  gst-python  1.28.4-1  Python bindings for GStreamer  https://gstreamer.freedesktop.org/ 
- gstreamer  1.28.4  Open source multimedia framework  https://gstreamer.freedesktop.org/ 
+ gstreamer  1.28.5  Open source multimedia framework  https://gstreamer.freedesktop.org/ 
  gtypist  2.10.1-1  Universal typing tutor  https://www.gnu.org/software/gtypist/ 
  guile  3.0.11-1  Portable, embeddable Scheme implementation written in C  http://www.gnu.org/software/guile/ 
  guile-static  3.0.11-1  Static libraries for guile  http://www.gnu.org/software/guile/ 

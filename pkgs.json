@@ -2851,7 +2851,7 @@
   },
   {
     "Package": "eza",
-    "Version": "0.23.4",
+    "Version": "0.23.5",
     "Description": "A modern replacement for ls",
     "Homepage": "https://github.com/eza-community/eza"
   },
@@ -3163,19 +3163,19 @@
   },
   {
     "Package": "fontconfig",
-    "Version": "2.18.1",
+    "Version": "2.18.2",
     "Description": "Library for configuring and customizing font access",
     "Homepage": "https://www.freedesktop.org/wiki/Software/fontconfig/"
   },
   {
     "Package": "fontconfig-static",
-    "Version": "2.18.1",
+    "Version": "2.18.2",
     "Description": "Static libraries for fontconfig",
     "Homepage": "https://www.freedesktop.org/wiki/Software/fontconfig/"
   },
   {
     "Package": "fontconfig-utils",
-    "Version": "2.18.1",
+    "Version": "2.18.2",
     "Description": "Fontconfig binaries",
     "Homepage": "https://www.freedesktop.org/wiki/Software/fontconfig/"
   },
@@ -4207,7 +4207,7 @@
   },
   {
     "Package": "gst-libav",
-    "Version": "1.28.4",
+    "Version": "1.28.5",
     "Description": "GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code",
     "Homepage": "https://gstreamer.freedesktop.org/modules/gst-libav.html"
   },
@@ -4219,7 +4219,7 @@
   },
   {
     "Package": "gst-plugins-base",
-    "Version": "1.28.4",
+    "Version": "1.28.5",
     "Description": "GStreamer base plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
@@ -4243,7 +4243,7 @@
   },
   {
     "Package": "gstreamer",
-    "Version": "1.28.4",
+    "Version": "1.28.5",
     "Description": "Open source multimedia framework",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
