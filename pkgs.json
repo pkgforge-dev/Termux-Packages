@@ -619,7 +619,7 @@
   },
   {
     "Package": "atuin",
-    "Version": "18.16.1",
+    "Version": "18.17.0",
     "Description": "Magical shell history",
     "Homepage": "https://atuin.sh/"
   },
@@ -1105,7 +1105,7 @@
   },
   {
     "Package": "byobu",
-    "Version": "7.14",
+    "Version": "7.15",
     "Description": "Byobu is a GPLv3 open source text-based window manager and terminal multiplexer",
     "Homepage": "https://www.byobu.org/"
   },
@@ -5101,9 +5101,9 @@
   },
   {
     "Package": "kew",
-    "Version": "4.1.7",
+    "Version": "4.1.8",
     "Description": "Music for the Shell",
-    "Homepage": "https://codeberg.org/ravachol/kew"
+    "Homepage": "https://kewplayer.com"
   },
   {
     "Package": "keybase",
@@ -6607,7 +6607,7 @@
   },
   {
     "Package": "libgrpc",
-    "Version": "1.82.0-1",
+    "Version": "1.82.1",
     "Description": "High performance, open source, general RPC framework that puts mobile and HTTP/2 first",
     "Homepage": "https://grpc.io/"
   },
@@ -9727,19 +9727,19 @@
   },
   {
     "Package": "llama-cpp",
-    "Version": "0.0.0-b9784-0",
+    "Version": "0.0.0-b9934-0",
     "Description": "LLM inference in C/C++",
     "Homepage": "https://github.com/ggml-org/llama.cpp"
   },
   {
     "Package": "llama-cpp-backend-opencl",
-    "Version": "0.0.0-b9784-0",
+    "Version": "0.0.0-b9934-0",
     "Description": "OpenCL Backend for LLaMA.cpp",
     "Homepage": "https://github.com/ggml-org/llama.cpp"
   },
   {
     "Package": "llama-cpp-backend-vulkan",
-    "Version": "0.0.0-b9784-0",
+    "Version": "0.0.0-b9934-0",
     "Description": "Vulkan Backend for LLaMA.cpp",
     "Homepage": "https://github.com/ggml-org/llama.cpp"
   },
@@ -13315,7 +13315,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "5.25.0",
+    "Version": "5.26.0",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -13375,7 +13375,7 @@
   },
   {
     "Package": "rclone",
-    "Version": "1.74.3",
+    "Version": "1.74.4",
     "Description": "rsync for cloud storage",
     "Homepage": "https://rclone.org/"
   },
@@ -14449,7 +14449,7 @@
   },
   {
     "Package": "sqlcipher",
-    "Version": "4.16.0",
+    "Version": "4.17.0",
     "Description": "SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files",
     "Homepage": "https://github.com/sqlcipher/sqlcipher"
   },
@@ -15007,7 +15007,7 @@
   },
   {
     "Package": "teleport-tsh",
-    "Version": "18.9.2",
+    "Version": "18.10.0",
     "Description": "Secure Access for Developers that doesnt get in the way",
     "Homepage": "https://github.com/gravitational/teleport"
   },
