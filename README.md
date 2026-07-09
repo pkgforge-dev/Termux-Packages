@@ -2004,7 +2004,7 @@
 | **p11-kit** | 0.26.2 | Provides a way to load and enumerate PKCS#11 modules | https://p11-glue.github.io/p11-glue/p11-kit.html |
 | **p7zip** | 17.06-1 | Command-line version of the 7zip compressed file archiver | https://github.com/p7zip-project/p7zip |
 | **pacman** | 7.1.0-4 | A library-based package manager with dependency support | https://archlinux.org/pacman/ |
-| **pacman4console** | 1.3-5 | A 9 level ncurses pacman game with editor | https://sites.google.com/site/doctormike/pacman.html |
+| **pacman4console** | 1.3-6 | A 9 level ncurses pacman game with editor | https://sites.google.com/site/doctormike/pacman.html |
 | **panda3d** | 1.10.16-1 | A framework for 3D rendering and game development for Python and C++ programs | https://www.panda3d.org/ |
 | **panda3d-samples** | 1.10.16-1 | Python sample programs that use Panda3D | https://www.panda3d.org/ |
 | **panda3d-static** | 1.10.16-1 | Static libraries for panda3d | https://www.panda3d.org/ |
@@ -2153,7 +2153,7 @@
 | **python-brotli** | 1.2.0-2 | lossless compression algorithm and format (Python bindings) | https://github.com/google/brotli |
 | **python-cmake** | 4.3.4-1 | Python wrapper for CMake | https://cmake-python-distributions.readthedocs.io/ |
 | **python-contourpy** | 1.3.3-5 | Python library for calculating contours in 2D quadrilateral grids | https://contourpy.readthedocs.io/ |
-| **python-cryptography** | 48.0.1-2 | Provides cryptographic recipes and primitives to Python developers | https://github.com/pyca/cryptography |
+| **python-cryptography** | 49.0.0 | Provides cryptographic recipes and primitives to Python developers | https://github.com/pyca/cryptography |
 | **python-ensurepip-wheels** | 3.14.6-1 | Wheels for Python ensurepip | https://python.org/ |
 | **python-greenlet** | 3.5.3-1 | Lightweight coroutines for in-process concurrent programming | https://github.com/python-greenlet/greenlet |
 | **python-grpcio** | 1.82.1 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
