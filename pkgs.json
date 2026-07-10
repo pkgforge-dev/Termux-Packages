@@ -4165,7 +4165,7 @@
   },
   {
     "Package": "groonga",
-    "Version": "16.0.5",
+    "Version": "16.0.5-1",
     "Description": "An embeddable fulltext search engine",
     "Homepage": "https://github.com/groonga/groonga/"
   },
@@ -5557,7 +5557,7 @@
   },
   {
     "Package": "libarrow-cpp",
-    "Version": "24.0.0-2",
+    "Version": "25.0.0",
     "Description": "C++ libraries for Apache Arrow",
     "Homepage": "https://github.com/apache/arrow"
   },
@@ -10009,7 +10009,7 @@
   },
   {
     "Package": "luajit",
-    "Version": "1:2.1.1783585446+gfed6d47",
+    "Version": "1:2.1.1783672735+g5dd996e",
     "Description": "Just-In-Time Compiler for Lua",
     "Homepage": "https://luajit.org/"
   },
@@ -10021,7 +10021,7 @@
   },
   {
     "Package": "luajit-static",
-    "Version": "1:2.1.1783585446+gfed6d47",
+    "Version": "1:2.1.1783672735+g5dd996e",
     "Description": "Static libraries for luajit",
     "Homepage": "https://luajit.org/"
   },
@@ -11509,7 +11509,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "29.25.0",
+    "Version": "29.25.1",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -12823,7 +12823,7 @@
   },
   {
     "Package": "python-apsw",
-    "Version": "3.53.3.0",
+    "Version": "3.53.3.1",
     "Description": "Another Python SQLite Wrapper",
     "Homepage": "https://rogerbinns.github.io/apsw/"
   },
@@ -12949,7 +12949,7 @@
   },
   {
     "Package": "python-pyarrow",
-    "Version": "24.0.0-2",
+    "Version": "25.0.0",
     "Description": "Python bindings for Apache Arrow",
     "Homepage": "https://github.com/apache/arrow"
   },
@@ -15391,7 +15391,7 @@
   },
   {
     "Package": "topgrade",
-    "Version": "17.6.2",
+    "Version": "17.7.0",
     "Description": "Upgrade all the things",
     "Homepage": "https://github.com/topgrade-rs/topgrade/"
   },
@@ -16249,7 +16249,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "2026.07.07",
+    "Version": "2026.07.09",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://github.com/directvt/vtm"
   },
