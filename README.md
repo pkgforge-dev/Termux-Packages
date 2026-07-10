@@ -530,8 +530,8 @@
 | **flang** | 21.1.8-3 | LLVM's Fortran frontend | https://flang.llvm.org/ |
 | **flatbuffers** | 25.12.19-2026-02-06-03fffb2-1 | Memory Efficient Serialization Library | https://github.com/google/flatbuffers |
 | **flatbuffers-static** | 25.12.19-2026-02-06-03fffb2-1 | Static libraries for flatbuffers | https://github.com/google/flatbuffers |
-| **flex** | 2.6.4-4 | Fast lexical analyser generator | https://github.com/westes/flex |
-| **flex-static** | 2.6.4-4 | Static libraries for flex | https://github.com/westes/flex |
+| **flex** | 2.6.4-5 | Fast lexical analyser generator | https://github.com/westes/flex |
+| **flex-static** | 2.6.4-5 | Static libraries for flex | https://github.com/westes/flex |
 | **flint** | 3.6.0 | C library for doing number theory | http://www.flintlib.org |
 | **fluidsynth** | 2.5.6 | Software synthesizer based on the SoundFont 2 specifications | https://github.com/FluidSynth/fluidsynth |
 | **flyctl** | 0.4.69 | Command line tools for fly.io services | https://fly.io |
