@@ -93,7 +93,7 @@
 | **aspnetcore-targeting-pack-8.0** | 8.0.28 | ASP.NET Core 8.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **aspnetcore-targeting-pack-9.0** | 9.0.17 | ASP.NET Core 9.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **assimp** | 6.0.5 | Library to import various well-known 3D model formats in an uniform manner | https://assimp.sourceforge.net/index.html |
-| **asymptote** | 3.12 | A powerful descriptive vector graphics language for technical drawing | https://asymptote.sourceforge.io/ |
+| **asymptote** | 3.13 | A powerful descriptive vector graphics language for technical drawing | https://asymptote.sourceforge.io/ |
 | **at** | 3.2.5-2 | AT and batch delayed command scheduling utility and daemon | https://salsa.debian.org/debian/at |
 | **at-spi2-core** | 2.60.5-1 | Assistive Technology Service Provider Interface (AT-SPI) | https://wiki.gnome.org/Accessibility |
 | **atomicparsley** | 1:20240608.083822.1ed9031-1 | Read, parse and set metadata of MPEG-4 and 3gp files | https://github.com/wez/atomicparsley |
@@ -450,7 +450,7 @@
 | **eltclsh** | 1.20-1 | Interactive shell for TCL programming language | https://homepages.laas.fr/mallet/soft/shell/eltclsh |
 | **elvish** | 0.21.0-1 | A friendly and expressive Unix shell | https://github.com/elves/elvish |
 | **emacs** | 30.2-3 | Extensible, customizable text editor-and more | https://www.gnu.org/software/emacs/ |
-| **emmylua-ls** | 0.23.2 | Emmy Lua Language Server coded in Rust | https://github.com/EmmyLuaLs/emmylua-analyzer-rust |
+| **emmylua-ls** | 0.24.0 | Emmy Lua Language Server coded in Rust | https://github.com/EmmyLuaLs/emmylua-analyzer-rust |
 | **emscripten** | 6.0.1 | Emscripten: An LLVM-to-WebAssembly Compiler | https://emscripten.org |
 | **emscripten-binaryen** | 6.0.1 | Emscripten-compatible Binaryen | https://emscripten.org |
 | **emscripten-llvm** | 6.0.1 | Emscripten-compatible LLVM | https://emscripten.org |
@@ -479,7 +479,7 @@
 | **fakeroot** | 1.38.1 | Tool for simulating superuser privileges (with tcp ipc) | https://packages.qa.debian.org/f/fakeroot.html |
 | **fakeroot-static** | 1.38.1 | Static libraries for fakeroot | https://packages.qa.debian.org/f/fakeroot.html |
 | **fasd** | 2.0.0 | To fastly access files and folders | https://github.com/whjvenyl/fasd |
-| **fastfetch** | 2.65.2 | A maintained, feature-rich and performance oriented, neofetch like system information tool | https://github.com/fastfetch-cli/fastfetch |
+| **fastfetch** | 2.66.0 | A maintained, feature-rich and performance oriented, neofetch like system information tool | https://github.com/fastfetch-cli/fastfetch |
 | **fastmod** | 0.4.4-1 | Regex-based code refactoring utility | https://github.com/facebookincubator/fastmod |
 | **fatsort** | 1.7.679 | A C utility that sorts FAT12, FAT16, FAT32 and exFAT partitions | https://fatsort.sourceforge.io/ |
 | **faust** | 2.85.9 | A functional programming language for signal processing and sound synthesis | https://github.com/grame-cncm/faust |
@@ -1743,7 +1743,7 @@
 | **mediamtx** | 1.19.2 | Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy | https://github.com/bluenviron/mediamtx |
 | **megacmd** | 2.5.2 | Provides non UI access to MEGA services | https://mega.io/ |
 | **megatools** | 1.11.5.20250706-1 | Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage | https://xff.cz/megatools/ |
-| **memcached** | 1.6.44 | Free & open source, high-performance, distributed memory object caching system | https://memcached.org/ |
+| **memcached** | 1.6.45 | Free & open source, high-performance, distributed memory object caching system | https://memcached.org/ |
 | **mercury** | 22.01.8-1 | A logic/functional programming language | https://www.mercurylang.org/ |
 | **mercury-static** | 22.01.8-1 | Static libraries for mercury | https://www.mercurylang.org/ |
 | **mesa** | 26.0.6-1 | An open-source implementation of the OpenGL specification | https://www.mesa3d.org |
@@ -1800,7 +1800,7 @@
 | **mp3splt** | 2.6.2-2 | Utility to split mp3, ogg vorbis and FLAC files without decoding | https://mp3splt.sourceforge.net |
 | **mp3wrap** | 0.5-2 | A command-line utility that wraps quickly two or more mp3 files in one single large playable mp3 | https://mp3wrap.sourceforge.net/ |
 | **mpc** | 0.35-2 | Minimalist command line interface for MPD | https://www.musicpd.org/clients/mpc/ |
-| **mpd** | 0.24.12 | Music player daemon | https://www.musicpd.org |
+| **mpd** | 0.24.13 | Music player daemon | https://www.musicpd.org |
 | **mpdscribble** | 0.26 | A Music Player Daemon (MPD) client which submits information about tracks being played to a scrobbler | https://www.musicpd.org/clients/mpdscribble/ |
 | **mpg123** | 1.33.3 | Fast console MPEG Audio Player based on libmpg123 | https://mpg123.org/ |
 | **mplayer** | 1.5-14 | The Movie Player | https://mplayerhq.hu/ |
@@ -1916,7 +1916,7 @@
 | **octomap** | 1.10.0-1 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0-1 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-5 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 29.24.1 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 29.25.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **oidn** | 2.4.1 | Intel® Open Image Denoise library | https://www.openimagedenoise.org |
 | **okc-agents** | 0.1.2-2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.7 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
@@ -1989,7 +1989,7 @@
 | **ovmf** | 20231122-16.fc40-0 | Open Virtual Machine Firmware | https://www.tianocore.org/ |
 | **oxfmt** | 1.73.0 | Oxc JavaScript formatter | https://oxc.rs/ |
 | **oxlint** | 1.73.0 | Oxc JavaScript linter | https://oxc.rs/ |
-| **p11-kit** | 0.26.2 | Provides a way to load and enumerate PKCS#11 modules | https://p11-glue.github.io/p11-glue/p11-kit.html |
+| **p11-kit** | 0.26.4 | Provides a way to load and enumerate PKCS#11 modules | https://p11-glue.github.io/p11-glue/p11-kit.html |
 | **p7zip** | 17.06-1 | Command-line version of the 7zip compressed file archiver | https://github.com/p7zip-project/p7zip |
 | **pacman** | 7.1.0-4 | A library-based package manager with dependency support | https://archlinux.org/pacman/ |
 | **pacman4console** | 1.3-6 | A 9 level ncurses pacman game with editor | https://sites.google.com/site/doctormike/pacman.html |
@@ -2443,7 +2443,7 @@
 | **stoken** | 0.93-3 | Software Token for Linux/UNIX | https://github.com/cernekee/stoken |
 | **stoken-static** | 0.93-3 | Static libraries for stoken | https://github.com/cernekee/stoken |
 | **stone** | 2.4-3 | A TCP/IP repeater in the application layer | https://www.gcd.org/sengoku/stone/ |
-| **storj-uplink** | 1.158.4 | Storj DCS Uplink CLI | https://www.storj.io/integrations/uplink-cli |
+| **storj-uplink** | 1.158.7 | Storj DCS Uplink CLI | https://www.storj.io/integrations/uplink-cli |
 | **stow** | 2.4.1 | Tool for managing the installation of multiple software packages into a single directory | https://www.gnu.org/software/stow/ |
 | **strace** | 7.1 | Debugging utility to monitor system calls and signals received | https://strace.io/ |
 | **streamripper** | 1.64.6-3 | Records and splits streaming mp3 into tracks | https://streamripper.sourceforge.net/ |
@@ -2721,7 +2721,7 @@
 | **w3m** | 0.5.6-2 | Text based Web browser and pager | https://git.sr.ht/~rkta/w3m |
 | **w3m-img** | 0.5.6-2 | Inline image extension support utilities for w3m | https://git.sr.ht/~rkta/w3m |
 | **wabt** | 1.0.41 | The WebAssembly Binary Toolkit | https://github.com/WebAssembly/wabt |
-| **wakatime-cli** | 2.21.4 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
+| **wakatime-cli** | 2.22.0 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
 | **walk** | 1.13.0 | A terminal file manager | https://github.com/antonmedv/walk |
 | **wallust** | 3.5.2 | Generate colors from an image | https://explosion-mental.codeberg.page/wallust |
 | **wasi-libc** | 33 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |

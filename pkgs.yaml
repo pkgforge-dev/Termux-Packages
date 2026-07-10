@@ -379,7 +379,7 @@
   Description: Library to import various well-known 3D model formats in an uniform manner
   Homepage: https://assimp.sourceforge.net/index.html
 - Package: asymptote
-  Version: "3.12"
+  Version: "3.13"
   Description: A powerful descriptive vector graphics language for technical drawing
   Homepage: https://asymptote.sourceforge.io/
 - Package: at
@@ -1807,7 +1807,7 @@
   Description: Extensible, customizable text editor-and more
   Homepage: https://www.gnu.org/software/emacs/
 - Package: emmylua-ls
-  Version: 0.23.2
+  Version: 0.24.0
   Description: Emmy Lua Language Server coded in Rust
   Homepage: https://github.com/EmmyLuaLs/emmylua-analyzer-rust
 - Package: emscripten
@@ -1923,7 +1923,7 @@
   Description: To fastly access files and folders
   Homepage: https://github.com/whjvenyl/fasd
 - Package: fastfetch
-  Version: 2.65.2
+  Version: 2.66.0
   Description: A maintained, feature-rich and performance oriented, neofetch like system information tool
   Homepage: https://github.com/fastfetch-cli/fastfetch
 - Package: fastmod
@@ -6979,7 +6979,7 @@
   Description: Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage
   Homepage: https://xff.cz/megatools/
 - Package: memcached
-  Version: 1.6.44
+  Version: 1.6.45
   Description: Free & open source, high-performance, distributed memory object caching system
   Homepage: https://memcached.org/
 - Package: mercury
@@ -7207,7 +7207,7 @@
   Description: Minimalist command line interface for MPD
   Homepage: https://www.musicpd.org/clients/mpc/
 - Package: mpd
-  Version: 0.24.12
+  Version: 0.24.13
   Description: Music player daemon
   Homepage: https://www.musicpd.org
 - Package: mpdscribble
@@ -7671,7 +7671,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 29.24.1
+  Version: 29.25.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: oidn
@@ -7963,7 +7963,7 @@
   Description: Oxc JavaScript linter
   Homepage: https://oxc.rs/
 - Package: p11-kit
-  Version: 0.26.2
+  Version: 0.26.4
   Description: Provides a way to load and enumerate PKCS#11 modules
   Homepage: https://p11-glue.github.io/p11-glue/p11-kit.html
 - Package: p7zip
@@ -9779,7 +9779,7 @@
   Description: A TCP/IP repeater in the application layer
   Homepage: https://www.gcd.org/sengoku/stone/
 - Package: storj-uplink
-  Version: 1.158.4
+  Version: 1.158.7
   Description: Storj DCS Uplink CLI
   Homepage: https://www.storj.io/integrations/uplink-cli
 - Package: stow
@@ -10891,7 +10891,7 @@
   Description: The WebAssembly Binary Toolkit
   Homepage: https://github.com/WebAssembly/wabt
 - Package: wakatime-cli
-  Version: 2.21.4
+  Version: 2.22.0
   Description: Command line interface used by all WakaTime text editor plugins
   Homepage: https://wakatime.com/plugins/
 - Package: walk
