@@ -463,7 +463,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.35.19
+  Version: 2.35.20
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -2275,7 +2275,7 @@
   Description: Program for calculating and printing calendars
   Homepage: https://www.gnu.org/software/gcal/
 - Package: gdal
-  Version: 3.12.4
+  Version: 3.12.4-1
   Description: A translator library for raster and vector geospatial data formats
   Homepage: https://gdal.org
 - Package: gdb
@@ -6671,7 +6671,7 @@
   Description: Static libraries for lua55
   Homepage: https://www.lua.org/
 - Package: luajit
-  Version: 1:2.1.1783415239+gacb2234
+  Version: 1:2.1.1783585446+gfed6d47
   Description: Just-In-Time Compiler for Lua
   Homepage: https://luajit.org/
 - Package: luajit-lgi
@@ -6679,7 +6679,7 @@
   Description: Dynamic Lua binding to GObject libraries using GObject-Introspection
   Homepage: https://github.com/lgi-devs/lgi
 - Package: luajit-static
-  Version: 1:2.1.1783415239+gacb2234
+  Version: 1:2.1.1783585446+gfed6d47
   Description: Static libraries for luajit
   Homepage: https://luajit.org/
 - Package: luarocks
@@ -7119,7 +7119,7 @@
   Description: A private, secure, untraceable, decentralised digital currency
   Homepage: https://getmonero.org/
 - Package: monetdb
-  Version: 11.55.5
+  Version: 11.55.5-1
   Description: A high-performance database kernel for query-intensive applications
   Homepage: https://www.monetdb.org/
 - Package: mono
@@ -7447,7 +7447,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-941+g7c9222f45e-0
+  Version: 0.13.0~dev-952+gedb043bf33-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -7471,11 +7471,11 @@
   Description: TCP/IP swiss army knife. OpenBSD variant.
   Homepage: https://packages.debian.org/sid/netcat-openbsd
 - Package: netcdf-c
-  Version: 4.10.0
+  Version: 4.10.1
   Description: NetCDF is a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data
   Homepage: https://www.unidata.ucar.edu/software/netcdf/
 - Package: netcdf-c-static
-  Version: 4.10.0
+  Version: 4.10.1
   Description: Static libraries for netcdf-c
   Homepage: https://www.unidata.ucar.edu/software/netcdf/
 - Package: nethack
@@ -7671,7 +7671,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 29.24.0
+  Version: 29.24.1
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: oidn
@@ -11215,7 +11215,7 @@
   Description: Embeddable layout engine targeting web standards
   Homepage: https://www.yogalayout.dev/
 - Package: yosys
-  Version: "0.66"
+  Version: "0.67"
   Description: A framework for RTL synthesis tools
   Homepage: https://yosyshq.net/yosys/
 - Package: youtubedr

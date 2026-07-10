@@ -697,7 +697,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.35.19",
+    "Version": "2.35.20",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -3415,7 +3415,7 @@
   },
   {
     "Package": "gdal",
-    "Version": "3.12.4",
+    "Version": "3.12.4-1",
     "Description": "A translator library for raster and vector geospatial data formats",
     "Homepage": "https://gdal.org"
   },
@@ -10009,7 +10009,7 @@
   },
   {
     "Package": "luajit",
-    "Version": "1:2.1.1783415239+gacb2234",
+    "Version": "1:2.1.1783585446+gfed6d47",
     "Description": "Just-In-Time Compiler for Lua",
     "Homepage": "https://luajit.org/"
   },
@@ -10021,7 +10021,7 @@
   },
   {
     "Package": "luajit-static",
-    "Version": "1:2.1.1783415239+gacb2234",
+    "Version": "1:2.1.1783585446+gfed6d47",
     "Description": "Static libraries for luajit",
     "Homepage": "https://luajit.org/"
   },
@@ -10681,7 +10681,7 @@
   },
   {
     "Package": "monetdb",
-    "Version": "11.55.5",
+    "Version": "11.55.5-1",
     "Description": "A high-performance database kernel for query-intensive applications",
     "Homepage": "https://www.monetdb.org/"
   },
@@ -11173,7 +11173,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-941+g7c9222f45e-0",
+    "Version": "0.13.0~dev-952+gedb043bf33-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -11209,13 +11209,13 @@
   },
   {
     "Package": "netcdf-c",
-    "Version": "4.10.0",
+    "Version": "4.10.1",
     "Description": "NetCDF is a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data",
     "Homepage": "https://www.unidata.ucar.edu/software/netcdf/"
   },
   {
     "Package": "netcdf-c-static",
-    "Version": "4.10.0",
+    "Version": "4.10.1",
     "Description": "Static libraries for netcdf-c",
     "Homepage": "https://www.unidata.ucar.edu/software/netcdf/"
   },
@@ -11509,7 +11509,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "29.24.0",
+    "Version": "29.24.1",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -16825,7 +16825,7 @@
   },
   {
     "Package": "yosys",
-    "Version": "0.66",
+    "Version": "0.67",
     "Description": "A framework for RTL synthesis tools",
     "Homepage": "https://yosyshq.net/yosys/"
   },
