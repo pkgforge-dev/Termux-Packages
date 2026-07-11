@@ -163,9 +163,9 @@
 | **blackbox** | 1:1.20220610 | Safely store secrets in Git/Mercurial/Subversion | https://github.com/StackExchange/blackbox |
 | **blas-openblas** | 0.3.33 | OpenBLAS symlinks for BLAS/CBLAS/LAPACK/LAPACKE | https://www.openblas.net |
 | **blink** | 1:1.1.0-1 | Tiny x86-64 Linux emulator | https://justine.lol/blinkenlights/ |
-| **blk-utils** | 2.42.1-3 | Utilities for handling block device attributes | https://en.wikipedia.org/wiki/Util-linux |
+| **blk-utils** | 2.42.1-4 | Utilities for handling block device attributes | https://en.wikipedia.org/wiki/Util-linux |
 | **blogc** | 0.20.1-1 | A blog compiler | https://blogc.rgm.io/ |
-| **blueprint-compiler** | 0.20.4-1 | Markup language for GTK user interfaces | https://gnome.pages.gitlab.gnome.org/blueprint-compiler/ |
+| **blueprint-compiler** | 0.22.2 | Markup language for GTK user interfaces | https://gnome.pages.gitlab.gnome.org/blueprint-compiler/ |
 | **bmon** | 4.0-4 | Bandwidth monitor and rate estimator | https://github.com/tgraf/bmon |
 | **boinc** | 8.2.9 | Open-source software for volunteer computing | https://boinc.berkeley.edu/ |
 | **boinctui** | 2.7.2 | curses based manager for Boinc client | https://sourceforge.net/projects/boinctui/ |
@@ -503,7 +503,7 @@
 | **fclones** | 0.35.0-1 | Efficient Duplicate File Finder | https://github.com/pkolaczk/fclones |
 | **fcp** | 0.2.2 | A significantly faster alternative to the classic Unix cp(1) command | https://github.com/Svetlitski/fcp |
 | **fd** | 10.4.2 | Simple, fast and user-friendly alternative to find | https://github.com/sharkdp/fd |
-| **fdisk** | 2.42.1-3 | Utilities to manipulate disk partition tables | https://en.wikipedia.org/wiki/Util-linux |
+| **fdisk** | 2.42.1-4 | Utilities to manipulate disk partition tables | https://en.wikipedia.org/wiki/Util-linux |
 | **fdkaac** | 1.0.7 | command line encoder frontend for libfdk-aac | https://github.com/nu774/fdkaac |
 | **fdm** | 2.2-2 | A program designed to fetch mail from POP3 or IMAP servers, or receive local mail from stdin, and deliver it in various ways | https://github.com/nicm/fdm |
 | **fdroidcl** | 0.8.1-1 | F-Droid client | https://github.com/mvdan/fdroidcl |
@@ -557,7 +557,7 @@
 | **fribidi-static** | 1.0.16-1 | Static libraries for fribidi | https://github.com/fribidi/fribidi/ |
 | **frobtads** | 2.0-5 | TADS is a free authoring system for writing your own Interactive Fiction | http://www.tads.org/frobtads.htm |
 | **frotz** | 2.55-2 | Interpreter for Infocom and other Z-machine interactive fiction (IF) games | https://gitlab.com/DavidGriffith/frotz |
-| **frp** | 0.69.1 | A fast reverse proxy to expose a local server behind a NAT or firewall to the internet | https://github.com/fatedier/frp |
+| **frp** | 0.70.0 | A fast reverse proxy to expose a local server behind a NAT or firewall to the internet | https://github.com/fatedier/frp |
 | **fselect** | 0.10.2 | Find files with SQL-like queries | https://fselect.rocks/ |
 | **fsmon** | 1.8.8-1 | Filesystem monitor with fanotify and inotify backends | https://github.com/nowsecure/fsmon |
 | **fwknop** | 2.6.11-2 | fwknop: Single Packet Authorization > Port Knocking | https://www.cipherdyne.org/fwknop/ |
@@ -948,7 +948,7 @@
 | **libatomic-ops-static** | 7.10.0 | Static libraries for libatomic-ops | https://github.com/bdwgc/libatomic_ops |
 | **libavif** | 1.4.2 | Library for encoding and decoding .avif files | https://github.com/AOMediaCodec/libavif |
 | **libbcprov-java** | 1.84 | A lightweight cryptography API for Java | https://www.bouncycastle.org/java.html |
-| **libblkid** | 2.42.1-3 | Block device identification library | https://en.wikipedia.org/wiki/Util-linux |
+| **libblkid** | 2.42.1-4 | Block device identification library | https://en.wikipedia.org/wiki/Util-linux |
 | **libblocksruntime** | 1:6.2.1 | LLVM Blocks runtime library | https://github.com/swiftlang/swift-corelibs-libdispatch |
 | **libblosc** | 1.21.6-2 | A blocking, shuffling and loss-less compression library | https://www.blosc.org |
 | **libblosc-static** | 1.21.6-2 | Static libraries for libblosc | https://www.blosc.org |
@@ -1066,7 +1066,7 @@
 | **libexpat-static** | 2.8.2 | Static libraries for libexpat | https://libexpat.github.io/ |
 | **libfann** | 2.2.0-2 | Fast artificial neural network library | http://leenissen.dk/fann/wp |
 | **libfcl** | 0.7.0-4 | Flexible collision library | https://github.com/flexible-collision-library/fcl |
-| **libfdisk** | 2.42.1-3 | Library for manipulating disk partition tables | https://en.wikipedia.org/wiki/Util-linux |
+| **libfdisk** | 2.42.1-4 | Library for manipulating disk partition tables | https://en.wikipedia.org/wiki/Util-linux |
 | **libfdk-aac** | 2.0.3-1 | Fraunhofer FDK AAC Codec Library | https://github.com/mstorsjo/fdk-aac |
 | **libfdk-aac-static** | 2.0.3-1 | Static libraries for libfdk-aac | https://github.com/mstorsjo/fdk-aac |
 | **libffi** | 3.5.2 | Library providing a portable, high level programming interface to various calling conventions | https://sourceware.org/libffi/ |
@@ -1239,7 +1239,7 @@
 | **libmodplug** | 0.8.9.1.r461-1 | The ModPlug mod file playing library | https://modplug-xmms.sourceforge.net/ |
 | **libmodplug-static** | 0.8.9.1.r461-1 | Static libraries for libmodplug | https://modplug-xmms.sourceforge.net/ |
 | **libmosquitto** | 2.1.2 | MQTT library | https://mosquitto.org/ |
-| **libmount** | 2.42.1-3 | Library for (un)mounting filesystems | https://en.wikipedia.org/wiki/Util-linux |
+| **libmount** | 2.42.1-4 | Library for (un)mounting filesystems | https://en.wikipedia.org/wiki/Util-linux |
 | **libmp3lame** | 3.100-7 | High quality MPEG Audio Layer III (MP3) encoder | https://lame.sourceforge.io/ |
 | **libmp3lame-static** | 3.100-7 | Static libraries for libmp3lame | https://lame.sourceforge.io/ |
 | **libmp3splt** | 0.9.2-10 | Utility to split MP3, Ogg Vorbis and native FLAC files without decoding | https://mp3splt.sourceforge.net |
@@ -1415,7 +1415,7 @@
 | **libskiasharp** | 3.116.1.20241024-1 | SkiaSharp is a cross-platform 2D graphics API for .NET platforms | https://github.com/mono/SkiaSharp |
 | **libslirp** | 4.8.0-2 | A general purpose TCP-IP emulator | https://gitlab.freedesktop.org/slirp/libslirp |
 | **libsm** | 1.2.6-1 | X11 Session Management library | https://xorg.freedesktop.org/ |
-| **libsmartcols** | 2.42.1-3 | Library for smart adaptive formatting of tabular data | https://en.wikipedia.org/wiki/Util-linux |
+| **libsmartcols** | 2.42.1-4 | Library for smart adaptive formatting of tabular data | https://en.wikipedia.org/wiki/Util-linux |
 | **libsnappy** | 1.2.2-1 | A compression/decompression library | https://github.com/google/snappy |
 | **libsndfile** | 1.2.2-2 | Library for reading/writing audio files | http://www.mega-nerd.com/libsndfile |
 | **libsndfile-static** | 1.2.2-2 | Static libraries for libsndfile | http://www.mega-nerd.com/libsndfile |
@@ -1515,7 +1515,7 @@
 | **libusbmuxd** | 2.1.1-2 | A client library for applications to handle usbmux protocol connections with iOS devices | https://libimobiledevice.org |
 | **libusbmuxd-static** | 2.1.1-2 | Static libraries for libusbmuxd | https://libimobiledevice.org |
 | **libusbredir** | 0.13.0-1 | network protocol for sending USB device traffic over a network connection | https://www.spice-space.org/ |
-| **libuuid** | 2.42.1-3 | Library for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
+| **libuuid** | 2.42.1-4 | Library for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
 | **libuv** | 1.52.1 | Support library with a focus on asynchronous I/O | https://libuv.org |
 | **libuv-static** | 1.52.1 | Static libraries for libuv | https://libuv.org |
 | **libv4l** | 1.24.1-2 | Linux libraries to handle media devices | https://git.linuxtv.org/v4l-utils.git |
@@ -1805,7 +1805,7 @@
 | **mosh-perl** | 1.4.0-17 | The mosh Perl script | https://mosh.org |
 | **mosquitto** | 2.1.2 | MQTT version 3.1/3.1.1 compatible message broker and clients | https://mosquitto.org/ |
 | **most** | 5.2.0-4 | A terminal pager similar to 'more' and 'less' | http://www.jedsoft.org/most/index.html |
-| **mount-utils** | 2.42.1-3 | Utilities for (un)mounting filesystems | https://en.wikipedia.org/wiki/Util-linux |
+| **mount-utils** | 2.42.1-4 | Utilities for (un)mounting filesystems | https://en.wikipedia.org/wiki/Util-linux |
 | **mp3cat** | 0.5-2 | Copies a byte stream, skipping everything except mp3 frames with valid headers | https://tomclegg.ca/mp3cat |
 | **mp3cat-go** | 4.2.2-3 | A command line utility for joining MP3 files. | https://www.dmulholl.com/dev/mp3cat.html |
 | **mp3gain** | 1.6.2-2 | Analyzes and adjusts mp3 files so that they have the same volume | https://mp3gain.sourceforge.net/ |
@@ -2676,10 +2676,10 @@
 | **utf8proc** | 2.11.3 | Library for processing UTF-8 Unicode data | https://github.com/JuliaLang/utf8proc |
 | **utf8proc-static** | 2.11.3 | Static libraries for utf8proc | https://github.com/JuliaLang/utf8proc |
 | **uthash** | 2.4.0 | C preprocessor implementations of a hash table and a linked list | https://troydhanson.github.io/uthash/ |
-| **util-linux** | 2.42.1-3 | Miscellaneous system utilities | https://en.wikipedia.org/wiki/Util-linux |
-| **util-linux-static** | 2.42.1-3 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
+| **util-linux** | 2.42.1-4 | Miscellaneous system utilities | https://en.wikipedia.org/wiki/Util-linux |
+| **util-linux-static** | 2.42.1-4 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-2 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
-| **uuid-utils** | 2.42.1-3 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
+| **uuid-utils** | 2.42.1-4 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
 | **uv** | 0.11.28 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.31-2 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.51.2 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
