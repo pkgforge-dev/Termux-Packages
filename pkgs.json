@@ -1033,7 +1033,7 @@
   },
   {
     "Package": "broot",
-    "Version": "1.57.0",
+    "Version": "1.58.0",
     "Description": "A better way to navigate directories",
     "Homepage": "https://github.com/Canop/broot"
   },
@@ -7447,13 +7447,13 @@
   },
   {
     "Package": "libmpg123",
-    "Version": "1.33.3",
+    "Version": "1.33.5",
     "Description": "Fast console MPEG Audio Player and decoder library",
     "Homepage": "https://mpg123.org/"
   },
   {
     "Package": "libmpg123-static",
-    "Version": "1.33.3",
+    "Version": "1.33.5",
     "Description": "Static libraries for libmpg123",
     "Homepage": "https://mpg123.org/"
   },
@@ -10825,7 +10825,7 @@
   },
   {
     "Package": "mpg123",
-    "Version": "1.33.3",
+    "Version": "1.33.5",
     "Description": "Fast console MPEG Audio Player based on libmpg123",
     "Homepage": "https://mpg123.org/"
   },
@@ -12847,7 +12847,7 @@
   },
   {
     "Package": "python-cmake",
-    "Version": "4.3.4-1",
+    "Version": "4.4.0",
     "Description": "Python wrapper for CMake",
     "Homepage": "https://cmake-python-distributions.readthedocs.io/"
   },
