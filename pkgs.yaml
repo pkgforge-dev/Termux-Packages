@@ -3239,7 +3239,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.24.2173
+  Version: 0.24.2205
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -6411,7 +6411,7 @@
   Description: Static libraries for libzen
   Homepage: https://mediaarea.net/en/MediaInfo
 - Package: libzim
-  Version: 9.8.0
+  Version: 9.8.1
   Description: The ZIM library is the reference implementation for the ZIM file format.
   Homepage: https://openzim.org
 - Package: libzimg
@@ -6671,7 +6671,7 @@
   Description: Static libraries for lua55
   Homepage: https://www.lua.org/
 - Package: luajit
-  Version: 1:2.1.1783672735+g5dd996e
+  Version: 1:2.1.1783773675+g3c4f9fe
   Description: Just-In-Time Compiler for Lua
   Homepage: https://luajit.org/
 - Package: luajit-lgi
@@ -6679,7 +6679,7 @@
   Description: Dynamic Lua binding to GObject libraries using GObject-Introspection
   Homepage: https://github.com/lgi-devs/lgi
 - Package: luajit-static
-  Version: 1:2.1.1783672735+g5dd996e
+  Version: 1:2.1.1783773675+g3c4f9fe
   Description: Static libraries for luajit
   Homepage: https://luajit.org/
 - Package: luarocks
@@ -7351,7 +7351,7 @@
   Description: An interactive cheatsheet tool for the command-line
   Homepage: https://github.com/denisidoro/navi
 - Package: navidrome
-  Version: 0.63.1
+  Version: 0.63.2
   Description: Modern Music Server and Streamer compatible with Subsonic/Airsonic
   Homepage: https://www.navidrome.org/
 - Package: ncdc
@@ -7671,7 +7671,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 29.25.1
+  Version: 29.26.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: oidn
