@@ -697,7 +697,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.35.20",
+    "Version": "2.35.21",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -1147,7 +1147,7 @@
   },
   {
     "Package": "cabal-install",
-    "Version": "3.14.1.1-1",
+    "Version": "3.14.1.1-2",
     "Description": "The command-line interface for Haskell-Cabal and Hackage",
     "Homepage": "https://www.haskell.org/cabal/"
   },
@@ -3937,13 +3937,13 @@
   },
   {
     "Package": "golang",
-    "Version": "3:1.26.3",
+    "Version": "3:1.26.5",
     "Description": "Go programming language compiler",
     "Homepage": "https://go.dev/"
   },
   {
     "Package": "golang-doc",
-    "Version": "3:1.26.3",
+    "Version": "3:1.26.5",
     "Description": "Go programming language - documentation",
     "Homepage": "https://go.dev/"
   },
@@ -4681,13 +4681,13 @@
   },
   {
     "Package": "imagemagick",
-    "Version": "7.1.2.26",
+    "Version": "7.1.2.27",
     "Description": "Suite to create, edit, compose, or convert images in a variety of formats",
     "Homepage": "https://www.imagemagick.org/"
   },
   {
     "Package": "imagemagick-static",
-    "Version": "7.1.2.26",
+    "Version": "7.1.2.27",
     "Description": "Static libraries for imagemagick",
     "Homepage": "https://www.imagemagick.org/"
   },
@@ -14125,7 +14125,7 @@
   },
   {
     "Package": "shellcheck",
-    "Version": "0.11.0",
+    "Version": "0.11.0-1",
     "Description": "Shell script analysis tool",
     "Homepage": "https://www.shellcheck.net/"
   },
