@@ -1305,7 +1305,7 @@
 | **libolm** | 3.2.16-2 | An implementation of the Double Ratchet cryptographic ratchet | https://matrix.org/docs/projects/other/olm/ |
 | **libopenblas** | 0.3.33 | An optimized BLAS library based on GotoBLAS2 1.13 BSD | https://www.openblas.net |
 | **libopenblas-static** | 0.3.33 | Static libraries for libopenblas | https://www.openblas.net |
-| **libopencc** | 1.4.0 | An opensource project for conversions between Traditional Chinese, Simplified Chinese and Japanese Kanji (Shinjitai) | https://github.com/BYVoid/OpenCC |
+| **libopencc** | 1.4.1 | An opensource project for conversions between Traditional Chinese, Simplified Chinese and Japanese Kanji (Shinjitai) | https://github.com/BYVoid/OpenCC |
 | **libopencore-amr** | 0.1.6-1 | Open source implementation of the Adaptive Multi Rate (AMR) speech codec | https://sourceforge.net/projects/opencore-amr/ |
 | **libopencore-amr-static** | 0.1.6-1 | Static libraries for libopencore-amr | https://sourceforge.net/projects/opencore-amr/ |
 | **libopenfec** | 1.4.2.12-1 | Application-Level Forward Erasure Correction implementation library | http://openfec.org |
@@ -1358,8 +1358,8 @@
 | **libprotobuf-c** | 1.5.2-4 | Protocol buffers C library | https://github.com/protobuf-c/protobuf-c |
 | **libprotobuf-c-static** | 1.5.2-4 | Static libraries for libprotobuf-c | https://github.com/protobuf-c/protobuf-c |
 | **libprotozero** | 1.8.0 | Minimalistic protocol buffer decoder and encoder in C++ | https://github.com/mapbox/protozero |
-| **libpsl** | 0.22.0 | Public Suffix List library | https://github.com/rockdaboot/libpsl |
-| **libpsl-static** | 0.22.0 | Static libraries for libpsl | https://github.com/rockdaboot/libpsl |
+| **libpsl** | 0.23.0 | Public Suffix List library | https://github.com/rockdaboot/libpsl |
+| **libpsl-static** | 0.23.0 | Static libraries for libpsl | https://github.com/rockdaboot/libpsl |
 | **libpugixml** | 1.16 | Light-weight, simple and fast XML parser for C++ with XPath support | https://pugixml.org/ |
 | **libqrencode** | 4.1.1-2 | Fast and compact library for encoding data in a QR Code symbol | https://fukuchi.org/works/qrencode/ |
 | **libraptor2** | 2.0.16-10 | RDF Syntax Library | https://librdf.org/raptor/ |
@@ -1836,7 +1836,7 @@
 | **music-file-organizer** | 1.0.4-10 | Organizer of audio files into directories based on metadata tags | https://git.zx2c4.com/music-file-organizer/about/ |
 | **mutt** | 2.4.1 | Mail client with patches from neomutt | http://www.mutt.org/ |
 | **myman** | 0.7.1-6 | Video game for color and monochrome text terminals in the genre of Namco's Pac-Man | https://sourceforge.net/projects/myman/ |
-| **mympd** | 25.2.2 | A standalone and lightweight web-based MPD client | https://jcorporation.github.io/myMPD/ |
+| **mympd** | 25.3.0 | A standalone and lightweight web-based MPD client | https://jcorporation.github.io/myMPD/ |
 | **mypaint-brushes** | 2.0.2 | MyPaint brushes | https://github.com/mypaint/mypaint-brushes |
 | **myrepos** | 1.20180726-4 | Tool to manage all your version control repos | https://myrepos.branchable.com/ |
 | **n-t-roff-sc** | 7.16-1.2.0-0 | A vi-like spreadsheet calculator | https://github.com/n-t-roff/sc |
@@ -1890,7 +1890,7 @@
 | **newsboat** | 2.44 | RSS/Atom feed reader for the text console | https://newsboat.org/ |
 | **newsraft** | 0.36 | Newsraft is a feed reader with text-based user interface | https://codeberg.org/newsraft/newsraft |
 | **nginx** | 1.31.2 | Lightweight HTTP server | https://www.nginx.org |
-| **ngircd** | 27-1 | Free, portable and lightweight Internet Relay Chat server | https://ngircd.barton.de/ |
+| **ngircd** | 28 | Free, portable and lightweight Internet Relay Chat server | https://ngircd.barton.de/ |
 | **ngspice** | 46 | A mixed-level/mixed-signal circuit simulator | https://ngspice.sourceforge.net/ |
 | **nim** | 2.2.6 | Nim programming language compiler | https://nim-lang.org/ |
 | **ninja** | 1.13.2 | A small build system with a focus on speed | https://ninja-build.org |
@@ -1948,7 +1948,7 @@
 | **openal-soft** | 1.25.2-1 | Software implementation of the OpenAL API | https://openal-soft.org/ |
 | **openbabel** | 3.2.0-1 | Open Babel is a chemical toolbox designed to speak the many languages of chemical data | http://openbabel.org/wiki/Main_Page |
 | **openbabel-static** | 3.2.0-1 | Static libraries for openbabel | http://openbabel.org/wiki/Main_Page |
-| **opencc-tools** | 1.4.0 | Command-line tools for OpenCC | https://github.com/BYVoid/OpenCC |
+| **opencc-tools** | 1.4.1 | Command-line tools for OpenCC | https://github.com/BYVoid/OpenCC |
 | **opencl-clhpp** | 2026.05.29 | Khronos OpenCL C++ Headers | https://github.com/KhronosGroup/OpenCL-CLHPP |
 | **opencl-headers** | 2026.05.29 | Khronos OpenCL-Headers | https://github.com/KhronosGroup/OpenCL-Headers |
 | **opencl-vendor-driver** | 0.3-1 | OpenCL driver from system vendor | https://termux.dev |
@@ -2718,7 +2718,8 @@
 | **vlc-static** | 3.0.23-3 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-4 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.3-1 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 2026.07.09 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
+| **vtm** | 2026.07.10 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
+| **vtm-static** | 2026.07.10 | Static libraries for vtm | https://github.com/directvt/vtm |
 | **vttest** | 20251205 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vulkan-extension-layer** | 1.4.350 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
 | **vulkan-headers** | 1.4.356 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |

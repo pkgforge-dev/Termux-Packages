@@ -7771,7 +7771,7 @@
   },
   {
     "Package": "libopencc",
-    "Version": "1.4.0",
+    "Version": "1.4.1",
     "Description": "An opensource project for conversions between Traditional Chinese, Simplified Chinese and Japanese Kanji (Shinjitai)",
     "Homepage": "https://github.com/BYVoid/OpenCC"
   },
@@ -8089,13 +8089,13 @@
   },
   {
     "Package": "libpsl",
-    "Version": "0.22.0",
+    "Version": "0.23.0",
     "Description": "Public Suffix List library",
     "Homepage": "https://github.com/rockdaboot/libpsl"
   },
   {
     "Package": "libpsl-static",
-    "Version": "0.22.0",
+    "Version": "0.23.0",
     "Description": "Static libraries for libpsl",
     "Homepage": "https://github.com/rockdaboot/libpsl"
   },
@@ -10957,7 +10957,7 @@
   },
   {
     "Package": "mympd",
-    "Version": "25.2.2",
+    "Version": "25.3.0",
     "Description": "A standalone and lightweight web-based MPD client",
     "Homepage": "https://jcorporation.github.io/myMPD/"
   },
@@ -11281,7 +11281,7 @@
   },
   {
     "Package": "ngircd",
-    "Version": "27-1",
+    "Version": "28",
     "Description": "Free, portable and lightweight Internet Relay Chat server",
     "Homepage": "https://ngircd.barton.de/"
   },
@@ -11629,7 +11629,7 @@
   },
   {
     "Package": "opencc-tools",
-    "Version": "1.4.0",
+    "Version": "1.4.1",
     "Description": "Command-line tools for OpenCC",
     "Homepage": "https://github.com/BYVoid/OpenCC"
   },
@@ -16249,8 +16249,14 @@
   },
   {
     "Package": "vtm",
-    "Version": "2026.07.09",
+    "Version": "2026.07.10",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
+    "Homepage": "https://github.com/directvt/vtm"
+  },
+  {
+    "Package": "vtm-static",
+    "Version": "2026.07.10",
+    "Description": "Static libraries for vtm",
     "Homepage": "https://github.com/directvt/vtm"
   },
   {
