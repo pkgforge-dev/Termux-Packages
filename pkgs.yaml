@@ -7447,7 +7447,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-952+gedb043bf33-0
+  Version: 0.13.0~dev-960+g59dbca9b0c-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -7671,7 +7671,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 29.26.0
+  Version: 29.26.1
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: oidn
@@ -9307,7 +9307,7 @@
   Description: Small man page generator
   Homepage: https://git.sr.ht/~sircmpwn/scdoc
 - Package: screen
-  Version: 5.0.1-1
+  Version: 5.0.2
   Description: Terminal multiplexer with VT100/ANSI terminal emulation
   Homepage: https://www.gnu.org/software/screen/
 - Package: screenfetch
@@ -10155,7 +10155,7 @@
   Description: AI Chatbots in terminal without needing API keys
   Homepage: https://github.com/aandrew-me/tgpt
 - Package: thrift
-  Version: 0.23.0
+  Version: 0.24.0
   Description: Scalable cross-language services framework for IPC/RPC
   Homepage: https://thrift.apache.org
 - Package: tidy
