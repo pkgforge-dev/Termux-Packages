@@ -7247,7 +7247,7 @@
   Description: Set of programs to inspect and build Windows Installer (.MSI) files
   Homepage: https://gitlab.gnome.org/GNOME/msitools
 - Package: msmtp
-  Version: 1.8.32
+  Version: 1.8.33
   Description: Lightweight SMTP client
   Homepage: https://marlam.de/msmtp/
 - Package: mtd-utils
@@ -7447,7 +7447,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-960+g59dbca9b0c-0
+  Version: 0.13.0~dev-970+g41294e4253-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -10919,7 +10919,7 @@
   Description: A fast and secure WebAssembly runtime
   Homepage: https://wasmer.io/
 - Package: wasmtime
-  Version: 46.0.1
+  Version: 46.0.1-1
   Description: A standalone runtime for WebAssembly
   Homepage: https://wasmtime.dev/
 - Package: watchexec

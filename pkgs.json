@@ -10873,7 +10873,7 @@
   },
   {
     "Package": "msmtp",
-    "Version": "1.8.32",
+    "Version": "1.8.33",
     "Description": "Lightweight SMTP client",
     "Homepage": "https://marlam.de/msmtp/"
   },
@@ -11173,7 +11173,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-960+g59dbca9b0c-0",
+    "Version": "0.13.0~dev-970+g41294e4253-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -16381,7 +16381,7 @@
   },
   {
     "Package": "wasmtime",
-    "Version": "46.0.1",
+    "Version": "46.0.1-1",
     "Description": "A standalone runtime for WebAssembly",
     "Homepage": "https://wasmtime.dev/"
   },
