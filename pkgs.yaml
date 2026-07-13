@@ -2447,7 +2447,7 @@
   Description: Git branches made easy
   Homepage: https://www.git-town.com
 - Package: gitea
-  Version: 1.26.4
+  Version: 1.27.0
   Description: Git with a cup of tea, painless self-hosted git service
   Homepage: https://gitea.io
 - Package: gitflow-avh
@@ -4115,11 +4115,11 @@
   Description: Static libraries for libdvdnav
   Homepage: https://www.videolan.org/developers/libdvdnav.html
 - Package: libdvdread
-  Version: 7.0.1
+  Version: 7.1.0
   Description: A library that allows easy use of sophisticated DVD navigation features
   Homepage: https://code.videolan.org/videolan/libdvdread
 - Package: libdvdread-static
-  Version: 7.0.1
+  Version: 7.1.0
   Description: Static libraries for libdvdread
   Homepage: https://code.videolan.org/videolan/libdvdread
 - Package: libdw
@@ -7671,7 +7671,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 29.26.1
+  Version: 29.27.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: oidn
@@ -8887,7 +8887,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 5.26.0
+  Version: 5.26.1
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
