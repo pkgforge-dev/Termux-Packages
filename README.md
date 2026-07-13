@@ -1460,7 +1460,7 @@
 | **libtasn1-static** | 4.21.0 | Static libraries for libtasn1 | https://www.gnu.org/software/libtasn1/ |
 | **libtatsu** | 1.0.5-1 | Library handling the communication with Apple's Tatsu Signing Server (TSS) | https://libimobiledevice.org/ |
 | **libtatsu-static** | 1.0.5-1 | Static libraries for libtatsu | https://libimobiledevice.org/ |
-| **libtbb** | 2023.0.0 | oneAPI Threading Building Blocks | https://uxlfoundation.github.io/oneTBB/ |
+| **libtbb** | 2023.1.0 | oneAPI Threading Building Blocks | https://uxlfoundation.github.io/oneTBB/ |
 | **libtd** | 1.8.50-1 | Library for building Telegram clients | https://core.telegram.org/tdlib/ |
 | **libtd-static** | 1.8.50-1 | Static libraries for libtd | https://core.telegram.org/tdlib/ |
 | **libtdb** | 1.4.15 | A trivial database system | https://tdb.samba.org/ |
@@ -1687,7 +1687,7 @@
 | **luvi** | 1:2.15.0-2 | A project in-between luv and luvit | https://luvit.io |
 | **luvit** | 2.18.1-1 | Asynchronous I/O for Lua | https://luvit.io |
 | **lux** | 0.24.1-2 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
-| **lux-cli** | 0.36.0 | A package manager for Lua, similar to luarocks | https://lux.lumen-labs.org |
+| **lux-cli** | 0.36.1 | A package manager for Lua, similar to luarocks | https://lux.lumen-labs.org |
 | **lv2** | 1.18.10-7 | A plugin standard for audio systems | https://lv2plug.in/ |
 | **lychee** | 0.24.2 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
 | **lynx** | 2.9.2-1 | The text web browser | http://lynx.browser.org/ |
@@ -2194,8 +2194,8 @@
 | **pyunbound** | 1.25.1-1 | Python bindings for Unbound | https://unbound.net/ |
 | **pzstd** | 1.5.7-1 | A Pigz-like tool for Zstandard | https://github.com/facebook/zstd |
 | **q-dns-client** | 0.19.12 | A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH | https://github.com/natesales/q |
-| **qalc** | 5.11.0 | Powerful and easy to use command line calculator | https://qalculate.github.io/ |
-| **qalc-static** | 5.11.0 | Static libraries for qalc | https://qalculate.github.io/ |
+| **qalc** | 5.12.0 | Powerful and easy to use command line calculator | https://qalculate.github.io/ |
+| **qalc-static** | 5.12.0 | Static libraries for qalc | https://qalculate.github.io/ |
 | **qemu-common** | 1:10.2.1 | A set common files used by the QEMU emulators | https://www.qemu.org |
 | **qemu-system-aarch64-headless** | 1:10.2.1 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
 | **qemu-system-arm-headless** | 1:10.2.1 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
@@ -2455,7 +2455,7 @@
 | **stoken** | 0.93-3 | Software Token for Linux/UNIX | https://github.com/cernekee/stoken |
 | **stoken-static** | 0.93-3 | Static libraries for stoken | https://github.com/cernekee/stoken |
 | **stone** | 2.4-3 | A TCP/IP repeater in the application layer | https://www.gcd.org/sengoku/stone/ |
-| **storj-uplink** | 1.158.7 | Storj DCS Uplink CLI | https://www.storj.io/integrations/uplink-cli |
+| **storj-uplink** | 1.158.8 | Storj DCS Uplink CLI | https://www.storj.io/integrations/uplink-cli |
 | **stow** | 2.4.1 | Tool for managing the installation of multiple software packages into a single directory | https://www.gnu.org/software/stow/ |
 | **strace** | 7.1 | Debugging utility to monitor system calls and signals received | https://strace.io/ |
 | **streamripper** | 1.64.6-3 | Records and splits streaming mp3 into tracks | https://streamripper.sourceforge.net/ |
