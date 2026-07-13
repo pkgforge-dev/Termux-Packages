@@ -915,11 +915,11 @@
   Description: A fast and lightweight GIF encoding library
   Homepage: https://github.com/dloebl/cgif
 - Package: chafa
-  Version: 1.18.2
+  Version: 1.18.2-1
   Description: Image-to-text converter supporting a wide range of symbols, etc.
   Homepage: https://hpjansson.org/chafa/
 - Package: chafa-static
-  Version: 1.18.2
+  Version: 1.18.2-1
   Description: Static libraries for chafa
   Homepage: https://hpjansson.org/chafa/
 - Package: check
@@ -2275,7 +2275,7 @@
   Description: Program for calculating and printing calendars
   Homepage: https://www.gnu.org/software/gcal/
 - Package: gdal
-  Version: 3.12.4-1
+  Version: 3.12.4-2
   Description: A translator library for raster and vector geospatial data formats
   Homepage: https://gdal.org
 - Package: gdb
@@ -2739,11 +2739,11 @@
   Description: A thin layer of graphic data types
   Homepage: https://ebassi.github.io/graphene/
 - Package: graphicsmagick
-  Version: 1.3.47
+  Version: 1.3.47-1
   Description: Collection of image processing tools
   Homepage: http://www.graphicsmagick.org/
 - Package: graphicsmagick-static
-  Version: 1.3.47
+  Version: 1.3.47-1
   Description: Static libraries for graphicsmagick
   Homepage: http://www.graphicsmagick.org/
 - Package: graphviz
@@ -3119,11 +3119,11 @@
   Description: A command line id3v2 tag editor
   Homepage: https://id3v2.sourceforge.net/
 - Package: imagemagick
-  Version: 7.1.2.27
+  Version: 7.1.2.27-1
   Description: Suite to create, edit, compose, or convert images in a variety of formats
   Homepage: https://www.imagemagick.org/
 - Package: imagemagick-static
-  Version: 7.1.2.27
+  Version: 7.1.2.27-1
   Description: Static libraries for imagemagick
   Homepage: https://www.imagemagick.org/
 - Package: imath
@@ -3131,11 +3131,11 @@
   Description: Library for vector/matrix and math operations, plus the half type
   Homepage: https://imath.readthedocs.io/
 - Package: imlib2
-  Version: 1.12.6
+  Version: 1.12.6-1
   Description: Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support
   Homepage: https://sourceforge.net/projects/enlightenment/
 - Package: imlib2-static
-  Version: 1.12.6
+  Version: 1.12.6-1
   Description: Static libraries for imlib2
   Homepage: https://sourceforge.net/projects/enlightenment/
 - Package: indent
@@ -4655,11 +4655,11 @@
   Description: Static libraries for libjpeg-turbo
   Homepage: https://libjpeg-turbo.virtualgl.org
 - Package: libjxl
-  Version: 0.11.2-1
+  Version: 0.12.0
   Description: JPEG XL image format reference implementation
   Homepage: https://jpegxl.info/
 - Package: libjxl-progs
-  Version: 0.11.2-1
+  Version: 0.12.0
   Description: Programs for manipulating JPEG XL files
   Homepage: https://jpegxl.info/
 - Package: libkeyfinder
@@ -6055,7 +6055,7 @@
   Description: Computer vision library
   Homepage: https://ukoethe.github.io/vigra/
 - Package: libvips
-  Version: 8.18.4
+  Version: 8.18.4-1
   Description: A fast image processing library with low memory needs
   Homepage: https://libvips.github.io/libvips/
 - Package: libvisio
