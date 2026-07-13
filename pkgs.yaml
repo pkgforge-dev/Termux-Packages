@@ -6707,7 +6707,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.35.3
+  Version: 0.36.0
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://lux.lumen-labs.org
 - Package: lv2
@@ -10123,7 +10123,7 @@
   Description: Tesseract is probably the most accurate open source OCR engine available
   Homepage: https://github.com/tesseract-ocr/tesseract
 - Package: testssl.sh
-  Version: 3.2.3
+  Version: 3.2.4
   Description: Testing TLS/SSL encryption anywhere on any port.
   Homepage: https://testssl.sh/
 - Package: tex-gyre
@@ -10831,7 +10831,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2026.07.10
+  Version: 2026.07.11
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vtm-static
