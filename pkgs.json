@@ -2719,25 +2719,25 @@
   },
   {
     "Package": "emscripten",
-    "Version": "6.0.2",
+    "Version": "6.0.3",
     "Description": "Emscripten: An LLVM-to-WebAssembly Compiler",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-binaryen",
-    "Version": "6.0.2",
+    "Version": "6.0.3",
     "Description": "Emscripten-compatible Binaryen",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-llvm",
-    "Version": "6.0.2",
+    "Version": "6.0.3",
     "Description": "Emscripten-compatible LLVM",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-tests-third-party",
-    "Version": "6.0.2",
+    "Version": "6.0.3",
     "Description": "Emscripten third party test suite files",
     "Homepage": "https://emscripten.org"
   },
@@ -11935,13 +11935,13 @@
   },
   {
     "Package": "oxfmt",
-    "Version": "1.73.0",
+    "Version": "1.74.0",
     "Description": "Oxc JavaScript formatter",
     "Homepage": "https://oxc.rs/"
   },
   {
     "Package": "oxlint",
-    "Version": "1.73.0",
+    "Version": "1.74.0",
     "Description": "Oxc JavaScript linter",
     "Homepage": "https://oxc.rs/"
   },
@@ -15709,7 +15709,7 @@
   },
   {
     "Package": "ttyplot",
-    "Version": "1.7.5",
+    "Version": "1.7.6",
     "Description": "A realtime plotting utility for terminal with data input from stdin",
     "Homepage": "https://github.com/tenox7/ttyplot"
   },
