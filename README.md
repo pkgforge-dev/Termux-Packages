@@ -463,10 +463,10 @@
 | **elvish** | 0.21.0-1 | A friendly and expressive Unix shell | https://github.com/elves/elvish |
 | **emacs** | 30.2-3 | Extensible, customizable text editor-and more | https://www.gnu.org/software/emacs/ |
 | **emmylua-ls** | 0.24.0 | Emmy Lua Language Server coded in Rust | https://github.com/EmmyLuaLs/emmylua-analyzer-rust |
-| **emscripten** | 6.0.1 | Emscripten: An LLVM-to-WebAssembly Compiler | https://emscripten.org |
-| **emscripten-binaryen** | 6.0.1 | Emscripten-compatible Binaryen | https://emscripten.org |
-| **emscripten-llvm** | 6.0.1 | Emscripten-compatible LLVM | https://emscripten.org |
-| **emscripten-tests-third-party** | 6.0.1 | Emscripten third party test suite files | https://emscripten.org |
+| **emscripten** | 6.0.2 | Emscripten: An LLVM-to-WebAssembly Compiler | https://emscripten.org |
+| **emscripten-binaryen** | 6.0.2 | Emscripten-compatible Binaryen | https://emscripten.org |
+| **emscripten-llvm** | 6.0.2 | Emscripten-compatible LLVM | https://emscripten.org |
+| **emscripten-tests-third-party** | 6.0.2 | Emscripten third party test suite files | https://emscripten.org |
 | **enblend** | 4.2.0p20161007-8 | A tool for compositing images using a Burt&Adelson multiresolution spline | https://enblend.sourceforge.net/ |
 | **enchant** | 2.8.19 | Wraps a number of different spelling libraries and programs with a consistent interface | https://rrthomas.github.io/enchant/ |
 | **enchant-static** | 2.8.19 | Static libraries for enchant | https://rrthomas.github.io/enchant/ |
@@ -525,7 +525,7 @@
 | **finch-static** | 2.14.14-2 | Static libraries for finch | https://pidgin.im/ |
 | **findomain** | 10.0.1-1 | Findomain is the fastest subdomain enumerator and the only one written in Rust | https://findomain.app/ |
 | **findutils** | 4.10.0-1 | Utilities to find files meeting specified criteria and perform various actions on the files which are found | https://www.gnu.org/software/findutils/ |
-| **fish** | 4.8.0-1 | The user-friendly command line shell | https://fishshell.com/ |
+| **fish** | 4.8.1 | The user-friendly command line shell | https://fishshell.com/ |
 | **flac** | 1.5.0-1 | FLAC (Free Lossless Audio Codec) command-line tool | https://xiph.org/flac/ |
 | **flang** | 21.1.8-3 | LLVM's Fortran frontend | https://flang.llvm.org/ |
 | **flatbuffers** | 25.12.19-2026-02-06-03fffb2-1 | Memory Efficient Serialization Library | https://github.com/google/flatbuffers |
@@ -534,7 +534,7 @@
 | **flex-static** | 2.6.4-5 | Static libraries for flex | https://github.com/westes/flex |
 | **flint** | 3.6.0 | C library for doing number theory | http://www.flintlib.org |
 | **fluidsynth** | 2.5.6 | Software synthesizer based on the SoundFont 2 specifications | https://github.com/FluidSynth/fluidsynth |
-| **flyctl** | 0.4.69 | Command line tools for fly.io services | https://fly.io |
+| **flyctl** | 0.4.70 | Command line tools for fly.io services | https://fly.io |
 | **fm** | 1.2.0 | A terminal based file manager | https://github.com/knipferrc/fm |
 | **fmt** | 1:11.2.0 | Open-source formatting library for C++ | https://fmt.dev/latest/index.html |
 | **fontconfig** | 2.18.2 | Library for configuring and customizing font access | https://www.freedesktop.org/wiki/Software/fontconfig/ |

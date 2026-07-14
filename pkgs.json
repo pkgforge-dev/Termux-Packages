@@ -2719,25 +2719,25 @@
   },
   {
     "Package": "emscripten",
-    "Version": "6.0.1",
+    "Version": "6.0.2",
     "Description": "Emscripten: An LLVM-to-WebAssembly Compiler",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-binaryen",
-    "Version": "6.0.1",
+    "Version": "6.0.2",
     "Description": "Emscripten-compatible Binaryen",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-llvm",
-    "Version": "6.0.1",
+    "Version": "6.0.2",
     "Description": "Emscripten-compatible LLVM",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-tests-third-party",
-    "Version": "6.0.1",
+    "Version": "6.0.2",
     "Description": "Emscripten third party test suite files",
     "Homepage": "https://emscripten.org"
   },
@@ -3091,7 +3091,7 @@
   },
   {
     "Package": "fish",
-    "Version": "4.8.0-1",
+    "Version": "4.8.1",
     "Description": "The user-friendly command line shell",
     "Homepage": "https://fishshell.com/"
   },
@@ -3145,7 +3145,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.4.69",
+    "Version": "0.4.70",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
