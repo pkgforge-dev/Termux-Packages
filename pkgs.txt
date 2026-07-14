@@ -202,7 +202,7 @@
  capstone-static  5.0.9  Static libraries for capstone  https://www.capstone-engine.org/ 
  carapace  1.7.3  Multi-shell multi-command argument completer  https://carapace.sh/ 
  cargo-binstall  1.21.0  Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem  https://github.com/cargo-bins/cargo-binstall 
- cargo-c  0.10.23  Cargo C-ABI helpers  https://github.com/lu-zero/cargo-c 
+ cargo-c  0.10.24  Cargo C-ABI helpers  https://github.com/lu-zero/cargo-c 
  cargo-cache  0.8.3  Tool to manage cargo cache  https://github.com/matthiaskrgr/cargo-cache 
  cargo-leptos  0.3.7  Build tool for the Rust framework Leptos  https://github.com/leptos-rs/cargo-leptos 
  catdoc  0.95-2  Program which reads MS-Word file and prints readable ASCII text to stdout  http://www.wagner.pp.ru/~vitus/software/catdoc/ 
@@ -420,7 +420,7 @@
  dtc  1.8.1  Device Tree Compiler  https://git.kernel.org/pub/scm/utils/dtc/dtc 
  dtc-static  1.8.1  Static libraries for dtc  https://git.kernel.org/pub/scm/utils/dtc/dtc 
  dte  1.11.1-2  A small, configurable console text editor  https://craigbarnes.gitlab.io/dte/ 
- dua  2.37.1  View disk space usage and delete unwanted data, fast  https://github.com/Byron/dua-cli 
+ dua  2.38.0  View disk space usage and delete unwanted data, fast  https://github.com/Byron/dua-cli 
  duc  1.4.6  High-performance disk usage analyzer  http://duc.zevv.nl/ 
  duckdb  1.5.4  DuckDB Command Line Interface (CLI) shell  https://duckdb.org/ 
  duf  0.9.1  Disk usage/free utility  https://github.com/muesli/duf 
@@ -600,7 +600,7 @@
  gifsicle  1.96-1  Tool for creating, editing, and getting information about GIF images and animations  https://www.lcdf.org/gifsicle/ 
  gifski  1.34.0-1  GIF encoder based on libimagequant  https://gif.ski/ 
  git  2.55.0  Fast, scalable, distributed revision control system  https://git-scm.com/ 
- git-credential-manager  2.8.0  Cross-platform Git credential storage for multiple hosting providers  https://aka.ms/gcm 
+ git-credential-manager  2.9.1  Cross-platform Git credential storage for multiple hosting providers  https://aka.ms/gcm 
  git-crypt  0.8.0  Enables transparent encryption and decryption of files for a git repository  https://www.agwa.name/projects/git-crypt/ 
  git-delta  0.19.2  A syntax-highlighter for git and diff output  https://dandavison.github.io/delta/ 
  git-extras  7.5.0  Little git extras.  https://github.com/tj/git-extras 
@@ -1769,7 +1769,7 @@
  miniz  3.1.2  Single C source file zlib-replacement library  https://github.com/richgel999/miniz 
  minizinc  2.9.7  A medium-level constraint modelling language  https://github.com/MiniZinc/libminizinc 
  minizinc-static  2.9.7  Static libraries for minizinc  https://github.com/MiniZinc/libminizinc 
- mise  2026.7.5  dev tools, env vars, task runner  https://mise.jdx.dev/ 
+ mise  2026.7.6  dev tools, env vars, task runner  https://mise.jdx.dev/ 
  mkbootimg  2022.11.09-1  Maintained fork with android's mkbootimg and unpackbootimg  https://github.com/osm0sis/mkbootimg 
  mkp224o  1.7.0-1  Generate vanity ed25519 (hidden service version 3) onion addresses  https://github.com/cathugger/mkp224o 
  mksh  59c-3  The MirBSD Korn Shell - an enhanced version of the public domain ksh  http://www.mirbsd.org/mksh.htm 
@@ -1973,7 +1973,7 @@
  openssl-tool  1:3.6.3  The openssl command line cryptographic tool  https://www.openssl.org/ 
  opentimelineio  0.18.1  Open Source API and interchange format for editorial timeline information.  http://opentimeline.io/ 
  openxr  1.1.61  Open standard that provides a common set of APIs for developing XR applications  https://www.khronos.org/openxr/ 
- opkssh  0.15.0  Enables SSH to be used with OpenID Connect  https://github.com/openpubkey/opkssh 
+ opkssh  0.16.0  Enables SSH to be used with OpenID Connect  https://github.com/openpubkey/opkssh 
  optipng  7.9.1-1  PNG optimizer that recompresses image files to a smaller size, without losing any information  https://optipng.sourceforge.net/ 
  opus-tools  0.2-4  Utilities to encode and decode .opus files  https://www.opus-codec.org/ 
  opusfile  0.12-4  A high-level API for decoding and seeking within .opus files  https://www.opus-codec.org/ 
@@ -2466,7 +2466,7 @@
  sundials-static  2:7.8.0  Static libraries for sundials  https://computing.llnl.gov/projects/sundials 
  supercollider  3.14.1  A platform for audio synthesis and algorithmic composition  http://supercollider.github.io/ 
  surfraw  2.3.0-10  Shell Users' Revolutionary Front Rage Against the Web  https://gitlab.com/surfraw/Surfraw 
- svt-av1  4.1.0  Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder)  https://gitlab.com/AOMediaCodec/SVT-AV1 
+ svt-av1  4.2.0  Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder)  https://gitlab.com/AOMediaCodec/SVT-AV1 
  swaks  20240103.0  Swiss Army Knife for SMTP  http://jetmore.org/john/code/swaks/ 
  swi-prolog  10.1.11-1  Most popular and complete prolog implementation  https://swi-prolog.org/ 
  swift  6.2.1  Swift is a high-performance system programming language  https://swift.org/ 

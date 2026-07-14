@@ -815,7 +815,7 @@
   Description: Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem
   Homepage: https://github.com/cargo-bins/cargo-binstall
 - Package: cargo-c
-  Version: 0.10.23
+  Version: 0.10.24
   Description: Cargo C-ABI helpers
   Homepage: https://github.com/lu-zero/cargo-c
 - Package: cargo-cache
@@ -1687,7 +1687,7 @@
   Description: A small, configurable console text editor
   Homepage: https://craigbarnes.gitlab.io/dte/
 - Package: dua
-  Version: 2.37.1
+  Version: 2.38.0
   Description: View disk space usage and delete unwanted data, fast
   Homepage: https://github.com/Byron/dua-cli
 - Package: duc
@@ -2407,7 +2407,7 @@
   Description: Fast, scalable, distributed revision control system
   Homepage: https://git-scm.com/
 - Package: git-credential-manager
-  Version: 2.8.0
+  Version: 2.9.1
   Description: Cross-platform Git credential storage for multiple hosting providers
   Homepage: https://aka.ms/gcm
 - Package: git-crypt
@@ -7083,7 +7083,7 @@
   Description: Static libraries for minizinc
   Homepage: https://github.com/MiniZinc/libminizinc
 - Package: mise
-  Version: 2026.7.5
+  Version: 2026.7.6
   Description: dev tools, env vars, task runner
   Homepage: https://mise.jdx.dev/
 - Package: mkbootimg
@@ -7899,7 +7899,7 @@
   Description: Open standard that provides a common set of APIs for developing XR applications
   Homepage: https://www.khronos.org/openxr/
 - Package: opkssh
-  Version: 0.15.0
+  Version: 0.16.0
   Description: Enables SSH to be used with OpenID Connect
   Homepage: https://github.com/openpubkey/opkssh
 - Package: optipng
@@ -9871,7 +9871,7 @@
   Description: Shell Users Revolutionary Front Rage Against the Web
   Homepage: https://gitlab.com/surfraw/Surfraw
 - Package: svt-av1
-  Version: 4.1.0
+  Version: 4.2.0
   Description: Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder)
   Homepage: https://gitlab.com/AOMediaCodec/SVT-AV1
 - Package: swaks
