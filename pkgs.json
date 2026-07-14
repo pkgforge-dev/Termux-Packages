@@ -5364,6 +5364,12 @@
     "Homepage": "http://liba52.sourceforge.net/"
   },
   {
+    "Package": "libaccounts-glib",
+    "Version": "1.27",
+    "Description": "Glib-based client library for accessing the online accounts database",
+    "Homepage": "https://gitlab.com/accounts-sso/libaccounts-glib"
+  },
+  {
     "Package": "libacl",
     "Version": "2.3.2",
     "Description": "Access control list shared library",
@@ -6268,6 +6274,12 @@
     "Version": "3.49.1.20250307",
     "Description": "SQLitePCLRaw is a Portable Class Library for low-level access to SQLite (native library)",
     "Homepage": "https://github.com/ericsink/SQLitePCL.raw"
+  },
+  {
+    "Package": "libetebase",
+    "Version": "0.5.8",
+    "Description": "Etebase C library",
+    "Homepage": "https://github.com/etesync/libetebase"
   },
   {
     "Package": "libetonyek",

@@ -904,6 +904,7 @@
 | **lhasa-static** | 0.6.0 | Static libraries for lhasa | https://lhasa.soulsphere.org/ |
 | **liba52** | 0.8.0-3 | A free library for decoding ATSC A/52 streams | http://liba52.sourceforge.net/ |
 | **liba52-static** | 0.8.0-3 | Static libraries for liba52 | http://liba52.sourceforge.net/ |
+| **libaccounts-glib** | 1.27 | Glib-based client library for accessing the online accounts database | https://gitlab.com/accounts-sso/libaccounts-glib |
 | **libacl** | 2.3.2 | Access control list shared library | http://savannah.nongnu.org/projects/acl |
 | **libacl-static** | 2.3.2 | Static libraries for libacl | http://savannah.nongnu.org/projects/acl |
 | **libaml** | 1.0.0-1 | Andri's Main Loop library | https://github.com/any1/aml |
@@ -1055,6 +1056,7 @@
 | **libenet-static** | 1.3.18-1 | Static libraries for libenet | http://enet.bespin.org |
 | **libepoxy** | 1.5.10-3 | Library handling OpenGL function pointer management | https://github.com/anholt/libepoxy |
 | **libesqlite3** | 3.49.1.20250307 | SQLitePCLRaw is a Portable Class Library for low-level access to SQLite (native library) | https://github.com/ericsink/SQLitePCL.raw |
+| **libetebase** | 0.5.8 | Etebase C library | https://github.com/etesync/libetebase |
 | **libetonyek** | 0.1.13 | CorelDraw file format importer library for LibreOffice | https://wiki.documentfoundation.org/DLP/Libraries/libetonyek |
 | **libetonyek-static** | 0.1.13 | Static libraries for libetonyek | https://wiki.documentfoundation.org/DLP/Libraries/libetonyek |
 | **libev** | 4.33-2 | Full-featured and high-performance event loop library | http://software.schmorp.de/pkg/libev.html |
