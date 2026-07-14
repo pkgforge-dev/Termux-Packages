@@ -201,7 +201,7 @@
  capstone  5.0.9  Lightweight multi-platform, multi-architecture disassembly framework  https://www.capstone-engine.org/ 
  capstone-static  5.0.9  Static libraries for capstone  https://www.capstone-engine.org/ 
  carapace  1.7.3  Multi-shell multi-command argument completer  https://carapace.sh/ 
- cargo-binstall  1.20.1  Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem  https://github.com/cargo-bins/cargo-binstall 
+ cargo-binstall  1.21.0  Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem  https://github.com/cargo-bins/cargo-binstall 
  cargo-c  0.10.23  Cargo C-ABI helpers  https://github.com/lu-zero/cargo-c 
  cargo-cache  0.8.3  Tool to manage cargo cache  https://github.com/matthiaskrgr/cargo-cache 
  cargo-leptos  0.3.7  Build tool for the Rust framework Leptos  https://github.com/leptos-rs/cargo-leptos 
@@ -615,7 +615,7 @@
  gitoxide  0.55.0  Rust implementation of Git  https://github.com/GitoxideLabs/gitoxide 
  gitui  0.28.1  Blazing fast terminal-ui for git written in rust  https://github.com/gitui-org/gitui 
  gkermit  2.01-1  Simple, Portable, Free File Transfer Software for UNIX  http://www.columbia.edu/kermit/gkermit.html 
- glab-cli  1.107.0  A GitLab CLI tool bringing GitLab to your command line  https://gitlab.com/gitlab-org/cli 
+ glab-cli  1.108.0  A GitLab CLI tool bringing GitLab to your command line  https://gitlab.com/gitlab-org/cli 
  gleam  1.17.0  A friendly language for building type-safe, scalable systems!  https://gleam.run 
  glib  2.88.2-1  Library providing core building blocks for libraries and applications written in C  https://developer.gnome.org/glib/ 
  glib-cross  2.88.2-1  glib for host (NOT for Termux)  https://developer.gnome.org/glib/ 
@@ -858,7 +858,7 @@
  knockd  0.8.2-2  A port-knocking daemon  https://zeroflux.org/projects/knock 
  knot-utils  3.2.4-2  Knot DNS utilities  https://www.knot-dns.cz/ 
  kona  20211225-1  Open-source implementation of the APL-like K programming language  https://github.com/kevinlawler/kona 
- kotlin  2.4.0  The Kotlin Programming Language  https://kotlinlang.org/ 
+ kotlin  2.4.10  The Kotlin Programming Language  https://kotlinlang.org/ 
  krb5  1.22.2  The Kerberos network authentication system  https://web.mit.edu/kerberos 
  kubecolor  0.6.0  Colorize your kubectl output  https://github.com/kubecolor/kubecolor 
  kubectl  1.36.2  Kubernetes.io client binary  https://kubernetes.io/ 
@@ -1004,7 +1004,7 @@
  libdaemon  0.14-1  A lightweight C library that eases the writing of UNIX daemons  https://0pointer.de/lennart/projects/libdaemon/ 
  libdaemon-static  0.14-1  Static libraries for libdaemon  https://0pointer.de/lennart/projects/libdaemon/ 
  libdart  6.16.7  Dynamic Animation and Robotics Toolkit  https://dartsim.github.io/ 
- libdav1d  1.5.3  AV1 cross-platform decoder focused on speed and correctness  https://code.videolan.org/videolan/dav1d/ 
+ libdav1d  1.5.4  AV1 cross-platform decoder focused on speed and correctness  https://code.videolan.org/videolan/dav1d/ 
  libdb  18.1.40-5  The Berkeley DB embedded database system (library)  https://www.oracle.com/database/berkeley-db 
  libdb-static  18.1.40-5  Static libraries for libdb  https://www.oracle.com/database/berkeley-db 
  libde265  1.1.1  H.265/HEVC video stream decoder library  https://github.com/strukturag/libde265 
@@ -1067,7 +1067,7 @@
  libforestdb  1.2-2  A key-value storage engine  https://github.com/couchbase/forestdb 
  libfreexl  2.0.0-1  Library to extract valid data from within an Excel (.xls) spreadsheet  https://www.gaia-gis.it/fossil/freexl 
  libfreexl-static  2.0.0-1  Static libraries for libfreexl  https://www.gaia-gis.it/fossil/freexl 
- libftxui  7.0.0  A simple C++ library for terminal based user interface  https://github.com/ArthurSonzogni/FTXUI 
+ libftxui  7.0.1  A simple C++ library for terminal based user interface  https://github.com/ArthurSonzogni/FTXUI 
  libfyaml  0.9.6-1  Fully feature complete YAML parser and emitter  https://pantoniou.github.io/libfyaml/ 
  libfyaml-static  0.9.6-1  Static libraries for libfyaml  https://pantoniou.github.io/libfyaml/ 
  libgc  8.2.12  Library providing the Boehm-Demers-Weiser conservative garbage collector  https://www.hboehm.info/gc/ 
@@ -1916,7 +1916,7 @@
  octomap  1.10.0-1  An efficient probabilistic 3D mapping framework based on octrees  https://github.com/OctoMap/octomap 
  octomap-static  1.10.0-1  Static libraries for octomap  https://github.com/OctoMap/octomap 
  odt2txt  0.5-5  Simple converter from OpenDocument Text to plain text  https://github.com/dstosberg/odt2txt 
- oh-my-posh  29.27.0  A prompt theme engine for any shell.  https://ohmyposh.dev 
+ oh-my-posh  29.28.0  A prompt theme engine for any shell.  https://ohmyposh.dev 
  oidn  2.4.1  Intel® Open Image Denoise library  https://www.openimagedenoise.org 
  okc-agents  0.1.2-2  OpenKeychain agents for GnuPG and OpenSSH  https://github.com/DDoSolitary/okc-agents 
  ol  2.7  Purely functional dialect of Lisp  https://yuriy-chumak.github.io/ol/ 
@@ -2443,7 +2443,7 @@
  stoken  0.93-3  Software Token for Linux/UNIX  https://github.com/cernekee/stoken 
  stoken-static  0.93-3  Static libraries for stoken  https://github.com/cernekee/stoken 
  stone  2.4-3  A TCP/IP repeater in the application layer  https://www.gcd.org/sengoku/stone/ 
- storj-uplink  1.158.8  Storj DCS Uplink CLI  https://www.storj.io/integrations/uplink-cli 
+ storj-uplink  1.160.2  Storj DCS Uplink CLI  https://www.storj.io/integrations/uplink-cli 
  stow  2.4.1  Tool for managing the installation of multiple software packages into a single directory  https://www.gnu.org/software/stow/ 
  strace  7.1  Debugging utility to monitor system calls and signals received  https://strace.io/ 
  streamripper  1.64.6-3  Records and splits streaming mp3 into tracks  https://streamripper.sourceforge.net/ 

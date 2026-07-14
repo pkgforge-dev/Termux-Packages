@@ -811,7 +811,7 @@
   Description: Multi-shell multi-command argument completer
   Homepage: https://carapace.sh/
 - Package: cargo-binstall
-  Version: 1.20.1
+  Version: 1.21.0
   Description: Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem
   Homepage: https://github.com/cargo-bins/cargo-binstall
 - Package: cargo-c
@@ -2467,7 +2467,7 @@
   Description: Simple, Portable, Free File Transfer Software for UNIX
   Homepage: http://www.columbia.edu/kermit/gkermit.html
 - Package: glab-cli
-  Version: 1.107.0
+  Version: 1.108.0
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
@@ -3439,7 +3439,7 @@
   Description: Open-source implementation of the APL-like K programming language
   Homepage: https://github.com/kevinlawler/kona
 - Package: kotlin
-  Version: 2.4.0
+  Version: 2.4.10
   Description: The Kotlin Programming Language
   Homepage: https://kotlinlang.org/
 - Package: krb5
@@ -4023,7 +4023,7 @@
   Description: Dynamic Animation and Robotics Toolkit
   Homepage: https://dartsim.github.io/
 - Package: libdav1d
-  Version: 1.5.3
+  Version: 1.5.4
   Description: AV1 cross-platform decoder focused on speed and correctness
   Homepage: https://code.videolan.org/videolan/dav1d/
 - Package: libdb
@@ -4275,7 +4275,7 @@
   Description: Static libraries for libfreexl
   Homepage: https://www.gaia-gis.it/fossil/freexl
 - Package: libftxui
-  Version: 7.0.0
+  Version: 7.0.1
   Description: A simple C++ library for terminal based user interface
   Homepage: https://github.com/ArthurSonzogni/FTXUI
 - Package: libfyaml
@@ -7671,7 +7671,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 29.27.0
+  Version: 29.28.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: oidn
@@ -9779,7 +9779,7 @@
   Description: A TCP/IP repeater in the application layer
   Homepage: https://www.gcd.org/sengoku/stone/
 - Package: storj-uplink
-  Version: 1.158.8
+  Version: 1.160.2
   Description: Storj DCS Uplink CLI
   Homepage: https://www.storj.io/integrations/uplink-cli
 - Package: stow
