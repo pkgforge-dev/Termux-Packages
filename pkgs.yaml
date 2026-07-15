@@ -1335,7 +1335,7 @@
   Description: A debugger for the Go programming language
   Homepage: https://github.com/go-delve/delve
 - Package: deno
-  Version: 1:2.9.2
+  Version: 1:2.9.3
   Description: A modern runtime for JavaScript and TypeScript
   Homepage: https://deno.land/
 - Package: desed
@@ -1363,7 +1363,7 @@
   Description: Online dictionary client and server
   Homepage: https://sourceforge.net/projects/dict/
 - Package: diff-so-fancy
-  Version: 1.4.10
+  Version: 1.4.12
   Description: Good-lookin diffs. Actually... nah... The best-lookin diffs
   Homepage: https://github.com/so-fancy/diff-so-fancy
 - Package: diffstat
@@ -3287,7 +3287,7 @@
   Description: A free media system for organizing and streaming media (server)
   Homepage: https://jellyfin.org
 - Package: jfrog-cli
-  Version: 2.113.0
+  Version: 2.115.0
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -3771,7 +3771,7 @@
   Description: Static libraries for libblosc
   Homepage: https://www.blosc.org
 - Package: libblosc2
-  Version: 3.2.2
+  Version: 3.2.3
   Description: A blocking, shuffling and loss-less compression library
   Homepage: https://www.blosc.org
 - Package: libbluray
@@ -5523,7 +5523,7 @@
   Description: Static libraries for librttopo
   Homepage: https://git.osgeo.org/gitea/rttopo/librttopo
 - Package: librusty-v8
-  Version: 1:2.9.2
+  Version: 1:2.9.3
   Description: High quality Rust bindings to V8s C++ API
   Homepage: https://deno.land/
 - Package: libsamplerate
@@ -6715,7 +6715,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.37.0
+  Version: 0.37.1
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://lux.lumen-labs.org
 - Package: lv2
@@ -9063,7 +9063,7 @@
   Description: A safe and ergonomic alternative to rm
   Homepage: https://github.com/MilesCranmer/rip2
 - Package: ripgrep
-  Version: 15.1.0-2
+  Version: 15.2.0
   Description: Search tool like grep and The Silver Searcher
   Homepage: https://github.com/BurntSushi/ripgrep
 - Package: ripgrep-all
@@ -9347,7 +9347,7 @@
   Description: Static libraries for seafile-client
   Homepage: https://seafile.com
 - Package: seanime
-  Version: 3.9.1
+  Version: 3.10.0
   Description: Self-hosted anime and manga server for sea rovers.
   Homepage: https://github.com/5rahim/seanime
 - Package: seccure
@@ -10903,7 +10903,7 @@
   Description: The WebAssembly Binary Toolkit
   Homepage: https://github.com/WebAssembly/wabt
 - Package: wakatime-cli
-  Version: 2.22.0
+  Version: 2.22.1
   Description: Command line interface used by all WakaTime text editor plugins
   Homepage: https://wakatime.com/plugins/
 - Package: walk
