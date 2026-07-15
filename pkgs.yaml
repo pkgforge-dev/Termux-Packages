@@ -3475,7 +3475,7 @@
   Description: LastPass command line interface tool
   Homepage: https://lastpass.com/
 - Package: lazygit
-  Version: 0.63.0
+  Version: 0.63.1
   Description: Simple terminal UI for git commands
   Homepage: https://github.com/jesseduffield/lazygit
 - Package: lcal
@@ -3771,7 +3771,7 @@
   Description: Static libraries for libblosc
   Homepage: https://www.blosc.org
 - Package: libblosc2
-  Version: 3.2.1
+  Version: 3.2.2
   Description: A blocking, shuffling and loss-less compression library
   Homepage: https://www.blosc.org
 - Package: libbluray
@@ -7679,7 +7679,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 29.30.0
+  Version: 29.31.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: oidn
@@ -9571,7 +9571,7 @@
   Description: An Ethereum smart contract-oriented language
   Homepage: https://www.soliditylang.org/
 - Package: sonarr
-  Version: 4.0.19.2979
+  Version: 4.0.19.2979-1
   Description: A PVR for Usenet and BitTorrent users (server)
   Homepage: https://sonarr.tv
 - Package: sops
