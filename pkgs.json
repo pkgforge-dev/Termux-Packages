@@ -985,7 +985,7 @@
   },
   {
     "Package": "borgbackup",
-    "Version": "1.4.4-2",
+    "Version": "1.4.4-3",
     "Description": "Deduplicating and compressing backup program",
     "Homepage": "https://www.borgbackup.org/"
   },
@@ -1501,7 +1501,7 @@
   },
   {
     "Package": "clifm",
-    "Version": "1.28",
+    "Version": "1.28-1",
     "Description": "The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell",
     "Homepage": "https://github.com/leo-arch/clifm"
   },
@@ -2707,7 +2707,7 @@
   },
   {
     "Package": "emacs",
-    "Version": "30.2-4",
+    "Version": "30.2-5",
     "Description": "Extensible, customizable text editor-and more",
     "Homepage": "https://www.gnu.org/software/emacs/"
   },
@@ -14941,7 +14941,7 @@
   },
   {
     "Package": "tar",
-    "Version": "1.35-2",
+    "Version": "1.35-3",
     "Description": "GNU tar for manipulating tar archives",
     "Homepage": "https://www.gnu.org/software/tar/"
   },

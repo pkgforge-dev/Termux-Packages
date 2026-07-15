@@ -162,7 +162,7 @@
  boost-headers  1:1.90.0-2  Boost header files  https://boost.org 
  boost-static  1:1.90.0-2  Static libraries for boost  https://boost.org 
  bore  0.6.0-1  Bore is a simple CLI tool for making tunnels to localhost  https://github.com/ekzhang/bore 
- borgbackup  1.4.4-2  Deduplicating and compressing backup program  https://www.borgbackup.org/ 
+ borgbackup  1.4.4-3  Deduplicating and compressing backup program  https://www.borgbackup.org/ 
  botan3  3.10.0-1  Crypto and TLS for Modern C++  https://botan.randombit.net/ 
  botan3-static  3.10.0-1  Static libraries for botan3  https://botan.randombit.net/ 
  boxes  2.3.1-1  A command line filter program which draws ASCII art boxes around your input text  https://boxes.thomasjensen.com/ 
@@ -248,7 +248,7 @@
  clang  21.1.8-3  C language frontend for LLVM  https://clang.llvm.org/ 
  clblast  1.7.0  Tuned OpenCL BLAS  https://github.com/CNugteren/CLBlast 
  cli11  2.6.2  Command line parser for C++11  https://github.com/CLIUtils/CLI11 
- clifm  1.28  The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell  https://github.com/leo-arch/clifm 
+ clifm  1.28-1  The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell  https://github.com/leo-arch/clifm 
  clinfo  3.0.25.02.14-1  Print all known information about all available OpenCL platforms and devices in the system  https://github.com/Oblomov/clinfo 
  clipp  1.2.3-1  Command line interfaces for modern C++  https://github.com/muellan/clipp 
  cloneit  20250722  A cli tool to download specific GitHub directories or files  https://github.com/alok8bb/cloneit 
@@ -449,7 +449,7 @@
  elixir  1.20.2  Elixir is a dynamic, functional language designed for building scalable and maintainable applications  https://elixir-lang.org/ 
  eltclsh  1.20-1  Interactive shell for TCL programming language  https://homepages.laas.fr/mallet/soft/shell/eltclsh 
  elvish  0.21.0-1  A friendly and expressive Unix shell  https://github.com/elves/elvish 
- emacs  30.2-4  Extensible, customizable text editor-and more  https://www.gnu.org/software/emacs/ 
+ emacs  30.2-5  Extensible, customizable text editor-and more  https://www.gnu.org/software/emacs/ 
  emmylua-ls  0.24.0  Emmy Lua Language Server coded in Rust  https://github.com/EmmyLuaLs/emmylua-analyzer-rust 
  emscripten  6.0.3  Emscripten: An LLVM-to-WebAssembly Compiler  https://emscripten.org 
  emscripten-binaryen  6.0.3  Emscripten-compatible Binaryen  https://emscripten.org 
@@ -2488,7 +2488,7 @@
  ta-lib-static  0.5.0  Static libraries for ta-lib  https://ta-lib.org/ 
  taglib  2.3  A Library for reading and editing the meta-data of several popular audio formats.  http://taglib.github.io/ 
  taplo  0.10.0-1  A TOML LSP and toolkit  https://taplo.tamasfe.dev/ 
- tar  1.35-2  GNU tar for manipulating tar archives  https://www.gnu.org/software/tar/ 
+ tar  1.35-3  GNU tar for manipulating tar archives  https://www.gnu.org/software/tar/ 
  task-spooler  1:1.0.3-1  Task spooler is a Unix batch system where the tasks spooled run one after the other  https://vicerveza.homeunix.net/~viric/soft/ts/ 
  tasksh  1.2.0-11  Shell command wrapping Taskwarrior commands  https://taskwarrior.org 
  taskwarrior  3.4.2-2  Utility for managing your TODO list  https://taskwarrior.org 
