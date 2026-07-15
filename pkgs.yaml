@@ -411,7 +411,7 @@
   Description: Static libraries for attr
   Homepage: http://savannah.nongnu.org/projects/attr/
 - Package: atuin
-  Version: 18.17.0
+  Version: 18.17.1
   Description: Magical shell history
   Homepage: https://atuin.sh/
 - Package: aubio
@@ -2511,7 +2511,7 @@
   Description: Static libraries for glpk
   Homepage: https://www.gnu.org/software/glpk/
 - Package: glslang
-  Version: 16.3.0
+  Version: 16.4.0
   Description: OpenGL and OpenGL ES shader front end and validator
   Homepage: https://github.com/KhronosGroup/glslang
 - Package: gluelang
@@ -3407,7 +3407,7 @@
   Description: KBDs showkey utility for examining keycodes
   Homepage: https://kbd-project.org/
 - Package: kew
-  Version: 4.1.8
+  Version: 4.2.2
   Description: Music for the Shell
   Homepage: https://kewplayer.com
 - Package: keybase
@@ -3579,11 +3579,11 @@
   Description: Glib-based client library for accessing the online accounts database
   Homepage: https://gitlab.com/accounts-sso/libaccounts-glib
 - Package: libacl
-  Version: 2.3.2
+  Version: 2.4.0
   Description: Access control list shared library
   Homepage: http://savannah.nongnu.org/projects/acl
 - Package: libacl-static
-  Version: 2.3.2
+  Version: 2.4.0
   Description: Static libraries for libacl
   Homepage: http://savannah.nongnu.org/projects/acl
 - Package: libaml
