@@ -501,7 +501,7 @@
  fetchmail  6.6.6-1  A remote-mail retrieval utility  https://www.fetchmail.info/ 
  fetchmailconf  6.6.6-1  A GUI configurator for generating fetchmail configuration files  https://www.fetchmail.info/ 
  fff  2.2  A simple file manager written in bash  https://github.com/dylanaraps/fff 
- ffmpeg  8.1.2  Tools and libraries to manipulate a wide range of multimedia formats and protocols  https://ffmpeg.org 
+ ffmpeg  8.1.2-1  Tools and libraries to manipulate a wide range of multimedia formats and protocols  https://ffmpeg.org 
  ffmpegthumbnailer  2.3.0  Lightweight video thumbnailer that can be used by file managers  https://github.com/dirkvdb/ffmpegthumbnailer 
  ffsend  0.2.77-2  A fully featured Firefox Send client  https://gitlab.com/timvisee/ffsend 
  fftw  3.3.11  Library for computing the Discrete Fourier Transform (DFT) in one or more dimensions  http://www.fftw.org/ 
@@ -2162,7 +2162,7 @@
  python-pycryptodomex  3.23.0-4  A self-contained Python package of low-level cryptographic primitives  https://www.pycryptodome.org/ 
  python-pynvim  0.6.0-3  Python client for Neovim  https://github.com/neovim/pynvim 
  python-pyppmd  1.3.1-1  PPM compression/decompression library  https://github.com/miurahr/pyppmd 
- python-ruff  0.15.21  An extremely fast Python linter, written in Rust (Python bindings)  https://github.com/charliermarsh/ruff 
+ python-ruff  0.15.22  An extremely fast Python linter, written in Rust (Python bindings)  https://github.com/charliermarsh/ruff 
  python-sabyenc3  9.6.1  C implementations of functions for use within SABnzbd  https://github.com/sabnzbd/sabctools 
  python-scipy  1.18.0-1  Fundamental algorithms for scientific computing in Python  https://scipy.org/ 
  python-skia-pathops  0.9.2-2  Python bindings for the Skia library's Path Ops  https://github.com/fonttools/skia-pathops 
@@ -2293,7 +2293,7 @@
  rubiks-cube  1.2-1  A rubik's cube that runs in your terminal  https://github.com/been-jamming/rubiks_cube 
  ruby  3.4.1-2  Dynamic programming language with a focus on simplicity and productivity  https://www.ruby-lang.org/ 
  ruby-ri  3.4.1-2  Ruby documentation index  https://www.ruby-lang.org/ 
- ruff  0.15.21  An extremely fast Python linter, written in Rust  https://github.com/charliermarsh/ruff 
+ ruff  0.15.22  An extremely fast Python linter, written in Rust  https://github.com/charliermarsh/ruff 
  runit  2.1.2-4  Tools to provide service supervision and to manage services  http://smarden.org/runit 
  runit-static  2.1.2-4  Static libraries for runit  http://smarden.org/runit 
  rush  0.9.0  A cross-platform command-line tool for executing jobs in parallel  https://github.com/shenwei356/rush 
@@ -2349,7 +2349,7 @@
  serf-static  1.3.10-2  Static libraries for serf  https://serf.apache.org/ 
  sfeed  2.4  Shell-script/crontab oriented feed aggregator and parser utility (curses-based reader included)  https://codemadness.org/sfeed-simple-feed-parser.html 
  sftpgo  2.7.4  Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server  https://sftpgo.com/ 
- shaderc  2026.2  Collection of tools, libraries, and tests for Vulkan shader compilation  https://github.com/google/shaderc 
+ shaderc  2026.3  Collection of tools, libraries, and tests for Vulkan shader compilation  https://github.com/google/shaderc 
  sharutils  4.15.2-4  Utilities for packaging and unpackaging shell archives  https://www.gnu.org/software/sharutils/ 
  shc  4.0.3-4  Shell script compiler  https://neurobin.org/projects/softwares/unix/shc/ 
  sheldon  0.8.5-1  Fast, configurable, shell plugin manager  https://sheldon.cli.rs/ 
@@ -2708,7 +2708,7 @@
  vlc-static  3.0.23-3  Static libraries for vlc  https://www.videolan.org/ 
  vobsub2srt  2017.12.18-4  A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR  https://github.com/ruediger/VobSub2SRT 
  vorbis-tools  1.4.3-1  Ogg Vorbis tools  https://github.com/xiph/vorbis-tools 
- vtm  2026.07.13  Terminal multiplexer with TUI window manager and multi-party session sharing  https://github.com/directvt/vtm 
+ vtm  2026.07.15  Terminal multiplexer with TUI window manager and multi-party session sharing  https://github.com/directvt/vtm 
  vtm-static  2026.07.10  Static libraries for vtm  https://github.com/directvt/vtm 
  vttest  20251205  Program for testing the VT100 compatibility of terminal emulators  https://invisible-island.net/vttest/ 
  vulkan-extension-layer  1.4.350  Vulkan Extension Layer  https://github.com/KhronosGroup/Vulkan-ExtensionLayer 

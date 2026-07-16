@@ -3019,7 +3019,7 @@
   },
   {
     "Package": "ffmpeg",
-    "Version": "8.1.2",
+    "Version": "8.1.2-1",
     "Description": "Tools and libraries to manipulate a wide range of multimedia formats and protocols",
     "Homepage": "https://ffmpeg.org"
   },
@@ -12985,7 +12985,7 @@
   },
   {
     "Package": "python-ruff",
-    "Version": "0.15.21",
+    "Version": "0.15.22",
     "Description": "An extremely fast Python linter, written in Rust (Python bindings)",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -13771,7 +13771,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.15.21",
+    "Version": "0.15.22",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -14107,7 +14107,7 @@
   },
   {
     "Package": "shaderc",
-    "Version": "2026.2",
+    "Version": "2026.3",
     "Description": "Collection of tools, libraries, and tests for Vulkan shader compilation",
     "Homepage": "https://github.com/google/shaderc"
   },
@@ -16261,7 +16261,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "2026.07.13",
+    "Version": "2026.07.15",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://github.com/directvt/vtm"
   },
