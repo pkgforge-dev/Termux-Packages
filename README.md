@@ -669,7 +669,7 @@
 | **golang** | 3:1.26.5 | Go programming language compiler | https://go.dev/ |
 | **golang-doc** | 3:1.26.5 | Go programming language - documentation | https://go.dev/ |
 | **gomp** | 2023.02.02-3 | MPD client inspired by ncmpcpp with builtin cover-art view and LastFM integration | https://aditya-k2.github.io/gomp/ |
-| **gomuks** | 26.06 | A terminal Matrix client written in Go | https://go.mau.fi/gomuks |
+| **gomuks** | 26.07 | A terminal Matrix client written in Go | https://go.mau.fi/gomuks |
 | **google-glog** | 0.7.1-2 | Logging library for C++ | https://github.com/google/glog |
 | **googletest** | 1.17.0-1 | Google C++ testing framework | https://github.com/google/googletest |
 | **goose** | 3.27.2 | A database migration tool. Supports SQL migrations and Go functions. | https://pressly.github.io/goose |
@@ -1371,8 +1371,8 @@
 | **librasqal-static** | 0.9.33-4 | Static libraries for librasqal | https://librdf.org/rasqal/ |
 | **librav1e** | 0.8.1 | An AV1 encoder library focused on speed and safety | https://github.com/xiph/rav1e/ |
 | **librav1e-static** | 0.8.1 | Static libraries for librav1e | https://github.com/xiph/rav1e/ |
-| **libraw** | 0.22.1 | Library for reading RAW files from digital cameras | https://www.libraw.org/ |
-| **libraw-static** | 0.22.1 | Static libraries for libraw | https://www.libraw.org/ |
+| **libraw** | 0.22.2 | Library for reading RAW files from digital cameras | https://www.libraw.org/ |
+| **libraw-static** | 0.22.2 | Static libraries for libraw | https://www.libraw.org/ |
 | **libre2** | 2025-11-05-2 | A regular expression library | https://github.com/google/re2 |
 | **libregexp-assemble-perl** | 0.38-8 | Perl module to merge several regular expressions | https://metacpan.org/pod/Regexp::Assemble |
 | **libresolv-wrapper** | 1.1.7-6 | A wrapper for DNS name resolving or DNS faking | https://cwrap.org/resolv_wrapper.html |
@@ -1721,7 +1721,7 @@
 | **matterbridge** | 1.26.0-4 | A simple chat bridge | https://github.com/42wim/matterbridge |
 | **matterircd** | 0.30.0 | Connect to your mattermost or slack using your IRC-client of choice | https://github.com/42wim/matterircd |
 | **matugen** | 4.1.0 | A material you color generation tool with templates | https://github.com/InioX/matugen |
-| **mautrix-whatsapp** | 0.2606.0 | A Matrix-WhatsApp puppeting bridge | https://maunium.net/go/mautrix-whatsapp/ |
+| **mautrix-whatsapp** | 0.2607.0 | A Matrix-WhatsApp puppeting bridge | https://maunium.net/go/mautrix-whatsapp/ |
 | **maven** | 3.9.16 | A Java software project management and comprehension tool | https://maven.apache.org/ |
 | **maxcso** | 1.13.0-1 | A fast ISO to CSO compression program for use with PSP and PS2 emulators | https://github.com/unknownbrackets/maxcso |
 | **mazter** | 2022.08.13-1 | Mazes in your terminal | https://github.com/Canop/mazter |
@@ -2090,7 +2090,7 @@
 | **plzip** | 1.13 | A massively parallel lossless data compressor based on the lzlib compression library | https://www.nongnu.org/lzip/plzip.html |
 | **pngcrush** | 1.8.13-2 | Recompresses png files | https://pmt.sourceforge.io/pngcrush/ |
 | **pngquant** | 3.0.3-2 | PNG image optimising utility | https://pngquant.org |
-| **pocketbase** | 0.39.6 | An open source Go backend | https://github.com/pocketbase/pocketbase |
+| **pocketbase** | 0.39.7 | An open source Go backend | https://github.com/pocketbase/pocketbase |
 | **poke** | 4.3-1 | Interactive, extensible editor for binary data. | http://www.jemarch.net/poke.html |
 | **poke-static** | 4.3-1 | Static libraries for poke | http://www.jemarch.net/poke.html |
 | **polipo** | 1.1.1-1 | A small and fast caching web proxy | http://www.pps.jussieu.fr/~jch/software/polipo/ |
@@ -2124,7 +2124,7 @@
 | **protobuf** | 2:35.1 | Compiler for protocol buffer definition files | https://github.com/protocolbuffers/protobuf |
 | **proton-bridge** | 3.25.0 | ProtonMail Bridge application | https://github.com/ProtonMail/proton-bridge |
 | **prover9** | 2009-11A-2 | An automated theorem prover for first-order and equational logic | https://www.cs.unm.edu/~mccune/prover9/ |
-| **prowlarr** | 2.4.0.5397 | An indexer manager/proxy built on the popular arr stack (server) | https://prowlarr.com |
+| **prowlarr** | 2.4.0.5397-1 | An indexer manager/proxy built on the popular arr stack (server) | https://prowlarr.com |
 | **proxychains-ng** | 4.17-1 | A hook preloader that allows to redirect TCP traffic of existing dynamically linked programs through one or more SOCKS or HTTP proxies | https://github.com/rofl0r/proxychains-ng |
 | **psmisc** | 23.7-1 | Some small useful utilities that use the proc filesystem | https://gitlab.com/psmisc/psmisc |
 | **ptex** | 2.5.2 | Per-Face Texture Mapping for Production Rendering | https://github.com/wdas/ptex |
@@ -2230,11 +2230,11 @@
 | **racket** | 9.2 | Full-spectrum programming language going beyond Lisp and Scheme | https://racket-lang.org |
 | **racket-static** | 9.2 | Static libraries for racket | https://racket-lang.org |
 | **radare2** | 6.1.8 | UNIX-like reverse engineering framework and command-line toolset | https://www.radare.org/ |
-| **radarr** | 6.3.0.10514 | A PVR for Usenet and BitTorrent users (server) | https://radarr.video |
+| **radarr** | 6.3.0.10514-1 | A PVR for Usenet and BitTorrent users (server) | https://radarr.video |
 | **rage** | 0.11.2 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4-1 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4-1 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
-| **railway-cli** | 5.26.1 | This is the command line interface for Railway | https://railway.app |
+| **railway-cli** | 5.26.2 | This is the command line interface for Railway | https://railway.app |
 | **range-v3** | 0.12.0 | Range library for C++14/17/20, basis for C++20's std::ranges | https://github.com/ericniebler/range-v3 |
 | **ranger** | 1.9.4-2 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-7 | Fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |
@@ -2403,7 +2403,7 @@
 | **softether-vpn-static** | 5.2.5188-1 | Static libraries for softether-vpn | https://www.softether.org/ |
 | **soju** | 0.10.1 | A user-friendly IRC bouncer | https://codeberg.org/emersion/soju |
 | **solidity** | 0.8.36 | An Ethereum smart contract-oriented language | https://www.soliditylang.org/ |
-| **sonarr** | 4.0.19.2979-1 | A PVR for Usenet and BitTorrent users (server) | https://sonarr.tv |
+| **sonarr** | 4.0.19.2979-2 | A PVR for Usenet and BitTorrent users (server) | https://sonarr.tv |
 | **sops** | 3.13.2 | Simple and flexible tool for managing secrets | https://github.com/getsops/sops |
 | **sord** | 0.16.22 | A lightweight C library for storing RDF data in memory | https://drobilla.net/software/sord.html |
 | **sound-theme-freedesktop** | 0.8 | Freedesktop sound theme | https://freedesktop.org/wiki/Specifications/sound-theme-spec |
@@ -2642,7 +2642,7 @@
 | **tweego** | 2.1.1-4 | A free command line compiler for Twine/Twee story formats | https://bitbucket.org/tmedwards/tweego |
 | **twolame** | 0.4.0-1 | The frontend for libtwolame | https://www.twolame.org/ |
 | **txikijs** | 1:26.6.0 | A small and powerful JavaScript runtime | https://github.com/saghul/txiki.js |
-| **ty** | 0.0.59 | An extremely fast Python type checker and language server, written in Rust | https://github.com/astral-sh/ty |
+| **ty** | 0.0.60 | An extremely fast Python type checker and language server, written in Rust | https://github.com/astral-sh/ty |
 | **typst** | 0.15.0 | A new markup-based typesetting system that is powerful and easy to learn | https://typst.app/ |
 | **typstfmt** | 0.2.10-1 | basic formatter for the Typst language | https://github.com/astrale-sharp/typstfmt |
 | **uchardet** | 0.0.8-2 | An encoding detector utility | https://www.freedesktop.org/wiki/Software/uchardet/ |

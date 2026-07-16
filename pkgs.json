@@ -3955,7 +3955,7 @@
   },
   {
     "Package": "gomuks",
-    "Version": "26.06",
+    "Version": "26.07",
     "Description": "A terminal Matrix client written in Go",
     "Homepage": "https://go.mau.fi/gomuks"
   },
@@ -8167,13 +8167,13 @@
   },
   {
     "Package": "libraw",
-    "Version": "0.22.1",
+    "Version": "0.22.2",
     "Description": "Library for reading RAW files from digital cameras",
     "Homepage": "https://www.libraw.org/"
   },
   {
     "Package": "libraw-static",
-    "Version": "0.22.1",
+    "Version": "0.22.2",
     "Description": "Static libraries for libraw",
     "Homepage": "https://www.libraw.org/"
   },
@@ -10267,7 +10267,7 @@
   },
   {
     "Package": "mautrix-whatsapp",
-    "Version": "0.2606.0",
+    "Version": "0.2607.0",
     "Description": "A Matrix-WhatsApp puppeting bridge",
     "Homepage": "https://maunium.net/go/mautrix-whatsapp/"
   },
@@ -12481,7 +12481,7 @@
   },
   {
     "Package": "pocketbase",
-    "Version": "0.39.6",
+    "Version": "0.39.7",
     "Description": "An open source Go backend",
     "Homepage": "https://github.com/pocketbase/pocketbase"
   },
@@ -12685,7 +12685,7 @@
   },
   {
     "Package": "prowlarr",
-    "Version": "2.4.0.5397",
+    "Version": "2.4.0.5397-1",
     "Description": "An indexer manager/proxy built on the popular arr stack (server)",
     "Homepage": "https://prowlarr.com"
   },
@@ -13321,7 +13321,7 @@
   },
   {
     "Package": "radarr",
-    "Version": "6.3.0.10514",
+    "Version": "6.3.0.10514-1",
     "Description": "A PVR for Usenet and BitTorrent users (server)",
     "Homepage": "https://radarr.video"
   },
@@ -13345,7 +13345,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "5.26.1",
+    "Version": "5.26.2",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -14359,7 +14359,7 @@
   },
   {
     "Package": "sonarr",
-    "Version": "4.0.19.2979-1",
+    "Version": "4.0.19.2979-2",
     "Description": "A PVR for Usenet and BitTorrent users (server)",
     "Homepage": "https://sonarr.tv"
   },
@@ -15793,7 +15793,7 @@
   },
   {
     "Package": "ty",
-    "Version": "0.0.59",
+    "Version": "0.0.60",
     "Description": "An extremely fast Python type checker and language server, written in Rust",
     "Homepage": "https://github.com/astral-sh/ty"
   },
