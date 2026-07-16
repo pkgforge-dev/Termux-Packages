@@ -862,7 +862,7 @@
 | **kakoune** | 2026.05.21-1 | Code editor heavily inspired by Vim | https://kakoune.org/ |
 | **kakoune-lsp** | 21.0.1 | Language Server Protocol Client for the Kakoune editor | https://github.com/kakoune-lsp/kakoune-lsp |
 | **kbd** | 2.10.0 | KBD's showkey utility for examining keycodes | https://kbd-project.org/ |
-| **kew** | 4.2.4 | Music for the Shell | https://kewplayer.com |
+| **kew** | 4.2.5 | Music for the Shell | https://kewplayer.com |
 | **keybase** | 6.6.3 | Key directory that maps social media identities to encryption keys | https://keybase.io |
 | **keychain** | 2.9.8-1 | Keychain manager for ssh-agent and gpg-agent | https://kernel-seeds.org/projects/keychain/ |
 | **kibi** | 0.3.3-1 | A tiny terminal text editor, written in Rust | https://github.com/ilai-deutel/kibi |
@@ -1930,7 +1930,7 @@
 | **octomap** | 1.10.0-1 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0-1 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-5 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 29.31.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 29.31.1 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **oidn** | 2.4.1 | Intel® Open Image Denoise library | https://www.openimagedenoise.org |
 | **okc-agents** | 0.1.2-2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.7 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
