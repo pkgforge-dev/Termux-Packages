@@ -697,7 +697,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.35.23",
+    "Version": "2.35.24",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -1123,13 +1123,13 @@
   },
   {
     "Package": "c-toxcore",
-    "Version": "0.2.22",
+    "Version": "0.2.23",
     "Description": "Backend library for the Tox protocol",
     "Homepage": "https://tox.chat"
   },
   {
     "Package": "c-toxcore-static",
-    "Version": "0.2.22",
+    "Version": "0.2.23",
     "Description": "Static libraries for c-toxcore",
     "Homepage": "https://tox.chat"
   },
@@ -10639,7 +10639,7 @@
   },
   {
     "Package": "mise",
-    "Version": "2026.7.6",
+    "Version": "2026.7.7",
     "Description": "dev tools, env vars, task runner",
     "Homepage": "https://mise.jdx.dev/"
   },
@@ -11287,7 +11287,7 @@
   },
   {
     "Package": "nginx",
-    "Version": "1.31.2",
+    "Version": "1.31.3",
     "Description": "Lightweight HTTP server",
     "Homepage": "https://www.nginx.org"
   },
@@ -13795,7 +13795,7 @@
   },
   {
     "Package": "rust",
-    "Version": "1.96.1",
+    "Version": "1.97.0",
     "Description": "Systems programming language focused on safety, speed and concurrency",
     "Homepage": "https://www.rust-lang.org/"
   },
@@ -13813,79 +13813,79 @@
   },
   {
     "Package": "rust-docs",
-    "Version": "1.96.1",
+    "Version": "1.97.0",
     "Description": "Rust documentation",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-src",
-    "Version": "1.96.1",
+    "Version": "1.97.0",
     "Description": "Rust source code files",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-aarch64-linux-android",
-    "Version": "1.96.1",
+    "Version": "1.97.0",
     "Description": "Component files for target aarch64-linux-android",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-armv7-linux-androideabi",
-    "Version": "1.96.1",
+    "Version": "1.97.0",
     "Description": "Component files for target armv7-linux-androideabi",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-i686-linux-android",
-    "Version": "1.96.1",
+    "Version": "1.97.0",
     "Description": "Component files for target i686-linux-android",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-wasm32-unknown-unknown",
-    "Version": "1.96.1",
+    "Version": "1.97.0",
     "Description": "Component files for target wasm32-unknown-unknown",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-wasm32-wasip1",
-    "Version": "1.96.1",
+    "Version": "1.97.0",
     "Description": "Component files for target wasm32-wasip1",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-wasm32-wasip2",
-    "Version": "1.96.1",
+    "Version": "1.97.0",
     "Description": "Component files for target wasm32-wasip2",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-wasm32-wasip3",
-    "Version": "1.96.1",
+    "Version": "1.97.0",
     "Description": "Component files for target wasm32-wasip3",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-wasm32v1-none",
-    "Version": "1.96.1",
+    "Version": "1.97.0",
     "Description": "Component files for target wasm32v1-none",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-x86-64-linux-android",
-    "Version": "1.96.1",
+    "Version": "1.97.0",
     "Description": "Component files for target x86_64-linux-android",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rustc-dev",
-    "Version": "1.96.1",
+    "Version": "1.97.0",
     "Description": "Rust compiler development libs",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rustc-src",
-    "Version": "1.96.1",
+    "Version": "1.97.0",
     "Description": "Rust compiler source code files",
     "Homepage": "https://www.rust-lang.org/"
   },
@@ -15403,7 +15403,7 @@
   },
   {
     "Package": "topgrade",
-    "Version": "17.7.0",
+    "Version": "17.8.0",
     "Description": "Upgrade all the things",
     "Homepage": "https://github.com/topgrade-rs/topgrade/"
   },
@@ -15433,7 +15433,7 @@
   },
   {
     "Package": "toxic",
-    "Version": "0.16.2-1",
+    "Version": "0.16.3",
     "Description": "A command line client for Tox",
     "Homepage": "https://github.com/JFreegman/toxic"
   },
@@ -16033,7 +16033,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.11.28",
+    "Version": "0.11.29",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
@@ -16357,7 +16357,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "2.22.1",
+    "Version": "2.22.2",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },
