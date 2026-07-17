@@ -603,7 +603,7 @@
   Description: Safely store secrets in Git/Mercurial/Subversion
   Homepage: https://github.com/StackExchange/blackbox
 - Package: blas-openblas
-  Version: 0.3.33
+  Version: 0.3.34
   Description: OpenBLAS symlinks for BLAS/CBLAS/LAPACK/LAPACKE
   Homepage: https://www.openblas.net
 - Package: blink
@@ -2167,7 +2167,7 @@
   Description: Minimalistic plugin API for video effects
   Homepage: https://www.dyne.org/software/frei0r/
 - Package: fresh-editor
-  Version: 0.4.3
+  Version: 0.4.4
   Description: 'Text editor for your terminal: easy, powerful and fast'
   Homepage: https://getfresh.dev/
 - Package: fribidi
@@ -5179,11 +5179,11 @@
   Description: An implementation of the Double Ratchet cryptographic ratchet
   Homepage: https://matrix.org/docs/projects/other/olm/
 - Package: libopenblas
-  Version: 0.3.33
+  Version: 0.3.34
   Description: An optimized BLAS library based on GotoBLAS2 1.13 BSD
   Homepage: https://www.openblas.net
 - Package: libopenblas-static
-  Version: 0.3.33
+  Version: 0.3.34
   Description: Static libraries for libopenblas
   Homepage: https://www.openblas.net
 - Package: libopencc

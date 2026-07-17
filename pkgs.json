@@ -907,7 +907,7 @@
   },
   {
     "Package": "blas-openblas",
-    "Version": "0.3.33",
+    "Version": "0.3.34",
     "Description": "OpenBLAS symlinks for BLAS/CBLAS/LAPACK/LAPACKE",
     "Homepage": "https://www.openblas.net"
   },
@@ -3253,7 +3253,7 @@
   },
   {
     "Package": "fresh-editor",
-    "Version": "0.4.3",
+    "Version": "0.4.4",
     "Description": "Text editor for your terminal: easy, powerful and fast",
     "Homepage": "https://getfresh.dev/"
   },
@@ -7771,13 +7771,13 @@
   },
   {
     "Package": "libopenblas",
-    "Version": "0.3.33",
+    "Version": "0.3.34",
     "Description": "An optimized BLAS library based on GotoBLAS2 1.13 BSD",
     "Homepage": "https://www.openblas.net"
   },
   {
     "Package": "libopenblas-static",
-    "Version": "0.3.33",
+    "Version": "0.3.34",
     "Description": "Static libraries for libopenblas",
     "Homepage": "https://www.openblas.net"
   },
