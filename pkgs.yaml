@@ -195,7 +195,7 @@
   Description: AOSP-based mksh, toybox, grep and iputils for termux-docker
   Homepage: https://source.android.com/
 - Package: apache-orc
-  Version: 2.3.0-2
+  Version: 2.3.1
   Description: Columnar storage for Hadoop workloads
   Homepage: https://orc.apache.org/
 - Package: apache2
@@ -4779,7 +4779,7 @@
   Description: Static libraries for liblrdf
   Homepage: https://github.com/swh/LRDF
 - Package: libltdl
-  Version: 2.5.4-2
+  Version: 2.6.2
   Description: Library for dlopening libraries
   Homepage: https://www.gnu.org/software/libtool/
 - Package: liblz4
@@ -5259,7 +5259,7 @@
   Description: PKCS#11 wrapper library
   Homepage: https://github.com/OpenSC/libp11
 - Package: libp8-platform
-  Version: 2.1.0.1-4
+  Version: 2.2.0
   Description: Platform support library used by libCEC and binary add-ons for Kodi
   Homepage: https://github.com/Pulse-Eight/platform
 - Package: libpagmo
@@ -5895,7 +5895,7 @@
   Description: Static libraries for libtommath
   Homepage: https://www.libtom.net/LibTomMath/
 - Package: libtool
-  Version: 2.5.4-2
+  Version: 2.6.2
   Description: Generic library support script hiding the complexity of using shared libraries behind a consistent, portable interface
   Homepage: https://www.gnu.org/software/libtool/
 - Package: libtorrent
@@ -10871,7 +10871,7 @@
   Description: Vulkan Loader for Android
   Homepage: https://source.android.com/devices/graphics/arch-vulkan
 - Package: vulkan-loader-generic
-  Version: 1.4.356
+  Version: 1.4.357
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
@@ -10879,7 +10879,7 @@
   Description: Vulkan Tools and Utilities
   Homepage: https://github.com/KhronosGroup/Vulkan-Tools
 - Package: vulkan-utility-libraries
-  Version: 1.4.356
+  Version: 1.4.357
   Description: Utility Libraries for Vulkan
   Homepage: https://github.com/KhronosGroup/Vulkan-Utility-Libraries
 - Package: vulkan-validation-layers
@@ -11263,7 +11263,7 @@
   Description: An open-source application to synchronize ActiveSync compatible devices and Outlook
   Homepage: https://z-push.org/
 - Package: z3
-  Version: 4.16.0
+  Version: 5.0.0
   Description: Z3 is a theorem prover from Microsoft Research
   Homepage: https://github.com/Z3Prover/z3
 - Package: zbar
