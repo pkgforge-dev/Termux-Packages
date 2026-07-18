@@ -5311,13 +5311,13 @@
   },
   {
     "Package": "lfortran",
-    "Version": "0.63.0",
+    "Version": "0.64.0",
     "Description": "A modern open-source interactive Fortran compiler",
     "Homepage": "https://lfortran.org/"
   },
   {
     "Package": "lfortran-static",
-    "Version": "0.63.0",
+    "Version": "0.64.0",
     "Description": "Static libraries for lfortran",
     "Homepage": "https://lfortran.org/"
   },
@@ -7705,7 +7705,7 @@
   },
   {
     "Package": "libnss",
-    "Version": "3.125",
+    "Version": "3.126",
     "Description": "Network Security Services (NSS)",
     "Homepage": "https://firefox-source-docs.mozilla.org/security/nss/"
   },
@@ -10243,7 +10243,7 @@
   },
   {
     "Package": "matplotlib",
-    "Version": "3.11.0-1",
+    "Version": "3.11.1",
     "Description": "A comprehensive library for creating static, animated, and interactive visualizations in Python",
     "Homepage": "https://matplotlib.org/"
   },
@@ -11431,7 +11431,7 @@
   },
   {
     "Package": "nss-utils",
-    "Version": "3.125",
+    "Version": "3.126",
     "Description": "Tools for NSS",
     "Homepage": "https://firefox-source-docs.mozilla.org/security/nss/"
   },
@@ -15793,7 +15793,7 @@
   },
   {
     "Package": "ty",
-    "Version": "0.0.60",
+    "Version": "0.0.61",
     "Description": "An extremely fast Python type checker and language server, written in Rust",
     "Homepage": "https://github.com/astral-sh/ty"
   },
