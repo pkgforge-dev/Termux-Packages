@@ -715,7 +715,7 @@
   Description: Utilities for Btrfs filesystem
   Homepage: https://btrfs.readthedocs.io/en/latest/
 - Package: buf
-  Version: 1.71.0
+  Version: 1.72.0
   Description: A new way of working with Protocol Buffers
   Homepage: https://buf.build
 - Package: build-essential
@@ -771,9 +771,9 @@
   Description: A program to extract Microsoft cabinet (.CAB) files
   Homepage: https://www.cabextract.org.uk/
 - Package: cabin
-  Version: 0.13.0-1
-  Description: A package manager and build system for C++
-  Homepage: https://github.com/cabinpkg/cabin
+  Version: 0.17.0
+  Description: A package manager and build system for C/C++
+  Homepage: https://cabinpkg.com/
 - Package: cadaver
   Version: "0.28"
   Description: A command-line WebDAV client for Unix
@@ -2591,7 +2591,7 @@
   Description: The GNUstep makefile package
   Homepage: https://www.gnustep.org
 - Package: gnutls
-  Version: 3.8.13
+  Version: 3.8.13-1
   Description: Commandline utilities for interfacing with the gnutls library
   Homepage: https://www.gnutls.org/
 - Package: go-findimagedupes
@@ -4399,11 +4399,11 @@
   Description: A library of general-purpose, non-graphical Objective C objects
   Homepage: https://www.gnustep.org
 - Package: libgnutls
-  Version: 3.8.13
+  Version: 3.8.13-1
   Description: Secure communications library implementing the SSL, TLS and DTLS protocols and technologies around them
   Homepage: https://www.gnutls.org/
 - Package: libgnutls-static
-  Version: 3.8.13
+  Version: 3.8.13-1
   Description: Static libraries for libgnutls
   Homepage: https://www.gnutls.org/
 - Package: libgpg-error
@@ -7971,7 +7971,7 @@
   Description: Oxc JavaScript linter
   Homepage: https://oxc.rs/
 - Package: p11-kit
-  Version: 0.26.4
+  Version: 0.26.4-1
   Description: Provides a way to load and enumerate PKCS#11 modules
   Homepage: https://p11-glue.github.io/p11-glue/p11-kit.html
 - Package: p7zip
@@ -8895,7 +8895,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 5.26.4
+  Version: 5.27.0
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
@@ -10551,7 +10551,7 @@
   Description: A basic user tool to execute simple docker containers in batch or interactive systems without root privileges.
   Homepage: https://indigo-dc.github.io/udocker
 - Package: uftrace
-  Version: 0.19-2
+  Version: 0.19-3
   Description: Function (graph) tracer for user-space
   Homepage: https://uftrace.github.io/slide
 - Package: ugrep
@@ -11099,8 +11099,12 @@
   Description: XML-XCB protocol descriptions
   Homepage: https://xcb.freedesktop.org/
 - Package: xdelta3
-  Version: 3.1.0-3
+  Version: 3.2.0
   Description: xdelta3 - VCDIFF (RFC 3284) binary diff tool
+  Homepage: https://github.com/jmacd/xdelta
+- Package: xdelta3-static
+  Version: 3.2.0
+  Description: Static libraries for xdelta3
   Homepage: https://github.com/jmacd/xdelta
 - Package: xdg-user-dirs
   Version: "0.20"

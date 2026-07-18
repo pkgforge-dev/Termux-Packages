@@ -189,7 +189,7 @@
 | **bsdtar** | 3.8.8 | The tar(1) and cpio(1) programs from FreeBSD, using libarchive | https://www.libarchive.org/ |
 | **btfs2** | 4.1.0 | Decentralized file system integrating with TRON network and Bittorrent network | https://www.bittorrent.com/btfs/ |
 | **btrfs-progs** | 7.0 | Utilities for Btrfs filesystem | https://btrfs.readthedocs.io/en/latest/ |
-| **buf** | 1.71.0 | A new way of working with Protocol Buffers | https://buf.build |
+| **buf** | 1.72.0 | A new way of working with Protocol Buffers | https://buf.build |
 | **build-essential** | 4.1 | A metapackage that installs essential development tools | https://github.com/termux/termux-packages |
 | **busybox** | 1.38.0-1 | Tiny versions of many common UNIX utilities into a single small executable | https://busybox.net/ |
 | **bvi** | 1.5.0-1 | Binary file editor based on vi | https://bvi.sourceforge.net/ |
@@ -203,7 +203,7 @@
 | **ca-certificates-java** | 1:2026.05.14 | Common CA certificates (java keystore format) | https://curl.se/docs/caextract.html |
 | **cabal-install** | 3.14.1.1-2 | The command-line interface for Haskell-Cabal and Hackage | https://www.haskell.org/cabal/ |
 | **cabextract** | 1.11-1 | A program to extract Microsoft cabinet (.CAB) files | https://www.cabextract.org.uk/ |
-| **cabin** | 0.13.0-1 | A package manager and build system for C++ | https://github.com/cabinpkg/cabin |
+| **cabin** | 0.17.0 | A package manager and build system for C/C++ | https://cabinpkg.com/ |
 | **cadaver** | 0.28 | A command-line WebDAV client for Unix | https://notroj.github.io/cadaver/ |
 | **caddy** | 2.11.4 | Fast, cross-platform HTTP/2 web server | https://caddyserver.com/ |
 | **calc** | 2.17.0.0 | Arbitrary precision console calculator | http://www.isthe.com/chongo/tech/comp/calc/ |
@@ -658,7 +658,7 @@
 | **gnushogi** | 1.4.2-p20141119-1 | Program that plays the game of Shogi, also known as Japanese Chess | https://www.gnu.org/software/gnushogi/ |
 | **gnuski** | 0.3-7 | Open source clone of Skifree, the old Windows game | https://sourceforge.net/projects/gnuski/ |
 | **gnustep-make** | 2.9.3-1 | The GNUstep makefile package | https://www.gnustep.org |
-| **gnutls** | 3.8.13 | Commandline utilities for interfacing with the gnutls library | https://www.gnutls.org/ |
+| **gnutls** | 3.8.13-1 | Commandline utilities for interfacing with the gnutls library | https://www.gnutls.org/ |
 | **go-findimagedupes** | 2023.01.29-4 | Find visually similar or duplicate images | https://gitlab.com/opennota/findimagedupes |
 | **go-musicfox** | 4.8.5 | A netease music player in terminal. | https://github.com/go-musicfox/go-musicfox |
 | **goaccess** | 1.10.2 | An open source real-time web log analyzer and interactive viewer | https://goaccess.io |
@@ -1110,8 +1110,8 @@
 | **libgmp-static** | 6.3.0-2 | Static libraries for libgmp | https://gmplib.org/ |
 | **libgnt** | 2.14.4-2 | An ncurses toolkit for creating text-mode graphical user interfaces in a fast and easy way | https://keep.imfreedom.org/libgnt/libgnt |
 | **libgnustep-base** | 1.31.1-4 | A library of general-purpose, non-graphical Objective C objects | https://www.gnustep.org |
-| **libgnutls** | 3.8.13 | Secure communications library implementing the SSL, TLS and DTLS protocols and technologies around them | https://www.gnutls.org/ |
-| **libgnutls-static** | 3.8.13 | Static libraries for libgnutls | https://www.gnutls.org/ |
+| **libgnutls** | 3.8.13-1 | Secure communications library implementing the SSL, TLS and DTLS protocols and technologies around them | https://www.gnutls.org/ |
+| **libgnutls-static** | 3.8.13-1 | Static libraries for libgnutls | https://www.gnutls.org/ |
 | **libgpg-error** | 1.58 | Small library that defines common error values for all GnuPG components | https://www.gnupg.org/related_software/libgpg-error/ |
 | **libgpg-error-static** | 1.58 | Static libraries for libgpg-error | https://www.gnupg.org/related_software/libgpg-error/ |
 | **libgraphite** | 1.3.15 | Font system for multiple languages | https://github.com/silnrsi/graphite |
@@ -2003,7 +2003,7 @@
 | **ovmf** | 20231122-16.fc40-0 | Open Virtual Machine Firmware | https://www.tianocore.org/ |
 | **oxfmt** | 1.74.0 | Oxc JavaScript formatter | https://oxc.rs/ |
 | **oxlint** | 1.74.0 | Oxc JavaScript linter | https://oxc.rs/ |
-| **p11-kit** | 0.26.4 | Provides a way to load and enumerate PKCS#11 modules | https://p11-glue.github.io/p11-glue/p11-kit.html |
+| **p11-kit** | 0.26.4-1 | Provides a way to load and enumerate PKCS#11 modules | https://p11-glue.github.io/p11-glue/p11-kit.html |
 | **p7zip** | 17.06-1 | Command-line version of the 7zip compressed file archiver | https://github.com/p7zip-project/p7zip |
 | **pacman** | 7.1.0-4 | A library-based package manager with dependency support | https://archlinux.org/pacman/ |
 | **pacman4console** | 1.3-6 | A 9 level ncurses pacman game with editor | https://sites.google.com/site/doctormike/pacman.html |
@@ -2234,7 +2234,7 @@
 | **rage** | 0.11.2 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4-1 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4-1 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
-| **railway-cli** | 5.26.4 | This is the command line interface for Railway | https://railway.app |
+| **railway-cli** | 5.27.0 | This is the command line interface for Railway | https://railway.app |
 | **range-v3** | 0.12.0 | Range library for C++14/17/20, basis for C++20's std::ranges | https://github.com/ericniebler/range-v3 |
 | **ranger** | 1.9.4-2 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-7 | Fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |
@@ -2648,7 +2648,7 @@
 | **uchardet** | 0.0.8-2 | An encoding detector utility | https://www.freedesktop.org/wiki/Software/uchardet/ |
 | **udftools** | 2.3-1 | Linux tools for UDF filesystems and DVD/CD-R(W) drives | https://github.com/pali/udftools |
 | **udocker** | 1.3.17-5 | A basic user tool to execute simple docker containers in batch or interactive systems without root privileges. | https://indigo-dc.github.io/udocker |
-| **uftrace** | 0.19-2 | Function (graph) tracer for user-space | https://uftrace.github.io/slide |
+| **uftrace** | 0.19-3 | Function (graph) tracer for user-space | https://uftrace.github.io/slide |
 | **ugrep** | 7.8.2 | A faster, user-friendly and compatible grep replacement | https://github.com/Genivia/ugrep |
 | **unar** | 1.10.8-3 | Command line tools for archive and file unarchiving and extraction | https://theunarchiver.com/command-line |
 | **unbound** | 1.25.1-1 | Unbound command-line tools | https://unbound.net/ |
@@ -2785,7 +2785,8 @@
 | **x265** | 4.2 | H.265/HEVC video stream encoder tool | http://x265.org/ |
 | **xapian-tools** | 2.0.0 | Basic tools for the Xapian search engine | https://xapian.org |
 | **xcb-proto** | 1.17.0-3 | XML-XCB protocol descriptions | https://xcb.freedesktop.org/ |
-| **xdelta3** | 3.1.0-3 | xdelta3 - VCDIFF (RFC 3284) binary diff tool | https://github.com/jmacd/xdelta |
+| **xdelta3** | 3.2.0 | xdelta3 - VCDIFF (RFC 3284) binary diff tool | https://github.com/jmacd/xdelta |
+| **xdelta3-static** | 3.2.0 | Static libraries for xdelta3 | https://github.com/jmacd/xdelta |
 | **xdg-user-dirs** | 0.20 | Manage user directories like ~/Desktop and ~/Music | https://www.freedesktop.org/wiki/Software/xdg-user-dirs |
 | **xerces-c** | 3.3.0 | Validating XML parser library for C++. | https://xerces.apache.org/ |
 | **xerces-c-static** | 3.3.0 | Static libraries for xerces-c | https://xerces.apache.org/ |
