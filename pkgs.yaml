@@ -1975,7 +1975,7 @@
   Description: Utilities to manipulate disk partition tables
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: fdkaac
-  Version: 1.0.7
+  Version: 1.0.8
   Description: command line encoder frontend for libfdk-aac
   Homepage: https://github.com/nu774/fdkaac
 - Package: fdm
@@ -2211,7 +2211,7 @@
   Description: Interactive JSON viewer on your terminal
   Homepage: https://github.com/antonmedv/fx
 - Package: fzf
-  Version: 0.74.0
+  Version: 0.74.1
   Description: Command-line fuzzy finder
   Homepage: https://junegunn.github.io/fzf/
 - Package: fzy
@@ -2671,7 +2671,7 @@
   Description: GO Simple Tunnel - a simple tunnel written in golang
   Homepage: https://github.com/ginuerzh/gost
 - Package: gotify
-  Version: 2.9.1
+  Version: 3.0.0
   Description: A simple server for sending and receiving messages in real-time per WebSocket.
   Homepage: https://github.com/gotify/server
 - Package: gotop
@@ -2983,7 +2983,7 @@
   Description: Utility that converts HTML documents into plain text
   Homepage: http://www.mbayer.de/html2text/
 - Package: htop
-  Version: 3.5.1
+  Version: 3.5.2
   Description: Interactive process viewer for Linux
   Homepage: https://htop.dev/
 - Package: htslib
@@ -4355,7 +4355,7 @@
   Description: Static libraries for libgfshare
   Homepage: https://www.digital-scurf.org/software/libgfshare
 - Package: libgit2
-  Version: 1.9.4
+  Version: 1.9.6
   Description: C library implementing Git core methods
   Homepage: https://libgit2.github.com/
 - Package: libglibmm-2.4
@@ -6679,7 +6679,7 @@
   Description: Static libraries for lua55
   Homepage: https://www.lua.org/
 - Package: luajit
-  Version: 1:2.1.1783773675+g3c4f9fe
+  Version: 1:2.1.1784360928+g14d8a7a
   Description: Just-In-Time Compiler for Lua
   Homepage: https://luajit.org/
 - Package: luajit-lgi
@@ -6687,7 +6687,7 @@
   Description: Dynamic Lua binding to GObject libraries using GObject-Introspection
   Homepage: https://github.com/lgi-devs/lgi
 - Package: luajit-static
-  Version: 1:2.1.1783773675+g3c4f9fe
+  Version: 1:2.1.1784360928+g14d8a7a
   Description: Static libraries for luajit
   Homepage: https://luajit.org/
 - Package: luarocks
@@ -7627,7 +7627,7 @@
   Description: ncurses based sudoku game
   Homepage: http://jubalh.github.io/nudoku/
 - Package: nushell
-  Version: 0.113.1
+  Version: 0.114.1-1
   Description: A new type of shell operating on structured data
   Homepage: https://www.nushell.sh
 - Package: nyancat
@@ -10791,7 +10791,7 @@
   Description: VI Like Emacs - vi work-alike
   Homepage: https://invisible-island.net/vile/
 - Package: vim
-  Version: 9.2.0782
+  Version: 9.2.0800
   Description: Vi IMproved - enhanced vi editor
   Homepage: https://www.vim.org
 - Package: virglrenderer
@@ -11175,7 +11175,7 @@
   Description: Static libraries for xvidcore
   Homepage: https://www.xvid.com/
 - Package: xxd
-  Version: 9.2.0782
+  Version: 9.2.0800
   Description: Hexdump utility from vim
   Homepage: https://www.vim.org
 - Package: xxhash
