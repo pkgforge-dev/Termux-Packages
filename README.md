@@ -760,9 +760,9 @@
 | **htslib** | 1.24 | C library for high-throughput sequencing data formats | https://github.com/samtools/htslib |
 | **htslib-static** | 1.24 | Static libraries for htslib | https://github.com/samtools/htslib |
 | **httping** | 4.4.0-1 | ping-like program for http-requests | https://github.com/folkertvanheusden/HTTPing |
-| **httrack** | 3.49.12 | It allows you to download a World Wide Web site from the Internet | http://www.httrack.com |
-| **httrack-data** | 3.49.12 | Platform-independent data for httrack | http://www.httrack.com |
-| **httrack-static** | 3.49.12 | Static libraries for httrack | http://www.httrack.com |
+| **httrack** | 3.49.13 | It allows you to download a World Wide Web site from the Internet | http://www.httrack.com |
+| **httrack-data** | 3.49.13 | Platform-independent data for httrack | http://www.httrack.com |
+| **httrack-static** | 3.49.13 | Static libraries for httrack | http://www.httrack.com |
 | **hub** | 2.14.2-6 | Command-line wrapper for git that makes you better at GitHub | https://hub.github.com/ |
 | **hugo** | 0.164.0 | A fast and flexible static site generator | https://gohugo.io/ |
 | **hummin** | 2021.05.18-4 | Command line client for the imperial library of trantor | https://trantor.is/ |
@@ -2066,7 +2066,7 @@
 | **php-psr** | 1.2.0-4 | PHP extension providing the accepted PSR interfaces | https://github.com/jbboehr/php-psr |
 | **php-redis** | 6.3.0RC1 | PHP extension for interfacing with Redis | https://github.com/phpredis/phpredis |
 | **php-sodium** | 8.5.1 | Sodium module for PHP | https://php.net |
-| **php-zephir-parser** | 2.1.0 | The Zephir Parser delivered as a C extension for the PHP language | https://github.com/phalcon/php-zephir-parser |
+| **php-zephir-parser** | 2.2.0 | The Zephir Parser delivered as a C extension for the PHP language | https://github.com/phalcon/php-zephir-parser |
 | **phpmyadmin** | 5.2.3-1 | A PHP tool for administering MySQL and MariaDB databases | https://www.phpmyadmin.net |
 | **pianobar** | 2024.12.21-2 | pianobar is a free/open-source, console-based client for the personalized online radio Pandora. | https://6xq.net/pianobar/ |
 | **pick** | 4.0.0-3 | Utility to choose one option from a set of choices with fuzzy search functionality | https://github.com/calleerlandsson/pick |
