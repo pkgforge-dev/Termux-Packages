@@ -1653,8 +1653,8 @@
 | **logo-ls** | 2024.07.17-1 | Modern ls command with vscode like File Icon and Git Integrations | https://github.com/Yash-Handa/logo-ls |
 | **logrotate** | 3.22.0-1 | Simplify the administration of log files on a system which generates a lot of log files | https://github.com/logrotate/logrotate |
 | **loksh** | 7.9 | A Linux port of OpenBSD's ksh | https://github.com/dimkr/loksh |
-| **lowdown** | 3.0.1 | Markdown utilities and library (fork of hoedown -> sundown -> libsoldout) | https://kristaps.bsd.lv/lowdown |
-| **lowdown-static** | 3.0.1 | Static libraries for lowdown | https://kristaps.bsd.lv/lowdown |
+| **lowdown** | 3.1.0 | Markdown utilities and library (fork of hoedown -> sundown -> libsoldout) | https://kristaps.bsd.lv/lowdown |
+| **lowdown-static** | 3.1.0 | Static libraries for lowdown | https://kristaps.bsd.lv/lowdown |
 | **lr** | 2.0.1-1 | list files, recursively, includes the best features of ls, find, stat and du | https://git.vuxu.org/lr/about/ |
 | **lrzip** | 0.660 | A compression utility that excels at compressing large files | https://github.com/ckolivas/lrzip |
 | **lrzsz** | 0.12.21-rc1-2 | Tools for zmodem/xmodem/ymodem file transfer | https://ohse.de/uwe/software/lrzsz.html |
