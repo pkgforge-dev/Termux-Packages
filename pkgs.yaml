@@ -655,7 +655,7 @@
   Description: Bore is a simple CLI tool for making tunnels to localhost
   Homepage: https://github.com/ekzhang/bore
 - Package: borgbackup
-  Version: 1.4.4-3
+  Version: 1.4.5
   Description: Deduplicating and compressing backup program
   Homepage: https://www.borgbackup.org/
 - Package: botan3
@@ -3239,7 +3239,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.24.2205
+  Version: 0.24.2233
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -7679,7 +7679,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 29.32.0
+  Version: 29.33.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: oidn
@@ -8435,7 +8435,7 @@
   Description: Generic coordinate transformation software
   Homepage: https://proj.org
 - Package: proot
-  Version: 5.1.107.84
+  Version: 5.1.107.85
   Description: Emulate chroot, bind mount and binfmt_misc for non-root users
   Homepage: https://proot-me.github.io/
 - Package: proot-distro

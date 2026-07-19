@@ -162,7 +162,7 @@
 | **boost-headers** | 1:1.90.0-2 | Boost header files | https://boost.org |
 | **boost-static** | 1:1.90.0-2 | Static libraries for boost | https://boost.org |
 | **bore** | 0.6.0-1 | Bore is a simple CLI tool for making tunnels to localhost | https://github.com/ekzhang/bore |
-| **borgbackup** | 1.4.4-3 | Deduplicating and compressing backup program | https://www.borgbackup.org/ |
+| **borgbackup** | 1.4.5 | Deduplicating and compressing backup program | https://www.borgbackup.org/ |
 | **botan3** | 3.10.0-1 | Crypto and TLS for Modern C++ | https://botan.randombit.net/ |
 | **botan3-static** | 3.10.0-1 | Static libraries for botan3 | https://botan.randombit.net/ |
 | **boxes** | 2.3.1-1 | A command line filter program which draws ASCII art boxes around your input text | https://boxes.thomasjensen.com/ |
@@ -808,7 +808,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4-1 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-2 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.24.2205 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.24.2233 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **jadx** | 1.5.5 | Dex to Java decompiler | https://github.com/skylot/jadx |
 | **jadx-x** | 1.5.5 | Dex to Java decompiler GUI | https://github.com/skylot/jadx |
 | **janet** | 1.41.2 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
@@ -1918,7 +1918,7 @@
 | **octomap** | 1.10.0-1 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0-1 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-5 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 29.32.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 29.33.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **oidn** | 2.4.1 | Intel® Open Image Denoise library | https://www.openimagedenoise.org |
 | **okc-agents** | 0.1.2-2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.7 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
@@ -2107,7 +2107,7 @@
 | **profanity** | 0.18.2-1 | Profanity is a console based XMPP client written in C using ncurses and libstrophe, inspired by Irssi | https://profanity-im.github.io |
 | **progress** | 0.17-1 | Linux tool to show progress for cp, mv, dd and more | https://github.com/Xfennec/progress |
 | **proj** | 9.8.1 | Generic coordinate transformation software | https://proj.org |
-| **proot** | 5.1.107.84 | Emulate chroot, bind mount and binfmt_misc for non-root users | https://proot-me.github.io/ |
+| **proot** | 5.1.107.85 | Emulate chroot, bind mount and binfmt_misc for non-root users | https://proot-me.github.io/ |
 | **proot-distro** | 5.4.1 | Termux official utility for managing proot'ed Linux distributions | https://github.com/termux/proot-distro |
 | **protobuf** | 2:35.1 | Compiler for protocol buffer definition files | https://github.com/protocolbuffers/protobuf |
 | **proton-bridge** | 3.25.0 | ProtonMail Bridge application | https://github.com/ProtonMail/proton-bridge |

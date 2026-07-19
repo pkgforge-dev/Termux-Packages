@@ -985,7 +985,7 @@
   },
   {
     "Package": "borgbackup",
-    "Version": "1.4.4-3",
+    "Version": "1.4.5",
     "Description": "Deduplicating and compressing backup program",
     "Homepage": "https://www.borgbackup.org/"
   },
@@ -4861,7 +4861,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.24.2205",
+    "Version": "0.24.2233",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -11521,7 +11521,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "29.32.0",
+    "Version": "29.33.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -12655,7 +12655,7 @@
   },
   {
     "Package": "proot",
-    "Version": "5.1.107.84",
+    "Version": "5.1.107.85",
     "Description": "Emulate chroot, bind mount and binfmt_misc for non-root users",
     "Homepage": "https://proot-me.github.io/"
   },
