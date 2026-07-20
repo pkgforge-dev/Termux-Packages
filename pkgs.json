@@ -1135,13 +1135,13 @@
   },
   {
     "Package": "ca-certificates",
-    "Version": "1:2026.05.14",
+    "Version": "1:2026.07.16",
     "Description": "Common CA certificates",
     "Homepage": "https://curl.se/docs/caextract.html"
   },
   {
     "Package": "ca-certificates-java",
-    "Version": "1:2026.05.14",
+    "Version": "1:2026.07.16",
     "Description": "Common CA certificates (java keystore format)",
     "Homepage": "https://curl.se/docs/caextract.html"
   },
@@ -3457,7 +3457,7 @@
   },
   {
     "Package": "geckodriver",
-    "Version": "0.37.0",
+    "Version": "0.37.1",
     "Description": "Proxy for using W3C WebDriver-compatible clients to interact with Gecko-based browsers",
     "Homepage": "https://github.com/mozilla/geckodriver"
   },
@@ -5005,7 +5005,7 @@
   },
   {
     "Package": "jq-lsp",
-    "Version": "0.1.17",
+    "Version": "0.1.18",
     "Description": "jq language server",
     "Homepage": "https://github.com/wader/jq-lsp"
   },
