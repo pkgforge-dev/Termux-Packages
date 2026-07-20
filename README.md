@@ -269,7 +269,7 @@
 | **clvk** | 0.0.20260707.165306 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
 | **cmake** | 4.4.0 | Family of tools designed to build, test and package software | https://cmake.org/ |
 | **cmake-curses-gui** | 4.4.0 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
-| **cmark** | 0.31.2 | CommonMark parsing and rendering program | https://github.com/commonmark/cmark |
+| **cmark** | 0.31.2-1 | CommonMark parsing and rendering program | https://github.com/commonmark/cmark |
 | **cmark-static** | 0.31.2 | Static libraries for cmark | https://github.com/commonmark/cmark |
 | **cmatrix** | 2.0-1 | Command producing a Matrix-style animation | https://github.com/abishekvashok/cmatrix |
 | **cmocka** | 2.0.2 | cmocka is an unit testing framework for C | https://cmocka.org/ |
@@ -862,7 +862,7 @@
 | **kakoune** | 2026.05.21-1 | Code editor heavily inspired by Vim | https://kakoune.org/ |
 | **kakoune-lsp** | 21.0.1 | Language Server Protocol Client for the Kakoune editor | https://github.com/kakoune-lsp/kakoune-lsp |
 | **kbd** | 2.10.0 | KBD's showkey utility for examining keycodes | https://kbd-project.org/ |
-| **kew** | 4.2.6 | Music for the Shell | https://kewplayer.com |
+| **kew** | 4.2.7 | Music for the Shell | https://kewplayer.com |
 | **keybase** | 6.6.3 | Key directory that maps social media identities to encryption keys | https://keybase.io |
 | **keychain** | 2.9.8-1 | Keychain manager for ssh-agent and gpg-agent | https://kernel-seeds.org/projects/keychain/ |
 | **kibi** | 0.3.3-1 | A tiny terminal text editor, written in Rust | https://github.com/ilai-deutel/kibi |
@@ -1215,7 +1215,7 @@
 | **libmad** | 0.16.4-2 | MAD is a high-quality MPEG audio decoder | http://www.underbit.com/products/mad/ |
 | **libmariadbcpp** | 1.1.2-1 | Enables C++ applications to establish client connections to MariaDB Enterprise over TLS | https://mariadb.com/docs/clients/mariadb-connectors/connector-cpp/ |
 | **libmatio** | 1.5.30 | A C library for reading and writing Matlab MAT files | https://github.com/tbeu/matio |
-| **libmatroska** | 1.7.1-1 | Matroska library | https://dl.matroska.org/downloads/libmatroska/ |
+| **libmatroska** | 1.7.2 | Matroska library | https://dl.matroska.org/downloads/libmatroska/ |
 | **libmaxminddb** | 1.13.3 | MaxMind GeoIP2 database - library and utilities | https://dev.maxmind.com/geoip/geoip2/ |
 | **libmaxminddb-static** | 1.13.3 | Static libraries for libmaxminddb | https://dev.maxmind.com/geoip/geoip2/ |
 | **libmaxminddb-tools** | 1.13.3 | A geoip lookup utility for MaxMind DB | https://dev.maxmind.com/geoip/geoip2/ |
@@ -2066,7 +2066,7 @@
 | **php-psr** | 1.2.0-4 | PHP extension providing the accepted PSR interfaces | https://github.com/jbboehr/php-psr |
 | **php-redis** | 6.3.0RC1 | PHP extension for interfacing with Redis | https://github.com/phpredis/phpredis |
 | **php-sodium** | 8.5.1 | Sodium module for PHP | https://php.net |
-| **php-zephir-parser** | 2.3.0 | The Zephir Parser delivered as a C extension for the PHP language | https://github.com/phalcon/php-zephir-parser |
+| **php-zephir-parser** | 2.4.0 | The Zephir Parser delivered as a C extension for the PHP language | https://github.com/phalcon/php-zephir-parser |
 | **phpmyadmin** | 5.2.3-1 | A PHP tool for administering MySQL and MariaDB databases | https://www.phpmyadmin.net |
 | **pianobar** | 2024.12.21-2 | pianobar is a free/open-source, console-based client for the personalized online radio Pandora. | https://6xq.net/pianobar/ |
 | **pick** | 4.0.0-3 | Utility to choose one option from a set of choices with fuzzy search functionality | https://github.com/calleerlandsson/pick |
