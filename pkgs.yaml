@@ -4119,11 +4119,11 @@
   Description: Static libraries for libdvdnav
   Homepage: https://www.videolan.org/developers/libdvdnav.html
 - Package: libdvdread
-  Version: 7.1.0
+  Version: 7.1.1
   Description: A library that allows easy use of sophisticated DVD navigation features
   Homepage: https://code.videolan.org/videolan/libdvdread
 - Package: libdvdread-static
-  Version: 7.1.0
+  Version: 7.1.1
   Description: Static libraries for libdvdread
   Homepage: https://code.videolan.org/videolan/libdvdread
 - Package: libdw
@@ -4143,7 +4143,7 @@
   Description: Static libraries for libdwarf
   Homepage: https://www.prevanders.net/dwarf.html
 - Package: libebml
-  Version: 1.4.5-2
+  Version: 1.4.6
   Description: Extensible Binary Meta Language library
   Homepage: https://github.com/Matroska-Org/libebml
 - Package: libebur128
@@ -9199,7 +9199,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: "20260713"
+  Version: "20260720"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://rust-analyzer.github.io/
 - Package: rust-bindgen
@@ -9951,7 +9951,7 @@
   Description: Static libraries for ta-lib
   Homepage: https://ta-lib.org/
 - Package: taglib
-  Version: 2.3-1
+  Version: 2.3.1
   Description: A Library for reading and editing the meta-data of several popular audio formats.
   Homepage: http://taglib.github.io/
 - Package: taplo
