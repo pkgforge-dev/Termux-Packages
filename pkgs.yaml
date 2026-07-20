@@ -1175,7 +1175,7 @@
   Description: Roguelike adventure through dungeons filled with dangerous monsters
   Homepage: https://crawl.develz.org/
 - Package: croc
-  Version: 1:10.4.13
+  Version: 1:10.4.14
   Description: Easily and securely send things from one computer to another
   Homepage: https://github.com/schollz/croc
 - Package: cronie
@@ -1443,7 +1443,7 @@
   Description: dns2tcp is a tool for relaying TCP connections over DNS
   Homepage: https://github.com/alex-sector/dns2tcp
 - Package: dnscontrol
-  Version: 4.42.0
+  Version: 4.43.2
   Description: Infrastructure as code for DNS!
   Homepage: https://github.com/StackExchange/dnscontrol
 - Package: dnslookup
@@ -3071,11 +3071,11 @@
   Description: A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices
   Homepage: https://www.cloudwego.io
 - Package: i2pd
-  Version: 2.60.0-1
+  Version: 2.61.0
   Description: A full-featured C++ implementation of the I2P router
   Homepage: https://i2pd.website/
 - Package: i2pd-static
-  Version: 2.60.0-1
+  Version: 2.61.0
   Description: Static libraries for i2pd
   Homepage: https://i2pd.website/
 - Package: iat
@@ -5731,7 +5731,7 @@
   Description: tcl bindings for SQLite
   Homepage: https://www.sqlite.org
 - Package: libsrt
-  Version: 1.5.5
+  Version: 1.5.6
   Description: Secure Reliable Transport (SRT) Protocol
   Homepage: https://github.com/Haivision/srt
 - Package: libssh
@@ -8435,7 +8435,7 @@
   Description: Generic coordinate transformation software
   Homepage: https://proj.org
 - Package: proot
-  Version: 5.1.107.85
+  Version: 5.1.107.86
   Description: Emulate chroot, bind mount and binfmt_misc for non-root users
   Homepage: https://proot-me.github.io/
 - Package: proot-distro
@@ -8863,7 +8863,7 @@
   Description: Allows you to easily manage large numbers of patches
   Homepage: https://savannah.nongnu.org/projects/quilt
 - Package: rabbitmq-server
-  Version: 4.3.2
+  Version: 4.3.3
   Description: Feature rich, multi-protocol messaging and streaming broker
   Homepage: https://github.com/rabbitmq/rabbitmq-server
 - Package: racket
@@ -9683,7 +9683,7 @@
   Description: A Free SOCKS proxy server
   Homepage: https://sourceforge.net/projects/socks-relay/
 - Package: srt-tools
-  Version: 1.5.5
+  Version: 1.5.6
   Description: Command-line tools for libsrt
   Homepage: https://github.com/Haivision/srt
 - Package: srt2vobsub

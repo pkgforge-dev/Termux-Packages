@@ -1765,7 +1765,7 @@
   },
   {
     "Package": "croc",
-    "Version": "1:10.4.13",
+    "Version": "1:10.4.14",
     "Description": "Easily and securely send things from one computer to another",
     "Homepage": "https://github.com/schollz/croc"
   },
@@ -2167,7 +2167,7 @@
   },
   {
     "Package": "dnscontrol",
-    "Version": "4.42.0",
+    "Version": "4.43.2",
     "Description": "Infrastructure as code for DNS!",
     "Homepage": "https://github.com/StackExchange/dnscontrol"
   },
@@ -4609,13 +4609,13 @@
   },
   {
     "Package": "i2pd",
-    "Version": "2.60.0-1",
+    "Version": "2.61.0",
     "Description": "A full-featured C++ implementation of the I2P router",
     "Homepage": "https://i2pd.website/"
   },
   {
     "Package": "i2pd-static",
-    "Version": "2.60.0-1",
+    "Version": "2.61.0",
     "Description": "Static libraries for i2pd",
     "Homepage": "https://i2pd.website/"
   },
@@ -8599,7 +8599,7 @@
   },
   {
     "Package": "libsrt",
-    "Version": "1.5.5",
+    "Version": "1.5.6",
     "Description": "Secure Reliable Transport (SRT) Protocol",
     "Homepage": "https://github.com/Haivision/srt"
   },
@@ -12655,7 +12655,7 @@
   },
   {
     "Package": "proot",
-    "Version": "5.1.107.85",
+    "Version": "5.1.107.86",
     "Description": "Emulate chroot, bind mount and binfmt_misc for non-root users",
     "Homepage": "https://proot-me.github.io/"
   },
@@ -13297,7 +13297,7 @@
   },
   {
     "Package": "rabbitmq-server",
-    "Version": "4.3.2",
+    "Version": "4.3.3",
     "Description": "Feature rich, multi-protocol messaging and streaming broker",
     "Homepage": "https://github.com/rabbitmq/rabbitmq-server"
   },
@@ -14527,7 +14527,7 @@
   },
   {
     "Package": "srt-tools",
-    "Version": "1.5.5",
+    "Version": "1.5.6",
     "Description": "Command-line tools for libsrt",
     "Homepage": "https://github.com/Haivision/srt"
   },
