@@ -211,7 +211,7 @@
   Description: APK signing tool from Android SDK
   Homepage: https://developer.android.com/studio/command-line/apksigner
 - Package: apktool
-  Version: 3.0.2
+  Version: 3.0.3
   Description: A tool for reverse engineering Android apps (decoding, rebuilding, and smali debugging).
   Homepage: https://apktool.org/
 - Package: appstream
@@ -1687,7 +1687,7 @@
   Description: A small, configurable console text editor
   Homepage: https://craigbarnes.gitlab.io/dte/
 - Package: dua
-  Version: 2.38.0
+  Version: 2.38.1
   Description: View disk space usage and delete unwanted data, fast
   Homepage: https://github.com/Byron/dua-cli
 - Package: duc
@@ -6571,11 +6571,11 @@
   Description: A Linux port of OpenBSDs ksh
   Homepage: https://github.com/dimkr/loksh
 - Package: lowdown
-  Version: 3.1.0
+  Version: 3.1.1
   Description: Markdown utilities and library (fork of hoedown -> sundown -> libsoldout)
   Homepage: https://kristaps.bsd.lv/lowdown
 - Package: lowdown-static
-  Version: 3.1.0
+  Version: 3.1.1
   Description: Static libraries for lowdown
   Homepage: https://kristaps.bsd.lv/lowdown
 - Package: lr
@@ -6679,7 +6679,7 @@
   Description: Static libraries for lua55
   Homepage: https://www.lua.org/
 - Package: luajit
-  Version: 1:2.1.1784360928+g14d8a7a
+  Version: 1:2.1.1784535789+g5f627e4
   Description: Just-In-Time Compiler for Lua
   Homepage: https://luajit.org/
 - Package: luajit-lgi
@@ -6687,7 +6687,7 @@
   Description: Dynamic Lua binding to GObject libraries using GObject-Introspection
   Homepage: https://github.com/lgi-devs/lgi
 - Package: luajit-static
-  Version: 1:2.1.1784360928+g14d8a7a
+  Version: 1:2.1.1784535789+g5f627e4
   Description: Static libraries for luajit
   Homepage: https://luajit.org/
 - Package: luarocks
@@ -8223,7 +8223,7 @@
   Description: Sodium module for PHP
   Homepage: https://php.net
 - Package: php-zephir-parser
-  Version: 2.4.0
+  Version: 2.5.0
   Description: The Zephir Parser delivered as a C extension for the PHP language
   Homepage: https://github.com/phalcon/php-zephir-parser
 - Package: phpmyadmin
@@ -8895,7 +8895,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 5.27.0
+  Version: 5.27.1
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
