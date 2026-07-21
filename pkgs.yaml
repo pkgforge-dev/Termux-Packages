@@ -2471,7 +2471,7 @@
   Description: Simple, Portable, Free File Transfer Software for UNIX
   Homepage: http://www.columbia.edu/kermit/gkermit.html
 - Package: glab-cli
-  Version: 1.108.0
+  Version: 1.109.0
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
@@ -3507,7 +3507,7 @@
   Description: Powerful, double-entry accounting system
   Homepage: https://www.ledger-cli.org
 - Package: lego
-  Version: 5.2.2
+  Version: 5.3.0
   Description: Lets Encrypt/ACME client and library written in Go
   Homepage: https://github.com/go-acme/lego
 - Package: leptonica
@@ -5739,7 +5739,7 @@
   Description: Secure Reliable Transport (SRT) Protocol
   Homepage: https://github.com/Haivision/srt
 - Package: libssh
-  Version: 0.12.0-1
+  Version: 0.12.1
   Description: Tiny C SSH library
   Homepage: https://www.libssh.org/
 - Package: libssh2
@@ -10503,7 +10503,7 @@
   Description: High-performance build system for JS/TS
   Homepage: https://turborepo.dev/
 - Package: turbopack
-  Version: 16.2.10
+  Version: 16.2.11
   Description: Rust-based incremental compilation engine and bundler for Next.js
   Homepage: https://nextjs.org/
 - Package: tut
@@ -10923,7 +10923,7 @@
   Description: Libc for WebAssembly programs built on top of WASI system calls
   Homepage: https://wasi.dev/
 - Package: wasm-component-ld
-  Version: 0.5.26
+  Version: 0.5.27
   Description: Command line linker for creating WebAssembly components
   Homepage: https://github.com/bytecodealliance/wasm-component-ld
 - Package: wasmedge
