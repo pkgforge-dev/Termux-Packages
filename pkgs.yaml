@@ -931,7 +931,7 @@
   Description: Static libraries for check
   Homepage: https://libcheck.github.io/check
 - Package: chezmoi
-  Version: 2.71.0
+  Version: 2.71.1
   Description: Manage your dotfiles across multiple machines
   Homepage: https://chezmoi.io
 - Package: chicken
@@ -1443,7 +1443,7 @@
   Description: dns2tcp is a tool for relaying TCP connections over DNS
   Homepage: https://github.com/alex-sector/dns2tcp
 - Package: dnscontrol
-  Version: 4.43.2
+  Version: 4.43.3
   Description: Infrastructure as code for DNS!
   Homepage: https://github.com/StackExchange/dnscontrol
 - Package: dnslookup
@@ -2095,7 +2095,7 @@
   Description: Software synthesizer based on the SoundFont 2 specifications
   Homepage: https://github.com/FluidSynth/fluidsynth
 - Package: flyctl
-  Version: 0.4.71
+  Version: 0.4.72
   Description: Command line tools for fly.io services
   Homepage: https://fly.io
 - Package: fm
@@ -2603,7 +2603,7 @@
   Description: A netease music player in terminal.
   Homepage: https://github.com/go-musicfox/go-musicfox
 - Package: goaccess
-  Version: 1.10.2
+  Version: "1.11"
   Description: An open source real-time web log analyzer and interactive viewer
   Homepage: https://goaccess.io
 - Package: gobang
