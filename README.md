@@ -267,6 +267,7 @@
 | **cloneit** | 20250722 | A cli tool to download specific GitHub directories or files | https://github.com/alok8bb/cloneit |
 | **cloudflared** | 2026.7.2 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
 | **clpeak** | 1.1.7 | A tool which profiles OpenCL devices to find their peak capacities | https://github.com/krrishnarraj/clpeak |
+| **clucene** | 2.3.3.4-8 | C++ port of the high-performance text search engine Lucene | http://clucene.sourceforge.net/ |
 | **clvk** | 0.0.20260707.165306 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
 | **cmake** | 4.4.0 | Family of tools designed to build, test and package software | https://cmake.org/ |
 | **cmake-curses-gui** | 4.4.0 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
@@ -905,6 +906,8 @@
 | **lhasa-static** | 0.6.0 | Static libraries for lhasa | https://lhasa.soulsphere.org/ |
 | **liba52** | 0.8.0-3 | A free library for decoding ATSC A/52 streams | http://liba52.sourceforge.net/ |
 | **liba52-static** | 0.8.0-3 | Static libraries for liba52 | http://liba52.sourceforge.net/ |
+| **libabw** | 0.1.3-5 | a library that parses the file format of AbiWord documents | https://wiki.documentfoundation.org/DLP/Libraries/libabw |
+| **libabw-static** | 0.1.3-5 | Static libraries for libabw | https://wiki.documentfoundation.org/DLP/Libraries/libabw |
 | **libaccounts-glib** | 1.27 | Glib-based client library for accessing the online accounts database | https://gitlab.com/accounts-sso/libaccounts-glib |
 | **libacl** | 2.4.0 | Access control list shared library | http://savannah.nongnu.org/projects/acl |
 | **libacl-static** | 2.4.0 | Static libraries for libacl | http://savannah.nongnu.org/projects/acl |
@@ -982,6 +985,8 @@
 | **libccd** | 2.1-2 | Library for collision detection between two convex shapes | https://github.com/danfis/libccd |
 | **libcddb** | 1.3.2-1 | A C library to access data on a CDDB server | https://libcddb.sourceforge.net/ |
 | **libcddb-static** | 1.3.2-1 | Static libraries for libcddb | https://libcddb.sourceforge.net/ |
+| **libcdr** | 0.1.8-5 | CorelDraw file format importer library for LibreOffice | https://wiki.documentfoundation.org/DLP/Libraries/libcdr |
+| **libcdr-static** | 0.1.8-5 | Static libraries for libcdr | https://wiki.documentfoundation.org/DLP/Libraries/libcdr |
 | **libcec** | 7.1.1-1 | Provides support for Pulse-Eight's USB-CEC adapter and other CEC capable hardware | https://libcec.pulse-eight.com/ |
 | **libcec-static** | 7.1.1-1 | Static libraries for libcec | https://libcec.pulse-eight.com/ |
 | **libceres-solver** | 2.2.0-4 | C++ library for modeling and solving large, complicated optimization problems | http://ceres-solver.org |
@@ -990,6 +995,7 @@
 | **libclc** | 21.1.3-1 | Open source implementation of the library requirements of the OpenCL C programming language | https://libclc.llvm.org/ |
 | **libcln** | 1.3.7-1 | CLN is a library for efficient computations with all kinds of numbers in arbitrary precision | https://www.ginac.de/CLN/ |
 | **libcln-static** | 1.3.7-1 | Static libraries for libcln | https://www.ginac.de/CLN/ |
+| **libcmis** | 0.6.3-2 | a C/C++ client library for the CMIS protocol | https://github.com/tdf/libcmis |
 | **libcoap** | 4.3.5b | Implementation of CoAP, a lightweight protocol for resource constrained devices | https://libcoap.net/ |
 | **libcoap-static** | 4.3.5b | Static libraries for libcoap | https://libcoap.net/ |
 | **libcoinor-cgl** | 0.60.10 | An open-source cut generation library for COIN-OR projects | https://github.com/coin-or/Cgl |
@@ -1047,6 +1053,8 @@
 | **libdw-static** | 0.193-1 | Static library to read DWARF information | https://sourceware.org/elfutils/ |
 | **libdwarf** | 2.3.2 | Library for handling DWARF Debugging Information Format | https://www.prevanders.net/dwarf.html |
 | **libdwarf-static** | 2.3.2 | Static libraries for libdwarf | https://www.prevanders.net/dwarf.html |
+| **libe-book** | 0.1.3-5 | Library for import of reflowable e-book formats. | https://sourceforge.net/projects/libebook/ |
+| **libe-book-static** | 0.1.3-5 | Static libraries for libe-book | https://sourceforge.net/projects/libebook/ |
 | **libebml** | 1.4.6 | Extensible Binary Meta Language library | https://github.com/Matroska-Org/libebml |
 | **libebur128** | 1.2.6-4 | Implements the EBU R 128 standard for loudness normalisation | https://github.com/jiixyj/libebur128 |
 | **libedit** | 20240517-3.1-1 | Library providing line editing, history, and tokenization functions | https://thrysoee.dk/editline/ |
@@ -1055,7 +1063,11 @@
 | **libelf-static** | 0.193-1 | Static libraries for libelf | https://sourceware.org/elfutils/ |
 | **libenet** | 1.3.18-1 | ENet reliable UDP networking library | http://enet.bespin.org |
 | **libenet-static** | 1.3.18-1 | Static libraries for libenet | http://enet.bespin.org |
+| **libeot** | 0.01 | Library for parsing Embedded OpenType font files | https://github.com/umanwizard/libeot |
+| **libeot-static** | 0.01 | Static libraries for libeot | https://github.com/umanwizard/libeot |
 | **libepoxy** | 1.5.10-3 | Library handling OpenGL function pointer management | https://github.com/anholt/libepoxy |
+| **libepubgen** | 0.1.1-5 | an EPUB generator for librevenge | https://sourceforge.net/projects/libepubgen |
+| **libepubgen-static** | 0.1.1-5 | Static libraries for libepubgen | https://sourceforge.net/projects/libepubgen |
 | **libesqlite3** | 3.49.1.20250307 | SQLitePCLRaw is a Portable Class Library for low-level access to SQLite (native library) | https://github.com/ericsink/SQLitePCL.raw |
 | **libetebase** | 0.5.8 | Etebase C library | https://github.com/etesync/libetebase |
 | **libetonyek** | 0.1.13-1 | CorelDraw file format importer library for LibreOffice | https://wiki.documentfoundation.org/DLP/Libraries/libetonyek |
@@ -1067,6 +1079,8 @@
 | **libexif-static** | 0.6.26 | Static libraries for libexif | https://libexif.github.io/ |
 | **libexpat** | 2.8.2 | XML parsing C library | https://libexpat.github.io/ |
 | **libexpat-static** | 2.8.2 | Static libraries for libexpat | https://libexpat.github.io/ |
+| **libexttextcat** | 3.4.7-1 | N-Gram-Based Text Categorization library primarily intended for language guessing | https://wiki.documentfoundation.org/Libexttextcat |
+| **libexttextcat-static** | 3.4.7-1 | Static libraries for libexttextcat | https://wiki.documentfoundation.org/Libexttextcat |
 | **libfann** | 2.2.0-2 | Fast artificial neural network library | http://leenissen.dk/fann/wp |
 | **libfcl** | 0.7.0-4 | Flexible collision library | https://github.com/flexible-collision-library/fcl |
 | **libfdisk** | 2.42.1-4 | Library for manipulating disk partition tables | https://en.wikipedia.org/wiki/Util-linux |
@@ -1080,6 +1094,8 @@
 | **libflac-static** | 1.5.0-1 | Static libraries for libflac | https://xiph.org/flac/ |
 | **libflann** | 2022.10.27-2 | A library for performing fast approximate nearest neighbor searches in high dimensional spaces | https://github.com/flann-lib/flann |
 | **libforestdb** | 1.2-2 | A key-value storage engine | https://github.com/couchbase/forestdb |
+| **libfreehand** | 0.1.2-5 | a library for import of Aldus/Macromedia/Adobe FreeHand documents | https://wiki.documentfoundation.org/DLP/Libraries/libfreehand |
+| **libfreehand-static** | 0.1.2-5 | Static libraries for libfreehand | https://wiki.documentfoundation.org/DLP/Libraries/libfreehand |
 | **libfreexl** | 2.0.0-1 | Library to extract valid data from within an Excel (.xls) spreadsheet | https://www.gaia-gis.it/fossil/freexl |
 | **libfreexl-static** | 2.0.0-1 | Static libraries for libfreexl | https://www.gaia-gis.it/fossil/freexl |
 | **libftxui** | 7.0.1 | A simple C++ library for terminal based user interface | https://github.com/ArthurSonzogni/FTXUI |
@@ -1167,6 +1183,8 @@
 | **libisoburn-static** | 1.5.8 | Static libraries for libisoburn | https://dev.lovelyhq.com/libburnia |
 | **libisofs** | 1.5.8.pl02 | Library to pack up hard disk files and directories into a ISO 9660 disk image | https://dev.lovelyhq.com/libburnia |
 | **libisofs-static** | 1.5.8.pl02 | Static libraries for libisofs | https://dev.lovelyhq.com/libburnia |
+| **libixion** | 0.20.0-3 | A general purpose formula parser & interpreter | https://gitlab.com/ixion/ixion/blob/master/README.md |
+| **libixion-static** | 0.20.0-3 | Static libraries for libixion | https://gitlab.com/ixion/ixion/blob/master/README.md |
 | **libjanet** | 1.41.2 | Development library for Janet | https://janet-lang.org |
 | **libjanet-static** | 1.41.2 | Static libraries for libjanet | https://janet-lang.org |
 | **libjansi** | 2.4.3 | A small java library that allows you to use ANSI escape codes to format your console output | https://fusesource.github.io/jansi/ |
@@ -1259,7 +1277,11 @@
 | **libmsgpack** | 7.0.1 | MessagePack implementation for C | https://github.com/msgpack/msgpack-c/ |
 | **libmsgpack-cxx** | 8.0.0-1 | msgpack for C++ | https://msgpack.org/ |
 | **libmsgpack-static** | 7.0.1 | Static libraries for libmsgpack | https://github.com/msgpack/msgpack-c/ |
+| **libmspub** | 0.1.4-5 | Microsoft Publisher file format parser library (latest snapshot) | https://wiki.documentfoundation.org/DLP/Libraries/libcdr |
+| **libmspub-static** | 0.1.4-5 | Static libraries for libmspub | https://wiki.documentfoundation.org/DLP/Libraries/libcdr |
 | **libmuparser** | 2.3.5-2 | An extensible high performance math expression parser library written in C++ | https://beltoforion.de/en/muparser |
+| **libmwaw** | 0.3.22-1 | Import library for some old mac text documents. | https://sourceforge.net/projects/libmwaw/ |
+| **libmwaw-static** | 0.3.22-1 | Static libraries for libmwaw | https://sourceforge.net/projects/libmwaw/ |
 | **libmypaint** | 1.6.1-2 | MyPaint brush engine library | https://github.com/mypaint/libmypaint |
 | **libmypaint-static** | 1.6.1-2 | Static libraries for libmypaint | https://github.com/mypaint/libmypaint |
 | **libmysofa** | 1.3.5 | Reader for AES SOFA files to get better HRTFs | https://github.com/hoene/libmysofa |
@@ -1298,6 +1320,8 @@
 | **libnss** | 3.126 | Network Security Services (NSS) | https://firefox-source-docs.mozilla.org/security/nss/ |
 | **libntl** | 11.5.1-1 | A Library for doing Number Theory | https://libntl.org |
 | **libntl-static** | 11.5.1-1 | Static libraries for libntl | https://libntl.org |
+| **libnumbertext** | 1.0.11-1 | Number to number name and money text conversion library | https://github.com/Numbertext/libnumbertext |
+| **libnumbertext-static** | 1.0.11-1 | Static libraries for libnumbertext | https://github.com/Numbertext/libnumbertext |
 | **libobjc2** | 2.3-1 | The GNUstep Objective-C runtime | https://www.gnustep.org/ |
 | **libode** | 0.16.6-2 | An open source, high performance library for simulating rigid body dynamics | https://www.ode.org |
 | **libodfgen** | 0.1.8-5 | Library for generating documents in Open Document Format | https://sourceforge.net/p/libwpd/wiki/libodfgen/ |
@@ -1319,6 +1343,8 @@
 | **libopusenc** | 0.2.1-4 | High-level API for encoding .opus files | https://github.com/xiph/libopusenc |
 | **libopusenc-static** | 0.2.1-4 | Static libraries for libopusenc | https://github.com/xiph/libopusenc |
 | **liborc** | 0.4.42 | Library of Optimized Inner Loops Runtime Compiler | https://gstreamer.freedesktop.org/projects/orc.html |
+| **liborcus** | 0.21.0-2 | File import filter library for spreadsheet documents. | https://gitlab.com/orcus/orcus/ |
+| **liborcus-static** | 0.21.0-2 | Static libraries for liborcus | https://gitlab.com/orcus/orcus/ |
 | **libosmium** | 2.23.1-1 | Library for reading from and writing to OSM files in XML and PBF formats | https://osmcode.org/libosmium/ |
 | **libosmpbf** | 1.5.1-4 | osmpbf is a Java/C library to read and write OpenStreetMap PBF files | https://github.com/openstreetmap/OSM-binary/ |
 | **libosmpbf-static** | 1.5.1-4 | Static libraries for libosmpbf | https://github.com/openstreetmap/OSM-binary/ |
@@ -1327,6 +1353,8 @@
 | **libowfat** | 0.33-1 | GPL reimplementation of libdjb | http://www.fefe.de/libowfat/ |
 | **libp11** | 0.4.18 | PKCS#11 wrapper library | https://github.com/OpenSC/libp11 |
 | **libp8-platform** | 2.2.0 | Platform support library used by libCEC and binary add-ons for Kodi | https://github.com/Pulse-Eight/platform |
+| **libpagemaker** | 0.0.4-4 | a library that parses the file format of Aldus/Adobe PageMaker documents | https://wiki.documentfoundation.org/DLP/Libraries/libpagemaker |
+| **libpagemaker-static** | 0.0.4-4 | Static libraries for libpagemaker | https://wiki.documentfoundation.org/DLP/Libraries/libpagemaker |
 | **libpagmo** | 2.19.1-6 | Scientific library for massively parallel optimization | https://esa.github.io/pagmo2/index.html |
 | **libpangomm-1.4** | 2.46.5 | A C++ API for Pango | https://www.gtkmm.org/ |
 | **libpangomm-2.48** | 2.56.2 | A C++ API for Pango | https://www.gtkmm.org/ |
@@ -1365,6 +1393,8 @@
 | **libpsl-static** | 0.23.0 | Static libraries for libpsl | https://github.com/rockdaboot/libpsl |
 | **libpugixml** | 1.16 | Light-weight, simple and fast XML parser for C++ with XPath support | https://pugixml.org/ |
 | **libqrencode** | 4.1.1-2 | Fast and compact library for encoding data in a QR Code symbol | https://fukuchi.org/works/qrencode/ |
+| **libqxp** | 0.0.2-6 | a library that parses the file format of QuarkXPress documents | https://wiki.documentfoundation.org/DLP/Libraries/libqxp |
+| **libqxp-static** | 0.0.2-6 | Static libraries for libqxp | https://wiki.documentfoundation.org/DLP/Libraries/libqxp |
 | **libraptor2** | 2.0.16-10 | RDF Syntax Library | https://librdf.org/raptor/ |
 | **libraptor2-static** | 2.0.16-10 | Static libraries for libraptor2 | https://librdf.org/raptor/ |
 | **libraqm** | 0.10.5 | Raqm is a small library that encapsulates the logic for complex text layout and provides a convenient API | https://github.com/HOST-Oman/libraqm |
@@ -1448,6 +1478,8 @@
 | **libssh** | 0.12.1 | Tiny C SSH library | https://www.libssh.org/ |
 | **libssh2** | 1.11.1-2 | Client-side library implementing the SSH2 protocol | https://www.libssh2.org |
 | **libssh2-static** | 1.11.1-2 | Static libraries for libssh2 | https://www.libssh2.org |
+| **libstaroffice** | 0.0.8-1 | filter for old StarOffice documents(.sdc, .sdw, ...) based on librevenge | https://github.com/fosnola/libstaroffice |
+| **libstaroffice-static** | 0.0.8-1 | Static libraries for libstaroffice | https://github.com/fosnola/libstaroffice |
 | **libstemmer** | 3.0.1 | Snowball compiler and stemming algorithms | https://snowballstem.org/ |
 | **libstemmer-static** | 3.0.1 | Static libraries for libstemmer | https://snowballstem.org/ |
 | **libstrophe** | 0.14.0-2 | libstrophe is a minimal XMPP library written in C | https://strophe.im/libstrophe |
@@ -1622,6 +1654,8 @@
 | **libzip** | 1.11.4-1 | Library for reading, creating, and modifying zip archives | https://libzip.org/ |
 | **libzita-convolver** | 4.0.3-2 | A real-time C++ convolution library | https://kokkinizita.linuxaudio.org/linuxaudio/ |
 | **libzix** | 0.6.2-1 | lightweight C99 portability and data structure library | https://drobilla.net/category/zix |
+| **libzmf** | 0.0.2-5 | a library for import of Zoner drawing and bitmap files | https://wiki.documentfoundation.org/DLP/Libraries/libzmf |
+| **libzmf-static** | 0.0.2-5 | Static libraries for libzmf | https://wiki.documentfoundation.org/DLP/Libraries/libzmf |
 | **libzmq** | 4.3.5-2 | Fast messaging system built on sockets. C and C++ bindings. aka 0MQ, ZMQ. | https://zeromq.org/ |
 | **libzmq-static** | 4.3.5-2 | Static libraries for libzmq | https://zeromq.org/ |
 | **libzopfli** | 1.0.3-5 | New zlib compatible compressor library | https://github.com/google/zopfli |
@@ -1656,6 +1690,7 @@
 | **loksh** | 7.9 | A Linux port of OpenBSD's ksh | https://github.com/dimkr/loksh |
 | **lowdown** | 3.1.1 | Markdown utilities and library (fork of hoedown -> sundown -> libsoldout) | https://kristaps.bsd.lv/lowdown |
 | **lowdown-static** | 3.1.1 | Static libraries for lowdown | https://kristaps.bsd.lv/lowdown |
+| **lpsolve** | 5.5.2.11-1 | a Mixed Integer Linear Programming (MILP) solver | http://lpsolve.sourceforge.net/ |
 | **lr** | 2.0.1-1 | list files, recursively, includes the best features of ls, find, stat and du | https://git.vuxu.org/lr/about/ |
 | **lrzip** | 0.660 | A compression utility that excels at compressing large files | https://github.com/ckolivas/lrzip |
 | **lrzsz** | 0.12.21-rc1-2 | Tools for zmodem/xmodem/ymodem file transfer | https://ohse.de/uwe/software/lrzsz.html |
@@ -2264,6 +2299,7 @@
 | **recutils-static** | 1.9-1 | Static libraries for recutils | https://www.gnu.org/software/recutils/ |
 | **redir** | 3.3-3 | TCP port redirector for UNIX | https://github.com/troglobit/redir |
 | **redis** | 1:8.8.0 | In-memory data structure store used as a database, cache and message broker | https://redis.io/ |
+| **redland** | 1.0.17-1 | Library that provides a high-level interface to RDF data | http://librdf.org/ |
 | **remind** | 1:06.02.08 | Sophisticated calendar and alarm program | https://dianne.skoll.ca/projects/remind/ |
 | **renameutils** | 0.12.0-3 | A set of programs designed to make renaming of files faster and less cumbersome | https://www.nongnu.org/renameutils/ |
 | **reptyr** | 0.10.0-1 | Tool for reparenting a running program to a new terminal | https://github.com/nelhage/reptyr |

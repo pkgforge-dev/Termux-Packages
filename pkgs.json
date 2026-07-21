@@ -1542,6 +1542,12 @@
     "Homepage": "https://github.com/krrishnarraj/clpeak"
   },
   {
+    "Package": "clucene",
+    "Version": "2.3.3.4-8",
+    "Description": "C++ port of the high-performance text search engine Lucene",
+    "Homepage": "http://clucene.sourceforge.net/"
+  },
+  {
     "Package": "clvk",
     "Version": "0.0.20260707.165306",
     "Description": "Experimental implementation of OpenCL on Vulkan",
@@ -5370,6 +5376,18 @@
     "Homepage": "http://liba52.sourceforge.net/"
   },
   {
+    "Package": "libabw",
+    "Version": "0.1.3-5",
+    "Description": "a library that parses the file format of AbiWord documents",
+    "Homepage": "https://wiki.documentfoundation.org/DLP/Libraries/libabw"
+  },
+  {
+    "Package": "libabw-static",
+    "Version": "0.1.3-5",
+    "Description": "Static libraries for libabw",
+    "Homepage": "https://wiki.documentfoundation.org/DLP/Libraries/libabw"
+  },
+  {
     "Package": "libaccounts-glib",
     "Version": "1.27",
     "Description": "Glib-based client library for accessing the online accounts database",
@@ -5832,6 +5850,18 @@
     "Homepage": "https://libcddb.sourceforge.net/"
   },
   {
+    "Package": "libcdr",
+    "Version": "0.1.8-5",
+    "Description": "CorelDraw file format importer library for LibreOffice",
+    "Homepage": "https://wiki.documentfoundation.org/DLP/Libraries/libcdr"
+  },
+  {
+    "Package": "libcdr-static",
+    "Version": "0.1.8-5",
+    "Description": "Static libraries for libcdr",
+    "Homepage": "https://wiki.documentfoundation.org/DLP/Libraries/libcdr"
+  },
+  {
     "Package": "libcec",
     "Version": "7.1.1-1",
     "Description": "Provides support for Pulse-Eights USB-CEC adapter and other CEC capable hardware",
@@ -5878,6 +5908,12 @@
     "Version": "1.3.7-1",
     "Description": "Static libraries for libcln",
     "Homepage": "https://www.ginac.de/CLN/"
+  },
+  {
+    "Package": "libcmis",
+    "Version": "0.6.3-2",
+    "Description": "a C/C++ client library for the CMIS protocol",
+    "Homepage": "https://github.com/tdf/libcmis"
   },
   {
     "Package": "libcoap",
@@ -6222,6 +6258,18 @@
     "Homepage": "https://www.prevanders.net/dwarf.html"
   },
   {
+    "Package": "libe-book",
+    "Version": "0.1.3-5",
+    "Description": "Library for import of reflowable e-book formats.",
+    "Homepage": "https://sourceforge.net/projects/libebook/"
+  },
+  {
+    "Package": "libe-book-static",
+    "Version": "0.1.3-5",
+    "Description": "Static libraries for libe-book",
+    "Homepage": "https://sourceforge.net/projects/libebook/"
+  },
+  {
     "Package": "libebml",
     "Version": "1.4.6",
     "Description": "Extensible Binary Meta Language library",
@@ -6270,10 +6318,34 @@
     "Homepage": "http://enet.bespin.org"
   },
   {
+    "Package": "libeot",
+    "Version": "0.01",
+    "Description": "Library for parsing Embedded OpenType font files",
+    "Homepage": "https://github.com/umanwizard/libeot"
+  },
+  {
+    "Package": "libeot-static",
+    "Version": "0.01",
+    "Description": "Static libraries for libeot",
+    "Homepage": "https://github.com/umanwizard/libeot"
+  },
+  {
     "Package": "libepoxy",
     "Version": "1.5.10-3",
     "Description": "Library handling OpenGL function pointer management",
     "Homepage": "https://github.com/anholt/libepoxy"
+  },
+  {
+    "Package": "libepubgen",
+    "Version": "0.1.1-5",
+    "Description": "an EPUB generator for librevenge",
+    "Homepage": "https://sourceforge.net/projects/libepubgen"
+  },
+  {
+    "Package": "libepubgen-static",
+    "Version": "0.1.1-5",
+    "Description": "Static libraries for libepubgen",
+    "Homepage": "https://sourceforge.net/projects/libepubgen"
   },
   {
     "Package": "libesqlite3",
@@ -6340,6 +6412,18 @@
     "Version": "2.8.2",
     "Description": "Static libraries for libexpat",
     "Homepage": "https://libexpat.github.io/"
+  },
+  {
+    "Package": "libexttextcat",
+    "Version": "3.4.7-1",
+    "Description": "N-Gram-Based Text Categorization library primarily intended for language guessing",
+    "Homepage": "https://wiki.documentfoundation.org/Libexttextcat"
+  },
+  {
+    "Package": "libexttextcat-static",
+    "Version": "3.4.7-1",
+    "Description": "Static libraries for libexttextcat",
+    "Homepage": "https://wiki.documentfoundation.org/Libexttextcat"
   },
   {
     "Package": "libfann",
@@ -6418,6 +6502,18 @@
     "Version": "1.2-2",
     "Description": "A key-value storage engine",
     "Homepage": "https://github.com/couchbase/forestdb"
+  },
+  {
+    "Package": "libfreehand",
+    "Version": "0.1.2-5",
+    "Description": "a library for import of Aldus/Macromedia/Adobe FreeHand documents",
+    "Homepage": "https://wiki.documentfoundation.org/DLP/Libraries/libfreehand"
+  },
+  {
+    "Package": "libfreehand-static",
+    "Version": "0.1.2-5",
+    "Description": "Static libraries for libfreehand",
+    "Homepage": "https://wiki.documentfoundation.org/DLP/Libraries/libfreehand"
   },
   {
     "Package": "libfreexl",
@@ -6940,6 +7036,18 @@
     "Version": "1.5.8.pl02",
     "Description": "Static libraries for libisofs",
     "Homepage": "https://dev.lovelyhq.com/libburnia"
+  },
+  {
+    "Package": "libixion",
+    "Version": "0.20.0-3",
+    "Description": "A general purpose formula parser & interpreter",
+    "Homepage": "https://gitlab.com/ixion/ixion/blob/master/README.md"
+  },
+  {
+    "Package": "libixion-static",
+    "Version": "0.20.0-3",
+    "Description": "Static libraries for libixion",
+    "Homepage": "https://gitlab.com/ixion/ixion/blob/master/README.md"
   },
   {
     "Package": "libjanet",
@@ -7494,10 +7602,34 @@
     "Homepage": "https://github.com/msgpack/msgpack-c/"
   },
   {
+    "Package": "libmspub",
+    "Version": "0.1.4-5",
+    "Description": "Microsoft Publisher file format parser library (latest snapshot)",
+    "Homepage": "https://wiki.documentfoundation.org/DLP/Libraries/libcdr"
+  },
+  {
+    "Package": "libmspub-static",
+    "Version": "0.1.4-5",
+    "Description": "Static libraries for libmspub",
+    "Homepage": "https://wiki.documentfoundation.org/DLP/Libraries/libcdr"
+  },
+  {
     "Package": "libmuparser",
     "Version": "2.3.5-2",
     "Description": "An extensible high performance math expression parser library written in C++",
     "Homepage": "https://beltoforion.de/en/muparser"
+  },
+  {
+    "Package": "libmwaw",
+    "Version": "0.3.22-1",
+    "Description": "Import library for some old mac text documents.",
+    "Homepage": "https://sourceforge.net/projects/libmwaw/"
+  },
+  {
+    "Package": "libmwaw-static",
+    "Version": "0.3.22-1",
+    "Description": "Static libraries for libmwaw",
+    "Homepage": "https://sourceforge.net/projects/libmwaw/"
   },
   {
     "Package": "libmypaint",
@@ -7728,6 +7860,18 @@
     "Homepage": "https://libntl.org"
   },
   {
+    "Package": "libnumbertext",
+    "Version": "1.0.11-1",
+    "Description": "Number to number name and money text conversion library",
+    "Homepage": "https://github.com/Numbertext/libnumbertext"
+  },
+  {
+    "Package": "libnumbertext-static",
+    "Version": "1.0.11-1",
+    "Description": "Static libraries for libnumbertext",
+    "Homepage": "https://github.com/Numbertext/libnumbertext"
+  },
+  {
     "Package": "libobjc2",
     "Version": "2.3-1",
     "Description": "The GNUstep Objective-C runtime",
@@ -7854,6 +7998,18 @@
     "Homepage": "https://gstreamer.freedesktop.org/projects/orc.html"
   },
   {
+    "Package": "liborcus",
+    "Version": "0.21.0-2",
+    "Description": "File import filter library for spreadsheet documents.",
+    "Homepage": "https://gitlab.com/orcus/orcus/"
+  },
+  {
+    "Package": "liborcus-static",
+    "Version": "0.21.0-2",
+    "Description": "Static libraries for liborcus",
+    "Homepage": "https://gitlab.com/orcus/orcus/"
+  },
+  {
     "Package": "libosmium",
     "Version": "2.23.1-1",
     "Description": "Library for reading from and writing to OSM files in XML and PBF formats",
@@ -7900,6 +8056,18 @@
     "Version": "2.2.0",
     "Description": "Platform support library used by libCEC and binary add-ons for Kodi",
     "Homepage": "https://github.com/Pulse-Eight/platform"
+  },
+  {
+    "Package": "libpagemaker",
+    "Version": "0.0.4-4",
+    "Description": "a library that parses the file format of Aldus/Adobe PageMaker documents",
+    "Homepage": "https://wiki.documentfoundation.org/DLP/Libraries/libpagemaker"
+  },
+  {
+    "Package": "libpagemaker-static",
+    "Version": "0.0.4-4",
+    "Description": "Static libraries for libpagemaker",
+    "Homepage": "https://wiki.documentfoundation.org/DLP/Libraries/libpagemaker"
   },
   {
     "Package": "libpagmo",
@@ -8128,6 +8296,18 @@
     "Version": "4.1.1-2",
     "Description": "Fast and compact library for encoding data in a QR Code symbol",
     "Homepage": "https://fukuchi.org/works/qrencode/"
+  },
+  {
+    "Package": "libqxp",
+    "Version": "0.0.2-6",
+    "Description": "a library that parses the file format of QuarkXPress documents",
+    "Homepage": "https://wiki.documentfoundation.org/DLP/Libraries/libqxp"
+  },
+  {
+    "Package": "libqxp-static",
+    "Version": "0.0.2-6",
+    "Description": "Static libraries for libqxp",
+    "Homepage": "https://wiki.documentfoundation.org/DLP/Libraries/libqxp"
   },
   {
     "Package": "libraptor2",
@@ -8626,6 +8806,18 @@
     "Version": "1.11.1-2",
     "Description": "Static libraries for libssh2",
     "Homepage": "https://www.libssh2.org"
+  },
+  {
+    "Package": "libstaroffice",
+    "Version": "0.0.8-1",
+    "Description": "filter for old StarOffice documents(.sdc, .sdw, ...) based on librevenge",
+    "Homepage": "https://github.com/fosnola/libstaroffice"
+  },
+  {
+    "Package": "libstaroffice-static",
+    "Version": "0.0.8-1",
+    "Description": "Static libraries for libstaroffice",
+    "Homepage": "https://github.com/fosnola/libstaroffice"
   },
   {
     "Package": "libstemmer",
@@ -9672,6 +9864,18 @@
     "Homepage": "https://drobilla.net/category/zix"
   },
   {
+    "Package": "libzmf",
+    "Version": "0.0.2-5",
+    "Description": "a library for import of Zoner drawing and bitmap files",
+    "Homepage": "https://wiki.documentfoundation.org/DLP/Libraries/libzmf"
+  },
+  {
+    "Package": "libzmf-static",
+    "Version": "0.0.2-5",
+    "Description": "Static libraries for libzmf",
+    "Homepage": "https://wiki.documentfoundation.org/DLP/Libraries/libzmf"
+  },
+  {
     "Package": "libzmq",
     "Version": "4.3.5-2",
     "Description": "Fast messaging system built on sockets. C and C++ bindings. aka 0MQ, ZMQ.",
@@ -9874,6 +10078,12 @@
     "Version": "3.1.1",
     "Description": "Static libraries for lowdown",
     "Homepage": "https://kristaps.bsd.lv/lowdown"
+  },
+  {
+    "Package": "lpsolve",
+    "Version": "5.5.2.11-1",
+    "Description": "a Mixed Integer Linear Programming (MILP) solver",
+    "Homepage": "http://lpsolve.sourceforge.net/"
   },
   {
     "Package": "lr",
@@ -13522,6 +13732,12 @@
     "Version": "1:8.8.0",
     "Description": "In-memory data structure store used as a database, cache and message broker",
     "Homepage": "https://redis.io/"
+  },
+  {
+    "Package": "redland",
+    "Version": "1.0.17-1",
+    "Description": "Library that provides a high-level interface to RDF data",
+    "Homepage": "http://librdf.org/"
   },
   {
     "Package": "remind",
