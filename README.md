@@ -126,7 +126,7 @@
 | **aview** | 1.3.0rc1-6 | High quality ascii-art image browser and animation player | https://aa-project.sourceforge.net/aview/ |
 | **avra** | 1.4.2-1 | Assember for the Atmel AVR microcontroller family | https://github.com/Ro5bert/avra |
 | **await** | 2.7.0 | Runs list of commands in parallel and waits for their termination | https://github.com/slavaGanzin/await |
-| **awscli** | 2.36.2 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
+| **awscli** | 2.36.4 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
 | **axel** | 2.17.14-1 | light command line download accelerator | https://github.com/axel-download-accelerator/axel |
 | **b3sum** | 1.8.5 | A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum | https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum |
 | **babl** | 0.1.126 | Dynamic pixel format translation library | https://gegl.org/babl/ |
@@ -235,6 +235,7 @@
 | **cec-client** | 7.1.1-1 | Client applications for libCEC | https://libcec.pulse-eight.com/ |
 | **cfengine** | 1:3.27.1 | CFEngine is a configuration management technology | https://cfengine.com/ |
 | **cfengine-static** | 1:3.27.1 | Static libraries for cfengine | https://cfengine.com/ |
+| **cfitsio** | 4.6.4-1 | a library of C and Fortran subroutines for reading and writing data files in FITS (Flexible Image Transport System) data format | https://heasarc.gsfc.nasa.gov/fitsio/ |
 | **cfm** | 1.2.0-3 | A basic file manager that runs inside a terminal, designed for Linux. It's fully responsive and incredibly fast. | https://github.com/0l1v3rr/cli-file-manager |
 | **cgal** | 6.2-1 | Computational Geometry Algorithms Library | https://www.cgal.org/ |
 | **cgdb** | 0.8.0-1 | A lightweight curses (terminal-based) interface to the GNU Debugger (GDB) | https://cgdb.github.io/ |
@@ -579,7 +580,7 @@
 | **gbt** | 2.0.0-6 | Highly configurable prompt builder for Bash and ZSH written in Go | https://github.com/jtyr/gbt |
 | **gcab** | 1.6-1 | GObject library to create cabinet files | https://gitlab.gnome.org/GNOME/gcab |
 | **gcal** | 4.1-4 | Program for calculating and printing calendars | https://www.gnu.org/software/gcal/ |
-| **gdal** | 3.12.4-2 | A translator library for raster and vector geospatial data formats | https://gdal.org |
+| **gdal** | 3.12.4-3 | A translator library for raster and vector geospatial data formats | https://gdal.org |
 | **gdb** | 16.3-4 | The standard GNU Debugger that runs on many Unix-like systems and works for many programming languages | https://www.gnu.org/software/gdb/ |
 | **gdbm** | 1.26-1 | Library of database functions that use extensible hashing | https://www.gnu.org.ua/software/gdbm/ |
 | **gdbm-static** | 1.26-1 | Static libraries for gdbm | https://www.gnu.org.ua/software/gdbm/ |
@@ -1526,7 +1527,7 @@
 | **libvbisam-static** | 2.0-3 | Static libraries for libvbisam | https://sourceforge.net/projects/vbisam/ |
 | **libvidstab** | 1.1.1-3 | video stabilization library | https://github.com/georgmartius/vid.stab |
 | **libvigra** | 1.12.4 | Computer vision library | https://ukoethe.github.io/vigra/ |
-| **libvips** | 8.18.4-1 | A fast image processing library with low memory needs | https://libvips.github.io/libvips/ |
+| **libvips** | 8.18.4-2 | A fast image processing library with low memory needs | https://libvips.github.io/libvips/ |
 | **libvisio** | 0.1.10-1 | Library providing ability to interpret and import visio diagrams | https://wiki.documentfoundation.org/DLP/Libraries/libvisio |
 | **libvisio-static** | 0.1.10-1 | Static libraries for libvisio | https://wiki.documentfoundation.org/DLP/Libraries/libvisio |
 | **libvmaf** | 3.2.0-1 | A perceptual video quality assessment algorithm developed by Netflix | https://github.com/Netflix/vmaf |
@@ -1689,7 +1690,7 @@
 | **luvi** | 1:2.15.0-2 | A project in-between luv and luvit | https://luvit.io |
 | **luvit** | 2.18.1-1 | Asynchronous I/O for Lua | https://luvit.io |
 | **lux** | 0.24.1-2 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
-| **lux-cli** | 0.38.1 | A package manager for Lua, similar to luarocks | https://lux.lumen-labs.org |
+| **lux-cli** | 0.39.0 | A package manager for Lua, similar to luarocks | https://lux.lumen-labs.org |
 | **lv2** | 1.18.10-7 | A plugin standard for audio systems | https://lv2plug.in/ |
 | **lychee** | 0.24.2 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
 | **lynx** | 2.9.2-1 | The text web browser | http://lynx.browser.org/ |
@@ -1783,7 +1784,7 @@
 | **miniz** | 3.1.2 | Single C source file zlib-replacement library | https://github.com/richgel999/miniz |
 | **minizinc** | 2.9.7 | A medium-level constraint modelling language | https://github.com/MiniZinc/libminizinc |
 | **minizinc-static** | 2.9.7 | Static libraries for minizinc | https://github.com/MiniZinc/libminizinc |
-| **mise** | 2026.7.7 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
+| **mise** | 2026.7.11 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
 | **mkbootimg** | 2022.11.09-1 | Maintained fork with android's mkbootimg and unpackbootimg | https://github.com/osm0sis/mkbootimg |
 | **mkp224o** | 1.7.0-1 | Generate vanity ed25519 (hidden service version 3) onion addresses | https://github.com/cathugger/mkp224o |
 | **mksh** | 59c-3 | The MirBSD Korn Shell - an enhanced version of the public domain ksh | http://www.mirbsd.org/mksh.htm |
@@ -1997,7 +1998,7 @@
 | **osm2pgsql** | 2.3.1-1 | osm2pgsql imports OpenStreetMap (OSM) data into a PostgreSQL/PostGIS database | https://osm2pgsql.org/ |
 | **osmctools** | 0.9-3 | Simple tools for OpenStreetMap processing | https://gitlab.com/osm-c-tools/osmctools |
 | **osmium-tool** | 1.19.0-1 | A multipurpose command line tool based on the Osmium Library | https://osmcode.org/osmium-tool/ |
-| **osslsigncode** | 2.13 | OpenSSL based Authenticode signing for PE/MSI/Java CAB files | https://github.com/mtrojnar/osslsigncode |
+| **osslsigncode** | 2.14 | OpenSSL based Authenticode signing for PE/MSI/Java CAB files | https://github.com/mtrojnar/osslsigncode |
 | **ossp-uuid** | 1.6.2-4 | ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122. | http://www.ossp.org/pkg/lib/uuid/ |
 | **ossp-uuid-static** | 1.6.2-4 | Static libraries for ossp-uuid | http://www.ossp.org/pkg/lib/uuid/ |
 | **ovmf** | 20231122-16.fc40-0 | Open Virtual Machine Firmware | https://www.tianocore.org/ |
@@ -2270,7 +2271,7 @@
 | **restic** | 0.19.1 | Fast, secure, efficient backup program | https://restic.net/ |
 | **restic-server** | 0.14.0-1 | Restic's REST backend API server | https://restic.net/ |
 | **restish** | 2.3.0 | A CLI for interacting with REST-ish HTTP APIs | https://github.com/rest-sh/restish |
-| **rgbds** | 1.0.1 | Rednex Game Boy Development System - An assembly toolchain for the Nintendo Game Boy & Game Boy Color | https://rgbds.gbdev.io |
+| **rgbds** | 1.0.2+hotfix | Rednex Game Boy Development System - An assembly toolchain for the Nintendo Game Boy & Game Boy Color | https://rgbds.gbdev.io |
 | **rhash** | 1.4.6-1 | Console utility for calculation and verification of magnet links and a wide range of hash sums | https://github.com/rhash/RHash |
 | **rhash-static** | 1.4.6-1 | Static libraries for rhash | https://github.com/rhash/RHash |
 | **rig** | 1.11-2 | A program that generates fake identities | https://rig.sourceforge.net/ |
@@ -2682,7 +2683,7 @@
 | **util-linux-static** | 2.42.1-4 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-2 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.42.1-4 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **uv** | 0.11.29 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
+| **uv** | 0.11.30 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.31-2 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.51.2 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.19 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
@@ -2748,6 +2749,8 @@
 | **wavpack** | 5.9.0 | WavPack command-line programs | https://www.wavpack.com/ |
 | **waypipe** | 0.11.0 | A proxy for Wayland clients | https://gitlab.freedesktop.org/mstoeckl/waypipe |
 | **wcalc** | 2.5-6 | Capable calculator | https://w-calc.sourceforge.net |
+| **wcslib** | 8.9 | a C library that implements the 'World Coordinate System' (WCS) standard in FITS | https://www.atnf.csiro.au/people/Mark.Calabretta/WCS/ |
+| **wcslib-static** | 8.9 | Static libraries for wcslib | https://www.atnf.csiro.au/people/Mark.Calabretta/WCS/ |
 | **wdiff** | 1.2.2-2 | Display word differences between text files | https://www.gnu.org/software/wdiff/ |
 | **webp-pixbuf-loader** | 0.2.7-1 | WebM GDK Pixbuf Loader library | https://github.com/aruiz/webp-pixbuf-loader |
 | **websocat** | 1.14.1 | Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions | https://github.com/vi/websocat |
