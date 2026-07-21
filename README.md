@@ -46,7 +46,7 @@
 | **alsa-utils-static** | 1.2.16 | Static libraries for alsa-utils | https://www.alsa-project.org |
 | **amber** | 0.6.1 | A code search / replace tool | https://github.com/dalance/amber |
 | **amfora** | 1.11.0-1 | Aims to be the best looking Gemini client | https://github.com/makew0rld/amfora |
-| **android-tools** | 35.0.2-8 | Android platform tools | https://developer.android.com/ |
+| **android-tools** | 36.0.1 | Android platform tools | https://developer.android.com/ |
 | **anewer** | 0.1.6-1 | Append lines from stdin to a file if these lines do not present in that file (aHash-based uniq) | https://github.com/ysf/anewer |
 | **angband** | 4.2.6 | Dungeon exploration adventure game | https://rephial.org/ |
 | **angle-android** | 2.1.24923-f09a19ce-2 | A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android | https://chromium.googlesource.com/angle/angle |
@@ -153,7 +153,7 @@
 | **binutils** | 2.46.0-4 | A GNU collection of binary utilities | https://www.gnu.org/software/binutils/ |
 | **binutils-cross** | 2.46.0-4 | GNU Binutils for cross build on the host (NOT for Termux) | https://www.gnu.org/software/binutils/ |
 | **binwalk** | 3.1.0 | An Binwalk firmware analysis tool. | https://github.com/ReFirmLabs/binwalk |
-| **biome2** | 2.5.4 | A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP | https://biomejs.dev/ |
+| **biome2** | 2.5.5 | A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP | https://biomejs.dev/ |
 | **bison** | 3.8.2-4 | General-purpose parser generator | https://www.gnu.org/software/bison/ |
 | **bison-static** | 3.8.2-4 | Static libraries for bison | https://www.gnu.org/software/bison/ |
 | **bitcoin** | 31.1-1 | Bitcoin Core | https://bitcoincore.org/ |
@@ -1262,8 +1262,8 @@
 | **libmuparser** | 2.3.5-2 | An extensible high performance math expression parser library written in C++ | https://beltoforion.de/en/muparser |
 | **libmypaint** | 1.6.1-2 | MyPaint brush engine library | https://github.com/mypaint/libmypaint |
 | **libmypaint-static** | 1.6.1-2 | Static libraries for libmypaint | https://github.com/mypaint/libmypaint |
-| **libmysofa** | 1.3.4-1 | Reader for AES SOFA files to get better HRTFs | https://github.com/hoene/libmysofa |
-| **libmysofa-static** | 1.3.4-1 | Static libraries for libmysofa | https://github.com/hoene/libmysofa |
+| **libmysofa** | 1.3.5 | Reader for AES SOFA files to get better HRTFs | https://github.com/hoene/libmysofa |
+| **libmysofa-static** | 1.3.5 | Static libraries for libmysofa | https://github.com/hoene/libmysofa |
 | **libnats-c** | 3.13.0 | A C client for the NATS messaging system | https://nats-io.github.io/nats.c/ |
 | **libnats-c-static** | 3.13.0 | Static libraries for libnats-c | https://nats-io.github.io/nats.c/ |
 | **libneon** | 0.37.1 | An HTTP/1.1 and WebDAV client library, with a C interface | https://notroj.github.io/neon/ |
@@ -1681,9 +1681,9 @@
 | **lua54-static** | 5.4.8-7 | Static libraries for lua54 | https://www.lua.org/ |
 | **lua55** | 5.5.0-3 | Shared library for the Lua interpreter (v5.5.x) | https://www.lua.org/ |
 | **lua55-static** | 5.5.0-3 | Static libraries for lua55 | https://www.lua.org/ |
-| **luajit** | 1:2.1.1784535789+g5f627e4 | Just-In-Time Compiler for Lua | https://luajit.org/ |
+| **luajit** | 1:2.1.1784580905+g2460b3f | Just-In-Time Compiler for Lua | https://luajit.org/ |
 | **luajit-lgi** | 0.9.2+p20251219-3 | Dynamic Lua binding to GObject libraries using GObject-Introspection | https://github.com/lgi-devs/lgi |
-| **luajit-static** | 1:2.1.1784535789+g5f627e4 | Static libraries for luajit | https://luajit.org/ |
+| **luajit-static** | 1:2.1.1784580905+g2460b3f | Static libraries for luajit | https://luajit.org/ |
 | **luarocks** | 3.13.0-1 | Deployment and management system for Lua modules | https://luarocks.org/ |
 | **lunasvg** | 3.5.0-1 | SVG rendering and manipulation library in C++ | https://github.com/sammycage/lunasvg |
 | **luv** | 1.52.1-0-0 | Bare libuv bindings for lua | https://github.com/luvit/luv |
@@ -2235,7 +2235,7 @@
 | **rage** | 0.11.2 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4-1 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4-1 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
-| **railway-cli** | 5.27.1 | This is the command line interface for Railway | https://railway.app |
+| **railway-cli** | 5.27.2 | This is the command line interface for Railway | https://railway.app |
 | **range-v3** | 0.12.0 | Range library for C++14/17/20, basis for C++20's std::ranges | https://github.com/ericniebler/range-v3 |
 | **ranger** | 1.9.4-2 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-7 | Fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |
