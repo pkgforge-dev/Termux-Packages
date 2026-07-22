@@ -2557,7 +2557,7 @@
   },
   {
     "Package": "duckdb",
-    "Version": "1.5.4",
+    "Version": "1.5.5",
     "Description": "DuckDB Command Line Interface (CLI) shell",
     "Homepage": "https://duckdb.org/"
   },
@@ -6169,13 +6169,13 @@
   },
   {
     "Package": "libduckdb",
-    "Version": "1.5.4",
+    "Version": "1.5.5",
     "Description": "An in-process SQL OLAP database management system",
     "Homepage": "https://duckdb.org/"
   },
   {
     "Package": "libduckdb-static",
-    "Version": "1.5.4",
+    "Version": "1.5.5",
     "Description": "Static libraries for libduckdb",
     "Homepage": "https://duckdb.org/"
   },
@@ -6415,13 +6415,13 @@
   },
   {
     "Package": "libexttextcat",
-    "Version": "3.4.7-1",
+    "Version": "3.4.8",
     "Description": "N-Gram-Based Text Categorization library primarily intended for language guessing",
     "Homepage": "https://wiki.documentfoundation.org/Libexttextcat"
   },
   {
     "Package": "libexttextcat-static",
-    "Version": "3.4.7-1",
+    "Version": "3.4.8",
     "Description": "Static libraries for libexttextcat",
     "Homepage": "https://wiki.documentfoundation.org/Libexttextcat"
   },
@@ -8299,13 +8299,13 @@
   },
   {
     "Package": "libqxp",
-    "Version": "0.0.2-6",
+    "Version": "0.0.3",
     "Description": "a library that parses the file format of QuarkXPress documents",
     "Homepage": "https://wiki.documentfoundation.org/DLP/Libraries/libqxp"
   },
   {
     "Package": "libqxp-static",
-    "Version": "0.0.2-6",
+    "Version": "0.0.3",
     "Description": "Static libraries for libqxp",
     "Homepage": "https://wiki.documentfoundation.org/DLP/Libraries/libqxp"
   },
@@ -9163,13 +9163,13 @@
   },
   {
     "Package": "libunbound",
-    "Version": "1.25.1-1",
+    "Version": "1.25.2",
     "Description": "A validating, recursive, caching DNS resolver",
     "Homepage": "https://unbound.net/"
   },
   {
     "Package": "libunbound-static",
-    "Version": "1.25.1-1",
+    "Version": "1.25.2",
     "Description": "Static libraries for libunbound",
     "Homepage": "https://unbound.net/"
   },
@@ -11947,19 +11947,19 @@
   },
   {
     "Package": "openjdk-25",
-    "Version": "25.0.3",
+    "Version": "25.0.4",
     "Description": "Java development kit and runtime",
     "Homepage": "https://openjdk.java.net"
   },
   {
     "Package": "openjdk-25-source",
-    "Version": "25.0.3",
+    "Version": "25.0.4",
     "Description": "Source files for openjdk-25",
     "Homepage": "https://openjdk.java.net"
   },
   {
     "Package": "openjdk-25-x",
-    "Version": "25.0.3",
+    "Version": "25.0.4",
     "Description": "Portion of openjdk-25 requiring X11 functionality",
     "Homepage": "https://openjdk.java.net"
   },
@@ -13099,7 +13099,7 @@
   },
   {
     "Package": "python-greenlet",
-    "Version": "3.5.3-1",
+    "Version": "3.5.4",
     "Description": "Lightweight coroutines for in-process concurrent programming",
     "Homepage": "https://github.com/python-greenlet/greenlet"
   },
@@ -13315,7 +13315,7 @@
   },
   {
     "Package": "pyunbound",
-    "Version": "1.25.1-1",
+    "Version": "1.25.2",
     "Description": "Python bindings for Unbound",
     "Homepage": "https://unbound.net/"
   },
@@ -16069,7 +16069,7 @@
   },
   {
     "Package": "unbound",
-    "Version": "1.25.1-1",
+    "Version": "1.25.2",
     "Description": "Unbound command-line tools",
     "Homepage": "https://unbound.net/"
   },

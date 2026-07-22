@@ -424,7 +424,7 @@
  dte  1.11.1-2  A small, configurable console text editor  https://craigbarnes.gitlab.io/dte/ 
  dua  2.38.1  View disk space usage and delete unwanted data, fast  https://github.com/Byron/dua-cli 
  duc  1.4.6  High-performance disk usage analyzer  http://duc.zevv.nl/ 
- duckdb  1.5.4  DuckDB Command Line Interface (CLI) shell  https://duckdb.org/ 
+ duckdb  1.5.5  DuckDB Command Line Interface (CLI) shell  https://duckdb.org/ 
  duf  0.9.1  Disk usage/free utility  https://github.com/muesli/duf 
  dufs  0.46.0  A file server that supports static serving, uploading, searching, accessing control, webdav...  https://github.com/sigoden/dufs 
  duktape  2.7.0-2  Simple REPL for Duktape  https://www.duktape.org/ 
@@ -1026,8 +1026,8 @@
  libdmtx  0.7.8-1  A software library that enables programs to read and write Data Matrix barcodes  https://github.com/dmtx/libdmtx 
  libdmtx-static  0.7.8-1  Static libraries for libdmtx  https://github.com/dmtx/libdmtx 
  libdrm  2.4.134  Userspace interface to kernel DRM services  https://dri.freedesktop.org/wiki/ 
- libduckdb  1.5.4  An in-process SQL OLAP database management system  https://duckdb.org/ 
- libduckdb-static  1.5.4  Static libraries for libduckdb  https://duckdb.org/ 
+ libduckdb  1.5.5  An in-process SQL OLAP database management system  https://duckdb.org/ 
+ libduckdb-static  1.5.5  Static libraries for libduckdb  https://duckdb.org/ 
  libduktape  2.7.0-2  An embeddable Javascript engine with a focus on portability and compact footprint  https://www.duktape.org/ 
  libdvbcsa  1.1.0-3  An implementation of the DVB Common Scrambling Algorithm - DVB/CSA - with encryption and decryption capabilities  https://www.videolan.org/developers/libdvbcsa.html 
  libdvbcsa-static  1.1.0-3  Static libraries for libdvbcsa  https://www.videolan.org/developers/libdvbcsa.html 
@@ -1067,8 +1067,8 @@
  libexif-static  0.6.26  Static libraries for libexif  https://libexif.github.io/ 
  libexpat  2.8.2  XML parsing C library  https://libexpat.github.io/ 
  libexpat-static  2.8.2  Static libraries for libexpat  https://libexpat.github.io/ 
- libexttextcat  3.4.7-1  N-Gram-Based Text Categorization library primarily intended for language guessing  https://wiki.documentfoundation.org/Libexttextcat 
- libexttextcat-static  3.4.7-1  Static libraries for libexttextcat  https://wiki.documentfoundation.org/Libexttextcat 
+ libexttextcat  3.4.8  N-Gram-Based Text Categorization library primarily intended for language guessing  https://wiki.documentfoundation.org/Libexttextcat 
+ libexttextcat-static  3.4.8  Static libraries for libexttextcat  https://wiki.documentfoundation.org/Libexttextcat 
  libfann  2.2.0-2  Fast artificial neural network library  http://leenissen.dk/fann/wp 
  libfcl  0.7.0-4  Flexible collision library  https://github.com/flexible-collision-library/fcl 
  libfdisk  2.42.1-4  Library for manipulating disk partition tables  https://en.wikipedia.org/wiki/Util-linux 
@@ -1381,8 +1381,8 @@
  libpsl-static  0.23.0  Static libraries for libpsl  https://github.com/rockdaboot/libpsl 
  libpugixml  1.16  Light-weight, simple and fast XML parser for C++ with XPath support  https://pugixml.org/ 
  libqrencode  4.1.1-2  Fast and compact library for encoding data in a QR Code symbol  https://fukuchi.org/works/qrencode/ 
- libqxp  0.0.2-6  a library that parses the file format of QuarkXPress documents  https://wiki.documentfoundation.org/DLP/Libraries/libqxp 
- libqxp-static  0.0.2-6  Static libraries for libqxp  https://wiki.documentfoundation.org/DLP/Libraries/libqxp 
+ libqxp  0.0.3  a library that parses the file format of QuarkXPress documents  https://wiki.documentfoundation.org/DLP/Libraries/libqxp 
+ libqxp-static  0.0.3  Static libraries for libqxp  https://wiki.documentfoundation.org/DLP/Libraries/libqxp 
  libraptor2  2.0.16-10  RDF Syntax Library  https://librdf.org/raptor/ 
  libraptor2-static  2.0.16-10  Static libraries for libraptor2  https://librdf.org/raptor/ 
  libraqm  0.10.5  Raqm is a small library that encapsulates the logic for complex text layout and provides a convenient API  https://github.com/HOST-Oman/libraqm 
@@ -1525,8 +1525,8 @@
  libucontext-static  1.5  Static libraries for libucontext  https://github.com/kaniini/libucontext 
  libudfread  1.2.0  A library for reading UDF  https://code.videolan.org/videolan/libudfread/ 
  libudfread-static  1.2.0  Static libraries for libudfread  https://code.videolan.org/videolan/libudfread/ 
- libunbound  1.25.1-1  A validating, recursive, caching DNS resolver  https://unbound.net/ 
- libunbound-static  1.25.1-1  Static libraries for libunbound  https://unbound.net/ 
+ libunbound  1.25.2  A validating, recursive, caching DNS resolver  https://unbound.net/ 
+ libunbound-static  1.25.2  Static libraries for libunbound  https://unbound.net/ 
  libunibilium  2.1.2-2  Terminfo parsing library  https://github.com/neovim/unibilium 
  libunistring  1.4.2  Library providing functions for manipulating Unicode strings  https://www.gnu.org/software/libunistring/ 
  libunistring-static  1.4.2  Static libraries for libunistring  https://www.gnu.org/software/libunistring/ 
@@ -1989,9 +1989,9 @@
  openjdk-21  21.0.12  Java development kit and runtime  https://openjdk.java.net 
  openjdk-21-source  21.0.12  Source files for openjdk-21  https://openjdk.java.net 
  openjdk-21-x  21.0.12  Portion of openjdk-21 requiring X11 functionality  https://openjdk.java.net 
- openjdk-25  25.0.3  Java development kit and runtime  https://openjdk.java.net 
- openjdk-25-source  25.0.3  Source files for openjdk-25  https://openjdk.java.net 
- openjdk-25-x  25.0.3  Portion of openjdk-25 requiring X11 functionality  https://openjdk.java.net 
+ openjdk-25  25.0.4  Java development kit and runtime  https://openjdk.java.net 
+ openjdk-25-source  25.0.4  Source files for openjdk-25  https://openjdk.java.net 
+ openjdk-25-x  25.0.4  Portion of openjdk-25 requiring X11 functionality  https://openjdk.java.net 
  openjpeg  2.5.4  JPEG 2000 image compression library  https://www.openjpeg.org/ 
  openjpeg-tools  2.5.4  Command-line tools using the JPEG 2000 library  https://www.openjpeg.org/ 
  openldap  2.6.13  OpenLDAP server  https://openldap.org 
@@ -2181,7 +2181,7 @@
  python-contourpy  1.3.3-5  Python library for calculating contours in 2D quadrilateral grids  https://contourpy.readthedocs.io/ 
  python-cryptography  49.0.0  Provides cryptographic recipes and primitives to Python developers  https://github.com/pyca/cryptography 
  python-ensurepip-wheels  3.14.6-1  Wheels for Python ensurepip  https://python.org/ 
- python-greenlet  3.5.3-1  Lightweight coroutines for in-process concurrent programming  https://github.com/python-greenlet/greenlet 
+ python-greenlet  3.5.4  Lightweight coroutines for in-process concurrent programming  https://github.com/python-greenlet/greenlet 
  python-grpcio  1.82.1  High performance, open source, general RPC framework that puts mobile and HTTP/2 first  https://grpc.io/ 
  python-lameenc  1.8.4-1  Python bindings around the LAME encoder  https://github.com/chrisstaite/lameenc 
  python-libsass  0.23.0-3  A straightforward binding of libsass for Python  https://github.com/sass/libsass-python 
@@ -2217,7 +2217,7 @@
  python-yt-dlp  2026.07.04  A youtube-dl fork with additional features and fixes  https://github.com/yt-dlp/yt-dlp 
  python2  2.7.18-15  Python 2 programming language intended to enable clear programs  http://python.org/ 
  python2-static  2.7.18-15  Static libraries for python2  http://python.org/ 
- pyunbound  1.25.1-1  Python bindings for Unbound  https://unbound.net/ 
+ pyunbound  1.25.2  Python bindings for Unbound  https://unbound.net/ 
  pzstd  1.5.7-1  A Pigz-like tool for Zstandard  https://github.com/facebook/zstd 
  q-dns-client  0.19.12  A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH  https://github.com/natesales/q 
  qalc  5.12.0  Powerful and easy to use command line calculator  https://qalculate.github.io/ 
@@ -2676,7 +2676,7 @@
  uftrace  0.19-3  Function (graph) tracer for user-space  https://uftrace.github.io/slide 
  ugrep  7.8.2  A faster, user-friendly and compatible grep replacement  https://github.com/Genivia/ugrep 
  unar  1.10.8-3  Command line tools for archive and file unarchiving and extraction  https://theunarchiver.com/command-line 
- unbound  1.25.1-1  Unbound command-line tools  https://unbound.net/ 
+ unbound  1.25.2  Unbound command-line tools  https://unbound.net/ 
  unicode-cldr  48.1  Unicode Common Locale Data Repository  http://cldr.unicode.org/ 
  unicode-data  18.0.0  The Unicode Character Database (UCD)  https://unicode.org/ucd/ 
  unicode-emoji  17.0.0  Unicode Emoji Data Files  https://unicode.org/emoji/ 
