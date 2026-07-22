@@ -7951,15 +7951,15 @@
   Description: Portion of openjdk-17 requiring X11 functionality
   Homepage: https://openjdk.java.net
 - Package: openjdk-21
-  Version: 21.0.11
+  Version: 21.0.12
   Description: Java development kit and runtime
   Homepage: https://openjdk.java.net
 - Package: openjdk-21-source
-  Version: 21.0.11
+  Version: 21.0.12
   Description: Source files for openjdk-21
   Homepage: https://openjdk.java.net
 - Package: openjdk-21-x
-  Version: 21.0.11
+  Version: 21.0.12
   Description: Portion of openjdk-21 requiring X11 functionality
   Homepage: https://openjdk.java.net
 - Package: openjdk-25
@@ -11499,7 +11499,7 @@
   Description: An open source sharing solution built on OpenZiti.
   Homepage: https://zrok.io/
 - Package: zsh
-  Version: 5.9.1-2
+  Version: 5.9.2
   Description: Shell with lots of features
   Homepage: https://www.zsh.org
 - Package: zsh-completions
