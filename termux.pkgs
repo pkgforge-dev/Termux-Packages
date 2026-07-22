@@ -114,7 +114,7 @@
 | **aview** | 1.3.0rc1-6 | High quality ascii-art image browser and animation player | https://aa-project.sourceforge.net/aview/ |
 | **avra** | 1.4.2-1 | Assember for the Atmel AVR microcontroller family | https://github.com/Ro5bert/avra |
 | **await** | 2.7.0 | Runs list of commands in parallel and waits for their termination | https://github.com/slavaGanzin/await |
-| **awscli** | 2.36.4 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
+| **awscli** | 2.36.5 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
 | **axel** | 2.17.14-1 | light command line download accelerator | https://github.com/axel-download-accelerator/axel |
 | **b3sum** | 1.8.5 | A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum | https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum |
 | **babl** | 0.1.126 | Dynamic pixel format translation library | https://gegl.org/babl/ |
@@ -294,7 +294,7 @@
 | **cpufetch** | 1.07-1 | Simple yet fancy CPU architecture fetching tool | https://github.com/Dr-Noob/cpufetch |
 | **cpulimit** | 0.2-2 | CPU usage limiter | https://github.com/opsengine/cpulimit |
 | **crawl** | 0.34.1 | Roguelike adventure through dungeons filled with dangerous monsters | https://crawl.develz.org/ |
-| **croc** | 1:10.4.14 | Easily and securely send things from one computer to another | https://github.com/schollz/croc |
+| **croc** | 1:10.5.0 | Easily and securely send things from one computer to another | https://github.com/schollz/croc |
 | **cronie** | 1.7.2-4 | Daemon that runs specified programs at scheduled times and related tools | https://github.com/cronie-crond/cronie/ |
 | **crowbook** | 0.17.0-1 | Allows you to write a book in Markdown without worrying about formatting or typography | https://github.com/crowdagger/crowbook |
 | **crunch** | 3.6-5 | Highly customizable wordlist generator | https://sourceforge.net/projects/crunch-wordlist/ |
@@ -524,7 +524,7 @@
 | **flex-static** | 2.6.4-5 | Static libraries for flex | https://github.com/westes/flex |
 | **flint** | 3.6.0 | C library for doing number theory | http://www.flintlib.org |
 | **fluidsynth** | 2.5.6 | Software synthesizer based on the SoundFont 2 specifications | https://github.com/FluidSynth/fluidsynth |
-| **flyctl** | 0.4.72 | Command line tools for fly.io services | https://fly.io |
+| **flyctl** | 0.4.73 | Command line tools for fly.io services | https://fly.io |
 | **fm** | 1.2.0 | A terminal based file manager | https://github.com/knipferrc/fm |
 | **fmt** | 1:11.2.0 | Open-source formatting library for C++ | https://fmt.dev/latest/index.html |
 | **fontconfig** | 2.18.2 | Library for configuring and customizing font access | https://www.freedesktop.org/wiki/Software/fontconfig/ |
@@ -850,7 +850,7 @@
 | **k9s** | 0.51.0 | Kubernetes CLI To Manage Your Clusters In Style! | https://k9scli.io |
 | **kainjow-mustache** | 4.1 | Mustache implementation for modern C++ | https://github.com/kainjow/Mustache |
 | **kakoune** | 2026.05.21-1 | Code editor heavily inspired by Vim | https://kakoune.org/ |
-| **kakoune-lsp** | 21.0.1 | Language Server Protocol Client for the Kakoune editor | https://github.com/kakoune-lsp/kakoune-lsp |
+| **kakoune-lsp** | 21.0.2 | Language Server Protocol Client for the Kakoune editor | https://github.com/kakoune-lsp/kakoune-lsp |
 | **kbd** | 2.10.0 | KBD's showkey utility for examining keycodes | https://kbd-project.org/ |
 | **kew** | 4.2.7 | Music for the Shell | https://kewplayer.com |
 | **keybase** | 6.6.3 | Key directory that maps social media identities to encryption keys | https://keybase.io |
@@ -876,7 +876,7 @@
 | **ldns** | 1.8.4-1 | Library for simplifying DNS programming and supporting recent and experimental RFCs | https://www.nlnetlabs.nl/projects/ldns/ |
 | **ldns-static** | 1.8.4-1 | Static libraries for ldns | https://www.nlnetlabs.nl/projects/ldns/ |
 | **ledger** | 3.4.1-4 | Powerful, double-entry accounting system | https://www.ledger-cli.org |
-| **lego** | 5.3.0 | Let's Encrypt/ACME client and library written in Go | https://github.com/go-acme/lego |
+| **lego** | 5.3.1 | Let's Encrypt/ACME client and library written in Go | https://github.com/go-acme/lego |
 | **leptonica** | 1.87.0 | Library for image processing and image analysis | http://www.leptonica.com/ |
 | **leptonica-static** | 1.87.0 | Static libraries for leptonica | http://www.leptonica.com/ |
 | **less** | 704 | Terminal pager program used to view the contents of a text file one screen at a time | https://www.greenwoodsoftware.com/less/ |
@@ -1339,7 +1339,7 @@
 | **libotr** | 4.1.1-3 | Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing: Encryption, Authentication, Deniability, Perfect forward secrecy | https://otr.cypherpunks.ca |
 | **libotr-static** | 4.1.1-3 | Static libraries for libotr | https://otr.cypherpunks.ca |
 | **libowfat** | 0.33-1 | GPL reimplementation of libdjb | http://www.fefe.de/libowfat/ |
-| **libp11** | 0.4.18 | PKCS#11 wrapper library | https://github.com/OpenSC/libp11 |
+| **libp11** | 0.4.19 | PKCS#11 wrapper library | https://github.com/OpenSC/libp11 |
 | **libp8-platform** | 2.2.0 | Platform support library used by libCEC and binary add-ons for Kodi | https://github.com/Pulse-Eight/platform |
 | **libpagemaker** | 0.0.4-4 | a library that parses the file format of Aldus/Adobe PageMaker documents | https://wiki.documentfoundation.org/DLP/Libraries/libpagemaker |
 | **libpagemaker-static** | 0.0.4-4 | Static libraries for libpagemaker | https://wiki.documentfoundation.org/DLP/Libraries/libpagemaker |
@@ -1713,7 +1713,7 @@
 | **luvi** | 1:2.15.0-2 | A project in-between luv and luvit | https://luvit.io |
 | **luvit** | 2.18.1-1 | Asynchronous I/O for Lua | https://luvit.io |
 | **lux** | 0.24.1-2 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
-| **lux-cli** | 0.39.0 | A package manager for Lua, similar to luarocks | https://lux.lumen-labs.org |
+| **lux-cli** | 0.39.1 | A package manager for Lua, similar to luarocks | https://lux.lumen-labs.org |
 | **lv2** | 1.18.10-7 | A plugin standard for audio systems | https://lv2plug.in/ |
 | **lychee** | 0.24.2 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
 | **lynx** | 2.9.2-1 | The text web browser | http://lynx.browser.org/ |
@@ -1983,9 +1983,9 @@
 | **openfoam** | 2606 | OpenFOAM is a CFD software written in C++ | https://www.openfoam.com |
 | **opengl** | 4.5 | A metapackage for OpenGL implementation | https://github.com/termux/termux-packages |
 | **openh264** | 2.6.0-1 | Codec library supporting H.264 encoding and decoding | https://www.openh264.org/ |
-| **openjdk-17** | 17.0.19 | Java development kit and runtime | https://openjdk.java.net |
-| **openjdk-17-source** | 17.0.19 | Source files for openjdk-17 | https://openjdk.java.net |
-| **openjdk-17-x** | 17.0.19 | Portion of openjdk-17 requiring X11 functionality | https://openjdk.java.net |
+| **openjdk-17** | 17.0.20 | Java development kit and runtime | https://openjdk.java.net |
+| **openjdk-17-source** | 17.0.20 | Source files for openjdk-17 | https://openjdk.java.net |
+| **openjdk-17-x** | 17.0.20 | Portion of openjdk-17 requiring X11 functionality | https://openjdk.java.net |
 | **openjdk-21** | 21.0.12 | Java development kit and runtime | https://openjdk.java.net |
 | **openjdk-21-source** | 21.0.12 | Source files for openjdk-21 | https://openjdk.java.net |
 | **openjdk-21-x** | 21.0.12 | Portion of openjdk-21 requiring X11 functionality | https://openjdk.java.net |
@@ -2025,8 +2025,8 @@
 | **ossp-uuid** | 1.6.2-4 | ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122. | http://www.ossp.org/pkg/lib/uuid/ |
 | **ossp-uuid-static** | 1.6.2-4 | Static libraries for ossp-uuid | http://www.ossp.org/pkg/lib/uuid/ |
 | **ovmf** | 20231122-16.fc40-0 | Open Virtual Machine Firmware | https://www.tianocore.org/ |
-| **oxfmt** | 1.74.0 | Oxc JavaScript formatter | https://oxc.rs/ |
-| **oxlint** | 1.74.0 | Oxc JavaScript linter | https://oxc.rs/ |
+| **oxfmt** | 1.75.0 | Oxc JavaScript formatter | https://oxc.rs/ |
+| **oxlint** | 1.75.0 | Oxc JavaScript linter | https://oxc.rs/ |
 | **p11-kit** | 0.26.4-1 | Provides a way to load and enumerate PKCS#11 modules | https://p11-glue.github.io/p11-glue/p11-kit.html |
 | **p7zip** | 17.06-1 | Command-line version of the 7zip compressed file archiver | https://github.com/p7zip-project/p7zip |
 | **pacman** | 7.1.0-5 | A library-based package manager with dependency support | https://archlinux.org/pacman/ |
@@ -2717,8 +2717,8 @@
 | **vale** | 3.15.1 | A syntax-aware linter for prose built with speed and extensibility in mind | https://vale.sh |
 | **valgrind** | 3.22.0-1 | Instrumentation framework for building dynamic analysis tools | https://valgrind.org/ |
 | **valgrind-static** | 3.22.0-1 | Static libraries for valgrind | https://valgrind.org/ |
-| **valkey** | 9.1.0 | In-memory data structure store used as a database, cache and message broker | https://valkey.io/ |
-| **valkey-static** | 9.1.0 | Static libraries for valkey | https://valkey.io/ |
+| **valkey** | 9.1.1 | In-memory data structure store used as a database, cache and message broker | https://valkey.io/ |
+| **valkey-static** | 9.1.1 | Static libraries for valkey | https://valkey.io/ |
 | **vamp-plugin-sdk** | 2.10-3 | An API for audio analysis and feature extraction plugins | https://www.vamp-plugins.org/ |
 | **vamp-plugin-sdk-static** | 2.10-3 | Static libraries for vamp-plugin-sdk | https://www.vamp-plugins.org/ |
 | **vapoursynth** | 73-2 | Video processing framework with simplicity in mind | https://www.vapoursynth.com/ |

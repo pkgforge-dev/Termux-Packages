@@ -697,7 +697,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.36.4",
+    "Version": "2.36.5",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -1777,7 +1777,7 @@
   },
   {
     "Package": "croc",
-    "Version": "1:10.4.14",
+    "Version": "1:10.5.0",
     "Description": "Easily and securely send things from one computer to another",
     "Homepage": "https://github.com/schollz/croc"
   },
@@ -3157,7 +3157,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.4.72",
+    "Version": "0.4.73",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -5113,7 +5113,7 @@
   },
   {
     "Package": "kakoune-lsp",
-    "Version": "21.0.1",
+    "Version": "21.0.2",
     "Description": "Language Server Protocol Client for the Kakoune editor",
     "Homepage": "https://github.com/kakoune-lsp/kakoune-lsp"
   },
@@ -5269,7 +5269,7 @@
   },
   {
     "Package": "lego",
-    "Version": "5.3.0",
+    "Version": "5.3.1",
     "Description": "Lets Encrypt/ACME client and library written in Go",
     "Homepage": "https://github.com/go-acme/lego"
   },
@@ -8047,7 +8047,7 @@
   },
   {
     "Package": "libp11",
-    "Version": "0.4.18",
+    "Version": "0.4.19",
     "Description": "PKCS#11 wrapper library",
     "Homepage": "https://github.com/OpenSC/libp11"
   },
@@ -10291,7 +10291,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.39.0",
+    "Version": "0.39.1",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://lux.lumen-labs.org"
   },
@@ -11911,19 +11911,19 @@
   },
   {
     "Package": "openjdk-17",
-    "Version": "17.0.19",
+    "Version": "17.0.20",
     "Description": "Java development kit and runtime",
     "Homepage": "https://openjdk.java.net"
   },
   {
     "Package": "openjdk-17-source",
-    "Version": "17.0.19",
+    "Version": "17.0.20",
     "Description": "Source files for openjdk-17",
     "Homepage": "https://openjdk.java.net"
   },
   {
     "Package": "openjdk-17-x",
-    "Version": "17.0.19",
+    "Version": "17.0.20",
     "Description": "Portion of openjdk-17 requiring X11 functionality",
     "Homepage": "https://openjdk.java.net"
   },
@@ -12163,13 +12163,13 @@
   },
   {
     "Package": "oxfmt",
-    "Version": "1.74.0",
+    "Version": "1.75.0",
     "Description": "Oxc JavaScript formatter",
     "Homepage": "https://oxc.rs/"
   },
   {
     "Package": "oxlint",
-    "Version": "1.74.0",
+    "Version": "1.75.0",
     "Description": "Oxc JavaScript linter",
     "Homepage": "https://oxc.rs/"
   },
@@ -16315,13 +16315,13 @@
   },
   {
     "Package": "valkey",
-    "Version": "9.1.0",
+    "Version": "9.1.1",
     "Description": "In-memory data structure store used as a database, cache and message broker",
     "Homepage": "https://valkey.io/"
   },
   {
     "Package": "valkey-static",
-    "Version": "9.1.0",
+    "Version": "9.1.1",
     "Description": "Static libraries for valkey",
     "Homepage": "https://valkey.io/"
   },

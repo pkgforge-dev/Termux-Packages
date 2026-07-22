@@ -463,7 +463,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.36.4
+  Version: 2.36.5
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -1183,7 +1183,7 @@
   Description: Roguelike adventure through dungeons filled with dangerous monsters
   Homepage: https://crawl.develz.org/
 - Package: croc
-  Version: 1:10.4.14
+  Version: 1:10.5.0
   Description: Easily and securely send things from one computer to another
   Homepage: https://github.com/schollz/croc
 - Package: cronie
@@ -2103,7 +2103,7 @@
   Description: Software synthesizer based on the SoundFont 2 specifications
   Homepage: https://github.com/FluidSynth/fluidsynth
 - Package: flyctl
-  Version: 0.4.72
+  Version: 0.4.73
   Description: Command line tools for fly.io services
   Homepage: https://fly.io
 - Package: fm
@@ -3407,7 +3407,7 @@
   Description: Code editor heavily inspired by Vim
   Homepage: https://kakoune.org/
 - Package: kakoune-lsp
-  Version: 21.0.1
+  Version: 21.0.2
   Description: Language Server Protocol Client for the Kakoune editor
   Homepage: https://github.com/kakoune-lsp/kakoune-lsp
 - Package: kbd
@@ -3511,7 +3511,7 @@
   Description: Powerful, double-entry accounting system
   Homepage: https://www.ledger-cli.org
 - Package: lego
-  Version: 5.3.0
+  Version: 5.3.1
   Description: Lets Encrypt/ACME client and library written in Go
   Homepage: https://github.com/go-acme/lego
 - Package: leptonica
@@ -5363,7 +5363,7 @@
   Description: GPL reimplementation of libdjb
   Homepage: http://www.fefe.de/libowfat/
 - Package: libp11
-  Version: 0.4.18
+  Version: 0.4.19
   Description: PKCS#11 wrapper library
   Homepage: https://github.com/OpenSC/libp11
 - Package: libp8-platform
@@ -6859,7 +6859,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.39.0
+  Version: 0.39.1
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://lux.lumen-labs.org
 - Package: lv2
@@ -7939,15 +7939,15 @@
   Description: Codec library supporting H.264 encoding and decoding
   Homepage: https://www.openh264.org/
 - Package: openjdk-17
-  Version: 17.0.19
+  Version: 17.0.20
   Description: Java development kit and runtime
   Homepage: https://openjdk.java.net
 - Package: openjdk-17-source
-  Version: 17.0.19
+  Version: 17.0.20
   Description: Source files for openjdk-17
   Homepage: https://openjdk.java.net
 - Package: openjdk-17-x
-  Version: 17.0.19
+  Version: 17.0.20
   Description: Portion of openjdk-17 requiring X11 functionality
   Homepage: https://openjdk.java.net
 - Package: openjdk-21
@@ -8107,11 +8107,11 @@
   Description: Open Virtual Machine Firmware
   Homepage: https://www.tianocore.org/
 - Package: oxfmt
-  Version: 1.74.0
+  Version: 1.75.0
   Description: Oxc JavaScript formatter
   Homepage: https://oxc.rs/
 - Package: oxlint
-  Version: 1.74.0
+  Version: 1.75.0
   Description: Oxc JavaScript linter
   Homepage: https://oxc.rs/
 - Package: p11-kit
@@ -10875,11 +10875,11 @@
   Description: Static libraries for valgrind
   Homepage: https://valgrind.org/
 - Package: valkey
-  Version: 9.1.0
+  Version: 9.1.1
   Description: In-memory data structure store used as a database, cache and message broker
   Homepage: https://valkey.io/
 - Package: valkey-static
-  Version: 9.1.0
+  Version: 9.1.1
   Description: Static libraries for valkey
   Homepage: https://valkey.io/
 - Package: vamp-plugin-sdk
