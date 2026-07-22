@@ -887,7 +887,7 @@
   Description: Curses Development Kit
   Homepage: https://dickey.his.com/cdk/cdk.html
 - Package: cec-client
-  Version: 7.1.1-1
+  Version: 8.0.0
   Description: Client applications for libCEC
   Homepage: https://libcec.pulse-eight.com/
 - Package: cfengine
@@ -1467,7 +1467,7 @@
   Description: A libpcap application that displays various tables of DNS traffic on your network
   Homepage: https://github.com/measurement-factory/dnstop
 - Package: dnsutils
-  Version: 9.20.24
+  Version: 9.20.26
   Description: Clients provided with BIND
   Homepage: https://www.isc.org/bind/
 - Package: docbook-xml
@@ -2367,11 +2367,11 @@
   Description: A GObject-based Exiv2 wrapper
   Homepage: https://wiki.gnome.org/Projects/gexiv2
 - Package: gflags
-  Version: 2.3.0
+  Version: 2.3.1
   Description: A C++ library that implements commandline flags processing
   Homepage: https://github.com/gflags/gflags
 - Package: gflags-static
-  Version: 2.3.0
+  Version: 2.3.1
   Description: Static libraries for gflags
   Homepage: https://github.com/gflags/gflags
 - Package: gforth
@@ -2655,7 +2655,7 @@
   Description: Google C++ testing framework
   Homepage: https://github.com/google/googletest
 - Package: goose
-  Version: 3.27.2
+  Version: 3.27.3
   Description: A database migration tool. Supports SQL migrations and Go functions.
   Homepage: https://pressly.github.io/goose
 - Package: gopass
@@ -3295,7 +3295,7 @@
   Description: A free media system for organizing and streaming media (server)
   Homepage: https://jellyfin.org
 - Package: jfrog-cli
-  Version: 2.115.0
+  Version: 2.116.0
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -3907,11 +3907,11 @@
   Description: Static libraries for libcdr
   Homepage: https://wiki.documentfoundation.org/DLP/Libraries/libcdr
 - Package: libcec
-  Version: 7.1.1-1
+  Version: 8.0.0
   Description: Provides support for Pulse-Eights USB-CEC adapter and other CEC capable hardware
   Homepage: https://libcec.pulse-eight.com/
 - Package: libcec-static
-  Version: 7.1.1-1
+  Version: 8.0.0
   Description: Static libraries for libcec
   Homepage: https://libcec.pulse-eight.com/
 - Package: libceres-solver
@@ -6859,7 +6859,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.39.1
+  Version: 0.39.2
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://lux.lumen-labs.org
 - Package: lv2
@@ -7043,7 +7043,7 @@
   Description: mdbook preprocessor to add graphviz support
   Homepage: https://github.com/dylanowen/mdbook-graphviz
 - Package: mdbook-katex
-  Version: 0.9.4-1
+  Version: 0.10.0
   Description: A preprocessor for mdBook, pre-rendering LaTex equations to HTML at build time
   Homepage: https://github.com/lzanini/mdbook-katex
 - Package: mdbook-linkcheck
@@ -7823,7 +7823,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 29.34.0
+  Version: 29.35.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: oidn
@@ -8463,7 +8463,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pocketbase
-  Version: 0.39.8
+  Version: 0.39.9
   Description: An open source Go backend
   Homepage: https://github.com/pocketbase/pocketbase
 - Package: poke
@@ -10987,7 +10987,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2026.07.15
+  Version: 2026.07.22
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vtm-static
