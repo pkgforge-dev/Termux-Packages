@@ -2199,7 +2199,7 @@
   Description: Interpreter for Infocom and other Z-machine interactive fiction (IF) games
   Homepage: https://gitlab.com/DavidGriffith/frotz
 - Package: frp
-  Version: 0.70.0
+  Version: 0.70.1
   Description: A fast reverse proxy to expose a local server behind a NAT or firewall to the internet
   Homepage: https://github.com/fatedier/frp
 - Package: fselect
@@ -5551,7 +5551,7 @@
   Description: Static libraries for libraptor2
   Homepage: https://librdf.org/raptor/
 - Package: libraqm
-  Version: 0.10.5
+  Version: 0.11.0
   Description: Raqm is a small library that encapsulates the logic for complex text layout and provides a convenient API
   Homepage: https://github.com/HOST-Oman/libraqm
 - Package: librasqal
@@ -7231,11 +7231,11 @@
   Description: Single C source file zlib-replacement library
   Homepage: https://github.com/richgel999/miniz
 - Package: minizinc
-  Version: 2.9.7
+  Version: 2.10.0
   Description: A medium-level constraint modelling language
   Homepage: https://github.com/MiniZinc/libminizinc
 - Package: minizinc-static
-  Version: 2.9.7
+  Version: 2.10.0
   Description: Static libraries for minizinc
   Homepage: https://github.com/MiniZinc/libminizinc
 - Package: mise
@@ -7827,7 +7827,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 29.35.0
+  Version: 29.35.1
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: oidn
@@ -9499,7 +9499,7 @@
   Description: Static libraries for seafile-client
   Homepage: https://seafile.com
 - Package: seanime
-  Version: 3.10.1
+  Version: 3.10.2
   Description: Self-hosted anime and manga server for sea rovers.
   Homepage: https://github.com/5rahim/seanime
 - Package: seccure
@@ -10679,7 +10679,7 @@
   Description: A small and powerful JavaScript runtime
   Homepage: https://github.com/saghul/txiki.js
 - Package: ty
-  Version: 0.0.62
+  Version: 0.0.63
   Description: An extremely fast Python type checker and language server, written in Rust
   Homepage: https://github.com/astral-sh/ty
 - Package: typst
