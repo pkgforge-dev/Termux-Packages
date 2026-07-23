@@ -217,7 +217,7 @@
   },
   {
     "Package": "android-tools",
-    "Version": "36.0.1",
+    "Version": "36.0.1-1",
     "Description": "Android platform tools",
     "Homepage": "https://developer.android.com/"
   },
@@ -12985,13 +12985,13 @@
   },
   {
     "Package": "pulseaudio",
-    "Version": "17.0-1",
+    "Version": "17.0-2",
     "Description": "A featureful, general-purpose sound server",
     "Homepage": "https://www.freedesktop.org/wiki/Software/PulseAudio"
   },
   {
     "Package": "pulseaudio-glib",
-    "Version": "17.0-1",
+    "Version": "17.0-2",
     "Description": "PulseAudio GLIB mainloop component",
     "Homepage": "https://www.freedesktop.org/wiki/Software/PulseAudio"
   },

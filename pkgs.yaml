@@ -143,7 +143,7 @@
   Description: Aims to be the best looking Gemini client
   Homepage: https://github.com/makew0rld/amfora
 - Package: android-tools
-  Version: 36.0.1
+  Version: 36.0.1-1
   Description: Android platform tools
   Homepage: https://developer.android.com/
 - Package: anewer
@@ -8655,11 +8655,11 @@
   Description: A command-line task management tool for sequential and parallel execution of long-running tasks
   Homepage: https://github.com/Nukesor/pueue
 - Package: pulseaudio
-  Version: 17.0-1
+  Version: 17.0-2
   Description: A featureful, general-purpose sound server
   Homepage: https://www.freedesktop.org/wiki/Software/PulseAudio
 - Package: pulseaudio-glib
-  Version: 17.0-1
+  Version: 17.0-2
   Description: PulseAudio GLIB mainloop component
   Homepage: https://www.freedesktop.org/wiki/Software/PulseAudio
 - Package: pup
