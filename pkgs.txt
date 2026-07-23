@@ -428,6 +428,7 @@
  duf  0.9.1  Disk usage/free utility  https://github.com/muesli/duf 
  dufs  0.46.0  A file server that supports static serving, uploading, searching, accessing control, webdav...  https://github.com/sigoden/dufs 
  duktape  2.7.0-2  Simple REPL for Duktape  https://www.duktape.org/ 
+ dumbpipe  0.39.0  A CLI tool to pipe data over the network, with NAT hole punching  https://www.dumbpipe.dev/ 
  dust  1.2.4  A more intuitive version of du in rust  https://github.com/bootandy/dust 
  dvdauthor  0.7.2-4  Generates a DVD-Video movie from a valid MPEG-2 stream  https://dvdauthor.sourceforge.net/ 
  dvtm  0.15-4  Terminal tiling window manager  https://github.com/martanne/dvtm 
@@ -524,7 +525,7 @@
  flex-static  2.6.4-5  Static libraries for flex  https://github.com/westes/flex 
  flint  3.6.0  C library for doing number theory  http://www.flintlib.org 
  fluidsynth  2.5.6  Software synthesizer based on the SoundFont 2 specifications  https://github.com/FluidSynth/fluidsynth 
- flyctl  0.4.73  Command line tools for fly.io services  https://fly.io 
+ flyctl  0.4.74  Command line tools for fly.io services  https://fly.io 
  fm  1.2.0  A terminal based file manager  https://github.com/knipferrc/fm 
  fmt  1:11.2.0  Open-source formatting library for C++  https://fmt.dev/latest/index.html 
  fontconfig  2.18.2  Library for configuring and customizing font access  https://www.freedesktop.org/wiki/Software/fontconfig/ 
@@ -2258,7 +2259,7 @@
  rage  0.11.2  A simple, secure and modern encryption tool  https://age-encryption.org/v1 
  ragel  7.0.4-1  Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code  https://www.colm.net/open-source/ragel/ 
  ragel-static  7.0.4-1  Static libraries for ragel  https://www.colm.net/open-source/ragel/ 
- railway-cli  5.27.2  This is the command line interface for Railway  https://railway.app 
+ railway-cli  5.28.0  This is the command line interface for Railway  https://railway.app 
  range-v3  0.12.0  Range library for C++14/17/20, basis for C++20's std::ranges  https://github.com/ericniebler/range-v3 
  ranger  1.9.4-2  File manager with VI key bindings  https://ranger.github.io/ 
  rapidjson  1.1.0-7  Fast JSON parser/generator for C++ with SAX/DOM style API  https://github.com/Tencent/rapidjson/ 
@@ -2377,7 +2378,7 @@
  secure-delete  3.1-6  Secure file, disk, swap, memory erasure utilities  https://www.thc.org/ 
  sed  4.9-2  GNU stream editor for filtering/transforming text  https://www.gnu.org/software/sed/ 
  seerr  3.3.0  A fork of Overseerr with focus on adding support for Jellyfin/Emby  https://github.com/seerr-team/seerr 
- sendme  0.36.0  A tool to send files and directories, based on iroh  https://github.com/n0-computer/sendme 
+ sendme  0.36.0-1  A tool to send files and directories, based on iroh  https://github.com/n0-computer/sendme 
  sendxmpp  1.24-1  A perl-script to send XMPP (jabber) messages  https://sendxmpp.hostname.sk/ 
  senpai  1:0.5.0  An IRC client that works best with bouncers  https://git.sr.ht/~delthas/senpai 
  sensible-utils  0.0.26  Small utilities used by programs to sensibly select and spawn an appropriate browser, editor, or pager  https://packages.debian.org/sid/sensible-utils 

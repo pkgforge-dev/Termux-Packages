@@ -2580,6 +2580,12 @@
     "Homepage": "https://www.duktape.org/"
   },
   {
+    "Package": "dumbpipe",
+    "Version": "0.39.0",
+    "Description": "A CLI tool to pipe data over the network, with NAT hole punching",
+    "Homepage": "https://www.dumbpipe.dev/"
+  },
+  {
     "Package": "dust",
     "Version": "1.2.4",
     "Description": "A more intuitive version of du in rust",
@@ -3157,7 +3163,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.4.73",
+    "Version": "0.4.74",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -13561,7 +13567,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "5.27.2",
+    "Version": "5.28.0",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -14275,7 +14281,7 @@
   },
   {
     "Package": "sendme",
-    "Version": "0.36.0",
+    "Version": "0.36.0-1",
     "Description": "A tool to send files and directories, based on iroh",
     "Homepage": "https://github.com/n0-computer/sendme"
   },

@@ -1718,6 +1718,10 @@
   Version: 2.7.0-2
   Description: Simple REPL for Duktape
   Homepage: https://www.duktape.org/
+- Package: dumbpipe
+  Version: 0.39.0
+  Description: A CLI tool to pipe data over the network, with NAT hole punching
+  Homepage: https://www.dumbpipe.dev/
 - Package: dust
   Version: 1.2.4
   Description: A more intuitive version of du in rust
@@ -2103,7 +2107,7 @@
   Description: Software synthesizer based on the SoundFont 2 specifications
   Homepage: https://github.com/FluidSynth/fluidsynth
 - Package: flyctl
-  Version: 0.4.73
+  Version: 0.4.74
   Description: Command line tools for fly.io services
   Homepage: https://fly.io
 - Package: fm
@@ -9039,7 +9043,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 5.27.2
+  Version: 5.28.0
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
@@ -9515,7 +9519,7 @@
   Description: A fork of Overseerr with focus on adding support for Jellyfin/Emby
   Homepage: https://github.com/seerr-team/seerr
 - Package: sendme
-  Version: 0.36.0
+  Version: 0.36.0-1
   Description: A tool to send files and directories, based on iroh
   Homepage: https://github.com/n0-computer/sendme
 - Package: sendxmpp
