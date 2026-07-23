@@ -361,7 +361,7 @@
  dnote  1:0.16.0  A simple command line notebook for programmers  https://www.getdnote.com/ 
  dnote-server  3.0.0  This package contains the Dnote server. It comprises of the web interface, the web API, and the background jobs.  https://www.getdnote.com/ 
  dns2tcp  0.5.2-2  dns2tcp is a tool for relaying TCP connections over DNS  https://github.com/alex-sector/dns2tcp 
- dnscontrol  4.43.3  Infrastructure as code for DNS!  https://github.com/StackExchange/dnscontrol 
+ dnscontrol  4.44.1  Infrastructure as code for DNS!  https://github.com/StackExchange/dnscontrol 
  dnslookup  1.12.0  Simple command line utility to make DNS lookups. Supports all known DNS protocols: plain DNS, DoH, DoT, DoQ, DNSCrypt.  https://github.com/ameshkov/dnslookup 
  dnsmap  0.36-3  Subdomain Bruteforcing Tool  https://github.com/resurrecting-open-source-projects/dnsmap 
  dnstop  2022.10.19-1  A libpcap application that displays various tables of DNS traffic on your network  https://github.com/measurement-factory/dnstop 
@@ -864,7 +864,7 @@
  kotlin  2.4.10  The Kotlin Programming Language  https://kotlinlang.org/ 
  krb5  1.22.2  The Kerberos network authentication system  https://web.mit.edu/kerberos 
  kubecolor  0.6.0  Colorize your kubectl output  https://github.com/kubecolor/kubecolor 
- kubectl  1.36.2  Kubernetes.io client binary  https://kubernetes.io/ 
+ kubectl  1.36.3  Kubernetes.io client binary  https://kubernetes.io/ 
  kubelogin  1.36.3  A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication  https://github.com/int128/kubelogin 
  kubo  0.42.0  A peer-to-peer hypermedia distribution protocol  https://ipfs.io/ 
  ladspa-sdk  1.17-3  Linux Audio Developer's Simple Plugin API  https://www.ladspa.org/ 
@@ -1659,9 +1659,9 @@
  littlecms  2.19.1  Color management library  http://www.littlecms.com/ 
  littlecms-static  2.19.1  Static libraries for littlecms  http://www.littlecms.com/ 
  littlecms-utils  2.19.1  Color management utilities  http://www.littlecms.com/ 
- llama-cpp  0.0.0-b9934-0  LLM inference in C/C++  https://github.com/ggml-org/llama.cpp 
- llama-cpp-backend-opencl  0.0.0-b9934-0  OpenCL Backend for LLaMA.cpp  https://github.com/ggml-org/llama.cpp 
- llama-cpp-backend-vulkan  0.0.0-b9934-0  Vulkan Backend for LLaMA.cpp  https://github.com/ggml-org/llama.cpp 
+ llama-cpp  0.0.0-b10092-0  LLM inference in C/C++  https://github.com/ggml-org/llama.cpp 
+ llama-cpp-backend-opencl  0.0.0-b10092-0  OpenCL Backend for LLaMA.cpp  https://github.com/ggml-org/llama.cpp 
+ llama-cpp-backend-vulkan  0.0.0-b10092-0  Vulkan Backend for LLaMA.cpp  https://github.com/ggml-org/llama.cpp 
  llbuild  6.2.1  A low-level build system, used by the Swift Package Manager  https://github.com/swiftlang/swift-llbuild 
  lld  21.1.8-3  LLVM-based linker  https://clang.llvm.org/ 
  lldb  21.1.8-3  LLVM-based debugger  https://clang.llvm.org/ 
@@ -2430,7 +2430,7 @@
  soju  0.10.1  A user-friendly IRC bouncer  https://codeberg.org/emersion/soju 
  solidity  0.8.36-1  An Ethereum smart contract-oriented language  https://www.soliditylang.org/ 
  sonarr  4.0.19.2979-3  A PVR for Usenet and BitTorrent users (server)  https://sonarr.tv 
- sops  3.13.2  Simple and flexible tool for managing secrets  https://github.com/getsops/sops 
+ sops  3.13.3  Simple and flexible tool for managing secrets  https://github.com/getsops/sops 
  sord  0.16.22  A lightweight C library for storing RDF data in memory  https://drobilla.net/software/sord.html 
  sound-theme-freedesktop  0.8  Freedesktop sound theme  https://freedesktop.org/wiki/Specifications/sound-theme-spec 
  sourcekit-lsp  6.2.1  Language Server Protocol implementation for Swift and C-based languages  https://swift.org/ 

@@ -1451,7 +1451,7 @@
   Description: dns2tcp is a tool for relaying TCP connections over DNS
   Homepage: https://github.com/alex-sector/dns2tcp
 - Package: dnscontrol
-  Version: 4.43.3
+  Version: 4.44.1
   Description: Infrastructure as code for DNS!
   Homepage: https://github.com/StackExchange/dnscontrol
 - Package: dnslookup
@@ -3463,7 +3463,7 @@
   Description: Colorize your kubectl output
   Homepage: https://github.com/kubecolor/kubecolor
 - Package: kubectl
-  Version: 1.36.2
+  Version: 1.36.3
   Description: Kubernetes.io client binary
   Homepage: https://kubernetes.io/
 - Package: kubelogin
@@ -6643,15 +6643,15 @@
   Description: Color management utilities
   Homepage: http://www.littlecms.com/
 - Package: llama-cpp
-  Version: 0.0.0-b9934-0
+  Version: 0.0.0-b10092-0
   Description: LLM inference in C/C++
   Homepage: https://github.com/ggml-org/llama.cpp
 - Package: llama-cpp-backend-opencl
-  Version: 0.0.0-b9934-0
+  Version: 0.0.0-b10092-0
   Description: OpenCL Backend for LLaMA.cpp
   Homepage: https://github.com/ggml-org/llama.cpp
 - Package: llama-cpp-backend-vulkan
-  Version: 0.0.0-b9934-0
+  Version: 0.0.0-b10092-0
   Description: Vulkan Backend for LLaMA.cpp
   Homepage: https://github.com/ggml-org/llama.cpp
 - Package: llbuild
@@ -9727,7 +9727,7 @@
   Description: A PVR for Usenet and BitTorrent users (server)
   Homepage: https://sonarr.tv
 - Package: sops
-  Version: 3.13.2
+  Version: 3.13.3
   Description: Simple and flexible tool for managing secrets
   Homepage: https://github.com/getsops/sops
 - Package: sord
