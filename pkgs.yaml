@@ -8455,7 +8455,7 @@
   Description: Helper tool used when compiling applications and libraries
   Homepage: https://www.freedesktop.org/wiki/Software/pkg-config/
 - Package: pkgfile
-  Version: "25"
+  Version: "26"
   Description: An alpm .files metadata explorer
   Homepage: https://github.com/falconindy/pkgfile
 - Package: pkgtop
@@ -10303,7 +10303,7 @@
   Description: Tool for analyzing control characters and terminal control sequences
   Homepage: https://www.gnu.org/software/teseq/
 - Package: tesseract
-  Version: 5.5.2
+  Version: 5.5.3
   Description: Tesseract is probably the most accurate open source OCR engine available
   Homepage: https://github.com/tesseract-ocr/tesseract
 - Package: testssl.sh
