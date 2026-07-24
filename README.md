@@ -1684,10 +1684,10 @@
 | **lld** | 21.1.8-3 | LLVM-based linker | https://clang.llvm.org/ |
 | **lldb** | 21.1.8-3 | LLVM-based debugger | https://clang.llvm.org/ |
 | **llvm** | 21.1.8-3 | LLVM modular compiler and toolchain executables | https://clang.llvm.org/ |
-| **llvm-mingw-w64** | 20251007-1 | MinGW-w64 toolchain based on LLVM | https://github.com/mstorsjo/llvm-mingw |
-| **llvm-mingw-w64-libcompiler-rt** | 20251007-1 | Compiler runtime libraries for LLVM-MinGW | https://github.com/mstorsjo/llvm-mingw |
-| **llvm-mingw-w64-tools** | 12.0.0-2 | MinGW-w64 tools for LLVM-MinGW | https://github.com/mstorsjo/llvm-mingw |
-| **llvm-mingw-w64-ucrt** | 20251007-1 | MinGW-w64 runtime for LLVM-MinGW | https://github.com/mstorsjo/llvm-mingw |
+| **llvm-mingw-w64** | 20251216 | MinGW-w64 toolchain based on LLVM | https://github.com/mstorsjo/llvm-mingw |
+| **llvm-mingw-w64-libcompiler-rt** | 20251216 | Compiler runtime libraries for LLVM-MinGW | https://github.com/mstorsjo/llvm-mingw |
+| **llvm-mingw-w64-tools** | 14.0.0+dev | MinGW-w64 tools for LLVM-MinGW | https://github.com/mstorsjo/llvm-mingw |
+| **llvm-mingw-w64-ucrt** | 20251216 | MinGW-w64 runtime for LLVM-MinGW | https://github.com/mstorsjo/llvm-mingw |
 | **llvm-tools** | 21.1.8-3 | LLVM Development Tools | https://clang.llvm.org/ |
 | **lnav** | 0.14.0 | An advanced log file viewer for the small-scale | https://lnav.org/ |
 | **lnd** | 0.17.0-beta-1 | Lightning Network Daemon | https://github.com/lightningnetwork/lnd |
