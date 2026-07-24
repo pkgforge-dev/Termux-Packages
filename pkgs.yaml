@@ -1407,9 +1407,9 @@
   Description: Monitor of events in file system directories
   Homepage: https://www.gnu.org.ua/software/direvent/
 - Package: discordo
-  Version: 2025.08.06
+  Version: 2026.07.16+g2e051919
   Description: A lightweight, secure, and feature-rich Discord terminal client
-  Homepage: https://github.com/ayntgl/discordo
+  Homepage: https://github.com/ayn2op/discordo
 - Package: discount
   Version: 3.0.1.3
   Description: Markdown implementation written in C
@@ -2759,11 +2759,11 @@
   Description: A thin layer of graphic data types
   Homepage: https://ebassi.github.io/graphene/
 - Package: graphicsmagick
-  Version: 1.3.47-1
+  Version: 1.3.48
   Description: Collection of image processing tools
   Homepage: http://www.graphicsmagick.org/
 - Package: graphicsmagick-static
-  Version: 1.3.47-1
+  Version: 1.3.48
   Description: Static libraries for graphicsmagick
   Homepage: http://www.graphicsmagick.org/
 - Package: graphviz
@@ -6491,11 +6491,11 @@
   Description: Library to help create and query binary XML blobs
   Homepage: https://github.com/hughsie/libxmlb
 - Package: libxmlrpc
-  Version: 1.64.03
+  Version: 1.64.03-1
   Description: XML-RPC for C and C++
   Homepage: https://xmlrpc-c.sourceforge.io/
 - Package: libxmlrpc-static
-  Version: 1.64.03
+  Version: 1.64.03-1
   Description: Static libraries for libxmlrpc
   Homepage: https://xmlrpc-c.sourceforge.io/
 - Package: libxmp
@@ -7627,7 +7627,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-980+g3a7989f4f4-0
+  Version: 0.13.0~dev-1095+g53cbf66bd2-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -7851,7 +7851,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 29.35.2
+  Version: 29.35.3
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: oidn
@@ -9067,7 +9067,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 5.28.0
+  Version: 5.28.1
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
@@ -9179,7 +9179,7 @@
   Description: TCP port redirector for UNIX
   Homepage: https://github.com/troglobit/redir
 - Package: redis
-  Version: 1:8.8.0
+  Version: 1:8.8.1
   Description: In-memory data structure store used as a database, cache and message broker
   Homepage: https://redis.io/
 - Package: redland

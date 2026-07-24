@@ -350,7 +350,7 @@
 | **dirb** | 2.22-5 | Web Directory Fuzzer | https://dirb.sourceforge.net/ |
 | **direnv** | 2.37.1-1 | Environment switcher for shell | https://github.com/direnv/direnv |
 | **direvent** | 5.5 | Monitor of events in file system directories | https://www.gnu.org.ua/software/direvent/ |
-| **discordo** | 2025.08.06 | A lightweight, secure, and feature-rich Discord terminal client | https://github.com/ayntgl/discordo |
+| **discordo** | 2026.07.16+g2e051919 | A lightweight, secure, and feature-rich Discord terminal client | https://github.com/ayn2op/discordo |
 | **discount** | 3.0.1.3 | Markdown implementation written in C | https://www.pell.portland.or.us/~orc/Code/discount/ |
 | **diskus** | 0.9.0 | A minimal, fast alternative to 'du -sh' | https://github.com/sharkdp/diskus |
 | **distant** | 1:0.20.0-3 | Library and tooling that supports remote filesystem and process | https://github.com/chipsenkbeil/distant |
@@ -688,8 +688,8 @@
 | **grafana** | 1:12.3.3 | The open-source platform for monitoring and observability | https://grafana.com/ |
 | **grap** | 1.49 | Language for typesetting graphs | https://www.lunabase.org/~faber/Vault/software/grap/ |
 | **graphene** | 1.10.8-3 | A thin layer of graphic data types | https://ebassi.github.io/graphene/ |
-| **graphicsmagick** | 1.3.47-1 | Collection of image processing tools | http://www.graphicsmagick.org/ |
-| **graphicsmagick-static** | 1.3.47-1 | Static libraries for graphicsmagick | http://www.graphicsmagick.org/ |
+| **graphicsmagick** | 1.3.48 | Collection of image processing tools | http://www.graphicsmagick.org/ |
+| **graphicsmagick-static** | 1.3.48 | Static libraries for graphicsmagick | http://www.graphicsmagick.org/ |
 | **graphviz** | 15.1.0 | Rich set of graph drawing tools | https://www.graphviz.org/ |
 | **graphviz-static** | 15.1.0 | Static libraries for graphviz | https://www.graphviz.org/ |
 | **greed** | 5.0 | Game where you try to eat as much as possible of the board before munching yourself into a corner | http://www.catb.org/~esr/greed/ |
@@ -1621,8 +1621,8 @@
 | **libxml2-python** | 2.15.3-2 | Python bindings for libxml2 | https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home |
 | **libxml2-utils** | 2.15.3-2 | XML utilities | https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home |
 | **libxmlb** | 0.3.28 | Library to help create and query binary XML blobs | https://github.com/hughsie/libxmlb |
-| **libxmlrpc** | 1.64.03 | XML-RPC for C and C++ | https://xmlrpc-c.sourceforge.io/ |
-| **libxmlrpc-static** | 1.64.03 | Static libraries for libxmlrpc | https://xmlrpc-c.sourceforge.io/ |
+| **libxmlrpc** | 1.64.03-1 | XML-RPC for C and C++ | https://xmlrpc-c.sourceforge.io/ |
+| **libxmlrpc-static** | 1.64.03-1 | Static libraries for libxmlrpc | https://xmlrpc-c.sourceforge.io/ |
 | **libxmp** | 4.7.1 | Extended Module Player C Library that renders tracker and module music (MOD, S3M, IT, XM etc.) | https://github.com/libxmp/libxmp |
 | **libxmp-static** | 4.7.1 | Static libraries for libxmp | https://github.com/libxmp/libxmp |
 | **libxrandr** | 1.5.5 | X11 RandR extension library | https://xorg.freedesktop.org/ |
@@ -1905,7 +1905,7 @@
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20260616 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.12.4 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
-| **neovim-nightly** | 0.13.0~dev-980+g3a7989f4f4-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
+| **neovim-nightly** | 0.13.0~dev-1095+g53cbf66bd2-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
 | **nerdfix** | 0.4.2-1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.5.2 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.5.2 | Static libraries for net-snmp | http://www.net-snmp.org/ |
@@ -1961,7 +1961,7 @@
 | **octomap** | 1.10.0-1 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0-1 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-5 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 29.35.2 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 29.35.3 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **oidn** | 2.4.1 | Intel® Open Image Denoise library | https://www.openimagedenoise.org |
 | **okc-agents** | 0.1.2-2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.7 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
@@ -2265,7 +2265,7 @@
 | **rage** | 0.11.2 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4-1 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4-1 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
-| **railway-cli** | 5.28.0 | This is the command line interface for Railway | https://railway.app |
+| **railway-cli** | 5.28.1 | This is the command line interface for Railway | https://railway.app |
 | **range-v3** | 0.12.0 | Range library for C++14/17/20, basis for C++20's std::ranges | https://github.com/ericniebler/range-v3 |
 | **ranger** | 1.9.4-2 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-7 | Fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |
@@ -2293,7 +2293,7 @@
 | **recutils** | 1.9-1 | Set of tools and libraries to access human-editable, plain text databases called recfiles | https://www.gnu.org/software/recutils/ |
 | **recutils-static** | 1.9-1 | Static libraries for recutils | https://www.gnu.org/software/recutils/ |
 | **redir** | 3.3-3 | TCP port redirector for UNIX | https://github.com/troglobit/redir |
-| **redis** | 1:8.8.0 | In-memory data structure store used as a database, cache and message broker | https://redis.io/ |
+| **redis** | 1:8.8.1 | In-memory data structure store used as a database, cache and message broker | https://redis.io/ |
 | **redland** | 1.0.17-1 | Library that provides a high-level interface to RDF data | http://librdf.org/ |
 | **remind** | 1:06.02.08 | Sophisticated calendar and alarm program | https://dianne.skoll.ca/projects/remind/ |
 | **renameutils** | 0.12.0-3 | A set of programs designed to make renaming of files faster and less cumbersome | https://www.nongnu.org/renameutils/ |
