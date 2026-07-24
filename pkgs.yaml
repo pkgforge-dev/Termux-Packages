@@ -1407,7 +1407,7 @@
   Description: Monitor of events in file system directories
   Homepage: https://www.gnu.org.ua/software/direvent/
 - Package: discordo
-  Version: 2026.07.16+g2e051919
+  Version: 2026.07.23+g54a64318
   Description: A lightweight, secure, and feature-rich Discord terminal client
   Homepage: https://github.com/ayn2op/discordo
 - Package: discount
@@ -2911,7 +2911,7 @@
   Description: A toolkit for creating structured configuration languages
   Homepage: https://github.com/hashicorp/hcl
 - Package: hcloud
-  Version: 1.66.0
+  Version: 1.67.0
   Description: Hetzner Cloud command line client
   Homepage: https://github.com/hetznercloud/cli
 - Package: helix
@@ -3019,15 +3019,15 @@
   Description: ping-like program for http-requests
   Homepage: https://github.com/folkertvanheusden/HTTPing
 - Package: httrack
-  Version: 3.49.13
+  Version: 3.49.14
   Description: It allows you to download a World Wide Web site from the Internet
   Homepage: http://www.httrack.com
 - Package: httrack-data
-  Version: 3.49.13
+  Version: 3.49.14
   Description: Platform-independent data for httrack
   Homepage: http://www.httrack.com
 - Package: httrack-static
-  Version: 3.49.13
+  Version: 3.49.14
   Description: Static libraries for httrack
   Homepage: http://www.httrack.com
 - Package: hub
@@ -7627,7 +7627,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-1095+g53cbf66bd2-0
+  Version: 0.13.0~dev-1103+ge4137a7324-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -10894,10 +10894,6 @@
   Version: 3.15.2
   Description: A syntax-aware linter for prose built with speed and extensibility in mind
   Homepage: https://vale.sh
-- Package: valkey
-  Version: 9.1.1
-  Description: In-memory data structure store used as a database, cache and message broker
-  Homepage: https://valkey.io/
 - Package: valkey-static
   Version: 9.1.1
   Description: Static libraries for valkey

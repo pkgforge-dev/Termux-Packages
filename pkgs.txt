@@ -350,7 +350,7 @@
  dirb  2.22-5  Web Directory Fuzzer  https://dirb.sourceforge.net/ 
  direnv  2.37.1-1  Environment switcher for shell  https://github.com/direnv/direnv 
  direvent  5.5  Monitor of events in file system directories  https://www.gnu.org.ua/software/direvent/ 
- discordo  2026.07.16+g2e051919  A lightweight, secure, and feature-rich Discord terminal client  https://github.com/ayn2op/discordo 
+ discordo  2026.07.23+g54a64318  A lightweight, secure, and feature-rich Discord terminal client  https://github.com/ayn2op/discordo 
  discount  3.0.1.3  Markdown implementation written in C  https://www.pell.portland.or.us/~orc/Code/discount/ 
  diskus  0.9.0  A minimal, fast alternative to 'du -sh'  https://github.com/sharkdp/diskus 
  distant  1:0.20.0-3  Library and tooling that supports remote filesystem and process  https://github.com/chipsenkbeil/distant 
@@ -726,7 +726,7 @@
  hash-slinger  3.6  Various tools to generate special DNS records  https://github.com/letoams/hash-slinger 
  hashdeep  4.4-9  Programs to compute hashsums of arbitrary number of files recursively  https://md5deep.sourceforge.net/ 
  hcl  2.24.0-1  A toolkit for creating structured configuration languages  https://github.com/hashicorp/hcl 
- hcloud  1.66.0  Hetzner Cloud command line client  https://github.com/hetznercloud/cli 
+ hcloud  1.67.0  Hetzner Cloud command line client  https://github.com/hetznercloud/cli 
  helix  25.07.1-2  A post-modern modal text editor written in rust  https://helix-editor.com/ 
  helix-grammars  25.07.1-2  Helix grammars  https://helix-editor.com/ 
  hello  2.12.3-1  Prints a friendly greeting  https://www.gnu.org/software/hello/ 
@@ -753,9 +753,9 @@
  htslib  1.24  C library for high-throughput sequencing data formats  https://github.com/samtools/htslib 
  htslib-static  1.24  Static libraries for htslib  https://github.com/samtools/htslib 
  httping  4.4.0-1  ping-like program for http-requests  https://github.com/folkertvanheusden/HTTPing 
- httrack  3.49.13  It allows you to download a World Wide Web site from the Internet  http://www.httrack.com 
- httrack-data  3.49.13  Platform-independent data for httrack  http://www.httrack.com 
- httrack-static  3.49.13  Static libraries for httrack  http://www.httrack.com 
+ httrack  3.49.14  It allows you to download a World Wide Web site from the Internet  http://www.httrack.com 
+ httrack-data  3.49.14  Platform-independent data for httrack  http://www.httrack.com 
+ httrack-static  3.49.14  Static libraries for httrack  http://www.httrack.com 
  hub  2.14.2-6  Command-line wrapper for git that makes you better at GitHub  https://hub.github.com/ 
  hugo  0.164.0  A fast and flexible static site generator  https://gohugo.io/ 
  hummin  2021.05.18-4  Command line client for the imperial library of trantor  https://trantor.is/ 
@@ -1905,7 +1905,7 @@
  neofetch  7.1.0-1  Simple system information script  https://github.com/dylanaraps/neofetch 
  neomutt  20260616  A version of mutt with added features  https://neomutt.org/ 
  neovim  0.12.4  Ambitious Vim-fork focused on extensibility and agility (nvim)  https://neovim.io/ 
- neovim-nightly  0.13.0~dev-1095+g53cbf66bd2-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
+ neovim-nightly  0.13.0~dev-1103+ge4137a7324-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
  nerdfix  0.4.2-1  nerdfix helps you to find/fix obsolete Nerd Font icons in your project.  https://github.com/loichyan/nerdfix 
  net-snmp  5.9.5.2  Various tools relating to the Simple Network Management Protocol  http://www.net-snmp.org/ 
  net-snmp-static  5.9.5.2  Static libraries for net-snmp  http://www.net-snmp.org/ 
@@ -2722,7 +2722,6 @@
  valadoc  0.56.19  API documentation generator for vala  https://wiki.gnome.org/Projects/Vala 
  valadoc-static  0.56.19  Static libraries for valadoc  https://wiki.gnome.org/Projects/Vala 
  vale  3.15.2  A syntax-aware linter for prose built with speed and extensibility in mind  https://vale.sh 
- valkey  9.1.1  In-memory data structure store used as a database, cache and message broker  https://valkey.io/ 
  valkey-static  9.1.1  Static libraries for valkey  https://valkey.io/ 
  vamp-plugin-sdk  2.10-3  An API for audio analysis and feature extraction plugins  https://www.vamp-plugins.org/ 
  vamp-plugin-sdk-static  2.10-3  Static libraries for vamp-plugin-sdk  https://www.vamp-plugins.org/ 
