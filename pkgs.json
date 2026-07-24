@@ -1345,7 +1345,7 @@
   },
   {
     "Package": "cec-client",
-    "Version": "8.0.0",
+    "Version": "8.1.0",
     "Description": "Client applications for libCEC",
     "Homepage": "https://libcec.pulse-eight.com/"
   },
@@ -2029,7 +2029,7 @@
   },
   {
     "Package": "deno",
-    "Version": "1:2.9.3",
+    "Version": "1:2.9.4",
     "Description": "A modern runtime for JavaScript and TypeScript",
     "Homepage": "https://deno.land/"
   },
@@ -5893,13 +5893,13 @@
   },
   {
     "Package": "libcec",
-    "Version": "8.0.0",
+    "Version": "8.1.0",
     "Description": "Provides support for Pulse-Eights USB-CEC adapter and other CEC capable hardware",
     "Homepage": "https://libcec.pulse-eight.com/"
   },
   {
     "Package": "libcec-static",
-    "Version": "8.0.0",
+    "Version": "8.1.0",
     "Description": "Static libraries for libcec",
     "Homepage": "https://libcec.pulse-eight.com/"
   },
@@ -8503,7 +8503,7 @@
   },
   {
     "Package": "librusty-v8",
-    "Version": "1:2.9.3",
+    "Version": "1:2.9.4",
     "Description": "High quality Rust bindings to V8s C++ API",
     "Homepage": "https://deno.land/"
   },
@@ -12985,13 +12985,13 @@
   },
   {
     "Package": "pulseaudio",
-    "Version": "17.0-2",
+    "Version": "17.0-3",
     "Description": "A featureful, general-purpose sound server",
     "Homepage": "https://www.freedesktop.org/wiki/Software/PulseAudio"
   },
   {
     "Package": "pulseaudio-glib",
-    "Version": "17.0-2",
+    "Version": "17.0-3",
     "Description": "PulseAudio GLIB mainloop component",
     "Homepage": "https://www.freedesktop.org/wiki/Software/PulseAudio"
   },
