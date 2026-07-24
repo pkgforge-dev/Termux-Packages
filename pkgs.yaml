@@ -215,7 +215,7 @@
   Description: A tool for reverse engineering Android apps (decoding, rebuilding, and smali debugging).
   Homepage: https://apktool.org/
 - Package: appstream
-  Version: 1.1.4
+  Version: 1.1.5
   Description: Provides a standard for creating app stores across distributions
   Homepage: https://www.freedesktop.org/wiki/Distributions/AppStream/
 - Package: apr
@@ -2187,7 +2187,7 @@
   Description: Minimalistic plugin API for video effects
   Homepage: https://www.dyne.org/software/frei0r/
 - Package: fresh-editor
-  Version: 0.4.4
+  Version: 0.4.5
   Description: 'Text editor for your terminal: easy, powerful and fast'
   Homepage: https://getfresh.dev/
 - Package: fribidi
@@ -6851,7 +6851,7 @@
   Description: Static libraries for lua55
   Homepage: https://www.lua.org/
 - Package: luajit
-  Version: 1:2.1.1784580905+g2460b3f
+  Version: 1:2.1.1784902473+g346ab58
   Description: Just-In-Time Compiler for Lua
   Homepage: https://luajit.org/
 - Package: luajit-lgi
@@ -6859,7 +6859,7 @@
   Description: Dynamic Lua binding to GObject libraries using GObject-Introspection
   Homepage: https://github.com/lgi-devs/lgi
 - Package: luajit-static
-  Version: 1:2.1.1784580905+g2460b3f
+  Version: 1:2.1.1784902473+g346ab58
   Description: Static libraries for luajit
   Homepage: https://luajit.org/
 - Package: luarocks
@@ -7851,7 +7851,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 29.35.3
+  Version: 29.36.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: oidn
