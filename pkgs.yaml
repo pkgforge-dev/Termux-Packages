@@ -811,7 +811,7 @@
   Description: Multi-shell multi-command argument completer
   Homepage: https://carapace.sh/
 - Package: cargo-binstall
-  Version: 1.21.0
+  Version: 1.21.1
   Description: Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem
   Homepage: https://github.com/cargo-bins/cargo-binstall
 - Package: cargo-c
@@ -2111,7 +2111,7 @@
   Description: C library for doing number theory
   Homepage: http://www.flintlib.org
 - Package: fluidsynth
-  Version: 2.5.6
+  Version: 2.5.7
   Description: Software synthesizer based on the SoundFont 2 specifications
   Homepage: https://github.com/FluidSynth/fluidsynth
 - Package: flyctl
@@ -3439,7 +3439,7 @@
   Description: Key directory that maps social media identities to encryption keys
   Homepage: https://keybase.io
 - Package: keychain
-  Version: 2.9.8-1
+  Version: 3.0.0-1
   Description: Keychain manager for ssh-agent and gpg-agent
   Homepage: https://kernel-seeds.org/projects/keychain/
 - Package: kibi
@@ -4595,7 +4595,7 @@
   Description: Static libraries for libhyphen
   Homepage: https://github.com/hunspell/hyphen
 - Package: libical
-  Version: 4.0.3
+  Version: 4.0.4
   Description: Libical is an Open Source implementation of the iCalendar protocols and protocol data units
   Homepage: https://libical.github.io/libical/
 - Package: libice
@@ -7611,7 +7611,7 @@
   Description: Minimal, efficient, statically-typed and meta-programmable systems programming language
   Homepage: https://nelua.io
 - Package: neocmakelsp
-  Version: 0.10.4
+  Version: 0.11.0
   Description: a cmake lsp based on tower-lsp and treesitter
   Homepage: https://neocmakelsp.github.io/
 - Package: neofetch

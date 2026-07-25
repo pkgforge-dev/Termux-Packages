@@ -1219,7 +1219,7 @@
   },
   {
     "Package": "cargo-binstall",
-    "Version": "1.21.0",
+    "Version": "1.21.1",
     "Description": "Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem",
     "Homepage": "https://github.com/cargo-bins/cargo-binstall"
   },
@@ -3169,7 +3169,7 @@
   },
   {
     "Package": "fluidsynth",
-    "Version": "2.5.6",
+    "Version": "2.5.7",
     "Description": "Software synthesizer based on the SoundFont 2 specifications",
     "Homepage": "https://github.com/FluidSynth/fluidsynth"
   },
@@ -5161,7 +5161,7 @@
   },
   {
     "Package": "keychain",
-    "Version": "2.9.8-1",
+    "Version": "3.0.0-1",
     "Description": "Keychain manager for ssh-agent and gpg-agent",
     "Homepage": "https://kernel-seeds.org/projects/keychain/"
   },
@@ -6895,7 +6895,7 @@
   },
   {
     "Package": "libical",
-    "Version": "4.0.3",
+    "Version": "4.0.4",
     "Description": "Libical is an Open Source implementation of the iCalendar protocols and protocol data units",
     "Homepage": "https://libical.github.io/libical/"
   },
@@ -11419,7 +11419,7 @@
   },
   {
     "Package": "neocmakelsp",
-    "Version": "0.10.4",
+    "Version": "0.11.0",
     "Description": "a cmake lsp based on tower-lsp and treesitter",
     "Homepage": "https://neocmakelsp.github.io/"
   },
