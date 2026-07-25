@@ -433,7 +433,7 @@
   },
   {
     "Package": "artalk",
-    "Version": "2.9.1-1",
+    "Version": "2.10.0",
     "Description": "A self-hosted comment system",
     "Homepage": "https://artalk.js.org/"
   },
@@ -6169,7 +6169,7 @@
   },
   {
     "Package": "libdisplay-info",
-    "Version": "0.3.0",
+    "Version": "0.4.0",
     "Description": "EDID and DisplayID library",
     "Homepage": "https://emersion.pages.freedesktop.org/libdisplay-info/"
   },
@@ -7177,13 +7177,13 @@
   },
   {
     "Package": "libkokkos",
-    "Version": "5.1.1",
+    "Version": "5.2.0",
     "Description": "Implements a programming model in C++ for writing performance portable applications",
     "Homepage": "https://github.com/kokkos"
   },
   {
     "Package": "libkokkos-static",
-    "Version": "5.1.1",
+    "Version": "5.2.0",
     "Description": "Static libraries for libkokkos",
     "Homepage": "https://github.com/kokkos"
   },
@@ -8797,19 +8797,19 @@
   },
   {
     "Package": "libsqlite",
-    "Version": "3.53.3",
+    "Version": "3.53.4",
     "Description": "Library implementing a self-contained and transactional SQL database engine",
     "Homepage": "https://www.sqlite.org"
   },
   {
     "Package": "libsqlite-static",
-    "Version": "3.53.3",
+    "Version": "3.53.4",
     "Description": "Static libraries for libsqlite",
     "Homepage": "https://www.sqlite.org"
   },
   {
     "Package": "libsqlite-tcl",
-    "Version": "3.53.3",
+    "Version": "3.53.4",
     "Description": "tcl bindings for SQLite",
     "Homepage": "https://www.sqlite.org"
   },
@@ -10843,7 +10843,7 @@
   },
   {
     "Package": "miniflux",
-    "Version": "2.3.2",
+    "Version": "2.3.3",
     "Description": "A minimalist and opinionated feed reader",
     "Homepage": "https://miniflux.app/"
   },
@@ -14749,7 +14749,7 @@
   },
   {
     "Package": "sqlite",
-    "Version": "3.53.3",
+    "Version": "3.53.4",
     "Description": "Command line shell for SQLite",
     "Homepage": "https://www.sqlite.org"
   },
@@ -16435,7 +16435,7 @@
   },
   {
     "Package": "vim",
-    "Version": "9.2.0800",
+    "Version": "9.2.0850",
     "Description": "Vi IMproved - enhanced vi editor",
     "Homepage": "https://www.vim.org"
   },
@@ -17023,7 +17023,7 @@
   },
   {
     "Package": "xxd",
-    "Version": "9.2.0800",
+    "Version": "9.2.0850",
     "Description": "Hexdump utility from vim",
     "Homepage": "https://www.vim.org"
   },
