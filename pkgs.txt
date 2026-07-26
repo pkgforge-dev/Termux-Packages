@@ -26,7 +26,7 @@
  aidl  16.0.0.4-1  Android Interface Definition Language (AIDL)  https://github.com/termux/android-build-tools 
  alass  2.0.0-4  Automatic Language-Agnostic Subtitle Synchronization  https://github.com/kaegi/alass 
  alembic  1.8.12  A framework for sharing scene data that includes a C++ lib, a file format and client plugin  https://alembic.io 
- algernon  1.17.10  Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support  https://algernon.roboticoverlords.org/ 
+ algernon  1.17.11  Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support  https://algernon.roboticoverlords.org/ 
  alpine  2.26-1  Fast, easy to use email client  http://alpine.x10host.com/ 
  alsa-lib  1.2.16.1  The Advanced Linux Sound Architecture (ALSA) - library  https://www.alsa-project.org 
  alsa-plugins  1.2.12-1  The Advanced Linux Sound Architecture (ALSA) - plugins  https://www.alsa-project.org 
@@ -1623,8 +1623,8 @@
  libxmlb  0.3.28  Library to help create and query binary XML blobs  https://github.com/hughsie/libxmlb 
  libxmlrpc  1.64.03-1  XML-RPC for C and C++  https://xmlrpc-c.sourceforge.io/ 
  libxmlrpc-static  1.64.03-1  Static libraries for libxmlrpc  https://xmlrpc-c.sourceforge.io/ 
- libxmp  4.7.1  Extended Module Player C Library that renders tracker and module music (MOD, S3M, IT, XM etc.)  https://github.com/libxmp/libxmp 
- libxmp-static  4.7.1  Static libraries for libxmp  https://github.com/libxmp/libxmp 
+ libxmp  4.7.2  Extended Module Player C Library that renders tracker and module music (MOD, S3M, IT, XM etc.)  https://github.com/libxmp/libxmp 
+ libxmp-static  4.7.2  Static libraries for libxmp  https://github.com/libxmp/libxmp 
  libxrandr  1.5.5  X11 RandR extension library  https://xorg.freedesktop.org/ 
  libxrandr-static  1.5.5  Static libraries for libxrandr  https://xorg.freedesktop.org/ 
  libxrender  0.9.12-1  X Rendering Extension client library  https://xorg.freedesktop.org/ 
@@ -1829,7 +1829,7 @@
  mono-static  6.14.1-2  Static libraries for mono  https://gitlab.winehq.org/mono/mono 
  monolith  2.10.1-1  CLI tool for saving complete web pages as a single HTML file  https://github.com/Y2Z/monolith 
  moon-buggy  1.1.0  Simple game where you drive a car across the moon's surface  https://www.seehuhn.de/programs/moon-buggy 
- moor  2.15.1-1  A pager designed to just do the right thing without any configuration  https://github.com/walles/moor 
+ moor  2.15.2  A pager designed to just do the right thing without any configuration  https://github.com/walles/moor 
  mop  2025.03.17-1  Stock market tracker  https://github.com/mop-tracker/mop 
  moreutils  0.70-1  A growing collection of the unix tools that nobody thought to write thirty years ago  https://joeyh.name/code/moreutils/ 
  moria  5.7.15-7  Rogue-like game with an infinite dungeon  https://umoria.org 
@@ -2180,7 +2180,7 @@
  pyrefly  1.1.1  A fast type checker and language server for Python  https://github.com/facebook/pyrefly.git 
  pystring  1.1.4-1  C++ functions matching the interface and behavior of python string methods with std::string  https://github.com/imageworks/pystring 
  python  3.14.6-1  Python 3 programming language intended to enable clear programs  https://python.org/ 
- python-apsw  3.53.3.1  Another Python SQLite Wrapper  https://rogerbinns.github.io/apsw/ 
+ python-apsw  3.53.4.0  Another Python SQLite Wrapper  https://rogerbinns.github.io/apsw/ 
  python-apt  3.1.0-2  Python bindings for APT  https://apt-team.pages.debian.net/python-apt/ 
  python-bcrypt  5.0.0-3  Acceptable password hashing for your software and your servers  https://github.com/pyca/bcrypt 
  python-brotli  1.2.0-2  lossless compression algorithm and format (Python bindings)  https://github.com/google/brotli 
@@ -2820,7 +2820,7 @@
  xdg-user-dirs  0.20  Manage user directories like ~/Desktop and ~/Music  https://www.freedesktop.org/wiki/Software/xdg-user-dirs 
  xerces-c  3.3.0  Validating XML parser library for C++.  https://xerces.apache.org/ 
  xerces-c-static  3.3.0  Static libraries for xerces-c  https://xerces.apache.org/ 
- xh  0.26.1-1  A friendly and fast tool for sending HTTP requests  https://github.com/ducaale/xh 
+ xh  0.26.2  A friendly and fast tool for sending HTTP requests  https://github.com/ducaale/xh 
  xmake  3.0.9  A cross-platform build utility based on Lua  https://xmake.io/ 
  xmlsec  1.3.12  XML Security Library  https://www.aleksey.com/xmlsec/ 
  xmlsec-static  1.3.12  Static libraries for xmlsec  https://www.aleksey.com/xmlsec/ 
@@ -2867,7 +2867,7 @@
  zile  2.6.4-3  Lightweight clone of the Emacs text editor  https://www.gnu.org/software/zile/ 
  zip  3.0-7  Tools for working with zip files  https://sourceforge.net/projects/infozip/ 
  zipios  2.3.4  A small C++ library for reading and writing zip files  https://zipios.sourceforge.io/ 
- zk  0.15.5  A plain text note-taking assistant  https://zk-org.github.io/zk/ 
+ zk  0.15.6  A plain text note-taking assistant  https://zk-org.github.io/zk/ 
  zlib  1.3.2  Compression library implementing the deflate compression method found in gzip and PKZIP  https://www.zlib.net/ 
  zlib-static  1.3.2  Static libraries for zlib  https://www.zlib.net/ 
  zls  0.16.0  Zig language server  https://github.com/zigtools/zls 

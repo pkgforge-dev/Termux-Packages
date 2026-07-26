@@ -111,7 +111,7 @@
   Description: A framework for sharing scene data that includes a C++ lib, a file format and client plugin
   Homepage: https://alembic.io
 - Package: algernon
-  Version: 1.17.10
+  Version: 1.17.11
   Description: Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support
   Homepage: https://algernon.roboticoverlords.org/
 - Package: alpine
@@ -6499,11 +6499,11 @@
   Description: Static libraries for libxmlrpc
   Homepage: https://xmlrpc-c.sourceforge.io/
 - Package: libxmp
-  Version: 4.7.1
+  Version: 4.7.2
   Description: Extended Module Player C Library that renders tracker and module music (MOD, S3M, IT, XM etc.)
   Homepage: https://github.com/libxmp/libxmp
 - Package: libxmp-static
-  Version: 4.7.1
+  Version: 4.7.2
   Description: Static libraries for libxmp
   Homepage: https://github.com/libxmp/libxmp
 - Package: libxrandr
@@ -7323,7 +7323,7 @@
   Description: Simple game where you drive a car across the moons surface
   Homepage: https://www.seehuhn.de/programs/moon-buggy
 - Package: moor
-  Version: 2.15.1-1
+  Version: 2.15.2
   Description: A pager designed to just do the right thing without any configuration
   Homepage: https://github.com/walles/moor
 - Package: mop
@@ -8727,7 +8727,7 @@
   Description: Python 3 programming language intended to enable clear programs
   Homepage: https://python.org/
 - Package: python-apsw
-  Version: 3.53.3.1
+  Version: 3.53.4.0
   Description: Another Python SQLite Wrapper
   Homepage: https://rogerbinns.github.io/apsw/
 - Package: python-apt
@@ -11287,7 +11287,7 @@
   Description: Static libraries for xerces-c
   Homepage: https://xerces.apache.org/
 - Package: xh
-  Version: 0.26.1-1
+  Version: 0.26.2
   Description: A friendly and fast tool for sending HTTP requests
   Homepage: https://github.com/ducaale/xh
 - Package: xmake
@@ -11475,7 +11475,7 @@
   Description: A small C++ library for reading and writing zip files
   Homepage: https://zipios.sourceforge.io/
 - Package: zk
-  Version: 0.15.5
+  Version: 0.15.6
   Description: A plain text note-taking assistant
   Homepage: https://zk-org.github.io/zk/
 - Package: zlib
