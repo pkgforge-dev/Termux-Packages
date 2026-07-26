@@ -2713,7 +2713,7 @@
   },
   {
     "Package": "elinks",
-    "Version": "0.19.1",
+    "Version": "0.20.0",
     "Description": "Full-Featured Text WWW Browser",
     "Homepage": "https://github.com/rkd77/elinks"
   },
@@ -7789,25 +7789,25 @@
   },
   {
     "Package": "libnghttp3",
-    "Version": "1.17.0",
+    "Version": "1.18.0",
     "Description": "HTTP/3 library written in C",
     "Homepage": "https://nghttp2.org/nghttp3/"
   },
   {
     "Package": "libnghttp3-static",
-    "Version": "1.17.0",
+    "Version": "1.18.0",
     "Description": "Static libraries for libnghttp3",
     "Homepage": "https://nghttp2.org/nghttp3/"
   },
   {
     "Package": "libngtcp2",
-    "Version": "1.24.0",
+    "Version": "1.25.0",
     "Description": "Implementation of IETF QUIC protocol",
     "Homepage": "https://github.com/ngtcp2/ngtcp2"
   },
   {
     "Package": "libngtcp2-static",
-    "Version": "1.24.0",
+    "Version": "1.25.0",
     "Description": "Static libraries for libngtcp2",
     "Homepage": "https://github.com/ngtcp2/ngtcp2"
   },
