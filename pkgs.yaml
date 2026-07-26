@@ -15,7 +15,7 @@
   Description: Allows you to use services provided by IPv6 hosts with IPv4-only applications and vice-versa
   Homepage: https://github.com/wojtekka/6tunnel
 - Package: 7zip
-  Version: "26.02"
+  Version: 26.02-1
   Description: 7-Zip file archiver with a high compression ratio
   Homepage: https://www.7-zip.org
 - Package: 8086tiny
@@ -399,7 +399,7 @@
   Description: The minimal Erlang VM implementation
   Homepage: https://github.com/bettio/AtomVM
 - Package: atool
-  Version: 0.39.0-2
+  Version: 0.39.0-3
   Description: tool for managing file archives of various types
   Homepage: https://www.nongnu.org/atool
 - Package: attr
@@ -1115,7 +1115,7 @@
   Description: Tool to colorize diff output
   Homepage: https://www.colordiff.org/
 - Package: command-not-found
-  Version: 3.5.0-3
+  Version: 3.5.0-4
   Description: Suggest installation of packages in interactive shell sessions
   Homepage: https://github.com/termux/command-not-found
 - Package: composer
@@ -3547,7 +3547,7 @@
   Description: Terminal pager program used to view the contents of a text file one screen at a time
   Homepage: https://www.greenwoodsoftware.com/less/
 - Package: lesspipe
-  Version: "2.27"
+  Version: 2.27-1
   Description: An input filter for the pager less
   Homepage: https://lesspipe.org/
 - Package: leveldb
@@ -9443,7 +9443,7 @@
   Description: A custom system info fetching tool
   Homepage: https://github.com/Mangeshrex/rxfetch
 - Package: sabnzbd
-  Version: 5.0.4
+  Version: 5.0.4-1
   Description: Fully automated Usenet Binary Downloader
   Homepage: https://sabnzbd.org/
 - Package: samba
