@@ -6851,7 +6851,7 @@
   Description: Static libraries for lua55
   Homepage: https://www.lua.org/
 - Package: luajit
-  Version: 1:2.1.1784902473+g346ab58
+  Version: 1:2.1.1785005726+ga471ab7
   Description: Just-In-Time Compiler for Lua
   Homepage: https://luajit.org/
 - Package: luajit-lgi
@@ -6859,7 +6859,7 @@
   Description: Dynamic Lua binding to GObject libraries using GObject-Introspection
   Homepage: https://github.com/lgi-devs/lgi
 - Package: luajit-static
-  Version: 1:2.1.1784902473+g346ab58
+  Version: 1:2.1.1785005726+ga471ab7
   Description: Static libraries for luajit
   Homepage: https://luajit.org/
 - Package: luarocks
