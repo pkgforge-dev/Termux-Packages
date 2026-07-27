@@ -2899,7 +2899,7 @@
   Description: Tools using the harfbuzz library
   Homepage: https://www.freedesktop.org/wiki/Software/HarfBuzz/
 - Package: harper
-  Version: 2.6.0
+  Version: 2.6.0-1
   Description: Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
   Homepage: https://writewithharper.com/
 - Package: hash-slinger
@@ -10902,8 +10902,12 @@
   Version: 3.15.2
   Description: A syntax-aware linter for prose built with speed and extensibility in mind
   Homepage: https://vale.sh
+- Package: valkey
+  Version: 9.1.1-1
+  Description: In-memory data structure store used as a database, cache and message broker
+  Homepage: https://valkey.io/
 - Package: valkey-static
-  Version: 9.1.1
+  Version: 9.1.1-1
   Description: Static libraries for valkey
   Homepage: https://valkey.io/
 - Package: vamp-plugin-sdk

@@ -4351,7 +4351,7 @@
   },
   {
     "Package": "harper",
-    "Version": "2.6.0",
+    "Version": "2.6.0-1",
     "Description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
     "Homepage": "https://writewithharper.com/"
   },
@@ -16356,8 +16356,14 @@
     "Homepage": "https://vale.sh"
   },
   {
+    "Package": "valkey",
+    "Version": "9.1.1-1",
+    "Description": "In-memory data structure store used as a database, cache and message broker",
+    "Homepage": "https://valkey.io/"
+  },
+  {
     "Package": "valkey-static",
-    "Version": "9.1.1",
+    "Version": "9.1.1-1",
     "Description": "Static libraries for valkey",
     "Homepage": "https://valkey.io/"
   },

@@ -735,7 +735,7 @@
 | **harfbuzz** | 14.2.1 | OpenType text shaping engine | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
 | **harfbuzz-icu** | 14.2.1 | OpenType text shaping engine ICU backend | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
 | **harfbuzz-utils** | 14.2.1 | Tools using the harfbuzz library | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
-| **harper** | 2.6.0 | Offline, privacy-first grammar checker. Fast, open-source, Rust-powered | https://writewithharper.com/ |
+| **harper** | 2.6.0-1 | Offline, privacy-first grammar checker. Fast, open-source, Rust-powered | https://writewithharper.com/ |
 | **hash-slinger** | 3.6 | Various tools to generate special DNS records | https://github.com/letoams/hash-slinger |
 | **hashdeep** | 4.4-9 | Programs to compute hashsums of arbitrary number of files recursively | https://md5deep.sourceforge.net/ |
 | **hcl** | 2.24.0-1 | A toolkit for creating structured configuration languages | https://github.com/hashicorp/hcl |
@@ -2736,7 +2736,8 @@
 | **valadoc** | 0.56.19 | API documentation generator for vala | https://wiki.gnome.org/Projects/Vala |
 | **valadoc-static** | 0.56.19 | Static libraries for valadoc | https://wiki.gnome.org/Projects/Vala |
 | **vale** | 3.15.2 | A syntax-aware linter for prose built with speed and extensibility in mind | https://vale.sh |
-| **valkey-static** | 9.1.1 | Static libraries for valkey | https://valkey.io/ |
+| **valkey** | 9.1.1-1 | In-memory data structure store used as a database, cache and message broker | https://valkey.io/ |
+| **valkey-static** | 9.1.1-1 | Static libraries for valkey | https://valkey.io/ |
 | **vamp-plugin-sdk** | 2.10-3 | An API for audio analysis and feature extraction plugins | https://www.vamp-plugins.org/ |
 | **vamp-plugin-sdk-static** | 2.10-3 | Static libraries for vamp-plugin-sdk | https://www.vamp-plugins.org/ |
 | **vapoursynth** | 73-2 | Video processing framework with simplicity in mind | https://www.vapoursynth.com/ |
