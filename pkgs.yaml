@@ -3443,7 +3443,7 @@
   Description: Key directory that maps social media identities to encryption keys
   Homepage: https://keybase.io
 - Package: keychain
-  Version: 3.0.0-1
+  Version: 3.0.1
   Description: Keychain manager for ssh-agent and gpg-agent
   Homepage: https://kernel-seeds.org/projects/keychain/
 - Package: kibi
@@ -7631,7 +7631,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-1124+gd57cf6b4fc-0
+  Version: 0.13.0~dev-1133+g7f8175dc48-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -11143,11 +11143,11 @@
   Description: Pluggable Transport based on HTTP Upgrade(HTTPT)
   Homepage: https://torproject.org/
 - Package: weechat
-  Version: 4.9.4
+  Version: 4.9.5
   Description: Fast, light and extensible IRC chat client
   Homepage: https://weechat.org/
 - Package: weechat-lua-plugin
-  Version: 4.9.4
+  Version: 4.9.5
   Description: WeeChat Lua Plugin
   Homepage: https://weechat.org/
 - Package: weechat-matrix-rs
@@ -11155,15 +11155,15 @@
   Description: Rust rewrite of the python weechat-matrix script
   Homepage: https://github.com/poljar/weechat-matrix-rs
 - Package: weechat-perl-plugin
-  Version: 4.9.4
+  Version: 4.9.5
   Description: WeeChat Perl Plugin
   Homepage: https://weechat.org/
 - Package: weechat-python-plugin
-  Version: 4.9.4
+  Version: 4.9.5
   Description: WeeChat Python3 Plugin
   Homepage: https://weechat.org/
 - Package: weechat-ruby-plugin
-  Version: 4.9.4
+  Version: 4.9.5
   Description: WeeChat Ruby Plugin
   Homepage: https://weechat.org/
 - Package: weggli
