@@ -827,11 +827,11 @@
   Description: Build tool for the Rust framework Leptos
   Homepage: https://github.com/leptos-rs/cargo-leptos
 - Package: catch2
-  Version: 3.15.2
+  Version: 3.15.3
   Description: A modern, C++-native, header-only, framework for unit-tests, TDD and BDD
   Homepage: https://github.com/catchorg/catch2
 - Package: catch2-static
-  Version: 3.15.2
+  Version: 3.15.3
   Description: Static libraries for catch2
   Homepage: https://github.com/catchorg/catch2
 - Package: catdoc
@@ -2898,6 +2898,10 @@
   Version: 14.2.1
   Description: Tools using the harfbuzz library
   Homepage: https://www.freedesktop.org/wiki/Software/HarfBuzz/
+- Package: harper
+  Version: 2.6.0
+  Description: Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
+  Homepage: https://writewithharper.com/
 - Package: hash-slinger
   Version: "3.6"
   Description: Various tools to generate special DNS records

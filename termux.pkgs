@@ -205,8 +205,8 @@
 | **cargo-c** | 0.10.24 | Cargo C-ABI helpers | https://github.com/lu-zero/cargo-c |
 | **cargo-cache** | 0.8.3 | Tool to manage cargo cache | https://github.com/matthiaskrgr/cargo-cache |
 | **cargo-leptos** | 0.3.7 | Build tool for the Rust framework Leptos | https://github.com/leptos-rs/cargo-leptos |
-| **catch2** | 3.15.2 | A modern, C++-native, header-only, framework for unit-tests, TDD and BDD | https://github.com/catchorg/catch2 |
-| **catch2-static** | 3.15.2 | Static libraries for catch2 | https://github.com/catchorg/catch2 |
+| **catch2** | 3.15.3 | A modern, C++-native, header-only, framework for unit-tests, TDD and BDD | https://github.com/catchorg/catch2 |
+| **catch2-static** | 3.15.3 | Static libraries for catch2 | https://github.com/catchorg/catch2 |
 | **catdoc** | 0.95-2 | Program which reads MS-Word file and prints readable ASCII text to stdout | http://www.wagner.pp.ru/~vitus/software/catdoc/ |
 | **catgirl** | 2.2a-1 | A TLS-only terminal IRC client | https://git.causal.agency/catgirl |
 | **catimg** | 2.8.0 | Renders images in the terminal | https://posva.net/shell/retro/bash/2013/05/27/catimg |
@@ -723,6 +723,7 @@
 | **harfbuzz** | 14.2.1 | OpenType text shaping engine | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
 | **harfbuzz-icu** | 14.2.1 | OpenType text shaping engine ICU backend | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
 | **harfbuzz-utils** | 14.2.1 | Tools using the harfbuzz library | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
+| **harper** | 2.6.0 | Offline, privacy-first grammar checker. Fast, open-source, Rust-powered | https://writewithharper.com/ |
 | **hash-slinger** | 3.6 | Various tools to generate special DNS records | https://github.com/letoams/hash-slinger |
 | **hashdeep** | 4.4-9 | Programs to compute hashsums of arbitrary number of files recursively | https://md5deep.sourceforge.net/ |
 | **hcl** | 2.24.0-1 | A toolkit for creating structured configuration languages | https://github.com/hashicorp/hcl |
