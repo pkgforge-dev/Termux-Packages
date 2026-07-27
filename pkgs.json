@@ -25,7 +25,7 @@
   },
   {
     "Package": "7zip",
-    "Version": "26.02-1",
+    "Version": "26.02-2",
     "Description": "7-Zip file archiver with a high compression ratio",
     "Homepage": "https://www.7-zip.org"
   },
@@ -2527,7 +2527,7 @@
   },
   {
     "Package": "dropbear",
-    "Version": "2026.91",
+    "Version": "2026.94",
     "Description": "Small SSH server and client",
     "Homepage": "https://matt.ucc.asn.au/dropbear/dropbear.html"
   },
@@ -4243,7 +4243,7 @@
   },
   {
     "Package": "gst-plugins-bad",
-    "Version": "1.28.5",
+    "Version": "1.28.5-1",
     "Description": "GStreamer Bad Plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
@@ -8826,6 +8826,12 @@
     "Homepage": "https://github.com/Haivision/srt"
   },
   {
+    "Package": "libsrtp",
+    "Version": "2.8.0",
+    "Description": "Library for SRTP (Secure Realtime Transport Protocol)",
+    "Homepage": "https://github.com/cisco/libsrtp"
+  },
+  {
     "Package": "libssh",
     "Version": "0.12.1",
     "Description": "Tiny C SSH library",
@@ -9739,7 +9745,7 @@
   },
   {
     "Package": "libxmlb",
-    "Version": "0.3.28",
+    "Version": "0.3.29",
     "Description": "Library to help create and query binary XML blobs",
     "Homepage": "https://github.com/hughsie/libxmlb"
   },
@@ -12211,13 +12217,13 @@
   },
   {
     "Package": "oxfmt",
-    "Version": "1.75.0",
+    "Version": "1.76.0",
     "Description": "Oxc JavaScript formatter",
     "Homepage": "https://oxc.rs/"
   },
   {
     "Package": "oxlint",
-    "Version": "1.75.0",
+    "Version": "1.76.0",
     "Description": "Oxc JavaScript linter",
     "Homepage": "https://oxc.rs/"
   },
@@ -15049,13 +15055,13 @@
   },
   {
     "Package": "suitesparse",
-    "Version": "2:7.12.2",
+    "Version": "2:7.12.3",
     "Description": "A Suite of Sparse matrix packages.",
     "Homepage": "https://github.com/DrTimothyAldenDavis/SuiteSparse"
   },
   {
     "Package": "suitesparse-static",
-    "Version": "2:7.12.2",
+    "Version": "2:7.12.3",
     "Description": "Static libraries for suitesparse",
     "Homepage": "https://github.com/DrTimothyAldenDavis/SuiteSparse"
   },
@@ -16063,7 +16069,7 @@
   },
   {
     "Package": "ty",
-    "Version": "0.0.63",
+    "Version": "0.0.64",
     "Description": "An extremely fast Python type checker and language server, written in Rust",
     "Homepage": "https://github.com/astral-sh/ty"
   },
@@ -16603,7 +16609,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "2.22.2",
+    "Version": "2.23.0",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },
