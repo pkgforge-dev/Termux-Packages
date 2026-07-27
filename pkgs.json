@@ -4758,6 +4758,12 @@
     "Homepage": "https://www.gnu.org/software/indent/"
   },
   {
+    "Package": "indi",
+    "Version": "2.2.3.1",
+    "Description": "Astronomical instrumentation control",
+    "Homepage": "https://www.indilib.org"
+  },
+  {
     "Package": "inetutils",
     "Version": "2.7",
     "Description": "Collection of common network programs",
@@ -7843,13 +7849,13 @@
   },
   {
     "Package": "libnova",
-    "Version": "0.16-1",
+    "Version": "0.16-2",
     "Description": "A general purpose, double precision, Celestial Mechanics, Astrometry and Astrodynamics library",
     "Homepage": "https://libnova.sourceforge.net"
   },
   {
     "Package": "libnova-static",
-    "Version": "0.16-1",
+    "Version": "0.16-2",
     "Description": "Static libraries for libnova",
     "Homepage": "https://libnova.sourceforge.net"
   },
@@ -9700,6 +9706,12 @@
     "Version": "1.8.3",
     "Description": "Static libraries for libxi",
     "Homepage": "https://xorg.freedesktop.org/"
+  },
+  {
+    "Package": "libxisf",
+    "Version": "0.2.13",
+    "Description": "Library to load and save XISF images",
+    "Homepage": "https://nouspiro.space"
   },
   {
     "Package": "libxls",
