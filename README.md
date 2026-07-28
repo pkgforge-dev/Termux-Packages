@@ -252,7 +252,7 @@
 | **chntpw** | 140201 | Offline Windows NT Password & Registry Editor | https://pogostick.net/~pnh/ntpasswd/ |
 | **choose** | 1.3.7 | A human-friendly and fast alternative to cut and (sometimes) awk | https://github.com/theryangeary/choose |
 | **chroma-visualizer** | 0.0.0+g3c32e7d | Shader-based audio visualizer for the terminal | https://github.com/yuri-xyz/chroma.git |
-| **chromaprint** | 1.6.0-1 | C library for generating audio fingerprints used by AcoustID (fpcalc tool) | https://acoustid.org/chromaprint |
+| **chromaprint** | 1.6.1 | C library for generating audio fingerprints used by AcoustID (fpcalc tool) | https://acoustid.org/chromaprint |
 | **chrony** | 4.8 | chrony is an implementation of the Network Time Protocol (NTP) | https://chrony-project.org/ |
 | **cicada** | 1.2.2 | A bash like Unix shell | https://github.com/mitnk/cicada |
 | **ciso** | 1.0.2-2 | PSP ISO compression tool | https://github.com/jamie/ciso |
@@ -998,7 +998,7 @@
 | **libcec-static** | 8.1.1 | Static libraries for libcec | https://libcec.pulse-eight.com/ |
 | **libceres-solver** | 2.2.0-4 | C++ library for modeling and solving large, complicated optimization problems | http://ceres-solver.org |
 | **libchipmunk** | 7.0.3-2 | A fast and lightweight 2D game physics library | http://chipmunk2d.net |
-| **libchromaprint** | 1.6.0-1 | C library for generating audio fingerprints used by AcoustID | https://acoustid.org/chromaprint |
+| **libchromaprint** | 1.6.1 | C library for generating audio fingerprints used by AcoustID | https://acoustid.org/chromaprint |
 | **libclc** | 21.1.3-1 | Open source implementation of the library requirements of the OpenCL C programming language | https://libclc.llvm.org/ |
 | **libcln** | 1.3.7-1 | CLN is a library for efficient computations with all kinds of numbers in arbitrary precision | https://www.ginac.de/CLN/ |
 | **libcln-static** | 1.3.7-1 | Static libraries for libcln | https://www.ginac.de/CLN/ |
@@ -1921,7 +1921,7 @@
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20260616 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.12.4 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
-| **neovim-nightly** | 0.13.0~dev-1133+g7f8175dc48-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
+| **neovim-nightly** | 0.13.0~dev-1141+ge3c5974adf-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
 | **nerdfix** | 0.4.2-1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.5.2 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.5.2 | Static libraries for net-snmp | http://www.net-snmp.org/ |
@@ -1977,7 +1977,7 @@
 | **octomap** | 1.10.0-1 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0-1 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-5 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 29.36.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 29.36.1 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **oidn** | 2.4.1 | Intel® Open Image Denoise library | https://www.openimagedenoise.org |
 | **okc-agents** | 0.1.2-2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.7 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
@@ -2281,7 +2281,7 @@
 | **rage** | 0.11.2 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4-1 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4-1 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
-| **railway-cli** | 5.30.0 | This is the command line interface for Railway | https://railway.app |
+| **railway-cli** | 5.30.1 | This is the command line interface for Railway | https://railway.app |
 | **range-v3** | 0.12.0 | Range library for C++14/17/20, basis for C++20's std::ranges | https://github.com/ericniebler/range-v3 |
 | **ranger** | 1.9.4-2 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-7 | Fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |
@@ -2558,7 +2558,7 @@
 | **tcsh** | 6.24.16-1 | TENEX C Shell, an enhanced version of Berkeley csh | https://www.tcsh.org |
 | **tdb-tools** | 1.4.15 | Tools for TDB | https://tdb.samba.org/ |
 | **tdl** | 0.20.3 | Telegram downloader/tools written in Golang | https://docs.iyear.me/tdl/ |
-| **tea** | 0.14.2 | The official CLI for Gitea | https://gitea.com/gitea/tea |
+| **tea** | 0.15.0 | The official CLI for Gitea | https://gitea.com/gitea/tea |
 | **tealdeer** | 1.8.1 | A very fast implementation of tldr in Rust | https://tealdeer-rs.github.io/tealdeer/ |
 | **teckit** | 2.5.13 | TECkit is a library for encoding conversion | https://scripts.sil.org/teckitdownloads |
 | **teckit-static** | 2.5.13 | Static libraries for teckit | https://scripts.sil.org/teckitdownloads |

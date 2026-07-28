@@ -967,7 +967,7 @@
   Description: Shader-based audio visualizer for the terminal
   Homepage: https://github.com/yuri-xyz/chroma.git
 - Package: chromaprint
-  Version: 1.6.0-1
+  Version: 1.6.1
   Description: C library for generating audio fingerprints used by AcoustID (fpcalc tool)
   Homepage: https://acoustid.org/chromaprint
 - Package: chrony
@@ -3951,7 +3951,7 @@
   Description: A fast and lightweight 2D game physics library
   Homepage: http://chipmunk2d.net
 - Package: libchromaprint
-  Version: 1.6.0-1
+  Version: 1.6.1
   Description: C library for generating audio fingerprints used by AcoustID
   Homepage: https://acoustid.org/chromaprint
 - Package: libclc
@@ -7643,7 +7643,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-1133+g7f8175dc48-0
+  Version: 0.13.0~dev-1141+ge3c5974adf-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -7867,7 +7867,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 29.36.0
+  Version: 29.36.1
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: oidn
@@ -9083,7 +9083,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 5.30.0
+  Version: 5.30.1
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
@@ -10191,7 +10191,7 @@
   Description: Telegram downloader/tools written in Golang
   Homepage: https://docs.iyear.me/tdl/
 - Package: tea
-  Version: 0.14.2
+  Version: 0.15.0
   Description: The official CLI for Gitea
   Homepage: https://gitea.com/gitea/tea
 - Package: tealdeer
