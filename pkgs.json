@@ -1789,7 +1789,7 @@
   },
   {
     "Package": "croc",
-    "Version": "1:10.6.0",
+    "Version": "1:10.7.0",
     "Description": "Easily and securely send things from one computer to another",
     "Homepage": "https://github.com/schollz/croc"
   },
@@ -8839,7 +8839,7 @@
   },
   {
     "Package": "libssh",
-    "Version": "0.12.1",
+    "Version": "0.12.2",
     "Description": "Tiny C SSH library",
     "Homepage": "https://www.libssh.org/"
   },
@@ -10303,7 +10303,7 @@
   },
   {
     "Package": "luajit",
-    "Version": "1:2.1.1785005726+ga471ab7",
+    "Version": "1:2.1.1785192264+gfaaf663",
     "Description": "Just-In-Time Compiler for Lua",
     "Homepage": "https://luajit.org/"
   },
@@ -10315,7 +10315,7 @@
   },
   {
     "Package": "luajit-static",
-    "Version": "1:2.1.1785005726+ga471ab7",
+    "Version": "1:2.1.1785192264+gfaaf663",
     "Description": "Static libraries for luajit",
     "Homepage": "https://luajit.org/"
   },
@@ -10357,7 +10357,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.39.4",
+    "Version": "0.39.5",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://lux.lumen-labs.org"
   },
@@ -12937,7 +12937,7 @@
   },
   {
     "Package": "proot",
-    "Version": "5.1.107.87",
+    "Version": "5.1.107.88",
     "Description": "Emulate chroot, bind mount and binfmt_misc for non-root users",
     "Homepage": "https://proot-me.github.io/"
   },
@@ -14749,7 +14749,7 @@
   },
   {
     "Package": "spirv-headers",
-    "Version": "1.4.350.1",
+    "Version": "1.4.357.0",
     "Description": "SPIR-V Headers",
     "Homepage": "https://github.com/KhronosGroup/SPIRV-Headers"
   },
@@ -14761,7 +14761,7 @@
   },
   {
     "Package": "spirv-tools",
-    "Version": "1.4.350.1",
+    "Version": "1.4.357.0",
     "Description": "SPIR-V Tools",
     "Homepage": "https://github.com/KhronosGroup/SPIRV-Tools"
   },

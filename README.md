@@ -308,7 +308,7 @@
 | **cpufetch** | 1.07-1 | Simple yet fancy CPU architecture fetching tool | https://github.com/Dr-Noob/cpufetch |
 | **cpulimit** | 0.2-2 | CPU usage limiter | https://github.com/opsengine/cpulimit |
 | **crawl** | 0.34.1 | Roguelike adventure through dungeons filled with dangerous monsters | https://crawl.develz.org/ |
-| **croc** | 1:10.6.0 | Easily and securely send things from one computer to another | https://github.com/schollz/croc |
+| **croc** | 1:10.7.0 | Easily and securely send things from one computer to another | https://github.com/schollz/croc |
 | **cronie** | 1.7.2-4 | Daemon that runs specified programs at scheduled times and related tools | https://github.com/cronie-crond/cronie/ |
 | **crowbook** | 0.17.0-1 | Allows you to write a book in Markdown without worrying about formatting or typography | https://github.com/crowdagger/crowbook |
 | **crunch** | 3.6-5 | Highly customizable wordlist generator | https://sourceforge.net/projects/crunch-wordlist/ |
@@ -1483,7 +1483,7 @@
 | **libsqlite-tcl** | 3.53.4 | tcl bindings for SQLite | https://www.sqlite.org |
 | **libsrt** | 1.5.6 | Secure Reliable Transport (SRT) Protocol | https://github.com/Haivision/srt |
 | **libsrtp** | 2.8.0 | Library for SRTP (Secure Realtime Transport Protocol) | https://github.com/cisco/libsrtp |
-| **libssh** | 0.12.1 | Tiny C SSH library | https://www.libssh.org/ |
+| **libssh** | 0.12.2 | Tiny C SSH library | https://www.libssh.org/ |
 | **libssh2** | 1.11.1-2 | Client-side library implementing the SSH2 protocol | https://www.libssh2.org |
 | **libssh2-static** | 1.11.1-2 | Static libraries for libssh2 | https://www.libssh2.org |
 | **libstaroffice** | 0.0.8-1 | filter for old StarOffice documents(.sdc, .sdw, ...) based on librevenge | https://github.com/fosnola/libstaroffice |
@@ -1727,16 +1727,16 @@
 | **lua54-static** | 5.4.8-7 | Static libraries for lua54 | https://www.lua.org/ |
 | **lua55** | 5.5.0-3 | Shared library for the Lua interpreter (v5.5.x) | https://www.lua.org/ |
 | **lua55-static** | 5.5.0-3 | Static libraries for lua55 | https://www.lua.org/ |
-| **luajit** | 1:2.1.1785005726+ga471ab7 | Just-In-Time Compiler for Lua | https://luajit.org/ |
+| **luajit** | 1:2.1.1785192264+gfaaf663 | Just-In-Time Compiler for Lua | https://luajit.org/ |
 | **luajit-lgi** | 0.9.2+p20251219-3 | Dynamic Lua binding to GObject libraries using GObject-Introspection | https://github.com/lgi-devs/lgi |
-| **luajit-static** | 1:2.1.1785005726+ga471ab7 | Static libraries for luajit | https://luajit.org/ |
+| **luajit-static** | 1:2.1.1785192264+gfaaf663 | Static libraries for luajit | https://luajit.org/ |
 | **luarocks** | 3.13.0-1 | Deployment and management system for Lua modules | https://luarocks.org/ |
 | **lunasvg** | 3.5.0-1 | SVG rendering and manipulation library in C++ | https://github.com/sammycage/lunasvg |
 | **luv** | 1.52.1-0-0 | Bare libuv bindings for lua | https://github.com/luvit/luv |
 | **luvi** | 1:2.15.0-2 | A project in-between luv and luvit | https://luvit.io |
 | **luvit** | 2.18.1-1 | Asynchronous I/O for Lua | https://luvit.io |
 | **lux** | 0.24.1-2 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
-| **lux-cli** | 0.39.4 | A package manager for Lua, similar to luarocks | https://lux.lumen-labs.org |
+| **lux-cli** | 0.39.5 | A package manager for Lua, similar to luarocks | https://lux.lumen-labs.org |
 | **lv2** | 1.18.10-7 | A plugin standard for audio systems | https://lv2plug.in/ |
 | **lychee** | 0.24.2 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
 | **lynx** | 2.9.2-1 | The text web browser | http://lynx.browser.org/ |
@@ -2166,7 +2166,7 @@
 | **profanity** | 0.18.2-1 | Profanity is a console based XMPP client written in C using ncurses and libstrophe, inspired by Irssi | https://profanity-im.github.io |
 | **progress** | 0.17-1 | Linux tool to show progress for cp, mv, dd and more | https://github.com/Xfennec/progress |
 | **proj** | 9.8.1 | Generic coordinate transformation software | https://proj.org |
-| **proot** | 5.1.107.87 | Emulate chroot, bind mount and binfmt_misc for non-root users | https://proot-me.github.io/ |
+| **proot** | 5.1.107.88 | Emulate chroot, bind mount and binfmt_misc for non-root users | https://proot-me.github.io/ |
 | **proot-distro** | 5.5.0 | Termux official utility for managing proot'ed Linux distributions | https://github.com/termux/proot-distro |
 | **protobuf** | 2:35.1 | Compiler for protocol buffer definition files | https://github.com/protocolbuffers/protobuf |
 | **proton-bridge** | 3.25.0 | ProtonMail Bridge application | https://github.com/ProtonMail/proton-bridge |
@@ -2468,9 +2468,9 @@
 | **spglib** | 2.7.0 | C library for finding and handling crystal symmetries | https://spglib.github.io/spglib/index.html |
 | **spidermonkey** | 128.10.0-2 | Mozilla's JavaScript engine | https://spidermonkey.dev |
 | **spiped** | 1.6.4-1 | a utility for creating symmetrically encrypted and authenticated pipes between socket addresses | https://www.tarsnap.com/spiped.html |
-| **spirv-headers** | 1.4.350.1 | SPIR-V Headers | https://github.com/KhronosGroup/SPIRV-Headers |
+| **spirv-headers** | 1.4.357.0 | SPIR-V Headers | https://github.com/KhronosGroup/SPIRV-Headers |
 | **spirv-llvm-translator** | 21.1.7 | SPIR-V LLVM Translator | https://github.com/KhronosGroup/SPIRV-LLVM-Translator |
-| **spirv-tools** | 1.4.350.1 | SPIR-V Tools | https://github.com/KhronosGroup/SPIRV-Tools |
+| **spirv-tools** | 1.4.357.0 | SPIR-V Tools | https://github.com/KhronosGroup/SPIRV-Tools |
 | **sqlcipher** | 4.17.0 | SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files | https://github.com/sqlcipher/sqlcipher |
 | **sqlite** | 3.53.4 | Command line shell for SQLite | https://www.sqlite.org |
 | **squashfs-tools-ng** | 1.3.2-1 | New set of tools for working with SquashFS images | https://github.com/AgentD/squashfs-tools-ng |
