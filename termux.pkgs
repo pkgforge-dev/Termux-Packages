@@ -2368,7 +2368,7 @@
 | **samefile** | 2.15-6 | Finds files with identical contents, independent of file name | http://www.schweikhardt.net/samefile/ |
 | **samurai** | 1.3 | ninja-compatible build tool written in C | https://github.com/michaelforney/samurai |
 | **sassc** | 3.6.2-1 | libsass command line driver | https://github.com/sass/sassc |
-| **sbcl** | 2.6.6 | A high performance Common Lisp compiler | http://www.sbcl.org/ |
+| **sbcl** | 2.6.7 | A high performance Common Lisp compiler | http://www.sbcl.org/ |
 | **sc-im** | 0.8.5-4 | An improved version of sc, a spreadsheet calculator | https://github.com/andmarti1424/sc-im |
 | **scala** | 3.8.4 | Scala 3 compiler and standard library. | https://www.scala-lang.org |
 | **scc** | 3.7.0-1 | Counts physical the lines of code, blank lines, comment lines, and physical lines of source code | https://github.com/boyter/scc |
@@ -2718,7 +2718,7 @@
 | **util-linux-static** | 2.42.1-4 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-2 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.42.1-4 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **uv** | 0.11.32 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
+| **uv** | 0.11.33 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.31-2 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.51.2 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.19 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
@@ -2847,8 +2847,8 @@
 | **yadm** | 3.5.0 | Yet Another Dotfiles Manager | https://yadm.io/ |
 | **yajl** | 2.1.0-8 | Yet Another JSON Library | https://lloyd.github.io/yajl/ |
 | **yajl-static** | 2.1.0-8 | Static libraries for yajl | https://lloyd.github.io/yajl/ |
-| **yara** | 4.5.7 | Tool aimed at helping malware researchers to identify and classify malware samples | https://github.com/VirusTotal/yara |
-| **yara-static** | 4.5.7 | Static libraries for yara | https://github.com/VirusTotal/yara |
+| **yara** | 4.5.8 | Tool aimed at helping malware researchers to identify and classify malware samples | https://github.com/VirusTotal/yara |
+| **yara-static** | 4.5.8 | Static libraries for yara | https://github.com/VirusTotal/yara |
 | **yarn** | 1.22.22 | Fast, reliable, and secure dependency management | https://classic.yarnpkg.com/lang/en/ |
 | **yasm** | 1.3.0-7 | Assembler supporting the x86 and AMD64 instruction sets | https://yasm.tortall.net/ |
 | **yasm-static** | 1.3.0-7 | Static libraries for yasm | https://yasm.tortall.net/ |

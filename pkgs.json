@@ -14221,7 +14221,7 @@
   },
   {
     "Package": "sbcl",
-    "Version": "2.6.6",
+    "Version": "2.6.7",
     "Description": "A high performance Common Lisp compiler",
     "Homepage": "http://www.sbcl.org/"
   },
@@ -16321,7 +16321,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.11.32",
+    "Version": "0.11.33",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
@@ -17095,13 +17095,13 @@
   },
   {
     "Package": "yara",
-    "Version": "4.5.7",
+    "Version": "4.5.8",
     "Description": "Tool aimed at helping malware researchers to identify and classify malware samples",
     "Homepage": "https://github.com/VirusTotal/yara"
   },
   {
     "Package": "yara-static",
-    "Version": "4.5.7",
+    "Version": "4.5.8",
     "Description": "Static libraries for yara",
     "Homepage": "https://github.com/VirusTotal/yara"
   },
