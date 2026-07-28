@@ -27,7 +27,7 @@
 | **abseil-cpp** | 20260526.0 | Abseil C++ Common Libraries | https://abseil.io/ |
 | **ack-grep** | 3.10.0 | Tool like grep optimized for programmers | https://beyondgrep.com/ |
 | **acr** | 2.2.8 | A fully compatible autoconf replacement | https://github.com/radareorg/acr |
-| **ada** | 3.4.4 | WHATWG-compliant and fast URL parser written in modern C++ | https://github.com/ada-url/ada |
+| **ada** | 4.0.0 | WHATWG-compliant and fast URL parser written in modern C++ | https://github.com/ada-url/ada |
 | **adms** | 2.3.7-1 | A code generator for the Verilog-AMS language | https://github.com/qucs/adms |
 | **aerc** | 0.21.0 | A pretty good email client | https://aerc-mail.org/ |
 | **agate** | 3.3.23 | Very simple server for the Gemini hypertext protocol | https://github.com/mbrubeck/agate |
@@ -539,7 +539,7 @@
 | **flex-static** | 2.6.4-5 | Static libraries for flex | https://github.com/westes/flex |
 | **flint** | 3.6.0 | C library for doing number theory | http://www.flintlib.org |
 | **fluidsynth** | 2.5.7 | Software synthesizer based on the SoundFont 2 specifications | https://github.com/FluidSynth/fluidsynth |
-| **flyctl** | 0.4.74 | Command line tools for fly.io services | https://fly.io |
+| **flyctl** | 0.4.75 | Command line tools for fly.io services | https://fly.io |
 | **fm** | 1.2.0 | A terminal based file manager | https://github.com/knipferrc/fm |
 | **fmt** | 1:11.2.0 | Open-source formatting library for C++ | https://fmt.dev/latest/index.html |
 | **fontconfig** | 2.18.2 | Library for configuring and customizing font access | https://www.freedesktop.org/wiki/Software/fontconfig/ |
@@ -1256,8 +1256,8 @@
 | **libmesode-static** | 0.10.1-5 | Static libraries for libmesode | https://github.com/boothj5/libmesode |
 | **libmhash** | 0.9.9.9-4 | A thread-safe hash library which provides a uniform interface to hash algorithms | https://mhash.sourceforge.net/ |
 | **libmhash-static** | 0.9.9.9-4 | Static libraries for libmhash | https://mhash.sourceforge.net/ |
-| **libmicrohttpd** | 1.0.6 | A small C library that is supposed to make it easy to run an HTTP server as part of another application | http://www.gnu.org/software/libmicrohttpd/ |
-| **libmicrohttpd-static** | 1.0.6 | Static libraries for libmicrohttpd | http://www.gnu.org/software/libmicrohttpd/ |
+| **libmicrohttpd** | 1.0.7 | A small C library that is supposed to make it easy to run an HTTP server as part of another application | http://www.gnu.org/software/libmicrohttpd/ |
+| **libmicrohttpd-static** | 1.0.7 | Static libraries for libmicrohttpd | http://www.gnu.org/software/libmicrohttpd/ |
 | **libminizip** | 1.3.2-1 | Mini zip and unzip based on zlib | https://www.winimage.com/zLibDll/minizip.html |
 | **libminizip-ng** | 4.2.2 | A zip manipulation library written in C | https://github.com/zlib-ng/minizip-ng |
 | **libminizip-ng-static** | 4.2.2 | Static libraries for libminizip-ng | https://github.com/zlib-ng/minizip-ng |

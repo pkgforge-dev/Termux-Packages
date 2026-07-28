@@ -103,7 +103,7 @@
   },
   {
     "Package": "ada",
-    "Version": "3.4.4",
+    "Version": "4.0.0",
     "Description": "WHATWG-compliant and fast URL parser written in modern C++",
     "Homepage": "https://github.com/ada-url/ada"
   },
@@ -3175,7 +3175,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.4.74",
+    "Version": "0.4.75",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -7477,13 +7477,13 @@
   },
   {
     "Package": "libmicrohttpd",
-    "Version": "1.0.6",
+    "Version": "1.0.7",
     "Description": "A small C library that is supposed to make it easy to run an HTTP server as part of another application",
     "Homepage": "http://www.gnu.org/software/libmicrohttpd/"
   },
   {
     "Package": "libmicrohttpd-static",
-    "Version": "1.0.6",
+    "Version": "1.0.7",
     "Description": "Static libraries for libmicrohttpd",
     "Homepage": "http://www.gnu.org/software/libmicrohttpd/"
   },
