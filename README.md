@@ -153,7 +153,7 @@
 | **binutils** | 2.46.0-4 | A GNU collection of binary utilities | https://www.gnu.org/software/binutils/ |
 | **binutils-cross** | 2.46.0-4 | GNU Binutils for cross build on the host (NOT for Termux) | https://www.gnu.org/software/binutils/ |
 | **binwalk** | 3.1.0 | An Binwalk firmware analysis tool. | https://github.com/ReFirmLabs/binwalk |
-| **biome2** | 2.5.5 | A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP | https://biomejs.dev/ |
+| **biome2** | 2.5.6 | A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP | https://biomejs.dev/ |
 | **bison** | 3.8.2-4 | General-purpose parser generator | https://www.gnu.org/software/bison/ |
 | **bison-static** | 3.8.2-4 | Static libraries for bison | https://www.gnu.org/software/bison/ |
 | **bitcoin** | 31.1-1 | Bitcoin Core | https://bitcoincore.org/ |
@@ -186,7 +186,7 @@
 | **brotli** | 1.2.0 | lossless compression algorithm and format (command line utility) | https://github.com/google/brotli |
 | **bsd-finger** | 0.17-3 | User information lookup program | https://packages.debian.org/sid/source/bsd-finger |
 | **bsd-games** | 1:3.3-1 | Classic text mode games from UNIX folklore | https://www.polyomino.org.uk/computer/software/bsd-games/ |
-| **bsdtar** | 3.8.8 | The tar(1) and cpio(1) programs from FreeBSD, using libarchive | https://www.libarchive.org/ |
+| **bsdtar** | 3.8.9 | The tar(1) and cpio(1) programs from FreeBSD, using libarchive | https://www.libarchive.org/ |
 | **btfs2** | 4.1.0 | Decentralized file system integrating with TRON network and Bittorrent network | https://www.bittorrent.com/btfs/ |
 | **btrfs-progs** | 7.0 | Utilities for Btrfs filesystem | https://btrfs.readthedocs.io/en/latest/ |
 | **buf** | 1.72.0 | A new way of working with Protocol Buffers | https://buf.build |
@@ -436,7 +436,7 @@
 | **dtc** | 1.8.1 | Device Tree Compiler | https://git.kernel.org/pub/scm/utils/dtc/dtc |
 | **dtc-static** | 1.8.1 | Static libraries for dtc | https://git.kernel.org/pub/scm/utils/dtc/dtc |
 | **dte** | 1.11.1-2 | A small, configurable console text editor | https://craigbarnes.gitlab.io/dte/ |
-| **dua** | 2.38.1 | View disk space usage and delete unwanted data, fast | https://github.com/Byron/dua-cli |
+| **dua** | 2.39.0 | View disk space usage and delete unwanted data, fast | https://github.com/Byron/dua-cli |
 | **duc** | 1.4.6 | High-performance disk usage analyzer | http://duc.zevv.nl/ |
 | **duckdb** | 1.5.5 | DuckDB Command Line Interface (CLI) shell | https://duckdb.org/ |
 | **duf** | 0.9.1 | Disk usage/free utility | https://github.com/muesli/duf |
@@ -632,7 +632,7 @@
 | **gitoxide** | 0.56.0 | Rust implementation of Git | https://github.com/GitoxideLabs/gitoxide |
 | **gitui** | 0.28.1 | Blazing fast terminal-ui for git written in rust | https://github.com/gitui-org/gitui |
 | **gkermit** | 2.01-1 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
-| **glab-cli** | 1.109.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
+| **glab-cli** | 1.110.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
 | **gleam** | 1.17.0 | A friendly language for building type-safe, scalable systems! | https://gleam.run |
 | **glib** | 2.88.2-1 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
 | **glib-cross** | 2.88.2-1 | glib for host (NOT for Termux) | https://developer.gnome.org/glib/ |
@@ -946,8 +946,8 @@
 | **libaom** | 3.14.1 | AV1 Video Codec Library | https://aomedia.org/ |
 | **libaom-static** | 3.14.1 | Static libraries for libaom | https://aomedia.org/ |
 | **libapt-pkg-perl** | 0.1.40-14 | Perl interface to APT's libapt-pkg | https://packages.debian.org/libapt-pkg-perl |
-| **libarchive** | 3.8.8 | Multi-format archive and compression library | https://www.libarchive.org/ |
-| **libarchive-static** | 3.8.8 | Static libraries for libarchive | https://www.libarchive.org/ |
+| **libarchive** | 3.8.9 | Multi-format archive and compression library | https://www.libarchive.org/ |
+| **libarchive-static** | 3.8.9 | Static libraries for libarchive | https://www.libarchive.org/ |
 | **libarrow-cpp** | 25.0.0-1 | C++ libraries for Apache Arrow | https://github.com/apache/arrow |
 | **libasio** | 1.36.0-1 | Cross-platform C++ library for network and low-level I/O programming | https://think-async.com/Asio |
 | **libasm** | 0.193-1 | Library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |
@@ -1062,7 +1062,7 @@
 | **libdwarf-static** | 2.3.2 | Static libraries for libdwarf | https://www.prevanders.net/dwarf.html |
 | **libe-book** | 0.1.3-5 | Library for import of reflowable e-book formats. | https://sourceforge.net/projects/libebook/ |
 | **libe-book-static** | 0.1.3-5 | Static libraries for libe-book | https://sourceforge.net/projects/libebook/ |
-| **libebml** | 1.4.6 | Extensible Binary Meta Language library | https://github.com/Matroska-Org/libebml |
+| **libebml** | 1.4.7 | Extensible Binary Meta Language library | https://github.com/Matroska-Org/libebml |
 | **libebur128** | 1.2.6-4 | Implements the EBU R 128 standard for loudness normalisation | https://github.com/jiixyj/libebur128 |
 | **libedit** | 20240517-3.1-1 | Library providing line editing, history, and tokenization functions | https://thrysoee.dk/editline/ |
 | **libedit-static** | 20240517-3.1-1 | Static libraries for libedit | https://thrysoee.dk/editline/ |
@@ -1977,7 +1977,7 @@
 | **octomap** | 1.10.0-1 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0-1 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-5 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 29.36.1 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 29.37.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **oidn** | 2.4.1 | Intel® Open Image Denoise library | https://www.openimagedenoise.org |
 | **okc-agents** | 0.1.2-2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.7 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
