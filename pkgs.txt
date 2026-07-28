@@ -1052,8 +1052,8 @@
  libe-book-static  0.1.3-5  Static libraries for libe-book  https://sourceforge.net/projects/libebook/ 
  libebml  1.4.7  Extensible Binary Meta Language library  https://github.com/Matroska-Org/libebml 
  libebur128  1.2.6-4  Implements the EBU R 128 standard for loudness normalisation  https://github.com/jiixyj/libebur128 
- libedit  20240517-3.1-1  Library providing line editing, history, and tokenization functions  https://thrysoee.dk/editline/ 
- libedit-static  20240517-3.1-1  Static libraries for libedit  https://thrysoee.dk/editline/ 
+ libedit  20260512-3.1-0  Library providing line editing, history, and tokenization functions  https://thrysoee.dk/editline/ 
+ libedit-static  20260512-3.1-0  Static libraries for libedit  https://thrysoee.dk/editline/ 
  libelf  0.193-1  ELF object file access library  https://sourceware.org/elfutils/ 
  libelf-static  0.193-1  Static libraries for libelf  https://sourceware.org/elfutils/ 
  libenet  1.3.18-1  ENet reliable UDP networking library  http://enet.bespin.org 
@@ -1098,8 +1098,8 @@
  libfyaml-static  0.9.6-1  Static libraries for libfyaml  https://pantoniou.github.io/libfyaml/ 
  libgc  8.2.12  Library providing the Boehm-Demers-Weiser conservative garbage collector  https://www.hboehm.info/gc/ 
  libgc-static  8.2.12  Static libraries for libgc  https://www.hboehm.info/gc/ 
- libgcrypt  1.11.2-1  General purpose cryptographic library based on the code from GnuPG  https://www.gnu.org/software/libgcrypt/ 
- libgcrypt-static  1.11.2-1  Static libraries for libgcrypt  https://www.gnu.org/software/libgcrypt/ 
+ libgcrypt  1.12.2  General purpose cryptographic library based on the code from GnuPG  https://www.gnu.org/software/libgcrypt/ 
+ libgcrypt-static  1.12.2  Static libraries for libgcrypt  https://www.gnu.org/software/libgcrypt/ 
  libgd  1:2.3.3-7  GD is an open source code library for the dynamic creation of images by programmers  https://libgd.github.io/ 
  libgd-static  1:2.3.3-7  Static libraries for libgd  https://libgd.github.io/ 
  libgedit-gfls  0.4.2  A module dedicated to file loading and saving  https://gitlab.gnome.org/World/gedit/libgedit-gfls 
@@ -1124,8 +1124,8 @@
  libgnustep-base  1.31.1-4  A library of general-purpose, non-graphical Objective C objects  https://www.gnustep.org 
  libgnutls  3.8.13-1  Secure communications library implementing the SSL, TLS and DTLS protocols and technologies around them  https://www.gnutls.org/ 
  libgnutls-static  3.8.13-1  Static libraries for libgnutls  https://www.gnutls.org/ 
- libgpg-error  1.58  Small library that defines common error values for all GnuPG components  https://www.gnupg.org/related_software/libgpg-error/ 
- libgpg-error-static  1.58  Static libraries for libgpg-error  https://www.gnupg.org/related_software/libgpg-error/ 
+ libgpg-error  1.61  Small library that defines common error values for all GnuPG components  https://www.gnupg.org/related_software/libgpg-error/ 
+ libgpg-error-static  1.61  Static libraries for libgpg-error  https://www.gnupg.org/related_software/libgpg-error/ 
  libgraphite  1.3.15  Font system for multiple languages  https://github.com/silnrsi/graphite 
  libgrpc  1.83.0  High performance, open source, general RPC framework that puts mobile and HTTP/2 first  https://grpc.io/ 
  libgsasl  2.2.4  GNU SASL library  https://www.gnu.org/software/gsasl 
@@ -2541,7 +2541,7 @@
  tasksh  1.2.0-11  Shell command wrapping Taskwarrior commands  https://taskwarrior.org 
  taskwarrior  3.4.2-2  Utility for managing your TODO list  https://taskwarrior.org 
  tcc  1:0.9.27-p20230415-2  Tiny C Compiler  https://bellard.org/tcc/ 
- tcl  8.6.14-1  Powerful but easy to learn dynamic programming language  https://www.tcl.tk/ 
+ tcl  8.6.16  Powerful but easy to learn dynamic programming language  https://www.tcl.tk/ 
  tcllib  2.0  Tcl Standard Library  https://core.tcl-lang.org/tcllib/ 
  tcsh  6.24.16-1  TENEX C Shell, an enhanced version of Berkeley csh  https://www.tcsh.org 
  tdb-tools  1.4.15  Tools for TDB  https://tdb.samba.org/ 

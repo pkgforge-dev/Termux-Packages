@@ -4215,11 +4215,11 @@
   Description: Implements the EBU R 128 standard for loudness normalisation
   Homepage: https://github.com/jiixyj/libebur128
 - Package: libedit
-  Version: 20240517-3.1-1
+  Version: 20260512-3.1-0
   Description: Library providing line editing, history, and tokenization functions
   Homepage: https://thrysoee.dk/editline/
 - Package: libedit-static
-  Version: 20240517-3.1-1
+  Version: 20260512-3.1-0
   Description: Static libraries for libedit
   Homepage: https://thrysoee.dk/editline/
 - Package: libelf
@@ -4399,11 +4399,11 @@
   Description: Static libraries for libgc
   Homepage: https://www.hboehm.info/gc/
 - Package: libgcrypt
-  Version: 1.11.2-1
+  Version: 1.12.2
   Description: General purpose cryptographic library based on the code from GnuPG
   Homepage: https://www.gnu.org/software/libgcrypt/
 - Package: libgcrypt-static
-  Version: 1.11.2-1
+  Version: 1.12.2
   Description: Static libraries for libgcrypt
   Homepage: https://www.gnu.org/software/libgcrypt/
 - Package: libgd
@@ -4503,11 +4503,11 @@
   Description: Static libraries for libgnutls
   Homepage: https://www.gnutls.org/
 - Package: libgpg-error
-  Version: "1.58"
+  Version: "1.61"
   Description: Small library that defines common error values for all GnuPG components
   Homepage: https://www.gnupg.org/related_software/libgpg-error/
 - Package: libgpg-error-static
-  Version: "1.58"
+  Version: "1.61"
   Description: Static libraries for libgpg-error
   Homepage: https://www.gnupg.org/related_software/libgpg-error/
 - Package: libgraphite
@@ -10171,7 +10171,7 @@
   Description: Tiny C Compiler
   Homepage: https://bellard.org/tcc/
 - Package: tcl
-  Version: 8.6.14-1
+  Version: 8.6.16
   Description: Powerful but easy to learn dynamic programming language
   Homepage: https://www.tcl.tk/
 - Package: tcllib
