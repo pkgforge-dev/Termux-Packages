@@ -143,7 +143,7 @@
   Description: Aims to be the best looking Gemini client
   Homepage: https://github.com/makew0rld/amfora
 - Package: android-tools
-  Version: 36.0.1-1
+  Version: 36.0.1+really35.0.2
   Description: Android platform tools
   Homepage: https://developer.android.com/
 - Package: anewer
@@ -463,7 +463,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.36.8
+  Version: 2.36.9
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -895,7 +895,7 @@
   Description: Curses Development Kit
   Homepage: https://dickey.his.com/cdk/cdk.html
 - Package: cec-client
-  Version: 8.1.0
+  Version: 8.1.1
   Description: Client applications for libCEC
   Homepage: https://libcec.pulse-eight.com/
 - Package: cfengine
@@ -1027,7 +1027,7 @@
   Description: A cli tool to download specific GitHub directories or files
   Homepage: https://github.com/alok8bb/cloneit
 - Package: cloudflared
-  Version: 2026.7.3
+  Version: 2026.7.3-1
   Description: A tunneling daemon that proxies traffic from the Cloudflare network to your origins
   Homepage: https://github.com/cloudflare/cloudflared
 - Package: clpeak
@@ -2467,7 +2467,7 @@
   Description: Git branches made easy
   Homepage: https://www.git-town.com
 - Package: gitea
-  Version: 1.27.0-1
+  Version: 1.27.1
   Description: Git with a cup of tea, painless self-hosted git service
   Homepage: https://gitea.io
 - Package: gitflow-avh
@@ -3935,11 +3935,11 @@
   Description: Static libraries for libcdr
   Homepage: https://wiki.documentfoundation.org/DLP/Libraries/libcdr
 - Package: libcec
-  Version: 8.1.0
+  Version: 8.1.1
   Description: Provides support for Pulse-Eights USB-CEC adapter and other CEC capable hardware
   Homepage: https://libcec.pulse-eight.com/
 - Package: libcec-static
-  Version: 8.1.0
+  Version: 8.1.1
   Description: Static libraries for libcec
   Homepage: https://libcec.pulse-eight.com/
 - Package: libceres-solver
@@ -9083,7 +9083,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 5.29.0
+  Version: 5.30.0
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
