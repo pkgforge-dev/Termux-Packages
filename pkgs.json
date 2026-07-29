@@ -3739,19 +3739,19 @@
   },
   {
     "Package": "gleam",
-    "Version": "1.17.0",
+    "Version": "1.18.0",
     "Description": "A friendly language for building type-safe, scalable systems!",
     "Homepage": "https://gleam.run"
   },
   {
     "Package": "glib",
-    "Version": "2.88.2-1",
+    "Version": "2.88.3",
     "Description": "Library providing core building blocks for libraries and applications written in C",
     "Homepage": "https://developer.gnome.org/glib/"
   },
   {
     "Package": "glib-cross",
-    "Version": "2.88.2-1",
+    "Version": "2.88.3",
     "Description": "glib for host (NOT for Termux)",
     "Homepage": "https://developer.gnome.org/glib/"
   },
@@ -14497,7 +14497,7 @@
   },
   {
     "Package": "simdjson",
-    "Version": "4.6.4",
+    "Version": "4.6.5",
     "Description": "A C++ library to see how fast we can parse JSON with complete validation",
     "Homepage": "https://simdjson.org/"
   },
@@ -16363,7 +16363,7 @@
   },
   {
     "Package": "vale",
-    "Version": "3.15.2",
+    "Version": "3.16.0",
     "Description": "A syntax-aware linter for prose built with speed and extensibility in mind",
     "Homepage": "https://vale.sh"
   },
