@@ -115,7 +115,7 @@
   },
   {
     "Package": "aerc",
-    "Version": "0.21.0",
+    "Version": "0.22.0",
     "Description": "A pretty good email client",
     "Homepage": "https://aerc-mail.org/"
   },
@@ -1567,13 +1567,13 @@
   },
   {
     "Package": "cmake",
-    "Version": "4.4.0",
+    "Version": "4.4.1",
     "Description": "Family of tools designed to build, test and package software",
     "Homepage": "https://cmake.org/"
   },
   {
     "Package": "cmake-curses-gui",
-    "Version": "4.4.0",
+    "Version": "4.4.1",
     "Description": "Curses based user interface for CMake (ccmake)",
     "Homepage": "https://cmake.org/"
   },
@@ -5761,13 +5761,13 @@
   },
   {
     "Package": "libbsd",
-    "Version": "0.11.7-2",
+    "Version": "0.11.7-3",
     "Description": "utility functions from BSD systems",
     "Homepage": "https://libbsd.freedesktop.org"
   },
   {
     "Package": "libbsd-static",
-    "Version": "0.11.7-2",
+    "Version": "0.11.7-3",
     "Description": "Static libraries for libbsd",
     "Homepage": "https://libbsd.freedesktop.org"
   },
