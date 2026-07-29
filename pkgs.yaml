@@ -4983,11 +4983,11 @@
   Description: Static libraries for libmhash
   Homepage: https://mhash.sourceforge.net/
 - Package: libmicrohttpd
-  Version: 1.0.7
+  Version: 1.0.8
   Description: A small C library that is supposed to make it easy to run an HTTP server as part of another application
   Homepage: http://www.gnu.org/software/libmicrohttpd/
 - Package: libmicrohttpd-static
-  Version: 1.0.7
+  Version: 1.0.8
   Description: Static libraries for libmicrohttpd
   Homepage: http://www.gnu.org/software/libmicrohttpd/
 - Package: libminizip
@@ -7643,7 +7643,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-1141+ge3c5974adf-0
+  Version: 0.13.0~dev-1158+g1eba3a75da-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -9203,7 +9203,7 @@
   Description: Library that provides a high-level interface to RDF data
   Homepage: http://librdf.org/
 - Package: remind
-  Version: 1:06.02.08
+  Version: 1:06.02.09
   Description: Sophisticated calendar and alarm program
   Homepage: https://dianne.skoll.ca/projects/remind/
 - Package: renameutils
@@ -9495,7 +9495,7 @@
   Description: Counts physical the lines of code, blank lines, comment lines, and physical lines of source code
   Homepage: https://github.com/boyter/scc
 - Package: sccache
-  Version: 0.16.0
+  Version: 0.17.0
   Description: sccache is ccache with cloud storage
   Homepage: https://github.com/mozilla/sccache
 - Package: scdaemon
