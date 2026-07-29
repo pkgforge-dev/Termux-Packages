@@ -114,7 +114,7 @@
  aview  1.3.0rc1-6  High quality ascii-art image browser and animation player  https://aa-project.sourceforge.net/aview/ 
  avra  1.4.2-1  Assember for the Atmel AVR microcontroller family  https://github.com/Ro5bert/avra 
  await  2.7.0  Runs list of commands in parallel and waits for their termination  https://github.com/slavaGanzin/await 
- awscli  2.36.9  Universal Command Line Interface for Amazon Web Services  https://aws.amazon.com/cli 
+ awscli  2.36.10  Universal Command Line Interface for Amazon Web Services  https://aws.amazon.com/cli 
  axel  2.17.14-1  light command line download accelerator  https://github.com/axel-download-accelerator/axel 
  b3sum  1.8.5  A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum  https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum 
  babl  0.1.126  Dynamic pixel format translation library  https://gegl.org/babl/ 
@@ -723,7 +723,7 @@
  harfbuzz  14.2.1  OpenType text shaping engine  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
  harfbuzz-icu  14.2.1  OpenType text shaping engine ICU backend  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
  harfbuzz-utils  14.2.1  Tools using the harfbuzz library  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
- harper  2.6.0-1  Offline, privacy-first grammar checker. Fast, open-source, Rust-powered  https://writewithharper.com/ 
+ harper  2.7.0  Offline, privacy-first grammar checker. Fast, open-source, Rust-powered  https://writewithharper.com/ 
  hash-slinger  3.6  Various tools to generate special DNS records  https://github.com/letoams/hash-slinger 
  hashdeep  4.4-9  Programs to compute hashsums of arbitrary number of files recursively  https://md5deep.sourceforge.net/ 
  hcl  2.24.0-1  A toolkit for creating structured configuration languages  https://github.com/hashicorp/hcl 
@@ -1214,7 +1214,7 @@
  liblo-static  0.36  Static libraries for liblo  https://liblo.sourceforge.net/ 
  liblog4c  1.2.4-2  A C library for flexible logging to files, syslog and other destinations  https://log4c.sourceforge.net/ 
  liblog4c-static  1.2.4-2  Static libraries for liblog4c  https://log4c.sourceforge.net/ 
- liblog4cxx  1.7.0  A logging framework for C++ patterned after Apache log4j  https://logging.apache.org/log4cxx/latest_stable/index.html 
+ liblog4cxx  1.8.0  A logging framework for C++ patterned after Apache log4j  https://logging.apache.org/log4cxx/latest_stable/index.html 
  liblqr  0.4.3-1  Provides a C/C++ API for performing non-uniform resizing of images by the seam-carving technique  https://github.com/carlobaldassi/liblqr 
  liblqr-static  0.4.3-1  Static libraries for liblqr  https://github.com/carlobaldassi/liblqr 
  liblrdf  0.6.1-2  A library to make it easy to manipulate RDF files describing LADSPA plugins  https://github.com/swh/LRDF 
@@ -1346,7 +1346,7 @@
  libotr  4.1.1-3  Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing: Encryption, Authentication, Deniability, Perfect forward secrecy  https://otr.cypherpunks.ca 
  libotr-static  4.1.1-3  Static libraries for libotr  https://otr.cypherpunks.ca 
  libowfat  0.33-1  GPL reimplementation of libdjb  http://www.fefe.de/libowfat/ 
- libp11  0.4.19  PKCS#11 wrapper library  https://github.com/OpenSC/libp11 
+ libp11  0.4.19-1  PKCS#11 wrapper library  https://github.com/OpenSC/libp11 
  libp8-platform  2.2.0  Platform support library used by libCEC and binary add-ons for Kodi  https://github.com/Pulse-Eight/platform 
  libpagemaker  0.0.4-4  a library that parses the file format of Aldus/Adobe PageMaker documents  https://wiki.documentfoundation.org/DLP/Libraries/libpagemaker 
  libpagemaker-static  0.0.4-4  Static libraries for libpagemaker  https://wiki.documentfoundation.org/DLP/Libraries/libpagemaker 
@@ -2718,7 +2718,7 @@
  util-linux-static  2.42.1-4  Static libraries for util-linux  https://en.wikipedia.org/wiki/Util-linux 
  uucp  1.07-2  The standard UUCP package of the Free Software Foundation  https://www.airs.com/ian/uucp.html 
  uuid-utils  2.42.1-4  Utilities for handling universally unique identifiers  https://en.wikipedia.org/wiki/Util-linux 
- uv  0.11.33  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
+ uv  0.12.0  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
  uwsgi  2.0.31-2  uWSGI application server container  https://projects.unbit.it/uwsgi 
  v2ray  5.51.2  A platform for building proxies to bypass network restrictions  https://www.v2fly.org/ 
  valac  0.56.19  C# like language for the GObject system  https://wiki.gnome.org/Projects/Vala 
@@ -2764,7 +2764,7 @@
  vulkan-loader-generic  1.4.357  Vulkan Loader  https://github.com/KhronosGroup/Vulkan-Loader 
  vulkan-tools  1.4.357  Vulkan Tools and Utilities  https://github.com/KhronosGroup/Vulkan-Tools 
  vulkan-utility-libraries  1.4.357  Utility Libraries for Vulkan  https://github.com/KhronosGroup/Vulkan-Utility-Libraries 
- vulkan-validation-layers  1.4.351  Vulkan Validation Layers  https://github.com/KhronosGroup/Vulkan-ValidationLayers 
+ vulkan-validation-layers  1.4.357  Vulkan Validation Layers  https://github.com/KhronosGroup/Vulkan-ValidationLayers 
  vulkan-volk  1.4.350  Meta loader for Vulkan API  https://github.com/zeux/volk 
  w3m  0.5.6-2  Text based Web browser and pager  https://git.sr.ht/~rkta/w3m 
  w3m-img  0.5.6-2  Inline image extension support utilities for w3m  https://git.sr.ht/~rkta/w3m 

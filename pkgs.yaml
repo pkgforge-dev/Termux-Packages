@@ -463,7 +463,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.36.9
+  Version: 2.36.10
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -2899,7 +2899,7 @@
   Description: Tools using the harfbuzz library
   Homepage: https://www.freedesktop.org/wiki/Software/HarfBuzz/
 - Package: harper
-  Version: 2.6.0-1
+  Version: 2.7.0
   Description: Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
   Homepage: https://writewithharper.com/
 - Package: hash-slinger
@@ -4863,7 +4863,7 @@
   Description: Static libraries for liblog4c
   Homepage: https://log4c.sourceforge.net/
 - Package: liblog4cxx
-  Version: 1.7.0
+  Version: 1.8.0
   Description: A logging framework for C++ patterned after Apache log4j
   Homepage: https://logging.apache.org/log4cxx/latest_stable/index.html
 - Package: liblqr
@@ -5391,7 +5391,7 @@
   Description: GPL reimplementation of libdjb
   Homepage: http://www.fefe.de/libowfat/
 - Package: libp11
-  Version: 0.4.19
+  Version: 0.4.19-1
   Description: PKCS#11 wrapper library
   Homepage: https://github.com/OpenSC/libp11
 - Package: libp8-platform
@@ -10879,7 +10879,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.11.33
+  Version: 0.12.0
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
@@ -11063,7 +11063,7 @@
   Description: Utility Libraries for Vulkan
   Homepage: https://github.com/KhronosGroup/Vulkan-Utility-Libraries
 - Package: vulkan-validation-layers
-  Version: 1.4.351
+  Version: 1.4.357
   Description: Vulkan Validation Layers
   Homepage: https://github.com/KhronosGroup/Vulkan-ValidationLayers
 - Package: vulkan-volk

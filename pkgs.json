@@ -697,7 +697,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.36.9",
+    "Version": "2.36.10",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -4351,7 +4351,7 @@
   },
   {
     "Package": "harper",
-    "Version": "2.6.0-1",
+    "Version": "2.7.0",
     "Description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
     "Homepage": "https://writewithharper.com/"
   },
@@ -7297,7 +7297,7 @@
   },
   {
     "Package": "liblog4cxx",
-    "Version": "1.7.0",
+    "Version": "1.8.0",
     "Description": "A logging framework for C++ patterned after Apache log4j",
     "Homepage": "https://logging.apache.org/log4cxx/latest_stable/index.html"
   },
@@ -8089,7 +8089,7 @@
   },
   {
     "Package": "libp11",
-    "Version": "0.4.19",
+    "Version": "0.4.19-1",
     "Description": "PKCS#11 wrapper library",
     "Homepage": "https://github.com/OpenSC/libp11"
   },
@@ -16321,7 +16321,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.11.33",
+    "Version": "0.12.0",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
@@ -16597,7 +16597,7 @@
   },
   {
     "Package": "vulkan-validation-layers",
-    "Version": "1.4.351",
+    "Version": "1.4.357",
     "Description": "Vulkan Validation Layers",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-ValidationLayers"
   },
