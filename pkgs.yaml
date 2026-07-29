@@ -403,11 +403,11 @@
   Description: tool for managing file archives of various types
   Homepage: https://www.nongnu.org/atool
 - Package: attr
-  Version: 2.5.2-1
+  Version: 2.6.0
   Description: Utilities for manipulating filesystem extended attributes
   Homepage: http://savannah.nongnu.org/projects/attr/
 - Package: attr-static
-  Version: 2.5.2-1
+  Version: 2.6.0
   Description: Static libraries for attr
   Homepage: http://savannah.nongnu.org/projects/attr/
 - Package: atuin
@@ -559,11 +559,11 @@
   Description: Binaryen is a compiler and toolchain infrastructure library for WebAssembly
   Homepage: https://github.com/WebAssembly/binaryen
 - Package: binutils
-  Version: 2.46.0-4
+  Version: "2.47"
   Description: A GNU collection of binary utilities
   Homepage: https://www.gnu.org/software/binutils/
 - Package: binutils-cross
-  Version: 2.46.0-4
+  Version: "2.47"
   Description: GNU Binutils for cross build on the host (NOT for Termux)
   Homepage: https://www.gnu.org/software/binutils/
 - Package: binwalk
@@ -2531,7 +2531,7 @@
   Description: Static libraries for glpk
   Homepage: https://www.gnu.org/software/glpk/
 - Package: glslang
-  Version: 16.4.0
+  Version: 16.4.0-1
   Description: OpenGL and OpenGL ES shader front end and validator
   Homepage: https://github.com/KhronosGroup/glslang
 - Package: gluelang
@@ -5191,11 +5191,11 @@
   Description: Static libraries for libnftnl
   Homepage: https://www.netfilter.org/projects/libnftnl/
 - Package: libnghttp2
-  Version: 1.69.0
+  Version: 1.70.0
   Description: nghttp HTTP 2.0 library
   Homepage: https://nghttp2.org/
 - Package: libnghttp2-static
-  Version: 1.69.0
+  Version: 1.70.0
   Description: Static libraries for libnghttp2
   Homepage: https://nghttp2.org/
 - Package: libnghttp3
@@ -6639,7 +6639,7 @@
   Description: New zlib compatible compressor library
   Homepage: https://github.com/google/zopfli
 - Package: libzxing-cpp
-  Version: 3.1.0
+  Version: 3.1.1
   Description: An open-source, multi-format 1D/2D barcode image processing library implemented in C++
   Homepage: https://github.com/zxing-cpp/zxing-cpp
 - Package: lighttpd
@@ -6799,7 +6799,7 @@
   Description: Tracks runtime library calls in dynamically linked programs
   Homepage: http://www.ltrace.org/
 - Package: lua-language-server
-  Version: 3.18.2-1
+  Version: 3.18.2-2
   Description: Sumneko Lua Language Server coded in Lua
   Homepage: https://github.com/sumneko/lua-language-server
 - Package: lua-lgi
@@ -8623,7 +8623,7 @@
   Description: Generic coordinate transformation software
   Homepage: https://proj.org
 - Package: proot
-  Version: 5.1.107.88
+  Version: 5.1.107.89
   Description: Emulate chroot, bind mount and binfmt_misc for non-root users
   Homepage: https://proot-me.github.io/
 - Package: proot-distro
@@ -9675,7 +9675,7 @@
   Description: Simulator for Microchip AVR (formerly Atmel) microcontrollers
   Homepage: https://www.nongnu.org/simulavr
 - Package: sing-box
-  Version: 1.13.14
+  Version: 1.13.15
   Description: The universal proxy platform
   Homepage: https://sing-box.sagernet.org
 - Package: skate
@@ -9979,7 +9979,7 @@
   Description: A TCP/IP repeater in the application layer
   Homepage: https://www.gcd.org/sengoku/stone/
 - Package: storj-uplink
-  Version: 1.160.3
+  Version: 1.161.1
   Description: Storj DCS Uplink CLI
   Homepage: https://www.storj.io/integrations/uplink-cli
 - Package: stow
@@ -10459,7 +10459,7 @@
   Description: toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library
   Homepage: https://github.com/ToruNiina/toml11
 - Package: topgrade
-  Version: 17.8.0
+  Version: 17.9.0
   Description: Upgrade all the things
   Homepage: https://github.com/topgrade-rs/topgrade/
 - Package: tor
