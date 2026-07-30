@@ -697,7 +697,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.36.10",
+    "Version": "2.36.11",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -3175,7 +3175,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.4.75",
+    "Version": "0.4.76",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -4327,7 +4327,7 @@
   },
   {
     "Package": "haproxy",
-    "Version": "3.4.2",
+    "Version": "3.4.3",
     "Description": "The Reliable, High Performance TCP/HTTP Load Balancer",
     "Homepage": "https://www.haproxy.org/"
   },
@@ -10357,7 +10357,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.39.6",
+    "Version": "0.39.7",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://lux.lumen-labs.org"
   },
@@ -11011,7 +11011,7 @@
   },
   {
     "Package": "moor",
-    "Version": "2.15.2",
+    "Version": "2.16.0",
     "Description": "A pager designed to just do the right thing without any configuration",
     "Homepage": "https://github.com/walles/moor"
   },
@@ -11683,7 +11683,7 @@
   },
   {
     "Package": "npm",
-    "Version": "11.18.0",
+    "Version": "11.19.0",
     "Description": "The package manager for JavaScript",
     "Homepage": "https://docs.npmjs.com/cli/"
   },
@@ -16081,7 +16081,7 @@
   },
   {
     "Package": "ty",
-    "Version": "0.0.64",
+    "Version": "0.0.65",
     "Description": "An extremely fast Python type checker and language server, written in Rust",
     "Homepage": "https://github.com/astral-sh/ty"
   },
