@@ -3589,7 +3589,7 @@
   },
   {
     "Package": "gh",
-    "Version": "2.96.0",
+    "Version": "2.97.0",
     "Description": "GitHub’s official command line tool",
     "Homepage": "https://cli.github.com/"
   },
@@ -4621,7 +4621,7 @@
   },
   {
     "Package": "hwdata",
-    "Version": "0.409",
+    "Version": "0.410",
     "Description": "Database of hardware identification and configuration data",
     "Homepage": "https://github.com/vcrhonek/hwdata"
   },
@@ -7477,13 +7477,13 @@
   },
   {
     "Package": "libmicrohttpd",
-    "Version": "1.0.8",
+    "Version": "1.0.9",
     "Description": "A small C library that is supposed to make it easy to run an HTTP server as part of another application",
     "Homepage": "http://www.gnu.org/software/libmicrohttpd/"
   },
   {
     "Package": "libmicrohttpd-static",
-    "Version": "1.0.8",
+    "Version": "1.0.9",
     "Description": "Static libraries for libmicrohttpd",
     "Homepage": "http://www.gnu.org/software/libmicrohttpd/"
   },
@@ -11467,7 +11467,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-1168+ga85cce90e3-0",
+    "Version": "0.13.0~dev-1176+ga35c604718-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -14497,7 +14497,7 @@
   },
   {
     "Package": "simdjson",
-    "Version": "4.6.5",
+    "Version": "4.6.6",
     "Description": "A C++ library to see how fast we can parse JSON with complete validation",
     "Homepage": "https://simdjson.org/"
   },
@@ -16579,7 +16579,7 @@
   },
   {
     "Package": "vulkan-loader-generic",
-    "Version": "1.4.357",
+    "Version": "1.4.358",
     "Description": "Vulkan Loader",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Loader"
   },
@@ -16591,7 +16591,7 @@
   },
   {
     "Package": "vulkan-utility-libraries",
-    "Version": "1.4.357",
+    "Version": "1.4.358",
     "Description": "Utility Libraries for Vulkan",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Utility-Libraries"
   },

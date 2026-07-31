@@ -2391,7 +2391,7 @@
   Description: The Forth implementation of the GNU project
   Homepage: https://www.gnu.org/software/gforth/
 - Package: gh
-  Version: 2.96.0
+  Version: 2.97.0
   Description: GitHub’s official command line tool
   Homepage: https://cli.github.com/
 - Package: ghc
@@ -3079,7 +3079,7 @@
   Description: A CLI tool for sr.ht
   Homepage: https://git.sr.ht/~xenrox/hut
 - Package: hwdata
-  Version: "0.409"
+  Version: "0.410"
   Description: Database of hardware identification and configuration data
   Homepage: https://github.com/vcrhonek/hwdata
 - Package: hydroxide
@@ -4983,11 +4983,11 @@
   Description: Static libraries for libmhash
   Homepage: https://mhash.sourceforge.net/
 - Package: libmicrohttpd
-  Version: 1.0.8
+  Version: 1.0.9
   Description: A small C library that is supposed to make it easy to run an HTTP server as part of another application
   Homepage: http://www.gnu.org/software/libmicrohttpd/
 - Package: libmicrohttpd-static
-  Version: 1.0.8
+  Version: 1.0.9
   Description: Static libraries for libmicrohttpd
   Homepage: http://www.gnu.org/software/libmicrohttpd/
 - Package: libminizip
@@ -7643,7 +7643,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-1168+ga85cce90e3-0
+  Version: 0.13.0~dev-1176+ga35c604718-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -9663,7 +9663,7 @@
   Description: Implementations of SIMD instructions for all systems
   Homepage: https://simd-everywhere.github.io/
 - Package: simdjson
-  Version: 4.6.5
+  Version: 4.6.6
   Description: A C++ library to see how fast we can parse JSON with complete validation
   Homepage: https://simdjson.org/
 - Package: simh
@@ -11051,7 +11051,7 @@
   Description: Vulkan Loader for Android
   Homepage: https://source.android.com/devices/graphics/arch-vulkan
 - Package: vulkan-loader-generic
-  Version: 1.4.357
+  Version: 1.4.358
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
@@ -11059,7 +11059,7 @@
   Description: Vulkan Tools and Utilities
   Homepage: https://github.com/KhronosGroup/Vulkan-Tools
 - Package: vulkan-utility-libraries
-  Version: 1.4.357
+  Version: 1.4.358
   Description: Utility Libraries for Vulkan
   Homepage: https://github.com/KhronosGroup/Vulkan-Utility-Libraries
 - Package: vulkan-validation-layers
