@@ -463,7 +463,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.36.11
+  Version: 2.36.12
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -2031,7 +2031,7 @@
   Description: A simple file manager written in bash
   Homepage: https://github.com/dylanaraps/fff
 - Package: ffmpeg
-  Version: 8.1.2-1
+  Version: 8.1.2-2
   Description: Tools and libraries to manipulate a wide range of multimedia formats and protocols
   Homepage: https://ffmpeg.org
 - Package: ffmpegthumbnailer
@@ -3023,15 +3023,15 @@
   Description: ping-like program for http-requests
   Homepage: https://github.com/folkertvanheusden/HTTPing
 - Package: httrack
-  Version: 3.49.14
+  Version: 3.49.15
   Description: It allows you to download a World Wide Web site from the Internet
   Homepage: http://www.httrack.com
 - Package: httrack-data
-  Version: 3.49.14
+  Version: 3.49.15
   Description: Platform-independent data for httrack
   Homepage: http://www.httrack.com
 - Package: httrack-static
-  Version: 3.49.14
+  Version: 3.49.15
   Description: Static libraries for httrack
   Homepage: http://www.httrack.com
 - Package: hub
@@ -3311,11 +3311,11 @@
   Description: Static libraries for jcal
   Homepage: http://nongnu.org/jcal
 - Package: jellyfin-ffmpeg
-  Version: 10.11.11
+  Version: 10.11.11-1
   Description: FFmpeg for Jellyfin with custom extensions and enhancements
   Homepage: https://jellyfin.org
 - Package: jellyfin-server
-  Version: 10.11.11
+  Version: 10.11.11-1
   Description: A free media system for organizing and streaming media (server)
   Homepage: https://jellyfin.org
 - Package: jfrog-cli
@@ -3819,15 +3819,15 @@
   Description: A blocking, shuffling and loss-less compression library
   Homepage: https://www.blosc.org
 - Package: libbluray
-  Version: 1.4.1
+  Version: 1.5.0
   Description: An open-source library designed for Blu-Ray Discs playback for media players
   Homepage: https://code.videolan.org/videolan/libbluray/
 - Package: libbluray-static
-  Version: 1.4.1
+  Version: 1.5.0
   Description: Static libraries for libbluray
   Homepage: https://code.videolan.org/videolan/libbluray/
 - Package: libbluray-utils
-  Version: 1.4.1
+  Version: 1.5.0
   Description: Example utilities for libbluray
   Homepage: https://code.videolan.org/videolan/libbluray/
 - Package: libbs2b
@@ -7415,7 +7415,7 @@
   Description: Fast console MPEG Audio Player based on libmpg123
   Homepage: https://mpg123.org/
 - Package: mplayer
-  Version: 1.5-14
+  Version: 1.5-15
   Description: The Movie Player
   Homepage: https://mplayerhq.hu/
 - Package: mpv
@@ -11007,11 +11007,11 @@
   Description: A themeable LS_COLORS generator with a rich filetype datebase
   Homepage: https://github.com/sharkdp/vivid
 - Package: vlc
-  Version: 3.0.23-3
+  Version: 3.0.23-4
   Description: A popular libre and open source media player and multimedia engine
   Homepage: https://www.videolan.org/
 - Package: vlc-static
-  Version: 3.0.23-3
+  Version: 3.0.23-4
   Description: Static libraries for vlc
   Homepage: https://www.videolan.org/
 - Package: vobsub2srt
