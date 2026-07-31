@@ -1513,7 +1513,7 @@
   },
   {
     "Package": "cli11",
-    "Version": "2.6.2",
+    "Version": "2.7.0",
     "Description": "Command line parser for C++11",
     "Homepage": "https://github.com/CLIUtils/CLI11"
   },
@@ -3175,7 +3175,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.4.76",
+    "Version": "0.4.77",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -3283,7 +3283,7 @@
   },
   {
     "Package": "fresh-editor",
-    "Version": "0.4.5",
+    "Version": "0.4.6",
     "Description": "Text editor for your terminal: easy, powerful and fast",
     "Homepage": "https://getfresh.dev/"
   },
@@ -3733,7 +3733,7 @@
   },
   {
     "Package": "glab-cli",
-    "Version": "1.110.0",
+    "Version": "1.111.0",
     "Description": "A GitLab CLI tool bringing GitLab to your command line",
     "Homepage": "https://gitlab.com/gitlab-org/cli"
   },
@@ -5173,7 +5173,7 @@
   },
   {
     "Package": "keychain",
-    "Version": "3.0.1",
+    "Version": "3.0.2",
     "Description": "Keychain manager for ssh-agent and gpg-agent",
     "Homepage": "https://kernel-seeds.org/projects/keychain/"
   },
@@ -13267,7 +13267,7 @@
   },
   {
     "Package": "python-ruff",
-    "Version": "0.16.0",
+    "Version": "0.16.1",
     "Description": "An extremely fast Python linter, written in Rust (Python bindings)",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -14059,7 +14059,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.16.0",
+    "Version": "0.16.1",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -16555,7 +16555,7 @@
   },
   {
     "Package": "vulkan-headers",
-    "Version": "1.4.357",
+    "Version": "1.4.358",
     "Description": "Vulkan Header files and API registry",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Headers"
   },
@@ -16651,7 +16651,7 @@
   },
   {
     "Package": "wasm-component-ld",
-    "Version": "0.5.27",
+    "Version": "0.5.28",
     "Description": "Command line linker for creating WebAssembly components",
     "Homepage": "https://github.com/bytecodealliance/wasm-component-ld"
   },
