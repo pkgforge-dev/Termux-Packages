@@ -234,7 +234,7 @@
 | **ccls** | 0.20250815.1 | C/C++/ObjC language server | https://github.com/MaskRay/ccls |
 | **ccrypt** | 1.11-1 | Secure encryption and decryption of files and streams utility | https://ccrypt.sourceforge.net/ |
 | **cdk** | 5.0-20260119-0 | Curses Development Kit | https://dickey.his.com/cdk/cdk.html |
-| **cec-client** | 8.1.1 | Client applications for libCEC | https://libcec.pulse-eight.com/ |
+| **cec-client** | 8.1.3 | Client applications for libCEC | https://libcec.pulse-eight.com/ |
 | **cfengine** | 1:3.27.1 | CFEngine is a configuration management technology | https://cfengine.com/ |
 | **cfengine-static** | 1:3.27.1 | Static libraries for cfengine | https://cfengine.com/ |
 | **cfitsio** | 4.6.4-1 | a library of C and Fortran subroutines for reading and writing data files in FITS (Flexible Image Transport System) data format | https://heasarc.gsfc.nasa.gov/fitsio/ |
@@ -262,7 +262,7 @@
 | **clamav-static** | 1.5.3 | Static libraries for clamav | https://www.clamav.net/ |
 | **clang** | 21.1.8-3 | C language frontend for LLVM | https://clang.llvm.org/ |
 | **clblast** | 1.7.0 | Tuned OpenCL BLAS | https://github.com/CNugteren/CLBlast |
-| **cli11** | 2.7.0 | Command line parser for C++11 | https://github.com/CLIUtils/CLI11 |
+| **cli11** | 2.7.1 | Command line parser for C++11 | https://github.com/CLIUtils/CLI11 |
 | **clifm** | 1.28-1 | The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell | https://github.com/leo-arch/clifm |
 | **clinfo** | 3.0.25.02.14-1 | Print all known information about all available OpenCL platforms and devices in the system | https://github.com/Oblomov/clinfo |
 | **clipp** | 1.2.3-1 | Command line interfaces for modern C++ | https://github.com/muellan/clipp |
@@ -308,7 +308,7 @@
 | **cpufetch** | 1.07-1 | Simple yet fancy CPU architecture fetching tool | https://github.com/Dr-Noob/cpufetch |
 | **cpulimit** | 0.2-2 | CPU usage limiter | https://github.com/opsengine/cpulimit |
 | **crawl** | 0.34.1 | Roguelike adventure through dungeons filled with dangerous monsters | https://crawl.develz.org/ |
-| **croc** | 1:10.7.0 | Easily and securely send things from one computer to another | https://github.com/schollz/croc |
+| **croc** | 1:11.0.0 | Easily and securely send things from one computer to another | https://github.com/schollz/croc |
 | **cronie** | 1.7.2-4 | Daemon that runs specified programs at scheduled times and related tools | https://github.com/cronie-crond/cronie/ |
 | **crowbook** | 0.17.0-1 | Allows you to write a book in Markdown without worrying about formatting or typography | https://github.com/crowdagger/crowbook |
 | **crunch** | 3.6-5 | Highly customizable wordlist generator | https://sourceforge.net/projects/crunch-wordlist/ |
@@ -518,7 +518,7 @@
 | **fetchmail** | 6.6.6-1 | A remote-mail retrieval utility | https://www.fetchmail.info/ |
 | **fetchmailconf** | 6.6.6-1 | A GUI configurator for generating fetchmail configuration files | https://www.fetchmail.info/ |
 | **fff** | 2.2 | A simple file manager written in bash | https://github.com/dylanaraps/fff |
-| **ffmpeg** | 8.1.2-2 | Tools and libraries to manipulate a wide range of multimedia formats and protocols | https://ffmpeg.org |
+| **ffmpeg** | 8.1.2-3 | Tools and libraries to manipulate a wide range of multimedia formats and protocols | https://ffmpeg.org |
 | **ffmpegthumbnailer** | 2.3.0 | Lightweight video thumbnailer that can be used by file managers | https://github.com/dirkvdb/ffmpegthumbnailer |
 | **ffsend** | 0.2.77-2 | A fully featured Firefox Send client | https://gitlab.com/timvisee/ffsend |
 | **fftw** | 3.3.11 | Library for computing the Discrete Fourier Transform (DFT) in one or more dimensions | http://www.fftw.org/ |
@@ -994,8 +994,8 @@
 | **libcddb-static** | 1.3.2-1 | Static libraries for libcddb | https://libcddb.sourceforge.net/ |
 | **libcdr** | 0.1.8-5 | CorelDraw file format importer library for LibreOffice | https://wiki.documentfoundation.org/DLP/Libraries/libcdr |
 | **libcdr-static** | 0.1.8-5 | Static libraries for libcdr | https://wiki.documentfoundation.org/DLP/Libraries/libcdr |
-| **libcec** | 8.1.1 | Provides support for Pulse-Eight's USB-CEC adapter and other CEC capable hardware | https://libcec.pulse-eight.com/ |
-| **libcec-static** | 8.1.1 | Static libraries for libcec | https://libcec.pulse-eight.com/ |
+| **libcec** | 8.1.3 | Provides support for Pulse-Eight's USB-CEC adapter and other CEC capable hardware | https://libcec.pulse-eight.com/ |
+| **libcec-static** | 8.1.3 | Static libraries for libcec | https://libcec.pulse-eight.com/ |
 | **libceres-solver** | 2.2.0-4 | C++ library for modeling and solving large, complicated optimization problems | http://ceres-solver.org |
 | **libchipmunk** | 7.0.3-2 | A fast and lightweight 2D game physics library | http://chipmunk2d.net |
 | **libchromaprint** | 1.6.1 | C library for generating audio fingerprints used by AcoustID | https://acoustid.org/chromaprint |
@@ -2118,7 +2118,7 @@
 | **pianobar** | 2024.12.21-2 | pianobar is a free/open-source, console-based client for the personalized online radio Pandora. | https://6xq.net/pianobar/ |
 | **pick** | 4.0.0-3 | Utility to choose one option from a set of choices with fuzzy search functionality | https://github.com/calleerlandsson/pick |
 | **picocom** | 2018.04.12-1 | A minimal dumb-terminal emulation program | https://github.com/npat-efault/picocom |
-| **picolisp** | 26.3 | Lisp interpreter and application server framework | https://picolisp.com/wiki/?home |
+| **picolisp** | 26.6 | Lisp interpreter and application server framework | https://picolisp.com/wiki/?home |
 | **pigz** | 2.8-1 | Parallel implementation of the gzip file compressor | https://www.zlib.net/pigz |
 | **pikiwidb** | 3.5.6-2 | Redis-Compatible database developed by Qihoo's infrastructure team | https://github.com/OpenAtomFoundation/pikiwidb |
 | **pikiwidb-static** | 3.5.6-2 | Static libraries for pikiwidb | https://github.com/OpenAtomFoundation/pikiwidb |
@@ -2202,7 +2202,7 @@
 | **python-brotli** | 1.2.0-2 | lossless compression algorithm and format (Python bindings) | https://github.com/google/brotli |
 | **python-cmake** | 4.4.0 | Python wrapper for CMake | https://cmake-python-distributions.readthedocs.io/ |
 | **python-contourpy** | 1.3.3-5 | Python library for calculating contours in 2D quadrilateral grids | https://contourpy.readthedocs.io/ |
-| **python-cryptography** | 49.0.0 | Provides cryptographic recipes and primitives to Python developers | https://github.com/pyca/cryptography |
+| **python-cryptography** | 50.0.0 | Provides cryptographic recipes and primitives to Python developers | https://github.com/pyca/cryptography |
 | **python-ensurepip-wheels** | 3.14.6-1 | Wheels for Python ensurepip | https://python.org/ |
 | **python-greenlet** | 3.5.4 | Lightweight coroutines for in-process concurrent programming | https://github.com/python-greenlet/greenlet |
 | **python-grpcio** | 1.83.0 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
@@ -2271,7 +2271,7 @@
 | **qrsspig** | 0.8.0-8 | Headless QRSS grabber for Raspberry Pi's | https://gitlab.com/hb9fxx/qrsspig |
 | **qrupdate-ng** | 2:1.1.5 | A Library for Fast Updating of QR and Cholesky Decompositions. | https://github.com/mpimd-csc/qrupdate-ng |
 | **quick-lint-js** | 3.2.0-1 | Finds bugs in JavaScript programs | https://quick-lint-js.com/ |
-| **quickjs-ng** | 0.15.1 | Embeddable JavaScript engine in C (NG fork) | https://quickjs-ng.github.io/quickjs/ |
+| **quickjs-ng** | 0.16.0 | Embeddable JavaScript engine in C (NG fork) | https://quickjs-ng.github.io/quickjs/ |
 | **quilt** | 0.69 | Allows you to easily manage large numbers of patches | https://savannah.nongnu.org/projects/quilt |
 | **rabbitmq-server** | 4.3.4 | Feature rich, multi-protocol messaging and streaming broker | https://github.com/rabbitmq/rabbitmq-server |
 | **racket** | 9.2 | Full-spectrum programming language going beyond Lisp and Scheme | https://racket-lang.org |
@@ -2291,7 +2291,7 @@
 | **ravencoin-static** | 4.6.1-10 | Static libraries for ravencoin | https://ravencoin.org/ |
 | **rbw** | 1.15.0 | An unofficial command line client for Bitwarden | https://github.com/doy/rbw |
 | **rc** | 1.7.4-2 | An alternative implementation of the plan 9 rc shell | https://github.com/rakitzis/rc |
-| **rclone** | 1.74.4 | rsync for cloud storage | https://rclone.org/ |
+| **rclone** | 1.75.0 | rsync for cloud storage | https://rclone.org/ |
 | **rcm** | 1.3.6 | Dotfiles management | https://github.com/thoughtbot/rcm |
 | **rcs** | 5.10.1-1 | The GNU Revision Control System | https://www.gnu.org/s/rcs |
 | **rdfind** | 1.8.0 | A tool for finding duplicate files | https://github.com/pauldreik/rdfind |
@@ -2737,7 +2737,7 @@
 | **valac-static** | 0.56.19 | Static libraries for valac | https://wiki.gnome.org/Projects/Vala |
 | **valadoc** | 0.56.19 | API documentation generator for vala | https://wiki.gnome.org/Projects/Vala |
 | **valadoc-static** | 0.56.19 | Static libraries for valadoc | https://wiki.gnome.org/Projects/Vala |
-| **vale** | 3.16.0 | A syntax-aware linter for prose built with speed and extensibility in mind | https://vale.sh |
+| **vale** | 3.17.0 | A syntax-aware linter for prose built with speed and extensibility in mind | https://vale.sh |
 | **valkey** | 9.1.1-1 | In-memory data structure store used as a database, cache and message broker | https://valkey.io/ |
 | **valkey-static** | 9.1.1-1 | Static libraries for valkey | https://valkey.io/ |
 | **vamp-plugin-sdk** | 2.10-3 | An API for audio analysis and feature extraction plugins | https://www.vamp-plugins.org/ |

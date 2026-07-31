@@ -1345,7 +1345,7 @@
   },
   {
     "Package": "cec-client",
-    "Version": "8.1.1",
+    "Version": "8.1.3",
     "Description": "Client applications for libCEC",
     "Homepage": "https://libcec.pulse-eight.com/"
   },
@@ -1513,7 +1513,7 @@
   },
   {
     "Package": "cli11",
-    "Version": "2.7.0",
+    "Version": "2.7.1",
     "Description": "Command line parser for C++11",
     "Homepage": "https://github.com/CLIUtils/CLI11"
   },
@@ -1789,7 +1789,7 @@
   },
   {
     "Package": "croc",
-    "Version": "1:10.7.0",
+    "Version": "1:11.0.0",
     "Description": "Easily and securely send things from one computer to another",
     "Homepage": "https://github.com/schollz/croc"
   },
@@ -3049,7 +3049,7 @@
   },
   {
     "Package": "ffmpeg",
-    "Version": "8.1.2-2",
+    "Version": "8.1.2-3",
     "Description": "Tools and libraries to manipulate a wide range of multimedia formats and protocols",
     "Homepage": "https://ffmpeg.org"
   },
@@ -5905,13 +5905,13 @@
   },
   {
     "Package": "libcec",
-    "Version": "8.1.1",
+    "Version": "8.1.3",
     "Description": "Provides support for Pulse-Eights USB-CEC adapter and other CEC capable hardware",
     "Homepage": "https://libcec.pulse-eight.com/"
   },
   {
     "Package": "libcec-static",
-    "Version": "8.1.1",
+    "Version": "8.1.3",
     "Description": "Static libraries for libcec",
     "Homepage": "https://libcec.pulse-eight.com/"
   },
@@ -12649,7 +12649,7 @@
   },
   {
     "Package": "picolisp",
-    "Version": "26.3",
+    "Version": "26.6",
     "Description": "Lisp interpreter and application server framework",
     "Homepage": "https://picolisp.com/wiki/?home"
   },
@@ -13153,7 +13153,7 @@
   },
   {
     "Package": "python-cryptography",
-    "Version": "49.0.0",
+    "Version": "50.0.0",
     "Description": "Provides cryptographic recipes and primitives to Python developers",
     "Homepage": "https://github.com/pyca/cryptography"
   },
@@ -13567,7 +13567,7 @@
   },
   {
     "Package": "quickjs-ng",
-    "Version": "0.15.1",
+    "Version": "0.16.0",
     "Description": "Embeddable JavaScript engine in C (NG fork)",
     "Homepage": "https://quickjs-ng.github.io/quickjs/"
   },
@@ -13687,7 +13687,7 @@
   },
   {
     "Package": "rclone",
-    "Version": "1.74.4",
+    "Version": "1.75.0",
     "Description": "rsync for cloud storage",
     "Homepage": "https://rclone.org/"
   },
@@ -16363,7 +16363,7 @@
   },
   {
     "Package": "vale",
-    "Version": "3.16.0",
+    "Version": "3.17.0",
     "Description": "A syntax-aware linter for prose built with speed and extensibility in mind",
     "Homepage": "https://vale.sh"
   },
