@@ -803,7 +803,7 @@
 | **imlib2-static** | 1.12.6-1 | Static libraries for imlib2 | https://sourceforge.net/projects/enlightenment/ |
 | **immer** | 0.9.1 | Postmodern immutable and persistent data structures for C++ | https://sinusoid.es/immer |
 | **indent** | 2.2.13-1 | C language source code formatting program | https://www.gnu.org/software/indent/ |
-| **indi** | 2.2.3.1 | Astronomical instrumentation control | https://www.indilib.org |
+| **indi** | 2.2.4 | Astronomical instrumentation control | https://www.indilib.org |
 | **inetutils** | 2.7 | Collection of common network programs | https://www.gnu.org/software/inetutils/ |
 | **influxdb** | 1.8.10-4 | An open source time series database with no external dependencies | https://www.influxdata.com/ |
 | **innoextract** | 1.9-11 | A tool to unpack installers created by Inno Setup | https://constexpr.org/innoextract/ |
@@ -1871,7 +1871,7 @@
 | **ms-gsl** | 4.2.2 | Guidelines Support Library | https://github.com/Microsoft/GSL |
 | **msedit** | 2.0.0-1 | A simple editor for simple needs (Microsoft Edit) | https://github.com/microsoft/edit |
 | **msitools** | 0.106-1 | Set of programs to inspect and build Windows Installer (.MSI) files | https://gitlab.gnome.org/GNOME/msitools |
-| **msmtp** | 1.8.33 | Lightweight SMTP client | https://marlam.de/msmtp/ |
+| **msmtp** | 1.8.34 | Lightweight SMTP client | https://marlam.de/msmtp/ |
 | **mtd-utils** | 2.3.1 | Utilities for dealing with MTD devices | http://www.linux-mtd.infradead.org/ |
 | **mtools** | 4.0.49-1 | Tool for manipulating FAT images | https://www.gnu.org/software/mtools/ |
 | **mu** | 1.14.2 | Maildir indexer/searcher and Emacs client (mu4e) | https://www.djcbsoftware.nl/code/mu/ |
@@ -1921,7 +1921,7 @@
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20260616 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.12.4 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
-| **neovim-nightly** | 0.13.0~dev-1176+ga35c604718-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
+| **neovim-nightly** | 0.13.0~dev-1183+g7b28b1f4a9-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
 | **nerdfix** | 0.4.2-1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.5.2 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.5.2 | Static libraries for net-snmp | http://www.net-snmp.org/ |
@@ -2193,7 +2193,7 @@
 | **pypy3** | 7.3.23-2 | A fast, compliant alternative implementation of Python 3 | https://pypy.org |
 | **pypy3-tests** | 7.3.23-2 | Test files for PyPy 3 | https://pypy.org |
 | **pypy3-tkinter** | 7.3.23-2 | Tkinter support for PyPy 3 | https://pypy.org |
-| **pyrefly** | 1.1.1 | A fast type checker and language server for Python | https://github.com/facebook/pyrefly.git |
+| **pyrefly** | 1.2.0 | A fast type checker and language server for Python | https://github.com/facebook/pyrefly.git |
 | **pystring** | 1.1.4-1 | C++ functions matching the interface and behavior of python string methods with std::string | https://github.com/imageworks/pystring |
 | **python** | 3.14.6-1 | Python 3 programming language intended to enable clear programs | https://python.org/ |
 | **python-apsw** | 3.53.4.0 | Another Python SQLite Wrapper | https://rogerbinns.github.io/apsw/ |
@@ -2281,7 +2281,7 @@
 | **rage** | 0.11.2 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4-1 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4-1 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
-| **railway-cli** | 5.30.1 | This is the command line interface for Railway | https://railway.app |
+| **railway-cli** | 5.30.3 | This is the command line interface for Railway | https://railway.app |
 | **range-v3** | 0.12.0 | Range library for C++14/17/20, basis for C++20's std::ranges | https://github.com/ericniebler/range-v3 |
 | **ranger** | 1.9.4-2 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-7 | Fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |
