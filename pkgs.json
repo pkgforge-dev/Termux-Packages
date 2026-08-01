@@ -1567,13 +1567,13 @@
   },
   {
     "Package": "cmake",
-    "Version": "4.4.1",
+    "Version": "4.4.2",
     "Description": "Family of tools designed to build, test and package software",
     "Homepage": "https://cmake.org/"
   },
   {
     "Package": "cmake-curses-gui",
-    "Version": "4.4.1",
+    "Version": "4.4.2",
     "Description": "Curses based user interface for CMake (ccmake)",
     "Homepage": "https://cmake.org/"
   },
@@ -1789,7 +1789,7 @@
   },
   {
     "Package": "croc",
-    "Version": "1:11.0.0",
+    "Version": "1:11.0.1",
     "Description": "Easily and securely send things from one computer to another",
     "Homepage": "https://github.com/schollz/croc"
   },
@@ -3349,7 +3349,7 @@
   },
   {
     "Package": "fzf",
-    "Version": "0.74.1",
+    "Version": "0.74.2",
     "Description": "Command-line fuzzy finder",
     "Homepage": "https://junegunn.github.io/fzf/"
   },
@@ -3883,7 +3883,7 @@
   },
   {
     "Package": "gnuplot",
-    "Version": "6.0.4",
+    "Version": "6.0.5",
     "Description": "Command-line driven graphing utility",
     "Homepage": "http://gnuplot.info/"
   },
