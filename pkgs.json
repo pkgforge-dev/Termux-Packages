@@ -697,7 +697,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.36.13",
+    "Version": "2.36.14",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -10357,7 +10357,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.39.7",
+    "Version": "0.39.8",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://lux.lumen-labs.org"
   },
@@ -16321,7 +16321,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.12.0",
+    "Version": "0.12.1",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
