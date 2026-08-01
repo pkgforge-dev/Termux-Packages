@@ -163,7 +163,7 @@
   Description: Slice and dice logs on the command line
   Homepage: https://github.com/rcoh/angle-grinder
 - Package: ani-cli
-  Version: "4.15"
+  Version: "5.0"
   Description: A cli to browse and watch anime
   Homepage: https://github.com/pystardust/ani-cli
 - Package: ansifilter
@@ -1459,7 +1459,7 @@
   Description: dns2tcp is a tool for relaying TCP connections over DNS
   Homepage: https://github.com/alex-sector/dns2tcp
 - Package: dnscontrol
-  Version: 4.44.1
+  Version: 4.45.0
   Description: Infrastructure as code for DNS!
   Homepage: https://github.com/StackExchange/dnscontrol
 - Package: dnslookup
@@ -1703,7 +1703,7 @@
   Description: A small, configurable console text editor
   Homepage: https://craigbarnes.gitlab.io/dte/
 - Package: dua
-  Version: 2.40.0
+  Version: 2.40.1
   Description: View disk space usage and delete unwanted data, fast
   Homepage: https://github.com/Byron/dua-cli
 - Package: duc
@@ -4379,7 +4379,7 @@
   Description: Static libraries for libfreexl
   Homepage: https://www.gaia-gis.it/fossil/freexl
 - Package: libftxui
-  Version: 7.0.1
+  Version: 7.0.2
   Description: A simple C++ library for terminal based user interface
   Homepage: https://github.com/ArthurSonzogni/FTXUI
 - Package: libfyaml
@@ -6867,7 +6867,7 @@
   Description: Static libraries for lua55
   Homepage: https://www.lua.org/
 - Package: luajit
-  Version: 1:2.1.1785192264+gfaaf663
+  Version: 1:2.1.1785606157+g2808400
   Description: Just-In-Time Compiler for Lua
   Homepage: https://luajit.org/
 - Package: luajit-lgi
@@ -6875,7 +6875,7 @@
   Description: Dynamic Lua binding to GObject libraries using GObject-Introspection
   Homepage: https://github.com/lgi-devs/lgi
 - Package: luajit-static
-  Version: 1:2.1.1785192264+gfaaf663
+  Version: 1:2.1.1785606157+g2808400
   Description: Static libraries for luajit
   Homepage: https://luajit.org/
 - Package: luarocks
@@ -7707,7 +7707,7 @@
   Description: RSS/Atom feed reader for the text console
   Homepage: https://newsboat.org/
 - Package: newsraft
-  Version: "0.36"
+  Version: "0.37"
   Description: Newsraft is a feed reader with text-based user interface
   Homepage: https://codeberg.org/newsraft/newsraft
 - Package: nginx
@@ -7867,7 +7867,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 30.1.0
+  Version: 30.1.1
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: oidn
@@ -9231,7 +9231,7 @@
   Description: A CLI for interacting with REST-ish HTTP APIs
   Homepage: https://github.com/rest-sh/restish
 - Package: rgbds
-  Version: 1.0.2+hotfix
+  Version: 1.0.3
   Description: Rednex Game Boy Development System - An assembly toolchain for the Nintendo Game Boy & Game Boy Color
   Homepage: https://rgbds.gbdev.io
 - Package: rhash
