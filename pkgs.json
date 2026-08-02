@@ -4759,7 +4759,7 @@
   },
   {
     "Package": "indi",
-    "Version": "2.2.4",
+    "Version": "2.2.4.1",
     "Description": "Astronomical instrumentation control",
     "Homepage": "https://www.indilib.org"
   },
@@ -9097,7 +9097,7 @@
   },
   {
     "Package": "libtorrent",
-    "Version": "0.16.18",
+    "Version": "0.16.19",
     "Description": "Libtorrent BitTorrent library",
     "Homepage": "https://github.com/rakshasa/rtorrent/wiki"
   },
@@ -9109,7 +9109,7 @@
   },
   {
     "Package": "libtorrent-static",
-    "Version": "0.16.18",
+    "Version": "0.16.19",
     "Description": "Static libraries for libtorrent",
     "Homepage": "https://github.com/rakshasa/rtorrent/wiki"
   },
@@ -11803,7 +11803,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "30.1.1",
+    "Version": "30.2.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -14005,7 +14005,7 @@
   },
   {
     "Package": "rtorrent",
-    "Version": "0.16.18",
+    "Version": "0.16.19",
     "Description": "Ncurses BitTorrent client based on libTorrent",
     "Homepage": "https://rakshasa.github.io/rtorrent/"
   },
