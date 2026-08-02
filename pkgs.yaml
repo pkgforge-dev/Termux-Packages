@@ -387,7 +387,7 @@
   Description: AT and batch delayed command scheduling utility and daemon
   Homepage: https://salsa.debian.org/debian/at
 - Package: at-spi2-core
-  Version: 2.60.5-1
+  Version: 2.60.6
   Description: Assistive Technology Service Provider Interface (AT-SPI)
   Homepage: https://wiki.gnome.org/Accessibility
 - Package: atomicparsley
@@ -2491,7 +2491,7 @@
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
-  Version: 1.18.0
+  Version: 1.18.1
   Description: A friendly language for building type-safe, scalable systems!
   Homepage: https://gleam.run
 - Package: glib
@@ -3271,7 +3271,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.24.2267
+  Version: 0.24.2307
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -5543,11 +5543,11 @@
   Description: Minimalistic protocol buffer decoder and encoder in C++
   Homepage: https://github.com/mapbox/protozero
 - Package: libpsl
-  Version: 0.23.0
+  Version: 0.23.1
   Description: Public Suffix List library
   Homepage: https://github.com/rockdaboot/libpsl
 - Package: libpsl-static
-  Version: 0.23.0
+  Version: 0.23.1
   Description: Static libraries for libpsl
   Homepage: https://github.com/rockdaboot/libpsl
 - Package: libpugixml

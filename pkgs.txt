@@ -95,7 +95,7 @@
  assimp  6.0.5-1  Library to import various well-known 3D model formats in an uniform manner  https://assimp.sourceforge.net/index.html 
  asymptote  3.13  A powerful descriptive vector graphics language for technical drawing  https://asymptote.sourceforge.io/ 
  at  3.2.5-2  AT and batch delayed command scheduling utility and daemon  https://salsa.debian.org/debian/at 
- at-spi2-core  2.60.5-1  Assistive Technology Service Provider Interface (AT-SPI)  https://wiki.gnome.org/Accessibility 
+ at-spi2-core  2.60.6  Assistive Technology Service Provider Interface (AT-SPI)  https://wiki.gnome.org/Accessibility 
  atomicparsley  1:20240608.083822.1ed9031-1  Read, parse and set metadata of MPEG-4 and 3gp files  https://github.com/wez/atomicparsley 
  atomvm  1:0.6.6-1  The minimal Erlang VM implementation  https://github.com/bettio/AtomVM 
  atool  0.39.0-3  tool for managing file archives of various types  https://www.nongnu.org/atool 
@@ -621,7 +621,7 @@
  gitui  0.28.1  Blazing fast terminal-ui for git written in rust  https://github.com/gitui-org/gitui 
  gkermit  2.01-1  Simple, Portable, Free File Transfer Software for UNIX  http://www.columbia.edu/kermit/gkermit.html 
  glab-cli  1.111.0  A GitLab CLI tool bringing GitLab to your command line  https://gitlab.com/gitlab-org/cli 
- gleam  1.18.0  A friendly language for building type-safe, scalable systems!  https://gleam.run 
+ gleam  1.18.1  A friendly language for building type-safe, scalable systems!  https://gleam.run 
  glib  2.88.3  Library providing core building blocks for libraries and applications written in C  https://developer.gnome.org/glib/ 
  glib-cross  2.88.3  glib for host (NOT for Termux)  https://developer.gnome.org/glib/ 
  glib-networking  2.80.1-2  Network-related giomodules for glib  https://gitlab.gnome.org/GNOME/glib-networking 
@@ -816,7 +816,7 @@
  jack  0.0.1  A metapackage that provides JACK Audio Connection Kit  https://github.com/termux/termux-packages 
  jack-example-tools  4-1  Official JACK example clients and tools  https://jackaudio.org/ 
  jack2  1.9.22-2  The JACK low-latency audio server  https://jackaudio.org/ 
- jackett  0.24.2267  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
+ jackett  0.24.2307  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
  jadx  1.5.5  Dex to Java decompiler  https://github.com/skylot/jadx 
  jadx-x  1.5.5  Dex to Java decompiler GUI  https://github.com/skylot/jadx 
  janet  1.41.2  Janet is a dialect of Lisp intended for embedding into programs and such  https://janet-lang.org 
@@ -1384,8 +1384,8 @@
  libprotobuf-c  1.5.2-4  Protocol buffers C library  https://github.com/protobuf-c/protobuf-c 
  libprotobuf-c-static  1.5.2-4  Static libraries for libprotobuf-c  https://github.com/protobuf-c/protobuf-c 
  libprotozero  1.8.0  Minimalistic protocol buffer decoder and encoder in C++  https://github.com/mapbox/protozero 
- libpsl  0.23.0  Public Suffix List library  https://github.com/rockdaboot/libpsl 
- libpsl-static  0.23.0  Static libraries for libpsl  https://github.com/rockdaboot/libpsl 
+ libpsl  0.23.1  Public Suffix List library  https://github.com/rockdaboot/libpsl 
+ libpsl-static  0.23.1  Static libraries for libpsl  https://github.com/rockdaboot/libpsl 
  libpugixml  1.16  Light-weight, simple and fast XML parser for C++ with XPath support  https://pugixml.org/ 
  libqrencode  4.1.1-2  Fast and compact library for encoding data in a QR Code symbol  https://fukuchi.org/works/qrencode/ 
  libqxp  0.0.3  a library that parses the file format of QuarkXPress documents  https://wiki.documentfoundation.org/DLP/Libraries/libqxp 
