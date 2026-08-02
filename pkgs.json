@@ -1513,7 +1513,7 @@
   },
   {
     "Package": "cli11",
-    "Version": "2.7.1",
+    "Version": "2.7.2",
     "Description": "Command line parser for C++11",
     "Homepage": "https://github.com/CLIUtils/CLI11"
   },
@@ -11011,7 +11011,7 @@
   },
   {
     "Package": "moor",
-    "Version": "2.16.1",
+    "Version": "2.16.2",
     "Description": "A pager designed to just do the right thing without any configuration",
     "Homepage": "https://github.com/walles/moor"
   },
@@ -11803,7 +11803,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "30.2.0",
+    "Version": "30.3.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -15289,7 +15289,7 @@
   },
   {
     "Package": "tea",
-    "Version": "0.15.0",
+    "Version": "0.15.1",
     "Description": "The official CLI for Gitea",
     "Homepage": "https://gitea.com/gitea/tea"
   },
@@ -15571,8 +15571,14 @@
   },
   {
     "Package": "timewarrior",
-    "Version": "1.9.1",
+    "Version": "1.10.0",
     "Description": "Command-line time tracker",
+    "Homepage": "https://timewarrior.net/"
+  },
+  {
+    "Package": "timewarrior-static",
+    "Version": "1.10.0",
+    "Description": "Static libraries for timewarrior",
     "Homepage": "https://timewarrior.net/"
   },
   {

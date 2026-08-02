@@ -262,7 +262,7 @@
 | **clamav-static** | 1.5.3 | Static libraries for clamav | https://www.clamav.net/ |
 | **clang** | 21.1.8-3 | C language frontend for LLVM | https://clang.llvm.org/ |
 | **clblast** | 1.7.0 | Tuned OpenCL BLAS | https://github.com/CNugteren/CLBlast |
-| **cli11** | 2.7.1 | Command line parser for C++11 | https://github.com/CLIUtils/CLI11 |
+| **cli11** | 2.7.2 | Command line parser for C++11 | https://github.com/CLIUtils/CLI11 |
 | **clifm** | 1.28-1 | The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell | https://github.com/leo-arch/clifm |
 | **clinfo** | 3.0.25.02.14-1 | Print all known information about all available OpenCL platforms and devices in the system | https://github.com/Oblomov/clinfo |
 | **clipp** | 1.2.3-1 | Command line interfaces for modern C++ | https://github.com/muellan/clipp |
@@ -1845,7 +1845,7 @@
 | **mono-static** | 6.14.1-2 | Static libraries for mono | https://gitlab.winehq.org/mono/mono |
 | **monolith** | 2.10.1-1 | CLI tool for saving complete web pages as a single HTML file | https://github.com/Y2Z/monolith |
 | **moon-buggy** | 1.1.0 | Simple game where you drive a car across the moon's surface | https://www.seehuhn.de/programs/moon-buggy |
-| **moor** | 2.16.1 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moor |
+| **moor** | 2.16.2 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moor |
 | **mop** | 2025.03.17-1 | Stock market tracker | https://github.com/mop-tracker/mop |
 | **moreutils** | 0.70-1 | A growing collection of the unix tools that nobody thought to write thirty years ago | https://joeyh.name/code/moreutils/ |
 | **moria** | 5.7.15-7 | Rogue-like game with an infinite dungeon | https://umoria.org |
@@ -1977,7 +1977,7 @@
 | **octomap** | 1.10.0-1 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0-1 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-5 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 30.2.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 30.3.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **oidn** | 2.4.1 | Intel® Open Image Denoise library | https://www.openimagedenoise.org |
 | **okc-agents** | 0.1.2-2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.7 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
@@ -2558,7 +2558,7 @@
 | **tcsh** | 6.24.16-1 | TENEX C Shell, an enhanced version of Berkeley csh | https://www.tcsh.org |
 | **tdb-tools** | 1.4.15 | Tools for TDB | https://tdb.samba.org/ |
 | **tdl** | 0.20.3 | Telegram downloader/tools written in Golang | https://docs.iyear.me/tdl/ |
-| **tea** | 0.15.0 | The official CLI for Gitea | https://gitea.com/gitea/tea |
+| **tea** | 0.15.1 | The official CLI for Gitea | https://gitea.com/gitea/tea |
 | **tealdeer** | 1.8.1 | A very fast implementation of tldr in Rust | https://tealdeer-rs.github.io/tealdeer/ |
 | **teckit** | 2.5.13 | TECkit is a library for encoding conversion | https://scripts.sil.org/teckitdownloads |
 | **teckit-static** | 2.5.13 | Static libraries for teckit | https://scripts.sil.org/teckitdownloads |
@@ -2605,7 +2605,8 @@
 | **tig** | 2.6.1 | Ncurses-based text-mode interface for git | https://jonas.github.io/tig/ |
 | **tilde** | 1.1.3-2 | A text editor for the console/terminal | https://os.ghalkes.nl/tilde/ |
 | **time** | 1.9-1 | GNU time program for measuring CPU resource usage | https://www.gnu.org/software/time/ |
-| **timewarrior** | 1.9.1 | Command-line time tracker | https://timewarrior.net/ |
+| **timewarrior** | 1.10.0 | Command-line time tracker | https://timewarrior.net/ |
+| **timewarrior-static** | 1.10.0 | Static libraries for timewarrior | https://timewarrior.net/ |
 | **timg** | 1.6.3-2 | A terminal image and video viewer | https://timg.sh/ |
 | **timidity++** | 2.15.0-2 | MIDI-to-WAVE converter and player | https://timidity.sourceforge.net/ |
 | **tin-summer** | 1.21.14-1 | Find build artifacts that are taking up disk space | https://github.com/vmchale/tin-summer |

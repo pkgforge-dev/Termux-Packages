@@ -1007,7 +1007,7 @@
   Description: Tuned OpenCL BLAS
   Homepage: https://github.com/CNugteren/CLBlast
 - Package: cli11
-  Version: 2.7.1
+  Version: 2.7.2
   Description: Command line parser for C++11
   Homepage: https://github.com/CLIUtils/CLI11
 - Package: clifm
@@ -7339,7 +7339,7 @@
   Description: Simple game where you drive a car across the moons surface
   Homepage: https://www.seehuhn.de/programs/moon-buggy
 - Package: moor
-  Version: 2.16.1
+  Version: 2.16.2
   Description: A pager designed to just do the right thing without any configuration
   Homepage: https://github.com/walles/moor
 - Package: mop
@@ -7867,7 +7867,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 30.2.0
+  Version: 30.3.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: oidn
@@ -10191,7 +10191,7 @@
   Description: Telegram downloader/tools written in Golang
   Homepage: https://docs.iyear.me/tdl/
 - Package: tea
-  Version: 0.15.0
+  Version: 0.15.1
   Description: The official CLI for Gitea
   Homepage: https://gitea.com/gitea/tea
 - Package: tealdeer
@@ -10379,8 +10379,12 @@
   Description: GNU time program for measuring CPU resource usage
   Homepage: https://www.gnu.org/software/time/
 - Package: timewarrior
-  Version: 1.9.1
+  Version: 1.10.0
   Description: Command-line time tracker
+  Homepage: https://timewarrior.net/
+- Package: timewarrior-static
+  Version: 1.10.0
+  Description: Static libraries for timewarrior
   Homepage: https://timewarrior.net/
 - Package: timg
   Version: 1.6.3-2
