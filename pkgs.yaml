@@ -1703,7 +1703,7 @@
   Description: A small, configurable console text editor
   Homepage: https://craigbarnes.gitlab.io/dte/
 - Package: dua
-  Version: 2.40.1
+  Version: 2.41.0
   Description: View disk space usage and delete unwanted data, fast
   Homepage: https://github.com/Byron/dua-cli
 - Package: duc
@@ -1907,7 +1907,7 @@
   Description: Open source xHE-AAC encoder
   Homepage: https://gitlab.com/ecodis/exhale
 - Package: exiftool
-  Version: "13.59"
+  Version: 13.59-1
   Description: Utility for reading, writing and editing meta information in a wide variety of files.
   Homepage: https://exiftool.org/
 - Package: exiv2
@@ -1995,7 +1995,7 @@
   Description: Utilities to manipulate disk partition tables
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: fdkaac
-  Version: 1.0.8
+  Version: 1.0.9
   Description: command line encoder frontend for libfdk-aac
   Homepage: https://github.com/nu774/fdkaac
 - Package: fdm
@@ -3239,7 +3239,7 @@
   Description: Minimalist hexadecimal editor
   Homepage: https://github.com/radare/ired
 - Package: irssi
-  Version: 1.4.5-4
+  Version: 1.4.5-5
   Description: Terminal based IRC client
   Homepage: https://irssi.org/
 - Package: isync
@@ -3739,7 +3739,7 @@
   Description: Static libraries for libaom
   Homepage: https://aomedia.org/
 - Package: libapt-pkg-perl
-  Version: 0.1.40-14
+  Version: 0.1.43
   Description: Perl interface to APTs libapt-pkg
   Homepage: https://packages.debian.org/libapt-pkg-perl
 - Package: libarchive
@@ -5607,7 +5607,7 @@
   Description: A regular expression library
   Homepage: https://github.com/google/re2
 - Package: libregexp-assemble-perl
-  Version: 0.38-8
+  Version: 0.38-9
   Description: Perl module to merge several regular expressions
   Homepage: https://metacpan.org/pod/Regexp::Assemble
 - Package: libresolv-wrapper
@@ -6867,7 +6867,7 @@
   Description: Static libraries for lua55
   Homepage: https://www.lua.org/
 - Package: luajit
-  Version: 1:2.1.1785606157+g2808400
+  Version: 1:2.1.1785746657+gf30aabe
   Description: Just-In-Time Compiler for Lua
   Homepage: https://luajit.org/
 - Package: luajit-lgi
@@ -6875,7 +6875,7 @@
   Description: Dynamic Lua binding to GObject libraries using GObject-Introspection
   Homepage: https://github.com/lgi-devs/lgi
 - Package: luajit-static
-  Version: 1:2.1.1785606157+g2808400
+  Version: 1:2.1.1785746657+gf30aabe
   Description: Static libraries for luajit
   Homepage: https://luajit.org/
 - Package: luarocks
@@ -8151,11 +8151,11 @@
   Description: Open Virtual Machine Firmware
   Homepage: https://www.tianocore.org/
 - Package: oxfmt
-  Version: 1.76.0
+  Version: 1.77.0
   Description: Oxc JavaScript formatter
   Homepage: https://oxc.rs/
 - Package: oxlint
-  Version: 1.76.0
+  Version: 1.77.0
   Description: Oxc JavaScript linter
   Homepage: https://oxc.rs/
 - Package: p11-kit
@@ -8331,7 +8331,7 @@
   Description: Simplistic interactive filtering tool
   Homepage: https://github.com/peco/peco
 - Package: perl
-  Version: 5.42.0
+  Version: 5.42.2
   Description: Capable, feature-rich programming language
   Homepage: https://www.perl.org/
 - Package: perl-rename
@@ -8347,7 +8347,7 @@
   Description: Portable Forth in C
   Homepage: https://www.softsynth.com/pforth/
 - Package: pgroonga
-  Version: 4.0.6
+  Version: 4.0.8
   Description: A PostgreSQL extension to use Groonga as index
   Homepage: https://github.com/pgroonga/pgroonga
 - Package: photon-rss
@@ -8847,7 +8847,7 @@
   Description: An extremely fast Python linter, written in Rust (Python bindings)
   Homepage: https://github.com/charliermarsh/ruff
 - Package: python-sabyenc3
-  Version: 9.6.2
+  Version: 9.6.3
   Description: C implementations of functions for use within SABnzbd
   Homepage: https://github.com/sabnzbd/sabctools
 - Package: python-scipy
@@ -9083,7 +9083,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 5.30.3
+  Version: 5.30.4
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
@@ -9675,7 +9675,7 @@
   Description: Simulator for Microchip AVR (formerly Atmel) microcontrollers
   Homepage: https://www.nongnu.org/simulavr
 - Package: sing-box
-  Version: 1.13.15
+  Version: 1.13.16
   Description: The universal proxy platform
   Homepage: https://sing-box.sagernet.org
 - Package: skate
@@ -10015,19 +10015,19 @@
   Description: DVD subtitle ripper for Linux
   Homepage: https://subtitleripper.sourceforge.net/
 - Package: subversion
-  Version: 1.14.5-1
+  Version: 1.14.5-2
   Description: Centralized version control system characterized by its simplicity
   Homepage: https://subversion.apache.org
 - Package: subversion-perl
-  Version: 1.14.5-1
+  Version: 1.14.5-2
   Description: Perl interface to Subversion
   Homepage: https://subversion.apache.org
 - Package: subversion-perl-static
-  Version: 1.14.5-1
+  Version: 1.14.5-2
   Description: Static libraries for subversion-perl
   Homepage: https://subversion.apache.org
 - Package: subversion-static
-  Version: 1.14.5-1
+  Version: 1.14.5-2
   Description: Static libraries for subversion
   Homepage: https://subversion.apache.org
 - Package: sudo
@@ -10979,7 +10979,7 @@
   Description: VI Like Emacs - vi work-alike
   Homepage: https://invisible-island.net/vile/
 - Package: vim
-  Version: 9.2.0900
+  Version: 9.2.0900-1
   Description: Vi IMproved - enhanced vi editor
   Homepage: https://www.vim.org
 - Package: virglrenderer
@@ -11371,7 +11371,7 @@
   Description: Static libraries for xvidcore
   Homepage: https://www.xvid.com/
 - Package: xxd
-  Version: 9.2.0900
+  Version: 9.2.0900-1
   Description: Hexdump utility from vim
   Homepage: https://www.vim.org
 - Package: xxhash
