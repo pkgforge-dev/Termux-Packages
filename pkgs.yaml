@@ -8858,6 +8858,10 @@
   Version: 0.9.2-2
   Description: Python bindings for the Skia librarys Path Ops
   Homepage: https://github.com/fonttools/skia-pathops
+- Package: python-soxr
+  Version: 1.1.0
+  Description: Fast and high quality sample-rate conversion library for Python
+  Homepage: https://github.com/dofuuz/python-soxr
 - Package: python-static
   Version: 3.14.6-1
   Description: Static libraries for python
