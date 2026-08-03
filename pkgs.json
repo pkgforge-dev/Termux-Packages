@@ -1345,7 +1345,7 @@
   },
   {
     "Package": "cec-client",
-    "Version": "8.1.3",
+    "Version": "8.1.4",
     "Description": "Client applications for libCEC",
     "Homepage": "https://libcec.pulse-eight.com/"
   },
@@ -2023,7 +2023,7 @@
   },
   {
     "Package": "delve",
-    "Version": "1.27.0",
+    "Version": "1.27.1",
     "Description": "A debugger for the Go programming language",
     "Homepage": "https://github.com/go-delve/delve"
   },
@@ -2239,7 +2239,7 @@
   },
   {
     "Package": "docker-compose",
-    "Version": "5.3.1-1",
+    "Version": "5.4.0",
     "Description": "Compose is a tool for defining and running multi-container Docker applications.",
     "Homepage": "https://github.com/docker/compose"
   },
@@ -5239,7 +5239,7 @@
   },
   {
     "Package": "kubo",
-    "Version": "0.42.0",
+    "Version": "0.43.0",
     "Description": "A peer-to-peer hypermedia distribution protocol",
     "Homepage": "https://ipfs.io/"
   },
@@ -5905,13 +5905,13 @@
   },
   {
     "Package": "libcec",
-    "Version": "8.1.3",
+    "Version": "8.1.4",
     "Description": "Provides support for Pulse-Eights USB-CEC adapter and other CEC capable hardware",
     "Homepage": "https://libcec.pulse-eight.com/"
   },
   {
     "Package": "libcec-static",
-    "Version": "8.1.3",
+    "Version": "8.1.4",
     "Description": "Static libraries for libcec",
     "Homepage": "https://libcec.pulse-eight.com/"
   },
@@ -9355,7 +9355,7 @@
   },
   {
     "Package": "libvips",
-    "Version": "8.18.4-2",
+    "Version": "8.18.5",
     "Description": "A fast image processing library with low memory needs",
     "Homepage": "https://libvips.github.io/libvips/"
   },
@@ -10303,7 +10303,7 @@
   },
   {
     "Package": "luajit",
-    "Version": "1:2.1.1785746657+gf30aabe",
+    "Version": "1:2.1.1785763465+g1edc3e5",
     "Description": "Just-In-Time Compiler for Lua",
     "Homepage": "https://luajit.org/"
   },
@@ -10315,7 +10315,7 @@
   },
   {
     "Package": "luajit-static",
-    "Version": "1:2.1.1785746657+gf30aabe",
+    "Version": "1:2.1.1785763465+g1edc3e5",
     "Description": "Static libraries for luajit",
     "Homepage": "https://luajit.org/"
   },
