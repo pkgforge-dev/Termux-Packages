@@ -597,7 +597,7 @@
  gflags-static  2.3.1  Static libraries for gflags  https://github.com/gflags/gflags 
  gforth  0.7.3-3  The Forth implementation of the GNU project  https://www.gnu.org/software/gforth/ 
  gh  2.97.0  GitHub’s official command line tool  https://cli.github.com/ 
- ghc  9.12.2-3  The Glasgow Haskell Compiler  https://www.haskell.org/ghc/ 
+ ghc  9.12.2-4  The Glasgow Haskell Compiler  https://www.haskell.org/ghc/ 
  ghostscript  10.07.1  Interpreter for the PostScript language and for PDF  https://www.ghostscript.com/ 
  giflib  5.2.2-2  A library for reading and writing gif images  https://giflib.sourceforge.net/ 
  giflib-static  5.2.2-2  Static libraries for giflib  https://giflib.sourceforge.net/ 
@@ -1909,7 +1909,7 @@
  neofetch  7.1.0-1  Simple system information script  https://github.com/dylanaraps/neofetch 
  neomutt  20260616  A version of mutt with added features  https://neomutt.org/ 
  neovim  0.12.4  Ambitious Vim-fork focused on extensibility and agility (nvim)  https://neovim.io/ 
- neovim-nightly  0.13.0~dev-1192+ga5103c0853-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
+ neovim-nightly  0.13.0~dev-1202+g1f4335fe72-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
  nerdfix  0.4.2-1  nerdfix helps you to find/fix obsolete Nerd Font icons in your project.  https://github.com/loichyan/nerdfix 
  net-snmp  5.9.5.2  Various tools relating to the Simple Network Management Protocol  http://www.net-snmp.org/ 
  net-snmp-static  5.9.5.2  Static libraries for net-snmp  http://www.net-snmp.org/ 
@@ -2346,7 +2346,7 @@
  runit-static  2.1.2-4  Static libraries for runit  http://smarden.org/runit 
  rush  0.9.0  A cross-platform command-line tool for executing jobs in parallel  https://github.com/shenwei356/rush 
  rust  1.97.1  Systems programming language focused on safety, speed and concurrency  https://www.rust-lang.org/ 
- rust-analyzer  20260727  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
+ rust-analyzer  20260803  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
  rust-bindgen  0.72.1  Automatically generates Rust FFI bindings to C (and some C++) libraries  https://github.com/rust-lang/rust-bindgen 
  rust-docs  1.97.1  Rust documentation  https://www.rust-lang.org/ 
  rust-src  1.97.1  Rust source code files  https://www.rust-lang.org/ 
