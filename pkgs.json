@@ -3967,13 +3967,13 @@
   },
   {
     "Package": "golang",
-    "Version": "3:1.26.5",
+    "Version": "3:1.26.5-1",
     "Description": "Go programming language compiler",
     "Homepage": "https://go.dev/"
   },
   {
     "Package": "golang-doc",
-    "Version": "3:1.26.5",
+    "Version": "3:1.26.5-1",
     "Description": "Go programming language - documentation",
     "Homepage": "https://go.dev/"
   },
@@ -6943,7 +6943,7 @@
   },
   {
     "Package": "libid3tag",
-    "Version": "0.16.4",
+    "Version": "0.16.4-1",
     "Description": "MAD ID3 tag manipulation library",
     "Homepage": "http://www.underbit.com/products/mad/"
   },
@@ -11803,7 +11803,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "30.3.0",
+    "Version": "30.4.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
