@@ -5725,7 +5725,7 @@
   },
   {
     "Package": "libblosc2",
-    "Version": "3.2.3",
+    "Version": "3.3.1",
     "Description": "A blocking, shuffling and loss-less compression library",
     "Homepage": "https://www.blosc.org"
   },
@@ -10783,25 +10783,25 @@
   },
   {
     "Package": "mesa",
-    "Version": "26.0.6-1",
+    "Version": "26.0.6-2",
     "Description": "An open-source implementation of the OpenGL specification",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-dev",
-    "Version": "26.0.6-1",
+    "Version": "26.0.6-2",
     "Description": "Mesas OpenGL headers",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-opencl-icd-rusticl",
-    "Version": "26.0.6-1",
+    "Version": "26.0.6-2",
     "Description": "Mesas Rusticl OpenCL ICD",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-vulkan-icd-swrast",
-    "Version": "26.0.6-1",
+    "Version": "26.0.6-2",
     "Description": "Mesas Swrast Vulkan ICD",
     "Homepage": "https://www.mesa3d.org"
   },
@@ -10921,7 +10921,7 @@
   },
   {
     "Package": "mise",
-    "Version": "2026.7.11",
+    "Version": "2026.8.1",
     "Description": "dev tools, env vars, task runner",
     "Homepage": "https://mise.jdx.dev/"
   },
@@ -11467,7 +11467,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-1202+g1f4335fe72-0",
+    "Version": "0.13.0~dev-1212+g8d2b50c0ce-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -11803,7 +11803,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "30.4.0",
+    "Version": "30.5.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -16093,7 +16093,7 @@
   },
   {
     "Package": "ty",
-    "Version": "0.0.65",
+    "Version": "0.0.66",
     "Description": "An extremely fast Python type checker and language server, written in Rust",
     "Homepage": "https://github.com/astral-sh/ty"
   },
