@@ -114,7 +114,7 @@
 | **aview** | 1.3.0rc1-6 | High quality ascii-art image browser and animation player | https://aa-project.sourceforge.net/aview/ |
 | **avra** | 1.4.2-1 | Assember for the Atmel AVR microcontroller family | https://github.com/Ro5bert/avra |
 | **await** | 2.7.0 | Runs list of commands in parallel and waits for their termination | https://github.com/slavaGanzin/await |
-| **awscli** | 2.36.14 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
+| **awscli** | 2.36.15 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
 | **axel** | 2.17.14-1 | light command line download accelerator | https://github.com/axel-download-accelerator/axel |
 | **b3sum** | 1.8.5 | A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum | https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum |
 | **babl** | 0.1.126 | Dynamic pixel format translation library | https://gegl.org/babl/ |
@@ -1428,8 +1428,8 @@
 | **libseat** | 0.9.3 | Reference implementation of a wayland compositor | https://sr.ht/~kennylevinsen/seatd/ |
 | **libseccomp** | 2.6.0 | Enhanced seccomp library | https://github.com/seccomp/libseccomp |
 | **libseccomp-static** | 2.6.0 | Static libraries for libseccomp | https://github.com/seccomp/libseccomp |
-| **libsecp256k1** | 1:0.7.1 | Optimized c library for ECDSA signatures and seret/public key operations on curve secp256k1 | https://github.com/bitcoin-core/secp256k1 |
-| **libsecp256k1-static** | 1:0.7.1 | Static libraries for libsecp256k1 | https://github.com/bitcoin-core/secp256k1 |
+| **libsecp256k1** | 1:0.8.0 | Optimized c library for ECDSA signatures and seret/public key operations on curve secp256k1 | https://github.com/bitcoin-core/secp256k1 |
+| **libsecp256k1-static** | 1:0.8.0 | Static libraries for libsecp256k1 | https://github.com/bitcoin-core/secp256k1 |
 | **libsecret** | 0.21.7-3 | A GObject-based library for accessing the Secret Service API | https://gitlab.gnome.org/GNOME/libsecret |
 | **libsfdo** | 0.1.4-1 | A collection of libraries which implement some of the freedesktop.org specifications. | https://gitlab.freedesktop.org/vyivel/libsfdo |
 | **libshout** | 2.4.6-2 | Library which can be used to write a source client like ices. | https://icecast.org/ |
@@ -1724,7 +1724,7 @@
 | **luvi** | 1:2.15.0-2 | A project in-between luv and luvit | https://luvit.io |
 | **luvit** | 2.18.1-1 | Asynchronous I/O for Lua | https://luvit.io |
 | **lux** | 0.24.1-2 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
-| **lux-cli** | 0.39.9 | A package manager for Lua, similar to luarocks | https://lux.lumen-labs.org |
+| **lux-cli** | 0.40.0 | A package manager for Lua, similar to luarocks | https://lux.lumen-labs.org |
 | **lv2** | 1.18.10-7 | A plugin standard for audio systems | https://lv2plug.in/ |
 | **lychee** | 0.24.2 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
 | **lynx** | 2.9.2-1 | The text web browser | http://lynx.browser.org/ |
@@ -2076,7 +2076,7 @@
 | **pcregrep** | 8.45-2 | A grep with Perl-compatible regular expressions | https://www.pcre.org |
 | **pcscd** | 2.5.1 | Middleware to access a smart card using SCard API (PC/SC). (daemon side) | https://pcsclite.apdu.fr/ |
 | **pdf2svg** | 0.2.4-2 | A PDF to SVG converter | http://www.cityinthesky.co.uk/opensource/pdf2svg/ |
-| **pdfcpu** | 0.13.0 | A PDF processor written in Go | https://pdfcpu.io |
+| **pdfcpu** | 0.14.0 | A PDF processor written in Go | https://pdfcpu.io |
 | **pdfgrep** | 2.2.0-5 | Command line utility to search text in PDF files | https://pdfgrep.org/ |
 | **pdftk** | 3.3.3-3 | A simple tool for doing everyday things with PDF documents | https://gitlab.com/pdftk-java/pdftk |
 | **peaclock** | 0.4.3-9 | A responsive and customizable clock, timer, and stopwatch for the terminal. | https://github.com/octobanana/peaclock |
@@ -2450,7 +2450,7 @@
 | **spatialite-tools** | 5.0.1-5 | Collection of tools supporting SpatiaLite | https://www.gaia-gis.it/fossil/spatialite-tools |
 | **speechd** | 0.12.1-2 | Common interface to speech synthesis | https://github.com/brailcom/speechd |
 | **speechd-data** | 0.12.1-2 | Platform-independent data for speechd | https://github.com/brailcom/speechd |
-| **speedtest-go** | 1.7.10-1 | Command line interface to test internet speed using speedtest.net | https://github.com/showwin/speedtest-go/ |
+| **speedtest-go** | 1.7.11 | Command line interface to test internet speed using speedtest.net | https://github.com/showwin/speedtest-go/ |
 | **speex-utils** | 1.2.1-1 | Speex command line tools | https://www.speex.org/ |
 | **speexdsp** | 1.2.1-1 | Speex audio processing library | https://speex.org/ |
 | **speexdsp-static** | 1.2.1-1 | Static libraries for speexdsp | https://speex.org/ |
