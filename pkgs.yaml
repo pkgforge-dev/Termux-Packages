@@ -79,7 +79,7 @@
   Description: A pretty good email client
   Homepage: https://aerc-mail.org/
 - Package: agate
-  Version: 3.3.23
+  Version: 3.3.24
   Description: Very simple server for the Gemini hypertext protocol
   Homepage: https://github.com/mbrubeck/agate
 - Package: age
@@ -2115,7 +2115,7 @@
   Description: Software synthesizer based on the SoundFont 2 specifications
   Homepage: https://github.com/FluidSynth/fluidsynth
 - Package: flyctl
-  Version: 0.4.77
+  Version: 0.4.78
   Description: Command line tools for fly.io services
   Homepage: https://fly.io
 - Package: fm
@@ -2531,7 +2531,7 @@
   Description: Static libraries for glpk
   Homepage: https://www.gnu.org/software/glpk/
 - Package: glslang
-  Version: 16.4.0-1
+  Version: 16.5.0
   Description: OpenGL and OpenGL ES shader front end and validator
   Homepage: https://github.com/KhronosGroup/glslang
 - Package: gluelang
@@ -3407,7 +3407,7 @@
   Description: User friendly full screen text editor
   Homepage: http://www.mirbsd.org/jupp.htm
 - Package: just
-  Version: 1.57.0
+  Version: 1.58.0
   Description: A handy way to save and run project-specific commands
   Homepage: https://just.systems
 - Package: jython
