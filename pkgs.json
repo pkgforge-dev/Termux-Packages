@@ -2803,13 +2803,13 @@
   },
   {
     "Package": "erlang",
-    "Version": "29.0.4",
+    "Version": "29.0.5",
     "Description": "General-purpose concurrent functional programming language",
     "Homepage": "https://www.erlang.org/"
   },
   {
     "Package": "erlang-doc",
-    "Version": "29.0.4",
+    "Version": "29.0.5",
     "Description": "Erlang HTML documentation",
     "Homepage": "https://www.erlang.org/"
   },
@@ -3733,7 +3733,7 @@
   },
   {
     "Package": "glab-cli",
-    "Version": "1.111.0",
+    "Version": "1.112.0",
     "Description": "A GitLab CLI tool bringing GitLab to your command line",
     "Homepage": "https://gitlab.com/gitlab-org/cli"
   },
@@ -3931,7 +3931,7 @@
   },
   {
     "Package": "go-musicfox",
-    "Version": "5.0.1",
+    "Version": "5.0.2",
     "Description": "A netease music player in terminal.",
     "Homepage": "https://github.com/go-musicfox/go-musicfox"
   },
@@ -5269,7 +5269,7 @@
   },
   {
     "Package": "lazygit",
-    "Version": "0.63.1",
+    "Version": "0.64.0",
     "Description": "Simple terminal UI for git commands",
     "Homepage": "https://github.com/jesseduffield/lazygit"
   },
@@ -9211,13 +9211,13 @@
   },
   {
     "Package": "libunbound",
-    "Version": "1.25.2",
+    "Version": "1.26.0",
     "Description": "A validating, recursive, caching DNS resolver",
     "Homepage": "https://unbound.net/"
   },
   {
     "Package": "libunbound-static",
-    "Version": "1.25.2",
+    "Version": "1.26.0",
     "Description": "Static libraries for libunbound",
     "Homepage": "https://unbound.net/"
   },
@@ -10357,7 +10357,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.40.0",
+    "Version": "0.40.1",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://lux.lumen-labs.org"
   },
@@ -13387,7 +13387,7 @@
   },
   {
     "Package": "pyunbound",
-    "Version": "1.25.2",
+    "Version": "1.26.0",
     "Description": "Python bindings for Unbound",
     "Homepage": "https://unbound.net/"
   },
@@ -13573,7 +13573,7 @@
   },
   {
     "Package": "quickjs-ng",
-    "Version": "0.16.0",
+    "Version": "0.16.1",
     "Description": "Embeddable JavaScript engine in C (NG fork)",
     "Homepage": "https://quickjs-ng.github.io/quickjs/"
   },
@@ -16147,7 +16147,7 @@
   },
   {
     "Package": "unbound",
-    "Version": "1.25.2",
+    "Version": "1.26.0",
     "Description": "Unbound command-line tools",
     "Homepage": "https://unbound.net/"
   },
