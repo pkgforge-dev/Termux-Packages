@@ -4326,6 +4326,12 @@
     "Homepage": "https://www.gnu.org/software/gzip/"
   },
   {
+    "Package": "half",
+    "Version": "2.2.1",
+    "Description": "C++ header-only library for IEEE 754 half-precision floating-point format",
+    "Homepage": "https://half.sourceforge.net/"
+  },
+  {
     "Package": "haproxy",
     "Version": "3.4.3",
     "Description": "The Reliable, High Performance TCP/HTTP Load Balancer",
@@ -10921,7 +10927,7 @@
   },
   {
     "Package": "mise",
-    "Version": "2026.8.1",
+    "Version": "2026.8.2",
     "Description": "dev tools, env vars, task runner",
     "Homepage": "https://mise.jdx.dev/"
   },
@@ -11467,7 +11473,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-1212+g8d2b50c0ce-0",
+    "Version": "0.13.0~dev-1231+g2e3785a702-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -11803,7 +11809,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "30.5.0",
+    "Version": "30.6.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -17149,7 +17155,7 @@
   },
   {
     "Package": "yosys",
-    "Version": "0.67",
+    "Version": "0.68",
     "Description": "A framework for RTL synthesis tools",
     "Homepage": "https://yosyshq.net/yosys/"
   },
