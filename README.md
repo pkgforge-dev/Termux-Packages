@@ -201,7 +201,7 @@
 | **c-toxcore-static** | 0.2.23 | Static libraries for c-toxcore | https://tox.chat |
 | **ca-certificates** | 1:2026.07.16 | Common CA certificates | https://curl.se/docs/caextract.html |
 | **ca-certificates-java** | 1:2026.07.16 | Common CA certificates (java keystore format) | https://curl.se/docs/caextract.html |
-| **cabal-install** | 3.14.1.1-2 | The command-line interface for Haskell-Cabal and Hackage | https://www.haskell.org/cabal/ |
+| **cabal-install** | 3.16.1.0 | The command-line interface for Haskell-Cabal and Hackage | https://www.haskell.org/cabal/ |
 | **cabextract** | 1.11-1 | A program to extract Microsoft cabinet (.CAB) files | https://www.cabextract.org.uk/ |
 | **cabin** | 0.17.0 | A package manager and build system for C/C++ | https://cabinpkg.com/ |
 | **cadaver** | 0.28 | A command-line WebDAV client for Unix | https://notroj.github.io/cadaver/ |
@@ -716,7 +716,7 @@
 | **gsf-tools** | 1.14.58 | Command-line tools for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
 | **gsl** | 2.8-1 | GNU Scientific Library (GSL) providing a wide range of mathematical routines | https://www.gnu.org/software/gsl/ |
 | **gsl-static** | 2.8-1 | Static libraries for gsl | https://www.gnu.org/software/gsl/ |
-| **gst-libav** | 1.28.5 | GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code | https://gstreamer.freedesktop.org/modules/gst-libav.html |
+| **gst-libav** | 1.28.6 | GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code | https://gstreamer.freedesktop.org/modules/gst-libav.html |
 | **gst-plugins-bad** | 1.28.5-1 | GStreamer Bad Plug-ins | https://gstreamer.freedesktop.org/ |
 | **gst-plugins-base** | 1.28.5 | GStreamer base plug-ins | https://gstreamer.freedesktop.org/ |
 | **gst-plugins-good** | 1.28.5 | GStreamer Good Plug-ins | https://gstreamer.freedesktop.org/ |
@@ -1978,7 +1978,7 @@
 | **octomap** | 1.10.0-1 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0-1 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-5 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 30.6.1 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 30.6.2 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **oidn** | 2.4.1 | Intel® Open Image Denoise library | https://www.openimagedenoise.org |
 | **okc-agents** | 0.1.2-2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.7 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
@@ -2544,7 +2544,7 @@
 | **swig** | 4.4.1 | Generate scripting interfaces to C/C++ code | https://swig.org |
 | **swtpm** | 0.10.1-2 | Software TPM Emulator | https://github.com/stefanberger/swtpm |
 | **swtpm-static** | 0.10.1-2 | Static libraries for swtpm | https://github.com/stefanberger/swtpm |
-| **syncthing** | 2.1.2 | Decentralized file synchronization | https://syncthing.net/ |
+| **syncthing** | 2.1.3 | Decentralized file synchronization | https://syncthing.net/ |
 | **sysprop** | 16.0.0.4-1 | Android sysprop generators | https://github.com/termux/android-build-tools |
 | **ta-lib** | 0.5.0 | Technical analysis library with indicators like ADX | https://ta-lib.org/ |
 | **ta-lib-static** | 0.5.0 | Static libraries for ta-lib | https://ta-lib.org/ |
@@ -2700,7 +2700,7 @@
 | **udftools** | 2.3-1 | Linux tools for UDF filesystems and DVD/CD-R(W) drives | https://github.com/pali/udftools |
 | **udocker** | 1.3.17-5 | A basic user tool to execute simple docker containers in batch or interactive systems without root privileges. | https://indigo-dc.github.io/udocker |
 | **uftrace** | 0.19-3 | Function (graph) tracer for user-space | https://uftrace.github.io/slide |
-| **ugrep** | 7.8.3 | A faster, user-friendly and compatible grep replacement | https://github.com/Genivia/ugrep |
+| **ugrep** | 7.8.4 | A faster, user-friendly and compatible grep replacement | https://github.com/Genivia/ugrep |
 | **unar** | 1.10.8-3 | Command line tools for archive and file unarchiving and extraction | https://theunarchiver.com/command-line |
 | **unbound** | 1.26.0 | Unbound command-line tools | https://unbound.net/ |
 | **unicode-cldr** | 48.1 | Unicode Common Locale Data Repository | http://cldr.unicode.org/ |
@@ -2740,7 +2740,7 @@
 | **valac-static** | 0.56.19 | Static libraries for valac | https://wiki.gnome.org/Projects/Vala |
 | **valadoc** | 0.56.19 | API documentation generator for vala | https://wiki.gnome.org/Projects/Vala |
 | **valadoc-static** | 0.56.19 | Static libraries for valadoc | https://wiki.gnome.org/Projects/Vala |
-| **vale** | 3.17.0 | A syntax-aware linter for prose built with speed and extensibility in mind | https://vale.sh |
+| **vale** | 3.17.1 | A syntax-aware linter for prose built with speed and extensibility in mind | https://vale.sh |
 | **valkey** | 9.1.1-1 | In-memory data structure store used as a database, cache and message broker | https://valkey.io/ |
 | **valkey-static** | 9.1.1-1 | Static libraries for valkey | https://valkey.io/ |
 | **vamp-plugin-sdk** | 2.10-3 | An API for audio analysis and feature extraction plugins | https://www.vamp-plugins.org/ |
