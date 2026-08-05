@@ -481,8 +481,8 @@
  eza  0.23.5  A modern replacement for ls  https://github.com/eza-community/eza 
  faad2  2.11.2  Freeware Advanced Audio (AAC) Decoder  https://github.com/knik0/faad2 
  fact++  1.6.5-3  Re-implementation of the well-known FaCT Description Logic (DL) Reasoner  https://bitbucket.org/dtsarkov/factplusplus 
- fakeroot  1.38.1  Tool for simulating superuser privileges (with tcp ipc)  https://packages.qa.debian.org/f/fakeroot.html 
- fakeroot-static  1.38.1  Static libraries for fakeroot  https://packages.qa.debian.org/f/fakeroot.html 
+ fakeroot  2.1.4  Tool for simulating superuser privileges (with tcp ipc)  https://packages.qa.debian.org/f/fakeroot.html 
+ fakeroot-static  2.1.4  Static libraries for fakeroot  https://packages.qa.debian.org/f/fakeroot.html 
  fasd  2.0.0  To fastly access files and folders  https://github.com/whjvenyl/fasd 
  fastfetch  2.66.0  A maintained, feature-rich and performance oriented, neofetch like system information tool  https://github.com/fastfetch-cli/fastfetch 
  fastmod  0.4.4-1  Regex-based code refactoring utility  https://github.com/facebookincubator/fastmod 
@@ -597,7 +597,7 @@
  gflags-static  2.3.1  Static libraries for gflags  https://github.com/gflags/gflags 
  gforth  0.7.3-3  The Forth implementation of the GNU project  https://www.gnu.org/software/gforth/ 
  gh  2.97.0  GitHub’s official command line tool  https://cli.github.com/ 
- ghc  9.12.2-4  The Glasgow Haskell Compiler  https://www.haskell.org/ghc/ 
+ ghc  9.12.2-5  The Glasgow Haskell Compiler  https://www.haskell.org/ghc/ 
  ghostscript  10.07.1  Interpreter for the PostScript language and for PDF  https://www.ghostscript.com/ 
  giflib  5.2.2-2  A library for reading and writing gif images  https://giflib.sourceforge.net/ 
  giflib-static  5.2.2-2  Static libraries for giflib  https://giflib.sourceforge.net/ 
@@ -792,7 +792,7 @@
  imlib2-static  1.12.6-1  Static libraries for imlib2  https://sourceforge.net/projects/enlightenment/ 
  immer  0.9.1  Postmodern immutable and persistent data structures for C++  https://sinusoid.es/immer 
  indent  2.2.13-1  C language source code formatting program  https://www.gnu.org/software/indent/ 
- indi  2.2.4.1  Astronomical instrumentation control  https://www.indilib.org 
+ indi  2.2.4.2  Astronomical instrumentation control  https://www.indilib.org 
  inetutils  2.7  Collection of common network programs  https://www.gnu.org/software/inetutils/ 
  influxdb  1.8.10-4  An open source time series database with no external dependencies  https://www.influxdata.com/ 
  innoextract  1.9-11  A tool to unpack installers created by Inno Setup  https://constexpr.org/innoextract/ 
@@ -948,7 +948,7 @@
  libatomic-ops  7.10.0  Provides semi-portable access to hardware-provided atomic memory update operations  https://github.com/bdwgc/libatomic_ops 
  libatomic-ops-static  7.10.0  Static libraries for libatomic-ops  https://github.com/bdwgc/libatomic_ops 
  libavif  1.4.2  Library for encoding and decoding .avif files  https://github.com/AOMediaCodec/libavif 
- libbcprov-java  1.85  A lightweight cryptography API for Java  https://www.bouncycastle.org/java.html 
+ libbcprov-java  1.85v2  A lightweight cryptography API for Java  https://www.bouncycastle.org/java.html 
  libblkid  2.42.1-4  Block device identification library  https://en.wikipedia.org/wiki/Util-linux 
  libblocksruntime  1:6.2.1  LLVM Blocks runtime library  https://github.com/swiftlang/swift-corelibs-libdispatch 
  libblosc  1.21.6-2  A blocking, shuffling and loss-less compression library  https://www.blosc.org 
@@ -1755,7 +1755,7 @@
  mathomatic  16.0.5-7  Simple CAS and symbolic calculator  https://en.wikipedia.org/wiki/Mathomatic 
  matplotlib  3.11.1  A comprehensive library for creating static, animated, and interactive visualizations in Python  https://matplotlib.org/ 
  matterbridge  1.26.0-4  A simple chat bridge  https://github.com/42wim/matterbridge 
- matterircd  0.30.0  Connect to your mattermost or slack using your IRC-client of choice  https://github.com/42wim/matterircd 
+ matterircd  0.31.0  Connect to your mattermost or slack using your IRC-client of choice  https://github.com/42wim/matterircd 
  matugen  4.1.0  A material you color generation tool with templates  https://github.com/InioX/matugen 
  mautrix-whatsapp  0.2607.0  A Matrix-WhatsApp puppeting bridge  https://maunium.net/go/mautrix-whatsapp/ 
  maven  3.9.16  A Java software project management and comprehension tool  https://maven.apache.org/ 
@@ -1790,7 +1790,7 @@
  mdp  1.0.18-1  Command-line based markdown presentation tool  https://github.com/visit1985/mdp 
  media-types  14.0.0  List of standard media types and their usual file extension  https://pagure.io/mailcap 
  mediainfo  26.05  Command-line utility for reading information from media files  https://mediaarea.net/en/MediaInfo 
- mediamtx  1.19.3  Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy  https://github.com/bluenviron/mediamtx 
+ mediamtx  1.20.0  Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy  https://github.com/bluenviron/mediamtx 
  megacmd  2.5.2  Provides non UI access to MEGA services  https://mega.io/ 
  megatools  1.11.5.20250706-1  Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage  https://xff.cz/megatools/ 
  memcached  1.6.45  Free & open source, high-performance, distributed memory object caching system  https://memcached.org/ 
@@ -1966,7 +1966,7 @@
  octomap  1.10.0-1  An efficient probabilistic 3D mapping framework based on octrees  https://github.com/OctoMap/octomap 
  octomap-static  1.10.0-1  Static libraries for octomap  https://github.com/OctoMap/octomap 
  odt2txt  0.5-5  Simple converter from OpenDocument Text to plain text  https://github.com/dstosberg/odt2txt 
- oh-my-posh  30.6.0  A prompt theme engine for any shell.  https://ohmyposh.dev 
+ oh-my-posh  30.6.1  A prompt theme engine for any shell.  https://ohmyposh.dev 
  oidn  2.4.1  Intel® Open Image Denoise library  https://www.openimagedenoise.org 
  okc-agents  0.1.2-2  OpenKeychain agents for GnuPG and OpenSSH  https://github.com/DDoSolitary/okc-agents 
  ol  2.7  Purely functional dialect of Lisp  https://yuriy-chumak.github.io/ol/ 
@@ -2495,7 +2495,7 @@
  stoken  0.93-3  Software Token for Linux/UNIX  https://github.com/cernekee/stoken 
  stoken-static  0.93-3  Static libraries for stoken  https://github.com/cernekee/stoken 
  stone  2.4-3  A TCP/IP repeater in the application layer  https://www.gcd.org/sengoku/stone/ 
- storj-uplink  1.161.4  Storj DCS Uplink CLI  https://www.storj.io/integrations/uplink-cli 
+ storj-uplink  1.161.5  Storj DCS Uplink CLI  https://www.storj.io/integrations/uplink-cli 
  stow  2.4.1  Tool for managing the installation of multiple software packages into a single directory  https://www.gnu.org/software/stow/ 
  strace  7.1  Debugging utility to monitor system calls and signals received  https://strace.io/ 
  streamripper  1.64.6-3  Records and splits streaming mp3 into tracks  https://streamripper.sourceforge.net/ 
@@ -2880,7 +2880,7 @@
  zlib-static  1.3.2  Static libraries for zlib  https://www.zlib.net/ 
  zls  0.16.0  Zig language server  https://github.com/zigtools/zls 
  znc  1.10.2  An advanced IRC bouncer  https://znc.in/ 
- zola  0.22.1  A fast static site generator in a single binary with everything built-in.  https://github.com/getzola/zola 
+ zola  0.23.1  A fast static site generator in a single binary with everything built-in.  https://github.com/getzola/zola 
  zopfli  1.0.3-5  New zlib compatible compressor tools  https://github.com/google/zopfli 
  zoxide  0.10.0  A faster way to navigate your filesystem  https://github.com/ajeetdsouza/zoxide 
  zpaq  7.15-1  Programmable file compressor, library and utilities. Based on the PAQ compression algorithm  http://mattmahoney.net/dc/zpaq.html 
