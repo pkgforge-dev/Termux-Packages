@@ -697,7 +697,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.36.16",
+    "Version": "2.36.17",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -1105,7 +1105,7 @@
   },
   {
     "Package": "byobu",
-    "Version": "7.15",
+    "Version": "7.17",
     "Description": "Byobu is a GPLv3 open source text-based window manager and terminal multiplexer",
     "Homepage": "https://www.byobu.org/"
   },
@@ -16099,7 +16099,7 @@
   },
   {
     "Package": "ty",
-    "Version": "0.0.66",
+    "Version": "0.0.67",
     "Description": "An extremely fast Python type checker and language server, written in Rust",
     "Homepage": "https://github.com/astral-sh/ty"
   },
@@ -16339,7 +16339,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.12.1",
+    "Version": "0.12.2",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
