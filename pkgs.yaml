@@ -2843,7 +2843,7 @@
   Description: GStreamer Ugly Plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-python
-  Version: 1.28.5
+  Version: 1.28.6
   Description: Python bindings for GStreamer
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gstreamer
@@ -3095,7 +3095,7 @@
   Description: A command-line benchmarking tool
   Homepage: https://github.com/sharkdp/hyperfine
 - Package: hz
-  Version: 0.10.5
+  Version: 0.10.6
   Description: A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices
   Homepage: https://www.cloudwego.io
 - Package: i2pd
@@ -3323,7 +3323,7 @@
   Description: A free media system for organizing and streaming media (server)
   Homepage: https://jellyfin.org
 - Package: jfrog-cli
-  Version: 2.117.0
+  Version: 2.118.0
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -6687,15 +6687,15 @@
   Description: Color management utilities
   Homepage: http://www.littlecms.com/
 - Package: llama-cpp
-  Version: 0.0.0-b10092-0
+  Version: 0.0.0-b10290-0
   Description: LLM inference in C/C++
   Homepage: https://github.com/ggml-org/llama.cpp
 - Package: llama-cpp-backend-opencl
-  Version: 0.0.0-b10092-0
+  Version: 0.0.0-b10290-0
   Description: OpenCL Backend for LLaMA.cpp
   Homepage: https://github.com/ggml-org/llama.cpp
 - Package: llama-cpp-backend-vulkan
-  Version: 0.0.0-b10092-0
+  Version: 0.0.0-b10290-0
   Description: Vulkan Backend for LLaMA.cpp
   Homepage: https://github.com/ggml-org/llama.cpp
 - Package: llbuild
@@ -7647,7 +7647,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-1231+g2e3785a702-0
+  Version: 0.13.0~dev-1244+g54373e2453-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -9211,7 +9211,7 @@
   Description: Library that provides a high-level interface to RDF data
   Homepage: http://librdf.org/
 - Package: remind
-  Version: 1:06.02.09
+  Version: 1:06.02.10
   Description: Sophisticated calendar and alarm program
   Homepage: https://dianne.skoll.ca/projects/remind/
 - Package: renameutils
@@ -10123,7 +10123,7 @@
   Description: A high-performance CPU-based implementation of the Vulkan graphics API
   Homepage: https://swiftshader.googlesource.com/SwiftShader
 - Package: swig
-  Version: 4.4.1
+  Version: 4.5.0
   Description: Generate scripting interfaces to C/C++ code
   Homepage: https://swig.org
 - Package: swtpm
@@ -10731,7 +10731,7 @@
   Description: A small and powerful JavaScript runtime
   Homepage: https://github.com/saghul/txiki.js
 - Package: ty
-  Version: 0.0.67
+  Version: 0.0.68
   Description: An extremely fast Python type checker and language server, written in Rust
   Homepage: https://github.com/astral-sh/ty
 - Package: typst
