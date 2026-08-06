@@ -484,7 +484,7 @@
 | **fakeroot** | 2.1.4 | Tool for simulating superuser privileges (with tcp ipc) | https://packages.qa.debian.org/f/fakeroot.html |
 | **fakeroot-static** | 2.1.4 | Static libraries for fakeroot | https://packages.qa.debian.org/f/fakeroot.html |
 | **fasd** | 2.0.0 | To fastly access files and folders | https://github.com/whjvenyl/fasd |
-| **fastfetch** | 2.66.0 | A maintained, feature-rich and performance oriented, neofetch like system information tool | https://github.com/fastfetch-cli/fastfetch |
+| **fastfetch** | 2.67.0 | A maintained, feature-rich and performance oriented, neofetch like system information tool | https://github.com/fastfetch-cli/fastfetch |
 | **fastmod** | 0.4.4-1 | Regex-based code refactoring utility | https://github.com/facebookincubator/fastmod |
 | **fatsort** | 1.7.679 | A C utility that sorts FAT12, FAT16, FAT32 and exFAT partitions | https://fatsort.sourceforge.io/ |
 | **faust** | 2.85.9 | A functional programming language for signal processing and sound synthesis | https://github.com/grame-cncm/faust |
@@ -530,9 +530,9 @@
 | **flyctl** | 0.4.79 | Command line tools for fly.io services | https://fly.io |
 | **fm** | 1.2.0 | A terminal based file manager | https://github.com/knipferrc/fm |
 | **fmt** | 1:11.2.0 | Open-source formatting library for C++ | https://fmt.dev/latest/index.html |
-| **fontconfig** | 2.18.2 | Library for configuring and customizing font access | https://www.freedesktop.org/wiki/Software/fontconfig/ |
-| **fontconfig-static** | 2.18.2 | Static libraries for fontconfig | https://www.freedesktop.org/wiki/Software/fontconfig/ |
-| **fontconfig-utils** | 2.18.2 | Fontconfig binaries | https://www.freedesktop.org/wiki/Software/fontconfig/ |
+| **fontconfig** | 2.18.3 | Library for configuring and customizing font access | https://www.freedesktop.org/wiki/Software/fontconfig/ |
+| **fontconfig-static** | 2.18.3 | Static libraries for fontconfig | https://www.freedesktop.org/wiki/Software/fontconfig/ |
+| **fontconfig-utils** | 2.18.3 | Fontconfig binaries | https://www.freedesktop.org/wiki/Software/fontconfig/ |
 | **forestdb-dump** | 1.2-2 | ForestDB dump tool | https://github.com/couchbase/forestdb |
 | **forgejo** | 16.0.2 | Forgejo is a self-hosted lightweight software forge. | https://forgejo.org/ |
 | **fortune** | 1.2-2 | Revealer of fortunes | https://www.fefe.de/fortune/ |
@@ -953,7 +953,7 @@
 | **libblocksruntime** | 1:6.2.1 | LLVM Blocks runtime library | https://github.com/swiftlang/swift-corelibs-libdispatch |
 | **libblosc** | 1.21.6-2 | A blocking, shuffling and loss-less compression library | https://www.blosc.org |
 | **libblosc-static** | 1.21.6-2 | Static libraries for libblosc | https://www.blosc.org |
-| **libblosc2** | 3.3.1 | A blocking, shuffling and loss-less compression library | https://www.blosc.org |
+| **libblosc2** | 3.3.2 | A blocking, shuffling and loss-less compression library | https://www.blosc.org |
 | **libbluray** | 1.5.0 | An open-source library designed for Blu-Ray Discs playback for media players | https://code.videolan.org/videolan/libbluray/ |
 | **libbluray-static** | 1.5.0 | Static libraries for libbluray | https://code.videolan.org/videolan/libbluray/ |
 | **libbluray-utils** | 1.5.0 | Example utilities for libbluray | https://code.videolan.org/videolan/libbluray/ |
@@ -1094,7 +1094,7 @@
 | **libfreehand-static** | 0.1.2-5 | Static libraries for libfreehand | https://wiki.documentfoundation.org/DLP/Libraries/libfreehand |
 | **libfreexl** | 2.0.0-1 | Library to extract valid data from within an Excel (.xls) spreadsheet | https://www.gaia-gis.it/fossil/freexl |
 | **libfreexl-static** | 2.0.0-1 | Static libraries for libfreexl | https://www.gaia-gis.it/fossil/freexl |
-| **libftxui** | 7.0.2 | A simple C++ library for terminal based user interface | https://github.com/ArthurSonzogni/FTXUI |
+| **libftxui** | 7.0.3 | A simple C++ library for terminal based user interface | https://github.com/ArthurSonzogni/FTXUI |
 | **libfyaml** | 0.9.6-1 | Fully feature complete YAML parser and emitter | https://pantoniou.github.io/libfyaml/ |
 | **libfyaml-static** | 0.9.6-1 | Static libraries for libfyaml | https://pantoniou.github.io/libfyaml/ |
 | **libgc** | 8.2.12 | Library providing the Boehm-Demers-Weiser conservative garbage collector | https://www.hboehm.info/gc/ |
@@ -1515,9 +1515,9 @@
 | **libtommath** | 1.3.0 | A free open source portable number theoretic multiple-precision integer library | https://www.libtom.net/LibTomMath/ |
 | **libtommath-static** | 1.3.0 | Static libraries for libtommath | https://www.libtom.net/LibTomMath/ |
 | **libtool** | 2.6.2 | Generic library support script hiding the complexity of using shared libraries behind a consistent, portable interface | https://www.gnu.org/software/libtool/ |
-| **libtorrent** | 0.16.19 | Libtorrent BitTorrent library | https://github.com/rakshasa/rtorrent/wiki |
+| **libtorrent** | 0.16.20 | Libtorrent BitTorrent library | https://github.com/rakshasa/rtorrent/wiki |
 | **libtorrent-rasterbar** | 2.0.13-3 | A feature complete C++ bittorrent implementation focusing on efficiency and scalability | https://libtorrent.org/ |
-| **libtorrent-static** | 0.16.19 | Static libraries for libtorrent | https://github.com/rakshasa/rtorrent/wiki |
+| **libtorrent-static** | 0.16.20 | Static libraries for libtorrent | https://github.com/rakshasa/rtorrent/wiki |
 | **libtpms** | 0.10.2 | Provides software emulation of a Trusted Platform Module (TPM 1.2 and TPM 2.0) | https://github.com/stefanberger/libtpms |
 | **libtpms-static** | 0.10.2 | Static libraries for libtpms | https://github.com/stefanberger/libtpms |
 | **libtranscript** | 0.3.4-1 | A character-set conversion library | https://os.ghalkes.nl/libtranscript.html |
@@ -2039,14 +2039,14 @@
 | **ovmf** | 20231122-16.fc40-0 | Open Virtual Machine Firmware | https://www.tianocore.org/ |
 | **oxfmt** | 1.77.0 | Oxc JavaScript formatter | https://oxc.rs/ |
 | **oxlint** | 1.77.0 | Oxc JavaScript linter | https://oxc.rs/ |
-| **p11-kit** | 0.26.4-1 | Provides a way to load and enumerate PKCS#11 modules | https://p11-glue.github.io/p11-glue/p11-kit.html |
+| **p11-kit** | 0.26.5 | Provides a way to load and enumerate PKCS#11 modules | https://p11-glue.github.io/p11-glue/p11-kit.html |
 | **p7zip** | 17.06-1 | Command-line version of the 7zip compressed file archiver | https://github.com/p7zip-project/p7zip |
 | **pacman** | 7.1.0-6 | A library-based package manager with dependency support | https://archlinux.org/pacman/ |
 | **pacman4console** | 1.3-6 | A 9 level ncurses pacman game with editor | https://sites.google.com/site/doctormike/pacman.html |
 | **panda3d** | 1.10.16-1 | A framework for 3D rendering and game development for Python and C++ programs | https://www.panda3d.org/ |
 | **panda3d-samples** | 1.10.16-1 | Python sample programs that use Panda3D | https://www.panda3d.org/ |
 | **panda3d-static** | 1.10.16-1 | Static libraries for panda3d | https://www.panda3d.org/ |
-| **pandoc** | 3.9 | Universal markup converter | https://pandoc.org/ |
+| **pandoc** | 3.10.1 | Universal markup converter | https://pandoc.org/ |
 | **pango** | 1.58.0 | Library for laying out and rendering text | https://www.gtk.org/docs/architecture/pango |
 | **paperkey** | 1.6-1 | Archive OpenPGP keys on paper | http://www.jabberwocky.com/software/paperkey/ |
 | **par2** | 1.2.0 | par2cmdline is a PAR 2.0 compatible file verification and repair tool | https://github.com/Parchive/par2cmdline |
@@ -2334,7 +2334,7 @@
 | **rsync** | 3.4.4 | Fast incremental file transfer utility | https://rsync.samba.org/ |
 | **rtmpdump** | 2.6-1 | Small dumper for media content streamed over the RTMP protocol | https://rtmpdump.mplayerhq.hu/ |
 | **rtmpdump-static** | 2.6-1 | Static libraries for rtmpdump | https://rtmpdump.mplayerhq.hu/ |
-| **rtorrent** | 0.16.19 | Ncurses BitTorrent client based on libTorrent | https://rakshasa.github.io/rtorrent/ |
+| **rtorrent** | 0.16.20 | Ncurses BitTorrent client based on libTorrent | https://rakshasa.github.io/rtorrent/ |
 | **rubberband** | 4.0.0-1 | An audio time-stretching and pitch-shifting library and utility program | https://breakfastquay.com/rubberband/ |
 | **rubberband-ladspa** | 4.0.0-1 | LADSPA plugin for Rubber Band | https://breakfastquay.com/rubberband/ |
 | **rubberband-lv2** | 4.0.0-1 | LV2 plugin for Rubber Band | https://breakfastquay.com/rubberband/ |
@@ -2495,7 +2495,7 @@
 | **stoken** | 0.93-3 | Software Token for Linux/UNIX | https://github.com/cernekee/stoken |
 | **stoken-static** | 0.93-3 | Static libraries for stoken | https://github.com/cernekee/stoken |
 | **stone** | 2.4-3 | A TCP/IP repeater in the application layer | https://www.gcd.org/sengoku/stone/ |
-| **storj-uplink** | 1.161.5 | Storj DCS Uplink CLI | https://www.storj.io/integrations/uplink-cli |
+| **storj-uplink** | 1.161.6 | Storj DCS Uplink CLI | https://www.storj.io/integrations/uplink-cli |
 | **stow** | 2.4.1 | Tool for managing the installation of multiple software packages into a single directory | https://www.gnu.org/software/stow/ |
 | **strace** | 7.1 | Debugging utility to monitor system calls and signals received | https://strace.io/ |
 | **streamripper** | 1.64.6-3 | Records and splits streaming mp3 into tracks | https://streamripper.sourceforge.net/ |
@@ -2681,7 +2681,7 @@
 | **tweego** | 2.1.1-4 | A free command line compiler for Twine/Twee story formats | https://bitbucket.org/tmedwards/tweego |
 | **twolame** | 0.4.0-1 | The frontend for libtwolame | https://www.twolame.org/ |
 | **txikijs** | 1:26.6.0 | A small and powerful JavaScript runtime | https://github.com/saghul/txiki.js |
-| **ty** | 0.0.68 | An extremely fast Python type checker and language server, written in Rust | https://github.com/astral-sh/ty |
+| **ty** | 0.0.69 | An extremely fast Python type checker and language server, written in Rust | https://github.com/astral-sh/ty |
 | **typst** | 0.15.1 | A new markup-based typesetting system that is powerful and easy to learn | https://typst.app/ |
 | **typstfmt** | 0.2.10-1 | basic formatter for the Typst language | https://github.com/astrale-sharp/typstfmt |
 | **uchardet** | 0.0.8-2 | An encoding detector utility | https://www.freedesktop.org/wiki/Software/uchardet/ |

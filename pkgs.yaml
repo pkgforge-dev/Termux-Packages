@@ -1943,7 +1943,7 @@
   Description: To fastly access files and folders
   Homepage: https://github.com/whjvenyl/fasd
 - Package: fastfetch
-  Version: 2.66.0
+  Version: 2.67.0
   Description: A maintained, feature-rich and performance oriented, neofetch like system information tool
   Homepage: https://github.com/fastfetch-cli/fastfetch
 - Package: fastmod
@@ -2127,15 +2127,15 @@
   Description: Open-source formatting library for C++
   Homepage: https://fmt.dev/latest/index.html
 - Package: fontconfig
-  Version: 2.18.2
+  Version: 2.18.3
   Description: Library for configuring and customizing font access
   Homepage: https://www.freedesktop.org/wiki/Software/fontconfig/
 - Package: fontconfig-static
-  Version: 2.18.2
+  Version: 2.18.3
   Description: Static libraries for fontconfig
   Homepage: https://www.freedesktop.org/wiki/Software/fontconfig/
 - Package: fontconfig-utils
-  Version: 2.18.2
+  Version: 2.18.3
   Description: Fontconfig binaries
   Homepage: https://www.freedesktop.org/wiki/Software/fontconfig/
 - Package: forestdb-dump
@@ -3819,7 +3819,7 @@
   Description: Static libraries for libblosc
   Homepage: https://www.blosc.org
 - Package: libblosc2
-  Version: 3.3.1
+  Version: 3.3.2
   Description: A blocking, shuffling and loss-less compression library
   Homepage: https://www.blosc.org
 - Package: libbluray
@@ -4383,7 +4383,7 @@
   Description: Static libraries for libfreexl
   Homepage: https://www.gaia-gis.it/fossil/freexl
 - Package: libftxui
-  Version: 7.0.2
+  Version: 7.0.3
   Description: A simple C++ library for terminal based user interface
   Homepage: https://github.com/ArthurSonzogni/FTXUI
 - Package: libfyaml
@@ -6067,7 +6067,7 @@
   Description: Generic library support script hiding the complexity of using shared libraries behind a consistent, portable interface
   Homepage: https://www.gnu.org/software/libtool/
 - Package: libtorrent
-  Version: 0.16.19
+  Version: 0.16.20
   Description: Libtorrent BitTorrent library
   Homepage: https://github.com/rakshasa/rtorrent/wiki
 - Package: libtorrent-rasterbar
@@ -6075,7 +6075,7 @@
   Description: A feature complete C++ bittorrent implementation focusing on efficiency and scalability
   Homepage: https://libtorrent.org/
 - Package: libtorrent-static
-  Version: 0.16.19
+  Version: 0.16.20
   Description: Static libraries for libtorrent
   Homepage: https://github.com/rakshasa/rtorrent/wiki
 - Package: libtpms
@@ -8163,7 +8163,7 @@
   Description: Oxc JavaScript linter
   Homepage: https://oxc.rs/
 - Package: p11-kit
-  Version: 0.26.4-1
+  Version: 0.26.5
   Description: Provides a way to load and enumerate PKCS#11 modules
   Homepage: https://p11-glue.github.io/p11-glue/p11-kit.html
 - Package: p7zip
@@ -8191,7 +8191,7 @@
   Description: Static libraries for panda3d
   Homepage: https://www.panda3d.org/
 - Package: pandoc
-  Version: "3.9"
+  Version: 3.10.1
   Description: Universal markup converter
   Homepage: https://pandoc.org/
 - Package: pango
@@ -9343,7 +9343,7 @@
   Description: Static libraries for rtmpdump
   Homepage: https://rtmpdump.mplayerhq.hu/
 - Package: rtorrent
-  Version: 0.16.19
+  Version: 0.16.20
   Description: Ncurses BitTorrent client based on libTorrent
   Homepage: https://rakshasa.github.io/rtorrent/
 - Package: rubberband
@@ -9987,7 +9987,7 @@
   Description: A TCP/IP repeater in the application layer
   Homepage: https://www.gcd.org/sengoku/stone/
 - Package: storj-uplink
-  Version: 1.161.5
+  Version: 1.161.6
   Description: Storj DCS Uplink CLI
   Homepage: https://www.storj.io/integrations/uplink-cli
 - Package: stow
@@ -10731,7 +10731,7 @@
   Description: A small and powerful JavaScript runtime
   Homepage: https://github.com/saghul/txiki.js
 - Package: ty
-  Version: 0.0.68
+  Version: 0.0.69
   Description: An extremely fast Python type checker and language server, written in Rust
   Homepage: https://github.com/astral-sh/ty
 - Package: typst
