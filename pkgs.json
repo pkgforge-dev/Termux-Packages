@@ -709,7 +709,7 @@
   },
   {
     "Package": "b3sum",
-    "Version": "1.8.5",
+    "Version": "1.8.6",
     "Description": "A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum",
     "Homepage": "https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum"
   },
@@ -3175,7 +3175,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.4.78",
+    "Version": "0.4.79",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -4243,25 +4243,25 @@
   },
   {
     "Package": "gst-plugins-bad",
-    "Version": "1.28.5-1",
+    "Version": "1.28.6",
     "Description": "GStreamer Bad Plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
   {
     "Package": "gst-plugins-base",
-    "Version": "1.28.5",
+    "Version": "1.28.6",
     "Description": "GStreamer base plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
   {
     "Package": "gst-plugins-good",
-    "Version": "1.28.5",
+    "Version": "1.28.6",
     "Description": "GStreamer Good Plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
   {
     "Package": "gst-plugins-ugly",
-    "Version": "1.28.5",
+    "Version": "1.28.6",
     "Description": "GStreamer Ugly Plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
@@ -4273,7 +4273,7 @@
   },
   {
     "Package": "gstreamer",
-    "Version": "1.28.5",
+    "Version": "1.28.6",
     "Description": "Open source multimedia framework",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
@@ -13423,121 +13423,121 @@
   },
   {
     "Package": "qemu-common",
-    "Version": "1:10.2.1",
+    "Version": "1:11.0.3",
     "Description": "A set common files used by the QEMU emulators",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-system-aarch64-headless",
-    "Version": "1:10.2.1",
+    "Version": "1:11.0.3",
     "Description": "A generic and open source machine emulator and virtualizer (headless)",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-system-arm-headless",
-    "Version": "1:10.2.1",
+    "Version": "1:11.0.3",
     "Description": "A generic and open source machine emulator and virtualizer (headless)",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-system-i386-headless",
-    "Version": "1:10.2.1",
+    "Version": "1:11.0.3",
     "Description": "A generic and open source machine emulator and virtualizer (headless)",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-system-m68k-headless",
-    "Version": "1:10.2.1",
+    "Version": "1:11.0.3",
     "Description": "A generic and open source machine emulator and virtualizer (headless)",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-system-ppc-headless",
-    "Version": "1:10.2.1",
+    "Version": "1:11.0.3",
     "Description": "A generic and open source machine emulator and virtualizer (headless)",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-system-ppc64-headless",
-    "Version": "1:10.2.1",
+    "Version": "1:11.0.3",
     "Description": "A generic and open source machine emulator and virtualizer (headless)",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-system-riscv32-headless",
-    "Version": "1:10.2.1",
+    "Version": "1:11.0.3",
     "Description": "A generic and open source machine emulator and virtualizer (headless)",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-system-riscv64-headless",
-    "Version": "1:10.2.1",
+    "Version": "1:11.0.3",
     "Description": "A generic and open source machine emulator and virtualizer (headless)",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-system-x86-64-headless",
-    "Version": "1:10.2.1",
+    "Version": "1:11.0.3",
     "Description": "A generic and open source machine emulator and virtualizer (headless)",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-user-aarch64",
-    "Version": "1:10.2.1",
+    "Version": "1:11.0.3",
     "Description": "QEMU Linux user mode emulator",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-user-arm",
-    "Version": "1:10.2.1",
+    "Version": "1:11.0.3",
     "Description": "QEMU Linux user mode emulator",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-user-i386",
-    "Version": "1:10.2.1",
+    "Version": "1:11.0.3",
     "Description": "QEMU Linux user mode emulator",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-user-m68k",
-    "Version": "1:10.2.1",
+    "Version": "1:11.0.3",
     "Description": "QEMU Linux user mode emulator",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-user-ppc",
-    "Version": "1:10.2.1",
+    "Version": "1:11.0.3",
     "Description": "QEMU Linux user mode emulator",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-user-ppc64",
-    "Version": "1:10.2.1",
+    "Version": "1:11.0.3",
     "Description": "QEMU Linux user mode emulator",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-user-riscv32",
-    "Version": "1:10.2.1",
+    "Version": "1:11.0.3",
     "Description": "QEMU Linux user mode emulator",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-user-riscv64",
-    "Version": "1:10.2.1",
+    "Version": "1:11.0.3",
     "Description": "QEMU Linux user mode emulator",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-user-x86-64",
-    "Version": "1:10.2.1",
+    "Version": "1:11.0.3",
     "Description": "QEMU Linux user mode emulator",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-utils",
-    "Version": "1:10.2.1",
+    "Version": "1:11.0.3",
     "Description": "A set of utilities for working with the QEMU emulators",
     "Homepage": "https://www.qemu.org"
   },
