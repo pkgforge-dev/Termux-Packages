@@ -114,7 +114,7 @@
  aview  1.3.0rc1-6  High quality ascii-art image browser and animation player  https://aa-project.sourceforge.net/aview/ 
  avra  1.4.2-1  Assember for the Atmel AVR microcontroller family  https://github.com/Ro5bert/avra 
  await  2.7.0  Runs list of commands in parallel and waits for their termination  https://github.com/slavaGanzin/await 
- awscli  2.36.17  Universal Command Line Interface for Amazon Web Services  https://aws.amazon.com/cli 
+ awscli  2.36.18  Universal Command Line Interface for Amazon Web Services  https://aws.amazon.com/cli 
  axel  2.17.14-1  light command line download accelerator  https://github.com/axel-download-accelerator/axel 
  b3sum  1.8.6  A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum  https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum 
  babl  0.1.126  Dynamic pixel format translation library  https://gegl.org/babl/ 
@@ -307,6 +307,7 @@
  csol  1.6.0-1  A small collection of solitaire games implemented in C using ncurses  https://github.com/nielssp/csol 
  csview  1.3.4-1  Pretty-printing CSV/TSV/xSV on terminal  https://github.com/wfxr/csview 
  ctags  2:6.2.1  Universal ctags: Source code index builder  https://ctags.io/ 
+ ctranslate2  4.8.1  A fast inference engine for Transformer models  https://github.com/OpenNMT/CTranslate2 
  ctypes-sh  1.2-2  A foreign function interface for bash  https://github.com/taviso/ctypes.sh 
  cuetools  1.4.1-1  A set of utilities for working with Cue Sheet (cue) and Table of Contents (toc) files  https://github.com/svend/cuetools 
  cups  2.4.19  Common UNIX Printing System  https://www.cups.org/ 
@@ -545,7 +546,7 @@
  freetype  2.14.3  Software font engine capable of producing high-quality output  https://www.freetype.org 
  freetype-static  2.14.3  Static libraries for freetype  https://www.freetype.org 
  frei0r-plugins  3.2.1  Minimalistic plugin API for video effects  https://www.dyne.org/software/frei0r/ 
- fresh-editor  0.4.6  Text editor for your terminal: easy, powerful and fast  https://getfresh.dev/ 
+ fresh-editor  0.4.7  Text editor for your terminal: easy, powerful and fast  https://getfresh.dev/ 
  fribidi  1.0.16-1  Implementation of the Unicode Bidirectional Algorithm  https://github.com/fribidi/fribidi/ 
  fribidi-static  1.0.16-1  Static libraries for fribidi  https://github.com/fribidi/fribidi/ 
  frobtads  2.0-5  TADS is a free authoring system for writing your own Interactive Fiction  http://www.tads.org/frobtads.htm 
@@ -1910,7 +1911,7 @@
  neofetch  7.1.0-1  Simple system information script  https://github.com/dylanaraps/neofetch 
  neomutt  20260616  A version of mutt with added features  https://neomutt.org/ 
  neovim  0.12.4  Ambitious Vim-fork focused on extensibility and agility (nvim)  https://neovim.io/ 
- neovim-nightly  0.13.0~dev-1244+g54373e2453-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
+ neovim-nightly  0.13.0~dev-1251+g5117b04745-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
  nerdfix  0.4.2-1  nerdfix helps you to find/fix obsolete Nerd Font icons in your project.  https://github.com/loichyan/nerdfix 
  net-snmp  5.9.5.2  Various tools relating to the Simple Network Management Protocol  http://www.net-snmp.org/ 
  net-snmp-static  5.9.5.2  Static libraries for net-snmp  http://www.net-snmp.org/ 
@@ -1966,7 +1967,7 @@
  octomap  1.10.0-1  An efficient probabilistic 3D mapping framework based on octrees  https://github.com/OctoMap/octomap 
  octomap-static  1.10.0-1  Static libraries for octomap  https://github.com/OctoMap/octomap 
  odt2txt  0.5-5  Simple converter from OpenDocument Text to plain text  https://github.com/dstosberg/odt2txt 
- oh-my-posh  30.6.2  A prompt theme engine for any shell.  https://ohmyposh.dev 
+ oh-my-posh  30.6.3  A prompt theme engine for any shell.  https://ohmyposh.dev 
  oidn  2.4.1  Intel® Open Image Denoise library  https://www.openimagedenoise.org 
  okc-agents  0.1.2-2  OpenKeychain agents for GnuPG and OpenSSH  https://github.com/DDoSolitary/okc-agents 
  ol  2.7  Purely functional dialect of Lisp  https://yuriy-chumak.github.io/ol/ 
@@ -2022,7 +2023,7 @@
  openssl-static  1:3.6.3  Static libraries for openssl  https://www.openssl.org/ 
  openssl-tool  1:3.6.3  The openssl command line cryptographic tool  https://www.openssl.org/ 
  opentimelineio  0.18.1  Open Source API and interchange format for editorial timeline information.  http://opentimeline.io/ 
- openxr  1.1.61  Open standard that provides a common set of APIs for developing XR applications  https://www.khronos.org/openxr/ 
+ openxr  1.1.62  Open standard that provides a common set of APIs for developing XR applications  https://www.khronos.org/openxr/ 
  opkssh  0.16.0  Enables SSH to be used with OpenID Connect  https://github.com/openpubkey/opkssh 
  optipng  7.9.1-1  PNG optimizer that recompresses image files to a smaller size, without losing any information  https://optipng.sourceforge.net/ 
  opus-tools  0.2-4  Utilities to encode and decode .opus files  https://www.opus-codec.org/ 
@@ -2047,7 +2048,7 @@
  panda3d-samples  1.10.16-1  Python sample programs that use Panda3D  https://www.panda3d.org/ 
  panda3d-static  1.10.16-1  Static libraries for panda3d  https://www.panda3d.org/ 
  pandoc  3.10.1  Universal markup converter  https://pandoc.org/ 
- pango  1.58.0  Library for laying out and rendering text  https://www.gtk.org/docs/architecture/pango 
+ pango  1.58.2  Library for laying out and rendering text  https://www.gtk.org/docs/architecture/pango 
  paperkey  1.6-1  Archive OpenPGP keys on paper  http://www.jabberwocky.com/software/paperkey/ 
  par2  1.2.0  par2cmdline is a PAR 2.0 compatible file verification and repair tool  https://github.com/Parchive/par2cmdline 
  parallel  20260622  GNU Parallel is a shell tool for executing jobs in parallel using one or more machines  https://www.gnu.org/software/parallel/ 
@@ -2192,6 +2193,7 @@
  python-cmake  4.4.0  Python wrapper for CMake  https://cmake-python-distributions.readthedocs.io/ 
  python-contourpy  1.3.3-5  Python library for calculating contours in 2D quadrilateral grids  https://contourpy.readthedocs.io/ 
  python-cryptography  50.0.0  Provides cryptographic recipes and primitives to Python developers  https://github.com/pyca/cryptography 
+ python-ctranslate2  4.8.1  Python bindings for CTranslate2  https://github.com/OpenNMT/CTranslate2 
  python-ensurepip-wheels  3.14.6-1  Wheels for Python ensurepip  https://python.org/ 
  python-greenlet  3.5.4  Lightweight coroutines for in-process concurrent programming  https://github.com/python-greenlet/greenlet 
  python-grpcio  1.83.0  High performance, open source, general RPC framework that puts mobile and HTTP/2 first  https://grpc.io/ 
@@ -2760,7 +2762,7 @@
  vtm  2026.07.22  Terminal multiplexer with TUI window manager and multi-party session sharing  https://github.com/directvt/vtm 
  vttest  20251205  Program for testing the VT100 compatibility of terminal emulators  https://invisible-island.net/vttest/ 
  vulkan-extension-layer  1.4.350  Vulkan Extension Layer  https://github.com/KhronosGroup/Vulkan-ExtensionLayer 
- vulkan-headers  1.4.358  Vulkan Header files and API registry  https://github.com/KhronosGroup/Vulkan-Headers 
+ vulkan-headers  1.4.359  Vulkan Header files and API registry  https://github.com/KhronosGroup/Vulkan-Headers 
  vulkan-icd  0.1  A metapackage that provides Vulkan ICDs  https://github.com/termux/termux-packages 
  vulkan-loader  0.0.3  A metapackage that provides vulkan loader library  https://github.com/termux/termux-packages 
  vulkan-loader-android  29  Vulkan Loader for Android  https://source.android.com/devices/graphics/arch-vulkan 
@@ -2772,7 +2774,7 @@
  w3m  0.5.6-2  Text based Web browser and pager  https://git.sr.ht/~rkta/w3m 
  w3m-img  0.5.6-2  Inline image extension support utilities for w3m  https://git.sr.ht/~rkta/w3m 
  wabt  1.0.41  The WebAssembly Binary Toolkit  https://github.com/WebAssembly/wabt 
- wakatime-cli  2.23.0  Command line interface used by all WakaTime text editor plugins  https://wakatime.com/plugins/ 
+ wakatime-cli  2.24.0  Command line interface used by all WakaTime text editor plugins  https://wakatime.com/plugins/ 
  walk  1.13.0  A terminal file manager  https://github.com/antonmedv/walk 
  wallust  3.5.2  Generate colors from an image  https://explosion-mental.codeberg.page/wallust 
  wasi-libc  33  Libc for WebAssembly programs built on top of WASI system calls  https://wasi.dev/ 

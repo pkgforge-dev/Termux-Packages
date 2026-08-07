@@ -463,7 +463,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.36.17
+  Version: 2.36.18
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -1234,6 +1234,10 @@
   Version: 2:6.2.1
   Description: 'Universal ctags: Source code index builder'
   Homepage: https://ctags.io/
+- Package: ctranslate2
+  Version: 4.8.1
+  Description: A fast inference engine for Transformer models
+  Homepage: https://github.com/OpenNMT/CTranslate2
 - Package: ctypes-sh
   Version: 1.2-2
   Description: A foreign function interface for bash
@@ -2187,7 +2191,7 @@
   Description: Minimalistic plugin API for video effects
   Homepage: https://www.dyne.org/software/frei0r/
 - Package: fresh-editor
-  Version: 0.4.6
+  Version: 0.4.7
   Description: 'Text editor for your terminal: easy, powerful and fast'
   Homepage: https://getfresh.dev/
 - Package: fribidi
@@ -7647,7 +7651,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-1244+g54373e2453-0
+  Version: 0.13.0~dev-1251+g5117b04745-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -7871,7 +7875,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 30.6.2
+  Version: 30.6.3
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: oidn
@@ -8095,7 +8099,7 @@
   Description: Open Source API and interchange format for editorial timeline information.
   Homepage: http://opentimeline.io/
 - Package: openxr
-  Version: 1.1.61
+  Version: 1.1.62
   Description: Open standard that provides a common set of APIs for developing XR applications
   Homepage: https://www.khronos.org/openxr/
 - Package: opkssh
@@ -8195,7 +8199,7 @@
   Description: Universal markup converter
   Homepage: https://pandoc.org/
 - Package: pango
-  Version: 1.58.0
+  Version: 1.58.2
   Description: Library for laying out and rendering text
   Homepage: https://www.gtk.org/docs/architecture/pango
 - Package: paperkey
@@ -8774,6 +8778,10 @@
   Version: 50.0.0
   Description: Provides cryptographic recipes and primitives to Python developers
   Homepage: https://github.com/pyca/cryptography
+- Package: python-ctranslate2
+  Version: 4.8.1
+  Description: Python bindings for CTranslate2
+  Homepage: https://github.com/OpenNMT/CTranslate2
 - Package: python-ensurepip-wheels
   Version: 3.14.6-1
   Description: Wheels for Python ensurepip
@@ -11047,7 +11055,7 @@
   Description: Vulkan Extension Layer
   Homepage: https://github.com/KhronosGroup/Vulkan-ExtensionLayer
 - Package: vulkan-headers
-  Version: 1.4.358
+  Version: 1.4.359
   Description: Vulkan Header files and API registry
   Homepage: https://github.com/KhronosGroup/Vulkan-Headers
 - Package: vulkan-icd
@@ -11095,7 +11103,7 @@
   Description: The WebAssembly Binary Toolkit
   Homepage: https://github.com/WebAssembly/wabt
 - Package: wakatime-cli
-  Version: 2.23.0
+  Version: 2.24.0
   Description: Command line interface used by all WakaTime text editor plugins
   Homepage: https://wakatime.com/plugins/
 - Package: walk
