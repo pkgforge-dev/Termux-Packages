@@ -1191,7 +1191,7 @@
   Description: Roguelike adventure through dungeons filled with dangerous monsters
   Homepage: https://crawl.develz.org/
 - Package: croc
-  Version: 1:11.0.1
+  Version: 1:11.0.2
   Description: Easily and securely send things from one computer to another
   Homepage: https://github.com/schollz/croc
 - Package: cronie
@@ -2743,7 +2743,7 @@
   Description: GPS file conversion plus transfer to/from GPS units
   Homepage: https://www.gpsbabel.org/
 - Package: gradle
-  Version: 1:9.6.1
+  Version: 1:9.7.0
   Description: Powerful build system for the JVM
   Homepage: https://gradle.org/
 - Package: grafana
@@ -4587,7 +4587,7 @@
   Description: Programs for manipulating HEIF (HEIC/AVIF) image files
   Homepage: https://github.com/strukturag/libheif
 - Package: libhiredis
-  Version: 1.4.0
+  Version: 1.4.1
   Description: Hiredis is a minimalistic C client library for the Redis database
   Homepage: https://redis.com/lp/hiredis
 - Package: libhtmlcxx
@@ -5251,11 +5251,11 @@
   Description: Static libraries for libnpth
   Homepage: https://www.gnupg.org/related_software/npth/
 - Package: libnspr
-  Version: "4.39"
+  Version: "4.40"
   Description: Netscape Portable Runtime (NSPR)
   Homepage: https://hg.mozilla.org/projects/nspr
 - Package: libnspr-static
-  Version: "4.39"
+  Version: "4.40"
   Description: Static libraries for libnspr
   Homepage: https://hg.mozilla.org/projects/nspr
 - Package: libnss
@@ -8699,7 +8699,7 @@
   Description: Password generator which by default, unless given the -s option, generates memorable but insecure passwords
   Homepage: http://pwgen.sourceforge.net/
 - Package: pybind11
-  Version: 3.0.4-1
+  Version: 3.1.0
   Description: A lightweight header-only library that exposes C++ types in Python and vice versa
   Homepage: https://pybind11.readthedocs.io/
 - Package: pycairo
