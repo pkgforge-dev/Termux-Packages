@@ -1345,7 +1345,7 @@
   },
   {
     "Package": "cec-client",
-    "Version": "8.1.4",
+    "Version": "8.1.6",
     "Description": "Client applications for libCEC",
     "Homepage": "https://libcec.pulse-eight.com/"
   },
@@ -2119,7 +2119,7 @@
   },
   {
     "Package": "discordo",
-    "Version": "2026.07.23+g54a64318",
+    "Version": "2026.08.07+g89513df8",
     "Description": "A lightweight, secure, and feature-rich Discord terminal client",
     "Homepage": "https://github.com/ayn2op/discordo"
   },
@@ -2749,7 +2749,7 @@
   },
   {
     "Package": "emmylua-ls",
-    "Version": "0.24.0",
+    "Version": "0.25.0",
     "Description": "Emmy Lua Language Server coded in Rust",
     "Homepage": "https://github.com/EmmyLuaLs/emmylua-analyzer-rust"
   },
@@ -4993,7 +4993,7 @@
   },
   {
     "Package": "jfrog-cli",
-    "Version": "2.118.0",
+    "Version": "2.119.0",
     "Description": "A CLI for JFrog products",
     "Homepage": "https://jfrog.com/getcli"
   },
@@ -5917,13 +5917,13 @@
   },
   {
     "Package": "libcec",
-    "Version": "8.1.4",
+    "Version": "8.1.6",
     "Description": "Provides support for Pulse-Eights USB-CEC adapter and other CEC capable hardware",
     "Homepage": "https://libcec.pulse-eight.com/"
   },
   {
     "Package": "libcec-static",
-    "Version": "8.1.4",
+    "Version": "8.1.6",
     "Description": "Static libraries for libcec",
     "Homepage": "https://libcec.pulse-eight.com/"
   },
@@ -12055,13 +12055,13 @@
   },
   {
     "Package": "openldap",
-    "Version": "2.6.13",
+    "Version": "2.7.0",
     "Description": "OpenLDAP server",
     "Homepage": "https://openldap.org"
   },
   {
     "Package": "openldap-static",
-    "Version": "2.6.13",
+    "Version": "2.7.0",
     "Description": "Static libraries for openldap",
     "Homepage": "https://openldap.org"
   },
@@ -16627,7 +16627,7 @@
   },
   {
     "Package": "vulkan-loader-generic",
-    "Version": "1.4.358",
+    "Version": "1.4.359",
     "Description": "Vulkan Loader",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Loader"
   },

@@ -222,7 +222,7 @@
 | **ccls** | 0.20250815.1 | C/C++/ObjC language server | https://github.com/MaskRay/ccls |
 | **ccrypt** | 1.11-1 | Secure encryption and decryption of files and streams utility | https://ccrypt.sourceforge.net/ |
 | **cdk** | 5.0-20260119-0 | Curses Development Kit | https://dickey.his.com/cdk/cdk.html |
-| **cec-client** | 8.1.4 | Client applications for libCEC | https://libcec.pulse-eight.com/ |
+| **cec-client** | 8.1.6 | Client applications for libCEC | https://libcec.pulse-eight.com/ |
 | **cfengine** | 1:3.27.1 | CFEngine is a configuration management technology | https://cfengine.com/ |
 | **cfengine-static** | 1:3.27.1 | Static libraries for cfengine | https://cfengine.com/ |
 | **cfitsio** | 4.6.4-1 | a library of C and Fortran subroutines for reading and writing data files in FITS (Flexible Image Transport System) data format | https://heasarc.gsfc.nasa.gov/fitsio/ |
@@ -351,7 +351,7 @@
 | **dirb** | 2.22-5 | Web Directory Fuzzer | https://dirb.sourceforge.net/ |
 | **direnv** | 2.37.1-1 | Environment switcher for shell | https://github.com/direnv/direnv |
 | **direvent** | 5.5 | Monitor of events in file system directories | https://www.gnu.org.ua/software/direvent/ |
-| **discordo** | 2026.07.23+g54a64318 | A lightweight, secure, and feature-rich Discord terminal client | https://github.com/ayn2op/discordo |
+| **discordo** | 2026.08.07+g89513df8 | A lightweight, secure, and feature-rich Discord terminal client | https://github.com/ayn2op/discordo |
 | **discount** | 3.0.1.3 | Markdown implementation written in C | https://www.pell.portland.or.us/~orc/Code/discount/ |
 | **diskus** | 0.9.0 | A minimal, fast alternative to 'du -sh' | https://github.com/sharkdp/diskus |
 | **distant** | 1:0.20.0-3 | Library and tooling that supports remote filesystem and process | https://github.com/chipsenkbeil/distant |
@@ -456,7 +456,7 @@
 | **eltclsh** | 1.20-1 | Interactive shell for TCL programming language | https://homepages.laas.fr/mallet/soft/shell/eltclsh |
 | **elvish** | 0.21.0-1 | A friendly and expressive Unix shell | https://github.com/elves/elvish |
 | **emacs** | 30.2-5 | Extensible, customizable text editor-and more | https://www.gnu.org/software/emacs/ |
-| **emmylua-ls** | 0.24.0 | Emmy Lua Language Server coded in Rust | https://github.com/EmmyLuaLs/emmylua-analyzer-rust |
+| **emmylua-ls** | 0.25.0 | Emmy Lua Language Server coded in Rust | https://github.com/EmmyLuaLs/emmylua-analyzer-rust |
 | **emscripten** | 6.0.4 | Emscripten: An LLVM-to-WebAssembly Compiler | https://emscripten.org |
 | **emscripten-binaryen** | 6.0.4 | Emscripten-compatible Binaryen | https://emscripten.org |
 | **emscripten-llvm** | 6.0.4 | Emscripten-compatible LLVM | https://emscripten.org |
@@ -830,7 +830,7 @@
 | **jcal-static** | 0.5.1-1 | Static libraries for jcal | http://nongnu.org/jcal |
 | **jellyfin-ffmpeg** | 10.11.11-2 | FFmpeg for Jellyfin with custom extensions and enhancements | https://jellyfin.org |
 | **jellyfin-server** | 10.11.11-2 | A free media system for organizing and streaming media (server) | https://jellyfin.org |
-| **jfrog-cli** | 2.118.0 | A CLI for JFrog products | https://jfrog.com/getcli |
+| **jfrog-cli** | 2.119.0 | A CLI for JFrog products | https://jfrog.com/getcli |
 | **jftui** | 0.7.5 | jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server. | https://github.com/Aanok/jftui |
 | **jhead** | 3.08-1 | Exif Jpeg header manipulation tool | http://www.sentex.net/~mwandel/jhead/ |
 | **jigdo** | 0.8.2-1 | Distribute large images by sending and receiving the files that make them up | http://atterer.org/jigdo/ |
@@ -984,8 +984,8 @@
 | **libcddb-static** | 1.3.2-1 | Static libraries for libcddb | https://libcddb.sourceforge.net/ |
 | **libcdr** | 0.1.8-5 | CorelDraw file format importer library for LibreOffice | https://wiki.documentfoundation.org/DLP/Libraries/libcdr |
 | **libcdr-static** | 0.1.8-5 | Static libraries for libcdr | https://wiki.documentfoundation.org/DLP/Libraries/libcdr |
-| **libcec** | 8.1.4 | Provides support for Pulse-Eight's USB-CEC adapter and other CEC capable hardware | https://libcec.pulse-eight.com/ |
-| **libcec-static** | 8.1.4 | Static libraries for libcec | https://libcec.pulse-eight.com/ |
+| **libcec** | 8.1.6 | Provides support for Pulse-Eight's USB-CEC adapter and other CEC capable hardware | https://libcec.pulse-eight.com/ |
+| **libcec-static** | 8.1.6 | Static libraries for libcec | https://libcec.pulse-eight.com/ |
 | **libceres-solver** | 2.2.0-4 | C++ library for modeling and solving large, complicated optimization problems | http://ceres-solver.org |
 | **libchipmunk** | 7.0.3-2 | A fast and lightweight 2D game physics library | http://chipmunk2d.net |
 | **libchromaprint** | 1.6.1 | C library for generating audio fingerprints used by AcoustID | https://acoustid.org/chromaprint |
@@ -2007,8 +2007,8 @@
 | **openjdk-25-x** | 25.0.4 | Portion of openjdk-25 requiring X11 functionality | https://openjdk.java.net |
 | **openjpeg** | 2.5.4 | JPEG 2000 image compression library | https://www.openjpeg.org/ |
 | **openjpeg-tools** | 2.5.4 | Command-line tools using the JPEG 2000 library | https://www.openjpeg.org/ |
-| **openldap** | 2.6.13 | OpenLDAP server | https://openldap.org |
-| **openldap-static** | 2.6.13 | Static libraries for openldap | https://openldap.org |
+| **openldap** | 2.7.0 | OpenLDAP server | https://openldap.org |
+| **openldap-static** | 2.7.0 | Static libraries for openldap | https://openldap.org |
 | **openlist** | 4.2.4 | A file list program that supports multiple storage | https://oplist.org/ |
 | **openmpi** | 4.1.5-1 | Open source Message Passing Interface implementation | https://www.open-mpi.org |
 | **openmpi-static** | 4.1.5-1 | Static libraries for openmpi | https://www.open-mpi.org |
@@ -2769,7 +2769,7 @@
 | **vulkan-icd** | 0.1 | A metapackage that provides Vulkan ICDs | https://github.com/termux/termux-packages |
 | **vulkan-loader** | 0.0.3 | A metapackage that provides vulkan loader library | https://github.com/termux/termux-packages |
 | **vulkan-loader-android** | 29 | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
-| **vulkan-loader-generic** | 1.4.358 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
+| **vulkan-loader-generic** | 1.4.359 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
 | **vulkan-tools** | 1.4.358 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
 | **vulkan-utility-libraries** | 1.4.358 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
 | **vulkan-validation-layers** | 1.4.357 | Vulkan Validation Layers | https://github.com/KhronosGroup/Vulkan-ValidationLayers |

@@ -895,7 +895,7 @@
   Description: Curses Development Kit
   Homepage: https://dickey.his.com/cdk/cdk.html
 - Package: cec-client
-  Version: 8.1.4
+  Version: 8.1.6
   Description: Client applications for libCEC
   Homepage: https://libcec.pulse-eight.com/
 - Package: cfengine
@@ -1411,7 +1411,7 @@
   Description: Monitor of events in file system directories
   Homepage: https://www.gnu.org.ua/software/direvent/
 - Package: discordo
-  Version: 2026.07.23+g54a64318
+  Version: 2026.08.07+g89513df8
   Description: A lightweight, secure, and feature-rich Discord terminal client
   Homepage: https://github.com/ayn2op/discordo
 - Package: discount
@@ -1831,7 +1831,7 @@
   Description: Extensible, customizable text editor-and more
   Homepage: https://www.gnu.org/software/emacs/
 - Package: emmylua-ls
-  Version: 0.24.0
+  Version: 0.25.0
   Description: Emmy Lua Language Server coded in Rust
   Homepage: https://github.com/EmmyLuaLs/emmylua-analyzer-rust
 - Package: emscripten
@@ -3327,7 +3327,7 @@
   Description: A free media system for organizing and streaming media (server)
   Homepage: https://jellyfin.org
 - Package: jfrog-cli
-  Version: 2.118.0
+  Version: 2.119.0
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -3943,11 +3943,11 @@
   Description: Static libraries for libcdr
   Homepage: https://wiki.documentfoundation.org/DLP/Libraries/libcdr
 - Package: libcec
-  Version: 8.1.4
+  Version: 8.1.6
   Description: Provides support for Pulse-Eights USB-CEC adapter and other CEC capable hardware
   Homepage: https://libcec.pulse-eight.com/
 - Package: libcec-static
-  Version: 8.1.4
+  Version: 8.1.6
   Description: Static libraries for libcec
   Homepage: https://libcec.pulse-eight.com/
 - Package: libceres-solver
@@ -8035,11 +8035,11 @@
   Description: Command-line tools using the JPEG 2000 library
   Homepage: https://www.openjpeg.org/
 - Package: openldap
-  Version: 2.6.13
+  Version: 2.7.0
   Description: OpenLDAP server
   Homepage: https://openldap.org
 - Package: openldap-static
-  Version: 2.6.13
+  Version: 2.7.0
   Description: Static libraries for openldap
   Homepage: https://openldap.org
 - Package: openlist
@@ -11083,7 +11083,7 @@
   Description: Vulkan Loader for Android
   Homepage: https://source.android.com/devices/graphics/arch-vulkan
 - Package: vulkan-loader-generic
-  Version: 1.4.358
+  Version: 1.4.359
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
