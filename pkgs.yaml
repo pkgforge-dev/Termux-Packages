@@ -8867,7 +8867,7 @@
   Description: PPM compression/decompression library
   Homepage: https://github.com/miurahr/pyppmd
 - Package: python-ruff
-  Version: 0.16.1
+  Version: 0.16.2
   Description: An extremely fast Python linter, written in Rust (Python bindings)
   Homepage: https://github.com/charliermarsh/ruff
 - Package: python-sabyenc3
@@ -9399,7 +9399,7 @@
   Description: Ruby documentation index
   Homepage: https://www.ruby-lang.org/
 - Package: ruff
-  Version: 0.16.1
+  Version: 0.16.2
   Description: An extremely fast Python linter, written in Rust
   Homepage: https://github.com/charliermarsh/ruff
 - Package: runit
@@ -10911,7 +10911,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.12.2
+  Version: 0.12.3
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
@@ -11087,11 +11087,11 @@
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
-  Version: 1.4.358
+  Version: 1.4.359
   Description: Vulkan Tools and Utilities
   Homepage: https://github.com/KhronosGroup/Vulkan-Tools
 - Package: vulkan-utility-libraries
-  Version: 1.4.358
+  Version: 1.4.359
   Description: Utility Libraries for Vulkan
   Homepage: https://github.com/KhronosGroup/Vulkan-Utility-Libraries
 - Package: vulkan-validation-layers
