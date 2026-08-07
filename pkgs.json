@@ -3055,7 +3055,7 @@
   },
   {
     "Package": "ffmpeg",
-    "Version": "8.1.2-3",
+    "Version": "8.1.2-4",
     "Description": "Tools and libraries to manipulate a wide range of multimedia formats and protocols",
     "Homepage": "https://ffmpeg.org"
   },
@@ -4981,13 +4981,13 @@
   },
   {
     "Package": "jellyfin-ffmpeg",
-    "Version": "10.11.11-1",
+    "Version": "10.11.11-2",
     "Description": "FFmpeg for Jellyfin with custom extensions and enhancements",
     "Homepage": "https://jellyfin.org"
   },
   {
     "Package": "jellyfin-server",
-    "Version": "10.11.11-1",
+    "Version": "10.11.11-2",
     "Description": "A free media system for organizing and streaming media (server)",
     "Homepage": "https://jellyfin.org"
   },
@@ -6877,13 +6877,13 @@
   },
   {
     "Package": "libheif",
-    "Version": "1.23.1",
+    "Version": "1.23.1-1",
     "Description": "HEIF (HEIC/AVIF) image encoding and decoding library",
     "Homepage": "https://github.com/strukturag/libheif"
   },
   {
     "Package": "libheif-progs",
-    "Version": "1.23.1",
+    "Version": "1.23.1-1",
     "Description": "Programs for manipulating HEIF (HEIC/AVIF) image files",
     "Homepage": "https://github.com/strukturag/libheif"
   },
@@ -9583,15 +9583,15 @@
   },
   {
     "Package": "libx265",
-    "Version": "4.2",
+    "Version": "4.3",
     "Description": "H.265/HEVC video stream encoder library",
-    "Homepage": "http://x265.org/"
+    "Homepage": "https://www.x265.org/"
   },
   {
     "Package": "libx265-static",
-    "Version": "4.2",
+    "Version": "4.3",
     "Description": "Static libraries for libx265",
-    "Homepage": "http://x265.org/"
+    "Homepage": "https://www.x265.org/"
   },
   {
     "Package": "libxapian",
@@ -10369,7 +10369,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.40.1",
+    "Version": "0.40.2",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://lux.lumen-labs.org"
   },
@@ -16561,13 +16561,13 @@
   },
   {
     "Package": "vlc",
-    "Version": "3.0.23-4",
+    "Version": "3.0.23-5",
     "Description": "A popular libre and open source media player and multimedia engine",
     "Homepage": "https://www.videolan.org/"
   },
   {
     "Package": "vlc-static",
-    "Version": "3.0.23-4",
+    "Version": "3.0.23-5",
     "Description": "Static libraries for vlc",
     "Homepage": "https://www.videolan.org/"
   },
@@ -16963,9 +16963,9 @@
   },
   {
     "Package": "x265",
-    "Version": "4.2",
+    "Version": "4.3",
     "Description": "H.265/HEVC video stream encoder tool",
-    "Homepage": "http://x265.org/"
+    "Homepage": "https://www.x265.org/"
   },
   {
     "Package": "xapian-tools",
@@ -17323,7 +17323,7 @@
   },
   {
     "Package": "zola",
-    "Version": "0.23.1",
+    "Version": "0.23.2",
     "Description": "A fast static site generator in a single binary with everything built-in.",
     "Homepage": "https://github.com/getzola/zola"
   },

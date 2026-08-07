@@ -2035,7 +2035,7 @@
   Description: A simple file manager written in bash
   Homepage: https://github.com/dylanaraps/fff
 - Package: ffmpeg
-  Version: 8.1.2-3
+  Version: 8.1.2-4
   Description: Tools and libraries to manipulate a wide range of multimedia formats and protocols
   Homepage: https://ffmpeg.org
 - Package: ffmpegthumbnailer
@@ -3319,11 +3319,11 @@
   Description: Static libraries for jcal
   Homepage: http://nongnu.org/jcal
 - Package: jellyfin-ffmpeg
-  Version: 10.11.11-1
+  Version: 10.11.11-2
   Description: FFmpeg for Jellyfin with custom extensions and enhancements
   Homepage: https://jellyfin.org
 - Package: jellyfin-server
-  Version: 10.11.11-1
+  Version: 10.11.11-2
   Description: A free media system for organizing and streaming media (server)
   Homepage: https://jellyfin.org
 - Package: jfrog-cli
@@ -4583,11 +4583,11 @@
   Description: Static libraries for libhdf5
   Homepage: https://portal.hdfgroup.org/display/support
 - Package: libheif
-  Version: 1.23.1
+  Version: 1.23.1-1
   Description: HEIF (HEIC/AVIF) image encoding and decoding library
   Homepage: https://github.com/strukturag/libheif
 - Package: libheif-progs
-  Version: 1.23.1
+  Version: 1.23.1-1
   Description: Programs for manipulating HEIF (HEIC/AVIF) image files
   Homepage: https://github.com/strukturag/libheif
 - Package: libhiredis
@@ -6387,13 +6387,13 @@
   Description: Static libraries for libx264
   Homepage: https://www.videolan.org/developers/x264.html
 - Package: libx265
-  Version: "4.2"
+  Version: "4.3"
   Description: H.265/HEVC video stream encoder library
-  Homepage: http://x265.org/
+  Homepage: https://www.x265.org/
 - Package: libx265-static
-  Version: "4.2"
+  Version: "4.3"
   Description: Static libraries for libx265
-  Homepage: http://x265.org/
+  Homepage: https://www.x265.org/
 - Package: libxapian
   Version: 2.0.0
   Description: Xapian search engine library
@@ -6911,7 +6911,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.40.1
+  Version: 0.40.2
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://lux.lumen-labs.org
 - Package: lv2
@@ -11039,11 +11039,11 @@
   Description: A themeable LS_COLORS generator with a rich filetype datebase
   Homepage: https://github.com/sharkdp/vivid
 - Package: vlc
-  Version: 3.0.23-4
+  Version: 3.0.23-5
   Description: A popular libre and open source media player and multimedia engine
   Homepage: https://www.videolan.org/
 - Package: vlc-static
-  Version: 3.0.23-4
+  Version: 3.0.23-5
   Description: Static libraries for vlc
   Homepage: https://www.videolan.org/
 - Package: vobsub2srt
@@ -11307,9 +11307,9 @@
   Description: Commandline video encoder for the H.264/MPEG-4 AVC format
   Homepage: https://www.videolan.org/developers/x264.html
 - Package: x265
-  Version: "4.2"
+  Version: "4.3"
   Description: H.265/HEVC video stream encoder tool
-  Homepage: http://x265.org/
+  Homepage: https://www.x265.org/
 - Package: xapian-tools
   Version: 2.0.0
   Description: Basic tools for the Xapian search engine
@@ -11547,7 +11547,7 @@
   Description: An advanced IRC bouncer
   Homepage: https://znc.in/
 - Package: zola
-  Version: 0.23.1
+  Version: 0.23.2
   Description: A fast static site generator in a single binary with everything built-in.
   Homepage: https://github.com/getzola/zola
 - Package: zopfli
