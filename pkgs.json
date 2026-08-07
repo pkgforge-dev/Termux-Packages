@@ -5137,7 +5137,7 @@
   },
   {
     "Package": "k2pdfopt",
-    "Version": "2.55-4",
+    "Version": "2.55-5",
     "Description": "A tool that optimizes PDF files for viewing on mobile readers",
     "Homepage": "https://www.willus.com/k2pdfopt/"
   },
@@ -11227,7 +11227,7 @@
   },
   {
     "Package": "mupdf",
-    "Version": "1.24.10-2",
+    "Version": "1.28.2",
     "Description": "Lightweight PDF and XPS viewer (library)",
     "Homepage": "https://mupdf.com/"
   },
@@ -11239,7 +11239,7 @@
   },
   {
     "Package": "mupdf-tools",
-    "Version": "1.24.10-2",
+    "Version": "1.28.2",
     "Description": "Lightweight PDF and XPS viewer (utilities)",
     "Homepage": "https://mupdf.com/"
   },
@@ -13224,6 +13224,12 @@
     "Homepage": "https://github.com/msgpack/msgpack-python"
   },
   {
+    "Package": "python-mupdf",
+    "Version": "1.28.2",
+    "Description": "Lightweight PDF and XPS viewer (Python bindings)",
+    "Homepage": "https://mupdf.com/"
+  },
+  {
     "Package": "python-numpy",
     "Version": "2.4.4-1",
     "Description": "The fundamental package for scientific computing with Python",
@@ -13254,6 +13260,12 @@
     "Homepage": "https://pip.pypa.io/"
   },
   {
+    "Package": "python-pipcl",
+    "Version": "12",
+    "Description": "Python packaging operations for use by python-mupdf and python-pymupdf",
+    "Homepage": "https://github.com/ArtifexSoftware/pipcl"
+  },
+  {
     "Package": "python-psutil",
     "Version": "7.2.2-2",
     "Description": "Cross-platform process and system utilities module for Python",
@@ -13270,6 +13282,12 @@
     "Version": "3.23.0-4",
     "Description": "A self-contained Python package of low-level cryptographic primitives",
     "Homepage": "https://www.pycryptodome.org/"
+  },
+  {
+    "Package": "python-pymupdf",
+    "Version": "1.28.0",
+    "Description": "Python bindings for MuPDFs rendering library",
+    "Homepage": "https://github.com/pymupdf/PyMuPDF"
   },
   {
     "Package": "python-pynvim",
