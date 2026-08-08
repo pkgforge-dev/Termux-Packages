@@ -721,13 +721,13 @@
   },
   {
     "Package": "bacula-fd",
-    "Version": "15.0.3-1",
+    "Version": "15.0.3-2",
     "Description": "Bacula backup software",
     "Homepage": "https://www.bacula.org"
   },
   {
     "Package": "bacula-fd-static",
-    "Version": "15.0.3-1",
+    "Version": "15.0.3-2",
     "Description": "Static libraries for bacula-fd",
     "Homepage": "https://www.bacula.org"
   },
@@ -1021,7 +1021,7 @@
   },
   {
     "Package": "brogue",
-    "Version": "1.15.1",
+    "Version": "1.15.1-1",
     "Description": "Roguelike dungeon crawling game (community edition)",
     "Homepage": "https://sites.google.com/site/broguegame/"
   },
@@ -1981,7 +1981,7 @@
   },
   {
     "Package": "db",
-    "Version": "18.1.40-5",
+    "Version": "18.1.40-6",
     "Description": "The Berkeley DB embedded database system",
     "Homepage": "https://www.oracle.com/database/berkeley-db"
   },
@@ -3397,7 +3397,7 @@
   },
   {
     "Package": "garage",
-    "Version": "2.3.0",
+    "Version": "2.3.0-1",
     "Description": "S3-compatible object store for small self-hosted geo-distributed deployments",
     "Homepage": "https://garagehq.deuxfleurs.fr/"
   },
@@ -3607,7 +3607,7 @@
   },
   {
     "Package": "ghostscript",
-    "Version": "10.07.1",
+    "Version": "10.07.1-1",
     "Description": "Interpreter for the PostScript language and for PDF",
     "Homepage": "https://www.ghostscript.com/"
   },
@@ -3637,7 +3637,7 @@
   },
   {
     "Package": "gifski",
-    "Version": "1.34.0-1",
+    "Version": "1.34.0-2",
     "Description": "GIF encoder based on libimagequant",
     "Homepage": "https://gif.ski/"
   },
@@ -3877,7 +3877,7 @@
   },
   {
     "Package": "gnunet",
-    "Version": "0.28.0",
+    "Version": "0.28.0-1",
     "Description": "A framework for secure peer-to-peer networking",
     "Homepage": "https://gnunet.org"
   },
@@ -3991,7 +3991,7 @@
   },
   {
     "Package": "gomuks",
-    "Version": "26.07",
+    "Version": "26.07-1",
     "Description": "A terminal Matrix client written in Go",
     "Homepage": "https://go.mau.fi/gomuks"
   },
@@ -4057,7 +4057,7 @@
   },
   {
     "Package": "gotorrent",
-    "Version": "0.1.2",
+    "Version": "0.1.2-1",
     "Description": "TUI for searching torrents",
     "Homepage": "https://github.com/ismaelpadilla/gotorrent"
   },
@@ -4129,7 +4129,7 @@
   },
   {
     "Package": "grafana",
-    "Version": "1:12.3.3",
+    "Version": "1:12.3.3-1",
     "Description": "The open-source platform for monitoring and observability",
     "Homepage": "https://grafana.com/"
   },
@@ -4627,7 +4627,7 @@
   },
   {
     "Package": "hut",
-    "Version": "0.8.0",
+    "Version": "0.8.0-1",
     "Description": "A CLI tool for sr.ht",
     "Homepage": "https://git.sr.ht/~xenrox/hut"
   },
@@ -4945,13 +4945,13 @@
   },
   {
     "Package": "jbig2dec",
-    "Version": "0.20-1",
+    "Version": "0.20-2",
     "Description": "Decoder implementation of the JBIG2 image compression format",
     "Homepage": "https://jbig2dec.com/"
   },
   {
     "Package": "jbig2dec-static",
-    "Version": "0.20-1",
+    "Version": "0.20-2",
     "Description": "Static libraries for jbig2dec",
     "Homepage": "https://jbig2dec.com/"
   },
@@ -5137,7 +5137,7 @@
   },
   {
     "Package": "k2pdfopt",
-    "Version": "2.55-5",
+    "Version": "2.55-6",
     "Description": "A tool that optimizes PDF files for viewing on mobile readers",
     "Homepage": "https://www.willus.com/k2pdfopt/"
   },
@@ -6145,13 +6145,13 @@
   },
   {
     "Package": "libdb",
-    "Version": "18.1.40-5",
+    "Version": "18.1.40-6",
     "Description": "The Berkeley DB embedded database system (library)",
     "Homepage": "https://www.oracle.com/database/berkeley-db"
   },
   {
     "Package": "libdb-static",
-    "Version": "18.1.40-5",
+    "Version": "18.1.40-6",
     "Description": "Static libraries for libdb",
     "Homepage": "https://www.oracle.com/database/berkeley-db"
   },
@@ -10561,7 +10561,7 @@
   },
   {
     "Package": "mautrix-whatsapp",
-    "Version": "0.2607.0",
+    "Version": "26.07",
     "Description": "A Matrix-WhatsApp puppeting bridge",
     "Homepage": "https://maunium.net/go/mautrix-whatsapp/"
   },
@@ -11227,7 +11227,7 @@
   },
   {
     "Package": "mupdf",
-    "Version": "1.28.2",
+    "Version": "1.28.2-1",
     "Description": "Lightweight PDF and XPS viewer (library)",
     "Homepage": "https://mupdf.com/"
   },
@@ -11239,7 +11239,7 @@
   },
   {
     "Package": "mupdf-tools",
-    "Version": "1.28.2",
+    "Version": "1.28.2-1",
     "Description": "Lightweight PDF and XPS viewer (utilities)",
     "Homepage": "https://mupdf.com/"
   },
@@ -12067,7 +12067,7 @@
   },
   {
     "Package": "openlist",
-    "Version": "4.2.4",
+    "Version": "4.2.4-1",
     "Description": "A file list program that supports multiple storage",
     "Homepage": "https://oplist.org/"
   },
@@ -12205,7 +12205,7 @@
   },
   {
     "Package": "osmctools",
-    "Version": "0.9-3",
+    "Version": "0.9-4",
     "Description": "Simple tools for OpenStreetMap processing",
     "Homepage": "https://gitlab.com/osm-c-tools/osmctools"
   },
@@ -12883,13 +12883,13 @@
   },
   {
     "Package": "povray",
-    "Version": "3.8.0-beta.2-19",
+    "Version": "3.8.0-beta.2-20",
     "Description": "The Persistence of Vision Raytracer",
     "Homepage": "https://www.povray.org/"
   },
   {
     "Package": "povray-data",
-    "Version": "3.8.0-beta.2-19",
+    "Version": "3.8.0-beta.2-20",
     "Description": "Platform-independent data for povray",
     "Homepage": "https://www.povray.org/"
   },
@@ -13225,7 +13225,7 @@
   },
   {
     "Package": "python-mupdf",
-    "Version": "1.28.2",
+    "Version": "1.28.2-1",
     "Description": "Lightweight PDF and XPS viewer (Python bindings)",
     "Homepage": "https://mupdf.com/"
   },
@@ -13285,7 +13285,7 @@
   },
   {
     "Package": "python-pymupdf",
-    "Version": "1.28.0",
+    "Version": "1.28.0-1",
     "Description": "Python bindings for MuPDFs rendering library",
     "Homepage": "https://github.com/pymupdf/PyMuPDF"
   },
@@ -13837,7 +13837,7 @@
   },
   {
     "Package": "redis",
-    "Version": "1:8.8.1",
+    "Version": "1:8.8.1-1",
     "Description": "In-memory data structure store used as a database, cache and message broker",
     "Homepage": "https://redis.io/"
   },
@@ -13933,7 +13933,7 @@
   },
   {
     "Package": "ripgrep-all",
-    "Version": "1:0.10.10",
+    "Version": "1:0.10.10-1",
     "Description": "Search tool able to locate in PDFs, E-Books, zip, tar.gz, etc",
     "Homepage": "https://github.com/phiresky/ripgrep-all"
   },
@@ -14431,7 +14431,7 @@
   },
   {
     "Package": "sftpgo",
-    "Version": "2.7.5",
+    "Version": "2.7.5-1",
     "Description": "Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server",
     "Homepage": "https://sftpgo.com/"
   },
@@ -14677,7 +14677,7 @@
   },
   {
     "Package": "soju",
-    "Version": "0.10.1-1",
+    "Version": "0.10.1-2",
     "Description": "A user-friendly IRC bouncer",
     "Homepage": "https://codeberg.org/emersion/soju"
   },
@@ -15013,7 +15013,7 @@
   },
   {
     "Package": "storj-uplink",
-    "Version": "1.161.7",
+    "Version": "1.161.7-1",
     "Description": "Storj DCS Uplink CLI",
     "Homepage": "https://www.storj.io/integrations/uplink-cli"
   },
@@ -15325,7 +15325,7 @@
   },
   {
     "Package": "tdl",
-    "Version": "0.20.3",
+    "Version": "0.20.3-1",
     "Description": "Telegram downloader/tools written in Golang",
     "Homepage": "https://docs.iyear.me/tdl/"
   },
@@ -15499,7 +15499,7 @@
   },
   {
     "Package": "termux-licenses",
-    "Version": "2.1",
+    "Version": "2.2",
     "Description": "Contains LICENSE files for common licenses",
     "Homepage": "https://termux.dev"
   },
@@ -16417,13 +16417,13 @@
   },
   {
     "Package": "valkey",
-    "Version": "9.1.1-1",
+    "Version": "9.1.1-2",
     "Description": "In-memory data structure store used as a database, cache and message broker",
     "Homepage": "https://valkey.io/"
   },
   {
     "Package": "valkey-static",
-    "Version": "9.1.1-1",
+    "Version": "9.1.1-2",
     "Description": "Static libraries for valkey",
     "Homepage": "https://valkey.io/"
   },
@@ -16939,7 +16939,7 @@
   },
   {
     "Package": "wuzz",
-    "Version": "0.5.0-5",
+    "Version": "0.5.0-6",
     "Description": "Interactive command line tool for HTTP inspection",
     "Homepage": "https://github.com/asciimoo/wuzz"
   },
@@ -17233,7 +17233,7 @@
   },
   {
     "Package": "z-push",
-    "Version": "2.7.6",
+    "Version": "2.7.6-1",
     "Description": "An open-source application to synchronize ActiveSync compatible devices and Outlook",
     "Homepage": "https://z-push.org/"
   },
