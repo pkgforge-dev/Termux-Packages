@@ -254,7 +254,7 @@
 | **chroma-visualizer** | 0.0.0+g3c32e7d | Shader-based audio visualizer for the terminal | https://github.com/yuri-xyz/chroma.git |
 | **chromaprint** | 1.6.1 | C library for generating audio fingerprints used by AcoustID (fpcalc tool) | https://acoustid.org/chromaprint |
 | **chrony** | 4.8 | chrony is an implementation of the Network Time Protocol (NTP) | https://chrony-project.org/ |
-| **cicada** | 1.2.2 | A bash like Unix shell | https://github.com/mitnk/cicada |
+| **cicada** | 1.2.5 | A bash like Unix shell | https://github.com/mitnk/cicada |
 | **ciso** | 1.0.2-2 | PSP ISO compression tool | https://github.com/jamie/ciso |
 | **cjson** | 1.7.19 | Ultralightweight JSON parser in ANSI C | https://github.com/DaveGamble/cJSON |
 | **ckermit** | 9.0.302-3 | A combined network and serial communication software package | https://www.kermitproject.org/ckermit.html |
@@ -2746,7 +2746,6 @@
 | **valadoc** | 0.56.19 | API documentation generator for vala | https://wiki.gnome.org/Projects/Vala |
 | **valadoc-static** | 0.56.19 | Static libraries for valadoc | https://wiki.gnome.org/Projects/Vala |
 | **vale** | 3.17.1 | A syntax-aware linter for prose built with speed and extensibility in mind | https://vale.sh |
-| **valkey** | 9.1.1-2 | In-memory data structure store used as a database, cache and message broker | https://valkey.io/ |
 | **valkey-static** | 9.1.1-2 | Static libraries for valkey | https://valkey.io/ |
 | **vamp-plugin-sdk** | 2.10-3 | An API for audio analysis and feature extraction plugins | https://www.vamp-plugins.org/ |
 | **vamp-plugin-sdk-static** | 2.10-3 | Static libraries for vamp-plugin-sdk | https://www.vamp-plugins.org/ |

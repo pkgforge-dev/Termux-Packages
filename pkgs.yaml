@@ -975,7 +975,7 @@
   Description: chrony is an implementation of the Network Time Protocol (NTP)
   Homepage: https://chrony-project.org/
 - Package: cicada
-  Version: 1.2.2
+  Version: 1.2.5
   Description: A bash like Unix shell
   Homepage: https://github.com/mitnk/cicada
 - Package: ciso
@@ -10942,10 +10942,6 @@
   Version: 3.17.1
   Description: A syntax-aware linter for prose built with speed and extensibility in mind
   Homepage: https://vale.sh
-- Package: valkey
-  Version: 9.1.1-2
-  Description: In-memory data structure store used as a database, cache and message broker
-  Homepage: https://valkey.io/
 - Package: valkey-static
   Version: 9.1.1-2
   Description: Static libraries for valkey
