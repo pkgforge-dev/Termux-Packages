@@ -129,7 +129,7 @@
 | **awscli** | 2.36.18 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
 | **axel** | 2.17.14-1 | light command line download accelerator | https://github.com/axel-download-accelerator/axel |
 | **b3sum** | 1.8.6 | A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum | https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum |
-| **babl** | 0.1.126 | Dynamic pixel format translation library | https://gegl.org/babl/ |
+| **babl** | 0.1.128 | Dynamic pixel format translation library | https://gegl.org/babl/ |
 | **bacula-fd** | 15.0.3-1 | Bacula backup software | https://www.bacula.org |
 | **bacula-fd-static** | 15.0.3-1 | Static libraries for bacula-fd | https://www.bacula.org |
 | **barcode** | 0.99-5 | Tool to convert text strings to printed bars | https://www.gnu.org/software/barcode/ |
@@ -258,8 +258,8 @@
 | **ciso** | 1.0.2-2 | PSP ISO compression tool | https://github.com/jamie/ciso |
 | **cjson** | 1.7.19 | Ultralightweight JSON parser in ANSI C | https://github.com/DaveGamble/cJSON |
 | **ckermit** | 9.0.302-3 | A combined network and serial communication software package | https://www.kermitproject.org/ckermit.html |
-| **clamav** | 1.5.3 | Anti-virus toolkit for Unix | https://www.clamav.net/ |
-| **clamav-static** | 1.5.3 | Static libraries for clamav | https://www.clamav.net/ |
+| **clamav** | 1.5.4 | Anti-virus toolkit for Unix | https://www.clamav.net/ |
+| **clamav-static** | 1.5.4 | Static libraries for clamav | https://www.clamav.net/ |
 | **clang** | 21.1.8-3 | C language frontend for LLVM | https://clang.llvm.org/ |
 | **clblast** | 1.7.0 | Tuned OpenCL BLAS | https://github.com/CNugteren/CLBlast |
 | **cli11** | 2.7.2 | Command line parser for C++11 | https://github.com/CLIUtils/CLI11 |
@@ -358,7 +358,7 @@
 | **dictd** | 1.13.3-1 | Online dictionary client and server | https://sourceforge.net/projects/dict/ |
 | **diff-so-fancy** | 1.4.12 | Good-lookin' diffs. Actually... nah... The best-lookin' diffs | https://github.com/so-fancy/diff-so-fancy |
 | **diffstat** | 1.69 | Displays a histogram of changes to a file | https://invisible-island.net/diffstat/diffstat.html |
-| **difftastic** | 0.69.0 | difft: A structural diff that understands syntax | https://github.com/Wilfred/difftastic |
+| **difftastic** | 0.70.0 | difft: A structural diff that understands syntax | https://github.com/Wilfred/difftastic |
 | **diffutils** | 3.12-2 | Programs (cmp, diff, diff3 and sdiff) related to finding differences between files | https://www.gnu.org/software/diffutils/ |
 | **dirb** | 2.22-5 | Web Directory Fuzzer | https://dirb.sourceforge.net/ |
 | **direnv** | 2.37.1-1 | Environment switcher for shell | https://github.com/direnv/direnv |
@@ -540,7 +540,7 @@
 | **flex-static** | 2.6.4-5 | Static libraries for flex | https://github.com/westes/flex |
 | **flint** | 3.6.0 | C library for doing number theory | http://www.flintlib.org |
 | **fluidsynth** | 2.5.7 | Software synthesizer based on the SoundFont 2 specifications | https://github.com/FluidSynth/fluidsynth |
-| **flyctl** | 0.4.79 | Command line tools for fly.io services | https://fly.io |
+| **flyctl** | 0.4.80 | Command line tools for fly.io services | https://fly.io |
 | **fm** | 1.2.0 | A terminal based file manager | https://github.com/knipferrc/fm |
 | **fmt** | 1:11.2.0 | Open-source formatting library for C++ | https://fmt.dev/latest/index.html |
 | **fontconfig** | 2.18.3 | Library for configuring and customizing font access | https://www.freedesktop.org/wiki/Software/fontconfig/ |
@@ -1712,7 +1712,7 @@
 | **lsof** | 4.99.7 | Lists open files for running Unix processes | https://github.com/lsof-org/lsof |
 | **lsof-static** | 4.99.7 | Static libraries for lsof | https://github.com/lsof-org/lsof |
 | **ltrace** | 1:0.8.1-1 | Tracks runtime library calls in dynamically linked programs | http://www.ltrace.org/ |
-| **lua-language-server** | 3.18.2-2 | Sumneko Lua Language Server coded in Lua | https://github.com/sumneko/lua-language-server |
+| **lua-language-server** | 3.19.0 | Sumneko Lua Language Server coded in Lua | https://github.com/sumneko/lua-language-server |
 | **lua-lgi** | 0.9.2+p20251219-2 | Dynamic Lua binding to GObject libraries using GObject-Introspection | https://github.com/lgi-devs/lgi |
 | **lua-lpeg** | 1.1.0-6 | Pattern-matching library for Lua 5.5 | https://www.inf.puc-rio.br/~roberto/lpeg |
 | **lua51** | 5.1.5-8 | Shared library for the Lua interpreter (v5.1.x) | https://www.lua.org |
@@ -1832,7 +1832,7 @@
 | **miniz** | 3.1.2 | Single C source file zlib-replacement library | https://github.com/richgel999/miniz |
 | **minizinc** | 2.10.0 | A medium-level constraint modelling language | https://github.com/MiniZinc/libminizinc |
 | **minizinc-static** | 2.10.0 | Static libraries for minizinc | https://github.com/MiniZinc/libminizinc |
-| **mise** | 2026.8.2 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
+| **mise** | 2026.8.3 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
 | **mkbootimg** | 2022.11.09-1 | Maintained fork with android's mkbootimg and unpackbootimg | https://github.com/osm0sis/mkbootimg |
 | **mkp224o** | 1.7.0-1 | Generate vanity ed25519 (hidden service version 3) onion addresses | https://github.com/cathugger/mkp224o |
 | **mksh** | 59c-3 | The MirBSD Korn Shell - an enhanced version of the public domain ksh | http://www.mirbsd.org/mksh.htm |
@@ -2283,7 +2283,7 @@
 | **rabbitmq-server** | 4.3.4 | Feature rich, multi-protocol messaging and streaming broker | https://github.com/rabbitmq/rabbitmq-server |
 | **racket** | 9.2 | Full-spectrum programming language going beyond Lisp and Scheme | https://racket-lang.org |
 | **racket-static** | 9.2 | Static libraries for racket | https://racket-lang.org |
-| **radare2** | 6.1.8 | UNIX-like reverse engineering framework and command-line toolset | https://www.radare.org/ |
+| **radare2** | 6.2.0 | UNIX-like reverse engineering framework and command-line toolset | https://www.radare.org/ |
 | **radarr** | 6.3.0.10514-2 | A PVR for Usenet and BitTorrent users (server) | https://radarr.video |
 | **rage** | 0.11.2 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4-1 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |

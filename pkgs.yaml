@@ -475,7 +475,7 @@
   Description: A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum
   Homepage: https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum
 - Package: babl
-  Version: 0.1.126
+  Version: 0.1.128
   Description: Dynamic pixel format translation library
   Homepage: https://gegl.org/babl/
 - Package: bacula-fd
@@ -991,11 +991,11 @@
   Description: A combined network and serial communication software package
   Homepage: https://www.kermitproject.org/ckermit.html
 - Package: clamav
-  Version: 1.5.3
+  Version: 1.5.4
   Description: Anti-virus toolkit for Unix
   Homepage: https://www.clamav.net/
 - Package: clamav-static
-  Version: 1.5.3
+  Version: 1.5.4
   Description: Static libraries for clamav
   Homepage: https://www.clamav.net/
 - Package: clang
@@ -1391,7 +1391,7 @@
   Description: Displays a histogram of changes to a file
   Homepage: https://invisible-island.net/diffstat/diffstat.html
 - Package: difftastic
-  Version: 0.69.0
+  Version: 0.70.0
   Description: 'difft: A structural diff that understands syntax'
   Homepage: https://github.com/Wilfred/difftastic
 - Package: diffutils
@@ -2119,7 +2119,7 @@
   Description: Software synthesizer based on the SoundFont 2 specifications
   Homepage: https://github.com/FluidSynth/fluidsynth
 - Package: flyctl
-  Version: 0.4.79
+  Version: 0.4.80
   Description: Command line tools for fly.io services
   Homepage: https://fly.io
 - Package: fm
@@ -6807,7 +6807,7 @@
   Description: Tracks runtime library calls in dynamically linked programs
   Homepage: http://www.ltrace.org/
 - Package: lua-language-server
-  Version: 3.18.2-2
+  Version: 3.19.0
   Description: Sumneko Lua Language Server coded in Lua
   Homepage: https://github.com/sumneko/lua-language-server
 - Package: lua-lgi
@@ -7287,7 +7287,7 @@
   Description: Static libraries for minizinc
   Homepage: https://github.com/MiniZinc/libminizinc
 - Package: mise
-  Version: 2026.8.2
+  Version: 2026.8.3
   Description: dev tools, env vars, task runner
   Homepage: https://mise.jdx.dev/
 - Package: mkbootimg
@@ -9091,7 +9091,7 @@
   Description: Static libraries for racket
   Homepage: https://racket-lang.org
 - Package: radare2
-  Version: 6.1.8
+  Version: 6.2.0
   Description: UNIX-like reverse engineering framework and command-line toolset
   Homepage: https://www.radare.org/
 - Package: radarr
