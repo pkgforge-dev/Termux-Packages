@@ -4991,11 +4991,11 @@
   Description: Static libraries for libmhash
   Homepage: https://mhash.sourceforge.net/
 - Package: libmicrohttpd
-  Version: 1.0.9
+  Version: 1.0.10
   Description: A small C library that is supposed to make it easy to run an HTTP server as part of another application
   Homepage: http://www.gnu.org/software/libmicrohttpd/
 - Package: libmicrohttpd-static
-  Version: 1.0.9
+  Version: 1.0.10
   Description: Static libraries for libmicrohttpd
   Homepage: http://www.gnu.org/software/libmicrohttpd/
 - Package: libminizip
@@ -5187,7 +5187,7 @@
   Description: Static libraries for libnfc
   Homepage: https://github.com/nfc-tools/libnfc
 - Package: libnfs
-  Version: 6.0.2-2
+  Version: 7.0.0
   Description: NFS client library
   Homepage: https://github.com/sahlberg/libnfs
 - Package: libnftnl
@@ -7651,7 +7651,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-1251+g5117b04745-0
+  Version: 0.13.0~dev-1275+ga08607b8d6-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -11343,7 +11343,7 @@
   Description: A friendly and fast tool for sending HTTP requests
   Homepage: https://github.com/ducaale/xh
 - Package: xmake
-  Version: 3.0.9
+  Version: 3.1.0
   Description: A cross-platform build utility based on Lua
   Homepage: https://xmake.io/
 - Package: xmlsec
