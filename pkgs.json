@@ -4921,7 +4921,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.24.2307",
+    "Version": "0.24.2360",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -8101,7 +8101,7 @@
   },
   {
     "Package": "libp11",
-    "Version": "0.4.19-1",
+    "Version": "0.4.20",
     "Description": "PKCS#11 wrapper library",
     "Homepage": "https://github.com/OpenSC/libp11"
   },
@@ -11479,7 +11479,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-1275+ga08607b8d6-0",
+    "Version": "0.13.0~dev-1281+g9f600c8914-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -16416,8 +16416,14 @@
     "Homepage": "https://vale.sh"
   },
   {
+    "Package": "valkey",
+    "Version": "9.1.1-3",
+    "Description": "In-memory data structure store used as a database, cache and message broker",
+    "Homepage": "https://valkey.io/"
+  },
+  {
     "Package": "valkey-static",
-    "Version": "9.1.1-2",
+    "Version": "9.1.1-3",
     "Description": "Static libraries for valkey",
     "Homepage": "https://valkey.io/"
   },

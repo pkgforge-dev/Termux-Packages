@@ -818,7 +818,7 @@
  jack  0.0.1  A metapackage that provides JACK Audio Connection Kit  https://github.com/termux/termux-packages 
  jack-example-tools  4-1  Official JACK example clients and tools  https://jackaudio.org/ 
  jack2  1.9.22-2  The JACK low-latency audio server  https://jackaudio.org/ 
- jackett  0.24.2307  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
+ jackett  0.24.2360  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
  jadx  1.5.5  Dex to Java decompiler  https://github.com/skylot/jadx 
  jadx-x  1.5.5  Dex to Java decompiler GUI  https://github.com/skylot/jadx 
  janet  1.41.2  Janet is a dialect of Lisp intended for embedding into programs and such  https://janet-lang.org 
@@ -1348,7 +1348,7 @@
  libotr  4.1.1-3  Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing: Encryption, Authentication, Deniability, Perfect forward secrecy  https://otr.cypherpunks.ca 
  libotr-static  4.1.1-3  Static libraries for libotr  https://otr.cypherpunks.ca 
  libowfat  0.33-1  GPL reimplementation of libdjb  http://www.fefe.de/libowfat/ 
- libp11  0.4.19-1  PKCS#11 wrapper library  https://github.com/OpenSC/libp11 
+ libp11  0.4.20  PKCS#11 wrapper library  https://github.com/OpenSC/libp11 
  libp8-platform  2.2.0  Platform support library used by libCEC and binary add-ons for Kodi  https://github.com/Pulse-Eight/platform 
  libpagemaker  0.0.4-4  a library that parses the file format of Aldus/Adobe PageMaker documents  https://wiki.documentfoundation.org/DLP/Libraries/libpagemaker 
  libpagemaker-static  0.0.4-4  Static libraries for libpagemaker  https://wiki.documentfoundation.org/DLP/Libraries/libpagemaker 
@@ -1911,7 +1911,7 @@
  neofetch  7.1.0-1  Simple system information script  https://github.com/dylanaraps/neofetch 
  neomutt  20260616  A version of mutt with added features  https://neomutt.org/ 
  neovim  0.12.4  Ambitious Vim-fork focused on extensibility and agility (nvim)  https://neovim.io/ 
- neovim-nightly  0.13.0~dev-1275+ga08607b8d6-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
+ neovim-nightly  0.13.0~dev-1281+g9f600c8914-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
  nerdfix  0.4.2-1  nerdfix helps you to find/fix obsolete Nerd Font icons in your project.  https://github.com/loichyan/nerdfix 
  net-snmp  5.9.5.2  Various tools relating to the Simple Network Management Protocol  http://www.net-snmp.org/ 
  net-snmp-static  5.9.5.2  Static libraries for net-snmp  http://www.net-snmp.org/ 
@@ -2734,7 +2734,8 @@
  valadoc  0.56.19  API documentation generator for vala  https://wiki.gnome.org/Projects/Vala 
  valadoc-static  0.56.19  Static libraries for valadoc  https://wiki.gnome.org/Projects/Vala 
  vale  3.17.1  A syntax-aware linter for prose built with speed and extensibility in mind  https://vale.sh 
- valkey-static  9.1.1-2  Static libraries for valkey  https://valkey.io/ 
+ valkey  9.1.1-3  In-memory data structure store used as a database, cache and message broker  https://valkey.io/ 
+ valkey-static  9.1.1-3  Static libraries for valkey  https://valkey.io/ 
  vamp-plugin-sdk  2.10-3  An API for audio analysis and feature extraction plugins  https://www.vamp-plugins.org/ 
  vamp-plugin-sdk-static  2.10-3  Static libraries for vamp-plugin-sdk  https://www.vamp-plugins.org/ 
  vapoursynth  73-2  Video processing framework with simplicity in mind  https://www.vapoursynth.com/ 
