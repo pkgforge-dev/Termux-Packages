@@ -1463,7 +1463,7 @@
   Description: dns2tcp is a tool for relaying TCP connections over DNS
   Homepage: https://github.com/alex-sector/dns2tcp
 - Package: dnscontrol
-  Version: 4.45.0
+  Version: 4.46.0
   Description: Infrastructure as code for DNS!
   Homepage: https://github.com/StackExchange/dnscontrol
 - Package: dnslookup
@@ -1879,7 +1879,7 @@
   Description: Erlang HTML documentation
   Homepage: https://www.erlang.org/
 - Package: esbuild
-  Version: 0.28.1
+  Version: 0.28.2
   Description: An extremely fast JavaScript bundler
   Homepage: https://esbuild.github.io/
 - Package: espeak
@@ -6911,7 +6911,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.40.3
+  Version: 0.40.4
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://lux.lumen-labs.org
 - Package: lv2
@@ -8439,7 +8439,7 @@
   Description: A minimal dumb-terminal emulation program
   Homepage: https://github.com/npat-efault/picocom
 - Package: picolisp
-  Version: "26.6"
+  Version: 26.6-1
   Description: Lisp interpreter and application server framework
   Homepage: https://picolisp.com/wiki/?home
 - Package: pigz

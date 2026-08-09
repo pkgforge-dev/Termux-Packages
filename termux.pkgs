@@ -364,7 +364,7 @@
 | **dnote** | 1:0.16.0 | A simple command line notebook for programmers | https://www.getdnote.com/ |
 | **dnote-server** | 3.0.0 | This package contains the Dnote server. It comprises of the web interface, the web API, and the background jobs. | https://www.getdnote.com/ |
 | **dns2tcp** | 0.5.2-2 | dns2tcp is a tool for relaying TCP connections over DNS | https://github.com/alex-sector/dns2tcp |
-| **dnscontrol** | 4.45.0 | Infrastructure as code for DNS! | https://github.com/StackExchange/dnscontrol |
+| **dnscontrol** | 4.46.0 | Infrastructure as code for DNS! | https://github.com/StackExchange/dnscontrol |
 | **dnslookup** | 1.12.0 | Simple command line utility to make DNS lookups. Supports all known DNS protocols: plain DNS, DoH, DoT, DoQ, DNSCrypt. | https://github.com/ameshkov/dnslookup |
 | **dnsmap** | 0.36-3 | Subdomain Bruteforcing Tool | https://github.com/resurrecting-open-source-projects/dnsmap |
 | **dnstop** | 2022.10.19-1 | A libpcap application that displays various tables of DNS traffic on your network | https://github.com/measurement-factory/dnstop |
@@ -468,7 +468,7 @@
 | **entr** | 5.8 | Event Notify Test Runner - run arbitrary commands when files change | https://eradman.com/entrproject/ |
 | **erlang** | 29.0.5 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
 | **erlang-doc** | 29.0.5 | Erlang HTML documentation | https://www.erlang.org/ |
-| **esbuild** | 0.28.1 | An extremely fast JavaScript bundler | https://esbuild.github.io/ |
+| **esbuild** | 0.28.2 | An extremely fast JavaScript bundler | https://esbuild.github.io/ |
 | **espeak** | 1.52.0-1 | Compact software speech synthesizer | https://github.com/espeak-ng/espeak-ng |
 | **espeak-static** | 1.52.0-1 | Static libraries for espeak | https://github.com/espeak-ng/espeak-ng |
 | **et** | 7.0.0 | A remote shell that automatically reconnects without interrupting the session | https://eternalterminal.dev |
@@ -1726,7 +1726,7 @@
 | **luvi** | 1:2.15.0-2 | A project in-between luv and luvit | https://luvit.io |
 | **luvit** | 2.18.1-1 | Asynchronous I/O for Lua | https://luvit.io |
 | **lux** | 0.24.1-2 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
-| **lux-cli** | 0.40.3 | A package manager for Lua, similar to luarocks | https://lux.lumen-labs.org |
+| **lux-cli** | 0.40.4 | A package manager for Lua, similar to luarocks | https://lux.lumen-labs.org |
 | **lv2** | 1.18.10-7 | A plugin standard for audio systems | https://lv2plug.in/ |
 | **lychee** | 0.24.2 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
 | **lynx** | 2.9.2-1 | The text web browser | http://lynx.browser.org/ |
@@ -2108,7 +2108,7 @@
 | **pianobar** | 2024.12.21-2 | pianobar is a free/open-source, console-based client for the personalized online radio Pandora. | https://6xq.net/pianobar/ |
 | **pick** | 4.0.0-3 | Utility to choose one option from a set of choices with fuzzy search functionality | https://github.com/calleerlandsson/pick |
 | **picocom** | 2018.04.12-1 | A minimal dumb-terminal emulation program | https://github.com/npat-efault/picocom |
-| **picolisp** | 26.6 | Lisp interpreter and application server framework | https://picolisp.com/wiki/?home |
+| **picolisp** | 26.6-1 | Lisp interpreter and application server framework | https://picolisp.com/wiki/?home |
 | **pigz** | 2.8-1 | Parallel implementation of the gzip file compressor | https://www.zlib.net/pigz |
 | **pikiwidb** | 3.5.6-2 | Redis-Compatible database developed by Qihoo's infrastructure team | https://github.com/OpenAtomFoundation/pikiwidb |
 | **pikiwidb-static** | 3.5.6-2 | Static libraries for pikiwidb | https://github.com/OpenAtomFoundation/pikiwidb |
