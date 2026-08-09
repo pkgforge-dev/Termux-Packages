@@ -5063,7 +5063,7 @@
   Description: Static libraries for libmpc
   Homepage: https://www.multiprecision.org/
 - Package: libmpdclient
-  Version: "2.26"
+  Version: "2.27"
   Description: Asynchronous API library for interfacing MPD in the C, C++ & Objective C languages
   Homepage: https://www.musicpd.org/libs/libmpdclient/
 - Package: libmpeg2
@@ -9703,7 +9703,7 @@
   Description: Simulator for Microchip AVR (formerly Atmel) microcontrollers
   Homepage: https://www.nongnu.org/simulavr
 - Package: sing-box
-  Version: 1.13.16
+  Version: 1.13.18
   Description: The universal proxy platform
   Homepage: https://sing-box.sagernet.org
 - Package: skate
