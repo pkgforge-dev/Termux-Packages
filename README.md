@@ -308,7 +308,7 @@
 | **cpufetch** | 1.07-1 | Simple yet fancy CPU architecture fetching tool | https://github.com/Dr-Noob/cpufetch |
 | **cpulimit** | 0.2-2 | CPU usage limiter | https://github.com/opsengine/cpulimit |
 | **crawl** | 0.34.1 | Roguelike adventure through dungeons filled with dangerous monsters | https://crawl.develz.org/ |
-| **croc** | 1:11.0.2 | Easily and securely send things from one computer to another | https://github.com/schollz/croc |
+| **croc** | 1:11.0.3 | Easily and securely send things from one computer to another | https://github.com/schollz/croc |
 | **cronie** | 1.7.2-4 | Daemon that runs specified programs at scheduled times and related tools | https://github.com/cronie-crond/cronie/ |
 | **crowbook** | 0.17.0-1 | Allows you to write a book in Markdown without worrying about formatting or typography | https://github.com/crowdagger/crowbook |
 | **crunch** | 3.6-5 | Highly customizable wordlist generator | https://sourceforge.net/projects/crunch-wordlist/ |
@@ -1715,20 +1715,20 @@
 | **lua-language-server** | 3.19.0 | Sumneko Lua Language Server coded in Lua | https://github.com/sumneko/lua-language-server |
 | **lua-lgi** | 0.9.2+p20251219-2 | Dynamic Lua binding to GObject libraries using GObject-Introspection | https://github.com/lgi-devs/lgi |
 | **lua-lpeg** | 1.1.0-6 | Pattern-matching library for Lua 5.5 | https://www.inf.puc-rio.br/~roberto/lpeg |
-| **lua51** | 5.1.5-8 | Shared library for the Lua interpreter (v5.1.x) | https://www.lua.org |
+| **lua51** | 5.1.5-9 | Lua scripting language 5.1.x | https://www.lua.org |
 | **lua51-lpeg** | 1.1.0-6 | Pattern-matching library for Lua 5.1 | https://www.inf.puc-rio.br/~roberto/lpeg |
-| **lua51-static** | 5.1.5-8 | Static libraries for lua51 | https://www.lua.org |
-| **lua52** | 5.2.4-16 | Shared library for the Lua interpreter (v5.2.x) | https://www.lua.org |
+| **lua51-static** | 5.1.5-9 | Static libraries for lua51 | https://www.lua.org |
+| **lua52** | 5.2.4-17 | Lua scripting language 5.2.x | https://www.lua.org |
 | **lua52-lpeg** | 1.1.0-6 | Pattern-matching library for Lua 5.2 | https://www.inf.puc-rio.br/~roberto/lpeg |
-| **lua52-static** | 5.2.4-16 | Static libraries for lua52 | https://www.lua.org |
-| **lua53** | 5.3.6-7 | Shared library for the Lua interpreter (v5.3.x) | https://www.lua.org/ |
+| **lua52-static** | 5.2.4-17 | Static libraries for lua52 | https://www.lua.org |
+| **lua53** | 5.3.6-8 | Lua scripting language 5.3.x | https://www.lua.org/ |
 | **lua53-lpeg** | 1.1.0-6 | Pattern-matching library for Lua 5.3 | https://www.inf.puc-rio.br/~roberto/lpeg |
-| **lua53-static** | 5.3.6-7 | Static libraries for lua53 | https://www.lua.org/ |
-| **lua54** | 5.4.8-7 | Shared library for the Lua interpreter (v5.4.x) | https://www.lua.org/ |
+| **lua53-static** | 5.3.6-8 | Static libraries for lua53 | https://www.lua.org/ |
+| **lua54** | 5.4.8-8 | Lua scripting language 5.4.x | https://www.lua.org/ |
 | **lua54-lpeg** | 1.1.0-6 | Pattern-matching library for Lua 5.4 | https://www.inf.puc-rio.br/~roberto/lpeg |
-| **lua54-static** | 5.4.8-7 | Static libraries for lua54 | https://www.lua.org/ |
-| **lua55** | 5.5.0-3 | Shared library for the Lua interpreter (v5.5.x) | https://www.lua.org/ |
-| **lua55-static** | 5.5.0-3 | Static libraries for lua55 | https://www.lua.org/ |
+| **lua54-static** | 5.4.8-8 | Static libraries for lua54 | https://www.lua.org/ |
+| **lua55** | 5.5.1 | Lua scripting language 5.5.x | https://www.lua.org/ |
+| **lua55-static** | 5.5.1 | Static libraries for lua55 | https://www.lua.org/ |
 | **luajit** | 1:2.1.1785763465+g1edc3e5 | Just-In-Time Compiler for Lua | https://luajit.org/ |
 | **luajit-lgi** | 0.9.2+p20251219-3 | Dynamic Lua binding to GObject libraries using GObject-Introspection | https://github.com/lgi-devs/lgi |
 | **luajit-static** | 1:2.1.1785763465+g1edc3e5 | Static libraries for luajit | https://luajit.org/ |
@@ -1923,7 +1923,7 @@
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20260616 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.12.4 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
-| **neovim-nightly** | 0.13.0~dev-1281+g9f600c8914-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
+| **neovim-nightly** | 0.13.0~dev-1286+g2450ae797c-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
 | **nerdfix** | 0.4.2-1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.5.2 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.5.2 | Static libraries for net-snmp | http://www.net-snmp.org/ |

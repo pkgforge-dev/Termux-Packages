@@ -1789,7 +1789,7 @@
   },
   {
     "Package": "croc",
-    "Version": "1:11.0.2",
+    "Version": "1:11.0.3",
     "Description": "Easily and securely send things from one computer to another",
     "Homepage": "https://github.com/schollz/croc"
   },
@@ -10231,8 +10231,8 @@
   },
   {
     "Package": "lua51",
-    "Version": "5.1.5-8",
-    "Description": "Shared library for the Lua interpreter (v5.1.x)",
+    "Version": "5.1.5-9",
+    "Description": "Lua scripting language 5.1.x",
     "Homepage": "https://www.lua.org"
   },
   {
@@ -10243,14 +10243,14 @@
   },
   {
     "Package": "lua51-static",
-    "Version": "5.1.5-8",
+    "Version": "5.1.5-9",
     "Description": "Static libraries for lua51",
     "Homepage": "https://www.lua.org"
   },
   {
     "Package": "lua52",
-    "Version": "5.2.4-16",
-    "Description": "Shared library for the Lua interpreter (v5.2.x)",
+    "Version": "5.2.4-17",
+    "Description": "Lua scripting language 5.2.x",
     "Homepage": "https://www.lua.org"
   },
   {
@@ -10261,14 +10261,14 @@
   },
   {
     "Package": "lua52-static",
-    "Version": "5.2.4-16",
+    "Version": "5.2.4-17",
     "Description": "Static libraries for lua52",
     "Homepage": "https://www.lua.org"
   },
   {
     "Package": "lua53",
-    "Version": "5.3.6-7",
-    "Description": "Shared library for the Lua interpreter (v5.3.x)",
+    "Version": "5.3.6-8",
+    "Description": "Lua scripting language 5.3.x",
     "Homepage": "https://www.lua.org/"
   },
   {
@@ -10279,14 +10279,14 @@
   },
   {
     "Package": "lua53-static",
-    "Version": "5.3.6-7",
+    "Version": "5.3.6-8",
     "Description": "Static libraries for lua53",
     "Homepage": "https://www.lua.org/"
   },
   {
     "Package": "lua54",
-    "Version": "5.4.8-7",
-    "Description": "Shared library for the Lua interpreter (v5.4.x)",
+    "Version": "5.4.8-8",
+    "Description": "Lua scripting language 5.4.x",
     "Homepage": "https://www.lua.org/"
   },
   {
@@ -10297,19 +10297,19 @@
   },
   {
     "Package": "lua54-static",
-    "Version": "5.4.8-7",
+    "Version": "5.4.8-8",
     "Description": "Static libraries for lua54",
     "Homepage": "https://www.lua.org/"
   },
   {
     "Package": "lua55",
-    "Version": "5.5.0-3",
-    "Description": "Shared library for the Lua interpreter (v5.5.x)",
+    "Version": "5.5.1",
+    "Description": "Lua scripting language 5.5.x",
     "Homepage": "https://www.lua.org/"
   },
   {
     "Package": "lua55-static",
-    "Version": "5.5.0-3",
+    "Version": "5.5.1",
     "Description": "Static libraries for lua55",
     "Homepage": "https://www.lua.org/"
   },
@@ -11479,7 +11479,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-1281+g9f600c8914-0",
+    "Version": "0.13.0~dev-1286+g2450ae797c-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
