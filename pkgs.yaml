@@ -2623,7 +2623,7 @@
   Description: Find visually similar or duplicate images
   Homepage: https://gitlab.com/opennota/findimagedupes
 - Package: go-musicfox
-  Version: 5.0.2
+  Version: 5.1.0
   Description: A netease music player in terminal.
   Homepage: https://github.com/go-musicfox/go-musicfox
 - Package: goaccess
@@ -7235,7 +7235,7 @@
   Description: tiny, portable SOCKS5 server with very moderate resource usage
   Homepage: https://github.com/rofl0r/microsocks
 - Package: miller
-  Version: 6.20.2
+  Version: 6.21.0
   Description: Like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
   Homepage: https://miller.readthedocs.io/
 - Package: mimetic
@@ -8799,7 +8799,7 @@
   Description: Wheels for Python ensurepip
   Homepage: https://python.org/
 - Package: python-greenlet
-  Version: 3.5.4
+  Version: 3.5.5
   Description: Lightweight coroutines for in-process concurrent programming
   Homepage: https://github.com/python-greenlet/greenlet
 - Package: python-grpcio
@@ -11143,7 +11143,7 @@
   Description: Libc for WebAssembly programs built on top of WASI system calls
   Homepage: https://wasi.dev/
 - Package: wasm-component-ld
-  Version: 0.5.28
+  Version: 0.5.29
   Description: Command line linker for creating WebAssembly components
   Homepage: https://github.com/bytecodealliance/wasm-component-ld
 - Package: wasmedge
