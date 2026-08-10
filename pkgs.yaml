@@ -1011,7 +1011,7 @@
   Description: Command line parser for C++11
   Homepage: https://github.com/CLIUtils/CLI11
 - Package: clifm
-  Version: 1.28-1
+  Version: 1.28-2
   Description: 'The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell'
   Homepage: https://github.com/leo-arch/clifm
 - Package: clinfo
@@ -2059,7 +2059,7 @@
   Description: Program for making large letters out of ordinary text
   Homepage: http://www.figlet.org/
 - Package: file
-  Version: 5.48-1
+  Version: 5.48-2
   Description: Command-line tool that tells you in words what kind of data a file contains
   Homepage: https://darwinsys.com/file/
 - Package: file-static
@@ -2619,7 +2619,7 @@
   Description: Commandline utilities for interfacing with the gnutls library
   Homepage: https://www.gnutls.org/
 - Package: go-findimagedupes
-  Version: 2023.01.29-4
+  Version: 2023.01.29-5
   Description: Find visually similar or duplicate images
   Homepage: https://gitlab.com/opennota/findimagedupes
 - Package: go-musicfox
@@ -4922,6 +4922,14 @@
   Version: 0.16.4-2
   Description: MAD is a high-quality MPEG audio decoder
   Homepage: http://www.underbit.com/products/mad/
+- Package: libmagic
+  Version: 5.48-2
+  Description: File type identification library
+  Homepage: https://darwinsys.com/file/
+- Package: libmagic-static
+  Version: 5.48-2
+  Description: Static libraries for libmagic
+  Homepage: https://darwinsys.com/file/
 - Package: libmariadbcpp
   Version: 1.1.2-1
   Description: Enables C++ applications to establish client connections to MariaDB Enterprise over TLS
@@ -6023,7 +6031,7 @@
   Description: Tools for working with tiff files
   Homepage: http://www.simplesystems.org/libtiff/
 - Package: libtiledb
-  Version: 2.30.1
+  Version: 2.30.1-1
   Description: A powerful engine for storing and accessing dense and sparse multi-dimensional arrays
   Homepage: https://tiledb.com/
 - Package: libtins
@@ -7539,7 +7547,7 @@
   Description: An offline tool for querying IP geographic information and CDN provider
   Homepage: https://github.com/zu1k/nali
 - Package: nano
-  Version: "9.2"
+  Version: 9.2-1
   Description: Small, free and friendly text editor
   Homepage: https://www.nano-editor.org/
 - Package: nasm
@@ -9207,11 +9215,11 @@
   Description: Static libraries for recode
   Homepage: https://github.com/pinard/Recode
 - Package: recoll
-  Version: 1.44.1
+  Version: 1.44.1-1
   Description: Full-text search for your desktop
   Homepage: https://www.recoll.org/
 - Package: recoll-python
-  Version: 1.44.1
+  Version: 1.44.1-1
   Description: Python interface for Recoll
   Homepage: https://www.recoll.org/
 - Package: recutils
@@ -9303,7 +9311,7 @@
   Description: A terminal IRC client in C
   Homepage: https://github.com/rcr/rirc
 - Package: rizin
-  Version: 0.9.1
+  Version: 0.9.1-1
   Description: UNIX-like reverse engineering framework and command-line toolset.
   Homepage: https://rizin.re
 - Package: rlwrap
@@ -9339,7 +9347,7 @@
   Description: A PPP-over-Ethernet redirector for pppd
   Homepage: https://dianne.skoll.ca/projects/rp-pppoe/
 - Package: rpm
-  Version: 4.18.1-2
+  Version: 4.18.1-3
   Description: RPM Package Manager
   Homepage: https://rpm.org/
 - Package: rq
@@ -9815,11 +9823,11 @@
   Description: Language Server Protocol implementation for Swift and C-based languages
   Homepage: https://swift.org/
 - Package: sox
-  Version: 14.4.2-28
+  Version: 14.4.2-29
   Description: Command line utility for converting between and applying effects to various audio files formats
   Homepage: https://sox.sourceforge.net/
 - Package: sox-static
-  Version: 14.4.2-28
+  Version: 14.4.2-29
   Description: Static libraries for sox
   Homepage: https://sox.sourceforge.net/
 - Package: spatialite-tools
@@ -10047,19 +10055,19 @@
   Description: DVD subtitle ripper for Linux
   Homepage: https://subtitleripper.sourceforge.net/
 - Package: subversion
-  Version: 1.14.5-2
+  Version: 1.14.5-3
   Description: Centralized version control system characterized by its simplicity
   Homepage: https://subversion.apache.org
 - Package: subversion-perl
-  Version: 1.14.5-2
+  Version: 1.14.5-3
   Description: Perl interface to Subversion
   Homepage: https://subversion.apache.org
 - Package: subversion-perl-static
-  Version: 1.14.5-2
+  Version: 1.14.5-3
   Description: Static libraries for subversion-perl
   Homepage: https://subversion.apache.org
 - Package: subversion-static
-  Version: 1.14.5-2
+  Version: 1.14.5-3
   Description: Static libraries for subversion
   Homepage: https://subversion.apache.org
 - Package: sudo
@@ -11003,7 +11011,7 @@
   Description: A modern watch command
   Homepage: https://github.com/sachaos/viddy
 - Package: vifm
-  Version: 0.14.4
+  Version: 0.14.4-1
   Description: File manager with vi like keybindings
   Homepage: https://vifm.info/
 - Package: vile
@@ -11431,11 +11439,11 @@
   Description: Static libraries for yajl
   Homepage: https://lloyd.github.io/yajl/
 - Package: yara
-  Version: 4.5.8
+  Version: 4.5.8-1
   Description: Tool aimed at helping malware researchers to identify and classify malware samples
   Homepage: https://github.com/VirusTotal/yara
 - Package: yara-static
-  Version: 4.5.8
+  Version: 4.5.8-1
   Description: Static libraries for yara
   Homepage: https://github.com/VirusTotal/yara
 - Package: yarn
