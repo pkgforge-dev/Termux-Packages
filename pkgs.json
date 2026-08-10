@@ -5641,7 +5641,7 @@
   },
   {
     "Package": "libarrow-cpp",
-    "Version": "25.0.0-1",
+    "Version": "25.0.1",
     "Description": "C++ libraries for Apache Arrow",
     "Homepage": "https://github.com/apache/arrow"
   },
@@ -5815,7 +5815,7 @@
   },
   {
     "Package": "libc++utilities",
-    "Version": "5.34.2-1",
+    "Version": "5.35.0",
     "Description": "Useful C++ classes and routines such as argument parser, IO and conversion utilities",
     "Homepage": "https://github.com/Martchus/cpp-utilities"
   },
@@ -10249,7 +10249,7 @@
   },
   {
     "Package": "lua52",
-    "Version": "5.2.4-18",
+    "Version": "5.2.4-19",
     "Description": "Lua scripting language 5.2.x",
     "Homepage": "https://www.lua.org"
   },
@@ -10261,13 +10261,13 @@
   },
   {
     "Package": "lua52-static",
-    "Version": "5.2.4-18",
+    "Version": "5.2.4-19",
     "Description": "Static libraries for lua52",
     "Homepage": "https://www.lua.org"
   },
   {
     "Package": "lua53",
-    "Version": "5.3.6-9",
+    "Version": "5.3.6-10",
     "Description": "Lua scripting language 5.3.x",
     "Homepage": "https://www.lua.org/"
   },
@@ -10279,13 +10279,13 @@
   },
   {
     "Package": "lua53-static",
-    "Version": "5.3.6-9",
+    "Version": "5.3.6-10",
     "Description": "Static libraries for lua53",
     "Homepage": "https://www.lua.org/"
   },
   {
     "Package": "lua54",
-    "Version": "5.4.8-9",
+    "Version": "5.4.8-10",
     "Description": "Lua scripting language 5.4.x",
     "Homepage": "https://www.lua.org/"
   },
@@ -10297,7 +10297,7 @@
   },
   {
     "Package": "lua54-static",
-    "Version": "5.4.8-9",
+    "Version": "5.4.8-10",
     "Description": "Static libraries for lua54",
     "Homepage": "https://www.lua.org/"
   },
@@ -13279,7 +13279,7 @@
   },
   {
     "Package": "python-pyarrow",
-    "Version": "25.0.0-1",
+    "Version": "25.0.1",
     "Description": "Python bindings for Apache Arrow",
     "Homepage": "https://github.com/apache/arrow"
   },
@@ -14137,7 +14137,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20260803",
+    "Version": "20260810",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://rust-analyzer.github.io/"
   },
@@ -14239,7 +14239,7 @@
   },
   {
     "Package": "sabnzbd",
-    "Version": "5.0.4-1",
+    "Version": "5.1.0",
     "Description": "Fully automated Usenet Binary Downloader",
     "Homepage": "https://sabnzbd.org/"
   },

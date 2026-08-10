@@ -938,7 +938,7 @@
 | **libapt-pkg-perl** | 0.1.43 | Perl interface to APT's libapt-pkg | https://packages.debian.org/libapt-pkg-perl |
 | **libarchive** | 3.8.9 | Multi-format archive and compression library | https://www.libarchive.org/ |
 | **libarchive-static** | 3.8.9 | Static libraries for libarchive | https://www.libarchive.org/ |
-| **libarrow-cpp** | 25.0.0-1 | C++ libraries for Apache Arrow | https://github.com/apache/arrow |
+| **libarrow-cpp** | 25.0.1 | C++ libraries for Apache Arrow | https://github.com/apache/arrow |
 | **libasio** | 1.36.0-1 | Cross-platform C++ library for network and low-level I/O programming | https://think-async.com/Asio |
 | **libasm** | 0.193-1 | Library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |
 | **libasm-static** | 0.193-1 | Static library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |
@@ -967,7 +967,7 @@
 | **libburn-static** | 1.5.8 | Static libraries for libburn | https://dev.lovelyhq.com/libburnia |
 | **libbz2** | 1.0.8-8 | BZ2 format compression library | http://www.bzip.org/ |
 | **libc++** | 29 | C++ Standard Library | https://libcxx.llvm.org/ |
-| **libc++utilities** | 5.34.2-1 | Useful C++ classes and routines such as argument parser, IO and conversion utilities | https://github.com/Martchus/cpp-utilities |
+| **libc++utilities** | 5.35.0 | Useful C++ classes and routines such as argument parser, IO and conversion utilities | https://github.com/Martchus/cpp-utilities |
 | **libc-client** | 2007f-4 | UW IMAP c-client library | https://www.washington.edu/imap/ |
 | **libc-client-static** | 2007f-4 | Static libraries for libc-client | https://www.washington.edu/imap/ |
 | **libcaca** | 0.99.beta20-3 | Graphics library that outputs text instead of pixels | http://caca.zoy.org/wiki/libcaca |
@@ -1706,15 +1706,15 @@
 | **lua51** | 5.1.5-10 | Lua scripting language 5.1.x | https://www.lua.org |
 | **lua51-lpeg** | 1.1.0-6 | Pattern-matching library for Lua 5.1 | https://www.inf.puc-rio.br/~roberto/lpeg |
 | **lua51-static** | 5.1.5-10 | Static libraries for lua51 | https://www.lua.org |
-| **lua52** | 5.2.4-18 | Lua scripting language 5.2.x | https://www.lua.org |
+| **lua52** | 5.2.4-19 | Lua scripting language 5.2.x | https://www.lua.org |
 | **lua52-lpeg** | 1.1.0-6 | Pattern-matching library for Lua 5.2 | https://www.inf.puc-rio.br/~roberto/lpeg |
-| **lua52-static** | 5.2.4-18 | Static libraries for lua52 | https://www.lua.org |
-| **lua53** | 5.3.6-9 | Lua scripting language 5.3.x | https://www.lua.org/ |
+| **lua52-static** | 5.2.4-19 | Static libraries for lua52 | https://www.lua.org |
+| **lua53** | 5.3.6-10 | Lua scripting language 5.3.x | https://www.lua.org/ |
 | **lua53-lpeg** | 1.1.0-6 | Pattern-matching library for Lua 5.3 | https://www.inf.puc-rio.br/~roberto/lpeg |
-| **lua53-static** | 5.3.6-9 | Static libraries for lua53 | https://www.lua.org/ |
-| **lua54** | 5.4.8-9 | Lua scripting language 5.4.x | https://www.lua.org/ |
+| **lua53-static** | 5.3.6-10 | Static libraries for lua53 | https://www.lua.org/ |
+| **lua54** | 5.4.8-10 | Lua scripting language 5.4.x | https://www.lua.org/ |
 | **lua54-lpeg** | 1.1.0-6 | Pattern-matching library for Lua 5.4 | https://www.inf.puc-rio.br/~roberto/lpeg |
-| **lua54-static** | 5.4.8-9 | Static libraries for lua54 | https://www.lua.org/ |
+| **lua54-static** | 5.4.8-10 | Static libraries for lua54 | https://www.lua.org/ |
 | **lua55** | 5.5.1-1 | Lua scripting language 5.5.x | https://www.lua.org/ |
 | **lua55-static** | 5.5.1-1 | Static libraries for lua55 | https://www.lua.org/ |
 | **luajit** | 1:2.1.1785763465+g1edc3e5 | Just-In-Time Compiler for Lua | https://luajit.org/ |
@@ -2211,7 +2211,7 @@
 | **python-pip** | 26.2.1 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
 | **python-pipcl** | 12 | Python packaging operations for use by python-mupdf and python-pymupdf | https://github.com/ArtifexSoftware/pipcl |
 | **python-psutil** | 7.2.2-2 | Cross-platform process and system utilities module for Python | https://github.com/giampaolo/psutil |
-| **python-pyarrow** | 25.0.0-1 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
+| **python-pyarrow** | 25.0.1 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
 | **python-pycryptodomex** | 3.23.0-4 | A self-contained Python package of low-level cryptographic primitives | https://www.pycryptodome.org/ |
 | **python-pymupdf** | 1.28.0-1 | Python bindings for MuPDF's rendering library | https://github.com/pymupdf/PyMuPDF |
 | **python-pynvim** | 0.6.0-3 | Python client for Neovim | https://github.com/neovim/pynvim |
@@ -2354,7 +2354,7 @@
 | **runit-static** | 2.1.2-4 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.9.0 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
 | **rust** | 1.97.1 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
-| **rust-analyzer** | 20260803 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
+| **rust-analyzer** | 20260810 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
 | **rust-bindgen** | 0.72.1 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
 | **rust-docs** | 1.97.1 | Rust documentation | https://www.rust-lang.org/ |
 | **rust-src** | 1.97.1 | Rust source code files | https://www.rust-lang.org/ |
@@ -2371,7 +2371,7 @@
 | **rustc-src** | 1.97.1 | Rust compiler source code files | https://www.rust-lang.org/ |
 | **rustscan** | 2.4.1-1 | The modern,fast,smart and effective port scanner | https://rustscan.github.io/RustScan |
 | **rxfetch** | 2023.01.07 | A custom system info fetching tool | https://github.com/Mangeshrex/rxfetch |
-| **sabnzbd** | 5.0.4-1 | Fully automated Usenet Binary Downloader | https://sabnzbd.org/ |
+| **sabnzbd** | 5.1.0 | Fully automated Usenet Binary Downloader | https://sabnzbd.org/ |
 | **samba** | 4.16.11-6 | SMB/CIFS fileserver | https://www.samba.org/ |
 | **samefile** | 2.15-6 | Finds files with identical contents, independent of file name | http://www.schweikhardt.net/samefile/ |
 | **samurai** | 1.3 | ninja-compatible build tool written in C | https://github.com/michaelforney/samurai |

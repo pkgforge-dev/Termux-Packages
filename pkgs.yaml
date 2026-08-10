@@ -3759,7 +3759,7 @@
   Description: Static libraries for libarchive
   Homepage: https://www.libarchive.org/
 - Package: libarrow-cpp
-  Version: 25.0.0-1
+  Version: 25.0.1
   Description: C++ libraries for Apache Arrow
   Homepage: https://github.com/apache/arrow
 - Package: libasio
@@ -3875,7 +3875,7 @@
   Description: C++ Standard Library
   Homepage: https://libcxx.llvm.org/
 - Package: libc++utilities
-  Version: 5.34.2-1
+  Version: 5.35.0
   Description: Useful C++ classes and routines such as argument parser, IO and conversion utilities
   Homepage: https://github.com/Martchus/cpp-utilities
 - Package: libc-client
@@ -6831,7 +6831,7 @@
   Description: Static libraries for lua51
   Homepage: https://www.lua.org
 - Package: lua52
-  Version: 5.2.4-18
+  Version: 5.2.4-19
   Description: Lua scripting language 5.2.x
   Homepage: https://www.lua.org
 - Package: lua52-lpeg
@@ -6839,11 +6839,11 @@
   Description: Pattern-matching library for Lua 5.2
   Homepage: https://www.inf.puc-rio.br/~roberto/lpeg
 - Package: lua52-static
-  Version: 5.2.4-18
+  Version: 5.2.4-19
   Description: Static libraries for lua52
   Homepage: https://www.lua.org
 - Package: lua53
-  Version: 5.3.6-9
+  Version: 5.3.6-10
   Description: Lua scripting language 5.3.x
   Homepage: https://www.lua.org/
 - Package: lua53-lpeg
@@ -6851,11 +6851,11 @@
   Description: Pattern-matching library for Lua 5.3
   Homepage: https://www.inf.puc-rio.br/~roberto/lpeg
 - Package: lua53-static
-  Version: 5.3.6-9
+  Version: 5.3.6-10
   Description: Static libraries for lua53
   Homepage: https://www.lua.org/
 - Package: lua54
-  Version: 5.4.8-9
+  Version: 5.4.8-10
   Description: Lua scripting language 5.4.x
   Homepage: https://www.lua.org/
 - Package: lua54-lpeg
@@ -6863,7 +6863,7 @@
   Description: Pattern-matching library for Lua 5.4
   Homepage: https://www.inf.puc-rio.br/~roberto/lpeg
 - Package: lua54-static
-  Version: 5.4.8-9
+  Version: 5.4.8-10
   Description: Static libraries for lua54
   Homepage: https://www.lua.org/
 - Package: lua55
@@ -8851,7 +8851,7 @@
   Description: Cross-platform process and system utilities module for Python
   Homepage: https://github.com/giampaolo/psutil
 - Package: python-pyarrow
-  Version: 25.0.0-1
+  Version: 25.0.1
   Description: Python bindings for Apache Arrow
   Homepage: https://github.com/apache/arrow
 - Package: python-pycryptodomex
@@ -9423,7 +9423,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: "20260803"
+  Version: "20260810"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://rust-analyzer.github.io/
 - Package: rust-bindgen
@@ -9491,7 +9491,7 @@
   Description: A custom system info fetching tool
   Homepage: https://github.com/Mangeshrex/rxfetch
 - Package: sabnzbd
-  Version: 5.0.4-1
+  Version: 5.1.0
   Description: Fully automated Usenet Binary Downloader
   Homepage: https://sabnzbd.org/
 - Package: samba
