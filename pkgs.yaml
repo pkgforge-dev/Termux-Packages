@@ -6819,7 +6819,7 @@
   Description: Pattern-matching library for Lua 5.5
   Homepage: https://www.inf.puc-rio.br/~roberto/lpeg
 - Package: lua51
-  Version: 5.1.5-9
+  Version: 5.1.5-10
   Description: Lua scripting language 5.1.x
   Homepage: https://www.lua.org
 - Package: lua51-lpeg
@@ -6827,11 +6827,11 @@
   Description: Pattern-matching library for Lua 5.1
   Homepage: https://www.inf.puc-rio.br/~roberto/lpeg
 - Package: lua51-static
-  Version: 5.1.5-9
+  Version: 5.1.5-10
   Description: Static libraries for lua51
   Homepage: https://www.lua.org
 - Package: lua52
-  Version: 5.2.4-17
+  Version: 5.2.4-18
   Description: Lua scripting language 5.2.x
   Homepage: https://www.lua.org
 - Package: lua52-lpeg
@@ -6839,11 +6839,11 @@
   Description: Pattern-matching library for Lua 5.2
   Homepage: https://www.inf.puc-rio.br/~roberto/lpeg
 - Package: lua52-static
-  Version: 5.2.4-17
+  Version: 5.2.4-18
   Description: Static libraries for lua52
   Homepage: https://www.lua.org
 - Package: lua53
-  Version: 5.3.6-8
+  Version: 5.3.6-9
   Description: Lua scripting language 5.3.x
   Homepage: https://www.lua.org/
 - Package: lua53-lpeg
@@ -6851,11 +6851,11 @@
   Description: Pattern-matching library for Lua 5.3
   Homepage: https://www.inf.puc-rio.br/~roberto/lpeg
 - Package: lua53-static
-  Version: 5.3.6-8
+  Version: 5.3.6-9
   Description: Static libraries for lua53
   Homepage: https://www.lua.org/
 - Package: lua54
-  Version: 5.4.8-8
+  Version: 5.4.8-9
   Description: Lua scripting language 5.4.x
   Homepage: https://www.lua.org/
 - Package: lua54-lpeg
@@ -6863,15 +6863,15 @@
   Description: Pattern-matching library for Lua 5.4
   Homepage: https://www.inf.puc-rio.br/~roberto/lpeg
 - Package: lua54-static
-  Version: 5.4.8-8
+  Version: 5.4.8-9
   Description: Static libraries for lua54
   Homepage: https://www.lua.org/
 - Package: lua55
-  Version: 5.5.1
+  Version: 5.5.1-1
   Description: Lua scripting language 5.5.x
   Homepage: https://www.lua.org/
 - Package: lua55-static
-  Version: 5.5.1
+  Version: 5.5.1-1
   Description: Static libraries for lua55
   Homepage: https://www.lua.org/
 - Package: luajit
@@ -7326,6 +7326,10 @@
   Version: 11.55.5-1
   Description: A high-performance database kernel for query-intensive applications
   Homepage: https://www.monetdb.org/
+- Package: monit
+  Version: 6.0.0
+  Description: Utility for managing and monitoring processes, programs, files, directories and filesystems
+  Homepage: https://mmonit.com/monit/
 - Package: mono
   Version: 6.14.1-2
   Description: Framework Mono
