@@ -2119,7 +2119,7 @@
   Description: Software synthesizer based on the SoundFont 2 specifications
   Homepage: https://github.com/FluidSynth/fluidsynth
 - Package: flyctl
-  Version: 0.4.80
+  Version: 0.4.81
   Description: Command line tools for fly.io services
   Homepage: https://fly.io
 - Package: fm
@@ -3695,7 +3695,7 @@
   Description: Static libraries for libandroid-spawn
   Homepage: https://man7.org/linux/man-pages/man3/posix_spawn.3.html
 - Package: libandroid-stub
-  Version: 29-1
+  Version: 29-2
   Description: Stub libandroid.so for non-Android certified environment
   Homepage: https://android.googlesource.com/platform/frameworks/base/+/main/native/android
 - Package: libandroid-support
@@ -5559,11 +5559,11 @@
   Description: Minimalistic protocol buffer decoder and encoder in C++
   Homepage: https://github.com/mapbox/protozero
 - Package: libpsl
-  Version: 0.23.1
+  Version: 0.23.2
   Description: Public Suffix List library
   Homepage: https://github.com/rockdaboot/libpsl
 - Package: libpsl-static
-  Version: 0.23.1
+  Version: 0.23.2
   Description: Static libraries for libpsl
   Homepage: https://github.com/rockdaboot/libpsl
 - Package: libpugixml
@@ -6919,7 +6919,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.40.5
+  Version: 0.40.6
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://lux.lumen-labs.org
 - Package: lv2
@@ -8647,7 +8647,7 @@
   Description: Emulate chroot, bind mount and binfmt_misc for non-root users
   Homepage: https://proot-me.github.io/
 - Package: proot-distro
-  Version: 5.5.0
+  Version: 5.5.2
   Description: Termux official utility for managing prooted Linux distributions
   Homepage: https://github.com/termux/proot-distro
 - Package: protobuf
@@ -8691,11 +8691,11 @@
   Description: A command-line task management tool for sequential and parallel execution of long-running tasks
   Homepage: https://github.com/Nukesor/pueue
 - Package: pulseaudio
-  Version: 17.0-3
+  Version: 17.0-4
   Description: A featureful, general-purpose sound server
   Homepage: https://www.freedesktop.org/wiki/Software/PulseAudio
 - Package: pulseaudio-glib
-  Version: 17.0-3
+  Version: 17.0-4
   Description: PulseAudio GLIB mainloop component
   Homepage: https://www.freedesktop.org/wiki/Software/PulseAudio
 - Package: pup
@@ -10763,7 +10763,7 @@
   Description: A small and powerful JavaScript runtime
   Homepage: https://github.com/saghul/txiki.js
 - Package: ty
-  Version: 0.0.69
+  Version: 0.0.70
   Description: An extremely fast Python type checker and language server, written in Rust
   Homepage: https://github.com/astral-sh/ty
 - Package: typst

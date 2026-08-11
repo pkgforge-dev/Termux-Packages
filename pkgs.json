@@ -3181,7 +3181,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.4.80",
+    "Version": "0.4.81",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -5545,7 +5545,7 @@
   },
   {
     "Package": "libandroid-stub",
-    "Version": "29-1",
+    "Version": "29-2",
     "Description": "Stub libandroid.so for non-Android certified environment",
     "Homepage": "https://android.googlesource.com/platform/frameworks/base/+/main/native/android"
   },
@@ -8341,13 +8341,13 @@
   },
   {
     "Package": "libpsl",
-    "Version": "0.23.1",
+    "Version": "0.23.2",
     "Description": "Public Suffix List library",
     "Homepage": "https://github.com/rockdaboot/libpsl"
   },
   {
     "Package": "libpsl-static",
-    "Version": "0.23.1",
+    "Version": "0.23.2",
     "Description": "Static libraries for libpsl",
     "Homepage": "https://github.com/rockdaboot/libpsl"
   },
@@ -10381,7 +10381,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.40.5",
+    "Version": "0.40.6",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://lux.lumen-labs.org"
   },
@@ -12973,7 +12973,7 @@
   },
   {
     "Package": "proot-distro",
-    "Version": "5.5.0",
+    "Version": "5.5.2",
     "Description": "Termux official utility for managing prooted Linux distributions",
     "Homepage": "https://github.com/termux/proot-distro"
   },
@@ -13039,13 +13039,13 @@
   },
   {
     "Package": "pulseaudio",
-    "Version": "17.0-3",
+    "Version": "17.0-4",
     "Description": "A featureful, general-purpose sound server",
     "Homepage": "https://www.freedesktop.org/wiki/Software/PulseAudio"
   },
   {
     "Package": "pulseaudio-glib",
-    "Version": "17.0-3",
+    "Version": "17.0-4",
     "Description": "PulseAudio GLIB mainloop component",
     "Homepage": "https://www.freedesktop.org/wiki/Software/PulseAudio"
   },
@@ -16147,7 +16147,7 @@
   },
   {
     "Package": "ty",
-    "Version": "0.0.69",
+    "Version": "0.0.70",
     "Description": "An extremely fast Python type checker and language server, written in Rust",
     "Homepage": "https://github.com/astral-sh/ty"
   },
