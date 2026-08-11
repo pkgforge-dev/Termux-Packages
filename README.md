@@ -1086,8 +1086,8 @@
 | **libevent** | 2.1.13 | Library that provides asynchronous event notification | https://libevent.org/ |
 | **libexif** | 0.6.26 | Library for reading and writing EXIF image metadata | https://libexif.github.io/ |
 | **libexif-static** | 0.6.26 | Static libraries for libexif | https://libexif.github.io/ |
-| **libexpat** | 2.8.2 | XML parsing C library | https://libexpat.github.io/ |
-| **libexpat-static** | 2.8.2 | Static libraries for libexpat | https://libexpat.github.io/ |
+| **libexpat** | 2.8.3 | XML parsing C library | https://libexpat.github.io/ |
+| **libexpat-static** | 2.8.3 | Static libraries for libexpat | https://libexpat.github.io/ |
 | **libexttextcat** | 3.4.8 | N-Gram-Based Text Categorization library primarily intended for language guessing | https://wiki.documentfoundation.org/Libexttextcat |
 | **libexttextcat-static** | 3.4.8 | Static libraries for libexttextcat | https://wiki.documentfoundation.org/Libexttextcat |
 | **libfann** | 2.2.0-2 | Fast artificial neural network library | http://leenissen.dk/fann/wp |
