@@ -126,7 +126,7 @@
 | **aview** | 1.3.0rc1-6 | High quality ascii-art image browser and animation player | https://aa-project.sourceforge.net/aview/ |
 | **avra** | 1.4.2-1 | Assember for the Atmel AVR microcontroller family | https://github.com/Ro5bert/avra |
 | **await** | 2.7.0 | Runs list of commands in parallel and waits for their termination | https://github.com/slavaGanzin/await |
-| **awscli** | 2.36.19 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
+| **awscli** | 2.36.20 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
 | **axel** | 2.17.14-1 | light command line download accelerator | https://github.com/axel-download-accelerator/axel |
 | **b3sum** | 1.8.6 | A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum | https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum |
 | **babl** | 0.1.128 | Dynamic pixel format translation library | https://gegl.org/babl/ |
@@ -525,7 +525,7 @@
 | **fftw** | 3.3.11 | Library for computing the Discrete Fourier Transform (DFT) in one or more dimensions | http://www.fftw.org/ |
 | **fftw-static** | 3.3.11 | Static libraries for fftw | http://www.fftw.org/ |
 | **figlet** | 2.2.5-3 | Program for making large letters out of ordinary text | http://www.figlet.org/ |
-| **file** | 5.48-2 | Command-line tool that tells you in words what kind of data a file contains | https://darwinsys.com/file/ |
+| **file** | 5.48-3 | Command-line tool that tells you in words what kind of data a file contains | https://darwinsys.com/file/ |
 | **file-static** | 5.48-1 | Static libraries for file | https://darwinsys.com/file/ |
 | **finch** | 2.14.14-2 | Text-based multi-protocol instant messaging client | https://pidgin.im/ |
 | **finch-static** | 2.14.14-2 | Static libraries for finch | https://pidgin.im/ |
@@ -1241,8 +1241,8 @@
 | **liblzo-static** | 2.10-5 | Static libraries for liblzo | http://www.oberhumer.com/opensource/lzo |
 | **libmaa** | 1.4.7-1 | Provides many low-level data structures which are helpful for writing compilers | https://sourceforge.net/projects/dict/ |
 | **libmad** | 0.16.4-2 | MAD is a high-quality MPEG audio decoder | http://www.underbit.com/products/mad/ |
-| **libmagic** | 5.48-2 | File type identification library | https://darwinsys.com/file/ |
-| **libmagic-static** | 5.48-2 | Static libraries for libmagic | https://darwinsys.com/file/ |
+| **libmagic** | 5.48-3 | File type identification library | https://darwinsys.com/file/ |
+| **libmagic-static** | 5.48-3 | Static libraries for libmagic | https://darwinsys.com/file/ |
 | **libmariadbcpp** | 1.1.2-1 | Enables C++ applications to establish client connections to MariaDB Enterprise over TLS | https://mariadb.com/docs/clients/mariadb-connectors/connector-cpp/ |
 | **libmatio** | 1.5.30 | A C library for reading and writing Matlab MAT files | https://github.com/tbeu/matio |
 | **libmatroska** | 1.7.2 | Matroska library | https://dl.matroska.org/downloads/libmatroska/ |

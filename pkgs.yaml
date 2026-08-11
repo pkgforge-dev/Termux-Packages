@@ -463,7 +463,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.36.19
+  Version: 2.36.20
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -2059,7 +2059,7 @@
   Description: Program for making large letters out of ordinary text
   Homepage: http://www.figlet.org/
 - Package: file
-  Version: 5.48-2
+  Version: 5.48-3
   Description: Command-line tool that tells you in words what kind of data a file contains
   Homepage: https://darwinsys.com/file/
 - Package: file-static
@@ -4923,11 +4923,11 @@
   Description: MAD is a high-quality MPEG audio decoder
   Homepage: http://www.underbit.com/products/mad/
 - Package: libmagic
-  Version: 5.48-2
+  Version: 5.48-3
   Description: File type identification library
   Homepage: https://darwinsys.com/file/
 - Package: libmagic-static
-  Version: 5.48-2
+  Version: 5.48-3
   Description: Static libraries for libmagic
   Homepage: https://darwinsys.com/file/
 - Package: libmariadbcpp
