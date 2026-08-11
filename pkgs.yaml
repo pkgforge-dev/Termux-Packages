@@ -763,7 +763,7 @@
   Description: Common CA certificates (java keystore format)
   Homepage: https://curl.se/docs/caextract.html
 - Package: cabal-install
-  Version: 3.16.1.0
+  Version: 3.16.1.0-1
   Description: The command-line interface for Haskell-Cabal and Hackage
   Homepage: https://www.haskell.org/cabal/
 - Package: cabextract
@@ -2983,11 +2983,11 @@
   Description: The Moon-powered shell! A comfy and extensible shell for Lua fans!
   Homepage: https://rosettea.github.io/Hilbish/
 - Package: hledger
-  Version: 1.52.1
+  Version: 1.52.1-1
   Description: Robust, friendly, fast plain text accounting software. (CLI only)
   Homepage: https://hledger.org/
 - Package: hledger-ui
-  Version: 1.52.1
+  Version: 1.52.1-1
   Description: hledger-ui - terminal interface (TUI) for hledger, a robust, friendly plain text accounting app.
   Homepage: https://hledger.org/
 - Package: hnterm
@@ -7359,7 +7359,7 @@
   Description: Simple game where you drive a car across the moons surface
   Homepage: https://www.seehuhn.de/programs/moon-buggy
 - Package: moor
-  Version: 2.16.2
+  Version: 2.16.3
   Description: A pager designed to just do the right thing without any configuration
   Homepage: https://github.com/walles/moor
 - Package: mop
@@ -9655,7 +9655,7 @@
   Description: Executing shell commands via HTTP server
   Homepage: https://github.com/msoap/shell2http
 - Package: shellcheck
-  Version: 0.11.0-1
+  Version: 0.11.0-2
   Description: Shell script analysis tool
   Homepage: https://www.shellcheck.net/
 - Package: shellharden
