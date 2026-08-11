@@ -55,8 +55,8 @@
 | **appstream** | 1.1.5 | Provides a standard for creating app stores across distributions | https://www.freedesktop.org/wiki/Distributions/AppStream/ |
 | **apr** | 1.7.6-2 | Apache Portable Runtime Library | https://apr.apache.org/ |
 | **apr-static** | 1.7.6-2 | Static libraries for apr | https://apr.apache.org/ |
-| **apr-util** | 1.6.3-3 | Apache Portable Runtime Utility Library | https://apr.apache.org/ |
-| **apr-util-static** | 1.6.3-3 | Static libraries for apr-util | https://apr.apache.org/ |
+| **apr-util** | 1.6.5 | Apache Portable Runtime Utility Library | https://apr.apache.org/ |
+| **apr-util-static** | 1.6.5 | Static libraries for apr-util | https://apr.apache.org/ |
 | **apt** | 2.8.1-2 | Front-end for the dpkg package manager | https://packages.debian.org/apt |
 | **apt-file** | 3.3 | search for files within packages | https://wiki.debian.org/apt-file |
 | **apt-ftparchive** | 2.8.1-2 | apt-ftparchive is the command line tool that generates the index files that APT uses to access a distribution source | https://packages.debian.org/apt |
@@ -1822,7 +1822,7 @@
 | **miniz** | 3.1.2 | Single C source file zlib-replacement library | https://github.com/richgel999/miniz |
 | **minizinc** | 2.10.0 | A medium-level constraint modelling language | https://github.com/MiniZinc/libminizinc |
 | **minizinc-static** | 2.10.0 | Static libraries for minizinc | https://github.com/MiniZinc/libminizinc |
-| **mise** | 2026.8.3 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
+| **mise** | 2026.8.4 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
 | **mkbootimg** | 2022.11.09-1 | Maintained fork with android's mkbootimg and unpackbootimg | https://github.com/osm0sis/mkbootimg |
 | **mkp224o** | 1.7.0-1 | Generate vanity ed25519 (hidden service version 3) onion addresses | https://github.com/cathugger/mkp224o |
 | **mksh** | 59c-3 | The MirBSD Korn Shell - an enhanced version of the public domain ksh | http://www.mirbsd.org/mksh.htm |

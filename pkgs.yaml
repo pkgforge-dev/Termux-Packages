@@ -227,11 +227,11 @@
   Description: Static libraries for apr
   Homepage: https://apr.apache.org/
 - Package: apr-util
-  Version: 1.6.3-3
+  Version: 1.6.5
   Description: Apache Portable Runtime Utility Library
   Homepage: https://apr.apache.org/
 - Package: apr-util-static
-  Version: 1.6.3-3
+  Version: 1.6.5
   Description: Static libraries for apr-util
   Homepage: https://apr.apache.org/
 - Package: apt
@@ -7295,7 +7295,7 @@
   Description: Static libraries for minizinc
   Homepage: https://github.com/MiniZinc/libminizinc
 - Package: mise
-  Version: 2026.8.3
+  Version: 2026.8.4
   Description: dev tools, env vars, task runner
   Homepage: https://mise.jdx.dev/
 - Package: mkbootimg
