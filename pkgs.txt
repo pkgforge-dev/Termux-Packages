@@ -141,7 +141,7 @@
  binutils  2.47  A GNU collection of binary utilities  https://www.gnu.org/software/binutils/ 
  binutils-cross  2.47  GNU Binutils for cross build on the host (NOT for Termux)  https://www.gnu.org/software/binutils/ 
  binwalk  3.1.0  An Binwalk firmware analysis tool.  https://github.com/ReFirmLabs/binwalk 
- biome2  2.5.7  A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP  https://biomejs.dev/ 
+ biome2  2.5.8  A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP  https://biomejs.dev/ 
  bison  3.8.2-4  General-purpose parser generator  https://www.gnu.org/software/bison/ 
  bison-static  3.8.2-4  Static libraries for bison  https://www.gnu.org/software/bison/ 
  bitcoin  31.1-1  Bitcoin Core  https://bitcoincore.org/ 
@@ -1449,8 +1449,8 @@
  libsm  1.2.6-1  X11 Session Management library  https://xorg.freedesktop.org/ 
  libsmartcols  2.42.1-4  Library for smart adaptive formatting of tabular data  https://en.wikipedia.org/wiki/Util-linux 
  libsnappy  1.2.2-1  A compression/decompression library  https://github.com/google/snappy 
- libsndfile  1.2.2-2  Library for reading/writing audio files  http://www.mega-nerd.com/libsndfile 
- libsndfile-static  1.2.2-2  Static libraries for libsndfile  http://www.mega-nerd.com/libsndfile 
+ libsndfile  1.2.2-3  Library for reading/writing audio files  http://www.mega-nerd.com/libsndfile 
+ libsndfile-static  1.2.2-3  Static libraries for libsndfile  http://www.mega-nerd.com/libsndfile 
  libsodium  1.0.22-1  Network communication, cryptography and signaturing library  https://libsodium.org/ 
  libsodium-static  1.0.22-1  Static libraries for libsodium  https://libsodium.org/ 
  libsophia  2.2-1  Advanced transactional MVCC key-value/row storage library  http://sophia.systems/ 
