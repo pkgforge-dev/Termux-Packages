@@ -527,7 +527,7 @@
 | **flex** | 2.6.4-5 | Fast lexical analyser generator | https://github.com/westes/flex |
 | **flex-static** | 2.6.4-5 | Static libraries for flex | https://github.com/westes/flex |
 | **flint** | 3.6.0 | C library for doing number theory | http://www.flintlib.org |
-| **fluidsynth** | 2.5.7 | Software synthesizer based on the SoundFont 2 specifications | https://github.com/FluidSynth/fluidsynth |
+| **fluidsynth** | 2.6.0 | Software synthesizer based on the SoundFont 2 specifications | https://github.com/FluidSynth/fluidsynth |
 | **flyctl** | 0.4.81 | Command line tools for fly.io services | https://fly.io |
 | **fm** | 1.2.0 | A terminal based file manager | https://github.com/knipferrc/fm |
 | **fmt** | 1:11.2.0 | Open-source formatting library for C++ | https://fmt.dev/latest/index.html |
@@ -621,7 +621,7 @@
 | **gitoxide** | 0.56.0 | Rust implementation of Git | https://github.com/GitoxideLabs/gitoxide |
 | **gitui** | 0.28.1 | Blazing fast terminal-ui for git written in rust | https://github.com/gitui-org/gitui |
 | **gkermit** | 2.01-1 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
-| **glab-cli** | 1.112.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
+| **glab-cli** | 1.113.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
 | **gleam** | 1.18.1 | A friendly language for building type-safe, scalable systems! | https://gleam.run |
 | **glib** | 2.88.3 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
 | **glib-cross** | 2.88.3 | glib for host (NOT for Termux) | https://developer.gnome.org/glib/ |
@@ -629,7 +629,7 @@
 | **glibc-repo** | 1.0 | A package repository containing glibc-based programs and libraries | https://github.com/termux/glibc-packages |
 | **glm** | 1.0.3 | C++ mathematics library for graphics programming | https://glm.g-truc.net/ |
 | **global** | 6.7 | Source code search and browse tools | https://www.gnu.org/software/global/ |
-| **glow** | 2.1.2 | Render markdown on the CLI, with pizzazz! | https://github.com/charmbracelet/glow |
+| **glow** | 3.0.0 | Render markdown on the CLI, with pizzazz! | https://github.com/charmbracelet/glow |
 | **glpk** | 5.0-2 | GNU Linear Programming Kit: solve LP, MIP and other problems | https://www.gnu.org/software/glpk/ |
 | **glpk-static** | 5.0-2 | Static libraries for glpk | https://www.gnu.org/software/glpk/ |
 | **glslang** | 16.5.0 | OpenGL and OpenGL ES shader front end and validator | https://github.com/KhronosGroup/glslang |
@@ -2503,7 +2503,7 @@
 | **stoken** | 0.93-3 | Software Token for Linux/UNIX | https://github.com/cernekee/stoken |
 | **stoken-static** | 0.93-3 | Static libraries for stoken | https://github.com/cernekee/stoken |
 | **stone** | 2.4-3 | A TCP/IP repeater in the application layer | https://www.gcd.org/sengoku/stone/ |
-| **storj-uplink** | 1.161.7-1 | Storj DCS Uplink CLI | https://www.storj.io/integrations/uplink-cli |
+| **storj-uplink** | 1.161.8 | Storj DCS Uplink CLI | https://www.storj.io/integrations/uplink-cli |
 | **stow** | 2.4.1 | Tool for managing the installation of multiple software packages into a single directory | https://www.gnu.org/software/stow/ |
 | **strace** | 7.1 | Debugging utility to monitor system calls and signals received | https://strace.io/ |
 | **streamripper** | 1.64.6-3 | Records and splits streaming mp3 into tracks | https://streamripper.sourceforge.net/ |
@@ -2888,7 +2888,7 @@
 | **zlib-static** | 1.3.2 | Static libraries for zlib | https://www.zlib.net/ |
 | **zls** | 0.16.0 | Zig language server | https://github.com/zigtools/zls |
 | **znc** | 1.10.2 | An advanced IRC bouncer | https://znc.in/ |
-| **zola** | 0.23.2 | A fast static site generator in a single binary with everything built-in. | https://github.com/getzola/zola |
+| **zola** | 0.23.3 | A fast static site generator in a single binary with everything built-in. | https://github.com/getzola/zola |
 | **zopfli** | 1.0.3-5 | New zlib compatible compressor tools | https://github.com/google/zopfli |
 | **zoxide** | 0.10.0 | A faster way to navigate your filesystem | https://github.com/ajeetdsouza/zoxide |
 | **zpaq** | 7.15-1 | Programmable file compressor, library and utilities. Based on the PAQ compression algorithm | http://mattmahoney.net/dc/zpaq.html |
