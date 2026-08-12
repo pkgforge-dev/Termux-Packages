@@ -215,7 +215,7 @@
   Description: A tool for reverse engineering Android apps (decoding, rebuilding, and smali debugging).
   Homepage: https://apktool.org/
 - Package: appstream
-  Version: 1.1.5
+  Version: 1.1.6
   Description: Provides a standard for creating app stores across distributions
   Homepage: https://www.freedesktop.org/wiki/Distributions/AppStream/
 - Package: apr
@@ -3047,7 +3047,7 @@
   Description: Command-line wrapper for git that makes you better at GitHub
   Homepage: https://hub.github.com/
 - Package: hugo
-  Version: 0.164.0
+  Version: 0.165.0
   Description: A fast and flexible static site generator
   Homepage: https://gohugo.io/
 - Package: hummin
@@ -3327,7 +3327,7 @@
   Description: A free media system for organizing and streaming media (server)
   Homepage: https://jellyfin.org
 - Package: jfrog-cli
-  Version: 2.119.0
+  Version: 2.120.0
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -3519,7 +3519,7 @@
   Description: LastPass command line interface tool
   Homepage: https://lastpass.com/
 - Package: lazygit
-  Version: 0.64.0
+  Version: 0.64.1
   Description: Simple terminal UI for git commands
   Homepage: https://github.com/jesseduffield/lazygit
 - Package: lcal
