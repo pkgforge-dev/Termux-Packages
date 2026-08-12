@@ -511,13 +511,13 @@
   },
   {
     "Package": "aspnetcore-runtime-10.0",
-    "Version": "10.0.10",
+    "Version": "10.0.11",
     "Description": "ASP.NET Core 10.0 Runtime",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
   {
     "Package": "aspnetcore-runtime-8.0",
-    "Version": "8.0.29",
+    "Version": "8.0.30",
     "Description": "ASP.NET Core 8.0 Runtime",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -529,13 +529,13 @@
   },
   {
     "Package": "aspnetcore-runtime-dbg-10.0",
-    "Version": "10.0.10",
+    "Version": "10.0.11",
     "Description": "ASP.NET Core 10.0 Runtime Managed Debug Symbols",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
   {
     "Package": "aspnetcore-runtime-dbg-8.0",
-    "Version": "8.0.29",
+    "Version": "8.0.30",
     "Description": "ASP.NET Core 8.0 Runtime Managed Debug Symbols",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -547,13 +547,13 @@
   },
   {
     "Package": "aspnetcore-targeting-pack-10.0",
-    "Version": "10.0.10",
+    "Version": "10.0.11",
     "Description": "ASP.NET Core 10.0 Targeting Pack",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
   {
     "Package": "aspnetcore-targeting-pack-8.0",
-    "Version": "8.0.29",
+    "Version": "8.0.30",
     "Description": "ASP.NET Core 8.0 Targeting Pack",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -697,7 +697,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.36.20",
+    "Version": "2.36.21",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -1789,7 +1789,7 @@
   },
   {
     "Package": "croc",
-    "Version": "1:11.0.3",
+    "Version": "1:11.1.0",
     "Description": "Easily and securely send things from one computer to another",
     "Homepage": "https://github.com/schollz/croc"
   },
@@ -2305,13 +2305,13 @@
   },
   {
     "Package": "dotnet-apphost-pack-10.0",
-    "Version": "10.0.10",
+    "Version": "10.0.11",
     "Description": ".NET 10.0 Targeting Pack",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
   {
     "Package": "dotnet-apphost-pack-8.0",
-    "Version": "8.0.29",
+    "Version": "8.0.30",
     "Description": ".NET 8.0 Targeting Pack",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2329,13 +2329,13 @@
   },
   {
     "Package": "dotnet-host-10.0",
-    "Version": "10.0.10",
+    "Version": "10.0.11",
     "Description": ".NET 10.0 Host",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
   {
     "Package": "dotnet-host-8.0",
-    "Version": "8.0.29",
+    "Version": "8.0.30",
     "Description": ".NET 8.0 Host",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2347,13 +2347,13 @@
   },
   {
     "Package": "dotnet-hostfxr-10.0",
-    "Version": "10.0.10",
+    "Version": "10.0.11",
     "Description": ".NET 10.0 Host Resolver",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
   {
     "Package": "dotnet-hostfxr-8.0",
-    "Version": "8.0.29",
+    "Version": "8.0.30",
     "Description": ".NET 8.0 Host Resolver",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2365,13 +2365,13 @@
   },
   {
     "Package": "dotnet-runtime-10.0",
-    "Version": "10.0.10",
+    "Version": "10.0.11",
     "Description": ".NET 10.0 Runtime",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
   {
     "Package": "dotnet-runtime-8.0",
-    "Version": "8.0.29",
+    "Version": "8.0.30",
     "Description": ".NET 8.0 Runtime",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2383,13 +2383,13 @@
   },
   {
     "Package": "dotnet-runtime-dbg-10.0",
-    "Version": "10.0.10",
+    "Version": "10.0.11",
     "Description": ".NET 10.0 Runtime Managed Debug Symbols",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
   {
     "Package": "dotnet-runtime-dbg-8.0",
-    "Version": "8.0.29",
+    "Version": "8.0.30",
     "Description": ".NET 8.0 Runtime Managed Debug Symbols",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2401,13 +2401,13 @@
   },
   {
     "Package": "dotnet-sdk-10.0",
-    "Version": "10.0.10",
+    "Version": "10.0.11",
     "Description": ".NET 10.0 SDK",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
   {
     "Package": "dotnet-sdk-8.0",
-    "Version": "8.0.29",
+    "Version": "8.0.30",
     "Description": ".NET 8.0 SDK",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2419,13 +2419,13 @@
   },
   {
     "Package": "dotnet-sdk-dbg-10.0",
-    "Version": "10.0.10",
+    "Version": "10.0.11",
     "Description": ".NET 10.0 SDK Managed Debug Symbols",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
   {
     "Package": "dotnet-sdk-dbg-8.0",
-    "Version": "8.0.29",
+    "Version": "8.0.30",
     "Description": ".NET 8.0 SDK Managed Debug Symbols",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2437,13 +2437,13 @@
   },
   {
     "Package": "dotnet-targeting-pack-10.0",
-    "Version": "10.0.10",
+    "Version": "10.0.11",
     "Description": ".NET 10.0 Targeting Pack",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
   {
     "Package": "dotnet-targeting-pack-8.0",
-    "Version": "8.0.29",
+    "Version": "8.0.30",
     "Description": ".NET 8.0 Targeting Pack",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2455,13 +2455,13 @@
   },
   {
     "Package": "dotnet-templates-10.0",
-    "Version": "10.0.10",
+    "Version": "10.0.11",
     "Description": ".NET 10.0 Templates",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
   {
     "Package": "dotnet-templates-8.0",
-    "Version": "8.0.29",
+    "Version": "8.0.30",
     "Description": ".NET 8.0 Templates",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2473,13 +2473,13 @@
   },
   {
     "Package": "dotnet10.0",
-    "Version": "10.0.10",
+    "Version": "10.0.11",
     "Description": ".NET 10.0",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
   {
     "Package": "dotnet8.0",
-    "Version": "8.0.29",
+    "Version": "8.0.30",
     "Description": ".NET 8.0",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -3181,7 +3181,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.4.81",
+    "Version": "0.4.82",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -3289,7 +3289,7 @@
   },
   {
     "Package": "fresh-editor",
-    "Version": "0.4.7",
+    "Version": "0.4.9",
     "Description": "Text editor for your terminal: easy, powerful and fast",
     "Homepage": "https://getfresh.dev/"
   },
@@ -11569,7 +11569,7 @@
   },
   {
     "Package": "netstandard-targeting-pack-2.1-8.0",
-    "Version": "8.0.29",
+    "Version": "8.0.30",
     "Description": "NETStandard.Library 2.1 Targeting Pack (.NET 8.0)",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -12499,7 +12499,7 @@
   },
   {
     "Package": "pdfcpu",
-    "Version": "0.14.0",
+    "Version": "0.15.0",
     "Description": "A PDF processor written in Go",
     "Homepage": "https://pdfcpu.io"
   },
