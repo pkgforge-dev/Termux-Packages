@@ -7939,7 +7939,7 @@
   Description: Static libraries for oniguruma
   Homepage: https://github.com/kkos/oniguruma
 - Package: onnxruntime
-  Version: 1.28.0
+  Version: 1.29.0
   Description: Cross-platform, high performance ML inferencing and training accelerator
   Homepage: https://onnxruntime.ai/
 - Package: oorexx
@@ -8647,7 +8647,7 @@
   Description: Emulate chroot, bind mount and binfmt_misc for non-root users
   Homepage: https://proot-me.github.io/
 - Package: proot-distro
-  Version: 5.5.3
+  Version: 5.6.0
   Description: Termux official utility for managing prooted Linux distributions
   Homepage: https://github.com/termux/proot-distro
 - Package: protobuf
@@ -8839,7 +8839,7 @@
   Description: Static libraries for python-numpy
   Homepage: https://numpy.org/
 - Package: python-onnxruntime
-  Version: 1.28.0
+  Version: 1.29.0
   Description: Cross-platform, high performance ML inferencing and training accelerator (Python bindings)
   Homepage: https://onnxruntime.ai/
 - Package: python-pillow
