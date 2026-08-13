@@ -3481,7 +3481,7 @@
   },
   {
     "Package": "gdk-pixbuf",
-    "Version": "2.44.7",
+    "Version": "2.44.8",
     "Description": "Library for image loading and manipulation",
     "Homepage": "https://wiki.gnome.org/Projects/GdkPixbuf"
   },
@@ -9919,7 +9919,7 @@
   },
   {
     "Package": "libzim",
-    "Version": "9.8.1",
+    "Version": "9.8.2",
     "Description": "The ZIM library is the reference implementation for the ZIM file format.",
     "Homepage": "https://openzim.org"
   },
@@ -11497,7 +11497,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-1302+ga0dc3f0067-0",
+    "Version": "0.13.0~dev-1307+ge8a1addb5a-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -14047,7 +14047,7 @@
   },
   {
     "Package": "rsync",
-    "Version": "3.4.4",
+    "Version": "3.5.0",
     "Description": "Fast incremental file transfer utility",
     "Homepage": "https://rsync.samba.org/"
   },
@@ -16147,7 +16147,7 @@
   },
   {
     "Package": "ty",
-    "Version": "0.0.70",
+    "Version": "0.0.71",
     "Description": "An extremely fast Python type checker and language server, written in Rust",
     "Homepage": "https://github.com/astral-sh/ty"
   },
