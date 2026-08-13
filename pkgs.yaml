@@ -463,7 +463,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.36.21
+  Version: 2.36.22
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -555,7 +555,7 @@
   Description: An XMPP gateway that connects to IRC servers and translates between the two protocols
   Homepage: https://biboumi.louiz.org/
 - Package: binaryen
-  Version: "131"
+  Version: "132"
   Description: Binaryen is a compiler and toolchain infrastructure library for WebAssembly
   Homepage: https://github.com/WebAssembly/binaryen
 - Package: binutils
@@ -7887,7 +7887,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 30.6.4
+  Version: 30.6.5
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: oidn
@@ -8643,7 +8643,7 @@
   Description: Generic coordinate transformation software
   Homepage: https://proj.org
 - Package: proot
-  Version: 5.1.107.89
+  Version: 5.1.107.90
   Description: Emulate chroot, bind mount and binfmt_misc for non-root users
   Homepage: https://proot-me.github.io/
 - Package: proot-distro
@@ -11019,7 +11019,7 @@
   Description: VI Like Emacs - vi work-alike
   Homepage: https://invisible-island.net/vile/
 - Package: vim
-  Version: 9.2.0900-1
+  Version: 9.2.0950
   Description: Vi IMproved - enhanced vi editor
   Homepage: https://www.vim.org
 - Package: virglrenderer
@@ -11411,7 +11411,7 @@
   Description: Static libraries for xvidcore
   Homepage: https://www.xvid.com/
 - Package: xxd
-  Version: 9.2.0900-1
+  Version: 9.2.0950
   Description: Hexdump utility from vim
   Homepage: https://www.vim.org
 - Package: xxhash

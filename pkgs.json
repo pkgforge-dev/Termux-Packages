@@ -697,7 +697,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.36.21",
+    "Version": "2.36.22",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -835,7 +835,7 @@
   },
   {
     "Package": "binaryen",
-    "Version": "131",
+    "Version": "132",
     "Description": "Binaryen is a compiler and toolchain infrastructure library for WebAssembly",
     "Homepage": "https://github.com/WebAssembly/binaryen"
   },
@@ -11833,7 +11833,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "30.6.4",
+    "Version": "30.6.5",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -12967,7 +12967,7 @@
   },
   {
     "Package": "proot",
-    "Version": "5.1.107.89",
+    "Version": "5.1.107.90",
     "Description": "Emulate chroot, bind mount and binfmt_misc for non-root users",
     "Homepage": "https://proot-me.github.io/"
   },
@@ -16531,7 +16531,7 @@
   },
   {
     "Package": "vim",
-    "Version": "9.2.0900-1",
+    "Version": "9.2.0950",
     "Description": "Vi IMproved - enhanced vi editor",
     "Homepage": "https://www.vim.org"
   },
@@ -17119,7 +17119,7 @@
   },
   {
     "Package": "xxd",
-    "Version": "9.2.0900-1",
+    "Version": "9.2.0950",
     "Description": "Hexdump utility from vim",
     "Homepage": "https://www.vim.org"
   },
