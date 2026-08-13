@@ -255,7 +255,7 @@
  clinfo  3.0.25.02.14-1  Print all known information about all available OpenCL platforms and devices in the system  https://github.com/Oblomov/clinfo 
  clipp  1.2.3-1  Command line interfaces for modern C++  https://github.com/muellan/clipp 
  cloneit  20250722  A cli tool to download specific GitHub directories or files  https://github.com/alok8bb/cloneit 
- cloudflared  2026.8.0  A tunneling daemon that proxies traffic from the Cloudflare network to your origins  https://github.com/cloudflare/cloudflared 
+ cloudflared  2026.8.1  A tunneling daemon that proxies traffic from the Cloudflare network to your origins  https://github.com/cloudflare/cloudflared 
  clpeak  1.1.7  A tool which profiles OpenCL devices to find their peak capacities  https://github.com/krrishnarraj/clpeak 
  clucene  2.3.3.4-8  C++ port of the high-performance text search engine Lucene  http://clucene.sourceforge.net/ 
  clvk  0.0.20260707.165306  Experimental implementation of OpenCL on Vulkan  https://github.com/kpet/clvk 
@@ -733,7 +733,7 @@
  helix  25.07.1-2  A post-modern modal text editor written in rust  https://helix-editor.com/ 
  helix-grammars  25.07.1-2  Helix grammars  https://helix-editor.com/ 
  hello  2.12.3-1  Prints a friendly greeting  https://www.gnu.org/software/hello/ 
- helm  4.2.3  Helm helps you manage Kubernetes applications  https://helm.sh 
+ helm  4.2.4  Helm helps you manage Kubernetes applications  https://helm.sh 
  helm-ls  0.5.4  Language server for Helm  https://github.com/mrjosh/helm-ls 
  help2man  1.49.3  Conversion tool to create man files  https://www.gnu.org/software/help2man/ 
  hexcurse  1.60.0-7  Console hexeditor  https://github.com/LonnyGomes/hexcurse 
@@ -2219,7 +2219,7 @@
  python-pymupdf  1.28.0-1  Python bindings for MuPDF's rendering library  https://github.com/pymupdf/PyMuPDF 
  python-pynvim  0.6.0-3  Python client for Neovim  https://github.com/neovim/pynvim 
  python-pyppmd  1.3.1-1  PPM compression/decompression library  https://github.com/miurahr/pyppmd 
- python-ruff  0.16.2  An extremely fast Python linter, written in Rust (Python bindings)  https://github.com/charliermarsh/ruff 
+ python-ruff  0.16.3  An extremely fast Python linter, written in Rust (Python bindings)  https://github.com/charliermarsh/ruff 
  python-sabyenc3  9.6.3  C implementations of functions for use within SABnzbd  https://github.com/sabnzbd/sabctools 
  python-scipy  1.18.0-1  Fundamental algorithms for scientific computing in Python  https://scipy.org/ 
  python-skia-pathops  0.9.2-2  Python bindings for the Skia library's Path Ops  https://github.com/fonttools/skia-pathops 
@@ -2352,7 +2352,7 @@
  rubiks-cube  1.2-1  A rubik's cube that runs in your terminal  https://github.com/been-jamming/rubiks_cube 
  ruby  3.4.1-2  Dynamic programming language with a focus on simplicity and productivity  https://www.ruby-lang.org/ 
  ruby-ri  3.4.1-2  Ruby documentation index  https://www.ruby-lang.org/ 
- ruff  0.16.2  An extremely fast Python linter, written in Rust  https://github.com/charliermarsh/ruff 
+ ruff  0.16.3  An extremely fast Python linter, written in Rust  https://github.com/charliermarsh/ruff 
  runit  2.1.2-4  Tools to provide service supervision and to manage services  http://smarden.org/runit 
  runit-static  2.1.2-4  Static libraries for runit  http://smarden.org/runit 
  rush  0.9.0  A cross-platform command-line tool for executing jobs in parallel  https://github.com/shenwei356/rush 
@@ -2504,7 +2504,7 @@
  stoken  0.93-3  Software Token for Linux/UNIX  https://github.com/cernekee/stoken 
  stoken-static  0.93-3  Static libraries for stoken  https://github.com/cernekee/stoken 
  stone  2.4-3  A TCP/IP repeater in the application layer  https://www.gcd.org/sengoku/stone/ 
- storj-uplink  1.161.8  Storj DCS Uplink CLI  https://www.storj.io/integrations/uplink-cli 
+ storj-uplink  1.161.9  Storj DCS Uplink CLI  https://www.storj.io/integrations/uplink-cli 
  stow  2.4.1  Tool for managing the installation of multiple software packages into a single directory  https://www.gnu.org/software/stow/ 
  strace  7.1  Debugging utility to monitor system calls and signals received  https://strace.io/ 
  streamripper  1.64.6-3  Records and splits streaming mp3 into tracks  https://streamripper.sourceforge.net/ 
