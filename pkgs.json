@@ -1543,7 +1543,7 @@
   },
   {
     "Package": "cloudflared",
-    "Version": "2026.7.3-1",
+    "Version": "2026.8.0",
     "Description": "A tunneling daemon that proxies traffic from the Cloudflare network to your origins",
     "Homepage": "https://github.com/cloudflare/cloudflared"
   },
@@ -2497,7 +2497,7 @@
   },
   {
     "Package": "doxygen",
-    "Version": "1.17.0",
+    "Version": "1.18.0",
     "Description": "A documentation system for C++, C, Java, IDL and PHP",
     "Homepage": "http://www.doxygen.org"
   },
@@ -10381,7 +10381,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.40.8",
+    "Version": "0.40.9",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://lux.lumen-labs.org"
   },
@@ -10495,7 +10495,7 @@
   },
   {
     "Package": "manim",
-    "Version": "0.20.1-3",
+    "Version": "0.21.0",
     "Description": "A community-maintained Python framework for creating mathematical animations",
     "Homepage": "https://manim.community"
   },
@@ -13234,6 +13234,12 @@
     "Version": "6.1.1-1",
     "Description": "Python binding for the libxml2 and libxslt libraries",
     "Homepage": "https://github.com/lxml/lxml"
+  },
+  {
+    "Package": "python-manimpango",
+    "Version": "0.6.1",
+    "Description": "Binding for Pango, to use with Manim.",
+    "Homepage": "https://github.com/ManimCommunity/ManimPango"
   },
   {
     "Package": "python-msgpack",
