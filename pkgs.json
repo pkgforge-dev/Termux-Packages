@@ -2563,7 +2563,7 @@
   },
   {
     "Package": "dua",
-    "Version": "2.41.1",
+    "Version": "2.42.0",
     "Description": "View disk space usage and delete unwanted data, fast",
     "Homepage": "https://github.com/Byron/dua-cli"
   },
@@ -2749,7 +2749,7 @@
   },
   {
     "Package": "emmylua-ls",
-    "Version": "0.25.0",
+    "Version": "0.25.1",
     "Description": "Emmy Lua Language Server coded in Rust",
     "Homepage": "https://github.com/EmmyLuaLs/emmylua-analyzer-rust"
   },
@@ -4159,13 +4159,13 @@
   },
   {
     "Package": "graphviz",
-    "Version": "15.1.1",
+    "Version": "16.0.0",
     "Description": "Rich set of graph drawing tools",
     "Homepage": "https://www.graphviz.org/"
   },
   {
     "Package": "graphviz-static",
-    "Version": "15.1.1",
+    "Version": "16.0.0",
     "Description": "Static libraries for graphviz",
     "Homepage": "https://www.graphviz.org/"
   },
@@ -8341,13 +8341,13 @@
   },
   {
     "Package": "libpsl",
-    "Version": "0.23.2",
+    "Version": "0.23.3",
     "Description": "Public Suffix List library",
     "Homepage": "https://github.com/rockdaboot/libpsl"
   },
   {
     "Package": "libpsl-static",
-    "Version": "0.23.2",
+    "Version": "0.23.3",
     "Description": "Static libraries for libpsl",
     "Homepage": "https://github.com/rockdaboot/libpsl"
   },
@@ -11497,7 +11497,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-1314+g24183950e1-0",
+    "Version": "0.13.0~dev-1317+g64a301184e-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -16657,7 +16657,7 @@
   },
   {
     "Package": "vulkan-tools",
-    "Version": "1.4.359",
+    "Version": "1.4.360",
     "Description": "Vulkan Tools and Utilities",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Tools"
   },

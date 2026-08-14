@@ -437,7 +437,7 @@
 | **dtc** | 1.8.1 | Device Tree Compiler | https://git.kernel.org/pub/scm/utils/dtc/dtc |
 | **dtc-static** | 1.8.1 | Static libraries for dtc | https://git.kernel.org/pub/scm/utils/dtc/dtc |
 | **dte** | 1.11.1-2 | A small, configurable console text editor | https://craigbarnes.gitlab.io/dte/ |
-| **dua** | 2.41.1 | View disk space usage and delete unwanted data, fast | https://github.com/Byron/dua-cli |
+| **dua** | 2.42.0 | View disk space usage and delete unwanted data, fast | https://github.com/Byron/dua-cli |
 | **duc** | 1.4.6 | High-performance disk usage analyzer | http://duc.zevv.nl/ |
 | **duckdb** | 1.5.5 | DuckDB Command Line Interface (CLI) shell | https://duckdb.org/ |
 | **duf** | 0.9.1 | Disk usage/free utility | https://github.com/muesli/duf |
@@ -468,7 +468,7 @@
 | **eltclsh** | 1.20-1 | Interactive shell for TCL programming language | https://homepages.laas.fr/mallet/soft/shell/eltclsh |
 | **elvish** | 0.21.0-1 | A friendly and expressive Unix shell | https://github.com/elves/elvish |
 | **emacs** | 30.2-5 | Extensible, customizable text editor-and more | https://www.gnu.org/software/emacs/ |
-| **emmylua-ls** | 0.25.0 | Emmy Lua Language Server coded in Rust | https://github.com/EmmyLuaLs/emmylua-analyzer-rust |
+| **emmylua-ls** | 0.25.1 | Emmy Lua Language Server coded in Rust | https://github.com/EmmyLuaLs/emmylua-analyzer-rust |
 | **emscripten** | 6.0.4 | Emscripten: An LLVM-to-WebAssembly Compiler | https://emscripten.org |
 | **emscripten-binaryen** | 6.0.4 | Emscripten-compatible Binaryen | https://emscripten.org |
 | **emscripten-llvm** | 6.0.4 | Emscripten-compatible LLVM | https://emscripten.org |
@@ -703,8 +703,8 @@
 | **graphene** | 1.10.8-3 | A thin layer of graphic data types | https://ebassi.github.io/graphene/ |
 | **graphicsmagick** | 1.3.48 | Collection of image processing tools | http://www.graphicsmagick.org/ |
 | **graphicsmagick-static** | 1.3.48 | Static libraries for graphicsmagick | http://www.graphicsmagick.org/ |
-| **graphviz** | 15.1.1 | Rich set of graph drawing tools | https://www.graphviz.org/ |
-| **graphviz-static** | 15.1.1 | Static libraries for graphviz | https://www.graphviz.org/ |
+| **graphviz** | 16.0.0 | Rich set of graph drawing tools | https://www.graphviz.org/ |
+| **graphviz-static** | 16.0.0 | Static libraries for graphviz | https://www.graphviz.org/ |
 | **greed** | 5.0 | Game where you try to eat as much as possible of the board before munching yourself into a corner | http://www.catb.org/~esr/greed/ |
 | **grep** | 3.12-3 | Command which searches one or more input files for lines containing a match to a specified pattern | https://www.gnu.org/software/grep/ |
 | **grex** | 1.4.6-1 | Simplifies the task of creating regular expressions | https://github.com/pemistahl/grex |
@@ -1400,8 +1400,8 @@
 | **libprotobuf-c** | 1.5.2-4 | Protocol buffers C library | https://github.com/protobuf-c/protobuf-c |
 | **libprotobuf-c-static** | 1.5.2-4 | Static libraries for libprotobuf-c | https://github.com/protobuf-c/protobuf-c |
 | **libprotozero** | 1.8.0 | Minimalistic protocol buffer decoder and encoder in C++ | https://github.com/mapbox/protozero |
-| **libpsl** | 0.23.2 | Public Suffix List library | https://github.com/rockdaboot/libpsl |
-| **libpsl-static** | 0.23.2 | Static libraries for libpsl | https://github.com/rockdaboot/libpsl |
+| **libpsl** | 0.23.3 | Public Suffix List library | https://github.com/rockdaboot/libpsl |
+| **libpsl-static** | 0.23.3 | Static libraries for libpsl | https://github.com/rockdaboot/libpsl |
 | **libpugixml** | 1.16 | Light-weight, simple and fast XML parser for C++ with XPath support | https://pugixml.org/ |
 | **libqrencode** | 4.1.1-2 | Fast and compact library for encoding data in a QR Code symbol | https://fukuchi.org/works/qrencode/ |
 | **libqxp** | 0.0.3 | a library that parses the file format of QuarkXPress documents | https://wiki.documentfoundation.org/DLP/Libraries/libqxp |
@@ -1926,7 +1926,7 @@
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20260616 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.12.4 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
-| **neovim-nightly** | 0.13.0~dev-1314+g24183950e1-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
+| **neovim-nightly** | 0.13.0~dev-1317+g64a301184e-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
 | **nerdfix** | 0.4.2-1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.5.2 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.5.2 | Static libraries for net-snmp | http://www.net-snmp.org/ |
@@ -2786,7 +2786,7 @@
 | **vulkan-loader** | 0.0.3 | A metapackage that provides vulkan loader library | https://github.com/termux/termux-packages |
 | **vulkan-loader-android** | 29 | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
 | **vulkan-loader-generic** | 1.4.360 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
-| **vulkan-tools** | 1.4.359 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
+| **vulkan-tools** | 1.4.360 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
 | **vulkan-utility-libraries** | 1.4.360 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
 | **vulkan-validation-layers** | 1.4.357 | Vulkan Validation Layers | https://github.com/KhronosGroup/Vulkan-ValidationLayers |
 | **vulkan-volk** | 1.4.350 | Meta loader for Vulkan API | https://github.com/zeux/volk |
