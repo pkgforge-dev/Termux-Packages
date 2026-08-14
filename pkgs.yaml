@@ -1027,7 +1027,7 @@
   Description: A cli tool to download specific GitHub directories or files
   Homepage: https://github.com/alok8bb/cloneit
 - Package: cloudflared
-  Version: 2026.8.1
+  Version: 2026.8.2
   Description: A tunneling daemon that proxies traffic from the Cloudflare network to your origins
   Homepage: https://github.com/cloudflare/cloudflared
 - Package: clpeak
@@ -1947,7 +1947,7 @@
   Description: To fastly access files and folders
   Homepage: https://github.com/whjvenyl/fasd
 - Package: fastfetch
-  Version: 2.67.0
+  Version: 2.67.1
   Description: A maintained, feature-rich and performance oriented, neofetch like system information tool
   Homepage: https://github.com/fastfetch-cli/fastfetch
 - Package: fastmod
@@ -6403,11 +6403,11 @@
   Description: Static libraries for libx265
   Homepage: https://www.x265.org/
 - Package: libxapian
-  Version: 2.0.0
+  Version: 2.1.0
   Description: Xapian search engine library
   Homepage: https://xapian.org
 - Package: libxapian-static
-  Version: 2.0.0
+  Version: 2.1.0
   Description: Static libraries for libxapian
   Homepage: https://xapian.org
 - Package: libxau
@@ -6995,7 +6995,7 @@
   Description: Cli manga downloader
   Homepage: https://github.com/metafates/mangal
 - Package: manim
-  Version: 0.21.0
+  Version: 0.21.0-1
   Description: A community-maintained Python framework for creating mathematical animations
   Homepage: https://manim.community
 - Package: manpages
@@ -7111,7 +7111,7 @@
   Description: A backend for mdbook which will check your links for you
   Homepage: https://michael-f-bryan.github.io/mdbook-linkcheck/
 - Package: mdbook-mermaid
-  Version: 0.17.0
+  Version: 0.17.1
   Description: A preprocessor for mdbook to add mermaid support
   Homepage: https://github.com/badboy/mdbook-mermaid
 - Package: mdbook-open-on-gh
@@ -11327,7 +11327,7 @@
   Description: H.265/HEVC video stream encoder tool
   Homepage: https://www.x265.org/
 - Package: xapian-tools
-  Version: 2.0.0
+  Version: 2.1.0
   Description: Basic tools for the Xapian search engine
   Homepage: https://xapian.org
 - Package: xcb-proto
