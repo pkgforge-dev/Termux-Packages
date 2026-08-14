@@ -697,7 +697,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.36.22",
+    "Version": "2.36.23",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -1363,7 +1363,7 @@
   },
   {
     "Package": "cfitsio",
-    "Version": "4.6.4-1",
+    "Version": "4.7.0",
     "Description": "a library of C and Fortran subroutines for reading and writing data files in FITS (Flexible Image Transport System) data format",
     "Homepage": "https://heasarc.gsfc.nasa.gov/fitsio/"
   },
@@ -3181,7 +3181,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.4.82",
+    "Version": "0.4.83",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -3709,7 +3709,7 @@
   },
   {
     "Package": "gitea",
-    "Version": "1.27.1",
+    "Version": "1.27.2",
     "Description": "Git with a cup of tea, painless self-hosted git service",
     "Homepage": "https://gitea.io"
   },
@@ -4363,7 +4363,7 @@
   },
   {
     "Package": "harper",
-    "Version": "2.7.0",
+    "Version": "2.8.0",
     "Description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
     "Homepage": "https://writewithharper.com/"
   },
@@ -6691,7 +6691,7 @@
   },
   {
     "Package": "libgit2",
-    "Version": "1.9.6",
+    "Version": "1.9.7",
     "Description": "C library implementing Git core methods",
     "Homepage": "https://libgit2.github.com/"
   },
@@ -7909,7 +7909,7 @@
   },
   {
     "Package": "libnss",
-    "Version": "3.126",
+    "Version": "3.126.1",
     "Description": "Network Security Services (NSS)",
     "Homepage": "https://firefox-source-docs.mozilla.org/security/nss/"
   },
@@ -10225,7 +10225,7 @@
   },
   {
     "Package": "lua-language-server",
-    "Version": "3.19.0",
+    "Version": "3.19.1",
     "Description": "Sumneko Lua Language Server coded in Lua",
     "Homepage": "https://github.com/sumneko/lua-language-server"
   },
@@ -10381,7 +10381,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.40.9",
+    "Version": "0.41.0",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://lux.lumen-labs.org"
   },
@@ -11743,7 +11743,7 @@
   },
   {
     "Package": "nss-utils",
-    "Version": "3.126",
+    "Version": "3.126.1",
     "Description": "Tools for NSS",
     "Homepage": "https://firefox-source-docs.mozilla.org/security/nss/"
   },
@@ -13651,13 +13651,13 @@
   },
   {
     "Package": "racket",
-    "Version": "9.2",
+    "Version": "9.3",
     "Description": "Full-spectrum programming language going beyond Lisp and Scheme",
     "Homepage": "https://racket-lang.org"
   },
   {
     "Package": "racket-static",
-    "Version": "9.2",
+    "Version": "9.3",
     "Description": "Static libraries for racket",
     "Homepage": "https://racket-lang.org"
   },
@@ -16393,7 +16393,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.12.3",
+    "Version": "0.12.4",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },

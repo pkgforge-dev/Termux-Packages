@@ -463,7 +463,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.36.22
+  Version: 2.36.23
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -907,7 +907,7 @@
   Description: Static libraries for cfengine
   Homepage: https://cfengine.com/
 - Package: cfitsio
-  Version: 4.6.4-1
+  Version: 4.7.0
   Description: a library of C and Fortran subroutines for reading and writing data files in FITS (Flexible Image Transport System) data format
   Homepage: https://heasarc.gsfc.nasa.gov/fitsio/
 - Package: cfm
@@ -2119,7 +2119,7 @@
   Description: Software synthesizer based on the SoundFont 2 specifications
   Homepage: https://github.com/FluidSynth/fluidsynth
 - Package: flyctl
-  Version: 0.4.82
+  Version: 0.4.83
   Description: Command line tools for fly.io services
   Homepage: https://fly.io
 - Package: fm
@@ -2471,7 +2471,7 @@
   Description: Git branches made easy
   Homepage: https://www.git-town.com
 - Package: gitea
-  Version: 1.27.1
+  Version: 1.27.2
   Description: Git with a cup of tea, painless self-hosted git service
   Homepage: https://gitea.io
 - Package: gitflow-avh
@@ -2907,7 +2907,7 @@
   Description: Tools using the harfbuzz library
   Homepage: https://www.freedesktop.org/wiki/Software/HarfBuzz/
 - Package: harper
-  Version: 2.7.0
+  Version: 2.8.0
   Description: Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
   Homepage: https://writewithharper.com/
 - Package: hash-slinger
@@ -4459,7 +4459,7 @@
   Description: Static libraries for libgfshare
   Homepage: https://www.digital-scurf.org/software/libgfshare
 - Package: libgit2
-  Version: 1.9.6
+  Version: 1.9.7
   Description: C library implementing Git core methods
   Homepage: https://libgit2.github.com/
 - Package: libglibmm-2.4
@@ -5271,7 +5271,7 @@
   Description: Static libraries for libnspr
   Homepage: https://hg.mozilla.org/projects/nspr
 - Package: libnss
-  Version: "3.126"
+  Version: 3.126.1
   Description: Network Security Services (NSS)
   Homepage: https://firefox-source-docs.mozilla.org/security/nss/
 - Package: libntl
@@ -6815,7 +6815,7 @@
   Description: Tracks runtime library calls in dynamically linked programs
   Homepage: http://www.ltrace.org/
 - Package: lua-language-server
-  Version: 3.19.0
+  Version: 3.19.1
   Description: Sumneko Lua Language Server coded in Lua
   Homepage: https://github.com/sumneko/lua-language-server
 - Package: lua-lgi
@@ -6919,7 +6919,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.40.9
+  Version: 0.41.0
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://lux.lumen-labs.org
 - Package: lv2
@@ -7827,7 +7827,7 @@
   Description: The classic snake game with textual interface
   Homepage: https://github.com/alexdantas/nSnake
 - Package: nss-utils
-  Version: "3.126"
+  Version: 3.126.1
   Description: Tools for NSS
   Homepage: https://firefox-source-docs.mozilla.org/security/nss/
 - Package: nudoku
@@ -9099,11 +9099,11 @@
   Description: Feature rich, multi-protocol messaging and streaming broker
   Homepage: https://github.com/rabbitmq/rabbitmq-server
 - Package: racket
-  Version: "9.2"
+  Version: "9.3"
   Description: Full-spectrum programming language going beyond Lisp and Scheme
   Homepage: https://racket-lang.org
 - Package: racket-static
-  Version: "9.2"
+  Version: "9.3"
   Description: Static libraries for racket
   Homepage: https://racket-lang.org
 - Package: radare2
@@ -10927,7 +10927,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.12.3
+  Version: 0.12.4
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
