@@ -2350,6 +2350,7 @@
 | **rp-pppoe** | 4.0-1 | A PPP-over-Ethernet redirector for pppd | https://dianne.skoll.ca/projects/rp-pppoe/ |
 | **rpm** | 4.18.1-3 | RPM Package Manager | https://rpm.org/ |
 | **rq** | 1.0.4-2 | A tool for doing record analysis and transformation | https://github.com/dflemstr/rq |
+| **rqbit** | 9.0.0 | A bittorrent command line client and server | https://github.com/ikatson/rqbit |
 | **rsgain** | 3.7 | A simple audio normalizazion utility | https://github.com/complexlogic/rsgain |
 | **rsnapshot** | 1.5.1 | A remote filesystem snapshot utility | https://www.rsnapshot.org/ |
 | **rsync** | 3.5.0 | Fast incremental file transfer utility | https://rsync.samba.org/ |
