@@ -4729,13 +4729,13 @@
   },
   {
     "Package": "imagemagick",
-    "Version": "7.1.2.27-1",
+    "Version": "7.1.2.29",
     "Description": "Suite to create, edit, compose, or convert images in a variety of formats",
     "Homepage": "https://www.imagemagick.org/"
   },
   {
     "Package": "imagemagick-static",
-    "Version": "7.1.2.27-1",
+    "Version": "7.1.2.29",
     "Description": "Static libraries for imagemagick",
     "Homepage": "https://www.imagemagick.org/"
   },
@@ -17203,7 +17203,7 @@
   },
   {
     "Package": "yazi",
-    "Version": "26.5.6",
+    "Version": "26.8.15",
     "Description": "Blazing fast terminal file manager written in Rust, based on async I/O",
     "Homepage": "https://yazi-rs.github.io/"
   },
