@@ -437,7 +437,7 @@
 | **dtc** | 1.8.1 | Device Tree Compiler | https://git.kernel.org/pub/scm/utils/dtc/dtc |
 | **dtc-static** | 1.8.1 | Static libraries for dtc | https://git.kernel.org/pub/scm/utils/dtc/dtc |
 | **dte** | 1.11.1-2 | A small, configurable console text editor | https://craigbarnes.gitlab.io/dte/ |
-| **dua** | 2.42.0 | View disk space usage and delete unwanted data, fast | https://github.com/Byron/dua-cli |
+| **dua** | 2.42.1 | View disk space usage and delete unwanted data, fast | https://github.com/Byron/dua-cli |
 | **duc** | 1.4.6 | High-performance disk usage analyzer | http://duc.zevv.nl/ |
 | **duckdb** | 1.5.5 | DuckDB Command Line Interface (CLI) shell | https://duckdb.org/ |
 | **duf** | 0.9.1 | Disk usage/free utility | https://github.com/muesli/duf |
@@ -1926,7 +1926,7 @@
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20260616 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.12.4 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
-| **neovim-nightly** | 0.13.0~dev-1317+g64a301184e-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
+| **neovim-nightly** | 0.13.0~dev-1321+gb169d9376c-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
 | **nerdfix** | 0.4.2-1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.5.2 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.5.2 | Static libraries for net-snmp | http://www.net-snmp.org/ |

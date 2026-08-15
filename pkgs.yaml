@@ -1707,7 +1707,7 @@
   Description: A small, configurable console text editor
   Homepage: https://craigbarnes.gitlab.io/dte/
 - Package: dua
-  Version: 2.42.0
+  Version: 2.42.1
   Description: View disk space usage and delete unwanted data, fast
   Homepage: https://github.com/Byron/dua-cli
 - Package: duc
@@ -7663,7 +7663,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-1317+g64a301184e-0
+  Version: 0.13.0~dev-1321+gb169d9376c-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
