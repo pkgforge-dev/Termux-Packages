@@ -132,7 +132,7 @@
 | **bchunk** | 1.2.2 | Tool to convert .bin + .cue files to .iso files | http://he.fi/bchunk/ |
 | **bdsup2sub** | 4.0.1-1 | A subtitle conversion tool for image based stream formats | https://github.com/mjuhasz/BDSup2Sub |
 | **beanshell** | 2.1.1-1 | Small, free, embeddable, source level Java interpreter with object based scripting language features written in Java | https://github.com/beanshell/beanshell |
-| **bear** | 4.2.0 | Bear is a tool that generates a compilation database for clang tooling. | https://github.com/rizsotto/Bear |
+| **bear** | 4.2.1 | Bear is a tool that generates a compilation database for clang tooling. | https://github.com/rizsotto/Bear |
 | **bed** | 0.2.8 | Binary editor written in GO | https://github.com/itchyny/bed |
 | **bftpd** | 6.6 | Small, easy-to-configure FTP server | https://bftpd.sourceforge.net/ |
 | **bgrep** | 1.0-5 | Binary string grep tool | https://debugmo.de/2009/04/bgrep-a-binary-grep/ |
@@ -818,7 +818,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4-1 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-2 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.24.2360 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.24.2413 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **jadx** | 1.5.5 | Dex to Java decompiler | https://github.com/skylot/jadx |
 | **jadx-x** | 1.5.5 | Dex to Java decompiler GUI | https://github.com/skylot/jadx |
 | **janet** | 1.41.2 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
@@ -1838,7 +1838,7 @@
 | **mono-static** | 6.14.1-2 | Static libraries for mono | https://gitlab.winehq.org/mono/mono |
 | **monolith** | 2.10.1-1 | CLI tool for saving complete web pages as a single HTML file | https://github.com/Y2Z/monolith |
 | **moon-buggy** | 1.1.0 | Simple game where you drive a car across the moon's surface | https://www.seehuhn.de/programs/moon-buggy |
-| **moor** | 2.16.3 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moor |
+| **moor** | 2.17.0 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moor |
 | **mop** | 2025.03.17-1 | Stock market tracker | https://github.com/mop-tracker/mop |
 | **moreutils** | 0.70-1 | A growing collection of the unix tools that nobody thought to write thirty years ago | https://joeyh.name/code/moreutils/ |
 | **moria** | 5.7.15-7 | Rogue-like game with an infinite dungeon | https://umoria.org |
