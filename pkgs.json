@@ -1699,7 +1699,7 @@
   },
   {
     "Package": "cookcli",
-    "Version": "0.32.1",
+    "Version": "0.33.1",
     "Description": "A suite of tools to create shopping lists and maintain food recipes",
     "Homepage": "https://cooklang.org"
   },
@@ -3319,7 +3319,7 @@
   },
   {
     "Package": "frp",
-    "Version": "0.70.1",
+    "Version": "0.71.0",
     "Description": "A fast reverse proxy to expose a local server behind a NAT or firewall to the internet",
     "Homepage": "https://github.com/fatedier/frp"
   },
@@ -7680,6 +7680,18 @@
     "Homepage": "https://wiki.documentfoundation.org/DLP/Libraries/libcdr"
   },
   {
+    "Package": "libmtp",
+    "Version": "1.1.23",
+    "Description": "A library for communicating with MTP devices",
+    "Homepage": "https://github.com/libmtp/libmtp"
+  },
+  {
+    "Package": "libmtp-static",
+    "Version": "1.1.23",
+    "Description": "Static libraries for libmtp",
+    "Homepage": "https://github.com/libmtp/libmtp"
+  },
+  {
     "Package": "libmuparser",
     "Version": "2.3.5-2",
     "Description": "An extensible high performance math expression parser library written in C++",
@@ -10348,6 +10360,12 @@
     "Version": "3.13.0-1",
     "Description": "Deployment and management system for Lua modules",
     "Homepage": "https://luarocks.org/"
+  },
+  {
+    "Package": "luau",
+    "Version": "0.734",
+    "Description": "A small, fast, and embeddable programming language based on Lua with a gradual type system.",
+    "Homepage": "https://github.com/luau-lang/luau"
   },
   {
     "Package": "lunasvg",
@@ -14041,7 +14059,7 @@
   },
   {
     "Package": "rqbit",
-    "Version": "9.0.0",
+    "Version": "9.0.0-1",
     "Description": "A bittorrent command line client and server",
     "Homepage": "https://github.com/ikatson/rqbit"
   },
