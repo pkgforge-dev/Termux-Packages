@@ -182,7 +182,7 @@
  busybox  1.38.0-1  Tiny versions of many common UNIX utilities into a single small executable  https://busybox.net/ 
  bvi  1.5.0-1  Binary file editor based on vi  https://bvi.sourceforge.net/ 
  byacc  20260126  byacc is generally conceded to be the best yacc variant available  https://invisible-island.net/byacc/ 
- byobu  7.17  Byobu is a GPLv3 open source text-based window manager and terminal multiplexer  https://www.byobu.org/ 
+ byobu  7.18  Byobu is a GPLv3 open source text-based window manager and terminal multiplexer  https://www.byobu.org/ 
  bzip2  1.0.8-8  Tools for working with bzip2 compression  http://www.bzip.org/ 
  c-ares  1.34.8  Library for asynchronous DNS requests (including name resolves)  https://c-ares.org/ 
  c-toxcore  0.2.23  Backend library for the Tox protocol  https://tox.chat 
@@ -296,7 +296,7 @@
  cpufetch  1.07-1  Simple yet fancy CPU architecture fetching tool  https://github.com/Dr-Noob/cpufetch 
  cpulimit  0.2-2  CPU usage limiter  https://github.com/opsengine/cpulimit 
  crawl  0.34.1  Roguelike adventure through dungeons filled with dangerous monsters  https://crawl.develz.org/ 
- croc  1:11.1.0  Easily and securely send things from one computer to another  https://github.com/schollz/croc 
+ croc  1:11.1.1  Easily and securely send things from one computer to another  https://github.com/schollz/croc 
  cronie  1.7.2-4  Daemon that runs specified programs at scheduled times and related tools  https://github.com/cronie-crond/cronie/ 
  crowbook  0.17.0-1  Allows you to write a book in Markdown without worrying about formatting or typography  https://github.com/crowdagger/crowbook 
  crunch  3.6-5  Highly customizable wordlist generator  https://sourceforge.net/projects/crunch-wordlist/ 
@@ -337,7 +337,7 @@
  debianutils  5.23.2-1  Small utilities which are used primarily by the installation scripts of Debian packages  https://packages.debian.org/debianutils 
  debootstrap  1.0.144  Bootstrap a basic Debian system  https://wiki.debian.org/Debootstrap 
  delve  1.27.1  A debugger for the Go programming language  https://github.com/go-delve/delve 
- deno  1:2.9.4  A modern runtime for JavaScript and TypeScript  https://deno.land/ 
+ deno  1:2.9.5  A modern runtime for JavaScript and TypeScript  https://deno.land/ 
  desed  1.2.2-1  Demystifies and debugs your sed scripts  https://github.com/SoptikHa2/desed 
  deutex  5.2.3-1  WAD composer for Doom, Heretic, Hexen, and Strife  https://github.com/Doom-Utils/deutex/ 
  dex2jar  2.4-1  Tools to work with android .dex and java .class files  https://github.com/pxb1988/dex2jar 
@@ -1151,7 +1151,7 @@
  libhtmlcxx-static  0.87-5  Static libraries for libhtmlcxx  https://htmlcxx.sourceforge.net/ 
  libhyphen  2.8.8-1  hyphenation library to use converted TeX hyphenation patterns  https://github.com/hunspell/hyphen 
  libhyphen-static  2.8.8-1  Static libraries for libhyphen  https://github.com/hunspell/hyphen 
- libical  4.0.4  Libical is an Open Source implementation of the iCalendar protocols and protocol data units  https://libical.github.io/libical/ 
+ libical  4.0.5  Libical is an Open Source implementation of the iCalendar protocols and protocol data units  https://libical.github.io/libical/ 
  libice  1.1.2-1  X11 Inter-Client Exchange library  https://xorg.freedesktop.org/ 
  libiconv  1.18-1  An implementation of iconv()  https://www.gnu.org/software/libiconv/ 
  libiconv-static  1.18-1  Static libraries for libiconv  https://www.gnu.org/software/libiconv/ 
@@ -1335,8 +1335,8 @@
  libopencore-amr  0.1.6-1  Open source implementation of the Adaptive Multi Rate (AMR) speech codec  https://sourceforge.net/projects/opencore-amr/ 
  libopencore-amr-static  0.1.6-1  Static libraries for libopencore-amr  https://sourceforge.net/projects/opencore-amr/ 
  libopenfec  1.4.2.12-1  Application-Level Forward Erasure Correction implementation library  http://openfec.org 
- libopenmpt  0.8.7  Library to render tracker music formats to a PCM audio stream  https://lib.openmpt.org/libopenmpt/ 
- libopenmpt-static  0.8.7  Static libraries for libopenmpt  https://lib.openmpt.org/libopenmpt/ 
+ libopenmpt  0.8.8  Library to render tracker music formats to a PCM audio stream  https://lib.openmpt.org/libopenmpt/ 
+ libopenmpt-static  0.8.8  Static libraries for libopenmpt  https://lib.openmpt.org/libopenmpt/ 
  libopus  1.6.1  Reference implementation of the Opus codec  https://www.opus-codec.org/ 
  libopus-static  1.6.1  Static libraries for libopus  https://www.opus-codec.org/ 
  libopusenc  0.2.1-4  High-level API for encoding .opus files  https://github.com/xiph/libopusenc 
@@ -1421,7 +1421,7 @@
  librtmidi  5.0.0-3  A set of C++ classes that provides a common API for realtime MIDI input/output  https://www.music.mcgill.ca/~gary/rtmidi/ 
  librttopo  1.1.0-5  The RT Topology Library exposes an API to create and manage standard topologies  https://git.osgeo.org/gitea/rttopo/librttopo 
  librttopo-static  1.1.0-5  Static libraries for librttopo  https://git.osgeo.org/gitea/rttopo/librttopo 
- librusty-v8  1:2.9.4  High quality Rust bindings to V8's C++ API  https://deno.land/ 
+ librusty-v8  1:2.9.5  High quality Rust bindings to V8's C++ API  https://deno.land/ 
  libsamplerate  0.2.2-4  A library for performing sample rate conversion of audio data  https://libsndfile.github.io/libsamplerate/ 
  libsasl  2.1.28-3  Cyrus SASL - authentication abstraction library  https://www.cyrusimap.org/sasl/ 
  libsasl-static  2.1.28-3  Static libraries for libsasl  https://www.cyrusimap.org/sasl/ 
@@ -1957,7 +1957,7 @@
  nsnake  3.0.1-7  The classic snake game with textual interface  https://github.com/alexdantas/nSnake 
  nss-utils  3.126.1  Tools for NSS  https://firefox-source-docs.mozilla.org/security/nss/ 
  nudoku  8.0.1  ncurses based sudoku game  http://jubalh.github.io/nudoku/ 
- nushell  0.114.1-1  A new type of shell operating on structured data  https://www.nushell.sh 
+ nushell  0.115.0  A new type of shell operating on structured data  https://www.nushell.sh 
  nyancat  1.5.2-1  Nyancat in your terminal, rendered through ANSI escape sequences.  http://nyancat.dakko.us 
  nzbget  26.0-1  The most efficient usenet downloader  https://nzbget.com/ 
  oathtool  2.6.12-2  One-time password components  http://www.nongnu.org/oath-toolkit/ 
@@ -2015,7 +2015,7 @@
  openlist  4.2.5-1  A file list program that supports multiple storage  https://oplist.org/ 
  openmpi  4.1.5-1  Open source Message Passing Interface implementation  https://www.open-mpi.org 
  openmpi-static  4.1.5-1  Static libraries for openmpi  https://www.open-mpi.org 
- openmpt123  0.8.7  libopenmpt based command-line player for tracker music formats  https://lib.openmpt.org/libopenmpt/ 
+ openmpt123  0.8.8  libopenmpt based command-line player for tracker music formats  https://lib.openmpt.org/libopenmpt/ 
  openpgl  0.7.1-1  Intel(R) Open Path Guiding Library  http://www.openpgl.org/ 
  opensc  0.27.1  Open source smart card tools and middleware  https://github.com/OpenSC/OpenSC 
  opensc-static  0.27.1  Static libraries for opensc  https://github.com/OpenSC/OpenSC 
@@ -2159,7 +2159,7 @@
  profanity  0.18.2-1  Profanity is a console based XMPP client written in C using ncurses and libstrophe, inspired by Irssi  https://profanity-im.github.io 
  progress  0.17-1  Linux tool to show progress for cp, mv, dd and more  https://github.com/Xfennec/progress 
  proj  9.8.1  Generic coordinate transformation software  https://proj.org 
- proot  5.1.107.90  Emulate chroot, bind mount and binfmt_misc for non-root users  https://proot-me.github.io/ 
+ proot  5.1.107.91  Emulate chroot, bind mount and binfmt_misc for non-root users  https://proot-me.github.io/ 
  proot-distro  5.6.0  Termux official utility for managing proot'ed Linux distributions  https://github.com/termux/proot-distro 
  protobuf  2:35.1  Compiler for protocol buffer definition files  https://github.com/protocolbuffers/protobuf 
  proton-bridge  3.25.0  ProtonMail Bridge application  https://github.com/ProtonMail/proton-bridge 

@@ -1105,7 +1105,7 @@
   },
   {
     "Package": "byobu",
-    "Version": "7.17",
+    "Version": "7.18",
     "Description": "Byobu is a GPLv3 open source text-based window manager and terminal multiplexer",
     "Homepage": "https://www.byobu.org/"
   },
@@ -1789,7 +1789,7 @@
   },
   {
     "Package": "croc",
-    "Version": "1:11.1.0",
+    "Version": "1:11.1.1",
     "Description": "Easily and securely send things from one computer to another",
     "Homepage": "https://github.com/schollz/croc"
   },
@@ -2035,7 +2035,7 @@
   },
   {
     "Package": "deno",
-    "Version": "1:2.9.4",
+    "Version": "1:2.9.5",
     "Description": "A modern runtime for JavaScript and TypeScript",
     "Homepage": "https://deno.land/"
   },
@@ -6919,7 +6919,7 @@
   },
   {
     "Package": "libical",
-    "Version": "4.0.4",
+    "Version": "4.0.5",
     "Description": "Libical is an Open Source implementation of the iCalendar protocols and protocol data units",
     "Homepage": "https://libical.github.io/libical/"
   },
@@ -8023,13 +8023,13 @@
   },
   {
     "Package": "libopenmpt",
-    "Version": "0.8.7",
+    "Version": "0.8.8",
     "Description": "Library to render tracker music formats to a PCM audio stream",
     "Homepage": "https://lib.openmpt.org/libopenmpt/"
   },
   {
     "Package": "libopenmpt-static",
-    "Version": "0.8.7",
+    "Version": "0.8.8",
     "Description": "Static libraries for libopenmpt",
     "Homepage": "https://lib.openmpt.org/libopenmpt/"
   },
@@ -8539,7 +8539,7 @@
   },
   {
     "Package": "librusty-v8",
-    "Version": "1:2.9.4",
+    "Version": "1:2.9.5",
     "Description": "High quality Rust bindings to V8s C++ API",
     "Homepage": "https://deno.land/"
   },
@@ -11755,7 +11755,7 @@
   },
   {
     "Package": "nushell",
-    "Version": "0.114.1-1",
+    "Version": "0.115.0",
     "Description": "A new type of shell operating on structured data",
     "Homepage": "https://www.nushell.sh"
   },
@@ -12103,7 +12103,7 @@
   },
   {
     "Package": "openmpt123",
-    "Version": "0.8.7",
+    "Version": "0.8.8",
     "Description": "libopenmpt based command-line player for tracker music formats",
     "Homepage": "https://lib.openmpt.org/libopenmpt/"
   },
@@ -12967,7 +12967,7 @@
   },
   {
     "Package": "proot",
-    "Version": "5.1.107.90",
+    "Version": "5.1.107.91",
     "Description": "Emulate chroot, bind mount and binfmt_misc for non-root users",
     "Homepage": "https://proot-me.github.io/"
   },
