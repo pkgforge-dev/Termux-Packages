@@ -2187,7 +2187,7 @@
   Description: Static libraries for freetype
   Homepage: https://www.freetype.org
 - Package: frei0r-plugins
-  Version: 3.2.1
+  Version: 3.3.0
   Description: Minimalistic plugin API for video effects
   Homepage: https://www.dyne.org/software/frei0r/
 - Package: fresh-editor
@@ -4027,11 +4027,11 @@
   Description: Static libraries for libconfig
   Homepage: https://github.com/hyperrealm/libconfig
 - Package: libconfuse
-  Version: 3.3-1
+  Version: "3.4"
   Description: Small configuration file parser library for C
   Homepage: https://github.com/martinh/libconfuse
 - Package: libconfuse-static
-  Version: 3.3-1
+  Version: "3.4"
   Description: Static libraries for libconfuse
   Homepage: https://github.com/martinh/libconfuse
 - Package: libcpufeatures
@@ -10103,11 +10103,11 @@
   Description: A family of IBM 3270 terminal emulators and related tools
   Homepage: https://x3270.bgp.nu/
 - Package: suitesparse
-  Version: 2:7.13.0
+  Version: 2:7.14.0
   Description: A Suite of Sparse matrix packages.
   Homepage: https://github.com/DrTimothyAldenDavis/SuiteSparse
 - Package: suitesparse-static
-  Version: 2:7.13.0
+  Version: 2:7.14.0
   Description: Static libraries for suitesparse
   Homepage: https://github.com/DrTimothyAldenDavis/SuiteSparse
 - Package: sun
@@ -11187,7 +11187,7 @@
   Description: WavPack command-line programs
   Homepage: https://www.wavpack.com/
 - Package: waypipe
-  Version: 0.11.0
+  Version: 0.11.1
   Description: A proxy for Wayland clients
   Homepage: https://gitlab.freedesktop.org/mstoeckl/waypipe
 - Package: wcalc
