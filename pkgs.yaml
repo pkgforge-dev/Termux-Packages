@@ -2235,7 +2235,7 @@
   Description: Interactive JSON viewer on your terminal
   Homepage: https://github.com/antonmedv/fx
 - Package: fzf
-  Version: 0.74.2
+  Version: 0.74.3
   Description: Command-line fuzzy finder
   Homepage: https://junegunn.github.io/fzf/
 - Package: fzy
@@ -3455,7 +3455,7 @@
   Description: Key directory that maps social media identities to encryption keys
   Homepage: https://keybase.io
 - Package: keychain
-  Version: 3.0.2
+  Version: 3.0.3
   Description: Keychain manager for ssh-agent and gpg-agent
   Homepage: https://kernel-seeds.org/projects/keychain/
 - Package: kibi
@@ -7675,7 +7675,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-1328+g2edb1c0009-0
+  Version: 0.13.0~dev-1336+g8c0bf18374-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -9451,7 +9451,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: "20260810"
+  Version: "20260817"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://rust-analyzer.github.io/
 - Package: rust-bindgen
@@ -10223,7 +10223,7 @@
   Description: Shell command wrapping Taskwarrior commands
   Homepage: https://taskwarrior.org
 - Package: taskwarrior
-  Version: 3.4.2-2
+  Version: 3.5.0
   Description: Utility for managing your TODO list
   Homepage: https://taskwarrior.org
 - Package: tcc
@@ -10267,7 +10267,7 @@
   Description: Static libraries for teckit
   Homepage: https://scripts.sil.org/teckitdownloads
 - Package: tectonic
-  Version: 0.17.0
+  Version: 0.17.0-1
   Description: A modernized, complete, self-contained TeX/LaTeX engine
   Homepage: https://tectonic-typesetting.github.io/
 - Package: telegram-bot-api

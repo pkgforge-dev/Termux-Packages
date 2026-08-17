@@ -569,7 +569,7 @@
 | **fwknop** | 2.6.11-2 | fwknop: Single Packet Authorization > Port Knocking | https://www.cipherdyne.org/fwknop/ |
 | **fwknop-static** | 2.6.11-2 | Static libraries for fwknop | https://www.cipherdyne.org/fwknop/ |
 | **fx** | 39.2.0 | Interactive JSON viewer on your terminal | https://github.com/antonmedv/fx |
-| **fzf** | 0.74.2 | Command-line fuzzy finder | https://junegunn.github.io/fzf/ |
+| **fzf** | 0.74.3 | Command-line fuzzy finder | https://junegunn.github.io/fzf/ |
 | **fzy** | 1.1-1 | A simple, fast fuzzy finder for the terminal | https://github.com/jhawthorn/fzy |
 | **g-ir-scanner** | 1.86.0-2 | A tool which generates GIR XML files | https://gi.readthedocs.io/ |
 | **game-music-emu** | 0.6.5 | A collection of video game music file emulators | https://bitbucket.org/mpyne/game-music-emu/wiki/Home |
@@ -874,7 +874,7 @@
 | **kbd** | 2.10.0 | KBD's showkey utility for examining keycodes | https://kbd-project.org/ |
 | **kew** | 4.2.7 | Music for the Shell | https://kewplayer.com |
 | **keybase** | 6.6.3 | Key directory that maps social media identities to encryption keys | https://keybase.io |
-| **keychain** | 3.0.2 | Keychain manager for ssh-agent and gpg-agent | https://kernel-seeds.org/projects/keychain/ |
+| **keychain** | 3.0.3 | Keychain manager for ssh-agent and gpg-agent | https://kernel-seeds.org/projects/keychain/ |
 | **kibi** | 0.3.3-1 | A tiny terminal text editor, written in Rust | https://github.com/ilai-deutel/kibi |
 | **kiwix-tools** | 3.8.2 | A collection of Kiwix related command line tools | https://github.com/kiwix/kiwix-tools |
 | **knockd** | 0.8.2-2 | A port-knocking daemon | https://zeroflux.org/projects/knock |
@@ -1929,7 +1929,7 @@
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20260616 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.12.4 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
-| **neovim-nightly** | 0.13.0~dev-1328+g2edb1c0009-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
+| **neovim-nightly** | 0.13.0~dev-1336+g8c0bf18374-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
 | **nerdfix** | 0.4.2-1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.5.2 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.5.2 | Static libraries for net-snmp | http://www.net-snmp.org/ |
@@ -2373,7 +2373,7 @@
 | **runit-static** | 2.1.2-4 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.9.0 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
 | **rust** | 1.97.1 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
-| **rust-analyzer** | 20260810 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
+| **rust-analyzer** | 20260817 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
 | **rust-bindgen** | 0.72.1 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
 | **rust-docs** | 1.97.1 | Rust documentation | https://www.rust-lang.org/ |
 | **rust-src** | 1.97.1 | Rust source code files | https://www.rust-lang.org/ |
@@ -2566,7 +2566,7 @@
 | **tar** | 1.35-3 | GNU tar for manipulating tar archives | https://www.gnu.org/software/tar/ |
 | **task-spooler** | 1:1.0.3-1 | Task spooler is a Unix batch system where the tasks spooled run one after the other | https://vicerveza.homeunix.net/~viric/soft/ts/ |
 | **tasksh** | 1.2.0-11 | Shell command wrapping Taskwarrior commands | https://taskwarrior.org |
-| **taskwarrior** | 3.4.2-2 | Utility for managing your TODO list | https://taskwarrior.org |
+| **taskwarrior** | 3.5.0 | Utility for managing your TODO list | https://taskwarrior.org |
 | **tcc** | 1:0.9.27-p20230415-2 | Tiny C Compiler | https://bellard.org/tcc/ |
 | **tcl** | 8.6.16 | Powerful but easy to learn dynamic programming language | https://www.tcl.tk/ |
 | **tcllib** | 2.0 | Tcl Standard Library | https://core.tcl-lang.org/tcllib/ |
@@ -2577,7 +2577,7 @@
 | **tealdeer** | 1.8.1 | A very fast implementation of tldr in Rust | https://tealdeer-rs.github.io/tealdeer/ |
 | **teckit** | 2.5.13 | TECkit is a library for encoding conversion | https://scripts.sil.org/teckitdownloads |
 | **teckit-static** | 2.5.13 | Static libraries for teckit | https://scripts.sil.org/teckitdownloads |
-| **tectonic** | 0.17.0 | A modernized, complete, self-contained TeX/LaTeX engine | https://tectonic-typesetting.github.io/ |
+| **tectonic** | 0.17.0-1 | A modernized, complete, self-contained TeX/LaTeX engine | https://tectonic-typesetting.github.io/ |
 | **telegram-bot-api** | 20241031-2 | Telegram Bot API server | https://github.com/tdlib/telegram-bot-api |
 | **teleport-tsh** | 18.10.0 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
 | **tere** | 1.6.0-1 | Terminal file explorer written in rust | https://github.com/mgunyho/tere |
