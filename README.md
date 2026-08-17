@@ -113,7 +113,7 @@
 | **atool** | 0.39.0-3 | tool for managing file archives of various types | https://www.nongnu.org/atool |
 | **attr** | 2.6.0 | Utilities for manipulating filesystem extended attributes | http://savannah.nongnu.org/projects/attr/ |
 | **attr-static** | 2.6.0 | Static libraries for attr | http://savannah.nongnu.org/projects/attr/ |
-| **atuin** | 18.17.1 | Magical shell history | https://atuin.sh/ |
+| **atuin** | 18.19.0 | Magical shell history | https://atuin.sh/ |
 | **aubio** | 0.4.9-7 | A library to label music and sounds | https://aubio.org/ |
 | **aubio-static** | 0.4.9-7 | Static libraries for aubio | https://aubio.org/ |
 | **audiofile** | 0.3.6 | Silicon Graphics Audio File Library | https://audiofile.68k.org/ |
@@ -384,7 +384,7 @@
 | **docbook-xml** | 5.1-1 | A widely used XML scheme for writing documentation and help | https://www.oasis-open.org/docbook/ |
 | **docbook-xsl** | 1.79.2-4 | XML stylesheets for Docbook-xml transformations | https://docbook.org/ |
 | **docker-cli** | 24.0.6 | Set of products that use OS-level virtualization to deliver software in packages called containers. | https://docker.com |
-| **docker-compose** | 5.4.0 | Compose is a tool for defining and running multi-container Docker applications. | https://github.com/docker/compose |
+| **docker-compose** | 5.5.0 | Compose is a tool for defining and running multi-container Docker applications. | https://github.com/docker/compose |
 | **docopt** | 0.6.3-4 | Command line arguments parser for C++11 and later | http://docopt.org |
 | **docopt-static** | 0.6.3-4 | Static libraries for docopt | http://docopt.org |
 | **doctest** | 2.5.3 | The fastest feature-rich C++11/14/17/20 single-header testing framework | https://github.com/doctest/doctest |
@@ -454,7 +454,7 @@
 | **ebook-tools** | 0.2.2-3 | Tools for accessing and converting various ebook file formats | https://sourceforge.net/projects/ebook-tools/ |
 | **ecj** | 1:4.12-5 | Eclipse Compiler for Java | https://www.eclipse.org/jdt/core/ |
 | **ed** | 1.22.5 | Classic UNIX line editor | https://www.gnu.org/software/ed/ |
-| **edbrowse** | 3.8.17 | Line based editor, browser, and mail client | https://edbrowse.org/ |
+| **edbrowse** | 3.8.18 | Line based editor, browser, and mail client | https://edbrowse.org/ |
 | **editorconfig-core-c** | 0.12.11 | EditorConfig core code written in C (for use by plugins supporting EditorConfig parsing) | https://editorconfig.org/ |
 | **editorconfig-core-c-static** | 0.12.11 | Static libraries for editorconfig-core-c | https://editorconfig.org/ |
 | **eigen** | 3.4.0 | Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms | http://eigen.tuxfamily.org |
@@ -2444,7 +2444,7 @@
 | **simdjson** | 4.6.7 | A C++ library to see how fast we can parse JSON with complete validation | https://simdjson.org/ |
 | **simh** | 1:3.12.5-1 | A collection of simulators for computer hardware and software from the past | http://simh.trailing-edge.com/ |
 | **simulavr** | 1:1.1.0-3 | Simulator for Microchip AVR (formerly Atmel) microcontrollers | https://www.nongnu.org/simulavr |
-| **sing-box** | 1.13.18 | The universal proxy platform | https://sing-box.sagernet.org |
+| **sing-box** | 1.13.19 | The universal proxy platform | https://sing-box.sagernet.org |
 | **skate** | 1.0.1-1 | A personal key-value store | https://github.com/charmbracelet/skate |
 | **sl** | 5.05-1 | Tool curing your bad habit of mistyping | https://github.com/mtoyoda/sl |
 | **slang** | 2.3.3-2 | S-Lang is a powerful interpreted language | https://www.jedsoft.org/slang/ |
@@ -2914,7 +2914,7 @@
 | **zsh-completions** | 0.36.0 | Additional completion definitions for Zsh | https://github.com/zsh-users/zsh-completions |
 | **zssh** | 1.5c-2 | A program for interactively transferring files to a remote machine while using the secure shell (ssh) | https://zssh.sourceforge.net/ |
 | **zstd** | 1.5.7-1 | Zstandard compression | https://github.com/facebook/zstd |
-| **zsync** | 0.7.2 | A file transfer program to download files from remote web servers | https://zsync.moria.org.uk/ |
+| **zsync** | 0.8.0 | A file transfer program to download files from remote web servers | https://zsync.moria.org.uk/ |
 | **zug** | 0.1.2 | Transducers for C++ | https://sinusoid.es/zug/ |
 | **zziplib** | 0.13.80-1 | Provides read access to zipped files in a zip-archive, using compression based on free algorithms | https://zziplib.sourceforge.net/ |
 | **zzuf** | 2022.05.29-1 | A transparent application input fuzzer | http://caca.zoy.org/wiki/zzuf |

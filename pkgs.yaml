@@ -411,7 +411,7 @@
   Description: Static libraries for attr
   Homepage: http://savannah.nongnu.org/projects/attr/
 - Package: atuin
-  Version: 18.17.1
+  Version: 18.19.0
   Description: Magical shell history
   Homepage: https://atuin.sh/
 - Package: aubio
@@ -1495,7 +1495,7 @@
   Description: Set of products that use OS-level virtualization to deliver software in packages called containers.
   Homepage: https://docker.com
 - Package: docker-compose
-  Version: 5.4.0
+  Version: 5.5.0
   Description: Compose is a tool for defining and running multi-container Docker applications.
   Homepage: https://github.com/docker/compose
 - Package: docopt
@@ -1775,7 +1775,7 @@
   Description: Classic UNIX line editor
   Homepage: https://www.gnu.org/software/ed/
 - Package: edbrowse
-  Version: 3.8.17
+  Version: 3.8.18
   Description: Line based editor, browser, and mail client
   Homepage: https://edbrowse.org/
 - Package: editorconfig-core-c
@@ -9735,7 +9735,7 @@
   Description: Simulator for Microchip AVR (formerly Atmel) microcontrollers
   Homepage: https://www.nongnu.org/simulavr
 - Package: sing-box
-  Version: 1.13.18
+  Version: 1.13.19
   Description: The universal proxy platform
   Homepage: https://sing-box.sagernet.org
 - Package: skate
@@ -11615,7 +11615,7 @@
   Description: Zstandard compression
   Homepage: https://github.com/facebook/zstd
 - Package: zsync
-  Version: 0.7.2
+  Version: 0.8.0
   Description: A file transfer program to download files from remote web servers
   Homepage: https://zsync.moria.org.uk/
 - Package: zug
