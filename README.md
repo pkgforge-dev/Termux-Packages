@@ -469,10 +469,10 @@
 | **elvish** | 0.21.0-1 | A friendly and expressive Unix shell | https://github.com/elves/elvish |
 | **emacs** | 30.2-5 | Extensible, customizable text editor-and more | https://www.gnu.org/software/emacs/ |
 | **emmylua-ls** | 0.25.1 | Emmy Lua Language Server coded in Rust | https://github.com/EmmyLuaLs/emmylua-analyzer-rust |
-| **emscripten** | 6.0.4 | Emscripten: An LLVM-to-WebAssembly Compiler | https://emscripten.org |
-| **emscripten-binaryen** | 6.0.4 | Emscripten-compatible Binaryen | https://emscripten.org |
-| **emscripten-llvm** | 6.0.4 | Emscripten-compatible LLVM | https://emscripten.org |
-| **emscripten-tests-third-party** | 6.0.4 | Emscripten third party test suite files | https://emscripten.org |
+| **emscripten** | 6.0.6 | Emscripten: An LLVM-to-WebAssembly Compiler | https://emscripten.org |
+| **emscripten-binaryen** | 6.0.6 | Emscripten-compatible Binaryen | https://emscripten.org |
+| **emscripten-llvm** | 6.0.6 | Emscripten-compatible LLVM | https://emscripten.org |
+| **emscripten-tests-third-party** | 6.0.6 | Emscripten third party test suite files | https://emscripten.org |
 | **enblend** | 4.2.0p20161007-9 | A tool for compositing images using a Burt&Adelson multiresolution spline | https://enblend.sourceforge.net/ |
 | **enchant** | 2.8.19-1 | Wraps a number of different spelling libraries and programs with a consistent interface | https://rrthomas.github.io/enchant/ |
 | **enchant-static** | 2.8.19-1 | Static libraries for enchant | https://rrthomas.github.io/enchant/ |
@@ -1533,7 +1533,7 @@
 | **libtommath-static** | 1.3.0 | Static libraries for libtommath | https://www.libtom.net/LibTomMath/ |
 | **libtool** | 2.6.2 | Generic library support script hiding the complexity of using shared libraries behind a consistent, portable interface | https://www.gnu.org/software/libtool/ |
 | **libtorrent** | 0.16.20 | Libtorrent BitTorrent library | https://github.com/rakshasa/rtorrent/wiki |
-| **libtorrent-rasterbar** | 2.0.13-3 | A feature complete C++ bittorrent implementation focusing on efficiency and scalability | https://libtorrent.org/ |
+| **libtorrent-rasterbar** | 2.1.1 | A feature complete C++ bittorrent implementation focusing on efficiency and scalability | https://libtorrent.org/ |
 | **libtorrent-static** | 0.16.20 | Static libraries for libtorrent | https://github.com/rakshasa/rtorrent/wiki |
 | **libtpms** | 0.10.2 | Provides software emulation of a Trusted Platform Module (TPM 1.2 and TPM 2.0) | https://github.com/stefanberger/libtpms |
 | **libtpms-static** | 0.10.2 | Static libraries for libtpms | https://github.com/stefanberger/libtpms |
@@ -1774,7 +1774,7 @@
 | **matplotlib** | 3.11.1 | A comprehensive library for creating static, animated, and interactive visualizations in Python | https://matplotlib.org/ |
 | **matterbridge** | 1.26.0-4 | A simple chat bridge | https://github.com/42wim/matterbridge |
 | **matterircd** | 0.31.0 | Connect to your mattermost or slack using your IRC-client of choice | https://github.com/42wim/matterircd |
-| **matugen** | 4.1.0 | A material you color generation tool with templates | https://github.com/InioX/matugen |
+| **matugen** | 4.2.0 | A material you color generation tool with templates | https://github.com/InioX/matugen |
 | **mautrix-whatsapp** | 26.08 | A Matrix-WhatsApp puppeting bridge | https://maunium.net/go/mautrix-whatsapp/ |
 | **maven** | 3.9.16 | A Java software project management and comprehension tool | https://maven.apache.org/ |
 | **maxcso** | 1.13.0-1 | A fast ISO to CSO compression program for use with PSP and PS2 emulators | https://github.com/unknownbrackets/maxcso |
@@ -2247,7 +2247,7 @@
 | **python-torch-static** | 2.11.0-2 | Static libraries for python-torch | https://pytorch.org/ |
 | **python-torchaudio** | 2.11.0-2 | Data manipulation and transformation for audio signal processing, powered by PyTorch | https://github.com/pytorch/audio |
 | **python-torchcodec** | 0.11.0-2 | PyTorch media decoding and encoding | https://github.com/pytorch/torchcodec |
-| **python-torchvision** | 0.27.0-1 | Datasets, Transforms and Models specific to Computer Vision | https://github.com/pytorch/vision |
+| **python-torchvision** | 0.28.0 | Datasets, Transforms and Models specific to Computer Vision | https://github.com/pytorch/vision |
 | **python-trash-cli** | 0.24.5.26-1 | Command line trashcan (recycle bin) interface | https://github.com/andreafrancia/trash-cli |
 | **python-xcbgen** | 1.17.0-3 | The xcbgen Python module | https://xcb.freedesktop.org/ |
 | **python-xlib** | 0.33-4 | The Python X Library | https://github.com/python-xlib/python-xlib |
@@ -2699,7 +2699,7 @@
 | **tudo** | 1.2.0 | A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument as the Termux app (u<userid>_a<appid>) user in the Termux app | https://github.com/agnostic-apollo/tudo |
 | **tur-repo** | 1.0.1 | A single and trusted place for all unofficial/less popular termux packages | https://github.com/termux-user-repository/tur |
 | **turbo** | 2.10.0 | High-performance build system for JS/TS | https://turborepo.dev/ |
-| **turbopack** | 16.3.0 | Rust-based incremental compilation engine and bundler for Next.js | https://nextjs.org/ |
+| **turbopack** | 16.3.1 | Rust-based incremental compilation engine and bundler for Next.js | https://nextjs.org/ |
 | **tut** | 2.0.1-3 | A TUI for Mastodon with vim inspired keys | https://github.com/RasmusLindroth/tut |
 | **tvheadend** | 4.2.8-12 | TV streaming server for Linux and Android supporting DVB-S, DVB-S2 and other formats. | https://tvheadend.org/ |
 | **tvheadend-data** | 4.2.8-12 | Platform-independent data for tvheadend | https://tvheadend.org/ |
