@@ -2059,13 +2059,13 @@
   },
   {
     "Package": "dialog",
-    "Version": "1.3-20260107-1",
+    "Version": "1.3-20260721-0",
     "Description": "Application used in shell scripts which displays text user interface widgets",
     "Homepage": "https://invisible-island.net/dialog/"
   },
   {
     "Package": "dialog-static",
-    "Version": "1.3-20260107-1",
+    "Version": "1.3-20260721-0",
     "Description": "Static libraries for dialog",
     "Homepage": "https://invisible-island.net/dialog/"
   },
@@ -7921,7 +7921,7 @@
   },
   {
     "Package": "libnss",
-    "Version": "3.126.1",
+    "Version": "3.127",
     "Description": "Network Security Services (NSS)",
     "Homepage": "https://firefox-source-docs.mozilla.org/security/nss/"
   },
@@ -11761,7 +11761,7 @@
   },
   {
     "Package": "nss-utils",
-    "Version": "3.126.1",
+    "Version": "3.127",
     "Description": "Tools for NSS",
     "Homepage": "https://firefox-source-docs.mozilla.org/security/nss/"
   },
@@ -15757,7 +15757,7 @@
   },
   {
     "Package": "tmux",
-    "Version": "3.7b",
+    "Version": "3.7c",
     "Description": "Terminal multiplexer",
     "Homepage": "https://tmux.github.io/"
   },

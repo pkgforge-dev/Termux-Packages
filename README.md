@@ -353,8 +353,8 @@
 | **desed** | 1.2.2-1 | Demystifies and debugs your sed scripts | https://github.com/SoptikHa2/desed |
 | **deutex** | 5.2.3-1 | WAD composer for Doom, Heretic, Hexen, and Strife | https://github.com/Doom-Utils/deutex/ |
 | **dex2jar** | 2.4-1 | Tools to work with android .dex and java .class files | https://github.com/pxb1988/dex2jar |
-| **dialog** | 1.3-20260107-1 | Application used in shell scripts which displays text user interface widgets | https://invisible-island.net/dialog/ |
-| **dialog-static** | 1.3-20260107-1 | Static libraries for dialog | https://invisible-island.net/dialog/ |
+| **dialog** | 1.3-20260721-0 | Application used in shell scripts which displays text user interface widgets | https://invisible-island.net/dialog/ |
+| **dialog-static** | 1.3-20260721-0 | Static libraries for dialog | https://invisible-island.net/dialog/ |
 | **dictd** | 1.13.3-1 | Online dictionary client and server | https://sourceforge.net/projects/dict/ |
 | **diff-so-fancy** | 1.4.12 | Good-lookin' diffs. Actually... nah... The best-lookin' diffs | https://github.com/so-fancy/diff-so-fancy |
 | **diffstat** | 1.69 | Displays a histogram of changes to a file | https://invisible-island.net/diffstat/diffstat.html |
@@ -1330,7 +1330,7 @@
 | **libnpth-static** | 1.6-3 | Static libraries for libnpth | https://www.gnupg.org/related_software/npth/ |
 | **libnspr** | 4.40 | Netscape Portable Runtime (NSPR) | https://hg.mozilla.org/projects/nspr |
 | **libnspr-static** | 4.40 | Static libraries for libnspr | https://hg.mozilla.org/projects/nspr |
-| **libnss** | 3.126.1 | Network Security Services (NSS) | https://firefox-source-docs.mozilla.org/security/nss/ |
+| **libnss** | 3.127 | Network Security Services (NSS) | https://firefox-source-docs.mozilla.org/security/nss/ |
 | **libntl** | 11.6.0 | A Library for doing Number Theory | https://libntl.org |
 | **libntl-static** | 11.6.0 | Static libraries for libntl | https://libntl.org |
 | **libnumbertext** | 1.0.11-1 | Number to number name and money text conversion library | https://github.com/Numbertext/libnumbertext |
@@ -1970,7 +1970,7 @@
 | **nsis** | 3.12 | A professional open source system to create Windows installers | https://sourceforge.net/projects/nsis/ |
 | **nsis-stubs** | 3.12 | NSIS Stubs | https://sourceforge.net/projects/nsis/ |
 | **nsnake** | 3.0.1-7 | The classic snake game with textual interface | https://github.com/alexdantas/nSnake |
-| **nss-utils** | 3.126.1 | Tools for NSS | https://firefox-source-docs.mozilla.org/security/nss/ |
+| **nss-utils** | 3.127 | Tools for NSS | https://firefox-source-docs.mozilla.org/security/nss/ |
 | **nudoku** | 8.0.1 | ncurses based sudoku game | http://jubalh.github.io/nudoku/ |
 | **nushell** | 0.115.0 | A new type of shell operating on structured data | https://www.nushell.sh |
 | **nyancat** | 1.5.2-1 | Nyancat in your terminal, rendered through ANSI escape sequences. | http://nyancat.dakko.us |
@@ -2636,7 +2636,7 @@
 | **tizonia** | 0.22.0-26 | A command-line streaming music client/server for Linux | https://github.com/tizonia/ |
 | **tk** | 8.6.14-1 | A windowing toolkit for use with tcl | https://tcl.sourceforge.net/ |
 | **tmate** | 2.4.0-3 | Terminal multiplexer with instant terminal sharing | https://tmate.io |
-| **tmux** | 3.7b | Terminal multiplexer | https://tmux.github.io/ |
+| **tmux** | 3.7c | Terminal multiplexer | https://tmux.github.io/ |
 | **toilet** | 0.3-3 | FIGlet-compatible display of large colourful characters in text mode | http://caca.zoy.org/wiki/toilet |
 | **tokei** | 14.0.0 | A blazingly fast CLOC (Count Lines Of Code) program | https://github.com/XAMPPRocky/tokei |
 | **tome2** | 2025.12.13-2 | An open world roguelike adventure set in middle earth | https://github.com/tome2/tome2 |
