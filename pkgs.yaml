@@ -1191,7 +1191,7 @@
   Description: Roguelike adventure through dungeons filled with dangerous monsters
   Homepage: https://crawl.develz.org/
 - Package: croc
-  Version: 1:11.1.1
+  Version: 1:11.1.2
   Description: Easily and securely send things from one computer to another
   Homepage: https://github.com/schollz/croc
 - Package: cronie
@@ -2119,7 +2119,7 @@
   Description: Software synthesizer based on the SoundFont 2 specifications
   Homepage: https://github.com/FluidSynth/fluidsynth
 - Package: flyctl
-  Version: 0.4.83
+  Version: 0.4.84
   Description: Command line tools for fly.io services
   Homepage: https://fly.io
 - Package: fm
@@ -2331,7 +2331,7 @@
   Description: Proxy for using W3C WebDriver-compatible clients to interact with Gecko-based browsers
   Homepage: https://github.com/mozilla/geckodriver
 - Package: gecode
-  Version: 6.3.0
+  Version: 6.4.0
   Description: Generic Constraint Development Environment
   Homepage: https://www.gecode.dev/
 - Package: gecode-static
@@ -4087,7 +4087,7 @@
   Description: Static libraries for libdaemon
   Homepage: https://0pointer.de/lennart/projects/libdaemon/
 - Package: libdart
-  Version: 6.16.7
+  Version: 6.19.4
   Description: Dynamic Animation and Robotics Toolkit
   Homepage: https://dartsim.github.io/
 - Package: libdav1d
@@ -4711,11 +4711,11 @@
   Description: Static libraries for libiodbc
   Homepage: https://www.iodbc.org/
 - Package: libisoburn
-  Version: 1.5.8
+  Version: 1.5.8.pl02
   Description: Frontend for libraries libburn and libisofs
   Homepage: https://dev.lovelyhq.com/libburnia
 - Package: libisoburn-static
-  Version: 1.5.8
+  Version: 1.5.8.pl02
   Description: Static libraries for libisoburn
   Homepage: https://dev.lovelyhq.com/libburnia
 - Package: libisofs
@@ -9895,7 +9895,7 @@
   Description: SPIR-V Headers
   Homepage: https://github.com/KhronosGroup/SPIRV-Headers
 - Package: spirv-llvm-translator
-  Version: 21.1.7
+  Version: 21.1.10
   Description: SPIR-V LLVM Translator
   Homepage: https://github.com/KhronosGroup/SPIRV-LLVM-Translator
 - Package: spirv-tools

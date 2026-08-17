@@ -1789,7 +1789,7 @@
   },
   {
     "Package": "croc",
-    "Version": "1:11.1.1",
+    "Version": "1:11.1.2",
     "Description": "Easily and securely send things from one computer to another",
     "Homepage": "https://github.com/schollz/croc"
   },
@@ -3181,7 +3181,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.4.83",
+    "Version": "0.4.84",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -3499,7 +3499,7 @@
   },
   {
     "Package": "gecode",
-    "Version": "6.3.0",
+    "Version": "6.4.0",
     "Description": "Generic Constraint Development Environment",
     "Homepage": "https://www.gecode.dev/"
   },
@@ -6133,7 +6133,7 @@
   },
   {
     "Package": "libdart",
-    "Version": "6.16.7",
+    "Version": "6.19.4",
     "Description": "Dynamic Animation and Robotics Toolkit",
     "Homepage": "https://dartsim.github.io/"
   },
@@ -7069,13 +7069,13 @@
   },
   {
     "Package": "libisoburn",
-    "Version": "1.5.8",
+    "Version": "1.5.8.pl02",
     "Description": "Frontend for libraries libburn and libisofs",
     "Homepage": "https://dev.lovelyhq.com/libburnia"
   },
   {
     "Package": "libisoburn-static",
-    "Version": "1.5.8",
+    "Version": "1.5.8.pl02",
     "Description": "Static libraries for libisoburn",
     "Homepage": "https://dev.lovelyhq.com/libburnia"
   },
@@ -14845,7 +14845,7 @@
   },
   {
     "Package": "spirv-llvm-translator",
-    "Version": "21.1.7",
+    "Version": "21.1.10",
     "Description": "SPIR-V LLVM Translator",
     "Homepage": "https://github.com/KhronosGroup/SPIRV-LLVM-Translator"
   },
