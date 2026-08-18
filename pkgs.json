@@ -835,7 +835,7 @@
   },
   {
     "Package": "binaryen",
-    "Version": "132",
+    "Version": "132-1",
     "Description": "Binaryen is a compiler and toolchain infrastructure library for WebAssembly",
     "Homepage": "https://github.com/WebAssembly/binaryen"
   },
@@ -11515,7 +11515,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-1336+g8c0bf18374-0",
+    "Version": "0.13.0~dev-1345+g82c751db4e-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
