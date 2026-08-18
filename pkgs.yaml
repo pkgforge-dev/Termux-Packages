@@ -463,7 +463,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.36.24
+  Version: 2.36.25
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -571,7 +571,7 @@
   Description: An Binwalk firmware analysis tool.
   Homepage: https://github.com/ReFirmLabs/binwalk
 - Package: biome2
-  Version: 2.5.8
+  Version: 2.5.9
   Description: A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP
   Homepage: https://biomejs.dev/
 - Package: bison
@@ -4799,11 +4799,11 @@
   Description: Static libraries for libknot
   Homepage: https://www.knot-dns.cz/
 - Package: libkokkos
-  Version: 5.2.0
+  Version: 5.2.1
   Description: Implements a programming model in C++ for writing performance portable applications
   Homepage: https://github.com/kokkos
 - Package: libkokkos-static
-  Version: 5.2.0
+  Version: 5.2.1
   Description: Static libraries for libkokkos
   Homepage: https://github.com/kokkos
 - Package: libksba
@@ -9107,7 +9107,7 @@
   Description: Allows you to easily manage large numbers of patches
   Homepage: https://savannah.nongnu.org/projects/quilt
 - Package: rabbitmq-server
-  Version: 4.3.4
+  Version: 4.3.5
   Description: Feature rich, multi-protocol messaging and streaming broker
   Homepage: https://github.com/rabbitmq/rabbitmq-server
 - Package: racket
