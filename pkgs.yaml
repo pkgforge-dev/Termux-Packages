@@ -8183,11 +8183,11 @@
   Description: Open Virtual Machine Firmware
   Homepage: https://www.tianocore.org/
 - Package: oxfmt
-  Version: 1.78.0-1
+  Version: 1.79.0
   Description: Oxc JavaScript formatter
   Homepage: https://oxc.rs/
 - Package: oxlint
-  Version: 1.78.0-1
+  Version: 1.79.0
   Description: Oxc JavaScript linter
   Homepage: https://oxc.rs/
 - Package: p11-kit
@@ -8443,7 +8443,7 @@
   Description: Sodium module for PHP
   Homepage: https://php.net
 - Package: php-zephir-parser
-  Version: 2.5.0
+  Version: 2.6.0
   Description: The Zephir Parser delivered as a C extension for the PHP language
   Homepage: https://github.com/phalcon/php-zephir-parser
 - Package: phpmyadmin
@@ -9907,7 +9907,7 @@
   Description: SPIR-V Tools
   Homepage: https://github.com/KhronosGroup/SPIRV-Tools
 - Package: sqlcipher
-  Version: 4.17.0-2
+  Version: 4.18.0
   Description: SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files
   Homepage: https://github.com/sqlcipher/sqlcipher
 - Package: sqlite
@@ -10043,7 +10043,7 @@
   Description: A TCP/IP repeater in the application layer
   Homepage: https://www.gcd.org/sengoku/stone/
 - Package: storj-uplink
-  Version: 1.161.9
+  Version: 1.162.3
   Description: Storj DCS Uplink CLI
   Homepage: https://www.storj.io/integrations/uplink-cli
 - Package: stow
