@@ -444,7 +444,7 @@
 | **dufs** | 0.46.0 | A file server that supports static serving, uploading, searching, accessing control, webdav... | https://github.com/sigoden/dufs |
 | **duktape** | 2.7.0-2 | Simple REPL for Duktape | https://www.duktape.org/ |
 | **dumbpipe** | 0.39.0 | A CLI tool to pipe data over the network, with NAT hole punching | https://www.dumbpipe.dev/ |
-| **dust** | 1.2.4 | A more intuitive version of du in rust | https://github.com/bootandy/dust |
+| **dust** | 1.2.5 | A more intuitive version of du in rust | https://github.com/bootandy/dust |
 | **dvdauthor** | 0.7.2-4 | Generates a DVD-Video movie from a valid MPEG-2 stream | https://dvdauthor.sourceforge.net/ |
 | **dvtm** | 0.15-4 | Terminal tiling window manager | https://github.com/martanne/dvtm |
 | **dwarves** | 1.31 | Pahole and other DWARF utils | https://git.kernel.org/cgit/devel/pahole/pahole.git/ |
