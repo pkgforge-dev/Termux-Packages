@@ -463,7 +463,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.36.25
+  Version: 2.36.26
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -6891,7 +6891,7 @@
   Description: Static libraries for lua55
   Homepage: https://www.lua.org/
 - Package: luajit
-  Version: 1:2.1.1787058514+g27f169c
+  Version: 1:2.1.1787156470+g21ecb36
   Description: Just-In-Time Compiler for Lua
   Homepage: https://luajit.org/
 - Package: luajit-lgi
@@ -6899,7 +6899,7 @@
   Description: Dynamic Lua binding to GObject libraries using GObject-Introspection
   Homepage: https://github.com/lgi-devs/lgi
 - Package: luajit-static
-  Version: 1:2.1.1787058514+g27f169c
+  Version: 1:2.1.1787156470+g21ecb36
   Description: Static libraries for luajit
   Homepage: https://luajit.org/
 - Package: luarocks
@@ -8443,7 +8443,7 @@
   Description: Sodium module for PHP
   Homepage: https://php.net
 - Package: php-zephir-parser
-  Version: 2.6.0
+  Version: 2.7.0
   Description: The Zephir Parser delivered as a C extension for the PHP language
   Homepage: https://github.com/phalcon/php-zephir-parser
 - Package: phpmyadmin
@@ -8671,7 +8671,7 @@
   Description: ProtonMail Bridge application
   Homepage: https://github.com/ProtonMail/proton-bridge
 - Package: proton-pass-cli
-  Version: 2.3.2
+  Version: 2.3.2-1
   Description: Proton Pass Command Line Interface (CLI)
   Homepage: https://protonpass.github.io/pass-cli/
 - Package: prover9
@@ -11167,7 +11167,7 @@
   Description: Libc for WebAssembly programs built on top of WASI system calls
   Homepage: https://wasi.dev/
 - Package: wasm-component-ld
-  Version: 0.5.29
+  Version: 0.5.30
   Description: Command line linker for creating WebAssembly components
   Homepage: https://github.com/bytecodealliance/wasm-component-ld
 - Package: wasmedge
