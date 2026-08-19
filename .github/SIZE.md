@@ -2,9 +2,9 @@
 2.2M └─┬ main
 524K   ├── pkgs.json
 420K   ├── pkgs.yaml
+324K   ├── termux.pkgs
 324K   ├── index.html
 324K   ├── README.md
-320K   ├── termux.pkgs
 296K   ├── pkgs.txt
 4.0K   ├── LICENSE
 4.0K   ├── INFO.md
