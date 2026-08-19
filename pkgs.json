@@ -2893,7 +2893,7 @@
   },
   {
     "Package": "faad2",
-    "Version": "2.11.2",
+    "Version": "2.11.3",
     "Description": "Freeware Advanced Audio (AAC) Decoder",
     "Homepage": "https://github.com/knik0/faad2"
   },
@@ -10339,7 +10339,7 @@
   },
   {
     "Package": "luajit",
-    "Version": "1:2.1.1785763465+g1edc3e5",
+    "Version": "1:2.1.1787058514+g27f169c",
     "Description": "Just-In-Time Compiler for Lua",
     "Homepage": "https://luajit.org/"
   },
@@ -10351,7 +10351,7 @@
   },
   {
     "Package": "luajit-static",
-    "Version": "1:2.1.1785763465+g1edc3e5",
+    "Version": "1:2.1.1787058514+g27f169c",
     "Description": "Static libraries for luajit",
     "Homepage": "https://luajit.org/"
   },
@@ -11515,7 +11515,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-1345+g82c751db4e-0",
+    "Version": "0.13.0~dev-1357+g53211ade2b-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -15277,13 +15277,13 @@
   },
   {
     "Package": "swtpm",
-    "Version": "0.10.1-2",
+    "Version": "0.10.2",
     "Description": "Software TPM Emulator",
     "Homepage": "https://github.com/stefanberger/swtpm"
   },
   {
     "Package": "swtpm-static",
-    "Version": "0.10.1-2",
+    "Version": "0.10.2",
     "Description": "Static libraries for swtpm",
     "Homepage": "https://github.com/stefanberger/swtpm"
   },
@@ -16183,7 +16183,7 @@
   },
   {
     "Package": "ty",
-    "Version": "0.0.72",
+    "Version": "0.0.73",
     "Description": "An extremely fast Python type checker and language server, written in Rust",
     "Homepage": "https://github.com/astral-sh/ty"
   },
@@ -17251,7 +17251,7 @@
   },
   {
     "Package": "yq",
-    "Version": "4.53.3",
+    "Version": "4.53.4",
     "Description": "A lightweight and portable command-line YAML, JSON and XML processor",
     "Homepage": "https://mikefarah.gitbook.io/yq/"
   },

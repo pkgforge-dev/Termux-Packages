@@ -492,7 +492,7 @@
 | **exiv2** | 2:0.28.8 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **expect** | 5.45.4-4 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
 | **eza** | 0.23.5 | A modern replacement for ls | https://github.com/eza-community/eza |
-| **faad2** | 2.11.2 | Freeware Advanced Audio (AAC) Decoder | https://github.com/knik0/faad2 |
+| **faad2** | 2.11.3 | Freeware Advanced Audio (AAC) Decoder | https://github.com/knik0/faad2 |
 | **fact++** | 1.6.5-3 | Re-implementation of the well-known FaCT Description Logic (DL) Reasoner | https://bitbucket.org/dtsarkov/factplusplus |
 | **fakeroot** | 2.1.4 | Tool for simulating superuser privileges (with tcp ipc) | https://packages.qa.debian.org/f/fakeroot.html |
 | **fakeroot-static** | 2.1.4 | Static libraries for fakeroot | https://packages.qa.debian.org/f/fakeroot.html |
@@ -1733,9 +1733,9 @@
 | **lua54-static** | 5.4.8-10 | Static libraries for lua54 | https://www.lua.org/ |
 | **lua55** | 5.5.1-1 | Lua scripting language 5.5.x | https://www.lua.org/ |
 | **lua55-static** | 5.5.1-1 | Static libraries for lua55 | https://www.lua.org/ |
-| **luajit** | 1:2.1.1785763465+g1edc3e5 | Just-In-Time Compiler for Lua | https://luajit.org/ |
+| **luajit** | 1:2.1.1787058514+g27f169c | Just-In-Time Compiler for Lua | https://luajit.org/ |
 | **luajit-lgi** | 0.9.2+p20251219-3 | Dynamic Lua binding to GObject libraries using GObject-Introspection | https://github.com/lgi-devs/lgi |
-| **luajit-static** | 1:2.1.1785763465+g1edc3e5 | Static libraries for luajit | https://luajit.org/ |
+| **luajit-static** | 1:2.1.1787058514+g27f169c | Static libraries for luajit | https://luajit.org/ |
 | **luarocks** | 3.13.0-1 | Deployment and management system for Lua modules | https://luarocks.org/ |
 | **luau** | 0.734-2 | A small, fast, and embeddable programming language based on Lua with a gradual type system. | https://github.com/luau-lang/luau |
 | **lunasvg** | 3.5.0-1 | SVG rendering and manipulation library in C++ | https://github.com/sammycage/lunasvg |
@@ -1929,7 +1929,7 @@
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20260616 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.12.4 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
-| **neovim-nightly** | 0.13.0~dev-1345+g82c751db4e-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
+| **neovim-nightly** | 0.13.0~dev-1357+g53211ade2b-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
 | **nerdfix** | 0.4.2-1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.5.2 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.5.2 | Static libraries for net-snmp | http://www.net-snmp.org/ |
@@ -2556,8 +2556,8 @@
 | **swift-sdk-x86-64** | 6.2.1 | Swift SDK for Android x86_64 | https://swift.org/ |
 | **swiftshader** | 2025.06.25-2 | A high-performance CPU-based implementation of the Vulkan graphics API | https://swiftshader.googlesource.com/SwiftShader |
 | **swig** | 4.5.0 | Generate scripting interfaces to C/C++ code | https://swig.org |
-| **swtpm** | 0.10.1-2 | Software TPM Emulator | https://github.com/stefanberger/swtpm |
-| **swtpm-static** | 0.10.1-2 | Static libraries for swtpm | https://github.com/stefanberger/swtpm |
+| **swtpm** | 0.10.2 | Software TPM Emulator | https://github.com/stefanberger/swtpm |
+| **swtpm-static** | 0.10.2 | Static libraries for swtpm | https://github.com/stefanberger/swtpm |
 | **syncthing** | 2.1.3 | Decentralized file synchronization | https://syncthing.net/ |
 | **sysprop** | 16.0.0.4-1 | Android sysprop generators | https://github.com/termux/android-build-tools |
 | **ta-lib** | 0.5.0 | Technical analysis library with indicators like ADX | https://ta-lib.org/ |
@@ -2707,7 +2707,7 @@
 | **tweego** | 2.1.1-4 | A free command line compiler for Twine/Twee story formats | https://bitbucket.org/tmedwards/tweego |
 | **twolame** | 0.4.0-1 | The frontend for libtwolame | https://www.twolame.org/ |
 | **txikijs** | 1:26.6.0 | A small and powerful JavaScript runtime | https://github.com/saghul/txiki.js |
-| **ty** | 0.0.72 | An extremely fast Python type checker and language server, written in Rust | https://github.com/astral-sh/ty |
+| **ty** | 0.0.73 | An extremely fast Python type checker and language server, written in Rust | https://github.com/astral-sh/ty |
 | **typst** | 0.15.1 | A new markup-based typesetting system that is powerful and easy to learn | https://typst.app/ |
 | **typstfmt** | 0.2.10-1 | basic formatter for the Typst language | https://github.com/astrale-sharp/typstfmt |
 | **uchardet** | 0.0.8-2 | An encoding detector utility | https://www.freedesktop.org/wiki/Software/uchardet/ |
@@ -2885,7 +2885,7 @@
 | **yoga** | 3.2.1 | Embeddable layout engine targeting web standards | https://www.yogalayout.dev/ |
 | **yosys** | 0.68 | A framework for RTL synthesis tools | https://yosyshq.net/yosys/ |
 | **youtubedr** | 2.10.6 | Download youtube video in Golang | https://github.com/kkdai/youtube |
-| **yq** | 4.53.3 | A lightweight and portable command-line YAML, JSON and XML processor | https://mikefarah.gitbook.io/yq/ |
+| **yq** | 4.53.4 | A lightweight and portable command-line YAML, JSON and XML processor | https://mikefarah.gitbook.io/yq/ |
 | **yt-dlp-ejs** | 0.8.0-1 | External JavaScript for yt-dlp supporting many runtimes | https://github.com/yt-dlp/ejs |
 | **ytfzf** | 2.6.2 | A POSIX script that helps you find Youtube videos (without API) | https://github.com/pystardust/ytfzf |
 | **ytui-music** | 2.0.0-beta-5 | Youtube client in terminal for music | https://github.com/sudipghimire533/ytui-music |
