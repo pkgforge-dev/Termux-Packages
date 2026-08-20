@@ -308,7 +308,7 @@
 | **cpufetch** | 1.07-1 | Simple yet fancy CPU architecture fetching tool | https://github.com/Dr-Noob/cpufetch |
 | **cpulimit** | 0.2-2 | CPU usage limiter | https://github.com/opsengine/cpulimit |
 | **crawl** | 0.34.1 | Roguelike adventure through dungeons filled with dangerous monsters | https://crawl.develz.org/ |
-| **croc** | 1:11.2.3 | Easily and securely send things from one computer to another | https://github.com/schollz/croc |
+| **croc** | 1:11.2.4 | Easily and securely send things from one computer to another | https://github.com/schollz/croc |
 | **cronie** | 1.7.2-4 | Daemon that runs specified programs at scheduled times and related tools | https://github.com/cronie-crond/cronie/ |
 | **crowbook** | 0.17.0-1 | Allows you to write a book in Markdown without worrying about formatting or typography | https://github.com/crowdagger/crowbook |
 | **crunch** | 3.6-5 | Highly customizable wordlist generator | https://sourceforge.net/projects/crunch-wordlist/ |
@@ -988,8 +988,8 @@
 | **libcairomm-1.0** | 1.14.6 | Provides a C++ interface to cairo | https://www.cairographics.org/cairomm/ |
 | **libcairomm-1.16** | 1.18.1 | Provides a C++ interface to cairo | https://www.cairographics.org/cairomm/ |
 | **libcap** | 2.69-1 | POSIX 1003.1e capabilities | https://sites.google.com/site/fullycapable/ |
-| **libcap-ng** | 2:0.9.3 | Library making programming with POSIX capabilities easier than traditional libcap | https://people.redhat.com/sgrubb/libcap-ng/ |
-| **libcap-ng-static** | 2:0.9.3 | Static libraries for libcap-ng | https://people.redhat.com/sgrubb/libcap-ng/ |
+| **libcap-ng** | 2:0.9.4 | Library making programming with POSIX capabilities easier than traditional libcap | https://people.redhat.com/sgrubb/libcap-ng/ |
+| **libcap-ng-static** | 2:0.9.4 | Static libraries for libcap-ng | https://people.redhat.com/sgrubb/libcap-ng/ |
 | **libcap-static** | 2.69-1 | Static libraries for libcap | https://sites.google.com/site/fullycapable/ |
 | **libccd** | 2.1-2 | Library for collision detection between two convex shapes | https://github.com/danfis/libccd |
 | **libcddb** | 1.3.2-1 | A C library to access data on a CDDB server | https://libcddb.sourceforge.net/ |
@@ -2286,7 +2286,7 @@
 | **qrsspig** | 0.8.0-8 | Headless QRSS grabber for Raspberry Pi's | https://gitlab.com/hb9fxx/qrsspig |
 | **qrupdate-ng** | 2:1.1.5 | A Library for Fast Updating of QR and Cholesky Decompositions. | https://github.com/mpimd-csc/qrupdate-ng |
 | **quick-lint-js** | 3.2.0-1 | Finds bugs in JavaScript programs | https://quick-lint-js.com/ |
-| **quickjs-ng** | 0.16.1 | Embeddable JavaScript engine in C (NG fork) | https://quickjs-ng.github.io/quickjs/ |
+| **quickjs-ng** | 0.16.2 | Embeddable JavaScript engine in C (NG fork) | https://quickjs-ng.github.io/quickjs/ |
 | **quilt** | 0.69 | Allows you to easily manage large numbers of patches | https://savannah.nongnu.org/projects/quilt |
 | **rabbitmq-server** | 4.3.5 | Feature rich, multi-protocol messaging and streaming broker | https://github.com/rabbitmq/rabbitmq-server |
 | **racket** | 9.3 | Full-spectrum programming language going beyond Lisp and Scheme | https://racket-lang.org |

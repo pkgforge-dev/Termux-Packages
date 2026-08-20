@@ -1191,7 +1191,7 @@
   Description: Roguelike adventure through dungeons filled with dangerous monsters
   Homepage: https://crawl.develz.org/
 - Package: croc
-  Version: 1:11.2.3
+  Version: 1:11.2.4
   Description: Easily and securely send things from one computer to another
   Homepage: https://github.com/schollz/croc
 - Package: cronie
@@ -3911,11 +3911,11 @@
   Description: POSIX 1003.1e capabilities
   Homepage: https://sites.google.com/site/fullycapable/
 - Package: libcap-ng
-  Version: 2:0.9.3
+  Version: 2:0.9.4
   Description: Library making programming with POSIX capabilities easier than traditional libcap
   Homepage: https://people.redhat.com/sgrubb/libcap-ng/
 - Package: libcap-ng-static
-  Version: 2:0.9.3
+  Version: 2:0.9.4
   Description: Static libraries for libcap-ng
   Homepage: https://people.redhat.com/sgrubb/libcap-ng/
 - Package: libcap-static
@@ -9103,7 +9103,7 @@
   Description: Finds bugs in JavaScript programs
   Homepage: https://quick-lint-js.com/
 - Package: quickjs-ng
-  Version: 0.16.1
+  Version: 0.16.2
   Description: Embeddable JavaScript engine in C (NG fork)
   Homepage: https://quickjs-ng.github.io/quickjs/
 - Package: quilt
