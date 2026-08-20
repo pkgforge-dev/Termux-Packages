@@ -715,7 +715,7 @@
 | **gtypist** | 2.10.1-1 | Universal typing tutor | https://www.gnu.org/software/gtypist/ |
 | **guile** | 3.0.11-1 | Portable, embeddable Scheme implementation written in C | http://www.gnu.org/software/guile/ |
 | **guile-static** | 3.0.11-1 | Static libraries for guile | http://www.gnu.org/software/guile/ |
-| **gum** | 0.17.0 | A tool for creating minimal interactive TUIs for shell scripts | https://github.com/charmbracelet/gum |
+| **gum** | 2.0.0 | A tool for creating minimal interactive TUIs for shell scripts | https://github.com/charmbracelet/gum |
 | **gumbo-parser** | 0.10.1-1 | An HTML5 parsing library | https://github.com/google/gumbo-parser |
 | **gumbo-parser-static** | 0.10.1-1 | Static libraries for gumbo-parser | https://github.com/google/gumbo-parser |
 | **gweather-locations** | 2026.2 | The GWeather locations database | https://gitlab.gnome.org/GNOME/gweather-locations |
@@ -1675,9 +1675,9 @@
 | **littlecms** | 2.19.1 | Color management library | http://www.littlecms.com/ |
 | **littlecms-static** | 2.19.1 | Static libraries for littlecms | http://www.littlecms.com/ |
 | **littlecms-utils** | 2.19.1 | Color management utilities | http://www.littlecms.com/ |
-| **llama-cpp** | 0.0.0-b10290-0 | LLM inference in C/C++ | https://github.com/ggml-org/llama.cpp |
-| **llama-cpp-backend-opencl** | 0.0.0-b10290-0 | OpenCL Backend for LLaMA.cpp | https://github.com/ggml-org/llama.cpp |
-| **llama-cpp-backend-vulkan** | 0.0.0-b10290-0 | Vulkan Backend for LLaMA.cpp | https://github.com/ggml-org/llama.cpp |
+| **llama-cpp** | 0.0.0-b10516-0 | LLM inference in C/C++ | https://github.com/ggml-org/llama.cpp |
+| **llama-cpp-backend-opencl** | 0.0.0-b10516-0 | OpenCL Backend for LLaMA.cpp | https://github.com/ggml-org/llama.cpp |
+| **llama-cpp-backend-vulkan** | 0.0.0-b10516-0 | Vulkan Backend for LLaMA.cpp | https://github.com/ggml-org/llama.cpp |
 | **llbuild** | 6.2.1 | A low-level build system, used by the Swift Package Manager | https://github.com/swiftlang/swift-llbuild |
 | **lld** | 21.1.8-3 | LLVM-based linker | https://clang.llvm.org/ |
 | **lldb** | 21.1.8-3 | LLVM-based debugger | https://clang.llvm.org/ |
@@ -2677,7 +2677,7 @@
 | **tsu** | 8.6.0-1 | A su wrapper for Termux | https://github.com/cswl/tsu |
 | **ttf-dejavu** | 2.37-8 | Font family based on the Bitstream Vera Fonts with a wider range of characters | https://dejavu-fonts.github.io/ |
 | **ttf-jetbrains-mono** | 2.304 | A free and open-source typeface for developers | https://www.jetbrains.com/lp/mono/ |
-| **ttf-nerd-fonts-symbols** | 3.4.0 | Symbols-only font containing the Nerd Font icons | https://www.nerdfonts.com/ |
+| **ttf-nerd-fonts-symbols** | 3.5.0 | Symbols-only font containing the Nerd Font icons | https://www.nerdfonts.com/ |
 | **tty-clock** | 2.3-2 | Simple terminal clock | https://github.com/xorg62/tty-clock |
 | **tty-solitaire** | 1.4.1-1 | Klondike solitaire game | https://github.com/mpereira/tty-solitaire |
 | **ttyc** | 0.4-4 | ttyd protocol client | https://github.com/Depau/ttyc |
@@ -2873,7 +2873,7 @@
 | **yoga** | 3.2.1 | Embeddable layout engine targeting web standards | https://www.yogalayout.dev/ |
 | **yosys** | 0.68 | A framework for RTL synthesis tools | https://yosyshq.net/yosys/ |
 | **youtubedr** | 2.10.6 | Download youtube video in Golang | https://github.com/kkdai/youtube |
-| **yq** | 4.53.4 | A lightweight and portable command-line YAML, JSON and XML processor | https://mikefarah.gitbook.io/yq/ |
+| **yq** | 4.53.6 | A lightweight and portable command-line YAML, JSON and XML processor | https://mikefarah.gitbook.io/yq/ |
 | **yt-dlp-ejs** | 0.8.0-1 | External JavaScript for yt-dlp supporting many runtimes | https://github.com/yt-dlp/ejs |
 | **ytfzf** | 2.6.2 | A POSIX script that helps you find Youtube videos (without API) | https://github.com/pystardust/ytfzf |
 | **ytui-music** | 2.0.0-beta-5 | Youtube client in terminal for music | https://github.com/sudipghimire533/ytui-music |
@@ -2883,7 +2883,7 @@
 | **z3** | 5.1.0 | Z3 is a theorem prover from Microsoft Research | https://github.com/Z3Prover/z3 |
 | **zbar** | 0.23.93-2 | Software suite for reading bar codes from various sources | https://github.com/mchehab/zbar |
 | **zbar-static** | 0.23.93-2 | Static libraries for zbar | https://github.com/mchehab/zbar |
-| **zellij** | 0.44.3 | A terminal workspace with batteries included | https://zellij.dev/ |
+| **zellij** | 0.45.0 | A terminal workspace with batteries included | https://zellij.dev/ |
 | **zeronet** | 0.7.1-9 | Decentralized websites using Bitcoin crypto and BitTorrent network | https://zeronet.io/ |
 | **zig** | 0.16.0 | General-purpose programming language and toolchain | https://ziglang.org |
 | **zile** | 2.6.4-3 | Lightweight clone of the Emacs text editor | https://www.gnu.org/software/zile/ |

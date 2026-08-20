@@ -4303,7 +4303,7 @@
   },
   {
     "Package": "gum",
-    "Version": "0.17.0",
+    "Version": "2.0.0",
     "Description": "A tool for creating minimal interactive TUIs for shell scripts",
     "Homepage": "https://github.com/charmbracelet/gum"
   },
@@ -10063,19 +10063,19 @@
   },
   {
     "Package": "llama-cpp",
-    "Version": "0.0.0-b10290-0",
+    "Version": "0.0.0-b10516-0",
     "Description": "LLM inference in C/C++",
     "Homepage": "https://github.com/ggml-org/llama.cpp"
   },
   {
     "Package": "llama-cpp-backend-opencl",
-    "Version": "0.0.0-b10290-0",
+    "Version": "0.0.0-b10516-0",
     "Description": "OpenCL Backend for LLaMA.cpp",
     "Homepage": "https://github.com/ggml-org/llama.cpp"
   },
   {
     "Package": "llama-cpp-backend-vulkan",
-    "Version": "0.0.0-b10290-0",
+    "Version": "0.0.0-b10516-0",
     "Description": "Vulkan Backend for LLaMA.cpp",
     "Homepage": "https://github.com/ggml-org/llama.cpp"
   },
@@ -16075,7 +16075,7 @@
   },
   {
     "Package": "ttf-nerd-fonts-symbols",
-    "Version": "3.4.0",
+    "Version": "3.5.0",
     "Description": "Symbols-only font containing the Nerd Font icons",
     "Homepage": "https://www.nerdfonts.com/"
   },
@@ -17251,7 +17251,7 @@
   },
   {
     "Package": "yq",
-    "Version": "4.53.4",
+    "Version": "4.53.6",
     "Description": "A lightweight and portable command-line YAML, JSON and XML processor",
     "Homepage": "https://mikefarah.gitbook.io/yq/"
   },
@@ -17311,7 +17311,7 @@
   },
   {
     "Package": "zellij",
-    "Version": "0.44.3",
+    "Version": "0.45.0",
     "Description": "A terminal workspace with batteries included",
     "Homepage": "https://zellij.dev/"
   },
