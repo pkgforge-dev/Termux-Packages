@@ -709,7 +709,7 @@
   },
   {
     "Package": "b3sum",
-    "Version": "1.8.6",
+    "Version": "1.8.7",
     "Description": "A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum",
     "Homepage": "https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum"
   },
@@ -1789,7 +1789,7 @@
   },
   {
     "Package": "croc",
-    "Version": "1:11.2.2",
+    "Version": "1:11.2.3",
     "Description": "Easily and securely send things from one computer to another",
     "Homepage": "https://github.com/schollz/croc"
   },
@@ -1927,13 +1927,13 @@
   },
   {
     "Package": "dar",
-    "Version": "2.8.5",
+    "Version": "2.8.6",
     "Description": "A full featured command-line backup tool, short for Disk ARchive",
     "Homepage": "http://dar.linux.free.fr/"
   },
   {
     "Package": "dar-static",
-    "Version": "2.8.5",
+    "Version": "2.8.6",
     "Description": "Static libraries for dar",
     "Homepage": "http://dar.linux.free.fr/"
   },
