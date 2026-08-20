@@ -469,10 +469,10 @@
 | **elvish** | 0.21.0-1 | A friendly and expressive Unix shell | https://github.com/elves/elvish |
 | **emacs** | 30.2-5 | Extensible, customizable text editor-and more | https://www.gnu.org/software/emacs/ |
 | **emmylua-ls** | 0.25.1 | Emmy Lua Language Server coded in Rust | https://github.com/EmmyLuaLs/emmylua-analyzer-rust |
-| **emscripten** | 6.0.6 | Emscripten: An LLVM-to-WebAssembly Compiler | https://emscripten.org |
-| **emscripten-binaryen** | 6.0.6 | Emscripten-compatible Binaryen | https://emscripten.org |
-| **emscripten-llvm** | 6.0.6 | Emscripten-compatible LLVM | https://emscripten.org |
-| **emscripten-tests-third-party** | 6.0.6 | Emscripten third party test suite files | https://emscripten.org |
+| **emscripten** | 6.0.7 | Emscripten: An LLVM-to-WebAssembly Compiler | https://emscripten.org |
+| **emscripten-binaryen** | 6.0.7 | Emscripten-compatible Binaryen | https://emscripten.org |
+| **emscripten-llvm** | 6.0.7 | Emscripten-compatible LLVM | https://emscripten.org |
+| **emscripten-tests-third-party** | 6.0.7 | Emscripten third party test suite files | https://emscripten.org |
 | **enblend** | 4.2.0p20161007-9 | A tool for compositing images using a Burt&Adelson multiresolution spline | https://enblend.sourceforge.net/ |
 | **enchant** | 2.8.19-1 | Wraps a number of different spelling libraries and programs with a consistent interface | https://rrthomas.github.io/enchant/ |
 | **enchant-static** | 2.8.19-1 | Static libraries for enchant | https://rrthomas.github.io/enchant/ |
