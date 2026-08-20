@@ -2119,7 +2119,7 @@
   Description: Software synthesizer based on the SoundFont 2 specifications
   Homepage: https://github.com/FluidSynth/fluidsynth
 - Package: flyctl
-  Version: 0.4.85
+  Version: 0.4.86
   Description: Command line tools for fly.io services
   Homepage: https://fly.io
 - Package: fm
@@ -2747,7 +2747,7 @@
   Description: GPS file conversion plus transfer to/from GPS units
   Homepage: https://www.gpsbabel.org/
 - Package: gradle
-  Version: 1:9.7.0
+  Version: 1:9.7.1
   Description: Powerful build system for the JVM
   Homepage: https://gradle.org/
 - Package: grafana
@@ -3327,7 +3327,7 @@
   Description: A free media system for organizing and streaming media (server)
   Homepage: https://jellyfin.org
 - Package: jfrog-cli
-  Version: 2.120.0
+  Version: 2.121.0
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -5355,11 +5355,11 @@
   Description: Application-Level Forward Erasure Correction implementation library
   Homepage: http://openfec.org
 - Package: libopenmpt
-  Version: 0.8.8
+  Version: 0.8.9
   Description: Library to render tracker music formats to a PCM audio stream
   Homepage: https://lib.openmpt.org/libopenmpt/
 - Package: libopenmpt-static
-  Version: 0.8.8
+  Version: 0.8.9
   Description: Static libraries for libopenmpt
   Homepage: https://lib.openmpt.org/libopenmpt/
 - Package: libopus
@@ -6891,7 +6891,7 @@
   Description: Static libraries for lua55
   Homepage: https://www.lua.org/
 - Package: luajit
-  Version: 1:2.1.1787156470+g21ecb36
+  Version: 1:2.1.1787165859+g1ee778a
   Description: Just-In-Time Compiler for Lua
   Homepage: https://luajit.org/
 - Package: luajit-lgi
@@ -6899,7 +6899,7 @@
   Description: Dynamic Lua binding to GObject libraries using GObject-Introspection
   Homepage: https://github.com/lgi-devs/lgi
 - Package: luajit-static
-  Version: 1:2.1.1787156470+g21ecb36
+  Version: 1:2.1.1787165859+g1ee778a
   Description: Static libraries for luajit
   Homepage: https://luajit.org/
 - Package: luarocks
@@ -7743,7 +7743,7 @@
   Description: Newsraft is a feed reader with text-based user interface
   Homepage: https://codeberg.org/newsraft/newsraft
 - Package: nginx
-  Version: 1.31.3
+  Version: 1.31.4
   Description: Lightweight HTTP server
   Homepage: https://www.nginx.org
 - Package: ngircd
@@ -8079,7 +8079,7 @@
   Description: Static libraries for openmpi
   Homepage: https://www.open-mpi.org
 - Package: openmpt123
-  Version: 0.8.8
+  Version: 0.8.9
   Description: libopenmpt based command-line player for tracker music formats
   Homepage: https://lib.openmpt.org/libopenmpt/
 - Package: openpgl

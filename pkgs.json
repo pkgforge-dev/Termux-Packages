@@ -3181,7 +3181,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.4.85",
+    "Version": "0.4.86",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -4123,7 +4123,7 @@
   },
   {
     "Package": "gradle",
-    "Version": "1:9.7.0",
+    "Version": "1:9.7.1",
     "Description": "Powerful build system for the JVM",
     "Homepage": "https://gradle.org/"
   },
@@ -4993,7 +4993,7 @@
   },
   {
     "Package": "jfrog-cli",
-    "Version": "2.120.0",
+    "Version": "2.121.0",
     "Description": "A CLI for JFrog products",
     "Homepage": "https://jfrog.com/getcli"
   },
@@ -8035,13 +8035,13 @@
   },
   {
     "Package": "libopenmpt",
-    "Version": "0.8.8",
+    "Version": "0.8.9",
     "Description": "Library to render tracker music formats to a PCM audio stream",
     "Homepage": "https://lib.openmpt.org/libopenmpt/"
   },
   {
     "Package": "libopenmpt-static",
-    "Version": "0.8.8",
+    "Version": "0.8.9",
     "Description": "Static libraries for libopenmpt",
     "Homepage": "https://lib.openmpt.org/libopenmpt/"
   },
@@ -10339,7 +10339,7 @@
   },
   {
     "Package": "luajit",
-    "Version": "1:2.1.1787156470+g21ecb36",
+    "Version": "1:2.1.1787165859+g1ee778a",
     "Description": "Just-In-Time Compiler for Lua",
     "Homepage": "https://luajit.org/"
   },
@@ -10351,7 +10351,7 @@
   },
   {
     "Package": "luajit-static",
-    "Version": "1:2.1.1787156470+g21ecb36",
+    "Version": "1:2.1.1787165859+g1ee778a",
     "Description": "Static libraries for luajit",
     "Homepage": "https://luajit.org/"
   },
@@ -11617,7 +11617,7 @@
   },
   {
     "Package": "nginx",
-    "Version": "1.31.3",
+    "Version": "1.31.4",
     "Description": "Lightweight HTTP server",
     "Homepage": "https://www.nginx.org"
   },
@@ -12121,7 +12121,7 @@
   },
   {
     "Package": "openmpt123",
-    "Version": "0.8.8",
+    "Version": "0.8.9",
     "Description": "libopenmpt based command-line player for tracker music formats",
     "Homepage": "https://lib.openmpt.org/libopenmpt/"
   },

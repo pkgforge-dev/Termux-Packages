@@ -540,7 +540,7 @@
 | **flex-static** | 2.6.4-5 | Static libraries for flex | https://github.com/westes/flex |
 | **flint** | 3.6.0 | C library for doing number theory | http://www.flintlib.org |
 | **fluidsynth** | 2.6.0 | Software synthesizer based on the SoundFont 2 specifications | https://github.com/FluidSynth/fluidsynth |
-| **flyctl** | 0.4.85 | Command line tools for fly.io services | https://fly.io |
+| **flyctl** | 0.4.86 | Command line tools for fly.io services | https://fly.io |
 | **fm** | 1.2.0 | A terminal based file manager | https://github.com/knipferrc/fm |
 | **fmt** | 1:11.2.0 | Open-source formatting library for C++ | https://fmt.dev/latest/index.html |
 | **fontconfig** | 2.18.3 | Library for configuring and customizing font access | https://www.freedesktop.org/wiki/Software/fontconfig/ |
@@ -697,7 +697,7 @@
 | **gpgv** | 2.5.17 | GNU privacy guard - signature verification tool | https://www.gnupg.org/ |
 | **gping** | 1.20.4 | Ping, but with a graph | https://github.com/orf/gping |
 | **gpsbabel** | 1.4.4-3 | GPS file conversion plus transfer to/from GPS units | https://www.gpsbabel.org/ |
-| **gradle** | 1:9.7.0 | Powerful build system for the JVM | https://gradle.org/ |
+| **gradle** | 1:9.7.1 | Powerful build system for the JVM | https://gradle.org/ |
 | **grafana** | 1:12.3.3-1 | The open-source platform for monitoring and observability | https://grafana.com/ |
 | **grap** | 1.49 | Language for typesetting graphs | https://www.lunabase.org/~faber/Vault/software/grap/ |
 | **graphene** | 1.10.8-3 | A thin layer of graphic data types | https://ebassi.github.io/graphene/ |
@@ -842,7 +842,7 @@
 | **jcal-static** | 0.5.1-1 | Static libraries for jcal | http://nongnu.org/jcal |
 | **jellyfin-ffmpeg** | 10.11.11-2 | FFmpeg for Jellyfin with custom extensions and enhancements | https://jellyfin.org |
 | **jellyfin-server** | 10.11.11-2 | A free media system for organizing and streaming media (server) | https://jellyfin.org |
-| **jfrog-cli** | 2.120.0 | A CLI for JFrog products | https://jfrog.com/getcli |
+| **jfrog-cli** | 2.121.0 | A CLI for JFrog products | https://jfrog.com/getcli |
 | **jftui** | 0.7.5 | jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server. | https://github.com/Aanok/jftui |
 | **jhead** | 3.08-1 | Exif Jpeg header manipulation tool | http://www.sentex.net/~mwandel/jhead/ |
 | **jigdo** | 0.8.2-1 | Distribute large images by sending and receiving the files that make them up | http://atterer.org/jigdo/ |
@@ -1349,8 +1349,8 @@
 | **libopencore-amr** | 0.1.6-1 | Open source implementation of the Adaptive Multi Rate (AMR) speech codec | https://sourceforge.net/projects/opencore-amr/ |
 | **libopencore-amr-static** | 0.1.6-1 | Static libraries for libopencore-amr | https://sourceforge.net/projects/opencore-amr/ |
 | **libopenfec** | 1.4.2.12-1 | Application-Level Forward Erasure Correction implementation library | http://openfec.org |
-| **libopenmpt** | 0.8.8 | Library to render tracker music formats to a PCM audio stream | https://lib.openmpt.org/libopenmpt/ |
-| **libopenmpt-static** | 0.8.8 | Static libraries for libopenmpt | https://lib.openmpt.org/libopenmpt/ |
+| **libopenmpt** | 0.8.9 | Library to render tracker music formats to a PCM audio stream | https://lib.openmpt.org/libopenmpt/ |
+| **libopenmpt-static** | 0.8.9 | Static libraries for libopenmpt | https://lib.openmpt.org/libopenmpt/ |
 | **libopus** | 1.6.1 | Reference implementation of the Opus codec | https://www.opus-codec.org/ |
 | **libopus-static** | 1.6.1 | Static libraries for libopus | https://www.opus-codec.org/ |
 | **libopusenc** | 0.2.1-4 | High-level API for encoding .opus files | https://github.com/xiph/libopusenc |
@@ -1733,9 +1733,9 @@
 | **lua54-static** | 5.4.8-10 | Static libraries for lua54 | https://www.lua.org/ |
 | **lua55** | 5.5.1-1 | Lua scripting language 5.5.x | https://www.lua.org/ |
 | **lua55-static** | 5.5.1-1 | Static libraries for lua55 | https://www.lua.org/ |
-| **luajit** | 1:2.1.1787156470+g21ecb36 | Just-In-Time Compiler for Lua | https://luajit.org/ |
+| **luajit** | 1:2.1.1787165859+g1ee778a | Just-In-Time Compiler for Lua | https://luajit.org/ |
 | **luajit-lgi** | 0.9.2+p20251219-3 | Dynamic Lua binding to GObject libraries using GObject-Introspection | https://github.com/lgi-devs/lgi |
-| **luajit-static** | 1:2.1.1787156470+g21ecb36 | Static libraries for luajit | https://luajit.org/ |
+| **luajit-static** | 1:2.1.1787165859+g1ee778a | Static libraries for luajit | https://luajit.org/ |
 | **luarocks** | 3.13.0-1 | Deployment and management system for Lua modules | https://luarocks.org/ |
 | **luau** | 0.734-2 | A small, fast, and embeddable programming language based on Lua with a gradual type system. | https://github.com/luau-lang/luau |
 | **lunasvg** | 3.5.0-1 | SVG rendering and manipulation library in C++ | https://github.com/sammycage/lunasvg |
@@ -1946,7 +1946,7 @@
 | **nettle** | 4.0+really3.10.2 | Low level cryptographic tools | https://www.lysator.liu.se/~nisse/nettle/ |
 | **newsboat** | 2.44 | RSS/Atom feed reader for the text console | https://newsboat.org/ |
 | **newsraft** | 0.37 | Newsraft is a feed reader with text-based user interface | https://codeberg.org/newsraft/newsraft |
-| **nginx** | 1.31.3 | Lightweight HTTP server | https://www.nginx.org |
+| **nginx** | 1.31.4 | Lightweight HTTP server | https://www.nginx.org |
 | **ngircd** | 28 | Free, portable and lightweight Internet Relay Chat server | https://ngircd.barton.de/ |
 | **ngspice** | 47 | A mixed-level/mixed-signal circuit simulator | https://ngspice.sourceforge.net/ |
 | **nim** | 2.2.6 | Nim programming language compiler | https://nim-lang.org/ |
@@ -2030,7 +2030,7 @@
 | **openlist** | 4.2.5-1 | A file list program that supports multiple storage | https://oplist.org/ |
 | **openmpi** | 4.1.5-1 | Open source Message Passing Interface implementation | https://www.open-mpi.org |
 | **openmpi-static** | 4.1.5-1 | Static libraries for openmpi | https://www.open-mpi.org |
-| **openmpt123** | 0.8.8 | libopenmpt based command-line player for tracker music formats | https://lib.openmpt.org/libopenmpt/ |
+| **openmpt123** | 0.8.9 | libopenmpt based command-line player for tracker music formats | https://lib.openmpt.org/libopenmpt/ |
 | **openpgl** | 0.7.1-1 | Intel(R) Open Path Guiding Library | http://www.openpgl.org/ |
 | **opensc** | 0.27.1 | Open source smart card tools and middleware | https://github.com/OpenSC/OpenSC |
 | **opensc-static** | 0.27.1 | Static libraries for opensc | https://github.com/OpenSC/OpenSC |
