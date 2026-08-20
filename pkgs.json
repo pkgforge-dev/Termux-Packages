@@ -2755,25 +2755,25 @@
   },
   {
     "Package": "emscripten",
-    "Version": "6.0.7",
+    "Version": "6.0.8",
     "Description": "Emscripten: An LLVM-to-WebAssembly Compiler",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-binaryen",
-    "Version": "6.0.7",
+    "Version": "6.0.8",
     "Description": "Emscripten-compatible Binaryen",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-llvm",
-    "Version": "6.0.7",
+    "Version": "6.0.8",
     "Description": "Emscripten-compatible LLVM",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-tests-third-party",
-    "Version": "6.0.7",
+    "Version": "6.0.8",
     "Description": "Emscripten third party test suite files",
     "Homepage": "https://emscripten.org"
   },
@@ -10963,7 +10963,7 @@
   },
   {
     "Package": "mise",
-    "Version": "2026.8.9-1",
+    "Version": "2026.8.10",
     "Description": "dev tools, env vars, task runner",
     "Homepage": "https://mise.jdx.dev/"
   },
@@ -13351,7 +13351,7 @@
   },
   {
     "Package": "python-ruff",
-    "Version": "0.16.3",
+    "Version": "0.16.4",
     "Description": "An extremely fast Python linter, written in Rust (Python bindings)",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -14155,7 +14155,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.16.3",
+    "Version": "0.16.4",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -17377,7 +17377,7 @@
   },
   {
     "Package": "zola",
-    "Version": "0.23.3",
+    "Version": "0.23.4",
     "Description": "A fast static site generator in a single binary with everything built-in.",
     "Homepage": "https://github.com/getzola/zola"
   },
