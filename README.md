@@ -320,7 +320,7 @@
 | **csview** | 1.3.4-1 | Pretty-printing CSV/TSV/xSV on terminal | https://github.com/wfxr/csview |
 | **ctags** | 2:6.2.1 | Universal ctags: Source code index builder | https://ctags.io/ |
 | **ctranslate2** | 4.8.1-1 | A fast inference engine for Transformer models | https://github.com/OpenNMT/CTranslate2 |
-| **ctypes-sh** | 1.2-2 | A foreign function interface for bash | https://github.com/taviso/ctypes.sh |
+| **ctypes-sh** | 1.3 | A foreign function interface for bash | https://github.com/taviso/ctypes.sh |
 | **cuetools** | 1.4.1-1 | A set of utilities for working with Cue Sheet (cue) and Table of Contents (toc) files | https://github.com/svend/cuetools |
 | **cups** | 2.4.19 | Common UNIX Printing System | https://www.cups.org/ |
 | **cups-pdf** | 3.0.1-3 | CUPS PDF backend | https://www.cups-pdf.de/ |
