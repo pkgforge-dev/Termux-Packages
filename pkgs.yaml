@@ -571,7 +571,7 @@
   Description: An Binwalk firmware analysis tool.
   Homepage: https://github.com/ReFirmLabs/binwalk
 - Package: biome2
-  Version: 2.5.9
+  Version: 2.5.10
   Description: A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP
   Homepage: https://biomejs.dev/
 - Package: bison
@@ -1411,7 +1411,7 @@
   Description: Monitor of events in file system directories
   Homepage: https://www.gnu.org.ua/software/direvent/
 - Package: discordo
-  Version: 2026.08.07+g89513df8
+  Version: 2026.08.21+gfd794299
   Description: A lightweight, secure, and feature-rich Discord terminal client
   Homepage: https://github.com/ayn2op/discordo
 - Package: discount
@@ -2035,7 +2035,7 @@
   Description: A simple file manager written in bash
   Homepage: https://github.com/dylanaraps/fff
 - Package: ffmpeg
-  Version: 8.1.2-4
+  Version: 8.1.2-5
   Description: Tools and libraries to manipulate a wide range of multimedia formats and protocols
   Homepage: https://ffmpeg.org
 - Package: ffmpegthumbnailer
@@ -10715,7 +10715,7 @@
   Description: A free and open-source typeface for developers
   Homepage: https://www.jetbrains.com/lp/mono/
 - Package: ttf-nerd-fonts-symbols
-  Version: 3.5.0
+  Version: 3.5.1
   Description: Symbols-only font containing the Nerd Font icons
   Homepage: https://www.nerdfonts.com/
 - Package: tty-clock
@@ -10955,7 +10955,7 @@
   Description: uWSGI application server container
   Homepage: https://projects.unbit.it/uwsgi
 - Package: v2ray
-  Version: 5.52.0
+  Version: 5.53.0
   Description: A platform for building proxies to bypass network restrictions
   Homepage: https://www.v2fly.org/
 - Package: valac

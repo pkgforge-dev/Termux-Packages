@@ -141,7 +141,7 @@
  binutils  2.47  A GNU collection of binary utilities  https://www.gnu.org/software/binutils/ 
  binutils-cross  2.47  GNU Binutils for cross build on the host (NOT for Termux)  https://www.gnu.org/software/binutils/ 
  binwalk  3.1.0  An Binwalk firmware analysis tool.  https://github.com/ReFirmLabs/binwalk 
- biome2  2.5.9  A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP  https://biomejs.dev/ 
+ biome2  2.5.10  A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP  https://biomejs.dev/ 
  bison  3.8.2-4  General-purpose parser generator  https://www.gnu.org/software/bison/ 
  bison-static  3.8.2-4  Static libraries for bison  https://www.gnu.org/software/bison/ 
  bitcoin  31.1-1  Bitcoin Core  https://bitcoincore.org/ 
@@ -351,7 +351,7 @@
  dirb  2.22-5  Web Directory Fuzzer  https://dirb.sourceforge.net/ 
  direnv  2.37.1-1  Environment switcher for shell  https://github.com/direnv/direnv 
  direvent  5.5  Monitor of events in file system directories  https://www.gnu.org.ua/software/direvent/ 
- discordo  2026.08.07+g89513df8  A lightweight, secure, and feature-rich Discord terminal client  https://github.com/ayn2op/discordo 
+ discordo  2026.08.21+gfd794299  A lightweight, secure, and feature-rich Discord terminal client  https://github.com/ayn2op/discordo 
  discount  3.0.1.3  Markdown implementation written in C  https://www.pell.portland.or.us/~orc/Code/discount/ 
  diskus  0.9.0  A minimal, fast alternative to 'du -sh'  https://github.com/sharkdp/diskus 
  distant  1:0.20.0-3  Library and tooling that supports remote filesystem and process  https://github.com/chipsenkbeil/distant 
@@ -507,7 +507,7 @@
  fetchmail  6.6.6-1  A remote-mail retrieval utility  https://www.fetchmail.info/ 
  fetchmailconf  6.6.6-1  A GUI configurator for generating fetchmail configuration files  https://www.fetchmail.info/ 
  fff  2.2  A simple file manager written in bash  https://github.com/dylanaraps/fff 
- ffmpeg  8.1.2-4  Tools and libraries to manipulate a wide range of multimedia formats and protocols  https://ffmpeg.org 
+ ffmpeg  8.1.2-5  Tools and libraries to manipulate a wide range of multimedia formats and protocols  https://ffmpeg.org 
  ffmpegthumbnailer  2.3.0  Lightweight video thumbnailer that can be used by file managers  https://github.com/dirkvdb/ffmpegthumbnailer 
  ffsend  0.2.77-2  A fully featured Firefox Send client  https://gitlab.com/timvisee/ffsend 
  fftw  3.3.11  Library for computing the Discrete Fourier Transform (DFT) in one or more dimensions  http://www.fftw.org/ 
@@ -2677,7 +2677,7 @@
  tsu  8.6.0-1  A su wrapper for Termux  https://github.com/cswl/tsu 
  ttf-dejavu  2.37-8  Font family based on the Bitstream Vera Fonts with a wider range of characters  https://dejavu-fonts.github.io/ 
  ttf-jetbrains-mono  2.304  A free and open-source typeface for developers  https://www.jetbrains.com/lp/mono/ 
- ttf-nerd-fonts-symbols  3.5.0  Symbols-only font containing the Nerd Font icons  https://www.nerdfonts.com/ 
+ ttf-nerd-fonts-symbols  3.5.1  Symbols-only font containing the Nerd Font icons  https://www.nerdfonts.com/ 
  tty-clock  2.3-2  Simple terminal clock  https://github.com/xorg62/tty-clock 
  tty-solitaire  1.4.1-1  Klondike solitaire game  https://github.com/mpereira/tty-solitaire 
  ttyc  0.4-4  ttyd protocol client  https://github.com/Depau/ttyc 
@@ -2737,7 +2737,7 @@
  uuid-utils  2.42.1-4  Utilities for handling universally unique identifiers  https://en.wikipedia.org/wiki/Util-linux 
  uv  0.12.5  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
  uwsgi  2.0.31-2  uWSGI application server container  https://projects.unbit.it/uwsgi 
- v2ray  5.52.0  A platform for building proxies to bypass network restrictions  https://www.v2fly.org/ 
+ v2ray  5.53.0  A platform for building proxies to bypass network restrictions  https://www.v2fly.org/ 
  valac  0.56.19  C# like language for the GObject system  https://wiki.gnome.org/Projects/Vala 
  valac-static  0.56.19  Static libraries for valac  https://wiki.gnome.org/Projects/Vala 
  valadoc  0.56.19  API documentation generator for vala  https://wiki.gnome.org/Projects/Vala 
