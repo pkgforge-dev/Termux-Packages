@@ -1913,7 +1913,7 @@
 | **ncmpcpp** | 0.10.1-9 | NCurses Music Player Client (Plus Plus) | https://rybczak.net/ncmpcpp/ |
 | **ncompress** | 5.0-1 | The classic unix compression utility which can handle the ancient .Z archive | https://github.com/vapier/ncompress |
 | **ncpamixer** | 1.3.11 | An ncurses mixer for PulseAudio | https://github.com/fulhax/ncpamixer |
-| **ncspot** | 1.3.4 | An ncurses Spotify client written in Rust | https://github.com/hrkfdn/ncspot |
+| **ncspot** | 1.4.0 | An ncurses Spotify client written in Rust | https://github.com/hrkfdn/ncspot |
 | **ncurses** | 6.6.20260307+really6.5.20250830 | Library for text-based user interfaces in a terminal-independent manner | https://invisible-island.net/ncurses/ |
 | **ncurses-static** | 6.6.20260307+really6.5.20250830 | Static libraries for ncurses | https://invisible-island.net/ncurses/ |
 | **ncurses-ui-libs** | 6.6.20260307+really6.5.20250830 | Libraries for terminal user interfaces based on ncurses | https://invisible-island.net/ncurses/ |
