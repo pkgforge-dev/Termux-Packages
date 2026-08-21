@@ -2119,7 +2119,7 @@
   Description: Software synthesizer based on the SoundFont 2 specifications
   Homepage: https://github.com/FluidSynth/fluidsynth
 - Package: flyctl
-  Version: 0.4.86
+  Version: 0.4.87
   Description: Command line tools for fly.io services
   Homepage: https://fly.io
 - Package: fm
@@ -2191,7 +2191,7 @@
   Description: Minimalistic plugin API for video effects
   Homepage: https://www.dyne.org/software/frei0r/
 - Package: fresh-editor
-  Version: 0.4.9
+  Version: 0.4.10
   Description: 'Text editor for your terminal: easy, powerful and fast'
   Homepage: https://getfresh.dev/
 - Package: fribidi
@@ -2395,7 +2395,7 @@
   Description: The Forth implementation of the GNU project
   Homepage: https://www.gnu.org/software/gforth/
 - Package: gh
-  Version: 2.97.0
+  Version: 2.98.0
   Description: GitHub’s official command line tool
   Homepage: https://cli.github.com/
 - Package: ghc
@@ -9375,7 +9375,7 @@
   Description: A tool for doing record analysis and transformation
   Homepage: https://github.com/dflemstr/rq
 - Package: rqbit
-  Version: 9.0.0-1
+  Version: 9.0.1
   Description: A bittorrent command line client and server
   Homepage: https://github.com/ikatson/rqbit
 - Package: rsgain
@@ -10975,7 +10975,7 @@
   Description: Static libraries for valadoc
   Homepage: https://wiki.gnome.org/Projects/Vala
 - Package: vale
-  Version: 3.17.1
+  Version: 3.18.0
   Description: A syntax-aware linter for prose built with speed and extensibility in mind
   Homepage: https://vale.sh
 - Package: valkey
