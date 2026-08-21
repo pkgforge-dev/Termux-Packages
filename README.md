@@ -453,7 +453,7 @@
 | **e2tools** | 0.1.2-1 | mtools analogue for ext2/3 filesystems | https://github.com/e2tools/e2tools |
 | **ebook-tools** | 0.2.2-3 | Tools for accessing and converting various ebook file formats | https://sourceforge.net/projects/ebook-tools/ |
 | **ecj** | 1:4.12-5 | Eclipse Compiler for Java | https://www.eclipse.org/jdt/core/ |
-| **ed** | 1.22.5 | Classic UNIX line editor | https://www.gnu.org/software/ed/ |
+| **ed** | 1.22.6 | Classic UNIX line editor | https://www.gnu.org/software/ed/ |
 | **edbrowse** | 3.8.18 | Line based editor, browser, and mail client | https://edbrowse.org/ |
 | **editorconfig-core-c** | 0.12.11 | EditorConfig core code written in C (for use by plugins supporting EditorConfig parsing) | https://editorconfig.org/ |
 | **editorconfig-core-c-static** | 0.12.11 | Static libraries for editorconfig-core-c | https://editorconfig.org/ |
@@ -988,8 +988,8 @@
 | **libcairomm-1.0** | 1.14.6 | Provides a C++ interface to cairo | https://www.cairographics.org/cairomm/ |
 | **libcairomm-1.16** | 1.18.1 | Provides a C++ interface to cairo | https://www.cairographics.org/cairomm/ |
 | **libcap** | 2.69-1 | POSIX 1003.1e capabilities | https://sites.google.com/site/fullycapable/ |
-| **libcap-ng** | 2:0.9.4 | Library making programming with POSIX capabilities easier than traditional libcap | https://people.redhat.com/sgrubb/libcap-ng/ |
-| **libcap-ng-static** | 2:0.9.4 | Static libraries for libcap-ng | https://people.redhat.com/sgrubb/libcap-ng/ |
+| **libcap-ng** | 2:0.9.5 | Library making programming with POSIX capabilities easier than traditional libcap | https://people.redhat.com/sgrubb/libcap-ng/ |
+| **libcap-ng-static** | 2:0.9.5 | Static libraries for libcap-ng | https://people.redhat.com/sgrubb/libcap-ng/ |
 | **libcap-static** | 2.69-1 | Static libraries for libcap | https://sites.google.com/site/fullycapable/ |
 | **libccd** | 2.1-2 | Library for collision detection between two convex shapes | https://github.com/danfis/libccd |
 | **libcddb** | 1.3.2-1 | A C library to access data on a CDDB server | https://libcddb.sourceforge.net/ |
