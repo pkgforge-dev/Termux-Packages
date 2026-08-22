@@ -1765,8 +1765,8 @@
 | **manim** | 0.21.0-1 | A community-maintained Python framework for creating mathematical animations | https://manim.community |
 | **manpages** | 6.18 | Man pages for linux kernel and C library interfaces | https://www.kernel.org/doc/man-pages/ |
 | **mapserver** | 8.2.2-4 | MapServer is CGI-based platform for publishing spatial data and interactive mapping applications to the web | https://mapserver.org/ |
-| **mariadb** | 2:12.3.2 | A drop-in replacement for mysql server | https://mariadb.org |
-| **mariadb-static** | 2:12.3.2 | Static libraries for mariadb | https://mariadb.org |
+| **mariadb** | 2:12.3.3 | A drop-in replacement for mysql server | https://mariadb.org |
+| **mariadb-static** | 2:12.3.3 | Static libraries for mariadb | https://mariadb.org |
 | **marisa** | 0.3.1-1 | Matching Algorithm with Recursively Implemented StorAge | https://github.com/s-yata/marisa-trie |
 | **markdown-flashcards** | 2.0.1 | Small CLI app to learn with flashcards and spaced repetition | https://github.com/bttger/markdown-flashcards |
 | **marksman** | 2026.02.08 | LSP language server for editing Markdown files | https://github.com/artempyanykh/marksman |
@@ -2806,7 +2806,7 @@
 | **wasmedge** | 0.17.1 | A lightweight, high-performance, and extensible WebAssembly runtime | https://wasmedge.org/ |
 | **wasmer** | 7.1.0 | A fast and secure WebAssembly runtime | https://wasmer.io/ |
 | **wasmtime** | 46.0.1-1 | A standalone runtime for WebAssembly | https://wasmtime.dev/ |
-| **watchexec** | 2.5.1 | Executes commands in response to file modifications | https://github.com/watchexec/watchexec |
+| **watchexec** | 2.6.1 | Executes commands in response to file modifications | https://github.com/watchexec/watchexec |
 | **wavpack** | 5.9.0 | WavPack command-line programs | https://www.wavpack.com/ |
 | **waypipe** | 0.11.1 | A proxy for Wayland clients | https://gitlab.freedesktop.org/mstoeckl/waypipe |
 | **wcalc** | 2.5-6 | Capable calculator | https://w-calc.sourceforge.net |
