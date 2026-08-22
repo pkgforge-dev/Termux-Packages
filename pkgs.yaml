@@ -1191,7 +1191,7 @@
   Description: Roguelike adventure through dungeons filled with dangerous monsters
   Homepage: https://crawl.develz.org/
 - Package: croc
-  Version: 1:11.2.4
+  Version: 1:11.2.5
   Description: Easily and securely send things from one computer to another
   Homepage: https://github.com/schollz/croc
 - Package: cronie
@@ -4935,7 +4935,7 @@
   Description: Enables C++ applications to establish client connections to MariaDB Enterprise over TLS
   Homepage: https://mariadb.com/docs/clients/mariadb-connectors/connector-cpp/
 - Package: libmatio
-  Version: 1.5.30
+  Version: 1.6.0
   Description: A C library for reading and writing Matlab MAT files
   Homepage: https://github.com/tbeu/matio
 - Package: libmatroska
@@ -7675,7 +7675,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-1367+g40740f49f8-0
+  Version: 0.13.0~dev-1376+g6423657352-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
