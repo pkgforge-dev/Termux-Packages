@@ -2163,7 +2163,7 @@
 | **progress** | 0.17-1 | Linux tool to show progress for cp, mv, dd and more | https://github.com/Xfennec/progress |
 | **proj** | 9.8.1 | Generic coordinate transformation software | https://proj.org |
 | **proot** | 5.1.107.91 | Emulate chroot, bind mount and binfmt_misc for non-root users | https://proot-me.github.io/ |
-| **proot-distro** | 5.7.0 | Termux official utility for managing proot'ed Linux distributions | https://github.com/termux/proot-distro |
+| **proot-distro** | 5.8.0 | Termux official utility for managing proot'ed Linux distributions | https://github.com/termux/proot-distro |
 | **protobuf** | 2:35.1 | Compiler for protocol buffer definition files | https://github.com/protocolbuffers/protobuf |
 | **proton-bridge** | 3.25.0 | ProtonMail Bridge application | https://github.com/ProtonMail/proton-bridge |
 | **proton-pass-cli** | 2.3.2-1 | Proton Pass Command Line Interface (CLI) | https://protonpass.github.io/pass-cli/ |
@@ -2314,7 +2314,7 @@
 | **redir** | 3.3-3 | TCP port redirector for UNIX | https://github.com/troglobit/redir |
 | **redis** | 1:8.8.1-1 | In-memory data structure store used as a database, cache and message broker | https://redis.io/ |
 | **redland** | 1.0.17-1 | Library that provides a high-level interface to RDF data | http://librdf.org/ |
-| **remind** | 1:06.02.10 | Sophisticated calendar and alarm program | https://dianne.skoll.ca/projects/remind/ |
+| **remind** | 1:06.03.00 | Sophisticated calendar and alarm program | https://dianne.skoll.ca/projects/remind/ |
 | **renameutils** | 0.12.0-3 | A set of programs designed to make renaming of files faster and less cumbersome | https://www.nongnu.org/renameutils/ |
 | **reptyr** | 0.10.0-1 | Tool for reparenting a running program to a new terminal | https://github.com/nelhage/reptyr |
 | **resolv-conf** | 1.3 | Resolver configuration file | https://man7.org/linux/man-pages/man5/resolv.conf.5.html |
