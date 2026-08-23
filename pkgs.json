@@ -1033,7 +1033,7 @@
   },
   {
     "Package": "broot",
-    "Version": "1.58.0",
+    "Version": "1.59.0",
     "Description": "A better way to navigate directories",
     "Homepage": "https://github.com/Canop/broot"
   },
@@ -3721,7 +3721,7 @@
   },
   {
     "Package": "gitoxide",
-    "Version": "0.56.0",
+    "Version": "0.57.0",
     "Description": "Rust implementation of Git",
     "Homepage": "https://github.com/GitoxideLabs/gitoxide"
   },
@@ -6169,13 +6169,13 @@
   },
   {
     "Package": "libdeflate",
-    "Version": "1.25",
+    "Version": "1.26",
     "Description": "C library for fast compression and decompression",
     "Homepage": "https://github.com/ebiggers/libdeflate"
   },
   {
     "Package": "libdeflate-static",
-    "Version": "1.25",
+    "Version": "1.26",
     "Description": "Static libraries for libdeflate",
     "Homepage": "https://github.com/ebiggers/libdeflate"
   },
@@ -8011,7 +8011,7 @@
   },
   {
     "Package": "libopencc",
-    "Version": "1.4.1",
+    "Version": "1.4.2",
     "Description": "An opensource project for conversions between Traditional Chinese, Simplified Chinese and Japanese Kanji (Shinjitai)",
     "Homepage": "https://github.com/BYVoid/OpenCC"
   },
@@ -11515,7 +11515,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-1376+g6423657352-0",
+    "Version": "0.13.0~dev-1387+g9b0bc7edef-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -11971,7 +11971,7 @@
   },
   {
     "Package": "opencc-tools",
-    "Version": "1.4.1",
+    "Version": "1.4.2",
     "Description": "Command-line tools for OpenCC",
     "Homepage": "https://github.com/BYVoid/OpenCC"
   },
@@ -12985,7 +12985,7 @@
   },
   {
     "Package": "proot",
-    "Version": "5.1.107.91",
+    "Version": "5.1.107.92",
     "Description": "Emulate chroot, bind mount and binfmt_misc for non-root users",
     "Homepage": "https://proot-me.github.io/"
   },
